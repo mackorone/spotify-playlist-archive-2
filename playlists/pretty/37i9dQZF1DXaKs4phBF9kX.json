@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 1980s.",
-  "num_followers": 98288,
+  "num_followers": 98302,
   "original_name": "80s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-07-12 14:55:35",
       "album": {
-        "name": "American Fool",
-        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 218960,
-      "name": "Hurts So Good",
-      "url": "https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM"
-    },
-    {
-      "added_at": "2024-07-12 14:55:35",
-      "album": {
         "name": "New Jersey (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 346586,
       "name": "I'll Be There For You",
       "url": "https://open.spotify.com/track/07HqIg8BnB1lJElnw2ZiSR"
+    },
+    {
+      "added_at": "2024-07-12 14:55:35",
+      "album": {
+        "name": "American Fool",
+        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 218960,
+      "name": "Hurts So Good",
+      "url": "https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM"
     },
     {
       "added_at": "2024-07-12 14:55:35",
@@ -543,18 +543,18 @@
     {
       "added_at": "2024-07-12 14:55:35",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA"
+        "name": "5150",
+        "url": "https://open.spotify.com/album/5Ew5vOg3PYyT9QUPCrdIZq"
       },
       "artists": [
         {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
         }
       ],
-      "duration_ms": 297426,
-      "name": "Eyes Without A Face - Remastered 1999",
-      "url": "https://open.spotify.com/track/3HCah9Waf9Jby9gLIWN4MI"
+      "duration_ms": 294000,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2APxH5XbOLDTmW9X5yi6Hw"
     },
     {
       "added_at": "2024-07-12 14:55:35",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-07-12 14:55:35",
       "album": {
-        "name": "5150",
-        "url": "https://open.spotify.com/album/5Ew5vOg3PYyT9QUPCrdIZq"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/2APxH5XbOLDTmW9X5yi6Hw"
-    },
-    {
-      "added_at": "2024-07-12 14:55:35",
-      "album": {
         "name": "Let's Dance (2018 Remaster)",
         "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 333816,
       "name": "China Girl - 2018 Remaster",
       "url": "https://open.spotify.com/track/5Ei9o2fHEnfHb84YrPuz4v"
+    },
+    {
+      "added_at": "2024-07-12 14:55:35",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "duration_ms": 297426,
+      "name": "Eyes Without A Face - Remastered 1999",
+      "url": "https://open.spotify.com/track/3HCah9Waf9Jby9gLIWN4MI"
     },
     {
       "added_at": "2024-07-12 14:55:35",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-07-12 14:55:35",
       "album": {
-        "name": "Heavy Nova (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/0GpLCi7mAAflASQlR26oib"
-      },
-      "artists": [
-        {
-          "name": "Robert Palmer",
-          "url": "https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu"
-        }
-      ],
-      "duration_ms": 254293,
-      "name": "Simply Irresistible",
-      "url": "https://open.spotify.com/track/7mmhMfqs3knRMMlvnMPTHn"
-    },
-    {
-      "added_at": "2024-07-12 14:55:35",
-      "album": {
         "name": "The Principle of Moments",
         "url": "https://open.spotify.com/album/7GwY9afibQt4oUfsOucXpl"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 304800,
       "name": "Big Log - 2006 Remaster",
       "url": "https://open.spotify.com/track/7257drAN3eTtaaUUPw95B3"
+    },
+    {
+      "added_at": "2024-07-12 14:55:35",
+      "album": {
+        "name": "Heavy Nova (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/0GpLCi7mAAflASQlR26oib"
+      },
+      "artists": [
+        {
+          "name": "Robert Palmer",
+          "url": "https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu"
+        }
+      ],
+      "duration_ms": 254293,
+      "name": "Simply Irresistible",
+      "url": "https://open.spotify.com/track/7mmhMfqs3knRMMlvnMPTHn"
     },
     {
       "added_at": "2024-07-12 14:55:35",

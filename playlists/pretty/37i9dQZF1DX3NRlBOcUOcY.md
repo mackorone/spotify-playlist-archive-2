@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 
 > Good vibes only! Aquí solo hay buena vibra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,875 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,876 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,13 +65,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 55 | [IMAN \(Two Of Us\)](https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [IMAN \(Two Of Us\)](https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb) | 2:02 |
 | 56 | [TENGO GANAS](https://open.spotify.com/track/2X3NWjkwnqCOfAS0TcUYOW) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [TENGO GANAS](https://open.spotify.com/album/3PZsmna1CzAkZndq3h0Krs) | 2:41 |
 | 57 | [Que Me Quiera Má](https://open.spotify.com/track/5QHkVXsFE9f8WuQIReh8Fe) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Que Me Quiera Má](https://open.spotify.com/album/1OKm4LefVn9e6tomBI4FxM) | 2:51 |
-| 58 | [capaz \(merengueton\)](https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 2:53 |
-| 59 | [Déjame Entrar](https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Déjame Entrar](https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe) | 4:14 |
+| 58 | [Déjame Entrar](https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Déjame Entrar](https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe) | 4:14 |
+| 59 | [capaz \(merengueton\)](https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 2:53 |
 | 60 | [PLAYA DEL INGLÉS](https://open.spotify.com/track/2t6IxTASaSFkZEt61tQ6W6) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [PLAYA DEL INGLÉS](https://open.spotify.com/album/1MgW79L1nRyxWHOCu4nxR9) | 3:57 |
 | 61 | [Estas Ganas](https://open.spotify.com/track/6axFk0R5Fm7BmnAle3CJ2T) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Estas Ganas](https://open.spotify.com/album/1JyeUyl21sY9G60Clzk7vO) | 2:46 |
 | 62 | [Energía Bacana](https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Energía Bacana](https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq) | 2:27 |
-| 63 | [XT4S1S](https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [XT4S1S](https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC) | 3:39 |
-| 64 | [Besito en la Frente](https://open.spotify.com/track/6PBoSxskeHXpOuyz7fuPNC) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Besito en la Frente](https://open.spotify.com/album/6rvkTbkg2SAzq67J0wF0mX) | 2:41 |
+| 63 | [Besito en la Frente](https://open.spotify.com/track/6PBoSxskeHXpOuyz7fuPNC) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Besito en la Frente](https://open.spotify.com/album/6rvkTbkg2SAzq67J0wF0mX) | 2:41 |
+| 64 | [XT4S1S](https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [XT4S1S](https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC) | 3:39 |
 | 65 | [Los Cachos](https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Los Cachos](https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh) | 3:32 |
 | 66 | [Tu Silueta](https://open.spotify.com/track/57f0ili5EzdZlEaSKcEg8p) | [Diegote](https://open.spotify.com/artist/2V9MnjEMqwXm7sice07NQK) | [Tu Silueta](https://open.spotify.com/album/7j86EbvzXlG519y6A8L1uZ) | 2:50 |
 | 67 | [Pegao](https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Pegao](https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll) | 2:40 |

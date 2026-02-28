@@ -57,6 +57,24 @@
     },
     {
       "album": {
+        "name": "Luxe",
+        "url": "https://open.spotify.com/album/0lbOjvuFeR5WrBV1zuR52Z"
+      },
+      "artists": [
+        {
+          "name": "slayr chive",
+          "url": "https://open.spotify.com/artist/5saK9I2aNuUzB9ysuIFlKQ"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142199,
+      "name": "Adulthood",
+      "url": "https://open.spotify.com/track/7KCgFPgWcTHWCOMdqVMiBj"
+    },
+    {
+      "album": {
         "name": "Big Ah Kidz",
         "url": "https://open.spotify.com/album/0S6JdLMY0py4wBLkKfZfLO"
       },
@@ -550,7 +568,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 113000,
       "name": "CLARINET",
       "url": "https://open.spotify.com/track/6Asdj5WezdZgaVYDgQskjg"
@@ -1049,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "Guillotine",
+        "url": "https://open.spotify.com/album/42BOi5vIhZBxXp1fbDcgVh"
+      },
+      "artists": [
+        {
+          "name": "fallnluv",
+          "url": "https://open.spotify.com/artist/1CnKbe2BryZ7vn19TKRzXu"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205009,
+      "name": "Guillotine",
+      "url": "https://open.spotify.com/track/3YirUAtlK9nCzPp3CTaAg5"
+    },
+    {
+      "album": {
         "name": "Hardy Boyz (feat. Bloodhound Lil Jeff)",
         "url": "https://open.spotify.com/album/3tzKkC8md0MnmsWVAcFhhz"
       },
@@ -1354,7 +1390,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 189231,
       "name": "king of the pumpkin patch",
       "url": "https://open.spotify.com/track/7yXA3nKDn6fZSj8IWpukUv"
@@ -1376,6 +1412,24 @@
       "duration_ms": 128794,
       "name": "kombucha",
       "url": "https://open.spotify.com/track/4JrovQ9zoSKkGGSojCJycx"
+    },
+    {
+      "album": {
+        "name": "Kyriemo Irving",
+        "url": "https://open.spotify.com/album/399iVBAT5cROxGpbcFGxmK"
+      },
+      "artists": [
+        {
+          "name": "Reemo",
+          "url": "https://open.spotify.com/artist/1ytfDr5Kx6uRKsHTD31OzE"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "Ky\u2019reemoo Irving",
+      "url": "https://open.spotify.com/track/3DCMa648m8EHDPZwjxrWva"
     },
     {
       "album": {
@@ -1536,7 +1590,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 156727,
       "name": "Matte Black",
       "url": "https://open.spotify.com/track/4OwEcqvSCRtqR3Hjm51DfP"

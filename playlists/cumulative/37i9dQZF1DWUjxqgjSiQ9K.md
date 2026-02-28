@@ -4,7 +4,7 @@
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Miel San Marcos
 
-883 songs - 2 day 21 hr 39 min
+884 songs - 2 day 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Aunque Lejos Estes](https://open.spotify.com/track/1xsA8GYQQR1ApFK4enl6sU) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Aunque Lejos Estes](https://open.spotify.com/album/6sufWCj48Pj4frnztAhVgF) | 4:03 | 2022-02-25 | 2022-04-02 |
 | [Aunque No Te Vea \- Alternate Version](https://open.spotify.com/track/2PFVjIeD3WosZ28loJi5aa) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Aunque No Te Vea \(Alternate Version\)](https://open.spotify.com/album/50BVTTgEIJF29AAJ2rCdc5) | 2:38 | 2022-06-24 | 2022-08-27 |
 | [Avivamiento \(Reimagined\)](https://open.spotify.com/track/1IXrlpz8Xal4vfnaiNUtYp) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE), [KA2SH](https://open.spotify.com/artist/3x8SyKUylsSG0RVwAvScJT), [Destiny Marko](https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa) | [Avivamiento \(Reimagined\)](https://open.spotify.com/album/3SNakKL7PQcaJqfC7XqlkF) | 2:56 | 2024-08-23 | 2024-10-05 |
+| [Ayúdame a Creer](https://open.spotify.com/track/5dOuVjXwYraVqeP9Dr75Av) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Ayúdame a Creer](https://open.spotify.com/album/33TGZrKLsp5OIdiRYd7ggL) | 3:08 | 2026-02-27 |  |
 | [Aún Sin Entender](https://open.spotify.com/track/7cgJKyU5q59aDMGbOCXF5L) | [Banda Punto de Encuentro](https://open.spotify.com/artist/0cdOFGGqQxVOOvZoQaG6Vn), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Adorando Entre Amigos](https://open.spotify.com/album/0XgdtM4YTDOJ4TAU7dWr4o) | 6:00 | 2023-03-31 | 2024-03-09 |
 | [Babel](https://open.spotify.com/track/2JS2IF2YLPe4oLSIXpzZOK) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [Babel](https://open.spotify.com/album/1qHXweu3uNnAuutwrhn0ZK) | 5:02 | 2024-02-02 | 2024-07-27 |
 | [Babel \- Acústico](https://open.spotify.com/track/5d5yrPyC4DC7uLm0AVHyGk) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm) | [Kintsugi \(Acústico\)](https://open.spotify.com/album/1cIzXYoG20vQ4B5dsS2zhA) | 7:48 | 2024-10-25 | 2025-04-26 |
@@ -123,7 +124,7 @@
 | [buen pastor](https://open.spotify.com/track/0eJC8OXy9FgzgrT78YvIpR) | [PRISMA Más Vida](https://open.spotify.com/artist/2UHFb8SvTwloYRgoPz8umM), [Steven Richards](https://open.spotify.com/artist/7nV5z8aBZuot66MlL143o4) | [buen pastor](https://open.spotify.com/album/6VARaF76F2B6tl0a8rSZCS) | 3:42 | 2023-09-22 | 2025-02-01 |
 | [BUENO \(Nunca Vas a Cambiar\)](https://open.spotify.com/track/4tMecu7jQX9jnaqmaPzvMz) | [Ayrton Day](https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um) | [BUENO \(Nunca Vas a Cambiar\)](https://open.spotify.com/album/7fml1stxwLAWkTKONJ1SWw) | 5:05 | 2022-11-25 | 2023-09-09 |
 | [Buscando una Señal \(Reimagined\)](https://open.spotify.com/track/6rX9TQKXlw09RqewRHLSCG) | [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj) | [Buscando una Señal \(Reimagined\)](https://open.spotify.com/album/4h3p0gYx5Ti6VFHS9ACMZy) | 4:33 | 2022-10-28 | 2023-08-19 |
-| [Cada Generación](https://open.spotify.com/track/4BvZojjPbrMxVueuFmTiJz) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Cada Generación](https://open.spotify.com/album/063wZnNwQxC96C4TnpDHeu) | 4:13 | 2025-07-25 |  |
+| [Cada Generación](https://open.spotify.com/track/4BvZojjPbrMxVueuFmTiJz) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Cada Generación](https://open.spotify.com/album/063wZnNwQxC96C4TnpDHeu) | 4:13 | 2025-07-25 | 2026-02-28 |
 | [CALMA](https://open.spotify.com/track/0ViCt3vmm2CAxI2VaOMafa) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [CALMA](https://open.spotify.com/album/21gKiglkiX3VY4PjHrKd0h) | 2:49 | 2025-05-30 | 2025-08-30 |
 | [Calma](https://open.spotify.com/track/0QZMybAEsDqyLWlzCmjjIR) | [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Calma](https://open.spotify.com/album/2HJDfS7JE1jHLJzG8vJSwg) | 3:08 | 2022-04-01 | 2023-02-18 |
 | [Campfire Coritos \(Live\)](https://open.spotify.com/track/6XjxSd3E864EzMnNDd1gvA) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Claudette Bailon](https://open.spotify.com/artist/2vY0NRoqIMLAONc7BDA6m7), [Adrienne Bailon Houghton](https://open.spotify.com/artist/5AbB18XUQqNnaPtOLT1OY0), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN) | [Worship Anywhere: Live from Camp NewBreed](https://open.spotify.com/album/5BCKzBSDLSpS7RHBgmgExp) | 8:41 | 2022-10-07 | 2023-09-23 |

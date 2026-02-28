@@ -801,6 +801,24 @@
     },
     {
       "album": {
+        "name": "Crimes Of Conscience",
+        "url": "https://open.spotify.com/album/0XavfBjFo4LguwebHVjblr"
+      },
+      "artists": [
+        {
+          "name": "Cry Before Dawn",
+          "url": "https://open.spotify.com/artist/4S6peRV3B8YuzcnBBAG0Rd"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229133,
+      "name": "Gone Forever",
+      "url": "https://open.spotify.com/track/57M4pOLa1lrTUYLZjQvuPr"
+    },
+    {
+      "album": {
         "name": "Holidays & Hits",
         "url": "https://open.spotify.com/album/1bIaf8B2gvDCCADX2kSHUm"
       },

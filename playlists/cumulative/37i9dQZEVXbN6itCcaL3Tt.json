@@ -19238,7 +19238,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 98128,
       "name": "HALO",
       "url": "https://open.spotify.com/track/5fNqZTsR71er1mti4F3Pzf"
@@ -25740,7 +25740,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 152386,
       "name": "KOCHASZ?",
       "url": "https://open.spotify.com/track/2XjSsK9NKNcojJwzmLdIWG"
@@ -28790,7 +28790,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 157575,
       "name": "Luty",
       "url": "https://open.spotify.com/track/7ubcimU18HA4wojQd51M7a"
@@ -37872,7 +37872,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -39854,6 +39854,32 @@
       "duration_ms": 144846,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
+    },
+    {
+      "album": {
+        "name": "PENTHOUSE 2",
+        "url": "https://open.spotify.com/album/5gKyqPOTXacxlIWbOpK64y"
+      },
+      "artists": [
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        },
+        {
+          "name": "Koneser",
+          "url": "https://open.spotify.com/artist/3iXrMGww8ozzbsPVkoysgG"
+        },
+        {
+          "name": "BNP",
+          "url": "https://open.spotify.com/artist/3w9a7uUj9JYKQfJ1XuZQ7P"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199148,
+      "name": "PENTHOUSE 2",
+      "url": "https://open.spotify.com/track/2GKWGd6NXm1bhWGBYOKtUV"
     },
     {
       "album": {
@@ -46512,7 +46538,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 113089,
       "name": "SIE KLEI",
       "url": "https://open.spotify.com/track/6hTcG0znsgf33wBAnf8P8y"
@@ -53686,7 +53712,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 138000,
       "name": "Uno Momento",
       "url": "https://open.spotify.com/track/2lszjkyKpER3mEFPQQayZR"
@@ -55682,7 +55708,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 245200,
       "name": "Wiecznie",
       "url": "https://open.spotify.com/track/1YcEiW6wsJlxnePEkkUI2M"

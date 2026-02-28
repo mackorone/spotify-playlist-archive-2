@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 
 > Los próceres de la historia del rock nacional\. el Xava Drago por siempre
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,455 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,478 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 41 | [Acábame de Matar](https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:00 |
 | 42 | [Nalguita](https://open.spotify.com/track/3vEkB7InOc5P7Vs3CNkCB2) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Tasty + B Sides](https://open.spotify.com/album/5IO0ppb7WMdyanUnnBCR0M) | 4:14 |
 | 43 | [Espiral](https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Donde los Ponys Pastan](https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx) | 5:22 |
-| 44 | [A.D.O.](https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:54 |
-| 45 | [Voto Latino](https://open.spotify.com/track/6InAFCfwjgsUtDoaOCwwZL) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [¿Dónde Jugarán Las Niñas?](https://open.spotify.com/album/7EIqLMVIGdxmuXIscBAyn0) | 2:58 |
+| 44 | [Voto Latino](https://open.spotify.com/track/6InAFCfwjgsUtDoaOCwwZL) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [¿Dónde Jugarán Las Niñas?](https://open.spotify.com/album/7EIqLMVIGdxmuXIscBAyn0) | 2:58 |
+| 45 | [A.D.O.](https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:54 |
 | 46 | [Tornasol \(Vuelves a Ser\)](https://open.spotify.com/track/1BaNzcWE5fAJ6Ujh1CytzN) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [La Gusana Ciega](https://open.spotify.com/album/5cc54VNiVL3mwUZxKCELNJ) | 3:44 |
 | 47 | [Hoy Tengo Miedo](https://open.spotify.com/track/17GyFd3fEKaYFEuDUkMG3h) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Wow \(87\-04\)](https://open.spotify.com/album/5SH9zH7m4u4p2gURDZ73Lj) | 4:29 |
 | 48 | [Tu Luz](https://open.spotify.com/track/0bqfNDZvqXB10fUKSfj6mY) | [Azul Violeta](https://open.spotify.com/artist/5U5HiTvNUclEE0bwGVDBIX) | [Globoscopio](https://open.spotify.com/album/3ZmohMIf51g01KO57xm6Zc) | 4:33 |
@@ -65,13 +65,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 55 | [Siento Que...](https://open.spotify.com/track/1VtBjpwh6xdRPDy20Uln3W) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [Restaurant](https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c) | 3:29 |
 | 56 | [Vaquero Rockanrolero](https://open.spotify.com/track/6imxKxbwy0GI2nU5tfIs27) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 4:15 |
 | 57 | [Completamente](https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Blanco Fácil](https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt) | 4:23 |
-| 58 | [Tlatelolco](https://open.spotify.com/track/7aXS9abYIGYwmb2izj37xW) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Viajero](https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc) | 4:46 |
-| 59 | [Hay Amores Que Matan](https://open.spotify.com/track/3b9yTPrrIquBZsco8jVPi1) | [Jaguares](https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq) | [Cronicas De Un Laberinto](https://open.spotify.com/album/5ghbMJrms74bqNzZ8ziEZy) | 3:10 |
+| 58 | [Hay Amores Que Matan](https://open.spotify.com/track/3b9yTPrrIquBZsco8jVPi1) | [Jaguares](https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq) | [Cronicas De Un Laberinto](https://open.spotify.com/album/5ghbMJrms74bqNzZ8ziEZy) | 3:10 |
+| 59 | [Tlatelolco](https://open.spotify.com/track/7aXS9abYIGYwmb2izj37xW) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Viajero](https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc) | 4:46 |
 | 60 | [Quiéreme Mucho](https://open.spotify.com/track/51tX8W9SSVju5DqlGcoAxy) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 3:38 |
 | 61 | [Ja, Ja, Ja](https://open.spotify.com/track/00YFVZpB91oVB7wIwEUiZ8) | [La Lupita](https://open.spotify.com/artist/64Fg1xlMcuDptp5EiNIIcB) | [Tres\-D](https://open.spotify.com/album/74vmH4UpHZolSYKsHa0qns) | 2:40 |
 | 62 | [Tijuana Sound Machine](https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Tijuana Sound Machine \(Nortec Collective Presents: Bostich+Fussible\)](https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV) | 3:02 |
-| 63 | [Viajero](https://open.spotify.com/track/5AbNMFadsSbVhYd27XnkMZ) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Viajero](https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc) | 4:13 |
-| 64 | [Mi Vida es un Tango](https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:03 |
+| 63 | [Mi Vida es un Tango](https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:03 |
+| 64 | [Viajero](https://open.spotify.com/track/5AbNMFadsSbVhYd27XnkMZ) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Viajero](https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc) | 4:13 |
 | 65 | [Imagina](https://open.spotify.com/track/5rTpWh5T1yPhIAV9mbmYEW) | [Genitallica](https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA) | [Originales \- 20 Exitos](https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK) | 3:01 |
 | 66 | [El Último Ska](https://open.spotify.com/track/5xx3UJqIo8SsSc00znFPtK) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Dub Inc](https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U) | [El Último Ska](https://open.spotify.com/album/6Nk8Oethod52ndZwJ5FOI0) | 4:34 |
 | 67 | [Fotografía](https://open.spotify.com/track/5j14Xn8nJDcH9omZkBU4jP) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [Restaurant](https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c) | 4:29 |

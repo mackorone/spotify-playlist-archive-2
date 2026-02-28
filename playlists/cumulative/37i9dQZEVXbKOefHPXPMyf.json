@@ -3944,7 +3944,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 204760,
       "name": "Alta y serena",
       "url": "https://open.spotify.com/track/0KZwSfQBCb4NonnJtJy1Zg"
@@ -29342,7 +29342,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 143850,
       "name": "FRUTOS VERDADEROS",
       "url": "https://open.spotify.com/track/17ru6UkYGvamsH1hnnbFGL"
@@ -46482,6 +46482,24 @@
     {
       "album": {
         "name": "Me Fui Sin Hacer Ruido",
+        "url": "https://open.spotify.com/album/7fL4M8w64rSYepi4BCcg0w"
+      },
+      "artists": [
+        {
+          "name": "LINZAE LIR",
+          "url": "https://open.spotify.com/artist/7LGY1ZGeotpXgRRg5Wm9nf"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223596,
+      "name": "Me Fui Sin Hacer Ruido",
+      "url": "https://open.spotify.com/track/01dO9FVNNPIh2E3zIErN6k"
+    },
+    {
+      "album": {
+        "name": "Me Fui Sin Hacer Ruido",
         "url": "https://open.spotify.com/album/09A8P0dmlNg3cZCvqqw3a0"
       },
       "artists": [
@@ -47328,7 +47346,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 214399,
       "name": "Mer\u00e9",
       "url": "https://open.spotify.com/track/7m2ZdJo5lzQ9tDwDcymFcb"
@@ -60309,6 +60327,24 @@
     },
     {
       "album": {
+        "name": "El Fenomeno",
+        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234026,
+      "name": "Por Amar A Ciegas",
+      "url": "https://open.spotify.com/track/2BrfJdTXohQRtWBKsBTIp0"
+    },
+    {
+      "album": {
         "name": "Boca Chueca, Vol. 1",
         "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
       },
@@ -65470,7 +65506,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 235800,
       "name": "San Jose",
       "url": "https://open.spotify.com/track/10faGZlZW8884vtccmxfuG"
@@ -78564,10 +78600,6 @@
         {
           "name": "mikeeysmind",
           "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
-        },
-        {
-          "name": "Belico",
-          "url": "https://open.spotify.com/artist/6f04rVzdeSu2uJv6ZB323r"
         }
       ],
       "date_added": "2026-02-24",

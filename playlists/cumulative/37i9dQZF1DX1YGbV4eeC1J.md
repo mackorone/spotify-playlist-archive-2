@@ -4,7 +4,7 @@
 
 > What is your love language? Say it in Swahili\.  Cover: Watendawili
 
-343 songs - 19 hr 15 min
+344 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [Wa Sasa](https://open.spotify.com/track/1FVz0hH9kEafMYlQjIkBTf) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Wa Sasa](https://open.spotify.com/album/3oxmKTtd1oBP7WACgKrh4m) | 3:14 | 2023-09-07 | 2024-06-14 |
 | [Waambie](https://open.spotify.com/track/2akpNLeJS1LfrlK9KKCAek) | [killy](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Waambie](https://open.spotify.com/album/0DycumTtXTohHbRkLhFmI3) | 2:37 | 2023-09-21 | 2024-02-23 |
 | [Wait](https://open.spotify.com/track/1Avasqjbg7cadpigVWLJix) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3) | [Wait](https://open.spotify.com/album/1DPm1F3u5lArmqgOQw6C63) | 2:52 | 2025-09-12 | 2026-02-13 |
+| [Wangu](https://open.spotify.com/track/3rRiEM8ttueIZU59KNSdTe) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Wangu](https://open.spotify.com/album/6oQFivXTgklnz7mHzjQkab) | 3:30 | 2026-02-26 |  |
 | [Wangu](https://open.spotify.com/track/5jo2MPiQgct6oCFOO5FE36) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [The Godson](https://open.spotify.com/album/1zdIcgQ7EZqAF3f48De4fi) | 2:49 | 2024-11-29 |  |
 | [Wanita](https://open.spotify.com/track/6QZBqo7ubhps9A0Z3BvXwf) | [ICent](https://open.spotify.com/artist/56bg8TSGbshdGcQnPXqOlR), [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Wanita](https://open.spotify.com/album/7utPhWIODju3YH6vdFKokR) | 3:32 | 2025-01-31 | 2025-06-14 |
 | [Wapambe](https://open.spotify.com/track/6FnpY2o7B3Je5EuvizjdDx) | [Haitham Kim](https://open.spotify.com/artist/750ujPfB38qROElCTru0vL), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Wapambe](https://open.spotify.com/album/1Gj7pdyvDIyM2GYzbN4fJ5) | 3:14 | 2024-02-09 | 2024-05-17 |

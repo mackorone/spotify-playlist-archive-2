@@ -1,48 +1,44 @@
 {
   "description": "The best new dance tracks from independent artists & labels. Curated by human Spotify editors. Featuring Kenta204.\n",
-  "num_followers": 210243,
+  "num_followers": 210249,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOYmMJaBM/Z+5CzlghN3q8Mw+rBZ",
+  "snapshot_id": "AAAAAFMUE28ve6N8QZFRSWV97D/yvnzi",
   "tracks": [
     {
-      "added_at": "2026-02-04 05:00:17",
+      "added_at": "2026-02-27 16:35:52",
       "album": {
-        "name": "Vandal EP",
-        "url": "https://open.spotify.com/album/6gkJ1vjjgtkc3axIiuh5KX"
+        "name": "I Did You Wrong",
+        "url": "https://open.spotify.com/album/0uERPZCGVreMb8pIeQiHiX"
       },
       "artists": [
         {
-          "name": "MARTHA",
-          "url": "https://open.spotify.com/artist/1HE0B5Oou0HaoNW90uYG7w"
+          "name": "Harry Hayes",
+          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
         }
       ],
-      "duration_ms": 245273,
-      "name": "Vandal",
-      "url": "https://open.spotify.com/track/34negURT6NVTALh9x2J6ue"
+      "duration_ms": 172965,
+      "name": "I Did You Wrong",
+      "url": "https://open.spotify.com/track/2onMysrdB7Hg2q9W7foPOP"
     },
     {
-      "added_at": "2026-02-26 18:54:06",
+      "added_at": "2026-02-18 20:21:45",
       "album": {
-        "name": "Daddy's Got A Gun",
-        "url": "https://open.spotify.com/album/6rcpBsXMlpZ7hCGKFGlum0"
+        "name": "Loverr",
+        "url": "https://open.spotify.com/album/1IAifM8CYCpNvG45SIUMHt"
       },
       "artists": [
         {
-          "name": "Allnight",
-          "url": "https://open.spotify.com/artist/0s8cHQ7qsebgXl9G5QvwOK"
-        },
-        {
-          "name": "L0-G",
-          "url": "https://open.spotify.com/artist/141tVOTrAyMU3VdELgMMqP"
+          "name": "Human Family",
+          "url": "https://open.spotify.com/artist/3rAmqzzZzmxAbxPyi3liyH"
         }
       ],
-      "duration_ms": 208372,
-      "name": "Daddy's Got A Gun",
-      "url": "https://open.spotify.com/track/5lTLXjOzbA9MAregavAu0U"
+      "duration_ms": 200761,
+      "name": "Loverr",
+      "url": "https://open.spotify.com/track/70Kh9erWe00Bvll9YKpIhu"
     },
     {
       "added_at": "2026-02-26 18:54:06",
@@ -81,22 +77,6 @@
       "url": "https://open.spotify.com/track/6wcDuE4G7aZImtk4oigzsP"
     },
     {
-      "added_at": "2026-02-18 20:21:45",
-      "album": {
-        "name": "Loverr",
-        "url": "https://open.spotify.com/album/1IAifM8CYCpNvG45SIUMHt"
-      },
-      "artists": [
-        {
-          "name": "Human Family",
-          "url": "https://open.spotify.com/artist/3rAmqzzZzmxAbxPyi3liyH"
-        }
-      ],
-      "duration_ms": 200761,
-      "name": "Loverr",
-      "url": "https://open.spotify.com/track/70Kh9erWe00Bvll9YKpIhu"
-    },
-    {
       "added_at": "2026-02-26 18:54:06",
       "album": {
         "name": "Everybody",
@@ -117,6 +97,42 @@
       "url": "https://open.spotify.com/track/2nWpOoHMnIDHeK7CTnx7VG"
     },
     {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "Vandal EP",
+        "url": "https://open.spotify.com/album/6gkJ1vjjgtkc3axIiuh5KX"
+      },
+      "artists": [
+        {
+          "name": "MARTHA",
+          "url": "https://open.spotify.com/artist/1HE0B5Oou0HaoNW90uYG7w"
+        }
+      ],
+      "duration_ms": 245273,
+      "name": "Vandal",
+      "url": "https://open.spotify.com/track/34negURT6NVTALh9x2J6ue"
+    },
+    {
+      "added_at": "2026-02-26 18:54:06",
+      "album": {
+        "name": "Daddy's Got A Gun",
+        "url": "https://open.spotify.com/album/6rcpBsXMlpZ7hCGKFGlum0"
+      },
+      "artists": [
+        {
+          "name": "Allnight",
+          "url": "https://open.spotify.com/artist/0s8cHQ7qsebgXl9G5QvwOK"
+        },
+        {
+          "name": "L0-G",
+          "url": "https://open.spotify.com/artist/141tVOTrAyMU3VdELgMMqP"
+        }
+      ],
+      "duration_ms": 208372,
+      "name": "Daddy's Got A Gun",
+      "url": "https://open.spotify.com/track/5lTLXjOzbA9MAregavAu0U"
+    },
+    {
       "added_at": "2026-02-18 20:21:45",
       "album": {
         "name": "Nothing Left to Say",
@@ -131,6 +147,34 @@
       "duration_ms": 228750,
       "name": "Nothing Left to Say - Radio Edit",
       "url": "https://open.spotify.com/track/2gP0oGwwCef1i4lOQesUj2"
+    },
+    {
+      "added_at": "2026-02-27 16:35:52",
+      "album": {
+        "name": "FOCUS",
+        "url": "https://open.spotify.com/album/6nKI0eexIovx0Xd8BwC54p"
+      },
+      "artists": [
+        {
+          "name": "Dr. Chaii",
+          "url": "https://open.spotify.com/artist/608Tz9GUNqRDkHGprJv3Og"
+        },
+        {
+          "name": "KARABA",
+          "url": "https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy"
+        },
+        {
+          "name": "Emily Apollo",
+          "url": "https://open.spotify.com/artist/7x9mpQNiBxVDLeJjtmXqyw"
+        },
+        {
+          "name": "KMNI",
+          "url": "https://open.spotify.com/artist/2YXjkO5I6QIGTBMAHWLvL2"
+        }
+      ],
+      "duration_ms": 220343,
+      "name": "FOCUS",
+      "url": "https://open.spotify.com/track/3WfWhh0UEe9AaLdUDqv70P"
     },
     {
       "added_at": "2026-02-11 21:59:45",
@@ -1077,22 +1121,6 @@
       "url": "https://open.spotify.com/track/75sXo0wSGxpVC1kizgecZz"
     },
     {
-      "added_at": "2026-01-28 16:55:42",
-      "album": {
-        "name": "fall in love with the dj",
-        "url": "https://open.spotify.com/album/3JOCWksM1JNapygyn8tQPJ"
-      },
-      "artists": [
-        {
-          "name": "Lucky Iris",
-          "url": "https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC"
-        }
-      ],
-      "duration_ms": 180778,
-      "name": "fall in love with the dj",
-      "url": "https://open.spotify.com/track/56ZQHgh0SB0fefzS7BbT2E"
-    },
-    {
       "added_at": "2026-01-23 05:00:26",
       "album": {
         "name": "Pressure",
@@ -1551,26 +1579,6 @@
       "duration_ms": 256663,
       "name": "True For Your Love",
       "url": "https://open.spotify.com/track/54YlLR1HXFvcl1mSGfFzsT"
-    },
-    {
-      "added_at": "2026-01-15 15:31:15",
-      "album": {
-        "name": "'cause i'm",
-        "url": "https://open.spotify.com/album/0NFCDtBKKELw95NvWq9oaH"
-      },
-      "artists": [
-        {
-          "name": "Cucina Sonora",
-          "url": "https://open.spotify.com/artist/0t4vNX1iyHzmASWTnsYzES"
-        },
-        {
-          "name": "Swan",
-          "url": "https://open.spotify.com/artist/6c3y5GxfMe6dWgUtTLnnCE"
-        }
-      ],
-      "duration_ms": 242627,
-      "name": "'cause i'm",
-      "url": "https://open.spotify.com/track/2ttJ1ariAypYeEtICi6Hfs"
     },
     {
       "added_at": "2026-01-15 15:31:15",

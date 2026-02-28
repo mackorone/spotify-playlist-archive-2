@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUZoI8VzsU6.md) - [plain]
 
 ### [GRAVEL](https://open.spotify.com/playlist/37i9dQZF1DWYUZoI8VzsU6)
 
-> back roads up loud with Lakeview
+> back roads up loud with Treaty Oak Revival
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,157 likes - 65 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,449 likes - 65 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUZoI8VzsU6.md) - [plain]
 | 64 | [I HATE ME TOO](https://open.spotify.com/track/5rgZbwCHPZKP32NG0g66ar) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [I HATE ME TOO](https://open.spotify.com/album/7mhU3F2Qk5PryU0KHv9lqy) | 3:05 |
 | 65 | [Bad Apple](https://open.spotify.com/track/0nyD5KLTR52cRcPKeewrvA) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Bad Apple](https://open.spotify.com/album/74lZWqJXIYUkuaWaxmv63f) | 2:39 |
 
-Snapshot ID: `AAAAAOl2LoPj7Q1Um3w48iGeDQ/tQmta`
+Snapshot ID: `AAAAAMKS1iYrBrEi8q/JRd3o8P903hlA`

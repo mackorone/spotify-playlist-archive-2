@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 
 > El sonido siniestro de los noventa\. Foto: Smashing Pumpkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,402 likes - 75 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,452 likes - 75 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 | 19 | [Sunburn](https://open.spotify.com/track/5wq8wceQvaFlOZovDtfr0j) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Showbiz](https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO) | 3:53 |
 | 20 | [Black No\. 1 \(Little Miss Scare \-All\)](https://open.spotify.com/track/710B9xFjNOisQtKtppZE9p) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Bloody Kisses \(Top Shelf Edition\)](https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG) | 11:15 |
 | 21 | [More Human Than Human](https://open.spotify.com/track/1NbJFhkVdD47YZ2IojKkJi) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head](https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC) | 4:28 |
-| 22 | [Lovesong \- Remastered](https://open.spotify.com/track/1y6XHeNN5DSX5PYy7gT0qL) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Remastered\)](https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS) | 3:28 |
-| 23 | [Midlife Crisis](https://open.spotify.com/track/3Ph7fws05DvPwpn5CQHTBy) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Angel Dust \(Deluxe Edition\)](https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k) | 4:19 |
+| 22 | [Midlife Crisis](https://open.spotify.com/track/3Ph7fws05DvPwpn5CQHTBy) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Angel Dust \(Deluxe Edition\)](https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k) | 4:19 |
+| 23 | [Lovesong \- Remastered](https://open.spotify.com/track/1y6XHeNN5DSX5PYy7gT0qL) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Remastered\)](https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS) | 3:28 |
 | 24 | [All Mine](https://open.spotify.com/track/785Qya5mtMUwBQtuypVqrx) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Portishead](https://open.spotify.com/album/3G36754KQVLyGuskraEAVA) | 4:00 |
 | 25 | [Down By The Water](https://open.spotify.com/track/48mJX8glOrQkrSdVBjc0Wb) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 3:14 |
 | 26 | [Unintended](https://open.spotify.com/track/6kyxQuFD38mo4S3urD2Wkw) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Showbiz](https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO) | 3:57 |

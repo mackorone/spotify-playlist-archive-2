@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Moroney. The essential tracks, all in one playlist.",
-  "num_followers": 48614,
+  "num_followers": 48702,
   "original_name": "This Is Megan Moroney",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAADPQiYg2eZh1GsrV0HxSoGd",
+  "snapshot_id": "aZ+NAAAAAABXx+WEjQ0ax4+7EXGe4q4h",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "6 Months Later",
-        "url": "https://open.spotify.com/album/0JGIg3ny1crTowB0Qi1Zx1"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 182868,
-      "name": "6 Months Later",
-      "url": "https://open.spotify.com/track/4Km9FSF9iaQiTLnFPdbPom"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 223119,
       "name": "Tennessee Orange",
       "url": "https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "6 Months Later",
+        "url": "https://open.spotify.com/album/0JGIg3ny1crTowB0Qi1Zx1"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 182868,
+      "name": "6 Months Later",
+      "url": "https://open.spotify.com/track/4Km9FSF9iaQiTLnFPdbPom"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Things",
-        "url": "https://open.spotify.com/album/1vIdJxr4T63IHA5ex4rHEv"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 235535,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/6WjwYL2tzzci2pvpv50rS4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Am I Okay? (I'll Be Fine)",
         "url": "https://open.spotify.com/album/0AqurYcKg73g81nADrFcyY"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 214670,
       "name": "Break It Right Back",
       "url": "https://open.spotify.com/track/4UzkT20tkeSqlKLinRQsA7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/1vIdJxr4T63IHA5ex4rHEv"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 235535,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/6WjwYL2tzzci2pvpv50rS4"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pistol Made of Roses",
-        "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 224581,
-      "name": "Hair Salon",
-      "url": "https://open.spotify.com/track/25jS5o9ZalzGgOvHUSRi7Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Am I Okay? (I'll Be Fine)",
         "url": "https://open.spotify.com/album/0AqurYcKg73g81nADrFcyY"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 163633,
       "name": "Bless Your Heart",
       "url": "https://open.spotify.com/track/0R7mbF0KQERtpLaTuugWZg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pistol Made of Roses",
+        "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 224581,
+      "name": "Hair Salon",
+      "url": "https://open.spotify.com/track/25jS5o9ZalzGgOvHUSRi7Y"
     },
     {
       "added_at": null,
@@ -342,11 +342,15 @@
         {
           "name": "Megan Moroney",
           "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 175722,
-      "name": "Change of Heart",
-      "url": "https://open.spotify.com/track/037wvykTRvc8meNo5IAxkz"
+      "duration_ms": 245430,
+      "name": "I Only Miss You (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/5smzdAtuOJOp3jEKjTno3p"
     },
     {
       "added_at": null,
@@ -410,15 +414,11 @@
         {
           "name": "Megan Moroney",
           "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 245430,
-      "name": "I Only Miss You (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/5smzdAtuOJOp3jEKjTno3p"
+      "duration_ms": 175722,
+      "name": "Change of Heart",
+      "url": "https://open.spotify.com/track/037wvykTRvc8meNo5IAxkz"
     },
     {
       "added_at": null,

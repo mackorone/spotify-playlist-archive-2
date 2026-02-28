@@ -4,7 +4,7 @@
 
 > 
 
-8,479 songs - 21 day 14 hr 8 min
+8,481 songs - 21 day 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3315,6 +3315,7 @@
 | [JET](https://open.spotify.com/track/0UFmgncRMHavVzYxtpF0IZ) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [何者](https://open.spotify.com/album/3hqIsYUwppQuflNKBw5jCK) | 4:44 | 2025-01-15 |  |
 | [Jet Black \(feat\. Brandy\)](https://open.spotify.com/track/70pZIQqQ37SrNCADx0FiPN) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:28 | 2024-12-05 |  |
 | [Jet Fuel](https://open.spotify.com/track/2JmFRXaJrkAUD2cs6U20KG) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 5:45 | 2025-01-04 |  |
+| [Jet Set Run](https://open.spotify.com/track/3jRwb8NABDs7n8YsYyHO8c) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル･サウンドトラック](https://open.spotify.com/album/45dUggEwLrNKqgCJuMgRrR) | 3:45 | 2026-02-27 |  |
 | [JIH LIKE MORANT](https://open.spotify.com/track/4pXDCDIzxqnjF66R8OfLt7) | [Sideshow](https://open.spotify.com/artist/53xeKWbSRuGgTxViJTAZKC) | [2MM DON’T JUST STAND THERE!](https://open.spotify.com/album/5mqhLJlTrDM7altoqe9SLd) | 1:04 | 2025-01-15 |  |
 | [Jimmy Choo](https://open.spotify.com/track/7s49Um7G06hq2rulrHPsIy) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Jimmy Choo](https://open.spotify.com/album/085BQHyvkqAlBq6pDQ17Ve) | 2:56 | 2025-01-03 |  |
 | [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 | 2025-01-03 |  |
@@ -7610,6 +7611,7 @@
 | [チルドレンレコード](https://open.spotify.com/track/21NqRGXnSsLatQ7WlY7kZQ) | [小豆沢こはね](https://open.spotify.com/artist/5afq7P9YZtGvtUjBxaQzIp), [東雲彰人](https://open.spotify.com/artist/5iUcWpImiyRXhdNVOQZIVI) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク　アナザーボーカルアルバム Vivid BAD SQUAD](https://open.spotify.com/album/48MQNNlnAKmE9wXxaEuGpz) | 3:01 | 2025-12-07 |  |
 | [チルドレンレコード](https://open.spotify.com/track/4DeJXKQCGxAUKOJbszuiBw) | [白石杏](https://open.spotify.com/artist/5oXXCRHHBgr8JbziVHev34), [青柳冬弥](https://open.spotify.com/artist/0EntB8BeMF852I18Dk4SOc) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク　アナザーボーカルアルバム Vivid BAD SQUAD](https://open.spotify.com/album/48MQNNlnAKmE9wXxaEuGpz) | 3:01 | 2025-12-07 |  |
 | [チームの地力](https://open.spotify.com/track/0H5GCiZwJHZv8kdgwNCB3i) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/1aO6rB7SrbcwStQuaC0X78) | 2:58 | 2025-05-09 |  |
+| [チームの地力](https://open.spotify.com/track/0S5OaeNAC1RlO0ZkeuPmhq) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/6f7ewU8BNZaeqfN899iutk) | 2:58 | 2026-02-27 |  |
 | [ツキアカリのミチシルベ](https://open.spotify.com/track/7FPYxJPbDj61MHR6iNAYCa) | [Stereopony](https://open.spotify.com/artist/35VNJ4BFDvs9XkLf6ghUi6) | [ツキアカリのミチシルベ](https://open.spotify.com/album/6gIuphluXc6XSn1HNBPvqB) | 3:57 | 2025-01-15 |  |
 | [ツキヨミ](https://open.spotify.com/track/6FBxiuxa9kuU39wMZhAPXE) | [phatmans after school](https://open.spotify.com/artist/6mWBO4YhLyCDftF4h3wP91) | [セカイノコトハ](https://open.spotify.com/album/6cAAJdmhiyXG3CeaexqW75) | 4:59 | 2025-01-15 |  |
 | [テイオーテイオーテイテイオー](https://open.spotify.com/track/0BFhu2pdmR4GGOt11RCnMK) | [トウカイテイオー \(CV\. Machico\)](https://open.spotify.com/artist/4iZfTlw1wAe7i8If4Bku1O) | [『ウマ娘 プリティーダービー』WINNING LIVE 06](https://open.spotify.com/album/4yUrE4BXP4DE1Z4PxMXOPI) | 0:30 | 2026-02-11 |  |

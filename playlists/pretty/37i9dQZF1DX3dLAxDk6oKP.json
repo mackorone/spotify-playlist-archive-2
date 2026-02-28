@@ -1,6 +1,6 @@
 {
   "description": "Al cien en la mamalona!  ",
-  "num_followers": 495671,
+  "num_followers": 495819,
   "original_name": "La Mamalona",
   "owner": {
     "name": "Spotify",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-02-06 11:19:38",
       "album": {
+        "name": "El Primero",
+        "url": "https://open.spotify.com/album/4ninqvctwnheMXqskwO1aG"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 175514,
+      "name": "El Primero",
+      "url": "https://open.spotify.com/track/0S0r3vr9ekWX28JtCTz02t"
+    },
+    {
+      "added_at": "2026-02-06 11:19:38",
+      "album": {
         "name": "Qu\u00e9date Conmigo",
         "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 156807,
       "name": "Yo Vengo De La Nada",
       "url": "https://open.spotify.com/track/2JJdNXpiCQoAeLQvVMpIEh"
-    },
-    {
-      "added_at": "2026-02-06 11:19:38",
-      "album": {
-        "name": "El Primero",
-        "url": "https://open.spotify.com/album/4ninqvctwnheMXqskwO1aG"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 175514,
-      "name": "El Primero",
-      "url": "https://open.spotify.com/track/0S0r3vr9ekWX28JtCTz02t"
     },
     {
       "added_at": "2026-02-06 11:19:38",
@@ -983,26 +983,6 @@
     {
       "added_at": "2026-02-06 11:19:38",
       "album": {
-        "name": "COMO CAPO",
-        "url": "https://open.spotify.com/album/5TDTBVPY0Vcp3eL3YZh98E"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 165482,
-      "name": "COMO CAPO",
-      "url": "https://open.spotify.com/track/395oynN3pkdaY3Np0igFCN"
-    },
-    {
-      "added_at": "2026-02-06 11:19:38",
-      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
       },
@@ -1023,22 +1003,22 @@
     {
       "added_at": "2026-02-06 11:19:38",
       "album": {
-        "name": "Ya No Se Llevan Serenatas (Deluxe)",
-        "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
+        "name": "COMO CAPO",
+        "url": "https://open.spotify.com/album/5TDTBVPY0Vcp3eL3YZh98E"
       },
       "artists": [
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
         },
         {
           "name": "Fuerza Regida",
           "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 196632,
-      "name": "CHROME HEARTS",
-      "url": "https://open.spotify.com/track/1VwgoKvj7L1PkQTFeFfS6F"
+      "duration_ms": 165482,
+      "name": "COMO CAPO",
+      "url": "https://open.spotify.com/track/395oynN3pkdaY3Np0igFCN"
     },
     {
       "added_at": "2026-02-06 11:19:38",
@@ -1075,18 +1055,22 @@
     {
       "added_at": "2026-02-06 11:19:38",
       "album": {
-        "name": "R\u00e1fagas al Viento",
-        "url": "https://open.spotify.com/album/7igjrxQ40Pjvbe3R7Weqpl"
+        "name": "Ya No Se Llevan Serenatas (Deluxe)",
+        "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
       },
       "artists": [
         {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 161684,
-      "name": "R\u00e1fagas al Viento",
-      "url": "https://open.spotify.com/track/5GIrmSQBxO9LTunilbwMWw"
+      "duration_ms": 196632,
+      "name": "CHROME HEARTS",
+      "url": "https://open.spotify.com/track/1VwgoKvj7L1PkQTFeFfS6F"
     },
     {
       "added_at": "2026-02-06 11:19:38",
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2026-02-06 11:19:38",
       "album": {
+        "name": "R\u00e1fagas al Viento",
+        "url": "https://open.spotify.com/album/7igjrxQ40Pjvbe3R7Weqpl"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "R\u00e1fagas al Viento",
+      "url": "https://open.spotify.com/track/5GIrmSQBxO9LTunilbwMWw"
+    },
+    {
+      "added_at": "2026-02-06 11:19:38",
+      "album": {
         "name": "TU TU TU",
         "url": "https://open.spotify.com/album/4WkJSoeofaut2WwjCfa6p0"
       },
@@ -1167,22 +1167,6 @@
       "duration_ms": 181611,
       "name": "Yo Ya Sabia Pa Donde Iba",
       "url": "https://open.spotify.com/track/68tFrY3RLTslRY3l5wFfKd"
-    },
-    {
-      "added_at": "2026-02-06 11:19:38",
-      "album": {
-        "name": "Jacobo Grinberg",
-        "url": "https://open.spotify.com/album/3mOUbKSVDw0RBD8zx9cF5t"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 281739,
-      "name": "Jacobo Grinberg",
-      "url": "https://open.spotify.com/track/3Iy1j4bzpaFhAb4Jh63R7q"
     },
     {
       "added_at": "2026-02-06 11:19:38",
@@ -1223,6 +1207,22 @@
       "duration_ms": 260285,
       "name": "Malas Rachas - En Vivo",
       "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
+    },
+    {
+      "added_at": "2026-02-06 11:19:38",
+      "album": {
+        "name": "Jacobo Grinberg",
+        "url": "https://open.spotify.com/album/3mOUbKSVDw0RBD8zx9cF5t"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 281739,
+      "name": "Jacobo Grinberg",
+      "url": "https://open.spotify.com/track/3Iy1j4bzpaFhAb4Jh63R7q"
     },
     {
       "added_at": "2026-02-06 11:19:38",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-02-06 11:19:38",
       "album": {
-        "name": "El Capo",
-        "url": "https://open.spotify.com/album/6iapJcyMNDXQeapRUz7knk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Feroz",
-          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
-        }
-      ],
-      "duration_ms": 142435,
-      "name": "El Capo",
-      "url": "https://open.spotify.com/track/1G6UuYgVNFi54L0wXQfMhO"
-    },
-    {
-      "added_at": "2026-02-06 11:19:38",
-      "album": {
         "name": "Hoy Todo Cambio",
         "url": "https://open.spotify.com/album/7k7FKWeJZIapQksOYD8Pgy"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 203885,
       "name": "Hoy Todo Cambio",
       "url": "https://open.spotify.com/track/5K8lmNY7fv7VcSuHHXP1Qa"
+    },
+    {
+      "added_at": "2026-02-06 11:19:38",
+      "album": {
+        "name": "El Capo",
+        "url": "https://open.spotify.com/album/6iapJcyMNDXQeapRUz7knk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+        }
+      ],
+      "duration_ms": 142435,
+      "name": "El Capo",
+      "url": "https://open.spotify.com/track/1G6UuYgVNFi54L0wXQfMhO"
     },
     {
       "added_at": "2026-02-06 11:19:38",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2026-02-06 11:19:38",
       "album": {
+        "name": "Kalashnikov",
+        "url": "https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "duration_ms": 129500,
+      "name": "Kalashnikov",
+      "url": "https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW"
+    },
+    {
+      "added_at": "2026-02-06 11:19:38",
+      "album": {
         "name": "Lo Aprend\u00ed En La Lleca",
         "url": "https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 184269,
       "name": "La Lleca",
       "url": "https://open.spotify.com/track/737UTu0th7F2LGAisD0cKT"
-    },
-    {
-      "added_at": "2026-02-06 11:19:38",
-      "album": {
-        "name": "Kalashnikov",
-        "url": "https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        }
-      ],
-      "duration_ms": 129500,
-      "name": "Kalashnikov",
-      "url": "https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW"
     },
     {
       "added_at": "2026-02-06 11:19:38",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2026-02-06 11:19:38",
       "album": {
-        "name": "Sin Rumbo",
-        "url": "https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi"
-      },
-      "artists": [
-        {
-          "name": "Daniel Garcia",
-          "url": "https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE"
-        }
-      ],
-      "duration_ms": 203606,
-      "name": "PLAYBOY",
-      "url": "https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H"
-    },
-    {
-      "added_at": "2026-02-06 11:19:38",
-      "album": {
         "name": "Proyecto X",
         "url": "https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 158036,
       "name": "Proyecto X",
       "url": "https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8"
+    },
+    {
+      "added_at": "2026-02-06 11:19:38",
+      "album": {
+        "name": "Sin Rumbo",
+        "url": "https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi"
+      },
+      "artists": [
+        {
+          "name": "Daniel Garcia",
+          "url": "https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE"
+        }
+      ],
+      "duration_ms": 203606,
+      "name": "PLAYBOY",
+      "url": "https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H"
     },
     {
       "added_at": "2026-02-06 11:19:38",
@@ -1855,22 +1855,22 @@
     {
       "added_at": "2026-02-06 11:19:38",
       "album": {
-        "name": "Desde Topo Hasta La Sierra (En vivo)",
-        "url": "https://open.spotify.com/album/25w2zwI5cE8ZcTOE5XMj2F"
+        "name": "Hasta Enfrente",
+        "url": "https://open.spotify.com/album/20zNcltZ7WdS62Eg8MF4JD"
       },
       "artists": [
         {
-          "name": "Novillos de la Sierra",
-          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         },
         {
-          "name": "Los Torrenciales de la Sierra",
-          "url": "https://open.spotify.com/artist/1AR0atiSk7fk8C18cEyYNn"
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
         }
       ],
-      "duration_ms": 218534,
-      "name": "Desde Topo Hasta La Sierra - En vivo",
-      "url": "https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj"
+      "duration_ms": 164565,
+      "name": "Hasta Enfrente",
+      "url": "https://open.spotify.com/track/0fW4FpPnw94ZTSClsgn8uN"
     }
   ],
   "unique_name": "La Mamalona",

@@ -961,6 +961,24 @@
     },
     {
       "album": {
+        "name": "Cosmogonia",
+        "url": "https://open.spotify.com/album/4y9X1Qi3cZ9vISGYszfi5t"
+      },
+      "artists": [
+        {
+          "name": "Yom",
+          "url": "https://open.spotify.com/artist/2A8lfnul2PK2wGs1Rgsb95"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334778,
+      "name": "Cosmogonia",
+      "url": "https://open.spotify.com/track/6N8uXuMNsqpnelQpskxC0j"
+    },
+    {
+      "album": {
         "name": "Cracks",
         "url": "https://open.spotify.com/album/0SKz3oXHcgtANIjmTDO2yJ"
       },
@@ -1189,6 +1207,32 @@
     },
     {
       "album": {
+        "name": "Death, Reverb and Decay",
+        "url": "https://open.spotify.com/album/2M1uZvWZxhHv5fqLd15JRj"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
+          "name": "John Also Bennett",
+          "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
+        },
+        {
+          "name": "Oliver Coates",
+          "url": "https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444000,
+      "name": "Death, Reverb and Decay",
+      "url": "https://open.spotify.com/track/3BZJ6Uqy7z1s2izOjUs2ci"
+    },
+    {
+      "album": {
         "name": "The All in Every This",
         "url": "https://open.spotify.com/album/7tuuQi7mWGgrgXx43c19y9"
       },
@@ -1382,7 +1426,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 350968,
       "name": "Endocrine Disruptor",
       "url": "https://open.spotify.com/track/2PF6906ULwsP3InXPZ2gPc"
@@ -2096,7 +2140,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 176326,
       "name": "hoffnungslos",
       "url": "https://open.spotify.com/track/5MhMBqo6XXhgEqPaj4lg7G"
@@ -2372,6 +2416,28 @@
       "duration_ms": 79579,
       "name": "i'm lost",
       "url": "https://open.spotify.com/track/2gZvLUKJiPWCmFrTTnVThH"
+    },
+    {
+      "album": {
+        "name": "Idyll",
+        "url": "https://open.spotify.com/album/4q9Z8x7W7RxIaf4I2XvWpd"
+      },
+      "artists": [
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        },
+        {
+          "name": "Jupi/ter",
+          "url": "https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436000,
+      "name": "Idyll",
+      "url": "https://open.spotify.com/track/67R9g8USeok4tSctlB98dN"
     },
     {
       "album": {
@@ -2996,7 +3062,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-26",
+      "date_removed": null,
       "duration_ms": 458706,
       "name": "Lord, Am I Going Down?",
       "url": "https://open.spotify.com/track/7FFtFxUd9FX57DERV5EvcD"
@@ -3346,7 +3412,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 196800,
       "name": "My Darkest Hour",
       "url": "https://open.spotify.com/track/4xo58k1mlaohC1gcLW1F60"
@@ -3368,7 +3434,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 130000,
       "name": "My God",
       "url": "https://open.spotify.com/track/2P1YnmUrhf2b7RkljESSRH"
@@ -3646,7 +3712,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 290813,
       "name": "Nuuk (Air)",
       "url": "https://open.spotify.com/track/2w9LpnDMhMxbeVkvZgFcoK"
@@ -4192,7 +4258,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-29",
+      "date_removed": null,
       "duration_ms": 196363,
       "name": "Purity",
       "url": "https://open.spotify.com/track/0UoWeHekRpGzxWl9URL9VK"
@@ -4414,7 +4480,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 351420,
       "name": "RITUAL (evocation)",
       "url": "https://open.spotify.com/track/7lBIa2pIbyIngZZQkaPjAK"
@@ -4458,6 +4524,24 @@
       "duration_ms": 106666,
       "name": "rough days",
       "url": "https://open.spotify.com/track/1GC7RrcffnCEoXsXhpODJK"
+    },
+    {
+      "album": {
+        "name": "Rub\u2019 Al Khali",
+        "url": "https://open.spotify.com/album/28S1XtiDcZJnJPtXuCHWYG"
+      },
+      "artists": [
+        {
+          "name": "Alex Zhang Hungtai",
+          "url": "https://open.spotify.com/artist/0U4w3nZTdH0QyefP5b1q0P"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159066,
+      "name": "Rub\u2019 Al Khali",
+      "url": "https://open.spotify.com/track/6GodnxZSXNEX2eDwRV0Nky"
     },
     {
       "album": {
@@ -4836,7 +4920,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 600533,
       "name": "Sorgj\u00e2l",
       "url": "https://open.spotify.com/track/1TCMjJrTpnQauIWksCcbzn"
@@ -5130,6 +5214,24 @@
       "duration_ms": 1168386,
       "name": "Sun - Midnight Version",
       "url": "https://open.spotify.com/track/7MJNbajzY9V54Eq2a0SiQD"
+    },
+    {
+      "album": {
+        "name": "Sunlight Zone",
+        "url": "https://open.spotify.com/album/4qQy2EJsZNVvrRgXZJe2Ez"
+      },
+      "artists": [
+        {
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 672016,
+      "name": "Sunlight Zone",
+      "url": "https://open.spotify.com/track/46YhbNVUyPEFQ9N4KymBGu"
     },
     {
       "album": {
@@ -5736,7 +5838,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 264000,
       "name": "this feels like the beginning",
       "url": "https://open.spotify.com/track/2SslDUGBv2etZLquEm0OIX"
@@ -6258,6 +6360,24 @@
       "duration_ms": 156879,
       "name": "Where Shadows Cross",
       "url": "https://open.spotify.com/track/01PSwIYcSK1go1pMU4WpCK"
+    },
+    {
+      "album": {
+        "name": "Wilderness",
+        "url": "https://open.spotify.com/album/7HktUMt7zeVI1qZLTVnMmp"
+      },
+      "artists": [
+        {
+          "name": "Hanna Lindgren",
+          "url": "https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187750,
+      "name": "Wilderness",
+      "url": "https://open.spotify.com/track/3GPPGnqnwI9aDcT2oyi8Td"
     },
     {
       "album": {

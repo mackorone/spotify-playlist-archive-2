@@ -236,7 +236,7 @@
       ],
       "date_added": "2019-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 193293,
       "name": "All You Had To Do Was Stay",
       "url": "https://open.spotify.com/track/0dAb8TY433dl3ZfXYCLE19"
@@ -6886,6 +6886,24 @@
       "duration_ms": 209320,
       "name": "New Rules",
       "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
+    },
+    {
+      "album": {
+        "name": "New Year's Eve",
+        "url": "https://open.spotify.com/album/2wcAjapN7Lyie2OpbLwBrw"
+      },
+      "artists": [
+        {
+          "name": "Ida Fiona",
+          "url": "https://open.spotify.com/artist/0P1ms6USIpLYgcCZ9s1Xbm"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171248,
+      "name": "New Year's Eve",
+      "url": "https://open.spotify.com/track/53hEGYyUpj3FYvQOCHVdo7"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Karan Aujla
 
-783 songs - 1 day 13 hr 25 min
+784 songs - 1 day 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Darshan](https://open.spotify.com/track/2RBjJILwiZVMNngEJPY4xx) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5), [Sukh\-E Muzical Doctorz](https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ) | [Darshan](https://open.spotify.com/album/4NDEicMj7D0FarN9kTbmGl) | 2:55 | 2024-05-08 | 2024-07-03 |
 | [DASS JATTA](https://open.spotify.com/track/7040CjemGFRjCvVzVEwa6R) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [2003](https://open.spotify.com/album/3xaN6DbmCjuDsBclF2xSaF) | 2:35 | 2024-07-19 |  |
 | [Dead \(From 'Warning 2"\)](https://open.spotify.com/track/2WHXKqVX63rEwZ3v801lbR) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv), [JP47](https://open.spotify.com/artist/12ZFBwOMiEaUTRYUYfOUBw) | [Dead \(From 'Warning 2"\)](https://open.spotify.com/album/04PgRF5C9TryruRdoaQmp9) | 2:22 | 2024-01-22 | 2024-01-25 |
+| [Dead Body](https://open.spotify.com/track/5gqctUqvKbxo9c36hv47AV) | [Baaghi](https://open.spotify.com/artist/5BrUvwny26mMtvSDXCLxwo), [Little Boi](https://open.spotify.com/artist/4rgTolxMdRlzcWwUNz7seh) | [Dead Body](https://open.spotify.com/album/3LyHyxCSS894rGSYMt1jeg) | 3:33 | 2026-02-27 |  |
 | [DEAD ZONE](https://open.spotify.com/track/5RTQ7QLKmUyWMl0jdPJzhp) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Jay Dee](https://open.spotify.com/artist/35sUjoeFA3eopTY3PXEjVA) | [DEAD ZONE](https://open.spotify.com/album/0mjJN14v2RlLGi4irooXVm) | 2:49 | 2023-03-29 | 2023-07-15 |
 | [Death Row](https://open.spotify.com/track/0dDDt47pVAToheSPh12utX) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [J.Hind](https://open.spotify.com/artist/3hWwqQE8pDtGEOOf0VJx4t), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Death Row](https://open.spotify.com/album/7oq6Bm8RUggWkrXdsBMgfm) | 3:05 | 2023-04-27 | 2025-08-27 |
 | [Defender](https://open.spotify.com/track/1QGUZ1pSmeJv7U677bSVN9) | [Deep Karan](https://open.spotify.com/artist/2rAC8yC2Aqdo2utiGuDto2), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Defender](https://open.spotify.com/album/0jhvzKYhasAq4RzgeVK3A9) | 2:24 | 2023-06-27 | 2023-10-12 |
@@ -227,7 +228,7 @@
 | [Face Off](https://open.spotify.com/track/6F4IkQArLX0RLBtkdVozdw) | [Harry Waraich](https://open.spotify.com/artist/3z8JCnJGvJfcjNDfHzTnzp), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Face Off](https://open.spotify.com/album/2oF0uESFONNNQOdQwtM57J) | 2:44 | 2023-09-18 | 2023-10-07 |
 | [Faith](https://open.spotify.com/track/5Hnl7vagze1xTLyybaltfs) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS), [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Faith](https://open.spotify.com/album/21Gstty5YfiD673TAy3xc7) | 3:36 | 2024-08-29 | 2024-10-02 |
 | [Faizal](https://open.spotify.com/track/5Ay3nE2YNmBF60RDB6DtkP) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [Faizal](https://open.spotify.com/album/2OIBwvMBt2Ktk3SWRMmrKx) | 2:58 | 2023-03-29 | 2024-06-14 |
-| [Fake Friends](https://open.spotify.com/track/0kwLivALARXUEwji93qO3N) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [World Is Yours](https://open.spotify.com/album/2aB2OOBrw8fT6bQhBWBZWl) | 2:56 | 2026-02-04 |  |
+| [Fake Friends](https://open.spotify.com/track/0kwLivALARXUEwji93qO3N) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [World Is Yours](https://open.spotify.com/album/2aB2OOBrw8fT6bQhBWBZWl) | 2:56 | 2026-02-04 | 2026-02-28 |
 | [Fame](https://open.spotify.com/track/0doLWXxQzcRzv8isym89LD) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY), [Deol Harman](https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa) | [Fame](https://open.spotify.com/album/3lbWyHLi8UdkSPAG1r2Eem) | 2:15 | 2023-08-03 | 2024-02-21 |
 | [Fame Reimagined](https://open.spotify.com/track/6slt0Km0sIX6pfvao6DklQ) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Fame Reimagined](https://open.spotify.com/album/2S5yuKEW0ulvUYF65itkoo) | 2:16 | 2023-06-30 | 2023-10-12 |
 | [Fame Reimagined](https://open.spotify.com/track/7bHAu24rfpeMGUXfRLz8RU) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Fame Reimagined](https://open.spotify.com/album/2TTgfgO3GGbBbyfZhw1cLy) | 2:16 | 2023-05-25 | 2023-07-02 |

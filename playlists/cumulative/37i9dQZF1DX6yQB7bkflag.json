@@ -1733,6 +1733,24 @@
     },
     {
       "album": {
+        "name": "Al-Hawdh",
+        "url": "https://open.spotify.com/album/4ovpwDJYCK6JMlOIvy46St"
+      },
+      "artists": [
+        {
+          "name": "Maher Zain",
+          "url": "https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208111,
+      "name": "Al-Hawdh",
+      "url": "https://open.spotify.com/track/6EbPNZBHJnM8iOuJW2HRlJ"
+    },
+    {
+      "album": {
         "name": "Alamak",
         "url": "https://open.spotify.com/album/5oUWkx2j4lVO8u7kM3XnJT"
       },

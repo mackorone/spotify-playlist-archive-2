@@ -2045,6 +2045,24 @@
     },
     {
       "album": {
+        "name": "Funzioni Vitali",
+        "url": "https://open.spotify.com/album/4IPUuyazmb3slWXpLYuiBX"
+      },
+      "artists": [
+        {
+          "name": "Ermal Meta",
+          "url": "https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198473,
+      "name": "Almeno tu",
+      "url": "https://open.spotify.com/track/2AognSrWnJLWnc5OUGNS6p"
+    },
+    {
+      "album": {
         "name": "Almost",
         "url": "https://open.spotify.com/album/5Z3pArkP5MFDBRsjUWd6zC"
       },
@@ -4980,7 +4998,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 78000,
       "name": "BELLA NAPOLI",
       "url": "https://open.spotify.com/track/7rCpSznEWH4NCyqk7BEiNX"
@@ -24042,6 +24060,28 @@
       "duration_ms": 158999,
       "name": "key to my heart",
       "url": "https://open.spotify.com/track/0sDjX3fzrHZtQY1bCrH245"
+    },
+    {
+      "album": {
+        "name": "Keychain (FROM THE FILM K-POPS!)",
+        "url": "https://open.spotify.com/album/58x92u1JINTa5K7lTzfU02"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170786,
+      "name": "Keychain - FROM THE FILM K-POPS!",
+      "url": "https://open.spotify.com/track/3Q3WZ7sJLoIZQKY7hWFyQu"
     },
     {
       "album": {

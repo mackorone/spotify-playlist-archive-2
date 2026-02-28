@@ -2,9 +2,9 @@
 
 ### [Enamorándose](https://open.spotify.com/playlist/37i9dQZF1DX14fkzxPABaL)
 
-> La música que te acompaña en el amor\. Foto: Reik & Xavi
+> La música que te acompaña en el amor\. Foto: Piso 21 & Yami Safdie
 
-230 songs - 12 hr 38 min
+232 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [El día menos pensado](https://open.spotify.com/track/2POEnW8xvLI8o3zcm61tJz) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [El día menos pensado](https://open.spotify.com/album/7c3gCf6zmvLjb1DY4QqGBu) | 3:44 | 2022-01-14 |  |
 | [El Día Que Me Quieras](https://open.spotify.com/track/2tYXqOwmOs1Lx6lUQaM2Mc) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [El Día Que Me Quieras](https://open.spotify.com/album/1QycfiMI1YAEorcLQImADn) | 4:11 | 2022-04-01 | 2022-10-29 |
 | [El Flechazo y la Secuela](https://open.spotify.com/track/4AyfwjVyaU2xXPQlS8AwdL) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [El Flechazo y la Secuela](https://open.spotify.com/album/1T0hdMNJH2dp0pB6fvUok8) | 3:31 | 2022-01-14 | 2022-10-29 |
-| [El Mundo](https://open.spotify.com/track/4tlQaF2e3VSQTlK22WRf7L) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [El Mundo](https://open.spotify.com/album/2BvuzOIT0RG2emuTC1fpfI) | 3:33 | 2023-09-08 |  |
+| [El Mundo](https://open.spotify.com/track/4tlQaF2e3VSQTlK22WRf7L) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [El Mundo](https://open.spotify.com/album/2BvuzOIT0RG2emuTC1fpfI) | 3:33 | 2023-09-08 | 2026-02-28 |
 | [Ella vive en mí \(feat\. Antonio Orozco\)](https://open.spotify.com/track/0ovmTRD7DHaHZJTFeZVivT) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [Antonio Orozco](https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf) | [Ella vive en mí \(feat\. Antonio Orozco\)](https://open.spotify.com/album/7fOxTwcJRhIMemA2x0cWkf) | 3:31 | 2022-01-14 | 2023-12-16 |
 | [En Coma](https://open.spotify.com/track/7hPB9qxK37bIzhltHlD5gv) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [¿A Dónde Vamos?](https://open.spotify.com/album/01R2vYq9iDhn4ZXtM5dd7i) | 3:23 | 2022-01-14 | 2022-04-02 |
 | [Entiéndelo](https://open.spotify.com/track/69QB9IQdyxt48WwcomJAmZ) | [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz) | [Entiéndelo](https://open.spotify.com/album/6SZQatuIqnVNMGojwai7ls) | 2:37 | 2022-07-22 | 2023-10-06 |
@@ -166,7 +166,7 @@
 | [PLIS](https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [PLIS](https://open.spotify.com/album/1Zbxfjz8ovbTb2mMX5kYCX) | 3:42 | 2024-02-16 |  |
 | [Por el Resto de Tu Vida](https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Por el Resto de Tu Vida](https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm) | 3:17 | 2023-01-27 |  |
 | [Por Primera Vez](https://open.spotify.com/track/0gWbAFRcUyZKdfUxEOuOiD) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Por Primera Vez](https://open.spotify.com/album/5DeSD9bKMtDQCN1ErYy7jj) | 3:03 | 2022-01-14 |  |
-| [Por ti lo haré](https://open.spotify.com/track/2HjCAFncaCgLInWjM4IgCN) | [Manuel Wirzt](https://open.spotify.com/artist/27kA8TnszsSYSZDikpz0Ra), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Por ti lo haré](https://open.spotify.com/album/5zwgR5cqYr87DwScZ8TtcI) | 3:36 | 2025-09-12 |  |
+| [Por ti lo haré](https://open.spotify.com/track/2HjCAFncaCgLInWjM4IgCN) | [Manuel Wirzt](https://open.spotify.com/artist/27kA8TnszsSYSZDikpz0Ra), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Por ti lo haré](https://open.spotify.com/album/5zwgR5cqYr87DwScZ8TtcI) | 3:36 | 2025-09-12 | 2026-02-28 |
 | [Por Tu Amor \- Si Fuera Mía](https://open.spotify.com/track/1cYKJBDFOlT6a1vhjY4ygo) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Por Tu Amor \(Si Fuera Mía\)](https://open.spotify.com/album/7xAjjBjupSfF4j2xrrrW69) | 3:20 | 2022-01-14 | 2022-07-29 |
 | [Por Tu Amor \- Si Fuera Mía](https://open.spotify.com/track/5qELKdEhxaAjYKROyf52C8) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Si Fuera Mía \- EP](https://open.spotify.com/album/0Blo1xKwN9GKOUgCBBWvmx) | 3:20 | 2022-07-22 | 2022-10-15 |
 | [Primera Carta](https://open.spotify.com/track/3VdyHA9vN9CiL9OPizGd0H) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Primera Carta](https://open.spotify.com/album/5Fl3uNVlwnFmHrvkiBMRWL) | 4:18 | 2022-01-14 | 2022-04-02 |
@@ -208,6 +208,7 @@
 | [Te Acuerdas](https://open.spotify.com/track/4Oy75mbculFYO26JYtc8DN) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Te Acuerdas](https://open.spotify.com/album/2Txo9Wjv50Xxg8m9fgc5h1) | 3:25 | 2023-08-18 |  |
 | [Te Amo](https://open.spotify.com/track/1f6HNRgWZQL1wz99z1GWCy) | [Natále](https://open.spotify.com/artist/0wefo1aNYRvfoBlA7jOwkJ) | [Te Amo](https://open.spotify.com/album/6oT7TQdQ9UIMSlIq1628lT) | 4:02 | 2024-08-26 | 2025-01-18 |
 | [Te Echo de Menos](https://open.spotify.com/track/5e8muKs11JnVqyEBMsLYFg) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Te Echo de Menos](https://open.spotify.com/album/0HVcUL17jKyY4F8PqiUF8T) | 3:25 | 2022-11-11 | 2023-06-17 |
+| [Te Elijo](https://open.spotify.com/track/032PZ5jBJYvzt8nPry49Ml) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Te Elijo](https://open.spotify.com/album/6tiLCUQHveCwBusTVQCU8C) | 2:56 | 2026-02-27 |  |
 | [Te Necesito \(Live Acoustic\)](https://open.spotify.com/track/5WKZKW5LNPUYI8X5AZAxau) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Necesito \(Live Acoustic\)](https://open.spotify.com/album/2N2uXaMFPE1ijwSgJADheH) | 3:15 | 2023-07-14 | 2024-04-19 |
 | [Te Necesito \(Live Acoustic\)](https://open.spotify.com/track/79uVK69HCjcVEKsVcl4DAB) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Necesito \(Live Acoustic\)](https://open.spotify.com/album/22HjtWbGDotQroRs9Wo3KH) | 3:15 | 2022-01-14 | 2024-09-21 |
 | [Te Olvidaré](https://open.spotify.com/track/1z48NPFPNJEV4UAg83OFd2) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [TINI TINI TINI](https://open.spotify.com/album/16TT0OKoyEgD22nj70WUEi) | 3:14 | 2022-01-14 | 2022-07-23 |
@@ -227,6 +228,7 @@
 | [Un Beso en Madrid](https://open.spotify.com/track/0KTwYI4vwidX9qip7ViAEQ) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Un Beso en Madrid](https://open.spotify.com/album/2meU91rmdHZgJDjjUzkRRA) | 2:23 | 2022-01-14 | 2022-10-15 |
 | [Un Nuevo Amor](https://open.spotify.com/track/4vyg50FAJjpCQEwmJMxlv1) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Un Nuevo Amor](https://open.spotify.com/album/0qRYR5QyvLEt16G7UisMS2) | 3:46 | 2022-04-01 |  |
 | [Una Lágrima y Un Beso](https://open.spotify.com/track/1WKQltJAgWGgBi038RjysV) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Una Lágrima y Un Beso](https://open.spotify.com/album/5rnUwBTdluUlt8sJIxyRCS) | 3:20 | 2023-05-26 |  |
+| [Una Mañana y Un Camino \- Versión Montaner](https://open.spotify.com/track/6LWcVeS5SQ5pk0o0yy5Msd) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Una Mañana Y Un Camino \(Versión Montaner\)](https://open.spotify.com/album/1OAgrsPnZ83Az0gOZjFA1K) | 4:51 | 2026-02-27 |  |
 | [Una Vez Más](https://open.spotify.com/track/6OOxQbWcBMCcucTsQnS7yu) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Una Vez Más](https://open.spotify.com/album/4MMZysMSiZxdQo34c2r8Gi) | 3:37 | 2022-07-29 | 2026-02-12 |
 | [Una y Mil Veces](https://open.spotify.com/track/2tM5Vgu5BK1K1IqVqWO2G0) | [Natalino](https://open.spotify.com/artist/563WRI9dfOxQmHUooyJgW8) | [Una y Mil Veces](https://open.spotify.com/album/7xuDqWQI5vAlFPd2DDXpBb) | 3:09 | 2022-01-14 | 2022-05-07 |
 | [Uno Más Uno](https://open.spotify.com/track/2EI0oMlblptqVqHRo05UdT) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Uno Más Uno](https://open.spotify.com/album/4zwAsG8qj3qekA4MUngiov) | 3:09 | 2022-01-14 | 2023-10-06 |

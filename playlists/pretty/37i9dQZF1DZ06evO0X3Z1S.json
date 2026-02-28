@@ -1,12 +1,12 @@
 {
   "description": "This is Jonas Blue. The essential tracks, all in one playlist.",
-  "num_followers": 87932,
+  "num_followers": 87934,
   "original_name": "This Is Jonas Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAACi4vylJLsjWr0bWg4J5Rwe",
+  "snapshot_id": "aZ+NAAAAAADWT7GEC8BzkiXA9Prvvr3A",
   "tracks": [
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/0mjru6iErl5h2amcxpMpg9"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "RANI",
-          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
-        }
-      ],
-      "duration_ms": 188891,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/0PZpE9CYvOLt0wRZeOY5fV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sad Boy (feat. Ava Max & Kylie Cantrall)",
         "url": "https://open.spotify.com/album/5KcaU97tf7FqJ1s9cKVPpZ"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 141204,
       "name": "Sad Boy (feat. Ava Max & Kylie Cantrall)",
       "url": "https://open.spotify.com/track/1qRgEKIeSrMcS62Ji4g8VT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/0mjru6iErl5h2amcxpMpg9"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "duration_ms": 188891,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/0PZpE9CYvOLt0wRZeOY5fV"
     },
     {
       "added_at": null,
@@ -843,26 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fast Car (Remixes)",
-        "url": "https://open.spotify.com/album/40ifSsakci9ksnclgVDT8F"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Dakota",
-          "url": "https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms"
-        }
-      ],
-      "duration_ms": 330967,
-      "name": "Fast Car - Club Mix",
-      "url": "https://open.spotify.com/track/38Iwduov8CqeckUz1oKmyC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Night Long",
         "url": "https://open.spotify.com/album/0N142E2hr6c8uf0qrpfvhQ"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 206666,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/7rRMmhC027ixjjXzuZYoMv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fast Car (Remixes)",
+        "url": "https://open.spotify.com/album/40ifSsakci9ksnclgVDT8F"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Dakota",
+          "url": "https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms"
+        }
+      ],
+      "duration_ms": 330967,
+      "name": "Fast Car - Club Mix",
+      "url": "https://open.spotify.com/track/38Iwduov8CqeckUz1oKmyC"
     },
     {
       "added_at": null,

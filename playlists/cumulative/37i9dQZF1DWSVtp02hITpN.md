@@ -4,7 +4,7 @@
 
 > The best pop music right now ft\. Charli xcx
 
-748 songs - 1 day 15 hr 33 min
+749 songs - 1 day 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Give Me More](https://open.spotify.com/track/5NDtRNvnSdbGGAWRqDGMSZ) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Give Me More](https://open.spotify.com/album/42jsuMoNdmTPbr8msasO8e) | 3:10 | 2025-10-23 | 2025-11-15 |
 | [Glitter](https://open.spotify.com/track/0y9S3dw1MBzHqmTpMTTd0M) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Glitter](https://open.spotify.com/album/3ISicmxJuaKEZEbKDJuOdo) | 3:11 | 2025-12-12 | 2026-01-16 |
 | [Gloria](https://open.spotify.com/track/2Yk73K05ZGxI6pZBOG6lS4) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Gloria](https://open.spotify.com/album/3JHsuuNJM52oePgcXvbdhw) | 3:36 | 2025-04-10 | 2025-05-17 |
+| [GO](https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 3:15 | 2026-02-27 |  |
 | [God Was Showing Off](https://open.spotify.com/track/1sVBT215CDmVJvfy1E2OCU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:31 | 2026-02-27 |  |
 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 | 2025-06-06 | 2025-08-01 |
 | [GODSPEED](https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [C,XOXO \(Magic City Edition\)](https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm) | 3:36 | 2024-09-05 | 2024-10-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 
 > The greatest female voices in blues today\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,559 likes - 70 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,634 likes - 70 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 4 | [She Was a Doorman](https://open.spotify.com/track/1CgGro1rXhkxs7LviofPyT) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf) | [Trilogy, Vol\. 1](https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP) | 4:03 |
 | 5 | [Good Love Had To Die](https://open.spotify.com/track/3waUNDqqEcv8GFLr6w3YNz) | [Gráinne Duffy](https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y) | [Out Of The Dark](https://open.spotify.com/album/00EueLV9XQ46OWV5EnOPlt) | 3:35 |
 | 6 | [Fire](https://open.spotify.com/track/70VSFe3tTnCLpue9StG69U) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Fire](https://open.spotify.com/album/2RisnGnqdl2KmkWlskYfdt) | 3:48 |
-| 7 | [Back To The River](https://open.spotify.com/track/2DMnCy43xnMVX2eglYtn6R) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Back To The River](https://open.spotify.com/album/2VRGI6aGaoCALCJyk0dGdc) | 3:55 |
-| 8 | [Black Myself](https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:21 |
+| 7 | [Black Myself](https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:21 |
+| 8 | [Back To The River](https://open.spotify.com/track/2DMnCy43xnMVX2eglYtn6R) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Back To The River](https://open.spotify.com/album/2VRGI6aGaoCALCJyk0dGdc) | 3:55 |
 | 9 | [Faster](https://open.spotify.com/track/2s3x313mhoMD0Twgg9unRx) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Faster](https://open.spotify.com/album/5UPzWIvVARqfzRn964aiah) | 2:55 |
 | 10 | [I'm A Woman](https://open.spotify.com/track/0HPazJXESVCimRyMggplg5) | [Deborah Coleman](https://open.spotify.com/artist/7Dk3koHTPpEymzuWOWzzny) | [Soft Place To Fall](https://open.spotify.com/album/7MDS3NXJ5thAHZkUcALtDN) | 4:51 |
 | 11 | [Tricky Thing](https://open.spotify.com/track/7bpJJDFOR7CQMA2Ssm1yka) | [Jessy Martens and Band](https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt) | [Tricky Thing](https://open.spotify.com/album/4aPtimYS5kIEl8d03ToDUz) | 4:31 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 41 | [Ghost](https://open.spotify.com/track/4P8pay7zYJUbVhtbWFaxEW) | [Orianthi](https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs) | [Ghost](https://open.spotify.com/album/7z5F3gDwpJ74b4lHSrJ9FX) | 3:30 |
 | 42 | [You Ain't My Dog No More](https://open.spotify.com/track/054MF2HfHcqygtR0ikyOPq) | [Eliza Neals](https://open.spotify.com/artist/48XgWMevIvFi72xQFN2qqb) | [10,000 Feet Below](https://open.spotify.com/album/6qGoljg8VssC15xzOsr0C5) | 4:24 |
 | 43 | [Tough Mother](https://open.spotify.com/track/5UndMjrWyjazFcG9dNFDd6) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Tough Mother](https://open.spotify.com/album/5ohhYEuVsLH1k7SxCGJMTI) | 4:14 |
-| 44 | [You Hurt Me](https://open.spotify.com/track/4a1J0H20gJsVq1BFOTuoaD) | [Lindsay Beaver](https://open.spotify.com/artist/0335mjeyPINgxiLdjrkpqJ) | [Tough As Love](https://open.spotify.com/album/0a00SdLsbIRcPV2FdVCd0Z) | 3:43 |
-| 45 | [Blood Red Blues](https://open.spotify.com/track/6tUaoQubP95G9YseowN2Fc) | [Cee Cee James](https://open.spotify.com/artist/6Y21yqal00z7As840atRpD) | [Blood Red Blues](https://open.spotify.com/album/6AmwjavjuaLjqA9II7pLDO) | 3:54 |
+| 44 | [Blood Red Blues](https://open.spotify.com/track/6tUaoQubP95G9YseowN2Fc) | [Cee Cee James](https://open.spotify.com/artist/6Y21yqal00z7As840atRpD) | [Blood Red Blues](https://open.spotify.com/album/6AmwjavjuaLjqA9II7pLDO) | 3:54 |
+| 45 | [You Hurt Me](https://open.spotify.com/track/4a1J0H20gJsVq1BFOTuoaD) | [Lindsay Beaver](https://open.spotify.com/artist/0335mjeyPINgxiLdjrkpqJ) | [Tough As Love](https://open.spotify.com/album/0a00SdLsbIRcPV2FdVCd0Z) | 3:43 |
 | 46 | [Stay with Me](https://open.spotify.com/track/3ZFwoOTjcVzVOcFM08NsjG) | [Laurie Morvan](https://open.spotify.com/artist/2ONUJ0UH3CbpcWMzIFiveG) | [Gravity](https://open.spotify.com/album/398jxHU1B54yCJGOq4Iiyb) | 4:29 |
 | 47 | [Hard Times, Bad Decisions](https://open.spotify.com/track/3Y7UdjWcTTYUwzJlhQb1nU) | [Lisa Mann](https://open.spotify.com/artist/119v7X6k46bE5xgwuWawbt) | [Hard Times, Bad Decisions](https://open.spotify.com/album/4woumpJLb24RBzibZkh3OB) | 4:31 |
 | 48 | [Love's Truly Blind](https://open.spotify.com/track/6Sm45PLFiplvxlQuLnMUMC) | [Anni Piper](https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo) | [Texas Hold 'Em](https://open.spotify.com/album/2fUmLqaNyVUIRuIqUFFHui) | 3:27 |

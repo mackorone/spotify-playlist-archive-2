@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6FKfbzAFjW.md) - [plain]
 
 > Remember Cinco de Mayo is not the Mexican Independence day, but here are some feel\-good tunes for your cinco de drinko\. ¡Salud!
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,470 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,479 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [La Bandera](https://open.spotify.com/track/1yY11odB1K0id6dtJQXT4j) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [La Bandera](https://open.spotify.com/album/73o8i8GdGPqeetj2WkQhit) | 2:40 |
 | 2 | [TU TU TU](https://open.spotify.com/track/5sK3SqHia7p5dXjdq1dluB) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [TU TU TU](https://open.spotify.com/album/4WkJSoeofaut2WwjCfa6p0) | 2:31 |
 | 3 | [Oye Mi Amor](https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:23 |
-| 4 | [AMOR \- Remix](https://open.spotify.com/track/16KUzRCczhBzuaa2DkgFN2) | [Emmanuel Cortes](https://open.spotify.com/artist/1Fw3mrMZROO1DBCZlQPasS), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [AMOR \(Remix\)](https://open.spotify.com/album/4QTWMcbaCU5HeaB1vMR3IR) | 3:20 |
+| 4 | [AMOR \- Remix](https://open.spotify.com/track/16KUzRCczhBzuaa2DkgFN2) | [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [AMOR \(Remix\)](https://open.spotify.com/album/4QTWMcbaCU5HeaB1vMR3IR) | 3:20 |
 | 5 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 |
 | 6 | [Una Nada Más](https://open.spotify.com/track/5dHJtIoVTrm0jZ7zIP8xSH) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Una Nada Más](https://open.spotify.com/album/3cpy4O0DQUvjJn0wAorPWl) | 2:49 |
 | 7 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 |

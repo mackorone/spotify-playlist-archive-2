@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadOVCgGhS7j.md) - [plain]
 
 > Put a spring in your step with these mood boosting tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,857,970 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,857,929 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadOVCgGhS7j.md) - [plain]
 | 10 | [DJ Got Us Fallin' In Love \(feat\. Pitbull\)](https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Raymond v Raymond \(Expanded Edition\)](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) | 3:40 |
 | 11 | [We Found Love](https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Talk That Talk](https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn) | 3:35 |
 | 12 | [Shut Up and Dance](https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 3:19 |
-| 13 | [TiK ToK](https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:19 |
+| 13 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 |
 | 14 | [Adventure of a Lifetime](https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 4:23 |
-| 15 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 |
+| 15 | [TiK ToK](https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:19 |
 | 16 | [I Gotta Feeling](https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:49 |
 | 17 | [Call Me Maybe](https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss](https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2) | 3:13 |
 | 18 | [Still into You](https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:36 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadOVCgGhS7j.md) - [plain]
 | 30 | [Wild Ones \(feat\. Sia\)](https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 3:52 |
 | 31 | [Galway Girl](https://open.spotify.com/track/0afhq8XCExXpqazXczTSve) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 2:50 |
 | 32 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 |
-| 33 | [Beauty And A Beat](https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe \(Deluxe Edition\)](https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9) | 3:47 |
-| 34 | [Sugar \(feat\. Francesco Yates\)](https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Francesco Yates](https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:39 |
+| 33 | [Sugar \(feat\. Francesco Yates\)](https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Francesco Yates](https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:39 |
+| 34 | [Beauty And A Beat](https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe \(Deluxe Edition\)](https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9) | 3:47 |
 | 35 | [Good Feeling](https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 4:08 |
 | 36 | [Shower](https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Shower](https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr) | 3:26 |
 | 37 | [Best Day Of My Life](https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Oh, What A Life](https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv) | 3:14 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadOVCgGhS7j.md) - [plain]
 | 47 | [About Damn Time](https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:11 |
 | 48 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 |
 | 49 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 |
-| 50 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 |
+| 50 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
 
 Snapshot ID: `AAAAALOIDilkOgvg+g8fo7O3GEO38fnx`

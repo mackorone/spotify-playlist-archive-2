@@ -1,12 +1,12 @@
 {
   "description": "This is Evaluna Montaner. The essential tracks, all in one playlist.",
-  "num_followers": 15803,
+  "num_followers": 15806,
   "original_name": "This Is Evaluna Montaner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAACpquYkf1yr4B72GM0UdeQG",
+  "snapshot_id": "aZ+NAAAAAAC7nJH8/cFJrZ4P3a8EZQYR",
   "tracks": [
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Uno M\u00e1s Uno",
+        "url": "https://open.spotify.com/album/4zwAsG8qj3qekA4MUngiov"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 189653,
+      "name": "Uno M\u00e1s Uno",
+      "url": "https://open.spotify.com/track/2EI0oMlblptqVqHRo05UdT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Club 57",
         "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 184770,
       "name": "Cuando Te Enamores de M\u00ed",
       "url": "https://open.spotify.com/track/7LWo2thKTCQngMPjDjjD1X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Uno M\u00e1s Uno",
-        "url": "https://open.spotify.com/album/4zwAsG8qj3qekA4MUngiov"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 189653,
-      "name": "Uno M\u00e1s Uno",
-      "url": "https://open.spotify.com/track/2EI0oMlblptqVqHRo05UdT"
     },
     {
       "added_at": null,
@@ -343,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yo Me Salv\u00e9",
+        "url": "https://open.spotify.com/album/4pAE0aW14Z2S7CrsojMtEG"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 254386,
+      "name": "Yo Me Salv\u00e9",
+      "url": "https://open.spotify.com/track/5vJrecmwMX3i5iilsZvHeK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Club 57",
         "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
       },
@@ -367,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Me Salv\u00e9",
-        "url": "https://open.spotify.com/album/4pAE0aW14Z2S7CrsojMtEG"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 254386,
-      "name": "Yo Me Salv\u00e9",
-      "url": "https://open.spotify.com/track/5vJrecmwMX3i5iilsZvHeK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Tu Amor",
         "url": "https://open.spotify.com/album/1UTdQUyAlL3h4uGtOPnecP"
       },
@@ -395,6 +395,30 @@
       "duration_ms": 194118,
       "name": "Por Tu Amor",
       "url": "https://open.spotify.com/track/16hxPVDdazmOOo6QT2grK5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Podemos Ser Amigos (feat. Santiago Achaga)",
+        "url": "https://open.spotify.com/album/3MtGG65uCpF29ldqwMPzi4"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Santiago Achaga",
+          "url": "https://open.spotify.com/artist/20WmAHWxy7rlPV53ypKX8T"
+        }
+      ],
+      "duration_ms": 150468,
+      "name": "Podemos Ser Amigos (feat. Santiago Achaga)",
+      "url": "https://open.spotify.com/track/37BoR6RbzfdNvkcaPrAZqy"
     },
     {
       "added_at": null,
@@ -439,30 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Podemos Ser Amigos (feat. Santiago Achaga)",
-        "url": "https://open.spotify.com/album/3MtGG65uCpF29ldqwMPzi4"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Santiago Achaga",
-          "url": "https://open.spotify.com/artist/20WmAHWxy7rlPV53ypKX8T"
-        }
-      ],
-      "duration_ms": 150468,
-      "name": "Podemos Ser Amigos (feat. Santiago Achaga)",
-      "url": "https://open.spotify.com/track/37BoR6RbzfdNvkcaPrAZqy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sesi\u00f3n Org\u00e1nica: Parte 2",
         "url": "https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu"
       },
@@ -503,30 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Club 57",
-        "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Riccardo Frascari",
-          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
-        }
-      ],
-      "duration_ms": 178225,
-      "name": "Bailando en la Lluvia (feat. Riccardo Frascari)",
-      "url": "https://open.spotify.com/track/3mSbMxBPNuV1XQuxu3Us9o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luna Para Ti (feat. Riccardo Frascari)",
         "url": "https://open.spotify.com/album/5PwTYoP0LgXel5HctvYlsm"
       },
@@ -547,6 +523,30 @@
       "duration_ms": 212362,
       "name": "Luna Para Ti (feat. Riccardo Frascari)",
       "url": "https://open.spotify.com/track/4zpwnpqgv58YIE3mGqxHBU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Club 57",
+        "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Riccardo Frascari",
+          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
+        }
+      ],
+      "duration_ms": 178225,
+      "name": "Bailando en la Lluvia (feat. Riccardo Frascari)",
+      "url": "https://open.spotify.com/track/3mSbMxBPNuV1XQuxu3Us9o"
     },
     {
       "added_at": null,
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Club 57",
-        "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        }
-      ],
-      "duration_ms": 204714,
-      "name": "Al\u00edviame",
-      "url": "https://open.spotify.com/track/3Gdpd6fMO2Zz0B8ymwMsKH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "T\u00fa Cuentas Conmigo (feat. Carolina Mestrovic, Fefi Oliveira, Sebasti\u00e1n Silva & Santiago Achaga)",
         "url": "https://open.spotify.com/album/58oiaDxwcQwP3Os4WFmGQT"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 173929,
       "name": "T\u00fa Cuentas Conmigo (feat. Carolina Mestrovic, Fefi Oliveira, Sebasti\u00e1n Silva & Santiago Achaga)",
       "url": "https://open.spotify.com/track/7o1euvvl0ctDsnkvXuPhYF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Club 57",
+        "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        }
+      ],
+      "duration_ms": 204714,
+      "name": "Al\u00edviame",
+      "url": "https://open.spotify.com/track/3Gdpd6fMO2Zz0B8ymwMsKH"
     },
     {
       "added_at": null,
@@ -711,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Club 57",
-        "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        }
-      ],
-      "duration_ms": 137676,
-      "name": "El Tiempo Corre al Rev\u00e9s",
-      "url": "https://open.spotify.com/track/53TqzbSwNKz3TQVyxGAAC7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sesi\u00f3n Org\u00e1nica: Parte 2",
         "url": "https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 236000,
       "name": "Beauty Of Grace - Acoustic Version",
       "url": "https://open.spotify.com/track/2NSUZFHuWB3hQBKLnvpH1N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Club 57",
+        "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        }
+      ],
+      "duration_ms": 137676,
+      "name": "El Tiempo Corre al Rev\u00e9s",
+      "url": "https://open.spotify.com/track/53TqzbSwNKz3TQVyxGAAC7"
     },
     {
       "added_at": null,

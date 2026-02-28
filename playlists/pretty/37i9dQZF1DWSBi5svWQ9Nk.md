@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBi5svWQ9Nk.md) - [plain]
 
 > De 50 grootste hits in NL\. Cover: Ronnie Flex & Acda en de Munnik
 
-[Spotify](https://open.spotify.com/user/spotify) - 940,265 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 940,224 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

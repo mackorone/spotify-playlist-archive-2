@@ -2,9 +2,9 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. \(Cover:JEON JIWOO\)
+> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: BLACKPINK\)
 
-605 songs - 1 day 7 hr 23 min
+606 songs - 1 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [COOL](https://open.spotify.com/track/7Cz1Ny3XhRz6KBT0YHVHyf) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [Weki Meki 4th Mini Album \[NEW RULES\]](https://open.spotify.com/album/3VRhzwIZ6kfd7CSirU2E7x) | 3:29 | 2020-10-13\* | 2022-04-16 |
 | [Cosmic](https://open.spotify.com/track/0kE4TRJ0pWoRKzKdtbx8To) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW) | 3:45 | 2024-06-24 | 2024-09-16 |
 | [Crazier](https://open.spotify.com/track/5ZwQd0GrdvqyM0OmUGSEYB) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Crazier \- The 11th Album](https://open.spotify.com/album/7oHYGWTIBkoJLcg0ybZcbj) | 2:41 | 2025-08-04 | 2025-09-03 |
-| [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 | 2024-08-30 |  |
+| [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 | 2024-08-30 | 2026-02-28 |
 | [CRY FOR ME](https://open.spotify.com/track/2xtP8RNbo2BEMzLX7tK7aq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [CRY FOR ME](https://open.spotify.com/album/2aRAPmBCEdo9pWimsI5l87) | 3:24 | 2021-01-18 | 2025-11-28 |
 | [Curiosity](https://open.spotify.com/track/6Kke9MonigeJKLSmlmRnWD) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[X X\]](https://open.spotify.com/album/2Ij6998NUjQ0BkQ2ipqiET) | 3:09 | 2021-02-27 | 2021-03-18 |
 | [Curious](https://open.spotify.com/track/0O0ivmVOezvyrCkcxEvrCl) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [CURIOUS](https://open.spotify.com/album/5SooWgzvq5BzwkQV57ltbM) | 3:11 | 2024-08-06 | 2024-08-31 |
@@ -215,6 +215,7 @@
 | [Girls’ Night](https://open.spotify.com/track/0hnxybqZeJzU85jSwf5cdG) | [Loossemble](https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY) | [One Of A Kind](https://open.spotify.com/album/2sN27KkVSnHvqi0MA2YxcZ) | 3:24 | 2024-04-16 | 2024-05-06 |
 | [Gleam](https://open.spotify.com/track/4dOrfL6qgxnjCMSmkekFhB) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Gleam](https://open.spotify.com/album/1HWezHtB1jFWZ96uy4cRq9) | 3:04 | 2020-10-20 | 2022-07-01 |
 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 | 2025-05-08 |  |
+| [GO](https://open.spotify.com/track/0XanaXeMJJ4VdjWzwok7ZI) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/5EDiZm2nDfN10Uyr5XvQu8) | 3:15 | 2026-02-27 |  |
 | [Go or Stop?](https://open.spotify.com/track/5ZQt1BxZ25CYGgxC7g3XFt) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Go or Stop?](https://open.spotify.com/album/1oMfb1X1wk1cyc60tNrqaA) | 2:38 | 2021-10-13 | 2022-04-21 |
 | [GOD](https://open.spotify.com/track/6Ev2eykd1Iv7ihZp1bnNSQ) | [NANA](https://open.spotify.com/artist/0y7Ayco2wqh26ps6bYsor8) | [The 1st Album 'Seventh Heaven 16'](https://open.spotify.com/album/0bBfyeBxlj5xaNyqtUkWnO) | 2:17 | 2025-09-15 | 2025-10-11 |
 | [gogobebe](https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [White Wind](https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY) | 3:15 | 2020-10-20 | 2022-04-20 |

@@ -384,7 +384,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 215858,
       "name": "AIZO",
       "url": "https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 166779,
       "name": "AWGAZI",
       "url": "https://open.spotify.com/track/2D9coh76MCXNqDEUCHl5vl"
@@ -602,7 +602,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -1020,6 +1020,28 @@
       "duration_ms": 183517,
       "name": "California Rain",
       "url": "https://open.spotify.com/track/0HjL890CF6dyZIW4EEdxyh"
+    },
+    {
+      "album": {
+        "name": "Can't Go Back",
+        "url": "https://open.spotify.com/album/41bWxmg2OBhUMmqOIiujgq"
+      },
+      "artists": [
+        {
+          "name": "Astrality",
+          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
+        },
+        {
+          "name": "James French",
+          "url": "https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155462,
+      "name": "Can't Go Back",
+      "url": "https://open.spotify.com/track/2MjUXeQsfJAFhSXvpojmQX"
     },
     {
       "album": {
@@ -1502,7 +1524,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 160645,
       "name": "Cry For Me WA WA WA",
       "url": "https://open.spotify.com/track/30C4LSxZHCWNtUjnZUxEoJ"
@@ -2590,7 +2612,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 197539,
       "name": "Fool's Gold",
       "url": "https://open.spotify.com/track/54uoj9Bb6k97wSQ9MezOYU"
@@ -3740,6 +3762,24 @@
       "duration_ms": 209066,
       "name": "Homewrecker",
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
+    },
+    {
+      "album": {
+        "name": "Hot and Cold",
+        "url": "https://open.spotify.com/album/1LswmdmRYyvNjIRLcC1u7J"
+      },
+      "artists": [
+        {
+          "name": "TRFN",
+          "url": "https://open.spotify.com/artist/5Wj4v7ri4aDONkGEIuo0zp"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144705,
+      "name": "Hot and Cold",
+      "url": "https://open.spotify.com/track/1ke69XnBBRLDUfFvkrDj1D"
     },
     {
       "album": {
@@ -8320,7 +8360,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 317961,
       "name": "The Great Divide",
       "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"

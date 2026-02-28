@@ -1109,6 +1109,24 @@
     },
     {
       "album": {
+        "name": "Back Crawler",
+        "url": "https://open.spotify.com/album/0x6q6WPhssMoVcUedmRMGW"
+      },
+      "artists": [
+        {
+          "name": "Scorsi",
+          "url": "https://open.spotify.com/artist/0LQKGvxOXZHDCxuite9zcT"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161600,
+      "name": "Back Crawler",
+      "url": "https://open.spotify.com/track/1RiWaWV9r1khZMd78p77xq"
+    },
+    {
+      "album": {
         "name": "BACK ONCE AGAIN",
         "url": "https://open.spotify.com/album/1qXaLVyzBn7CsxW9UBzsR3"
       },
@@ -1160,7 +1178,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 192000,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/2iLjC9vJBlvlP6ixf3mVfz"
@@ -2542,6 +2560,24 @@
       "duration_ms": 237004,
       "name": "Caustic",
       "url": "https://open.spotify.com/track/05qLcIyIaHP1iszIFkvOUt"
+    },
+    {
+      "album": {
+        "name": "change my mind",
+        "url": "https://open.spotify.com/album/6a2hTHbTAodgtnysbaMzaH"
+      },
+      "artists": [
+        {
+          "name": "Altare",
+          "url": "https://open.spotify.com/artist/3W3dTmUEXbo2D9CQzNTSaI"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "change my mind",
+      "url": "https://open.spotify.com/track/2htiiQZqJKqY6mFUF9wh0d"
     },
     {
       "album": {
@@ -4628,7 +4664,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 158896,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/6i3DFYvbMIfPnljlyXkR0N"
@@ -9177,6 +9213,24 @@
     },
     {
       "album": {
+        "name": "listen!",
+        "url": "https://open.spotify.com/album/3f3dPN4C0JSUDWWu7Zkdlf"
+      },
+      "artists": [
+        {
+          "name": "Lizdek",
+          "url": "https://open.spotify.com/artist/65Kq02oh0g3gRqfZ0fo8eG"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243428,
+      "name": "listen!",
+      "url": "https://open.spotify.com/track/0gPA1o9FrBID5aEkQV9uoB"
+    },
+    {
+      "album": {
         "name": "LISTEN!",
         "url": "https://open.spotify.com/album/7qbr2YRV0H0jXkkzo6uegf"
       },
@@ -9720,6 +9774,28 @@
       "duration_ms": 255882,
       "name": "LOYAL",
       "url": "https://open.spotify.com/track/0XTC88XX9rerDucl82skTW"
+    },
+    {
+      "album": {
+        "name": "Jesus Loves Trap Music",
+        "url": "https://open.spotify.com/album/7BKAq3ux4qhQXwGdGxSv5r"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Aida Sofia",
+          "url": "https://open.spotify.com/artist/0QxPOCNkDNs3qaA1p5PzQu"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188721,
+      "name": "Lucid",
+      "url": "https://open.spotify.com/track/6qTzPNNmXsGy5aq7EHs0S4"
     },
     {
       "album": {
@@ -16038,7 +16114,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 218718,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/0iWHDplkRdrtv9ensY6lTY"
@@ -16122,7 +16198,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 125793,
       "name": "too hot!",
       "url": "https://open.spotify.com/track/7yDlJyTGY1oVe2WoS1gaay"
@@ -16246,7 +16322,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 160853,
       "name": "Touch It",
       "url": "https://open.spotify.com/track/2LLm7ZsplIrL6nPkGC87dU"
@@ -16938,7 +17014,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 153428,
       "name": "unseen",
       "url": "https://open.spotify.com/track/3X27H6v1ideSPJ7cd0ITI7"
@@ -16968,6 +17044,28 @@
       "duration_ms": 271981,
       "name": "UOH",
       "url": "https://open.spotify.com/track/3PwQn4PixhUv9ydjuuXmng"
+    },
+    {
+      "album": {
+        "name": "Up Down",
+        "url": "https://open.spotify.com/album/678pWleE7fGeKgsc8fWvgG"
+      },
+      "artists": [
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        },
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Up Down",
+      "url": "https://open.spotify.com/track/7tjEcjKinW5OEYNGmoIUUt"
     },
     {
       "album": {
@@ -17700,6 +17798,24 @@
       "duration_ms": 195000,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/0Oe5QO7zwMWKkGhgr5vIEz"
+    },
+    {
+      "album": {
+        "name": "WILDFIRES v2",
+        "url": "https://open.spotify.com/album/4SUCNE5WmZM6ocaEwbbvZO"
+      },
+      "artists": [
+        {
+          "name": "Port London",
+          "url": "https://open.spotify.com/artist/4hvH07yUsAeYBO5KeyAefq"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130928,
+      "name": "WILDFIRES v2",
+      "url": "https://open.spotify.com/track/2Q0VLkprjKv6PLuJb2X4f4"
     },
     {
       "album": {

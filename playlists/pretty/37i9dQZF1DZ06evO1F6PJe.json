@@ -1,12 +1,12 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 109587,
+  "num_followers": 109597,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAAAPgJtZhBGxpm+4aWDyKxge",
+  "snapshot_id": "aZ+NAAAAAADhA85KjVJzAVOhFtJfoGPx",
   "tracks": [
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sloe Gin",
+        "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 189120,
+      "name": "Another Kind of Love",
+      "url": "https://open.spotify.com/track/1L8EJN5H9QD52zMtlrUce0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "When Love Comes To Town",
         "url": "https://open.spotify.com/album/6KsHFvSdwHNL58D0XqMew3"
       },
@@ -511,6 +527,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blues Deluxe",
+        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 232933,
+      "name": "Long Distance Blues",
+      "url": "https://open.spotify.com/track/1GUmP2TjLWuXoegwnrPYsg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "B.B. King's Blues Summit 100",
+        "url": "https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        },
+        {
+          "name": "Noah Hunt",
+          "url": "https://open.spotify.com/artist/1gpRqz4ry3s0eDPLUXBZyr"
+        }
+      ],
+      "duration_ms": 297213,
+      "name": "Let The Good Times Roll",
+      "url": "https://open.spotify.com/track/1NMsxfMy8w1utKwmsI5uCq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sloe Gin",
         "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
       },
@@ -520,9 +576,29 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 189120,
-      "name": "Another Kind of Love",
-      "url": "https://open.spotify.com/track/1L8EJN5H9QD52zMtlrUce0"
+      "duration_ms": 260173,
+      "name": "Black Night",
+      "url": "https://open.spotify.com/track/06XZfZKb8rBEPk0zk2VLYJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trilogy, Vol. 1",
+        "url": "https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP"
+      },
+      "artists": [
+        {
+          "name": "Ana Popovic",
+          "url": "https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 297106,
+      "name": "Train (feat. Joe Bonamassa)",
+      "url": "https://open.spotify.com/track/43BXkw7iKGoSYY2mDIFhSj"
     },
     {
       "added_at": null,
@@ -556,82 +632,6 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         },
         {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        },
-        {
-          "name": "Noah Hunt",
-          "url": "https://open.spotify.com/artist/1gpRqz4ry3s0eDPLUXBZyr"
-        }
-      ],
-      "duration_ms": 297213,
-      "name": "Let The Good Times Roll",
-      "url": "https://open.spotify.com/track/1NMsxfMy8w1utKwmsI5uCq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trilogy, Vol. 1",
-        "url": "https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP"
-      },
-      "artists": [
-        {
-          "name": "Ana Popovic",
-          "url": "https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 297106,
-      "name": "Train (feat. Joe Bonamassa)",
-      "url": "https://open.spotify.com/track/43BXkw7iKGoSYY2mDIFhSj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 400240,
-      "name": "Just 'Cos You Can Don't Mean You Should",
-      "url": "https://open.spotify.com/track/2NqFYXn1io5bJuQYok0xin"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sloe Gin",
-        "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 260173,
-      "name": "Black Night",
-      "url": "https://open.spotify.com/track/06XZfZKb8rBEPk0zk2VLYJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "B.B. King's Blues Summit 100",
-        "url": "https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
           "name": "Larry McCray",
           "url": "https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc"
         }
@@ -639,22 +639,6 @@
       "duration_ms": 246400,
       "name": "When It All Comes Down (I'll Still Be Around)",
       "url": "https://open.spotify.com/track/1cjjJdV1NEMZU8ma37Qihj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blues Deluxe",
-        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 232933,
-      "name": "Long Distance Blues",
-      "url": "https://open.spotify.com/track/1GUmP2TjLWuXoegwnrPYsg"
     },
     {
       "added_at": null,
@@ -675,6 +659,22 @@
       "duration_ms": 341466,
       "name": "I'll Take Care of You",
       "url": "https://open.spotify.com/track/0V4JkOAwH9bOAmJ1aIaBSz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 400240,
+      "name": "Just 'Cos You Can Don't Mean You Should",
+      "url": "https://open.spotify.com/track/2NqFYXn1io5bJuQYok0xin"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at Radio City Music Hall",
-        "url": "https://open.spotify.com/album/26KqnXS7z05nYCYGiGG7di"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 338771,
-      "name": "One Less Cross to Bear - Live Version",
-      "url": "https://open.spotify.com/track/1OzeFaTHSjQ20ycXdUgHCl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blues Of Desperation",
         "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 343906,
       "name": "Mountain Climbing",
       "url": "https://open.spotify.com/track/3QdefKbNfifFnCwlpLtQcG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live at Radio City Music Hall",
+        "url": "https://open.spotify.com/album/26KqnXS7z05nYCYGiGG7di"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 338771,
+      "name": "One Less Cross to Bear - Live Version",
+      "url": "https://open.spotify.com/track/1OzeFaTHSjQ20ycXdUgHCl"
     },
     {
       "added_at": null,
@@ -843,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sloe Gin",
+        "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 340186,
+      "name": "One of these Days",
+      "url": "https://open.spotify.com/track/0qb9jT5BFVCoYi8iza9qUK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fuego!",
         "url": "https://open.spotify.com/album/4HsrGYiNfVExh00imfThhF"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 475053,
       "name": "The Fan (feat. Joe Bonamassa)",
       "url": "https://open.spotify.com/track/1v7UVjK1YnakfvqKVfcaYX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sloe Gin",
-        "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 340186,
-      "name": "One of these Days",
-      "url": "https://open.spotify.com/track/0qb9jT5BFVCoYi8iza9qUK"
     },
     {
       "added_at": null,

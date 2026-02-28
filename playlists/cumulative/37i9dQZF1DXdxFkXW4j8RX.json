@@ -2766,7 +2766,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 230812,
       "name": "La Mitad Vac\u00eda O La Mitad Llena",
       "url": "https://open.spotify.com/track/7vD7np5RmrxEqNdCAhowYT"
@@ -3220,7 +3220,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 211200,
       "name": "Mala Palabra",
       "url": "https://open.spotify.com/track/5iwE8HJhMYd5xPWez6kqZ7"
@@ -3638,7 +3638,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 203795,
       "name": "Nitrato",
       "url": "https://open.spotify.com/track/47YnWI8MwVRVbPIYmoHBtS"
@@ -4532,7 +4532,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 223805,
       "name": "Retome la pluma",
       "url": "https://open.spotify.com/track/0NWI60BftBm2ilW1ZedwTV"
@@ -5335,6 +5335,28 @@
     },
     {
       "album": {
+        "name": "Tipa fina",
+        "url": "https://open.spotify.com/album/31fuCxNFAucjkTaFRQ03pH"
+      },
+      "artists": [
+        {
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        },
+        {
+          "name": "Adan La Amenaza",
+          "url": "https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151304,
+      "name": "Tipa fina",
+      "url": "https://open.spotify.com/track/5gYKRb0DnVZNecEJlYzCDY"
+    },
+    {
+      "album": {
         "name": "Tiradera",
         "url": "https://open.spotify.com/album/6QuAwTz7Vfn1RjOJC959NO"
       },
@@ -5716,6 +5738,32 @@
       "duration_ms": 137197,
       "name": "Viejos Habitantes",
       "url": "https://open.spotify.com/track/6f55wLyPhb1OwaNd0pXRmm"
+    },
+    {
+      "album": {
+        "name": "Viejos Sue\u00f1os",
+        "url": "https://open.spotify.com/album/3uDln52D4pLxAQ2C1QSR9T"
+      },
+      "artists": [
+        {
+          "name": "J\u00fapiter",
+          "url": "https://open.spotify.com/artist/3AMpDFMCv2ou4QrrBjlRS7"
+        },
+        {
+          "name": "Cidtronyck",
+          "url": "https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS"
+        },
+        {
+          "name": "Terrible",
+          "url": "https://open.spotify.com/artist/1b8mm6QmyRah9dIxduf1Z9"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181276,
+      "name": "Viejos Sue\u00f1os",
+      "url": "https://open.spotify.com/track/4WouZTJht8e09REQjOqiYg"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 
 > 2010년대를 수 놓았던 명곡들을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,515 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,533 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 | 27 | [Sherlock \(Clue + Note\)](https://open.spotify.com/track/2sVtrcj32v3fR8mLjqWziv) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Sherlock \- The 4th Mini Album](https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ) | 3:59 |
 | 28 | [HER](https://open.spotify.com/track/4jQDaI7FRGaDB0llURpnNf) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [HER](https://open.spotify.com/album/5wHs7NGuapCYtY4wWsYMi3) | 2:59 |
 | 29 | [I GOT A BOY](https://open.spotify.com/track/2WkPfNd237yc0l5KewCDpp) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [I GOT A BOY \- The 4th Album](https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi) | 4:31 |
-| 30 | [Ma Boy](https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1) | [SISTAR19](https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU) | [Ma Boy](https://open.spotify.com/album/76EJZHFfzKIOrf97HE4at7) | 3:16 |
+| 30 | [Every day, Every Moment](https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Should We Kiss First? \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U) | 3:30 |
 | 31 | [Gashina](https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [SUNMI SPECIAL EDITION \[Gashina\]](https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN) | 3:00 |
-| 32 | [Every day, Every Moment](https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Should We Kiss First? \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U) | 3:30 |
+| 32 | [Ma Boy](https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1) | [SISTAR19](https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU) | [Ma Boy](https://open.spotify.com/album/76EJZHFfzKIOrf97HE4at7) | 3:16 |
 | 33 | [Shine](https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Positive](https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO) | 3:18 |
 | 34 | [I](https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [I \- The 1st Mini Album](https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1) | 3:26 |
 | 35 | [Loner](https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [Bluetory](https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O) | 3:37 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 | 44 | [A Little Girl](https://open.spotify.com/track/1N9TrsZZXX8GQvOvD3PV23) | [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6KKR9GZN6wnhQmBCFvoTMM) | 3:46 |
 | 45 | [Last Goodbye](https://open.spotify.com/track/0x50cQ1pZeV4xl737GhKBk) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [WINTER](https://open.spotify.com/album/0xrAlQfw3MZ5QGhw2NptQt) | 4:43 |
 | 46 | [미인아 Bonamana](https://open.spotify.com/track/2cRTwcRq1idIR9NrcYKb63) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [미인아 \(Bonamana\) \- The 4th Album](https://open.spotify.com/album/7pPLMINIGSzIEczVTCnIxp) | 3:59 |
-| 47 | [Please don’t…](https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [The 3rd Album Part.1](https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2) | 3:32 |
-| 48 | [Tonight](https://open.spotify.com/track/2G8HyURZh9SBNuCzllz8Fu) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Special Edition](https://open.spotify.com/album/2fpQB21ER6ETvnfADPdaHl) | 3:43 |
-| 49 | [Electric Shock](https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Electric Shock \- The 2nd Mini Album](https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs) | 3:16 |
+| 47 | [Electric Shock](https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Electric Shock \- The 2nd Mini Album](https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs) | 3:16 |
+| 48 | [Please don’t…](https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [The 3rd Album Part.1](https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2) | 3:32 |
+| 49 | [Tonight](https://open.spotify.com/track/2G8HyURZh9SBNuCzllz8Fu) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Special Edition](https://open.spotify.com/album/2fpQB21ER6ETvnfADPdaHl) | 3:43 |
 | 50 | [Alone](https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [ALONE](https://open.spotify.com/album/5PXVRXQIPAXH0j78MfeDrV) | 3:26 |
 | 51 | [LUV](https://open.spotify.com/track/7EZ79Zl4XsPS320q0KXC6E) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink LUV](https://open.spotify.com/album/7BV2JxBA453SWGGe6ije4K) | 3:58 |
 | 52 | [Baby, Don't Cry](https://open.spotify.com/track/7M4eO9xXwmAnO0hq6XDles) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:53 |

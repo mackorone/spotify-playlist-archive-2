@@ -2,7 +2,7 @@
 
 ### [2010s Country](https://open.spotify.com/playlist/37i9dQZF1DWXdiK4WAVRUW)
 
-> The most memorable country hits from the 2010s
+> The most memorable country hits from the 2010s\. Cover: Sam Hunt
 
 272 songs - 16 hr 11 min
 

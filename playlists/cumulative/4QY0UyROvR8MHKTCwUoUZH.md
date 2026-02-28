@@ -4,7 +4,7 @@
 
 > Rustige achtergrond muziek voor tijdens je werk, studeren of relaxen \| Morning coffee 2026 \| Koffie Chill \| Café Music
 
-199 songs - 10 hr 51 min
+205 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [danny don't](https://open.spotify.com/track/3PtMxHx8skkd05SSfBOgYk) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [danny don't](https://open.spotify.com/album/3ecARtzyeGy9gtmq3iqRuR) | 3:51 | 2025-07-18 | 2025-08-30 |
 | [Daydreaming](https://open.spotify.com/track/03wxFeOZ6eqS7v53yNFdZg) | [Steven Charlot](https://open.spotify.com/artist/6i7OOTSy7DyayuRf6vDcqV) | [Daydreaming](https://open.spotify.com/album/3Ela60hHr10MD5dxh4yXCf) | 3:08 | 2025-11-14 | 2025-12-20 |
 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 | 2025-07-18 | 2025-08-23 |
+| [Devil's Advocate](https://open.spotify.com/track/6hLwDKMnOEilYvgsfIFDjW) | [NAÉ](https://open.spotify.com/artist/0EyUhdpBF22OrhzmTd40p5) | [Devil's Advocate](https://open.spotify.com/album/70ktvnMQPRuGNVDJLz5Jx4) | 3:40 | 2026-02-27 |  |
 | [Die Light](https://open.spotify.com/track/0QzB4LiVyEA1yvvt4Ll2mR) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [Die Light](https://open.spotify.com/album/5zKU8JHJgD8DBU7whj7K5K) | 2:55 | 2025-07-18 | 2025-08-23 |
 | [Dinosaur](https://open.spotify.com/track/6bJyGzdTAeUm5MUBJRQowK) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Dinosaur](https://open.spotify.com/album/6jWXZ0gJSVxUppa1zEsn6C) | 4:02 | 2025-07-18 | 2025-10-18 |
 | [Dolce Vita](https://open.spotify.com/track/49HmAScfsg98wibVSsYMlA) | [Adriano Selva](https://open.spotify.com/artist/3Ea3kpFCrzlHXh4Q8ieAXE) | [Amour Moderne](https://open.spotify.com/album/7iuLdd4y2yUxoafRMHRsGg) | 2:13 | 2026-02-06 |  |
@@ -55,6 +56,7 @@
 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 | 2026-02-06 |  |
 | [Dulce Perro](https://open.spotify.com/track/1Neey2oqU4yz7yRsfQoLn7) | [Kovacs](https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF) | [Dulce Perro](https://open.spotify.com/album/66wJOEVqN5bxB2h5I5xyTj) | 2:49 | 2025-10-17 | 2026-02-07 |
 | [Dying](https://open.spotify.com/track/5y48DeMoYP3UUrye3yNUKH) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Dying](https://open.spotify.com/album/62JSSTLIDCNBRv3R2VUrSD) | 3:03 | 2025-09-05 | 2025-12-07 |
+| [Easy On The Eyes](https://open.spotify.com/track/0FKafClDhDTAjjNGr7wV5t) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Easy On The Eyes](https://open.spotify.com/album/3JQfqboxnLDsxsHE4ut65G) | 3:44 | 2026-02-27 |  |
 | [Echo](https://open.spotify.com/track/7uxIqlS7WnDOB7XtAH2X3i) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ) | [Echo](https://open.spotify.com/album/2bW3wNkvjiuqBEPRMM3ZOh) | 3:04 | 2025-07-18 | 2026-02-07 |
 | [Echte Liefde Is Te Koop \- Spotify Singles](https://open.spotify.com/track/5lTy97S8T5KglpeEKpCuKE) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Echte Liefde Is Te Koop \- Spotify Singles](https://open.spotify.com/album/64rWacyCKAYaSne3DqIUS9) | 2:58 | 2025-12-12 | 2026-01-31 |
 | [Everlastingly \- Wedding Version](https://open.spotify.com/track/2PUV7cOFpV1wrGBKed91N8) | [The Martial](https://open.spotify.com/artist/4BHKObtnIJsk0jcli22C5L) | [Everlastingly \(Wedding Version\)](https://open.spotify.com/album/6un0lF2zOowIKOS3fI7YeH) | 3:12 | 2025-10-17 |  |
@@ -88,7 +90,7 @@
 | [How Do I](https://open.spotify.com/track/3WjWo8FZ3uAguGsplNa8YY) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Becoming](https://open.spotify.com/album/7606To8GLyeHpaoqYGXHV2) | 2:07 | 2026-02-13 |  |
 | [Huisje Aan De Zee](https://open.spotify.com/track/2UZcGTX1HbBi74VZY7VJC9) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Huisje Aan De Zee](https://open.spotify.com/album/3MirAdubTvdxVC77yoeDjc) | 2:46 | 2025-07-18 | 2026-02-07 |
 | [Hundred Mile High](https://open.spotify.com/track/12QsAlRWEyg3AB7qqPSJ4s) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Hundred Mile High](https://open.spotify.com/album/28lM7VxvsuOUVjElk0pvMr) | 2:52 | 2025-07-18 | 2025-10-11 |
-| [Hush \(baby\)](https://open.spotify.com/track/6l2y7qexA2OpXeveevT3Ej) | [Aqua Riyaz](https://open.spotify.com/artist/1byg6yqO001L4j7Zw7fuHm) | [Hush \(baby\)](https://open.spotify.com/album/1mI4bjW8iRFSAjzhQnBl3q) | 3:09 | 2025-07-18 |  |
+| [Hush \(baby\)](https://open.spotify.com/track/6l2y7qexA2OpXeveevT3Ej) | [Aqua Riyaz](https://open.spotify.com/artist/1byg6yqO001L4j7Zw7fuHm) | [Hush \(baby\)](https://open.spotify.com/album/1mI4bjW8iRFSAjzhQnBl3q) | 3:09 | 2025-07-18 | 2026-02-28 |
 | [I Should Know Better](https://open.spotify.com/track/2Y782Ab77v8vq7QT8ZZzap) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Under The Streetlights](https://open.spotify.com/album/1CKtOvMSLqatFnR0OuYNxZ) | 3:33 | 2026-02-06 |  |
 | [Iedereen Verandert](https://open.spotify.com/track/7b7Ujxj4feKmvG8Qz7aLao) | [Lola Cedès](https://open.spotify.com/artist/2v9aoqXvaM4EYpccxBYeJ0) | [Iedereen Verandert](https://open.spotify.com/album/2REOlYJEBvz1D4qTbUTTQc) | 2:51 | 2025-07-18 | 2025-11-29 |
 | [If You Love Her](https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [If You Love Her](https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR) | 3:37 | 2026-02-06 |  |
@@ -112,6 +114,7 @@
 | [Make Up](https://open.spotify.com/track/08iidmzmMXSb0ynpKdBcqn) | [GIGI](https://open.spotify.com/artist/2nUCb4O54MGkGUcGDEUF1h) | [Make Up](https://open.spotify.com/album/3OphDeCYFBwm9OFSAVB9oE) | 3:06 | 2025-09-19 |  |
 | [Man of the Year](https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Man of the Year](https://open.spotify.com/album/58iFqnIfxNpuXu1Por7USP) | 3:48 | 2025-07-18 |  |
 | [Man On The Moon](https://open.spotify.com/track/79Ee80FT85h56l8vzL6cUJ) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Man On The Moon](https://open.spotify.com/album/2DQVR2QaqkCVAdkEYmFuKb) | 2:39 | 2025-07-18 | 2026-02-07 |
+| [Maniac](https://open.spotify.com/track/5xey9UpiOrfP4fZgbEuLQK) | [Wonderbloom](https://open.spotify.com/artist/0X77lzGcjVSauuRRc32zQ7) | [Maniac](https://open.spotify.com/album/6Io1yIr7pPDfBvhDKn43SL) | 4:13 | 2026-02-27 |  |
 | [Marlay Park](https://open.spotify.com/track/4Uh27w3SzvO8EPOk42xe9z) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Reverie](https://open.spotify.com/album/16QA9SMR24G6Jf5GvJBJB8) | 3:44 | 2026-02-06 |  |
 | [Matches & Gasoline](https://open.spotify.com/track/6rDacZ9BHqi3JEthMNEXgp) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Matches & Gasoline](https://open.spotify.com/album/3NB6G28F41Ee1iH2NXI6Xm) | 4:47 | 2025-09-05 |  |
 | [MAXIMAAL](https://open.spotify.com/track/5iCQpTzPYPLzuE8IieY2yE) | [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [MAXIMAAL](https://open.spotify.com/album/4p3yfT7bwha4i8kwT8EKrk) | 2:30 | 2025-11-14 | 2026-02-07 |
@@ -164,6 +167,7 @@
 | [Sophie](https://open.spotify.com/track/3okf8YVytf26gWSrBRHvJK) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Sophie](https://open.spotify.com/album/7rAAUeg5ctNJzz4M2JWMSu) | 3:13 | 2025-08-08 | 2026-02-07 |
 | [Sparks](https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 3:47 | 2025-08-15 | 2025-10-11 |
 | [stardust](https://open.spotify.com/track/5eBhZmoWwGhAPj80u4HWLB) | [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [stardust](https://open.spotify.com/album/3hRgPtGcjUUPmlWtH5cSHT) | 3:50 | 2025-07-18 | 2025-10-11 |
+| [Stay With Me](https://open.spotify.com/track/5Lu0RsvwyI37fzUAjIb6RL) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Stay With Me](https://open.spotify.com/album/5w4Va9YoVAS3MCAiyMbfkR) | 3:47 | 2026-02-27 |  |
 | [Still Love \- Acoustic](https://open.spotify.com/track/17WlwZjrDIUQaQAzZQFjVr) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk) | [Still Love \(Acoustic\)](https://open.spotify.com/album/1YG1qbUceCNhWj6KfS0TQQ) | 3:09 | 2025-07-18 | 2025-09-27 |
 | [Streets of London](https://open.spotify.com/track/6s9KM1jKM4HBjoe3A71F6w) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Streets of London](https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF) | 3:09 | 2026-02-06 |  |
 | [Sunburnt Shoulders](https://open.spotify.com/track/1e8JjEsphQZkxK5XURPzYC) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Me vs\. Me](https://open.spotify.com/album/2ibQlGalU0J2XhYpeMkgqc) | 2:57 | 2025-07-18 | 2025-10-11 |
@@ -174,6 +178,7 @@
 | [Tear It All Apart](https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Tear It All Apart](https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW) | 3:06 | 2025-07-18 | 2025-10-04 |
 | [Tel tot 100](https://open.spotify.com/track/0neJ9vnurgfVGWsAdk9Umx) | [Bibi van Ansem](https://open.spotify.com/artist/0MpQgnQ7AAiqpvXLq5cXVF) | [Tel tot 100](https://open.spotify.com/album/1OAZvbBxM6I3jKG4uFfoqM) | 2:56 | 2026-01-09 | 2026-02-07 |
 | [Tell Me Why](https://open.spotify.com/track/1GSqNxAu0EN8Iwe79arVed) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Tell Me Why](https://open.spotify.com/album/7GwD5eC55hJIarBxslZniG) | 2:23 | 2025-10-03 |  |
+| [The Blade](https://open.spotify.com/track/4xlkVxykYvk6i7Co32lMDS) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [The Blade](https://open.spotify.com/album/0f9qhfxa46I2abFLjsEjqc) | 3:15 | 2026-02-27 |  |
 | [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2025-07-18 | 2025-10-04 |
 | [The Knife In My Back](https://open.spotify.com/track/52hW86OGxT6nn0Aex2V6oM) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [The Knife In My Back](https://open.spotify.com/album/2gTy3DhstHXAph5LjtHEnX) | 2:49 | 2025-09-05 |  |
 | [The Ocean](https://open.spotify.com/track/2L3yAc4GOgoDJb50YKVqxw) | [PIMSKIN](https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX) | [The Ocean](https://open.spotify.com/album/6ab2amp1PfPLEklhyIKqf3) | 1:03 | 2025-10-31 |  |
@@ -205,6 +210,7 @@
 | [would've been you](https://open.spotify.com/track/2U7svZUGvR4tfKdyxv9mXu) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [would've been you](https://open.spotify.com/album/1a43UOca3qYS1ZcS0b9wSk) | 3:03 | 2025-07-18 | 2025-08-30 |
 | [You You You](https://open.spotify.com/track/0kHP8fxSPNPP40kRHtnfLB) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You You You / Audrey Hepburn](https://open.spotify.com/album/2IHW6rf6xGNhT1HuMEG5Pu) | 2:46 | 2025-10-10 | 2026-02-07 |
 | [Your New Favorite Song](https://open.spotify.com/track/6mxvsThgEclVwrA0ZPWbkQ) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Your New Favorite Song](https://open.spotify.com/album/0xIQsahcD55CfVddCz0Cue) | 3:07 | 2025-07-18 | 2025-09-06 |
+| [You’ll Be The Proof \(feat\. Joy Williams\)](https://open.spotify.com/track/3IC5qtXccheQyYw27oSSD4) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc), [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [You’ll Be The Proof \(feat\. Joy Williams\)](https://open.spotify.com/album/4QQj3QOSKqEEuJ1RdhJiAf) | 3:26 | 2026-02-27 |  |
 | [Yuppentent \(feat\. Ruben Annink\)](https://open.spotify.com/track/2dohF6KwQqz9oGPm0oXvaj) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0), [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ) | [Yuppentent \(feat\. Ruben Annink\)](https://open.spotify.com/album/51a4KaNOPyKDtEWfyjGUsE) | 2:50 | 2025-07-18 | 2025-10-04 |
 | [Zeg maar niets](https://open.spotify.com/track/5ayQm9rr6dzb4wiTp6Kwib) | [Bibi van Ansem](https://open.spotify.com/artist/0MpQgnQ7AAiqpvXLq5cXVF) | [Zeg maar niets](https://open.spotify.com/album/4wZq7Q7JNZp6oCocTyUQY6) | 2:33 | 2025-11-21 | 2026-02-07 |
 

@@ -1448,7 +1448,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 203193,
       "name": "Cinco Horas Menos",
       "url": "https://open.spotify.com/track/6Uu4Jpk4Qc8iFA4APbB2aM"
@@ -3599,6 +3599,24 @@
     },
     {
       "album": {
+        "name": "How I Get",
+        "url": "https://open.spotify.com/album/70NOPNFs2y4lZMrowJzPuY"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219866,
+      "name": "How I Get",
+      "url": "https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi"
+    },
+    {
+      "album": {
         "name": "Los Momentos",
         "url": "https://open.spotify.com/album/7L5G2yWZKE08abmnCUvW49"
       },
@@ -4922,7 +4940,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 264677,
       "name": "Mal de Amores",
       "url": "https://open.spotify.com/track/7aXpSB3zDZG2mPYowpEPNJ"
@@ -6919,6 +6937,24 @@
     },
     {
       "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204068,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
+    },
+    {
+      "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf"
       },
@@ -7020,7 +7056,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 230082,
       "name": "Salta del Avi\u00f3n",
       "url": "https://open.spotify.com/track/52Yvna5RVvfeK3S3pKL4QU"
@@ -7060,6 +7096,24 @@
       "duration_ms": 216973,
       "name": "Se Explicar\u00e1",
       "url": "https://open.spotify.com/track/7KWXbkqp4DZhVNLSrNUF4q"
+    },
+    {
+      "album": {
+        "name": "Se Me Va",
+        "url": "https://open.spotify.com/album/5nVcYNglS9CCWlBgent3Nf"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Se Me Va",
+      "url": "https://open.spotify.com/track/3k8cy0mnztuAVC267hrLLm"
     },
     {
       "album": {
@@ -7280,7 +7334,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 194160,
       "name": "Siesta Freestyle",
       "url": "https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z"
@@ -7604,7 +7658,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 193413,
       "name": "Somos Instantes",
       "url": "https://open.spotify.com/track/4zgVoY40iiq9XLu8V9Q9kb"
@@ -7662,6 +7716,24 @@
       "duration_ms": 191000,
       "name": "Soun Tha Mi Primer Amor - Remastered",
       "url": "https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ"
+    },
+    {
+      "album": {
+        "name": "Soy Tuyo",
+        "url": "https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80"
+      },
+      "artists": [
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159227,
+      "name": "Soy Tuyo",
+      "url": "https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3"
     },
     {
       "album": {
@@ -8114,6 +8186,44 @@
       "duration_ms": 241173,
       "name": "The Loop",
       "url": "https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd"
+    },
+    {
+      "album": {
+        "name": "The Mountain",
+        "url": "https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Asha Puthli",
+          "url": "https://open.spotify.com/artist/6XS2GPyMwHEgAn0VspnhMf"
+        },
+        {
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
+        },
+        {
+          "name": "Dave Jolicoeur",
+          "url": "https://open.spotify.com/artist/7p9cQvuiCC28PPRZwHGDBM"
+        },
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297787,
+      "name": "The Moon Cave (feat. Asha Puthli, Bobby Womack, Dave Jolicoeur, Jalen Ngonda and Black Thought)",
+      "url": "https://open.spotify.com/track/6VflG4mpZSlpKnqNRL3NO9"
     },
     {
       "album": {
@@ -9365,6 +9475,24 @@
     },
     {
       "album": {
+        "name": "Vivos",
+        "url": "https://open.spotify.com/album/1X4qVzX9VIvwyhiWK5cK4p"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226250,
+      "name": "Vivos",
+      "url": "https://open.spotify.com/track/7BDQNZamnUfc0JVJTDJ29E"
+    },
+    {
+      "album": {
         "name": "SINO",
         "url": "https://open.spotify.com/album/4yLlkceQbuq64zdFnxdCYB"
       },
@@ -9724,7 +9852,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 240040,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/5ht9FVBi07F48ZAfIf7WdC"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 
 > Buen indie rock para contar historietas...
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,855 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,846 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,13 +33,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 | 23 | [Do Your Worst](https://open.spotify.com/track/11FvComd16zZX61DrlP3o1) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Do Your Worst](https://open.spotify.com/album/212W7GOucihqMBWrN17RlY) | 3:30 |
 | 24 | [Lemonade](https://open.spotify.com/track/2teMWxI0AhcKHArtjumPzZ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Lemonade](https://open.spotify.com/album/4RZBZPSvCxcfD74UxTRgYB) | 3:40 |
 | 25 | [Maçka Yolları](https://open.spotify.com/track/2dXcAfDx2GMtislQfdlfye) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Yol](https://open.spotify.com/album/2KWjneqCyMbvEvp7QayR2l) | 3:40 |
-| 26 | [What Feels Like Eternity](https://open.spotify.com/track/4JmXokIIxfoS3XdhkHUBDw) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera](https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6) | 3:37 |
-| 27 | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/track/1j717HdHFPFwbBEAk2kwJQ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/album/4jCLZy0GRmWrOCiIpj3Gbt) | 2:43 |
+| 26 | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/track/1j717HdHFPFwbBEAk2kwJQ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/album/4jCLZy0GRmWrOCiIpj3Gbt) | 2:43 |
+| 27 | [What Feels Like Eternity](https://open.spotify.com/track/4JmXokIIxfoS3XdhkHUBDw) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera](https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6) | 3:37 |
 | 28 | [Paraphernalia](https://open.spotify.com/track/3oZKOJiMENWToZ6lid73Ki) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Paraphernalia](https://open.spotify.com/album/5jF63Nw1BA7AEfug0V32qx) | 4:23 |
 | 29 | [Lo/Hi](https://open.spotify.com/track/6XRgC4KAp4upKu0v7H4tQo) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Lo/Hi](https://open.spotify.com/album/3sRZoykfSZpEtVngmJDply) | 2:57 |
 | 30 | [I Come from the Mountain](https://open.spotify.com/track/2eKcMyjRqXwVh8OeR9wZKt) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Floating Coffin](https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c) | 4:28 |
-| 31 | [Never Going Under](https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:14 |
-| 32 | [Metaverse](https://open.spotify.com/track/56awJyqhhuQW0p0bu1yTCo) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Metaverse](https://open.spotify.com/album/6Ae0axgHydUkFfR4IIs8Up) | 2:14 |
+| 31 | [Metaverse](https://open.spotify.com/track/56awJyqhhuQW0p0bu1yTCo) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Metaverse](https://open.spotify.com/album/6Ae0axgHydUkFfR4IIs8Up) | 2:14 |
+| 32 | [Never Going Under](https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:14 |
 | 33 | [Limbo](https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Limbo](https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE) | 4:53 |
 | 34 | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/track/0UdYkM8rQeOV9B8n65fsfN) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/album/0H6aN1da6Hv7nnZK5RrQVm) | 4:39 |
 | 35 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 | 68 | [Strong Feelings](https://open.spotify.com/track/3xNfIWTsRdYbpEyildEMis) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Strong Feelings](https://open.spotify.com/album/0j4bRpHCdbcQrqoeay67iY) | 4:04 |
 | 69 | [Yo Cuidé a Tu Amor](https://open.spotify.com/track/2rlnTBTeAYRCiWRV5OiSug) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [Yo Cuidé a Tu Amor](https://open.spotify.com/album/3wyR3TSvyR0tn6m3OFnyAU) | 3:54 |
 | 70 | [Lost Day](https://open.spotify.com/track/7HPmkCbzEbz8QGnC2PvZIY) | [Other Lives](https://open.spotify.com/artist/3bw0A7x5AgdJsK20ai5iS6) | [Lost Day](https://open.spotify.com/album/7Kt2H5kYFE1kpwkUitxDHG) | 2:55 |
-| 71 | [Worthy Girl](https://open.spotify.com/track/3yK73VxfoiDT1hCex7X09X) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Kills Birds](https://open.spotify.com/album/4ji7q0x2FcLB65vc9K3LUF) | 2:36 |
-| 72 | [Sand On The Beach](https://open.spotify.com/track/1zj7pjd6vpa7e2nhXelc99) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Sand On The Beach](https://open.spotify.com/album/3yzkkoOdyIq38nQ4dKTKPC) | 2:16 |
+| 71 | [Sand On The Beach](https://open.spotify.com/track/1zj7pjd6vpa7e2nhXelc99) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Sand On The Beach](https://open.spotify.com/album/3yzkkoOdyIq38nQ4dKTKPC) | 2:16 |
+| 72 | [Worthy Girl](https://open.spotify.com/track/3yK73VxfoiDT1hCex7X09X) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Kills Birds](https://open.spotify.com/album/4ji7q0x2FcLB65vc9K3LUF) | 2:36 |
 | 73 | [We Cannot Resist \- Edit](https://open.spotify.com/track/6gk9Cnmk1TwKwVJWAJPLPa) | [LUMP](https://open.spotify.com/artist/4gQsGkfdB4uVrNBqo4MhmI), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM), [Mike Lindsay](https://open.spotify.com/artist/7JY39clELNh1MLQBJs6MAk) | [We Cannot Resist](https://open.spotify.com/album/1wvs3xZ4xOsFXG6jZJCttW) | 3:13 |
 | 74 | [Love is the Answer](https://open.spotify.com/track/1xmBaHhS7WFvW7K1dLG7ON) | [Las Robertas](https://open.spotify.com/artist/6tUZG2qdEyTuJDkTM7WCGp) | [Love is the Answer](https://open.spotify.com/album/6RX01dChrxVMcluBPJgoLr) | 6:00 |
 | 75 | [Summer of Love](https://open.spotify.com/track/5CP2t8ob13BZXVXByFazt1) | [The Sandwitches](https://open.spotify.com/artist/5wEILNDofg1v2FSoOsFMyC) | [Mrs\. Jones' Cookies](https://open.spotify.com/album/24dI6lq3WUyZWLkf812CAm) | 3:41 |

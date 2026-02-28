@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Eq6MmYdni.md) - [plain]
 
 > Lo que suena in the lone star state\. Texas\. Cover: LOS DOS DE TAMAULIPAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,789 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,792 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Eq6MmYdni.md) - [plain]
 | 8 | [Vete de Una Vez](https://open.spotify.com/track/4aRxUpklzYv3Ey3z5B1PZL) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Vete De Una Vez](https://open.spotify.com/album/6emnEJtqIQ5Wi7g15wF1br) | 3:08 |
 | 9 | [EoO](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:24 |
 | 10 | [La Primera Vez \(Version Acústica\)](https://open.spotify.com/track/7uNdIFP6ca3zfg5wuLdUDV) | [El Esparza](https://open.spotify.com/artist/4RT0MnB1whwGBJ3N8oEntX) | [La Primera Vez \(Version Acústica\)](https://open.spotify.com/album/1gEnLYLsmiTbhf0i8POu9P) | 2:58 |
-| 11 | [AMOR \- Remix](https://open.spotify.com/track/16KUzRCczhBzuaa2DkgFN2) | [Emmanuel Cortes](https://open.spotify.com/artist/1Fw3mrMZROO1DBCZlQPasS), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [AMOR \(Remix\)](https://open.spotify.com/album/4QTWMcbaCU5HeaB1vMR3IR) | 3:20 |
+| 11 | [AMOR \- Remix](https://open.spotify.com/track/16KUzRCczhBzuaa2DkgFN2) | [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [AMOR \(Remix\)](https://open.spotify.com/album/4QTWMcbaCU5HeaB1vMR3IR) | 3:20 |
 | 12 | [POR SUS BESOS](https://open.spotify.com/track/1eunv1DeEi29UfAcVEoLTt) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [POR SUS BESOS](https://open.spotify.com/album/4cSbE15ekeLLRncLno6AJI) | 3:06 |
 | 13 | [Vita Fer](https://open.spotify.com/track/5HZBdV5AwSvKdHFOYbXYD7) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Vita Fer](https://open.spotify.com/album/2UyuT1u6vDSwK1WXEkyfr4) | 3:04 |
 | 14 | [Me Prometí](https://open.spotify.com/track/5uXL0CN1mQxHJSJRHN44Od) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Me Prometí](https://open.spotify.com/album/3uitW0pQMa3sZi80pjMNU4) | 2:51 |

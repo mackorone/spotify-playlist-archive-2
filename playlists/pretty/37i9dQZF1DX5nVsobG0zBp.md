@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Papillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,500 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,529 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 27 | [Europa \(feat\. Deejay Telio, Teto & Gson\)](https://open.spotify.com/track/5bBQI31u2eqXJE5OyP4hxq) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Europa \(feat\. Deejay Telio, Teto & Gson\)](https://open.spotify.com/album/4mJPvU4b5VgvQNgyuDcD0Q) | 3:36 |
 | 28 | [SWEET LIKE SUGAR](https://open.spotify.com/track/02Z5w9818U2uGmdCf2RasX) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [SWEET LIKE SUGAR](https://open.spotify.com/album/297FcXyyU9OWhW1aulhNMJ) | 2:50 |
 | 29 | [Tou Bem \(feat\. Lhast\)](https://open.spotify.com/track/0gzwa0yJncSs29DjXajA5i) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [\#FFFFFF](https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E) | 3:11 |
-| 30 | [São Paulo](https://open.spotify.com/track/20cn2KYYgyuxXRC3WynYZn) | [Yuri NR5](https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew) | [São Paulo](https://open.spotify.com/album/199XPsDPVUoBXzfHlhl6b7) | 3:53 |
-| 31 | [00 Fala Bonito](https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [00 Fala Bonito](https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv) | 3:32 |
+| 30 | [00 Fala Bonito](https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [00 Fala Bonito](https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv) | 3:32 |
+| 31 | [São Paulo](https://open.spotify.com/track/20cn2KYYgyuxXRC3WynYZn) | [Yuri NR5](https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew) | [São Paulo](https://open.spotify.com/album/199XPsDPVUoBXzfHlhl6b7) | 3:53 |
 | 32 | [Marselha](https://open.spotify.com/track/0O3Tiq9SgdndTbIzYs6UYc) | [Zara G](https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb) | [Marselha](https://open.spotify.com/album/1NxzgAT3Mhcb5ek0zxdhUj) | 3:08 |
 | 33 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
 | 34 | [Senti Tanto](https://open.spotify.com/track/4VAybjMGGmc3ihxbMHQ5PM) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 2:42 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 42 | [Segurança](https://open.spotify.com/track/6CQei9foPt8tr65hP8ESdQ) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Segurança](https://open.spotify.com/album/2dXGxbtFGYkpubKsCxvDgx) | 2:57 |
 | 43 | [Placas](https://open.spotify.com/track/79jG5WlRWMQbp0JeQO9r6K) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Placas](https://open.spotify.com/album/0pTCFWtiniY7Mi4nQpFVvn) | 3:32 |
 | 44 | [O Re$To](https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [HYPE MYKE](https://open.spotify.com/artist/1QJNTcEVJfb5qVsMvtA5ch) | [O Re$To](https://open.spotify.com/album/6iXe2Fi1uFGc06A2LFEjGg) | 5:04 |
-| 45 | [Lidar](https://open.spotify.com/track/6XaA1fw4pejU2lNPPMBjCO) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Caixa Azul](https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI) | 3:12 |
-| 46 | [Adora a bunda, odeia o rosto](https://open.spotify.com/track/791WFhCnv7eZTPe5U8XbB4) | [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Ghard](https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf) | [Adora a bunda, odeia o rosto](https://open.spotify.com/album/7p7iGjCfGo43LNDWPDfGXi) | 2:53 |
+| 45 | [Adora a bunda, odeia o rosto](https://open.spotify.com/track/791WFhCnv7eZTPe5U8XbB4) | [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Ghard](https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf) | [Adora a bunda, odeia o rosto](https://open.spotify.com/album/7p7iGjCfGo43LNDWPDfGXi) | 2:53 |
+| 46 | [Lidar](https://open.spotify.com/track/6XaA1fw4pejU2lNPPMBjCO) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Caixa Azul](https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI) | 3:12 |
 | 47 | [Stunka](https://open.spotify.com/track/6GetYj6tnZOw6HgoEhb4du) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Stunka](https://open.spotify.com/album/2obSOKa79b0NKNZyVccaIf) | 3:08 |
 | 48 | [Love Again](https://open.spotify.com/track/677ebW5G4BLaqX5Ue3itGv) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Love Again](https://open.spotify.com/album/150SzhajOXePuIre6fdyMQ) | 3:28 |
 | 49 | [VOLTA](https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [VOLTA](https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J) | 4:01 |

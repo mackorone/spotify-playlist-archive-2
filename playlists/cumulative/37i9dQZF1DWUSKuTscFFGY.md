@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés pop\. Photo : Bruno Mars
 
-803 songs - 1 day 17 hr 33 min
+804 songs - 1 day 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/track/17Vqwvat9EmRmfDvmYqoi0) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB) | 2:42 | 2025-12-11 |  |
 | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/album/19F2dOW0JWTAuK941khqsA) | 2:54 | 2023-08-10 | 2023-09-30 |
 | [Glow In The Dark](https://open.spotify.com/track/1V2ND6AWTXlzCnZ1s2klMH) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Glow In The Dark](https://open.spotify.com/album/4aA15kykB2RrixWL4m7MFP) | 2:58 | 2024-06-20 | 2024-10-04 |
+| [GO](https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 3:15 | 2026-02-26 |  |
 | [GO GO GO](https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [GO GO GO](https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S) | 2:25 | 2023-08-03 | 2023-09-15 |
 | [God Knows](https://open.spotify.com/track/0yOwc5hOnEQSgDTApRPgzC) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [God Knows](https://open.spotify.com/album/3G3sTPzTb0R6OQTt3nJI7i) | 2:50 | 2025-04-04 | 2025-06-27 |
 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 | 2025-06-06 | 2025-06-27 |

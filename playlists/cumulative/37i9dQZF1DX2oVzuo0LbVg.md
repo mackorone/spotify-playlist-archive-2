@@ -2,9 +2,9 @@
 
 ### [Pop en Inglés](https://open.spotify.com/playlist/37i9dQZF1DX2oVzuo0LbVg)
 
-> Pop Anglo para acompañar tus mejores momentos\. Foto: Harry Styles
+> Pop Anglo para acompañar tus mejores momentos\. Foto: Bruno Mars
 
-298 songs - 16 hr 29 min
+300 songs - 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Butterflies](https://open.spotify.com/track/3HPS8Nh23hatP7iZ3E7qEz) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Heartbeat Changes](https://open.spotify.com/album/4g26rVn6hs2J1JcAjeZF3H) | 3:17 | 2023-03-10 | 2024-04-19 |
 | [Butterflies](https://open.spotify.com/track/5XGJj8eIm5tSdxkIm6GBal) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Butterflies](https://open.spotify.com/album/5pzzVGspnxIYiGqqYyxstR) | 3:18 | 2024-03-08 | 2026-02-07 |
 | [By The End Of The Night](https://open.spotify.com/track/0tYtfBFJLVn2ITE66FbaLT) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [By The End Of The Night](https://open.spotify.com/album/0cNb1JOALBpKIZtOxxSabq) | 3:08 | 2023-03-24 |  |
-| [Camera](https://open.spotify.com/track/356ASHe2rEf7gBYby3hDX1) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play](https://open.spotify.com/album/23UkQx8aKE4IERCFuxpYL0) | 3:35 | 2025-09-12 |  |
+| [Camera](https://open.spotify.com/track/356ASHe2rEf7gBYby3hDX1) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play](https://open.spotify.com/album/23UkQx8aKE4IERCFuxpYL0) | 3:35 | 2025-09-12 | 2026-02-28 |
 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 | 2023-03-10 |  |
 | [Candy Necklace \(feat\. Jon Batiste\)](https://open.spotify.com/track/3MlEryrxCKZkcfX18ZLX96) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:14 | 2023-03-24 | 2023-04-09 |
 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-04-21 | 2023-05-13 |
@@ -106,6 +106,7 @@
 | [Get Up Kid](https://open.spotify.com/track/6HQpMGnMQ1mVbTv0WA0u7r) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Get Up Kid](https://open.spotify.com/album/2R7PVrfhfVcGPTXI8nDVGL) | 2:58 | 2023-07-14 | 2023-08-12 |
 | [Ghosts Again](https://open.spotify.com/track/3TiVl5igD6Z5Pw6R5sp8YV) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Ghosts Again](https://open.spotify.com/album/71hI1kZm2fvpY19mlv38nF) | 3:58 | 2023-03-10 |  |
 | [Girl Like Me](https://open.spotify.com/track/7bal8JfR3tSB9Qgf7wAGPL) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Girl Like Me](https://open.spotify.com/album/5ieBMOA3cYk5kofLMCSnMv) | 2:29 | 2023-04-21 | 2023-05-13 |
+| [GO](https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 3:15 | 2026-02-27 |  |
 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 | 2025-09-12 |  |
 | [Good Vibrations](https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Good Vibrations](https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF) | 3:49 | 2023-10-27 | 2024-01-13 |
 | [Got Me Started](https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:18 | 2023-11-10 | 2024-02-17 |
@@ -215,6 +216,7 @@
 | [Rescue Me](https://open.spotify.com/track/37LNNQNbL1YLyutBG6aWRx) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:39 | 2024-01-12 | 2025-11-22 |
 | [Rise](https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Rise](https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L) | 3:13 | 2023-03-10 |  |
 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 | 2024-05-10 | 2025-05-03 |
+| [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 | 2026-02-27 |  |
 | [River](https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 2:42 | 2023-03-10 | 2023-05-13 |
 | [Roar](https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:43 | 2023-03-10 |  |
 | [Rolling in the Deep](https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 3:48 | 2023-03-10 | 2024-04-19 |
@@ -293,7 +295,7 @@
 | [Weather For Tennis](https://open.spotify.com/track/7lPuRK4llInMs7m7lGkDCM) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [luck..\. or something](https://open.spotify.com/album/71t4M602DGtkhsy1RtNAME) | 3:16 | 2026-02-20 |  |
 | [WHAT THE HELL ARE WE DYING FOR ?](https://open.spotify.com/track/1sKtD5KMZgTFHbsxjgqfZh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [WHAT THE HELL ARE WE DYING FOR ?](https://open.spotify.com/album/0Q7TVHu87oAlkDhQP18QiX) | 3:49 | 2023-07-07 | 2026-01-20 |
 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2023-07-14 | 2023-10-28 |
-| [When I Was Your Man](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:33 | 2023-03-10 |  |
+| [When I Was Your Man](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:33 | 2023-03-10 | 2026-02-28 |
 | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/track/5902W4uHWzhtOff1UK7the) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9) | 2:41 | 2023-03-10 |  |
 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 | 2023-03-10 | 2026-02-07 |
 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 | 2025-11-21 |  |

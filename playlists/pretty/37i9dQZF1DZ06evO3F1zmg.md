@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 
 > This is Saweetie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,447 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,454 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 28 | [Talkin' Bout \(feat\. Saweetie\)](https://open.spotify.com/track/66vs64VphiHrtFcLR6Qeav) | [Loui](https://open.spotify.com/artist/053fl1QPQFGqSPPxSPcacT), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Pretty Summer Playlist: Season 1](https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth) | 2:06 |
 | 29 | [Is It The Way](https://open.spotify.com/track/4aY0JD0iHm1VIAQelgYkw7) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Is It The Way](https://open.spotify.com/album/4yvcCQ6riOr6XvigkpItWN) | 2:32 |
 | 30 | [BO$$ CHICK](https://open.spotify.com/track/0FAKS4dY2MADctcsPbmUvm) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [THE SINGLE LIFE](https://open.spotify.com/album/0kyPJmOde43w1nWzd79OU8) | 2:14 |
-| 31 | [Swan Song](https://open.spotify.com/track/790TzR1UxBXVMFSGq8p7bv) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 2:47 |
-| 32 | [Money Mouf](https://open.spotify.com/track/2ab4xGVMBb14NpPrj4xDq5) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Money Mouf](https://open.spotify.com/album/6dn11fbycq7fhBCfS8GBRG) | 3:31 |
-| 33 | [All She Wanna Do \(with Saweetie\)](https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [All She Wanna Do](https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M) | 3:15 |
-| 34 | [Move \(feat\. Saweetie\)](https://open.spotify.com/track/0DcjZHcCkc8DlRnZI0hagv) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 3:34 |
+| 31 | [Money Mouf](https://open.spotify.com/track/2ab4xGVMBb14NpPrj4xDq5) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Money Mouf](https://open.spotify.com/album/6dn11fbycq7fhBCfS8GBRG) | 3:31 |
+| 32 | [Swan Song](https://open.spotify.com/track/790TzR1UxBXVMFSGq8p7bv) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 2:47 |
+| 33 | [Move \(feat\. Saweetie\)](https://open.spotify.com/track/0DcjZHcCkc8DlRnZI0hagv) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 3:34 |
+| 34 | [All She Wanna Do \(with Saweetie\)](https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [All She Wanna Do](https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M) | 3:15 |
 | 35 | [Baby Boo](https://open.spotify.com/track/36UY111WEuMBKpF189a6m1) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:32 |
 | 36 | [Do It For The Bay](https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [P\-Lo](https://open.spotify.com/artist/5E2Y3HJBvm4P5GK1kBRMtG) | [Do It For The Bay](https://open.spotify.com/album/7LhiiKXxWkyRs3PDtIsl60) | 1:58 |
 | 37 | [You Come First \(feat\. Saweetie\)](https://open.spotify.com/track/5Ef2noaxqTAfa5gLVw05OJ) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [You Come First \(feat\. Saweetie\)](https://open.spotify.com/album/53fnJWISeZ4hjXYXBDVqB0) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 49 | [High Maintenance](https://open.spotify.com/track/3pxHcgYG8aKkclfWXBFSWv) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [High Maintenance](https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW) | 0:49 |
 | 50 | [Pretty \(feat\. Saweetie\)](https://open.spotify.com/track/1ALk8Otxy5aSYUvJeoZtlo) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [CORINIAN](https://open.spotify.com/album/4qtAux5nQUxDiKr7YE12RW) | 3:32 |
 
-Snapshot ID: `aZ47gAAAAADtZxHMvv0i5pVOtaFInk9K`
+Snapshot ID: `aZ+NAAAAAADd3L8J/hCtOdPO0ZmAbFnV`

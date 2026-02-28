@@ -4,14 +4,14 @@
 
 > smooth, crisp, not too tannic.
 
-186 songs - 11 hr 17 min
+188 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [23](https://open.spotify.com/track/1JVEM4C04VPAU9JTnKthNk) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 5:06 | 2024-01-08 | 2025-06-21 |
 | [80 Summers](https://open.spotify.com/track/5gK9lwZXKT4H1r95OkZd9q) | [John Roseboro](https://open.spotify.com/artist/0OTbmw4nbgWHiTyqhmz72s) | [80 Summers](https://open.spotify.com/album/4f26arqDYwDIG23p0R9ttB) | 3:20 | 2024-02-16 | 2024-07-13 |
 | [Abusey Junction](https://open.spotify.com/track/3W4IoNW4011i8qfCwN75Va) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/5GgdFrmouCR0Ud5Ag7IC8H) | 7:04 | 2024-01-08 | 2024-04-19 |
-| [Abusey Junction](https://open.spotify.com/track/6G6gPQ4bGqNj7ZMGUpIDfa) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/69O30wRnJwMunRrM6IgSsO) | 7:04 | 2024-04-05 |  |
+| [Abusey Junction](https://open.spotify.com/track/6G6gPQ4bGqNj7ZMGUpIDfa) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/69O30wRnJwMunRrM6IgSsO) | 7:04 | 2024-04-05 | 2026-02-28 |
 | [Afeto](https://open.spotify.com/track/6Y9ajxGefBUK9pMbT0C8gv) | [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Manga](https://open.spotify.com/album/3xB66GJOyGe80myaJ9qAQ9) | 4:24 | 2024-01-08 | 2025-01-16 |
 | [Ain't Nothing Changed](https://open.spotify.com/track/5dvpipXxOIH96gcGEKR1Iu) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Yesterday's Gone](https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5) | 3:14 | 2024-01-08 |  |
 | [All About Me](https://open.spotify.com/track/60mXzhxdo3dtKYz1MNBLFD) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [All About Me](https://open.spotify.com/album/6zprXAlQbVyY4bokzeemmr) | 4:23 | 2025-09-08 |  |
@@ -57,12 +57,13 @@
 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 | 2024-01-08 |  |
 | [Didn't I](https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Let My People Go](https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA) | 3:29 | 2024-01-08 |  |
 | [Don't Play The Fool](https://open.spotify.com/track/4vEumGHAzM47dHpIsUUTmt) | [Demae](https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL) | [Deep Dive](https://open.spotify.com/album/7yjMecUAb9ffr1awwK4Q73) | 3:39 | 2025-11-18 | 2026-02-21 |
-| [Don't Speak](https://open.spotify.com/track/6WT8Fwros1G2niyDvgtNnY) | [Loaded Honey](https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB), [Lydia Kitto](https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA), [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Loaded Honey](https://open.spotify.com/album/42QOd2CIcCMzVdI5oq6YxV) | 3:14 | 2025-05-09 |  |
+| [Don't Speak](https://open.spotify.com/track/6WT8Fwros1G2niyDvgtNnY) | [Loaded Honey](https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB), [Lydia Kitto](https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA), [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Loaded Honey](https://open.spotify.com/album/42QOd2CIcCMzVdI5oq6YxV) | 3:14 | 2025-05-09 | 2026-02-28 |
 | [Dragonball Durag](https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:01 | 2024-01-08 |  |
 | [Dream Suite](https://open.spotify.com/track/1rqGes0oHiWQRoIhsWqcGo) | [Marinero](https://open.spotify.com/artist/3nO1K3saAuSThsVWi1uxGF) | [La La La](https://open.spotify.com/album/5MFJ8Hny410K6fXlZPG9r0) | 3:54 | 2025-10-21 |  |
 | [Drifting](https://open.spotify.com/track/7rcIHCRo0d6CZtpwC0cznD) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [A Brief Nirvana](https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd) | 2:31 | 2024-01-08 | 2025-07-31 |
 | [drip bounce \_ 7\_24\_18](https://open.spotify.com/track/03nEmFDMGyVGYFhQHbxLpF) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Soul Trash](https://open.spotify.com/album/5l6ECRIbvkKPWdriaaAQe7) | 2:34 | 2024-01-08 | 2025-04-19 |
 | [Dumb Feeling](https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dumb Feeling](https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi) | 3:10 | 2025-02-07 | 2025-04-23 |
+| [Easy To Love](https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Tom McFarland](https://open.spotify.com/artist/2Lk6Kznui3rNEKOhjGtwM7) | [Easy To Love](https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S) | 3:19 | 2026-02-27 |  |
 | [Echo](https://open.spotify.com/track/6QlSPjiXHc1XwGKeEls6Gh) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:49 | 2024-07-12 |  |
 | [Electric Green Lambo](https://open.spotify.com/track/5cosFdrn8PBmz6eJpD00iq) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Electric Green Lambo](https://open.spotify.com/album/4nRdzHLndZ5zRaJvYDn1IM) | 2:35 | 2025-02-07 | 2025-05-15 |
 | [Empire \(feat\. John Carroll Kirby\)](https://open.spotify.com/track/2UTGBS4LQQHR46UnM2fMmV) | [Eddie Chacon](https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD), [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Lay Low](https://open.spotify.com/album/4soTMRGtMufO0SL6x3LMgv) | 2:59 | 2025-07-30 |  |
@@ -130,6 +131,7 @@
 | [Low Sun](https://open.spotify.com/track/4TwFXylgQheM8AUgY00G7C) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Low Sun](https://open.spotify.com/album/7nC5WtMQ8DJcfQzhFy2oqa) | 3:08 | 2024-03-22 |  |
 | [Made to Fall in Love](https://open.spotify.com/track/36h1hoNVjKcsLUH2NzGmPj) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Spotify Singles](https://open.spotify.com/album/1AjFcFS1NcE6zB8uUCeUzK) | 4:53 | 2025-03-25 |  |
 | [MANGO \(feat\. Adi Oasis\)](https://open.spotify.com/track/384TJj6XyHUyNlCbdgm6Sz) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [MANGO \(feat\. Adi Oasis\)](https://open.spotify.com/album/0f3ZSmX6rtHdMIzohJI9P0) | 4:05 | 2024-01-08 |  |
+| [Margaretas sång](https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Margaretas sång](https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn) | 4:12 | 2026-02-27 |  |
 | [Maria También](https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 3:10 | 2024-01-08 | 2025-11-19 |
 | [Masterpiece](https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 5:44 | 2024-01-08 |  |
 | [Melodies](https://open.spotify.com/track/0Bnat14c6fH2h1MUTPVaTN) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Secular Music Vol\. 1](https://open.spotify.com/album/2wlYFoF3Ac1JII1SYrUudf) | 4:34 | 2025-11-18 |  |

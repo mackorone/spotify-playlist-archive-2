@@ -5276,7 +5276,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 190000,
       "name": "Equinox",
       "url": "https://open.spotify.com/track/26gAtYU4DIHaTspPkgkaVu"
@@ -6327,6 +6327,24 @@
     },
     {
       "album": {
+        "name": "Fortuna",
+        "url": "https://open.spotify.com/album/4PlJ2gjWWc1IAGGpG7sepV"
+      },
+      "artists": [
+        {
+          "name": "Humilis",
+          "url": "https://open.spotify.com/artist/0n8aQnJfcC3RsUNDh9nYdh"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164651,
+      "name": "Fortuna",
+      "url": "https://open.spotify.com/track/0dqgEVrUJN4KB8TBlTxzjF"
+    },
+    {
+      "album": {
         "name": "Four Leaves",
         "url": "https://open.spotify.com/album/3MQNzbsWxRYHyhy9NiBKWQ"
       },
@@ -7098,6 +7116,24 @@
       "duration_ms": 142641,
       "name": "Harmonic Haze",
       "url": "https://open.spotify.com/track/3FGFNoIyjM3mij5XOcSK8K"
+    },
+    {
+      "album": {
+        "name": "Harmonious Delights",
+        "url": "https://open.spotify.com/album/0tRUzX4QgcLeVFf9vMtR5h"
+      },
+      "artists": [
+        {
+          "name": "Moonlace",
+          "url": "https://open.spotify.com/artist/5rWVqF1S6rQFrpha9UU4ip"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174010,
+      "name": "Harmonious Delights",
+      "url": "https://open.spotify.com/track/6QfHCQ2NtogrilvGJRN4T1"
     },
     {
       "album": {
@@ -9693,6 +9729,24 @@
     },
     {
       "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/5OKNbz5huK9Y68iHWTyUnm"
+      },
+      "artists": [
+        {
+          "name": "Chakra Tides",
+          "url": "https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182539,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/4n4i7yZOLRFTl9keADTgDj"
+    },
+    {
+      "album": {
         "name": "Memory Status",
         "url": "https://open.spotify.com/album/575CZ4LTrkyqRVfrAkDzJ0"
       },
@@ -10046,7 +10100,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 193613,
       "name": "Moment of Awareness",
       "url": "https://open.spotify.com/track/6zaiKqdrDS2xZuMY48k76k"
@@ -10518,6 +10572,24 @@
       "duration_ms": 158700,
       "name": "Neptune",
       "url": "https://open.spotify.com/track/3Gk3htA0t07SKqHAE6Ky7b"
+    },
+    {
+      "album": {
+        "name": "Nest",
+        "url": "https://open.spotify.com/album/0CY9syTC0yIdmBy8x84jZ2"
+      },
+      "artists": [
+        {
+          "name": "Tankeflukt",
+          "url": "https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166548,
+      "name": "Nest",
+      "url": "https://open.spotify.com/track/4AYRQe2Ewg7SmSmvBEX0Dc"
     },
     {
       "album": {
@@ -15018,7 +15090,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 169000,
       "name": "Stellar Nursery",
       "url": "https://open.spotify.com/track/7duzoE2HjcLyi2vF2IN4ir"
@@ -16188,7 +16260,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 156608,
       "name": "Tides",
       "url": "https://open.spotify.com/track/0yoimTeDt0DHtICIUKc6d2"
@@ -16354,6 +16426,24 @@
       "duration_ms": 158863,
       "name": "Trace of You",
       "url": "https://open.spotify.com/track/4hXQOcArtC467uYW7eWblQ"
+    },
+    {
+      "album": {
+        "name": "Traced Light",
+        "url": "https://open.spotify.com/album/1VQwynbz63jJE9c610Nip4"
+      },
+      "artists": [
+        {
+          "name": "Dance Of Centuries",
+          "url": "https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138700,
+      "name": "Traced Light",
+      "url": "https://open.spotify.com/track/0wbGBEWm3H6O98YkKLyVGM"
     },
     {
       "album": {
@@ -16826,7 +16916,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 148000,
       "name": "Until the Sky Opens",
       "url": "https://open.spotify.com/track/0ZWdRYLZFysW7TiXQ4i0WZ"

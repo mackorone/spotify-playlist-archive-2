@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "New music from Bruno Mars, Dato' Sri Siti Nurhaliza, Black Hanifah, laufey, RAYE  and more!",
+  "description": "New music from Bruno Mars, BLACKPINK, Dato' Sri Siti Nurhaliza, Black Hanifah, laufey, RAYE  and more!",
   "name": "New Music Friday Malaysia",
   "tracks": [
     {
@@ -90887,6 +90887,28 @@
     },
     {
       "album": {
+        "name": "EMOTIONS",
+        "url": "https://open.spotify.com/album/3qNHVdG5XAa63qdiLm6LzR"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        },
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "EMOTIONS",
+      "url": "https://open.spotify.com/track/5xG8q1HN3zJFVml6lttUbK"
+    },
+    {
+      "album": {
         "name": "Empathy Is A Bitch",
         "url": "https://open.spotify.com/album/4HVF74ywAlmQFeUoidzraU"
       },
@@ -117054,6 +117076,24 @@
       "duration_ms": 193539,
       "name": "gnx (feat. hitta j3, youngthreat, peysoh)",
       "url": "https://open.spotify.com/track/3aZptNYC6Z1YoumeqZcDcQ"
+    },
+    {
+      "album": {
+        "name": "DEADLINE",
+        "url": "https://open.spotify.com/album/2SrWldMz9dfCB7kAGQNbcC"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195402,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/0mYa3o6tlUN5HRippmKmwH"
     },
     {
       "album": {
@@ -169792,6 +169832,28 @@
       "duration_ms": 220746,
       "name": "Key To The City",
       "url": "https://open.spotify.com/track/3QAT8Y88JqW2nZWFYots94"
+    },
+    {
+      "album": {
+        "name": "Keychain (FROM THE FILM K-POPS!)",
+        "url": "https://open.spotify.com/album/58x92u1JINTa5K7lTzfU02"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170786,
+      "name": "Keychain - FROM THE FILM K-POPS!",
+      "url": "https://open.spotify.com/track/3Q3WZ7sJLoIZQKY7hWFyQu"
     },
     {
       "album": {
@@ -266817,6 +266879,24 @@
     },
     {
       "album": {
+        "name": "Same Sky",
+        "url": "https://open.spotify.com/album/5w10bOkr3HsPSp0nl1R0ff"
+      },
+      "artists": [
+        {
+          "name": "NCT WISH",
+          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Same Sky",
+      "url": "https://open.spotify.com/track/3bCRaajNv2J9wH0xQjiQTY"
+    },
+    {
+      "album": {
         "name": "Same Sunrise",
         "url": "https://open.spotify.com/album/7DkaKreruueKqkN2IjfHem"
       },
@@ -308291,7 +308371,7 @@
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 288410,
+      "duration_ms": 289801,
       "name": "Tell Me It Ain't Over",
       "url": "https://open.spotify.com/track/50m3JU4UKyu1pr4y7jWjfg"
     },
@@ -322376,6 +322456,24 @@
       "duration_ms": 271428,
       "name": "Tinggalkan Luka",
       "url": "https://open.spotify.com/track/1Id2FlmtDzWU9l3XjO7kJI"
+    },
+    {
+      "album": {
+        "name": "Tiny Light",
+        "url": "https://open.spotify.com/album/29itUVO9h0qMhglTVctEQD"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207013,
+      "name": "Tiny Light",
+      "url": "https://open.spotify.com/track/0r4WKpapZS9Fit7iJr3XM1"
     },
     {
       "album": {

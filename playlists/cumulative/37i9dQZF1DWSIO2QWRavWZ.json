@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New music from your favorite women.  Cover: Essosa",
+  "description": "New music from your favorite women.  Cover: Nali and Coi Leray",
   "name": "Queen",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 234608,
       "name": "100",
       "url": "https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa"
@@ -362,7 +362,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 111844,
       "name": "all day",
       "url": "https://open.spotify.com/track/6mo4tHSZ4cI0TpAy7Pum7Y"
@@ -814,7 +814,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 136905,
       "name": "Assumptions",
       "url": "https://open.spotify.com/track/0egBqATpcSau87VeLWdZQt"
@@ -1036,6 +1036,24 @@
       "duration_ms": 240626,
       "name": "Bad Blood",
       "url": "https://open.spotify.com/track/4Iam3vZMJCMltFkK9mNruw"
+    },
+    {
+      "album": {
+        "name": "badman",
+        "url": "https://open.spotify.com/album/7HryhBfvpRhVRzcWF2SH8W"
+      },
+      "artists": [
+        {
+          "name": "nomi.",
+          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174612,
+      "name": "badman",
+      "url": "https://open.spotify.com/track/4406h74Yzu8yH3TfsKJ41L"
     },
     {
       "album": {
@@ -1267,6 +1285,24 @@
     },
     {
       "album": {
+        "name": "Better Than This",
+        "url": "https://open.spotify.com/album/1qRLVRUB4QJkNzxNIah5Pc"
+      },
+      "artists": [
+        {
+          "name": "Mary Ann Alexander",
+          "url": "https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126982,
+      "name": "Better Than This",
+      "url": "https://open.spotify.com/track/3AKXYHa9w1gyX1fEAwDssN"
+    },
+    {
+      "album": {
         "name": "JAGUAR",
         "url": "https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR"
       },
@@ -1314,7 +1350,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 171782,
       "name": "Blame It On Me",
       "url": "https://open.spotify.com/track/5Cm2KMs2vNukKNVJ1H1Epo"
@@ -2404,7 +2440,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 161663,
       "name": "Deep",
       "url": "https://open.spotify.com/track/0eJHzodSFJVXC1HD4O3AEq"
@@ -2707,6 +2743,24 @@
     },
     {
       "album": {
+        "name": "Downfall",
+        "url": "https://open.spotify.com/album/6MUxRKxAACDn8fF2NqlLK8"
+      },
+      "artists": [
+        {
+          "name": "Genia",
+          "url": "https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226192,
+      "name": "Downfall",
+      "url": "https://open.spotify.com/track/2K9I0bmmcNBrAfOfGWMOVX"
+    },
+    {
+      "album": {
         "name": "Dream of You",
         "url": "https://open.spotify.com/album/06pukcyvAvWMEuOnV9O18i"
       },
@@ -2798,7 +2852,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 176675,
       "name": "Dumb MF",
       "url": "https://open.spotify.com/track/3FYpz5OiMhy2cOj7Kr1el9"
@@ -4002,7 +4056,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 170790,
       "name": "HARD TO LOVE",
       "url": "https://open.spotify.com/track/5KeT3r2AjQ9zsW1tBwiPRW"
@@ -5160,7 +5214,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 194174,
       "name": "Jezebel",
       "url": "https://open.spotify.com/track/1NciBc7baz5hT6jNTixk7w"
@@ -5417,6 +5471,24 @@
     },
     {
       "album": {
+        "name": "SET",
+        "url": "https://open.spotify.com/album/2C1UB6HNcJU6y3Ul9zDIP9"
+      },
+      "artists": [
+        {
+          "name": "GoGo Morrow",
+          "url": "https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166104,
+      "name": "LA LA LIES",
+      "url": "https://open.spotify.com/track/6LRmXTaEZsE1nCjoHoCtHc"
+    },
+    {
+      "album": {
         "name": "The Art of Loving",
         "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
       },
@@ -5605,6 +5677,24 @@
     },
     {
       "album": {
+        "name": "LMK",
+        "url": "https://open.spotify.com/album/7kxQ2FUM4JqnwwJ5y37Z2F"
+      },
+      "artists": [
+        {
+          "name": "Jastin Martin",
+          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136488,
+      "name": "LMK",
+      "url": "https://open.spotify.com/track/6eMqWfGVODOuquKiZ316UG"
+    },
+    {
+      "album": {
         "name": "LOCKED IN",
         "url": "https://open.spotify.com/album/7jTcuDWNDsIHAdvVtVntg1"
       },
@@ -5688,7 +5778,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 174572,
       "name": "love away",
       "url": "https://open.spotify.com/track/0oy31mP3pLEvN26BIlZmHy"
@@ -5963,6 +6053,46 @@
     },
     {
       "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/1gJkv3Nxw6gA1iDHLDktAm"
+      },
+      "artists": [
+        {
+          "name": "Nali",
+          "url": "https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182586,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/1aBmMmWmtkLw13OzY1SaVt"
+    },
+    {
+      "album": {
+        "name": "Maybe...",
+        "url": "https://open.spotify.com/album/6q6meFNQnJyNwiT5PQWZEu"
+      },
+      "artists": [
+        {
+          "name": "Adria Kain",
+          "url": "https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224273,
+      "name": "Maybe...",
+      "url": "https://open.spotify.com/track/279Wu3If7JDlRoor8f3XxJ"
+    },
+    {
+      "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
@@ -6050,6 +6180,24 @@
       "duration_ms": 171068,
       "name": "Mine",
       "url": "https://open.spotify.com/track/1vZjhrIgcBUD0HlSxaUbRb"
+    },
+    {
+      "album": {
+        "name": "Miss That",
+        "url": "https://open.spotify.com/album/2BOViTOt2OUGdjGWpjT8t9"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176316,
+      "name": "Miss That",
+      "url": "https://open.spotify.com/track/32C7nsEacy74cB3tlJQCaE"
     },
     {
       "album": {
@@ -6242,6 +6390,28 @@
       "duration_ms": 195454,
       "name": "move it along (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/39NAN04MOSgsU8q3RMNjYs"
+    },
+    {
+      "album": {
+        "name": "My Bag",
+        "url": "https://open.spotify.com/album/5InLdo0M2GDWYhj9AL3h4n"
+      },
+      "artists": [
+        {
+          "name": "Miranda Rae",
+          "url": "https://open.spotify.com/artist/04CM97hjzZvlzAOOHzh59o"
+        },
+        {
+          "name": "Najee Janey",
+          "url": "https://open.spotify.com/artist/2whc6gja7yTVsL7EqWEQnF"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217570,
+      "name": "My Bag",
+      "url": "https://open.spotify.com/track/5wf7ByRR1su9s6vKg3y1Xs"
     },
     {
       "album": {
@@ -8489,6 +8659,24 @@
     },
     {
       "album": {
+        "name": "Shut It Down",
+        "url": "https://open.spotify.com/album/1pBHZvxW0PjRj3JDYlAovT"
+      },
+      "artists": [
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146363,
+      "name": "Shut It Down",
+      "url": "https://open.spotify.com/track/2lb2g8Otp8qDlpNFTVHjlh"
+    },
+    {
+      "album": {
         "name": "Honey Water",
         "url": "https://open.spotify.com/album/71l7QcYNTXUjCwyFNy3emN"
       },
@@ -9056,7 +9244,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 147077,
       "name": "Still Ridin",
       "url": "https://open.spotify.com/track/2Vi6SudcKitRYgfM9JUtek"
@@ -9216,7 +9404,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 194895,
       "name": "TAI CHI",
       "url": "https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0"
@@ -9484,7 +9672,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 172081,
       "name": "The Mood",
       "url": "https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7"
@@ -10308,7 +10496,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 179539,
       "name": "Wallpaper",
       "url": "https://open.spotify.com/track/6LdIS1qUJYXBms7rAcKQ3z"
@@ -10326,7 +10514,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 149268,
       "name": "Want This To Happen",
       "url": "https://open.spotify.com/track/4uhXhiL0HXTqcaDo8coW18"
@@ -10554,7 +10742,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 196795,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
@@ -10734,7 +10922,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 206016,
       "name": "Won't Force You",
       "url": "https://open.spotify.com/track/4fsaFXJwoADL5w4iw9IKJO"
@@ -10774,6 +10962,24 @@
       "duration_ms": 277240,
       "name": "You Give Good Love",
       "url": "https://open.spotify.com/track/0t6DdFmFQhQYWhmfa5FJer"
+    },
+    {
+      "album": {
+        "name": "You Went Away Too Long",
+        "url": "https://open.spotify.com/album/5NpT7rCbRYs6LRMcmBEKOD"
+      },
+      "artists": [
+        {
+          "name": "The Womack Sisters",
+          "url": "https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199081,
+      "name": "You Went Away Too Long",
+      "url": "https://open.spotify.com/track/7Bxor3rKUpBDuNi9lVIzpz"
     },
     {
       "album": {

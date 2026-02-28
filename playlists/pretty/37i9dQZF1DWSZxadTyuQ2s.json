@@ -1,6 +1,6 @@
 {
   "description": "The sound of Afrobeats echoing around the world. Cover:  Moliy and Bees & Honey ",
-  "num_followers": 27843,
+  "num_followers": 27851,
   "original_name": "Global Afrobeats",
   "owner": {
     "name": "Spotify",
@@ -477,7 +477,7 @@
         }
       ],
       "duration_ms": 186153,
-      "name": "Holy Ghost",
+      "name": "HOLY GHOST",
       "url": "https://open.spotify.com/track/0zVk3uuV9UhxAt48F3OL12"
     },
     {
@@ -599,6 +599,26 @@
     {
       "added_at": "2026-02-27 00:01:26",
       "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 187111,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/4vb777iaycnlFxVkJMmtfd"
+    },
+    {
+      "added_at": "2026-02-27 00:01:26",
+      "album": {
         "name": "Mussulo (feat. Doddy)",
         "url": "https://open.spotify.com/album/1eQf5lYWtCDIbuXnhMDQtO"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 256483,
       "name": "Mussulo (feat. Doddy)",
       "url": "https://open.spotify.com/track/3VSO45erUjYsPi1IFuc43Q"
-    },
-    {
-      "added_at": "2026-02-27 00:01:26",
-      "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 187111,
-      "name": "Peru",
-      "url": "https://open.spotify.com/track/4vb777iaycnlFxVkJMmtfd"
     },
     {
       "added_at": "2026-02-27 00:01:26",
@@ -791,6 +791,26 @@
     {
       "added_at": "2026-02-27 00:01:26",
       "album": {
+        "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 137390,
+      "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM"
+    },
+    {
+      "added_at": "2026-02-27 00:01:26",
+      "album": {
         "name": "Escaladizzy II",
         "url": "https://open.spotify.com/album/0DSBgUcKAyKmto3gkKDqUu"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 213559,
       "name": "Escaladizzy II",
       "url": "https://open.spotify.com/track/2h1aaSSMUspQfHKDl5uISY"
-    },
-    {
-      "added_at": "2026-02-27 00:01:26",
-      "album": {
-        "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT"
-      },
-      "artists": [
-        {
-          "name": "RnBoi",
-          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 137390,
-      "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM"
     },
     {
       "added_at": "2026-02-27 00:01:26",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-02-27 00:01:26",
       "album": {
-        "name": "Il s'appelait Tayc",
-        "url": "https://open.spotify.com/album/5J0faaooCsZuiFkF7s18we"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 220490,
-      "name": "Il s'appelait Tayc",
-      "url": "https://open.spotify.com/track/2BXseQq9ypAA6Bp1urAbM4"
-    },
-    {
-      "added_at": "2026-02-27 00:01:26",
-      "album": {
         "name": "11:11 (Deluxe)",
         "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 176503,
       "name": "Hmmm (feat. Davido)",
       "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
+    },
+    {
+      "added_at": "2026-02-27 00:01:26",
+      "album": {
+        "name": "Il s'appelait Tayc",
+        "url": "https://open.spotify.com/album/5J0faaooCsZuiFkF7s18we"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 220490,
+      "name": "Il s'appelait Tayc",
+      "url": "https://open.spotify.com/track/2BXseQq9ypAA6Bp1urAbM4"
     },
     {
       "added_at": "2026-02-27 00:01:26",
@@ -1495,6 +1495,26 @@
     {
       "added_at": "2026-02-27 00:01:26",
       "album": {
+        "name": "Sans toi",
+        "url": "https://open.spotify.com/album/2JfDgtNtA8C5cJxGmk3AWQ"
+      },
+      "artists": [
+        {
+          "name": "Hiro",
+          "url": "https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 174522,
+      "name": "Sans toi",
+      "url": "https://open.spotify.com/track/6vwT9bo2J64io4l5wd1YFG"
+    },
+    {
+      "added_at": "2026-02-27 00:01:26",
+      "album": {
         "name": "barry wonder",
         "url": "https://open.spotify.com/album/6TNtDvgFGVACXM3JUWtzRt"
       },
@@ -1543,26 +1563,6 @@
     {
       "added_at": "2026-02-27 00:01:26",
       "album": {
-        "name": "Sans toi",
-        "url": "https://open.spotify.com/album/2JfDgtNtA8C5cJxGmk3AWQ"
-      },
-      "artists": [
-        {
-          "name": "Hiro",
-          "url": "https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 174522,
-      "name": "Sans toi",
-      "url": "https://open.spotify.com/track/6vwT9bo2J64io4l5wd1YFG"
-    },
-    {
-      "added_at": "2026-02-27 00:01:26",
-      "album": {
         "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
         "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
       },
@@ -1583,26 +1583,22 @@
     {
       "added_at": "2026-02-27 00:01:26",
       "album": {
-        "name": "Para",
-        "url": "https://open.spotify.com/album/1UM6CkIqcgHX2xhEQz3csf"
+        "name": "Pantera",
+        "url": "https://open.spotify.com/album/10vK60mLIm42qqDe2u4YPV"
       },
       "artists": [
         {
-          "name": "XVI",
-          "url": "https://open.spotify.com/artist/0utiBmutysHdb0zXFCLMT2"
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
         },
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 146125,
-      "name": "Para",
-      "url": "https://open.spotify.com/track/7AbI4k9HsEcBX115clkBct"
+      "duration_ms": 153707,
+      "name": "En Tu Marea",
+      "url": "https://open.spotify.com/track/6dsDpY2pE4Xge9JHm8IXol"
     }
   ],
   "unique_name": "Global Afrobeats",

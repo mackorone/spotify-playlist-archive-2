@@ -1825,6 +1825,24 @@
     },
     {
       "album": {
+        "name": "Ay\u00fadame a Creer",
+        "url": "https://open.spotify.com/album/33TGZrKLsp5OIdiRYd7ggL"
+      },
+      "artists": [
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188344,
+      "name": "Ay\u00fadame a Creer",
+      "url": "https://open.spotify.com/track/5dOuVjXwYraVqeP9Dr75Av"
+    },
+    {
+      "album": {
         "name": "Adorando Entre Amigos",
         "url": "https://open.spotify.com/album/0XgdtM4YTDOJ4TAU7dWr4o"
       },
@@ -2446,7 +2464,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 253375,
       "name": "Cada Generaci\u00f3n",
       "url": "https://open.spotify.com/track/4BvZojjPbrMxVueuFmTiJz"

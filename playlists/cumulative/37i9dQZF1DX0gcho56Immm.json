@@ -652,7 +652,7 @@
       },
       "artists": [
         {
-          "name": "deer park",
+          "name": "Deer park",
           "url": "https://open.spotify.com/artist/6Lq0JPdh83AUSeMfuMPCjy"
         },
         {
@@ -850,6 +850,24 @@
       "duration_ms": 219811,
       "name": "Days Incomplete",
       "url": "https://open.spotify.com/track/7hzXbAbf3okLa0kpb39tG9"
+    },
+    {
+      "album": {
+        "name": "Street Druid",
+        "url": "https://open.spotify.com/album/09dNgUWYDu8lJAxYC0uUYj"
+      },
+      "artists": [
+        {
+          "name": "Ben Vince",
+          "url": "https://open.spotify.com/artist/2EWVX9WDwCaDHdsoTFWSPV"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393552,
+      "name": "Deepbluereflection",
+      "url": "https://open.spotify.com/track/6zJ2acR0p3cci9h1GNKMjz"
     },
     {
       "album": {

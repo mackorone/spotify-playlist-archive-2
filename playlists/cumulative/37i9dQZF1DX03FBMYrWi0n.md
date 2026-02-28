@@ -2,9 +2,9 @@
 
 ### [ALT\_QC](https://open.spotify.com/playlist/37i9dQZF1DX03FBMYrWi0n)
 
-> L’alternatif québécois à plein volume\. Photo: Le Belladone
+> L’alternatif québécois à plein volume\. Photo: Population II
 
-408 songs - 23 hr 14 min
+410 songs - 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [8ième fois](https://open.spotify.com/track/0UKI26bi6MnzWZqfLUafox) | [Cure\-Pipe](https://open.spotify.com/artist/2Bx1pKUBJRXL6myG0Q2hxc) | [8ième fois](https://open.spotify.com/album/0f36eBIOYlt23phfpDmudV) | 1:35 | 2026-02-13 |  |
 | [\[USE ME\] then \[RE\-USE ME\]](https://open.spotify.com/track/2XbIOWSU6cnphMkBRBsU1P) | [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS) | [\[USE ME\] then \[RE\-USE ME\]](https://open.spotify.com/album/3TL0qMRlt2aorqhxHW5soX) | 2:57 | 2026-02-13 |  |
 | [Aalto B Side](https://open.spotify.com/track/5Bwt7WzKBg2LiY3W5ltGut) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Aalto B Side](https://open.spotify.com/album/4c98gIHATZ6QDHWjcReeMD) | 1:40 | 2025-12-12 | 2025-12-19 |
-| [Adieux](https://open.spotify.com/track/42sl6gsdJVJICsTcIHXS5b) | [Carences](https://open.spotify.com/artist/7I02FqOdSUVUkRU6l9IDlC) | [Violences](https://open.spotify.com/album/55nG03ltAhwElNsGbRSyd4) | 3:11 | 2025-11-14 |  |
+| [Adieux](https://open.spotify.com/track/42sl6gsdJVJICsTcIHXS5b) | [Carences](https://open.spotify.com/artist/7I02FqOdSUVUkRU6l9IDlC) | [Violences](https://open.spotify.com/album/55nG03ltAhwElNsGbRSyd4) | 3:11 | 2025-11-14 | 2026-02-28 |
 | [Adélaïde](https://open.spotify.com/track/3BqfWNtzt4miHR7qPAZC7J) | [Loïc Lafrance](https://open.spotify.com/artist/68zsBMMCbmXplV5pBArgwI) | [La peur est une fleur](https://open.spotify.com/album/55e9SLoKU8ENxvtO3CVmzt) | 3:04 | 2024-09-13 | 2025-10-18 |
 | [Ah ouin](https://open.spotify.com/track/1W6VCZ9DPxgpgIGRgYmjL8) | [Chocolat](https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57) | [Rencontrer looloo](https://open.spotify.com/album/5p5o5lAkjxOMk6wPHgtfrP) | 2:30 | 2023-04-28 | 2023-11-18 |
 | [Ah ouin](https://open.spotify.com/track/4JVe6FuY32Bl8oJberHU5E) | [Chocolat](https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57) | [Rencontrer Looloo](https://open.spotify.com/album/3yvFPD3YJenurvdHAxxDcg) | 2:30 | 2024-04-19 | 2025-10-11 |
@@ -46,7 +46,7 @@
 | [Autobahn](https://open.spotify.com/track/1LGSUhyWYn8o9PwtE8QN2x) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Autobahn](https://open.spotify.com/album/1YGNt3j4tgi6mrmSTSjDBq) | 4:10 | 2023-07-14 | 2024-05-18 |
 | [Ayoye](https://open.spotify.com/track/37LKSiUHA1tiLVYO8lr17N) | [Service Conseil](https://open.spotify.com/artist/1yOGYv7SGB9nbwtIkgg0bm) | [Accusez réception](https://open.spotify.com/album/7nnEcglxzIcJPqVsxfVwHV) | 3:14 | 2025-12-19 |  |
 | [Babyfoot \(feat\. Klô Pelgag\)](https://open.spotify.com/track/7KfODvbJdlLQw6bgT2Qzqg) | [FELP](https://open.spotify.com/artist/3BDyAQcs61DM6kedDF0b0l), [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Babyfoot \(feat\. Klô Pelgag\)](https://open.spotify.com/album/6hiaLfpvnH69stsmbA9t1W) | 2:36 | 2023-02-24 | 2023-06-04 |
-| [Back to You](https://open.spotify.com/track/09ldOu23gZPJYwH0QMw6pp) | [Psychic Armour](https://open.spotify.com/artist/0hSyMcuH2m0tgn3xi8LqN6) | [Pressure](https://open.spotify.com/album/0sIR9dt3gebNw8qwLxScxv) | 2:33 | 2026-02-14 |  |
+| [Back to You](https://open.spotify.com/track/09ldOu23gZPJYwH0QMw6pp) | [Psychic Armour](https://open.spotify.com/artist/0hSyMcuH2m0tgn3xi8LqN6) | [Pressure](https://open.spotify.com/album/0sIR9dt3gebNw8qwLxScxv) | 2:33 | 2026-02-14 | 2026-02-28 |
 | [Bal des contraires](https://open.spotify.com/track/6YWrNxcVitdkQWFBQDfNE8) | [Carences](https://open.spotify.com/artist/7I02FqOdSUVUkRU6l9IDlC) | [Bal des contraires](https://open.spotify.com/album/7mAEj6YE3FGY6rcvzzFocY) | 2:46 | 2025-10-10 | 2026-01-15 |
 | [Barracuda](https://open.spotify.com/track/5E5lbNZgB2HAIEuitVJSGw) | [Miels](https://open.spotify.com/artist/1T7DAgRWmzieWxeyEhBD8g) | [Barracuda](https://open.spotify.com/album/0QFxXWyypV88bXEaJnyEF0) | 2:12 | 2023-10-06 | 2023-10-21 |
 | [Beau baptême](https://open.spotify.com/track/23VeUjFdefGJfKqGdjn4o5) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd) | [Beau baptême](https://open.spotify.com/album/4uAwaa2dXHOGCAL9la6cFm) | 3:40 | 2023-06-02 | 2023-06-20 |
@@ -252,6 +252,7 @@
 | [Maïa](https://open.spotify.com/track/74VUaKDV1hUSpEpMxe2Ct4) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Premier juin](https://open.spotify.com/album/4lOsb9ZHpbTcom0mZ7Qz86) | 4:28 | 2023-02-10 | 2025-10-11 |
 | [Megastar](https://open.spotify.com/track/2yJ3ULFBKKC5MX0x9e9NVW) | [Les Dales Hawerchuk](https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC) | [Attaque à cinq](https://open.spotify.com/album/71XdYuOf1H7TWaUOsEHklR) | 2:42 | 2024-11-08 | 2025-11-15 |
 | [Messie](https://open.spotify.com/track/6JMVUBNCmJm8ezhtkVxZEY) | [zouz](https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi) | [Messie](https://open.spotify.com/album/2iShXqWzIlmUbUFsjOB2kw) | 4:05 | 2024-05-10 | 2024-09-03 |
+| [Million Rats](https://open.spotify.com/track/3llooxIeqyhX3ySefkyrP3) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Million Rats](https://open.spotify.com/album/3V1q7yanZrhK1Y0SFcDkmE) | 2:55 | 2026-02-27 |  |
 | [Milquetoast](https://open.spotify.com/track/4dDV4PY0AMF9e9oRBsHla3) | [Hélène Barbier](https://open.spotify.com/artist/2b6PbrllP38ILGLTkdcrZz) | [Milquetoast](https://open.spotify.com/album/6b3lLjWwLRbksC0vHNG72T) | 2:20 | 2025-11-14 | 2026-02-21 |
 | [Miroirs](https://open.spotify.com/track/2vHfUP4xN5KmbJR6A80k4Q) | [zouz](https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi) | [Jours de cendre](https://open.spotify.com/album/4qVeyzi0kYZ2ry5cR8ZFbF) | 3:32 | 2024-10-25 | 2025-11-15 |
 | [Mon Argent](https://open.spotify.com/track/2S2MHKQYRA6LdBWsTb6fcK) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Mon Argent](https://open.spotify.com/album/3DO7QiZvBdCRAxHt8AmVR4) | 3:37 | 2024-04-05 | 2024-04-19 |
@@ -391,6 +392,7 @@
 | [Viendras\-tu pleurer?](https://open.spotify.com/track/6lBb5vtkIdpJ2LxQX9NisN) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Viendras\-tu pleurer?](https://open.spotify.com/album/0vi46z2QfWE6AvGApoT6tm) | 3:27 | 2023-03-17 | 2024-04-30 |
 | [Vitesse](https://open.spotify.com/track/4Wtf5MWtWQ0t5mSk9xwJks) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Vitesse](https://open.spotify.com/album/4Xx7ZyYbDFcHycDtffNjzf) | 3:15 | 2023-09-08 | 2023-10-28 |
 | [Vivante](https://open.spotify.com/track/6INiiv6q0t1aG4sT1BgGVw) | [Oli Féra](https://open.spotify.com/artist/7w7eRmvf0GmCUfjokS71qw) | [Vivante](https://open.spotify.com/album/42HGOBm9rgRSGp7Pk4mn3O) | 3:25 | 2026-01-09 |  |
+| [Vivre et mourir en région](https://open.spotify.com/track/1pTlJ53M2ulqDpNus0FXSH) | [PasMort](https://open.spotify.com/artist/2uTrwIsXDbJ4b1JRwTzt6o) | [Vivre et mourir en région](https://open.spotify.com/album/7gSLy6lCK5WDECT8PpHRzU) | 1:56 | 2026-02-27 |  |
 | [Voiture de course](https://open.spotify.com/track/5AbHwqS90lmbvhNX733j0z) | [oui merci](https://open.spotify.com/artist/6XUr1bWIBVkLmXHySucgyr) | [Voiture de course](https://open.spotify.com/album/7m2z2S45pCXwA8tzDV8pdK) | 3:25 | 2023-09-08 | 2023-09-27 |
 | [Vouloir Tomber \(Pour se permettre d'exister\)](https://open.spotify.com/track/1sSoHAp4TnJFhKQBvI2W2D) | [La Fuite](https://open.spotify.com/artist/4ZiHDCHZb5rGAmIzJTUAFS) | [La Fuite, La Chute](https://open.spotify.com/album/40m6jQoG2jOM3p9CdOGSD8) | 4:23 | 2025-10-31 |  |
 | [WAKE UP](https://open.spotify.com/track/2QAz9MrzAwLltC4Byk8AMV) | [Backxwash](https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg) | [WAKE UP](https://open.spotify.com/album/64w4PHbffwBJvLkVdSfm9E) | 7:07 | 2024-04-19 | 2025-10-25 |

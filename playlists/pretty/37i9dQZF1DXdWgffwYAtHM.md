@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:5uQPyd1dYqB4Oepgk8HqMM">obra aberta</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,900 likes - 12 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,899 likes - 12 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,4 +21,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 | 11 | [pra quem tenta controlar tudo ](https://open.spotify.com/episode/3oyqQnV1Tu44Z92hXdPwg7) | [Colo de amiga por @sofidisse](https://open.spotify.com/show/5j7Xq0NEDtSOahTZK3bVLc) | [Colo de amiga por @sofidisse](https://open.spotify.com/album/5j7Xq0NEDtSOahTZK3bVLc) | 24:14 |
 | 12 | [\#203\. Bebê da mamãe](https://open.spotify.com/episode/5Qk3Gd1ERTYd67lWQ8IcRl) | [Até aí, ok!](https://open.spotify.com/show/0QukQs0ML5vk7MvOh05bth) | [Até aí, ok!](https://open.spotify.com/album/0QukQs0ML5vk7MvOh05bth) | 37:47 |
 
-Snapshot ID: `AAAAAKYo8mS9j0jmiarfkPTvRvo68f5Q`
+Snapshot ID: `AAAAAFe8C9tLPIDOW4EJ7xLtJQ0MXLdu`

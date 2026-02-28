@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 
 > Club classics from the homeland of dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,097 likes - 80 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,229 likes - 80 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 33 | [Café Del Mar \- Three 'N One Radio Edit](https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Three 'N One](https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0) | [Café Del Mar: The Best of the Remixes](https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun) | 3:49 |
 | 34 | [Ayla \- DJ Taucher Radio Edit](https://open.spotify.com/track/4acv9cybr3QdBcQ5WpyiI1) | [Ayla](https://open.spotify.com/artist/190nhOwQKuDEOv7YKOgnzq), [Taucher](https://open.spotify.com/artist/0LTOhhlPSPjhOamlAhbYfa) | [Trance Classics, Vol\. 01](https://open.spotify.com/album/12WxRPHrbNqPR9MXOrAMtC) | 3:58 |
 | 35 | [Offshore](https://open.spotify.com/track/1ULtIyg1f3ju3llYxZBWKc) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Far From The Maddening Crowd](https://open.spotify.com/album/7spCTSbVqE37Ohj4DwFCrw) | 6:48 |
-| 36 | [Finally](https://open.spotify.com/track/1BeZ3neH8aQioMKccVHdS9) | [Kings Of Tomorrow](https://open.spotify.com/artist/2b8d0BREA7r3nbVhD649yX), [Julie McKnight](https://open.spotify.com/artist/2LPS6uBLdlOd860p080v4f) | [It's In the Lifestyle \(Limited Edition\)](https://open.spotify.com/album/3vAbdq0NCzDbPKlo3qejkt) | 5:15 |
-| 37 | [Domino](https://open.spotify.com/track/6VGNzYErt08Rai78mLkIzI) | [Oxia](https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK) | [Domino Remixes](https://open.spotify.com/album/70AZz9g5tbnbURmbuAbCxI) | 7:15 |
-| 38 | [Everybody's Free \(Single Version\)](https://open.spotify.com/track/1gMZCGs6bxhyPeHAEiNc3i) | [Rozalla](https://open.spotify.com/artist/2wnJCxpnKAagrdBJAvaDrQ) | [Everybody's Free](https://open.spotify.com/album/5aQvlWnZ4ccLkCSOUMIA2X) | 3:32 |
+| 36 | [Everybody's Free \(Single Version\)](https://open.spotify.com/track/1gMZCGs6bxhyPeHAEiNc3i) | [Rozalla](https://open.spotify.com/artist/2wnJCxpnKAagrdBJAvaDrQ) | [Everybody's Free](https://open.spotify.com/album/5aQvlWnZ4ccLkCSOUMIA2X) | 3:32 |
+| 37 | [Finally](https://open.spotify.com/track/1BeZ3neH8aQioMKccVHdS9) | [Kings Of Tomorrow](https://open.spotify.com/artist/2b8d0BREA7r3nbVhD649yX), [Julie McKnight](https://open.spotify.com/artist/2LPS6uBLdlOd860p080v4f) | [It's In the Lifestyle \(Limited Edition\)](https://open.spotify.com/album/3vAbdq0NCzDbPKlo3qejkt) | 5:15 |
+| 38 | [Domino](https://open.spotify.com/track/6VGNzYErt08Rai78mLkIzI) | [Oxia](https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK) | [Domino Remixes](https://open.spotify.com/album/70AZz9g5tbnbURmbuAbCxI) | 7:15 |
 | 39 | [Insomnia \- Radio Edit](https://open.spotify.com/track/3VARvuAse3BGcthh63pUeg) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [One For The Lad's](https://open.spotify.com/album/5jdiTLHBNbOqHLkYbBiPN9) | 3:36 |
 | 40 | [Go \(Radio Edit\)](https://open.spotify.com/track/6m97Mu089F0rYcvggzwS2W) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Go \(Remixes\)](https://open.spotify.com/album/56kI0i0Zght0OYNwFwJL50) | 3:38 |
 | 41 | [Pjanoo \- Club Mix](https://open.spotify.com/track/0noVd1VU93X8TEZMmpR3yN) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Pjanoo](https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x) | 7:30 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 77 | [Canoa](https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx) | [DJ Gregory](https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Canoa](https://open.spotify.com/album/4hpJ2yJGx1GM6j6qyT8fpt) | 9:06 |
 | 78 | [Natural Blues](https://open.spotify.com/track/6hmtNel4OKlBpBcTO7ao3o) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play](https://open.spotify.com/album/1xB1tmm50ZhXwrNs89u7Jx) | 4:13 |
 | 79 | [Situation \- 12" Remix](https://open.spotify.com/track/6tYhUkkjnsR0wRfHAM7cQD) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Upstairs at Eric's](https://open.spotify.com/album/35XWsJcKVHGmDKE8XUd3o3) | 5:45 |
-| 80 | [Big Love \- Eat Me Edit](https://open.spotify.com/track/2w6YlpVeyHazO6YcvpGxIS) | [Pete Heller](https://open.spotify.com/artist/5BiJE5QAwptqJobHRpBLFf) | [Big Love \(Eat Me Edit\)](https://open.spotify.com/album/1VANsPWsE1fU4Yo7X0QSxa) | 4:01 |
+| 80 | [The Sun Rising](https://open.spotify.com/track/4pCvvYLj3N4kdz0jvR33Dw) | [The Beloved](https://open.spotify.com/artist/46h3caIKtqPlEfRHuSdibg) | [Happiness](https://open.spotify.com/album/3cGR7Z78GMRPXetD6cFGjG) | 5:05 |
 
 Snapshot ID: `AAAAAG/CjY4fa9ugWmHe532br0LSehjw`

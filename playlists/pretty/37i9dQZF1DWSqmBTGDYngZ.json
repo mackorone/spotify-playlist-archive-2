@@ -1,6 +1,6 @@
 {
   "description": "Splash and sing-along.",
-  "num_followers": 7589322,
+  "num_followers": 7589368,
   "original_name": "Songs to Sing in the Shower",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Someone You Loved",
-      "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
         "name": "Songs About Jane: 10th Anniversary Edition",
         "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 206200,
       "name": "This Love",
       "url": "https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Someone You Loved",
+      "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -935,6 +935,22 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 241688,
+      "name": "Take Me To Church",
+      "url": "https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
         "name": "Good Girl Gone Bad: Reloaded",
         "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 275986,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 241688,
-      "name": "Take Me To Church",
-      "url": "https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "Call Me Maybe",
-      "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 216053,
       "name": "Summer Of '69",
       "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "Call Me Maybe",
+      "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 207853,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
         "name": "She's So Unusual",
         "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 220734,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
-        "name": "An Innocent Man",
-        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 198294,
-      "name": "Uptown Girl",
-      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
         "name": "Tragic Kingdom",
         "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 263560,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
+        "name": "An Innocent Man",
+        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 198294,
+      "name": "Uptown Girl",
+      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
-        "name": "Read My Lips (Deluxe Version)",
-        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 230013,
-      "name": "Murder On The Dancefloor",
-      "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
         "name": "Some Nights",
         "url": "https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 228093,
       "name": "Rolling in the Deep",
       "url": "https://open.spotify.com/track/4OSBTYWVwsQhGLF9NHvIbR"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
+        "name": "Read My Lips (Deluxe Version)",
+        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 230013,
+      "name": "Murder On The Dancefloor",
+      "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -1995,6 +1995,22 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
+        "name": "Astro Lounge",
+        "url": "https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P"
+      },
+      "artists": [
+        {
+          "name": "Smash Mouth",
+          "url": "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "All Star",
+      "url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
         "name": "Nine Track Mind",
         "url": "https://open.spotify.com/album/5Nwsra93UQYJ6xxcjcE10x"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 217706,
       "name": "We Don't Talk Anymore (feat. Selena Gomez)",
       "url": "https://open.spotify.com/track/06KyNuuMOX1ROXRhj787tj"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
-        "name": "Astro Lounge",
-        "url": "https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P"
-      },
-      "artists": [
-        {
-          "name": "Smash Mouth",
-          "url": "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "All Star",
-      "url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -2131,26 +2131,6 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "JA\u0178-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 236133,
-      "name": "Crazy In Love (feat. JAY-Z)",
-      "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
         "name": "It Ain't Me (with Selena Gomez)",
         "url": "https://open.spotify.com/album/0IUCAsckpNyV4wHKIHQawC"
       },
@@ -2167,6 +2147,26 @@
       "duration_ms": 220780,
       "name": "It Ain't Me (with Selena Gomez)",
       "url": "https://open.spotify.com/track/3eR23VReFzcdmS7TYCrhCe"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 236133,
+      "name": "Crazy In Love (feat. JAY-Z)",
+      "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -2315,22 +2315,18 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
-        "name": "Grease (The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
       },
       "artists": [
         {
-          "name": "John Travolta",
-          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
-        },
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
         }
       ],
-      "duration_ms": 169840,
-      "name": "You're The One That I Want - From \u201cGrease\u201d",
-      "url": "https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3"
+      "duration_ms": 256000,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -2351,18 +2347,22 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
       },
       "artists": [
         {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+          "name": "John Travolta",
+          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
+        },
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
         }
       ],
-      "duration_ms": 256000,
-      "name": "Free Fallin'",
-      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
+      "duration_ms": 169840,
+      "name": "You're The One That I Want - From \u201cGrease\u201d",
+      "url": "https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
-        "name": "The Game (2011 Remaster)",
-        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 163373,
-      "name": "Crazy Little Thing Called Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
         "name": "Katrina & The Waves",
         "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 238733,
       "name": "Walking On Sunshine",
       "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
+        "name": "The Game (2011 Remaster)",
+        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 163373,
+      "name": "Crazy Little Thing Called Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -2579,6 +2579,22 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Since U Been Gone",
+      "url": "https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
         "name": "Lungs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
@@ -2591,22 +2607,6 @@
       "duration_ms": 251840,
       "name": "Dog Days Are Over",
       "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
-        "name": "Crazysexycool",
-        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
-      },
-      "artists": [
-        {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
-        }
-      ],
-      "duration_ms": 279506,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -2647,18 +2647,18 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU"
+        "name": "Crazysexycool",
+        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
       },
       "artists": [
         {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
         }
       ],
-      "duration_ms": 188960,
-      "name": "Since U Been Gone",
-      "url": "https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb"
+      "duration_ms": 279506,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -2679,22 +2679,6 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
-        "name": "Unapologetic (Deluxe)",
-        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 225146,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/6O20JhBJPePEkBdrB5sqRx"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
         "name": "Graceland (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
       },
@@ -2707,6 +2691,22 @@
       "duration_ms": 280586,
       "name": "You Can Call Me Al",
       "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 225146,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/6O20JhBJPePEkBdrB5sqRx"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -2759,26 +2759,6 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
-        "name": "Unapologetic (Deluxe)",
-        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Mikky Ekko",
-          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
-        }
-      ],
-      "duration_ms": 240706,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0GNI8K3VATWBABQFAzBAYe"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
         "name": "Symphony (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/4b13SJlne61y53KSEwuQtD"
       },
@@ -2795,6 +2775,26 @@
       "duration_ms": 212459,
       "name": "Symphony (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Mikky Ekko",
+          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
+        }
+      ],
+      "duration_ms": 240706,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0GNI8K3VATWBABQFAzBAYe"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -2903,22 +2903,6 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
-        "name": "Teenage Dream: The Complete Confection",
-        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Last Friday Night (T.G.I.F.)",
-      "url": "https://open.spotify.com/track/455AfCsOhhLPRc68sE01D8"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
         "name": "I AM...SASHA FIERCE",
         "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
       },
@@ -2931,6 +2915,22 @@
       "duration_ms": 261640,
       "name": "Halo",
       "url": "https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Last Friday Night (T.G.I.F.)",
+      "url": "https://open.spotify.com/track/455AfCsOhhLPRc68sE01D8"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -2967,22 +2967,6 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
-        "name": "Born This Way (International Special Edition Version)",
-        "url": "https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 260252,
-      "name": "Born This Way",
-      "url": "https://open.spotify.com/track/30XU4suKzCeoCK9YFzdufg"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
         "name": "Be Alright",
         "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
       },
@@ -2995,6 +2979,22 @@
       "duration_ms": 196373,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
+        "name": "Born This Way (International Special Edition Version)",
+        "url": "https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 260252,
+      "name": "Born This Way",
+      "url": "https://open.spotify.com/track/30XU4suKzCeoCK9YFzdufg"
     },
     {
       "added_at": "2025-12-27 05:55:14",

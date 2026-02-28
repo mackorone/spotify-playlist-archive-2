@@ -429,6 +429,32 @@
     },
     {
       "album": {
+        "name": "Boulangerie",
+        "url": "https://open.spotify.com/album/59Pz1L0gL30rltM1EiQo1S"
+      },
+      "artists": [
+        {
+          "name": "Erwin Do",
+          "url": "https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S"
+        },
+        {
+          "name": "Zimbr",
+          "url": "https://open.spotify.com/artist/3cuw872KIDxTbChB71VKL3"
+        },
+        {
+          "name": "Erwo",
+          "url": "https://open.spotify.com/artist/5mVyynSAENFM48yJi70Fsq"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104736,
+      "name": "Boulangerie",
+      "url": "https://open.spotify.com/track/4W5HVY99GDQSNmTPKQBxaf"
+    },
+    {
+      "album": {
         "name": "Breach",
         "url": "https://open.spotify.com/album/3ZYZrTQpXg1wFpIWsxyQNh"
       },
@@ -568,7 +594,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 213333,
       "name": "Captain Hosa",
       "url": "https://open.spotify.com/track/2L661S4CnKOauPvNms6uaC"
@@ -845,6 +871,24 @@
     },
     {
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/3MpFQSHLMig7WlGYvYxFBw"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248397,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/1xJkH2q9mG9f9zkaiPfzEJ"
+    },
+    {
+      "album": {
         "name": "Drowned in Blue",
         "url": "https://open.spotify.com/album/716cHuoRhH3rDq34HaTBE9"
       },
@@ -984,6 +1028,24 @@
       "duration_ms": 277400,
       "name": "Faux D\u00e9part",
       "url": "https://open.spotify.com/track/6he02h6WNseMS0VidRjBFT"
+    },
+    {
+      "album": {
+        "name": "Feel The Groove",
+        "url": "https://open.spotify.com/album/7EMz0fVR8fitHF1h9cAp6a"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien Lintz",
+          "url": "https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144793,
+      "name": "Feel The Groove",
+      "url": "https://open.spotify.com/track/6Ldd26XXj9otYOR98T7YIt"
     },
     {
       "album": {
@@ -1786,7 +1848,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 520677,
       "name": "Kintsugi",
       "url": "https://open.spotify.com/track/43cbFFWsvH9ojZ0QaufdlH"
@@ -2536,7 +2598,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 173644,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/4lWnh8J3XsWTtG20xWFjfF"
@@ -2928,7 +2990,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 303471,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/6JT715eygcNEXD49ft9VVp"
@@ -3819,6 +3881,24 @@
     },
     {
       "album": {
+        "name": "Wind Flow",
+        "url": "https://open.spotify.com/album/5Hc9wklPGdneyxoeNedqFd"
+      },
+      "artists": [
+        {
+          "name": "Juando",
+          "url": "https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Wind Flow",
+      "url": "https://open.spotify.com/track/5eOMr8XPdhjbVDiJ1gYkyY"
+    },
+    {
+      "album": {
         "name": "Would appear to be jazz.",
         "url": "https://open.spotify.com/album/2tdNyBAIoCMhXwAJtAO8vH"
       },
@@ -3837,6 +3917,24 @@
     },
     {
       "album": {
+        "name": "You can count on me.",
+        "url": "https://open.spotify.com/album/2gPoDqhG5UholG4AfzFun5"
+      },
+      "artists": [
+        {
+          "name": "Bolden.",
+          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133047,
+      "name": "You can count on me.",
+      "url": "https://open.spotify.com/track/4buhsm0hBj9buN2B2mn0LK"
+    },
+    {
+      "album": {
         "name": "You'll see.",
         "url": "https://open.spotify.com/album/7r2XhelK0TCdCqOy2mx36k"
       },
@@ -3848,7 +3946,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 111071,
       "name": "You'll see.",
       "url": "https://open.spotify.com/track/0rTMuA7XXtrfAoFPemhZ8N"

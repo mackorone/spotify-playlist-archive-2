@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 
 > y el soundtrack suena así...
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,353 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,362 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 61 | [Todo Regresa](https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Todo Regresa](https://open.spotify.com/album/0KpuUua2SlRhsQkgI0QOQi) | 3:04 |
 | 62 | [Te Lo Voy a Decir](https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Te Lo Voy a Decir](https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF) | 4:06 |
 | 63 | [Café de Barcelona](https://open.spotify.com/track/2R8fCB5tCSU1XfgxzFQhQr) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Café de Barcelona](https://open.spotify.com/album/452bQ6lylLJj26jbM3Z65c) | 2:38 |
-| 64 | [mis compas tan aquí](https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [mis compas tan aquí](https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN) | 3:50 |
-| 65 | [invierno](https://open.spotify.com/track/2tjDGWIAfBhws2OzWwgtJi) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [PÁJARO AZUL](https://open.spotify.com/album/7lUllZVIhNP8mCn9h3HmxO) | 3:01 |
+| 64 | [invierno](https://open.spotify.com/track/2tjDGWIAfBhws2OzWwgtJi) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [PÁJARO AZUL](https://open.spotify.com/album/7lUllZVIhNP8mCn9h3HmxO) | 3:01 |
+| 65 | [mis compas tan aquí](https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [mis compas tan aquí](https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN) | 3:50 |
 | 66 | [Vida Nueva](https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Vida Nueva](https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp) | 2:49 |
 | 67 | [AUSENCIA](https://open.spotify.com/track/3Itdr4lEbPt7GK04M5Jr0P) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Se me pasó llamarte, mamá](https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm) | 1:50 |
 | 68 | [quise quererte](https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [quise quererte](https://open.spotify.com/album/3iWWKOwiBVw2nDZmU0mCFp) | 3:39 |

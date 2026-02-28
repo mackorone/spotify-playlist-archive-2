@@ -2480,7 +2480,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 207500,
       "name": "Control",
       "url": "https://open.spotify.com/track/3WQxc2F2C57eqs57YJgEcZ"
@@ -9481,6 +9481,24 @@
     },
     {
       "album": {
+        "name": "Libra",
+        "url": "https://open.spotify.com/album/4LdlwdEpvdicYhV7SC5qsi"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157419,
+      "name": "Quero Mais",
+      "url": "https://open.spotify.com/track/4oeSPyT7VejCz5duJ1lwnV"
+    },
+    {
+      "album": {
         "name": "Quero Mais Love (feat. Stonebwoy)",
         "url": "https://open.spotify.com/album/59c0K1jO386j2UlHJLNklt"
       },
@@ -11090,6 +11108,28 @@
       "duration_ms": 182608,
       "name": "Te Amo Tanto",
       "url": "https://open.spotify.com/track/3syibMhmDhttEP0TMH6cBd"
+    },
+    {
+      "album": {
+        "name": "Te Avisei",
+        "url": "https://open.spotify.com/album/517j90MdtPA3dGrWmSGiyi"
+      },
+      "artists": [
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        },
+        {
+          "name": "Shalom Beatz",
+          "url": "https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Te Avisei",
+      "url": "https://open.spotify.com/track/2MnGRWPN0GXLajqzxBCUqq"
     },
     {
       "album": {

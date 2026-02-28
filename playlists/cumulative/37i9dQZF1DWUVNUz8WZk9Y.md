@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUVNUz8WZk9Y.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUVNUz8WZk9Y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUVNUz8WZk9Y)
 
-### [Doraemon The Movie](https://open.spotify.com/playlist/37i9dQZF1DWUVNUz8WZk9Y)
+### [Doraemon the movie](https://open.spotify.com/playlist/37i9dQZF1DWUVNUz8WZk9Y)
 
-> Enjoy music from Doraemon The Movie! ⓒFujiko\-Pro, Shogakukan, TV\-Asahi, Shin\-ei, and ADK 2025
+> Enjoy music from Doraemon the movie! ⓒFujiko\-Pro, Shogakukan, TV\-Asahi, Shin\-ei, and ADK 2026
 
-55 songs - 3 hr 46 min
+57 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Birthday](https://open.spotify.com/track/0arzkZjLAK8lPIjYILGL17) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [SOUNDTRACKS](https://open.spotify.com/album/1EKHTn7izq40Me9Wwg87rS) | 4:37 | 2023-02-28 | 2024-04-19 |
 | [Birthday](https://open.spotify.com/track/5vpSUCiUlEqAQpFLYr16t6) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [Birthday / 君と重ねたモノローグ](https://open.spotify.com/album/4syVIhkbkLzbpu9TZanSJo) | 4:43 | 2024-02-07 |  |
 | [Doraemon](https://open.spotify.com/track/2pcuXnZhTirLXsfXGVFTv2) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Doraemon](https://open.spotify.com/album/5VGCJPjawUCJhP4PG2IKtp) | 3:59 | 2023-02-28 | 2024-04-19 |
+| [Honto](https://open.spotify.com/track/5115t00TUKcqlsTNxM7xbo) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Honto](https://open.spotify.com/album/0PjaC5UugHhxpNCt0eq27W) | 3:42 | 2026-02-27 |  |
 | [Kokoni Inai Anatahe](https://open.spotify.com/track/1plEsqK09kXS5RRja71Mrz) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Doraemon](https://open.spotify.com/album/5VGCJPjawUCJhP4PG2IKtp) | 4:56 | 2023-02-28 | 2024-04-19 |
 | [Love is you](https://open.spotify.com/track/0s223ZKMl5Dn8oeTDOl4YR) | [Eikichi Yazawa](https://open.spotify.com/artist/6r4KqrquvtAy0fcJUU2VGB) | [E.Y 90's](https://open.spotify.com/album/1bDUwphBv304Jw6bRRP4MS) | 4:25 | 2024-02-07 |  |
 | [Love is you \- Remastered 2022](https://open.spotify.com/track/5pB0jgJRHCgRfTOtX8sDJ5) | [Eikichi Yazawa](https://open.spotify.com/artist/6r4KqrquvtAy0fcJUU2VGB) | [アルバム未収録集 \(50th Anniversary Remastered\)](https://open.spotify.com/album/3zm7A7DGyIJnwz7f4uTlhi) | 4:25 | 2023-02-28 | 2024-04-19 |
@@ -53,7 +54,8 @@
 | [少年期](https://open.spotify.com/track/1ReCdmB1c7TCxTcaxYK8Z7) | [Tetsuya Takeda](https://open.spotify.com/artist/69XPjjmtVFyntrir7ZHfnk) | [ドラえもん映画主題歌集](https://open.spotify.com/album/6ClSL3281Uc1W0zBgOoViV) | 3:11 | 2023-02-28 |  |
 | [帰る場所](https://open.spotify.com/track/5NkRMqbLWkWemyjsRpxVlg) | [Thelma Aoyama](https://open.spotify.com/artist/1AU9Y5Y2Taxe4yh7AI6JRD) | [BALLAD](https://open.spotify.com/album/0J4VLq05izAr156iadxgLc) | 3:58 | 2023-02-28 |  |
 | [手をつなごう](https://open.spotify.com/track/1QoCVPSbayKifYbYIVDMV6) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [Sing to the Sky](https://open.spotify.com/album/4dnXPRhXmwucQfyA2Qhlha) | 4:49 | 2023-02-28 |  |
-| [映画ドラえもん のび太の絵世界物語 ドラえもん・あいみょんコメント](https://open.spotify.com/track/17Ur8TDXlCDmZiw2HWLvLE) | [映画ドラえもん](https://open.spotify.com/artist/30jym7YAR9EQ2VRzHW1anO) | [映画ドラえもん のび太の絵世界物語 ドラえもん・あいみょんコメント](https://open.spotify.com/album/5mAcKn3D5Gc74je5WPHPSQ) | 1:13 | 2025-03-06 |  |
+| [映画ドラえもん のび太の絵世界物語 ドラえもん・あいみょんコメント](https://open.spotify.com/track/17Ur8TDXlCDmZiw2HWLvLE) | [映画ドラえもん](https://open.spotify.com/artist/30jym7YAR9EQ2VRzHW1anO) | [映画ドラえもん のび太の絵世界物語 ドラえもん・あいみょんコメント](https://open.spotify.com/album/5mAcKn3D5Gc74je5WPHPSQ) | 1:13 | 2025-03-06 | 2026-02-28 |
+| [映画ドラえもん 新・のび太の海底鬼岩城 ドラえもん・sumika コメント](https://open.spotify.com/track/3qOG7d3hdLLHhkzujx0gmj) | [映画ドラえもん](https://open.spotify.com/artist/30jym7YAR9EQ2VRzHW1anO) | [映画ドラえもん 新・のび太の海底鬼岩城 ドラえもん・sumika コメント](https://open.spotify.com/album/3I80P3C4ZcD8Wumj6ZMH0n) | 1:26 | 2026-02-27 |  |
 | [時の旅人](https://open.spotify.com/track/2u0EiTzKREGGN1BnIpOp3Q) | [Toshiyuki Nishida](https://open.spotify.com/artist/4djumM1qrx3qrRNTQworSy) | [エッセンシャル・ベスト　西田敏行](https://open.spotify.com/album/0cFhaCH30tnnGc73zMlB8S) | 4:00 | 2023-02-28 | 2024-04-19 |
 | [時の旅人](https://open.spotify.com/track/5ttmfswQyE5tZadNGjJk2T) | [Toshiyuki Nishida](https://open.spotify.com/artist/4djumM1qrx3qrRNTQworSy) | [エッセンシャル・ベスト　西田敏行](https://open.spotify.com/album/2Ks5h8LcTOGitndh3KTbzv) | 4:00 | 2024-02-07 |  |
 | [未来のミュージアム](https://open.spotify.com/track/3IIWswUsUI4BnTWYZU2UsN) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [未来のミュージアム](https://open.spotify.com/album/7Bc42pyMISw5ntd3qDqUtj) | 3:22 | 2023-02-28 |  |

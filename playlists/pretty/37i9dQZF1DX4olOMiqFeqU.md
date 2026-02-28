@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 
 > 100% Pinoy hits from your favorite artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,487,596 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,487,661 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,15 +41,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 31 | [Nahanap Kita](https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Nahanap Kita](https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW) | 5:17 |
 | 32 | [Mahika](https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Senaryo](https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k) | 3:21 |
 | 33 | [Hirap Kalimutan](https://open.spotify.com/track/179LUxRF7wbPc2JHABiLCw) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge) | [Hirap Kalimutan](https://open.spotify.com/album/68rndZHNGvHtmTqyZwoQ5C) | 2:53 |
-| 34 | [RomCom](https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [RomCom](https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX) | 3:57 |
+| 34 | [Dilaw](https://open.spotify.com/track/2ADSh3Mp744n2586tpUtIW) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Dilaw](https://open.spotify.com/album/1gbgbQj9mCxtp3IPybhMzp) | 3:12 |
 | 35 | [Misteryoso](https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Misteryoso](https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a) | 3:41 |
-| 36 | [Dilaw](https://open.spotify.com/track/2ADSh3Mp744n2586tpUtIW) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Dilaw](https://open.spotify.com/album/1gbgbQj9mCxtp3IPybhMzp) | 3:12 |
+| 36 | [Pa\-umaga](https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Pa\-umaga](https://open.spotify.com/album/6d3mjDBVhzN8ianGFJsKKE) | 3:09 |
 | 37 | [Musika](https://open.spotify.com/track/7bAVndaTleEnfizm6h2d3i) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Musika](https://open.spotify.com/album/3A0K1ImYGMKTYDLe5EgLWv) | 4:06 |
-| 38 | [Pa\-umaga](https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Pa\-umaga](https://open.spotify.com/album/6d3mjDBVhzN8ianGFJsKKE) | 3:09 |
+| 38 | [RomCom](https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [RomCom](https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX) | 3:57 |
 | 39 | [Sa Susunod na Habang Buhay](https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Sa Susunod na Habang Buhay](https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD) | 4:48 |
 | 40 | [Magkabilang Mundo](https://open.spotify.com/track/5AjbSv7nkr78wzmuHEfjg0) | [Jireh Lim](https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q) | [Love And Soul](https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl) | 3:56 |
-| 41 | [Give Me Your Forever](https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Episode](https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW) | 4:04 |
-| 42 | [Sila](https://open.spotify.com/track/2IMODbij0lZ5CuAjZi0IDE) | [SUD](https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt) | [Sila](https://open.spotify.com/album/0qwujayb77utSpftsXjdP3) | 5:26 |
+| 41 | [Sila](https://open.spotify.com/track/2IMODbij0lZ5CuAjZi0IDE) | [SUD](https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt) | [Sila](https://open.spotify.com/album/0qwujayb77utSpftsXjdP3) | 5:26 |
+| 42 | [Give Me Your Forever](https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Episode](https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW) | 4:04 |
 | 43 | [Patlang](https://open.spotify.com/track/2OaAviEYdZQz2dCRsJQKBf) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge) | [Patlang](https://open.spotify.com/album/0vax7CV3zjlPXUTlzfwbwn) | 3:50 |
 | 44 | [Leaves](https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Leaves](https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y) | 5:10 |
 | 45 | [Balisong \- Transformed](https://open.spotify.com/track/2s9DQB5ftRcdIRpj3n3pDR) | [Rico Blanco](https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0) | [Balisong \(Transformed\)](https://open.spotify.com/album/2e0sfb67QiHlZOjWVQ6Jmt) | 2:43 |

@@ -4,7 +4,7 @@
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Dave & Tems
 
-815 songs - 1 day 16 hr 49 min
+816 songs - 1 day 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Falling Stars](https://open.spotify.com/track/2gl9jLW3w4AW8W0ZcU0z9i) | [SheedTs](https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ) | [After It's All Done](https://open.spotify.com/album/38IReHiumFzHTfVBXCEv63) | 2:34 | 2024-06-14 | 2024-06-22 |
 | [Famous](https://open.spotify.com/track/5GwRqgaU2hHhl7WPD22jUw) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Maybe It's Me...](https://open.spotify.com/album/6WDECo2zMUYFcsNffGH6Gx) | 3:46 | 2023-07-14 | 2023-09-09 |
 | [Favorite Girl](https://open.spotify.com/track/4iiZPUGngwqvUW2ImofEuN) | [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt) | [Hood Bible 2](https://open.spotify.com/album/3B21T4ldEEBgPCyXfESc0z) | 1:55 | 2023-12-15 | 2024-01-03 |
-| [Favorite Girl \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/0DxPhn3YbUAvY1P3ygkq9u) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [KIARI](https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr) | 2:41 | 2025-08-22 |  |
+| [Favorite Girl \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/0DxPhn3YbUAvY1P3ygkq9u) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [KIARI](https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr) | 2:41 | 2025-08-22 | 2026-02-28 |
 | [Favorite One](https://open.spotify.com/track/2t2fiW1SjH8V0vGut64nCE) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Favorite One](https://open.spotify.com/album/3fJ25Pfd8sdxK5HaPiZZfL) | 2:56 | 2025-01-31 | 2025-02-22 |
 | [Favorite Song](https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Favorite Song](https://open.spotify.com/album/4XiUZULpVS6gTgKKU7KTX5) | 3:28 | 2023-02-24 | 2023-06-10 |
 | [Favorite Song \(feat\. Future\) \[Toxic Version\]](https://open.spotify.com/track/6bdzSqnvBWrvq8HLmxZUCC) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Favorite Song \(feat\. Future\) \[Toxic Version\]](https://open.spotify.com/album/6PnM3rGkpZJ0Q9JoxnjnuH) | 3:28 | 2023-05-19 | 2023-10-28 |
@@ -799,6 +799,7 @@
 | [Worth A Heartbreak \(feat\. Blxst & A Boogie Wit da Hoodie\)](https://open.spotify.com/track/3upHz9svrEy675Ev9pT1Zn) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Faith Of A Mustard Seed](https://open.spotify.com/album/0WUrlWBRvpGtiPfU7RK46R) | 3:31 | 2024-07-26 | 2024-09-14 |
 | [Worth It \(feat\. DDG\)](https://open.spotify.com/track/0MqqxjoRiDt3TCMMveEldb) | [Traetwothree](https://open.spotify.com/artist/67cw6GPXHiwsDjFTvAoVfV), [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Worth It \(feat\. DDG\)](https://open.spotify.com/album/0pj6cCwELC17fMKygFIhOM) | 3:25 | 2021-10-15 | 2022-02-05 |
 | [WORTH IT \(feat\. Don Toliver\)](https://open.spotify.com/track/7kp6XhIxrvNb8BgTwLjaEx) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:08 | 2023-10-13 | 2024-06-29 |
+| [Worth My Time](https://open.spotify.com/track/1xxRHYyJBPa86QSa3LpxBW) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [Worth My Time](https://open.spotify.com/album/0qPt6rq8A5jhy6dYJfhTjx) | 3:20 | 2026-02-27 |  |
 | [Wraith](https://open.spotify.com/track/69b4LVuAneVMRXxpAFBHUB) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Still Playing The Shadows](https://open.spotify.com/album/700VLsUT8tC9EaGocYexAw) | 3:02 | 2024-01-26 | 2024-02-03 |
 | [Writing My Wrongs](https://open.spotify.com/track/1yXCWJQfYF8ff7XcUzwcCy) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Blinded By Death \(Deluxe\)](https://open.spotify.com/album/4iGNig0GVOAe6wsQXEJVfl) | 2:35 | 2022-12-23 | 2023-05-06 |
 | [Wrong 2](https://open.spotify.com/track/7hBJuz23pHi2Dt3IebMnS2) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ) | [Wrong 2](https://open.spotify.com/album/3gfjRChLpxeRZjYbL3jrM8) | 2:32 | 2025-02-07 | 2025-03-15 |

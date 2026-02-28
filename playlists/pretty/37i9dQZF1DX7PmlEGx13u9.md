@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7PmlEGx13u9.md) - [plain]
 
 > Certified R&B hits\. Cover: Leon Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,674 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,677 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7PmlEGx13u9.md) - [plain]
 | 26 | [talk you through it \(feat\. FLO\)](https://open.spotify.com/track/0XnxrosRIxY1nKFJ7wc5Ut) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 3:06 |
 | 27 | [Favourite Girl](https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O) | [Favourite Girl](https://open.spotify.com/album/1sbGuc7mOIgMFQoNFJHaRh) | 2:36 |
 | 28 | [Run Away \(feat\. Bryson Tiller\)](https://open.spotify.com/track/5JrQ1Jc3udCcAJasEpH0Ov) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 3:27 |
-| 29 | [Crystal Tears](https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Crystal Tears](https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb) | 3:59 |
-| 30 | [Kissing Strangers](https://open.spotify.com/track/5brMixqQiQN4D60xmvrSts) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:08 |
-| 31 | [Here We Go \(Uh Oh\)](https://open.spotify.com/track/6SSSGEgfuqTP75xaNOwsTo) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Here We Go \(Uh Oh\)](https://open.spotify.com/album/6GzjzeW0x2sSVA6jMCK03p) | 3:36 |
-| 32 | [Please Don't Fall In Love With Me](https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Please Don't Fall In Love With Me](https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt) | 2:57 |
+| 29 | [Kissing Strangers](https://open.spotify.com/track/5brMixqQiQN4D60xmvrSts) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:08 |
+| 30 | [Crystal Tears](https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Crystal Tears](https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb) | 3:59 |
+| 31 | [Please Don't Fall In Love With Me](https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Please Don't Fall In Love With Me](https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt) | 2:57 |
+| 32 | [Here We Go \(Uh Oh\)](https://open.spotify.com/track/6SSSGEgfuqTP75xaNOwsTo) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Here We Go \(Uh Oh\)](https://open.spotify.com/album/6GzjzeW0x2sSVA6jMCK03p) | 3:36 |
 | 33 | [Bloom](https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom](https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ) | 2:55 |
 | 34 | [Ciao!](https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:05 |
 | 35 | [Spend It](https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Spend It](https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9) | 2:45 |

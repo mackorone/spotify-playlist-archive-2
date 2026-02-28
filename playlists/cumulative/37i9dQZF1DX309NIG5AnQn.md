@@ -2,9 +2,9 @@
 
 ### [el under](https://open.spotify.com/playlist/37i9dQZF1DX309NIG5AnQn)
 
-> rock alternativo argentino\. <br/>📷 La Grecia
+> rock alternativo argentino\. <br/>📷 BB asul
 
-283 songs - 15 hr 59 min
+285 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [El Deseo](https://open.spotify.com/track/2lI9tqrNU63R4WTzgR3kZ8) | [Revistas](https://open.spotify.com/artist/7awcB0RMHO3U7R0u8AKkNp) | [El Deseo](https://open.spotify.com/album/63cy2g9SzS6wii2kdyl35W) | 2:44 | 2023-06-30 | 2024-07-27 |
 | [El Festejo](https://open.spotify.com/track/6jIwfnFqOCPlv7u8YizGpy) | [Club de Haters](https://open.spotify.com/artist/5ViQWU29kpydoCB1UPAvRC), [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [El Festejo](https://open.spotify.com/album/0KluUJ3EAbghN32vEO7l7S) | 3:17 | 2022-03-25 | 2023-03-25 |
 | [El Fin](https://open.spotify.com/track/1KQ9arIyVcyvbixRfog2NB) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Principio del Fin](https://open.spotify.com/album/0I1uNlrv0RNdmWoUOIXe0m) | 4:09 | 2023-05-12 | 2024-04-19 |
-| [El Fin](https://open.spotify.com/track/7jBGohc4ZTA8QFfz9QL9JS) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Principio del Fin](https://open.spotify.com/album/3sMBBet6Pvyq5cRK1uXQiA) | 4:09 | 2024-04-19 |  |
+| [El Fin](https://open.spotify.com/track/7jBGohc4ZTA8QFfz9QL9JS) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Principio del Fin](https://open.spotify.com/album/3sMBBet6Pvyq5cRK1uXQiA) | 4:09 | 2024-04-19 | 2026-02-28 |
 | [El francés](https://open.spotify.com/track/61dysVMtaRdzZTWe2S4q7Q) | [NOTA](https://open.spotify.com/artist/3diz4968GyTG9QV0xVv9lf) | [El francés](https://open.spotify.com/album/05tthCC0TInn6fzqT0C2QA) | 2:17 | 2025-06-20 |  |
 | [El Hit](https://open.spotify.com/track/0gt0wTEOGBNxooOdDKbKmm) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [El Hit](https://open.spotify.com/album/289DmDK5Hnq2Eh0d05HdI7) | 3:13 | 2024-06-21 |  |
 | [el jugador](https://open.spotify.com/track/3Ae0eRdU3Z2yhGXed5eQOl) | [reybruja](https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz) | [GUSTAR Y OFENDER](https://open.spotify.com/album/1ZhJsTyimzQOzBz6X2XJbd) | 2:38 | 2025-09-29 |  |
@@ -106,7 +106,7 @@
 | [El límite](https://open.spotify.com/track/7HHKiA3v9hTsq5kp0ZOZsk) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3), [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [El límite](https://open.spotify.com/album/2J6vnU22P8t9jfMQYkaSoS) | 4:08 | 2022-03-25 | 2023-03-25 |
 | [el mundo no es solo para mi](https://open.spotify.com/track/78QdT3eHCpgXOaHKgv99Ob) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [el mundo no es solo para mi](https://open.spotify.com/album/52rxJlFl1VLjLjo7EwAqdy) | 4:10 | 2025-05-16 |  |
 | [El Once Ideal](https://open.spotify.com/track/4gemRfX6vbxbxaOp1aejF4) | [La Suma de Todos los Tiempos](https://open.spotify.com/artist/53iCTwxdVd83Bdxv30rdJe) | [Los Movimientos](https://open.spotify.com/album/7KgdvgQmOCuasSXfnjolgp) | 2:50 | 2023-03-23 | 2023-04-15 |
-| [El piso es lava](https://open.spotify.com/track/7qbzTM4Vl02UfrB8Oq5K6y) | [Todo Aparenta Normal](https://open.spotify.com/artist/3wsEppaZbJOYZEtwMfNI0o), [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [El piso es lava](https://open.spotify.com/album/3V2UVfnQpccVj661MB97Bm) | 4:05 | 2023-04-14 |  |
+| [El piso es lava](https://open.spotify.com/track/7qbzTM4Vl02UfrB8Oq5K6y) | [Todo Aparenta Normal](https://open.spotify.com/artist/3wsEppaZbJOYZEtwMfNI0o), [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [El piso es lava](https://open.spotify.com/album/3V2UVfnQpccVj661MB97Bm) | 4:05 | 2023-04-14 | 2026-02-28 |
 | [El Primer Color](https://open.spotify.com/track/6qkSVGEDjdBmhQccU7CWaD) | [Fútbol](https://open.spotify.com/artist/3F4LyTOlwym0YQmYBlbAAf), [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So) | [El Primer Color](https://open.spotify.com/album/4dp1QJTGojYEDSmdtzAG1M) | 5:25 | 2023-03-23 | 2025-11-14 |
 | [El Próximo Verano](https://open.spotify.com/track/6Ff9Z5bPflRCCRFBt6jtk0) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [La Ciudad Que Dejamos](https://open.spotify.com/album/17wOANgahKkdnXVZpkw6ey) | 4:29 | 2023-03-23 | 2024-10-23 |
 | [El Viaje](https://open.spotify.com/track/4CZzNgqOqB8nvcJz1sG3AE) | [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V) | [La Gracia De No Estar Solas](https://open.spotify.com/album/788Pukbo3xwJXaSBPzYEBh) | 2:45 | 2023-03-23 | 2025-10-25 |
@@ -129,6 +129,7 @@
 | [Fax](https://open.spotify.com/track/5SODEL6YnaJqng9sIiiTjx) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [Fax](https://open.spotify.com/album/2coynF5NZJ4v9qa1XLZELQ) | 3:11 | 2024-04-26 | 2024-08-13 |
 | [febrero](https://open.spotify.com/track/48htFaGFraVtzHSv3YeB4O) | [montegrande](https://open.spotify.com/artist/662HirrjZdhmvAZseAOOZT) | [aeropuerto](https://open.spotify.com/album/3ugKv9ex4bNGJAEsBs8Igu) | 3:33 | 2023-03-31 | 2025-10-25 |
 | [GENERA\-VIT](https://open.spotify.com/track/2ogBuIpn7gakuffUdj31hd) | [Melanie Williams](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [TReSMO](https://open.spotify.com/album/2EoKazFQaT7LSvR55Nsr2s) | 1:51 | 2023-05-05 | 2025-10-25 |
+| [Gracias a Vos](https://open.spotify.com/track/76VjyP6ZghLdYKSg1HINbN) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Gracias a Vos](https://open.spotify.com/album/3xz4R5OjrGatQdKv3lBrbw) | 3:15 | 2026-02-27 |  |
 | [Gualicho](https://open.spotify.com/track/4T19ysiQ1owalfXXXcWZK5) | [Gativideo](https://open.spotify.com/artist/4syvKWgnIigkaQdgF4NNZM) | [Gualicho](https://open.spotify.com/album/2NeIHG0JddnTE6hAd5XzGM) | 3:32 | 2022-03-25 | 2023-03-25 |
 | [Guerrero Atípico](https://open.spotify.com/track/5JcF5s0zg7kpeEXg7Iwrgq) | [Camionero](https://open.spotify.com/artist/6mwXlhRao6ThMMjARoOTIc) | [Todo lo Sólido se Desvanece en el Aire](https://open.spotify.com/album/20ER5NM3DjvoJJGglffgwl) | 4:11 | 2025-11-14 |  |
 | [Hasta Siempre Amigo](https://open.spotify.com/track/2OhfXrj1TUxx6APfMwqHdN) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Hasta siempre amigo](https://open.spotify.com/album/4cKAM2P37tkDQFkx7J1mNz) | 3:25 | 2023-05-19 | 2025-10-25 |
@@ -137,7 +138,7 @@
 | [Hienas](https://open.spotify.com/track/3Fcaiko1BbbviiIrCsSt9c) | [mamá glitch](https://open.spotify.com/artist/2wxT6SRtxESURlsXrfEeFn) | [Hienas](https://open.spotify.com/album/4RsFfIRqpNykovYJe5yKxF) | 4:26 | 2024-05-09 |  |
 | [Hilary D.](https://open.spotify.com/track/6NUfAIEW5Hj3qo8Cj5pEaP) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Hilary D.](https://open.spotify.com/album/38Re6Gvisocy40gAON78H3) | 4:02 | 2022-03-25 | 2023-03-25 |
 | [Hoy cuando salga de casa...](https://open.spotify.com/track/7lTDcFIFlhGUE03TizKExU) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Hoy cuando salga de casa...](https://open.spotify.com/album/5BzczAoMriF2t6uhSZO3J8) | 4:42 | 2025-07-25 |  |
-| [Hoy Quiero Hacer Lo Que Me Gusta](https://open.spotify.com/track/2pALJdjVALSlW5WXbxva8k) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [Hoy Quiero Hacer Lo Que Me Gusta](https://open.spotify.com/album/22pygsnb57HgmLe0nEhIlB) | 2:09 | 2023-06-02 |  |
+| [Hoy Quiero Hacer Lo Que Me Gusta](https://open.spotify.com/track/2pALJdjVALSlW5WXbxva8k) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [Hoy Quiero Hacer Lo Que Me Gusta](https://open.spotify.com/album/22pygsnb57HgmLe0nEhIlB) | 2:09 | 2023-06-02 | 2026-02-28 |
 | [Humberta T.](https://open.spotify.com/track/1uMjAFV2XLumcZ9usvp7NS) | [Las Tussi](https://open.spotify.com/artist/5Zc1hvy8HoaA0vymJgcx6Q) | [Humberta T.](https://open.spotify.com/album/7yng9iBynNm3GTZBctTPpt) | 2:28 | 2025-08-08 |  |
 | [Hábitat](https://open.spotify.com/track/27XZVuWnI6J6xA3QNO2eAp) | [Nadar de Noche](https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Hábitat](https://open.spotify.com/album/4vAkxysCMVfWxB60VQCLFO) | 3:49 | 2022-03-25 | 2023-03-25 |
 | [IDEAS MALAS +](https://open.spotify.com/track/6bpePYpOPcMLSrQwAMdXWq) | [ill quentin](https://open.spotify.com/artist/26TC05Yq727xEWV77nRinH) | [IDEAS MALAS +](https://open.spotify.com/album/7A1BOdLD6yyGnaJCu3uaBM) | 3:45 | 2025-02-28 |  |
@@ -241,7 +242,7 @@
 | [Sal chivo](https://open.spotify.com/track/4pBjPkFU6AVk4WBdljdMm7) | [Blanco Teta](https://open.spotify.com/artist/2jHbb2xaFQ1CjUnE8RJeWT) | [Sal chivo](https://open.spotify.com/album/6n85JjMfghPhCttGoo9U6p) | 3:21 | 2024-06-06 | 2025-11-21 |
 | [Salir del Confort](https://open.spotify.com/track/4ObAtoz13OZ8uN2g5ADVyX) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Salir del Confort](https://open.spotify.com/album/2uk2MSf9s40VYEMD3C3CM5) | 3:16 | 2023-08-25 |  |
 | [SALTEMOS MOLINETES](https://open.spotify.com/track/5zwfDBnoWSMDUeIaefJvQH) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [SALTEMOS MOLINETES](https://open.spotify.com/album/3BlTPafpEOmDaCLdQAoyat) | 2:46 | 2024-03-08 | 2024-07-06 |
-| [San Juan](https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [San Juan](https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl) | 3:45 | 2023-05-12 |  |
+| [San Juan](https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [San Juan](https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl) | 3:45 | 2023-05-12 | 2026-02-28 |
 | [Santa Fe \(feat\. Marilina Bertoldi\)](https://open.spotify.com/track/2Lpu0GIzpbiLj4W8ccW3i5) | [Zero Kill](https://open.spotify.com/artist/79Ni1ePx75PABzezrpjmwV), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Lapsus](https://open.spotify.com/album/5mVzHcH0B9KYunmuSgLrq3) | 5:16 | 2022-03-25 | 2023-03-25 |
 | [Será](https://open.spotify.com/track/6jpXkK8IWxoqMIegRTNTCY) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [Será](https://open.spotify.com/album/0OE8zZZAUTiYpEnGZkAwkV) | 3:06 | 2024-03-15 |  |
 | [Sierra de los Padres](https://open.spotify.com/track/3AYvtJVj9RCAYsmFnzANKr) | [montegrande](https://open.spotify.com/artist/662HirrjZdhmvAZseAOOZT) | [Split](https://open.spotify.com/album/6U9FRsubNk9731WzZM2gLc) | 3:36 | 2023-06-30 |  |
@@ -254,6 +255,7 @@
 | [SSS](https://open.spotify.com/track/65oZKir6ny5i3WSfvb0sYu) | [Adolescentes Sin Edad](https://open.spotify.com/artist/6HBntxIY4gRjp8syM0IEYV) | [SSS](https://open.spotify.com/album/37jCf1bbH4ObPuODgrgrSI) | 2:55 | 2022-03-25 | 2023-03-25 |
 | [Su Forma de Mirar](https://open.spotify.com/track/3OfvmpqvdGV9fKIdsMlsJT) | [Tomates En Verano](https://open.spotify.com/artist/0L3FfPKmBS9yLVNVzulbUt) | [Su Forma de Mirar](https://open.spotify.com/album/2RLaIhFb4i1sEkcsFPEJJb) | 4:50 | 2023-09-01 | 2025-03-08 |
 | [Such A Witch](https://open.spotify.com/track/33BD4qBJIAxOIeneCcvo2O) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [Such A Witch](https://open.spotify.com/album/74yDqvcfl1uFBbVolTReFr) | 4:02 | 2024-08-12 |  |
+| [tabaco para armar](https://open.spotify.com/track/6IXWL69KVkpqyHhQxEi857) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [tabaco para armar](https://open.spotify.com/album/4wdpdfpjxUugDWTePO1BOn) | 2:47 | 2026-02-27 |  |
 | [Temporal \(Bby date cuenta\)](https://open.spotify.com/track/2xWqMw3XIEnMni7GJDxqQc) | [Tobias Indigo](https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc) | [Temporal \(Bby date cuenta\)](https://open.spotify.com/album/0hxSPPhAH1qeVpf2nLX7R5) | 2:52 | 2025-03-07 |  |
 | [Terremoto](https://open.spotify.com/track/50fHlG70LL8olJ2e2kbFLW) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [DUM](https://open.spotify.com/album/2VHHU1Sr4sweqmFJXhk2dS) | 2:43 | 2023-03-23 | 2024-08-13 |
 | [TKM](https://open.spotify.com/track/3IojTR6Zm6U9hnToRnW55L) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [TKM](https://open.spotify.com/album/2Qi4p3mBPmfTSyx6bCAEEX) | 2:34 | 2023-03-23 | 2025-05-17 |

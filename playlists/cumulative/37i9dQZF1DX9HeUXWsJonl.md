@@ -4,7 +4,7 @@
 
 > A.L.A en tête de la playlist numéro un en Tunisie.
 
-271 songs - 16 hr 13 min
+273 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [3allamni Ellil](https://open.spotify.com/track/1RBZj4TSUCsaIdapBU8wOv) | [Cheb Bachir](https://open.spotify.com/artist/52tue7QYDGQeyJM4e5U6KZ), [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui) | [3allamni Ellil](https://open.spotify.com/album/2p0a7Xcqk98IW1QgHqSiuy) | 3:26 | 2021-12-10 | 2022-11-08 |
 | [3arbouch](https://open.spotify.com/track/01CJo2bZ28t0rtcWxmfGfw) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [3arbouch](https://open.spotify.com/album/1xlz69ZMzryJjXvdJnpy0H) | 3:04 | 2021-12-10 | 2022-07-12 |
 | [3ayech Lili \- عايش ليلي](https://open.spotify.com/track/2bWjhCbfeguEp2hSXvYB5l) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [3ayech Lili \(عايش ليلي\)](https://open.spotify.com/album/7K50LbLo6SdxQx0uuw9khz) | 3:22 | 2023-01-08 | 2023-02-02 |
+| [6](https://open.spotify.com/track/5M88pOSbcI0MiP1LQIQRsw) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [John Six](https://open.spotify.com/artist/3GmOYEzhVHdhjo5aPfqdKv) | [15](https://open.spotify.com/album/7AuGYNOdAHok79QnGy56CX) | 2:29 | 2026-02-27 |  |
 | [6G](https://open.spotify.com/track/5cDw3Icnxb1hB5XGBRzKer) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [6G](https://open.spotify.com/album/6myOlMXXWjwlOrz7xugqnj) | 2:56 | 2023-06-27 | 2024-01-30 |
 | [7 Snin](https://open.spotify.com/track/5hSs2Tq3dkarWaRtt46QM7) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [7 Snin](https://open.spotify.com/album/5q6JhGTERJe7fWAQOJwz1W) | 4:47 | 2022-10-21 | 2022-11-23 |
 | [7amra ka7la](https://open.spotify.com/track/7LlTfu1SyKqU1I4Zwscvo1) | [Ta9chira](https://open.spotify.com/artist/3i9OYfUCXrnExALGVDFVbV), [4lfa](https://open.spotify.com/artist/0aJZiLm1NBWMcCKp6mkHMY), [Brotherhood Family](https://open.spotify.com/artist/10cwob7dZC2NvAJtTc6GwD), [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa) | [RISE OF A GANG](https://open.spotify.com/album/1IE9cNCHBKtGIwk8gfqFW6) | 3:13 | 2022-11-26 | 2022-11-30 |
@@ -87,7 +88,7 @@
 | [Galbi](https://open.spotify.com/track/7Bri5HtRLTiCq17j3ogbH8) | [Kafon](https://open.spotify.com/artist/1g7CL458gLNv8UY3W2IFBw) | [Galbi](https://open.spotify.com/album/5y7m6UDox56LbgePd50uXX) | 4:20 | 2022-07-11 | 2023-12-05 |
 | [Galbi](https://open.spotify.com/track/0pD4zoFSCXvBkqka5j4qew) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Galbi](https://open.spotify.com/album/3LLJ8bmI6YrK73g6RhHEPK) | 5:22 | 2022-11-09 | 2023-12-15 |
 | [Ganeni](https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 2:57 | 2024-07-21 | 2025-10-08 |
-| [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-07-18 |  |
+| [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-07-18 | 2026-02-28 |
 | [Ghaba](https://open.spotify.com/track/5fJzqNudt8ZdoFGi1LsQbT) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Ghaba](https://open.spotify.com/album/3cjuodS53dH13S46iQavuk) | 3:05 | 2024-04-25 | 2025-09-18 |
 | [Ghareeb Alay](https://open.spotify.com/track/7gJqw9Ogef35nMOzHY8E3v) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ghareeb Alay](https://open.spotify.com/album/5c7qiyYcpJO6niBfAyjZYl) | 2:55 | 2022-01-20 | 2022-10-22 |
 | [Ghariba \- غريبة](https://open.spotify.com/track/2YZVac5l4SD169JDjkxssD) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ghariba \(غريبة\)](https://open.spotify.com/album/58g0RtDsBvyaPYFm8rNjP9) | 4:05 | 2023-06-10 | 2024-05-08 |
@@ -157,7 +158,7 @@
 | [Mdayda](https://open.spotify.com/track/1ijxKmMQEF3gMcCW5irUUe) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Mdayda](https://open.spotify.com/album/03Ii9iQ6ScfiiliYXhjfaD) | 3:49 | 2021-12-10 | 2022-05-14 |
 | [Meen Ysadak](https://open.spotify.com/track/2So4UdTcMQe2ap2VpC43eD) | [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo), [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh) | [Meen Ysadak](https://open.spotify.com/album/0vqR5QySiLJwGNHMnpQ4Hj) | 3:06 | 2025-10-07 | 2025-11-22 |
 | [Melli sar](https://open.spotify.com/track/2TTAGfy6UxbU7ZKeMcIv5S) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Melli sar](https://open.spotify.com/album/5KOkPO2cWQzNk6mvrPOazN) | 4:08 | 2024-05-16 | 2024-06-03 |
-| [MEN BARRA](https://open.spotify.com/track/34ETRdUC9Zti5CW3fHW5eI) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Mode Avion](https://open.spotify.com/album/2Zcbkc45OI5UrS6d8W7N31) | 2:46 | 2025-03-12 |  |
+| [MEN BARRA](https://open.spotify.com/track/34ETRdUC9Zti5CW3fHW5eI) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Mode Avion](https://open.spotify.com/album/2Zcbkc45OI5UrS6d8W7N31) | 2:46 | 2025-03-12 | 2026-02-28 |
 | [MEN BARRA](https://open.spotify.com/track/0ASWZqGgyRKaj3qZ9zXQsE) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Mode Avion](https://open.spotify.com/album/3nDtdoIpba8oRpLf0CxTDu) | 2:46 | 2025-10-07 |  |
 | [Menghir Sbab](https://open.spotify.com/track/4iyabYY2AX4n7GmulnWPA6) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Menghir Sbab](https://open.spotify.com/album/5vS6p0a3VxniZIg3g98uIj) | 3:56 | 2023-03-22 | 2023-08-06 |
 | [Merteh \- مرتاح](https://open.spotify.com/track/1cdgSRY4IhYtx7w9QSZaHe) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Merteh \(مرتاح\)](https://open.spotify.com/album/38rvM6WsLXixyKndh2rDEX) | 4:05 | 2023-11-21 | 2024-02-15 |
@@ -265,6 +266,7 @@
 | [Zin Ezzin](https://open.spotify.com/track/0d1dGOyQ6IRdMB27pNFSFl) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Zin Ezzin](https://open.spotify.com/album/4qphrOAqIotjpK2oghKmxt) | 3:08 | 2024-07-09 |  |
 | [Zydi](https://open.spotify.com/track/1r2iFBeekSLVyHetVvfTpy) | [Dhaf](https://open.spotify.com/artist/5nl9XGwpeR6xL7UCNuUgk4), [Rayen Youssef](https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk), [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI) | [Zydi](https://open.spotify.com/album/2gijwfmnPlKT61VSEUOFxY) | 4:59 | 2022-06-18 | 2023-11-03 |
 | [Ça parle mal](https://open.spotify.com/track/7ifFhxRIvYbe4IuzIkY2Qi) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Depuis le temps \(Part\. 2\)](https://open.spotify.com/album/5liaAwKXqnLAhpBconEDR6) | 2:56 | 2024-10-26 |  |
+| [اكسيدون](https://open.spotify.com/track/5BD1SaWWhLChuv9zZi8iLT) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Accident](https://open.spotify.com/album/7EoYEx2E4lmBuJLnnN9HQH) | 2:25 | 2026-02-27 |  |
 | [خطية \| Khtaya](https://open.spotify.com/track/3zhq4NoxePEjzojkAnVbOy) | [Bessan Ismail](https://open.spotify.com/artist/3D19Q7vcrQ8iCeSNcrQpAB), [Fouad Jned](https://open.spotify.com/artist/6HbYj8CX1iPNrY6ox5haJN) | [خطية \| Khtaya](https://open.spotify.com/album/7yCSM2zx7WzqNghq7vB9QV) | 2:53 | 2025-06-20 |  |
 | [سدو عليا الباب](https://open.spotify.com/track/1ySaBFF1Tyv5K25IzgBh3K) | [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Mohamed Al Saqri](https://open.spotify.com/artist/3N4YESjs80Q7QyZqI1sTvT) | [سدو عليا الباب](https://open.spotify.com/album/5kvYzjQ1CFUppMgRisQ1bm) | 3:23 | 2023-03-20 | 2024-07-17 |
 | [ضايعة](https://open.spotify.com/track/1RYLhaBQa7eFU8VhFMW1j9) | [Raouf Maher](https://open.spotify.com/artist/2cSmvBKoZhM31paDXqjno2), [Manel Ahmed](https://open.spotify.com/artist/4XEibZiJ0jb20Yfv6ZMKXf) | [ضايعة](https://open.spotify.com/album/4RjnkICN3vGRa6g1j27IId) | 4:33 | 2022-12-22 | 2023-01-07 |

@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-338 songs - 16 hr 7 min
+340 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Amyntas](https://open.spotify.com/track/2LoApskCgehKJwVbl81Ktd) | [Blissful Calm](https://open.spotify.com/artist/6XnhClcw52DIgH82JbusZ7) | [Amyntas](https://open.spotify.com/album/7eAbD4kq6mCmddMAK5mPft) | 2:20 | 2023-04-28 | 2025-05-21 |
 | [Andrum](https://open.spotify.com/track/6W2zZRhkMxKkXONKO04yGK) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os) | [Andrum](https://open.spotify.com/album/1XRkQoTVjfWqw2nuO5rQWk) | 3:31 | 2024-07-19 | 2024-11-05 |
 | [Annapurna](https://open.spotify.com/track/7xdg3SKAh3agUe9Sxrk20D) | [Soeren Zen](https://open.spotify.com/artist/1MIIbhncpecNMMqwSQCyX8) | [Annapurna](https://open.spotify.com/album/7GCO1XgiqlWtdeSIHwaaFY) | 2:34 | 2023-04-28 |  |
-| [apnoea](https://open.spotify.com/track/2XZOoiOxcItf02RhMQK02f) | [A.Z\. Louna](https://open.spotify.com/artist/09wCM3Hlsk5DNw8Nnkihmk) | [apnoea](https://open.spotify.com/album/3RPPWPbuxp6pR9CgULpGyu) | 2:04 | 2024-05-01 |  |
+| [apnoea](https://open.spotify.com/track/2XZOoiOxcItf02RhMQK02f) | [A.Z\. Louna](https://open.spotify.com/artist/09wCM3Hlsk5DNw8Nnkihmk) | [apnoea](https://open.spotify.com/album/3RPPWPbuxp6pR9CgULpGyu) | 2:04 | 2024-05-01 | 2026-02-28 |
 | [Asha](https://open.spotify.com/track/6xLtuBNPyD7fBS1XzlSKE2) | [Beatriz Andersson](https://open.spotify.com/artist/2DAZifHcKzL4h3nk6nuBKF) | [Asha](https://open.spotify.com/album/3oOt8cLuvB7sdnb75HaI5k) | 3:30 | 2023-04-28 | 2024-08-24 |
 | [Assuaging](https://open.spotify.com/track/3SZDTQZNPO4Si4I61uR6bf) | [Monduen](https://open.spotify.com/artist/7ufKbXQTJ2WVnEbsbTo5iJ) | [Assuaging](https://open.spotify.com/album/5v1CdiroByl73eejx7hZlM) | 2:32 | 2026-01-28 |  |
 | [Asterism \(Sound Bath\)](https://open.spotify.com/track/6JMS5jCsa1JZPovmshkeM4) | [Tristan Motuo](https://open.spotify.com/artist/3dmTIkKXnIpN7hUc46cyFi) | [Asterism \(Sound Bath\)](https://open.spotify.com/album/3bsC8W4XLLriOdb16UWEb9) | 2:26 | 2023-07-13 |  |
@@ -221,7 +221,7 @@
 | [Orange forest](https://open.spotify.com/track/1mzIEmytObAhAdQh4kkqsQ) | [Caleb Carter](https://open.spotify.com/artist/7MSWYPvWEDTCTnhA8CU6MN) | [Orange forest](https://open.spotify.com/album/3j8yo62JDzTlPjBplERqjF) | 2:38 | 2024-08-23 | 2025-09-11 |
 | [Organesque](https://open.spotify.com/track/4W6xwzBgkkUiTHsFjXNipf) | [Mellow Bars](https://open.spotify.com/artist/6UzItV50i3CM9CxH6fwlwe) | [Organesque](https://open.spotify.com/album/3iBYE3TVsCrIKB69RfIZ7o) | 2:39 | 2023-04-28 | 2024-06-25 |
 | [Outward Flow](https://open.spotify.com/track/6CHszkJRDjseZZjlB2dGF5) | [Aimspherer](https://open.spotify.com/artist/0hSVd3Ut0dF3BO5fRiIMtq) | [Outward Flow](https://open.spotify.com/album/6l4VfxWo7vlBRIVR7xIXNh) | 2:34 | 2025-03-19 |  |
-| [Overflow](https://open.spotify.com/track/6uAzGHQ0CTL0ZmUcACijLc) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Overflow](https://open.spotify.com/album/5G6pitaST2lwtrcmYxXrst) | 2:36 | 2024-05-01 |  |
+| [Overflow](https://open.spotify.com/track/6uAzGHQ0CTL0ZmUcACijLc) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Overflow](https://open.spotify.com/album/5G6pitaST2lwtrcmYxXrst) | 2:36 | 2024-05-01 | 2026-02-28 |
 | [Painted River](https://open.spotify.com/track/2lNgLRFY27jNay8yK2IMCa) | [Armonía Astral](https://open.spotify.com/artist/4SFy2zTDkBKrQ8vzuINBVf) | [Painted River](https://open.spotify.com/album/2crvRMhXARBm1jEc7zKLAB) | 2:25 | 2025-12-17 |  |
 | [Peace of Rain](https://open.spotify.com/track/6HXjoSKqIGjTGPMXj2oj6I) | [Pouring Voices](https://open.spotify.com/artist/30L9uyNQWZupRq65bHZfSF) | [Peace of Rain](https://open.spotify.com/album/2UzKVDUabqDDcOVRptDfpe) | 2:31 | 2025-05-06 |  |
 | [Peaceful Calmness](https://open.spotify.com/track/6RutZE4FLbhhYQEMcgDhwI) | [Matusi](https://open.spotify.com/artist/12flZad77ham3NKTUXIIXL) | [Peaceful Calmness](https://open.spotify.com/album/6rfgkrOyjd4LoSfSgchwrm) | 3:09 | 2023-04-28 | 2025-05-22 |
@@ -300,6 +300,7 @@
 | [The Brook](https://open.spotify.com/track/4DxtQrlRQrlS4WVaFYtL4n) | [Nolene Britton](https://open.spotify.com/artist/4Ii7tJkcwod6FcfQKbelmT) | [The Brook](https://open.spotify.com/album/2mKQeiAHIjQU3MeiauWQeM) | 2:58 | 2023-04-28 | 2026-02-24 |
 | [The Danish Waterfall](https://open.spotify.com/track/3Himlq10H1TMaLquCj26HS) | [Soeren Zen](https://open.spotify.com/artist/1MIIbhncpecNMMqwSQCyX8) | [The Danish Waterfall](https://open.spotify.com/album/5gtlJrqr9VuRQbPPRpcDXu) | 3:00 | 2023-04-28 | 2024-08-24 |
 | [The Enchanted Forest](https://open.spotify.com/track/20AEQnFt9dyIwCa8Cpqhkv) | [Light Channel](https://open.spotify.com/artist/1QsSs3Pr4rV3E5ypP9Arda) | [The Enchanted Forest](https://open.spotify.com/album/4TSyvNaMQSh2DDn1kaSMcU) | 3:12 | 2023-04-28 |  |
+| [The Forest Is My Friend](https://open.spotify.com/track/6VUYQlqEN5VCi2eI2hdf5r) | [Rosonance](https://open.spotify.com/artist/4SYjHr4H1LksGbBg0sXkb3), [Verdelume](https://open.spotify.com/artist/0It2fK2YoJFGMcYV01vHG8) | [The Forest Is My Friend](https://open.spotify.com/album/7hr89r9X0e1OrHmrscxxgl) | 2:21 | 2026-02-23 |  |
 | [The Nature of Night](https://open.spotify.com/track/3aBPxsGyqG7GesgQwSmCPP) | [Oliver Hoffman](https://open.spotify.com/artist/317F1iW6iH9zh8WaLoI1d7) | [The Nature of Night](https://open.spotify.com/album/7hg2a7EBaV6LABrr4ZfXTM) | 3:13 | 2023-04-28 | 2025-03-06 |
 | [The Stream And It's Rippling Beauty](https://open.spotify.com/track/4Em82D0AnHc37y5m714r94) | [State Of Tranquility](https://open.spotify.com/artist/3MF7nYOg59ZVk4hYtJuIwU) | [The Stream And Its Rippling Beauty](https://open.spotify.com/album/71QnkxSIsoSUJhhN06hB6U) | 2:46 | 2025-10-24 |  |
 | [The Tone Of Willingness Nature](https://open.spotify.com/track/2GgRVa0s3OhSZ49dOlfM21) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [The Tone Of Willingness](https://open.spotify.com/album/5TMPEcTcOqawK7lYsLsSh3) | 2:44 | 2023-04-28 | 2025-12-25 |
@@ -314,6 +315,7 @@
 | [Tree Spirits](https://open.spotify.com/track/4r1O9hHMjiStkmn9iXnYDE) | [Waves Of Aware](https://open.spotify.com/artist/2q4nJLQKqcI65BMW9CuORq) | [Tree Spirits](https://open.spotify.com/album/0iceXQlw0yp36EITpApP5z) | 2:24 | 2024-07-19 |  |
 | [Tremulous Rest](https://open.spotify.com/track/0OD5s7BZbIiHiA2wwjuuCI) | [Ethel Rohling](https://open.spotify.com/artist/4ZAnqmX1z5YWccy2P8YEya) | [Tremulous Rest](https://open.spotify.com/album/1dxcdpHa4Mv0sabHi33BvV) | 2:09 | 2023-04-28 | 2024-06-26 |
 | [Tributary Balance](https://open.spotify.com/track/6iCoaYHHA82MZZnxi6nt9h) | [Ezmae Forrest](https://open.spotify.com/artist/6ruCfksOefHsnWf3TjGJYn) | [Tributary Balance](https://open.spotify.com/album/0jeMzKkXb7a3vVLn2EbBkX) | 3:07 | 2023-04-28 | 2024-11-05 |
+| [Trollved](https://open.spotify.com/track/667Qh06jCeKJzC8do3rCGy) | [Dunsø](https://open.spotify.com/artist/0qTYCCllmwOsFme4OxrbkZ) | [Trollved](https://open.spotify.com/album/3SXfek1PF7j0qEQ8UgrgUz) | 2:19 | 2026-02-23 |  |
 | [Tropical](https://open.spotify.com/track/2WHoSY52ap7BiTkzHJcyul) | [Constant Future](https://open.spotify.com/artist/0MhUXfJGaHfNudsEeha6iA) | [Tropical](https://open.spotify.com/album/00zeWoN3NtDdFWD7usJ92M) | 2:51 | 2025-02-10 |  |
 | [Under the Maple Tree](https://open.spotify.com/track/5nlU4XAwnmZzqDuq3TucEY) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Under the Maple Tree](https://open.spotify.com/album/3ew2zUnWSZDZH0DEYo5sRO) | 3:40 | 2023-12-01 | 2025-06-26 |
 | [Undiscovered](https://open.spotify.com/track/1GzLMPydK2QU21dcTsYOsZ) | [Elements Of Matter](https://open.spotify.com/artist/2msV34nEca2EAuKzEUp2Ef) | [Undiscovered](https://open.spotify.com/album/7dXoaFvmWQH9M5lSSoKBn9) | 2:58 | 2025-03-19 |  |

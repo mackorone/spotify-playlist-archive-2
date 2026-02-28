@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 
 > soft and sweet
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,392 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,385 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 18 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
 | 19 | [YUKON](https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:43 |
 | 20 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 |
-| 21 | [bittersweet](https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [bittersweet](https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR) | 3:22 |
-| 22 | [DIE TRYING](https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:15 |
+| 21 | [DIE TRYING](https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:15 |
+| 22 | [bittersweet](https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [bittersweet](https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR) | 3:22 |
 | 23 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 |
 | 24 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |
 | 25 | [Elizabeth Taylor](https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:28 |
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 40 | [Glide](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Glide](https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx) | 3:04 |
 | 41 | [Thinking 'bout You](https://open.spotify.com/track/6pxf2SRlRfBwnQKcUZCm2s) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Thinking 'bout You](https://open.spotify.com/album/6k4bQKHw4hU7spl0fobR63) | 2:20 |
 | 42 | [Eternity](https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Eternity](https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S) | 3:23 |
-| 43 | [Everything is romantic featuring caroline polachek](https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:23 |
-| 44 | [Nobody New](https://open.spotify.com/track/4pwJ6OujVQL3IpCr8KeXIg) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:35 |
+| 43 | [Nobody New](https://open.spotify.com/track/4pwJ6OujVQL3IpCr8KeXIg) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:35 |
+| 44 | [Everything is romantic featuring caroline polachek](https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:23 |
 | 45 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
 | 46 | [canal street](https://open.spotify.com/track/0KtV18BLmyIOYHCSISmVl9) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 5:02 |
-| 47 | [Gorgeous](https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 4:26 |
-| 48 | [All I Ever Asked](https://open.spotify.com/track/1awQLv1J6LkeEQ5co4OOoQ) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:37 |
+| 47 | [All I Ever Asked](https://open.spotify.com/track/1awQLv1J6LkeEQ5co4OOoQ) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:37 |
+| 48 | [Gorgeous](https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 4:26 |
 | 49 | [DAISIES](https://open.spotify.com/track/7rcbwjIaZ5jEgyFk35Bqfj) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/6ZXIXOT3F3ixjH66eqJl0S) | 2:56 |
 | 50 | [Shapeshifter](https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 4:17 |
 | 51 | [Day To Night](https://open.spotify.com/track/7rkkFimrRc14aJLN6HMNqp) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Give Me All Your Love](https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN) | 4:24 |

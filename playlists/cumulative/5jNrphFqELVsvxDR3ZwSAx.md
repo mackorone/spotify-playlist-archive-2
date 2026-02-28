@@ -4,7 +4,7 @@
 
 > Listen here for the ultimate list of original and synced songs from TV and Film\. TV Soundtrack \- Movie Soundtrack \- Hollywood Hits \- Film Score \- Movie \- TV \- Film \- Netflix \- Amazon Prime \- Disney + \- Hulu \- Max
 
-391 songs - 1 day 1 hr 16 min
+392 songs - 1 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [For Good](https://open.spotify.com/track/5shGj5OOnpmg4tQlFjyzZY) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: For Good – The Soundtrack](https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk) | 6:17 | 2025-11-22 |  |
 | [Forever In Blue Jeans](https://open.spotify.com/track/1K1nzhbKCNmrNXi9B07mPF) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [You Don't Bring Me Flowers](https://open.spotify.com/album/4ufmoUiQbFCyWUM5OVtdsm) | 3:37 | 2026-01-15 |  |
 | [Fortunate Son](https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Willy And The Poor Boys \(Expanded Edition\)](https://open.spotify.com/album/31q47gQszFt0CddSyMksgO) | 2:20 | 2022-05-18 | 2024-05-02 |
-| [Free Bird](https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced' Leh\-'Nerd 'Skin\-'Nerd](https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs) | 9:07 | 2022-05-18 | 2024-05-02 |
+| [Free Bird](https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced' Leh\-'Nerd 'Skin\-'Nerd](https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs) | 9:07 | 2022-05-18 |  |
 | [Free Fallin'](https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:16 | 2022-05-18 | 2024-05-02 |
 | [Future Days](https://open.spotify.com/track/22sDLvlzAJzH0BHiMSOfRP) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lightning Bolt](https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M) | 4:22 | 2025-05-12 |  |
 | [Get Back \- Rooftop Performance / Take 2](https://open.spotify.com/track/4z3RNAUb0whdaLAudM9EHE) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Get Back \(Rooftop Performance\)](https://open.spotify.com/album/6emgUTDksZyhhWmtjM9FCs) | 3:24 | 2022-05-18 | 2024-05-02 |
@@ -177,6 +177,7 @@
 | [L\-O\-V\-E](https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [L\-O\-V\-E](https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL) | 2:35 | 2025-02-21 |  |
 | [Lady Marmalade \- From "Moulin Rouge" Soundtrack](https://open.spotify.com/track/7GbqE3MlkKosIaCvf50JRK) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Moulin Rouge](https://open.spotify.com/album/5cbAqQZSEgRiiNjuEHWTXc) | 4:24 | 2024-05-01 |  |
 | [Laid](https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Laid](https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe) | 2:36 | 2025-04-18 |  |
+| [Last Dance](https://open.spotify.com/track/5fKTkCOpnyJko7jZqpbJnX) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [On The Radio: Greatest Hits Volumes I & II](https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA) | 4:56 | 2026-02-28 |  |
 | [Leave Me Alone](https://open.spotify.com/track/1T38okUZknebljidMNSvfJ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Leave Me Alone](https://open.spotify.com/album/3BKy2tD6GZCsfYkmgWkdbq) | 2:21 | 2025-07-18 |  |
 | [LET HER COOK](https://open.spotify.com/track/1nF1SpkNfgPPozcXh2hvGU) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:35 | 2025-06-07 |  |
 | [Let It Roll \- From "The Garfield Movie"](https://open.spotify.com/track/2sEY3b8G71YuHxlu5XWJMN) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Let It Roll \(From "The Garfield Movie"\)](https://open.spotify.com/album/4NpZf8CeLUEZ22RZYfwluT) | 2:43 | 2024-05-01 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Fatherson. The essential tracks, all in one playlist.",
-  "num_followers": 895,
+  "num_followers": 896,
   "original_name": "This Is Fatherson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAADRXVJkYJPIlfsG0FBeSLgS",
+  "snapshot_id": "aZ+NAAAAAADG41VPcw0LDsOf5UkmtXFl",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 212080,
-      "name": "Making Waves",
-      "url": "https://open.spotify.com/track/3m56AGXgBIaVGbGO1MJx5T"
+      "duration_ms": 238546,
+      "name": "The Rain",
+      "url": "https://open.spotify.com/track/5TJXQHPvQpcYssuFnL8hy8"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 238546,
-      "name": "The Rain",
-      "url": "https://open.spotify.com/track/5TJXQHPvQpcYssuFnL8hy8"
+      "duration_ms": 212080,
+      "name": "Making Waves",
+      "url": "https://open.spotify.com/track/3m56AGXgBIaVGbGO1MJx5T"
     },
     {
       "added_at": null,

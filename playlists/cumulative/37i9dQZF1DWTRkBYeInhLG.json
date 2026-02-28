@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "MARKERS AND SUCH PENS FLASHDISKS",
+        "url": "https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q"
+      },
+      "artists": [
+        {
+          "name": "Sal Priadi",
+          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305357,
+      "name": "Ada titik-titik di ujung doa",
+      "url": "https://open.spotify.com/track/1E7zLPDdqo0OvzVmGj5aoV"
+    },
+    {
+      "album": {
         "name": "Merangkai",
         "url": "https://open.spotify.com/album/4qAa6aWYwW1do7TQyBMz7z"
       },
@@ -1878,7 +1896,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 158086,
       "name": "Keluh",
       "url": "https://open.spotify.com/track/4YCEwufcKpKulCa6tJlAjD"
@@ -2792,6 +2810,24 @@
       "duration_ms": 282973,
       "name": "Nuansa Bening",
       "url": "https://open.spotify.com/track/1k5ZInUyMOJRmjxsDE1LKe"
+    },
+    {
+      "album": {
+        "name": "Nyaman (24/7)",
+        "url": "https://open.spotify.com/album/24VfTPaMOtJ4EpDllK62Yl"
+      },
+      "artists": [
+        {
+          "name": "Dominique Adhadiaz",
+          "url": "https://open.spotify.com/artist/1CdlXDQpcRaeFOdY8eEiws"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "Nyaman (24/7)",
+      "url": "https://open.spotify.com/track/3H11yoJfR7kMkpqDC9Ef1s"
     },
     {
       "album": {
@@ -3962,7 +3998,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 218405,
       "name": "Tanpa Tergesa",
       "url": "https://open.spotify.com/track/66wRGrt1HmeVa1wtnWMj6C"

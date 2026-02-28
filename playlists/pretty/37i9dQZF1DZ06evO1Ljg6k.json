@@ -1,12 +1,12 @@
 {
   "description": "This is D'Angelo. The essential tracks, all in one playlist.",
-  "num_followers": 71733,
+  "num_followers": 71772,
   "original_name": "This Is D'Angelo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAADRhjzTsa0u63hYXb/3eca2",
+  "snapshot_id": "aZ+NAAAAAAAEVYt7wE/ti/YKkoaCxI5H",
   "tracks": [
     {
       "added_at": null,
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 344893,
-      "name": "When We Get By",
-      "url": "https://open.spotify.com/track/1DNkxLaGqAIU43kHQkunoE"
+      "duration_ms": 384666,
+      "name": "Cruisin'",
+      "url": "https://open.spotify.com/track/2voXNGgRrosxCJA6foTVau"
     },
     {
       "added_at": null,
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 384666,
-      "name": "Cruisin'",
-      "url": "https://open.spotify.com/track/2voXNGgRrosxCJA6foTVau"
+      "duration_ms": 344893,
+      "name": "When We Get By",
+      "url": "https://open.spotify.com/track/1DNkxLaGqAIU43kHQkunoE"
     },
     {
       "added_at": null,
@@ -263,26 +263,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Shining",
-        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
+        "name": "The Best So Far",
+        "url": "https://open.spotify.com/album/1MXR2vMRldZITKc1Zk6bLe"
       },
       "artists": [
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        },
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        },
         {
           "name": "D'Angelo",
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 336813,
-      "name": "So Far to Go",
-      "url": "https://open.spotify.com/track/4omO3Xwm4REEK5HGT6e6yY"
+      "duration_ms": 252640,
+      "name": "Heaven Must Be Like This",
+      "url": "https://open.spotify.com/track/6NA2IIPkgNN9johIhFrByb"
     },
     {
       "added_at": null,
@@ -319,18 +311,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best So Far",
-        "url": "https://open.spotify.com/album/1MXR2vMRldZITKc1Zk6bLe"
+        "name": "The Shining",
+        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
       },
       "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        },
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
         {
           "name": "D'Angelo",
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 252640,
-      "name": "Heaven Must Be Like This",
-      "url": "https://open.spotify.com/track/6NA2IIPkgNN9johIhFrByb"
+      "duration_ms": 336813,
+      "name": "So Far to Go",
+      "url": "https://open.spotify.com/track/4omO3Xwm4REEK5HGT6e6yY"
     },
     {
       "added_at": null,
@@ -555,18 +555,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live At The Jazz Cafe, London",
-        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
+        "name": "The Renaissance",
+        "url": "https://open.spotify.com/album/3asZSLOAAtCNJz5W2LGuFJ"
       },
       "artists": [
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        },
         {
           "name": "D'Angelo",
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 235773,
-      "name": "Jonz In My Bones - Live At The Jazz Cafe, London/1995",
-      "url": "https://open.spotify.com/track/0cUMdJl2C1WFcnSsgYjBF9"
+      "duration_ms": 176986,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/1HeuJBxrVjtxLeEJKm8Tez"
     },
     {
       "added_at": null,
@@ -587,22 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Renaissance",
-        "url": "https://open.spotify.com/album/3asZSLOAAtCNJz5W2LGuFJ"
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
       },
       "artists": [
-        {
-          "name": "Q-Tip",
-          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
-        },
         {
           "name": "D'Angelo",
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 176986,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/1HeuJBxrVjtxLeEJKm8Tez"
+      "duration_ms": 235773,
+      "name": "Jonz In My Bones - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/0cUMdJl2C1WFcnSsgYjBF9"
     },
     {
       "added_at": null,

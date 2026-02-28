@@ -260,7 +260,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 192307,
       "name": "Aise Des",
       "url": "https://open.spotify.com/track/5jxzK1xMJZwgFrSA8Jn1gk"
@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 167111,
       "name": "Dangeyaa",
       "url": "https://open.spotify.com/track/2cznhWoWHi1LGTi7aJM6NX"
@@ -1188,6 +1188,28 @@
       "duration_ms": 154023,
       "name": "Dilbar",
       "url": "https://open.spotify.com/track/0wuyoeqWCA0CEyGb4FprEV"
+    },
+    {
+      "album": {
+        "name": "Dilbarjaani",
+        "url": "https://open.spotify.com/album/1TZLc2GjL9ENVGtFGzUcUQ"
+      },
+      "artists": [
+        {
+          "name": "Simiran Kaur Dhadli",
+          "url": "https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9"
+        },
+        {
+          "name": "Desi Trap Music",
+          "url": "https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171063,
+      "name": "Dilbarjaani",
+      "url": "https://open.spotify.com/track/4JLeJGu9ffu7RuPNN50w3K"
     },
     {
       "album": {
@@ -1482,6 +1504,32 @@
       "duration_ms": 197125,
       "name": "Gaddi",
       "url": "https://open.spotify.com/track/408tsYRN9p77OQvpWouhWj"
+    },
+    {
+      "album": {
+        "name": "Gal Suno Meri",
+        "url": "https://open.spotify.com/album/1peCD4067FisORO1jbuQPQ"
+      },
+      "artists": [
+        {
+          "name": "Simar Sethi",
+          "url": "https://open.spotify.com/artist/16oBN2vPJych5RW6qJg8XI"
+        },
+        {
+          "name": "Saga Sounds",
+          "url": "https://open.spotify.com/artist/6JqjmhYjFskJtqjvruCxKN"
+        },
+        {
+          "name": "Ansh Sagar",
+          "url": "https://open.spotify.com/artist/6flaf8PIptg5n7TYsj4qsj"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191190,
+      "name": "Gal Suno Meri",
+      "url": "https://open.spotify.com/track/7brJPRFSvXnXDL9Ezj3Utm"
     },
     {
       "album": {

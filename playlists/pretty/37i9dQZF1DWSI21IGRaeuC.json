@@ -1,12 +1,12 @@
 {
   "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing SOSA",
-  "num_followers": 73389,
+  "num_followers": 73438,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACvcWwkBx4wOq0UofSZVpBL+Qxfb",
+  "snapshot_id": "AAAAAEZz1sVNJES1UY4rT1yxG90ae5hh",
   "tracks": [
     {
       "added_at": "2026-02-20 05:00:42",
@@ -23,6 +23,42 @@
       "duration_ms": 203909,
       "name": "Just Like That",
       "url": "https://open.spotify.com/track/3eMVersNz99DsD0vvv3Bk6"
+    },
+    {
+      "added_at": "2026-01-23 05:00:22",
+      "album": {
+        "name": "Into My Life (feat. Joyce Sims)",
+        "url": "https://open.spotify.com/album/4KzpmvHWP09GTVgGpnkBl7"
+      },
+      "artists": [
+        {
+          "name": "Cam Stockman",
+          "url": "https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg"
+        },
+        {
+          "name": "Joyce Sims",
+          "url": "https://open.spotify.com/artist/4AL3YviSMI70ARkSOHlxbQ"
+        }
+      ],
+      "duration_ms": 131299,
+      "name": "Into My Life (feat. Joyce Sims)",
+      "url": "https://open.spotify.com/track/5Pcg7KpidYjuKTTJ12IvvF"
+    },
+    {
+      "added_at": "2026-02-27 05:00:46",
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/2x5ye8DOvnqm9csJAHUbmW"
+      },
+      "artists": [
+        {
+          "name": "Tomike",
+          "url": "https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI"
+        }
+      ],
+      "duration_ms": 143808,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/7CVEZE9RSUO3MfdqF4TRgv"
     },
     {
       "added_at": "2026-02-06 05:00:30",
@@ -47,46 +83,6 @@
     {
       "added_at": "2026-02-20 05:00:42",
       "album": {
-        "name": "Out Of My Mind",
-        "url": "https://open.spotify.com/album/0FlA4ltFXhjeezRI8K5ZiN"
-      },
-      "artists": [
-        {
-          "name": "Omar+",
-          "url": "https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc"
-        },
-        {
-          "name": "Ben Sterling",
-          "url": "https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "Out Of My Mind",
-      "url": "https://open.spotify.com/track/2tlulSZdCgI5zQFQKmbjma"
-    },
-    {
-      "added_at": "2026-01-23 05:00:22",
-      "album": {
-        "name": "Into My Life (feat. Joyce Sims)",
-        "url": "https://open.spotify.com/album/4KzpmvHWP09GTVgGpnkBl7"
-      },
-      "artists": [
-        {
-          "name": "Cam Stockman",
-          "url": "https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg"
-        },
-        {
-          "name": "Joyce Sims",
-          "url": "https://open.spotify.com/artist/4AL3YviSMI70ARkSOHlxbQ"
-        }
-      ],
-      "duration_ms": 131299,
-      "name": "Into My Life (feat. Joyce Sims)",
-      "url": "https://open.spotify.com/track/5Pcg7KpidYjuKTTJ12IvvF"
-    },
-    {
-      "added_at": "2026-02-20 05:00:42",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/19mVyPaqtpi7RXLHz8xS6v"
       },
@@ -103,6 +99,22 @@
       "duration_ms": 194545,
       "name": "Home",
       "url": "https://open.spotify.com/track/6jRnVj43WWW3rsDa5iIsjM"
+    },
+    {
+      "added_at": "2026-02-27 05:00:46",
+      "album": {
+        "name": "The Mindshaker EP",
+        "url": "https://open.spotify.com/album/2tVVLAiiaotx0TZqUyvEDT"
+      },
+      "artists": [
+        {
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
+        }
+      ],
+      "duration_ms": 227034,
+      "name": "The Mindshaker",
+      "url": "https://open.spotify.com/track/0kacoQmBFEUZNdADZynT6W"
     },
     {
       "added_at": "2026-02-06 05:00:30",
@@ -141,6 +153,58 @@
       "url": "https://open.spotify.com/track/57YktgWA7RTGfHykrG7KJr"
     },
     {
+      "added_at": "2026-02-27 05:00:46",
+      "album": {
+        "name": "Phase One EP",
+        "url": "https://open.spotify.com/album/3oWzOc36MGNe40ug6NHBqK"
+      },
+      "artists": [
+        {
+          "name": "Ellis Garner",
+          "url": "https://open.spotify.com/artist/6sY1arGfGF8dJ616TFEOeO"
+        }
+      ],
+      "duration_ms": 203636,
+      "name": "Phase One",
+      "url": "https://open.spotify.com/track/0JeHzggWbL6xJs40tXnBJO"
+    },
+    {
+      "added_at": "2026-02-27 05:00:46",
+      "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/0HWV4PvPt5Z7N8rg4AX8bC"
+      },
+      "artists": [
+        {
+          "name": "TeeDee",
+          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
+        }
+      ],
+      "duration_ms": 177243,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/7CDXUYEVUm1SwPC4aVueX6"
+    },
+    {
+      "added_at": "2026-02-20 05:00:42",
+      "album": {
+        "name": "Out Of My Mind",
+        "url": "https://open.spotify.com/album/0FlA4ltFXhjeezRI8K5ZiN"
+      },
+      "artists": [
+        {
+          "name": "Omar+",
+          "url": "https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc"
+        },
+        {
+          "name": "Ben Sterling",
+          "url": "https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Out Of My Mind",
+      "url": "https://open.spotify.com/track/2tlulSZdCgI5zQFQKmbjma"
+    },
+    {
       "added_at": "2026-02-20 05:00:42",
       "album": {
         "name": "Apartment",
@@ -155,6 +219,38 @@
       "duration_ms": 160457,
       "name": "Apartment",
       "url": "https://open.spotify.com/track/79UF0hrshtGmTBrMB1YPpb"
+    },
+    {
+      "added_at": "2026-02-27 05:00:46",
+      "album": {
+        "name": "[EC2A02] BOMBA EP",
+        "url": "https://open.spotify.com/album/0JkfjagtVTPOzQtIKyoe2g"
+      },
+      "artists": [
+        {
+          "name": "Renceau",
+          "url": "https://open.spotify.com/artist/5grCmWFT1dIPxLpzGZtxlU"
+        }
+      ],
+      "duration_ms": 241913,
+      "name": "Bomba (Club Mix)",
+      "url": "https://open.spotify.com/track/3QxSDqReNbVVGv9T68TWit"
+    },
+    {
+      "added_at": "2026-02-27 05:00:46",
+      "album": {
+        "name": "Don't Say EP",
+        "url": "https://open.spotify.com/album/6PvlkxvNqNTvLTN8bk0M5G"
+      },
+      "artists": [
+        {
+          "name": "Louis Millne",
+          "url": "https://open.spotify.com/artist/6oVWsUniV39LusFsC7axlb"
+        }
+      ],
+      "duration_ms": 165937,
+      "name": "Don't Say",
+      "url": "https://open.spotify.com/track/7B4QZy1BktlY4svxAZtow2"
     },
     {
       "added_at": "2026-02-20 05:00:42",
@@ -173,6 +269,58 @@
       "url": "https://open.spotify.com/track/2pskGSyfF7F2aoJ5fXV8de"
     },
     {
+      "added_at": "2026-02-20 05:00:42",
+      "album": {
+        "name": "the pharmacist ep",
+        "url": "https://open.spotify.com/album/5mEpuyGgvwYXHmQAc2Mr63"
+      },
+      "artists": [
+        {
+          "name": "Semmi Amdouni",
+          "url": "https://open.spotify.com/artist/5vDcMK7z1mA0kTPi0UIBNS"
+        }
+      ],
+      "duration_ms": 176851,
+      "name": "3AM (don't stop)",
+      "url": "https://open.spotify.com/track/7E2vmc2fH7oeqqrzii1CJ0"
+    },
+    {
+      "added_at": "2026-02-20 23:30:05",
+      "album": {
+        "name": "Secret Point Ep",
+        "url": "https://open.spotify.com/album/29nxV6W2nkt3LYXQt23wNu"
+      },
+      "artists": [
+        {
+          "name": "Samu Ramirez",
+          "url": "https://open.spotify.com/artist/0cElgILhpZ4rOAAouWNoTP"
+        }
+      ],
+      "duration_ms": 353000,
+      "name": "Secret Point",
+      "url": "https://open.spotify.com/track/5helNhTxR9UMA3kgpUPkJC"
+    },
+    {
+      "added_at": "2026-02-27 05:00:46",
+      "album": {
+        "name": "2C EP",
+        "url": "https://open.spotify.com/album/2xKQKNzYwXDFeiJJyyZLWD"
+      },
+      "artists": [
+        {
+          "name": "The BeatBoy's",
+          "url": "https://open.spotify.com/artist/1bnYQeMALHUg5i39ujDREE"
+        },
+        {
+          "name": "Samuele Scelfo",
+          "url": "https://open.spotify.com/artist/1Crlx3zUeYXCHoWEFm0E5H"
+        }
+      ],
+      "duration_ms": 223091,
+      "name": "Bassline Drop",
+      "url": "https://open.spotify.com/track/7CkpWSctl5f8PPCB8Tazbm"
+    },
+    {
       "added_at": "2026-01-27 20:44:33",
       "album": {
         "name": "Lightless Dream EP",
@@ -187,6 +335,54 @@
       "duration_ms": 184000,
       "name": "Lightless Dream",
       "url": "https://open.spotify.com/track/5OiFqjhqNsTfXsFSifbsDI"
+    },
+    {
+      "added_at": "2026-02-20 05:00:42",
+      "album": {
+        "name": "Beautiful Thing",
+        "url": "https://open.spotify.com/album/0ElzuUyDS8KbSasod7h1TC"
+      },
+      "artists": [
+        {
+          "name": "Caleb Laurenson",
+          "url": "https://open.spotify.com/artist/1KBwb4QGzLkhNtLjIkNRDR"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "Beautiful Thing",
+      "url": "https://open.spotify.com/track/4aSOzY0wdTGcrqk42t6ISB"
+    },
+    {
+      "added_at": "2026-02-27 05:00:46",
+      "album": {
+        "name": "Lift Off EP",
+        "url": "https://open.spotify.com/album/7bUeON2LvthAFWe5ZJW1Va"
+      },
+      "artists": [
+        {
+          "name": "Retrouve",
+          "url": "https://open.spotify.com/artist/7ImgGmI8gKoPYCmtvBjghb"
+        }
+      ],
+      "duration_ms": 185625,
+      "name": "Lift Off",
+      "url": "https://open.spotify.com/track/32qPgjaSL6rpaWKujB6xBY"
+    },
+    {
+      "added_at": "2026-02-27 05:00:46",
+      "album": {
+        "name": "All Night EP",
+        "url": "https://open.spotify.com/album/2kAu9BvO8TRi37WjUAArH3"
+      },
+      "artists": [
+        {
+          "name": "Pheelo",
+          "url": "https://open.spotify.com/artist/3R2HL3PzOU2tQNeFiNhcfA"
+        }
+      ],
+      "duration_ms": 218352,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/58CYikL1ar42jTlZa1og87"
     },
     {
       "added_at": "2025-11-07 05:00:38",
@@ -237,24 +433,36 @@
       "url": "https://open.spotify.com/track/59j5yzNkQicfTmayf80bQi"
     },
     {
-      "added_at": "2026-02-20 05:00:42",
+      "added_at": "2026-02-27 05:00:46",
       "album": {
-        "name": "Nova (Feat. Lady Vale)",
-        "url": "https://open.spotify.com/album/0o8Z86QHg9DHH6Dqv0zRiE"
+        "name": "Peak Time",
+        "url": "https://open.spotify.com/album/5vbicOGe9lZQrK3hG1pdDe"
       },
       "artists": [
         {
-          "name": "Dimmish",
-          "url": "https://open.spotify.com/artist/3BPvVhOECwv7HSHVZaq3BG"
-        },
-        {
-          "name": "Lady Vale",
-          "url": "https://open.spotify.com/artist/7CBgUYtjzK6YOIzPre84GK"
+          "name": "Jordan Peak",
+          "url": "https://open.spotify.com/artist/5Jhhsm26nMbGu8FNOvN3Gk"
         }
       ],
-      "duration_ms": 209323,
-      "name": "Nova (Feat. Lady Vale)",
-      "url": "https://open.spotify.com/track/4BPstWiA92Cd88FCmZaCNN"
+      "duration_ms": 165511,
+      "name": "Peak Time",
+      "url": "https://open.spotify.com/track/6OU1wDhMhLcxHiiQfbbcw0"
+    },
+    {
+      "added_at": "2026-02-27 05:00:46",
+      "album": {
+        "name": "No Better EP",
+        "url": "https://open.spotify.com/album/0mbxvWAmB3c6J8MSETHcPW"
+      },
+      "artists": [
+        {
+          "name": "Joey London Style",
+          "url": "https://open.spotify.com/artist/64GSxyOhYgXzaQs30QFi9i"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "No Better - Radio Edit",
+      "url": "https://open.spotify.com/track/3TCBds884wZAfPwLuwI9NW"
     },
     {
       "added_at": "2026-01-30 05:00:42",
@@ -287,22 +495,6 @@
     {
       "added_at": "2026-02-20 05:00:42",
       "album": {
-        "name": "the pharmacist ep",
-        "url": "https://open.spotify.com/album/5mEpuyGgvwYXHmQAc2Mr63"
-      },
-      "artists": [
-        {
-          "name": "Semmi Amdouni",
-          "url": "https://open.spotify.com/artist/5vDcMK7z1mA0kTPi0UIBNS"
-        }
-      ],
-      "duration_ms": 176851,
-      "name": "3AM (don't stop)",
-      "url": "https://open.spotify.com/track/7E2vmc2fH7oeqqrzii1CJ0"
-    },
-    {
-      "added_at": "2026-02-20 05:00:42",
-      "album": {
         "name": "Zero Azucar",
         "url": "https://open.spotify.com/album/49RxOjfoJ3dAdBp0l0z5dk"
       },
@@ -315,6 +507,50 @@
       "duration_ms": 220463,
       "name": "Zero Azucar",
       "url": "https://open.spotify.com/track/1PjydXKswaCmzLdORc1X29"
+    },
+    {
+      "added_at": "2026-02-27 05:00:46",
+      "album": {
+        "name": "Swipe (ft. Isis Salam)",
+        "url": "https://open.spotify.com/album/5m4FJKUGhqsL6OqoxAlqzQ"
+      },
+      "artists": [
+        {
+          "name": "Prozak",
+          "url": "https://open.spotify.com/artist/1cFxOHBhTZDQuzNaIvzBel"
+        },
+        {
+          "name": "Benson",
+          "url": "https://open.spotify.com/artist/6XVEZ5mTWp5DpfuFPn1QCz"
+        },
+        {
+          "name": "Isis Salam",
+          "url": "https://open.spotify.com/artist/3bYWS9Hq4G2gF2Cb6rnRb2"
+        }
+      ],
+      "duration_ms": 189528,
+      "name": "Swipe (ft. Isis Salam)",
+      "url": "https://open.spotify.com/track/04vGc65ydCvfyeV9E4vs2l"
+    },
+    {
+      "added_at": "2026-02-20 05:00:42",
+      "album": {
+        "name": "Nova (Feat. Lady Vale)",
+        "url": "https://open.spotify.com/album/0o8Z86QHg9DHH6Dqv0zRiE"
+      },
+      "artists": [
+        {
+          "name": "Dimmish",
+          "url": "https://open.spotify.com/artist/3BPvVhOECwv7HSHVZaq3BG"
+        },
+        {
+          "name": "Lady Vale",
+          "url": "https://open.spotify.com/artist/7CBgUYtjzK6YOIzPre84GK"
+        }
+      ],
+      "duration_ms": 209323,
+      "name": "Nova (Feat. Lady Vale)",
+      "url": "https://open.spotify.com/track/4BPstWiA92Cd88FCmZaCNN"
     },
     {
       "added_at": "2026-01-23 05:00:22",
@@ -349,22 +585,6 @@
       "url": "https://open.spotify.com/track/1veEHr0b99P7eXBcfUMPWp"
     },
     {
-      "added_at": "2026-02-20 23:30:05",
-      "album": {
-        "name": "Secret Point Ep",
-        "url": "https://open.spotify.com/album/29nxV6W2nkt3LYXQt23wNu"
-      },
-      "artists": [
-        {
-          "name": "Samu Ramirez",
-          "url": "https://open.spotify.com/artist/0cElgILhpZ4rOAAouWNoTP"
-        }
-      ],
-      "duration_ms": 353000,
-      "name": "Secret Point",
-      "url": "https://open.spotify.com/track/5helNhTxR9UMA3kgpUPkJC"
-    },
-    {
       "added_at": "2026-02-13 05:00:30",
       "album": {
         "name": "Elements : Kolter",
@@ -379,22 +599,6 @@
       "duration_ms": 225198,
       "name": "Mind Twister - Radio-Edit",
       "url": "https://open.spotify.com/track/0FucJWMN8HdpiGubQ89QuL"
-    },
-    {
-      "added_at": "2026-02-20 05:00:42",
-      "album": {
-        "name": "Beautiful Thing",
-        "url": "https://open.spotify.com/album/0ElzuUyDS8KbSasod7h1TC"
-      },
-      "artists": [
-        {
-          "name": "Caleb Laurenson",
-          "url": "https://open.spotify.com/artist/1KBwb4QGzLkhNtLjIkNRDR"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "Beautiful Thing",
-      "url": "https://open.spotify.com/track/4aSOzY0wdTGcrqk42t6ISB"
     },
     {
       "added_at": "2026-01-16 05:00:33",
@@ -1249,38 +1453,6 @@
       "url": "https://open.spotify.com/track/2XjGpv5mNlR8Gr1t0B9Ead"
     },
     {
-      "added_at": "2026-01-23 05:00:22",
-      "album": {
-        "name": "thinking out loud EP",
-        "url": "https://open.spotify.com/album/7zZnpcWD9ZBDcoLgtdqnOJ"
-      },
-      "artists": [
-        {
-          "name": "Emery Bex",
-          "url": "https://open.spotify.com/artist/7DS0z5momEB8UbS6TxVhzZ"
-        }
-      ],
-      "duration_ms": 198425,
-      "name": "transition",
-      "url": "https://open.spotify.com/track/57EK2QTxNeZvWfinBC6Kc9"
-    },
-    {
-      "added_at": "2026-01-16 05:00:33",
-      "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/3p92Arj2H6bgicctT8AmTb"
-      },
-      "artists": [
-        {
-          "name": "Mishell",
-          "url": "https://open.spotify.com/artist/3kCsXVpVs1ZhLnIVkNzdHJ"
-        }
-      ],
-      "duration_ms": 217142,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/3kko8PMs7enGwVOxzRWoyZ"
-    },
-    {
       "added_at": "2026-01-09 05:00:36",
       "album": {
         "name": "Work To Tha Beat",
@@ -1295,22 +1467,6 @@
       "duration_ms": 123750,
       "name": "Work To Tha Beat",
       "url": "https://open.spotify.com/track/2U1a9MYxmdZP1EHVx9CVyU"
-    },
-    {
-      "added_at": "2025-12-19 05:00:31",
-      "album": {
-        "name": "Time & Place EP",
-        "url": "https://open.spotify.com/album/6CD7an8oDgqBSpjCZHQNaI"
-      },
-      "artists": [
-        {
-          "name": "ANATTA",
-          "url": "https://open.spotify.com/artist/5YhPaiXN8biK8is4uCvcJ6"
-        }
-      ],
-      "duration_ms": 183034,
-      "name": "Time & Place",
-      "url": "https://open.spotify.com/track/2ZUHBlPyBm0Xs3Rh0xWkA6"
     },
     {
       "added_at": "2026-01-09 17:17:45",
@@ -1343,26 +1499,6 @@
       "duration_ms": 266176,
       "name": "Reconnection - Radio Mix",
       "url": "https://open.spotify.com/track/1kLaW7XBG6pYciw2JSmi5G"
-    },
-    {
-      "added_at": "2026-01-16 05:00:33",
-      "album": {
-        "name": "Get On",
-        "url": "https://open.spotify.com/album/2QwpTrGUmPMcDZl950i0rd"
-      },
-      "artists": [
-        {
-          "name": "RAJE",
-          "url": "https://open.spotify.com/artist/2dPCWh9rFrw0MyUSr3sEyQ"
-        },
-        {
-          "name": "Mood Child",
-          "url": "https://open.spotify.com/artist/1LVqAYTWun2fwHqr91UdOm"
-        }
-      ],
-      "duration_ms": 225480,
-      "name": "Get On",
-      "url": "https://open.spotify.com/track/1DvYu6XVwHts5kNArH8c7O"
     },
     {
       "added_at": "2025-12-29 01:46:49",
@@ -1461,22 +1597,6 @@
       "url": "https://open.spotify.com/track/2HzuD7rDoOZSssMmtrDc7x"
     },
     {
-      "added_at": "2025-11-21 05:00:30",
-      "album": {
-        "name": "Frozen",
-        "url": "https://open.spotify.com/album/5bARuKz9sERIH9uVbsFaJG"
-      },
-      "artists": [
-        {
-          "name": "Omar+",
-          "url": "https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc"
-        }
-      ],
-      "duration_ms": 206448,
-      "name": "Frozen",
-      "url": "https://open.spotify.com/track/77Rrh3GmnQtudQWWJkomiG"
-    },
-    {
       "added_at": "2025-10-17 15:56:09",
       "album": {
         "name": "Get Funky EP",
@@ -1507,22 +1627,6 @@
       "duration_ms": 172000,
       "name": "Get Back",
       "url": "https://open.spotify.com/track/2wmbYN8YjWvoR6d0kd1aAH"
-    },
-    {
-      "added_at": "2025-11-28 21:40:42",
-      "album": {
-        "name": "Weather Report EP",
-        "url": "https://open.spotify.com/album/2zIM9IZdS1NrMO5u6YC6oG"
-      },
-      "artists": [
-        {
-          "name": "Danny Snowden",
-          "url": "https://open.spotify.com/artist/4x8tHM8IhkjWRTUD4k8cGB"
-        }
-      ],
-      "duration_ms": 236363,
-      "name": "Weather Report",
-      "url": "https://open.spotify.com/track/2NSRp14Ugzqp017deyJ53n"
     },
     {
       "added_at": "2025-12-12 05:00:36",
@@ -1613,22 +1717,6 @@
       "url": "https://open.spotify.com/track/3BjL0WoqXRFX0TjBZYJUwX"
     },
     {
-      "added_at": "2025-10-10 04:00:36",
-      "album": {
-        "name": "Straight From The Underground",
-        "url": "https://open.spotify.com/album/02hx3u9EST9kPmJQW3W9e5"
-      },
-      "artists": [
-        {
-          "name": "Tim Sanders",
-          "url": "https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82"
-        }
-      ],
-      "duration_ms": 148181,
-      "name": "Straight From The Underground",
-      "url": "https://open.spotify.com/track/7KLb3Ztja5ytGqMEKXUYnz"
-    },
-    {
       "added_at": "2025-11-11 01:56:18",
       "album": {
         "name": "DECEIVER",
@@ -1683,22 +1771,6 @@
       "duration_ms": 157846,
       "name": "Need Ur Lovin'",
       "url": "https://open.spotify.com/track/6knsK8bCoYJ8H5wf7g3Idh"
-    },
-    {
-      "added_at": "2025-10-10 04:00:36",
-      "album": {
-        "name": "For My People",
-        "url": "https://open.spotify.com/album/6zKsrSQATcRO6ZHd3ZdoZD"
-      },
-      "artists": [
-        {
-          "name": "bullet tooth",
-          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
-        }
-      ],
-      "duration_ms": 205059,
-      "name": "For My People",
-      "url": "https://open.spotify.com/track/25b2Ftcple4DAIyQ3V0mPF"
     },
     {
       "added_at": "2025-10-03 15:50:43",
@@ -1905,38 +1977,6 @@
       "url": "https://open.spotify.com/track/7E2gGp4LHfH99X0LhTnU6j"
     },
     {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
-        "name": "Bareso",
-        "url": "https://open.spotify.com/album/6cKL4FXvoUe730RSZg3i7Y"
-      },
-      "artists": [
-        {
-          "name": "Alan Nieves",
-          "url": "https://open.spotify.com/artist/0gwCVstfKWPEMibFf3MnyG"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "Bareso",
-      "url": "https://open.spotify.com/track/4F1Yqvumh6qNXcwhvxQhIf"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
-        "name": "Feel The Rhythm",
-        "url": "https://open.spotify.com/album/2GlYK2l4zmorT2UXZf0srR"
-      },
-      "artists": [
-        {
-          "name": "Ell Jordan",
-          "url": "https://open.spotify.com/artist/3ZfwdqNPzevAjnBlRCkBKl"
-        }
-      ],
-      "duration_ms": 209836,
-      "name": "Feel The Rhythm",
-      "url": "https://open.spotify.com/track/3oYQbIgyMnmwSWSAkmcNYl"
-    },
-    {
       "added_at": "2025-07-02 15:10:18",
       "album": {
         "name": "Bass Jump EP",
@@ -2007,30 +2047,6 @@
       "duration_ms": 275000,
       "name": "Yosemite - Philip George Remix",
       "url": "https://open.spotify.com/track/7Ix1YfRHAELxNIFqkzQdWl"
-    },
-    {
-      "added_at": "2025-03-19 18:08:52",
-      "album": {
-        "name": "I Remember (Tommy Phillips Remix)",
-        "url": "https://open.spotify.com/album/0jkSuitxQSLXjXAkFOJacT"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Tommy Phillips",
-          "url": "https://open.spotify.com/artist/3Z1hS6haFjSDvQc8TORkIW"
-        }
-      ],
-      "duration_ms": 212519,
-      "name": "I Remember - Tommy Phillips Remix",
-      "url": "https://open.spotify.com/track/5qaBH4UBmWeidfGSQfnW51"
     }
   ],
   "unique_name": "Deep & Minimal",

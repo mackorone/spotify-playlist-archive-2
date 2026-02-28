@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-02",
-  "description": "Ambient with the soothing sounds of water, rain and birds. ",
+  "description": "Ambient with the soothing sounds of water, rain and birds.",
   "name": "Nature Relaxation",
   "tracks": [
     {
@@ -196,7 +196,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 124625,
       "name": "apnoea",
       "url": "https://open.spotify.com/track/2XZOoiOxcItf02RhMQK02f"
@@ -3858,7 +3858,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 156162,
       "name": "Overflow",
       "url": "https://open.spotify.com/track/6uAzGHQ0CTL0ZmUcACijLc"
@@ -5269,6 +5269,28 @@
     },
     {
       "album": {
+        "name": "The Forest Is My Friend",
+        "url": "https://open.spotify.com/album/7hr89r9X0e1OrHmrscxxgl"
+      },
+      "artists": [
+        {
+          "name": "Rosonance",
+          "url": "https://open.spotify.com/artist/4SYjHr4H1LksGbBg0sXkb3"
+        },
+        {
+          "name": "Verdelume",
+          "url": "https://open.spotify.com/artist/0It2fK2YoJFGMcYV01vHG8"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141724,
+      "name": "The Forest Is My Friend",
+      "url": "https://open.spotify.com/track/6VUYQlqEN5VCi2eI2hdf5r"
+    },
+    {
+      "album": {
         "name": "The Nature of Night",
         "url": "https://open.spotify.com/album/7hg2a7EBaV6LABrr4ZfXTM"
       },
@@ -5518,6 +5540,24 @@
       "duration_ms": 187918,
       "name": "Tributary Balance",
       "url": "https://open.spotify.com/track/6iCoaYHHA82MZZnxi6nt9h"
+    },
+    {
+      "album": {
+        "name": "Trollved",
+        "url": "https://open.spotify.com/album/3SXfek1PF7j0qEQ8UgrgUz"
+      },
+      "artists": [
+        {
+          "name": "Duns\u00f8",
+          "url": "https://open.spotify.com/artist/0qTYCCllmwOsFme4OxrbkZ"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139500,
+      "name": "Trollved",
+      "url": "https://open.spotify.com/track/667Qh06jCeKJzC8do3rCGy"
     },
     {
       "album": {

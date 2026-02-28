@@ -1,6 +1,6 @@
 {
   "description": "La playlist que prende la fiesta.",
-  "num_followers": 695583,
+  "num_followers": 695604,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "Los Cotizados",
-        "url": "https://open.spotify.com/album/0o3uVUoqS0U8obVUObNwr8"
-      },
-      "artists": [
-        {
-          "name": "Baby Rasta y Gringo",
-          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
-        }
-      ],
-      "duration_ms": 201946,
-      "name": "Me Niegas",
-      "url": "https://open.spotify.com/track/1o6DL0otgQMsUebziSC7kA"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
         "name": "Desesperados",
         "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 224996,
       "name": "Desesperados",
       "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
+        "name": "Los Cotizados",
+        "url": "https://open.spotify.com/album/0o3uVUoqS0U8obVUObNwr8"
+      },
+      "artists": [
+        {
+          "name": "Baby Rasta y Gringo",
+          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
+        }
+      ],
+      "duration_ms": 201946,
+      "name": "Me Niegas",
+      "url": "https://open.spotify.com/track/1o6DL0otgQMsUebziSC7kA"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -755,6 +755,26 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
+        "name": "Otra Noche",
+        "url": "https://open.spotify.com/album/2b4wYjErjhZ0U05XpOnsoC"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 198720,
+      "name": "Otra Noche",
+      "url": "https://open.spotify.com/track/2nwHN5TM4OBdrwCUSx0wnE"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
         "name": "Sigo Por El Objetivo",
         "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 234105,
       "name": "Linda - Remix",
       "url": "https://open.spotify.com/track/7HrgGbnNKZKhBL70aFKpXk"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
-        "name": "Otra Noche",
-        "url": "https://open.spotify.com/album/2b4wYjErjhZ0U05XpOnsoC"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 198720,
-      "name": "Otra Noche",
-      "url": "https://open.spotify.com/track/2nwHN5TM4OBdrwCUSx0wnE"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -931,26 +931,6 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "Tu Turrito",
-        "url": "https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02"
-      },
-      "artists": [
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        }
-      ],
-      "duration_ms": 164701,
-      "name": "Tu Turrito",
-      "url": "https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
         "name": "Mala Costumbre",
         "url": "https://open.spotify.com/album/1YJjyV8YutIhzL4MWAB1LY"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 230728,
       "name": "Mala Costumbre",
       "url": "https://open.spotify.com/track/70uX4beGHc1nQikXveOknp"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
+        "name": "Tu Turrito",
+        "url": "https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "duration_ms": 164701,
+      "name": "Tu Turrito",
+      "url": "https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -1971,30 +1971,26 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "\u00bfY pa la Wacha Loca? (con Salastkbron) [Remix]",
-        "url": "https://open.spotify.com/album/4Pg9HfkoILc1bvEUSUfv1J"
+        "name": "LATI2",
+        "url": "https://open.spotify.com/album/6aksfRpRyzjh0Hdz2Mp3am"
       },
       "artists": [
         {
-          "name": "Gusty dj",
-          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
         },
         {
           "name": "La Joaqui",
           "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
         },
         {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
         }
       ],
-      "duration_ms": 229426,
-      "name": "\u00bfY pa la Wacha Loca? (con Salastkbron) - Remix",
-      "url": "https://open.spotify.com/track/4IkSOwB9JRhq7oScl4pCW9"
+      "duration_ms": 204146,
+      "name": "LATI2",
+      "url": "https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -2019,26 +2015,30 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "LATI2",
-        "url": "https://open.spotify.com/album/6aksfRpRyzjh0Hdz2Mp3am"
+        "name": "\u00bfY pa la Wacha Loca? (con Salastkbron) [Remix]",
+        "url": "https://open.spotify.com/album/4Pg9HfkoILc1bvEUSUfv1J"
       },
       "artists": [
         {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
         },
         {
           "name": "La Joaqui",
           "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
         },
         {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
         }
       ],
-      "duration_ms": 204146,
-      "name": "LATI2",
-      "url": "https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ"
+      "duration_ms": 229426,
+      "name": "\u00bfY pa la Wacha Loca? (con Salastkbron) - Remix",
+      "url": "https://open.spotify.com/track/4IkSOwB9JRhq7oScl4pCW9"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -2083,6 +2083,50 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
+        "name": "Pa Tra Rkt (Remix)",
+        "url": "https://open.spotify.com/album/0b1oaaNjBCMZ1UBsqAokfU"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        },
+        {
+          "name": "Kaleb Di Masi",
+          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
+        },
+        {
+          "name": "Fili Wey",
+          "url": "https://open.spotify.com/artist/77pCqwW8HaKBjkTHe395eo"
+        },
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        },
+        {
+          "name": "John C",
+          "url": "https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS"
+        },
+        {
+          "name": "Papichamp",
+          "url": "https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW"
+        }
+      ],
+      "duration_ms": 498666,
+      "name": "Pa Tra Rkt - Remix",
+      "url": "https://open.spotify.com/track/4RuXJVAsDaF52Z8D6lYRXX"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
         "name": "Remake",
         "url": "https://open.spotify.com/album/1lmLSU1UmoOSl4U7z5lR0U"
       },
@@ -2115,30 +2159,6 @@
       "duration_ms": 332000,
       "name": "Remake",
       "url": "https://open.spotify.com/track/2B8r5MFRP3EvQDWkm5LxsU"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
-        "name": "6to Sentido (Una Vuelta)",
-        "url": "https://open.spotify.com/album/4u3hJm3bh7L8lcANjjUINr"
-      },
-      "artists": [
-        {
-          "name": "DT.Bilardo",
-          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
-        },
-        {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
-        },
-        {
-          "name": "DJ Cronox",
-          "url": "https://open.spotify.com/artist/3xEW53mjWRObQjw1yu6fvi"
-        }
-      ],
-      "duration_ms": 128265,
-      "name": "6to Sentido (Una Vuelta)",
-      "url": "https://open.spotify.com/track/0j2p4MTvu6tfrK8UsKLS31"
     }
   ],
   "unique_name": "Joda",

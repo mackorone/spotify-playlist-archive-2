@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 25 | [Filippo Leroy](https://open.spotify.com/track/2rHgWF0mR7l63nUgGLuZvB) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Infinito +1](https://open.spotify.com/album/25xh26FmCXPFgnCXLvTS5Q) | 3:03 |
 | 26 | [Non Sono Cool](https://open.spotify.com/track/4UDHBaPYDu6zI0sva3Yn26) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fake News](https://open.spotify.com/album/6rOuSJCksAl2B5KUvVChR3) | 2:41 |
 | 27 | [scs](https://open.spotify.com/track/1SaKgMxGgsh5uOTud5YeqR) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 3:06 |
-| 28 | [Fuck You Vincenzo](https://open.spotify.com/track/4Y6eSG3Zl01ixdi8hjpPP3) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/79HurwZ9TQ8y5jrWlUDrIE) | 3:13 |
-| 29 | [Radical](https://open.spotify.com/track/2dk6mSHg6VUT7nFfmgGJVa) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 2:59 |
+| 28 | [Radical](https://open.spotify.com/track/2dk6mSHg6VUT7nFfmgGJVa) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 2:59 |
+| 29 | [Fuck You Vincenzo](https://open.spotify.com/track/4Y6eSG3Zl01ixdi8hjpPP3) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/79HurwZ9TQ8y5jrWlUDrIE) | 3:13 |
 | 30 | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/track/2eSUkPPlvV0SxVk65skDbJ) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 3:03 |
 | 31 | [GAS](https://open.spotify.com/track/4l39vgGIQZWebaucRfYlLd) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [GAS](https://open.spotify.com/album/4CF7kAZmISuatwQnfi7quy) | 2:39 |
 | 32 | [Katholisch Erzogen](https://open.spotify.com/track/3XJWENXsyuxRwSdCT57z6f) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Katholisch Erzogen](https://open.spotify.com/album/1G00lF8JYRNgpzQDfFdIXD) | 2:13 |
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 158 | [Intro](https://open.spotify.com/track/6qyeQ7FdZXM44vqY2DWtv4) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 0:46 |
 | 159 | [Lo So](https://open.spotify.com/track/1bDgDSlaiBty5VenRsoSPP) | [Valentina](https://open.spotify.com/artist/7hgZDU5UtpRoaWEjfHsliw) | [Io So](https://open.spotify.com/album/57px9qcd6jgsymMSkJ0Rjx) | 3:39 |
 
-Snapshot ID: `AcKvFAAAAAArHdQRjNEotfc/kcxe7p/r`
+Snapshot ID: `AcK0oAAAAAA6bciLJecnt+jOrwlykr52`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAAAjoGGpKcOX85ONW0OqM2Ga",
+  "snapshot_id": "aZ+NAAAAAADA4UCt6l9jTC7RE3CLMzLf",
   "tracks": [
     {
       "added_at": null,
@@ -343,8 +343,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Anima (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
+        "name": "Delirium",
+        "url": "https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs"
       },
       "artists": [
         {
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 247666,
-      "name": "Layers of Time",
-      "url": "https://open.spotify.com/track/2uFS9ieoGREkFCrasbGsCx"
+      "duration_ms": 196080,
+      "name": "Delirium",
+      "url": "https://open.spotify.com/track/7q9si83DQmdTuT7zfuus7f"
     },
     {
       "added_at": null,
@@ -391,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delirium",
-        "url": "https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs"
+        "name": "Black Anima (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
       },
       "artists": [
         {
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 196080,
-      "name": "Delirium",
-      "url": "https://open.spotify.com/track/7q9si83DQmdTuT7zfuus7f"
+      "duration_ms": 247666,
+      "name": "Layers of Time",
+      "url": "https://open.spotify.com/track/2uFS9ieoGREkFCrasbGsCx"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comalies XX",
-        "url": "https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 212826,
-      "name": "Swamped XX",
-      "url": "https://open.spotify.com/track/2GwbIA9hZvw1IthidzIGY6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Delirium",
         "url": "https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 236266,
       "name": "My Demons",
       "url": "https://open.spotify.com/track/31B9r2N9vAqhHciZanfucd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comalies XX",
+        "url": "https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 212826,
+      "name": "Swamped XX",
+      "url": "https://open.spotify.com/track/2GwbIA9hZvw1IthidzIGY6"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comalies XX",
-        "url": "https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD"
+        "name": "Comalies",
+        "url": "https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 247666,
-      "name": "Heaven's a Lie XX",
-      "url": "https://open.spotify.com/track/01nUJmvJIplZ7bes2IjqAo"
+      "duration_ms": 255200,
+      "name": "Tight Rope",
+      "url": "https://open.spotify.com/track/4ELHk26fjscfQpmKHV0gLe"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comalies",
-        "url": "https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN"
+        "name": "Comalies XX",
+        "url": "https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 255200,
-      "name": "Tight Rope",
-      "url": "https://open.spotify.com/track/4ELHk26fjscfQpmKHV0gLe"
+      "duration_ms": 247666,
+      "name": "Heaven's a Lie XX",
+      "url": "https://open.spotify.com/track/01nUJmvJIplZ7bes2IjqAo"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
       "duration_ms": 317191,
       "name": "The House of Shame",
       "url": "https://open.spotify.com/track/3mEExxNbWKdTJImI7KTvU0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comalies",
+        "url": "https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 211973,
+      "name": "Self Deception",
+      "url": "https://open.spotify.com/track/4Q6f9HqFcXzWQtHyvhVOLA"
     },
     {
       "added_at": null,
@@ -723,22 +739,6 @@
       "duration_ms": 222466,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/1CxtFFOZHWMR6oiG3GbIiq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Comalies",
-        "url": "https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 211973,
-      "name": "Self Deception",
-      "url": "https://open.spotify.com/track/4Q6f9HqFcXzWQtHyvhVOLA"
     },
     {
       "added_at": null,

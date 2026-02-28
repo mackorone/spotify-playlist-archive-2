@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 
 > Music from "THE IDOLM@STER SHINY COLORS"\. THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,925 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,928 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 | 42 | [夢見鳥](https://open.spotify.com/track/4LBl0NObinFBwEDPIGIoRq) | [樋口円香 \(CV.土屋李央\)](https://open.spotify.com/artist/2XsekAf4dYPXvrQ363TH15) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS \-Stella\-](https://open.spotify.com/album/4LNCaJ2SQh27tRtaZGzmT9) | 4:21 |
 | 43 | [有彩色ユリイカ](https://open.spotify.com/track/18VfDvyJM0x0neY4ldeaiK) | [アンティーカ](https://open.spotify.com/artist/67qSRMNHBKQHbPed5y3qMz) | [THE IDOLM@STER SHINY COLORS "CANVAS" 02](https://open.spotify.com/album/2GJ9WsBpkibxIe8vMKI4Yr) | 4:49 |
 | 44 | [Catch the Breeze](https://open.spotify.com/track/2QDUrXSkpk7AZID6uc8Ekp) | [ノクチル](https://open.spotify.com/artist/2mEuo2oqjiInFkBJUOfsSc) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 07](https://open.spotify.com/album/4WwTB9xJxqOqAS6kmMyqtz) | 4:02 |
-| 45 | [Forward March!!!](https://open.spotify.com/track/6aA13qFJgbuL1vG006gEvl) | [イルミネーションスターズ](https://open.spotify.com/artist/3yKaJ0XB0Wikqntdst6vld) | [THE IDOLM@STER SHINY COLORS "CANVAS" 01](https://open.spotify.com/album/6sAK3pEDDuGfgUmQR1op0w) | 5:19 |
+| 45 | [SOS](https://open.spotify.com/track/7MYtESHP0QTH6bE1E0RXtw) | [黛 冬優子 \(CV.幸村恵理\)](https://open.spotify.com/artist/4LkBDLtM2IWNQuzIfm9wF0) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 4:01 |
 | 46 | [Overdrive Emotion](https://open.spotify.com/track/4QS85NG0Sq6kMSJZUZdnvW) | [ストレイライト](https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 06](https://open.spotify.com/album/40jerhrEfhhYjWUh9AA4EU) | 3:36 |
-| 47 | [SOS](https://open.spotify.com/track/7MYtESHP0QTH6bE1E0RXtw) | [黛 冬優子 \(CV.幸村恵理\)](https://open.spotify.com/artist/4LkBDLtM2IWNQuzIfm9wF0) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 4:01 |
+| 47 | [Forward March!!!](https://open.spotify.com/track/6aA13qFJgbuL1vG006gEvl) | [イルミネーションスターズ](https://open.spotify.com/artist/3yKaJ0XB0Wikqntdst6vld) | [THE IDOLM@STER SHINY COLORS "CANVAS" 01](https://open.spotify.com/album/6sAK3pEDDuGfgUmQR1op0w) | 5:19 |
 | 48 | [Fashionable](https://open.spotify.com/track/79XqCpFNN065CQUDv32c7T) | [シーズ](https://open.spotify.com/artist/7HgWJK409CdFnu3OaK0NWZ) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 08](https://open.spotify.com/album/4fifEAU2mSmSaEXKccsjRF) | 4:03 |
 | 49 | [僕らだけの未来の空](https://open.spotify.com/track/4PLZYL3uBFJxfVuZqVUAAf) | [ノクチル](https://open.spotify.com/artist/2mEuo2oqjiInFkBJUOfsSc) | [THE IDOLM@STER SHINY COLORS L@YERED WING 07](https://open.spotify.com/album/4bRs74VKNeAnUu0lUcT4nJ) | 3:36 |
-| 50 | [平行線の美学](https://open.spotify.com/track/7JMVCpnVVjNsxGHgQKco4j) | [コメティック](https://open.spotify.com/artist/48UrAAuut2mSFi2k9KmV1c) | [THE IDOLM@STER SHINY COLORS "CANVAS" 08](https://open.spotify.com/album/1yHDHmI9GOKVa15ye4sYk8) | 3:35 |
+| 50 | [We can go now!](https://open.spotify.com/track/11BYRDBsnSUInB5mxkxoEg) | [イルミネーションスターズ](https://open.spotify.com/artist/2Ly8tGTt2wjAOWmXpVfRqS) | [THE IDOLM@STER SHINY COLORS FR@GMENT WING 02](https://open.spotify.com/album/1GZo9sFK2v23lzAWDVKhLi) | 3:44 |
 
 Snapshot ID: `AAAAAIOKJutxmc6qAnd4go8010BWxhOz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEdamGPOi1T.md) - [plain]
 
 > De la vitamine D en musique!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,807 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,805 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEdamGPOi1T.md) - [plain]
 | 26 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 |
 | 27 | [Ciel](https://open.spotify.com/track/0hZXdVHvyIpCjGZ1JXTHUT) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Ciel](https://open.spotify.com/album/5WwJNEopJyLHy4bD1YjDK2) | 2:34 |
 | 28 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
-| 29 | [What Do You Mean?](https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:25 |
+| 29 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 |
 | 30 | [Avec classe \(feat\. Aya Nakamura & Trinix\)](https://open.spotify.com/track/2RqZ8JUBXP4C0nzttGnTL1) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Avec classe \(feat\. Aya Nakamura & Trinix\)](https://open.spotify.com/album/2PeOwsFqU4M5IabYcuMnAL) | 3:06 |
-| 31 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 |
+| 31 | [What Do You Mean?](https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:25 |
 | 32 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 33 | [Mok ya mok](https://open.spotify.com/track/2yQn0Y5mODyHfCk4oxBPfr) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Khadija El Warzazia](https://open.spotify.com/artist/2ygf9jdzulwgls2Gx1jTdm) | [Mok ya mok](https://open.spotify.com/album/6bf0QljuZqYPriKjVQtwG7) | 2:38 |
 | 34 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 5:01 |

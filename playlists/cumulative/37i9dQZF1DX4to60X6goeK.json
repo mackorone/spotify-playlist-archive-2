@@ -321,6 +321,28 @@
     },
     {
       "album": {
+        "name": "Axiom / Intuition",
+        "url": "https://open.spotify.com/album/34WMLUUQVe28cku9U7rRO4"
+      },
+      "artists": [
+        {
+          "name": "Simula",
+          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
+        },
+        {
+          "name": "Kasra",
+          "url": "https://open.spotify.com/artist/3W1ubrHvNSMltB1l7zo6xt"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267586,
+      "name": "Axiom",
+      "url": "https://open.spotify.com/track/0mfWwsSnGt4mED2vz3CBUB"
+    },
+    {
+      "album": {
         "name": "Back to Basics",
         "url": "https://open.spotify.com/album/11Vqc7F8hz7ct9ZuoLwW4w"
       },
@@ -555,6 +577,24 @@
     },
     {
       "album": {
+        "name": "Blindspot / Impact Response",
+        "url": "https://open.spotify.com/album/6HaImXzg6TPyW18gbhF5KB"
+      },
+      "artists": [
+        {
+          "name": "Formula",
+          "url": "https://open.spotify.com/artist/6GkcKgyIKaZxmZGcKdJDxL"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200344,
+      "name": "Blindspot",
+      "url": "https://open.spotify.com/track/2oiGdzswferiaVunkD2C62"
+    },
+    {
+      "album": {
         "name": "BODY DROP (Won't Stop)",
         "url": "https://open.spotify.com/album/02YJzamF4j3mvuxsKHaq5A"
       },
@@ -618,7 +658,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 288052,
       "name": "Bomb Squad - Bou Remix",
       "url": "https://open.spotify.com/track/6jGU17l4TnPAB3I97tCdD3"
@@ -1064,6 +1104,36 @@
       "duration_ms": 224775,
       "name": "Chant",
       "url": "https://open.spotify.com/track/65SsbtgsqPYv1p4Rq93fC9"
+    },
+    {
+      "album": {
+        "name": "DAY ONE (Edits)",
+        "url": "https://open.spotify.com/album/5jG7UTE2ugocI8hbKXejuT"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        },
+        {
+          "name": "Jamakabi",
+          "url": "https://open.spotify.com/artist/0kUmhavjjgQdru7TRPlLAC"
+        },
+        {
+          "name": "Rendah",
+          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211885,
+      "name": "CHARGIE - Rendah Edit",
+      "url": "https://open.spotify.com/track/4IEoKCEWcLCwsIhW2d3mxA"
     },
     {
       "album": {
@@ -1678,7 +1748,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 201517,
       "name": "Deserted",
       "url": "https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96"
@@ -1700,6 +1770,32 @@
       "duration_ms": 266409,
       "name": "Dispatch",
       "url": "https://open.spotify.com/track/6AYPPVdMJGLLxpBMIFgUWL"
+    },
+    {
+      "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/4lsEQ1SI8FHR0bq7wNdjqO"
+      },
+      "artists": [
+        {
+          "name": "Georgie Riot",
+          "url": "https://open.spotify.com/artist/658we9fIJkrorlUIcDzsHi"
+        },
+        {
+          "name": "FREEMXN",
+          "url": "https://open.spotify.com/artist/3L92Rpz4UtsYPmfGt50nX4"
+        },
+        {
+          "name": "Ekstatic",
+          "url": "https://open.spotify.com/artist/1VQbUvRt7zz4zzLGD3vrMD"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225441,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/2XlXBaDlXTdbdezkBDdZvB"
     },
     {
       "album": {
@@ -1838,7 +1934,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-03",
+      "date_removed": null,
       "duration_ms": 189767,
       "name": "Dopamine Hits",
       "url": "https://open.spotify.com/track/2QNhQiUiQcqjqv1AXYDCBZ"
@@ -1954,7 +2050,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 191724,
       "name": "Empire",
       "url": "https://open.spotify.com/track/1zJnBEBuLD42Ypoaum6BOu"
@@ -2325,6 +2421,28 @@
     },
     {
       "album": {
+        "name": "Game Face",
+        "url": "https://open.spotify.com/album/3nEwNr3zL9a28WlXqpq8sW"
+      },
+      "artists": [
+        {
+          "name": "Blossom",
+          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173793,
+      "name": "Game Face",
+      "url": "https://open.spotify.com/track/6kgXd7RL5jxU0BRk4C96yc"
+    },
+    {
+      "album": {
         "name": "Gas",
         "url": "https://open.spotify.com/album/3X9a2fO7SiOsTxzXpOG98S"
       },
@@ -2454,7 +2572,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 267586,
       "name": "Go Hard",
       "url": "https://open.spotify.com/track/5wzjPaLjmAshBs0oT4SOaQ"
@@ -2892,7 +3010,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 123428,
       "name": "Ice Cold",
       "url": "https://open.spotify.com/track/1WvguFKnrnscdMG0JISkWX"
@@ -3534,7 +3652,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 221479,
       "name": "Light It Up",
       "url": "https://open.spotify.com/track/6eWgNJspumvHtUmx8pQlFM"
@@ -3699,6 +3817,24 @@
     },
     {
       "album": {
+        "name": "Lock Arf / Shotta",
+        "url": "https://open.spotify.com/album/4ZJpFbGOdEJtyrmkMDsFoB"
+      },
+      "artists": [
+        {
+          "name": "Disrupta",
+          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191034,
+      "name": "Lock Arf",
+      "url": "https://open.spotify.com/track/4zodu1dcPL0YSLgxQOHxTQ"
+    },
+    {
+      "album": {
         "name": "Lock off the Rave",
         "url": "https://open.spotify.com/album/4QyCaxCa2RbF8sMCzkYz9R"
       },
@@ -3790,7 +3926,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 222069,
       "name": "LOUDER",
       "url": "https://open.spotify.com/track/6yWCx32ltE7Kcoq6k4hJqX"
@@ -4076,7 +4212,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 128279,
       "name": "Mosh Pit",
       "url": "https://open.spotify.com/track/7ub3gsFkHrnkS38HOTyATJ"
@@ -4208,7 +4344,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 263314,
       "name": "Nan Slapper",
       "url": "https://open.spotify.com/track/3119sJaLXEShGT5e8frnMj"
@@ -4506,7 +4642,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 153600,
       "name": "Out & About",
       "url": "https://open.spotify.com/track/7ugaJNi3rhiiK9zKLd6l4j"
@@ -4904,7 +5040,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-21",
+      "date_removed": null,
       "duration_ms": 167314,
       "name": "PURPOSE",
       "url": "https://open.spotify.com/track/35mele207P8xoKXOsTh52L"
@@ -5340,7 +5476,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 135085,
       "name": "Run (Part 1)",
       "url": "https://open.spotify.com/track/4YWZse32ILPANRnB9EVyIm"
@@ -5872,6 +6008,28 @@
       "duration_ms": 253793,
       "name": "Staying Up Late Making Music",
       "url": "https://open.spotify.com/track/1vtnJhymEYOqmJ3zYHOUnd"
+    },
+    {
+      "album": {
+        "name": "Step Back",
+        "url": "https://open.spotify.com/album/4D443YrT0kpFSJzHFkMdfo"
+      },
+      "artists": [
+        {
+          "name": "Mefjus",
+          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
+        },
+        {
+          "name": "Break",
+          "url": "https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203720,
+      "name": "Step Back (Break Remix)",
+      "url": "https://open.spotify.com/track/40GDOmJfjUvX17B9UMlEF9"
     },
     {
       "album": {
@@ -6832,7 +6990,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 246900,
       "name": "Warning",
       "url": "https://open.spotify.com/track/7qrr39Qj9OhpT23JTnS0Wd"
@@ -7092,7 +7250,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 203142,
       "name": "You Had It - Sub Zero & Burntboi Remix",
       "url": "https://open.spotify.com/track/5DWdOBDdJNDRvVM4duGVor"

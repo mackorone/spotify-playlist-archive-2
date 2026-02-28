@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Australia.
 
-2,531 songs - 5 day 15 hr 18 min
+2,532 songs - 5 day 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1620,6 +1620,7 @@
 | [Oh My Angel](https://open.spotify.com/track/021LdJsjuCHyLbtAA33Vbf) | [Bertha Tillman](https://open.spotify.com/artist/4aBSbKk01HYWR964gGyLg9) | [Presenting Bertha Tillman](https://open.spotify.com/album/2ITTUdZCFYz2oDvg2f75EU) | 2:22 | 2025-03-03 | 2025-03-05 |
 | [Oh My Angel](https://open.spotify.com/track/6WGFdJ3lRB7e0VDNEzpiAh) | [Bertha Tillman](https://open.spotify.com/artist/4aBSbKk01HYWR964gGyLg9) | [Goodies Old Is New: Come Dance With Me](https://open.spotify.com/album/7bYagScdp86OZmxJZOxIXy) | 2:22 | 2025-03-02 | 2025-03-04 |
 | [Oh No :: He Said What?](https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Oh No :: He Said What?](https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO) | 3:48 | 2024-02-13 | 2024-02-29 |
+| [Oh Qué Será?](https://open.spotify.com/track/2n1MTLCis6qPSDKdr5XSDI) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Greatest Hits](https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ) | 5:04 | 2026-02-27 |  |
 | [Ohnana](https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Ohnana](https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo) | 2:36 | 2024-08-23 | 2024-09-11 |
 | [OIL MONEY](https://open.spotify.com/track/1HZECMqLKSh22jwPv3yRYm) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [OIL MONEY](https://open.spotify.com/album/75bYoZnWWvzPWIQgTDuSFx) | 2:58 | 2025-03-04 | 2025-03-08 |
 | [Ojos Tristes \(with The Marías\)](https://open.spotify.com/track/1DpC4L3JjsGRW7y6eTHaMj) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [I Said I Love You First](https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC) | 3:21 | 2025-04-08 | 2025-04-22 |
@@ -1640,7 +1641,7 @@
 | [One Take Freestyle](https://open.spotify.com/track/7x5CvENf43u875TNrtqT1h) | [1900Rugrat](https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5) | [One Take Freestyle](https://open.spotify.com/album/1OZvPNe13vwyc0Cj732Vt2) | 2:59 | 2024-11-01 | 2024-11-24 |
 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 | 2025-06-03 | 2025-06-27 |
 | [One Wish \(feat\. Childish Gambino\)](https://open.spotify.com/track/4jaNeCjRjTCekyaErvjnRX) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:15 | 2024-08-13 | 2024-08-21 |
-| [Only You \(with Burna Boy\)](https://open.spotify.com/track/0nn0Z1o1WI01pB7oEPiJeE) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 4:46 | 2026-02-24 |  |
+| [Only You \(with Burna Boy\)](https://open.spotify.com/track/0nn0Z1o1WI01pB7oEPiJeE) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 4:46 | 2026-02-24 | 2026-02-28 |
 | [Opalite](https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:55 | 2025-10-21 | 2026-02-16 |
 | [Options](https://open.spotify.com/track/5CKp1RqaCeUYDGqo14KMfU) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Options](https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04) | 2:49 | 2025-03-25 | 2025-04-09 |
 | [Or What](https://open.spotify.com/track/0CFhbNsY7CsuSkBQOiLPzz) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [SLUT SZN](https://open.spotify.com/album/1oA2UN6nt7jhEuVtiCeCke) | 3:19 | 2024-10-02 | 2024-10-24 |

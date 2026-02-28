@@ -6,8 +6,48 @@
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFAdYVNE2f8q52R+fKRySxdIvMPnLs",
+  "snapshot_id": "AAAFAxj4pJN2Qa96Z7ek86YICIULQ+9y",
   "tracks": [
+    {
+      "added_at": "2026-02-27 05:02:31",
+      "album": {
+        "name": "PTSU",
+        "url": "https://open.spotify.com/album/6bLBHHxW6BQAax5GI30TwB"
+      },
+      "artists": [
+        {
+          "name": "Jaylaflame",
+          "url": "https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U"
+        },
+        {
+          "name": "Shwabadi",
+          "url": "https://open.spotify.com/artist/7CCLirH6tIf750hgYn1Y4X"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "PTSU",
+      "url": "https://open.spotify.com/track/2GCFtDFjaIHq7eKZKTZ4eU"
+    },
+    {
+      "added_at": "2026-02-27 05:02:31",
+      "album": {
+        "name": "PTSU",
+        "url": "https://open.spotify.com/album/6bLBHHxW6BQAax5GI30TwB"
+      },
+      "artists": [
+        {
+          "name": "Jaylaflame",
+          "url": "https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U"
+        },
+        {
+          "name": "ghostsocial",
+          "url": "https://open.spotify.com/artist/6ex1miCpb3Krg4TYoG4yAN"
+        }
+      ],
+      "duration_ms": 120853,
+      "name": "bleed4U!",
+      "url": "https://open.spotify.com/track/16MDyTBpMFLlV45nc4xpqv"
+    },
     {
       "added_at": "2026-02-26 23:31:20",
       "album": {

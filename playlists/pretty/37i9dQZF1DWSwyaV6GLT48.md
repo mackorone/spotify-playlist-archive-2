@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwyaV6GLT48.md) - [plain]
 
 > sunny days, happy people
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,809 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,815 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,14 +42,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwyaV6GLT48.md) - [plain]
 | 32 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
 | 33 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 |
 | 34 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 |
-| 35 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 |
-| 36 | [Pain](https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:38 |
+| 35 | [Pain](https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:38 |
+| 36 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 |
 | 37 | [Riptide](https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:24 |
 | 38 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
 | 39 | [Stolen Dance](https://open.spotify.com/track/34xGLuxM0rkxhCVyMSqwJO) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/1iCwsK0jUzBPQx7XEpumbz) | 5:13 |
 | 40 | [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:23 |
-| 41 | [Everybody Talks](https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Picture Show](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) | 2:57 |
-| 42 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
+| 41 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
+| 42 | [Everybody Talks](https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Picture Show](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) | 2:57 |
 | 43 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
 | 44 | [Electric Love](https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:38 |
 | 45 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 |

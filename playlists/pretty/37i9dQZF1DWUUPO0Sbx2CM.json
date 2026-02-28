@@ -1,6 +1,6 @@
 {
   "description": "Discover a mix of faith and fun with these EDM, Pop, Hip Hop, Worship, and remixed songs!",
-  "num_followers": 233811,
+  "num_followers": 233830,
   "original_name": "Christian Party",
   "owner": {
     "name": "Spotify",
@@ -815,18 +815,18 @@
     {
       "added_at": "2025-12-12 22:33:09",
       "album": {
-        "name": "Covered",
-        "url": "https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D"
+        "name": "RHYTHM",
+        "url": "https://open.spotify.com/album/0ErAtlzxtHJ3laGBFlbsLZ"
       },
       "artists": [
         {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+          "name": "Shepherd",
+          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
         }
       ],
-      "duration_ms": 196987,
-      "name": "Covered",
-      "url": "https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb"
+      "duration_ms": 120023,
+      "name": "RHYTHM",
+      "url": "https://open.spotify.com/track/3uZR2lTKQHc9CRdjptdXkA"
     },
     {
       "added_at": "2025-12-12 22:33:09",
@@ -851,18 +851,18 @@
     {
       "added_at": "2025-12-12 22:33:09",
       "album": {
-        "name": "RHYTHM",
-        "url": "https://open.spotify.com/album/0ErAtlzxtHJ3laGBFlbsLZ"
+        "name": "Covered",
+        "url": "https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D"
       },
       "artists": [
         {
-          "name": "Shepherd",
-          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
         }
       ],
-      "duration_ms": 120023,
-      "name": "RHYTHM",
-      "url": "https://open.spotify.com/track/3uZR2lTKQHc9CRdjptdXkA"
+      "duration_ms": 196987,
+      "name": "Covered",
+      "url": "https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb"
     },
     {
       "added_at": "2025-12-12 22:33:09",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-12-12 22:33:09",
       "album": {
-        "name": "Start Right Now",
-        "url": "https://open.spotify.com/album/0DPOGBL5n3QYfrBufbvnK8"
-      },
-      "artists": [
-        {
-          "name": "Run51",
-          "url": "https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10"
-        }
-      ],
-      "duration_ms": 192876,
-      "name": "Start Right Now",
-      "url": "https://open.spotify.com/track/6WT10ADn9Y5pUgNvSJQclM"
-    },
-    {
-      "added_at": "2025-12-12 22:33:09",
-      "album": {
         "name": "I AM",
         "url": "https://open.spotify.com/album/0wiIzRzhsidJL1k4dWFS7w"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 202083,
       "name": "I AM",
       "url": "https://open.spotify.com/track/0sUPsWMFICkSCbWL2WCzxi"
+    },
+    {
+      "added_at": "2025-12-12 22:33:09",
+      "album": {
+        "name": "Start Right Now",
+        "url": "https://open.spotify.com/album/0DPOGBL5n3QYfrBufbvnK8"
+      },
+      "artists": [
+        {
+          "name": "Run51",
+          "url": "https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10"
+        }
+      ],
+      "duration_ms": 192876,
+      "name": "Start Right Now",
+      "url": "https://open.spotify.com/track/6WT10ADn9Y5pUgNvSJQclM"
     },
     {
       "added_at": "2025-12-12 22:33:09",
@@ -1319,30 +1319,6 @@
     {
       "added_at": "2025-12-12 22:33:09",
       "album": {
-        "name": "SHOUT IT DOWN",
-        "url": "https://open.spotify.com/album/2ErBak2iJlBGMNbi8SqMZR"
-      },
-      "artists": [
-        {
-          "name": "Citizen Way",
-          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
-        },
-        {
-          "name": "Mitch Langley",
-          "url": "https://open.spotify.com/artist/3LtLqBXTdKiroUNFlqZLOM"
-        },
-        {
-          "name": "Jasmine Murray",
-          "url": "https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR"
-        }
-      ],
-      "duration_ms": 178983,
-      "name": "SHOUT IT DOWN",
-      "url": "https://open.spotify.com/track/3xDT4ljzdcbs9OdJbQ3gcB"
-    },
-    {
-      "added_at": "2025-12-12 22:33:09",
-      "album": {
         "name": "Without Your Love",
         "url": "https://open.spotify.com/album/6BuV4qg8WtUZ5Zqr8rx2wC"
       },
@@ -1379,6 +1355,30 @@
     {
       "added_at": "2025-12-12 22:33:09",
       "album": {
+        "name": "SHOUT IT DOWN",
+        "url": "https://open.spotify.com/album/2ErBak2iJlBGMNbi8SqMZR"
+      },
+      "artists": [
+        {
+          "name": "Citizen Way",
+          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
+        },
+        {
+          "name": "Mitch Langley",
+          "url": "https://open.spotify.com/artist/3LtLqBXTdKiroUNFlqZLOM"
+        },
+        {
+          "name": "Jasmine Murray",
+          "url": "https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR"
+        }
+      ],
+      "duration_ms": 178983,
+      "name": "SHOUT IT DOWN",
+      "url": "https://open.spotify.com/track/3xDT4ljzdcbs9OdJbQ3gcB"
+    },
+    {
+      "added_at": "2025-12-12 22:33:09",
+      "album": {
         "name": "Hold Me Down",
         "url": "https://open.spotify.com/album/7FyWFjrhwLE07TfheKpZmm"
       },
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2025-12-12 22:33:09",
       "album": {
+        "name": "Only You Can Do It",
+        "url": "https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1"
+      },
+      "artists": [
+        {
+          "name": "Chris August",
+          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
+        }
+      ],
+      "duration_ms": 140347,
+      "name": "Only You Can Do It",
+      "url": "https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88"
+    },
+    {
+      "added_at": "2025-12-12 22:33:09",
+      "album": {
         "name": "Your Love Never Fails",
         "url": "https://open.spotify.com/album/3JjSVPr5nvJhIfQj6TF5TY"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 153000,
       "name": "Your Love Never Fails",
       "url": "https://open.spotify.com/track/0okgfcFPwNNDOWj3PTmnaI"
-    },
-    {
-      "added_at": "2025-12-12 22:33:09",
-      "album": {
-        "name": "Only You Can Do It",
-        "url": "https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1"
-      },
-      "artists": [
-        {
-          "name": "Chris August",
-          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
-        }
-      ],
-      "duration_ms": 140347,
-      "name": "Only You Can Do It",
-      "url": "https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88"
     },
     {
       "added_at": "2025-12-12 22:33:09",
@@ -1643,6 +1643,26 @@
     {
       "added_at": "2025-12-12 22:33:09",
       "album": {
+        "name": "In My Zone",
+        "url": "https://open.spotify.com/album/0kpnfftFRQQ0DXlrAcLff6"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        },
+        {
+          "name": "GIDI",
+          "url": "https://open.spotify.com/artist/4jpyLwY88iZc65WHKxderI"
+        }
+      ],
+      "duration_ms": 150508,
+      "name": "In My Zone",
+      "url": "https://open.spotify.com/track/1BeC7mJTnAkn2zYjG9T8KM"
+    },
+    {
+      "added_at": "2025-12-12 22:33:09",
+      "album": {
         "name": "For the Beauty of the Earth",
         "url": "https://open.spotify.com/album/2mdPjnmOTECU1KlRLk3Rsz"
       },
@@ -1667,22 +1687,18 @@
     {
       "added_at": "2025-12-12 22:33:09",
       "album": {
-        "name": "In My Zone",
-        "url": "https://open.spotify.com/album/0kpnfftFRQQ0DXlrAcLff6"
+        "name": "Keep In Step (Live)",
+        "url": "https://open.spotify.com/album/3Nr38C2V90IH9kUG9ieK24"
       },
       "artists": [
         {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
-        },
-        {
-          "name": "GIDI",
-          "url": "https://open.spotify.com/artist/4jpyLwY88iZc65WHKxderI"
+          "name": "Dreamers",
+          "url": "https://open.spotify.com/artist/4LW8svP1k62JqCoU4Esw51"
         }
       ],
-      "duration_ms": 150508,
-      "name": "In My Zone",
-      "url": "https://open.spotify.com/track/1BeC7mJTnAkn2zYjG9T8KM"
+      "duration_ms": 243509,
+      "name": "Keep In Step - Live",
+      "url": "https://open.spotify.com/track/1sGVoxezS8GxpH3caseKg2"
     },
     {
       "added_at": "2025-12-12 22:33:09",
@@ -1703,22 +1719,6 @@
       "duration_ms": 161000,
       "name": "Just Watch",
       "url": "https://open.spotify.com/track/6AENZlyGRmIY9GdXeHKRuX"
-    },
-    {
-      "added_at": "2025-12-12 22:33:09",
-      "album": {
-        "name": "Keep In Step (Live)",
-        "url": "https://open.spotify.com/album/3Nr38C2V90IH9kUG9ieK24"
-      },
-      "artists": [
-        {
-          "name": "Dreamers",
-          "url": "https://open.spotify.com/artist/4LW8svP1k62JqCoU4Esw51"
-        }
-      ],
-      "duration_ms": 243509,
-      "name": "Keep In Step - Live",
-      "url": "https://open.spotify.com/track/1sGVoxezS8GxpH3caseKg2"
     },
     {
       "added_at": "2025-12-12 22:33:09",
@@ -1867,26 +1867,18 @@
     {
       "added_at": "2025-12-12 22:33:09",
       "album": {
-        "name": "Purpose (Bello VIP Remix)",
-        "url": "https://open.spotify.com/album/3ghTPMHOwOdmpGmIzn1EkV"
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/4xOxYOkrefDfXuOVenXPIl"
       },
       "artists": [
         {
-          "name": "Ted Bello",
-          "url": "https://open.spotify.com/artist/5fKt7gTTVm6LXTifbnl7lQ"
-        },
-        {
-          "name": "Robbie Rosen",
-          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
-        },
-        {
-          "name": "The Bello Boys",
-          "url": "https://open.spotify.com/artist/4UfCuhx9DluRtDvaJpcCgw"
+          "name": "Caz",
+          "url": "https://open.spotify.com/artist/4BC0mFwxuHdoumvM6sxLDu"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Purpose - Bello VIP Remix",
-      "url": "https://open.spotify.com/track/3YjPNrPP2liXEQ2ziBqXEn"
+      "duration_ms": 200931,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/1g1gGNiGpQ8Oc83C3W6Wuq"
     }
   ],
   "unique_name": "Christian Party",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 
 > La banda sonora para tus cenas en casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,659 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,651 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 | 62 | [Sweet Pea](https://open.spotify.com/track/4KqBoq7MoDJeVsvUHTjXCM) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Supply And Demand](https://open.spotify.com/album/7zAMTPQbo4MM4trmSpvsNo) | 2:09 |
 | 63 | [\(Getting Some\) Fun out of Life](https://open.spotify.com/track/1WWVlkmJSdLBSiqF2m8Ex2) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Dreamland](https://open.spotify.com/album/4DE9KRgAibQ5ZnmDtuGJNB) | 3:12 |
 | 64 | [Love's a Stranger](https://open.spotify.com/track/279LczresTWVkCsdLwgJSZ) | [Warhaus](https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m) | [Warhaus](https://open.spotify.com/album/0v7z6pf34VKMECP0Bmbxi3) | 3:26 |
-| 65 | [Golden Cage](https://open.spotify.com/track/4Pz7iN649aBn2TwcxBRF8Z) | [The Whitest Boy Alive](https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV) | [Dreams](https://open.spotify.com/album/0ajuOfBlVf6XlnaZAYUVBf) | 4:02 |
-| 66 | [I Don't Care \- Acoustic](https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [I Don't Care \(Acoustic\)](https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X) | 3:58 |
+| 65 | [I Don't Care \- Acoustic](https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [I Don't Care \(Acoustic\)](https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X) | 3:58 |
+| 66 | [Golden Cage](https://open.spotify.com/track/4Pz7iN649aBn2TwcxBRF8Z) | [The Whitest Boy Alive](https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV) | [Dreams](https://open.spotify.com/album/0ajuOfBlVf6XlnaZAYUVBf) | 4:02 |
 | 67 | [Desafinado](https://open.spotify.com/track/2tcfbkABIwzpepPyaFsYF4) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 4:08 |
 | 68 | [All of Me](https://open.spotify.com/track/4zGap9GhyeMN1QleAmvR1F) | [Nara](https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81), [Bossa Bros](https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V) | [Bossa Covers](https://open.spotify.com/album/4PqKilSesJz6BjuccmQNye) | 4:10 |
 | 69 | [Tous les garçons et les filles \- Stereo Mix](https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Tous les garçons et les filles](https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2) | 3:07 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 | 83 | [C’est Magnifique](https://open.spotify.com/track/1pd6iv2ZyzhdCdwvkLbjMM) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [António Zambujo](https://open.spotify.com/artist/72G65J87dqMi39O00Du2Je) | [Sunset In The Blue](https://open.spotify.com/album/62BGIK3e3p3erTEJkaHjfq) | 4:52 |
 | 84 | [Volver](https://open.spotify.com/track/1uhQ3H3TSDX9Bq9Oz6uHWV) | [Estrella Morente](https://open.spotify.com/artist/5gKJbL392PiokTPUoL7N6D) | [Mujeres](https://open.spotify.com/album/5oE1VEtOYkkJJiRkZ7KbgB) | 3:37 |
 | 85 | [Lágrimas negras](https://open.spotify.com/track/2G6bY2enGuwmluoAAMQ0mj) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Coleccion](https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp) | 3:47 |
-| 86 | [Dance Me To The End Of Love](https://open.spotify.com/track/5ztIul377mylwHJkCnIWbn) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV), [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Careless Love](https://open.spotify.com/album/5Abc3wXAy8U1f79eVn7AGd) | 3:55 |
-| 87 | [Get Lucky \- Acoustic](https://open.spotify.com/track/2aXBORgLuv2czaJVyeLOl7) | [Linn Brikell](https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu) | [Get Lucky \(Acoustic\)](https://open.spotify.com/album/7kqflmHaXiCRFSF6gd7wwW) | 3:08 |
+| 86 | [Get Lucky \- Acoustic](https://open.spotify.com/track/2aXBORgLuv2czaJVyeLOl7) | [Linn Brikell](https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu) | [Get Lucky \(Acoustic\)](https://open.spotify.com/album/7kqflmHaXiCRFSF6gd7wwW) | 3:08 |
+| 87 | [Dance Me To The End Of Love](https://open.spotify.com/track/5ztIul377mylwHJkCnIWbn) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV), [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Careless Love](https://open.spotify.com/album/5Abc3wXAy8U1f79eVn7AGd) | 3:55 |
 | 88 | [Girls Just Wanna Have Fun \- Acoustic](https://open.spotify.com/track/7rohDMzsbmSmol7sIZs0Px) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/1WJCyViZxB0GWgvZicSxKY) | 2:52 |
 | 89 | [Somewhere Over The Rainbow \- Bossa Version](https://open.spotify.com/track/0n2I6f8lJ1BY0vNWPwOA8K) | [Olga Chung](https://open.spotify.com/artist/6UUbraIaaBKQGCZoSOmn0S) | [Bossa Nova Lounge](https://open.spotify.com/album/2towbkhxHCPKLsyQuealHv) | 3:24 |
 | 90 | [Leaveyourlove \(with MARO\)](https://open.spotify.com/track/5io7Rv6WxpvkqCRreCvXGc) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Leaveyourlove \(with MARO\)](https://open.spotify.com/album/1uuLzCuVaBJlIgPYIwy7d9) | 3:34 |

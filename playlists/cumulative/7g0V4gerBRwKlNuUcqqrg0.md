@@ -4,7 +4,7 @@
 
 > Fijne muziek voor een rustige dag\. Doe lekker kalm aan met deze easy going liedjes van Olivia Dean, Lewis Capaldi, Royel Otis en meer
 
-153 songs - 8 hr 48 min
+154 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Have A Little Faith](https://open.spotify.com/track/6i4roOAXcuHWfmFuYFXZti) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Have A Little Faith](https://open.spotify.com/album/4jnLZptF0dYFDX05IOpLpF) | 2:58 | 2025-07-04 |  |
 | [Heaven \(Butterflies\)](https://open.spotify.com/track/5JYiABJyzqRedaTMLCr0kP) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Heaven \(Butterflies\)](https://open.spotify.com/album/1DiKwaSbeG0G4FXP3GQGb4) | 4:57 | 2025-10-10 |  |
 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 | 2025-07-04 |  |
+| [Honour](https://open.spotify.com/track/6slVYLrJprL3ayBNhSgd5r) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Honour / I Want In](https://open.spotify.com/album/4YryyvA3CCq7uNESscvIli) | 4:10 | 2026-02-27 |  |
 | [How Do I Feel](https://open.spotify.com/track/3EsjWjJBj1uRUHdRdwJc4U) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [How Do I Feel](https://open.spotify.com/album/02xxO3zXFAZezAzyuaLpVQ) | 2:46 | 2025-07-04 |  |
 | [Hurt Somebody](https://open.spotify.com/track/2Zg0aB5oVQlbQE1vzQmIIY) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 2:47 | 2025-07-04 | 2026-01-15 |
 | [I Believe in Love](https://open.spotify.com/track/0NLUDrObXdkRmZZjK3V7h3) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [TEN](https://open.spotify.com/album/3XsUZ5vWPSyUktmGIkglVe) | 2:53 | 2025-07-04 | 2026-02-18 |

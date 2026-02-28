@@ -4,7 +4,7 @@
 
 > Nieuw: Giegs, PLUGOXHUSH, Clep N Flyy, Venti, Joella T & Vensly en meer...
 
-437 songs - 18 hr 49 min
+437 songs - 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,7 +394,6 @@
 | [Top tot Teen](https://open.spotify.com/track/67QJTYjnMBq6d2JJ3lqZlT) | [Mardo4k](https://open.spotify.com/artist/6MnRvAN6qNUF4mnlfCh2ZS), [Lvv](https://open.spotify.com/artist/34yOrI1coazP2WRpRBPPfY) | [Top tot Teen](https://open.spotify.com/album/1Mcar4APScn0Lthhf8FTJr) | 2:23 | 2025-11-06 | 2025-12-12 |
 | [Toxic](https://open.spotify.com/track/3mBKRgw8M1OHdgwAslBC1o) | [Getit](https://open.spotify.com/artist/5Yc3rkj4Fs4slH5uGZaG8I) | [Toxic](https://open.spotify.com/album/2wfF5J2pyHe1E4FlArcD5m) | 2:51 | 2026-02-26 |  |
 | [TOXIC FIGHT](https://open.spotify.com/track/7abfIdlVR9lOV1PzsE3VjH) | [JLYONN](https://open.spotify.com/artist/3Sr8yFID3x8uvwq89Hg0z5), [Casso](https://open.spotify.com/artist/1yIaBf7VXDKcoIDGLoTMae) | [TOXIC FIGHT](https://open.spotify.com/album/572NkUumEViHVAeqK0SrvZ) | 2:43 | 2026-01-08 | 2026-02-13 |
-| [Track 2](https://open.spotify.com/track/0CLK3JHj0s6d3383D2DruJ) | [JAH](https://open.spotify.com/artist/5Mtx1K2I4k44IIlsCSf659) | [MISFIT](https://open.spotify.com/album/0HHRuXED5ILvl0hpcLMcX0) | 0:00 | 2026-02-26 |  |
 | [Tranen \(feat\. Zeno\)](https://open.spotify.com/track/6YJyBs1vCRxAz9Y0nXUS6h) | [Ares](https://open.spotify.com/artist/30WLe30YBfDFoIkJS0Tml9), [Zeno](https://open.spotify.com/artist/3DzZYAqD6HAy1XVai7Udb8) | [Andere Man](https://open.spotify.com/album/4F7HRc2bLbvOWKA2IoOisH) | 3:47 | 2026-01-29 | 2026-02-27 |
 | [Trap & Dance 12 \(Alors Bonne Chance\)](https://open.spotify.com/track/4nPtJJKJSvQFbA1gWA7k5l) | [PJ Scoolio](https://open.spotify.com/artist/2EozjqoLUKLQSnVAO90pyg), [AG BLAXX](https://open.spotify.com/artist/0BdZi6qH5GIysWupr5kTdo) | [Trap & Dance 12 \(Alors Bonne Chance\)](https://open.spotify.com/album/03m6YRml5ChR7AFkgsVDmA) | 2:50 | 2025-11-13 | 2026-01-15 |
 | [TRAUMA'S](https://open.spotify.com/track/47fkT2ghD7ZXLCQo46DxNF) | [SKO](https://open.spotify.com/artist/4dh374pyaeKLOTy5jnUcAS), [Ralla](https://open.spotify.com/artist/4mLMkl774zwxOVGWfCUxj6) | [TRAUMA'S](https://open.spotify.com/album/2YCdiHoQ40bhOFtQHQbAu3) | 2:14 | 2025-07-17 | 2025-08-15 |
@@ -422,6 +421,7 @@
 | [Voor m’n Ex](https://open.spotify.com/track/4q3M1kvgLjocIwmqxuQl0w) | [FARAO](https://open.spotify.com/artist/5Ckvy2QqS5gUPOiPzCaXSm), [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf) | [Voor m’n Ex](https://open.spotify.com/album/1E5nAcMK8fZ7EM9d1f7xhe) | 2:03 | 2025-11-06 | 2025-12-12 |
 | [Waardige Staar](https://open.spotify.com/track/5FISJUWXdZPN0kMjvJF9S7) | [SoulTrash](https://open.spotify.com/artist/0ZXn2h027Cg6lC1H2yw8ce), [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U), [MC Lost](https://open.spotify.com/artist/0wKvKYIS85frEadu4vyV0J), [T\. Milan](https://open.spotify.com/artist/7zcoS129j3lsU7kp4RPXMe) | [Waardige Staar](https://open.spotify.com/album/5tA5XCBwVeCJ1Ma9Wejn7I) | 3:17 | 2026-02-09 |  |
 | [Waarom Zou Ik Stressen ?](https://open.spotify.com/track/0niEfxzA2WsW5vbMJnKpYk) | [Madzz](https://open.spotify.com/artist/51HhLwdbSKDNQx7IPy44oV), [GS](https://open.spotify.com/artist/2KR13mWlgztgIek6BlS7hA) | [Waarom Zou Ik Stressen ?](https://open.spotify.com/album/3AXEjS2xngN5Ml8SIeynz9) | 2:16 | 2025-12-18 | 2026-01-23 |
+| [Wake up](https://open.spotify.com/track/0CLK3JHj0s6d3383D2DruJ) | [JAH](https://open.spotify.com/artist/5Mtx1K2I4k44IIlsCSf659) | [MISFIT](https://open.spotify.com/album/0HHRuXED5ILvl0hpcLMcX0) | 2:18 | 2026-02-26 |  |
 | [Wat ik voel](https://open.spotify.com/track/1ketT97Cie18kU6gH4iSHH) | [Alex Euro](https://open.spotify.com/artist/1btts0oj1pH2inP7TKYiLL), [Lienz](https://open.spotify.com/artist/11GMr695MGyabd8etqZQWz) | [Wat ik voel](https://open.spotify.com/album/6fe80xu2nNcIgjLPcI7Az1) | 2:32 | 2026-02-05 |  |
 | [Weg kwijt](https://open.spotify.com/track/63pY7lFL8PciCX6qA3GFuI) | [Matero](https://open.spotify.com/artist/3ZPajb37viy8ugZWkLg7li), [David Klein](https://open.spotify.com/artist/5IcNVpb9BiZWOIaqyYvYzk) | [Weg kwijt](https://open.spotify.com/album/7moKZ7HMD1P14mZQ8XOgrW) | 2:46 | 2025-10-31 | 2025-12-05 |
 | [Wegdek](https://open.spotify.com/track/6hnPXKpyqxBsOVvYSSWukT) | [B4RKIE](https://open.spotify.com/artist/2MQ6TLWN9FQ5OqnsB9HNXs) | [Wegdek](https://open.spotify.com/album/4vTVCDdvWZHwmD4dBZDa5A) | 2:45 | 2025-11-06 | 2025-12-12 |

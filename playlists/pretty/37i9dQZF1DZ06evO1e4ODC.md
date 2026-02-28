@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 
 > This is Jesús Adrián Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,739 likes - 48 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,754 likes - 48 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 | 47 | [Que Seas Mi Hogar \(feat\. Reyli Barba\)](https://open.spotify.com/track/1VzKKSoe86AmfWh0DJL1Yw) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Origen Y Esencia](https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS) | 3:28 |
 | 48 | [Ven, Te Necesito \- En Vivo](https://open.spotify.com/track/3osNQddwrMYWQ1bCvsew62) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Colección Duetos](https://open.spotify.com/album/0tflYRKYYx7KJScUmcYZ8u) | 6:09 |
 
-Snapshot ID: `aZ47gAAAAABr7KxSpDn10rby9e+slZ5S`
+Snapshot ID: `aZ+NAAAAAAC2iFQZzVL8tcjAETQ9G6Pz`

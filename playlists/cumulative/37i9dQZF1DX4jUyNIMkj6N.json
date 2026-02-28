@@ -582,7 +582,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 151139,
       "name": "anywhere",
       "url": "https://open.spotify.com/track/3UTw97nvn3xfPsB3RtbdWN"
@@ -4722,6 +4722,24 @@
       "duration_ms": 178645,
       "name": "Raining Over Fire",
       "url": "https://open.spotify.com/track/7Ivhfxnqx1n3eP5o5WManb"
+    },
+    {
+      "album": {
+        "name": "Vampire Country",
+        "url": "https://open.spotify.com/album/2DZpZ3j4yZrv39kuKeNtvZ"
+      },
+      "artists": [
+        {
+          "name": "Harriet Nauer",
+          "url": "https://open.spotify.com/artist/7ntzg1pA71vjzEhdSwYj3Q"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247975,
+      "name": "Raven",
+      "url": "https://open.spotify.com/track/7AF2UzVYXqxdJLKzKuKq1U"
     },
     {
       "album": {

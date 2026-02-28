@@ -2,9 +2,9 @@
 
 ### [sad hour](https://open.spotify.com/playlist/37i9dQZF1DWSqBruwoIXkA)
 
-> heartbreak feels good in a place like sad hour, with Will Swinton
+> heartbreak feels good in a place like sad hour, with Thomas Day
 
-1,030 songs - 2 day 8 hr 42 min
+1,032 songs - 2 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [flight attendant](https://open.spotify.com/track/1qQETiiY707bmCccTDkBVg) | [Haiden](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [flight attendant](https://open.spotify.com/album/5ETfCT4CT76TuZIZ2Gk1QH) | 3:56 | 2023-02-10 | 2023-02-18 |
 | [Flowers](https://open.spotify.com/track/6p2DKSuKLPvIBIHkoqBTtX) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Flowers](https://open.spotify.com/album/3FtYC7MmFKnjJoCE1aElBx) | 3:36 | 2021-12-31 | 2022-01-08 |
 | [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 | 2022-04-15 | 2023-04-01 |
+| [Flowers \- Spotify Singles](https://open.spotify.com/track/5QlTdFRhzFV72ieDj04sdD) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Flowers \- Spotify Singles](https://open.spotify.com/album/2xNxoIoAdqikspBdAGNshj) | 3:56 | 2026-02-27 |  |
 | [Flowers on the Moon](https://open.spotify.com/track/42aQ6rmccKofpjfWgEkJoo) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Flowers on the Moon](https://open.spotify.com/album/7dvzNaKLIa5GkcrDcHleVp) | 3:28 | 2024-03-15 | 2024-04-27 |
 | [foreign](https://open.spotify.com/track/315NelSgp7uGl0BNLRvFaf) | [Britton](https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0) | [foreign](https://open.spotify.com/album/23OgtHfI5AfqaXHVuFN2KW) | 2:54 | 2025-09-05 | 2025-11-08 |
 | [Forever](https://open.spotify.com/track/4xg5WAehIEXWpZeO4PEIkr) | [Kevian Kraemer](https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a) | [Forever](https://open.spotify.com/album/3SYMI0soENo9PF6v6IhXnm) | 3:55 | 2025-03-21 | 2025-08-09 |
@@ -382,7 +383,7 @@
 | [Hold Me While You Wait](https://open.spotify.com/track/6700Z4Izi8EbB6JNthU6Ma) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Hold Me While You Wait](https://open.spotify.com/album/1yDDPX98edTDjG5hFqY2xL) | 3:25 | 2021-12-17 | 2022-10-01 |
 | [Holidays](https://open.spotify.com/track/4U6Mq3JeRNyrNdG70cPsyJ) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Holidays](https://open.spotify.com/album/2ThtBfqXl82TjNx76GYqK2) | 3:41 | 2024-10-18 | 2025-03-26 |
 | [Honestly](https://open.spotify.com/track/19gGwhwaQUK2aQbJ03YMOo) | [Madison Bailey](https://open.spotify.com/artist/6zKQkyAftzejXrwviDjz1S) | [Honestly](https://open.spotify.com/album/3QJXbQQdY1lGrbrDfTMlJF) | 2:53 | 2024-12-06 | 2025-03-26 |
-| [Hospital Blue](https://open.spotify.com/track/4FCZ8hxMvHiYWx1mdLoqEs) | [Ryan Nealon](https://open.spotify.com/artist/6eeu1cHi3LjiKnTxa7eJux) | [What Would I Look Like Without A Brave Face? \(Deluxe\)](https://open.spotify.com/album/3Hj9SMz8qehBEn6KQGkCC6) | 2:43 | 2026-02-20 |  |
+| [Hospital Blue](https://open.spotify.com/track/4FCZ8hxMvHiYWx1mdLoqEs) | [Ryan Nealon](https://open.spotify.com/artist/6eeu1cHi3LjiKnTxa7eJux) | [What Would I Look Like Without A Brave Face? \(Deluxe\)](https://open.spotify.com/album/3Hj9SMz8qehBEn6KQGkCC6) | 2:43 | 2026-02-20 | 2026-02-28 |
 | [Hostage](https://open.spotify.com/track/1ndqHrik6dcm5ZIu7bZUY0) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Satellite](https://open.spotify.com/album/7cTthdPgZAHv44s7VCar46) | 3:49 | 2022-03-18 | 2022-04-16 |
 | [Hot All the Time](https://open.spotify.com/track/6bkJJicRR6gduGo6ZituLh) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Hot All the Time](https://open.spotify.com/album/4gAXGVFBGfDnYQL1KVEkej) | 3:01 | 2022-10-14 | 2022-10-29 |
 | [Hotel](https://open.spotify.com/track/4leYuigbid3LuPNI9jDsGr) | [Maeve](https://open.spotify.com/artist/3L2wM9IcPsk8BRRGkMk5tI) | [Hotel](https://open.spotify.com/album/6IiD5m2FkHUNSu1hVAPTGD) | 2:30 | 2025-12-05 | 2026-02-14 |
@@ -437,7 +438,7 @@
 | [I Lost a Friend](https://open.spotify.com/track/5v1sPD1lu2wiPzi07tW8zm) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq) | 3:57 | 2022-09-16 | 2023-04-01 |
 | [I Lost Myself In Loving You](https://open.spotify.com/track/2ySPkHH3mHCP3r3T040M5V) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [I Lost Myself In Loving You](https://open.spotify.com/album/1gLySgZluGmfvNYkny3H0C) | 3:21 | 2022-02-08 | 2022-10-28 |
 | [I Lost Myself In Loving You](https://open.spotify.com/track/3PhzwF9SOkkMIoUSIxFtwo) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Broken Memories](https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys) | 3:21 | 2022-10-28 | 2024-04-19 |
-| [I love being sad](https://open.spotify.com/track/5Mcj19iLQqbwAf1uun8Td7) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [I love being sad](https://open.spotify.com/album/2iAOojxL36gOF93qPbn36B) | 2:35 | 2026-02-20 |  |
+| [I love being sad](https://open.spotify.com/track/5Mcj19iLQqbwAf1uun8Td7) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [I love being sad](https://open.spotify.com/album/2iAOojxL36gOF93qPbn36B) | 2:35 | 2026-02-20 | 2026-02-28 |
 | [i love you](https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 4:51 | 2021-12-17 | 2022-10-01 |
 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 | 2024-07-19 |  |
 | [I MISS MY FRIEND](https://open.spotify.com/track/4rMgccSZbFOTaY4pC5hBuQ) | [Maxwell Luke](https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX) | [I MISS MY FRIEND](https://open.spotify.com/album/569qmMiN3cnCv3DdwVnbUn) | 4:14 | 2025-08-22 | 2026-01-24 |
@@ -673,6 +674,7 @@
 | [Next Time](https://open.spotify.com/track/3HQrxN0bBKxWIKRmgjUq06) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Next Time](https://open.spotify.com/album/7hgfr4aUdhvtwC1xK5XhJ6) | 3:17 | 2022-03-25 | 2023-04-29 |
 | [Ni 1 Complejo](https://open.spotify.com/track/7qP5BoRHR5d9qxGmk8ruY1) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Ni 1 Complejo](https://open.spotify.com/album/0gzD0rupIe407RHRQY9GPk) | 2:54 | 2024-02-14 | 2024-04-13 |
 | [Nice Knowing You](https://open.spotify.com/track/6eC5dOu4lykDLO39JbSGdK) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Nice Knowing You](https://open.spotify.com/album/4PSOVho7bvffFoVChOliKF) | 3:35 | 2024-12-06 | 2025-03-22 |
+| [Nightingale Lane.](https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Nightingale Lane.](https://open.spotify.com/album/22FLublraJkicHyrK2egu0) | 5:02 | 2026-02-27 |  |
 | [No More Heart To Break](https://open.spotify.com/track/2Aw6y57VpYel8CmRWtODTn) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [No More Heart To Break](https://open.spotify.com/album/1IqQ989Pv2zO8K33HRXknk) | 3:37 | 2026-02-20 |  |
 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2024-08-16 |  |
 | [No Strings Attached](https://open.spotify.com/track/6lhrM7uDelkZn1VKmmO9BT) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [No Strings Attached](https://open.spotify.com/album/05Sln0YCdhy8SpX4x4uvoi) | 2:59 | 2024-08-16 | 2024-09-07 |

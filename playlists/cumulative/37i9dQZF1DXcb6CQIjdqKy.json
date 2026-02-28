@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Elevation Worship",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Terrian & Eli Soares",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -2162,7 +2162,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 238971,
       "name": "Beginning Of Your Grace",
       "url": "https://open.spotify.com/track/6XzzANAyd5iEeyGcKEkGZ1"
@@ -6846,7 +6846,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 164309,
       "name": "God Is For Me",
       "url": "https://open.spotify.com/track/7Dzhw9i6H4oX89Iwqf3ziK"
@@ -12499,6 +12499,28 @@
     },
     {
       "album": {
+        "name": "Just As I Am",
+        "url": "https://open.spotify.com/album/6NJldZbC9itkMgDAu4Csww"
+      },
+      "artists": [
+        {
+          "name": "Tommee Profitt",
+          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
+        },
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184850,
+      "name": "Just As I Am",
+      "url": "https://open.spotify.com/track/0rSV9uiYoyR3TWoJWExhAL"
+    },
+    {
+      "album": {
         "name": "Just Like You've Always Done",
         "url": "https://open.spotify.com/album/2Qi1MljxqICjyyjvTLx9Pp"
       },
@@ -12822,6 +12844,28 @@
       "duration_ms": 268590,
       "name": "King Of Hearts",
       "url": "https://open.spotify.com/track/53OAAIHd2q0lz5tmtpVndI"
+    },
+    {
+      "album": {
+        "name": "King Of Kings",
+        "url": "https://open.spotify.com/album/19ukezrB9UAsMe5oTQO45X"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        },
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253431,
+      "name": "King Of Kings",
+      "url": "https://open.spotify.com/track/4cioLFyKIm59aYy3UMr5xT"
     },
     {
       "album": {
@@ -16480,10 +16524,32 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 92640,
       "name": "ON TIME",
       "url": "https://open.spotify.com/track/4L0NcvT5I8euv3yn97y0GK"
+    },
+    {
+      "album": {
+        "name": "One And Only (with Cody Carnes)",
+        "url": "https://open.spotify.com/album/7KbPlFIesUg0x0twORygut"
+      },
+      "artists": [
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307919,
+      "name": "One And Only (with Cody Carnes)",
+      "url": "https://open.spotify.com/track/6oTSE8EOHyOIayrRoE6NmY"
     },
     {
       "album": {
@@ -17194,6 +17260,24 @@
       "duration_ms": 252053,
       "name": "Perfect Love",
       "url": "https://open.spotify.com/track/2PeGP15nxf7OXaw4PQw0ZA"
+    },
+    {
+      "album": {
+        "name": "Perfectly",
+        "url": "https://open.spotify.com/album/3XlPm3QjwLxOcTW0IxXJSA"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164101,
+      "name": "Perfectly",
+      "url": "https://open.spotify.com/track/4IBrkjZkW4qhVgunHJ1l8Y"
     },
     {
       "album": {
@@ -22356,7 +22440,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 187800,
       "name": "The Man I Could Be",
       "url": "https://open.spotify.com/track/1qV7E6ySEKvA07R3gtREZZ"
@@ -23118,7 +23202,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 281675,
       "name": "This Is Not The End",
       "url": "https://open.spotify.com/track/5b9m308QSLAXHS39QG422B"
@@ -23973,6 +24057,24 @@
     },
     {
       "album": {
+        "name": "Walk With Me",
+        "url": "https://open.spotify.com/album/6lNIyJnOuyLhGvPod7YYJz"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175770,
+      "name": "Walk With Me",
+      "url": "https://open.spotify.com/track/1YWNQDbaTcCZxhC1GpkOQ1"
+    },
+    {
+      "album": {
         "name": "Walking Free (Radio Edit)",
         "url": "https://open.spotify.com/album/69h4wtzuqYDdzBG6qcY7EV"
       },
@@ -24064,6 +24166,28 @@
       "duration_ms": 222230,
       "name": "Watch Your Mouth",
       "url": "https://open.spotify.com/track/1AbSedPxXMKs3mALPjiNfM"
+    },
+    {
+      "album": {
+        "name": "Water Into Wine",
+        "url": "https://open.spotify.com/album/0mCLJi59sXFYUCyZnjT4ir"
+      },
+      "artists": [
+        {
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+        },
+        {
+          "name": "Seph Schlueter",
+          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229741,
+      "name": "Water Into Wine",
+      "url": "https://open.spotify.com/track/3yVR7hc7HjtXFnalkgfiK6"
     },
     {
       "album": {
@@ -25414,7 +25538,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 226739,
       "name": "Wonder & Awe",
       "url": "https://open.spotify.com/track/1DTKaZqF5TqzEUCqVBLhvZ"

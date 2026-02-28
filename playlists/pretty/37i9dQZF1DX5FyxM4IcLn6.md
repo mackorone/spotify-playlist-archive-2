@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 
 > Listen to selected nominees for the 68th GRAMMY Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,850 likes - 125 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,860 likes - 125 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 62 | [I Lied to You](https://open.spotify.com/track/0XfwXFXOI7oys9rsZ2sjrt) | [Miles Caton](https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU) | [Sinners \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn) | 5:14 |
 | 63 | [Love](https://open.spotify.com/track/4ACbff3fw2FkJ0xtJWilck) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:56 |
 | 64 | [TGIF](https://open.spotify.com/track/2hKYtHbwYOSjvYQhVdUpdQ) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [TGIF](https://open.spotify.com/album/3VY29d0cCe38jPSYvAiI0D) | 2:44 |
-| 65 | [Heart Of A Woman](https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Heart Of A Woman](https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh) | 2:51 |
-| 66 | [Somewhere Over Laredo](https://open.spotify.com/track/2KeS9EwqQvw0TdGohFNvfC) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind \(Deluxe\)](https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ) | 3:46 |
+| 65 | [Somewhere Over Laredo](https://open.spotify.com/track/2KeS9EwqQvw0TdGohFNvfC) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind \(Deluxe\)](https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ) | 3:46 |
+| 66 | [Heart Of A Woman](https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Heart Of A Woman](https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh) | 2:51 |
 | 67 | [Changes \(Live From Villa Park\) Back To The Beginning \(feat\. Nuno Bettencourt, Frank Bello, Adam Wakeman, II\)](https://open.spotify.com/track/5yriBaBAgiRDoTVVWazMuv) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Nuno Bettencourt](https://open.spotify.com/artist/3konlNIREmuxZRIFKSPKmK), [Frank Bello](https://open.spotify.com/artist/722seNrup2GdGVhFRlkDwp), [Adam Wakeman](https://open.spotify.com/artist/7KOt1Tbe2piq9ZRcyz8SOG), [II](https://open.spotify.com/artist/6eANS9h19SCocZ79kuYbJA) | [Changes \(Live From Villa Park\) Back To The Beginning \(feat\. Nuno Bettencourt, Frank Bello, Adam Wakeman, II\)](https://open.spotify.com/album/2mbhC8oNvDt3KCM4kY37Ky) | 5:40 |
 | 68 | [Bluest Flame](https://open.spotify.com/track/41goAg1ZxePWjXXfZ7PhG7) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 2:42 |
 | 69 | [The Birds Don't Sing](https://open.spotify.com/track/6L3i4jdNnk0a9kMT3qIqTG) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Voices of Fire](https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Let God Sort Em Out](https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ) | 4:00 |
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 121 | [Como Quisiera Quererte](https://open.spotify.com/track/5gGOOM1oDSQ59lcGOXIvZL) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Cancionera](https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu) | 4:18 |
 | 122 | [Four](https://open.spotify.com/track/4lRAemYqmqH4B5sMWmeRpg) | [Michael Mayo](https://open.spotify.com/artist/5GPxGRe2IglKP3ZiwwJbP4) | [Fly](https://open.spotify.com/album/2lN2HpUppxgHZ3S5gzZ1qV) | 3:23 |
 | 123 | [Poison In My Well](https://open.spotify.com/track/5sTW2d86vNwfiJ2VNjUsrq) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Poison In My Well](https://open.spotify.com/album/1lQPaWzjstwG1X3hWZb11A) | 3:08 |
-| 124 | [Serious Times](https://open.spotify.com/track/7it0fDiLEGPQYJwZoLgA7U) | [Keznamdi](https://open.spotify.com/artist/0oVpcuCwyAiO2aKNGABC60) | [BLXXD & FYAH](https://open.spotify.com/album/1KXoW5EKVQs9YvvvyP3VRv) | 2:19 |
+| 124 | [I Know](https://open.spotify.com/track/3qnLz54EYonvJ3Ty1tN3MD) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Heart & Soul](https://open.spotify.com/album/5WvviNYHAOcmqqk2MYhXw3) | 3:01 |
 | 125 | [Never Too Late \- From The Film “Elton John: Never Too Late”](https://open.spotify.com/track/6AzQ8MNzUOh5vpMUMGlBtQ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Never Too Late \(From The Film “Elton John: Never Too Late"\)](https://open.spotify.com/album/37x06uOcZyKmalh6ZsDoJH) | 3:36 |
 
 Snapshot ID: `AAAAAIGF7/Q/XcR0lsTDl29hOFKQhvsr`

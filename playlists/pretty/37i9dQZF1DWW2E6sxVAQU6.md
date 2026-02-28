@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 
 > Dedicata a chi non ha rischiato ed è sempre andato al massimo  ⚡️
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,230 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,244 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 | 5 | [Dove Si Balla](https://open.spotify.com/track/3FVa0R2evbgjVOd3bejudr) | [Dargen D'Amico](https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm) | [Dove Si Balla](https://open.spotify.com/album/5iTNhsNPt2pesmEDZlcphf) | 3:18 |
 | 6 | [Ciao Ciao](https://open.spotify.com/track/0jLeyuu6mtsD384054xLah) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [Ciao Ciao](https://open.spotify.com/album/0pK7UNY1nXMQeeJKiAZMMj) | 3:04 |
 | 7 | [Rolls Royce \(feat\. Boss Doms, Frenetik&Orang3\)](https://open.spotify.com/track/6RrHjDbTT8ibYqSBsZbmRA) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv), [Boss Doms](https://open.spotify.com/artist/57aMHpsX2SXTbLatmeEd6j), [Frenetik&Orang3](https://open.spotify.com/artist/2lkP8239tkwRjg5N7d2D0w) | [1969 \- Achille Idol Rebirth](https://open.spotify.com/album/0zMH1I8EZPPGYAzxZ9H0gU) | 2:53 |
-| 8 | [SESSO OCCASIONALE](https://open.spotify.com/track/0Dz9zyx2w3zYtRK6yp3VKD) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [SESSO OCCASIONALE](https://open.spotify.com/album/51lcCxrqnkTxRLbmbL7KX6) | 3:15 |
-| 9 | [Una Vita In Vacanza](https://open.spotify.com/track/6134tdWf6qjAGgQs1xJRyA) | [Lo Stato Sociale](https://open.spotify.com/artist/1MBjY2JFotAGoTYDfO80cM) | [Primati](https://open.spotify.com/album/5zbqOeGsHkqezYWdjl4VpQ) | 3:53 |
+| 8 | [Una Vita In Vacanza](https://open.spotify.com/track/6134tdWf6qjAGgQs1xJRyA) | [Lo Stato Sociale](https://open.spotify.com/artist/1MBjY2JFotAGoTYDfO80cM) | [Primati](https://open.spotify.com/album/5zbqOeGsHkqezYWdjl4VpQ) | 3:53 |
+| 9 | [SESSO OCCASIONALE](https://open.spotify.com/track/0Dz9zyx2w3zYtRK6yp3VKD) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [SESSO OCCASIONALE](https://open.spotify.com/album/51lcCxrqnkTxRLbmbL7KX6) | 3:15 |
 | 10 | [Mai Dire Mai \(La Locura\)](https://open.spotify.com/track/4jmvkbDw0cuWD2Fi9VswFQ) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Mai Dire Mai \(La Locura\)](https://open.spotify.com/album/6Ly8jC23vIa4evVzICvZRu) | 3:28 |
 | 11 | [Andamento lento](https://open.spotify.com/track/5HAri7dfAKqA7vTAt8vwMB) | [Tullio De Piscopo](https://open.spotify.com/artist/677NtrMPiyPumrSUs8lBKk) | [1998…e I miei grandi successi](https://open.spotify.com/album/4Vas2bDBwoX9SmeJ9ucL1Q) | 4:16 |
 | 12 | [Quelli Che Non Hanno Età \- Gabry Ponte Power Cut](https://open.spotify.com/track/2mz1KvlR3aHoLSJTdh1nwR) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Eiffel 65 \(Italian Album\)](https://open.spotify.com/album/1JhmNKRWia4bEo6IH8AFpg) | 3:59 |

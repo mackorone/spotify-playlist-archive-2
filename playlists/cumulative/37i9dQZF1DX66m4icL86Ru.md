@@ -2,7 +2,7 @@
 
 ### [BBE](https://open.spotify.com/playlist/37i9dQZF1DX66m4icL86Ru)
 
-> Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: PinkPantheress & Zara Larsson
+> Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Zara Larsson & PinkPantheress
 
 590 songs - 1 day 4 hr 16 min
 
@@ -482,7 +482,7 @@
 | [SIMP](https://open.spotify.com/track/7uIrdhnGQw7bZSR2ygopuX) | [Full Tac](https://open.spotify.com/artist/5ZXkHp732tYHIzqctoZP0E), [Lil Mariko](https://open.spotify.com/artist/1ZRRl4S2B4xZBzHtIf65Jx), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [SIMP](https://open.spotify.com/album/4SR1C8HMMnFHpcU4cDGlRa) | 3:00 | 2021-10-15 | 2022-01-29 |
 | [Sis! You A Bad Bitch! 2.0](https://open.spotify.com/track/4MN5ooEr9b3Bmpvk1VFEKU) | [Shariya Wise](https://open.spotify.com/artist/4HekWU89TFKdHe7qDUplQn) | [Sis! You A Bad Bitch! 2.0](https://open.spotify.com/album/5BGjZkf3vJiOAxr7XbDAv1) | 2:05 | 2022-11-11 | 2023-06-24 |
 | [SIXTEEN](https://open.spotify.com/track/1RswhD0IRNMRqo1WDpNhtl) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [SIXTEEN](https://open.spotify.com/album/24H345wgzm6udXQ6Es10VN) | 2:32 | 2023-03-03 | 2023-03-29 |
-| [SkeeYee](https://open.spotify.com/track/7icwQvajsokotDfM3tefW6) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:37 | 2023-07-12 |  |
+| [SkeeYee](https://open.spotify.com/track/7icwQvajsokotDfM3tefW6) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:37 | 2023-07-12 | 2026-02-28 |
 | [Sl\*t Him Out](https://open.spotify.com/track/03AgMO71u7FXf2SV32oP76) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [What's Love / Sl\*t Him Out](https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9) | 2:52 | 2022-02-20 | 2022-03-08 |
 | [Sl\*t Him Out Again \(feat\. Kali\)](https://open.spotify.com/track/1ZaZ2oU9mJXsLcyJCB1APa) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Sl\*t Him Out Again \(feat\. Kali\)](https://open.spotify.com/album/1fT4X8H2LDIslnWj8vNRxT) | 3:52 | 2022-03-07 | 2022-08-06 |
 | [Sl\*t Him Out Again \(feat\. Kaliii\)](https://open.spotify.com/track/1rFSc82CUMlFewowdZPRT8) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:53 | 2023-04-06 | 2024-07-06 |

@@ -4,7 +4,7 @@
 
 > The future hits of today\. Up Next: Kojo Blak
 
-650 songs - 1 day 6 hr 14 min
+650 songs - 1 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Anytime \(feat\. Ayo Maff\)](https://open.spotify.com/track/0btl8LkqkQNo4NxmpBoP8a) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Anytime \(feat\. Ayo Maff\)](https://open.spotify.com/album/0tlsC4tKamKTl9PYoMuPTY) | 3:12 | 2025-05-16 | 2026-01-29 |
 | [Anyway](https://open.spotify.com/track/5yJKvsK45OXwwx3NwgIYN6) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Hard Guy Confessions](https://open.spotify.com/album/0W7BMO49kLcUma73fz8XZo) | 3:54 | 2024-11-15 | 2024-11-29 |
 | [Après Minuit \(feat\. Tiakola\)](https://open.spotify.com/track/7JKGyMt8qkTaUHXFpxgjY2) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:57 | 2025-04-07 | 2025-08-23 |
+| [Are You On The Way](https://open.spotify.com/track/5QyJkMyAWCB0IzuzUiYpER) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Love Stray](https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d) | 3:38 | 2026-02-27 |  |
 | [Are you there?](https://open.spotify.com/track/10y7iW3rc8bzGbhAC3mNPA) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [MAFFIAN](https://open.spotify.com/album/34MCeC9R3RzTxf3vzEJmWi) | 2:36 | 2024-08-16 | 2024-09-13 |
 | [Arike](https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Arike](https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw) | 2:04 | 2025-02-26 | 2025-04-01 |
 | [Asambe Remix](https://open.spotify.com/track/5dYHbXEbaMMdR4A4OWSa6N) | [Ggoldie](https://open.spotify.com/artist/43u6aZHgPYfR36lpHCrkdb), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [T.M.A\_Rsa](https://open.spotify.com/artist/5WcYssoPuSiy3PpQFq43dt), [RIVALZ](https://open.spotify.com/artist/4X3O9f5Bs7lKcOyUFoV75y) | [Asambe Remix](https://open.spotify.com/album/5ZkJx9EhBAGIwlxZjbSd7C) | 5:52 | 2024-06-28 | 2024-08-26 |
@@ -585,7 +586,6 @@
 | [TOY GIRL \(with Juno & Valentino Rose\)](https://open.spotify.com/track/3iHp95MVzN1hBiOuR0cJmy) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Juno](https://open.spotify.com/artist/1K8EfKCk74fvBfCFiyK8is), [Valentino Rose](https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t) | [THE MACHINE IS COMING](https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ) | 2:52 | 2025-04-04 | 2025-08-23 |
 | [Trabaye](https://open.spotify.com/track/08e0A9k3bZHg1ayABWHt6o) | [VASA](https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Trabaye](https://open.spotify.com/album/4EEt8kNnWUVTqXgnUF7Kw5) | 2:56 | 2024-06-28 | 2024-11-08 |
 | [TRABZ](https://open.spotify.com/track/37q6nr9zUrFCyBCcoKdaMJ) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [TRABZ](https://open.spotify.com/album/5b9bt1fofoZKmzGnPrcnPd) | 2:22 | 2026-02-27 |  |
-| [Track 2](https://open.spotify.com/track/5QyJkMyAWCB0IzuzUiYpER) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Love Stray](https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d) | 0:00 | 2026-02-27 |  |
 | [Trenches Luv](https://open.spotify.com/track/2v7r3nItoWRbCQBS1qFQnD) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Trenches Luv](https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB) | 3:25 | 2025-02-14 | 2025-04-08 |
 | [Trending](https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Muyeez \(Deluxe\)](https://open.spotify.com/album/3z5ScTzthtKvfOzxc2XBE0) | 2:34 | 2024-06-28 | 2024-08-09 |
 | [Troubled Mind](https://open.spotify.com/track/6yIEi8mvrYSi2IgPhQ5Ym9) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 3:02 | 2025-02-19 | 2025-04-01 |

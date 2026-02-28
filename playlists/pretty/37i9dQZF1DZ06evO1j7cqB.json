@@ -1,12 +1,12 @@
 {
   "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
-  "num_followers": 11374,
+  "num_followers": 11375,
   "original_name": "This Is Bear McCreary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAACRnOuVFLJC2tTChte8LDMe",
+  "snapshot_id": "aZ+NAAAAAACR9YU3lgn6N79FOjKr5M2z",
   "tracks": [
     {
       "added_at": null,
@@ -219,6 +219,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Five: Partings - Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4upGT86TEEIw2vJpcPG4Mk"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Megan Richards",
+          "url": "https://open.spotify.com/artist/1HGr7gYjFUt2S3LmL9hbGG"
+        }
+      ],
+      "duration_ms": 128556,
+      "name": "This Wandering Day",
+      "url": "https://open.spotify.com/track/7GzOUmcsBrCmt93N1t1Oni"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outlander: Blood of my Blood (Season 1 Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/0Fcsq7NjnNNe8pAi9qVGd6"
       },
@@ -251,26 +271,6 @@
       "duration_ms": 274481,
       "name": "The Sun Yet Shines",
       "url": "https://open.spotify.com/track/5hcRWT88VLlbhEMh4efCMy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Five: Partings - Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/4upGT86TEEIw2vJpcPG4Mk"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Megan Richards",
-          "url": "https://open.spotify.com/artist/1HGr7gYjFUt2S3LmL9hbGG"
-        }
-      ],
-      "duration_ms": 128556,
-      "name": "This Wandering Day",
-      "url": "https://open.spotify.com/track/7GzOUmcsBrCmt93N1t1Oni"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlander: Season 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/4ucaiMJlT2G3FCDObTbTsI"
+        "name": "Black Sails (A Starz Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/504RcsupcUwvcgNdQXoAtU"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 209746,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/4NGQdWwIqpUZ0Ft9L3KtJ1"
+      "duration_ms": 197640,
+      "name": "Theme from Black Sails",
+      "url": "https://open.spotify.com/track/5KXtl8RNG1uFrZinr6hxWh"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Sails (A Starz Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/504RcsupcUwvcgNdQXoAtU"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Theme from Black Sails",
-      "url": "https://open.spotify.com/track/5KXtl8RNG1uFrZinr6hxWh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 139988,
       "name": "Old Tom Bombadil Reprise (feat. Rory Kinnear and Daniel Weyman)",
       "url": "https://open.spotify.com/track/0geBtKwDWV8Df99GMeueQB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlander: Season 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4ucaiMJlT2G3FCDObTbTsI"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 209746,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/4NGQdWwIqpUZ0Ft9L3KtJ1"
     },
     {
       "added_at": null,
@@ -583,6 +583,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "God of War Sons of Sparta (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/22v0Og1GbSi1Xis7y0RzY4"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "duration_ms": 199274,
+      "name": "Brotherhood",
+      "url": "https://open.spotify.com/track/53MQ5zpcMvdr5kkt2a6a6n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlander: Season 7 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4qBiXsf6Xa71EmjOjG4iHT"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 219293,
+      "name": "War Is Inevitable",
+      "url": "https://open.spotify.com/track/3K1n95TTbn9CLvReR9MyYc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Percy Jackson and the Olympians: Season 2 (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/1NMTLznBXQWex0NA9hpEk4"
       },
@@ -611,42 +647,6 @@
       "duration_ms": 154560,
       "name": "Godzilla Main Title",
       "url": "https://open.spotify.com/track/6EscmbDWTIP17ZgNWOqPlf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlander: Season 7 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/4qBiXsf6Xa71EmjOjG4iHT"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 219293,
-      "name": "War Is Inevitable",
-      "url": "https://open.spotify.com/track/3K1n95TTbn9CLvReR9MyYc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "God of War Sons of Sparta (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/22v0Og1GbSi1Xis7y0RzY4"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        }
-      ],
-      "duration_ms": 199274,
-      "name": "Brotherhood",
-      "url": "https://open.spotify.com/track/53MQ5zpcMvdr5kkt2a6a6n"
     },
     {
       "added_at": null,
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "God of War (PlayStation Soundtrack)",
+        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 224760,
+      "name": "Echoes of an Old Life (From \"God of War\" Soundtrack)",
+      "url": "https://open.spotify.com/track/4GhsCIi3U4SR62l5Mlga2I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outlander: Season 1, Vol. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87"
       },
@@ -880,25 +896,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 224760,
-      "name": "Echoes of an Old Life (From \"God of War\" Soundtrack)",
-      "url": "https://open.spotify.com/track/4GhsCIi3U4SR62l5Mlga2I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlander: Season 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 228600,
-      "name": "Murtagh's Oath",
-      "url": "https://open.spotify.com/track/5twcdm2xzUzGAW7VyUycaV"
+      "duration_ms": 308093,
+      "name": "Valkyries (From \"God of War\" Soundtrack)",
+      "url": "https://open.spotify.com/track/1DWCfz6WAwoESRO1NYXlqr"
     }
   ],
   "unique_name": "This Is Bear McCreary",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Judith Owen
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,924 likes - 60 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,939 likes - 60 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [That's Why I Love My Baby](https://open.spotify.com/track/1CgkJxuZwhMsPNpQBDzr4S) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [That's Why I Love My Baby](https://open.spotify.com/album/55Br3xub7OEkXMpkZB2tk5) | 4:50 |
 | 2 | [Prisoner of Love](https://open.spotify.com/track/51I6YF51LiQf3bZALtnHUO) | [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [Prisoner of Love](https://open.spotify.com/album/2TLjsOeLtdqlP264jRsjUF) | 2:23 |
-| 3 | [Track 3](https://open.spotify.com/track/3YFZBxVvgU7hMpxgEHXfdU) | [loopgarden](https://open.spotify.com/artist/4M9C2IXUroEUTQRiMKWM46) | [LOOPS](https://open.spotify.com/album/04ADP4KpzsWSBLNDN7uKzj) | 0:00 |
+| 3 | [Roses](https://open.spotify.com/track/3YFZBxVvgU7hMpxgEHXfdU) | [loopgarden](https://open.spotify.com/artist/4M9C2IXUroEUTQRiMKWM46), [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [LOOPS](https://open.spotify.com/album/04ADP4KpzsWSBLNDN7uKzj) | 2:54 |
 | 4 | [Endless Groove](https://open.spotify.com/track/7GX8haQKN8Wr12spO3mb0H) | [The Getdown](https://open.spotify.com/artist/6IZfZvhfR2DMt6hANyWzFZ), [Laurent Coulondre](https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV), [Arnaud Dolmen](https://open.spotify.com/artist/4poxrHwFvg05NhT3TDNRtm), [Grégory Privat](https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh) | [The Getdown](https://open.spotify.com/album/0Mc1HIpKFoQVEaYVV0PiOF) | 3:09 |
 | 5 | [Mean To Me](https://open.spotify.com/track/4Tp6SPIAAwGMuRZBzMZh1c) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Mean To Me](https://open.spotify.com/album/5tlr80pnA12qL8t47TNUbK) | 3:04 |
 | 6 | [Mlonje: Voices Joined](https://open.spotify.com/track/1vE3zkJhahSWRcDBPFQN9R) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [The Zawose Queens](https://open.spotify.com/artist/5e8d20rB9aHyqFJLHlu4QI) | [Body Flows](https://open.spotify.com/album/1IPUqYUEmBsnKABRdjpAzk) | 4:03 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 12 | [Soul Kiss](https://open.spotify.com/track/2N1wJYMg2aQGH9WenUZcMq) | [Roberto Fonseca](https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu), [Vincent Segal](https://open.spotify.com/artist/1DM0tMCA5GRAgG3qLCy67F) | [Nuit parisienne à La Havane](https://open.spotify.com/album/2SBHQRGi2rN8FysbZX5ijA) | 4:10 |
 | 13 | [ear to the cocoon](https://open.spotify.com/track/5tC7DM52PIElQGpxnRVK5m) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [petal rock black](https://open.spotify.com/album/055CZXcGINxmZKxwQ9hroP) | 4:18 |
 | 14 | [Moon to Dry](https://open.spotify.com/track/7xac3WDBVnUnLbhiHZSMTC) | [Ben Flocks](https://open.spotify.com/artist/57Ce6izcYKvFOFlhsUFzLJ), [Jacksonport](https://open.spotify.com/artist/5WDHcjQUDXBkjoIL9qBkgL) | [Moon to Dry](https://open.spotify.com/album/6H004xz47ju5coUQUd8OdP) | 5:22 |
-| 15 | [Track 3](https://open.spotify.com/track/2SzqtnBIJZyKEZzwj6GoEX) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Side\-Eye III+](https://open.spotify.com/album/4KsyZ4rh9jSNqtCy2aBAmm) | 0:00 |
+| 15 | [Make a New World](https://open.spotify.com/track/2SzqtnBIJZyKEZzwj6GoEX) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Side\-Eye III+](https://open.spotify.com/album/4KsyZ4rh9jSNqtCy2aBAmm) | 10:04 |
 | 16 | [Goody Goody](https://open.spotify.com/track/0n19Dlz4j8ITUavvAXmkXs) | [Flore Benguigui & The Sensible Notes](https://open.spotify.com/artist/0fPRM8MswpB7AksdDiE8g6) | [Goody Goody](https://open.spotify.com/album/3CEXtuaYx6f3De4gPWeb1d) | 3:26 |
 | 17 | [Lost in the Stars](https://open.spotify.com/track/239or9BOCzbRCPI9pJFqFo) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP), [Swedish Radio Symphony Orchestra](https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS) | [Love of My Life](https://open.spotify.com/album/7t9fTxixMaoq4lVPI12m8R) | 7:09 |
 | 18 | [W 48th street](https://open.spotify.com/track/6ntInnVcDKeuZkwZInjv47) | [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS), [Raphael Pannier](https://open.spotify.com/artist/7yrHz9SmURRYmWNkaZecl4), [Jean\-Yves Jung](https://open.spotify.com/artist/00kgpmXSQTGbYsgMbzQfqP), [William Brunard](https://open.spotify.com/artist/2CKHnbBFpiHF2Uw9Wu2rCy) | [W 48th street](https://open.spotify.com/album/6cRZh0XGEIPrcYlOYS4MIx) | 6:12 |

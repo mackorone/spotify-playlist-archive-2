@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,756 likes - 430 songs - 1 day 0 hr 0 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,760 likes - 430 songs - 1 day 0 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -206,8 +206,8 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 196 | [Fall In Love](https://open.spotify.com/track/3Kzfk5gMATqgKG71xQaHWu) | [SYTË](https://open.spotify.com/artist/3FeH234dEJoLCwGmc2TOG9) | [PERFECT TIMING](https://open.spotify.com/album/619SdgA1ztqzHPPtVsRtsC) | 3:21 |
 | 197 | [Higher](https://open.spotify.com/track/50I2vo9ZK26EZlDpRzkmT9) | [Melodi Ghazal](https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm) | [Higher](https://open.spotify.com/album/0lDky6LrsdXzdWprzrfi73) | 2:36 |
 | 198 | [Above It](https://open.spotify.com/track/7k21EyL1y0K32RVJFGWrYe) | [SSAANN](https://open.spotify.com/artist/5gUgiP68XnkGzxrb49yFQk) | [Above It](https://open.spotify.com/album/0bvSUs8oYkRAmSO1GFZ8mn) | 4:35 |
-| 199 | [Nine Clean Nails](https://open.spotify.com/track/2TxrxTDFNzWR0wTs1auyaz) | [Dummy](https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC) | [Free Energy](https://open.spotify.com/album/65xYYnCJh3cuM2OWFlKrN3) | 3:50 |
-| 200 | [2000](https://open.spotify.com/track/4upJJlGITA0p4DGUmrqkWB) | [symmetrical dogs](https://open.spotify.com/artist/6RplUraCnEUrpqz9nvGDXK) | [Birthday Rabbit Foot Wish](https://open.spotify.com/album/5jb1W9bxsXbCYEsNZ9yFml) | 3:28 |
+| 199 | [2000](https://open.spotify.com/track/4upJJlGITA0p4DGUmrqkWB) | [symmetrical dogs](https://open.spotify.com/artist/6RplUraCnEUrpqz9nvGDXK) | [Birthday Rabbit Foot Wish](https://open.spotify.com/album/5jb1W9bxsXbCYEsNZ9yFml) | 3:28 |
+| 200 | [Nine Clean Nails](https://open.spotify.com/track/2TxrxTDFNzWR0wTs1auyaz) | [Dummy](https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC) | [Free Energy](https://open.spotify.com/album/65xYYnCJh3cuM2OWFlKrN3) | 3:50 |
 | 201 | [Sunday](https://open.spotify.com/track/2uaY9LaSymklYzPJsvKjA6) | [Hannah Lew](https://open.spotify.com/artist/40ZrXbMB5FFIxtzatM8Wol) | [Sunday](https://open.spotify.com/album/6sGvUCOGFJtAL5O7iHQhYC) | 3:39 |
 | 202 | [Miss You](https://open.spotify.com/track/6JSb9ZQroda8Lgd4rF8o60) | [Ms Ray](https://open.spotify.com/artist/1OwAcRe2gUEpDZhLAkiLRp), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Miss You](https://open.spotify.com/album/1SdzUAaeUy54xHAgWo2Gcg) | 3:44 |
 | 203 | [Golden Brown Sugar](https://open.spotify.com/track/1s8UNp2swlH5b6c6FghaCl) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [Golden Brown Sugar](https://open.spotify.com/album/3GTsuGzSY59ekjlR2WDWWp) | 3:49 |
@@ -390,7 +390,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 380 | [You're Not Alone \- Dance Review](https://open.spotify.com/track/4sTeXE85vlMftYDfnBApN3) | [Courtesy](https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [You're Not Alone \(Dance Review\)](https://open.spotify.com/album/1p4Ufp0OQqEnsGOcHy2nGU) | 3:50 |
 | 381 | [Mercybeggingboys](https://open.spotify.com/track/1HvkQ5WiAKpuuFk1HfPEQl) | [Thunder Bae](https://open.spotify.com/artist/2urVnN3dqfvm7e5z1jADT6) | [Mercybeggingboys](https://open.spotify.com/album/1mKhJ4639zntHpHShvOzpV) | 3:09 |
 | 382 | [Saltwater Fountain](https://open.spotify.com/track/1JvWcPDuVsP39T1Az5ISKj) | [Rose & The Dreamboats](https://open.spotify.com/artist/3iZEVms0tUlAPlpvS9Xrgo), [Rose Brokenshire](https://open.spotify.com/artist/2dGTBge2hwNYCB0fc05Hnz) | [Saltwater Fountain](https://open.spotify.com/album/4OEDWObkImb3v3inE45LZp) | 3:49 |
-| 383 | [Black Cat](https://open.spotify.com/track/3X7S1j9JzhDiyOmAo29ToG) | [deer park](https://open.spotify.com/artist/6Lq0JPdh83AUSeMfuMPCjy), [Ivy Knight](https://open.spotify.com/artist/2k3Q5efL6SiHfAsGqdXk4z) | [Black Cat](https://open.spotify.com/album/3FsU86eAWIuGRAzXjX5R97) | 2:19 |
+| 383 | [Black Cat](https://open.spotify.com/track/3X7S1j9JzhDiyOmAo29ToG) | [Deer park](https://open.spotify.com/artist/6Lq0JPdh83AUSeMfuMPCjy), [Ivy Knight](https://open.spotify.com/artist/2k3Q5efL6SiHfAsGqdXk4z) | [Black Cat](https://open.spotify.com/album/3FsU86eAWIuGRAzXjX5R97) | 2:19 |
 | 384 | [Sunlight](https://open.spotify.com/track/4wOpQBSTtbh9S86nxp0EJ1) | [thom.ko](https://open.spotify.com/artist/3dWWHuyPD2YOd7B8geKidf) | [Sunlight](https://open.spotify.com/album/10muVHmIIrUPTZOLt5794A) | 3:02 |
 | 385 | [God in the Middle](https://open.spotify.com/track/0kQdh1yqErJjcNbBNVsU1r) | [Helmut](https://open.spotify.com/artist/6ReyaIMVxJYKqQnmQHM5Vt) | [God in the Middle](https://open.spotify.com/album/2mS0mtmCeaL4anmimEFJiA) | 3:52 |
 | 386 | [Better Than I Was](https://open.spotify.com/track/5zzBZOaV1QM1fTDDOPh5Yy) | [Katie McBride](https://open.spotify.com/artist/3PlStwko8DjwgLk6KxOAdY) | [Better Than I Was](https://open.spotify.com/album/1LBAB6pJr1VaIsfQHpiVnl) | 3:00 |
@@ -439,4 +439,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 429 | [Last One Home](https://open.spotify.com/track/1TcqYv9wLbeRgGFrQfviPG) | [Sloe Noon](https://open.spotify.com/artist/7aFg44sQWEwIlVme3S9Ei9) | [Last One Home](https://open.spotify.com/album/1KIFJBY1Kc74RZMFREjVvp) | 2:35 |
 | 430 | [Love Jaunt](https://open.spotify.com/track/0z8zkVF4Z98vsxVGWg1Af3) | [Dawuna](https://open.spotify.com/artist/5EWXvpxUaFhmjgWJZlXlVY) | [Love Jaunt](https://open.spotify.com/album/1mh7YGKW9SV6dHb7wLPfQU) | 3:08 |
 
-Snapshot ID: `AAAwUnmDfdbdZPuWr00p9FeZ+SzXCUXA`
+Snapshot ID: `AAAwVer40aF06M5/gtBPB9q/0NaTgCjr`

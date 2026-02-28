@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 
 > Don't worry, we're back in the funk of it besties ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,522 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,577 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 37 | [Dancefloor Sneakers](https://open.spotify.com/track/2RI1BkIyJmGO27KlLg8zHk) | [Sparkly Night](https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN) | [Beaches](https://open.spotify.com/album/74Ghs1PkGtJ01bLIKKun4Y) | 2:08 |
 | 38 | [The Way U Make Me Feel](https://open.spotify.com/track/7DpGpNYd9sZ3WT5oZWuokm) | [Neon Vectors](https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X) | [Cyber Love](https://open.spotify.com/album/5oBHfEpAfHIQ4J2IkGYviT) | 2:29 |
 | 39 | [Sunset](https://open.spotify.com/track/0rVZXO2gmrENbl7MRfa2h9) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [Metro City](https://open.spotify.com/album/49xi5l1GZwRLowxwHAiyyv) | 2:40 |
-| 40 | [I Chose Wrong](https://open.spotify.com/track/6lSrgTxyF9XgyLuNByH7Vm) | [CHANCE デラソウル](https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh) | [I Chose Wrong](https://open.spotify.com/album/2OvhrwlcSZ8xGT0jsB0ikE) | 2:52 |
-| 41 | [Ganbare](https://open.spotify.com/track/5gWDF3OWHLMsl8MXbLbIAM) | [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8) | [Kanji Title](https://open.spotify.com/album/1KmwXJfem9kqz9EDNwJMqo) | 3:03 |
+| 40 | [Ganbare](https://open.spotify.com/track/5gWDF3OWHLMsl8MXbLbIAM) | [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8) | [Kanji Title](https://open.spotify.com/album/1KmwXJfem9kqz9EDNwJMqo) | 3:03 |
+| 41 | [I Chose Wrong](https://open.spotify.com/track/6lSrgTxyF9XgyLuNByH7Vm) | [CHANCE デラソウル](https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh) | [I Chose Wrong](https://open.spotify.com/album/2OvhrwlcSZ8xGT0jsB0ikE) | 2:52 |
 | 42 | [Sailor Saturn](https://open.spotify.com/track/08tQCLOGuvKxWedoR0Rqgs) | [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [SAILORWAVE III](https://open.spotify.com/album/7a6D1xwGdauIFgRlAmpW2V) | 2:44 |
 | 43 | [Glimmer](https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr) | [AGST](https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI) | [Glimmer / Change](https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC) | 3:35 |
 | 44 | [keep down flyday](https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c) | [Q\-Rabbit](https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF) | [\#TRUE FUTURE](https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3) | 2:18 |
@@ -68,12 +68,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 58 | [Static Startup](https://open.spotify.com/track/4FIeLOD9iALl21GwmGuWEH) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2), [FunKing](https://open.spotify.com/artist/6ck052tLAa0NzQH9x4HjsX) | [PopSlinger \(Original Videogame Soundtrack\)](https://open.spotify.com/album/2334zQIqaH68guuXAEHZnr) | 3:28 |
 | 59 | [Shiny Shiny](https://open.spotify.com/track/0Ersp4nhXNxMIKlYAkEPl7) | [Pure Gem](https://open.spotify.com/artist/6ZB0nSi4RBQO8tX4KSlSuA) | [Pure Love](https://open.spotify.com/album/2bnfc2ulXOyxd1J2XCUdUt) | 2:21 |
 | 60 | [Facts](https://open.spotify.com/track/3M5MnYR9xqcnSMWJqyYZNF) | [Sparkly Night](https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN) | [MOTORWAY](https://open.spotify.com/album/0e0HcWdJIS3zWPlyw5t5wQ) | 2:38 |
-| 61 | [Love & Affection](https://open.spotify.com/track/0WepmUG3SZDpOJQdkwLJDd) | [AnTgry](https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL) | [Sidechain My Heart](https://open.spotify.com/album/20fxOJQvxGrEr4esHXuSO7) | 3:05 |
+| 61 | [Palm Road](https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0) | [AnTgry](https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL) | [Road Trip](https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU) | 2:53 |
 | 62 | [Stellae](https://open.spotify.com/track/1nzjAN2zcFizoo7yStKZi8) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Stellae](https://open.spotify.com/album/00qahpyr3Cxq8xNBecw56k) | 3:50 |
 | 63 | [Ritmo.](https://open.spotify.com/track/21m6i6sl6adnCwRR9WKcBY) | [Cape Coral](https://open.spotify.com/artist/38e0A9WK9vzXVSHfCmbFk6), [Android Apartment](https://open.spotify.com/artist/3PZDkvn9bDUKreyMfQeuCK) | [Slowed Midnight](https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP) | 2:35 |
 | 64 | [Brighter Days](https://open.spotify.com/track/0Hm9H8k6UVsCUU7z4nUzB9) | [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [Brighter Days](https://open.spotify.com/album/1nfqoJnQP69bUsawz806Ex) | 2:04 |
 | 65 | [Delicate](https://open.spotify.com/track/4KoVr6cmHVKkecEudgzbLi) | [Sui Uzi](https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln) | [Delicate](https://open.spotify.com/album/1JFB5WfXGEAkxpQlzgVRZg) | 4:11 |
-| 66 | [Palm Road](https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0) | [AnTgry](https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL) | [Road Trip](https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU) | 2:53 |
+| 66 | [Love & Affection](https://open.spotify.com/track/0WepmUG3SZDpOJQdkwLJDd) | [AnTgry](https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL) | [Sidechain My Heart](https://open.spotify.com/album/20fxOJQvxGrEr4esHXuSO7) | 3:05 |
 | 67 | [Tropical Feeling](https://open.spotify.com/track/76swBwQesVkyBnSkqpEphn) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2) | [Tropical Feeling](https://open.spotify.com/album/2bUGIHbRURIAphBRHd5f4K) | 4:52 |
 | 68 | [Le Knight Club Is Playing at My House](https://open.spotify.com/track/10AA8zz84owcIoVHsFXKea) | [CHANCE デラソウル](https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh) | [Goodbye Future Funk](https://open.spotify.com/album/4ir1bVF1FAkHRl4zGLqhKj) | 3:36 |
 | 69 | [Dance Tonite](https://open.spotify.com/track/0VPJHffNebAqAxnP2OJ6hu) | [Neon Vectors](https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X), [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [Dance Tonite](https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW) | 3:30 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 88 | [Cheetahs in Barcelona](https://open.spotify.com/track/3XhZJpfEiaV0TMqxMohGFk) | [Groovy Kaiju](https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR) | [Cheetahs in Barcelona](https://open.spotify.com/album/3dkGNzkrkpvJ7cwBvNOFAC) | 2:49 |
 | 89 | [DRENCH3D](https://open.spotify.com/track/7Cyanc2rFw2KE1tFevL1Sb) | [3D BLAST](https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2) | [DRENCH3D](https://open.spotify.com/album/4Bvc4QKaD3A6UuvZSGOwk8) | 2:21 |
 | 90 | [Exacta](https://open.spotify.com/track/05aRMsnObR7SdMQwxxJvHv) | [Tupperwave](https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO) | [Hooked On Aesthetics](https://open.spotify.com/album/2Uadv8pQQjvkAK77xgRB5u) | 2:43 |
-| 91 | [TIMERIDER 1983](https://open.spotify.com/track/0oGEkRNd79fARgvmCKjbHU) | [Adrianwave](https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw) | [TIMERIDER 1983](https://open.spotify.com/album/7MxdhXIE5rFdlrk6JaYzVK) | 3:08 |
-| 92 | [Dangerous](https://open.spotify.com/track/0GrRY7cP03k1CSlZUkicCp) | [Sui Uzi](https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln) | [Untold](https://open.spotify.com/album/2FqVBo8GtPsB2P7UrcnRR1) | 3:41 |
+| 91 | [Dangerous](https://open.spotify.com/track/0GrRY7cP03k1CSlZUkicCp) | [Sui Uzi](https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln) | [Untold](https://open.spotify.com/album/2FqVBo8GtPsB2P7UrcnRR1) | 3:41 |
+| 92 | [TIMERIDER 1983](https://open.spotify.com/track/0oGEkRNd79fARgvmCKjbHU) | [Adrianwave](https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw) | [TIMERIDER 1983](https://open.spotify.com/album/7MxdhXIE5rFdlrk6JaYzVK) | 3:08 |
 | 93 | [CATCH ME \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/track/6fEFEteEyD5ZCsh7KBl1tK) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [中山美穂](https://open.spotify.com/artist/27uDA7mGoHPHFvlBiZ4J9Z) | [中山美穂 \- Night Tempo presents ザ・昭和グルーヴ](https://open.spotify.com/album/3vDZoLb3zibICoeWzbeXXk) | 4:31 |
 | 94 | [I Must Be Dreamin'](https://open.spotify.com/track/0c4B3vugfHDK23HL5hjvGb) | [Luanmer](https://open.spotify.com/artist/2OdUBrq8S4T9JBgdllvvuD), [サクラSAKURA\-LEE](https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB) | [I Must Be Dreamin'](https://open.spotify.com/album/33RvNe28yAJFslxS7A9ons) | 3:43 |
 | 95 | [I Didn't Know](https://open.spotify.com/track/1j9YnP7bHVGzBr3DPiJyB8) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Talk Of The Dancefloor](https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5) | 3:22 |

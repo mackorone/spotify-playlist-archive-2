@@ -4,7 +4,7 @@
 
 > Rock legends & epic songs that continue to inspire generations\. Cover: Pink Floyd
 
-388 songs - 1 day 4 hr 40 min
+389 songs - 1 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Breaking the Law](https://open.spotify.com/track/2RaA6kIcvomt77qlIgGhCT) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [British Steel](https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY) | 2:33 | 2023-01-06 |  |
 | [Brown Sugar](https://open.spotify.com/track/5EcvzboYmDIfXo9gPplsSB) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Deluxe\)](https://open.spotify.com/album/1WDA6r4advRJalp0gJCoXv) | 3:48 | 2021-12-14 | 2022-04-16 |
 | [Bullet With Butterfly Wings \- Remastered 2012](https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:18 | 2022-02-17 |  |
-| [Californication](https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication \(Deluxe Edition\)](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) | 5:29 | 2022-09-30 |  |
+| [Californication](https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication \(Deluxe Edition\)](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) | 5:29 | 2022-09-30 | 2026-02-28 |
 | [Carry on Wayward Son](https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [Leftoverture \(Expanded Edition\)](https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR) | 5:23 | 2021-12-14 |  |
 | [Changes \- 2013 Remaster](https://open.spotify.com/track/3b7wNR330iKhql9dEdbNci) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4 \(2014 Remaster\)](https://open.spotify.com/album/3zNcigR9hAceoTJphnxg6f) | 4:42 | 2025-07-22 |  |
 | [Closer](https://open.spotify.com/track/39tLc4Xp58Lu4KcWHggeE2) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/3i13RcPnJ0AkHEamweLGhq) | 6:13 | 2021-12-14 | 2022-01-07 |
@@ -292,6 +292,7 @@
 | [Say It Ain't So](https://open.spotify.com/track/4YPhn26bIFm2KUkL1VLzQG) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Deluxe Edition\)](https://open.spotify.com/album/33CmI2lR8PnQwz6133Mc7l) | 4:16 | 2021-12-14 |  |
 | [Say It Ain't So](https://open.spotify.com/track/7eTEVei2Q7Umyzk3AmGObC) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Afternoon Rock](https://open.spotify.com/album/4Y6nUfzVt2MYWBrvNUdtey) | 4:18 | 2022-11-02 | 2022-11-13 |
 | [Say It Ain't So](https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 4:18 | 2022-05-06 | 2024-04-19 |
+| [Scar Tissue](https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication \(Deluxe Edition\)](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) | 3:35 | 2026-02-27 |  |
 | [School's Out](https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [School's Out](https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq) | 3:30 | 2022-02-17 |  |
 | [Seek & Destroy \(Remastered\)](https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/0vNBQof86Lv5gLuf26ML7o) | 6:54 | 2023-08-18 |  |
 | [Seven Nation Army](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:52 | 2021-12-14 |  |

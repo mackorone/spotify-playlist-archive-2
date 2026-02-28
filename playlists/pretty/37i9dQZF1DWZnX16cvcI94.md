@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnX16cvcI94.md) - [plain]
 
 > Los clásicos no pasan de moda\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,676 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,785 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Despacito](https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [VIDA](https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH) | 3:49 |
-| 2 | [Yo Voy \(feat\. Daddy Yankee\)](https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:52 |
-| 3 | [Salió El Sol](https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [King Of Kings](https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5) | 5:15 |
+| 2 | [Salió El Sol](https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [King Of Kings](https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5) | 5:15 |
+| 3 | [Yo Voy \(feat\. Daddy Yankee\)](https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:52 |
 | 4 | [Pa' Que La Pases Bien](https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [El Fenomeno](https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s) | 3:34 |
 | 5 | [Encantadora](https://open.spotify.com/track/7LABrQFfRYcZUqUwng0Heb) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Dangerous](https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY) | 4:00 |
 | 6 | [Pa' Que Retozen](https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 2:31 |
-| 7 | [Rompe](https://open.spotify.com/track/4Xtlw8oXkIOvzV7crUBKeZ) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino En Directo](https://open.spotify.com/album/2rNUIqPFIbq5bSH46jHUZy) | 3:08 |
-| 8 | [Guaya Guaya](https://open.spotify.com/track/79zvVrn65ksbiGQxrtV4I5) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don II](https://open.spotify.com/album/57mWSm5UtRGT08KeJuyZqu) | 3:13 |
+| 7 | [Guaya Guaya](https://open.spotify.com/track/79zvVrn65ksbiGQxrtV4I5) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don II](https://open.spotify.com/album/57mWSm5UtRGT08KeJuyZqu) | 3:13 |
+| 8 | [Rompe](https://open.spotify.com/track/4Xtlw8oXkIOvzV7crUBKeZ) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino En Directo](https://open.spotify.com/album/2rNUIqPFIbq5bSH46jHUZy) | 3:08 |
 | 9 | [Ella Y Yo \- Featuring Don Omar](https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:27 |
 | 10 | [Ay Vamos](https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Familia B Sides](https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp) | 3:46 |
 | 11 | [Sexy Movimiento](https://open.spotify.com/track/1Kgyx7NLtzsa3gWV1efGHu) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Wisin Vs Yandel "Los Extraterrestres"](https://open.spotify.com/album/1wqojXZPs45MXFSPlqcVkh) | 3:29 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnX16cvcI94.md) - [plain]
 | 46 | [Bien Loco](https://open.spotify.com/track/4ObjArCiona7v0xbZ83rUZ) | [Nova y Jory](https://open.spotify.com/artist/6ZK8loFAzWKSFe3b7Lrq4V) | [Bien Loco](https://open.spotify.com/album/6IgRN2hP7uOTeZmL7np7Kd) | 3:38 |
 | 47 | [Ella Se Contradice \(feat\. Plan B\)](https://open.spotify.com/track/4nNeRNXmdZWfw3IjAnITZR) | [Baby Rasta y Gringo](https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Ella Se Contradice \(feat\. Plan B\)](https://open.spotify.com/album/3JYVc0zcw01y9Xjq16266O) | 4:16 |
 | 48 | [Dominicana](https://open.spotify.com/track/45IOnEpVUdxWUZFqpZ7Xvz) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 4:12 |
-| 49 | [Un Poco Loca \(feat\. De La Ghetto\)](https://open.spotify.com/track/5A2fkyeIbRqwXGkIdadL5q) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Los Mas Sueltos Del Reggaeton](https://open.spotify.com/album/1tYGsYdYq3svOlTzAlojm1) | 4:33 |
-| 50 | [Métele Sazón](https://open.spotify.com/track/5RqdUkvsV4BOXpFd5zbXFt) | [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK), [Noriega](https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Mas Flow, Vol\. 1](https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot) | 4:02 |
+| 49 | [Hay Algo en Ti](https://open.spotify.com/track/15PxHZffHMndHQjmzYuGUv) | [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK), [Noriega](https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [Mas Flow, Vol\. 1](https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot) | 3:52 |
+| 50 | [Un Poco Loca \(feat\. De La Ghetto\)](https://open.spotify.com/track/5A2fkyeIbRqwXGkIdadL5q) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Los Mas Sueltos Del Reggaeton](https://open.spotify.com/album/1tYGsYdYq3svOlTzAlojm1) | 4:33 |
 
 Snapshot ID: `AAAAAD6SBe6ALJzZdsw3/EiZOjXxNjys`

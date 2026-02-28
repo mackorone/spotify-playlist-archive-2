@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 
 > Channel some chilled\-out back yard vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,981,165 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,981,015 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 51 | [Featherweight](https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 3:50 |
 | 52 | [April](https://open.spotify.com/track/6J0OvmRxVmiRyLeJ0aBryf) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:08 |
 | 53 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 |
-| 54 | [Loving You Will Be The Death Of Me](https://open.spotify.com/track/2TpHdNgZWRCqmZ2iPG90fJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0OTRd577BEHU8WNfrJ24aB) | 2:11 |
-| 55 | [Strawberry Woman](https://open.spotify.com/track/4ABeiTbfMPzISpIeehvxRg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 4:10 |
+| 54 | [Strawberry Woman](https://open.spotify.com/track/4ABeiTbfMPzISpIeehvxRg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 4:10 |
+| 55 | [Loving You Will Be The Death Of Me](https://open.spotify.com/track/2TpHdNgZWRCqmZ2iPG90fJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0OTRd577BEHU8WNfrJ24aB) | 2:11 |
 | 56 | [Airplane](https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 4:00 |
 | 57 | [Mount Airy Hill \(Way Gone\)](https://open.spotify.com/track/5tJR6RjWugeOXA97HROWEt) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [\(watch my moves\)](https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo) | 5:32 |
 | 58 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 94 | [Game of Pretend](https://open.spotify.com/track/0CUUFKKSFn4xoDHAnS8AFL) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Game of Pretend](https://open.spotify.com/album/4XJdTyFjkq9hcngkIDSMmM) | 4:19 |
 | 95 | [I Fall in Love Too Easily](https://open.spotify.com/track/5PIhu07aIrL1Z8sQBB7tNJ) | [Emily Brimlow](https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj) | [I Fall in Love Too Easily](https://open.spotify.com/album/6luCkMIM8Rouwu5HvExXgK) | 3:40 |
 | 96 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 |
-| 97 | [America](https://open.spotify.com/track/1inPvlZzUNG4hqYxLLEF0W) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H), [Molly Sarlé](https://open.spotify.com/artist/4XLoKwIIoARkhaKuZocq5d), [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH) | [America](https://open.spotify.com/album/7m8l1V5XSWHN7QF6cDDYby) | 4:11 |
-| 98 | [When I Say That I Love You](https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD) | [Gabe Goodman](https://open.spotify.com/artist/3ak5fTKu5X8h4yhvf5ThmF) | [When I Say That I Love You](https://open.spotify.com/album/0cPJV0lQbAtuMXeFK3a784) | 2:57 |
+| 97 | [When I Say That I Love You](https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD) | [Gabe Goodman](https://open.spotify.com/artist/3ak5fTKu5X8h4yhvf5ThmF) | [When I Say That I Love You](https://open.spotify.com/album/0cPJV0lQbAtuMXeFK3a784) | 2:57 |
+| 98 | [America](https://open.spotify.com/track/1inPvlZzUNG4hqYxLLEF0W) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H), [Molly Sarlé](https://open.spotify.com/artist/4XLoKwIIoARkhaKuZocq5d), [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH) | [America](https://open.spotify.com/album/7m8l1V5XSWHN7QF6cDDYby) | 4:11 |
 | 99 | [Burden](https://open.spotify.com/track/7HOTm58hiTnCjpSJq4OvJs) | [St\. Catherine's Child](https://open.spotify.com/artist/3szGfag8AiviPVbSmXewBK) | [Burden](https://open.spotify.com/album/6F0IlXWoKvO6YOS1v7PIhF) | 3:41 |
 | 100 | [this is me now](https://open.spotify.com/track/3ZXgBDt3B8JAU8pGdbnvqt) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [this is me now](https://open.spotify.com/album/0scdYf8gP2F8HDNMLt2lvh) | 4:06 |
 

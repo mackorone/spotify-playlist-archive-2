@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,188,964 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,189,233 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 74 | [Queen Majesty \(aka Minstrel and Queen\)](https://open.spotify.com/track/7eArTFXshH2FuzC6ZptVlD) | [Techniques](https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:30 |
 | 75 | [Save A Bread](https://open.spotify.com/track/2oeYctBdUbqVJwI48kT7V3) | [Justin Hinds & The Dominoes](https://open.spotify.com/artist/0TxAbj3qE2NdYzg0SVG09Q) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:43 |
 | 76 | [Napoleon Solo](https://open.spotify.com/track/0xnpRZaTwiMcJWL8Sv1U2R) | [Lynn Taitt & The Jets](https://open.spotify.com/artist/2Fmwp5N1JzqKMTFtCryUuf) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:27 |
-| 77 | [Things You Say You Love](https://open.spotify.com/track/0jr4UlOgvaKOGWIWXKu5RX) | [The Jamaicans](https://open.spotify.com/artist/1EBXhaDx1Mhu3iZ5oC3PJ5) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:47 |
-| 78 | [Long Story](https://open.spotify.com/track/33rdVmEEjh3wYWBWoFWvwi) | [Rudy Mills](https://open.spotify.com/artist/7bd687clsLdr4DueSybjG3) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:11 |
+| 77 | [Long Story](https://open.spotify.com/track/33rdVmEEjh3wYWBWoFWvwi) | [Rudy Mills](https://open.spotify.com/artist/7bd687clsLdr4DueSybjG3) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:11 |
+| 78 | [Things You Say You Love](https://open.spotify.com/track/0jr4UlOgvaKOGWIWXKu5RX) | [The Jamaicans](https://open.spotify.com/artist/1EBXhaDx1Mhu3iZ5oC3PJ5) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:47 |
 | 79 | [You Don't Care \(aka You'll Want Me Back\)](https://open.spotify.com/track/2Q5lnX5AiN6P9TPbfYtsBB) | [Techniques](https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:33 |
 | 80 | [Do It Right](https://open.spotify.com/track/2JROlfSYAfoMYYOPfgOPbS) | [The Three Tops](https://open.spotify.com/artist/79kei1hSypfSpVCg1tutz8) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:28 |
 | 81 | [What Will Your Mama Say](https://open.spotify.com/track/5UD98Sz4F4Jl2mtUsRPnxS) | [Clancy Eccles](https://open.spotify.com/artist/0YVtA75CDCz5FYqis7Kf8v) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:21 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 94 | [Chase The Devil](https://open.spotify.com/track/2kPQbvKYxJV2z5q2wNps7n) | [Max Romeo](https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv), [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [War Ina Babylon](https://open.spotify.com/album/4Bw7hyzk37wBHptu4HglHV) | 3:27 |
 | 95 | [Tenement Yard](https://open.spotify.com/track/4SNxXAQ8QMlxLhYVX7nuoE) | [Jacob Miller](https://open.spotify.com/artist/6zJjuLyqniz4ilDlYIjiio) | [Song Book: Chapter a Day](https://open.spotify.com/album/0Ti29W5rhOp8ojKJ28SqtP) | 2:34 |
 | 96 | [Everything I Own](https://open.spotify.com/track/5l1w4vYo1UJSauY3Sh5Dxi) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:45 |
-| 97 | [Sky Larking](https://open.spotify.com/track/5xMGVCPC8fptCrhBGqeFxa) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Super Best](https://open.spotify.com/album/3VJPuMBy1fB1LzT7Uf9CBH) | 3:01 |
+| 97 | [Beat Down Babylon](https://open.spotify.com/track/0mBz5oETbkKgPTHKTt8RHG) | [Junior Byles](https://open.spotify.com/artist/5J6lHDYy53GyksfcJyHadC) | [Beat Down Babylon](https://open.spotify.com/album/1dqJPOw19SfCBJhnDUYGM9) | 2:35 |
 | 98 | [Wonderful World, Beautiful People](https://open.spotify.com/track/3JvaxYLkDFudjoHYIW8FvC) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Story Of Trojan Records](https://open.spotify.com/album/1SudwwvggZ8pGJhtF0MlsO) | 3:11 |
-| 99 | [Sunshine Reggae](https://open.spotify.com/track/3VXtRTAn8RyKM5qTa5Tazi) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:14 |
-| 100 | [Beat Down Babylon](https://open.spotify.com/track/0mBz5oETbkKgPTHKTt8RHG) | [Junior Byles](https://open.spotify.com/artist/5J6lHDYy53GyksfcJyHadC) | [Beat Down Babylon](https://open.spotify.com/album/1dqJPOw19SfCBJhnDUYGM9) | 2:35 |
+| 99 | [Sky Larking](https://open.spotify.com/track/5xMGVCPC8fptCrhBGqeFxa) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Super Best](https://open.spotify.com/album/3VJPuMBy1fB1LzT7Uf9CBH) | 3:01 |
+| 100 | [Sunshine Reggae](https://open.spotify.com/track/3VXtRTAn8RyKM5qTa5Tazi) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:14 |
 
 Snapshot ID: `AAAAABu+XjFQroHtiuGSSTSBelDADKoy`

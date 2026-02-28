@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGjZNum410i.md) - [plain]
 
 > ¡Disfruta de las canciones pop con Juan Carlos Bodoque y Tulio Triviño!
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,056 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,057 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGjZNum410i.md) - [plain]
 | 9 | [TQ](https://open.spotify.com/track/0ZNVJPAXyL6ubMiPS0NGPr) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt) | [EVOLUTION](https://open.spotify.com/album/0uqXfeEoEnK6tFevx5pRRe) | 3:06 |
 | 10 | [Mi Muñeca Me Habló](https://open.spotify.com/track/5ncgVzLRtRDzcPigTddpdp) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG), [Flor Bovina](https://open.spotify.com/artist/40FjANIfFcoTtH0kF9ixHG) | [31 Minutos](https://open.spotify.com/album/5F7dnLUwdrbhEReS86ebyG) | 2:05 |
 | 11 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
-| 12 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 |
-| 13 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
+| 12 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
+| 13 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 |
 | 14 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 |
 | 15 | [Baila A Lo Loco \- Remix](https://open.spotify.com/track/46UAqQNPxmcYKzoUs51946) | [Los Meñiques De La Casa](https://open.spotify.com/artist/4NKHtkR5qcCUoVnhlALcJR), [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Baila A Lo Loco + Blippi \(Remix\)](https://open.spotify.com/album/3wmGSTiQUf8ioMdL7tOES9) | 2:57 |
 | 16 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 |
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGjZNum410i.md) - [plain]
 | 38 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 |
 | 39 | [No Hay Nadie Más](https://open.spotify.com/track/3IPJg1sdqLj12kFIndaonN) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [MANTRA](https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN) | 3:19 |
 | 40 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 |
-| 41 | [Como La Flor](https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:06 |
+| 41 | [Vasos Vacíos \- Remasterizado 2008](https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El Ritmo Mundial](https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh) | 4:39 |
 | 42 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 |
-| 43 | [Vasos Vacíos \- Remasterizado 2008](https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El Ritmo Mundial](https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh) | 4:39 |
+| 43 | [Como La Flor](https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:06 |
 | 44 | [Tacones Rojos](https://open.spotify.com/track/6ylDpki1VpIsc525KC1ojF) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 3:09 |
 | 45 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 |
 | 46 | [Dance The Night](https://open.spotify.com/track/11C4y2Yz1XbHmaQwO06s9f) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 2:56 |

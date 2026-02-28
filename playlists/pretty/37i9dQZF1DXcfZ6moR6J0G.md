@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 
 > Something takes a part of me.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,210,921 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,211,575 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,14 +14,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 | 4 | [Butterfly](https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 3:36 |
 | 5 | [Chop Suey!](https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:30 |
 | 6 | [Rollin' \(Air Raid Vehicle\)](https://open.spotify.com/track/3IV4swNduIRunHREK80owz) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Chocolate Starfish And The Hot Dog Flavored Water](https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7) | 3:33 |
-| 7 | [Duality](https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses \(Special Edition\)](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:12 |
+| 7 | [My Own Summer \(Shove It\)](https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 3:34 |
 | 8 | [In the End](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:36 |
-| 9 | [My Own Summer \(Shove It\)](https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 3:34 |
+| 9 | [Duality](https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses \(Special Edition\)](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:12 |
 | 10 | [Toxicity](https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:38 |
 | 11 | [My Way](https://open.spotify.com/track/2gSVKxPDww9Eep5rdvtdem) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Chocolate Starfish And The Hot Dog Flavored Water](https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7) | 4:32 |
-| 12 | [Before I Forget](https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses \(Special Edition\)](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:38 |
+| 12 | [Be Quiet and Drive \(Far Away\)](https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 4:59 |
 | 13 | [What I've Done](https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 3:25 |
-| 14 | [Be Quiet and Drive \(Far Away\)](https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 4:59 |
+| 14 | [Before I Forget](https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses \(Special Edition\)](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:38 |
 | 15 | [Paralyzer](https://open.spotify.com/track/28IEbk5a7twNTbUEvWslUb) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Them Vs\. You Vs\. Me \(Deluxe Edition\)](https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ) | 3:28 |
 | 16 | [Blind](https://open.spotify.com/track/1pr9TZGOXeJUggIal1Wq3R) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Korn](https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z) | 4:18 |
 | 17 | [Nookie](https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Significant Other](https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP) | 4:49 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 | 33 | [Y'all Want a Single](https://open.spotify.com/track/2WSWm0zlL3CJRACHS5KXbB) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Take A Look In The Mirror](https://open.spotify.com/album/3487OYBtnRl82qA6tfyWco) | 3:17 |
 | 34 | [Push It](https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 2:34 |
 | 35 | [Open Your Eyes](https://open.spotify.com/track/5oxpT46KeiEuckYnChgFFT) | [Guano Apes](https://open.spotify.com/artist/4whxX965DKKqYkXmk33b4E) | [Proud Like a God](https://open.spotify.com/album/1N5L209IqXQ6cqV2HFJU4G) | 3:07 |
-| 36 | [Nobody](https://open.spotify.com/track/581mukhDjta60CCwpvnjL9) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(Revised Online Music\)](https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg) | 3:56 |
+| 36 | [Blue Monday](https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE) | [Orgy](https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0) | [Candyass](https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A) | 4:27 |
 | 37 | [Left Behind](https://open.spotify.com/track/4l3Vmsw0KO8HJqFtnbqaqu) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa \(10th Anniversary Edition\)](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:01 |
-| 38 | [Blue Monday](https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE) | [Orgy](https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0) | [Candyass](https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A) | 4:27 |
+| 38 | [Nobody](https://open.spotify.com/track/581mukhDjta60CCwpvnjL9) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(Revised Online Music\)](https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg) | 3:56 |
 | 39 | [Die MF Die](https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Life](https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx) | 3:06 |
 | 40 | [Whatever](https://open.spotify.com/track/6PHn6aXuM2FkzonGWJxY28) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Godsmack](https://open.spotify.com/album/1w7vC8hjYXhK1fS5cM2fUM) | 3:26 |
 | 41 | [Back to School \(Mini Maggit\)](https://open.spotify.com/track/0Qrb3L8JgreLBW8g4qyan9) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 3:57 |

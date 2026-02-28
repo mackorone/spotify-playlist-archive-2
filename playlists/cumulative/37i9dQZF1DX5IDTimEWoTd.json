@@ -456,7 +456,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 216277,
       "name": "Beautiful Thing",
       "url": "https://open.spotify.com/track/02lEmG1nu8rpOSecUVnbSg"
@@ -1854,6 +1854,24 @@
       "duration_ms": 135066,
       "name": "Glue Song",
       "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
+    },
+    {
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211063,
+      "name": "God Was Showing Off",
+      "url": "https://open.spotify.com/track/1sVBT215CDmVJvfy1E2OCU"
     },
     {
       "album": {
@@ -3956,7 +3974,7 @@
       ],
       "date_added": "2020-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 224585,
       "name": "Put A Little Love On Me",
       "url": "https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT"
@@ -4278,6 +4296,24 @@
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+    },
+    {
+      "album": {
+        "name": "So Many Ways",
+        "url": "https://open.spotify.com/album/2wTLPH7cnRqnhdFNVFcqFC"
+      },
+      "artists": [
+        {
+          "name": "Scout Willis",
+          "url": "https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212373,
+      "name": "So Many Ways",
+      "url": "https://open.spotify.com/track/3YvLgFx7MCEYbwkbJwIGOW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 100 % chill, 100 % Montréal\. Photo: Grand Eugène
 
-807 songs - 1 day 21 hr 48 min
+812 songs - 1 day 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [+1](https://open.spotify.com/track/5GyNaOBpxws6Kk6v51OLCE) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Meggie Lennon](https://open.spotify.com/artist/1T3MA61vWkReBpYGEUqKoq), [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [Magie à minuit](https://open.spotify.com/album/2e4p5hzB4FstwusUaPg8w8) | 2:18 | 2023-03-31 | 2023-09-16 |
 | [+1 \(feat\. Meggie Lennon & Virginie B\)](https://open.spotify.com/track/3KwIovaWcKzi4zQpfMh1YS) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Meggie Lennon](https://open.spotify.com/artist/1T3MA61vWkReBpYGEUqKoq), [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [Magie à minuit](https://open.spotify.com/album/3K6FhP9DCUVPDGjNV0MMAt) | 2:18 | 2023-09-15 | 2024-04-19 |
 | [1.25](https://open.spotify.com/track/2DzAvXj0WgBFd65vcC9RNN) | [Frais Dispo](https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9) | [Les teintes du ciel n'ont aucun sens](https://open.spotify.com/album/2thduWVUqjxpdj4Iar5CMX) | 5:00 | 2024-03-08 | 2025-05-31 |
+| [14](https://open.spotify.com/track/3IrFYr7BFk9SPSTIRoPT0S) | [l i l a](https://open.spotify.com/artist/36DAMwnbeEoi00GrX1eesi) | [14](https://open.spotify.com/album/1XWkGbcYhIHXqRUR7oxnWf) | 4:40 | 2026-02-27 |  |
 | [1990](https://open.spotify.com/track/4XwTY4kqywle66xnhmbG4E) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3) | [1990](https://open.spotify.com/album/7DivTcYqGWHAhpCjuoxzIj) | 2:09 | 2025-03-21 | 2025-05-17 |
 | [2 goélands](https://open.spotify.com/track/2FQ3gf8fk67DdDgXEdfgmv) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [2 goélands](https://open.spotify.com/album/7L12QeyV06gZhadVSI64Zf) | 2:58 | 2025-12-03 | 2026-01-17 |
 | [20k heures de solitude](https://open.spotify.com/track/0LcesJstJfzDHrnLGagUcJ) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [20k heures de solitude](https://open.spotify.com/album/0PQmGXDqt6jH23N1VCSB3J) | 4:59 | 2024-02-09 | 2024-04-13 |
@@ -170,6 +171,7 @@
 | [Cycle délicat](https://open.spotify.com/track/12Lrxdw1iIjQJT4y2VT436) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [Cycle délicat](https://open.spotify.com/album/5sehiJueG6OFg1EYJ9dm9B) | 3:14 | 2025-07-18 | 2025-11-08 |
 | [Cyclone](https://open.spotify.com/track/2fT4QsF8AWnQIsseRXkLMl) | [Lia Kuri](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj) | [Cyclone](https://open.spotify.com/album/5raddefOVNlawnMf7t3Pzk) | 2:49 | 2024-08-23 | 2024-10-26 |
 | [Côte à côte](https://open.spotify.com/track/0HOam65TS747Pobhfj8qai) | [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Côte à côte](https://open.spotify.com/album/2FsHNptOTlP86hAIr4H28v) | 2:46 | 2022-03-25 | 2022-09-17 |
+| [D 0 R S \- B i E N \. \. .](https://open.spotify.com/track/0duJKvyPSv7wYrocVIz3bA) | [Vito Jacques](https://open.spotify.com/artist/251bV38HLZDkJ31zeKtcLs) | [ZÉRO](https://open.spotify.com/album/44H7L5wdFOGOcdf5hLUlcu) | 2:19 | 2026-02-27 |  |
 | [Danced Into My Life](https://open.spotify.com/track/1TytpiMHN6cvEk6NT8WMqE) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [My Bestfriend's House](https://open.spotify.com/album/7m3bfhtjrx4YfHpO2Ph5tZ) | 2:46 | 2022-03-25 | 2022-07-09 |
 | [Danger](https://open.spotify.com/track/4PKsZEAxcAPV6q6MeNaIGz) | [Irdens Exantus](https://open.spotify.com/artist/4VjwwRk7cNv72B1okswQkz) | [Danger](https://open.spotify.com/album/34SPV2ljBQxMKPm4iCMWrN) | 3:06 | 2025-06-13 | 2025-10-25 |
 | [Dans la foule](https://open.spotify.com/track/1lxW5i6WdLJpUJYqOyMpNS) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Dans la foule](https://open.spotify.com/album/4Bcl7TLTBO7Q6Sbks59HRC) | 2:34 | 2022-03-25 | 2022-04-29 |
@@ -200,6 +202,7 @@
 | [Distrust the Magician](https://open.spotify.com/track/4EczFi15YP46BSa8u1p95v) | [Unessential Oils](https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu) | [Distrust the Magician](https://open.spotify.com/album/61I73dAC8MzN56vo2FX4SO) | 5:37 | 2024-03-08 | 2024-06-01 |
 | [djurdjura \(جبال جرجرة\)](https://open.spotify.com/track/0Y4JJwScd8AMPlmFuwsppx) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [UFO RELIGION](https://open.spotify.com/album/0qAOo3mr8RBN7ZNRf5TiAI) | 3:08 | 2024-10-18 | 2025-10-18 |
 | [DO IT!](https://open.spotify.com/track/6DgY9CfYAZTXDZPDOPUDsR) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh) | [DO IT!](https://open.spotify.com/album/1P9ARtQB0fGzvTPjGyOWYu) | 1:54 | 2024-10-25 | 2025-10-18 |
+| [Dog \(everybody learns\)](https://open.spotify.com/track/0aQ7qATPeO0gixsNa3hE2Q) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [Dog \(everybody learns\)](https://open.spotify.com/album/0Iv6SYVClQZFosOykS8jhP) | 3:13 | 2026-02-27 |  |
 | [Dog Years \- weird inside Remix](https://open.spotify.com/track/15zSGbZomfOYEJJdZ55OAs) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [weird inside](https://open.spotify.com/artist/4iylWAhvTVtSVhIeAoM7Bl) | [Dog Years \(weird inside Remix\)](https://open.spotify.com/album/4w49KsCkFCr70tlMIm436k) | 2:23 | 2022-03-25 | 2022-08-23 |
 | [DOLLA BILL](https://open.spotify.com/track/60KAfeoYKcZxescGw4ZjkD) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI), [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [DOLLA BILL](https://open.spotify.com/album/15dVyqRAoOdrS1ADqD7zB6) | 3:43 | 2022-11-11 | 2023-04-22 |
 | [DON'T WANNA HEAR THAT SONG ANYMORE](https://open.spotify.com/track/3Q72tU2JbmxUaUODbv3GEC) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [DON'T WANNA HEAR THAT SONG ANYMORE](https://open.spotify.com/album/6QMjkSOxC9E7vbqfLDuGEZ) | 3:11 | 2024-08-23 | 2024-10-26 |
@@ -292,6 +295,7 @@
 | [Grand écart](https://open.spotify.com/track/0fe8kIyWGG0g40DQ01iMAb) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH) | [Grand écart](https://open.spotify.com/album/7tmu5BrkgUXznUutObGBbx) | 2:33 | 2025-05-30 | 2025-11-08 |
 | [Grapevine](https://open.spotify.com/track/2dNtWTtPsLWfF62cqMES4V) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc) | [Grapevine](https://open.spotify.com/album/2F4hKMXwaalpaoTDn5vTxB) | 1:53 | 2025-11-07 | 2025-11-22 |
 | [green light](https://open.spotify.com/track/0ctnLcTOOK4yDNxAq48pZQ) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [green light](https://open.spotify.com/album/6B4obGwSQ7cPstogpuNs2M) | 3:02 | 2024-10-18 | 2025-04-05 |
+| [Guilt Drive](https://open.spotify.com/track/1akpUk38h2yvRKn3quUNNS) | [Fireball Kid](https://open.spotify.com/artist/1YnSsYsMWBmHHN05ALpcXM) | [Guilt Drive](https://open.spotify.com/album/1VTT8Rrevx15iQhAJR7FH1) | 3:27 | 2026-02-27 |  |
 | [Habitat](https://open.spotify.com/track/0L9PnZbx3ySxrQZgfQPJVX) | [Frais Dispo](https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9) | [Habitat](https://open.spotify.com/album/04Tv2pBqM5gHrJQXOyLJNq) | 4:48 | 2025-10-31 | 2025-12-04 |
 | [Halfmoon](https://open.spotify.com/track/33sEQdgKNrUj5sKU66XB4s) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Halfmoon](https://open.spotify.com/album/47KeqI7vwzGUSr2TjK4L7T) | 3:16 | 2025-10-24 | 2025-12-04 |
 | [hana](https://open.spotify.com/track/13Ue2YJXcvl8Wm5iv0TlMo) | [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [Astral 2000](https://open.spotify.com/album/2qsyEK8oIuQEIUryUqL3jp) | 2:35 | 2024-09-20 | 2025-10-18 |
@@ -533,6 +537,7 @@
 | [On My Own](https://open.spotify.com/track/4UNJNgzUePpE8ph0r10Dbg) | [Amber Days](https://open.spotify.com/artist/2jNpmcKcRtfzxxKgaMsOmb) | [On My Own](https://open.spotify.com/album/4WREdL8RikGhcfRdCs7iP9) | 3:34 | 2026-02-13 |  |
 | [On s'aime jusqu'à quand ?](https://open.spotify.com/track/4ueRX7t3Sa860JWwrbIJyJ) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ), [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [On s'aime jusqu'à quand ?](https://open.spotify.com/album/7bP8Fs0pt3T60PFhjcYLYF) | 3:21 | 2024-05-03 | 2024-08-31 |
 | [on s'en fou](https://open.spotify.com/track/4hYzt5vDT38IsjnbI8RSAV) | [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc) | [swirly](https://open.spotify.com/album/6xxKNduR65aGZkDTuNZ6Be) | 3:25 | 2023-05-26 | 2024-08-10 |
+| [On Time](https://open.spotify.com/track/5VIHl6ClOREraq2WXR4EEK) | [Alex Mick](https://open.spotify.com/artist/0WoFoQAvv1ul6lQKQaGu0b) | [Never Really Enough](https://open.spotify.com/album/0LXaVDXe6vWukFLbVPQyBL) | 3:23 | 2026-02-27 |  |
 | [On Time](https://open.spotify.com/track/58uv9bsR0CpkCzHD8dPztO) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY) | [On Time](https://open.spotify.com/album/4qix7rW4u0UyYSjUamQlRM) | 3:09 | 2025-10-10 | 2026-01-17 |
 | [One Gripe](https://open.spotify.com/track/2Xml90DLbRQ5UI2gUfjAAA) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [All Cylinders](https://open.spotify.com/album/1jooROM5diSNAfEwESyDDH) | 2:29 | 2025-02-28 | 2025-10-18 |
 | [ONE LAST TIME](https://open.spotify.com/track/5YNjmAkavfCkKkxijlkV7x) | [AMEN DENIRO](https://open.spotify.com/artist/5i5IBAqlmKRwgkalA07mZ5) | [ONE LAST TIME](https://open.spotify.com/album/04QpsUH0xWoAsEGRRPw6um) | 3:03 | 2026-01-23 |  |

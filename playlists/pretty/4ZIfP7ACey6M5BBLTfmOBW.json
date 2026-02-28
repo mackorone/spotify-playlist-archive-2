@@ -1,12 +1,12 @@
 {
   "description": "All the freshest hip-hop heaters in one list! Cover: A$AP Rocky.",
-  "num_followers": 28696,
+  "num_followers": 28692,
   "original_name": "Fresh Hip Hop",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAnqjHYoQk6JHtoEmrCcoK5ruhLgm3C",
+  "snapshot_id": "AAAnrS7ioikt6twtzRZG8NxmzMBw3FVf",
   "tracks": [
     {
       "added_at": "2026-02-20 18:56:17",
@@ -1819,6 +1819,54 @@
       "duration_ms": 238249,
       "name": "DUMBO",
       "url": "https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML"
+    },
+    {
+      "added_at": "2026-02-27 15:00:30",
+      "album": {
+        "name": "HYPERYOUTH (afterparty)",
+        "url": "https://open.spotify.com/album/3vIpUJFnNJgMwB4nygKtgV"
+      },
+      "artists": [
+        {
+          "name": "Joey Valence & Brae",
+          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
+        }
+      ],
+      "duration_ms": 188842,
+      "name": "push the pipe",
+      "url": "https://open.spotify.com/track/6B64s9LUjWse0rtS9A7oyU"
+    },
+    {
+      "added_at": "2026-02-27 15:33:50",
+      "album": {
+        "name": "Through Her Eyes",
+        "url": "https://open.spotify.com/album/0gVsu04Wmbfa7bKaQIxTTk"
+      },
+      "artists": [
+        {
+          "name": "Jxggi",
+          "url": "https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG"
+        }
+      ],
+      "duration_ms": 166963,
+      "name": "Thug Love",
+      "url": "https://open.spotify.com/track/7H0vjdxgl0aBWLC9IDFAGe"
+    },
+    {
+      "added_at": "2026-02-27 15:34:32",
+      "album": {
+        "name": "Pop Shit",
+        "url": "https://open.spotify.com/album/2TSJIhXkxnkfqfIuhc1729"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 100444,
+      "name": "Pop Shit",
+      "url": "https://open.spotify.com/track/2YbsFrxepUS7s3IGHjLLWn"
     }
   ],
   "unique_name": "Fresh Hip Hop",

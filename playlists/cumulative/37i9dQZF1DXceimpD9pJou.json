@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las mejores nuevas canciones Cristianas.  Foto: CRYS & Indiomar",
+  "description": "Las mejores nuevas canciones Cristianas.  Foto: Alex Campos",
   "name": "Todas Novedades Cristianas",
   "tracks": [
     {
@@ -1888,7 +1888,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 512000,
       "name": "Adorar\u00e9 al Rey - En Vivo",
       "url": "https://open.spotify.com/track/2lRiT8i6MukBVfycjlHy5i"
@@ -3172,10 +3172,32 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 203714,
       "name": "Alegr\u00eda",
       "url": "https://open.spotify.com/track/2jSyrrOTSOY07i6KVNU12e"
+    },
+    {
+      "album": {
+        "name": "AS\u00cd SER\u00c1",
+        "url": "https://open.spotify.com/album/3rMpZAyXBu5e7zVX6OLJRA"
+      },
+      "artists": [
+        {
+          "name": "Elevation Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0"
+        },
+        {
+          "name": "Unified Sound",
+          "url": "https://open.spotify.com/artist/6Y0QlQ95DbxecMvOq4KhXf"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247586,
+      "name": "Aleluya",
+      "url": "https://open.spotify.com/track/2bp5Q3eafyHErg3LYt5b8M"
     },
     {
       "album": {
@@ -6689,6 +6711,24 @@
     },
     {
       "album": {
+        "name": "Ay\u00fadame a Creer",
+        "url": "https://open.spotify.com/album/33TGZrKLsp5OIdiRYd7ggL"
+      },
+      "artists": [
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188344,
+      "name": "Ay\u00fadame a Creer",
+      "url": "https://open.spotify.com/track/5dOuVjXwYraVqeP9Dr75Av"
+    },
+    {
+      "album": {
         "name": "Ay\u00fadame en Esto (Reimagined)",
         "url": "https://open.spotify.com/album/11WLynUXcUxcCHA34TJ3en"
       },
@@ -8102,7 +8142,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 164526,
       "name": "Bonito :)",
       "url": "https://open.spotify.com/track/6kgm0J6sYGR6XnUdF3Usid"
@@ -9890,6 +9930,32 @@
       "duration_ms": 339443,
       "name": "Canto En La Batalla - En Vivo",
       "url": "https://open.spotify.com/track/68Hxi3sKPugKXtOG4ZBmK9"
+    },
+    {
+      "album": {
+        "name": "Cant\u00e1remos (Que Cante La Iglesia)",
+        "url": "https://open.spotify.com/album/5huZc7HBMowjgsBDcZhcrW"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "ECCOS",
+          "url": "https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l"
+        },
+        {
+          "name": "Samu Robles",
+          "url": "https://open.spotify.com/artist/2fvKekLjq0z3TzIljRraPl"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195756,
+      "name": "Cant\u00e1remos (Que Cante La Iglesia)",
+      "url": "https://open.spotify.com/track/1c3kCYHSJWAM4doRN4Bver"
     },
     {
       "album": {
@@ -14168,7 +14234,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 221557,
       "name": "Cristo viene pronto",
       "url": "https://open.spotify.com/track/1zu7WLbEphT0VDVOx01hYi"
@@ -14274,7 +14340,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 279407,
       "name": "Cuan grande amor",
       "url": "https://open.spotify.com/track/2GeGSg5IGMaALSn5m7T1d8"
@@ -20198,7 +20264,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 185702,
       "name": "EL GIGANTE",
       "url": "https://open.spotify.com/track/13Z2lo535gFJJ4y6q1yGEZ"
@@ -21124,6 +21190,28 @@
       "duration_ms": 188031,
       "name": "El Sanfuanzon",
       "url": "https://open.spotify.com/track/2o8rZLkiAVN7phXggurUEN"
+    },
+    {
+      "album": {
+        "name": "EL SANTO (Remix)",
+        "url": "https://open.spotify.com/album/5Hbx4rTlptBDd9D1s0xMbs"
+      },
+      "artists": [
+        {
+          "name": "Cita Con el Padre",
+          "url": "https://open.spotify.com/artist/0L6N5Bc6pyZLndWo930w3a"
+        },
+        {
+          "name": "Oasis Ministry",
+          "url": "https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 802004,
+      "name": "EL SANTO - Remix",
+      "url": "https://open.spotify.com/track/4FArOuN4SgaIch5cNx6hrq"
     },
     {
       "album": {
@@ -23964,6 +24052,28 @@
       "duration_ms": 246569,
       "name": "Escogido fui de Dios (Nuevos Horizontes)",
       "url": "https://open.spotify.com/track/4oGVuqN5ybFH50hQaYacUI"
+    },
+    {
+      "album": {
+        "name": "Andar Sobre el Agua",
+        "url": "https://open.spotify.com/album/1hjN4fnsl0oGzR0IIJ7WT5"
+      },
+      "artists": [
+        {
+          "name": "Santiago Benavides",
+          "url": "https://open.spotify.com/artist/1kmI6wp97POUynJvBlxkuR"
+        },
+        {
+          "name": "Cris Velez",
+          "url": "https://open.spotify.com/artist/5Vw576povsUgOarGPvcmQM"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208523,
+      "name": "Escojo la Vida",
+      "url": "https://open.spotify.com/track/2y4CfvaP124RwNyjJXCoW4"
     },
     {
       "album": {
@@ -28056,6 +28166,32 @@
       "duration_ms": 254250,
       "name": "Gloria al gran Rey",
       "url": "https://open.spotify.com/track/3Gt07dNRdwkGfGk61AESqS"
+    },
+    {
+      "album": {
+        "name": "Gloria al Justo (Live)",
+        "url": "https://open.spotify.com/album/191f1qceRbZJlGSLF4Os5t"
+      },
+      "artists": [
+        {
+          "name": "Comunidad Music",
+          "url": "https://open.spotify.com/artist/5qzNDbhaScIgGBcByNzJQd"
+        },
+        {
+          "name": "Catalina Casta\u00f1o",
+          "url": "https://open.spotify.com/artist/5aIHcTYriz799e51WJWY9o"
+        },
+        {
+          "name": "Miguel Iba\u00f1ez",
+          "url": "https://open.spotify.com/artist/0TRZ28ZMERih7XbJXWBuqJ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 593000,
+      "name": "Gloria al Justo - Live",
+      "url": "https://open.spotify.com/track/4dhTiLNaIlpbLMq64evqJb"
     },
     {
       "album": {
@@ -33121,6 +33257,24 @@
     },
     {
       "album": {
+        "name": "Ingenuo",
+        "url": "https://open.spotify.com/album/1JCRLf6viFbabU4D7AzpxX"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Lara",
+          "url": "https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197561,
+      "name": "Ingenuo",
+      "url": "https://open.spotify.com/track/49qUOXChJyidskXieN9EQY"
+    },
+    {
+      "album": {
         "name": "inhala/exhala",
         "url": "https://open.spotify.com/album/32AlESPol5jTkOqnHBvIy4"
       },
@@ -34370,6 +34524,28 @@
       "duration_ms": 181875,
       "name": "Juda",
       "url": "https://open.spotify.com/track/5x0993HMvHimQrwDIIwExe"
+    },
+    {
+      "album": {
+        "name": "Afro King The Concert (Live)",
+        "url": "https://open.spotify.com/album/4mbxtfaGQkz9oN997WZ0Qt"
+      },
+      "artists": [
+        {
+          "name": "Jairon High",
+          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
+        },
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218024,
+      "name": "Juda - Live",
+      "url": "https://open.spotify.com/track/5pXkoeCABU8TUTTVL2XgyP"
     },
     {
       "album": {
@@ -42763,6 +42939,24 @@
     },
     {
       "album": {
+        "name": "Mi Cruz",
+        "url": "https://open.spotify.com/album/4TCvbFH9rgpmqoWEp2MBVK"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188280,
+      "name": "Mi Cruz",
+      "url": "https://open.spotify.com/track/0K9J8WJRF9qCk6ElwdjKpZ"
+    },
+    {
+      "album": {
         "name": "Mi destino Est\u00e1 Escrito (No Morir\u00e9)",
         "url": "https://open.spotify.com/album/0r0vJdXoKFzV2LIkuYNLqJ"
       },
@@ -45286,7 +45480,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 129795,
       "name": "Mundo Fr\u00edo",
       "url": "https://open.spotify.com/track/2UVzskDol0uYyQ9HArAUyZ"
@@ -46216,7 +46410,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 952248,
       "name": "Nada Me Falta - En Vivo",
       "url": "https://open.spotify.com/track/2M5pt6wpcALAb20peQ0nS5"
@@ -46716,7 +46910,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 270807,
       "name": "NAZARENO",
       "url": "https://open.spotify.com/track/1zw8W2e8YV0fRj5cUbjc6c"
@@ -47549,7 +47743,7 @@
     },
     {
       "album": {
-        "name": "No Hay Otro Dios",
+        "name": "NO HAY OTRO DIOS",
         "url": "https://open.spotify.com/album/12UXZH9EtFjOFAC8i5HYib"
       },
       "artists": [
@@ -47566,7 +47760,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 404415,
-      "name": "No Hay Otro Dios",
+      "name": "NO HAY OTRO DIOS",
       "url": "https://open.spotify.com/track/5l5KxQeVKmvVJCQ31zzwqN"
     },
     {
@@ -47590,6 +47784,24 @@
       "duration_ms": 646750,
       "name": "No Hay Otro Lugar",
       "url": "https://open.spotify.com/track/57M8sYkCCG0gInG9DJRYrz"
+    },
+    {
+      "album": {
+        "name": "No Hay Otro Nombre",
+        "url": "https://open.spotify.com/album/0qZtUHUKu1f9me1UHsrgQ6"
+      },
+      "artists": [
+        {
+          "name": "Factor de Cambio",
+          "url": "https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403578,
+      "name": "No Hay Otro Nombre",
+      "url": "https://open.spotify.com/track/7bT84iTM5WW6zR6qxitCPK"
     },
     {
       "album": {
@@ -50230,7 +50442,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 163200,
       "name": "On My Side - Spanish",
       "url": "https://open.spotify.com/track/7nQwRStqZHFXKfAiLuWAdZ"
@@ -51130,7 +51342,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 130264,
       "name": "PAPITO LINDO",
       "url": "https://open.spotify.com/track/4BmJghk2yeVOi8CGq9alcM"
@@ -52612,7 +52824,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 190153,
       "name": "Plan Plan",
       "url": "https://open.spotify.com/track/4oGqUN7kHte9mUzkGDdeOL"
@@ -63709,6 +63921,40 @@
     },
     {
       "album": {
+        "name": "Suena El Boom (Remix)",
+        "url": "https://open.spotify.com/album/5AaxuHxBitiNQieDgQ1ixW"
+      },
+      "artists": [
+        {
+          "name": "Freddy Alca",
+          "url": "https://open.spotify.com/artist/3Loh79yV2kBqB9shCwVvlT"
+        },
+        {
+          "name": "Pr\u00e1ctiko",
+          "url": "https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA"
+        },
+        {
+          "name": "Creyente.7",
+          "url": "https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs"
+        },
+        {
+          "name": "Bigg Daddie",
+          "url": "https://open.spotify.com/artist/1zhtV841D6OPtTyVqNsOkr"
+        },
+        {
+          "name": "D Pastah",
+          "url": "https://open.spotify.com/artist/2A4WOUL7fi9SqkiU9B9dAk"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304000,
+      "name": "Suena El Boom - Remix",
+      "url": "https://open.spotify.com/track/51MNqgkcXDaLFLSHMuczeU"
+    },
+    {
+      "album": {
         "name": "Suerte Divina \u2618\ufe0f (En Vivo desde Bogot\u00e1, Colombia)",
         "url": "https://open.spotify.com/album/5E99xK6yYWB8ovl0hoHkYO"
       },
@@ -64259,6 +64505,28 @@
     },
     {
       "album": {
+        "name": "S\u00cdGUEME",
+        "url": "https://open.spotify.com/album/5uWvHAVloFrXFsdzzPgK18"
+      },
+      "artists": [
+        {
+          "name": "Luispo",
+          "url": "https://open.spotify.com/artist/628FuQxkeQlwH2QcFzgil5"
+        },
+        {
+          "name": "OzoresP",
+          "url": "https://open.spotify.com/artist/7g2WdxkwctSnq2vMTyVjeW"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244656,
+      "name": "S\u00cdGUEME",
+      "url": "https://open.spotify.com/track/4gL3gWs3J29Du2CrM8s80W"
+    },
+    {
+      "album": {
         "name": "S\u00f3lo Hay Uno",
         "url": "https://open.spotify.com/album/4eeg72pKMcuqVZqqo6fTvX"
       },
@@ -64292,7 +64560,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 188318,
       "name": "Taba Lloviendo",
       "url": "https://open.spotify.com/track/7GFiB95NCGLBZbZFbe5Lue"
@@ -66500,7 +66768,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 305473,
       "name": "Thas (Rindo Todo)",
       "url": "https://open.spotify.com/track/0Xe9bnrwwaYyRcKWH6vBUa"
@@ -69268,7 +69536,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 243392,
       "name": "Tu Palabra",
       "url": "https://open.spotify.com/track/1TDsgGJJmNxKb0LgueqLPh"
@@ -71363,6 +71631,28 @@
     },
     {
       "album": {
+        "name": "UNA NOCHE M\u00c1S",
+        "url": "https://open.spotify.com/album/73YLblzQeQ1CZTePKCDouj"
+      },
+      "artists": [
+        {
+          "name": "Liaz",
+          "url": "https://open.spotify.com/artist/0gT1I8icNvTAd7KBPmSWXJ"
+        },
+        {
+          "name": "Lilo Music",
+          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "UNA NOCHE M\u00c1S",
+      "url": "https://open.spotify.com/track/6PqHVJa3yYIuVsXrIhZBYM"
+    },
+    {
+      "album": {
         "name": "Una Nueva Canci\u00f3n",
         "url": "https://open.spotify.com/album/1310LQEz398W9ozNHyrRPZ"
       },
@@ -72934,6 +73224,28 @@
       "duration_ms": 499186,
       "name": "Vencido - Live",
       "url": "https://open.spotify.com/track/3qxlmfkJIQI6iLoncBQa8A"
+    },
+    {
+      "album": {
+        "name": "Vencio",
+        "url": "https://open.spotify.com/album/5xagOQYXoLWnSOcgGsRS5A"
+      },
+      "artists": [
+        {
+          "name": "YADAH",
+          "url": "https://open.spotify.com/artist/3Ah5V56kXoarxe5HfnRUl1"
+        },
+        {
+          "name": "\u00c1lvaro L\u00f3pez",
+          "url": "https://open.spotify.com/artist/5LrqAMICjuzUZXr8AqQhMv"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220908,
+      "name": "Vencio",
+      "url": "https://open.spotify.com/track/2pri22zuE30r6F7wXfia1P"
     },
     {
       "album": {
@@ -75106,6 +75418,24 @@
       "duration_ms": 190102,
       "name": "X MI",
       "url": "https://open.spotify.com/track/21raQNud9l04D0OQQdjETd"
+    },
+    {
+      "album": {
+        "name": "X Mi Lao",
+        "url": "https://open.spotify.com/album/2iQKlDsCbPDn0CBoC5QYmZ"
+      },
+      "artists": [
+        {
+          "name": "Christian Ponce",
+          "url": "https://open.spotify.com/artist/4Xhe8s10yLiuTzG7k1Kq4W"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254147,
+      "name": "X Mi Lao",
+      "url": "https://open.spotify.com/track/7pW77mOqAiMEQJ9W86Ad15"
     },
     {
       "album": {

@@ -706,7 +706,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
@@ -12272,7 +12272,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 205308,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
@@ -15028,7 +15028,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 206413,
       "name": "Feel So Close - Radio Edit",
       "url": "https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc"
@@ -22758,7 +22758,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 210070,
       "name": "Just The Way You Are",
       "url": "https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj"
@@ -23576,7 +23576,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 139045,
       "name": "Knife",
       "url": "https://open.spotify.com/track/0TKCUjfV3YGuY99MxCKM5w"
@@ -24474,7 +24474,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 237106,
       "name": "lai tev apn\u012bk skumt",
       "url": "https://open.spotify.com/track/6hWnXrx3Po79UxZ0WN7lNT"
@@ -25516,7 +25516,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 186249,
       "name": "Lidojam tik augstu",
       "url": "https://open.spotify.com/track/35HUhiJxteIa9U1Kfj3fvD"
@@ -40932,7 +40932,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -43452,7 +43452,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 206019,
       "name": "Standing Next to You",
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
@@ -47304,7 +47304,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 195873,
       "name": "The Spins",
       "url": "https://open.spotify.com/track/2QGVKiAGTa1YcDqPMhAzF7"
@@ -52649,6 +52649,24 @@
     },
     {
       "album": {
+        "name": "White Keys",
+        "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144101,
+      "name": "White Keys",
+      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
+    },
+    {
+      "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
       },
@@ -55374,7 +55392,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 142325,
       "name": "\u0434\u043d\u044f\u043c\u0438 \u0438 \u043d\u043e\u0447\u0430\u043c\u0438",
       "url": "https://open.spotify.com/track/7u44m17Qu8xZp446SnoN05"

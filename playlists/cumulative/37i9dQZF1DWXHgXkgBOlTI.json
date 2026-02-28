@@ -918,7 +918,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 146760,
       "name": "Greenfield",
       "url": "https://open.spotify.com/track/2puY8TFmn0geYy2NuPC8Jo"
@@ -1760,6 +1760,24 @@
       "duration_ms": 242000,
       "name": "SALVALAI",
       "url": "https://open.spotify.com/track/4h3BoLlp0fvVODmaY9CIiB"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30ba\u866b",
+        "url": "https://open.spotify.com/album/4VkJfvhkTnx8GZuCySMlKe"
+      },
+      "artists": [
+        {
+          "name": "PE'Z",
+          "url": "https://open.spotify.com/artist/52uuAX0XAdhMmLLpaSaOig"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257533,
+      "name": "SAMBA DE \u604b\u3057\u3066",
+      "url": "https://open.spotify.com/track/2ntJXSC98pIAiGwigge8Nm"
     },
     {
       "album": {

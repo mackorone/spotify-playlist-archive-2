@@ -1797,6 +1797,24 @@
     },
     {
       "album": {
+        "name": "Choosin' Texas",
+        "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232226,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
+    },
+    {
+      "album": {
         "name": "Christmas (Baby, Please Come Home)",
         "url": "https://open.spotify.com/album/3miX7IkmfMBJhQejq5rsA6"
       },
@@ -5238,7 +5256,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/4DPdJvSMB6hmrjgC5eC85d"
@@ -5256,7 +5274,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -5784,7 +5802,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 199114,
       "name": "KLOuFRENS",
       "url": "https://open.spotify.com/track/4MUrUT38U98olfnyzMBCzm"
@@ -7206,7 +7224,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 267194,
       "name": "MONACO",
       "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
@@ -7328,6 +7346,24 @@
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
+    },
+    {
+      "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222973,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
     },
     {
       "album": {

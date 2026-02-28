@@ -8205,24 +8205,6 @@
     },
     {
       "album": {
-        "name": "MISFIT",
-        "url": "https://open.spotify.com/album/0HHRuXED5ILvl0hpcLMcX0"
-      },
-      "artists": [
-        {
-          "name": "JAH",
-          "url": "https://open.spotify.com/artist/5Mtx1K2I4k44IIlsCSf659"
-        }
-      ],
-      "date_added": "2026-02-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/0CLK3JHj0s6d3383D2DruJ"
-    },
-    {
-      "album": {
         "name": "Andere Man",
         "url": "https://open.spotify.com/album/4F7HRc2bLbvOWKA2IoOisH"
       },
@@ -8790,6 +8772,24 @@
       "duration_ms": 136901,
       "name": "Waarom Zou Ik Stressen ?",
       "url": "https://open.spotify.com/track/0niEfxzA2WsW5vbMJnKpYk"
+    },
+    {
+      "album": {
+        "name": "MISFIT",
+        "url": "https://open.spotify.com/album/0HHRuXED5ILvl0hpcLMcX0"
+      },
+      "artists": [
+        {
+          "name": "JAH",
+          "url": "https://open.spotify.com/artist/5Mtx1K2I4k44IIlsCSf659"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138240,
+      "name": "Wake up",
+      "url": "https://open.spotify.com/track/0CLK3JHj0s6d3383D2DruJ"
     },
     {
       "album": {

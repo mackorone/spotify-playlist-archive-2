@@ -1698,7 +1698,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 278416,
       "name": "Afraid Of The Dark",
       "url": "https://open.spotify.com/track/46odPfzMypgxCBMUPmdKxr"
@@ -2054,7 +2054,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 170891,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
@@ -3657,6 +3657,24 @@
     },
     {
       "album": {
+        "name": "REVIVE+",
+        "url": "https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178046,
+      "name": "BANG BANG",
+      "url": "https://open.spotify.com/track/5VtwUrgljtOyBa773AGSr4"
+    },
+    {
+      "album": {
         "name": "BANG BANG",
         "url": "https://open.spotify.com/album/3XRwpp5eFpq1wPNWusQ3L7"
       },
@@ -3686,7 +3704,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/7pBE8YpFoZ9ankC2Ci5z9X"
@@ -3928,7 +3946,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 189960,
       "name": "Beast",
       "url": "https://open.spotify.com/track/16FtzviEvQmtc7qYE1U6B0"
@@ -3950,7 +3968,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-26",
+      "date_removed": null,
       "duration_ms": 189970,
       "name": "Beast (feat. Waka Flocka)",
       "url": "https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj"
@@ -11880,7 +11898,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 134774,
       "name": "Eyes Wide Shut",
       "url": "https://open.spotify.com/track/5paeOritnrsVvHmX6sr3nu"
@@ -17565,6 +17583,24 @@
     },
     {
       "album": {
+        "name": "PRESSURE",
+        "url": "https://open.spotify.com/album/4vIzHHL3D8TacHTRQzYIYe"
+      },
+      "artists": [
+        {
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163874,
+      "name": "In My Room",
+      "url": "https://open.spotify.com/track/2Ui2JtVjnbHZuExldryCOA"
+    },
+    {
+      "album": {
         "name": "In The End",
         "url": "https://open.spotify.com/album/5irMOXfbxY18wZJyAkQibm"
       },
@@ -18213,6 +18249,24 @@
     },
     {
       "album": {
+        "name": "Jane!",
+        "url": "https://open.spotify.com/album/2dKFGp34DsNa9bzZ3NoTC5"
+      },
+      "artists": [
+        {
+          "name": "The Long Faces",
+          "url": "https://open.spotify.com/artist/1DhiWyne1hHwVHTti49o40"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186986,
+      "name": "Jane!",
+      "url": "https://open.spotify.com/track/5BdTXOmNx4NANVF4IMitQQ"
+    },
+    {
+      "album": {
         "name": "Jealous Type",
         "url": "https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5"
       },
@@ -18768,7 +18822,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 156000,
       "name": "KATYUSHA",
       "url": "https://open.spotify.com/track/05axRIbcO9nhPiuLRz2pOW"
@@ -24708,7 +24762,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-26",
+      "date_removed": null,
       "duration_ms": 150770,
       "name": "MY JEALOUSY",
       "url": "https://open.spotify.com/track/2eZlv5pUAVdJ130QzfyUSD"
@@ -24752,7 +24806,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 150830,
       "name": "MY JEALOUSY",
       "url": "https://open.spotify.com/track/4Rh6Anh8JU6FPI5msHyKW5"
@@ -25214,7 +25268,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 98437,
       "name": "nas\u0131l kurtulurum senden ?",
       "url": "https://open.spotify.com/track/5MaVEvwqF3ZxcMMVzdQdhn"
@@ -32648,7 +32702,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 212718,
       "name": "Snoop Dogg",
       "url": "https://open.spotify.com/track/5KhiviwAcoO8Qw9klNCTSq"
@@ -38724,7 +38778,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 177426,
       "name": "Voil\u00e0",
       "url": "https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w"
@@ -40664,7 +40718,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 269066,
       "name": "Wuthering Heights",
       "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"

@@ -4,7 +4,7 @@
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-930 songs - 2 day 8 hr 50 min
+931 songs - 2 day 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -808,6 +808,7 @@
 | [The New Four Seasons \- Spring: II\. Shepherd's Wildest Dreams \(After Violin Concerto No\. 1, Op\. 8, RV 269, II\. Largo, Arr\. by Wolf Kerschek\)](https://open.spotify.com/track/1QxMIioUmAxh7nlhdQuQvd) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Niklas Liepe](https://open.spotify.com/artist/6ukAV4us7nVNQ1MQvj4sut), [WDR Funkhausorchester](https://open.spotify.com/artist/24dGgI2Wdq3EF0oqq3lhM9), [Patrick Lange](https://open.spotify.com/artist/529dSWI4eGxgUcXu6FM6Q4) | [II\. Shepherd's Wildest Dreams \(After Violin Concerto No\. 1, Op\. 8, RV 269, II\. Largo, Arr\. by Wolf Kerschek\)](https://open.spotify.com/album/6uGXlJMXfdtinhX2GW32S6) | 2:40 | 2024-03-08 |  |
 | [The Nutcracker: Waltz of the Flowers](https://open.spotify.com/track/211w4YeoNDqklfgGMPM69f) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ), [Tugan Sokhiev](https://open.spotify.com/artist/3enXY52UlrP6E6DbqE1jVN) | [The Nutcracker: Waltz of the Flowers](https://open.spotify.com/album/5yghF09fn2e2cRlzFbZGXn) | 6:59 | 2025-06-20 |  |
 | [The Passenger](https://open.spotify.com/track/3T53QCB282wA6GY8hMRs4x) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [The Passenger](https://open.spotify.com/album/5tsR5brMsYrHSjUkYUCtuO) | 3:15 | 2023-09-22 | 2024-02-24 |
+| [The Pearl Portrait](https://open.spotify.com/track/5ofP6UDJlIhFVA7sc20rUN) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [The Pearl Portrait](https://open.spotify.com/album/5fKlSnJFtlH0YmV3hnGqeG) | 3:27 | 2026-02-27 |  |
 | [The Prince and the Emperor](https://open.spotify.com/track/0T387GumMkV4CKNUb2yAwf) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [The Prince and the Emperor](https://open.spotify.com/album/661xdHFeMHZg9biKHudInm) | 3:48 | 2024-12-13 |  |
 | [The Prince of Egypt Suite: Part 3](https://open.spotify.com/track/0qk94htJlMYnfs4FlGhBoI) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Gan\-ya Ben\-gur Akselrod](https://open.spotify.com/artist/0j9WXwyTLQR1oU2SMO6Smc), [Rusanda Panfili](https://open.spotify.com/artist/7i3Xc8Q0FEGHlsERoPgejc), [Pedro Eustache](https://open.spotify.com/artist/3BWSxj4tXD0yENwYVwxYO7), [Odessa Orchestra & Friends](https://open.spotify.com/artist/3Y3cPkw6NFdLAmwRv3bDJG), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q) | [The Prince of Egypt Suite](https://open.spotify.com/album/0iz4bAOznLxyoXpXuHKQYA) | 6:20 | 2024-12-06 |  |
 | [The River](https://open.spotify.com/track/4vACrwYS7wg5Axoc7MJtmb) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [The River](https://open.spotify.com/album/5ibOpgXxs6SYetSv7YzXB9) | 2:39 | 2024-05-24 |  |

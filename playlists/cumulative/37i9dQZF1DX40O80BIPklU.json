@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. Alem\u00e1n en portada. ",
+  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. Zeballos en portada. ",
   "name": "Rap Champa\u00f1a",
   "tracks": [
     {
@@ -1461,6 +1461,24 @@
     },
     {
       "album": {
+        "name": "ATBLM",
+        "url": "https://open.spotify.com/album/7GqXSd7cxRcsfQV6S2cHUM"
+      },
+      "artists": [
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212922,
+      "name": "ATBLM",
+      "url": "https://open.spotify.com/track/0kV5JDOPeI6rFXiGAWAYev"
+    },
+    {
+      "album": {
         "name": "AYAYAY (feat. Dillom)",
         "url": "https://open.spotify.com/album/5fnP4WvBKSWYeSVbmtKefP"
       },
@@ -2647,6 +2665,32 @@
     },
     {
       "album": {
+        "name": "CASTE XMAS",
+        "url": "https://open.spotify.com/album/7FHAP3atebHWBXEdAg1slP"
+      },
+      "artists": [
+        {
+          "name": "Castellano",
+          "url": "https://open.spotify.com/artist/6UO0OmWRTSoZCTmbpHRf91"
+        },
+        {
+          "name": "Michael Christmas",
+          "url": "https://open.spotify.com/artist/1POk07q5vJ4NcdOgkLyPzp"
+        },
+        {
+          "name": "BCN",
+          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158823,
+      "name": "CASTE XMAS",
+      "url": "https://open.spotify.com/track/64p6GfKssLhIe4A4t7oMvJ"
+    },
+    {
+      "album": {
         "name": "CERO$ / LATI2",
         "url": "https://open.spotify.com/album/47LBnwJDhEr9orf488dmnX"
       },
@@ -2732,7 +2776,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 169591,
       "name": "CHICOS DEL NORTE",
       "url": "https://open.spotify.com/track/1SVPQpF0eftPjGdooAtrr9"
@@ -3294,7 +3338,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 157000,
       "name": "Cuatro 44",
       "url": "https://open.spotify.com/track/5PcxOKZC1CjKX9WLLLXjT7"
@@ -4368,6 +4412,24 @@
       "duration_ms": 206350,
       "name": "El M\u00fasico",
       "url": "https://open.spotify.com/track/31zdrnPnt6uZ09kRN2oIyX"
+    },
+    {
+      "album": {
+        "name": "El Peor Hombre Del Mundo",
+        "url": "https://open.spotify.com/album/3oh3NRybUjkGKdKEcYqHe3"
+      },
+      "artists": [
+        {
+          "name": "GeezyDee",
+          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140400,
+      "name": "El Peor Hombre Del Mundo",
+      "url": "https://open.spotify.com/track/0TBFzXKWtoF7Lwh0LKFt8f"
     },
     {
       "album": {
@@ -6545,6 +6607,52 @@
     },
     {
       "album": {
+        "name": "L.V.M.M.",
+        "url": "https://open.spotify.com/album/1e4lKS2W6jPnMMZwoXgHti"
+      },
+      "artists": [
+        {
+          "name": "Tempo",
+          "url": "https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        },
+        {
+          "name": "El B",
+          "url": "https://open.spotify.com/artist/2hbqnyDIEyi8JbZCmOkPdm"
+        },
+        {
+          "name": "FARIANA",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        },
+        {
+          "name": "Lito MC Cassidy",
+          "url": "https://open.spotify.com/artist/0zgbk1EdcU6tt6QUOnCC5o"
+        },
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491320,
+      "name": "L.V.M.M.",
+      "url": "https://open.spotify.com/track/1O4HsnqlbFlOBoZVJBtqsQ"
+    },
+    {
+      "album": {
         "name": "LA CALLE ESTA DURA",
         "url": "https://open.spotify.com/album/5HUfDQC8j7TOSYfM9hhPnh"
       },
@@ -6859,6 +6967,28 @@
     },
     {
       "album": {
+        "name": "La luz",
+        "url": "https://open.spotify.com/album/285QEUrTLS9j5EtaMCkCu7"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197013,
+      "name": "La luz",
+      "url": "https://open.spotify.com/track/2jslkxswlLCTqZDlvl5M1x"
+    },
+    {
+      "album": {
         "name": "LA LUZ DEL BARRIO",
         "url": "https://open.spotify.com/album/2a4439WXwlPVB2MKKK2sBM"
       },
@@ -6946,7 +7076,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 200000,
       "name": "La noche",
       "url": "https://open.spotify.com/track/7rSTXDCHjPUzzXLzSoavCP"
@@ -7156,7 +7286,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 204159,
       "name": "La Vida Se Va",
       "url": "https://open.spotify.com/track/5hjvY1YhJjwZ4Fv2mOCDlg"
@@ -10052,7 +10182,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 118548,
       "name": "Otro Horizonte",
       "url": "https://open.spotify.com/track/67R3YDJ6IvnPRAtVBZFkL6"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-1,439 songs - 3 day 11 hr 40 min
+1,440 songs - 3 day 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1110,7 +1110,7 @@
 | [天天都是愚人節](https://open.spotify.com/track/5HqkQEUOOXoMmmbcndy5IU) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [天天都是愚人節](https://open.spotify.com/album/1Kx6FP5Imt9u8AlReBIaPq) | 4:53 | 2025-04-05 | 2025-04-07 |
 | [天空没有極限 \(粤\)](https://open.spotify.com/track/7kaJddBTRyWtfMsCkoEhcr) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [I AM GLORIA](https://open.spotify.com/album/4WigYNEa3IVIYF4dRb6vNQ) | 4:39 | 2025-06-13 | 2025-06-16 |
 | [太平道](https://open.spotify.com/track/63Hnm2IiSP9VDzJF2WdzCL) | [Endy Chow](https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE) | [太平道](https://open.spotify.com/album/5sWnVGDboOP0pCWDZdzVSn) | 4:39 | 2022-09-03 | 2022-09-15 |
-| [太陽與地球](https://open.spotify.com/track/0bQSWXtpau3VkNI1ZcXTQA) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [HeartBreakFast 傷心早餐店](https://open.spotify.com/album/3B4ldF0a4F6FXi2SB94m4U) | 4:22 | 2025-09-26 |  |
+| [太陽與地球](https://open.spotify.com/track/0bQSWXtpau3VkNI1ZcXTQA) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [HeartBreakFast 傷心早餐店](https://open.spotify.com/album/3B4ldF0a4F6FXi2SB94m4U) | 4:22 | 2025-09-26 | 2026-02-28 |
 | [失約巴黎](https://open.spotify.com/track/4BEltAGEqpAGiZHakYyRE9) | [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [失約巴黎](https://open.spotify.com/album/67wQwAfZPCkFf4s3QQY4I4) | 3:42 | 2024-01-04 | 2024-01-06 |
 | [好好掛住](https://open.spotify.com/track/0QA3wOHY0d8IYsevIrBrce) | [陳健安](https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S) | [好好掛住](https://open.spotify.com/album/4x8GGMwSp8CfwW5EG0RjBs) | 4:49 | 2023-06-15 | 2023-07-06 |
 | [好得太過份](https://open.spotify.com/track/1jQE96DjtfpWGjSqK6Gfnr) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [好得太過份](https://open.spotify.com/album/7ArKSf70Be8fzHxDxBHAim) | 2:59 | 2024-05-01 | 2025-12-19 |
@@ -1185,7 +1185,7 @@
 | [搞不懂 acoustic version](https://open.spotify.com/track/6I7fYI02GkZuWarRGL8MRH) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [搞不懂 acoustic version](https://open.spotify.com/album/0I7VX6tBGkz1knZZCSz62I) | 3:43 | 2021-10-08 | 2021-11-10 |
 | [擁抱後的歌](https://open.spotify.com/track/3Frg7nyANyCvDpbyaOxtdf) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [擁抱後的歌](https://open.spotify.com/album/2vHgMiFnp2RvlIogHnIzfz) | 3:38 | 2023-07-25 | 2024-02-16 |
 | [擱淺](https://open.spotify.com/track/4Rt9k4SE8dbfKzngxKJPq9) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/27I7fCoQRSdL9PT1nFWEPC) | 3:56 | 2023-05-07 | 2023-05-27 |
-| [擱淺](https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr) | 3:58 | 2024-06-05 | 2026-02-27 |
+| [擱淺](https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr) | 3:58 | 2024-06-05 |  |
 | [擱淺](https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc) | 3:58 | 2025-12-09 | 2025-12-11 |
 | [攀上天梯的螞蟻 \(電影 《過時.過節》主題曲\)](https://open.spotify.com/track/2Z0nzG4jTLJCTx69vvrLCb) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [攀上天梯的螞蟻 \(電影 《過時.過節》主題曲\)](https://open.spotify.com/album/63uXlV6CWOZGDhf7SRTMzA) | 4:23 | 2022-11-13 | 2022-12-08 |
 | [改造人](https://open.spotify.com/track/3HzSwiGOopYvrOYIeBFqna) | [Nicholas Tse](https://open.spotify.com/artist/5icAICPWHiBMzTJl7nUPMP) | [Believe](https://open.spotify.com/album/7qS9GKF0RkiAkhBFlqtyRv) | 4:01 | 2025-04-26 | 2025-05-04 |
@@ -1397,13 +1397,14 @@
 | [逆行](https://open.spotify.com/track/3L6aX4pRSY5xLmt4nPKgSR) | [Nicholas Tse](https://open.spotify.com/artist/5icAICPWHiBMzTJl7nUPMP) | [逆行](https://open.spotify.com/album/04oEXcmuwNHM5SWbrrEGug) | 4:45 | 2025-04-26 | 2025-05-09 |
 | [遇上你之前的我](https://open.spotify.com/track/0zKILlXrocz7TS4EJ16rPt) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [遇上你之前的我](https://open.spotify.com/album/4hLW7QtnkluNqvZv6nv8ZF) | 3:35 | 2024-04-13 | 2024-04-28 |
 | [遊樂場](https://open.spotify.com/track/1N2OEC9c5RzlNeI8x6l8M3) | [Nicholas Tse](https://open.spotify.com/artist/5icAICPWHiBMzTJl7nUPMP) | [Viva](https://open.spotify.com/album/5caZ8R5AYtmv3djBNj4kUE) | 4:08 | 2025-04-26 | 2025-05-10 |
-| [遠在眼前](https://open.spotify.com/track/6BC8sFJBG0XIoFZLrlI1Rc) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [Awaken](https://open.spotify.com/album/6OvcRanzVFg6qTmoydjzmn) | 4:05 | 2025-11-12 |  |
+| [遠在眼前](https://open.spotify.com/track/6BC8sFJBG0XIoFZLrlI1Rc) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [Awaken](https://open.spotify.com/album/6OvcRanzVFg6qTmoydjzmn) | 4:05 | 2025-11-12 | 2026-02-28 |
 | [遲了悔改 \- ViuTV電視劇《太平紋身店》主題曲](https://open.spotify.com/track/0Os0RD1apkQsWOeF2cV5w2) | [Yan Ting](https://open.spotify.com/artist/1VSepPOw3REo0L6LFeii0Q) | [遲了悔改 \(ViuTV電視劇《太平紋身店》主題曲\)](https://open.spotify.com/album/76CJR7OqDn0eP3YhY2efl8) | 4:24 | 2021-03-27\* | 2024-04-21 |
 | [遺忘了初心的我們](https://open.spotify.com/track/46Ntxwf4zWxhWHjtqWul6h) | [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [遺忘了初心的我們](https://open.spotify.com/album/1QLNBeaZlehK6srJjVg7VN) | 4:17 | 2023-04-25 | 2023-04-28 |
 | [還原淚](https://open.spotify.com/track/4knMu3Cbg277Di6oEkpeRA) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [還原淚](https://open.spotify.com/album/2VO3cKcPm5noVSuRsS4NPx) | 3:33 | 2022-10-06 | 2023-03-04 |
 | [還在流浪](https://open.spotify.com/track/35xilew5nalcetOeytaDFj) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:25 | 2022-07-16 | 2022-08-07 |
 | [邊一個發明了ENCORE](https://open.spotify.com/track/2MBaZXaQ7VKmDTr7cPPHP4) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [MEMENTO](https://open.spotify.com/album/2EGs23HGMWvVUYxfiMzlgK) | 4:46 | 2022-08-13 | 2023-01-07 |
 | [邊走邊愛](https://open.spotify.com/track/6qWX8XGzwGFEmF4zDHP9G0) | [Nicholas Tse](https://open.spotify.com/artist/5icAICPWHiBMzTJl7nUPMP) | [Reborn](https://open.spotify.com/album/5JS9m2nslMlaxeGfFWr1HV) | 3:34 | 2025-04-27 | 2025-05-02 |
+| [金童子](https://open.spotify.com/track/5T6h4C12CepeqiVCYrPA4W) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [金童子](https://open.spotify.com/album/3NA7ofuo79pLj3a4HKvggC) | 3:19 | 2026-02-27 |  |
 | [銀河修理員](https://open.spotify.com/track/0pupuSkMBGpzsqG3fWcyPe) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [Limerence](https://open.spotify.com/album/27M08FRLdAhpAkorPnkuGa) | 3:52 | 2021-03-27\* | 2022-01-04 |
 | [鏡中鏡](https://open.spotify.com/track/4umaD9GJDZMihD9mal7vd1) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [鏡中鏡](https://open.spotify.com/album/3F6jDazcpKtodoMyQ3Of3V) | 4:12 | 2022-01-03 | 2024-05-12 |
 | [鑿](https://open.spotify.com/track/0qv58f7o5AvmdT3PnEKauX) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [鑿](https://open.spotify.com/album/1Uvqepz5R3QRuuq3OP3O5Q) | 3:27 | 2024-09-05 | 2025-02-02 |

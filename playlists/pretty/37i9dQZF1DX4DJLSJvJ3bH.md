@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,008 likes - 125 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,993 likes - 125 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 22 | [Cool Yule](https://open.spotify.com/track/33GkcZ89Aj254FaJoFwCl9) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [The Commanders](https://open.spotify.com/artist/3VrWSWV74xyECVDt2zBy4T) | [Louis Wishes You a Cool Yule](https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6) | 2:56 |
 | 23 | [Little Saint Nick](https://open.spotify.com/track/3ZujkFo6UN8jihSZirvbWz) | [Ryder Quartet](https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx) | [Little Saint Nick](https://open.spotify.com/album/4N7C1nhf0lCBLoMVJEo80H) | 2:41 |
 | 24 | [The First Noel](https://open.spotify.com/track/4pVxflK7JBEAzj4pEY8G8e) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [The First Noel](https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX) | 2:30 |
-| 25 | [All I Want For Christmas \(Is My Two Front Teeth\)](https://open.spotify.com/track/4xXMJbzVQSCyprr4PG5sBj) | [Nat King Cole Trio](https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ) | [Christmas Classics](https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY) | 2:31 |
-| 26 | [Christmas Is Coming](https://open.spotify.com/track/149nYuNSxKF3rPGpReOjtv) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Christmas Is Coming](https://open.spotify.com/album/6wilsjE6jfGO0ggnBV5QUU) | 3:04 |
+| 25 | [Christmas Is Coming](https://open.spotify.com/track/149nYuNSxKF3rPGpReOjtv) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Christmas Is Coming](https://open.spotify.com/album/6wilsjE6jfGO0ggnBV5QUU) | 3:04 |
+| 26 | [All I Want For Christmas \(Is My Two Front Teeth\)](https://open.spotify.com/track/4xXMJbzVQSCyprr4PG5sBj) | [Nat King Cole Trio](https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ) | [Christmas Classics](https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY) | 2:31 |
 | 27 | [I Saw Three Ships](https://open.spotify.com/track/1OfkfkZeJVO0hB26HTP1o2) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [I Saw Three Ships](https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS) | 2:48 |
 | 28 | [I Wish You A Merry Christmas \- Remastered 2006](https://open.spotify.com/track/26hUXfKoJYkAMK07nW2dzQ) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Crosby \- Christmas Classics](https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A) | 1:55 |
 | 29 | [You're All I Want For Christmas](https://open.spotify.com/track/3TKli016N6D1XnU0Jz8xVx) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 5:20 |
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 97 | [We Wish You A Merry Christmas](https://open.spotify.com/track/7sqKpLs0CUelnUekGEhHwW) | [Rasmus H Thomsen Trio](https://open.spotify.com/artist/5Ep05EOVNYVc5b5trOuDI1) | [We Wish You A Merry Christmas](https://open.spotify.com/album/506rp9HRzW8Eu1Cmnlo0rg) | 2:41 |
 | 98 | [Blue Christmas](https://open.spotify.com/track/3210TdRMtF0hKNnUgiMTlS) | [Anthony Lazaro](https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H), [Jason LaPierre](https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060), [Ebony Loren](https://open.spotify.com/artist/17DzgGdVKwrEdKxc4sPMnY) | [Almost Like Being In Love](https://open.spotify.com/album/2XlNf2alkFJq3LD4Fumyqo) | 3:12 |
 | 99 | [Silent Night](https://open.spotify.com/track/2NvbRCk08L3clDF9BqVtEo) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [A Very Swingin’ Basie Christmas!](https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S) | 3:24 |
-| 100 | [Baby It's Cold Outside](https://open.spotify.com/track/7m7tdsmeN4M0rZXJR4PHN7) | [Matt Belsante](https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz) | [White Christmas](https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30) | 4:26 |
-| 101 | [Sleigh Ride](https://open.spotify.com/track/7Ez9zlZuyvEo2iiRvOSDnd) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When My Heart Finds Christmas](https://open.spotify.com/album/1puRIKtM4c4aDpUNJNtyn4) | 3:40 |
+| 100 | [Sleigh Ride](https://open.spotify.com/track/7Ez9zlZuyvEo2iiRvOSDnd) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When My Heart Finds Christmas](https://open.spotify.com/album/1puRIKtM4c4aDpUNJNtyn4) | 3:40 |
+| 101 | [Baby It's Cold Outside](https://open.spotify.com/track/7m7tdsmeN4M0rZXJR4PHN7) | [Matt Belsante](https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz) | [White Christmas](https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30) | 4:26 |
 | 102 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/3JRdORtD13sQanAdu9DlbB) | [Reese Quartet](https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm) | [I'll Be Home for Christmas](https://open.spotify.com/album/1DOc7OmsfnU8rGsy5peQK8) | 1:41 |
 | 103 | [This Christmas](https://open.spotify.com/track/0chBHr9DJuSYwN5JuunfY5) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Jazz For Joy: A Verve Christmas Album](https://open.spotify.com/album/42LDbwS16YVmhtt87vgAAc) | 4:40 |
 | 104 | [Once A Year Miracle](https://open.spotify.com/track/3HTRqeCKO4BSMflq1DiTWN) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [The Very Best Time Of Year](https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1) | 2:57 |

@@ -1,6 +1,6 @@
 {
   "description": "Vieja escuela y de ahora \ud83d\udcf8 Mala Fama.",
-  "num_followers": 591957,
+  "num_followers": 592009,
   "original_name": "Cumbia villera",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
+        "name": "Pibes Chorros - Criando Cuervos",
+        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 225320,
+      "name": "Que calor",
+      "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
         "name": "DIME SI ERES FELIZ VOL.2",
         "url": "https://open.spotify.com/album/4qsduU9ye1CNUnHVE6BHGn"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 171667,
       "name": "DIME SI ERES FELIZ VOL.2",
       "url": "https://open.spotify.com/track/7v7RTZrtBsoENSPD0SCMLy"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
-        "name": "Pibes Chorros - Criando Cuervos",
-        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 225320,
-      "name": "Que calor",
-      "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -443,6 +443,22 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
+        "name": "Triste Palomita",
+        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
+      },
+      "artists": [
+        {
+          "name": "Escucha!",
+          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
+        }
+      ],
+      "duration_ms": 182808,
+      "name": "Sera que nunca le sucedio",
+      "url": "https://open.spotify.com/track/5llQvY4EAgURqmbcFj75Gi"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
         "name": "PONTE PERRO | DJ TAO Turreo Sessions #24",
         "url": "https://open.spotify.com/album/5S53ufaOE0vScVuQ17GKOH"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 149504,
       "name": "PONTE PERRO | DJ TAO Turreo Sessions #24",
       "url": "https://open.spotify.com/track/0T25HZGE0WwyELWBlXQVbY"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
-        "name": "Triste Palomita",
-        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
-      },
-      "artists": [
-        {
-          "name": "Escucha!",
-          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
-        }
-      ],
-      "duration_ms": 182808,
-      "name": "Sera que nunca le sucedio",
-      "url": "https://open.spotify.com/track/5llQvY4EAgURqmbcFj75Gi"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "No Lo Compren",
-        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
-      },
-      "artists": [
-        {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
-        }
-      ],
-      "duration_ms": 217013,
-      "name": "Soy Soltero",
-      "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
         "name": "Triste Palomita",
         "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 234863,
       "name": "Triste Palomita",
       "url": "https://open.spotify.com/track/1SX37vPJPxTVA9HLAw0Gm2"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "No Lo Compren",
+        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
+      },
+      "artists": [
+        {
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+        }
+      ],
+      "duration_ms": 217013,
+      "name": "Soy Soltero",
+      "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "A Todo Remix",
-        "url": "https://open.spotify.com/album/35MkUNVLgqZFRxlXc3Tgod"
-      },
-      "artists": [
-        {
-          "name": "Puro Movimiento DJ",
-          "url": "https://open.spotify.com/artist/4iIPpaogGdOBKNikJTz04q"
-        }
-      ],
-      "duration_ms": 207121,
-      "name": "D\u00e9jala",
-      "url": "https://open.spotify.com/track/3LVOGJxNkd5b6nJoqLFpeT"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
         "name": "Discograf\u00eda Completa Vol.1",
         "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 308337,
       "name": "Duraznito",
       "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "A Todo Remix",
+        "url": "https://open.spotify.com/album/35MkUNVLgqZFRxlXc3Tgod"
+      },
+      "artists": [
+        {
+          "name": "Puro Movimiento DJ",
+          "url": "https://open.spotify.com/artist/4iIPpaogGdOBKNikJTz04q"
+        }
+      ],
+      "duration_ms": 207121,
+      "name": "D\u00e9jala",
+      "url": "https://open.spotify.com/track/3LVOGJxNkd5b6nJoqLFpeT"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "Y Si Est\u00e1s Perseguido...!",
-        "url": "https://open.spotify.com/album/4UeRqgzWD9WsGWpbpsiAeq"
-      },
-      "artists": [
-        {
-          "name": "El Perro",
-          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
-        }
-      ],
-      "duration_ms": 161410,
-      "name": "Te Escapas De Mis Brazos",
-      "url": "https://open.spotify.com/track/2sSWZSjYU38Hmy32P6ECt8"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
         "name": "YO SOY TU MAESTRO (Remix)",
         "url": "https://open.spotify.com/album/6wcl6zVgbk0jOyTcEURvjG"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 205000,
       "name": "YO SOY TU MAESTRO - Remix",
       "url": "https://open.spotify.com/track/1AH4jXw5DHJklLAe54kw6S"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "Y Si Est\u00e1s Perseguido...!",
+        "url": "https://open.spotify.com/album/4UeRqgzWD9WsGWpbpsiAeq"
+      },
+      "artists": [
+        {
+          "name": "El Perro",
+          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
+        }
+      ],
+      "duration_ms": 161410,
+      "name": "Te Escapas De Mis Brazos",
+      "url": "https://open.spotify.com/track/2sSWZSjYU38Hmy32P6ECt8"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "\u00danico en Su Especie",
-        "url": "https://open.spotify.com/album/1wU7LHfFlihSDZUJ6EU1Tf"
-      },
-      "artists": [
-        {
-          "name": "El Tecla",
-          "url": "https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH"
-        }
-      ],
-      "duration_ms": 225280,
-      "name": "A Chillar a Otra Parte",
-      "url": "https://open.spotify.com/track/6rbRGG6KLfSCLW5EN4VlsI"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
         "name": "Close de Ort!",
         "url": "https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 275200,
       "name": "Lejos de Ti",
       "url": "https://open.spotify.com/track/5pvUrWYANWIKQYz89fwFJ1"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "\u00danico en Su Especie",
+        "url": "https://open.spotify.com/album/1wU7LHfFlihSDZUJ6EU1Tf"
+      },
+      "artists": [
+        {
+          "name": "El Tecla",
+          "url": "https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH"
+        }
+      ],
+      "duration_ms": 225280,
+      "name": "A Chillar a Otra Parte",
+      "url": "https://open.spotify.com/track/6rbRGG6KLfSCLW5EN4VlsI"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "Tiempos Dorados",
-        "url": "https://open.spotify.com/album/6JMXDUoze1hWpr7UMpRq5B"
-      },
-      "artists": [
-        {
-          "name": "El negro tecla",
-          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
-        }
-      ],
-      "duration_ms": 157964,
-      "name": "Tiempos Dorados",
-      "url": "https://open.spotify.com/track/7d4gwV1hcZQ7ZGHYLwOl87"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
         "name": "LOGI",
         "url": "https://open.spotify.com/album/273WUOLBoPxnNIPld4cmkA"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 234000,
       "name": "LOGI",
       "url": "https://open.spotify.com/track/539LAQobYbCmWNyEhy1ywq"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "Tiempos Dorados",
+        "url": "https://open.spotify.com/album/6JMXDUoze1hWpr7UMpRq5B"
+      },
+      "artists": [
+        {
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+        }
+      ],
+      "duration_ms": 157964,
+      "name": "Tiempos Dorados",
+      "url": "https://open.spotify.com/track/7d4gwV1hcZQ7ZGHYLwOl87"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "Amar y yo - Produccion Pablo Lescano - Damas Gratis",
-        "url": "https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV"
-      },
-      "artists": [
-        {
-          "name": "Amar y yo",
-          "url": "https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8"
-        }
-      ],
-      "duration_ms": 201346,
-      "name": "La pata sucia",
-      "url": "https://open.spotify.com/track/4q1EwreqE333DDeot8D1tA"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
         "name": "Saveiro",
         "url": "https://open.spotify.com/album/2OdD4Bw78UeyjUKejq2UZR"
       },
@@ -1571,6 +1555,22 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
+        "name": "Podran Imitarnos, Jam\u00e1s Igualarnos",
+        "url": "https://open.spotify.com/album/6219k00SRfp4PcsgTv2BCX"
+      },
+      "artists": [
+        {
+          "name": "Supermerk2",
+          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
+        }
+      ],
+      "duration_ms": 170319,
+      "name": "El Fog\u00f3n",
+      "url": "https://open.spotify.com/track/3y8Pe96NSEaReDgrRYPSaO"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
         "name": "Libre y Soltero",
         "url": "https://open.spotify.com/album/6QEEpXCjvRcufUT14J4pXe"
       },
@@ -1587,22 +1587,6 @@
       "duration_ms": 215525,
       "name": "Libre y Soltero",
       "url": "https://open.spotify.com/track/536QxwgXCGfycZZzCxeCt1"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
-        "name": "Podran Imitarnos, Jam\u00e1s Igualarnos",
-        "url": "https://open.spotify.com/album/6219k00SRfp4PcsgTv2BCX"
-      },
-      "artists": [
-        {
-          "name": "Supermerk2",
-          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
-        }
-      ],
-      "duration_ms": 170319,
-      "name": "El Fog\u00f3n",
-      "url": "https://open.spotify.com/track/3y8Pe96NSEaReDgrRYPSaO"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1639,6 +1623,22 @@
       "duration_ms": 332000,
       "name": "Remake",
       "url": "https://open.spotify.com/track/2B8r5MFRP3EvQDWkm5LxsU"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "Amar y yo - Produccion Pablo Lescano - Damas Gratis",
+        "url": "https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV"
+      },
+      "artists": [
+        {
+          "name": "Amar y yo",
+          "url": "https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8"
+        }
+      ],
+      "duration_ms": 201346,
+      "name": "La pata sucia",
+      "url": "https://open.spotify.com/track/4q1EwreqE333DDeot8D1tA"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
+        "name": "Me Vas a Hacer Llorar",
+        "url": "https://open.spotify.com/album/4sHb67vKNCwIU7bsxoSrQf"
+      },
+      "artists": [
+        {
+          "name": "Debora",
+          "url": "https://open.spotify.com/artist/4MFYWIUUwy9yzkVaMSyuYk"
+        }
+      ],
+      "duration_ms": 227680,
+      "name": "La Miel de Tus Labios",
+      "url": "https://open.spotify.com/track/06OLRKwj3Sp2k9jBokQSsi"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
         "name": "Amar y yo - Produccion Pablo Lescano - Damas Gratis",
         "url": "https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV"
       },
@@ -1787,18 +1803,18 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "Me Vas a Hacer Llorar",
-        "url": "https://open.spotify.com/album/4sHb67vKNCwIU7bsxoSrQf"
+        "name": "Y Pinto... El Arrebato Guacho",
+        "url": "https://open.spotify.com/album/30FrHEwHMkn6oBqMvW0jHJ"
       },
       "artists": [
         {
-          "name": "Debora",
-          "url": "https://open.spotify.com/artist/4MFYWIUUwy9yzkVaMSyuYk"
+          "name": "El Arrebato",
+          "url": "https://open.spotify.com/artist/56C261PgvMlf0QxmFlRLRg"
         }
       ],
-      "duration_ms": 227680,
-      "name": "La Miel de Tus Labios",
-      "url": "https://open.spotify.com/track/06OLRKwj3Sp2k9jBokQSsi"
+      "duration_ms": 177093,
+      "name": "Quiero Que Escuches",
+      "url": "https://open.spotify.com/track/0mOelAOFxEBTkzBzHlXxIA"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1819,22 +1835,6 @@
       "duration_ms": 137500,
       "name": "DJ ALEX, EL NOBA - TEKA | E6",
       "url": "https://open.spotify.com/track/1jl9TPNUehmS24N84LYuuT"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
-        "name": "Y Pinto... El Arrebato Guacho",
-        "url": "https://open.spotify.com/album/30FrHEwHMkn6oBqMvW0jHJ"
-      },
-      "artists": [
-        {
-          "name": "El Arrebato",
-          "url": "https://open.spotify.com/artist/56C261PgvMlf0QxmFlRLRg"
-        }
-      ],
-      "duration_ms": 177093,
-      "name": "Quiero Que Escuches",
-      "url": "https://open.spotify.com/track/0mOelAOFxEBTkzBzHlXxIA"
     },
     {
       "added_at": "2026-02-13 19:04:43",

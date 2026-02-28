@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 
 > Cruzando cerros y arroyos mientras recordamos el legado campirano y rancherón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,763 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,859 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 63 | [Esta Cobardia](https://open.spotify.com/track/3Rn0F5FIe6V4WtrUruFknR) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 1](https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2) | 2:26 |
 | 64 | [Por Que No Vienes](https://open.spotify.com/track/5VgUoHUEPmWg93aX2CgXrf) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [La Que Se Fue](https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB) | 2:29 |
 | 65 | [Cielo Azul, Cielo Nublado](https://open.spotify.com/track/5GRe4EsGxq49GaxKYvWQoZ) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Tu Lo Decidiste](https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8) | 3:05 |
-| 66 | [Los Plebes Atrevidos](https://open.spotify.com/track/59hQ9CzM8Mrril2tKdXFj0) | [Los Cuen's De Sinaloa](https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2) | [Los Cuen's De Sinaloa](https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0) | 3:17 |
-| 67 | [Aunque No Seas Para Mi](https://open.spotify.com/track/7Cbu9P0tnVcVxFfIShxUXI) | [Los Parientes](https://open.spotify.com/artist/5Uy1hajALzz3U5UpR8Wry1) | [Ni Te Imaginas](https://open.spotify.com/album/1Rd5hF7z0fcDqiX5qhFOPg) | 3:12 |
+| 66 | [Aunque No Seas Para Mi](https://open.spotify.com/track/7Cbu9P0tnVcVxFfIShxUXI) | [Los Parientes](https://open.spotify.com/artist/5Uy1hajALzz3U5UpR8Wry1) | [Ni Te Imaginas](https://open.spotify.com/album/1Rd5hF7z0fcDqiX5qhFOPg) | 3:12 |
+| 67 | [Los Plebes Atrevidos](https://open.spotify.com/track/59hQ9CzM8Mrril2tKdXFj0) | [Los Cuen's De Sinaloa](https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2) | [Los Cuen's De Sinaloa](https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0) | 3:17 |
 | 68 | [Ambicion](https://open.spotify.com/track/6UFTow898t6dbHb14FnKzk) | [Los Pescadores De Guaymas](https://open.spotify.com/artist/0Lnai7lNe8gZOe9fPaYFmv) | [Raza Pesada](https://open.spotify.com/album/5RPjZ9F7vHbXBDya9z9f8t) | 3:14 |
 | 69 | [Pilares de Cristal](https://open.spotify.com/track/3VFjhO9kmWJNEIXDhvJ695) | [Gigantes de sinaloa](https://open.spotify.com/artist/322p0n25QmFQ5K6lX8998y) | [El Favorito](https://open.spotify.com/album/7jkwQCWRpoqXO6JRhRr7zP) | 2:46 |
 | 70 | [Quiéreme Como Te Quiero](https://open.spotify.com/track/5HOgr1vGGin7nicfjrylP6) | [Los Gavilanes de la Sierra](https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1) | [Piel de Azúcar](https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV) | 3:23 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 72 | [El Primer Tonto](https://open.spotify.com/track/3MbRlkq41kemX1uNiqk2gb) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Tu Lo Decidiste](https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8) | 2:58 |
 | 73 | [Fue Tu Culpa](https://open.spotify.com/track/1aCOsi8TtpL7Mo8Lx0qT0f) | [Los Grandes Del Pardito](https://open.spotify.com/artist/2xAvH1L1bUERbPMBny3EYb) | [De La Sierra A La Playa](https://open.spotify.com/album/3T0EMRduGzvEHZgvftYTxc) | 3:35 |
 | 74 | [Amores Fingidos](https://open.spotify.com/track/7dHPgzcHDFq8s6B50H9bfn) | [Los Cuen's De Sinaloa](https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2) | [Los Cuen's De Sinaloa](https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0) | 2:48 |
-| 75 | [Historia entre tus dedos](https://open.spotify.com/track/2c3c9NYwR9fEZG7EzMHONB) | [Los Paisanos de Sinaloa](https://open.spotify.com/artist/4dxvCbHBu0SFagqc2kM1pZ) | [Como le hago](https://open.spotify.com/album/3Rw3Tq83OofomSXL3L5aZ9) | 4:13 |
-| 76 | [Ni Dada La Quiero](https://open.spotify.com/track/6wld61I8oL6n5w1dO0DawE) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 2](https://open.spotify.com/album/1fW1WW9YONI4LS3WRajavt) | 2:48 |
+| 75 | [Ni Dada La Quiero](https://open.spotify.com/track/6wld61I8oL6n5w1dO0DawE) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 2](https://open.spotify.com/album/1fW1WW9YONI4LS3WRajavt) | 2:48 |
+| 76 | [Historia entre tus dedos](https://open.spotify.com/track/2c3c9NYwR9fEZG7EzMHONB) | [Los Paisanos de Sinaloa](https://open.spotify.com/artist/4dxvCbHBu0SFagqc2kM1pZ) | [Como le hago](https://open.spotify.com/album/3Rw3Tq83OofomSXL3L5aZ9) | 4:13 |
 | 77 | [El Buque de Mas Potencia](https://open.spotify.com/track/1PKLz0d2aaEYG2tEFnGXl5) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Tu Lo Decidiste](https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8) | 2:39 |
 | 78 | [Tus Verdades](https://open.spotify.com/track/0R2UCKv5qB6H0ENzZqjH2e) | [Los Grandes Del Pardito](https://open.spotify.com/artist/2xAvH1L1bUERbPMBny3EYb) | [De La Sierra A La Playa](https://open.spotify.com/album/3T0EMRduGzvEHZgvftYTxc) | 2:43 |
 | 79 | [Las Lluvias](https://open.spotify.com/track/5JWnxJIBUa7bVHqaZIEoUy) | [Los Gavilanes de la Sierra](https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1) | [Piel de Azúcar](https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV) | 3:04 |
@@ -100,12 +100,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 90 | [Los 4 Grandes \- En Vivo](https://open.spotify.com/track/2O8ytiGfFkRzLD5CxgFS76) | [Los Alteños De La Sierra](https://open.spotify.com/artist/5C4JSfm4IJsyqrngMh1iPK) | [16 Éxitos \(En Vivo\)](https://open.spotify.com/album/0s82a3ioSduBeiOggJx2HA) | 3:35 |
 | 91 | [Medias Negras](https://open.spotify.com/track/4THPXBPEMxUpu2cqzqhJYP) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Aferrado](https://open.spotify.com/album/5cnO4MJMGDjRQ24TYmI6eH) | 2:49 |
 | 92 | [Reflejos del Viejo](https://open.spotify.com/track/4qAMJga3GyOCwOkj40J3j7) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma](https://open.spotify.com/album/4OGTFgqeWBWK6FWJYAA8Ap) | 3:39 |
-| 93 | [Encendido Clavel](https://open.spotify.com/track/7b28hNlTMK0ChHBszSrSgN) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 1](https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2) | 3:05 |
+| 93 | [Mi Virgencita](https://open.spotify.com/track/3CqPkvPNkDHVHPSeHCUbMu) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 2](https://open.spotify.com/album/1fW1WW9YONI4LS3WRajavt) | 2:24 |
 | 94 | [Ella Me Dijo Que No](https://open.spotify.com/track/3S5Z71zGniOIV9cqSFBzQ0) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 2:43 |
 | 95 | [El Bazucazo](https://open.spotify.com/track/78JYoTnPfIqSvoNVGAPZux) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Duelo De Shakas](https://open.spotify.com/album/5PwL80iiZsnkoJDVSMXEPm) | 3:45 |
 | 96 | [El Cisne](https://open.spotify.com/track/1lW9EHvcAdm8Pqdrc2g82X) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [En El Corazón Del Pueblo](https://open.spotify.com/album/6a6GDleT9w7OWD1jaZbebi) | 3:24 |
 | 97 | [Quiero que sepas](https://open.spotify.com/track/74xISgjEHqlVapeGRGB5Ra) | [Los Ciclones del Arroyo](https://open.spotify.com/artist/474014H20e2LqUwdWaaVLO) | [Ahora si](https://open.spotify.com/album/6NPvnuDZB7SmVHvxeAtiLn) | 2:42 |
-| 98 | [Mi Virgencita](https://open.spotify.com/track/3CqPkvPNkDHVHPSeHCUbMu) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 2](https://open.spotify.com/album/1fW1WW9YONI4LS3WRajavt) | 2:24 |
+| 98 | [Encendido Clavel](https://open.spotify.com/track/7b28hNlTMK0ChHBszSrSgN) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 1](https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2) | 3:05 |
 | 99 | [Los hombres no deben llorar](https://open.spotify.com/track/29XqRRgs3I95F7PMuf8iBn) | [Gigantes de sinaloa](https://open.spotify.com/artist/322p0n25QmFQ5K6lX8998y) | [El favorito](https://open.spotify.com/album/6d50Gv1UQtBfMRuqBcuNtY) | 2:55 |
 | 100 | [Que Casualidad](https://open.spotify.com/track/1ARNcGlXQKky7zX4TZkCtx) | [Sierreños de Sinaloa](https://open.spotify.com/artist/49XtLcagl18fnpRxiW7QW8) | [Siguen los Exitos](https://open.spotify.com/album/3x6EZXwwRU7kDo9DKzVWKa) | 2:58 |
 

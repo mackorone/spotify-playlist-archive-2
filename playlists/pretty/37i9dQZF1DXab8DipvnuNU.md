@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 
 > Essential tunes for time with the family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,607 likes - 75 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,621 likes - 75 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 26 | [Ain't Nobody](https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Stompin' At The Savoy](https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP) | 4:45 |
 | 27 | [Can We Talk](https://open.spotify.com/track/3eRE1KwnUma75nu1HhoNY4) | [Tevin Campbell](https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE) | [I'm Ready](https://open.spotify.com/album/4oMHSoFd6DKPVMVb8uiZYv) | 4:44 |
 | 28 | [Give It To Me Baby](https://open.spotify.com/track/13v3siPyvy5TTEZYmGPPse) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 4:08 |
-| 29 | [Oh Honey](https://open.spotify.com/track/3TiCuJiisBOB9HzKAM6FDG) | [Delegation](https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf) | [Oh Honey](https://open.spotify.com/album/2Hu144ydKhUydmnhfEEqfi) | 5:56 |
-| 30 | [Got to Be Real](https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw) | [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ) | [Cheryl Lynn \(Expanded Edition\)](https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P) | 5:07 |
+| 29 | [Got to Be Real](https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw) | [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ) | [Cheryl Lynn \(Expanded Edition\)](https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P) | 5:07 |
+| 30 | [Oh Honey](https://open.spotify.com/track/3TiCuJiisBOB9HzKAM6FDG) | [Delegation](https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf) | [Oh Honey](https://open.spotify.com/album/2Hu144ydKhUydmnhfEEqfi) | 5:56 |
 | 31 | [Int'l Players Anthem \(I Choose You\) \(feat\. Outkast\)](https://open.spotify.com/track/4ns1XFP3W5JPyzvnAjMdHD) | [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [UGK \(Underground Kingz\)](https://open.spotify.com/album/4GXlMz68LyGZeHzJcetFi1) | 4:19 |
 | 32 | [Back To Life](https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [Keep On Movin'](https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni) | 3:48 |
 | 33 | [This Is How We Do It](https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD) | [Montell Jordan](https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT), [Wino](https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx) | [This Is How We Do It](https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL) | 3:58 |
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 41 | [My Boo \- Hitman's Club Mix](https://open.spotify.com/track/4c0rkFPszqQTyC753tsCMU) | [Ghost Town DJs](https://open.spotify.com/artist/4JbmXqez7WvTggoxn3UpVT) | [My Boo \(Hitman's Club Mix\)](https://open.spotify.com/album/5EvpbZ6QczJlnMX3kbxKYi) | 5:46 |
 | 42 | [Cupid Shuffle](https://open.spotify.com/track/07Tx168RSsUS1HqkDIOZbH) | [Cupid](https://open.spotify.com/artist/0lax1ZgWclW6mZFaGu27MM) | [Time for a Change](https://open.spotify.com/album/1tDyAU95D65Shy34JxsQCu) | 3:51 |
 | 43 | [Just Friends \(Sunny\)](https://open.spotify.com/track/5jgEJXjECdlhzNgfITSTVm) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Aijuswanaseing](https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c) | 4:11 |
-| 44 | [Summer Madness](https://open.spotify.com/track/2uMqG8w8oi09fB2YA2QLOm) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Light Of Worlds](https://open.spotify.com/album/46kA6zL7Cga656urk1nJNo) | 4:17 |
-| 45 | [I Feel for You](https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 5:43 |
-| 46 | [Workin' Day and Night](https://open.spotify.com/track/6BdiFsPMPkSEEO4fFXFVWX) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 5:12 |
-| 47 | [Word Up](https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Word Up](https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA) | 4:20 |
+| 44 | [I Feel for You](https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 5:43 |
+| 45 | [Summer Madness](https://open.spotify.com/track/2uMqG8w8oi09fB2YA2QLOm) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Light Of Worlds](https://open.spotify.com/album/46kA6zL7Cga656urk1nJNo) | 4:17 |
+| 46 | [Word Up](https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Word Up](https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA) | 4:20 |
+| 47 | [Workin' Day and Night](https://open.spotify.com/track/6BdiFsPMPkSEEO4fFXFVWX) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 5:12 |
 | 48 | [Outstanding](https://open.spotify.com/track/2yd0XI7g0BhAgY9GkpPClU) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The Gap Band IV](https://open.spotify.com/album/3pJ0uie1bu662cOCCu5cfG) | 3:18 |
 | 49 | [Just Fine](https://open.spotify.com/track/33vzOPcd9FRirYGlCu32x4) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Growing Pains](https://open.spotify.com/album/5PlA7xVCN59vR0YAnRVisM) | 4:02 |
 | 50 | [I'll Take You There](https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7) | 3:16 |

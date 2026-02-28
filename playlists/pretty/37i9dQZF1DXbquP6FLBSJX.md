@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbquP6FLBSJX.md) - [plain]
 
 > Unwind in time to these 70s classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,373 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,392 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbquP6FLBSJX.md) - [plain]
 | 25 | [What a Fool Believes](https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Minute by Minute](https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB) | 3:43 |
 | 26 | [One of These Nights \- 2013 Remaster](https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 4:51 |
 | 27 | [Somebody To Love \- Remastered 2011](https://open.spotify.com/track/4rDbp1vnvEhieiccprPMdI) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc) | 4:56 |
-| 28 | [Wonderful Tonight](https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:45 |
-| 29 | [Night Moves](https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Night Moves](https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe) | 5:24 |
+| 28 | [Night Moves](https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Night Moves](https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe) | 5:24 |
+| 29 | [Wonderful Tonight](https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:45 |
 | 30 | [Give A Little Bit](https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments](https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w) | 4:08 |
 | 31 | [Sister Golden Hair](https://open.spotify.com/track/5VSAonaAPhhGn0G7hMYwWK) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [Hearts](https://open.spotify.com/album/6Ef4yClroC8pMGktYOUd5n) | 3:19 |
 | 32 | [Miss You \- Remastered](https://open.spotify.com/track/3hJLKtTpgct9Y9wKww0BiR) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 4:48 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbquP6FLBSJX.md) - [plain]
 | 44 | [Life in the Fast Lane \- 2013 Remaster](https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 4:46 |
 | 45 | [Just What I Needed](https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:45 |
 | 46 | [Sunny](https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 4:02 |
-| 47 | [Livin' Thing](https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [A New World Record](https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un) | 3:31 |
-| 48 | [If](https://open.spotify.com/track/40W8Mm9t3ZO1iNQlls35lL) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Manna](https://open.spotify.com/album/1X5oLLoyljROH4eCIae1PO) | 2:35 |
+| 47 | [If](https://open.spotify.com/track/40W8Mm9t3ZO1iNQlls35lL) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Manna](https://open.spotify.com/album/1X5oLLoyljROH4eCIae1PO) | 2:35 |
+| 48 | [Livin' Thing](https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [A New World Record](https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un) | 3:31 |
 | 49 | [Still The Same](https://open.spotify.com/track/1Ryxsiacu8pUXIMCVnIQ8J) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Stranger In Town](https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15) | 3:23 |
 | 50 | [Georgy Porgy](https://open.spotify.com/track/5jQcJ2st6yHWhUBjoDoZPH) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto](https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3) | 4:07 |
 

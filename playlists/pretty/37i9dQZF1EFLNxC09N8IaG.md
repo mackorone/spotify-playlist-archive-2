@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tLAYyiCcgfG7YEVM1Kc3R">Priscilla Renea</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,644 likes - 185 songs - 10 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,645 likes - 185 songs - 10 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 43 | [Made For Me \(with Mariah Carey\)](https://open.spotify.com/track/7A237bWglHPhH3nKGgBsRr) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Made For Me \(with Mariah Carey\)](https://open.spotify.com/album/7kLt47kt9E31gqRepjHIn7) | 3:09 |
 | 44 | [Another](https://open.spotify.com/track/1C6xuOPHkIpmgHWgjyoiTI) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:32 |
 | 45 | [Superpowers](https://open.spotify.com/track/7KaM1Tz8Jsv6m2lUsmUy4z) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:38 |
-| 46 | [Honey \(with Muni Long\)](https://open.spotify.com/track/1ei5bZDXeMNU4rw3iEQ2zX) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 2:20 |
-| 47 | [Baby Boo](https://open.spotify.com/track/36UY111WEuMBKpF189a6m1) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:32 |
-| 48 | [Midnight Sun](https://open.spotify.com/track/6q2YSturdfEzMpoUR5gq0R) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Midnight Sun](https://open.spotify.com/album/4JXdBmsjMFifrVQK8pu2rw) | 3:46 |
+| 46 | [Midnight Sun](https://open.spotify.com/track/6q2YSturdfEzMpoUR5gq0R) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Midnight Sun](https://open.spotify.com/album/4JXdBmsjMFifrVQK8pu2rw) | 3:46 |
+| 47 | [Honey \(with Muni Long\)](https://open.spotify.com/track/1ei5bZDXeMNU4rw3iEQ2zX) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 2:20 |
+| 48 | [Baby Boo](https://open.spotify.com/track/36UY111WEuMBKpF189a6m1) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:32 |
 | 49 | [Don't Mind](https://open.spotify.com/track/2zfPO7DPnJ2Sxp3pniyU4z) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life II...The Journey Continues \(Act 1\)](https://open.spotify.com/album/7wCJISfbEMViKgxvn984Jw) | 3:57 |
 | 50 | [Make Me Forget](https://open.spotify.com/track/2KRKTdbS0U1KTIKvZQJ9sj) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:58 |
 | 51 | [Superhero](https://open.spotify.com/track/2tCNtIXjzZwZ304vrTf5Ue) | [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Sticks & Stones](https://open.spotify.com/album/0z5qKyh9ys3kk9oLEzgG5l) | 3:28 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 69 | [All I See Is Gold](https://open.spotify.com/track/4LPLeiZJLYNGPdI3oo4PFz) | [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb) | [Hello My Name Is...](https://open.spotify.com/album/114sumrk5wTeMWHVin86QC) | 2:53 |
 | 70 | [Plot Twist](https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:32 |
 | 71 | [The Baddest](https://open.spotify.com/track/0ENXtaJRb7ixLcmFjM3gbu) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:38 |
-| 72 | [Love Life \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/4BFb06t2AWUA3mWMbIePmA) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Psycadelik Thoughtz](https://open.spotify.com/album/5NsQCNMLdKVFF1DwOIK6wm) | 3:36 |
-| 73 | [Walk Over](https://open.spotify.com/track/2aUqsU0TGHC8ggDINWPC7l) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [Walk Over](https://open.spotify.com/album/3IKSvw0ySq4gPmxMzb5sZY) | 2:39 |
+| 72 | [Walk Over](https://open.spotify.com/track/2aUqsU0TGHC8ggDINWPC7l) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [Walk Over](https://open.spotify.com/album/3IKSvw0ySq4gPmxMzb5sZY) | 2:39 |
+| 73 | [Love Life \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/4BFb06t2AWUA3mWMbIePmA) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Psycadelik Thoughtz](https://open.spotify.com/album/5NsQCNMLdKVFF1DwOIK6wm) | 3:36 |
 | 74 | [No R&B](https://open.spotify.com/track/2SJgwPonGSJlFm0Wfjn8cj) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:34 |
 | 75 | [To Do List](https://open.spotify.com/track/1U5yljiF4b2KwGvDLgt2rz) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:26 |
 | 76 | [Dollhouse](https://open.spotify.com/track/0YiYzuSET7RzVqywWlchwp) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Jukebox](https://open.spotify.com/album/6y2o7hPNHIfGUtOUyuX03D) | 3:33 |
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 184 | [Baby Boo \- Workout Remix 134 BPM](https://open.spotify.com/track/3tZEV74gCQZIt0yVuWPX1c) | [Power Music Workout](https://open.spotify.com/artist/3GghVvugpv9nXQ2YFzZNzN) | [Songs of Fall 2022](https://open.spotify.com/album/48HC6047249VkSzqDxG5uA) | 4:32 |
 | 185 | [In Love](https://open.spotify.com/track/3kgxoIxhSa1BA1GxPUAG7J) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [Anthology](https://open.spotify.com/album/4xVzLBLJcAn5gwFeeFsk9c) | 2:21 |
 
-Snapshot ID: `AcKvFAAAAADPViu1nmxBItRHI2E3sulP`
+Snapshot ID: `AcK0lgAAAACfbkcouYOaPgRQCQ01DEJ6`

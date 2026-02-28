@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 
 > This is Dean Martin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,892 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,896 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 | 34 | [Goodnight Sweetheart](https://open.spotify.com/track/455eJSxXbR1NVNucLVXayS) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Sleep Warm](https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa) | 3:10 |
 | 35 | [I Have But One Heart \('O Marenariello\) \- Remastered 1998](https://open.spotify.com/track/0Um5yRo7dOIKpIQpGKT4mW) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Italian Love Songs](https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10) | 3:02 |
 | 36 | [The One I Love \(Belongs to Somebody Else\)](https://open.spotify.com/track/5bhFjjOxKttzjw4wISVQZ8) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Dean Martin TV Show](https://open.spotify.com/album/1PAwD673MBnPT4Kt6cGGfR) | 2:15 |
-| 37 | [I Wish You Love](https://open.spotify.com/track/6rE5UhskbiwqzvkPB33MF9) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Lee Herschberg](https://open.spotify.com/artist/7GDDpChEAyRCUfb5On65Vr) | [Cha Cha De Amor](https://open.spotify.com/album/6mKemzOStdG7uywhz0RF7n) | 2:23 |
-| 38 | [I'm Confessin' \(That I Love You\)](https://open.spotify.com/track/6EN0fTxduMrFWuFK46pi7Z) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dream with Dean](https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL) | 3:17 |
-| 39 | [Hey Brother, Pour The Wine](https://open.spotify.com/track/3qLhJr9raF4MeprdawyZqg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Hey, Brother Pour The Wine](https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8) | 2:37 |
-| 40 | [Innamorata \(Sweetheart\) \- Remastered 1998](https://open.spotify.com/track/0dGbCGeiRDAbFXwGJPZP7m) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [At The Movies](https://open.spotify.com/album/1RBtf2WFlp9BxQrsbeO3I2) | 2:25 |
+| 37 | [I'm Confessin' \(That I Love You\)](https://open.spotify.com/track/6EN0fTxduMrFWuFK46pi7Z) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dream with Dean](https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL) | 3:17 |
+| 38 | [Innamorata \(Sweetheart\) \- Remastered 1998](https://open.spotify.com/track/0dGbCGeiRDAbFXwGJPZP7m) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [At The Movies](https://open.spotify.com/album/1RBtf2WFlp9BxQrsbeO3I2) | 2:25 |
+| 39 | [I Wish You Love](https://open.spotify.com/track/6rE5UhskbiwqzvkPB33MF9) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Lee Herschberg](https://open.spotify.com/artist/7GDDpChEAyRCUfb5On65Vr) | [Cha Cha De Amor](https://open.spotify.com/album/6mKemzOStdG7uywhz0RF7n) | 2:23 |
+| 40 | [Hey Brother, Pour The Wine](https://open.spotify.com/track/3qLhJr9raF4MeprdawyZqg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Hey, Brother Pour The Wine](https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8) | 2:37 |
 | 41 | [Under The Bridges Of Paris](https://open.spotify.com/track/7czkfORlDNyM7Ioo7BBSdF) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dino: The Essential Dean Martin](https://open.spotify.com/album/6D5uTxoH304RXHiLISapHj) | 2:46 |
 | 42 | [I've Grown Accustomed To Her Face \("My Fair Lady"\)](https://open.spotify.com/track/3nmwqhf7yG6FrBVpzn5q20) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a), [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This is Chris Botti \(International Version\)](https://open.spotify.com/album/0RjRrt5CCVXeh4IIyyHmDe) | 3:07 |
 | 43 | [The Naughty Lady Of Shady Lane](https://open.spotify.com/track/4i6YRfiLsCW30cPAbwMV40) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 5 \(1954\)](https://open.spotify.com/album/2grxIQsDZK4gZxy0xqpSwM) | 2:56 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 | 45 | [C'est si bon](https://open.spotify.com/track/0ksZYoJXNN1QmgUQdvbK0z) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [French Style](https://open.spotify.com/album/64Hm00agTC7eMQZuFQNnLm) | 2:55 |
 | 46 | [Standing On The Corner](https://open.spotify.com/track/0ZRNBYKLlqAUZxCJrkKA3I) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Sweet](https://open.spotify.com/artist/0GMf8b501ogU3obivaslNF), [Ron Furmanek](https://open.spotify.com/artist/7LrLiL3hiy4IDwbWH29vnG) | [Hey, Brother Pour The Wine](https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8) | 2:49 |
 | 47 | [In Napoli](https://open.spotify.com/track/6hqopvCkT7JW6sSwMw2tFD) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 6 \(1955\-1956\)](https://open.spotify.com/album/6jq5UCuuPwaCZIwLQlLhT6) | 2:56 |
-| 48 | [True Love \(Duet\)](https://open.spotify.com/track/6Rqkp1ZOYSwGzoXIUh4rau) | [Deana Martin](https://open.spotify.com/artist/1LeG1CIzi0OnjP8CTcnSVV), [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Destination Moon](https://open.spotify.com/album/0f6FwrVg0HKjKwFrPXJ06k) | 3:09 |
-| 49 | [The Man Who Plays The Mandolino](https://open.spotify.com/track/4pwqOUmyITGGRjYEnHfxuu) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 7 \(1956\-1957\)](https://open.spotify.com/album/4OnCOdXX9tpuQD0zCMiGwz) | 2:55 |
+| 48 | [The Man Who Plays The Mandolino](https://open.spotify.com/track/4pwqOUmyITGGRjYEnHfxuu) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 7 \(1956\-1957\)](https://open.spotify.com/album/4OnCOdXX9tpuQD0zCMiGwz) | 2:55 |
+| 49 | [True Love \(Duet\)](https://open.spotify.com/track/6Rqkp1ZOYSwGzoXIUh4rau) | [Deana Martin](https://open.spotify.com/artist/1LeG1CIzi0OnjP8CTcnSVV), [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Destination Moon](https://open.spotify.com/album/0f6FwrVg0HKjKwFrPXJ06k) | 3:09 |
 | 50 | [Guys And Dolls](https://open.spotify.com/track/2LYubpBnsnWwbscmQC0JuV) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Reprise Rarities \(Vol\. 5\)](https://open.spotify.com/album/5zQAZL3ru5PqHCEddrnSX2) | 2:49 |
 
-Snapshot ID: `aZ47gAAAAAA6F6vki3OQdH7BcbjSHrHD`
+Snapshot ID: `aZ+NAAAAAACAj/va6BDWMsA0WQqpaMt+`

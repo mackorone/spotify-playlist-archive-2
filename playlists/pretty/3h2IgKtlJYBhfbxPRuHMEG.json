@@ -6,8 +6,24 @@
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAE63hu5/vU3tqJTP1xq21d1Ul5GZa5",
+  "snapshot_id": "AAAE7se64Bru6VEFk8N76Ri5QJFfFQMd",
   "tracks": [
+    {
+      "added_at": "2026-02-27 06:01:36",
+      "album": {
+        "name": "Pop",
+        "url": "https://open.spotify.com/album/69znXGnL5lj0jEIbl7yni7"
+      },
+      "artists": [
+        {
+          "name": "Mary Droppinz",
+          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        }
+      ],
+      "duration_ms": 179142,
+      "name": "Pop",
+      "url": "https://open.spotify.com/track/0TgoIKzHyU2zysMf12KuJD"
+    },
     {
       "added_at": "2026-02-13 15:20:23",
       "album": {
@@ -1487,26 +1503,6 @@
       "duration_ms": 220689,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/3qPJQhBBLPtr1R9ojGQFKk"
-    },
-    {
-      "added_at": "2026-02-13 15:20:23",
-      "album": {
-        "name": "Save Me (From Myself) (feat. Kyle Hume)",
-        "url": "https://open.spotify.com/album/47VbVxpe5CtPMOFCpzliMr"
-      },
-      "artists": [
-        {
-          "name": "NURKO",
-          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
-        },
-        {
-          "name": "Kyle Hume",
-          "url": "https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "Save Me (From Myself) (feat. Kyle Hume)",
-      "url": "https://open.spotify.com/track/6POZ7ocsOQQvJrfArz6KOD"
     },
     {
       "added_at": "2026-02-13 15:20:23",

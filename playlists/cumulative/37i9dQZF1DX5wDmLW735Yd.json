@@ -4027,7 +4027,7 @@
     },
     {
       "album": {
-        "name": "Chase the Lights",
+        "name": "Chase The Lights",
         "url": "https://open.spotify.com/album/7zVOONd1kRPZCVnFzzCuvn"
       },
       "artists": [
@@ -4044,7 +4044,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 227441,
-      "name": "Chase the Lights",
+      "name": "Chase The Lights",
       "url": "https://open.spotify.com/track/3OGjFeCcmJSR0GFNOWjoLG"
     },
     {
@@ -11294,6 +11294,10 @@
         {
           "name": "Janaway",
           "url": "https://open.spotify.com/artist/57AV6TbmHpHujySKHSjQ7Z"
+        },
+        {
+          "name": "Safiyyah",
+          "url": "https://open.spotify.com/artist/07UzVz5qBaR5ZQcaRCYeIu"
         }
       ],
       "date_added": "2025-12-12",

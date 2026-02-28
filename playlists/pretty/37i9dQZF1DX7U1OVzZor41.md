@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7U1OVzZor41.md) - [plain]
 
 > 在KTV里，这些都是必点必唱的华语K歌。你准备好了吗？
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,655 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,660 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7U1OVzZor41.md) - [plain]
 | 11 | [開始懂了](https://open.spotify.com/track/68tZwwRuo9ip5gRQFG1XWF) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [我要的幸福](https://open.spotify.com/album/78cBYsAtN8VqvWmyW4Uu4m) | 4:31 |
 | 12 | [不將就 \(電影"何以笙簫默"片尾曲\)](https://open.spotify.com/track/5DH8nF7aWoXXg5Sm3gjCWD) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [有理想](https://open.spotify.com/album/3ykTa8oJzxd7n6vplb3VTl) | 5:12 |
 | 13 | [刻在我心底的名字 \(Your Name Engraved Herein\) \- 電影<刻在你心底的名字>主題曲](https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [刻在我心底的名字 \(Your Name Engraved Herein\)](https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2) | 5:20 |
-| 14 | [慢冷](https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [我好嗎? \- 太陽如常升起](https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM) | 4:49 |
-| 15 | [不是因為天氣晴朗才愛你](https://open.spotify.com/track/2VEt42QSQxILgEf9B50xxm) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/6JuW0a9a9irzx0QkYC9eLI) | 4:00 |
+| 14 | [不是因為天氣晴朗才愛你](https://open.spotify.com/track/2VEt42QSQxILgEf9B50xxm) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/6JuW0a9a9irzx0QkYC9eLI) | 4:00 |
+| 15 | [慢冷](https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [我好嗎? \- 太陽如常升起](https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM) | 4:49 |
 | 16 | [童話](https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg) | [Michael Wong](https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO) | [十光年精選輯](https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm) | 4:06 |
 | 17 | [摯友](https://open.spotify.com/track/5evE7bweEhX83fd1ZmwPjP) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [摯友](https://open.spotify.com/album/5XhdyuaZcuvgWVR135euye) | 5:13 |
 | 18 | [光年之外 \(電影 《Passengers》 中國區主題曲\)](https://open.spotify.com/track/1bkvGbgK4HU8B7Ue4k7O7I) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [光年之外 \(電影 《Passengers》 中國區主題曲\)](https://open.spotify.com/album/4eQDYF5DRwKtOCidoSe9HP) | 3:55 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7U1OVzZor41.md) - [plain]
 | 42 | [體面](https://open.spotify.com/track/7oOfvZDUqhiJd9OC2Tq8Nh) | [Kelly Yu](https://open.spotify.com/artist/5R56NYbLCC2HpOwlYBnmeN) | [尚未界定](https://open.spotify.com/album/3Izw8Ec6jQUYjSDUifh7XO) | 4:42 |
 | 43 | [訣愛 \(劇集《蒼蘭訣》片頭曲\)](https://open.spotify.com/track/6la3Kme7O7D01fJPxgpAS5) | [Faye 詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [訣愛](https://open.spotify.com/album/11KVIZFGZ34hRCfrIr1oSt) | 3:09 |
 | 44 | [他一定很愛你](https://open.spotify.com/track/1n3TbqMfvALAI0BjtiF6Lt) | [A\-do](https://open.spotify.com/artist/24C7uNrWX2Iidb6X63vTGz) | [天黑](https://open.spotify.com/album/2j7oLWPom1E8cLCN8wkDg6) | 3:30 |
-| 45 | [披星戴月的想你](https://open.spotify.com/track/7tgzj2IqzSgUpxUhjmcF5m) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我肯定在幾百年前就說過愛你](https://open.spotify.com/album/7yvCk24AtE9k0vLcolSs2i) | 5:49 |
-| 46 | [只想把你偷偷藏好\(《偷偷藏不住》电视剧主题曲/片头曲\)](https://open.spotify.com/track/7cwB09xvS1ArgeXozdf3dU) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60), [赵露思 Rosy](https://open.spotify.com/artist/02kfzFGTg4N70xlIO3hDvv) | [只想把你偷偷藏好\(《偷偷藏不住》电视剧主题曲/片头曲\)](https://open.spotify.com/album/096qr8b6jJm2oICXJF39tX) | 3:14 |
+| 45 | [只想把你偷偷藏好\(《偷偷藏不住》电视剧主题曲/片头曲\)](https://open.spotify.com/track/7cwB09xvS1ArgeXozdf3dU) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60), [赵露思 Rosy](https://open.spotify.com/artist/02kfzFGTg4N70xlIO3hDvv) | [只想把你偷偷藏好\(《偷偷藏不住》电视剧主题曲/片头曲\)](https://open.spotify.com/album/096qr8b6jJm2oICXJF39tX) | 3:14 |
+| 46 | [披星戴月的想你](https://open.spotify.com/track/7tgzj2IqzSgUpxUhjmcF5m) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我肯定在幾百年前就說過愛你](https://open.spotify.com/album/7yvCk24AtE9k0vLcolSs2i) | 5:49 |
 | 47 | [背叛](https://open.spotify.com/track/48VzfSDNpxIfWohA9bZgfo) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [Superman](https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN) | 5:21 |
 | 48 | [當你](https://open.spotify.com/track/56UzFYxgkvxU188BsCKBOc) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [她說](https://open.spotify.com/album/2jzTdhgI2kvDx6NerFsRe8) | 4:09 |
 | 49 | [摯友](https://open.spotify.com/track/1bQHKplf5fkkecalhAgYp0) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [LINK](https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz) | 5:18 |

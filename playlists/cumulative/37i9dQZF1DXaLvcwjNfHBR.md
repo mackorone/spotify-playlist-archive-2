@@ -4,7 +4,7 @@
 
 > Your new favourite songs! Cover: COTERIE
 
-1,039 songs - 2 day 7 hr 23 min
+1,041 songs - 2 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-06-15 | 2023-07-14 |
 | [Giving Up Air](https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Giving Up Air](https://open.spotify.com/album/4exXV4JfJXcyHtrGelE0lw) | 4:47 | 2025-09-30 | 2026-02-27 |
 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 | 2025-05-08 | 2025-07-02 |
+| [GO](https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 3:15 | 2026-02-27 |  |
 | [GO GO GO](https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [GO GO GO](https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S) | 2:25 | 2023-08-03 | 2023-08-26 |
 | [GO!](https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:50 | 2025-09-25 | 2026-01-28 |
 | [Goddess](https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Goddess](https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ) | 4:27 | 2024-03-14 | 2024-04-05 |
@@ -773,7 +774,8 @@
 | [Rich Baby Daddy \(feat\. Sexyy Red & SZA\)](https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 5:19 | 2023-10-16 | 2024-02-23 |
 | [Ring\-a\-Ling](https://open.spotify.com/track/0CAisIL2Tjy47oEkzQUMns) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Ring\-a\-Ling](https://open.spotify.com/album/1OnUNliWg1BbNsuEmGDB2n) | 2:58 | 2023-07-27 | 2023-08-28 |
 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 | 2024-05-09 | 2024-06-21 |
-| [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 | 2026-02-26 |  |
+| [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 | 2026-02-26 | 2026-02-28 |
+| [Risk It All](https://open.spotify.com/track/6skX6In6VpLzev9epAUnpp) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/5z7kqc5UFmtNfZb2Rw7zHy) | 3:24 | 2026-02-27 |  |
 | [Rita Wrote A Letter](https://open.spotify.com/track/7BB70XAuF4wtoyiMuFaOqF) | [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [Rita Wrote A Letter](https://open.spotify.com/album/1uWyGsF0JJu3E476f6mmJr) | 4:14 | 2025-08-21 | 2025-11-28 |
 | [Rolling Stone](https://open.spotify.com/track/4fzlbYTl8CWMigIqsd5gI6) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Rolling Stone](https://open.spotify.com/album/4HqdElx5myiCasQwHkh82T) | 1:56 | 2025-02-13 | 2025-04-25 |
 | [Rtr](https://open.spotify.com/track/1qCz701lWN4xaC5AGdvv3U) | [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp), [HP ONIT](https://open.spotify.com/artist/3yclhvFQ2T4HgVpAjtckXG), [HP YJ](https://open.spotify.com/artist/5marR6RSTdYzvnGsHiH5rc) | [Rtr](https://open.spotify.com/album/2WjsVMTw6Bk7hF7IpS9k83) | 2:32 | 2023-09-14 | 2023-10-20 |

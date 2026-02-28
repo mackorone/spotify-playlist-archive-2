@@ -1,6 +1,6 @@
 {
   "description": "gusto ko lang naman ng kayakap ",
-  "num_followers": 884773,
+  "num_followers": 884706,
   "original_name": "cuddleweather",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-02-16 07:32:56",
       "album": {
-        "name": "You'll Be Safe Here",
-        "url": "https://open.spotify.com/album/5JqdmuqnCCp3ENI3IgdqDG"
-      },
-      "artists": [
-        {
-          "name": "Rico Blanco",
-          "url": "https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "You'll Be Safe Here",
-      "url": "https://open.spotify.com/track/0IuKNTVgn9vapnGU44natX"
-    },
-    {
-      "added_at": "2026-02-16 07:32:56",
-      "album": {
         "name": "Kalimutan Ka",
         "url": "https://open.spotify.com/album/1CVdBDkuBgD62YGDXslE4R"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 288000,
       "name": "Kalimutan Ka",
       "url": "https://open.spotify.com/track/7dXZnGGBn9Kfu8NCnrRl3w"
+    },
+    {
+      "added_at": "2026-02-16 07:32:56",
+      "album": {
+        "name": "You'll Be Safe Here",
+        "url": "https://open.spotify.com/album/5JqdmuqnCCp3ENI3IgdqDG"
+      },
+      "artists": [
+        {
+          "name": "Rico Blanco",
+          "url": "https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "You'll Be Safe Here",
+      "url": "https://open.spotify.com/track/0IuKNTVgn9vapnGU44natX"
     },
     {
       "added_at": "2026-02-16 07:32:56",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-02-16 07:32:56",
       "album": {
-        "name": "24/7, 365",
-        "url": "https://open.spotify.com/album/4GIH14Ii08p24CHN7MlooG"
-      },
-      "artists": [
-        {
-          "name": "elijah woods",
-          "url": "https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "24/7, 365",
-      "url": "https://open.spotify.com/track/05QUYSOApWLr8oBbpONl7p"
-    },
-    {
-      "added_at": "2026-02-16 07:32:56",
-      "album": {
         "name": "number one girl",
         "url": "https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 216442,
       "name": "number one girl",
       "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
+    },
+    {
+      "added_at": "2026-02-16 07:32:56",
+      "album": {
+        "name": "24/7, 365",
+        "url": "https://open.spotify.com/album/4GIH14Ii08p24CHN7MlooG"
+      },
+      "artists": [
+        {
+          "name": "elijah woods",
+          "url": "https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "24/7, 365",
+      "url": "https://open.spotify.com/track/05QUYSOApWLr8oBbpONl7p"
     },
     {
       "added_at": "2026-02-16 07:32:56",
@@ -711,26 +711,6 @@
     {
       "added_at": "2026-02-16 07:32:56",
       "album": {
-        "name": "Those Eyes",
-        "url": "https://open.spotify.com/album/5MBMrSqIg8czxWwqem7tMN"
-      },
-      "artists": [
-        {
-          "name": "New West",
-          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
-        },
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 244750,
-      "name": "Those Eyes (feat. Zeph)",
-      "url": "https://open.spotify.com/track/6Cg8d5DzpKHGci9SPk8JeL"
-    },
-    {
-      "added_at": "2026-02-16 07:32:56",
-      "album": {
         "name": "homebdy (feat. Madman Stan)",
         "url": "https://open.spotify.com/album/1eNpFnIEHvsFYcIaSnf3bJ"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 141762,
       "name": "homebdy (feat. Madman Stan)",
       "url": "https://open.spotify.com/track/01iNOMVE89uKaurFTDZX2Y"
+    },
+    {
+      "added_at": "2026-02-16 07:32:56",
+      "album": {
+        "name": "Those Eyes",
+        "url": "https://open.spotify.com/album/5MBMrSqIg8czxWwqem7tMN"
+      },
+      "artists": [
+        {
+          "name": "New West",
+          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+        },
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 244750,
+      "name": "Those Eyes (feat. Zeph)",
+      "url": "https://open.spotify.com/track/6Cg8d5DzpKHGci9SPk8JeL"
     },
     {
       "added_at": "2026-02-16 07:32:56",

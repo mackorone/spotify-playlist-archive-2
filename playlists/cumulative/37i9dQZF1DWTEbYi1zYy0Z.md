@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Boney James
 
-532 songs - 1 day 13 hr 39 min
+534 songs - 1 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [24 Hours](https://open.spotify.com/track/515E4Cch8F8903AZqr1gMP) | [Jarez](https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr), [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [J Funk City](https://open.spotify.com/album/7bdm8TNgtQwmlHYiJHSSmy) | 3:54 | 2020-10-30 | 2022-03-15 |
 | [A Beautiful Dream](https://open.spotify.com/track/54q9Z3bppcAviIX7cX5mXB) | [Andy Snitzer](https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7) | [A Beautiful Dream](https://open.spotify.com/album/3OLBqYv0Tv6QAlRdcpxQsl) | 4:00 | 2023-09-15 |  |
 | [A Beautiful Story](https://open.spotify.com/track/0Ne0fHLGdb8z3au4EClgTo) | [Ludovic Louis](https://open.spotify.com/artist/7dzml0MudQRS956whBQ455) | [If Everything Is Written](https://open.spotify.com/album/1I8wcOWPePOc82xh72vGlk) | 2:57 | 2024-06-07 |  |
+| [A BEAUTIFUL THANG](https://open.spotify.com/track/4lliztuFvh83Hy3bYAHNG9) | [Droyd](https://open.spotify.com/artist/3zj8Bb4QXfSEbqpbGnWi0O), [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW) | [A BEAUTIFUL THANG](https://open.spotify.com/album/5rPlvoCGyKsc4srBP411hQ) | 3:12 | 2026-02-27 |  |
 | [A Brighter Day](https://open.spotify.com/track/5NbqBSwhgnd601B9lu80U6) | [Craig Sharmat](https://open.spotify.com/artist/7AOYuTczmJd2pICRBxEPn4) | [A Brighter Day](https://open.spotify.com/album/74rVku2kW6XDWv5eTO72we) | 3:51 | 2021-06-11 | 2022-07-29 |
 | [A Kind Heart \(Radio Edit\)](https://open.spotify.com/track/2T1r2HCWcbqGQumVbypbLO) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [A Kind Heart \(Radio Edit\)](https://open.spotify.com/album/45MukUOa8AzLy9mmMWQEcW) | 3:51 | 2024-03-15 |  |
 | [A Little Kiss](https://open.spotify.com/track/1ZVwUblLEKUAL18HYg9pFa) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Love Is Everywhere](https://open.spotify.com/album/16whuBxT0JiUKbQFKISVbA) | 3:48 | 2023-04-07 | 2024-09-14 |
@@ -45,7 +46,7 @@
 | [Bado Boy!](https://open.spotify.com/track/3kRX7GtOlik8LeG62lekqb) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [Bado Boy!](https://open.spotify.com/album/5qr5HLIjVCmynsnnc9uEKc) | 5:08 | 2021-04-23 | 2022-03-17 |
 | [Bah\-De\-Yah!](https://open.spotify.com/track/4L33U0CZe1UTQe6pvkqT20) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Bah\-De\-Yah!](https://open.spotify.com/album/1H2hkwOmlXmQ2acA8WmaRJ) | 4:19 | 2024-04-05 | 2024-04-27 |
 | [Balance](https://open.spotify.com/track/5YbkLLd2HizawqpBRDTDQX) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW) | [Balance](https://open.spotify.com/album/19FsWLk3xJIVArsQlTuxNL) | 3:40 | 2020-10-30 | 2022-03-18 |
-| [Barcelona](https://open.spotify.com/track/5ruzvCeaC09Mr6qkDvCN38) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Soul Connection](https://open.spotify.com/album/3zUlPoE9q6kZyW6UzyhlNs) | 3:45 | 2023-06-16 |  |
+| [Barcelona](https://open.spotify.com/track/5ruzvCeaC09Mr6qkDvCN38) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Soul Connection](https://open.spotify.com/album/3zUlPoE9q6kZyW6UzyhlNs) | 3:45 | 2023-06-16 | 2026-02-28 |
 | [BE](https://open.spotify.com/track/1ANBQN9O3eh7BWxAPD8VHs) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW) | [BE](https://open.spotify.com/album/5z07OB4UMfagVNpQOAErSU) | 3:10 | 2022-10-28 | 2024-04-06 |
 | [BE](https://open.spotify.com/track/2BOcRhGIKurTmHQ8t22y6D) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW) | [BE](https://open.spotify.com/album/7k7JcYg66RUHHhr1Z3bUwb) | 3:10 | 2022-10-24 | 2023-09-29 |
 | [BE](https://open.spotify.com/track/3G0u0AWzgnwgJpkmGpxLgX) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW) | [BE](https://open.spotify.com/album/21fHWfuOmJnpYGozQo9LCK) | 3:10 | 2022-10-28 | 2023-11-12 |
@@ -90,7 +91,7 @@
 | [Catalonia](https://open.spotify.com/track/3wy86KLR6VKyuBVHeyaM6b) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Light of Day](https://open.spotify.com/album/2xDalhs3jBlEjRwUnOLPTZ) | 4:42 | 2025-02-14 |  |
 | [Champagne Sky](https://open.spotify.com/track/1Nl85nf0Q9JNUVOxSa86k4) | [Ilya Serov](https://open.spotify.com/artist/1iffcHDU0oWJvEXhufA71G) | [Champagne Sky](https://open.spotify.com/album/7813D7cYBLXzJAxmGeTtd9) | 4:08 | 2023-09-15 | 2024-03-02 |
 | [Change the World](https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Simple Things](https://open.spotify.com/album/5johDkRr09Mayqa0V7Ik8X) | 3:44 | 2022-05-20 | 2023-10-28 |
-| [Changed Me](https://open.spotify.com/track/75taQd5SN7871t9wku1Hbx) | [Droyd](https://open.spotify.com/artist/3zj8Bb4QXfSEbqpbGnWi0O), [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW) | [Changed Me](https://open.spotify.com/album/53CCbBw9Yosww539htd11p) | 2:57 | 2025-02-14 |  |
+| [Changed Me](https://open.spotify.com/track/75taQd5SN7871t9wku1Hbx) | [Droyd](https://open.spotify.com/artist/3zj8Bb4QXfSEbqpbGnWi0O), [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW) | [Changed Me](https://open.spotify.com/album/53CCbBw9Yosww539htd11p) | 2:57 | 2025-02-14 | 2026-02-28 |
 | [Chasing the Dream](https://open.spotify.com/track/7DoHYeSKTtlvvu0bjybY2f) | [Tony Saunders](https://open.spotify.com/artist/5OLFOdnwdWsZry0VUo3b2Q), [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB), [Jeff Ryan](https://open.spotify.com/artist/0cjzOb6JYN5AOg4WVA9miY) | [Sexy Somethin](https://open.spotify.com/album/3bmCfOCQF2wsR7L7XwvMwa) | 4:34 | 2021-01-22 | 2022-03-18 |
 | [Chicago Morning](https://open.spotify.com/track/2E6pU3PbdItkREHN9IYCJb) | [Spontaneous Groovin' Combustion](https://open.spotify.com/artist/48jWgkXNkHqn6SVQZniYe5) | [Chicago Morning](https://open.spotify.com/album/32yiS9sXWBCJvOvCLU276N) | 4:20 | 2022-03-18 | 2023-07-01 |
 | [Chill@Will](https://open.spotify.com/track/0rPQtEYEBPRzjdwqg9UIjH) | [Gabriel Mark Hasselbach](https://open.spotify.com/artist/4YCL2MVhmQLfNMDXz2of4L), [Bob Baldwin](https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP) | [Chill@Will](https://open.spotify.com/album/6HZKfoekNmLbY2KuxQxTzD) | 4:29 | 2021-05-07 | 2022-03-18 |
@@ -321,6 +322,7 @@
 | [Monalisa](https://open.spotify.com/track/1N26FYH3eEpD9k00ffxqFM) | [Brendan Ross](https://open.spotify.com/artist/3M01zUDEhtQi29cFkqhBhJ) | [Monalisa](https://open.spotify.com/album/1cHZpnvW34ebs0IcH0iMta) | 3:37 | 2023-09-08 | 2023-11-18 |
 | [Monday](https://open.spotify.com/track/0rviXYk3XxKRrQgBmAxNIm) | [Philip Patterson](https://open.spotify.com/artist/3UgSv7DzbUESf5H4WPzaU7) | [Monday](https://open.spotify.com/album/1FnCDL2O2WM57ZdbE3Jmbu) | 4:14 | 2021-07-23 | 2022-09-06 |
 | [Moon Goddess](https://open.spotify.com/track/3ieIBo1fhTNzUsHSMZq3rU) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Moon Goddess](https://open.spotify.com/album/7J7ldYnPXb8DqXK5gQSeQi) | 4:05 | 2023-03-24 | 2024-08-31 |
+| [More Than Enough](https://open.spotify.com/track/7mE3QE7WqyozWhz8vIoBAt) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Hot Chocolate](https://open.spotify.com/album/5l7ZTkk5gbpEu1BBvFKWIj) | 5:04 | 2026-02-27 |  |
 | [Motor City Moves \(feat\. Lin Rountree\)](https://open.spotify.com/track/5P8qx52DAW0ZQ4qijSHePN) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov), [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [Free](https://open.spotify.com/album/1JsNa5M9CjJcK56SbXlcsU) | 4:24 | 2022-10-07 | 2023-08-26 |
 | [Movin' N Groovin](https://open.spotify.com/track/5NmCYR2MIpJhHzB5nAwDUE) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5), [Michael Broening](https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG) | [Movin' N Groovin](https://open.spotify.com/album/5mPrwquK15wRc4rvYBZ8gd) | 4:24 | 2022-03-25 | 2023-03-18 |
 | [Moving Too Fast](https://open.spotify.com/track/2O7uioEz4FLJiOgH2LIJLG) | [Randal Clark](https://open.spotify.com/artist/6nyQjlgqFNP1ZkPECpByYy) | [Moving Too Fast](https://open.spotify.com/album/1AZI6eU4ps97LoiFqxoYua) | 3:42 | 2023-10-06 | 2023-10-21 |

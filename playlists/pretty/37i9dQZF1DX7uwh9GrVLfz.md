@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: WANIMA
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,020 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,048 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 21 | [LOST IN THE "LIVEHOUSE"](https://open.spotify.com/track/166Fh9ya9Ni7jl8ogomOJu) | [171](https://open.spotify.com/artist/4dbq5qNOe51qdgnhmlIJ3v) | [HELLO!](https://open.spotify.com/album/0Fby1ANupBwwDm8bFjf8nz) | 0:53 |
 | 22 | [Fledgling](https://open.spotify.com/track/5tvaEwIBqMrbKPIzfIRzMQ) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [Fledgling](https://open.spotify.com/album/4PW3M0r0Zs8msRppMWuNn9) | 2:24 |
 | 23 | [keep in BLUE](https://open.spotify.com/track/4VHRNTe2IvZUOHUKVXDIyh) | [Recca](https://open.spotify.com/artist/0qLUMuVVobqGNCZSys4501) | [keep in BLUE](https://open.spotify.com/album/7Mtdxlgv6wZew5Pq4kFZ1O) | 3:10 |
-| 24 | [空に唄えば](https://open.spotify.com/track/0CATStPGs7sxXxM7CJLdPa) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R BEST 「ANNIVERSARY 1998\-2018」](https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A) | 4:18 |
-| 25 | [to be continued](https://open.spotify.com/track/2Vjvy82eYW584ZzSpqRfeK) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [to be continued](https://open.spotify.com/album/2426KIh3FQjMSZfNeXktvA) | 4:04 |
+| 24 | [to be continued](https://open.spotify.com/track/2Vjvy82eYW584ZzSpqRfeK) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [to be continued](https://open.spotify.com/album/2426KIh3FQjMSZfNeXktvA) | 4:04 |
+| 25 | [空に唄えば](https://open.spotify.com/track/0CATStPGs7sxXxM7CJLdPa) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R BEST 「ANNIVERSARY 1998\-2018」](https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A) | 4:18 |
 | 26 | [夢で逢えたら](https://open.spotify.com/track/5rvaDukztuWN4S82JoGd7R) | [GING NANG BOYZ](https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m) | [DOOR](https://open.spotify.com/album/01i1QV1gvVcfirJNFLQa3a) | 5:01 |
 | 27 | [RIVER](https://open.spotify.com/track/2qnWDYKpeTMTUHGibLjt3t) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [REALIFE](https://open.spotify.com/album/2wK612UgOZquVDoz9nKYmA) | 4:21 |
 | 28 | [曖昧](https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [曖昧](https://open.spotify.com/album/3BRmcqCvRvH8QVFfiAU5bY) | 3:42 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 38 | [金色グラフティー](https://open.spotify.com/track/3Qs3O0rc4R0hl7WkTuMJ6U) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [Walk](https://open.spotify.com/album/2ZPTCQBG8YLgf83T8W3Bfh) | 4:18 |
 | 39 | [ロックンロール イズ ノットデッド](https://open.spotify.com/track/2T0NlmguJeLXbXc4xZ10TU) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [ロックンロール イズ ノットデッド](https://open.spotify.com/album/0ETJil8vr0LrBGRA8oxC0p) | 5:00 |
 | 40 | [MajiでKoiする5秒前](https://open.spotify.com/track/77lXKVqKTfVJEnq6Q4O95e) | [GING NANG BOYZ](https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m) | [GOD SAVE THE わーるど](https://open.spotify.com/album/4evwWu8G2UQvNEo8U1sxF3) | 4:50 |
-| 41 | [PEAK'D YELLOW](https://open.spotify.com/track/4F8IqZEYs0KePKI7AAgrPv) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [THE BAND STAR](https://open.spotify.com/album/7LBnXKfzvkhJIvZcTENgiS) | 2:59 |
-| 42 | [フランス料理](https://open.spotify.com/track/3Zid95Tp3ipCFAbmI9yl2k) | [超☆社会的サンダル](https://open.spotify.com/artist/6T3QAYc6bkesA1o8mCc7G4) | [君の飼い犬は、可愛くて最悪。](https://open.spotify.com/album/1KFqzFxWms2QCIgX6y7L98) | 4:43 |
+| 41 | [フランス料理](https://open.spotify.com/track/3Zid95Tp3ipCFAbmI9yl2k) | [超☆社会的サンダル](https://open.spotify.com/artist/6T3QAYc6bkesA1o8mCc7G4) | [君の飼い犬は、可愛くて最悪。](https://open.spotify.com/album/1KFqzFxWms2QCIgX6y7L98) | 4:43 |
+| 42 | [PEAK'D YELLOW](https://open.spotify.com/track/4F8IqZEYs0KePKI7AAgrPv) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [THE BAND STAR](https://open.spotify.com/album/7LBnXKfzvkhJIvZcTENgiS) | 2:59 |
 | 43 | [Our Song](https://open.spotify.com/track/1cljv0pFujhPmdNDSJNTim) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [Our Song](https://open.spotify.com/album/3vOAwUmsvyNXiXBiWwwS8n) | 2:42 |
 | 44 | [C7](https://open.spotify.com/track/6X6ZSDU1g2gYh2foPRfYnT) | [GO!GO!7188](https://open.spotify.com/artist/66ngkg99OYT8xfzYy660Wu) | [ベスト　オブ　ゴー！ゴー！](https://open.spotify.com/album/3BC0ULmefgz7GFXOUYGY7k) | 4:15 |
 | 45 | [Get Up](https://open.spotify.com/track/1gJsVvWkcLnMLcZBa6FtGw) | [MONOEYES](https://open.spotify.com/artist/6E0nqUTrVRNwUGcbZxeDX9) | [Dim The Lights](https://open.spotify.com/album/6IaqeynN8Mgi5RprUaWbIU) | 4:05 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 87 | [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 |
 | 88 | [CHAMPiONS](https://open.spotify.com/track/25DKLVXbY747FnWBpum6k5) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [CHAMPiONS](https://open.spotify.com/album/1tgzTFdkXKzMhZhsHZs0PD) | 4:01 |
 | 89 | [死亡フラグを立てないで](https://open.spotify.com/track/3EqQOKYHWfaqKBkeU5YKsv) | [GOKUMON\(UchikubiGokumonDoukoukai\)](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [死亡フラグを立てないで](https://open.spotify.com/album/5lkOWi2hkb6Rj72eE2E3aG) | 4:35 |
-| 90 | [HAPPY BIRTHDAY](https://open.spotify.com/track/7x7giWw9D02rZ29zrcVEth) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 2:44 |
-| 91 | [ショートカット](https://open.spotify.com/track/6CHrfuOFJikGNs6JriXdGi) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [ショートカット](https://open.spotify.com/album/4RHVfs0r4wZ3MPwZMiMuWO) | 3:32 |
+| 90 | [ショートカット](https://open.spotify.com/track/6CHrfuOFJikGNs6JriXdGi) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [ショートカット](https://open.spotify.com/album/4RHVfs0r4wZ3MPwZMiMuWO) | 3:32 |
+| 91 | [HAPPY BIRTHDAY](https://open.spotify.com/track/7x7giWw9D02rZ29zrcVEth) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 2:44 |
 | 92 | [MUZIC](https://open.spotify.com/track/1LrmWErruRbgfafzcilZNS) | [EGG BRAIN](https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI) | [MUZIC](https://open.spotify.com/album/4UfnTbzbPnLbF6K1RttHp5) | 3:42 |
 | 93 | [永遠衝動](https://open.spotify.com/track/5I2A6BkRvTve67HLQbK3WE) | [I's](https://open.spotify.com/artist/2nLJEolH6pXx09IC4LrWBU) | [永遠衝動](https://open.spotify.com/album/1qmSmgNIWi1DwyXGv4Fbtz) | 4:14 |
 | 94 | [ポテサラ](https://open.spotify.com/track/5L8ZRE5UQiPHKkVI5XtHqb) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [あの夜のはなし](https://open.spotify.com/album/4nuRUQpojZ8aM9SERd769U) | 2:15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 
 > Aquí no hay nostalgia, ¡se vino la pachanga!, y el <a href="spotify:user:spotify:playlist:37i9dQZF1DWT0pl0yubzJM">Rock Sónico</a> también!
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,000 likes - 80 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,015 likes - 80 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 | 29 | [Lamento Boliviano](https://open.spotify.com/track/62FQCSvSUSG3m9uajVkvWe) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Coleccion Aniversario](https://open.spotify.com/album/2KPLQ2qLxKlUj0ltGusgVc) | 3:43 |
 | 30 | [Fondo Profundo](https://open.spotify.com/track/2g229Q3Relqxkj5CDnTjeE) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Fondo Profundo](https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT) | 3:44 |
 | 31 | [Brillante sobre el mic](https://open.spotify.com/track/2dxRzFDDv3QcSMQ0vIgqMF) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 4:08 |
-| 32 | [Diez años después](https://open.spotify.com/track/75ri6NVvxCULgNRrbGkfzj) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:35 |
-| 33 | [Demasiada Presión \- Remasterizado 2008](https://open.spotify.com/track/1CwyfupBufLXfYdPr8LhDF) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Los Fabulosos Cadillacs \- Vol\. V](https://open.spotify.com/album/5yv3ZFKygQ7PtOe91V8H1L) | 4:12 |
+| 32 | [Demasiada Presión \- Remasterizado 2008](https://open.spotify.com/track/1CwyfupBufLXfYdPr8LhDF) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Los Fabulosos Cadillacs \- Vol\. V](https://open.spotify.com/album/5yv3ZFKygQ7PtOe91V8H1L) | 4:12 |
+| 33 | [Diez años después](https://open.spotify.com/track/75ri6NVvxCULgNRrbGkfzj) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:35 |
 | 34 | [Ala Delta](https://open.spotify.com/track/0LTCld7MYVKCAGpi05szyV) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Acariciando Lo Aspero](https://open.spotify.com/album/5UmrOPpQ3VmXmBRSvXMbcR) | 5:54 |
 | 35 | [Voy a Vos](https://open.spotify.com/track/0aWGzetUTb4lJqy2m2nl1i) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Fondo Profundo](https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT) | 5:43 |
 | 36 | [La Rubia del Avión](https://open.spotify.com/track/3rgd481ClPZIR6XEDTl2VU) | [Los Ladrones Sueltos](https://open.spotify.com/artist/27MSpvbWdva4rfi0kD07fF) | [Los Ladrones Sueltos](https://open.spotify.com/album/0mxTNx34dkX5uBPWu0pu1u) | 4:12 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 | 58 | [El Mono Relojero](https://open.spotify.com/track/2RpzktQlb1SZGJBdC6eNIC) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp) | [A 15 Cm De La Realidad](https://open.spotify.com/album/08Y1kgfEcH11p3hJopWslX) | 3:52 |
 | 59 | [Porque Te Vas...](https://open.spotify.com/track/2y7QsNl3ZEm4DI6ACFxRMV) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Ángeles Caídos](https://open.spotify.com/album/6rRl0e1hPYxM1c2ssIAbs0) | 2:54 |
 | 60 | [Traición A La Mexicana](https://open.spotify.com/track/3TB8yNtLqwugHCols5sPx3) | [La Zimbabwe](https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc) | [Positiva Vibración](https://open.spotify.com/album/79ObMjPYMUaP3pu8fp7PLd) | 4:10 |
-| 61 | [Los Salieris De Charly](https://open.spotify.com/track/2Ur5w6pRsWBq5xnqiwhVgj) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Mensajes Del Alma](https://open.spotify.com/album/5N6dSqrWduJNntj4svDbfE) | 6:02 |
-| 62 | [El Arriero](https://open.spotify.com/track/0iFZlkyFokkZq569S7NADx) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [La Era De La Boludez](https://open.spotify.com/album/4D1aIzUYKG6jytRjgT0QIx) | 6:38 |
+| 61 | [El Arriero](https://open.spotify.com/track/0iFZlkyFokkZq569S7NADx) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [La Era De La Boludez](https://open.spotify.com/album/4D1aIzUYKG6jytRjgT0QIx) | 6:38 |
+| 62 | [Los Salieris De Charly](https://open.spotify.com/track/2Ur5w6pRsWBq5xnqiwhVgj) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Mensajes Del Alma](https://open.spotify.com/album/5N6dSqrWduJNntj4svDbfE) | 6:02 |
 | 63 | [Mary Poppins y el deshollinador](https://open.spotify.com/track/7xfh6z6YnAFq2Xhp6MNnjd) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Algo mejor](https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ) | 4:07 |
 | 64 | [Chipi\-Chipi](https://open.spotify.com/track/6pCZYiB2ZoLfDuapZbpKl8) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [La Hija de la Lágrima](https://open.spotify.com/album/1ayedQfx32UihcgGBsb8oA) | 3:06 |
 | 65 | [Manuel Santillán, el León \(Versión Reggae\) \- Remasterizado 2008](https://open.spotify.com/track/2p44QtrD16WSiIZxbDOtxg) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Vasos Vacíos](https://open.spotify.com/album/54A9Agody2BGDXtTGMdFn4) | 3:59 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 | 73 | [1\-2 Ultraviolento](https://open.spotify.com/track/3ZFfwUQxXspg5hhJXyFR8J) | [Los Violadores](https://open.spotify.com/artist/4EkrhlCS2DbFxvC3Uhq6p2) | [Lo Mejor De Los Violadores](https://open.spotify.com/album/5mabtHYSp09PBdcIvTut7i) | 4:18 |
 | 74 | [Un Poco Loco](https://open.spotify.com/track/48NK3TYEBDBCEwoDPIcC5p) | [Sergio Denis](https://open.spotify.com/artist/6J19N5JZkGRjuONpiizCIe) | [Un Poco Loco](https://open.spotify.com/album/4MgEbkH0Fxs1QZ6bWQswGc) | 4:16 |
 | 75 | [Besándote \- Remastered 2001](https://open.spotify.com/track/0hLkWUECYBHJrzWzdwBiFN) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Los Reyes de la Canción](https://open.spotify.com/album/1ttVc5nDYMHWcLq2u0bKNj) | 4:22 |
-| 76 | [Pensé Que Se Trataba De Cieguitos](https://open.spotify.com/track/4vTjD2aIaRySj7tVo70w4D) | [Los Twist](https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn) | [La Dicha En Movimiento](https://open.spotify.com/album/0JHPihaWP6y9O28ILSY8Jo) | 2:20 |
-| 77 | [Mi Resistencia](https://open.spotify.com/track/0txbNwVOPJcpGupF4TNDLl) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Big Yuyo](https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi) | 3:29 |
+| 76 | [Mi Resistencia](https://open.spotify.com/track/0txbNwVOPJcpGupF4TNDLl) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Big Yuyo](https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi) | 3:29 |
+| 77 | [Pensé Que Se Trataba De Cieguitos](https://open.spotify.com/track/4vTjD2aIaRySj7tVo70w4D) | [Los Twist](https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn) | [La Dicha En Movimiento](https://open.spotify.com/album/0JHPihaWP6y9O28ILSY8Jo) | 2:20 |
 | 78 | [Estamos Juntos](https://open.spotify.com/track/4cqTzKCPsDSWnfL1NqABVu) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Diego Torres](https://open.spotify.com/album/1iORUN5udfrSa98iKDzgqR) | 3:42 |
 | 79 | [Nunca Supe Más de Ti](https://open.spotify.com/track/3o9TaOJ5iFjHalmNEgENwj) | [Sergio Denis](https://open.spotify.com/artist/6J19N5JZkGRjuONpiizCIe) | [Nunca Supe Más De Ti](https://open.spotify.com/album/2jqxJKn4vvVDcOkdjt1OYg) | 4:01 |
 | 80 | [Corazón \- Remastered 2001](https://open.spotify.com/track/6SyQSl0pIpARrRDSvet4sN) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Los Reyes de la Canción](https://open.spotify.com/album/1ttVc5nDYMHWcLq2u0bKNj) | 4:44 |

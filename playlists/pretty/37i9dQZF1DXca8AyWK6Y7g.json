@@ -1,13 +1,29 @@
 {
-  "description": "on repeat for a reason. cover: Tiffany Stringer",
-  "num_followers": 1556210,
+  "description": "on repeat for a reason. cover: Claire Rosinkranz",
+  "num_followers": 1556098,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANxvmDvmVXBtz639H6FOAjWW85nL",
+  "snapshot_id": "AAAAACDsqA/vOF9DJS/F6NCCNSQzb5xI",
   "tracks": [
+    {
+      "added_at": "2026-02-13 05:00:46",
+      "album": {
+        "name": "My Lover",
+        "url": "https://open.spotify.com/album/2huUEfqWfvuCa2MZKuCBO9"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 196451,
+      "name": "City",
+      "url": "https://open.spotify.com/track/1nSEAxK0L8z5pJiCnhMMqX"
+    },
     {
       "added_at": "2026-02-13 05:00:46",
       "album": {
@@ -23,6 +39,54 @@
       "duration_ms": 167884,
       "name": "Bullet",
       "url": "https://open.spotify.com/track/32WSeX1RjPKtl0Z70ijA3o"
+    },
+    {
+      "added_at": "2026-02-27 05:00:35",
+      "album": {
+        "name": "Losing Streak",
+        "url": "https://open.spotify.com/album/53R2ayL23t6b6oPJWFyGnV"
+      },
+      "artists": [
+        {
+          "name": "Avery Cochrane",
+          "url": "https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR"
+        }
+      ],
+      "duration_ms": 218140,
+      "name": "Losing Streak",
+      "url": "https://open.spotify.com/track/3OTN972oOsFGjHvjRbdSnU"
+    },
+    {
+      "added_at": "2025-09-19 04:00:31",
+      "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 182576,
+      "name": "Nobody\u2019s Son",
+      "url": "https://open.spotify.com/track/4SRShYMtFIGgnOU7iBicMH"
+    },
+    {
+      "added_at": "2026-02-27 05:00:35",
+      "album": {
+        "name": "YDH",
+        "url": "https://open.spotify.com/album/3zPoIGOVUpW7dWlHWI3YTw"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 197043,
+      "name": "YDH",
+      "url": "https://open.spotify.com/track/1binvmf6h0SUuvcWkQDYsr"
     },
     {
       "added_at": "2026-02-06 05:00:47",
@@ -57,6 +121,38 @@
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
     },
     {
+      "added_at": "2026-02-27 05:00:35",
+      "album": {
+        "name": "the punisher",
+        "url": "https://open.spotify.com/album/4lBwSddoFh5fy1T7uUCE5L"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 189107,
+      "name": "the punisher",
+      "url": "https://open.spotify.com/track/4YOpINlEvanckbfIAwsdkx"
+    },
+    {
+      "added_at": "2026-02-27 05:00:35",
+      "album": {
+        "name": "picky choosy",
+        "url": "https://open.spotify.com/album/6TD2tnPDc1FltOgEHw0Hpe"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Jordan",
+          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
+        }
+      ],
+      "duration_ms": 173988,
+      "name": "picky choosy",
+      "url": "https://open.spotify.com/track/3AcYk3jezQA6jc6A64mKw2"
+    },
+    {
       "added_at": "2025-06-20 04:00:44",
       "album": {
         "name": "Rein Me In (with Olivia Dean)",
@@ -77,6 +173,22 @@
       "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"
     },
     {
+      "added_at": "2026-02-27 05:00:35",
+      "album": {
+        "name": "The Kill (From the Original Motion Picture \"Scream 7\")",
+        "url": "https://open.spotify.com/album/4jYpqLjsWQdhsCcs1hXyHe"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 149137,
+      "name": "The Kill (From the Original Motion Picture \"Scream 7\")",
+      "url": "https://open.spotify.com/track/29rXj5xHh7tGAA8H5Zqrxy"
+    },
+    {
       "added_at": "2026-02-20 05:20:43",
       "album": {
         "name": "Cherry Red Balloon",
@@ -91,38 +203,6 @@
       "duration_ms": 157567,
       "name": "Cherry Red Balloon",
       "url": "https://open.spotify.com/track/1fvDKiM3cQ0L4fYBbqfB0q"
-    },
-    {
-      "added_at": "2025-09-19 04:00:31",
-      "album": {
-        "name": "Man\u2019s Best Friend",
-        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 182576,
-      "name": "Nobody\u2019s Son",
-      "url": "https://open.spotify.com/track/4SRShYMtFIGgnOU7iBicMH"
-    },
-    {
-      "added_at": "2026-02-13 05:00:46",
-      "album": {
-        "name": "My Lover",
-        "url": "https://open.spotify.com/album/2huUEfqWfvuCa2MZKuCBO9"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 196451,
-      "name": "City",
-      "url": "https://open.spotify.com/track/1nSEAxK0L8z5pJiCnhMMqX"
     },
     {
       "added_at": "2026-02-20 05:20:43",
@@ -333,6 +413,22 @@
       "url": "https://open.spotify.com/track/3pVLl6PaU1IVVGt4aqFxg7"
     },
     {
+      "added_at": "2025-08-15 04:00:30",
+      "album": {
+        "name": "Dancer",
+        "url": "https://open.spotify.com/album/21WB3xmAukyafQysJdV8C9"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 180117,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy"
+    },
+    {
       "added_at": "2026-02-16 22:37:20",
       "album": {
         "name": "stardust",
@@ -379,22 +475,6 @@
       "duration_ms": 263228,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/5916POJDlPQRBbe1SJc7uK"
-    },
-    {
-      "added_at": "2026-01-02 05:00:14",
-      "album": {
-        "name": "Thinking \u2018bout You",
-        "url": "https://open.spotify.com/album/6M93s0aYAG9BFmKx5C1m12"
-      },
-      "artists": [
-        {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
-        }
-      ],
-      "duration_ms": 140586,
-      "name": "Thinking \u2018bout You",
-      "url": "https://open.spotify.com/track/2RcoaVM1NDa0ZLwxQzMTl3"
     },
     {
       "added_at": "2026-02-06 05:00:47",
@@ -731,22 +811,6 @@
       "duration_ms": 205728,
       "name": "Shapeshifting on a Saturday Night",
       "url": "https://open.spotify.com/track/5ohPveFr3t93leJhCiWAqt"
-    },
-    {
-      "added_at": "2026-01-30 05:00:51",
-      "album": {
-        "name": "Slow Dancin'",
-        "url": "https://open.spotify.com/album/53sKCJTcX1AnTBqU9XUCD8"
-      },
-      "artists": [
-        {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
-        }
-      ],
-      "duration_ms": 124001,
-      "name": "Slow Dancin'",
-      "url": "https://open.spotify.com/track/647YdG7a4EkucGiyDkfBRY"
     },
     {
       "added_at": "2026-01-16 05:00:42",
@@ -1117,22 +1181,6 @@
       "url": "https://open.spotify.com/track/32zC4WPTjQdzXbQGvSk6rB"
     },
     {
-      "added_at": "2025-08-15 04:00:30",
-      "album": {
-        "name": "Dancer",
-        "url": "https://open.spotify.com/album/21WB3xmAukyafQysJdV8C9"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 180117,
-      "name": "Dancer",
-      "url": "https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy"
-    },
-    {
       "added_at": "2025-09-12 04:00:25",
       "album": {
         "name": "Vodka Cranberry",
@@ -1437,22 +1485,6 @@
       "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
     },
     {
-      "added_at": "2025-11-21 05:00:30",
-      "album": {
-        "name": "In Twos",
-        "url": "https://open.spotify.com/album/69T3NDWI9uysXn3tsMfPLW"
-      },
-      "artists": [
-        {
-          "name": "Esha Tewari",
-          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
-        }
-      ],
-      "duration_ms": 166897,
-      "name": "In Twos",
-      "url": "https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap"
-    },
-    {
       "added_at": "2025-11-14 14:21:39",
       "album": {
         "name": "WHEN A GIRL CRIES",
@@ -1501,22 +1533,6 @@
       "url": "https://open.spotify.com/track/5xSSkE1fplMv910qZ2784e"
     },
     {
-      "added_at": "2025-06-27 04:00:43",
-      "album": {
-        "name": "Lover Girl",
-        "url": "https://open.spotify.com/album/6T8zX0grqcmevcN7SWo1Zg"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Lover Girl",
-      "url": "https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN"
-    },
-    {
       "added_at": "2025-11-07 05:00:58",
       "album": {
         "name": "Red Lights",
@@ -1547,22 +1563,6 @@
       "duration_ms": 125786,
       "name": "mood swings",
       "url": "https://open.spotify.com/track/2wVmMB3NBNbOuPIJfe5KK0"
-    },
-    {
-      "added_at": "2025-09-19 04:00:31",
-      "album": {
-        "name": "halfwaythru",
-        "url": "https://open.spotify.com/album/26qByOEvSOrNK0MNUw68MS"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Jordan",
-          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
-        }
-      ],
-      "duration_ms": 193627,
-      "name": "halfwaythru",
-      "url": "https://open.spotify.com/track/6EpqDPPT3GAdHmeFcFlRGw"
     },
     {
       "added_at": "2025-08-29 04:01:51",

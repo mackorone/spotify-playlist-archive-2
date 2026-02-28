@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: Marlon Hoffstadt, Dimitri Vegas & Like Mike
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,826,673 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,826,750 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

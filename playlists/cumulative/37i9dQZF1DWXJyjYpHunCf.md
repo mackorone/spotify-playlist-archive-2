@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Noah Kahan
 
-567 songs - 1 day 8 hr 9 min
+568 songs - 1 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Devastating](https://open.spotify.com/track/6ZCrjDxawDuN5CA2Wv5lQw) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Devastating](https://open.spotify.com/album/0Um7o0i84H6WIdYJPbMSAQ) | 4:23 | 2021-11-12 | 2022-07-29 |
 | [Dial Drunk](https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:33 | 2023-06-16 | 2023-07-29 |
 | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/album/4XahqkOmEsKLKEhBpX8DAe) | 3:33 | 2023-07-21 | 2025-04-12 |
-| [Diamonds & Roses](https://open.spotify.com/track/5dQ1oSOiGzfPPbPpzWTT7Y) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Diamonds & Roses](https://open.spotify.com/album/6zWSQlnZvg7Tr8Koz3BMI6) | 2:45 | 2025-05-23 |  |
+| [Diamonds & Roses](https://open.spotify.com/track/5dQ1oSOiGzfPPbPpzWTT7Y) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Diamonds & Roses](https://open.spotify.com/album/6zWSQlnZvg7Tr8Koz3BMI6) | 2:45 | 2025-05-23 | 2026-02-28 |
 | [Diamonds in the Rough](https://open.spotify.com/track/3gqiWsG6pJ2aJyoMFfezdS) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [Diamonds in the Rough](https://open.spotify.com/album/2UwCSnuXRZbgzs33ivy18L) | 3:36 | 2021-11-12 | 2022-06-06 |
 | [Dinner](https://open.spotify.com/track/0fD2C4iOpAJet8DBaImPJy) | [Adam Klobi](https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI) | [Dinner](https://open.spotify.com/album/4OWtgRW16OHXE98shkJjZA) | 3:48 | 2025-03-21 |  |
 | [Do Right](https://open.spotify.com/track/1Ab2FPSnr5C7PkndTMHdP6) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Do Right](https://open.spotify.com/album/3SwuKpDI0Xolzm5exsHkeP) | 3:33 | 2022-03-12 | 2023-06-17 |
@@ -468,6 +468,7 @@
 | [Ten Steps Back](https://open.spotify.com/track/2lBi4wDhV3TQZOWIcHfq62) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/5GKghelnfdwT1Xnzc4RF2O) | 3:27 | 2021-11-12 | 2022-07-29 |
 | [Tender feat\. Yoke Lore](https://open.spotify.com/track/0rwqECjqFgtzKksm85Hfwv) | [Jax Anderson](https://open.spotify.com/artist/4Gh0D04oCEVbnsx63LXUmT), [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Tender feat\. Yoke Lore](https://open.spotify.com/album/0YEXWeaZ335jOntWXoFbia) | 3:05 | 2021-11-12 | 2022-07-29 |
 | [The Bird Song \(with Em Beihold\)](https://open.spotify.com/track/3IC7SjOoA1gt0xzUZBMww8) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [The Bird Song \(with Em Beihold\)](https://open.spotify.com/album/16aOYP4x2wHzjOZBUSvvg5) | 3:53 | 2024-12-13 |  |
+| [The Blade](https://open.spotify.com/track/4xlkVxykYvk6i7Co32lMDS) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [The Blade](https://open.spotify.com/album/0f9qhfxa46I2abFLjsEjqc) | 3:15 | 2026-02-27 |  |
 | [The Future of an End](https://open.spotify.com/track/3aGkfDKhQBWj5KYJraBI8c) | [Woodlock](https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa) | [The Future of an End](https://open.spotify.com/album/3VClaRmW4RzpKst551M1Bk) | 4:10 | 2021-11-12 | 2022-07-29 |
 | [The Ghost In Your Smile](https://open.spotify.com/track/3HYG7nGHhpcMJjMF9W8AAe) | [Jarle Skavhellen](https://open.spotify.com/artist/7Jrf6fSkTNnii81KgsH7Td) | [The Ghost In Your Smile // Seventeen](https://open.spotify.com/album/17hQBX397LLMjSIi4qzQ0T) | 3:47 | 2022-03-12 | 2022-04-25 |
 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 | 2025-03-14 |  |

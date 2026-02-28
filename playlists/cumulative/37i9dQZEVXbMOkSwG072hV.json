@@ -3827,6 +3827,24 @@
     },
     {
       "album": {
+        "name": "Nos Bra\u00e7os do Povo, Vol 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2I280ygrO9gnZGWl2H3lDB"
+      },
+      "artists": [
+        {
+          "name": "Xande de Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209908,
+      "name": "Ainda Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/0GBsYdxpAPsOd6H8QzGCCU"
+    },
+    {
+      "album": {
         "name": "AKUMA NO MI",
         "url": "https://open.spotify.com/album/4MHdX238Fh2oNuzRVywRJn"
       },
@@ -10440,7 +10458,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 377880,
       "name": "Bemb\u00e9",
       "url": "https://open.spotify.com/track/16IFkQOhjD4OTvkaOOtBqd"
@@ -18424,7 +18442,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 319575,
       "name": "Cora\u00e7\u00e3o Novo",
       "url": "https://open.spotify.com/track/3p9pRtdQOYS0WswINSwF9q"
@@ -24938,7 +24956,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 156708,
       "name": "Ela k\u00e9 Leitada",
       "url": "https://open.spotify.com/track/161dJFOgyuYcgKg0AzYuAh"

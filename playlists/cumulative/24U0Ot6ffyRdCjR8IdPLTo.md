@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/24U0Ot6ffyRdCjR8IdPLTo.md) - cumulative - [plain](/playlists/plain/24U0Ot6ffyRdCjR8IdPLTo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/24U0Ot6ffyRdCjR8IdPLTo)
 
-### [Pop Focus \| Pop Music for Studying, Stress, and Anxiety](https://open.spotify.com/playlist/24U0Ot6ffyRdCjR8IdPLTo)
+### [Pop Focus \| Pop Music for ADHD, Studying, Stress, and Anxiety](https://open.spotify.com/playlist/24U0Ot6ffyRdCjR8IdPLTo)
 
 > Get in the zone with this fresh mix of chill music to study to \| anti anxiety and stress music
 
-392 songs - 21 hr 31 min
+395 songs - 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/track/0HEzuLLojblUOaUSdmJ9gl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:45 | 2023-08-28 | 2024-12-14 |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2023-08-15 | 2024-10-19 |
 | [Different](https://open.spotify.com/track/0vJBL4Dx9aVFsHSqdApU3H) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Different](https://open.spotify.com/album/1ual1IVLCoseGtHPoTpE5D) | 3:13 | 2023-08-15 | 2023-08-29 |
+| [DISNEY PRINCESS](https://open.spotify.com/track/1DH4XuBpL3HreZ7TmawEjR) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [DISNEY PRINCESS](https://open.spotify.com/album/65M9cSEwKpKqkZRiMCrX2H) | 4:05 | 2026-02-27 |  |
 | [Diss and Disappoint](https://open.spotify.com/track/1RXFZcTmIoG3BpYobw0eyu) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i) | [Diss and Disappoint](https://open.spotify.com/album/7oaEeaY8WIXyHbV72oLHfk) | 2:57 | 2023-08-15 | 2023-08-29 |
 | [Dive](https://open.spotify.com/track/5WMA8AmXGff8wo450I3Ecn) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Dive](https://open.spotify.com/album/1bSqgLKbe0KMX9RcjYvtkX) | 3:59 | 2024-03-22 | 2024-04-27 |
 | [Dive](https://open.spotify.com/track/7te6nkHtZX3Bucz0NY3Doq) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [work in progress](https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5) | 3:59 | 2024-04-26 | 2025-02-18 |
@@ -259,6 +260,7 @@
 | [PASSENGER PRINCESS](https://open.spotify.com/track/3Md1Rphgz24viHtEVSWWi9) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [PASSENGER PRINCESS](https://open.spotify.com/album/2r00aQwsYDAVak9PWghWnU) | 2:35 | 2024-07-26 | 2024-08-03 |
 | [petals](https://open.spotify.com/track/6OVgl2xsJnvW8asP4EWBL7) | [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR), [Trash Pals](https://open.spotify.com/artist/7bgOuNVmarFOYFfb7LPUxj) | [petals](https://open.spotify.com/album/3EPoC6DmwF4J8Hyk1uHVLL) | 3:24 | 2025-02-14 |  |
 | [Phoebe Told Me](https://open.spotify.com/track/6DQFgZEqTX5suz4luBta0M) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [You Never Met Me](https://open.spotify.com/album/4rVsCVbWLQWEUXsOfPRzEg) | 3:56 | 2023-08-28 | 2024-06-15 |
+| [Pictures](https://open.spotify.com/track/1JsNiBwzxX6Zad6W5GP88l) | [Gnarls Barkley](https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Pictures](https://open.spotify.com/album/7eg0DlP83tIeeF2VAjwthu) | 3:56 | 2026-02-27 |  |
 | [Pillow In My Arms](https://open.spotify.com/track/63PcfAO5WaHp89H0CVKBVT) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [ver2igo vol\. 2](https://open.spotify.com/album/1pKYkFrxb7RiJuCfSszdav) | 3:16 | 2024-04-26 | 2025-01-12 |
 | [PINKBERRY](https://open.spotify.com/track/3FBY4I6p04bFbwIWMBRBhQ) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [PINKBERRY](https://open.spotify.com/album/1NKeuqtTb9pjmSIWNTnUKB) | 2:48 | 2024-06-07 | 2024-06-15 |
 | [PITY PARTY](https://open.spotify.com/track/7FKr8rULW20OQspz0JzGNx) | [VICTORIA](https://open.spotify.com/artist/21rgoGGMOSvl9RD6zeuOnq) | [PITY PARTY](https://open.spotify.com/album/5q9KECUxTbDmQAvyvlAa9f) | 3:25 | 2025-01-31 |  |
@@ -315,6 +317,7 @@
 | [Spin Me Around](https://open.spotify.com/track/3WOZcIibmurJult4Z7Wfce) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 2:26 | 2023-08-28 | 2024-12-14 |
 | [Spinnin](https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Spinnin](https://open.spotify.com/album/1H231df9UtLpu609triLDa) | 2:46 | 2023-08-28 | 2023-10-07 |
 | [Stains](https://open.spotify.com/track/7yCZNi9rvhRUkuvN7kqYsr) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Stains](https://open.spotify.com/album/5NXk9SSME4rxNK809ODU1e) | 2:53 | 2023-08-28 | 2024-06-15 |
+| [Stand On This Hill](https://open.spotify.com/track/6f4M6XJjeoH922nRWWIbjp) | [rory o'neill](https://open.spotify.com/artist/26UCr0DSJQmIVTnNB5gwvw) | [Stand On This Hill](https://open.spotify.com/album/3nZnDqWsgvKZri4WovLdrq) | 3:09 | 2026-02-27 |  |
 | [stardust](https://open.spotify.com/track/5eBhZmoWwGhAPj80u4HWLB) | [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [stardust](https://open.spotify.com/album/3hRgPtGcjUUPmlWtH5cSHT) | 3:50 | 2025-02-17 |  |
 | [Stateside](https://open.spotify.com/track/7Fr2Q6q3rAxFUcMkuvVrXO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Stateside](https://open.spotify.com/album/5YDrgVxfvOkmp1OYjXB29z) | 2:48 | 2025-04-25 | 2025-09-27 |
 | [Stay](https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Stay](https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq) | 3:38 | 2023-09-22 | 2024-12-14 |

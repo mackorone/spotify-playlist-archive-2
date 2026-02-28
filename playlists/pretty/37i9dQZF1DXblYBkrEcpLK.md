@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Ado
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,164 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,204 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 40 | [BABY](https://open.spotify.com/track/7j0fGg4xd1Lo1zPcUDV1T6) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [BABY](https://open.spotify.com/album/2dp6XnYilNlELoSnGzSIdG) | 3:50 |
 | 41 | [LとR](https://open.spotify.com/track/5MCaQgkjsaR8djogfrqI3z) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [LとR](https://open.spotify.com/album/4g5hgAFN90DBWd6OqVjJJJ) | 3:16 |
 | 42 | [LET'S JUST CRASH](https://open.spotify.com/track/759ghsR0JU5ykaiCDbB6li) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [LET'S JUST CRASH](https://open.spotify.com/album/0WWJ7uJzQaaPjFaDXBKKUD) | 3:15 |
-| 43 | [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 |
+| 43 | [星降る海](https://open.spotify.com/track/4sEn07Jaha1koyaFzplJB0) | [Aqu3ra](https://open.spotify.com/artist/1FE8CKbcNBC5a9NsvJ4Nif), [月見ヤチヨ\(cv.早見沙織\)](https://open.spotify.com/artist/1QKkhBYoDQdMEaJNp2YuVD) | [超かぐや姫！](https://open.spotify.com/album/4jjF5DPbuso1zCAw7rzyZR) | 4:13 |
 | 44 | [カントリー・ロード](https://open.spotify.com/track/6M1EKXEkTd6LqJCAoJnrP5) | [のん×SOIL&”PIMP”SESSIONS](https://open.spotify.com/artist/144DKrBPPXLhf7o5WO5Nqx), [NON](https://open.spotify.com/artist/4YRx01IyUq6BreGGtNHQQk), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [スタジオジブリトリビュートアルバム「ジブリをうたう その2」](https://open.spotify.com/album/4aSh6EozLaP8nPrgvSpazt) | 3:31 |
-| 45 | [星降る海](https://open.spotify.com/track/4sEn07Jaha1koyaFzplJB0) | [Aqu3ra](https://open.spotify.com/artist/1FE8CKbcNBC5a9NsvJ4Nif), [月見ヤチヨ\(cv.早見沙織\)](https://open.spotify.com/artist/1QKkhBYoDQdMEaJNp2YuVD) | [超かぐや姫！](https://open.spotify.com/album/4jjF5DPbuso1zCAw7rzyZR) | 4:13 |
+| 45 | [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 |
 | 46 | [ひこうき雲](https://open.spotify.com/track/5sAOPscxlf4ak8WTV1m7SO) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [スタジオジブリトリビュートアルバム「ジブリをうたう その2」](https://open.spotify.com/album/4aSh6EozLaP8nPrgvSpazt) | 4:14 |
 | 47 | [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 |
 | 48 | [へび](https://open.spotify.com/track/7pk2Mx1LnlaEpxfzNhgRuz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [へび](https://open.spotify.com/album/2G3fFSzVxuYaLpK35fXkPB) | 4:15 |
-| 49 | [もうどうなってもいいや](https://open.spotify.com/track/17oTdCFRG5Vp4381jehV3U) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [もうどうなってもいいや](https://open.spotify.com/album/6XMeBVW9xA5buvS6EAVbGG) | 3:23 |
+| 49 | [Reply](https://open.spotify.com/track/6ipTwgVCvUX6SgEuBtPoJ4) | [kz](https://open.spotify.com/artist/4YpCJjlm4apQ7kbQbP2iT4), [かぐや\(cv.夏吉ゆうこ\)](https://open.spotify.com/artist/2pxkowIU5N8WKEPOYLdres) | [超かぐや姫！](https://open.spotify.com/album/4jjF5DPbuso1zCAw7rzyZR) | 4:29 |
 | 50 | [ほっぺちゃん音頭](https://open.spotify.com/track/2bY3x5lBt3cqxpJu6LWOPY) | [天童よしみ with ガーディアンズほっぺちゃん](https://open.spotify.com/artist/12uCuxw2uM3jXup3uwa7hs) | [ほっぺちゃん音頭](https://open.spotify.com/album/5MM7qYWMHF8sNPtkHLTj3c) | 2:27 |
 
 Snapshot ID: `AAAAAJlo/n9YA80PzrfDlu8UCeT0qdnp`

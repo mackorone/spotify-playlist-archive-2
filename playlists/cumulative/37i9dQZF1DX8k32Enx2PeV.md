@@ -4,7 +4,7 @@
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-162 songs - 9 hr 17 min
+163 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Dale Melón](https://open.spotify.com/track/6N5InQVKjsRlof8moRIv5I) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Dale Melón](https://open.spotify.com/album/4JaUBwYHmzxxqTiC7WOFJg) | 4:20 | 2023-09-22 | 2024-03-11 |
 | [Dame Un Break](https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Dame Un Break](https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq) | 3:20 | 2023-04-28 |  |
 | [Decir Adiós](https://open.spotify.com/track/3HtgDkkz75AuFIPA8Pfw6X) | [10 QUI](https://open.spotify.com/artist/7IdLxoTRYCmshnnFh8V6Fq), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU) | [Decir Adiós](https://open.spotify.com/album/2B8V0BWHYqDKaBgzfoGc4v) | 3:00 | 2026-02-20 |  |
+| [El AchanTAdo](https://open.spotify.com/track/3fr52NaaVxb2UxPNxDtaQx) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [El AchanTAdo](https://open.spotify.com/album/1T8WIYEepKDl4j27kdZIox) | 3:45 | 2026-02-27 |  |
 | [El Boton del Pantalon](https://open.spotify.com/track/5buBommaU2Fky8bZGd6aLW) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [La Revancha del Burro](https://open.spotify.com/album/6wcGpbAMUEAMiqNuVS8nbt) | 5:11 | 2023-04-28 |  |
 | [EMDDMV](https://open.spotify.com/track/7iR2INATAqjNsevyTqojre) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [EMDDMV](https://open.spotify.com/album/6ziWmkk7khSe5U5QstUNtV) | 2:52 | 2024-06-28 |  |
 | [Emocional](https://open.spotify.com/track/2mob68KQblU3mK2hIdF9R1) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Emocional](https://open.spotify.com/album/14rF7fiIcUBsg17Arf3VJM) | 3:09 | 2023-04-28 |  |
@@ -148,7 +149,7 @@
 | [Se Acabó](https://open.spotify.com/track/5VCpCHyZO5LzLGgN4399D4) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Aire](https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T) | 3:41 | 2023-04-28 |  |
 | [Se Vienen Cositas](https://open.spotify.com/track/7ulDhf05iMrq4IFWNbTrbI) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [¿Dónde Es El After?](https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG) | 2:39 | 2026-02-20 |  |
 | [SINCERAMENTE](https://open.spotify.com/track/7xqF5MczPpjW4NLXF2CL88) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [LOS MUCHACHOS](https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa) | 3:19 | 2024-04-19 | 2024-06-29 |
-| [Soy la Fuerza](https://open.spotify.com/track/1Tt53jSkqWtGzmn0qJBwjf) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Camino al Mar](https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G) | 3:35 | 2023-04-28 |  |
+| [Soy la Fuerza](https://open.spotify.com/track/1Tt53jSkqWtGzmn0qJBwjf) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Camino al Mar](https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G) | 3:35 | 2023-04-28 | 2026-02-28 |
 | [Soy la Fuerza](https://open.spotify.com/track/1dLUGmTp8Fy9Sl0p2Tn7T1) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Camino al Mar](https://open.spotify.com/album/20jmEAKKemowX8dH6dRNXt) | 3:35 | 2023-09-22 | 2024-04-19 |
 | [Sun a Shine](https://open.spotify.com/track/5pj9GnIvHNfoTevSH8z8Uv) | [Elkin Robinson](https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO) | [Sun a Shine](https://open.spotify.com/album/1ZAfskHXkdsJUDS2qYG0X3) | 2:52 | 2023-04-28 |  |
 | [Sí](https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Sí](https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ) | 2:38 | 2023-04-28 |  |

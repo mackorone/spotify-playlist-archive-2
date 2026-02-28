@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "A NASCENTE",
+        "url": "https://open.spotify.com/album/72ux7Fr72430bcA4Dnw5L2"
+      },
+      "artists": [
+        {
+          "name": "RANCORE",
+          "url": "https://open.spotify.com/artist/3KR4M3bAqWbADfTTDdfMDM"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192554,
+      "name": "A NASCENTE",
+      "url": "https://open.spotify.com/track/6bcFUcHsSV1N5ZNdY5y2HL"
+    },
+    {
+      "album": {
         "name": "Esperan\u00e7a",
         "url": "https://open.spotify.com/album/2VfqxUIeu7mW0Jhz9Xv3Ta"
       },
@@ -680,7 +698,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 187070,
       "name": "Al\u00e9m do Fim",
       "url": "https://open.spotify.com/track/01evrFRhlNqylGfEDYVtBY"
@@ -854,7 +872,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 222751,
       "name": "Antes Que Tudo Vire P\u00f3",
       "url": "https://open.spotify.com/track/2I3AxhQbngI3P5icFaQmPJ"
@@ -2365,6 +2383,28 @@
     },
     {
       "album": {
+        "name": "c\u00e2mera lenta",
+        "url": "https://open.spotify.com/album/12jM9nF18d0QNYq4oPGcSU"
+      },
+      "artists": [
+        {
+          "name": "Tupi",
+          "url": "https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf"
+        },
+        {
+          "name": "Tupi & Os Crocodilos de Marte",
+          "url": "https://open.spotify.com/artist/7FjKCOgWeJVYiCnDJAkYet"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187714,
+      "name": "c\u00e2mera lenta",
+      "url": "https://open.spotify.com/track/7J2k4Z4orcvvABFHncb5p6"
+    },
+    {
+      "album": {
         "name": "C\u00c9UMIT\u00c9RIO",
         "url": "https://open.spotify.com/album/5R9UWzUQZFgjbDELvZTVSI"
       },
@@ -2608,7 +2648,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 188670,
       "name": "Depress\u00e3o",
       "url": "https://open.spotify.com/track/6AaKac4QzY8yUrhTnwRuhU"
@@ -2684,7 +2724,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 142968,
       "name": "Desejo",
       "url": "https://open.spotify.com/track/5IjSQc14BR9KzxweO7O35a"
@@ -2702,7 +2742,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 198703,
       "name": "Desencanto",
       "url": "https://open.spotify.com/track/6p8QyFpYK21dEKbyE0OOmk"
@@ -3236,6 +3276,24 @@
       "duration_ms": 165280,
       "name": "Ent\u00e3o Falou",
       "url": "https://open.spotify.com/track/7pSShzMg7PqEmRHbuQe63j"
+    },
+    {
+      "album": {
+        "name": "Ep\u00edlogo",
+        "url": "https://open.spotify.com/album/2XUjEwa7MVRKyMVh4DLx7z"
+      },
+      "artists": [
+        {
+          "name": "Raphael Ota",
+          "url": "https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152886,
+      "name": "Ep\u00edlogo",
+      "url": "https://open.spotify.com/track/36kAc7GnlSDxDcXEQYpdQo"
     },
     {
       "album": {
@@ -4508,7 +4566,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 190958,
       "name": "Hist\u00f3ria de Ver\u00e3o",
       "url": "https://open.spotify.com/track/0ee4gpvvh89pA1MlYZ7nmt"
@@ -7388,7 +7446,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 191464,
       "name": "Obscurantista",
       "url": "https://open.spotify.com/track/7MJhOpPufCPkNJh1utzZXU"
@@ -7490,7 +7548,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 146415,
       "name": "Orbitando - Faixa B\u00f4nus",
       "url": "https://open.spotify.com/track/6TVxV0IUc6ua13Dt0rPJ6p"
@@ -8352,7 +8410,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 143366,
       "name": "PRECISO DELA",
       "url": "https://open.spotify.com/track/61xqF9J7cidCByb0Li6OZF"
@@ -11261,6 +11319,24 @@
     },
     {
       "album": {
+        "name": "Vol\u00fapia",
+        "url": "https://open.spotify.com/album/5GtuXWGeEZtUWXCG6YqfD4"
+      },
+      "artists": [
+        {
+          "name": "MOJOBOX",
+          "url": "https://open.spotify.com/artist/5EFqasyQPfZLSWwXzE9sAg"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165097,
+      "name": "Vol\u00fapia",
+      "url": "https://open.spotify.com/track/4IImC7EaEODHkGsfuhM78P"
+    },
+    {
+      "album": {
         "name": "EMO NAS BAHAMAS",
         "url": "https://open.spotify.com/album/4bxAIoM4FOEzDDROUyYEX7"
       },
@@ -11362,7 +11438,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 226960,
       "name": "\u00c9 uma m\u00e1 ideia neh?",
       "url": "https://open.spotify.com/track/0XNlHDD8snuOWEZ1rNPuET"

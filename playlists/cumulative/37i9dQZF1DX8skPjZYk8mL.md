@@ -4,7 +4,7 @@
 
 > Soft instrumental lullabies for the little ones.
 
-1,335 songs - 1 day 16 hr 24 min
+1,337 songs - 1 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Always By your Side](https://open.spotify.com/track/633Ncfz9y69Or7MGorp4KT) | [Eijah Nilson](https://open.spotify.com/artist/4ve0embkjqNplBGRueIkHs) | [Always By Your Side](https://open.spotify.com/album/3I3tkEV6bQHjeibbURN1IO) | 1:37 | 2023-08-10 | 2025-10-18 |
 | [Amazing Grace](https://open.spotify.com/track/3uiJV5WP1RlyMlJxG6OFwJ) | [Ned Regan](https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y) | [Amazing Grace](https://open.spotify.com/album/6KcYskZzpUOBxsvWw6BvXb) | 1:57 | 2023-01-27 | 2024-07-19 |
 | [An Angel Goes To Bed](https://open.spotify.com/track/1EOBqDXmXYQ1OK6Orubc9n) | [Clarabelle Marshall](https://open.spotify.com/artist/1AJtkn0K0xhNCYjOVqd9ho) | [An Angel Goes To Bed](https://open.spotify.com/album/0tr1zoOkTNWhw30jm2Nyhs) | 2:00 | 2021-11-08 | 2022-09-24 |
-| [Angel Eyes](https://open.spotify.com/track/1pYhOdETtHjHywmp2jNCaS) | [Goodnight sweetheart](https://open.spotify.com/artist/3hVfERu6fWfKySpoHenfnp) | [Angel Eyes](https://open.spotify.com/album/331hkGDQV35WdnLQCHvwnt) | 1:19 | 2024-03-01 |  |
+| [Angel Eyes](https://open.spotify.com/track/1pYhOdETtHjHywmp2jNCaS) | [Goodnight sweetheart](https://open.spotify.com/artist/3hVfERu6fWfKySpoHenfnp) | [Angel Eyes](https://open.spotify.com/album/331hkGDQV35WdnLQCHvwnt) | 1:19 | 2024-03-01 | 2026-02-28 |
 | [Angel Sleep](https://open.spotify.com/track/6GeggDH5YZ2t9xq57052Ic) | [Niels Olaf](https://open.spotify.com/artist/67wAX23O6iI5YrZKU1f6xq) | [Angel Sleep](https://open.spotify.com/album/35SovzjcvrTycpYzv9Vuh2) | 1:43 | 2023-05-12 | 2025-10-18 |
 | [Angels in the Park](https://open.spotify.com/track/53TQPuGIdL3uwJ2k4XyDsG) | [Angie Goodham](https://open.spotify.com/artist/2UXaJJ11L0oeW9uCxQYxGl) | [Angels in the Park \(Music Box\)](https://open.spotify.com/album/2FEX6LJ09PH0SimJzlxU7Y) | 1:51 | 2021-11-08 | 2022-10-29 |
 | [Angels Watching](https://open.spotify.com/track/645aw5RzvcmIXq9s4H3JpR) | [Allan London](https://open.spotify.com/artist/3hZZcCyB8FOIGhgz5KU2aQ) | [Angels Watching](https://open.spotify.com/album/0Q1B92Ey7yC9X4GAGvtVEb) | 1:20 | 2023-11-17 | 2025-04-05 |
@@ -139,7 +139,7 @@
 | [Bedtime For Julie](https://open.spotify.com/track/27zpkyjGp1pf4r1YOnYMzg) | [Steffi du Retz](https://open.spotify.com/artist/7COfBp7javjOBGr1ibVPA8) | [Bedtime For Julie](https://open.spotify.com/album/5YGorJhZdyzTKP1WoIpeXC) | 1:59 | 2022-09-02 | 2024-04-05 |
 | [Bedtime for Julie \- Guitar Version](https://open.spotify.com/track/26OXunNuaPYR2nW3GMeA9Z) | [Steffi du Retz](https://open.spotify.com/artist/7COfBp7javjOBGr1ibVPA8) | [Bedtime for Julie \(Guitar Version\)](https://open.spotify.com/album/0KT0iv8VpEY45gsBUii8zM) | 2:03 | 2022-11-11 | 2023-08-18 |
 | [Bedtime Glow](https://open.spotify.com/track/7e86LEv0OKzPT85JBFCaDp) | [Franciscus Love](https://open.spotify.com/artist/5rqMj8NroXxm0rH7yTo6TZ) | [Bedtime Glow](https://open.spotify.com/album/7JxZYJjFUSI4G7EZaXM0aL) | 1:34 | 2025-12-12 |  |
-| [Bedtime Lullaby](https://open.spotify.com/track/54XIAbUFoAnL4nUVXvJbV6) | [Sophie Amélie](https://open.spotify.com/artist/6Y0kBLpIF0wNkwrrVviWWF) | [Bedtime Lullaby](https://open.spotify.com/album/617OaeuhBsURhgZabEdgkY) | 2:27 | 2026-02-13 |  |
+| [Bedtime Lullaby](https://open.spotify.com/track/54XIAbUFoAnL4nUVXvJbV6) | [Sophie Amélie](https://open.spotify.com/artist/6Y0kBLpIF0wNkwrrVviWWF) | [Bedtime Lullaby](https://open.spotify.com/album/617OaeuhBsURhgZabEdgkY) | 2:27 | 2026-02-13 | 2026-02-28 |
 | [Bedtime Stories](https://open.spotify.com/track/5bepHaIOiNwvZMrbd9PoSq) | [Alva Klarström](https://open.spotify.com/artist/50id9oYraGr4qm3XfTKMfO) | [Bedtime Stories](https://open.spotify.com/album/0jJALitDC5dHQYpMPIpbXj) | 1:48 | 2021-11-08 | 2022-11-12 |
 | [Bedtime Waltz](https://open.spotify.com/track/4dsaZvjzwm2hG9zD13aMCX) | [Michelle Milton](https://open.spotify.com/artist/26z5Y624zKmNYwvMKTh7Op) | [Bells Vol\. 2](https://open.spotify.com/album/4DL6uFHFlAzCwJy5W3VjQ6) | 1:19 | 2022-07-29 | 2023-01-06 |
 | [Bedtime\-MusicBox](https://open.spotify.com/track/72NTpDLAgOgCKtZjm5sqWq) | [Mollis](https://open.spotify.com/artist/1QT9mxEShl9BmYBUhnr1DG) | [Bedtime\-MusicBox](https://open.spotify.com/album/1ksNBh0f2WMsY2b0kpXdLL) | 1:25 | 2023-05-12 | 2023-06-23 |
@@ -593,6 +593,7 @@
 | [Let's Count the Stars](https://open.spotify.com/track/7s9CZ7mFhH64seDrWTeUp3) | [Sophie Sara](https://open.spotify.com/artist/3CLgb4DSxdCYMbi2SKb17N) | [Let's Count the Stars](https://open.spotify.com/album/76YFaEATqkoHyOKuSCteC2) | 2:10 | 2021-11-08 | 2022-07-30 |
 | [Let's Go On A Treasure Hunt](https://open.spotify.com/track/6sWBGUMOeH7kJpC7Zo6h7p) | [Brook Wilkie](https://open.spotify.com/artist/06YJLPH6EiVH60sOmPBszs) | [Let's Go On A Treasure Hunt](https://open.spotify.com/album/022hQEvWHvxHXd5JWuWLpu) | 1:03 | 2021-11-08 | 2022-10-29 |
 | [Let's Play Football](https://open.spotify.com/track/2jV3cUmwBoPnwMicISuQGn) | [Madlyn Chadwick](https://open.spotify.com/artist/0iANAXIKzdC3b8UGpp9Pub) | [Let's Play Football](https://open.spotify.com/album/3CKcm5xrL4mH0DfRG3BLS9) | 1:08 | 2021-11-08 | 2022-10-29 |
+| [Leyre´s Song](https://open.spotify.com/track/2flPBsNXeqVveFNGQ30Pi2) | [Amaya Ailey](https://open.spotify.com/artist/3pjyHVhKVU2FW9R9bCGUVq) | [Leyre´s Song](https://open.spotify.com/album/536IWRYOgx620JrOyMZVjZ) | 1:44 | 2026-02-27 |  |
 | [Lightly Row](https://open.spotify.com/track/1sacy8TpS19p2dvQAQ4Rwk) | [Otis Meadow](https://open.spotify.com/artist/4vnYAza7qzjL5eUwP0yAN8) | [Lightly Row](https://open.spotify.com/album/3gxVaMfXE1w67zbrzueuzU) | 1:22 | 2023-12-08 | 2025-06-12 |
 | [Lights Down](https://open.spotify.com/track/6tet9ALh2ZiQrJilAJCjCz) | [Morris Melba](https://open.spotify.com/artist/2y5YMSg3DW8rwhDygVRwO0) | [Lights Down](https://open.spotify.com/album/2ltEGd5XzxNHCGYKcptlNl) | 1:54 | 2024-02-09 | 2026-01-31 |
 | [Lights Out](https://open.spotify.com/track/1TFzBNWPnHtHhDhdyNI1eT) | [Lovisa Vonn](https://open.spotify.com/artist/5r5YDW1RgQqg288qcjcNQx) | [Lights Out](https://open.spotify.com/album/7iSn3y0F5JUJG9jMBvAofQ) | 2:00 | 2021-11-08 | 2024-04-05 |
@@ -871,6 +872,7 @@
 | [Quand tu t'es endormi](https://open.spotify.com/track/2blrpbBhktqkDVvMRKZH5U) | [Gill Doucet](https://open.spotify.com/artist/2EKkIIIRpn8Jhr9BVXZOXl) | [Quand tu t'es endormi](https://open.spotify.com/album/4dKRtINwcsDqqa6O0Zojcr) | 1:38 | 2021-11-08 | 2022-07-30 |
 | [Que Linda Manita](https://open.spotify.com/track/3hkWnZsvoijkchr5KMxTXG) | [CIRQUS](https://open.spotify.com/artist/3mw587K0yMF8GAG1RgY3kA) | [Que Linda Manita](https://open.spotify.com/album/0d6Uw4qOFr4CXufEReGGwc) | 1:54 | 2022-09-23 | 2023-01-27 |
 | [Quiet Little Joys](https://open.spotify.com/track/1Fg4dzxyLZKMIeJKyIpV6T) | [Willow Fern](https://open.spotify.com/artist/3xEUt2CVoVYmfIfVElfWN2) | [Quiet Little Joys](https://open.spotify.com/album/49i7DbSZnAnvdAzgKycAmt) | 1:48 | 2026-02-20 |  |
+| [Quiet Love](https://open.spotify.com/track/5KsDvwjhVfW1SHh4jwxYrz) | [Lucas Lund](https://open.spotify.com/artist/1MgohlJcGnJQ8YHutASnnt) | [Quiet Love](https://open.spotify.com/album/5USSIjBHs0LS48wAFYJv4r) | 1:52 | 2026-02-27 |  |
 | [Quiet Night](https://open.spotify.com/track/5LYbJfH5SvlAxAgQKrv2wu) | [Zuriñe Ilaria](https://open.spotify.com/artist/3nuIaWShg2iLdwSq2cSqGx) | [Baby Lullabies](https://open.spotify.com/album/0h1oogrKRSjdKbigLoQFwj) | 1:52 | 2023-08-10 | 2025-04-05 |
 | [Quiet Raindrops](https://open.spotify.com/track/74jmhJrLxKmQPElZ5JuPAW) | [Sarah Schiller](https://open.spotify.com/artist/5Kk7ZNS9w8EaDLa7XUFH4v) | [Quiet Raindrops](https://open.spotify.com/album/6ubXUgE89yHymtc2eXC7kq) | 3:18 | 2021-11-08 | 2022-10-08 |
 | [Rabbit Bestie](https://open.spotify.com/track/7zdGiflXDbXR5qR1HWVnl3) | [Buster Dyson](https://open.spotify.com/artist/5yGyDhblsaGzCxMmExIXrq) | [Rabbit Bestie](https://open.spotify.com/album/3wQNV1Kzkftuyvg6NKf24x) | 1:15 | 2022-12-16 | 2024-09-07 |

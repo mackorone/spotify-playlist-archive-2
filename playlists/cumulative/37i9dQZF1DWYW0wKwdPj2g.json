@@ -2961,6 +2961,28 @@
     },
     {
       "album": {
+        "name": "Light Of The World (Live)",
+        "url": "https://open.spotify.com/album/6SzntBREccSSWqtX90xg8d"
+      },
+      "artists": [
+        {
+          "name": "Bimbo Idemeto",
+          "url": "https://open.spotify.com/artist/59sVYSKrS333w0LDE3tOnE"
+        },
+        {
+          "name": "Manus Akpanke",
+          "url": "https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 511000,
+      "name": "Light Of The World - Live",
+      "url": "https://open.spotify.com/track/3OHSXhBGjFzvvumpEvHLBf"
+    },
+    {
+      "album": {
         "name": "Light Of The World (Live In Chicago)",
         "url": "https://open.spotify.com/album/7CWVbayg8RTZg2LrtkUV01"
       },

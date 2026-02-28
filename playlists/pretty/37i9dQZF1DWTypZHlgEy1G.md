@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 
 > Le patrimoine de la chanson française\. Photo : Édith Piaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,922 likes - 85 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,925 likes - 85 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 26 | [Il est cinq heures, Paris s'éveille](https://open.spotify.com/track/1Gw2viJ4XE9hylW4ujtNef) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [En Vogue](https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm) | 2:53 |
 | 27 | [Nathalie](https://open.spotify.com/track/4xyCkwlgvdrULd6kzSIs0I) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [20 chansons d'or](https://open.spotify.com/album/0sLW7R4AIb8Zr0TX8Voe0b) | 4:07 |
 | 28 | [Armstrong](https://open.spotify.com/track/2tBJhIMLX1bDjlaE8sSb4Y) | [Claude Nougaro](https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR) | [Best Of](https://open.spotify.com/album/0ghJEu8n6iOLO5dzHxOBN5) | 3:19 |
-| 29 | [Sous le ciel de Paris](https://open.spotify.com/track/7A3JZum5yfNq9I3TtFVMMt) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [Yves Montand](https://open.spotify.com/album/41hNqtbMJTaTYCIq6W0571) | 2:56 |
-| 30 | [Qui saura](https://open.spotify.com/track/3A3LBrCEXGcyUPPBjuaNKl) | [Mike Brant](https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV) | [20 Chansons D'or](https://open.spotify.com/album/6noK3tB0B6nRxFc4tFcF8h) | 3:20 |
+| 29 | [Qui saura](https://open.spotify.com/track/3A3LBrCEXGcyUPPBjuaNKl) | [Mike Brant](https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV) | [20 Chansons D'or](https://open.spotify.com/album/6noK3tB0B6nRxFc4tFcF8h) | 3:20 |
+| 30 | [Sous le ciel de Paris](https://open.spotify.com/track/7A3JZum5yfNq9I3TtFVMMt) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [Yves Montand](https://open.spotify.com/album/41hNqtbMJTaTYCIq6W0571) | 2:56 |
 | 31 | [Les Aristochats](https://open.spotify.com/track/2SDU9Ls1XkvkbmlUgzyx2x) | [Maurice Chevalier](https://open.spotify.com/artist/3QXjI80udwDSEfxK5BjUXc) | [The Aristocats Original Soundtrack](https://open.spotify.com/album/4xP8YdX6dIi649dxAH2PXO) | 2:20 |
 | 32 | [La java bleue](https://open.spotify.com/track/1vveZRFXBiFrnO4wUpgArq) | [Fréhel](https://open.spotify.com/artist/0ike8zNDzesj4aOoyZMKho) | [Fréhel \[Collection disques Pathé\]](https://open.spotify.com/album/4ikZGhHqdMf24sWQA4v4UI) | 2:45 |
 | 33 | [Je suis malade](https://open.spotify.com/track/4jmrFoFwAMeDqoDSWyI1C7) | [Serge Lama](https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz) | [Les 50 Plus Belles Chansons](https://open.spotify.com/album/0jhZnOsf191o5d4pzt2qTu) | 4:09 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 51 | [À quoi ça sert l'amour ?](https://open.spotify.com/track/2oqwC0tbMG9fs37V1Jw6xd) | [Theo Sarapo](https://open.spotify.com/artist/1LLt7Ip3DCW2oAP4Z1V1zj), [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Les 100 plus belles chansons d'Edith Piaf](https://open.spotify.com/album/52Djt5ovSZlf5o2pfRFsdN) | 2:27 |
 | 52 | [Cœur de parisienne](https://open.spotify.com/track/16bV2DdifOepotmlnEjNQZ) | [Arletty](https://open.spotify.com/artist/5ouVGmB18Ok71seyDU6g91) | [Mon homme](https://open.spotify.com/album/0wttZ0qGZeO95j5NOIDRF5) | 2:39 |
 | 53 | [Une belle histoire](https://open.spotify.com/track/1GdtMDRiaF1EnG2LJpELme) | [Michel Fugain & Le Big Bazar](https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY) | [Fais Comme L'Oiseau](https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn) | 3:15 |
-| 54 | [Comment te dire adieu \- It Hurts to Say Goodbye](https://open.spotify.com/track/29GuoJqjg7aMxUmEO3XLEp) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Comment te dire adieu ?](https://open.spotify.com/album/5lX198dectE8fpkow4UXrf) | 2:26 |
-| 55 | [Vesoul](https://open.spotify.com/track/7LBCohUSd7WFEggfybmuzC) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [Infiniment](https://open.spotify.com/album/5NwlXR5GbA10N4cZ6qViRf) | 3:06 |
+| 54 | [Vesoul](https://open.spotify.com/track/7LBCohUSd7WFEggfybmuzC) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [Infiniment](https://open.spotify.com/album/5NwlXR5GbA10N4cZ6qViRf) | 3:06 |
+| 55 | [Comment te dire adieu \- It Hurts to Say Goodbye](https://open.spotify.com/track/29GuoJqjg7aMxUmEO3XLEp) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Comment te dire adieu ?](https://open.spotify.com/album/5lX198dectE8fpkow4UXrf) | 2:26 |
 | 56 | [Emmenez Moi](https://open.spotify.com/track/7A0piuknKPVbFtf9gxI6le) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Platinum Charles Aznavour](https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv) | 3:32 |
 | 57 | [Poupée de cire, poupée de son](https://open.spotify.com/track/1OJcI2EzUidsTVl532wkWN) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [France Gall CD Story](https://open.spotify.com/album/31UwyKsz2yvAEUf98XD5Xb) | 2:33 |
 | 58 | [Parlez moi d'amour](https://open.spotify.com/track/6MqBuCt2rVBWQ0x23icnWc) | [Lucienne Boyer](https://open.spotify.com/artist/5KIyBfTJdvEzz2OxfVvsE6) | [Midnight in Paris \- French Classics](https://open.spotify.com/album/0kP8oCXy88fxa0hRhS1oV0) | 2:55 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to women at full volume! \u9999\u6e2fEQUAL\u5973\u8072\u529b\u91cf\uff01(cover: Feanna Wong)",
+  "description": "Listen to women at full volume! \u9999\u6e2fEQUAL\u5973\u8072\u529b\u91cf\uff01(cover: JW\u738b\u705d\u5152)",
   "name": "EQUAL Hong Kong",
   "tracks": [
     {
@@ -2030,7 +2030,7 @@
       ],
       "date_added": "2026-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 247124,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/4UptZdAy1xY0qcp3yNvLeO"
@@ -2784,6 +2784,24 @@
       "duration_ms": 238682,
       "name": "\u4f60\u7684\u640d\u5931",
       "url": "https://open.spotify.com/track/286eXFCY7vNrWiuazONUNr"
+    },
+    {
+      "album": {
+        "name": "\u4f60\u79bb\u5f00\u4e4b\u540e",
+        "url": "https://open.spotify.com/album/1pegTruxApdcl6n3c8HO5M"
+      },
+      "artists": [
+        {
+          "name": "JW",
+          "url": "https://open.spotify.com/artist/5YsDFZYpkNgiIxfDW6rXlu"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230709,
+      "name": "\u4f60\u79bb\u5f00\u4e4b\u540e",
+      "url": "https://open.spotify.com/track/33nUhjkJRfXrdH2c9ih7EX"
     },
     {
       "album": {
@@ -4623,6 +4641,24 @@
     },
     {
       "album": {
+        "name": "\u660e\u65e5\u898b (\u5287\u96c6\u300a\u75de\u5b50\u7121\u9593\u9053\u300b\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/2purX3kLorHyzyt5wHLF6p"
+      },
+      "artists": [
+        {
+          "name": "JW",
+          "url": "https://open.spotify.com/artist/5YsDFZYpkNgiIxfDW6rXlu"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188655,
+      "name": "\u660e\u65e5\u898b (\u5287\u96c6\u300a\u75de\u5b50\u7121\u9593\u9053\u300b\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/5CIZiWYqskOqKJCyRAILld"
+    },
+    {
+      "album": {
         "name": "\u660e\u660e\u55ae\u8eab\u6700\u958b\u5fc3",
         "url": "https://open.spotify.com/album/1lMFKCkEHvt1WtvtwlPFEd"
       },
@@ -5966,7 +6002,7 @@
       ],
       "date_added": "2026-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 250624,
       "name": "\u8349\u897f",
       "url": "https://open.spotify.com/track/3jFv65hSmXNh8XUuFbcDJ0"

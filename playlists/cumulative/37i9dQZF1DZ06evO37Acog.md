@@ -4,10 +4,11 @@
 
 > This is Ramon Ayala Y Sus Bravos Del Norte\. The essential tracks, all in one playlist.
 
-122 songs - 6 hr 22 min
+123 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Amor Vaquero](https://open.spotify.com/track/4mfeFlSkg2PHY3Gf5iYuGU) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Amor Vaquero](https://open.spotify.com/album/2ikhPXiJKnhxkMBUJGUw2I) | 2:41 | 2026-02-28 |  |
 | [Arrancame El Corazón \- \(En Vivo\)](https://open.spotify.com/track/7KDfKZEN3KXHrwIrfKp73Z) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo...El Hombre Y Su Musica](https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA) | 4:21 | 2022-06-01 | 2025-10-11 |
 | [Atras De La Raya \- \(En Vivo\)](https://open.spotify.com/track/7AZLFXk4B3eA2Rp5nNcr8w) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo...El Hombre Y Su Musica](https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA) | 3:39 | 2022-06-01 | 2023-02-01 |
 | [Baraja De Oro](https://open.spotify.com/track/4vxGRxWgmTtaVOJlVV1TjC) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 3:18 | 2022-06-01 | 2026-01-15 |
@@ -46,7 +47,7 @@
 | [El Tonto Que Te Amó](https://open.spotify.com/track/0U8vL1iTfY59FNyUNeVQxx) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Amigos Del Alma](https://open.spotify.com/album/1ec2ZvSs6ZXYW2PxyfaS1t) | 2:40 | 2022-06-01 | 2023-04-12 |
 | [Enséñame A Olvidar](https://open.spotify.com/track/60omHo4CkdXorYTrOzZQUO) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 3:28 | 2022-06-15 | 2023-11-11 |
 | [Enséñame A Olvidar](https://open.spotify.com/track/4hFXPOaJg12M1NT67WlHCa) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Ayer, Hoy Y Siempre Con..\. Ramón Ayala Y Sus Bravos Del Norte](https://open.spotify.com/album/7qJ2TrDx6uZFKaaV0YzZRu) | 3:27 | 2023-11-10 | 2024-03-03 |
-| [Enséñame A Olvidar](https://open.spotify.com/track/6rNDnK8X0B6SgsauoD6IK3) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Los Mejores 15 Éxitos Norteños](https://open.spotify.com/album/6G6ycCLOWgkb3AQoI28Y8c) | 3:28 | 2026-01-24 |  |
+| [Enséñame A Olvidar](https://open.spotify.com/track/6rNDnK8X0B6SgsauoD6IK3) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Los Mejores 15 Éxitos Norteños](https://open.spotify.com/album/6G6ycCLOWgkb3AQoI28Y8c) | 3:28 | 2026-01-24 | 2026-02-28 |
 | [Entiérrenme Cantando](https://open.spotify.com/track/04vH8GYCVFxARTN7LydGdI) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [PURA MUSICA DE CANTINA](https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z) | 4:12 | 2022-06-01 |  |
 | [Florita Del Alma](https://open.spotify.com/track/1mqYLkiDrFo2YM7EUBTfyT) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [¿Por Qué?](https://open.spotify.com/album/3yPIKcaIMhOmRStCt9MfPe) | 3:03 | 2022-06-01 | 2022-10-13 |
 | [Gaviota](https://open.spotify.com/track/3mmWb4tMQ5hN74KRhCDfcE) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Antología De Un Rey \- 30 Joyas Musicales](https://open.spotify.com/album/22zGSXwVHPmZqSrMXaZkNk) | 2:54 | 2022-06-20 | 2022-07-27 |

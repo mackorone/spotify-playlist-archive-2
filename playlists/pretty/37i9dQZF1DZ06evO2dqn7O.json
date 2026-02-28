@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 57452,
+  "num_followers": 57453,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAACa5ZZVMKEY5llU16yMFwLr",
+  "snapshot_id": "aZ+NAAAAAACGZqMWhcAwQQN/IF9DFHXp",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ahead Of Myself",
-        "url": "https://open.spotify.com/album/2fegGpMdK0zuaBEHGFdYdf"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 223146,
-      "name": "Ahead Of Myself",
-      "url": "https://open.spotify.com/track/5KrEN8aGZnvS2UU6molPFs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
       },
@@ -503,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ahead Of Myself",
+        "url": "https://open.spotify.com/album/2fegGpMdK0zuaBEHGFdYdf"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 223146,
+      "name": "Ahead Of Myself",
+      "url": "https://open.spotify.com/track/5KrEN8aGZnvS2UU6molPFs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VHS 2.0",
         "url": "https://open.spotify.com/album/07MhkuCXC6XBQTDpXPRyBI"
       },
@@ -515,38 +515,6 @@
       "duration_ms": 233013,
       "name": "Kerosene Dreams",
       "url": "https://open.spotify.com/track/1NJAy0SC6DVc7yroWbN1Fs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Belong EP",
-        "url": "https://open.spotify.com/album/7inQoz3exeJ2mTCtFXlPqP"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 218885,
-      "name": "Belong",
-      "url": "https://open.spotify.com/track/54nwCwKlRSl29ndEBFVaGl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
-        "url": "https://open.spotify.com/album/7fRFPeXlcoWCOuFpAKHnIv"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
-      "url": "https://open.spotify.com/track/20xiB92NDhWtM4sqXUreQU"
     },
     {
       "added_at": null,
@@ -571,6 +539,38 @@
       "duration_ms": 245572,
       "name": "Not Easy",
       "url": "https://open.spotify.com/track/6BXCXOJGvuhks2xDxj5opi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
+        "url": "https://open.spotify.com/album/7fRFPeXlcoWCOuFpAKHnIv"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 181266,
+      "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
+      "url": "https://open.spotify.com/track/20xiB92NDhWtM4sqXUreQU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Belong EP",
+        "url": "https://open.spotify.com/album/7inQoz3exeJ2mTCtFXlPqP"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 218885,
+      "name": "Belong",
+      "url": "https://open.spotify.com/track/54nwCwKlRSl29ndEBFVaGl"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Great Unknown (From The Motion Picture \u201cThe Call Of The Wild\u201d)",
-        "url": "https://open.spotify.com/album/3XHdRknn2OGMY34vYRcgtu"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 186620,
-      "name": "Great Unknown - From The Motion Picture \u201cThe Call Of The Wild\"",
-      "url": "https://open.spotify.com/track/4u2uQ7G1nzZJ7yHA6Dzg7z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True Colors",
         "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 242213,
       "name": "Transmission",
       "url": "https://open.spotify.com/track/1Bh8jtOXIBIRUUghbrwUTX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Great Unknown (From The Motion Picture \u201cThe Call Of The Wild\u201d)",
+        "url": "https://open.spotify.com/album/3XHdRknn2OGMY34vYRcgtu"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 186620,
+      "name": "Great Unknown - From The Motion Picture \u201cThe Call Of The Wild\"",
+      "url": "https://open.spotify.com/track/4u2uQ7G1nzZJ7yHA6Dzg7z"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Townie",
-        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 193520,
-      "name": "Half-Life",
-      "url": "https://open.spotify.com/track/2mhlxHaCGmSKNooRLmeJyk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 280813,
       "name": "Low Life",
       "url": "https://open.spotify.com/track/6rXKkGRJQspRVNcGdcmsGy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Townie",
+        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 193520,
+      "name": "Half-Life",
+      "url": "https://open.spotify.com/track/2mhlxHaCGmSKNooRLmeJyk"
     },
     {
       "added_at": null,

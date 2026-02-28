@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 
 > darf man so ?? \(in den tag starten, kurz leben leben, bisschen pause machen\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,754 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,707 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 33 | [Unsicher](https://open.spotify.com/track/2GN2pbQi4Yz7Qp99Wbp2vZ) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Unsicher](https://open.spotify.com/album/4YRMSEy1QmyGeUUxiZyk8S) | 2:18 |
 | 34 | [Better Man](https://open.spotify.com/track/55HpTIGbIlzdMazZHzDzF4) | [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg) | [Better Man](https://open.spotify.com/album/1jxcPyqdSKPrYSj8vNlDdz) | 3:13 |
 | 35 | [You've Got Another Thing Coming \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [You've Got Another Thing Coming \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/5GKnfR1v8HvCHox655zh9s) | 2:59 |
-| 36 | [Track 5](https://open.spotify.com/track/0DwSDivYx1TTl5m3GsyKzK) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [Cosmic Wink](https://open.spotify.com/album/4FBsBCEPnDE9kRfyj3GteE) | 0:00 |
+| 36 | [cosmic wink](https://open.spotify.com/track/0DwSDivYx1TTl5m3GsyKzK) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [Cosmic Wink](https://open.spotify.com/album/4FBsBCEPnDE9kRfyj3GteE) | 2:52 |
 | 37 | [Voyage](https://open.spotify.com/track/4Y0lQy86Qz9ncQwgTTS2rc) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Voyage](https://open.spotify.com/album/6aM4gYhFn5aPsngmnKCDVm) | 2:59 |
 | 38 | [4 Life](https://open.spotify.com/track/34RhKiUQ5JBU4MIVCwMcBG) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Sommerregen EP](https://open.spotify.com/album/5dMr2rimlo62V5xRFOC4o4) | 1:56 |
 | 39 | [Lady In Red](https://open.spotify.com/track/2ObQRuTvP7PfyMS5Y6t4i3) | [Pedro Santos](https://open.spotify.com/artist/19YzhgBR0lApAqTpaHLzMZ) | [Lady In Red](https://open.spotify.com/album/20Y0YMEtd5ifcSZ0s1SuYy) | 2:35 |

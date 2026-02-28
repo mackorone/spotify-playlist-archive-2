@@ -2242,10 +2242,28 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 192120,
       "name": "New Town",
       "url": "https://open.spotify.com/track/02979mpZkixwGIzdFAut8O"
+    },
+    {
+      "album": {
+        "name": "New Town",
+        "url": "https://open.spotify.com/album/3SFUQxfWiq5aFqpZwPBUBq"
+      },
+      "artists": [
+        {
+          "name": "Smithfield",
+          "url": "https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192120,
+      "name": "New Town",
+      "url": "https://open.spotify.com/track/1WOJJxBpfMHcAUemyGiDq9"
     },
     {
       "album": {

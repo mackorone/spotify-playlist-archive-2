@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "The whole truth. Cover: Central Cee",
+  "description": "The whole truth. Cover: Yeat, EsDeeKid",
   "name": "No Cap (2)",
   "tracks": [
     {
@@ -78,6 +78,28 @@
       "duration_ms": 180705,
       "name": "ATM",
       "url": "https://open.spotify.com/track/03auLpFLdCv4HozP4pQseu"
+    },
+    {
+      "album": {
+        "name": "B.B.B.",
+        "url": "https://open.spotify.com/album/3aS5keGWpo2QNDIGnL2Spd"
+      },
+      "artists": [
+        {
+          "name": "JUVENILE",
+          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140613,
+      "name": "B.B.B.",
+      "url": "https://open.spotify.com/track/2Vmb54sq94SOhDobcf4gxp"
     },
     {
       "album": {
@@ -719,6 +741,28 @@
     },
     {
       "album": {
+        "name": "Made It On Our Own",
+        "url": "https://open.spotify.com/album/5pXYL4x2dOkvxM0aeigqwF"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169090,
+      "name": "Made It On Our Own",
+      "url": "https://open.spotify.com/track/13Z2JpNwN54a5WXacGYtLs"
+    },
+    {
+      "album": {
         "name": "Middle of the Summer",
         "url": "https://open.spotify.com/album/45BtT1eeb8MUrrmCtnduS2"
       },
@@ -788,7 +832,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 217333,
       "name": "NEW DROP",
       "url": "https://open.spotify.com/track/0A189BUGs0WHvEA09bWdA6"
@@ -1084,7 +1128,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 129985,
       "name": "Teenage Famous",
       "url": "https://open.spotify.com/track/4t8n6V5Lfl5ETENNmjqi9e"
@@ -1250,7 +1294,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 160533,
       "name": "Walk Down (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/7uivYk4Bf2j1wtHHLtB0Qr"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 
 > Hand\-curated cuts from the vault, no record player required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,869 likes - 75 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,924 likes - 75 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 28 | [Carry On](https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Joli Mai](https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj) | 3:46 |
 | 29 | [Take Five](https://open.spotify.com/track/0t0F3Qyt3kKFU7rGxKa02t) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [Dub Reggae](https://open.spotify.com/album/5c1GnEPAEjvyqqhV7mSkjS) | 3:38 |
 | 30 | [I Tcho Tchass](https://open.spotify.com/track/6SwZUDlpJkTAor01wUbbx1) | [Akofa Akoussah](https://open.spotify.com/artist/074ZfBySwX9MfQAOlL0hJh) | [Akofa Akoussah](https://open.spotify.com/album/76MYmID5q42L381YAFUaEq) | 3:53 |
-| 31 | [Nterini \- A COLORS SHOW](https://open.spotify.com/track/3G7Mvni5YaF5UgJWGp5nQe) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Nterini \- A COLORS SHOW](https://open.spotify.com/album/6JErS4p9PuTYxCmeWu6Eaq) | 3:51 |
-| 32 | [Action Line](https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS) | [Dorothy Ashby](https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt) | [Afro\-Harping](https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n) | 3:41 |
+| 31 | [Action Line](https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS) | [Dorothy Ashby](https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt) | [Afro\-Harping](https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n) | 3:41 |
+| 32 | [Nterini \- A COLORS SHOW](https://open.spotify.com/track/3G7Mvni5YaF5UgJWGp5nQe) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Nterini \- A COLORS SHOW](https://open.spotify.com/album/6JErS4p9PuTYxCmeWu6Eaq) | 3:51 |
 | 33 | [Love Is Everywhere](https://open.spotify.com/track/4IIxBK0L8uj7viwxhmuSc4) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Wisdom Through Music](https://open.spotify.com/album/2qR5kf6jPhN84zcrAHrlme) | 5:18 |
 | 34 | [Harm](https://open.spotify.com/track/3k29pw2omntASGkzIqYMnC) | [Beacon](https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl) | [Along the Lethe](https://open.spotify.com/album/3cwJeTW8Fcv5zvJ180UBaP) | 4:26 |
 | 35 | [Wind Parade](https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Wind Parade](https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV) | 4:48 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 69 | [Age Of Ascent](https://open.spotify.com/track/4xFOvGNluJ08G3JM73rwbU) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Age Of Ascent](https://open.spotify.com/album/1Nd4fQbsxZQUnLjSCLc4ud) | 4:58 |
 | 70 | [Tokisan](https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ) | [YUNIKōN](https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR) | 3:25 |
 | 71 | [Girl](https://open.spotify.com/track/7o1s0OJBJj2PvBTVNBMM3P) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Girl/Sleep Sound](https://open.spotify.com/album/6ORIBhcatSSgmL3vhvhRYB) | 4:01 |
-| 72 | [Fair Chance \- Floating Points Remix](https://open.spotify.com/track/7eXMtBR9ZVlps31ovZKGr8) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Fair Chance \(Floating Points Remix\)](https://open.spotify.com/album/69ImoNYaQSjY2RmQsaZ9DB) | 5:08 |
-| 73 | [Siren](https://open.spotify.com/track/5umBsHgpB2WsRA9ccQZGdz) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Siren](https://open.spotify.com/album/0IUYJNrMt8Eny3zaKeEAc2) | 6:22 |
+| 72 | [Siren](https://open.spotify.com/track/5umBsHgpB2WsRA9ccQZGdz) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Siren](https://open.spotify.com/album/0IUYJNrMt8Eny3zaKeEAc2) | 6:22 |
+| 73 | [Fair Chance \- Floating Points Remix](https://open.spotify.com/track/7eXMtBR9ZVlps31ovZKGr8) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Fair Chance \(Floating Points Remix\)](https://open.spotify.com/album/69ImoNYaQSjY2RmQsaZ9DB) | 5:08 |
 | 74 | [We Give Thanks](https://open.spotify.com/track/1jcd0ZDms179eAAohF6IVz) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [We Give Thanks](https://open.spotify.com/album/0Z5523HDV8PzT0Ea3I2IDb) | 3:40 |
 | 75 | [Check up Your Head](https://open.spotify.com/track/65hmRaQv17S8tWAHfYuX90) | [Mukhtar Ramadan Idii](https://open.spotify.com/artist/4mt9SVke7R8iOlXMdNcX7B) | [Mogadisco \- Dancing Mogadishu \(Somalia 1972 \- 1991\) \[Analog Africa No.29\]](https://open.spotify.com/album/267SehTmD0zRYQJtZo9JL7) | 5:50 |
 
-Snapshot ID: `AAAAAF+Lu4yFvYLmC22IoSA8WqQbPZNn`
+Snapshot ID: `AAAAAEKBBXm03QsHTMBhE+ZuIC/mNkJf`

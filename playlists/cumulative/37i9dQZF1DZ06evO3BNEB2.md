@@ -4,7 +4,7 @@
 
 > This is Wale\. The essential tracks, all in one playlist.
 
-50 songs - 3 hr 13 min
+51 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Bounce It \(feat\. Wale & Trey Songz\)](https://open.spotify.com/track/3N5oiETJEStSB71TjTFkWV) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Stay Trippy](https://open.spotify.com/album/7h1ut6IUbndKY7QrqcbAND) | 4:20 | 2026-02-21 |  |
 | [Caramel](https://open.spotify.com/track/2SvD4t3gPcDDLYbWCYARy5) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Folarin II](https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H) | 3:21 | 2026-02-21 |  |
 | [Change](https://open.spotify.com/track/4L3HQD7tbXCPpO9Ps7rgdm) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Change](https://open.spotify.com/album/1XNlRfQuMTW3IF0z0dUZgq) | 4:37 | 2026-02-21 |  |
+| [Chillin](https://open.spotify.com/track/2tQ4R1rTEFrorrBnQU5O5W) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Attention Deficit \(Explicit Version\)](https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI) | 3:24 | 2026-02-28 |  |
 | [City On Fire](https://open.spotify.com/track/5hvt3s4LH6kZETJ18nxgYa) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 2:33 | 2026-02-21 |  |
 | [Coffee \(F\*\*\*ing\) \(feat\. Wale\)](https://open.spotify.com/track/5OFKWrKbS8iTIGxgjyHDzW) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Coffee \(F\*\*\*ing\) \(feat\. Wale\)](https://open.spotify.com/album/2oEZTAlDdKGJoeNSlbkXOy) | 5:14 | 2026-02-21 |  |
 | [Conundrum](https://open.spotify.com/track/2j3ZeRQLyJyMTWzNkHFRtb) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 2:08 | 2026-02-21 |  |
@@ -33,7 +34,7 @@
 | [Love..\. \(Her Fault\) \[feat\. Bryson Tiller\]](https://open.spotify.com/track/6cSBm4mtcuFtClN6yDvjQo) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Wow..\. That's Crazy](https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC) | 3:32 | 2026-02-21 |  |
 | [LoveHate Thing \(feat\. Sam Dew\)](https://open.spotify.com/track/6kx16R0LMAyoXDvGqddZFy) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [The Gifted](https://open.spotify.com/album/2m1DkB7oqaZu8BzAAUfwlq) | 4:27 | 2026-02-21 |  |
 | [Marvin Gaye \(feat\. Wale\) \- Remix](https://open.spotify.com/track/4LfkoDOt4mhrbo8Ndk37sQ) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Nine Track Mind \(Special Edition\)](https://open.spotify.com/album/5J4SS8wTmXdyIEVYjmHzpZ) | 3:20 | 2026-02-21 |  |
-| [My Boy \(feat\. J\. Cole\) \- Freestyle](https://open.spotify.com/track/11QvWp3CsEPd0YLE6xKGyx) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Free Lunch](https://open.spotify.com/album/2KWMRiVC16dYpH9VkERMOF) | 4:29 | 2026-02-21 |  |
+| [My Boy \(feat\. J\. Cole\) \- Freestyle](https://open.spotify.com/track/11QvWp3CsEPd0YLE6xKGyx) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Free Lunch](https://open.spotify.com/album/2KWMRiVC16dYpH9VkERMOF) | 4:29 | 2026-02-21 | 2026-02-28 |
 | [My Love \(feat\. Major Lazer, WizKid, Dua Lipa\)](https://open.spotify.com/track/7rfiXyFb5M9BqdkvKvVEiB) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Shine](https://open.spotify.com/album/3X1Ljgkvf2cLwi8mMjhvKy) | 3:48 | 2026-02-21 |  |
 | [MY PYT](https://open.spotify.com/track/2Fe6gDE0mCZz0g98i5QpVL) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Shine](https://open.spotify.com/album/3X1Ljgkvf2cLwi8mMjhvKy) | 3:56 | 2026-02-21 |  |
 | [N.W.A](https://open.spotify.com/track/43X9WjjrCMIQ7lM4TjRbZm) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [N.W.A](https://open.spotify.com/album/5r769GiqpMgMx4vAzCT7Kz) | 3:50 | 2026-02-21 |  |

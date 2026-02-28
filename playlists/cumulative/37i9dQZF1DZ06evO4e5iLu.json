@@ -617,6 +617,28 @@
     },
     {
       "album": {
+        "name": "Shoot For The Stars Aim For The Moon",
+        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197938,
+      "name": "Enjoy Yourself (feat. Karol G)",
+      "url": "https://open.spotify.com/track/3NWrHCwvyII4fTx05PN3IO"
+    },
+    {
+      "album": {
         "name": "Follow",
         "url": "https://open.spotify.com/album/4c7J8cbXIdLAiTX7PFYdDi"
       },

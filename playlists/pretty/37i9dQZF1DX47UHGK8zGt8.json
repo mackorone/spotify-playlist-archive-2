@@ -1,6 +1,6 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 606133,
+  "num_followers": 606170,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,22 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
+        "name": "Aos Vivos",
+        "url": "https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF"
+      },
+      "artists": [
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "\u00c0 Primeira Vista",
+      "url": "https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM"
+    },
+    {
+      "added_at": "2026-02-06 12:58:31",
+      "album": {
         "name": "Feito Pra Acabar",
         "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 252600,
       "name": "Felicidade",
       "url": "https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6"
-    },
-    {
-      "added_at": "2026-02-06 12:58:31",
-      "album": {
-        "name": "Aos Vivos",
-        "url": "https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF"
-      },
-      "artists": [
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "\u00c0 Primeira Vista",
-      "url": "https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -287,26 +287,6 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
-        "name": "Feito Pra Acabar",
-        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Jeneci",
-          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
-        },
-        {
-          "name": "Laura Lavieri",
-          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
-        }
-      ],
-      "duration_ms": 268640,
-      "name": "Pra Sonhar",
-      "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
-    },
-    {
-      "added_at": "2026-02-06 12:58:31",
-      "album": {
         "name": "Varrendo a Lua",
         "url": "https://open.spotify.com/album/7ntYXJA7rWbNjNm8DWV7Lm"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 190960,
       "name": "De Janeiro a Janeiro",
       "url": "https://open.spotify.com/track/1de5qtvROLxLtMAQrmZjev"
+    },
+    {
+      "added_at": "2026-02-06 12:58:31",
+      "album": {
+        "name": "Feito Pra Acabar",
+        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Jeneci",
+          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
+        },
+        {
+          "name": "Laura Lavieri",
+          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
+        }
+      ],
+      "duration_ms": 268640,
+      "name": "Pra Sonhar",
+      "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -759,18 +759,18 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
-        "name": "Flora - EP",
-        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
+        "name": "Balada do Amor Inabal\u00e1vel",
+        "url": "https://open.spotify.com/album/10mKCtbO1jF7p3CUbIQaJE"
       },
       "artists": [
         {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Vem conversar",
-      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
+      "duration_ms": 142144,
+      "name": "Balada do Amor Inabal\u00e1vel",
+      "url": "https://open.spotify.com/track/4f4qGGCOjLVT1Y89n2yELB"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -791,18 +791,18 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
-        "name": "Balada do Amor Inabal\u00e1vel",
-        "url": "https://open.spotify.com/album/10mKCtbO1jF7p3CUbIQaJE"
+        "name": "Flora - EP",
+        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
       },
       "artists": [
         {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
         }
       ],
-      "duration_ms": 142144,
-      "name": "Balada do Amor Inabal\u00e1vel",
-      "url": "https://open.spotify.com/track/4f4qGGCOjLVT1Y89n2yELB"
+      "duration_ms": 158000,
+      "name": "Vem conversar",
+      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
-        "name": "Mundan\u00e7a",
-        "url": "https://open.spotify.com/album/3JWFKWdDalc9xBfekjsk2o"
-      },
-      "artists": [
-        {
-          "name": "Marina Aquino",
-          "url": "https://open.spotify.com/artist/4vlPh9kkSeXwFHV6B7cnJr"
-        }
-      ],
-      "duration_ms": 183673,
-      "name": "Mundan\u00e7a",
-      "url": "https://open.spotify.com/track/6pZhsDgyThgdww4vNQpov5"
-    },
-    {
-      "added_at": "2026-02-06 12:58:31",
-      "album": {
         "name": "Preciso Dizer Que Te Amo",
         "url": "https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 233990,
       "name": "Preciso Dizer Que Te Amo",
       "url": "https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa"
+    },
+    {
+      "added_at": "2026-02-06 12:58:31",
+      "album": {
+        "name": "Mundan\u00e7a",
+        "url": "https://open.spotify.com/album/3JWFKWdDalc9xBfekjsk2o"
+      },
+      "artists": [
+        {
+          "name": "Marina Aquino",
+          "url": "https://open.spotify.com/artist/4vlPh9kkSeXwFHV6B7cnJr"
+        }
+      ],
+      "duration_ms": 183673,
+      "name": "Mundan\u00e7a",
+      "url": "https://open.spotify.com/track/6pZhsDgyThgdww4vNQpov5"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
-        "name": "Carnaval de Sof\u00e1",
-        "url": "https://open.spotify.com/album/6ne5ijX7ThpjEdy3y3GZBk"
-      },
-      "artists": [
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        }
-      ],
-      "duration_ms": 186375,
-      "name": "Bola de Sab\u00e3o",
-      "url": "https://open.spotify.com/track/0Wr2aRTg74el3e98NKu8Zs"
-    },
-    {
-      "added_at": "2026-02-06 12:58:31",
-      "album": {
         "name": "J\u00fapiter",
         "url": "https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 156746,
       "name": "Feliz e Ponto",
       "url": "https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94"
+    },
+    {
+      "added_at": "2026-02-06 12:58:31",
+      "album": {
+        "name": "Carnaval de Sof\u00e1",
+        "url": "https://open.spotify.com/album/6ne5ijX7ThpjEdy3y3GZBk"
+      },
+      "artists": [
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        }
+      ],
+      "duration_ms": 186375,
+      "name": "Bola de Sab\u00e3o",
+      "url": "https://open.spotify.com/track/0Wr2aRTg74el3e98NKu8Zs"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
+        "name": "Tenha Do Seu Lado",
+        "url": "https://open.spotify.com/album/3xbo5AXOm0UgWVt71j52d3"
+      },
+      "artists": [
+        {
+          "name": "Benzi\u00ea",
+          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+        }
+      ],
+      "duration_ms": 202154,
+      "name": "Tenha do Seu Lado",
+      "url": "https://open.spotify.com/track/7iRxsuKe44yvOYMypoBnzs"
+    },
+    {
+      "added_at": "2026-02-06 12:58:31",
+      "album": {
         "name": "Maria Beth\u00e2nia - Noite Luzidia (ao Vivo)",
         "url": "https://open.spotify.com/album/5SGR9EAQOqls8xrn8fnuHa"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 239707,
       "name": "Depois de Ter Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/2OGTo6ZsIrRr1F7rtd7PbP"
-    },
-    {
-      "added_at": "2026-02-06 12:58:31",
-      "album": {
-        "name": "Tenha Do Seu Lado",
-        "url": "https://open.spotify.com/album/3xbo5AXOm0UgWVt71j52d3"
-      },
-      "artists": [
-        {
-          "name": "Benzi\u00ea",
-          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
-        }
-      ],
-      "duration_ms": 202154,
-      "name": "Tenha do Seu Lado",
-      "url": "https://open.spotify.com/track/7iRxsuKe44yvOYMypoBnzs"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
+        "name": "OutroEu",
+        "url": "https://open.spotify.com/album/0TkXnCE4W4ePll9mXmjhP4"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        },
+        {
+          "name": "Sandy",
+          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
+        }
+      ],
+      "duration_ms": 258720,
+      "name": "Ai de Mim",
+      "url": "https://open.spotify.com/track/5df99H7yd4phkyAR9feLdf"
+    },
+    {
+      "added_at": "2026-02-06 12:58:31",
+      "album": {
         "name": "A Morte de um Deus de Sal",
         "url": "https://open.spotify.com/album/019T33OgzsIGyamxapvv6V"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 203810,
       "name": "A Morte de um Deus de Sal",
       "url": "https://open.spotify.com/track/3tHHQAgaaiV9XvogI00MBy"
-    },
-    {
-      "added_at": "2026-02-06 12:58:31",
-      "album": {
-        "name": "OutroEu",
-        "url": "https://open.spotify.com/album/0TkXnCE4W4ePll9mXmjhP4"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        },
-        {
-          "name": "Sandy",
-          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
-        }
-      ],
-      "duration_ms": 258720,
-      "name": "Ai de Mim",
-      "url": "https://open.spotify.com/track/5df99H7yd4phkyAR9feLdf"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
-        "name": "Carinhoso",
-        "url": "https://open.spotify.com/album/4HFoIAVMjeCiA69B1NQdX0"
-      },
-      "artists": [
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        }
-      ],
-      "duration_ms": 106452,
-      "name": "Carinhoso",
-      "url": "https://open.spotify.com/track/1M2o02mk2R0ltQcsQO7zZR"
-    },
-    {
-      "added_at": "2026-02-06 12:58:31",
-      "album": {
         "name": "S\u00f3 love",
         "url": "https://open.spotify.com/album/4XM2aCxAxUwcZnRmTev9Yi"
       },
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
-        "name": "Imagina",
-        "url": "https://open.spotify.com/album/2ABOJjkj6RE0dgs8d5BG9A"
+        "name": "Carinhoso",
+        "url": "https://open.spotify.com/album/4HFoIAVMjeCiA69B1NQdX0"
       },
       "artists": [
         {
-          "name": "Atitude 67",
-          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
         }
       ],
-      "duration_ms": 169086,
-      "name": "Imagina",
-      "url": "https://open.spotify.com/track/3WZtq8zYjeL0xbuSjChnW2"
+      "duration_ms": 106452,
+      "name": "Carinhoso",
+      "url": "https://open.spotify.com/track/1M2o02mk2R0ltQcsQO7zZR"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -1407,6 +1391,22 @@
       "duration_ms": 164583,
       "name": "Voc\u00ea Tem",
       "url": "https://open.spotify.com/track/6MMeHHFx8H30NoxkfAD5Bn"
+    },
+    {
+      "added_at": "2026-02-06 12:58:31",
+      "album": {
+        "name": "Imagina",
+        "url": "https://open.spotify.com/album/2ABOJjkj6RE0dgs8d5BG9A"
+      },
+      "artists": [
+        {
+          "name": "Atitude 67",
+          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
+        }
+      ],
+      "duration_ms": 169086,
+      "name": "Imagina",
+      "url": "https://open.spotify.com/track/3WZtq8zYjeL0xbuSjChnW2"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
-        "name": "Nana, Tom, Vinicius",
-        "url": "https://open.spotify.com/album/73qo38bDY4G4RczOWQxDtI"
-      },
-      "artists": [
-        {
-          "name": "Nana Caymmi",
-          "url": "https://open.spotify.com/artist/1hQT9TlJXMBP6Dy4lExSKn"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Se Todos Fossem Iguais a Voc\u00ea",
-      "url": "https://open.spotify.com/track/5KCyS9wZaKo5T6AnKMQ1uG"
-    },
-    {
-      "added_at": "2026-02-06 12:58:31",
-      "album": {
         "name": "da primeira vez (from the first time)",
         "url": "https://open.spotify.com/album/2p7xzOUtZyKit5rZLfwGfY"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 201183,
       "name": "da primeira vez (from the first time)",
       "url": "https://open.spotify.com/track/63qOBLF8403qXWcfi4sAQx"
+    },
+    {
+      "added_at": "2026-02-06 12:58:31",
+      "album": {
+        "name": "Nana, Tom, Vinicius",
+        "url": "https://open.spotify.com/album/73qo38bDY4G4RczOWQxDtI"
+      },
+      "artists": [
+        {
+          "name": "Nana Caymmi",
+          "url": "https://open.spotify.com/artist/1hQT9TlJXMBP6Dy4lExSKn"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Se Todos Fossem Iguais a Voc\u00ea",
+      "url": "https://open.spotify.com/track/5KCyS9wZaKo5T6AnKMQ1uG"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
+        "name": "Cruel",
+        "url": "https://open.spotify.com/album/4cdC6A0Dhofn5M0Qm1tr6H"
+      },
+      "artists": [
+        {
+          "name": "Nina Fernandes",
+          "url": "https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP"
+        }
+      ],
+      "duration_ms": 220257,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/3xJygPEkeDUonwKS5rnn7j"
+    },
+    {
+      "added_at": "2026-02-06 12:58:31",
+      "album": {
         "name": "Cheirinho (Feat. YO\u00d9N)",
         "url": "https://open.spotify.com/album/2l22Z4Yjv0gQpkqp5CGVpw"
       },
@@ -1771,38 +1787,18 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
-        "name": "Cruel",
-        "url": "https://open.spotify.com/album/4cdC6A0Dhofn5M0Qm1tr6H"
+        "name": "O amor me fala de voc\u00ea",
+        "url": "https://open.spotify.com/album/7kvvIABxvGFT5Cyz6mvgEz"
       },
       "artists": [
         {
-          "name": "Nina Fernandes",
-          "url": "https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP"
+          "name": "Caike Souza",
+          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
         }
       ],
-      "duration_ms": 220257,
-      "name": "Cruel",
-      "url": "https://open.spotify.com/track/3xJygPEkeDUonwKS5rnn7j"
-    },
-    {
-      "added_at": "2026-02-06 12:58:31",
-      "album": {
-        "name": "Zero a Cem",
-        "url": "https://open.spotify.com/album/196Sp6RFxVhYFGYjACcsCG"
-      },
-      "artists": [
-        {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
-        },
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
-        }
-      ],
-      "duration_ms": 190652,
-      "name": "Zero a Cem",
-      "url": "https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M"
+      "duration_ms": 199308,
+      "name": "O amor me fala de voc\u00ea",
+      "url": "https://open.spotify.com/track/2gBUrqogdBtgOBSm0h5AG5"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -1823,18 +1819,22 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
-        "name": "O amor me fala de voc\u00ea",
-        "url": "https://open.spotify.com/album/7kvvIABxvGFT5Cyz6mvgEz"
+        "name": "Zero a Cem",
+        "url": "https://open.spotify.com/album/196Sp6RFxVhYFGYjACcsCG"
       },
       "artists": [
         {
-          "name": "Caike Souza",
-          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        },
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
         }
       ],
-      "duration_ms": 199308,
-      "name": "O amor me fala de voc\u00ea",
-      "url": "https://open.spotify.com/track/2gBUrqogdBtgOBSm0h5AG5"
+      "duration_ms": 190652,
+      "name": "Zero a Cem",
+      "url": "https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M"
     },
     {
       "added_at": "2026-02-06 12:58:31",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBgha.md) - [plain]
 
 > This is Kenia Os\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,124 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,146 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBgha.md) - [plain]
 | 15 | [Llévatelo](https://open.spotify.com/track/53RLjHptrKflawOuGru1xM) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Cambios de Luna](https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0) | 2:23 |
 | 16 | [Big Bang](https://open.spotify.com/track/7dxrSzsK1bouobJiY5fIcD) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 2:37 |
 | 17 | [Good Boy](https://open.spotify.com/track/3hfb0K2rRK0HDhjNbi95Xj) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:03 |
-| 18 | [Tokome](https://open.spotify.com/track/0NaRr23qzWGYpd0YWRRQS6) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tokome](https://open.spotify.com/album/2U3MC2eCMzqyNvhNFDUfxo) | 2:37 |
-| 19 | [Tú y Yo X Siempre](https://open.spotify.com/track/0tRu6JVcrxamSl49SbOVe1) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tú y Yo X Siempre](https://open.spotify.com/album/1pa5BFb6W8qJRukSRku5bg) | 3:04 |
+| 18 | [Tú y Yo X Siempre](https://open.spotify.com/track/0tRu6JVcrxamSl49SbOVe1) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tú y Yo X Siempre](https://open.spotify.com/album/1pa5BFb6W8qJRukSRku5bg) | 3:04 |
+| 19 | [Tokome](https://open.spotify.com/track/0NaRr23qzWGYpd0YWRRQS6) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tokome](https://open.spotify.com/album/2U3MC2eCMzqyNvhNFDUfxo) | 2:37 |
 | 20 | [OMG](https://open.spotify.com/track/32Rd1yFRekKTkH21g0j1gH) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 3:02 |
 | 21 | [Botellita](https://open.spotify.com/track/0HXnUYLIIzaeO2ACjuw43s) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:37 |
 | 22 | [Bonita](https://open.spotify.com/track/1jBxLoNgHtZnY3ykT9MDyl) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Bonita](https://open.spotify.com/album/6qKPrh8dQ6jVqR3TiyMM8J) | 2:46 |
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBgha.md) - [plain]
 | 24 | [Kitty](https://open.spotify.com/track/5N7MQvvccl5Hu01j9dUtPe) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 2:38 |
 | 25 | [Lovelove U](https://open.spotify.com/track/4ZPbxT1hVCdUBG4Tjmfs5B) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Lovelove U](https://open.spotify.com/album/7K4D7qSpRkKY2WqIAJo9Dv) | 2:55 |
 | 26 | [Flores](https://open.spotify.com/track/6aNgqSTPML2B5XsohIiL7D) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:16 |
-| 27 | [Siempre Que Lo Beso](https://open.spotify.com/track/7uxUSeO7fa3gVn0mNg2SyR) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Siempre Que Lo Beso](https://open.spotify.com/album/6HZmLJi2vatI1IPmcJ6Y5s) | 2:33 |
+| 27 | [Bate](https://open.spotify.com/track/2POQJLngiE5R6RfdLgKkcI) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Bate](https://open.spotify.com/album/5wxOpM3MyBMY5znE0kfiJr) | 2:18 |
 | 28 | [Tortura](https://open.spotify.com/track/675DR08jG1zTyPjNoSUTY7) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 2:10 |
-| 29 | [Bate](https://open.spotify.com/track/2POQJLngiE5R6RfdLgKkcI) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Bate](https://open.spotify.com/album/5wxOpM3MyBMY5znE0kfiJr) | 2:18 |
+| 29 | [Siempre Que Lo Beso](https://open.spotify.com/track/7uxUSeO7fa3gVn0mNg2SyR) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Siempre Que Lo Beso](https://open.spotify.com/album/6HZmLJi2vatI1IPmcJ6Y5s) | 2:33 |
 | 30 | [Los Santos](https://open.spotify.com/track/5VZUk1ryO5RjKEd2txFNhU) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Cambios de Luna](https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0) | 3:32 |
 | 31 | [Bad Boy! \- feat\. Kenia OS](https://open.spotify.com/track/26EXLk5OgybKFDvnV9Bj9x) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Bad Boy! \(feat\. Kenia OS\)](https://open.spotify.com/album/2Bv78Sp64rF7Gh0ALptmFJ) | 2:45 |
 | 32 | [Mamita Rica](https://open.spotify.com/track/7vWCNYFkxVmQM2PfegA9YE) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBgha.md) - [plain]
 | 49 | [Ocean](https://open.spotify.com/track/2kPjKPf34ZF0vXVBcsLimh) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Sin Sol](https://open.spotify.com/album/2CsypJgFF6iLwdWkHYanv9) | 3:24 |
 | 50 | [SAN TURRONA REMIX](https://open.spotify.com/track/59aD6M6ZIZF5sYRDqymT32) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [SAN TURRONA REMIX](https://open.spotify.com/album/1LQ9PrZ8uGkKf5xBXB8tlY) | 3:02 |
 
-Snapshot ID: `aZ47gAAAAAAW/ZFALJ7eNMP6hF7t5qPP`
+Snapshot ID: `aZ+NAAAAAABIVHobm7Xu7b168GU2s2lm`

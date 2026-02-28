@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 
 > Allerbeste songs van de 80's! Cover: U2
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,945 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,987 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 15 | [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 |
 | 16 | [Walking On Sunshine](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Katrina & The Waves](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) | 3:58 |
 | 17 | [She Drives Me Crazy](https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw & The Cooked](https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F) | 3:35 |
-| 18 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 |
-| 19 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:46 |
+| 18 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:46 |
+| 19 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 |
 | 20 | [The Power Of Love](https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Greatest Hits: Huey Lewis And The News](https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj) | 3:54 |
 | 21 | [Every Little Thing She Does Is Magic](https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Remastered 2003\)](https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h) | 4:20 |
 | 22 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 85 | [It's The First Time \- Bonus Track](https://open.spotify.com/track/654dt49Xo0k44VF0xUhypy) | [Lois Lane](https://open.spotify.com/artist/6XtqgoAYl2mXQhn9ZmDEdt) | [Fortune Fairytales](https://open.spotify.com/album/0zruE1rfLXfU4MG2SSWrZn) | 3:58 |
 | 86 | [Zwart Wit](https://open.spotify.com/track/2NjUjtsJ7rs40IiQk48j3J) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Het Mooiste & Het Beste](https://open.spotify.com/album/3XiJiFN96NyaWs728epe59) | 3:05 |
 | 87 | [I Save The Day](https://open.spotify.com/track/3Ciofce12krSe0kpBO7UpL) | [Roberto Jacketti & The Scooters](https://open.spotify.com/artist/0tncX2ikoA4Vzhu2a3Paun) | [De Top 10 Van](https://open.spotify.com/album/02G0YlzB2Tu9mrWE21cl7i) | 3:12 |
-| 88 | [Here I Go Again \- 1987 Version; 2017 Remaster](https://open.spotify.com/track/0Cp7pkYwl4WCGRHhrfcsrg) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake \(30th Anniversary Edition\)](https://open.spotify.com/album/6ujO2Xzt247YCYIpAmcb4r) | 4:35 |
-| 89 | [You're a Friend of Mine](https://open.spotify.com/track/2BSm925aJog65vjU9FU1R3) | [Clarence Clemons](https://open.spotify.com/artist/7hiRmH8QebrJgMZYAbFtoO), [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Rescue / Hero](https://open.spotify.com/album/0tl7YJWMDU4zYj50yrkf0f) | 4:50 |
+| 88 | [You're a Friend of Mine](https://open.spotify.com/track/2BSm925aJog65vjU9FU1R3) | [Clarence Clemons](https://open.spotify.com/artist/7hiRmH8QebrJgMZYAbFtoO), [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Rescue / Hero](https://open.spotify.com/album/0tl7YJWMDU4zYj50yrkf0f) | 4:50 |
+| 89 | [Here I Go Again \- 1987 Version; 2017 Remaster](https://open.spotify.com/track/0Cp7pkYwl4WCGRHhrfcsrg) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake \(30th Anniversary Edition\)](https://open.spotify.com/album/6ujO2Xzt247YCYIpAmcb4r) | 4:35 |
 | 90 | [Twilight Zone](https://open.spotify.com/track/0UELrOrtGeATsDJDBx8y13) | [Golden Earring](https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS) | [Golden Earring Biggest Hits](https://open.spotify.com/album/4aLXgpBzfiugiGHtZhgHkm) | 7:58 |
 | 91 | [She's a Liar](https://open.spotify.com/track/2WoozePgluOVStfhp6jKsD) | [Dolly Dots](https://open.spotify.com/artist/7jQDCbxYM9t8bLCd2n8ONI) | [Hit Story](https://open.spotify.com/album/2J1TbXAta6c4XDQTmzRArs) | 3:49 |
 | 92 | [Rockin' The Trolls](https://open.spotify.com/track/091S7IqNRQoxuaK3bjs7yp) | [BZN](https://open.spotify.com/artist/1tF9HtIFX8fJfBo64FIJ8S) | [The Best Of Bzn](https://open.spotify.com/album/1RpZLWCTg891sLear2kA7J) | 3:06 |

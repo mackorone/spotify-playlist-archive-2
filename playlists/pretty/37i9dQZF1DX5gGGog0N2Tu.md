@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gGGog0N2Tu.md) - [plain]
 
 > ladies grab your drinks 🍸
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,908 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,886 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,12 +77,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gGGog0N2Tu.md) - [plain]
 | 67 | [Si Estuviésemos Juntos](https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 2:49 |
 | 68 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 |
 | 69 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 |
-| 70 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
+| 70 | [Wrecking Ball](https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:41 |
 | 71 | [New Rules](https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9) | 3:29 |
-| 72 | [Wrecking Ball](https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:41 |
-| 73 | [Actually Romantic](https://open.spotify.com/track/2x3mwb96B6TquRqMtbxUE1) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 2:43 |
-| 74 | [her](https://open.spotify.com/track/6G9YlbU3ByPJQvOFDRdwyM) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [her](https://open.spotify.com/album/6cUhnbhBBTFNb6z2w7llGx) | 2:51 |
-| 75 | [Good Days](https://open.spotify.com/track/4PMqSO5qyjpvzhlLI5GnID) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 4:39 |
+| 72 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
+| 73 | [her](https://open.spotify.com/track/6G9YlbU3ByPJQvOFDRdwyM) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [her](https://open.spotify.com/album/6cUhnbhBBTFNb6z2w7llGx) | 2:51 |
+| 74 | [Good Days](https://open.spotify.com/track/4PMqSO5qyjpvzhlLI5GnID) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 4:39 |
+| 75 | [Actually Romantic](https://open.spotify.com/track/2x3mwb96B6TquRqMtbxUE1) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 2:43 |
 | 76 | [With Or Without You](https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:55 |
 | 77 | [Mrs Magic](https://open.spotify.com/track/0TZejo18HlJ86OrWNsXKnw) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Mrs Magic](https://open.spotify.com/album/3Oovjf1PZOryLQSDKwjJzO) | 3:28 |
 | 78 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 |
@@ -94,11 +94,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gGGog0N2Tu.md) - [plain]
 | 84 | [Where Have You Been](https://open.spotify.com/track/3tyPOhuVnt5zd5kGfxbCyL) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk](https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T) | 4:02 |
 | 85 | [360](https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:13 |
 | 86 | [Hot N Cold](https://open.spotify.com/track/0iGckQFyv6svOfAbAY9aWJ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ) | 3:40 |
-| 87 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 |
-| 88 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 |
-| 89 | [Love Again](https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 4:18 |
-| 90 | [Before He Cheats](https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:19 |
-| 91 | [HOT TO GO!](https://open.spotify.com/track/3j6CeoBBlm40Msn1JE1SPD) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f) | 3:04 |
+| 87 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 |
+| 88 | [Love Again](https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 4:18 |
+| 89 | [Before He Cheats](https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:19 |
+| 90 | [HOT TO GO!](https://open.spotify.com/track/3j6CeoBBlm40Msn1JE1SPD) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f) | 3:04 |
+| 91 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 |
 | 92 | [So What](https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Funhouse \(Expanded Edition\)](https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at) | 3:35 |
 | 93 | [You've Got The Love](https://open.spotify.com/track/244AvzGQ4Ksa5637JQu5Gy) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 2:48 |
 | 94 | [Shakira: Bzrp Music Sessions, Vol\. 53/66](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53/66](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 |

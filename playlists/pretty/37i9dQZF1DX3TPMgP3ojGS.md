@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,050 likes - 100 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,119 likes - 100 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 24 | [Fields Of Love](https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Fields Of Love](https://open.spotify.com/album/1a1T9YpoJoiwP9iESKlJSN) | 2:17 |
 | 25 | [Wish](https://open.spotify.com/track/6xld6bFu5ST7nickcSK1lP) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Wish](https://open.spotify.com/album/5tkPTjFGKUGziNsROnBfya) | 2:48 |
 | 26 | [Muse](https://open.spotify.com/track/3SV20Qhy0Ttd1f8fIZQiUT) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Muse](https://open.spotify.com/album/79O1A7s9FraBt1gmppbMt3) | 2:13 |
-| 27 | [Fiume](https://open.spotify.com/track/0kpHSnJTru2qYTk0WFDsyA) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Fiume](https://open.spotify.com/album/7o91RvyJGtNZmoVe68zkSk) | 2:20 |
-| 28 | [Peace flow](https://open.spotify.com/track/3IwddX0zjnQ7am17WdP66M) | [Jon Albreit](https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc) | [Peace flow](https://open.spotify.com/album/26L1oUjqDrhosLQuYdHAcm) | 2:17 |
-| 29 | [Autumn Sky](https://open.spotify.com/track/7yQvxdXqotBSRCAYOIOGVt) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Autumn Sky](https://open.spotify.com/album/4M3iJjlUckhmZi2HZLfWAT) | 2:38 |
-| 30 | [Serene](https://open.spotify.com/track/4fG5KccAJKYk1EguGbGKt0) | [Will Kaufman](https://open.spotify.com/artist/1qw4AAqrPMSwFoEc1RBRLU) | [Serene](https://open.spotify.com/album/0U8AH8FOjVginjHUhK73Ov) | 2:26 |
+| 27 | [Peace flow](https://open.spotify.com/track/3IwddX0zjnQ7am17WdP66M) | [Jon Albreit](https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc) | [Peace flow](https://open.spotify.com/album/26L1oUjqDrhosLQuYdHAcm) | 2:17 |
+| 28 | [Fiume](https://open.spotify.com/track/0kpHSnJTru2qYTk0WFDsyA) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Fiume](https://open.spotify.com/album/7o91RvyJGtNZmoVe68zkSk) | 2:20 |
+| 29 | [Serene](https://open.spotify.com/track/4fG5KccAJKYk1EguGbGKt0) | [Will Kaufman](https://open.spotify.com/artist/1qw4AAqrPMSwFoEc1RBRLU) | [Serene](https://open.spotify.com/album/0U8AH8FOjVginjHUhK73Ov) | 2:26 |
+| 30 | [Autumn Sky](https://open.spotify.com/track/7yQvxdXqotBSRCAYOIOGVt) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Autumn Sky](https://open.spotify.com/album/4M3iJjlUckhmZi2HZLfWAT) | 2:38 |
 | 31 | [Poesia](https://open.spotify.com/track/7F6hlMdM7OrUw8C1W4pjAC) | [Fernando Alegre](https://open.spotify.com/artist/3dz7P4W10BnNyKKvT8RWWn) | [Poesia](https://open.spotify.com/album/65XKtO4I2xUDHKsrMjtUtW) | 2:05 |
 | 32 | [Brume Matinale](https://open.spotify.com/track/0jFnlaavbGTER2XNnUztEF) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Brume Matinale](https://open.spotify.com/album/3sMktb2iVDvqtL4UXVcJDA) | 2:46 |
 | 33 | [Through The Blue \- Piano Version](https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Through The Blue \(Piano Version\)](https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx) | 3:45 |
@@ -61,14 +61,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 51 | [The Coming Day](https://open.spotify.com/track/7J9IGMMsPyzWh2trBv6OQT) | [Jack Pelayo](https://open.spotify.com/artist/3t11hg9zFYERlfzuO211YG) | [The Coming Day](https://open.spotify.com/album/6go0e0725Fm8wBzypakTMa) | 2:32 |
 | 52 | [Deja](https://open.spotify.com/track/5cm73dj9ydNYALjjUOVPhu) | [Taganema](https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d) | [Deja](https://open.spotify.com/album/2UkFNg59LzKPIrdlEWgZGq) | 2:25 |
 | 53 | [Grand Canyon](https://open.spotify.com/track/2BbH50TRv9Qel8dnaE06wm) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Grand Canyon](https://open.spotify.com/album/75KtznFXBGPKDaqIN9hBXZ) | 2:50 |
-| 54 | [Le Recueillement](https://open.spotify.com/track/6fHq66kBS2OJiWu3ZGNZj9) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Le Recueillement](https://open.spotify.com/album/28bPi73lPKGOd8x9AeYFm6) | 2:27 |
-| 55 | [Without End](https://open.spotify.com/track/5w3O0ONMHCM9YmTS96fplL) | [Aksel Krystad](https://open.spotify.com/artist/6HWqfAvhFGVzX04XxDZBVw) | [Without End](https://open.spotify.com/album/7ICabDvPYVzaAOL0Nt7JxD) | 2:12 |
-| 56 | [Felt Improv No\. 4](https://open.spotify.com/track/4U9X7vhbPaRiYihnQOSyj5) | [Elias Kiefer](https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB) | [Felt Improv No\. 4](https://open.spotify.com/album/1nKAO1c4f6iVYEarQHaHg4) | 2:05 |
-| 57 | [Noktúrna \- Upright Piano](https://open.spotify.com/track/0uSyj4g5Qh5zCcbyMJufbY) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Noktúrna Variations](https://open.spotify.com/album/26z4j76XfqW15DPpGXEx3D) | 2:02 |
-| 58 | [Ellie](https://open.spotify.com/track/4QfPxrgEAfWt0DEjrR1CXw) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Ellie](https://open.spotify.com/album/5v7bkrqDm8YY8kWWgRQ7cw) | 2:58 |
-| 59 | [To New Beginnings](https://open.spotify.com/track/7IrrIzxSk3OO48hW6dpEus) | [Una Luna](https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7) | [To New Beginnings](https://open.spotify.com/album/6NCZQQodsLFgqxVJ5jTbui) | 2:09 |
+| 54 | [Without End](https://open.spotify.com/track/5w3O0ONMHCM9YmTS96fplL) | [Aksel Krystad](https://open.spotify.com/artist/6HWqfAvhFGVzX04XxDZBVw) | [Without End](https://open.spotify.com/album/7ICabDvPYVzaAOL0Nt7JxD) | 2:12 |
+| 55 | [Felt Improv No\. 4](https://open.spotify.com/track/4U9X7vhbPaRiYihnQOSyj5) | [Elias Kiefer](https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB) | [Felt Improv No\. 4](https://open.spotify.com/album/1nKAO1c4f6iVYEarQHaHg4) | 2:05 |
+| 56 | [Noktúrna \- Upright Piano](https://open.spotify.com/track/0uSyj4g5Qh5zCcbyMJufbY) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Noktúrna Variations](https://open.spotify.com/album/26z4j76XfqW15DPpGXEx3D) | 2:02 |
+| 57 | [Ellie](https://open.spotify.com/track/4QfPxrgEAfWt0DEjrR1CXw) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Ellie](https://open.spotify.com/album/5v7bkrqDm8YY8kWWgRQ7cw) | 2:58 |
+| 58 | [To New Beginnings](https://open.spotify.com/track/7IrrIzxSk3OO48hW6dpEus) | [Una Luna](https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7) | [To New Beginnings](https://open.spotify.com/album/6NCZQQodsLFgqxVJ5jTbui) | 2:09 |
+| 59 | [Full Bloom](https://open.spotify.com/track/04i9TIi97Aoh1xjrCCM0aI) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Full Bloom](https://open.spotify.com/album/1iri0k7a8k3f4QR7krIGlT) | 2:22 |
 | 60 | [notturno](https://open.spotify.com/track/3iyp6nZ8WqoE5skWVldGZ3) | [noxs](https://open.spotify.com/artist/5xo3r2sstRZK7O5KLVzwxW) | [notturno](https://open.spotify.com/album/6RFb2UNyefebVq8C0o5Xv3) | 2:52 |
-| 61 | [Full Bloom](https://open.spotify.com/track/04i9TIi97Aoh1xjrCCM0aI) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Full Bloom](https://open.spotify.com/album/1iri0k7a8k3f4QR7krIGlT) | 2:22 |
+| 61 | [Le Recueillement](https://open.spotify.com/track/6fHq66kBS2OJiWu3ZGNZj9) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Le Recueillement](https://open.spotify.com/album/28bPi73lPKGOd8x9AeYFm6) | 2:27 |
 | 62 | [Just Stay](https://open.spotify.com/track/61PEtXxbmpaVQDRNxcE0IJ) | [Tristaan Wilkes](https://open.spotify.com/artist/4awKyidTqtd5z49BGOLvck) | [Just Stay](https://open.spotify.com/album/2No724SMCYYdHbpY4DnFeO) | 2:03 |
 | 63 | [Release from silence](https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9) | [Patrick Buote](https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74) | [Release from silence](https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ) | 2:17 |
 | 64 | [Diaphanous](https://open.spotify.com/track/3xdDoLDyvsMgyl1BwVaZ5E) | [Arden Brooks](https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m) | [Diaphanous](https://open.spotify.com/album/11WJw1yb4yuNMtrwqU8FHS) | 2:53 |
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 71 | [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 |
 | 72 | [A Gentle Sunlight](https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5) | [James Quinn](https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V) | [A Gentle Sunlight](https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF) | 1:57 |
 | 73 | [Hearts of Desire](https://open.spotify.com/track/6CWzmoxDJJdIJ5GImw0RHv) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Hearts of Desire](https://open.spotify.com/album/3Wt4j3Ro26gcIOYvmp3DLb) | 2:19 |
-| 74 | [Sound Of Mind](https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Sound Of Mind](https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk) | 2:02 |
-| 75 | [Forevermore](https://open.spotify.com/track/3xZBHTUT1gLAmDbPz77ETo) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Forevermore](https://open.spotify.com/album/1uaB2cXT94Sl6V3eN2UFsW) | 2:34 |
-| 76 | [A Bad Dream That Will Pass Away](https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Bad Dream That Will Pass Away](https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm) | 2:56 |
+| 74 | [Forevermore](https://open.spotify.com/track/3xZBHTUT1gLAmDbPz77ETo) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Forevermore](https://open.spotify.com/album/1uaB2cXT94Sl6V3eN2UFsW) | 2:34 |
+| 75 | [A Bad Dream That Will Pass Away](https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Bad Dream That Will Pass Away](https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm) | 2:56 |
+| 76 | [Sound Of Mind](https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Sound Of Mind](https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk) | 2:02 |
 | 77 | [Mare Nostrum](https://open.spotify.com/track/08NywOqVYmiuQ8mLpQaUeG) | [Lotus Laverne](https://open.spotify.com/artist/59aZyEO8IQYZfEpsOV8vkj) | [Mare Nostrum](https://open.spotify.com/album/0ZMMkZ9tnJNTQZf66cHlp7) | 3:15 |
 | 78 | [Testimony](https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 2:44 |
 | 79 | [When you were near](https://open.spotify.com/track/1hsC8r1VfGSuGCwLWbzmEh) | [Isabella Morales](https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL) | [Morning Rain](https://open.spotify.com/album/44kNZrMvuQjZamAb3vmuvB) | 2:40 |

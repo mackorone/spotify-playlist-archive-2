@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-2,133 songs - 4 day 17 hr 3 min
+2,134 songs - 4 day 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -888,7 +888,8 @@
 | [In the Moment \- Adriatique Remix](https://open.spotify.com/track/6YmTRcr74slEya3cvMsR6y) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [In the Moment \(Adriatique Remix\)](https://open.spotify.com/album/4f7J80jlBhnA3TSWdjc5KF) | 4:10 | 2025-04-22 | 2025-05-04 |
 | [INFINITOS COMO EL MAR](https://open.spotify.com/track/2asUhQ9DDNtVinkQ095Rhm) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [INFINITOS COMO EL MAR](https://open.spotify.com/album/22s9FE5YBqxukxNlmxu7M1) | 3:29 | 2025-08-19 | 2025-09-03 |
 | [Inglés En Miami](https://open.spotify.com/track/3Y1xjjepdqMP141ipYCAqA) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [¿Dónde Es El After?](https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG) | 3:22 | 2026-01-20 | 2026-02-18 |
-| [Innerbloom](https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 9:38 | 2026-02-21 |  |
+| [Innerbloom](https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 9:38 | 2026-02-21 | 2026-02-28 |
+| [Innerbloom](https://open.spotify.com/track/77kMHM0D2MgGTjoL2308Lm) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/6EGK4tLQTEj8mnfTh0nqa5) | 9:38 | 2026-02-27 |  |
 | [Inocente](https://open.spotify.com/track/6gV8ALkSHfJi7Bprabr1FC) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [Inocente](https://open.spotify.com/album/1IwuM5jEXE9v58NVKUyrwk) | 2:51 | 2024-01-29 | 2024-02-14 |
 | [Internet Girl](https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Internet Girl](https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF) | 2:43 | 2026-01-20 | 2026-01-24 |
 | [intro \(end of the world\)](https://open.spotify.com/track/2o1pb13quMReXZqE7jWsgq) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 1:32 | 2024-03-30 | 2024-04-03 |

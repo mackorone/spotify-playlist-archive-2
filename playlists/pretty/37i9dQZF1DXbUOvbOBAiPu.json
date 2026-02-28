@@ -1,6 +1,6 @@
 {
   "description": "New music from Ang\u00e8le x Justice, Bruno Mars, Jolagreen23 x Tiakola and more...",
-  "num_followers": 48778,
+  "num_followers": 48944,
   "original_name": "New Music Friday BE",
   "owner": {
     "name": "Spotify",
@@ -216,8 +216,8 @@
           "url": "https://open.spotify.com/artist/5yRYgJHwb6gtIJ59POLBes"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 8",
+      "duration_ms": 226906,
+      "name": "Boven",
       "url": "https://open.spotify.com/track/26cLCJMBR5iRvY0KNUtFUa"
     },
     {
@@ -343,6 +343,22 @@
     {
       "added_at": "2026-02-26 23:00:57",
       "album": {
+        "name": "DEADLINE",
+        "url": "https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 195402,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB"
+    },
+    {
+      "added_at": "2026-02-26 23:00:57",
+      "album": {
         "name": "High Hopes",
         "url": "https://open.spotify.com/album/6AtzRG71xMZnmo8OPo7n4O"
       },
@@ -352,8 +368,8 @@
           "url": "https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 10",
+      "duration_ms": 259381,
+      "name": "Play Me Like A Synth",
       "url": "https://open.spotify.com/track/0qcVf49kmCwA2vG0KEpRps"
     },
     {
@@ -1263,6 +1279,42 @@
       "duration_ms": 245441,
       "name": "DISNEY PRINCESS",
       "url": "https://open.spotify.com/track/1DH4XuBpL3HreZ7TmawEjR"
+    },
+    {
+      "added_at": "2026-02-26 23:00:57",
+      "album": {
+        "name": "Keychain (FROM THE FILM K-POPS!)",
+        "url": "https://open.spotify.com/album/58x92u1JINTa5K7lTzfU02"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 170786,
+      "name": "Keychain - FROM THE FILM K-POPS!",
+      "url": "https://open.spotify.com/track/3Q3WZ7sJLoIZQKY7hWFyQu"
+    },
+    {
+      "added_at": "2026-02-26 23:00:57",
+      "album": {
+        "name": "FLAMMABLE",
+        "url": "https://open.spotify.com/album/5FS2IqrUicInbFJOS4bAHH"
+      },
+      "artists": [
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "duration_ms": 197551,
+      "name": "FLAMMABLE",
+      "url": "https://open.spotify.com/track/1d5sIc2QcHgSMYvGcnsLhe"
     },
     {
       "added_at": "2026-02-26 23:00:57",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 
 > This is Jai Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,380 likes - 44 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,378 likes - 44 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 3 | [All Your Love](https://open.spotify.com/track/54myGd3cApYi3ZSSXseWmr) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [All Your Love](https://open.spotify.com/album/4EcmsY4avimrHEiYWgJxSD) | 2:08 |
 | 4 | [Indian Summer](https://open.spotify.com/track/05q78FY1IOa85XzPipVmvJ) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Indian Summer](https://open.spotify.com/album/19MHrbDm0HLUSXZf9FTjji) | 4:08 |
 | 5 | [Deep Down](https://open.spotify.com/track/7iWa3V2lqxh7AtMVFju1W8) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Deep Down](https://open.spotify.com/album/6EamBf1vIof4uCfBkRKadw) | 3:05 |
-| 6 | [Moon Rider \(feat\. Wrabel\)](https://open.spotify.com/track/3U1lhPo6Gpd7URhJyZJtAr) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Moon Rider \(feat\. Wrabel\)](https://open.spotify.com/album/7BabZSvjym8he0rkorBY3v) | 3:38 |
-| 7 | [Starlight](https://open.spotify.com/track/6ATcx30cyXfzIPg2nZ3WJI) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [Starlight](https://open.spotify.com/album/72iKM3lr1uD9dMu20pjTYn) | 3:43 |
+| 6 | [Starlight](https://open.spotify.com/track/6ATcx30cyXfzIPg2nZ3WJI) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [Starlight](https://open.spotify.com/album/72iKM3lr1uD9dMu20pjTYn) | 3:43 |
+| 7 | [Moon Rider \(feat\. Wrabel\)](https://open.spotify.com/track/3U1lhPo6Gpd7URhJyZJtAr) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Moon Rider \(feat\. Wrabel\)](https://open.spotify.com/album/7BabZSvjym8he0rkorBY3v) | 3:38 |
 | 8 | [Heartbeat](https://open.spotify.com/track/3sK0vSa0R8YjWd5wARutEM) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [Heartbeat](https://open.spotify.com/album/1TgoCuBwx1xQ4a0o3KE2Vj) | 2:35 |
 | 9 | [Lose My Mind \(feat\. Mr Gabriel\)](https://open.spotify.com/track/4qCGMn3A5NNy8sLzHDyCC3) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 4:18 |
 | 10 | [Looper](https://open.spotify.com/track/5tlWfIu4uaZthTMj7xKw8d) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Lyncs](https://open.spotify.com/artist/0huGFU0XRUrnGBpgRzZ2Pr) | [Nothing Left To Lose](https://open.spotify.com/album/3BAKHZSPd3BVA9WccLo78l) | 3:00 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 27 | [eye2eye \- Jai Wolf Remix](https://open.spotify.com/track/2SwWCfAwxum7Yl8F6AdDw3) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [eye2eye \(Jai Wolf Remix\)](https://open.spotify.com/album/1MBOL6X1XLaNkqVHrSbgTv) | 4:13 |
 | 28 | [\(I Dread The Day He Takes You To\) Paris \[feat\. MYRNE\] \(Demo\)](https://open.spotify.com/track/1bAGF9YEg0miDI2kacMeqU) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [\(I Dread The Day He Takes You To\) Paris \[feat\. MYRNE\] \(Demo\)](https://open.spotify.com/album/23xleOZIFdtabJmD7zl9bt) | 3:38 |
 | 29 | [This Song Reminds Me Of You](https://open.spotify.com/track/0b7vBIHMp6A4e8PxFElyhc) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 3:54 |
-| 30 | [Water Sign \(feat\. Aluna\)](https://open.spotify.com/track/5P1WwERubwLGRt2Vz5nY6q) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 3:29 |
-| 31 | [Hikikomori \- Demo](https://open.spotify.com/track/2Ot9AdHrKtBZbNRuGqI8hO) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Hikikomori](https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa) | 2:42 |
+| 30 | [Hikikomori \- Demo](https://open.spotify.com/track/2Ot9AdHrKtBZbNRuGqI8hO) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Hikikomori](https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa) | 2:42 |
+| 31 | [Water Sign \(feat\. Aluna\)](https://open.spotify.com/track/5P1WwERubwLGRt2Vz5nY6q) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 3:29 |
 | 32 | [Heaven Is Calling \(SHAKING Dub\)](https://open.spotify.com/track/1rZcOvYX5w9RytcyGmkufC) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [SHAKING](https://open.spotify.com/artist/5ymmrBnnRTW23bKo7Fpbx6) | [Heaven Is Calling \(SHAKING Dub\)](https://open.spotify.com/album/2Hkn1CAxLihCszfmJ8DeFO) | 3:19 |
 | 33 | [Higher](https://open.spotify.com/track/14AEzrlCC5yrrZ9ZjVMYAN) | [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Higher](https://open.spotify.com/album/6s8hEzxR2gLlkonzqr0nSz) | 3:26 |
 | 34 | [Tennis Skirt \(feat\. Ella Boh\) \(Demo\)](https://open.spotify.com/track/6Y77YLQpPg7NOY8f9UlnCx) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [Tennis Skirt \(feat\. Ella Boh\) \[Demo\]](https://open.spotify.com/album/32uCBCbvYtW2kqSQbaoj4C) | 3:06 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 43 | [Flight Log 822](https://open.spotify.com/track/384IaC21cJhTpjKJkz8tz7) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 2:03 |
 | 44 | [My Tears Could Fill A Well](https://open.spotify.com/track/0zUZgHAxB1CK1wiwvokVZu) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 6:06 |
 
-Snapshot ID: `aZ47gAAAAAAsJYc0JwGweJbPSsJ2GdoH`
+Snapshot ID: `aZ+NAAAAAAB/IVgQEl5QKoHwIPPha+ok`

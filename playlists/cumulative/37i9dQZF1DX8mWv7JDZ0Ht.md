@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Balara
 
-897 songs - 1 day 20 hr 49 min
+898 songs - 1 day 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -552,6 +552,7 @@
 | [Nó de Marinheiro](https://open.spotify.com/track/5NpflpKeOfJcHaaczrJgGj) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Nó de Marinheiro](https://open.spotify.com/album/54DlwnuTFRJrla9vBfrleb) | 3:03 | 2023-07-28 | 2023-11-07 |
 | [nós](https://open.spotify.com/track/1yzJsmZJwSS436yameVwGH) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [nós](https://open.spotify.com/album/7ywwCTGhvOCMSFL78TtShC) | 2:46 | 2023-06-16 | 2023-09-30 |
 | [Nós Dois](https://open.spotify.com/track/0ooea8ptVQNZehNygA91ng) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Nós Dois](https://open.spotify.com/album/1EhM4M5YnaZUzbrxuTwlVR) | 2:56 | 2022-05-13 | 2022-12-10 |
+| [Nós Dois \- Ao Vivo Na Casa da Colina](https://open.spotify.com/track/6Mg2CaEissVzViqC5jgveU) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [APGC \(Ao Vivo Na Casa Da Colina\)](https://open.spotify.com/album/4zl5y4as3m2eZS8DFRfqVt) | 3:15 | 2026-02-27 |  |
 | [NÓS NUS](https://open.spotify.com/track/3zRoNvRTovjZcycfZw7N7T) | [Leo Cavalcanti](https://open.spotify.com/artist/4kCmFwffgs5qxAX2kDeOru), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [NÓS NUS](https://open.spotify.com/album/5Q0BZT7rQ2pGzWaMXEVPgR) | 5:04 | 2024-01-26 | 2024-10-12 |
 | [O Amor é uma Loucura](https://open.spotify.com/track/0i5zSj2cTJxQswf83MZ8uM) | [Manu Ramalho](https://open.spotify.com/artist/3e3biexaZd806srNnT6Njw) | [O Amor é uma Loucura](https://open.spotify.com/album/6m6O3tgJvvQ0YyEGdqvsIw) | 3:29 | 2024-10-11 |  |
 | [O Dia De Amanhã \- Ao Vivo](https://open.spotify.com/track/0JBGw4tc3YPt2zsTUoW8yX) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [A Bolha Ao Vivo em São Paulo, Pt\. 1](https://open.spotify.com/album/3wSkX7zkudaB1kR3b1xs9f) | 3:24 | 2023-09-29 | 2023-12-02 |
@@ -599,7 +600,7 @@
 | [Pedra Preciosa](https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Pedra Preciosa](https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY) | 3:24 | 2024-02-23 | 2024-03-30 |
 | [pele \- ao vivo](https://open.spotify.com/track/6Obz4fjPvcQJUyH2kqd3vS) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [Acústico Luana Berti](https://open.spotify.com/album/0aBngiuQTX84LPbuqeJhAy) | 2:40 | 2023-08-25 | 2023-09-30 |
 | [penhasco\. \- \(acústico\)](https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [penhasco\. \(acústico\)](https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6) | 3:33 | 2022-05-13 | 2022-09-03 |
-| [pensando direito](https://open.spotify.com/track/57FSQIGpI6WZm4ko6mGOVJ) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [pensando direito](https://open.spotify.com/album/3p4jz81rcmq55rPjyWf2NC) | 3:55 | 2026-01-23 |  |
+| [pensando direito](https://open.spotify.com/track/57FSQIGpI6WZm4ko6mGOVJ) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [pensando direito](https://open.spotify.com/album/3p4jz81rcmq55rPjyWf2NC) | 3:55 | 2026-01-23 | 2026-02-28 |
 | [pequena](https://open.spotify.com/track/2wx2CPCAjGOnYH18MVbcb1) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [pequena](https://open.spotify.com/album/6Jf6qOxMnq36H3s9HdHgOJ) | 2:42 | 2022-05-13 | 2023-01-21 |
 | [perfeita](https://open.spotify.com/track/1lRFP08SSrTCdmjfRK40t1) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [perfeita](https://open.spotify.com/album/0p5iUTyG5QmUWL0e2LD0qO) | 3:15 | 2023-06-23 | 2023-08-05 |
 | [Perigo](https://open.spotify.com/track/7zP9OLU7uItlPuoxrYGN1K) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Quem É Ela?](https://open.spotify.com/album/632zAF6KJH5GFji5N6SoN9) | 2:38 | 2023-09-01 | 2024-02-03 |

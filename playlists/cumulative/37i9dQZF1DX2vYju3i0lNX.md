@@ -4,7 +4,7 @@
 
 > Mellow jazz to stay focused or unwind.
 
-1,311 songs - 3 day 5 hr 1 min
+1,314 songs - 3 day 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [Heartstring](https://open.spotify.com/track/4S6nFmL0sTrPWqbMet7Q3e) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Heartstring](https://open.spotify.com/album/7vEcdZNrkIzxS9uGpBQfLM) | 2:48 | 2023-09-22 | 2025-11-19 |
 | [Heartstrings](https://open.spotify.com/track/6DWlgYRquRmphcMPBCL6NF) | [Emily Green Trio](https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg) | [Heartstrings](https://open.spotify.com/album/1rmP7N7m9ZyLGnN2R2bVSx) | 2:41 | 2023-08-17 | 2025-10-01 |
 | [Heaven here](https://open.spotify.com/track/2J0A1Z7djWS3n0vSiyvgwQ) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Heaven here](https://open.spotify.com/album/5QtsXrImWEImIVTEV3NIai) | 3:32 | 2023-08-10 | 2024-08-13 |
+| [Heirloom](https://open.spotify.com/track/1QL68tT5Wxlv0sM1ovj1aZ) | [Catalano Trio](https://open.spotify.com/artist/14HvdAFCqZPvawZWs20Qu8) | [Heirloom](https://open.spotify.com/album/2VuobD2pcSXd1WqzQoHg9b) | 2:44 | 2026-02-27 |  |
 | [Hello From Above](https://open.spotify.com/track/7f8bsD5ag4ygvMRtUPvSu0) | [Ordinary Sparks](https://open.spotify.com/artist/3WIlhMXPhYYiil5u2n47yk) | [Blues For Elsie](https://open.spotify.com/album/55CmXhW64nZfXpEeo1ARyk) | 3:40 | 2023-08-10 | 2024-11-13 |
 | [Hello, Young Lovers](https://open.spotify.com/track/1WvROGTTw41o8BQ2zHx6sg) | [Southside Players](https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh) | [Hello, Young Lovers](https://open.spotify.com/album/4lkUwuT4R63CpwvTPse8aU) | 3:54 | 2023-06-01 | 2025-03-11 |
 | [Here It Is](https://open.spotify.com/track/5Y09UPBhAV1diMYpsTtVD9) | [Les trois copines](https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx) | [Here It Is](https://open.spotify.com/album/4v0eJPx0AOAzFXMv1S9x0g) | 3:08 | 2023-01-05 | 2025-11-19 |
@@ -599,7 +600,7 @@
 | [Jazz Noir](https://open.spotify.com/track/2Sid2Qb4Y67gv6b6FtXMc2) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Jazz Noir](https://open.spotify.com/album/2v0Ob2tKgm3j6j0Ro2uuTy) | 2:59 | 2024-04-16 | 2025-03-11 |
 | [Jazz Noir](https://open.spotify.com/track/34X5CVjvYwM4yaPY1D8bAd) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Jazz Noir](https://open.spotify.com/album/3C4NdEsW6ibEIqZbXkxNf9) | 3:47 | 2023-08-10 | 2025-11-19 |
 | [Jazz Noir Nightscape](https://open.spotify.com/track/5IAnYEubDYn72p8Lhoa3m4) | [James Earle Trio](https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4) | [Jazz Noir Nightscape](https://open.spotify.com/album/7aNwroY1IgNWy81pnek79Z) | 2:56 | 2024-04-02 | 2025-07-24 |
-| [Jazz Odyssey](https://open.spotify.com/track/3n3gfS8H6kpyqF2x5vUdLT) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Jazz Odyssey](https://open.spotify.com/album/3g84J8lIoF12N7cnE9IrXa) | 2:50 | 2023-08-31 |  |
+| [Jazz Odyssey](https://open.spotify.com/track/3n3gfS8H6kpyqF2x5vUdLT) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Jazz Odyssey](https://open.spotify.com/album/3g84J8lIoF12N7cnE9IrXa) | 2:50 | 2023-08-31 | 2026-02-28 |
 | [Jazzanooga](https://open.spotify.com/track/3itQmY3qDISKklo9IYsVsq) | [Chattanooga Trio](https://open.spotify.com/artist/3ZXld6SkmayTEPuJygbwy6) | [Jazzanooga](https://open.spotify.com/album/61nhEXYkNaUn6wgJQzNJeO) | 2:47 | 2021-12-07 | 2023-04-28 |
 | [Jim's Café](https://open.spotify.com/track/3osD7r7AHLEiE5eqs4mHHw) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Jim's Café](https://open.spotify.com/album/0750ovrMxM32aWIjznRTJf) | 3:30 | 2023-11-17 | 2025-11-19 |
 | [Journee](https://open.spotify.com/track/7xrFuH4mvXuM3JqVA3dRWi) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [Journee](https://open.spotify.com/album/2NFTbliyRp1FhC7gmJRzLa) | 3:38 | 2023-03-30 | 2023-05-05 |
@@ -976,6 +977,7 @@
 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/5fBpjh6BGlsKG8n328kcF4) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [Smoke Gets In Your Eyes](https://open.spotify.com/album/2AFoG96YrQjDuCwIxJCGj1) | 4:26 | 2022-04-11 | 2022-06-01 |
 | [Smooth Sailing](https://open.spotify.com/track/6mc3HM5dKCfvSW3QXLv13c) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [Smooth Sailing](https://open.spotify.com/album/3LmsDFcYTc3RTmLgd9TCac) | 3:19 | 2025-08-19 | 2025-10-08 |
 | [Smooth Sailing](https://open.spotify.com/track/6yRs3JOb7GP0PYhlG6hVbe) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Smooth Sailing](https://open.spotify.com/album/1k28WBci9JPB2zCTplu2GJ) | 2:05 | 2023-08-10 | 2025-11-19 |
+| [Sneaky Pete](https://open.spotify.com/track/1IZph8cPoXsBsbVWNUO5ay) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Sneaky Pete](https://open.spotify.com/album/693KtCHCKKr6arplu4FZvU) | 3:02 | 2026-02-27 |  |
 | [Sno Peas](https://open.spotify.com/track/0miIOTXulrs7IwTwsstbjG) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [On A Misty Night](https://open.spotify.com/album/4wOwSu9EKBoAywQp51RVV9) | 2:52 | 2021-12-07 | 2022-10-14 |
 | [Snowdrops](https://open.spotify.com/track/0yL40qTyxArMV82ufopwdC) | [Le Bourget](https://open.spotify.com/artist/39QGocubAYKDY8IlHzs6ZL) | [Snowdrops](https://open.spotify.com/album/3PVgdMK1JW7tlRGHP1r6Zp) | 3:45 | 2024-02-02 | 2024-08-07 |
 | [Snø](https://open.spotify.com/track/1CgH8hDlSPvGBsSGKaXZAa) | [Hviid Larsen](https://open.spotify.com/artist/2a9veYX5T7WD5xz0ve9VDO) | [Snø](https://open.spotify.com/album/3jsq6OarWAvAcOvnBl0eg5) | 3:17 | 2022-09-06 | 2023-04-14 |
@@ -992,7 +994,7 @@
 | [Someone Elses Love](https://open.spotify.com/track/0NVDCHyEn5eLwfcxx2QFC6) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [Someone Elses Love](https://open.spotify.com/album/0UF9P6f5lz0xSlJpg7X4kv) | 3:43 | 2022-08-30 | 2024-12-17 |
 | [Someone To Watch Over Me](https://open.spotify.com/track/1Iup2scUgNLhmq4q7rLG6l) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Someone To Watch Over Me](https://open.spotify.com/album/2yIGS4xpQFVmE1mjj55buK) | 3:38 | 2023-08-10 | 2024-07-23 |
 | [Someone Who Cares](https://open.spotify.com/track/0eZ3jhJZ0CaJlzA2P8aFg1) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Someone Who Cares](https://open.spotify.com/album/4Rs1KWViTe3YQA4VurK36S) | 3:36 | 2025-05-05 |  |
-| [Something about him](https://open.spotify.com/track/18L4SUEMJ0jJKmajWCCRP7) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Something about him](https://open.spotify.com/album/091PRS9X1pT5pEVDFAd7Vx) | 2:40 | 2023-05-11 |  |
+| [Something about him](https://open.spotify.com/track/18L4SUEMJ0jJKmajWCCRP7) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Something about him](https://open.spotify.com/album/091PRS9X1pT5pEVDFAd7Vx) | 2:40 | 2023-05-11 | 2026-02-28 |
 | [Something Is Off](https://open.spotify.com/track/2kBY2bMjKdRSWbu3zhh2Ap) | [Nouvelle Marée](https://open.spotify.com/artist/53xh7BAl56yKW1LrqaLqdq) | [Something Is Off](https://open.spotify.com/album/46tskQAFmLIuN7IQVyTmAC) | 3:55 | 2024-04-10 | 2025-02-11 |
 | [Sometime Ago](https://open.spotify.com/track/6HZgxhesyOy8jkTiAFfQmR) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [Sometime Ago](https://open.spotify.com/album/3gDtm0TuOChwQxe1sg1W9q) | 2:40 | 2022-08-30 | 2025-07-24 |
 | [Sometimes](https://open.spotify.com/track/1o4HX3IdpPdoT3zB8bThhb) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Sometimes](https://open.spotify.com/album/0shZE0rf62F4ei2ioJs9Fs) | 3:44 | 2023-12-22 | 2025-11-19 |
@@ -1005,7 +1007,7 @@
 | [Song of The Sirens](https://open.spotify.com/track/6SNXb4pUG3LjS2601AKT3G) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Song of The Sirens](https://open.spotify.com/album/4pBG3KdjOugx20kMiSGTmP) | 3:35 | 2022-06-07 | 2023-02-24 |
 | [Sori](https://open.spotify.com/track/1RoDRvSNJtXHXlsSOPeH14) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [Sori](https://open.spotify.com/album/1d1dA4HA9jDNfYm982aBky) | 4:02 | 2025-02-20 | 2025-11-19 |
 | [Soulful Serenade](https://open.spotify.com/track/01h2N3MrwVDnvKHJV1eHiA) | [Anthony Hide Trio](https://open.spotify.com/artist/0vF49H73xGuKS1vRSNN3av) | [Soulful Serenade](https://open.spotify.com/album/3L9yVSvfZjMNBhnKp0L35S) | 3:50 | 2024-01-19 |  |
-| [Soulful Stroll](https://open.spotify.com/track/5p5ia2SufA5Tl9FUjHDUky) | [James Earle Trio](https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4) | [Soulful Stroll](https://open.spotify.com/album/2HAfP5HvWcL2pByucZhUZL) | 3:50 | 2023-08-17 |  |
+| [Soulful Stroll](https://open.spotify.com/track/5p5ia2SufA5Tl9FUjHDUky) | [James Earle Trio](https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4) | [Soulful Stroll](https://open.spotify.com/album/2HAfP5HvWcL2pByucZhUZL) | 3:50 | 2023-08-17 | 2026-02-28 |
 | [Sound Of Absence](https://open.spotify.com/track/0uVq57CNdVgoBgNJz7vg8c) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Sound Of Absence](https://open.spotify.com/album/4BdhnKPxfPRveQXAqkiwzw) | 3:06 | 2024-05-30 | 2025-12-03 |
 | [South Valley Park](https://open.spotify.com/track/11oNCdjoD73GQdsDIICXE3) | [Le Bourget](https://open.spotify.com/artist/39QGocubAYKDY8IlHzs6ZL) | [South Valley Park](https://open.spotify.com/album/75Xh4ArRbt72Jy27GCF2FD) | 3:57 | 2024-05-23 | 2024-10-08 |
 | [Speak Low](https://open.spotify.com/track/1DvyJsR76IH3HPxEC0DQ67) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [Speak Low](https://open.spotify.com/album/4rMsJgxLDc3JHVM4b9Nibp) | 2:44 | 2023-09-22 | 2025-11-19 |
@@ -1056,6 +1058,7 @@
 | [Swift](https://open.spotify.com/track/44jzOlKl5WL7YT6KYP7uU6) | [Magnolia](https://open.spotify.com/artist/3W7N9zZpdLMW6E0JfDmPKx) | [Swift](https://open.spotify.com/album/3yuhZHaZEgzbVrQsN3nuTw) | 3:24 | 2023-08-31 | 2025-10-01 |
 | [Swingin' Skylines](https://open.spotify.com/track/11mlMYGexF7TeSK7AXtVmH) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Swingin' Skylines](https://open.spotify.com/album/5IiL0oL5yKQx50gWnUYczD) | 3:55 | 2024-02-23 | 2026-01-15 |
 | [Swivel Around Me](https://open.spotify.com/track/6pNCr9TVxcgqqYHhhAjnPF) | [Kendrettes](https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj) | [Swivel Around Me](https://open.spotify.com/album/2R6oGbDB1jcRbpm2hPjKPc) | 2:50 | 2022-08-30 | 2024-04-11 |
+| [Take a ride](https://open.spotify.com/track/2OBL2jmGbCquQi0RrBBu5I) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [Take a ride](https://open.spotify.com/album/3ZISczhR1XOvjQCtkWNUd6) | 3:33 | 2026-02-27 |  |
 | [Take me to Liverpool](https://open.spotify.com/track/5Df2sfwDdTC266NFO3qfa0) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [Take me to Liverpool](https://open.spotify.com/album/1YFTNcAXtntuZCnMK92OPe) | 3:24 | 2023-09-29 | 2025-11-19 |
 | [Take Your Time](https://open.spotify.com/track/0hCcbt1WPlwjS5giGx8UaK) | [Thames Quartet](https://open.spotify.com/artist/1R7RKpGGSeqK8pSBK79w7T) | [Take Your Time](https://open.spotify.com/album/5qve7y23g4aLXc7ePaJPAN) | 4:38 | 2023-12-08 | 2024-08-07 |
 | [Tales of the Urban Night](https://open.spotify.com/track/42SXZOzFwDj2d0Lj6dIZW2) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Tales of the Urban Night](https://open.spotify.com/album/0Lq4ADg6oshOAymc9qbvkU) | 3:55 | 2024-03-08 | 2025-11-19 |

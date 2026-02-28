@@ -1,12 +1,12 @@
 {
   "description": "This is Miles Davis. The essential tracks, all in one playlist.",
-  "num_followers": 246360,
+  "num_followers": 246383,
   "original_name": "This Is Miles Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAAAYlpaiHzA585H9t/v78qN3",
+  "snapshot_id": "aZ+NAAAAAACZRtrjLNtvkiAnwsQwkfp8",
   "tracks": [
     {
       "added_at": null,
@@ -67,8 +67,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ascenseur pour l'\u00e9chafaud",
-        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
+        "name": "Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
       },
       "artists": [
         {
@@ -76,9 +76,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 168512,
-      "name": "G\u00e9n\u00e9rique - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
-      "url": "https://open.spotify.com/track/3I1LsXYKMeWbdgJgADH8yY"
+      "duration_ms": 181988,
+      "name": "Boplicity",
+      "url": "https://open.spotify.com/track/0Wz6DLq8NBoi1viEqrdH9B"
     },
     {
       "added_at": null,
@@ -111,8 +111,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Birth Of The Cool",
-        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+        "name": "Ascenseur pour l'\u00e9chafaud",
+        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
       },
       "artists": [
         {
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 181988,
-      "name": "Boplicity",
-      "url": "https://open.spotify.com/track/0Wz6DLq8NBoi1viEqrdH9B"
+      "duration_ms": 168512,
+      "name": "G\u00e9n\u00e9rique - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
+      "url": "https://open.spotify.com/track/3I1LsXYKMeWbdgJgADH8yY"
     },
     {
       "added_at": null,
@@ -155,54 +155,6 @@
       "duration_ms": 355333,
       "name": "'Round Midnight (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/5vb7At47uO0yPGfmYnAHuw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ascenseur pour l'\u00e9chafaud",
-        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 172026,
-      "name": "Florence sur les Champs-\u00c9lys\u00e9es - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
-      "url": "https://open.spotify.com/track/72bpseQy3hiwU2MB4RNhEf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kind Of Blue",
-        "url": "https://open.spotify.com/album/1weenld61qoidwYuZ1GESA"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        },
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        }
-      ],
-      "duration_ms": 588410,
-      "name": "Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers)",
-      "url": "https://open.spotify.com/track/3NvYPUNu6nwQgN31UnoDbn"
     },
     {
       "added_at": null,
@@ -243,18 +195,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Birth Of The Cool",
-        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+        "name": "Kind Of Blue",
+        "url": "https://open.spotify.com/album/1weenld61qoidwYuZ1GESA"
       },
       "artists": [
         {
           "name": "Miles Davis",
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
         }
       ],
-      "duration_ms": 200296,
-      "name": "Moon Dreams",
-      "url": "https://open.spotify.com/track/3GRRmV65lSUxQ82GHyVAZO"
+      "duration_ms": 588410,
+      "name": "Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers)",
+      "url": "https://open.spotify.com/track/3NvYPUNu6nwQgN31UnoDbn"
     },
     {
       "added_at": null,
@@ -268,33 +236,25 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 172330,
-      "name": "Au bar du Petit Bac - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
-      "url": "https://open.spotify.com/track/4x1wPhR48abeSDr6o25NAv"
+      "duration_ms": 172026,
+      "name": "Florence sur les Champs-\u00c9lys\u00e9es - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
+      "url": "https://open.spotify.com/track/72bpseQy3hiwU2MB4RNhEf"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Kind Of Blue (Legacy Edition)",
-        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
+        "name": "Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
       },
       "artists": [
         {
           "name": "Miles Davis",
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 284560,
-      "name": "Stella By Starlight (feat. John Coltrane & Bill Evans)",
-      "url": "https://open.spotify.com/track/4zxd4tiXPlWMqoJltbVTbE"
+      "duration_ms": 200296,
+      "name": "Moon Dreams",
+      "url": "https://open.spotify.com/track/3GRRmV65lSUxQ82GHyVAZO"
     },
     {
       "added_at": null,
@@ -327,6 +287,46 @@
       "duration_ms": 474626,
       "name": "Bye Bye Blackbird (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/3ujbZ2FGIoTQG3v07tmV2D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kind Of Blue (Legacy Edition)",
+        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 284560,
+      "name": "Stella By Starlight (feat. John Coltrane & Bill Evans)",
+      "url": "https://open.spotify.com/track/4zxd4tiXPlWMqoJltbVTbE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ascenseur pour l'\u00e9chafaud",
+        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 172330,
+      "name": "Au bar du Petit Bac - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
+      "url": "https://open.spotify.com/track/4x1wPhR48abeSDr6o25NAv"
     },
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blue Note And Capitol Recordings",
-        "url": "https://open.spotify.com/album/2ZN3YPrCFvHJ9dTni1jBUz"
+        "name": "Ascenseur pour l'\u00e9chafaud",
+        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 242973,
-      "name": "It Never Entered My Mind",
-      "url": "https://open.spotify.com/track/4ZX7fXhm6iwP7nABz1tcFB"
+      "duration_ms": 230690,
+      "name": "Chez le photographe du motel - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
+      "url": "https://open.spotify.com/track/7rR1QRYxx4JBaMtAyLrhrq"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ascenseur pour l'\u00e9chafaud",
-        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
+        "name": "The Blue Note And Capitol Recordings",
+        "url": "https://open.spotify.com/album/2ZN3YPrCFvHJ9dTni1jBUz"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 230690,
-      "name": "Chez le photographe du motel - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
-      "url": "https://open.spotify.com/track/7rR1QRYxx4JBaMtAyLrhrq"
+      "duration_ms": 242973,
+      "name": "It Never Entered My Mind",
+      "url": "https://open.spotify.com/track/4ZX7fXhm6iwP7nABz1tcFB"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miles Ahead (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 209333,
-      "name": "Miles Ahead",
-      "url": "https://open.spotify.com/track/43QzmxhO9uwi60JhYmr9ox"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Porgy And Bess",
         "url": "https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz"
       },
@@ -675,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blue Note And Capitol Recordings",
-        "url": "https://open.spotify.com/album/2ZN3YPrCFvHJ9dTni1jBUz"
+        "name": "Miles Ahead (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9"
       },
       "artists": [
         {
@@ -684,9 +668,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 226160,
-      "name": "Yesterdays",
-      "url": "https://open.spotify.com/track/5OQzdZpyPlkADNSDMUEr2U"
+      "duration_ms": 209333,
+      "name": "Miles Ahead",
+      "url": "https://open.spotify.com/track/43QzmxhO9uwi60JhYmr9ox"
     },
     {
       "added_at": null,
@@ -703,6 +687,22 @@
       "duration_ms": 154340,
       "name": "Move",
       "url": "https://open.spotify.com/track/7nCdeDrv9Tu4nsT3K638em"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Blue Note And Capitol Recordings",
+        "url": "https://open.spotify.com/album/2ZN3YPrCFvHJ9dTni1jBUz"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 226160,
+      "name": "Yesterdays",
+      "url": "https://open.spotify.com/track/5OQzdZpyPlkADNSDMUEr2U"
     },
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Columbia Studio Recordings",
-        "url": "https://open.spotify.com/album/6KyD1Yj3FfMVCie7WVMTSz"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "Gil Evans",
-          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
-        }
-      ],
-      "duration_ms": 30693,
-      "name": "Studio Discussion - One",
-      "url": "https://open.spotify.com/track/2XKlsf6SUUiGQJ5sGU7cum"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Conception",
         "url": "https://open.spotify.com/album/6Y0n5LeEbECbMcPxS1fyJe"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 199533,
       "name": "Intoit",
       "url": "https://open.spotify.com/track/1zrYb4Y8KowyXmbzoHGh7L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Complete Columbia Studio Recordings",
+        "url": "https://open.spotify.com/album/6KyD1Yj3FfMVCie7WVMTSz"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Gil Evans",
+          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
+        }
+      ],
+      "duration_ms": 30693,
+      "name": "Studio Discussion - One",
+      "url": "https://open.spotify.com/track/2XKlsf6SUUiGQJ5sGU7cum"
     },
     {
       "added_at": null,

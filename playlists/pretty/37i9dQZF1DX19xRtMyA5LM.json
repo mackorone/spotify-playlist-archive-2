@@ -1,12 +1,12 @@
 {
   "description": "De beste tracks in WS\u2757\ufe0fCover: Lil Kleine",
-  "num_followers": 708338,
+  "num_followers": 708367,
   "original_name": "Woordenschat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH7zkqCavQVVvGk6ljRW2t/vJBAl",
+  "snapshot_id": "AAAAAAPnUNIiXWwgY3fp7d9DwVF21bQL",
   "tracks": [
     {
       "added_at": "2026-02-26 23:00:37",
@@ -115,6 +115,22 @@
       "duration_ms": 172251,
       "name": "Toedels!",
       "url": "https://open.spotify.com/track/6AmhyeFjiw2s8313ruZuIg"
+    },
+    {
+      "added_at": "2026-02-26 23:00:37",
+      "album": {
+        "name": "No Handouts",
+        "url": "https://open.spotify.com/album/4vMtK9zOVRcop68ypi29jK"
+      },
+      "artists": [
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "No Handouts",
+      "url": "https://open.spotify.com/track/2F2LGTyc3kiP7a1wfJUd1J"
     },
     {
       "added_at": "2026-02-26 23:00:37",
@@ -255,22 +271,6 @@
       "duration_ms": 194221,
       "name": "Psycholoog",
       "url": "https://open.spotify.com/track/3LiNpN9qg5p2wJAnQum1Yt"
-    },
-    {
-      "added_at": "2026-02-26 23:00:37",
-      "album": {
-        "name": "No Handouts",
-        "url": "https://open.spotify.com/album/4vMtK9zOVRcop68ypi29jK"
-      },
-      "artists": [
-        {
-          "name": "Henkie T",
-          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "No Handouts",
-      "url": "https://open.spotify.com/track/2F2LGTyc3kiP7a1wfJUd1J"
     },
     {
       "added_at": "2026-02-26 23:00:37",

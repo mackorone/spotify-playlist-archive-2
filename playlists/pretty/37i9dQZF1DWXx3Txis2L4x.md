@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 
 > These shoes are not made for running, they just look nice for the playlist cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 640,383 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 640,406 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 39 | [Under You](https://open.spotify.com/track/6vWu5uWlox5TVDPl3LvoG3) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 3:39 |
 | 40 | [Los Angeles](https://open.spotify.com/track/5dJqHtAc4toOPTRX9xfOB6) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Lights Out](https://open.spotify.com/album/771aiFNWSoOrZfRQ4jWLOc) | 3:57 |
 | 41 | [What You Make It](https://open.spotify.com/track/2eXSPTZmhkXRGob1hsFdVd) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [With Confidence](https://open.spotify.com/album/0nVyJYOVvS1Trsphx7KPxp) | 2:57 |
-| 42 | [And the Hero Will Drown](https://open.spotify.com/track/3WsgkhWH001sMkbZVcjreS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:13 |
-| 43 | [ANTHEM PART 3](https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:33 |
+| 42 | [ANTHEM PART 3](https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:33 |
+| 43 | [And the Hero Will Drown](https://open.spotify.com/track/3WsgkhWH001sMkbZVcjreS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:13 |
 | 44 | [Genocide](https://open.spotify.com/track/2NlRF63jgKhHY1RNhoXQRX) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 3:33 |
 | 45 | [Underdog](https://open.spotify.com/track/4GMCZUi6cVQJ5wPWwJ36rW) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Hold Me Down](https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU) | 2:23 |
 | 46 | [Already Over](https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [Already Over](https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih) | 2:40 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 64 | [Hung Up](https://open.spotify.com/track/1W3fMkViHndp2kv7PQNfAQ) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Reeling](https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh) | 3:24 |
 | 65 | [I Think Bad Thoughts](https://open.spotify.com/track/0jnTz7CcNUjCx5nrEfT7wx) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Below The Belt](https://open.spotify.com/album/1GoMpy2OOFf2k5w6ziD7kv) | 3:31 |
 | 66 | [The Other Line](https://open.spotify.com/track/3eoEriMHjKEpyNa2BFmdSm) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Get Lost, Find Yourself](https://open.spotify.com/album/5jAkJlpRcL7CGmBcApdNjW) | 3:29 |
-| 67 | [James Dean](https://open.spotify.com/track/3KYA5PWMNOHa7ouykwXMgx) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Panic Vertigo \- EP](https://open.spotify.com/album/3rhcRidkGZFMGbnshUj7Qm) | 3:18 |
-| 68 | [These Four Walls](https://open.spotify.com/track/4lIADYns7onzNNl0RIewFp) | [Pretty Vicious](https://open.spotify.com/artist/4KH4eOg39KeBpnfSgvIteD) | [Beauty Of Youth](https://open.spotify.com/album/6am0g93vswJjC98p8mihkF) | 3:47 |
+| 67 | [These Four Walls](https://open.spotify.com/track/4lIADYns7onzNNl0RIewFp) | [Pretty Vicious](https://open.spotify.com/artist/4KH4eOg39KeBpnfSgvIteD) | [Beauty Of Youth](https://open.spotify.com/album/6am0g93vswJjC98p8mihkF) | 3:47 |
+| 68 | [James Dean](https://open.spotify.com/track/3KYA5PWMNOHa7ouykwXMgx) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Panic Vertigo \- EP](https://open.spotify.com/album/3rhcRidkGZFMGbnshUj7Qm) | 3:18 |
 | 69 | [Ban All the Music](https://open.spotify.com/track/1wzbGtVEdpxHyieUIkeh3N) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 2:52 |
 | 70 | [Nimble Bastard](https://open.spotify.com/track/2uaWEm24SEHUWlCVopjDbh) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [8](https://open.spotify.com/album/3YdvnTLTd343C1osvUChnA) | 3:39 |
 | 71 | [Ohms](https://open.spotify.com/track/6mfrK1kvsOjiiH64Ier962) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/3IHClJIXFPxf3xa0BNaQOd) | 4:10 |

@@ -6732,7 +6732,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 132476,
       "name": "Ego Death",
       "url": "https://open.spotify.com/track/2JJfPd80KcUu4IMD6ZjAkz"
@@ -8460,6 +8460,24 @@
       "duration_ms": 140228,
       "name": "Freak Like Me",
       "url": "https://open.spotify.com/track/6VrgzSdbqpA9cAvUbd1Rwx"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188062,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj"
     },
     {
       "album": {
@@ -21563,6 +21581,24 @@
     },
     {
       "album": {
+        "name": "SONG OF THE SWAMP",
+        "url": "https://open.spotify.com/album/7jx0RyYXimNfJDm7ohjIUN"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198118,
+      "name": "SONG OF THE SWAMP",
+      "url": "https://open.spotify.com/track/3nImaje8npYkUGZG4AQlc4"
+    },
+    {
+      "album": {
         "name": "REVIVED",
         "url": "https://open.spotify.com/album/0DRBilZLlI0Hc2TKf3GG4h"
       },
@@ -26912,7 +26948,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 202666,
       "name": "West Of Where I Am",
       "url": "https://open.spotify.com/track/0LsvphgkOsUo7QwN9GySMO"

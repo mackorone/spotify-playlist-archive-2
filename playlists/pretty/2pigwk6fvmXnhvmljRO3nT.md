@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,328 songs - 21 day 5 hr 8 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,330 songs - 21 day 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8336,5 +8336,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8326 | [to the beginning](https://open.spotify.com/track/5aZYyAIBmLSXTlez59ZvZ7) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Consolation](https://open.spotify.com/album/6wUa2X4ZWE82DSpCn6zNsb) | 4:16 |
 | 8327 | [Rain](https://open.spotify.com/track/5XywusAEcKl62fxQtRzReU) | [chata](https://open.spotify.com/artist/11Z78hOagXfA82mOlT6baL) | [eclipse KAI](https://open.spotify.com/album/3kbgaJv1k6lK7fT2XTQXDP) | 4:00 |
 | 8328 | [海のまにまに](https://open.spotify.com/track/0loZ1KfQSLJxYR0Y7dImKN) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [海のまにまに](https://open.spotify.com/album/6M4p4S5t8PuRZiq7zvMEPB) | 4:15 |
+| 8329 | [チームの地力](https://open.spotify.com/track/0S5OaeNAC1RlO0ZkeuPmhq) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/6f7ewU8BNZaeqfN899iutk) | 2:58 |
+| 8330 | [Jet Set Run](https://open.spotify.com/track/3jRwb8NABDs7n8YsYyHO8c) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル･サウンドトラック](https://open.spotify.com/album/45dUggEwLrNKqgCJuMgRrR) | 3:45 |
 
-Snapshot ID: `AAALF0Fev9QuXqrWjcXa+f0toF2ppdgg`
+Snapshot ID: `AAALGa23RhvFPZtY8rfFcrY3fkNPpF0w`

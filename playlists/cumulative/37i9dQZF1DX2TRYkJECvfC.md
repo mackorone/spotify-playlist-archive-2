@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-676 songs - 2 day 7 hr 31 min
+677 songs - 2 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Feelings Of Love](https://open.spotify.com/track/3hVesPNlGrCXIO2E45aVnB) | [Saison](https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7) | [Feelings Of Love](https://open.spotify.com/album/0NRDMZLCu5ReSNiolhzmZv) | 6:07 | 2025-09-05 |  |
 | [Felt \(feat\. Henry Green\)](https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [A Life](https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R) | 3:19 | 2024-04-26 |  |
 | [Fibonacci](https://open.spotify.com/track/0Jb3Kq7oDqRznHPIcrQpiX) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Fibonacci](https://open.spotify.com/album/0HQyQc8KYSgmt5iVieQWNY) | 3:08 | 2021-12-08 | 2024-04-13 |
-| [Fields](https://open.spotify.com/track/5FZw8knmfy0feNKCXFEI1c) | [Sieren](https://open.spotify.com/artist/3Jzy4I2ATG22T6bZB24ToD) | [Emergence](https://open.spotify.com/album/0cw1jXcFM6cmW3oApTbx8g) | 4:28 | 2025-09-05 |  |
+| [Fields](https://open.spotify.com/track/5FZw8knmfy0feNKCXFEI1c) | [Sieren](https://open.spotify.com/artist/3Jzy4I2ATG22T6bZB24ToD) | [Emergence](https://open.spotify.com/album/0cw1jXcFM6cmW3oApTbx8g) | 4:28 | 2025-09-05 | 2026-02-28 |
 | [Fig Spread](https://open.spotify.com/track/7aqk3yBoqxB4nIl4UuMyxB) | [Aspetuck](https://open.spotify.com/artist/0GkeJJhTM5XDaT8iuRl0gd) | [Aspetuck 002](https://open.spotify.com/album/0ayZp8Cy4rwDLteIOWTUT1) | 5:51 | 2021-12-08 | 2022-07-21 |
 | [Five](https://open.spotify.com/track/1AyWOwYZStmF5jtgNThUWd) | [Jon Gurd](https://open.spotify.com/artist/2Nd5J1iedlzuNp32YYNuAl), [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3) | [Five EP](https://open.spotify.com/album/1d1C5lZ34OxnzawtsFMnCD) | 3:17 | 2025-03-21 |  |
 | [Flek](https://open.spotify.com/track/37MvOmyPdgyeWOymDgor3O) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Flek](https://open.spotify.com/album/32vcNeIRAUWxN8Yq0ROfEa) | 3:59 | 2023-11-10 | 2026-02-07 |
@@ -393,6 +393,7 @@
 | [New Fires](https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [New Fires](https://open.spotify.com/album/20brpiEt6JIbhmmHqF7Fjj) | 4:11 | 2022-10-28 | 2025-08-30 |
 | [Night Blooming](https://open.spotify.com/track/7Jur43jHDkU1cZMheGQfPi) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O), [pbeatgirl](https://open.spotify.com/artist/4dupX4HZsvDVV26tiJ20a3) | [Night Blooming](https://open.spotify.com/album/2RSDkgHsxcaIKrMMJQFRZ7) | 6:42 | 2026-02-20 |  |
 | [Night Jaguars](https://open.spotify.com/track/4jasV5CeMTmORbhAyQgTL3) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Heaven Or Hell](https://open.spotify.com/album/4xOuauKQo1WNiGDXXNHbAY) | 3:52 | 2021-12-08 | 2023-08-12 |
+| [Night Walking](https://open.spotify.com/track/76uWZYQ8ifL8fAq7byloD2) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Night Walking](https://open.spotify.com/album/0TTwI6HXox5rTmgxKUp3tE) | 2:49 | 2026-02-27 |  |
 | [Nightcall](https://open.spotify.com/track/6dcmqwpZ00IXjmg8ZVxQZP) | [Iman Hanzo](https://open.spotify.com/artist/5ayIaDgQlMl8YcCdY70zRr) | [Nightcall](https://open.spotify.com/album/5fTwR0zWU6EKHVDHxffJLO) | 5:27 | 2024-07-12 |  |
 | [Nightflower](https://open.spotify.com/track/7dL08ackWZClIZzOSD7PHt) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Phenomena I](https://open.spotify.com/album/1DchSTqin2FDbr8r82iI1v) | 3:49 | 2023-07-31 | 2026-02-07 |
 | [Nightwhisper](https://open.spotify.com/track/3SYO8wU4bEgIYt7AeGRIwG) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Nightwhisper](https://open.spotify.com/album/7kvbMYyWGN5mSO7zRLpDoU) | 3:37 | 2021-12-08 | 2024-04-13 |

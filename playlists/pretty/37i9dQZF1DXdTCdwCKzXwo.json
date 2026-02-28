@@ -1,6 +1,6 @@
 {
   "description": "These early pioneers brought the underground to the foreground. Cover: The Smiths",
-  "num_followers": 1270819,
+  "num_followers": 1270856,
   "original_name": "Early Alternative",
   "owner": {
     "name": "Spotify",
@@ -347,18 +347,18 @@
     {
       "added_at": "2025-01-14 03:34:33",
       "album": {
-        "name": "Laid",
-        "url": "https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe"
+        "name": "Best Of Blondie",
+        "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
       },
       "artists": [
         {
-          "name": "James",
-          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 156666,
-      "name": "Laid",
-      "url": "https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W"
+      "duration_ms": 212893,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/0vLwL4xuJ3s7SeaCdvMqkY"
     },
     {
       "added_at": "2025-01-14 03:34:33",
@@ -379,18 +379,18 @@
     {
       "added_at": "2025-01-14 03:34:33",
       "album": {
-        "name": "Best Of Blondie",
-        "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
+        "name": "Laid",
+        "url": "https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe"
       },
       "artists": [
         {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+          "name": "James",
+          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
         }
       ],
-      "duration_ms": 212893,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/0vLwL4xuJ3s7SeaCdvMqkY"
+      "duration_ms": 156666,
+      "name": "Laid",
+      "url": "https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W"
     },
     {
       "added_at": "2025-01-14 03:34:33",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-01-14 03:34:33",
       "album": {
-        "name": "Life's Too Good",
-        "url": "https://open.spotify.com/album/0UQGKhImc5hgh2SxYAA3Jp"
-      },
-      "artists": [
-        {
-          "name": "The Sugarcubes",
-          "url": "https://open.spotify.com/artist/1G0Xwj8mza6b03iYkVdzDP"
-        }
-      ],
-      "duration_ms": 239533,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/55MEbqyxZphjB0beZ7YT0f"
-    },
-    {
-      "added_at": "2025-01-14 03:34:33",
-      "album": {
         "name": "Spring Session M.",
         "url": "https://open.spotify.com/album/08GAuXkchZVoRsnKdcihxs"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 216840,
       "name": "Destination Unknown",
       "url": "https://open.spotify.com/track/0QyMDyosGai50pjaFbC1NO"
+    },
+    {
+      "added_at": "2025-01-14 03:34:33",
+      "album": {
+        "name": "Life's Too Good",
+        "url": "https://open.spotify.com/album/0UQGKhImc5hgh2SxYAA3Jp"
+      },
+      "artists": [
+        {
+          "name": "The Sugarcubes",
+          "url": "https://open.spotify.com/artist/1G0Xwj8mza6b03iYkVdzDP"
+        }
+      ],
+      "duration_ms": 239533,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/55MEbqyxZphjB0beZ7YT0f"
     },
     {
       "added_at": "2025-01-14 03:34:33",

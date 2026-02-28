@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47uat5buwl0.md) - [plain]
 
 > Miloolaathetlukken genomineerd voor Edison Pop 2026: Nieuwkomer\. HDP 🔥🎉
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,535 likes - 75 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,587 likes - 75 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [HDP](https://open.spotify.com/track/3t85nUPCmSq3O4bJXK0qhT) | [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [OMG YES](https://open.spotify.com/album/5KibFCQ6DTeayb6N11EUSc) | 2:34 |
-| 2 | [Just The Way You Are](https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Just The Way You Are](https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y) | 2:39 |
-| 3 | [Lijntje](https://open.spotify.com/track/1q7xYZc69cGcUa3eqwf7tt) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Lijntje](https://open.spotify.com/album/7rSKhMvO7Ng4MYeLpElCvX) | 2:51 |
+| 2 | [Fashionweek](https://open.spotify.com/track/3AsS2rFZd9yvysDmPIXkDk) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [F\*CK KLEINE](https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7) | 2:29 |
+| 3 | [Just The Way You Are](https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Just The Way You Are](https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y) | 2:39 |
 | 4 | [Ode To The Bouncer](https://open.spotify.com/track/1d1B0o6MT7cMUu5Xd8zTiK) | [Lumine](https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr), [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Ode To The Bouncer](https://open.spotify.com/album/1wQns64m9xxJPe6b9kp3fF) | 2:27 |
-| 5 | [Fashionweek](https://open.spotify.com/track/3AsS2rFZd9yvysDmPIXkDk) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [F\*CK KLEINE](https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7) | 2:29 |
+| 5 | [Lijntje](https://open.spotify.com/track/1q7xYZc69cGcUa3eqwf7tt) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Lijntje](https://open.spotify.com/album/7rSKhMvO7Ng4MYeLpElCvX) | 2:51 |
 | 6 | [Ruggengraat](https://open.spotify.com/track/0bY43tNRq1G03VoWMWIapS) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw) | [Ruggengraat](https://open.spotify.com/album/3zgxV46zAmDeRTCq6dOvaj) | 2:14 |
 | 7 | [Vonken](https://open.spotify.com/track/1pPegMRuTHfVgdgXtfnFxz) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Tot Het Eind Van Mij](https://open.spotify.com/album/5j5NTP6nC9pSNzmxkyaARU) | 2:18 |
 | 8 | [Sneuvelnation](https://open.spotify.com/track/0z0aaDPZewba8t48p2zt9A) | [Mr\. Polska](https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Sneuvelnation](https://open.spotify.com/album/6OMovJWgCIvOQWdGvOUm9q) | 2:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47uat5buwl0.md) - [plain]
 | 74 | [Wat Zou Je Doen?](https://open.spotify.com/track/4lHhgAyYDkW0J5ykdyf9OF) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Wat Zou Je Doen?](https://open.spotify.com/album/19LO8205QQBIjA424ES7ej) | 2:11 |
 | 75 | [Achteruit \(feat\. Bizzey & Trobi\)](https://open.spotify.com/track/4iMT7wRGEJdLvknC3JFjwS) | [Sjorleone](https://open.spotify.com/artist/6MrSjWpFS9A84jo0yR2nM4), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Achteruit \(feat\. Bizzey & Trobi\)](https://open.spotify.com/album/0TqtTiVPUo1CjarIxlL2DH) | 1:51 |
 
-Snapshot ID: `AAAAAB6Pz8h5nSVNGwbXTy5/BzM4a+Kt`
+Snapshot ID: `AAAAAG3TyhinKrEESShw0/wSyIiFZzeq`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Dance anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,268 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,314 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 5 | [Positive](https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB) | [Positive](https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI) | 2:49 |
 | 6 | [Stephanie \- HNTR Remix](https://open.spotify.com/track/3flWoQdYrWyqUsHbURIJby) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [InntRaw](https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU) | [Stephanie \(HNTR Remix\)](https://open.spotify.com/album/2bOMvfR44jh4eIeUB230ES) | 2:25 |
 | 7 | [Talk of the Town](https://open.spotify.com/track/0Y2QAFRdkzrNAJDPJ5lATF) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Reggie](https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X) | [Talk of the Town](https://open.spotify.com/album/7qjrNDFT178bazNZiASRBU) | 3:13 |
-| 8 | [Don't Stop](https://open.spotify.com/track/13cX2o4cASGLYXNaQyXWxt) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Don't Stop](https://open.spotify.com/album/0rSgVoJE8fncqD9bJU0Ltq) | 2:27 |
-| 9 | [We Do What We Want \- Edit](https://open.spotify.com/track/2qGvgsRsmrB0Y7Y4MmuP1M) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [We Do What We Want \(Edit\)](https://open.spotify.com/album/5WzbzjfI0AeLlYwyZ1rHOa) | 3:08 |
+| 8 | [We Do What We Want \- Edit](https://open.spotify.com/track/2qGvgsRsmrB0Y7Y4MmuP1M) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [We Do What We Want \(Edit\)](https://open.spotify.com/album/5WzbzjfI0AeLlYwyZ1rHOa) | 3:08 |
+| 9 | [Don't Stop](https://open.spotify.com/track/13cX2o4cASGLYXNaQyXWxt) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Don't Stop](https://open.spotify.com/album/0rSgVoJE8fncqD9bJU0Ltq) | 2:27 |
 | 10 | [HOT4U](https://open.spotify.com/track/7M8gcVdIKDzYcn1cE5zE7S) | [Elliot Adamson](https://open.spotify.com/artist/5JCyLOcEZsUiTLCUqqcIFz) | [HOT4U](https://open.spotify.com/album/0HNVud7oN6KPaF4FqolRYY) | 2:53 |
 | 11 | [Back It Up](https://open.spotify.com/track/5bdKaYnig6IqBsQQqBUjHm) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Back It Up](https://open.spotify.com/album/3zmA0CrYMwFY92X9DkK2fY) | 2:36 |
 | 12 | [Last Night](https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv) | [Last Night](https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB) | 2:49 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 38 | [U Should Not Be Doing That](https://open.spotify.com/track/3IRUnD7KOB6rSoEsxBG5oC) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That](https://open.spotify.com/album/7mxUMtwfCoClzqAB7a4wh3) | 3:42 |
 | 39 | [Ready To Go \(My Addiction\)](https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Alex Guesta](https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3) | [Ready To Go \(My Addiction\)](https://open.spotify.com/album/7iyKDcE1bonqByVb0anyKo) | 2:24 |
 | 40 | [Up Front](https://open.spotify.com/track/74X66DXVuSLDEOp3sR8GFL) | [DREYA V](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [Up Front](https://open.spotify.com/album/6eLVBuH7e14JC1pRR09kzP) | 3:27 |
-| 41 | [Say Nothing](https://open.spotify.com/track/4XFitOZjhnQw66LVvd3EfW) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Denis Sulta](https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn) | [Say Nothing](https://open.spotify.com/album/3XkbLaT1UrPtCThjFE9FAX) | 3:08 |
-| 42 | [FREAK IN THE SHEETS](https://open.spotify.com/track/2cpE8zEt3tqGEb7wN49mAU) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [FREAK IN THE SHEETS](https://open.spotify.com/album/3PMAjP3YdPhzk30gWIVEWi) | 3:13 |
+| 41 | [FREAK IN THE SHEETS](https://open.spotify.com/track/2cpE8zEt3tqGEb7wN49mAU) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [FREAK IN THE SHEETS](https://open.spotify.com/album/3PMAjP3YdPhzk30gWIVEWi) | 3:13 |
+| 42 | [Say Nothing](https://open.spotify.com/track/4XFitOZjhnQw66LVvd3EfW) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Denis Sulta](https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn) | [Say Nothing](https://open.spotify.com/album/3XkbLaT1UrPtCThjFE9FAX) | 3:08 |
 | 43 | [Bass Up To The Top](https://open.spotify.com/track/0Z5iboHxPmyilWJQFnHZaY) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Bass Up To The Top](https://open.spotify.com/album/0dPApl3iIct0S2T9lEtxSV) | 3:16 |
 | 44 | [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 |
 | 45 | [God Made Me Phunky \- Jess Bays Remix](https://open.spotify.com/track/6qRzNXm3vpGcGoLVB3zk9n) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS), [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB) | [God Made Me Phunky \(Jess Bays Remix\)](https://open.spotify.com/album/5ntomn4F2F0AA7r6n8Y8Hl) | 3:40 |

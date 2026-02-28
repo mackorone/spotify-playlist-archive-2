@@ -4,7 +4,7 @@
 
 > Jazz, but make it funky\. Cover: Skinny Hightower
 
-450 songs - 1 day 10 hr 6 min
+451 songs - 1 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [F'Uncstown](https://open.spotify.com/track/13IirgDjn1v1gZMMVrWQEA) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Thin Thicket](https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng), [Damon the Soulful Samurai](https://open.spotify.com/artist/6B7G3EEuNog0pIB4IYqXtp), [Winston Bell](https://open.spotify.com/artist/0Izs56yAnVoK3Cgy4Y68h2), [Antonio Labra](https://open.spotify.com/artist/27zwBTNwuN786OvS6BpzD4), [Nicholas Frank](https://open.spotify.com/artist/1lvvQNtbJDnA6VYOps1VAH), [Thomas Russell](https://open.spotify.com/artist/68xOAUse5cObr1No8jPoel), [Nate Yingling](https://open.spotify.com/artist/580mPpv8hFKzL8f849ABLi), [Drehova](https://open.spotify.com/artist/2WYpO40KD8lWY8YAC7L4DO) | [F'Uncstown](https://open.spotify.com/album/01IB5HBScOdRk0V3GCoeCA) | 3:42 | 2023-06-16 | 2024-04-13 |
 | [Fast Life](https://open.spotify.com/track/4Qlyf2WcL6uq11MNP3BjqH) | [Kinga Glyk](https://open.spotify.com/artist/173ko01vSVOZ1opooANOvk) | [Fast Life](https://open.spotify.com/album/29SzjciN1hhMafVQcZizOV) | 3:58 | 2023-09-29 | 2023-11-11 |
 | [Feel The Bern \- Alt Take](https://open.spotify.com/track/5GejWU6QiLcFJZ8Ix3S9cr) | [Mike Casey](https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2) | [Outtakes: 'Law of Attraction' Session](https://open.spotify.com/album/32CGaiQQg3wSczmFF3qcYo) | 2:00 | 2022-10-29 |  |
+| [Felonious Funk](https://open.spotify.com/track/4U8YLPp4f8IEq5fp14nRtZ) | [Oli Parker](https://open.spotify.com/artist/4o7rOtAAYgrNOZrnxG8t9g) | [Felonious Funk](https://open.spotify.com/album/48ArWKWs0wy1OLEdXRyDVD) | 3:43 | 2026-02-27 |  |
 | [Fight Harder](https://open.spotify.com/track/302NRQpcU7xP1GzXMn5zOV) | [Emanuel Harrold](https://open.spotify.com/artist/7BCEWQ7ebjQql2El4eAxOU), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Fight Harder](https://open.spotify.com/album/6xZUmkq57p0cWMVLnxIuJC) | 5:32 | 2022-11-18 | 2023-05-27 |
 | [Filibuster](https://open.spotify.com/track/6BWF4wtShcinQ1ikEwzkXl) | [The Du\-Rites](https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw) | [Filibuster](https://open.spotify.com/album/5uSG5x7Yu0hwFwn6AIvIpw) | 2:40 | 2024-07-12 | 2025-10-25 |
 | [Fish Grease](https://open.spotify.com/track/4U67MTfdlwuBYwk5EoaX44) | [Jazz Funk Soul](https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED) | [Forecast](https://open.spotify.com/album/4vD6CKS4dfw567CYVQtjW0) | 5:15 | 2022-08-12 |  |
@@ -298,7 +299,7 @@
 | [Rock Creek Park](https://open.spotify.com/track/6XN8bM4WMBdzSM76gLoEGN) | [Blackbyrds](https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq) | [Happy Music: The Best Of The Blackbyrds](https://open.spotify.com/album/12RQWFvVDEZg36eisATjmK) | 4:36 | 2020-10-09 | 2022-04-21 |
 | [Rules Of The Game](https://open.spotify.com/track/2NCKMGcBAK8C7QSA6C4sAQ) | [The Messthetics](https://open.spotify.com/artist/61wWE8w2nqaoNmKCOjJ4Hm), [James Brandon Lewis](https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK) | [Deface The Currency](https://open.spotify.com/album/5cCnXyes7pykE9rjhzPWnE) | 4:09 | 2026-02-20 |  |
 | [Rumble in the Jungle](https://open.spotify.com/track/3o5ybQryQMrAG4NcT9UYth) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [The Movement Revisited: A Musical Portrait of Four Icons](https://open.spotify.com/album/6sxsZhMo8LBx3IIcqhtR13) | 5:59 | 2020-10-09 |  |
-| [Running Away](https://open.spotify.com/track/0h4r3AE752IOrp8cdpAImC) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Evolution: The Polydor Anthology](https://open.spotify.com/album/4eY9301DYHcUr96oOXuLlL) | 6:55 | 2020-10-09 |  |
+| [Running Away](https://open.spotify.com/track/0h4r3AE752IOrp8cdpAImC) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Evolution: The Polydor Anthology](https://open.spotify.com/album/4eY9301DYHcUr96oOXuLlL) | 6:55 | 2020-10-09 | 2026-02-28 |
 | [Running Away \- 12\-Inch Long Version](https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Lifeline](https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq) | 6:54 | 2020-10-09 | 2024-04-19 |
 | [Running In Fear From Imaginary Assailants](https://open.spotify.com/track/32RMyYNzTcvMBS9zjx5EQc) | [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [John Ellis](https://open.spotify.com/artist/2jqFKnUNOcp9RnR9C6JHjR), [Derrek Phillips](https://open.spotify.com/artist/3dhabMNHFdgZdE0dnxA75x) | [Friends Seen and Unseen \(2022 Remaster\)](https://open.spotify.com/album/1rkhwQMkBsVhPjrw26Gfrm) | 3:42 | 2022-11-11 |  |
 | [Rush Hour](https://open.spotify.com/track/4gZQtkTRTa1iYd58pBDTOw) | [Phoenician Blinds](https://open.spotify.com/artist/7h8xpeKN3WG7fHgj8pc7SW) | [Rush Hour](https://open.spotify.com/album/2LIUUx08Dw3IFqtDWCmTeE) | 4:12 | 2020-10-09 |  |

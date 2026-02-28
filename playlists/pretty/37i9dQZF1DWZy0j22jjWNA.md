@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > Start you day with God and let these songs set you up to have a GOoD morning!
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,046 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,078 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 48 | [All Eyes On You](https://open.spotify.com/track/4EYPGsRXQHnItdVT2jrNqP) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [All Eyes On You](https://open.spotify.com/album/1mVMcsbi2aYFXH9AWm7O95) | 4:49 |
 | 49 | [Optimistic](https://open.spotify.com/track/6N1Ckp6rRovph3WuIqVtPx) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Optimistic](https://open.spotify.com/album/4owoEaptnmB47H4gzz9VUr) | 3:06 |
 | 50 | [Another Day](https://open.spotify.com/track/72s5XT0NrfnntJguAKikwB) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [Another Day](https://open.spotify.com/album/6Oji73jLgqllCvYljE0Fbn) | 3:04 |
-| 51 | [Makes My Day](https://open.spotify.com/track/3bqhH2SWF53d9TfQ8B6JcA) | [Cory Montell Scott](https://open.spotify.com/artist/4yXA1CoD2NZa6wechuaepF), [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Makes My Day](https://open.spotify.com/album/6I2CtfYURnq4OXtpEXgEu8) | 4:55 |
-| 52 | [GOOD THING](https://open.spotify.com/track/2XGAo5OoJFwaauhyxgwKlq) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [GOOD THING](https://open.spotify.com/album/0WTOcneeZqfL5RwvmiBAo7) | 2:33 |
+| 51 | [GOOD THING](https://open.spotify.com/track/2XGAo5OoJFwaauhyxgwKlq) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [GOOD THING](https://open.spotify.com/album/0WTOcneeZqfL5RwvmiBAo7) | 2:33 |
+| 52 | [Makes My Day](https://open.spotify.com/track/3bqhH2SWF53d9TfQ8B6JcA) | [Cory Montell Scott](https://open.spotify.com/artist/4yXA1CoD2NZa6wechuaepF), [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Makes My Day](https://open.spotify.com/album/6I2CtfYURnq4OXtpEXgEu8) | 4:55 |
 | 53 | [So Blessed](https://open.spotify.com/track/316ezycEDNS7M5AGWt1YAr) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Chris Cleveland](https://open.spotify.com/artist/5Z6gnOe0q5LWQ6jWaIhyne) | [So Blessed](https://open.spotify.com/album/3EktI6lc5MDYt1JpyPmbYt) | 3:16 |
 | 54 | [awakening](https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [awakening](https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz) | 4:14 |
 | 55 | [Hallow](https://open.spotify.com/track/2V9BiIYlcK7vvK864BusrG) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Hallow](https://open.spotify.com/album/1xa5PIPcWSV78KhlT8LZH6) | 2:38 |

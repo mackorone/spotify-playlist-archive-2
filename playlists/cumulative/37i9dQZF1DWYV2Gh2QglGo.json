@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Tim Hicks",
+  "description": "The home of Canadian country music. Cover: Parker Graye",
   "name": "North Country",
   "tracks": [
     {
@@ -294,7 +294,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 186768,
       "name": "Always Be The One",
       "url": "https://open.spotify.com/track/6e9QzC16F6Lq2dXtpbf5ml"
@@ -666,6 +666,24 @@
       "duration_ms": 161749,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/2J2lkDj2UeHdCLLkszHN6s"
+    },
+    {
+      "album": {
+        "name": "Better Get Movin' (Version Fran\u00e7aise)",
+        "url": "https://open.spotify.com/album/20I2OVTOTdpqJasQYYho9q"
+      },
+      "artists": [
+        {
+          "name": "Erika Rollin",
+          "url": "https://open.spotify.com/artist/4M6I1B9lXtqtA5cyyxH6yU"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Better Get Movin' - Version Fran\u00e7aise",
+      "url": "https://open.spotify.com/track/4WD2027AkDz69kSOYCmR8M"
     },
     {
       "album": {
@@ -2149,6 +2167,24 @@
     },
     {
       "album": {
+        "name": "Drive By",
+        "url": "https://open.spotify.com/album/4KhmSMjBe0eoB0UgrFVG2c"
+      },
+      "artists": [
+        {
+          "name": "Mark Ledlin",
+          "url": "https://open.spotify.com/artist/5qcJdMBiyDrEyqDgplPfh5"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198351,
+      "name": "Drive By",
+      "url": "https://open.spotify.com/track/13neS0U8XvBBxg0CakYena"
+    },
+    {
+      "album": {
         "name": "The Encore Mixes",
         "url": "https://open.spotify.com/album/4LPotAUEKa8MtLsTmy2yeC"
       },
@@ -2160,7 +2196,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 170741,
       "name": "Drive Me Away - Dashboard Mix",
       "url": "https://open.spotify.com/track/3COsBsMHY5UaB7slB7wno7"
@@ -2851,6 +2887,24 @@
     },
     {
       "album": {
+        "name": "Gas Station Flowers",
+        "url": "https://open.spotify.com/album/39bWcyFjtzNYK8P0nSj53A"
+      },
+      "artists": [
+        {
+          "name": "Parker Graye",
+          "url": "https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165986,
+      "name": "Gas Station Flowers",
+      "url": "https://open.spotify.com/track/4h5NFMj0rawzK9Fm9Fm9sv"
+    },
+    {
+      "album": {
         "name": "Georgia Off My Mind",
         "url": "https://open.spotify.com/album/0v2W5YE20mHJIUe954W0Av"
       },
@@ -3104,6 +3158,24 @@
       "duration_ms": 204704,
       "name": "Good Man",
       "url": "https://open.spotify.com/track/6J4GbwXrFpvb7Dn7iBUwdq"
+    },
+    {
+      "album": {
+        "name": "Good Old Days",
+        "url": "https://open.spotify.com/album/5XHFbRRGdwqRMNKMejtLAm"
+      },
+      "artists": [
+        {
+          "name": "Zach Chico",
+          "url": "https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214942,
+      "name": "Good Old Days",
+      "url": "https://open.spotify.com/track/3NpwbBi1yPjQS1YbXTdsDK"
     },
     {
       "album": {
@@ -3739,6 +3811,24 @@
     },
     {
       "album": {
+        "name": "Homeland",
+        "url": "https://open.spotify.com/album/2pg9ZErEcrNxyIgKqVkOIL"
+      },
+      "artists": [
+        {
+          "name": "School House",
+          "url": "https://open.spotify.com/artist/37JHgl2RfDoQKLho1Ig2gC"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217850,
+      "name": "Homeland",
+      "url": "https://open.spotify.com/track/0To1TLrTvs4qmNaXxUHRSc"
+    },
+    {
+      "album": {
         "name": "Hometown (feat. Chris P\u00e9rez)",
         "url": "https://open.spotify.com/album/6FG9eGF96Hx4liw1E1NbhV"
       },
@@ -4015,6 +4105,24 @@
     },
     {
       "album": {
+        "name": "I Don't",
+        "url": "https://open.spotify.com/album/1AH1KHsUwPWxRe0tGOjy0N"
+      },
+      "artists": [
+        {
+          "name": "Brandi Caroline",
+          "url": "https://open.spotify.com/artist/4W3vgO5COtH2sUKrPJUcjQ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218383,
+      "name": "I Don't",
+      "url": "https://open.spotify.com/track/6a4lUHHTBXUunpOuraoEnz"
+    },
+    {
+      "album": {
         "name": "Savannah Jade",
         "url": "https://open.spotify.com/album/2Cy6k22AtHoub3zviQDNfc"
       },
@@ -4249,6 +4357,24 @@
     },
     {
       "album": {
+        "name": "Deer in the Headlights",
+        "url": "https://open.spotify.com/album/5qeZSe0axVQt0roM9PqMJL"
+      },
+      "artists": [
+        {
+          "name": "Tallulah Argue",
+          "url": "https://open.spotify.com/artist/34L2mrqYyWifYUwyPMhCUd"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235555,
+      "name": "I Think I'm Gonna Love You Forever",
+      "url": "https://open.spotify.com/track/2wa37x2GB65RpxpKV3ch67"
+    },
+    {
+      "album": {
         "name": "I Want You Back",
         "url": "https://open.spotify.com/album/0LFgLg1muvHmltWfvUTob1"
       },
@@ -4422,7 +4548,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 184320,
       "name": "If I\u2019m Being Honest",
       "url": "https://open.spotify.com/track/2ETyJpJZg64ap9pdg8UiKM"
@@ -4744,6 +4870,24 @@
       "duration_ms": 155374,
       "name": "Last Love Standing",
       "url": "https://open.spotify.com/track/1n8f0lGx6z7YWTEM6sy3OM"
+    },
+    {
+      "album": {
+        "name": "Last Rodeo",
+        "url": "https://open.spotify.com/album/13C5YrXTkUryrL7xkJ25mQ"
+      },
+      "artists": [
+        {
+          "name": "Jess Moskaluke",
+          "url": "https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206260,
+      "name": "Last Rodeo",
+      "url": "https://open.spotify.com/track/2zktqQLyXilXPmGIoly5M9"
     },
     {
       "album": {
@@ -6527,6 +6671,24 @@
     },
     {
       "album": {
+        "name": "Overstaying My Welcome",
+        "url": "https://open.spotify.com/album/2jlskeaXzSkMQfmqrLVaBU"
+      },
+      "artists": [
+        {
+          "name": "Dylan Burk",
+          "url": "https://open.spotify.com/artist/4gey8MMHoIbHz7edJBq1Wx"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174549,
+      "name": "Overstaying My Welcome",
+      "url": "https://open.spotify.com/track/21eJo2KfBqtQjYjpn5brUN"
+    },
+    {
+      "album": {
         "name": "Panic Years",
         "url": "https://open.spotify.com/album/17PHdYIEcZkOyRN6qVyIsz"
       },
@@ -7465,6 +7627,24 @@
     },
     {
       "album": {
+        "name": "Maybe Tomorrow/She'll Come Back Around",
+        "url": "https://open.spotify.com/album/54ClszIIm5XP4Oi7bkjHf3"
+      },
+      "artists": [
+        {
+          "name": "Chevy Beaulieu",
+          "url": "https://open.spotify.com/artist/1v9yVXQyQHJ4K0CQkT0rDC"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199250,
+      "name": "She'll Come Back Around",
+      "url": "https://open.spotify.com/track/187cW7kMU74S7mISzjUjO1"
+    },
+    {
+      "album": {
         "name": "SHE'S SO SWEET",
         "url": "https://open.spotify.com/album/0qIyfB9B1cLpjKhnDtPmuC"
       },
@@ -7754,7 +7934,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 180792,
       "name": "Sober Side Of Crazy",
       "url": "https://open.spotify.com/track/6PFZF9Csv47UW39QeWOt5Y"
@@ -8363,6 +8543,24 @@
     },
     {
       "album": {
+        "name": "That's Gonna Leave A Memory",
+        "url": "https://open.spotify.com/album/4SOqdKl32Eeq6HTWsDIJyO"
+      },
+      "artists": [
+        {
+          "name": "Tebey",
+          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188615,
+      "name": "That's Gonna Leave A Memory",
+      "url": "https://open.spotify.com/track/2zXUfh8jRLZoT1MttcUPrM"
+    },
+    {
+      "album": {
         "name": "That's Just Love For Ya",
         "url": "https://open.spotify.com/album/5pDtTHZty1ErXzu4r7k1Us"
       },
@@ -8378,6 +8576,28 @@
       "duration_ms": 188663,
       "name": "That's Just Love For Ya",
       "url": "https://open.spotify.com/track/50U3w2Cj9TRbX9Ea3Yju0L"
+    },
+    {
+      "album": {
+        "name": "the acrobat (feat. Lori McKenna)",
+        "url": "https://open.spotify.com/album/3n4Sz8AuTYmtgbPA58X9MK"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        },
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234272,
+      "name": "the acrobat (feat. Lori McKenna)",
+      "url": "https://open.spotify.com/track/6Q3lIX5uEqiTxt2cwvyl0R"
     },
     {
       "album": {
@@ -9558,7 +9778,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 177175,
       "name": "When You Know You Know",
       "url": "https://open.spotify.com/track/57t1RzKv09qhtwW9NANXV0"

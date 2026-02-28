@@ -8677,6 +8677,28 @@
     },
     {
       "album": {
+        "name": "Made It On Our Own",
+        "url": "https://open.spotify.com/album/5pXYL4x2dOkvxM0aeigqwF"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169090,
+      "name": "Made It On Our Own",
+      "url": "https://open.spotify.com/track/13Z2JpNwN54a5WXacGYtLs"
+    },
+    {
+      "album": {
         "name": "AM I THE DRAMA?",
         "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
       },

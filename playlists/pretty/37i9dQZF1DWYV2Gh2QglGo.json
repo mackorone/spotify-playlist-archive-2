@@ -1,13 +1,257 @@
 {
-  "description": "The home of Canadian country music. Cover: Tim Hicks",
-  "num_followers": 83659,
+  "description": "The home of Canadian country music. Cover: Parker Graye",
+  "num_followers": 83652,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKbuFOe5IL/vLXf7hhsUse2pUZZA",
+  "snapshot_id": "AAAAAG+E2jT+kSp2Ih3uI+1MC+CRFXU5",
   "tracks": [
+    {
+      "added_at": "2026-02-27 05:01:26",
+      "album": {
+        "name": "Gas Station Flowers",
+        "url": "https://open.spotify.com/album/39bWcyFjtzNYK8P0nSj53A"
+      },
+      "artists": [
+        {
+          "name": "Parker Graye",
+          "url": "https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8"
+        }
+      ],
+      "duration_ms": 165986,
+      "name": "Gas Station Flowers",
+      "url": "https://open.spotify.com/track/4h5NFMj0rawzK9Fm9Fm9sv"
+    },
+    {
+      "added_at": "2026-02-27 05:01:26",
+      "album": {
+        "name": "the acrobat (feat. Lori McKenna)",
+        "url": "https://open.spotify.com/album/3n4Sz8AuTYmtgbPA58X9MK"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        },
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 234272,
+      "name": "the acrobat (feat. Lori McKenna)",
+      "url": "https://open.spotify.com/track/6Q3lIX5uEqiTxt2cwvyl0R"
+    },
+    {
+      "added_at": "2026-02-27 05:01:26",
+      "album": {
+        "name": "That's Gonna Leave A Memory",
+        "url": "https://open.spotify.com/album/4SOqdKl32Eeq6HTWsDIJyO"
+      },
+      "artists": [
+        {
+          "name": "Tebey",
+          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
+        }
+      ],
+      "duration_ms": 188615,
+      "name": "That's Gonna Leave A Memory",
+      "url": "https://open.spotify.com/track/2zXUfh8jRLZoT1MttcUPrM"
+    },
+    {
+      "added_at": "2026-02-27 05:01:26",
+      "album": {
+        "name": "Last Rodeo",
+        "url": "https://open.spotify.com/album/13C5YrXTkUryrL7xkJ25mQ"
+      },
+      "artists": [
+        {
+          "name": "Jess Moskaluke",
+          "url": "https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et"
+        }
+      ],
+      "duration_ms": 206260,
+      "name": "Last Rodeo",
+      "url": "https://open.spotify.com/track/2zktqQLyXilXPmGIoly5M9"
+    },
+    {
+      "added_at": "2026-02-27 05:01:26",
+      "album": {
+        "name": "Drive By",
+        "url": "https://open.spotify.com/album/4KhmSMjBe0eoB0UgrFVG2c"
+      },
+      "artists": [
+        {
+          "name": "Mark Ledlin",
+          "url": "https://open.spotify.com/artist/5qcJdMBiyDrEyqDgplPfh5"
+        }
+      ],
+      "duration_ms": 198351,
+      "name": "Drive By",
+      "url": "https://open.spotify.com/track/13neS0U8XvBBxg0CakYena"
+    },
+    {
+      "added_at": "2026-02-20 05:01:31",
+      "album": {
+        "name": "Put It On Me",
+        "url": "https://open.spotify.com/album/4TmWYzpJwkZc85g9b4hpNc"
+      },
+      "artists": [
+        {
+          "name": "Sully Burrows",
+          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
+        }
+      ],
+      "duration_ms": 156562,
+      "name": "Put It On Me",
+      "url": "https://open.spotify.com/track/2JZDyIQLudHyPupl7P9eDW"
+    },
+    {
+      "added_at": "2026-02-27 05:01:26",
+      "album": {
+        "name": "Maybe Tomorrow/She'll Come Back Around",
+        "url": "https://open.spotify.com/album/54ClszIIm5XP4Oi7bkjHf3"
+      },
+      "artists": [
+        {
+          "name": "Chevy Beaulieu",
+          "url": "https://open.spotify.com/artist/1v9yVXQyQHJ4K0CQkT0rDC"
+        }
+      ],
+      "duration_ms": 199250,
+      "name": "She'll Come Back Around",
+      "url": "https://open.spotify.com/track/187cW7kMU74S7mISzjUjO1"
+    },
+    {
+      "added_at": "2026-02-27 05:01:26",
+      "album": {
+        "name": "Homeland",
+        "url": "https://open.spotify.com/album/2pg9ZErEcrNxyIgKqVkOIL"
+      },
+      "artists": [
+        {
+          "name": "School House",
+          "url": "https://open.spotify.com/artist/37JHgl2RfDoQKLho1Ig2gC"
+        }
+      ],
+      "duration_ms": 217850,
+      "name": "Homeland",
+      "url": "https://open.spotify.com/track/0To1TLrTvs4qmNaXxUHRSc"
+    },
+    {
+      "added_at": "2026-02-27 05:01:26",
+      "album": {
+        "name": "I Don't",
+        "url": "https://open.spotify.com/album/1AH1KHsUwPWxRe0tGOjy0N"
+      },
+      "artists": [
+        {
+          "name": "Brandi Caroline",
+          "url": "https://open.spotify.com/artist/4W3vgO5COtH2sUKrPJUcjQ"
+        }
+      ],
+      "duration_ms": 218383,
+      "name": "I Don't",
+      "url": "https://open.spotify.com/track/6a4lUHHTBXUunpOuraoEnz"
+    },
+    {
+      "added_at": "2026-02-27 05:01:26",
+      "album": {
+        "name": "Deer in the Headlights",
+        "url": "https://open.spotify.com/album/5qeZSe0axVQt0roM9PqMJL"
+      },
+      "artists": [
+        {
+          "name": "Tallulah Argue",
+          "url": "https://open.spotify.com/artist/34L2mrqYyWifYUwyPMhCUd"
+        }
+      ],
+      "duration_ms": 235555,
+      "name": "I Think I'm Gonna Love You Forever",
+      "url": "https://open.spotify.com/track/2wa37x2GB65RpxpKV3ch67"
+    },
+    {
+      "added_at": "2026-02-13 10:00:04",
+      "album": {
+        "name": "Love Hate Love",
+        "url": "https://open.spotify.com/album/646IYYLssCtXOuVrY8z3Kw"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 175946,
+      "name": "Love Hate Love",
+      "url": "https://open.spotify.com/track/2PpVlMyeVlIf4jhpFR8WlA"
+    },
+    {
+      "added_at": "2026-02-13 10:00:04",
+      "album": {
+        "name": "Growing Down",
+        "url": "https://open.spotify.com/album/3iajKt3PJf8HHpfjagIjHQ"
+      },
+      "artists": [
+        {
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+        }
+      ],
+      "duration_ms": 197388,
+      "name": "Growing Down",
+      "url": "https://open.spotify.com/track/4sSoej1nVKu9pmN7yI9CD1"
+    },
+    {
+      "added_at": "2026-02-27 05:01:26",
+      "album": {
+        "name": "Overstaying My Welcome",
+        "url": "https://open.spotify.com/album/2jlskeaXzSkMQfmqrLVaBU"
+      },
+      "artists": [
+        {
+          "name": "Dylan Burk",
+          "url": "https://open.spotify.com/artist/4gey8MMHoIbHz7edJBq1Wx"
+        }
+      ],
+      "duration_ms": 174549,
+      "name": "Overstaying My Welcome",
+      "url": "https://open.spotify.com/track/21eJo2KfBqtQjYjpn5brUN"
+    },
+    {
+      "added_at": "2026-02-27 05:01:26",
+      "album": {
+        "name": "Good Old Days",
+        "url": "https://open.spotify.com/album/5XHFbRRGdwqRMNKMejtLAm"
+      },
+      "artists": [
+        {
+          "name": "Zach Chico",
+          "url": "https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37"
+        }
+      ],
+      "duration_ms": 214942,
+      "name": "Good Old Days",
+      "url": "https://open.spotify.com/track/3NpwbBi1yPjQS1YbXTdsDK"
+    },
+    {
+      "added_at": "2026-02-27 05:01:26",
+      "album": {
+        "name": "Better Get Movin' (Version Fran\u00e7aise)",
+        "url": "https://open.spotify.com/album/20I2OVTOTdpqJasQYYho9q"
+      },
+      "artists": [
+        {
+          "name": "Erika Rollin",
+          "url": "https://open.spotify.com/artist/4M6I1B9lXtqtA5cyyxH6yU"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Better Get Movin' - Version Fran\u00e7aise",
+      "url": "https://open.spotify.com/track/4WD2027AkDz69kSOYCmR8M"
+    },
     {
       "added_at": "2026-02-20 05:01:31",
       "album": {
@@ -27,22 +271,6 @@
     {
       "added_at": "2026-02-20 05:01:31",
       "album": {
-        "name": "Put It On Me",
-        "url": "https://open.spotify.com/album/4TmWYzpJwkZc85g9b4hpNc"
-      },
-      "artists": [
-        {
-          "name": "Sully Burrows",
-          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
-        }
-      ],
-      "duration_ms": 156562,
-      "name": "Put It On Me",
-      "url": "https://open.spotify.com/track/2JZDyIQLudHyPupl7P9eDW"
-    },
-    {
-      "added_at": "2026-02-20 05:01:31",
-      "album": {
         "name": "Penny",
         "url": "https://open.spotify.com/album/0DUFljDrPP4xwog7gmppu2"
       },
@@ -55,22 +283,6 @@
       "duration_ms": 201884,
       "name": "Penny",
       "url": "https://open.spotify.com/track/6lxyUYrbj4S628Ue6d4g1x"
-    },
-    {
-      "added_at": "2026-02-13 10:00:04",
-      "album": {
-        "name": "Love Hate Love",
-        "url": "https://open.spotify.com/album/646IYYLssCtXOuVrY8z3Kw"
-      },
-      "artists": [
-        {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
-        }
-      ],
-      "duration_ms": 175946,
-      "name": "Love Hate Love",
-      "url": "https://open.spotify.com/track/2PpVlMyeVlIf4jhpFR8WlA"
     },
     {
       "added_at": "2026-02-20 05:01:31",
@@ -87,22 +299,6 @@
       "duration_ms": 201600,
       "name": "Be This Good",
       "url": "https://open.spotify.com/track/3IDu5U0jODmIG5DxQ5l0aC"
-    },
-    {
-      "added_at": "2026-02-13 10:00:04",
-      "album": {
-        "name": "Growing Down",
-        "url": "https://open.spotify.com/album/3iajKt3PJf8HHpfjagIjHQ"
-      },
-      "artists": [
-        {
-          "name": "Robyn Ottolini",
-          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
-        }
-      ],
-      "duration_ms": 197388,
-      "name": "Growing Down",
-      "url": "https://open.spotify.com/track/4sSoej1nVKu9pmN7yI9CD1"
     },
     {
       "added_at": "2026-02-06 05:01:26",
@@ -449,22 +645,6 @@
       "url": "https://open.spotify.com/track/0qYEfg6RftcrQoSVQn4fKw"
     },
     {
-      "added_at": "2026-01-16 05:01:18",
-      "album": {
-        "name": "Always Be The One",
-        "url": "https://open.spotify.com/album/4lr4Mosc7nogwInirByGPG"
-      },
-      "artists": [
-        {
-          "name": "Tebey",
-          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
-        }
-      ],
-      "duration_ms": 186768,
-      "name": "Always Be The One",
-      "url": "https://open.spotify.com/track/6e9QzC16F6Lq2dXtpbf5ml"
-    },
-    {
       "added_at": "2026-01-23 05:01:13",
       "album": {
         "name": "Quittin' You",
@@ -579,22 +759,6 @@
       "duration_ms": 193501,
       "name": "Strangers Don't",
       "url": "https://open.spotify.com/track/5ifMD7ZWXHBkB27IDIU3ML"
-    },
-    {
-      "added_at": "2026-01-23 05:01:13",
-      "album": {
-        "name": "If I\u2019m Being Honest",
-        "url": "https://open.spotify.com/album/5L5oi3u8tufpJI0quqzauR"
-      },
-      "artists": [
-        {
-          "name": "Dylan Burk",
-          "url": "https://open.spotify.com/artist/4gey8MMHoIbHz7edJBq1Wx"
-        }
-      ],
-      "duration_ms": 184320,
-      "name": "If I\u2019m Being Honest",
-      "url": "https://open.spotify.com/track/2ETyJpJZg64ap9pdg8UiKM"
     },
     {
       "added_at": "2026-01-16 05:01:18",
@@ -1077,22 +1241,6 @@
       "url": "https://open.spotify.com/track/3e3qxcYhZmPL0GjUdNzjnK"
     },
     {
-      "added_at": "2025-11-14 12:09:53",
-      "album": {
-        "name": "The Encore Mixes",
-        "url": "https://open.spotify.com/album/4LPotAUEKa8MtLsTmy2yeC"
-      },
-      "artists": [
-        {
-          "name": "Jess Moskaluke",
-          "url": "https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et"
-        }
-      ],
-      "duration_ms": 170741,
-      "name": "Drive Me Away - Dashboard Mix",
-      "url": "https://open.spotify.com/track/3COsBsMHY5UaB7slB7wno7"
-    },
-    {
       "added_at": "2025-10-06 15:31:33",
       "album": {
         "name": "One Of Us",
@@ -1159,22 +1307,6 @@
       "duration_ms": 269800,
       "name": "Life At 19",
       "url": "https://open.spotify.com/track/04adbpnH6A7q8wnaaSadmb"
-    },
-    {
-      "added_at": "2025-10-10 00:01:13",
-      "album": {
-        "name": "Somewhere in a Small Town",
-        "url": "https://open.spotify.com/album/1ylNEY1dGx6301ItDwc3th"
-      },
-      "artists": [
-        {
-          "name": "Sully Burrows",
-          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
-        }
-      ],
-      "duration_ms": 177175,
-      "name": "When You Know You Know",
-      "url": "https://open.spotify.com/track/57t1RzKv09qhtwW9NANXV0"
     },
     {
       "added_at": "2025-10-24 04:25:20",
@@ -1639,22 +1771,6 @@
       "duration_ms": 224819,
       "name": "One Hell Of A Night",
       "url": "https://open.spotify.com/track/581jm0RBSUfwuX6K3GCc81"
-    },
-    {
-      "added_at": "2025-10-17 04:01:39",
-      "album": {
-        "name": "Sober Side Of Crazy",
-        "url": "https://open.spotify.com/album/1MwTcJTKFAlVYTuWC6aI5l"
-      },
-      "artists": [
-        {
-          "name": "Mark Ledlin",
-          "url": "https://open.spotify.com/artist/5qcJdMBiyDrEyqDgplPfh5"
-        }
-      ],
-      "duration_ms": 180792,
-      "name": "Sober Side Of Crazy",
-      "url": "https://open.spotify.com/track/6PFZF9Csv47UW39QeWOt5Y"
     },
     {
       "added_at": "2025-10-17 04:01:39",

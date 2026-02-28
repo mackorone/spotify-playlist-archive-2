@@ -1031,6 +1031,32 @@
     },
     {
       "album": {
+        "name": "Always You (A State of Trance 2026 ELEVATION Anthem)",
+        "url": "https://open.spotify.com/album/1gcqQomUJz8hb8iXDZDApE"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Richard Durand",
+          "url": "https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR"
+        },
+        {
+          "name": "Dicosis",
+          "url": "https://open.spotify.com/artist/1OzaVbvTssplYwiAq5xq2V"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207386,
+      "name": "Always You (A State of Trance 2026 ELEVATION Anthem)",
+      "url": "https://open.spotify.com/track/0J53OaOuSp7RARHjj1wMTh"
+    },
+    {
+      "album": {
         "name": "Am I Dreaming?",
         "url": "https://open.spotify.com/album/3W6SHRewTnNJCLMTJ9yXIS"
       },
@@ -1712,7 +1738,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 203225,
       "name": "Ascend",
       "url": "https://open.spotify.com/track/52QYnyhOTbk9ICVCSQkUBd"
@@ -1934,7 +1960,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 203104,
       "name": "Autumn Avenue",
       "url": "https://open.spotify.com/track/45cSMRawie2kyMBPyO7B0F"
@@ -2360,6 +2386,28 @@
       "duration_ms": 281250,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/75JEQxjvZKEBCSAIFEkZnz"
+    },
+    {
+      "album": {
+        "name": "Beautiful Places",
+        "url": "https://open.spotify.com/album/5VazojcPIKmubxUoM69WLi"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Brieanna Grace",
+          "url": "https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "Beautiful Places",
+      "url": "https://open.spotify.com/track/3RteXOutkxVPSEP5syRAgo"
     },
     {
       "album": {
@@ -7446,6 +7494,32 @@
       "duration_ms": 224584,
       "name": "Eyepiece",
       "url": "https://open.spotify.com/track/1gMWFfgtpzVXP1PoGRKIob"
+    },
+    {
+      "album": {
+        "name": "Eyes Open Wide (feat. The Melody Men)",
+        "url": "https://open.spotify.com/album/0KXYyWngj4Vx2bgHUGO2PG"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        },
+        {
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
+        },
+        {
+          "name": "The Melody Men",
+          "url": "https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221818,
+      "name": "Eyes Open Wide (feat. The Melody Men)",
+      "url": "https://open.spotify.com/track/3lNB6AIzIndg6zUzWH8Wql"
     },
     {
       "album": {
@@ -15721,6 +15795,36 @@
     },
     {
       "album": {
+        "name": "Never Be The Same",
+        "url": "https://open.spotify.com/album/4hNWaniy9ESOGo26SF2bEI"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rayel",
+          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
+        },
+        {
+          "name": "EXTASIA",
+          "url": "https://open.spotify.com/artist/0yfUG8p1uhkTrjDYcpFEIH"
+        },
+        {
+          "name": "Alan Morris",
+          "url": "https://open.spotify.com/artist/2C51Wbu4q389aUw2Vy8IA4"
+        },
+        {
+          "name": "Joanna Angelina",
+          "url": "https://open.spotify.com/artist/4JFamZHVFgvQq75yHwQxa8"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218502,
+      "name": "Never Be The Same",
+      "url": "https://open.spotify.com/track/709wx0A9pdBEJeV7PRQrZ8"
+    },
+    {
+      "album": {
         "name": "Never Cry Again",
         "url": "https://open.spotify.com/album/5atYDx8R2Nd8DAKRbO7TJa"
       },
@@ -21282,7 +21386,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 132000,
       "name": "Stay",
       "url": "https://open.spotify.com/track/1GAthUlnxSTkb23RcJ2AUV"
@@ -22406,7 +22510,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 209250,
       "name": "Take Me Higher",
       "url": "https://open.spotify.com/track/3Yt7MqHIi1c5C4TKBAxsjm"
@@ -25909,6 +26013,32 @@
     },
     {
       "album": {
+        "name": "Whispers In The Wind",
+        "url": "https://open.spotify.com/album/30gO6VzRNRC8rnEWCbi7rh"
+      },
+      "artists": [
+        {
+          "name": "Talla 2XLC",
+          "url": "https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ"
+        },
+        {
+          "name": "YORK",
+          "url": "https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q"
+        },
+        {
+          "name": "DJ Sakin & Friends",
+          "url": "https://open.spotify.com/artist/7rz2w4y86wgga7Z6nrJKty"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233191,
+      "name": "Whispers In The Wind",
+      "url": "https://open.spotify.com/track/3asVxIgShLAyWHTlH2qWb6"
+    },
+    {
+      "album": {
         "name": "Who We Are",
         "url": "https://open.spotify.com/album/1AiMqouP0qfLTho7pADxB8"
       },
@@ -26360,7 +26490,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 201799,
       "name": "XX",
       "url": "https://open.spotify.com/track/76ma1GT4O6D1WO4AfIdEnO"

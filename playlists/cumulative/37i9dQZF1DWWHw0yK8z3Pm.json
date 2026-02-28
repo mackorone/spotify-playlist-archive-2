@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "Fearless sounds at the crossroads of country and folk. Cover: Mumford & Sons, Chris Stapleton",
+  "description": "Fearless sounds at the crossroads of country and folk. Cover: Max McNown",
   "name": "Renegades",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 301787,
       "name": "1 Mile From Heaven",
       "url": "https://open.spotify.com/track/1j8hIIPFy1YM3FoBMAxihE"
@@ -3259,6 +3259,24 @@
     },
     {
       "album": {
+        "name": "Done For",
+        "url": "https://open.spotify.com/album/1cGgULJ45qb2qOvPuKQcXH"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153315,
+      "name": "Done For",
+      "url": "https://open.spotify.com/track/3aSyshS7O34fmTpcieSCTt"
+    },
+    {
+      "album": {
         "name": "Because It\u2019s True",
         "url": "https://open.spotify.com/album/1E1ncAUiHSyXacOPCSYxSK"
       },
@@ -3944,7 +3962,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 179759,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/0BTSJiovmjDoWYMt7UHd3B"
@@ -3966,6 +3984,24 @@
       "duration_ms": 189459,
       "name": "Favorite Fear",
       "url": "https://open.spotify.com/track/3Vqcx4fajH02dyRuY99szQ"
+    },
+    {
+      "album": {
+        "name": "Feel the Heat",
+        "url": "https://open.spotify.com/album/5yluL8wxkEXTQkiKwG9IJw"
+      },
+      "artists": [
+        {
+          "name": "The Wild Palominos",
+          "url": "https://open.spotify.com/artist/78cemO4mikDQPN9BKWg2IO"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178510,
+      "name": "Feel the Heat",
+      "url": "https://open.spotify.com/track/5xRGp9QQwcGvaFUYPnMzia"
     },
     {
       "album": {
@@ -5235,6 +5271,24 @@
     },
     {
       "album": {
+        "name": "Homeland",
+        "url": "https://open.spotify.com/album/2pg9ZErEcrNxyIgKqVkOIL"
+      },
+      "artists": [
+        {
+          "name": "School House",
+          "url": "https://open.spotify.com/artist/37JHgl2RfDoQKLho1Ig2gC"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217850,
+      "name": "Homeland",
+      "url": "https://open.spotify.com/track/0To1TLrTvs4qmNaXxUHRSc"
+    },
+    {
+      "album": {
         "name": "Honest Love",
         "url": "https://open.spotify.com/album/7at93U2OD7nuYVVWhwFFZV"
       },
@@ -5442,6 +5496,24 @@
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
+    },
+    {
+      "album": {
+        "name": "Deer in the Headlights",
+        "url": "https://open.spotify.com/album/5qeZSe0axVQt0roM9PqMJL"
+      },
+      "artists": [
+        {
+          "name": "Tallulah Argue",
+          "url": "https://open.spotify.com/artist/34L2mrqYyWifYUwyPMhCUd"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235555,
+      "name": "I Think I'm Gonna Love You Forever",
+      "url": "https://open.spotify.com/track/2wa37x2GB65RpxpKV3ch67"
     },
     {
       "album": {
@@ -9304,7 +9376,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 214662,
       "name": "Rock And Bird - 2025 Version",
       "url": "https://open.spotify.com/track/2Gra5k4QSdCRecxiDqJpfs"
@@ -9614,7 +9686,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 264440,
       "name": "Sell all you have",
       "url": "https://open.spotify.com/track/4rQ9Rj1Au4Weq6szFakdZK"

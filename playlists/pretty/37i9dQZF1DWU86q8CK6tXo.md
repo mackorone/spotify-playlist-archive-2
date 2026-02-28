@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Samara Cyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,718 likes - 54 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,715 likes - 54 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 20 | [Move & Flow](https://open.spotify.com/track/7vfwYnc46GCiyAxozMvJFz) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [Move & Flow](https://open.spotify.com/album/2ZsVDjE6FeHur0KCQLvIUK) | 3:56 |
 | 21 | [Dead End](https://open.spotify.com/track/2DcJRwVK6Qlk3h6lXWQvE4) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Dead End](https://open.spotify.com/album/3wDIP40j3CcyfvmVjiN6v9) | 4:05 |
 | 22 | [Addicted](https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [Addicted](https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk) | 2:43 |
-| 23 | [AMÉN BEBÉ](https://open.spotify.com/track/5Xa1Ck3fLmo29HcnKsAr8H) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bendito Verano](https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s) | 2:31 |
-| 24 | [This Is The World \(I Made It For You\)](https://open.spotify.com/track/6xgNV9489zKLRXnvpiZQXJ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [This Is The World \(I Made It For You\) / Nice Day](https://open.spotify.com/album/4vWx8nV08q3lSTpwZJZQMf) | 4:41 |
-| 25 | [Call Me Baby](https://open.spotify.com/track/3jCRpf7OMu9Fw4saMg5UbZ) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [sick to my stomach](https://open.spotify.com/album/3U7pwvDIhFLiTtNtb36gLW) | 2:31 |
+| 23 | [Call Me Baby](https://open.spotify.com/track/3jCRpf7OMu9Fw4saMg5UbZ) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [sick to my stomach](https://open.spotify.com/album/3U7pwvDIhFLiTtNtb36gLW) | 2:31 |
+| 24 | [AMÉN BEBÉ](https://open.spotify.com/track/5Xa1Ck3fLmo29HcnKsAr8H) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bendito Verano](https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s) | 2:31 |
+| 25 | [This Is The World \(I Made It For You\)](https://open.spotify.com/track/6xgNV9489zKLRXnvpiZQXJ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [This Is The World \(I Made It For You\) / Nice Day](https://open.spotify.com/album/4vWx8nV08q3lSTpwZJZQMf) | 4:41 |
 | 26 | [Like Me Better](https://open.spotify.com/track/6GfNpMaBdEEDUoABk9Wusw) | [Evelyn Cormier](https://open.spotify.com/artist/6oOuy3kZ9Sk07JEER1C7En) | [Like Me Better](https://open.spotify.com/album/70PqdcEjKsEb4ARQzOXC1L) | 2:32 |
 | 27 | [Tell Me It's Over](https://open.spotify.com/track/5dGzPJBNASM65k7uwcEMtt) | [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [Tell Me It's Over](https://open.spotify.com/album/6MmMqPde3ph2QQY1FhaUrP) | 2:56 |
 | 28 | [Chronic](https://open.spotify.com/track/5c20yKxwM7vnSCG6LGyJPy) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Chronic](https://open.spotify.com/album/0AXvyUq5ZDOWScCAEbr4hT) | 2:36 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 33 | [Go Girl \(with Latto & Doja Cat\)](https://open.spotify.com/track/4YctSqQRw3MzQshfk72cej) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Finally Over It \(The Afterparty\)](https://open.spotify.com/album/4ms0fTBX5E76Ho0Ke4az0Q) | 3:50 |
 | 34 | [w\-w\-w\-w\-w](https://open.spotify.com/track/65ELRFojRCRWHEyYDA5AQd) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [w\-w\-w\-w\-w](https://open.spotify.com/album/5wICjFM6k0RJow9l8anfuk) | 4:26 |
 | 35 | [She](https://open.spotify.com/track/1fsHjzB9BSe2pSt0YTuKAL) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [She](https://open.spotify.com/album/2bQgSIFWTdcBZngvgSzIo0) | 2:36 |
-| 36 | [Hard Pill](https://open.spotify.com/track/1MKBNca9hluUAqgsUV4qMG) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Hard Pill](https://open.spotify.com/album/15PD9rnBxeUhFfA13qkXVO) | 3:19 |
-| 37 | [THUM](https://open.spotify.com/track/3yuaDt5vOxrQD06LrAQPj9) | [Violet Grohl](https://open.spotify.com/artist/3PbVZAe3y6cQKBDdG2YASB) | [THUM](https://open.spotify.com/album/0fz4N5DS1SJ6jbNABL9UMr) | 2:11 |
+| 36 | [THUM](https://open.spotify.com/track/3yuaDt5vOxrQD06LrAQPj9) | [Violet Grohl](https://open.spotify.com/artist/3PbVZAe3y6cQKBDdG2YASB) | [THUM](https://open.spotify.com/album/0fz4N5DS1SJ6jbNABL9UMr) | 2:11 |
+| 37 | [Hard Pill](https://open.spotify.com/track/1MKBNca9hluUAqgsUV4qMG) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Hard Pill](https://open.spotify.com/album/15PD9rnBxeUhFfA13qkXVO) | 3:19 |
 | 38 | [NOT TODAY](https://open.spotify.com/track/1tXniZMdXRV8FyUZHN51eS) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [NOT TODAY](https://open.spotify.com/album/0CN3gBzAW6mYrtmyBavIqs) | 3:35 |
 | 39 | [Antología \- Spotify Anniversary Version](https://open.spotify.com/track/7hXvUF9b5saD4GK7d1H9LX) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Spotify Anniversary \| Oral Fixation \(20th\) and Pies Descalzos \(30th\) LIVE](https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL) | 3:44 |
 | 40 | [Simon Says](https://open.spotify.com/track/0RCHYLH8znuGWAlBqWThu1) | [Abbie Callahan](https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm) | [Simon Says](https://open.spotify.com/album/7eB0QmLVAQGEFrzhLHwRj3) | 3:05 |

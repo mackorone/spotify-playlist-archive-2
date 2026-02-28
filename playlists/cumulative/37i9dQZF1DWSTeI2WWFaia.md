@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: J\. Cole
 
-914 songs - 2 day 0 hr 52 min
+915 songs - 2 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [CHANNEL No3](https://open.spotify.com/track/6UIMNszTQOvYchYqswBR17) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [CHANNEL No3](https://open.spotify.com/album/1WfB6HK3LNQh3TLoDv3Msw) | 3:46 | 2023-07-07 | 2023-10-03 |
 | [Checkmate](https://open.spotify.com/track/3KYTIo9pu84SbLL53iGew4) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Checkmate](https://open.spotify.com/album/092m8BBfQD4WLKfZXkD2PI) | 2:50 | 2022-09-16 | 2022-11-12 |
 | [Chicken N Dumplins](https://open.spotify.com/track/0d6nLPB8mwKp2qYJupyPuY) | [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP) | [Chicken N Dumplins](https://open.spotify.com/album/3eJJmcOAr0FVxGgQM5nUJi) | 3:46 | 2021-09-03 | 2022-03-18 |
-| [Childish Things](https://open.spotify.com/track/5sAooo0RyhX44ds11hi5Cs) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [656](https://open.spotify.com/album/3InmPui8pj47JAOOu1e4GR) | 3:33 | 2026-01-23 |  |
+| [Childish Things](https://open.spotify.com/track/5sAooo0RyhX44ds11hi5Cs) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [656](https://open.spotify.com/album/3InmPui8pj47JAOOu1e4GR) | 3:33 | 2026-01-23 | 2026-02-28 |
 | [Chop Chop](https://open.spotify.com/track/5YqRmwcYhyEaC4OnSahUEX) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [10/15](https://open.spotify.com/album/0G1LhCJaL190zHcyU8NZsx) | 3:22 | 2025-10-17 | 2025-10-25 |
 | [Chops on the Blade](https://open.spotify.com/track/74Fqn1olHLrMlL6deu4ExE) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Chops on the Blade](https://open.spotify.com/album/1W8rO7SBVNsjB2v197I0bk) | 3:32 | 2023-10-13 | 2024-01-21 |
 | [Chopstick](https://open.spotify.com/track/2MDqwQHCP4wELHzWn9DntV) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Chopstick](https://open.spotify.com/album/2fKIl2b2zUW17YU7WjBCEi) | 2:41 | 2024-12-13 | 2025-02-08 |
@@ -492,6 +492,7 @@
 | [Mamas PrimeTime](https://open.spotify.com/track/5DBkCzSGttobRr6ApIEd4f) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Cartier A Williams](https://open.spotify.com/artist/2Fsw6Hh9wWybcZPZZEGYPj) | [And Then You Pray For Me](https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU) | 4:59 | 2023-10-13 | 2024-11-23 |
 | [man at the garden](https://open.spotify.com/track/5ho7VSXSmI2KM2nDjcnLyz) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:53 | 2024-11-23 |  |
 | [Mancala \(feat\. Vince Staples\)](https://open.spotify.com/track/3G2Xq0ZA5nra0iHMjbXOYD) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [VOIR DIRE](https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6) | 2:41 | 2023-10-06 | 2024-11-23 |
+| [Manhunt](https://open.spotify.com/track/3VybQPFudU3wTcVChVG05W) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Rome Streetz](https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB) | [Manhunt](https://open.spotify.com/album/5OAT54oeB6x3VFbcbGwkbX) | 3:08 | 2026-02-27 |  |
 | [Mannequin](https://open.spotify.com/track/6rCj7kub7xxSvkdKBFyQ4W) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [Mannequin](https://open.spotify.com/album/2p6jl1M9uh40sIv1KA5aKW) | 3:54 | 2022-07-08 | 2023-03-04 |
 | [MARATHON](https://open.spotify.com/track/4YsYeD30IRuVA4BnG2qRKY) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [MARATHON](https://open.spotify.com/album/3Fw74FRQhHTDA57xb2O3ki) | 3:17 | 2023-07-28 | 2023-09-26 |
 | [Marble Columns \(feat\. Larry June\)](https://open.spotify.com/track/3IPSBSVqnwlWu2wsexdHqo) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [VICES](https://open.spotify.com/album/2GnhuSP99eh6EWRUa8Owv6) | 3:10 | 2023-07-07 | 2023-11-04 |

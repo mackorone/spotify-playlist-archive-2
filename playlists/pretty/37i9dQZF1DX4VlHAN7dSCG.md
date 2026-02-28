@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都在台灣開花！風格豐富力量大！Cover: 傷心欲絕 \(Wayne's so Sad\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,775 likes - 71 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,780 likes - 71 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 70 | [Feather \- Remix](https://open.spotify.com/track/5Ye8qFcZ8KywKqRQF5sDMO) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g), [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR), [dooodooo](https://open.spotify.com/artist/1dHH1PggnBoToO5M35Rv9A) | [More Real than Dreams \(Original Documentary Soundtrack\)](https://open.spotify.com/album/3dVAoxGLONO7xe3WyAhoQr) | 3:33 |
 | 71 | [LET GO](https://open.spotify.com/track/6yPJonblWxOkMVscbU8c45) | [FUMON](https://open.spotify.com/artist/3zGGhKGLorCRgcXc22gYDX) | [LET GO](https://open.spotify.com/album/5e4RbnxjNEXMv7XbQTFUzo) | 3:17 |
 
-Snapshot ID: `AAAAAAVtCYGeimRSwxYkC9N86sftP+XN`
+Snapshot ID: `AAAAAIGHH5cspYad3JLwFR0qvs2JUsKF`

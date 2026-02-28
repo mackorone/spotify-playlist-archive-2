@@ -1,12 +1,12 @@
 {
   "description": "This is Clara Rockmore. The essential tracks, all in one playlist.",
-  "num_followers": 1708,
+  "num_followers": 1709,
   "original_name": "This Is Clara Rockmore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAAA0U4eERzsbu/Tiktv6oXOJ",
+  "snapshot_id": "aZ+NAAAAAADraR3FhyR3TWnG33ASzdT2",
   "tracks": [
     {
       "added_at": null,
@@ -35,30 +35,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)",
-        "url": "https://open.spotify.com/album/0C4aQs2fyK7on5PO2kDNFd"
-      },
-      "artists": [
-        {
-          "name": "Camille Saint-Sa\u00ebns",
-          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 182733,
-      "name": "Le carnaval des animaux: No. 12, Le cygne [arr. For theremin and piano]",
-      "url": "https://open.spotify.com/track/58bwPCsCaEMuaFd7hT8jol"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dvo\u0159\u00e1k, Ravel, Gershwin & Others: Chamber Works",
         "url": "https://open.spotify.com/album/07PuUaUiNY5zyIJZqLFjCB"
       },
@@ -79,6 +55,30 @@
       "duration_ms": 125746,
       "name": "La vie en rose (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/4L5aok3XDZPuDCbchbCxCm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Art of the Theremin",
+        "url": "https://open.spotify.com/album/2xKN9n6ocYAPKePP3AyGUp"
+      },
+      "artists": [
+        {
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "duration_ms": 182733,
+      "name": "Le Carnaval des animaux, R. 125: No. 13, Le Cygne (Arr. for Theremin and Piano by Clara Rockmore)",
+      "url": "https://open.spotify.com/track/7uTtxgxU1YAGWk9t4Yvf4q"
     },
     {
       "added_at": null,
@@ -131,30 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)",
-        "url": "https://open.spotify.com/album/0C4aQs2fyK7on5PO2kDNFd"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 256760,
-      "name": "No. 2, Berceuse (Arr. For theremin and piano)",
-      "url": "https://open.spotify.com/track/2tdd89iY7Os4rQgbXL7Tui"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dvo\u0159\u00e1k, Ravel, Gershwin & Others: Chamber Works",
         "url": "https://open.spotify.com/album/07PuUaUiNY5zyIJZqLFjCB"
       },
@@ -175,6 +151,30 @@
       "duration_ms": 167253,
       "name": "Porgy and Bess, Act I Scene 1: Summertime (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/3elPdiTOZ6fH7tsRGeifG9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)",
+        "url": "https://open.spotify.com/album/0C4aQs2fyK7on5PO2kDNFd"
+      },
+      "artists": [
+        {
+          "name": "Igor Stravinsky",
+          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "Berceuse (Arr. For theremin and piano)",
+      "url": "https://open.spotify.com/track/40jjsKUVCChR7SIiwr9KVG"
     },
     {
       "added_at": null,
@@ -223,30 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)",
-        "url": "https://open.spotify.com/album/0C4aQs2fyK7on5PO2kDNFd"
-      },
-      "artists": [
-        {
-          "name": "Igor Stravinsky",
-          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "Berceuse (Arr. For theremin and piano)",
-      "url": "https://open.spotify.com/track/40jjsKUVCChR7SIiwr9KVG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dvo\u0159\u00e1k, Ravel, Gershwin & Others: Chamber Works",
         "url": "https://open.spotify.com/album/07PuUaUiNY5zyIJZqLFjCB"
       },
@@ -267,6 +243,122 @@
       "duration_ms": 236413,
       "name": "Nocturne in C-Sharp Minor, B. 49 (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/7JIzBEgSo8RQkiM7292cPP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Art of the Theremin",
+        "url": "https://open.spotify.com/album/2xKN9n6ocYAPKePP3AyGUp"
+      },
+      "artists": [
+        {
+          "name": "Manuel de Falla",
+          "url": "https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "duration_ms": 229306,
+      "name": "El amor brujo, Scene 1: No. 7, Pantomima (Arr. for Theremin and Piano by Clara Rockmore)",
+      "url": "https://open.spotify.com/track/3xgGIpwxmxW9Gk3EeihaJA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
+        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        }
+      ],
+      "duration_ms": 256466,
+      "name": "Song of Grusia, Op. 4, No. 4",
+      "url": "https://open.spotify.com/track/2TnvOf9Ez0MK7Qp6at8UXz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music In and On The Air",
+        "url": "https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "The Listening Room Ensemble",
+          "url": "https://open.spotify.com/artist/4qKsaDDZKs0Kf6LX0Y2786"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        }
+      ],
+      "duration_ms": 268080,
+      "name": "Suite No. 3 in D, BWV 1068: Air on the G String",
+      "url": "https://open.spotify.com/track/3qT7ByaQYNy32JoYyC9f8h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dvo\u0159\u00e1k, Ravel, Gershwin & Others: Chamber Works",
+        "url": "https://open.spotify.com/album/07PuUaUiNY5zyIJZqLFjCB"
+      },
+      "artists": [
+        {
+          "name": "Fritz Kreisler",
+          "url": "https://open.spotify.com/artist/0HdNDZaNm7xLt18v9aWDfe"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "duration_ms": 153026,
+      "name": "3 Old Viennese Dances: No. 2, Liebesleid (Arr. for Theremin & Piano)",
+      "url": "https://open.spotify.com/track/2FIZ786pcMnR0kziFjZdpV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Art of the Theremin",
+        "url": "https://open.spotify.com/album/2xKN9n6ocYAPKePP3AyGUp"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "duration_ms": 256760,
+      "name": "18 Morceaux, Op. 72: No. 2, Berceuse (Arr. for Theremin and Piano by Clara Rockmore)",
+      "url": "https://open.spotify.com/track/5qhYbBPhm6uBUoBiuNI3ez"
     },
     {
       "added_at": null,
@@ -300,98 +392,6 @@
       },
       "artists": [
         {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        }
-      ],
-      "duration_ms": 256466,
-      "name": "Song of Grusia, Op. 4, No. 4",
-      "url": "https://open.spotify.com/track/2TnvOf9Ez0MK7Qp6at8UXz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)",
-        "url": "https://open.spotify.com/album/0C4aQs2fyK7on5PO2kDNFd"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 165733,
-      "name": "Vocalise-etude en forme de habanera (Arr. For theremin and piano)",
-      "url": "https://open.spotify.com/track/67hudEGxaY2bvZWCtVYE9l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dvo\u0159\u00e1k, Ravel, Gershwin & Others: Chamber Works",
-        "url": "https://open.spotify.com/album/07PuUaUiNY5zyIJZqLFjCB"
-      },
-      "artists": [
-        {
-          "name": "Fritz Kreisler",
-          "url": "https://open.spotify.com/artist/0HdNDZaNm7xLt18v9aWDfe"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 153026,
-      "name": "3 Old Viennese Dances: No. 2, Liebesleid (Arr. for Theremin & Piano)",
-      "url": "https://open.spotify.com/track/2FIZ786pcMnR0kziFjZdpV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music In and On The Air",
-        "url": "https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "The Listening Room Ensemble",
-          "url": "https://open.spotify.com/artist/4qKsaDDZKs0Kf6LX0Y2786"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        }
-      ],
-      "duration_ms": 268080,
-      "name": "Suite No. 3 in D, BWV 1068: Air on the G String",
-      "url": "https://open.spotify.com/track/3qT7ByaQYNy32JoYyC9f8h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
-        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
-      },
-      "artists": [
-        {
           "name": "Pyotr Ilyich Tchaikovsky",
           "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
         },
@@ -403,30 +403,6 @@
       "duration_ms": 252520,
       "name": "Berceuse, Op. 72, No. 2",
       "url": "https://open.spotify.com/track/7N2ym4AZsxlHJH1stPzLpB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Art of the Theremin",
-        "url": "https://open.spotify.com/album/2xKN9n6ocYAPKePP3AyGUp"
-      },
-      "artists": [
-        {
-          "name": "Manuel de Falla",
-          "url": "https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 229306,
-      "name": "El amor brujo, Scene 1: No. 7, Pantomima (Arr. for Theremin and Piano by Clara Rockmore)",
-      "url": "https://open.spotify.com/track/3xgGIpwxmxW9Gk3EeihaJA"
     },
     {
       "added_at": null,
@@ -451,6 +427,30 @@
       "duration_ms": 294893,
       "name": "Ave Maria, Op. 52 No. 6, D. 839 (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/5SM8u98pVLpoTvJDTW2sMk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Art of the Theremin",
+        "url": "https://open.spotify.com/album/2xKN9n6ocYAPKePP3AyGUp"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "duration_ms": 259560,
+      "name": "6 Romances, Op. 4: No. 4, Do Not Sing, My Beauty (Arr. for Theremin and Piano by Clara Rockmore)",
+      "url": "https://open.spotify.com/track/2gpimdfFYEztUxQUgdFjym"
     },
     {
       "added_at": null,
@@ -499,30 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)",
-        "url": "https://open.spotify.com/album/0C4aQs2fyK7on5PO2kDNFd"
-      },
-      "artists": [
-        {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 259560,
-      "name": "Song of Grusia (Arr. For theremin and piano)",
-      "url": "https://open.spotify.com/track/1yxKfRi0cb5B89YT9MIQfw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dvo\u0159\u00e1k, Ravel, Gershwin & Others: Chamber Works",
         "url": "https://open.spotify.com/album/07PuUaUiNY5zyIJZqLFjCB"
       },
@@ -543,46 +519,6 @@
       "duration_ms": 127720,
       "name": "Suite No. 5 in C Minor: V. Air (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/00GEyE83YePZrwszp6ta2h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music and Memories: Clara Rockmore",
-        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
-      },
-      "artists": [
-        {
-          "name": "Manuel Ponce",
-          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 181240,
-      "name": "Estrellita",
-      "url": "https://open.spotify.com/track/5qtfc56Rrv5VFcrnr4ZiBK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
-        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
-      },
-      "artists": [
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        }
-      ],
-      "duration_ms": 62013,
-      "name": "Concluding Announcements",
-      "url": "https://open.spotify.com/track/2v6RrCzcuUz2oUovrrWy4w"
     },
     {
       "added_at": null,
@@ -615,13 +551,13 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music and Memories: Clara Rockmore",
-        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
+        "name": "The Art of the Theremin",
+        "url": "https://open.spotify.com/album/2xKN9n6ocYAPKePP3AyGUp"
       },
       "artists": [
         {
-          "name": "C\u00e9sar Franck",
-          "url": "https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy"
+          "name": "Henryk Wieniawski",
+          "url": "https://open.spotify.com/artist/7wEcQTGkugQxXzikls4izh"
         },
         {
           "name": "Clara Rockmore",
@@ -632,9 +568,33 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 504080,
-      "name": "Sonata for Violin and Piano: Ben moderato: Recitativo-Fantasia",
-      "url": "https://open.spotify.com/track/6bfVKqf7Isv7X3lkT3QQ60"
+      "duration_ms": 288666,
+      "name": "Violin Concerto No. 2 in D Minor, Op. 22: II. Romance (Arr. for Theremin and Piano by Clara Rockmore)",
+      "url": "https://open.spotify.com/track/1ATduRnEE0yRgBBDz19wRX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music and Memories: Clara Rockmore",
+        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
+      },
+      "artists": [
+        {
+          "name": "Manuel Ponce",
+          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "duration_ms": 181240,
+      "name": "Estrellita",
+      "url": "https://open.spotify.com/track/5qtfc56Rrv5VFcrnr4ZiBK"
     },
     {
       "added_at": null,
@@ -675,6 +635,46 @@
       "duration_ms": 54800,
       "name": "Commentary 5",
       "url": "https://open.spotify.com/track/5I7mksA6nrFBnEZde1DxRr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music and Memories: Clara Rockmore",
+        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9sar Franck",
+          "url": "https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "duration_ms": 504080,
+      "name": "Sonata for Violin and Piano: Ben moderato: Recitativo-Fantasia",
+      "url": "https://open.spotify.com/track/6bfVKqf7Isv7X3lkT3QQ60"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
+        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
+      },
+      "artists": [
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        }
+      ],
+      "duration_ms": 62013,
+      "name": "Concluding Announcements",
+      "url": "https://open.spotify.com/track/2v6RrCzcuUz2oUovrrWy4w"
     },
     {
       "added_at": null,

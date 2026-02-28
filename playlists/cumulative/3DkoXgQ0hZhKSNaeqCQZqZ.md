@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-495 songs - 1 day 2 hr 11 min
+497 songs - 1 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [better start](https://open.spotify.com/track/7xrtCfV4DSNoznwpxT3QrX) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2), [chattybaxi](https://open.spotify.com/artist/5bpBEpapbvKC10RUCJWESj) | [better start](https://open.spotify.com/album/1oJ8AewB8GXp2tsWobDWQg) | 1:49 | 2025-06-27 |  |
 | [Big Balls](https://open.spotify.com/track/11xlPlEzy8pKKuQEAJpyzb) | [Scratch21](https://open.spotify.com/artist/3WCGPWxaTtnBgGQj4w7LEW) | [Big Balls](https://open.spotify.com/album/0cmu1siHEV3cLivD7qw0iV) | 2:39 | 2023-06-14 |  |
 | [Birdbrain!](https://open.spotify.com/track/40UHPOWIPMkI5jUnRJ81jl) | [Twilike Wonder](https://open.spotify.com/artist/0p6U88EWoDuBHtA2r7jtXV) | [Birdbrain!](https://open.spotify.com/album/1ATnijcOqHEqtPn1IRoMlN) | 4:19 | 2025-12-20 |  |
+| [bleed4U!](https://open.spotify.com/track/16MDyTBpMFLlV45nc4xpqv) | [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U), [ghostsocial](https://open.spotify.com/artist/6ex1miCpb3Krg4TYoG4yAN) | [PTSU](https://open.spotify.com/album/6bLBHHxW6BQAax5GI30TwB) | 2:00 | 2026-02-27 |  |
 | [bleed4U!](https://open.spotify.com/track/3G6aBHc7NWoKXerTO7Bino) | [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U), [ghostsocial](https://open.spotify.com/artist/6ex1miCpb3Krg4TYoG4yAN) | [bleed4U!](https://open.spotify.com/album/3UjWCa0836Hwj5hYNwfQMQ) | 2:00 | 2026-01-12 |  |
 | [Blood // Water](https://open.spotify.com/track/4AyS2onxBbtArFwc6lXCTt) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ) | [Songs From A Broken Mind](https://open.spotify.com/album/7I7NrdgIIqrol4fyBMOr0A) | 3:28 | 2023-06-14 |  |
 | [Blood Debt](https://open.spotify.com/track/6S0kAXCMEs0ysXHG2Ev2b4) | [Loprov](https://open.spotify.com/artist/3Zv31lkrOJ7HPBWmXOjiwJ), [Daratomic](https://open.spotify.com/artist/19NwIIQXJ70524wDFURjHM), [Moleigh](https://open.spotify.com/artist/7kUEA4RRzFlUBJLE9cW0T3) | [Blood Debt](https://open.spotify.com/album/6GIGtAIDzdZSpgqVkMVE4x) | 3:34 | 2026-01-27 |  |
@@ -346,6 +347,7 @@
 | [PREY](https://open.spotify.com/track/5TuDbn9gFxM8HZRHCdMOXT) | [passengerprincess](https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3) | [PREY](https://open.spotify.com/album/63GY1hMoq8g2EGO5MVJhLA) | 2:32 | 2025-11-01 |  |
 | [PROJECTILE LAUNCH](https://open.spotify.com/track/71TlkO6CxSBWcXm7MBmEat) | [Mors\_Music](https://open.spotify.com/artist/3aWX7ntPXrI48elX854Iap) | [PROJECTILE LAUNCH](https://open.spotify.com/album/5HlSeKL7wAYZCOqvx8RQmZ) | 1:43 | 2026-02-06 |  |
 | [Protogen.exe](https://open.spotify.com/track/4v8SeYuq515RbNuhMEBE0r) | [lil fasty](https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU), [nigxl](https://open.spotify.com/artist/1fTftE98CA2N63gDa8t4EG) | [INTERNET PROTOGEN](https://open.spotify.com/album/71CIaayjmPOL03eRUNVzjw) | 1:41 | 2025-10-20 |  |
+| [PTSU](https://open.spotify.com/track/2GCFtDFjaIHq7eKZKTZ4eU) | [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U), [Shwabadi](https://open.spotify.com/artist/7CCLirH6tIf750hgYn1Y4X) | [PTSU](https://open.spotify.com/album/6bLBHHxW6BQAax5GI30TwB) | 2:59 | 2026-02-27 |  |
 | [pulsar](https://open.spotify.com/track/4mvO5VCVcgQmpaj9rm6aNq) | [Ashley Ninelives](https://open.spotify.com/artist/75f7kE3UP14RoDP8tEAPnE) | [cheshire days](https://open.spotify.com/album/1hLHnPf5helwdhFCOgGjSi) | 2:24 | 2024-11-18 |  |
 | [Punching Bag](https://open.spotify.com/track/0nLEEvXYj3G63yq06rLMTd) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ), [AlphaFXRE](https://open.spotify.com/artist/1gvvMvEXsRKbPMZCYFdE8m) | [D.Y.H.H.](https://open.spotify.com/album/0Ehm7iU4wjsp0wuYizhzmA) | 2:33 | 2023-10-30 |  |
 | [PUNCTURE WOUND](https://open.spotify.com/track/1DzXQOUVglLBTHxr34qwUQ) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [all these faces](https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66) | 3:11 | 2025-02-03 |  |

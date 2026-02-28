@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-23",
-  "description": "Estas son las grandes voces del Hip Hop. Foto: Granuja",
+  "description": "Estas son las grandes voces del Hip Hop. Foto: Penyair",
   "name": "Los Gallos",
   "tracks": [
     {
@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "ANAMAU",
+        "url": "https://open.spotify.com/album/51kKo9n5HDNIMUYBJTdec7"
+      },
+      "artists": [
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156219,
+      "name": "ANAMAU",
+      "url": "https://open.spotify.com/track/5Fo4nQogolKSCjDOvLTAgm"
+    },
+    {
+      "album": {
         "name": "Asi Es la Vida",
         "url": "https://open.spotify.com/album/4yLc8PxzYwiyTw2iogrCK3"
       },
@@ -346,6 +364,28 @@
       "duration_ms": 163723,
       "name": "Bendici\u00f3n o Desgracia",
       "url": "https://open.spotify.com/track/5H4xazm3fBhE9DVv1zkbJ8"
+    },
+    {
+      "album": {
+        "name": "Bisiestos",
+        "url": "https://open.spotify.com/album/5jAfgzFP7BLCB5cv5n2bLp"
+      },
+      "artists": [
+        {
+          "name": "No Rules Clan",
+          "url": "https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv"
+        },
+        {
+          "name": "Ignorancia Sofisticada",
+          "url": "https://open.spotify.com/artist/2VqPCXF4QWaR9Xto4xN4YX"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152813,
+      "name": "Bisiestos",
+      "url": "https://open.spotify.com/track/2VCuzWuTcvv7oqoArHtNdJ"
     },
     {
       "album": {
@@ -1755,6 +1795,28 @@
     },
     {
       "album": {
+        "name": "La luz",
+        "url": "https://open.spotify.com/album/285QEUrTLS9j5EtaMCkCu7"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197013,
+      "name": "La luz",
+      "url": "https://open.spotify.com/track/2jslkxswlLCTqZDlvl5M1x"
+    },
+    {
+      "album": {
         "name": "Pedro El\u00edas",
         "url": "https://open.spotify.com/album/0K2ccPqz7qApwmiZF1f3BM"
       },
@@ -2067,6 +2129,44 @@
     },
     {
       "album": {
+        "name": "Medallo Finest - Cypher",
+        "url": "https://open.spotify.com/album/3cri0TxB5nxq3SK2zVm4v0"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
+        },
+        {
+          "name": "DeeJohend",
+          "url": "https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1"
+        },
+        {
+          "name": "Niche Ls",
+          "url": "https://open.spotify.com/artist/2yxSMjOgzBvfmExi22OCU7"
+        },
+        {
+          "name": "Z\u00e1baz",
+          "url": "https://open.spotify.com/artist/6HZ9Yb4XRVEWWFqUANMtKd"
+        },
+        {
+          "name": "Thomas Parr",
+          "url": "https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314000,
+      "name": "Medallo Finest - Cypher",
+      "url": "https://open.spotify.com/track/0GgKbQrvXc5ejyHCcsEkHf"
+    },
+    {
+      "album": {
         "name": "Mermelada",
         "url": "https://open.spotify.com/album/4Sn8VeNEIyRsY4LIOM2WJp"
       },
@@ -2258,7 +2358,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 181504,
       "name": "M\u00e1s de Lo Suficiente",
       "url": "https://open.spotify.com/track/0ZafhBdoTFEEU1mcT6a596"
@@ -2922,7 +3022,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 109242,
       "name": "PONGAN BACHATA",
       "url": "https://open.spotify.com/track/4jnDylrEyRb313gloXLYT5"
@@ -3160,7 +3260,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 275200,
       "name": "Rostros",
       "url": "https://open.spotify.com/track/7Cx1EFIk3QU9l5mrSwiuv5"
@@ -3238,7 +3338,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 181894,
       "name": "Sanandresito",
       "url": "https://open.spotify.com/track/6gM47hmoDZhAea7Aswn1pR"

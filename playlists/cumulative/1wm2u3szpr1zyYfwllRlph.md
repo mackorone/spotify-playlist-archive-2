@@ -4,7 +4,7 @@
 
 > Dance Hits \- EDM, Summer and dance floor favourites from Calvin Harris, Lost Frequencies, Kygo, Tiesto, David Guetta! Cover: Lost Frequencies
 
-245 songs - 12 hr 12 min
+246 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Love Like That](https://open.spotify.com/track/7fIMjKYjgPJtfFjMN6AW5y) | [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu), [The Beach](https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO) | [Love Like That](https://open.spotify.com/album/04fDKhnxvWOCt9EIzBn8nK) | 2:23 | 2025-11-21 | 2026-01-28 |
 | [Love The Right Way](https://open.spotify.com/track/63SPVpO9EMtDkEFo6QfUxv) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Love The Right Way](https://open.spotify.com/album/0Sj2OyE8baABGE5iCPlXCM) | 3:12 | 2026-01-26 | 2026-01-28 |
 | [Lovers In A Past Life \(with Rag'n'Bone Man\)](https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Lovers In A Past Life \(with Rag'n'Bone Man\)](https://open.spotify.com/album/3VI38DDpgfFMVPrUi69V5B) | 2:40 | 2025-07-18 | 2026-01-28 |
+| [Magnetic](https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Magnetic / Addicted To Your Love](https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8) | 3:01 | 2026-02-27 |  |
 | [Make Me Feel](https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Make Me Feel](https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva) | 3:06 | 2026-01-27 |  |
 | [Makina Time](https://open.spotify.com/track/4jSrN7kXdQUmbVxJe5x6Xg) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [Dj Konik](https://open.spotify.com/artist/47FkgvgZtCjQaBswo5E531), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi) | [Makina Time](https://open.spotify.com/album/2GglSuNrhoPfB0lFSoho5G) | 2:10 | 2026-01-26 | 2026-01-28 |
 | [Meet Me](https://open.spotify.com/track/5NIh6RvA8hOV31OnQGdk4d) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [JONOS](https://open.spotify.com/artist/1pbStEEJ96l2EaeZyTqzjh), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [Meet Me](https://open.spotify.com/album/1GthDfKWmqsKkxlXII6rG5) | 3:15 | 2026-01-26 | 2026-01-28 |

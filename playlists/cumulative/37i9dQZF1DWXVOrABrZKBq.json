@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-09",
-  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Bigflo & Oli",
+  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Jok'air",
   "name": "Rap francophone",
   "tracks": [
     {
@@ -784,7 +784,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 190773,
       "name": "amsterdam",
       "url": "https://open.spotify.com/track/0p1jyG640jfYCes1EagSsU"
@@ -2044,7 +2044,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 195440,
       "name": "Cartes en main",
       "url": "https://open.spotify.com/track/1kAjokPSNQb7UOl46vns4G"
@@ -2106,6 +2106,24 @@
       "duration_ms": 227547,
       "name": "CC",
       "url": "https://open.spotify.com/track/2TOexWkJa99UYe6BdbxsjU"
+    },
+    {
+      "album": {
+        "name": "Char \u00e0 voile",
+        "url": "https://open.spotify.com/album/5bm3I2xACM4PlygM8RorQb"
+      },
+      "artists": [
+        {
+          "name": "Le D\u00e9",
+          "url": "https://open.spotify.com/artist/2UZBLsGKZZnYDb37cDM13m"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125070,
+      "name": "Char \u00e0 voile",
+      "url": "https://open.spotify.com/track/13FncioCW5c42gY5hr4Mbl"
     },
     {
       "album": {
@@ -2412,6 +2430,24 @@
       "duration_ms": 150669,
       "name": "COMME UNE ACTRICE (feat. So La Lune)",
       "url": "https://open.spotify.com/track/16j7SXgnCqdp3KFb1P7l0a"
+    },
+    {
+      "album": {
+        "name": "Comment",
+        "url": "https://open.spotify.com/album/4bxuDXWLfdLt9pfcW7emLl"
+      },
+      "artists": [
+        {
+          "name": "TRK.",
+          "url": "https://open.spotify.com/artist/1n8sswL2m5gBFjC6JQF1b7"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162648,
+      "name": "Comment",
+      "url": "https://open.spotify.com/track/20QJGEOvJ8UHY9v3Ner3r7"
     },
     {
       "album": {
@@ -4809,6 +4845,24 @@
     },
     {
       "album": {
+        "name": "Je suis love",
+        "url": "https://open.spotify.com/album/3dMZfn5fC3bK6Typ4cnDB5"
+      },
+      "artists": [
+        {
+          "name": "Jok'air",
+          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157505,
+      "name": "Je suis love",
+      "url": "https://open.spotify.com/track/6KEa9LdKNcdRvMdoJFA6EO"
+    },
+    {
+      "album": {
         "name": "JE.D\u00c9TESTE.LA.FRANCE.pt1 (il y aura pas de pt2)",
         "url": "https://open.spotify.com/album/3jaDJroZse4VqrgEa6Tp2C"
       },
@@ -5355,6 +5409,24 @@
     },
     {
       "album": {
+        "name": "RIEN NE GU\u00c9RIT, VOL. II",
+        "url": "https://open.spotify.com/album/1jo8vll6ol3b9824eZM5MZ"
+      },
+      "artists": [
+        {
+          "name": "Shayne",
+          "url": "https://open.spotify.com/artist/1DX6FDD9VMN2eJCmeFVbHi"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146440,
+      "name": "LE PLAN",
+      "url": "https://open.spotify.com/track/7ugQiR4wf4Eez3klbl5ItJ"
+    },
+    {
+      "album": {
         "name": "Le calme avant la temp\u00eate",
         "url": "https://open.spotify.com/album/4ITWZzzEkduCXSaIHb4Llp"
       },
@@ -5490,6 +5562,28 @@
       "duration_ms": 155592,
       "name": "Locked Up",
       "url": "https://open.spotify.com/track/3ftGuXapLDXSxQvf3o6751"
+    },
+    {
+      "album": {
+        "name": "LOCKED UP (feat. Tiakola)",
+        "url": "https://open.spotify.com/album/0lrjEC7YUZYPP9ZN4HyrwI"
+      },
+      "artists": [
+        {
+          "name": "Jolagreen23",
+          "url": "https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175560,
+      "name": "LOCKED UP (feat. Tiakola)",
+      "url": "https://open.spotify.com/track/3ppZbNYEH85vpavJHgsQT9"
     },
     {
       "album": {
@@ -6769,6 +6863,28 @@
     },
     {
       "album": {
+        "name": "Que de l'amour 2",
+        "url": "https://open.spotify.com/album/4eiOL9WAb34hnjkWf6LFKW"
+      },
+      "artists": [
+        {
+          "name": "Ghost Killer Track",
+          "url": "https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ"
+        },
+        {
+          "name": "Ashvma",
+          "url": "https://open.spotify.com/artist/46fYppQRc2dAeDAMnrVb6R"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176938,
+      "name": "Noy\u00e9",
+      "url": "https://open.spotify.com/track/0RmPjj1wAZVv868pMoVhTG"
+    },
+    {
+      "album": {
         "name": "RUN Evolution",
         "url": "https://open.spotify.com/album/74FebIYWI8nzxEG0EPAsG4"
       },
@@ -7022,7 +7138,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 167910,
       "name": "Paphos",
       "url": "https://open.spotify.com/track/0UzamlYGIBxCkWWIojz27c"
@@ -7208,7 +7324,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 90458,
       "name": "PAS LE CHOIX",
       "url": "https://open.spotify.com/track/4xyT5W6hSwIYzdP8FAS4HH"
@@ -7296,7 +7412,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 188500,
       "name": "Pearl Harbor",
       "url": "https://open.spotify.com/track/3pQ1sYnHaq2T45ewKCYaPx"
@@ -7420,7 +7536,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 198620,
       "name": "Ping Pong",
       "url": "https://open.spotify.com/track/2H5qBxJi7bsgX9HsKnApCe"
@@ -7632,6 +7748,24 @@
       "duration_ms": 179034,
       "name": "POUR ELLE",
       "url": "https://open.spotify.com/track/5jX61gvbNenSDMldQrbtsU"
+    },
+    {
+      "album": {
+        "name": "Pourquoi tout changer ?",
+        "url": "https://open.spotify.com/album/6ETtIoHt0wJPhJh0hIgXce"
+      },
+      "artists": [
+        {
+          "name": "RandJess",
+          "url": "https://open.spotify.com/artist/6jZCC4zK2doZjBdXJhaRPJ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Pourquoi tout changer ?",
+      "url": "https://open.spotify.com/track/4gzRDQLvtNgN628993Egg6"
     },
     {
       "album": {
@@ -9696,7 +9830,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 136160,
       "name": "Une daronne pleure",
       "url": "https://open.spotify.com/track/5NYKas0esWy4PEAbFJXaZ9"

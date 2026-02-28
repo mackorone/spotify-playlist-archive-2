@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "2SIDED",
+        "url": "https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177473,
+      "name": "2SIDED",
+      "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
+    },
+    {
+      "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
@@ -640,6 +658,24 @@
       "duration_ms": 244034,
       "name": "Baxter (these are my friends)",
       "url": "https://open.spotify.com/track/6Orwi1oYLckpnBF7NbCbrg"
+    },
+    {
+      "album": {
+        "name": "Beatback",
+        "url": "https://open.spotify.com/album/0nKPxS384Utr4iDBXlZBRU"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139493,
+      "name": "Beatback",
+      "url": "https://open.spotify.com/track/0qYgbVTu69hughnu1tLC4b"
     },
     {
       "album": {
@@ -1953,6 +1989,24 @@
     },
     {
       "album": {
+        "name": "Dancing On The Wall",
+        "url": "https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243760,
+      "name": "Dancing On The Wall",
+      "url": "https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp"
+    },
+    {
+      "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
@@ -2462,7 +2516,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 207186,
       "name": "Down The Road",
       "url": "https://open.spotify.com/track/1x5MjCffpcdHLf65eR9r3T"
@@ -4334,7 +4388,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 176213,
       "name": "Homie Don\u2019t Shake",
       "url": "https://open.spotify.com/track/3jlacMjHZ9VGCOmz5CjHE0"
@@ -4446,7 +4500,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 195704,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/7HxWZggiHyGWT9ZSmWzcxu"
@@ -5206,6 +5260,24 @@
       "duration_ms": 187466,
       "name": "Krunk",
       "url": "https://open.spotify.com/track/4JC2H3j5NOkpiOXTgMVsx7"
+    },
+    {
+      "album": {
+        "name": "L.U.C.K.Y",
+        "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138706,
+      "name": "L.U.C.K.Y",
+      "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
     },
     {
       "album": {
@@ -10152,7 +10224,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 403706,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/0vryyKyxCFXT0gg670yNEw"

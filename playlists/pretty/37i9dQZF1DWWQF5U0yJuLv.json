@@ -1,6 +1,6 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 57487,
+  "num_followers": 57525,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
+        "name": "Lunatic Harness",
+        "url": "https://open.spotify.com/album/5Rc5G86a4zX96HlyHYeGsX"
+      },
+      "artists": [
+        {
+          "name": "\u00b5-Ziq",
+          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
+        }
+      ],
+      "duration_ms": 315133,
+      "name": "Hasty Boom Alert",
+      "url": "https://open.spotify.com/track/4miEA9U9PZKBYryATLzCKC"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
         "name": "Fahrenheit Fair Enough",
         "url": "https://open.spotify.com/album/27teXombBxDGNa9f5jtOr2"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 268829,
       "name": "Sister",
       "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
-        "name": "Lunatic Harness",
-        "url": "https://open.spotify.com/album/5Rc5G86a4zX96HlyHYeGsX"
-      },
-      "artists": [
-        {
-          "name": "\u00b5-Ziq",
-          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
-        }
-      ],
-      "duration_ms": 315133,
-      "name": "Hasty Boom Alert",
-      "url": "https://open.spotify.com/track/4miEA9U9PZKBYryATLzCKC"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Three Drums",
-        "url": "https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 495858,
-      "name": "Three Drums",
-      "url": "https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Sorry I Make You Lush",
         "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 266640,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Three Drums",
+        "url": "https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 495858,
+      "name": "Three Drums",
+      "url": "https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Hornworm Metamorphosis",
-        "url": "https://open.spotify.com/album/0mv1O7gvOmPxfHgsgMpguK"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 104000,
-      "name": "Hornworm Metamorphosis",
-      "url": "https://open.spotify.com/track/4MCM8icHb3i2vCXEmwpvvq"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Pure, Impure",
         "url": "https://open.spotify.com/album/7C3flv2nzeBoNHVrptYz6o"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 347800,
       "name": "Moodswing",
       "url": "https://open.spotify.com/track/5lztNaNPhBTrfygH1BO1W2"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Hornworm Metamorphosis",
+        "url": "https://open.spotify.com/album/0mv1O7gvOmPxfHgsgMpguK"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 104000,
+      "name": "Hornworm Metamorphosis",
+      "url": "https://open.spotify.com/track/4MCM8icHb3i2vCXEmwpvvq"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -919,6 +919,22 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
+        "name": "Elaenia",
+        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 346586,
+      "name": "For Marmish",
+      "url": "https://open.spotify.com/track/5fxl9rZa5KyzDdw8LDKbTb"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
         "name": "The Space Lady's Greatest Hits",
         "url": "https://open.spotify.com/album/5jHqrml3maWBldVlyzFjKh"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 197142,
       "name": "Dragonfly",
       "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
-        "name": "Elaenia",
-        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 346586,
-      "name": "For Marmish",
-      "url": "https://open.spotify.com/track/5fxl9rZa5KyzDdw8LDKbTb"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -999,6 +999,22 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
+        "name": "Elaenia",
+        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 642653,
+      "name": "Silhouettes (I, II, III)",
+      "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
         "name": "Rounds",
         "url": "https://open.spotify.com/album/2H49BEjjzWluWjmy2k9tdQ"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 420066,
       "name": "Sci-Fi Staircase",
       "url": "https://open.spotify.com/track/1ilAKNVQwIZXaFna2q2dne"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
-        "name": "Elaenia",
-        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 642653,
-      "name": "Silhouettes (I, II, III)",
-      "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Puzzlewood",
-        "url": "https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq"
-      },
-      "artists": [
-        {
-          "name": "Plone",
-          "url": "https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41"
-        }
-      ],
-      "duration_ms": 150289,
-      "name": "Years and Elements",
-      "url": "https://open.spotify.com/track/7sLQ99cOLqGQ63xKIKPhz2"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Lucky Cat",
         "url": "https://open.spotify.com/album/3ctNSs8cZLgDfDVmQvdgM8"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 312946,
       "name": "Cathart",
       "url": "https://open.spotify.com/track/27F81Z0W6wfUdKH0u7f3iX"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Puzzlewood",
+        "url": "https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq"
+      },
+      "artists": [
+        {
+          "name": "Plone",
+          "url": "https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41"
+        }
+      ],
+      "duration_ms": 150289,
+      "name": "Years and Elements",
+      "url": "https://open.spotify.com/track/7sLQ99cOLqGQ63xKIKPhz2"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
+        "name": "Iaora Tahiti",
+        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
+      },
+      "artists": [
+        {
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        }
+      ],
+      "duration_ms": 278493,
+      "name": "Stereomission",
+      "url": "https://open.spotify.com/track/2bEFcAISP2KpoWCiWI6Pzc"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
         "name": "Space Oddities: Studio Ganaro (1972-1982)",
         "url": "https://open.spotify.com/album/6lGpTboVQzyQbEqWbclLyU"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 123973,
       "name": "Beyond the Clouds",
       "url": "https://open.spotify.com/track/1LUCSMbcv43ZhcCz9LwVHz"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
-        "name": "Iaora Tahiti",
-        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
-      },
-      "artists": [
-        {
-          "name": "Mouse On Mars",
-          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
-        }
-      ],
-      "duration_ms": 278493,
-      "name": "Stereomission",
-      "url": "https://open.spotify.com/track/2bEFcAISP2KpoWCiWI6Pzc"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Thirsts",
-        "url": "https://open.spotify.com/album/1Ju3IMjyQFXsrStPmrZX7j"
-      },
-      "artists": [
-        {
-          "name": "Affelaye",
-          "url": "https://open.spotify.com/artist/08Xoy5Glpl7MyzzZsRfRPJ"
-        }
-      ],
-      "duration_ms": 375929,
-      "name": "Morning Tremor",
-      "url": "https://open.spotify.com/track/41rdl3Oiyz5o5todvKyOWA"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Yes! Come Parade With Us",
         "url": "https://open.spotify.com/album/0DGVDqsHo3NiZk59BnkMMz"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 400160,
       "name": "Doing The Beeston Bump",
       "url": "https://open.spotify.com/track/3RBhQ7D3w60wUdt98R7SUB"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Thirsts",
+        "url": "https://open.spotify.com/album/1Ju3IMjyQFXsrStPmrZX7j"
+      },
+      "artists": [
+        {
+          "name": "Affelaye",
+          "url": "https://open.spotify.com/artist/08Xoy5Glpl7MyzzZsRfRPJ"
+        }
+      ],
+      "duration_ms": 375929,
+      "name": "Morning Tremor",
+      "url": "https://open.spotify.com/track/41rdl3Oiyz5o5todvKyOWA"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Dreamy Riot",
-        "url": "https://open.spotify.com/album/28pUdUv0W8ChNUkh8gWtUd"
-      },
-      "artists": [
-        {
-          "name": "Lemon Cal",
-          "url": "https://open.spotify.com/artist/3QpZbi4X5YgnUe9uFVbJL9"
-        }
-      ],
-      "duration_ms": 350666,
-      "name": "Tech",
-      "url": "https://open.spotify.com/track/2enH7L13QJWB6usbJadzSw"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Das Ist Ein Groovybeat, Ja",
         "url": "https://open.spotify.com/album/01yJzz91YLSKPTGNO27WyS"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 379266,
       "name": "Nautilus",
       "url": "https://open.spotify.com/track/3LAB79eJTC9M6B39E6GjJx"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Dreamy Riot",
+        "url": "https://open.spotify.com/album/28pUdUv0W8ChNUkh8gWtUd"
+      },
+      "artists": [
+        {
+          "name": "Lemon Cal",
+          "url": "https://open.spotify.com/artist/3QpZbi4X5YgnUe9uFVbJL9"
+        }
+      ],
+      "duration_ms": 350666,
+      "name": "Tech",
+      "url": "https://open.spotify.com/track/2enH7L13QJWB6usbJadzSw"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Sabresonic",
-        "url": "https://open.spotify.com/album/22UTF5k9TRZ1Mg2V0i0qLw"
-      },
-      "artists": [
-        {
-          "name": "The Sabres Of Paradise",
-          "url": "https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "Smokebelch II - Beatless Mix",
-      "url": "https://open.spotify.com/track/5Z8BtdkhEzHbb8QlYODMgM"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Comfort Chain",
         "url": "https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK"
       },
@@ -2127,6 +2111,22 @@
       "duration_ms": 184363,
       "name": "Comfort Chain",
       "url": "https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Sabresonic",
+        "url": "https://open.spotify.com/album/22UTF5k9TRZ1Mg2V0i0qLw"
+      },
+      "artists": [
+        {
+          "name": "The Sabres Of Paradise",
+          "url": "https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Smokebelch II - Beatless Mix",
+      "url": "https://open.spotify.com/track/5Z8BtdkhEzHbb8QlYODMgM"
     },
     {
       "added_at": "2025-11-07 05:00:56",

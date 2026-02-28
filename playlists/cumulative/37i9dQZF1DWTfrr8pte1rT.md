@@ -4,7 +4,7 @@
 
 > Rock with a Drop\. Cover: Rezz \\m/
 
-537 songs - 1 day 6 hr 12 min
+538 songs - 1 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Got Me Frozen](https://open.spotify.com/track/1zbU128bFpj68kx1LepAdP) | [Alex Kade](https://open.spotify.com/artist/0ZVKohB1rQOFAoKFCB7fLy) | [I Told You So](https://open.spotify.com/album/7wMM05iHZjcrm7afMs8CeU) | 3:38 | 2025-07-18 |  |
 | [Gotta Leave](https://open.spotify.com/track/7qYMTZaUo4lrul29krnUBK) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Broken String](https://open.spotify.com/album/2fxjTWt9yhsVVLaDw5089c) | 2:36 | 2024-04-19 | 2026-02-19 |
 | [Grave](https://open.spotify.com/track/3TbzrpJIkSoicguKWNHcSh) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [Grave](https://open.spotify.com/album/06p70HgNbmSPwABXTIq0yT) | 2:39 | 2025-01-31 |  |
+| [Great Escape](https://open.spotify.com/track/0p0JRgYaUxYf4ZCf6Sh8kq) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Finnick Jones](https://open.spotify.com/artist/6s6cObAlUOtkiPsW133R37) | [Great Escape](https://open.spotify.com/album/2oYYzL49cVIJiBpDJwykZW) | 3:01 | 2026-02-27 |  |
 | [Guiding Lights](https://open.spotify.com/track/72IItEqfWxby0H0q1TCXbP) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Guiding Lights](https://open.spotify.com/album/5Igd3P0Jm4UXTOBB15YToZ) | 4:24 | 2025-08-22 |  |
 | [Guts](https://open.spotify.com/track/5cEgck20T0z74Ta9CZnGP3) | [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [Guts](https://open.spotify.com/album/5EbGb97EmI0PrYWH7rNFhi) | 2:06 | 2025-01-24 |  |
 | [Halfway Dead](https://open.spotify.com/track/54xv1MnxP9aZIAqkvh7z81) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Global Dan](https://open.spotify.com/artist/1lzugG0lqNh9nP6Fp2zG3c), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Neon Future IV](https://open.spotify.com/album/6iXzARQs7wdSYzhYJWvJKc) | 3:24 | 2021-12-10 | 2023-02-21 |
@@ -306,7 +307,7 @@
 | [Mad Love](https://open.spotify.com/track/0J2EcQZQUsmUzO5YFXz7PS) | [Big X](https://open.spotify.com/artist/0OCVpOnm94jD2iVVeefUeu), [Eko Zu](https://open.spotify.com/artist/3UTpx1qth1EZxywRjGywLQ) | [Mad Love](https://open.spotify.com/album/0JP9RVQrQJ4Da54nfOJWJs) | 2:28 | 2022-06-24 | 2022-12-30 |
 | [Mad Love](https://open.spotify.com/track/4zm4IBGGTHZZK9jrkcPjyA) | [Big X](https://open.spotify.com/artist/0OCVpOnm94jD2iVVeefUeu), [Eko Zu](https://open.spotify.com/artist/3UTpx1qth1EZxywRjGywLQ) | [Mad Love](https://open.spotify.com/album/7twv8S0XYKtUEIp2DAQYNw) | 2:28 | 2021-12-10 | 2022-07-29 |
 | [MAKE BELIEVE](https://open.spotify.com/track/2E1K4gYnfHGsZLldIQzucF) | [INF1N1TE](https://open.spotify.com/artist/3TbFfHyWvQdppfL0TpWufG), [MJ/XO](https://open.spotify.com/artist/5Y28CDHy6CHVlm8w7XGNpC), [TenGraphs](https://open.spotify.com/artist/1enXqMjKilghZfED8jf7Qd) | [ONE LAST BREATH](https://open.spotify.com/album/7nM2LnUOsLJwZ4Q6L4JEBe) | 2:39 | 2021-12-10 | 2022-06-22 |
-| [MANIAC](https://open.spotify.com/track/0MAJOLCa2RX5Rs35AJ6Y64) | [Lizdek](https://open.spotify.com/artist/65Kq02oh0g3gRqfZ0fo8eG) | [MANIAC](https://open.spotify.com/album/562Uyc2b9sbv6DAdzGcZhM) | 3:27 | 2025-09-05 |  |
+| [MANIAC](https://open.spotify.com/track/0MAJOLCa2RX5Rs35AJ6Y64) | [Lizdek](https://open.spotify.com/artist/65Kq02oh0g3gRqfZ0fo8eG) | [MANIAC](https://open.spotify.com/album/562Uyc2b9sbv6DAdzGcZhM) | 3:27 | 2025-09-05 | 2026-02-28 |
 | [Martyr](https://open.spotify.com/track/3cNhxhJQz1QF1aSqqj9ix5) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [zer0](https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb) | 2:37 | 2021-12-10 | 2022-07-29 |
 | [Medulla \- Barren Gates Remix](https://open.spotify.com/track/2MlzZqpjkGNCigtGOaj8oT) | [Hollow](https://open.spotify.com/artist/64uA1WO40WSspFUnUYirSt), [Barren Gates](https://open.spotify.com/artist/7eMykQ9NjmtA5FnMarEG2F) | [Medulla \(Barren Gates Remix\)](https://open.spotify.com/album/0XF4M7GOmdrOouV87cKcLd) | 4:08 | 2021-12-10 | 2022-07-29 |
 | [Mercy Killing](https://open.spotify.com/track/7eHvmbbmUKT1AYtPmzr7Ww) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [Mercy Killing](https://open.spotify.com/album/2zpMB0CBeBuQu15Mx2bZIX) | 3:48 | 2023-11-03 | 2025-02-01 |

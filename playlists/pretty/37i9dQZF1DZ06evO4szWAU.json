@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 96034,
+  "num_followers": 96679,
   "original_name": "This Is Willie Col\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAACOMva7kTlulWMJ/ZHWxLgq",
+  "snapshot_id": "aZ+NAAAAAACAswu/cL4LFNQ7yl/jefHv",
   "tracks": [
     {
       "added_at": null,
@@ -390,11 +390,15 @@
         {
           "name": "Willie Col\u00f3n",
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Johnny Pacheco Y Su Charanga",
+          "url": "https://open.spotify.com/artist/2JK0DNoBRuK2rH1tQrBsvA"
         }
       ],
-      "duration_ms": 259000,
-      "name": "Usted Abus\u00f3",
-      "url": "https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo"
+      "duration_ms": 293057,
+      "name": "Quimbara",
+      "url": "https://open.spotify.com/track/1CkuZ3qvhxfMv7y0Nt0sV5"
     },
     {
       "added_at": null,
@@ -466,15 +470,11 @@
         {
           "name": "Willie Col\u00f3n",
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "Johnny Pacheco Y Su Charanga",
-          "url": "https://open.spotify.com/artist/2JK0DNoBRuK2rH1tQrBsvA"
         }
       ],
-      "duration_ms": 293057,
-      "name": "Quimbara",
-      "url": "https://open.spotify.com/track/1CkuZ3qvhxfMv7y0Nt0sV5"
+      "duration_ms": 259000,
+      "name": "Usted Abus\u00f3",
+      "url": "https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo"
     },
     {
       "added_at": null,
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Metiendo Mano",
-        "url": "https://open.spotify.com/album/3oOEQ4KB3ZegkjEvfHjiYn"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 296240,
-      "name": "Plantaci\u00f3n Adentro",
-      "url": "https://open.spotify.com/track/2OBZVLhtWun61t4Q94HcVR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 345600,
       "name": "Juanito Alima\u00f1a",
       "url": "https://open.spotify.com/track/02c7d670y3o6IvkBPazlFu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Metiendo Mano",
+        "url": "https://open.spotify.com/album/3oOEQ4KB3ZegkjEvfHjiYn"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 296240,
+      "name": "Plantaci\u00f3n Adentro",
+      "url": "https://open.spotify.com/track/2OBZVLhtWun61t4Q94HcVR"
     },
     {
       "added_at": null,
@@ -679,6 +679,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Siembra",
+        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 331440,
+      "name": "Mar\u00eda Lionza",
+      "url": "https://open.spotify.com/track/5MyPzq1IsxS1x7FkhdpJUF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Hustler",
         "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
       },
@@ -699,22 +719,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siembra",
-        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
       },
       "artists": [
         {
           "name": "Willie Col\u00f3n",
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
         }
       ],
-      "duration_ms": 331440,
-      "name": "Mar\u00eda Lionza",
-      "url": "https://open.spotify.com/track/5MyPzq1IsxS1x7FkhdpJUF"
+      "duration_ms": 318520,
+      "name": "Cueste Lo Que Cueste",
+      "url": "https://open.spotify.com/track/4BNDskrn6uPYQAbenwJSDD"
     },
     {
       "added_at": null,
@@ -739,18 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
+        "name": "Siembra",
+        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
       },
       "artists": [
         {
           "name": "Willie Col\u00f3n",
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
         }
       ],
-      "duration_ms": 318520,
-      "name": "Cueste Lo Que Cueste",
-      "url": "https://open.spotify.com/track/4BNDskrn6uPYQAbenwJSDD"
+      "duration_ms": 422640,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/43Ste93jKi3inP498OAXP8"
     },
     {
       "added_at": null,
@@ -775,46 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siembra",
-        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 422640,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/43Ste93jKi3inP498OAXP8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crime Pays",
-        "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 338013,
-      "name": "Juana Pe\u00f1a",
-      "url": "https://open.spotify.com/track/4GBxHI71GOyv9umXPnbs0z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Juicio",
         "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
       },
@@ -835,18 +815,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Man And His Music: The Player",
-        "url": "https://open.spotify.com/album/2ZUUOq0b4wMipAz9TUSqGg"
+        "name": "Crime Pays",
+        "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
       },
       "artists": [
         {
           "name": "Willie Col\u00f3n",
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 446400,
-      "name": "Amor Verdadero",
-      "url": "https://open.spotify.com/track/1OW3pXLhVdMm7giLW6siEm"
+      "duration_ms": 338013,
+      "name": "Juana Pe\u00f1a",
+      "url": "https://open.spotify.com/track/4GBxHI71GOyv9umXPnbs0z"
     },
     {
       "added_at": null,
@@ -891,6 +875,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Man And His Music: The Player",
+        "url": "https://open.spotify.com/album/2ZUUOq0b4wMipAz9TUSqGg"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 446400,
+      "name": "Amor Verdadero",
+      "url": "https://open.spotify.com/track/1OW3pXLhVdMm7giLW6siEm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Hustler",
         "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
       },
@@ -907,26 +907,6 @@
       "duration_ms": 317813,
       "name": "Eso Se Baila As\u00ed",
       "url": "https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canciones Del Solar De Los Aburridos",
-        "url": "https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 420666,
-      "name": "Tibur\u00f3n",
-      "url": "https://open.spotify.com/track/7nbzvThgq44C1X56D4RZuL"
     },
     {
       "added_at": null,
@@ -963,6 +943,26 @@
       "duration_ms": 295480,
       "name": "Te Conozco",
       "url": "https://open.spotify.com/track/4QQSXJaG5mh3dGBHqXaft1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones Del Solar De Los Aburridos",
+        "url": "https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 420666,
+      "name": "Tibur\u00f3n",
+      "url": "https://open.spotify.com/track/7nbzvThgq44C1X56D4RZuL"
     },
     {
       "added_at": null,

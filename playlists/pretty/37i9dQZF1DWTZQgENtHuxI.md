@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 
 > Sortez les pantalons pattes d‘eph et les chemises en satin !
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,309 likes - 50 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,304 likes - 50 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 | 26 | [Boogie Oogie Oogie \- Single Version 2 / Remastered 1999](https://open.spotify.com/track/0y0QpmcF1G3F79rjk3fjUx) | [A Taste Of Honey](https://open.spotify.com/artist/1ii6e2pv8VIRwnTER71rMl) | [A Taste Of Honey](https://open.spotify.com/album/2WDP1yNTx3cBR9LBE4Ribh) | 5:38 |
 | 27 | [Stay the Night](https://open.spotify.com/track/5pzmmAL0lQM0601a5AfO9w) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Nights \(Feel Like Getting Down\) \[Expanded Edition\]](https://open.spotify.com/album/1qBIawNlWPB2UNg54APcNo) | 3:11 |
 | 28 | [Keep On](https://open.spotify.com/track/50bxxJIwn0XnZjQH2OruOu) | [D\-Train](https://open.spotify.com/artist/4gQEXxzqwNmQwjU0Wc0Ioe) | [You're the One for Me](https://open.spotify.com/album/6Cu53xS0YGhgEqyTqkVNeL) | 6:41 |
-| 29 | [You Make Me Feel \(Mighty Real\)](https://open.spotify.com/track/68oPWciPnkCZBNbq0HfFJE) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [The Original Hits](https://open.spotify.com/album/4Ls1kWhm4Lqgdteck35U7r) | 6:34 |
-| 30 | [Genius Of Love](https://open.spotify.com/track/11aqD66CgNU4UXKGz9DtfZ) | [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Wordy Rappinghood](https://open.spotify.com/album/68Iowv229lKyHJZxSrfKL3) | 5:35 |
+| 29 | [Genius Of Love](https://open.spotify.com/track/11aqD66CgNU4UXKGz9DtfZ) | [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Wordy Rappinghood](https://open.spotify.com/album/68Iowv229lKyHJZxSrfKL3) | 5:35 |
+| 30 | [You Make Me Feel \(Mighty Real\)](https://open.spotify.com/track/68oPWciPnkCZBNbq0HfFJE) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [The Original Hits](https://open.spotify.com/album/4Ls1kWhm4Lqgdteck35U7r) | 6:34 |
 | 31 | [Alexandrie Alexandra](https://open.spotify.com/track/19DVBvNrJMl9jRHjVZHk38) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Best Of](https://open.spotify.com/album/5UnV3CeKQ4r3uoW0koFS08) | 4:22 |
 | 32 | [I'll Never Forget \(My Favorite Disco\)](https://open.spotify.com/track/7KOS9ptdLAdy3hJxuvpHfc) | [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt), [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Time Is Slipping Away](https://open.spotify.com/album/636NtK3yPJ395a6nyXJ1ft) | 4:34 |
 | 33 | [Love Hangover](https://open.spotify.com/track/4poc2NX2Ap8MnZjOtoiGir) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana Ross](https://open.spotify.com/album/7BHw2NR6r6GRfsaojQL9xk) | 7:48 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 | 47 | [September](https://open.spotify.com/track/5nNmj1cLH3r4aA4XDJ2bgY) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Eternal Dance](https://open.spotify.com/album/6UixeNUSjrBnxeYV0ZuGHR) | 3:34 |
 | 48 | [Funky Town](https://open.spotify.com/track/7723JnKU2R15Iv4T7OJrly) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [Paradas Continuas](https://open.spotify.com/album/3r4KvV3xbEN0VAHthWYnAE) | 3:59 |
 | 49 | [Dancing Queen](https://open.spotify.com/track/01iyCAUm8EvOFqVWYJ3dVX) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/79ZX48114T8NH36MnOTtl7) | 3:50 |
-| 50 | [Stayin' Alive \- Remastered Version](https://open.spotify.com/track/3LmpQiFNgFCnvAnhhvKUyI) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Number Ones](https://open.spotify.com/album/79F4jBcsI4qg66Xax1u4U8) | 4:45 |
+| 50 | [Upside Down](https://open.spotify.com/track/57Y3UccJEJqT8w8RWkUAz0) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/0Gy4phN6Xwx4uyskE7Wkls) | 4:04 |
 
 Snapshot ID: `AAAAAEU/wQA6/6Ujl/FzeK28zLsmHITb`

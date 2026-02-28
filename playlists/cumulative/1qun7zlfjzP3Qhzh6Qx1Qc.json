@@ -420,7 +420,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 186768,
       "name": "Always Be The One",
       "url": "https://open.spotify.com/track/6e9QzC16F6Lq2dXtpbf5ml"
@@ -2390,7 +2390,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 209213,
       "name": "Dads Don't Die",
       "url": "https://open.spotify.com/track/0GSGiPdXx7y29uMYjW17Xw"
@@ -2927,6 +2927,24 @@
     },
     {
       "album": {
+        "name": "Done For",
+        "url": "https://open.spotify.com/album/1cGgULJ45qb2qOvPuKQcXH"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153315,
+      "name": "Done For",
+      "url": "https://open.spotify.com/track/3aSyshS7O34fmTpcieSCTt"
+    },
+    {
+      "album": {
         "name": "Double Down",
         "url": "https://open.spotify.com/album/5l5yGchZei9NrlijF7DHtn"
       },
@@ -3100,7 +3118,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 198048,
       "name": "enabling",
       "url": "https://open.spotify.com/track/0qYEfg6RftcrQoSVQn4fKw"
@@ -6391,6 +6409,24 @@
     },
     {
       "album": {
+        "name": "Morning Comes",
+        "url": "https://open.spotify.com/album/4YhN9CPv5jlRKsP4b5EHaE"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251915,
+      "name": "Morning Comes",
+      "url": "https://open.spotify.com/track/78n5hMSMF5vL01YEqSCRaS"
+    },
+    {
+      "album": {
         "name": "Motel 6 (Acoustic)",
         "url": "https://open.spotify.com/album/0v46h4gJ0Cfqhf3zcraE7T"
       },
@@ -6514,7 +6550,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 156933,
       "name": "Naming Boats",
       "url": "https://open.spotify.com/track/49YM9koBu5gPvRDHqahE93"
@@ -8446,10 +8482,28 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 173215,
       "name": "Song For My Son (feat. Kane Brown)",
       "url": "https://open.spotify.com/track/2wUT327Dd5zPsUpE7lMqly"
+    },
+    {
+      "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213911,
+      "name": "Sorry... I Meant Tonight - Bonus",
+      "url": "https://open.spotify.com/track/0Sdy5NYNWx4ZZBU89MIu2m"
     },
     {
       "album": {
@@ -8973,6 +9027,24 @@
     },
     {
       "album": {
+        "name": "That's Gonna Leave A Memory",
+        "url": "https://open.spotify.com/album/4SOqdKl32Eeq6HTWsDIJyO"
+      },
+      "artists": [
+        {
+          "name": "Tebey",
+          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188615,
+      "name": "That's Gonna Leave A Memory",
+      "url": "https://open.spotify.com/track/2zXUfh8jRLZoT1MttcUPrM"
+    },
+    {
+      "album": {
         "name": "The 3rd",
         "url": "https://open.spotify.com/album/7dqS41SUcuByE4lwQPBrp2"
       },
@@ -8988,6 +9060,28 @@
       "duration_ms": 174186,
       "name": "The 3rd",
       "url": "https://open.spotify.com/track/5dXYiwAoVsq9dyzDGzNTIZ"
+    },
+    {
+      "album": {
+        "name": "the acrobat (feat. Lori McKenna)",
+        "url": "https://open.spotify.com/album/3n4Sz8AuTYmtgbPA58X9MK"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        },
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234272,
+      "name": "the acrobat (feat. Lori McKenna)",
+      "url": "https://open.spotify.com/track/6Q3lIX5uEqiTxt2cwvyl0R"
     },
     {
       "album": {
@@ -9742,7 +9836,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 214851,
       "name": "Two Roads",
       "url": "https://open.spotify.com/track/2LqxUcXsr4c0oc9N47lExD"

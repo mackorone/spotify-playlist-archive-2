@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Elsa y Elmar.",
+  "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Los Aptos.",
   "name": "Mixto",
   "tracks": [
     {
@@ -1809,6 +1809,32 @@
     },
     {
       "album": {
+        "name": "Barra Payan",
+        "url": "https://open.spotify.com/album/4kyRtcVqVxmWpT5fPT9Wx7"
+      },
+      "artists": [
+        {
+          "name": "Planta Industrial",
+          "url": "https://open.spotify.com/artist/2vfT28l8lKF4o9HuVkJ3Pw"
+        },
+        {
+          "name": "aka the darknight",
+          "url": "https://open.spotify.com/artist/3yb2AwODgJ3ug0l3jKcD5j"
+        },
+        {
+          "name": "Saso",
+          "url": "https://open.spotify.com/artist/7z3W8OunO3RH0quodR8Zsu"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172073,
+      "name": "Barra Payan",
+      "url": "https://open.spotify.com/track/3cdRDgp3swnjyrUQf4VybR"
+    },
+    {
+      "album": {
         "name": "BBY ROMEO",
         "url": "https://open.spotify.com/album/6MNveBkoPPQgHQfM560Zcz"
       },
@@ -2035,6 +2061,24 @@
     },
     {
       "album": {
+        "name": "BES4ME",
+        "url": "https://open.spotify.com/album/2pDTIwOIb85dGC7Pj0RUay"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153176,
+      "name": "BES4ME",
+      "url": "https://open.spotify.com/track/4YoHssP1wgFxKIrgkAJRDD"
+    },
+    {
+      "album": {
         "name": "Besos Ricos",
         "url": "https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU"
       },
@@ -2104,7 +2148,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 122400,
       "name": "Bien Bien",
       "url": "https://open.spotify.com/track/3CeetJ3dioCxE9qNaAvXHO"
@@ -5528,7 +5572,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 247043,
       "name": "el tiempo pasa r\u00e1pido",
       "url": "https://open.spotify.com/track/3679bCH5CErBhzAfYR2Cf1"

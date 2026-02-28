@@ -4,7 +4,7 @@
 
 > This is KAROL G\. The essential tracks, all in one playlist.
 
-85 songs - 4 hr 36 min
+86 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 | 2023-09-21 |  |
 | [EL BARCO](https://open.spotify.com/track/0MT6qJd7wKlWjH7tP7oWHi) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:23 | 2023-09-21 |  |
 | [EL MAKINON](https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:29 | 2023-09-21 |  |
+| [Enjoy Yourself \(feat\. Karol G\)](https://open.spotify.com/track/3NWrHCwvyII4fTx05PN3IO) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:17 | 2026-02-28 |  |
 | [Follow](https://open.spotify.com/track/2w1rq80FIrbxeJy9WYURxw) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Follow](https://open.spotify.com/album/4c7J8cbXIdLAiTX7PFYdDi) | 3:23 | 2023-09-21 | 2025-06-22 |
 | [FRIKI](https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [FRIKI](https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2) | 2:24 | 2023-09-21 | 2024-01-08 |
 | [FRIKI](https://open.spotify.com/track/2WrqTrNIHqfcMCgmEo0A7E) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [INTER SHIBUYA \(FERXXO EDITION\)](https://open.spotify.com/album/0kI46dzlikgAVpJ6LdkbJE) | 2:25 | 2024-01-07 |  |

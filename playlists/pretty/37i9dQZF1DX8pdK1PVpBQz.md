@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Swapmeet
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,514 likes - 105 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,521 likes - 105 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1025,6 +1025,24 @@
     },
     {
       "album": {
+        "name": "Love Stray",
+        "url": "https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d"
+      },
+      "artists": [
+        {
+          "name": "Braye",
+          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "Are You On The Way",
+      "url": "https://open.spotify.com/track/5QyJkMyAWCB0IzuzUiYpER"
+    },
+    {
+      "album": {
         "name": "AREA BOYZ",
         "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
       },
@@ -13270,24 +13288,6 @@
       "duration_ms": 225144,
       "name": "TOYL (Time Of Your Life)",
       "url": "https://open.spotify.com/track/2MC76yZJfif1GRBpG1USWg"
-    },
-    {
-      "album": {
-        "name": "Love Stray",
-        "url": "https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d"
-      },
-      "artists": [
-        {
-          "name": "Braye",
-          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
-        }
-      ],
-      "date_added": "2026-02-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/5QyJkMyAWCB0IzuzUiYpER"
     },
     {
       "album": {

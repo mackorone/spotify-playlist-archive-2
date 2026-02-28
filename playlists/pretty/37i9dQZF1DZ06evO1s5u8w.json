@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 200950,
+  "num_followers": 200967,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAACHHeqLkF/TKaZ5BQOW3MFF",
+  "snapshot_id": "aZ+NAAAAAACc8l4kFqv1FdOwpMTn7dLD",
   "tracks": [
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/4fR8vS8yMLungmCG0Igw6m"
+        "name": "Talking Heads '77",
+        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 332093,
-      "name": "(Nothing But) Flowers - 2005 Remaster",
-      "url": "https://open.spotify.com/track/4oEKgLZ8uTSioNKuO8Kydu"
+      "duration_ms": 189266,
+      "name": "New Feeling",
+      "url": "https://open.spotify.com/track/4FrDdv5Hnsg93UuYKqvX3R"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking Heads '77",
-        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/4fR8vS8yMLungmCG0Igw6m"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 189266,
-      "name": "New Feeling",
-      "url": "https://open.spotify.com/track/4FrDdv5Hnsg93UuYKqvX3R"
+      "duration_ms": 332093,
+      "name": "(Nothing But) Flowers - 2005 Remaster",
+      "url": "https://open.spotify.com/track/4oEKgLZ8uTSioNKuO8Kydu"
     },
     {
       "added_at": null,

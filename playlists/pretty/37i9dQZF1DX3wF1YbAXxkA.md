@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 
 > The official soundtrack for EA SPORTS FC 25.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,939 likes - 114 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,949 likes - 114 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 | 7 | [Weak](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Tom Breu](https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h) | [Weak](https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn) | 3:22 |
 | 8 | [places to be](https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [places to be](https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ) | 3:46 |
 | 9 | [Entre las de 20](https://open.spotify.com/track/3184c0tjCakg9oaNZYJODD) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Endiamantado / Entre las de 20](https://open.spotify.com/album/7kzmadmAbWRPtLbpQveynY) | 2:48 |
-| 10 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 |
-| 11 | [Lloret de Mar](https://open.spotify.com/track/4S78rQHd6cSC8g2TfdNJTf) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [Lloret de Mar](https://open.spotify.com/album/6umGWX7xQ0WgIDeZFsFFYX) | 2:05 |
+| 10 | [Lloret de Mar](https://open.spotify.com/track/4S78rQHd6cSC8g2TfdNJTf) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [Lloret de Mar](https://open.spotify.com/album/6umGWX7xQ0WgIDeZFsFFYX) | 2:05 |
+| 11 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 |
 | 12 | [Moving](https://open.spotify.com/track/2YNLzBRGyCAzHEGPO3J2Sb) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Moving](https://open.spotify.com/album/5ddIWQKK8ViScna6B0ARAl) | 2:20 |
 | 13 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 |
 | 14 | [I P’ ME, TU P’ TE](https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [I P’ ME, TU P’ TE](https://open.spotify.com/album/09DwcnxasBOzPGqVXJPF13) | 3:07 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 | 23 | [arcoíris](https://open.spotify.com/track/7p4PLlIurk63ErUi6pErra) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 2:42 |
 | 24 | [Lights](https://open.spotify.com/track/61CGtyyjeTQfIZ2Tm0mEq2) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Tides](https://open.spotify.com/album/017RaL4pPG79H1ECtctJIw) | 2:53 |
 | 25 | [TAKA](https://open.spotify.com/track/645e3XeVtB7QYpl3RdJBil) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi) | [TAKA](https://open.spotify.com/album/7pLqwqHzVfu62xso8Dpn40) | 2:54 |
-| 26 | [Run, Run, Run](https://open.spotify.com/track/7gwO0ePo0xG2qjvQTgJvRJ) | [McKinley Dixon](https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko) | [Beloved! Paradise! Jazz!?](https://open.spotify.com/album/3RDAqHBWBHXRwVSJF9T8VW) | 3:02 |
-| 27 | [That's How I'm Feeling](https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [No Name](https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX) | 3:11 |
+| 26 | [That's How I'm Feeling](https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [No Name](https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX) | 3:11 |
+| 27 | [Run, Run, Run](https://open.spotify.com/track/7gwO0ePo0xG2qjvQTgJvRJ) | [McKinley Dixon](https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko) | [Beloved! Paradise! Jazz!?](https://open.spotify.com/album/3RDAqHBWBHXRwVSJF9T8VW) | 3:02 |
 | 28 | [The End](https://open.spotify.com/track/5lhIY0YgH7JhszpQNUC1dm) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Hyperdrama](https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86) | 4:14 |
 | 29 | [iAAM](https://open.spotify.com/track/1uwmf1x4LQLGv1P1xjJFYk) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:03 |
 | 30 | [Evermore](https://open.spotify.com/track/05o0VN6ld61e3843bPgTyg) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Enfant Sauvage](https://open.spotify.com/artist/3fWTFntAThCp6vaoGjD71D) | [Bloom](https://open.spotify.com/album/57OLEpkhCXysV9FWrSbwid) | 3:25 |

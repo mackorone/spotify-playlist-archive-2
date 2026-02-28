@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OvxGG.md) - [plain]
 
 > This is Slipmami\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,894 likes - 47 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,900 likes - 47 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OvxGG.md) - [plain]
 | 30 | [Slipmami On The Radar Freestyle Pt\. 2](https://open.spotify.com/track/5BZhhKdfLRCeZMD2rrGgb5) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Vhulto](https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB) | [Slipmami On The Radar Freestyle Pt\. 2](https://open.spotify.com/album/6xZSYwLGujgmf7kHIUzNhM) | 2:40 |
 | 31 | [Não Gosto](https://open.spotify.com/track/23dDG4rg0mZT3YwKOTgF8T) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Até aqui, Slip nos ajudou](https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS) | 2:54 |
 | 32 | [Pertenço Às Ruas](https://open.spotify.com/track/1jYevrE8NDIdlxy7vs7Up4) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Rafu](https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk) | [Malvatrem \(Deluxe\)](https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv) | 2:15 |
-| 33 | [HISTERIA](https://open.spotify.com/track/4SWO4FtUOn5N34iyT4cr2M) | [kouth](https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [DIÁRIO DE UMA GAROTA SUBVERSIVA](https://open.spotify.com/album/3Fzo07bEdiOfM1f3FX6XCF) | 2:21 |
-| 34 | [Rainha do Vinho](https://open.spotify.com/track/45uCTNJhmdGkU36vKPTXjX) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Rafu](https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk) | [Gostosa Posturada](https://open.spotify.com/album/0wAogaPUucF4zLQUUzW2Je) | 2:27 |
+| 33 | [Rainha do Vinho](https://open.spotify.com/track/45uCTNJhmdGkU36vKPTXjX) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Rafu](https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk) | [Gostosa Posturada](https://open.spotify.com/album/0wAogaPUucF4zLQUUzW2Je) | 2:27 |
+| 34 | [HISTERIA](https://open.spotify.com/track/4SWO4FtUOn5N34iyT4cr2M) | [kouth](https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [DIÁRIO DE UMA GAROTA SUBVERSIVA](https://open.spotify.com/album/3Fzo07bEdiOfM1f3FX6XCF) | 2:21 |
 | 35 | [Velotrol](https://open.spotify.com/track/6ufP9EO1fy6LOlwfKLvD43) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Vhulto](https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB) | [Até aqui, Slip nos ajudou](https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS) | 1:30 |
 | 36 | [Vem Cá](https://open.spotify.com/track/0jUi1IcX2IQMmhjo3YQLIi) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Raikage](https://open.spotify.com/artist/19bJ30PN0LD2NL8gjH2hxY), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvatrem \(Deluxe\)](https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv) | 2:42 |
 | 37 | [Moranguinho](https://open.spotify.com/track/0fyxmtliWPVuQxVD3erEKy) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Moranguinho](https://open.spotify.com/album/13T073GRitV1LYzHFhoVoK) | 1:54 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OvxGG.md) - [plain]
 | 42 | [Pra Você Ficar a Vontade](https://open.spotify.com/track/5IKneLrLRU4e7ew7wuVegn) | [akao.47](https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [BREEZE](https://open.spotify.com/artist/2McfEbmX82KjLibSzYi7ZD) | [Pra Você Ficar a Vontade](https://open.spotify.com/album/1KkbKj4wDO6f6ZNSpE6j0c) | 3:27 |
 | 43 | [FOFINHO SUBMISSO](https://open.spotify.com/track/3L18ZuWtiptTLd2wbqE9P3) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [AK SPORTS](https://open.spotify.com/artist/7qiOBa5jCbTeyLY2Chw9ju), [NORA](https://open.spotify.com/artist/27ITClgUCIc7jbTZfp8Q4r) | [FOFINHO SUBMISSO](https://open.spotify.com/album/6OZtQ1z5yC4tDnQQ6dPu69) | 3:26 |
 | 44 | [A Jogada Que É Foda](https://open.spotify.com/track/4StZobTljFrwK85NRxkBHg) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvatrem \(Deluxe\)](https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv) | 2:28 |
-| 45 | [O PAPO](https://open.spotify.com/track/5vCNAAU8tzGTExuDLNjs7n) | [Big Rush](https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [MONTE RUSH+](https://open.spotify.com/album/3Diovb4bH559HziAhlI21P) | 2:15 |
-| 46 | [Trem Bala](https://open.spotify.com/track/1bo5duE2RKn8XvEO8abEul) | [DJ Leonardo Rafael](https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Trem Bala](https://open.spotify.com/album/7li5Q59eHLGJucFSRxcg9e) | 2:16 |
+| 45 | [Trem Bala](https://open.spotify.com/track/1bo5duE2RKn8XvEO8abEul) | [DJ Leonardo Rafael](https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Trem Bala](https://open.spotify.com/album/7li5Q59eHLGJucFSRxcg9e) | 2:16 |
+| 46 | [O PAPO](https://open.spotify.com/track/5vCNAAU8tzGTExuDLNjs7n) | [Big Rush](https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [MONTE RUSH+](https://open.spotify.com/album/3Diovb4bH559HziAhlI21P) | 2:15 |
 | 47 | [BÔNUS TRACK](https://open.spotify.com/track/2A33hs2ntyZ52cXMn34ljk) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [b o u t](https://open.spotify.com/artist/3djiMLvUhyywlWQgpYDR41), [Brasil Grime Show](https://open.spotify.com/artist/1MHo7H67rgMeXzF7UTqbjT) | [BÔNUS TRACK](https://open.spotify.com/album/3KMHDHQCUSXewfIPRUfo25) | 3:48 |
 
-Snapshot ID: `aZ47gAAAAADqgnn3npNPoSVovs/BK2AA`
+Snapshot ID: `aZ+NAAAAAACAJlxMXCvlEaL8Bpr/uUFd`

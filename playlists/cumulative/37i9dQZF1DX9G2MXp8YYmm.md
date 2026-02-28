@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Batuhan Kordel
 
-508 songs - 1 day 1 hr 35 min
+510 songs - 1 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,7 @@
 | [Kaçsam Gitsem](https://open.spotify.com/track/6vmhvj2k8RyAoOy4BmD5Nc) | [Elif Buse Doğan](https://open.spotify.com/artist/56hgP8k96P8s7hQyMvXCHS) | [Kaçsam Gitsem](https://open.spotify.com/album/4oxsJFAb6MdQpIBmOuoUGh) | 2:48 | 2025-12-04 |  |
 | [Kaçsana Bana \(Deli Kız Part II\)](https://open.spotify.com/track/6pz4uHZAKUawz4uj6c6GYk) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Kaçsana Bana \(Deli Kız Part II\)](https://open.spotify.com/album/1DdPAxtLx4Y27W4CMQ0HOM) | 2:56 | 2025-10-16 |  |
 | [Kehribar](https://open.spotify.com/track/3wtOAcctakLBwmzbCkRSHR) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN) | [Kehribar](https://open.spotify.com/album/2vJqCgVaPM5YpMlp9laiEX) | 2:48 | 2024-06-27 | 2025-07-18 |
-| [Kendisi Çıktı Bu Yoldan](https://open.spotify.com/track/1Nt1tWcwS4NjjyHT29Osco) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj), [Cemre](https://open.spotify.com/artist/7DOyoizHnSQW6jMGndQ9pS) | [Kendisi Çıktı Bu Yoldan](https://open.spotify.com/album/5LLBJwrPLwWc2ro51AtFh1) | 2:30 | 2026-02-05 |  |
+| [Kendisi Çıktı Bu Yoldan](https://open.spotify.com/track/1Nt1tWcwS4NjjyHT29Osco) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj), [Cemre](https://open.spotify.com/artist/7DOyoizHnSQW6jMGndQ9pS) | [Kendisi Çıktı Bu Yoldan](https://open.spotify.com/album/5LLBJwrPLwWc2ro51AtFh1) | 2:30 | 2026-02-05 | 2026-02-28 |
 | [Kervan](https://open.spotify.com/track/4MsNwPBADIfVpQ9ZmXNc7B) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6), [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE) | [Kervan](https://open.spotify.com/album/0xdqDsFfcbRRCYFVgeDr6P) | 2:34 | 2025-01-16 |  |
 | [Kim Derdi Ki](https://open.spotify.com/track/0eLRwnFU3tk2Tb0chKeCgC) | [Ece Mumay](https://open.spotify.com/artist/5FK1YzcREfjBuxM8i7UtBe) | [Kim Derdi Ki](https://open.spotify.com/album/0F1LjE01DyzK56QHmNMERj) | 3:29 | 2026-01-15 | 2026-01-23 |
 | [KOCA ADAM](https://open.spotify.com/track/6OpuGG0tsOHaxkmoMEnrkq) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [KOCA ADAM](https://open.spotify.com/album/7sYFdkwfB8jmyhgSKTXHUa) | 2:44 | 2024-12-19 | 2025-03-30 |
@@ -422,6 +422,7 @@
 | [Tiryakinim](https://open.spotify.com/track/5NEqpPrKdN5kkn66GPO5z1) | [Bayhan](https://open.spotify.com/artist/7yiLonxrJVgZKSbjo0gh6V) | [Tiryakinim](https://open.spotify.com/album/5RBSDuy54EfefItjc5Mfcl) | 3:19 | 2024-06-27 | 2024-07-27 |
 | [Tuttum Bırakmam](https://open.spotify.com/track/02xoSSypEzF5VFdjEiZb8s) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Tuttum Bırakmam](https://open.spotify.com/album/0FfpBYgMBioNgoQUyWkJDH) | 2:28 | 2025-08-28 | 2025-09-05 |
 | [Tükeniyor Ömrüm](https://open.spotify.com/track/5rnnwt1ZN5lAW5keo5DmQF) | [Can Bonomo](https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6), [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Kara Konular](https://open.spotify.com/album/6S9ZTHvSM57YOuMna1ejSX) | 4:00 | 2024-06-27 | 2025-01-13 |
+| [Umarım Unutmuştur](https://open.spotify.com/track/4uHd54kBsk8srZVTqaV37F) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Mona Lisa](https://open.spotify.com/album/5mWtdUlQ5hM51PFSrYuQtT) | 2:38 | 2026-02-26 |  |
 | [Unutamazsın](https://open.spotify.com/track/65dKYQvIz5eTTy4fqv19Ji) | [Ceren Sagu](https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX) | [Unutamazsın](https://open.spotify.com/album/43nJTaIBqv1ECCCMDFvPfv) | 2:20 | 2025-10-23 |  |
 | [Unutulmuyor](https://open.spotify.com/track/69WJKtNwwQ5ST9y34lpp8g) | [Funda Arar](https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW) | [Unutulmuyor](https://open.spotify.com/album/7md4fYG2lWiKS09tq13Ll4) | 2:52 | 2025-08-21 | 2026-02-07 |
 | [Uslanmaz](https://open.spotify.com/track/7BD5turxXQlcm72SCYkHQG) | [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp), [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC) | [Uslanmaz](https://open.spotify.com/album/7rpKmV8l7F9nBsyzxW8nMJ) | 2:25 | 2024-08-01 | 2025-08-06 |
@@ -475,6 +476,7 @@
 | [Yok Başka Hayalim](https://open.spotify.com/track/6VDMOQPxx7JTv82AAZ83RZ) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Yok Başka Hayalim](https://open.spotify.com/album/2pZkhpw70j61o5uAkDnaBn) | 5:11 | 2025-01-09 |  |
 | [Yokluğun Dokunmadı Bana](https://open.spotify.com/track/7g57EJTfSuKO6kfn4MJxCI) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Yokluğun Dokunmadı Bana](https://open.spotify.com/album/1ntIzqcXLSDu9ykdMFtAzY) | 4:21 | 2025-02-20 | 2025-04-06 |
 | [Yoksun](https://open.spotify.com/track/0Rb3Zf4wemUX45NNoo5H0L) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo) | [Yoksun](https://open.spotify.com/album/5l3AhfIKrcdqJiYUMySwNb) | 2:16 | 2024-06-27 | 2024-09-13 |
+| [Yolda Bıraktın](https://open.spotify.com/track/4kJEvIxJy5I3E3dxjVsXwy) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [Yolda Bıraktın](https://open.spotify.com/album/4ITjljaGAy5MquOHlULvh0) | 3:08 | 2026-02-26 |  |
 | [YOLU AÇIN](https://open.spotify.com/track/71XvAcVBm3TSwBR9WVeorV) | [Işıl Ayman](https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0) | [YOLU AÇIN](https://open.spotify.com/album/10jMsMR3uBjbcrfpIwlwPB) | 2:37 | 2024-07-11 | 2024-08-15 |
 | [Yolun Sonu](https://open.spotify.com/track/5bGJ7adYLYCblwyi96it9K) | [Tuğba Yurt](https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv) | [Yolun Sonu](https://open.spotify.com/album/17lGO9VxKnbhWh9woALoSR) | 2:41 | 2024-06-27 | 2024-10-04 |
 | [Yorulunca](https://open.spotify.com/track/5BLxtcCipwGssYjJdjsV2d) | [Sufle](https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P) | [Yorulunca](https://open.spotify.com/album/6b7vyaK4StuDlyAcrB1ZJk) | 3:40 | 2024-06-27 | 2024-10-20 |
@@ -503,7 +505,7 @@
 | [Önümüz Yaz](https://open.spotify.com/track/28Aau4tlztDlgKJQXrWhZR) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Önümüz Yaz](https://open.spotify.com/album/1RQR6pJby9qvranN8SuM1v) | 3:01 | 2024-06-27 | 2025-07-18 |
 | [Özgürlük](https://open.spotify.com/track/19oVO1hFQBqrum2bmHBqvC) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [Özgürlük](https://open.spotify.com/album/1H2JdnSioGeGGgnxfyT0rN) | 3:03 | 2025-03-06 | 2025-04-12 |
 | [Özür Dilerim](https://open.spotify.com/track/7CK4zijiTYsTAFb4VYHM2p) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Özür Dilerim](https://open.spotify.com/album/0f5Ot3CyN0nPA2CpW9Jkg9) | 2:45 | 2025-08-07 |  |
-| [Özür Dilerim](https://open.spotify.com/track/1t00Q23r5MtFVZS1jo8v61) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Özür Dilerim](https://open.spotify.com/album/0zlRHRWnbXEL3kja60woC6) | 2:35 | 2025-01-09 |  |
+| [Özür Dilerim](https://open.spotify.com/track/1t00Q23r5MtFVZS1jo8v61) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Özür Dilerim](https://open.spotify.com/album/0zlRHRWnbXEL3kja60woC6) | 2:35 | 2025-01-09 | 2026-02-28 |
 | [Özür Dilerim](https://open.spotify.com/track/0QE4d6T2bxCqpqf8vhN5Kt) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Özür Dilerim](https://open.spotify.com/album/7EBgi5b7TmEL3StT3WWUYZ) | 4:02 | 2025-05-22 | 2025-05-30 |
 | [Üzdü](https://open.spotify.com/track/37h8rUJVvJ3AjsHqFxeuo8) | [Ersay Üner](https://open.spotify.com/artist/6kf7koRM31Dgsj2WbByZpB) | [2 Şarkı](https://open.spotify.com/album/5GrJxnDfpxO83UV8jnb8x8) | 4:24 | 2025-02-06 | 2025-02-14 |
 | [Üzgünüm](https://open.spotify.com/track/0B8qH6UPs4dwXAVOBLhpsV) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Üzgünüm](https://open.spotify.com/album/7isCAPK9fbeeQjTcCzHdfh) | 4:01 | 2024-11-14 | 2026-02-27 |

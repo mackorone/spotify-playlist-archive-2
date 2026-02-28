@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 86327,
+  "num_followers": 86353,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,26 @@
     {
       "added_at": "2026-02-16 15:43:07",
       "album": {
+        "name": "Banger Hart",
+        "url": "https://open.spotify.com/album/434UyfPtqMaG61mIuFs34G"
+      },
+      "artists": [
+        {
+          "name": "Thymo",
+          "url": "https://open.spotify.com/artist/0Gmzk17bmcYkxnZqyOWfbn"
+        },
+        {
+          "name": "ANGUZ",
+          "url": "https://open.spotify.com/artist/1cnBPJwNKaowFOzBqyEZav"
+        }
+      ],
+      "duration_ms": 166487,
+      "name": "Banger Hart",
+      "url": "https://open.spotify.com/track/4JFOAK7gbUMOKCqxInP83L"
+    },
+    {
+      "added_at": "2026-02-16 15:43:07",
+      "album": {
         "name": "Nog Un Likkie! (Matt Ardeo & PartyTigers Remix)",
         "url": "https://open.spotify.com/album/1L9rITrHvWleou3YsiDAQx"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 171200,
       "name": "Nog Un Likkie! - Matt Ardeo & PartyTigers Remix",
       "url": "https://open.spotify.com/track/6MkAsFZT1l2MmUZnDtNix7"
-    },
-    {
-      "added_at": "2026-02-16 15:43:07",
-      "album": {
-        "name": "Banger Hart",
-        "url": "https://open.spotify.com/album/434UyfPtqMaG61mIuFs34G"
-      },
-      "artists": [
-        {
-          "name": "Thymo",
-          "url": "https://open.spotify.com/artist/0Gmzk17bmcYkxnZqyOWfbn"
-        },
-        {
-          "name": "ANGUZ",
-          "url": "https://open.spotify.com/artist/1cnBPJwNKaowFOzBqyEZav"
-        }
-      ],
-      "duration_ms": 166487,
-      "name": "Banger Hart",
-      "url": "https://open.spotify.com/track/4JFOAK7gbUMOKCqxInP83L"
     },
     {
       "added_at": "2026-02-16 15:43:07",
@@ -1047,22 +1047,22 @@
     {
       "added_at": "2026-02-16 15:43:07",
       "album": {
-        "name": "Wa Zeggie? (Ol\u00e9\u00e9)",
-        "url": "https://open.spotify.com/album/0yy3rq5bVB6bAoKx8p7Bq8"
+        "name": "Party All Night (Facking Feestje)",
+        "url": "https://open.spotify.com/album/4vHJ9idSm97AgY9FUY5bvl"
       },
       "artists": [
         {
-          "name": "Gassie & Adriaan",
-          "url": "https://open.spotify.com/artist/232B8D2rLTxlBhoEpDHGS1"
+          "name": "Barry Fest",
+          "url": "https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY"
         },
         {
-          "name": "PartyfrieX",
-          "url": "https://open.spotify.com/artist/1QXZ1BMJKU2dl2q6rDn1pB"
+          "name": "ANGUZ",
+          "url": "https://open.spotify.com/artist/1cnBPJwNKaowFOzBqyEZav"
         }
       ],
-      "duration_ms": 139764,
-      "name": "Wa Zeggie? (Ol\u00e9\u00e9)",
-      "url": "https://open.spotify.com/track/0ROlCekomVr4yViHbKYLIR"
+      "duration_ms": 176100,
+      "name": "Party All Night (Facking Feestje)",
+      "url": "https://open.spotify.com/track/3TMyHtHJDdIUJ2ZUvjSzcx"
     }
   ],
   "unique_name": "Nederlandse Hardstyle",

@@ -4,7 +4,7 @@
 
 > We got you! Den bedste nye pop er samlet her 💕
 
-816 songs - 1 day 17 hr 45 min
+817 songs - 1 day 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/track/17Vqwvat9EmRmfDvmYqoi0) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB) | 2:42 | 2025-12-11 | 2026-01-15 |
 | [Give Me Your Love Back](https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Give Me Your Love Back](https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO) | 2:56 | 2025-07-10 | 2025-09-12 |
 | [Gjort Hvad Jeg Kan](https://open.spotify.com/track/7nKXclXnCjbZiXv2yo8twY) | [Dahlin](https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P) | [Gjort Hvad Jeg Kan](https://open.spotify.com/album/2RfVIgXe5IJNwh4yVlym7k) | 3:23 | 2025-10-09 |  |
+| [GO](https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 3:15 | 2026-02-26 |  |
 | [god dag](https://open.spotify.com/track/2AfkO7eCM0UvVAXpVQWNBi) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [god dag](https://open.spotify.com/album/1ZFQUiw6YJvasou0MrkJck) | 3:04 | 2024-06-27 | 2024-10-04 |
 | [Gode Dage Venter](https://open.spotify.com/track/6qRcNR61C16q4sSplRwe24) | [Malte August](https://open.spotify.com/artist/0jXOczqKCZPeNfF0vtEvm6) | [Gode Dage Venter](https://open.spotify.com/album/331nvnmllDG5iYUsEvbsS6) | 3:25 | 2025-10-23 | 2025-11-14 |
 | [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 | 2025-05-22 | 2025-11-14 |
@@ -810,7 +811,7 @@
 | [Wood](https://open.spotify.com/track/5ylJtmaWPJ33cW3En7WOu0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 2:30 | 2025-10-02 |  |
 | [Words for Myself](https://open.spotify.com/track/0n0iTPcp4RMXnVN6ZdEEGe) | [Anna Frank](https://open.spotify.com/artist/1RCtH6n7rYymOrMvbX84xg) | [Words for Myself](https://open.spotify.com/album/4YDcP1HZt5vETOWs765m3Z) | 2:10 | 2025-06-19 | 2025-10-10 |
 | [Worry Never Wins \(feat\. NATURE\)](https://open.spotify.com/track/2qRFOTapfaEZ2ZE48AiZJM) | [Bye Bye Brenda](https://open.spotify.com/artist/4xbailSt3mnMLwv8iRY3d0), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [Worry Never Wins \(feat\. NATURE\)](https://open.spotify.com/album/1gYl214H1QjR8XdcMAdd6J) | 3:39 | 2025-04-24 | 2025-06-06 |
-| [You always liked me better when i was stoned](https://open.spotify.com/track/31Zd47aEZP29ZoGQkp45VN) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [You always liked me better when i was stoned](https://open.spotify.com/album/4JUnK6tzlRvi07mUSxN8hH) | 3:09 | 2026-02-26 |  |
+| [You Always Liked Me Better When I Was Stoned](https://open.spotify.com/track/31Zd47aEZP29ZoGQkp45VN) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [You Always Liked Me Better When I Was Stoned](https://open.spotify.com/album/4JUnK6tzlRvi07mUSxN8hH) | 3:09 | 2026-02-26 |  |
 | [You Don't Look At Me The Same](https://open.spotify.com/track/02iWF8aceuAlkJW57YQjwN) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [You Don't Look At Me The Same](https://open.spotify.com/album/2KbJQYc9FjkQPh0HEuEhrk) | 2:43 | 2025-08-14 | 2025-09-12 |
 | [You Found Me](https://open.spotify.com/track/0xr8Vdy7svQMJXicR1XWEt) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [You Found Me](https://open.spotify.com/album/0A4r9XhPvTM5Axc2ctn3Kv) | 3:27 | 2024-06-27 | 2024-10-04 |
 | [You Go Your Way](https://open.spotify.com/track/35jE2icc2pV4QDgbJiYMUe) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [You Go Your Way](https://open.spotify.com/album/5TfDNyXTjan0eZhELfj1jx) | 3:54 | 2024-10-03 | 2025-01-17 |

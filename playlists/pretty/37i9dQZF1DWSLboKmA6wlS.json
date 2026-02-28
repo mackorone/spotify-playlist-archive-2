@@ -1,12 +1,12 @@
 {
   "description": "\u0e1f\u0e31\u0e07\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e19. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: INC MATAWEE. Artwork: Isu Kim",
-  "num_followers": 12076,
+  "num_followers": 12117,
   "original_name": "Fresh Finds Thailand",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALFS8qO4Teo4wMyYsHTm0+PqXY9z",
+  "snapshot_id": "AAAAALLayqixo9Z3FRu/1xAUpRSFcoQF",
   "tracks": [
     {
       "added_at": "2026-02-20 08:15:54",
@@ -59,22 +59,6 @@
     {
       "added_at": "2026-02-20 08:15:54",
       "album": {
-        "name": "\u0e23\u0e30\u0e22\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08 (Near U)",
-        "url": "https://open.spotify.com/album/1vB0weMenTP8P7ikHJqUa0"
-      },
-      "artists": [
-        {
-          "name": "La Moon",
-          "url": "https://open.spotify.com/artist/7J2qcWgTJLmRFdOdl9rn5g"
-        }
-      ],
-      "duration_ms": 198367,
-      "name": "\u0e23\u0e30\u0e22\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08 (Near U)",
-      "url": "https://open.spotify.com/track/0fLernOp42FJPLu1XaknLV"
-    },
-    {
-      "added_at": "2026-02-20 08:15:54",
-      "album": {
         "name": "Luckyman",
         "url": "https://open.spotify.com/album/6oqDwqdxR1t2Z7t3dCeFmD"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 241379,
       "name": "Luckyman",
       "url": "https://open.spotify.com/track/06gScNq7M3mjk0Le6kaBJ8"
+    },
+    {
+      "added_at": "2026-02-20 08:15:54",
+      "album": {
+        "name": "\u0e23\u0e30\u0e22\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08 (Near U)",
+        "url": "https://open.spotify.com/album/1vB0weMenTP8P7ikHJqUa0"
+      },
+      "artists": [
+        {
+          "name": "La Moon",
+          "url": "https://open.spotify.com/artist/7J2qcWgTJLmRFdOdl9rn5g"
+        }
+      ],
+      "duration_ms": 198367,
+      "name": "\u0e23\u0e30\u0e22\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08 (Near U)",
+      "url": "https://open.spotify.com/track/0fLernOp42FJPLu1XaknLV"
     },
     {
       "added_at": "2026-02-20 08:15:54",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-02-20 08:15:54",
       "album": {
-        "name": "\u0e08\u0e30\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32\u0e40\u0e14\u0e34\u0e21",
-        "url": "https://open.spotify.com/album/3TAyz9HaDGqsZ1msdGjjuN"
-      },
-      "artists": [
-        {
-          "name": "Ohmchom",
-          "url": "https://open.spotify.com/artist/4ImLDxx5rGj4jaXUMg10V9"
-        }
-      ],
-      "duration_ms": 120369,
-      "name": "\u0e08\u0e30\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32\u0e40\u0e14\u0e34\u0e21",
-      "url": "https://open.spotify.com/track/4phUpziIYbWDXytcL83NEw"
-    },
-    {
-      "added_at": "2026-02-20 08:15:54",
-      "album": {
         "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07 (Losing Myself)",
         "url": "https://open.spotify.com/album/3uRGHcjHTK6cpIcTgzBZSc"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 184444,
       "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07 - Losing Myself",
       "url": "https://open.spotify.com/track/1NIxC8dG4p2Vz09t1BTgJB"
+    },
+    {
+      "added_at": "2026-02-20 08:15:54",
+      "album": {
+        "name": "\u0e08\u0e30\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32\u0e40\u0e14\u0e34\u0e21",
+        "url": "https://open.spotify.com/album/3TAyz9HaDGqsZ1msdGjjuN"
+      },
+      "artists": [
+        {
+          "name": "Ohmchom",
+          "url": "https://open.spotify.com/artist/4ImLDxx5rGj4jaXUMg10V9"
+        }
+      ],
+      "duration_ms": 120369,
+      "name": "\u0e08\u0e30\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32\u0e40\u0e14\u0e34\u0e21",
+      "url": "https://open.spotify.com/track/4phUpziIYbWDXytcL83NEw"
     },
     {
       "added_at": "2026-02-20 08:15:54",
@@ -463,6 +463,22 @@
       "duration_ms": 196727,
       "name": "\u0e17\u0e33\u0e44\u0e14\u0e49\u0e41\u0e04\u0e48\u0e17\u0e19",
       "url": "https://open.spotify.com/track/2gHzSJ1FqYNRJpstisFbdx"
+    },
+    {
+      "added_at": "2026-02-20 08:15:54",
+      "album": {
+        "name": "URGIRL",
+        "url": "https://open.spotify.com/album/0yhQPMLDP1pvmBizqN3vSO"
+      },
+      "artists": [
+        {
+          "name": "Daisy",
+          "url": "https://open.spotify.com/artist/0EubXtpso45245tzrMHtKZ"
+        }
+      ],
+      "duration_ms": 237333,
+      "name": "URGIRL",
+      "url": "https://open.spotify.com/track/2MnWbwCesAl8FQibKPl4gA"
     },
     {
       "added_at": "2026-02-20 08:15:54",
@@ -503,22 +519,6 @@
     {
       "added_at": "2026-02-20 08:15:54",
       "album": {
-        "name": "URGIRL",
-        "url": "https://open.spotify.com/album/0yhQPMLDP1pvmBizqN3vSO"
-      },
-      "artists": [
-        {
-          "name": "Daisy",
-          "url": "https://open.spotify.com/artist/0EubXtpso45245tzrMHtKZ"
-        }
-      ],
-      "duration_ms": 237333,
-      "name": "URGIRL",
-      "url": "https://open.spotify.com/track/2MnWbwCesAl8FQibKPl4gA"
-    },
-    {
-      "added_at": "2026-02-20 08:15:54",
-      "album": {
         "name": "Canvas",
         "url": "https://open.spotify.com/album/3qwkrT1uf5kICtZtD93iKW"
       },
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-02-20 08:15:54",
       "album": {
-        "name": "\u0e19\u0e34\u0e17\u0e32\u0e19\u0e2b\u0e25\u0e2d\u0e01\u0e40\u0e14\u0e47\u0e01 (fairytale)",
-        "url": "https://open.spotify.com/album/5e7aho7zMkYHZlklzyVBu6"
-      },
-      "artists": [
-        {
-          "name": "zene",
-          "url": "https://open.spotify.com/artist/0BOZsgBYGqT4E25Wta1Hru"
-        }
-      ],
-      "duration_ms": 170893,
-      "name": "\u0e19\u0e34\u0e17\u0e32\u0e19\u0e2b\u0e25\u0e2d\u0e01\u0e40\u0e14\u0e47\u0e01 (fairytale)",
-      "url": "https://open.spotify.com/track/2Im2FwYxknMHkbcfIqmbHB"
-    },
-    {
-      "added_at": "2026-02-20 08:15:54",
-      "album": {
         "name": "\u0e19\u0e49\u0e33\u0e15\u0e32",
         "url": "https://open.spotify.com/album/6jXCgL0wHqefgzrN4YMI04"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 242635,
       "name": "\u0e19\u0e49\u0e33\u0e15\u0e32",
       "url": "https://open.spotify.com/track/7xIKCQRbEhdDRKPb7jO6qr"
+    },
+    {
+      "added_at": "2026-02-20 08:15:54",
+      "album": {
+        "name": "\u0e19\u0e34\u0e17\u0e32\u0e19\u0e2b\u0e25\u0e2d\u0e01\u0e40\u0e14\u0e47\u0e01 (fairytale)",
+        "url": "https://open.spotify.com/album/5e7aho7zMkYHZlklzyVBu6"
+      },
+      "artists": [
+        {
+          "name": "zene",
+          "url": "https://open.spotify.com/artist/0BOZsgBYGqT4E25Wta1Hru"
+        }
+      ],
+      "duration_ms": 170893,
+      "name": "\u0e19\u0e34\u0e17\u0e32\u0e19\u0e2b\u0e25\u0e2d\u0e01\u0e40\u0e14\u0e47\u0e01 (fairytale)",
+      "url": "https://open.spotify.com/track/2Im2FwYxknMHkbcfIqmbHB"
     },
     {
       "added_at": "2026-02-20 08:15:54",
@@ -647,6 +647,22 @@
     {
       "added_at": "2026-02-20 08:15:54",
       "album": {
+        "name": "\u0e2d\u0e22\u0e32\u0e01\u0e1a\u0e2d\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22 (One Last Goodbye)",
+        "url": "https://open.spotify.com/album/1QyUtGkK9u8GClUFv54mXG"
+      },
+      "artists": [
+        {
+          "name": "on/no",
+          "url": "https://open.spotify.com/artist/76w5A8cWkupod7k32aUSEa"
+        }
+      ],
+      "duration_ms": 196578,
+      "name": "\u0e2d\u0e22\u0e32\u0e01\u0e1a\u0e2d\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22 (One Last Goodbye)",
+      "url": "https://open.spotify.com/track/2UV6ljthOVt0vwTUO6HiwG"
+    },
+    {
+      "added_at": "2026-02-20 08:15:54",
+      "album": {
         "name": "T-RUK",
         "url": "https://open.spotify.com/album/4wBAM2eGbOWMlhNa97Y5Bu"
       },
@@ -695,22 +711,6 @@
     {
       "added_at": "2026-02-20 08:15:54",
       "album": {
-        "name": "Deep Sea Monster",
-        "url": "https://open.spotify.com/album/4QvdtqP4c48Vq09kOQOxXV"
-      },
-      "artists": [
-        {
-          "name": "HEADLESS SCULPTURES",
-          "url": "https://open.spotify.com/artist/1N8WE8etYFapd7lt9RJNhB"
-        }
-      ],
-      "duration_ms": 286300,
-      "name": "Deep Sea Monster",
-      "url": "https://open.spotify.com/track/0jqWeLZDT99FyY7uDtRldJ"
-    },
-    {
-      "added_at": "2026-02-20 08:15:54",
-      "album": {
         "name": "\u0e40\u0e18\u0e2d\u0e0a\u0e48\u0e27\u0e22\u0e21\u0e2d\u0e07\u0e1a\u0e48\u0e2d\u0e22\u0e46 (capture)",
         "url": "https://open.spotify.com/album/1rz60S5bk1lwu02hjL6zpu"
       },
@@ -727,18 +727,18 @@
     {
       "added_at": "2026-02-20 08:15:54",
       "album": {
-        "name": "\u0e2d\u0e22\u0e32\u0e01\u0e1a\u0e2d\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22 (One Last Goodbye)",
-        "url": "https://open.spotify.com/album/1QyUtGkK9u8GClUFv54mXG"
+        "name": "Deep Sea Monster",
+        "url": "https://open.spotify.com/album/4QvdtqP4c48Vq09kOQOxXV"
       },
       "artists": [
         {
-          "name": "on/no",
-          "url": "https://open.spotify.com/artist/76w5A8cWkupod7k32aUSEa"
+          "name": "HEADLESS SCULPTURES",
+          "url": "https://open.spotify.com/artist/1N8WE8etYFapd7lt9RJNhB"
         }
       ],
-      "duration_ms": 196578,
-      "name": "\u0e2d\u0e22\u0e32\u0e01\u0e1a\u0e2d\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22 (One Last Goodbye)",
-      "url": "https://open.spotify.com/track/2UV6ljthOVt0vwTUO6HiwG"
+      "duration_ms": 286300,
+      "name": "Deep Sea Monster",
+      "url": "https://open.spotify.com/track/0jqWeLZDT99FyY7uDtRldJ"
     },
     {
       "added_at": "2026-02-20 08:15:54",
@@ -755,22 +755,6 @@
       "duration_ms": 188634,
       "name": "\u0e23\u0e39\u0e49\u0e08\u0e31\u0e01\u0e01\u0e31\u0e19\u0e43\u0e2b\u0e49\u0e14\u0e35\u0e01\u0e48\u0e2d\u0e19",
       "url": "https://open.spotify.com/track/3OyrJNwOjk1fZ3e7ZybYRs"
-    },
-    {
-      "added_at": "2026-02-20 08:15:54",
-      "album": {
-        "name": "\u0e40\u0e1c\u0e25\u0e2d\u0e17\u0e31\u0e01\u0e44\u0e1b",
-        "url": "https://open.spotify.com/album/1ZPzlOJQhxQsmBxnxT6kHy"
-      },
-      "artists": [
-        {
-          "name": "Blackwolf BOY",
-          "url": "https://open.spotify.com/artist/1eZ71wjLok7uYBUMcBOZQq"
-        }
-      ],
-      "duration_ms": 271578,
-      "name": "\u0e40\u0e1c\u0e25\u0e2d\u0e17\u0e31\u0e01\u0e44\u0e1b",
-      "url": "https://open.spotify.com/track/0H7ey7sBM9jkznYFKnRc7W"
     },
     {
       "added_at": "2026-02-20 08:15:54",
@@ -807,6 +791,38 @@
     {
       "added_at": "2026-02-20 08:15:54",
       "album": {
+        "name": "\u0e40\u0e1c\u0e25\u0e2d\u0e17\u0e31\u0e01\u0e44\u0e1b",
+        "url": "https://open.spotify.com/album/1ZPzlOJQhxQsmBxnxT6kHy"
+      },
+      "artists": [
+        {
+          "name": "Blackwolf BOY",
+          "url": "https://open.spotify.com/artist/1eZ71wjLok7uYBUMcBOZQq"
+        }
+      ],
+      "duration_ms": 271578,
+      "name": "\u0e40\u0e1c\u0e25\u0e2d\u0e17\u0e31\u0e01\u0e44\u0e1b",
+      "url": "https://open.spotify.com/track/0H7ey7sBM9jkznYFKnRc7W"
+    },
+    {
+      "added_at": "2026-02-20 08:15:54",
+      "album": {
+        "name": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e09\u0e31\u0e19 (Allergy-Drinks)",
+        "url": "https://open.spotify.com/album/6m1eyBH8wQbzLNTDjtYtFc"
+      },
+      "artists": [
+        {
+          "name": "Vaals",
+          "url": "https://open.spotify.com/artist/1W4ji89xxXpuCdX4YhMS5u"
+        }
+      ],
+      "duration_ms": 188613,
+      "name": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e09\u0e31\u0e19 (Allergy-Drinks)",
+      "url": "https://open.spotify.com/track/39gUtXus8zaLBwNM0hETg7"
+    },
+    {
+      "added_at": "2026-02-20 08:15:54",
+      "album": {
         "name": "\u0e23\u0e39\u0e49\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32",
         "url": "https://open.spotify.com/album/6uNPzZpnVyCxdLOWaJVRET"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 168305,
       "name": "\u0e40\u0e08\u0e49\u0e32\u0e0a\u0e39\u0e49 (girls)",
       "url": "https://open.spotify.com/track/208ytupDO4G0s7YARJwndO"
-    },
-    {
-      "added_at": "2026-02-20 08:15:54",
-      "album": {
-        "name": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e09\u0e31\u0e19 (Allergy-Drinks)",
-        "url": "https://open.spotify.com/album/6m1eyBH8wQbzLNTDjtYtFc"
-      },
-      "artists": [
-        {
-          "name": "Vaals",
-          "url": "https://open.spotify.com/artist/1W4ji89xxXpuCdX4YhMS5u"
-        }
-      ],
-      "duration_ms": 188613,
-      "name": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e09\u0e31\u0e19 (Allergy-Drinks)",
-      "url": "https://open.spotify.com/track/39gUtXus8zaLBwNM0hETg7"
     },
     {
       "added_at": "2026-02-20 08:15:54",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-02-20 08:15:54",
       "album": {
-        "name": "\u0e42\u0e17\u0e23\u0e44\u0e14\u0e49\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32 (Will You Answer?)",
-        "url": "https://open.spotify.com/album/1hDzWMgtDIfWqsXVYfPxZS"
-      },
-      "artists": [
-        {
-          "name": "RATTHEE",
-          "url": "https://open.spotify.com/artist/6HJVZXxSTP8eE7L8xPXKKh"
-        }
-      ],
-      "duration_ms": 232445,
-      "name": "\u0e42\u0e17\u0e23\u0e44\u0e14\u0e49\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32 - Will You Answer?",
-      "url": "https://open.spotify.com/track/6Tu7qGeULDB5nkB0CT8k3m"
-    },
-    {
-      "added_at": "2026-02-20 08:15:54",
-      "album": {
         "name": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e0a\u0e2d\u0e1a",
         "url": "https://open.spotify.com/album/5jOBjB4KRxdYrVtPlyHrZC"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 209108,
       "name": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e0a\u0e2d\u0e1a",
       "url": "https://open.spotify.com/track/09u67EylNXvhuMIBD17yQc"
+    },
+    {
+      "added_at": "2026-02-20 08:15:54",
+      "album": {
+        "name": "\u0e42\u0e17\u0e23\u0e44\u0e14\u0e49\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32 (Will You Answer?)",
+        "url": "https://open.spotify.com/album/1hDzWMgtDIfWqsXVYfPxZS"
+      },
+      "artists": [
+        {
+          "name": "RATTHEE",
+          "url": "https://open.spotify.com/artist/6HJVZXxSTP8eE7L8xPXKKh"
+        }
+      ],
+      "duration_ms": 232445,
+      "name": "\u0e42\u0e17\u0e23\u0e44\u0e14\u0e49\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32 - Will You Answer?",
+      "url": "https://open.spotify.com/track/6Tu7qGeULDB5nkB0CT8k3m"
     },
     {
       "added_at": "2026-02-20 08:15:54",

@@ -1,6 +1,6 @@
 {
   "description": "Su m\u00fasica, como ellos, es eterna. Jos\u00e9 Jos\u00e9 en portada.",
-  "num_followers": 71435,
+  "num_followers": 71460,
   "original_name": "Inmortales de la Canci\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-07-05 02:05:16",
       "album": {
-        "name": "Cl\u00e1sicos Latinos",
-        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles Negros",
-          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
-        }
-      ],
-      "duration_ms": 243573,
-      "name": "Y Volver\u00e9 - Remastered 1994",
-      "url": "https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s"
-    },
-    {
-      "added_at": "2024-07-05 02:05:16",
-      "album": {
         "name": "Matamoros Querido",
         "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 195506,
       "name": "Lamento De Amor",
       "url": "https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah"
+    },
+    {
+      "added_at": "2024-07-05 02:05:16",
+      "album": {
+        "name": "Cl\u00e1sicos Latinos",
+        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+        }
+      ],
+      "duration_ms": 243573,
+      "name": "Y Volver\u00e9 - Remastered 1994",
+      "url": "https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s"
     },
     {
       "added_at": "2024-07-05 02:05:16",

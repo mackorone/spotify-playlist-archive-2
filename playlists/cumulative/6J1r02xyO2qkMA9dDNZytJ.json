@@ -1433,6 +1433,24 @@
     },
     {
       "album": {
+        "name": "GMSTDT",
+        "url": "https://open.spotify.com/album/5R87B3FYaeFdFq1afzoPJG"
+      },
+      "artists": [
+        {
+          "name": "Tim Hox",
+          "url": "https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225230,
+      "name": "GMSTDT",
+      "url": "https://open.spotify.com/track/3ZU1JAvYASw5y2aLfJG7Pp"
+    },
+    {
+      "album": {
         "name": "Leaders Of The New School 2026",
         "url": "https://open.spotify.com/album/78PEi8LTSF6z90hLzxcaQL"
       },
@@ -1706,6 +1724,24 @@
       "duration_ms": 161904,
       "name": "House Of Strings",
       "url": "https://open.spotify.com/track/4dBW39MSEaonsiWBI1NzJk"
+    },
+    {
+      "album": {
+        "name": "House Rules EP",
+        "url": "https://open.spotify.com/album/53UJivhLy1OxyonfZGQpm7"
+      },
+      "artists": [
+        {
+          "name": "Josh Butler",
+          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264186,
+      "name": "House Rules",
+      "url": "https://open.spotify.com/track/6BFDOq9B9Cng4QI4YUxeU8"
     },
     {
       "album": {
@@ -2096,6 +2132,28 @@
       "duration_ms": 178110,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/01UTKNFPC5tyXu0XNI3X3d"
+    },
+    {
+      "album": {
+        "name": "La Luna",
+        "url": "https://open.spotify.com/album/4XIfexe7srgekIHZKWqjnq"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
+        },
+        {
+          "name": "Ricardo Reyna",
+          "url": "https://open.spotify.com/artist/7CM8di4c1wLMjVSGODhwxF"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146880,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/0vpLLEPKbf9PFtdx25u8k8"
     },
     {
       "album": {
@@ -2505,6 +2563,28 @@
     },
     {
       "album": {
+        "name": "Makin\u2019 My Move",
+        "url": "https://open.spotify.com/album/3ZV4ERw1iQxyBWmNa12Buc"
+      },
+      "artists": [
+        {
+          "name": "Maezbi",
+          "url": "https://open.spotify.com/artist/71Wxz6fSM7vVImYxBfZ8xG"
+        },
+        {
+          "name": "Cocho",
+          "url": "https://open.spotify.com/artist/6bL4pO0TGo8umUn9e8WkNa"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166998,
+      "name": "Makin\u2019 My Move",
+      "url": "https://open.spotify.com/track/2jGwRQDrcMfz4Kl92hgSPT"
+    },
+    {
+      "album": {
         "name": "Momo",
         "url": "https://open.spotify.com/album/6M6LuwKSVW6b9aLpKfBghx"
       },
@@ -2760,6 +2840,28 @@
       "duration_ms": 167133,
       "name": "Over You",
       "url": "https://open.spotify.com/track/7JXrx6UxFSs544gh4vxeW0"
+    },
+    {
+      "album": {
+        "name": "Pedal To The Floor EP",
+        "url": "https://open.spotify.com/album/6NJTWa9ZWRBs18UJgw4k1H"
+      },
+      "artists": [
+        {
+          "name": "Ben Miller",
+          "url": "https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd"
+        },
+        {
+          "name": "Soma",
+          "url": "https://open.spotify.com/artist/23pMHdWBS71N6BsOmYjNYa"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210489,
+      "name": "Pedal To The Floor",
+      "url": "https://open.spotify.com/track/4zd6hhBMwLvMUgXntkO9qc"
     },
     {
       "album": {
@@ -3404,7 +3506,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 201230,
       "name": "System",
       "url": "https://open.spotify.com/track/0oB8BYocpXaQ7hxX8ZhPJ6"
@@ -3982,7 +4084,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 164250,
       "name": "Words",
       "url": "https://open.spotify.com/track/6lDoavtdRl2cJqBUv4JKz4"

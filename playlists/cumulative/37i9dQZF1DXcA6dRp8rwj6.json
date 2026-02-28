@@ -1232,6 +1232,26 @@
         {
           "name": "Concrete Boys",
           "url": "https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Draft Day",
+          "url": "https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L"
+        },
+        {
+          "name": "Camo!",
+          "url": "https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b"
+        },
+        {
+          "name": "Honest",
+          "url": "https://open.spotify.com/artist/0UVv3tdAVAmHXHhhMOQyhX"
+        },
+        {
+          "name": "Dc2trill",
+          "url": "https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI"
         }
       ],
       "date_added": "2026-02-27",
@@ -5168,6 +5188,28 @@
       "duration_ms": 127443,
       "name": "B&E",
       "url": "https://open.spotify.com/track/6iKiKNM7bbbYi7ZQY0V44M"
+    },
+    {
+      "album": {
+        "name": "B.B.B.",
+        "url": "https://open.spotify.com/album/3aS5keGWpo2QNDIGnL2Spd"
+      },
+      "artists": [
+        {
+          "name": "JUVENILE",
+          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140613,
+      "name": "B.B.B.",
+      "url": "https://open.spotify.com/track/2Vmb54sq94SOhDobcf4gxp"
     },
     {
       "album": {
@@ -18745,7 +18787,7 @@
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 181621,
+      "duration_ms": 181670,
       "name": "Enemies",
       "url": "https://open.spotify.com/track/4KYf8TBVU4QHZlSnVOn7u8"
     },
@@ -20602,6 +20644,24 @@
       "duration_ms": 247444,
       "name": "First Person Shooter (feat. J. Cole)",
       "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
+    },
+    {
+      "album": {
+        "name": "FLAMMABLE",
+        "url": "https://open.spotify.com/album/5FS2IqrUicInbFJOS4bAHH"
+      },
+      "artists": [
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197551,
+      "name": "FLAMMABLE",
+      "url": "https://open.spotify.com/track/1d5sIc2QcHgSMYvGcnsLhe"
     },
     {
       "album": {

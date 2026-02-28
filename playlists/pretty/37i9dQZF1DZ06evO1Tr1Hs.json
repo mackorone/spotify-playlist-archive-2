@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 45210,
+  "num_followers": 45227,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAAAlXvpnJCRGlx/8mczahDuO",
+  "snapshot_id": "aZ+NAAAAAABxqdfpQZ5nivW55ADChIOq",
   "tracks": [
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Great Chaos (Deluxe)",
-        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
+        "name": "Project X",
+        "url": "https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 157694,
-      "name": "leather jacket",
-      "url": "https://open.spotify.com/track/3OUfsApmvr7mwIm0rSbqbu"
+      "duration_ms": 244376,
+      "name": "Run + Ran",
+      "url": "https://open.spotify.com/track/7dZ9oSkQlxo0kHEgyS8WSD"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project X",
-        "url": "https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS"
+        "name": "A Great Chaos (Deluxe)",
+        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 244376,
-      "name": "Run + Ran",
-      "url": "https://open.spotify.com/track/7dZ9oSkQlxo0kHEgyS8WSD"
+      "duration_ms": 157694,
+      "name": "leather jacket",
+      "url": "https://open.spotify.com/track/3OUfsApmvr7mwIm0rSbqbu"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
       "duration_ms": 169889,
       "name": "New",
       "url": "https://open.spotify.com/track/2ht2G1JL1yg0kIbz6Wfr8V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Great Chaos (Deluxe)",
-        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 165353,
-      "name": "toxic",
-      "url": "https://open.spotify.com/track/4c1LjGTCF8kMEikirzFgkm"
     },
     {
       "added_at": null,
@@ -679,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Great Chaos (Deluxe)",
+        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 165353,
+      "name": "toxic",
+      "url": "https://open.spotify.com/track/4c1LjGTCF8kMEikirzFgkm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
       },
@@ -695,6 +695,22 @@
       "duration_ms": 228326,
       "name": "MDMA (feat. Destroy Lonely)",
       "url": "https://open.spotify.com/track/6hJjp4IbXc5bddl6RKutJr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XTENDED",
+        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 142287,
+      "name": "Freestyle 3",
+      "url": "https://open.spotify.com/track/3ZuKr1NfTecyfGuYwuXb7c"
     },
     {
       "added_at": null,
@@ -719,22 +735,6 @@
       "duration_ms": 187496,
       "name": "President (feat. Ken Carson)",
       "url": "https://open.spotify.com/track/3wHQwZC88fNttgEGinZ34Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "XTENDED",
-        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 142287,
-      "name": "Freestyle 3",
-      "url": "https://open.spotify.com/track/3ZuKr1NfTecyfGuYwuXb7c"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "XTENDED",
+        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 201681,
+      "name": "Fashion Habits",
+      "url": "https://open.spotify.com/track/2ivRKtdr0RD9nLjeXgRBPV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Homixide Lifestyle",
         "url": "https://open.spotify.com/album/6swapyVAOMJiUKc6qhUykp"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 178285,
       "name": "Stunt",
       "url": "https://open.spotify.com/track/6HK0t75U3xsQQ3HoYHQJMi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "XTENDED",
-        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 201681,
-      "name": "Fashion Habits",
-      "url": "https://open.spotify.com/track/2ivRKtdr0RD9nLjeXgRBPV"
     },
     {
       "added_at": null,

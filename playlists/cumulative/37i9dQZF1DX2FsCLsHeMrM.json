@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Gettin' figgy with it, bana-na-na-nanana",
+  "description": "Fresh ingredients and fresh beats. Press play and let it cook.",
   "name": "Kitchen Swagger",
   "tracks": [
     {
@@ -670,7 +670,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 181259,
       "name": "Back Pocket",
       "url": "https://open.spotify.com/track/1DrlLvlYd1FIjNavRm6NdX"
@@ -836,7 +836,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 140133,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/3kguMbJma0qhOLniGsFlKq"
@@ -934,6 +934,24 @@
       "duration_ms": 187931,
       "name": "Breathe (feat. Hoodboi)",
       "url": "https://open.spotify.com/track/4KOWpZ5iMdtQCX1OzEIGLA"
+    },
+    {
+      "album": {
+        "name": "BREATHE!",
+        "url": "https://open.spotify.com/album/2DK3WE4fJz4YgvaPz4ZXkw"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209395,
+      "name": "BREATHE!",
+      "url": "https://open.spotify.com/track/7pQ5f4zkmaS5G264xtbCvf"
     },
     {
       "album": {
@@ -1220,6 +1238,24 @@
       "duration_ms": 268853,
       "name": "Closer",
       "url": "https://open.spotify.com/track/6XaV2S7rtFLMw2YBXcIhvv"
+    },
+    {
+      "album": {
+        "name": "It Could Be Worse",
+        "url": "https://open.spotify.com/album/1mRgtlHEIpq6xOg71TxGqV"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215524,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7mvbNjFKdlpjnbcqocscuK"
     },
     {
       "album": {
@@ -2270,7 +2306,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 262693,
       "name": "Get to Know Ya - 2021 Remaster",
       "url": "https://open.spotify.com/track/1QGO7udymj4xp6w8jbpiF8"
@@ -2867,6 +2903,32 @@
     },
     {
       "album": {
+        "name": "Hypnotic Night",
+        "url": "https://open.spotify.com/album/1JNKtfVGZwigUkReb77vym"
+      },
+      "artists": [
+        {
+          "name": "Alissia",
+          "url": "https://open.spotify.com/artist/0yq0ZW3g1vX4Vsfz9wH7rO"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217105,
+      "name": "Hypnotic Night",
+      "url": "https://open.spotify.com/track/6nHS2tNiKc7xIDkwFg7ldV"
+    },
+    {
+      "album": {
         "name": "R.O.S.E. (Empowerment)",
         "url": "https://open.spotify.com/album/0WLDf5V9llFSTpYTRKofs7"
       },
@@ -2986,7 +3048,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 240453,
       "name": "I Found My Smile Again (Radio Edit)",
       "url": "https://open.spotify.com/track/3uq6qe8ouF012GLOcLyWcH"
@@ -3232,6 +3294,24 @@
       "duration_ms": 304160,
       "name": "If You Love Me",
       "url": "https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r"
+    },
+    {
+      "album": {
+        "name": "If You Want Me / I Just Don't Want You",
+        "url": "https://open.spotify.com/album/4vCwjbissrRSenYWDRMJOm"
+      },
+      "artists": [
+        {
+          "name": "The Womack Sisters",
+          "url": "https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186389,
+      "name": "If You Want Me",
+      "url": "https://open.spotify.com/track/7jY1fynjJEtkiSpMkQSk2P"
     },
     {
       "album": {
@@ -4126,7 +4206,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 194023,
       "name": "Lost in Paris",
       "url": "https://open.spotify.com/track/6lxcWIvMQK3yezxwFfZcKZ"
@@ -4270,7 +4350,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 205162,
       "name": "Madiba Riddim",
       "url": "https://open.spotify.com/track/76gUmNLXGQVOsGhfcshkFP"
@@ -5326,7 +5406,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 291066,
       "name": "Sittin' Up In My Room",
       "url": "https://open.spotify.com/track/5Erc0rv16PU4Z5Zt16kGQe"
@@ -5528,6 +5608,24 @@
       "duration_ms": 386026,
       "name": "Somebody Else's Guy",
       "url": "https://open.spotify.com/track/6xEg0lNce24BEPjCjqy5JB"
+    },
+    {
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166458,
+      "name": "Something Serious",
+      "url": "https://open.spotify.com/track/0PV4VQCmE6Ujssr1bnswdF"
     },
     {
       "album": {
@@ -5784,6 +5882,24 @@
       "duration_ms": 126979,
       "name": "Strange Kind Of Love",
       "url": "https://open.spotify.com/track/3M8N1bOe4Vrev4HAoOFeeY"
+    },
+    {
+      "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/0U1L0ymBennSrZ1LZdJPSP"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219862,
+      "name": "Stuck In My Head",
+      "url": "https://open.spotify.com/track/2XFW2M843o9gr7O5YQJnDp"
     },
     {
       "album": {
@@ -6452,6 +6568,24 @@
       "duration_ms": 223278,
       "name": "Toothache",
       "url": "https://open.spotify.com/track/6plp1nJtm4Y3m87qmDCy61"
+    },
+    {
+      "album": {
+        "name": "Turn This Love Around",
+        "url": "https://open.spotify.com/album/6QaL165e30ANBH3oj5X7Ll"
+      },
+      "artists": [
+        {
+          "name": "Mondo Freaks",
+          "url": "https://open.spotify.com/artist/5Bb3BN9iluGrIHhDcpuKiL"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316133,
+      "name": "Turn This Love Around",
+      "url": "https://open.spotify.com/track/1NTMY22seuV6Rvvt8BYTnN"
     },
     {
       "album": {

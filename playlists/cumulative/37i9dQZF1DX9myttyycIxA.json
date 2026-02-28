@@ -5072,7 +5072,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 181393,
       "name": "Change My Mind",
       "url": "https://open.spotify.com/track/2bQcgUJSzCV48MJwPTnqFN"
@@ -6117,6 +6117,24 @@
     },
     {
       "album": {
+        "name": "Commit",
+        "url": "https://open.spotify.com/album/1555wnFEavXhKXHzbirpsS"
+      },
+      "artists": [
+        {
+          "name": "Kathryn Mohr",
+          "url": "https://open.spotify.com/artist/2lbUZvIMQVI9unYN34lmOZ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240506,
+      "name": "Commit",
+      "url": "https://open.spotify.com/track/4uHF1PgwVRAQrffCvziD5f"
+    },
+    {
+      "album": {
         "name": "Brain Worms",
         "url": "https://open.spotify.com/album/5qAcUPxM27DFP7xvO4nHho"
       },
@@ -6654,6 +6672,24 @@
       "duration_ms": 171493,
       "name": "Cramps",
       "url": "https://open.spotify.com/track/4mfPMfuy0fq025OaoPBKSL"
+    },
+    {
+      "album": {
+        "name": "Ken Park",
+        "url": "https://open.spotify.com/album/55ltlA6HMeK1tQwLZPZF1Q"
+      },
+      "artists": [
+        {
+          "name": "Ken Park",
+          "url": "https://open.spotify.com/artist/7AyoL7nBpOxuFWu706TN1J"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219240,
+      "name": "Crawl",
+      "url": "https://open.spotify.com/track/5E4lPEA9KaRGZcTuT78BkR"
     },
     {
       "album": {
@@ -9626,7 +9662,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 235226,
       "name": "Everything You Wanted",
       "url": "https://open.spotify.com/track/3hVq9e2hA3J0NZmlXqTl0B"
@@ -11552,6 +11588,28 @@
       "duration_ms": 162090,
       "name": "Gentleman",
       "url": "https://open.spotify.com/track/55FCJLORvnx3gbA5BLNHXk"
+    },
+    {
+      "album": {
+        "name": "George",
+        "url": "https://open.spotify.com/album/28vY7PfZLx4RyGj96eG7oY"
+      },
+      "artists": [
+        {
+          "name": "High.",
+          "url": "https://open.spotify.com/artist/59LpxUqe2EStKGfpogJqxi"
+        },
+        {
+          "name": "sweet93",
+          "url": "https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176137,
+      "name": "George",
+      "url": "https://open.spotify.com/track/5P9OqilWan1wf9XCyM2Mg7"
     },
     {
       "album": {
@@ -14873,6 +14931,24 @@
     },
     {
       "album": {
+        "name": "I Know!",
+        "url": "https://open.spotify.com/album/0M2XvfmdGjy0jer1Z7gbXW"
+      },
+      "artists": [
+        {
+          "name": "Swapmeet",
+          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214304,
+      "name": "I Know!",
+      "url": "https://open.spotify.com/track/3q2YKTA1K0GrFVoBFMoN5t"
+    },
+    {
+      "album": {
         "name": "I Like You A Lot",
         "url": "https://open.spotify.com/album/3bCqum4mnqThYE8diO7AVk"
       },
@@ -15170,6 +15246,24 @@
       "duration_ms": 278293,
       "name": "I Think I Like When It Rains",
       "url": "https://open.spotify.com/track/5S5u0EWtlblH00iTNExZ6X"
+    },
+    {
+      "album": {
+        "name": "Deer in the Headlights",
+        "url": "https://open.spotify.com/album/5qeZSe0axVQt0roM9PqMJL"
+      },
+      "artists": [
+        {
+          "name": "Tallulah Argue",
+          "url": "https://open.spotify.com/artist/34L2mrqYyWifYUwyPMhCUd"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235555,
+      "name": "I Think I'm Gonna Love You Forever",
+      "url": "https://open.spotify.com/track/2wa37x2GB65RpxpKV3ch67"
     },
     {
       "album": {
@@ -19026,7 +19120,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 169133,
       "name": "Mansion",
       "url": "https://open.spotify.com/track/2uaaRKBqiJfYbn87FUe0LR"
@@ -19390,7 +19484,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 254434,
       "name": "midori",
       "url": "https://open.spotify.com/track/6yFrdnr5l7TirwCgpQrdTj"
@@ -20880,7 +20974,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 189650,
       "name": "Nights in Armor",
       "url": "https://open.spotify.com/track/3IYWwBHxGyTZLh5OYaH7Ow"
@@ -21784,7 +21878,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 136190,
       "name": "omni shambles",
       "url": "https://open.spotify.com/track/4WIxKjPg1bJoRyun7xQsAO"
@@ -21940,6 +22034,24 @@
       "duration_ms": 211764,
       "name": "One Stop Shop (For A Fading Revolution)",
       "url": "https://open.spotify.com/track/5aa6n3VZmDediYoN2x9ayw"
+    },
+    {
+      "album": {
+        "name": "One Track Mind",
+        "url": "https://open.spotify.com/album/1Cl1CmQhsbpZLHpi65xljQ"
+      },
+      "artists": [
+        {
+          "name": "Glom",
+          "url": "https://open.spotify.com/artist/0OY528sf5HGsPB2xi8BJ4H"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164379,
+      "name": "One Track Mind",
+      "url": "https://open.spotify.com/track/2bfTC4W83goNET1BqrdEcK"
     },
     {
       "album": {
@@ -22755,6 +22867,24 @@
     },
     {
       "album": {
+        "name": "pieces",
+        "url": "https://open.spotify.com/album/0HtKs3fzUYPQIjA0kXsCDk"
+      },
+      "artists": [
+        {
+          "name": "thistle.",
+          "url": "https://open.spotify.com/artist/4dPHAp5JXnj8HkY71hWVj5"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202788,
+      "name": "pieces",
+      "url": "https://open.spotify.com/track/0TYYCO93FESiUlTanVH9pX"
+    },
+    {
+      "album": {
         "name": "Pieces of Gold",
         "url": "https://open.spotify.com/album/5N1Ar0YY5Fjdyo2Yu675E3"
       },
@@ -23343,6 +23473,24 @@
     },
     {
       "album": {
+        "name": "Quarter note rock",
+        "url": "https://open.spotify.com/album/3RFIwf9BvE1BUJAwWpZ4Li"
+      },
+      "artists": [
+        {
+          "name": "cootie catcher",
+          "url": "https://open.spotify.com/artist/46ufOtURSipSKdxoz8KZzu"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244971,
+      "name": "Quarter note rock",
+      "url": "https://open.spotify.com/track/36Df5D2WsOPvI0n9o4NbnG"
+    },
+    {
+      "album": {
         "name": "Queen of Ears",
         "url": "https://open.spotify.com/album/5pPAwx1AV9H3aWepcY7DhA"
       },
@@ -23866,7 +24014,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 271053,
       "name": "Recognize You",
       "url": "https://open.spotify.com/track/7hJ0oqscjJIrGPyiKenpcx"
@@ -23902,7 +24050,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 238832,
       "name": "Red Brick",
       "url": "https://open.spotify.com/track/5JiEzvDyUom70fKv4gYEEr"
@@ -24682,7 +24830,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 195305,
       "name": "Same Sun",
       "url": "https://open.spotify.com/track/68WQazghMHnM3E93x4t0or"
@@ -25342,6 +25490,28 @@
       "duration_ms": 270293,
       "name": "Shark Eyes",
       "url": "https://open.spotify.com/track/11wfF2qohFwGzyG3e2HPKB"
+    },
+    {
+      "album": {
+        "name": "she loves him",
+        "url": "https://open.spotify.com/album/5MNCq8CEyiBcDhpl99xxIR"
+      },
+      "artists": [
+        {
+          "name": "rosevile sucks",
+          "url": "https://open.spotify.com/artist/25Ko45jGJees0ZRFOYXlXi"
+        },
+        {
+          "name": "Masumi",
+          "url": "https://open.spotify.com/artist/0Y0Ck10AraPy7sDNGrosuk"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170781,
+      "name": "she loves him",
+      "url": "https://open.spotify.com/track/4OusHecqhG9DFlg9fyb2zA"
     },
     {
       "album": {

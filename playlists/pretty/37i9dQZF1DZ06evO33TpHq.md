@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 
 > This is Phil Wickham\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,330 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,365 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 | 8 | [House Of The Lord](https://open.spotify.com/track/3Gyl1BvC41QD8rXEMfSQWY) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 4:16 |
 | 9 | [This Is Our God](https://open.spotify.com/track/365fchCf6KIm5uEbEGplKz) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:25 |
 | 10 | [Love of God \(Live\)](https://open.spotify.com/track/5lwi7XvSzlGsJ6NIGR1qAn) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Love of God \(Live\)](https://open.spotify.com/album/1NdJ3UWZpGZFkrMu6Xe69K) | 7:48 |
-| 11 | [It Really Is Amazing Grace](https://open.spotify.com/track/1HO3ZnqGmyShPCOZSfH05b) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [It Really Is Amazing Grace](https://open.spotify.com/album/41fqcLmuhTElVN511yJC4Z) | 4:14 |
+| 11 | [He Arose](https://open.spotify.com/track/48AK0EB5FNgZS10wLBGjJ9) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [He Arose](https://open.spotify.com/album/1Ld4v9YKxyKclc8MXADZ4m) | 4:49 |
 | 12 | [Hymn Of Heaven](https://open.spotify.com/track/6UwxHDz7vGUhbDSevNUUcj) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 4:27 |
 | 13 | [I Believe](https://open.spotify.com/track/2l20BZOKBc1vNBxfKkJoQ7) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 5:02 |
-| 14 | [So So Good \- Live](https://open.spotify.com/track/3uNx9NvRHm60mDwOBFCkqg) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [So So Good \(Live\)](https://open.spotify.com/album/4dZx4AIFmNQo4KCUyhY3ru) | 4:48 |
-| 15 | [He Arose](https://open.spotify.com/track/48AK0EB5FNgZS10wLBGjJ9) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [He Arose](https://open.spotify.com/album/1Ld4v9YKxyKclc8MXADZ4m) | 4:49 |
+| 14 | [It Really Is Amazing Grace](https://open.spotify.com/track/1HO3ZnqGmyShPCOZSfH05b) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [It Really Is Amazing Grace](https://open.spotify.com/album/41fqcLmuhTElVN511yJC4Z) | 4:14 |
+| 15 | [So So Good \- Live](https://open.spotify.com/track/3uNx9NvRHm60mDwOBFCkqg) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [So So Good \(Live\)](https://open.spotify.com/album/4dZx4AIFmNQo4KCUyhY3ru) | 4:48 |
 | 16 | [Psalm 8 \(from the Angel Film DAVID\)](https://open.spotify.com/track/4gMXtvbTCGhvnMll5QR8F3) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Angel](https://open.spotify.com/artist/2Q04nRZfHm5oBF9Z14dpUF) | [DAVID \(Soundtrack from the Angel Original Film\)](https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq) | 3:47 |
 | 17 | [You Cannot Be Stopped](https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [You Cannot Be Stopped](https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ) | 4:21 |
 | 18 | [The King Is In The Room](https://open.spotify.com/track/7g5XHIyUEAOIAVgQvPx7uW) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Song Of The Saints](https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK) | 4:02 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 | 44 | [People Of Heaven](https://open.spotify.com/track/4q5b4EHkkv2Zb2dgHZjt0z) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [People Of Heaven](https://open.spotify.com/album/0WpqACb5Wk8d3ze16Sod1D) | 4:12 |
 | 45 | [Till I Found You](https://open.spotify.com/track/5wrTjji1a7OkZfTo9TKesB) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 4:00 |
 | 46 | [Divine / Sailing / Time / Hymn \- Acoustic](https://open.spotify.com/track/3Ia4fDeie06NoYMSnoipZV) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God Acoustic Sessions](https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU) | 7:44 |
-| 47 | [He Has Done Great Things](https://open.spotify.com/track/7CvI6gPRlOwsdeRXYjgVUV) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [The King Is Still The King](https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS) | 4:59 |
-| 48 | [Heaven Song](https://open.spotify.com/track/39yNGLlopJa3q3brHLUrlc) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Heaven & Earth](https://open.spotify.com/album/1REUtxsMboujnyPU1laW6v) | 4:04 |
+| 47 | [Heaven Song](https://open.spotify.com/track/39yNGLlopJa3q3brHLUrlc) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Heaven & Earth](https://open.spotify.com/album/1REUtxsMboujnyPU1laW6v) | 4:04 |
+| 48 | [He Has Done Great Things](https://open.spotify.com/track/7CvI6gPRlOwsdeRXYjgVUV) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [The King Is Still The King](https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS) | 4:59 |
 | 49 | [My All in All](https://open.spotify.com/track/12MyV6NyImQCOtSwqgXzHE) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 4:49 |
 | 50 | [Worthy Of My Song](https://open.spotify.com/track/5VYr4jdVKLv84Ekcv6tCiA) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Worthy Of My Song](https://open.spotify.com/album/16fFn81XGGaucqyWowE7QS) | 6:11 |
 
-Snapshot ID: `aZ47gAAAAADT7R4Sj0Pt9mHtEm8ku+U8`
+Snapshot ID: `aZ+NAAAAAACwD1WCFt6i4o0dMZUV8v7j`

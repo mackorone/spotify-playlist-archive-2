@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > The perfect mixtape for an anime fight scene\. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,309,952 likes - 75 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,310,092 likes - 75 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 17 | [MARCELINE](https://open.spotify.com/track/17zEBtrjKKa2hwk9CxWIkX) | [Lil God Dan](https://open.spotify.com/artist/20kAERGCnqfyGydzop8bfg) | [MARCELINE](https://open.spotify.com/album/0NBvXFLdqzROOO4O5KhhNf) | 2:35 |
 | 18 | [GTG](https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [GTG](https://open.spotify.com/album/4KvTJJPmcAd1XJaO3UrARG) | 1:33 |
 | 19 | [CODE MISTAKE](https://open.spotify.com/track/39iRz0h1eZOyXzch8tKQit) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [CODE MISTAKE](https://open.spotify.com/album/02V5iAi2paX4K7Z20R5lvl) | 2:45 |
-| 20 | [Unbothered](https://open.spotify.com/track/5hwUsRKvnO5yThjVrxHQVt) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [STOKELEY](https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn) | 2:18 |
-| 21 | [Hatchback](https://open.spotify.com/track/18lkWhwmY0fVVv40eCxohv) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [Benbow Crescent](https://open.spotify.com/album/3QXYqRVyBQfNK3MDn82hVF) | 2:29 |
+| 20 | [Hatchback](https://open.spotify.com/track/18lkWhwmY0fVVv40eCxohv) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [Benbow Crescent](https://open.spotify.com/album/3QXYqRVyBQfNK3MDn82hVF) | 2:29 |
+| 21 | [Unbothered](https://open.spotify.com/track/5hwUsRKvnO5yThjVrxHQVt) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [STOKELEY](https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn) | 2:18 |
 | 22 | [sunset dreams](https://open.spotify.com/track/6zg431pIV64icWpxl46rzk) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou) | [sunset dreams](https://open.spotify.com/album/49zxPpemrGsPpWnVpQcLNh) | 1:50 |
 | 23 | [The Law of Recognition](https://open.spotify.com/track/4DPYOF6Tvptit1xDUbOo8o) | [KYSLINGO](https://open.spotify.com/artist/2JdZlNYqYJ8xY0a5nFlXdO) | [The Law of Recognition](https://open.spotify.com/album/6ZvIedykZIKjNhYoPxozOB) | 2:09 |
 | 24 | [E\-GIRLS ARE RUINING MY LIFE!](https://open.spotify.com/track/7bCfHiRcfUjG0YVVNUL7Ve) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk) | [E\-GIRLS ARE RUINING MY LIFE!](https://open.spotify.com/album/1wrJvDOGOMQKn2v0iRiSJT) | 1:45 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 41 | [PACKAPUNCH \(feat\. Danny Brown\)](https://open.spotify.com/track/3C1rUtw6tW9dfVPar8CMLf) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [NO HANDS](https://open.spotify.com/album/1Fjelo0jZ4i1iQZBsK0pOA) | 3:00 |
 | 42 | [EVERYBODY LOVES RAYGUN](https://open.spotify.com/track/2ePfpPUTnniAYFFtZMT81e) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U), [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk) | [EVERYBODY LOVES RAYGUN](https://open.spotify.com/album/6bbcE0TACg7guxv9vFgtcz) | 3:15 |
 | 43 | [Falling](https://open.spotify.com/track/5cF4gR8WHnHgkPFSD6hdC2) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Falling](https://open.spotify.com/album/7FGCBxUHVOvJUEWTwLCA9c) | 2:23 |
-| 44 | [Knocking At My Door](https://open.spotify.com/track/4goD7afmHrKjGNLmNh3MVE) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Knocking At My Door](https://open.spotify.com/album/2k7mLxuz7WHnmsiVrI2mmD) | 3:10 |
-| 45 | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B) | 3:46 |
+| 44 | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B) | 3:46 |
+| 45 | [Knocking At My Door](https://open.spotify.com/track/4goD7afmHrKjGNLmNh3MVE) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Knocking At My Door](https://open.spotify.com/album/2k7mLxuz7WHnmsiVrI2mmD) | 3:10 |
 | 46 | [die](https://open.spotify.com/track/4ZIam3omF73NPEKufXiTvi) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Key Kelly](https://open.spotify.com/artist/7tlCdVZ037kAOuupObsQss) | [die](https://open.spotify.com/album/2Gnp1bVMf1pZqI1crlEPfY) | 1:39 |
 | 47 | [Break Shit](https://open.spotify.com/track/0Sd0kdgU6HrIclxYjuV99j) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [Break Shit](https://open.spotify.com/album/589UEOGJTF0Jk8sXA4GLKA) | 1:35 |
 | 48 | [Split](https://open.spotify.com/track/12Uc8hH4rw2Lb0598pqBtL) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Split](https://open.spotify.com/album/3G53RrtTfbUtUUhqqSFBAk) | 2:16 |

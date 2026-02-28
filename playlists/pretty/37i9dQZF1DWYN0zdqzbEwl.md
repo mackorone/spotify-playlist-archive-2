@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN0zdqzbEwl.md) - [plain]
 
 > Legendarios del rock en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,261,951 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,262,052 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN0zdqzbEwl.md) - [plain]
 | 31 | [A las Nueve](https://open.spotify.com/track/0CgpCtEPvyDizcg2p47VrU) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [El Calor Del Pleno Invierno](https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3) | 3:27 |
 | 32 | [Irresponsables](https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Infame](https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn) | 2:36 |
 | 33 | [Lobo\-hombre en París](https://open.spotify.com/track/3M1H1CWjrSq7nxABHc8EXv) | [La Unión](https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U) | [Grandes Exitos](https://open.spotify.com/album/7bYD4tCxzQOzGZmKBKtT3m) | 3:53 |
-| 34 | [Tu Carcel \- En Vivo](https://open.spotify.com/track/1lAFWiaVhJhvQ5Gtzp6vSu) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [En Vivo](https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9) | 4:02 |
-| 35 | [Sabor a Chocolate](https://open.spotify.com/track/29OzJTIOTjCgR7fLyEXY7u) | [Elefante](https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb) | [Lo Que Andábamos Buscando \(Special Para CEV\)](https://open.spotify.com/album/5v3tEjfsPvLN3aDawSSx7h) | 3:51 |
+| 34 | [Sabor a Chocolate](https://open.spotify.com/track/29OzJTIOTjCgR7fLyEXY7u) | [Elefante](https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb) | [Lo Que Andábamos Buscando \(Special Para CEV\)](https://open.spotify.com/album/5v3tEjfsPvLN3aDawSSx7h) | 3:51 |
+| 35 | [Tu Carcel \- En Vivo](https://open.spotify.com/track/1lAFWiaVhJhvQ5Gtzp6vSu) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [En Vivo](https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9) | 4:02 |
 | 36 | [Love](https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Rocanlover](https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX) | 3:23 |
 | 37 | [Kumbala](https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 4:27 |
 | 38 | [Mentira](https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [La Ley MTV Unplugged](https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi) | 4:48 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN0zdqzbEwl.md) - [plain]
 | 68 | [Nos Siguen Pegando Abajo](https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Clics Modernos](https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H) | 3:26 |
 | 69 | [Pronta Entrega](https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Locura](https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r) | 4:33 |
 | 70 | [Corazon Espinado \(feat\. Mana\)](https://open.spotify.com/track/2WoqgtWEBbbBKMDN6Becs7) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:34 |
-| 71 | [Aunque no sea conmigo](https://open.spotify.com/track/0dRY4OrSY53yUjVgfgne1W) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Hijos del pueblo](https://open.spotify.com/album/69JZWukakNJGpGhJILhyTl) | 3:32 |
-| 72 | [Mil Horas \- 1994 Remastered Version](https://open.spotify.com/track/4pHdHimCLvD4nx8lh6uQyx) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [Los Abuelos De La Nada 1 \(1994 Remastered Version\)](https://open.spotify.com/album/6IwPxvK4pVWKt6HBCmXh8h) | 2:47 |
+| 71 | [Mil Horas \- 1994 Remastered Version](https://open.spotify.com/track/4pHdHimCLvD4nx8lh6uQyx) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [Los Abuelos De La Nada 1 \(1994 Remastered Version\)](https://open.spotify.com/album/6IwPxvK4pVWKt6HBCmXh8h) | 2:47 |
+| 72 | [Aunque no sea conmigo](https://open.spotify.com/track/0dRY4OrSY53yUjVgfgne1W) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Hijos del pueblo](https://open.spotify.com/album/69JZWukakNJGpGhJILhyTl) | 3:32 |
 | 73 | [Tren Al Sur](https://open.spotify.com/track/5nvS1vouQkX0HxOohfqCoS) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Coleccion Suprema](https://open.spotify.com/album/62mYqA8S00dcrD42jmml86) | 5:38 |
 | 74 | [Te Quiero Comer La Boca](https://open.spotify.com/track/6Y5k0NupErwLzOQXDxfVFa) | [La Mosca](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Buenos Muchachos](https://open.spotify.com/album/5a1eBYCKsIcd5yIHtKBUzM) | 3:24 |
 | 75 | [Manuel Santillán, el León \(Versión Reggae\) \- Remasterizado 2008](https://open.spotify.com/track/41MfyUSxQoo1BgIsNj8eDS) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El León](https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H) | 3:57 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN0zdqzbEwl.md) - [plain]
 | 92 | [Así Es la Vida](https://open.spotify.com/track/3ge3q3Hz0KWhQX5EAQcwEy) | [Elefante](https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb) | [Lo Que Andábamos Buscando \(Special Para CEV\)](https://open.spotify.com/album/5v3tEjfsPvLN3aDawSSx7h) | 5:09 |
 | 93 | [Gimme Tha Power](https://open.spotify.com/track/6grtIVjVPuZWup0fIXF900) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Donde Jugaran Las Niñas](https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ) | 4:10 |
 | 94 | [Mujer Amante \- Vivo](https://open.spotify.com/track/5O5PY5HJNPxD7KyqU0SEhH) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [XX Aniversario En Vivo \- Magos, Espadas Y Rosas](https://open.spotify.com/album/7dbk5SnWgnt485vlCizXBE) | 6:17 |
-| 95 | [Baracunatana](https://open.spotify.com/track/1SBwYuWcbpJOXZBlzWfJQw) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Originales \- 20 Exitos](https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf) | 2:31 |
-| 96 | [Veneno Vil](https://open.spotify.com/track/7lBKa0oQnv6w2AgFiBqRW2) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Amor Chiquito](https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u) | 4:57 |
+| 95 | [Veneno Vil](https://open.spotify.com/track/7lBKa0oQnv6w2AgFiBqRW2) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Amor Chiquito](https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u) | 4:57 |
+| 96 | [Baracunatana](https://open.spotify.com/track/1SBwYuWcbpJOXZBlzWfJQw) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Originales \- 20 Exitos](https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf) | 2:31 |
 | 97 | [No Dejes Que](https://open.spotify.com/track/3XluhR9U6ToARwWAl9W1QU) | [Jaguares](https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq) | [El Primer Instinto](https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL) | 3:58 |
 | 98 | [Lo noto](https://open.spotify.com/track/1k3Y0fhjdYKjfPSacDJm0p) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Peligrosamente Juntos](https://open.spotify.com/album/7eBwifbtzfdnn9NhcUaC8d) | 4:19 |
 | 99 | [Tornasol \(Vuelves a Ser\)](https://open.spotify.com/track/1BaNzcWE5fAJ6Ujh1CytzN) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [La Gusana Ciega](https://open.spotify.com/album/5cc54VNiVL3mwUZxKCELNJ) | 3:44 |

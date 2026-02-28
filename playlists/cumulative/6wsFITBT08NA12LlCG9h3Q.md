@@ -4,7 +4,7 @@
 
 > A <a href="http://www.digster.fm/decades">classic playlist</a> with the best hits of the 90s featuring No Doubt, Nirvana, and more.
 
-72 songs - 4 hr 48 min
+74 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,10 +23,12 @@
 | [California Love \- Original Version](https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:44 | 2022-05-18 |  |
 | [Closing Time](https://open.spotify.com/track/087OBLtoeS3Q6j0k6tMNAI) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [Feeling Strangely Fine](https://open.spotify.com/album/10EiZk1JUeEcIVXHdYkrGp) | 4:33 | 2022-05-18 |  |
 | [Come As You Are](https://open.spotify.com/track/6N0ZAWkJUWUI0QYG2VwHmL) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Deluxe Edition\)](https://open.spotify.com/album/1ySR0W1hHxPDKCBWdvzRvc) | 3:38 | 2022-05-18 |  |
+| [Common People \- Full Length Version](https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 5:51 | 2026-02-28 |  |
 | [Crazy](https://open.spotify.com/track/2cBGl1Ehr1D9xbqNmraqb4) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip \(Reissue \- Remaster\)](https://open.spotify.com/album/6BZNF93Ac0zqWD1n9TgFOq) | 5:16 | 2022-05-18 | 2025-07-26 |
 | [Don't Speak](https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:23 | 2022-05-18 |  |
 | [Dreams](https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:31 | 2025-07-25 |  |
 | [Everybody Hurts](https://open.spotify.com/track/0DOF4L7UE2oXBccF36nwLb) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People \(25th Anniversary Edition\)](https://open.spotify.com/album/3sDXivpN7CmCKbQRRsRzw8) | 5:20 | 2022-05-18 | 2025-07-26 |
+| [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 | 2026-02-28 |  |
 | [Family Affair](https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [No More Drama](https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4) | 4:25 | 2022-05-18 |  |
 | [I'll Be There for You \- Theme From "Friends"](https://open.spotify.com/track/15tHagkk8z306XkyOHqiip) | [The Rembrandts](https://open.spotify.com/artist/0gDg7FEsF4Y1jWddJJgcn4) | [L.P.](https://open.spotify.com/album/6koDBGMqurYl3EZnaxCF7N) | 3:08 | 2025-03-21 |  |
 | [If I Ever Lose My Faith In You](https://open.spotify.com/track/05vL56xSoxthM0r7IfcQjo) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Ten Summoner's Tales](https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg) | 4:30 | 2022-05-18 |  |

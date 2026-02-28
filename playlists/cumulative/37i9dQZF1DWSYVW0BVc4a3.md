@@ -4,7 +4,7 @@
 
 > All energy\. Cover: Jayda G
 
-1,423 songs - 4 day 8 hr 54 min
+1,424 songs - 4 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -799,6 +799,7 @@
 | [Miracle \- RÜFÜS DU SOL Remix](https://open.spotify.com/track/2yTjbIZDwHO41HIwDNPB8K) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Miracle \- RÜFÜS DU SOL Remix](https://open.spotify.com/album/0YrIrVXVrpZZM7cjxF8erW) | 8:23 | 2023-10-12 | 2024-02-23 |
 | [Mirage](https://open.spotify.com/track/7ebulpHSffs4Thc0VM0LHv) | [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq) | [Mirage](https://open.spotify.com/album/5ZwqPuurXv0oKEZXvfAHZc) | 4:20 | 2023-01-19 | 2023-03-10 |
 | [Mirage](https://open.spotify.com/track/3kB6Dx68otpYKCwmhcuHE1) | [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4) | [Mirage](https://open.spotify.com/album/1AvEymaoSwYcv8KnsbpihF) | 9:08 | 2023-09-14 | 2023-09-29 |
+| [Mission Barnhus](https://open.spotify.com/track/6HiIHHOVVop7G50iwqrUAr) | [FaltyDL](https://open.spotify.com/artist/1qykxtFM9KoTti5y3xV1uk) | [Mission Barnhus](https://open.spotify.com/album/5x9H7C39y7M7SS4juDAZ3f) | 5:50 | 2026-02-27 |  |
 | [Mistery Lady](https://open.spotify.com/track/3OPOlqB7BWK5a9WL7eGqGM) | [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX), [Soulmanic](https://open.spotify.com/artist/20zMeXKHidTZrxhk7Qdo5x) | [Mistery Lady](https://open.spotify.com/album/7pSNLI38T60BpQSq20ETle) | 3:52 | 2023-03-23 | 2025-08-16 |
 | [Mitsubishi \(feat\. Muki\)](https://open.spotify.com/track/7rAsQpCZO8lJPSCl7Uyk0H) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Muki](https://open.spotify.com/artist/6D8m8pBw3RkQ1TAi1bF2e1) | [Mitsubishi \(feat\. Muki\)](https://open.spotify.com/album/6CNCCnwbxxI5Q10DLWI7tC) | 2:56 | 2025-11-20 |  |
 | [Molfar](https://open.spotify.com/track/1MHO5ebuwaSgGaccdC5VPr) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Molfar](https://open.spotify.com/album/1j0XrEQ6r8bAeNmJj5aoON) | 3:24 | 2023-02-16 | 2024-01-13 |

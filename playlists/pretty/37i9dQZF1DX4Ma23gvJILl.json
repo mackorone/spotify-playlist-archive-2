@@ -1,6 +1,6 @@
 {
   "description": "Los temas que nunca paras de escuchar. En portada: Maluma baby",
-  "num_followers": 295195,
+  "num_followers": 295243,
   "original_name": "\u00c9xitos del Ayer",
   "owner": {
     "name": "Spotify",
@@ -779,26 +779,6 @@
     {
       "added_at": "2026-01-07 14:39:04",
       "album": {
-        "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
-        "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
-      },
-      "artists": [
-        {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
-        },
-        {
-          "name": "Marta S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
-        }
-      ],
-      "duration_ms": 230280,
-      "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
-      "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
-    },
-    {
-      "added_at": "2026-01-07 14:39:04",
-      "album": {
         "name": "Meet The Orphans",
         "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 237973,
       "name": "Hooka",
       "url": "https://open.spotify.com/track/0BenZn1xELuxhb7Pjwyjxv"
+    },
+    {
+      "added_at": "2026-01-07 14:39:04",
+      "album": {
+        "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
+        "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
+      },
+      "artists": [
+        {
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+        },
+        {
+          "name": "Marta S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
+        }
+      ],
+      "duration_ms": 230280,
+      "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
+      "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
     },
     {
       "added_at": "2026-01-07 14:39:04",
@@ -875,26 +875,6 @@
     {
       "added_at": "2026-01-07 14:39:04",
       "album": {
-        "name": "Pa' Otro La 'O",
-        "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
-      },
-      "artists": [
-        {
-          "name": "ChiChi Peralta",
-          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
-        },
-        {
-          "name": "Jandy Feliz",
-          "url": "https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6"
-        }
-      ],
-      "duration_ms": 271031,
-      "name": "Procura",
-      "url": "https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf"
-    },
-    {
-      "added_at": "2026-01-07 14:39:04",
-      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 227480,
       "name": "Amigos Con Derechos",
       "url": "https://open.spotify.com/track/4yVO0wOhXsZC1RuPgHP524"
+    },
+    {
+      "added_at": "2026-01-07 14:39:04",
+      "album": {
+        "name": "Pa' Otro La 'O",
+        "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
+      },
+      "artists": [
+        {
+          "name": "ChiChi Peralta",
+          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
+        },
+        {
+          "name": "Jandy Feliz",
+          "url": "https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6"
+        }
+      ],
+      "duration_ms": 271031,
+      "name": "Procura",
+      "url": "https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf"
     },
     {
       "added_at": "2026-01-07 14:39:04",

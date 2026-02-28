@@ -652,7 +652,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 88582,
       "name": "6-7",
       "url": "https://open.spotify.com/track/4yeaLItxF75bCI5KraoQcg"
@@ -7070,7 +7070,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 113700,
       "name": "Fine Shit",
       "url": "https://open.spotify.com/track/4E0VlejtaZ0FKSfYqflytn"
@@ -7206,6 +7206,24 @@
       "duration_ms": 235354,
       "name": "Fisherrr - Remix",
       "url": "https://open.spotify.com/track/1rrV4ymf3Tp3xuLgB4zCRN"
+    },
+    {
+      "album": {
+        "name": "FLAMMABLE",
+        "url": "https://open.spotify.com/album/5FS2IqrUicInbFJOS4bAHH"
+      },
+      "artists": [
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197551,
+      "name": "FLAMMABLE",
+      "url": "https://open.spotify.com/track/1d5sIc2QcHgSMYvGcnsLhe"
     },
     {
       "album": {
@@ -12503,6 +12521,28 @@
     },
     {
       "album": {
+        "name": "Made It On Our Own",
+        "url": "https://open.spotify.com/album/5pXYL4x2dOkvxM0aeigqwF"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169090,
+      "name": "Made It On Our Own",
+      "url": "https://open.spotify.com/track/13Z2JpNwN54a5WXacGYtLs"
+    },
+    {
+      "album": {
         "name": "MADONNA & RIHANNA",
         "url": "https://open.spotify.com/album/0r81t0FQLIyyAytNSLUbqy"
       },
@@ -13880,7 +13920,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 207119,
       "name": "New Trip (feat. Yeat & BNYX\u00ae)",
       "url": "https://open.spotify.com/track/2lpLHJXgSGFU5GuIk8qzgs"
@@ -15684,6 +15724,24 @@
       "duration_ms": 223317,
       "name": "POOL PARTY (with 42 Dugg & YTB Fatt)",
       "url": "https://open.spotify.com/track/4heM9EKJoYrE2u2FR1zpqJ"
+    },
+    {
+      "album": {
+        "name": "BE MORE GRATEFUL",
+        "url": "https://open.spotify.com/album/3JoiYj7Wu5cM6X6rHJAVdg"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138346,
+      "name": "POP DAT THANG",
+      "url": "https://open.spotify.com/track/0QgwjxR1VchizzckKXwyBu"
     },
     {
       "album": {

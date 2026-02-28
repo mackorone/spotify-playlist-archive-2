@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9s9tZvyODzc.md) - [plain]
 
 > Dale play y dejá que la música te lleve.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,675 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,747 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9s9tZvyODzc.md) - [plain]
 | 14 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 |
 | 15 | [Antiguo y moderno](https://open.spotify.com/track/61yrUJAIQBb6xAL1PAn3uf) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Julian Kartun](https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8) | [El Verdadero](https://open.spotify.com/album/2FH18Hc5xC6LhgLA5ylBHt) | 2:43 |
 | 16 | [Hungry Eyes \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/31H6au3jhblhr6MMJiXnCq) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [The Definitive Collection](https://open.spotify.com/album/02CxAhdSRhzcm6XQ8m5RNp) | 4:11 |
-| 17 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:37 |
+| 17 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 2:43 |
 | 18 | [Esta Noche](https://open.spotify.com/track/4PsdpiskPZJicf5M9abvv0) | [SER](https://open.spotify.com/artist/5Tk3cLiTSfgrMC4BxInpO9), [Thiago Muller](https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi) | [La Vida Baila](https://open.spotify.com/album/3M19chc2NXGVlwk7uvSPjr) | 3:25 |
 | 19 | [Loquero Viejo](https://open.spotify.com/track/7JqGwkeTQzwY0EIZl4J7DT) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Loquero Viejo](https://open.spotify.com/album/33UiNdTDUkLlyPW9fEt8gh) | 3:31 |
 | 20 | [Deseo](https://open.spotify.com/track/594s1AODSpT9zQpjCfVsDH) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Deseo](https://open.spotify.com/album/0PKVLdgSYioXJ8fShf31E9) | 3:14 |
-| 21 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 2:43 |
+| 21 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:37 |
 | 22 | [Amor Bonsai](https://open.spotify.com/track/5z5j5ThIudzdciWxPMtlaf) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Amor Bonsai](https://open.spotify.com/album/4YkSNO5xmPKkWCx6oYbZA2) | 4:15 |
 | 23 | [Loco \(Tu Forma De Ser\)](https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [El Milagro Argentino](https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ) | 5:13 |
 | 24 | [Besos En Guerra](https://open.spotify.com/track/1mlGScrDQqHqmhdIqE8MmA) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:51 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9s9tZvyODzc.md) - [plain]
 | 73 | [Balada Del Diablo y La Muerte](https://open.spotify.com/track/4ObkiTmpsSU31gqGhTb8SH) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Despedazado Por Mil Partes](https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg) | 5:36 |
 | 74 | [Lunes Por La Madrugada](https://open.spotify.com/track/6VPIaZNNJFOY9U17geQz1o) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [Himno De Mi Corazon](https://open.spotify.com/album/2oo9stWQLNM4eb5JCSoXGC) | 3:14 |
 | 75 | [Karma Chameleon](https://open.spotify.com/track/4NH4xiPQ7TqNGqj6pZV4ki) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [The Best Of Culture Club](https://open.spotify.com/album/1gL7IEAcSnVOAoJnxq2MTG) | 4:02 |
-| 76 | [¿Qué Ves?](https://open.spotify.com/track/0aad6vDkOmu9d1aFNvOwYC) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [La Era De La Boludez](https://open.spotify.com/album/4D1aIzUYKG6jytRjgT0QIx) | 5:13 |
-| 77 | [Manuel Santillán, el León \(Versión Reggae\) \- Remasterizado 2008](https://open.spotify.com/track/41MfyUSxQoo1BgIsNj8eDS) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El León](https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H) | 3:57 |
+| 76 | [Manuel Santillán, el León \(Versión Reggae\) \- Remasterizado 2008](https://open.spotify.com/track/41MfyUSxQoo1BgIsNj8eDS) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El León](https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H) | 3:57 |
+| 77 | [¿Qué Ves?](https://open.spotify.com/track/0aad6vDkOmu9d1aFNvOwYC) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [La Era De La Boludez](https://open.spotify.com/album/4D1aIzUYKG6jytRjgT0QIx) | 5:13 |
 | 78 | [Tu Geografía](https://open.spotify.com/track/12uCHNPDQSDLMLVtz0zfEw) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Indios](https://open.spotify.com/album/0ZAv3N3wsMLcP1X8NWYRAW) | 2:38 |
 | 79 | [Al lado del camino](https://open.spotify.com/track/4Ft15s9T7pcG7O85VbdxVl) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Abre](https://open.spotify.com/album/4uOEHOabkf5hmv0ra14XJb) | 5:26 |
 | 80 | [Demoliendo Hoteles](https://open.spotify.com/track/29iIRrSuANyjnwag69PHOJ) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Piano Bar](https://open.spotify.com/album/17utekM9a95MchXbkbh47k) | 2:15 |

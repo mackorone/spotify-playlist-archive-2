@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqpDKK4ed9O.md) - [plain]
 
 > Tight Roll your jeans, break out the CK1, and set the mood...
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,697,487 likes - 75 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,697,662 likes - 75 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqpDKK4ed9O.md) - [plain]
 | 19 | [I Love You Always Forever](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2) | [Now in a Minute](https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL) | 3:59 |
 | 20 | [Always Be My Baby](https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:18 |
 | 21 | [My Heart Will Go On \- Love Theme from "Titanic"](https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Let's Talk About Love](https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs) | 4:40 |
-| 22 | [Baby, I Love Your Way](https://open.spotify.com/track/2le9fblYnfoLr9dkZIsJUa) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [Unity](https://open.spotify.com/album/079QiYtMEMsGPv0TNAWZPe) | 4:09 |
-| 23 | [I Knew I Loved You](https://open.spotify.com/track/6nozDLxeL0TE4MS9GqYU1v) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Affirmation](https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC) | 4:10 |
+| 22 | [I Knew I Loved You](https://open.spotify.com/track/6nozDLxeL0TE4MS9GqYU1v) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Affirmation](https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC) | 4:10 |
+| 23 | [Baby, I Love Your Way](https://open.spotify.com/track/2le9fblYnfoLr9dkZIsJUa) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [Unity](https://open.spotify.com/album/079QiYtMEMsGPv0TNAWZPe) | 4:09 |
 | 24 | [So Into You](https://open.spotify.com/track/3c6afiysmB7OnxQzzSqRfD) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Tamia](https://open.spotify.com/album/3PFEg7sWLEMuS3nyTIguEV) | 4:21 |
 | 25 | [All My Life](https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Love Always](https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu) | 5:31 |
 | 26 | [Sometimes](https://open.spotify.com/track/1UI0l2L66HJ9AtoEOlHzv4) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 4:05 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqpDKK4ed9O.md) - [plain]
 | 31 | [Dreaming Of You](https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 5:14 |
 | 32 | [When a Man Loves a Woman](https://open.spotify.com/track/3ascnOSOR5MX901ylGuhcl) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Time, Love & Tenderness](https://open.spotify.com/album/3tu5RTLzk7J2Oe30hspuPm) | 3:51 |
 | 33 | [Weak](https://open.spotify.com/track/71EHOyEOhNx1SzTebRRyng) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [It's About Time](https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK) | 4:51 |
-| 34 | [2 Become 1](https://open.spotify.com/track/36AWdhZIGLUTkWpJDhe7va) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 4:01 |
-| 35 | [As Long as You Love Me](https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 3:34 |
+| 34 | [As Long as You Love Me](https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 3:34 |
+| 35 | [2 Become 1](https://open.spotify.com/track/36AWdhZIGLUTkWpJDhe7va) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 4:01 |
 | 36 | [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 |
 | 37 | [I Don't Want to Wait](https://open.spotify.com/track/5MDQNJ7SZTytJwCbWKqJDL) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1) | [This Fire](https://open.spotify.com/album/5cUiPJUUMfNQr0ELSDGscs) | 5:20 |
 | 38 | [That's The Way Love Goes](https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 4:25 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqpDKK4ed9O.md) - [plain]
 | 68 | [I Want You to Want Me](https://open.spotify.com/track/3DcPLPvsZPcFcYfMPMfh4e) | [Letters To Cleo](https://open.spotify.com/artist/7E41j1yL9ZeTWfqe9bUGgw) | [When Did We Do That?](https://open.spotify.com/album/1c2pJwy1y3eSP2Nknt0rp8) | 3:26 |
 | 69 | [Boy You Knock Me Out](https://open.spotify.com/track/4sWg7HV5QWRlAupyS1KWCg) | [Tatyana Ali](https://open.spotify.com/artist/4ZYkqq2f8wA9vkV4iQIo4C) | [Kiss The Sky](https://open.spotify.com/album/2nJhrAmvHiaScCGBhZTkC1) | 4:10 |
 | 70 | [No Ordinary Love](https://open.spotify.com/track/42vYxMAWsFpBOS7hgAdzqW) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/6Y8lHGQqTmbE6Hhj1mMCkX) | 7:20 |
-| 71 | [Because You Loved Me](https://open.spotify.com/track/6hRcrByB9i6rYRiHNh170N) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling Into You](https://open.spotify.com/album/08aLDHdtfHxjtOmEHusqGC) | 4:33 |
-| 72 | [You're Still The One](https://open.spotify.com/track/7wCH9DbgRs7ujHeqNy6oAS) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/0vOj0JVKv2bobFBBUTjgQF) | 3:32 |
+| 71 | [You're Still The One](https://open.spotify.com/track/7wCH9DbgRs7ujHeqNy6oAS) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/0vOj0JVKv2bobFBBUTjgQF) | 3:32 |
+| 72 | [Because You Loved Me](https://open.spotify.com/track/6hRcrByB9i6rYRiHNh170N) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling Into You](https://open.spotify.com/album/08aLDHdtfHxjtOmEHusqGC) | 4:33 |
 | 73 | [End Of The Road](https://open.spotify.com/track/3ZxhEGcEmCuwyBzwqCa7oW) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Cooleyhighharmony \- Expanded Edition](https://open.spotify.com/album/0hizzarWYWhBfygpvfFOnt) | 5:49 |
 | 74 | [Back At One](https://open.spotify.com/track/0CjrIEPmqIKnBHy99hun3v) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Back At One](https://open.spotify.com/album/3QWvaUt6fJpYf9KqTPilPm) | 4:22 |
 | 75 | [I Do \(Cherish You\)](https://open.spotify.com/track/6BoueSxgJU2heOvYVDTBuk) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [98 Degrees And Rising](https://open.spotify.com/album/5QmzvShOSXdLds65q3jbxx) | 3:48 |

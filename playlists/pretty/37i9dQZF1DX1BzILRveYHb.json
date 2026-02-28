@@ -1,6 +1,6 @@
 {
   "description": "Easy listening pop that feels sunny wherever you are ",
-  "num_followers": 968852,
+  "num_followers": 969013,
   "original_name": "Sunny Day",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2025-06-25 03:01:58",
       "album": {
-        "name": "True Believers",
-        "url": "https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8"
-      },
-      "artists": [
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
-        }
-      ],
-      "duration_ms": 298373,
-      "name": "Wagon Wheel",
-      "url": "https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM"
-    },
-    {
-      "added_at": "2025-06-25 03:01:58",
-      "album": {
         "name": "Third Eye Blind",
         "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 268360,
       "name": "Semi-Charmed Life",
       "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
+    },
+    {
+      "added_at": "2025-06-25 03:01:58",
+      "album": {
+        "name": "True Believers",
+        "url": "https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 298373,
+      "name": "Wagon Wheel",
+      "url": "https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM"
     },
     {
       "added_at": "2025-06-25 03:01:58",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-06-25 03:01:58",
       "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
-    },
-    {
-      "added_at": "2025-06-25 03:01:58",
-      "album": {
         "name": "Never Too Much",
         "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 210226,
       "name": "I'm Alive",
       "url": "https://open.spotify.com/track/2FTZeRHQ4gRPViPMpWL9uX"
+    },
+    {
+      "added_at": "2025-06-25 03:01:58",
+      "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
     },
     {
       "added_at": "2025-06-25 03:01:58",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-06-25 03:01:58",
       "album": {
-        "name": "Gossip In The Grain",
-        "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "You Are the Best Thing",
-      "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
-    },
-    {
-      "added_at": "2025-06-25 03:01:58",
-      "album": {
         "name": "The Best of Big Mountain",
         "url": "https://open.spotify.com/album/4QHFXQLRwZx5122InHluo5"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 249520,
       "name": "Baby, I Love Your Way",
       "url": "https://open.spotify.com/track/1Rvl8qsKJurfFTyWLBI9ib"
+    },
+    {
+      "added_at": "2025-06-25 03:01:58",
+      "album": {
+        "name": "Gossip In The Grain",
+        "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "You Are the Best Thing",
+      "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
     },
     {
       "added_at": "2025-06-25 03:01:58",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2025-06-25 03:01:58",
       "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Semisonic",
+        "url": "https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L"
+      },
+      "artists": [
+        {
+          "name": "Semisonic",
+          "url": "https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0"
+        }
+      ],
+      "duration_ms": 274160,
+      "name": "Closing Time",
+      "url": "https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn"
+    },
+    {
+      "added_at": "2025-06-25 03:01:58",
+      "album": {
         "name": "Hell N Back (feat. Summer Walker)",
         "url": "https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 195147,
       "name": "Hell N Back (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC"
-    },
-    {
-      "added_at": "2025-06-25 03:01:58",
-      "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Semisonic",
-        "url": "https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L"
-      },
-      "artists": [
-        {
-          "name": "Semisonic",
-          "url": "https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0"
-        }
-      ],
-      "duration_ms": 274160,
-      "name": "Closing Time",
-      "url": "https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn"
     },
     {
       "added_at": "2025-06-25 03:01:58",

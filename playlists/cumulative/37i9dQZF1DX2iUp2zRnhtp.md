@@ -4,7 +4,7 @@
 
 > vi leker ikke hits!
 
-542 songs - 1 day 2 hr 58 min
+542 songs - 1 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,7 +394,7 @@
 | [Real To Me](https://open.spotify.com/track/5mThLXcmnbDgoudfO6HBNm) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Real To Me](https://open.spotify.com/album/5JhzejBKo3M8xRbKsdOjqD) | 3:10 | 2025-11-06 |  |
 | [Revolving door](https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:00 | 2025-02-20 | 2025-05-23 |
 | [Ring meg opp](https://open.spotify.com/track/6CNjrSMafnMTIDqklY7F99) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Ring meg opp](https://open.spotify.com/album/1FG8tvdPFJpv1ZA4vQu00P) | 2:12 | 2024-09-19 | 2024-10-04 |
-| [Rise](https://open.spotify.com/track/6YV3OKNbqBYrvUP8MvPXkL) | [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [Fairytales Too](https://open.spotify.com/album/2A7fTyuRKl2S9n0jJeBqWC) | 3:17 | 2026-01-22 |  |
+| [Rise](https://open.spotify.com/track/6YV3OKNbqBYrvUP8MvPXkL) | [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [Fairytales Too](https://open.spotify.com/album/2A7fTyuRKl2S9n0jJeBqWC) | 2:57 | 2026-01-22 |  |
 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 | 2024-06-27 | 2024-07-17 |
 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-06-27 | 2024-09-20 |
 | [Romeo](https://open.spotify.com/track/3YvFXuk2IuWW32zeOTV3Q9) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Romeo](https://open.spotify.com/album/257PqwE2yKKYxbLvqIkT3Y) | 3:04 | 2025-06-26 | 2025-09-19 |

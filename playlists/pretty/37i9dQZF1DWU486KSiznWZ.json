@@ -1,12 +1,12 @@
 {
   "description": "\u0646\u062e\u0628\u0629 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629. \u0627\u0644\u063a\u0644\u0627\u0641: \u0631\u0627\u0628\u062d \u0635\u0642\u0631 ",
-  "num_followers": 264883,
+  "num_followers": 264911,
   "original_name": "Hits \u062e\u0644\u064a\u062c\u064a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACdjlbYXTtX5RZUBE3hpT6h7N8/4",
+  "snapshot_id": "AAAAAJ3DAx/A0WA+elftMco9N0D1BWSO",
   "tracks": [
     {
       "added_at": "2025-10-15 11:51:20",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/3xdIuk8WVIX9xedX4TZMzB"
     },
     {
+      "added_at": "2026-02-27 20:30:39",
+      "album": {
+        "name": "\u062a\u062c\u0649 \u0646\u0639\u0634\u0642",
+        "url": "https://open.spotify.com/album/3mRBkLKqxSpPdk3suZVQP0"
+      },
+      "artists": [
+        {
+          "name": "Fahad Al Kubaisi",
+          "url": "https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ"
+        }
+      ],
+      "duration_ms": 314697,
+      "name": "\u062a\u062c\u0649 \u0646\u0639\u0634\u0642",
+      "url": "https://open.spotify.com/track/29305gTlSL5r2IRqaQpcTl"
+    },
+    {
       "added_at": "2026-02-16 08:38:35",
       "album": {
         "name": "Haflet Mkamleen Maakom 2021",
@@ -39,6 +55,22 @@
       "duration_ms": 513620,
       "name": "Ala Kathher Alqased",
       "url": "https://open.spotify.com/track/3w7kmEsYAoWdDin6YH8HDb"
+    },
+    {
+      "added_at": "2026-02-27 20:26:55",
+      "album": {
+        "name": "\u0627\u0644\u0642\u062f\u0631 \u062c\u0627\u0628\u0643",
+        "url": "https://open.spotify.com/album/5HUXikww10Pu3o6kPD09J2"
+      },
+      "artists": [
+        {
+          "name": "\u0628\u0646\u062f\u0631 \u0628\u0646 \u0639\u0648\u064a\u0631",
+          "url": "https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm"
+        }
+      ],
+      "duration_ms": 222266,
+      "name": "\u0627\u0644\u0642\u062f\u0631 \u062c\u0627\u0628\u0643",
+      "url": "https://open.spotify.com/track/600lrMpRgxotex7UnTYBpa"
     },
     {
       "added_at": "2025-08-08 12:05:13",
@@ -151,22 +183,6 @@
       "duration_ms": 284872,
       "name": "\u064a\u0627\u0631\u0648\u062d \u0627\u0644\u062f\u0627\u0631",
       "url": "https://open.spotify.com/track/5QgE9vKn1YDRyo8xCFxCux"
-    },
-    {
-      "added_at": "2025-11-25 10:31:49",
-      "album": {
-        "name": "Al Riyadh W Al Hilla",
-        "url": "https://open.spotify.com/album/1jcVfp86BLqrHSxUz57Qup"
-      },
-      "artists": [
-        {
-          "name": "Waleed Al Shami",
-          "url": "https://open.spotify.com/artist/05LLsyiJRSjBpe54u0jJRz"
-        }
-      ],
-      "duration_ms": 262060,
-      "name": "Al Riyadh W Al Hilla",
-      "url": "https://open.spotify.com/track/2TxRVkPLaXgdIH2uJhduqg"
     },
     {
       "added_at": "2025-11-06 07:31:53",
@@ -515,22 +531,6 @@
     {
       "added_at": "2025-08-08 12:05:13",
       "album": {
-        "name": "Al Enaq Al Akheer - Part 1",
-        "url": "https://open.spotify.com/album/4eUSh9XzAwRkfDfWdjUULm"
-      },
-      "artists": [
-        {
-          "name": "Ahlam",
-          "url": "https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd"
-        }
-      ],
-      "duration_ms": 239912,
-      "name": "Allah Yeheb Lah",
-      "url": "https://open.spotify.com/track/44jJEOR28Gt1y8xnTDEu4e"
-    },
-    {
-      "added_at": "2025-08-08 12:05:13",
-      "album": {
         "name": "Anazer Al Shobak",
         "url": "https://open.spotify.com/album/62v0FmhF6h77bAoQUBrMmP"
       },
@@ -649,20 +649,24 @@
       "url": "https://open.spotify.com/track/1V0IXSeAke4TvLjy1cNIdj"
     },
     {
-      "added_at": "2025-08-08 12:05:13",
+      "added_at": "2026-02-27 20:26:55",
       "album": {
-        "name": "Nadak Qalbi",
-        "url": "https://open.spotify.com/album/4PttyaHnJgijuo8VoryAuR"
+        "name": "\u0643\u0644\u0646\u0627 \u0623\u0647\u0644",
+        "url": "https://open.spotify.com/album/4w1bffN9okVI4io7HdWfqj"
       },
       "artists": [
         {
-          "name": "Eidha Al Menhali",
-          "url": "https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie"
+          "name": "Humood AlKhudher",
+          "url": "https://open.spotify.com/artist/0m5YepvtZWhXhNhAqrc50S"
+        },
+        {
+          "name": "Salah Al Zadjali",
+          "url": "https://open.spotify.com/artist/2zrCAcIqROY4WLtgtLzbwh"
         }
       ],
-      "duration_ms": 230025,
-      "name": "Nadak Qalbi",
-      "url": "https://open.spotify.com/track/18Jd5WsemYkxI5Ty3OekPK"
+      "duration_ms": 183984,
+      "name": "\u0643\u0644\u0646\u0627 \u0623\u0647\u0644",
+      "url": "https://open.spotify.com/track/2RSuZdL9sdYlaxAsfwXYRY"
     }
   ],
   "unique_name": "Hits \u062e\u0644\u064a\u062c\u064a",

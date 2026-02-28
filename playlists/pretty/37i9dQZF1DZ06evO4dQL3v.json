@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAAByGR3j1yXY2xjmv+lAbQF7",
+  "snapshot_id": "aZ+NAAAAAADANkr4Il9OsBouki7UWoaq",
   "tracks": [
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Polvo y Nada",
+        "url": "https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 187093,
+      "name": "Polvo y Nada",
+      "url": "https://open.spotify.com/track/3aDkC3fgwdwaPVnSc6gKpa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
         "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
       },
@@ -487,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Polvo y Nada",
-        "url": "https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 187093,
-      "name": "Polvo y Nada",
-      "url": "https://open.spotify.com/track/3aDkC3fgwdwaPVnSc6gKpa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rios de Babilonia",
         "url": "https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa"
       },
@@ -515,38 +515,6 @@
       "duration_ms": 147013,
       "name": "El Toro Zacatecano",
       "url": "https://open.spotify.com/track/59XFCPqQNINxQgpbEXPo5R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
-        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 164786,
-      "name": "Me Caiste del Cielo",
-      "url": "https://open.spotify.com/track/37hpeYKkr8P8QyMdLXVKiT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Funky Town Recordando los Exitos, Vol. 6",
-        "url": "https://open.spotify.com/album/3qv9mycLS6sXaEkrNVSkAy"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 199053,
-      "name": "Mi Destino Fue Quererte",
-      "url": "https://open.spotify.com/track/0o2cI28cAMXArePpVNg0te"
     },
     {
       "added_at": null,
@@ -567,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
+        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 164786,
+      "name": "Me Caiste del Cielo",
+      "url": "https://open.spotify.com/track/37hpeYKkr8P8QyMdLXVKiT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Exitos de Rigo Tovar Con Banda",
         "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 188426,
       "name": "Lamento de Amor",
       "url": "https://open.spotify.com/track/5ohsnDhQ6NmFmkcvv90Gdc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Funky Town Recordando los Exitos, Vol. 6",
+        "url": "https://open.spotify.com/album/3qv9mycLS6sXaEkrNVSkAy"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 199053,
+      "name": "Mi Destino Fue Quererte",
+      "url": "https://open.spotify.com/track/0o2cI28cAMXArePpVNg0te"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestra Historia, Vol. 1",
-        "url": "https://open.spotify.com/album/05iVJ4OpprJwMYu87M9Urj"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 171226,
-      "name": "Vive",
-      "url": "https://open.spotify.com/track/37fVsR6sy1BTqsJCVjH27u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Exitos de Rigo Tovar Con Banda",
         "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
       },
@@ -655,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Estilo Tierra Caliente",
-        "url": "https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb"
+        "name": "Nuestra Historia, Vol. 1",
+        "url": "https://open.spotify.com/album/05iVJ4OpprJwMYu87M9Urj"
       },
       "artists": [
         {
@@ -664,9 +648,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 186346,
-      "name": "Con el Sabor Amargo - Estilo Tierra Caliente",
-      "url": "https://open.spotify.com/track/4HpWofvK0r3meE1KwDSjaS"
+      "duration_ms": 171226,
+      "name": "Vive",
+      "url": "https://open.spotify.com/track/37fVsR6sy1BTqsJCVjH27u"
     },
     {
       "added_at": null,
@@ -687,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestra Historia, Vol. 1",
-        "url": "https://open.spotify.com/album/05iVJ4OpprJwMYu87M9Urj"
+        "name": "Al Estilo Tierra Caliente",
+        "url": "https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb"
       },
       "artists": [
         {
@@ -696,9 +680,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 176213,
-      "name": "Busca Tu Hueco",
-      "url": "https://open.spotify.com/track/7LS20bI2PZMUiuJlj5LZSp"
+      "duration_ms": 186346,
+      "name": "Con el Sabor Amargo - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/4HpWofvK0r3meE1KwDSjaS"
     },
     {
       "added_at": null,
@@ -715,6 +699,22 @@
       "duration_ms": 195946,
       "name": "Me Rio de Miedo",
       "url": "https://open.spotify.com/track/2JdFjw7IlF2WmKuPmwuRfw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nuestra Historia, Vol. 1",
+        "url": "https://open.spotify.com/album/05iVJ4OpprJwMYu87M9Urj"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 176213,
+      "name": "Busca Tu Hueco",
+      "url": "https://open.spotify.com/track/7LS20bI2PZMUiuJlj5LZSp"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Polvo y Nada",
+        "url": "https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 240066,
+      "name": "A Mi Manera",
+      "url": "https://open.spotify.com/track/1SM0H4zl7s296mWdL0OYDY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cantando a Mexico",
         "url": "https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 195760,
       "name": "La Tiznada",
       "url": "https://open.spotify.com/track/5lORVjqvmOmgsd3MvplIW2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Al Estilo Tierra Caliente",
-        "url": "https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "Carta Perdida - Estilo Tierra Caliente",
-      "url": "https://open.spotify.com/track/5phrg6rNHnHRBDSK22718k"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Polvo y Nada",
-        "url": "https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE"
+        "name": "Al Estilo Tierra Caliente",
+        "url": "https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 240066,
-      "name": "A Mi Manera",
-      "url": "https://open.spotify.com/track/1SM0H4zl7s296mWdL0OYDY"
+      "duration_ms": 197066,
+      "name": "Carta Perdida - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/5phrg6rNHnHRBDSK22718k"
     },
     {
       "added_at": null,

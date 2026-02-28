@@ -1,13 +1,45 @@
 {
   "description": "A <a href=\"http://www.digster.fm/decades\">classic playlist</a> with the best hits of the 90s featuring No Doubt, Nirvana, and more.",
-  "num_followers": 144764,
+  "num_followers": 144754,
   "original_name": "90s",
   "owner": {
     "name": "uDiscover Playlists",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "AAAFHi8JZcJOAmsaEE521SJj9tjFvg+a",
+  "snapshot_id": "AAAFIup7QRVmWCSwUHt0Njm9GOa2pjdb",
   "tracks": [
+    {
+      "added_at": "2026-02-28 01:42:32",
+      "album": {
+        "name": "So Tonight That I Might See",
+        "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
+      },
+      "artists": [
+        {
+          "name": "Mazzy Star",
+          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
+        }
+      ],
+      "duration_ms": 295600,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
+    },
+    {
+      "added_at": "2026-02-28 01:44:05",
+      "album": {
+        "name": "Different Class",
+        "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "duration_ms": 351626,
+      "name": "Common People - Full Length Version",
+      "url": "https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF"
+    },
     {
       "added_at": "2025-07-25 20:11:39",
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The soulful tunes to ease you into your day. Cover: Baby Rose & Leon Thomas",
+  "description": "The soulful tunes to ease you into your day. Cover: Bruno Mars",
   "name": "Soul Coffee",
   "tracks": [
     {
@@ -2937,7 +2937,7 @@
       "artists": [
         {
           "name": "Ezra",
-          "url": "https://open.spotify.com/artist/0IpxUOafBaV2PPkm3b4E60"
+          "url": "https://open.spotify.com/artist/3JV7Jk651HCj2ohc0s0pKN"
         },
         {
           "name": "ZaeFyeHunnit",
@@ -5593,6 +5593,24 @@
     },
     {
       "album": {
+        "name": "glass houses",
+        "url": "https://open.spotify.com/album/3TIJ3hwZDt7prLRJ9z5Y83"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129232,
+      "name": "glass houses",
+      "url": "https://open.spotify.com/track/5g8zn3LMQ5wr9I2Cb2VDub"
+    },
+    {
+      "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/3t3J2sT9CL9iJGuBTfReFO"
       },
@@ -6832,6 +6850,24 @@
       "duration_ms": 136800,
       "name": "Holy Father",
       "url": "https://open.spotify.com/track/33w29FnS86hDdKZrDN3Cmc"
+    },
+    {
+      "album": {
+        "name": "Honour / I Want In",
+        "url": "https://open.spotify.com/album/4YryyvA3CCq7uNESscvIli"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250152,
+      "name": "Honour",
+      "url": "https://open.spotify.com/track/6slVYLrJprL3ayBNhSgd5r"
     },
     {
       "album": {
@@ -8822,7 +8858,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 217304,
       "name": "Light Work",
       "url": "https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1"
@@ -16738,7 +16774,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 225613,
       "name": "Twisting (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/5oHIdbNS7o1oi8dm26opsj"
@@ -16880,7 +16916,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 206681,
       "name": "Under The Moon",
       "url": "https://open.spotify.com/track/7ey9jmePIXngNcEZ0p7fqk"
@@ -17948,6 +17984,24 @@
       "duration_ms": 189333,
       "name": "WHY - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5x3gFHgM66ZB8nNPzGNIFt"
+    },
+    {
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254360,
+      "name": "Why You Wanna Fight?",
+      "url": "https://open.spotify.com/track/3Ac4AjYkqsvop2ydbSAhTX"
     },
     {
       "album": {

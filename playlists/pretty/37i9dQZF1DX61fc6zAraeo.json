@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 106976,
+  "num_followers": 106990,
   "original_name": "Dance Workout",
   "owner": {
     "name": "Spotify",
@@ -267,42 +267,6 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "Dreamin (feat. Daya)",
-        "url": "https://open.spotify.com/album/5qzM79iDx3eeLKgGi2pdgN"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 171526,
-      "name": "Dreamin (feat. Daya)",
-      "url": "https://open.spotify.com/track/6e2uvfP3pRdxsQLFSnbJPO"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/2lJVqcgwxrIvgV4BSiJ2Ww"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 204285,
-      "name": "Arrival",
-      "url": "https://open.spotify.com/track/0hSuV2otL5a1tl8pByCiAt"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
         "name": "Friday, I\u2019m In Luv (feat. bbyclose)",
         "url": "https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae"
       },
@@ -323,6 +287,42 @@
       "duration_ms": 145777,
       "name": "Friday, I\u2019m In Luv (feat. bbyclose)",
       "url": "https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/2lJVqcgwxrIvgV4BSiJ2Ww"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 204285,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/0hSuV2otL5a1tl8pByCiAt"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
+        "name": "Dreamin (feat. Daya)",
+        "url": "https://open.spotify.com/album/5qzM79iDx3eeLKgGi2pdgN"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 171526,
+      "name": "Dreamin (feat. Daya)",
+      "url": "https://open.spotify.com/track/6e2uvfP3pRdxsQLFSnbJPO"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -387,30 +387,6 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "Focus (feat. CLOVES) [Alok Remix]",
-        "url": "https://open.spotify.com/album/71YUx35MIG4R7DUAAxCVfF"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "CLOVES",
-          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 207761,
-      "name": "Focus (feat. CLOVES) - Alok Remix",
-      "url": "https://open.spotify.com/track/2DOUbOh1k3n9Ek6Eur61K4"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
         "name": "Seek Love (On The Beach) (feat. Amanda Wilson & York)",
         "url": "https://open.spotify.com/album/2Ml22QFYxVvnnz7Me8i21O"
       },
@@ -439,6 +415,30 @@
       "duration_ms": 150869,
       "name": "Seek Love (On The Beach)",
       "url": "https://open.spotify.com/track/0vhxITfBNsA3nBPbu7lRhP"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
+        "name": "Focus (feat. CLOVES) [Alok Remix]",
+        "url": "https://open.spotify.com/album/71YUx35MIG4R7DUAAxCVfF"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "CLOVES",
+          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 207761,
+      "name": "Focus (feat. CLOVES) - Alok Remix",
+      "url": "https://open.spotify.com/track/2DOUbOh1k3n9Ek6Eur61K4"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -723,6 +723,26 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
+        "name": "Careful What You Wish For (feat. Alida)",
+        "url": "https://open.spotify.com/album/5AyE7tjRTu5Qgzupx5UYMb"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+        }
+      ],
+      "duration_ms": 176264,
+      "name": "Careful What You Wish For (feat. Alida)",
+      "url": "https://open.spotify.com/track/6F5CRnO0SbW5FxAyRB6Vp0"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
         "name": "Rest Of My Life",
         "url": "https://open.spotify.com/album/7zeA4kJCW5R6Qef90r2zQM"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 205810,
       "name": "Rest Of My Life",
       "url": "https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
-        "name": "Careful What You Wish For (feat. Alida)",
-        "url": "https://open.spotify.com/album/5AyE7tjRTu5Qgzupx5UYMb"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Alida",
-          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
-        }
-      ],
-      "duration_ms": 176264,
-      "name": "Careful What You Wish For (feat. Alida)",
-      "url": "https://open.spotify.com/track/6F5CRnO0SbW5FxAyRB6Vp0"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "Oldskool Sound",
-        "url": "https://open.spotify.com/album/3KYWio1C7RF0lNDR1IRGdx"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        }
-      ],
-      "duration_ms": 216363,
-      "name": "Oldskool Sound",
-      "url": "https://open.spotify.com/track/5ksP9EBpgskbG5XpvBDodL"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
         "name": "Conquest Of Paradise",
         "url": "https://open.spotify.com/album/3cy8W1Kniru3DpXkutsGlN"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 136551,
       "name": "Conquest Of Paradise",
       "url": "https://open.spotify.com/track/758KOSCLXKIf6BqMXe12pN"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
+        "name": "Oldskool Sound",
+        "url": "https://open.spotify.com/album/3KYWio1C7RF0lNDR1IRGdx"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        }
+      ],
+      "duration_ms": 216363,
+      "name": "Oldskool Sound",
+      "url": "https://open.spotify.com/track/5ksP9EBpgskbG5XpvBDodL"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "Dance Alone",
-        "url": "https://open.spotify.com/album/7nGM3tRAjPEMjDaLhL5Ys4"
-      },
-      "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        },
-        {
-          "name": "The Victor",
-          "url": "https://open.spotify.com/artist/6Hvq9w688rwXhVoAKZk5wk"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "Dance Alone",
-      "url": "https://open.spotify.com/track/5G8pdZq3HL2sEVi5yGsq0Z"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
         "name": "Rapture (with Robert Falcon)",
         "url": "https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 187285,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
+        "name": "Dance Alone",
+        "url": "https://open.spotify.com/album/7nGM3tRAjPEMjDaLhL5Ys4"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "name": "The Victor",
+          "url": "https://open.spotify.com/artist/6Hvq9w688rwXhVoAKZk5wk"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "Dance Alone",
+      "url": "https://open.spotify.com/track/5G8pdZq3HL2sEVi5yGsq0Z"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "Cumbia Buena",
-        "url": "https://open.spotify.com/album/59VYHr4qf3xQbc8giaxAoM"
-      },
-      "artists": [
-        {
-          "name": "J\u00d8RD",
-          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
-        },
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        }
-      ],
-      "duration_ms": 149760,
-      "name": "Cumbia Buena",
-      "url": "https://open.spotify.com/track/2i6VTVzBnl3mMKnLi8hDEB"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
         "name": "Lost My Way",
         "url": "https://open.spotify.com/album/3jqAZ70Mmyq8arzZnSBiBX"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 142700,
       "name": "Lost My Way",
       "url": "https://open.spotify.com/track/5jPFtwxkrKbpsqFgVE1czX"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
+        "name": "Cumbia Buena",
+        "url": "https://open.spotify.com/album/59VYHr4qf3xQbc8giaxAoM"
+      },
+      "artists": [
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        }
+      ],
+      "duration_ms": 149760,
+      "name": "Cumbia Buena",
+      "url": "https://open.spotify.com/track/2i6VTVzBnl3mMKnLi8hDEB"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/4UTHlrVzquErmNkkVfI1MM"
-      },
-      "artists": [
-        {
-          "name": "Ferry Corsten",
-          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
-        },
-        {
-          "name": "SUPERSTRINGS",
-          "url": "https://open.spotify.com/artist/0WDwBVGmUjf7eJUKDpecYz"
-        }
-      ],
-      "duration_ms": 219611,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/2Hnr9PJk0eHCIupm3o198W"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
         "name": "When You're Lonely",
         "url": "https://open.spotify.com/album/1kfbRsla1nsTki4JVunQFW"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 159103,
       "name": "When You're Lonely",
       "url": "https://open.spotify.com/track/0kknXqNaOqZt0DqPkpE3fc"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/4UTHlrVzquErmNkkVfI1MM"
+      },
+      "artists": [
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        },
+        {
+          "name": "SUPERSTRINGS",
+          "url": "https://open.spotify.com/artist/0WDwBVGmUjf7eJUKDpecYz"
+        }
+      ],
+      "duration_ms": 219611,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/2Hnr9PJk0eHCIupm3o198W"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1763,26 +1763,6 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "Chemistry",
-        "url": "https://open.spotify.com/album/6xlkTPHi1ANWAlKBsFXxaa"
-      },
-      "artists": [
-        {
-          "name": "Alex Mills",
-          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
-        },
-        {
-          "name": "Guz",
-          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
-        }
-      ],
-      "duration_ms": 151904,
-      "name": "Chemistry",
-      "url": "https://open.spotify.com/track/56Boy642GbI4FKJYmkCqVZ"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
         "name": "PEGASUS",
         "url": "https://open.spotify.com/album/0mA286b0mXmbRDSxy2W7P1"
       },
@@ -1799,6 +1779,26 @@
       "duration_ms": 180462,
       "name": "Pegasus",
       "url": "https://open.spotify.com/track/3m32ApgNXyT8qmON7oSK9U"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/6xlkTPHi1ANWAlKBsFXxaa"
+      },
+      "artists": [
+        {
+          "name": "Alex Mills",
+          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
+        },
+        {
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+        }
+      ],
+      "duration_ms": 151904,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/56Boy642GbI4FKJYmkCqVZ"
     },
     {
       "added_at": "2025-10-30 23:00:21",

@@ -4,7 +4,7 @@
 
 > a serotonin forward glow
 
-746 songs - 1 day 16 hr 40 min
+747 songs - 1 day 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [DJ](https://open.spotify.com/track/5UzMBhyklGE8ORRmhhNOBD) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [DJ](https://open.spotify.com/album/6JPC4BxmhOmvzjFOgAvgIZ) | 2:00 | 2025-04-04 | 2025-04-11 |
 | [Do You Realize??](https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Yoshimi Battles the Pink Robots](https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf) | 3:33 | 2022-03-28 | 2022-04-21 |
 | [Do You Still Love Me?](https://open.spotify.com/track/5PRCnfIDg78qwrKurswTYg) | [Obed Padilla](https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl) | [Do You Still Love Me?](https://open.spotify.com/album/7wAcNzhHHd0geiHr0vLYej) | 2:39 | 2025-08-08 | 2025-08-30 |
-| [Doing It Too](https://open.spotify.com/track/0EjSsH1ndy3t5JYiq4vI4K) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:26 | 2025-10-24 |  |
+| [Doing It Too](https://open.spotify.com/track/0EjSsH1ndy3t5JYiq4vI4K) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:26 | 2025-10-24 | 2026-02-28 |
 | [Dollar](https://open.spotify.com/track/0z4zZNViQ01puQOlAFGGUy) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [KIN](https://open.spotify.com/album/5yccZqBhhSqWndfKVjNZQY) | 3:28 | 2021-12-29 | 2022-04-15 |
 | [Don't Lose Sight](https://open.spotify.com/track/5PEIORAOmwjDV7OYzxHsvd) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Hotel TV](https://open.spotify.com/album/1U3ORbSHYUQLGYBzyEveMZ) | 3:28 | 2022-04-29 | 2022-05-08 |
 | [Don't Mind](https://open.spotify.com/track/2kSlrSnErfPwviKC9eTw6P) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Don't Mind](https://open.spotify.com/album/2MJJxvYWMhzirNvLIv6c4y) | 3:22 | 2023-09-29 | 2023-10-06 |
@@ -380,6 +380,7 @@
 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 | 2022-03-25 | 2024-06-29 |
 | [Kilby Girl](https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:42 | 2021-12-29 |  |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-12-29 | 2023-06-01 |
+| [KISSBURN](https://open.spotify.com/track/06PLaIZyj917CnrwaJ3USU) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [KISSBURN](https://open.spotify.com/album/5Q7FMsEUK0Cc35gxZqZDaT) | 3:12 | 2026-02-27 |  |
 | [L.O.V.E.](https://open.spotify.com/track/5qwr6y7se6RKHijm7FXnUe) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [L.O.V.E.](https://open.spotify.com/album/2XGWlzeYSdqAyyq2dJqZ8L) | 3:56 | 2025-02-14 | 2025-02-26 |
 | [L.U.C.K.Y](https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [L.U.C.K.Y](https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0) | 2:18 | 2026-01-16 | 2026-02-14 |
 | [landline](https://open.spotify.com/track/7J2SaxOOWpKsXgCjlQQ7o0) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [landline](https://open.spotify.com/album/5eRHo1TtNV7v3M8X5hJ5Op) | 3:03 | 2022-05-13 | 2022-07-29 |

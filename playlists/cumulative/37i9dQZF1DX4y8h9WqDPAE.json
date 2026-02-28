@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where R&B/Soul meets Hip-Hop, Pop, Afrobeats and everything in between !  Cover: Brent Faiyaz",
+  "description": "Where R&B/Soul meets Hip-Hop, Pop, Afrobeats and everything in between !  Cover: Phabo",
   "name": "Channel-X",
   "tracks": [
     {
@@ -8695,6 +8695,24 @@
     },
     {
       "album": {
+        "name": "My Ego Told Me To",
+        "url": "https://open.spotify.com/album/18suCTva38Pf3wLBR0fLI2"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204001,
+      "name": "Goodbye Goodmorning",
+      "url": "https://open.spotify.com/track/3tT0G35LmYq159xYGCBGSU"
+    },
+    {
+      "album": {
         "name": "Goodbyes (Myrrh)",
         "url": "https://open.spotify.com/album/5NCOoYKQ1R5VOG4I9yX1tD"
       },
@@ -12322,7 +12340,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 217636,
       "name": "London Summers",
       "url": "https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn"
@@ -17999,6 +18017,24 @@
     },
     {
       "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204068,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
+    },
+    {
+      "album": {
         "name": "Risk Taker",
         "url": "https://open.spotify.com/album/0eX3oKIfRjTb0gjAOysT0E"
       },
@@ -21166,7 +21202,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 162483,
       "name": "Sweet Gurl",
       "url": "https://open.spotify.com/track/2ypJczNpROoMFYTN5vcv9g"
@@ -24811,6 +24847,24 @@
     },
     {
       "album": {
+        "name": "Worth My Time",
+        "url": "https://open.spotify.com/album/0qPt6rq8A5jhy6dYJfhTjx"
+      },
+      "artists": [
+        {
+          "name": "Dreezy",
+          "url": "https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200347,
+      "name": "Worth My Time",
+      "url": "https://open.spotify.com/track/1xxRHYyJBPa86QSa3LpxBW"
+    },
+    {
+      "album": {
         "name": "PALMWINE DIARIES VOL.1",
         "url": "https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N"
       },
@@ -25260,7 +25314,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 232804,
       "name": "Young Rich & In Love - KAYTRANADA Remix",
       "url": "https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ"

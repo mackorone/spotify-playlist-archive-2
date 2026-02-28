@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 
 > Grab your leg warmers and spandex: let's get physical!
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,785 likes - 80 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,899 likes - 80 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 | 44 | [She Works Hard For The Money](https://open.spotify.com/track/3FlOciKDqFlTMPeC7t92Qy) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [She Works Hard For The Money](https://open.spotify.com/album/0x3qYJCMrhJPgi7hTqxEl2) | 5:20 |
 | 45 | [I'm So Excited](https://open.spotify.com/track/2u8MGAiS2hBVE7GZzTZLQI) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Best Of](https://open.spotify.com/album/4ZcnXch8ZI9zlizDVTea1X) | 3:49 |
 | 46 | [Sunglasses At Night](https://open.spotify.com/track/1QbQL5m30YNvukitIqAnFG) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [The Singles](https://open.spotify.com/album/5BDE3Z6clvwbPoWWwiSyGp) | 5:20 |
-| 47 | [Stomp! \- Single Version](https://open.spotify.com/track/3EG65y2LtxWjfydabHdItb) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Strawberry Letter 23: The Very Best Of The Brothers Johnson](https://open.spotify.com/album/4DUmxqvkQn3UJgDLjlYsyX) | 4:07 |
-| 48 | [Love Is A Battlefield](https://open.spotify.com/track/41CoPVBGQyaO9edYV2BKnp) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [The Very Best Of Pat Benatar](https://open.spotify.com/album/4nMJ8gow0SfX2rfWzDfrE9) | 4:04 |
+| 47 | [Love Is A Battlefield](https://open.spotify.com/track/41CoPVBGQyaO9edYV2BKnp) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [The Very Best Of Pat Benatar](https://open.spotify.com/album/4nMJ8gow0SfX2rfWzDfrE9) | 4:04 |
+| 48 | [Stomp! \- Single Version](https://open.spotify.com/track/3EG65y2LtxWjfydabHdItb) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Strawberry Letter 23: The Very Best Of The Brothers Johnson](https://open.spotify.com/album/4DUmxqvkQn3UJgDLjlYsyX) | 4:07 |
 | 49 | [Big in Japan \- 2019 Remaster](https://open.spotify.com/track/7wnagOAqma4Sg6JOGjWr5R) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Forever Young \(Super Deluxe Edition; 2019 Remaster\)](https://open.spotify.com/album/1BAmE3bdBnxej0umzyHQ5x) | 4:44 |
 | 50 | [It's Raining Men](https://open.spotify.com/track/5TgD3Wh5ZUZnUU4tmVvJbx) | [The Weather Girls](https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH) | [80s 100 Hits](https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF) | 3:32 |
 | 51 | [You Dropped A Bomb On Me](https://open.spotify.com/track/1VKPiQJnV15flF5B3zeocD) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The Gap Band IV](https://open.spotify.com/album/3pJ0uie1bu662cOCCu5cfG) | 5:12 |
@@ -63,11 +63,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 | 53 | [Our Lips Are Sealed \- Single Version](https://open.spotify.com/track/1GVnAD8Iz45rux6EC657Yv) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Beauty And The Beat](https://open.spotify.com/album/1L4HE00En7eNK74voVZums) | 2:47 |
 | 54 | [Higher Love \- Single Version](https://open.spotify.com/track/17Ng10tIgnYmAitl0SgT3R) | [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | ['80s Pop \#1's](https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY) | 4:12 |
 | 55 | [All Night Long \(All Night\) \- Single Version](https://open.spotify.com/track/2Wb9ejnmy27DUTUe9YF5Ew) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [The Definitive Collection](https://open.spotify.com/album/1W1b52vaEcE3wfWk4WQH6q) | 4:20 |
-| 56 | [Jump \(For My Love\)](https://open.spotify.com/track/3L9ClO1W5KmebIXTrlKShF) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Break Out](https://open.spotify.com/album/0Kmw2yUjTfdaN1son7GTp5) | 4:27 |
-| 57 | [I Want A New Drug](https://open.spotify.com/track/0mZNKyrUmsrlDRoYHWsyMu) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Greatest Hits: Huey Lewis And The News](https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj) | 3:31 |
+| 56 | [I Want A New Drug](https://open.spotify.com/track/0mZNKyrUmsrlDRoYHWsyMu) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Greatest Hits: Huey Lewis And The News](https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj) | 3:31 |
+| 57 | [Jump \(For My Love\)](https://open.spotify.com/track/3L9ClO1W5KmebIXTrlKShF) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Break Out](https://open.spotify.com/album/0Kmw2yUjTfdaN1son7GTp5) | 4:27 |
 | 58 | [Ghostbusters \- from the "Ghostbusters" Original Motion Picture Soundtrack](https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Arista Heritage Series: Ray Parker](https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg) | 4:00 |
-| 59 | [When I Think Of You](https://open.spotify.com/track/3mJ6pNcFM2CkykCYSREdKT) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Control](https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y) | 3:55 |
-| 60 | [Rapture](https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 4:59 |
+| 59 | [Rapture](https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 4:59 |
+| 60 | [When I Think Of You](https://open.spotify.com/track/3mJ6pNcFM2CkykCYSREdKT) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Control](https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y) | 3:55 |
 | 61 | [Loco in Acapulco](https://open.spotify.com/track/7gfAYm7X5HMSuKcO4dy8Wi) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Indestructible](https://open.spotify.com/album/1pbPkhuest1I4RGpz3rWmC) | 4:34 |
 | 62 | [Let's Hear It for the Boy \- From "Footloose" Soundtrack](https://open.spotify.com/track/5kaF88lat4fWUiDXP6G48M) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Footloose \(15th Anniversary Collectors' Edition\)](https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC) | 4:21 |
 | 63 | [Let It Whip](https://open.spotify.com/track/3h5IJ0EzVpkiaoL174GC3M) | [Dazz Band](https://open.spotify.com/artist/4n7L1vYXp4Dt0HfxaLBj9l) | [20th Century Masters: The Millennium Collection: Best Of The Dazz Band](https://open.spotify.com/album/3wT0A6ZVGve1QkFKQrafJG) | 4:47 |

@@ -281,6 +281,24 @@
     },
     {
       "album": {
+        "name": "Avond voor in de Boeken",
+        "url": "https://open.spotify.com/album/6EeWtkYsrjKAq2FkZ0OHPQ"
+      },
+      "artists": [
+        {
+          "name": "Fons Veurink",
+          "url": "https://open.spotify.com/artist/3rBMW23ztdIPx3poh9Z0G0"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175950,
+      "name": "Avond voor in de Boeken",
+      "url": "https://open.spotify.com/track/6ppgRsjpZzpJGGhzbQsTP9"
+    },
+    {
+      "album": {
         "name": "Ushuaia",
         "url": "https://open.spotify.com/album/6n0thGb2uDy1vXgOmFScPB"
       },
@@ -668,7 +686,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 156824,
       "name": "Dansen Met Een Engel",
       "url": "https://open.spotify.com/track/55bhfVPAdefPI7ZoJTVCTN"
@@ -1404,7 +1422,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 178364,
       "name": "iK bEpAaL",
       "url": "https://open.spotify.com/track/6lmi0bh5sDtotBrxnFisI9"
@@ -2290,6 +2308,28 @@
       "duration_ms": 135023,
       "name": "Tijdmachine",
       "url": "https://open.spotify.com/track/3DMcsloRh5Rbf0oMBeMOhY"
+    },
+    {
+      "album": {
+        "name": "Uitslover",
+        "url": "https://open.spotify.com/album/6YDru2ioziRTAmmZ4iDZS6"
+      },
+      "artists": [
+        {
+          "name": "Samuel Welten",
+          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
+        },
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155998,
+      "name": "Uitslover",
+      "url": "https://open.spotify.com/track/3HUpSJBn9COpunhZJczbQw"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The biggest Country hits of the year! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Owen Riegling
 
-414 songs - 22 hr 34 min
+415 songs - 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Liberty](https://open.spotify.com/track/6kdQP6EkZOYXdNfWVTdxej) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Liberty](https://open.spotify.com/album/2b75pVd42QFzXe1OqMV1oR) | 3:09 | 2024-11-01 | 2025-02-15 |
 | [Lies Lies Lies](https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Lies Lies Lies](https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc) | 3:18 | 2024-07-06 | 2025-02-01 |
 | [Life Lessons](https://open.spotify.com/track/0VFwBPIBEuveQTxrm5OerM) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Life Lessons](https://open.spotify.com/album/7pvSshGK1UHAQEQAC1o7yv) | 3:15 | 2023-11-17 | 2024-04-20 |
+| [Like God Intended](https://open.spotify.com/track/1dPKGWxMILRedoNtjUa8mh) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Like God Intended](https://open.spotify.com/album/3M5QPvH82Rj2aMxe5dlvp1) | 2:56 | 2026-02-27 |  |
 | [Like I Do](https://open.spotify.com/track/0ZdgcsHdbdf0v7uN8WtFvF) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Like I Do](https://open.spotify.com/album/4ei995hyozcTYXDvY2VrE9) | 4:17 | 2025-03-14 | 2025-05-10 |
 | [Little Town](https://open.spotify.com/track/0zRNqoIds1nAIwPSfPtxEJ) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Little Town](https://open.spotify.com/album/4IKUrL7x7eWgxgAKhjnv2N) | 3:38 | 2024-10-11 | 2025-01-11 |
 | [Livin' In A Country Song](https://open.spotify.com/track/7hmHPH6BAIsTAm71DBE48T) | [Five Roses](https://open.spotify.com/artist/6MN4Gf274aRJNoPjj0GTok) | [Jukebox Vibrations \(Deluxe Edition\)](https://open.spotify.com/album/2faBQuz5qcPsTfvqEex34o) | 3:07 | 2023-11-03 | 2024-01-13 |

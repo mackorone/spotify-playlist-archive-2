@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,829,202 likes - 40 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,829,133 likes - 40 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 | 21 | [Palayo Sa Mundo](https://open.spotify.com/track/4FVZYiCvdLIX8NpcY0lzda) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Palayo Sa Mundo](https://open.spotify.com/album/7qVzxGZdXhtNHai0fGB9uj) | 4:28 |
 | 22 | [sining \(feat\. Jay R\)](https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [sining \(feat\. Jay R\)](https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m) | 3:20 |
 | 23 | [Ikaw Lang Patutunguhan](https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Ikaw Lang Patutunguhan](https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG) | 5:26 |
-| 24 | [Hindi Ako Mawawala](https://open.spotify.com/track/7kP8dbiMKm83kOAmy1GcuQ) | [El Manu](https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0) | [Hindi Ako Mawawala](https://open.spotify.com/album/3Xs46eH5aOqsGPdCYalWOS) | 4:43 |
-| 25 | [Leonora](https://open.spotify.com/track/1K0rybxoxW5svDYwXezXyN) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Leonora](https://open.spotify.com/album/3jJ8JEOq8xL9DWum9cMpIq) | 3:54 |
+| 24 | [Leonora](https://open.spotify.com/track/1K0rybxoxW5svDYwXezXyN) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Leonora](https://open.spotify.com/album/3jJ8JEOq8xL9DWum9cMpIq) | 3:54 |
+| 25 | [Hindi Ako Mawawala](https://open.spotify.com/track/7kP8dbiMKm83kOAmy1GcuQ) | [El Manu](https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0) | [Hindi Ako Mawawala](https://open.spotify.com/album/3Xs46eH5aOqsGPdCYalWOS) | 4:43 |
 | 26 | [Wala Na Bang Pag\-ibig](https://open.spotify.com/track/6D0jXlvOC2llxT2xEEGQBh) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [RD Covers \(Live\)](https://open.spotify.com/album/0RGrPvTkxQV7x5gX6FNrpT) | 4:36 |
 | 27 | [Sagip](https://open.spotify.com/track/0hC02vQEEYV2T3MHkbcNSY) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge) | [Sagip](https://open.spotify.com/album/1awEJdrevX9kTQDbG7ATmO) | 3:52 |
 | 28 | [Misteryoso](https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Misteryoso](https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a) | 3:41 |

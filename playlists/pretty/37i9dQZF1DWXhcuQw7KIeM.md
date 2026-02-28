@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 
 > From the very deep spirit of the almighty North.
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,875 likes - 75 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,960 likes - 75 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 28 | [Seolfren Sicol](https://open.spotify.com/track/5UCxeHvxT1ozBs9q7xzKwy) | [Sowulo](https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR) | [Seolfren Sicol](https://open.spotify.com/album/4zrcdFU9pFSN6Pg9hy825H) | 3:42 |
 | 29 | [Äiti Varjo](https://open.spotify.com/track/4bNvxOrJbtB59wZ6KCpbJA) | [Kallomäki](https://open.spotify.com/artist/0KYKgrKx6gPLODjybxJpn9) | [Äiti Varjo](https://open.spotify.com/album/6NhNoFTwVOVve3x9rDn9sy) | 4:09 |
 | 30 | [Meri](https://open.spotify.com/track/73ToXpajvWBjFlGg0ND3pE) | [Ínkar](https://open.spotify.com/artist/3mdSsyIBntdGgvdbCf2Ebh) | [Meri](https://open.spotify.com/album/4Tt4jvL29pPmIeTvYy5d6B) | 3:33 |
-| 31 | [Norðrljós](https://open.spotify.com/track/0Sjps7HTP1MUPUXqBMXTt0) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [Norðrljós](https://open.spotify.com/album/4UC8HNvhmz0b0ZspOcbmCa) | 3:20 |
-| 32 | [L'appel Du Vide](https://open.spotify.com/track/2VUxvWxmUJXp2neuoOq1zx) | [Sylvaine](https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe) | [Atoms Aligned, Coming Undone](https://open.spotify.com/album/6UWmG28sc4akOQcOEQGJ1e) | 7:44 |
+| 31 | [L'appel Du Vide](https://open.spotify.com/track/2VUxvWxmUJXp2neuoOq1zx) | [Sylvaine](https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe) | [Atoms Aligned, Coming Undone](https://open.spotify.com/album/6UWmG28sc4akOQcOEQGJ1e) | 7:44 |
+| 32 | [Norðrljós](https://open.spotify.com/track/0Sjps7HTP1MUPUXqBMXTt0) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [Norðrljós](https://open.spotify.com/album/4UC8HNvhmz0b0ZspOcbmCa) | 3:20 |
 | 33 | [Ella](https://open.spotify.com/track/6QXieDRlH4Ofjg864USffV) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Ella](https://open.spotify.com/album/4Bb09POxCDNaLQPXWO4qv9) | 3:54 |
 | 34 | [Seidfylgjur](https://open.spotify.com/track/0kyH6SWNBMNnBiK8R15dwl) | [Rúnahild](https://open.spotify.com/artist/6B28AjXpmQglsDG2hHAwg3) | [Seidfylgjur](https://open.spotify.com/album/6gFf0gVsTsA1gB3d1Whj8e) | 4:20 |
 | 35 | [Stay](https://open.spotify.com/track/3foIGbQ1FPZYJJ7RQ6v4Nj) | [Numenorean](https://open.spotify.com/artist/2qBGuYUZX53HN4Vk7Msjlc) | [Adore](https://open.spotify.com/album/4Yf0HZRHPCZvRteeDMLcul) | 2:21 |
@@ -71,17 +71,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 61 | [Hersir](https://open.spotify.com/track/14peV9O1Fm2QpOIzesUudO) | [Hulkoff](https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH) | [Hersir](https://open.spotify.com/album/0A00Ykp2mAq35Ob6sQmqzD) | 2:25 |
 | 62 | [Ethel](https://open.spotify.com/track/2kDFEgMbmQ0rmt1mAeI7fp) | [Elvenking](https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB) | [Ethel](https://open.spotify.com/album/4IbI4W9JAiPWXUMFmkXjVG) | 3:39 |
 | 63 | [Future to Come](https://open.spotify.com/track/1ukyoBUPLuLDWiGOP3TDdE) | [Furor Gallico](https://open.spotify.com/artist/3EdTAF8rCNoJhEYmNKBehq) | [Future To Come](https://open.spotify.com/album/0EJ1YN4Z6VmZzPpcEn2fbE) | 4:13 |
-| 64 | [Fenris](https://open.spotify.com/track/1QvKHj2NLCuJoFeoe30nLU) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Fenris](https://open.spotify.com/album/7LDHiI3WUZhXqh313wu87n) | 5:47 |
-| 65 | [Adler fliegen](https://open.spotify.com/track/0zhifYXC21jjDwivaFBgQU) | [Die Apokalyptischen Reiter](https://open.spotify.com/artist/04L8hbMJRQ5vFnLeDgA8xn) | [Adler fliegen](https://open.spotify.com/album/2sRCokQ9XwnEPPGt5OwbYL) | 3:38 |
+| 64 | [Adler fliegen](https://open.spotify.com/track/0zhifYXC21jjDwivaFBgQU) | [Die Apokalyptischen Reiter](https://open.spotify.com/artist/04L8hbMJRQ5vFnLeDgA8xn) | [Adler fliegen](https://open.spotify.com/album/2sRCokQ9XwnEPPGt5OwbYL) | 3:38 |
+| 65 | [Fenris](https://open.spotify.com/track/1QvKHj2NLCuJoFeoe30nLU) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Fenris](https://open.spotify.com/album/7LDHiI3WUZhXqh313wu87n) | 5:47 |
 | 66 | [Ruun II \- The Epitaph](https://open.spotify.com/track/2MSPBBEgmtqE7bUu8Kos6T) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Caravans to the Outer Worlds](https://open.spotify.com/album/4SQD8QqIgZKYEGraVPzxgo) | 5:37 |
 | 67 | [Crystalline](https://open.spotify.com/track/40Wmu8qja6oJYzDsZ4jek5) | [Suldusk](https://open.spotify.com/artist/27bhelNsrdlX5Y5H7yigfg) | [Crystalline](https://open.spotify.com/album/4qhT2L4SCZdvBz51rkdJ6u) | 5:48 |
 | 68 | [Die Welle](https://open.spotify.com/track/3r46i87MmG57Nmrrnfo2Mj) | [Rauhbein](https://open.spotify.com/artist/0neCOkQjYXJMLW7cvOw6fe) | [Die Welle](https://open.spotify.com/album/7KTsLcGCa66kwmjYsXCTZl) | 4:42 |
-| 69 | [Midvinter](https://open.spotify.com/track/1qlSpiCwjxCsD2VVWpJV1H) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Midvinter](https://open.spotify.com/album/6OPbBT3bjSX3Md6lPIznjy) | 6:32 |
-| 70 | [Malströmsbrus](https://open.spotify.com/track/2iaTeZJ8QD2ZS312KQTBgV) | [Vintersorg](https://open.spotify.com/artist/6LfdGx71ZHRWgP4tBRmQf6) | [Malströmsbrus](https://open.spotify.com/album/4961f5lFlgmf38sd9K5wgl) | 6:43 |
+| 69 | [Malströmsbrus](https://open.spotify.com/track/2iaTeZJ8QD2ZS312KQTBgV) | [Vintersorg](https://open.spotify.com/artist/6LfdGx71ZHRWgP4tBRmQf6) | [Malströmsbrus](https://open.spotify.com/album/4961f5lFlgmf38sd9K5wgl) | 6:43 |
+| 70 | [Midvinter](https://open.spotify.com/track/1qlSpiCwjxCsD2VVWpJV1H) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Midvinter](https://open.spotify.com/album/6OPbBT3bjSX3Md6lPIznjy) | 6:32 |
 | 71 | [Helvegen](https://open.spotify.com/track/3TEHaGREmft4lec2TrcR8C) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Runaljod – Yggdrasil](https://open.spotify.com/album/0rA5rQVW5kPq0SmUGFtbO1) | 7:11 |
 | 72 | [Wulfwiga](https://open.spotify.com/track/37g06WD4w62ipxpBIbQN16) | [Sowulo](https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR) | [Mann](https://open.spotify.com/album/7K6iSnHtArU3SaXBFseCob) | 4:16 |
 | 73 | [Snake Pit Poetry](https://open.spotify.com/track/3HLTjYKY7P2O35QyPr70Xz) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5), [Hilda Örvarsdóttir](https://open.spotify.com/artist/6K1UpnQXOyZtQYjydqbHS1) | [Snake Pit Poetry](https://open.spotify.com/album/0Yc1J017Kb0vwAZiak3w4Z) | 7:08 |
-| 74 | [Hemkomst](https://open.spotify.com/track/6zZ4iLIL9u8ozZ9DllB7ln) | [Forndom](https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH) | [Faþir](https://open.spotify.com/album/7cOPDPI7NelUNNmbw8pHPC) | 5:40 |
-| 75 | [Rún](https://open.spotify.com/track/4YmSk5JhkXdiG0LbQgjXma) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [Vikings Chant](https://open.spotify.com/album/2lA9qxoicTpczW6FyCySzH) | 2:40 |
+| 74 | [Inceptus](https://open.spotify.com/track/42zHLmiOBu81VOUJsdWRHf) | [Arcana](https://open.spotify.com/artist/7GVQhnTHmaTrX6bt8eY6Le) | [As Bright as a Thousand Suns](https://open.spotify.com/album/4ZOMdwM4okxHdnuIY7EAfx) | 6:29 |
+| 75 | [Hemkomst](https://open.spotify.com/track/6zZ4iLIL9u8ozZ9DllB7ln) | [Forndom](https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH) | [Faþir](https://open.spotify.com/album/7cOPDPI7NelUNNmbw8pHPC) | 5:40 |
 
 Snapshot ID: `AAAAAOIaNZmlIkqLyHeTv3KMI2LpJtjY`

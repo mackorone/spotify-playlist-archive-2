@@ -4,7 +4,7 @@
 
 > you got a sports car?
 
-336 songs - 18 hr 13 min
+337 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2022-01-12 | 2023-02-03 |
 | [Bejeweled](https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:14 | 2023-07-06 | 2023-12-27 |
 | [BELLAKEO](https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [BELLAKEO](https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0) | 3:17 | 2023-12-26 | 2025-06-27 |
-| [Best Friend \(feat\. Doja Cat\)](https://open.spotify.com/track/20BOju91NaEFK5Py4VJ2pp) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Best Friend \(feat\. Doja Cat\) \[Remix EP\] \[Extended Edition\]](https://open.spotify.com/album/0DqDdZGSQkWQiE0TzBqeLA) | 2:35 | 2023-02-02 |  |
+| [Best Friend \(feat\. Doja Cat\)](https://open.spotify.com/track/20BOju91NaEFK5Py4VJ2pp) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Best Friend \(feat\. Doja Cat\) \[Remix EP\] \[Extended Edition\]](https://open.spotify.com/album/0DqDdZGSQkWQiE0TzBqeLA) | 2:35 | 2023-02-02 | 2026-02-28 |
 | [BET](https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [BET](https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ) | 3:18 | 2024-09-06 | 2024-10-16 |
 | [Big Energy](https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa) | 2:53 | 2023-02-02 |  |
 | [BIRTHDAY BEHAVIOR](https://open.spotify.com/track/0yJrDAac79G2AJcqobXqyu) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [BIRTHDAY BEHAVIOR](https://open.spotify.com/album/1dz5ClokzJAs3O52DN56GW) | 2:24 | 2025-08-15 |  |
@@ -205,6 +205,7 @@
 | [Mantra](https://open.spotify.com/track/1kUyOJb3fzUo8r0OCz5SQk) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:16 | 2025-12-29 |  |
 | [Maybe You’re The Problem](https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Maybe You’re The Problem](https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg) | 3:10 | 2023-02-02 | 2023-07-07 |
 | [Me & U](https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT) | [Cassie](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) | [Cassie \(U.S\. Version\)](https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu) | 3:12 | 2022-01-12 | 2023-02-03 |
+| [Me and my](https://open.spotify.com/track/0yV7V1mQ3yQZL1Gp3jNggW) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/7DO7f71Dkm98AKDIgBaaSx) | 2:52 | 2026-02-27 |  |
 | [Mean girls](https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:09 | 2024-06-17 |  |
 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 | 2022-01-12 | 2023-02-03 |
 | [MEOW](https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MEOW](https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5) | 2:52 | 2024-10-04 | 2025-08-10 |

@@ -1,13 +1,141 @@
 {
   "description": "New releases for the kids. Cover: Peppa Pig",
-  "num_followers": 89830,
+  "num_followers": 89923,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADA60x1ZS1mu6TZQfxvswycuZMCA",
+  "snapshot_id": "AAAAAKMVBL4BB2Ccc20JaQwkrJU4qtCg",
   "tracks": [
+    {
+      "added_at": "2026-02-27 05:00:47",
+      "album": {
+        "name": "Only In Fairylandia",
+        "url": "https://open.spotify.com/album/5xNg8X8uJhFNv00k9RgqwL"
+      },
+      "artists": [
+        {
+          "name": "Gabby's Dollhouse",
+          "url": "https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j"
+        }
+      ],
+      "duration_ms": 125128,
+      "name": "Only In Fairylandia",
+      "url": "https://open.spotify.com/track/6awYVNEUKbSOAsZK2cR80Y"
+    },
+    {
+      "added_at": "2026-02-27 05:00:47",
+      "album": {
+        "name": "The Rhythm of Routines",
+        "url": "https://open.spotify.com/album/0W865n05JMBUF3HfiabeEZ"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Abby Cadabby",
+          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 100666,
+      "name": "Clean Up Song",
+      "url": "https://open.spotify.com/track/3uJprElJjcZxbx0uQlGPl7"
+    },
+    {
+      "added_at": "2026-02-27 05:00:47",
+      "album": {
+        "name": "It Helps to Say What You're Feeling",
+        "url": "https://open.spotify.com/album/0SyDXfIJXkwyrtOxRhoeiL"
+      },
+      "artists": [
+        {
+          "name": "Daniel Tiger\u2019s Neighborhood",
+          "url": "https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG"
+        }
+      ],
+      "duration_ms": 75241,
+      "name": "It Helps to Say What You're Feeling",
+      "url": "https://open.spotify.com/track/6obyLzVsCgWW9fLpXkVzzg"
+    },
+    {
+      "added_at": "2026-02-27 05:00:47",
+      "album": {
+        "name": "Where Is the Cat?",
+        "url": "https://open.spotify.com/album/1YqHKGlQoHnsHfrixNxuBh"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "duration_ms": 127385,
+      "name": "Where Is the Cat?",
+      "url": "https://open.spotify.com/track/2DozWB0YYgMfP18IygVioV"
+    },
+    {
+      "added_at": "2026-02-27 05:00:47",
+      "album": {
+        "name": "Barbie and Chelsea in the Birthday Do-Over",
+        "url": "https://open.spotify.com/album/1J4axkBbbdILRjbKu5nUhZ"
+      },
+      "artists": [
+        {
+          "name": "Barbie",
+          "url": "https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl"
+        },
+        {
+          "name": "Chelsea",
+          "url": "https://open.spotify.com/artist/25O9uYqu9G9i3tVOcH03k6"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "duration_ms": 122438,
+      "name": "Born to Be Me",
+      "url": "https://open.spotify.com/track/1F2aGwCgkBL8iVTBXLiAwO"
+    },
+    {
+      "added_at": "2026-02-27 05:00:47",
+      "album": {
+        "name": "Underwater Nursery",
+        "url": "https://open.spotify.com/album/7ynHz7w6x11IcpV9uxRwKf"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "duration_ms": 127963,
+      "name": "Underwater Nursery",
+      "url": "https://open.spotify.com/track/2JBdYcHZn8W8q7tlgm1zyL"
+    },
+    {
+      "added_at": "2026-02-27 05:00:47",
+      "album": {
+        "name": "Songs for Littles",
+        "url": "https://open.spotify.com/album/4KAhBEkmBe3DDyEIToQ82M"
+      },
+      "artists": [
+        {
+          "name": "Tiny Tunes",
+          "url": "https://open.spotify.com/artist/638T30qarWGaQXeFFF4d1X"
+        }
+      ],
+      "duration_ms": 114600,
+      "name": "Songs for Littles",
+      "url": "https://open.spotify.com/track/23DHMHWm9u1FgLvZ6Wuaxs"
+    },
     {
       "added_at": "2026-02-20 05:00:33",
       "album": {

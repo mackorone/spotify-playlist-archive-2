@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 
 > chill christmas beats to keep you cozy and focused
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,659 likes - 100 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,650 likes - 100 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 32 | [O Come, All Ye Faithful](https://open.spotify.com/track/1Eq5DU2LAofEYtYP5ODxHw) | [Yumeoka](https://open.spotify.com/artist/2QO9MfQwz3oGySq5Tiuo4Q) | [O Come, All Ye Faithful](https://open.spotify.com/album/4FUbvkzXMGyqMxKr9K6JVg) | 1:34 |
 | 33 | [rudolfs beat](https://open.spotify.com/track/5DGMWOsbwnttCV4h8Zp2BP) | [slowvibe](https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO) | [rudolfs beat](https://open.spotify.com/album/1cgH2L5MZmfB5roLS15dNa) | 2:21 |
 | 34 | [My Only Wish \(This Year\)](https://open.spotify.com/track/37gBHhtzdh7PSvgyTCwLWs) | [LelleXCX](https://open.spotify.com/artist/0fjlNlZw225NEmBfLcYg6t) | [My Only Wish \(This Year\)](https://open.spotify.com/album/3bA2BJC4ZbXNGHXj0bapKz) | 2:59 |
-| 35 | [Do They Know It's Christmas](https://open.spotify.com/track/3BQXFIUb8nJmY9xGqz4iId) | [Little Smokey](https://open.spotify.com/artist/5dsmlVS4HsQ44fEGCmARw4) | [Cozy Little Christmas](https://open.spotify.com/album/4ZRFYQV3j28iB41F6IHVmp) | 2:23 |
-| 36 | [Last Train Home](https://open.spotify.com/track/3nf9nlsB1rQjsrH4NrU9ic) | [reOrder](https://open.spotify.com/artist/1cAsz5HmLWJ2GWwinTnBG2), [saint rumi](https://open.spotify.com/artist/4KZj9rS07i3nfijzVtkqMQ) | [Last Train Home](https://open.spotify.com/album/1Qi82bk3Id0Je9aVf0BZnh) | 1:58 |
+| 35 | [Last Train Home](https://open.spotify.com/track/3nf9nlsB1rQjsrH4NrU9ic) | [reOrder](https://open.spotify.com/artist/1cAsz5HmLWJ2GWwinTnBG2), [saint rumi](https://open.spotify.com/artist/4KZj9rS07i3nfijzVtkqMQ) | [Last Train Home](https://open.spotify.com/album/1Qi82bk3Id0Je9aVf0BZnh) | 1:58 |
+| 36 | [Do They Know It's Christmas](https://open.spotify.com/track/3BQXFIUb8nJmY9xGqz4iId) | [Little Smokey](https://open.spotify.com/artist/5dsmlVS4HsQ44fEGCmARw4) | [Cozy Little Christmas](https://open.spotify.com/album/4ZRFYQV3j28iB41F6IHVmp) | 2:23 |
 | 37 | [Christmas Eve](https://open.spotify.com/track/5oSd5Ri6AYoeh52kcOsE7I) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [It's Christmas Lofi Beats](https://open.spotify.com/album/0NKh4PhgA3OFX078fBGGmX) | 2:36 |
 | 38 | [winter wonderland](https://open.spotify.com/track/3Xo8cKrayKwxlJ1F1hRvOQ) | [le gronk](https://open.spotify.com/artist/1HHbmSXj8pZ2oTGOXa3I0y) | [winter wonderland](https://open.spotify.com/album/63nmxHaeTmjlL2zNYBThJd) | 1:56 |
 | 39 | [Joyeux Noël Mes Amis](https://open.spotify.com/track/496qR8QAdvGMokE5g06cu6) | [Astairé](https://open.spotify.com/artist/2DWDXgHWqbRV6oQKFTlcvc) | [Joyeux Noël Mes Amis](https://open.spotify.com/album/0pUlrSrq6gcPR6tCZGApMN) | 2:38 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 63 | [It's Still Christmas](https://open.spotify.com/track/6S2IIsjOIe45GgnsClwzgB) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Xmas In My Heart](https://open.spotify.com/album/3JjTtv9g7oNQkiz3eXv6n6) | 2:12 |
 | 64 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/0bgcp8ZKgJg2pqCwegbw1M) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/2JO5EUMtP6BxGAHr3dyETU) | 2:40 |
 | 65 | [Mistle Bro](https://open.spotify.com/track/6PRLxBcEboXH7xB17n7xFo) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Mistle Bro](https://open.spotify.com/album/5OuHMmDorkpBls82Pyo8rC) | 2:21 |
-| 66 | [Christmas in Las Vegas](https://open.spotify.com/track/3COK2yvZQs6heeZPCh2X8z) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [Upside Down Snowglobe](https://open.spotify.com/album/1TapBSZTgm4QyUodL6nibw) | 3:05 |
+| 66 | [carol of the bells](https://open.spotify.com/track/2Qk6XCRxgAiUPi5iLMEOHt) | [Cereal Party](https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX) | [carol of the bells](https://open.spotify.com/album/2GLefZu4UYWYJLVdz0euaG) | 2:26 |
 | 67 | [North Pole Dancing](https://open.spotify.com/track/5zvuuFZp9mjoFTBo55S2DH) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [A Merry Lofi Christmas](https://open.spotify.com/album/13vGKM3it9EuTEGVg0CJuG) | 2:14 |
-| 68 | [carol of the bells](https://open.spotify.com/track/2Qk6XCRxgAiUPi5iLMEOHt) | [Cereal Party](https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX) | [carol of the bells](https://open.spotify.com/album/2GLefZu4UYWYJLVdz0euaG) | 2:26 |
+| 68 | [Christmas in Las Vegas](https://open.spotify.com/track/3COK2yvZQs6heeZPCh2X8z) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [Upside Down Snowglobe](https://open.spotify.com/album/1TapBSZTgm4QyUodL6nibw) | 3:05 |
 | 69 | [Happy Christmas \(War is Over\)](https://open.spotify.com/track/2M35q1wTRD4r8flr66VdFR) | [Sleepr Cell](https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m) | [Happy Christmas](https://open.spotify.com/album/5F1vyxWSEVBWLW8q8ClShQ) | 2:02 |
 | 70 | [Frosty](https://open.spotify.com/track/54heHiUmAXJRAH9U1q5hwU) | [Collinsworthy](https://open.spotify.com/artist/1jkH0Xi5BqfUwlIaEu3VNr) | [Frosty](https://open.spotify.com/album/1b5kxIY5L8shg8qrKKPwnU) | 2:15 |
 | 71 | [Winter rose](https://open.spotify.com/track/75MWhJXGOCBJxvRkVmr0TE) | [cmd f](https://open.spotify.com/artist/6Ykg4VJZl1anZljuqAJU25) | [Winter rose](https://open.spotify.com/album/5uTTPayRXndNXAwrKDSSHS) | 2:27 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 89 | [Santas Bag](https://open.spotify.com/track/4uSlst3cOZovr9zSMUpj3O) | [Youthology](https://open.spotify.com/artist/333R5FY9kU0xShruEP0BQM), [Felt Galaxy](https://open.spotify.com/artist/5HnchaG3UJ2pZ5j5DnN1ot), [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Santas Bag](https://open.spotify.com/album/5yxXrr5bYhGj2mQw7mmwdu) | 2:03 |
 | 90 | [The Night Before](https://open.spotify.com/track/5ZIU60WNqPE6tJxhzJio4f) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [The Night Before](https://open.spotify.com/album/1yITIVwWWZxjIXufJ6Vxkp) | 1:51 |
 | 91 | [Let it Snow](https://open.spotify.com/track/7H9dIO8amBy9ZipeovDK5C) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [Let it Snow](https://open.spotify.com/album/57NjLRggkOYTDTz7HGW3I9) | 2:14 |
-| 92 | [Snow Angel](https://open.spotify.com/track/2sWdHoGbx4QFDTVcxgmGTD) | [barry straw](https://open.spotify.com/artist/1aYvhE4GIScIIafVt47U8E) | [Snow Angel](https://open.spotify.com/album/4btW84uwKxLPx96n35337s) | 1:34 |
-| 93 | [Blanca Navidad](https://open.spotify.com/track/559cbvnNsfuT55dLmPDFSF) | [Moon Portal](https://open.spotify.com/artist/5LfDgl8lMSLTkDdPxR2Eeo) | [Blanca Navidad](https://open.spotify.com/album/00v4fmoJekO4cfz7PxfOgu) | 2:56 |
+| 92 | [Blanca Navidad](https://open.spotify.com/track/559cbvnNsfuT55dLmPDFSF) | [Moon Portal](https://open.spotify.com/artist/5LfDgl8lMSLTkDdPxR2Eeo) | [Blanca Navidad](https://open.spotify.com/album/00v4fmoJekO4cfz7PxfOgu) | 2:56 |
+| 93 | [Snow Angel](https://open.spotify.com/track/2sWdHoGbx4QFDTVcxgmGTD) | [barry straw](https://open.spotify.com/artist/1aYvhE4GIScIIafVt47U8E) | [Snow Angel](https://open.spotify.com/album/4btW84uwKxLPx96n35337s) | 1:34 |
 | 94 | [The Lonely Elf](https://open.spotify.com/track/2AlpsYQFj9EW3h4o8gEMv7) | [justregular](https://open.spotify.com/artist/5Zx4suKma9aE2dRBP36bhZ) | [The Lonely Elf](https://open.spotify.com/album/5euv0xltD6buYPqSac2jIT) | 1:42 |
 | 95 | [Jazz Christmas](https://open.spotify.com/track/2uQqLMwJdzjUm6bfrQSt56) | [Grakch](https://open.spotify.com/artist/0WF4RZFPpsA3ALDjF8qFFw) | [Jazz Christmas](https://open.spotify.com/album/35w5gduX4ljSm2fbKA2g7B) | 1:53 |
 | 96 | [JOY](https://open.spotify.com/track/4PU3g1wGXO9hcLRGuSdP9C) | [Max Mix](https://open.spotify.com/artist/2f8IL6GQhmOI1Of2fMHqka) | [JOY](https://open.spotify.com/album/33Me4g9n924cJ6ezfiOAXg) | 3:09 |

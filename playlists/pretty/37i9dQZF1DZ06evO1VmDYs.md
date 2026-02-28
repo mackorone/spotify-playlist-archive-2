@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VmDYs.md) - [plain]
 
 > This is Weezer\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,657 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,696 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VmDYs.md) - [plain]
 | 45 | [Do You Wanna Get High?](https://open.spotify.com/track/5IJ6rniX2mkT2ITklBSx6a) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(White Album\)](https://open.spotify.com/album/6StNTJJ7Yq3Hf121kLvPBz) | 3:27 |
 | 46 | [Feels Like Summer](https://open.spotify.com/track/2jz1bw1p0WQj0PDnVDP0uY) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pacific Daydream](https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP) | 3:15 |
 | 47 | [A Little Bit of Love](https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [A Little Bit of Love](https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge) | 2:44 |
-| 48 | [Memories](https://open.spotify.com/track/4nyW57HDLKNziNAwl15jKz) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Hurley \(Deluxe Edition\)](https://open.spotify.com/album/1FXneUyo0D1lnMZ0Nv3sw8) | 3:14 |
-| 49 | [I've Had It Up To Here](https://open.spotify.com/track/1n3z9C5QWGFcn5sueTO694) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Everything Will Be Alright In The End](https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM) | 2:49 |
+| 48 | [I've Had It Up To Here](https://open.spotify.com/track/1n3z9C5QWGFcn5sueTO694) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Everything Will Be Alright In The End](https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM) | 2:49 |
+| 49 | [Memories](https://open.spotify.com/track/4nyW57HDLKNziNAwl15jKz) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Hurley \(Deluxe Edition\)](https://open.spotify.com/album/1FXneUyo0D1lnMZ0Nv3sw8) | 3:14 |
 | 50 | [This Is Such A Pity](https://open.spotify.com/track/1Gg2fM3kis2b3egi64bsDd) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Make Believe](https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz) | 3:25 |
 
-Snapshot ID: `aZ47gAAAAADgbF6N901rqN3ZgWw3tU7C`
+Snapshot ID: `aZ+NAAAAAABFq52ZoXC+z1zxzoYh8H4D`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,646 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,649 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 30 | [Den Fyrste Song](https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe) | [Herborg Kråkevik](https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5) | [Kråkeviks Songbok](https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf) | 2:58 |
 | 31 | [Sommerfuggel I Vinterland](https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF) | [Halvdan Sivertsen](https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY) | [Hilsen Halvdan](https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy) | 4:18 |
 | 32 | [Det begynner å bli et liv](https://open.spotify.com/track/6y8CZLX2vn58EVpjOejesi) | [Anita Skorgan](https://open.spotify.com/artist/4dTqh57h7Qc97TWARfoVD4) | [Hver gang vi møtes \- Sesong 2 \- Ole Paus' dag](https://open.spotify.com/album/5xPVoxx10SsUeKrb7VbE7K) | 3:13 |
-| 33 | [Vår Beste Dag](https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT) | [Erik Bye](https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ) | [Støv Og Stjerner](https://open.spotify.com/album/0NpGhivBGHLf1nnoLSCZ1X) | 3:01 |
-| 34 | [Vår beste dag](https://open.spotify.com/track/2RssYUkYzmEtvxmUX0C19A) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Vår beste dag](https://open.spotify.com/album/72dAuYKSanaCXmsLzS7eUN) | 3:22 |
+| 33 | [Vår beste dag](https://open.spotify.com/track/2RssYUkYzmEtvxmUX0C19A) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Vår beste dag](https://open.spotify.com/album/72dAuYKSanaCXmsLzS7eUN) | 3:22 |
+| 34 | [Vår Beste Dag](https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT) | [Erik Bye](https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ) | [Støv Og Stjerner](https://open.spotify.com/album/0NpGhivBGHLf1nnoLSCZ1X) | 3:01 |
 | 35 | [På besøk](https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Vendepunkt](https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI) | 3:17 |
 | 36 | [Vi Vandrar Saman \(Eg Følgjer Der Du Går\)](https://open.spotify.com/track/5b1AEdCpaCSNO8Z3i3SlFV) | [Olav Stedje](https://open.spotify.com/artist/4SM0aaZA4Gky48PLIlqFPA) | [Ta Meg Med](https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP) | 3:14 |
 | 37 | [Eg vil ikkje dø](https://open.spotify.com/track/0k8NqYHm1GkQcyI8SHKPeP) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz) | [Eg vil ikkje dø](https://open.spotify.com/album/3loCnhfuuWSN39QmcQ7C40) | 3:29 |

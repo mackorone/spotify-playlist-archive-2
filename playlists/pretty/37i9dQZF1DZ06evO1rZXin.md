@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rZXin.md) - [plain]
 
 > This is Banda Vallarta Show\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,152 likes - 45 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,155 likes - 45 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,16 +42,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rZXin.md) - [plain]
 | 32 | [Rock y Banda](https://open.spotify.com/track/5K0720vRnLAH1ViBjog5mV) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ) | 3:37 |
 | 33 | [La Banda Rock](https://open.spotify.com/track/448szMJep2MNhcZLVeMeGn) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Busca Amor](https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt) | 3:20 |
 | 34 | [La Víbora Peligrosa](https://open.spotify.com/track/1vrvC8YI2sBhua5rG5e3q7) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Víbora Peligrosa](https://open.spotify.com/album/4BOEpDy5jrjwKmDDZ6QCss) | 2:29 |
-| 35 | [Insensible](https://open.spotify.com/track/6Ob7lSosBDxx4C51LXRZSV) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr) | 2:24 |
-| 36 | [Tu Eres](https://open.spotify.com/track/2j41ukCckXffKAgtyUpACd) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc) | 2:17 |
+| 35 | [Tu Eres](https://open.spotify.com/track/2j41ukCckXffKAgtyUpACd) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc) | 2:17 |
+| 36 | [Insensible](https://open.spotify.com/track/6Ob7lSosBDxx4C51LXRZSV) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr) | 2:24 |
 | 37 | [Busca Amor](https://open.spotify.com/track/6Rxrnu77wkUmv5RufRc5Pi) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Busca Amor](https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt) | 2:37 |
 | 38 | [Meneaito](https://open.spotify.com/track/3cNGzLHjdhX7qizTBt08WD) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Meneaito](https://open.spotify.com/album/4ZxRWf6Xu68bDuJoxnYuG4) | 3:37 |
-| 39 | [Aunque Te Enamores](https://open.spotify.com/track/1nFZVvBqero0LnSsH23NAd) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr) | 2:59 |
-| 40 | [La Múcura](https://open.spotify.com/track/5SCtE1ykLbTrEnLT1zAG1c) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Múcura](https://open.spotify.com/album/0T69bIC5Txs5iTT0fBO6sw) | 3:55 |
-| 41 | [El Mero Mero](https://open.spotify.com/track/5ilob0TpOQa1bPb5it9JM0) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 2:35 |
-| 42 | [Si No Estás Tú \(Black Is Black\)](https://open.spotify.com/track/6PsDG1mEF8Aye8nmIuTXdq) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [35 Años de Fiesta](https://open.spotify.com/album/227ypUZTqPBOyiKgj2rqL6) | 3:04 |
+| 39 | [La Múcura](https://open.spotify.com/track/5SCtE1ykLbTrEnLT1zAG1c) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Múcura](https://open.spotify.com/album/0T69bIC5Txs5iTT0fBO6sw) | 3:55 |
+| 40 | [Aunque Te Enamores](https://open.spotify.com/track/1nFZVvBqero0LnSsH23NAd) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr) | 2:59 |
+| 41 | [Si No Estás Tú \(Black Is Black\)](https://open.spotify.com/track/6PsDG1mEF8Aye8nmIuTXdq) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [35 Años de Fiesta](https://open.spotify.com/album/227ypUZTqPBOyiKgj2rqL6) | 3:04 |
+| 42 | [El Mero Mero](https://open.spotify.com/track/5ilob0TpOQa1bPb5it9JM0) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 2:35 |
 | 43 | [Te Voy A Olvidar](https://open.spotify.com/track/7t7onEgU8E9ayFIVh9FI7G) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr) | 3:00 |
 | 44 | [No Sigas Llorando](https://open.spotify.com/track/3xPqutXnfGurimsUi02CQj) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [35 Años de Fiesta](https://open.spotify.com/album/227ypUZTqPBOyiKgj2rqL6) | 2:36 |
 | 45 | [Me He Quedado Solo](https://open.spotify.com/track/6UEb9HmWZnaj5tYWhf6v2O) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr) | 3:01 |
 
-Snapshot ID: `aZ47gAAAAABKxV7/O+TUUKeeoNuGpC+l`
+Snapshot ID: `aZ+NAAAAAAA2p5EVs1CJLU7Lnx/t4Dcw`

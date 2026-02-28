@@ -1,6 +1,6 @@
 {
   "description": "I pi\u00f9 grandi successi della storia del festival \ud83c\udfc6 ",
-  "num_followers": 102622,
+  "num_followers": 102733,
   "original_name": "Sanremo: La Storia",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
+        "name": "NEI SOGNI NESSUNO \u00c8 MONOGAMO",
+        "url": "https://open.spotify.com/album/3lWe6FOAIDAOjJoDIzu67e"
+      },
+      "artists": [
+        {
+          "name": "Dargen D'Amico",
+          "url": "https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm"
+        }
+      ],
+      "duration_ms": 198082,
+      "name": "Dove Si Balla",
+      "url": "https://open.spotify.com/track/5a6ABzVhqgVKI1znaI9tar"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
         "name": "Sar\u00f2 Libera (Sanremo Edition)",
         "url": "https://open.spotify.com/album/3IaZc3ERddM2fSGj9IOdOT"
       },
@@ -483,22 +499,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "NEI SOGNI NESSUNO \u00c8 MONOGAMO",
-        "url": "https://open.spotify.com/album/3lWe6FOAIDAOjJoDIzu67e"
-      },
-      "artists": [
-        {
-          "name": "Dargen D'Amico",
-          "url": "https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm"
-        }
-      ],
-      "duration_ms": 198082,
-      "name": "Dove Si Balla",
-      "url": "https://open.spotify.com/track/5a6ABzVhqgVKI1znaI9tar"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/7rwPjOYMdCm9LKVJk2Uiyy"
       },
@@ -511,22 +511,6 @@
       "duration_ms": 204706,
       "name": "Se m'innamoro",
       "url": "https://open.spotify.com/track/6Pm5m45fMlLOJ8pKBHKzSc"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
-        "name": "Un giorno di sole - Straordinario",
-        "url": "https://open.spotify.com/album/1gEjYulzKgFxDkf0Ii37cx"
-      },
-      "artists": [
-        {
-          "name": "Chiara Galiazzo",
-          "url": "https://open.spotify.com/artist/5pJV7GdYrjU3zQpxc24kN7"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "Straordinario",
-      "url": "https://open.spotify.com/track/0UILeV4tZ5W11JngwEY0gD"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -547,18 +531,18 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Fai rumore",
-        "url": "https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ"
+        "name": "Un giorno di sole - Straordinario",
+        "url": "https://open.spotify.com/album/1gEjYulzKgFxDkf0Ii37cx"
       },
       "artists": [
         {
-          "name": "Diodato",
-          "url": "https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi"
+          "name": "Chiara Galiazzo",
+          "url": "https://open.spotify.com/artist/5pJV7GdYrjU3zQpxc24kN7"
         }
       ],
-      "duration_ms": 216140,
-      "name": "Fai rumore",
-      "url": "https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS"
+      "duration_ms": 190586,
+      "name": "Straordinario",
+      "url": "https://open.spotify.com/track/0UILeV4tZ5W11JngwEY0gD"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -575,6 +559,22 @@
       "duration_ms": 164000,
       "name": "farfalle",
       "url": "https://open.spotify.com/track/32KxxVUfXnbdujTh5DGmgu"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Fai rumore",
+        "url": "https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ"
+      },
+      "artists": [
+        {
+          "name": "Diodato",
+          "url": "https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi"
+        }
+      ],
+      "duration_ms": 216140,
+      "name": "Fai rumore",
+      "url": "https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
+        "name": "Magmamemoria MMXX (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0QMZ4b8IHNqUtBuhlUToZr"
+      },
+      "artists": [
+        {
+          "name": "Levante",
+          "url": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+        }
+      ],
+      "duration_ms": 203133,
+      "name": "Tikibombom",
+      "url": "https://open.spotify.com/track/4JNT4VElmvNmJaQUhwPzg9"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
         "name": "Miss Nostalgia",
         "url": "https://open.spotify.com/album/6W5jqg5IfSVX0KeT6nG0TH"
       },
@@ -647,22 +663,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "SESSO OCCASIONALE",
-        "url": "https://open.spotify.com/album/51lcCxrqnkTxRLbmbL7KX6"
-      },
-      "artists": [
-        {
-          "name": "Tananai",
-          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
-        }
-      ],
-      "duration_ms": 195923,
-      "name": "SESSO OCCASIONALE",
-      "url": "https://open.spotify.com/track/0Dz9zyx2w3zYtRK6yp3VKD"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Alice",
         "url": "https://open.spotify.com/album/0VGXsdSBJngZJNRW5o9blY"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 220666,
       "name": "Per Elisa",
       "url": "https://open.spotify.com/track/6P9ISBfXg35gWQzq3ggLIu"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "SESSO OCCASIONALE",
+        "url": "https://open.spotify.com/album/51lcCxrqnkTxRLbmbL7KX6"
+      },
+      "artists": [
+        {
+          "name": "Tananai",
+          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
+        }
+      ],
+      "duration_ms": 195923,
+      "name": "SESSO OCCASIONALE",
+      "url": "https://open.spotify.com/track/0Dz9zyx2w3zYtRK6yp3VKD"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -727,22 +743,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Magmamemoria MMXX (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0QMZ4b8IHNqUtBuhlUToZr"
-      },
-      "artists": [
-        {
-          "name": "Levante",
-          "url": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
-        }
-      ],
-      "duration_ms": 203133,
-      "name": "Tikibombom",
-      "url": "https://open.spotify.com/track/4JNT4VElmvNmJaQUhwPzg9"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Odissea",
         "url": "https://open.spotify.com/album/53byQXY8VWsJ8aiVjK6pbI"
       },
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Eros 30 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 223520,
-      "name": "Terra promessa",
-      "url": "https://open.spotify.com/track/7bcHU50mENL3al5DhEJc7J"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Stella 'E Matina",
         "url": "https://open.spotify.com/album/70YSojRDllSp9yE0KYOe5P"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 254693,
       "name": "Senza giacca e cravatta",
       "url": "https://open.spotify.com/track/7DkFHdtNlzHE5gcJT7vGKV"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Eros 30 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 223520,
+      "name": "Terra promessa",
+      "url": "https://open.spotify.com/track/7bcHU50mENL3al5DhEJc7J"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Dieci",
-        "url": "https://open.spotify.com/album/4FggiQxPJcGvwiRCpNhdx7"
-      },
-      "artists": [
-        {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
-        }
-      ],
-      "duration_ms": 198870,
-      "name": "Dieci",
-      "url": "https://open.spotify.com/track/2lBLzzEARN8mGgHFaXYKKk"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "1995",
         "url": "https://open.spotify.com/album/0jDgMZrhUnBCPTH0W9sxRD"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 250053,
       "name": "Siamo uguali",
       "url": "https://open.spotify.com/track/1E646EbKhR5pVWZGswXta8"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Dieci",
+        "url": "https://open.spotify.com/album/4FggiQxPJcGvwiRCpNhdx7"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "duration_ms": 198870,
+      "name": "Dieci",
+      "url": "https://open.spotify.com/track/2lBLzzEARN8mGgHFaXYKKk"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
+        "name": "Mai Dire Mai (La Locura)",
+        "url": "https://open.spotify.com/album/6Ly8jC23vIa4evVzICvZRu"
+      },
+      "artists": [
+        {
+          "name": "Willie Peyote",
+          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+        }
+      ],
+      "duration_ms": 208664,
+      "name": "Mai Dire Mai (La Locura)",
+      "url": "https://open.spotify.com/track/4jmvkbDw0cuWD2Fi9VswFQ"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
         "name": "Senza farlo apposta",
         "url": "https://open.spotify.com/album/20wgQyzYFfr0OS9CCqmvbz"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 215156,
       "name": "Senza farlo apposta",
       "url": "https://open.spotify.com/track/4rwKn954sAK61ojiPVIxuP"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
-        "name": "Mai Dire Mai (La Locura)",
-        "url": "https://open.spotify.com/album/6Ly8jC23vIa4evVzICvZRu"
-      },
-      "artists": [
-        {
-          "name": "Willie Peyote",
-          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
-        }
-      ],
-      "duration_ms": 208664,
-      "name": "Mai Dire Mai (La Locura)",
-      "url": "https://open.spotify.com/track/4jmvkbDw0cuWD2Fi9VswFQ"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
+        "name": "Eduardo De Crescenzo - All The Best",
+        "url": "https://open.spotify.com/album/3cXL75H1fbfQyALn8xypEr"
+      },
+      "artists": [
+        {
+          "name": "Eduardo De Crescenzo",
+          "url": "https://open.spotify.com/artist/5YECQ35f0dFPI1OPXCwP8g"
+        }
+      ],
+      "duration_ms": 201800,
+      "name": "Ancora",
+      "url": "https://open.spotify.com/track/5eE62U7Hwg2uUCfXl0gyJV"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
         "name": "Eiffel 65 (Italian Album)",
         "url": "https://open.spotify.com/album/1JhmNKRWia4bEo6IH8AFpg"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 239407,
       "name": "Quelli Che Non Hanno Et\u00e0 - Gabry Ponte Power Cut",
       "url": "https://open.spotify.com/track/2mz1KvlR3aHoLSJTdh1nwR"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
-        "name": "Eduardo De Crescenzo - All The Best",
-        "url": "https://open.spotify.com/album/3cXL75H1fbfQyALn8xypEr"
-      },
-      "artists": [
-        {
-          "name": "Eduardo De Crescenzo",
-          "url": "https://open.spotify.com/artist/5YECQ35f0dFPI1OPXCwP8g"
-        }
-      ],
-      "duration_ms": 201800,
-      "name": "Ancora",
-      "url": "https://open.spotify.com/track/5eE62U7Hwg2uUCfXl0gyJV"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Cosa ti aspetti da me",
-        "url": "https://open.spotify.com/album/10H82zO9BPH0aJSpaqu1hC"
+        "name": "Un'ora con...",
+        "url": "https://open.spotify.com/album/1105MDNxNRjgBN219GOgch"
       },
       "artists": [
         {
-          "name": "Loredana Bert\u00e8",
-          "url": "https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx"
+          "name": "Anna Oxa",
+          "url": "https://open.spotify.com/artist/6iuybPv0Mii8x21mztjaUN"
         }
       ],
-      "duration_ms": 224163,
-      "name": "Cosa ti aspetti da me",
-      "url": "https://open.spotify.com/track/7CwSOlR99SUUjNrO4qbAXj"
+      "duration_ms": 251213,
+      "name": "Un'emozione da poco",
+      "url": "https://open.spotify.com/track/36a5OKXfHhIIjAgNb5FOJr"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Un'ora con...",
-        "url": "https://open.spotify.com/album/1105MDNxNRjgBN219GOgch"
+        "name": "Cosa ti aspetti da me",
+        "url": "https://open.spotify.com/album/10H82zO9BPH0aJSpaqu1hC"
       },
       "artists": [
         {
-          "name": "Anna Oxa",
-          "url": "https://open.spotify.com/artist/6iuybPv0Mii8x21mztjaUN"
+          "name": "Loredana Bert\u00e8",
+          "url": "https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx"
         }
       ],
-      "duration_ms": 251213,
-      "name": "Un'emozione da poco",
-      "url": "https://open.spotify.com/track/36a5OKXfHhIIjAgNb5FOJr"
+      "duration_ms": 224163,
+      "name": "Cosa ti aspetti da me",
+      "url": "https://open.spotify.com/track/7CwSOlR99SUUjNrO4qbAXj"
     }
   ],
   "unique_name": "Sanremo: La Storia",

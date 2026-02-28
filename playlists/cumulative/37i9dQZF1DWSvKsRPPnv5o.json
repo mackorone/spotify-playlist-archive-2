@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Holdin' it down for the westside. Cover: Nipsey Hussle and Bino Rideaux",
+  "description": "Holdin' it down for the westside. Cover: Baby Keem",
   "name": "Westside",
   "tracks": [
     {
@@ -1077,6 +1077,28 @@
     },
     {
       "album": {
+        "name": "A Few Things",
+        "url": "https://open.spotify.com/album/0byh8hdr3vZyWZ8mfeu8fN"
+      },
+      "artists": [
+        {
+          "name": "Guapdad 4000",
+          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
+        },
+        {
+          "name": "Jai'Len Josey",
+          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "A Few Things",
+      "url": "https://open.spotify.com/track/6xyrDxA7m9ORwY5XMA1cJE"
+    },
+    {
+      "album": {
         "name": "What They Hittin 4",
         "url": "https://open.spotify.com/album/1vvhGE0zYoGnjQhhx0SWi9"
       },
@@ -1576,7 +1598,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 154070,
       "name": "All 10",
       "url": "https://open.spotify.com/track/7iCkpEdPra4Dwex4nwguaD"
@@ -2676,6 +2698,24 @@
       "duration_ms": 295471,
       "name": "BACK TO ME",
       "url": "https://open.spotify.com/track/0Tgm7wkLb0AfAHAZDschvD"
+    },
+    {
+      "album": {
+        "name": "Backyard Ball",
+        "url": "https://open.spotify.com/album/26srcrwHsLEbtVPdosUMTy"
+      },
+      "artists": [
+        {
+          "name": "GELO",
+          "url": "https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169756,
+      "name": "Backyard Ball",
+      "url": "https://open.spotify.com/track/3Yw9e8eUnFNkzPyJKA77EJ"
     },
     {
       "album": {
@@ -8694,7 +8734,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 202369,
       "name": "DRUMLINE",
       "url": "https://open.spotify.com/track/5KjkEibHnMqzVa43lP3B67"
@@ -8830,7 +8870,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 155454,
       "name": "E.14TH",
       "url": "https://open.spotify.com/track/3zcDbwkuNy4P4b4Z1ufNQC"
@@ -9458,6 +9498,28 @@
       "duration_ms": 374117,
       "name": "EVERYBODY (feat. 310babii, OHGEESY, BlueBucksClan, John Mackk, G Perico, RJMrLA, Rucci, Heembeezy, CUZZOS, Wallie the Sensei, Chef Boy) - Remix",
       "url": "https://open.spotify.com/track/308356n91cdilodNAW0HfG"
+    },
+    {
+      "album": {
+        "name": "Everybody Ain't Gone Get You",
+        "url": "https://open.spotify.com/album/4fWI1EX3Lj1VKeiIgHvCd0"
+      },
+      "artists": [
+        {
+          "name": "JasonMartin",
+          "url": "https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn"
+        },
+        {
+          "name": "Dj Flippp",
+          "url": "https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147636,
+      "name": "Everybody Ain't Gone Get You",
+      "url": "https://open.spotify.com/track/1QlE4n5fvPln745z2BdtRR"
     },
     {
       "album": {
@@ -15365,6 +15427,28 @@
     },
     {
       "album": {
+        "name": "BE VERY AFRAID (Vol. 1)",
+        "url": "https://open.spotify.com/album/4K9r7DoXIz7ZsD1P6nsZz1"
+      },
+      "artists": [
+        {
+          "name": "CHASE B",
+          "url": "https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD"
+        },
+        {
+          "name": "bribandz",
+          "url": "https://open.spotify.com/artist/1Rby23c3XSbpyRI9bg2Y4z"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157744,
+      "name": "INDIE**",
+      "url": "https://open.spotify.com/track/0aOyq78Rz4j0Y1IAVDN8fK"
+    },
+    {
+      "album": {
         "name": "Internet Shooter (Remix)",
         "url": "https://open.spotify.com/album/0SvfiyHkKuPSMu4t6o6BFM"
       },
@@ -16546,7 +16630,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 192037,
       "name": "Leanin",
       "url": "https://open.spotify.com/track/6iPo21Q3Yw3k2kWuURTNGM"
@@ -17864,7 +17948,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 133704,
       "name": "Look Good",
       "url": "https://open.spotify.com/track/7AkDDcRNpInFrhEUz6Sl0s"
@@ -21692,10 +21776,32 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 189728,
       "name": "ONE23456",
       "url": "https://open.spotify.com/track/4bhsYvP57luFJ8eDIx80pI"
+    },
+    {
+      "album": {
+        "name": "Onetake",
+        "url": "https://open.spotify.com/album/3iDBJEWJB7TJmKqj8qGZk3"
+      },
+      "artists": [
+        {
+          "name": "ALLBLACK",
+          "url": "https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD"
+        },
+        {
+          "name": "One Take Studios",
+          "url": "https://open.spotify.com/artist/4upehosywGOsq7Pub0dfHE"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155375,
+      "name": "Onetake",
+      "url": "https://open.spotify.com/track/1pxFyeSk93gM5G8lawVk8j"
     },
     {
       "album": {
@@ -24914,7 +25020,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 158797,
       "name": "Round Me",
       "url": "https://open.spotify.com/track/67BtrWFeJfef2l3VabMY0T"
@@ -26048,7 +26154,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 183061,
       "name": "Shook Da Game",
       "url": "https://open.spotify.com/track/2ZDgdKFdGqjCEtQ4GkQgmq"
@@ -27581,6 +27687,24 @@
     },
     {
       "album": {
+        "name": "STFU",
+        "url": "https://open.spotify.com/album/16jPqNPDoXVX4or5w1fFEw"
+      },
+      "artists": [
+        {
+          "name": "Younginsosleaze",
+          "url": "https://open.spotify.com/artist/02M8bIxB70TDLqRZGS5g3o"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114964,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/65qLMJnpWBAUM0a53Vjqd9"
+    },
+    {
+      "album": {
         "name": "Stick Up",
         "url": "https://open.spotify.com/album/4xgzvXXMVNgz9VSaomSVTa"
       },
@@ -27752,6 +27876,32 @@
       "duration_ms": 150173,
       "name": "Still Mackin",
       "url": "https://open.spotify.com/track/6XX4qMCPFOaYnQoDskW3My"
+    },
+    {
+      "album": {
+        "name": "Still Nothing",
+        "url": "https://open.spotify.com/album/5e4Hjx3RnsVEJEjnECpyQv"
+      },
+      "artists": [
+        {
+          "name": "Heembeezy",
+          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
+        },
+        {
+          "name": "Blueface",
+          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
+        },
+        {
+          "name": "Fbeat",
+          "url": "https://open.spotify.com/artist/2LU8oJxlxE6E52FNiIdXD0"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160007,
+      "name": "Still Nothing",
+      "url": "https://open.spotify.com/track/0hACM4S2OmnfCxi4kqt1TV"
     },
     {
       "album": {
@@ -28198,6 +28348,24 @@
       "duration_ms": 175656,
       "name": "STUPID - WITH LIL YACHTY & BABYFACE RAY",
       "url": "https://open.spotify.com/track/7wtUI2bKLWZ23GOmzMkU1Q"
+    },
+    {
+      "album": {
+        "name": "Tha Fresh Prince Of V8",
+        "url": "https://open.spotify.com/album/0zqZIF9efwymtl2wsSgaHv"
+      },
+      "artists": [
+        {
+          "name": "JRedie",
+          "url": "https://open.spotify.com/artist/5QiILiVBRaERz33IMZ2ySj"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129882,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/2zLXxupC7CyE2nMKQFG6qd"
     },
     {
       "album": {

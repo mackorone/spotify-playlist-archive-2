@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a Julia Mestre e mais mulheres incr\u00edveis no volume m\u00e1ximo! ",
-  "num_followers": 191874,
+  "num_followers": 191870,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-01-12 14:01:02",
       "album": {
+        "name": "Depois do Fim",
+        "url": "https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc"
+      },
+      "artists": [
+        {
+          "name": "Pilar",
+          "url": "https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe"
+        }
+      ],
+      "duration_ms": 124666,
+      "name": "Depois do Fim",
+      "url": "https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y"
+    },
+    {
+      "added_at": "2026-01-12 14:01:02",
+      "album": {
         "name": "Meu Jeitinho",
         "url": "https://open.spotify.com/album/4zSCdIMdFp2rwYpEhJJ6db"
       },
@@ -655,18 +671,18 @@
     {
       "added_at": "2026-01-12 14:01:02",
       "album": {
-        "name": "Depois do Fim",
-        "url": "https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc"
+        "name": "Disparada",
+        "url": "https://open.spotify.com/album/691VKzDgLirg4O6LLiKklV"
       },
       "artists": [
         {
-          "name": "Pilar",
-          "url": "https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe"
+          "name": "Mari Jasca",
+          "url": "https://open.spotify.com/artist/4xUWxsyfwyGbWz6fdDHbkp"
         }
       ],
-      "duration_ms": 124666,
-      "name": "Depois do Fim",
-      "url": "https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y"
+      "duration_ms": 159698,
+      "name": "Istambul",
+      "url": "https://open.spotify.com/track/7gAx4l83rtiQ5I0X9XYRRd"
     },
     {
       "added_at": "2026-01-12 14:01:02",
@@ -687,22 +703,6 @@
       "duration_ms": 210217,
       "name": "Chamego",
       "url": "https://open.spotify.com/track/5f2MoVVIsUYbFAqA9gUqFq"
-    },
-    {
-      "added_at": "2026-01-12 14:01:02",
-      "album": {
-        "name": "Disparada",
-        "url": "https://open.spotify.com/album/691VKzDgLirg4O6LLiKklV"
-      },
-      "artists": [
-        {
-          "name": "Mari Jasca",
-          "url": "https://open.spotify.com/artist/4xUWxsyfwyGbWz6fdDHbkp"
-        }
-      ],
-      "duration_ms": 159698,
-      "name": "Istambul",
-      "url": "https://open.spotify.com/track/7gAx4l83rtiQ5I0X9XYRRd"
     },
     {
       "added_at": "2026-01-12 14:01:02",

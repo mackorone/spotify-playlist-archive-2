@@ -2799,6 +2799,24 @@
     },
     {
       "album": {
+        "name": "BOTH SIDES - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6bRPrpiUj5AFPkJLcIfMQh"
+      },
+      "artists": [
+        {
+          "name": "NCT JNJM",
+          "url": "https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171600,
+      "name": "BOTH SIDES",
+      "url": "https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK"
+    },
+    {
+      "album": {
         "name": "MAP OF THE SOUL : PERSONA",
         "url": "https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6"
       },
@@ -11208,7 +11226,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 185026,
       "name": "LIKE YOU BETTER",
       "url": "https://open.spotify.com/track/7t4Z19BqZ23ExgdiOP0nf6"

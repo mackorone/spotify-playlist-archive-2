@@ -4,7 +4,7 @@
 
 > All the vibes\. All the feels\. 🫠 🙄
 
-413 songs - 1 day 0 hr 36 min
+414 songs - 1 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Don't Love Me](https://open.spotify.com/track/1hUhr4K3DD2iva88RMVAyY) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Don't Love Me](https://open.spotify.com/album/2A9oeTjP7Fi8s8BVpcBn8G) | 2:47 | 2022-05-13 | 2023-11-09 |
 | [Don't Say](https://open.spotify.com/track/3zpV1pF29S3jPGNY1J8HZo) | [Jex Nwalor](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Don't Say](https://open.spotify.com/album/3t1AbuJrkCU4c8LnWLJMUZ) | 2:35 | 2022-05-13 | 2023-07-26 |
 | [Don't Want A Love Song](https://open.spotify.com/track/7LTovppsXm7ncfRF0lA6q8) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Don't Want A Love Song](https://open.spotify.com/album/3s5TTh0Xv3hEthrOKpRZTe) | 3:03 | 2024-02-28 | 2024-11-16 |
-| [Donna's 407](https://open.spotify.com/track/1K9qK0p56XIVmKtJyV4Ohi) | [Yoko Gold](https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm) | [Donna's 407](https://open.spotify.com/album/1R5QxEzFfjG3VLJlXMYQFt) | 3:37 | 2026-01-16 |  |
+| [Donna's 407](https://open.spotify.com/track/1K9qK0p56XIVmKtJyV4Ohi) | [Yoko Gold](https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm) | [Donna's 407](https://open.spotify.com/album/1R5QxEzFfjG3VLJlXMYQFt) | 3:37 | 2026-01-16 | 2026-02-28 |
 | [Drama \(feat\. Drake\)](https://open.spotify.com/track/0PXp9QxBfSKGGpWUNaws2X) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Exis](https://open.spotify.com/album/2vnPwMLtMXZWGkKsoylsGt) | 4:11 | 2019-05-26\* | 2021-02-11 |
 | [Easily](https://open.spotify.com/track/0RnxpSzxzwZgFQ0NahQr9K) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Song For Every Moon](https://open.spotify.com/album/3IGPQEGAiZZI4Iba81GNq5) | 3:30 | 2022-10-13 | 2024-04-19 |
 | [Easily](https://open.spotify.com/track/2k9N4caeCIJLOWwWwssrEM) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Song For Every Moon](https://open.spotify.com/album/5UFBJXQtytWA9vfaO2DxLx) | 3:30 | 2022-07-28 | 2022-10-13 |
@@ -261,6 +261,7 @@
 | [My Affection \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:33 | 2020-10-22 | 2024-10-26 |
 | [Needed Me](https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:11 | 2024-02-01 |  |
 | [Never Call Me](https://open.spotify.com/track/0WXct4PcELq8Jh1R4Yhw4W) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Kurupt](https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:30 | 2024-11-15 | 2026-01-23 |
+| [Nightingale Lane.](https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Nightingale Lane.](https://open.spotify.com/album/22FLublraJkicHyrK2egu0) | 5:02 | 2026-02-27 |  |
 | [Nights Like This \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6ZRuF2n1CQxyxxAAWsKJOy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [While We Wait](https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW) | 3:21 | 2020-03-05 |  |
 | [Nikes](https://open.spotify.com/track/19YKaevk2bce4odJkP5L22) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 5:14 | 2019-06-19\* | 2021-02-11 |
 | [No Feelings](https://open.spotify.com/track/7KQPINPzT8M3ynLnWhl45M) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [No Feelings](https://open.spotify.com/album/4JUDavAIny5Dww4tFD712w) | 2:49 | 2023-04-21 | 2023-07-08 |

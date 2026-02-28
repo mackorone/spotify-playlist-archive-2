@@ -641,6 +641,24 @@
     },
     {
       "album": {
+        "name": "Ay Dieguito",
+        "url": "https://open.spotify.com/album/3SYYvFKrvzAbsLhxrH4goD"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170284,
+      "name": "Ay Dieguito",
+      "url": "https://open.spotify.com/track/57jY51VJ9iyZBP5DGFwQpP"
+    },
+    {
+      "album": {
         "name": "Baby Good Bye",
         "url": "https://open.spotify.com/album/6KbEVGeenlphljfYkv006m"
       },
@@ -1322,7 +1340,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 175818,
       "name": "CONMIGO",
       "url": "https://open.spotify.com/track/4tqTjLWSw4Tw8cMDeZ7f8t"
@@ -1548,6 +1566,32 @@
       "duration_ms": 177053,
       "name": "Cuando Te Cambian Por Alguien",
       "url": "https://open.spotify.com/track/2vEW1egg6xdTm5WBVopBFe"
+    },
+    {
+      "album": {
+        "name": "Cumbia Popular",
+        "url": "https://open.spotify.com/album/17FiN1tVCiwO5DBFomXpVn"
+      },
+      "artists": [
+        {
+          "name": "Alberto Pedraza",
+          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
+        },
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        },
+        {
+          "name": "Big Sempa",
+          "url": "https://open.spotify.com/artist/5aroBdSzO56ovglkIfI9Uf"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231200,
+      "name": "Cumbia Popular",
+      "url": "https://open.spotify.com/track/5UQBAbemzTyD3LNB3ealHe"
     },
     {
       "album": {
@@ -2236,7 +2280,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 175514,
       "name": "El Primero",
       "url": "https://open.spotify.com/track/0S0r3vr9ekWX28JtCTz02t"
@@ -2628,7 +2672,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 168480,
       "name": "Est\u00e1s Cancelada",
       "url": "https://open.spotify.com/track/2AmgtgMbKtLszGa4Xgh6I0"
@@ -2919,6 +2963,24 @@
     },
     {
       "album": {
+        "name": "La Fiesta En El Rancho, Vol. 3 (En Vivo)",
+        "url": "https://open.spotify.com/album/28aVNb9V0fA9sbnpgorAJg"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172153,
+      "name": "Hoy Toca - En Vivo",
+      "url": "https://open.spotify.com/track/5xQtuCAnheLi8aHXwpHBuM"
+    },
+    {
+      "album": {
         "name": "Hubi\u00e9ramos",
         "url": "https://open.spotify.com/album/1xwButzEr6n5GRwaxIe7yv"
       },
@@ -3060,7 +3122,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 157183,
       "name": "Independiente",
       "url": "https://open.spotify.com/track/1XqzoDf2gOw11MCZj6ra45"
@@ -3659,6 +3721,24 @@
     },
     {
       "album": {
+        "name": "Labios De Cereza 3",
+        "url": "https://open.spotify.com/album/5qtP533GK5rZtlGBl6Gnr4"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216500,
+      "name": "Labios De Cereza 3",
+      "url": "https://open.spotify.com/track/2Lz88eC06q1CcGSIZhPcdR"
+    },
+    {
+      "album": {
         "name": "Las Cosas No Andan Bien",
         "url": "https://open.spotify.com/album/0kZYcBqZGGID3wsY7oBZ89"
       },
@@ -3736,6 +3816,28 @@
       "duration_ms": 171000,
       "name": "Le Pido A Dios",
       "url": "https://open.spotify.com/track/0yBNENttUB9vKhgdTM5sfH"
+    },
+    {
+      "album": {
+        "name": "Le Reclam\u00e9 A Cupido",
+        "url": "https://open.spotify.com/album/6ZbGUlwaGbv7GmJ57i1isb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176341,
+      "name": "Le Reclam\u00e9 A Cupido",
+      "url": "https://open.spotify.com/track/0YnR66KiP0J4BqDYF3lm4m"
     },
     {
       "album": {
@@ -4417,6 +4519,24 @@
     },
     {
       "album": {
+        "name": "MEJORES PASOS",
+        "url": "https://open.spotify.com/album/09MDaH5lux6DddzHIKiiWu"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227272,
+      "name": "MEJORES PASOS",
+      "url": "https://open.spotify.com/track/2O0YSN8ReTbm777LSCFu5S"
+    },
+    {
+      "album": {
         "name": "Menos Mal Que Me Quer\u00edas",
         "url": "https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW"
       },
@@ -4744,7 +4864,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 213701,
       "name": "Mor\u00ed",
       "url": "https://open.spotify.com/track/7y6AeEz1yfkdagSUUEIB0m"
@@ -5064,7 +5184,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 208056,
       "name": "No Nos Tocaba",
       "url": "https://open.spotify.com/track/4ExNmJ5ng48ZIE5VG4Qdrk"
@@ -5582,7 +5702,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 162754,
       "name": "Paris",
       "url": "https://open.spotify.com/track/28l1udoqUpzAcJ0ZgVI4d1"
@@ -7225,6 +7345,28 @@
     },
     {
       "album": {
+        "name": "Tu Publicidad",
+        "url": "https://open.spotify.com/album/1Tu8EwcdOYofVo4zcVtYYC"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        },
+        {
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159941,
+      "name": "Tu Publicidad",
+      "url": "https://open.spotify.com/track/4E21OYLs0wgbYFeIeDvHK7"
+    },
+    {
+      "album": {
         "name": "Tu Reemplazo",
         "url": "https://open.spotify.com/album/1HFqzGl3rwhmPIhELtK8fE"
       },
@@ -7422,7 +7564,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 169504,
       "name": "Una Patada en los Huevos",
       "url": "https://open.spotify.com/track/1ZSW8N6H9961XO6iDJiDWw"
@@ -7586,6 +7728,24 @@
       "duration_ms": 155000,
       "name": "Volv\u00ed a volver",
       "url": "https://open.spotify.com/track/0XLuOdsBPOVYulTaZgflzw"
+    },
+    {
+      "album": {
+        "name": "Voy A Danzar",
+        "url": "https://open.spotify.com/album/5qf40xpnZPuWGNbP8Irkom"
+      },
+      "artists": [
+        {
+          "name": "COSME TADEO",
+          "url": "https://open.spotify.com/artist/5QdiBib4DcTwhC2ayhRyK6"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150272,
+      "name": "Voy A Danzar",
+      "url": "https://open.spotify.com/track/3yEN3zuRJjpugCmTNKwigZ"
     },
     {
       "album": {

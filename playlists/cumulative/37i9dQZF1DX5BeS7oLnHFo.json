@@ -663,6 +663,24 @@
     },
     {
       "album": {
+        "name": "Jabaha Le Ahlo",
+        "url": "https://open.spotify.com/album/0sy0PPYClrTSRGz8CCFmTT"
+      },
+      "artists": [
+        {
+          "name": "Slow Moe",
+          "url": "https://open.spotify.com/artist/5ws4gBwkGLUzjVxhvw4Kwd"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167301,
+      "name": "Jabaha Le Ahlo",
+      "url": "https://open.spotify.com/track/5Wran1wG54f2w0tnV8BmBI"
+    },
+    {
+      "album": {
         "name": "Jiddo",
         "url": "https://open.spotify.com/album/0SladTRgQhrI8r1zZt62gY"
       },

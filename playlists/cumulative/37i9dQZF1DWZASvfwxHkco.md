@@ -2,9 +2,9 @@
 
 ### [mint Japan](https://open.spotify.com/playlist/37i9dQZF1DWZASvfwxHkco)
 
-> 世界中で話題のエレクトロニック・ダンスミュージックを一つのプレイリストに！Cover: Robin Schulz
+> 世界中で話題のエレクトロニック・ダンスミュージックを一つのプレイリストに！Cover: Silva Bumpa
 
-736 songs - 1 day 13 hr 54 min
+737 songs - 1 day 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,6 +388,7 @@
 | [Levitating](https://open.spotify.com/track/2rpop76oW4FQlZJHIZo7Cj) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 4:03 | 2024-10-18 | 2024-11-21 |
 | [Life, Dream, Love](https://open.spotify.com/track/0M6Xd82gmkSV5dvA6Jht3r) | [Daishi Dance](https://open.spotify.com/artist/01HEACGPo5xyiXgAJKEvxQ), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Oh Jieun](https://open.spotify.com/artist/0yhoq5pPSa7eCpA65358cU), [Himekami](https://open.spotify.com/artist/7F1bUE2y2JjoReZ4hESAAV) | [Life, Dream, Love](https://open.spotify.com/album/0qUWCYFJilaDox1l7PAF8P) | 3:52 | 2023-03-23 | 2023-07-07 |
 | [lift off!](https://open.spotify.com/track/1lsuQNbQXg0smdcAaRpmja) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [lift off!](https://open.spotify.com/album/5PCGG2ken65WpPN06uqa08) | 3:34 | 2024-07-11 | 2024-08-23 |
+| [Lifting](https://open.spotify.com/track/5FYqQZJG2PRl2WqttIseZ1) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Lifting](https://open.spotify.com/album/3cSNiUGgO7a6IcGANlCsJg) | 2:51 | 2026-02-27 |  |
 | [light years \(feat\. Inéz\)](https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [light years \(feat\. Inéz\)](https://open.spotify.com/album/3Ze2F3oYCJnaotDZBVWMkI) | 3:40 | 2025-07-03 |  |
 | [Lighter](https://open.spotify.com/track/0yfuV7ZI2e4baQxZUBegUr) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Lighter](https://open.spotify.com/album/6QmqxSyG8tSOBIVXgOc875) | 3:06 | 2025-06-26 | 2025-08-28 |
 | [Lighter](https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Lighter](https://open.spotify.com/album/2cmZbWwfMq8VCGN4gqCZn7) | 2:52 | 2024-02-29 | 2024-06-23 |
@@ -716,7 +717,7 @@
 | [Where Do We Go From Here](https://open.spotify.com/track/4lBzqpBdqz0woQOnWHUzjw) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Where Do We Go From Here](https://open.spotify.com/album/13yQEoJ6hDD560qMei009H) | 2:48 | 2023-06-22 | 2023-07-14 |
 | [Where You Want](https://open.spotify.com/track/43wKRbV4ZvC6AoCR05zGMh) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Where You Want](https://open.spotify.com/album/1Pl10i0UUrGwR7JYIywlR4) | 2:18 | 2023-06-08 | 2023-07-14 |
 | [Wherever You Are](https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Wherever You Are](https://open.spotify.com/album/7hjd1WmWPqTyrPGDaywQjK) | 3:27 | 2024-06-06 | 2024-07-19 |
-| [Whisper](https://open.spotify.com/track/1YKj3JAaVsKsAD2w6yO8rA) | [YUTO](https://open.spotify.com/artist/0TAfkV5380gOIJjxMtU8dA) | [Whisper](https://open.spotify.com/album/4ZxXCHzIXofTQ0WlX9ERE9) | 2:53 | 2026-02-19 |  |
+| [Whisper](https://open.spotify.com/track/1YKj3JAaVsKsAD2w6yO8rA) | [YUTO](https://open.spotify.com/artist/0TAfkV5380gOIJjxMtU8dA) | [Whisper](https://open.spotify.com/album/4ZxXCHzIXofTQ0WlX9ERE9) | 2:53 | 2026-02-19 | 2026-02-28 |
 | [WHISTLE](https://open.spotify.com/track/2g0lcbepYzcfts6khNOUpL) | [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl) | [WHISTLE](https://open.spotify.com/album/76oXPkkbhtHmG0UkuZZqDW) | 2:11 | 2025-01-16 | 2025-01-25 |
 | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj) | 3:01 | 2023-03-16 | 2025-06-06 |
 | [White Wine & Adderall](https://open.spotify.com/track/1AApldBkudH6jZAE9ucdUF) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Beau Nox](https://open.spotify.com/artist/72N0ykdq9YlISwQcV7bJkq) | [White Wine & Adderall](https://open.spotify.com/album/4vTJsW6CuwXP0Rs3SCaSSK) | 2:58 | 2025-07-10 | 2025-11-30 |

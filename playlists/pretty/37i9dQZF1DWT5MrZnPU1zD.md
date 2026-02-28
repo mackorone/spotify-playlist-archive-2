@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,685,464 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,685,456 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 47 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 |
 | 48 | [CRG \(feat\. Dave\)](https://open.spotify.com/track/5tgSjvWO685Z0mYKefArMI) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 3:02 |
 | 49 | [NISSAN ALTIMA](https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:06 |
-| 50 | [WHATCHU KNO ABOUT ME \(feat\. Sexyy Red\)](https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:29 |
-| 51 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 |
+| 50 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 |
+| 51 | [WHATCHU KNO ABOUT ME \(feat\. Sexyy Red\)](https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:29 |
 | 52 | [ONE CALL](https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Ghetto Fabulous](https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT) | 2:01 |
 | 53 | [Stuff \(feat\. Travis Scott\)](https://open.spotify.com/track/6JvIjI8H3yxpigROd3Cv9N) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [WHAM \(Extended Version\)](https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy) | 3:00 |
 | 54 | [First Person Shooter \(feat\. J\. Cole\)](https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:07 |
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 80 | [at my purest \(feat\. Offset\)](https://open.spotify.com/track/338HvC3y58zPScamNZu4Dr) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:13 |
 | 81 | [all of me](https://open.spotify.com/track/2FoahzOSxJnalPA8aBUme3) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:18 |
 | 82 | [cLOUDs](https://open.spotify.com/track/53WWD2BBC6Jcip8wy5CniE) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [cLOUDs](https://open.spotify.com/album/4UbmhAK4sQ7FCNk9jr9Gex) | 4:02 |
-| 83 | [kAHpE](https://open.spotify.com/track/1oOkZEqPrAQLpwBsiYKRl8) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0), [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [kAHpE](https://open.spotify.com/album/4LJKT3syN0IUiZY4PIz2EQ) | 2:21 |
+| 83 | [Run It Up \(feat\. Key Glock\)](https://open.spotify.com/track/73EKQrgYNVwOaKdwh5a1PV) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [KIARI](https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr) | 3:14 |
 | 84 | [Fat Juicy & Wet](https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Fat Juicy & Wet](https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa) | 2:21 |
-| 85 | [Run It Up \(feat\. Key Glock\)](https://open.spotify.com/track/73EKQrgYNVwOaKdwh5a1PV) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [KIARI](https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr) | 3:14 |
+| 85 | [kAHpE](https://open.spotify.com/track/1oOkZEqPrAQLpwBsiYKRl8) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0), [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [kAHpE](https://open.spotify.com/album/4LJKT3syN0IUiZY4PIz2EQ) | 2:21 |
 | 86 | [COCAINE NOSE](https://open.spotify.com/track/4rXxjHSAglOynjIF8Z34dx) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:31 |
 | 87 | [him all along](https://open.spotify.com/track/2EKL77lwxvo615Ga7VjEUl) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [him all along](https://open.spotify.com/album/5HoNV9xqGbGufrIFH271dR) | 2:38 |
 | 88 | [LET HER COOK](https://open.spotify.com/track/1nF1SpkNfgPPozcXh2hvGU) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:35 |

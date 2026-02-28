@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "Rianat Al Oud",
+        "url": "https://open.spotify.com/album/5Gyroft1reG87xqVZFt0Of"
+      },
+      "artists": [
+        {
+          "name": "Nayaf Turke",
+          "url": "https://open.spotify.com/artist/10NuRk2vnofrC6E9OBJ9CS"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Rianat Al Oud",
+      "url": "https://open.spotify.com/track/6092GHYPCT7MH0x8YAlcjs"
+    },
+    {
+      "album": {
         "name": "Sattar",
         "url": "https://open.spotify.com/album/5zTkn4lFoPfW09RREtNxmr"
       },
@@ -844,6 +862,24 @@
       "duration_ms": 236400,
       "name": "\u0627\u0628\u062a\u0633\u0645 \u062d\u0638\u064a",
       "url": "https://open.spotify.com/track/6tq9jgbW0xDb1MHRbc2tJf"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0628\u0631\u0642\u064a \u064a\u0627\u0645\u0632\u0648\u0646 \u0648\u062e\u064a\u0644\u064a \u064a\u0627 \u0633\u062d\u0627\u0628\u0647",
+        "url": "https://open.spotify.com/album/7Am0Y5npur39jpjfGYMyEm"
+      },
+      "artists": [
+        {
+          "name": "\u062e\u0627\u0644\u062f \u0627\u0644\u0634\u0644\u064a\u0647",
+          "url": "https://open.spotify.com/artist/4hYWBAhCbEfUCYxYY3jAzc"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173952,
+      "name": "\u0627\u0628\u0631\u0642\u064a \u064a\u0627\u0645\u0632\u0648\u0646 \u0648\u062e\u064a\u0644\u064a \u064a\u0627 \u0633\u062d\u0627\u0628\u0647",
+      "url": "https://open.spotify.com/track/2XpBJpknx9FiMO1PZUBsHG"
     },
     {
       "album": {
@@ -2788,7 +2824,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 248617,
       "name": "\u0634\u064a\u0644\u0629 \u062a\u0627\u062c \u0627\u0644\u0630\u0647\u0628",
       "url": "https://open.spotify.com/track/7ofLEVQt3Np8VMvXtU8zzn"
@@ -4848,7 +4884,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 216320,
       "name": "\u064a\u0627\u062f\u0646\u064a\u0627 \u0645\u0646 \u0627\u0646\u062a\u064a \u0644\u0647",
       "url": "https://open.spotify.com/track/0e9lHail7OcanmIC4vuKZB"

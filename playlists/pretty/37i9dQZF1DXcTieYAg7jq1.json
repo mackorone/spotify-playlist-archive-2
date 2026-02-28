@@ -1,13 +1,29 @@
 {
-  "description": "Featuring that new vintage. Cover: Olivia Dean",
-  "num_followers": 433039,
+  "description": "Featuring that new vintage. Cover: Alex Sampson",
+  "num_followers": 433139,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJHpC3JJdJCO0xAF7hvMj16zeVin",
+  "snapshot_id": "AAAAALtpwykCEtgMBiNcTeB9uOJkS2kX",
   "tracks": [
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Pretty Baby",
+        "url": "https://open.spotify.com/album/3r1xlXd5nl8DgO9RGJWZZO"
+      },
+      "artists": [
+        {
+          "name": "Alex Sampson",
+          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
+        }
+      ],
+      "duration_ms": 203522,
+      "name": "Pretty Baby",
+      "url": "https://open.spotify.com/track/78ZGO8OXHHBYg2ZhMNaywU"
+    },
     {
       "added_at": "2025-11-21 05:00:33",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+    },
+    {
+      "added_at": "2026-02-27 05:00:42",
+      "album": {
+        "name": "Leaving Me Lonely",
+        "url": "https://open.spotify.com/album/1NLZrqKes9GNSOzh4NUc0o"
+      },
+      "artists": [
+        {
+          "name": "tig3r lewis",
+          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
+        }
+      ],
+      "duration_ms": 192954,
+      "name": "Leaving Me Lonely",
+      "url": "https://open.spotify.com/track/2BhjFbZKCY6GqJfCOuiQWf"
     },
     {
       "added_at": "2026-02-06 05:50:36",
@@ -41,6 +73,38 @@
       "url": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"
     },
     {
+      "added_at": "2026-02-27 05:00:42",
+      "album": {
+        "name": "Let Me Love You",
+        "url": "https://open.spotify.com/album/105LdQFucx264gr5MMo2AX"
+      },
+      "artists": [
+        {
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+        }
+      ],
+      "duration_ms": 193181,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/4X2wd4grYiRaGjS75UncRA"
+    },
+    {
+      "added_at": "2026-02-27 05:00:42",
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 174676,
+      "name": "On My Soul",
+      "url": "https://open.spotify.com/track/4i4BVY2JiH4mDSLIBdNGKD"
+    },
+    {
       "added_at": "2026-02-23 17:14:33",
       "album": {
         "name": "prettyboy",
@@ -55,22 +119,6 @@
       "duration_ms": 152125,
       "name": "prettyboy",
       "url": "https://open.spotify.com/track/2ZhGio1HmhJWHI4D4B9FET"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Pretty Baby",
-        "url": "https://open.spotify.com/album/3r1xlXd5nl8DgO9RGJWZZO"
-      },
-      "artists": [
-        {
-          "name": "Alex Sampson",
-          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
-        }
-      ],
-      "duration_ms": 203522,
-      "name": "Pretty Baby",
-      "url": "https://open.spotify.com/track/78ZGO8OXHHBYg2ZhMNaywU"
     },
     {
       "added_at": "2026-02-13 05:00:31",
@@ -89,6 +137,22 @@
       "url": "https://open.spotify.com/track/7jzAGxJ1mdurwfeWFZYi1B"
     },
     {
+      "added_at": "2026-02-27 05:00:42",
+      "album": {
+        "name": "CLOSER",
+        "url": "https://open.spotify.com/album/79RidR74CEG7BPWt7MrFfG"
+      },
+      "artists": [
+        {
+          "name": "Justin Jesso",
+          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
+        }
+      ],
+      "duration_ms": 182664,
+      "name": "CLOSER",
+      "url": "https://open.spotify.com/track/70SphmUAaMjESCWLOc9eGX"
+    },
+    {
       "added_at": "2026-02-20 05:00:45",
       "album": {
         "name": "Gone",
@@ -103,6 +167,22 @@
       "duration_ms": 182760,
       "name": "Gone",
       "url": "https://open.spotify.com/track/5ZtPofuIcSv3Lov9TiNyiE"
+    },
+    {
+      "added_at": "2026-02-27 05:00:42",
+      "album": {
+        "name": "Nightingale Lane.",
+        "url": "https://open.spotify.com/album/22FLublraJkicHyrK2egu0"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 302623,
+      "name": "Nightingale Lane.",
+      "url": "https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF"
     },
     {
       "added_at": "2026-02-13 05:00:31",
@@ -1585,38 +1665,6 @@
       "url": "https://open.spotify.com/track/76PSAnoPnMEzF4xmflptce"
     },
     {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "This Time",
-        "url": "https://open.spotify.com/album/6oOpy2bMqIoqFdK0vSfHxR"
-      },
-      "artists": [
-        {
-          "name": "Michael Carreon",
-          "url": "https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC"
-        }
-      ],
-      "duration_ms": 201993,
-      "name": "This Time",
-      "url": "https://open.spotify.com/track/35xac9lrVm5jCNRtgxoYAS"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "The Only One",
-        "url": "https://open.spotify.com/album/2cVihQPUCaJb7cHAVvKOsh"
-      },
-      "artists": [
-        {
-          "name": "Jon McLaughlin",
-          "url": "https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7"
-        }
-      ],
-      "duration_ms": 175567,
-      "name": "The Only One",
-      "url": "https://open.spotify.com/track/7EPtycDSH6iVx1a3Adgy9x"
-    },
-    {
       "added_at": "2023-08-04 04:01:00",
       "album": {
         "name": "Mr Right (with Meghan Trainor)",
@@ -1637,26 +1685,6 @@
       "url": "https://open.spotify.com/track/0nNARbTLwzLGz51aUEZPnp"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
-        "name": "Cupid \u2013 Twin Ver. (feat. Sabrina Carpenter)",
-        "url": "https://open.spotify.com/album/0Q4tlx5e1q5IJl44nb49rv"
-      },
-      "artists": [
-        {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        },
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 173801,
-      "name": "Cupid \u2013 Twin Ver. (feat. Sabrina Carpenter)",
-      "url": "https://open.spotify.com/track/28PCjIXE4NJWDIqpRsD3rl"
-    },
-    {
       "added_at": "2023-11-10 05:01:00",
       "album": {
         "name": "Big Dumb Heart",
@@ -1671,38 +1699,6 @@
       "duration_ms": 216314,
       "name": "Big Dumb Heart",
       "url": "https://open.spotify.com/track/3T9wo7kdEAOy1h5h7kh5dw"
-    },
-    {
-      "added_at": "2024-02-02 05:01:00",
-      "album": {
-        "name": "They Don't Come Better",
-        "url": "https://open.spotify.com/album/2AhtPRZUB0Gox517fVb2cC"
-      },
-      "artists": [
-        {
-          "name": "Alex Lambert",
-          "url": "https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN"
-        }
-      ],
-      "duration_ms": 181435,
-      "name": "They Don't Come Better",
-      "url": "https://open.spotify.com/track/2OshKfBMN3KFj7t7stkihZ"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
-        "name": "Northeast",
-        "url": "https://open.spotify.com/album/53zANEuf1AA2i28x5gxK9G"
-      },
-      "artists": [
-        {
-          "name": "Matt Duncan",
-          "url": "https://open.spotify.com/artist/7gRH7pJQJaAvrwvi8STYEl"
-        }
-      ],
-      "duration_ms": 220733,
-      "name": "Northeast",
-      "url": "https://open.spotify.com/track/0K1X5e2Rc851vP4WLnBzti"
     },
     {
       "added_at": "2024-02-16 05:01:00",

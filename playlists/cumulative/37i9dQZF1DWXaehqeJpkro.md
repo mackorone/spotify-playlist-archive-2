@@ -4,7 +4,7 @@
 
 > 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: 한로로 \(HANRORO\)\)
 
-346 songs - 22 hr 34 min
+347 songs - 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [나에게로의 초대 \(이상한 나라의 앨리스, 하트다 하트여왕\)](https://open.spotify.com/track/36T8e5FIQmZi5YfQxMD5N6) | [조유진\(체리필터\)](https://open.spotify.com/artist/5KS8h7iTuXp0akGRxQR4Lp), [Park Ki Young](https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN) | [Mask Singer 89th \(Live Version\)](https://open.spotify.com/album/1ENEUEoePVttOplQtndCih) | 4:06 | 2023-02-16 | 2024-04-19 |
 | [나였으면](https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [중독](https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK) | 4:22 | 2025-02-14 |  |
 | [남자를 몰라](https://open.spotify.com/track/14X8vgIFfedRp3Yh8ocLYw) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [Perfect](https://open.spotify.com/album/3REFgNSvxgTma5ABhy3u4W) | 4:12 | 2025-02-14 |  |
+| [내 머리가 나빠서](https://open.spotify.com/track/7k1zf9Ch2n8dgNQ0UxbxJ9) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [꽃보다 남자 \(Original Television Soundtrack\)](https://open.spotify.com/album/4jMu4ZrYUtiQNHIZvS42oR) | 4:23 | 2026-02-27 |  |
 | [내가 저지른 사랑](https://open.spotify.com/track/6s5QnuRQq0ANOo1pkz7mJv) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [I'M](https://open.spotify.com/album/6Z2EMjSuDFt6BHXgn479zw) | 3:58 | 2022-02-17 |  |
 | [내가 저지른 사랑](https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [I'M](https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa) | 3:58 | 2022-02-23 | 2024-04-19 |
 | [눈,코,입 \(Eyes, Nose, Lips\)](https://open.spotify.com/track/0lYtIvI7bO51PZSeK22Mbz) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [RISE](https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3) | 3:49 | 2025-02-14 |  |

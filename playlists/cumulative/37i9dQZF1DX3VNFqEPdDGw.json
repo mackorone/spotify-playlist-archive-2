@@ -1722,7 +1722,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-26",
+      "date_removed": null,
       "duration_ms": 163313,
       "name": "Chann Chann",
       "url": "https://open.spotify.com/track/4Q6iaeekTwBzCcbX3s4z4P"
@@ -3274,12 +3274,12 @@
           "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
         },
         {
-          "name": "Desi Crew",
-          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
-        },
-        {
           "name": "Sultaan",
           "url": "https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
         }
       ],
       "date_added": "2026-02-20",
@@ -4038,7 +4038,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 172360,
       "name": "Jawani",
       "url": "https://open.spotify.com/track/2RvFLJn8BJeBriyr9UmxUe"
@@ -7708,7 +7708,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 170342,
       "name": "SUPREME",
       "url": "https://open.spotify.com/track/5nUAZKw9lVbhKfWvWc5hFm"
@@ -8294,6 +8294,32 @@
       "duration_ms": 160500,
       "name": "Tohar",
       "url": "https://open.spotify.com/track/4CZx0gfW8LXumFWN4HKqfN"
+    },
+    {
+      "album": {
+        "name": "Tohr Aap Boldi (From \"Ishqa'n De Lekhe\")",
+        "url": "https://open.spotify.com/album/5uGU1SLi9ZCen5irNVSmx2"
+      },
+      "artists": [
+        {
+          "name": "Gurnam Bhullar",
+          "url": "https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        },
+        {
+          "name": "Avvy Sra",
+          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145333,
+      "name": "Tohr Aap Boldi (From \"Ishqa'n De Lekhe\")",
+      "url": "https://open.spotify.com/track/3zQaRQn9H0wOlcgKFDSzht"
     },
     {
       "album": {

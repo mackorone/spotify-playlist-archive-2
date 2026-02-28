@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSj6z.md) - [plain]
 
 > This is Sasha Keable\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,431 likes - 48 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,444 likes - 48 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSj6z.md) - [plain]
 | 12 | [AUCTION](https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [AUCTION](https://open.spotify.com/album/3kwxfS6aFImHEPU3XW85CU) | 3:20 |
 | 13 | [Goosebumps](https://open.spotify.com/track/4SelzUrCidrhIGNrICgT0o) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Intermission](https://open.spotify.com/album/0eAt0SPmACBvou4iw4wMzv) | 3:08 |
 | 14 | [Body Language \(feat\. Sasha Keable\)](https://open.spotify.com/track/5EUh2m1rTsojG22W7XrCBG) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Body Language \(feat\. Sasha Keable\)](https://open.spotify.com/album/2aeEO30e5qXXujdeJjL7kY) | 4:02 |
-| 15 | [work \(feat\. BEAM\)](https://open.spotify.com/track/1YrDCwELWWKc5f7x2l2SeR) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [ACT II](https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo) | 3:15 |
+| 15 | [FEEL SOMETHING](https://open.spotify.com/track/20QCGkd9sKJKuBbkWUkb3b) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [ACT II](https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo) | 2:32 |
 | 16 | [can't stop](https://open.spotify.com/track/266NPG21d1RGm5GHxchVF3) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [act right](https://open.spotify.com/album/4YVaV9ViXndugkvyBOBGxX) | 3:08 |
 | 17 | [Never Knew Love \- Acoustic](https://open.spotify.com/track/7HbyOxKUYsosCdb4nyT2Gb) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Never Knew Love \(Acoustic\)](https://open.spotify.com/album/6VaBt5XWwf2Lt08NnaXS9x) | 3:34 |
 | 18 | [Take Your Time \(feat\. 6lack\)](https://open.spotify.com/track/36zutQQkUnFPbLYIcVxJi8) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Take Your Time \(feat\. 6lack\)](https://open.spotify.com/album/2wLeTuNrfg5OVQ5OLbghX6) | 3:55 |
-| 19 | [FEEL SOMETHING](https://open.spotify.com/track/20QCGkd9sKJKuBbkWUkb3b) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [ACT II](https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo) | 2:32 |
+| 19 | [work \(feat\. BEAM\)](https://open.spotify.com/track/1YrDCwELWWKc5f7x2l2SeR) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [ACT II](https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo) | 3:15 |
 | 20 | [Killing Me](https://open.spotify.com/track/35KBVb0GWD9u0IGMRSNMEL) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Killing Me](https://open.spotify.com/album/7FTJjjKgVJhOHiGJ66tpbk) | 3:25 |
 | 21 | [Exception](https://open.spotify.com/track/0pbPiK8zJedhwBHOKPz9Fx) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Intermission](https://open.spotify.com/album/0eAt0SPmACBvou4iw4wMzv) | 4:06 |
 | 22 | [Voices](https://open.spotify.com/track/21Hi6CcF4daxzk9ZYurhTx) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Settle \(Special Edition\)](https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E) | 4:09 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSj6z.md) - [plain]
 | 28 | [That's the Shit](https://open.spotify.com/track/4yV3QkskfPf2dRJMBbVTqk) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [That's the Shit](https://open.spotify.com/album/2oAse00yR0sZoTByqVvmxn) | 3:06 |
 | 29 | [Opening Arms](https://open.spotify.com/track/229Enf6eB8tVscej1QD2qd) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Intermission](https://open.spotify.com/album/0eAt0SPmACBvou4iw4wMzv) | 2:50 |
 | 30 | [Mr Always Impatient](https://open.spotify.com/track/5nrp9PophCkuzDLAcB6gz5) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [MAN](https://open.spotify.com/album/46Bvrf0vtjTYqgtA6Cwlde) | 3:46 |
-| 31 | [Middle of Eden](https://open.spotify.com/track/5fBge6qhvBUQi9xYFP6Ncs) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 3:06 |
-| 32 | [Treat Me Like I'm All Yours](https://open.spotify.com/track/3PNLXPBiS5XK2Luibg8Fum) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Treat Me Like I'm All Yours](https://open.spotify.com/album/0ntuQXHcdJqSbyMQ0zlxx7) | 4:04 |
+| 31 | [Treat Me Like I'm All Yours](https://open.spotify.com/track/3PNLXPBiS5XK2Luibg8Fum) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Treat Me Like I'm All Yours](https://open.spotify.com/album/0ntuQXHcdJqSbyMQ0zlxx7) | 4:04 |
+| 32 | [Middle of Eden](https://open.spotify.com/track/5fBge6qhvBUQi9xYFP6Ncs) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 3:06 |
 | 33 | [My Mind](https://open.spotify.com/track/2DHQEF0doMJABIjOjDVKZm) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Intermission](https://open.spotify.com/album/0eAt0SPmACBvou4iw4wMzv) | 4:32 |
 | 34 | [Chase Me](https://open.spotify.com/track/1IvfYmvPAkS3PpIEZxNp5B) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [Honey](https://open.spotify.com/album/1rdVX1CfqEydMADUJAVVXB) | 3:25 |
 | 35 | [Only for Tonight](https://open.spotify.com/track/589gA0C2byuvVvySpiBK0z) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Only for Tonight](https://open.spotify.com/album/2It6kbXECr2WZmGCzWGX38) | 4:32 |
@@ -50,11 +50,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSj6z.md) - [plain]
 | 40 | [Memory](https://open.spotify.com/track/2qe9NvP8qqRydUeiruYEnC) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Lemongrass And Limeleaves](https://open.spotify.com/album/2nczM6I5ehnQlf2whl0bXA) | 3:55 |
 | 41 | [Asking For More](https://open.spotify.com/track/1ntJgWD4ep3UsfgzLUTf0U) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 4:08 |
 | 42 | [Living Without You](https://open.spotify.com/track/65eH29VKJ1qN6bR7dlgCEZ) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Lemongrass And Limeleaves](https://open.spotify.com/album/2nczM6I5ehnQlf2whl0bXA) | 3:17 |
-| 43 | [Nice Side](https://open.spotify.com/track/59isfjFIf1WfzKfy5y5n7S) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 3:23 |
+| 43 | [Daydreamer](https://open.spotify.com/track/7pClETnYn1YVsA3WbsWHv8) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 3:09 |
 | 44 | [Sweetest Talk](https://open.spotify.com/track/5faA5gSW8Yrpp3pxrhuzEn) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Lemongrass And Limeleaves](https://open.spotify.com/album/2nczM6I5ehnQlf2whl0bXA) | 4:22 |
 | 45 | [Spoke To Myself](https://open.spotify.com/track/5CVnpiYwMTNYeJofND7y3x) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 4:28 |
 | 46 | [6”4](https://open.spotify.com/track/7boMN3cAF46JnICNllvhJX) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Lemongrass And Limeleaves](https://open.spotify.com/album/2nczM6I5ehnQlf2whl0bXA) | 4:20 |
-| 47 | [Daydreamer](https://open.spotify.com/track/7pClETnYn1YVsA3WbsWHv8) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 3:09 |
+| 47 | [Nice Side](https://open.spotify.com/track/59isfjFIf1WfzKfy5y5n7S) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 3:23 |
 | 48 | [Tempting As You Are](https://open.spotify.com/track/5XLIhPjfiKJ6MPFR3djTjh) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 4:48 |
 
-Snapshot ID: `aZ47gAAAAAAzea/Lsumjiywdw9h4gV8/`
+Snapshot ID: `aZ+NAAAAAADxgJIgjwaR5/o2A2JlX7Ru`

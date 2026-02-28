@@ -1,6 +1,6 @@
 {
   "description": "Dvorak was deeply passionate about his homeland, traditional folk music, pigeons and train spotting; immerse yourself in his extraordinary world with this essential playlist.",
-  "num_followers": 81046,
+  "num_followers": 81060,
   "original_name": "This Is Dvo\u0159\u00e1k",
   "owner": {
     "name": "Spotify",
@@ -387,26 +387,6 @@
     {
       "added_at": "2025-12-22 11:34:49",
       "album": {
-        "name": "Poetic Tone Pictures, Op.85/VIII. Goblins' Dance",
-        "url": "https://open.spotify.com/album/1c2mXEqwJQ0tjqoyEZD6Wb"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
-        }
-      ],
-      "duration_ms": 194559,
-      "name": "Poetic Tone Pictures, Op.85: VIII. Goblins' Dance",
-      "url": "https://open.spotify.com/track/69cpBS0y62ZcS5HYraDqre"
-    },
-    {
-      "added_at": "2025-12-22 11:34:49",
-      "album": {
         "name": "Dvorak: Slavonic Dances; Miniatures",
         "url": "https://open.spotify.com/album/77gtdVHmeJclSLc34WdUkY"
       },
@@ -431,8 +411,8 @@
     {
       "added_at": "2025-12-22 11:34:49",
       "album": {
-        "name": "Dvor\u00e1k: Symphonies Nos.4-6",
-        "url": "https://open.spotify.com/album/5arfXVZ6Cp45OVLB8EBf0E"
+        "name": "Poetic Tone Pictures, Op.85/VIII. Goblins' Dance",
+        "url": "https://open.spotify.com/album/1c2mXEqwJQ0tjqoyEZD6Wb"
       },
       "artists": [
         {
@@ -440,17 +420,37 @@
           "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
         },
         {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Istv\u00e1n Kert\u00e9sz",
-          "url": "https://open.spotify.com/artist/6QcRHYSvrGdLCS5L7SV4WL"
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
         }
       ],
-      "duration_ms": 587133,
-      "name": "Symphony No. 4 in D Minor, Op. 13, B. 41: IV. Finale. Allegro con brio",
-      "url": "https://open.spotify.com/track/4aO0XveetjfaLtRIIcl56X"
+      "duration_ms": 194559,
+      "name": "Poetic Tone Pictures, Op.85: VIII. Goblins' Dance",
+      "url": "https://open.spotify.com/track/69cpBS0y62ZcS5HYraDqre"
+    },
+    {
+      "added_at": "2025-12-22 11:34:49",
+      "album": {
+        "name": "Dvo\u0159\u00e1k: Overtures & Orchestral Suites",
+        "url": "https://open.spotify.com/album/4z6ieiSUTk7BjyhLmbtc4y"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Czech Philharmonic",
+          "url": "https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb"
+        },
+        {
+          "name": "Libor Pe\u0161ek",
+          "url": "https://open.spotify.com/artist/0f4gYAcahUX8MaZxWQ2PG4"
+        }
+      ],
+      "duration_ms": 901546,
+      "name": "Dvo\u0159\u00e1k: Othello, Op. 93, B. 174",
+      "url": "https://open.spotify.com/track/1MFk4JWh6A4q8TrvqtgpMr"
     },
     {
       "added_at": "2025-12-22 11:34:49",
@@ -479,8 +479,8 @@
     {
       "added_at": "2025-12-22 11:34:49",
       "album": {
-        "name": "Dvo\u0159\u00e1k: Overtures & Orchestral Suites",
-        "url": "https://open.spotify.com/album/4z6ieiSUTk7BjyhLmbtc4y"
+        "name": "Dvor\u00e1k: Symphonies Nos.4-6",
+        "url": "https://open.spotify.com/album/5arfXVZ6Cp45OVLB8EBf0E"
       },
       "artists": [
         {
@@ -488,17 +488,17 @@
           "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
         },
         {
-          "name": "Czech Philharmonic",
-          "url": "https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb"
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
         },
         {
-          "name": "Libor Pe\u0161ek",
-          "url": "https://open.spotify.com/artist/0f4gYAcahUX8MaZxWQ2PG4"
+          "name": "Istv\u00e1n Kert\u00e9sz",
+          "url": "https://open.spotify.com/artist/6QcRHYSvrGdLCS5L7SV4WL"
         }
       ],
-      "duration_ms": 901546,
-      "name": "Dvo\u0159\u00e1k: Othello, Op. 93, B. 174",
-      "url": "https://open.spotify.com/track/1MFk4JWh6A4q8TrvqtgpMr"
+      "duration_ms": 587133,
+      "name": "Symphony No. 4 in D Minor, Op. 13, B. 41: IV. Finale. Allegro con brio",
+      "url": "https://open.spotify.com/track/4aO0XveetjfaLtRIIcl56X"
     },
     {
       "added_at": "2025-12-22 11:34:49",
@@ -547,6 +547,30 @@
     {
       "added_at": "2025-12-22 11:34:49",
       "album": {
+        "name": "Dvor\u00e1k: Symphonies Nos.4-6",
+        "url": "https://open.spotify.com/album/5arfXVZ6Cp45OVLB8EBf0E"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Istv\u00e1n Kert\u00e9sz",
+          "url": "https://open.spotify.com/artist/6QcRHYSvrGdLCS5L7SV4WL"
+        }
+      ],
+      "duration_ms": 680200,
+      "name": "Symphony No. 4 in D Minor, Op. 13, B. 41: II. Andante sostenuto e molto cantabile",
+      "url": "https://open.spotify.com/track/53Ce62vpONLxQUTHCz4yXE"
+    },
+    {
+      "added_at": "2025-12-22 11:34:49",
+      "album": {
         "name": "The Dvorak Album",
         "url": "https://open.spotify.com/album/5fpF7IymM8VdjpTuMsw1SK"
       },
@@ -575,8 +599,8 @@
     {
       "added_at": "2025-12-22 11:34:49",
       "album": {
-        "name": "Dvor\u00e1k: Symphonies Nos.4-6",
-        "url": "https://open.spotify.com/album/5arfXVZ6Cp45OVLB8EBf0E"
+        "name": "Poetic Tone Pictures, Op.85/IX. Serenade",
+        "url": "https://open.spotify.com/album/36qLB0biVdPu8ULEOdDsi3"
       },
       "artists": [
         {
@@ -584,17 +608,13 @@
           "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
         },
         {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Istv\u00e1n Kert\u00e9sz",
-          "url": "https://open.spotify.com/artist/6QcRHYSvrGdLCS5L7SV4WL"
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
         }
       ],
-      "duration_ms": 680200,
-      "name": "Symphony No. 4 in D Minor, Op. 13, B. 41: II. Andante sostenuto e molto cantabile",
-      "url": "https://open.spotify.com/track/53Ce62vpONLxQUTHCz4yXE"
+      "duration_ms": 316861,
+      "name": "Poetic Tone Pictures, Op.85: IX. Serenade",
+      "url": "https://open.spotify.com/track/0SRigmImBiUL3k3Wvm9dy8"
     },
     {
       "added_at": "2025-12-22 11:34:49",
@@ -619,26 +639,6 @@
       "duration_ms": 492266,
       "name": "Dvo\u0159\u00e1k: Symphony No. 5 in F Major, Op. 76, B. 54: II. Andante con moto",
       "url": "https://open.spotify.com/track/6RBeBgl7mZFjo0HSZLHGBL"
-    },
-    {
-      "added_at": "2025-12-22 11:34:49",
-      "album": {
-        "name": "Poetic Tone Pictures, Op.85/IX. Serenade",
-        "url": "https://open.spotify.com/album/36qLB0biVdPu8ULEOdDsi3"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
-        }
-      ],
-      "duration_ms": 316861,
-      "name": "Poetic Tone Pictures, Op.85: IX. Serenade",
-      "url": "https://open.spotify.com/track/0SRigmImBiUL3k3Wvm9dy8"
     },
     {
       "added_at": "2025-12-22 11:34:49",
@@ -719,30 +719,6 @@
     {
       "added_at": "2025-12-22 11:34:49",
       "album": {
-        "name": "Dvo\u0159\u00e1k: Symphony No. 3 in E-Flat Major, B. 34 & Symphony No. 7 in D Minor, B. 141",
-        "url": "https://open.spotify.com/album/4mtwY6uixI0z46Ots4D2cA"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Myung-Whun Chung",
-          "url": "https://open.spotify.com/artist/4hdiwtmc6OEFFxpSlwwmby"
-        }
-      ],
-      "duration_ms": 626999,
-      "name": "Symphony No. 3 in E-Flat Major, Op. 10, B. 34: I. Allegro moderato",
-      "url": "https://open.spotify.com/track/5gkeiHx2YHUq4tmWKJ3Qmq"
-    },
-    {
-      "added_at": "2025-12-22 11:34:49",
-      "album": {
         "name": "Dvor\u00e1k: Cello Concerto / Strauss, R.: Don Quixote",
         "url": "https://open.spotify.com/album/6kSudTkTbOY887IFxotGxT"
       },
@@ -771,6 +747,30 @@
       "duration_ms": 724986,
       "name": "Cello Concerto in B Minor, Op. 104, B. 191: III. Finale (Allegro moderato)",
       "url": "https://open.spotify.com/track/0ygz2fsLGI8OxWoPkprr6D"
+    },
+    {
+      "added_at": "2025-12-22 11:34:49",
+      "album": {
+        "name": "Dvo\u0159\u00e1k: Symphony No. 3 in E-Flat Major, B. 34 & Symphony No. 7 in D Minor, B. 141",
+        "url": "https://open.spotify.com/album/4mtwY6uixI0z46Ots4D2cA"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Myung-Whun Chung",
+          "url": "https://open.spotify.com/artist/4hdiwtmc6OEFFxpSlwwmby"
+        }
+      ],
+      "duration_ms": 626999,
+      "name": "Symphony No. 3 in E-Flat Major, Op. 10, B. 34: I. Allegro moderato",
+      "url": "https://open.spotify.com/track/5gkeiHx2YHUq4tmWKJ3Qmq"
     },
     {
       "added_at": "2025-12-22 11:34:49",

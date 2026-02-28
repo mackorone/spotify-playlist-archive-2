@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82SvZY6fOWx.md) - [plain]
 
 > Walk on sunshine or dance on the ceiling with some feel good 80s Pop!
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,084 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,086 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,16 +28,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82SvZY6fOWx.md) - [plain]
 | 18 | [Wake Me Up Before You Go\-Go](https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Make It Big](https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI) | 3:51 |
 | 19 | [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 |
 | 20 | [Right Here Waiting](https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Repeat Offender](https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG) | 4:24 |
-| 21 | [Tainted Love](https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 2:33 |
-| 22 | [The Final Countdown](https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 5:10 |
+| 21 | [The Final Countdown](https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 5:10 |
+| 22 | [Tainted Love](https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 2:33 |
 | 23 | [Rosanna](https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 5:30 |
 | 24 | [Alone](https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 3:38 |
 | 25 | [I Just Called To Say I Love You](https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z) | 4:22 |
 | 26 | [Careless Whisper](https://open.spotify.com/track/5WDLRQ3VCdVrKw0njWe5E5) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 5:00 |
 | 27 | [Walking On Sunshine](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Katrina & The Waves](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) | 3:58 |
 | 28 | [She Drives Me Crazy](https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw & The Cooked](https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F) | 3:35 |
-| 29 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 |
-| 30 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:46 |
+| 29 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:46 |
+| 30 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 |
 | 31 | [We Didn't Start the Fire](https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Storm Front](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) | 4:51 |
 | 32 | [You Can't Hurry Love \- 2016 Remaster](https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Hello, I Must Be Going! \(Deluxe Edition\)](https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M) | 2:55 |
 | 33 | [Karma Chameleon \- Remastered 2002](https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [Colour By Numbers \(Remastered / Expanded Edition\)](https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY) | 4:12 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82SvZY6fOWx.md) - [plain]
 | 44 | [Hungry Like the Wolf \- 2009 Remaster](https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 3:40 |
 | 45 | [How Will I Know](https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:29 |
 | 46 | [I'm So Excited](https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [So Excited! \(Expanded Edition\)](https://open.spotify.com/album/4iqsNkST0v1aaL3S0Fd4XS) | 3:50 |
-| 47 | [Like a Prayer](https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:42 |
-| 48 | [Red Red Wine](https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [The Very Best Of](https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum) | 3:03 |
-| 49 | [It's My Life \- 1997 Remaster](https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 3:52 |
-| 50 | [Saving All My Love for You](https://open.spotify.com/track/1lx8ddGT5wCD6W2xmLeRKG) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 3:57 |
+| 47 | [Red Red Wine](https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [The Very Best Of](https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum) | 3:03 |
+| 48 | [It's My Life \- 1997 Remaster](https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 3:52 |
+| 49 | [Like a Prayer](https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:42 |
+| 50 | [White Wedding \- Pt\. 1](https://open.spotify.com/track/1gzIbdFnGJ226LTl0Cn2SX) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Billy Idol](https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k) | 4:12 |
 
 Snapshot ID: `AAAAACPNxvi06DY0LISgyOl59Y1yw+dj`

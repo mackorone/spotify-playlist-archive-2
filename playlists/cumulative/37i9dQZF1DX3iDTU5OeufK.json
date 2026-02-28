@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "3.99",
+        "url": "https://open.spotify.com/album/4yQPqIbXsNg8sScTEV55AI"
+      },
+      "artists": [
+        {
+          "name": "ARIA BELA",
+          "url": "https://open.spotify.com/artist/7Gh928bdEU69S9D6ur5wJz"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166800,
+      "name": "3.99",
+      "url": "https://open.spotify.com/track/51avfwxth206Jop5vn8ies"
+    },
+    {
+      "album": {
         "name": "300 Noches",
         "url": "https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml"
       },
@@ -196,7 +214,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 170960,
       "name": "Antes Muerta Que Sencilla",
       "url": "https://open.spotify.com/track/7tKDsV1gA7iVJHep2KZKOj"
@@ -479,6 +497,36 @@
     },
     {
       "album": {
+        "name": "Chaparrita (Remix)",
+        "url": "https://open.spotify.com/album/6PrdKGA2ZSkdjEQBqWzxeV"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266400,
+      "name": "Chaparrita (Remix)",
+      "url": "https://open.spotify.com/track/1Du2rsAGiX1LcCegMomlFH"
+    },
+    {
+      "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
@@ -618,7 +666,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 144148,
       "name": "DOCTOR",
       "url": "https://open.spotify.com/track/5DSMm0BZXlSvqArsTX00Ge"
@@ -847,6 +895,24 @@
     },
     {
       "album": {
+        "name": "Hablamos Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/0WZ1WllMllTkMjmOV14ew3"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171293,
+      "name": "Hablamos Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/3MbIRGRe13R7kl66aSQ3yI"
+    },
+    {
+      "album": {
         "name": "Hermanas de leche",
         "url": "https://open.spotify.com/album/4LXo5dlL6OmxhSUB8dCVfp"
       },
@@ -978,7 +1044,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 109866,
       "name": "J\u00e1lale alv",
       "url": "https://open.spotify.com/track/57uiO4cG6bK5yq51BJTvyE"
@@ -1458,7 +1524,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 156577,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/6b2TFoHrZ3DRelsx9sVjgD"
@@ -1480,6 +1546,24 @@
       "duration_ms": 212000,
       "name": "ONLINE",
       "url": "https://open.spotify.com/track/66ChRTsE2NVt5wQ1XbEQzQ"
+    },
+    {
+      "album": {
+        "name": "Otro Como T\u00fa",
+        "url": "https://open.spotify.com/album/2ZwmjqtQMJg05epQreiV4S"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202956,
+      "name": "Otro Como T\u00fa",
+      "url": "https://open.spotify.com/track/6TlPpf1alVVUy7AiCWmvRE"
     },
     {
       "album": {
@@ -2120,7 +2204,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 174880,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs"
@@ -2266,6 +2350,24 @@
       "duration_ms": 171344,
       "name": "Veo Veo",
       "url": "https://open.spotify.com/track/2eR46kcYzdZtFN3Q1NkNcK"
+    },
+    {
+      "album": {
+        "name": "Virtuzorrismo",
+        "url": "https://open.spotify.com/album/5O7XvaC137QQ03SgAT3J9v"
+      },
+      "artists": [
+        {
+          "name": "Nebulossa",
+          "url": "https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176135,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/2ThAF4cOs9Jw5M0qHdqT93"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26DKvjp0s9M.md) - [plain]
 
 > Everlasting indie hits, ft Clairo & Charli XCX
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,027,954 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,027,970 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26DKvjp0s9M.md) - [plain]
 | 35 | [Door](https://open.spotify.com/track/5YIVVzQcJG7pFhyNo0Ytlh) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 5:22 |
 | 36 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 |
 | 37 | [Cosmic Love](https://open.spotify.com/track/0CSTvWUps1YmpQoXXay9ol) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:15 |
-| 38 | [Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Twilight](https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1) | 3:23 |
+| 38 | [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 2:41 |
 | 39 | [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 |
-| 40 | [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 2:41 |
+| 40 | [Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Twilight](https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1) | 3:23 |
 | 41 | [American Teenager](https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 4:18 |
 | 42 | [Astrovan](https://open.spotify.com/track/14e46mURUUwB3i2vTe1gFz) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:06 |
 | 43 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 |
@@ -61,10 +61,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26DKvjp0s9M.md) - [plain]
 | 51 | ['Cause I'm A Man](https://open.spotify.com/track/2O99aywAVBhaPrsiJ6zbSS) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 4:01 |
 | 52 | [Maps](https://open.spotify.com/track/4EwNG7uCvLEm5a6KgerCHf) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Explicit Version\)](https://open.spotify.com/album/23YpPKzhIwTKxe3xnc1dbz) | 3:39 |
 | 53 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 |
-| 54 | [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 |
+| 54 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 |
 | 55 | [Two Weeks](https://open.spotify.com/track/6V0LX0hP1S0qH513CChAKt) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [LP1](https://open.spotify.com/album/25PQxi9SR1OODB5XG6m48J) | 4:07 |
 | 56 | [Don't Delete The Kisses](https://open.spotify.com/track/3K94Fd5ZQkPCW8wV6oyk22) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Visions Of A Life](https://open.spotify.com/album/7BJmbXNSX1tUPmVjvrlqvz) | 4:35 |
-| 57 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 |
+| 57 | [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 |
 | 58 | [\(No One Knows Me\) Like the Piano](https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process \(Bonus Edition\)](https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv) | 3:38 |
 | 59 | [17](https://open.spotify.com/track/7GDbkrFBGrCb8ntbQPY3hQ) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Year of Hibernation](https://open.spotify.com/album/0mcvDycoex7ANLZOmVVRoD) | 3:56 |
 | 60 | [Andromeda](https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 4:40 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26DKvjp0s9M.md) - [plain]
 | 65 | [Eyes Be Closed](https://open.spotify.com/track/6eNYsU7sfgxQHTvILQxbce) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Within and Without](https://open.spotify.com/album/6GUrNxKQG0pUt9umzAPdLv) | 4:47 |
 | 66 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 |
 | 67 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 |
-| 68 | [Margaret \(feat\. Bleachers\)](https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:39 |
-| 69 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
+| 68 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
+| 69 | [Margaret \(feat\. Bleachers\)](https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:39 |
 | 70 | [Better in the Dark](https://open.spotify.com/track/3SeDS5sSoWnwAZvVgkdKzf) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Summer's Over](https://open.spotify.com/album/60EzsIzS77S9MWHT0Tm37s) | 2:35 |
 | 71 | [Karma Police](https://open.spotify.com/track/63OQupATfueTdZMWTxW03A) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:24 |
 | 72 | [My Kind of Woman](https://open.spotify.com/track/6jgkEbmQ2F2onEqsEhiliL) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO) | 3:10 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26DKvjp0s9M.md) - [plain]
 | 75 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 |
 | 76 | [It's Called: Freefall](https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [How to: Friend, Love, Freefall](https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3) | 2:32 |
 | 77 | [Always Forever](https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Static](https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9) | 3:43 |
-| 78 | [Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 5:18 |
-| 79 | [Royals](https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:10 |
+| 78 | [Royals](https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:10 |
+| 79 | [Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 5:18 |
 | 80 | [Young](https://open.spotify.com/track/1KIJclzEbNhSVw8tiHPWwE) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Vibes](https://open.spotify.com/album/54lNPJ6xq2QXwG6jLEIf6C) | 3:09 |
 | 81 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 |
 | 82 | [Master of None](https://open.spotify.com/track/3stWWPN41byqp8loPdy92u) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Beach House](https://open.spotify.com/album/32bJgeIOAFiNkucTCje5O5) | 3:19 |

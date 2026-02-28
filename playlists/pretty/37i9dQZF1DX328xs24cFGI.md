@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,263 likes - 70 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,296 likes - 70 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 | 29 | [115万キロのフィルム](https://open.spotify.com/track/278JqkBGkjDovOYAwE8TW7) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [エスカパレード](https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p) | 5:24 |
 | 30 | [インスタントナイト](https://open.spotify.com/track/1EIrS41eC3e5siU3AwaavQ) | [OSHIKIKEIGO](https://open.spotify.com/artist/1Ez9f0zAhT2srrAYEXDMSw) | [インスタントナイト](https://open.spotify.com/album/4l1utK1rQkadl8fqFXUTFe) | 3:00 |
 | 31 | [Walking with you](https://open.spotify.com/track/7tGDXCPLpAScEwmqab9YZd) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [SKYWALK](https://open.spotify.com/album/34T4K8s8PzTNOZ1vuBILYr) | 3:43 |
-| 32 | [3XL](https://open.spotify.com/track/2wPyVJ04PfumGZQ5bJEVVj) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [3XL](https://open.spotify.com/album/56V9F6bbdFCm9GI2UocOcN) | 2:45 |
-| 33 | [ブルーベリー・ナイツ](https://open.spotify.com/track/2UdvMWk0Z83lMJPbawy2Sm) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [hope](https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF) | 4:04 |
+| 32 | [ブルーベリー・ナイツ](https://open.spotify.com/track/2UdvMWk0Z83lMJPbawy2Sm) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [hope](https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF) | 4:04 |
+| 33 | [3XL](https://open.spotify.com/track/2wPyVJ04PfumGZQ5bJEVVj) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [3XL](https://open.spotify.com/album/56V9F6bbdFCm9GI2UocOcN) | 2:45 |
 | 34 | [ラヴィング](https://open.spotify.com/track/59xh3LFvPldQlJbLVnFC6K) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [5gの平和](https://open.spotify.com/album/5cQlQCLp87osNFGo5sxBnh) | 3:44 |
 | 35 | [Fuwa Fuwa](https://open.spotify.com/track/0GJvDRvKMDEVN4eGCQ1Ts5) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [Already](https://open.spotify.com/album/2IybN7u5SBV4yTORBHhrFb) | 3:26 |
 | 36 | [ツキミソウ](https://open.spotify.com/track/6sElEqOIGENWjpxGFeo5ct) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [開幕宣言](https://open.spotify.com/album/2l0vCKtHcqHyticG9vDDCg) | 5:12 |
@@ -69,11 +69,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 | 59 | [青と夏](https://open.spotify.com/track/0a3587n25Xhw098UeEbeJq) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [青と夏](https://open.spotify.com/album/3U7I6bqhI8IsRvPLLaVN6v) | 4:30 |
 | 60 | [シンデレラガール](https://open.spotify.com/track/3nqKzoptpnyofFLEkTtd1v) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [Mr.5 \(Special Edition\)](https://open.spotify.com/album/7KxItgYkHxDBuXphenIdcm) | 4:12 |
 | 61 | [題名のない今日](https://open.spotify.com/track/6skNbV22epX2yHu4O2hYSx) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Life Goes On](https://open.spotify.com/album/6CK4JBvVs10dL8xn2nNZwe) | 3:13 |
-| 62 | [LとR](https://open.spotify.com/track/5MCaQgkjsaR8djogfrqI3z) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [LとR](https://open.spotify.com/album/4g5hgAFN90DBWd6OqVjJJJ) | 3:16 |
-| 63 | [恋](https://open.spotify.com/track/5Hu29JT4xtbRUBTZeOAjxW) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [恋](https://open.spotify.com/album/0DfuNg7whkEABLFek6IF27) | 4:13 |
+| 62 | [恋](https://open.spotify.com/track/5Hu29JT4xtbRUBTZeOAjxW) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [恋](https://open.spotify.com/album/0DfuNg7whkEABLFek6IF27) | 4:13 |
+| 63 | [LとR](https://open.spotify.com/track/5MCaQgkjsaR8djogfrqI3z) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [LとR](https://open.spotify.com/album/4g5hgAFN90DBWd6OqVjJJJ) | 3:16 |
 | 64 | [花火](https://open.spotify.com/track/0I0zZHGJ6ea8TxwbUvvJEH) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [桜の木の下](https://open.spotify.com/album/7v9ufrlhEHFc8jdAbdZObo) | 4:38 |
-| 65 | [貴方の恋人になりたい](https://open.spotify.com/track/5O7dUqcxMUVPFL9YAE9e7q) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [するどいささくれ](https://open.spotify.com/album/7cLT6wmWAnltQhrBDo6jUt) | 3:54 |
-| 66 | [夢灯籠](https://open.spotify.com/track/7swTJOnvm3zEg7QdmJs52T) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl) | 2:11 |
+| 65 | [夢灯籠](https://open.spotify.com/track/7swTJOnvm3zEg7QdmJs52T) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl) | 2:11 |
+| 66 | [貴方の恋人になりたい](https://open.spotify.com/track/5O7dUqcxMUVPFL9YAE9e7q) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [するどいささくれ](https://open.spotify.com/album/7cLT6wmWAnltQhrBDo6jUt) | 3:54 |
 | 67 | [本当はね、](https://open.spotify.com/track/16yajBS7lk0QAa5CZnTHo9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 3:21 |
 | 68 | [I hate this love song](https://open.spotify.com/track/0HwDv2bXxdQnGUJhAuGAqG) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [I hate this love song](https://open.spotify.com/album/0R8wB8JasgURZHtMHwRjm4) | 3:18 |
 | 69 | [超最強](https://open.spotify.com/track/0bcZS6ifbiPHNFZNX71fiK) | [Cho Tokimeki Sendenbu](https://open.spotify.com/artist/02hwDSWEF0JdOgdIBw1gRT) | [ときめきルールブック](https://open.spotify.com/album/33nAHJehmLBpYd7bbqPDNR) | 3:19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,054 likes - 60 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,135 likes - 60 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 2 | [Ojai](https://open.spotify.com/track/25OzqeRhXTJahO5uiOfYtw) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [The West Green Quartet](https://open.spotify.com/artist/5ncYX4gn6gNhestFIf9vwI) | [Ojai](https://open.spotify.com/album/4hDuXbI7PTaDuJgIwszRyp) | 3:29 |
 | 3 | [Redbud](https://open.spotify.com/track/0TGxhLyUCOW7WjVQidU30k) | [Mossera](https://open.spotify.com/artist/6j0nPBfjnh8yjNNQPJOmXG) | [Redbud](https://open.spotify.com/album/1ocXYgSe77CXJ4nwHrsKz5) | 4:00 |
 | 4 | [By Your Side](https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [By Your Side](https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg) | 6:07 |
-| 5 | [Move to It \- Radio Edit](https://open.spotify.com/track/1BEYrNkxcr1UBvAIAY4Wpg) | [David Fritz](https://open.spotify.com/artist/2k57DuaEMrDuuJuivQPPnA) | [Move to It \(Radio Edit\)](https://open.spotify.com/album/34UTddvfFqNsgTZW8ztSCT) | 2:37 |
-| 6 | [Beaches](https://open.spotify.com/track/51chgK66fLkr1TO3zRYt79) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Beaches](https://open.spotify.com/album/08gPFJoIssAEoQg8FejdQx) | 5:33 |
+| 5 | [Beaches](https://open.spotify.com/track/51chgK66fLkr1TO3zRYt79) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Beaches](https://open.spotify.com/album/08gPFJoIssAEoQg8FejdQx) | 5:33 |
+| 6 | [Move to It \- Radio Edit](https://open.spotify.com/track/1BEYrNkxcr1UBvAIAY4Wpg) | [David Fritz](https://open.spotify.com/artist/2k57DuaEMrDuuJuivQPPnA) | [Move to It \(Radio Edit\)](https://open.spotify.com/album/34UTddvfFqNsgTZW8ztSCT) | 2:37 |
 | 7 | [wandering](https://open.spotify.com/track/2WjG4e7q79njtAPGzW6tGb) | [airshade](https://open.spotify.com/artist/78PMYaOMIdiuJBtmSIFluQ), [limedisx.](https://open.spotify.com/artist/5NGCRjAltWbKLm8yD4RNRO) | [wandering](https://open.spotify.com/album/1wcy3owX9Vu3C9G0J4Gstl) | 3:16 |
-| 8 | [What Sade said](https://open.spotify.com/track/4CBs4eAuIwocuCKDVU20VO) | [Fullempty](https://open.spotify.com/artist/0j532qZGt5B2gCxyeXlf56) | [What Sade said](https://open.spotify.com/album/6B0ulryUPr8fPvRYl2B5wN) | 3:45 |
-| 9 | [Longing For U](https://open.spotify.com/track/2L0GFhQC5KSzBeOxL5901i) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Longing For U](https://open.spotify.com/album/4eTaymA78kYbMHyuEcOKsq) | 5:49 |
+| 8 | [Longing For U](https://open.spotify.com/track/2L0GFhQC5KSzBeOxL5901i) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Longing For U](https://open.spotify.com/album/4eTaymA78kYbMHyuEcOKsq) | 5:49 |
+| 9 | [What Sade said](https://open.spotify.com/track/4CBs4eAuIwocuCKDVU20VO) | [Fullempty](https://open.spotify.com/artist/0j532qZGt5B2gCxyeXlf56) | [What Sade said](https://open.spotify.com/album/6B0ulryUPr8fPvRYl2B5wN) | 3:45 |
 | 10 | [King Size](https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [King Size](https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW) | 4:57 |
 | 11 | [Take Me Home](https://open.spotify.com/track/4sEmzYN4u5TqD5fAUrlSb5) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Take Me Home](https://open.spotify.com/album/2V4riUyELekYW4yYGBm2ti) | 2:59 |
 | 12 | [A Vibe Thing](https://open.spotify.com/track/22nTQWFdnEhqXnV9g5eFAa) | [DJ Merci](https://open.spotify.com/artist/0aWG9QV2R47xsBMYaDSaPj) | [A Vibe Thing](https://open.spotify.com/album/7FHRfmURdeXSTCbvKXiNJN) | 5:44 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 23 | [Everytime](https://open.spotify.com/track/3DRkEQPkREzvk8ETaKCkf9) | [Jason Hersco](https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa) | [Everytime EP](https://open.spotify.com/album/1sv2bbVxs3BcuAl9ixkysw) | 5:08 |
 | 24 | [VERTIGO](https://open.spotify.com/track/0O7vGgLJBBVWiREZfm7GsX) | [Kronol](https://open.spotify.com/artist/13Bm2FdMEKw4x8BJXCL1MI) | [VERTIGO](https://open.spotify.com/album/6tmDmJFTJs5aegIe5OEB56) | 3:53 |
 | 25 | [The Sinner](https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [The Sinner — Time Traveller](https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt) | 4:42 |
-| 26 | [RITUAL \(palace\)](https://open.spotify.com/track/23glDLdns3JnzpaFdY8eH8) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Vylana](https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn) | [RITUAL \(palace\)](https://open.spotify.com/album/6nO37jTIWGvANeK8VQtz2U) | 5:55 |
-| 27 | [Radio Los Santos](https://open.spotify.com/track/1x40cY4yovEabUMzRWXGjd) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Radio Los Santos](https://open.spotify.com/album/6N6GvUqI3dgfMcorIYv44N) | 7:12 |
+| 26 | [Radio Los Santos](https://open.spotify.com/track/1x40cY4yovEabUMzRWXGjd) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Radio Los Santos](https://open.spotify.com/album/6N6GvUqI3dgfMcorIYv44N) | 7:12 |
+| 27 | [RITUAL \(palace\)](https://open.spotify.com/track/23glDLdns3JnzpaFdY8eH8) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Vylana](https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn) | [RITUAL \(palace\)](https://open.spotify.com/album/6nO37jTIWGvANeK8VQtz2U) | 5:55 |
 | 28 | [Remember](https://open.spotify.com/track/1TwttAopOacjIhnuePJm3s) | [SI\-FI](https://open.spotify.com/artist/2IZuUOaBZX6lMmbRK1GLcv) | [Remember](https://open.spotify.com/album/5nfXfGq3r2FklAjuT34QIQ) | 4:36 |
 | 29 | [Sundial Avenue](https://open.spotify.com/track/4lyqDPSLYqVuG29Vph3eIa) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [The West Green Quartet](https://open.spotify.com/artist/5ncYX4gn6gNhestFIf9vwI) | [Sundial Avenue](https://open.spotify.com/album/2R1XTbwc8ntMS782pWZnZd) | 2:24 |
 | 30 | [No Borders](https://open.spotify.com/track/3gnVC0NahYmLwXOf42uaF1) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [No Borders](https://open.spotify.com/album/5EdhvTsSyDz8OuiuyULLyK) | 2:41 |

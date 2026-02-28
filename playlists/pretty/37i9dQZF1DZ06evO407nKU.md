@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,583 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,594 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 | 49 | [La Ley De La Atracción \- En Vivo](https://open.spotify.com/track/6uRlGVZQXEL2mVLMqFxtuT) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Equipo HC](https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ) | [En Vivo Desde Tijuana](https://open.spotify.com/album/2TORCuwBsbwYncckRQrM5N) | 2:14 |
 | 50 | [Para Que No Sepan](https://open.spotify.com/track/5yJXGGIcuP6ZoYQYZl1unw) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Una Explicación](https://open.spotify.com/album/1YsQ0Xgawr9QGoYkT0S17a) | 3:09 |
 
-Snapshot ID: `aZ47gAAAAAAcbT4lkdeZER/IGFDqG6Zn`
+Snapshot ID: `aZ+NAAAAAAA2HiyRfiBzKHs2SIjAjVd/`

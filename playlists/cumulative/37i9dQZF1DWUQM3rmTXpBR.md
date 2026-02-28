@@ -4,7 +4,7 @@
 
 > Alternative Arabic songs\. Cover: Seera
 
-251 songs - 15 hr 19 min
+252 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Lan Ansa \- Single Edit](https://open.spotify.com/track/0KwFmu6kZiqKSwIJG1eJQU) | [Yousef Kekhia](https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw) | [Lan Ansa](https://open.spotify.com/album/3loPFrWppE0ACpiRGXBrIG) | 3:37 | 2021-12-23 | 2022-04-19 |
 | [Latina](https://open.spotify.com/track/42d62TnY6q3qVR5RiyaEps) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Latina](https://open.spotify.com/album/7mljCWuvJRbbTazyT8R4rR) | 3:06 | 2021-12-23 | 2023-04-24 |
 | [Law Baddak Yani](https://open.spotify.com/track/4NsnLFznFRv8P1vv4xjEmm) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv) | [Law Baddak Yani](https://open.spotify.com/album/0LXA6ATR3mv1Z1Kp6mYU4r) | 3:24 | 2024-09-12 | 2025-10-07 |
-| [Laykoon \(ليكون\)](https://open.spotify.com/track/2FQroMa87w4nlBhhdDre3J) | [El Morabba3](https://open.spotify.com/artist/4yTcSEYSpMUQ5t5XFd0uPU) | [El Morabba3 \(المربع\)](https://open.spotify.com/album/2BPmsmtbu1sIGIPZe1LgIa) | 5:01 | 2023-04-23 |  |
+| [Laykoon \(ليكون\)](https://open.spotify.com/track/2FQroMa87w4nlBhhdDre3J) | [El Morabba3](https://open.spotify.com/artist/4yTcSEYSpMUQ5t5XFd0uPU) | [El Morabba3 \(المربع\)](https://open.spotify.com/album/2BPmsmtbu1sIGIPZe1LgIa) | 5:01 | 2023-04-23 | 2026-02-28 |
 | [Layla](https://open.spotify.com/track/0oXXaN5krMQ4NR0Hs2C0hJ) | [Judran](https://open.spotify.com/artist/1KC7iXkAh7Z7gX7XJqarBd) | [Layla](https://open.spotify.com/album/3Du6enmqaPYMtjYvM52UCL) | 6:03 | 2023-04-23 | 2025-10-07 |
 | [Laysh](https://open.spotify.com/track/6cOEsSZeuzPX3V2GgvB4CF) | [Assasi](https://open.spotify.com/artist/1TuHc6zFa31PJpMpvyKZoz) | [Third World Wide Vol\. 1](https://open.spotify.com/album/0hFSce1HiBRXsZaii7qAZh) | 2:58 | 2021-12-23 | 2023-04-24 |
 | [Leh Ya Hana ?](https://open.spotify.com/track/4ZblA6ehlUEGgy3cpENRrx) | [Arnabeat](https://open.spotify.com/artist/31OlJhazERjXIrCE9SQQbM) | [Leh Ya Hana ?](https://open.spotify.com/album/4uWS5ntd91UbXbekxpDdLN) | 3:54 | 2025-10-06 |  |
@@ -132,6 +132,7 @@
 | [Malak](https://open.spotify.com/track/2ukSDZCN9VCyASZm9yYE6O) | [Luay Hijazeen](https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8) | [Malak](https://open.spotify.com/album/3wvZjwrCmcqrZriZwILjFf) | 3:22 | 2021-12-23 | 2022-01-07 |
 | [Malek Ya Denia](https://open.spotify.com/track/4zZAu2TTFlUhxL7TpHx0J5) | [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK) | [Malek Ya Denia](https://open.spotify.com/album/5VDBuXrHcccQCA2ykvm8Sa) | 3:18 | 2024-09-27 | 2025-10-07 |
 | [Manakir](https://open.spotify.com/track/3q1rNrHQoxvzbC0okaKt7C) | [Haya Zaatry](https://open.spotify.com/artist/7BbiOEvJs6qrSDp54s1EUB) | [Manakir](https://open.spotify.com/album/2IaWV2qILK8ac0SZcpLaAY) | 3:04 | 2025-10-06 |  |
+| [Manhoos \- منحوس](https://open.spotify.com/track/5lYSkHKGVBzPNRyVtLpORG) | [Maii Waleed](https://open.spotify.com/artist/1e9RnsEdnC3LG7vHcAozc8), [Zeid Hamdan](https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks) | [Manhoos \- منحوس](https://open.spotify.com/album/4omvlnsti7eubDc65kTKmz) | 3:08 | 2026-02-27 |  |
 | [Mashaweer](https://open.spotify.com/track/2QTeejzGvR4cFYjAhEHo5I) | [Salma Murad](https://open.spotify.com/artist/0qU4iEmMq8DEejUGTwWUdY), [Idreesi](https://open.spotify.com/artist/0C1T4aT8Wsli5bji343Nye) | [Mashaweer](https://open.spotify.com/album/4eyPK4hbnxv6UNUmW8n4vo) | 3:00 | 2025-10-06 |  |
 | [Mashi Mashi](https://open.spotify.com/track/0aoXvkBPPz2i7wpQaH0wYC) | [Kokym](https://open.spotify.com/artist/3MgpENFiSr4tPARLzifIZ3) | [Mashi Mashi](https://open.spotify.com/album/2WDJFaWQTZD6rg2tFFJFij) | 2:45 | 2024-09-12 | 2025-10-07 |
 | [Mazar](https://open.spotify.com/track/7eImI2kX2WQWqp1fJACLCP) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Mazar](https://open.spotify.com/album/5zVetj7wtk6lVU0KcZhuXn) | 3:33 | 2022-03-10 | 2023-04-24 |

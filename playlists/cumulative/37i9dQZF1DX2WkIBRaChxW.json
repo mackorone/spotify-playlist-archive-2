@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "What's happening in r&b, right now \u2013 featuring Jorja Smith.",
+  "description": "What's happening in r&b, right now \u2013 featuring Naomi Sharon.",
   "name": "R&B Right Now",
   "tracks": [
     {
@@ -1372,7 +1372,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 208626,
       "name": "Always",
       "url": "https://open.spotify.com/track/3Y1aIQRbvcXc7ZxcDC4rvs"
@@ -1634,10 +1634,32 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 168311,
       "name": "ASAP",
       "url": "https://open.spotify.com/track/6xSNxoqUErZbQ0QvMdbuDJ"
+    },
+    {
+      "album": {
+        "name": "ASAP (Remix)",
+        "url": "https://open.spotify.com/album/7cdOWcQK2NwyFvuNB1sxKp"
+      },
+      "artists": [
+        {
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221298,
+      "name": "ASAP (Remix)",
+      "url": "https://open.spotify.com/track/0vfrD59deamGv601WOHz8z"
     },
     {
       "album": {
@@ -6830,7 +6852,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 209589,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq"
@@ -6942,7 +6964,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 279400,
       "name": "Excited",
       "url": "https://open.spotify.com/track/5DT2VjPGQ54TdhkL1LdNzl"
@@ -10029,6 +10051,24 @@
     },
     {
       "album": {
+        "name": "Honour / I Want In",
+        "url": "https://open.spotify.com/album/4YryyvA3CCq7uNESscvIli"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250152,
+      "name": "Honour",
+      "url": "https://open.spotify.com/track/6slVYLrJprL3ayBNhSgd5r"
+    },
+    {
+      "album": {
         "name": "Hoodie",
         "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
       },
@@ -12827,6 +12867,24 @@
     },
     {
       "album": {
+        "name": "Let Me Remind You",
+        "url": "https://open.spotify.com/album/2oT1BVIUZGj2cqeQrpkpxx"
+      },
+      "artists": [
+        {
+          "name": "Amaeya",
+          "url": "https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Let Me Remind You",
+      "url": "https://open.spotify.com/track/35yqMpB5Nwryf554COemzA"
+    },
+    {
+      "album": {
         "name": "Let Me See Your Phone",
         "url": "https://open.spotify.com/album/4f6ijLrllKsvvUEhiuqVv4"
       },
@@ -13486,7 +13544,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 222973,
       "name": "Longest Way Round",
       "url": "https://open.spotify.com/track/3gURB0TgRppQkfaFgU735h"
@@ -14821,6 +14879,24 @@
     },
     {
       "album": {
+        "name": "Miss That",
+        "url": "https://open.spotify.com/album/2BOViTOt2OUGdjGWpjT8t9"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176316,
+      "name": "Miss That",
+      "url": "https://open.spotify.com/track/32C7nsEacy74cB3tlJQCaE"
+    },
+    {
+      "album": {
         "name": "miss u 2 (with Leon Thomas)",
         "url": "https://open.spotify.com/album/6koaz0ufllVmz49Z8M4Dgo"
       },
@@ -15404,7 +15480,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 148146,
       "name": "my man... (feat. Mariah The Scientist)",
       "url": "https://open.spotify.com/track/0G51OwKyOALByffrY9ygXJ"
@@ -19352,7 +19428,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 186416,
       "name": "Reclusive",
       "url": "https://open.spotify.com/track/5vbk8ZURIOaINOKPvvNo60"
@@ -23567,6 +23643,28 @@
     },
     {
       "album": {
+        "name": "The Heart Part 2 (feat. 3DDY)",
+        "url": "https://open.spotify.com/album/71I15DY2nFryDPMUh6ysji"
+      },
+      "artists": [
+        {
+          "name": "Bnnyhunna",
+          "url": "https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD"
+        },
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198809,
+      "name": "The Heart Part 2 (feat. 3DDY)",
+      "url": "https://open.spotify.com/track/0o12bmt6084rIizXWrexVN"
+    },
+    {
+      "album": {
         "name": "The Journey",
         "url": "https://open.spotify.com/album/2CspZ8WA96Ox4riutFwzPd"
       },
@@ -26649,6 +26747,32 @@
     },
     {
       "album": {
+        "name": "With U",
+        "url": "https://open.spotify.com/album/73Tky1qFIK781fFTwVkfCj"
+      },
+      "artists": [
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        },
+        {
+          "name": "Julia Wu",
+          "url": "https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv"
+        },
+        {
+          "name": "Daichi Yamamoto",
+          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268396,
+      "name": "With U",
+      "url": "https://open.spotify.com/track/5qWBjBFvcZ2zWjmGPUUErB"
+    },
+    {
+      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/0NBPG70Tssz1nbQQkCSK3F"
       },
@@ -26794,6 +26918,24 @@
       "duration_ms": 213571,
       "name": "worst behaviour (feat. Kehlani)",
       "url": "https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl"
+    },
+    {
+      "album": {
+        "name": "Worth My Time",
+        "url": "https://open.spotify.com/album/0qPt6rq8A5jhy6dYJfhTjx"
+      },
+      "artists": [
+        {
+          "name": "Dreezy",
+          "url": "https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200347,
+      "name": "Worth My Time",
+      "url": "https://open.spotify.com/track/1xxRHYyJBPa86QSa3LpxBW"
     },
     {
       "album": {

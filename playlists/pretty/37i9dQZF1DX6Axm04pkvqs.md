@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 
 > When my mouth has no words, let my spirit sing
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,543 likes - 80 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,574 likes - 80 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 60 | [You Cover Me](https://open.spotify.com/track/37JvyLbD2sZqJb0xVYE80U) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [You Cover Me](https://open.spotify.com/album/3MpNFst8nlIyBLSt17ErjT) | 17:58 |
 | 61 | [Ghana Chant](https://open.spotify.com/track/6SDSUyyEbsjFHEccLh0Mw4) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 13:21 |
 | 62 | [Chants of Intimacy](https://open.spotify.com/track/5pzgMmTjKJlThDPQnfRX5I) | [Faith Captain](https://open.spotify.com/artist/3w0OMqAlsf7zRV2GprZvJK) | [The Zamar Experience](https://open.spotify.com/album/4leEZEGBNamPXVBRUqDUQa) | 12:50 |
-| 63 | [Holy Ghost](https://open.spotify.com/track/62iIcfToRxBNTZ1qstamVC) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv) | 5:23 |
-| 64 | [Joy Chant \- Live](https://open.spotify.com/track/79TqQAmMV3ygUgx373bcL6) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [Joy Chant \(Live\)](https://open.spotify.com/album/46iESYEXmodV4W2rwVLWn0) | 4:32 |
+| 63 | [Joy Chant \- Live](https://open.spotify.com/track/79TqQAmMV3ygUgx373bcL6) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [Joy Chant \(Live\)](https://open.spotify.com/album/46iESYEXmodV4W2rwVLWn0) | 4:32 |
+| 64 | [Holy Ghost](https://open.spotify.com/track/62iIcfToRxBNTZ1qstamVC) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv) | 5:23 |
 | 65 | [There Is Prophecy over Me \(Prayer Instrumental Music\)](https://open.spotify.com/track/70ULbNpGcjEJRjeqJZAiEm) | [Ucious Music](https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa) | [There Is Prophecy over Me \(Prayer Instrumental Music\)](https://open.spotify.com/album/3P98nKARTr1d2OA5QxEv97) | 14:59 |
 | 66 | [Midnight Cry, Vol\. 2](https://open.spotify.com/track/4GReGQny43YTFYz6YXIJqd) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Midnight Cry, Vol\. 2](https://open.spotify.com/album/6ONKFW2nc1mznSaGdxoOJo) | 24:02 |
 | 67 | [Intense Spontaneous Worship](https://open.spotify.com/track/3Q4IU160DfWbjRJnRVZwe0) | [Faith Captain](https://open.spotify.com/artist/3w0OMqAlsf7zRV2GprZvJK) | [The Zamar Experience](https://open.spotify.com/album/4leEZEGBNamPXVBRUqDUQa) | 9:24 |

@@ -291,6 +291,28 @@
     },
     {
       "album": {
+        "name": "Born to Live",
+        "url": "https://open.spotify.com/album/6fUMMNcf8j6NL1NAGvvxVl"
+      },
+      "artists": [
+        {
+          "name": "Mr RJ Gautam",
+          "url": "https://open.spotify.com/artist/0lKQsCQVHskG1y6K6dKPsj"
+        },
+        {
+          "name": "Beat Boi Deep",
+          "url": "https://open.spotify.com/artist/024zFKsfkByro9RORWasCq"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202886,
+      "name": "Born to Live",
+      "url": "https://open.spotify.com/track/4mLHPnWawpC0p41vFAj7hV"
+    },
+    {
+      "album": {
         "name": "By My Side",
         "url": "https://open.spotify.com/album/4EUcKOcd9grLl1kOoauO7s"
       },
@@ -354,7 +376,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 181704,
       "name": "Chobara",
       "url": "https://open.spotify.com/track/1c2a8g61JDgnqXNE1ZcLLk"
@@ -576,7 +598,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 168600,
       "name": "GIVE IT BACK",
       "url": "https://open.spotify.com/track/5QSpjbIjMhK91UL9gIgR9g"
@@ -1384,6 +1406,32 @@
       "duration_ms": 184447,
       "name": "Sun Jattiye",
       "url": "https://open.spotify.com/track/46rVOty2daqfk47eU5kwtw"
+    },
+    {
+      "album": {
+        "name": "Sweet Addiction",
+        "url": "https://open.spotify.com/album/2w4PqDusBs7pWJ4t3GFY0k"
+      },
+      "artists": [
+        {
+          "name": "Merza",
+          "url": "https://open.spotify.com/artist/1pbDpKcGxY1oLZXhHGzk4U"
+        },
+        {
+          "name": "MONEYONYOURMIND",
+          "url": "https://open.spotify.com/artist/3gBwkU2pj8aTfu4UnLlWNo"
+        },
+        {
+          "name": "40k",
+          "url": "https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148990,
+      "name": "Sweet Addiction",
+      "url": "https://open.spotify.com/track/4ZwxNeSBpGMWx28Ca4eywg"
     },
     {
       "album": {

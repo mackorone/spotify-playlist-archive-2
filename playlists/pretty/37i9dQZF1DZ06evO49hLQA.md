@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 
 > This is AC/DC\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,221,245 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,221,442 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 | 9 | [Who Made Who](https://open.spotify.com/track/6rvldt6EoZwzogApECUCwd) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Who Made Who](https://open.spotify.com/album/07EFoHHspqSwsmkbnWaB4A) | 3:27 |
 | 10 | [Moneytalks](https://open.spotify.com/track/5u5F7qLDvZjBSktaDp4HxB) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 3:45 |
 | 11 | [Shoot to Thrill](https://open.spotify.com/track/0C80GCp0mMuBzLf3EAXqxv) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 5:18 |
-| 12 | [Whole Lotta Rosie](https://open.spotify.com/track/4wYq5wugZDzQiMZQYG4wVB) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Let There Be Rock](https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa) | 5:24 |
-| 13 | [Stiff Upper Lip](https://open.spotify.com/track/1KBuhAHzia2qoD4u6YhvER) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Stiff Upper Lip](https://open.spotify.com/album/5JPVHEB67TREre4Q8JOfCQ) | 3:34 |
+| 12 | [Stiff Upper Lip](https://open.spotify.com/track/1KBuhAHzia2qoD4u6YhvER) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Stiff Upper Lip](https://open.spotify.com/album/5JPVHEB67TREre4Q8JOfCQ) | 3:34 |
+| 13 | [Whole Lotta Rosie](https://open.spotify.com/track/4wYq5wugZDzQiMZQYG4wVB) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Let There Be Rock](https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa) | 5:24 |
 | 14 | [For Those About to Rock \(We Salute You\)](https://open.spotify.com/track/17lu4tymfnhmcIDlzBbtAb) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [For Those About to Rock \(We Salute You\)](https://open.spotify.com/album/7DUvURQ0wfA1kgG8j99frR) | 5:44 |
 | 15 | [Hells Bells](https://open.spotify.com/track/69QHm3pustz01CJRwdo20z) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 5:12 |
 | 16 | [If You Want Blood \(You've Got It\)](https://open.spotify.com/track/7zscdQe9CjzXnqT3P1Ey7K) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 4:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 | 49 | [Play Ball](https://open.spotify.com/track/3fpzBeEHvuXKOl7QeVe1iz) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Rock or Bust](https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg) | 2:47 |
 | 50 | [The Razors Edge](https://open.spotify.com/track/4ObCns6nM6tShx5a5tHiGC) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 4:22 |
 
-Snapshot ID: `aZ47gAAAAAC5O7wqhOXD5FN+0NAaDraN`
+Snapshot ID: `aZ+NAAAAAABqyU89PzTKXucwH/FUh8lM`

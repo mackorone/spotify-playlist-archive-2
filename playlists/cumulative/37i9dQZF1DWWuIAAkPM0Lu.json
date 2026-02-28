@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-27",
-  "description": "Endelig fredag, endelig ny musik bl.a. fra APHACA, HUGORM og ozzy \u2764\ufe0f\u200d\ud83d\udd25",
+  "description": "Endelig fredag, endelig ny musik bl.a. fra APHACA, HUGORM og Bruno Mars \u2764\ufe0f\u200d\ud83d\udd25",
   "name": "New Music Friday Denmark",
   "tracks": [
     {
@@ -53677,6 +53677,24 @@
     },
     {
       "album": {
+        "name": "FLAMMABLE",
+        "url": "https://open.spotify.com/album/3L9bw5y8f5lDIjkjKjBArr"
+      },
+      "artists": [
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197551,
+      "name": "FLAMMABLE",
+      "url": "https://open.spotify.com/track/5Qfqyv9vO2IxpvAdP81yvI"
+    },
+    {
+      "album": {
         "name": "Flashback",
         "url": "https://open.spotify.com/album/7Co1eo0feITfKAemd1P4dV"
       },
@@ -62241,6 +62259,24 @@
     },
     {
       "album": {
+        "name": "DEADLINE",
+        "url": "https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195402,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB"
+    },
+    {
+      "album": {
         "name": "GO",
         "url": "https://open.spotify.com/album/445LOHJRfwq4dR3f77oWBF"
       },
@@ -63143,7 +63179,7 @@
       "artists": [
         {
           "name": "MANI",
-          "url": "https://open.spotify.com/artist/48tAxVqL59YwsPlN3o4Iqf"
+          "url": "https://open.spotify.com/artist/1uQwp8AYTIontS6qgSiZYX"
         },
         {
           "name": "Miklo",
@@ -89592,6 +89628,28 @@
       "duration_ms": 158999,
       "name": "key to my heart",
       "url": "https://open.spotify.com/track/0sDjX3fzrHZtQY1bCrH245"
+    },
+    {
+      "album": {
+        "name": "Keychain (FROM THE FILM K-POPS!)",
+        "url": "https://open.spotify.com/album/58x92u1JINTa5K7lTzfU02"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170786,
+      "name": "Keychain - FROM THE FILM K-POPS!",
+      "url": "https://open.spotify.com/track/3Q3WZ7sJLoIZQKY7hWFyQu"
     },
     {
       "album": {
@@ -181303,7 +181361,7 @@
     },
     {
       "album": {
-        "name": "You always liked me better when i was stoned",
+        "name": "You Always Liked Me Better When I Was Stoned",
         "url": "https://open.spotify.com/album/4JUnK6tzlRvi07mUSxN8hH"
       },
       "artists": [
@@ -181316,7 +181374,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 189913,
-      "name": "You always liked me better when i was stoned",
+      "name": "You Always Liked Me Better When I Was Stoned",
       "url": "https://open.spotify.com/track/31Zd47aEZP29ZoGQkp45VN"
     },
     {

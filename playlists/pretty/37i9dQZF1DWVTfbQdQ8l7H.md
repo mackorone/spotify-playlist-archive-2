@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTfbQdQ8l7H.md) - [plain]
 
 > Unforgettable love songs from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 677,066 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 677,178 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,24 +37,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTfbQdQ8l7H.md) - [plain]
 | 27 | [One Last Time](https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:17 |
 | 28 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 |
 | 29 | [See You Again \(feat\. Charlie Puth\)](https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [See You Again \(feat\. Charlie Puth\)](https://open.spotify.com/album/5FXIqS1XqbpfOKNoi5VUwS) | 3:49 |
-| 30 | [Versace on the Floor](https://open.spotify.com/track/0kN8xEmgMW9mh7UmDYHlJP) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 4:21 |
+| 30 | [7 Years](https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Lukas Graham](https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v) | 3:57 |
 | 31 | [Lover](https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:41 |
-| 32 | [7 Years](https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Lukas Graham](https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v) | 3:57 |
+| 32 | [Versace on the Floor](https://open.spotify.com/track/0kN8xEmgMW9mh7UmDYHlJP) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 4:21 |
 | 33 | [Call Me Maybe](https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss](https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2) | 3:13 |
 | 34 | [PILLOWTALK](https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Mind Of Mine \(Deluxe Edition\)](https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0) | 3:22 |
-| 35 | [Treasure](https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 2:58 |
+| 35 | [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 |
 | 36 | [Let Me Down Slowly](https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 2:49 |
-| 37 | [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 |
+| 37 | [Treasure](https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 2:58 |
 | 38 | [Mercy](https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:28 |
 | 39 | [Delicate](https://open.spotify.com/track/6NFyWDv5CjfwuzoCkw47Xf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:52 |
 | 40 | [Rolling in the Deep](https://open.spotify.com/track/4OSBTYWVwsQhGLF9NHvIbR) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/5duyQokC4FMcWPYTV9Gpf9) | 3:48 |
-| 41 | [We Don't Talk Anymore \(feat\. Selena Gomez\)](https://open.spotify.com/track/06KyNuuMOX1ROXRhj787tj) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Nine Track Mind](https://open.spotify.com/album/5Nwsra93UQYJ6xxcjcE10x) | 3:37 |
-| 42 | [no tears left to cry](https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:25 |
+| 41 | [no tears left to cry](https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:25 |
+| 42 | [We Don't Talk Anymore \(feat\. Selena Gomez\)](https://open.spotify.com/track/06KyNuuMOX1ROXRhj787tj) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Nine Track Mind](https://open.spotify.com/album/5Nwsra93UQYJ6xxcjcE10x) | 3:37 |
 | 43 | [Love Me Like You Do \- From "Fifty Shades Of Grey"](https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 4:12 |
 | 44 | [Wide Awake](https://open.spotify.com/track/5JLv62qFIS1DR3zGEcApRt) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:40 |
 | 45 | [I Feel It Coming](https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 4:29 |
-| 46 | [One Call Away](https://open.spotify.com/track/5MwIGPDKeDb7SpblcaQP6O) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nine Track Mind \(Special Edition\)](https://open.spotify.com/album/5J4SS8wTmXdyIEVYjmHzpZ) | 3:14 |
-| 47 | [Lay Me Down](https://open.spotify.com/track/74sb4Gib0cL3TQeCjYF8vh) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 4:13 |
+| 46 | [Lay Me Down](https://open.spotify.com/track/74sb4Gib0cL3TQeCjYF8vh) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 4:13 |
+| 47 | [One Call Away](https://open.spotify.com/track/5MwIGPDKeDb7SpblcaQP6O) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nine Track Mind \(Special Edition\)](https://open.spotify.com/album/5J4SS8wTmXdyIEVYjmHzpZ) | 3:14 |
 | 48 | [Stay](https://open.spotify.com/track/0GNI8K3VATWBABQFAzBAYe) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 4:00 |
 | 49 | [Hello](https://open.spotify.com/track/1Yk0cQdMLx5RzzFTYwmuld) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 4:55 |
 | 50 | [Million Reasons](https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:25 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTfbQdQ8l7H.md) - [plain]
 | 72 | [I Like Me Better](https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR) | 3:17 |
 | 73 | [Someone Like You](https://open.spotify.com/track/6QPKYGnAW9QozVz2dSWqRg) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/7n3QJc7TBOxXtlYh4Ssll8) | 4:45 |
 | 74 | [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 |
-| 75 | [Dancing On My Own](https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Dancing On My Own](https://open.spotify.com/album/5Hq4LcmCQ6BP3kM8J5lgga) | 4:20 |
+| 75 | [Little Things](https://open.spotify.com/track/7kSLdGdXLey7pzLsWpdg1h) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home: Yearbook Edition](https://open.spotify.com/album/5SxEsi1PNyo1XfEKDYcFKF) | 3:39 |
 
 Snapshot ID: `AAAAALgQEMlr07rR29T4G7TfReDcPy49`

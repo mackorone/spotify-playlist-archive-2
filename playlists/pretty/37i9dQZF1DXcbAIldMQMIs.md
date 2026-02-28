@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 
 > screaming at lucy through the screen like she can hear us
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,930 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 806,144 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 58 | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/track/2U8NXPTXZWG2O0ye2sYRiH) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [THIS IS..\. ICONA POP](https://open.spotify.com/album/3qpAHoOLWeXRNTaGzeYf13) | 2:37 |
 | 59 | [Self Control](https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:09 |
 | 60 | [bad idea right?](https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:04 |
-| 61 | [I Know The End](https://open.spotify.com/track/0pJW1Xw3aY4Eh6k5iuBkfI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 5:44 |
-| 62 | [In My Room](https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Room](https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB) | 2:43 |
+| 61 | [In My Room](https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Room](https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB) | 2:43 |
+| 62 | [I Know The End](https://open.spotify.com/track/0pJW1Xw3aY4Eh6k5iuBkfI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 5:44 |
 | 63 | [Pipe Down](https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:25 |
 | 64 | [I Don't Fuck With You](https://open.spotify.com/track/7FYH5AW3bVfZHJIQpq3UOA) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 4:44 |
 | 65 | [Bitch Better Have My Money](https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Bitch Better Have My Money](https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9) | 3:39 |

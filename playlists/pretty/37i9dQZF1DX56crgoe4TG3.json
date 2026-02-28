@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 284121,
+  "num_followers": 284139,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Take Me Home, Country Roads",
-        "url": "https://open.spotify.com/album/1mYzbWj0oTiGfhslwKprO4"
-      },
-      "artists": [
-        {
-          "name": "Southern Raised",
-          "url": "https://open.spotify.com/artist/4R6Hnjk4k3QzifbwQ05NQH"
-        }
-      ],
-      "duration_ms": 219007,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/6b5vrTPZKmnDgvf3URdOOe"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Mad World",
         "url": "https://open.spotify.com/album/2mrq4gDXWKLEsVAF0sEkiH"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 302746,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/7sYMSlxgCEdLoXv0PqYEjp"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/1mYzbWj0oTiGfhslwKprO4"
+      },
+      "artists": [
+        {
+          "name": "Southern Raised",
+          "url": "https://open.spotify.com/artist/4R6Hnjk4k3QzifbwQ05NQH"
+        }
+      ],
+      "duration_ms": 219007,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/6b5vrTPZKmnDgvf3URdOOe"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -347,6 +347,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/0l8nQQvBiFAJnTbzbnSK3f"
+      },
+      "artists": [
+        {
+          "name": "Micah Wagner",
+          "url": "https://open.spotify.com/artist/6TvBcI7m0Jq96Br9pAXCGy"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/3V9VuEtA4EYTbK5utLOZZK"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Going to California",
         "url": "https://open.spotify.com/album/3UCiAPojwoDuxzbawjPyCQ"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 250000,
       "name": "Going To California",
       "url": "https://open.spotify.com/track/1GreApnsVuQ45DwAaTTDgH"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/0l8nQQvBiFAJnTbzbnSK3f"
-      },
-      "artists": [
-        {
-          "name": "Micah Wagner",
-          "url": "https://open.spotify.com/artist/6TvBcI7m0Jq96Br9pAXCGy"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/3V9VuEtA4EYTbK5utLOZZK"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Aerials",
-        "url": "https://open.spotify.com/album/1XlXriACAISeyv0S8YZEn4"
-      },
-      "artists": [
-        {
-          "name": "The Barefoot Movement",
-          "url": "https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt"
-        }
-      ],
-      "duration_ms": 228490,
-      "name": "Aerials",
-      "url": "https://open.spotify.com/track/7nBxmiDUcqEyIXx9BrvD1P"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Destinations and Fun Places",
         "url": "https://open.spotify.com/album/3Gj5Gbm8U9ce2FwW9kdBKl"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 256924,
       "name": "Take Me Home Country Roads",
       "url": "https://open.spotify.com/track/4pVJqLoz3kSFL2Oe1UaHgt"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Aerials",
+        "url": "https://open.spotify.com/album/1XlXriACAISeyv0S8YZEn4"
+      },
+      "artists": [
+        {
+          "name": "The Barefoot Movement",
+          "url": "https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt"
+        }
+      ],
+      "duration_ms": 228490,
+      "name": "Aerials",
+      "url": "https://open.spotify.com/track/7nBxmiDUcqEyIXx9BrvD1P"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -587,8 +587,8 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Black Muddy River",
-        "url": "https://open.spotify.com/album/60dyRHRGrAEPYlDE3WA7AO"
+        "name": "All I Ever Need Is You",
+        "url": "https://open.spotify.com/album/16Ug2NcKJ3gHDpJvobIFwP"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
         }
       ],
-      "duration_ms": 300575,
-      "name": "Black Muddy River",
-      "url": "https://open.spotify.com/track/62lkirMIvYO6h6o07xwZpH"
+      "duration_ms": 210459,
+      "name": "All I Ever Need Is You",
+      "url": "https://open.spotify.com/track/6OEjWKO16fdprzAWXFU6IB"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -675,8 +675,8 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "All I Ever Need Is You",
-        "url": "https://open.spotify.com/album/16Ug2NcKJ3gHDpJvobIFwP"
+        "name": "Black Muddy River",
+        "url": "https://open.spotify.com/album/60dyRHRGrAEPYlDE3WA7AO"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
         }
       ],
-      "duration_ms": 210459,
-      "name": "All I Ever Need Is You",
-      "url": "https://open.spotify.com/track/6OEjWKO16fdprzAWXFU6IB"
+      "duration_ms": 300575,
+      "name": "Black Muddy River",
+      "url": "https://open.spotify.com/track/62lkirMIvYO6h6o07xwZpH"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -911,18 +911,18 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "In the Summertime",
-        "url": "https://open.spotify.com/album/6X2VbXHnqwyJ75T5kIZlGO"
+        "name": "Humming House Party! (Live)",
+        "url": "https://open.spotify.com/album/7Mwmi5X5ilN2j1y6LNC34k"
       },
       "artists": [
         {
-          "name": "Arkansauce",
-          "url": "https://open.spotify.com/artist/0ZVf0TpND6bNaoaaucYaFl"
+          "name": "Humming House",
+          "url": "https://open.spotify.com/artist/6ls2l3WdMnYWKS0WQKghHK"
         }
       ],
-      "duration_ms": 295528,
-      "name": "In the Summertime",
-      "url": "https://open.spotify.com/track/6jnDuBTAVl9tui1tyJMnzU"
+      "duration_ms": 278854,
+      "name": "My Love (Live)",
+      "url": "https://open.spotify.com/track/7L9CcpZEfjZQT7LsZuQFWw"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -943,18 +943,18 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Humming House Party! (Live)",
-        "url": "https://open.spotify.com/album/7Mwmi5X5ilN2j1y6LNC34k"
+        "name": "In the Summertime",
+        "url": "https://open.spotify.com/album/6X2VbXHnqwyJ75T5kIZlGO"
       },
       "artists": [
         {
-          "name": "Humming House",
-          "url": "https://open.spotify.com/artist/6ls2l3WdMnYWKS0WQKghHK"
+          "name": "Arkansauce",
+          "url": "https://open.spotify.com/artist/0ZVf0TpND6bNaoaaucYaFl"
         }
       ],
-      "duration_ms": 278854,
-      "name": "My Love (Live)",
-      "url": "https://open.spotify.com/track/7L9CcpZEfjZQT7LsZuQFWw"
+      "duration_ms": 295528,
+      "name": "In the Summertime",
+      "url": "https://open.spotify.com/track/6jnDuBTAVl9tui1tyJMnzU"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Closer You Get",
-        "url": "https://open.spotify.com/album/4VCWfZcd6Xu77je7Oll8hI"
-      },
-      "artists": [
-        {
-          "name": "Arkansauce",
-          "url": "https://open.spotify.com/artist/0ZVf0TpND6bNaoaaucYaFl"
-        }
-      ],
-      "duration_ms": 345058,
-      "name": "Closer You Get",
-      "url": "https://open.spotify.com/track/5rPSwpzXNpevdBXtQ2OFzD"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Wagon Wheel",
         "url": "https://open.spotify.com/album/7cPsrl4X5vxDsoL3gdZK2l"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 289196,
       "name": "American Girl",
       "url": "https://open.spotify.com/track/4cubT1pp7sp10qcCpl0ml3"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Closer You Get",
+        "url": "https://open.spotify.com/album/4VCWfZcd6Xu77je7Oll8hI"
+      },
+      "artists": [
+        {
+          "name": "Arkansauce",
+          "url": "https://open.spotify.com/artist/0ZVf0TpND6bNaoaaucYaFl"
+        }
+      ],
+      "duration_ms": 345058,
+      "name": "Closer You Get",
+      "url": "https://open.spotify.com/track/5rPSwpzXNpevdBXtQ2OFzD"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/2EF09Y1t1UWXgnH0XFF0QN"
-      },
-      "artists": [
-        {
-          "name": "Craig Duncan",
-          "url": "https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t"
-        }
-      ],
-      "duration_ms": 223005,
-      "name": "Everywhere",
-      "url": "https://open.spotify.com/track/3Ai4dzcqxJi7tZInKN5SbR"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "The DeLorean Sisters",
         "url": "https://open.spotify.com/album/58d4qk0mMIiWLlIxFAZK0E"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 209895,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/2w0YouPU8m4o847GCgweTK"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/2EF09Y1t1UWXgnH0XFF0QN"
+      },
+      "artists": [
+        {
+          "name": "Craig Duncan",
+          "url": "https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t"
+        }
+      ],
+      "duration_ms": 223005,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/3Ai4dzcqxJi7tZInKN5SbR"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Rich Girl",
+        "url": "https://open.spotify.com/album/4hkQNTft7bp3Gd4MyIbjbf"
+      },
+      "artists": [
+        {
+          "name": "Shadowgrass",
+          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+        }
+      ],
+      "duration_ms": 230454,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/6TnbTAr8EtRYR5st0irRoP"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/0eO2euXynsfsom5xOmq2yP"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 229000,
       "name": "All Will Be Well",
       "url": "https://open.spotify.com/track/6PKbLypSzDkN4RaPGUYVF8"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Rich Girl",
-        "url": "https://open.spotify.com/album/4hkQNTft7bp3Gd4MyIbjbf"
-      },
-      "artists": [
-        {
-          "name": "Shadowgrass",
-          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
-        }
-      ],
-      "duration_ms": 230454,
-      "name": "Rich Girl",
-      "url": "https://open.spotify.com/track/6TnbTAr8EtRYR5st0irRoP"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Fire and Rain",
+        "url": "https://open.spotify.com/album/7gQEW5gWpzPgrObCHeZRob"
+      },
+      "artists": [
+        {
+          "name": "Ron Pope",
+          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
+        }
+      ],
+      "duration_ms": 213366,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/4vqiHn2vIgs7HjJbc0pvYF"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Elderly Woman Behind the Counter in a Small Town",
         "url": "https://open.spotify.com/album/4iiZRBXts873qS2KaWEXNg"
       },
@@ -1407,38 +1423,6 @@
       "duration_ms": 221913,
       "name": "Elderly Woman Behind the Counter in a Small Town - Radio Edit",
       "url": "https://open.spotify.com/track/4O0HBabeKYER9BRKW0URli"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Fire and Rain",
-        "url": "https://open.spotify.com/album/7gQEW5gWpzPgrObCHeZRob"
-      },
-      "artists": [
-        {
-          "name": "Ron Pope",
-          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
-        }
-      ],
-      "duration_ms": 213366,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/4vqiHn2vIgs7HjJbc0pvYF"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "In Tall Buildings",
-        "url": "https://open.spotify.com/album/4PfnntRChUIeOlVkVgzO3D"
-      },
-      "artists": [
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "In Tall Buildings",
-      "url": "https://open.spotify.com/track/56Rzb0EaeMfwhIU2VLygtf"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1475,6 +1459,22 @@
       "duration_ms": 396516,
       "name": "Me and Bobby McGee (2024 Mix)",
       "url": "https://open.spotify.com/track/7j7j5Mg6SLEXxsHA2qQ3wh"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "In Tall Buildings",
+        "url": "https://open.spotify.com/album/4PfnntRChUIeOlVkVgzO3D"
+      },
+      "artists": [
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "In Tall Buildings",
+      "url": "https://open.spotify.com/track/56Rzb0EaeMfwhIU2VLygtf"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1539,8 +1539,8 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Ohio",
-        "url": "https://open.spotify.com/album/4gxVhz09xgQ2b7QjnmV3Vl"
+        "name": "Can't Let Go",
+        "url": "https://open.spotify.com/album/1Iowxh8dz1yZAmhsIBj3Wr"
       },
       "artists": [
         {
@@ -1548,9 +1548,9 @@
           "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
         }
       ],
-      "duration_ms": 173279,
-      "name": "Ohio",
-      "url": "https://open.spotify.com/track/4tLtJETF7b6BDjDoAxgBD7"
+      "duration_ms": 185305,
+      "name": "Can't Let Go",
+      "url": "https://open.spotify.com/track/0cX8s93aHEK74Yq6aHOLPv"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1627,8 +1627,8 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Can't Let Go",
-        "url": "https://open.spotify.com/album/1Iowxh8dz1yZAmhsIBj3Wr"
+        "name": "Ohio",
+        "url": "https://open.spotify.com/album/4gxVhz09xgQ2b7QjnmV3Vl"
       },
       "artists": [
         {
@@ -1636,9 +1636,9 @@
           "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
         }
       ],
-      "duration_ms": 185305,
-      "name": "Can't Let Go",
-      "url": "https://open.spotify.com/track/0cX8s93aHEK74Yq6aHOLPv"
+      "duration_ms": 173279,
+      "name": "Ohio",
+      "url": "https://open.spotify.com/track/4tLtJETF7b6BDjDoAxgBD7"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Late Night Talking",
-        "url": "https://open.spotify.com/album/0DI84YNd6RXHBSchZlw68l"
-      },
-      "artists": [
-        {
-          "name": "Ron Pope",
-          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
-        }
-      ],
-      "duration_ms": 195936,
-      "name": "Late Night Talking",
-      "url": "https://open.spotify.com/track/1Vc62VQpWqTmwlena9jEKm"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Jukebox",
         "url": "https://open.spotify.com/album/2yJmDsF4W09gny2QzDlftH"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 193000,
       "name": "Speed of the Sound of Loneliness",
       "url": "https://open.spotify.com/track/7xDbOxIUd57NFyLG3lfmF7"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Late Night Talking",
+        "url": "https://open.spotify.com/album/0DI84YNd6RXHBSchZlw68l"
+      },
+      "artists": [
+        {
+          "name": "Ron Pope",
+          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
+        }
+      ],
+      "duration_ms": 195936,
+      "name": "Late Night Talking",
+      "url": "https://open.spotify.com/track/1Vc62VQpWqTmwlena9jEKm"
     },
     {
       "added_at": "2026-02-04 05:00:53",

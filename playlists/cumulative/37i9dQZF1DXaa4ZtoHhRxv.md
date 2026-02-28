@@ -4,7 +4,7 @@
 
 > your honky tonk meets club playlist 🤠🪩 featuring Diplo
 
-252 songs - 13 hr 24 min
+253 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Love Story \(Taylor's Version\) \- Elvira Remix](https://open.spotify.com/track/5RaBeejGtdPEszYEKYECs2) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [ELVIRA](https://open.spotify.com/artist/4nhsQ3u12To27WM6rqNEa1) | [Love Story \(Taylor's Version\) \[Elvira Remix\]](https://open.spotify.com/album/3x4gaf5IPyFQNrxZY07CXA) | 3:31 | 2021-12-10 | 2025-06-17 |
 | [Love The Way It Hurts \(So Good\)](https://open.spotify.com/track/1SmEMvjRkff8V9mORj25g3) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 3:21 | 2023-06-22 | 2025-06-01 |
 | [Make You Mine \- Bergie Remix](https://open.spotify.com/track/4lHyZfiqN1tL4g77Gelbax) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN), [Bergie](https://open.spotify.com/artist/3KztHBCsYWbX5d8xn7XeU9) | [The Bergie Remixes](https://open.spotify.com/album/4zjYxvgfXJRwKR4mNJgvKb) | 3:25 | 2022-10-14 | 2025-06-01 |
+| [Mama Said](https://open.spotify.com/track/4bR85fyG1N5zcAuSFM56Kc) | [MC4D](https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI), [Kenley](https://open.spotify.com/artist/1SinB4B9WOu3GmKti284cW) | [Mama Said](https://open.spotify.com/album/7Dq4rtNPbrixPRzZr7UfHt) | 3:06 | 2026-02-27 |  |
 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6q9orQ8lTnKFqBhxRB0bY5) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(International Version\)](https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi) | 3:53 | 2021-12-10 | 2025-06-17 |
 | [Match For My Memory \- Fired Up](https://open.spotify.com/track/0SuNsEC7A6fZBORw4b7tOd) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Match For My Memory \(Fired Up\)](https://open.spotify.com/album/4XAmbiaoCMwjJVZKcnNCPf) | 3:04 | 2023-07-28 | 2025-06-01 |
 | [Meant to Be \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [All Your Fault: Pt\. 2](https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb) | 2:43 | 2021-12-10 | 2025-06-17 |

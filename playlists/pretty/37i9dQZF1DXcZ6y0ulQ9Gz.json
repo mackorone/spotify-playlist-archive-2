@@ -1,6 +1,6 @@
 {
   "description": "Where your favourites hang out with your next favourites. Cover: Charlotte Day Wilson",
-  "num_followers": 41352,
+  "num_followers": 41376,
   "original_name": "Indie Favourites",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-02-20 05:01:31",
       "album": {
-        "name": "The Crux",
-        "url": "https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 158106,
-      "name": "Basic Being Basic",
-      "url": "https://open.spotify.com/track/2jjwQENSoGnYbQEK4acuC6"
-    },
-    {
-      "added_at": "2026-02-20 05:01:31",
-      "album": {
         "name": "Charm",
         "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 195109,
       "name": "Juna",
       "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
+    },
+    {
+      "added_at": "2026-02-20 05:01:31",
+      "album": {
+        "name": "The Crux",
+        "url": "https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 158106,
+      "name": "Basic Being Basic",
+      "url": "https://open.spotify.com/track/2jjwQENSoGnYbQEK4acuC6"
     },
     {
       "added_at": "2026-02-20 05:01:31",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-02-20 05:01:31",
       "album": {
-        "name": "Atlanta Millionaires Club",
-        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 202653,
-      "name": "Kingston",
-      "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
-    },
-    {
-      "added_at": "2026-02-20 05:01:31",
-      "album": {
         "name": "Depression Cherry",
         "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 320466,
       "name": "Space Song",
       "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
+    },
+    {
+      "added_at": "2026-02-20 05:01:31",
+      "album": {
+        "name": "Atlanta Millionaires Club",
+        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 202653,
+      "name": "Kingston",
+      "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
     },
     {
       "added_at": "2026-02-20 05:01:31",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-02-20 05:01:31",
       "album": {
-        "name": "I\u2019m Only F**king Myself",
-        "url": "https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 261959,
-      "name": "Post Sex Clarity",
-      "url": "https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg"
-    },
-    {
-      "added_at": "2026-02-20 05:01:31",
-      "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 310553,
       "name": "Mariella",
       "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
+    },
+    {
+      "added_at": "2026-02-20 05:01:31",
+      "album": {
+        "name": "I\u2019m Only F**king Myself",
+        "url": "https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 261959,
+      "name": "Post Sex Clarity",
+      "url": "https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg"
     },
     {
       "added_at": "2026-02-20 05:01:31",
@@ -1451,6 +1451,26 @@
     {
       "added_at": "2026-02-20 05:01:31",
       "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "Badlands (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg"
+    },
+    {
+      "added_at": "2026-02-20 05:01:31",
+      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
       },
@@ -1515,26 +1535,6 @@
       "duration_ms": 124661,
       "name": "hideaway",
       "url": "https://open.spotify.com/track/5mfEcAbAcufmTpMQJrq6K5"
-    },
-    {
-      "added_at": "2026-02-20 05:01:31",
-      "album": {
-        "name": "Prizefighter",
-        "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        },
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "Badlands (with Gracie Abrams)",
-      "url": "https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg"
     },
     {
       "added_at": "2026-02-20 05:01:31",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2026-02-20 05:01:31",
       "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+        "name": "Odyss\u00e9e - EP",
+        "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
       },
       "artists": [
         {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
         }
       ],
-      "duration_ms": 195370,
-      "name": "Be Sweet",
-      "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
+      "duration_ms": 248892,
+      "name": "Agitations tropicales",
+      "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
     },
     {
       "added_at": "2026-02-20 05:01:31",

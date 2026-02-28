@@ -4,7 +4,7 @@
 
 > The best indie music of the moment\. Cover: Mitski
 
-847 songs - 2 day 2 hr 25 min
+847 songs - 2 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -498,6 +498,7 @@
 | [Mum](https://open.spotify.com/track/5fzXn94Xer4aVwo6n8Bxuq) | [Mitch Sanders](https://open.spotify.com/artist/7HedZ72Eue9RBASoQXqQWf), [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Saloon](https://open.spotify.com/album/71cOCiBbJOp0PbtnZw7BkC) | 4:03 | 2025-10-23 | 2026-01-30 |
 | [My Favourite Monster](https://open.spotify.com/track/3Stk5Oa5Pc2ertfAP5tRUZ) | [Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [My Favourite Monster](https://open.spotify.com/album/3HcqPbTSgSh7CDAbOVU3zu) | 3:58 | 2025-05-29 | 2025-09-03 |
 | [My Fun](https://open.spotify.com/track/306xT15GTuDs3NyopIANrh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [My Fun](https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob) | 2:42 | 2024-06-27 | 2024-07-12 |
+| [My Guitar](https://open.spotify.com/track/1bRTiAfN4FKqP4ZqGnQFYm) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Stupid Kids](https://open.spotify.com/album/5KSvg69RiDoSqqXQZNq8wd) | 1:49 | 2026-02-27 |  |
 | [My Head's In A Hurricane](https://open.spotify.com/track/5attUtcjG5lDS2GYKbNjtN) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [Life Is A Killer](https://open.spotify.com/album/7Mb8z4fD81K8M5gcoeZrkP) | 3:23 | 2024-06-27 | 2024-07-19 |
 | [My Love](https://open.spotify.com/track/4XM4c3zMS0orMhblnrZwnS) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [My Love](https://open.spotify.com/album/4Flne5uLAm16EoUCf2DgDt) | 2:44 | 2025-06-19 | 2025-09-19 |
 | [My Maker](https://open.spotify.com/track/0CytapqefuNILUq2YdFw78) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [My Maker](https://open.spotify.com/album/47wcmMq8SaCVM5R7wOW8e4) | 4:19 | 2026-02-20 |  |
@@ -780,7 +781,6 @@
 | [Total euphoria](https://open.spotify.com/track/3yp3Hp8OzYV2IoSjYaoqff) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [Total euphoria](https://open.spotify.com/album/4JDRogeVzmOCAaVtsdPpuv) | 4:30 | 2025-05-29 | 2025-08-01 |
 | [Total euphoria](https://open.spotify.com/track/5GHYjIrLwK4e7WTTZZcJt5) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline 2](https://open.spotify.com/album/1CmdanwOGnV5QevtJQL6bN) | 4:30 | 2025-12-19 | 2026-02-27 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 | 2026-01-23 |
-| [Track 2](https://open.spotify.com/track/1bRTiAfN4FKqP4ZqGnQFYm) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Stupid Kids](https://open.spotify.com/album/5KSvg69RiDoSqqXQZNq8wd) | 0:00 | 2026-02-27 |  |
 | [Trap Door](https://open.spotify.com/track/2YmU8nq1nHFrRLJTOonDC2) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Gumshoe](https://open.spotify.com/album/4RtdIqhVWgQ2moLXF9yooo) | 2:27 | 2025-05-01 | 2025-06-27 |
 | [Triple Marathon](https://open.spotify.com/track/6gEl8SZNT90jyNCXVhZ3BO) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Triple Marathon](https://open.spotify.com/album/2PSzv4iDxvcbfTHL11obmh) | 2:37 | 2024-10-03 | 2024-11-15 |
 | [Trouble](https://open.spotify.com/track/4bGeuZpvvvIldq0daPo9wZ) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Trouble](https://open.spotify.com/album/2KmIKQIxmavgPgAfeQJMqD) | 5:00 | 2025-01-17 | 2025-02-07 |

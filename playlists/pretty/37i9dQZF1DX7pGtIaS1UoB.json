@@ -1,6 +1,6 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 100964,
+  "num_followers": 100971,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-01-29 16:00:38",
       "album": {
-        "name": "\u66d6\u6627",
-        "url": "https://open.spotify.com/album/2gqDiNvkKI7S4BNsrULQSk"
-      },
-      "artists": [
-        {
-          "name": "Rainie Yang",
-          "url": "https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk"
-        }
-      ],
-      "duration_ms": 262746,
-      "name": "\u7406\u60f3\u60c5\u4eba",
-      "url": "https://open.spotify.com/track/36nY8znTqPiL2MTCLkK0sZ"
-    },
-    {
-      "added_at": "2026-01-29 16:00:38",
-      "album": {
         "name": "Superman",
         "url": "https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 244690,
       "name": "\u5169\u96bb\u6200\u4eba",
       "url": "https://open.spotify.com/track/16MADi2KjVZgwshXXnCysN"
+    },
+    {
+      "added_at": "2026-01-29 16:00:38",
+      "album": {
+        "name": "\u66d6\u6627",
+        "url": "https://open.spotify.com/album/2gqDiNvkKI7S4BNsrULQSk"
+      },
+      "artists": [
+        {
+          "name": "Rainie Yang",
+          "url": "https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "\u7406\u60f3\u60c5\u4eba",
+      "url": "https://open.spotify.com/track/36nY8znTqPiL2MTCLkK0sZ"
     },
     {
       "added_at": "2026-01-29 16:00:38",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-01-29 16:00:38",
       "album": {
-        "name": "\u624d\u83ef\u63db\u6843\u82b1",
-        "url": "https://open.spotify.com/album/2zlOVnOj1NYHYqXVt5FlaD"
-      },
-      "artists": [
-        {
-          "name": "JOYCE \u5c31\u4ee5\u65af",
-          "url": "https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv"
-        }
-      ],
-      "duration_ms": 217346,
-      "name": "\u9760\u5f88\u8fd1",
-      "url": "https://open.spotify.com/track/5LgXO99ckCKgnGrxpMluIR"
-    },
-    {
-      "added_at": "2026-01-29 16:00:38",
-      "album": {
         "name": "\u8ffd\u5149\u8005",
         "url": "https://open.spotify.com/album/0OlLgBOD24qBVkpZwGPTLW"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 213333,
       "name": "\u8ffd\u5149\u8005",
       "url": "https://open.spotify.com/track/6XqSMZVMzLW9whVxxUr98p"
+    },
+    {
+      "added_at": "2026-01-29 16:00:38",
+      "album": {
+        "name": "\u624d\u83ef\u63db\u6843\u82b1",
+        "url": "https://open.spotify.com/album/2zlOVnOj1NYHYqXVt5FlaD"
+      },
+      "artists": [
+        {
+          "name": "JOYCE \u5c31\u4ee5\u65af",
+          "url": "https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv"
+        }
+      ],
+      "duration_ms": 217346,
+      "name": "\u9760\u5f88\u8fd1",
+      "url": "https://open.spotify.com/track/5LgXO99ckCKgnGrxpMluIR"
     },
     {
       "added_at": "2026-01-29 16:00:38",
@@ -939,18 +939,18 @@
     {
       "added_at": "2026-01-29 16:00:38",
       "album": {
-        "name": "\u591a\u51fa\u4f86\u7684\u81ea\u7531",
-        "url": "https://open.spotify.com/album/5ODtcfQN1zzG3KuvyQTbKg"
+        "name": "\u6162\u52d5\u4f5c\u544a\u767d",
+        "url": "https://open.spotify.com/album/3rmO1ZCqgQbHlWam1InUBD"
       },
       "artists": [
         {
-          "name": "Jerry Yan",
-          "url": "https://open.spotify.com/artist/2WkfI6UZfc7Ohpyba7d086"
+          "name": "Sam Lin",
+          "url": "https://open.spotify.com/artist/3EiW2e93LzyelaCJzRlNl1"
         }
       ],
-      "duration_ms": 213680,
-      "name": "\u6211\u6703\u5f88\u611b\u59b3",
-      "url": "https://open.spotify.com/track/1zMfP7uJhoVAfgiaRfmXHT"
+      "duration_ms": 159528,
+      "name": "\u6162\u52d5\u4f5c\u544a\u767d",
+      "url": "https://open.spotify.com/track/0oTNUfAZEykfW3zglmqdiF"
     },
     {
       "added_at": "2026-01-29 16:00:38",
@@ -971,18 +971,18 @@
     {
       "added_at": "2026-01-29 16:00:38",
       "album": {
-        "name": "\u6162\u52d5\u4f5c\u544a\u767d",
-        "url": "https://open.spotify.com/album/3rmO1ZCqgQbHlWam1InUBD"
+        "name": "\u591a\u51fa\u4f86\u7684\u81ea\u7531",
+        "url": "https://open.spotify.com/album/5ODtcfQN1zzG3KuvyQTbKg"
       },
       "artists": [
         {
-          "name": "Sam Lin",
-          "url": "https://open.spotify.com/artist/3EiW2e93LzyelaCJzRlNl1"
+          "name": "Jerry Yan",
+          "url": "https://open.spotify.com/artist/2WkfI6UZfc7Ohpyba7d086"
         }
       ],
-      "duration_ms": 159528,
-      "name": "\u6162\u52d5\u4f5c\u544a\u767d",
-      "url": "https://open.spotify.com/track/0oTNUfAZEykfW3zglmqdiF"
+      "duration_ms": 213680,
+      "name": "\u6211\u6703\u5f88\u611b\u59b3",
+      "url": "https://open.spotify.com/track/1zMfP7uJhoVAfgiaRfmXHT"
     },
     {
       "added_at": "2026-01-29 16:00:38",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-01-29 16:00:38",
       "album": {
-        "name": "\u6211\u597d\u60f3\u4f60",
-        "url": "https://open.spotify.com/album/0zP9QFtzJ6VBHYbANHCpsq"
-      },
-      "artists": [
-        {
-          "name": "\u9ec3\u633a\u744b",
-          "url": "https://open.spotify.com/artist/7aLIDbD2Yg3eXMhYQcNCss"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "\u6211\u597d\u60f3\u4f60",
-      "url": "https://open.spotify.com/track/6f9mkalKXgL9ijaPgFyf8c"
-    },
-    {
-      "added_at": "2026-01-29 16:00:38",
-      "album": {
         "name": "You Are My Only One (\u96fb\u8996\u5287\u201c\u6211\u548c\u5169\u500b\u4ed6\u201d\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/4tNABtO1IjRcguQA28sP8b"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 273950,
       "name": "You Are My Only One (\u96fb\u8996\u5287\u201c\u6211\u548c\u5169\u500b\u4ed6\u201d\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/71O9WhK2KDKAeD6ZigPIuB"
+    },
+    {
+      "added_at": "2026-01-29 16:00:38",
+      "album": {
+        "name": "\u6211\u597d\u60f3\u4f60",
+        "url": "https://open.spotify.com/album/0zP9QFtzJ6VBHYbANHCpsq"
+      },
+      "artists": [
+        {
+          "name": "\u9ec3\u633a\u744b",
+          "url": "https://open.spotify.com/artist/7aLIDbD2Yg3eXMhYQcNCss"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "\u6211\u597d\u60f3\u4f60",
+      "url": "https://open.spotify.com/track/6f9mkalKXgL9ijaPgFyf8c"
     },
     {
       "added_at": "2026-01-29 16:00:38",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2026-01-29 16:00:38",
       "album": {
-        "name": "\u597d\u559c\u6b61\u4f60",
-        "url": "https://open.spotify.com/album/0AxUxvZfoCud7qsk9TGcqp"
+        "name": "\u731c\u4e00\u731c (\u7db2\u8def\u5287\u300a\u81f4\u6211\u5011\u6696\u6696\u7684\u5c0f\u6642\u5149\u300b\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/17J8RqYCYwucOeGmbj89EW"
       },
       "artists": [
         {
-          "name": "\u989c\u4eba\u4e2d",
-          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
+          "name": "\u4f55\u66fc\u5a77",
+          "url": "https://open.spotify.com/artist/6exBk0p2kZ6V9sDD1Y3gsF"
         }
       ],
-      "duration_ms": 267272,
-      "name": "\u597d\u559c\u6b61\u4f60",
-      "url": "https://open.spotify.com/track/0uvjPVyOj050b6n60pxf2z"
+      "duration_ms": 227568,
+      "name": "\u731c\u4e00\u731c (\u7db2\u8def\u5287\u300a\u81f4\u6211\u5011\u6696\u6696\u7684\u5c0f\u6642\u5149\u300b\u63d2\u66f2)",
+      "url": "https://open.spotify.com/track/69AXIAN7Wni7y7LJaZVY6e"
     }
   ],
   "unique_name": "\u6696\u5fc3\u60c5\u6b4c",

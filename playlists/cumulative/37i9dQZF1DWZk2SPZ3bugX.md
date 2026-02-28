@@ -4,7 +4,7 @@
 
 > 🍾
 
-272 songs - 15 hr 31 min
+273 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Learn To Let You Go](https://open.spotify.com/track/6yb6j4wlyh7QJRwwwkgf5x) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX), [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Learn To Let You Go](https://open.spotify.com/album/45Si7yzaj24HiZcZg1gHcU) | 3:11 | 2025-04-17 | 2026-01-17 |
 | [Leaveyourlove](https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Leaveyourlove](https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug) | 3:51 | 2024-12-06 | 2025-09-12 |
 | [Lemon Lime](https://open.spotify.com/track/5Wqs17yMH84mkbZPpdBQ6i) | [TALI](https://open.spotify.com/artist/6v6wot3YV1QnPry6mfrCLK) | [WANDER](https://open.spotify.com/album/6x8LZr9QKEG7IP4eAcxEQf) | 2:20 | 2025-05-02 | 2025-08-15 |
-| [Les hommes c'est pas des mecs bien](https://open.spotify.com/track/7eF1VjQV9FtZee90SKf66W) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [Les hommes c'est pas des mecs bien](https://open.spotify.com/album/5EVuL399BeC3xOKLZr1Yl5) | 3:17 | 2025-11-14 |  |
+| [Les hommes c'est pas des mecs bien](https://open.spotify.com/track/7eF1VjQV9FtZee90SKf66W) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [Les hommes c'est pas des mecs bien](https://open.spotify.com/album/5EVuL399BeC3xOKLZr1Yl5) | 3:17 | 2025-11-14 | 2026-02-28 |
 | [Lightenup](https://open.spotify.com/track/1qtiESAzfGMw3YqJvI97ki) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Parcels](https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy) | 3:57 | 2023-01-04 | 2024-06-22 |
 | [Losers](https://open.spotify.com/track/6otUjBoNrp27EubqsoYGQx) | [Balthazar](https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ) | [Sand](https://open.spotify.com/album/0aYwzFnbFur2SEyJKKS0LD) | 3:25 | 2022-12-08 | 2023-06-10 |
 | [lost](https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [lost](https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp) | 3:01 | 2025-10-02 |  |
@@ -258,6 +258,7 @@
 | [Toujours \(feat\. Tim Dup & Lass\)](https://open.spotify.com/track/6w8cza3O4lfQksOP94V2Qw) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE), [Lass](https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX) | [Toujours \(feat\. Tim Dup & Lass\)](https://open.spotify.com/album/7hFlZmAmRd64a8sh7MfQmv) | 3:21 | 2022-12-08 | 2023-02-25 |
 | [Traveling](https://open.spotify.com/track/6gt5K9gmKX6nFU0Z35TPSh) | [Antoine Bourachot](https://open.spotify.com/artist/24bH0ZMlrOkri5XncEL7Oy) | [Traveling](https://open.spotify.com/album/13jajzKoI3hhybfKEBpneW) | 3:22 | 2024-06-21 | 2025-01-24 |
 | [Two Years](https://open.spotify.com/track/6a2z6P7iSN9CTnR3NYyCKV) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [Two Years](https://open.spotify.com/album/4UckwDR1GDGS6DN1YsTqql) | 2:48 | 2022-12-08 | 2023-09-23 |
+| [un thé?](https://open.spotify.com/track/0vfazLBkcqqyQHJEcdrQDP) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [un thé?](https://open.spotify.com/album/5Ui4e36gPTGfjiER2wVsAI) | 2:32 | 2026-02-27 |  |
 | [Upside Down \(Candy Crush\)](https://open.spotify.com/track/1WCzVWXNgKiadQJiOhYGbL) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Upside Down \(Candy Crush\)](https://open.spotify.com/album/7r5mhyO9C2p6mvRRP8YDHf) | 3:29 | 2025-11-06 |  |
 | [Vaitimbora](https://open.spotify.com/track/4PT2ZuTfGLHI86OBqm2Ezt) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Vaitimbora](https://open.spotify.com/album/1XkGjUleNg3jPo1f4j0oFf) | 2:15 | 2025-05-30 |  |
 | [Vinyle](https://open.spotify.com/track/63YoTNZTVXMeiVw8s7fd2V) | [Valère](https://open.spotify.com/artist/0V78ret9j8rEFKVB480Rcs) | [Vinyle](https://open.spotify.com/album/7zKq0eBazgkWFC3vV7L0gu) | 3:19 | 2025-07-10 | 2025-10-03 |

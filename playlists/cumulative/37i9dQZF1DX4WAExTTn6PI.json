@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-09",
-  "description": "Rising voices, enduring roots. Cover: Meels",
+  "description": "Rising voices, enduring roots. Cover: Kalyn Fay",
   "name": "Emerging Americana",
   "tracks": [
     {
@@ -1252,7 +1252,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 205384,
       "name": "Faeries",
       "url": "https://open.spotify.com/track/7vrvRfRl59esYrrL6Rg9Z8"
@@ -2074,7 +2074,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 258415,
       "name": "Happy Pills",
       "url": "https://open.spotify.com/track/4TjeuEN4Mzs2UdXxqrt5sO"
@@ -2128,7 +2128,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 220292,
       "name": "Head Spinning",
       "url": "https://open.spotify.com/track/4RILfmgv0OcLmBoWxNUmmW"
@@ -2258,6 +2258,24 @@
       "duration_ms": 196226,
       "name": "Home Right Here",
       "url": "https://open.spotify.com/track/1igYV6bfAibN26GqVNNOGt"
+    },
+    {
+      "album": {
+        "name": "Homeland",
+        "url": "https://open.spotify.com/album/2pg9ZErEcrNxyIgKqVkOIL"
+      },
+      "artists": [
+        {
+          "name": "School House",
+          "url": "https://open.spotify.com/artist/37JHgl2RfDoQKLho1Ig2gC"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217850,
+      "name": "Homeland",
+      "url": "https://open.spotify.com/track/0To1TLrTvs4qmNaXxUHRSc"
     },
     {
       "album": {
@@ -3013,6 +3031,24 @@
     },
     {
       "album": {
+        "name": "Listen To Me",
+        "url": "https://open.spotify.com/album/1HYb34NcCRU2OgOgNxpfoP"
+      },
+      "artists": [
+        {
+          "name": "Glass Kinsman",
+          "url": "https://open.spotify.com/artist/2r6hsDRBak5K0d2FWtgBSx"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234271,
+      "name": "Listen To Me",
+      "url": "https://open.spotify.com/track/2hj1pwxEQDh1Y5Fo9yZZjr"
+    },
+    {
+      "album": {
         "name": "First Time Feeling",
         "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
       },
@@ -3176,6 +3212,24 @@
       "duration_ms": 217805,
       "name": "Lost in a Dream",
       "url": "https://open.spotify.com/track/0ehGyu9uYhq7M2A9psuPEd"
+    },
+    {
+      "album": {
+        "name": "Lots of Beginnings",
+        "url": "https://open.spotify.com/album/3Bnae88C3el3PLo84yGx9P"
+      },
+      "artists": [
+        {
+          "name": "Nathan Evans Fox",
+          "url": "https://open.spotify.com/artist/2sQgm2iQWAvwjyGjTXDUJ2"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162212,
+      "name": "Lots of Beginnings",
+      "url": "https://open.spotify.com/track/22nxnyesn9ws2y2XvJae1k"
     },
     {
       "album": {
@@ -3482,6 +3536,24 @@
       "duration_ms": 182140,
       "name": "Millionaire Money",
       "url": "https://open.spotify.com/track/11Xej6CravthiyPLMqTvKe"
+    },
+    {
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/3hYLDvOXofP7VgpUY5aC1v"
+      },
+      "artists": [
+        {
+          "name": "Kalyn Fay",
+          "url": "https://open.spotify.com/artist/2ojhmBnnR44AHdtGGK8f9q"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188858,
+      "name": "More",
+      "url": "https://open.spotify.com/track/3VcsNXPuVExzrsc3Garkmf"
     },
     {
       "album": {
@@ -4942,7 +5014,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 202758,
       "name": "Sunset Drive",
       "url": "https://open.spotify.com/track/6ymEMVdD3IIpFdbJ1uhMiZ"
@@ -5141,6 +5213,24 @@
     },
     {
       "album": {
+        "name": "The Big Time",
+        "url": "https://open.spotify.com/album/6DULsRHZgOAeTM7VnBzbjz"
+      },
+      "artists": [
+        {
+          "name": "Thomas Csorba",
+          "url": "https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220341,
+      "name": "The Big Time",
+      "url": "https://open.spotify.com/track/0Cq7dBJ0G1JFeu6fQTLYyH"
+    },
+    {
+      "album": {
         "name": "The Boy And The Swan",
         "url": "https://open.spotify.com/album/1paQiW4t0eYyP4VvERxjjo"
       },
@@ -5156,6 +5246,24 @@
       "duration_ms": 248375,
       "name": "The Boy And The Swan",
       "url": "https://open.spotify.com/track/3OhnER1sVL5LlIdeBAvkFZ"
+    },
+    {
+      "album": {
+        "name": "The Dreaming Kind",
+        "url": "https://open.spotify.com/album/0RkkdDiuROPhI0p4gw9vpH"
+      },
+      "artists": [
+        {
+          "name": "Lacy Green",
+          "url": "https://open.spotify.com/artist/6WO2WuZjHxfZweG6FvoeCL"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242797,
+      "name": "The Dreaming Kind",
+      "url": "https://open.spotify.com/track/0VUmkh6uFoNL6LyPm5b5wu"
     },
     {
       "album": {
@@ -5206,7 +5314,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 230904,
       "name": "The Ridge",
       "url": "https://open.spotify.com/track/6KKD2JNwUK7tAh2pCTcr1j"
@@ -5260,7 +5368,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 223373,
       "name": "The Walking Song",
       "url": "https://open.spotify.com/track/6u2abfGSaWeWOZgBWb3ZT6"
@@ -5408,7 +5516,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 195373,
       "name": "This Far South",
       "url": "https://open.spotify.com/track/7aoLqFjMmh86wl4qRXunaP"
@@ -6042,6 +6150,42 @@
       "duration_ms": 154657,
       "name": "Won't Fence Us In",
       "url": "https://open.spotify.com/track/37y1NnmxdPUm2DbkY77ReI"
+    },
+    {
+      "album": {
+        "name": "Won't Stop Loving You",
+        "url": "https://open.spotify.com/album/25FHg8pLTuHQFDRvbQfwS2"
+      },
+      "artists": [
+        {
+          "name": "Georgia Gets By",
+          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182370,
+      "name": "Won't Stop Loving You",
+      "url": "https://open.spotify.com/track/0U4BKwfruydIlZLDGqKwXW"
+    },
+    {
+      "album": {
+        "name": "Woods Alone at Night",
+        "url": "https://open.spotify.com/album/1A3SO1qiCWbgKGO0L4HkoO"
+      },
+      "artists": [
+        {
+          "name": "Bandits on the Run",
+          "url": "https://open.spotify.com/artist/40wE5c0s5AtxRwWXoPzBg6"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256987,
+      "name": "Woods Alone at Night",
+      "url": "https://open.spotify.com/track/6f17Kgjlui95MaVt50as10"
     },
     {
       "album": {

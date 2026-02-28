@@ -4,7 +4,7 @@
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-190 songs - 12 hr 48 min
+192 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Jatuh Cinta \- Keluarga Cemara 2 Original Soundtrack](https://open.spotify.com/track/1bqkmiujAzPU2YOvCB3Mxj) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5), [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [Jatuh Cinta \(Keluarga Cemara 2 Original Soundtrack\)](https://open.spotify.com/album/2ZCF3Bul4PckNko2bqSfRO) | 3:27 | 2023-02-03 | 2023-05-04 |
 | [Jatuh Suka](https://open.spotify.com/track/6PqWdGIYq5xdLaa4zCZfRp) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 3:55 | 2023-02-03 |  |
 | [Jikalau](https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp) | [Naif](https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt) | [The Best](https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE) | 3:06 | 2023-02-03 | 2025-04-15 |
+| [Jurus Jitu](https://open.spotify.com/track/2suvULXa1nVq5s8iJGwSTt) | [Harra.](https://open.spotify.com/artist/0bPHN5TpcAXxpuPjgNbh7O) | [Jurus Jitu](https://open.spotify.com/album/13jsZBiwJDWXMZa8xVZOFb) | 3:29 | 2026-02-27 |  |
 | [Just You](https://open.spotify.com/track/6L68DyIsn6SqEN9rStOXb9) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [Question Mark \(\(?\)\)](https://open.spotify.com/album/6VBu0XUEgmljCOxqJPbzWx) | 3:02 | 2023-02-03 | 2025-02-18 |
 | [Kala Cinta Menggoda](https://open.spotify.com/track/4bYc6nyol1jKnCTUYtcr2E) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [My Love](https://open.spotify.com/album/1JGRzUgWJcj0mlgqsfiPGt) | 5:19 | 2023-02-03 | 2023-04-01 |
 | [Kala Cinta Menggoda](https://open.spotify.com/track/2KyTzyAZs6stW2TRrXDREW) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Chrisye "Untukku"](https://open.spotify.com/album/3UDpNv0SOmaemdASkAtxO8) | 5:20 | 2023-08-16 | 2024-04-19 |
@@ -179,6 +180,7 @@
 | [Tak Ada Yang Sepertimu](https://open.spotify.com/track/5Yh1sTQAU3BTIKMp3K5ZOX) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Rahasia Pertama](https://open.spotify.com/album/46Vu60ForvCqH8L7l9X6BP) | 3:11 | 2025-05-23 |  |
 | [Teman Bahagia](https://open.spotify.com/track/0KeK6xqEcTT1VWhHf5iw2d) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Teman Bahagia](https://open.spotify.com/album/4BqJFRg9Id95pDcb8ml84b) | 3:28 | 2023-02-03 |  |
 | [Teman Hidup](https://open.spotify.com/track/1U1qumuS2O5Qttw8G7UXOZ) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Tulus](https://open.spotify.com/album/2dnIPDYfh7enZ6JqI9COsk) | 3:42 | 2023-02-03 |  |
+| [Tenang](https://open.spotify.com/track/1TMvBhqekWmWJSxpmUMgFz) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Tenang](https://open.spotify.com/album/0AjNJcgo36wOxQzmvra3Zi) | 4:57 | 2026-02-27 |  |
 | [Terbawa Suasana](https://open.spotify.com/track/2MgcfN4Sp8ougHmasK8EXB) | [Sisca Saras](https://open.spotify.com/artist/2EB26dHYlQMV3VhPWQEJ7p) | [Terbawa Suasana](https://open.spotify.com/album/5ZnqRmmlH1EgJY3GKIfYoL) | 4:10 | 2024-09-27 | 2025-05-20 |
 | [Terima Kasih, Masih Disini](https://open.spotify.com/track/5v3MURRjjVuSv1YSjIygcX) | [Glenn Samuel](https://open.spotify.com/artist/26ez0LOxJMgy1GkkXhZiCV) | [Egen](https://open.spotify.com/album/6N1kgnyxQta615KlcCjNMD) | 3:49 | 2024-11-25 |  |
 | [Terlukis Indah](https://open.spotify.com/track/5S8TtEVuFPY9XEjg2hNWHa) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Terlukis Indah](https://open.spotify.com/album/5Qk3VFJJ4CKS3zcBNp2YRs) | 3:47 | 2023-02-03 |  |

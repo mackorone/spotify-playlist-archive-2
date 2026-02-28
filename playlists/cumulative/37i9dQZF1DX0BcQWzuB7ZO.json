@@ -240,6 +240,24 @@
     {
       "album": {
         "name": "Addicted",
+        "url": "https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163384,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ"
+    },
+    {
+      "album": {
+        "name": "Addicted",
         "url": "https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr"
       },
       "artists": [
@@ -1306,7 +1324,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 219650,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z"
@@ -1578,7 +1596,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 175384,
       "name": "Can't Decide",
       "url": "https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx"
@@ -1816,6 +1834,32 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
+    },
+    {
+      "album": {
+        "name": "Coming Up (It\u2019s Dare)",
+        "url": "https://open.spotify.com/album/2aXtY87dtUYnV93D8xTdmq"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "HYPERBEAM",
+          "url": "https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180895,
+      "name": "Coming Up (It\u2019s Dare)",
+      "url": "https://open.spotify.com/track/7JHkJ5mDS868b5j5h67cwL"
     },
     {
       "album": {
@@ -2362,7 +2406,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 221448,
       "name": "Dirty Cash (Money Talks)",
       "url": "https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX"
@@ -3150,7 +3194,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 121417,
       "name": "Exotica",
       "url": "https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC"
@@ -3788,6 +3832,28 @@
       "duration_ms": 201461,
       "name": "Get Stupid",
       "url": "https://open.spotify.com/track/22pC8m4kzjrMQRJXYg0usw"
+    },
+    {
+      "album": {
+        "name": "The Finest EP",
+        "url": "https://open.spotify.com/album/2MzCc76W5Gt0mGaRRDA9Ve"
+      },
+      "artists": [
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        },
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Gets Like That",
+      "url": "https://open.spotify.com/track/1aBVDx9VjyLEk8rz8pezru"
     },
     {
       "album": {
@@ -5102,6 +5168,28 @@
       "duration_ms": 166000,
       "name": "Just Say",
       "url": "https://open.spotify.com/track/1dHiSGzb9WFtDKnBFJs4KO"
+    },
+    {
+      "album": {
+        "name": "Just The Way You Are",
+        "url": "https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y"
+      },
+      "artists": [
+        {
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159500,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
     },
     {
       "album": {
@@ -7709,6 +7797,28 @@
     },
     {
       "album": {
+        "name": "Release The Pressure",
+        "url": "https://open.spotify.com/album/3mFlg0trNYSCnTd0RcN0wx"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203668,
+      "name": "Release The Pressure",
+      "url": "https://open.spotify.com/track/7Dev2VJdJKwIIUdj3lcQl9"
+    },
+    {
+      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
       },
@@ -8006,7 +8116,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 208770,
       "name": "Sauti",
       "url": "https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz"

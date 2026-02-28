@@ -4,7 +4,7 @@
 
 > Stank face activated\. Cover: Andrea Botez
 
-964 songs - 2 day 4 hr 1 min
+965 songs - 2 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -469,6 +469,7 @@
 | [Know Me Better](https://open.spotify.com/track/41AVceKYPXTFQNm8Sm9GP2) | [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [Know Me Better](https://open.spotify.com/album/2iR9KdDE9yT2u5WVXehm1u) | 2:56 | 2024-04-26 | 2024-11-16 |
 | [KODAK](https://open.spotify.com/track/30utr0JCDJbOgMPoUuV8uw) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [KODAK](https://open.spotify.com/album/7LdmGFahNZPl1EyBXeMyWS) | 2:53 | 2026-02-06 |  |
 | [Kush](https://open.spotify.com/track/1mcKSOFFc19eci3MVpMLEu) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Kush](https://open.spotify.com/album/6vfZKcqvCdoao2flVOevNr) | 2:36 | 2022-01-14 | 2022-02-26 |
+| [l!sten](https://open.spotify.com/track/7wIxOG0GnM21WueiICVACR) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv), [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [l!sten](https://open.spotify.com/album/3VDdMX2Cr34oAkZp7sgg7P) | 3:05 | 2026-02-27 |  |
 | [La candela viva](https://open.spotify.com/track/6EJuJAg1Ydjkoj9SCwMUyN) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x), [Twolate](https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh) | [La candela viva](https://open.spotify.com/album/7vxhUdJugQ2iMlF9DEzygr) | 2:54 | 2022-01-14 | 2022-04-29 |
 | [Last 1s Left](https://open.spotify.com/track/78igz8PCqqNYLVyhhSh0z5) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Skepta .\. Fred](https://open.spotify.com/album/7x9gF8DtACwxkejv2xBndT) | 3:45 | 2025-08-29 |  |
 | [Last Words](https://open.spotify.com/track/3YtI2ueiyc0amSuuLsiQgQ) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Sophon](https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV), [RUSUR](https://open.spotify.com/artist/4gTKDU9Pj2UNRnpheTNpdh) | [Last Words](https://open.spotify.com/album/7KosWcByYbJiHXhZBy2Q2I) | 2:59 | 2023-12-01 | 2024-01-13 |
@@ -522,7 +523,7 @@
 | [Lose My Mind](https://open.spotify.com/track/0b1Hl2o1a1Z2ScSvImmVDE) | [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m), [Strobez](https://open.spotify.com/artist/1af1aCeFBW4yyWUbGAC6mO) | [Lose My Mind](https://open.spotify.com/album/0RZWXjXZDItdGJkTGgc7OE) | 2:44 | 2025-08-29 | 2025-11-13 |
 | [Losing](https://open.spotify.com/track/5fXAhP6h0oEd4vkQ93c0hi) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [Losing](https://open.spotify.com/album/0DBKauq7473ZXa49DN6Mad) | 2:41 | 2022-12-09 | 2023-04-28 |
 | [Losing Control](https://open.spotify.com/track/4LwxeWSBu0LQtEyGLb6FVP) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy) | [Losing Control](https://open.spotify.com/album/3eKGADmjALWfFIXHDak5DB) | 2:45 | 2023-09-22 | 2025-04-05 |
-| [Lost](https://open.spotify.com/track/1OeW24Ek3LEthuQz1UyYCj) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Gabss](https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq) | [Lost](https://open.spotify.com/album/7w2dkzNW5zi8gWcgifhR8D) | 3:39 | 2026-01-09 |  |
+| [Lost](https://open.spotify.com/track/1OeW24Ek3LEthuQz1UyYCj) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Gabss](https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq) | [Lost](https://open.spotify.com/album/7w2dkzNW5zi8gWcgifhR8D) | 3:39 | 2026-01-09 | 2026-02-28 |
 | [Love](https://open.spotify.com/track/65R30Zi5Nssdllz2G2i4mh) | [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Love](https://open.spotify.com/album/6CMZK3G1qaa72PG24mQy7v) | 3:21 | 2022-08-19 | 2022-12-17 |
 | [Love For You](https://open.spotify.com/track/7ao8imeoghP0rWSOrIJalv) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Madalen Duke](https://open.spotify.com/artist/5qElg3REYcoPscmGLy0NmU) | [Love For You](https://open.spotify.com/album/3ymyjHRaZNbk8c2Sa2u8sg) | 3:23 | 2022-01-14 | 2022-04-16 |
 | [Love Vibration](https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Love Vibration](https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL) | 3:00 | 2022-01-14 | 2022-04-02 |

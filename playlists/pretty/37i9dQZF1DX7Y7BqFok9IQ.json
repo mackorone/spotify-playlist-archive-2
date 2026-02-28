@@ -1,13 +1,61 @@
 {
-  "description": "The best of modern blues rock. Cover: Robert Randolph",
-  "num_followers": 258743,
+  "description": "The best of modern blues rock. Cover: The Sheepdogs",
+  "num_followers": 258818,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAExrqyqXgtPgG71r7uFn8yK50gIg",
+  "snapshot_id": "AAAAAPqNXVOFwjOsDA+g75BINTTP9vOW",
   "tracks": [
+    {
+      "added_at": "2026-02-27 05:00:36",
+      "album": {
+        "name": "Keep Out of the Storm",
+        "url": "https://open.spotify.com/album/4zVep3YJysMh3gyQmCNKRr"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "duration_ms": 266053,
+      "name": "Bad For Your Health",
+      "url": "https://open.spotify.com/track/1yqEr1wbrKeDQzoVr4kvnB"
+    },
+    {
+      "added_at": "2026-02-27 05:00:36",
+      "album": {
+        "name": "Queen of Hearts",
+        "url": "https://open.spotify.com/album/5h647p839GyskOFAlaYj1l"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 300473,
+      "name": "Queen of Hearts",
+      "url": "https://open.spotify.com/track/0hbqFIZtFrxW2n1xlNDyVR"
+    },
+    {
+      "added_at": "2026-02-27 05:00:36",
+      "album": {
+        "name": "When the Love is Gone",
+        "url": "https://open.spotify.com/album/59Rz057fL9GfxdAUXd2QEr"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "duration_ms": 200026,
+      "name": "When the Love is Gone",
+      "url": "https://open.spotify.com/track/5iRv1aH4eNai45KfhjtJ6n"
+    },
     {
       "added_at": "2026-02-06 05:00:25",
       "album": {
@@ -23,22 +71,6 @@
       "duration_ms": 197646,
       "name": "You Got to Lose",
       "url": "https://open.spotify.com/track/5YrYpEPqwBymz2VgbIYGik"
-    },
-    {
-      "added_at": "2026-02-06 05:00:25",
-      "album": {
-        "name": "Deeper You Dig",
-        "url": "https://open.spotify.com/album/7JglLOummYjaW25xghkaOJ"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 210923,
-      "name": "Deeper You Dig",
-      "url": "https://open.spotify.com/track/6KLxIfgjQrPdChwd0d3WDF"
     },
     {
       "added_at": "2025-06-27 04:00:26",
@@ -71,6 +103,178 @@
       "duration_ms": 165248,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/0MMBjSzV3ZqCWLEuJdVqvK"
+    },
+    {
+      "added_at": "2026-02-27 05:00:36",
+      "album": {
+        "name": "She's A Self Made Man",
+        "url": "https://open.spotify.com/album/6dzXBWjuzGjI5TQxJWBh7G"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 181624,
+      "name": "She's A Self Made Man",
+      "url": "https://open.spotify.com/track/7Bu4ET2R5zKAeqM68l3Oqk"
+    },
+    {
+      "added_at": "2026-02-27 05:00:36",
+      "album": {
+        "name": "How High",
+        "url": "https://open.spotify.com/album/0mK7xlYoiJLSMI3qfSCZQq"
+      },
+      "artists": [
+        {
+          "name": "The Record Company",
+          "url": "https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX"
+        }
+      ],
+      "duration_ms": 192840,
+      "name": "How High",
+      "url": "https://open.spotify.com/track/1ifHcMs6Cm7LaSwIokxzzQ"
+    },
+    {
+      "added_at": "2026-02-27 05:00:36",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/6xca8kKugBDofCcvC4gsDe"
+      },
+      "artists": [
+        {
+          "name": "Liam St. John",
+          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
+        }
+      ],
+      "duration_ms": 225490,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/0rwpF4XtV2JL9857906zHq"
+    },
+    {
+      "added_at": "2026-02-27 05:00:36",
+      "album": {
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/5xDOU4dhO6MyAaKQJWP570"
+      },
+      "artists": [
+        {
+          "name": "Welshly Arms",
+          "url": "https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B"
+        }
+      ],
+      "duration_ms": 225001,
+      "name": "Indestructible",
+      "url": "https://open.spotify.com/track/3vCj0QDwcJBJoCteRG1kfh"
+    },
+    {
+      "added_at": "2026-02-27 05:00:36",
+      "album": {
+        "name": "662",
+        "url": "https://open.spotify.com/album/7vKItws7UGBfZpWG5mlqqn"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 197781,
+      "name": "662",
+      "url": "https://open.spotify.com/track/7lM1cf3zZuish0TjRnn5MB"
+    },
+    {
+      "added_at": "2026-02-27 05:00:36",
+      "album": {
+        "name": "Hit 'Em Back (feat. Robert Randolph, Tony Coleman)",
+        "url": "https://open.spotify.com/album/6v7PWbwEKiBFAPcijUpRVe"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        },
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        },
+        {
+          "name": "Robert Randolph",
+          "url": "https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx"
+        },
+        {
+          "name": "Tony Coleman",
+          "url": "https://open.spotify.com/artist/0QIxudHuVjcWwPZwHXC4l8"
+        }
+      ],
+      "duration_ms": 273981,
+      "name": "Hit 'Em Back (feat. Robert Randolph, Tony Coleman)",
+      "url": "https://open.spotify.com/track/4eZUZRpgqQVtQsvaEHtxti"
+    },
+    {
+      "added_at": "2026-02-27 05:00:36",
+      "album": {
+        "name": "Our Time In The Sun",
+        "url": "https://open.spotify.com/album/4zio3LtIBfWx2jroLprxvo"
+      },
+      "artists": [
+        {
+          "name": "Jeremie Albino",
+          "url": "https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY"
+        }
+      ],
+      "duration_ms": 159020,
+      "name": "Struggling With The Bottle",
+      "url": "https://open.spotify.com/track/5G1lsldy6mzaL8OXb721vS"
+    },
+    {
+      "added_at": "2026-02-27 05:00:36",
+      "album": {
+        "name": "Wine On Venus",
+        "url": "https://open.spotify.com/album/0jyiNPsHsc940i2MwOBCnB"
+      },
+      "artists": [
+        {
+          "name": "Grace Bowers & The Hodge Podge",
+          "url": "https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx"
+        }
+      ],
+      "duration_ms": 146360,
+      "name": "Madame President",
+      "url": "https://open.spotify.com/track/43VObA0RahYQ9dP9Sr3IRP"
+    },
+    {
+      "added_at": "2026-02-27 05:00:36",
+      "album": {
+        "name": "She Runs Hot",
+        "url": "https://open.spotify.com/album/26WQ4szhge6FtRZgWqR8bn"
+      },
+      "artists": [
+        {
+          "name": "Ghost Hounds",
+          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
+        }
+      ],
+      "duration_ms": 187352,
+      "name": "She Runs Hot",
+      "url": "https://open.spotify.com/track/5fLAUOUVivK8tXyI5m7zkl"
+    },
+    {
+      "added_at": "2026-02-27 05:00:36",
+      "album": {
+        "name": "Rooster",
+        "url": "https://open.spotify.com/album/7htHDHnkAKQAJgDMTRhKgM"
+      },
+      "artists": [
+        {
+          "name": "JJ Grey & Mofro",
+          "url": "https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv"
+        }
+      ],
+      "duration_ms": 291335,
+      "name": "Rooster",
+      "url": "https://open.spotify.com/track/28A4wvtJNrfEUJ1OvKadpk"
     },
     {
       "added_at": "2025-12-12 05:00:30",
@@ -473,22 +677,6 @@
       "url": "https://open.spotify.com/track/4HETqNVzwib2kYFfukHRys"
     },
     {
-      "added_at": "2025-01-24 05:00:42",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/5xkRbkZomPLJTiR32Xksqk"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 247077,
-      "name": "Easy Love Part 1",
-      "url": "https://open.spotify.com/track/7594aZRfOmr2R2SlZrhsPn"
-    },
-    {
       "added_at": "2025-02-07 05:00:20",
       "album": {
         "name": "Ain\u2019t Nuthin\u2019s Gonna Be Alright",
@@ -845,22 +1033,6 @@
       "url": "https://open.spotify.com/track/05rjMEQQcTDM0Vzr7bs8gW"
     },
     {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
-        "name": "Olustee",
-        "url": "https://open.spotify.com/album/1TK4IGwafhUenf6NTJsVPH"
-      },
-      "artists": [
-        {
-          "name": "JJ Grey & Mofro",
-          "url": "https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv"
-        }
-      ],
-      "duration_ms": 309546,
-      "name": "Olustee",
-      "url": "https://open.spotify.com/track/6VjD0MJwrKQjaJesWAy6hd"
-    },
-    {
       "added_at": "2024-01-12 05:01:00",
       "album": {
         "name": "Wanting and Waiting",
@@ -1019,22 +1191,6 @@
       "duration_ms": 247895,
       "name": "Step Aside",
       "url": "https://open.spotify.com/track/6CBRLsIvAeKj1MiPhHnPO9"
-    },
-    {
-      "added_at": "2021-06-18 04:01:00",
-      "album": {
-        "name": "Between Me and the Devil",
-        "url": "https://open.spotify.com/album/2LElrhEghTn9zIJXhEer3z"
-      },
-      "artists": [
-        {
-          "name": "Ghost Hounds",
-          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
-        }
-      ],
-      "duration_ms": 188182,
-      "name": "Between Me and the Devil",
-      "url": "https://open.spotify.com/track/3psWJDKW0A50XiCdqg4HVK"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1205,22 +1361,6 @@
       "url": "https://open.spotify.com/track/0lUehQtxsjaamm3yaOn2cs"
     },
     {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "Scarborough Street Fight",
-        "url": "https://open.spotify.com/album/2yWkANFYshG5s3byrY9DKk"
-      },
-      "artists": [
-        {
-          "name": "The Sheepdogs",
-          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
-        }
-      ],
-      "duration_ms": 270753,
-      "name": "Scarborough Street Fight",
-      "url": "https://open.spotify.com/track/7EPpQ2FZRoIIB7CRhRUwbH"
-    },
-    {
       "added_at": "2021-04-09 04:00:00",
       "album": {
         "name": "Nothing Left To Lose",
@@ -1363,22 +1503,6 @@
       "duration_ms": 255071,
       "name": "Gypsy Woman",
       "url": "https://open.spotify.com/track/0Xt2U98SY4qyd2ZTU8nOsE"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Donkey Jacket",
-        "url": "https://open.spotify.com/album/4GaibnEGmTlmMKutYQ80iI"
-      },
-      "artists": [
-        {
-          "name": "Henry's Funeral Shoe",
-          "url": "https://open.spotify.com/artist/3KTPs5Fok7A2VrDWNBlr4f"
-        }
-      ],
-      "duration_ms": 318458,
-      "name": "Be Your Own Invention",
-      "url": "https://open.spotify.com/track/1AfZrLEQLftSm2HsvGat4s"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -1525,22 +1649,6 @@
       "url": "https://open.spotify.com/track/6hY92vu9OTD8B7uTJgYsN4"
     },
     {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Wrong Creatures",
-        "url": "https://open.spotify.com/album/4bqvmPwZxKndCe4DrsLbuV"
-      },
-      "artists": [
-        {
-          "name": "Black Rebel Motorcycle Club",
-          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
-        }
-      ],
-      "duration_ms": 199800,
-      "name": "Little Thing Gone Wild",
-      "url": "https://open.spotify.com/track/0KSkqC5o5e3birYoEY9bkk"
-    },
-    {
       "added_at": "2023-02-03 05:01:00",
       "album": {
         "name": "Head Above Water",
@@ -1571,38 +1679,6 @@
       "duration_ms": 212760,
       "name": "Hurricane Coming",
       "url": "https://open.spotify.com/track/03COlVqn5cuG51u2txqzGt"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Hold on It",
-        "url": "https://open.spotify.com/album/4rdexywHhYUx0aouC1if9r"
-      },
-      "artists": [
-        {
-          "name": "The Sideshow Tragedy",
-          "url": "https://open.spotify.com/artist/3orDENaFfgt5gcLk24QHSS"
-        }
-      ],
-      "duration_ms": 251733,
-      "name": "Hold on It",
-      "url": "https://open.spotify.com/track/7GXqZ0v1AovRQDV0NBIs4a"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "World Boogie Is Coming",
-        "url": "https://open.spotify.com/album/46nKDUcNFmBL8ASwFH3P94"
-      },
-      "artists": [
-        {
-          "name": "North Mississippi Allstars",
-          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
-        }
-      ],
-      "duration_ms": 155986,
-      "name": "Rollin 'N Tumblin",
-      "url": "https://open.spotify.com/track/02V2PwXfovnT03QPHpp1SF"
     },
     {
       "added_at": "2023-03-03 16:06:00",
@@ -2033,22 +2109,6 @@
       "url": "https://open.spotify.com/track/1ZbVqL2ErCQH26Zj4JkHy0"
     },
     {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Pick Your Poison",
-        "url": "https://open.spotify.com/album/7DVKYtrPILCQxbUgP7EJ0a"
-      },
-      "artists": [
-        {
-          "name": "Black Pistol Fire",
-          "url": "https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo"
-        }
-      ],
-      "duration_ms": 225093,
-      "name": "Pick Your Poison",
-      "url": "https://open.spotify.com/track/2oXl8o2g4iPAEZL1YbmYVH"
-    },
-    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "Open Your Eyes",
@@ -2175,22 +2235,6 @@
       "duration_ms": 291800,
       "name": "We Cry",
       "url": "https://open.spotify.com/track/35HnL14kTLJ0KdPoqcON3T"
-    },
-    {
-      "added_at": "2021-04-09 04:00:00",
-      "album": {
-        "name": "Spirit's Furnace",
-        "url": "https://open.spotify.com/album/3cQWEV1dkuOosKa2EJNaxj"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 194331,
-      "name": "The Heat",
-      "url": "https://open.spotify.com/track/0XEUKN8CnHAKNmWmK1FG0d"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -2419,38 +2463,6 @@
       "duration_ms": 262426,
       "name": "Got Love - Made In Muscle Shoals",
       "url": "https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Love Like Machines",
-        "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
-      },
-      "artists": [
-        {
-          "name": "The Heavy Eyes",
-          "url": "https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ"
-        }
-      ],
-      "duration_ms": 169781,
-      "name": "God Damn Wolf Man",
-      "url": "https://open.spotify.com/track/50UtDNOwKeVHlBnO5xF0eU"
-    },
-    {
-      "added_at": "2021-04-09 04:00:00",
-      "album": {
-        "name": "Howlin' Sun",
-        "url": "https://open.spotify.com/album/2lWyPYPhVuPEd0fOTRHUwS"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Sun",
-          "url": "https://open.spotify.com/artist/4BH1zbJ2HjPh8g3yrUEcTw"
-        }
-      ],
-      "duration_ms": 132416,
-      "name": "Westbound",
-      "url": "https://open.spotify.com/track/5UJTAeX6bJC9lKi7kgLI6y"
     },
     {
       "added_at": "2022-04-08 04:01:00",

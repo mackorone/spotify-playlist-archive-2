@@ -842,7 +842,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 235535,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/6WjwYL2tzzci2pvpv50rS4"
@@ -1542,6 +1542,28 @@
       "duration_ms": 194604,
       "name": "Coal",
       "url": "https://open.spotify.com/track/5cI23aJ66Gw2a4N8l4dGYw"
+    },
+    {
+      "album": {
+        "name": "I Hope You're Happy (Deluxe)",
+        "url": "https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "Cold (feat. Post Malone)",
+      "url": "https://open.spotify.com/track/7fIIi2KQB2AUqRgmpreKYj"
     },
     {
       "album": {
@@ -4846,7 +4868,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 193399,
       "name": "Jack and Diet Coke",
       "url": "https://open.spotify.com/track/55a01VsdKH2OeSXLGy9wd5"
@@ -6346,7 +6368,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 178933,
       "name": "OIL MONEY",
       "url": "https://open.spotify.com/track/1HZECMqLKSh22jwPv3yRYm"
@@ -7694,7 +7716,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 207794,
       "name": "Somethin\u2019 \u2018Bout A Woman (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/1dHUB7GIbSk3MdL6a6KGvc"
@@ -8837,6 +8859,24 @@
     },
     {
       "album": {
+        "name": "Travelin' Soldier",
+        "url": "https://open.spotify.com/album/7Liu0RVrXQNZfnOAOlqQYv"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255466,
+      "name": "Travelin' Soldier",
+      "url": "https://open.spotify.com/track/4ThbwJaIWVxXZ1qJaHQBCz"
+    },
+    {
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/3svJ9Mv1JKL7R4CBZLtCfp"
       },
@@ -9349,6 +9389,24 @@
     },
     {
       "album": {
+        "name": "What If We Don't",
+        "url": "https://open.spotify.com/album/3FYPV3vL5Df8qEtSzpLqrC"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186440,
+      "name": "What If We Don't",
+      "url": "https://open.spotify.com/track/1bVQVuutAawJYGMacHHNCl"
+    },
+    {
+      "album": {
         "name": "What Kinda Man",
         "url": "https://open.spotify.com/album/53HiQCmdwiT4e7SHX74XdM"
       },
@@ -9710,6 +9768,24 @@
       "duration_ms": 166040,
       "name": "Wind Up Missin\u2019 You",
       "url": "https://open.spotify.com/track/7iQMm50NNwlUIRWhONZR2k"
+    },
+    {
+      "album": {
+        "name": "Wish I Didn't",
+        "url": "https://open.spotify.com/album/243wXw1Fj2jEcBGfH3Jts6"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209479,
+      "name": "Wish I Didn't",
+      "url": "https://open.spotify.com/track/5z5hTxmH4cAEYr9yg2L8OB"
     },
     {
       "album": {

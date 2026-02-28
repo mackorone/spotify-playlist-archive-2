@@ -1177,6 +1177,32 @@
     },
     {
       "album": {
+        "name": "Aasa Kalavaaniye (From \"Vadam\")",
+        "url": "https://open.spotify.com/album/6B8htiuEE28FcT3ZMKZPzp"
+      },
+      "artists": [
+        {
+          "name": "D. Imman",
+          "url": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0"
+        },
+        {
+          "name": "Gnanakaravel",
+          "url": "https://open.spotify.com/artist/2VCcOhGV9duDdROvJZ1Uqw"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251853,
+      "name": "Aasa Kalavaaniye (From \"Vadam\")",
+      "url": "https://open.spotify.com/track/7nuwHFMonNRYOn4IJpsp6f"
+    },
+    {
+      "album": {
         "name": "Aasa Kooda (From \"Think Indie\")",
         "url": "https://open.spotify.com/album/4AGLzJHGevDOnuHsQ0gxO5"
       },
@@ -32635,6 +32661,32 @@
     },
     {
       "album": {
+        "name": "Common Man (Orignal Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1zBSYeCpCup8md5if9fIpi"
+      },
+      "artists": [
+        {
+          "name": "Ashwin Edakkudi",
+          "url": "https://open.spotify.com/artist/07Rdu893ag8jDLzWDVRNpP"
+        },
+        {
+          "name": "Monish S",
+          "url": "https://open.spotify.com/artist/24YsL3k6lMYw1EIj7ladme"
+        },
+        {
+          "name": "Johan Joy",
+          "url": "https://open.spotify.com/artist/1KVTU5WTmpWN7EjNr7IEDf"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194986,
+      "name": "Nenjam Nee",
+      "url": "https://open.spotify.com/track/4GNSzNtCDu7hr1FLDp3kUW"
+    },
+    {
+      "album": {
         "name": "Maamannan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7pMOd6mZQQDi7hz6NYOKL0"
       },
@@ -42544,7 +42596,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 260400,
       "name": "Senai Koottam",
       "url": "https://open.spotify.com/track/72AcP6p8aBKk3YimQwl5oX"
@@ -46590,7 +46642,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 197142,
       "name": "Tharakku Tharakku",
       "url": "https://open.spotify.com/track/0QPWLyG7VbDdup033hLJyK"

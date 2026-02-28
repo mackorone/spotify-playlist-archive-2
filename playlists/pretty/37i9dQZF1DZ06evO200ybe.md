@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 
 > This is Chet Baker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,052 likes - 42 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,070 likes - 42 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 | 41 | [September Song](https://open.spotify.com/track/7cAe8OwCDQA9FcoGcSGbgH) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Riverside Profiles: Chet Baker](https://open.spotify.com/album/6yMw4xOPSnjJF3gt1Kcr5S) | 3:03 |
 | 42 | [Don't Explain](https://open.spotify.com/track/5ZT1p3Elvxg6yu9qgWnH5r) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 3:26 |
 
-Snapshot ID: `aZ47gAAAAACqi3e1vH1UJNu/dsuT8f91`
+Snapshot ID: `aZ+NAAAAAAAzwK4qJTPKawpYAG/wCk+g`

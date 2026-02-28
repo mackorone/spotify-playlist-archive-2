@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoAkqFHJmQZ.md) - [plain]
 
 > 🎮 Dein Soundtrack zum Zocken 🎮
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,412 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,422 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoAkqFHJmQZ.md) - [plain]
 | 37 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |
 | 38 | [Bleed It Out](https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 2:44 |
 | 39 | [Animal I Have Become](https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [One\-X](https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU) | 3:51 |
-| 40 | [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY) | 1:56 |
-| 41 | [Centuries](https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:48 |
+| 40 | [Centuries](https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:48 |
+| 41 | [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY) | 1:56 |
 | 42 | [Ric Flair Drip \(with Metro Boomin\)](https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Without Warning](https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0) | 2:52 |
 | 43 | [Revenge](https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:00 |
 | 44 | [The Emptiness Machine](https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:10 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoAkqFHJmQZ.md) - [plain]
 | 67 | [Deutschland](https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 5:22 |
 | 68 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 |
 | 69 | [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS](https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D) | 2:22 |
-| 70 | [Come & Go \(with Marshmello\)](https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 3:25 |
+| 70 | [Wishing Well](https://open.spotify.com/track/2U5WueTLIK5WJLD7mvDODv) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 3:14 |
 
 Snapshot ID: `AAAAAOLmFVg+cI9blqKreAGxtXRolgSc`

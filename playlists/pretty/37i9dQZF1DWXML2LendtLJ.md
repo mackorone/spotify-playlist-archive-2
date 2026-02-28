@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXML2LendtLJ.md) - [plain]
 
 > The breeziest songs to get you through the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,907 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,914 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXML2LendtLJ.md) - [plain]
 | 43 | [On Bended Knee](https://open.spotify.com/track/4Gmkqn3V7IMTkOmmiX7cbb) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [II](https://open.spotify.com/album/1DjxZpmeR9Dzu9tF4J44S7) | 5:29 |
 | 44 | [Wonderful Tonight](https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:45 |
 | 45 | [Bad Day](https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK) | [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Daniel Powter](https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI) | 3:53 |
-| 46 | [Scott and Zelda](https://open.spotify.com/track/1MJyiTlVdSLAjI9aclZ3hL) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [EVE: ROMANCE](https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y) | 3:13 |
+| 46 | [Happier](https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:27 |
 | 47 | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ) | 3:28 |
-| 48 | [Happier](https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:27 |
-| 49 | [You're Still The One](https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:32 |
-| 50 | [Can't Fight This Feeling](https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Wheels Are Turnin'](https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR) | 4:54 |
+| 48 | [Scott and Zelda](https://open.spotify.com/track/1MJyiTlVdSLAjI9aclZ3hL) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [EVE: ROMANCE](https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y) | 3:13 |
+| 49 | [Can't Fight This Feeling](https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Wheels Are Turnin'](https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR) | 4:54 |
+| 50 | [You're Still The One](https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:32 |
 
 Snapshot ID: `AAAAAMbXLsDkmw/mxMIxX6GobgwtIybx`

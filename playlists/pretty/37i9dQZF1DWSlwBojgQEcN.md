@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,605,333 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,605,217 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 57 | [Love You Anyway](https://open.spotify.com/track/31QplXgQf5ZZzk6mbx5KHr) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Love You Anyway](https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG) | 3:47 |
 | 58 | [Sail on the Water](https://open.spotify.com/track/7gYiZXvvD8H6f0lEvLUQHD) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Sail on the Water](https://open.spotify.com/album/0RiF9qA2En4shWcPAC5Pz5) | 4:21 |
 | 59 | [1,000 Years](https://open.spotify.com/track/22uyZjmZR0DX8FyrIwQl35) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [The Colder Months](https://open.spotify.com/album/2e0UF1lwDIhvbpEY3hlog1) | 3:39 |
-| 60 | [Halleluya](https://open.spotify.com/track/1eiSkx4vQiHJ2tzMDDjL01) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Halleluya](https://open.spotify.com/album/4ZDbn99PxmBpj3UtcDXWWx) | 3:54 |
-| 61 | [After Dark](https://open.spotify.com/track/039NLDI1UZZlXtLB0Kog6W) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [After Dark](https://open.spotify.com/album/6ruIiJQxN1oHeJKq24M4Rn) | 4:08 |
-| 62 | [Take Your Time](https://open.spotify.com/track/4B5Opwj9GzHEWizfD5ZLzQ) | [Humbear](https://open.spotify.com/artist/2u6q1sXo1CNVNLFCWqWDGo) | [Take Your Time](https://open.spotify.com/album/1LVvgt8v7FuFux2bJAYb2F) | 3:24 |
+| 60 | [After Dark](https://open.spotify.com/track/039NLDI1UZZlXtLB0Kog6W) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [After Dark](https://open.spotify.com/album/6ruIiJQxN1oHeJKq24M4Rn) | 4:08 |
+| 61 | [Take Your Time](https://open.spotify.com/track/4B5Opwj9GzHEWizfD5ZLzQ) | [Humbear](https://open.spotify.com/artist/2u6q1sXo1CNVNLFCWqWDGo) | [Take Your Time](https://open.spotify.com/album/1LVvgt8v7FuFux2bJAYb2F) | 3:24 |
+| 62 | [Halleluya](https://open.spotify.com/track/1eiSkx4vQiHJ2tzMDDjL01) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Halleluya](https://open.spotify.com/album/4ZDbn99PxmBpj3UtcDXWWx) | 3:54 |
 | 63 | [Love You Anyway \[Feat\. Sammy Rae & The Friends\]](https://open.spotify.com/track/3wSMril9YOcKdoeAuPLNH3) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH), [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | [Love You Anyway \[Feat\. Sammy Rae & The Friends\]](https://open.spotify.com/album/4pGdjWWFkaIWX7f6RxrX0t) | 3:58 |
 | 64 | [All the Beds I've Made \(Acoustic\)](https://open.spotify.com/track/10jrqgyC1u81RhIgtLUfdR) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [All the Beds I've Made \(Acoustic\)](https://open.spotify.com/album/3WAsH27vQcwla1TNOYFEua) | 3:33 |
 | 65 | [Winners](https://open.spotify.com/track/24iNTcDw03qMYCS3mJaq5f) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Wild Animals](https://open.spotify.com/album/1DcI1ob0G4cNKIyFhrR35S) | 5:14 |
@@ -94,10 +94,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 84 | [Highway Woman](https://open.spotify.com/track/1JJUMgzCxkBeF8kaS2FR5v) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Highway Woman](https://open.spotify.com/album/6nqOmZZeSp7hLaM3RT1uuI) | 3:48 |
 | 85 | [Love Is Blind](https://open.spotify.com/track/66gYCVuAKeIlVgTbAmAbWq) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Love Is Blind](https://open.spotify.com/album/7ajyVPfdzn9WgosdGUnWHw) | 3:53 |
 | 86 | [Who Saved Who](https://open.spotify.com/track/3xQMRlwBgqvYWJX8TsOOgq) | [Mindy Smith](https://open.spotify.com/artist/4QGC11o7gQR7MBEJ5cUMSv), [Matthew Perryman Jones](https://open.spotify.com/artist/68524z8sd176IRenNb1Fjy) | [Who Saved Who](https://open.spotify.com/album/50Ddcp9wVHb6ZRNkJ5WbbX) | 4:05 |
-| 87 | [Nothing Stays the Same](https://open.spotify.com/track/2xv9YbPXYQFxIJOFQZ93kJ) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Tornados EP](https://open.spotify.com/album/1sEIDqRXKhMYnTmxtet0E5) | 4:01 |
+| 87 | [In Love a Little While](https://open.spotify.com/track/5BRdAEkolAiHyodHeVE3OF) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [In Love a Little While](https://open.spotify.com/album/5YalgymSO85RdwEpntw0jk) | 2:52 |
 | 88 | [Little Birds](https://open.spotify.com/track/3ePJFt2th9XXwaGFUmn2pr) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu) | 3:25 |
-| 89 | [Lover / / Over the Moon](https://open.spotify.com/track/5hGzYOXKT3YxJu2qcDTc44) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 3:27 |
-| 90 | [In Love a Little While](https://open.spotify.com/track/5BRdAEkolAiHyodHeVE3OF) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [In Love a Little While](https://open.spotify.com/album/5YalgymSO85RdwEpntw0jk) | 2:52 |
+| 89 | [Nothing Stays the Same](https://open.spotify.com/track/2xv9YbPXYQFxIJOFQZ93kJ) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Tornados EP](https://open.spotify.com/album/1sEIDqRXKhMYnTmxtet0E5) | 4:01 |
+| 90 | [Lover / / Over the Moon](https://open.spotify.com/track/5hGzYOXKT3YxJu2qcDTc44) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 3:27 |
 | 91 | [Wedding Song](https://open.spotify.com/track/0jncXf6jewaysWY90QkzNV) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [That Spell](https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ) | 3:04 |
 | 92 | [From This Valley \- Acoustic](https://open.spotify.com/track/5UcW2Su74svT2gYHBv57fO) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Bare Bones EP](https://open.spotify.com/album/0EIZbhrZvPpSoR0JnqvjWn) | 3:29 |
 | 93 | [Chandelier Love](https://open.spotify.com/track/1ct2wAU6FAIIGhfw8EsnKA) | [Nathan Reich](https://open.spotify.com/artist/3kyJ9Dtcfsww8eXKdmLvtf) | [All Night Pharmacy](https://open.spotify.com/album/7rnzB9PcNqoE3A0JrYXh3s) | 4:23 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 97 | [Marry Me](https://open.spotify.com/track/2xierqeEyEkSJL9WKInBR5) | [Venus and the Moon](https://open.spotify.com/artist/2wHuSfI5SnRFuRsaCKJRL3) | [Marry Me](https://open.spotify.com/album/67fjSg28o9BaGW2WxJ2ndD) | 3:01 |
 | 98 | [The Ones I Love](https://open.spotify.com/track/7zRYjnA47oCzNwc67sTTnf) | [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk) | [Me and the Fool I've Been \(Set 2\)](https://open.spotify.com/album/1wu5s1SZC92eAVDJZYTsMN) | 3:00 |
 | 99 | [Care for Me](https://open.spotify.com/track/2ZyWQzcTlpZhKZluJL9TgE) | [Lee Henke](https://open.spotify.com/artist/0LWZC1UccfSpUQvkRPXf7T) | [Schema \- EP](https://open.spotify.com/album/0HvUhXafSupf8Iee6UBimo) | 4:11 |
-| 100 | [In Good Times](https://open.spotify.com/track/3gCZCyMbMK0jHCRDQfpKrX) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Remember Roses](https://open.spotify.com/album/2Dpk21DBj28JDsfpkrPj5Z) | 2:51 |
+| 100 | [Love Is a Made up Word](https://open.spotify.com/track/1dUfHTOZfjE7fqpqd5zjpH) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Love Is a Made up Word](https://open.spotify.com/album/16nXFlZeEgcDuSCEr8fjKD) | 3:06 |
 
 Snapshot ID: `AAAAAAUrI/3R44/q/s6BCEgAMbKh55qP`

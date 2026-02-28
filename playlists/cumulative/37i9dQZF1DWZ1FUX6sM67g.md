@@ -4,7 +4,7 @@
 
 > ¡En este punto tropical, se encuentra un poco de todo! Foto: Elsa y Elmar
 
-261 songs - 15 hr 8 min
+262 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Después de la Playa / Me Porto Bonito](https://open.spotify.com/track/1j5zmxtObsNWBsd4pZMCqi) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y) | [Después de la Playa / Me Porto Bonito](https://open.spotify.com/album/0SXL43fhwmNUWngNuDXLCO) | 6:00 | 2022-08-05 | 2022-10-08 |
 | [Dios Así Lo Quiso](https://open.spotify.com/track/6pSS2IOxlapb62T7NAOX1Q) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Dios Así Lo Quiso](https://open.spotify.com/album/2XLdU438g2M5bBHAO1yNWf) | 3:33 | 2022-05-20 | 2022-11-12 |
 | [Dios Es Un Stalker](https://open.spotify.com/track/6FdOGTRYvLCJ79d55YtGgZ) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 2:10 | 2025-11-07 |  |
+| [Dominiqueando Mix](https://open.spotify.com/track/6SHHcGkw7lh1rkaedIYLz2) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC), [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Dominiqueando Mix](https://open.spotify.com/album/4TNNwIKxjGW48DlS2p6zxq) | 4:00 | 2026-02-27 |  |
 | [DROGA](https://open.spotify.com/track/1cmfXbOvNJt7iDrnJy5BRE) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [LO MISMO DE SIEMPRE](https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6) | 3:42 | 2025-06-13 | 2025-12-06 |
 | [El Caballito](https://open.spotify.com/track/4VnxD9V3h0R6aCYjSrDYqJ) | [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [El Caballito](https://open.spotify.com/album/02Lqkj1doHSYSol3v5RH9R) | 3:01 | 2024-06-07 | 2024-09-07 |
 | [EL CANTANTE DEL GHETTO](https://open.spotify.com/track/50EDwjxJALuDmkRAreUQga) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [COQE](https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E), [LA ETERNA](https://open.spotify.com/artist/3PrTzrJ36Kj5MYdyltrEB7) | [EL CANTANTE DEL GHETTO](https://open.spotify.com/album/1N0LBYdEsIC9NLdXyZXkIi) | 3:25 | 2024-04-19 | 2024-06-08 |

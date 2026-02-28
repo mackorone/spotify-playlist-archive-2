@@ -4,7 +4,7 @@
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-320 songs - 16 hr 4 min
+321 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Pierwszy raz](https://open.spotify.com/track/2ihiNri1NnpPqce4TbC9xE) | [Fukaj](https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [Znajdź mnie w tym](https://open.spotify.com/album/3ejpPh0fWw2YEzyd2Rl17R) | 2:49 | 2026-01-23 |  |
 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 | 2025-02-07 | 2025-08-09 |
 | [Po blady świt](https://open.spotify.com/track/66JVsDHnnrvcbDci9qLYMO) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Po blady świt](https://open.spotify.com/album/33CEjHlVgmCZ6CHbIGSwUc) | 2:36 | 2025-08-08 |  |
+| [pociąg bez ostatniej stacji](https://open.spotify.com/track/5fSucf8xEDuZxMBMppdeUb) | [majtis](https://open.spotify.com/artist/0x85f5ZhAe1Oj4CTnWEPtv), [4Money](https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1) | [pociąg bez ostatniej stacji](https://open.spotify.com/album/4AAlpeTlY3hzbcQVmGms73) | 2:24 | 2026-02-23 |  |
 | [Podnoszę Się](https://open.spotify.com/track/7r3X63EZjGmxSF8S5m2rHF) | [Diana Ciecierska](https://open.spotify.com/artist/4Jp2wKMl0kEaveqzJ8pvaC) | [Podnoszę Się](https://open.spotify.com/album/7sWZbNyuYaLkAMJAR2evue) | 2:21 | 2025-05-19 | 2025-07-05 |
 | [POMALUJ MÓJ ŚWIAT](https://open.spotify.com/track/5AOkd7BJEmVj3pxRhW072C) | [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m), [BeMelo](https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx) | [POMALUJ MÓJ ŚWIAT](https://open.spotify.com/album/6rmMDwIEyRMHsfx1x9SwV6) | 3:08 | 2024-09-20 | 2024-12-10 |
 | [Priceless \(feat\. LISA\)](https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Priceless \(feat\. LISA\)](https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ) | 2:43 | 2025-05-19 | 2026-01-24 |
@@ -309,7 +310,7 @@
 | [Wiatr](https://open.spotify.com/track/3KWWFT878MW91P22IealNu) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [Wiatr](https://open.spotify.com/album/2iZW07HMNtT7rg0DXmWpnH) | 2:48 | 2024-11-08 | 2025-08-09 |
 | [Wild Guess](https://open.spotify.com/track/3yEBtdO34T5kdnabqZJawn) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Wild Guess](https://open.spotify.com/album/1gfZZDAAhIEZInvGnmkdlU) | 2:46 | 2025-10-03 |  |
 | [Więcej](https://open.spotify.com/track/73l4adiuFKirZH4umyzEog) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Więcej](https://open.spotify.com/album/2wLGQoYi4SsbyGmjEbQiNE) | 2:33 | 2024-11-08 | 2025-08-09 |
-| [Więcej nas](https://open.spotify.com/track/0pN5F4nvvnB2ZYb9AhKMJ4) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh), [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM) | [Więcej nas](https://open.spotify.com/album/6f0unjJ3i3i2jCOoCvsIvx) | 3:01 | 2025-10-03 |  |
+| [Więcej nas](https://open.spotify.com/track/0pN5F4nvvnB2ZYb9AhKMJ4) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh), [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM) | [Więcej nas](https://open.spotify.com/album/6f0unjJ3i3i2jCOoCvsIvx) | 3:01 | 2025-10-03 | 2026-02-28 |
 | [Wracam](https://open.spotify.com/track/5GYd7snaxD4knd8vPfHMDB) | [Jeremi Sikorski](https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw) | [Wracam](https://open.spotify.com/album/4TabkmEusGSAl53UzIhyOR) | 3:05 | 2025-12-19 |  |
 | [Writing's On The Wall](https://open.spotify.com/track/4mDTqEqt0QHQFPNkz8eHjr) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore](https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s) | 2:49 | 2025-12-19 | 2026-01-24 |
 | [Wrony](https://open.spotify.com/track/1gHxj1TdRassgePaJ1YyY0) | [Mikromusic](https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5), [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Nie umiem tańczyć](https://open.spotify.com/album/2oy1VAURRFI9h5U6Y060mM) | 3:15 | 2025-01-24 | 2025-02-08 |

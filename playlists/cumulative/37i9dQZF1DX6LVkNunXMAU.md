@@ -4,7 +4,7 @@
 
 > indie folk latino de estación\. Foto: LAIA
 
-349 songs - 19 hr 10 min
+350 songs - 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Aquellos misterios](https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Aquellos misterios](https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT) | 2:29 | 2022-11-11 | 2024-09-27 |
 | [Atada](https://open.spotify.com/track/4XUS6E19iUfJeE7zvlQwaE) | [Sofi Terán](https://open.spotify.com/artist/31KuvYNsxdSKqFyaIKfBDD), [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR) | [Atada](https://open.spotify.com/album/3iD9lxNOhl1Nmog56i3ULv) | 2:51 | 2023-04-07 | 2023-06-24 |
 | [Atajo](https://open.spotify.com/track/5qYHHNRetV9XqWKFbtcBPc) | [Pupa](https://open.spotify.com/artist/4DeufbCPBkq8eqpPRAiuqh), [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [Atajo](https://open.spotify.com/album/114IoHxDs2zmo1imnM3MHA) | 3:36 | 2022-05-20 | 2024-09-27 |
+| [Ay Amor](https://open.spotify.com/track/2kbW8T7QHzjcTWR7yrMuki) | [Sunny](https://open.spotify.com/artist/1IwRlef3wOkD3M0ZsbhhAf) | [Demos \(Lado B\)](https://open.spotify.com/album/78wjxzYSTxyzXMeRI508oa) | 2:44 | 2026-02-27 |  |
 | [Ay, Mi Gorrión!](https://open.spotify.com/track/0txPwD3oxvQ7dlLnYlmkLh) | [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Ay, Mi Gorrión!](https://open.spotify.com/album/3eejHVYQFBUCGtVQRDGfMQ) | 3:50 | 2025-07-18 |  |
 | [Azul](https://open.spotify.com/track/7jUG0DPV7K1r0gHBvF6BFz) | [Luciana Tagliapietra](https://open.spotify.com/artist/1Q3Ba3dBArHD2RV4SpROOk), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Azul](https://open.spotify.com/album/7xmxWuzUa907hkQYL64jJD) | 2:50 | 2023-08-11 |  |
 | [aún así](https://open.spotify.com/track/6xhZTQCPxvPVAhptkjL7x1) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q), [imbn](https://open.spotify.com/artist/4G8NhGa4RLX6Vyw5Cfb09o) | [aún así](https://open.spotify.com/album/59m9P7LhajZCo37PffWKMr) | 3:54 | 2025-01-10 | 2025-12-01 |
@@ -105,7 +106,7 @@
 | [Deseo](https://open.spotify.com/track/50hyNWjdwIF9scfR90eODz) | [Agustina Pampin](https://open.spotify.com/artist/1SzhQpRiCh3rCfkjTmPcfv) | [Deseo](https://open.spotify.com/album/1rsiAjtt1h6xohktk6jfHe) | 3:09 | 2023-05-19 | 2023-06-24 |
 | [despegar mis pies \- En Vivo](https://open.spotify.com/track/0Cy9Zbzq7emQ6Xi02d9V1U) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Un Nuevo Refugio \(Dulce Cuarto Sesiones\) \[En Vivo\]](https://open.spotify.com/album/4ieBAdvt0JDhrGCsCyMHCJ) | 3:48 | 2024-10-11 |  |
 | [Dije que sí](https://open.spotify.com/track/78rLvvoIpOAcdVPmQJNTnt) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Decir que sí](https://open.spotify.com/album/52PFaNWnDjXTCuDyMdIFT0) | 2:18 | 2025-07-25 |  |
-| [Disfonía](https://open.spotify.com/track/0uJDoMbRcfmojaIOqOOMs7) | [Sofía Lombilla](https://open.spotify.com/artist/4SB2xVfkvR6IZqTPRoQnjV), [Simón Altgelt](https://open.spotify.com/artist/4mkyTjyoJuHvEq8Mr6suBz) | [Disfonía](https://open.spotify.com/album/6O1TAFDVgBj9d04MltQQ9b) | 2:29 | 2022-05-20 |  |
+| [Disfonía](https://open.spotify.com/track/0uJDoMbRcfmojaIOqOOMs7) | [Sofía Lombilla](https://open.spotify.com/artist/4SB2xVfkvR6IZqTPRoQnjV), [Simón Altgelt](https://open.spotify.com/artist/4mkyTjyoJuHvEq8Mr6suBz) | [Disfonía](https://open.spotify.com/album/6O1TAFDVgBj9d04MltQQ9b) | 2:29 | 2022-05-20 | 2026-02-28 |
 | [Dolor](https://open.spotify.com/track/0chHnBvvMZPlYhu9zng97m) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Dolor](https://open.spotify.com/album/6zB720K3Qqm1dpiZPJB60h) | 2:48 | 2023-07-07 |  |
 | [Dos Extraños](https://open.spotify.com/track/1A6WHBHrOBZTdGcQrc3HAV) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Dos Extraños](https://open.spotify.com/album/1LtqPrw7WHFks31bbxZ3LM) | 3:01 | 2023-06-16 | 2024-09-27 |
 | [Dos Hemisferios](https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Dos Hemisferios](https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8) | 3:35 | 2024-03-07 | 2024-09-27 |

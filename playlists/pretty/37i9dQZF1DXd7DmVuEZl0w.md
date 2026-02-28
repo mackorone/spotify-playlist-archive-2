@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7DmVuEZl0w.md) - [plain]
 
 > Get into the Eid spirit with this uplifting Eid songs collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,268 likes - 35 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,271 likes - 35 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,12 +18,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7DmVuEZl0w.md) - [plain]
 | 8 | [Emshy](https://open.spotify.com/track/1VQx8TpKEv8uWQ1awwPX5f) | [Tommyy](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l), [Rally](https://open.spotify.com/artist/61suwIK2ayrvQ9awCNEKfy) | [El Rwaya](https://open.spotify.com/album/2uoPClqaphvHQd6zqtF8M2) | 3:11 |
 | 9 | [حفلة تنكرية](https://open.spotify.com/track/41IZAYettcwnRMaS3ZewW7) | [Rahma Mohsen](https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD) | [حفلة تنكرية](https://open.spotify.com/album/1jlPHHOIkfLUYWzbsCOBxF) | 3:10 |
 | 10 | [Ganeni](https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 2:57 |
-| 11 | [حبيبي وابن حبيبي \- من مسلسل كامل العدد ++](https://open.spotify.com/track/5OcVGQFVNvHt25O5ko22tF) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [حبيبي وابن حبيبي \(من مسلسل كامل العدد ++\)](https://open.spotify.com/album/67zii02wzTY1Zq4ExpGAUy) | 3:16 |
-| 12 | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/track/4TBxB7MulrQ1Nb2uxHwJX1) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/album/7uWbDuFBLAEI68L9U2pJ85) | 2:41 |
+| 11 | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/track/4TBxB7MulrQ1Nb2uxHwJX1) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/album/7uWbDuFBLAEI68L9U2pJ85) | 2:41 |
+| 12 | [حبيبي وابن حبيبي \- من مسلسل كامل العدد ++](https://open.spotify.com/track/5OcVGQFVNvHt25O5ko22tF) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [حبيبي وابن حبيبي \(من مسلسل كامل العدد ++\)](https://open.spotify.com/album/67zii02wzTY1Zq4ExpGAUy) | 3:16 |
 | 13 | [Aal Doghrey](https://open.spotify.com/track/0rGCXktltsDt5jmcFwjFm4) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Aal Doghrey](https://open.spotify.com/album/7zhW3zAi1lfGgNmSk9GiCY) | 4:43 |
 | 14 | [Ya Layaly](https://open.spotify.com/track/5hCAs0OsDpCy6kZxEAI3aw) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Ya Layaly](https://open.spotify.com/album/3p1T8i6PfyTuZkaXMBQGX7) | 3:10 |
-| 15 | [ولاد الشمس](https://open.spotify.com/track/6bT6tu7R9BaAZHAHTebbFM) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [ولاد الشمس](https://open.spotify.com/album/3c9LqrAjd1JANFnh2C8IzO) | 2:34 |
-| 16 | [Etklm Kol Youm Youmin](https://open.spotify.com/track/0DOXgjJRqej7wAH8B2Ar7B) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D), [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W) | [Etklm Kol Youm Youmin](https://open.spotify.com/album/5NOv6doSj36FT1NhOQkjD3) | 3:20 |
+| 15 | [Etklm Kol Youm Youmin](https://open.spotify.com/track/0DOXgjJRqej7wAH8B2Ar7B) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D), [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W) | [Etklm Kol Youm Youmin](https://open.spotify.com/album/5NOv6doSj36FT1NhOQkjD3) | 3:20 |
+| 16 | [ولاد الشمس](https://open.spotify.com/track/6bT6tu7R9BaAZHAHTebbFM) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [ولاد الشمس](https://open.spotify.com/album/3c9LqrAjd1JANFnh2C8IzO) | 2:34 |
 | 17 | [روقان](https://open.spotify.com/track/6bltDO0jvqd9OQqhtR4Hjf) | [Houda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [روقان](https://open.spotify.com/album/4A2j98zoNqWWBTUp9sygjs) | 2:42 |
 | 18 | [e& Egypt \- اكتر واكتر \- شيرين عبدالوهاب](https://open.spotify.com/track/65NbzRrl0uqc9B4a14gqqd) | [e& Egypt](https://open.spotify.com/artist/1WSXhu4UrkuG4NP3jB13YP) | [e& Egypt \- اكتر واكتر \- شيرين عبدالوهاب](https://open.spotify.com/album/6TcrDv7jjjQ1YuLV5WFwLg) | 3:13 |
 | 19 | [Alf Mara \(Kamel El Adad++ series\)](https://open.spotify.com/track/2aZNUu6LFLD0nsppiw8f0p) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Alf Mara \(Kamel El Adad++ series\)](https://open.spotify.com/album/3nHHSUiPdf5V88OgBsUSXA) | 2:38 |

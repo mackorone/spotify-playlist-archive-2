@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All Ok
 
-627 songs - 1 day 11 hr 46 min
+628 songs - 1 day 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [FREE STYLE](https://open.spotify.com/track/4niYNBF9Y0L39KRtEEtjTg) | [It's me plk](https://open.spotify.com/artist/5MzgfdVaUb1uux2LZBahP3) | [FREE STYLE](https://open.spotify.com/album/6zPG6hSKKscA8n7EdDi5JF) | 1:15 | 2024-02-14 | 2024-02-20 |
 | [Freedom](https://open.spotify.com/track/09ECyJMbdmo1i1Lq7yxArW) | [Vasuki Vaibhav](https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5), [Eshani](https://open.spotify.com/artist/4CQMCs1zM49VQiI6Og0VWg) | [Freedom](https://open.spotify.com/album/4iUJ0WsPHxFt71g5oMpSlQ) | 3:05 | 2023-07-28 | 2024-02-09 |
 | [Full Charge](https://open.spotify.com/track/3uArz7gKhSuwSkTzFUlKBo) | [H18](https://open.spotify.com/artist/1Eh2sOlDATyNUt19twP1x3) | [Full Charge](https://open.spotify.com/album/6beHIG9uQMKnBduxEM9kO1) | 2:26 | 2024-01-31 | 2024-02-17 |
-| [Gaand Gaabri](https://open.spotify.com/track/6XGMBxNFauinuXkOcLYW75) | [Vijay Haritsa](https://open.spotify.com/artist/0zHeoXE0bKsMEw3cWV4z6B), [Vishak Nagalapura](https://open.spotify.com/artist/6bfkyWyRl7vgkQlV0gy57S) | [Gaand Gaabri](https://open.spotify.com/album/4SaSlPdLjWaVI1GtQ4RCm6) | 5:47 | 2025-08-11 |  |
+| [Gaand Gaabri](https://open.spotify.com/track/6XGMBxNFauinuXkOcLYW75) | [Vijay Haritsa](https://open.spotify.com/artist/0zHeoXE0bKsMEw3cWV4z6B), [Vishak Nagalapura](https://open.spotify.com/artist/6bfkyWyRl7vgkQlV0gy57S) | [Gaand Gaabri](https://open.spotify.com/album/4SaSlPdLjWaVI1GtQ4RCm6) | 5:47 | 2025-08-11 | 2026-02-28 |
 | [Gaanji](https://open.spotify.com/track/0nTl1C6WCW2yv5P2G8eK87) | [Chandan Shetty](https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk) | [Gaanji](https://open.spotify.com/album/2GClnG0LY6hIqv3CmLMznO) | 2:27 | 2025-06-24 | 2026-02-07 |
 | [Gadda](https://open.spotify.com/track/5NMcqtJ4MKHpFsHIvgWs7p) | [Arfaz Ullal](https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH), [Chikkesh Hamsabhimani](https://open.spotify.com/artist/4UT07rarVsghjWlBzj7iU9) | [Gadda](https://open.spotify.com/album/5HeVSXTlmUq9Rw8BuOZiGv) | 4:32 | 2023-02-13 | 2023-09-01 |
 | [Galiya Mathanu](https://open.spotify.com/track/4BC4Gyi6NVoD9RPWnV1kz1) | [Veena](https://open.spotify.com/artist/4Mv3zdO7VqkcOgH2j4sx01), [Varun P](https://open.spotify.com/artist/6TLXC2BtQoPLtoV7UuZqaS) | [Neeli](https://open.spotify.com/album/6uRWpwvQPGCZpfQrVV2x85) | 3:23 | 2026-02-17 |  |
@@ -569,6 +569,7 @@
 | [Sorry](https://open.spotify.com/track/1mcABhQTHBUL2TiL8uLLsj) | [dixit](https://open.spotify.com/artist/3wlPT5A93NA3xtwjmKIeRy), [Harshitha Shetty](https://open.spotify.com/artist/1p3Rdno6pABWuD9F49UqYu) | [Sorry](https://open.spotify.com/album/4FCuyD2KDLFjNJJfrho2Lb) | 2:46 | 2023-09-29 | 2024-02-17 |
 | [Soul Of Punyakoti \(From "Punyakoti"\)](https://open.spotify.com/track/4gt3BKnLtNYarIOWx4udrk) | [Pruthvi P Gowda](https://open.spotify.com/artist/46XbP9yqm4HqNHO3UBkTq2), [Tarun Karanth](https://open.spotify.com/artist/00yOF4ErJUXSygppPQszoh), [Sandesh Sugoormutt](https://open.spotify.com/artist/0Z39g7iKkNQlAgnp5lDpPP), [Sannidhi P Bhat](https://open.spotify.com/artist/40DNtHijGZeWXkWiaUGmYi) | [Soul Of Punyakoti \(From "Punyakoti"\)](https://open.spotify.com/album/1CNfcQfMZImcd1LXuzzR0r) | 3:02 | 2025-11-07 |  |
 | [Stacks](https://open.spotify.com/track/3j8Okv8qvgtNgTGQ7MGplv) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Swastik](https://open.spotify.com/artist/4zrLFeeE507k2iJJMs7koZ) | [Stacks](https://open.spotify.com/album/5x7UNnk2TK0ngePIEkXcE5) | 2:46 | 2023-04-19 | 2023-12-23 |
+| [Stay With Me](https://open.spotify.com/track/7tcV3DIXfskGfPj6u37GFb) | [Adhvik](https://open.spotify.com/artist/7Brq4omogaIOJiHqQwIgnV) | [Stay With Me](https://open.spotify.com/album/2nOPICQQN5OeG1QxXnVYJH) | 3:06 | 2026-02-27 |  |
 | [Stronger](https://open.spotify.com/track/4bOP9QVpv7oFJEgm0xmX25) | [MC Bijju](https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp), [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N) | [Stronger](https://open.spotify.com/album/52uN6o62Z7y2cvUD3LXZyR) | 1:02 | 2023-08-31 | 2023-09-22 |
 | [Summane \- Female](https://open.spotify.com/track/44itZZWBw4sd1LsidpPiwx) | [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr), [Bharath Gundi](https://open.spotify.com/artist/3iO5DnfZzC2LYxT1vndPxr), [Raghav Aio](https://open.spotify.com/artist/6eP56zC6A37cj4kwL64QDO) | [Summane \(Female\)](https://open.spotify.com/album/5YWKgzbCNTGUcDGXe48sDe) | 3:33 | 2023-08-23 | 2023-09-21 |
 | [Summer Girl](https://open.spotify.com/track/1YsFy6IbkzjJTKtFm7U0uA) | [HARIX](https://open.spotify.com/artist/0QfMaP5vyOlUIsqvRhLOOG) | [Summer Girl](https://open.spotify.com/album/4fqdz5PhrYqVdsmCCQiF5U) | 2:26 | 2025-03-26 | 2025-09-07 |

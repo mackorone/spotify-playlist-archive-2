@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 
 > 2025 yazına damga vuran şarkılar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,503 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,493 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 | 18 | [ÜZÜLECEKSİN 2.0](https://open.spotify.com/track/2lh2tbZpcMs7scV62GcJaI) | [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q), [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [ÜZÜLECEKSİN 2.0](https://open.spotify.com/album/0gngUevVkWfjzdwiH77ULJ) | 2:19 |
 | 19 | [Mosmor Perde](https://open.spotify.com/track/2qBH9hL1iMU9kpz44dLtcj) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Mosmor Perde](https://open.spotify.com/album/1nxsVfwr0XVMfQELSWjakK) | 2:36 |
 | 20 | [SALINA SALINA](https://open.spotify.com/track/1Ka5a3r3oYJzCfXl5Uq2CA) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [SALINA SALINA](https://open.spotify.com/album/2eOg7JmgrIgAEpX4SBr6L8) | 2:08 |
-| 21 | [Yasemin](https://open.spotify.com/track/1hdJwEj1tD0O5NiWM9U5VW) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Yasemin](https://open.spotify.com/album/2Qo7f5utir38YNXkNfFtNZ) | 3:06 |
-| 22 | [Çatma Yarim](https://open.spotify.com/track/2QcdW7XNdYQTpkTWVEkCHL) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Çatma Yarim](https://open.spotify.com/album/07DDRfbkQJKYXpHXkkQWjG) | 2:57 |
+| 21 | [Çatma Yarim](https://open.spotify.com/track/2QcdW7XNdYQTpkTWVEkCHL) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Çatma Yarim](https://open.spotify.com/album/07DDRfbkQJKYXpHXkkQWjG) | 2:57 |
+| 22 | [Yasemin](https://open.spotify.com/track/1hdJwEj1tD0O5NiWM9U5VW) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Yasemin](https://open.spotify.com/album/2Qo7f5utir38YNXkNfFtNZ) | 3:06 |
 | 23 | [HAİNSİN](https://open.spotify.com/track/7BIWqwuOJMKQN2GCjXQ7Fh) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [HAİNSİN](https://open.spotify.com/album/3fc3SX1q9MkuWynn6xvvzx) | 1:57 |
 | 24 | [Sen Ağla](https://open.spotify.com/track/1QTxQQfJjNYzMcOpilX3Bf) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:06 |
 | 25 | [Geçsin Yıllar](https://open.spotify.com/track/5CiycCVVt7vLJyMw1MVfzS) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i), [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Geçsin Yıllar](https://open.spotify.com/album/5vc7GUQqWQ2zZS3CffxRmx) | 3:27 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 | 45 | [Max](https://open.spotify.com/track/7lRMajzI2xa34EQg2SKecS) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Max](https://open.spotify.com/album/30xEU4sNXkYHvtSIiM8uUV) | 3:49 |
 | 46 | [Yaygara](https://open.spotify.com/track/1jHa5fInmLIhj8PxkseLvI) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:51 |
 | 47 | [Mucize](https://open.spotify.com/track/6zfnaEJ1e2pQULGX5Qm3to) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Mucize](https://open.spotify.com/album/3rLShAcaMZZls5uZx7bPE4) | 2:37 |
-| 48 | [Ağla](https://open.spotify.com/track/2fnTOxrBmArhS5SZSE20zM) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Ağla](https://open.spotify.com/album/49vH7j0N445dlfC9jnXeiy) | 3:04 |
-| 49 | [Aşkına Destan](https://open.spotify.com/track/215Fb7rnOHnXlgdF6kzMBc) | [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [Aşkına Destan](https://open.spotify.com/album/2taY4vXAx90UqNiXyWNOKj) | 2:54 |
+| 48 | [Aşkına Destan](https://open.spotify.com/track/215Fb7rnOHnXlgdF6kzMBc) | [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [Aşkına Destan](https://open.spotify.com/album/2taY4vXAx90UqNiXyWNOKj) | 2:54 |
+| 49 | [Ağla](https://open.spotify.com/track/2fnTOxrBmArhS5SZSE20zM) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Ağla](https://open.spotify.com/album/49vH7j0N445dlfC9jnXeiy) | 3:04 |
 | 50 | [Çek Tetiği](https://open.spotify.com/track/021NnHd8KIjzaNQi1fQMGK) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Bachi\-Bouzouk](https://open.spotify.com/album/7MgIYClJAmFL0MG3oHINOE) | 3:00 |
 
 Snapshot ID: `AAAAAKvqscOrpGqrTHUWpkzOoRywvhOF`

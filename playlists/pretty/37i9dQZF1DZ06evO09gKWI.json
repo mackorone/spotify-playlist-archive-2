@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAACDjdKqVzJ5byo8BeazEDxf",
+  "snapshot_id": "aZ+NAAAAAAAKgIDRula1UwKCXwlViZp/",
   "tracks": [
     {
       "added_at": null,
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Za\u00edra King",
-        "url": "https://open.spotify.com/album/443mS5KhlW354vusLtN31W"
-      },
-      "artists": [
-        {
-          "name": "Red Lion",
-          "url": "https://open.spotify.com/artist/1CVi4dMBerAVL39oXop5fS"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        }
-      ],
-      "duration_ms": 223647,
-      "name": "Aquela Paz",
-      "url": "https://open.spotify.com/track/2uIk12q1BdBNPTdnHybRmo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alvinegro Praiano",
         "url": "https://open.spotify.com/album/35qVvVRuTpudHAmjXoF4Ru"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 156692,
       "name": "At\u00e9 tarde",
       "url": "https://open.spotify.com/track/0XTb2SRVLtJEuEaucwAK2u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Za\u00edra King",
+        "url": "https://open.spotify.com/album/443mS5KhlW354vusLtN31W"
+      },
+      "artists": [
+        {
+          "name": "Red Lion",
+          "url": "https://open.spotify.com/artist/1CVi4dMBerAVL39oXop5fS"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "duration_ms": 223647,
+      "name": "Aquela Paz",
+      "url": "https://open.spotify.com/track/2uIk12q1BdBNPTdnHybRmo"
     },
     {
       "added_at": null,
@@ -912,13 +912,13 @@
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         },
         {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
         }
       ],
-      "duration_ms": 166336,
-      "name": "Chef, Chef, Chef",
-      "url": "https://open.spotify.com/track/5iZKBDWwIBTddYMgm4BXhz"
+      "duration_ms": 188437,
+      "name": "Essa Onda",
+      "url": "https://open.spotify.com/track/5JHDM8gvSfHRxVlGXTN8gJ"
     },
     {
       "added_at": null,
@@ -1016,13 +1016,53 @@
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         },
         {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        }
+      ],
+      "duration_ms": 166336,
+      "name": "Chef, Chef, Chef",
+      "url": "https://open.spotify.com/track/5iZKBDWwIBTddYMgm4BXhz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/3Oyr3gs5oIolpIoZW0TQVi"
+      },
+      "artists": [
+        {
+          "name": "Mr Break",
+          "url": "https://open.spotify.com/artist/1HhYGWmoTgSneUI79Z5gRf"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "duration_ms": 269871,
+      "name": "Condi\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3uNLAshZcg9ybuceymIln0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chave",
+        "url": "https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB"
+      },
+      "artists": [
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
           "name": "Nave",
           "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
         }
       ],
-      "duration_ms": 188437,
-      "name": "Essa Onda",
-      "url": "https://open.spotify.com/track/5JHDM8gvSfHRxVlGXTN8gJ"
+      "duration_ms": 156183,
+      "name": "Luiza Mel",
+      "url": "https://open.spotify.com/track/5GYUVMxUKKgPBBR18iFFci"
     },
     {
       "added_at": null,
@@ -1067,46 +1107,6 @@
       "duration_ms": 338274,
       "name": "SET DO ECOLOGYK 1.0",
       "url": "https://open.spotify.com/track/3IcsmbNAb1ez7a7hUc7XZG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chave",
-        "url": "https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB"
-      },
-      "artists": [
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "TH4I",
-          "url": "https://open.spotify.com/artist/7nknAoywwPTdaW0PGKys24"
-        }
-      ],
-      "duration_ms": 141781,
-      "name": "Na Vila",
-      "url": "https://open.spotify.com/track/5dGTjPVTt9Cf3AxIicIehk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Funeral",
-        "url": "https://open.spotify.com/album/3Oyr3gs5oIolpIoZW0TQVi"
-      },
-      "artists": [
-        {
-          "name": "Mr Break",
-          "url": "https://open.spotify.com/artist/1HhYGWmoTgSneUI79Z5gRf"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        }
-      ],
-      "duration_ms": 269871,
-      "name": "Condi\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3uNLAshZcg9ybuceymIln0"
     },
     {
       "added_at": null,

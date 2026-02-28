@@ -587,6 +587,24 @@
     },
     {
       "album": {
+        "name": "Ladies & Gentlemen",
+        "url": "https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286080,
+      "name": "Heal the Pain - 2010 Remastered Version",
+      "url": "https://open.spotify.com/track/7cF2JUm8Yna6MOu2ruL6Ts"
+    },
+    {
+      "album": {
         "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
         "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
       },
@@ -952,7 +970,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 105946,
       "name": "My Baby Just Cares for Me",
       "url": "https://open.spotify.com/track/6iu9Pko748wfZbn3COSZe3"
@@ -1024,10 +1042,28 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 283426,
       "name": "Outside",
       "url": "https://open.spotify.com/track/6SfWgcAHkQo3SMRvRIzJm6"
+    },
+    {
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/5ntppDOdcyWDuPdBknLEyz"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286560,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/3sJZdXnP3zOByagpyztK90"
     },
     {
       "album": {
@@ -1114,7 +1150,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 159546,
       "name": "Secret Love",
       "url": "https://open.spotify.com/track/5DvAuonLamxQJUiY44tBiq"
@@ -1284,7 +1320,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 240493,
       "name": "This Is How (We Want You To Get High)",
       "url": "https://open.spotify.com/track/7ghfc7IWlgUezEmW6uaPM5"

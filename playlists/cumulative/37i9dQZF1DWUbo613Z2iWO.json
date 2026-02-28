@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover: Jai'len Josey",
+  "description": "R&B of the moment by the artists of the future. Cover: Casper Sage",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -476,7 +476,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 176288,
       "name": "5th Floor (10pm)",
       "url": "https://open.spotify.com/track/5Nf83SalLU851KZtTC0P6S"
@@ -2673,6 +2673,24 @@
     },
     {
       "album": {
+        "name": "badman",
+        "url": "https://open.spotify.com/album/7HryhBfvpRhVRzcWF2SH8W"
+      },
+      "artists": [
+        {
+          "name": "nomi.",
+          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174612,
+      "name": "badman",
+      "url": "https://open.spotify.com/track/4406h74Yzu8yH3TfsKJ41L"
+    },
+    {
+      "album": {
         "name": "L.I.T (Lost In Translation)",
         "url": "https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F"
       },
@@ -3440,7 +3458,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 171891,
       "name": "Black Bieber",
       "url": "https://open.spotify.com/track/5qLce4Isec8jx1woALI0nj"
@@ -5909,7 +5927,7 @@
       "artists": [
         {
           "name": "Ezra",
-          "url": "https://open.spotify.com/artist/0IpxUOafBaV2PPkm3b4E60"
+          "url": "https://open.spotify.com/artist/3JV7Jk651HCj2ohc0s0pKN"
         },
         {
           "name": "ZaeFyeHunnit",
@@ -7073,6 +7091,24 @@
     },
     {
       "album": {
+        "name": "Days Are Over",
+        "url": "https://open.spotify.com/album/22pHrLhD7PQ5RTE0F4AaqB"
+      },
+      "artists": [
+        {
+          "name": "cortex",
+          "url": "https://open.spotify.com/artist/7h1gWbG7KDMC8NduLP3H2i"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177536,
+      "name": "Days Are Over",
+      "url": "https://open.spotify.com/track/2HEQmnm5GxHysvHRc5uttV"
+    },
+    {
+      "album": {
         "name": "December 10th",
         "url": "https://open.spotify.com/album/3Tzzy97erZa18VCRzaIrqe"
       },
@@ -7084,7 +7120,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 139459,
       "name": "December 10th",
       "url": "https://open.spotify.com/track/5V3jUpE1OhTQehzslaV5A1"
@@ -7502,7 +7538,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 216521,
       "name": "DND",
       "url": "https://open.spotify.com/track/0dLLjM9RZkPAFuL5lDls4X"
@@ -8063,6 +8099,32 @@
     },
     {
       "album": {
+        "name": "The Pleasure Is Yours",
+        "url": "https://open.spotify.com/album/2PW3hhgsQRGgJbPIhHCYrS"
+      },
+      "artists": [
+        {
+          "name": "GENA",
+          "url": "https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE"
+        },
+        {
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165081,
+      "name": "Douwannabwitastar!?",
+      "url": "https://open.spotify.com/track/3de4w5RMotY7NBXG7vtP4O"
+    },
+    {
+      "album": {
         "name": "DOWN BAD",
         "url": "https://open.spotify.com/album/7vACZGvCij77fUPfSi54TC"
       },
@@ -8078,6 +8140,24 @@
       "duration_ms": 132246,
       "name": "DOWN BAD",
       "url": "https://open.spotify.com/track/6V2GsxdsoC7s81pD0ZMyi6"
+    },
+    {
+      "album": {
+        "name": "Downfall",
+        "url": "https://open.spotify.com/album/6MUxRKxAACDn8fF2NqlLK8"
+      },
+      "artists": [
+        {
+          "name": "Genia",
+          "url": "https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226192,
+      "name": "Downfall",
+      "url": "https://open.spotify.com/track/2K9I0bmmcNBrAfOfGWMOVX"
     },
     {
       "album": {
@@ -8374,7 +8454,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 147326,
       "name": "Easy",
       "url": "https://open.spotify.com/track/0y97dz8upW8GtUMzRACY5o"
@@ -9773,6 +9853,24 @@
     },
     {
       "album": {
+        "name": "fiftyfive",
+        "url": "https://open.spotify.com/album/5X0pDpzylW7su4SfhFX8SF"
+      },
+      "artists": [
+        {
+          "name": "Devin Donnell",
+          "url": "https://open.spotify.com/artist/6HL912h0I4WSdVWuArkUSc"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131895,
+      "name": "fiftyfive",
+      "url": "https://open.spotify.com/track/5IpZBiClRFZ61ue19PWbp5"
+    },
+    {
+      "album": {
         "name": "Figure It Out",
         "url": "https://open.spotify.com/album/4KM1PhBa0e4oYkn3qQ3xGt"
       },
@@ -11086,7 +11184,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 149773,
       "name": "ghosted",
       "url": "https://open.spotify.com/track/1YxifpuwgU6IcGt7NKUVpb"
@@ -11376,6 +11474,24 @@
       "duration_ms": 273786,
       "name": "Give You the World",
       "url": "https://open.spotify.com/track/0J119Oas2ox6JTTHUGZxHN"
+    },
+    {
+      "album": {
+        "name": "glass houses",
+        "url": "https://open.spotify.com/album/3TIJ3hwZDt7prLRJ9z5Y83"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129232,
+      "name": "glass houses",
+      "url": "https://open.spotify.com/track/5g8zn3LMQ5wr9I2Cb2VDub"
     },
     {
       "album": {
@@ -12164,7 +12280,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 95380,
       "name": "hands up",
       "url": "https://open.spotify.com/track/55IBWPU4KqTYPVkXWv9A9z"
@@ -15653,6 +15769,24 @@
     },
     {
       "album": {
+        "name": "SET",
+        "url": "https://open.spotify.com/album/2C1UB6HNcJU6y3Ul9zDIP9"
+      },
+      "artists": [
+        {
+          "name": "GoGo Morrow",
+          "url": "https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166104,
+      "name": "LA LA LIES",
+      "url": "https://open.spotify.com/track/6LRmXTaEZsE1nCjoHoCtHc"
+    },
+    {
+      "album": {
         "name": "004DAISY",
         "url": "https://open.spotify.com/album/24e0sHcaegLydaqZGRwJ1e"
       },
@@ -15890,7 +16024,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 168510,
       "name": "Lead It Up",
       "url": "https://open.spotify.com/track/4vcdHDZWVNRCOrEq1LlvsU"
@@ -16680,7 +16814,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 115411,
       "name": "Look At Me",
       "url": "https://open.spotify.com/track/4zE1zSCLTVRnC0tFkg7OsL"
@@ -18083,6 +18217,28 @@
     },
     {
       "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/1gJkv3Nxw6gA1iDHLDktAm"
+      },
+      "artists": [
+        {
+          "name": "Nali",
+          "url": "https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182586,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/1aBmMmWmtkLw13OzY1SaVt"
+    },
+    {
+      "album": {
         "name": "MCQUEEN",
         "url": "https://open.spotify.com/album/3yyyEi7BGK3IAqQRLU5IXc"
       },
@@ -18378,6 +18534,24 @@
       "duration_ms": 174655,
       "name": "Miss Me Yet?",
       "url": "https://open.spotify.com/track/4sYHPWHkiGHRIhrC3noVDO"
+    },
+    {
+      "album": {
+        "name": "Miss That",
+        "url": "https://open.spotify.com/album/2BOViTOt2OUGdjGWpjT8t9"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176316,
+      "name": "Miss That",
+      "url": "https://open.spotify.com/track/32C7nsEacy74cB3tlJQCaE"
     },
     {
       "album": {
@@ -21436,7 +21610,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 199148,
       "name": "patience",
       "url": "https://open.spotify.com/track/4L4aMsBGqpOehg2jOXw4wv"
@@ -22976,7 +23150,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 223275,
       "name": "Recently Deleted",
       "url": "https://open.spotify.com/track/49uWjZ0INI41gLJVi8DxIf"
@@ -24466,7 +24640,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 203256,
       "name": "Separated",
       "url": "https://open.spotify.com/track/5bFtbt0LsDJf3VvRFIrBW4"
@@ -24779,6 +24953,24 @@
     },
     {
       "album": {
+        "name": "Shut It Down",
+        "url": "https://open.spotify.com/album/1pBHZvxW0PjRj3JDYlAovT"
+      },
+      "artists": [
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146363,
+      "name": "Shut It Down",
+      "url": "https://open.spotify.com/track/2lb2g8Otp8qDlpNFTVHjlh"
+    },
+    {
+      "album": {
         "name": "SHUT UP",
         "url": "https://open.spotify.com/album/6EgxGaAHhaJFa6Wy8FIMMG"
       },
@@ -24866,7 +25058,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 162500,
       "name": "Signs",
       "url": "https://open.spotify.com/track/2OY1FPx3DtP1EejTyIMG1f"
@@ -25354,7 +25546,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 183750,
       "name": "Smoov",
       "url": "https://open.spotify.com/track/5Yj6xkBg6LQ6zOWrpjIPUO"
@@ -26460,7 +26652,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 195840,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/3yZM5PwH9P15CKaKzyKTc0"
@@ -27986,7 +28178,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 146361,
       "name": "the one",
       "url": "https://open.spotify.com/track/5CVH4yjJy1Nhr1G51UBG7e"
@@ -28834,7 +29026,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 292923,
       "name": "Took A Turn",
       "url": "https://open.spotify.com/track/0FCQBDrtFSPkEt5M6qDqiQ"
@@ -29012,7 +29204,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 131200,
       "name": "TREAT ME",
       "url": "https://open.spotify.com/track/1OzE3r605HVqgqwRi4nYYl"
@@ -29762,7 +29954,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 191000,
       "name": "Vows",
       "url": "https://open.spotify.com/track/5nohCawT6TUJ0Nl3kqCaFj"
@@ -31338,6 +31530,24 @@
       "duration_ms": 205045,
       "name": "Worth My While",
       "url": "https://open.spotify.com/track/61yCjv5bKruUBDmbsls0Pn"
+    },
+    {
+      "album": {
+        "name": "Worth Your Time",
+        "url": "https://open.spotify.com/album/2rc3LJ91FeGxvVXpjifyje"
+      },
+      "artists": [
+        {
+          "name": "Larrenwong",
+          "url": "https://open.spotify.com/artist/640usVTv5HrcuHVw2WCXQz"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263009,
+      "name": "Worth Your Time",
+      "url": "https://open.spotify.com/track/40aeTQB14EcwhXuUivB5vO"
     },
     {
       "album": {

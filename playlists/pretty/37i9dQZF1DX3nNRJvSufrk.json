@@ -243,6 +243,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Footwork Frenzy Ep",
+        "url": "https://open.spotify.com/album/6kyXFMA96qp261FU2pnksI"
+      },
+      "artists": [
+        {
+          "name": "DJ Curt",
+          "url": "https://open.spotify.com/artist/7fhA2N9tmCmCnmiQrkDqyA"
+        }
+      ],
+      "duration_ms": 303308,
+      "name": "Next Subject",
+      "url": "https://open.spotify.com/track/6KnzZDxeaW7BLHXep6roA4"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "New Start",
         "url": "https://open.spotify.com/album/7hhPEiSLGSFdHJEheB8IL3"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 270960,
       "name": "New Start",
       "url": "https://open.spotify.com/track/6lEFi0B4E7tYgN7ahY7HlB"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Footwork Frenzy Ep",
-        "url": "https://open.spotify.com/album/6kyXFMA96qp261FU2pnksI"
-      },
-      "artists": [
-        {
-          "name": "DJ Curt",
-          "url": "https://open.spotify.com/artist/7fhA2N9tmCmCnmiQrkDqyA"
-        }
-      ],
-      "duration_ms": 303308,
-      "name": "Next Subject",
-      "url": "https://open.spotify.com/track/6KnzZDxeaW7BLHXep6roA4"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -315,6 +315,38 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Transgenre",
+        "url": "https://open.spotify.com/album/6VdPebiwMhQqLmCAG7f1tO"
+      },
+      "artists": [
+        {
+          "name": "Aylu",
+          "url": "https://open.spotify.com/artist/1MDwlFKprZOcAzi83BF1VG"
+        }
+      ],
+      "duration_ms": 138232,
+      "name": "Miau",
+      "url": "https://open.spotify.com/track/6kEIRclfzZfraQY9Cn3F01"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Heavy on DA Footwork",
+        "url": "https://open.spotify.com/album/3cwJ07tqWWspBoeWQvWBYJ"
+      },
+      "artists": [
+        {
+          "name": "Dj Spaldin",
+          "url": "https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj"
+        }
+      ],
+      "duration_ms": 246308,
+      "name": "Nycfw",
+      "url": "https://open.spotify.com/track/3EQA4h2oX2HsqUXwmb9EMs"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "WFM",
         "url": "https://open.spotify.com/album/7jlA2sFirrhCJamcIvaEmy"
       },
@@ -343,38 +375,6 @@
       "duration_ms": 183480,
       "name": "WFM",
       "url": "https://open.spotify.com/track/4V7vv7lvro6yMyJZm9Z96F"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Heavy on DA Footwork",
-        "url": "https://open.spotify.com/album/3cwJ07tqWWspBoeWQvWBYJ"
-      },
-      "artists": [
-        {
-          "name": "Dj Spaldin",
-          "url": "https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj"
-        }
-      ],
-      "duration_ms": 246308,
-      "name": "Nycfw",
-      "url": "https://open.spotify.com/track/3EQA4h2oX2HsqUXwmb9EMs"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Transgenre",
-        "url": "https://open.spotify.com/album/6VdPebiwMhQqLmCAG7f1tO"
-      },
-      "artists": [
-        {
-          "name": "Aylu",
-          "url": "https://open.spotify.com/artist/1MDwlFKprZOcAzi83BF1VG"
-        }
-      ],
-      "duration_ms": 138232,
-      "name": "Miau",
-      "url": "https://open.spotify.com/track/6kEIRclfzZfraQY9Cn3F01"
     },
     {
       "added_at": "2023-06-30 04:00:00",

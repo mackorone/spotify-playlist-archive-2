@@ -2,7 +2,7 @@
 
 ### [RAP 91 Malayalam](https://open.spotify.com/playlist/37i9dQZF1DX8OdFBus1U8c)
 
-> Best of Malayalam Hip\-Hop! <br/>Cover :  Fejo
+> Best of Malayalam Hip\-Hop! <br/>Cover :  M.H.R, Shafi Kollam
 
 533 songs - 1 day 3 hr 27 min
 

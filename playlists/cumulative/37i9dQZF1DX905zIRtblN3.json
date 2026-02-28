@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Las m\u00e1s placosas y llegadoras de nuestra m\u00fasica! Al mill\u00f3n con Banda MS y Xavi.",
+  "description": "\u00a1Las m\u00e1s placosas y llegadoras de nuestra m\u00fasica! Al mill\u00f3n con Peso Pluma, Tito Double P, El Randal.",
   "name": "La Reina: \u00c9xitos de la M\u00fasica Mexicana",
   "tracks": [
     {
@@ -1588,6 +1588,24 @@
       "duration_ms": 219164,
       "name": "AURORA (feat. Armenta)",
       "url": "https://open.spotify.com/track/3s0rq0VmyDLZKjAnEjrQIZ"
+    },
+    {
+      "album": {
+        "name": "Ay Dieguito",
+        "url": "https://open.spotify.com/album/3SYYvFKrvzAbsLhxrH4goD"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170284,
+      "name": "Ay Dieguito",
+      "url": "https://open.spotify.com/track/57jY51VJ9iyZBP5DGFwQpP"
     },
     {
       "album": {
@@ -6360,7 +6378,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 155365,
       "name": "Es Por Ti",
       "url": "https://open.spotify.com/track/1wAa4SwcmuffVDXwL6PpPY"
@@ -6498,7 +6516,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 199114,
       "name": "ESPEJO",
       "url": "https://open.spotify.com/track/6nB43uscF0PP1MY46JGCck"
@@ -6956,6 +6974,32 @@
       "duration_ms": 158543,
       "name": "Gallos Y Caballos",
       "url": "https://open.spotify.com/track/1pn82sWTAmrP709W07VImY"
+    },
+    {
+      "album": {
+        "name": "DINAST\u00cdA (DELUXE)",
+        "url": "https://open.spotify.com/album/7aTDbTfkSxsYEipu8Z4TNl"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "El Randal",
+          "url": "https://open.spotify.com/artist/3xy1Z8p0bYLH2cDPla9QnU"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165949,
+      "name": "ganga",
+      "url": "https://open.spotify.com/track/4rrGcaA4OqeNty6CXxnfz0"
     },
     {
       "album": {
@@ -9105,6 +9149,24 @@
     },
     {
       "album": {
+        "name": "Llenadera",
+        "url": "https://open.spotify.com/album/7bVJwGP0GxqsJqWEMqeTCF"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Coronel",
+          "url": "https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164220,
+      "name": "Llenadera",
+      "url": "https://open.spotify.com/track/6H2K72rU0s9fKdiQD1i2YE"
+    },
+    {
+      "album": {
         "name": "Llorar y Llorar (con Carin Leon)",
         "url": "https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn"
       },
@@ -9294,6 +9356,32 @@
       "duration_ms": 226000,
       "name": "Loco Enamorado",
       "url": "https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG"
+    },
+    {
+      "album": {
+        "name": "london",
+        "url": "https://open.spotify.com/album/1jet2VzblKPPGhEwoBzvKX"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193229,
+      "name": "london",
+      "url": "https://open.spotify.com/track/6XvhcdURkbksWXvJbUWa0F"
     },
     {
       "album": {
@@ -14370,7 +14458,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 180800,
       "name": "Rec\u00e1rguense Conmigo",
       "url": "https://open.spotify.com/track/4gzks4gPyueRKrO2NgKHrY"
@@ -16572,7 +16660,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 161026,
       "name": "Tragos Amargos",
       "url": "https://open.spotify.com/track/63l2HO4PsTfvna2Ol4QBtn"

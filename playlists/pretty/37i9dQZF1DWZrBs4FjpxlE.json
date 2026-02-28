@@ -1,12 +1,12 @@
 {
   "description": "we got you. Cover: Post Malone",
-  "num_followers": 133193,
+  "num_followers": 133221,
   "original_name": "sad boy anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHIwdy4zBXnOX6Tnd5e8iaKQu4w8",
+  "snapshot_id": "AAAAAE46KyBst7hWT1ocYi6v8fn1BMMP",
   "tracks": [
     {
       "added_at": "2026-02-20 05:00:37",
@@ -91,6 +91,22 @@
       "duration_ms": 157000,
       "name": "getting money still sad too",
       "url": "https://open.spotify.com/track/5FJbsAs6XuKuxZzvwDl7gR"
+    },
+    {
+      "added_at": "2026-02-27 05:00:46",
+      "album": {
+        "name": "Chasing Stars",
+        "url": "https://open.spotify.com/album/5ii142qhDvWAfA9BG3gjTb"
+      },
+      "artists": [
+        {
+          "name": "Sik World",
+          "url": "https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "Chasing Stars",
+      "url": "https://open.spotify.com/track/4gys49LNMqJd3gf3Fog8Tg"
     },
     {
       "added_at": "2025-11-18 21:00:06",
@@ -1135,22 +1151,6 @@
       "duration_ms": 233023,
       "name": "Ruthless (Nice Guys Always Finish Last)",
       "url": "https://open.spotify.com/track/6HeCk6yewXH7WO4D93eub9"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Still Lost 2",
-        "url": "https://open.spotify.com/album/3e91QRkfMkbIDBwH4X7n8s"
-      },
-      "artists": [
-        {
-          "name": "Sik World",
-          "url": "https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS"
-        }
-      ],
-      "duration_ms": 173350,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/74WKPbLlT4hrlNBj0cmR33"
     },
     {
       "added_at": "2024-02-23 05:00:00",

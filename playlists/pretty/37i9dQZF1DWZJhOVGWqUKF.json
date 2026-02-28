@@ -1,6 +1,6 @@
 {
   "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: ITCHY",
-  "num_followers": 340008,
+  "num_followers": 339995,
   "original_name": "Rock Rotation",
   "owner": {
     "name": "Spotify",
@@ -263,18 +263,22 @@
     {
       "added_at": "2026-02-26 23:00:54",
       "album": {
-        "name": "Up From the Bottom",
-        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
+        "name": "Twisting The Knife (feat. Mckenna Grace)",
+        "url": "https://open.spotify.com/album/5dvN1KoTSr93iYDPvr5ZL4"
       },
       "artists": [
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        },
+        {
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
         }
       ],
-      "duration_ms": 183223,
-      "name": "Up From the Bottom",
-      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
+      "duration_ms": 201477,
+      "name": "Twisting The Knife (feat. Mckenna Grace)",
+      "url": "https://open.spotify.com/track/2DaR6GuQKi78Lq32oRv38C"
     },
     {
       "added_at": "2026-02-26 23:00:54",
@@ -295,22 +299,18 @@
     {
       "added_at": "2026-02-26 23:00:54",
       "album": {
-        "name": "Twisting The Knife (feat. Mckenna Grace)",
-        "url": "https://open.spotify.com/album/5dvN1KoTSr93iYDPvr5ZL4"
+        "name": "Up From the Bottom",
+        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
       },
       "artists": [
         {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        },
-        {
-          "name": "Mckenna Grace",
-          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 201477,
-      "name": "Twisting The Knife (feat. Mckenna Grace)",
-      "url": "https://open.spotify.com/track/2DaR6GuQKi78Lq32oRv38C"
+      "duration_ms": 183223,
+      "name": "Up From the Bottom",
+      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
     },
     {
       "added_at": "2026-02-26 23:00:54",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-02-26 23:00:54",
       "album": {
-        "name": "Even If It Kills Me",
-        "url": "https://open.spotify.com/album/5xkM5c1gLbEp8UgIx4WV0x"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 212239,
-      "name": "Even If It Kills Me",
-      "url": "https://open.spotify.com/track/06dBzUBULISVMFBeNKbbRA"
-    },
-    {
-      "added_at": "2026-02-26 23:00:54",
-      "album": {
         "name": "Your Favorite Toy",
         "url": "https://open.spotify.com/album/1GlbwU0fG3s91TwcuTh4ea"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 176453,
       "name": "Your Favorite Toy",
       "url": "https://open.spotify.com/track/2ZSOU8Fx9uRBW57nwfPVAL"
+    },
+    {
+      "added_at": "2026-02-26 23:00:54",
+      "album": {
+        "name": "Even If It Kills Me",
+        "url": "https://open.spotify.com/album/5xkM5c1gLbEp8UgIx4WV0x"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 212239,
+      "name": "Even If It Kills Me",
+      "url": "https://open.spotify.com/track/06dBzUBULISVMFBeNKbbRA"
     },
     {
       "added_at": "2026-02-26 23:00:54",
@@ -519,6 +519,22 @@
     {
       "added_at": "2026-02-26 23:00:54",
       "album": {
+        "name": "Idols (Complete)",
+        "url": "https://open.spotify.com/album/0cUFNGzV90YdrBfTBjxjjM"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 279798,
+      "name": "Suburban Requiem",
+      "url": "https://open.spotify.com/track/7qtFxBjONSOPOsHopgAwH3"
+    },
+    {
+      "added_at": "2026-02-26 23:00:54",
+      "album": {
         "name": "You Got to Lose",
         "url": "https://open.spotify.com/album/5SZ3YBfMXtsMI81OZiXJz1"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 181666,
       "name": "Everything Burns (feat. Beartooth)",
       "url": "https://open.spotify.com/track/4m4MMljoJx4illTnaWRHbG"
-    },
-    {
-      "added_at": "2026-02-26 23:00:54",
-      "album": {
-        "name": "Idols (Complete)",
-        "url": "https://open.spotify.com/album/0cUFNGzV90YdrBfTBjxjjM"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 279798,
-      "name": "Suburban Requiem",
-      "url": "https://open.spotify.com/track/7qtFxBjONSOPOsHopgAwH3"
     },
     {
       "added_at": "2026-02-26 23:00:54",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-02-26 23:00:54",
       "album": {
-        "name": "Idols",
-        "url": "https://open.spotify.com/album/19PD2IPfceDn9fLAa05TFE"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 386181,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/6FVK5UcCwZ3k34vT2wenhd"
-    },
-    {
-      "added_at": "2026-02-26 23:00:54",
-      "album": {
         "name": "The Great Unknown",
         "url": "https://open.spotify.com/album/6fE894gRLhqsRjiW2sgLTP"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 181956,
       "name": "The Great Unknown",
       "url": "https://open.spotify.com/track/76Pd81B06OSC8AuuDWxsEQ"
+    },
+    {
+      "added_at": "2026-02-26 23:00:54",
+      "album": {
+        "name": "Idols",
+        "url": "https://open.spotify.com/album/19PD2IPfceDn9fLAa05TFE"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 386181,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/6FVK5UcCwZ3k34vT2wenhd"
     },
     {
       "added_at": "2026-02-26 23:00:54",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-02-26 23:00:54",
       "album": {
-        "name": "Villain",
-        "url": "https://open.spotify.com/album/4SLQnE0hqXkcnMlbLhcxnE"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 233786,
-      "name": "Villain",
-      "url": "https://open.spotify.com/track/7mSWvlQpztPoJiswhM6pbd"
-    },
-    {
-      "added_at": "2026-02-26 23:00:54",
-      "album": {
         "name": "Asking For A Friend",
         "url": "https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn"
       },
@@ -751,18 +735,18 @@
     {
       "added_at": "2026-02-26 23:00:54",
       "album": {
-        "name": "CHASING SHADOWS",
-        "url": "https://open.spotify.com/album/74CUUOQcJqtAVFO0U8zRQT"
+        "name": "Villain",
+        "url": "https://open.spotify.com/album/4SLQnE0hqXkcnMlbLhcxnE"
       },
       "artists": [
         {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
         }
       ],
-      "duration_ms": 222785,
-      "name": "CHASING SHADOWS",
-      "url": "https://open.spotify.com/track/4sb2DpH2pMeSuAK9x04fON"
+      "duration_ms": 233786,
+      "name": "Villain",
+      "url": "https://open.spotify.com/track/7mSWvlQpztPoJiswhM6pbd"
     },
     {
       "added_at": "2026-02-26 23:00:54",
@@ -779,6 +763,22 @@
       "duration_ms": 238002,
       "name": "Unravelling",
       "url": "https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9"
+    },
+    {
+      "added_at": "2026-02-26 23:00:54",
+      "album": {
+        "name": "CHASING SHADOWS",
+        "url": "https://open.spotify.com/album/74CUUOQcJqtAVFO0U8zRQT"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "duration_ms": 222785,
+      "name": "CHASING SHADOWS",
+      "url": "https://open.spotify.com/track/4sb2DpH2pMeSuAK9x04fON"
     },
     {
       "added_at": "2026-02-26 23:00:54",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2026-02-26 23:00:54",
       "album": {
-        "name": "viagr aboys (Japanese Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2dPU5Mx293e04WenISWOlB"
+        "name": "Futique",
+        "url": "https://open.spotify.com/album/3Y3nA5ZjMH8PMqV5v9YifF"
       },
       "artists": [
         {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
         }
       ],
-      "duration_ms": 159390,
-      "name": "Therapy II",
-      "url": "https://open.spotify.com/track/6qClwrPBURJc3o3RuM4iln"
+      "duration_ms": 218159,
+      "name": "A Little Love",
+      "url": "https://open.spotify.com/track/31MkFKvAwHESUpmJz4haPw"
     },
     {
       "added_at": "2026-02-26 23:00:54",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2026-02-26 23:00:54",
       "album": {
-        "name": "Futique",
-        "url": "https://open.spotify.com/album/3Y3nA5ZjMH8PMqV5v9YifF"
+        "name": "viagr aboys (Japanese Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2dPU5Mx293e04WenISWOlB"
       },
       "artists": [
         {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
         }
       ],
-      "duration_ms": 218159,
-      "name": "A Little Love",
-      "url": "https://open.spotify.com/track/31MkFKvAwHESUpmJz4haPw"
+      "duration_ms": 159390,
+      "name": "Therapy II",
+      "url": "https://open.spotify.com/track/6qClwrPBURJc3o3RuM4iln"
     },
     {
       "added_at": "2026-02-26 23:00:54",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-02-26 23:00:54",
       "album": {
-        "name": "Guardian",
-        "url": "https://open.spotify.com/album/0Wm5jDuL2Ph5ce9WqjXNM8"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 194631,
-      "name": "Guardian",
-      "url": "https://open.spotify.com/track/1nrj6SI6yvfkP8tWwaoLsb"
-    },
-    {
-      "added_at": "2026-02-26 23:00:54",
-      "album": {
         "name": "INERTIA",
         "url": "https://open.spotify.com/album/5WQ2aXsGMKlakBEoHFyOqk"
       },
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2026-02-26 23:00:54",
       "album": {
+        "name": "Guardian",
+        "url": "https://open.spotify.com/album/0Wm5jDuL2Ph5ce9WqjXNM8"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 194631,
+      "name": "Guardian",
+      "url": "https://open.spotify.com/track/1nrj6SI6yvfkP8tWwaoLsb"
+    },
+    {
+      "added_at": "2026-02-26 23:00:54",
+      "album": {
         "name": "Everything Is Fine",
         "url": "https://open.spotify.com/album/1nXFy9tqZLTLsKLBK9cWtT"
       },
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2026-02-26 23:00:54",
       "album": {
+        "name": "Listen Up!",
+        "url": "https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 204821,
+      "name": "A Love Song",
+      "url": "https://open.spotify.com/track/0MSHBj5G4rgkTWkaMpNdJ1"
+    },
+    {
+      "added_at": "2026-02-26 23:00:54",
+      "album": {
         "name": "Hello Heaven, Hello",
         "url": "https://open.spotify.com/album/5YLk7hXivQWJezkRnWEfbH"
       },
@@ -1291,6 +1307,22 @@
       "duration_ms": 546385,
       "name": "Hello Heaven, Hello",
       "url": "https://open.spotify.com/track/2jUcuBOT2eoBnoMBTM4L1i"
+    },
+    {
+      "added_at": "2026-02-26 23:00:54",
+      "album": {
+        "name": "WE\u2019RE IN THIS TOGETHER",
+        "url": "https://open.spotify.com/album/0FcdTxDTTVvr6jiSuP1Nc5"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        }
+      ],
+      "duration_ms": 252128,
+      "name": "WE\u2019RE IN THIS TOGETHER",
+      "url": "https://open.spotify.com/track/7GSbGu5TD9PEIpo3qsBp75"
     },
     {
       "added_at": "2026-02-26 23:00:54",
@@ -1327,22 +1359,6 @@
     {
       "added_at": "2026-02-26 23:00:54",
       "album": {
-        "name": "WE\u2019RE IN THIS TOGETHER",
-        "url": "https://open.spotify.com/album/0FcdTxDTTVvr6jiSuP1Nc5"
-      },
-      "artists": [
-        {
-          "name": "NOTHING MORE",
-          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
-        }
-      ],
-      "duration_ms": 252128,
-      "name": "WE\u2019RE IN THIS TOGETHER",
-      "url": "https://open.spotify.com/track/7GSbGu5TD9PEIpo3qsBp75"
-    },
-    {
-      "added_at": "2026-02-26 23:00:54",
-      "album": {
         "name": "Heathen Days",
         "url": "https://open.spotify.com/album/26yuduRZqt1jG6UQ953rQP"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 137853,
       "name": "Heathen Days",
       "url": "https://open.spotify.com/track/1LaemmWc1Cl2McmJy8dtfb"
-    },
-    {
-      "added_at": "2026-02-26 23:00:54",
-      "album": {
-        "name": "Listen Up!",
-        "url": "https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 204821,
-      "name": "A Love Song",
-      "url": "https://open.spotify.com/track/0MSHBj5G4rgkTWkaMpNdJ1"
     },
     {
       "added_at": "2026-02-26 23:00:54",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2026-02-26 23:00:54",
       "album": {
+        "name": "Broken Record",
+        "url": "https://open.spotify.com/album/4GF7FP9ViwD2yTyDGcgY7S"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        }
+      ],
+      "duration_ms": 145181,
+      "name": "Broken Record",
+      "url": "https://open.spotify.com/track/187PhQNVowHs4jJj4Ebzzu"
+    },
+    {
+      "added_at": "2026-02-26 23:00:54",
+      "album": {
         "name": "Freundschaft Plus",
         "url": "https://open.spotify.com/album/0PEQUwOq0DPdfpaWATYT30"
       },
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2026-02-26 23:00:54",
       "album": {
-        "name": "Broken Record",
-        "url": "https://open.spotify.com/album/4GF7FP9ViwD2yTyDGcgY7S"
-      },
-      "artists": [
-        {
-          "name": "Alemeda",
-          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
-        }
-      ],
-      "duration_ms": 145181,
-      "name": "Broken Record",
-      "url": "https://open.spotify.com/track/187PhQNVowHs4jJj4Ebzzu"
-    },
-    {
-      "added_at": "2026-02-26 23:00:54",
-      "album": {
         "name": "I'm A Diamond",
         "url": "https://open.spotify.com/album/7sRd77dPb3aNRTKVBpWdOy"
       },
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-02-26 23:00:54",
       "album": {
-        "name": "ANGELS CALLING",
-        "url": "https://open.spotify.com/album/04jzwcuicEAURi04bVSArG"
-      },
-      "artists": [
-        {
-          "name": "Solence",
-          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
-        }
-      ],
-      "duration_ms": 179822,
-      "name": "Monsters In My Head",
-      "url": "https://open.spotify.com/track/0q2Q3YPiI8zbfLoLJ4pf8A"
-    },
-    {
-      "added_at": "2026-02-26 23:00:54",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/3BbqSd8P0jhMN7i4i3SNv1"
       },
@@ -1619,18 +1603,18 @@
     {
       "added_at": "2026-02-26 23:00:54",
       "album": {
-        "name": "Gasoline (All Rage Still Only Numb)",
-        "url": "https://open.spotify.com/album/3e6DAPGeNe2rwiwBOmvqVR"
+        "name": "ANGELS CALLING",
+        "url": "https://open.spotify.com/album/04jzwcuicEAURi04bVSArG"
       },
       "artists": [
         {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
         }
       ],
-      "duration_ms": 179220,
-      "name": "Gasoline (All Rage Still Only Numb)",
-      "url": "https://open.spotify.com/track/2HOOOhhR7w9gaN5v9kpgHQ"
+      "duration_ms": 179822,
+      "name": "Monsters In My Head",
+      "url": "https://open.spotify.com/track/0q2Q3YPiI8zbfLoLJ4pf8A"
     },
     {
       "added_at": "2026-02-26 23:00:54",
@@ -1655,18 +1639,34 @@
     {
       "added_at": "2026-02-26 23:00:54",
       "album": {
-        "name": "The Weather",
-        "url": "https://open.spotify.com/album/2Av6fhlES4W5HZw9ZmGtS9"
+        "name": "Somewhere In Between",
+        "url": "https://open.spotify.com/album/5KJPUWvsYR8QKCITHAY9zG"
       },
       "artists": [
         {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
         }
       ],
-      "duration_ms": 171553,
-      "name": "The Weather",
-      "url": "https://open.spotify.com/track/4vggwi9dH7e9pGFIgKqzQS"
+      "duration_ms": 147253,
+      "name": "WEAPON",
+      "url": "https://open.spotify.com/track/0PAQ2onMF2K69b2IYtK8yX"
+    },
+    {
+      "added_at": "2026-02-26 23:00:54",
+      "album": {
+        "name": "Gasoline (All Rage Still Only Numb)",
+        "url": "https://open.spotify.com/album/3e6DAPGeNe2rwiwBOmvqVR"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 179220,
+      "name": "Gasoline (All Rage Still Only Numb)",
+      "url": "https://open.spotify.com/track/2HOOOhhR7w9gaN5v9kpgHQ"
     },
     {
       "added_at": "2026-02-26 23:00:54",

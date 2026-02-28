@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Oi nom\u00e1s ese cumbi\u00f3n! ",
-  "num_followers": 247214,
+  "num_followers": 247251,
   "original_name": "Cumbias Para Bailar",
   "owner": {
     "name": "Spotify",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Donde Estas?",
-        "url": "https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX"
-      },
-      "artists": [
-        {
-          "name": "Alcalde La Sonora",
-          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
-        }
-      ],
-      "duration_ms": 290089,
-      "name": "Donde Estas?",
-      "url": "https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
         "name": "Super Grupo Colombia",
         "url": "https://open.spotify.com/album/3w4lqqVH06rYt8Z3EjC92s"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 202200,
       "name": "Cumbia de las Flores",
       "url": "https://open.spotify.com/track/0hDRyG9zE0K2aoEjPXapeQ"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "Donde Estas?",
+        "url": "https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX"
+      },
+      "artists": [
+        {
+          "name": "Alcalde La Sonora",
+          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
+        }
+      ],
+      "duration_ms": 290089,
+      "name": "Donde Estas?",
+      "url": "https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Por Encima de Todos",
-        "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
-      },
-      "artists": [
-        {
-          "name": "Sensacion Latina",
-          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
-        }
-      ],
-      "duration_ms": 316004,
-      "name": "Las Palmitas del Ecuador",
-      "url": "https://open.spotify.com/track/6xUqaIld9T5BlqkhVD6C3C"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
         "name": "Espectaculares de Los Guacharacos de Colombia y Super Grupo Colombia",
         "url": "https://open.spotify.com/album/0KTpweQvBj4M1RTuJDWWsJ"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 167746,
       "name": "Cumbia del cuervo",
       "url": "https://open.spotify.com/track/5KluSQOD7MMDVVfTwnjaAo"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "Por Encima de Todos",
+        "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
+      },
+      "artists": [
+        {
+          "name": "Sensacion Latina",
+          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
+        }
+      ],
+      "duration_ms": 316004,
+      "name": "Las Palmitas del Ecuador",
+      "url": "https://open.spotify.com/track/6xUqaIld9T5BlqkhVD6C3C"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Grupo Ca\u00f1averal, Vol. III",
-        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
       },
       "artists": [
         {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
         }
       ],
-      "duration_ms": 237960,
-      "name": "Tiene Espinas El Rosal",
-      "url": "https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ"
+      "duration_ms": 217586,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
+        "name": "Grupo Ca\u00f1averal, Vol. III",
+        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
       },
       "artists": [
         {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
         }
       ],
-      "duration_ms": 217586,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
+      "duration_ms": 237960,
+      "name": "Tiene Espinas El Rosal",
+      "url": "https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ"
     },
     {
       "added_at": "2024-07-10 22:10:17",

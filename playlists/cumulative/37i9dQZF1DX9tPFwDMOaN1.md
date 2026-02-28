@@ -2,9 +2,9 @@
 
 ### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
 
-> The new & hottest K\-Pop is here! \(Cover: IVE\)
+> The new & hottest K\-Pop is here! \(Cover: BLACKPINK\)
 
-798 songs - 1 day 17 hr 19 min
+799 songs - 1 day 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,12 +282,13 @@
 | [Glitch Mode](https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:27 | 2022-03-28 | 2022-07-02 |
 | [Glow Up](https://open.spotify.com/track/12tWYSmupB8x0B4HyalBAm) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Glow Up](https://open.spotify.com/album/0Ka3xa6oOWmW1hIjjjxEW0) | 2:28 | 2025-02-21 | 2025-06-10 |
 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 | 2025-05-08 | 2026-01-15 |
+| [GO](https://open.spotify.com/track/0XanaXeMJJ4VdjWzwok7ZI) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/5EDiZm2nDfN10Uyr5XvQu8) | 3:15 | 2026-02-27 |  |
 | [GO!](https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:50 | 2025-09-26 |  |
 | [God of Light Music](https://open.spotify.com/track/0xZ4WU5UfctiSeETi6pMEo) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [God of Light Music](https://open.spotify.com/album/2tVPLB5F9IsgPn4mvLQ7RJ) | 1:31 | 2023-12-27 | 2024-01-30 |
 | [God of Music](https://open.spotify.com/track/4MTNimMDRyFZv37Thcktwa) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'](https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f) | 3:25 | 2023-10-23 | 2024-03-01 |
 | [GODS](https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [GODS](https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs) | 3:40 | 2023-10-10 | 2024-02-27 |
 | [GOLD](https://open.spotify.com/track/5XV3bQOM9IoZVxQSD0a6yb) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/7EUIivZlOlSqQbFYZxNig9) | 3:07 | 2024-10-15 | 2025-02-15 |
-| [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 | 2025-07-04 |  |
+| [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 | 2025-07-04 | 2026-02-28 |
 | [Golden Hour](https://open.spotify.com/track/14sD1EmQ20kSJY3P0M82MY) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [Golden Hour \- SM STATION : NCT LAB](https://open.spotify.com/album/1oPIuYqBhdPDGfoEYt8MrR) | 3:19 | 2023-04-17 | 2023-06-17 |
 | [Good & Great](https://open.spotify.com/track/51oDOYN8AOyzvOpcvRGyI8) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [Good & Great \- The 2nd Mini Album](https://open.spotify.com/album/262TLn6YLogOz3Vn7CVRYo) | 3:19 | 2023-09-11 | 2023-10-21 |
 | [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 | 2022-05-09 | 2023-03-03 |

@@ -4,7 +4,7 @@
 
 > Nuovi brani di Bruno Mars,  Sayf, Ditonellapiaga, nayt, RAYE, Alex Warren e tanti altri.
 
-8,090 songs - 17 day 1 hr 9 min
+8,091 songs - 17 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3626,6 +3626,7 @@
 | [KETCH](https://open.spotify.com/track/766LXUTL0IfWmgyvKj02LE) | [WhyTrevxr](https://open.spotify.com/artist/644fFvMFDTe89XjvV4u0kR) | [KETCH](https://open.spotify.com/album/208yefzFNhC8rZeUdb5o9P) | 1:34 | 2025-02-27 | 2025-03-07 |
 | [Kevin Costner](https://open.spotify.com/track/2iFHtF7UQNfvz1dIcn86qi) | [FENICE](https://open.spotify.com/artist/4c7S5SAfW8xtGnn8qi4d8D) | [Kevin Costner](https://open.spotify.com/album/0CmLDjnUA2oN7Qd2z0cltU) | 3:14 | 2025-04-10 | 2025-04-18 |
 | [key to my heart](https://open.spotify.com/track/0sDjX3fzrHZtQY1bCrH245) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [key to my heart](https://open.spotify.com/album/6ZsjsSPy1TRvsWG8tEXJYQ) | 2:38 | 2025-01-30 | 2025-02-07 |
+| [Keychain \- FROM THE FILM K\-POPS!](https://open.spotify.com/track/3Q3WZ7sJLoIZQKY7hWFyQu) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Keychain \(FROM THE FILM K\-POPS!\)](https://open.spotify.com/album/58x92u1JINTa5K7lTzfU02) | 2:50 | 2026-02-26 |  |
 | [Kick The Nation](https://open.spotify.com/track/3v6DpJeMAIwx1IXBvfCj9K) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Kick The Nation](https://open.spotify.com/album/1UJrBOjkjQZB0LMsCqgy4X) | 2:03 | 2025-01-02 | 2025-01-10 |
 | [kids never sleep](https://open.spotify.com/track/1W13VTyEXLviqjj2bMDJDd) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [kids never sleep](https://open.spotify.com/album/3Hux8afYu6wKMBFx1ZgHh0) | 3:15 | 2024-09-26 | 2024-10-04 |
 | [KIKI](https://open.spotify.com/track/1KRGigp3LmG6QdckYpH2cH) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [KIKI](https://open.spotify.com/album/3qDMTHKO39Gj3j4Qrspp6K) | 2:21 | 2025-07-10 | 2025-07-18 |

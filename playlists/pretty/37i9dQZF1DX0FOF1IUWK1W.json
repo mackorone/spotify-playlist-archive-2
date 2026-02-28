@@ -1,271 +1,15 @@
 {
-  "description": "Anitta, Felipe Amorim, Hitmaker e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
-  "num_followers": 8807137,
+  "description": "DJ Japa NK e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "num_followers": 8807263,
   "original_name": "Top Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI+ZVwtP5ZrGx/SYkCBTMw3dr4oO",
+  "snapshot_id": "AAAAAGVWx5dnEOOFYSJ86azcYrvy09yu",
   "tracks": [
     {
-      "added_at": "2026-02-20 20:00:23",
-      "album": {
-        "name": "Ensaios Da Anitta",
-        "url": "https://open.spotify.com/album/6EkCnMeO4zOURLKlTKbl39"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        },
-        {
-          "name": "HITMAKER",
-          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
-        }
-      ],
-      "duration_ms": 129090,
-      "name": "GOSTOSIN",
-      "url": "https://open.spotify.com/track/2s4nhrlWTnmzSnGFH5pyAM"
-    },
-    {
-      "added_at": "2026-02-20 20:00:23",
-      "album": {
-        "name": "Amo Minha Favela",
-        "url": "https://open.spotify.com/album/20s95PaYtUZtoplbDIBetb"
-      },
-      "artists": [
-        {
-          "name": "DJ Japa NK",
-          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
-        },
-        {
-          "name": "MC Meno K",
-          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
-        }
-      ],
-      "duration_ms": 119769,
-      "name": "Amo Minha Favela",
-      "url": "https://open.spotify.com/track/4S1SaaCxQ87nXpA2EfYFj4"
-    },
-    {
-      "added_at": "2026-02-20 20:00:23",
-      "album": {
-        "name": "JETSKI",
-        "url": "https://open.spotify.com/album/4pjiSoP1rvrhDRsD1Hey6o"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "MC Meno K",
-          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
-        },
-        {
-          "name": "Melody",
-          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
-        }
-      ],
-      "duration_ms": 148645,
-      "name": "JETSKI",
-      "url": "https://open.spotify.com/track/3jhyw60F61gc7nC4dblqtC"
-    },
-    {
-      "added_at": "2026-02-20 20:00:23",
-      "album": {
-        "name": "Carn\u00edvoro",
-        "url": "https://open.spotify.com/album/45lGEvqXqQd7RLietEj16l"
-      },
-      "artists": [
-        {
-          "name": "Mc Jacare\u0301",
-          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
-        },
-        {
-          "name": "Mc Neg\u00e3o Original",
-          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
-        },
-        {
-          "name": "Mc Lele JP",
-          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
-        },
-        {
-          "name": "DJ Japa NK",
-          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Carn\u00edvoro",
-      "url": "https://open.spotify.com/track/6zWfgvh1e1FCdtfUVj370i"
-    },
-    {
-      "added_at": "2026-02-20 20:00:23",
-      "album": {
-        "name": "PEGA A MALDADE DA BANDIDA",
-        "url": "https://open.spotify.com/album/3Car77d25w5IcvDwDhYKMc"
-      },
-      "artists": [
-        {
-          "name": "Dj Luan Gomes",
-          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
-        },
-        {
-          "name": "Mc Ws da leste",
-          "url": "https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L"
-        },
-        {
-          "name": "Delleon",
-          "url": "https://open.spotify.com/artist/5qfEsHuNWVkGs5diuRf5OK"
-        },
-        {
-          "name": "Tropa da W&S",
-          "url": "https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ"
-        }
-      ],
-      "duration_ms": 110769,
-      "name": "PEGA A MALDADE DA BANDIDA",
-      "url": "https://open.spotify.com/track/588PdhJdtsuypJdUb4ms4K"
-    },
-    {
-      "added_at": "2026-02-20 20:00:23",
-      "album": {
-        "name": "MOLHO (Ao Vivo)",
-        "url": "https://open.spotify.com/album/530bw7EzQLkhNq2zzD4ppi"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        },
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        }
-      ],
-      "duration_ms": 162325,
-      "name": "Pela \u00daltima Vez - Ao Vivo",
-      "url": "https://open.spotify.com/track/6B7ot6Wlqf7zt3FCkYl2FJ"
-    },
-    {
-      "added_at": "2026-02-20 20:00:23",
-      "album": {
-        "name": "Saudade do Carai",
-        "url": "https://open.spotify.com/album/3PWOSqpHDsgbSNFjnsDTLn"
-      },
-      "artists": [
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        },
-        {
-          "name": "Grelo",
-          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
-        },
-        {
-          "name": "Natanzinho Lima",
-          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
-        }
-      ],
-      "duration_ms": 170777,
-      "name": "Saudade do Carai",
-      "url": "https://open.spotify.com/track/0HixceBFegrCY3GFBB7SlQ"
-    },
-    {
-      "added_at": "2026-02-20 20:00:23",
-      "album": {
-        "name": "NUNCA ESQUECIDO",
-        "url": "https://open.spotify.com/album/13h5aD46qkT8BOQEnrHXhR"
-      },
-      "artists": [
-        {
-          "name": "Luan Pereira",
-          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
-        },
-        {
-          "name": "L\u00e9o Foguete",
-          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        }
-      ],
-      "duration_ms": 151434,
-      "name": "NUNCA ESQUECIDO",
-      "url": "https://open.spotify.com/track/4JaUZ7HAQRvyG2Vc7J2GVb"
-    },
-    {
-      "added_at": "2026-02-20 20:00:23",
-      "album": {
-        "name": "Vagabundo",
-        "url": "https://open.spotify.com/album/2DsQiOZyalrytAD9Xi0IO8"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        },
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        }
-      ],
-      "duration_ms": 207136,
-      "name": "Vagabundo",
-      "url": "https://open.spotify.com/track/1mnMkTvrPi4iTblXaRvOoi"
-    },
-    {
-      "added_at": "2026-02-20 20:00:23",
-      "album": {
-        "name": "CARNAVAL",
-        "url": "https://open.spotify.com/album/3oPmMDBuZJWO2pJhwH46eQ"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        },
-        {
-          "name": "Psirico",
-          "url": "https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "CARNAVAL",
-      "url": "https://open.spotify.com/track/0AWbhOimtlECEsQP0H5J6Q"
-    },
-    {
-      "added_at": "2026-02-20 20:00:23",
-      "album": {
-        "name": "Calcinha de Renda (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4g4nnbFn8O9eU4ddG7z4SE"
-      },
-      "artists": [
-        {
-          "name": "Panda",
-          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
-        },
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        },
-        {
-          "name": "MJ Records",
-          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
-        }
-      ],
-      "duration_ms": 199379,
-      "name": "Calcinha de Renda - Ao Vivo",
-      "url": "https://open.spotify.com/track/2a9WkloaIu64sryr4JTdTi"
-    },
-    {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "Beat Que Te Deixa Alerta",
         "url": "https://open.spotify.com/album/0iyEVVDNrHcSKCu37Jdc49"
@@ -297,27 +41,323 @@
       "url": "https://open.spotify.com/track/7qqixxBvZIGSep53Eh2o0b"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
       "album": {
-        "name": "Faz Parte De Mim",
-        "url": "https://open.spotify.com/album/2zl9Sd8R4Nuf5vNCcM35b2"
+        "name": "Ensaios Da Anitta",
+        "url": "https://open.spotify.com/album/6EkCnMeO4zOURLKlTKbl39"
       },
       "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        },
+        {
+          "name": "HITMAKER",
+          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
+        }
+      ],
+      "duration_ms": 129090,
+      "name": "GOSTOSIN",
+      "url": "https://open.spotify.com/track/2s4nhrlWTnmzSnGFH5pyAM"
+    },
+    {
+      "added_at": "2026-02-27 20:00:11",
+      "album": {
+        "name": "Amo Minha Favela",
+        "url": "https://open.spotify.com/album/20s95PaYtUZtoplbDIBetb"
+      },
+      "artists": [
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        }
+      ],
+      "duration_ms": 119769,
+      "name": "Amo Minha Favela",
+      "url": "https://open.spotify.com/track/4S1SaaCxQ87nXpA2EfYFj4"
+    },
+    {
+      "added_at": "2026-02-27 20:00:11",
+      "album": {
+        "name": "JETSKI",
+        "url": "https://open.spotify.com/album/4pjiSoP1rvrhDRsD1Hey6o"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
+        }
+      ],
+      "duration_ms": 148645,
+      "name": "JETSKI",
+      "url": "https://open.spotify.com/track/3jhyw60F61gc7nC4dblqtC"
+    },
+    {
+      "added_at": "2026-02-27 20:00:11",
+      "album": {
+        "name": "Carn\u00edvoro",
+        "url": "https://open.spotify.com/album/45lGEvqXqQd7RLietEj16l"
+      },
+      "artists": [
+        {
+          "name": "Mc Jacare\u0301",
+          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Carn\u00edvoro",
+      "url": "https://open.spotify.com/track/6zWfgvh1e1FCdtfUVj370i"
+    },
+    {
+      "added_at": "2026-02-27 20:00:11",
+      "album": {
+        "name": "PEGA A MALDADE DA BANDIDA",
+        "url": "https://open.spotify.com/album/3Car77d25w5IcvDwDhYKMc"
+      },
+      "artists": [
+        {
+          "name": "Dj Luan Gomes",
+          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
+        },
+        {
+          "name": "Mc Ws da leste",
+          "url": "https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L"
+        },
+        {
+          "name": "Delleon",
+          "url": "https://open.spotify.com/artist/5qfEsHuNWVkGs5diuRf5OK"
+        },
+        {
+          "name": "Tropa da W&S",
+          "url": "https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ"
+        }
+      ],
+      "duration_ms": 110769,
+      "name": "PEGA A MALDADE DA BANDIDA",
+      "url": "https://open.spotify.com/track/588PdhJdtsuypJdUb4ms4K"
+    },
+    {
+      "added_at": "2026-02-27 20:00:11",
+      "album": {
+        "name": "MOLHO (Ao Vivo)",
+        "url": "https://open.spotify.com/album/530bw7EzQLkhNq2zzD4ppi"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        },
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "duration_ms": 162325,
+      "name": "Pela \u00daltima Vez - Ao Vivo",
+      "url": "https://open.spotify.com/track/6B7ot6Wlqf7zt3FCkYl2FJ"
+    },
+    {
+      "added_at": "2026-02-27 20:00:11",
+      "album": {
+        "name": "Saudade do Carai",
+        "url": "https://open.spotify.com/album/3PWOSqpHDsgbSNFjnsDTLn"
+      },
+      "artists": [
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        },
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        },
+        {
+          "name": "Natanzinho Lima",
+          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
+        }
+      ],
+      "duration_ms": 170777,
+      "name": "Saudade do Carai",
+      "url": "https://open.spotify.com/track/0HixceBFegrCY3GFBB7SlQ"
+    },
+    {
+      "added_at": "2026-02-27 20:00:11",
+      "album": {
+        "name": "NUNCA ESQUECIDO",
+        "url": "https://open.spotify.com/album/13h5aD46qkT8BOQEnrHXhR"
+      },
+      "artists": [
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        },
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        }
+      ],
+      "duration_ms": 151434,
+      "name": "NUNCA ESQUECIDO",
+      "url": "https://open.spotify.com/track/4JaUZ7HAQRvyG2Vc7J2GVb"
+    },
+    {
+      "added_at": "2026-02-27 20:00:11",
+      "album": {
+        "name": "Reliquia do 2T",
+        "url": "https://open.spotify.com/album/6ecRUuOdAsn1ROohWK7D2Z"
+      },
+      "artists": [
+        {
+          "name": "DJ Gu",
+          "url": "https://open.spotify.com/artist/3Y4ODN6kIBNpQj6eWNT9xw"
+        },
+        {
+          "name": "MC Vine7",
+          "url": "https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP"
+        },
         {
           "name": "MC Tuto",
           "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
         },
         {
-          "name": "DJ Oreia",
-          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+        },
+        {
+          "name": "Mc Dkziin",
+          "url": "https://open.spotify.com/artist/06CW6ZcdRZc14gC6wr3bt6"
+        },
+        {
+          "name": "MC Fr da Norte",
+          "url": "https://open.spotify.com/artist/4s6x9M7UXoKy12iOrDILhj"
         }
       ],
-      "duration_ms": 153600,
-      "name": "Faz Parte De Mim",
-      "url": "https://open.spotify.com/track/6omKlm9PHL3w95NzNtVDZd"
+      "duration_ms": 306000,
+      "name": "Reliquia do 2T",
+      "url": "https://open.spotify.com/track/6n9JMoXkXu4lDOu1k6MRpy"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
+      "album": {
+        "name": "Vagabundo",
+        "url": "https://open.spotify.com/album/2DsQiOZyalrytAD9Xi0IO8"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        },
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 207136,
+      "name": "Vagabundo",
+      "url": "https://open.spotify.com/track/1mnMkTvrPi4iTblXaRvOoi"
+    },
+    {
+      "added_at": "2026-02-27 20:00:11",
+      "album": {
+        "name": "CARNAVAL",
+        "url": "https://open.spotify.com/album/3oPmMDBuZJWO2pJhwH46eQ"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "Psirico",
+          "url": "https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "CARNAVAL",
+      "url": "https://open.spotify.com/track/0AWbhOimtlECEsQP0H5J6Q"
+    },
+    {
+      "added_at": "2026-02-27 20:00:11",
+      "album": {
+        "name": "Calcinha de Renda (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4g4nnbFn8O9eU4ddG7z4SE"
+      },
+      "artists": [
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        },
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        },
+        {
+          "name": "MJ Records",
+          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
+        }
+      ],
+      "duration_ms": 199379,
+      "name": "Calcinha de Renda - Ao Vivo",
+      "url": "https://open.spotify.com/track/2a9WkloaIu64sryr4JTdTi"
+    },
+    {
+      "added_at": "2026-02-27 20:00:11",
+      "album": {
+        "name": "Lembrei de Tu",
+        "url": "https://open.spotify.com/album/088pxvJGLblIFVW4PL95Zq"
+      },
+      "artists": [
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Fepache",
+          "url": "https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW"
+        }
+      ],
+      "duration_ms": 173858,
+      "name": "Lembrei de Tu",
+      "url": "https://open.spotify.com/track/1lokGTw8YKDexcSPtQ8AQ3"
+    },
+    {
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "Era Sol Que Me Faltava",
         "url": "https://open.spotify.com/album/0T2U6usC99EdA4L5MA7HTn"
@@ -341,7 +381,7 @@
       "url": "https://open.spotify.com/track/2M6M1f5SVQqamxeyItWZxo"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "MOLHO (Ao Vivo)",
         "url": "https://open.spotify.com/album/530bw7EzQLkhNq2zzD4ppi"
@@ -361,7 +401,7 @@
       "url": "https://open.spotify.com/track/38Ps9Kui6qJjpVqdBOfN5M"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "Panda Sem Modera\u00e7\u00e3o 2, Vol.3",
         "url": "https://open.spotify.com/album/2sDHEgQXJv3VxmitGB0wh3"
@@ -381,7 +421,27 @@
       "url": "https://open.spotify.com/track/4V2rUOmaevK0C1bKAkeFf5"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
+      "album": {
+        "name": "Faz Parte De Mim",
+        "url": "https://open.spotify.com/album/2zl9Sd8R4Nuf5vNCcM35b2"
+      },
+      "artists": [
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "DJ Oreia",
+          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Faz Parte De Mim",
+      "url": "https://open.spotify.com/track/6omKlm9PHL3w95NzNtVDZd"
+    },
+    {
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "SET DO JAPA NK 2.0",
         "url": "https://open.spotify.com/album/0IJNesGOY68YOquXRgGENh"
@@ -437,7 +497,7 @@
       "url": "https://open.spotify.com/track/1JZDwJgE9VSC0V2GR66z63"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "MIXTAPE - BIG G",
         "url": "https://open.spotify.com/album/1IHVSWOgod1smB2RH7YgJ3"
@@ -465,7 +525,7 @@
       "url": "https://open.spotify.com/track/4ukpXdplqDEMk3Fy2i30oI"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "Eu T\u00f4 Querendo De Novo (Ao Vivo)",
         "url": "https://open.spotify.com/album/3FUf6QnemeXXl7vITVDqf5"
@@ -485,35 +545,7 @@
       "url": "https://open.spotify.com/track/0pkUneJOTi0uHF4Eqf3T6r"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
-      "album": {
-        "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
-        "url": "https://open.spotify.com/album/2ECY1jKiktjhcy4yCiHauY"
-      },
-      "artists": [
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
-        {
-          "name": "Stick",
-          "url": "https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "Torelli",
-          "url": "https://open.spotify.com/artist/5JXS7XaVoUTFBUHaS4RMxu"
-        }
-      ],
-      "duration_ms": 140487,
-      "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
-      "url": "https://open.spotify.com/track/5L0d4gFfxGNITmevcFfHnA"
-    },
-    {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "Alian\u00e7a - Vol.1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5GAdbWrj64YwrmUh1HJtfE"
@@ -529,23 +561,7 @@
       "url": "https://open.spotify.com/track/1CqUGmt2Cyn2vvvAyQKJZQ"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
-      "album": {
-        "name": "Feito \u00c0 M\u00e3o Vol. 01",
-        "url": "https://open.spotify.com/album/40jGnqAXzR8Bta84lEI5mc"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 171797,
-      "name": "Pelo Bem da Minha Saudade",
-      "url": "https://open.spotify.com/track/2W8XL6iRGMmGHpqW2TKcXc"
-    },
-    {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "Al\u00f4 Virg\u00ednia (Ao Vivo)",
         "url": "https://open.spotify.com/album/0Gl4layjofpmhBcDs8CRws"
@@ -565,7 +581,7 @@
       "url": "https://open.spotify.com/track/75cbS6bJO0yUVXKVrRdSgv"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
         "url": "https://open.spotify.com/album/460wiqQRw27a2OHTCegXKF"
@@ -597,7 +613,7 @@
       "url": "https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "Se Eu Te Perdoar (Ao Vivo)",
         "url": "https://open.spotify.com/album/6sC92xi1q2e4PwFQWtF5p5"
@@ -617,7 +633,7 @@
       "url": "https://open.spotify.com/track/4c4tcqYfqiFc527gqNdRE5"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "Velhos H\u00e1bitos Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5yHzNUDYfdl02KiOqld5mm"
@@ -633,7 +649,7 @@
       "url": "https://open.spotify.com/track/0dI5yI0wplyuwBMEGKXeJC"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "SEQU\u00caNCIAS #1",
         "url": "https://open.spotify.com/album/55dQeTyxDtzrixKmRhhG02"
@@ -665,7 +681,7 @@
       "url": "https://open.spotify.com/track/1JUmsSEfVwhdJCVBG83XGU"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "Repert\u00f3rio Fim de Ano",
         "url": "https://open.spotify.com/album/1lgnxbdljukcNXswFLN4LX"
@@ -681,7 +697,7 @@
       "url": "https://open.spotify.com/track/1bWYjhtGuje05MGLOAQvpj"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "Eu Me Apaixonei",
         "url": "https://open.spotify.com/album/4KTpdC3znS9wWKo4KQw6oA"
@@ -697,7 +713,7 @@
       "url": "https://open.spotify.com/track/4SjcIkVc4cvFgURD1EHxDM"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "Bebe, Beija e Trai (Ao Vivo)",
         "url": "https://open.spotify.com/album/0E8TJBB3Y510HYS9llB48Q"
@@ -717,7 +733,7 @@
       "url": "https://open.spotify.com/track/1yJYseCZJYRHZkl1DJ3tLs"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "Desliza (\"\u00d3lhinho\" No Corpinho)",
         "url": "https://open.spotify.com/album/3FjxQlpQrfjpwIcb410U50"
@@ -737,7 +753,7 @@
       "url": "https://open.spotify.com/track/2gLUZtZN1gfercLP9guft3"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "Altas Modas",
         "url": "https://open.spotify.com/album/59doVfwiWIHdhD7lKWpwGh"
@@ -757,7 +773,7 @@
       "url": "https://open.spotify.com/track/473DqaeIno75pBbp0bNrkT"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "Di\u00e1rio de um Cafajeste",
         "url": "https://open.spotify.com/album/3KcnMYtFSEkkHfNsy6KwuA"
@@ -793,7 +809,7 @@
       "url": "https://open.spotify.com/track/6kaWah1Acn1dtNjAy6sm1p"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "RESENHA NATORA (Ao Vivo)",
         "url": "https://open.spotify.com/album/4Vg8dStAaHhiE25pIIWHIv"
@@ -813,7 +829,7 @@
       "url": "https://open.spotify.com/track/0qZwqMsGSClyrKzbVbRto9"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "MOLHO (Ao Vivo)",
         "url": "https://open.spotify.com/album/530bw7EzQLkhNq2zzD4ppi"
@@ -829,7 +845,7 @@
       "url": "https://open.spotify.com/track/6IFF888dQ0P6ilbj4kL6G8"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "2026",
         "url": "https://open.spotify.com/album/40l0eYTiD8VNsU05JZ1rVR"
@@ -849,7 +865,7 @@
       "url": "https://open.spotify.com/track/4ZuUJilJAe5MSA8dXHdOXR"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "Ao Vivo Em Uberl\u00e2ndia Vol. 02",
         "url": "https://open.spotify.com/album/2gbsDRJhXlBr23ab9O95c9"
@@ -865,27 +881,7 @@
       "url": "https://open.spotify.com/track/6tUdNbB9aYbX0sUDXOzX1u"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
-      "album": {
-        "name": "Homem \u00c9 Homem, Moleque \u00c9 Moleque",
-        "url": "https://open.spotify.com/album/0szJT51Wsr88AhBpL7Q2ss"
-      },
-      "artists": [
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        },
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        }
-      ],
-      "duration_ms": 144812,
-      "name": "Homem \u00c9 Homem, Moleque \u00c9 Moleque",
-      "url": "https://open.spotify.com/track/5cGieTJ0FQC2JXqSH4OJpg"
-    },
-    {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "Chat\u00e3o",
         "url": "https://open.spotify.com/album/6qtdLyhX199LWgKEBLwgkc"
@@ -925,7 +921,7 @@
       "url": "https://open.spotify.com/track/020De83tFmcTrgEpzdUCNS"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "Panda Sem Modera\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/5VVcZ4Ne2Tt9Bpj7QS7RrC"
@@ -949,27 +945,7 @@
       "url": "https://open.spotify.com/track/25CffgwZg6vlUdCsHJijZo"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
-      "album": {
-        "name": "Toma Gostosona",
-        "url": "https://open.spotify.com/album/28zfaQrASPCHeLDkPIYQg8"
-      },
-      "artists": [
-        {
-          "name": "Mc Lele JP",
-          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
-        },
-        {
-          "name": "DJ Guh Mix",
-          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
-        }
-      ],
-      "duration_ms": 156923,
-      "name": "Toma Gostosona",
-      "url": "https://open.spotify.com/track/7G8V8LiyyqwzSlsQLiaitN"
-    },
-    {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "Ama Um Maloqueiro",
         "url": "https://open.spotify.com/album/2Gt4u2BoqtJMNQ63pKyh5S"
@@ -993,7 +969,7 @@
       "url": "https://open.spotify.com/track/2ejSYn4SfoE07mXPlnYVED"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "Manifesto Musical 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3KWB57wZ3fZQLCr5jgbcbU"
@@ -1009,7 +985,7 @@
       "url": "https://open.spotify.com/track/7tesyGMnAFNI0l2xaxcFKi"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/2lmUmRXPsds8n2YU68dalX"
@@ -1025,7 +1001,7 @@
       "url": "https://open.spotify.com/track/2Hw0LzrD6ic8AckKBxJhiO"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "Ana Castela - Spotify Sessions",
         "url": "https://open.spotify.com/album/6pHZSdvQhTIP1APJWFUN6Q"
@@ -1041,7 +1017,7 @@
       "url": "https://open.spotify.com/track/6k2IgWmtJ0I3CtiKdEqSqe"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "Toma Essa Verdade (Ao Vivo)",
         "url": "https://open.spotify.com/album/6vour1AXVo2RNRspJQjQoV"
@@ -1057,7 +1033,23 @@
       "url": "https://open.spotify.com/track/17tg01y3RhlfRKMnd333yL"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
+      "album": {
+        "name": "Feito \u00c0 M\u00e3o Vol. 01",
+        "url": "https://open.spotify.com/album/40jGnqAXzR8Bta84lEI5mc"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 171797,
+      "name": "Pelo Bem da Minha Saudade",
+      "url": "https://open.spotify.com/track/2W8XL6iRGMmGHpqW2TKcXc"
+    },
+    {
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "KayBlack & Burna Boy - Spotify Sessions",
         "url": "https://open.spotify.com/album/72I7qkTVZYZZX3WaRkXB1Z"
@@ -1077,7 +1069,7 @@
       "url": "https://open.spotify.com/track/06sFcSZXIEGVgebMjnRwXr"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "FAMOSINHA",
         "url": "https://open.spotify.com/album/1hOcmOgX024gR2IkB7Xg26"
@@ -1101,7 +1093,7 @@
       "url": "https://open.spotify.com/track/5Nj2UVsxXAvhfYNpcre3al"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "Saudade Proibida (Ao Vivo)",
         "url": "https://open.spotify.com/album/0dBMGKZldtmOrLaF2h5jSa"
@@ -1117,7 +1109,35 @@
       "url": "https://open.spotify.com/track/40WZQRA3T6WZFIgskIAAz7"
     },
     {
-      "added_at": "2026-02-20 20:00:23",
+      "added_at": "2026-02-27 20:00:11",
+      "album": {
+        "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
+        "url": "https://open.spotify.com/album/2ECY1jKiktjhcy4yCiHauY"
+      },
+      "artists": [
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Stick",
+          "url": "https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Torelli",
+          "url": "https://open.spotify.com/artist/5JXS7XaVoUTFBUHaS4RMxu"
+        }
+      ],
+      "duration_ms": 140487,
+      "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
+      "url": "https://open.spotify.com/track/5L0d4gFfxGNITmevcFfHnA"
+    },
+    {
+      "added_at": "2026-02-27 20:00:11",
       "album": {
         "name": "Manifesto Musical 2 (Ao Vivo / Vol.1)",
         "url": "https://open.spotify.com/album/6ZzYIwoppAL4h1U777KuQn"

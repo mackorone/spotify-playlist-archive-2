@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Jotdog en portada \u2728",
+  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! RPLK y DannyLux en portada \u2728",
   "name": "Oye Pop",
   "tracks": [
     {
@@ -760,6 +760,24 @@
       "duration_ms": 153331,
       "name": "Amores de un Rato",
       "url": "https://open.spotify.com/track/0VKpmg4FhhSZ4YO0iF7maB"
+    },
+    {
+      "album": {
+        "name": "A partir de aqu\u00ed",
+        "url": "https://open.spotify.com/album/4iytMhdI6Djd9wBWoCqlf3"
+      },
+      "artists": [
+        {
+          "name": "Alan Wittels",
+          "url": "https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/5XUUXpPgnar72nujg3wm3E"
     },
     {
       "album": {
@@ -2552,7 +2570,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 241102,
       "name": "Crecer",
       "url": "https://open.spotify.com/track/61jWnsuOqyOcYgMfP96bx6"
@@ -2588,7 +2606,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 160322,
       "name": "Cuando Estamos Solas",
       "url": "https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX"
@@ -2650,6 +2668,24 @@
       "duration_ms": 162859,
       "name": "Culpable",
       "url": "https://open.spotify.com/track/5JxFRFkgC96NhOtVvcTH5r"
+    },
+    {
+      "album": {
+        "name": "i Music Listen",
+        "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
+      },
+      "artists": [
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203865,
+      "name": "cu\u00eddame de mi",
+      "url": "https://open.spotify.com/track/3rHnzhfozKEQ8p414MPW9F"
     },
     {
       "album": {
@@ -3227,6 +3263,28 @@
     },
     {
       "album": {
+        "name": "Distinto",
+        "url": "https://open.spotify.com/album/0a505H49Qu64xAf5mfNMB7"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165110,
+      "name": "Distinto",
+      "url": "https://open.spotify.com/track/3ozopXR7pzz7Mr5z04rK1U"
+    },
+    {
+      "album": {
         "name": "Dmentes",
         "url": "https://open.spotify.com/album/6lMLfxCtMZ81byoSxyKPsu"
       },
@@ -3238,7 +3296,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 192631,
       "name": "Dmentes",
       "url": "https://open.spotify.com/track/4JCXV1hCrHFV0YiAe6KhV3"
@@ -4918,7 +4976,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 230625,
       "name": "Helao",
       "url": "https://open.spotify.com/track/3aHhwk1a6w7E1l4c8Tz5sB"
@@ -5336,6 +5394,24 @@
       "duration_ms": 144153,
       "name": "Karma",
       "url": "https://open.spotify.com/track/7M4HP9qLthoJZ3XAAamZfY"
+    },
+    {
+      "album": {
+        "name": "KAWASAKI",
+        "url": "https://open.spotify.com/album/5AsNKgoGpbkOGSJyLjY4mM"
+      },
+      "artists": [
+        {
+          "name": "SANTOS BRAVOS",
+          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "KAWASAKI",
+      "url": "https://open.spotify.com/track/1ojKC4x3rDKoaikvEx1Lt2"
     },
     {
       "album": {
@@ -6368,7 +6444,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 210181,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/4NoDlGcDYyRuAWdZPR9COL"
@@ -7846,7 +7922,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 186996,
       "name": "odio a primera vista",
       "url": "https://open.spotify.com/track/4O7u2mKN9ovYtk3ejaJ87O"
@@ -8366,7 +8442,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 153250,
       "name": "Pecadora",
       "url": "https://open.spotify.com/track/1599bMWWkIn041P87kqtmB"
@@ -8504,6 +8580,28 @@
       "duration_ms": 207150,
       "name": "Persona Favorita",
       "url": "https://open.spotify.com/track/06QTfbiMgQvh8gXQPlfC8J"
+    },
+    {
+      "album": {
+        "name": "PERSONAL",
+        "url": "https://open.spotify.com/album/1WyIjUm0mxXELrcC3mBwRe"
+      },
+      "artists": [
+        {
+          "name": "Francely Abreuu",
+          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142523,
+      "name": "PERSONAL",
+      "url": "https://open.spotify.com/track/0LDPHN32Xc3q4AvA6SGNIp"
     },
     {
       "album": {
@@ -9068,6 +9166,24 @@
       "duration_ms": 159497,
       "name": "Qui\u00e9n lo dir\u00eda",
       "url": "https://open.spotify.com/track/1l8QKeG1hH5nF5zpJWEBsR"
+    },
+    {
+      "album": {
+        "name": "qu\u00e9 raro es ser normal",
+        "url": "https://open.spotify.com/album/0XqsyT0z2gEtn6kXJvI2Kk"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145714,
+      "name": "qu\u00e9 raro es ser normal",
+      "url": "https://open.spotify.com/track/0SJastxx9FyW6Kbp1RLQaK"
     },
     {
       "album": {
@@ -9778,7 +9894,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 190340,
       "name": "siempre quiero +",
       "url": "https://open.spotify.com/track/6uYAESroN4MLNbrUpddVgU"
@@ -10192,6 +10308,24 @@
       "duration_ms": 180528,
       "name": "Suerte",
       "url": "https://open.spotify.com/track/2TIKfPzyuQ2X1SnAv5PvUQ"
+    },
+    {
+      "album": {
+        "name": "Ya No Soy Tan Cool (Deluxe)",
+        "url": "https://open.spotify.com/album/6ysFEJKf8RALz59cyHGsEu"
+      },
+      "artists": [
+        {
+          "name": "Andie Gago",
+          "url": "https://open.spotify.com/artist/2R5LEUDIhf0yxB5hQtXacJ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179093,
+      "name": "Sue\u00f1o",
+      "url": "https://open.spotify.com/track/1WVg551B4ahuQzeV5vPnjY"
     },
     {
       "album": {
@@ -11120,6 +11254,32 @@
       "duration_ms": 168120,
       "name": "Trago Al Pecho",
       "url": "https://open.spotify.com/track/2FizWFIAvYANGK4CHOzGFw"
+    },
+    {
+      "album": {
+        "name": "3 Pasos Para Sanar un Coraz\u00f3n Roto",
+        "url": "https://open.spotify.com/album/1tDZPLGY1uTtON1SLq8PHO"
+      },
+      "artists": [
+        {
+          "name": "Barbacius",
+          "url": "https://open.spotify.com/artist/6ammhQoFZnVNk5n8qqagyv"
+        },
+        {
+          "name": "Nfx",
+          "url": "https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5"
+        },
+        {
+          "name": "Big Apple",
+          "url": "https://open.spotify.com/artist/0A47yBLunNeq5dA5WYUjBe"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153905,
+      "name": "Traici\u00f3n",
+      "url": "https://open.spotify.com/track/36ra3hMPRvKXvxRGwKwZSW"
     },
     {
       "album": {

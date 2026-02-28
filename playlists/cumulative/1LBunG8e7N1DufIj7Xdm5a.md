@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,104 songs - 9 day 2 hr 19 min
+4,106 songs - 9 day 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2052,6 +2052,7 @@
 | [Lighty](https://open.spotify.com/track/60AzyRRvAyi9dSJX3uB1wO) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Minimal Electronic Pop](https://open.spotify.com/album/3U0AvE2h1DP2WyGgtRQnmz) | 3:40 | 2025-09-17 |  |
 | [Lighty \(another\)](https://open.spotify.com/track/3xBDNSyeokrYSiXBHCB2IE) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Minimal Electronic Pop](https://open.spotify.com/album/3U0AvE2h1DP2WyGgtRQnmz) | 3:14 | 2025-09-17 |  |
 | [Like a Sun](https://open.spotify.com/track/3LSsDvUngLzH6ayzSmv1Pw) | [Charlie Toulson](https://open.spotify.com/artist/5XVuDmp4R5ESKtdYKu4u9n) | [Blood](https://open.spotify.com/album/4OlJmPoZcR6HhP9ryrYjoD) | 2:16 | 2025-12-26 |  |
+| [Like I Love You](https://open.spotify.com/track/2BmUatmy9K4kZL8SLgne6l) | [Miley Rose](https://open.spotify.com/artist/6MA3iyWPi3BNUecJdCp563) | [Like I Love You](https://open.spotify.com/album/2bdsi3Elzz7AQx99LRMdn7) | 3:30 | 2026-02-27 |  |
 | [Like The Dragonflies](https://open.spotify.com/track/6wupREgOCQGRn6TUdAaw7e) | [AnnoLuce](https://open.spotify.com/artist/0RAepJjLAqVtjFtufCgL3A), [Mat Neumann](https://open.spotify.com/artist/6Ewb0KHn0X3JkieRDGBTYn) | [Like The Dragonflies](https://open.spotify.com/album/2NJ28PGU3y3gwyzF4YJzRj) | 4:08 | 2025-06-06 |  |
 | [Liquido](https://open.spotify.com/track/0s2F4Ier4llM9eBIeAUjpx) | [Sono](https://open.spotify.com/artist/4I9E7P0A63ze5UdhH43gpK) | [Liquido](https://open.spotify.com/album/3b9OWypa3OURckhAqUrHQd) | 3:34 | 2025-05-27 |  |
 | [Listen](https://open.spotify.com/track/3xXLoMwMlHayghrTphzWuv) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Addictive Pop](https://open.spotify.com/album/31BLqQI2Fuq0nTlBzmDUx4) | 3:35 | 2025-09-18 |  |
@@ -3363,6 +3364,7 @@
 | [Still High](https://open.spotify.com/track/3fYYpo0z2KCpVd4YUtfHiC) | [Billionaire](https://open.spotify.com/artist/4Z2lKTXxd7UmdBkzMlsriX) | [Brown Cigarettes & Sunsets](https://open.spotify.com/album/2STjtjHeuKXzwWbms43eNy) | 2:36 | 2025-06-16 |  |
 | [Still Human](https://open.spotify.com/track/0oiFmhtY6O8VlQ5PCtmjY2) | [Analog Future](https://open.spotify.com/artist/5FW4eXdqhOZepr0vX57iVJ) | [BOOT SEQUENCE](https://open.spotify.com/album/1yP3P0aSvDzhOegG7dZPCg) | 2:35 | 2026-01-21 |  |
 | [Still Streets](https://open.spotify.com/track/5LoIhSmzdEyBik5b7BKTxi) | [Labean Dreams](https://open.spotify.com/artist/4WOzApZ1D3ngpRaH9Qz0h6) | [Soft Steps](https://open.spotify.com/album/3tdc0NtvsXTQcsB3qkWqq3) | 2:34 | 2025-07-03 |  |
+| [Still with you](https://open.spotify.com/track/02Q3WXt6U1wWojhvkgUpzB) | [Ritmo Quantico](https://open.spotify.com/artist/1gnTu7US1LD0M1AXrGefBB) | [Still with you](https://open.spotify.com/album/72ltBH7CK5WNr8N4qL3ldO) | 3:59 | 2026-02-27 |  |
 | [Sto bene](https://open.spotify.com/track/19E8ChjGPz0ndKJMKIC4G2) | [Dave Bolo](https://open.spotify.com/artist/7fCRAaXZoFGb21FJqY9ihn) | [Sto bene](https://open.spotify.com/album/3N7sL4sTcMEnoSfTvNrIot) | 3:44 | 2025-06-06 |  |
 | [Stockholm Syndrome](https://open.spotify.com/track/7AnnurFLjLNAhOqyI5KSHR) | [Arnold Alaniz](https://open.spotify.com/artist/0Ma0R8ZNejeGKEI4YMnVll) | [Stockholm Syndrome](https://open.spotify.com/album/4LFyHeD7q5FruRYXWW0WuB) | 3:17 | 2025-12-21 |  |
 | [Stop Me](https://open.spotify.com/track/4CuXQ9mercSGlJj0n7yOfw) | [Loris](https://open.spotify.com/artist/0NNVqu4vFNvDhWFfaHmXGB) | [Stop Me](https://open.spotify.com/album/2KEXeYDi8pDJIPSDxR61b6) | 3:38 | 2025-06-05 |  |

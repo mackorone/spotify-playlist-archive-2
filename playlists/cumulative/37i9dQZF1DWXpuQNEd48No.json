@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Haryanvi Hip-Hop! Cover: RP Singh",
+  "description": "Best of Haryanvi Hip-Hop! Cover: Hammy Muzic",
   "name": "RAP 91 Haryanvi",
   "tracks": [
     {
@@ -4554,7 +4554,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 114000,
       "name": "GTA Haryana",
       "url": "https://open.spotify.com/track/6w77RaL9sZfWNDYw1KRBwS"
@@ -11646,6 +11646,24 @@
       "duration_ms": 176664,
       "name": "World War",
       "url": "https://open.spotify.com/track/54z8rvv4UU2O4UmBbdDn0D"
+    },
+    {
+      "album": {
+        "name": "Yaar Chale Ni",
+        "url": "https://open.spotify.com/album/0fozvGqOCpvPti5t59SJWc"
+      },
+      "artists": [
+        {
+          "name": "Avy Nyoli",
+          "url": "https://open.spotify.com/artist/2R5btwiJhkxWzX1nfjRWQ8"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161703,
+      "name": "Yaar Chale Ni",
+      "url": "https://open.spotify.com/track/5KMW5VJUMG1AEJlhN5Eyh6"
     },
     {
       "album": {

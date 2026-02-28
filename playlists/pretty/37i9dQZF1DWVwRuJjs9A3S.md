@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Elise Elvira
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,809 likes - 230 songs - 13 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,817 likes - 230 songs - 13 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I'M DEAD](https://open.spotify.com/track/7z8n4qHDR43v3J6lP3DhSr) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [I'M DEAD](https://open.spotify.com/album/1WfNYIhwLIanOOgQwciFQy) | 2:31 |
 | 2 | [A Perfect Storm](https://open.spotify.com/track/2VooUVWfcwhJA780U5yNa2) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [A Perfect Storm](https://open.spotify.com/album/2zcG8CLrB1510937KfbsVK) | 3:04 |
-| 3 | [You always liked me better when i was stoned](https://open.spotify.com/track/31Zd47aEZP29ZoGQkp45VN) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [You always liked me better when i was stoned](https://open.spotify.com/album/4JUnK6tzlRvi07mUSxN8hH) | 3:09 |
+| 3 | [You Always Liked Me Better When I Was Stoned](https://open.spotify.com/track/31Zd47aEZP29ZoGQkp45VN) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [You Always Liked Me Better When I Was Stoned](https://open.spotify.com/album/4JUnK6tzlRvi07mUSxN8hH) | 3:09 |
 | 4 | [Happy](https://open.spotify.com/track/0aUvAHeO4GkWyAKYSz7JSx) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Happy](https://open.spotify.com/album/0B0floiGVspQNvqJAoODdD) | 3:42 |
 | 5 | [Buddy](https://open.spotify.com/track/1TX5YEqG0GQH5zdA6y4GzQ) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln), [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Buddy](https://open.spotify.com/album/2UqdYHuCN9P2STSMaMlVm8) | 4:10 |
 | 6 | [Star](https://open.spotify.com/track/6ZzycZmHaFzfbIBl24BV3N) | [mori](https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [El Niño Bola](https://open.spotify.com/album/3Bo7xLuNrJhubah3xYLCqv) | 3:31 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 49 | [moving in](https://open.spotify.com/track/6V68DOoiw4Z8iPPDIxtgWY) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [moving in](https://open.spotify.com/album/1E6E9b6Do9vazfKNHzJnpk) | 4:05 |
 | 50 | [Good Girl](https://open.spotify.com/track/5916POJDlPQRBbe1SJc7uK) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Good Girl](https://open.spotify.com/album/6i5yc4dRqvo2Mu8mGrRXkE) | 4:23 |
 | 51 | [Memory Be a Blade](https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00) | 3:41 |
-| 52 | [Black Cat](https://open.spotify.com/track/3X7S1j9JzhDiyOmAo29ToG) | [deer park](https://open.spotify.com/artist/6Lq0JPdh83AUSeMfuMPCjy), [Ivy Knight](https://open.spotify.com/artist/2k3Q5efL6SiHfAsGqdXk4z) | [Black Cat](https://open.spotify.com/album/3FsU86eAWIuGRAzXjX5R97) | 2:19 |
+| 52 | [Black Cat](https://open.spotify.com/track/3X7S1j9JzhDiyOmAo29ToG) | [Deer park](https://open.spotify.com/artist/6Lq0JPdh83AUSeMfuMPCjy), [Ivy Knight](https://open.spotify.com/artist/2k3Q5efL6SiHfAsGqdXk4z) | [Black Cat](https://open.spotify.com/album/3FsU86eAWIuGRAzXjX5R97) | 2:19 |
 | 53 | [Delete Forever](https://open.spotify.com/track/5hsvL0N22UBECtZFEezvC6) | [100%WET](https://open.spotify.com/artist/00NfekFQ6GejpGDubQhgN2) | [Delete Forever](https://open.spotify.com/album/6vns0F3lPj9nkAuQ3BxUzu) | 3:32 |
 | 54 | [Lukas, Dennis och Farsan](https://open.spotify.com/track/3zDSpnnj31zRndkTJ6Giyf) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Lukas, Dennis och Farsan](https://open.spotify.com/album/77InzqccCCXt6HIVaUrSQ3) | 3:41 |
 | 55 | [BLINDERS](https://open.spotify.com/track/5yGRA06uJvK0KLgeZAAYb7) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [BLINDERS](https://open.spotify.com/album/7bdkWRYBMgIlWEhWlQCEJp) | 3:34 |

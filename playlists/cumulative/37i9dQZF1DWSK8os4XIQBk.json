@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Morgan Wallen and the biggest hits in country music.",
+  "description": "Tucker Wetmore and the biggest hits in country music.",
   "name": "All About Country",
   "tracks": [
     {
@@ -1252,6 +1252,24 @@
       "duration_ms": 173064,
       "name": "Bar None",
       "url": "https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP"
+    },
+    {
+      "album": {
+        "name": "Be By You",
+        "url": "https://open.spotify.com/album/5xDfjX4jwqezEfiRzFwHCs"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197655,
+      "name": "Be By You",
+      "url": "https://open.spotify.com/track/7aLndReanHBzpTGE5Am9H8"
     },
     {
       "album": {
@@ -3368,7 +3386,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 189626,
       "name": "Cowboys & Dreamers",
       "url": "https://open.spotify.com/track/2ls9ifCvuLmVJI0E2ZcEl6"
@@ -7103,6 +7121,28 @@
     },
     {
       "album": {
+        "name": "Let Your Horses Run - The Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4OwKgEgCtTiYFnPbk1a1HY"
+      },
+      "artists": [
+        {
+          "name": "Brett Kissel",
+          "url": "https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm"
+        },
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184613,
+      "name": "Hurtin' Songs",
+      "url": "https://open.spotify.com/track/0T0tw43OEpIBjIQFFBdoCg"
+    },
+    {
+      "album": {
         "name": "I Ain't Comin' Back",
         "url": "https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB"
       },
@@ -8502,7 +8542,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 166206,
       "name": "Just In Case",
       "url": "https://open.spotify.com/track/02Ya2Q08bBKFqUJvjmyRXK"
@@ -12780,6 +12820,24 @@
       "duration_ms": 166579,
       "name": "Sad To Work",
       "url": "https://open.spotify.com/track/46olgrSXSWCt8jkYh9tok0"
+    },
+    {
+      "album": {
+        "name": "Golden Child (The Final Chapter)",
+        "url": "https://open.spotify.com/album/0HqvCRbmTmx7liSWmFhI6m"
+      },
+      "artists": [
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232718,
+      "name": "Safe Place To Break",
+      "url": "https://open.spotify.com/track/2JiAYxUToEPSOLMe1qm5BA"
     },
     {
       "album": {
@@ -17830,7 +17888,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 171657,
       "name": "Worth The Double",
       "url": "https://open.spotify.com/track/32u476jmlwUrcHKxEyIvdy"

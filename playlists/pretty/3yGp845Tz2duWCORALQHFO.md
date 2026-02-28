@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,060 likes - 56 songs - 3 hr 3 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,059 likes - 56 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Always You \(A State of Trance 2026 ELEVATION Anthem\)](https://open.spotify.com/track/0J53OaOuSp7RARHjj1wMTh) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Richard Durand](https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR), [Dicosis](https://open.spotify.com/artist/1OzaVbvTssplYwiAq5xq2V) | [Always You \(A State of Trance 2026 ELEVATION Anthem\)](https://open.spotify.com/album/1gcqQomUJz8hb8iXDZDApE) | 3:27 |
-| 2 | [Never Knew You](https://open.spotify.com/track/4vnSg7arLkbErl1VPQa7GH) | [ZreniX](https://open.spotify.com/artist/2wPu7oLcqkelaRAb86PYpm) | [Never Knew You](https://open.spotify.com/album/2wVRV3Ocprf9JU8gwg1Iyg) | 3:04 |
+| 2 | [Never Knew You](https://open.spotify.com/track/4vnSg7arLkbErl1VPQa7GH) | [ZreniX](https://open.spotify.com/artist/2wPu7oLcqkelaRAb86PYpm) | [Never Knew You](https://open.spotify.com/album/2wVRV3Ocprf9JU8gwg1Iyg) | 2:44 |
 | 3 | [WITH ME](https://open.spotify.com/track/7sMu7u5KzqJLYo9zUDFPFa) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [WITH ME](https://open.spotify.com/album/3Ftu3XGiFI03GVosY29p4y) | 3:03 |
 | 4 | [Goddess](https://open.spotify.com/track/3HD9GLv9hzwTPAkhmBIXKq) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX) | [Goddess](https://open.spotify.com/album/26KY5Noaiuq6EZB5CTiEpC) | 2:58 |
 | 5 | [Mind Illuminate](https://open.spotify.com/track/5p7hNVYvzfrdb4wOiWtcNo) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Mind Illuminate](https://open.spotify.com/album/1hC1LUMQUyiBYxCUbVDkt3) | 2:51 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 15 | [Wilderness](https://open.spotify.com/track/2Z6pmgCfm2kmBNthhFY7gz) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [KC](https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt) | [Wilderness](https://open.spotify.com/album/0bTwui7Tuo2DVbrCpzv4Sp) | 3:58 |
 | 16 | [Slay To The Rhythm](https://open.spotify.com/track/6l5L3mJwDFqNsizPysrCNo) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Slay To The Rhythm](https://open.spotify.com/album/1LyVCQq6xaFZ2faLd7setq) | 3:06 |
 | 17 | [Jenny](https://open.spotify.com/track/1fpAGBH4mrUuncfk49VbcZ) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8), [Jeff Idah](https://open.spotify.com/artist/63Ut2UoxE2BsLWrrU5Ihkc) | [Jenny](https://open.spotify.com/album/1rVwXqFkLz9uc8Bn77FYhC) | 3:47 |
-| 18 | [Track 11](https://open.spotify.com/track/4dJziZxTRtUgs2AgDutgBa) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Jesus Loves Trap Music](https://open.spotify.com/album/7BKAq3ux4qhQXwGdGxSv5r) | 0:00 |
+| 18 | [Donuts](https://open.spotify.com/track/4dJziZxTRtUgs2AgDutgBa) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd) | [Jesus Loves Trap Music](https://open.spotify.com/album/7BKAq3ux4qhQXwGdGxSv5r) | 2:43 |
 | 19 | [Time Machine](https://open.spotify.com/track/1eikreaPZfpVaUX69LwD6f) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq), [BARELY ALIVE](https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3) | [Time Machine](https://open.spotify.com/album/21t6qH7SVwrYoubXmxhyE2) | 2:17 |
 | 20 | [Divine](https://open.spotify.com/track/7z2RH8m118tfEshBPr9EUD) | [Adam Marcos](https://open.spotify.com/artist/3eqpBvxrHEbR9lMb6MxDqW), [Alessa](https://open.spotify.com/artist/5HkbMgVDW1phozbJsLvVVk) | [Divine](https://open.spotify.com/album/2Hk1ZEq5gr7hxEP8qWcHvQ) | 2:54 |
 | 21 | [Mainline \- Steve Allen Remix](https://open.spotify.com/track/2gTKRTWdUi5XtxdJySDkmP) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id), [Steve Allen](https://open.spotify.com/artist/5oM9MmVWGFrIcVyojUVwcJ) | [Mainline \(Steve Allen Remix\)](https://open.spotify.com/album/77kM5lFw5A6BdgHYR6SrGY) | 2:20 |

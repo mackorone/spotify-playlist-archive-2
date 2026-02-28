@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 37695,
+  "num_followers": 37692,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAAAXNHU9SvjxAKysHkZ0PvAe",
+  "snapshot_id": "aZ+NAAAAAAA6SUJb+lHa9XEZ29K1I9G7",
   "tracks": [
     {
       "added_at": null,
@@ -330,11 +330,15 @@
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 233133,
-      "name": "California Halo Blue",
-      "url": "https://open.spotify.com/track/3mC4kKsdyjzVGpISqAnWnW"
+      "duration_ms": 235746,
+      "name": "Pacific Coast Highway In The Movies",
+      "url": "https://open.spotify.com/track/1CA0a2dcfsJfiUEH6qVomI"
     },
     {
       "added_at": null,
@@ -394,15 +398,11 @@
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 235746,
-      "name": "Pacific Coast Highway In The Movies",
-      "url": "https://open.spotify.com/track/1CA0a2dcfsJfiUEH6qVomI"
+      "duration_ms": 233133,
+      "name": "California Halo Blue",
+      "url": "https://open.spotify.com/track/3mC4kKsdyjzVGpISqAnWnW"
     },
     {
       "added_at": null,
@@ -470,15 +470,11 @@
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Alex Ebert",
-          "url": "https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE"
         }
       ],
-      "duration_ms": 222266,
-      "name": "Mayday!!! Fiesta Fever",
-      "url": "https://open.spotify.com/track/5gpy4Oseu0soMumuSJi7B6"
+      "duration_ms": 288080,
+      "name": "Slam (Angel Miners)",
+      "url": "https://open.spotify.com/track/3KdzzDeRqASjUuRkvft7Db"
     },
     {
       "added_at": null,
@@ -546,11 +542,15 @@
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Alex Ebert",
+          "url": "https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE"
         }
       ],
-      "duration_ms": 288080,
-      "name": "Slam (Angel Miners)",
-      "url": "https://open.spotify.com/track/3KdzzDeRqASjUuRkvft7Db"
+      "duration_ms": 222266,
+      "name": "Mayday!!! Fiesta Fever",
+      "url": "https://open.spotify.com/track/5gpy4Oseu0soMumuSJi7B6"
     },
     {
       "added_at": null,
@@ -626,31 +626,15 @@
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 241693,
-      "name": "A Letter To No One",
-      "url": "https://open.spotify.com/track/1aE8HVgaRZGqFY6sF0utyR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Echo, My Shadow, My Covers & Me",
-        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         },
         {
-          "name": "Jewel",
-          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
+          "name": "Del The Funky Homosapien",
+          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
         }
       ],
-      "duration_ms": 241499,
-      "name": "Take A Chance On Me (feat. Jewel)",
-      "url": "https://open.spotify.com/track/2QZpV3KZnDfqrvOfJNcvCY"
+      "duration_ms": 182893,
+      "name": "I Am Happy",
+      "url": "https://open.spotify.com/track/7hlS8OyiuxxNI8aoQM9hCf"
     },
     {
       "added_at": null,
@@ -671,6 +655,26 @@
       "duration_ms": 215849,
       "name": "flagpole sitta",
       "url": "https://open.spotify.com/track/2IIeiY0ZtqrJLnKZxuLGf1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Echo, My Shadow, My Covers & Me",
+        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Jewel",
+          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
+        }
+      ],
+      "duration_ms": 241499,
+      "name": "Take A Chance On Me (feat. Jewel)",
+      "url": "https://open.spotify.com/track/2QZpV3KZnDfqrvOfJNcvCY"
     },
     {
       "added_at": null,
@@ -698,15 +702,11 @@
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Del The Funky Homosapien",
-          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
         }
       ],
-      "duration_ms": 182893,
-      "name": "I Am Happy",
-      "url": "https://open.spotify.com/track/7hlS8OyiuxxNI8aoQM9hCf"
+      "duration_ms": 241693,
+      "name": "A Letter To No One",
+      "url": "https://open.spotify.com/track/1aE8HVgaRZGqFY6sF0utyR"
     },
     {
       "added_at": null,

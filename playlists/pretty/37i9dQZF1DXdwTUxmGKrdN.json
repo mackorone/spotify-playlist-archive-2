@@ -1,6 +1,6 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 455407,
+  "num_followers": 455445,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
+        "name": "Sentiment",
+        "url": "https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7"
+      },
+      "artists": [
+        {
+          "name": "Brendan Rothwell",
+          "url": "https://open.spotify.com/artist/5RABpAgeEQTwa2yoatfUQQ"
+        }
+      ],
+      "duration_ms": 240172,
+      "name": "Think of You",
+      "url": "https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
         "name": "Echoes Of The Heart",
         "url": "https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 238213,
       "name": "Echoes of the Heart",
       "url": "https://open.spotify.com/track/4NHXOCiSoFcbPkT1NZOChb"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
-        "name": "Sentiment",
-        "url": "https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7"
-      },
-      "artists": [
-        {
-          "name": "Brendan Rothwell",
-          "url": "https://open.spotify.com/artist/5RABpAgeEQTwa2yoatfUQQ"
-        }
-      ],
-      "duration_ms": 240172,
-      "name": "Think of You",
-      "url": "https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -407,26 +407,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "SHINE!",
-        "url": "https://open.spotify.com/album/6xscPJ4QR4Acjq1zhJatbL"
-      },
-      "artists": [
-        {
-          "name": "Kim Scott",
-          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
-        },
-        {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
-        }
-      ],
-      "duration_ms": 261640,
-      "name": "SHINE!",
-      "url": "https://open.spotify.com/track/0oqWJG5i5f01tKY4e3P3ux"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "After 8",
         "url": "https://open.spotify.com/album/2DZxWJXHFCYuiSNoVyWYZe"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 281920,
       "name": "It's Too Late",
       "url": "https://open.spotify.com/track/3Zwphwi81qVI7ucNusDSRq"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "SHINE!",
+        "url": "https://open.spotify.com/album/6xscPJ4QR4Acjq1zhJatbL"
+      },
+      "artists": [
+        {
+          "name": "Kim Scott",
+          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
+        },
+        {
+          "name": "Blake Aaron",
+          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+        }
+      ],
+      "duration_ms": 261640,
+      "name": "SHINE!",
+      "url": "https://open.spotify.com/track/0oqWJG5i5f01tKY4e3P3ux"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Shake It",
-        "url": "https://open.spotify.com/album/0fxC7twA5PZ0J5LngaiZbP"
-      },
-      "artists": [
-        {
-          "name": "Paula Atherton",
-          "url": "https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6"
-        }
-      ],
-      "duration_ms": 278200,
-      "name": "My Song for You",
-      "url": "https://open.spotify.com/track/2WkpgjnqTOPCi60IvlDtvB"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "The Gift Psychobass2",
         "url": "https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 299626,
       "name": "The B Spot",
       "url": "https://open.spotify.com/track/1sReMaCozvIHbnIlLF1GSx"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/0fxC7twA5PZ0J5LngaiZbP"
+      },
+      "artists": [
+        {
+          "name": "Paula Atherton",
+          "url": "https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6"
+        }
+      ],
+      "duration_ms": 278200,
+      "name": "My Song for You",
+      "url": "https://open.spotify.com/track/2WkpgjnqTOPCi60IvlDtvB"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "So Many Ways",
-        "url": "https://open.spotify.com/album/7EHcHWVRicIXU9blexwPSw"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 247440,
-      "name": "So Many Ways",
-      "url": "https://open.spotify.com/track/5M4hx3dAvctkZhArX9SWrh"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "The Limit's the Sky",
         "url": "https://open.spotify.com/album/3YFixNZQruKFSuXhd3W69S"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 223669,
       "name": "Chill or Be Chilled",
       "url": "https://open.spotify.com/track/5gAbksSWP6H2gzdWpN21w9"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "So Many Ways",
+        "url": "https://open.spotify.com/album/7EHcHWVRicIXU9blexwPSw"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "duration_ms": 247440,
+      "name": "So Many Ways",
+      "url": "https://open.spotify.com/track/5M4hx3dAvctkZhArX9SWrh"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
+        "name": "G-Stream",
+        "url": "https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS"
+      },
+      "artists": [
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+        }
+      ],
+      "duration_ms": 260265,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/1pPpKGYsZIMWYaX10gx7uR"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/7qOXrZte4eeBH3S7LYoO1T"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 280280,
       "name": "Can't Stop",
       "url": "https://open.spotify.com/track/2vBjecyzspx6GsoL3FU6mF"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
-        "name": "G-Stream",
-        "url": "https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS"
-      },
-      "artists": [
-        {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
-        }
-      ],
-      "duration_ms": 260265,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/1pPpKGYsZIMWYaX10gx7uR"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Lip Service",
-        "url": "https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 275773,
-      "name": "Lip Service",
-      "url": "https://open.spotify.com/track/2fmT3fYkiWXFFZ6YKm7voS"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Bob Baldwin Presents: Abbey Road and The Beatles",
         "url": "https://open.spotify.com/album/3i47d2tkJNfJc8F7mBGr6c"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 294500,
       "name": "Sweet Kisses",
       "url": "https://open.spotify.com/track/34rxNLSGAcmsjBJtpZHRtW"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Lip Service",
+        "url": "https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 275773,
+      "name": "Lip Service",
+      "url": "https://open.spotify.com/track/2fmT3fYkiWXFFZ6YKm7voS"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
+        "name": "Midnight Daydream",
+        "url": "https://open.spotify.com/album/1Evdw2XJNENemvkBO4aM4G"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dave & The HouseCall Band",
+          "url": "https://open.spotify.com/artist/134PknVZizoh9QcdLGLPF8"
+        }
+      ],
+      "duration_ms": 261266,
+      "name": "Cecil's Groove",
+      "url": "https://open.spotify.com/track/5KjmJJokL09RvKLfVQvDRc"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
         "name": "Lifted",
         "url": "https://open.spotify.com/album/2q5FbIK44fNkcw6w2TWXs9"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 247346,
       "name": "Stylin'",
       "url": "https://open.spotify.com/track/40UbNyeFo1F7ETJ4zLi14e"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
-        "name": "Midnight Daydream",
-        "url": "https://open.spotify.com/album/1Evdw2XJNENemvkBO4aM4G"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dave & The HouseCall Band",
-          "url": "https://open.spotify.com/artist/134PknVZizoh9QcdLGLPF8"
-        }
-      ],
-      "duration_ms": 261266,
-      "name": "Cecil's Groove",
-      "url": "https://open.spotify.com/track/5KjmJJokL09RvKLfVQvDRc"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Promised Land",
-        "url": "https://open.spotify.com/album/7ctpJMlFR5SQamyhoAyeEM"
-      },
-      "artists": [
-        {
-          "name": "Paul Brown",
-          "url": "https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "Round And Round",
-      "url": "https://open.spotify.com/track/4KtQuilZOf6EhdcmqMSLVP"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "All We Have Are Moments",
         "url": "https://open.spotify.com/album/0smdqyg37o4BTYbC5coqVx"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 213536,
       "name": "What Key?",
       "url": "https://open.spotify.com/track/7AeeeNlvjxHKq5ekmdY72B"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/7ctpJMlFR5SQamyhoAyeEM"
+      },
+      "artists": [
+        {
+          "name": "Paul Brown",
+          "url": "https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "Round And Round",
+      "url": "https://open.spotify.com/track/4KtQuilZOf6EhdcmqMSLVP"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/1KO2CGLFnWltGv9mRwc22y"
-      },
-      "artists": [
-        {
-          "name": "Oli Silk",
-          "url": "https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE"
-        },
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 287640,
-      "name": "New Bounce",
-      "url": "https://open.spotify.com/track/3AFEIfMWHsjjv89DhFmS8G"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Pearls",
         "url": "https://open.spotify.com/album/6KcEJQThVXSuKpBojJs0bF"
       },
@@ -1711,18 +1691,22 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Coevolve",
-        "url": "https://open.spotify.com/album/1Ppa4z7b3BL1qB8nkqvQoT"
+        "name": "6",
+        "url": "https://open.spotify.com/album/1KO2CGLFnWltGv9mRwc22y"
       },
       "artists": [
         {
-          "name": "Kayla Waters",
-          "url": "https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA"
+          "name": "Oli Silk",
+          "url": "https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE"
+        },
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
         }
       ],
-      "duration_ms": 293595,
-      "name": "Zephyr",
-      "url": "https://open.spotify.com/track/7H8SthzNfUQphbs96I2Gfs"
+      "duration_ms": 287640,
+      "name": "New Bounce",
+      "url": "https://open.spotify.com/track/3AFEIfMWHsjjv89DhFmS8G"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1739,6 +1723,22 @@
       "duration_ms": 228973,
       "name": "Romantic Nites",
       "url": "https://open.spotify.com/track/6IfLElgQIOE5xG8DDCC9Rp"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Coevolve",
+        "url": "https://open.spotify.com/album/1Ppa4z7b3BL1qB8nkqvQoT"
+      },
+      "artists": [
+        {
+          "name": "Kayla Waters",
+          "url": "https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA"
+        }
+      ],
+      "duration_ms": 293595,
+      "name": "Zephyr",
+      "url": "https://open.spotify.com/track/7H8SthzNfUQphbs96I2Gfs"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Elevation",
-        "url": "https://open.spotify.com/album/2Q69YdccZf1wtmsfEh5gQE"
-      },
-      "artists": [
-        {
-          "name": "Randy Scott",
-          "url": "https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw"
-        }
-      ],
-      "duration_ms": 238876,
-      "name": "Affection",
-      "url": "https://open.spotify.com/track/1ViDanY5GxpDf2PITZAh5L"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "What You Do to Me",
         "url": "https://open.spotify.com/album/62tnuuUQBGrMYp4AkUCrI1"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 297750,
       "name": "What You Do To Me",
       "url": "https://open.spotify.com/track/6KvdalfItAMjqd8KeQMcdl"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Elevation",
+        "url": "https://open.spotify.com/album/2Q69YdccZf1wtmsfEh5gQE"
+      },
+      "artists": [
+        {
+          "name": "Randy Scott",
+          "url": "https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw"
+        }
+      ],
+      "duration_ms": 238876,
+      "name": "Affection",
+      "url": "https://open.spotify.com/track/1ViDanY5GxpDf2PITZAh5L"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "With Every Turn",
-        "url": "https://open.spotify.com/album/3ycJd6p1aJd3KebLEijD2G"
-      },
-      "artists": [
-        {
-          "name": "Roberto Restuccia",
-          "url": "https://open.spotify.com/artist/1XoDy200dmpFG0iG3tU3a6"
-        }
-      ],
-      "duration_ms": 234500,
-      "name": "Love Crazy",
-      "url": "https://open.spotify.com/track/55xIR0lhEKXXUl5PE1jO4O"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Let's Get Serious",
         "url": "https://open.spotify.com/album/49K4eS0dajl4UzTYEMb5Zj"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 246546,
       "name": "Let's Get Serious",
       "url": "https://open.spotify.com/track/4RTGS87OcG5XjKfM7VsJk4"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "With Every Turn",
+        "url": "https://open.spotify.com/album/3ycJd6p1aJd3KebLEijD2G"
+      },
+      "artists": [
+        {
+          "name": "Roberto Restuccia",
+          "url": "https://open.spotify.com/artist/1XoDy200dmpFG0iG3tU3a6"
+        }
+      ],
+      "duration_ms": 234500,
+      "name": "Love Crazy",
+      "url": "https://open.spotify.com/track/55xIR0lhEKXXUl5PE1jO4O"
     },
     {
       "added_at": "2026-01-14 10:46:11",

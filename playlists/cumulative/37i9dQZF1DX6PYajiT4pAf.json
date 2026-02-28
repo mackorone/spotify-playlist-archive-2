@@ -34599,6 +34599,24 @@
     },
     {
       "album": {
+        "name": "DEADLINE",
+        "url": "https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195402,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB"
+    },
+    {
+      "album": {
         "name": "Goat Milk",
         "url": "https://open.spotify.com/album/5unR45StZhVOzildyZX8df"
       },
@@ -71663,7 +71681,7 @@
     },
     {
       "album": {
-        "name": "Qu\u00e9 Ser\u00eda de Mi",
+        "name": "Qu\u00e9 Ser\u00eda de M\u00ed",
         "url": "https://open.spotify.com/album/17BXPfKlWYhLQgVWpaEYlQ"
       },
       "artists": [
@@ -71680,7 +71698,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 151800,
-      "name": "Qu\u00e9 Ser\u00eda de Mi",
+      "name": "Qu\u00e9 Ser\u00eda de M\u00ed",
       "url": "https://open.spotify.com/track/0AUav4ATQNj8VrG8xY3Wxp"
     },
     {

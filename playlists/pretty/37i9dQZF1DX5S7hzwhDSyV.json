@@ -1,6 +1,6 @@
 {
   "description": "The best instrumental versions of the american songbook classics. Cover: Stan Getz",
-  "num_followers": 164569,
+  "num_followers": 164672,
   "original_name": "Instrumental Jazz Standards",
   "owner": {
     "name": "Spotify",
@@ -323,18 +323,18 @@
     {
       "added_at": "2025-12-02 14:02:08",
       "album": {
-        "name": "Jazz Masters",
-        "url": "https://open.spotify.com/album/3kxHhea3gA46uP2ylxbzQt"
+        "name": "Seven Steps To Heaven (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
       },
       "artists": [
         {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 248373,
-      "name": "Out Of Nowhere",
-      "url": "https://open.spotify.com/track/1qYNJUM4BeTZHwe0uQ9D1w"
+      "duration_ms": 403826,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/32YZWXNhOd70F19BZSU73w"
     },
     {
       "added_at": "2025-12-02 14:02:08",
@@ -355,18 +355,18 @@
     {
       "added_at": "2025-12-02 14:02:08",
       "album": {
-        "name": "Seven Steps To Heaven (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
+        "name": "Jazz Masters",
+        "url": "https://open.spotify.com/album/3kxHhea3gA46uP2ylxbzQt"
       },
       "artists": [
         {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
         }
       ],
-      "duration_ms": 403826,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/32YZWXNhOd70F19BZSU73w"
+      "duration_ms": 248373,
+      "name": "Out Of Nowhere",
+      "url": "https://open.spotify.com/track/1qYNJUM4BeTZHwe0uQ9D1w"
     },
     {
       "added_at": "2025-12-02 14:02:08",
@@ -407,38 +407,6 @@
     {
       "added_at": "2025-12-02 14:02:08",
       "album": {
-        "name": "Moanin' (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5PzlTnVafjgt5RtjTdIKoC"
-      },
-      "artists": [
-        {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
-        }
-      ],
-      "duration_ms": 345173,
-      "name": "Come Rain Or Come Shine",
-      "url": "https://open.spotify.com/track/4nrQ0ohqu5sXqMg2p4YzkE"
-    },
-    {
-      "added_at": "2025-12-02 14:02:08",
-      "album": {
-        "name": "I Got Rhythm",
-        "url": "https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9"
-      },
-      "artists": [
-        {
-          "name": "Teddy Wilson",
-          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
-        }
-      ],
-      "duration_ms": 187746,
-      "name": "As Times Goes By",
-      "url": "https://open.spotify.com/track/5w2q0VJw3QYjjDKnb4Mt8Z"
-    },
-    {
-      "added_at": "2025-12-02 14:02:08",
-      "album": {
         "name": "'Round About Midnight",
         "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
       },
@@ -467,6 +435,38 @@
       "duration_ms": 420693,
       "name": "All of You (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/21HG0QIgIcVQ2EZeXubaqL"
+    },
+    {
+      "added_at": "2025-12-02 14:02:08",
+      "album": {
+        "name": "Moanin' (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5PzlTnVafjgt5RtjTdIKoC"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+        }
+      ],
+      "duration_ms": 345173,
+      "name": "Come Rain Or Come Shine",
+      "url": "https://open.spotify.com/track/4nrQ0ohqu5sXqMg2p4YzkE"
+    },
+    {
+      "added_at": "2025-12-02 14:02:08",
+      "album": {
+        "name": "I Got Rhythm",
+        "url": "https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9"
+      },
+      "artists": [
+        {
+          "name": "Teddy Wilson",
+          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
+        }
+      ],
+      "duration_ms": 187746,
+      "name": "As Times Goes By",
+      "url": "https://open.spotify.com/track/5w2q0VJw3QYjjDKnb4Mt8Z"
     },
     {
       "added_at": "2025-12-02 14:02:08",
@@ -503,6 +503,42 @@
       "duration_ms": 393000,
       "name": "Softly As In A Morning Sunrise",
       "url": "https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq"
+    },
+    {
+      "added_at": "2025-12-02 14:02:08",
+      "album": {
+        "name": "Someday My Prince Will Come",
+        "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        },
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Jimmy Cobb",
+          "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
+        }
+      ],
+      "duration_ms": 542400,
+      "name": "Someday My Prince Will Come (feat. John Coltrane, Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
+      "url": "https://open.spotify.com/track/0PHqHvmg4TIaANfbsvDMTR"
     },
     {
       "added_at": "2025-12-02 14:02:08",
@@ -559,38 +595,18 @@
     {
       "added_at": "2025-12-02 14:02:08",
       "album": {
-        "name": "Someday My Prince Will Come",
-        "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
+        "name": "Explorations [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
       },
       "artists": [
         {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        },
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        },
-        {
-          "name": "Jimmy Cobb",
-          "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
         }
       ],
-      "duration_ms": 542400,
-      "name": "Someday My Prince Will Come (feat. John Coltrane, Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
-      "url": "https://open.spotify.com/track/0PHqHvmg4TIaANfbsvDMTR"
+      "duration_ms": 213720,
+      "name": "How Deep Is The Ocean",
+      "url": "https://open.spotify.com/track/3Cx9inYYVQw4VEUrwKgPuX"
     },
     {
       "added_at": "2025-12-02 14:02:08",
@@ -607,22 +623,6 @@
       "duration_ms": 179133,
       "name": "I Only Have Eyes For You",
       "url": "https://open.spotify.com/track/6QUFqmU2xu1gXkmpbqHPsi"
-    },
-    {
-      "added_at": "2025-12-02 14:02:08",
-      "album": {
-        "name": "Explorations [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 213720,
-      "name": "How Deep Is The Ocean",
-      "url": "https://open.spotify.com/track/3Cx9inYYVQw4VEUrwKgPuX"
     },
     {
       "added_at": "2025-12-02 14:02:08",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2025-12-02 14:02:08",
       "album": {
-        "name": "The President Plays With The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        },
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 199573,
-      "name": "I Can't Give You Anything But Love",
-      "url": "https://open.spotify.com/track/2Bu0UMTRHqwEQlXzHl6wQr"
-    },
-    {
-      "added_at": "2025-12-02 14:02:08",
-      "album": {
         "name": "Lee Konitz with Warne Marsh",
         "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 285666,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/1Ju8QHOsXPehuL2pCPjXA0"
+    },
+    {
+      "added_at": "2025-12-02 14:02:08",
+      "album": {
+        "name": "The President Plays With The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 199573,
+      "name": "I Can't Give You Anything But Love",
+      "url": "https://open.spotify.com/track/2Bu0UMTRHqwEQlXzHl6wQr"
     },
     {
       "added_at": "2025-12-02 14:02:08",
@@ -1319,38 +1319,6 @@
     {
       "added_at": "2025-12-02 14:02:08",
       "album": {
-        "name": "The Cure",
-        "url": "https://open.spotify.com/album/4TFAfEx0k896Far2wypeh9"
-      },
-      "artists": [
-        {
-          "name": "Keith Jarrett Trio",
-          "url": "https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj"
-        }
-      ],
-      "duration_ms": 496893,
-      "name": "Blame It On My Youth",
-      "url": "https://open.spotify.com/track/47ncHNZLs7ZHvDkCi9tvun"
-    },
-    {
-      "added_at": "2025-12-02 14:02:08",
-      "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 447760,
-      "name": "You've Changed",
-      "url": "https://open.spotify.com/track/1bzWQAERd8mtwpxH8R4vjB"
-    },
-    {
-      "added_at": "2025-12-02 14:02:08",
-      "album": {
         "name": "The Best Of Art Tatum",
         "url": "https://open.spotify.com/album/6afOGm8oEosuPK4GweTwms"
       },
@@ -1379,18 +1347,34 @@
     {
       "added_at": "2025-12-02 14:02:08",
       "album": {
-        "name": "Now!",
-        "url": "https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG"
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
       },
       "artists": [
         {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
         }
       ],
-      "duration_ms": 255600,
-      "name": "I'm Getting Sentimental Over You",
-      "url": "https://open.spotify.com/track/59eRG0NvuYIxe0i7IMAH0z"
+      "duration_ms": 447760,
+      "name": "You've Changed",
+      "url": "https://open.spotify.com/track/1bzWQAERd8mtwpxH8R4vjB"
+    },
+    {
+      "added_at": "2025-12-02 14:02:08",
+      "album": {
+        "name": "The Cure",
+        "url": "https://open.spotify.com/album/4TFAfEx0k896Far2wypeh9"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett Trio",
+          "url": "https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj"
+        }
+      ],
+      "duration_ms": 496893,
+      "name": "Blame It On My Youth",
+      "url": "https://open.spotify.com/track/47ncHNZLs7ZHvDkCi9tvun"
     },
     {
       "added_at": "2025-12-02 14:02:08",
@@ -1411,6 +1395,22 @@
       "duration_ms": 297533,
       "name": "I Can't Get Started - Instrumental",
       "url": "https://open.spotify.com/track/5OJw2p5rD4DwtGOCC438De"
+    },
+    {
+      "added_at": "2025-12-02 14:02:08",
+      "album": {
+        "name": "Now!",
+        "url": "https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "I'm Getting Sentimental Over You",
+      "url": "https://open.spotify.com/track/59eRG0NvuYIxe0i7IMAH0z"
     },
     {
       "added_at": "2025-12-02 14:02:08",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2025-12-02 14:02:08",
       "album": {
+        "name": "Seven Steps To Heaven (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 627733,
+      "name": "Basin Street Blues",
+      "url": "https://open.spotify.com/track/4Sg0W2BElMlqk2QVCz7xlP"
+    },
+    {
+      "added_at": "2025-12-02 14:02:08",
+      "album": {
         "name": "Cosmopolite: The Oscar Peterson Verve Sessions",
         "url": "https://open.spotify.com/album/2PcX4DkcszoOZ0ee0efDMN"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 237333,
       "name": "You Took Advantage Of Me",
       "url": "https://open.spotify.com/track/1QpoiqlsaMLOfxfcnjIpuy"
-    },
-    {
-      "added_at": "2025-12-02 14:02:08",
-      "album": {
-        "name": "Seven Steps To Heaven (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 627733,
-      "name": "Basin Street Blues",
-      "url": "https://open.spotify.com/track/4Sg0W2BElMlqk2QVCz7xlP"
     },
     {
       "added_at": "2025-12-02 14:02:08",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2025-12-02 14:02:08",
       "album": {
-        "name": "The Real... Toots Thielemans",
-        "url": "https://open.spotify.com/album/45kY69KnMtysdft3o07LiZ"
-      },
-      "artists": [
-        {
-          "name": "Toots Thielemans",
-          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
-        }
-      ],
-      "duration_ms": 275226,
-      "name": "Bluesette",
-      "url": "https://open.spotify.com/track/2yAWaE7k8dVU7f9cztK95E"
-    },
-    {
-      "added_at": "2025-12-02 14:02:08",
-      "album": {
         "name": "Boss Guitar [Original Jazz Classics Remasters] (Remastered 2010 / Expanded Edition)",
         "url": "https://open.spotify.com/album/2bpF4FOmTyBanTjzPfwv6Y"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 291826,
       "name": "Dearly Beloved",
       "url": "https://open.spotify.com/track/3ZBsbQOqGJWUpApbCXiQkU"
+    },
+    {
+      "added_at": "2025-12-02 14:02:08",
+      "album": {
+        "name": "The Real... Toots Thielemans",
+        "url": "https://open.spotify.com/album/45kY69KnMtysdft3o07LiZ"
+      },
+      "artists": [
+        {
+          "name": "Toots Thielemans",
+          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
+        }
+      ],
+      "duration_ms": 275226,
+      "name": "Bluesette",
+      "url": "https://open.spotify.com/track/2yAWaE7k8dVU7f9cztK95E"
     },
     {
       "added_at": "2025-12-02 14:02:08",

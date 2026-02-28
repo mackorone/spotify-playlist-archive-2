@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 158384,
+  "num_followers": 158388,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAADYX4Jbam1+qv9p0CZawDjf",
+  "snapshot_id": "aZ+NAAAAAAAPQbc/hVkKiseRZ+NxPlrG",
   "tracks": [
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mas Fuerte Que Nunca",
+        "url": "https://open.spotify.com/album/0KGj7OkeA9Rm6yZ0pVhZZL"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 157175,
+      "name": "Nunca Cambies",
+      "url": "https://open.spotify.com/track/2aZkwq6MoLBdSDcm8L09mP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desde La Playa Vol. 2 (En Vivo)",
         "url": "https://open.spotify.com/album/1APPJC5KbjeamY8oscMlt9"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 194875,
       "name": "Andamos Borrachos Todos (En Vivo)",
       "url": "https://open.spotify.com/track/3w5D4oqMwV9D3WJl0CsiuH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mas Fuerte Que Nunca",
-        "url": "https://open.spotify.com/album/0KGj7OkeA9Rm6yZ0pVhZZL"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 157175,
-      "name": "Nunca Cambies",
-      "url": "https://open.spotify.com/track/2aZkwq6MoLBdSDcm8L09mP"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 145786,
-      "name": "El Vagabundo Que Te Ama",
-      "url": "https://open.spotify.com/track/2xPp6h7N69S3o2mOYB9Eaq"
+      "duration_ms": 213774,
+      "name": "Por Amor Y Fe",
+      "url": "https://open.spotify.com/track/7pP9uxNOKsS6pdueA278sq"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 213774,
-      "name": "Por Amor Y Fe",
-      "url": "https://open.spotify.com/track/7pP9uxNOKsS6pdueA278sq"
+      "duration_ms": 145786,
+      "name": "El Vagabundo Que Te Ama",
+      "url": "https://open.spotify.com/track/2xPp6h7N69S3o2mOYB9Eaq"
     },
     {
       "added_at": null,
@@ -747,22 +747,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ignoraste mis L\u00e1grimas",
-        "url": "https://open.spotify.com/album/6lOgMbZ0srl0VxkBAf7Rvy"
+        "name": "Todo O Nada",
+        "url": "https://open.spotify.com/album/1TUOGsKIg3CKeiGbIFzHdz"
       },
       "artists": [
         {
-          "name": "To\u00f1o Lizarraga",
-          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
-        },
-        {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
         }
       ],
-      "duration_ms": 178527,
-      "name": "Ignoraste mis L\u00e1grimas",
-      "url": "https://open.spotify.com/track/6b0CVkwv2COK0Xd7wyWy77"
+      "duration_ms": 190811,
+      "name": "Todo O Nada",
+      "url": "https://open.spotify.com/track/3yX313GliD0OXekykuhDmA"
     },
     {
       "added_at": null,
@@ -783,22 +783,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo O Nada",
-        "url": "https://open.spotify.com/album/1TUOGsKIg3CKeiGbIFzHdz"
+        "name": "Ignoraste mis L\u00e1grimas",
+        "url": "https://open.spotify.com/album/6lOgMbZ0srl0VxkBAf7Rvy"
       },
       "artists": [
         {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+          "name": "To\u00f1o Lizarraga",
+          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
         },
         {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 190811,
-      "name": "Todo O Nada",
-      "url": "https://open.spotify.com/track/3yX313GliD0OXekykuhDmA"
+      "duration_ms": 178527,
+      "name": "Ignoraste mis L\u00e1grimas",
+      "url": "https://open.spotify.com/track/6b0CVkwv2COK0Xd7wyWy77"
     },
     {
       "added_at": null,

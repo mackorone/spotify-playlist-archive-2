@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-18",
-  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: TIM\u00d8",
+  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Piso 21, Yami Safdie",
   "name": "Pop Colombia",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 141819,
       "name": "2302",
       "url": "https://open.spotify.com/track/6UxAsUuceX0sVgWtITnM7b"
@@ -1487,6 +1487,24 @@
     },
     {
       "album": {
+        "name": "El AchanTAdo",
+        "url": "https://open.spotify.com/album/1T8WIYEepKDl4j27kdZIox"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225750,
+      "name": "El AchanTAdo",
+      "url": "https://open.spotify.com/track/3fr52NaaVxb2UxPNxDtaQx"
+    },
+    {
+      "album": {
         "name": "El Amor Es Perfecto",
         "url": "https://open.spotify.com/album/3jvv2aafvKHKZGuq0EfqFa"
       },
@@ -1912,7 +1930,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 180324,
       "name": "Estamos a paz",
       "url": "https://open.spotify.com/track/5O9PWGNhB8QScDHWCaU0QE"
@@ -2172,7 +2190,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 144647,
       "name": "Inevitable - Cinco de Mil Pedazos",
       "url": "https://open.spotify.com/track/7nhPsUMAgvb80O9UFWGQ9I"
@@ -2838,6 +2856,24 @@
       "duration_ms": 186186,
       "name": "Luz",
       "url": "https://open.spotify.com/track/6v5J4UE21xOjnQ4N9H5jur"
+    },
+    {
+      "album": {
+        "name": "Luz, c\u00e1mara y acci\u00f3n",
+        "url": "https://open.spotify.com/album/13TdS3GdYE2bfqGSTAggOC"
+      },
+      "artists": [
+        {
+          "name": "Man\u00fa",
+          "url": "https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "Luz, c\u00e1mara y acci\u00f3n",
+      "url": "https://open.spotify.com/track/1I3Y0wYb2LIYAjWueTX2Fq"
     },
     {
       "album": {
@@ -4426,7 +4462,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 207083,
       "name": "Rompecabezas",
       "url": "https://open.spotify.com/track/7mMMs48wi2SAxDPrBiVXsm"
@@ -5012,6 +5048,28 @@
       "duration_ms": 219157,
       "name": "Te doy las gracias",
       "url": "https://open.spotify.com/track/60ftxYw9vpJsw2texcOguV"
+    },
+    {
+      "album": {
+        "name": "Te Elijo",
+        "url": "https://open.spotify.com/album/6tiLCUQHveCwBusTVQCU8C"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176703,
+      "name": "Te Elijo",
+      "url": "https://open.spotify.com/track/032PZ5jBJYvzt8nPry49Ml"
     },
     {
       "album": {
@@ -6036,6 +6094,24 @@
       "duration_ms": 178666,
       "name": "\u00daltima",
       "url": "https://open.spotify.com/track/3FEIMzqeq5EXqaMi3mHP6L"
+    },
+    {
+      "album": {
+        "name": "\u00daltimo Favor",
+        "url": "https://open.spotify.com/album/6CcsMcRCgxIa9BfZm3yjhZ"
+      },
+      "artists": [
+        {
+          "name": "Maca & Gero",
+          "url": "https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167192,
+      "name": "\u00daltimo Favor",
+      "url": "https://open.spotify.com/track/3Z2G40OPmHOBWtRCpsubuD"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9cp1suxagma"

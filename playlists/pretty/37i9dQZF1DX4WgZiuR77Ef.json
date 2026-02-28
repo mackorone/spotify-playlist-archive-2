@@ -1,13 +1,29 @@
 {
   "description": "New funky songs with a classic funky sound. Cover: Lettuce",
-  "num_followers": 392906,
+  "num_followers": 392898,
   "original_name": "All Funked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACgx6IRe0YhuHOZG2ZPgAsonhY6I",
+  "snapshot_id": "AAAAAK6+M31YSW4Qc0rMnn/qPGcKxd3x",
   "tracks": [
+    {
+      "added_at": "2026-02-27 05:00:36",
+      "album": {
+        "name": "Ain\u2019t It \u2018Bout Time",
+        "url": "https://open.spotify.com/album/3pPL5WNVn0vHtO0608EkyF"
+      },
+      "artists": [
+        {
+          "name": "Gabe Dixon",
+          "url": "https://open.spotify.com/artist/1EwStlJbpwWP3NBYmNzRPP"
+        }
+      ],
+      "duration_ms": 173493,
+      "name": "Ain\u2019t It \u2018Bout Time",
+      "url": "https://open.spotify.com/track/2ShwGrz4GrCg3o4rfQbsdQ"
+    },
     {
       "added_at": "2025-11-14 05:00:23",
       "album": {
@@ -1891,30 +1907,6 @@
       "duration_ms": 174226,
       "name": "Let's Get a Groove On",
       "url": "https://open.spotify.com/track/6nNHyyYKi90iRQbLuIdO8O"
-    },
-    {
-      "added_at": "2020-10-30 04:02:00",
-      "album": {
-        "name": "Checker Wrecker",
-        "url": "https://open.spotify.com/album/5eKL3jiEKnTb3bej9OKvUJ"
-      },
-      "artists": [
-        {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
-        },
-        {
-          "name": "Jungle Boogie",
-          "url": "https://open.spotify.com/artist/4uRUX6GQjNbtYK9w0rbO4J"
-        },
-        {
-          "name": "Big Tony",
-          "url": "https://open.spotify.com/artist/2sCagRqrsOocsRmcxSuYks"
-        }
-      ],
-      "duration_ms": 350972,
-      "name": "Checker Wrecker",
-      "url": "https://open.spotify.com/track/2tqfdsBI9N8TrRVFTUDnGZ"
     }
   ],
   "unique_name": "All Funked Up",

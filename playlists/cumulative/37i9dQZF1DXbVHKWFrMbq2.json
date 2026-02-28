@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "canciones para chillear con RAMMA & Cindy Cats",
+  "description": "canciones para chillear con Silvina Moreno",
   "name": "pop tranqui",
   "tracks": [
     {
@@ -222,7 +222,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 226840,
       "name": "Amor Loco",
       "url": "https://open.spotify.com/track/1QpOjZOumwGNIo5uvbSHIt"
@@ -310,10 +310,28 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 163682,
       "name": "Antiguo y moderno",
       "url": "https://open.spotify.com/track/61yrUJAIQBb6xAL1PAn3uf"
+    },
+    {
+      "album": {
+        "name": "Armas",
+        "url": "https://open.spotify.com/album/49drLOUMTy9XdQTdGdnvwI"
+      },
+      "artists": [
+        {
+          "name": "Santiago Saez",
+          "url": "https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169014,
+      "name": "Armas",
+      "url": "https://open.spotify.com/track/0oVDfGZi67xpD3KDjA1iyl"
     },
     {
       "album": {
@@ -448,6 +466,28 @@
       "duration_ms": 151011,
       "name": "Buena Suerte :)",
       "url": "https://open.spotify.com/track/5l6eMDDoiKnuW6CQIYdO8U"
+    },
+    {
+      "album": {
+        "name": "Canci\u00f3n del Acr\u00f3bata",
+        "url": "https://open.spotify.com/album/6hXdfCKhwg0RPk73zQEXwO"
+      },
+      "artists": [
+        {
+          "name": "Silvina Moreno",
+          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
+        },
+        {
+          "name": "Nahuel Briones",
+          "url": "https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160938,
+      "name": "Canci\u00f3n del Acr\u00f3bata",
+      "url": "https://open.spotify.com/track/1JNuPv7XotcHiUvP8af9RV"
     },
     {
       "album": {
@@ -648,7 +688,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 229729,
       "name": "cuando pase la tormenta - Spotify Sessions",
       "url": "https://open.spotify.com/track/1wDzdboT18AyCJpRxXPW70"
@@ -786,7 +826,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 163546,
       "name": "Desastres Fabulosos",
       "url": "https://open.spotify.com/track/2YqZAHrkZm0VQJNQfNRWdl"
@@ -840,7 +880,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 148037,
       "name": "Devu\u00e9lvemela",
       "url": "https://open.spotify.com/track/50jUh49jUa3UDt1h7xoyLU"
@@ -1246,7 +1286,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 152566,
       "name": "FRIKI",
       "url": "https://open.spotify.com/track/53HqSdI5pWQAnFebegmzZO"
@@ -1760,7 +1800,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 211460,
       "name": "Loquero Viejo",
       "url": "https://open.spotify.com/track/7JqGwkeTQzwY0EIZl4J7DT"
@@ -2100,7 +2140,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 139049,
       "name": "MUCHO CON DEMASIAO'",
       "url": "https://open.spotify.com/track/0C4EGmFGx2AxA28Sq0wY9L"
@@ -2118,7 +2158,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 147597,
       "name": "My Mind & Me",
       "url": "https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y"
@@ -2154,7 +2194,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 176322,
       "name": "No es amor - Reversi\u00f3n",
       "url": "https://open.spotify.com/track/3Rkcf3NJp5xmimazGcdtEi"
@@ -2274,7 +2314,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 198243,
       "name": "No te apartes de m\u00ed",
       "url": "https://open.spotify.com/track/3m1Inb0nuLgTW0Hv4LxLQ8"
@@ -2332,7 +2372,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 260067,
       "name": "Nunca se termina",
       "url": "https://open.spotify.com/track/1PtpkGSyHOdM6K6UZNWhh4"
@@ -2630,7 +2670,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 198850,
       "name": "Plegarias",
       "url": "https://open.spotify.com/track/4DfhsWuqZonO5URxvwkBSK"
@@ -2754,7 +2794,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 181654,
       "name": "Qu\u00e9 Bien Se Te Ve (En la Ventana) [feat. Alex Ubago]",
       "url": "https://open.spotify.com/track/5Lc6t78tSYI5tILlFyr3l0"
@@ -2834,6 +2874,24 @@
       "duration_ms": 122202,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/33AWuTMifxeDWvizVzYBiA"
+    },
+    {
+      "album": {
+        "name": "Antes de saltar",
+        "url": "https://open.spotify.com/album/0s0qKu5A9V7uwxiAjs0Cig"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Berra",
+          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229622,
+      "name": "Rotonda",
+      "url": "https://open.spotify.com/track/5pyrz5N78YAqu8lRWqeTTw"
     },
     {
       "album": {
@@ -2994,7 +3052,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 199019,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/068qo0w1Ki0cjnFYOUhAm2"
@@ -3138,7 +3196,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 173866,
       "name": "The Craving - single version",
       "url": "https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA"
@@ -3250,7 +3308,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 123124,
       "name": "Tu mala suerte",
       "url": "https://open.spotify.com/track/1WWEnbMSb8iptrRueYKKQR"
@@ -3370,7 +3428,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-21",
+      "date_removed": null,
       "duration_ms": 193154,
       "name": "Una Noche Contigo",
       "url": "https://open.spotify.com/track/5RfW6BJyGPnwUJgqcGh5KB"
@@ -3490,7 +3548,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 253243,
       "name": "Vamos Viendo",
       "url": "https://open.spotify.com/track/65Iaqqf1cr5GlUxtUnfWAt"

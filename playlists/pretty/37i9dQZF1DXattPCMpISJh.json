@@ -1,18 +1,18 @@
 {
   "description": "A new take on a classic sound. Cover: Say She She",
-  "num_followers": 152504,
+  "num_followers": 152545,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGlP8Ja9W5jViIzn95KMht42DKeq",
+  "snapshot_id": "AAAAADT6ssj4lcotPvyIVGfVZzKtAquj",
   "tracks": [
     {
-      "added_at": "2026-01-30 05:00:42",
+      "added_at": "2026-02-27 05:00:48",
       "album": {
-        "name": "Tune It Out",
-        "url": "https://open.spotify.com/album/3vSu7BXiZ0jpBFZXPQQhIM"
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/5Cst2ivbaWigzETWduhoQy"
       },
       "artists": [
         {
@@ -20,13 +20,13 @@
           "url": "https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe"
         },
         {
-          "name": "The Phenomenal Handclap Band",
-          "url": "https://open.spotify.com/artist/4S8UOAApPhwz9WcVOj13VO"
+          "name": "79.5",
+          "url": "https://open.spotify.com/artist/2czOrtIVegf3rq5pabX21O"
         }
       ],
-      "duration_ms": 237932,
-      "name": "Tune It Out",
-      "url": "https://open.spotify.com/track/2xzJKMMD4dzH9NhHcr2mk0"
+      "duration_ms": 277822,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/4cmwguUb1kOnpAW9b1tAPs"
     },
     {
       "added_at": "2025-12-12 05:00:35",
@@ -67,6 +67,22 @@
       "duration_ms": 181950,
       "name": "In A House That's Burning Down (feat. KOLA)",
       "url": "https://open.spotify.com/track/1iTPqd6u5ktUnn5jHrquye"
+    },
+    {
+      "added_at": "2026-02-27 16:56:44",
+      "album": {
+        "name": "Thong Song (The Muthafunkin Remix)",
+        "url": "https://open.spotify.com/album/79MnRSEerz9wExPqps6mor"
+      },
+      "artists": [
+        {
+          "name": "Uch\u00e9",
+          "url": "https://open.spotify.com/artist/2b2yYpcmZA6gDChy2EBvUW"
+        }
+      ],
+      "duration_ms": 146835,
+      "name": "Thong Song - The Muthafunkin Remix",
+      "url": "https://open.spotify.com/track/3vcUVMFZmACez8WbfeLwif"
     },
     {
       "added_at": "2025-11-07 05:00:44",
@@ -1491,26 +1507,6 @@
       "duration_ms": 201374,
       "name": "Deafened (feat. Family Habits)",
       "url": "https://open.spotify.com/track/2tlCCAR07k2G9ba67McxQc"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "Last Man Dancing",
-        "url": "https://open.spotify.com/album/3xm2whAWztIc9kHD3V0DMt"
-      },
-      "artists": [
-        {
-          "name": "Jake Shears",
-          "url": "https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1"
-        },
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 266693,
-      "name": "Voices (feat. Kylie Minogue)",
-      "url": "https://open.spotify.com/track/4NwqRvKoLaREF9Nt11sOka"
     },
     {
       "added_at": "2023-09-15 04:01:00",

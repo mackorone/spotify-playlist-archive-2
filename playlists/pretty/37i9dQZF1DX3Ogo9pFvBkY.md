@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 
 > Relax and unwind with chill, ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,273,562 likes - 250 songs - 11 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,273,578 likes - 250 songs - 11 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 | 249 | [Two Moons, One Heart](https://open.spotify.com/track/25FQFza68iAgwPjJcpu1Zc) | [Aleksy Nowak](https://open.spotify.com/artist/2CXq4IRNqG54c9NBHuBWLw) | [Two Moons, One Heart](https://open.spotify.com/album/75GC6h2z9bPUZI3uc2Ogei) | 3:31 |
 | 250 | [Mana](https://open.spotify.com/track/13SBcufEdzqNIIRE0ynJrM) | [Gates of Heaven](https://open.spotify.com/artist/2d1SOxC8HeERlKJmAcS14j) | [Mana](https://open.spotify.com/album/1CaoaS2cVGBvzJK23AaaZg) | 2:44 |
 
-Snapshot ID: `AAAAACkCfe/23hp+wzqZdRW8VUFQsWoU`
+Snapshot ID: `AAAAAIhGX/1R8WJYtjiHkN7VH9DVmV05`

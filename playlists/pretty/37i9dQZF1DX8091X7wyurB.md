@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 
 > Praise and Worship the Almighty God with the best songs\. A mix of both African and International songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,011 likes - 80 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,224 likes - 80 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 62 | [Wonder](https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:54 |
 | 63 | [Holy Forever](https://open.spotify.com/track/2jStgsgQWFNIKdloTLJd6F) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Holy Forever](https://open.spotify.com/album/3zcJQVAiPUCcOcUcIg62lY) | 9:43 |
 | 64 | [You Are Great](https://open.spotify.com/track/0JgTmcVrSqq4dbfmlRSixK) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1) | [You Are Great](https://open.spotify.com/album/7EgJ4tFv1FjsMJA1voRnQb) | 3:03 |
-| 65 | [Anchor of My Strength](https://open.spotify.com/track/4TEFKBeXAE20j69TpHFFK7) | [Paul CleverLee](https://open.spotify.com/artist/2OmRPEQ0DmK6myhfVFKLuY), [Gerald Bishung](https://open.spotify.com/artist/7yAihRRmPVVKmZ6xvFCV7I) | [Anchor of My Strength](https://open.spotify.com/album/6j5WW5wCRQpz719p05KNzz) | 3:10 |
-| 66 | [Jireh \(My Provider\)](https://open.spotify.com/track/4pR4oQJULf7FDB54TleMyH) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Happi](https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4) | [Jireh \(My Provider\)](https://open.spotify.com/album/4CsmgXl5bQQWHubJdZvNgW) | 2:48 |
+| 65 | [Jireh \(My Provider\)](https://open.spotify.com/track/4pR4oQJULf7FDB54TleMyH) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Happi](https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4) | [Jireh \(My Provider\)](https://open.spotify.com/album/4CsmgXl5bQQWHubJdZvNgW) | 2:48 |
+| 66 | [Anchor of My Strength](https://open.spotify.com/track/4TEFKBeXAE20j69TpHFFK7) | [Paul CleverLee](https://open.spotify.com/artist/2OmRPEQ0DmK6myhfVFKLuY), [Gerald Bishung](https://open.spotify.com/artist/7yAihRRmPVVKmZ6xvFCV7I) | [Anchor of My Strength](https://open.spotify.com/album/6j5WW5wCRQpz719p05KNzz) | 3:10 |
 | 67 | [Let It Show \(Live\)](https://open.spotify.com/track/0qShlAPNKT5UHib8bLn3X2) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Let It Show \(Live\)](https://open.spotify.com/album/1yorjTPD4R9JExtEfY70ka) | 7:59 |
 | 68 | [Ungukuphila](https://open.spotify.com/track/53wwaMp15eGyE12Cm7sxLa) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Jesus Is Enough](https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii) | 5:56 |
 | 69 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 |

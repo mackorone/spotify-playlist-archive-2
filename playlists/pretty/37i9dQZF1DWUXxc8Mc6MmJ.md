@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 
 > Relive your favourite K\-Drama moments with these classic soundtracks\. \(그 시절 그 때의 감성이 담겨 있는 OST 명곡들을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,035,313 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,035,509 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 50 | [All with You](https://open.spotify.com/track/1pEavn8UFAeij6afPwWfvM) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Moonlovers: Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt 5](https://open.spotify.com/album/4Vya3kxqlogdf46anL8rut) | 3:53 |
 | 51 | [아쉬운 마음인걸](https://open.spotify.com/track/0LeSMFxSMLkbjjrwV082QG) | [에이 스타일](https://open.spotify.com/artist/6Isq5QAXFUqu6WkFcEAyF1) | [꽃보다 남자 \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq) | 3:08 |
 | 52 | [애인만들기](https://open.spotify.com/track/0S5b4F4ZT8EImBRIg9Mxjc) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [꽃보다 남자 \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq) | 3:15 |
-| 53 | [We're Already](https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Nevertheless, \(Original Drama Sound Track, Pt\. 1\)](https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG) | 3:58 |
+| 53 | [Go!](https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Twenty\-Five Twenty\-One OST Part 5](https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR) | 3:29 |
 | 54 | [Who Are You](https://open.spotify.com/track/7Jo5oEViT27zCkdRI5hEuG) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Guardian \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/6O4EixqImEZRPjS96H5ppp) | 4:15 |
-| 55 | [Go!](https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Twenty\-Five Twenty\-One OST Part 5](https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR) | 3:29 |
+| 55 | [We're Already](https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Nevertheless, \(Original Drama Sound Track, Pt\. 1\)](https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG) | 3:58 |
 | 56 | [I Don't Love You](https://open.spotify.com/track/7neOIVKDsLaUXV5y84jGuY) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [STILL](https://open.spotify.com/album/58TmgciyuB1FVBk6pP18ZU) | 4:14 |
 | 57 | [In Your Time](https://open.spotify.com/track/6yszDy9yFogkgavFOhCGDR) | [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/76vBXydusWbXsHibhixOoO) | 4:28 |
 | 58 | [Beautiful Moment](https://open.spotify.com/track/3SXg7A9M3pY2aWYdzQ0BMW) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [The Beauty Inside Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/0BhoxE4nRkVv4GjS8draWN) | 3:58 |

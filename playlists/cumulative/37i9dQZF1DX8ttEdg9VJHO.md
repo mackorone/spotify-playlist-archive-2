@@ -4,7 +4,7 @@
 
 > Für ein bisschen mehr Leichtigkeit.
 
-142 songs - 7 hr 18 min
+144 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Get Ready](https://open.spotify.com/track/5DhIBpQpEMyrVa95R7AGSc) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Get Ready](https://open.spotify.com/album/3SnHhdCpWinISvVLHjFgHM) | 3:29 | 2024-08-20 | 2026-02-05 |
 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 | 2023-07-14 |  |
 | [Ghost of You](https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Ghost of You](https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI) | 2:38 | 2023-07-14 |  |
+| [Giants](https://open.spotify.com/track/76OQzYqSzlprSdbP643dg9) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW), [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Giants](https://open.spotify.com/album/5N4YE3TGtPXn9iJUnDVGo0) | 3:12 | 2026-02-27 |  |
 | [Girl of Your Dreams](https://open.spotify.com/track/7AVZ2T5nku3TKyZlPPXLEd) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Girl of Your Dreams](https://open.spotify.com/album/7lH9AcAtACrcYMKC6aLoGA) | 3:09 | 2025-07-18 | 2026-01-17 |
 | [girls like me don't cry](https://open.spotify.com/track/4bSMUfnzyMd9z3SaFoMQfP) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry \(sped up\)](https://open.spotify.com/album/6oAHui1V8db4Ns78vWHJlN) | 3:33 | 2023-07-14 | 2023-08-22 |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-07-02 |  |
@@ -71,7 +72,7 @@
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2024-01-26 | 2024-04-19 |
 | [Houdini](https://open.spotify.com/track/5wtSei6pJpDEB1iKqPHhfU) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/0HAb43LIP2Gf9bYwRfBgY6) | 3:05 | 2024-03-27 |  |
 | [How Many Moons](https://open.spotify.com/track/6iF73wEQMGzFeSh8hob5so) | [LUI HILL](https://open.spotify.com/artist/3fuo46vtxoWxN4jo0irBTS) | [How Many Moons](https://open.spotify.com/album/52UTuP81SsIORoHYbDjWc9) | 3:03 | 2023-07-14 | 2024-03-06 |
-| [Hurry](https://open.spotify.com/track/07BKIjjRXMUt6Cs9P3YxYa) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [Hurry](https://open.spotify.com/album/6fyNY8yfQLhLoIR6xVqiyD) | 3:13 | 2025-02-27 |  |
+| [Hurry](https://open.spotify.com/track/07BKIjjRXMUt6Cs9P3YxYa) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [Hurry](https://open.spotify.com/album/6fyNY8yfQLhLoIR6xVqiyD) | 3:13 | 2025-02-27 | 2026-02-28 |
 | [I Blame The World](https://open.spotify.com/track/3SrSjUKxAJ6Cq1vpe1mqCZ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I Blame The World](https://open.spotify.com/album/7mIYNERWd8SdGObD8GrO2F) | 3:17 | 2023-07-14 | 2023-10-21 |
 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 | 2025-02-19 | 2025-08-02 |
 | [I Made It](https://open.spotify.com/track/4dkf6Qfmy7730BwwIqyb4Y) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Made It](https://open.spotify.com/album/6IEdMBcT6BR8cvNx8dneew) | 4:29 | 2023-07-14 |  |
@@ -80,7 +81,7 @@
 | [If Anything's Left](https://open.spotify.com/track/1CViD4tJqNMF4jjgP5Ug62) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [If Anything's Left](https://open.spotify.com/album/6A49EyetnYOdFfM8IWKCqY) | 2:54 | 2023-07-14 |  |
 | [If We Have Each Other](https://open.spotify.com/track/7pT6WSg4PCt4mr5ZFyUfsF) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 3:01 | 2023-07-14 |  |
 | [In Nächten Wie Diesen](https://open.spotify.com/track/0Pf7l5G7QoZkjlem0pAy28) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [WIR](https://open.spotify.com/album/1wp44a0tNqS2ex2Vlp7KLd) | 3:27 | 2026-02-12 |  |
-| [IS THIS LOVE](https://open.spotify.com/track/0dzbNEBsrs17os3jJOFLar) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 2:35 | 2025-02-27 |  |
+| [IS THIS LOVE](https://open.spotify.com/track/0dzbNEBsrs17os3jJOFLar) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 2:35 | 2025-02-27 | 2026-02-28 |
 | [It Is What It Is](https://open.spotify.com/track/1558CwDaXSZiCplq9AaH0q) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [It Is What It Is](https://open.spotify.com/album/1WFMXKtfmcwsojf8gSEXm5) | 2:26 | 2023-09-06 | 2025-04-29 |
 | [Jim Carrey](https://open.spotify.com/track/1Jo2xoLjy1EfU8n7jLL6qN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Jim Carrey](https://open.spotify.com/album/5Oy1LcmGT63jjU7ave3oyH) | 3:03 | 2023-09-06 | 2023-09-17 |
 | [Jim Carrey](https://open.spotify.com/track/6nTTiI03SJDXC9252gWGrN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:03 | 2023-09-15 | 2024-04-19 |
@@ -98,6 +99,7 @@
 | [Love Me Not](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:33 | 2025-02-19 |  |
 | [Love U Again](https://open.spotify.com/track/3fm0hpNBju8GRBC4iLZHHZ) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Love U Again](https://open.spotify.com/album/5cFXaCUePIMWmBLw0xbN5M) | 2:46 | 2024-06-17 |  |
 | [Mehr davon](https://open.spotify.com/track/7rwAzZpANJEN0vn0pzYONW) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [Mehr davon](https://open.spotify.com/album/7u16dLnOhtHtBXt9FAVImm) | 2:55 | 2023-07-14 |  |
+| [Midnight Sun](https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:09 | 2026-02-27 |  |
 | [Mirror](https://open.spotify.com/track/4NjTrZ2IQeWnIbzyY2SOfz) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Mirror](https://open.spotify.com/album/70xpiL7Pl2AlH9J64acWpD) | 2:36 | 2023-07-14 | 2026-02-01 |
 | [miss me \(when you're gone\)](https://open.spotify.com/track/33eSunUHnta6mPW3EoTuRw) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [miss me \(when you're gone\) remixes](https://open.spotify.com/album/1pEipsUVstkQ8cbB1hSr8I) | 3:04 | 2023-11-08 | 2024-04-19 |
 | [miss me \(when you're gone\)](https://open.spotify.com/track/4FEPb06xIBFoqAvpRjliqY) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [miss me \(when you're gone\) \[remixes\]](https://open.spotify.com/album/3424gEK5H7r3IWM5Jdn39t) | 3:04 | 2023-07-14 | 2023-11-05 |

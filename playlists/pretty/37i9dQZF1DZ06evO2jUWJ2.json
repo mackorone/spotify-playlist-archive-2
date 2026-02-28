@@ -1,12 +1,12 @@
 {
   "description": "This is Elevation Worship. The essential tracks, all in one playlist.",
-  "num_followers": 319948,
+  "num_followers": 320018,
   "original_name": "This Is Elevation Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAAB1qTr5UP5dAGM2cufs4IQC",
+  "snapshot_id": "aZ+NAAAAAACJ6ErhrXW1b1Q7/ghhlOSJ",
   "tracks": [
     {
       "added_at": null,
@@ -835,6 +835,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "SO BE IT",
+        "url": "https://open.spotify.com/album/6OF8Psf3BjjHnBIfUpOYHp"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 394321,
+      "name": "Call God",
+      "url": "https://open.spotify.com/track/59IdtwA4xwAXOq6eID9OE4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Here As In Heaven",
         "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
       },
@@ -896,17 +920,13 @@
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         },
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+          "name": "Leeland Mooring",
+          "url": "https://open.spotify.com/artist/2ylW0JAtYmQpymRkrvWnJb"
         }
       ],
-      "duration_ms": 394321,
-      "name": "Call God",
-      "url": "https://open.spotify.com/track/59IdtwA4xwAXOq6eID9OE4"
+      "duration_ms": 303879,
+      "name": "Your Name Is God",
+      "url": "https://open.spotify.com/track/6cb1D54z0BgnRijrk2E3Sa"
     },
     {
       "added_at": null,
@@ -984,13 +1004,17 @@
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         },
         {
-          "name": "Leeland Mooring",
-          "url": "https://open.spotify.com/artist/2ylW0JAtYmQpymRkrvWnJb"
+          "name": "Jonsal Barrientes",
+          "url": "https://open.spotify.com/artist/1qPdpbKXwgJeJ45C7rJj4J"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
         }
       ],
-      "duration_ms": 303879,
-      "name": "Your Name Is God",
-      "url": "https://open.spotify.com/track/6cb1D54z0BgnRijrk2E3Sa"
+      "duration_ms": 391213,
+      "name": "Thank You (feat. Jonsal Barrientes & Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/2Z1OmcUpMToGnOGa2RP0OR"
     },
     {
       "added_at": null,
@@ -1011,30 +1035,6 @@
       "duration_ms": 392308,
       "name": "Another One (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/1ks04dUr7tjZJUbT89MoJD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Old Church Basement",
-        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 509977,
-      "name": "Talking To Jesus (feat. Brandon Lake)",
-      "url": "https://open.spotify.com/track/7q05bMdcSwsJKduP8eiLpZ"
     }
   ],
   "unique_name": "This Is Elevation Worship",

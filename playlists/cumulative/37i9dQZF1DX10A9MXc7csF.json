@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana.  Joaquin Coronel",
+  "description": "The new school of M\u00fasica Mexicana.  Hermanos Espinoza \ud83d\udcf8",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -666,6 +666,24 @@
       "duration_ms": 203706,
       "name": "7 Vidas",
       "url": "https://open.spotify.com/track/3A812cOvQBpJSDmyxZBNSv"
+    },
+    {
+      "album": {
+        "name": "772 Love, Pt. 2",
+        "url": "https://open.spotify.com/album/5AQ520HTLyuXc1QppNfljg"
+      },
+      "artists": [
+        {
+          "name": "Los de FL",
+          "url": "https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177313,
+      "name": "772 Love, Pt. 2",
+      "url": "https://open.spotify.com/track/2lt75pwepsCMvzsNzFDnx6"
     },
     {
       "album": {
@@ -1900,6 +1918,24 @@
       "duration_ms": 200000,
       "name": "Amor Perdido",
       "url": "https://open.spotify.com/track/0uMODzvm9Pdz9YVrVhWIBe"
+    },
+    {
+      "album": {
+        "name": "Amor Propio",
+        "url": "https://open.spotify.com/album/4V3P7VNt8Ewak2dDjblNQb"
+      },
+      "artists": [
+        {
+          "name": "Sangre X Sangre",
+          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Amor Propio",
+      "url": "https://open.spotify.com/track/1qc7C2bbYn3PfgaygG2cv7"
     },
     {
       "album": {
@@ -10664,7 +10700,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 181028,
       "name": "En El Rubicon",
       "url": "https://open.spotify.com/track/4Mijq6CwuY5SSV3PEOskiY"
@@ -16209,6 +16245,28 @@
     },
     {
       "album": {
+        "name": "Ambici\u00f3n & Delirio",
+        "url": "https://open.spotify.com/album/543QBsexmtuMqhw3Ovkeeo"
+      },
+      "artists": [
+        {
+          "name": "Saul Villarreal",
+          "url": "https://open.spotify.com/artist/2x8UcZmAbP008alg57hI3K"
+        },
+        {
+          "name": "Fabio Capri",
+          "url": "https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207642,
+      "name": "llorar (with Fabio Capri)",
+      "url": "https://open.spotify.com/track/1ZUNAsGOHZCM4cxtrhDkzA"
+    },
+    {
+      "album": {
         "name": "Ll\u00f3rame M\u00e1s Fuerte",
         "url": "https://open.spotify.com/album/58521yc5XgyIwX0KjWL0z0"
       },
@@ -17084,7 +17142,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 212443,
       "name": "Luna de Miel",
       "url": "https://open.spotify.com/track/5axajboxCw101fMlC7U8Lp"
@@ -18392,6 +18450,24 @@
       "duration_ms": 155223,
       "name": "Mejor Next",
       "url": "https://open.spotify.com/track/4YF2lTOPkBOBNmMtFjrs0f"
+    },
+    {
+      "album": {
+        "name": "MEJORES PASOS",
+        "url": "https://open.spotify.com/album/09MDaH5lux6DddzHIKiiWu"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227272,
+      "name": "MEJORES PASOS",
+      "url": "https://open.spotify.com/track/2O0YSN8ReTbm777LSCFu5S"
     },
     {
       "album": {
@@ -23362,7 +23438,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 131283,
       "name": "Perd\u00f3name Madre",
       "url": "https://open.spotify.com/track/0ZKeHPeJL5R366BYufA7Eg"
@@ -23986,7 +24062,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 146250,
       "name": "PLAYBOY",
       "url": "https://open.spotify.com/track/1qBVFv6k2Cv7vExRrQRxQ5"
@@ -25423,6 +25499,24 @@
     },
     {
       "album": {
+        "name": "Quiero Que Seas T\u00fa",
+        "url": "https://open.spotify.com/album/2W3UAlM3O9u1IENBXtB8M8"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148821,
+      "name": "Quiero Que Seas T\u00fa",
+      "url": "https://open.spotify.com/track/7bSCakZAVtms7KN96hwaPW"
+    },
+    {
+      "album": {
         "name": "Quiero Saber",
         "url": "https://open.spotify.com/album/2YrzNSfq5RgieOYHuuIboJ"
       },
@@ -26476,7 +26570,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 125688,
       "name": "rumination",
       "url": "https://open.spotify.com/track/7fMn28JM4zpxpONJghAz3h"
@@ -27008,6 +27102,28 @@
       "duration_ms": 223881,
       "name": "Se Te Va A Caer La Baba",
       "url": "https://open.spotify.com/track/6b06oCGEBRYgdqDzvDp9kv"
+    },
+    {
+      "album": {
+        "name": "Se Va Se Va",
+        "url": "https://open.spotify.com/album/4ZfqMbCFTpljyPoVxDQseE"
+      },
+      "artists": [
+        {
+          "name": "Dylan Coronel",
+          "url": "https://open.spotify.com/artist/3oBZXbSQHXnxp9sWJcUT7j"
+        },
+        {
+          "name": "8Uno",
+          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195103,
+      "name": "Se Va Se Va",
+      "url": "https://open.spotify.com/track/7A3vj4M64VDkcxzPkziR5s"
     },
     {
       "album": {
@@ -28598,7 +28714,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 182427,
       "name": "Suerte",
       "url": "https://open.spotify.com/track/3d7FCevVsla6UotH5bBBZj"

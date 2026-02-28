@@ -1,12 +1,12 @@
 {
   "description": "Driving songs acoustic style! Sit back and enjoy the ride!",
-  "num_followers": 8793,
+  "num_followers": 8791,
   "original_name": "Acoustic Driving Songs",
   "owner": {
     "name": "Matt Johnson",
     "url": "https://open.spotify.com/user/117687144"
   },
-  "snapshot_id": "AAAGEGb3cGJDeY25mCbrTXKEfWm/0tL0",
+  "snapshot_id": "AAAGE3w5mc6bfTYneN0E0Rp0+z0iXCrc",
   "tracks": [
     {
       "added_at": "2025-02-09 18:37:35",
@@ -61,6 +61,22 @@
       "url": "https://open.spotify.com/track/40qEnmwWaJW7teieAtLAsz"
     },
     {
+      "added_at": "2026-02-27 19:50:23",
+      "album": {
+        "name": "Teenage Dirtbag (Acoustic)",
+        "url": "https://open.spotify.com/album/1kJwJ8ks6DweMzFDiJieIg"
+      },
+      "artists": [
+        {
+          "name": "Bailey Rushlow",
+          "url": "https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw"
+        }
+      ],
+      "duration_ms": 172837,
+      "name": "Teenage Dirtbag - Acoustic",
+      "url": "https://open.spotify.com/track/28UhV2P56qrhxu05pNP08W"
+    },
+    {
       "added_at": "2026-01-17 19:17:16",
       "album": {
         "name": "Let Her Go (Acoustic)",
@@ -95,6 +111,22 @@
       "duration_ms": 200306,
       "name": "I Don't Want to Miss a Thing",
       "url": "https://open.spotify.com/track/1bA1t3ZtXuvx4FqdNED5RW"
+    },
+    {
+      "added_at": "2026-02-27 19:39:48",
+      "album": {
+        "name": "Be My Baby",
+        "url": "https://open.spotify.com/album/6XiUwP6st5qWfGH0rJVvuX"
+      },
+      "artists": [
+        {
+          "name": "Thomas Law",
+          "url": "https://open.spotify.com/artist/17oLmcamZOvri63kIr56CO"
+        }
+      ],
+      "duration_ms": 183552,
+      "name": "Be My Baby",
+      "url": "https://open.spotify.com/track/6767EYNPX0LT5AERBRRKyx"
     },
     {
       "added_at": "2025-11-06 19:11:19",
@@ -695,22 +727,6 @@
       "duration_ms": 233280,
       "name": "Hey There Delilah - Bonus Track",
       "url": "https://open.spotify.com/track/3DWOTqMQGp5q75fnVsWwaN"
-    },
-    {
-      "added_at": "2025-02-09 18:37:35",
-      "album": {
-        "name": "Dancing Queen (Acoustic)",
-        "url": "https://open.spotify.com/album/70EnDLWEFJv2HyqaFuxlCt"
-      },
-      "artists": [
-        {
-          "name": "Bailey Rushlow",
-          "url": "https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw"
-        }
-      ],
-      "duration_ms": 143851,
-      "name": "Dancing Queen - Acoustic",
-      "url": "https://open.spotify.com/track/4PGaZTakItG48FENLQhDyv"
     },
     {
       "added_at": "2025-08-25 19:49:19",

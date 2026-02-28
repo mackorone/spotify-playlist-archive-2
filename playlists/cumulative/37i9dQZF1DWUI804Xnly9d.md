@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-622 songs - 1 day 10 hr 50 min
+623 songs - 1 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Aaj Bhi](https://open.spotify.com/track/2w9KJ4hHUJZq2kqcQt5CPb) | [Sanjay S Yadav](https://open.spotify.com/artist/6rgc6AL16aoiwofPPzsoLU), [Sanjay\-Aditya](https://open.spotify.com/artist/6mwBx00BmtwLeHQeDMXOj1), [Abhishek T](https://open.spotify.com/artist/17UDlf4LCPZdWnS6QPZRvf) | [Aaj Bhi](https://open.spotify.com/album/1y9DiLSl3NACA8ttjc16oR) | 3:33 | 2025-01-03 | 2025-02-13 |
 | [Aaja \- Stripped Version](https://open.spotify.com/track/6RBoeJVWQmesmSzl5ole38) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Sapne](https://open.spotify.com/album/2Lw9o65L8txLwH8Tg4jvWy) | 4:10 | 2024-01-19 | 2024-08-01 |
 | [Aaja Baija Tu \(Acoustic\) \[From "Brand Bollywood Downunder"\]](https://open.spotify.com/track/05QSnz2l3DhwciiKegHcgs) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Epr Iyer](https://open.spotify.com/artist/5tusfwYTSzhe2meWRNp9tj) | [Aaja Baija Tu \(Acoustic\) \[From "Brand Bollywood Downunder"\]](https://open.spotify.com/album/1grfWEwxGjLiMqqajwpNIy) | 2:42 | 2024-02-20 | 2024-05-29 |
-| [Aakhri Baat](https://open.spotify.com/track/7l2jbJumAMjztS7wHav0Je) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aakhri Baat](https://open.spotify.com/album/2VOk3cv9fdpDwzpvi4StBu) | 3:42 | 2025-11-13 |  |
+| [Aakhri Baat](https://open.spotify.com/track/7l2jbJumAMjztS7wHav0Je) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aakhri Baat](https://open.spotify.com/album/2VOk3cv9fdpDwzpvi4StBu) | 3:42 | 2025-11-13 | 2026-02-28 |
 | [Aakhri Safar](https://open.spotify.com/track/7m6v0Hz4B8PSMAn19Jyz4l) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6) | [Aakhri Safar](https://open.spotify.com/album/2tAZqfTl1FvsdL90ZLIZn2) | 4:35 | 2025-02-20 |  |
 | [Aangan](https://open.spotify.com/track/5fQ68f0syCRx6dJoJvyxEh) | [Arjun Tikadar](https://open.spotify.com/artist/6xVuJatFzZDvLRsU3mGAsn), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx) | [Aangan](https://open.spotify.com/album/1Y8jcvhXzOdX8n8JkxniVT) | 3:32 | 2023-10-26 | 2023-11-16 |
 | [Aao Na](https://open.spotify.com/track/02np8DlVPt6HmV44uHjz6J) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW) | [Aao Na](https://open.spotify.com/album/1ntc4C1mdubIGfhVRlYFfz) | 2:38 | 2024-02-29 | 2024-03-16 |
@@ -192,6 +192,7 @@
 | [Hum \(Reprise\)](https://open.spotify.com/track/2v9Sln7HcVBqUNc0zXvtbE) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Akela](https://open.spotify.com/album/2UtPYtrj2QPpvFV4PPwSCw) | 4:28 | 2023-08-04 | 2024-02-10 |
 | [Hum do kabhi](https://open.spotify.com/track/1MUPtJOk8iAPcPTS2KcmU2) | [Somnathan](https://open.spotify.com/artist/3K4ygWBl8SBDTyxCNgNgom) | [Hum do kabhi](https://open.spotify.com/album/0i07X1bVxUbW11DAakvXz9) | 3:21 | 2024-12-06 | 2024-12-22 |
 | [Hum Dono](https://open.spotify.com/track/4IALofMkaEpltIkhpvo0sz) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Mulaqat](https://open.spotify.com/album/5mfKbhUetTj10ZikjC0l0v) | 3:41 | 2023-11-28 | 2024-04-01 |
+| [Hum Tumhare \(Unplugged\)](https://open.spotify.com/track/7IPqXficRXT39hvn4XxC3h) | [Eric Wink](https://open.spotify.com/artist/7k2dC4sHlKjN52VppZRxUP), [Ashimita Sawhney](https://open.spotify.com/artist/3yUizU76QXuZcTydv0QpSC), [Saurabh Trivedi](https://open.spotify.com/artist/3bz6ZRvw3t4k0Oz72baGrk), [Ayush Dolas](https://open.spotify.com/artist/1TDK3rn1aqm7QmZfcJO4Mk) | [Hum Tumhare \(Unplugged\)](https://open.spotify.com/album/2MQY6QKCAZWcwAnUbU8CqJ) | 3:08 | 2026-02-27 |  |
 | [Hum Yun Chale](https://open.spotify.com/track/37NYkKo9phEN8iWLiesBvK) | [MANN CHAUHAN](https://open.spotify.com/artist/0WyHzkinmJ49pV1UbRFNeF), [Dev S Chauhan](https://open.spotify.com/artist/62dn6lr4zmXJY8vVMFm58S) | [Hum Yun Chale](https://open.spotify.com/album/0CFjV3EBk6xQ3kAySqwh1z) | 3:46 | 2024-10-24 | 2025-01-18 |
 | [Humnasheen \(Acoustic\)](https://open.spotify.com/track/3cFD0MJGAKav9Hpum2ZjwX) | [Suddipta Borthakur](https://open.spotify.com/artist/1SNo36nyvDNd9lcuNTQh6D), [KENXU](https://open.spotify.com/artist/4U1YiYeYugLOXPa3QnCOkP) | [Humnasheen \(Acoustic\)](https://open.spotify.com/album/2C0xPWdulOBWUWWX5A4IYO) | 3:47 | 2025-02-28 | 2025-04-03 |
 | [Humnava \(Reprise\)](https://open.spotify.com/track/5soQc8BLjpCkIMScA6bqyf) | [Jivitesh Kharbanda](https://open.spotify.com/artist/6xRm13Ry0rDXAZyspU8Rue), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Humnava \(Reprise\)](https://open.spotify.com/album/0OnIshfjH5WOWlzcZhcwXw) | 3:42 | 2023-06-23 | 2024-02-10 |

@@ -4,7 +4,7 @@
 
 > The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Kill Safari
 
-196 songs - 10 hr 57 min
+197 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [PHASERBEAM](https://open.spotify.com/track/70O1237C4fcq3f0a7DP1Pb) | [Shadient](https://open.spotify.com/artist/6ADRET3UXTOmGBjjO67fNd) | [INTRUDER](https://open.spotify.com/album/2LsyLrGjtmpQxBXwLWFq3y) | 3:53 | 2025-08-08 |  |
 | [PLB \(Pretty Little Baby\)](https://open.spotify.com/track/08eugiKdyPQFfRt1lTwTqr) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS), [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial), [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [PLB \(Pretty Little Baby\)](https://open.spotify.com/album/4ZiYzW5YyFd0lBHfFDzvLN) | 3:18 | 2025-07-04 |  |
 | [Polaris](https://open.spotify.com/track/4Hr6eRuaakhr9RmLLYJawz) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV) | [ÆON:ONE](https://open.spotify.com/album/1KPxKpvQLA3JJEPlwlxzND) | 3:15 | 2023-12-01 | 2025-05-03 |
+| [Pop](https://open.spotify.com/track/0TgoIKzHyU2zysMf12KuJD) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Pop](https://open.spotify.com/album/69znXGnL5lj0jEIbl7yni7) | 2:59 | 2026-02-27 |  |
 | [PRESSURE](https://open.spotify.com/track/66DHk2u2skPCoKT6N3oe8b) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [Zoobstool](https://open.spotify.com/artist/5VYznroahJC80vjoIRk8Eu) | [PRESSURE](https://open.spotify.com/album/0kRZhS82llRFhFYRP7fzxs) | 2:58 | 2023-12-01 |  |
 | [Prophecy](https://open.spotify.com/track/69nFLl74Rqr8LmqUCUZJL6) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Prophecy](https://open.spotify.com/album/1lYOAexnj4ZwKHofhvWBAn) | 5:15 | 2025-06-27 |  |
 | [PROXIMATE](https://open.spotify.com/track/7hxIAhvAlQ5n2YbaaQmRMv) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [X1\-Y2](https://open.spotify.com/artist/6AxbrEv8tfYDYlm82VXe0R) | [NOVUS](https://open.spotify.com/album/0QlP7kHVx4TNJtz2a4mm83) | 2:59 | 2024-10-18 |  |
@@ -155,7 +156,7 @@
 | [Rude Boy 22 \- Spotify Singles](https://open.spotify.com/track/5nuyCix3R7RUitKPxkqIac) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Spotify Singles](https://open.spotify.com/album/4SZa061qdVYEZTTqE4DfwS) | 2:15 | 2023-12-01 | 2025-06-07 |
 | [S.O.S](https://open.spotify.com/track/46ZbeFHcvPbZT3z19WIKHZ) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [S.O.S](https://open.spotify.com/album/5sudLLMrf4J9ymgG8f07Ba) | 2:54 | 2023-12-01 |  |
 | [SABER TOOTH](https://open.spotify.com/track/4bKqAcgrla5I0xYiAuYSBC) | [TIGER DROOL](https://open.spotify.com/artist/0rSRhW3EmJTsqAM3hTefwA), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [SABER TOOTH](https://open.spotify.com/album/6vFjfQyWHawj5cplov6tR9) | 2:45 | 2023-12-01 | 2025-03-15 |
-| [Save Me \(From Myself\) \(feat\. Kyle Hume\)](https://open.spotify.com/track/6POZ7ocsOQQvJrfArz6KOD) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [Save Me \(From Myself\) \(feat\. Kyle Hume\)](https://open.spotify.com/album/47VbVxpe5CtPMOFCpzliMr) | 3:38 | 2023-12-01 |  |
+| [Save Me \(From Myself\) \(feat\. Kyle Hume\)](https://open.spotify.com/track/6POZ7ocsOQQvJrfArz6KOD) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [Save Me \(From Myself\) \(feat\. Kyle Hume\)](https://open.spotify.com/album/47VbVxpe5CtPMOFCpzliMr) | 3:38 | 2023-12-01 | 2026-02-28 |
 | [Secrecy](https://open.spotify.com/track/0BWUe6CyAcJBZMlM0I18gF) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [SECRECY EP](https://open.spotify.com/album/6nDX5W0XTS1KBbpVLtOpA8) | 3:07 | 2023-12-01 | 2025-05-03 |
 | [Selecta \(feat\. Stefflon Don\)](https://open.spotify.com/track/6TlFnB8GBrlILKv5qy27Sn) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [2 RUFF, Vol\. 1](https://open.spotify.com/album/4SjzjaFsXvXiS7quZFzYEl) | 3:09 | 2023-12-01 | 2024-11-30 |
 | [Selector \- 2025 Remake](https://open.spotify.com/track/4zDAIlSQocdV6WuDaelqfJ) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Selector \(2025 Remake\)](https://open.spotify.com/album/2fYgTUiCfxSlMaFfZrHE1u) | 3:10 | 2025-11-21 |  |

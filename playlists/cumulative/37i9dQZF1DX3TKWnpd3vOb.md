@@ -4,7 +4,7 @@
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: La Ley
 
-321 songs - 20 hr 20 min
+322 songs - 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Carne \- En Vivo](https://open.spotify.com/track/3HwLNLwUY2sicFxkBVbMlx) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Claudio Valenzuela](https://open.spotify.com/artist/20XFyUIDpgHen9Lxmx6VhE) | [Carne \(En vivo\)](https://open.spotify.com/album/610BGu4N2Zksxyb6JbuH5p) | 5:59 | 2022-04-08 | 2025-08-01 |
 | [Casi un Mapa](https://open.spotify.com/track/3Yt94WoBxDEgv0i7ff3NZ4) | [Solteronas en Escabeche](https://open.spotify.com/artist/3tOPlz1THJhkPfNJJyDomL), [Portius](https://open.spotify.com/artist/11DIDrM3b6VRzAL3pigGFz) | [Casi un Mapa](https://open.spotify.com/album/6DGtKRp36nEaiBaLh7TUxz) | 3:51 | 2022-04-08 | 2022-07-27 |
 | [Casualidades](https://open.spotify.com/track/6SzCC78V5SvyB1bRJCcIx6) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Plumas](https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG) | 3:19 | 2022-04-08 | 2023-03-03 |
-| [Cayeron Lágrimas](https://open.spotify.com/track/3awaeive1cSrGalmCHOFtK) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Cayeron Lágrimas](https://open.spotify.com/album/4OLMOISUPqjvgJFc4SrOak) | 3:35 | 2023-05-26 | 2026-01-31 |
+| [Cayeron Lágrimas](https://open.spotify.com/track/3awaeive1cSrGalmCHOFtK) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Cayeron Lágrimas](https://open.spotify.com/album/4OLMOISUPqjvgJFc4SrOak) | 3:35 | 2023-05-26 |  |
 | [Cerca del Sol](https://open.spotify.com/track/4LoB0vpJvhlROCaOMNJP78) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Cerca del Sol](https://open.spotify.com/album/2JyB6oVNlkblXEsdHlBks6) | 4:32 | 2022-04-08 | 2023-03-03 |
 | [Cielo](https://open.spotify.com/track/0edQQyB3klYXb3ptkcdDIo) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Cielo](https://open.spotify.com/album/7qsBFKGtx7itrfVd7fOxiE) | 3:40 | 2023-10-27 |  |
 | [Clara](https://open.spotify.com/track/07tq9iJkXzRgvgA4vsM80b) | [Enei](https://open.spotify.com/artist/3ychxeKDZNc3ITaeJfz7GO) | [Clara](https://open.spotify.com/album/7EQNBGyaddHvNToBCFHvNi) | 3:17 | 2022-04-08 | 2022-07-24 |
@@ -66,6 +66,7 @@
 | [Círculo](https://open.spotify.com/track/74BEycFqYrZTg8vFOj1iEU) | [Kuervos del Sur](https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj) | [Canto a Lo Brujo](https://open.spotify.com/album/1Quy87yIayfMxKeD6FpbfJ) | 4:51 | 2022-04-08 | 2022-12-17 |
 | [De La Luz](https://open.spotify.com/track/0muLiRaM3pjoBDA0VTUTFt) | [Kuervos del Sur](https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj) | [De La Luz](https://open.spotify.com/album/0GsaLK3qnIHXrFCflRmuCZ) | 5:07 | 2023-10-27 |  |
 | [De Policía a Ladrón](https://open.spotify.com/track/1jebYwGYhXdIpehhcKyJTt) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT) | [De Policía a Ladrón](https://open.spotify.com/album/2N7ur7BWpL1xvZ6fIfSzR6) | 3:12 | 2022-04-08 |  |
+| [De Volver a Comenzar](https://open.spotify.com/track/7aUCXhB4HReQZxJbpJoqAt) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [Respira: Vol 1](https://open.spotify.com/album/2WsFttKsztYbXLVD8Qtc03) | 3:27 | 2026-02-27 |  |
 | [Debo Aterrizar](https://open.spotify.com/track/4MQEsa25Jc6mfLaFYmYhIo) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Satirología, Vol\. 3](https://open.spotify.com/album/6n3yGfhOtfklDdHxcGYsel) | 4:44 | 2025-03-07 |  |
 | [Dejando Libre el Amor](https://open.spotify.com/track/4IvYW5NRB5U8FE1nHTQkGn) | [Chancho En Piedra](https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp) | [Funkybarítico Hedónico Fantástico](https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL) | 4:22 | 2022-04-08 | 2022-12-17 |
 | [Despacio \- Bonus Track Migra](https://open.spotify.com/track/4x2HBispFiJkuu5jtIv0Py) | [El Ultimo Viaje](https://open.spotify.com/artist/6fpbLCQo7cLpMV1g397HWL) | [Despacio \(Bonus Track Migra\)](https://open.spotify.com/album/46a0OY25sTGfKXaSxQnOl1) | 6:19 | 2022-04-08 | 2022-07-28 |
@@ -144,7 +145,7 @@
 | [Kumbagüe](https://open.spotify.com/track/1FaKFinuCoWMuViMMZNscl) | [Nunca Seremos Dichosos](https://open.spotify.com/artist/0XLQ3xZLk6ptsTLMHDKgTR) | [Kollong](https://open.spotify.com/album/5ZWWaYGC3xjLgYrJbXb3IN) | 4:02 | 2022-04-08 | 2022-10-21 |
 | [La Cuenta](https://open.spotify.com/track/1n5XbZt3DGxj0DjIgPUan2) | [Kuervos del Sur](https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj), [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [La Cuenta](https://open.spotify.com/album/2TGDNCjdZS6w4oGFzuQMfc) | 3:57 | 2024-06-28 |  |
 | [La Culebra](https://open.spotify.com/track/6mE3MWroSgNl3kaCHB72DP) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [La Culebra](https://open.spotify.com/album/5mu4eaFjnSI1jDizjUTus1) | 4:57 | 2022-04-08 | 2023-03-03 |
-| [La Despedida](https://open.spotify.com/track/61WO3yJRK8S39cmHetyw1J) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [La Despedida](https://open.spotify.com/album/3FbrykEyfG0L7Cz2QFN8HK) | 3:12 | 2023-10-13 |  |
+| [La Despedida](https://open.spotify.com/track/61WO3yJRK8S39cmHetyw1J) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [La Despedida](https://open.spotify.com/album/3FbrykEyfG0L7Cz2QFN8HK) | 3:12 | 2023-10-13 | 2026-02-28 |
 | [La Espada & la Pared](https://open.spotify.com/track/3E5wpa4PEgtP6iHVzpIYS9) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [La Espada & la Pared](https://open.spotify.com/album/3jk145dS5MIeZ6NZBAtvY0) | 5:03 | 2022-04-08 | 2022-12-17 |
 | [La Innombrable](https://open.spotify.com/track/2WUgxqkD2iCLKoJFTahWU8) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Julius Popper?](https://open.spotify.com/album/23fZQY7rzLPXzLJlmEhs6W) | 4:07 | 2022-04-08 |  |
 | [La Libertad Absoluta y el Terror](https://open.spotify.com/track/0VvDqUV0iYW93tl0neTXu1) | [Tenemos Explosivos](https://open.spotify.com/artist/4GmjIrXTH2V78cvkcYnOYS) | [Victoria](https://open.spotify.com/album/2tUA7PMKfRfb7xxk8E5hUV) | 4:19 | 2022-04-08 | 2022-12-17 |
@@ -322,7 +323,7 @@
 | [Ya No Estamos para Mentiras](https://open.spotify.com/track/28obcE8LjmeZ0Z1De2rK02) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Ya No Estamos para Mentiras](https://open.spotify.com/album/6iSH7Ha0Clp1v8cDefpNbn) | 3:16 | 2022-04-08 | 2022-07-29 |
 | [Ya No Estamos Para Mentiras](https://open.spotify.com/track/7yJyFqkj0FFxjqXJ2Yfa7l) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Ya No Estamos Para Mentiras](https://open.spotify.com/album/1Ne5vOQ8dkWWahYG2HyMgm) | 3:16 | 2022-07-08 | 2023-03-03 |
 | [Ya No Quiero Ser \(Duele, Hiere, Mata\)](https://open.spotify.com/track/6ctn61QsvvmiXSl5EafPLc) | [Aguaturbia](https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc) | [Ya No Quiero Ser \(Duele, Hiere, Mata\)](https://open.spotify.com/album/4Y6QBvjiKF6D7TapNyWJxd) | 4:37 | 2022-04-08 | 2023-03-03 |
-| [Ya No Te Esperaré](https://open.spotify.com/track/5qJMvyGIJryYsDQ8SVStQ0) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Ya No Te Esperaré](https://open.spotify.com/album/6CpwgrssmzTfRoL1QHEjmy) | 3:28 | 2023-10-13 |  |
+| [Ya No Te Esperaré](https://open.spotify.com/track/5qJMvyGIJryYsDQ8SVStQ0) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Ya No Te Esperaré](https://open.spotify.com/album/6CpwgrssmzTfRoL1QHEjmy) | 3:28 | 2023-10-13 | 2026-02-28 |
 | [Yo Sé Que Tu](https://open.spotify.com/track/0cXB1cFmbsJoHOPFZrLxGl) | [Los Necesarios](https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb) | [Yo Sé Que Tu](https://open.spotify.com/album/4ARfV8aN7KdMENCyXedlCF) | 3:49 | 2022-04-08 | 2022-07-28 |
 | [Yod](https://open.spotify.com/track/40TKm4cF9jKYsfcxvjCIzI) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF) | [Yod](https://open.spotify.com/album/2fvvSqI6g6L5rW8uwncGVj) | 3:41 | 2022-04-08 | 2025-02-21 |
 | [Yod](https://open.spotify.com/track/6XTZFGXabuOw71RMOgtao3) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF) | [Yod](https://open.spotify.com/album/2HhVFAfXWf6eZeOU8R75jg) | 3:41 | 2023-03-03 | 2024-04-19 |

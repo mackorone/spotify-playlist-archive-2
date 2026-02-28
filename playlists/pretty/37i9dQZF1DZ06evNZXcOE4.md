@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZXcOE4.md) - [plain]
 
 > This is Jane's Addiction\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,651 likes - 39 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,652 likes - 39 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZXcOE4.md) - [plain]
 | 18 | [Strays](https://open.spotify.com/track/7fNLuDI0HJO61SWq0MctAn) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Strays](https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk) | 4:32 |
 | 19 | [Then She Did...](https://open.spotify.com/track/6Y8eB9Qcami03h8TcKnh0V) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 8:20 |
 | 20 | [Sympathy for the Devil \- from Sons of Anarchy](https://open.spotify.com/track/3kJUF78V1W8FQ0PdngeDtV) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Songs of Anarchy: Volume 2 \(Music from Sons of Anarchy\)](https://open.spotify.com/album/26zNMJYGEKI4lNVZoMGO6c) | 5:26 |
-| 21 | [Standing in the Shower...Thinking](https://open.spotify.com/track/7DzT745Oi9NI016FEkjWNa) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 3:05 |
+| 21 | [Up the Beach](https://open.spotify.com/track/7CByzrzR4LCBxVI7lM8Ggv) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 3:01 |
 | 22 | [Rock & Roll](https://open.spotify.com/track/5D3jslN9eR4jcbsVpt7x6g) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Jane's Addiction \(Live\)](https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa) | 4:03 |
 | 23 | [Ain't No Right](https://open.spotify.com/track/09cGAeWYBVrV9jtUF4iOv7) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 3:34 |
 | 24 | [Price I Pay](https://open.spotify.com/track/7e9xEvXgrrzWxnJqzgQS4I) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Strays](https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk) | 5:27 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZXcOE4.md) - [plain]
 | 38 | [Splash A Little Water On It](https://open.spotify.com/track/6OrXMm2Ml4caLuU8D3czwU) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [The Great Escape Artist](https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard) | 5:13 |
 | 39 | [City \- Soul Kiss 88](https://open.spotify.com/track/1KncvzweVpOpMmKgth4yok) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Kettle Whistle](https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw) | 2:30 |
 
-Snapshot ID: `aZ47gAAAAACVHZ/UhKpT/zaUAXci4l61`
+Snapshot ID: `aZ+NAAAAAABpaisgDRhZjYIYvWQvW9Vu`

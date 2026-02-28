@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 
 > Some of the worlds most beautiful love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,181,420 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,181,516 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 | 26 | [Glory of Love](https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM) | [Peter Cetera](https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z) | [Solitude / Solitaire](https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb) | 4:18 |
 | 27 | [Nothing's Gonna Change My Love for You](https://open.spotify.com/track/0vB4Vd6PtkJSEnWsmqATnZ) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [20/20](https://open.spotify.com/album/23HV3deh17hOFNg3OKmGnW) | 4:02 |
 | 28 | [The Power of Love](https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 5:42 |
-| 29 | [Wonderful Tonight](https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:45 |
-| 30 | [Just the Way You Are](https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 4:50 |
+| 29 | [Just the Way You Are](https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 4:50 |
+| 30 | [Wonderful Tonight](https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:45 |
 | 31 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/225xvV8r1yKMHErSWivnow) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Armageddon \- The Album](https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890) | 4:58 |
 | 32 | [Halo](https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7) | 4:21 |
 | 33 | [If You Don't Know Me by Now \- 2008 Remaster](https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [A New Flame \(Expanded Version\)](https://open.spotify.com/album/0R8Pl54TXSwXWtAEVaP7ew) | 3:24 |

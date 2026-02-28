@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 47355,
+  "num_followers": 47357,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAABPJy0ZPLN7JN+//7H/NvnV",
+  "snapshot_id": "aZ+NAAAAAADk7WgL+ucqdd84Ny24iHp8",
   "tracks": [
     {
       "added_at": null,
@@ -382,15 +382,11 @@
         {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 174386,
-      "name": "DISCOTEKA",
-      "url": "https://open.spotify.com/track/6PSyxMi8vTq5m25Yh6Oc6J"
+      "duration_ms": 234480,
+      "name": "DRAG\u00d3N",
+      "url": "https://open.spotify.com/track/0rrkslhl5uGUzmS9oUcIED"
     },
     {
       "added_at": null,
@@ -458,11 +454,15 @@
         {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 234480,
-      "name": "DRAG\u00d3N",
-      "url": "https://open.spotify.com/track/0rrkslhl5uGUzmS9oUcIED"
+      "duration_ms": 174386,
+      "name": "DISCOTEKA",
+      "url": "https://open.spotify.com/track/6PSyxMi8vTq5m25Yh6Oc6J"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Toy Story",
+        "url": "https://open.spotify.com/album/0qQYLpHzoKsP2dFrdvOpOj"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 179912,
+      "name": "Toy Story",
+      "url": "https://open.spotify.com/track/2Y9W6qcN9COH0XyeYApQOE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spoiler",
         "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 174433,
       "name": "Me Quedo",
       "url": "https://open.spotify.com/track/6Nqi1fWKYXrVXmF3RtQbSf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toy Story",
-        "url": "https://open.spotify.com/album/0qQYLpHzoKsP2dFrdvOpOj"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 179912,
-      "name": "Toy Story",
-      "url": "https://open.spotify.com/track/2Y9W6qcN9COH0XyeYApQOE"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The happiest hits to boost your day.",
-  "num_followers": 479289,
+  "num_followers": 479262,
   "original_name": "Good Times",
   "owner": {
     "name": "Spotify",
@@ -707,26 +707,6 @@
     {
       "added_at": "2025-11-12 03:53:35",
       "album": {
-        "name": "Solo (feat. Demi Lovato)",
-        "url": "https://open.spotify.com/album/1q7a5wZeti0neU2jDn8Dz3"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 222653,
-      "name": "Solo (feat. Demi Lovato)",
-      "url": "https://open.spotify.com/track/6kPJZM97LwdG9QIsT7khp6"
-    },
-    {
-      "added_at": "2025-11-12 03:53:35",
-      "album": {
         "name": "ily (i love you baby) (feat. Emilee)",
         "url": "https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 176546,
       "name": "ily (i love you baby) (feat. Emilee)",
       "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
+    },
+    {
+      "added_at": "2025-11-12 03:53:35",
+      "album": {
+        "name": "Solo (feat. Demi Lovato)",
+        "url": "https://open.spotify.com/album/1q7a5wZeti0neU2jDn8Dz3"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 222653,
+      "name": "Solo (feat. Demi Lovato)",
+      "url": "https://open.spotify.com/track/6kPJZM97LwdG9QIsT7khp6"
     },
     {
       "added_at": "2025-11-12 03:53:35",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-11-12 03:53:35",
       "album": {
-        "name": "A Minute...",
-        "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Nice To Meet You",
-      "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
-    },
-    {
-      "added_at": "2025-11-12 03:53:35",
-      "album": {
         "name": "Beautiful (feat. Camila Cabello)",
         "url": "https://open.spotify.com/album/6hCR3zQtRH0IgookOYt771"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 180000,
       "name": "Beautiful (feat. Camila Cabello)",
       "url": "https://open.spotify.com/track/4VUwkH455At9kENOfzTqmF"
+    },
+    {
+      "added_at": "2025-11-12 03:53:35",
+      "album": {
+        "name": "A Minute...",
+        "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Nice To Meet You",
+      "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
     },
     {
       "added_at": "2025-11-12 03:53:35",

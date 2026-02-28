@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2rtAnhOgHNC.md) - [plain]
 
 > Los grandes éxitos de la década pasada, en México\. Carla Morrison en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,424 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,462 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2rtAnhOgHNC.md) - [plain]
 | 39 | [No Me Hubiera Enamorado](https://open.spotify.com/track/6XiSceaDaO2vaYF2B2A70t) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [El Problema](https://open.spotify.com/album/3wZCydFnWWZhm5osBdul0s) | 3:27 |
 | 40 | [Dulce Soledad](https://open.spotify.com/track/0BKJNlqLlNvvIunfg2BPCg) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Daltónico](https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy) | 3:44 |
 | 41 | [Que Lo Nuestro Se Quede Nuestro](https://open.spotify.com/track/3rtxFFGZ10e2vYBo7PsPf2) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo Creo](https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e) | 3:42 |
-| 42 | [Mala Fama](https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:02 |
-| 43 | [Desde Esa Noche \(feat\. Maluma\)](https://open.spotify.com/track/1pWYnQIlqxTh5bxuPmTG4E) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Latina](https://open.spotify.com/album/4hQcPgUoOykA7IzS6av6ox) | 3:47 |
+| 42 | [Desde Esa Noche \(feat\. Maluma\)](https://open.spotify.com/track/1pWYnQIlqxTh5bxuPmTG4E) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Latina](https://open.spotify.com/album/4hQcPgUoOykA7IzS6av6ox) | 3:47 |
+| 43 | [Mala Fama](https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:02 |
 | 44 | [Amigos No por Favor \(Primera Fila\) \- En Vivo](https://open.spotify.com/track/2hyAEExgoEfxrVJKUJTqZV) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 3:45 |
 | 45 | [Visita](https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Daltónico](https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy) | 3:44 |
 | 46 | [¿Cómo Pagarte?](https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo Creo](https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e) | 3:31 |

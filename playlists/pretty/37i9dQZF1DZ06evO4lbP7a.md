@@ -4,30 +4,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lbP7a.md) - [plain]
 
 > This is yama\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,895 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,896 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Haru wo Tsugeru](https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Haru wo Tsugeru](https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ) | 3:16 |
 | 2 | [色彩](https://open.spotify.com/track/5H37zP5tQCneoCRJEMRcnV) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 3:12 |
-| 3 | [Dawn](https://open.spotify.com/track/4OvdtlIQxHJTWsh1j5I19v) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Dawn](https://open.spotify.com/album/7kqIabAB3ihk1eXDZy11lF) | 3:44 |
-| 4 | [マジカルシンドローム](https://open.spotify.com/track/1tzce9prdmxYbPwDSfYV1g) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [マジカルシンドローム](https://open.spotify.com/album/0JfZQAF3ONStszQOiywvpl) | 2:45 |
+| 3 | [マジカルシンドローム](https://open.spotify.com/track/1tzce9prdmxYbPwDSfYV1g) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [マジカルシンドローム](https://open.spotify.com/album/0JfZQAF3ONStszQOiywvpl) | 2:45 |
+| 4 | [Dawn](https://open.spotify.com/track/4OvdtlIQxHJTWsh1j5I19v) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Dawn](https://open.spotify.com/album/7kqIabAB3ihk1eXDZy11lF) | 3:44 |
 | 5 | [麻痺](https://open.spotify.com/track/5v1dhqe9vgvp87eyd27hkb) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life](https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD) | 3:18 |
 | 6 | [a.m.3:21](https://open.spotify.com/track/3oZ1DkKe2ZcvPh5Ffv6L0c) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [a.m.3:21](https://open.spotify.com/album/3oALJhgiL5WSZWMRwlMxoV) | 3:28 |
 | 7 | [アダルトチックチルドレン](https://open.spotify.com/track/4szCibdelqTfe8XzGlBT8u) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [アダルトチックチルドレン](https://open.spotify.com/album/7yTWJUaWIAU0ERYbbTZXwr) | 3:02 |
-| 8 | [End roll](https://open.spotify.com/track/0WKB31BWP8DLFCpSQxGQNb) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [End roll](https://open.spotify.com/album/3uyKE7Xaxo4LCK6qiNw64R) | 3:16 |
+| 8 | [蛹](https://open.spotify.com/track/3WE8A4ZHK7CDtXtcvpJxnC) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [蛹](https://open.spotify.com/album/6qqUwVgl227Y6CM5LxLt1F) | 3:54 |
 | 9 | [TWILIGHT](https://open.spotify.com/track/3FXDTuvtmQ8RE9l5HaBwGR) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [TWILIGHT](https://open.spotify.com/album/6yMhfBAG7yQziGEXSAWN5N) | 3:32 |
-| 10 | [蛹](https://open.spotify.com/track/3WE8A4ZHK7CDtXtcvpJxnC) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [蛹](https://open.spotify.com/album/6qqUwVgl227Y6CM5LxLt1F) | 3:54 |
+| 10 | [End roll](https://open.spotify.com/track/0WKB31BWP8DLFCpSQxGQNb) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [End roll](https://open.spotify.com/album/3uyKE7Xaxo4LCK6qiNw64R) | 3:16 |
 | 11 | [偽顔](https://open.spotify.com/track/1CuCtAmIi4Gjk3q9wkWOKw) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 2:30 |
 | 12 | [Oz.](https://open.spotify.com/track/1Aq9S5teUzfZucr7rVRpSj) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Versus the night](https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq) | 3:15 |
 | 13 | [us](https://open.spotify.com/track/3dOIgsfzZWsLcCTON0ebLt) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [us](https://open.spotify.com/album/2K4hFMFLmMUeLujQAZnNPx) | 3:28 |
 | 14 | [Nemophila](https://open.spotify.com/track/2vjMfyA9EECR7tWgR9rHiT) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Nemophila](https://open.spotify.com/album/5y94VJ7S4bjK8Pl6I1bZle) | 3:56 |
-| 15 | [midnight](https://open.spotify.com/track/2I4wbn6mSyyXJOXMlNB12n) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [アダルトチックチルドレン](https://open.spotify.com/album/1fgsyeUzImXkMVBy1vVUNm) | 3:18 |
-| 16 | [血流](https://open.spotify.com/track/0bBl2jjpCFCgRd60BowZoV) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life](https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD) | 3:28 |
+| 15 | [血流](https://open.spotify.com/track/0bBl2jjpCFCgRd60BowZoV) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life](https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD) | 3:28 |
+| 16 | [midnight](https://open.spotify.com/track/2I4wbn6mSyyXJOXMlNB12n) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [アダルトチックチルドレン](https://open.spotify.com/album/1fgsyeUzImXkMVBy1vVUNm) | 3:18 |
 | 17 | [BURN](https://open.spotify.com/track/6NYHXyWnurns3vjIsohSGX) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BURN](https://open.spotify.com/album/0QZoJceyKXNb33SEmFMlr4) | 2:16 |
 | 18 | [doku](https://open.spotify.com/track/7r5gbT0sRLKfyTqD0VomNS) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [doku](https://open.spotify.com/album/4F1u2KnQwfVR9Rb8sd7v8P) | 2:56 |
-| 19 | [憧れのままに](https://open.spotify.com/track/6cRZpoOfi9kBOTFxeN8X3t) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 3:25 |
-| 20 | [Lost](https://open.spotify.com/track/3sz0hi6mkqq0hfRMN8RGrs) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Versus the night](https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq) | 4:05 |
+| 19 | [Lost](https://open.spotify.com/track/3sz0hi6mkqq0hfRMN8RGrs) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Versus the night](https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq) | 4:05 |
+| 20 | [憧れのままに](https://open.spotify.com/track/6cRZpoOfi9kBOTFxeN8X3t) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 3:25 |
 | 21 | [アイタリナイ](https://open.spotify.com/track/58tyTrZH1pt8esOLGynycj) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [ニト。](https://open.spotify.com/artist/7bNO9nNPBOXrcUzOA66UbE) | [Noisy Love Songs \- MAISONdes × URUSEIYATSURA Complete Collection \-](https://open.spotify.com/album/25FyQq2VGgXuqw8nWEIRxx) | 2:43 |
 | 22 | [slash](https://open.spotify.com/track/7ecWzYoWecy0fiUu6FKZ3T) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [slash](https://open.spotify.com/album/4oLomJzmXTSNYrOYsEg4u3) | 3:58 |
 | 23 | [shadow dance](https://open.spotify.com/track/1tyfDn2VPRvh336veB1ajh) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [アダルトチックチルドレン](https://open.spotify.com/album/1fgsyeUzImXkMVBy1vVUNm) | 2:58 |
@@ -43,14 +43,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lbP7a.md) - [plain]
 | 33 | [TORIHADA](https://open.spotify.com/track/0NGNeVj68sBFcyyHwax4C0) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [; semicolon](https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe) | 2:59 |
 | 34 | [Hello/Hello](https://open.spotify.com/track/5M13MqCBVJykhVUXgjjYcX) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [Hello/Hello](https://open.spotify.com/album/7kHYrY6mzroR0kQ7bktint) | 4:05 |
 | 35 | [Sleepless Night](https://open.spotify.com/track/4QudMialF8Y73NNyCdDD0G) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life](https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD) | 4:18 |
-| 36 | [一寸の赤](https://open.spotify.com/track/6gLIdsq5niNohbCT3LFT1Z) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [一寸の赤](https://open.spotify.com/album/3AZiSmcQY2ci47AneOFYhj) | 3:51 |
+| 36 | [春を告げる \- From THE FIRST TAKE](https://open.spotify.com/track/0QDjYBER1ZqISxA2Gc0cJe) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [春を告げる \- From THE FIRST TAKE](https://open.spotify.com/album/61OTGf8KiylPy39lihGoUs) | 5:00 |
 | 37 | [レコード](https://open.spotify.com/track/6wG7V7gPdYl85QScNKqRBc) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [; semicolon](https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe) | 3:00 |
-| 38 | [春を告げる \- From THE FIRST TAKE](https://open.spotify.com/track/0QDjYBER1ZqISxA2Gc0cJe) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [春を告げる \- From THE FIRST TAKE](https://open.spotify.com/album/61OTGf8KiylPy39lihGoUs) | 5:00 |
+| 38 | [一寸の赤](https://open.spotify.com/track/6gLIdsq5niNohbCT3LFT1Z) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [一寸の赤](https://open.spotify.com/album/3AZiSmcQY2ci47AneOFYhj) | 3:51 |
 | 39 | [Ever](https://open.spotify.com/track/3WiGi6UeOTH1hhjCaTTQwT) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Ever](https://open.spotify.com/album/7x0EC8RQn7L2ZghQDGZ7qe) | 3:16 |
-| 40 | [GRIDOUT](https://open.spotify.com/track/3vPxuqeKOCpguz5aqhHtQr) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [GRIDOUT](https://open.spotify.com/album/22yU6RnbXhgWPi53eDpSyS) | 2:57 |
+| 40 | [カーテンコール](https://open.spotify.com/track/5EBkv7Vl47e674Yi6Gk7zi) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [カーテンコール](https://open.spotify.com/album/4FNbJK6K73qKy9TuxggkVY) | 3:39 |
 | 41 | [Film](https://open.spotify.com/track/33Cdpy0wIKa6le6kNaD6Ya) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [; semicolon](https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe) | 3:15 |
-| 42 | [希望論](https://open.spotify.com/track/4ivrdKOEXXGiRIApiD7rII) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life](https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD) | 4:34 |
-| 43 | [カーテンコール](https://open.spotify.com/track/5EBkv7Vl47e674Yi6Gk7zi) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [カーテンコール](https://open.spotify.com/album/4FNbJK6K73qKy9TuxggkVY) | 3:39 |
+| 42 | [GRIDOUT](https://open.spotify.com/track/3vPxuqeKOCpguz5aqhHtQr) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [GRIDOUT](https://open.spotify.com/album/22yU6RnbXhgWPi53eDpSyS) | 2:57 |
+| 43 | [希望論](https://open.spotify.com/track/4ivrdKOEXXGiRIApiD7rII) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life](https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD) | 4:34 |
 | 44 | [こだま](https://open.spotify.com/track/45UVorDHdb5BugXpHjuorv) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [こだま](https://open.spotify.com/album/1RlXyJ5oN0EfFQPZXDriLq) | 3:04 |
 | 45 | [rain check](https://open.spotify.com/track/3dyleGMI23oZV0wgojOkpR) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [; semicolon](https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe) | 4:30 |
 | 46 | [声明](https://open.spotify.com/track/52K93xV0RzR1oiTpLelcmj) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [声明](https://open.spotify.com/album/64WnOkk1bfF32ElFKEBw1F) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lbP7a.md) - [plain]
 | 49 | [オリジン](https://open.spotify.com/track/7sqlWfsAcENRdsrN6BuyTr) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [オリジン](https://open.spotify.com/album/5pRmvEqEFcbS83hcQPNWrb) | 3:26 |
 | 50 | [はなにあらし](https://open.spotify.com/track/1Y8oe7ucxNjQXTiWOIMSfz) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [はなにあらし](https://open.spotify.com/album/6uL3szP8qRqAJF20s2rNVk) | 4:32 |
 
-Snapshot ID: `aZ47gAAAAACvdmKAym27CTQ1Nx5FnV+K`
+Snapshot ID: `aZ+NAAAAAADuAMnze7QaTptVcMdneS9v`

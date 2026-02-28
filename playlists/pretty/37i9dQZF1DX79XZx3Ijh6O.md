@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 
 > Найліпша музика від українських артистів\-початківців\. Обкладинка: <a href="spotify:artist:4jLIjIj0Lc0dpbWQWjsZXQ">TAKAYA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,247 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,248 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [в полоні](https://open.spotify.com/track/67O7mrJFQQ83YtswcW8Uot) | [TAKAYA](https://open.spotify.com/artist/4jLIjIj0Lc0dpbWQWjsZXQ) | [в полоні](https://open.spotify.com/album/7k5l5fKvtwR2VVjhdByAes) | 3:27 |
+| 1 | [скаженими](https://open.spotify.com/track/3qan5mQhVS7nTiBqBQu1sa) | [TAKAYA](https://open.spotify.com/artist/4jLIjIj0Lc0dpbWQWjsZXQ) | [скаженими](https://open.spotify.com/album/1kdFiVS4v42Bt9tXJxlih8) | 2:47 |
 | 2 | [Не хочу](https://open.spotify.com/track/7jCrBXeDNL0CwS4A6LkEXi) | [Lefor](https://open.spotify.com/artist/6hzblzXPu0wV7T1L8io0o5) | [Не хочу](https://open.spotify.com/album/7FtogN7ic2iyJr0T3EqMc9) | 2:14 |
 | 3 | [За який тебе ловити хвіст?](https://open.spotify.com/track/2MY21UDHK72kQUnkCmiZFk) | [Lipatova](https://open.spotify.com/artist/39to4XWrZqgxJSP3ScNXdW) | [За який тебе ловити хвіст?](https://open.spotify.com/album/6uA1H22YlwANNzVSCH3nqp) | 3:55 |
 | 4 | [Тваринні інстинкти](https://open.spotify.com/track/1PF849XEvoh6XSGwoJg8zG) | [PROBLEMA](https://open.spotify.com/artist/4RnDiyMmHovpIRHgz5WyTn) | [Тваринні інстинкти](https://open.spotify.com/album/0nrxxOTRrl50DU2ePWYRG8) | 1:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 | 99 | [Повільно](https://open.spotify.com/track/71SLSGY6bZsEl2N2H6fBf0) | [TALICE](https://open.spotify.com/artist/6mzMq9r0bo1LYtnDJYip2l) | [Повільно](https://open.spotify.com/album/3HtM2KEm9neQk488nJEaHI) | 2:29 |
 | 100 | [Тікай](https://open.spotify.com/track/4hHHu32lL2JXtQMDDISC8V) | [Меланхолі\-Я](https://open.spotify.com/artist/3qoEu7vkf4hTDm7Y4UQzWY) | [Тікай](https://open.spotify.com/album/6uZWwjtdz0xl88K7C4E226) | 2:19 |
 
-Snapshot ID: `AAAAAJXkWyEnv8oDFBdPCy5rmQnkzF0d`
+Snapshot ID: `AAAAAHR3qR5x4q+1vOTPBrXeAWEa8swk`

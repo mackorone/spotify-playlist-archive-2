@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Valesca Mayssa",
-  "num_followers": 362980,
+  "num_followers": 363048,
   "original_name": "Mulheres do Gospel",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2026-02-13 03:01:37",
       "album": {
-        "name": "Gratid\u00e3o (Gratitude) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/5UKejerSpuxuvnUdHoAdwm"
-      },
-      "artists": [
-        {
-          "name": "Bruna Olly",
-          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
-        }
-      ],
-      "duration_ms": 420477,
-      "name": "Gratid\u00e3o (Gratitude) - Ao Vivo",
-      "url": "https://open.spotify.com/track/1q54VNXn2SWxmxyH5HNuea"
-    },
-    {
-      "added_at": "2026-02-13 03:01:37",
-      "album": {
         "name": "Eu Tenho uma Promessa",
         "url": "https://open.spotify.com/album/29IH8z7nCBUzWPsf2Z4iVc"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 271191,
       "name": "Eu Tenho uma Promessa",
       "url": "https://open.spotify.com/track/1QeiFzV3c26r6k9g6s5iFY"
+    },
+    {
+      "added_at": "2026-02-13 03:01:37",
+      "album": {
+        "name": "Gratid\u00e3o (Gratitude) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/5UKejerSpuxuvnUdHoAdwm"
+      },
+      "artists": [
+        {
+          "name": "Bruna Olly",
+          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
+        }
+      ],
+      "duration_ms": 420477,
+      "name": "Gratid\u00e3o (Gratitude) - Ao Vivo",
+      "url": "https://open.spotify.com/track/1q54VNXn2SWxmxyH5HNuea"
     },
     {
       "added_at": "2026-02-13 03:01:37",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-02-13 03:01:37",
       "album": {
-        "name": "Meu Redentor Vive (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5PkaM3Gze2nfHhp1bRIRyz"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9a Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
-        }
-      ],
-      "duration_ms": 328786,
-      "name": "Meu Redentor Vive (Ao Vivo)",
-      "url": "https://open.spotify.com/track/357ctAsekqjuFD2ag2sQZE"
-    },
-    {
-      "added_at": "2026-02-13 03:01:37",
-      "album": {
         "name": "Minha B\u00ean\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/6WKir025Bp9KQGjKAodPSi"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 312497,
       "name": "Minha B\u00ean\u00e7\u00e3o (Ao Vivo)",
       "url": "https://open.spotify.com/track/5b75WAmLLdqIiVWyMTMctF"
+    },
+    {
+      "added_at": "2026-02-13 03:01:37",
+      "album": {
+        "name": "Meu Redentor Vive (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5PkaM3Gze2nfHhp1bRIRyz"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
+        }
+      ],
+      "duration_ms": 328786,
+      "name": "Meu Redentor Vive (Ao Vivo)",
+      "url": "https://open.spotify.com/track/357ctAsekqjuFD2ag2sQZE"
     },
     {
       "added_at": "2026-02-13 03:01:37",

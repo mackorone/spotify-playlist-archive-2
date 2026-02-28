@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > breathe slow, drift soft 🪷 calm beats to uncover the stillness within
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,999 likes - 100 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,026 likes - 100 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 99 | [i feel warmer already](https://open.spotify.com/track/4naRK23E2oxlBnzyWG4zG2) | [WillSum](https://open.spotify.com/artist/65yQkihuUYn5wSktWTgSVG) | [i feel warmer already](https://open.spotify.com/album/55EXWcA8fgtpAJ9Jn7hwTu) | 2:30 |
 | 100 | [ZMOOTH](https://open.spotify.com/track/3FOvS4B32VeOvRG6sQyL0m) | [Written On Glass](https://open.spotify.com/artist/0flGLaDtO2VB3ETpqoZhwg) | [ZMOOTH](https://open.spotify.com/album/3L3ORj0iQxym4SDCe0fTew) | 2:04 |
 
-Snapshot ID: `AAAAAL0H1Su110idq9wh/W4kim4a8z8O`
+Snapshot ID: `AAAAAA+PytId6EuhmlYPFoUMWMKKORxD`

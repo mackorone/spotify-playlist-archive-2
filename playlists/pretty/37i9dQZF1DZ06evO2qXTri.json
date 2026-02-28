@@ -1,12 +1,12 @@
 {
   "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
-  "num_followers": 37968,
+  "num_followers": 37980,
   "original_name": "This Is Kirk Franklin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAAA+oiFiOE6ex8qlxT8WmXQc",
+  "snapshot_id": "aZ+NAAAAAABH4pPEmxlJyMMJz/TpSWAe",
   "tracks": [
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "God's Property from Kirk Franklin's Nu Nation",
+        "url": "https://open.spotify.com/album/2MCmQvsAE0S5UYI413OC1E"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 346866,
+      "name": "The Storm Is Over Now",
+      "url": "https://open.spotify.com/track/6blSODzePwJZwG8VS3i5nt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hiding Place",
         "url": "https://open.spotify.com/album/5A5ePoPwlIuxVmn3cIhiFw"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 214008,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/7vF5RIx2jHtt9Y0OElOZKK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "God's Property from Kirk Franklin's Nu Nation",
-        "url": "https://open.spotify.com/album/2MCmQvsAE0S5UYI413OC1E"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 346866,
-      "name": "The Storm Is Over Now",
-      "url": "https://open.spotify.com/track/6blSODzePwJZwG8VS3i5nt"
     },
     {
       "added_at": null,
@@ -544,17 +544,29 @@
       "added_at": null,
       "album": {
         "name": "Losing My Religion",
-        "url": "https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA"
+        "url": "https://open.spotify.com/album/0Uvc0XDk2O8KsPIsMMdasM"
       },
       "artists": [
         {
           "name": "Kirk Franklin",
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Tamela Mann",
+          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
         }
       ],
-      "duration_ms": 237963,
-      "name": "123 Victory",
-      "url": "https://open.spotify.com/track/0hDTfFE4QECNZAuVTkcGLH"
+      "duration_ms": 423106,
+      "name": "My World Needs You (feat. Sarah Reeves, Tasha Cobbs & Tamela Mann)",
+      "url": "https://open.spotify.com/track/0GRRDzyfiF5dQU1ZpC4Ftk"
     },
     {
       "added_at": null,
@@ -628,29 +640,17 @@
       "added_at": null,
       "album": {
         "name": "Losing My Religion",
-        "url": "https://open.spotify.com/album/0Uvc0XDk2O8KsPIsMMdasM"
+        "url": "https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA"
       },
       "artists": [
         {
           "name": "Kirk Franklin",
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Sarah Reeves",
-          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Tamela Mann",
-          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
         }
       ],
-      "duration_ms": 423106,
-      "name": "My World Needs You (feat. Sarah Reeves, Tasha Cobbs & Tamela Mann)",
-      "url": "https://open.spotify.com/track/0GRRDzyfiF5dQU1ZpC4Ftk"
+      "duration_ms": 237963,
+      "name": "123 Victory",
+      "url": "https://open.spotify.com/track/0hDTfFE4QECNZAuVTkcGLH"
     },
     {
       "added_at": null,
@@ -915,8 +915,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello Fear",
-        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+        "name": "Boycott",
+        "url": "https://open.spotify.com/album/3MQ28EyvwEflLB5q93AAkf"
       },
       "artists": [
         {
@@ -924,9 +924,9 @@
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 70200,
-      "name": "The Story Of Fear",
-      "url": "https://open.spotify.com/track/5c1N90E1wVVNTH6WEljZka"
+      "duration_ms": 339733,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/48LZC1RDcSX3qwSUkmqLbz"
     },
     {
       "added_at": null,

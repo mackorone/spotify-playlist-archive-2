@@ -4,7 +4,7 @@
 
 > The hottest tracks with the freshest hits! Cover: Sam Fender
 
-428 songs - 23 hr 0 min
+429 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,7 +325,8 @@
 | [Rhyme Dust](https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Rhyme Dust](https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG) | 3:01 | 2023-06-15 | 2023-09-16 |
 | [Rich Baby Daddy \(feat\. Sexyy Red & SZA\)](https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 5:19 | 2023-10-19 | 2024-03-02 |
 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 | 2024-05-23 | 2024-06-14 |
-| [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 | 2026-02-26 |  |
+| [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 | 2026-02-26 | 2026-02-28 |
+| [Risk It All](https://open.spotify.com/track/6skX6In6VpLzev9epAUnpp) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/5z7kqc5UFmtNfZb2Rw7zHy) | 3:24 | 2026-02-27 |  |
 | [Running Around](https://open.spotify.com/track/7tk7IcfIgPhfGtN5kndtO1) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Running Around](https://open.spotify.com/album/2ewiqLfaprRwjfLzW5Jo9E) | 2:04 | 2025-03-20 | 2026-01-15 |
 | [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 | 2023-07-14 | 2023-10-17 |
 | [Rush](https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 2:36 | 2023-10-12 | 2024-03-15 |

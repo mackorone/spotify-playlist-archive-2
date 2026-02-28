@@ -3223,6 +3223,32 @@
     },
     {
       "album": {
+        "name": "CASTE XMAS",
+        "url": "https://open.spotify.com/album/7FHAP3atebHWBXEdAg1slP"
+      },
+      "artists": [
+        {
+          "name": "Castellano",
+          "url": "https://open.spotify.com/artist/6UO0OmWRTSoZCTmbpHRf91"
+        },
+        {
+          "name": "Michael Christmas",
+          "url": "https://open.spotify.com/artist/1POk07q5vJ4NcdOgkLyPzp"
+        },
+        {
+          "name": "BCN",
+          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158823,
+      "name": "CASTE XMAS",
+      "url": "https://open.spotify.com/track/64p6GfKssLhIe4A4t7oMvJ"
+    },
+    {
+      "album": {
         "name": "Catatumbo",
         "url": "https://open.spotify.com/album/0efUmK8Mh0Era00htLNbYI"
       },
@@ -4172,6 +4198,32 @@
       "duration_ms": 194500,
       "name": "Cosa Seria",
       "url": "https://open.spotify.com/track/6hGeEptIAuhbyG54LBMsGm"
+    },
+    {
+      "album": {
+        "name": "CREED",
+        "url": "https://open.spotify.com/album/013i7sXyFhJtTzMVj23cVQ"
+      },
+      "artists": [
+        {
+          "name": "Luno",
+          "url": "https://open.spotify.com/artist/6V36JyoMUbA6lNLNMjA3Bz"
+        },
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        },
+        {
+          "name": "Bryan Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7FctMSq2t2zyod20njlcjP"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176326,
+      "name": "CREED",
+      "url": "https://open.spotify.com/track/3stduLq9wmMnajUbwIfQqj"
     },
     {
       "album": {
@@ -6937,6 +6989,32 @@
     },
     {
       "album": {
+        "name": "Filo",
+        "url": "https://open.spotify.com/album/1MWh66FE1XA5r3OyJV5ckC"
+      },
+      "artists": [
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        },
+        {
+          "name": "Drama Theme",
+          "url": "https://open.spotify.com/artist/5UlItbkRcPTdmWC4AcKrk8"
+        },
+        {
+          "name": "Solo Cadaver",
+          "url": "https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138760,
+      "name": "Filo",
+      "url": "https://open.spotify.com/track/1bwyuEudsWNDH5kNiAmVsT"
+    },
+    {
+      "album": {
         "name": "FISG\u00d3N",
         "url": "https://open.spotify.com/album/2oum3uiNJMHA1zKRpgbhlM"
       },
@@ -7892,7 +7970,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 248936,
       "name": "Hong Kong - Remix",
       "url": "https://open.spotify.com/track/4t75A7utXw7AcsQzLlU8QR"
@@ -9604,7 +9682,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 175927,
       "name": "Lecci\u00f3n",
       "url": "https://open.spotify.com/track/0B1MjFyMyQnQWtiWXnEls3"
@@ -18150,7 +18228,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 176000,
       "name": "Vendetta",
       "url": "https://open.spotify.com/track/036wjdzuq0kY4aEMoGIfs7"

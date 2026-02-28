@@ -4,13 +4,14 @@
 
 > Lagu\-lagu Pop untuk teman bersantai.
 
-239 songs - 15 hr 40 min
+241 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11 Januari](https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld) | [Gigi](https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf) | [Peace, Love And Respect](https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I) | 3:32 | 2022-12-14 |  |
 | [A Sorrowful Reunion](https://open.spotify.com/track/1aoN2IqlLDCqbeqLylN7BQ) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [What Do You Really Know?](https://open.spotify.com/album/7gOhCvJD152GWf16fhs7Gp) | 4:19 | 2025-11-04 |  |
 | [Ada Di Sana](https://open.spotify.com/track/7e3JeMmuteFbUJuUjH1RfS) | [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny) | [Telisik](https://open.spotify.com/album/40iKWzfGlk2MC4xr7A9Go3) | 3:18 | 2024-03-05 | 2025-03-06 |
+| [Ada titik\-titik di ujung doa](https://open.spotify.com/track/1E7zLPDdqo0OvzVmGj5aoV) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH PENS FLASHDISKS](https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q) | 5:05 | 2026-02-27 |  |
 | [Against All The Odds](https://open.spotify.com/track/5HevQCX2dDxGXDmQOYDXkc) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd), [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Merangkai](https://open.spotify.com/album/4qAa6aWYwW1do7TQyBMz7z) | 4:14 | 2025-05-20 | 2025-06-03 |
 | [Air & Api](https://open.spotify.com/track/0Z3E3USDNRILRhQBwy0ljP) | [Naif](https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt) | [The Best](https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE) | 3:17 | 2022-12-14 |  |
 | [Ajaib](https://open.spotify.com/track/1o9Axaf7SMTOunr16cqQet) | [EAR SUN](https://open.spotify.com/artist/5Ccw96BXjK0XKJFHyCztKO) | [Ajaib](https://open.spotify.com/album/3UlKqsIgJjlTh95DwGhe3z) | 3:14 | 2025-06-30 | 2025-08-12 |
@@ -107,7 +108,7 @@
 | [Keabadian](https://open.spotify.com/track/4fYaJrhUh3ca4SXcgmOtmn) | [Reza Artamevia](https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF) | [Keabadian](https://open.spotify.com/album/0X3OW0qjBDc3I9I52w6cym) | 4:07 | 2022-12-14 |  |
 | [Kecewa](https://open.spotify.com/track/1sDfnkQge4Nmkp8sgLgH1i) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Tentang Kamu](https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8) | 3:49 | 2024-03-05 |  |
 | [Kehadiran](https://open.spotify.com/track/6MBugUCVzXWEeZdqvzLnti) | [Parade Hujan](https://open.spotify.com/artist/12FqhPQ5x6a1V3UeN7hD9z), [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g) | [Kehadiran](https://open.spotify.com/album/0YwyFtQzlWuCYX6S59HTyb) | 3:56 | 2025-02-12 | 2025-07-01 |
-| [Keluh](https://open.spotify.com/track/4YCEwufcKpKulCa6tJlAjD) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Dreane](https://open.spotify.com/album/0dbhJr4XSB9SRuYB8sTnmi) | 2:38 | 2025-07-28 |  |
+| [Keluh](https://open.spotify.com/track/4YCEwufcKpKulCa6tJlAjD) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Dreane](https://open.spotify.com/album/0dbhJr4XSB9SRuYB8sTnmi) | 2:38 | 2025-07-28 | 2026-02-28 |
 | [Kemana Kita Hari Ini](https://open.spotify.com/track/1e13iAgF2fQ9fkUr3SN0kT) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Kemana Kita Hari Ini](https://open.spotify.com/album/3Tn8So8AMQaHDtJXnBT7Bs) | 4:39 | 2023-10-11 | 2024-05-09 |
 | [Kemana Kita Hari Ini](https://open.spotify.com/track/6RnjxKM9urwUxM8ASgbc0W) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Kemana Kita Hari Ini](https://open.spotify.com/album/0l4IZ6DemrwccavgOxxyEF) | 4:39 | 2023-11-13 | 2024-04-19 |
 | [Kembali Pulang](https://open.spotify.com/track/6xeqCawPZngDVqw2W2aGaR) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC), [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Kembali Pulang](https://open.spotify.com/album/3oCPm4IKeaWJy666uZPKih) | 3:27 | 2022-12-14 |  |
@@ -157,6 +158,7 @@
 | [Nanti Kita Seperti Ini](https://open.spotify.com/track/2NjbJR8y083mOV59255QSe) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Nanti Kita Seperti Ini](https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT) | 3:29 | 2023-01-09 | 2025-08-12 |
 | [no more you and i](https://open.spotify.com/track/7H6r6d4vum3mzN47bKG0sN) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [no more you and i](https://open.spotify.com/album/5KIKGZwMCqvxlj29yJ8rSK) | 3:20 | 2023-09-20 | 2023-11-08 |
 | [Nuansa Bening](https://open.spotify.com/track/1k5ZInUyMOJRmjxsDE1LKe) | [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Pelangi Di Malam Hari](https://open.spotify.com/album/21LvKljAcxUbAYUEMP6Osx) | 4:42 | 2024-01-16 | 2025-01-08 |
+| [Nyaman \(24/7\)](https://open.spotify.com/track/3H11yoJfR7kMkpqDC9Ef1s) | [Dominique Adhadiaz](https://open.spotify.com/artist/1CdlXDQpcRaeFOdY8eEiws) | [Nyaman \(24/7\)](https://open.spotify.com/album/24VfTPaMOtJ4EpDllK62Yl) | 3:16 | 2026-02-27 |  |
 | [On the Night Like This](https://open.spotify.com/track/0rk3F1mm2Yrvh4zSrNpa0J) | [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ) | [Friends](https://open.spotify.com/album/4UktwuqbTJJFnsuDhkf7kb) | 1:21 | 2022-12-14 | 2023-04-14 |
 | [Orang Biasa](https://open.spotify.com/track/6YF5BNUUZLFMs2Z96jvovv) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD), [Sisca Saras](https://open.spotify.com/artist/2EB26dHYlQMV3VhPWQEJ7p) | [Orang Biasa](https://open.spotify.com/album/6iouAGOCicSo8yUPxzyUeR) | 3:34 | 2025-10-07 | 2025-10-21 |
 | [Ordinary Day](https://open.spotify.com/track/1cvtW4ZA6Tfmap44lhb5GG) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Ordinary Day](https://open.spotify.com/album/37OQK1sKHnUDkFWFnsbX1V) | 3:26 | 2025-10-20 |  |
@@ -219,7 +221,7 @@
 | [Take Me](https://open.spotify.com/track/7Ix7tEAw8le0lP3YSJFPp3) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Take Me](https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r) | 3:38 | 2024-05-13 | 2025-07-28 |
 | [Takkan Terganti](https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [And the Story Continues...](https://open.spotify.com/album/1NIbJYN2b3CO92Q75ofpuZ) | 4:01 | 2022-12-14 |  |
 | [Tanpa Diminta](https://open.spotify.com/track/5K6HxdlgStsikWTy9jPaiN) | [Vidi Aldiano](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Senandika](https://open.spotify.com/album/7ub6oAQi8e6dzxk5NAyZdA) | 4:15 | 2023-03-22 | 2023-06-08 |
-| [Tanpa Tergesa](https://open.spotify.com/track/66wRGrt1HmeVa1wtnWMj6C) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Tanpa Tergesa](https://open.spotify.com/album/4XaaGPX1xavHLo2vJJ2u03) | 3:38 | 2024-03-05 |  |
+| [Tanpa Tergesa](https://open.spotify.com/track/66wRGrt1HmeVa1wtnWMj6C) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Tanpa Tergesa](https://open.spotify.com/album/4XaaGPX1xavHLo2vJJ2u03) | 3:38 | 2024-03-05 | 2026-02-28 |
 | [Teach Me How To Love](https://open.spotify.com/track/1WIwqy57xMadhpG3cP0yvc) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Teach Me How To Love](https://open.spotify.com/album/0OMWABEZWBwe1dI5DQCkHd) | 3:02 | 2025-05-06 | 2025-05-21 |
 | [Teman Bahagia](https://open.spotify.com/track/0KeK6xqEcTT1VWhHf5iw2d) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Teman Bahagia](https://open.spotify.com/album/4BqJFRg9Id95pDcb8ml84b) | 3:28 | 2022-12-14 |  |
 | [Teman Hidup](https://open.spotify.com/track/1U1qumuS2O5Qttw8G7UXOZ) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Tulus](https://open.spotify.com/album/2dnIPDYfh7enZ6JqI9COsk) | 3:42 | 2022-12-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🔥 de største nye rap hits i dk 🔥 cover: Baloosh
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,142 likes - 61 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,132 likes - 61 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 2 | [Piger \(feat\. ICEKIID\)](https://open.spotify.com/track/2krMpiq40MNAIo6weIBonY) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [PUSTO](https://open.spotify.com/album/05jV7vuiMm9YwT77HtsKgz) | 2:24 |
 | 3 | [H.C\. \(feat\. Lamin & KESI\)](https://open.spotify.com/track/7DH8FCjWuNSUBk0hXAepvo) | [JEFF3](https://open.spotify.com/artist/07hSeMihvB08l7F5ojpPkW), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [H.C\. \(feat\. Lamin & KESI\)](https://open.spotify.com/album/1btCfwzvzlMIuqb1D0sr18) | 3:28 |
 | 4 | [20 Times](https://open.spotify.com/track/1Drcv968Oo64KD9JN1MMLc) | [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF) | [20 Times](https://open.spotify.com/album/6SujSL0akcBtBR3u8bkAgH) | 2:04 |
-| 5 | [Gone](https://open.spotify.com/track/64uzNBLwjR0ZkSS3R8xKe1) | [MANI](https://open.spotify.com/artist/48tAxVqL59YwsPlN3o4Iqf), [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8) | [Gone](https://open.spotify.com/album/6pUqW06fBNLb6cmPg7cw8D) | 2:30 |
+| 5 | [Gone](https://open.spotify.com/track/64uzNBLwjR0ZkSS3R8xKe1) | [MANI](https://open.spotify.com/artist/1uQwp8AYTIontS6qgSiZYX), [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8) | [Gone](https://open.spotify.com/album/6pUqW06fBNLb6cmPg7cw8D) | 2:30 |
 | 6 | [Cobra \(feat\. Jamaika\)](https://open.spotify.com/track/7mUPCop88z8A4mTP1Rxrvq) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [Cobra \(feat\. Jamaika\)](https://open.spotify.com/album/6ODopWPSC73RjkK0bN3UjL) | 2:41 |
 | 7 | [DOKU](https://open.spotify.com/track/55KqQqZoGAqAlys3Dqr1m3) | [Benny](https://open.spotify.com/artist/4ILUZ9Dq04CkO7FeKBcFfM) | [DOKU](https://open.spotify.com/album/1dYA6H6pefJSyWs7HT1I4d) | 1:53 |
 | 8 | [I MIN HÅND](https://open.spotify.com/track/3lZKgjL1Sls4HVKhKcpl7L) | [NS Gang](https://open.spotify.com/artist/7dqU1R2GEszJk2C0ScnwQW) | [I MIN HÅND](https://open.spotify.com/album/0734ylN47ZzHoNZkD1qmpD) | 3:29 |

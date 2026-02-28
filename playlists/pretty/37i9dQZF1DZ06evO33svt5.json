@@ -1,12 +1,12 @@
 {
   "description": "This is Doja Cat. The essential tracks, all in one playlist.",
-  "num_followers": 1092479,
+  "num_followers": 1092593,
   "original_name": "This Is Doja Cat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAACp3ssxKWvj3cQR8tYIzMLK",
+  "snapshot_id": "aZ+NAAAAAAC44X1CrtX3JocshN5lMSHG",
   "tracks": [
     {
       "added_at": null,
@@ -671,6 +671,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Just Us (feat. Doja Cat)",
+        "url": "https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 172877,
+      "name": "Just Us (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Finally Over It",
         "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 230646,
       "name": "Go Girl (with Latto & Doja Cat)",
       "url": "https://open.spotify.com/track/7eCAw2VS0UhbsiSItwWdvl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just Us (feat. Doja Cat)",
-        "url": "https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 172877,
-      "name": "Just Us (feat. Doja Cat)",
-      "url": "https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l"
     },
     {
       "added_at": null,

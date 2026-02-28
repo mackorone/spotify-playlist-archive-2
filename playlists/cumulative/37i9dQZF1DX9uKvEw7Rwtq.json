@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 361760,
       "name": "A Citizen's Dream",
       "url": "https://open.spotify.com/track/2ehLNjSUtNeq82kVqDqC2F"
@@ -168,7 +168,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 526120,
       "name": "Above the Fog (Pt.2)",
       "url": "https://open.spotify.com/track/4cjRiT6COzETZ3mWQXydnr"
@@ -610,7 +610,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-22",
+      "date_removed": null,
       "duration_ms": 262285,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/3iGE1kGYpyDTHVSVTS55os"
@@ -855,6 +855,24 @@
     },
     {
       "album": {
+        "name": "Blurring",
+        "url": "https://open.spotify.com/album/1JvlqLOBMVJZm0jGSYM3WB"
+      },
+      "artists": [
+        {
+          "name": "Vivienne Eastwood",
+          "url": "https://open.spotify.com/artist/70MmXzSdRlMVKHTpM85Jmu"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216237,
+      "name": "Fog",
+      "url": "https://open.spotify.com/track/6FuTWOqsTYwGvjRxqcwdEU"
+    },
+    {
+      "album": {
         "name": "Forever Rain",
         "url": "https://open.spotify.com/album/3cduDi7Yj9llJs4hIzmF4x"
       },
@@ -888,6 +906,24 @@
       "duration_ms": 334866,
       "name": "Forever Rain",
       "url": "https://open.spotify.com/track/5eLUHTUUnkiIrDE3TgtgjA"
+    },
+    {
+      "album": {
+        "name": "frozen moss",
+        "url": "https://open.spotify.com/album/0cHJtNKNzMmWq7KUYZl2KE"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Jautschus",
+          "url": "https://open.spotify.com/artist/0qApiJS82LWuW50TgOS1w2"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211428,
+      "name": "frozen moss",
+      "url": "https://open.spotify.com/track/1xJJGm0YQkgk8wYvyfa6DW"
     },
     {
       "album": {
@@ -974,7 +1010,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 304460,
       "name": "Headache",
       "url": "https://open.spotify.com/track/4EDj8GXOlI45vG4SOfswK3"
@@ -1577,6 +1613,24 @@
     },
     {
       "album": {
+        "name": "Morning Calm",
+        "url": "https://open.spotify.com/album/3UgVfzsmTV6hGPo8Y3rWvn"
+      },
+      "artists": [
+        {
+          "name": "Not Enough Silence",
+          "url": "https://open.spotify.com/artist/19o1RzxXWl4YpcZ3rX6B1Y"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146840,
+      "name": "Morning Calm",
+      "url": "https://open.spotify.com/track/3QFSuBTkiGmjGNnNBIxBEv"
+    },
+    {
+      "album": {
         "name": "Mockingbird Love",
         "url": "https://open.spotify.com/album/78iqh8E1w21f5RxVUNXPuq"
       },
@@ -1768,7 +1822,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 345994,
       "name": "nuclear",
       "url": "https://open.spotify.com/track/6Ac9CNl0phKklRp2BFZUmY"
@@ -1808,7 +1862,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-02",
+      "date_removed": null,
       "duration_ms": 256026,
       "name": "Open Hill",
       "url": "https://open.spotify.com/track/5z8WzfZK6sapGFHOUYxbHW"
@@ -2028,7 +2082,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 275531,
       "name": "raat ki rani - Khruangbin Remix",
       "url": "https://open.spotify.com/track/44QLYLXDebPCkTzcnGX4XA"
@@ -2046,7 +2100,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 411135,
       "name": "Red Yellow",
       "url": "https://open.spotify.com/track/2aRL4MQjSefZIWBmeW926k"
@@ -2418,7 +2472,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 159368,
       "name": "Suds - Instrumental",
       "url": "https://open.spotify.com/track/7A29H60T1sZUvcDOoMjTXa"
@@ -2562,7 +2616,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 163018,
       "name": "The River",
       "url": "https://open.spotify.com/track/4rhmXU8skfmVs6DoDMTkIl"
@@ -2580,7 +2634,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 232266,
       "name": "The Slide Song",
       "url": "https://open.spotify.com/track/3V4rZhVqZ4EcaagkxUaqn0"
@@ -2652,7 +2706,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-07",
+      "date_removed": null,
       "duration_ms": 403253,
       "name": "Then the Quiet Explosion",
       "url": "https://open.spotify.com/track/20Q4MigpvCI5tR0y3BrTi2"
@@ -2677,6 +2731,24 @@
     },
     {
       "album": {
+        "name": "Things We Leave Behind",
+        "url": "https://open.spotify.com/album/2zrQDqIJLQtqG0MS6YJkpl"
+      },
+      "artists": [
+        {
+          "name": "Friend from Work",
+          "url": "https://open.spotify.com/artist/6DxNs0iTkF0hSaFoqc3C2z"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167909,
+      "name": "Things We Leave Behind",
+      "url": "https://open.spotify.com/track/2P0aYTKE36gztfQPXrXlOP"
+    },
+    {
+      "album": {
         "name": "Those Winter Sundays",
         "url": "https://open.spotify.com/album/70WVA0g1iS6nFjOk7KSGNP"
       },
@@ -2692,6 +2764,24 @@
       "duration_ms": 229333,
       "name": "Those Winter Sundays",
       "url": "https://open.spotify.com/track/5SwqHpKZdlWOBGsAUdg1me"
+    },
+    {
+      "album": {
+        "name": "Three Halves",
+        "url": "https://open.spotify.com/album/2MqLAyAYPpfnUPUbhNIvXz"
+      },
+      "artists": [
+        {
+          "name": "The Orielles",
+          "url": "https://open.spotify.com/artist/5JWEBEt8VxHHxYKFmpzjwD"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262016,
+      "name": "Three Halves",
+      "url": "https://open.spotify.com/track/2d1phWQyfC2aTXEpu7MBNK"
     },
     {
       "album": {
@@ -2739,6 +2829,24 @@
     },
     {
       "album": {
+        "name": "Twenty Twenty One",
+        "url": "https://open.spotify.com/album/3kxULtiWNnkaGxyuJzxLc9"
+      },
+      "artists": [
+        {
+          "name": "City of the Sun",
+          "url": "https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416000,
+      "name": "Twenty Twenty One",
+      "url": "https://open.spotify.com/track/2aAvUVqDqmo1Xo7l6MBEbd"
+    },
+    {
+      "album": {
         "name": "In A Safe Place",
         "url": "https://open.spotify.com/album/1sHRD82NYs8RKZtlXatlkC"
       },
@@ -2750,7 +2858,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 340800,
       "name": "Twentytwofourteen",
       "url": "https://open.spotify.com/track/6PSgBb1yQZe99yIjn0eUgp"
@@ -2793,6 +2901,24 @@
     },
     {
       "album": {
+        "name": "VOID",
+        "url": "https://open.spotify.com/album/4dlVpb8VyP924DQhcYkRag"
+      },
+      "artists": [
+        {
+          "name": "Tigerblood Jewel",
+          "url": "https://open.spotify.com/artist/4bJFkS1uMrGFdHdovQ3eIj"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165770,
+      "name": "VOID",
+      "url": "https://open.spotify.com/track/6jYPt1h4G9y56f5DYADhva"
+    },
+    {
+      "album": {
         "name": "Lone Survivor (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/30KqtKSWR8OQe0mB4EdepA"
       },
@@ -2804,7 +2930,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 290871,
       "name": "Waking Up",
       "url": "https://open.spotify.com/track/3CSO9mXOUtOzIM6Eqq9QlF"
@@ -2960,7 +3086,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-24",
+      "date_removed": null,
       "duration_ms": 159818,
       "name": "Zero Gravity",
       "url": "https://open.spotify.com/track/4tfaUHGYBCMliBaOHM5vHX"

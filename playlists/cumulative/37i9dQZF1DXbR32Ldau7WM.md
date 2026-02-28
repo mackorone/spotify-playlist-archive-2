@@ -4,7 +4,7 @@
 
 > J\-Rock acts who have broken the border and are making global impact\.   Cover: FINLANDS
 
-1,512 songs - 4 day 2 hr 57 min
+1,513 songs - 4 day 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -660,6 +660,7 @@
 | [SCREAM feat\. Matsuo Remi](https://open.spotify.com/track/6Q7cR3yBtqtfc679R9K8ON) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F), [Matsuo Remi](https://open.spotify.com/artist/5vh7AkRVPMGrasDdho8UKp) | [SCREAM feat\. Matsuo Remi](https://open.spotify.com/album/17WqxkV1OdxdkUMg6ZaxGZ) | 3:42 | 2024-01-09 | 2024-01-31 |
 | [SCREAM feat\. 松尾レミ](https://open.spotify.com/track/3s4buH4DNUePMsQofMRDSE) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F), [松尾レミ](https://open.spotify.com/artist/7cetyEh2qBcnsM5qnDFajk) | [SCREAM feat\. 松尾レミ](https://open.spotify.com/album/7pqJDusrGfWDA3CN9IWUQe) | 3:42 | 2024-01-09 | 2024-01-11 |
 | [Seaside](https://open.spotify.com/track/6rwSf69yMf3c2dfqkoVt8b) | [THE NOVEMBERS](https://open.spotify.com/artist/06qEHODsluMWTP4MrQC9RF) | [The Novembers](https://open.spotify.com/album/5UsLQiAt93L1SdFvqP3ERO) | 3:27 | 2023-12-05 | 2024-01-10 |
+| [Seasons](https://open.spotify.com/track/0jOFKglRHghXaYmPT0ys01) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Seasons](https://open.spotify.com/album/7MeKYsRWWQHQE8PKUJauNZ) | 3:38 | 2026-02-24 |  |
 | [seasons change](https://open.spotify.com/track/4KmylhamK7Vpzxn0iS1DbZ) | [Small Circle of Friends](https://open.spotify.com/artist/3CJQBC8srg8KknVotylRsC) | [seasons change](https://open.spotify.com/album/1PHKDL7Zf6a4bFdriImVE8) | 3:16 | 2022-05-10 | 2022-07-29 |
 | [Secret Ceremony](https://open.spotify.com/track/4H0jA4BmoPsR1g0YojlYKV) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [Secret Ceremony](https://open.spotify.com/album/79uzDTAtLl2kp5bskMLgtQ) | 3:40 | 2022-05-19 | 2022-12-21 |
 | [Sense](https://open.spotify.com/track/6Nawx5sqYFIbcx2qQgrA67) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:24 | 2022-09-27 | 2022-11-16 |
@@ -956,7 +957,7 @@
 | [いとおしい日々](https://open.spotify.com/track/0QeD68D7Up78qybkCsGFBI) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [D o n’ t ‌ ‌ ‌L a u g h ‌ ‌ ‌I t ‌ ‌ ‌O f f](https://open.spotify.com/album/1CxJmFEE2xsYSTxpJaOG6P) | 2:32 | 2025-10-08 | 2026-01-25 |
 | [いらないもの](https://open.spotify.com/track/4CTkQljbP19RftsQVJ8oxv) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv), [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [いらないもの](https://open.spotify.com/album/3m1YaZKzJdBfUaJqWL64rl) | 3:05 | 2024-10-08 |  |
 | [うるうびと](https://open.spotify.com/track/6mJIn3fvwWHHAnrR3LEdxp) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [余命10年 \(Original Soundtrack\)](https://open.spotify.com/album/4BVxkC0NDkRLpTmNdDnPmz) | 5:18 | 2022-05-10 | 2022-05-18 |
-| [うるわし](https://open.spotify.com/track/5kvESVLeUE6ldAIYpBcstS) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [うるわし](https://open.spotify.com/album/4cnaJ9wIlBUVnZJLsPg9Q4) | 4:00 | 2026-01-13 |  |
+| [うるわし](https://open.spotify.com/track/5kvESVLeUE6ldAIYpBcstS) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [うるわし](https://open.spotify.com/album/4cnaJ9wIlBUVnZJLsPg9Q4) | 4:00 | 2026-01-13 | 2026-02-28 |
 | [おいしいサバイバー](https://open.spotify.com/track/7rUo3qpSvGob97U68qb0M6) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [おいしいサバイバー](https://open.spotify.com/album/2GXXX6qqWMmqhG4FU91NPX) | 2:58 | 2025-03-11 | 2025-04-16 |
 | [おもいつくかぎりのすべて](https://open.spotify.com/track/01EbADTLRUtT9qvfmSXxan) | [Analogfish](https://open.spotify.com/artist/5KvfVmM9oHCiIy88GOG58h) | [おもいつくかぎりのすべて](https://open.spotify.com/album/6H4nCo7arFfNNEDATsdMD2) | 4:36 | 2023-08-22 | 2023-08-30 |
 | [お先に失礼します。](https://open.spotify.com/track/1bTZoQX1G6GmADCY0xwBbO) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [お先に失礼します。](https://open.spotify.com/album/0l4QylgmJ4qS6UfyMbMnlf) | 3:09 | 2023-01-10 | 2023-01-25 |

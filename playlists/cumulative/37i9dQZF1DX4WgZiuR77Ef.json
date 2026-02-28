@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "Ain\u2019t It \u2018Bout Time",
+        "url": "https://open.spotify.com/album/3pPL5WNVn0vHtO0608EkyF"
+      },
+      "artists": [
+        {
+          "name": "Gabe Dixon",
+          "url": "https://open.spotify.com/artist/1EwStlJbpwWP3NBYmNzRPP"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173493,
+      "name": "Ain\u2019t It \u2018Bout Time",
+      "url": "https://open.spotify.com/track/2ShwGrz4GrCg3o4rfQbsdQ"
+    },
+    {
+      "album": {
         "name": "All Night",
         "url": "https://open.spotify.com/album/7EPIP4WWSQ68j9RhSjkiKL"
       },
@@ -850,7 +868,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 350972,
       "name": "Checker Wrecker",
       "url": "https://open.spotify.com/track/2tqfdsBI9N8TrRVFTUDnGZ"

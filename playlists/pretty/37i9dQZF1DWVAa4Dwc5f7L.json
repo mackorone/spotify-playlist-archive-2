@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Rawayana & Manuel Turizo",
-  "num_followers": 398521,
+  "num_followers": 398533,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABSqbn9eEJUyLO0Oqv2tNBs4J7F0",
+  "snapshot_id": "AAAAACd3vLAaIFfCrWRTG/2LIoLHEZh1",
   "tracks": [
     {
       "added_at": "2026-02-20 00:00:19",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-02-20 00:00:19",
       "album": {
-        "name": "Vete y Dile",
-        "url": "https://open.spotify.com/album/3bLNzJGuGCJCPnJw4lqwTn"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 271226,
-      "name": "Anoche Hablamos de Amor",
-      "url": "https://open.spotify.com/track/0ElCcbF18PWFCLzMwIJU9m"
-    },
-    {
-      "added_at": "2026-02-20 00:00:19",
-      "album": {
         "name": "12 Golden Hits",
         "url": "https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 298106,
       "name": "Cuarto de Hotel",
       "url": "https://open.spotify.com/track/14O3hLuJMDRC8800QjuILq"
+    },
+    {
+      "added_at": "2026-02-20 00:00:19",
+      "album": {
+        "name": "Vete y Dile",
+        "url": "https://open.spotify.com/album/3bLNzJGuGCJCPnJw4lqwTn"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 271226,
+      "name": "Anoche Hablamos de Amor",
+      "url": "https://open.spotify.com/track/0ElCcbF18PWFCLzMwIJU9m"
     },
     {
       "added_at": "2026-02-20 00:00:19",

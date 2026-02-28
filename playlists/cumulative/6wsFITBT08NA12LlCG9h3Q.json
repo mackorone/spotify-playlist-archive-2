@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "Different Class",
+        "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351626,
+      "name": "Common People - Full Length Version",
+      "url": "https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF"
+    },
+    {
+      "album": {
         "name": "Get A Grip (Reissue - Remaster)",
         "url": "https://open.spotify.com/album/6BZNF93Ac0zqWD1n9TgFOq"
       },
@@ -352,6 +370,24 @@
       "duration_ms": 320986,
       "name": "Everybody Hurts",
       "url": "https://open.spotify.com/track/0DOF4L7UE2oXBccF36nwLb"
+    },
+    {
+      "album": {
+        "name": "So Tonight That I Might See",
+        "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
+      },
+      "artists": [
+        {
+          "name": "Mazzy Star",
+          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295600,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
     },
     {
       "album": {

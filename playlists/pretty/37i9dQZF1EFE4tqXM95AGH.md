@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 67 | [That's So Us](https://open.spotify.com/track/38MeqOT1zZ6pjedPFElvpK) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [CollXtion II](https://open.spotify.com/album/216PcZkvm5Rnt6LgctC0X9) | 3:35 |
 | 68 | [Can't Go Back, Baby](https://open.spotify.com/track/6fNyEK8kTquBSUTHbqbfaK) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:21 |
 | 69 | [Revelation](https://open.spotify.com/track/7sUJolVaoEBoP4l4qHiQSe) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y) | [Boy Erased \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QSiPewI3wL9NU4znGgrw5) | 3:51 |
-| 70 | [Cool](https://open.spotify.com/track/4Ab4qiJwF34AREVIpjiBeF) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/6cMcASNBAfVvmv0AT6IQj4) | 3:34 |
-| 71 | [SexOnTheBeat](https://open.spotify.com/track/4MpketOLD5KhtgWWOBuk9w) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [The Provocateur](https://open.spotify.com/album/7LWxUjVO8rhvEUQu2cyVgd) | 2:46 |
+| 70 | [SexOnTheBeat](https://open.spotify.com/track/4MpketOLD5KhtgWWOBuk9w) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [The Provocateur](https://open.spotify.com/album/7LWxUjVO8rhvEUQu2cyVgd) | 2:46 |
+| 71 | [Cool](https://open.spotify.com/track/4Ab4qiJwF34AREVIpjiBeF) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/6cMcASNBAfVvmv0AT6IQj4) | 3:34 |
 | 72 | [Telephone Busy](https://open.spotify.com/track/2JgwHnrqubIzSSlwVlu9mY) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j) | 3:15 |
 | 73 | [How To Stay With You](https://open.spotify.com/track/6P7b7UciZ4Q4sbujF4QcrO) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:16 |
 | 74 | [Don't Wait](https://open.spotify.com/track/5sBdbAZ2a2LJ775CsbkM2h) | [Joey Graceffa](https://open.spotify.com/artist/50zhmSD9wi3LHamXKx8A2W) | [Don't Wait](https://open.spotify.com/album/7vynUmVpp3L0DIcLKAIOXO) | 3:25 |
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 184 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 185 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `AcKvFAAAAAAH8171nUQEXA3qJicJM5jK`
+Snapshot ID: `AcK0lgAAAABKWPEDQBQmM7uwLeenu4D6`

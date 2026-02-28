@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tigres Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 765633,
+  "num_followers": 765716,
   "original_name": "This Is Los Tigres Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAADZq024tmS8BCMani6U3A2j",
+  "snapshot_id": "aZ+NAAAAAADoKU85Ug1avW4OL4uqLLq3",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Dia A La Vez",
-        "url": "https://open.spotify.com/album/7dNBtrYe7XJMTTjuTtWp1U"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 192493,
-      "name": "La Fuga Del Rojo",
-      "url": "https://open.spotify.com/track/0V0YkCQBSXaStCEDQttZgy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Ultimo Adi\u00f3s",
         "url": "https://open.spotify.com/album/1Tz1WfJZkvWPhyFHWAzZLo"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 237466,
       "name": "El Ultimo Adi\u00f3s - Varios Artistas Version",
       "url": "https://open.spotify.com/track/0tzixmHNQfE6S6SirSToxW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Dia A La Vez",
+        "url": "https://open.spotify.com/album/7dNBtrYe7XJMTTjuTtWp1U"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 192493,
+      "name": "La Fuga Del Rojo",
+      "url": "https://open.spotify.com/track/0V0YkCQBSXaStCEDQttZgy"
     },
     {
       "added_at": null,
@@ -743,38 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Dos Plebes",
-        "url": "https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 210853,
-      "name": "Los Dos Plebes",
-      "url": "https://open.spotify.com/track/0ul12ulRfLyO5fgVvaq2Ex"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Garra De...",
-        "url": "https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 172666,
-      "name": "Cari\u00f1o Donde Andaras",
-      "url": "https://open.spotify.com/track/5yAD0PU10aCA2ZNH14HvV4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Tahur",
         "url": "https://open.spotify.com/album/1FAPxcTXS6hsQGJn9rdOOo"
       },
@@ -791,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Dos Plebes",
+        "url": "https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 210853,
+      "name": "Los Dos Plebes",
+      "url": "https://open.spotify.com/track/0ul12ulRfLyO5fgVvaq2Ex"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Realidades",
         "url": "https://open.spotify.com/album/63Nbjb3cTqZVBuAHVOx411"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 197133,
       "name": "La Bala",
       "url": "https://open.spotify.com/track/50H4ZUUhL8MLHCw1eREp07"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Garra De...",
+        "url": "https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 172666,
+      "name": "Cari\u00f1o Donde Andaras",
+      "url": "https://open.spotify.com/track/5yAD0PU10aCA2ZNH14HvV4"
     },
     {
       "added_at": null,

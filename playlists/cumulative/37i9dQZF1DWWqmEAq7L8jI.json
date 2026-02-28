@@ -288,7 +288,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 195431,
       "name": "Abraz\u00e1ndonos",
       "url": "https://open.spotify.com/track/22eWPYjQKppTSuiWgEhk9w"
@@ -434,10 +434,28 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 158811,
       "name": "Ajo y agua",
       "url": "https://open.spotify.com/track/56n6vTGk13eRUimIfcN8Ue"
+    },
+    {
+      "album": {
+        "name": "Algo de m\u00ed",
+        "url": "https://open.spotify.com/album/7mUyUHgpceqFrbVqKnyoqm"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181914,
+      "name": "Algo de m\u00ed",
+      "url": "https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE"
     },
     {
       "album": {
@@ -746,6 +764,24 @@
       "duration_ms": 185146,
       "name": "Arcade",
       "url": "https://open.spotify.com/track/1J14CdDAvBTE1AJYUOwl6C"
+    },
+    {
+      "album": {
+        "name": "Armas",
+        "url": "https://open.spotify.com/album/49drLOUMTy9XdQTdGdnvwI"
+      },
+      "artists": [
+        {
+          "name": "Santiago Saez",
+          "url": "https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169014,
+      "name": "Armas",
+      "url": "https://open.spotify.com/track/0oVDfGZi67xpD3KDjA1iyl"
     },
     {
       "album": {
@@ -1631,6 +1667,28 @@
     },
     {
       "album": {
+        "name": "CUANDO ES CON VOS",
+        "url": "https://open.spotify.com/album/1yqDhZa1XEY1pcYCnoSW84"
+      },
+      "artists": [
+        {
+          "name": "Ele Mariani",
+          "url": "https://open.spotify.com/artist/4E4wkESgUKE5VTB9zo308S"
+        },
+        {
+          "name": "Rosario Ortega",
+          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188757,
+      "name": "CUANDO ES CON VOS",
+      "url": "https://open.spotify.com/track/5PvzYLe95r3PG8MecvWZEq"
+    },
+    {
+      "album": {
         "name": "Cuando Estamos T\u00fa Y Yo",
         "url": "https://open.spotify.com/album/1DH8vPGBYBcmzTg0TGKotF"
       },
@@ -1700,7 +1758,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 229729,
       "name": "cuando pase la tormenta - Spotify Sessions",
       "url": "https://open.spotify.com/track/1wDzdboT18AyCJpRxXPW70"
@@ -3600,7 +3658,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 155336,
       "name": "La Culpa",
       "url": "https://open.spotify.com/track/7utYog86xeuAgtOvG1Xer5"
@@ -4669,6 +4727,24 @@
     },
     {
       "album": {
+        "name": "me equivoqu\u00e9",
+        "url": "https://open.spotify.com/album/4iC2ZbWB8jvsanQxMYRMm5"
+      },
+      "artists": [
+        {
+          "name": "Morena",
+          "url": "https://open.spotify.com/artist/5aLdbUjX00uHsIQrciD85d"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172333,
+      "name": "me equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/0PeDuHyJb36Ni0hDTK0NNE"
+    },
+    {
+      "album": {
         "name": "Me Lo Buscaba",
         "url": "https://open.spotify.com/album/2IVXBERYwbNGxZOFkcHuCg"
       },
@@ -4760,6 +4836,24 @@
       "duration_ms": 173671,
       "name": "Menos Diez",
       "url": "https://open.spotify.com/track/4ENjCgsNkv8JxJUzQ8gfFo"
+    },
+    {
+      "album": {
+        "name": "Espero podamos ver un ovni juntxs",
+        "url": "https://open.spotify.com/album/26zRJsRXT7Svk3SdPk9phT"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167236,
+      "name": "Mi Chica",
+      "url": "https://open.spotify.com/track/3kloO0cxNbUHSvC0oTY9Uc"
     },
     {
       "album": {
@@ -5418,7 +5512,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 165582,
       "name": "Nostalgia - Spotify Sessions",
       "url": "https://open.spotify.com/track/4VA3a9MKcaBI9Ou4U3xdub"
@@ -5578,7 +5672,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 227000,
       "name": "OTRA VEZ",
       "url": "https://open.spotify.com/track/4Sk1A34oQ8mVlAc2nTZuvw"
@@ -6206,7 +6300,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 177424,
       "name": "Punta Cana",
       "url": "https://open.spotify.com/track/32P3ttk6jXldT6UQs8cDOv"
@@ -7801,6 +7895,24 @@
     },
     {
       "album": {
+        "name": "Tu C\u00e1rcel",
+        "url": "https://open.spotify.com/album/614rbDLa3xPz4aeZCqfTzv"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216149,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/0b55EHxWx8ylntHOJwPZrC"
+    },
+    {
+      "album": {
         "name": "Tu Juguete",
         "url": "https://open.spotify.com/album/3gJxayEXCX2WpKpuoqIAK7"
       },
@@ -8140,7 +8252,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 253243,
       "name": "Vamos Viendo",
       "url": "https://open.spotify.com/track/65Iaqqf1cr5GlUxtUnfWAt"

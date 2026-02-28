@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Foo Fighters along with the hottest alternative songs right now.\n",
+  "description": "Gorillaz along with the hottest alternative songs right now.\n",
   "name": "ALT NOW",
   "tracks": [
     {
@@ -2722,7 +2722,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 172402,
       "name": "Can I Call You in the Morning?",
       "url": "https://open.spotify.com/track/6QqGnsM0pQrsG5O1QQaTYY"
@@ -2906,6 +2906,28 @@
       "duration_ms": 164693,
       "name": "Carsick",
       "url": "https://open.spotify.com/track/0vk4PPSvobFbKhnAPro0ju"
+    },
+    {
+      "album": {
+        "name": "Catch A Wave",
+        "url": "https://open.spotify.com/album/2NUGRVibcn0AFYbE90ULXh"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Makua",
+          "url": "https://open.spotify.com/artist/7pQXV7o6wsKQgdEeomlBca"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170450,
+      "name": "Catch A Wave",
+      "url": "https://open.spotify.com/track/2bGU2ScfsMGIH5GklLmUvL"
     },
     {
       "album": {
@@ -3100,7 +3122,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 322066,
       "name": "City Walls",
       "url": "https://open.spotify.com/track/0Ji9UonfwC90rbZ4IaQhOb"
@@ -3400,7 +3422,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 238930,
       "name": "Count The Ways",
       "url": "https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs"
@@ -4772,6 +4794,24 @@
       "duration_ms": 196466,
       "name": "Dummy",
       "url": "https://open.spotify.com/track/2Bc4O6c1kI99Ug2Xnv4RAI"
+    },
+    {
+      "album": {
+        "name": "Dying To Love",
+        "url": "https://open.spotify.com/album/46UaOs7CHiOPGGdxUtWvcj"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256965,
+      "name": "Dying To Love",
+      "url": "https://open.spotify.com/track/1TPdMmb92BoWvDFQlCuVl0"
     },
     {
       "album": {
@@ -6515,6 +6555,24 @@
     },
     {
       "album": {
+        "name": "Headlights",
+        "url": "https://open.spotify.com/album/4THWniSbWSlVrQbV37XhGQ"
+      },
+      "artists": [
+        {
+          "name": "In Color",
+          "url": "https://open.spotify.com/artist/7zNEP2UROEGrRn43h46zTk"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169927,
+      "name": "Headlights",
+      "url": "https://open.spotify.com/track/7G2u32iWqPhkg2u1z4WCZP"
+    },
+    {
+      "album": {
         "name": "HEARTBREAK",
         "url": "https://open.spotify.com/album/3MLBJ0dE7gNUtDvxPL0T91"
       },
@@ -6868,7 +6926,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 224532,
       "name": "Hole In The Ground",
       "url": "https://open.spotify.com/track/4mRKcykc3JeCSpZjW4zr7a"
@@ -11477,6 +11535,36 @@
     },
     {
       "album": {
+        "name": "The Mountain",
+        "url": "https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Kara Jackson",
+          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
+        },
+        {
+          "name": "Anoushka Shankar",
+          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208461,
+      "name": "Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
+      "url": "https://open.spotify.com/track/4HnBNOfnPYCgRzB1dcAi3x"
+    },
+    {
+      "album": {
         "name": "Ordinary Creature",
         "url": "https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln"
       },
@@ -13142,7 +13230,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 180040,
       "name": "Sailboat (feat. chloe moriondo)",
       "url": "https://open.spotify.com/track/6Mr6xOUz5beVAGwOS31NkA"
@@ -13986,6 +14074,24 @@
       "duration_ms": 187140,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv"
+    },
+    {
+      "album": {
+        "name": "Slumber Party",
+        "url": "https://open.spotify.com/album/00t69Vno7qzoiT21WCzpnz"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Calls Me Baby",
+          "url": "https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241483,
+      "name": "Slumber Party",
+      "url": "https://open.spotify.com/track/1HG6WZVTLQQh6VmEojUMM0"
     },
     {
       "album": {
@@ -15948,7 +16054,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 284775,
       "name": "The Happy Dictator (feat. Sparks)",
       "url": "https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d"
@@ -16590,7 +16696,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 294773,
       "name": "This is the Killer Speaking",
       "url": "https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX"
@@ -19210,10 +19316,32 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 239582,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/2iWsTTbLNy658UrUR14T9k"
+    },
+    {
+      "album": {
+        "name": "Idols (Complete)",
+        "url": "https://open.spotify.com/album/0cUFNGzV90YdrBfTBjxjjM"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239582,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/3MWnkk6VCIuaqaRkqKUehB"
     },
     {
       "album": {

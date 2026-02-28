@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAABl5yEzjBBY7qYC0jl03bYC",
+  "snapshot_id": "aZ+NAAAAAABsSeGlYwVsgmI8zHfJJX/1",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Polar: Dusk",
-        "url": "https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 80283,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/47caeqiQrooGZeuz7YjuBh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Orchestral Works",
         "url": "https://open.spotify.com/album/6fJIhLghRJNCVWbmRWObn3"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 167980,
       "name": "Staircase Sonata - Orchestral Works Version",
       "url": "https://open.spotify.com/track/32Brjv8Q9forZaMZQnrRKr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Polar: Dusk",
+        "url": "https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 80283,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/47caeqiQrooGZeuz7YjuBh"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Polar: Abyss",
-        "url": "https://open.spotify.com/album/2a4WPp12TfPTIhzqFcpRaa"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 164199,
-      "name": "Vestige",
-      "url": "https://open.spotify.com/track/5LnDh3txdYyfnQ1PtDjLHd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lullabies for Piano and Cello (Deluxe)",
         "url": "https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 143212,
       "name": "Or\u00edensa",
       "url": "https://open.spotify.com/track/3Jbzf2RqGzxmkKs1OVPIHS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Polar: Abyss",
+        "url": "https://open.spotify.com/album/2a4WPp12TfPTIhzqFcpRaa"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 164199,
+      "name": "Vestige",
+      "url": "https://open.spotify.com/track/5LnDh3txdYyfnQ1PtDjLHd"
     },
     {
       "added_at": null,
@@ -548,15 +548,15 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 223905,
-      "name": "Think of Home",
-      "url": "https://open.spotify.com/track/3GaMsHpv1JA8OXGysbRtv9"
+      "duration_ms": 198946,
+      "name": "Filma",
+      "url": "https://open.spotify.com/track/3dXWzjmmYSHwWQKSGhy9gQ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Piano Works",
-        "url": "https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq"
+        "name": "Polar",
+        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 103790,
-      "name": "L\u00f3a (variation)",
-      "url": "https://open.spotify.com/track/38Cb1bZ7D9HYUA1iqpxDkq"
+      "duration_ms": 156229,
+      "name": "Whale Variation",
+      "url": "https://open.spotify.com/track/4mtS9zsFo6OPcxwQOWfKau"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Polar",
-        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
+        "name": "Piano Works",
+        "url": "https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 156229,
-      "name": "Whale Variation",
-      "url": "https://open.spotify.com/track/4mtS9zsFo6OPcxwQOWfKau"
+      "duration_ms": 80085,
+      "name": "Flatey",
+      "url": "https://open.spotify.com/track/5xrtUpX3QnFgGIAXdYAY3r"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solon Islandus (Deluxe)",
-        "url": "https://open.spotify.com/album/70KIVTNVTj77svaPJ3C9za"
+        "name": "Lullabies for Piano and Cello (Deluxe)",
+        "url": "https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 148722,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/78JjHDD0w2iymv4dJquhLs"
+      "duration_ms": 103698,
+      "name": "Nokt\u00farna Variation",
+      "url": "https://open.spotify.com/track/4AnUtAQBpd8S8woFEqVgzL"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lullabies for Piano and Cello (Deluxe)",
-        "url": "https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3"
+        "name": "Solon Islandus (Deluxe)",
+        "url": "https://open.spotify.com/album/70KIVTNVTj77svaPJ3C9za"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 103698,
-      "name": "Nokt\u00farna Variation",
-      "url": "https://open.spotify.com/track/4AnUtAQBpd8S8woFEqVgzL"
+      "duration_ms": 148722,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/78JjHDD0w2iymv4dJquhLs"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
       "duration_ms": 98000,
       "name": "Hind - Voiceless - Harpa Sessions",
       "url": "https://open.spotify.com/track/35Azev1VFQXlLPmouKU2Z5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lullabies for Piano and Cello (Deluxe)",
+        "url": "https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 171564,
+      "name": "Fantas\u00eda Variation",
+      "url": "https://open.spotify.com/track/1mGI0euU3McUKLk4SJGfC2"
     },
     {
       "added_at": null,
@@ -727,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lullabies for Piano and Cello (Deluxe)",
-        "url": "https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 171564,
-      "name": "Fantas\u00eda Variation",
-      "url": "https://open.spotify.com/track/1mGI0euU3McUKLk4SJGfC2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Polar: Abyss",
         "url": "https://open.spotify.com/album/2a4WPp12TfPTIhzqFcpRaa"
       },
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Polar",
-        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 278298,
-      "name": "The Waves",
-      "url": "https://open.spotify.com/track/4MlRPfn6fTD1RIr3Auvh4r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ocean Variation",
         "url": "https://open.spotify.com/album/5TfoPVjU9j0mlP5eqfgL5z"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 108250,
       "name": "Ocean Variation",
       "url": "https://open.spotify.com/track/3Qr0Ny1ZksAnCBiGOM5tBG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Polar",
+        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 278298,
+      "name": "The Waves",
+      "url": "https://open.spotify.com/track/4MlRPfn6fTD1RIr3Auvh4r"
     },
     {
       "added_at": null,
@@ -843,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Polar",
-        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
+        "name": "Polar: Dusk",
+        "url": "https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 232617,
-      "name": "Vortex",
-      "url": "https://open.spotify.com/track/5qoHDfPRYh5K6scKLkm7xh"
+      "duration_ms": 115364,
+      "name": "Ocean Variation II",
+      "url": "https://open.spotify.com/track/1ql9vbXw8QSYvJfudDpmuj"
     }
   ],
   "unique_name": "This Is Gabr\u00edel \u00d3lafs",

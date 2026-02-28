@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 
 > This is El Fantasma\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,611 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,624 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 | 30 | [El Mes de Mayo](https://open.spotify.com/track/6YYh0uf1CI0gQxlVScpZw4) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Circo](https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq) | 2:47 |
 | 31 | [Hombre de Rancho](https://open.spotify.com/track/59IyKRSgCwLyKS3e46TlYM) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Dolor y Amor](https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT) | 2:35 |
 | 32 | [Catarino y los Rurales](https://open.spotify.com/track/3KXnVMFgHKnJFkoot8yJBU) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Pa' los Recuerdos, Vol\. 2](https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH) | 2:32 |
-| 33 | [⁠Claro y Recio](https://open.spotify.com/track/2dkH0M3yNXMws83joTlFxL) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Claro y Recio](https://open.spotify.com/album/64kBABukozvsMCIJlr17BH) | 2:45 |
-| 34 | [En Esta Vida](https://open.spotify.com/track/7joCaTxiKe7olUY4aQRSN4) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [En El Camino](https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M) | 2:33 |
+| 33 | [En Esta Vida](https://open.spotify.com/track/7joCaTxiKe7olUY4aQRSN4) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [En El Camino](https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M) | 2:33 |
+| 34 | [⁠Claro y Recio](https://open.spotify.com/track/2dkH0M3yNXMws83joTlFxL) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Claro y Recio](https://open.spotify.com/album/64kBABukozvsMCIJlr17BH) | 2:45 |
 | 35 | [Yo Nací Pa' Ser Jefe](https://open.spotify.com/track/7p4N0DpozMSO7InGOGLO4x) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Yo Nací Pa' Ser Jefe](https://open.spotify.com/album/7q7BpDLt0lsEQIv6MyGqsa) | 2:48 |
 | 36 | [Seré un Borracho](https://open.spotify.com/track/05N3MEYth8csmsuRVwj18k) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Pa' los Recuerdos, Vol\. 2](https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH) | 1:44 |
 | 37 | [Las Verdades \- En Vivo](https://open.spotify.com/track/7qdsBTWEGQLeY927NgmqsA) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Banda los Populares del Llano](https://open.spotify.com/artist/2lZQRzi0ru5O82CCXxpMAr) | [Vengo a Aclarar \(En Vivo\)](https://open.spotify.com/album/1OJEkIPywlcNiuCzmXE9Lj) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 | 49 | [El Selectivo](https://open.spotify.com/track/3XSEYfxNxAkTgmPSQeJgnA) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Selectivo](https://open.spotify.com/album/2ZNSAHSv7PttcfGTfooL7s) | 3:07 |
 | 50 | [Las Bendiciones](https://open.spotify.com/track/2wiTP6kEXPjnNNWNwzYTMH) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cabrones y Vagos](https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1) | 3:02 |
 
-Snapshot ID: `aZ47gAAAAAA0zSNhe+GYzGHEowyl14o/`
+Snapshot ID: `aZ+NAAAAAACIfTa/gR1jw2r5JOpl+tJv`

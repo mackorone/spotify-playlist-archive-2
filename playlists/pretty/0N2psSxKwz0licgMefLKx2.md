@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0N2psSxKwz0licgMefLKx2.md) - [plain]
 
 > The biggest Country hits of the year! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Owen Riegling
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 11,101 likes - 80 songs - 4 hr 17 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 11,101 likes - 81 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,5 +88,6 @@ pretty - [cumulative](/playlists/cumulative/0N2psSxKwz0licgMefLKx2.md) - [plain]
 | 78 | [Outskirts](https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Outskirts](https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh) | 3:02 |
 | 79 | [Single Again](https://open.spotify.com/track/2fKAG7MnnFDrQERDAzSztc) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Single Again](https://open.spotify.com/album/6b0zmV6vwUV9Jrwo5FiF0P) | 2:59 |
 | 80 | [Wind Up Missin’ You](https://open.spotify.com/track/7iQMm50NNwlUIRWhONZR2k) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Wind Up Missin’ You](https://open.spotify.com/album/4PphroUvQrXLzeLQKEtZOj) | 2:46 |
+| 81 | [Like God Intended](https://open.spotify.com/track/1dPKGWxMILRedoNtjUa8mh) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Like God Intended](https://open.spotify.com/album/3M5QPvH82Rj2aMxe5dlvp1) | 2:56 |
 
-Snapshot ID: `AAAmmZRBKJu707vJ1BFaE8IKVxkiENXO`
+Snapshot ID: `AAAmmlebSfA4+u6Bnn9qiuBwf3qhFVE4`

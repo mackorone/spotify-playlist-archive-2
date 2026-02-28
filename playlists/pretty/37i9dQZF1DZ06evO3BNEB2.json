@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 39929,
+  "num_followers": 39938,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAACL36Qd+8f4Z2lqD9AIB2Ch",
+  "snapshot_id": "aZ+NAAAAAABcrrcHIFkNP6oeHMwnKNOs",
   "tracks": [
     {
       "added_at": null,
@@ -119,26 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Beauty of Becoming",
-        "url": "https://open.spotify.com/album/1AUSfQC9x3SsqNQhFq05l7"
-      },
-      "artists": [
-        {
-          "name": "Rotimi",
-          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 185461,
-      "name": "In My Bed",
-      "url": "https://open.spotify.com/track/6XM53PbvlzhuNtJZtpl7RP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "everything is a lot.",
         "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
       },
@@ -155,6 +135,26 @@
       "duration_ms": 229112,
       "name": "Watching Us (with Leon Thomas)",
       "url": "https://open.spotify.com/track/1MWJ3pny2L1eiZTAYTaYwJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Beauty of Becoming",
+        "url": "https://open.spotify.com/album/1AUSfQC9x3SsqNQhFq05l7"
+      },
+      "artists": [
+        {
+          "name": "Rotimi",
+          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 185461,
+      "name": "In My Bed",
+      "url": "https://open.spotify.com/track/6XM53PbvlzhuNtJZtpl7RP"
     },
     {
       "added_at": null,
@@ -771,6 +771,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Folarin II",
+        "url": "https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Angles (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/36RxJoLeXSY3GdtpuzlzKg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Attention Deficit (Explicit Version)",
         "url": "https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI"
       },
@@ -795,22 +815,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Folarin II",
-        "url": "https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H"
+        "name": "Friday Night Lights",
+        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
       },
       "artists": [
         {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         },
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Angles (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/36RxJoLeXSY3GdtpuzlzKg"
+      "duration_ms": 286900,
+      "name": "You Got It (feat. Wale)",
+      "url": "https://open.spotify.com/track/1eG559Jhrn9cDBrZplGlcJ"
     },
     {
       "added_at": null,
@@ -835,46 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Friday Night Lights",
-        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 286900,
-      "name": "You Got It (feat. Wale)",
-      "url": "https://open.spotify.com/track/1eG559Jhrn9cDBrZplGlcJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ahora Tengo Todo Menos A Ti",
-        "url": "https://open.spotify.com/album/44cLix04JOwkepKq6nIUFL"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/3Nb1HMWhunuQBKfQbtY5oA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Folarin II",
         "url": "https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 183333,
       "name": "Poke It Out (feat. J. Cole)",
       "url": "https://open.spotify.com/track/0wi5NYT0upjIHOG4FWSqdH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ahora Tengo Todo Menos A Ti",
+        "url": "https://open.spotify.com/album/44cLix04JOwkepKq6nIUFL"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/3Nb1HMWhunuQBKfQbtY5oA"
     },
     {
       "added_at": null,
@@ -1039,8 +1039,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free Lunch",
-        "url": "https://open.spotify.com/album/2KWMRiVC16dYpH9VkERMOF"
+        "name": "Attention Deficit (Explicit Version)",
+        "url": "https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI"
       },
       "artists": [
         {
@@ -1048,13 +1048,13 @@
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         },
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 269657,
-      "name": "My Boy (feat. J. Cole) - Freestyle",
-      "url": "https://open.spotify.com/track/11QvWp3CsEPd0YLE6xKGyx"
+      "duration_ms": 204533,
+      "name": "Chillin",
+      "url": "https://open.spotify.com/track/2tQ4R1rTEFrorrBnQU5O5W"
     }
   ],
   "unique_name": "This Is Wale",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uv9tZ47pWo.md) - [plain]
 
 > It's all about the girls tonight.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,663,586 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,663,580 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,16 +36,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uv9tZ47pWo.md) - [plain]
 | 26 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 |
 | 27 | [boyfriend \(with Social House\)](https://open.spotify.com/track/0Ryd8975WihbObpp5cPW1t) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Social House](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl) | [boyfriend](https://open.spotify.com/album/3zVB99XMdbP9HTVNg0GJwV) | 3:06 |
 | 28 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 |
-| 29 | [Señorita](https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Señorita](https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4) | 3:10 |
-| 30 | [Galway Girl](https://open.spotify.com/track/0afhq8XCExXpqazXczTSve) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 2:50 |
+| 29 | [Galway Girl](https://open.spotify.com/track/0afhq8XCExXpqazXczTSve) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 2:50 |
+| 30 | [Señorita](https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Señorita](https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4) | 3:10 |
 | 31 | [Circus](https://open.spotify.com/track/7jk7gqyEonmVVYahZN5zhW) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 3:12 |
 | 32 | [Shower](https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Shower](https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr) | 3:26 |
 | 33 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 |
 | 34 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 |
 | 35 | [Scared to Be Lonely](https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Scared to Be Lonely](https://open.spotify.com/album/2v9rQe4F8fVSh5v8bAq0jF) | 3:40 |
-| 36 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
+| 36 | [Ain't Shit](https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:54 |
 | 37 | [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 |
-| 38 | [Ain't Shit](https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:54 |
+| 38 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
 | 39 | [The Sweet Escape](https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Sweet Escape](https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp) | 4:06 |
 | 40 | [I Can Do It With a Broken Heart](https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:38 |
 | 41 | [Before He Cheats](https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:19 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uv9tZ47pWo.md) - [plain]
 | 64 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 |
 | 65 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 |
 | 66 | [Fight Song](https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Wildfire](https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT) | 3:24 |
-| 67 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 |
-| 68 | [Any Man Of Mine](https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:06 |
+| 67 | [Any Man Of Mine](https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:06 |
+| 68 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 |
 | 69 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 |
 | 70 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 |
 | 71 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 |

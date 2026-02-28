@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jgeSr.md) - [plain]
 
 > This is Labi Siffre\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,712 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,722 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jgeSr.md) - [plain]
 | 24 | [Somesay](https://open.spotify.com/track/7FcwlImuJKJiBJUhRmrcc9) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [For the Children \(Deluxe Edition\)](https://open.spotify.com/album/5CVLuGM12kmx16qR4rGy2u) | 2:55 |
 | 25 | [Make My Day](https://open.spotify.com/track/4oH9jEnP7CgnpYcJKfC76b) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Labi Siffre](https://open.spotify.com/album/0n2vxxav2CpuUL8LFL4jWz) | 3:03 |
 | 26 | [Talkabout](https://open.spotify.com/track/2dGUGJmo9wSRB4vmgX61lb) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer and the Song](https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH) | 2:42 |
-| 27 | [Down \- 2006 Remaster](https://open.spotify.com/track/4xGy9REHUd7RPZOEhIl9Zu) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Remember My Song](https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV) | 5:48 |
+| 27 | [Sadie and the Devil \- 2006 Remaster](https://open.spotify.com/track/2WvwMBkSC9jg5eYJ9AWXhR) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Remember My Song](https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV) | 3:53 |
 | 28 | [Pristine Verses](https://open.spotify.com/track/3OEltAYEQ0CMPi7Plafi0J) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying Laughing Loving Lying \(Deluxe Edition\)](https://open.spotify.com/album/5sFwr2JkKjNf46waqdF8KR) | 3:00 |
 | 29 | [Last Night Tonight](https://open.spotify.com/track/2JwwCsp5MwHV8JfDY3TAB3) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Labi Siffre \(Deluxe Edition\)](https://open.spotify.com/album/53G6qQDFTKytYhSKNAMINo) | 4:05 |
 | 30 | [The Life I Got](https://open.spotify.com/track/4sRNeqCO9HtszLpsMqaR53) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Last Songs](https://open.spotify.com/album/1kWpxZ7bSgK6iImNVl4PYr) | 3:57 |
-| 31 | [Sadie and the Devil \- 2006 Remaster](https://open.spotify.com/track/2WvwMBkSC9jg5eYJ9AWXhR) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Remember My Song](https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV) | 3:53 |
+| 31 | [Down \- 2006 Remaster](https://open.spotify.com/track/4xGy9REHUd7RPZOEhIl9Zu) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Remember My Song](https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV) | 5:48 |
 | 32 | [Listen to the Voices](https://open.spotify.com/track/6eyKldvrtmRfTyie4i6lY5) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [So Strong](https://open.spotify.com/album/1eY6wnXsy13mXFzMyP5Iuk) | 4:29 |
 | 33 | [Prayer](https://open.spotify.com/track/7eR1obV7V8atMmC9Sse7MR) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [For the Children \(Deluxe Edition\)](https://open.spotify.com/album/5CVLuGM12kmx16qR4rGy2u) | 1:58 |
 | 34 | [To Find Love](https://open.spotify.com/track/5LztLV2HEE7H5pjhiTD6FN) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying Laughing Loving Lying \(Deluxe Edition\)](https://open.spotify.com/album/5sFwr2JkKjNf46waqdF8KR) | 2:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jgeSr.md) - [plain]
 | 49 | [I'm Alright](https://open.spotify.com/track/5CQftpQA5NjF1aZbuZvXuR) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [So Strong](https://open.spotify.com/album/1eY6wnXsy13mXFzMyP5Iuk) | 5:08 |
 | 50 | [Children of Children](https://open.spotify.com/track/6hNw6Q5zCfCJzp1SdZJdtC) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [For the Children \(Deluxe Edition\)](https://open.spotify.com/album/5CVLuGM12kmx16qR4rGy2u) | 6:32 |
 
-Snapshot ID: `aZ47gAAAAADnr9ZuH8AR5QLprNr4IkCd`
+Snapshot ID: `aZ+NAAAAAAAN+7hIEdUZpe8b5K7Gw2nF`

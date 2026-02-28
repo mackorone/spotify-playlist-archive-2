@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Hindi hai, Indie hai! Cover- Kushagra & Tanishka Bahl\n",
+  "description": "Hindi hai, Indie hai! Cover- Ankur Tewari\n",
   "name": "hIndies",
   "tracks": [
     {
@@ -948,6 +948,28 @@
       "duration_ms": 103264,
       "name": "Chaand Baaliyan",
       "url": "https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ"
+    },
+    {
+      "album": {
+        "name": "Chand Takiye",
+        "url": "https://open.spotify.com/album/5mpSOm6MdLFjIJvSfFffyy"
+      },
+      "artists": [
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        },
+        {
+          "name": "Kausar Munir",
+          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Chand Takiye",
+      "url": "https://open.spotify.com/track/6uIo39yycBdxv1MHPOmUS4"
     },
     {
       "album": {
@@ -3678,7 +3700,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 154616,
       "name": "Maan Jao",
       "url": "https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C"

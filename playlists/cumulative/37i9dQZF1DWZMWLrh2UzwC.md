@@ -2,9 +2,9 @@
 
 ### [New Music Friday Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWZMWLrh2UzwC)
 
-> New music from Bruno Mars, Dato' Sri Siti Nurhaliza, Black Hanifah, laufey, RAYE  and more!
+> New music from Bruno Mars, BLACKPINK, Dato' Sri Siti Nurhaliza, Black Hanifah, laufey, RAYE  and more!
 
-20,068 songs - 46 day 3 hr 27 min
+20,073 songs - 46 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4697,6 +4697,7 @@
 | [Emotion](https://open.spotify.com/track/68mCWJL6JLgiL1yc80Kx2N) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Circles](https://open.spotify.com/album/4gvbVGjDrPt4Y51tmGpjy1) | 2:37 | 2022-05-05 | 2022-05-13 |
 | [Emotional Virgin](https://open.spotify.com/track/2kbPG4jEgVqDjT0jhOwj6r) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [Emotional Virgin](https://open.spotify.com/album/3DqsE0H3SgT7LnglRjxYw0) | 3:10 | 2025-09-18 | 2025-09-26 |
 | [Emotions](https://open.spotify.com/track/0OFHaWfjf0pHNPJ0WpRwp2) | [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [Emotions](https://open.spotify.com/album/65eCg0hcp4tYPApfaYvL1B) | 3:19 | 2023-06-01 | 2023-06-09 |
+| [EMOTIONS](https://open.spotify.com/track/5xG8q1HN3zJFVml6lttUbK) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [EMOTIONS](https://open.spotify.com/album/3qNHVdG5XAa63qdiLm6LzR) | 3:23 | 2026-02-26 |  |
 | [Empathy Is A Bitch](https://open.spotify.com/track/3rN80CLfrEi26u7CUAouvu) | [Gavendri](https://open.spotify.com/artist/3EMLBUicqUKN1tBFUj718w) | [Empathy Is A Bitch](https://open.spotify.com/album/4HVF74ywAlmQFeUoidzraU) | 3:07 | 2023-10-05 | 2023-10-13 |
 | [Empire](https://open.spotify.com/track/2cnJ7OVVT5520sNo9vDhMH) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Empire](https://open.spotify.com/album/3bfDYcUq5kP93Vr34hYYJb) | 3:04 | 2024-10-17 | 2024-10-25 |
 | [Emptiness](https://open.spotify.com/track/55W3ONBbW98Cqvk0ZIoaKR) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Emptiness](https://open.spotify.com/album/7Iipt9N6AEqCDHy73xPVtU) | 3:06 | 2024-03-28 | 2024-04-05 |
@@ -6034,6 +6035,7 @@
 | [GMT](https://open.spotify.com/track/7edS2WLGBDCqpNAsDdtJb2) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [GMT](https://open.spotify.com/album/1DxcIuPG0YT1kcPXOkdYL1) | 3:08 | 2022-07-07 | 2022-07-15 |
 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 | 2025-05-01 | 2025-05-09 |
 | [gnx \(feat\. hitta j3, youngthreat, peysoh\)](https://open.spotify.com/track/3aZptNYC6Z1YoumeqZcDcQ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Hitta J3](https://open.spotify.com/artist/50DchbKTiJU56SYmIRSJCI), [YoungThreat](https://open.spotify.com/artist/1q2nUylEqrRJkiDkXa39Mw), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:13 | 2024-11-29 | 2024-12-06 |
+| [GO](https://open.spotify.com/track/0mYa3o6tlUN5HRippmKmwH) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/2SrWldMz9dfCB7kAGQNbcC) | 3:15 | 2026-02-27 |  |
 | [Go](https://open.spotify.com/track/6NPFZEuq1KbsgeFEh5hXBv) | [Khodi](https://open.spotify.com/artist/2e3lW79sSCTJmE9U5AcYFE) | [Khodi](https://open.spotify.com/album/67ynSjH6SR6MwqBa7u4w3d) | 2:40 | 2024-10-31 | 2024-11-08 |
 | [go \(feat\. Sam Smith\)](https://open.spotify.com/track/0dkPo2Tvo0PhGJaUAvk4pC) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [go \(feat\. Sam Smith\)](https://open.spotify.com/album/3zTbB7N63JZkS6I6zuooMs) | 3:35 | 2022-06-09 | 2022-06-17 |
 | [Go Around](https://open.spotify.com/track/344682dEszsdZqQS4vYuUr) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Go Around](https://open.spotify.com/album/6xUvrvbSTXnEIRPKOGnhJh) | 3:23 | 2022-08-18 | 2022-08-26 |
@@ -8755,6 +8757,7 @@
 | [Ketipak Ketipung Raya](https://open.spotify.com/track/7eaCFseO4fOljCMxLTM5ta) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy), [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [Ketipak Ketipung Raya](https://open.spotify.com/album/1rP89pooj6Y82ZCylqUzX6) | 2:30 | 2024-03-21 | 2024-03-29 |
 | [Kewpid](https://open.spotify.com/track/0mxKq6T6Yd0iGbJ4n0QEBF) | [Javi That's Me](https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W) | [Strawberry](https://open.spotify.com/album/2k4BOhOjINPaPn2foFTpNk) | 3:34 | 2024-07-11 | 2024-07-19 |
 | [Key To The City](https://open.spotify.com/track/3QAT8Y88JqW2nZWFYots94) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Key To The City](https://open.spotify.com/album/1iv4L6ZunwwdI1wbvdYH4L) | 3:40 | 2022-09-08 | 2022-09-16 |
+| [Keychain \- FROM THE FILM K\-POPS!](https://open.spotify.com/track/3Q3WZ7sJLoIZQKY7hWFyQu) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Keychain \(FROM THE FILM K\-POPS!\)](https://open.spotify.com/album/58x92u1JINTa5K7lTzfU02) | 2:50 | 2026-02-27 |  |
 | [Khalifa's Home](https://open.spotify.com/track/6ROTA3lkjQudJ9i7kAvXqT) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Khalifa's Home](https://open.spotify.com/album/3om460mPhxDHzYRN25nEI4) | 2:48 | 2024-10-17 | 2024-10-25 |
 | [Khayalan](https://open.spotify.com/track/7yGXnifGcP6HRBE6Zpsv9l) | [Naqiu](https://open.spotify.com/artist/6LOlfo8JBHjgw8P0vKKH2D) | [Khayalan](https://open.spotify.com/album/0a6iKATNcekr15Njbz6avA) | 4:06 | 2025-01-23 | 2025-01-31 |
 | [Khianati](https://open.spotify.com/track/6wyzbENbZR6ql9UrZZPHV7) | [Iman Troye](https://open.spotify.com/artist/1Jvj122gN1QiaYUrNhn3Fq) | [Khianati](https://open.spotify.com/album/3iuxO266zwOL454eYbdjvZ) | 3:53 | 2025-11-06 | 2025-11-14 |
@@ -13736,6 +13739,7 @@
 | [SAME PLACE](https://open.spotify.com/track/2wqB9l07hjkM1Vc0dXIVQD) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1) | [SAME PLACE / WRONG?](https://open.spotify.com/album/0DETlJ7j47yaVkENOWYJV4) | 3:45 | 2023-02-23 | 2023-03-03 |
 | [Same Problems?](https://open.spotify.com/track/3jpZwYrDbX2lQMhHwXjyUD) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Same Problems?](https://open.spotify.com/album/3MwuzX0j37H9SYVH78Oavt) | 4:22 | 2023-01-19 | 2023-01-27 |
 | [Same Scent](https://open.spotify.com/track/0eG3b2T3SXtPAhD9LLm8xA) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [MALUS](https://open.spotify.com/album/5VlLXq5wH22O8D5hBYWqAp) | 3:12 | 2022-09-08 | 2022-09-16 |
+| [Same Sky](https://open.spotify.com/track/3bCRaajNv2J9wH0xQjiQTY) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Same Sky](https://open.spotify.com/album/5w10bOkr3HsPSp0nl1R0ff) | 3:04 | 2026-02-27 |  |
 | [Same Sunrise](https://open.spotify.com/track/4pJY4C94npAvpBbRqEh3zA) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [Same Sunrise](https://open.spotify.com/album/7DkaKreruueKqkN2IjfHem) | 3:31 | 2022-11-10 | 2022-11-18 |
 | [Sampai Akhir Nanti](https://open.spotify.com/track/07GMNexLH1ndtsV4OyfHvQ) | [Nazuwan Amran](https://open.spotify.com/artist/6d36PRHJPESlBc9jiqO4H3) | [Sampai Akhir Nanti](https://open.spotify.com/album/19vtSUNDHGxT63Xv6tr9kj) | 3:57 | 2025-07-10 | 2025-07-18 |
 | [Sampai Bertemu Lagi](https://open.spotify.com/track/0nXp170HMJr7a5Zj1uU5As) | [Anneth](https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW) | [Sampai Bertemu Lagi](https://open.spotify.com/album/7MrqprT4KZWTzdXYLseZuE) | 4:11 | 2024-10-10 | 2024-10-18 |
@@ -15873,7 +15877,7 @@
 | [Tell Me](https://open.spotify.com/track/6M75leItrt9rLxDLv7Sd3d) | [The Cold Cut Duo](https://open.spotify.com/artist/2DTsDKcc0bncHTxrr2WgiW) | [Tell Me](https://open.spotify.com/album/2Klp3W14R2Ymspkw7OcSwR) | 3:15 | 2024-07-11 | 2024-07-19 |
 | [Tell Me](https://open.spotify.com/track/1KUAOJkgvMmDHxlR1juKUz) | [Thy Howler](https://open.spotify.com/artist/2Kr78QLQVRSpFReViapiXf) | [Tell Me](https://open.spotify.com/album/50jCSM4BevONqu1g9I6cnE) | 3:57 | 2025-03-13 | 2025-03-21 |
 | [Tell Me \(feat\. ikkubaru\)](https://open.spotify.com/track/0CADqD68QbiDuGkIGBusP4) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3), [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Tell Me \(feat\. ikkubaru\)](https://open.spotify.com/album/1GXu9yIAipEhNmkJNU0tzq) | 3:20 | 2024-11-07 | 2024-11-15 |
-| [Tell Me It Ain't Over](https://open.spotify.com/track/50m3JU4UKyu1pr4y7jWjfg) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Lovesick Sentimental](https://open.spotify.com/album/3Z63UdA9vBK8yhmhwqkEY2) | 4:48 | 2026-02-26 |  |
+| [Tell Me It Ain't Over](https://open.spotify.com/track/50m3JU4UKyu1pr4y7jWjfg) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Lovesick Sentimental](https://open.spotify.com/album/3Z63UdA9vBK8yhmhwqkEY2) | 4:49 | 2026-02-26 |  |
 | [Tell me it is love](https://open.spotify.com/track/2W0Arp2uDkmX2mnkEMfVbh) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [With All My Heart](https://open.spotify.com/album/1MFN0JrE64TkeRjxMIntg3) | 3:14 | 2024-01-11 | 2024-01-19 |
 | [Tell Me Of A Place](https://open.spotify.com/track/7mnYc5W92mfKM3PordHDQP) | [Aishia](https://open.spotify.com/artist/4gwVG6OEO2siLODtf7vv6T) | [Tell Me Of A Place](https://open.spotify.com/album/1FajJiiUIl99Q72UrlgBWO) | 3:56 | 2023-06-22 | 2023-06-30 |
 | [tell me something](https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [tell me something](https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn) | 3:57 | 2025-05-22 | 2025-05-30 |
@@ -16603,6 +16607,7 @@
 | [Tinggal \(Original Soundtrack 'Tinggal Meninggal'\)](https://open.spotify.com/track/0nB7Hp6aOlc5Gh3Iq7cwzP) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Tinggal \(Original Soundtrack 'Tinggal Meninggal'\)](https://open.spotify.com/album/7tpWC5cXqD0ejf9UyyR65H) | 3:55 | 2025-06-05 | 2025-06-13 |
 | [Tinggal Kenangan](https://open.spotify.com/track/0QSQRTxRr5NMCi0hcsLLoQ) | [Shila Amzah](https://open.spotify.com/artist/6lrBGrd0TJMQxfzSdPAn3X) | [SA25](https://open.spotify.com/album/5excjBxeTtVfZTFpueZVM3) | 3:59 | 2025-11-27 | 2025-12-05 |
 | [Tinggalkan Luka](https://open.spotify.com/track/1Id2FlmtDzWU9l3XjO7kJI) | [Roziana Cindy](https://open.spotify.com/artist/1LiIxFB0LGjLU6F8sklLdh) | [Tinggalkan Luka](https://open.spotify.com/album/5Vw5hQUkNu7QQaIoPalSHp) | 4:31 | 2025-04-24 | 2025-05-02 |
+| [Tiny Light](https://open.spotify.com/track/0r4WKpapZS9Fit7iJr3XM1) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Tiny Light](https://open.spotify.com/album/29itUVO9h0qMhglTVctEQD) | 3:27 | 2026-02-27 |  |
 | [tiny little titties](https://open.spotify.com/track/09jmvYB5lVdvLeKxkjtCcW) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [serious person \(part 1\)](https://open.spotify.com/album/6gg1EATMm8D7SM4YxPnXZ4) | 3:04 | 2023-06-01 | 2023-06-09 |
 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 | 2024-01-18 | 2024-01-26 |
 | [Tip toe](https://open.spotify.com/track/0N0bRL7uucmz8EHrqukYLv) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj) | [Tiptoe](https://open.spotify.com/album/3ZaOGN3CcaDODlENMBJLIj) | 2:37 | 2023-10-26 | 2023-11-03 |

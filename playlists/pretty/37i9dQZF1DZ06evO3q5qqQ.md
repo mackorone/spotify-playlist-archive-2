@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 
 > This is Grupo Arriesgado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,409 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,414 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 26 | [La Linea Directa \(En Vivo\)](https://open.spotify.com/track/0JOWzbC7M759dmqEm85TSM) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [A La Sombra De Un Árbol, Vol\. II \(En Vivo\)](https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM) | 2:33 |
 | 27 | [De Aqui Soy](https://open.spotify.com/track/4JB95jzbRRnCvcW4mA0Qel) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [De Aqui Soy](https://open.spotify.com/album/6LTBwWPfJVQnvMp07CP6NP) | 2:48 |
 | 28 | [Hasta La Caja Cuesta](https://open.spotify.com/track/6Wh9RDEd5wjWETZNWkwt1F) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Hasta La Caja Cuesta](https://open.spotify.com/album/4u0jPQcfzJhe0a9kwSspky) | 2:53 |
-| 29 | [La Muchacha Del Salado](https://open.spotify.com/track/7IADccjzF0mDn1du1wLZbC) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho) | 2:49 |
-| 30 | [Modo Avion](https://open.spotify.com/track/4pljc9DdwyxBPojzgHpoL4) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Modo Avion](https://open.spotify.com/album/1RV8eX7Z0Prav12ViroXxd) | 3:05 |
+| 29 | [Modo Avion](https://open.spotify.com/track/4pljc9DdwyxBPojzgHpoL4) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Modo Avion](https://open.spotify.com/album/1RV8eX7Z0Prav12ViroXxd) | 3:05 |
+| 30 | [La Muchacha Del Salado](https://open.spotify.com/track/7IADccjzF0mDn1du1wLZbC) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho) | 2:49 |
 | 31 | [El Pato Nada](https://open.spotify.com/track/63VicIXgAYX11BIS5vvfbA) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Jando Cartagena](https://open.spotify.com/artist/6I3I66EA15ZPlwE4GHsdRW) | [El Pato Nada](https://open.spotify.com/album/6nWyosgrGdpADFNBALolyt) | 2:44 |
 | 32 | [El Rápido \- En vivo](https://open.spotify.com/track/130anijBVOTasF32ZHwuJi) | [Gordo Arce](https://open.spotify.com/artist/00v3sw4z0wRS94vVPNQLU7), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [KC Music](https://open.spotify.com/artist/7akKJbX2GFFxz73zaL3zZ0) | [El Rápido \(En vivo\)](https://open.spotify.com/album/29fxzSLm7MgZ8rJz4fJOef) | 3:28 |
 | 33 | [La Pasadita \(En vivo\)](https://open.spotify.com/track/09YX9qkzkVAPnAOxdC3PFV) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/05uudYnuSJPNR6tFefx699) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 49 | [Aqui En Mi Corazon Tu Mandas](https://open.spotify.com/track/6j77T5GjC6j3oT0R45hddU) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Los Tiempos De Aguas](https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg) | 2:12 |
 | 50 | [El Mas Poderoso \(En Vivo\)](https://open.spotify.com/track/4MVkKvP7FJ4TYZY7zZ72pl) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [A La Sombra De Un Árbol, Vol\. II \(En Vivo\)](https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM) | 3:05 |
 
-Snapshot ID: `aZ47gAAAAABeO+Owf2VlkSd/A8k8kM6j`
+Snapshot ID: `aZ+NAAAAAABt4HExJdiK9ccaZpzXvaYt`

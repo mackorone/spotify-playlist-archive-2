@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 
 > Windows down, volume up\. The soundtrack to your road trip.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,172 likes - 80 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,209 likes - 80 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 | 76 | [Arm's Length](https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Arm's Length](https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn) | 3:59 |
 | 77 | [My Fun](https://open.spotify.com/track/306xT15GTuDs3NyopIANrh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [My Fun](https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob) | 2:42 |
 | 78 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 |
-| 79 | [Lazy Eye](https://open.spotify.com/track/1aDLUzCyYpRXgrjwUWzV2X) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Carnavas](https://open.spotify.com/album/2Qr40p1sv6NYrf9NPehsrO) | 5:54 |
-| 80 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 |
+| 79 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 |
+| 80 | [Lazy Eye](https://open.spotify.com/track/1aDLUzCyYpRXgrjwUWzV2X) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Carnavas](https://open.spotify.com/album/2Qr40p1sv6NYrf9NPehsrO) | 5:54 |
 
-Snapshot ID: `AAAAANnS7n5+QpfuC2GlC62JAi9dbTgk`
+Snapshot ID: `AAAAACzpLnQeIZLSZdB3yMLhFakwhAHZ`

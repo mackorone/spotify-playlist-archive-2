@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 72441,
+  "num_followers": 72454,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-01-15 16:33:26",
       "album": {
-        "name": "Back To Back",
-        "url": "https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn"
-      },
-      "artists": [
-        {
-          "name": "Alicia Myers",
-          "url": "https://open.spotify.com/artist/7v4FV3DzSUOvaZyMwTxKIG"
-        }
-      ],
-      "duration_ms": 229626,
-      "name": "I Want To Thank You",
-      "url": "https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf"
-    },
-    {
-      "added_at": "2026-01-15 16:33:26",
-      "album": {
         "name": "Off the Wall",
         "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 221112,
       "name": "Burn This Disco Out",
       "url": "https://open.spotify.com/track/6aCs8gCrp4yrwvw7ylhau2"
+    },
+    {
+      "added_at": "2026-01-15 16:33:26",
+      "album": {
+        "name": "Back To Back",
+        "url": "https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn"
+      },
+      "artists": [
+        {
+          "name": "Alicia Myers",
+          "url": "https://open.spotify.com/artist/7v4FV3DzSUOvaZyMwTxKIG"
+        }
+      ],
+      "duration_ms": 229626,
+      "name": "I Want To Thank You",
+      "url": "https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf"
     },
     {
       "added_at": "2026-01-15 16:33:26",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-01-15 16:33:26",
       "album": {
+        "name": "Go West",
+        "url": "https://open.spotify.com/album/0nEUsJwm1yIl9IyC5z8oJb"
+      },
+      "artists": [
+        {
+          "name": "Village People",
+          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
+        }
+      ],
+      "duration_ms": 340493,
+      "name": "In The Navy - Single Version",
+      "url": "https://open.spotify.com/track/3qUfFs8rW6FukRFnfRctTq"
+    },
+    {
+      "added_at": "2026-01-15 16:33:26",
+      "album": {
         "name": "Deep Grooves",
         "url": "https://open.spotify.com/album/4YmLFWoRJ18TSlw7ROIPIf"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 313906,
       "name": "Love Is the Message (feat. The Three Degrees) - Love Groove Bonus",
       "url": "https://open.spotify.com/track/3rwrt4Ks6N6EWIfjfIfLAP"
-    },
-    {
-      "added_at": "2026-01-15 16:33:26",
-      "album": {
-        "name": "Go West",
-        "url": "https://open.spotify.com/album/0nEUsJwm1yIl9IyC5z8oJb"
-      },
-      "artists": [
-        {
-          "name": "Village People",
-          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
-        }
-      ],
-      "duration_ms": 340493,
-      "name": "In The Navy - Single Version",
-      "url": "https://open.spotify.com/track/3qUfFs8rW6FukRFnfRctTq"
     },
     {
       "added_at": "2026-01-15 16:33:26",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-01-15 16:33:26",
       "album": {
-        "name": "Tommy Stewart",
-        "url": "https://open.spotify.com/album/46fNP3GBxPcKJnbUXydeuG"
-      },
-      "artists": [
-        {
-          "name": "Tommy Stewart",
-          "url": "https://open.spotify.com/artist/45aq6v1UQb6h7XOAqDgq9h"
-        }
-      ],
-      "duration_ms": 289266,
-      "name": "Fulton County Line",
-      "url": "https://open.spotify.com/track/6DNGubEO3jpZE1osALeEkn"
-    },
-    {
-      "added_at": "2026-01-15 16:33:26",
-      "album": {
         "name": "Kid Creole - Ze August Darnell Sessions (Remastered 2018)",
         "url": "https://open.spotify.com/album/06HUHbkpeBZfsVhLpZxUfJ"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 261293,
       "name": "A Night in New York - Remastered",
       "url": "https://open.spotify.com/track/3Rnj5AkLsMjZ7LCkptJHx2"
+    },
+    {
+      "added_at": "2026-01-15 16:33:26",
+      "album": {
+        "name": "Tommy Stewart",
+        "url": "https://open.spotify.com/album/46fNP3GBxPcKJnbUXydeuG"
+      },
+      "artists": [
+        {
+          "name": "Tommy Stewart",
+          "url": "https://open.spotify.com/artist/45aq6v1UQb6h7XOAqDgq9h"
+        }
+      ],
+      "duration_ms": 289266,
+      "name": "Fulton County Line",
+      "url": "https://open.spotify.com/track/6DNGubEO3jpZE1osALeEkn"
     },
     {
       "added_at": "2026-01-15 16:33:26",

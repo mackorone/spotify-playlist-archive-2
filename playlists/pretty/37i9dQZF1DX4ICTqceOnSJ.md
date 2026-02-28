@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 
 > Las canciones esenciales de la escena alternativa en español\. Con Diamante Eléctrico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,832 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,842 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 34 | [Mira cómo vuelo](https://open.spotify.com/track/0q26YkYooQjbNyNXzGcHGP) | [Miss Caffeina](https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb) | [Detroit](https://open.spotify.com/album/4OjdqmQYAJvbb7OvkdiMtT) | 3:09 |
 | 35 | [Fuego](https://open.spotify.com/track/4MvZ76WfNDmkVeQKmqzkah) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Estalla](https://open.spotify.com/album/7ffQTpHNmVmjwnU6c6Dpga) | 4:36 |
 | 36 | [Lucha De Gigantes](https://open.spotify.com/track/1ozbWlTQASs311dSO5R6vp) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Lucha De Gigantes](https://open.spotify.com/album/3qcDcfZbiPkWFXwobesAvy) | 3:26 |
-| 37 | [Eres](https://open.spotify.com/track/0GD3HmHYuyW2h1XS6Gdzt3) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Óleos](https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z) | 3:50 |
-| 38 | [El Tiempo Pasará](https://open.spotify.com/track/6t6knHmmUVGnYHqQy7lTij) | [Lori Meyers](https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi) | [Impronta](https://open.spotify.com/album/7cQBUtJwVAKluOLttrga9m) | 4:02 |
+| 37 | [El Tiempo Pasará](https://open.spotify.com/track/6t6knHmmUVGnYHqQy7lTij) | [Lori Meyers](https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi) | [Impronta](https://open.spotify.com/album/7cQBUtJwVAKluOLttrga9m) | 4:02 |
+| 38 | [Eres](https://open.spotify.com/track/0GD3HmHYuyW2h1XS6Gdzt3) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Óleos](https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z) | 3:50 |
 | 39 | [AYER TE VI \(feat\. Zoe Gotusso\)](https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [ENCHASTRE](https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7) | 3:29 |
 | 40 | [Algo Está Cambiando](https://open.spotify.com/track/5dLz5CRzW8RcNEptn0NtOi) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Amanecer](https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090) | 4:29 |
 | 41 | [Diazepam](https://open.spotify.com/track/2KrXkY8yRsncGk2kXPD4Zt) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Cuando Te Muerdes el Labio](https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4) | 3:37 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 43 | [Completamente](https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Blanco Fácil](https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt) | 4:23 |
 | 44 | [Carreteras Infinitas](https://open.spotify.com/track/2Q6qD1YTFn7NHuy2WmMGPG) | [Sidonie](https://open.spotify.com/artist/2pMVWkucVS130nJx59uAEa) | [El Peor Grupo del Mundo](https://open.spotify.com/album/2JQ398pv4WeQPslHlFzrtP) | 4:26 |
 | 45 | [Un Bossa +](https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Un Bossa +](https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o) | 1:26 |
-| 46 | [Tijuana Sound Machine](https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Tijuana Sound Machine \(Nortec Collective Presents: Bostich+Fussible\)](https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV) | 3:02 |
-| 47 | [De las Dudas Infinitas](https://open.spotify.com/track/2lfwPw1lQ2ITeneLe7xm22) | [Supersubmarina](https://open.spotify.com/artist/61C3cEhdoJ9YiQSQSwYB4K) | [Santacruz](https://open.spotify.com/album/6F0M6o2oFl8pf52SbckNWf) | 4:46 |
+| 46 | [De las Dudas Infinitas](https://open.spotify.com/track/2lfwPw1lQ2ITeneLe7xm22) | [Supersubmarina](https://open.spotify.com/artist/61C3cEhdoJ9YiQSQSwYB4K) | [Santacruz](https://open.spotify.com/album/6F0M6o2oFl8pf52SbckNWf) | 4:46 |
+| 47 | [Tijuana Sound Machine](https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Tijuana Sound Machine \(Nortec Collective Presents: Bostich+Fussible\)](https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV) | 3:02 |
 | 48 | [El Magnetismo](https://open.spotify.com/track/4u8A7x0YPkPCkC0eRM9qL7) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastía Scorpio](https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3) | 1:28 |
 | 49 | [Caótica Belleza](https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:57 |
 | 50 | [Otra Era](https://open.spotify.com/track/0D8qIsQZvrXmClkyp19Lsl) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Otra Era](https://open.spotify.com/album/1Ag7xE38iyJ4NzzbRSpvah) | 4:04 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 87 | [PUEDE SER](https://open.spotify.com/track/71bO0OsW7odKFhbjrHwM8C) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [ENCHASTRE](https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7) | 3:29 |
 | 88 | [Teoria Espacial](https://open.spotify.com/track/5VizzlCG9Dk90xauIBB0Ym) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Teoria Espacial](https://open.spotify.com/album/4Xu9USd1LkXxBAu2GETnqi) | 3:50 |
 | 89 | [Solitario](https://open.spotify.com/track/3SutSEaiANvV7SSn4TEztA) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [Balnear](https://open.spotify.com/album/0HXvHufu18kcQI2xKTFhwO) | 3:33 |
-| 90 | [Espero](https://open.spotify.com/track/05fzteOLEheflpw2UEb6LY) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [O Marineros](https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I) | 4:26 |
-| 91 | [Todo Estaba Bien](https://open.spotify.com/track/72m6x9D3NCMs2MsE4wHMIC) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Todo Estaba Bien](https://open.spotify.com/album/7KPVPMG8NmmqMsuPlQDl8P) | 3:08 |
+| 90 | [Todo Estaba Bien](https://open.spotify.com/track/72m6x9D3NCMs2MsE4wHMIC) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Todo Estaba Bien](https://open.spotify.com/album/7KPVPMG8NmmqMsuPlQDl8P) | 3:08 |
+| 91 | [Espero](https://open.spotify.com/track/05fzteOLEheflpw2UEb6LY) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [O Marineros](https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I) | 4:26 |
 | 92 | [Frequency](https://open.spotify.com/track/3NV8Q9CmBFcxryZDAJszu4) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Run..\. The Sun Is Burning All Your Hopes](https://open.spotify.com/album/1c7DoDLM0uRXXOGOE2wjes) | 3:09 |
 | 93 | [No Longer Fun](https://open.spotify.com/track/2gPCcMmgh2qM6oaKefJ6tW) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Rey Pila](https://open.spotify.com/album/1TqxGOWXOg9ds7mQicRSWS) | 3:25 |
 | 94 | [Cuestión De Suerte](https://open.spotify.com/track/6TRRirUyyil4IbMcZLFQff) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Cuestión De Suerte](https://open.spotify.com/album/7J8jJvOHBMGDHeOT7Lc15t) | 3:13 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 97 | [No vuelvo más](https://open.spotify.com/track/5cSOp6pWzatLGzCSuFDh0u) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre \[Edición Especial\]](https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq) | 4:13 |
 | 98 | [Soun Tha Mi Primer Amor \- Mtv Unplugged \(En Vivo\)](https://open.spotify.com/track/1s36ag5aYkHwoiAUGvZDPM) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Mtv Unplugged](https://open.spotify.com/album/21BcXV7FQT8LVbqOpRUHJ8) | 3:50 |
 | 99 | [Todo Terminó](https://open.spotify.com/track/5BeLLbwf4RUDccIVdzjuIh) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Who Me?](https://open.spotify.com/album/03AalHNXM2fBTryvQGw8lA) | 2:36 |
-| 100 | [El Fin del Mundo](https://open.spotify.com/track/5SeYlZyKVENMOxiSPQkKyw) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [El Fin del Mundo](https://open.spotify.com/album/4VfiuZYoSkkLs7N68l75jN) | 3:08 |
+| 100 | [Sexo Con Amor](https://open.spotify.com/track/37pK35IDidhQIDR6WORZS1) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB) | [Sultana: Manual Psicodélico del Ritmo, Vol\. 1](https://open.spotify.com/album/6e9kBJyRv3DBZbFw6cvqrZ) | 4:33 |
 
 Snapshot ID: `AAAAAA006KqGhr+G80vGK/lbpmFrEf1G`

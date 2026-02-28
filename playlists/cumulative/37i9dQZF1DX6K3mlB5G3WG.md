@@ -4,7 +4,7 @@
 
 > Serena Brancale in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-2,720 songs - 5 day 20 hr 8 min
+2,722 songs - 5 day 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [ALLEGRIA BUGIARDA](https://open.spotify.com/track/3cKi4jOsQMW8t9A7YWn1IT) | [Chiara Galiazzo](https://open.spotify.com/artist/5pJV7GdYrjU3zQpxc24kN7) | [ALLEGRIA BUGIARDA](https://open.spotify.com/album/5OjlgEK3dtC33l80Ml0dMB) | 3:21 | 2025-05-22 | 2025-06-06 |
 | [Allucinazione](https://open.spotify.com/track/6s42fEwCHQsW2KbTb58abU) | [Joan Thiele](https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5) | [Allucinazione](https://open.spotify.com/album/54CcbtH5Kq625vyy8V27XQ) | 2:52 | 2025-06-26 | 2025-07-25 |
 | [ALLUCINAZIONE COLLETTIVA](https://open.spotify.com/track/2znPPkwAfVVD7BJtqDSZqQ) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [ALLUCINAZIONE COLLETTIVA](https://open.spotify.com/album/5wY53ViB7NBbvztuRDP7se) | 2:56 | 2024-09-20 | 2024-10-11 |
+| [Almeno tu](https://open.spotify.com/track/2AognSrWnJLWnc5OUGNS6p) | [Ermal Meta](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd) | [Funzioni Vitali](https://open.spotify.com/album/4IPUuyazmb3slWXpLYuiBX) | 3:18 | 2026-02-27 |  |
 | [Almost](https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Almost](https://open.spotify.com/album/5Z3pArkP5MFDBRsjUWd6zC) | 3:40 | 2025-10-23 | 2025-11-14 |
 | [Altomare](https://open.spotify.com/track/7KECrE85Ki9lcUGNU3Uvd4) | [Salomèe](https://open.spotify.com/artist/1KlD1JXtUV44n7tdzmiXit) | [Altomare](https://open.spotify.com/album/3WNRX5w4wzDdVhr4UTZXly) | 2:46 | 2026-01-29 | 2026-02-20 |
 | [ALTOMARE](https://open.spotify.com/track/3ivx0H3d4jNPNxupsfPEVF) | [Vins](https://open.spotify.com/artist/0616g4qEGPhqPgKnzBKNir) | [ALTOMARE & WHISKY](https://open.spotify.com/album/74VQfqFIdGNkIIkIbkuPhE) | 2:49 | 2025-01-23 | 2025-02-14 |
@@ -260,7 +261,7 @@
 | [BELLA DAVVERO](https://open.spotify.com/track/1ih8OCS4EmDtSL3Do0tWIp) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [BELLA DAVVERO](https://open.spotify.com/album/4ufSiXGrmtlVKXhyDi2UEe) | 2:58 | 2025-04-17 | 2025-05-16 |
 | [BELLA MADONNINA](https://open.spotify.com/track/6hk4cRUBmCApsRNPP4DNFU) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [BELLA MADONNINA](https://open.spotify.com/album/5YlhFIV83wsndnCY4e7L3D) | 2:42 | 2025-06-05 | 2025-07-04 |
 | [Bella Mossa \(feat\. Coez\)](https://open.spotify.com/track/4VW9kBi5TB2QlhihKgP6tn) | [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Futuri Possibili](https://open.spotify.com/album/5Z4qQSYHPbYjlXS6wnEhXD) | 2:55 | 2025-03-27 | 2025-04-25 |
-| [BELLA NAPOLI](https://open.spotify.com/track/7rCpSznEWH4NCyqk7BEiNX) | [Jalisse](https://open.spotify.com/artist/054JyPM8Bn73hEcZVkqNAH), [Buitoni](https://open.spotify.com/artist/6PnEMKb7tsiaEeQV0cYdba) | [BELLA NAPOLI](https://open.spotify.com/album/2ldb9alNJybI9hKppjcNyf) | 1:18 | 2026-02-26 |  |
+| [BELLA NAPOLI](https://open.spotify.com/track/7rCpSznEWH4NCyqk7BEiNX) | [Jalisse](https://open.spotify.com/artist/054JyPM8Bn73hEcZVkqNAH), [Buitoni](https://open.spotify.com/artist/6PnEMKb7tsiaEeQV0cYdba) | [BELLA NAPOLI](https://open.spotify.com/album/2ldb9alNJybI9hKppjcNyf) | 1:18 | 2026-02-26 | 2026-02-28 |
 | [BELLA STRONZA](https://open.spotify.com/track/2qgKFtVm0Ls6WC72sm9ELe) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Marco Masini](https://open.spotify.com/artist/0kcOfjhVfDMTS09s9aLmuD), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [BELLA STRONZA](https://open.spotify.com/album/5hfRrnvwwazuFYUkh5KPNc) | 2:56 | 2025-02-15 | 2025-03-14 |
 | [BELLADAMORIRE \(feat\. Lil Busso\)](https://open.spotify.com/track/6RMofhEUami5oM976lMlcb) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0), [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051) | [BELLADAMORIRE \(feat\. Lil Busso\)](https://open.spotify.com/album/2sN3wMiBdeSrmk1zWmJrFO) | 2:33 | 2025-01-16 | 2025-02-12 |
 | [BELLISSIMO E POI NIENTE](https://open.spotify.com/track/7FxnWqvydxAYhgHcpmPdfm) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [BELLISSIMO E POI NIENTE](https://open.spotify.com/album/6l2EQR4IVh6yLeRfpvMoG6) | 2:31 | 2024-10-03 | 2024-11-01 |
@@ -1240,6 +1241,7 @@
 | [Keep Me Honest](https://open.spotify.com/track/4UjWi9O04gSjMFS2gZF1U7) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Keep Me Honest](https://open.spotify.com/album/3Q31EPb80KbZiB2sYJOshy) | 3:10 | 2024-12-12 | 2025-01-17 |
 | [Keep Me Satisfied](https://open.spotify.com/track/4OxDppy29ZuxXgQ1kMEjCr) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Me Satisfied](https://open.spotify.com/album/6QDVSbU4yXnw4TEmTynaQM) | 2:25 | 2025-01-16 | 2025-02-12 |
 | [key to my heart](https://open.spotify.com/track/0sDjX3fzrHZtQY1bCrH245) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [key to my heart](https://open.spotify.com/album/6ZsjsSPy1TRvsWG8tEXJYQ) | 2:38 | 2025-01-30 | 2025-02-21 |
+| [Keychain \- FROM THE FILM K\-POPS!](https://open.spotify.com/track/3Q3WZ7sJLoIZQKY7hWFyQu) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Keychain \(FROM THE FILM K\-POPS!\)](https://open.spotify.com/album/58x92u1JINTa5K7lTzfU02) | 2:50 | 2026-02-27 |  |
 | [kids never sleep](https://open.spotify.com/track/1W13VTyEXLviqjj2bMDJDd) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [kids never sleep](https://open.spotify.com/album/3Hux8afYu6wKMBFx1ZgHh0) | 3:15 | 2024-09-26 | 2024-10-18 |
 | [KIKI](https://open.spotify.com/track/1KRGigp3LmG6QdckYpH2cH) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [KIKI](https://open.spotify.com/album/3qDMTHKO39Gj3j4Qrspp6K) | 2:21 | 2025-07-10 | 2025-08-15 |
 | [KiLL iT QUEEN](https://open.spotify.com/track/0vEbs5wZEqnrTnRppLGZaU) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [KiLL iT QUEEN](https://open.spotify.com/album/5YD2OXFbiw3S7kdL88p3X2) | 2:48 | 2026-02-26 |  |

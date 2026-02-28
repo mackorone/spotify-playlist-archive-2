@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0unpD0.md) - [plain]
 
 > This is Salif Keita\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,570 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,574 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,20 +26,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0unpD0.md) - [plain]
 | 16 | [Kuma](https://open.spotify.com/track/5LFN2u1WNQyC25r37rOSpn) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 4:59 |
 | 17 | [Tonton](https://open.spotify.com/track/1Ci6xr5uTiao375hGTtqRS) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Un autre blanc](https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7) | 3:43 |
 | 18 | [San Ka Na](https://open.spotify.com/track/2Oqz0gR5F14zI7zA1ZKEDz) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [La Différence](https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B) | 5:28 |
-| 19 | [Laban](https://open.spotify.com/track/0LOjFlkfiht3rCSM3lwjih) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [M'Bemba](https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO) | 7:28 |
-| 20 | [Talé](https://open.spotify.com/track/5Z279TzbPAtGQNRpcfxq32) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Talé](https://open.spotify.com/album/6wn1e3j7T0b9nlavB692ql) | 4:09 |
+| 19 | [Bobo](https://open.spotify.com/track/5oVUDDdJT0fbbNyqbMYDoc) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [M'Bemba](https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO) | 5:58 |
+| 20 | [Djanfa Di](https://open.spotify.com/track/4FcHp8FUkrAwUehLBKM6si) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [So Kono \(Extended Version\)](https://open.spotify.com/album/7H0azVDfGx3TOoXptx5jEH) | 3:41 |
 | 21 | [Were Were](https://open.spotify.com/track/38AJOtjMA9DgnWsTmnAAMf) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Un autre blanc](https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7) | 4:54 |
 | 22 | [Seydou](https://open.spotify.com/track/4vYP9Vx5XvfIUMjnhzQJnC) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [La Différence](https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B) | 6:04 |
-| 23 | [Bobo](https://open.spotify.com/track/5oVUDDdJT0fbbNyqbMYDoc) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [M'Bemba](https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO) | 5:58 |
-| 24 | [Djanfa Di](https://open.spotify.com/track/4FcHp8FUkrAwUehLBKM6si) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [So Kono \(Extended Version\)](https://open.spotify.com/album/7H0azVDfGx3TOoXptx5jEH) | 3:41 |
+| 23 | [Calculer](https://open.spotify.com/track/6JOHho02kKHH0r6wnTGXse) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [M'Bemba](https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO) | 4:18 |
+| 24 | [Talé](https://open.spotify.com/track/5Z279TzbPAtGQNRpcfxq32) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Talé](https://open.spotify.com/album/6wn1e3j7T0b9nlavB692ql) | 4:09 |
 | 25 | [Diawara Fa](https://open.spotify.com/track/17tsY0rbQfpQgWLKgl8xbT) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Un autre blanc](https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7) | 5:59 |
 | 26 | [Djélé](https://open.spotify.com/track/3kxd8G6lLHwy3gtBYGXrXi) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [La Différence](https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B) | 4:14 |
-| 27 | [Calculer](https://open.spotify.com/track/6JOHho02kKHH0r6wnTGXse) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [M'Bemba](https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO) | 4:18 |
-| 28 | [Da](https://open.spotify.com/track/0fZtdXVFyrE2oFLGqSrZtT) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Talé](https://open.spotify.com/album/6wn1e3j7T0b9nlavB692ql) | 3:53 |
-| 29 | [Tomorrow \(Sadio\)](https://open.spotify.com/track/5IbLPMxWuRQWTmbEdV018a) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Ali](https://open.spotify.com/album/6vg8mzMg5Re5aRIKi4YrIo) | 5:11 |
+| 27 | [Laban](https://open.spotify.com/track/0LOjFlkfiht3rCSM3lwjih) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [M'Bemba](https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO) | 7:28 |
+| 28 | [Tomorrow \(Sadio\)](https://open.spotify.com/track/5IbLPMxWuRQWTmbEdV018a) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Ali](https://open.spotify.com/album/6vg8mzMg5Re5aRIKi4YrIo) | 5:11 |
+| 29 | [Awa](https://open.spotify.com/track/75G3E59I9CGpFQMgtdahOk) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [So Kono](https://open.spotify.com/album/3Kp6AmA5EEW5vKwU8qAJmY) | 5:27 |
 | 30 | [Samigna](https://open.spotify.com/track/0frOJC09kJ9NiwH29IujCR) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [La Différence](https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B) | 7:09 |
 | 31 | [Tu vas me manquer](https://open.spotify.com/track/06ulHZy7LxFa5WHOb0ywWT) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [M'Bemba](https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO) | 5:49 |
-| 32 | [Awa](https://open.spotify.com/track/75G3E59I9CGpFQMgtdahOk) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [So Kono](https://open.spotify.com/album/3Kp6AmA5EEW5vKwU8qAJmY) | 5:27 |
+| 32 | [Da](https://open.spotify.com/track/0fZtdXVFyrE2oFLGqSrZtT) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Talé](https://open.spotify.com/album/6wn1e3j7T0b9nlavB692ql) | 3:53 |
 | 33 | [Cono](https://open.spotify.com/track/7cms6JQGv9q2iA2XN35V0n) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Soro](https://open.spotify.com/album/62DPGNE8CtgV8OKT8BUzZG) | 6:01 |
 | 34 | [Ekolo d'amour](https://open.spotify.com/track/51PaIl9erUqMhbgsTrlYnp) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [La Différence](https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B) | 3:55 |
 | 35 | [Syrie](https://open.spotify.com/track/7efKxNDq3rzhE1RQQ5mhMI) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Un autre blanc](https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7) | 5:04 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0unpD0.md) - [plain]
 | 42 | [N B'I Fe](https://open.spotify.com/track/6ojW6ng5nTr5Q0Bspdga5B) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 5:09 |
 | 43 | [A demain](https://open.spotify.com/track/6vIUiseKiLL1KJ7gS6pmM1) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Talé](https://open.spotify.com/album/6wn1e3j7T0b9nlavB692ql) | 4:09 |
 | 44 | [Folon](https://open.spotify.com/track/0YPHxhTtceIbXF5ioGEwGO) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Folon](https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O) | 4:27 |
-| 45 | [Katolon](https://open.spotify.com/track/4L5rI5vn2xtBXvEtb3EfdU) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Moffou](https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX) | 6:58 |
-| 46 | [Ntoman](https://open.spotify.com/track/6AOlffSmJ6QNAzPV4SnmKQ) | [Africando](https://open.spotify.com/artist/0ffXAvDlWnqwiciaBFek6V), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Betece \- All Stars](https://open.spotify.com/album/5RKQ7g6iYe2l6tlUfAwXsf) | 5:03 |
+| 45 | [Ntoman](https://open.spotify.com/track/6AOlffSmJ6QNAzPV4SnmKQ) | [Africando](https://open.spotify.com/artist/0ffXAvDlWnqwiciaBFek6V), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Betece \- All Stars](https://open.spotify.com/album/5RKQ7g6iYe2l6tlUfAwXsf) | 5:03 |
+| 46 | [Katolon](https://open.spotify.com/track/4L5rI5vn2xtBXvEtb3EfdU) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Moffou](https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX) | 6:58 |
 | 47 | [Natty](https://open.spotify.com/track/2EQcny3367J1n6gLC0Y16l) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Talé](https://open.spotify.com/album/6wn1e3j7T0b9nlavB692ql) | 4:27 |
-| 48 | [Sina \(Soumbouya\)](https://open.spotify.com/track/1IStLKRx3MsSSzngw6SwkE) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Soro](https://open.spotify.com/album/62DPGNE8CtgV8OKT8BUzZG) | 4:49 |
-| 49 | [Nyanyama](https://open.spotify.com/track/358m8bL9LwONarIDQxHWUA) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Folon](https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O) | 6:18 |
+| 48 | [Nyanyama](https://open.spotify.com/track/358m8bL9LwONarIDQxHWUA) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Folon](https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O) | 6:18 |
+| 49 | [Sina \(Soumbouya\)](https://open.spotify.com/track/1IStLKRx3MsSSzngw6SwkE) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Soro](https://open.spotify.com/album/62DPGNE8CtgV8OKT8BUzZG) | 4:49 |
 | 50 | [Lony](https://open.spotify.com/track/1jDI4xBByWxisEYzKXwJAn) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 7:55 |
 
-Snapshot ID: `aZ47gAAAAABXHAQI2lzFuztWAkHNHwij`
+Snapshot ID: `aZ+NAAAAAAAwVfAkC2adIaDmBp9gbw38`

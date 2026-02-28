@@ -2,9 +2,9 @@
 
 ### [Hot Hits Canada](https://open.spotify.com/playlist/37i9dQZF1DWXT8uSSn6PRy)
 
-> The hottest tracks in the North with Olivia Dean.
+> The hottest tracks in the North with PinkPantheress & Zara Larsson.
 
-977 songs - 2 day 3 hr 39 min
+978 songs - 2 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Blue Strips](https://open.spotify.com/track/7u7IqryLFAygWFz6bsEB7y) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Blue Strips](https://open.spotify.com/album/38Vd2K3RytxtNWLE5aU2VR) | 2:27 | 2025-04-25 | 2025-11-01 |
 | [blur](https://open.spotify.com/track/2hVSPUJVMxQwcfa1xdhRt8) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [blur](https://open.spotify.com/album/10QgRGKde72CAkxtlTRZgj) | 2:32 | 2022-06-03 | 2022-07-02 |
 | [BMF](https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:00 | 2025-01-03 | 2025-08-23 |
-| [Body](https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 2:35 | 2026-02-06 |  |
+| [Body](https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 2:35 | 2026-02-06 | 2026-02-28 |
 | [Bois Lie \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Love Sux](https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb) | 2:43 | 2022-02-25 | 2022-03-26 |
 | [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 | 2022-03-11 | 2022-07-02 |
 | [Bones](https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 2:45 | 2022-10-14 | 2023-05-20 |
@@ -256,6 +256,7 @@
 | [Dua Lipa](https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:15 | 2022-05-06 | 2022-05-14 |
 | [Dum, Dumb, and Dumber \(with Young Thug & Future\)](https://open.spotify.com/track/5GZ0currErGJhl0G0yxgRg) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Dum, Dumb, and Dumber \(with Young Thug & Future\)](https://open.spotify.com/album/4ycuXCWCg3MjM7GEnNCy3n) | 3:47 | 2025-01-10 | 2025-02-08 |
 | [Dynamite](https://open.spotify.com/track/0fQfJFfngYfG26560HLMLN) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Dynamite](https://open.spotify.com/album/50olq3HtK70p3MOSB9hNj8) | 3:32 | 2021-12-31 | 2022-02-05 |
+| [E85](https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 2:33 | 2026-02-27 |  |
 | [Easy Lover](https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 3:06 | 2025-05-30 | 2025-11-01 |
 | [Easy On Me](https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:44 | 2021-12-31 | 2022-02-26 |
 | [Eat Your Young](https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Eat Your Young](https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX) | 4:02 | 2023-03-24 | 2023-12-23 |

@@ -1,12 +1,12 @@
 {
   "description": "This is ALI. The essential tracks, all in one playlist.",
-  "num_followers": 9416,
+  "num_followers": 9422,
   "original_name": "This Is ALI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAAC4zST/K3FnJTQE9ySeB6l9",
+  "snapshot_id": "aZ+NAAAAAAD/gYXb1cVRaKlur0/kSoFG",
   "tracks": [
     {
       "added_at": null,
@@ -335,6 +335,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FLASHBACK SYNDROME",
+        "url": "https://open.spotify.com/album/3EqjUi6XXqIXcsuIlpL7Mv"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 217866,
+      "name": "FLASHBACK SYNDROME",
+      "url": "https://open.spotify.com/track/0Vy313Gy9c3HdDwlQrrqqx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NEON",
         "url": "https://open.spotify.com/album/39Qc4XckBaGHSqOPtQuRFT"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 310133,
       "name": "NEON",
       "url": "https://open.spotify.com/track/4Sx73QNB9EAgDWPIgQRQ9y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FLASHBACK SYNDROME",
-        "url": "https://open.spotify.com/album/3EqjUi6XXqIXcsuIlpL7Mv"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 217866,
-      "name": "FLASHBACK SYNDROME",
-      "url": "https://open.spotify.com/track/0Vy313Gy9c3HdDwlQrrqqx"
     },
     {
       "added_at": null,
@@ -719,22 +719,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "INGLOURIOUS EASTERN COWBOY",
-        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
+        "name": "LONELY LONELY",
+        "url": "https://open.spotify.com/album/2l1mdPEpGChK4mPY237m5z"
       },
       "artists": [
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "\u6728\u6751\u6634",
-          "url": "https://open.spotify.com/artist/7xgoSh8BBoyKV02juTgUag"
         }
       ],
-      "duration_ms": 246833,
-      "name": "Whole Lotta Love",
-      "url": "https://open.spotify.com/track/0qRGWueuXYkUmVTaVMXDRD"
+      "duration_ms": 277700,
+      "name": "LONELY LONELY",
+      "url": "https://open.spotify.com/track/4g8L3UDYE1dyGqjwuEpvtP"
     },
     {
       "added_at": null,
@@ -755,18 +751,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LONELY LONELY",
-        "url": "https://open.spotify.com/album/2l1mdPEpGChK4mPY237m5z"
+        "name": "INGLOURIOUS EASTERN COWBOY",
+        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
       },
       "artists": [
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "\u6728\u6751\u6634",
+          "url": "https://open.spotify.com/artist/7xgoSh8BBoyKV02juTgUag"
         }
       ],
-      "duration_ms": 277700,
-      "name": "LONELY LONELY",
-      "url": "https://open.spotify.com/track/4g8L3UDYE1dyGqjwuEpvtP"
+      "duration_ms": 246833,
+      "name": "Whole Lotta Love",
+      "url": "https://open.spotify.com/track/0qRGWueuXYkUmVTaVMXDRD"
     },
     {
       "added_at": null,

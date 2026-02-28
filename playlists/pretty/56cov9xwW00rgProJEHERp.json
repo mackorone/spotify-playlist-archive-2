@@ -6,7 +6,7 @@
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAWongRovqtN+Arm08Pt8YlSOLBFK50",
+  "snapshot_id": "AAAWqHOZFYvMaVsQ/sMWWsO7PJbVUsEZ",
   "tracks": [
     {
       "added_at": "2026-02-13 20:17:28",
@@ -1667,6 +1667,106 @@
       "duration_ms": 224829,
       "name": "No Te Vayas Sin Saber",
       "url": "https://open.spotify.com/track/0jRNilRcXzeH5ydiE4n3kh"
+    },
+    {
+      "added_at": "2026-02-27 15:19:29",
+      "album": {
+        "name": "How I Get",
+        "url": "https://open.spotify.com/album/70NOPNFs2y4lZMrowJzPuY"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 219866,
+      "name": "How I Get",
+      "url": "https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi"
+    },
+    {
+      "added_at": "2026-02-27 15:20:29",
+      "album": {
+        "name": "Slow Tonight",
+        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 192495,
+      "name": "Slow Tonight",
+      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
+    },
+    {
+      "added_at": "2026-02-27 15:21:29",
+      "album": {
+        "name": "Cosmic Wink",
+        "url": "https://open.spotify.com/album/4FBsBCEPnDE9kRfyj3GteE"
+      },
+      "artists": [
+        {
+          "name": "Juliet Ivy",
+          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
+        }
+      ],
+      "duration_ms": 172753,
+      "name": "cosmic wink",
+      "url": "https://open.spotify.com/track/0DwSDivYx1TTl5m3GsyKzK"
+    },
+    {
+      "added_at": "2026-02-27 15:23:01",
+      "album": {
+        "name": "songs i couldn't forget",
+        "url": "https://open.spotify.com/album/7fMoS9P6G3ULbORP52stef"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 168737,
+      "name": "mariah",
+      "url": "https://open.spotify.com/track/6hNqL8ihYM8NuJNBWPPu9M"
+    },
+    {
+      "added_at": "2026-02-27 15:23:34",
+      "album": {
+        "name": "Terrified",
+        "url": "https://open.spotify.com/album/0htdK0MDhpdcLa4Q0NW5OQ"
+      },
+      "artists": [
+        {
+          "name": "Kerr Mercer",
+          "url": "https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x"
+        }
+      ],
+      "duration_ms": 182585,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/1xAwZre22A8PJNoR19BKES"
+    },
+    {
+      "added_at": "2026-02-27 15:32:31",
+      "album": {
+        "name": "the acrobat (feat. Lori McKenna)",
+        "url": "https://open.spotify.com/album/3n4Sz8AuTYmtgbPA58X9MK"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        },
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 234272,
+      "name": "the acrobat (feat. Lori McKenna)",
+      "url": "https://open.spotify.com/track/6Q3lIX5uEqiTxt2cwvyl0R"
     }
   ],
   "unique_name": "But First Coffee",

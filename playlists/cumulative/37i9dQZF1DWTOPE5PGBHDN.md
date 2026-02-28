@@ -4,7 +4,7 @@
 
 > ¡mueve ese booty con la  Sayuri & Sopholov! 🍑🥵🔥
 
-344 songs - 18 hr 49 min
+345 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Caramelo](https://open.spotify.com/track/3gD4J3RUHy4OUuZ3qAiaiG) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Caramelo](https://open.spotify.com/album/6HZe6aICWesZsze5OKlvMD) | 3:37 | 2020-07-02 | 2024-04-27 |
 | [Carne](https://open.spotify.com/track/5bx7WTctZtLh8Rd7TaPrQu) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [Carne](https://open.spotify.com/album/1GWtYmtW8H1h66gb9HDD83) | 3:27 | 2020-07-02 | 2022-07-21 |
 | [Caro](https://open.spotify.com/track/6it15CsDlkqB7N4lF0C1qM) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:49 | 2020-07-02 | 2022-07-29 |
+| [Chaparrita \(Remix\)](https://open.spotify.com/track/1Du2rsAGiX1LcCegMomlFH) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G) | [Chaparrita \(Remix\)](https://open.spotify.com/album/6PrdKGA2ZSkdjEQBqWzxeV) | 4:26 | 2026-02-27 |  |
 | [Choque](https://open.spotify.com/track/68KElV3TDyDy2zHPCWjUyt) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Choque](https://open.spotify.com/album/18G9V5rZ8UvMRgUbS5fshr) | 3:19 | 2026-02-13 |  |
 | [CHORRITO PA LAS ANIMAS](https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:48 | 2023-03-15 |  |
 | [Chula Vente](https://open.spotify.com/track/27Y0yW53n0R1Oxle01FKmj) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Chula Vente](https://open.spotify.com/album/2nB2KzRi6sdL83f4l2gpBS) | 4:01 | 2025-09-05 |  |
@@ -163,7 +164,7 @@
 | [La Respuesta](https://open.spotify.com/track/2fOjendzUzepHwR9QrVyYF) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [La Respuesta](https://open.spotify.com/album/4lKXaL7t6jn8V4nvmZ6ggZ) | 3:02 | 2020-07-02 | 2023-03-16 |
 | [La Romana](https://open.spotify.com/track/1khmgu0pveJbkbpbkyvcQv) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 5:00 | 2020-07-02 | 2022-07-29 |
 | [La Santa](https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:26 | 2020-07-02 | 2026-02-14 |
-| [La Vecinita](https://open.spotify.com/track/4wmPBI7iEJ2urKoXjQQqFu) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Los Bandoleros Reloaded](https://open.spotify.com/album/5KtOg6t1abStlfb6OvoD8R) | 4:25 | 2023-03-15 |  |
+| [La Vecinita](https://open.spotify.com/track/4wmPBI7iEJ2urKoXjQQqFu) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Los Bandoleros Reloaded](https://open.spotify.com/album/5KtOg6t1abStlfb6OvoD8R) | 4:25 | 2023-03-15 | 2026-02-28 |
 | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT) | 3:15 | 2023-12-01 | 2024-04-20 |
 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 | 2023-07-07 |  |
 | [LAS QUE NO TIENEN PAPÁ](https://open.spotify.com/track/6TS8WvNunHz3sIePWAxYfE) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [LAS QUE NO TIENEN PAPÁ](https://open.spotify.com/album/4jV2xPaptwajnBeamcIhbf) | 3:18 | 2023-03-22 | 2023-04-01 |

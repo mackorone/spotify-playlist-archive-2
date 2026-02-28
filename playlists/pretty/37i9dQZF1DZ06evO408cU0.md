@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 
 > This is Banda Carnaval\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,652 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,657 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 | 18 | [Cómo No Adorarla](https://open.spotify.com/track/2VOltazP4iORb1wbbYKPY3) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 3:41 |
 | 19 | [Te Vas Amor \(En Vivo\)](https://open.spotify.com/track/2YHLZsnlSJgVGN7MfNQyVt) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Te Vas Amor \(En Vivo\)](https://open.spotify.com/album/1qKcJWObSOGkvQHvjOilNS) | 2:17 |
 | 20 | [El Que Se Enamora Pierde](https://open.spotify.com/track/24Yw6Hoi0sPaJKb16uQZGI) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [La Historia De Mis Manos](https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z) | 2:20 |
-| 21 | [Así Te Necesito](https://open.spotify.com/track/0VjQnUClspAvDIejRi8vRl) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Máximo Nivel](https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE) | 3:00 |
+| 21 | [De Buen Perfil](https://open.spotify.com/track/6CphAFnRSF0N0Otke4uCBO) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 2:18 |
 | 22 | [Segunda Opción](https://open.spotify.com/track/3bvQCGDb6D66J7b0lzXsKG) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 3:18 |
-| 23 | [De Buen Perfil](https://open.spotify.com/track/6CphAFnRSF0N0Otke4uCBO) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 2:18 |
+| 23 | [Así Te Necesito](https://open.spotify.com/track/0VjQnUClspAvDIejRi8vRl) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Máximo Nivel](https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE) | 3:00 |
 | 24 | [De Nuestro Amor No Queda Nada](https://open.spotify.com/track/3DvFmNLmpfBNxe1CC7uOGj) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [De Nuestro Amor No Queda Nada](https://open.spotify.com/album/2Djiz5Ch5BEDfK8TwNpLEt) | 3:35 |
 | 25 | [En Qué Cabeza Cabe](https://open.spotify.com/track/6HUMffUSppjuuO8v193wWM) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Hombre De Trabajo](https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp) | 2:53 |
 | 26 | [Ella Es Mi Mujer](https://open.spotify.com/track/5WdjiXWPnfjgwFssJGFU4K) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 | 49 | [El Becerro No Ha Mamado Y El Borrego Cachetón \- En Vivo](https://open.spotify.com/track/76FZVlzBjXGtbN9ff9sdtV) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 3:11 |
 | 50 | [Pude](https://open.spotify.com/track/3GsjXU7XdqakW86Iy3vB4n) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Pude](https://open.spotify.com/album/7FZYJ0y7Lk5EkcCKbFLHTI) | 3:30 |
 
-Snapshot ID: `aZ47gAAAAABkl9cFGb6QqYFY2yn2Ko0v`
+Snapshot ID: `aZ+NAAAAAAA/PpPjLd1DpdeQD22uSQyX`

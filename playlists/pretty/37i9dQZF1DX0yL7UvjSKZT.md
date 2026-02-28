@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Theo Kandel
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,278 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,287 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 99 | [Crossing the Junction / Deer River](https://open.spotify.com/track/4hWEq0e6dil1M4u49UZWiL) | [Lonesome Ace Stringband](https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb) | [Crossing the Junction / Deer River](https://open.spotify.com/album/3hXfFkVDc1E8b8pM4mdAoj) | 3:38 |
 | 100 | [Sleepy Time](https://open.spotify.com/track/0kieVmYJQ4Wsu1ACppFP4S) | [Hotspur Johnny](https://open.spotify.com/artist/0mqmWeOf4VWEOPNtDUsMx1) | [Hotspur Johnny](https://open.spotify.com/album/1bE4pxD3ERkHw2OiVdp2DB) | 3:29 |
 
-Snapshot ID: `AAAAAJ5ZXYxZTS/a1HFch7dBRKZRMKm7`
+Snapshot ID: `AAAAAHIrtr7X0ULsiTA89hNMiA6/mI67`

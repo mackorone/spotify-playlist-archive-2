@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Casper TNG",
+  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: SadBoi",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -6609,6 +6609,24 @@
     },
     {
       "album": {
+        "name": "CAMH",
+        "url": "https://open.spotify.com/album/4Td9t7kN807Zrxsxd4Ewk1"
+      },
+      "artists": [
+        {
+          "name": "Kyle Wildfern",
+          "url": "https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86606,
+      "name": "CAMH",
+      "url": "https://open.spotify.com/track/4jxWZ4iqrYrjgIQk12LBdf"
+    },
+    {
+      "album": {
         "name": "Can I Be Real",
         "url": "https://open.spotify.com/album/6Yois2w26rO2nlslDYC8ip"
       },
@@ -11167,6 +11185,24 @@
     },
     {
       "album": {
+        "name": "08 JETTA: Road 2 Glory Cut",
+        "url": "https://open.spotify.com/album/5orhntE3On6xoTEW0PR3IR"
+      },
+      "artists": [
+        {
+          "name": "Kai Banks",
+          "url": "https://open.spotify.com/artist/1oshkDo0mvTYNAPKaY9qiP"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216485,
+      "name": "Dying2Live - Live",
+      "url": "https://open.spotify.com/track/5tb1SQ8HOeKwleGbe7p8Aw"
+    },
+    {
+      "album": {
         "name": "D\u00e9tour",
         "url": "https://open.spotify.com/album/0lBDkYz9Wc1jlo1YdvTfA4"
       },
@@ -12758,7 +12794,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 123956,
       "name": "FEENIN'",
       "url": "https://open.spotify.com/track/3mG2xTGbXjclaMBFrqwJgS"
@@ -15192,7 +15228,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 178343,
       "name": "Gods Side",
       "url": "https://open.spotify.com/track/08VGRFHBg2Dg1JjF15kztv"
@@ -24004,7 +24040,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 165789,
       "name": "MR RECOUP",
       "url": "https://open.spotify.com/track/38iBHQloAVZNpKsFVU8aAd"
@@ -29282,6 +29318,24 @@
       "duration_ms": 186978,
       "name": "POP 2",
       "url": "https://open.spotify.com/track/5TPd6MAlQhx9mztqGH2JQZ"
+    },
+    {
+      "album": {
+        "name": "Pop Shit",
+        "url": "https://open.spotify.com/album/2TSJIhXkxnkfqfIuhc1729"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100444,
+      "name": "Pop Shit",
+      "url": "https://open.spotify.com/track/2YbsFrxepUS7s3IGHjLLWn"
     },
     {
       "album": {
@@ -36593,6 +36647,28 @@
     },
     {
       "album": {
+        "name": "THAT'S REAL",
+        "url": "https://open.spotify.com/album/2fWHBXYVvaQU2ggqmEDev7"
+      },
+      "artists": [
+        {
+          "name": "Handsome Tiger",
+          "url": "https://open.spotify.com/artist/5mse6hwiW0xtsv1XCPN4sU"
+        },
+        {
+          "name": "Snotty Nose Rez Kids",
+          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133111,
+      "name": "That's Real",
+      "url": "https://open.spotify.com/track/3RTRXQTbK2i3G8WWwoLw68"
+    },
+    {
+      "album": {
         "name": "That's Your Problem (STANK HOEZ)",
         "url": "https://open.spotify.com/album/3GGOTvsEcjfZFBoHLLuL6H"
       },
@@ -37018,7 +37094,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 177125,
       "name": "The Lay Up",
       "url": "https://open.spotify.com/track/7psSACGszhtNJNhbKD7DT4"
@@ -38480,7 +38556,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 157988,
       "name": "Top Rope",
       "url": "https://open.spotify.com/track/76YBKzv0EZwzBFD1mYc3Iz"
@@ -39134,7 +39210,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 131250,
       "name": "Twisted",
       "url": "https://open.spotify.com/track/0Oqiavr7my94MXN2K8HLeJ"

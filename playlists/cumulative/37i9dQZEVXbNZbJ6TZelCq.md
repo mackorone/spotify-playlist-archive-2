@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Romania.
 
-2,374 songs - 5 day 3 hr 52 min
+2,375 songs - 5 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -667,7 +667,7 @@
 | [E DOAR O ALTA ZI](https://open.spotify.com/track/6feXsJXIXkYF0DuZfG4VoV) | [CERCEL](https://open.spotify.com/artist/5VH2lbLnYKXXHSJcbemxwR), [lucawts](https://open.spotify.com/artist/6JPKvFBScSGXNr7D3B6fou), [Berechet](https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ) | [E DOAR O ALTA ZI](https://open.spotify.com/album/43ufJ3xLmWKczLbm347tAa) | 3:05 | 2025-09-20 | 2025-09-27 |
 | [E Mult, E Greu!](https://open.spotify.com/track/6OfGAcaOGhkgXWWrSsRpzj) | [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [E Mult, E Greu!](https://open.spotify.com/album/2MO3K0AD3WGrjgL3Knfql2) | 2:21 | 2025-06-18 |  |
 | [E TA LA VIA](https://open.spotify.com/track/1QjEQL1vUyI4FSOpjyYy5S) | [Bote](https://open.spotify.com/artist/5ZysteEOAE4NFn6sbeD49c) | [E TA LA VIA](https://open.spotify.com/album/4wiPAyu3wnMWsTvQAwhKs0) | 1:42 | 2026-02-20 | 2026-02-22 |
-| [E Wow](https://open.spotify.com/track/3EejJyGv6Dj3V0R28gq3lg) | [Adrian Norocel](https://open.spotify.com/artist/3f9Hi0GeiHT8XF7OCBGPpU) | [E Wow](https://open.spotify.com/album/67eXAShAWEv7IX5LTvBhlp) | 2:37 | 2025-03-25 | 2026-02-27 |
+| [E Wow](https://open.spotify.com/track/3EejJyGv6Dj3V0R28gq3lg) | [Adrian Norocel](https://open.spotify.com/artist/3f9Hi0GeiHT8XF7OCBGPpU) | [E Wow](https://open.spotify.com/album/67eXAShAWEv7IX5LTvBhlp) | 2:37 | 2025-03-25 |  |
 | [E85](https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 2:33 | 2026-01-31 | 2026-02-02 |
 | [EA](https://open.spotify.com/track/09XuCT4ItCxEJTi9iiuk9s) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [MGL](https://open.spotify.com/artist/4N3b19KLqITb3Pkge2asGR) | [Centaur](https://open.spotify.com/album/2CIT3DRAZdPvix0n9wYBhb) | 2:33 | 2022-11-26 | 2022-11-28 |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-10-17 | 2021-11-21 |
@@ -771,7 +771,7 @@
 | [FIELD TRIP](https://open.spotify.com/track/106vWgOc5xlj05wewZ2V4u) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 2](https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e) | 2:47 | 2024-08-04 | 2024-08-11 |
 | [Fierbe](https://open.spotify.com/track/4Gya3VF9e3oYKreBxPl0KO) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Bun Venit Acasa \(Deluxe\)](https://open.spotify.com/album/5A4tD7qWgfhfOJ1kXJY9SF) | 2:02 | 2024-07-07 | 2024-07-09 |
 | [Fii tot ce poti](https://open.spotify.com/track/1QONvkzJ8NyRbKEWXKjmId) | [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH), [Satra B.E.N.Z.](https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut) | [Fii tot ce poti](https://open.spotify.com/album/2Q5hqcEVMG4uBCnSoFlOFi) | 3:49 | 2022-04-09 | 2022-04-14 |
-| [Filipineza](https://open.spotify.com/track/0VXsihzxr9XBsDycUYu9o9) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66) | [Filipineza](https://open.spotify.com/album/5q3uvSorja97Z3v8pb6P0q) | 2:34 | 2025-08-28 |  |
+| [Filipineza](https://open.spotify.com/track/0VXsihzxr9XBsDycUYu9o9) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66) | [Filipineza](https://open.spotify.com/album/5q3uvSorja97Z3v8pb6P0q) | 2:34 | 2025-08-28 | 2026-02-28 |
 | [Film out](https://open.spotify.com/track/3UHPGOkUcE4hE7sqBF4Snt) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Film out](https://open.spotify.com/album/2jae5Jx8Yh1WjP1K4wTFUa) | 3:34 | 2021-04-04 | 2021-04-05 |
 | [FINE SHIT](https://open.spotify.com/track/79mFFAOYcG8ZF6AN1JecAL) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 1:46 | 2025-03-15 | 2025-03-21 |
 | [Fine Wine](https://open.spotify.com/track/6K52pf928JK0WkxUn5Zzy2) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Fine Wine In Italy](https://open.spotify.com/album/5lV6TjkSpiIrVzIUkovkoU) | 2:56 | 2024-11-09 | 2024-11-16 |
@@ -1050,6 +1050,7 @@
 | [inexplicabil](https://open.spotify.com/track/6XIkg4IIz3DP1Z7WCa63o5) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [Ștefan IV](https://open.spotify.com/album/1j2XXVOk5fk60ZRm5QpqFp) | 3:14 | 2024-04-27 | 2024-05-11 |
 | [Infinit](https://open.spotify.com/track/75vnmxR1AlSBHjydtBJxKV) | [Nane](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [De\-ale Mele II](https://open.spotify.com/album/77626BZdB6qrdzctO2Xw0W) | 2:47 | 2022-02-23 | 2022-02-26 |
 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 | 2021-12-06 | 2022-05-06 |
+| [Info de la Napoli](https://open.spotify.com/track/222mBI6W7oCJ62z4yEJQhr) | [Dani Mocanu](https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI) | [Info de la Napoli](https://open.spotify.com/album/46lvLUuApijd68OIUWKJdH) | 4:21 | 2026-02-27 |  |
 | [Inima](https://open.spotify.com/track/6v2xV32DfjSBVRGlPYHPJk) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [Apă \(Deluxe Edition\)](https://open.spotify.com/album/0W1bmifq59fFf75BBeTv8B) | 3:10 | 2021-11-04 | 2021-11-08 |
 | [INIMA JUNGLEI](https://open.spotify.com/track/38VU7cEjYpi7jI0yVDTN7O) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [CARTEA JUNGLEI](https://open.spotify.com/album/0kOUAVz6jKiWYp9qZjqDNh) | 2:39 | 2023-11-11 | 2023-11-13 |
 | [Inima Nu Fi De Piatra](https://open.spotify.com/track/1X5GCDh0VwRZzknOcJAH63) | [Roxen](https://open.spotify.com/artist/6KCxe5mJlHDJlKEXbNFLsP) | [Inima Nu Fi De Piatra](https://open.spotify.com/album/56IZwovVw0s3W4XMFiaJdU) | 2:41 | 2021-08-09 | 2021-08-31 |
@@ -2217,7 +2218,7 @@
 | [Urgente](https://open.spotify.com/track/4urOjCUHGb8LroPyvgOdam) | [Voyevod](https://open.spotify.com/artist/7s9lNPGZxU2TlGlJH3cVCD) | [VOODOO](https://open.spotify.com/album/4NXmDlPaIACo59CyM3ANNe) | 3:20 | 2023-01-16 | 2023-01-18 |
 | [Urgențe](https://open.spotify.com/track/5jjPoxrz3NRainOx1DtAPv) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Voodoo](https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV) | 3:20 | 2022-02-21 | 2023-10-29 |
 | [URLA](https://open.spotify.com/track/03HHpgKteorCuNGgiPYfZ6) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [Azteca](https://open.spotify.com/artist/5ysOQVQHHU9GJZBKmZMRHv) | [URLA](https://open.spotify.com/album/0KoawojNqjfNU2GexbVlNd) | 3:36 | 2021-06-18 | 2021-06-20 |
-| [Va Fac](https://open.spotify.com/track/6Iq6sZXCcO7D7vKwSC8LLt) | [Reea & Tina](https://open.spotify.com/artist/7ch05jNCIyNpsanogPBVoo), [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66) | [Va Fac](https://open.spotify.com/album/0kuJwqVDYUuoRrRs9YQTuy) | 3:19 | 2026-02-22 |  |
+| [Va Fac](https://open.spotify.com/track/6Iq6sZXCcO7D7vKwSC8LLt) | [Reea & Tina](https://open.spotify.com/artist/7ch05jNCIyNpsanogPBVoo), [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66) | [Va Fac](https://open.spotify.com/album/0kuJwqVDYUuoRrRs9YQTuy) | 3:19 | 2026-02-22 | 2026-02-28 |
 | [VALENTINE](https://open.spotify.com/track/5mY6WIHXoBsOCSyQxrTg0E) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:36 | 2023-11-11 | 2023-11-17 |
 | [VALIDARE](https://open.spotify.com/track/3XTvetIFJn7H8mOYp4yGgP) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP), [Yakki](https://open.spotify.com/artist/10Gn7d0q1THIu8PM5ywP20) | [ȘTEFAN IV EVER](https://open.spotify.com/album/39dQh4PXgRi6XJqdjqbLPV) | 5:05 | 2024-08-03 | 2024-08-08 |
 | [VAMPIRE](https://open.spotify.com/track/6TMFY3Yy0zgSnq3PSTJFGO) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [CARTEA JUNGLEI](https://open.spotify.com/album/0kOUAVz6jKiWYp9qZjqDNh) | 2:24 | 2023-11-11 | 2023-11-13 |

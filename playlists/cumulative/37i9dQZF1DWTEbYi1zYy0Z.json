@@ -85,6 +85,28 @@
     },
     {
       "album": {
+        "name": "A BEAUTIFUL THANG",
+        "url": "https://open.spotify.com/album/5rPlvoCGyKsc4srBP411hQ"
+      },
+      "artists": [
+        {
+          "name": "Droyd",
+          "url": "https://open.spotify.com/artist/3zj8Bb4QXfSEbqpbGnWi0O"
+        },
+        {
+          "name": "Vandell Andrew",
+          "url": "https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192011,
+      "name": "A BEAUTIFUL THANG",
+      "url": "https://open.spotify.com/track/4lliztuFvh83Hy3bYAHNG9"
+    },
+    {
+      "album": {
         "name": "A Brighter Day",
         "url": "https://open.spotify.com/album/74rVku2kW6XDWv5eTO72we"
       },
@@ -742,7 +764,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 225000,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/5ruzvCeaC09Mr6qkDvCN38"
@@ -1620,7 +1642,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 177706,
       "name": "Changed Me",
       "url": "https://open.spotify.com/track/75taQd5SN7871t9wku1Hbx"
@@ -6144,6 +6166,24 @@
       "duration_ms": 245379,
       "name": "Moon Goddess",
       "url": "https://open.spotify.com/track/3ieIBo1fhTNzUsHSMZq3rU"
+    },
+    {
+      "album": {
+        "name": "Hot Chocolate",
+        "url": "https://open.spotify.com/album/5l7ZTkk5gbpEu1BBvFKWIj"
+      },
+      "artists": [
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304173,
+      "name": "More Than Enough",
+      "url": "https://open.spotify.com/track/7mE3QE7WqyozWhz8vIoBAt"
     },
     {
       "album": {

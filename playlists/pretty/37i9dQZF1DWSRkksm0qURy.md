@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkksm0qURy.md) - [plain]
 
 > An immersive solfeggio frequency used by many for balance, healing and removing negative energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,814 likes - 93 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,861 likes - 93 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkksm0qURy.md) - [plain]
 | 92 | [Changes 417 Hz](https://open.spotify.com/track/7gv2mCKOqGKBair4WZcos5) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Solfeggio Frequencies: Aligning for Change](https://open.spotify.com/album/2F3sPtIXbBmr6cknoZAWLE) | 3:09 |
 | 93 | [417 Hz \- DNA healing](https://open.spotify.com/track/1SnGoAbvE6FPAmopzHACW8) | [Higher Highs](https://open.spotify.com/artist/4b6guplHYPbkerTOAplBK8) | [DNA healing](https://open.spotify.com/album/6HvsMwxFzST9plzfdAfrsd) | 3:39 |
 
-Snapshot ID: `AAAAAE3dbmBIzsZK+BQvrIs2Iul0KAz4`
+Snapshot ID: `AAAAAKCG4/TqfkcHyR/C2ir+ahQASO7P`

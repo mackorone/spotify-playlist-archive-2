@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTPlJjCKhFJv.md) - [plain]
 
 > Don't wait for spring to spruce things up
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,015 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,016 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTPlJjCKhFJv.md) - [plain]
 | 77 | [Give It Up](https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [All In a Night's Work \(Expanded Version\)](https://open.spotify.com/album/52BJ1S5NOv7eFD6ZFDZga2) | 4:13 |
 | 78 | [The Sweet Escape](https://open.spotify.com/track/5BHtT1xpC44pGy1J7RKY4T) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Sweet Escape](https://open.spotify.com/album/2dhQoUl5mJz1AQXTJkXn2H) | 4:06 |
 | 79 | [Love Shack](https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Cosmic Thing](https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS) | 5:20 |
-| 80 | [Perfect Places](https://open.spotify.com/track/7ARveOiD31w2Nq0n5FsSf8) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:41 |
-| 81 | [Tears Dry On Their Own](https://open.spotify.com/track/6yLX8QnxlnEqZfs3YKCfjF) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:05 |
+| 80 | [Tears Dry On Their Own](https://open.spotify.com/track/6yLX8QnxlnEqZfs3YKCfjF) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:05 |
+| 81 | [Perfect Places](https://open.spotify.com/track/7ARveOiD31w2Nq0n5FsSf8) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:41 |
 | 82 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 |
 | 83 | [American Teenager](https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 4:18 |
 | 84 | [My Type](https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:24 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTPlJjCKhFJv.md) - [plain]
 | 94 | [Take a Walk](https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Gossamer](https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv) | 4:24 |
 | 95 | [Already Over](https://open.spotify.com/track/5QhJorJmjqYfETfqgBtGg3) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:50 |
 | 96 | [Chaise Longue](https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:16 |
-| 97 | [Finally](https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv) | [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD) | [Finally](https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip) | 4:05 |
-| 98 | [Good Vibrations](https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Good Vibrations](https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF) | 3:49 |
+| 97 | [Good Vibrations](https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Good Vibrations](https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF) | 3:49 |
+| 98 | [Finally](https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv) | [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD) | [Finally](https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip) | 4:05 |
 | 99 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 |
 | 100 | [Walking on Broken Glass](https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Diva](https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B) | 4:13 |
 

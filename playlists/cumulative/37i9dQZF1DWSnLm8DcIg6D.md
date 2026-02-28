@@ -4,7 +4,7 @@
 
 > the soundtrack to your girl dinner\. cover: Charli XCX
 
-339 songs - 17 hr 10 min
+340 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Cherry N Coke](https://open.spotify.com/track/0tH5DJPLuieL0wuRXDiKVN) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk), [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Cherry N Coke](https://open.spotify.com/album/6pw98Qb8EIAt9kArp3Hq7n) | 2:09 | 2025-06-18 | 2025-08-13 |
 | [Chulo pt.2](https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Chulo pt.2](https://open.spotify.com/album/3gsIT2tGpLm0mQGRCnrZ7j) | 3:39 | 2023-08-09 | 2023-08-11 |
 | [cinderella's dead](https://open.spotify.com/track/5MWXOo8DJwgODtPGaietNz) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [cinderella's dead](https://open.spotify.com/album/7xynMeclusR20e0CXvvSOS) | 2:00 | 2023-03-30 |  |
+| [Clean and Fresh](https://open.spotify.com/track/04wIkN7gBpAIRGTX2NbOJ2) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc), [CrashDummy](https://open.spotify.com/artist/0pyehJ4fIGvJMD8EXGLUAI) | [Clean and Fresh](https://open.spotify.com/album/7rP3vxSybZALfrJ4DZMmS1) | 2:18 | 2026-02-27 |  |
 | [Collide \(feat\. Tyga\)](https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(feat\. Tyga\)](https://open.spotify.com/album/2LbrGt2oc08xV8IDJvLzYi) | 4:20 | 2023-03-30 |  |
 | [Cool](https://open.spotify.com/track/4QvTOAIVxL3NGgrIYU97pj) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love\. Angel\. Music\. Baby.](https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR) | 3:09 | 2025-12-22 | 2026-02-23 |
 | [cool](https://open.spotify.com/track/6xIf7B0KalDODCnvOieTnC) | [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3) | [cool](https://open.spotify.com/album/4Fhpj7gNBV1ezwOnsF3zUB) | 2:26 | 2025-12-22 | 2026-02-23 |
@@ -88,7 +89,7 @@
 | [Cupid](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-03-30 | 2023-09-25 |
 | [CUT UP](https://open.spotify.com/track/68aYtH4NsGGp331mVDIVCC) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [FROM FLORIDA'S FINEST](https://open.spotify.com/album/4KUlLprpCrNpRDsXC4MOAV) | 2:56 | 2025-12-22 | 2026-02-23 |
 | [DADADA](https://open.spotify.com/track/0KEDRaEvdMHAdO0DALW6sp) | [Sophiya](https://open.spotify.com/artist/0cAZn7vdec0QR58yldVTwm), [Hazy](https://open.spotify.com/artist/28IyjGuvyjk9k6WdaV7t4G) | [DADADA](https://open.spotify.com/album/17NJnmcRdkygeb8Sk8hIIR) | 2:45 | 2025-10-28 | 2025-12-09 |
-| [Daisy](https://open.spotify.com/track/2g1KggY9PKvsoEAOaiz4xx) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:26 | 2024-01-27 |  |
+| [Daisy](https://open.spotify.com/track/2g1KggY9PKvsoEAOaiz4xx) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:26 | 2024-01-27 | 2026-02-28 |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-05-25 |  |
 | [Dawg In Me](https://open.spotify.com/track/1o620TsetJRzlSvKzaXVSh) | [Miss Kaninna](https://open.spotify.com/artist/1ODboExevbfXfgKz7NPKxz) | [Dawg In Me](https://open.spotify.com/album/4808Jj2DIvH8aVXG3rWJFj) | 2:29 | 2024-09-02 | 2024-11-06 |
 | [Deep](https://open.spotify.com/track/3LfHBTYZBTqmz43tvVXJBd) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 1:32 | 2025-12-22 | 2026-02-23 |

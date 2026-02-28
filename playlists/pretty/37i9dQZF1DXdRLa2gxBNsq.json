@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Inkandescencia y Laura DSK.",
-  "num_followers": 114667,
+  "num_followers": 114674,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -943,26 +943,6 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
-        "name": "Rayo ke no cesa",
-        "url": "https://open.spotify.com/album/0NnbF8YiKNGAmde0I8yRpw"
-      },
-      "artists": [
-        {
-          "name": "No Konforme",
-          "url": "https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub"
-        },
-        {
-          "name": "Boikot",
-          "url": "https://open.spotify.com/artist/0wppCmJl3glHZZScLcs4gn"
-        }
-      ],
-      "duration_ms": 227530,
-      "name": "Palestina",
-      "url": "https://open.spotify.com/track/1v1i0DriBu0BPeiRtJvbfL"
-    },
-    {
-      "added_at": "2026-02-09 12:00:06",
-      "album": {
         "name": "No Sabemos Perder",
         "url": "https://open.spotify.com/album/7LHgDyGCDBMmfgxcV4oWLz"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 240800,
       "name": "No Sabemos Perder",
       "url": "https://open.spotify.com/track/1ZjqPKcnTaLLVo0VIcdJ5u"
+    },
+    {
+      "added_at": "2026-02-09 12:00:06",
+      "album": {
+        "name": "Rayo ke no cesa",
+        "url": "https://open.spotify.com/album/0NnbF8YiKNGAmde0I8yRpw"
+      },
+      "artists": [
+        {
+          "name": "No Konforme",
+          "url": "https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub"
+        },
+        {
+          "name": "Boikot",
+          "url": "https://open.spotify.com/artist/0wppCmJl3glHZZScLcs4gn"
+        }
+      ],
+      "duration_ms": 227530,
+      "name": "Palestina",
+      "url": "https://open.spotify.com/track/1v1i0DriBu0BPeiRtJvbfL"
     },
     {
       "added_at": "2026-02-09 12:00:06",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
-        "name": "J\u00f3venes Promesas de la Delincuencia",
-        "url": "https://open.spotify.com/album/6IRgFasohZEQPq4O9KPRQz"
+        "name": "Antifascismo",
+        "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
       },
       "artists": [
         {
-          "name": "Rat-Zinger",
-          "url": "https://open.spotify.com/artist/1WVMR6t5Uqq5IBqQiFYKTR"
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
         }
       ],
-      "duration_ms": 171005,
-      "name": "J\u00f3venes Promesas de la Delincuencia",
-      "url": "https://open.spotify.com/track/5TJt3gSmt1X1h9HkxwNpHJ"
+      "duration_ms": 260127,
+      "name": "Antifascismo",
+      "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
     },
     {
       "added_at": "2026-02-09 12:00:06",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
-        "name": "Antifascismo",
-        "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
+        "name": "J\u00f3venes Promesas de la Delincuencia",
+        "url": "https://open.spotify.com/album/6IRgFasohZEQPq4O9KPRQz"
       },
       "artists": [
         {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+          "name": "Rat-Zinger",
+          "url": "https://open.spotify.com/artist/1WVMR6t5Uqq5IBqQiFYKTR"
         }
       ],
-      "duration_ms": 260127,
-      "name": "Antifascismo",
-      "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
+      "duration_ms": 171005,
+      "name": "J\u00f3venes Promesas de la Delincuencia",
+      "url": "https://open.spotify.com/track/5TJt3gSmt1X1h9HkxwNpHJ"
     },
     {
       "added_at": "2026-02-09 12:00:06",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
+        "name": "Figurante",
+        "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
+      },
+      "artists": [
+        {
+          "name": "Hijos De Nacho Vidal",
+          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
+        }
+      ],
+      "duration_ms": 150701,
+      "name": "Figurante",
+      "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
+    },
+    {
+      "added_at": "2026-02-09 12:00:06",
+      "album": {
         "name": "Prohibido Prohibir",
         "url": "https://open.spotify.com/album/3PvwXmZiRPAyYSq1IbBW12"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 221480,
       "name": "Prohibido Prohibir",
       "url": "https://open.spotify.com/track/28EOznAk1sIbb1C82N52BQ"
-    },
-    {
-      "added_at": "2026-02-09 12:00:06",
-      "album": {
-        "name": "Figurante",
-        "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
-      },
-      "artists": [
-        {
-          "name": "Hijos De Nacho Vidal",
-          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
-        }
-      ],
-      "duration_ms": 150701,
-      "name": "Figurante",
-      "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
     },
     {
       "added_at": "2026-02-09 12:00:06",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
+        "name": "Rico deprimido (XX5)",
+        "url": "https://open.spotify.com/album/5beaDQvsYwZFJWBYvuy50z"
+      },
+      "artists": [
+        {
+          "name": "Kaotiko",
+          "url": "https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S"
+        }
+      ],
+      "duration_ms": 205696,
+      "name": "Rico deprimido - XX5",
+      "url": "https://open.spotify.com/track/5x7dsu12skCbNd5HR05ZcB"
+    },
+    {
+      "added_at": "2026-02-09 12:00:06",
+      "album": {
         "name": "Esperando a Mi Enemigo",
         "url": "https://open.spotify.com/album/6lqFTzBGCIBHlsVHMSU8cY"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 173670,
       "name": "Mr. Smith",
       "url": "https://open.spotify.com/track/3O3ln8WSwDrBIymu08KAW4"
-    },
-    {
-      "added_at": "2026-02-09 12:00:06",
-      "album": {
-        "name": "Rico deprimido (XX5)",
-        "url": "https://open.spotify.com/album/5beaDQvsYwZFJWBYvuy50z"
-      },
-      "artists": [
-        {
-          "name": "Kaotiko",
-          "url": "https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S"
-        }
-      ],
-      "duration_ms": 205696,
-      "name": "Rico deprimido - XX5",
-      "url": "https://open.spotify.com/track/5x7dsu12skCbNd5HR05ZcB"
     },
     {
       "added_at": "2026-02-09 12:00:06",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
+        "name": "El Orden",
+        "url": "https://open.spotify.com/album/4XZYPyToecrIUgXH0lXpzM"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/1926SAsv8WWBm0XOn84Pso"
+        }
+      ],
+      "duration_ms": 220678,
+      "name": "El enemigo p\u00fablico",
+      "url": "https://open.spotify.com/track/3T8Qwtvj3v61PsGQef6oKk"
+    },
+    {
+      "added_at": "2026-02-09 12:00:06",
+      "album": {
         "name": "Un D\u00eda en Texas [con Anna y Skiper (Sistema de Entretenimiento)]",
         "url": "https://open.spotify.com/album/1SGR4hi9vjFaYFbQ4bmSak"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 142162,
       "name": "Un D\u00eda en Texas - con Anna y Skiper (Sistema de Entretenimiento)",
       "url": "https://open.spotify.com/track/59Ma9tohRKQXsljxhr70n7"
-    },
-    {
-      "added_at": "2026-02-09 12:00:06",
-      "album": {
-        "name": "El Orden",
-        "url": "https://open.spotify.com/album/4XZYPyToecrIUgXH0lXpzM"
-      },
-      "artists": [
-        {
-          "name": "LUCY",
-          "url": "https://open.spotify.com/artist/1926SAsv8WWBm0XOn84Pso"
-        }
-      ],
-      "duration_ms": 220678,
-      "name": "El enemigo p\u00fablico",
-      "url": "https://open.spotify.com/track/3T8Qwtvj3v61PsGQef6oKk"
     },
     {
       "added_at": "2026-02-09 12:00:06",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "<a href=\"https://docs.google.com/forms/d/e/1FAIpQLScMF3Bk85sf0Q8EtivfX-sCFgsgIpORHNyGB28r1NujobZdmw/viewform\">talk to us about music :) </a>   Cover: Lana Del Rey",
+  "description": "<a href=\"https://docs.google.com/forms/d/e/1FAIpQLScMF3Bk85sf0Q8EtivfX-sCFgsgIpORHNyGB28r1NujobZdmw/viewform\">talk to us about music :) </a>   Cover: Mitski",
   "name": "Lorem",
   "tracks": [
     {
@@ -2132,7 +2132,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 102528,
       "name": "Aftermath - Edit",
       "url": "https://open.spotify.com/track/0gpPi4vOxqC3yFQFPzf9ef"
@@ -2750,7 +2750,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 253973,
       "name": "All My Friends Are Models",
       "url": "https://open.spotify.com/track/34b6933wH4nOqZGMq3EOMX"
@@ -5016,7 +5016,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 220007,
       "name": "Baby!",
       "url": "https://open.spotify.com/track/6Qgy3ikLFnJsJ7xHL0mayF"
@@ -5236,7 +5236,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 383400,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj"
@@ -6457,6 +6457,24 @@
     },
     {
       "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/7fWswbqrYkq5epwUQAJtFU"
+      },
+      "artists": [
+        {
+          "name": "Quiet Light",
+          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/17XxoRBKPgZqSzYLFW3gto"
+    },
+    {
+      "album": {
         "name": "Best Be Leaving",
         "url": "https://open.spotify.com/album/30coJQv7G8UD5Lx76VQZE1"
       },
@@ -7284,6 +7302,24 @@
       "duration_ms": 209413,
       "name": "blame game",
       "url": "https://open.spotify.com/track/1bkrJ0NmKUzFJzdYNeYDMM"
+    },
+    {
+      "album": {
+        "name": "Blame it on You",
+        "url": "https://open.spotify.com/album/08hBBBR5U52B6IRW77uLnq"
+      },
+      "artists": [
+        {
+          "name": "Ally Evenson",
+          "url": "https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185318,
+      "name": "Blame it on You",
+      "url": "https://open.spotify.com/track/3pbMaEhDQyiOR9y3i0vibJ"
     },
     {
       "album": {
@@ -8456,7 +8492,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 96452,
       "name": "Braces",
       "url": "https://open.spotify.com/track/7sXm84Dk5WlETkdzIfdQCT"
@@ -13084,7 +13120,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 394655,
       "name": "Coney Island Baby",
       "url": "https://open.spotify.com/track/0ivHDucXMbjTjiU4lMIkBO"
@@ -20232,7 +20268,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 167766,
       "name": "Fatal Attraction",
       "url": "https://open.spotify.com/track/5631C1irkmhGmNPeyKp7av"
@@ -26540,7 +26576,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 211313,
       "name": "Hey You",
       "url": "https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0"
@@ -30557,6 +30593,24 @@
     },
     {
       "album": {
+        "name": "Nothing's About to Happen to Me",
+        "url": "https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180053,
+      "name": "If I Leave",
+      "url": "https://open.spotify.com/track/4eMXMUkWS4aChMfA1UO4YJ"
+    },
+    {
+      "album": {
         "name": "If I Were You",
         "url": "https://open.spotify.com/album/0IO9FwH0QyryujvzhLQeYT"
       },
@@ -30806,6 +30860,24 @@
       "duration_ms": 149666,
       "name": "Illegal",
       "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
+    },
+    {
+      "album": {
+        "name": "a couple minutes out",
+        "url": "https://open.spotify.com/album/13sFSgU0S2NUdpv4BbLN0t"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183237,
+      "name": "iloveitiloveitiloveit",
+      "url": "https://open.spotify.com/track/0vVel80XRhw0LuSQucKMui"
     },
     {
       "album": {
@@ -32572,7 +32644,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 268313,
       "name": "junior",
       "url": "https://open.spotify.com/track/5DeQBAPTltJreKfwiBJDyh"
@@ -35340,7 +35412,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 240450,
       "name": "Little Birds",
       "url": "https://open.spotify.com/track/48f6WJoZEU1TgKsapzSy9m"
@@ -37746,7 +37818,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -43981,6 +44053,28 @@
     },
     {
       "album": {
+        "name": "On Your Way Home",
+        "url": "https://open.spotify.com/album/4nt4Ng4ywgycSV3fcbbQWD"
+      },
+      "artists": [
+        {
+          "name": "Zack Villere",
+          "url": "https://open.spotify.com/artist/5jLbQGcvxehi2Z6qkUP9Rh"
+        },
+        {
+          "name": "Rockie Rode",
+          "url": "https://open.spotify.com/artist/51qSyIFxFxgwZVU7zI90rE"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192575,
+      "name": "On Your Way Home",
+      "url": "https://open.spotify.com/track/5AJF0UyyLgIlrDXhlf1FxF"
+    },
+    {
+      "album": {
         "name": "ON&ON",
         "url": "https://open.spotify.com/album/3P3GHIvRjgUNFNymZCebMu"
       },
@@ -46458,7 +46552,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 169411,
       "name": "Play Me",
       "url": "https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz"
@@ -46996,7 +47090,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 172666,
       "name": "Post Break Up Beauty",
       "url": "https://open.spotify.com/track/2sHayl1gSu80Y4nDcRrEfT"
@@ -55548,7 +55642,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 251407,
       "name": "starburn",
       "url": "https://open.spotify.com/track/5qPwsJXFapnFgN7eqo9w4N"
@@ -60102,7 +60196,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 174200,
       "name": "The Explorer",
       "url": "https://open.spotify.com/track/7xvrPR9nT6BAaUKgkqvJh2"
@@ -62512,7 +62606,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 208510,
       "name": "tower of memories",
       "url": "https://open.spotify.com/track/3KZTPBbTMFLNbfoQoxEpXn"
@@ -65836,7 +65930,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 209973,
       "name": "When The War Is Over",
       "url": "https://open.spotify.com/track/6CSpmRlGT82RrGNJotD9gJ"

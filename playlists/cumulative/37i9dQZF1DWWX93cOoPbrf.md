@@ -2,9 +2,9 @@
 
 ### [Corridos 2026](https://open.spotify.com/playlist/37i9dQZF1DWWX93cOoPbrf)
 
-> Lo más fresco de los corridones\. Hermanos Espinoza en portada.
+> Lo más fresco de los corridones\. Geovany Montaño,  Panchito Arredondo en portada.
 
-1,774 songs - 3 day 18 hr 2 min
+1,777 songs - 3 day 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [Culon y Medio](https://open.spotify.com/track/77eIFriAVgrCYshgQMYXC1) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Culon y Medio](https://open.spotify.com/album/0Ss8cCDMszxtrvcozbvgQ9) | 2:39 | 2022-08-29 | 2022-11-12 |
 | [Cuñados y Compadres](https://open.spotify.com/track/1gkd7OJkmMVNQEEJjFvQLp) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Jesús Ojeda y Sus Parientes](https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk) | [Cuñados y Compadres](https://open.spotify.com/album/1AEo9kTiKt4lUxwNV9gF7c) | 3:50 | 2022-12-23 | 2023-01-14 |
 | [Cómo Fue](https://open.spotify.com/track/0VyUoO1LdhsatF2hl1xeEQ) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0), [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS) | [Cómo Fue](https://open.spotify.com/album/2Ey7lAcTLmPGz8l9U7pB55) | 2:59 | 2023-04-28 | 2023-06-03 |
+| [D.E.T](https://open.spotify.com/track/3S9eiYtzbW6xVeSI8c3tcK) | [Geovany Montaño](https://open.spotify.com/artist/3pbmkTrI87Q1z4n6cr009F), [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [D.E.T](https://open.spotify.com/album/2l6L7fgfgt9ag3CzZ28Fq6) | 3:07 | 2026-02-27 |  |
 | [Dante](https://open.spotify.com/track/51ekFzMssWoTd3esRVbg4M) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Dante](https://open.spotify.com/album/3RfvANcRyder97orXrfuBp) | 2:55 | 2023-02-13 | 2023-04-09 |
 | [DAPA](https://open.spotify.com/track/76tTE0enlalydXfEBeeQpX) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc) | [DAPA](https://open.spotify.com/album/7F8J06qBqaRKR2s4X3Eibo) | 3:00 | 2025-06-06 | 2025-09-27 |
 | [David De Los Acme](https://open.spotify.com/track/1C4notkddInnKftLi0idAW) | [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [Corridos a Lo Maximo](https://open.spotify.com/album/1s3X0yOH91R03rbWw41Ahv) | 3:26 | 2024-09-20 | 2024-12-21 |
@@ -860,6 +861,7 @@
 | [Gallo Jugado](https://open.spotify.com/track/2Gsf7CIYK2NlGxuI4oFuuK) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Gallo Jugado](https://open.spotify.com/album/0fKc963dUVq6ZGdvIuQUxY) | 2:53 | 2024-07-26 | 2025-01-18 |
 | [Gallo y Mi Cuerno](https://open.spotify.com/track/5spGDsdSSflFVnhSzIRAnS) | [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq) | [Gallo y Mi Cuerno](https://open.spotify.com/album/76uSaPvd5aVD1TBzrQG39S) | 2:32 | 2023-12-01 | 2023-12-16 |
 | [Gallos Y Caballos](https://open.spotify.com/track/1pn82sWTAmrP709W07VImY) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Gallos Y Caballos](https://open.spotify.com/album/0VcuY0FORxC5SuMuT1NfZl) | 2:38 | 2025-01-31 | 2025-05-17 |
+| [ganga](https://open.spotify.com/track/4rrGcaA4OqeNty6CXxnfz0) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [El Randal](https://open.spotify.com/artist/3xy1Z8p0bYLH2cDPla9QnU) | [DINASTÍA \(DELUXE\)](https://open.spotify.com/album/7aTDbTfkSxsYEipu8Z4TNl) | 2:45 | 2026-02-27 |  |
 | [GC2](https://open.spotify.com/track/7ikSVS00cr9q0eLkZV5Wff) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [GC2](https://open.spotify.com/album/6CwfRLxOEriZKcYspVWweb) | 2:05 | 2025-04-25 | 2025-11-08 |
 | [GDL](https://open.spotify.com/track/6MYMoJJFzRb1R7hRR2iYL1) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:44 | 2023-10-27 | 2023-12-23 |
 | [Gelato](https://open.spotify.com/track/1NiZkSi3zjB42JqWmoRj19) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Gelato](https://open.spotify.com/album/7x1L11ajhzQBwlKOFFcsRm) | 2:22 | 2023-04-14 | 2023-04-29 |
@@ -1657,6 +1659,7 @@
 | [Terco Soy](https://open.spotify.com/track/4mbWLsNAgFcB8Rvue936rN) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [Terco Soy](https://open.spotify.com/album/0gbPj0cLCgu76Ewl6izxe2) | 3:17 | 2025-02-28 | 2025-09-13 |
 | [Terreno Tomatero \- En Vivo](https://open.spotify.com/track/6BGvGgps0HPIbqWHBAXsmf) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [La Fiesta En El Rancho, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/0gCI2O9i3G3MEX4pFJxPDv) | 2:14 | 2026-01-30 |  |
 | [TESLA](https://open.spotify.com/track/24ywDS7nerYsXy99wwbEDk) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [TESLA](https://open.spotify.com/album/4KAl3vaHCPQDvqHtPPwpeL) | 2:16 | 2024-03-29 | 2024-07-13 |
+| [TETRICO](https://open.spotify.com/track/5vVNAvx49iV38H7Nu244Kh) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [TETRICO](https://open.spotify.com/album/0bQbQqXJgC0chLxFn2dwt8) | 3:07 | 2026-02-27 |  |
 | [Texas Boy](https://open.spotify.com/track/4AEZNxqT9rjTLfALIob5BT) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Texas Boy](https://open.spotify.com/album/5qZ4bOmvrtSk8B8IYJlB2y) | 2:36 | 2023-06-30 | 2023-08-05 |
 | [The King of Ice](https://open.spotify.com/track/0fvTBE8xQux2JhAhgAiLBr) | [Claudio Beltrán](https://open.spotify.com/artist/2RBlM1EXaDmWBEw4Ygdoxl), [Jaque Mate](https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew) | [The King of Ice](https://open.spotify.com/album/1eQTKBUXRZ81ONIn6X5t2y) | 2:46 | 2025-09-12 | 2025-11-15 |
 | [Tiempos Buenos Tiempos Malos \(En Vivo\)](https://open.spotify.com/track/23g2dK0cI5JJ2BqmCmtfWc) | [Los del Avion](https://open.spotify.com/artist/6yga6mslykqpCvq3NFK6sx), [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [Tiempos Buenos Tiempos Malos \(En Vivo\)](https://open.spotify.com/album/02s1CLbMekn5GqmY0B2JSz) | 3:32 | 2024-01-19 | 2024-02-17 |

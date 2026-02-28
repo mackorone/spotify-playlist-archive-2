@@ -1,6 +1,6 @@
 {
   "description": "Celebrating the greatest female voices of all time. Cover: Adele",
-  "num_followers": 1826418,
+  "num_followers": 1826571,
   "original_name": "Great Female Voices",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 230933,
-      "name": "My All",
-      "url": "https://open.spotify.com/track/3RSpK5Y0y5tl25qvssrwJ6"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Breakaway",
         "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 188960,
       "name": "Since U Been Gone",
       "url": "https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 230933,
+      "name": "My All",
+      "url": "https://open.spotify.com/track/3RSpK5Y0y5tl25qvssrwJ6"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Alannah Myles",
-        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
-      },
-      "artists": [
-        {
-          "name": "Alannah Myles",
-          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
-        }
-      ],
-      "duration_ms": 287440,
-      "name": "Black Velvet",
-      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Breakaway",
         "url": "https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 219493,
       "name": "Because of You",
       "url": "https://open.spotify.com/track/0gJvqi9QyASOCtJu99tytc"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Alannah Myles",
+        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
+      },
+      "artists": [
+        {
+          "name": "Alannah Myles",
+          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
+        }
+      ],
+      "duration_ms": 287440,
+      "name": "Black Velvet",
+      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
     },
     {
       "added_at": "2024-10-11 04:00:00",

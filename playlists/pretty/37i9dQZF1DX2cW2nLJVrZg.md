@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 
 > All the winning songs from the annual event celebrating Hollywood's brightest stars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,521 likes - 53 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,508 likes - 53 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 | 42 | [Glory \(From the Motion Picture Selma\)](https://open.spotify.com/track/2fmqPLRFdJNPhLU3b2NSFp) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Glory \(From the Motion Picture Selma\)](https://open.spotify.com/album/3cZ3dS7ogHb55sWjVzaBnx) | 4:32 |
 | 43 | [You Must Love Me](https://open.spotify.com/track/78JPL7uIfs6Imm57r1QETk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Evita: The Complete Motion Picture Music Soundtrack](https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286) | 2:50 |
 | 44 | [Father Comes Home \- from "Little Women" Soundtrack](https://open.spotify.com/track/4BopLkm0TFvregWWVI1Qtl) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [Little Women \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2y8d4zbifvkrpASJeTMDnE) | 3:18 |
-| 45 | [West Side Story: Act I: Prologue](https://open.spotify.com/track/68CJ6EJXhbmUOwkOk74w6N) | [Leonard Bernstein](https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn), [West Side Story Orchestra](https://open.spotify.com/artist/2y0ch4gqc0z7SMWsjHWL5F), [Johnny Green](https://open.spotify.com/artist/0mzeuEu2tXNjhVNc1sKVWI) | [West Side Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1kA4RO70idrEQkOX3zlRfa) | 6:36 |
-| 46 | [We Belong Together \- From "Toy Story 3"/Soundtrack](https://open.spotify.com/track/5MOXaHAnv8Rj4xaghFRnqr) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story Favorites](https://open.spotify.com/album/3ngbNRREg1a0DBxQ2tJ936) | 4:03 |
+| 45 | [We Belong Together \- From "Toy Story 3"/Soundtrack](https://open.spotify.com/track/5MOXaHAnv8Rj4xaghFRnqr) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story Favorites](https://open.spotify.com/album/3ngbNRREg1a0DBxQ2tJ936) | 4:03 |
+| 46 | [West Side Story: Act I: Prologue](https://open.spotify.com/track/68CJ6EJXhbmUOwkOk74w6N) | [Leonard Bernstein](https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn), [West Side Story Orchestra](https://open.spotify.com/artist/2y0ch4gqc0z7SMWsjHWL5F), [Johnny Green](https://open.spotify.com/artist/0mzeuEu2tXNjhVNc1sKVWI) | [West Side Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1kA4RO70idrEQkOX3zlRfa) | 6:36 |
 | 47 | [Moon River](https://open.spotify.com/track/0CRmi4W6Z2tvrRg3lckcDx) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Breakfast At Tiffany's](https://open.spotify.com/album/4oPm7AxPVxBOOyMTNp9Zgh) | 2:41 |
 | 48 | [Sooner or Later](https://open.spotify.com/track/0QLuoNpyzXMcCLfVtFScE2) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I'm Breathless](https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED) | 3:20 |
 | 49 | [The Shape Of Water](https://open.spotify.com/track/2VzJH2QeNO1PiZwXZMvx7g) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [The Shape Of Water \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/058fiqH1NYYmur8cicws4l) | 3:42 |

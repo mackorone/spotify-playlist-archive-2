@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover:  Malcolm Rue
 
-7,476 songs - 22 day 21 hr 39 min
+7,477 songs - 22 day 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3788,6 +3788,7 @@
 | [Light My Way](https://open.spotify.com/track/7cJNrb80srlS1s499HjEQF) | [Mojisola](https://open.spotify.com/artist/7B3hxItP97N9oYzvrTKFb8), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Path XLV](https://open.spotify.com/album/52VA8Xx3KpruIXdMd1REDf) | 3:17 | 2025-09-26 | 2025-10-10 |
 | [Light Of The World](https://open.spotify.com/track/7AhjP010xlFuv929z4nem9) | [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY), [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv) | [Light Of The World](https://open.spotify.com/album/0w3O5y3LSc7kDe7781pZcC) | 2:18 | 2023-10-20 | 2023-11-03 |
 | [Light Of The World](https://open.spotify.com/track/747t565BZUjfVUtTVNXj77) | [Efe Lucky](https://open.spotify.com/artist/2dFgoR6fiFFJ21OdG7A28b), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Light Of The World](https://open.spotify.com/album/0dWp0aZnnPj4sa99jbI7Xi) | 3:19 | 2024-06-28 | 2024-07-12 |
+| [Light Of The World \- Live](https://open.spotify.com/track/3OHSXhBGjFzvvumpEvHLBf) | [Bimbo Idemeto](https://open.spotify.com/artist/59sVYSKrS333w0LDE3tOnE), [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL) | [Light Of The World \(Live\)](https://open.spotify.com/album/6SzntBREccSSWqtX90xg8d) | 8:31 | 2026-02-27 |  |
 | [Light Of The World \- Live In Chicago](https://open.spotify.com/track/0G8Oai4uQlCipnvlqSjCBz) | [Efe Lucky](https://open.spotify.com/artist/2dFgoR6fiFFJ21OdG7A28b), [Deoye](https://open.spotify.com/artist/2BfaCEkVTEh7dbOYdTc1wJ), [Jojoo](https://open.spotify.com/artist/7MZpYHoOEYqzGxf3yWwo02) | [Light Of The World \(Live In Chicago\)](https://open.spotify.com/album/7CWVbayg8RTZg2LrtkUV01) | 4:46 | 2025-02-21 | 2025-03-08 |
 | [Light Up The Sky \- Live](https://open.spotify.com/track/0vxfB9HrI5qqOCz88ltCxI) | [Choose Life Worship](https://open.spotify.com/artist/2W3aV1kVvocereSb2cjqtM) | [Light Up The Sky \(Live\)](https://open.spotify.com/album/39HYvF97VqPvDPO7lBcQmt) | 5:23 | 2024-05-10 | 2024-05-24 |
 | [Lihle Izulu](https://open.spotify.com/track/442es8I6R9T0I7OvCWyjVp) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3), [Mphostoli We Keyboard](https://open.spotify.com/artist/1lgM1mjTHzMVjWZv08fTIN) | [Lihle Izulu](https://open.spotify.com/album/676br89hFiViuqCoqjseCG) | 4:15 | 2025-10-24 | 2025-11-07 |

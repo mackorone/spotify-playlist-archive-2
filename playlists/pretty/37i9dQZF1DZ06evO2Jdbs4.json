@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 31346,
+  "num_followers": 31357,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAADqe9roU9knO2SzD0b1TpDJ",
+  "snapshot_id": "aZ+NAAAAAACiFNPi1hZ3sj4ru8wKB6Yu",
   "tracks": [
     {
       "added_at": null,
@@ -295,22 +295,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juntos",
-        "url": "https://open.spotify.com/album/6VB3iQvl5osGIQyaJv7vqm"
+        "name": "D\u00edas de Ayer",
+        "url": "https://open.spotify.com/album/5G24MWnlBvrynYjrlIQt5j"
       },
       "artists": [
-        {
-          "name": "Emilio Navaira",
-          "url": "https://open.spotify.com/artist/5ADSZA6X6nJBe7pTgcE6nA"
-        },
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 217129,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/050UuOQmyhJ470uVMpm6dM"
+      "duration_ms": 199733,
+      "name": "Alg\u00fan D\u00eda",
+      "url": "https://open.spotify.com/track/7Ftpkn5Xkv3DFrvEVFRt9R"
     },
     {
       "added_at": null,
@@ -331,18 +327,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00edas de Ayer",
-        "url": "https://open.spotify.com/album/5G24MWnlBvrynYjrlIQt5j"
+        "name": "Juntos",
+        "url": "https://open.spotify.com/album/6VB3iQvl5osGIQyaJv7vqm"
       },
       "artists": [
+        {
+          "name": "Emilio Navaira",
+          "url": "https://open.spotify.com/artist/5ADSZA6X6nJBe7pTgcE6nA"
+        },
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 199733,
-      "name": "Alg\u00fan D\u00eda",
-      "url": "https://open.spotify.com/track/7Ftpkn5Xkv3DFrvEVFRt9R"
+      "duration_ms": 217129,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/050UuOQmyhJ470uVMpm6dM"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cumbia Vallenata (En Vivo)",
-        "url": "https://open.spotify.com/album/6lh0KAnbbfjKNROV6JStbH"
+        "name": "Y Te Lo Pido (En Vivo)",
+        "url": "https://open.spotify.com/album/5k8O7c9p1Bn8ejkkwYKQG8"
       },
       "artists": [
         {
@@ -748,13 +748,13 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         },
         {
-          "name": "Kinky",
-          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+          "name": "David Olivarez",
+          "url": "https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm"
         }
       ],
-      "duration_ms": 217402,
-      "name": "Cumbia Vallenata - En Vivo",
-      "url": "https://open.spotify.com/track/6FzRj4Wk0vs4lfA1RoVr9j"
+      "duration_ms": 287205,
+      "name": "Y Te Lo Pido - En Vivo",
+      "url": "https://open.spotify.com/track/55vESIhEP4GHWw36RnxFRu"
     },
     {
       "added_at": null,
@@ -775,6 +775,26 @@
       "duration_ms": 194874,
       "name": "Separarnos - En Vivo",
       "url": "https://open.spotify.com/track/2feKOqeb6bpYP8ocGMzgzF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cumbia Vallenata (En Vivo)",
+        "url": "https://open.spotify.com/album/6lh0KAnbbfjKNROV6JStbH"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+        }
+      ],
+      "duration_ms": 217402,
+      "name": "Cumbia Vallenata - En Vivo",
+      "url": "https://open.spotify.com/track/6FzRj4Wk0vs4lfA1RoVr9j"
     },
     {
       "added_at": null,
@@ -815,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Te Lo Pido (En Vivo)",
-        "url": "https://open.spotify.com/album/5k8O7c9p1Bn8ejkkwYKQG8"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        },
-        {
-          "name": "David Olivarez",
-          "url": "https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm"
-        }
-      ],
-      "duration_ms": 287205,
-      "name": "Y Te Lo Pido - En Vivo",
-      "url": "https://open.spotify.com/track/55vESIhEP4GHWw36RnxFRu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desvelado",
         "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
       },
@@ -847,26 +847,6 @@
       "duration_ms": 206066,
       "name": "Cuando Me Dejes De Amar",
       "url": "https://open.spotify.com/track/0vT4nUou6ofzflZOZGhZmX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Camino",
-        "url": "https://open.spotify.com/album/77tJHDyUdGZcPjez0lvqQJ"
-      },
-      "artists": [
-        {
-          "name": "Vuelta en U",
-          "url": "https://open.spotify.com/artist/6tHXJ2caQoobX1cnUAEa8S"
-        },
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 217199,
-      "name": "Vuelta En U (feat. Bobby Pulido)",
-      "url": "https://open.spotify.com/track/2xW2DGL2h5q3DImxQMAW3C"
     },
     {
       "added_at": null,
@@ -887,6 +867,26 @@
       "duration_ms": 182533,
       "name": "Sergio El Bailador - En Vivo",
       "url": "https://open.spotify.com/track/00xknCK33lxS24N0Nf4vaO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Camino",
+        "url": "https://open.spotify.com/album/77tJHDyUdGZcPjez0lvqQJ"
+      },
+      "artists": [
+        {
+          "name": "Vuelta en U",
+          "url": "https://open.spotify.com/artist/6tHXJ2caQoobX1cnUAEa8S"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 217199,
+      "name": "Vuelta En U (feat. Bobby Pulido)",
+      "url": "https://open.spotify.com/track/2xW2DGL2h5q3DImxQMAW3C"
     }
   ],
   "unique_name": "This Is Bobby Pulido",

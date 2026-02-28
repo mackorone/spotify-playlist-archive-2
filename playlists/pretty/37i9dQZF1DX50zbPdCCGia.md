@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 
 > The best soft rock from the 1970s\. Cover: Jimmy Buffett
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,223 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,310 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 | 12 | [Dirty Work](https://open.spotify.com/track/3IvTwPCCjfZczCN2k4qPiH) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p) | 3:10 |
 | 13 | [Into the Mystic \- 2013 Remaster](https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance](https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam) | 3:25 |
 | 14 | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA) | [Looking Glass](https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI) | [Looking Glass](https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs) | 3:09 |
-| 15 | [Summer Breeze](https://open.spotify.com/track/3B0ms7Xlxl16tRztKHpcu9) | [Seals and Crofts](https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj) | [Summer Breeze](https://open.spotify.com/album/16lsqxMjRUFOBo2jocsy1C) | 3:25 |
-| 16 | [I'd Love You to Want Me](https://open.spotify.com/track/71CXzHYYOyNqgtVFpNdeCS) | [Lobo](https://open.spotify.com/artist/1sldhz8tzC100cRAdfnMht) | [Of A Simple Man](https://open.spotify.com/album/27rTUUNLERkGxzXxBr1d1u) | 4:07 |
+| 15 | [I'd Love You to Want Me](https://open.spotify.com/track/71CXzHYYOyNqgtVFpNdeCS) | [Lobo](https://open.spotify.com/artist/1sldhz8tzC100cRAdfnMht) | [Of A Simple Man](https://open.spotify.com/album/27rTUUNLERkGxzXxBr1d1u) | 4:07 |
+| 16 | [Summer Breeze](https://open.spotify.com/track/3B0ms7Xlxl16tRztKHpcu9) | [Seals and Crofts](https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj) | [Summer Breeze](https://open.spotify.com/album/16lsqxMjRUFOBo2jocsy1C) | 3:25 |
 | 17 | [Sara Smile](https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Daryl Hall & John Oates \(The Silver Album\)](https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA) | 3:05 |
 | 18 | [Georgy Porgy](https://open.spotify.com/track/5jQcJ2st6yHWhUBjoDoZPH) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto](https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3) | 4:07 |
 | 19 | [Lyin' Eyes \- 2013 Remaster](https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 6:21 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 | 28 | [Bluer Than Blue](https://open.spotify.com/track/1cAHI9tJN6oHMdG4ghlQKY) | [Michael Johnson](https://open.spotify.com/artist/2XKBOnP3qXHP2FpzKplAYh) | [The Michael Johnson Album](https://open.spotify.com/album/5VKyy4iNK1F6aS5bohAMb4) | 2:59 |
 | 29 | [How Sweet It Is \(To Be Loved By You\) \- 2019 Remaster](https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Gorilla \(2019 Remaster\)](https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny) | 3:36 |
 | 30 | [Tequila Sunrise \- 2013 Remaster](https://open.spotify.com/track/1WYokrkFOb9TFVuTrmxTTt) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Desperado \(2013 Remaster\)](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) | 2:53 |
-| 31 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/5TDZyWDfbQFQJabbPwImVY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 4:17 |
-| 32 | [Lonely People](https://open.spotify.com/track/5coTcHT7K8O3G97y9T4LOU) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [Holiday](https://open.spotify.com/album/4jOItHaJyNyXJxz8toGytx) | 2:30 |
+| 31 | [Lonely People](https://open.spotify.com/track/5coTcHT7K8O3G97y9T4LOU) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [Holiday](https://open.spotify.com/album/4jOItHaJyNyXJxz8toGytx) | 2:30 |
+| 32 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/5TDZyWDfbQFQJabbPwImVY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 4:17 |
 | 33 | [Lost Without Your Love](https://open.spotify.com/track/1aRncYBtdizYoVKcSt8oaY) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Lost Without Your Love](https://open.spotify.com/album/67VoVoP15uIXTKG7dqMlwW) | 2:56 |
 | 34 | [Silly Love Songs \- 2014 Remaster](https://open.spotify.com/track/3uiMBldZ07pW0ySHDX5gzE) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wings At The Speed Of Sound \(Archive Collection\)](https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D) | 5:54 |
 | 35 | [Still the One](https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [Waking & Dreaming](https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku) | 3:54 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 | 64 | [It's A Long Way There \- Remastered 2022](https://open.spotify.com/track/6eVtCSzb3ZKRAA37dQWzbb) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Little River Band \(Remastered 2022\)](https://open.spotify.com/album/35j8cY91pzMYe02ZszvMyC) | 8:42 |
 | 65 | [Summer, Highland Falls](https://open.spotify.com/track/4850v7DuT7raVYAWc1ODPv) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Turnstiles](https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi) | 3:20 |
 | 66 | [These Days](https://open.spotify.com/track/2dcoDVcOc9hGPbtZFtpcw3) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [For Everyman](https://open.spotify.com/album/12X80pgkHSjMDgAAS0HBdr) | 4:44 |
-| 67 | [Dreamboat Annie](https://open.spotify.com/track/7IyuwRPPNq6gYI1vzqKsrU) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Dreamboat Annie](https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH) | 2:01 |
-| 68 | [This Time I'm In It For Love](https://open.spotify.com/track/0WEbxRkrGvgDQ5eBm6iH8n) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [Player](https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B) | 4:25 |
+| 67 | [This Time I'm In It For Love](https://open.spotify.com/track/0WEbxRkrGvgDQ5eBm6iH8n) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [Player](https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B) | 4:25 |
+| 68 | [Dreamboat Annie](https://open.spotify.com/track/7IyuwRPPNq6gYI1vzqKsrU) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Dreamboat Annie](https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH) | 2:01 |
 | 69 | [Song Sung Blue \- Single Version](https://open.spotify.com/track/4FZ8wtTaOAbYvyChBt4GEQ) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Moods](https://open.spotify.com/album/3m4xJJDmVNzsWaJ6OlLTru) | 3:15 |
 | 70 | [Save It For A Rainy Day](https://open.spotify.com/track/5AHjRKFCVUaRClF2Oxx8Ld) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Careless](https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm) | 3:12 |
 | 71 | [Don't Let Me Be Lonely Tonight \- 2019 Remaster](https://open.spotify.com/track/0SHFf1goWCyv8UKZdpHIcS) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [One Man Dog \(2019 Remaster\)](https://open.spotify.com/album/5fgXXyM1kcpCz3z0XHRniE) | 2:35 |

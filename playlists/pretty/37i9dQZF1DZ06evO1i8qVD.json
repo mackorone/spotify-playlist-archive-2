@@ -1,12 +1,12 @@
 {
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
-  "num_followers": 38243,
+  "num_followers": 38269,
   "original_name": "This Is Buddy Guy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAACuoevNXFJ96M7FRxj94Itm",
+  "snapshot_id": "aZ+NAAAAAABdgGKP2C4MazOa98AiNy14",
   "tracks": [
     {
       "added_at": null,
@@ -563,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoodoo Man Blues",
-        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
-      },
-      "artists": [
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        },
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 174466,
-      "name": "Snatch It Back And Hold It",
-      "url": "https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Blues Is Alive And Well",
         "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 219200,
       "name": "Blue No More (feat. James Bay)",
       "url": "https://open.spotify.com/track/4qsvEqf7xQVKxgu53WspSn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoodoo Man Blues",
+        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "Snatch It Back And Hold It",
+      "url": "https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326"
     },
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoodoo Man Blues",
-        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
-      },
-      "artists": [
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        },
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 126933,
-      "name": "Hoodoo Man Blues",
-      "url": "https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Skin Deep",
         "url": "https://open.spotify.com/album/0ROkOFhb4cqlys1e8e3m2W"
       },
@@ -679,18 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DJ Play My Blues",
-        "url": "https://open.spotify.com/album/0wN1Cv8D4Ht38g8TMx7psy"
+        "name": "Hoodoo Man Blues",
+        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
       "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        },
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 282493,
-      "name": "Just Teasin'",
-      "url": "https://open.spotify.com/track/7qR9FrZIWNzOMkfzjINkiH"
+      "duration_ms": 126933,
+      "name": "Hoodoo Man Blues",
+      "url": "https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq"
     },
     {
       "added_at": null,
@@ -707,6 +691,22 @@
       "duration_ms": 505906,
       "name": "Five Long Years",
       "url": "https://open.spotify.com/track/5kNUT32bVoptcf1j88ldAU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DJ Play My Blues",
+        "url": "https://open.spotify.com/album/0wN1Cv8D4Ht38g8TMx7psy"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 282493,
+      "name": "Just Teasin'",
+      "url": "https://open.spotify.com/track/7qR9FrZIWNzOMkfzjINkiH"
     },
     {
       "added_at": null,
@@ -771,18 +771,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buddy's Baddest: The Best Of Buddy Guy",
-        "url": "https://open.spotify.com/album/1XHcMcEFuTbPQS3ulriFx5"
+        "name": "Fresh Out",
+        "url": "https://open.spotify.com/album/0ssT151vDQvOAL1dcf4zZY"
       },
       "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        },
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 390533,
-      "name": "Miss Ida B",
-      "url": "https://open.spotify.com/track/6sEi4jQuygl91z4gQbSbSh"
+      "duration_ms": 228019,
+      "name": "Fresh Out",
+      "url": "https://open.spotify.com/track/6L5nqMCbzcg9Xq8ZE6PC91"
     },
     {
       "added_at": null,
@@ -803,6 +807,22 @@
       "duration_ms": 282792,
       "name": "Dry Stick (feat. Joe Bonamassa)",
       "url": "https://open.spotify.com/track/1OYL19WV8Gf1Gx42AS45Xw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buddy's Baddest: The Best Of Buddy Guy",
+        "url": "https://open.spotify.com/album/1XHcMcEFuTbPQS3ulriFx5"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 390533,
+      "name": "Miss Ida B",
+      "url": "https://open.spotify.com/track/6sEi4jQuygl91z4gQbSbSh"
     },
     {
       "added_at": null,
@@ -847,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Chase The Blues Away",
-        "url": "https://open.spotify.com/album/6dvnLC5c0ISNbZWJuoALhx"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 289603,
-      "name": "Blues Chase The Blues Away",
-      "url": "https://open.spotify.com/track/6dDpAO5lP55K0T78HQF3ZS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ain't Done With The Blues",
         "url": "https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50"
       },
@@ -879,22 +883,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fresh Out",
-        "url": "https://open.spotify.com/album/0ssT151vDQvOAL1dcf4zZY"
+        "name": "Blues Chase The Blues Away",
+        "url": "https://open.spotify.com/album/6dvnLC5c0ISNbZWJuoALhx"
       },
       "artists": [
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        },
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 228019,
-      "name": "Fresh Out",
-      "url": "https://open.spotify.com/track/6L5nqMCbzcg9Xq8ZE6PC91"
+      "duration_ms": 289603,
+      "name": "Blues Chase The Blues Away",
+      "url": "https://open.spotify.com/track/6dDpAO5lP55K0T78HQF3ZS"
     },
     {
       "added_at": null,

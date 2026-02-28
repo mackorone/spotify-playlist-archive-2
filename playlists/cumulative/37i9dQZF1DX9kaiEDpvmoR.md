@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-504 songs - 1 day 5 hr 39 min
+505 songs - 1 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,7 +426,7 @@
 | [Säg vad du tänker](https://open.spotify.com/track/0xzGKqSRbmUPfAMkxvvKOw) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [Säg vad du tänker](https://open.spotify.com/album/7fBVXi9Bghd7hnz8zv4lDk) | 2:49 | 2024-09-26 | 2024-10-11 |
 | [Säkra kort](https://open.spotify.com/track/4TyzrKciaUGim6k1HR7pIC) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Säkra kort](https://open.spotify.com/album/6pUqEAq1WoB1O9g7HWNuXL) | 3:23 | 2024-09-19 | 2025-04-25 |
 | [Sällskapssjuk](https://open.spotify.com/track/4ugFejJaVMZsvSMgHX9Fjj) | [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK), [Lena Philipsson](https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm) | [Sällskapssjuk](https://open.spotify.com/album/32boYR11uVt6E8lAWjrHY4) | 3:34 | 2024-06-27 | 2025-04-04 |
-| [Så många mil, så många år..\. \- Live](https://open.spotify.com/track/5tycUfeumfrwkEVP7FEZo3) | [Sven\-Ingvars](https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs) | [Så många mil, så många år..\. \(Live\)](https://open.spotify.com/album/62D6Cbd858YofuKgOpiu8q) | 5:58 | 2025-10-23 |  |
+| [Så många mil, så många år..\. \- Live](https://open.spotify.com/track/5tycUfeumfrwkEVP7FEZo3) | [Sven\-Ingvars](https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs) | [Så många mil, så många år..\. \(Live\)](https://open.spotify.com/album/62D6Cbd858YofuKgOpiu8q) | 5:58 | 2025-10-23 | 2026-02-28 |
 | [Talk](https://open.spotify.com/track/1upeKzdRUu3WD7BuTQL36B) | [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [Talk](https://open.spotify.com/album/2f4Gpex8g1KWjGCfZ6jwAZ) | 3:44 | 2024-09-19 | 2024-10-11 |
 | [Tar det upp i topp](https://open.spotify.com/track/6LKb4nGZhInLchAZpNGDX2) | [Noice](https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69) | [Tar det upp i topp](https://open.spotify.com/album/2woeyU7TmFtihmbJEhWFC4) | 2:49 | 2024-09-12 | 2024-10-28 |
 | [The First Time Ever I Saw Your Face \(with Hozier\)](https://open.spotify.com/track/4yzyi2v0QhJuumnhldtVNi) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [The First Time Ever I Saw Your Face \(with Hozier\)](https://open.spotify.com/album/4t9AAm3rQVu01FJ7tQz33B) | 4:33 | 2025-05-01 | 2026-02-13 |
@@ -512,5 +512,6 @@
 | [Ärligt misstag](https://open.spotify.com/track/3SENIcIRPLk5c5xSnKYEAs) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Ärligt misstag](https://open.spotify.com/album/5dDzaWLtQBPMBnmIV5S5HU) | 2:29 | 2025-02-06 | 2025-09-05 |
 | [Ögonblick i livet](https://open.spotify.com/track/2dZoKGCLtsUzVlxQvIyjFl) | [Jan Johansen](https://open.spotify.com/artist/4Nd6R1oljERR3D2893MpJf) | [Ögonblick i livet](https://open.spotify.com/album/7ejzXc7bRHlth4dEGcyrje) | 3:14 | 2024-06-27 | 2024-08-16 |
 | [Östra Svealand \(2025\)](https://open.spotify.com/track/2nz8qoJdE6sqKtKRaqpjHa) | [Ulf Lundell](https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A) | [Andra landskap 50](https://open.spotify.com/album/37soTgKPaXkx18KpIQUyR0) | 4:55 | 2025-12-11 |  |
+| [Över](https://open.spotify.com/track/142CLjGxBpBtQxj9gPNJOK) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Över](https://open.spotify.com/album/6Rj381d50c8zjs37wts189) | 3:49 | 2026-02-27 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

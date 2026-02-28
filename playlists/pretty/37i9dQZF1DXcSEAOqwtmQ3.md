@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 
 > Kick nostalgia up a notch with these throwback bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,258 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,288 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 | 21 | [Dumebi](https://open.spotify.com/track/6CJD4LDNULzE645JA2XHpx) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rema Compilation](https://open.spotify.com/album/5H6TAMOUgLUX1RfSOG1Al5) | 2:59 |
 | 22 | [If](https://open.spotify.com/track/0XQuWhRG7qD7OYHKsgt0BN) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [If](https://open.spotify.com/album/1N4On17z3onc2NH2XgHdLx) | 3:57 |
 | 23 | [Yori Yori](https://open.spotify.com/track/1zPbuWCj1bx0MyDUdFnTF8) | [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA) | [Least Expected](https://open.spotify.com/album/0CHBnB0nEDMhjNe1izWpoc) | 3:38 |
-| 24 | [Love My Baby](https://open.spotify.com/track/7xdHQUxVj0aOAvUOGLCYj3) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb) | 4:06 |
+| 24 | [My Woman, My Everything \(feat\. Wandecoal\)](https://open.spotify.com/track/5MAScTGPHzWAeivPjpATa9) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [My Woman, My Everything \(feat\. Wandecoal\) \- Single](https://open.spotify.com/album/0cUhwhoX9Yi7vhJgHfgRm4) | 3:53 |
 | 25 | [Anybody](https://open.spotify.com/track/7iCSfoLBuenTKZoWIgqY9Q) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs) | 3:08 |
-| 26 | [My Woman, My Everything \(feat\. Wandecoal\)](https://open.spotify.com/track/5MAScTGPHzWAeivPjpATa9) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [My Woman, My Everything \(feat\. Wandecoal\) \- Single](https://open.spotify.com/album/0cUhwhoX9Yi7vhJgHfgRm4) | 3:53 |
+| 26 | [Love My Baby](https://open.spotify.com/track/7xdHQUxVj0aOAvUOGLCYj3) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb) | 4:06 |
 | 27 | [FIA](https://open.spotify.com/track/6sfdU1tGLpXhjjLjGJa0zA) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [FIA](https://open.spotify.com/album/7kknjkTumdJA57Ogy0Fq7Z) | 3:34 |
 | 28 | [Pana](https://open.spotify.com/track/3ddd0nUY2jZtPYzg0r0wTb) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Pana](https://open.spotify.com/album/62sUZK9tqrSH3AMg4gOSmz) | 4:02 |
 | 29 | [Electric \(feat\. Wizkid & London\)](https://open.spotify.com/track/2g59YEtG3OZq3lp4eDj97p) | [StarBoy](https://open.spotify.com/artist/6w2IGYYbcQENdjdjU2IFo4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [London](https://open.spotify.com/artist/48XO5sXDsZ0NgyVmGT5qxW) | [SoundMan Vol\. 1](https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY) | 2:58 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 | 39 | [Try Me](https://open.spotify.com/track/2DYp6Gfu2JguZra6xL8IAV) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Try Me](https://open.spotify.com/album/6aitMhXvJwSRR6xD23Gqmk) | 3:33 |
 | 40 | [Portharcourt Son](https://open.spotify.com/track/0PI1HlGuWWQPdXSRvLqOSS) | [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK) | [Legacy \(Ahamefuna\)](https://open.spotify.com/album/5qfyyCq5qZYIlpeBhE0Bl2) | 5:45 |
 | 41 | [Over The Moon Ft\. K\-Switch](https://open.spotify.com/track/3R963wuVpbDXyzKHUS25Tc) | [Dr SID](https://open.spotify.com/artist/1A1IEvjX2MyuMXDDsSW8sD) | [Turning Point](https://open.spotify.com/album/2FwDRA8NiC7IoaO9V3AH8k) | 3:53 |
-| 42 | [Ma Lo](https://open.spotify.com/track/6U9jxxdQ6TNzjshIpwWMTf) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Spellz](https://open.spotify.com/artist/5fOppW3chS7Mz6MAoFaN7J) | [Sugarcane](https://open.spotify.com/album/15Sj69bAIyYGBLuh1UhZKo) | 3:02 |
-| 43 | [True Love](https://open.spotify.com/track/64Abyr4HpkCBbT0DqBp1dx) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:22 |
+| 42 | [True Love](https://open.spotify.com/track/64Abyr4HpkCBbT0DqBp1dx) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:22 |
+| 43 | [Ma Lo](https://open.spotify.com/track/6U9jxxdQ6TNzjshIpwWMTf) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Spellz](https://open.spotify.com/artist/5fOppW3chS7Mz6MAoFaN7J) | [Sugarcane](https://open.spotify.com/album/15Sj69bAIyYGBLuh1UhZKo) | 3:02 |
 | 44 | [Limpopo](https://open.spotify.com/track/6DX3c5LFsm0sJE8eZezUWu) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Take Over](https://open.spotify.com/album/59Oas92o7LPanTgxcsJTjU) | 4:13 |
 | 45 | [Cool Temper](https://open.spotify.com/track/30AtTTXstHEVGpZVWrM8iM) | [J\. Martins](https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm) | [Get Serious](https://open.spotify.com/album/3qaCT1Xp7UeFmUpI0f0Gzk) | 4:25 |
 | 46 | [Aboki](https://open.spotify.com/track/0JbBVIBfhayLLsKG6pTJ06) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn) | [Aboki](https://open.spotify.com/album/1alweGRwffgnQuovKvYOe1) | 3:40 |

@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: Bruno Mars
 
-3,565 songs - 8 day 1 hr 31 min
+3,566 songs - 8 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1234,6 +1234,7 @@
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-02-14 | 2023-04-05 |
 | [Glue Song \(feat\. Clairo\)](https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Glue Song \(feat\. Clairo\)](https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk) | 2:15 | 2023-04-20 | 2023-05-12 |
 | [Glum](https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Glum](https://open.spotify.com/album/4cVwrr3LtOc7GEJ4LHZEsk) | 3:11 | 2025-08-01 | 2025-09-13 |
+| [GO](https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 3:15 | 2026-02-27 |  |
 | [go \(feat\. Sam Smith\)](https://open.spotify.com/track/0dkPo2Tvo0PhGJaUAvk4pC) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [go \(feat\. Sam Smith\)](https://open.spotify.com/album/3zTbB7N63JZkS6I6zuooMs) | 3:35 | 2022-06-09 | 2022-08-05 |
 | [Go Back \(feat\. Julia Church\)](https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Go Back \(feat\. Julia Church\)](https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk) | 3:40 | 2024-05-16 | 2024-06-14 |
 | [Go Girlfriend](https://open.spotify.com/track/7sDsbFNNQmG2UmRjHtO7fW) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:55 | 2024-04-11 | 2024-05-10 |

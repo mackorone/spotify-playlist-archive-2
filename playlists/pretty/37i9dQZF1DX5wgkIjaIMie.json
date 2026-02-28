@@ -1,6 +1,6 @@
 {
   "description": "Feel on top of the world with these uplifting anthems of the 10s",
-  "num_followers": 161091,
+  "num_followers": 161101,
   "original_name": "Good Feeling 10s",
   "owner": {
     "name": "Spotify",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2022-06-29 10:22:13",
       "album": {
+        "name": "Youngblood (Deluxe)",
+        "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 203417,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
+    },
+    {
+      "added_at": "2022-06-29 10:22:13",
+      "album": {
         "name": "Bangerz (Deluxe Version)",
         "url": "https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0"
       },
@@ -1019,18 +1035,22 @@
     {
       "added_at": "2022-06-29 10:22:13",
       "album": {
-        "name": "Youngblood (Deluxe)",
-        "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
+        "name": "Stoney (Deluxe)",
+        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
       },
       "artists": [
         {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
         }
       ],
-      "duration_ms": 203417,
-      "name": "Youngblood",
-      "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
+      "duration_ms": 220293,
+      "name": "Congratulations",
+      "url": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9"
     },
     {
       "added_at": "2022-06-29 10:22:13",
@@ -1055,26 +1075,6 @@
       "duration_ms": 199386,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/0puf9yIluy9W0vpMEUoAnN"
-    },
-    {
-      "added_at": "2022-06-29 10:22:13",
-      "album": {
-        "name": "Stoney (Deluxe)",
-        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 220293,
-      "name": "Congratulations",
-      "url": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9"
     },
     {
       "added_at": "2022-06-29 10:22:13",
@@ -1115,22 +1115,18 @@
     {
       "added_at": "2022-06-29 10:22:13",
       "album": {
-        "name": "New Eyes",
-        "url": "https://open.spotify.com/album/0dNt3MfPrvj6mHmajSuahw"
+        "name": "Levels",
+        "url": "https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg"
       },
       "artists": [
         {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
         }
       ],
-      "duration_ms": 227833,
-      "name": "Rather Be (feat. Jess Glynne)",
-      "url": "https://open.spotify.com/track/61dCUoMCg28qEBzrW6htYM"
+      "duration_ms": 199906,
+      "name": "Levels - Radio Edit",
+      "url": "https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg"
     },
     {
       "added_at": "2022-06-29 10:22:13",
@@ -1159,18 +1155,22 @@
     {
       "added_at": "2022-06-29 10:22:13",
       "album": {
-        "name": "Levels",
-        "url": "https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg"
+        "name": "New Eyes",
+        "url": "https://open.spotify.com/album/0dNt3MfPrvj6mHmajSuahw"
       },
       "artists": [
         {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
         }
       ],
-      "duration_ms": 199906,
-      "name": "Levels - Radio Edit",
-      "url": "https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg"
+      "duration_ms": 227833,
+      "name": "Rather Be (feat. Jess Glynne)",
+      "url": "https://open.spotify.com/track/61dCUoMCg28qEBzrW6htYM"
     },
     {
       "added_at": "2022-06-29 10:22:13",

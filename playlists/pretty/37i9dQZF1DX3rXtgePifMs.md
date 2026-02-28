@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,169 likes - 110 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,167 likes - 110 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 27 | [Killa](https://open.spotify.com/track/5LeiVdGtVjwRocR3TDQvcN) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Killa](https://open.spotify.com/album/09p7lpjGd806fwNVzAlhGi) | 2:48 |
 | 28 | [Protein v2](https://open.spotify.com/track/4BxywQGCn9qUTHPAarWGZZ) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Universal Credit \(Deluxe\)](https://open.spotify.com/album/4p0i4iUDBybIceENugG7gl) | 3:08 |
 | 29 | [AVVISO](https://open.spotify.com/track/2YMvLfACAlvQMiKonxdeUq) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [SPECCHIO](https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3) | 3:03 |
-| 30 | [Shame \(with Elmiene\)](https://open.spotify.com/track/28Ir6VUbomCsKRYXJDS8pW) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Shame](https://open.spotify.com/album/2o4dcRZUBuseVy8omv6CaO) | 2:32 |
-| 31 | [What Comes Will Come](https://open.spotify.com/track/5U1MVqAfPoLPKllKr0WaRT) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [STRUGGLER](https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf) | 3:51 |
+| 30 | [What Comes Will Come](https://open.spotify.com/track/5U1MVqAfPoLPKllKr0WaRT) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [STRUGGLER](https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf) | 3:51 |
+| 31 | [Shame \(with Elmiene\)](https://open.spotify.com/track/28Ir6VUbomCsKRYXJDS8pW) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Shame](https://open.spotify.com/album/2o4dcRZUBuseVy8omv6CaO) | 2:32 |
 | 32 | [HOLD ON](https://open.spotify.com/track/3PspK6baTu8laBFO32ArQL) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [HOLD ON](https://open.spotify.com/album/44IVa7WdCY2II6a9AVnwpe) | 4:05 |
 | 33 | [there she goes](https://open.spotify.com/track/3DVVQMU478kCIB9FC3mct5) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [there she goes](https://open.spotify.com/album/0oApyH6CKZ2O6tCVLzGcdL) | 2:42 |
 | 34 | [Nothing Matters](https://open.spotify.com/track/5rzxppLxFWvtwzjmyppcqk) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2E00JwOIngqnZbeBkj7aB2) | 3:02 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 90 | [Follow the Cyborg](https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Follow the Cyborg](https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO) | 4:45 |
 | 91 | [Absolutely Tidy](https://open.spotify.com/track/2OLXMMY73l5AZWZ5U5ETt1) | [ILLAMAN](https://open.spotify.com/artist/5Sbyn27Dwdsp9XtsFICpRu), [Pitch 92](https://open.spotify.com/artist/0LjApYPFAPUvMYMb1gFJrc), [PAV4N](https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK) | [Absolutely Tidy](https://open.spotify.com/album/6FTaOl9bhQB7TRpmrdzhtl) | 2:51 |
 | 92 | [Who Else Would It Be](https://open.spotify.com/track/3WbusxungaQoyYLe33Yepv) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Who Else Would It Be](https://open.spotify.com/album/25i87dAxFScrO1VjyyOLlm) | 1:31 |
-| 93 | [Get It](https://open.spotify.com/track/5Oy1hOAnCit3XFyQVwIGOH) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Pain/Pleasure](https://open.spotify.com/album/2PDLRqHuLXz6X9pzaeRh19) | 1:53 |
-| 94 | [I Go Get It](https://open.spotify.com/track/4ADaOjVuuwWbRrOyvayozt) | [Souls Of Creation](https://open.spotify.com/artist/2IdVY7sUy5Dvugq7YXpp9L), [Bobbie Johnson](https://open.spotify.com/artist/53UYVk8esbujg16JqCpQEO) | [I Go Get It](https://open.spotify.com/album/1NCyCAeI4jdb8HTymUhouL) | 2:11 |
+| 93 | [I Go Get It](https://open.spotify.com/track/4ADaOjVuuwWbRrOyvayozt) | [Souls Of Creation](https://open.spotify.com/artist/2IdVY7sUy5Dvugq7YXpp9L), [Bobbie Johnson](https://open.spotify.com/artist/53UYVk8esbujg16JqCpQEO) | [I Go Get It](https://open.spotify.com/album/1NCyCAeI4jdb8HTymUhouL) | 2:11 |
+| 94 | [Get It](https://open.spotify.com/track/5Oy1hOAnCit3XFyQVwIGOH) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Pain/Pleasure](https://open.spotify.com/album/2PDLRqHuLXz6X9pzaeRh19) | 1:53 |
 | 95 | [R.A.V.E.A.S.A.P \(Unglued Remix\)](https://open.spotify.com/track/1FSy5JFWNsPj6hM2qIWr7W) | [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U), [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC) | [R.A.V.E.A.S.A.P \- The Remixes](https://open.spotify.com/album/3ScbyV8uIm9LF607YF8zCT) | 3:32 |
 | 96 | [MMM](https://open.spotify.com/track/5ubj4AhuTnQ5qzuhv4CP3P) | [Skinny Local](https://open.spotify.com/artist/2Qqm503Ng7iC2dMxEobQa1), [Cartel Madras](https://open.spotify.com/artist/3nwKi37CnuKq5BcPr267h3) | [MMM](https://open.spotify.com/album/0Fbc2gf82fyBWrpDQqxnco) | 2:24 |
 | 97 | [Vem com tudo](https://open.spotify.com/track/3KBeevk3IGoAdoktaH1OBJ) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [Vem com tudo](https://open.spotify.com/album/53ycsc2CcgfoTgYtBWtEY8) | 3:14 |

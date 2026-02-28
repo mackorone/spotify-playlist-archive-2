@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-873 songs - 2 day 13 hr 52 min
+874 songs - 2 day 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,7 +395,7 @@
 | [Judge Not \- Ray Mang Radio Edit](https://open.spotify.com/track/5rJ4Actcle0BKg7CUmGqoy) | [The Phenomenal Handclap Band](https://open.spotify.com/artist/4S8UOAApPhwz9WcVOj13VO), [Ray Mang](https://open.spotify.com/artist/5QfdDWfSLE8qbMDIJgCTy2) | [Judge Not \(Ray Mang Mixes\)](https://open.spotify.com/album/7l9wGE3dDzxgn5P8fl9lgw) | 3:34 | 2021-10-06 | 2022-07-29 |
 | [Judge Not \- Ray Mang Radio Edit](https://open.spotify.com/track/63Dcd1TRAGV5dxpJPDz6Ae) | [The Phenomenal Handclap Band](https://open.spotify.com/artist/4S8UOAApPhwz9WcVOj13VO), [Ray Mang](https://open.spotify.com/artist/5QfdDWfSLE8qbMDIJgCTy2) | [Judge Not \(Ray Mang Mixes\)](https://open.spotify.com/album/1ltDNyqAihoVYUfjv28oXl) | 3:34 | 2021-10-06 | 2023-10-13 |
 | [Juicy](https://open.spotify.com/track/37BcvlCPdEu1fQuuad7TZ1) | [Alex Figueira](https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT) | [Juicy](https://open.spotify.com/album/1l9h8V3bk4SUoGrAyviH2K) | 3:45 | 2023-03-22 | 2024-05-01 |
-| [Juicy Fruit](https://open.spotify.com/track/2K7h1g3vxQZEFPisYq0Qlv) | [Karate Boogaloo](https://open.spotify.com/artist/6D1VqVFh9yM5oARLleWNpQ) | [KB's Mixtape No\. 2](https://open.spotify.com/album/4Kf6c23vulrmowV1rj3iHP) | 5:04 | 2022-01-17 |  |
+| [Juicy Fruit](https://open.spotify.com/track/2K7h1g3vxQZEFPisYq0Qlv) | [Karate Boogaloo](https://open.spotify.com/artist/6D1VqVFh9yM5oARLleWNpQ) | [KB's Mixtape No\. 2](https://open.spotify.com/album/4Kf6c23vulrmowV1rj3iHP) | 5:04 | 2022-01-17 | 2026-02-28 |
 | [Jungle Music](https://open.spotify.com/track/4Fz7kqfYvb6T4YUxTexdLs) | [Kelenkye Band](https://open.spotify.com/artist/1AIamdH9sipGz8h6gp0Fmq) | [Various Bilongo](https://open.spotify.com/album/1WnorRo4yM6FtWdFq2enSt) | 5:36 | 2021-10-06 |  |
 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 | 2023-05-24 |  |
 | [Justaju](https://open.spotify.com/track/1z4f6ddISQvCdRNahbyD1t) | [ZOH](https://open.spotify.com/artist/1T5V8R7QKMhQImEdKNDyFU) | [Justaju](https://open.spotify.com/album/3IGsqaTwSwGEKNYClDJwep) | 2:56 | 2022-02-25 | 2022-04-21 |
@@ -468,7 +468,7 @@
 | [Lotus](https://open.spotify.com/track/3oLDvpwu9s6DxzIxNlnETC) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Lotus](https://open.spotify.com/album/1ANXvmfq30QlV1220p71bh) | 3:22 | 2021-10-06 | 2022-07-19 |
 | [Lotus](https://open.spotify.com/track/4Lgp39erLhFmODQ2AnPl2r) | [Sven Wunder](https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly) | [Eastern Flowers](https://open.spotify.com/album/3MzZNd1GFSCkb40EBv326G) | 3:24 | 2023-08-07 | 2024-04-19 |
 | [Lotus](https://open.spotify.com/track/6o8TnSHigKVdqxXDVtmbIx) | [Sven Wunder](https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly) | [Eastern Flowers \(Doğu Çiçekleri\)](https://open.spotify.com/album/1Z821RvawUQZ5ExkogGKCU) | 3:24 | 2021-10-06 | 2022-07-08 |
-| [Love From The Sea](https://open.spotify.com/track/3BINscEIqxx1lFPNIj5L9s) | [Falle Nioke](https://open.spotify.com/artist/2WIUWjEtviW09sdJlb2G1J) | [Love From The Sea](https://open.spotify.com/album/2RriZ7UOmmWt4pJqOyijIZ) | 3:15 | 2025-09-26 |  |
+| [Love From The Sea](https://open.spotify.com/track/3BINscEIqxx1lFPNIj5L9s) | [Falle Nioke](https://open.spotify.com/artist/2WIUWjEtviW09sdJlb2G1J) | [Love From The Sea](https://open.spotify.com/album/2RriZ7UOmmWt4pJqOyijIZ) | 3:15 | 2025-09-26 | 2026-02-28 |
 | [Love The Way You Love](https://open.spotify.com/track/556c8oARPcgftAtxRE2Wz9) | [Claude Fontaine](https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y) | [Love The Way You Love/Lover's Vow](https://open.spotify.com/album/5u0g02zU7BM4MclrO8H6Vv) | 2:56 | 2024-08-02 | 2024-11-24 |
 | [Lovin'](https://open.spotify.com/track/72nY8T0GWF3bCTRjpE1kpi) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Lovin'](https://open.spotify.com/album/2agFe3zLex12Y3mSFiuOyb) | 2:01 | 2024-02-09 | 2024-09-23 |
 | [Lupita](https://open.spotify.com/track/1Xnf2h75C55EKU8H9msq7G) | [Nico Gomez](https://open.spotify.com/artist/48YivTBA0WJnVTQpmvTQzF), [Nico Gomez And His Afro Percussion Inc.](https://open.spotify.com/artist/364fBwwx3s5jbfL90uDXys) | [Ritual](https://open.spotify.com/album/2ayMxfYWzohGfq0ZDtmOGQ) | 3:42 | 2023-12-20 |  |
@@ -591,7 +591,7 @@
 | [Only You](https://open.spotify.com/track/3NcGNpeJ3rouV7fQ3dtv04) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/2kEqaFXOjqbwd6nKci9pEX) | 6:21 | 2021-10-06 | 2022-07-29 |
 | [Only You](https://open.spotify.com/track/3hYwZdd2dvngfePGMwkfbN) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K) | 6:21 | 2021-10-06 | 2023-04-29 |
 | [Only You](https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm) | 6:21 | 2021-10-06 | 2024-02-10 |
-| [Ontem](https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Ontem](https://open.spotify.com/album/5ezHGivGiyMLQ7CthbHBWy) | 2:15 | 2021-10-06 | 2026-02-20 |
+| [Ontem](https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Ontem](https://open.spotify.com/album/5ezHGivGiyMLQ7CthbHBWy) | 2:15 | 2021-10-06 |  |
 | [OOO](https://open.spotify.com/track/7CAPcvPlTnrqR6KhOV23fD) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT) | [OOO](https://open.spotify.com/album/1reeT3XDZMo9uiXLuBUKZd) | 3:03 | 2022-01-12 | 2024-07-05 |
 | [Open the Gates](https://open.spotify.com/track/31RxSGS6KMoMfVIOISvVFy) | [Irreversible Entanglements](https://open.spotify.com/artist/5XqyqoLZXA69lCNyBT3f89) | [Open the Gates](https://open.spotify.com/album/7tTmhBfHBSUJWHIygHlX31) | 2:39 | 2022-02-12 | 2022-06-12 |
 | [Osè](https://open.spotify.com/track/43CH8hUhxHIva2bnJS2O6c) | [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Kaleta](https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m) | [No Be Today](https://open.spotify.com/album/3hlPGhWkvHdDXoaZFKIbgV) | 3:59 | 2024-06-27 | 2026-01-21 |
@@ -869,6 +869,7 @@
 | [Zarambe \- Afrolicious Remix](https://open.spotify.com/track/0Oga3F3Fs4bZGrfiwkuSLl) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI), [Afrolicious](https://open.spotify.com/artist/3KqifmMqcKiOWYzte5jZcF) | [Karimba Diabolic](https://open.spotify.com/album/1ZIUBvitQJ6WMfQvnHjjxU) | 4:58 | 2022-04-01 | 2022-04-12 |
 | [Zenzero](https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA) | [Zenzero](https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO) | 4:10 | 2023-05-22 | 2025-03-28 |
 | [Zorromi](https://open.spotify.com/track/6POQFiHPuoSsjRwDoEin2I) | [Vaudou Game](https://open.spotify.com/artist/7MEH1SUDgj0NU6gDjDXokz) | [NOUSSIN](https://open.spotify.com/album/2GTv9mrqZql1WAuSq4zAQH) | 3:54 | 2021-10-06 | 2022-07-29 |
+| [Zülüf Dökülmüş Yüze](https://open.spotify.com/track/5xhx8XGmUkCtukn7Ju0lkr) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Garip](https://open.spotify.com/album/0AQbjEFUxFfAnq1Ag6RLYu) | 3:45 | 2026-02-27 |  |
 | [Água Benta](https://open.spotify.com/track/2UEjZl2dOHNWw3HPdJ9At5) | [Claudia Manzo](https://open.spotify.com/artist/3CMX8YNfpVGTCUudvZPDpg), [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5) | [Água Benta](https://open.spotify.com/album/3hPAPkaEKfnP1d8sNqy1bp) | 3:08 | 2022-01-14 | 2022-04-20 |
 | [Ángeles y Demonios](https://open.spotify.com/track/6kHPDIt9xOz5BWux4W3lkg) | [Eskorzo](https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8) | [Ángeles y Demonios](https://open.spotify.com/album/2RNqqNCMsxHAlxQfnChDEk) | 2:59 | 2022-06-22 | 2022-08-10 |
 | [Ça fait du bien \- Voilaaa Remix](https://open.spotify.com/track/35iCo2B0jaGwYpaFP2fFZ8) | [Antonin](https://open.spotify.com/artist/5Z1r1R8kuSh4FRdQh7kzmC), [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1) | [Ça fait 2x plus de bien](https://open.spotify.com/album/5v03jp3rrC4R0AVFlMsMAE) | 3:28 | 2021-10-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdCC2tMwtB2.md) - [plain]
 
 > Your escape to the world of chill Indian pop\. Cover \- Thoda Thoda Pyaar
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,364 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,453 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdCC2tMwtB2.md) - [plain]
 | 49 | [Lahore](https://open.spotify.com/track/5aw6a4ZzgCe92pV6ODc8vC) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [Lahore](https://open.spotify.com/album/6jIvjCJshM306VtQvNep4N) | 3:17 |
 | 50 | [Qismat Badal Di \(From "Yodha"\)](https://open.spotify.com/track/30YqoekCI5XuWys0rD9lLL) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Aditya Dev](https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Qismat Badal Di \(From "Yodha"\)](https://open.spotify.com/album/0OyxPr9bfW719KqosBiMqu) | 5:09 |
 
-Snapshot ID: `AAAAABbmncvL1kjAsqKQQfE8Uhy+38L7`
+Snapshot ID: `AAAAAHY6zpMEzuuzXgHve386G9hGAjeI`

@@ -1,6 +1,6 @@
 {
   "description": "\ud55c\uad6d \ud799\ud569\uc758 \ubfcc\ub9ac, \uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d \ud799\ud569\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (\ucee4\ubc84: Tiger JK)",
-  "num_followers": 5694,
+  "num_followers": 5700,
   "original_name": "\uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d\ud799\ud569 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -843,38 +843,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Modern Rhymes XX",
-        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
-      },
-      "artists": [
-        {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
-        }
-      ],
-      "duration_ms": 223578,
-      "name": "Overclass - 2021 Remaster",
-      "url": "https://open.spotify.com/track/4s39gBYJ7Zz8x97VPMaSWL"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Yangdonggeun a.k.a Madman",
-        "url": "https://open.spotify.com/album/305r3dhQ3aVqsfwHCf531R"
-      },
-      "artists": [
-        {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
-        }
-      ],
-      "duration_ms": 243621,
-      "name": "\uc120\ubb38\ub2f5",
-      "url": "https://open.spotify.com/track/5I4uO1Ff81E0ltkPbQl5Uw"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "Handalas",
         "url": "https://open.spotify.com/album/0RmuofqnwuvBbioiOv1jm8"
       },
@@ -895,6 +863,38 @@
       "duration_ms": 216821,
       "name": "Handalas",
       "url": "https://open.spotify.com/track/0VGwwzutmfWbxQfRqQnbme"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Yangdonggeun a.k.a Madman",
+        "url": "https://open.spotify.com/album/305r3dhQ3aVqsfwHCf531R"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+        }
+      ],
+      "duration_ms": 243621,
+      "name": "\uc120\ubb38\ub2f5",
+      "url": "https://open.spotify.com/track/5I4uO1Ff81E0ltkPbQl5Uw"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Modern Rhymes XX",
+        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
+      },
+      "artists": [
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        }
+      ],
+      "duration_ms": 223578,
+      "name": "Overclass - 2021 Remaster",
+      "url": "https://open.spotify.com/track/4s39gBYJ7Zz8x97VPMaSWL"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "\uc808\ucda9 3 : \ubd88\ud55c\ub2f9\ub4e4\uc758 \uc9c4\uc785\uacfc \uc804\ud22c Pt. 1",
-        "url": "https://open.spotify.com/album/3YBfM7wRxpAj4coq2Y6vJz"
-      },
-      "artists": [
-        {
-          "name": "P-Type",
-          "url": "https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "\ubd88\ud55c\ub2f9's oblige",
-      "url": "https://open.spotify.com/track/52pVTfenFprVcvSunAqBxc"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "Heavy Deep",
         "url": "https://open.spotify.com/album/5BCPxcdCSPOy5MdLR9HN9S"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 231993,
       "name": "\uc774 \uad6c\uc5ed\uc5d0 \ubbf8\uce5c\ub188\uc740 \ub098\uc57c (feat. Geegooin & New Champ)",
       "url": "https://open.spotify.com/track/3diybLrU4zkdF4Ka1ICrEa"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "\uc808\ucda9 3 : \ubd88\ud55c\ub2f9\ub4e4\uc758 \uc9c4\uc785\uacfc \uc804\ud22c Pt. 1",
+        "url": "https://open.spotify.com/album/3YBfM7wRxpAj4coq2Y6vJz"
+      },
+      "artists": [
+        {
+          "name": "P-Type",
+          "url": "https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "\ubd88\ud55c\ub2f9's oblige",
+      "url": "https://open.spotify.com/track/52pVTfenFprVcvSunAqBxc"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1619,18 +1619,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Modern Rhymes XX",
-        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
+        "name": "Q Train (Remaster)",
+        "url": "https://open.spotify.com/album/1Q2x9xDLgELzf08FiUwGoX"
       },
       "artists": [
         {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        },
+        {
+          "name": "Mad Clown",
+          "url": "https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd"
         }
       ],
-      "duration_ms": 32210,
-      "name": "Interlude - 2021 Remaster",
-      "url": "https://open.spotify.com/track/3L0p9O4EUOaZ4RfbHXWOfg"
+      "duration_ms": 84925,
+      "name": "Interlude (feat. Mad Clown)",
+      "url": "https://open.spotify.com/track/7pLOLSicKZhYp0OFXX1aiN"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1651,22 +1655,18 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Q Train (Remaster)",
-        "url": "https://open.spotify.com/album/1Q2x9xDLgELzf08FiUwGoX"
+        "name": "Modern Rhymes XX",
+        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
       },
       "artists": [
         {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        },
-        {
-          "name": "Mad Clown",
-          "url": "https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd"
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
         }
       ],
-      "duration_ms": 84925,
-      "name": "Interlude (feat. Mad Clown)",
-      "url": "https://open.spotify.com/track/7pLOLSicKZhYp0OFXX1aiN"
+      "duration_ms": 32210,
+      "name": "Interlude - 2021 Remaster",
+      "url": "https://open.spotify.com/track/3L0p9O4EUOaZ4RfbHXWOfg"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1707,18 +1707,30 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Modern Rhymes XX",
-        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
+        "name": "Q Train (Remaster)",
+        "url": "https://open.spotify.com/album/1Q2x9xDLgELzf08FiUwGoX"
       },
       "artists": [
         {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        },
+        {
+          "name": "Notorious Kid",
+          "url": "https://open.spotify.com/artist/34jRpqNgQ6oIRmWSRTYjbF"
+        },
+        {
+          "name": "Friz",
+          "url": "https://open.spotify.com/artist/4PuEvEs294YAZWIbWojzDo"
+        },
+        {
+          "name": "Pumkin",
+          "url": "https://open.spotify.com/artist/4Kk6ZkqWkDHVywRCtX20XD"
         }
       ],
-      "duration_ms": 239052,
-      "name": "Drama - 2021 Remaster",
-      "url": "https://open.spotify.com/track/6bofFcTR5GBWTx8KszhDGB"
+      "duration_ms": 218265,
+      "name": "\ubb50 (feat. Notorious Kid, Friz & Pumkin)",
+      "url": "https://open.spotify.com/track/3qgm6blx9hXtZZysC9Yrbm"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1747,30 +1759,18 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Q Train (Remaster)",
-        "url": "https://open.spotify.com/album/1Q2x9xDLgELzf08FiUwGoX"
+        "name": "Modern Rhymes XX",
+        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
       },
       "artists": [
         {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        },
-        {
-          "name": "Notorious Kid",
-          "url": "https://open.spotify.com/artist/34jRpqNgQ6oIRmWSRTYjbF"
-        },
-        {
-          "name": "Friz",
-          "url": "https://open.spotify.com/artist/4PuEvEs294YAZWIbWojzDo"
-        },
-        {
-          "name": "Pumkin",
-          "url": "https://open.spotify.com/artist/4Kk6ZkqWkDHVywRCtX20XD"
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
         }
       ],
-      "duration_ms": 218265,
-      "name": "\ubb50 (feat. Notorious Kid, Friz & Pumkin)",
-      "url": "https://open.spotify.com/track/3qgm6blx9hXtZZysC9Yrbm"
+      "duration_ms": 239052,
+      "name": "Drama - 2021 Remaster",
+      "url": "https://open.spotify.com/track/6bofFcTR5GBWTx8KszhDGB"
     },
     {
       "added_at": "2024-11-20 08:34:55",

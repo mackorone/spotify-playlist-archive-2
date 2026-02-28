@@ -7925,6 +7925,24 @@
     },
     {
       "album": {
+        "name": "Heirloom",
+        "url": "https://open.spotify.com/album/2VuobD2pcSXd1WqzQoHg9b"
+      },
+      "artists": [
+        {
+          "name": "Catalano Trio",
+          "url": "https://open.spotify.com/artist/14HvdAFCqZPvawZWs20Qu8"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164406,
+      "name": "Heirloom",
+      "url": "https://open.spotify.com/track/1QL68tT5Wxlv0sM1ovj1aZ"
+    },
+    {
+      "album": {
         "name": "Blues For Elsie",
         "url": "https://open.spotify.com/album/55CmXhW64nZfXpEeo1ARyk"
       },
@@ -10690,7 +10708,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 170784,
       "name": "Jazz Odyssey",
       "url": "https://open.spotify.com/track/3n3gfS8H6kpyqF2x5vUdLT"
@@ -17469,6 +17487,24 @@
     },
     {
       "album": {
+        "name": "Sneaky Pete",
+        "url": "https://open.spotify.com/album/693KtCHCKKr6arplu4FZvU"
+      },
+      "artists": [
+        {
+          "name": "Saginaw Society",
+          "url": "https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182741,
+      "name": "Sneaky Pete",
+      "url": "https://open.spotify.com/track/1IZph8cPoXsBsbVWNUO5ay"
+    },
+    {
+      "album": {
         "name": "On A Misty Night",
         "url": "https://open.spotify.com/album/4wOwSu9EKBoAywQp51RVV9"
       },
@@ -17768,7 +17804,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 160111,
       "name": "Something about him",
       "url": "https://open.spotify.com/track/18L4SUEMJ0jJKmajWCCRP7"
@@ -18002,7 +18038,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 230088,
       "name": "Soulful Stroll",
       "url": "https://open.spotify.com/track/5p5ia2SufA5Tl9FUjHDUky"
@@ -18906,6 +18942,24 @@
       "duration_ms": 170872,
       "name": "Swivel Around Me",
       "url": "https://open.spotify.com/track/6pNCr9TVxcgqqYHhhAjnPF"
+    },
+    {
+      "album": {
+        "name": "Take a ride",
+        "url": "https://open.spotify.com/album/3ZISczhR1XOvjQCtkWNUd6"
+      },
+      "artists": [
+        {
+          "name": "The Uptown Players",
+          "url": "https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213388,
+      "name": "Take a ride",
+      "url": "https://open.spotify.com/track/2OBL2jmGbCquQi0RrBBu5I"
     },
     {
       "album": {

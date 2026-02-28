@@ -4473,6 +4473,28 @@
     },
     {
       "album": {
+        "name": "Great Escape",
+        "url": "https://open.spotify.com/album/2oYYzL49cVIJiBpDJwykZW"
+      },
+      "artists": [
+        {
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+        },
+        {
+          "name": "Finnick Jones",
+          "url": "https://open.spotify.com/artist/6s6cObAlUOtkiPsW133R37"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181034,
+      "name": "Great Escape",
+      "url": "https://open.spotify.com/track/0p0JRgYaUxYf4ZCf6Sh8kq"
+    },
+    {
+      "album": {
         "name": "Guiding Lights",
         "url": "https://open.spotify.com/album/5Igd3P0Jm4UXTOBB15YToZ"
       },
@@ -6528,7 +6550,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 207000,
       "name": "MANIAC",
       "url": "https://open.spotify.com/track/0MAJOLCa2RX5Rs35AJ6Y64"

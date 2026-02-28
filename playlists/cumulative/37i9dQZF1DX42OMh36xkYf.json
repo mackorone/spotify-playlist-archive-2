@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-27",
-  "description": "Resonancias extraordinarias de luminiscencia inclasificable. Con nsqk en portada.",
+  "description": "Resonancias extraordinarias de luminiscencia inclasificable. Con Motherflowers en portada.",
   "name": "IRIS",
   "tracks": [
     {
@@ -176,7 +176,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 238143,
       "name": "Alma Peque\u00f1a",
       "url": "https://open.spotify.com/track/1jOt4DEYffEjM4pygVExHi"
@@ -860,7 +860,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 261250,
       "name": "Como Romper el Deseo",
       "url": "https://open.spotify.com/track/4inxtujkyeh3RKQlisFfyp"
@@ -915,6 +915,28 @@
     },
     {
       "album": {
+        "name": "Conmigo",
+        "url": "https://open.spotify.com/album/5PB9LwfZgjkww0fL8Rgb92"
+      },
+      "artists": [
+        {
+          "name": "Solo Valencia",
+          "url": "https://open.spotify.com/artist/2ZDmVE82uDUSsXwPnjr2xH"
+        },
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249954,
+      "name": "Conmigo",
+      "url": "https://open.spotify.com/track/5FJnlDlaf98nWC4SCdLMZU"
+    },
+    {
+      "album": {
         "name": "R\u00d8Z \u2013 Spotify Sessions",
         "url": "https://open.spotify.com/album/00KpVHcDHe6LV4sPlPOvgA"
       },
@@ -930,7 +952,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 293166,
       "name": "CORA DE HIELO (feat. Natt Calma) \u2013 Spotify Sessions",
       "url": "https://open.spotify.com/track/75AL7s9h64TNHPNhfficbw"
@@ -1170,6 +1192,28 @@
       "duration_ms": 208453,
       "name": "Del Cielo Te Cuido",
       "url": "https://open.spotify.com/track/2ViPveuFTv06DjhGRDYFjo"
+    },
+    {
+      "album": {
+        "name": "despu\u00e9s del PARi",
+        "url": "https://open.spotify.com/album/092D7xodckEdeVDgc4Jcva"
+      },
+      "artists": [
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        },
+        {
+          "name": "Yera",
+          "url": "https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232211,
+      "name": "despu\u00e9s del PARi",
+      "url": "https://open.spotify.com/track/1yPyDQ64m8YxTIMaihyimf"
     },
     {
       "album": {
@@ -3126,6 +3170,24 @@
       "duration_ms": 235760,
       "name": "No Me Dan Las Cuentas",
       "url": "https://open.spotify.com/track/5zfvXukZ4FrdNR7gEDScGw"
+    },
+    {
+      "album": {
+        "name": "TODO SE DERRUMBA",
+        "url": "https://open.spotify.com/album/5ZkTUj9Jv4iFjyEhS2JL3u"
+      },
+      "artists": [
+        {
+          "name": "DeGlorian",
+          "url": "https://open.spotify.com/artist/4Rvuu3pP1wo4FFJIV5VpP1"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "No me digas que est\u00e1s bien",
+      "url": "https://open.spotify.com/track/0UetCgKu0GfX4FxP0tzNKd"
     },
     {
       "album": {

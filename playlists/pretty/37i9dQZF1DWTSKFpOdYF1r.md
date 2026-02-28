@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 
 > The songs that defined the other side of the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,061,056 likes - 80 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,061,421 likes - 80 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 31 | [Blue Monday \- 2016 Remaster](https://open.spotify.com/track/1RSy7B2vfPi84N80QJ6frX) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Singles \(2016 Remaster\)](https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6) | 7:30 |
 | 32 | [Pretty In Pink](https://open.spotify.com/track/1K1TFdBh7NrDyKiwiJEmsy) | [The Psychedelic Furs](https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe) | [Talk Talk Talk](https://open.spotify.com/album/2fwQTAo511xnTWUYJ1Gnrh) | 3:58 |
 | 33 | [\(Feels Like\) Heaven](https://open.spotify.com/track/41Laec0pItedzpw2D8HWYp) | [Fiction Factory](https://open.spotify.com/artist/6T6T5RCps6bHzTSDq8pyFj) | [Throw The Warped Wheel Out](https://open.spotify.com/album/04HMu1DvCSfkS5vqctgjUp) | 3:33 |
-| 34 | [Fools Gold \- Remastered 2009](https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 9:54 |
-| 35 | [Voices Carry](https://open.spotify.com/track/0ZYf6N5eBeXStMri0mf3DZ) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 4:23 |
+| 34 | [Voices Carry](https://open.spotify.com/track/0ZYf6N5eBeXStMri0mf3DZ) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 4:23 |
+| 35 | [Fools Gold \- Remastered 2009](https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 9:54 |
 | 36 | [Tempted](https://open.spotify.com/track/5r2z0FHOoFI06GZEVGDjzM) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [East Side Story](https://open.spotify.com/album/4178w40uOpDld2RnR1ifCy) | 4:00 |
 | 37 | [Just Like Honey](https://open.spotify.com/track/1LwP9g1Hjbs64jXM2Qsxry) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy \(Expanded Version\)](https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto) | 3:02 |
 | 38 | [99 Red Balloons](https://open.spotify.com/track/2bdcFXS61ey6x6Y1andx0F) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [99 Luftballons](https://open.spotify.com/album/37XWs0ueFzqSRLeNV9zZMC) | 3:50 |

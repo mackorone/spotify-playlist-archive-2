@@ -4,7 +4,7 @@
 
 > Найліпша музика від українських артистів\-початківців\. Обкладинка: <a href="spotify:artist:4jLIjIj0Lc0dpbWQWjsZXQ">TAKAYA</a>
 
-426 songs - 21 hr 5 min
+427 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Більше не люблю](https://open.spotify.com/track/4UzzZpKikmFAjrlK9AbBvG) | [Depotion](https://open.spotify.com/artist/0xy8zVHjXuAXiQpA1e9FqS) | [Більше не люблю](https://open.spotify.com/album/15XWbPoJabrEwdxHSWMdNm) | 3:58 | 2025-12-17 | 2026-02-04 |
 | [В голові](https://open.spotify.com/track/03WpQlL0qdUVhA6GFVJ1ug) | [TEMYCH](https://open.spotify.com/artist/3GqVg7lVYyL7gDt8q8wH0q) | [В голові](https://open.spotify.com/album/64NarpohpV2zmdwK0EFVce) | 2:11 | 2025-11-11 | 2025-12-10 |
 | [в любові](https://open.spotify.com/track/6hpdZXpzSXl5ZR99djKNpY) | [MLB](https://open.spotify.com/artist/4pyLLPBuAtCuF0kvMwiycr) | [в любові](https://open.spotify.com/album/2ccaU544gtAu4wdapaTiF8) | 3:53 | 2025-12-02 | 2026-01-15 |
-| [в полоні](https://open.spotify.com/track/67O7mrJFQQ83YtswcW8Uot) | [TAKAYA](https://open.spotify.com/artist/4jLIjIj0Lc0dpbWQWjsZXQ) | [в полоні](https://open.spotify.com/album/7k5l5fKvtwR2VVjhdByAes) | 3:27 | 2026-02-03 |  |
+| [в полоні](https://open.spotify.com/track/67O7mrJFQQ83YtswcW8Uot) | [TAKAYA](https://open.spotify.com/artist/4jLIjIj0Lc0dpbWQWjsZXQ) | [в полоні](https://open.spotify.com/album/7k5l5fKvtwR2VVjhdByAes) | 3:27 | 2026-02-03 | 2026-02-28 |
 | [В тумані](https://open.spotify.com/track/5T1BC84jg3BNZ4F1DtmsTM) | [morgendie](https://open.spotify.com/artist/3Qr9KtjDCIe6L5ByQB6Hnj), [PALMYRA](https://open.spotify.com/artist/1M4uTys4cgGmNVTGBqBzEj) | [В тумані](https://open.spotify.com/album/4juSgCwey9o8IAYTD2PSD8) | 3:45 | 2026-02-11 |  |
 | [Валерія](https://open.spotify.com/track/4WKWZ5znMU2rGCFhRlIeod) | [Микола Серпень](https://open.spotify.com/artist/0jaj5KueBn1OqYwpfBX4e2) | [Валерія](https://open.spotify.com/album/0b4Nc1wIBio6JT90HtdyTX) | 2:24 | 2025-10-07 | 2025-10-29 |
 | [Ведмедики CBD](https://open.spotify.com/track/4EqwXUilcECIZkp2TeHvht) | [Блекфіш](https://open.spotify.com/artist/1VHJFHPhojU6jseMUCyLLN) | [Ведмедики CBD](https://open.spotify.com/album/7HYLEODSGjJ2yUuHCJx8xL) | 4:05 | 2025-11-19 | 2025-12-18 |
@@ -331,6 +331,7 @@
 | [сепуку](https://open.spotify.com/track/1llNmkD9I4fkicO1MRX4xx) | [ніщо](https://open.spotify.com/artist/2EvTbGozen8nATUn70qYAM) | [сепуку](https://open.spotify.com/album/2rNMPHov3OIJKzexo5O4IW) | 3:30 | 2025-10-07 | 2025-10-22 |
 | [Сила тертя](https://open.spotify.com/track/70vW92ECvZBnjE9zhvc3Yj) | [KOVA KAJI](https://open.spotify.com/artist/2k8PaPfIdBT1AWPz3KPLig) | [Сила тертя](https://open.spotify.com/album/4lxpAQ5HvNIu8SelF3NLW4) | 2:52 | 2026-01-27 |  |
 | [синя ізо](https://open.spotify.com/track/7ovCVOZpjult1obW62RjNK) | [nesmak](https://open.spotify.com/artist/5G3gnjPyNw07wuoAKQxE69) | [синя ізо](https://open.spotify.com/album/79IAa25WmOxSKYc5I8O2Ci) | 1:46 | 2026-01-13 |  |
+| [скаженими](https://open.spotify.com/track/3qan5mQhVS7nTiBqBQu1sa) | [TAKAYA](https://open.spotify.com/artist/4jLIjIj0Lc0dpbWQWjsZXQ) | [скаженими](https://open.spotify.com/album/1kdFiVS4v42Bt9tXJxlih8) | 2:47 | 2026-02-27 |  |
 | [Сліди](https://open.spotify.com/track/1T1g3WDXtSn1ne2uYaeetK) | [Lefor](https://open.spotify.com/artist/6hzblzXPu0wV7T1L8io0o5) | [Сліди](https://open.spotify.com/album/61uQE1Dp1ihRB26y0HPgjH) | 2:14 | 2026-01-27 |  |
 | [смерть не біда](https://open.spotify.com/track/4DZBAIusY9x54hW0UFWEKQ) | [o.hroza](https://open.spotify.com/artist/35t5PBQsmMVZnS57wAg8ek), [СИЛУЕТ](https://open.spotify.com/artist/33DilRHzbC5SAsLC3AGxlE) | [смерть не біда](https://open.spotify.com/album/3oKhHlTsiCoNOli3zmCBgj) | 1:54 | 2025-12-17 | 2026-02-04 |
 | [смирись](https://open.spotify.com/track/4iIUkBjIQkGRJ962IcmXbM) | [o.hroza](https://open.spotify.com/artist/35t5PBQsmMVZnS57wAg8ek) | [смирись](https://open.spotify.com/album/0ZmTfyY3hgqk7gfFfKJqoZ) | 1:29 | 2025-10-07 | 2025-10-22 |

@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 84263,
+  "num_followers": 84302,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK3jZ0i9+qdigNrThNdyD0UUSJ2X",
+  "snapshot_id": "AAAAAItTRNS8Vyz9uOnjkAWGOkVgZGo/",
   "tracks": [
     {
       "added_at": "2026-02-20 00:01:32",
@@ -119,22 +119,6 @@
     {
       "added_at": "2026-02-20 00:01:32",
       "album": {
-        "name": "Mmmn",
-        "url": "https://open.spotify.com/album/6KHUZ6Kw6qohMw6aalUcsb"
-      },
-      "artists": [
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        }
-      ],
-      "duration_ms": 140160,
-      "name": "Mmmn",
-      "url": "https://open.spotify.com/track/0QiUFqWBC5Qzho0Oh0c8U9"
-    },
-    {
-      "added_at": "2026-02-20 00:01:32",
-      "album": {
         "name": "Work Of Art",
         "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 134482,
       "name": "Basquiat",
       "url": "https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg"
+    },
+    {
+      "added_at": "2026-02-20 00:01:32",
+      "album": {
+        "name": "Mmmn",
+        "url": "https://open.spotify.com/album/6KHUZ6Kw6qohMw6aalUcsb"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "duration_ms": 140160,
+      "name": "Mmmn",
+      "url": "https://open.spotify.com/track/0QiUFqWBC5Qzho0Oh0c8U9"
     },
     {
       "added_at": "2026-02-20 00:01:32",
@@ -203,22 +203,18 @@
     {
       "added_at": "2026-02-20 00:01:32",
       "album": {
-        "name": "HAUSAPIANO (Remix)",
-        "url": "https://open.spotify.com/album/2vXERVitZkqH0B3YIjlhtJ"
+        "name": "Lungu Boy",
+        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
       },
       "artists": [
         {
-          "name": "Kvng Vinci",
-          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
-        },
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 137844,
-      "name": "HAUSAPIANO - Remix",
-      "url": "https://open.spotify.com/track/3H2bLX6U4kNuv04iTkCrSp"
+      "duration_ms": 204279,
+      "name": "Uhh Yeahh",
+      "url": "https://open.spotify.com/track/42Xw4kv2Wy75UugmQ4kv8P"
     },
     {
       "added_at": "2026-02-20 00:01:32",
@@ -243,18 +239,22 @@
     {
       "added_at": "2026-02-20 00:01:32",
       "album": {
-        "name": "Lungu Boy",
-        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
+        "name": "HAUSAPIANO (Remix)",
+        "url": "https://open.spotify.com/album/2vXERVitZkqH0B3YIjlhtJ"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Kvng Vinci",
+          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
+        },
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
         }
       ],
-      "duration_ms": 204279,
-      "name": "Uhh Yeahh",
-      "url": "https://open.spotify.com/track/42Xw4kv2Wy75UugmQ4kv8P"
+      "duration_ms": 137844,
+      "name": "HAUSAPIANO - Remix",
+      "url": "https://open.spotify.com/track/3H2bLX6U4kNuv04iTkCrSp"
     },
     {
       "added_at": "2026-02-20 00:01:32",
@@ -887,6 +887,22 @@
     {
       "added_at": "2026-02-20 00:01:32",
       "album": {
+        "name": "Ojapiano",
+        "url": "https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e"
+      },
+      "artists": [
+        {
+          "name": "KCee",
+          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+        }
+      ],
+      "duration_ms": 168421,
+      "name": "Ojapiano",
+      "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
+    },
+    {
+      "added_at": "2026-02-20 00:01:32",
+      "album": {
         "name": "Hi Hi",
         "url": "https://open.spotify.com/album/6gmqGq8zHgE0ym1OImsxqt"
       },
@@ -907,22 +923,6 @@
     {
       "added_at": "2026-02-20 00:01:32",
       "album": {
-        "name": "Ojapiano",
-        "url": "https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e"
-      },
-      "artists": [
-        {
-          "name": "KCee",
-          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
-        }
-      ],
-      "duration_ms": 168421,
-      "name": "Ojapiano",
-      "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
-    },
-    {
-      "added_at": "2026-02-20 00:01:32",
-      "album": {
         "name": "Sooner",
         "url": "https://open.spotify.com/album/2BMLS5M4KcpBEVCgZoU62q"
       },
@@ -935,6 +935,22 @@
       "duration_ms": 169811,
       "name": "Sooner",
       "url": "https://open.spotify.com/track/63sgKgx5GSfmQYrCTCWM9O"
+    },
+    {
+      "added_at": "2026-02-20 00:01:32",
+      "album": {
+        "name": "Double",
+        "url": "https://open.spotify.com/album/3yVzzFCkrfzcmT8koofo0e"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 168779,
+      "name": "Double",
+      "url": "https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg"
     },
     {
       "added_at": "2026-02-20 00:01:32",
@@ -959,22 +975,6 @@
       "duration_ms": 188985,
       "name": "GWAGWALADA",
       "url": "https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY"
-    },
-    {
-      "added_at": "2026-02-20 00:01:32",
-      "album": {
-        "name": "Double",
-        "url": "https://open.spotify.com/album/3yVzzFCkrfzcmT8koofo0e"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 168779,
-      "name": "Double",
-      "url": "https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg"
     },
     {
       "added_at": "2026-02-20 00:01:32",

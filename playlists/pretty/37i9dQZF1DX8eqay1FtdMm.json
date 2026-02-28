@@ -1,6 +1,6 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Tei (\ud14c\uc774)) \uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 416856,
+  "num_followers": 416831,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
@@ -914,15 +914,11 @@
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
         }
       ],
-      "duration_ms": 223214,
-      "name": "Love Is Ugly (Feat. Hwa Sa)",
-      "url": "https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N"
+      "duration_ms": 191220,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
     },
     {
       "added_at": "2026-02-23 05:32:55",
@@ -1014,11 +1010,31 @@
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
         }
       ],
-      "duration_ms": 191220,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
+      "duration_ms": 223214,
+      "name": "Love Is Ugly (Feat. Hwa Sa)",
+      "url": "https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N"
+    },
+    {
+      "added_at": "2026-02-23 05:32:55",
+      "album": {
+        "name": "Not a Dream",
+        "url": "https://open.spotify.com/album/35h7rXLmdDVgNOhN9Zo8t2"
+      },
+      "artists": [
+        {
+          "name": "Song Sohee",
+          "url": "https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Not a Dream",
+      "url": "https://open.spotify.com/track/519ieUWSSFG5AuPCo0dy54"
     },
     {
       "added_at": "2026-02-23 05:32:55",
@@ -1051,22 +1067,6 @@
       "duration_ms": 203269,
       "name": "SUNSET WITH YOU",
       "url": "https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i"
-    },
-    {
-      "added_at": "2026-02-23 05:32:55",
-      "album": {
-        "name": "Not a Dream",
-        "url": "https://open.spotify.com/album/35h7rXLmdDVgNOhN9Zo8t2"
-      },
-      "artists": [
-        {
-          "name": "Song Sohee",
-          "url": "https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Not a Dream",
-      "url": "https://open.spotify.com/track/519ieUWSSFG5AuPCo0dy54"
     },
     {
       "added_at": "2026-02-23 05:32:55",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-02-23 05:32:55",
       "album": {
-        "name": "I Miss You So Much",
-        "url": "https://open.spotify.com/album/50HgFoUXWE2jT2eABh4DcM"
-      },
-      "artists": [
-        {
-          "name": "Hwang Karam",
-          "url": "https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc"
-        }
-      ],
-      "duration_ms": 216813,
-      "name": "I Miss You So Much",
-      "url": "https://open.spotify.com/track/0wLizUzIFwrPbzohRmm8LU"
-    },
-    {
-      "added_at": "2026-02-23 05:32:55",
-      "album": {
         "name": "Alchemy of Souls, Pt. 6 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/6ORZQE6DlroG3iYfnv1kLa"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2026-02-23 05:32:55",
       "album": {
-        "name": "Tell The World",
-        "url": "https://open.spotify.com/album/0w7ETi7NIxWTwJYUmHwmGG"
+        "name": "I Miss You So Much",
+        "url": "https://open.spotify.com/album/50HgFoUXWE2jT2eABh4DcM"
       },
       "artists": [
         {
-          "name": "HA SUNG WOON",
-          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+          "name": "Hwang Karam",
+          "url": "https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Tell The World",
-      "url": "https://open.spotify.com/track/4Por0pRb3LvDDlLuQxXEfM"
+      "duration_ms": 216813,
+      "name": "I Miss You So Much",
+      "url": "https://open.spotify.com/track/0wLizUzIFwrPbzohRmm8LU"
     },
     {
       "added_at": "2026-02-23 05:32:55",
@@ -1215,22 +1199,6 @@
     {
       "added_at": "2026-02-23 05:32:55",
       "album": {
-        "name": "Even If This Love Disappears Tonight",
-        "url": "https://open.spotify.com/album/2kjmJMg1P4XbOZfTpH9PoF"
-      },
-      "artists": [
-        {
-          "name": "Jeon Sang Keun",
-          "url": "https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Even If This Love Disappears Tonight",
-      "url": "https://open.spotify.com/track/00KY9LKV7KJM53zByjtmiE"
-    },
-    {
-      "added_at": "2026-02-23 05:32:55",
-      "album": {
         "name": "\uae34 \ubc24 (feat. GIRIBOY)",
         "url": "https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043"
       },
@@ -1247,6 +1215,54 @@
       "duration_ms": 210853,
       "name": "\uae34 \ubc24 (feat. GIRIBOY)",
       "url": "https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E"
+    },
+    {
+      "added_at": "2026-02-23 05:32:55",
+      "album": {
+        "name": "Tell The World",
+        "url": "https://open.spotify.com/album/0w7ETi7NIxWTwJYUmHwmGG"
+      },
+      "artists": [
+        {
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Tell The World",
+      "url": "https://open.spotify.com/track/4Por0pRb3LvDDlLuQxXEfM"
+    },
+    {
+      "added_at": "2026-02-23 05:32:55",
+      "album": {
+        "name": "To live",
+        "url": "https://open.spotify.com/album/0qdQ9rTmbb5L5eTkDGe3zx"
+      },
+      "artists": [
+        {
+          "name": "SoonSoonHee",
+          "url": "https://open.spotify.com/artist/3VOan0TuiwkfjnPLDXBPbG"
+        }
+      ],
+      "duration_ms": 231520,
+      "name": "To live",
+      "url": "https://open.spotify.com/track/2BnTrafo86hmIwWSPwmvKH"
+    },
+    {
+      "added_at": "2026-02-23 05:32:55",
+      "album": {
+        "name": "Even If This Love Disappears Tonight",
+        "url": "https://open.spotify.com/album/2kjmJMg1P4XbOZfTpH9PoF"
+      },
+      "artists": [
+        {
+          "name": "Jeon Sang Keun",
+          "url": "https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Even If This Love Disappears Tonight",
+      "url": "https://open.spotify.com/track/00KY9LKV7KJM53zByjtmiE"
     },
     {
       "added_at": "2026-02-23 05:32:55",
@@ -1279,22 +1295,6 @@
       "duration_ms": 216013,
       "name": "I'll Always Be With You",
       "url": "https://open.spotify.com/track/0qXAC2U4E9XjF0FeGRsMh7"
-    },
-    {
-      "added_at": "2026-02-23 05:32:55",
-      "album": {
-        "name": "To live",
-        "url": "https://open.spotify.com/album/0qdQ9rTmbb5L5eTkDGe3zx"
-      },
-      "artists": [
-        {
-          "name": "SoonSoonHee",
-          "url": "https://open.spotify.com/artist/3VOan0TuiwkfjnPLDXBPbG"
-        }
-      ],
-      "duration_ms": 231520,
-      "name": "To live",
-      "url": "https://open.spotify.com/track/2BnTrafo86hmIwWSPwmvKH"
     },
     {
       "added_at": "2026-02-23 05:32:55",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-02-23 05:32:55",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/2Z4BIEQWeSrwPZmOW0Vvju"
-      },
-      "artists": [
-        {
-          "name": "Urban Zakapa",
-          "url": "https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/7y0Ix1GzQB2FuoWT5iD5fE"
-    },
-    {
-      "added_at": "2026-02-23 05:32:55",
-      "album": {
         "name": "LIE LIE LIE",
         "url": "https://open.spotify.com/album/1LXGcl8lCXhZx7XjmvZ1kE"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 214000,
       "name": "LIE LIE LIE",
       "url": "https://open.spotify.com/track/6BvHxN7P7ZQDRpMtA9S8Wu"
+    },
+    {
+      "added_at": "2026-02-23 05:32:55",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2Z4BIEQWeSrwPZmOW0Vvju"
+      },
+      "artists": [
+        {
+          "name": "Urban Zakapa",
+          "url": "https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/7y0Ix1GzQB2FuoWT5iD5fE"
     },
     {
       "added_at": "2026-02-23 05:32:55",

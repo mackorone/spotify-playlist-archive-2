@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,680 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,698 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 47 | [Easier Done Than Said](https://open.spotify.com/track/78H6YBy5lm1P2suxSAzVdo) | [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Easier Done Than Said](https://open.spotify.com/album/08P5vVNLqPNiCyle8kRssE) | 3:35 |
 | 48 | [All I Need \(with Mahalia & Ty Dolla $ign\)](https://open.spotify.com/track/164VgxTozx99XCinCB9ITR) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Djesse Vol\. 3](https://open.spotify.com/album/33cj3kzLqVOg9zvy69Wrc8) | 4:05 |
 | 49 | [Enchanté](https://open.spotify.com/track/10wbN21d8FXT0cFIaCw1yV) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Enchanté](https://open.spotify.com/album/563FrJ2AfhKQj1nqYCISaM) | 2:42 |
-| 50 | [Hair Down](https://open.spotify.com/track/2tP73L31LHxJAZs3L8HMnp) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Hair Down](https://open.spotify.com/album/63k0s6k9wWu2QMutLrocu4) | 3:11 |
-| 51 | [LEAN ON MY LOVE \(feat\. Andra Day\)](https://open.spotify.com/track/6qPidYSSbSZigyZFD1sJee) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [BIG MONEY](https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3) | 4:11 |
+| 50 | [LEAN ON MY LOVE \(feat\. Andra Day\)](https://open.spotify.com/track/6qPidYSSbSZigyZFD1sJee) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [BIG MONEY](https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3) | 4:11 |
+| 51 | [Hair Down](https://open.spotify.com/track/2tP73L31LHxJAZs3L8HMnp) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Hair Down](https://open.spotify.com/album/63k0s6k9wWu2QMutLrocu4) | 3:11 |
 | 52 | [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 |
 | 53 | [Give Me All Your Love](https://open.spotify.com/track/7fL1R1jVY8RfPIlilK9mSd) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Give Me All Your Love](https://open.spotify.com/album/57luneU6B0i2vcHsSAN1X6) | 3:20 |
 | 54 | [Next To You](https://open.spotify.com/track/12wvLk3fOmOonVmH0TtQ8L) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Next To You](https://open.spotify.com/album/3w2VgrN4DUnNijMa24X06D) | 4:05 |
 | 55 | [For You \- Many Selves Version](https://open.spotify.com/track/1ZomkKbXsQoycnKzGV6NIZ) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [For You \(Many Selves Version\)](https://open.spotify.com/album/1FBMc5U9NTkdVX0jUsy0ir) | 3:41 |
 | 56 | [Blue](https://open.spotify.com/track/1rUWEVR78iRaXXuSHyz6KP) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [Blue](https://open.spotify.com/album/3qi8b8jpTNKC7Z7NhxaiwZ) | 2:50 |
 | 57 | [Soulmate](https://open.spotify.com/track/6g56vvpNt52RX65lcautxd) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE), [Jeremy Passion](https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv) | [The Way It Was Before](https://open.spotify.com/album/59aMQPmxNeRdtWv7Tqk5WY) | 3:11 |
-| 58 | [Up From Here](https://open.spotify.com/track/5E2qUNifVLQw4QaKNeOrJT) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Up From Here](https://open.spotify.com/album/4CIK0AoMAdzQksAD6Jio4n) | 4:18 |
-| 59 | [Ain't I Good For You](https://open.spotify.com/track/77WEFz4sR98WRO01patyZm) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Ain't I Good For You](https://open.spotify.com/album/5xljYFeXxR6vWQwHhyESSb) | 2:41 |
-| 60 | [Temptress](https://open.spotify.com/track/3oRXIgoaxiemxMk3uXmH7N) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:56 |
+| 58 | [Ain't I Good For You](https://open.spotify.com/track/77WEFz4sR98WRO01patyZm) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Ain't I Good For You](https://open.spotify.com/album/5xljYFeXxR6vWQwHhyESSb) | 2:41 |
+| 59 | [Temptress](https://open.spotify.com/track/3oRXIgoaxiemxMk3uXmH7N) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:56 |
+| 60 | [Up From Here](https://open.spotify.com/track/5E2qUNifVLQw4QaKNeOrJT) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Up From Here](https://open.spotify.com/album/4CIK0AoMAdzQksAD6Jio4n) | 4:18 |
 
 Snapshot ID: `AAAAAGDv8kdPY+mo0phcAVHJH9xC/Zvu`

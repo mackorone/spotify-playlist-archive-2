@@ -1,6 +1,6 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Tedeschi Trucks Band",
-  "num_followers": 1067028,
+  "num_followers": 1067082,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Pardon Me",
-        "url": "https://open.spotify.com/album/2DlQG7o1FSlgFKRuCBfAHL"
-      },
-      "artists": [
-        {
-          "name": "49 Winchester",
-          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
-        }
-      ],
-      "duration_ms": 244626,
-      "name": "Pardon Me",
-      "url": "https://open.spotify.com/track/6qXV3e8mrt4iI265wG5Zkn"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 179397,
       "name": "ALLIIGATOR TEARS",
       "url": "https://open.spotify.com/track/1LSWDkZxVngIpfjvMs6Q56"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Pardon Me",
+        "url": "https://open.spotify.com/album/2DlQG7o1FSlgFKRuCBfAHL"
+      },
+      "artists": [
+        {
+          "name": "49 Winchester",
+          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
+        }
+      ],
+      "duration_ms": 244626,
+      "name": "Pardon Me",
+      "url": "https://open.spotify.com/track/6qXV3e8mrt4iI265wG5Zkn"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -419,6 +419,22 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 261773,
+      "name": "I'm Leaving",
+      "url": "https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
         "name": "Greyhound Bus Blues",
         "url": "https://open.spotify.com/album/5ZUDaN0h2tX01R0EYd9nOv"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 152824,
       "name": "Greyhound Bus Blues",
       "url": "https://open.spotify.com/track/3kFo9yQT1AcBMUQjwExLd2"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 261773,
-      "name": "I'm Leaving",
-      "url": "https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Let the Music Get Down in Your Soul",
-        "url": "https://open.spotify.com/album/1rozu7rLvTKozl701ahTly"
-      },
-      "artists": [
-        {
-          "name": "Miko Marks",
-          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
-        }
-      ],
-      "duration_ms": 204986,
-      "name": "Let the Music Get Down in Your Soul",
-      "url": "https://open.spotify.com/track/3Kt8zwpgfewy0mespQa7Ew"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Joy, Joy!",
         "url": "https://open.spotify.com/album/6t1qkbhNBE3Nxt9yemCHrw"
       },
@@ -627,18 +611,18 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Million Voices Whisper (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Aqt7Vf9BtFCHEaJLpMA1T"
+        "name": "Let the Music Get Down in Your Soul",
+        "url": "https://open.spotify.com/album/1rozu7rLvTKozl701ahTly"
       },
       "artists": [
         {
-          "name": "Warren Haynes",
-          "url": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
         }
       ],
-      "duration_ms": 261760,
-      "name": "Back Where I Started",
-      "url": "https://open.spotify.com/track/4GmCZ7NU6SHgJO0rL35ri6"
+      "duration_ms": 204986,
+      "name": "Let the Music Get Down in Your Soul",
+      "url": "https://open.spotify.com/track/3Kt8zwpgfewy0mespQa7Ew"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -655,6 +639,22 @@
       "duration_ms": 185133,
       "name": "Make It All Work Out",
       "url": "https://open.spotify.com/track/19FzdCwxA7hIsbmF8DLac5"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Million Voices Whisper (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Aqt7Vf9BtFCHEaJLpMA1T"
+      },
+      "artists": [
+        {
+          "name": "Warren Haynes",
+          "url": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+        }
+      ],
+      "duration_ms": 261760,
+      "name": "Back Where I Started",
+      "url": "https://open.spotify.com/track/4GmCZ7NU6SHgJO0rL35ri6"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -691,26 +691,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "What's Not To Love?",
-        "url": "https://open.spotify.com/album/2305uR83zej8iwsMkNzdd2"
-      },
-      "artists": [
-        {
-          "name": "John C. Reilly",
-          "url": "https://open.spotify.com/artist/5SL8972vfCQ4PFqlmf9B5G"
-        },
-        {
-          "name": "Mister Romantic",
-          "url": "https://open.spotify.com/artist/6X4nLwC4iwnFlvIoW831O0"
-        }
-      ],
-      "duration_ms": 199174,
-      "name": "I Guess I\u2019ll Get The Papers And Go Home",
-      "url": "https://open.spotify.com/track/26qinPvPXEC2rYkg2288K0"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "The Hammer & The Rose",
         "url": "https://open.spotify.com/album/3S0f9Ok4DDuYRtKy0JPZ2v"
       },
@@ -743,18 +723,22 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Out of All the Stars",
-        "url": "https://open.spotify.com/album/6leH7jcoSppPjueeyLOJlM"
+        "name": "What's Not To Love?",
+        "url": "https://open.spotify.com/album/2305uR83zej8iwsMkNzdd2"
       },
       "artists": [
         {
-          "name": "Deltaphonic",
-          "url": "https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8"
+          "name": "John C. Reilly",
+          "url": "https://open.spotify.com/artist/5SL8972vfCQ4PFqlmf9B5G"
+        },
+        {
+          "name": "Mister Romantic",
+          "url": "https://open.spotify.com/artist/6X4nLwC4iwnFlvIoW831O0"
         }
       ],
-      "duration_ms": 239241,
-      "name": "Out of All the Stars",
-      "url": "https://open.spotify.com/track/5N7ZvlLi9OUmVbBYfuqSwc"
+      "duration_ms": 199174,
+      "name": "I Guess I\u2019ll Get The Papers And Go Home",
+      "url": "https://open.spotify.com/track/26qinPvPXEC2rYkg2288K0"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -775,6 +759,22 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
+        "name": "Out of All the Stars",
+        "url": "https://open.spotify.com/album/6leH7jcoSppPjueeyLOJlM"
+      },
+      "artists": [
+        {
+          "name": "Deltaphonic",
+          "url": "https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8"
+        }
+      ],
+      "duration_ms": 239241,
+      "name": "Out of All the Stars",
+      "url": "https://open.spotify.com/track/5N7ZvlLi9OUmVbBYfuqSwc"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/0Skl6by8nLaYc2GnRUqJoa"
       },
@@ -791,22 +791,6 @@
       "duration_ms": 255218,
       "name": "Drifting (feat. Marcus King)",
       "url": "https://open.spotify.com/track/1zg7rKOGtM0TAXA4jC8U2Q"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "Companions",
-        "url": "https://open.spotify.com/album/53QsuWFAeqe5ihfdsL8VsN"
-      },
-      "artists": [
-        {
-          "name": "Adam Douglas",
-          "url": "https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG"
-        }
-      ],
-      "duration_ms": 225106,
-      "name": "My Own Disguise",
-      "url": "https://open.spotify.com/track/0vIbWBOYgO6TTkWe4ZarrH"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -843,18 +827,18 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "I\u2019m Done Runnin'",
-        "url": "https://open.spotify.com/album/4If94wqhZcb8clR5HOT9tt"
+        "name": "Companions",
+        "url": "https://open.spotify.com/album/53QsuWFAeqe5ihfdsL8VsN"
       },
       "artists": [
         {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+          "name": "Adam Douglas",
+          "url": "https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG"
         }
       ],
-      "duration_ms": 185751,
-      "name": "I'm Done Runnin'",
-      "url": "https://open.spotify.com/track/19qNi1II1ih7b1Aq236oPh"
+      "duration_ms": 225106,
+      "name": "My Own Disguise",
+      "url": "https://open.spotify.com/track/0vIbWBOYgO6TTkWe4ZarrH"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -875,18 +859,18 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Blues Worse Than I Ever Had",
-        "url": "https://open.spotify.com/album/1nmEVJtFdtgi57jDtmLBUg"
+        "name": "I\u2019m Done Runnin'",
+        "url": "https://open.spotify.com/album/4If94wqhZcb8clR5HOT9tt"
       },
       "artists": [
         {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
         }
       ],
-      "duration_ms": 211666,
-      "name": "Blues Worse Than I Ever Had",
-      "url": "https://open.spotify.com/track/5RXTvloOBm9W714kbJU0gQ"
+      "duration_ms": 185751,
+      "name": "I'm Done Runnin'",
+      "url": "https://open.spotify.com/track/19qNi1II1ih7b1Aq236oPh"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -903,6 +887,22 @@
       "duration_ms": 302346,
       "name": "Watch Me Gone",
       "url": "https://open.spotify.com/track/00GkFHBAxQe5yr55TtacF8"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Blues Worse Than I Ever Had",
+        "url": "https://open.spotify.com/album/1nmEVJtFdtgi57jDtmLBUg"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Blues Worse Than I Ever Had",
+      "url": "https://open.spotify.com/track/5RXTvloOBm9W714kbJU0gQ"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Dark Days",
-        "url": "https://open.spotify.com/album/2Yl1dW63gqEpM4WlUo9eDn"
-      },
-      "artists": [
-        {
-          "name": "Moose Miller",
-          "url": "https://open.spotify.com/artist/5VZSk60xNyoK3vTJmzoHlV"
-        }
-      ],
-      "duration_ms": 251197,
-      "name": "Dark Days",
-      "url": "https://open.spotify.com/track/72FXmE7sYz78NpGFzO0ogl"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Heaven Knows",
         "url": "https://open.spotify.com/album/0YpOrdUp8zE96Z9Xm0gjE8"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 323826,
       "name": "Heaven Knows",
       "url": "https://open.spotify.com/track/6IqUGU2UsJc6ys3veZeAbK"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Dark Days",
+        "url": "https://open.spotify.com/album/2Yl1dW63gqEpM4WlUo9eDn"
+      },
+      "artists": [
+        {
+          "name": "Moose Miller",
+          "url": "https://open.spotify.com/artist/5VZSk60xNyoK3vTJmzoHlV"
+        }
+      ],
+      "duration_ms": 251197,
+      "name": "Dark Days",
+      "url": "https://open.spotify.com/track/72FXmE7sYz78NpGFzO0ogl"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Who Needs the Weather",
-        "url": "https://open.spotify.com/album/39HxtzBfmt3AxY0TomYerH"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 186533,
-      "name": "Who Needs the Weather",
-      "url": "https://open.spotify.com/track/4yDo8iTBGJguFLp2gwl5pb"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Days of Mellow",
         "url": "https://open.spotify.com/album/60IzFmXwMFetX2JaC9xbeu"
       },
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "I'm Getting Ready",
-        "url": "https://open.spotify.com/album/4RyIcdSpFQEQFgIW2LrXt9"
+        "name": "Who Needs the Weather",
+        "url": "https://open.spotify.com/album/39HxtzBfmt3AxY0TomYerH"
       },
       "artists": [
         {
-          "name": "Seth Walker",
-          "url": "https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9"
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
         }
       ],
-      "duration_ms": 179053,
-      "name": "I'm Getting Ready",
-      "url": "https://open.spotify.com/track/33eyk71WojAYebC0cta8OJ"
+      "duration_ms": 186533,
+      "name": "Who Needs the Weather",
+      "url": "https://open.spotify.com/track/4yDo8iTBGJguFLp2gwl5pb"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/6d7z9jAupJyzUcqU9y7JL6"
+        "name": "I'm Getting Ready",
+        "url": "https://open.spotify.com/album/4RyIcdSpFQEQFgIW2LrXt9"
       },
       "artists": [
         {
-          "name": "Jovin Webb",
-          "url": "https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k"
+          "name": "Seth Walker",
+          "url": "https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9"
         }
       ],
-      "duration_ms": 278457,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/42AVlAgBlEWwotdT0XAYU6"
+      "duration_ms": 179053,
+      "name": "I'm Getting Ready",
+      "url": "https://open.spotify.com/track/33eyk71WojAYebC0cta8OJ"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1219,6 +1203,22 @@
       "duration_ms": 273121,
       "name": "Love On My Brain",
       "url": "https://open.spotify.com/track/1SifJq6qcWrT6jgpkKAtgD"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/6d7z9jAupJyzUcqU9y7JL6"
+      },
+      "artists": [
+        {
+          "name": "Jovin Webb",
+          "url": "https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k"
+        }
+      ],
+      "duration_ms": 278457,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/42AVlAgBlEWwotdT0XAYU6"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "All The Things I Said",
-        "url": "https://open.spotify.com/album/0wSIwTKTUh0MiXcS5jRhyQ"
+        "name": "Devil That You Know",
+        "url": "https://open.spotify.com/album/6j19OocI2RQsxz9waAgqB4"
       },
       "artists": [
         {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+          "name": "Emma Elena Grace",
+          "url": "https://open.spotify.com/artist/1Mc3xsFMKi5eXRqNbUq1Wc"
         }
       ],
-      "duration_ms": 287986,
-      "name": "All The Things I Said",
-      "url": "https://open.spotify.com/track/5viV8dro184RtltNGT0JiZ"
+      "duration_ms": 198496,
+      "name": "Devil That You Know",
+      "url": "https://open.spotify.com/track/5ax26o9wSrvrG6qN3fy9e0"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1303,18 +1303,34 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Devil That You Know",
-        "url": "https://open.spotify.com/album/6j19OocI2RQsxz9waAgqB4"
+        "name": "All The Things I Said",
+        "url": "https://open.spotify.com/album/0wSIwTKTUh0MiXcS5jRhyQ"
       },
       "artists": [
         {
-          "name": "Emma Elena Grace",
-          "url": "https://open.spotify.com/artist/1Mc3xsFMKi5eXRqNbUq1Wc"
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
         }
       ],
-      "duration_ms": 198496,
-      "name": "Devil That You Know",
-      "url": "https://open.spotify.com/track/5ax26o9wSrvrG6qN3fy9e0"
+      "duration_ms": 287986,
+      "name": "All The Things I Said",
+      "url": "https://open.spotify.com/track/5viV8dro184RtltNGT0JiZ"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 215969,
+      "name": "Gullah Geechee",
+      "url": "https://open.spotify.com/track/47BdliCI9XP3HWl0CsR23A"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1351,22 +1367,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Done Come Too Far",
-        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 215969,
-      "name": "Gullah Geechee",
-      "url": "https://open.spotify.com/track/47BdliCI9XP3HWl0CsR23A"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Run Out of Love (with Lisa Loeb)",
         "url": "https://open.spotify.com/album/6QKfjajavauKgHu9faeZNJ"
       },
@@ -1383,6 +1383,26 @@
       "duration_ms": 277026,
       "name": "Run Out of Love - with Lisa Loeb",
       "url": "https://open.spotify.com/track/34JpLfR2gIJtsq93RnbRCu"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/7gi6AMVZhuRCjqLfSl4kOd"
+      },
+      "artists": [
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        },
+        {
+          "name": "The Resurrectors",
+          "url": "https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5"
+        }
+      ],
+      "duration_ms": 243219,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1419,26 +1439,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/7gi6AMVZhuRCjqLfSl4kOd"
-      },
-      "artists": [
-        {
-          "name": "Miko Marks",
-          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
-        },
-        {
-          "name": "The Resurrectors",
-          "url": "https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5"
-        }
-      ],
-      "duration_ms": 243219,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Take My Heart",
         "url": "https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg"
       },
@@ -1451,6 +1451,54 @@
       "duration_ms": 258651,
       "name": "Take My Heart",
       "url": "https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Bring Me Back Home Again",
+        "url": "https://open.spotify.com/album/6oCO7UmbZkLKXohZmBDgwe"
+      },
+      "artists": [
+        {
+          "name": "Robert Jon & the Wreck",
+          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
+        }
+      ],
+      "duration_ms": 223173,
+      "name": "Bring Me Back Home Again",
+      "url": "https://open.spotify.com/track/1pHrkja5Iv5ymMHSkVIQNe"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Seasons Change",
+        "url": "https://open.spotify.com/album/1DjF9YaLZ3PKdzmwNPdwok"
+      },
+      "artists": [
+        {
+          "name": "Chadwick Johnson",
+          "url": "https://open.spotify.com/artist/21iVIpVgIhkCIkz7yQfKgV"
+        }
+      ],
+      "duration_ms": 207931,
+      "name": "Seasons Change",
+      "url": "https://open.spotify.com/track/6s9DuDzSqgGqKoGTSWdpPu"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Flang Dang",
+        "url": "https://open.spotify.com/album/4cQSa2VndbpHShN7e2VC36"
+      },
+      "artists": [
+        {
+          "name": "Andy Fairweather Low",
+          "url": "https://open.spotify.com/artist/0lZmP91eT6v4c9N9eoMmJD"
+        }
+      ],
+      "duration_ms": 218746,
+      "name": "99 Ways",
+      "url": "https://open.spotify.com/track/5eF2CfvURFWBXjxTP9prbc"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1475,54 +1523,6 @@
       "duration_ms": 185306,
       "name": "Not Bad",
       "url": "https://open.spotify.com/track/2V6eMMkl8FvFfqztA37UmC"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "Seasons Change",
-        "url": "https://open.spotify.com/album/1DjF9YaLZ3PKdzmwNPdwok"
-      },
-      "artists": [
-        {
-          "name": "Chadwick Johnson",
-          "url": "https://open.spotify.com/artist/21iVIpVgIhkCIkz7yQfKgV"
-        }
-      ],
-      "duration_ms": 207931,
-      "name": "Seasons Change",
-      "url": "https://open.spotify.com/track/6s9DuDzSqgGqKoGTSWdpPu"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "Bring Me Back Home Again",
-        "url": "https://open.spotify.com/album/6oCO7UmbZkLKXohZmBDgwe"
-      },
-      "artists": [
-        {
-          "name": "Robert Jon & the Wreck",
-          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
-        }
-      ],
-      "duration_ms": 223173,
-      "name": "Bring Me Back Home Again",
-      "url": "https://open.spotify.com/track/1pHrkja5Iv5ymMHSkVIQNe"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "Flang Dang",
-        "url": "https://open.spotify.com/album/4cQSa2VndbpHShN7e2VC36"
-      },
-      "artists": [
-        {
-          "name": "Andy Fairweather Low",
-          "url": "https://open.spotify.com/artist/0lZmP91eT6v4c9N9eoMmJD"
-        }
-      ],
-      "duration_ms": 218746,
-      "name": "99 Ways",
-      "url": "https://open.spotify.com/track/5eF2CfvURFWBXjxTP9prbc"
     },
     {
       "added_at": "2026-02-13 05:00:37",

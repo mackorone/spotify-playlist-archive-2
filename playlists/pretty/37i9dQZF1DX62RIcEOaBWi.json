@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica alegre para que el trabajo se te pase volando.",
-  "num_followers": 575468,
+  "num_followers": 575449,
   "original_name": "En el Trabajo",
   "owner": {
     "name": "Spotify",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Love Hurts",
-        "url": "https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "The Shoop Shoop Song (It's In His Kiss)",
-      "url": "https://open.spotify.com/track/5oV1YjM2rtyZ55txHHsFUu"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "Mis Manos",
         "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 221749,
       "name": "Millones",
       "url": "https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "Love Hurts",
+        "url": "https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "The Shoop Shoop Song (It's In His Kiss)",
+      "url": "https://open.spotify.com/track/5oV1YjM2rtyZ55txHHsFUu"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "La Isla Bonita",
-      "url": "https://open.spotify.com/track/2Iib2MV3ECFJAourgP9dlY"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "a nuevos lugares",
         "url": "https://open.spotify.com/album/62eRw5rCI0KwWWCiEX4tq4"
       },
@@ -1279,22 +1263,18 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Otras Alas",
-        "url": "https://open.spotify.com/album/0FIpAJ1ypjj4nzIHq6XLF4"
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
       "artists": [
         {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        },
-        {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 187016,
-      "name": "nana triste",
-      "url": "https://open.spotify.com/track/721Lxh9pNJJhNERON4Zjmw"
+      "duration_ms": 242946,
+      "name": "La Isla Bonita",
+      "url": "https://open.spotify.com/track/2Iib2MV3ECFJAourgP9dlY"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -1319,18 +1299,22 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
-        "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
+        "name": "Otras Alas",
+        "url": "https://open.spotify.com/album/0FIpAJ1ypjj4nzIHq6XLF4"
       },
       "artists": [
         {
-          "name": "The Righteous Brothers",
-          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        },
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
         }
       ],
-      "duration_ms": 216266,
-      "name": "Unchained Melody",
-      "url": "https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS"
+      "duration_ms": 187016,
+      "name": "nana triste",
+      "url": "https://open.spotify.com/track/721Lxh9pNJJhNERON4Zjmw"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -1351,6 +1335,22 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
+        "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
+        "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
+      },
+      "artists": [
+        {
+          "name": "The Righteous Brothers",
+          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
         "name": "La Cruz Del Mapa",
         "url": "https://open.spotify.com/album/1FwsOQLBtsdLjy2OGsCZZa"
       },
@@ -1363,22 +1363,6 @@
       "duration_ms": 270187,
       "name": "Qu\u00e9 Bonito Es Querer",
       "url": "https://open.spotify.com/track/6uzGmmQ4CuG9HvZktEy0LF"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/3SwBajIGtIPylPqzWS9V1i"
-      },
-      "artists": [
-        {
-          "name": "Des'ree",
-          "url": "https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B"
-        }
-      ],
-      "duration_ms": 216040,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/5LGqFIVBf3ZUeFBpc87CFS"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -1399,6 +1383,22 @@
       "duration_ms": 202285,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/3SwBajIGtIPylPqzWS9V1i"
+      },
+      "artists": [
+        {
+          "name": "Des'ree",
+          "url": "https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B"
+        }
+      ],
+      "duration_ms": 216040,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/5LGqFIVBf3ZUeFBpc87CFS"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Mucho Por Vivir",
-        "url": "https://open.spotify.com/album/4lqmri54Jap1lOS7FthZrh"
-      },
-      "artists": [
-        {
-          "name": "Rosario",
-          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
-        }
-      ],
-      "duration_ms": 229386,
-      "name": "\u00a1Que Bonito!",
-      "url": "https://open.spotify.com/track/1MO5KuLnSaY1dlkWGDjHkT"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "Let's Love",
         "url": "https://open.spotify.com/album/4t9C75dy0UtR4JE7vNYQRr"
       },
@@ -1667,18 +1651,18 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Spoiler",
-        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
+        "name": "Mucho Por Vivir",
+        "url": "https://open.spotify.com/album/4lqmri54Jap1lOS7FthZrh"
       },
       "artists": [
         {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+          "name": "Rosario",
+          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
         }
       ],
-      "duration_ms": 202446,
-      "name": "Con La Miel En Los Labios",
-      "url": "https://open.spotify.com/track/2QJcrJNa4KGxQ6bw0MH3Zx"
+      "duration_ms": 229386,
+      "name": "\u00a1Que Bonito!",
+      "url": "https://open.spotify.com/track/1MO5KuLnSaY1dlkWGDjHkT"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -1695,6 +1679,22 @@
       "duration_ms": 229720,
       "name": "Uno X Uno",
       "url": "https://open.spotify.com/track/75K7Mczlt0zxANo8MEOaAu"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "Spoiler",
+        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 202446,
+      "name": "Con La Miel En Los Labios",
+      "url": "https://open.spotify.com/track/2QJcrJNa4KGxQ6bw0MH3Zx"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Palabra Prohibida",
-        "url": "https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 176881,
-      "name": "Palabra Prohibida",
-      "url": "https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "Physical",
         "url": "https://open.spotify.com/album/5Vzq1wKBUXMxEZl3NPjJpS"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 193829,
       "name": "Physical",
       "url": "https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "Palabra Prohibida",
+        "url": "https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 176881,
+      "name": "Palabra Prohibida",
+      "url": "https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Shake",
-        "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
-      },
-      "artists": [
-        {
-          "name": "Zucchero",
-          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
-        }
-      ],
-      "duration_ms": 246373,
-      "name": "Baila Morena - New Spanish Version",
-      "url": "https://open.spotify.com/track/0M2YkvoDWKgEvLaCmdH3Gv"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "alpha",
         "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 181426,
       "name": "AQYNE",
       "url": "https://open.spotify.com/track/3dFu4LIz5TqqWRISI7CJj1"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
+      },
+      "artists": [
+        {
+          "name": "Zucchero",
+          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
+        }
+      ],
+      "duration_ms": 246373,
+      "name": "Baila Morena - New Spanish Version",
+      "url": "https://open.spotify.com/track/0M2YkvoDWKgEvLaCmdH3Gv"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -1867,22 +1867,6 @@
       "duration_ms": 195226,
       "name": "Pero a tu lado",
       "url": "https://open.spotify.com/track/3JOXwHPhtdRU3kYKcf64Gj"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
-        "name": "Mi Nombre",
-        "url": "https://open.spotify.com/album/7jQDWCApvDP7E956bc4qsK"
-      },
-      "artists": [
-        {
-          "name": "Leire Martinez",
-          "url": "https://open.spotify.com/artist/0B0esAjCSSwycZDx1bhpmD"
-        }
-      ],
-      "duration_ms": 172130,
-      "name": "Mi Nombre",
-      "url": "https://open.spotify.com/track/3DmtqxgDnhQw9uPY10TPxk"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -1999,6 +1983,22 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
+        "name": "Mi Nombre",
+        "url": "https://open.spotify.com/album/7jQDWCApvDP7E956bc4qsK"
+      },
+      "artists": [
+        {
+          "name": "Leire Martinez",
+          "url": "https://open.spotify.com/artist/0B0esAjCSSwycZDx1bhpmD"
+        }
+      ],
+      "duration_ms": 172130,
+      "name": "Mi Nombre",
+      "url": "https://open.spotify.com/track/3DmtqxgDnhQw9uPY10TPxk"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
         "name": "LAS 12",
         "url": "https://open.spotify.com/album/1hmsYXkobJ54BGe1sBVv5O"
       },
@@ -2051,6 +2051,26 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
+        "name": "Ateo",
+        "url": "https://open.spotify.com/album/6Re7sviVustR53KeArspwK"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 239925,
+      "name": "Ateo",
+      "url": "https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
         "name": "Dharma",
         "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
       },
@@ -2071,26 +2091,6 @@
       "duration_ms": 195760,
       "name": "Dharma",
       "url": "https://open.spotify.com/track/5tpAcJ47UgF4udM5YXcDd2"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
-        "name": "Ateo",
-        "url": "https://open.spotify.com/album/6Re7sviVustR53KeArspwK"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        },
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 239925,
-      "name": "Ateo",
-      "url": "https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Canciones",
-        "url": "https://open.spotify.com/album/42Gjhf7f1h2dKvWTKDHd90"
-      },
-      "artists": [
-        {
-          "name": "Duncan Dhu",
-          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
-        }
-      ],
-      "duration_ms": 169773,
-      "name": "Cien gaviotas",
-      "url": "https://open.spotify.com/track/020Gj87SqDRvzGHELzcCEc"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "Prisma",
         "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
       },
@@ -2279,6 +2263,22 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
+        "name": "Canciones",
+        "url": "https://open.spotify.com/album/42Gjhf7f1h2dKvWTKDHd90"
+      },
+      "artists": [
+        {
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+        }
+      ],
+      "duration_ms": 169773,
+      "name": "Cien gaviotas",
+      "url": "https://open.spotify.com/track/020Gj87SqDRvzGHELzcCEc"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
         "name": "NAVE DRAG\u00d3N",
         "url": "https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ"
       },
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Sintiendonos La Piel",
-        "url": "https://open.spotify.com/album/4Zq9UhyMTcrEhvQx0Gm2TX"
-      },
-      "artists": [
-        {
-          "name": "Sergio Dalma",
-          "url": "https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ"
-        }
-      ],
-      "duration_ms": 276640,
-      "name": "Bailar Pegados",
-      "url": "https://open.spotify.com/track/4QkQmdvFjEVvjc1ONi6t6N"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "El Bien",
         "url": "https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 206226,
       "name": "El Bien",
       "url": "https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "Sintiendonos La Piel",
+        "url": "https://open.spotify.com/album/4Zq9UhyMTcrEhvQx0Gm2TX"
+      },
+      "artists": [
+        {
+          "name": "Sergio Dalma",
+          "url": "https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ"
+        }
+      ],
+      "duration_ms": 276640,
+      "name": "Bailar Pegados",
+      "url": "https://open.spotify.com/track/4QkQmdvFjEVvjc1ONi6t6N"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -2623,22 +2623,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Via Dalma II",
-        "url": "https://open.spotify.com/album/0S5gRSeaHeH10kOQsE8RvK"
-      },
-      "artists": [
-        {
-          "name": "Sergio Dalma",
-          "url": "https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ"
-        }
-      ],
-      "duration_ms": 205840,
-      "name": "Yo no te pido la luna",
-      "url": "https://open.spotify.com/track/1hI1st8dvPmr1S55XDkavG"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "A Contracorriente",
         "url": "https://open.spotify.com/album/4GAsbhINFlN5K9PZ6vEaCW"
       },
@@ -2655,6 +2639,22 @@
       "duration_ms": 181026,
       "name": "Puede Ser (with Amaia Montero)",
       "url": "https://open.spotify.com/track/1TtwCkFbGv89XmuUNmoINt"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "Via Dalma II",
+        "url": "https://open.spotify.com/album/0S5gRSeaHeH10kOQsE8RvK"
+      },
+      "artists": [
+        {
+          "name": "Sergio Dalma",
+          "url": "https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ"
+        }
+      ],
+      "duration_ms": 205840,
+      "name": "Yo no te pido la luna",
+      "url": "https://open.spotify.com/track/1hI1st8dvPmr1S55XDkavG"
     },
     {
       "added_at": "2025-07-18 14:13:17",

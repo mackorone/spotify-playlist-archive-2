@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. Molotov,  MC Davo y EMJAY en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 979,197 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 979,159 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,15 +41,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 31 | [El Tesoro](https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 4:31 |
 | 32 | [Aunque no sea conmigo](https://open.spotify.com/track/0dRY4OrSY53yUjVgfgne1W) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Hijos del pueblo](https://open.spotify.com/album/69JZWukakNJGpGhJILhyTl) | 3:32 |
 | 33 | [Sognare](https://open.spotify.com/track/3EYPZf5gtyU9suVqTWChzk) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Defecto Perfecto](https://open.spotify.com/album/2nbI0uW9IoyZg23xNL08Bx) | 5:13 |
-| 34 | [El Colmo](https://open.spotify.com/track/1devU3Tqs5bMqo1GtWQhoa) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Anoche](https://open.spotify.com/album/5uBA88xQSrGS8sfVru3bWC) | 2:40 |
-| 35 | [Pachuco](https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:14 |
+| 34 | [Pachuco](https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:14 |
+| 35 | [El Colmo](https://open.spotify.com/track/1devU3Tqs5bMqo1GtWQhoa) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Anoche](https://open.spotify.com/album/5uBA88xQSrGS8sfVru3bWC) | 2:40 |
 | 36 | [Rastaman\- Dita](https://open.spotify.com/track/5kUf3gMXG6lTJkfQWLZSsP) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Apocalypshit](https://open.spotify.com/album/2Kd0lXsX8jlXwnoRrAnRiQ) | 3:48 |
 | 37 | [Monitor](https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Monitor](https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB) | 3:57 |
 | 38 | [Círculo De Amor](https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Chúntaros Radio Poder](https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL) | 4:05 |
 | 39 | [Loco \(Tu Forma de Ser\) \[Ft\. Rubén Albarrán\] \- MTV Unplugged](https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 4:09 |
-| 40 | [El Microbito](https://open.spotify.com/track/2EeCAQN9IKpMGKEK3dQobA) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Fobia](https://open.spotify.com/album/3CrPRAsNzMd54SBk8GFD3G) | 2:37 |
+| 40 | [Pobre de Ti](https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Rock En Español \- Lo Mejor De Tijuana No!](https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g) | 4:42 |
 | 41 | [Hit Me](https://open.spotify.com/track/5oYQ84f7jWY90pblm2XJAO) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Dance And Dense Denso](https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft) | 4:16 |
-| 42 | [Pobre de Ti](https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Rock En Español \- Lo Mejor De Tijuana No!](https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g) | 4:42 |
+| 42 | [El Microbito](https://open.spotify.com/track/2EeCAQN9IKpMGKEK3dQobA) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Fobia](https://open.spotify.com/album/3CrPRAsNzMd54SBk8GFD3G) | 2:37 |
 | 43 | [Dormir Soñando](https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Libres Y Locos](https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E) | 3:07 |
 | 44 | [Padre Nuestro](https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [La Luz Del Ritmo](https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574) | 4:32 |
 | 45 | [Quisiera Saber \(with Natalia Lafourcade\)](https://open.spotify.com/track/7ETuZtnJJ1brMNiPpd2LFg) | [Los Daniels](https://open.spotify.com/artist/6wAdcWMCHvamfged5FsKBD), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [A Casa](https://open.spotify.com/album/1435j1Cd1T8MJLSos4Arll) | 3:29 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 97 | [Contra Todo Pronóstico](https://open.spotify.com/track/2jcBXpWt5lD1qsZZGZjMPO) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Contra Todo Pronóstico](https://open.spotify.com/album/2asORa7yF9FCpjL1DRbPf4) | 4:12 |
 | 98 | [Las chingadas ganas de llorar](https://open.spotify.com/track/1NNx5a7BoQrKym6DKxmTAI) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Las chingadas ganas de llorar](https://open.spotify.com/album/6TR5ROAqehRhQDMAeOmqeR) | 3:19 |
 | 99 | [Las Batallas/Rarotonga \- MTV Unplugged](https://open.spotify.com/track/0b0x5fdpSjvJ8LiYSPnWoF) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Un Segundo MTV Unplugged](https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X) | 5:26 |
-| 100 | [Love Song](https://open.spotify.com/track/2esPpiAGKUsySMsdwasBcc) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x), [Dean Fraser](https://open.spotify.com/artist/2NgsVYg7cMgPQNYXW7CO6R) | [Love Song](https://open.spotify.com/album/5sFid2NyJbaAVQyIfIY7k8) | 4:26 |
+| 100 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2IvTvoNZP4zYhIBWRfzADg) | [Baby Aventurero](https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs), [Lena Campos](https://open.spotify.com/artist/2QNBnN8MHw8akBXLWKeSLz), [Moy Yos](https://open.spotify.com/artist/5ES4YRN7RwjZzCI3ASxrl6) | [La Gata Bajo la Lluvia](https://open.spotify.com/album/24pjyz91cui77AWSqBxSaX) | 3:12 |
 
 Snapshot ID: `AAAAAKqHqjYONdrXzPJ9t1JdmtqwMLsK`

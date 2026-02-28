@@ -1,13 +1,29 @@
 {
-  "description": "The hottest tracks in Ghana. Cover: Dopenation",
-  "num_followers": 79316,
+  "description": "The hottest tracks in Ghana. Cover: KiDi",
+  "num_followers": 79376,
   "original_name": "Hot Hits Ghana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH/LTzfQbQnOsOirXgO0OtVVfcUl",
+  "snapshot_id": "AAAAAAlwYMG2nlLbYEVANF83J8YFfF/T",
   "tracks": [
+    {
+      "added_at": "2026-02-27 11:15:18",
+      "album": {
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/55CLjgXBq4zuAnGYeGM8VB"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/4FQD13B32eYtCBH7PDMYZw"
+    },
     {
       "added_at": "2026-02-20 00:01:31",
       "album": {

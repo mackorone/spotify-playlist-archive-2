@@ -4,7 +4,7 @@
 
 > Pub &amp; karaoke drinking classics from 70s, 80s, 90s, 00s, 10s &amp; beyond \- right through to closing time in the local.
 
-116 songs - 8 hr 5 min
+117 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Everywhere](https://open.spotify.com/track/6i8ecOsx4J2Px1maiqzqoG) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In The Night](https://open.spotify.com/album/1W5YP0TlKjFtb2UZJThLpV) | 3:42 | 2025-10-08 |  |
 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 | 2025-10-08 |  |
 | [Ghosts Again](https://open.spotify.com/track/3TiVl5igD6Z5Pw6R5sp8YV) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Ghosts Again](https://open.spotify.com/album/71hI1kZm2fvpY19mlv38nF) | 3:58 | 2025-10-08 |  |
+| [Gone Forever](https://open.spotify.com/track/57M4pOLa1lrTUYLZjQvuPr) | [Cry Before Dawn](https://open.spotify.com/artist/4S6peRV3B8YuzcnBBAG0Rd) | [Crimes Of Conscience](https://open.spotify.com/album/0XavfBjFo4LguwebHVjblr) | 3:49 | 2026-02-27 |  |
 | [Good Vibrations](https://open.spotify.com/track/626WN1uZhuIu6gvDBlvoIs) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Holidays & Hits](https://open.spotify.com/album/1bIaf8B2gvDCCADX2kSHUm) | 3:37 | 2025-10-08 |  |
 | [Hold the Line](https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto](https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3) | 3:55 | 2025-10-08 |  |
 | [House of the Rising Sun](https://open.spotify.com/track/3XC7Jd6SfrQYKZJ6inyRHK) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [Most of the Animals](https://open.spotify.com/album/0Vhk3dVT59LnhwSHFXLIXA) | 4:29 | 2025-10-08 |  |

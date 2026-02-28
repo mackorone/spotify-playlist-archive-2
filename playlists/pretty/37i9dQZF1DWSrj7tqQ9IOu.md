@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Le meilleur de l'indie français\. Cover : Heroe
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,636 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,617 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Blue Summer](https://open.spotify.com/track/2STdCfjSC4CB9TakulkWFD) | [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX), [Ricky Ducati](https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE) | [Blue Summer](https://open.spotify.com/album/1Rdsc0SBiK6RpNrhAfJM18) | 3:40 |
 | 50 | [SEPTEMBRE](https://open.spotify.com/track/24oHx7PUA34crI1UJNoYhA) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [LES PASSANTES](https://open.spotify.com/album/3PGhTSBv7XmaksVNxipxpi) | 2:34 |
 
-Snapshot ID: `AAAAAOW3elD3LKPN1MRM0zcoM/5msN8a`
+Snapshot ID: `AAAAAIf6KT4BzyZ0uGrCw2M+Y5fwaej5`

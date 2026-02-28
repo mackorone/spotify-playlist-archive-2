@@ -4,7 +4,7 @@
 
 > Bossa nova vibes for the hopeless romantic daydreamers\. Cover: natalie jinju
 
-175 songs - 8 hr 51 min
+177 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Cantares](https://open.spotify.com/track/7tn64XRTYFqr2K7ujNLgTl) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Cantares](https://open.spotify.com/album/1UBBUboWIBuEYeYQy7QFCO) | 2:55 | 2023-01-06 | 2023-09-09 |
 | [Cariño](https://open.spotify.com/track/16gJmoOqRt2lKmlXtDpWgH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 4:18 | 2023-09-15 | 2024-04-19 |
 | [Cariño](https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Cariño](https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6) | 4:18 | 2023-01-06 |  |
+| [Cha Cha Cha](https://open.spotify.com/track/6QletrrmpkUpeJkipX9pgf) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:56 | 2026-02-27 |  |
 | [Chico \(English Version\)](https://open.spotify.com/track/6AErmv0Xg3YVmTZo4jgz1z) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Chico \(English Version\)](https://open.spotify.com/album/6FWg2G8y9IMA2ztAPO6XvA) | 2:58 | 2024-03-07 | 2024-07-27 |
 | [City Of Stars](https://open.spotify.com/track/5BMwpS4iYKR30kq9U9beaT) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue) | [La La Land \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S) | 1:51 | 2023-07-28 | 2024-11-26 |
 | [Clockwork](https://open.spotify.com/track/1zOXs9kBDCGVYZXbxCR3eu) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 2:30 | 2025-08-22 |  |
@@ -131,10 +132,11 @@
 | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/3Q8SnMp3lhGGoIJBDmYRPa) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Young Hearts](https://open.spotify.com/album/7qNttLERG60jtBqhMsLA7J) | 2:48 | 2024-03-07 | 2024-04-19 |
 | [Ready For Love \(Extended\)](https://open.spotify.com/track/09423JokPDJAG92SSzshnX) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted \(Deluxe Edition\)](https://open.spotify.com/album/4tOljQq0yQqk6KaWRmAwua) | 3:30 | 2023-01-06 | 2023-11-11 |
 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 | 2023-01-06 |  |
+| [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 | 2026-02-27 |  |
 | [Role Model](https://open.spotify.com/track/7EbHleMQStqGD7YKiCeBmz) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Role Model](https://open.spotify.com/album/2mHWAQ08dnXOPh3ddrQqJ6) | 2:11 | 2023-05-05 | 2023-07-29 |
 | [Room For You](https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Room For You](https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu) | 3:03 | 2024-07-26 |  |
 | [ROT](https://open.spotify.com/track/70zTbQd3yYeNwA75CF2fcd) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [WE GOOD](https://open.spotify.com/album/3I9SoNg5YQAPIE1VVSXdat) | 2:49 | 2024-09-13 |  |
-| [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-07-28 |  |
+| [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-07-28 | 2026-02-28 |
 | [Scissors](https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Scissors](https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL) | 2:25 | 2025-01-10 |  |
 | [Seaside Adventures](https://open.spotify.com/track/3W4aAUuDXMCS6QgZR7cTur) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4), [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ) | [Seaside Adventures](https://open.spotify.com/album/090krYhm5bNW0wlujblsjo) | 2:47 | 2023-01-06 | 2024-05-18 |
 | [Seaside Adventures](https://open.spotify.com/track/5deQ46BnmgeUzCeuFfVINX) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4), [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ) | [Seaside Adventures](https://open.spotify.com/album/5JzjozUauQCTyWdXoH201b) | 2:47 | 2023-10-13 | 2024-04-19 |
@@ -163,7 +165,7 @@
 | [unconditionally](https://open.spotify.com/track/6cI9UEcMQ4cVlVisye8Cde) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [unconditionally](https://open.spotify.com/album/2HCunW4NkvdH3jyekOocda) | 1:17 | 2024-05-24 | 2024-11-23 |
 | [UNDERSTAND](https://open.spotify.com/track/72sfmdpuO5r8cBDgs7MqZZ) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:30 | 2023-07-28 | 2025-09-27 |
 | [Uno Dos](https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u), [Jaden Smith](https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4) | [¿Téo?](https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g) | 2:50 | 2023-01-06 |  |
-| [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2023-07-28 |  |
+| [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2023-07-28 | 2026-02-28 |
 | [valentine](https://open.spotify.com/track/1LTQ4OQMz6fys8uD2pHne2) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [valentine](https://open.spotify.com/album/0JYe4ASLKFJAqugCL783le) | 3:02 | 2025-02-14 |  |
 | [Vanilla Tobacco](https://open.spotify.com/track/17wRNRiO8LZLP79mf8Fri7) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 2:48 | 2023-03-31 | 2024-04-19 |
 | [Vanilla Tobacco](https://open.spotify.com/track/36XMwwDfgKyl3nIksXbZ4G) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Vanilla Tobacco](https://open.spotify.com/album/6HJjCkU7RNvqiYB0iZVIgR) | 2:48 | 2023-01-06 |  |

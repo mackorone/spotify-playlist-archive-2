@@ -4,7 +4,7 @@
 
 > Indiepop in het Nederlands\. Cover: nonchelange
 
-299 songs - 15 hr 30 min
+300 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Boter, Kaas en Eieren](https://open.spotify.com/track/1ksF2Z3ql9E1HkoQ4wD1KE) | [So\-Fi](https://open.spotify.com/artist/6TIw842G1nVz2xEhU9YlBs) | [Calls From The Hull vol\. III](https://open.spotify.com/album/2dQw0QVHFeOcArTpxaW76Y) | 1:45 | 2024-10-09 | 2025-01-11 |
 | [Boterham](https://open.spotify.com/track/43jTtqGXC9Haqr1CsCQ6et) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [Faberyayo](https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0) | [Boterham](https://open.spotify.com/album/2gs4DAtbdobe6Zc0WEYXoO) | 2:07 | 2025-09-26 |  |
 | [Brighton Beach](https://open.spotify.com/track/4UMtmH4uu5nWW56YJ6FXXv) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Brighton Beach](https://open.spotify.com/album/1kov0KbGPkhNMyDuE6gH9Z) | 2:47 | 2025-12-18 | 2026-01-25 |
-| [Bustour \(Land Van Ons Ma\)](https://open.spotify.com/track/6wirIoXNMjJQ4EKRiV4Tl0) | [Dave Budha](https://open.spotify.com/artist/6zIx5dF0NrdVdbqF5JuuP7) | [Bustour \(Land Van Ons Ma\)](https://open.spotify.com/album/5ybS7UbSs6yjZelz9EKQ9s) | 2:46 | 2026-02-05 |  |
+| [Bustour \(Land Van Ons Ma\)](https://open.spotify.com/track/6wirIoXNMjJQ4EKRiV4Tl0) | [Dave Budha](https://open.spotify.com/artist/6zIx5dF0NrdVdbqF5JuuP7) | [Bustour \(Land Van Ons Ma\)](https://open.spotify.com/album/5ybS7UbSs6yjZelz9EKQ9s) | 2:46 | 2026-02-05 | 2026-02-28 |
 | [Buut Vrij](https://open.spotify.com/track/3QPg1dEGWflIOjyFQyho8i) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Buut Vrij](https://open.spotify.com/album/630fn7jhz1GbN3pWWuR1qu) | 2:38 | 2025-09-26 |  |
 | [Cherry Jenna](https://open.spotify.com/track/0Z7EHxmP8WznjmOPNsDSzl) | [ISAÏ](https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2) | [Nachtblind](https://open.spotify.com/album/24DodGp1X7O17mu0kiKInY) | 2:41 | 2025-01-21 | 2025-02-08 |
 | [Chocoladefontein](https://open.spotify.com/track/30cgYyTs2gobLFcwmbyfZj) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Chocoladefontein](https://open.spotify.com/album/3v03jn6nWDCkR11aGVeA5T) | 3:01 | 2024-06-26 | 2024-08-02 |
@@ -100,10 +100,12 @@
 | [Heilige Nacht](https://open.spotify.com/track/0bMRaBlTh2DgbayK6qebQi) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Heilige Nacht](https://open.spotify.com/album/3Q1VNqBxfb7yuLoqzlO1TU) | 3:12 | 2025-01-10 | 2025-03-14 |
 | [Het Is Genoeg](https://open.spotify.com/track/4PZFKzgOwQsJ0ekn7rtWQl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Vrijplaats](https://open.spotify.com/album/4bYrHZemjTOwBqK8x4JnGq) | 3:53 | 2024-10-24 | 2025-05-27 |
 | [Het Is Nog Niet Te Laat](https://open.spotify.com/track/6NHoHofU4Hj5o0YscjmZk1) | [REINDIER](https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK), [Tessa Rose Jackson](https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ) | [Het Is Nog Niet Te Laat](https://open.spotify.com/album/2JS9zAvexCRsygky4eo46n) | 3:59 | 2025-09-04 | 2025-10-22 |
+| [Het Laat Me Koud](https://open.spotify.com/track/3MBAkHWBjSkEidJ858kuuX) | [Frank Arnold](https://open.spotify.com/artist/3KTLL0ypRpUCs3oB7lLo92) | [Het Laat Me Koud](https://open.spotify.com/album/5pJZYwxztfIwZ8XZQ6wH2H) | 4:40 | 2026-02-26 |  |
 | [Het Outro](https://open.spotify.com/track/6bk3p646tz37ZqL0k3gDfe) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Het Outro](https://open.spotify.com/album/2ERyEdzLAJEyia7NzuHImY) | 3:20 | 2024-11-07 | 2025-05-27 |
 | [Het Vliegt Voorbij](https://open.spotify.com/track/64RQ9dINfcD3JD14eXkMpM) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Het Vliegt Voorbij](https://open.spotify.com/album/1Zn9pVkbFGIqIWJhIgw4Yl) | 2:43 | 2025-03-07 | 2025-04-07 |
 | [Hete Plaat](https://open.spotify.com/track/7gjLOSH4deTDoXDxWaZoaE) | [LE MOTAT](https://open.spotify.com/artist/5ETmxctyLILUwpIf9H30iO) | [Hete Plaat](https://open.spotify.com/album/21bS7BvqWf6mwZX2bYKOO0) | 4:34 | 2025-07-17 | 2025-09-27 |
 | [HOE?](https://open.spotify.com/track/6Qbn3rvKVwqPMquEHJhuG6) | [Noor](https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W) | [HOE?](https://open.spotify.com/album/6H8MORZSED2NcjGs4j4wv3) | 3:41 | 2026-02-26 |  |
+| [Hoofd](https://open.spotify.com/track/7DsTVwUPn3qvsTVn26kgwv) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Hoofd](https://open.spotify.com/album/5XV6LTscTMjMK9EwuqSSJ9) | 2:49 | 2026-02-26 |  |
 | [Hotel de Goudfazanten](https://open.spotify.com/track/3k10pBkw1BbRf7gUmWARQM) | [Jordy Dijkshoorn](https://open.spotify.com/artist/2rxfs3NQmggU6tSbZZJ3Ke) | [Hotel de Goudfazanten](https://open.spotify.com/album/5c3FvmDVsg3K2dNpWZGS6X) | 3:21 | 2024-10-11 | 2025-01-11 |
 | [Hou ik te weinig van mezelf](https://open.spotify.com/track/2j5vAHjU1JBBqihW6z56TS) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Hou ik te weinig van mezelf](https://open.spotify.com/album/34RXbvn4DMPXqm1cm6Lli0) | 2:24 | 2024-06-26 | 2024-09-10 |
 | [hou me vast](https://open.spotify.com/track/3mbLs5eGlWr6PYG1NksRMx) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [hou me vast](https://open.spotify.com/album/2Ngl789gVEnr65lLcY4cgO) | 3:51 | 2025-04-03 | 2025-05-27 |
@@ -252,7 +254,6 @@
 | [Toen kwam jij](https://open.spotify.com/track/3b7ZWOmR2AnOGl06qqE41N) | [Lucky Fonz III](https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm) | [Toen kwam jij](https://open.spotify.com/album/5Q3aWVbxIB5xWybBklr0HQ) | 4:14 | 2025-09-26 |  |
 | [TOM](https://open.spotify.com/track/2TEheyi5V6hr4P4K1F20a2) | [Roosbeef](https://open.spotify.com/artist/5W6gRzU3M4IpIWjy8D52i5) | [TOM](https://open.spotify.com/album/6hXAOu7RS5VwjGyh2zNO1h) | 4:21 | 2025-08-11 | 2026-01-15 |
 | [Toxisch](https://open.spotify.com/track/3O4Uzb4REHZFaywzeWB65g) | [Maxime](https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR) | [Toxisch](https://open.spotify.com/album/38nHPtWUaI6m5E52I8CDFC) | 2:42 | 2025-06-02 | 2025-08-30 |
-| [Track 5](https://open.spotify.com/track/7DsTVwUPn3qvsTVn26kgwv) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Hoofd](https://open.spotify.com/album/5XV6LTscTMjMK9EwuqSSJ9) | 0:00 | 2026-02-26 |  |
 | [Troostzoekers \(met Froukje\)](https://open.spotify.com/track/1EGEgAKpYg1T9zOVZKyP8J) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Sterrenlopen](https://open.spotify.com/album/5GMxtUUhppf2fnfCSivkKQ) | 3:32 | 2024-06-26 | 2024-08-30 |
 | [troubadour](https://open.spotify.com/track/1fL4Tv0ntJcRwLpYnJL67V) | [damy](https://open.spotify.com/artist/174dVKjThMTw6S3PYfYUZK) | [troubadour](https://open.spotify.com/album/0BlyYPekEGbCv5RKp4Jwhi) | 2:59 | 2025-12-01 | 2025-12-03 |
 | [Très Heureux](https://open.spotify.com/track/3Iybyv19Ia1SnMO9q4kCYA) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Très Heureux](https://open.spotify.com/album/5lqubazpQwzdSX35eebdFm) | 2:58 | 2024-07-05 | 2024-09-14 |

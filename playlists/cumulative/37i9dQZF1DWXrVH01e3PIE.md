@@ -2,9 +2,9 @@
 
 ### [Trapperz Argentina](https://open.spotify.com/playlist/37i9dQZF1DWXrVH01e3PIE)
 
-> Mike Southside & Corona en la casa del Trap Argentino.
+> Lil Troca, Lucho SSJ & C.R.O en la casa del Trap Argentino
 
-568 songs - 1 day 3 hr 35 min
+569 songs - 1 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [AYER](https://open.spotify.com/track/4Zn6j393rAtuIG0PAJqx1s) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [AYER](https://open.spotify.com/album/5RjGwtwltDL696PNZIfv49) | 3:04 | 2022-02-04 | 2024-09-28 |
 | [Bad B\*tches](https://open.spotify.com/track/3XQlzdBYy7aXYwdD82WSu7) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [SnipeZ](https://open.spotify.com/album/1O0VHFd6xTl1CfLausE0kN) | 2:34 | 2022-10-28 | 2023-10-21 |
 | [Bajo El Sol](https://open.spotify.com/track/57mxKzlcRGGZKLlVVDpztL) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Bajo El Sol](https://open.spotify.com/album/6ziFA6M7TxdCQ2bxplctdK) | 3:05 | 2025-04-11 | 2025-04-22 |
-| [bali .](https://open.spotify.com/track/7slbwOTJmyABDs82VaURSC) | [FRO!](https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL), [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg) | [bali .](https://open.spotify.com/album/2FN0ortSaO9f2WBZRYTT5x) | 2:12 | 2024-12-13 |  |
+| [bali .](https://open.spotify.com/track/7slbwOTJmyABDs82VaURSC) | [FRO!](https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL), [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg) | [bali .](https://open.spotify.com/album/2FN0ortSaO9f2WBZRYTT5x) | 2:12 | 2024-12-13 | 2026-02-28 |
 | [Baller](https://open.spotify.com/track/0WCJqrHLaDsjt2nBZSynnS) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Baller](https://open.spotify.com/album/4M4ASPb71i9q5uq6XDUFLJ) | 3:21 | 2022-01-21 | 2023-09-16 |
 | [Bando](https://open.spotify.com/track/0CyJuu1z03pJtWI7loX9va) | [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A), [Jowa](https://open.spotify.com/artist/5ljLrsS46u9DD1e2rWvcc5) | [Bando](https://open.spotify.com/album/61SFJyZpNmvtOb32mtROrD) | 2:15 | 2025-04-11 | 2025-04-22 |
 | [Barras Bravas Session \#1](https://open.spotify.com/track/27Z972CXJhwcelhKuHB7cj) | [Dj Telmogo](https://open.spotify.com/artist/0d0tg71mXYFG8myOTfNQCF), [Masskouh](https://open.spotify.com/artist/1ftqo8LZLPQQ80UUmSsPeE), [ElBroda](https://open.spotify.com/artist/0a10iAgSjjTpm39Ce3QRu3), [Maylo 420](https://open.spotify.com/artist/0VjXg1WrCD2tNcpGyY4Eg0), [Notorious Wach](https://open.spotify.com/artist/59LdUpPI4AkQ24aFaGoEi7) | [Barras Bravas Session \#1](https://open.spotify.com/album/0zxaIRgUNxMICIV9FwaFVp) | 2:05 | 2023-02-03 | 2023-03-31 |
@@ -269,6 +269,7 @@
 | [Jefa](https://open.spotify.com/track/5p3UrngKJuewvX42AqBBNe) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Jefa](https://open.spotify.com/album/1Sg6umTTHxbHrTveLYsA2q) | 2:15 | 2022-05-20 | 2023-01-14 |
 | [Jimmy Fallon \- Remix](https://open.spotify.com/track/3oyOEGQXpwXVwLSZb088bJ) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Jimmy Fallon \(Remix\)](https://open.spotify.com/album/6ZodluiJtgoZDLMRnv8VkW) | 4:02 | 2022-01-21 | 2025-02-22 |
 | [Jugador](https://open.spotify.com/track/3njm1G9QgV5Lis9Iu4KNiL) | [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV), [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [Jugador](https://open.spotify.com/album/7ojyCFdPTN6J1DqAUMWtAJ) | 2:15 | 2022-01-21 | 2022-05-20 |
+| [Jumping](https://open.spotify.com/track/3G3bxTpxZqC8x1PaZXgTGV) | [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Jumping](https://open.spotify.com/album/3dvaU8OfG9AXgXm4bg25gb) | 3:17 | 2026-02-27 |  |
 | [KAWASAKI](https://open.spotify.com/track/6H86EvTHKZRTgjrjpDEkV3) | [Marlku](https://open.spotify.com/artist/4o3YJfgarCUSVyPH5HKRA5), [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN) | [KAWASAKI](https://open.spotify.com/album/6odB4wXFD9uGUmlrNKd2cf) | 3:07 | 2022-08-05 | 2023-02-18 |
 | [KFC](https://open.spotify.com/track/1IoJ8K4cHdPj5J6WgBqz4t) | [Muerejoven](https://open.spotify.com/artist/2yGXs7AlyNVetlMvwsFXGk) | [dos temitas](https://open.spotify.com/album/5uIDSXxlxn8h3Zl9xngn6y) | 1:53 | 2024-08-23 | 2025-09-13 |
 | [KHEA: Bzrp Music Sessions, Vol\. 34](https://open.spotify.com/track/7bidsoy3nzCDNYzAzrV7NN) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [KHEA: Bzrp Music Sessions, Vol\. 34](https://open.spotify.com/album/4uCvvmrzsCEyLDbBJ1pYww) | 3:18 | 2022-01-21 | 2023-08-05 |

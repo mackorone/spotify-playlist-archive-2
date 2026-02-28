@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > killer rock & alternative covers\. Cover: YUNGBLUD, Steven Tyler and Joe Perry at The VMAs
 
-[Spotify](https://open.spotify.com/user/spotify) - 753,819 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 753,920 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 96 | [Dancing on My Own](https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Dancing on My Own](https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa) | 3:29 |
 | 97 | [Hungry Like the Wolf \- Recorded Live at AIR Studios, London](https://open.spotify.com/track/0YdWb05mQJwJnd3U7zXWFv) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Spotify Singles](https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO) | 3:09 |
 | 98 | [For What It's Worth](https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [For What It's Worth](https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9) | 4:52 |
-| 99 | [Yellow \- Spotify Singles](https://open.spotify.com/track/6VDuCryADxIMCNLCfyovtO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Yellow \- Spotify Singles](https://open.spotify.com/album/6lzLiRiEqZHySJVfbv86i0) | 4:29 |
-| 100 | [My Sharona \- Live Session from Abbey Road Studios, London, UK](https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Spotify Singles](https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD) | 2:32 |
+| 99 | [My Sharona \- Live Session from Abbey Road Studios, London, UK](https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Spotify Singles](https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD) | 2:32 |
+| 100 | [Yellow \- Spotify Singles](https://open.spotify.com/track/6VDuCryADxIMCNLCfyovtO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Yellow \- Spotify Singles](https://open.spotify.com/album/6lzLiRiEqZHySJVfbv86i0) | 4:29 |
 
 Snapshot ID: `AAAAAFduCsShZ2BVvzGtJ5d20uHYwJBP`

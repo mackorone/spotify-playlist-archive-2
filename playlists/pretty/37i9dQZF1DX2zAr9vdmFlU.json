@@ -1,6 +1,6 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 437272,
+  "num_followers": 437291,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
-        "name": "Obras Maestras",
-        "url": "https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK"
-      },
-      "artists": [
-        {
-          "name": "Diego El Cigala",
-          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
-        }
-      ],
-      "duration_ms": 201941,
-      "name": "Voy",
-      "url": "https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
         "name": "Por qu\u00e9 Ser\u00e1 (feat. La Tania & Yerai Cort\u00e9s)",
         "url": "https://open.spotify.com/album/24xWSIdWaIWJHnMfgYVqaR"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 300383,
       "name": "Por qu\u00e9 Ser\u00e1 (feat. La Tania & Yerai Cort\u00e9s)",
       "url": "https://open.spotify.com/track/5KE2x4MVkDMbuH4grodfdb"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
+        "name": "Obras Maestras",
+        "url": "https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK"
+      },
+      "artists": [
+        {
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+        }
+      ],
+      "duration_ms": 201941,
+      "name": "Voy",
+      "url": "https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
-        "name": "Desahogo",
-        "url": "https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9"
-      },
-      "artists": [
-        {
-          "name": "Diego El Cigala",
-          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
-        }
-      ],
-      "duration_ms": 260147,
-      "name": "Desahogo",
-      "url": "https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
         "name": "Jard\u00edn del Para\u00edso (feat. Bejuco)",
         "url": "https://open.spotify.com/album/66McP7Yf7kOAtfgomsNUzu"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 191147,
       "name": "Jard\u00edn del Para\u00edso (feat. Bejuco)",
       "url": "https://open.spotify.com/track/0yn2NERsd0Jb0Xf0t7xC7i"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
+        "name": "Desahogo",
+        "url": "https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9"
+      },
+      "artists": [
+        {
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+        }
+      ],
+      "duration_ms": 260147,
+      "name": "Desahogo",
+      "url": "https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -955,26 +955,6 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
-        "name": "Todo Cambi\u00f3",
-        "url": "https://open.spotify.com/album/1Zc8gfpNoHmszL1ybIF2jb"
-      },
-      "artists": [
-        {
-          "name": "Arthur Hanlon",
-          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
-        },
-        {
-          "name": "Mariangela",
-          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
-        }
-      ],
-      "duration_ms": 218909,
-      "name": "Todo Cambi\u00f3",
-      "url": "https://open.spotify.com/track/0sYhfDMlg2G1NC0OclLoTx"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
         "name": "Para Llevar",
         "url": "https://open.spotify.com/album/4WElfalmHN3xVtVcMJJxNW"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 172411,
       "name": "Para Llevar",
       "url": "https://open.spotify.com/track/3AhT5jxJpA6hVDgSgkrr3l"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
+        "name": "Todo Cambi\u00f3",
+        "url": "https://open.spotify.com/album/1Zc8gfpNoHmszL1ybIF2jb"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        },
+        {
+          "name": "Mariangela",
+          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+        }
+      ],
+      "duration_ms": 218909,
+      "name": "Todo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/0sYhfDMlg2G1NC0OclLoTx"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
-        "name": "Nobreza",
-        "url": "https://open.spotify.com/album/1S3u1h0ggT85QcGdb2qDuq"
-      },
-      "artists": [
-        {
-          "name": "LADAMA",
-          "url": "https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9"
-        }
-      ],
-      "duration_ms": 201364,
-      "name": "Nobreza",
-      "url": "https://open.spotify.com/track/1g1CCNbAA546LXL4q3CwSZ"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
         "name": "Compass",
         "url": "https://open.spotify.com/album/2SJKC7sZ0uS1m43oNarZHA"
       },
@@ -1539,18 +1523,34 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI"
+        "name": "Nobreza",
+        "url": "https://open.spotify.com/album/1S3u1h0ggT85QcGdb2qDuq"
       },
       "artists": [
         {
-          "name": "Tropa Magica",
-          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+          "name": "LADAMA",
+          "url": "https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9"
         }
       ],
-      "duration_ms": 224261,
-      "name": "Price of Life",
-      "url": "https://open.spotify.com/track/0WXHvhN3VnXrlk1JACQkf8"
+      "duration_ms": 201364,
+      "name": "Nobreza",
+      "url": "https://open.spotify.com/track/1g1CCNbAA546LXL4q3CwSZ"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
+        "name": "La del bar",
+        "url": "https://open.spotify.com/album/1kpWuRjNRbNDwJA2OTKdIi"
+      },
+      "artists": [
+        {
+          "name": "G\u00e8rard",
+          "url": "https://open.spotify.com/artist/71Cp3TYbeCYy1KmkGlF10z"
+        }
+      ],
+      "duration_ms": 154378,
+      "name": "La del bar",
+      "url": "https://open.spotify.com/track/5nLL2zJVhkPMpGVQapZ6Eg"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
-        "name": "La del bar",
-        "url": "https://open.spotify.com/album/1kpWuRjNRbNDwJA2OTKdIi"
+        "name": "III",
+        "url": "https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI"
       },
       "artists": [
         {
-          "name": "G\u00e8rard",
-          "url": "https://open.spotify.com/artist/71Cp3TYbeCYy1KmkGlF10z"
+          "name": "Tropa Magica",
+          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
         }
       ],
-      "duration_ms": 154378,
-      "name": "La del bar",
-      "url": "https://open.spotify.com/track/5nLL2zJVhkPMpGVQapZ6Eg"
+      "duration_ms": 224261,
+      "name": "Price of Life",
+      "url": "https://open.spotify.com/track/0WXHvhN3VnXrlk1JACQkf8"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
-        "name": "Game On",
-        "url": "https://open.spotify.com/album/1wy96LLU4IDVi8axtkZsVG"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 301925,
-      "name": "Game On",
-      "url": "https://open.spotify.com/track/5Sbjx80XMMbhjH22iGUbAK"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
         "name": "sweet nothings",
         "url": "https://open.spotify.com/album/2g4XXX6nYFk8YASLT0ssYx"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 138151,
       "name": "sweet nothings",
       "url": "https://open.spotify.com/track/3IrZ4zPw4M4jgD0GHsetH1"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
+        "name": "Game On",
+        "url": "https://open.spotify.com/album/1wy96LLU4IDVi8axtkZsVG"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 301925,
+      "name": "Game On",
+      "url": "https://open.spotify.com/track/5Sbjx80XMMbhjH22iGUbAK"
     },
     {
       "added_at": "2026-02-19 18:04:12",

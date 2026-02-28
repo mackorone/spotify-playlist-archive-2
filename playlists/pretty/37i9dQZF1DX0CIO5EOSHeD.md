@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 
 > Slacker jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,196 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,247 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 36 | [lavender blood](https://open.spotify.com/track/4sXwt3StCVkgLyxxvgVXrq) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [Luxury Beverage](https://open.spotify.com/album/0Yo59wt8j5LFakGmqm16Iu) | 2:38 |
 | 37 | [A Sad Song About a Girl I No Longer Know](https://open.spotify.com/track/78TzliRJJhCgsZ0ARUm8vI) | [Bedside Kites](https://open.spotify.com/artist/5zKinanOH8komuiAx6fmvL) | [Bedside Kites](https://open.spotify.com/album/49LaVq4xveyPNmLU165QRi) | 5:28 |
 | 38 | [say goodbye](https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [say goodbye](https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB) | 1:26 |
-| 39 | [Pumpkin](https://open.spotify.com/track/3ojxLlQYFkLh8WiYlkx2Yz) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Scream from New York, NY](https://open.spotify.com/album/1Wrak3bc0EjtxPySE4MPDe) | 4:17 |
-| 40 | [Spiral Stairs](https://open.spotify.com/track/6ODsBcPNsjqHzxrhmsPWLD) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Spiral Stairs](https://open.spotify.com/album/0JsrXgAVovKYKoKRrBLdMO) | 2:26 |
+| 39 | [Spiral Stairs](https://open.spotify.com/track/6ODsBcPNsjqHzxrhmsPWLD) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Spiral Stairs](https://open.spotify.com/album/0JsrXgAVovKYKoKRrBLdMO) | 2:26 |
+| 40 | [Pumpkin](https://open.spotify.com/track/3ojxLlQYFkLh8WiYlkx2Yz) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Scream from New York, NY](https://open.spotify.com/album/1Wrak3bc0EjtxPySE4MPDe) | 4:17 |
 | 41 | [12 Blown Tires](https://open.spotify.com/track/43sc5VGNzFauUOnepR9VSc) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Face Down In The Garden](https://open.spotify.com/album/1oFMLVK71dL1Jpq6aoCoIq) | 4:12 |
 | 42 | [Silence Kid](https://open.spotify.com/track/1CwQqhPYxz73UYKD7ybYGd) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Crooked Rain, Crooked Rain](https://open.spotify.com/album/1XFNz6KIvLyIsLFOiLRKqP) | 3:00 |
 | 43 | [Not Alone](https://open.spotify.com/track/1PXYKrVSpw0hJg6mbr4XEV) | [peach tinted](https://open.spotify.com/artist/0jAu9Z9QrpYwY1vBenZs9Y) | [Peach Tinted](https://open.spotify.com/album/6bzfjfh16uVdxA00EpqUau) | 3:11 |
-| 44 | [concussion](https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [concussion](https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2) | 4:37 |
-| 45 | [into me](https://open.spotify.com/track/7qmqKMqHTxBGvcjTN1wOaj) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [into me](https://open.spotify.com/album/0IoYTbRX2fybz0yqHM2TNT) | 2:52 |
+| 44 | [into me](https://open.spotify.com/track/7qmqKMqHTxBGvcjTN1wOaj) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [into me](https://open.spotify.com/album/0IoYTbRX2fybz0yqHM2TNT) | 2:52 |
+| 45 | [concussion](https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [concussion](https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2) | 4:37 |
 | 46 | [Around the Pomegranate](https://open.spotify.com/track/4fA9UQIKQAFlJKhMoThok3) | [Wilbur Soot](https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy) | [Mammalian Sighing Reflex](https://open.spotify.com/album/31KiskR7q89oowARNCmSMG) | 2:39 |
 | 47 | [running to find you](https://open.spotify.com/track/2FEf9b0UGPt3jsEQ3VGGTS) | [Mind’s Eye](https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd) | [Long Nights and Wasted Affairs](https://open.spotify.com/album/2YKrT7Izbd8U5muoR0ZNaL) | 3:42 |
 | 48 | [Paces](https://open.spotify.com/track/6RiF8SC99TQlhS1HkdM7sF) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 2:44 |
@@ -75,14 +75,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 65 | [Blue Sheen](https://open.spotify.com/track/4a1mFp7Kd5y20I08Cy7Nei) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Body Jumper](https://open.spotify.com/album/34wILh42l9lFTepPd128Jg) | 1:58 |
 | 66 | [Beautiful Mind](https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:19 |
 | 67 | [I Want To Be With You](https://open.spotify.com/track/2bYTSTwiAPXDj322o1wKu2) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [I Want To Be With You](https://open.spotify.com/album/4KDSiUvJGqsrLkHcCFNmxv) | 2:59 |
-| 68 | [Can’t Get Enough](https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Can’t Get Enough](https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu) | 2:11 |
-| 69 | [Take It Off](https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Rat](https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm) | 3:11 |
+| 68 | [Take It Off](https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Rat](https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm) | 3:11 |
+| 69 | [Can’t Get Enough](https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Can’t Get Enough](https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu) | 2:11 |
 | 70 | [PIERCED ARROWS](https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH](https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3) | 4:02 |
 | 71 | [my little tony](https://open.spotify.com/track/08PgEBgGK65DZpxudS1J73) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Twits](https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0) | 2:59 |
 | 72 | [3:45/buslane](https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [3:45/buslane](https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ) | 2:08 |
 | 73 | [marble arch](https://open.spotify.com/track/3gIC7qzRoxiDpYo0ymjZS0) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [marble arch](https://open.spotify.com/album/2aWNuYIUpxgS5ybXek6d0a) | 4:56 |
-| 74 | [Jesse](https://open.spotify.com/track/27hPDHjoiRbLU3lS5Js4Tc) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Real Life](https://open.spotify.com/album/6aFmpWv1BgzBpJ358C86zc) | 2:09 |
-| 75 | [Feral Guest](https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [When You Gonna Tell 'Em the Truth, Aaron?](https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba) | 3:53 |
+| 74 | [Feral Guest](https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [When You Gonna Tell 'Em the Truth, Aaron?](https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba) | 3:53 |
+| 75 | [Jesse](https://open.spotify.com/track/27hPDHjoiRbLU3lS5Js4Tc) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Real Life](https://open.spotify.com/album/6aFmpWv1BgzBpJ358C86zc) | 2:09 |
 | 76 | [That's What They Wanted](https://open.spotify.com/track/61hQMSDPEyMduIoZ6BwkO2) | [canless valley](https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj) | [That's What They Wanted](https://open.spotify.com/album/6ixZ1mCoJtFwwSMqufEfZC) | 1:56 |
 | 77 | [Night Vision](https://open.spotify.com/track/54GSKI57uNYbwamZrjBGMz) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Chopper](https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1) | 3:22 |
 | 78 | [Escape From The Killer 2008](https://open.spotify.com/track/0E3C9ry5VM5YqCZLdcE0Fj) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Escape From The Killer](https://open.spotify.com/album/3f8J1FJdPioQfUEG3FL2PG) | 3:26 |

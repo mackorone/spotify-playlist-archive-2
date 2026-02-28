@@ -1,6 +1,6 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 283958,
+  "num_followers": 284029,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,18 @@
     {
       "added_at": "2026-01-16 05:00:24",
       "album": {
-        "name": "Secret Life",
-        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+        "name": "Insides",
+        "url": "https://open.spotify.com/album/124tr6mYSuv4yCQUKfyKTF"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
         }
       ],
-      "duration_ms": 322499,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
+      "duration_ms": 100946,
+      "name": "Small Memory",
+      "url": "https://open.spotify.com/track/78kPi2sLwSmILgJXz7wQxg"
     },
     {
       "added_at": "2026-01-16 05:00:24",
@@ -427,18 +423,22 @@
     {
       "added_at": "2026-01-16 05:00:24",
       "album": {
-        "name": "Insides",
-        "url": "https://open.spotify.com/album/124tr6mYSuv4yCQUKfyKTF"
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
       "artists": [
         {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 100946,
-      "name": "Small Memory",
-      "url": "https://open.spotify.com/track/78kPi2sLwSmILgJXz7wQxg"
+      "duration_ms": 322499,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
     },
     {
       "added_at": "2026-01-16 05:00:24",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-01-16 05:00:24",
       "album": {
-        "name": "Views/Octopus EP",
-        "url": "https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU"
-      },
-      "artists": [
-        {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Aquarium",
-      "url": "https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE"
-    },
-    {
-      "added_at": "2026-01-16 05:00:24",
-      "album": {
         "name": "I Feel You Feel",
         "url": "https://open.spotify.com/album/0kp7hFBIN1CFuv3gIBcdDo"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 266666,
       "name": "Lines",
       "url": "https://open.spotify.com/track/63qu72CjJpo4TWkg7fY54B"
+    },
+    {
+      "added_at": "2026-01-16 05:00:24",
+      "album": {
+        "name": "Views/Octopus EP",
+        "url": "https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU"
+      },
+      "artists": [
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Aquarium",
+      "url": "https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE"
     },
     {
       "added_at": "2026-01-16 05:00:24",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2026-01-16 05:00:24",
       "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 262827,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg"
+    },
+    {
+      "added_at": "2026-01-16 05:00:24",
+      "album": {
         "name": "Immunity",
         "url": "https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35"
       },
@@ -1659,38 +1675,6 @@
     {
       "added_at": "2026-01-16 05:00:24",
       "album": {
-        "name": "Call",
-        "url": "https://open.spotify.com/album/0BtlgWzegBTP0xtKgLteJP"
-      },
-      "artists": [
-        {
-          "name": "Mascolo",
-          "url": "https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp"
-        }
-      ],
-      "duration_ms": 236260,
-      "name": "Call",
-      "url": "https://open.spotify.com/track/0NKMIeCLz6FhoziY1HjhtO"
-    },
-    {
-      "added_at": "2026-01-16 05:00:24",
-      "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/4wSb7OhVUzw3u76lta9fJw"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 243946,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/47PdEZPuwJ1wOBCVexAm5O"
-    },
-    {
-      "added_at": "2026-01-16 05:00:24",
-      "album": {
         "name": "Bad Vibes",
         "url": "https://open.spotify.com/album/3VpOUMVf32y2WQasgqmGPn"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 302210,
       "name": "Places",
       "url": "https://open.spotify.com/track/3oGqaG8lbdMzw4kgRb0CYz"
+    },
+    {
+      "added_at": "2026-01-16 05:00:24",
+      "album": {
+        "name": "Call",
+        "url": "https://open.spotify.com/album/0BtlgWzegBTP0xtKgLteJP"
+      },
+      "artists": [
+        {
+          "name": "Mascolo",
+          "url": "https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp"
+        }
+      ],
+      "duration_ms": 236260,
+      "name": "Call",
+      "url": "https://open.spotify.com/track/0NKMIeCLz6FhoziY1HjhtO"
     }
   ],
   "unique_name": "Electronica Romantica",

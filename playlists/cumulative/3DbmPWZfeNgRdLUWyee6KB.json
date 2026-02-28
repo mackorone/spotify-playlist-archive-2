@@ -118,7 +118,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 103705,
       "name": "23 de Maio",
       "url": "https://open.spotify.com/track/18Lw7AUnhUT646LdPFMvni"
@@ -226,7 +226,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 149250,
       "name": "7 Wonder",
       "url": "https://open.spotify.com/track/2jEa1Hi7nMl4B8LT5yjThF"
@@ -616,7 +616,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 217797,
       "name": "Abdel et Mikael",
       "url": "https://open.spotify.com/track/6nQny9qnNR6HCXmVOxsXrL"
@@ -656,7 +656,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 111244,
       "name": "Ada Lah Pokoknya",
       "url": "https://open.spotify.com/track/79VmacwFHLZ9MFJnd9M0Nt"
@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 202719,
       "name": "Are We Done",
       "url": "https://open.spotify.com/track/5kUB6dU77aA60LB7Eg0Mlf"
@@ -1390,7 +1390,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 232656,
       "name": "Beautiful Fear",
       "url": "https://open.spotify.com/track/2Q5xpVC50J31TqReHVIWk0"
@@ -1700,7 +1700,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 198541,
       "name": "Bright As The Stars",
       "url": "https://open.spotify.com/track/5vZMfAHNm6MeaomaddB4Fq"
@@ -2222,7 +2222,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 201000,
       "name": "Closer than the sky",
       "url": "https://open.spotify.com/track/3yeC1HoVGJxk5KGAX4595T"
@@ -2240,7 +2240,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 199319,
       "name": "Coastline",
       "url": "https://open.spotify.com/track/1RxAKnCromdMCDZcIv4ohk"
@@ -2373,6 +2373,28 @@
     },
     {
       "album": {
+        "name": "Could It Be Love",
+        "url": "https://open.spotify.com/album/4ddfDIzblId9xdTm0oK3Oz"
+      },
+      "artists": [
+        {
+          "name": "James A. Rocco",
+          "url": "https://open.spotify.com/artist/6smo6fpEJijfZN27dFbaoL"
+        },
+        {
+          "name": "Heidi Karol Johnson",
+          "url": "https://open.spotify.com/artist/4ySm3RS7l7jOfxpLZ3UPN0"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Could It Be Love",
+      "url": "https://open.spotify.com/track/0lfjkpY9AZq0Qs2Bwn09tu"
+    },
+    {
+      "album": {
         "name": "Covenant",
         "url": "https://open.spotify.com/album/2M9EF4AdUt5ybVzaGJ0DXA"
       },
@@ -2402,7 +2424,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 252222,
       "name": "Crash Out",
       "url": "https://open.spotify.com/track/3kVUVbCU7gVR6EQU0BCT9v"
@@ -2572,7 +2594,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 122156,
       "name": "Dear X - Acoustic",
       "url": "https://open.spotify.com/track/2EzZoCJWjgrTDypksr4gKo"
@@ -2788,7 +2810,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 245999,
       "name": "Dimmelo Adesso",
       "url": "https://open.spotify.com/track/5dokQ5aPLUoVuKUMlUYYmy"
@@ -3048,7 +3070,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 115199,
       "name": "Dubious",
       "url": "https://open.spotify.com/track/17H9H9krGfGb05FxunN5E0"
@@ -3196,7 +3218,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 169379,
       "name": "En tus redes (otra vez)",
       "url": "https://open.spotify.com/track/74hH8NUMsrKDZHQTLob2Zg"
@@ -3232,7 +3254,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 149438,
       "name": "Estrella de luna",
       "url": "https://open.spotify.com/track/5NjudslnouGdwlYfJFyTU6"
@@ -3250,7 +3272,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 226071,
       "name": "Everlasting",
       "url": "https://open.spotify.com/track/1PkxoTKPCNdn38xZ4vrRYU"
@@ -3398,7 +3420,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 145605,
       "name": "Feel the night",
       "url": "https://open.spotify.com/track/7p5t5QpJDkczSCaZMXxLdX"
@@ -3654,7 +3676,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 189199,
       "name": "Frequency Rising",
       "url": "https://open.spotify.com/track/2Ixz3zGp3oSOz0XaCwKQzG"
@@ -4314,7 +4336,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 236066,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/4Y21eeDE3adB2k1e9vzwQa"
@@ -4725,6 +4747,24 @@
     },
     {
       "album": {
+        "name": "I'll Be OK",
+        "url": "https://open.spotify.com/album/5IVbzLtCTRyti6RxCMwUEs"
+      },
+      "artists": [
+        {
+          "name": "The Last Light",
+          "url": "https://open.spotify.com/artist/7KWkGqTZIDX12N4Atp8IPl"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220600,
+      "name": "I'll Be OK",
+      "url": "https://open.spotify.com/track/5fMsoHcyvFOSURtJF4TOXf"
+    },
+    {
+      "album": {
         "name": "I'm alive and babe I feel just fine",
         "url": "https://open.spotify.com/album/3dXXfCpwn5gmnP7si8RmAH"
       },
@@ -4866,7 +4906,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 189000,
       "name": "illa decepci\u00f3",
       "url": "https://open.spotify.com/track/51X9bZSiveQplTV3MlCDSr"
@@ -5224,7 +5264,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 105826,
       "name": "JEANS DE CONTREBANDE",
       "url": "https://open.spotify.com/track/6cDa8GkU1IsZj0A8fSvGjW"
@@ -5296,7 +5336,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 258000,
       "name": "Judas",
       "url": "https://open.spotify.com/track/63ojE5nDCmEvkLG1tL8Hl8"
@@ -5458,7 +5498,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 238159,
       "name": "L'\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/1QCUwsbi0gzZjZWbBTfvNS"
@@ -5476,7 +5516,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 219960,
       "name": "La calle de la alegr\u00eda",
       "url": "https://open.spotify.com/track/37LUExe8QBouKJhLAyeuTt"
@@ -5926,7 +5966,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 188239,
       "name": "Lessons",
       "url": "https://open.spotify.com/track/5xwV5BbXH0s2S9UrlW9plH"
@@ -6152,7 +6192,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 195919,
       "name": "Lost in Loving You",
       "url": "https://open.spotify.com/track/41HNTTQLlhNeIbcD93t7xP"
@@ -6228,7 +6268,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 251360,
       "name": "Love Her More",
       "url": "https://open.spotify.com/track/4p1VQaTKVZ9xiFIrJp6r6l"
@@ -6290,7 +6330,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 270999,
       "name": "LOVE ME",
       "url": "https://open.spotify.com/track/1Rqo7ZyC69YMBDwMPhAhRq"
@@ -6366,7 +6406,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 204444,
       "name": "Lueg mi a - D\u00e4nk was wotsch",
       "url": "https://open.spotify.com/track/5k03obY555MhUQAQwxq7OF"
@@ -6518,7 +6558,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 198107,
       "name": "Mai Chahun",
       "url": "https://open.spotify.com/track/7ehLGnxY9tOngRWuawpuTt"
@@ -6540,7 +6580,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 185509,
       "name": "Main Chahun (From \"Loopd\")",
       "url": "https://open.spotify.com/track/2eHhLPOUFKTS1fIOeFPkdv"
@@ -6750,7 +6790,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 276599,
       "name": "marble shoes",
       "url": "https://open.spotify.com/track/66zv7ZK5PG5eInCqvQEkdg"
@@ -7000,7 +7040,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 194687,
       "name": "Mi voluntad",
       "url": "https://open.spotify.com/track/5tXPiB9wwihAlWuwS5hYr0"
@@ -7278,7 +7318,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 237200,
       "name": "My Black Cat",
       "url": "https://open.spotify.com/track/1W7tQ70CJsbIpS0jTERKdM"
@@ -7828,7 +7868,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 227393,
       "name": "Nuestro cielo",
       "url": "https://open.spotify.com/track/7mx5FacYX14sdove4ngb64"
@@ -7882,7 +7922,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 167697,
       "name": "O Trem",
       "url": "https://open.spotify.com/track/1QV9CBitaoB6ko0wwXrfD5"
@@ -8168,7 +8208,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 185008,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/1NSXdzBae5YVJz1ZBD6y2L"
@@ -8204,7 +8244,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 159333,
       "name": "Oraci\u00f3n",
       "url": "https://open.spotify.com/track/4U1IuXpV9IQaLJ5tOObnpG"
@@ -8490,7 +8530,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 265988,
       "name": "Pick Up The Phone",
       "url": "https://open.spotify.com/track/0qtiw8duA3223Ra48ORunD"
@@ -8588,7 +8628,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 180618,
       "name": "Polaroid Heartbeats",
       "url": "https://open.spotify.com/track/7rZfePcbPcwUNup9K5UL0K"
@@ -8642,7 +8682,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 225235,
       "name": "POSSESSED GIRL",
       "url": "https://open.spotify.com/track/1hOFHg2ssRGWTZL0IHQ06z"
@@ -8867,6 +8907,24 @@
     },
     {
       "album": {
+        "name": "Rainy Night",
+        "url": "https://open.spotify.com/album/0THtbTaSYoMWvxTfVC3Ui1"
+      },
+      "artists": [
+        {
+          "name": "The Inked Path",
+          "url": "https://open.spotify.com/artist/6mH0wRSH6wrNnG2K0YSWnM"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223392,
+      "name": "Rainy Night",
+      "url": "https://open.spotify.com/track/2AuO23FzSXxrnhrZ9jriKE"
+    },
+    {
+      "album": {
         "name": "Raise It Up",
         "url": "https://open.spotify.com/album/17lgFajGXTTrexHfQ3mTXt"
       },
@@ -8878,7 +8936,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 186480,
       "name": "Raise It Up",
       "url": "https://open.spotify.com/track/69JLjSYJUQ2uwkQmI4mMtU"
@@ -9106,7 +9164,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 194784,
       "name": "Rising Sun",
       "url": "https://open.spotify.com/track/0P6x0ReQrQHHpl88QOMAHZ"
@@ -9196,7 +9254,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 174999,
       "name": "Rugido na Estrada",
       "url": "https://open.spotify.com/track/3FTaWZD7qUbb6ScM9YjbG1"
@@ -10068,7 +10126,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 259120,
       "name": "Sparta - Official Instrumental",
       "url": "https://open.spotify.com/track/6ZBL2OoxtzOWM8L9vR2Ism"
@@ -10144,7 +10202,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 168190,
       "name": "Start Over",
       "url": "https://open.spotify.com/track/6w6G8JwBtOQCiro9hj6rx7"
@@ -10486,7 +10544,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 173333,
       "name": "SWEET NIGHTMARE",
       "url": "https://open.spotify.com/track/0ln2EyNXSX3QVnn0GEUqrD"
@@ -10680,7 +10738,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 244604,
       "name": "Teal Waves And Rum Nights",
       "url": "https://open.spotify.com/track/0mLFAl3zHncCDtAhjF3Pjh"
@@ -10734,7 +10792,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 234839,
       "name": "Tere Ishq Mai",
       "url": "https://open.spotify.com/track/6noYEFKEF9mYBVsBbMXhKU"
@@ -10782,7 +10840,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 272000,
       "name": "That Smile",
       "url": "https://open.spotify.com/track/1NObtMTvbDsSMCt8L59PL9"
@@ -10940,7 +10998,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 235597,
       "name": "The Beach In December",
       "url": "https://open.spotify.com/track/4Tce0rxXK3cQcxNzp9XGU7"
@@ -11092,7 +11150,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 187799,
       "name": "The Feeling Is Real",
       "url": "https://open.spotify.com/track/1mqZtnhJeteblSxTYcGTM9"
@@ -11312,7 +11370,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 235923,
       "name": "The Lottery",
       "url": "https://open.spotify.com/track/0Q7VZP58L8UD0qIjWUCAtN"
@@ -11862,7 +11920,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 165245,
       "name": "Toxic Trait",
       "url": "https://open.spotify.com/track/34KZgwr2aDJQSeclVpdKB6"
@@ -12352,6 +12410,24 @@
       "duration_ms": 187586,
       "name": "VERDEBLU",
       "url": "https://open.spotify.com/track/0KgHOIRobU5tYfBWfTq5fd"
+    },
+    {
+      "album": {
+        "name": "Ver\u00e3o Cruel",
+        "url": "https://open.spotify.com/album/4LNUrXvE4Mm4o1CIkl9WIF"
+      },
+      "artists": [
+        {
+          "name": "Henry Key",
+          "url": "https://open.spotify.com/artist/0fFowNydSeaku95nJbHodn"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207857,
+      "name": "Ver\u00e3o Cruel",
+      "url": "https://open.spotify.com/track/3BORXQvI9R94IK4gxy0KcV"
     },
     {
       "album": {
@@ -13290,7 +13366,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 226039,
       "name": "\u4f60\u773c\u4e2d\u7684\u4f24\u75d5 \u2022 The Scars in Your Eyes",
       "url": "https://open.spotify.com/track/5kGIPlGN99k3tUXKSjrirF"

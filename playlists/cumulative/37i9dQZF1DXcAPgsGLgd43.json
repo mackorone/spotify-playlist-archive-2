@@ -2370,7 +2370,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 207804,
       "name": "Chimba",
       "url": "https://open.spotify.com/track/4P043YdrPKrNrF8aqRgGrB"
@@ -3198,7 +3198,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 185476,
       "name": "Dame Mas",
       "url": "https://open.spotify.com/track/5lCS7wZgRyCvJia3VSAvpu"
@@ -5214,6 +5214,28 @@
       "duration_ms": 176250,
       "name": "La La La",
       "url": "https://open.spotify.com/track/0kZwdBQo5iJfM9DYsFCYSD"
+    },
+    {
+      "album": {
+        "name": "La Luna",
+        "url": "https://open.spotify.com/album/4XIfexe7srgekIHZKWqjnq"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
+        },
+        {
+          "name": "Ricardo Reyna",
+          "url": "https://open.spotify.com/artist/7CM8di4c1wLMjVSGODhwxF"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146880,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/0vpLLEPKbf9PFtdx25u8k8"
     },
     {
       "album": {
@@ -10828,6 +10850,28 @@
       "duration_ms": 176640,
       "name": "Yabisa - Radio Mix",
       "url": "https://open.spotify.com/track/7w8gLFcrHRBB6xkkrLcvd6"
+    },
+    {
+      "album": {
+        "name": "YASSOMA",
+        "url": "https://open.spotify.com/album/54wZm9gDV1cCU7lzYC5J0h"
+      },
+      "artists": [
+        {
+          "name": "KLYMVX",
+          "url": "https://open.spotify.com/artist/68PsxdwOmePEmaNZJgKBU3"
+        },
+        {
+          "name": "Jamy Nox",
+          "url": "https://open.spotify.com/artist/2VdnGtTNKt8Bm6hS5Pgra3"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220161,
+      "name": "YASSOMA - Radio Edit",
+      "url": "https://open.spotify.com/track/7oDyhbJlgD1xs0xziPM4Fw"
     },
     {
       "album": {

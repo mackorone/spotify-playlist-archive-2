@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 
 > <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAkq">Myd</a>'s favourite tracks\. Updated regularly\. Curated by Myd\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,581 likes - 311 songs - 1 day 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,592 likes - 311 songs - 1 day 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -292,7 +292,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 282 | [Always](https://open.spotify.com/track/7Lg4dEz9IVE5iUILPEdyUv) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [In Plain Sight](https://open.spotify.com/album/39H3aSkk8uCM25VoIx16y7) | 2:42 |
 | 283 | [Believe](https://open.spotify.com/track/6mKOX2edpJ0W7zTjZW7JNz) | [Fec](https://open.spotify.com/artist/4PcuzJ8RCVuQIYlJINkVF1) | [The Believe](https://open.spotify.com/album/2yEI2aTvAVFHNghbmOUvuV) | 5:28 |
 | 284 | [Pepa](https://open.spotify.com/track/7svtmHQyMTLfsw6GTgqWle) | [Juravlove](https://open.spotify.com/artist/1KhnOJDR8KGk3Q3plUJ6Uo) | [Pepa](https://open.spotify.com/album/4j6hefKWdXCBtlzpN4cLV7) | 3:56 |
-| 285 | [Vai começar](https://open.spotify.com/track/5k9OWBfIBx6bVjF1vPLFue) | [Bronka](https://open.spotify.com/artist/1xtwX7lilXQmlBoRrOu8md) | [Electric Baile](https://open.spotify.com/album/74YNSSYVWGYuQh1GXmAil7) | 1:38 |
+| 285 | [Vai começar](https://open.spotify.com/track/5k9OWBfIBx6bVjF1vPLFue) | [Bronka](https://open.spotify.com/artist/1HG3i2BXCXTXuHW9BDIYNP) | [Electric Baile](https://open.spotify.com/album/74YNSSYVWGYuQh1GXmAil7) | 1:38 |
 | 286 | [Ouverture](https://open.spotify.com/track/3aIEQXnZSEWIriJaq1jUvZ) | [SPORE](https://open.spotify.com/artist/66xA2uEVOChiDTKdZd6hgV) | [Ouverture](https://open.spotify.com/album/4z7NVKdld1T32cxA7JXb5z) | 4:48 |
 | 287 | [lothian](https://open.spotify.com/track/6sbkf1YLWwYf3eq6UUyaRd) | [vano1337](https://open.spotify.com/artist/0TBtIg6LfQ7ScMO7txwIci) | [lothian](https://open.spotify.com/album/6sSBhZx5Sj3bJRFawCtpyH) | 2:46 |
 | 288 | [Deep Republik](https://open.spotify.com/track/2WV9GzrChrShKDVMtkxZzf) | [I:Cube](https://open.spotify.com/artist/2HNNSjjaK20NZ9PDZ2EMwU) | [Adore](https://open.spotify.com/album/0Hmwqb6SRtliaK6XbhUAZx) | 6:27 |

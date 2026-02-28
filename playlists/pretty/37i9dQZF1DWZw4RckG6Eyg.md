@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > All the indie gems from 2025 that we can't get enough of\. Cover: she's green
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,224 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,238 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 30 | [Beck n Call](https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn), [ttoh](https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF) | [Beck n Call](https://open.spotify.com/album/4WvAxqtOCHAeIvwZ1EaNQI) | 3:23 |
 | 31 | [Keep Falling in Love](https://open.spotify.com/track/2s0skXthOtkbPfyiwBf7a0) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Keep Falling in Love](https://open.spotify.com/album/09HQ9DzGBCXX7KMo7GADZA) | 3:11 |
 | 32 | [Yay! Saturday](https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Yay! Saturday](https://open.spotify.com/album/02OCZT8wTCERuqUzkhQfXn) | 3:15 |
-| 33 | [Heavy](https://open.spotify.com/track/7bOi2P9koS8GKmGBc8wjzU) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Heavy](https://open.spotify.com/album/3Jj1nEyuFd4AtWPq3C8UWe) | 3:20 |
+| 33 | [Adagio](https://open.spotify.com/track/3Ex4tGyBZsmbxzlyZyzdsX) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 2:56 |
 | 34 | [Girl of Your Dreams](https://open.spotify.com/track/7AVZ2T5nku3TKyZlPPXLEd) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Girl of Your Dreams](https://open.spotify.com/album/7lH9AcAtACrcYMKC6aLoGA) | 3:09 |
-| 35 | [Adagio](https://open.spotify.com/track/3Ex4tGyBZsmbxzlyZyzdsX) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 2:56 |
+| 35 | [Heavy](https://open.spotify.com/track/7bOi2P9koS8GKmGBc8wjzU) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Heavy](https://open.spotify.com/album/3Jj1nEyuFd4AtWPq3C8UWe) | 3:20 |
 | 36 | [Sliver](https://open.spotify.com/track/5BkbWh9MCeUjGa9DTyw7bV) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [CY](https://open.spotify.com/album/16UbcoUWBK6nwzPfCnO1R2) | 2:36 |
 | 37 | [how did they know](https://open.spotify.com/track/3b8M7JYleRsiMlvwad6IQ1) | [Kilu](https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow) | [how did they know](https://open.spotify.com/album/5XQnun6cfXG7S7KmXagM1K) | 4:03 |
 | 38 | [Losing Focus](https://open.spotify.com/track/1dfs70eiZmlIo88oDCjodF) | [EXUM](https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0) | [In Russia\. A is a 9](https://open.spotify.com/album/2puthl2ughnGeS7jor8GJU) | 3:29 |
@@ -75,10 +75,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 65 | [Two Step](https://open.spotify.com/track/5GfjnLf8aMzfr7VuFiIB0H) | [DERBY](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [Slugger](https://open.spotify.com/album/1QZJzByKliJB2xyhgrYk4j) | 2:52 |
 | 66 | [So Sweet & Willing](https://open.spotify.com/track/2XIT9pYAiTCawCmspbwhrh) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Vanities](https://open.spotify.com/album/7ePZ3EZLrbIXyms6fc9hJd) | 3:21 |
 | 67 | [Pale Song](https://open.spotify.com/track/5NbilllIdF8lp4FmdX7OF8) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Pale Song / Love Is](https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ) | 2:45 |
-| 68 | [Stone Femmes](https://open.spotify.com/track/7tQZcX1IDSgJcs9Dt92VzD) | [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Stone Femmes](https://open.spotify.com/album/2byXC960vYk4iRRxL9FSBc) | 2:59 |
-| 69 | [House Fire](https://open.spotify.com/track/1RFLkDNFSUKB9n7USEdw3X) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Forget In Mass](https://open.spotify.com/album/0yyMJ8gsghOX71XTvV2pAP) | 3:07 |
-| 70 | [Preacher](https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK) | [Local the Neighbour](https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5) | [Preacher](https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew) | 2:54 |
-| 71 | [It's Only You](https://open.spotify.com/track/4UxJfZyHENxiSp60UzTGLW) | [Prewn](https://open.spotify.com/artist/1Sm5PqM25CcIBtKSvZz9iS) | [System](https://open.spotify.com/album/4aweXXTsOD2Jx6XMGfLfru) | 3:16 |
+| 68 | [House Fire](https://open.spotify.com/track/1RFLkDNFSUKB9n7USEdw3X) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Forget In Mass](https://open.spotify.com/album/0yyMJ8gsghOX71XTvV2pAP) | 3:07 |
+| 69 | [Stone Femmes](https://open.spotify.com/track/7tQZcX1IDSgJcs9Dt92VzD) | [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Stone Femmes](https://open.spotify.com/album/2byXC960vYk4iRRxL9FSBc) | 2:59 |
+| 70 | [It's Only You](https://open.spotify.com/track/4UxJfZyHENxiSp60UzTGLW) | [Prewn](https://open.spotify.com/artist/1Sm5PqM25CcIBtKSvZz9iS) | [System](https://open.spotify.com/album/4aweXXTsOD2Jx6XMGfLfru) | 3:16 |
+| 71 | [Preacher](https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK) | [Local the Neighbour](https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5) | [Preacher](https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew) | 2:54 |
 | 72 | [Magic Of The Sale](https://open.spotify.com/track/4tvHq6sgIBL7GCSCBgOeey) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [Magic Of The Sale](https://open.spotify.com/album/73OcSorYBJgQW0vXa53Lye) | 3:48 |
 | 73 | [9\-2\-5](https://open.spotify.com/track/5v80CZosPY0BPUtk3wzDY3) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [GUSTO](https://open.spotify.com/album/6nBSHPBq1iqXBjeQ4hVCPO) | 3:12 |
 | 74 | [Terrified](https://open.spotify.com/track/7BdOjMjIU66j98WAQzlyqL) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I Can See The Future](https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy) | 5:15 |
@@ -96,12 +96,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 86 | [Even if it's Just a Dream](https://open.spotify.com/track/0RfXPfvVaCXQWTbHfXlVQI) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Electric Hour](https://open.spotify.com/album/5glk52BEcA9c9RODElJkqF) | 5:30 |
 | 87 | [POOR CHOICES](https://open.spotify.com/track/5hLmbpWtuvhkzCosigqOHa) | [skuzland](https://open.spotify.com/artist/5ns0Xn1DwaUW1O0EazjHnp) | [POOR CHOICES](https://open.spotify.com/album/7i6ANs380kdGplpLHBuxBE) | 3:24 |
 | 88 | [Should've known better \(choices\)](https://open.spotify.com/track/2HDjCwD2V4cpAvIvpwcmMF) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Should've known better \(choices\)](https://open.spotify.com/album/5ySzzyQqNXi0Bdko3WPnpP) | 3:27 |
-| 89 | [Deer In The Headlights](https://open.spotify.com/track/1OInm4FGocvwb2F8rqO15b) | [Twine](https://open.spotify.com/artist/5MHpGdn6o4ezeRsrN14wZk) | [Deer In The Headlights](https://open.spotify.com/album/1LmUideiZFaC9rOi5vg6Z2) | 4:30 |
-| 90 | [Door](https://open.spotify.com/track/6SqYRVpl5gT4WZyuLBCsgV) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Door](https://open.spotify.com/album/7sHF2nzDA9vmRFSs0x9kMU) | 3:17 |
+| 89 | [Door](https://open.spotify.com/track/6SqYRVpl5gT4WZyuLBCsgV) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Door](https://open.spotify.com/album/7sHF2nzDA9vmRFSs0x9kMU) | 3:17 |
+| 90 | [Deer In The Headlights](https://open.spotify.com/track/1OInm4FGocvwb2F8rqO15b) | [Twine](https://open.spotify.com/artist/5MHpGdn6o4ezeRsrN14wZk) | [Deer In The Headlights](https://open.spotify.com/album/1LmUideiZFaC9rOi5vg6Z2) | 4:30 |
 | 91 | [Antarctica](https://open.spotify.com/track/0ueEbwie4WN3fPh2O0ZaPh) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Antarctica / Neon Lights](https://open.spotify.com/album/0GddO8DceNsETJgJxGsGKx) | 2:59 |
-| 92 | [Strobe](https://open.spotify.com/track/4MPjKNnWBLXEyz9S7sYKIJ) | [Armlock](https://open.spotify.com/artist/7BoU3VkauvnYvttpymQ7pG) | [Strobe](https://open.spotify.com/album/0FPGsItA3jmGj67TdPAXCI) | 3:40 |
-| 93 | [Pharmacy](https://open.spotify.com/track/5dAM0dvquAo2Oha9i1J8jb) | [deer park](https://open.spotify.com/artist/6Lq0JPdh83AUSeMfuMPCjy), [Ivy Knight](https://open.spotify.com/artist/2k3Q5efL6SiHfAsGqdXk4z) | [Terra Infirma](https://open.spotify.com/album/25J99oRYyPzoghasxfHKGp) | 3:18 |
-| 94 | [LEECHES](https://open.spotify.com/track/0z8xJVAhCfvnKYBYUEDxwx) | [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [LEECHES](https://open.spotify.com/album/64cspqz4nY2zwEMgab2utT) | 2:31 |
+| 92 | [Pharmacy](https://open.spotify.com/track/5dAM0dvquAo2Oha9i1J8jb) | [Deer park](https://open.spotify.com/artist/6Lq0JPdh83AUSeMfuMPCjy), [Ivy Knight](https://open.spotify.com/artist/2k3Q5efL6SiHfAsGqdXk4z) | [Terra Infirma](https://open.spotify.com/album/25J99oRYyPzoghasxfHKGp) | 3:18 |
+| 93 | [LEECHES](https://open.spotify.com/track/0z8xJVAhCfvnKYBYUEDxwx) | [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [LEECHES](https://open.spotify.com/album/64cspqz4nY2zwEMgab2utT) | 2:31 |
+| 94 | [Strobe](https://open.spotify.com/track/4MPjKNnWBLXEyz9S7sYKIJ) | [Armlock](https://open.spotify.com/artist/7BoU3VkauvnYvttpymQ7pG) | [Strobe](https://open.spotify.com/album/0FPGsItA3jmGj67TdPAXCI) | 3:40 |
 | 95 | [All In The Game](https://open.spotify.com/track/5XBUiVkYaDuKhtSV3Fx32f) | [Moreish Idols](https://open.spotify.com/artist/7DoCMYqpSbn3kgBSWDpnLP) | [All In The Game](https://open.spotify.com/album/4zhTIqcLbPovVPYtWAtFhM) | 3:51 |
 | 96 | [Baby You're Lying](https://open.spotify.com/track/3vCH4YzLnacmiOnWSEUkDK) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 3:22 |
 | 97 | [Dare To Fall In Love](https://open.spotify.com/track/6wK00cLmk8GOgJOgMusTeu) | [Phantastic Ferniture](https://open.spotify.com/artist/6uHxXCSJUP50EgddL6eWNC) | [Change My Mind / Dare To Fall In Love](https://open.spotify.com/album/7bb6XYtPuE2YE86EwswEOS) | 2:17 |

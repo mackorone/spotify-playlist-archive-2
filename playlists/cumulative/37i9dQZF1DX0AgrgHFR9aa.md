@@ -4,7 +4,7 @@
 
 > Les plus belles plumes rap français du moment\. Photo : Keroué
 
-396 songs - 20 hr 31 min
+397 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Mick Jagger](https://open.spotify.com/track/54Q1i6GCkHuboimwxPFV7R) | [Crown](https://open.spotify.com/artist/3n3WhGxNxXpKbjhKuVTSEc), [Cholo](https://open.spotify.com/artist/0OrSwuIG1yqmbxaCvAxjG9) | [Mick Jagger](https://open.spotify.com/album/3KCgQdOQIvFf2tt0CogOH4) | 3:05 | 2025-11-06 | 2025-12-12 |
 | [MIRAGE](https://open.spotify.com/track/1sDVl9pyLep3T18P2uVQH3) | [Crown](https://open.spotify.com/artist/3n3WhGxNxXpKbjhKuVTSEc), [DJA\-K](https://open.spotify.com/artist/6nhNyDEwoYhrkAER8Bv7Hg) | [MIRAGE](https://open.spotify.com/album/7D6Rx8bkffH1JRtW6PaIbI) | 3:13 | 2026-01-15 | 2026-02-27 |
 | [MODE CRYPTÉ](https://open.spotify.com/track/0OOFzZxPzKeFIHvlJlmKPW) | [Mouss](https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY), [Double Zulu](https://open.spotify.com/artist/3p5keqAzDnuOoAVya8laK6) | [MODE CRYPTÉ](https://open.spotify.com/album/0NMoRqiuQw7ink1OfSsxHa) | 2:24 | 2025-11-20 | 2026-01-23 |
+| [Mon enfer](https://open.spotify.com/track/6rFtizFQZw5CjMOgqN8hLD) | [Sullykzr](https://open.spotify.com/artist/1B7eisw20jZOhrLMVHY2TW) | [Mon enfer](https://open.spotify.com/album/6f7PQlejKMWFvpZehP3uig) | 2:48 | 2026-02-26 |  |
 | [MONTECRISTO](https://open.spotify.com/track/2GDHkCddNpV5MlqtpsDC5w) | [Tarik Azzouz](https://open.spotify.com/artist/6KphPDgP2tw0PRK8bJfRAf), [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Chaque Jour](https://open.spotify.com/album/0CeyLRFqUGCnk37rUv7WXd) | 3:14 | 2025-01-30 | 2025-03-21 |
 | [Montreuil Queens](https://open.spotify.com/track/01qME8jWJYOtx1PeOnB5YC) | [Onyx](https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu), [L'uzine](https://open.spotify.com/artist/7BeihcnNgK5Md6ORbMEqwf) | [Battle Royale](https://open.spotify.com/album/3lAQ6ADktTeYIR9Nt3utr5) | 5:03 | 2025-05-01 | 2025-06-13 |
 | [Mourir pour renaître](https://open.spotify.com/track/7Hzl1kYZYLsKZc7GMIMUro) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Mourir pour renaître](https://open.spotify.com/album/7blEsRWZX8qgXyQdGSuPDS) | 3:24 | 2025-08-07 | 2025-10-17 |

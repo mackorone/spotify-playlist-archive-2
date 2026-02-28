@@ -1366,7 +1366,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 79691,
       "name": "Angel Eyes",
       "url": "https://open.spotify.com/track/1pYhOdETtHjHywmp2jNCaS"
@@ -2374,7 +2374,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 147000,
       "name": "Bedtime Lullaby",
       "url": "https://open.spotify.com/track/54XIAbUFoAnL4nUVXvJbV6"
@@ -10535,6 +10535,24 @@
     },
     {
       "album": {
+        "name": "Leyre\u00b4s Song",
+        "url": "https://open.spotify.com/album/536IWRYOgx620JrOyMZVjZ"
+      },
+      "artists": [
+        {
+          "name": "Amaya Ailey",
+          "url": "https://open.spotify.com/artist/3pjyHVhKVU2FW9R9bCGUVq"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104436,
+      "name": "Leyre\u00b4s Song",
+      "url": "https://open.spotify.com/track/2flPBsNXeqVveFNGQ30Pi2"
+    },
+    {
+      "album": {
         "name": "Lightly Row",
         "url": "https://open.spotify.com/album/3gxVaMfXE1w67zbrzueuzU"
       },
@@ -15536,6 +15554,24 @@
       "duration_ms": 108991,
       "name": "Quiet Little Joys",
       "url": "https://open.spotify.com/track/1Fg4dzxyLZKMIeJKyIpV6T"
+    },
+    {
+      "album": {
+        "name": "Quiet Love",
+        "url": "https://open.spotify.com/album/5USSIjBHs0LS48wAFYJv4r"
+      },
+      "artists": [
+        {
+          "name": "Lucas Lund",
+          "url": "https://open.spotify.com/artist/1MgohlJcGnJQ8YHutASnnt"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112705,
+      "name": "Quiet Love",
+      "url": "https://open.spotify.com/track/5KsDvwjhVfW1SHh4jwxYrz"
     },
     {
       "album": {

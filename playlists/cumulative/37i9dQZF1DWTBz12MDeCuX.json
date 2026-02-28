@@ -1091,6 +1091,28 @@
     },
     {
       "album": {
+        "name": "2k16 (weisst du noch?)",
+        "url": "https://open.spotify.com/album/0jorUP90xaiGGCRAFDZKoV"
+      },
+      "artists": [
+        {
+          "name": "CAMO23",
+          "url": "https://open.spotify.com/artist/2BdRV1FwKGgoa4c9iusJ2C"
+        },
+        {
+          "name": "YBRE",
+          "url": "https://open.spotify.com/artist/7qdBCGakEd1aUD8noTmsfs"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120500,
+      "name": "2k16 (weisst du noch?)",
+      "url": "https://open.spotify.com/track/0Lot2z3ntcnTfbBXYkb58e"
+    },
+    {
+      "album": {
         "name": "2MS",
         "url": "https://open.spotify.com/album/2MsdWh9Jmo4SXXgVqqO5qG"
       },
@@ -21039,6 +21061,24 @@
     },
     {
       "album": {
+        "name": "CAN MIT ME$$R EXPERIENCE",
+        "url": "https://open.spotify.com/album/4bBmb084sRWCM61kgj3bEY"
+      },
+      "artists": [
+        {
+          "name": "CAN MIT ME$$R",
+          "url": "https://open.spotify.com/artist/0yTH7O3oomQgGZ0rBKzW89"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138850,
+      "name": "Geisterfahrt",
+      "url": "https://open.spotify.com/track/1sOeCKy5JCp2yYpAOg82cf"
+    },
+    {
+      "album": {
         "name": "GEISTERHAUS",
         "url": "https://open.spotify.com/album/1flKry5wnO7qDpHPvEkEcm"
       },
@@ -22194,7 +22234,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 139588,
       "name": "Gleich Laut",
       "url": "https://open.spotify.com/track/3u9eDtbZO6tHKUypp5hi4C"
@@ -37526,7 +37566,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 222933,
       "name": "Mit Dir",
       "url": "https://open.spotify.com/track/6TyQQqKQpaBCXPkhM7QmGq"
@@ -44283,6 +44323,28 @@
     },
     {
       "album": {
+        "name": "Perfekte Liebe",
+        "url": "https://open.spotify.com/album/3XfHqBVxGIpQihLgaJJewf"
+      },
+      "artists": [
+        {
+          "name": "K-Fly",
+          "url": "https://open.spotify.com/artist/4jDdEv3oafVcJfrywVDi4p"
+        },
+        {
+          "name": "Mr.Poetik",
+          "url": "https://open.spotify.com/artist/6lDak3IkY7kw3genneC7sN"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157019,
+      "name": "Perfekte Liebe",
+      "url": "https://open.spotify.com/track/7AQR52IR0nKUHMRNw7QuCM"
+    },
+    {
+      "album": {
         "name": "Perspectives",
         "url": "https://open.spotify.com/album/65byCNRolGKlLitf9VuuAX"
       },
@@ -48704,6 +48766,24 @@
       "duration_ms": 166586,
       "name": "schon okay",
       "url": "https://open.spotify.com/track/29O9DmZ2vEYjPWrRG1zGck"
+    },
+    {
+      "album": {
+        "name": "SCHREI NACH LIEBE",
+        "url": "https://open.spotify.com/album/5QIaC3d8OLlygvDAANvgHu"
+      },
+      "artists": [
+        {
+          "name": "Michael Klotz",
+          "url": "https://open.spotify.com/artist/4i8fdH54Ielws2ghRMPKGh"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149612,
+      "name": "SCHREI NACH LIEBE",
+      "url": "https://open.spotify.com/track/3QNc1m52Gwrow7nAZf3raw"
     },
     {
       "album": {
@@ -62362,7 +62442,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 189824,
       "name": "What It Is (Solo Version)",
       "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"

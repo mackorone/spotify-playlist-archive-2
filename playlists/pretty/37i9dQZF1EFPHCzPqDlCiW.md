@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241 likes - 160 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 242 likes - 160 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,10 +65,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 55 | [Anywhere's Home](https://open.spotify.com/track/5XZZE1pniUcNCFHgDIdFnZ) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Anywhere's Home](https://open.spotify.com/album/7s8g5nvFg2wa6a5wFWW0N3) | 2:57 |
 | 56 | [Built To Be Bad](https://open.spotify.com/track/5N2hSC9gVqycS9CsCSquKb) | [Grace Gachot](https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ) | [Built To Be Bad](https://open.spotify.com/album/0WKz4PTSrBqUkmP4xyQyhz) | 3:09 |
 | 57 | [Still Got It Bad](https://open.spotify.com/track/2eJCERt6Rra9xLwIEsTxn6) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Still Got It Bad](https://open.spotify.com/album/3SdwPVxWApbnWMDl90lTDU) | 2:21 |
-| 58 | [Only Ticket Home](https://open.spotify.com/track/3xBFofaAqfwaaSu4RHzcuu) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/4xsgJS74UkFgI1DE71lnXX) | 3:14 |
-| 59 | [Signals \(Live At St Pancras Old Church\)](https://open.spotify.com/track/0xWy6gBqELoM9a53ItNkyo) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Live At St Pancras Old Church](https://open.spotify.com/album/7tOOOTgD0ugP6KHw66zSUg) | 3:57 |
-| 60 | [No One Else \(Feat\. Corbyn Besson\)](https://open.spotify.com/track/6fsBBty7c7eEWvdgkNIWpa) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Corbyn Besson](https://open.spotify.com/artist/1bWUA5b7GHPymK5dZrf7tj) | [No One Else \(Feat\. Corbyn Besson\)](https://open.spotify.com/album/5Cs89RR1Pn0ApHb634A9k6) | 2:09 |
-| 61 | [Save My Love](https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Save My Love](https://open.spotify.com/album/16OQglx2ocK2F03OgmYIxh) | 3:30 |
+| 58 | [Save My Love](https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Save My Love](https://open.spotify.com/album/16OQglx2ocK2F03OgmYIxh) | 3:30 |
+| 59 | [Only Ticket Home](https://open.spotify.com/track/3xBFofaAqfwaaSu4RHzcuu) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/4xsgJS74UkFgI1DE71lnXX) | 3:14 |
+| 60 | [Signals \(Live At St Pancras Old Church\)](https://open.spotify.com/track/0xWy6gBqELoM9a53ItNkyo) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Live At St Pancras Old Church](https://open.spotify.com/album/7tOOOTgD0ugP6KHw66zSUg) | 3:57 |
+| 61 | [No One Else \(Feat\. Corbyn Besson\)](https://open.spotify.com/track/6fsBBty7c7eEWvdgkNIWpa) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Corbyn Besson](https://open.spotify.com/artist/1bWUA5b7GHPymK5dZrf7tj) | [No One Else \(Feat\. Corbyn Besson\)](https://open.spotify.com/album/5Cs89RR1Pn0ApHb634A9k6) | 2:09 |
 | 62 | [Hideaway](https://open.spotify.com/track/6J7trSlbpRHY2JbvxnYiCN) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Great Big Blue](https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH) | 4:16 |
 | 63 | [Beautiful](https://open.spotify.com/track/0HnbZP4HYWkf1tk1HzDhk8) | [Huntar](https://open.spotify.com/artist/2woivlckW1wdml7zq1WW6e) | [The Ride](https://open.spotify.com/album/79GSUDh5hTzNF61UNETYdG) | 4:22 |
 | 64 | [High Hopes](https://open.spotify.com/track/2QzlUwDods1IHQF3UyYAAO) | [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [High Hopes](https://open.spotify.com/album/3dXia3q3srWDlY9P3rTGdq) | 2:58 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 159 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
 | 160 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
 
-Snapshot ID: `AcKvHgAAAABuLq08skxMMGjmDjH8BJN4`
+Snapshot ID: `AcK0ggAAAAARxGSFnNnezGgNu/TWOJpw`

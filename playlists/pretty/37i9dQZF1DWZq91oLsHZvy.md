@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 
 > Let's go! 👟
 
-[Spotify](https://open.spotify.com/user/spotify) - 785,067 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 785,147 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 | 16 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 |
 | 17 | [Alive](https://open.spotify.com/track/2O9O26335YYVckmRgPKY3s) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Ice On The Dune](https://open.spotify.com/album/4phgwA30YOM1BAhJEm96Al) | 3:24 |
 | 18 | [Freaking Out the Neighborhood](https://open.spotify.com/track/3HlK8txWAdtKMrbsqX40pl) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO) | 2:53 |
-| 19 | [Disparate Youth](https://open.spotify.com/track/7d23MhPFE9eB3U8DPRirnL) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Master of My Make\-Believe](https://open.spotify.com/album/69jrxUSjHoEu6PeBMq3273) | 4:44 |
-| 20 | [Reptilia](https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:39 |
+| 19 | [Reptilia](https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:39 |
+| 20 | [Disparate Youth](https://open.spotify.com/track/7d23MhPFE9eB3U8DPRirnL) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Master of My Make\-Believe](https://open.spotify.com/album/69jrxUSjHoEu6PeBMq3273) | 4:44 |
 | 21 | [Girl, so confusing featuring lorde](https://open.spotify.com/track/7srqyRb5plksW5k65itXDB) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:25 |
 | 22 | [Femininomenon](https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:39 |
 | 23 | [What You Know](https://open.spotify.com/track/4JHg4nNYUJQ5HULcCmI18R) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6) | 3:09 |
@@ -100,9 +100,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 | 90 | [Dancing On Glass](https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Matter](https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK) | 4:06 |
 | 91 | [Sinner](https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Sinner](https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt) | 2:56 |
 | 92 | [Deleter](https://open.spotify.com/track/2yH16s2lLbYtLziVwqw7Pf) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Healer](https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI) | 3:54 |
-| 93 | [Girls Like You](https://open.spotify.com/track/5mEyCUtI36Jmu2KNQQ4jaw) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 6:04 |
-| 94 | [Next Exit](https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Next Exit](https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H) | 3:21 |
-| 95 | [Wake Me Up](https://open.spotify.com/track/4kSCNra5VuD1ZfiwAe8bTD) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Life Is Yours](https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq) | 4:23 |
+| 93 | [Wake Me Up](https://open.spotify.com/track/4kSCNra5VuD1ZfiwAe8bTD) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Life Is Yours](https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq) | 4:23 |
+| 94 | [Girls Like You](https://open.spotify.com/track/5mEyCUtI36Jmu2KNQQ4jaw) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 6:04 |
+| 95 | [Next Exit](https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Next Exit](https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H) | 3:21 |
 | 96 | [1998](https://open.spotify.com/track/47MROyFG8jq21LcLQ1LBJK) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [1998](https://open.spotify.com/album/41ljfNmEQXIAbILyuedp4i) | 3:44 |
 | 97 | [megaman](https://open.spotify.com/track/7rbt19kiQ2k7XjYKUcIhkY) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:17 |
 | 98 | [I'm Not Gonna Teach Your Boyfriend How To Dance With You](https://open.spotify.com/track/6fcZNs8sOkLwMK2NPzfVWC) | [Black Kids](https://open.spotify.com/artist/1oJolWh3meHLWUcyIijst7) | [Partie Traumatic](https://open.spotify.com/album/5VrF6FtM8ZJcA3NcGN2AM1) | 3:37 |

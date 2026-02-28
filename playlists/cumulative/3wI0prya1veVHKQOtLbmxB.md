@@ -4,7 +4,7 @@
 
 > Uh oh! Feeling all the butterflies in your stomach? Constantly checking your phone to see if they texted back? Feel all the feels with this playlist\. You might be in love\. \#coversforlovers Cover: Jessica Baio
 
-326 songs - 19 hr 37 min
+327 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [r u gonna love me?](https://open.spotify.com/track/7lPQOKHFmCNsCoa10lDOV7) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [r u gonna love me?](https://open.spotify.com/album/7bAqvJp4f2XqND4G5MkFn2) | 3:03 | 2026-01-09 |  |
 | [Religiously](https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:58 | 2023-08-11 | 2024-03-02 |
 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 | 2024-02-01 |  |
+| [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 | 2026-02-27 |  |
 | [Ruin My Life](https://open.spotify.com/track/4nyY8oVjbX2d4qzlpiVM5n) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl](https://open.spotify.com/album/79y7DSLFQH3907u4ysOMGr) | 3:10 | 2026-01-09 |  |
 | [Sailor Song](https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:31 | 2026-01-09 |  |
 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2025-01-11 | 2026-01-15 |

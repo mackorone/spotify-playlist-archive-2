@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 
 > Hard rock and hair\-raising tracks for a head\-banging halloween
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,678 likes - 80 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,659 likes - 80 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 | 41 | [Love Bites \(So Do I\)](https://open.spotify.com/track/5l3gAGbkXFfPWxh4a3J8mp) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:11 |
 | 42 | [We Drink Your Blood](https://open.spotify.com/track/3pWvRhml43vlUrGYlIzLM6) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Blood of the Saints](https://open.spotify.com/album/1MSxQKpaZ2nPubMVQi9V3N) | 3:42 |
 | 43 | [Werewolf](https://open.spotify.com/track/1e1rQNYCZToyBDDka1Io34) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 3:32 |
-| 44 | [Time Warp](https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu) | [Little Nell](https://open.spotify.com/artist/213WFYdlgojElnXhDyhwke), [Patricia Quinn](https://open.spotify.com/artist/7Akz0poR4eUgNM0ciCWqIs), [Richard O'Brien](https://open.spotify.com/artist/0aIOdrjH5s3hJqxmKoAEUg) | [The Rocky Horror Picture Show \- Original Soundtrack](https://open.spotify.com/album/4QviryaneolcRmDB57SLco) | 3:19 |
-| 45 | [From Hell With Love](https://open.spotify.com/track/3iKSyNDGzJ3FcjXoDKqehS) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell With Love](https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr) | 3:55 |
+| 44 | [From Hell With Love](https://open.spotify.com/track/3iKSyNDGzJ3FcjXoDKqehS) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell With Love](https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr) | 3:55 |
+| 45 | [Time Warp](https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu) | [Little Nell](https://open.spotify.com/artist/213WFYdlgojElnXhDyhwke), [Patricia Quinn](https://open.spotify.com/artist/7Akz0poR4eUgNM0ciCWqIs), [Richard O'Brien](https://open.spotify.com/artist/0aIOdrjH5s3hJqxmKoAEUg) | [The Rocky Horror Picture Show \- Original Soundtrack](https://open.spotify.com/album/4QviryaneolcRmDB57SLco) | 3:19 |
 | 46 | [Vampire Money](https://open.spotify.com/track/4kXHIm097G3CemN3PzcpgL) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 3:38 |
 | 47 | [Let's Kill Tonight](https://open.spotify.com/track/14uvyd51Ha7FihKHlOtUig) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 3:33 |
 | 48 | [Night Crawler](https://open.spotify.com/track/0MU1TyyAbuoXLGiQBgW9CI) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Painkiller](https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t) | 5:44 |

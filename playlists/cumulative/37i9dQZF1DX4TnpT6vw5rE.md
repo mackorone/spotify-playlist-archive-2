@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-418 songs - 23 hr 3 min
+419 songs - 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [Spring](https://open.spotify.com/track/14bOlJfMU6o2BLwmWNBRDK) | [Ciel](https://open.spotify.com/artist/0i33HVwcdV58Ci5dI7cfjx) | [Spring](https://open.spotify.com/album/6OTSiKMhUELDgG1VE86Bgp) | 3:22 | 2025-05-14 | 2025-12-28 |
 | [Standing in Silence, Pt\. 3](https://open.spotify.com/track/01D1B4HGdo1qwaHoW7So0Y) | [Rhian Sheehan](https://open.spotify.com/artist/0H1edn1doFZiHiu2INB2CT) | [Standing in Silence](https://open.spotify.com/album/04icFSzfHcvwq0xxAjnbei) | 5:13 | 2022-12-30 | 2023-01-21 |
 | [Standing in Silence, Pt\. 3](https://open.spotify.com/track/7peWz6xwuR5DWdjDMQuGZn) | [Rhian Sheehan](https://open.spotify.com/artist/0H1edn1doFZiHiu2INB2CT) | [Standing in Silence](https://open.spotify.com/album/0KLAXxu7GBA811RWmg7raB) | 5:13 | 2022-07-22 | 2022-09-11 |
+| [standstill](https://open.spotify.com/track/1IgfImehyDRM5dGqMizPKR) | [lostcache](https://open.spotify.com/artist/2LutPSn7ak1gJfBAuNsOJM) | [standstill](https://open.spotify.com/album/0VKy3GueKsfmBGb2NfpXI7) | 1:51 | 2026-02-12 |  |
 | [Star Waves](https://open.spotify.com/track/2I0J13l3avJt2EfLHM03Qa) | [Vandis](https://open.spotify.com/artist/1Aco6Nf3MLLDTGaiyd1Y1u) | [Star Waves](https://open.spotify.com/album/50isrbNQMokQzbzTlBriSW) | 3:23 | 2020-12-08\* | 2021-05-27 |
 | [Stella](https://open.spotify.com/track/1ZLsZGzB04p76fyrUcnxOf) | [The Lost Astronaut](https://open.spotify.com/artist/2th806MD01Yc7JKd06uJ14) | [Stella](https://open.spotify.com/album/1ai1jBFImpmxd6KkSPZtMX) | 3:00 | 2020-12-08\* | 2025-07-16 |
 | [still waiting](https://open.spotify.com/track/454yeJafX48nm3ml9HKOxW) | [soluneia](https://open.spotify.com/artist/2xhXuKXaagqT7QOUe7Af7c) | [still waiting](https://open.spotify.com/album/0cfXrYr1HQKNICTBqqGB2l) | 1:51 | 2025-12-10 |  |
@@ -408,7 +409,7 @@
 | [Walking on Air](https://open.spotify.com/track/2dD53mHfjyGg6o856Di1OK) | [Auðura](https://open.spotify.com/artist/0DE6DqplF6aes6HrDbH29i) | [Walking on Air](https://open.spotify.com/album/7c05mEBhWNCuChYLnBCqjz) | 2:06 | 2025-02-26 | 2026-02-13 |
 | [Wanderlust](https://open.spotify.com/track/5WoINANgf6egg3VSfKV35v) | [Dopamine clouds](https://open.spotify.com/artist/3VIQ9gIvMMoHzDsFOQd85j) | [Wanderlust](https://open.spotify.com/album/1MpVuImC4BKn9Fvny7lQP3) | 2:23 | 2025-10-01 |  |
 | [warmth](https://open.spotify.com/track/6NflHj3pdGn2f68gLZB4e8) | [halfsoul](https://open.spotify.com/artist/4lbFdz2lQ1V2gAlmCvVuy0) | [warmth](https://open.spotify.com/album/1z5ecrrqFd9no12g7t6Hz0) | 1:26 | 2025-10-01 |  |
-| [Water Jewel](https://open.spotify.com/track/2GKxE4qFT0kUaYveDnFcVt) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Two Jewels](https://open.spotify.com/album/6uESTKXHQ490eo7x83I9bi) | 4:07 | 2020-12-08\* |  |
+| [Water Jewel](https://open.spotify.com/track/2GKxE4qFT0kUaYveDnFcVt) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Two Jewels](https://open.spotify.com/album/6uESTKXHQ490eo7x83I9bi) | 4:07 | 2020-12-08\* | 2026-02-28 |
 | [Waves are coming](https://open.spotify.com/track/4m6jCOTDZfNhKA7qUEpo98) | [Nicole Rosario](https://open.spotify.com/artist/56m6DbefNtX4faz0CTVjUY) | [Waves are coming](https://open.spotify.com/album/4YJTcfkvMihuIDh0oQAnuq) | 3:53 | 2021-06-16 | 2024-09-20 |
 | [Waves of Serenity \- 174 Hz](https://open.spotify.com/track/6ytsuBO5hxj5lXqeEOEujs) | [Fikret Glep](https://open.spotify.com/artist/7Bsyycg7zsa7WcegU4WMde) | [Waves of Serenity](https://open.spotify.com/album/7H0jANfu8S7xlBh4kuk5pe) | 2:18 | 2022-11-22 | 2024-10-08 |
 | [way of form](https://open.spotify.com/track/6GYmiaM2r76K3k0sdp6gFL) | [Astrama](https://open.spotify.com/artist/4afZNKvxr3g0kxXDx58At1) | [way of form](https://open.spotify.com/album/6uXIpxafwnsXtciS4v93Zl) | 3:12 | 2022-12-30 | 2023-04-16 |

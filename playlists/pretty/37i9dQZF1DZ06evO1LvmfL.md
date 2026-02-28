@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 
 > This is Teddy Swims\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,834 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,007 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 | 12 | [Don't Stop Believin'](https://open.spotify.com/track/3sQzp18PlsOAQKZxW7EbEK) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Don't Stop Believin'](https://open.spotify.com/album/5WzjpQ9cLRxTzK4AMn7Ipr) | 4:08 |
 | 13 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 |
 | 14 | [Bed on Fire](https://open.spotify.com/track/5O5ExR5u69CclV8lb24WmV) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bed on Fire](https://open.spotify.com/album/6wSN7NkylN8rRm6Z4QqFTg) | 3:48 |
-| 15 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/7pDFd3sgEoPnka6k9IyBcH) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:27 |
-| 16 | [Simple Things](https://open.spotify.com/track/3qTnncgYlMT0k0Z0prgUgD) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Simple Things \(Piano Version\)](https://open.spotify.com/album/7EjIKCV3OsHJqXObEbdGbz) | 2:59 |
+| 15 | [Simple Things](https://open.spotify.com/track/3qTnncgYlMT0k0Z0prgUgD) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Simple Things \(Piano Version\)](https://open.spotify.com/album/7EjIKCV3OsHJqXObEbdGbz) | 2:59 |
+| 16 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/7pDFd3sgEoPnka6k9IyBcH) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:27 |
 | 17 | [What More Can I Say](https://open.spotify.com/track/1MmNMaPzI1uZQS20RV88AT) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 2:21 |
 | 18 | [Blinding Lights](https://open.spotify.com/track/66aMnwdhkEc1V0AAnyYchX) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Blinding Lights](https://open.spotify.com/album/4vh9LW3igRT6NayBnmb8fZ) | 3:34 |
 | 19 | [dose](https://open.spotify.com/track/26ETsbVhx34daSYeBGmvgl) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 | 49 | [Will It Find Me](https://open.spotify.com/track/0msLXGH72jfmy50Z5CAqPA) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Unlearning](https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr) | 3:29 |
 | 50 | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI) | 3:02 |
 
-Snapshot ID: `aZ47gAAAAACUcS2Smu2QzJXydmvEAVQw`
+Snapshot ID: `aZ+NAAAAAADPt8hLyEIF9E7YXtTWDInF`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 
 > This is Lamb of God\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,622 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,660 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 | 17 | [Hosting the Shadow \(feat\. Randy Blythe\)](https://open.spotify.com/track/6VkkDO5w32HXkgdCDPz9E3) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sleepless Empire](https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8) | 4:19 |
 | 18 | [The Faded Line](https://open.spotify.com/track/1pTvDwpyvTbYXzmxyjfoXa) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(20th Anniversary Edition\)](https://open.spotify.com/album/7CwtVHoJ9cl6YEQjsSeEca) | 4:38 |
 | 19 | [Resurrection Man](https://open.spotify.com/track/53xXTqz8QfadLsXbs411si) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 4:59 |
-| 20 | [Ditch](https://open.spotify.com/track/6V4k01Xr3HsVrfqUyQSIqt) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 3:37 |
-| 21 | [Pathetic](https://open.spotify.com/track/4MdcRxTOezZq9z292jCwjJ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament \(15th Anniversary Edition\)](https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf) | 4:31 |
+| 20 | [Pathetic](https://open.spotify.com/track/4MdcRxTOezZq9z292jCwjJ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament \(15th Anniversary Edition\)](https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf) | 4:31 |
+| 21 | [Ditch](https://open.spotify.com/track/6V4k01Xr3HsVrfqUyQSIqt) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 3:37 |
 | 22 | [Blood Of The Scribe](https://open.spotify.com/track/7FFS7cQvZ0QpuVvG2cMDKY) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(20th Anniversary Edition\)](https://open.spotify.com/album/7CwtVHoJ9cl6YEQjsSeEca) | 4:23 |
 | 23 | [Children of the Grave](https://open.spotify.com/track/5pdb4UFAWnuiepRAyAUvsd) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Children of the Grave](https://open.spotify.com/album/2josSbpUs4UMzSoCVcXRau) | 4:47 |
 | 24 | [Vigil](https://open.spotify.com/track/77XOYoYeK1CoTfnKUIXTjk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 4:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 | 49 | [To The Grave](https://open.spotify.com/track/6Q88Xw5D2syb9X5rZd3TLz) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 3:43 |
 | 50 | [Wake up Dead \(feat\. Dave Mustaine\)](https://open.spotify.com/track/4v3Iyw1DP578eRpoQPpcv9) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [Dave Mustaine](https://open.spotify.com/artist/6jhdkDXD8A4iI2pLpb90QC) | [Wake up Dead \(feat\. Dave Mustaine\)](https://open.spotify.com/album/6BJrJlkffGEpipjY9OFq6t) | 3:43 |
 
-Snapshot ID: `aZ47gAAAAADd+2YMdWsayngwA+fN3H7n`
+Snapshot ID: `aZ+NAAAAAADKaIHXghL8ZHG6iM/zsdJO`

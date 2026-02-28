@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 
 > This is Rod Wave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,896 likes - 47 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,933 likes - 47 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 | 20 | [Fight The Feeling](https://open.spotify.com/track/4aA7Lrm6rLGHx5kRMVb7NU) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Nostalgia](https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv) | 2:40 |
 | 21 | [Passport Junkie](https://open.spotify.com/track/5srHQMMvaXT2S3nXy1jq6g) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 2:27 |
 | 22 | [By Your Side](https://open.spotify.com/track/5gUiTylvifZnUrynE4FFPu) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 3:14 |
-| 23 | [Paint The Sky Red](https://open.spotify.com/track/46tIqzG16QgXRQnjxbi5is) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [PTSD](https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm) | 2:16 |
+| 23 | [What's Wrong](https://open.spotify.com/track/1jNapyyVxPB4X6gewQjEM8) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [SoulFly \(Deluxe Version\)](https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN) | 2:35 |
 | 24 | [Call Your Friends](https://open.spotify.com/track/5W0RVQViQC7xocvAUnIs6Z) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Nostalgia](https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv) | 2:33 |
 | 25 | [Lost In Love \(feat\. Be Charlotte\)](https://open.spotify.com/track/593a80uHcKk6zlG9uecQ53) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Be Charlotte](https://open.spotify.com/artist/2rTZSJ6JzWaKJaHGbEkRjl) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 2:43 |
-| 26 | [What's Wrong](https://open.spotify.com/track/1jNapyyVxPB4X6gewQjEM8) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [SoulFly \(Deluxe Version\)](https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN) | 2:35 |
+| 26 | [Paint The Sky Red](https://open.spotify.com/track/46tIqzG16QgXRQnjxbi5is) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [PTSD](https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm) | 2:16 |
 | 27 | [The Greatest](https://open.spotify.com/track/0EVG3d1RVbJjYh43fQDcR9) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Pray 4 Love](https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY) | 2:48 |
 | 28 | [Gone Till November](https://open.spotify.com/track/2LTJYsWOqsjntJpRy2HpY6) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [SoulFly](https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk) | 2:41 |
 | 29 | [Angel With An Attitude](https://open.spotify.com/track/2gUEB9jSU0HZhLJIYffeQn) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 3:15 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 | 46 | [Already Won \(feat\. Lil Durk\)](https://open.spotify.com/track/2wOnrN7fkzV4NsLqym2C6O) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [SoulFly \(Deluxe Version\)](https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN) | 3:32 |
 | 47 | [Sinners](https://open.spotify.com/track/0OyWRjMMbPKwnBtWdLg4Ws) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Sinners](https://open.spotify.com/album/3aUKmF2jQ0QPBe9QrNFLFr) | 3:08 |
 
-Snapshot ID: `aZ47gAAAAAAkZdmxyI3CWfSX9/FUs1Cb`
+Snapshot ID: `aZ+NAAAAAACLootANDXOsDOeR7hC8Fmq`

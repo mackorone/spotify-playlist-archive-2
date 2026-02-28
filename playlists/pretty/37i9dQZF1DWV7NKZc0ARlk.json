@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 262060,
+  "num_followers": 262086,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
@@ -867,6 +867,26 @@
     {
       "added_at": "2025-09-12 18:56:37",
       "album": {
+        "name": "Primera Fila",
+        "url": "https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 241680,
+      "name": "Mar\u00eda (with Natalia Lafourcade) - Directo Primera Fila",
+      "url": "https://open.spotify.com/track/0xiI5ZeP6mUbem9onslgtK"
+    },
+    {
+      "added_at": "2025-09-12 18:56:37",
+      "album": {
         "name": "Franco De Vita En Primera Fila",
         "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 255000,
       "name": "Si La Ves (feat. Noel Schajris & Leonel Garc\u00eda)",
       "url": "https://open.spotify.com/track/2HBo8LhUxBJBsxWaP6ePL3"
-    },
-    {
-      "added_at": "2025-09-12 18:56:37",
-      "album": {
-        "name": "Primera Fila",
-        "url": "https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 241680,
-      "name": "Mar\u00eda (with Natalia Lafourcade) - Directo Primera Fila",
-      "url": "https://open.spotify.com/track/0xiI5ZeP6mUbem9onslgtK"
     }
   ],
   "unique_name": "Vivo de Pop",

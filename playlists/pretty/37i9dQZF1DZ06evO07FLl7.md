@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 
 > This is Tassia Reis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,335 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,336 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 | 37 | [Perigo](https://open.spotify.com/track/4hsE4edYcASyB8zUPzpiWJ) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/5QxMAMf9en3jK8sSb7RLPR) | 3:37 |
 | 38 | [Mais que Refrão](https://open.spotify.com/track/5ooKkTh2xr7CEFTicN1fLK) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Bem Longe do Fim](https://open.spotify.com/album/6AzwnRF53cPihnLKlame5v) | 2:45 |
 | 39 | [Me Diga](https://open.spotify.com/track/3xxutzwHSLz56J8h9MmN8h) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/7qpdsnBS3Kfbat72sb8Gab) | 3:30 |
-| 40 | [Só Que Não](https://open.spotify.com/track/7EFR4kfHrCvY2ByCYpM1C9) | [Caio Nunez](https://open.spotify.com/artist/2rfGf5mJ3aR15NKZvMyfE0), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Só Que Não](https://open.spotify.com/album/1suEAb1EoLAgbsIqlahCtF) | 3:07 |
+| 40 | [Patrão](https://open.spotify.com/track/6qvJIyQ7VyA04jrIXEUarf) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Patrão](https://open.spotify.com/album/6NKfGwJVwcC6X0vcuzuIf7) | 3:38 |
 | 41 | [Ouça\-Me RMX](https://open.spotify.com/track/5y4O1l96hUNN0yxs8jjhNc) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/5QxMAMf9en3jK8sSb7RLPR) | 3:56 |
-| 42 | [Patrão](https://open.spotify.com/track/6qvJIyQ7VyA04jrIXEUarf) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Patrão](https://open.spotify.com/album/6NKfGwJVwcC6X0vcuzuIf7) | 3:38 |
+| 42 | [Só Que Não](https://open.spotify.com/track/7EFR4kfHrCvY2ByCYpM1C9) | [Caio Nunez](https://open.spotify.com/artist/2rfGf5mJ3aR15NKZvMyfE0), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Só Que Não](https://open.spotify.com/album/1suEAb1EoLAgbsIqlahCtF) | 3:07 |
 | 43 | [Try](https://open.spotify.com/track/0sXJb5D2uFWMfmc0aRCwaX) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/7qpdsnBS3Kfbat72sb8Gab) | 3:33 |
 | 44 | [Bêbada de Feriado](https://open.spotify.com/track/3TXSn2cIKZJaVuJk3Q2zTV) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J) | [Próspera D+](https://open.spotify.com/album/5pcU4dZfYddVzcBrWsP6mz) | 3:54 |
 | 45 | [Magenta](https://open.spotify.com/track/20jar3jBKUq0ojEgHDOD5A) | [Afroito](https://open.spotify.com/artist/1qw5CiJU0QdsGdCdjkC7ue), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Theo Zagrae](https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z), [MangoLab](https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym) | [Mango02](https://open.spotify.com/album/7FJ2UdIC4mXIRlmoyERVxk) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 | 49 | [Calma Preta](https://open.spotify.com/track/1kFusHMrCFdjhbkh9gZUdf) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Tássia Reis](https://open.spotify.com/album/1s2L8nGABE9LRMSpC4R7F9) | 3:09 |
 | 50 | [Flor Laranja](https://open.spotify.com/track/4Oct09kM0spNmbowmgmjE4) | [A.X.L.](https://open.spotify.com/artist/0do07emvR7qjROBp1jl7Yt), [Skeeter](https://open.spotify.com/artist/7g7jKmP3nb2Ys5jdoZpdsw), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Quando É Preciso Voltar](https://open.spotify.com/album/0nLvIHbTPxE9aPmcP45T6D) | 3:55 |
 
-Snapshot ID: `aZ47gAAAAAChY+tCHEuBrtS4INFuD7cU`
+Snapshot ID: `aZ+NAAAAAACD7cDftEjbwxoGpdLOC8U9`

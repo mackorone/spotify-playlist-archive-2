@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4e5iLu.md) - [plain]
 
 > This is KAROL G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,403,309 likes - 44 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,403,474 likes - 45 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4e5iLu.md) - [plain]
 | 40 | [Ocean](https://open.spotify.com/track/6qoIFQfdmaQF9A1gb67tR7) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 2:35 |
 | 41 | [BICHOTA](https://open.spotify.com/track/1WvrDdouh6C51In1SdATbq) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 2:58 |
 | 42 | [OKI DOKI](https://open.spotify.com/track/601dhwn8qc31FrSlMu5wEf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:23 |
-| 43 | [Pineapple](https://open.spotify.com/track/24SkzbH7hGhUvqIaKlJ1TY) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 3:00 |
-| 44 | [EL MAKINON](https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:29 |
+| 43 | [Enjoy Yourself \(feat\. Karol G\)](https://open.spotify.com/track/3NWrHCwvyII4fTx05PN3IO) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:17 |
+| 44 | [Pineapple](https://open.spotify.com/track/24SkzbH7hGhUvqIaKlJ1TY) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 3:00 |
+| 45 | [EL MAKINON](https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:29 |
 
-Snapshot ID: `aZ47gAAAAAAQSyhrLWr3Z5GEXJojhpMu`
+Snapshot ID: `aZ+NAAAAAAA/aKnQVX8xW9Jk7F5FGNZc`

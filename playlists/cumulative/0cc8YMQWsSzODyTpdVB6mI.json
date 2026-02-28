@@ -2041,6 +2041,24 @@
     },
     {
       "album": {
+        "name": "Magnetic / Addicted To Your Love",
+        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181384,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
+    },
+    {
+      "album": {
         "name": "Mexican Holiday",
         "url": "https://open.spotify.com/album/7LMpGPGgeAsK7aO4AgmEah"
       },

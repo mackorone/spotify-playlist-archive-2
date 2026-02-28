@@ -1,13 +1,45 @@
 {
   "description": "Jazz, but make it funky. Cover: Skinny Hightower",
-  "num_followers": 409510,
+  "num_followers": 409603,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJfZqZsgouRGEJV5Oi2zAJ2o+n/4",
+  "snapshot_id": "AAAAAHVFCJ6mXXG4pX7dlQTqToiFNH8Z",
   "tracks": [
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Saturday Spin",
+        "url": "https://open.spotify.com/album/6QRxprqYsThnDDV4ClgMTR"
+      },
+      "artists": [
+        {
+          "name": "Huntertones",
+          "url": "https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd"
+        }
+      ],
+      "duration_ms": 245260,
+      "name": "Saturday Spin",
+      "url": "https://open.spotify.com/track/25IsRCpUTWaCkjrmIY8sBF"
+    },
+    {
+      "added_at": "2026-02-27 05:00:36",
+      "album": {
+        "name": "Felonious Funk",
+        "url": "https://open.spotify.com/album/48ArWKWs0wy1OLEdXRyDVD"
+      },
+      "artists": [
+        {
+          "name": "Oli Parker",
+          "url": "https://open.spotify.com/artist/4o7rOtAAYgrNOZrnxG8t9g"
+        }
+      ],
+      "duration_ms": 223038,
+      "name": "Felonious Funk",
+      "url": "https://open.spotify.com/track/4U8YLPp4f8IEq5fp14nRtZ"
+    },
     {
       "added_at": "2026-02-20 05:00:31",
       "album": {
@@ -27,22 +59,6 @@
       "duration_ms": 249070,
       "name": "Rules Of The Game",
       "url": "https://open.spotify.com/track/2NCKMGcBAK8C7QSA6C4sAQ"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
-        "name": "Saturday Spin",
-        "url": "https://open.spotify.com/album/6QRxprqYsThnDDV4ClgMTR"
-      },
-      "artists": [
-        {
-          "name": "Huntertones",
-          "url": "https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd"
-        }
-      ],
-      "duration_ms": 245260,
-      "name": "Saturday Spin",
-      "url": "https://open.spotify.com/track/25IsRCpUTWaCkjrmIY8sBF"
     },
     {
       "added_at": "2025-11-07 05:00:35",
@@ -2343,22 +2359,6 @@
       "duration_ms": 257592,
       "name": "More Lemon Juice",
       "url": "https://open.spotify.com/track/28bpVbAlZBEYrkQmSaXhJ1"
-    },
-    {
-      "added_at": "2021-04-09 04:01:00",
-      "album": {
-        "name": "Evolution: The Polydor Anthology",
-        "url": "https://open.spotify.com/album/4eY9301DYHcUr96oOXuLlL"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 415773,
-      "name": "Running Away",
-      "url": "https://open.spotify.com/track/0h4r3AE752IOrp8cdpAImC"
     },
     {
       "added_at": "2023-01-27 05:00:00",

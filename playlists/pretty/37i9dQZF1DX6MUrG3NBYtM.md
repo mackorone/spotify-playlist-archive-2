@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 
 > Hiqpy genomineerd voor Edison Pop 2026: Nieuwkomer en Rock 🔥🤟🏻
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,198 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,194 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 | 57 | [Reflections Of Lessons Left](https://open.spotify.com/track/574FL9nQ8WI8QGpUGRURG9) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Matter Does Not Define](https://open.spotify.com/album/39Mj8N4ykB89bEHkl5yG9d) | 3:56 |
 | 58 | [Red Flag Magician](https://open.spotify.com/track/2Or2qg4qhw5RXDbyCTGIdb) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Red Flag Magician](https://open.spotify.com/album/1gRciLdgJ2GetUgTSher9p) | 5:28 |
 | 59 | [Burn Me Like a Cigarette](https://open.spotify.com/track/1IUmy6YVIr10pSmK2aUZoj) | [Orange Skyline](https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx) | [Burn Me Like a Cigarette](https://open.spotify.com/album/0YKsVt7Ls6PhZHJ4enc0ZW) | 3:21 |
-| 60 | [Departure](https://open.spotify.com/track/6PkA5FwHGcL9r8EN1xkNxW) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE), [Rozi Plain](https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x) | [Dark Sky Reserve](https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m) | 3:19 |
+| 60 | [Some Girls](https://open.spotify.com/track/60A89nvhQlFnmfoQ692FLY) | [Alice Mae](https://open.spotify.com/artist/1BH0GCT0bBB4uiWFX1aruD) | [Some Girls](https://open.spotify.com/album/0n7HD6kFpthMRUCkBcngZn) | 2:37 |
 
 Snapshot ID: `AAAAAGA0bGDDq1QsrUdDDsPFbTZZu/gp`

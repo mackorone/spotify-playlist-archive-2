@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIVaqdm8JIWAo>Olivia Dean</a>, <a href=spotify:playlist:37i9dQZF1EIZCsyhLFyG4d>Kendrick Lamar</a>, <a href=spotify:playlist:37i9dQZF1EIUFjCG9oFx2k>Gorillaz</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIZobirLlpmBa>Mac Miller</a>, <a href=spotify:playlist:37i9dQZF1EIX5ouMZt24jE>Lil Uzi Vert</a>, <a href=spotify:playlist:37i9dQZF1EIV1hAnuH1ilI>Justin Bieber</a> and more",
   "name": "Chill Mix",
   "tracks": [
     {
@@ -690,7 +690,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 232186,
       "name": "All The Stars (with SZA) - From \"Black Panther: The Album\"",
       "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
@@ -2146,7 +2146,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 248297,
       "name": "butterflies.",
       "url": "https://open.spotify.com/track/4jyyma8YdFC4S4llusSFRu"
@@ -3880,7 +3880,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 200759,
       "name": "Dive",
       "url": "https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2"
@@ -4800,7 +4800,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 222640,
       "name": "Feel Good Inc.",
       "url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT"
@@ -5098,7 +5098,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 238120,
       "name": "Folded",
       "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
@@ -9440,7 +9440,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -9650,6 +9650,24 @@
       "duration_ms": 57495,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/1w327AHTCoChRIkJUprAnV"
+    },
+    {
+      "album": {
+        "name": "THE BAY",
+        "url": "https://open.spotify.com/album/114nBwycDpuNZsYZyIySqh"
+      },
+      "artists": [
+        {
+          "name": "Suchmos",
+          "url": "https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242600,
+      "name": "Miree",
+      "url": "https://open.spotify.com/track/5L6U3jC9BRjre7Q4Np4usF"
     },
     {
       "album": {
@@ -12532,7 +12550,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
@@ -13042,6 +13060,24 @@
       "duration_ms": 259333,
       "name": "Sky Walker (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf"
+    },
+    {
+      "album": {
+        "name": "Skyfall",
+        "url": "https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286081,
+      "name": "Skyfall",
+      "url": "https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm"
     },
     {
       "album": {
@@ -13594,7 +13630,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 230453,
       "name": "Starboy",
       "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
@@ -14356,7 +14392,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 195373,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
@@ -14912,7 +14948,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 191823,
       "name": "Tek It",
       "url": "https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP"
@@ -17340,7 +17376,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 286386,
       "name": "Woods",
       "url": "https://open.spotify.com/track/3Qa944OTMZkg8DHjET8JQv"
@@ -17774,7 +17810,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 220870,
       "name": "\u4e16\u754c\u306e\u79d8\u5bc6",
       "url": "https://open.spotify.com/track/0bv6tutpCuYApSXTF0AKrP"

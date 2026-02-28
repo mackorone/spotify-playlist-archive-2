@@ -1,12 +1,12 @@
 {
   "description": "This is Osunlade. The essential tracks, all in one playlist.",
-  "num_followers": 3806,
+  "num_followers": 3807,
   "original_name": "This Is Osunlade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAADUG4r4eaJGJtoRpsIW23Ko",
+  "snapshot_id": "aZ+NAAAAAACeJOrwX4ZT0Uf7wQKauTPH",
   "tracks": [
     {
       "added_at": null,
@@ -31,22 +31,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rewind, Vol. 5",
-        "url": "https://open.spotify.com/album/2FrNJjEGwkJV8Z32ZMuKo9"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 238880,
-      "name": "Crazy You",
-      "url": "https://open.spotify.com/track/2LPqiasQ4eNQe5xsefvkew"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Momma's Groove",
         "url": "https://open.spotify.com/album/0nhS8liVSY8PBQQ1Arc9sQ"
       },
@@ -63,6 +47,22 @@
       "duration_ms": 453973,
       "name": "Momma's Groove (Jimpster's Hip Replacement Mix)",
       "url": "https://open.spotify.com/track/3SYFuQxFvEVrOD54vW0Hu7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rewind, Vol. 5",
+        "url": "https://open.spotify.com/album/2FrNJjEGwkJV8Z32ZMuKo9"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 238880,
+      "name": "Crazy You",
+      "url": "https://open.spotify.com/track/2LPqiasQ4eNQe5xsefvkew"
     },
     {
       "added_at": null,
@@ -243,26 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Quieter You Become, the More You Hear",
-        "url": "https://open.spotify.com/album/4wbEw7e3nKisTnmXUaVGEO"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "Mike Steva",
-          "url": "https://open.spotify.com/artist/4hI9hUPsu9oDID6Sk9JFV6"
-        }
-      ],
-      "duration_ms": 287043,
-      "name": "Recovery Music",
-      "url": "https://open.spotify.com/track/6oDQIpokadWkrJk3t5V6zB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rebirth 10 Remixed, Vol. 1",
         "url": "https://open.spotify.com/album/1bfVFEQMolOYkQhPj5uaNE"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 480967,
       "name": "Deep Musique - Rampa Remix",
       "url": "https://open.spotify.com/track/2TPymcTIlvJKpPWnqAiqxL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Quieter You Become, the More You Hear",
+        "url": "https://open.spotify.com/album/4wbEw7e3nKisTnmXUaVGEO"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "Mike Steva",
+          "url": "https://open.spotify.com/artist/4hI9hUPsu9oDID6Sk9JFV6"
+        }
+      ],
+      "duration_ms": 287043,
+      "name": "Recovery Music",
+      "url": "https://open.spotify.com/track/6oDQIpokadWkrJk3t5V6zB"
     },
     {
       "added_at": null,
@@ -415,6 +415,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chill Out (Sit Back And Relax)",
+        "url": "https://open.spotify.com/album/5mu0dUqF2CfqijJet4yYsJ"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "\u00c2me",
+          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
+        }
+      ],
+      "duration_ms": 229268,
+      "name": "Envisions - \u00c2me Acoustic Remix",
+      "url": "https://open.spotify.com/track/14LxnNcx4dNrJlfGOJxpEE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "INvite ONly",
+        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 258617,
+      "name": "Plantation Earth",
+      "url": "https://open.spotify.com/track/5ApNxXVJLVsCw6YFQmLJPm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Drawing Board",
         "url": "https://open.spotify.com/album/1rhHpHi0n3ZqE9tP28SUVL"
       },
@@ -439,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "INvite ONly",
-        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
+        "name": "Elements Beyond",
+        "url": "https://open.spotify.com/album/79pDy8vTsmo53S0hojCVDw"
       },
       "artists": [
         {
@@ -448,29 +484,9 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 258617,
-      "name": "Plantation Earth",
-      "url": "https://open.spotify.com/track/5ApNxXVJLVsCw6YFQmLJPm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chill Out (Sit Back And Relax)",
-        "url": "https://open.spotify.com/album/5mu0dUqF2CfqijJet4yYsJ"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "\u00c2me",
-          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
-        }
-      ],
-      "duration_ms": 229268,
-      "name": "Envisions - \u00c2me Acoustic Remix",
-      "url": "https://open.spotify.com/track/14LxnNcx4dNrJlfGOJxpEE"
+      "duration_ms": 470506,
+      "name": "April",
+      "url": "https://open.spotify.com/track/1eBNdAyCFuYbYy0TKRDd8A"
     },
     {
       "added_at": null,
@@ -495,18 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elements Beyond",
-        "url": "https://open.spotify.com/album/79pDy8vTsmo53S0hojCVDw"
+        "name": "Same Thing",
+        "url": "https://open.spotify.com/album/4XzyfgNQMIFnjvYOi8d6XP"
       },
       "artists": [
         {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "Maiya James",
+          "url": "https://open.spotify.com/artist/1pvzvfbBLOoiNCjVmwkvH6"
         }
       ],
-      "duration_ms": 470506,
-      "name": "April",
-      "url": "https://open.spotify.com/track/1eBNdAyCFuYbYy0TKRDd8A"
+      "duration_ms": 379160,
+      "name": "Same Thing - Vocal Mix",
+      "url": "https://open.spotify.com/track/5R7W5rZeoH8vvbXngVGpP4"
     },
     {
       "added_at": null,
@@ -591,26 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Same Thing",
-        "url": "https://open.spotify.com/album/4XzyfgNQMIFnjvYOi8d6XP"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "Maiya James",
-          "url": "https://open.spotify.com/artist/1pvzvfbBLOoiNCjVmwkvH6"
-        }
-      ],
-      "duration_ms": 379160,
-      "name": "Same Thing - Vocal Mix",
-      "url": "https://open.spotify.com/track/5R7W5rZeoH8vvbXngVGpP4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MOSS",
         "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
       },
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 182071,
-      "name": "MOSS",
-      "url": "https://open.spotify.com/track/0aVhniuf8aJR8KEgrbL9zb"
+      "duration_ms": 171668,
+      "name": "The Roads Of Kenya",
+      "url": "https://open.spotify.com/track/4U2tDJDX9c2HEberB7B3ux"
     },
     {
       "added_at": null,
@@ -647,22 +647,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let's Invade the Amazon (Yoruba Soul Mix)",
-        "url": "https://open.spotify.com/album/2zFcTO9Yd78diFJHqXE9DL"
+        "name": "Cantos A Ochun et Oya [Juan Valentine ReEdit]",
+        "url": "https://open.spotify.com/album/6k6ANYZCzmhF4KyKxUsPMx"
       },
       "artists": [
         {
-          "name": "Casbah 73",
-          "url": "https://open.spotify.com/artist/29lFQpdKkzFsFqdl3XRQ56"
-        },
-        {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "Frankie Feliciano",
+          "url": "https://open.spotify.com/artist/5KjteRQRJaHk16aYeZ08Ej"
+        },
+        {
+          "name": "Juan Valentine",
+          "url": "https://open.spotify.com/artist/3GDUvKkbqtscZQHS8Zrzni"
         }
       ],
-      "duration_ms": 382274,
-      "name": "Let's Invade the Amazon - Yoruba Soul Mix",
-      "url": "https://open.spotify.com/track/6hROPCDD7DlEZxkbNgwAvc"
+      "duration_ms": 425011,
+      "name": "Cantos a Ochun et Oya - Juan Valentine Re-Edit",
+      "url": "https://open.spotify.com/track/7CmRM4JiOswdLdF28NyajZ"
     },
     {
       "added_at": null,
@@ -692,33 +696,29 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 171668,
-      "name": "The Roads Of Kenya",
-      "url": "https://open.spotify.com/track/4U2tDJDX9c2HEberB7B3ux"
+      "duration_ms": 182071,
+      "name": "MOSS",
+      "url": "https://open.spotify.com/track/0aVhniuf8aJR8KEgrbL9zb"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Cantos A Ochun et Oya [Juan Valentine ReEdit]",
-        "url": "https://open.spotify.com/album/6k6ANYZCzmhF4KyKxUsPMx"
+        "name": "Let's Invade the Amazon (Yoruba Soul Mix)",
+        "url": "https://open.spotify.com/album/2zFcTO9Yd78diFJHqXE9DL"
       },
       "artists": [
         {
+          "name": "Casbah 73",
+          "url": "https://open.spotify.com/artist/29lFQpdKkzFsFqdl3XRQ56"
+        },
+        {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "Frankie Feliciano",
-          "url": "https://open.spotify.com/artist/5KjteRQRJaHk16aYeZ08Ej"
-        },
-        {
-          "name": "Juan Valentine",
-          "url": "https://open.spotify.com/artist/3GDUvKkbqtscZQHS8Zrzni"
         }
       ],
-      "duration_ms": 425011,
-      "name": "Cantos a Ochun et Oya - Juan Valentine Re-Edit",
-      "url": "https://open.spotify.com/track/7CmRM4JiOswdLdF28NyajZ"
+      "duration_ms": 382274,
+      "name": "Let's Invade the Amazon - Yoruba Soul Mix",
+      "url": "https://open.spotify.com/track/6hROPCDD7DlEZxkbNgwAvc"
     },
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pyrography",
-        "url": "https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 169349,
-      "name": "Intro (Solemait)",
-      "url": "https://open.spotify.com/track/0yUIO5AhRDop02PKzsMn4P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inner Garden",
         "url": "https://open.spotify.com/album/1VTMe5fxuGQYhC91cKAvRa"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 429496,
       "name": "Luv",
       "url": "https://open.spotify.com/track/28khN5I8USrsWCrl1l01ra"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pyrography",
+        "url": "https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 169349,
+      "name": "Intro (Solemait)",
+      "url": "https://open.spotify.com/track/0yUIO5AhRDop02PKzsMn4P"
     },
     {
       "added_at": null,

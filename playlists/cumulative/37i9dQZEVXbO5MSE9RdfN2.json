@@ -32613,6 +32613,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304200,
+      "name": "Oh Qu\u00e9 Ser\u00e1?",
+      "url": "https://open.spotify.com/track/2n1MTLCis6qPSDKdr5XSDI"
+    },
+    {
+      "album": {
         "name": "Ohnana",
         "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
       },
@@ -33052,7 +33070,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 286866,
       "name": "Only You (with Burna Boy)",
       "url": "https://open.spotify.com/track/0nn0Z1o1WI01pB7oEPiJeE"

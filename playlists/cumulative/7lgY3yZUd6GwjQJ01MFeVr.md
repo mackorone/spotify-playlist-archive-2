@@ -4,7 +4,7 @@
 
 > Today's top country music!
 
-274 songs - 14 hr 44 min
+276 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Just To Say We Did](https://open.spotify.com/track/3xq1nVP7GdWKaWsv0oZ4lT) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Just To Say We Did](https://open.spotify.com/album/5BJeHSoN3NyGr3WGk4urF0) | 2:35 | 2024-02-02 | 2024-02-24 |
 | [Kiss Like You Dance \(feat\. Kip Moore\)](https://open.spotify.com/track/2xGExNivG32XJ2yld1jtRj) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq), [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Kiss Like You Dance \(feat\. Kip Moore\)](https://open.spotify.com/album/0pzT83lDQSXWgw8BmjZGuc) | 3:08 | 2023-12-08 | 2024-02-10 |
 | [Last One To Know](https://open.spotify.com/track/7Eb9i3xmiLuY5MiY6AhzzL) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Last One To Know](https://open.spotify.com/album/4zzLitRvQXzr4Eu2UVz0Nh) | 2:57 | 2025-09-13 |  |
+| [Last Rodeo](https://open.spotify.com/track/2zktqQLyXilXPmGIoly5M9) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Last Rodeo](https://open.spotify.com/album/13C5YrXTkUryrL7xkJ25mQ) | 3:26 | 2026-02-27 |  |
 | [Leather](https://open.spotify.com/track/5Z4RdNOVrxle5k7rHeaROb) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Leather](https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY) | 3:13 | 2023-12-08 | 2024-01-27 |
 | [Leave The Light On \(feat\. Alexandra Kay\)](https://open.spotify.com/track/7zXm5RfPShKDVnbMQb7gJ7) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Twisters: The Album](https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS) | 3:20 | 2024-07-22 | 2025-09-13 |
 | [Left Me In The Dusk](https://open.spotify.com/track/06gWq2O5V29LniLkheByNS) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Left Me In The Dusk](https://open.spotify.com/album/4fTR9hPpT2xTd4YaY78ql5) | 2:50 | 2023-12-08 | 2024-11-02 |
@@ -242,6 +243,7 @@
 | [The Painter](https://open.spotify.com/track/5DQU4Fmdx7Hs7pwtcZMSTK) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Leather](https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY) | 3:31 | 2024-01-26 |  |
 | [The Painter](https://open.spotify.com/track/6UoKX6uLJwhsnyTp5k5StP) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [The Painter](https://open.spotify.com/album/5KxDhlSxJGEOcaTnqKwdYu) | 3:31 | 2023-12-08 | 2024-01-20 |
 | [These Nights](https://open.spotify.com/track/75gdNK4k5wl7aXh2CcCzU5) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Different Night Same Rodeo](https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P) | 3:39 | 2025-08-09 | 2025-09-13 |
+| [These Things Happen](https://open.spotify.com/track/0BJpJFEPnEHKro9KLNeKKh) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Squander Your Gifts](https://open.spotify.com/album/7IjSNJnrtWq2OBTcbjBk4G) | 2:49 | 2026-02-27 |  |
 | [Thinkin’ Bout](https://open.spotify.com/track/1eB4kJvJIZlFxOBWNon8Zu) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Thinkin’ Bout](https://open.spotify.com/album/1Q3ZftgW0WyBH9BdL4yPug) | 3:34 | 2024-02-23 | 2024-03-23 |
 | [Thinkin’ Bout Me](https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 2:57 | 2023-12-08 | 2024-06-06 |
 | [This Ol' Rodeo](https://open.spotify.com/track/4IhE9UIoeY1kzdIEJk5AfF) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [This Ol' Rodeo](https://open.spotify.com/album/1yjrPK4BGFnfdZWmJpypsl) | 4:18 | 2023-12-08 | 2024-03-16 |

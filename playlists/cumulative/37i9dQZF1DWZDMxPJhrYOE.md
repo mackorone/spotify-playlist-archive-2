@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-960 songs - 2 day 1 hr 54 min
+961 songs - 2 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,6 +488,7 @@
 | [Katte \(feat\. Artigeardit\)](https://open.spotify.com/track/2jBvbnYDmG01ocNv1AZhHM) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Katte \(feat\. Artigeardit\)](https://open.spotify.com/album/7FG45mLhsw5ejuaCg6Folx) | 2:10 | 2025-06-26 | 2025-07-11 |
 | [Keep It Exciting](https://open.spotify.com/track/4hks1EK6HEi0yNn9qCEXUp) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Qobra](https://open.spotify.com/artist/1bjS3iRdJCgf410FMDVKGE), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Keep It Exciting](https://open.spotify.com/album/1IgE29idg8rtuHt40gfvyL) | 2:19 | 2024-12-12 | 2025-02-25 |
 | [kendt mig en uge](https://open.spotify.com/track/1xpHTbZ3NnvTDEXCFcwGWk) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [kendt mig en uge](https://open.spotify.com/album/2GTBanfJvhkWu0NsOFq0Kd) | 3:06 | 2025-03-20 | 2025-06-20 |
+| [KiLL iT QUEEN](https://open.spotify.com/track/0vEbs5wZEqnrTnRppLGZaU) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [KiLL iT QUEEN](https://open.spotify.com/album/5YD2OXFbiw3S7kdL88p3X2) | 2:48 | 2026-02-26 |  |
 | [Klip Klap Sandaler](https://open.spotify.com/track/0H2DdxpCOXES3vw1dNmf4V) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Kan Du Mærke Suset?](https://open.spotify.com/album/05Eo5mjVxE3CJWR6mI59Ty) | 4:00 | 2025-01-24 | 2025-01-31 |
 | [Knust](https://open.spotify.com/track/3wqRHnczOsKvn43w5d0YDQ) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC), [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Knust](https://open.spotify.com/album/5AGzft7HTMrun5vjPK03oo) | 2:15 | 2024-10-03 | 2024-10-25 |
 | [Kogende \(feat\. Noah Carter\)](https://open.spotify.com/track/7ppzo53maz9xPCKFpen2yE) | [Kimbo](https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Kogende \(feat\. Noah Carter\)](https://open.spotify.com/album/4ywvzvzwa2PNNuMJku1V6r) | 2:10 | 2024-08-22 | 2024-08-30 |
@@ -626,7 +627,7 @@
 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 | 2024-10-24 | 2025-01-10 |
 | [Not At This Party](https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Not At This Party](https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t) | 3:32 | 2025-02-27 | 2025-05-30 |
 | [Not Like That Anymore](https://open.spotify.com/track/6ugu9WpCEHXmns0PiqYTU1) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Not Like That Anymore](https://open.spotify.com/album/3ff8F0Upi70Lo0i26CYGHn) | 3:22 | 2025-06-19 | 2025-09-20 |
-| [nothing on u](https://open.spotify.com/track/1LluuPK8V8UaJ4Q3TQVfzQ) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [nothing on u](https://open.spotify.com/album/1wFBpYVbwHqhSOUuym7kTf) | 2:01 | 2025-12-11 |  |
+| [nothing on u](https://open.spotify.com/track/1LluuPK8V8UaJ4Q3TQVfzQ) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [nothing on u](https://open.spotify.com/album/1wFBpYVbwHqhSOUuym7kTf) | 2:01 | 2025-12-11 | 2026-02-28 |
 | [nova](https://open.spotify.com/track/2Vp7BoWzgNSaR8v9q5wmsQ) | [WIINSTON](https://open.spotify.com/artist/2y83GOxwL8okDqmxSmyX5o) | [JUNE](https://open.spotify.com/album/3XETiy4ury4IU6JB9p8jc2) | 3:53 | 2025-11-27 | 2025-12-05 |
 | [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 | 2024-11-21 | 2025-02-25 |
 | [Nyhavn \(feat\. Ella Augusta\)](https://open.spotify.com/track/1IcCUdRb9sHuJUd7jsC8Vd) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X), [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [Nyhavn \(feat\. Ella Augusta\)](https://open.spotify.com/album/1XQzJCS5yuvSJ2ByPqnv2F) | 2:54 | 2026-01-15 | 2026-02-27 |

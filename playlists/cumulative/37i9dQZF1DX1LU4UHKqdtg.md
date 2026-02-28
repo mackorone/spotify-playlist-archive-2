@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: IVE
 
-1,668 songs - 3 day 16 hr 14 min
+1,670 songs - 3 day 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -546,6 +546,7 @@
 | [Glitch Mode](https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:27 | 2022-03-29 | 2022-06-22 |
 | [Glow Up](https://open.spotify.com/track/12tWYSmupB8x0B4HyalBAm) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Glow Up](https://open.spotify.com/album/0Ka3xa6oOWmW1hIjjjxEW0) | 2:28 | 2025-02-07 | 2025-07-01 |
 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 | 2025-04-29 | 2025-08-19 |
+| [GO](https://open.spotify.com/track/3ZqbplDGd2MJOUgs6yY42I) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/7DO7f71Dkm98AKDIgBaaSx) | 3:15 | 2026-02-27 |  |
 | [Go Higher](https://open.spotify.com/track/5K11PM7oEARLOWAHyiI9Qg) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [The Highest](https://open.spotify.com/album/74WrPce0YrZGCBYazUApO7) | 3:17 | 2024-08-08 | 2024-10-18 |
 | [Go\-Getters](https://open.spotify.com/track/1HVZa1ezwRzomqVVfrfVO9) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8), [Yoon](https://open.spotify.com/artist/01ieSz0UhfrvFZzQHTCW9Z) | [Go\-Getters](https://open.spotify.com/album/6L9qErYnQvH2xgsGn9ZJzN) | 3:15 | 2024-07-30 | 2024-09-07 |
 | [God of Music](https://open.spotify.com/track/4MTNimMDRyFZv37Thcktwa) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'](https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f) | 3:25 | 2023-10-23 | 2024-04-27 |
@@ -728,6 +729,7 @@
 | [Keep me up](https://open.spotify.com/track/1h3hfUrphvCzFNPCsglzp2) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [Love or Loved, Pt\. 1](https://open.spotify.com/album/3EQ7btJiTEaKDE8I1uScm4) | 3:26 | 2022-11-17 | 2023-01-18 |
 | [Keep on Moving](https://open.spotify.com/track/4nS2rDbFUcvcrNoTEQFJJM) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Ride the Vibe \(Japanese Ver.\) / Keep on Moving \-Special Edition\-](https://open.spotify.com/album/5tyosIYVnbP67FGL9o8Xx6) | 3:06 | 2024-08-20 | 2024-09-25 |
 | [Keep on Moving \(Korean Version\)](https://open.spotify.com/track/1yxwMcQCslhKvGHA4OnNaj) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Keep on Moving \(Korean Version\)](https://open.spotify.com/album/4q1Pmz0UWvz6LoiNF6q63r) | 3:06 | 2024-09-24 | 2024-10-24 |
+| [Keychain \- FROM THE FILM K\-POPS!](https://open.spotify.com/track/3Q3WZ7sJLoIZQKY7hWFyQu) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Keychain \(FROM THE FILM K\-POPS!\)](https://open.spotify.com/album/58x92u1JINTa5K7lTzfU02) | 2:50 | 2026-02-27 |  |
 | [Killer](https://open.spotify.com/track/62DuGCeDO3gfVkKe0gBM9m) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [Killer \- The 2nd Album Repackage](https://open.spotify.com/album/4l5BZ4tjisNEvwVa1rXDEv) | 3:50 | 2023-02-13 | 2023-05-10 |
 | [Killin' It](https://open.spotify.com/track/2E7qG81LXdZEfobhcrVm06) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [Killin' It](https://open.spotify.com/album/7FbyxnCCfB4t8N8qwHrHi6) | 2:56 | 2024-02-05 | 2024-04-24 |
 | [Killin' Me Good \(English Ver.\)](https://open.spotify.com/track/0t5Q16hVryXI4CKx8VpA66) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [Killin' Me Good \(English Ver.\)](https://open.spotify.com/album/3FZTxJrmuObG7HCgQe9acb) | 3:05 | 2023-09-14 | 2023-11-16 |
@@ -1526,7 +1528,7 @@
 | [We Still Loading \(FEAT\. Los, Rick Bridges, Northfacegawd, DJ SKY\)](https://open.spotify.com/track/0AIHkhsDd5dtHdQi4sH0E1) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff), [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD), [Rick bridges](https://open.spotify.com/artist/5TmTQv1VaF0VDAmC9eAQ2m), [northfacegawd](https://open.spotify.com/artist/620Vx5hEMowoa71wXk4bu1), [DJ SKY](https://open.spotify.com/artist/77kV2wcADwv2t1lpV2BSSy) | [Year 1 : We Still Loading](https://open.spotify.com/album/1fkW1yc8kn27ROj1s6ebE1) | 4:36 | 2024-10-17 | 2024-10-24 |
 | [We're Not Alone](https://open.spotify.com/track/5A2Y2GjttBvB2u5o5cNjVO) | [LUN8](https://open.spotify.com/artist/5LkLwB6VSZLQiFkJa9SPOn) | [Weʼre Not Alone](https://open.spotify.com/album/79pspaGpJfhnlUlROnQZtO) | 4:36 | 2024-12-10 | 2025-01-27 |
 | [Weapon \(With Newnion, FLOOR\) \(Prod.Czaer\)](https://open.spotify.com/track/6poVmpGU3y3jj1Z9xbbbH4) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Street Dance Girls Fighter\(SGF\) Special](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) | 3:40 | 2022-01-06 | 2022-04-01 |
-| [Weather Diary](https://open.spotify.com/track/6wviWs78JSuGTNRtc7Dto3) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Weather Diary](https://open.spotify.com/album/5bOgWbYz7fo86vNSPmX0wL) | 3:04 | 2025-07-23 |  |
+| [Weather Diary](https://open.spotify.com/track/6wviWs78JSuGTNRtc7Dto3) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Weather Diary](https://open.spotify.com/album/5bOgWbYz7fo86vNSPmX0wL) | 3:04 | 2025-07-23 | 2026-02-28 |
 | [Welcome To MY World \(feat\. nævis\)](https://open.spotify.com/track/6qVqWJxIpsabUKBILG7d6N) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [nævis](https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg) | [Welcome To MY World \(feat\. nævis\)](https://open.spotify.com/album/2o35lokKrBVG73xWFDEVsX) | 3:26 | 2023-05-02 | 2023-07-26 |
 | [Welcome to the Show](https://open.spotify.com/track/3BMAWsBp4jc35mCmebC3WT) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/7FkXm1xDdddS6ANM7wW4UR) | 3:37 | 2024-04-18 | 2024-04-27 |
 | [Welcome to the Show](https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 3:37 | 2024-03-19 | 2024-04-19 |

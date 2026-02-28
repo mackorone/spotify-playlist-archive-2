@@ -4,7 +4,7 @@
 
 > Jadi lebih produktif ditemani musik terkini
 
-447 songs - 1 day 2 hr 44 min
+449 songs - 1 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [A Day That Feels Better](https://open.spotify.com/track/1wS7qBXXMy4tHbSXMx2uPD) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Birdy](https://open.spotify.com/album/7ptKY3QeYYiOsbwqnJFU0E) | 3:50 | 2023-03-22 | 2023-10-12 |
 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 | 2023-11-14 | 2024-06-06 |
 | [A Piece of You](https://open.spotify.com/track/1bYRmNYrXbzbLq1CEBZHRe) | [Nathaniel Constantin](https://open.spotify.com/artist/5Jc99vrEyk7RZVYglf9E3r) | [A Piece of You](https://open.spotify.com/album/0AcubuOrOCfOtq27h2cudt) | 3:57 | 2023-11-13 | 2025-04-17 |
+| [Ada titik\-titik di ujung doa](https://open.spotify.com/track/1E7zLPDdqo0OvzVmGj5aoV) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH PENS FLASHDISKS](https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q) | 5:05 | 2026-02-27 |  |
 | [Adore U](https://open.spotify.com/track/5qQHPdQaiLkIrRjMBFTbuz) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Adore U](https://open.spotify.com/album/6TuqYkU9a9UNy7YxwATWDg) | 2:44 | 2024-06-26 | 2024-11-14 |
 | [Aduh](https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Aduh](https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus) | 3:16 | 2023-12-06 | 2025-09-30 |
 | [Akhir Tak Bahagia](https://open.spotify.com/track/0BYoWATcndOBcsCfKdTKRx) | [Misellia](https://open.spotify.com/artist/5IjwAAk3njAeiFY1InInsn) | [Akhir Tak Bahagia](https://open.spotify.com/album/7zv0LcKjGlAUiTXQJzqhSY) | 3:05 | 2024-03-21 | 2024-04-24 |
@@ -325,6 +326,7 @@
 | [Salla Alayka Rahman](https://open.spotify.com/track/0uAndoynoIcGYlSqEm35ZQ) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Salla Alayka Rahman](https://open.spotify.com/album/5lWu2EumPpXIBaSDCTEAeh) | 3:48 | 2024-03-21 | 2024-04-19 |
 | [Salla Alayka Rahman](https://open.spotify.com/track/2JVRBAOAXAcNM21EyziBLj) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Salla Alayka Rahman](https://open.spotify.com/album/5dR7qtDmtEfrQhKe3yPEK5) | 3:48 | 2024-04-18 | 2024-04-24 |
 | [Sampai Akhir Waktu](https://open.spotify.com/track/6LF44wAs3h0K67RitTAfr5) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Winning 11](https://open.spotify.com/album/6nFdenkFLOxjD5eYaD6pZc) | 3:35 | 2024-07-24 | 2025-10-08 |
+| [Sandiwara Semu](https://open.spotify.com/track/49CPjgPScI29D1yqSmHFgK) | [rumahsakit](https://open.spotify.com/artist/1Foqp2ngVCEaD2xKanB7QP) | [+imeless](https://open.spotify.com/album/1wyW6xxlgeDHqbpJRnUYPG) | 4:24 | 2026-02-27 |  |
 | [Satu Kali](https://open.spotify.com/track/7hMW54xnFEPdmVy4nBHp9H) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 3:44 | 2025-10-03 |  |
 | [Satu Mimpiku](https://open.spotify.com/track/34M7BB5zhcLbuXec2Mbggv) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [The Groove](https://open.spotify.com/artist/4k9NyPZz7zajxboTKM17qa) | [Kuingin](https://open.spotify.com/album/4ETmD2ooVCjpVhjNNBNuUG) | 4:19 | 2024-07-05 | 2025-09-30 |
 | [Satu Tuju](https://open.spotify.com/track/4rVXkYPwY8oHJhQwcBL0On) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Satu Tuju](https://open.spotify.com/album/1OyDDO3hE5d5tNsoSqxgaf) | 4:06 | 2023-03-22 | 2024-07-25 |
@@ -338,7 +340,7 @@
 | [Semata Karenamu](https://open.spotify.com/track/1SWBzZg6n9JZq7bnXxPPai) | [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Semata Karenamu](https://open.spotify.com/album/00Gd00OvRY6pKawXA1iCKs) | 4:38 | 2023-05-05 | 2023-12-03 |
 | [Semata Karenamu](https://open.spotify.com/track/4z6FksNI6MLCDTHrNJXhO0) | [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Semata Karenamu](https://open.spotify.com/album/7Cc4mRgFWAomMajhwO0xr6) | 4:38 | 2023-03-22 | 2024-09-14 |
 | [Semata Karenamu](https://open.spotify.com/track/58ilhPCZ45OnBSRndRlDBr) | [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Semata Karenamu](https://open.spotify.com/album/4wgM1mqNhQzNPY0Jbfl8f5) | 4:38 | 2023-11-14 | 2024-04-19 |
-| [Semesta Asmara](https://open.spotify.com/track/0tn3dQuEHJEhGlILenLYnM) | [Vintonic](https://open.spotify.com/artist/656eL5tEeJqWHwvkJn5TIW) | [Semesta Asmara](https://open.spotify.com/album/5J9ZbBkXToilNQefkoL5Aq) | 3:47 | 2025-03-17 | 2025-04-11 |
+| [Semesta Asmara](https://open.spotify.com/track/0tn3dQuEHJEhGlILenLYnM) | [Vintonic](https://open.spotify.com/artist/656eL5tEeJqWHwvkJn5TIW) | [Semesta Asmara](https://open.spotify.com/album/5J9ZbBkXToilNQefkoL5Aq) | 3:47 | 2025-03-17 |  |
 | [Semusim](https://open.spotify.com/track/0F0usCZL8B4ichHqUWAAI2) | [Tohpati](https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN), [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Semusim](https://open.spotify.com/album/2SwklQLPnXVIJIS0ZqIlrL) | 4:14 | 2025-12-16 |  |
 | [Sendiri](https://open.spotify.com/track/07WgdW3oqegtibITmSAPEy) | [jubilee marisa](https://open.spotify.com/artist/3JBkqdMx65CIglkijIKn4f) | [Sendiri](https://open.spotify.com/album/4opY4vkF1iyUOq8Qa7BLfZ) | 4:37 | 2025-02-12 | 2025-06-17 |
 | [Senin Sampai Jumat](https://open.spotify.com/track/1GQqxuKK7c0Sa4wtlTtgTV) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Hari Ini, Esok & Selamanya](https://open.spotify.com/album/51KxSLuGPuEtWNcAVgpSkZ) | 4:10 | 2025-12-09 | 2026-01-15 |

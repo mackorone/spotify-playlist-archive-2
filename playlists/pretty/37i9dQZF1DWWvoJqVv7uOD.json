@@ -1,13 +1,29 @@
 {
   "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: Myles Smith & Niall Horan",
-  "num_followers": 495802,
+  "num_followers": 495825,
   "original_name": "Everyday Favorites ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGj3UNXhg+iflJXlDmeBmvIeSBJ5",
+  "snapshot_id": "AAAAALhHDjrcJCpxXh5iZFNZZgOI3t90",
   "tracks": [
+    {
+      "added_at": "2026-02-27 05:00:27",
+      "album": {
+        "name": "FEVER DREAM",
+        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 153430,
+      "name": "FEVER DREAM",
+      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
+    },
     {
       "added_at": "2026-02-06 05:00:50",
       "album": {
@@ -49,6 +65,22 @@
       "url": "https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg"
     },
     {
+      "added_at": "2025-08-15 04:00:30",
+      "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
       "added_at": "2026-01-23 05:00:31",
       "album": {
         "name": "Funeral",
@@ -67,6 +99,22 @@
     {
       "added_at": "2026-02-20 05:00:54",
       "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 317961,
+      "name": "The Great Divide",
+      "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
+    },
+    {
+      "added_at": "2026-02-20 05:00:54",
+      "album": {
         "name": "Be Her",
         "url": "https://open.spotify.com/album/0xY9ccawTTfHlwdVlkDT90"
       },
@@ -81,20 +129,100 @@
       "url": "https://open.spotify.com/track/05CjWFAcAlY6O9po6Qwakk"
     },
     {
-      "added_at": "2025-08-15 04:00:30",
+      "added_at": "2025-11-07 05:00:53",
       "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+        "name": "Die On This Hill",
+        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
       },
       "artists": [
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+      "duration_ms": 217008,
+      "name": "Die On This Hill",
+      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
+    },
+    {
+      "added_at": "2025-09-26 04:00:13",
+      "album": {
+        "name": "Stay (If You Wanna Dance)",
+        "url": "https://open.spotify.com/album/70hrdDAd7dbcj0ob6GCAnA"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 185999,
+      "name": "Stay (If You Wanna Dance)",
+      "url": "https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc"
+    },
+    {
+      "added_at": "2026-01-23 05:00:31",
+      "album": {
+        "name": "To Love Somebody",
+        "url": "https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 237952,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV"
+    },
+    {
+      "added_at": "2025-03-07 05:00:28",
+      "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
+    },
+    {
+      "added_at": "2026-01-09 05:00:48",
+      "album": {
+        "name": "Delete Ya",
+        "url": "https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 203349,
+      "name": "Delete Ya",
+      "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
+    },
+    {
+      "added_at": "2026-02-27 05:00:27",
+      "album": {
+        "name": "Criminal (From the Original Motion Picture Scream 7)",
+        "url": "https://open.spotify.com/album/2nmVXKVnYRht1PxXZ6aguS"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 199305,
+      "name": "Criminal - From the Original Motion Picture Scream 7",
+      "url": "https://open.spotify.com/track/7FzmTWZg0cmBXOr5428N8R"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -115,102 +243,6 @@
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
-    },
-    {
-      "added_at": "2025-09-26 04:00:13",
-      "album": {
-        "name": "Stay (If You Wanna Dance)",
-        "url": "https://open.spotify.com/album/70hrdDAd7dbcj0ob6GCAnA"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 185999,
-      "name": "Stay (If You Wanna Dance)",
-      "url": "https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc"
-    },
-    {
-      "added_at": "2026-02-20 05:00:54",
-      "album": {
-        "name": "The Great Divide",
-        "url": "https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 317961,
-      "name": "The Great Divide",
-      "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
-    },
-    {
-      "added_at": "2026-01-23 05:00:31",
-      "album": {
-        "name": "To Love Somebody",
-        "url": "https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 237952,
-      "name": "To Love Somebody",
-      "url": "https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV"
-    },
-    {
-      "added_at": "2026-01-09 05:00:48",
-      "album": {
-        "name": "Delete Ya",
-        "url": "https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 203349,
-      "name": "Delete Ya",
-      "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
-    },
-    {
-      "added_at": "2025-03-07 05:00:28",
-      "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
-    },
-    {
-      "added_at": "2025-11-07 05:00:53",
-      "album": {
-        "name": "Die On This Hill",
-        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 217008,
-      "name": "Die On This Hill",
-      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
     },
     {
       "added_at": "2025-11-28 05:20:46",
@@ -437,22 +469,6 @@
       "url": "https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt"
     },
     {
-      "added_at": "2025-11-18 03:39:33",
-      "album": {
-        "name": "Sex Hysteria (Deluxe)",
-        "url": "https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 177601,
-      "name": "I Stay I Leave I Love I Lose",
-      "url": "https://open.spotify.com/track/3NlJEfRVcKNXr44ql6Qn7K"
-    },
-    {
       "added_at": "2025-08-22 04:00:31",
       "album": {
         "name": "The Suburbs",
@@ -587,26 +603,6 @@
       "duration_ms": 198004,
       "name": "Gone Gone Gone",
       "url": "https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd"
-    },
-    {
-      "added_at": "2025-05-23 04:00:49",
-      "album": {
-        "name": "Bloodline",
-        "url": "https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 182008,
-      "name": "Bloodline",
-      "url": "https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9"
     },
     {
       "added_at": "2025-09-05 04:00:15",
@@ -757,20 +753,20 @@
       "url": "https://open.spotify.com/track/4yI7z3Qd7n53y42T3sk0dK"
     },
     {
-      "added_at": "2024-12-13 16:20:24",
+      "added_at": "2025-11-18 03:39:33",
       "album": {
-        "name": "Keep Me Honest",
-        "url": "https://open.spotify.com/album/3Q31EPb80KbZiB2sYJOshy"
+        "name": "Sex Hysteria (Deluxe)",
+        "url": "https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr"
       },
       "artists": [
         {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
-      "duration_ms": 190890,
-      "name": "Keep Me Honest",
-      "url": "https://open.spotify.com/track/4UjWi9O04gSjMFS2gZF1U7"
+      "duration_ms": 177601,
+      "name": "I Stay I Leave I Love I Lose",
+      "url": "https://open.spotify.com/track/3NlJEfRVcKNXr44ql6Qn7K"
     },
     {
       "added_at": "2025-10-10 04:00:46",
@@ -983,22 +979,6 @@
       "duration_ms": 166106,
       "name": "Past Won't Leave My Bed",
       "url": "https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Heart of Gold",
-        "url": "https://open.spotify.com/album/1cMeCtprtHWW2XytkPUthL"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 171607,
-      "name": "Heart of Gold",
-      "url": "https://open.spotify.com/track/1VQfrKbnGSZnEFoGpfVnS8"
     },
     {
       "added_at": "2025-11-18 03:39:33",

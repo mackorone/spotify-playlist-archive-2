@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this mix of peaceful, ambient, indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,933 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,916 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 22 | [Broken](https://open.spotify.com/track/1k7ZAtPOzRw49KL6CT4MXa) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Broken](https://open.spotify.com/album/6hvnQ9TLd5txakEGIij7R0) | 4:37 |
 | 23 | [I'll Never Find Your Soul](https://open.spotify.com/track/6CruGdNMu9cYkvfDYZAR3H) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Home](https://open.spotify.com/album/1iWIdNirSM5jBeSUl6R5JE) | 3:25 |
 | 24 | [Ascend and Try Again](https://open.spotify.com/track/6ngeEvA6aq0e8f1KyGTTGR) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Watch This Liquid Pour Itself](https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ) | 2:13 |
-| 25 | [Bird](https://open.spotify.com/track/14nWsmzymZ6MV9TDhaH2SV) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Bird](https://open.spotify.com/album/63XRrL5aFeflpDkzeYF5dD) | 3:39 |
-| 26 | [Alone](https://open.spotify.com/track/4CztNwbrYUjnmjNKi5etEn) | [Logan and Isabel](https://open.spotify.com/artist/14P8mkOjjBxwgUgAO5sbAQ) | [Alone](https://open.spotify.com/album/6NLPPOovFxmrlmTMAZS6d4) | 3:02 |
+| 25 | [Alone](https://open.spotify.com/track/4CztNwbrYUjnmjNKi5etEn) | [Logan and Isabel](https://open.spotify.com/artist/14P8mkOjjBxwgUgAO5sbAQ) | [Alone](https://open.spotify.com/album/6NLPPOovFxmrlmTMAZS6d4) | 3:02 |
+| 26 | [Bird](https://open.spotify.com/track/14nWsmzymZ6MV9TDhaH2SV) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Bird](https://open.spotify.com/album/63XRrL5aFeflpDkzeYF5dD) | 3:39 |
 | 27 | [Atom 6](https://open.spotify.com/track/4Hctp8jfbMwLTchI6o3vDc) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Atom 6](https://open.spotify.com/album/0Ve7BbpsthPeae1D7UGul9) | 1:12 |
 | 28 | [Summer](https://open.spotify.com/track/7rY9qTVYJziRT87gI8KPra) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Home](https://open.spotify.com/album/1iWIdNirSM5jBeSUl6R5JE) | 5:22 |
 | 29 | [Midori](https://open.spotify.com/track/33P4kqRYHpq94kKjAoWvC5) | [Felbm](https://open.spotify.com/artist/2kjrM4RpZVRBHy3hjgJCr7) | [Tape 4](https://open.spotify.com/album/2wTtlS3y73FcYMkyFrJx0u) | 3:01 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 35 | [Cloud Speed](https://open.spotify.com/track/33x5orlhgXWVIVCHnqfs8S) | [Sad Souls](https://open.spotify.com/artist/7AY92GzSGpzuFD6KHCytte) | [Apeiron](https://open.spotify.com/album/0QvZfXRFEBf5lzWmstHcn6) | 3:05 |
 | 36 | [Saans Lo](https://open.spotify.com/track/6iPZbDZtoVyQv7spX7Tt8m) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 7:31 |
 | 37 | [one day](https://open.spotify.com/track/7DwwTngKPIZgxsok72Z9YL) | [Arca](https://open.spotify.com/artist/6N6Y3dXzfGFvUdqETrTGeT), [LUCA](https://open.spotify.com/artist/5JZSSs2KEn3LIPiPkqGjMj), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [世界](https://open.spotify.com/album/69Kc5dicZRbAiDPlYgp39p) | 3:48 |
-| 38 | [Only a Moment](https://open.spotify.com/track/0YsdzdSjK6kEwtEeL4bfa6) | [From The Mouth of The Sun](https://open.spotify.com/artist/6UpouK3jks1yWvXxjDFB5S) | [A Broken House](https://open.spotify.com/album/4GeOn3aGUAyZ5yT5kapePX) | 1:25 |
-| 39 | [Aeroplane Bathroom](https://open.spotify.com/track/7h4zBf5NntSiGrYy2hmDJE) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Our Two Skins](https://open.spotify.com/album/2E9Blcx45loakuMKKsn5lw) | 5:44 |
+| 38 | [Aeroplane Bathroom](https://open.spotify.com/track/7h4zBf5NntSiGrYy2hmDJE) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Our Two Skins](https://open.spotify.com/album/2E9Blcx45loakuMKKsn5lw) | 5:44 |
+| 39 | [Only a Moment](https://open.spotify.com/track/0YsdzdSjK6kEwtEeL4bfa6) | [From The Mouth of The Sun](https://open.spotify.com/artist/6UpouK3jks1yWvXxjDFB5S) | [A Broken House](https://open.spotify.com/album/4GeOn3aGUAyZ5yT5kapePX) | 1:25 |
 | 40 | [Come and See](https://open.spotify.com/track/30dcEOSx5y5KNInniobGoc) | [Lean Year](https://open.spotify.com/artist/5DNcrT0ZrO00AsUqLrUjmR) | [Lean Year](https://open.spotify.com/album/0hamxL9J3GEDVn9ePVsQeo) | 3:39 |
 | 41 | [Ouverture](https://open.spotify.com/track/6XF87ir7jZgsz7i4iWWvJI) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Dobrawa Czocher](https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p) | [Inner Symphonies](https://open.spotify.com/album/1KZB5lAvsyeK9X1vFnqARz) | 3:54 |
 | 42 | [Brunnengasse](https://open.spotify.com/track/0oD7OVBE47bShwY5kqaVeL) | [Felbm](https://open.spotify.com/artist/2kjrM4RpZVRBHy3hjgJCr7) | [Tape 4](https://open.spotify.com/album/2wTtlS3y73FcYMkyFrJx0u) | 2:46 |

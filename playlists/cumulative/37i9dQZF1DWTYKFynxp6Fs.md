@@ -2,7 +2,7 @@
 
 ### [Trending Now Malayalam](https://open.spotify.com/playlist/37i9dQZF1DWTYKFynxp6Fs)
 
-> Every song that's Trending NOW from Malayalam! <br/>Cover: Sarvam Maya
+> Every song that's Trending NOW from Malayalam! <br/>Cover: Pallichattambi
 
 124 songs - 7 hr 16 min
 

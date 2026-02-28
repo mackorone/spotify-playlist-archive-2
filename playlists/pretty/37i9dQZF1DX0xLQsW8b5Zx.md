@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,267 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,285 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,13 +17,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 7 | [Funnel of Love](https://open.spotify.com/track/4hoF5V2AQPpzsXR9kqJ065) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Deluxe: Classics](https://open.spotify.com/album/5lKeIecT4StO6RwzBCGqgP) | 2:08 |
 | 8 | [Rockabilly Rebel](https://open.spotify.com/track/47fBL9Hqjq2kFIrg8c1wQi) | [Matchbox](https://open.spotify.com/artist/1TZLeOYelnAiEkOJnofWrj) | [The Platinum Collection](https://open.spotify.com/album/2UG7OjoH8G3MILkrOYXyCN) | 2:47 |
 | 9 | [If Love Don't Work On You](https://open.spotify.com/track/35JhHtM0bCboIkWHQnBsga) | [Eva Eastwood](https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH) | [Candy](https://open.spotify.com/album/5IyCgTYgXhCzNTfN3YMKTM) | 2:08 |
-| 10 | [Stray Cat Strut](https://open.spotify.com/track/6prmiVokCCQB1VAYhq5TGJ) | [Stray Cats](https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg) | [Stray Cats](https://open.spotify.com/album/1EKPvDwIw66YEBF2TjOQn8) | 3:15 |
+| 10 | [Rock Billy Boogie](https://open.spotify.com/track/6kJ86Zi4x1LY9KEdjQA5S2) | [Robert Gordon](https://open.spotify.com/artist/1coQ4GcxuazfjZ0MP9JnBF) | [Rock Billy Boogie](https://open.spotify.com/album/10xfK1QoJAKJTatrJTp4Wt) | 2:33 |
 | 11 | [Hillbilly Rock'n'Roll](https://open.spotify.com/track/6bzf1xi9QFsdMkFLLZCUCO) | [Voodoo Swing](https://open.spotify.com/artist/4cq3Pl3yrAtFgDE0RUhUaA) | [Keep On Rollin'](https://open.spotify.com/album/1Drg0VNBBK7IEsDXyMMpKE) | 2:30 |
 | 12 | [Right Now](https://open.spotify.com/track/10dIfQHkyn2SuJ6rtD7qrh) | [Fatboy](https://open.spotify.com/artist/5vK6yZH3E1wOYY93NHZwJT) | [Right Now](https://open.spotify.com/album/4aLW5xX8O4tuPi5E7T4494) | 2:20 |
 | 13 | [Let's Jump The Broomstick](https://open.spotify.com/track/3gshcJd9xIITbbYAJeFEFg) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Brenda Lee](https://open.spotify.com/album/3DzEQCPg0Irz2vWUaBSEkm) | 2:34 |
 | 14 | [Midnight Dynamos](https://open.spotify.com/track/0AX3dBr7hRTDjy1O2s4N6u) | [Matchbox](https://open.spotify.com/artist/1TZLeOYelnAiEkOJnofWrj) | [Midnight Dynamos](https://open.spotify.com/album/31dfhTOccGyCwz2oRTSMfy) | 3:06 |
-| 15 | [59 Ford](https://open.spotify.com/track/08m7pwirwY6h90JE8dZ3D3) | [The Firebirds](https://open.spotify.com/artist/0nhl9XQYR0RLk6PWCvGd75) | [Too Hot to Handle](https://open.spotify.com/album/0LUOLIMXEqzJ8Bt3ulTd6H) | 2:06 |
-| 16 | [Rock Billy Boogie](https://open.spotify.com/track/6kJ86Zi4x1LY9KEdjQA5S2) | [Robert Gordon](https://open.spotify.com/artist/1coQ4GcxuazfjZ0MP9JnBF) | [Rock Billy Boogie](https://open.spotify.com/album/10xfK1QoJAKJTatrJTp4Wt) | 2:33 |
+| 15 | [Stray Cat Strut](https://open.spotify.com/track/6prmiVokCCQB1VAYhq5TGJ) | [Stray Cats](https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg) | [Stray Cats](https://open.spotify.com/album/1EKPvDwIw66YEBF2TjOQn8) | 3:15 |
+| 16 | [59 Ford](https://open.spotify.com/track/08m7pwirwY6h90JE8dZ3D3) | [The Firebirds](https://open.spotify.com/artist/0nhl9XQYR0RLk6PWCvGd75) | [Too Hot to Handle](https://open.spotify.com/album/0LUOLIMXEqzJ8Bt3ulTd6H) | 2:06 |
 | 17 | [Pay Dearly](https://open.spotify.com/track/2WRMJxbNhFBuwI4eP6W1Su) | [Kim Lenz & Her Jaguars](https://open.spotify.com/artist/2yG5isAT56JzRO1qpmmwnB) | [Follow Me](https://open.spotify.com/album/5NiVekCbovR7lfNoDX2YOQ) | 2:18 |
 | 18 | [Baby Did A Bad Bad Thing \- Remastered](https://open.spotify.com/track/7ohJuvtlKjKKaimEcvWfh1) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Best Of Chris Isaak](https://open.spotify.com/album/4aS233D1sBxySxC1dKVtup) | 2:56 |
 | 19 | [C’Mon Everybody](https://open.spotify.com/track/7Lfp7FsKI4buEJYbMlt7QU) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [The Best Of Eddie Cochran](https://open.spotify.com/album/1MOHwO7WJIg61Ksp4FfYz5) | 1:56 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 55 | [Rock\-a\-Cha](https://open.spotify.com/track/33G6G0xbQmKm9uQuBTW6sK) | [Jack Rabbit Slim](https://open.spotify.com/artist/3nDZWi1wEZpaiEEa9jFLwI) | [From the Waist Down](https://open.spotify.com/album/6PpVaRCUlMLnO5Evrp3rxj) | 2:01 |
 | 56 | [Good Rockin' Boogie](https://open.spotify.com/track/7yV2BSU9Nmnw1xv1ldozhJ) | [Sleepy LaBeef](https://open.spotify.com/artist/4TWlhLMKfoIXqJOYxwKhdf) | [Rockabilly 1977](https://open.spotify.com/album/6wCq4bDPpN1sr9KtXq3vYf) | 1:52 |
 | 57 | [Rockabilly Guy](https://open.spotify.com/track/3vrRAugNjfi7UkW4Ktxxyl) | [The Polecats](https://open.spotify.com/artist/0ySLj2XiEOFtixInK1GAD4) | [Rockabilly Cats](https://open.spotify.com/album/2FYlqHuVW1L4jnyU8eYJO2) | 2:32 |
-| 58 | [King Of Love](https://open.spotify.com/track/3mxjg9uRfR9LXVkuwepexN) | [Dave Edmunds](https://open.spotify.com/artist/65Gh3BfK84aTIugiRCgLBA) | [The Best Of The EMI Years](https://open.spotify.com/album/7gdnNeLNm05j7gzB3qEB90) | 3:09 |
-| 59 | [We the Boys Will Rock Ya](https://open.spotify.com/track/5X0Bw8bVxSm274py1RyosM) | [The Big Six](https://open.spotify.com/artist/3yBtTnMApmLbCCRUWq0bgP) | [We Will Rock You](https://open.spotify.com/album/73Wnm7tH3Potmwl8dQSPdB) | 3:32 |
+| 58 | [We the Boys Will Rock Ya](https://open.spotify.com/track/5X0Bw8bVxSm274py1RyosM) | [The Big Six](https://open.spotify.com/artist/3yBtTnMApmLbCCRUWq0bgP) | [We Will Rock You](https://open.spotify.com/album/73Wnm7tH3Potmwl8dQSPdB) | 3:32 |
+| 59 | [King Of Love](https://open.spotify.com/track/3mxjg9uRfR9LXVkuwepexN) | [Dave Edmunds](https://open.spotify.com/artist/65Gh3BfK84aTIugiRCgLBA) | [The Best Of The EMI Years](https://open.spotify.com/album/7gdnNeLNm05j7gzB3qEB90) | 3:09 |
 | 60 | [Wild Saxophone](https://open.spotify.com/track/31K9keedgi9MaFaLRkvJJU) | [Stray Cats](https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg) | [Stray Cats](https://open.spotify.com/album/1EKPvDwIw66YEBF2TjOQn8) | 3:01 |
 
 Snapshot ID: `AAAAAJv6kYmG2pBoe2OEvjdW8BfLAaKx`

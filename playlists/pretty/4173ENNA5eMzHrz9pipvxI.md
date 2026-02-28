@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Belters Only &amp; Seamus D
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 118,573 likes - 164 songs - 8 hr 11 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 118,568 likes - 164 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

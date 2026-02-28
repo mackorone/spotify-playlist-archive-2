@@ -4,7 +4,7 @@
 
 > De magie van R&B \| Nieuwe releases \| Cover: Naomi Sharon
 
-714 songs - 1 day 12 hr 47 min
+715 songs - 1 day 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -564,6 +564,7 @@
 | [Slow Motion \(feat\. Wizkid\)](https://open.spotify.com/track/1OdxQvBNOgCDE3SyqoEDha) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 2:48 | 2023-02-23 | 2023-03-23 |
 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2023-02-02 | 2024-03-01 |
 | [So Fresh So Clean](https://open.spotify.com/track/59QfKeNapjJA7A7A3UKSWU) | [Ruskey](https://open.spotify.com/artist/6ERpZaxy8S2ZWlpYbXG1aK) | [Baby Boy 2](https://open.spotify.com/album/1HSVRYzepxAx4FAwysjKn7) | 2:15 | 2024-11-14 | 2025-08-29 |
+| [SOAP](https://open.spotify.com/track/0SsQlBx10cCgIZIV2SH9wq) | [Lizzy](https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [SOAP](https://open.spotify.com/album/7LnaNERJs0GUwZvnHrxiQ9) | 2:36 | 2026-02-26 |  |
 | [Soft \(feat\. Chlöe & Halle\) \[Unlocked\]](https://open.spotify.com/track/3tBHvugVF7GSpKsncQml42) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Access All Areas: Unlocked](https://open.spotify.com/album/4YcgdFu1iKCYPujsKQGKeB) | 3:11 | 2024-11-21 | 2025-11-21 |
 | [Softly](https://open.spotify.com/track/2drDZnirL0TSVp8pOA756W) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:53 | 2023-01-12 | 2023-11-17 |
 | [Sold Myself For Love](https://open.spotify.com/track/1NFTCC13S7o7n2Yy6ctEdZ) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Sold Myself For Love](https://open.spotify.com/album/06O9egxd0mX7XEtuqmuX0D) | 3:26 | 2025-10-16 |  |
@@ -638,7 +639,7 @@
 | [Tweety](https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Tweety](https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T) | 3:52 | 2023-01-12 | 2023-03-23 |
 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 | 2025-02-10 | 2025-06-28 |
 | [Two Cents](https://open.spotify.com/track/4J3vgENXvPF4BVYxztyEyq) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Two Cents](https://open.spotify.com/album/1goONdBC2HFSWV8PXT0tRW) | 2:58 | 2025-04-11 |  |
-| [Two Shots \(Looking For Love\)](https://open.spotify.com/track/4XQ13GgSkaNfVMeKpN1Ujh) | [Arno Sacco](https://open.spotify.com/artist/6bfoz2GFeUYmr2Kz4LikKx) | [Two Shots \(Looking For Love\)](https://open.spotify.com/album/58JuFqlllpEEW7S9eka6uX) | 3:48 | 2025-11-20 |  |
+| [Two Shots \(Looking For Love\)](https://open.spotify.com/track/4XQ13GgSkaNfVMeKpN1Ujh) | [Arno Sacco](https://open.spotify.com/artist/6bfoz2GFeUYmr2Kz4LikKx) | [Two Shots \(Looking For Love\)](https://open.spotify.com/album/58JuFqlllpEEW7S9eka6uX) | 3:48 | 2025-11-20 | 2026-02-28 |
 | [U & I](https://open.spotify.com/track/1JHTlyUGL784BK241NROfl) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [How Would It Feel](https://open.spotify.com/album/3ZGIUHyrzEsvkE6e6OQAOd) | 3:35 | 2022-07-22 | 2023-01-13 |
 | [U & I](https://open.spotify.com/track/1QK9f16uAepfVJazNT8atB) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [How Would It Feel](https://open.spotify.com/album/0FklfQfN28uc7RDBNMTQiz) | 3:35 | 2021-12-16 | 2022-07-29 |
 | [U Gotta](https://open.spotify.com/track/20RR34NvvcSas9GdZUrAhq) | [Dyce](https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc), [The Limba](https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7) | [U Gotta](https://open.spotify.com/album/30VqT2rbEknTdCZt1n0Rci) | 2:02 | 2025-07-17 |  |

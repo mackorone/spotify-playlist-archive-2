@@ -1,6 +1,6 @@
 {
   "description": "Country music to accompany you on the open road. Cover: Lainey Wilson",
-  "num_followers": 464408,
+  "num_followers": 464448,
   "original_name": "Country Drive",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2026-01-23 05:00:21",
       "album": {
+        "name": "Some Hearts",
+        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 199939,
+      "name": "Before He Cheats",
+      "url": "https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt"
+    },
+    {
+      "added_at": "2026-01-23 05:00:21",
+      "album": {
         "name": "Miles On It",
         "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 168355,
       "name": "Miles On It",
       "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
-    },
-    {
-      "added_at": "2026-01-23 05:00:21",
-      "album": {
-        "name": "Some Hearts",
-        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 199939,
-      "name": "Before He Cheats",
-      "url": "https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt"
     },
     {
       "added_at": "2026-01-23 05:00:21",
@@ -451,18 +451,18 @@
     {
       "added_at": "2026-01-23 05:00:21",
       "album": {
-        "name": "Your Man",
-        "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
       "artists": [
         {
-          "name": "Josh Turner",
-          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 211893,
-      "name": "Your Man",
-      "url": "https://open.spotify.com/track/1WzAeadSKJhqykZFbJNmQv"
+      "duration_ms": 201893,
+      "name": "Dirt On My Boots",
+      "url": "https://open.spotify.com/track/7f08qp3HROTkfrtNpiYGGo"
     },
     {
       "added_at": "2026-01-23 05:00:21",
@@ -483,18 +483,18 @@
     {
       "added_at": "2026-01-23 05:00:21",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+        "name": "Your Man",
+        "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
         }
       ],
-      "duration_ms": 201893,
-      "name": "Dirt On My Boots",
-      "url": "https://open.spotify.com/track/7f08qp3HROTkfrtNpiYGGo"
+      "duration_ms": 211893,
+      "name": "Your Man",
+      "url": "https://open.spotify.com/track/1WzAeadSKJhqykZFbJNmQv"
     },
     {
       "added_at": "2026-01-23 05:00:21",
@@ -531,18 +531,18 @@
     {
       "added_at": "2026-01-23 05:00:21",
       "album": {
-        "name": "NATE SMITH (DELUXE)",
-        "url": "https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz"
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
       "artists": [
         {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 189986,
-      "name": "World on Fire",
-      "url": "https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd"
+      "duration_ms": 205200,
+      "name": "Heartache On The Dance Floor",
+      "url": "https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD"
     },
     {
       "added_at": "2026-01-23 05:00:21",
@@ -563,18 +563,18 @@
     {
       "added_at": "2026-01-23 05:00:21",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+        "name": "NATE SMITH (DELUXE)",
+        "url": "https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
         }
       ],
-      "duration_ms": 205200,
-      "name": "Heartache On The Dance Floor",
-      "url": "https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD"
+      "duration_ms": 189986,
+      "name": "World on Fire",
+      "url": "https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd"
     },
     {
       "added_at": "2026-01-23 05:00:21",
@@ -631,18 +631,18 @@
     {
       "added_at": "2026-01-23 05:00:21",
       "album": {
-        "name": "The Big Revival",
-        "url": "https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam"
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
       "artists": [
         {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 182982,
-      "name": "American Kids",
-      "url": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV"
+      "duration_ms": 172253,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I"
     },
     {
       "added_at": "2026-01-23 05:00:21",
@@ -663,18 +663,18 @@
     {
       "added_at": "2026-01-23 05:00:21",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+        "name": "The Big Revival",
+        "url": "https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
         }
       ],
-      "duration_ms": 172253,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I"
+      "duration_ms": 182982,
+      "name": "American Kids",
+      "url": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV"
     },
     {
       "added_at": "2026-01-23 05:00:21",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-01-23 05:00:21",
       "album": {
-        "name": "weren't for the wind",
-        "url": "https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "weren't for the wind",
-      "url": "https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl"
-    },
-    {
-      "added_at": "2026-01-23 05:00:21",
-      "album": {
         "name": "Lee Brice",
         "url": "https://open.spotify.com/album/3GyH4lUfzEkbxlaW5xTYYL"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 198440,
       "name": "Rumor",
       "url": "https://open.spotify.com/track/56eGOeSsqdg3FLxdo83TwV"
+    },
+    {
+      "added_at": "2026-01-23 05:00:21",
+      "album": {
+        "name": "weren't for the wind",
+        "url": "https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 193666,
+      "name": "weren't for the wind",
+      "url": "https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl"
     },
     {
       "added_at": "2026-01-23 05:00:21",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-01-23 05:00:21",
       "album": {
-        "name": "Body Like A Back Road",
-        "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 165386,
-      "name": "Body Like A Back Road",
-      "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
-    },
-    {
-      "added_at": "2026-01-23 05:00:21",
-      "album": {
         "name": "Dig Your Roots",
         "url": "https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 226173,
       "name": "May We All",
       "url": "https://open.spotify.com/track/498ZVInMGDkmmNVpSWqHiZ"
+    },
+    {
+      "added_at": "2026-01-23 05:00:21",
+      "album": {
+        "name": "Body Like A Back Road",
+        "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 165386,
+      "name": "Body Like A Back Road",
+      "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
     },
     {
       "added_at": "2026-01-23 05:00:21",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-01-23 05:00:21",
       "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 233869,
-      "name": "Burn It Down",
-      "url": "https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW"
-    },
-    {
-      "added_at": "2026-01-23 05:00:21",
-      "album": {
         "name": "DEVIL YOU KNOW",
         "url": "https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 192693,
       "name": "DEVIL YOU KNOW",
       "url": "https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q"
+    },
+    {
+      "added_at": "2026-01-23 05:00:21",
+      "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 233869,
+      "name": "Burn It Down",
+      "url": "https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW"
     },
     {
       "added_at": "2026-01-23 05:00:21",
@@ -1679,6 +1679,26 @@
     {
       "added_at": "2026-01-23 05:00:21",
       "album": {
+        "name": "The Mountain",
+        "url": "https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        },
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 238493,
+      "name": "Burning Man",
+      "url": "https://open.spotify.com/track/4a1oIihVt6xSnDRpgX387M"
+    },
+    {
+      "added_at": "2026-01-23 05:00:21",
+      "album": {
         "name": "Friends Like That (feat. Jason Aldean)",
         "url": "https://open.spotify.com/album/3Pfcc6AxszeBvZyMzKlRCs"
       },
@@ -1715,22 +1735,18 @@
     {
       "added_at": "2026-01-23 05:00:21",
       "album": {
-        "name": "The Mountain",
-        "url": "https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO"
+        "name": "Happy Endings",
+        "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
       },
       "artists": [
         {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        },
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
         }
       ],
-      "duration_ms": 238493,
-      "name": "Burning Man",
-      "url": "https://open.spotify.com/track/4a1oIihVt6xSnDRpgX387M"
+      "duration_ms": 167653,
+      "name": "Hotel Key",
+      "url": "https://open.spotify.com/track/33471tzU1VghDg9zNgGRpz"
     },
     {
       "added_at": "2026-01-23 05:00:21",
@@ -1747,22 +1763,6 @@
       "duration_ms": 179720,
       "name": "23",
       "url": "https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF"
-    },
-    {
-      "added_at": "2026-01-23 05:00:21",
-      "album": {
-        "name": "Happy Endings",
-        "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 167653,
-      "name": "Hotel Key",
-      "url": "https://open.spotify.com/track/33471tzU1VghDg9zNgGRpz"
     },
     {
       "added_at": "2026-01-23 05:00:21",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2026-01-23 05:00:21",
       "album": {
-        "name": "Straight Outta The Country",
-        "url": "https://open.spotify.com/album/1rW4SdSGRziYMzyteohUwP"
-      },
-      "artists": [
-        {
-          "name": "Justin Moore",
-          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
-        }
-      ],
-      "duration_ms": 174837,
-      "name": "We Didn't Have Much",
-      "url": "https://open.spotify.com/track/0Iuw6WPws324i7G7sCejTX"
-    },
-    {
-      "added_at": "2026-01-23 05:00:21",
-      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 172480,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt"
+    },
+    {
+      "added_at": "2026-01-23 05:00:21",
+      "album": {
+        "name": "Straight Outta The Country",
+        "url": "https://open.spotify.com/album/1rW4SdSGRziYMzyteohUwP"
+      },
+      "artists": [
+        {
+          "name": "Justin Moore",
+          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        }
+      ],
+      "duration_ms": 174837,
+      "name": "We Didn't Have Much",
+      "url": "https://open.spotify.com/track/0Iuw6WPws324i7G7sCejTX"
     },
     {
       "added_at": "2026-01-23 05:00:21",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2026-01-23 05:00:21",
       "album": {
-        "name": "Can't Have Mine (Find You A Girl)",
-        "url": "https://open.spotify.com/album/7lUEiaMZBxdemzqieZw2jx"
-      },
-      "artists": [
-        {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
-        }
-      ],
-      "duration_ms": 183087,
-      "name": "Can't Have Mine (Find You A Girl)",
-      "url": "https://open.spotify.com/track/4q9NEq8kUmSZwtNsxL2KJN"
-    },
-    {
-      "added_at": "2026-01-23 05:00:21",
-      "album": {
         "name": "One Mississippi",
         "url": "https://open.spotify.com/album/3VCaKLIlIDrfKvurZcTmBl"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 213718,
       "name": "One Mississippi",
       "url": "https://open.spotify.com/track/4FdPnT2cFrpWCmWZd7GXc3"
+    },
+    {
+      "added_at": "2026-01-23 05:00:21",
+      "album": {
+        "name": "Can't Have Mine (Find You A Girl)",
+        "url": "https://open.spotify.com/album/7lUEiaMZBxdemzqieZw2jx"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "duration_ms": 183087,
+      "name": "Can't Have Mine (Find You A Girl)",
+      "url": "https://open.spotify.com/track/4q9NEq8kUmSZwtNsxL2KJN"
     },
     {
       "added_at": "2026-01-23 05:00:21",

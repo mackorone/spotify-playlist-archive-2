@@ -4,7 +4,7 @@
 
 > Get your beast mode on!
 
-1,456 songs - 3 day 6 hr 25 min
+1,457 songs - 3 day 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [Bricks](https://open.spotify.com/track/6VJD8tzKgfQjxy8SwneeOX) | [Carnage](https://open.spotify.com/artist/7CCjtD0hCK005Bvg2WG1a7), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Papi Gordo](https://open.spotify.com/album/4YlVZDAPmGGRneJh8Bx8Oy) | 4:24 | 2020-05-30 | 2020-10-20 |
 | [Bricks \(feat\. Migos\)](https://open.spotify.com/track/76OSY26fhv9aJ0WZTezF34) | [Carnage](https://open.spotify.com/artist/7CCjtD0hCK005Bvg2WG1a7), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Papi Gordo](https://open.spotify.com/album/6AFct76pAIPVHMuOHA80YE) | 4:24 | 2019-07-18 | 2019-08-27 |
 | [Brincando](https://open.spotify.com/track/2WkUUcf59RsUoDASKSQEEX) | [DJ Willie](https://open.spotify.com/artist/6HtBdwBYa6nqQl6qVSRr1q), [Alex Lyng](https://open.spotify.com/artist/3GMgrCCJE4McfEIcgQCfKA) | [Brincando](https://open.spotify.com/album/3aODPVAlTVHfS92cEyRxny) | 3:01 | 2019-07-06 | 2019-08-13 |
-| [BRONCEADOR](https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [BRONCEADOR](https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF) | 2:29 | 2025-07-25 |  |
+| [BRONCEADOR](https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [BRONCEADOR](https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF) | 2:29 | 2025-07-25 | 2026-02-28 |
 | [BRUH?!](https://open.spotify.com/track/0JkefbVPYQZmNxVV57gFYB) | [Herobust](https://open.spotify.com/artist/43tAs3kRWvyu1B7eZOv2pp) | [BRUH?!](https://open.spotify.com/album/1pBOasitmzDtjC56ab20jD) | 3:44 | 2019-06-24 | 2019-10-23 |
 | [BUBBLEGUM](https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [BUBBLEGUM](https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe) | 2:28 | 2023-01-06 | 2023-08-12 |
 | [Buchla 100](https://open.spotify.com/track/6h71Iz2C3FlahJqC05YfjB) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Buchla 100](https://open.spotify.com/album/0UoFHOQEl7YUxBtykpHbxZ) | 4:47 | 2020-05-17 | 2020-05-18 |
@@ -388,6 +388,7 @@
 | [Eu Sento Gabu!](https://open.spotify.com/track/24WBge8e53iDTeXOtVB02s) | [PXLWYSE](https://open.spotify.com/artist/6OwbqUSj4XbZdjexPsKkdH) | [Eu Sento Gabu!](https://open.spotify.com/album/51F5iHYpECc8dd9Wjqv15o) | 1:23 | 2024-11-08 |  |
 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 | 2024-05-08 |  |
 | [Even If It Kills Me](https://open.spotify.com/track/06dBzUBULISVMFBeNKbbRA) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Even If It Kills Me](https://open.spotify.com/album/5xkM5c1gLbEp8UgIx4WV0x) | 3:32 | 2025-05-02 |  |
+| [Ever Since U Left Me \(I Went Deaf\)](https://open.spotify.com/track/5ehgf6op0j2sE4lqjiTkMY) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Max B](https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9) | [Coke Wave 3.5: Narcos](https://open.spotify.com/album/2YUs8GbMrKBcpGF7ElDHJE) | 2:16 | 2026-02-27 |  |
 | [EVERY CHANCE I GET \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:56 | 2021-05-05 | 2022-11-19 |
 | [Everybody](https://open.spotify.com/track/5N5hZYTM1yEFUw29fLWuaI) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [Lights Out](https://open.spotify.com/album/32LkH1jXB0Vu6Fx7IGs153) | 3:50 | 2019-09-13 | 2019-10-23 |
 | [Everybody \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:00 | 2023-12-08 | 2025-07-19 |

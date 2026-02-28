@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 
 > Christian & Gospel songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,720 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,753 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 9 | [God's Not Dead \(Like A Lion\)](https://open.spotify.com/track/78ZVdXS1Ow5ztK5oeTgdbz) | [Capitol Kids!](https://open.spotify.com/artist/2R5LUhq3xVJxlh52uh4szt) | [Capitol Kids! Hits](https://open.spotify.com/album/0NYwFMOCc1aQjeXtZ2L3T3) | 4:14 |
 | 10 | [The Lord Is My Shepherd \(Psalm 23\)](https://open.spotify.com/track/10N1zPRXpTHQ03XYR7bY1A) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [The Lord Is My Shepherd \(Psalm 23\)](https://open.spotify.com/album/1jmEcftZVoVodlENQQytLi) | 2:04 |
 | 11 | [I'm So Blessed \(Kids Version\)](https://open.spotify.com/track/68hSNh609axwveqPvsPgGQ) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [I'm So Blessed \(Kids Version\)](https://open.spotify.com/album/6u8pIu6yjPPcKGKCS1Q3wQ) | 3:48 |
-| 12 | [For Your Glory](https://open.spotify.com/track/4gOCIPrqrz8MtSoWIAodOK) | [Elevation Church Kids](https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5) | [Undefeated](https://open.spotify.com/album/3RFbBkA8LcMv0ROS56SL1I) | 3:30 |
-| 13 | [Philippians 4:13](https://open.spotify.com/track/1TltafkWVlwit9fbXPfdx0) | [KidSpring](https://open.spotify.com/artist/1Aq18oenssiyNyaK5erdoc) | [Philippians 4:13](https://open.spotify.com/album/5RP748yMgX2tbUD7FWuIIW) | 2:00 |
+| 12 | [Philippians 4:13](https://open.spotify.com/track/1TltafkWVlwit9fbXPfdx0) | [KidSpring](https://open.spotify.com/artist/1Aq18oenssiyNyaK5erdoc) | [Philippians 4:13](https://open.spotify.com/album/5RP748yMgX2tbUD7FWuIIW) | 2:00 |
+| 13 | [For Your Glory](https://open.spotify.com/track/4gOCIPrqrz8MtSoWIAodOK) | [Elevation Church Kids](https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5) | [Undefeated](https://open.spotify.com/album/3RFbBkA8LcMv0ROS56SL1I) | 3:30 |
 | 14 | [God Be With You Til We Meet Again](https://open.spotify.com/track/1z7pM2McaOzIhwbac3NqM0) | [Sing Hosanna](https://open.spotify.com/artist/0DAvDMISBhtMkP4XIMMCs4) | [God Be With You Til We Meet Again](https://open.spotify.com/album/4lUY2FB6ypdlFrxzC5Z4Yg) | 3:12 |
 | 15 | [Jesus Loves Me](https://open.spotify.com/track/70AOGWKZWH7cuiNnaTiTZ5) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [Jesus Loves Me](https://open.spotify.com/album/3KOm9XWmIqqVmGbcovRnUS) | 1:26 |
 | 16 | [Brave](https://open.spotify.com/track/4IpWEf6JwSGVSW3nC1SG10) | [Saddleback Kids Worship](https://open.spotify.com/artist/3JmOsw9Th41J8BDZ7QGM63), [Temree Miller](https://open.spotify.com/artist/11gZoyWLqqzejm5tmoDZke) | [Brave Performance Tracks](https://open.spotify.com/album/38i0L7rD9dn8eW9LlBXjvc) | 3:28 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 48 | [Let It Rise](https://open.spotify.com/track/1DvX3oEER1H4KV2LWvAnlI) | [Maranatha! Kids](https://open.spotify.com/artist/40JuNvEnk3vufsyLg9WX5n) | [Top 25 Kids' Praise Songs 2012](https://open.spotify.com/album/4LQGT35YB9CxVcSSp5NnbJ) | 3:33 |
 | 49 | [Give Me Oil In My Lamp](https://open.spotify.com/track/0yzwHHM7jOWmC9fBUxWePf) | [3 Little Words](https://open.spotify.com/artist/23K2JBtvsNQYioId55a62H) | [Give Me Oil In My Lamp](https://open.spotify.com/album/5710M92hn0jDFel2kencbw) | 2:48 |
 | 50 | [Don't Forget \(Psalm 103\) \- Live](https://open.spotify.com/track/0vby1DkoToYD05zGRLeoWA) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ) | [Worship in the Word, Vol\. 3 \(Live\)](https://open.spotify.com/album/2xj1Lu3FycIfZQNkZhmS9n) | 4:23 |
-| 51 | [Forever](https://open.spotify.com/track/3O1PxSSRd6WbhbEAhnE5JZ) | [Kids Worship Performers](https://open.spotify.com/artist/5FjG20GrL65IRBtxWMua2I) | [Kids Worship](https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc) | 4:52 |
-| 52 | [Books of the Bible \(New Testament\)](https://open.spotify.com/track/5fa31FMLK0fKw4JOlTW3Hc) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [100 Songs from the Bible](https://open.spotify.com/album/7oGhvfmDTZ6ULhIF28Piky) | 2:14 |
+| 51 | [Books of the Bible \(New Testament\)](https://open.spotify.com/track/5fa31FMLK0fKw4JOlTW3Hc) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [100 Songs from the Bible](https://open.spotify.com/album/7oGhvfmDTZ6ULhIF28Piky) | 2:14 |
+| 52 | [Forever](https://open.spotify.com/track/3O1PxSSRd6WbhbEAhnE5JZ) | [Kids Worship Performers](https://open.spotify.com/artist/5FjG20GrL65IRBtxWMua2I) | [Kids Worship](https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc) | 4:52 |
 | 53 | [God Is So Good](https://open.spotify.com/track/75Bunn94DbQP7xgwdfXzu8) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Thank You Jesus](https://open.spotify.com/album/1JB2VmkBVE3SQOKPj6Z4uh) | 2:41 |
 | 54 | [Bible Verses](https://open.spotify.com/track/4vGcw8KkaT7Kku6XiQkJPG) | [Jesus Loves Me This I Know](https://open.spotify.com/artist/1UZbrri7CXJ15wMZbLczgU), [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Bible Verses](https://open.spotify.com/album/5MaTb83UTPVSSD1KYqBVIL) | 2:11 |
 | 55 | [\(Blessed Be\) The Name of the Lord](https://open.spotify.com/track/42TyWK07EJU2uvOJgTQHp7) | [African Children's Choir](https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud) | [Top 50 Kids' Praise! Company](https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg) | 2:55 |

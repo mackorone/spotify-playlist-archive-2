@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Couple Friendly",
-  "num_followers": 167838,
+  "num_followers": 167899,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOMCfG3nGGZx54SvASc9tpE8DJsv",
+  "snapshot_id": "AAAAAICxOusUSyO36zazDRqEHuLz/h3U",
   "tracks": [
     {
       "added_at": "2026-02-16 10:27:02",
@@ -31,6 +31,30 @@
       "duration_ms": 148909,
       "name": "Naato Raa Ila",
       "url": "https://open.spotify.com/track/6NT6Lt7OfpOedFvP1w9jdK"
+    },
+    {
+      "added_at": "2026-02-27 10:46:56",
+      "album": {
+        "name": "Rubaroo (From \"Dacoit\")",
+        "url": "https://open.spotify.com/album/6TTQVaiOWeUZIdnF1voJRJ"
+      },
+      "artists": [
+        {
+          "name": "Bheems Ceciroleo",
+          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "name": "Bhaskarabhatla",
+          "url": "https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu"
+        }
+      ],
+      "duration_ms": 195999,
+      "name": "Rubaroo (From \"Dacoit\")",
+      "url": "https://open.spotify.com/track/3M3bCnAOydcZJ0pCUi04Qc"
     },
     {
       "added_at": "2026-02-24 08:53:31",
@@ -1187,26 +1211,6 @@
       "duration_ms": 176000,
       "name": "Padipoya",
       "url": "https://open.spotify.com/track/0Emzz8mcBafVhb7jgrtSmh"
-    },
-    {
-      "added_at": "2025-06-03 05:36:27",
-      "album": {
-        "name": "Nuvva Nuvva",
-        "url": "https://open.spotify.com/album/42rQhTsW9TqHZOjhErIhTi"
-      },
-      "artists": [
-        {
-          "name": "Priyadarshan Balasubramanian",
-          "url": "https://open.spotify.com/artist/3h6fcAII4NEJ5oPu3VUEdH"
-        },
-        {
-          "name": "Dinker kalvala",
-          "url": "https://open.spotify.com/artist/7HwltF8ExwWx43i230aJXM"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Nuvva Nuvva",
-      "url": "https://open.spotify.com/track/1MeL5yFopGk5o4TYxFRhtQ"
     },
     {
       "added_at": "2025-12-16 06:29:21",

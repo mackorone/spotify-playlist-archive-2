@@ -2034,7 +2034,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 301800,
       "name": "Laykoon (\u0644\u064a\u0643\u0648\u0646)",
       "url": "https://open.spotify.com/track/2FQroMa87w4nlBhhdDre3J"
@@ -2350,6 +2350,28 @@
       "duration_ms": 184633,
       "name": "Manakir",
       "url": "https://open.spotify.com/track/3q1rNrHQoxvzbC0okaKt7C"
+    },
+    {
+      "album": {
+        "name": "Manhoos - \u0645\u0646\u062d\u0648\u0633",
+        "url": "https://open.spotify.com/album/4omvlnsti7eubDc65kTKmz"
+      },
+      "artists": [
+        {
+          "name": "Maii Waleed",
+          "url": "https://open.spotify.com/artist/1e9RnsEdnC3LG7vHcAozc8"
+        },
+        {
+          "name": "Zeid Hamdan",
+          "url": "https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188686,
+      "name": "Manhoos - \u0645\u0646\u062d\u0648\u0633",
+      "url": "https://open.spotify.com/track/5lYSkHKGVBzPNRyVtLpORG"
     },
     {
       "album": {

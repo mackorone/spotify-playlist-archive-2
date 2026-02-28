@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek! Omslag: Leah",
+  "description": "Net die beste Afrikaanse musiek! Omslag: GSTRiNG",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 232153,
       "name": "Country Probeer",
       "url": "https://open.spotify.com/track/4bFnQ3DOwIckGfcKYQHdVN"
@@ -3745,6 +3745,24 @@
     },
     {
       "album": {
+        "name": "Lenie Blou",
+        "url": "https://open.spotify.com/album/6krZkJORCAZDFizJ1Op5XJ"
+      },
+      "artists": [
+        {
+          "name": "GSTRiNG",
+          "url": "https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180952,
+      "name": "Lenie Blou",
+      "url": "https://open.spotify.com/track/5O17tIhBU2Z3JGzrJPR11k"
+    },
+    {
+      "album": {
         "name": "Swaartekrag",
         "url": "https://open.spotify.com/album/6KykLYdne818aTl3ogcYSt"
       },
@@ -4728,7 +4746,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 176250,
       "name": "OE LA LA!",
       "url": "https://open.spotify.com/track/18zPDP4ryJxBUaWg6MEQCD"
@@ -6888,7 +6906,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 187094,
       "name": "Witblits",
       "url": "https://open.spotify.com/track/5bJEHJ8BPTn7dYM7EYmwvE"

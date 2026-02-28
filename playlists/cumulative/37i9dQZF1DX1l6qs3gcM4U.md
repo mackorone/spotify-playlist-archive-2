@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Yasmine
 
-647 songs - 1 day 13 hr 11 min
+649 songs - 1 day 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Conheci o Amor](https://open.spotify.com/track/33My8GyioKzo0iy4ozDUN5) | [Mylson](https://open.spotify.com/artist/6aJR2QPqDVcIcBtVSFIb9Y) | [Conheci o Amor](https://open.spotify.com/album/3b7FhBYepOsYUtwo2CHOQc) | 3:16 | 2025-05-29 | 2025-06-17 |
 | [Contigo](https://open.spotify.com/track/2OTVKuQcr2PnW2O1b99WJL) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW), [Noninho Navarro](https://open.spotify.com/artist/4Upsc5DYZ209aRDVIAgbrm) | [Contigo](https://open.spotify.com/album/2Y3M8GGPlGUR6zT0Rm8Fkr) | 3:19 | 2025-05-22 |  |
 | [Contra Probabilidades](https://open.spotify.com/track/5nYYQ85x9DwEiEpETQNlNC) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Contra Probabilidades](https://open.spotify.com/album/2w1V6Gjc1HVZ6TGYMlzqT8) | 3:23 | 2024-06-20 | 2024-07-02 |
-| [Control](https://open.spotify.com/track/3WQxc2F2C57eqs57YJgEcZ) | [Black Spygo](https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY), [Chelsea Dinorath](https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [Black Vision](https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ) | [Control](https://open.spotify.com/album/6xxYj7XEsGGquc3DSbUf7L) | 3:27 | 2023-09-21 |  |
+| [Control](https://open.spotify.com/track/3WQxc2F2C57eqs57YJgEcZ) | [Black Spygo](https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY), [Chelsea Dinorath](https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [Black Vision](https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ) | [Control](https://open.spotify.com/album/6xxYj7XEsGGquc3DSbUf7L) | 3:27 | 2023-09-21 | 2026-02-28 |
 | [Controla](https://open.spotify.com/track/5HklSSXf2c6m3yT0RM2mc0) | [CESF](https://open.spotify.com/artist/2vuYAHr48feo9PXfmvpNsW), [Elji Beatzkilla](https://open.spotify.com/artist/04EppuwbkCAhuLAVvYbqDJ) | [Controla](https://open.spotify.com/album/0zlQ4trEx94PCK5gDTwnkZ) | 2:40 | 2025-04-17 | 2025-05-23 |
 | [Corno](https://open.spotify.com/track/1siCdFLHxIxRguAO1Q7NND) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Esperado](https://open.spotify.com/album/53WRpFhBqEq4McKmLeURPr) | 3:30 | 2023-08-31 | 2024-04-12 |
 | [Corno](https://open.spotify.com/track/35wFDFtEwQesgr9ppW9s57) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Corno](https://open.spotify.com/album/301VhYBzUrqt9del8BwzD7) | 3:30 | 2022-02-14 | 2022-07-27 |
@@ -472,6 +472,7 @@
 | [Quem É ?](https://open.spotify.com/track/0SY4UXTIPkVlyGWFJhKMcY) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Quem É ?](https://open.spotify.com/album/0WYtQwKFvonkmJG6z32Ebj) | 3:19 | 2021-12-10 | 2022-10-21 |
 | [Queres ou não queres?](https://open.spotify.com/track/2FQzy6dhqQH4u5CSDMgQmI) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Queres ou não queres?](https://open.spotify.com/album/3p4b4XsYmD6WHCBcl80h2c) | 2:33 | 2023-11-10 | 2023-12-14 |
 | [Quero Mais](https://open.spotify.com/track/3zaEXNek7bbObqAV7RibL0) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Retrato](https://open.spotify.com/album/0Y8BgyJOGJysXefDgdvsOr) | 3:36 | 2023-04-13 | 2023-05-19 |
+| [Quero Mais](https://open.spotify.com/track/4oeSPyT7VejCz5duJ1lwnV) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Libra](https://open.spotify.com/album/4LdlwdEpvdicYhV7SC5qsi) | 2:37 | 2026-02-27 |  |
 | [Quero Mais Love \(feat\. Stonebwoy\)](https://open.spotify.com/track/5gM4UYTTTcVyg7KsPAbyGR) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Quero Mais Love \(feat\. Stonebwoy\)](https://open.spotify.com/album/59c0K1jO386j2UlHJLNklt) | 3:26 | 2022-03-25 | 2022-04-21 |
 | [Rainha](https://open.spotify.com/track/3y8Un4QcNTLwAIIgOroXzf) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w), [Elji Beatzkilla](https://open.spotify.com/artist/04EppuwbkCAhuLAVvYbqDJ) | [Visão](https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d) | 3:55 | 2022-01-14 | 2023-03-28 |
 | [Ramantxada](https://open.spotify.com/track/5RooLX6VQF9SWI4avrDPoT) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Ramantxada](https://open.spotify.com/album/33lNwEO011Rmow3JyX4eM7) | 2:51 | 2024-06-27 | 2025-09-19 |
@@ -550,6 +551,7 @@
 | [Te Amo](https://open.spotify.com/track/5AAwjKOObk8GPQBv2nPUhy) | [Irmãos Verdades](https://open.spotify.com/artist/1mlqcEb9dU0dPTM63Jhgmr) | [Te Amo](https://open.spotify.com/album/3OU2BXNEAWP74xw2FisAvE) | 3:33 | 2022-01-27 | 2024-05-21 |
 | [Te Amo Meu Bebê](https://open.spotify.com/track/1pFD26mT7p5bE0J6uzOhld) | [Mr\. KIZOMBA](https://open.spotify.com/artist/6L5p4GE1qD7ELAI9rk8iI7) | [Te Amo Meu Bebê](https://open.spotify.com/album/3bQUfrHNJGs6tbrv1Ps4lF) | 4:13 | 2025-09-26 | 2025-10-24 |
 | [Te Amo Tanto](https://open.spotify.com/track/3syibMhmDhttEP0TMH6cBd) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Te Amo Tanto](https://open.spotify.com/album/4dixo3rNF8P3i0IazGXqFj) | 3:02 | 2021-12-10 | 2025-03-28 |
+| [Te Avisei](https://open.spotify.com/track/2MnGRWPN0GXLajqzxBCUqq) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [Shalom Beatz](https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI) | [Te Avisei](https://open.spotify.com/album/517j90MdtPA3dGrWmSGiyi) | 2:46 | 2026-02-27 |  |
 | [Tellin Me Something](https://open.spotify.com/track/1t7c0mGQEW3UlF1L50B7ez) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Dpos D' Quarentena](https://open.spotify.com/album/2pJvQDF4JlJoh2lmIB17FZ) | 2:47 | 2023-12-15 | 2024-04-19 |
 | [Tellin Me Something](https://open.spotify.com/track/25NM2Mrlz8NTm82HIOzeck) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Tellin Me Something](https://open.spotify.com/album/4pqUdkYZOgXe1WfETwoIVI) | 2:47 | 2021-12-10 | 2023-12-09 |
 | [Tem Que Saber](https://open.spotify.com/track/5V9p06Za7Bi99cFE23J6JE) | [Dream Boyz](https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf) | [Tem Que Saber](https://open.spotify.com/album/1AhbaZzBNnFYX6omOAD5Va) | 3:48 | 2025-07-11 | 2025-09-05 |

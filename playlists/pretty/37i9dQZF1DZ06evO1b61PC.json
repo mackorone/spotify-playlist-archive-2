@@ -1,12 +1,12 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 11380,
+  "num_followers": 11378,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAAAsJYc0JwGweJbPSsJ2GdoH",
+  "snapshot_id": "aZ+NAAAAAAB/IVgQEl5QKoHwIPPha+ok",
   "tracks": [
     {
       "added_at": null,
@@ -107,26 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moon Rider (feat. Wrabel)",
-        "url": "https://open.spotify.com/album/7BabZSvjym8he0rkorBY3v"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "WRABEL",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Moon Rider (feat. Wrabel)",
-      "url": "https://open.spotify.com/track/3U1lhPo6Gpd7URhJyZJtAr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/72iKM3lr1uD9dMu20pjTYn"
       },
@@ -143,6 +123,26 @@
       "duration_ms": 223058,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/6ATcx30cyXfzIPg2nZ3WJI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moon Rider (feat. Wrabel)",
+        "url": "https://open.spotify.com/album/7BabZSvjym8he0rkorBY3v"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "WRABEL",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Moon Rider (feat. Wrabel)",
+      "url": "https://open.spotify.com/track/3U1lhPo6Gpd7URhJyZJtAr"
     },
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hikikomori",
+        "url": "https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 162171,
+      "name": "Hikikomori - Demo",
+      "url": "https://open.spotify.com/track/2Ot9AdHrKtBZbNRuGqI8hO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Red Eye Home",
         "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 209142,
       "name": "Water Sign (feat. Aluna)",
       "url": "https://open.spotify.com/track/5P1WwERubwLGRt2Vz5nY6q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hikikomori",
-        "url": "https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 162171,
-      "name": "Hikikomori - Demo",
-      "url": "https://open.spotify.com/track/2Ot9AdHrKtBZbNRuGqI8hO"
     },
     {
       "added_at": null,

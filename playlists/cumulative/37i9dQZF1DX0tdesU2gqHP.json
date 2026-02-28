@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "DEADLINE",
+        "url": "https://open.spotify.com/album/2SrWldMz9dfCB7kAGQNbcC"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195402,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/0mYa3o6tlUN5HRippmKmwH"
+    },
+    {
+      "album": {
         "name": "COLOR OUTSIDE THE LINES",
         "url": "https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf"
       },
@@ -806,6 +824,24 @@
       "duration_ms": 339410,
       "name": "Rein Me In (with Olivia Dean)",
       "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"
+    },
+    {
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204068,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
     },
     {
       "album": {

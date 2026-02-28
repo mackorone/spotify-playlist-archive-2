@@ -41,6 +41,32 @@
     },
     {
       "album": {
+        "name": "3SOME",
+        "url": "https://open.spotify.com/album/0q3DuxifpmTxljvh7cUt1K"
+      },
+      "artists": [
+        {
+          "name": "Chzter",
+          "url": "https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj"
+        },
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        },
+        {
+          "name": "angely2k",
+          "url": "https://open.spotify.com/artist/4gt3Ws8Q3RY6yabs4U5Egl"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "3SOME",
+      "url": "https://open.spotify.com/track/2yqLYNfSjy633HSNTNAU3s"
+    },
+    {
+      "album": {
         "name": "MALPORTADA",
         "url": "https://open.spotify.com/album/2GyPbr8Mr9VRu851m1P2OG"
       },
@@ -784,7 +810,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 189223,
       "name": "CH\u00c9VERE (joes\u00f3n_type_beat)",
       "url": "https://open.spotify.com/track/5OQCghydcEeA76eGdJ6GEa"
@@ -806,7 +832,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 219989,
       "name": "CH\u00c9VERE (premium_remix)",
       "url": "https://open.spotify.com/track/3CBEVPwR3kUXDoTx1lqFUQ"
@@ -1039,6 +1065,24 @@
     },
     {
       "album": {
+        "name": "i Music Listen",
+        "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
+      },
+      "artists": [
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203865,
+      "name": "cu\u00eddame de mi",
+      "url": "https://open.spotify.com/track/3rHnzhfozKEQ8p414MPW9F"
+    },
+    {
+      "album": {
         "name": "Devoto",
         "url": "https://open.spotify.com/album/417TYUiFFmZrHLGkTOTuJV"
       },
@@ -1098,6 +1142,28 @@
       "duration_ms": 143935,
       "name": "DISPARA ***",
       "url": "https://open.spotify.com/track/6r0TaoZh1Oc1KkuL4rC1kB"
+    },
+    {
+      "album": {
+        "name": "Distinto",
+        "url": "https://open.spotify.com/album/0a505H49Qu64xAf5mfNMB7"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165110,
+      "name": "Distinto",
+      "url": "https://open.spotify.com/track/3ozopXR7pzz7Mr5z04rK1U"
     },
     {
       "album": {
@@ -2796,7 +2862,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 142080,
       "name": "OK!",
       "url": "https://open.spotify.com/track/2JfLUnzIy19ArqhjjtNP2n"
@@ -3378,7 +3444,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 214945,
       "name": "Shakira: Bzrp Music Sessions, Vol. 53/66",
       "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
@@ -4008,7 +4074,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 120000,
       "name": "\u65e5\u672c Borracha de Poder",
       "url": "https://open.spotify.com/track/5mRITqjNPe3BLg62nwPY1F"

@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover:  Lekaa, Omah Lay, ODUMODUBLVCK",
-  "num_followers": 636357,
+  "num_followers": 636367,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,22 @@
     {
       "added_at": "2026-02-27 00:01:23",
       "album": {
+        "name": "Bout U",
+        "url": "https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 163481,
+      "name": "Bout U",
+      "url": "https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh"
+    },
+    {
+      "added_at": "2026-02-27 00:01:23",
+      "album": {
         "name": "Morayo",
         "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 205373,
       "name": "Slow (feat. Ana\u00efs Cardot)",
       "url": "https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw"
-    },
-    {
-      "added_at": "2026-02-27 00:01:23",
-      "album": {
-        "name": "Bout U",
-        "url": "https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 163481,
-      "name": "Bout U",
-      "url": "https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh"
     },
     {
       "added_at": "2026-02-27 00:01:23",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-02-27 00:01:23",
       "album": {
+        "name": "All The Love",
+        "url": "https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 188127,
+      "name": "All The Love",
+      "url": "https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl"
+    },
+    {
+      "added_at": "2026-02-27 00:01:23",
+      "album": {
         "name": "Morayo",
         "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 174253,
       "name": "Bad Girl (feat. Asake)",
       "url": "https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy"
-    },
-    {
-      "added_at": "2026-02-27 00:01:23",
-      "album": {
-        "name": "All The Love",
-        "url": "https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 188127,
-      "name": "All The Love",
-      "url": "https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl"
     },
     {
       "added_at": "2026-02-27 00:01:23",
@@ -815,26 +815,6 @@
     {
       "added_at": "2026-02-27 00:01:23",
       "album": {
-        "name": "PITY THIS BOY",
-        "url": "https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "PITY THIS BOY (with Victony)",
-      "url": "https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6"
-    },
-    {
-      "added_at": "2026-02-27 00:01:23",
-      "album": {
         "name": "ONE CALL",
         "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 158712,
       "name": "ONE CALL",
       "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
+    },
+    {
+      "added_at": "2026-02-27 00:01:23",
+      "album": {
+        "name": "PITY THIS BOY",
+        "url": "https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "PITY THIS BOY (with Victony)",
+      "url": "https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6"
     },
     {
       "added_at": "2026-02-27 00:01:23",
@@ -951,22 +951,18 @@
     {
       "added_at": "2026-02-27 00:01:23",
       "album": {
-        "name": "My Dealer",
-        "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
       },
       "artists": [
         {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 148297,
-      "name": "My Dealer",
-      "url": "https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM"
+      "duration_ms": 137631,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
     },
     {
       "added_at": "2026-02-27 00:01:23",
@@ -991,18 +987,22 @@
     {
       "added_at": "2026-02-27 00:01:23",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
+        "name": "My Dealer",
+        "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 137631,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
+      "duration_ms": 148297,
+      "name": "My Dealer",
+      "url": "https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM"
     },
     {
       "added_at": "2026-02-27 00:01:23",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2026-02-27 00:01:23",
       "album": {
+        "name": "Olamid\u00e9",
+        "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 170191,
+      "name": "Luvaluvah",
+      "url": "https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak"
+    },
+    {
+      "added_at": "2026-02-27 00:01:23",
+      "album": {
         "name": "Tanko (feat. Terry G)",
         "url": "https://open.spotify.com/album/7FyAwmXXi3r1fwJZI7HZXN"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 227533,
       "name": "Tanko (feat. Terry G)",
       "url": "https://open.spotify.com/track/3XoYWo0jdGq0T25KfNIr3L"
-    },
-    {
-      "added_at": "2026-02-27 00:01:23",
-      "album": {
-        "name": "Olamid\u00e9",
-        "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 170191,
-      "name": "Luvaluvah",
-      "url": "https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak"
     }
   ],
   "unique_name": "Afropop",

@@ -1527,6 +1527,24 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n de Oro",
+        "url": "https://open.spotify.com/album/2ue1P1zJ9G8JQGvcNTOLNg"
+      },
+      "artists": [
+        {
+          "name": "Gala Montes",
+          "url": "https://open.spotify.com/artist/0qcbuRzAu4q1oHX66qFlPJ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161480,
+      "name": "Coraz\u00f3n de Oro",
+      "url": "https://open.spotify.com/track/1p5hmYpG0r3aDwpj48jTsw"
+    },
+    {
+      "album": {
         "name": "Coraz\u00f3n Del Mar",
         "url": "https://open.spotify.com/album/7ydj8YfYKWKwXwRerPqrop"
       },
@@ -3080,7 +3098,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 242450,
       "name": "Hoy No",
       "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
@@ -3102,7 +3120,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 232221,
       "name": "Idas y Vueltas",
       "url": "https://open.spotify.com/track/5Ajw26Yo7IDiwTjDva2VIr"
@@ -4392,7 +4410,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 188600,
       "name": "Nada personal (A dueto con Ana Torroja)",
       "url": "https://open.spotify.com/track/56pm6QlEYiAQyCCidxsTSN"
@@ -4856,6 +4874,36 @@
       "duration_ms": 197000,
       "name": "Noche Sensacional",
       "url": "https://open.spotify.com/track/6L2rOHvZAwPCp2FqYmyvZ5"
+    },
+    {
+      "album": {
+        "name": "Nombre y Apellido",
+        "url": "https://open.spotify.com/album/1w2Yqtcb9tTGRx93hKSawe"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271208,
+      "name": "Nombre y Apellido",
+      "url": "https://open.spotify.com/track/5T3GPd0C19r3y4ahADtiXH"
     },
     {
       "album": {
@@ -6720,7 +6768,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 187754,
       "name": "S\u00f3lo T\u00fa",
       "url": "https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAADbBPKQhzHs4EyGF3vsk20+",
+  "snapshot_id": "aZ+NAAAAAADXLA3J37N00PYZHV9Akiqn",
   "tracks": [
     {
       "added_at": null,
@@ -199,26 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soft Error",
-        "url": "https://open.spotify.com/album/1FKp8rzndJTPygzxV8rq98"
-      },
-      "artists": [
-        {
-          "name": "Yves",
-          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
-        },
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Aibo (feat. Bratty)",
-      "url": "https://open.spotify.com/track/0hvGU0lbDt8SWfEx797LuJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KOR KOR LAKE",
         "url": "https://open.spotify.com/album/5oAqoeVSSkUgq52mNXfppk"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 193624,
       "name": "NADA ME LEVANTA",
       "url": "https://open.spotify.com/track/7npg53FrMEJC1VCdLk3seG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soft Error",
+        "url": "https://open.spotify.com/album/1FKp8rzndJTPygzxV8rq98"
+      },
+      "artists": [
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        },
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Aibo (feat. Bratty)",
+      "url": "https://open.spotify.com/track/0hvGU0lbDt8SWfEx797LuJ"
     },
     {
       "added_at": null,
@@ -515,18 +515,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Est\u00e1 Cambiando",
-        "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
+        "name": "lo q yo por ti",
+        "url": "https://open.spotify.com/album/6zEyyStAYReX0eg8BFbGYj"
       },
       "artists": [
+        {
+          "name": "Andry Kiddos",
+          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
+        },
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 238533,
-      "name": "Aqu\u00ed",
-      "url": "https://open.spotify.com/track/5ICz6prnBPOEWwFMbJ1GN6"
+      "duration_ms": 173421,
+      "name": "lo q yo por ti",
+      "url": "https://open.spotify.com/track/2o3uQ63gwh63tBn9ox2bV3"
     },
     {
       "added_at": null,
@@ -583,22 +587,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "lo q yo por ti",
-        "url": "https://open.spotify.com/album/6zEyyStAYReX0eg8BFbGYj"
+        "name": "Todo Est\u00e1 Cambiando",
+        "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
       },
       "artists": [
-        {
-          "name": "Andry Kiddos",
-          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
-        },
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 173421,
-      "name": "lo q yo por ti",
-      "url": "https://open.spotify.com/track/2o3uQ63gwh63tBn9ox2bV3"
+      "duration_ms": 238533,
+      "name": "Aqu\u00ed",
+      "url": "https://open.spotify.com/track/5ICz6prnBPOEWwFMbJ1GN6"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "tdbn (Deluxe)",
+        "url": "https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 231400,
+      "name": "tiempo",
+      "url": "https://open.spotify.com/track/0TeOSjjpN80jyyZLc4RiLn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chocolate y Nata",
         "url": "https://open.spotify.com/album/0r5bm1TyiIze1pqjpnT06w"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 181384,
       "name": "Chocolate y Nata",
       "url": "https://open.spotify.com/track/45nk1Xq2y9yobawOJ7rvE3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "tdbn (Deluxe)",
-        "url": "https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 231400,
-      "name": "tiempo",
-      "url": "https://open.spotify.com/track/0TeOSjjpN80jyyZLc4RiLn"
     },
     {
       "added_at": null,
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 193173,
-      "name": "Todo Est\u00e1 Cambiando",
-      "url": "https://open.spotify.com/track/393RjpfMsWMPSCWLxa8daD"
+      "duration_ms": 155880,
+      "name": "Before Seeing Green",
+      "url": "https://open.spotify.com/track/5QUegNZBmf8GbGz1gYWcl3"
     },
     {
       "added_at": null,
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 177906,
-      "name": "Charlie",
-      "url": "https://open.spotify.com/track/3Hb1Nmc4Bil5yyO0g03hLZ"
+      "duration_ms": 193173,
+      "name": "Todo Est\u00e1 Cambiando",
+      "url": "https://open.spotify.com/track/393RjpfMsWMPSCWLxa8daD"
     },
     {
       "added_at": null,
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 155880,
-      "name": "Before Seeing Green",
-      "url": "https://open.spotify.com/track/5QUegNZBmf8GbGz1gYWcl3"
+      "duration_ms": 177906,
+      "name": "Charlie",
+      "url": "https://open.spotify.com/track/3Hb1Nmc4Bil5yyO0g03hLZ"
     }
   ],
   "unique_name": "This Is Bratty",

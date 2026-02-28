@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "El don de cantar y componer, una playlist llena de talento. Foto: El Kanka.",
+  "description": "El don de cantar y componer, una playlist llena de talento. Foto: Andr\u00e9s Su\u00e1rez.",
   "name": "Cantautores",
   "tracks": [
     {
@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Constelator",
+        "url": "https://open.spotify.com/album/1kpdr5CBesb35NKRdFUMM5"
+      },
+      "artists": [
+        {
+          "name": "Julio Bustamante",
+          "url": "https://open.spotify.com/artist/17uCNrAYiTCTSsXfVEJANA"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194048,
+      "name": "Baladre",
+      "url": "https://open.spotify.com/track/5h39OuSvzgrUPx4o2veYwh"
+    },
+    {
+      "album": {
         "name": "Bella Ciao",
         "url": "https://open.spotify.com/album/5XYJ8jQemoSY8kkGh5AW4J"
       },
@@ -890,6 +908,24 @@
       "duration_ms": 301935,
       "name": "Blue (feat. Jorge Drexler & Joan Manuel Serrat) - Diminuto Planeta Azul",
       "url": "https://open.spotify.com/track/7wTVJmebsW20R69dbg4Vp1"
+    },
+    {
+      "album": {
+        "name": "C",
+        "url": "https://open.spotify.com/album/4azBz7iKoPjbf1llZMBvpm"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "C",
+      "url": "https://open.spotify.com/track/1UrZ15iYxDSYwXsEslWLiB"
     },
     {
       "album": {
@@ -2806,7 +2842,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 274068,
       "name": "Historia compartida",
       "url": "https://open.spotify.com/track/6zTENE7A75dlTnjvi0VMKu"
@@ -4362,7 +4398,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 173240,
       "name": "Mientras Sue\u00f1o y Vivo",
       "url": "https://open.spotify.com/track/2cW60XXZg0wFa300A57Wmn"
@@ -5160,7 +5196,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-31",
+      "date_removed": null,
       "duration_ms": 178811,
       "name": "Para Aute: Pasaba por Aqu\u00ed (feat. Abel Pintos, Carlos Rivera, Dani Martin, Estopa, Ismael Serrano, Jorge Drexler, Pedro Guerra, Silvio Rodr\u00edguez, Vanesa Martin & Xoel L\u00f3pez)",
       "url": "https://open.spotify.com/track/7D9idjcIEbErDKK2vtUM2D"
@@ -5472,7 +5508,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 242906,
       "name": "Princesa (feat. Viceversa)",
       "url": "https://open.spotify.com/track/0C1OcBOsuFmFFGkh3FWIGG"
@@ -6124,6 +6160,24 @@
       "duration_ms": 198860,
       "name": "sentimentalmente",
       "url": "https://open.spotify.com/track/5DvhhvHDnSthUXEbdeWzks"
+    },
+    {
+      "album": {
+        "name": "Ser humano",
+        "url": "https://open.spotify.com/album/5fZ1i6lPNfkaTjd7OZQpHn"
+      },
+      "artists": [
+        {
+          "name": "Sole Gimenez",
+          "url": "https://open.spotify.com/artist/56FObtReljLqgs2bgQ0kZS"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258655,
+      "name": "Ser humano",
+      "url": "https://open.spotify.com/track/2uaF06GGCnO7HzLIHkQqQC"
     },
     {
       "album": {
@@ -7396,7 +7450,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 196374,
       "name": "Vestida de mar - En Vivo",
       "url": "https://open.spotify.com/track/7ktOZb3mhcQ9ogui4CbFMc"

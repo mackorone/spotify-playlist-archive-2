@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Rock songs you need to know. Turn it  \u2b06\ufe0f Cover: PRESIDENT",
+  "description": "Rock songs you need to know. Turn it  \u2b06\ufe0f Cover: Beartooth",
   "name": "VOLUME",
   "tracks": [
     {
@@ -1217,6 +1217,24 @@
     },
     {
       "album": {
+        "name": "All For You",
+        "url": "https://open.spotify.com/album/1S2lRRUmJ4SWtiXeBK48dK"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234234,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/4JQMbQK6139mYC1osRQK0b"
+    },
+    {
+      "album": {
         "name": "Blood & Stone (Deluxe)",
         "url": "https://open.spotify.com/album/7pRVr7VwQCl5ocbCVIqsXz"
       },
@@ -2412,7 +2430,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 205281,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/6yI6Y1n34Z41GTol95JpsY"
@@ -2478,6 +2496,24 @@
       "duration_ms": 202379,
       "name": "Bad Man",
       "url": "https://open.spotify.com/track/0CGyintEvK6qL0BPvQWZ37"
+    },
+    {
+      "album": {
+        "name": "Bad Moons",
+        "url": "https://open.spotify.com/album/31Az8zsLomPk3LrfEs0q6p"
+      },
+      "artists": [
+        {
+          "name": "American Football",
+          "url": "https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493146,
+      "name": "Bad Moons",
+      "url": "https://open.spotify.com/track/1vFLg6nWigxe7H8pw2GT6z"
     },
     {
       "album": {
@@ -3896,6 +3932,24 @@
       "duration_ms": 219865,
       "name": "Born Again",
       "url": "https://open.spotify.com/track/6KyBxWFQ2qkPvgiBL3xpEC"
+    },
+    {
+      "album": {
+        "name": "Born To Kill",
+        "url": "https://open.spotify.com/album/1NqTkg2rUSAGF6KOSTUgqW"
+      },
+      "artists": [
+        {
+          "name": "Social Distortion",
+          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230866,
+      "name": "Born To Kill",
+      "url": "https://open.spotify.com/track/2dar1QSaBJKGCPXJQsef0J"
     },
     {
       "album": {
@@ -8948,7 +9002,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 249612,
       "name": "ELEVATE",
       "url": "https://open.spotify.com/track/2JFdwYlUkWYnZOer20BcHu"
@@ -10599,6 +10653,24 @@
     },
     {
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188062,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj"
+    },
+    {
+      "album": {
         "name": "CARNAL (Deluxe)",
         "url": "https://open.spotify.com/album/6bo0qsybdHj6lP2Hr0flUj"
       },
@@ -11120,7 +11192,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 182132,
       "name": "GETCHA! (with Nic Cester, Jet & Chad Smith) - prod. Tom Morello",
       "url": "https://open.spotify.com/track/6ObOQwjP7hycMhlYbSJuvk"
@@ -11276,6 +11348,24 @@
       "duration_ms": 217521,
       "name": "Give Me Mercy",
       "url": "https://open.spotify.com/track/1T38PfS3mH0GSGu1LUS1xv"
+    },
+    {
+      "album": {
+        "name": "Gladrags",
+        "url": "https://open.spotify.com/album/5GjuavL2oQlGOpKFoiLUqZ"
+      },
+      "artists": [
+        {
+          "name": "The Scratch",
+          "url": "https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190230,
+      "name": "Gladrags",
+      "url": "https://open.spotify.com/track/34ZKtMpAQq4xPVyI2dfXTG"
     },
     {
       "album": {
@@ -13202,7 +13292,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 236273,
       "name": "human props",
       "url": "https://open.spotify.com/track/6SHRRutKyl62aHFP8vT0Fg"
@@ -14402,6 +14492,24 @@
       "duration_ms": 192210,
       "name": "Into Hell",
       "url": "https://open.spotify.com/track/6kESVt7m9Wn2WcS1OGOOmC"
+    },
+    {
+      "album": {
+        "name": "Into The Wild",
+        "url": "https://open.spotify.com/album/0l6FEygTXElOA3quswzKXy"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221388,
+      "name": "Into The Wild",
+      "url": "https://open.spotify.com/track/75ucE1aqrtLF81oVg2k4IZ"
     },
     {
       "album": {
@@ -19052,7 +19160,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 212990,
       "name": "NEW YOU ANTHEM",
       "url": "https://open.spotify.com/track/04wK7a5tJvp4z9uhahGoz7"
@@ -19312,6 +19420,24 @@
       "duration_ms": 223386,
       "name": "Nobody Wants to Die",
       "url": "https://open.spotify.com/track/4A7kc0SQCu6btugusS2cYx"
+    },
+    {
+      "album": {
+        "name": "Nobody's Heroes",
+        "url": "https://open.spotify.com/album/6RXmJuQbcIgD2dLSKqtPB7"
+      },
+      "artists": [
+        {
+          "name": "The Menzingers",
+          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219715,
+      "name": "Nobody's Heroes",
+      "url": "https://open.spotify.com/track/3OEImZroksYhkQYVV6b8GE"
     },
     {
       "album": {
@@ -24122,7 +24248,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 223186,
       "name": "SHRED ENVY",
       "url": "https://open.spotify.com/track/6Wt8nvjWtW1GYO5UyjsGez"
@@ -27435,6 +27561,36 @@
     },
     {
       "album": {
+        "name": "The Golden Egg of Empathy (feat. WILLOW)",
+        "url": "https://open.spotify.com/album/0jH0FjQIKb2OYKN9xKW02G"
+      },
+      "artists": [
+        {
+          "name": "The Claypool Lennon Delirium",
+          "url": "https://open.spotify.com/artist/2yUsje7CszKGu4g1f4ih3b"
+        },
+        {
+          "name": "Les Claypool",
+          "url": "https://open.spotify.com/artist/1oM1vgebNTCZmVYwC3YYl8"
+        },
+        {
+          "name": "Sean Ono Lennon",
+          "url": "https://open.spotify.com/artist/5JUYSPkis2Mk6HUbmMqk1m"
+        },
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230386,
+      "name": "The Golden Egg of Empathy (feat. WILLOW)",
+      "url": "https://open.spotify.com/track/09gXus8q2otEFFILstY1G8"
+    },
+    {
+      "album": {
         "name": "The Great Unknown",
         "url": "https://open.spotify.com/album/6fE894gRLhqsRjiW2sgLTP"
       },
@@ -27782,7 +27938,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 241480,
       "name": "The Real You",
       "url": "https://open.spotify.com/track/5ZeZSbuvupOAfm3zD73tp2"
@@ -28482,7 +28638,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 353500,
       "name": "Throne Of Want",
       "url": "https://open.spotify.com/track/3Hrdh8vuUbeCK6bFkd4HZX"
@@ -30226,7 +30382,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 302080,
       "name": "WAP (What a Predicament)",
       "url": "https://open.spotify.com/track/24c9lTKJpHjHOkFr6FLrkU"
@@ -31117,6 +31273,24 @@
     },
     {
       "album": {
+        "name": "When the Love is Gone",
+        "url": "https://open.spotify.com/album/59Rz057fL9GfxdAUXd2QEr"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200026,
+      "name": "When the Love is Gone",
+      "url": "https://open.spotify.com/track/5iRv1aH4eNai45KfhjtJ6n"
+    },
+    {
+      "album": {
         "name": "When The Pain Comes",
         "url": "https://open.spotify.com/album/778Va2ghjUV0BwrzgHe61G"
       },
@@ -31200,7 +31374,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 216646,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/45GE1ZGp8Cm01hYx5DhQnQ"
@@ -32086,6 +32260,24 @@
       "duration_ms": 211956,
       "name": "Y.S.K.W.",
       "url": "https://open.spotify.com/track/46Lnoask1iRJP47GnaoVcF"
+    },
+    {
+      "album": {
+        "name": "Yellow Roses",
+        "url": "https://open.spotify.com/album/0hpuV7YhUJBOEaIQh52mZ6"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202757,
+      "name": "Yellow Roses",
+      "url": "https://open.spotify.com/track/71tJCENl05wzNpFLKVeYUl"
     },
     {
       "album": {

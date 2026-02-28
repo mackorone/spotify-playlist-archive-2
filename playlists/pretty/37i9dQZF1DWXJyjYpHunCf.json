@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Noah Kahan",
-  "num_followers": 949229,
+  "num_followers": 949256,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOKSTRaXPP0XCkZp1TJw7pQCrHPX",
+  "snapshot_id": "AAAAANqoO4PVr6Me/bgDC7JGjsvNxVJk",
   "tracks": [
     {
       "added_at": "2026-02-06 05:00:43",
@@ -25,20 +25,20 @@
       "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
     },
     {
-      "added_at": "2026-02-06 05:00:43",
+      "added_at": "2026-02-27 05:02:53",
       "album": {
-        "name": "Games",
-        "url": "https://open.spotify.com/album/0qhjCNkQX5WQGFcY3ZOOfG"
+        "name": "The Blade",
+        "url": "https://open.spotify.com/album/0f9qhfxa46I2abFLjsEjqc"
       },
       "artists": [
         {
-          "name": "Ian Harrison",
-          "url": "https://open.spotify.com/artist/5KNwR0B4tskwLbpfPtt1LG"
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
         }
       ],
-      "duration_ms": 170313,
-      "name": "Games",
-      "url": "https://open.spotify.com/track/7xR4soaVnkl0IunRwUO5Dw"
+      "duration_ms": 195000,
+      "name": "The Blade",
+      "url": "https://open.spotify.com/track/4xlkVxykYvk6i7Co32lMDS"
     },
     {
       "added_at": "2026-02-20 05:52:02",
@@ -55,6 +55,22 @@
       "duration_ms": 224347,
       "name": "LEAVE THE WORLD BEHIND",
       "url": "https://open.spotify.com/track/1rNNhqJ82CtoyPlV1rt6Mq"
+    },
+    {
+      "added_at": "2026-02-06 05:00:43",
+      "album": {
+        "name": "Games",
+        "url": "https://open.spotify.com/album/0qhjCNkQX5WQGFcY3ZOOfG"
+      },
+      "artists": [
+        {
+          "name": "Ian Harrison",
+          "url": "https://open.spotify.com/artist/5KNwR0B4tskwLbpfPtt1LG"
+        }
+      ],
+      "duration_ms": 170313,
+      "name": "Games",
+      "url": "https://open.spotify.com/track/7xR4soaVnkl0IunRwUO5Dw"
     },
     {
       "added_at": "2026-02-06 05:00:43",
@@ -1035,22 +1051,6 @@
       "duration_ms": 247306,
       "name": "Don't Put It All On Me (feat. Fleet Foxes)",
       "url": "https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul"
-    },
-    {
-      "added_at": "2026-02-06 05:00:43",
-      "album": {
-        "name": "Diamonds & Roses",
-        "url": "https://open.spotify.com/album/6zWSQlnZvg7Tr8Koz3BMI6"
-      },
-      "artists": [
-        {
-          "name": "Kingfishr",
-          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Diamonds & Roses",
-      "url": "https://open.spotify.com/track/5dQ1oSOiGzfPPbPpzWTT7Y"
     },
     {
       "added_at": "2026-02-06 05:00:43",

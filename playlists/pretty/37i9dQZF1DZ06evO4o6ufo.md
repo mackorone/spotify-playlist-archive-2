@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 
 > This is Panter Bélico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,952 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,014 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 | 21 | [El 10 De Mayo](https://open.spotify.com/track/5fcAzaH0WkUbSWjNfDdEnM) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 2:31 |
 | 22 | [MONTHS](https://open.spotify.com/track/7Bt8I7y8b2p2uUY33sYCQl) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [MONTHS](https://open.spotify.com/album/2xBj81KVZYlkDE89zqvtD4) | 2:49 |
 | 23 | [Y Tu](https://open.spotify.com/track/5ljfG2h3NkhHB89qoELPyt) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CORAZÓN ERRANTE](https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X) | 3:19 |
-| 24 | [Borracho Enamorado](https://open.spotify.com/track/6VcVBZ2b43kiDO6rQxmsYO) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Borracho Enamorado](https://open.spotify.com/album/0sr6urbaaWIMexVmk97TZK) | 2:32 |
+| 24 | [Los Fletes](https://open.spotify.com/track/60er4C2AYs1FIXpgbPWOs4) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Los Fletes](https://open.spotify.com/album/6p0JJEYyKuye29FRF4P9K4) | 1:51 |
 | 25 | [GPI](https://open.spotify.com/track/6uKjaOslfoRToEqixjM4wc) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 2:13 |
-| 26 | [Los Fletes](https://open.spotify.com/track/60er4C2AYs1FIXpgbPWOs4) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Los Fletes](https://open.spotify.com/album/6p0JJEYyKuye29FRF4P9K4) | 1:51 |
+| 26 | [Borracho Enamorado](https://open.spotify.com/track/6VcVBZ2b43kiDO6rQxmsYO) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Borracho Enamorado](https://open.spotify.com/album/0sr6urbaaWIMexVmk97TZK) | 2:32 |
 | 27 | [Que Sube Y Baja \(En Vivo\)](https://open.spotify.com/track/6ibESFw31H1shORQnJlNo8) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La Amanecida En Vivo Desde "El Carrizal"](https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR) | 2:01 |
 | 28 | [La Gallada Pesada](https://open.spotify.com/track/6hVeCPVrUHic2vM6s2SS9t) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [TRAVESÍA](https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv) | 2:21 |
 | 29 | [El Güicho](https://open.spotify.com/track/0jU8yUjdkIolONmi6mOwQP) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 | 49 | [Me Quiero Casar](https://open.spotify.com/track/1NKieJNxZiQpXYA7Wmx2Hd) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Me Quiero Casar](https://open.spotify.com/album/11q4dGHmq3Jm1XcABg4HkX) | 2:36 |
 | 50 | [3 En Punto](https://open.spotify.com/track/79bIiTWFuPBuvaGu24PVQA) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Avance Sin Fin](https://open.spotify.com/album/4uG3qJNwJo5yk153qhWtji) | 2:46 |
 
-Snapshot ID: `aZ47gAAAAAA0fdHosTVAzgsJBiNZBnB3`
+Snapshot ID: `aZ+NAAAAAAAnlG/MdB7M7+2JwqsSQ4IY`

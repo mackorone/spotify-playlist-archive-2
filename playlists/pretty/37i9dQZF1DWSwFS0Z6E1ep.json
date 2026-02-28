@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 303382,
+  "num_followers": 303446,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Something for Nothing / Little Fine Healthy Thing",
+        "url": "https://open.spotify.com/album/681gmpIrqPEGuvIKwJ0CRR"
+      },
+      "artists": [
+        {
+          "name": "Billy \"The Kid\" Emerson",
+          "url": "https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw"
+        }
+      ],
+      "duration_ms": 153627,
+      "name": "Little Fine Healthy Thing",
+      "url": "https://open.spotify.com/track/2eTOZn2Mn4ZswpMsbrihhm"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "Slow Down / A Fool for Loving You",
         "url": "https://open.spotify.com/album/16tQIxNa9s3cmCjrcFUXgx"
       },
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Something for Nothing / Little Fine Healthy Thing",
-        "url": "https://open.spotify.com/album/681gmpIrqPEGuvIKwJ0CRR"
-      },
-      "artists": [
-        {
-          "name": "Billy \"The Kid\" Emerson",
-          "url": "https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw"
-        }
-      ],
-      "duration_ms": 153627,
-      "name": "Little Fine Healthy Thing",
-      "url": "https://open.spotify.com/track/2eTOZn2Mn4ZswpMsbrihhm"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Ten Cats Down / Finders Keepers",
         "url": "https://open.spotify.com/album/3DgD0YDs9h067YI7qtzHZK"
       },
@@ -1491,6 +1491,26 @@
       "duration_ms": 137201,
       "name": "Ten Cats Down",
       "url": "https://open.spotify.com/track/1xY56tgHwm7GfiafKPzB42"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Memories Never Grow Old / Good Lovin'",
+        "url": "https://open.spotify.com/album/1JfYQZ9G80fMf9DGtQqSac"
+      },
+      "artists": [
+        {
+          "name": "Dickey Lee",
+          "url": "https://open.spotify.com/artist/34Ym7wEA9olyXIQ5eRAZjq"
+        },
+        {
+          "name": "The Collegiates",
+          "url": "https://open.spotify.com/artist/1dzodRpVST4Lz25hTJM2On"
+        }
+      ],
+      "duration_ms": 172568,
+      "name": "Good Lovin'",
+      "url": "https://open.spotify.com/track/2vYfYvYvfxCxOoGLfs4N8d"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1523,26 +1543,6 @@
       "duration_ms": 121414,
       "name": "Give Me some Love - Re-Recorded Version",
       "url": "https://open.spotify.com/track/17trqhqpoIxXQc3Rkri0W7"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Memories Never Grow Old / Good Lovin'",
-        "url": "https://open.spotify.com/album/1JfYQZ9G80fMf9DGtQqSac"
-      },
-      "artists": [
-        {
-          "name": "Dickey Lee",
-          "url": "https://open.spotify.com/artist/34Ym7wEA9olyXIQ5eRAZjq"
-        },
-        {
-          "name": "The Collegiates",
-          "url": "https://open.spotify.com/artist/1dzodRpVST4Lz25hTJM2On"
-        }
-      ],
-      "duration_ms": 172568,
-      "name": "Good Lovin'",
-      "url": "https://open.spotify.com/track/2vYfYvYvfxCxOoGLfs4N8d"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Dance Album",
-        "url": "https://open.spotify.com/album/6tmyqBnmU3ifbcDw5rZHfc"
+        "name": "The Essential Jerry Lee Lewis [The Sun Sessions]",
+        "url": "https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf"
       },
       "artists": [
         {
-          "name": "Carl Perkins",
-          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
         }
       ],
-      "duration_ms": 134445,
-      "name": "Blue Suede Shoes",
-      "url": "https://open.spotify.com/track/3Qylbx7tZcsP9RggQ6umUh"
+      "duration_ms": 172400,
+      "name": "Whole Lot of Shakin' Going On",
+      "url": "https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Essential Jerry Lee Lewis [The Sun Sessions]",
-        "url": "https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf"
+        "name": "The Dance Album",
+        "url": "https://open.spotify.com/album/6tmyqBnmU3ifbcDw5rZHfc"
       },
       "artists": [
         {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
         }
       ],
-      "duration_ms": 172400,
-      "name": "Whole Lot of Shakin' Going On",
-      "url": "https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV"
+      "duration_ms": 134445,
+      "name": "Blue Suede Shoes",
+      "url": "https://open.spotify.com/track/3Qylbx7tZcsP9RggQ6umUh"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1963,6 +1963,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Sun Records Recording Artist - Rosco Gordon",
+        "url": "https://open.spotify.com/album/1yVVmzSJ8XucF6wYCO2jzH"
+      },
+      "artists": [
+        {
+          "name": "Rosco Gordon",
+          "url": "https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9"
+        }
+      ],
+      "duration_ms": 156088,
+      "name": "Bop With Me Baby",
+      "url": "https://open.spotify.com/track/11RM5sMsQ5UZEtLIJa3m2w"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "Sun Records- Boogie BBQ",
         "url": "https://open.spotify.com/album/3TT5zI6B1Cfvzp008AbkFT"
       },
@@ -1991,22 +2007,6 @@
       "duration_ms": 119368,
       "name": "Rockin Daddy",
       "url": "https://open.spotify.com/track/7CyHhyn57wzUc9mCQBvMsh"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Sun Records Recording Artist - Rosco Gordon",
-        "url": "https://open.spotify.com/album/1yVVmzSJ8XucF6wYCO2jzH"
-      },
-      "artists": [
-        {
-          "name": "Rosco Gordon",
-          "url": "https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9"
-        }
-      ],
-      "duration_ms": 156088,
-      "name": "Bop With Me Baby",
-      "url": "https://open.spotify.com/track/11RM5sMsQ5UZEtLIJa3m2w"
     },
     {
       "added_at": "2022-06-07 05:25:13",

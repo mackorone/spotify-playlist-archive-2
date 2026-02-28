@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Get revived with some of the best Deep House South Africa has to offer. Cover: beatsbyhand, Sio",
+  "description": "Get revived with some of the best Deep House South Africa has to offer. Cover: Buddynice",
   "name": "Deep House Session",
   "tracks": [
     {
@@ -1243,6 +1243,24 @@
     },
     {
       "album": {
+        "name": "DO IT",
+        "url": "https://open.spotify.com/album/7lbQBK0R32KZepE2AWpb7t"
+      },
+      "artists": [
+        {
+          "name": "Bhutlish",
+          "url": "https://open.spotify.com/artist/3WHmMyp8tk8ZlavdQecrjh"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339555,
+      "name": "DO IT",
+      "url": "https://open.spotify.com/track/67cLJsgs2Ap7esUVkhDuSS"
+    },
+    {
+      "album": {
         "name": "Fractured Reflections",
         "url": "https://open.spotify.com/album/7i6HU97dbHiVlKeRvklH1T"
       },
@@ -1775,6 +1793,24 @@
     },
     {
       "album": {
+        "name": "Find Me",
+        "url": "https://open.spotify.com/album/1wrANPOPMF0II7wBvPTcqj"
+      },
+      "artists": [
+        {
+          "name": "Garth Brown",
+          "url": "https://open.spotify.com/artist/77Cs84lBhoUxp6OenSCJKR"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330256,
+      "name": "Find Me",
+      "url": "https://open.spotify.com/track/4TJxdcNGff56v8qyBGk1A6"
+    },
+    {
+      "album": {
         "name": "Artform",
         "url": "https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5"
       },
@@ -2142,6 +2178,40 @@
       "duration_ms": 211653,
       "name": "Gone Stumblin",
       "url": "https://open.spotify.com/track/5wlP2hrSh0vS2d9wzHZpqD"
+    },
+    {
+      "album": {
+        "name": "Good Times (Chymamusique Remix)",
+        "url": "https://open.spotify.com/album/3Yv10UOZkdHyUoMK1tAiYD"
+      },
+      "artists": [
+        {
+          "name": "George Lesley",
+          "url": "https://open.spotify.com/artist/1b4XcTXxb48CLaCUCAFWhL"
+        },
+        {
+          "name": "Oscar Mbo",
+          "url": "https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX"
+        },
+        {
+          "name": "Kabomo",
+          "url": "https://open.spotify.com/artist/3OcUY8YTn6uDmMyCzKw18f"
+        },
+        {
+          "name": "KDD",
+          "url": "https://open.spotify.com/artist/5ez4AT0KudsfD0y31kwbjS"
+        },
+        {
+          "name": "Chymamusique",
+          "url": "https://open.spotify.com/artist/0nzV2U3TuoZhNqZFW564NI"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358961,
+      "name": "Good Times (Chymamusique Remix)",
+      "url": "https://open.spotify.com/track/3YbY2jlftIsgxo7CtJbdYB"
     },
     {
       "album": {
@@ -2838,6 +2908,58 @@
       "duration_ms": 388173,
       "name": "Imizi YoBaba",
       "url": "https://open.spotify.com/track/0TaQCJsB8uS5oUjUkPMMa3"
+    },
+    {
+      "album": {
+        "name": "In Her Words (Soulful Mix))",
+        "url": "https://open.spotify.com/album/08onA98yREcMss3WP7oAfa"
+      },
+      "artists": [
+        {
+          "name": "T\u0161eget\u0161ege",
+          "url": "https://open.spotify.com/artist/5zJ8iwxXkNINGYWUu2guTX"
+        },
+        {
+          "name": "Rowdy SA",
+          "url": "https://open.spotify.com/artist/2fjeRVZsJ8JwIZWpstLiAG"
+        },
+        {
+          "name": "HerbsZA",
+          "url": "https://open.spotify.com/artist/51dubKsnoQ7EnBqmdpJ2nL"
+        },
+        {
+          "name": "Prod By Esco",
+          "url": "https://open.spotify.com/artist/6kltOvShHbFG2ZZlZW0aSt"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372818,
+      "name": "In Her Words - Soulful Mix)",
+      "url": "https://open.spotify.com/track/5YCqHOabVzUXwMi0qY8hdu"
+    },
+    {
+      "album": {
+        "name": "Deep In The Pocket",
+        "url": "https://open.spotify.com/album/7i1MFc2xbtuXttW7MTplwF"
+      },
+      "artists": [
+        {
+          "name": "Lukamusic",
+          "url": "https://open.spotify.com/artist/35JxKLIvFpuGma61pYwC9q"
+        },
+        {
+          "name": "Roxanne Myles",
+          "url": "https://open.spotify.com/artist/5P3EeCYLFwEMm2txBVIoWz"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468292,
+      "name": "In The Mood",
+      "url": "https://open.spotify.com/track/41jyvYh1lmCPxfzqUgbQhn"
     },
     {
       "album": {
@@ -4034,6 +4156,24 @@
       "duration_ms": 370185,
       "name": "Middle Of The Garden",
       "url": "https://open.spotify.com/track/6Fy6qP6B5CSvXo4auTbLCQ"
+    },
+    {
+      "album": {
+        "name": "Mind And Mystery",
+        "url": "https://open.spotify.com/album/3RPI3EQo0Jim5whCWh9Qi2"
+      },
+      "artists": [
+        {
+          "name": "T\u0161eget\u0161ege",
+          "url": "https://open.spotify.com/artist/5zJ8iwxXkNINGYWUu2guTX"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496017,
+      "name": "Mind And Mystery",
+      "url": "https://open.spotify.com/track/3utYUFH52ioddTzo5n0bd3"
     },
     {
       "album": {
@@ -7535,6 +7675,24 @@
     },
     {
       "album": {
+        "name": "Selections Vol 2",
+        "url": "https://open.spotify.com/album/0ICqXTRtSEtorAovqildRk"
+      },
+      "artists": [
+        {
+          "name": "Buddynice",
+          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428954,
+      "name": "We'll Be Alright",
+      "url": "https://open.spotify.com/track/1hrahuBjoU5Gkbz4W0SkdW"
+    },
+    {
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/313EDRpLgogSMuJGQ9pYBU"
       },
@@ -7554,6 +7712,32 @@
       "duration_ms": 250000,
       "name": "Wena",
       "url": "https://open.spotify.com/track/7Dr9J9lZA4NVrfGs36llbG"
+    },
+    {
+      "album": {
+        "name": "What Kind Of Love",
+        "url": "https://open.spotify.com/album/5P9rYg3ckKqYKoubxkpkKJ"
+      },
+      "artists": [
+        {
+          "name": "DJ Naid",
+          "url": "https://open.spotify.com/artist/4ah5yraeSzaUVTaUpNBUVP"
+        },
+        {
+          "name": "Dj Conflict",
+          "url": "https://open.spotify.com/artist/2v3oXLvGIpqhikcKXct1a8"
+        },
+        {
+          "name": "Nutownsoul",
+          "url": "https://open.spotify.com/artist/7IW4YKTNTHrDyceOTa9qbK"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371250,
+      "name": "What Kind Of Love",
+      "url": "https://open.spotify.com/track/7LjbG8DQ1Zw9kFnVsklFLY"
     },
     {
       "album": {

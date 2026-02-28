@@ -1,13 +1,33 @@
 {
   "description": "Alternative Arabic songs. Cover: Seera",
-  "num_followers": 150174,
+  "num_followers": 150177,
   "original_name": "Arab Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN0VYMCQHgfjWFn2yFVN6RjrAr5O",
+  "snapshot_id": "AAAAAF5VHBhek0yumT1YOgb8mPXHVgGw",
   "tracks": [
+    {
+      "added_at": "2026-02-27 19:01:52",
+      "album": {
+        "name": "Manhoos - \u0645\u0646\u062d\u0648\u0633",
+        "url": "https://open.spotify.com/album/4omvlnsti7eubDc65kTKmz"
+      },
+      "artists": [
+        {
+          "name": "Maii Waleed",
+          "url": "https://open.spotify.com/artist/1e9RnsEdnC3LG7vHcAozc8"
+        },
+        {
+          "name": "Zeid Hamdan",
+          "url": "https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks"
+        }
+      ],
+      "duration_ms": 188686,
+      "name": "Manhoos - \u0645\u0646\u062d\u0648\u0633",
+      "url": "https://open.spotify.com/track/5lYSkHKGVBzPNRyVtLpORG"
+    },
     {
       "added_at": "2026-01-21 08:42:53",
       "album": {
@@ -567,22 +587,6 @@
       "duration_ms": 234775,
       "name": "Leh Ya Hana ?",
       "url": "https://open.spotify.com/track/4ZblA6ehlUEGgy3cpENRrx"
-    },
-    {
-      "added_at": "2025-12-26 11:37:22",
-      "album": {
-        "name": "El Morabba3 (\u0627\u0644\u0645\u0631\u0628\u0639)",
-        "url": "https://open.spotify.com/album/2BPmsmtbu1sIGIPZe1LgIa"
-      },
-      "artists": [
-        {
-          "name": "El Morabba3",
-          "url": "https://open.spotify.com/artist/4yTcSEYSpMUQ5t5XFd0uPU"
-        }
-      ],
-      "duration_ms": 301800,
-      "name": "Laykoon (\u0644\u064a\u0643\u0648\u0646)",
-      "url": "https://open.spotify.com/track/2FQroMa87w4nlBhhdDre3J"
     },
     {
       "added_at": "2025-12-26 11:37:22",

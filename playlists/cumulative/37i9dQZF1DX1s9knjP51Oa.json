@@ -2367,6 +2367,24 @@
     },
     {
       "album": {
+        "name": "Cellar",
+        "url": "https://open.spotify.com/album/2dWyq4IXlTxi8u5w1khJ5J"
+      },
+      "artists": [
+        {
+          "name": "Silvenna",
+          "url": "https://open.spotify.com/artist/0EpNnTSU5DHuYwSdMMRyfw"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Cellar",
+      "url": "https://open.spotify.com/track/6K4uQfVY4NGXQXx9Gq8LQa"
+    },
+    {
+      "album": {
         "name": "Unfolded",
         "url": "https://open.spotify.com/album/0bqH14Y1fJFoqkGHlp9Us0"
       },
@@ -14855,6 +14873,24 @@
     },
     {
       "album": {
+        "name": "Veil of Evening",
+        "url": "https://open.spotify.com/album/7IMDkhANS0sndmZhkO9a0T"
+      },
+      "artists": [
+        {
+          "name": "Eldur H\u00e6ttu",
+          "url": "https://open.spotify.com/artist/3GsfhG02GtXyYPOoc5QRa8"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158358,
+      "name": "Veil of Evening",
+      "url": "https://open.spotify.com/track/16uzCCEGABfcr8X2a1J3kC"
+    },
+    {
+      "album": {
         "name": "Vejlefjord",
         "url": "https://open.spotify.com/album/1gt84E4kL8DdnXW1XlclX4"
       },
@@ -15918,6 +15954,24 @@
       "duration_ms": 127000,
       "name": "Zu Hause",
       "url": "https://open.spotify.com/track/3KuHx15ro3TkRZTi5g261x"
+    },
+    {
+      "album": {
+        "name": "\u00c9toile",
+        "url": "https://open.spotify.com/album/1CW9eglJkWLDmsuy9KxwCq"
+      },
+      "artists": [
+        {
+          "name": "Julien Trevant",
+          "url": "https://open.spotify.com/artist/1hbSId3a071gC1M9PtyrLO"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123235,
+      "name": "\u00c9toile",
+      "url": "https://open.spotify.com/track/4jo6pUEYAyJeT4UT4Ew9rs"
     },
     {
       "album": {

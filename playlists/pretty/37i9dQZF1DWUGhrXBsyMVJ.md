@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUGhrXBsyMVJ.md) - [plain]
 
 > Unforgettable love songs from the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,648 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,690 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

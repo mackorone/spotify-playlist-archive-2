@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULcjjSkTbWc.md) - [plain]
 
 > Unos buenos riffs de guitarra para acompañarte en el camino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,888 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,897 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULcjjSkTbWc.md) - [plain]
 | 13 | [Rocket Man \(I Think It's Going To Be A Long, Long Time\)](https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 4:41 |
 | 14 | [Sweet Home Alabama](https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Second Helping \(Expanded Edition\)](https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH) | 4:43 |
 | 15 | [Starman \- 2012 Remaster](https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Rise and Fall of Ziggy Stardust and the Spiders from Mars \(2012 Remaster\)](https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56) | 4:14 |
-| 16 | [Roxanne](https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \(Remastered 2003\)](https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf) | 3:11 |
-| 17 | [Wonderwall \- Remastered](https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \[Remastered\]](https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk) | 4:18 |
+| 16 | [Wonderwall \- Remastered](https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \[Remastered\]](https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk) | 4:18 |
+| 17 | [Roxanne](https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \(Remastered 2003\)](https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf) | 3:11 |
 | 18 | [Labios Rotos \- En Vivo Desde México / 2010](https://open.spotify.com/track/1nULBrlzWatdcjA2ZctIMv) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 4:03 |
 | 19 | [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 |
 | 20 | [Immigrant Song \- Remaster](https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 2:26 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULcjjSkTbWc.md) - [plain]
 | 28 | [\(I Can't Get No\) Satisfaction \- Mono](https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Out Of Our Heads](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) | 3:42 |
 | 29 | [Persiana Americana \- Remasterizado 2007](https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Signos \(Remastered\)](https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi) | 4:52 |
 | 30 | [La Muralla Verde](https://open.spotify.com/track/6OKhBvddAlWxxFnjbpilhu) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Contrareloj](https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd) | 2:41 |
-| 31 | [One Way Or Another \- Remastered 2001](https://open.spotify.com/track/4cQJ27R11K634x5qCOwKW5) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines \(Remastered\)](https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU) | 3:35 |
-| 32 | [Last Nite](https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 3:13 |
+| 31 | [Last Nite](https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 3:13 |
+| 32 | [One Way Or Another \- Remastered 2001](https://open.spotify.com/track/4cQJ27R11K634x5qCOwKW5) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines \(Remastered\)](https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU) | 3:35 |
 | 33 | [I'm a Believer \- 2006 Remaster](https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [More of The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) | 2:47 |
 | 34 | [Here Comes Your Man](https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 3:21 |
 | 35 | [Band On The Run \- 2010 Remaster](https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 5:13 |

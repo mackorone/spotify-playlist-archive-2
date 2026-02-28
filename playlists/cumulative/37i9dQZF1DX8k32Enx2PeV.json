@@ -1053,6 +1053,24 @@
     },
     {
       "album": {
+        "name": "El AchanTAdo",
+        "url": "https://open.spotify.com/album/1T8WIYEepKDl4j27kdZIox"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225750,
+      "name": "El AchanTAdo",
+      "url": "https://open.spotify.com/track/3fr52NaaVxb2UxPNxDtaQx"
+    },
+    {
+      "album": {
         "name": "La Revancha del Burro",
         "url": "https://open.spotify.com/album/6wcGpbAMUEAMiqNuVS8nbt"
       },
@@ -2900,7 +2918,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 215280,
       "name": "Soy la Fuerza",
       "url": "https://open.spotify.com/track/1Tt53jSkqWtGzmn0qJBwjf"

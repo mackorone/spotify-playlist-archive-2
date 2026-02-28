@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: BIG Naughty \(서동현\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,136 songs - 2 day 21 hr 0 min
+1,137 songs - 2 day 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Bye Bye \(Feat\. LEE MU JIN\)](https://open.spotify.com/track/76vu2smcuQgil4Xqa5yAYv) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Bye Bye](https://open.spotify.com/album/70b2w1pmeZudQF8CNbWtCn) | 4:28 | 2025-09-12 | 2025-11-11 |
 | [BYE BYE BYE \(feat\. Sion\)](https://open.spotify.com/track/0NlGSYMfgwTLbMzViHYPO6) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [WHERE DOES SASQUATCH LIVE? Pt\. 2](https://open.spotify.com/album/5Nx3ogcideDoWZYJyXuuTr) | 4:21 | 2023-11-03 | 2024-03-22 |
 | [Bye My Dear](https://open.spotify.com/track/2DMXlmSEvKC6kzDkYJdSkK) | [TILDE](https://open.spotify.com/artist/4dkrSmtmfRErNiFaQx0IAq) | [Bye My Dear](https://open.spotify.com/album/1nLojqad99fsjcDmiywiqn) | 4:26 | 2022-08-19 | 2022-09-06 |
-| [Bye, Summer](https://open.spotify.com/track/27x2IrIGwr56QWkqJ4cu9I) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Bye, Summer](https://open.spotify.com/album/42SnKvNnvwpsJju6Uw4BWl) | 3:39 | 2025-09-10 |  |
+| [Bye, Summer](https://open.spotify.com/track/27x2IrIGwr56QWkqJ4cu9I) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Bye, Summer](https://open.spotify.com/album/42SnKvNnvwpsJju6Uw4BWl) | 3:39 | 2025-09-10 | 2026-02-28 |
 | [C.I.T.T \(Cheese in the Trap\)](https://open.spotify.com/track/0wp8u1swtx3sVvJw3dxXmY) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [C.I.T.T \(Cheese in the Trap\)](https://open.spotify.com/album/0EE8K1IGciwDPMiURGtEBf) | 2:57 | 2022-05-03 | 2022-11-10 |
 | [Caffeine](https://open.spotify.com/track/1iPyLLD8wEtuQAUrsZ6srD) | [Kim Bada](https://open.spotify.com/artist/5OBvrcugjadLmcYy3ecTXW), [Lanalogue](https://open.spotify.com/artist/0MwiBH4jzg2Ls1cX9LQQzQ) | [BXXL](https://open.spotify.com/album/34UeGS3N096dSc9s3opkVM) | 2:45 | 2022-05-03 | 2022-05-12 |
 | [Call me back](https://open.spotify.com/track/7aDdUvESR5RyNx3W7VL7cK) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [Call me back](https://open.spotify.com/album/1kxisGHg83NRPqjf5c6OT8) | 3:23 | 2023-10-11 | 2023-10-17 |
@@ -623,6 +623,7 @@
 | [Moondance](https://open.spotify.com/track/2KUEKN10jfO8IQ3uUKdynn) | [TOUCHED](https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV) | [Moondance](https://open.spotify.com/album/1LYt1Jb1ooZzJWqnfIxdx2) | 3:46 | 2025-11-18 | 2025-12-16 |
 | [Moonshot](https://open.spotify.com/track/17wECh3CzqeHm48pqm544P) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Man on the Moon](https://open.spotify.com/album/3sdVDRppHe8ygY7b1NgW7T) | 3:00 | 2022-04-12 | 2025-04-12 |
 | [More](https://open.spotify.com/track/5JUMzqH6U6oO6yKXa0rLZg) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [More](https://open.spotify.com/album/1zvUzhuA4hLQpnl5SL02Sv) | 4:36 | 2022-05-02 | 2022-07-05 |
+| [More than Noise](https://open.spotify.com/track/5zS9sl1aT9q8lxO5jhRkeu) | [KACHISAN](https://open.spotify.com/artist/20pVcZq4VeWqe3CxlWx2nH) | [More than Noise](https://open.spotify.com/album/5JPa17tBUKHLB0PhSI4d5z) | 3:50 | 2026-02-27 |  |
 | [Mouse](https://open.spotify.com/track/3bFpFHcK5cbg93FyKUTNWs) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [Mouse](https://open.spotify.com/album/3BLdWzAtpi6No30f2m1okJ) | 3:58 | 2022-04-12 | 2022-07-28 |
 | [MUNG](https://open.spotify.com/track/746IIP4nhFrFcKXNkqtj2m) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [can't](https://open.spotify.com/album/5XKIoRiJI9U2NXBOB7nhjI) | 4:59 | 2022-04-22 | 2022-07-19 |
 | [Mute is Off](https://open.spotify.com/track/6pHBcS2aQTIvUpKB20SJMU) | [INSEONG](https://open.spotify.com/artist/36u2c5kavTRe2iEh0fURyL) | [Crossfade:](https://open.spotify.com/album/1WAZmt7JGy7B1BRqG137cf) | 3:34 | 2026-01-15 | 2026-02-02 |

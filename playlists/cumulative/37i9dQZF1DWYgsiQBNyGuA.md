@@ -2,9 +2,9 @@
 
 ### [Soulful Day](https://open.spotify.com/playlist/37i9dQZF1DWYgsiQBNyGuA)
 
-> Soul to brighten up your day\. Cover: Durand Bernarr
+> Soul to brighten up your day\. Cover: GENA
 
-276 songs - 17 hr 20 min
+278 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Best For Us](https://open.spotify.com/track/1ZExgSbVQ0Ku5gjryLeKpQ) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Best For Us](https://open.spotify.com/album/0VkuiyMbYzeSKuRmyWvRzk) | 3:40 | 2025-03-07 | 2025-11-22 |
 | [Best of Me](https://open.spotify.com/track/1JkhKUXAoNivi87ipmV3rp) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Back To Love \(Deluxe Version\)](https://open.spotify.com/album/545a3sdz0JkH85iYFZPiR4) | 3:46 | 2022-01-05 |  |
 | [BLACCJACK THE MAC](https://open.spotify.com/track/6EVbdSYP4HHdUT06ZFi7Wk) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [BLACCJACK THE MAC](https://open.spotify.com/album/5oPnNNKhqzuQwH9EjDdNVM) | 2:17 | 2024-02-09 | 2025-01-23 |
-| [BLAST!](https://open.spotify.com/track/7xx3527Fl3pHphCZ74aK5e) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 5:23 | 2025-02-21 |  |
+| [BLAST!](https://open.spotify.com/track/7xx3527Fl3pHphCZ74aK5e) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 5:23 | 2025-02-21 | 2026-02-28 |
 | [blessed like that](https://open.spotify.com/track/7FDtZrkFgI6WJbxWWsXwE7) | [threetwenty](https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK) | [separate from the noise](https://open.spotify.com/album/3pteKawLGPDRRCGgFvlqPZ) | 2:57 | 2025-12-12 |  |
 | [Blue Magic \(Waikiki\)](https://open.spotify.com/track/3auSQjs9kylJwN0aU7S5Qc) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 | 2022-01-05 | 2025-04-26 |
 | [Body Language \(feat\. Sasha Keable\)](https://open.spotify.com/track/5EUh2m1rTsojG22W7XrCBG) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Body Language \(feat\. Sasha Keable\)](https://open.spotify.com/album/2aeEO30e5qXXujdeJjL7kY) | 4:02 | 2025-02-21 |  |
@@ -52,7 +52,8 @@
 | [Cards](https://open.spotify.com/track/5QZdS4lYhW27Y8RJGSdPfV) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Underneath the Surface](https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35) | 4:14 | 2022-01-05 | 2024-08-31 |
 | [Catching Bodies](https://open.spotify.com/track/6sAFHFV7OWuSYuTNslP2HI) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Catching Bodies](https://open.spotify.com/album/5xktIJwrny2WstcXimkvTN) | 3:06 | 2025-08-15 |  |
 | [Charlene](https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Comin' From Where I'm From](https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em) | 4:06 | 2022-01-05 |  |
-| [Circlesz](https://open.spotify.com/track/31djYAZR2kl3HotgjFScEi) | [GENA](https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [Circlesz](https://open.spotify.com/album/6gnIbhhnF3e7bT4VSvaTf4) | 2:21 | 2025-12-12 |  |
+| [Circlesz](https://open.spotify.com/track/0TWqzeAGWe1utMzN7MIJPb) | [GENA](https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [The Pleasure Is Yours](https://open.spotify.com/album/2PW3hhgsQRGgJbPIhHCYrS) | 2:21 | 2026-02-27 |  |
+| [Circlesz](https://open.spotify.com/track/31djYAZR2kl3HotgjFScEi) | [GENA](https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [Circlesz](https://open.spotify.com/album/6gnIbhhnF3e7bT4VSvaTf4) | 2:21 | 2025-12-12 | 2026-02-28 |
 | [Come and Be a Winner](https://open.spotify.com/track/2vyxCz7ixvER0Zxh02Bk9x) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Soul of a Woman](https://open.spotify.com/album/6Y3Hr84DBJ7oV76c3BuInv) | 2:56 | 2023-02-21 | 2024-04-19 |
 | [Come and Be a Winner](https://open.spotify.com/track/6oobvM9iZY1OF18kC36llz) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Soul of a Woman](https://open.spotify.com/album/6dQ4PANge8QXfOywlHNd2J) | 2:56 | 2022-01-05 | 2024-05-26 |
 | [Coming Home](https://open.spotify.com/track/5EA06TsQmqmQXZiEhr1AaM) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home](https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg) | 3:26 | 2022-01-05 | 2022-07-29 |
@@ -180,6 +181,7 @@
 | [O Me O My](https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 2:52 | 2022-01-05 |  |
 | [O\-O\-H Child](https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:05 | 2022-01-05 | 2025-04-22 |
 | [Oh No \(Man\)](https://open.spotify.com/track/4Sb5YjpeDNMzEMFNfZTZuj) | [Chico DeBarge](https://open.spotify.com/artist/67ISVBZzcCTTKM17Ps00sx) | [Addiction](https://open.spotify.com/album/0l3NCq2SpDb7JGBS92WRd5) | 4:07 | 2022-01-05 | 2025-01-25 |
+| [omo iya ati baba](https://open.spotify.com/track/4cFiPar6sh1FkHwPyFF2LK) | [GENA](https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [The Pleasure Is Yours](https://open.spotify.com/album/2PW3hhgsQRGgJbPIhHCYrS) | 2:17 | 2026-02-27 |  |
 | [Ordinary Feelings](https://open.spotify.com/track/5cZ7ZEmioyfaB5PcpZ6dba) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Ordinary Feelings](https://open.spotify.com/album/19KnKBS2L6tdrzpQB4z5Gb) | 3:54 | 2026-02-06 |  |
 | [Out My Hair](https://open.spotify.com/track/2zh7joC2PCjzcLHv4EXTva) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Entries](https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx) | 2:57 | 2025-03-07 |  |
 | [Out My Hair](https://open.spotify.com/track/1TtdzDwa2r0REWVcFihwmT) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Heal U / Out My Hair](https://open.spotify.com/album/6w3SEOFS1XYWBKn4WKfg4J) | 2:58 | 2024-10-25 | 2025-05-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15JKV0q7shD.md) - [plain]
 
 > Those quintessential sad songs that everyone knows.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,949 likes - 75 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,982 likes - 75 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15JKV0q7shD.md) - [plain]
 | 26 | [Say You Won't Let Go](https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:31 |
 | 27 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 |
 | 28 | [The Only Exception](https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 4:27 |
-| 29 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 |
-| 30 | [Breakeven](https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:21 |
+| 29 | [Breakeven](https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:21 |
+| 30 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 |
 | 31 | [Can't Help Falling in Love](https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Blue Hawaii](https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi) | 3:05 |
 | 32 | [My Boo](https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:43 |
 | 33 | [ocean eyes](https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 3:20 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15JKV0q7shD.md) - [plain]
 | 62 | [Say Something](https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Is There Anybody Out There?](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) | 3:49 |
 | 63 | [Stormy Weather](https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:07 |
 | 64 | [When a Man Loves a Woman](https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [When a Man Loves a Woman](https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M) | 2:53 |
-| 65 | [Love Is A Losing Game](https://open.spotify.com/track/3uliGwmB52ZA7brgpZMzyH) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:35 |
-| 66 | [If I Die Young](https://open.spotify.com/track/4u26EevCNXMhlvE1xFBJwX) | [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [The Band Perry](https://open.spotify.com/album/3dASAcs9QOsmoSLhHjEhCu) | 3:42 |
+| 65 | [If I Die Young](https://open.spotify.com/track/4u26EevCNXMhlvE1xFBJwX) | [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [The Band Perry](https://open.spotify.com/album/3dASAcs9QOsmoSLhHjEhCu) | 3:42 |
+| 66 | [Love Is A Losing Game](https://open.spotify.com/track/3uliGwmB52ZA7brgpZMzyH) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:35 |
 | 67 | [Weak](https://open.spotify.com/track/71EHOyEOhNx1SzTebRRyng) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [It's About Time](https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK) | 4:51 |
 | 68 | [Superman \(It's Not Easy\)](https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [America Town](https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY) | 3:41 |
 | 69 | [Sonnet](https://open.spotify.com/track/6OgWHP8rRXiq7VMaryVaVo) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 4:21 |

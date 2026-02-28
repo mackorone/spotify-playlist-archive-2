@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 
 > Your favorite Latin Indie classics\. Cover: Mon Laferte
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,686 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,755 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 61 | [Clandestino](https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:40 |
 | 62 | [Nydia](https://open.spotify.com/track/7ukQ49ilGpTfivGRtYda4E) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 4:13 |
 | 63 | [Ambar Bossa Nova \- Spotify Singles](https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Spotify Singles](https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV) | 3:01 |
-| 64 | [Toca Madera](https://open.spotify.com/track/3uuFWFeuJR3srECmr6BdfK) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [\#ponteelcasco](https://open.spotify.com/album/7mqkMdFTDiwvchm99McUV6) | 4:12 |
-| 65 | [Flamingo](https://open.spotify.com/track/0KuIShA8b0JR6X94q8JuoV) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Nuestra](https://open.spotify.com/album/7kSxnf1JIMeFMIKKC5xDtt) | 4:45 |
+| 64 | [Flamingo](https://open.spotify.com/track/0KuIShA8b0JR6X94q8JuoV) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Nuestra](https://open.spotify.com/album/7kSxnf1JIMeFMIKKC5xDtt) | 4:45 |
+| 65 | [Toca Madera](https://open.spotify.com/track/3uuFWFeuJR3srECmr6BdfK) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [\#ponteelcasco](https://open.spotify.com/album/7mqkMdFTDiwvchm99McUV6) | 4:12 |
 | 66 | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/track/40q4bzLjO9zqBIZYP442af) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/album/0AZHlKXAlrkRx6iPs3s2dX) | 3:52 |
 | 67 | [NTE](https://open.spotify.com/track/48P1N8CkOMbdaOLZgwDo4x) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [NTE](https://open.spotify.com/album/7iTTVfzk46Vk4NFaJLksLu) | 2:51 |
 | 68 | [Inercia](https://open.spotify.com/track/6QLvtmaZbRgbaUmFtnbor5) | [MKRNI](https://open.spotify.com/artist/1X3EisQbC1AnVLw8I9zvFp) | [Canciones](https://open.spotify.com/album/77vCDDC5hVzCzZBlE6sOeR) | 3:54 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 70 | [Lonely](https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Lonely](https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC) | 3:33 |
 | 71 | [Help Me](https://open.spotify.com/track/0P0Xmwg81SFY86Fd9PP5Pu) | [Dj Bitman](https://open.spotify.com/artist/7FfKue3foqwcKAUi36xsh9) | [Colour](https://open.spotify.com/album/60Vu18cl9NX9yrRL7ywRLz) | 3:57 |
 | 72 | [Hablar de Ti](https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ciencia Exacta](https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv) | 3:25 |
-| 73 | [Play Your Game](https://open.spotify.com/track/24mEoCYvDhCaM3ovAFefY0) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [La Santa Cecilia](https://open.spotify.com/album/2t2xn54ccuUkLdCHg7OgXo) | 3:03 |
-| 74 | [La Vida Mejor](https://open.spotify.com/track/4dkjZa9RAkz1RKZAAxQnUD) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Será](https://open.spotify.com/album/3pmsaPjaLVhM7In7eZKEre) | 4:17 |
+| 73 | [La Vida Mejor](https://open.spotify.com/track/4dkjZa9RAkz1RKZAAxQnUD) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Será](https://open.spotify.com/album/3pmsaPjaLVhM7In7eZKEre) | 4:17 |
+| 74 | [Play Your Game](https://open.spotify.com/track/24mEoCYvDhCaM3ovAFefY0) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [La Santa Cecilia](https://open.spotify.com/album/2t2xn54ccuUkLdCHg7OgXo) | 3:03 |
 | 75 | [Lejos \(feat\. Coco Santos\)](https://open.spotify.com/track/672t21hOO34Xvv6oMLvzPN) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Coco Santos](https://open.spotify.com/artist/1RE9sQKBfhkaeNVSJ0q6Sg) | [Adiós](https://open.spotify.com/album/0Q387CN0LUiJentAMwkSLA) | 2:46 |
 | 76 | [Si Tú Estás Bien](https://open.spotify.com/track/11PYNHm1VmLN1w6N7AdWyV) | [Tita](https://open.spotify.com/artist/5VUc3B1hoBWWwodjRD8JHp) | [Si Tú Estás Bien](https://open.spotify.com/album/1rNRGzcojz5SXlmCLCDJSa) | 4:23 |
 | 77 | [Shining in the Dark](https://open.spotify.com/track/7sfvCOHJZfFKN5wOlSrvKc) | [Cienfue](https://open.spotify.com/artist/0hPQfsafhd7umQTz29DCiT) | [Shining in the Dark](https://open.spotify.com/album/0CEE0SoxO27KEQL88m0PS6) | 4:20 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 97 | [Cariño](https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Cariño](https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6) | 4:18 |
 | 98 | [Brillas](https://open.spotify.com/track/6VuUMo1TusnqBxLTnr3hOI) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/6XMk5rlnvEtbOUhUlIGl0R) | 3:46 |
 | 99 | [Lo Que Siento](https://open.spotify.com/track/3oyf4dalm17kzTE8LJDbgR) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Lo Que Siento](https://open.spotify.com/album/04rhYQT6GJgWQQuRE6FfEW) | 5:12 |
-| 100 | [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 |
+| 100 | [Me Gustas Tu](https://open.spotify.com/track/6t0fYRoZlM5kQ9qT19JnbZ) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Próxima Estación: Esperanza](https://open.spotify.com/album/6V5K77ZC7Gq3I1GgOVSoVs) | 3:59 |
 
 Snapshot ID: `AAAAAGy4wryUAAYdDOLsPhcPcWiMpbNv`

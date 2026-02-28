@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4h9x56qh0Qkr4hTfRGxJgl">Julian Bunetta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,535 likes - 317 songs - 17 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,538 likes - 317 songs - 17 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 14 | [Best Song Ever](https://open.spotify.com/track/5T7ZFtCcOgkpjxcuaeZbw0) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:20 |
 | 15 | [History](https://open.spotify.com/track/0HMjXBAZmSYOTTi33WpMso) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:07 |
 | 16 | [Strong](https://open.spotify.com/track/3cKM7UXBZmgjEgEBTkaIlU) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:04 |
-| 17 | [Nice To Meet Ya](https://open.spotify.com/track/0DrFTaAX2srXPkuag35djb) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 2:38 |
-| 18 | [Two Ghosts](https://open.spotify.com/track/4B1rpPmQXwj78wk6aIGwwU) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:49 |
+| 17 | [Two Ghosts](https://open.spotify.com/track/4B1rpPmQXwj78wk6aIGwwU) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:49 |
+| 18 | [Nice To Meet Ya](https://open.spotify.com/track/0DrFTaAX2srXPkuag35djb) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 2:38 |
 | 19 | [No Control](https://open.spotify.com/track/4JaLkM90MJutDAl5jD9BZX) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:19 |
 | 20 | [Olivia](https://open.spotify.com/track/5dONhl6aXFuN86UBdayF6W) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 2:57 |
 | 21 | [Black And White](https://open.spotify.com/track/7rpNuuoMbid56XkDsx2FjE) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:13 |
@@ -326,4 +326,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 316 | [Ballerina](https://open.spotify.com/track/2HeIrXWLqBvBHMBMMQ3Zhv) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 2:28 |
 | 317 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `AcKvHgAAAACmiI9ai3Gq9UWMrdKgGerU`
+Snapshot ID: `AcK0ggAAAADb2oqk2IVYat2uTx2DhEzJ`

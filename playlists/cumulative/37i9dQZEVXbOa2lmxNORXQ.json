@@ -6502,7 +6502,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 211084,
       "name": "Cuando No Era Cantante",
       "url": "https://open.spotify.com/track/6N2iccqxRInhTLHc2Fu3W0"
@@ -6532,7 +6532,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 327488,
       "name": "Cuando No Era Cantante - Remix",
       "url": "https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE"
@@ -13044,6 +13044,24 @@
       "duration_ms": 176285,
       "name": "Hablarte Claro",
       "url": "https://open.spotify.com/track/53CiBLUrTQXihsxwT3amvj"
+    },
+    {
+      "album": {
+        "name": "Sentimiento, Elegancia y Maldad",
+        "url": "https://open.spotify.com/album/0hfWMwwiPPoD5LV0QeIskI"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171333,
+      "name": "Hace Mucho Tiempo",
+      "url": "https://open.spotify.com/track/2amAkuq2kUFgo87zQLMorw"
     },
     {
       "album": {
@@ -19840,7 +19858,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 134814,
       "name": "MUSA",
       "url": "https://open.spotify.com/track/0QuHK1VvIZ1Kt2GfqRrdVo"
@@ -22340,7 +22358,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-01",
+      "date_removed": null,
       "duration_ms": 214120,
       "name": "Pa' Que La Pases Bien",
       "url": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj"
@@ -24038,6 +24056,24 @@
       "duration_ms": 177528,
       "name": "Por Qu\u00e9 la Envidia",
       "url": "https://open.spotify.com/track/433eYQkvCgJKXh1o7LtplV"
+    },
+    {
+      "album": {
+        "name": "POR SI MA\u00d1ANA NO ESTOY",
+        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264946,
+      "name": "POR SI MA\u00d1ANA NO ESTOY",
+      "url": "https://open.spotify.com/track/595wwjQiad6e6lSTScmXvz"
     },
     {
       "album": {

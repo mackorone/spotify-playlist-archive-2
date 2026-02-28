@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,113 songs - 2 day 7 hr 30 min
+1,114 songs - 2 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De) | 2:34 | 2025-01-16 | 2025-02-07 |
 | [Genesis, pt\. ii](https://open.spotify.com/track/4VUc2yMO1AttRC7jahya9y) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 3:28 | 2024-07-02 | 2024-07-27 |
 | [GIRLS](https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [GIRLS](https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC) | 2:32 | 2024-07-02 | 2024-08-30 |
+| [GO](https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 3:15 | 2026-02-26 |  |
 | [God Knows](https://open.spotify.com/track/0yOwc5hOnEQSgDTApRPgzC) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [God Knows](https://open.spotify.com/album/3G3sTPzTb0R6OQTt3nJI7i) | 2:50 | 2025-04-03 | 2025-04-25 |
 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 | 2025-06-06 | 2025-06-27 |
 | [GODSPEED](https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [C,XOXO \- Magic City Edition](https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm) | 3:36 | 2024-09-05 | 2024-09-20 |

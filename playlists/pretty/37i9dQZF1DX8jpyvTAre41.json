@@ -1,28 +1,124 @@
 {
-  "description": "The best rock songs of the moment. Cover: Royal Tusk",
-  "num_followers": 193914,
+  "description": "The best rock songs of the moment. Cover: The Sheepdogs",
+  "num_followers": 193909,
   "original_name": "Rock Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJHmVuw52wc2KanDTMJuxmH2k/72",
+  "snapshot_id": "AAAAALYa8CVFx4Le6KaI+1jZagw3z0nr",
   "tracks": [
     {
-      "added_at": "2026-02-20 05:01:31",
+      "added_at": "2026-02-27 05:01:25",
       "album": {
-        "name": "Days Of Ash EP",
-        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
+        "name": "Keep Out of the Storm",
+        "url": "https://open.spotify.com/album/4zVep3YJysMh3gyQmCNKRr"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
         }
       ],
-      "duration_ms": 235413,
-      "name": "Song Of The Future",
-      "url": "https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1"
+      "duration_ms": 266053,
+      "name": "Bad For Your Health",
+      "url": "https://open.spotify.com/track/1yqEr1wbrKeDQzoVr4kvnB"
+    },
+    {
+      "added_at": "2026-02-27 05:01:25",
+      "album": {
+        "name": "Bad Moons",
+        "url": "https://open.spotify.com/album/31Az8zsLomPk3LrfEs0q6p"
+      },
+      "artists": [
+        {
+          "name": "American Football",
+          "url": "https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4"
+        }
+      ],
+      "duration_ms": 493146,
+      "name": "Bad Moons",
+      "url": "https://open.spotify.com/track/1vFLg6nWigxe7H8pw2GT6z"
+    },
+    {
+      "added_at": "2026-02-27 05:01:25",
+      "album": {
+        "name": "KISSBURN",
+        "url": "https://open.spotify.com/album/5Q7FMsEUK0Cc35gxZqZDaT"
+      },
+      "artists": [
+        {
+          "name": "Bye Parula",
+          "url": "https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm"
+        }
+      ],
+      "duration_ms": 192904,
+      "name": "KISSBURN",
+      "url": "https://open.spotify.com/track/06PLaIZyj917CnrwaJ3USU"
+    },
+    {
+      "added_at": "2026-02-27 05:01:25",
+      "album": {
+        "name": "never come never morning",
+        "url": "https://open.spotify.com/album/3KNP2YOHUN7mZ59sfWsQ5U"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "never come never morning",
+      "url": "https://open.spotify.com/track/4jOknxaxzqmtiw583YTli6"
+    },
+    {
+      "added_at": "2026-02-27 05:01:25",
+      "album": {
+        "name": "pieces",
+        "url": "https://open.spotify.com/album/0HtKs3fzUYPQIjA0kXsCDk"
+      },
+      "artists": [
+        {
+          "name": "thistle.",
+          "url": "https://open.spotify.com/artist/4dPHAp5JXnj8HkY71hWVj5"
+        }
+      ],
+      "duration_ms": 202788,
+      "name": "pieces",
+      "url": "https://open.spotify.com/track/0TYYCO93FESiUlTanVH9pX"
+    },
+    {
+      "added_at": "2026-02-27 05:01:25",
+      "album": {
+        "name": "the punisher",
+        "url": "https://open.spotify.com/album/4lBwSddoFh5fy1T7uUCE5L"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 189107,
+      "name": "the punisher",
+      "url": "https://open.spotify.com/track/4YOpINlEvanckbfIAwsdkx"
+    },
+    {
+      "added_at": "2026-02-27 05:01:25",
+      "album": {
+        "name": "breathe",
+        "url": "https://open.spotify.com/album/0wfUkmhfadrvXWdN58N8Hi"
+      },
+      "artists": [
+        {
+          "name": "Evan Fong",
+          "url": "https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "breathe",
+      "url": "https://open.spotify.com/track/4TDVVe5jqspajdVDg8GYJF"
     },
     {
       "added_at": "2026-02-20 05:01:31",
@@ -43,22 +139,6 @@
     {
       "added_at": "2026-02-20 05:01:31",
       "album": {
-        "name": "ARMISTICE",
-        "url": "https://open.spotify.com/album/604vfYmtxIssJyIPG4xG1d"
-      },
-      "artists": [
-        {
-          "name": "Royal Tusk",
-          "url": "https://open.spotify.com/artist/122qG4lB9vG6XCjrwJPnRJ"
-        }
-      ],
-      "duration_ms": 224400,
-      "name": "ARMISTICE",
-      "url": "https://open.spotify.com/track/7LX3sqzA7gTGgreDJMZVVd"
-    },
-    {
-      "added_at": "2026-02-20 05:01:31",
-      "album": {
         "name": "Broken Record",
         "url": "https://open.spotify.com/album/4GF7FP9ViwD2yTyDGcgY7S"
       },
@@ -71,6 +151,70 @@
       "duration_ms": 145181,
       "name": "Broken Record",
       "url": "https://open.spotify.com/track/187PhQNVowHs4jJj4Ebzzu"
+    },
+    {
+      "added_at": "2026-02-27 05:01:25",
+      "album": {
+        "name": "Bill's Cafe",
+        "url": "https://open.spotify.com/album/5BD2jCsQhT0Th1AQIaLezB"
+      },
+      "artists": [
+        {
+          "name": "Garret T. Willie",
+          "url": "https://open.spotify.com/artist/1h3omMr7jTuA0Tbuy8fALW"
+        }
+      ],
+      "duration_ms": 208064,
+      "name": "Going To Toronto",
+      "url": "https://open.spotify.com/track/4xpLJA2W5I89TyC7VufCwq"
+    },
+    {
+      "added_at": "2026-02-27 05:01:25",
+      "album": {
+        "name": "The Big Knife",
+        "url": "https://open.spotify.com/album/0OH5GUOZuYs0VdXBAz2tfw"
+      },
+      "artists": [
+        {
+          "name": "Taylor Janzen",
+          "url": "https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "The Big Knife",
+      "url": "https://open.spotify.com/track/0Ugmy0PjqFCc8HPWxus8pW"
+    },
+    {
+      "added_at": "2026-02-20 05:01:31",
+      "album": {
+        "name": "Days Of Ash EP",
+        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 235413,
+      "name": "Song Of The Future",
+      "url": "https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1"
+    },
+    {
+      "added_at": "2026-02-20 05:01:31",
+      "album": {
+        "name": "ARMISTICE",
+        "url": "https://open.spotify.com/album/604vfYmtxIssJyIPG4xG1d"
+      },
+      "artists": [
+        {
+          "name": "Royal Tusk",
+          "url": "https://open.spotify.com/artist/122qG4lB9vG6XCjrwJPnRJ"
+        }
+      ],
+      "duration_ms": 224400,
+      "name": "ARMISTICE",
+      "url": "https://open.spotify.com/track/7LX3sqzA7gTGgreDJMZVVd"
     },
     {
       "added_at": "2026-02-20 05:01:31",
@@ -1499,154 +1643,6 @@
       "duration_ms": 183965,
       "name": "ANTIDOTE",
       "url": "https://open.spotify.com/track/0PvlSVpiDLnJbI1wmApqqQ"
-    },
-    {
-      "added_at": "2025-12-12 05:01:28",
-      "album": {
-        "name": "They Were Always Here",
-        "url": "https://open.spotify.com/album/6qL50fXDRthHQTp9O24say"
-      },
-      "artists": [
-        {
-          "name": "Zero 9:36",
-          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
-        },
-        {
-          "name": "No Love For The Middle Child",
-          "url": "https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX"
-        }
-      ],
-      "duration_ms": 190428,
-      "name": "Make a Mess",
-      "url": "https://open.spotify.com/track/0crhkNZJhowGwML5s7TYGp"
-    },
-    {
-      "added_at": "2026-01-09 05:01:24",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/1COf08hR9sNHhd6jNHAjbn"
-      },
-      "artists": [
-        {
-          "name": "Avalon Stone",
-          "url": "https://open.spotify.com/artist/01TZdoUJTdNanUe9TRIpcq"
-        }
-      ],
-      "duration_ms": 201287,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/3q9tHGzGK8e94sTusovJYh"
-    },
-    {
-      "added_at": "2026-01-09 05:01:24",
-      "album": {
-        "name": "Stranger Now",
-        "url": "https://open.spotify.com/album/4QLW6fLAAKDNbZLQaJYptE"
-      },
-      "artists": [
-        {
-          "name": "Wintersleep",
-          "url": "https://open.spotify.com/artist/1VrpL9mx2a6WRolLh7mHrE"
-        }
-      ],
-      "duration_ms": 235765,
-      "name": "Stranger Now",
-      "url": "https://open.spotify.com/track/2NsGlGykcMfPnyeWdPXO6J"
-    },
-    {
-      "added_at": "2025-12-12 05:01:28",
-      "album": {
-        "name": "GO BIG OR GO HOME",
-        "url": "https://open.spotify.com/album/1QdUJ9LPNwQXCIgeCs7HKf"
-      },
-      "artists": [
-        {
-          "name": "SUCKERPUNCH!",
-          "url": "https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp"
-        }
-      ],
-      "duration_ms": 153318,
-      "name": "LIKE ME LIKE THAT",
-      "url": "https://open.spotify.com/track/04uBUXTAYNMUVr61CEakiq"
-    },
-    {
-      "added_at": "2025-12-05 05:01:35",
-      "album": {
-        "name": "SCRAP",
-        "url": "https://open.spotify.com/album/1NgqhKhq5MSf8scptfbCqb"
-      },
-      "artists": [
-        {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
-        }
-      ],
-      "duration_ms": 189847,
-      "name": "SEVENTEEN",
-      "url": "https://open.spotify.com/track/4RvawFof8a3euSxGe832wt"
-    },
-    {
-      "added_at": "2025-12-12 05:01:28",
-      "album": {
-        "name": "TRUEST SOUND",
-        "url": "https://open.spotify.com/album/4vgOZlNSwFsfgDsRuuswS1"
-      },
-      "artists": [
-        {
-          "name": "Clothesline From Hell",
-          "url": "https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS"
-        }
-      ],
-      "duration_ms": 240917,
-      "name": "TRUEST SOUND",
-      "url": "https://open.spotify.com/track/6g7VwSBcKm5kOef5AJMsKd"
-    },
-    {
-      "added_at": "2025-12-05 05:01:35",
-      "album": {
-        "name": "INERTIA",
-        "url": "https://open.spotify.com/album/5WQ2aXsGMKlakBEoHFyOqk"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 217292,
-      "name": "MASTERS OF WAR",
-      "url": "https://open.spotify.com/track/0EJlSUNoYL931cYAQspN5i"
-    },
-    {
-      "added_at": "2025-12-05 05:01:35",
-      "album": {
-        "name": "Burn the Ballroom Down",
-        "url": "https://open.spotify.com/album/6Gd4vT0Yk3d0aSyAnykUgb"
-      },
-      "artists": [
-        {
-          "name": "Huddy",
-          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
-        }
-      ],
-      "duration_ms": 235438,
-      "name": "Burn the Ballroom Down",
-      "url": "https://open.spotify.com/track/2sJp1wIFUHyNouLFOFFfN2"
-    },
-    {
-      "added_at": "2025-12-05 05:01:35",
-      "album": {
-        "name": "People Watching (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 202973,
-      "name": "The Treadmill",
-      "url": "https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io"
     }
   ],
   "unique_name": "Rock Now",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Perreando toda la noche con Capo, Gabito Ballesteros y Esteban Gonz\u00e1lez.",
+  "description": "Perreando toda la noche con SAIKO, SINAKA, Kennat y Benja Valencia en cover.",
   "name": "Perreo City",
   "tracks": [
     {
@@ -3484,7 +3484,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 183533,
       "name": "Caperucita",
       "url": "https://open.spotify.com/track/6btRx5dpzJvsZanvxMITGw"
@@ -5533,6 +5533,32 @@
     },
     {
       "album": {
+        "name": "Dale s\u00fabete",
+        "url": "https://open.spotify.com/album/5yQmR9kIj0RfVkYTOgFfDY"
+      },
+      "artists": [
+        {
+          "name": "Joss ML",
+          "url": "https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA"
+        },
+        {
+          "name": "Enayy",
+          "url": "https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ"
+        },
+        {
+          "name": "Dj Jester",
+          "url": "https://open.spotify.com/artist/3acXvaPqSOwM7EabXX0225"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Dale s\u00fabete",
+      "url": "https://open.spotify.com/track/5IQbYsIvLlluGqVoOxm3rJ"
+    },
+    {
+      "album": {
         "name": "Darte",
         "url": "https://open.spotify.com/album/6rxYQOaGlInkQ2zM4zkhx6"
       },
@@ -6197,6 +6223,24 @@
     },
     {
       "album": {
+        "name": "DIABLOTA",
+        "url": "https://open.spotify.com/album/40JBgmHN7UKCjp7zx2dKue"
+      },
+      "artists": [
+        {
+          "name": "Falke 912",
+          "url": "https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135361,
+      "name": "DIABLOTA",
+      "url": "https://open.spotify.com/track/1i3qX7rMAptsBquDxvLy5R"
+    },
+    {
+      "album": {
         "name": "Dictadura",
         "url": "https://open.spotify.com/album/45dcycgr7aPRo5boag4A6h"
       },
@@ -6324,6 +6368,28 @@
       "duration_ms": 197052,
       "name": "DILUVIO",
       "url": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"
+    },
+    {
+      "album": {
+        "name": "Dios los Bendiga",
+        "url": "https://open.spotify.com/album/75L1b4ZIIgyJdhK7FccMwI"
+      },
+      "artists": [
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136956,
+      "name": "Dios los Bendiga",
+      "url": "https://open.spotify.com/track/3vDnMJ7jpmqgNaobJBOUqW"
     },
     {
       "album": {
@@ -6954,7 +7020,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 138100,
       "name": "EL PROCESO",
       "url": "https://open.spotify.com/track/2YqcyQUmnVIZgO7uciCfGW"
@@ -7480,7 +7546,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 133335,
       "name": "Enredarme",
       "url": "https://open.spotify.com/track/1D1L7rd2J4qBwQXJoM8u1B"
@@ -8301,6 +8367,36 @@
     },
     {
       "album": {
+        "name": "FLAITEERA",
+        "url": "https://open.spotify.com/album/4IuwTipm83UsyGlgQclqW8"
+      },
+      "artists": [
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "SINAKA",
+          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
+        },
+        {
+          "name": "Kennat",
+          "url": "https://open.spotify.com/artist/638YptdwVSImAVaR5aUagq"
+        },
+        {
+          "name": "Benja Valencia",
+          "url": "https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "FLAITEERA",
+      "url": "https://open.spotify.com/track/2mh6vP7zo6mDXXKLnpHLPt"
+    },
+    {
+      "album": {
         "name": "Flashbacks | CROSSOVER #9",
         "url": "https://open.spotify.com/album/3RVunVsTpDf0UQ18IVVWBy"
       },
@@ -9002,6 +9098,28 @@
       "duration_ms": 170920,
       "name": "GATITA GANGSTER",
       "url": "https://open.spotify.com/track/7gUtEoYJcPnhF4bJAJ3O8q"
+    },
+    {
+      "album": {
+        "name": "Gatita Malva",
+        "url": "https://open.spotify.com/album/74SE68JgzmFo1ArLxGVr01"
+      },
+      "artists": [
+        {
+          "name": "Z Jocker",
+          "url": "https://open.spotify.com/artist/6IaOUkLKnYH0q8Vm2AdhQ5"
+        },
+        {
+          "name": "Bayron Fire",
+          "url": "https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "Gatita Malva",
+      "url": "https://open.spotify.com/track/7BxsP1kxSNnoq1V3LXH31s"
     },
     {
       "album": {
@@ -13360,7 +13478,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 185729,
       "name": "Me Piensas",
       "url": "https://open.spotify.com/track/56UaNTHOEL36gATl23Vfd1"
@@ -13536,7 +13654,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 146742,
       "name": "Menina",
       "url": "https://open.spotify.com/track/0vXlQXYzssHB7YiphovU0N"
@@ -14594,7 +14712,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 134634,
       "name": "Nadie Como Tu",
       "url": "https://open.spotify.com/track/3U2aw7ogyl8koewWFHzB9C"
@@ -16322,7 +16440,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 190371,
       "name": "Panty Chanel",
       "url": "https://open.spotify.com/track/16tB6ylVvnR7uUWdl9F09m"
@@ -22255,6 +22373,28 @@
     },
     {
       "album": {
+        "name": "Titera",
+        "url": "https://open.spotify.com/album/6XeYEgjmg8qVm8Pov5Q6rt"
+      },
+      "artists": [
+        {
+          "name": "Yazza",
+          "url": "https://open.spotify.com/artist/2pxjRLtOoFqQd8JCMzo9cM"
+        },
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226875,
+      "name": "Titera",
+      "url": "https://open.spotify.com/track/08tgxaTqUF0ZIuCVb6HjWL"
+    },
+    {
+      "album": {
         "name": "G\u00e1rgolas Forever",
         "url": "https://open.spotify.com/album/05CWqvhNPDwN3sWXwMxXXO"
       },
@@ -22923,6 +23063,56 @@
     },
     {
       "album": {
+        "name": "UA (feat. Bayriton, Lleflight, Alex Fer, Vishoko, King Savagge)",
+        "url": "https://open.spotify.com/album/5wPxvQ8hN2YeqCjpqrpF8h"
+      },
+      "artists": [
+        {
+          "name": "Sly",
+          "url": "https://open.spotify.com/artist/3n7sjffAzmx5iCvpSizuOs"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Ag Daddy",
+          "url": "https://open.spotify.com/artist/73KNwwW76I5apbxImsIkJ1"
+        },
+        {
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
+        },
+        {
+          "name": "Lleflight",
+          "url": "https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V"
+        },
+        {
+          "name": "Alex Fer",
+          "url": "https://open.spotify.com/artist/6NnQvCLkrl07c3GOimOKHV"
+        },
+        {
+          "name": "Vishoko",
+          "url": "https://open.spotify.com/artist/19C1rDlK587MsGNU8wctkG"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236743,
+      "name": "UA (feat. Bayriton, Lleflight, Alex Fer, Vishoko, King Savagge)",
+      "url": "https://open.spotify.com/track/4UnGHY6DifIX1Fn7iauXxa"
+    },
+    {
+      "album": {
         "name": "Ubi",
         "url": "https://open.spotify.com/album/1T7eoAJmQkDVxPWYQuyEUM"
       },
@@ -23407,6 +23597,32 @@
     },
     {
       "album": {
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/7vG8iwFwQTGRF5nVeACpmd"
+      },
+      "artists": [
+        {
+          "name": "El Agu",
+          "url": "https://open.spotify.com/artist/2Sxv6cV5rgwQbwkaCV6qOt"
+        },
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        },
+        {
+          "name": "Tesh Music",
+          "url": "https://open.spotify.com/artist/5xiNhXWBrVrVTIG4jQVxTk"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192098,
+      "name": "Vali\u00f3 La Pena",
+      "url": "https://open.spotify.com/track/1DYMojCbmXo1c8bLpVKxIz"
+    },
+    {
+      "album": {
         "name": "Apocalipsis",
         "url": "https://open.spotify.com/album/47JohERDAJVAzmfCgOfG5w"
       },
@@ -23730,7 +23946,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 133697,
       "name": "Vuela",
       "url": "https://open.spotify.com/track/0gkBOmchTKJVnEP8l7nN4Z"

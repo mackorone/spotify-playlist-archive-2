@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 23 | [Don't Cry For Me \(with Jason Derulo\)](https://open.spotify.com/track/0FLwo3U1NrjocfK2FDisrX) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Don't Cry For Me \(with Jason Derulo\)](https://open.spotify.com/album/6ZPH8jjxr3QtODz3bXX4kP) | 2:35 |
 | 24 | [Angel Of My Dreams](https://open.spotify.com/track/46i8ZYPRekK8tmaXJO6M9r) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/68xnlxNDFcNGjDxxOv7gxH) | 3:17 |
 | 25 | [Huyu Suyu](https://open.spotify.com/track/6TxVucau8TPKafZT68xOhI) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Hoppa \(pt\. 1\)](https://open.spotify.com/album/5AkqkeuP9dc0j8jl1z54rE) | 2:33 |
-| 26 | [Always](https://open.spotify.com/track/5poevcmYCOZ8uZQnUuOPxC) | [The Him](https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7) | [Always](https://open.spotify.com/album/1u3ETW11Uysr6UF6din8CG) | 3:13 |
-| 27 | [BLA BLA BLA](https://open.spotify.com/track/0GVKrtG7QqEYBGOAspofCW) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 3:04 |
+| 26 | [BLA BLA BLA](https://open.spotify.com/track/0GVKrtG7QqEYBGOAspofCW) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 3:04 |
+| 27 | [Always](https://open.spotify.com/track/5poevcmYCOZ8uZQnUuOPxC) | [The Him](https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7) | [Always](https://open.spotify.com/album/1u3ETW11Uysr6UF6din8CG) | 3:13 |
 | 28 | [Lonely \(feat\. MAX\)](https://open.spotify.com/track/7w9L0X5hoJi5cSqL68IR6s) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [One in a Million](https://open.spotify.com/album/4GDE5FdlgBD3FE4A454YNz) | 2:47 |
 | 29 | [HIGH \(feat\. Claudia Valentina\)](https://open.spotify.com/track/4KoSb4nqOjLMptbDaTbOJv) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [11:11](https://open.spotify.com/album/50MeziN5Do8zDtN4wINTTS) | 2:48 |
 | 30 | [Dance in the Dark](https://open.spotify.com/track/3i5jKbMOcBqgnKlx5UyH9d) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Dance in the Dark](https://open.spotify.com/album/4rq7tp31zuRebJziiJ2oxB) | 2:58 |
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 136 | [The View](https://open.spotify.com/track/0038fnjL6UVsKq5jzV5QGm) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [The View](https://open.spotify.com/album/4y8f3Y73QLPyoqGTzAn9qG) | 2:59 |
 | 137 | [Season of Our Love](https://open.spotify.com/track/0lpJumwXtUE3xD8RP0oll4) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [Season of Our Love](https://open.spotify.com/album/4M15n8kQVAQkGrP6XoBhyi) | 2:08 |
 
-Snapshot ID: `AcKvFAAAAADXJWsaxy6nf2IzAb7exw2G`
+Snapshot ID: `AcK0eAAAAABm78YqDQUTcoUAnGUeHOcD`

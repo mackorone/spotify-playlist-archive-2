@@ -1,13 +1,45 @@
 {
   "description": "Suomen suurin ja paras rock-soittolista. ",
-  "num_followers": 32527,
+  "num_followers": 32524,
   "original_name": "VOLUME SUOMI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALbFKarqtX3DbGJvAVmVaN9BBFJ6",
+  "snapshot_id": "AAAAAEAvIibGRi/yCE/z/VgXI862ZZT8",
   "tracks": [
+    {
+      "added_at": "2026-02-27 10:10:18",
+      "album": {
+        "name": "Apnea",
+        "url": "https://open.spotify.com/album/0shNaOLJloTHlX1iDlXd7t"
+      },
+      "artists": [
+        {
+          "name": "Stam1na",
+          "url": "https://open.spotify.com/artist/41nB823nb3wxEI25UeGHqG"
+        }
+      ],
+      "duration_ms": 353915,
+      "name": "Lahja",
+      "url": "https://open.spotify.com/track/25y42iO1Bpjh3Rg1sBftzR"
+    },
+    {
+      "added_at": "2026-02-27 10:10:18",
+      "album": {
+        "name": "Freedom Concept",
+        "url": "https://open.spotify.com/album/3a67wBiTMAQbtz4MtJTqqX"
+      },
+      "artists": [
+        {
+          "name": "Sonata Arctica",
+          "url": "https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH"
+        }
+      ],
+      "duration_ms": 253565,
+      "name": "Freedom Concept",
+      "url": "https://open.spotify.com/track/3g8dRL2mQOgqUZVdK4Ba6O"
+    },
     {
       "added_at": "2026-01-08 22:00:02",
       "album": {
@@ -105,6 +137,22 @@
       "url": "https://open.spotify.com/track/6okhNU97I9bKQ1wCbtleOQ"
     },
     {
+      "added_at": "2026-02-27 10:10:18",
+      "album": {
+        "name": "Kade",
+        "url": "https://open.spotify.com/album/50i1el3KSBlu6ROLH9gWzT"
+      },
+      "artists": [
+        {
+          "name": "Ruoska",
+          "url": "https://open.spotify.com/artist/0MCx3EcBHDcEb2nFUCMxSu"
+        }
+      ],
+      "duration_ms": 232252,
+      "name": "Kettingit",
+      "url": "https://open.spotify.com/track/4owrESDc3HKDBerg0vfr4e"
+    },
+    {
       "added_at": "2026-01-08 22:00:02",
       "album": {
         "name": "Nothing from This World (Radio Edit)",
@@ -153,6 +201,22 @@
       "url": "https://open.spotify.com/track/03A89GAR9MPybXei4sZiYh"
     },
     {
+      "added_at": "2026-02-27 10:10:18",
+      "album": {
+        "name": "Kuolemankello",
+        "url": "https://open.spotify.com/album/3saVVq5kHt7w9PTfiVVHCj"
+      },
+      "artists": [
+        {
+          "name": "Noumena",
+          "url": "https://open.spotify.com/artist/4vWgFBf8pMnDHVq2CTWvvL"
+        }
+      ],
+      "duration_ms": 358098,
+      "name": "Kuolemankello",
+      "url": "https://open.spotify.com/track/7v5F0dkZafJJz20cjXRT34"
+    },
+    {
       "added_at": "2026-01-08 22:00:02",
       "album": {
         "name": "Dying To Love",
@@ -167,6 +231,22 @@
       "duration_ms": 256965,
       "name": "Dying To Love",
       "url": "https://open.spotify.com/track/1TPdMmb92BoWvDFQlCuVl0"
+    },
+    {
+      "added_at": "2026-02-27 10:10:18",
+      "album": {
+        "name": "Soulbound",
+        "url": "https://open.spotify.com/album/5sxBSdrWYHSJUKiGUoD8FW"
+      },
+      "artists": [
+        {
+          "name": "Gladenfold",
+          "url": "https://open.spotify.com/artist/5fReK32sz2vmbh61o5TGLe"
+        }
+      ],
+      "duration_ms": 311881,
+      "name": "Ghostlike",
+      "url": "https://open.spotify.com/track/0GRvnzulLTAigMCZTEZETC"
     },
     {
       "added_at": "2026-01-08 22:00:02",

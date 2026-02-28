@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g1g3K.md) - [plain]
 
 > This is Durand Bernarr\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,759 likes - 48 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,769 likes - 48 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g1g3K.md) - [plain]
 | 35 | [Get Paid \(feat\. Durand Bernarr\)](https://open.spotify.com/track/06YScHhrQUlW4suDU7mslP) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Humo en la Trampa 3](https://open.spotify.com/album/5q8hNRlU7Bzo0WOui0hbci) | 2:41 |
 | 36 | [Around](https://open.spotify.com/track/3F5owzlK86hpL1dkI3HTI4) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Sound Check](https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn) | 3:33 |
 | 37 | [ETA?](https://open.spotify.com/track/2KvySb5FNxG0cZWsllmoeM) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [En Route](https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5) | 2:16 |
-| 38 | [Homage](https://open.spotify.com/track/4jCwxj1GpM7MTSNy6i2ihs) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [B\-Boys Blues \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/26uTBBw7ZHAggZpOFP0ANQ) | 2:53 |
-| 39 | [Whisper \(Want My Luv\)](https://open.spotify.com/track/5yFnawMLEJyxzRlbMZeSPS) | [Patrick Paige II](https://open.spotify.com/artist/3rTMj1pmRvXBfzAEIk9XX9), [Allen Love](https://open.spotify.com/artist/556i2ElDsmb4qh5bEOZ1C9), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [If I Fail Are We Still Cool?](https://open.spotify.com/album/4dNMPTG96R8kLnZQ37yOIB) | 3:49 |
+| 38 | [Whisper \(Want My Luv\)](https://open.spotify.com/track/5yFnawMLEJyxzRlbMZeSPS) | [Patrick Paige II](https://open.spotify.com/artist/3rTMj1pmRvXBfzAEIk9XX9), [Allen Love](https://open.spotify.com/artist/556i2ElDsmb4qh5bEOZ1C9), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [If I Fail Are We Still Cool?](https://open.spotify.com/album/4dNMPTG96R8kLnZQ37yOIB) | 3:49 |
+| 39 | [Homage](https://open.spotify.com/track/4jCwxj1GpM7MTSNy6i2ihs) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [B\-Boys Blues \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/26uTBBw7ZHAggZpOFP0ANQ) | 2:53 |
 | 40 | [Search Party](https://open.spotify.com/track/4y3cjPpuyUiyE7z02TrxfJ) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Sound Check](https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn) | 3:58 |
 | 41 | [Vacancy \(feat\. Just Liv\)](https://open.spotify.com/track/0CS4UnPB1EoMWGB0DFjUy4) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Just Liv](https://open.spotify.com/artist/0TkJwaDSQ3kVhCxEPX0wey) | [Wanderlust](https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG) | 4:03 |
 | 42 | [Brick by Brick \- Durand Bernarr Version](https://open.spotify.com/track/7p9tm4Z4JZm7FsvoyyR9sT) | [The Voices of Saturday Church](https://open.spotify.com/artist/3p1fkrf1vEETjpSULCYpe4), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Saturday Church \(Official Concept Album\)](https://open.spotify.com/album/5MUbWieT5aVx5oVtrSgHxG) | 3:44 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g1g3K.md) - [plain]
 | 47 | [Bump The Man \- Live](https://open.spotify.com/track/5yWFIKczW4utUfbHkrZt7p) | [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Raw In Amsterdam \(Live\)](https://open.spotify.com/album/2V6vqIHHdVfSvH7bMeAWEd) | 4:51 |
 | 48 | [Hangin'](https://open.spotify.com/track/0RFkym8XWbLBd6VJUY4aae) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [B\-Boys Blues \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/26uTBBw7ZHAggZpOFP0ANQ) | 3:16 |
 
-Snapshot ID: `aZ47gAAAAADuH6deqdk0QEQS9xwABpYT`
+Snapshot ID: `aZ+NAAAAAACxUg7S1hE14hy+dek5JY/j`

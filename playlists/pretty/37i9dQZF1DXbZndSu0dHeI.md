@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 
 > Really lovely songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,291 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,306 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 29 | [Crown](https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Crown](https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY) | 2:22 |
 | 30 | [Nothing Arrived](https://open.spotify.com/track/4Qegqm597Rw1PfaV43WkLy) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [{Awayland}](https://open.spotify.com/album/4lZBE5uyS5BGnJOJc88s95) | 3:43 |
 | 31 | [See For Miles](https://open.spotify.com/track/1iJXvuuRrLqw1HQsUyWQu9) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Since July](https://open.spotify.com/album/4dtGWZoAfaY8tFEQdAg1jw) | 3:17 |
-| 32 | [Bloom](https://open.spotify.com/track/53Mq10qpih00CLPph20MVp) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Bloom](https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X) | 2:46 |
-| 33 | [Mine Forever](https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Mine Forever](https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6) | 4:48 |
+| 32 | [Mine Forever](https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Mine Forever](https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6) | 4:48 |
+| 33 | [Bloom](https://open.spotify.com/track/53Mq10qpih00CLPph20MVp) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Bloom](https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X) | 2:46 |
 | 34 | [a leith ross song](https://open.spotify.com/track/1TUlVxsllap9YEh7KMGUTi) | [Kayla Grace](https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T) | [a leith ross song](https://open.spotify.com/album/3HbZ4Auys97D5iSTsjYJP4) | 2:27 |
 | 35 | [Sink Into Me](https://open.spotify.com/track/1T01w1vBwWdKScKmHnha53) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Sink Into Me](https://open.spotify.com/album/4UP1JhTzosIULBPusObP3W) | 2:38 |
 | 36 | [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 |
@@ -76,14 +76,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 66 | [Mac’s Omelette](https://open.spotify.com/track/4puNPIWV9CQLdWKy5gtkiP) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Mac's Omelette](https://open.spotify.com/album/3CLqLECm5JopTVkD3tMikU) | 3:58 |
 | 67 | [I can do what I want](https://open.spotify.com/track/4ExoRP6SDTO8LvYIjUsyiK) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [I can do what I want](https://open.spotify.com/album/34syhtKXv345KDnYcJcmN7) | 3:00 |
 | 68 | [Golden Hour](https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Golden Hour](https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB) | 3:21 |
-| 69 | [Halloween Costume](https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Halloween Costume](https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw) | 2:29 |
+| 69 | [Why](https://open.spotify.com/track/4t778t8afctJv2Wc3H85HU) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Walking Like We Do](https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU) | 3:29 |
 | 70 | [For the Cold Country](https://open.spotify.com/track/65SovR8Agl5vY7vtJ02wk7) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [For the Cold Country](https://open.spotify.com/album/6HnC12N2Ir7bb6jUj67RfY) | 6:27 |
-| 71 | [Why](https://open.spotify.com/track/4t778t8afctJv2Wc3H85HU) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Walking Like We Do](https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU) | 3:29 |
+| 71 | [Halloween Costume](https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Halloween Costume](https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw) | 2:29 |
 | 72 | [Shelter](https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/2fnADmeEO13U3Lb4PNsFo3) | 3:17 |
 | 73 | [Reach Out](https://open.spotify.com/track/5hVKXeJg1R9qGbrGW5eHNl) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Reach Out / Olympus](https://open.spotify.com/album/5cXWxz4WZUPtMIeSLK3HDL) | 3:43 |
 | 74 | [Manifest](https://open.spotify.com/track/4PNvV0RKHaKgkVgqZCHkiE) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Manifest](https://open.spotify.com/album/3pmmi3IjlwZfKBoR3bMPbb) | 2:26 |
-| 75 | [The Dream](https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Dream](https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst) | 4:49 |
-| 76 | [Where Sky Becomes Sea](https://open.spotify.com/track/4R9CJUZVrHTyL8L1bkVlAT) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Where Sky Becomes Sea](https://open.spotify.com/album/5HnWBgUMo42JHHsDMOkAdD) | 5:17 |
+| 75 | [Where Sky Becomes Sea](https://open.spotify.com/track/4R9CJUZVrHTyL8L1bkVlAT) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Where Sky Becomes Sea](https://open.spotify.com/album/5HnWBgUMo42JHHsDMOkAdD) | 5:17 |
+| 76 | [The Dream](https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Dream](https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst) | 4:49 |
 | 77 | [Pinetrees](https://open.spotify.com/track/6VmKRiq18SDfzCfV2nXOSs) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Pinetrees](https://open.spotify.com/album/2hXdszF3JmErfOInSMV3hQ) | 3:24 |
 | 78 | [James](https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [James](https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1) | 4:29 |
 | 79 | [2much2soon](https://open.spotify.com/track/6siBdjNAiPG4V4pZMFNvac) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y), [AJSF](https://open.spotify.com/artist/00WIyZKC5hWNyrW92VzAj1) | [2much2soon](https://open.spotify.com/album/6lelFbCH0ZJ80em8wganZo) | 3:01 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 82 | [Everybody](https://open.spotify.com/track/5nRaLv8g2AAtEf92IuQJyG) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM), [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3) | [Everybody](https://open.spotify.com/album/2QRzc3cbXi3DjaVk30t5Vj) | 6:34 |
 | 83 | [Garden of Eden](https://open.spotify.com/track/6jF6VwQeIiy18FUH0wuIQN) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Garden of Eden](https://open.spotify.com/album/3pw1gb17EJ7ILSm9b28ZgQ) | 3:19 |
 | 84 | [Attempt](https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Attempt](https://open.spotify.com/album/5E28eyKT4NRsWuFY1o0yau) | 4:41 |
-| 85 | [Our Time](https://open.spotify.com/track/44cqu9aiiJarV1znSUY1YZ) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Our Time](https://open.spotify.com/album/7AvyzgmBfIOyRRBqY85puH) | 3:24 |
-| 86 | [White Noise](https://open.spotify.com/track/2xymlcjKK97wANhHfuDacD) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [April's Nectar](https://open.spotify.com/album/30h1sWlNQ99WGVO7na13pv) | 3:15 |
+| 85 | [White Noise](https://open.spotify.com/track/2xymlcjKK97wANhHfuDacD) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [April's Nectar](https://open.spotify.com/album/30h1sWlNQ99WGVO7na13pv) | 3:15 |
+| 86 | [Our Time](https://open.spotify.com/track/44cqu9aiiJarV1znSUY1YZ) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Our Time](https://open.spotify.com/album/7AvyzgmBfIOyRRBqY85puH) | 3:24 |
 | 87 | [Failure](https://open.spotify.com/track/3xnFWXU2SfZ7q7Nes4Ncr8) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 4:07 |
 | 88 | [BIG BOYS CRY TOO](https://open.spotify.com/track/6bbGJOE8Y6r9q1cXnudz04) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8) | [BIG BOYS CRY TOO](https://open.spotify.com/album/3fnvp3uIQN3hUEn41ViEeo) | 3:25 |
 | 89 | [Villain](https://open.spotify.com/track/1U6zdjZowXrmoq7mutrCra) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Villain](https://open.spotify.com/album/5h89X4sxa7SXWZ7EbB5YAD) | 4:30 |

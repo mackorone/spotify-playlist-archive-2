@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
-  "num_followers": 117856,
+  "num_followers": 117846,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAAAcK14Q2IalbNu8T/WYdZU6",
+  "snapshot_id": "aZ+NAAAAAABrHuHAJ0xZF3v8bCfIb0jS",
   "tracks": [
     {
       "added_at": null,
@@ -627,42 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mixtape Chir\u00f3",
-        "url": "https://open.spotify.com/album/2hqitsZt4GZdgn7lFxw08S"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "MC LUUKY",
-          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "Fepache",
-          "url": "https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW"
-        }
-      ],
-      "duration_ms": 348292,
-      "name": "Capa da Vogue",
-      "url": "https://open.spotify.com/track/3rzMu9vRyCZAyGvBaJbL9t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Cara do Crime 2 (Cansou de Playboy)",
         "url": "https://open.spotify.com/album/40CPfMR1GrVD0KHUBqpKD0"
       },
@@ -695,6 +659,42 @@
       "duration_ms": 265411,
       "name": "A Cara do Crime 2 (Cansou de Playboy)",
       "url": "https://open.spotify.com/track/7KPhwNko8V9vYBIN653hSO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mixtape Chir\u00f3",
+        "url": "https://open.spotify.com/album/2hqitsZt4GZdgn7lFxw08S"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Fepache",
+          "url": "https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW"
+        }
+      ],
+      "duration_ms": 348292,
+      "name": "Capa da Vogue",
+      "url": "https://open.spotify.com/track/3rzMu9vRyCZAyGvBaJbL9t"
     },
     {
       "added_at": null,
@@ -811,38 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fica \u00e0 Vontade",
-        "url": "https://open.spotify.com/album/51aoXX99wzWxtURo5A5hpX"
-      },
-      "artists": [
-        {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 276105,
-      "name": "Fica \u00e0 Vontade",
-      "url": "https://open.spotify.com/track/0Dqr7DChZi6MqEvpW7faLv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Filha do Deputado",
         "url": "https://open.spotify.com/album/5qFj8svsT6jtBq7X4dMY7Z"
       },
@@ -871,6 +839,38 @@
       "duration_ms": 371852,
       "name": "Filha do Deputado",
       "url": "https://open.spotify.com/track/5Qqpplbu8ROd71c0brQxyy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fica \u00e0 Vontade",
+        "url": "https://open.spotify.com/album/51aoXX99wzWxtURo5A5hpX"
+      },
+      "artists": [
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 276105,
+      "name": "Fica \u00e0 Vontade",
+      "url": "https://open.spotify.com/track/0Dqr7DChZi6MqEvpW7faLv"
     },
     {
       "added_at": null,
@@ -1075,6 +1075,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "To Voando Alto",
+        "url": "https://open.spotify.com/album/24So9sRe5T0wzkHbjPeqUZ"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Dj Gabriel do Borel",
+          "url": "https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3"
+        }
+      ],
+      "duration_ms": 137430,
+      "name": "To Voando Alto",
+      "url": "https://open.spotify.com/track/7HLU2aJTAQfSIgJ2dMASsP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ordem do Mano",
         "url": "https://open.spotify.com/album/7A6mhzGxqp111NGQ5q1fGF"
       },
@@ -1099,26 +1119,6 @@
       "duration_ms": 195553,
       "name": "Ordem do Mano",
       "url": "https://open.spotify.com/track/5dq5AD4ijms2xZTP6a71ho"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "To Voando Alto",
-        "url": "https://open.spotify.com/album/24So9sRe5T0wzkHbjPeqUZ"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Dj Gabriel do Borel",
-          "url": "https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3"
-        }
-      ],
-      "duration_ms": 137430,
-      "name": "To Voando Alto",
-      "url": "https://open.spotify.com/track/7HLU2aJTAQfSIgJ2dMASsP"
     },
     {
       "added_at": null,
@@ -1459,34 +1459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recome\u00e7o",
-        "url": "https://open.spotify.com/album/5MoBxDzlYReoWJMSRwxFDp"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "DUNDUM NTS",
-          "url": "https://open.spotify.com/artist/0gGRfgyjJayTbNkikRPMYQ"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "Recome\u00e7o",
-      "url": "https://open.spotify.com/track/7cOZisYC7MaDLfavfq86Ed"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Assault (Rio)",
         "url": "https://open.spotify.com/album/1vQDSvZfK37xqxEmza4uha"
       },
@@ -1527,6 +1499,34 @@
       "duration_ms": 324016,
       "name": "Assault (Rio)",
       "url": "https://open.spotify.com/track/4FOf88scN5qTRGXc55tGJ0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recome\u00e7o",
+        "url": "https://open.spotify.com/album/5MoBxDzlYReoWJMSRwxFDp"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "DUNDUM NTS",
+          "url": "https://open.spotify.com/artist/0gGRfgyjJayTbNkikRPMYQ"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Recome\u00e7o",
+      "url": "https://open.spotify.com/track/7cOZisYC7MaDLfavfq86Ed"
     },
     {
       "added_at": null,

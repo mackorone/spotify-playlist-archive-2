@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/2YXZGINrtA9jk26nERDKOt"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183588,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/7yehaNKaf4IMwZvZw45XJT"
+    },
+    {
+      "album": {
         "name": "noise (meaning)",
         "url": "https://open.spotify.com/album/1Nf0sJqlnFFlUOYDMJR8LJ"
       },

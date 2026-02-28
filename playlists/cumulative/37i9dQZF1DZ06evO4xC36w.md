@@ -4,11 +4,11 @@
 
 > This is Joan Sebastian\. The essential tracks, all in one playlist.
 
-78 songs - 4 hr 5 min
+79 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Afortunado](https://open.spotify.com/track/1X6s95fLr0C2UfS08f2bhv) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Afortunado](https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ) | 3:15 | 2024-04-25 |  |
+| [Afortunado](https://open.spotify.com/track/1X6s95fLr0C2UfS08f2bhv) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Afortunado](https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ) | 3:15 | 2024-04-25 | 2026-02-28 |
 | [Amor Limosnero](https://open.spotify.com/track/4vRYHPaBsfsgpvtgyzKVaB) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Más Allá Del Sol](https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM) | 3:40 | 2023-08-08 |  |
 | [Amorcito Mío](https://open.spotify.com/track/07synGEtMdfRfwY3wNmedn) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 2:57 | 2023-08-08 |  |
 | [Así Te Quiero](https://open.spotify.com/track/4u6zS8iQZ7Y6LgW7WXwaLb) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Afortunado](https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ) | 3:18 | 2023-08-08 |  |
@@ -39,6 +39,7 @@
 | [Juanita \(Flor De Walamo\)](https://open.spotify.com/track/242lyf8OjxomhjLpeas75s) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Peor De Tus Antojos](https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim) | 3:22 | 2024-02-20 |  |
 | [Juliantla](https://open.spotify.com/track/7vrIweMapxdothM6NNPYy5) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Éxitos](https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2) | 3:24 | 2023-08-08 |  |
 | [La Derrota](https://open.spotify.com/track/44P2cTsJ3QF8HQsgdlMJge) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [13 Celebrando El 13](https://open.spotify.com/album/3LRsbclfKVaByqLU641wH5) | 3:19 | 2023-08-08 |  |
+| [La Mamá de los Pollitos](https://open.spotify.com/track/75Jq9WYY1EzcBsc8pPf3eD) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joyas Musicales, Vol\. 3: La Mamá de los Pollitos](https://open.spotify.com/album/3LtM9PLqBUT6nGSJy9wYyZ) | 2:48 | 2026-02-28 |  |
 | [La Prietita Que Yo Quiero](https://open.spotify.com/track/69O3Bdh6vBYY3cN3BwTH2Y) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Tambora, Vol\. 2](https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ) | 2:49 | 2023-08-08 |  |
 | [La Ventana](https://open.spotify.com/track/1js1ErXLdhEICtjWGG7Q6i) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Colección De Oro: Tres Grandes Con Mariachi, Vol\. 1 – Joan Sebastian](https://open.spotify.com/album/4nT0tuBlMgoUMIHnAMI43G) | 2:25 | 2023-09-25 | 2023-11-11 |
 | [Llorar](https://open.spotify.com/track/7qjelT2ay3rsDk1cLWDJpE) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Colección De Oro, Vol\. 5: Mariachi](https://open.spotify.com/album/5nCibJfM8LvlVDRVk2GKIa) | 2:39 | 2023-08-08 |  |

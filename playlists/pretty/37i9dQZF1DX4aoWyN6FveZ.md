@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4aoWyN6FveZ.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/ravieb/">Ravie B</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,995 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,997 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4aoWyN6FveZ.md) - [plain]
 | 21 | [No Friends In The Industry](https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:24 |
 | 22 | [All For You](https://open.spotify.com/track/5X8kkUaUlAyAUr9TYqDFTH) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [All For You](https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9) | 5:29 |
 | 23 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 |
-| 24 | [Last Night \(feat\. Keyshia Cole\)](https://open.spotify.com/track/5gfPJ45gpn3ThswDyeW0Qc) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Press Play](https://open.spotify.com/album/7kIi4z3UO8ZqH3GVX18p7h) | 6:28 |
-| 25 | [No Letting Go](https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [No Holding Back](https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA) | 3:22 |
+| 24 | [No Letting Go](https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [No Holding Back](https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA) | 3:22 |
+| 25 | [Last Night \(feat\. Keyshia Cole\)](https://open.spotify.com/track/5gfPJ45gpn3ThswDyeW0Qc) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Press Play](https://open.spotify.com/album/7kIi4z3UO8ZqH3GVX18p7h) | 6:28 |
 | 26 | [Can't Have Everything](https://open.spotify.com/track/5f5r2N4Lp9WoULWPH9zp2W) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:48 |
 | 27 | [Almeda](https://open.spotify.com/track/6IAgarq2wDeYzpsY2Kx0Hw) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 3:56 |
 | 28 | [Me, Myself and I](https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 5:01 |

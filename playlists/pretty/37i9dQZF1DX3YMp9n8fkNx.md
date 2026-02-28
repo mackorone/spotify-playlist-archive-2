@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 
 > The essential pop rock songs from the 1990s\. Cover: No Doubt
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,488,597 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,488,845 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 27 | [Every Morning](https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [14:59](https://open.spotify.com/album/43NNW7iDuAE8pIouzvwWWi) | 3:39 |
 | 28 | [To Be With You \- 2021 Remastered](https://open.spotify.com/track/0eifvmNPHWaSh4IKNR4Xva) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 3:28 |
 | 29 | [Lightning Crashes](https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF) | 5:25 |
-| 30 | [Walkin' On The Sun](https://open.spotify.com/track/4TQeNHx85xcP9YRkvJC6K1) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Fush Yu Mang \(20th Anniversary Edition\)](https://open.spotify.com/album/1CsztoJYGwGURMCppulrOt) | 3:27 |
-| 31 | [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 |
+| 30 | [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 |
+| 31 | [Walkin' On The Sun](https://open.spotify.com/track/4TQeNHx85xcP9YRkvJC6K1) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Fush Yu Mang \(20th Anniversary Edition\)](https://open.spotify.com/album/1CsztoJYGwGURMCppulrOt) | 3:27 |
 | 32 | [Hand in My Pocket \- 2015 Remaster](https://open.spotify.com/track/2lE7oRoKssULAtbWViL385) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:42 |
 | 33 | [Santa Monica](https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI) | [Everclear](https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF) | [Sparkle And Fade](https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0) | 3:11 |
 | 34 | [Breakfast At Tiffany's](https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn) | [Deep Blue Something](https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407) | [Home](https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO) | 4:17 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 47 | [Save Tonight](https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Desireless](https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO) | 3:59 |
 | 48 | [Wildflowers](https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 3:10 |
 | 49 | [Wild World](https://open.spotify.com/track/2kj5f1eRhUFhW6K0qUwoD8) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Bump Ahead \[Expanded\]](https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA) | 3:28 |
-| 50 | [Crash into Me](https://open.spotify.com/track/1HL3yEnYq8LEyFQ3QegA5V) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Crash](https://open.spotify.com/album/3Z72KfamjH9Wc5m9mgVqI7) | 5:16 |
-| 51 | [You Learn \- 2015 Remaster](https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:59 |
+| 50 | [You Learn \- 2015 Remaster](https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:59 |
+| 51 | [Crash into Me](https://open.spotify.com/track/1HL3yEnYq8LEyFQ3QegA5V) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Crash](https://open.spotify.com/album/3Z72KfamjH9Wc5m9mgVqI7) | 5:16 |
 | 52 | [All For You](https://open.spotify.com/track/2skmOCFU64Bg7Ytkgwliwe) | [Sister Hazel](https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk) | [...Somewhere More Familiar](https://open.spotify.com/album/2lHGAzINLOdD0505xdjpyZ) | 3:38 |
 | 53 | [Parklife \- 2012 Remaster](https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Parklife \(Special Edition\)](https://open.spotify.com/album/0DBkFC6739trhCoVreZyds) | 3:05 |
 | 54 | [Absolutely \(Story of a Girl\) \- Radio Mix](https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP) | [Nine Days](https://open.spotify.com/artist/306JHpIRGVaQd6OltnOzUO) | [The Madding Crowd](https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD) | 3:09 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 68 | [Ironic](https://open.spotify.com/track/4oGTdOClZUxcM2H3UmXlwL) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill](https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW) | 3:45 |
 | 69 | [All I Want](https://open.spotify.com/track/2GHYJ0dhVds3PODKnTdiGE) | [Toad The Wet Sprocket](https://open.spotify.com/artist/4j7EVY3kuDwLPfD2jfC7LC) | [fear](https://open.spotify.com/album/3UeshcanaZ1xd90cgmQmch) | 3:16 |
 | 70 | [Life Is A Highway](https://open.spotify.com/track/0hKF8N8aflF1uDzEEnPr2j) | [Tom Cochrane](https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt) | [Mad Mad World](https://open.spotify.com/album/5mJYFwj51OpBqRSxZCBLTT) | 4:26 |
-| 71 | [Secret Smile](https://open.spotify.com/track/1OhctVvuAU8kVCtzDWsCTj) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [Feeling Strangely Fine \(20th Anniversary Edition\)](https://open.spotify.com/album/6KaEKR4KsmFWVrb0ktQo2T) | 4:39 |
-| 72 | [Where It's At](https://open.spotify.com/track/0myfUjrUP8kMrk48nOXAY0) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Odelay](https://open.spotify.com/album/1Pus5h1qGedCn4CtOuPVtp) | 5:30 |
+| 71 | [Where It's At](https://open.spotify.com/track/0myfUjrUP8kMrk48nOXAY0) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Odelay](https://open.spotify.com/album/1Pus5h1qGedCn4CtOuPVtp) | 5:30 |
+| 72 | [Secret Smile](https://open.spotify.com/track/1OhctVvuAU8kVCtzDWsCTj) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [Feeling Strangely Fine \(20th Anniversary Edition\)](https://open.spotify.com/album/6KaEKR4KsmFWVrb0ktQo2T) | 4:39 |
 | 73 | [Beautiful Girl](https://open.spotify.com/track/6N81xlWzMaEYhjHry55OSI) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Welcome to Wherever You Are](https://open.spotify.com/album/66ocxSzZ98wk1rWNfrvU8u) | 3:27 |
 | 74 | [Connection](https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD) | [Elastica](https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx) | [Elastica](https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ) | 2:20 |
 | 75 | [Send Me On My Way](https://open.spotify.com/track/4yshHBPp0MoVynV1sMCKV3) | [Rusted Root](https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB) | [The Best Of / 20th Century Masters The Millennium Collection](https://open.spotify.com/album/73dMmmMMWYjmCnGj1OgvIR) | 4:21 |

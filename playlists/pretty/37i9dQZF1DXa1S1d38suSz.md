@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1S1d38suSz.md) - [plain]
 
 > Tú, nosotros y esta lista de canciones\. Foto: KAROL G, Marco Antonio Solís
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,267 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,433 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1S1d38suSz.md) - [plain]
 | 4 | [La Cosa Mas Bella](https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \(Spanish Version\)](https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq) | 4:25 |
 | 5 | [Vivo Por Ella \(feat\. KAROL G\)](https://open.spotify.com/track/0XG0M7286ZdcOflyehbXmS) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Vivo Por Ella \(feat\. KAROL G\)](https://open.spotify.com/album/57WjrGotxjy4Wh2CEHZSMl) | 4:24 |
 | 6 | [De Repente](https://open.spotify.com/track/1eosB5ApmpsOCza1ZrH4gT) | [Soraya](https://open.spotify.com/artist/2LUUpwzkKATPiFa86W8kJd) | [Gold](https://open.spotify.com/album/5jpQixMcvqrfvcGiUC8f7F) | 4:04 |
-| 7 | [Lluvia](https://open.spotify.com/track/1heIify4NygHEzqrozuVKK) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [LA 8VA MARAVILLA](https://open.spotify.com/album/4ZMzNSoTgWgSfkBpJTCx9w) | 3:24 |
-| 8 | [Besos Usados](https://open.spotify.com/track/5NkqaMOyY36DIgSp1mKCjj) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Día Tras Día](https://open.spotify.com/album/6nz72sfPeeDMBslamOBT3R) | 3:54 |
-| 9 | [ADMV](https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [ADMV](https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa) | 3:13 |
+| 7 | [Tu Cárcel](https://open.spotify.com/track/0b55EHxWx8ylntHOJwPZrC) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Tu Cárcel](https://open.spotify.com/album/614rbDLa3xPz4aeZCqfTzv) | 3:36 |
+| 8 | [ADMV](https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [ADMV](https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa) | 3:13 |
+| 9 | [Besos Usados](https://open.spotify.com/track/5NkqaMOyY36DIgSp1mKCjj) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Día Tras Día](https://open.spotify.com/album/6nz72sfPeeDMBslamOBT3R) | 3:54 |
 | 10 | [Seguradetodo \- Spotify Sessions](https://open.spotify.com/track/4IcTF2Ojx7XbnuDbcwQmHC) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Elsa y Elmar \(Spotify Sessions\)](https://open.spotify.com/album/5jmAIf4GwcKVSFwHCLWh26) | 3:56 |
 | 11 | [Eres Mi Religión](https://open.spotify.com/track/3NTaEHQg5iVrRRNWlnK4RY) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Revolución De Amor](https://open.spotify.com/album/6HrRHewMLfZLSkwJyZgr3V) | 5:27 |
 | 12 | [Una Vida Pasada](https://open.spotify.com/track/7y91nQBMhyeHWTn9wVvhKl) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Una Vida Pasada](https://open.spotify.com/album/3hc06uuIEsjOu8CwOumEbd) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1S1d38suSz.md) - [plain]
 | 49 | [Vuelve](https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 5:08 |
 | 50 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:39 |
 
-Snapshot ID: `AAAAALYBPKtg2RgtuBIJJSmwUkKr2sVB`
+Snapshot ID: `AAAAAF4UDxqGe1wmsBO9HKwFevAXVS5R`

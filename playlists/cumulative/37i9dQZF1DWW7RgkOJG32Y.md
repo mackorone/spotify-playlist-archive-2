@@ -2,9 +2,9 @@
 
 ### [Breakout Country](https://open.spotify.com/playlist/37i9dQZF1DWW7RgkOJG32Y)
 
-> Trending for a reason \- the home of country's future monster hits\. Cover: Luke Combs
+> Trending for a reason \- the home of country's future monster hits\. Cover: Megan Moroney
 
-623 songs - 1 day 9 hr 40 min
+626 songs - 1 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Depression & Obsession](https://open.spotify.com/track/38623VdBTunZrY1IFpFLh8) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 2:29 | 2024-07-19 | 2024-09-21 |
 | [Devil You Know](https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Devil You Know](https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM) | 3:12 | 2024-02-09 | 2024-06-22 |
 | [DIAMOND](https://open.spotify.com/track/7jZwYDy3LXNJBel7NPQ3zk) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [GOOD TIME](https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5) | 3:13 | 2022-03-04 | 2022-06-18 |
+| [Didn't Forget](https://open.spotify.com/track/1R3P86cK8nc70dlQBegIRO) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol), [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Didn't Forget](https://open.spotify.com/album/2OYKhcqayMOx225GcFIDAq) | 3:48 | 2026-02-27 |  |
 | [Didn't I?](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I?](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 | 2024-07-19 | 2025-06-28 |
 | [Different 'Round Here](https://open.spotify.com/track/4l5w5qGInIhwfvpYmPIYdK) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Different 'Round Here](https://open.spotify.com/album/1FkgWqBfOH8VaaiG8PRGxX) | 2:54 | 2023-07-21 | 2023-08-05 |
 | [Dirt Cheap](https://open.spotify.com/track/48X5k2vce5rXckgDAnXMsa) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Leather](https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY) | 3:59 | 2023-11-10 | 2024-06-01 |
@@ -160,6 +161,7 @@
 | [Drunk Love](https://open.spotify.com/track/18ZbxBOI520oLWi4SlIblW) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [The Select](https://open.spotify.com/album/4tE4n1E0qtAfJTh8IPT9TN) | 4:00 | 2025-03-28 | 2025-07-19 |
 | [Dyin' Flame](https://open.spotify.com/track/1DNG22ZpedEFqCkJoj4Ibs) | [Tayler Holder](https://open.spotify.com/artist/5Hz3IW691fbgGqLk4yvlNN) | [Dyin' Flame](https://open.spotify.com/album/5LHo3GORejajFOvWzMKlVa) | 2:54 | 2025-04-25 | 2025-10-25 |
 | [Emerald City](https://open.spotify.com/track/2W6KXuxXkZHhdsfMiYkFi2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Mount Pleasant](https://open.spotify.com/album/2jvpJVr7HjZh61bEyp5gKC) | 2:16 | 2025-12-05 |  |
+| [Empty Words](https://open.spotify.com/track/42Zw3Z5xOv7bTV6C6PVwRg) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Empty Words](https://open.spotify.com/album/4V81NUk3LanyGQuyZ7llow) | 2:32 | 2026-02-27 |  |
 | [Ends of the Earth](https://open.spotify.com/track/30rU9CBF5cwiexNHJffkLS) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Ends of the Earth](https://open.spotify.com/album/59IUArxnHB64BUCM3hKTwQ) | 4:29 | 2024-10-25 | 2025-03-29 |
 | [Everleave](https://open.spotify.com/track/0Cs7M3RfiZVeMkzqYl7wtk) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [All I've Ever Known](https://open.spotify.com/album/7uaGO5JlgaqeRyjTQaotsE) | 4:05 | 2023-12-15 | 2024-03-30 |
 | [Every Night Every Morning](https://open.spotify.com/track/4qbibbQ1yK0rPl0JUJS0bz) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Every Night Every Morning](https://open.spotify.com/album/5T5eTFklQfQHczrSfV7qej) | 3:16 | 2022-07-07 | 2023-06-02 |
@@ -328,7 +330,7 @@
 | [Love In Letting Go](https://open.spotify.com/track/5CXIuI2IL88KY3L9Vd259d) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi), [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Relapse, Lies, & Betrayal](https://open.spotify.com/album/5zHw4l7ugQFWW6gy0zUxpy) | 3:19 | 2025-12-05 |  |
 | [LOVE IS A COWBOY](https://open.spotify.com/track/6RB8DdrSlYmf3JPhySyXvI) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:43 | 2022-09-23 | 2023-02-25 |
 | [Love Like](https://open.spotify.com/track/6rdmyLJtIibFRaCU7XRg3x) | [Josh Gracin](https://open.spotify.com/artist/1456WwI15Lm9CktCzkLZvm) | [Love Like](https://open.spotify.com/album/7vpnEUNzrjOPKLnte8MTYd) | 3:10 | 2021-12-17 | 2022-05-07 |
-| [Love Me Tonight](https://open.spotify.com/track/2xtJzZk0TkqB3wD6qaNKuw) | [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Love Me Tonight](https://open.spotify.com/album/49mkNoZXgbUHUnB97bfP4e) | 3:22 | 2025-07-18 |  |
+| [Love Me Tonight](https://open.spotify.com/track/2xtJzZk0TkqB3wD6qaNKuw) | [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Love Me Tonight](https://open.spotify.com/album/49mkNoZXgbUHUnB97bfP4e) | 3:22 | 2025-07-18 | 2026-02-28 |
 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 | 2024-11-01 | 2025-03-29 |
 | [Love You a Little Bit](https://open.spotify.com/track/0JlPeDabMkPpmC9W7TI3BM) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Love You a Little Bit](https://open.spotify.com/album/3SPnI205DIMN5yosDIT0v1) | 3:30 | 2022-07-29 | 2023-02-17 |
 | [Love You a Little Bit](https://open.spotify.com/track/0isqpzdmr2hsKb50uBSCdo) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Love You a Little Bit](https://open.spotify.com/album/5bWiVnH44bQQ4zeN0ozz5W) | 3:30 | 2023-02-10 | 2023-09-09 |
@@ -397,7 +399,7 @@
 | [Not Supposed To Know Each Other](https://open.spotify.com/track/6jphhFUpKLzmptrwS35j0I) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July \(The Album\)](https://open.spotify.com/album/6Xz5OPkS6RCcmQ1hA7JUaO) | 2:41 | 2022-11-02 | 2022-11-13 |
 | [Note To Self](https://open.spotify.com/track/7ETfVO4Njvmf3oNPJy33zF) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Note to Self](https://open.spotify.com/album/4rjH55hv2qMcmmAsh3fdgN) | 3:15 | 2023-02-17 | 2023-07-15 |
 | [Now or Never \(feat\. Lauren Alaina\)](https://open.spotify.com/track/6GvYbJ7A0iAnGYFReRMxSa) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Now or Never \(feat\. Lauren Alaina\)](https://open.spotify.com/album/5qBLAcf1q3O8bvsyrweWNy) | 2:54 | 2024-08-30 | 2024-12-14 |
-| [O.D.](https://open.spotify.com/track/2E6HksJPriDYu6thbR6xrV) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Til The Sun Goes Down](https://open.spotify.com/album/4hGNvSjAbNPDni4TS22HIM) | 2:49 | 2025-10-17 |  |
+| [O.D.](https://open.spotify.com/track/2E6HksJPriDYu6thbR6xrV) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Til The Sun Goes Down](https://open.spotify.com/album/4hGNvSjAbNPDni4TS22HIM) | 2:49 | 2025-10-17 | 2026-02-28 |
 | [OIL MONEY](https://open.spotify.com/track/1HZECMqLKSh22jwPv3yRYm) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [OIL MONEY](https://open.spotify.com/album/75bYoZnWWvzPWIQgTDuSFx) | 2:58 | 2025-02-21 | 2025-08-24 |
 | [Oklahoma Smokeshow](https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:31 | 2022-08-05 | 2022-10-29 |
 | [Old Dirt Roads](https://open.spotify.com/track/0ayd4fDb6rMZl9uqCY3Hzl) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Old Dirt Roads](https://open.spotify.com/album/2qc0wysNJNJtKEqCKjJmxU) | 3:47 | 2023-09-29 | 2024-04-19 |
@@ -405,7 +407,7 @@
 | [One Day Tonight](https://open.spotify.com/track/45MQs7EiPglAvyYg9fkjzA) | [Noah Thompson](https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi) | [One Day Tonight](https://open.spotify.com/album/2MphzYOblUXTBfdWzYxtbl) | 2:45 | 2022-09-16 | 2023-04-01 |
 | [One Of Us](https://open.spotify.com/track/4G1i8QJ2htH4Syo2vDeqSt) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [One Of Us](https://open.spotify.com/album/23xj6FVIi4bGBMevFQWQn8) | 3:02 | 2023-06-30 | 2023-10-28 |
 | [One Thing At A Time](https://open.spotify.com/track/6KGtAlYvgm4W9PoYabFAYE) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time \(Sampler\)](https://open.spotify.com/album/04VpyPCr9PQRWRRp1ecOs1) | 3:26 | 2022-12-16 | 2023-04-01 |
-| [Oneida](https://open.spotify.com/track/6ErexmQQfnMtIbFoejTK1x) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Oneida](https://open.spotify.com/album/1lDmuIBAi5R8NLdO2fc1XF) | 4:38 | 2025-07-18 |  |
+| [Oneida](https://open.spotify.com/track/6ErexmQQfnMtIbFoejTK1x) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Oneida](https://open.spotify.com/album/1lDmuIBAi5R8NLdO2fc1XF) | 4:38 | 2025-07-18 | 2026-02-28 |
 | [Only Bible](https://open.spotify.com/track/6tt12axiCiK6oQ3Wxb1Oie) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Only Bible](https://open.spotify.com/album/12SiXaCDTNn45eI9MGXv3I) | 3:49 | 2025-09-19 | 2026-01-24 |
 | [Only Us](https://open.spotify.com/track/4k98tAWO0N5hMkZnx13TfJ) | [Clayton Anderson](https://open.spotify.com/artist/3jYolGVCwXgJYEr3GL8FCb) | [Only Us](https://open.spotify.com/album/3BfpheJUxjdVBG51HHIeUD) | 2:42 | 2021-12-17 | 2022-05-14 |
 | [Options](https://open.spotify.com/track/5CKp1RqaCeUYDGqo14KMfU) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Options](https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04) | 2:49 | 2025-03-14 | 2026-02-07 |
@@ -573,6 +575,7 @@
 | [We Ride](https://open.spotify.com/track/4ua94LvtGZlGsZVlvMJCUS) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [We Ride](https://open.spotify.com/album/4E1qrH1o4eKRu8S6JVAnn3) | 3:08 | 2023-02-10 | 2023-05-19 |
 | [We Ride](https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Poets & Old Souls](https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss) | 3:08 | 2023-05-12 | 2024-02-10 |
 | [Weatherman](https://open.spotify.com/track/16tR0x7Rf4ryBuTJmJV4O9) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Weatherman](https://open.spotify.com/album/4Mlb3TAFRXMpKGzwSf0yK3) | 3:19 | 2025-03-28 | 2025-09-07 |
+| [Wedding Dress](https://open.spotify.com/track/5UmyTT5HZdztMfDL3lva0r) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 3:50 | 2026-02-27 |  |
 | [weren't for the wind](https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [weren't for the wind](https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN) | 3:13 | 2024-10-11 | 2025-08-17 |
 | [What A Song Can Do](https://open.spotify.com/track/2hRDjNbuoqxqHcXj29JJfZ) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What A Song Can Do \(Chapter One\)](https://open.spotify.com/album/1GMVHbMadbjNGFoOYXwnLb) | 3:41 | 2021-12-17 | 2022-02-19 |
 | [What Are You Drinking](https://open.spotify.com/track/6G2hBL1ttQuXbCvXV6c6F3) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Pelago](https://open.spotify.com/album/0vlxtyaep2FkkVidYC49PA) | 3:24 | 2021-12-17 | 2022-09-10 |

@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2017. Cover: Daddy Yankee & Luis Fonsi",
-  "num_followers": 85833,
+  "num_followers": 85862,
   "original_name": "Latin Hits 2017",
   "owner": {
     "name": "Spotify",
@@ -195,26 +195,6 @@
     {
       "added_at": "2024-07-13 01:15:47",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 198332,
-      "name": "Sobredosis (feat. Ozuna)",
-      "url": "https://open.spotify.com/track/1WbXIpiGBJkCiv3hn40iPB"
-    },
-    {
-      "added_at": "2024-07-13 01:15:47",
-      "album": {
         "name": "Ahora Dice",
         "url": "https://open.spotify.com/album/4aaDxJmUbZuIsBHSRclIre"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 270493,
       "name": "Ahora Dice",
       "url": "https://open.spotify.com/track/5lhcHMDQpNwhM62lSOrvLf"
+    },
+    {
+      "added_at": "2024-07-13 01:15:47",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 198332,
+      "name": "Sobredosis (feat. Ozuna)",
+      "url": "https://open.spotify.com/track/1WbXIpiGBJkCiv3hn40iPB"
     },
     {
       "added_at": "2024-07-13 01:15:47",
@@ -579,22 +579,22 @@
     {
       "added_at": "2024-07-13 01:15:47",
       "album": {
-        "name": "Criminal",
-        "url": "https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0"
+        "name": "Odisea",
+        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
       },
       "artists": [
         {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
           "name": "Ozuna",
           "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 232549,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C"
+      "duration_ms": 230320,
+      "name": "Beb\u00e9",
+      "url": "https://open.spotify.com/track/0ulsRBiciReng91DhfVT9D"
     },
     {
       "added_at": "2024-07-13 01:15:47",
@@ -619,22 +619,22 @@
     {
       "added_at": "2024-07-13 01:15:47",
       "album": {
-        "name": "Odisea",
-        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
         },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 230320,
-      "name": "Beb\u00e9",
-      "url": "https://open.spotify.com/track/0ulsRBiciReng91DhfVT9D"
+      "duration_ms": 232549,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C"
     },
     {
       "added_at": "2024-07-13 01:15:47",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-07-13 01:15:47",
       "album": {
+        "name": "Odisea",
+        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 226800,
+      "name": "S\u00edguelo Bailando",
+      "url": "https://open.spotify.com/track/5Y9fnynLlIvqtM710MHzfz"
+    },
+    {
+      "added_at": "2024-07-13 01:15:47",
+      "album": {
         "name": "El Dorado",
         "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 195999,
       "name": "Perro Fiel (feat. Nicky Jam)",
       "url": "https://open.spotify.com/track/70lnL3QaSOIIyMa2X9aVRL"
-    },
-    {
-      "added_at": "2024-07-13 01:15:47",
-      "album": {
-        "name": "Odisea",
-        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 226800,
-      "name": "S\u00edguelo Bailando",
-      "url": "https://open.spotify.com/track/5Y9fnynLlIvqtM710MHzfz"
     },
     {
       "added_at": "2024-07-13 01:15:47",

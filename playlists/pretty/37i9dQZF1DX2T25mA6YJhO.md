@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Ultraligera.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,223 likes - 90 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,400 likes - 90 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

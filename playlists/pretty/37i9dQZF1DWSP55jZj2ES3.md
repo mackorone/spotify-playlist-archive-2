@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 
 > Indie jams that sound like lounging under the sun with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,894 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,884 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 62 | [Crush](https://open.spotify.com/track/3aUviSdBVbsdmH406j5GZC) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Crush](https://open.spotify.com/album/1R9BIE7X0fzMrn3XHvetFO) | 2:15 |
 | 63 | [Happy Music](https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:52 |
 | 64 | [Too Good](https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:41 |
-| 65 | [OUTTA MY MIND](https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [OUTTA MY MIND](https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL) | 3:46 |
-| 66 | [Long Beach](https://open.spotify.com/track/6tqIes4TjudsjfIpK4P2Jh) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp), [Alex Banin](https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz) | [EVERYTHING](https://open.spotify.com/album/0cMxALtiABnT1kIuA1wgsQ) | 4:12 |
+| 65 | [Long Beach](https://open.spotify.com/track/6tqIes4TjudsjfIpK4P2Jh) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp), [Alex Banin](https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz) | [EVERYTHING](https://open.spotify.com/album/0cMxALtiABnT1kIuA1wgsQ) | 4:12 |
+| 66 | [OUTTA MY MIND](https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [OUTTA MY MIND](https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL) | 3:46 |
 | 67 | [Prune, You Talk Funny](https://open.spotify.com/track/3X8fDZL2mX4bz39SWWCl03) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Prune, You Talk Funny](https://open.spotify.com/album/3xS9J3Cg9d37Xo4tdnODjo) | 3:32 |
 | 68 | [I Know There's Gonna Be \(Good Times\)](https://open.spotify.com/track/06UOL50QYtDR5l06ohu88m) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 3:33 |
 | 69 | [I Wanna Help Your Mind](https://open.spotify.com/track/08ZZ7SILfKcreLtA3K6Gqr) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [I Wanna Help Your Mind](https://open.spotify.com/album/2G6xRZxWrt9mBXgHclg2i4) | 2:51 |

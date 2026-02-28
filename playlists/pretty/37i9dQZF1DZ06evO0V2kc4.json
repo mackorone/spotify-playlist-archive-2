@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
-  "num_followers": 73892,
+  "num_followers": 73904,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAACUeakkJX8ZLrQKmicxIU/5",
+  "snapshot_id": "aZ+NAAAAAACOoZzx7PalxmwLy8tjBo1w",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The First 10 Years",
-        "url": "https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 189800,
-      "name": "Don't Think Twice, It's All Right",
-      "url": "https://open.spotify.com/track/3ORn0rgu27z7hlnNgvYWse"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sacco e Vanzetti (Original Motion Picture Soundtrack) [Remastered]",
         "url": "https://open.spotify.com/album/5Kh97XNvwMEk6hl4ZrOtKK"
       },
@@ -111,6 +95,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The First 10 Years",
+        "url": "https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 189800,
+      "name": "Don't Think Twice, It's All Right",
+      "url": "https://open.spotify.com/track/3ORn0rgu27z7hlnNgvYWse"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Joan Baez",
         "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
       },
@@ -123,6 +123,22 @@
       "duration_ms": 176360,
       "name": "House Of The Rising Sun",
       "url": "https://open.spotify.com/track/3AuVZyDw1VhjjLfHZR4ba3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Complete Gold Castle Masters",
+        "url": "https://open.spotify.com/album/0l8cToBNMTOfSjdvxqEAwv"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 306120,
+      "name": "Brothers In Arms",
+      "url": "https://open.spotify.com/track/1ByLEl7kTAAmBo68GH6A7I"
     },
     {
       "added_at": null,
@@ -143,22 +159,6 @@
       "duration_ms": 171706,
       "name": "No Kings (feat. Joan Baez)",
       "url": "https://open.spotify.com/track/3TQeJtbJjv8Q4V0a7f5NvT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Complete Gold Castle Masters",
-        "url": "https://open.spotify.com/album/0l8cToBNMTOfSjdvxqEAwv"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 306120,
-      "name": "Brothers In Arms",
-      "url": "https://open.spotify.com/track/1ByLEl7kTAAmBo68GH6A7I"
     },
     {
       "added_at": null,
@@ -295,8 +295,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Any Day Now",
-        "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
+        "name": "From Every Stage",
+        "url": "https://open.spotify.com/album/2e5Zu2l6AT2VXTyPtREEkd"
       },
       "artists": [
         {
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 267200,
-      "name": "Love Is Just A Four-Letter Word",
-      "url": "https://open.spotify.com/track/5NNSLOPIXs1rQE6hDNFS5e"
+      "duration_ms": 155333,
+      "name": "Blowin' In The Wind - Live",
+      "url": "https://open.spotify.com/track/3Fd225w3GoHV26eYzEpbiR"
     },
     {
       "added_at": null,
@@ -327,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Every Stage",
-        "url": "https://open.spotify.com/album/2e5Zu2l6AT2VXTyPtREEkd"
+        "name": "Any Day Now",
+        "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 155333,
-      "name": "Blowin' In The Wind - Live",
-      "url": "https://open.spotify.com/track/3Fd225w3GoHV26eYzEpbiR"
+      "duration_ms": 267200,
+      "name": "Love Is Just A Four-Letter Word",
+      "url": "https://open.spotify.com/track/5NNSLOPIXs1rQE6hDNFS5e"
     },
     {
       "added_at": null,
@@ -519,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blessed Are...",
-        "url": "https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye"
+        "name": "Diamonds & Rust",
+        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 186160,
-      "name": "Blessed Are",
-      "url": "https://open.spotify.com/track/4fK3awsA0h8RcyULqw3XMS"
+      "duration_ms": 184666,
+      "name": "Hello In There",
+      "url": "https://open.spotify.com/track/5T0sb6FbmtLkOkAW08Wfqs"
     },
     {
       "added_at": null,
@@ -551,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamonds & Rust",
-        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
+        "name": "Blessed Are...",
+        "url": "https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 184666,
-      "name": "Hello In There",
-      "url": "https://open.spotify.com/track/5T0sb6FbmtLkOkAW08Wfqs"
+      "duration_ms": 186160,
+      "name": "Blessed Are",
+      "url": "https://open.spotify.com/track/4fK3awsA0h8RcyULqw3XMS"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come From The Shadows",
-        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 263893,
-      "name": "Prison Trilogy (Billy Rose)",
-      "url": "https://open.spotify.com/track/09dGiyUBUGQBV0I6uH0sDY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diamonds & Rust",
         "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 165026,
       "name": "Never Dreamed You'd Leave In Summer",
       "url": "https://open.spotify.com/track/5vxEs5O73vhgijogIFxRSN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come From The Shadows",
+        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 263893,
+      "name": "Prison Trilogy (Billy Rose)",
+      "url": "https://open.spotify.com/track/09dGiyUBUGQBV0I6uH0sDY"
     },
     {
       "added_at": null,

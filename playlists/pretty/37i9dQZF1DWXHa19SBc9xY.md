@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,178 likes - 85 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,212 likes - 85 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 47 | [Coração Melão](https://open.spotify.com/track/5WJl5D5BtJ1m0DIj6ZKOzT) | [Iuna Falcão](https://open.spotify.com/artist/3j3isTW06zLzcrST7xWt9N), [Núbia](https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW) | [Coração Melão](https://open.spotify.com/album/6M6JvZ9nPuldJZHe99vInD) | 4:18 |
 | 48 | [Te Levar \- Acústico](https://open.spotify.com/track/4QmLP7fU49UyWgxED0hvAI) | [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [Te Levar \(Acústico\)](https://open.spotify.com/album/53DSOKPvUINVwmFN32JqhJ) | 2:53 |
 | 49 | [Rara](https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5) | [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Santino](https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa) | [Rara](https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn) | 3:17 |
-| 50 | [Deixa o Verão Acontecer](https://open.spotify.com/track/39Jjxq8jmeVzvnLDIxTGMx) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Deixa o Verão Acontecer](https://open.spotify.com/album/2zqlZFCt2X6QWCaM4vW5Xf) | 2:41 |
-| 51 | [Tem Dias](https://open.spotify.com/track/4q7PtChUEX8iXUsTw4eQkl) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Tem Dias](https://open.spotify.com/album/7H13dgfnX4i8qC04THpGLC) | 3:29 |
+| 50 | [Tem Dias](https://open.spotify.com/track/4q7PtChUEX8iXUsTw4eQkl) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Tem Dias](https://open.spotify.com/album/7H13dgfnX4i8qC04THpGLC) | 3:29 |
+| 51 | [Deixa o Verão Acontecer](https://open.spotify.com/track/39Jjxq8jmeVzvnLDIxTGMx) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Deixa o Verão Acontecer](https://open.spotify.com/album/2zqlZFCt2X6QWCaM4vW5Xf) | 2:41 |
 | 52 | [Sala De Estar](https://open.spotify.com/track/22kzz5JUNNdKLKChbUjjx6) | [LOFRAN](https://open.spotify.com/artist/13ec82LFkO4vxAOtkahO78), [Jadeco](https://open.spotify.com/artist/2xR72gXLvfx1hi8OcADmAY) | [Sala De Estar](https://open.spotify.com/album/4s4HfTHQpIsZDrNYhDjF8A) | 4:05 |
 | 53 | [cheia de vontade](https://open.spotify.com/track/4mJ3pcf1OjSiF0ugzIJNKz) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [cheia de vontade](https://open.spotify.com/album/45ALQndFdgxFNUTtJ6GWNv) | 2:26 |
 | 54 | [Pode Acreditar](https://open.spotify.com/track/03oe8zQqvokacoYMOlI4Ah) | [Alma Djem](https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0) | [Pode Acreditar](https://open.spotify.com/album/5esE23Donw6EIj3knQeGhf) | 3:39 |

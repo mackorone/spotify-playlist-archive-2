@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vbbZ6kSMfo.md) - [plain]
 
 > Who's going to lead hip\-hop’s next generation? Vote now on mobile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,989 likes - 48 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,868 likes - 48 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

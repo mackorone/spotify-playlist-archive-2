@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 396307,
+  "num_followers": 396311,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAGTfGzSzhkTU/7++v4zzBMw3MY4C",
   "tracks": [
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Bungalow",
+        "url": "https://open.spotify.com/album/4XhG9K7809PaC7aGN7nsE6"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 211573,
+      "name": "Younger Days",
+      "url": "https://open.spotify.com/track/17EVNTLaA1unyp48sahMDz"
+    },
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 214459,
       "name": "Till the Morning",
       "url": "https://open.spotify.com/track/0wuxOBMmwRRgJi3gXse0QD"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
-        "name": "Bungalow",
-        "url": "https://open.spotify.com/album/4XhG9K7809PaC7aGN7nsE6"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 211573,
-      "name": "Younger Days",
-      "url": "https://open.spotify.com/track/17EVNTLaA1unyp48sahMDz"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -95,22 +95,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Small Changes",
-        "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 271930,
-      "name": "One And Only",
-      "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "Feeling Fine",
         "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 168461,
       "name": "Feeling Fine",
       "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Small Changes",
+        "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 271930,
+      "name": "One And Only",
+      "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Deena & Jim",
-        "url": "https://open.spotify.com/album/6f40F9LdGKDXjVl3mJkXun"
-      },
-      "artists": [
-        {
-          "name": "Anouk",
-          "url": "https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX"
-        }
-      ],
-      "duration_ms": 317089,
-      "name": "One Day At A Time",
-      "url": "https://open.spotify.com/track/2aunBTpmXeh0UVITDQSyVz"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "Better Man",
         "url": "https://open.spotify.com/album/3AoxpOQGQDnYI4aTvGV6UD"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 153973,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/1EbPdSGUieuXiUj6pThOOP"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Deena & Jim",
+        "url": "https://open.spotify.com/album/6f40F9LdGKDXjVl3mJkXun"
+      },
+      "artists": [
+        {
+          "name": "Anouk",
+          "url": "https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX"
+        }
+      ],
+      "duration_ms": 317089,
+      "name": "One Day At A Time",
+      "url": "https://open.spotify.com/track/2aunBTpmXeh0UVITDQSyVz"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Light of My Life",
-        "url": "https://open.spotify.com/album/0nTBKuQEAaYS3K1dhHy7b8"
-      },
-      "artists": [
-        {
-          "name": "Douwe Bob",
-          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
-        }
-      ],
-      "duration_ms": 259518,
-      "name": "Light of My Life",
-      "url": "https://open.spotify.com/track/4bviXkL3PQC331yzFlXPEz"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "Walls",
         "url": "https://open.spotify.com/album/6SRWhcfH94UmcQrvXRuFWS"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 186079,
       "name": "Walls",
       "url": "https://open.spotify.com/track/23maC3cddA5XAxmeVVxpr3"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Light of My Life",
+        "url": "https://open.spotify.com/album/0nTBKuQEAaYS3K1dhHy7b8"
+      },
+      "artists": [
+        {
+          "name": "Douwe Bob",
+          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+        }
+      ],
+      "duration_ms": 259518,
+      "name": "Light of My Life",
+      "url": "https://open.spotify.com/track/4bviXkL3PQC331yzFlXPEz"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Take My Heart",
-        "url": "https://open.spotify.com/album/28H39Qto0LOt4cQbc063gw"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 258651,
-      "name": "Take My Heart",
-      "url": "https://open.spotify.com/track/55Tas3fJN0ta5aVxTm2vST"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "Beginners",
         "url": "https://open.spotify.com/album/5gG3tn5rwn5MRVVIRq8wNN"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 216005,
       "name": "Beginners",
       "url": "https://open.spotify.com/track/5AsLsFWZPWDC5KSv49nEhd"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Take My Heart",
+        "url": "https://open.spotify.com/album/28H39Qto0LOt4cQbc063gw"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 258651,
+      "name": "Take My Heart",
+      "url": "https://open.spotify.com/track/55Tas3fJN0ta5aVxTm2vST"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "I'm Always On Stage",
-        "url": "https://open.spotify.com/album/7cp6JGilOv7SbJxOSzc1UB"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 243546,
-      "name": "I'm Always On Stage",
-      "url": "https://open.spotify.com/track/2GR3y9iXb5Lae2KLQJUy2J"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "I Believe In Life",
         "url": "https://open.spotify.com/album/5JVxbGun5sqJ8vEvKguM2P"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 216519,
       "name": "I Believe In Life",
       "url": "https://open.spotify.com/track/5LtkWfkTVBjHpss1mSJwXW"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "I'm Always On Stage",
+        "url": "https://open.spotify.com/album/7cp6JGilOv7SbJxOSzc1UB"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 243546,
+      "name": "I'm Always On Stage",
+      "url": "https://open.spotify.com/track/2GR3y9iXb5Lae2KLQJUy2J"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "i'm changing my mind",
-        "url": "https://open.spotify.com/album/7cjunboFq4ymwahQTGiPQB"
-      },
-      "artists": [
-        {
-          "name": "Katie Koss",
-          "url": "https://open.spotify.com/artist/0tF0BK361CxlAYtmu6WADN"
-        }
-      ],
-      "duration_ms": 234336,
-      "name": "adeline",
-      "url": "https://open.spotify.com/track/0xMF4mYFyJXUjJPo3tcO0J"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "One More Try",
         "url": "https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 356000,
       "name": "One More Try",
       "url": "https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "i'm changing my mind",
+        "url": "https://open.spotify.com/album/7cjunboFq4ymwahQTGiPQB"
+      },
+      "artists": [
+        {
+          "name": "Katie Koss",
+          "url": "https://open.spotify.com/artist/0tF0BK361CxlAYtmu6WADN"
+        }
+      ],
+      "duration_ms": 234336,
+      "name": "adeline",
+      "url": "https://open.spotify.com/track/0xMF4mYFyJXUjJPo3tcO0J"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Green Lights",
-        "url": "https://open.spotify.com/album/0pIx3rjKDxor7Uza8remku"
-      },
-      "artists": [
-        {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
-        }
-      ],
-      "duration_ms": 177306,
-      "name": "Falling Easy",
-      "url": "https://open.spotify.com/track/4s0eEqOyR0ybLtBo5fkPB6"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "In my cluttered head",
         "url": "https://open.spotify.com/album/1AchE697lDOBQB0LuUTjDC"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 203346,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/1bBXBskc6n3uJywJUdcWEC"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Green Lights",
+        "url": "https://open.spotify.com/album/0pIx3rjKDxor7Uza8remku"
+      },
+      "artists": [
+        {
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+        }
+      ],
+      "duration_ms": 177306,
+      "name": "Falling Easy",
+      "url": "https://open.spotify.com/track/4s0eEqOyR0ybLtBo5fkPB6"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Last Night In The Bittersweet",
-        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
-      },
-      "artists": [
-        {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
-        }
-      ],
-      "duration_ms": 291706,
-      "name": "Julianne",
-      "url": "https://open.spotify.com/track/67xn8VjUQtGD0ptoKKSfIZ"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/5UOuVdbm7voBfBbdq4ZZ6A"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 206453,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/0ZJPFFiDWl8AQSE9UiR5sg"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Last Night In The Bittersweet",
+        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 291706,
+      "name": "Julianne",
+      "url": "https://open.spotify.com/track/67xn8VjUQtGD0ptoKKSfIZ"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Bend",
-        "url": "https://open.spotify.com/album/24Lcq3Gfs5zUkovQWsmTAT"
-      },
-      "artists": [
-        {
-          "name": "Noa Lee",
-          "url": "https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM"
-        }
-      ],
-      "duration_ms": 236801,
-      "name": "Bend",
-      "url": "https://open.spotify.com/track/5ndA2BSNuy54Ga49nEkECX"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "Little Love",
         "url": "https://open.spotify.com/album/4mErgfMcAlJ6WLQkRvHozj"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 188478,
       "name": "Little Love",
       "url": "https://open.spotify.com/track/6ZgMOBLTFTiznbKhEDeqnw"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Bend",
+        "url": "https://open.spotify.com/album/24Lcq3Gfs5zUkovQWsmTAT"
+      },
+      "artists": [
+        {
+          "name": "Noa Lee",
+          "url": "https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM"
+        }
+      ],
+      "duration_ms": 236801,
+      "name": "Bend",
+      "url": "https://open.spotify.com/track/5ndA2BSNuy54Ga49nEkECX"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Always Lost",
-        "url": "https://open.spotify.com/album/2JnYn3rCK1aGomksow3WtA"
-      },
-      "artists": [
-        {
-          "name": "Emma Hessels",
-          "url": "https://open.spotify.com/artist/2EBGNZQqTRCOmaLi10FQ2g"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Always Lost",
-      "url": "https://open.spotify.com/track/1GLJrhvJcD7MDzH4oSfimf"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "Kind Of Love",
         "url": "https://open.spotify.com/album/0DAoXzBMrgwUt84tXqkKyJ"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 234183,
       "name": "Kind Of Love",
       "url": "https://open.spotify.com/track/6IBkD70W6Lx4w13dzyYNEn"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Always Lost",
+        "url": "https://open.spotify.com/album/2JnYn3rCK1aGomksow3WtA"
+      },
+      "artists": [
+        {
+          "name": "Emma Hessels",
+          "url": "https://open.spotify.com/artist/2EBGNZQqTRCOmaLi10FQ2g"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Always Lost",
+      "url": "https://open.spotify.com/track/1GLJrhvJcD7MDzH4oSfimf"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Crystal Tears",
-        "url": "https://open.spotify.com/album/5FwyV0GtSv7cFi5jf8IykE"
-      },
-      "artists": [
-        {
-          "name": "Janne Schra",
-          "url": "https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K"
-        }
-      ],
-      "duration_ms": 222691,
-      "name": "Crystal Tears",
-      "url": "https://open.spotify.com/track/2U79GTtriUkPKJJSy4Ggeb"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "something i can't fake",
         "url": "https://open.spotify.com/album/2AdKGAN4yidTdY2HU9kFRQ"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 218048,
       "name": "Something I Can't Fake",
       "url": "https://open.spotify.com/track/1M6RTeidHtMw2bvfWBJqO6"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Crystal Tears",
+        "url": "https://open.spotify.com/album/5FwyV0GtSv7cFi5jf8IykE"
+      },
+      "artists": [
+        {
+          "name": "Janne Schra",
+          "url": "https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K"
+        }
+      ],
+      "duration_ms": 222691,
+      "name": "Crystal Tears",
+      "url": "https://open.spotify.com/track/2U79GTtriUkPKJJSy4Ggeb"
     }
   ],
   "unique_name": "'t Koffiehuis",

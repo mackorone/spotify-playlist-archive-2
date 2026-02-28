@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq7lvg1a3j6.md) - [plain]
 
 > Let these songs soundtrack your busy wedding season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,862 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,950 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq7lvg1a3j6.md) - [plain]
 | 49 | [Nain Matakka \- From "Baby John"](https://open.spotify.com/track/2We0kZg7AZaIMsrBkqp2SI) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Nain Matakka \(From "Baby John"\)](https://open.spotify.com/album/2xFg2ollu0FPiwvDBAVDT5) | 3:42 |
 | 50 | [Hauli Hauli \(From "Khel Khel Mein"\)](https://open.spotify.com/track/1riuemY0uGVSZ1YzVTmmUw) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Hauli Hauli \(From "Khel Khel Mein"\)](https://open.spotify.com/album/4RnA4EP9q4Q6NRcjARwUCU) | 2:48 |
 
-Snapshot ID: `AAAAAL5tT8ESXKKhJiJf+yLcSnzbZIIT`
+Snapshot ID: `AAAAAC8D5K5LsFcKZZRN8iZPslGta5ni`

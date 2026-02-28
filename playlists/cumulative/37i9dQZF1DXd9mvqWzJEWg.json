@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: Blacks Jnr",
+  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: Surreal Sessions",
   "name": "GQOM Power House",
   "tracks": [
     {
@@ -1228,7 +1228,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 387892,
       "name": "Bhenga Bhenga",
       "url": "https://open.spotify.com/track/1LyMrf9CVlDp2omeqslPy8"
@@ -3140,7 +3140,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 367364,
       "name": "Gazol & Gqom",
       "url": "https://open.spotify.com/track/0u21P4Artg0aFFqcMUfopg"
@@ -11728,6 +11728,24 @@
       "duration_ms": 281364,
       "name": "Which is Which",
       "url": "https://open.spotify.com/track/7K91DUq99r3KisZTWfwP97"
+    },
+    {
+      "album": {
+        "name": "Whisper Package",
+        "url": "https://open.spotify.com/album/1mcT0QNcthN5H9d8bJkAH1"
+      },
+      "artists": [
+        {
+          "name": "Surreal Sessions",
+          "url": "https://open.spotify.com/artist/4kF0844GqqOkj7bvFTlW6E"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342876,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/7bjBDCwjMBufLBDxsDNqa3"
     },
     {
       "album": {

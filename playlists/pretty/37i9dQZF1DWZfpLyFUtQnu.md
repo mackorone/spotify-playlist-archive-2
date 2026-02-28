@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 
 > Les plus belles ballades de la chanson française d'hier et d'aujourd'hui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,744 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,770 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 3 | [Je l'aime à mourir \- Remastered](https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Les chemins de traverse \(Remastered\)](https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x) | 2:45 |
 | 4 | [Mistral gagnant](https://open.spotify.com/track/1MOSRjdAbUhvLNnHCdUEL5) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Mistral gagnant](https://open.spotify.com/album/3RNhp7YkJXZe3KJ3xlTHWb) | 2:45 |
 | 5 | [Ceux qu'on était](https://open.spotify.com/track/57InPX86dWSiQexyA7xx5i) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde](https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm) | 2:54 |
-| 6 | [Corps](https://open.spotify.com/track/7qx03NsIL42jM03zFphnRO) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Noir](https://open.spotify.com/album/71KbEOWntZKWUHRfYAumiB) | 5:13 |
-| 7 | [Et si tu n'existais pas](https://open.spotify.com/track/1GeszH3DWCOKwK0d8D5gEZ) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin](https://open.spotify.com/album/32ZaJ7p8xvsYE8udh6vyOg) | 3:26 |
+| 6 | [Et si tu n'existais pas](https://open.spotify.com/track/1GeszH3DWCOKwK0d8D5gEZ) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin](https://open.spotify.com/album/32ZaJ7p8xvsYE8udh6vyOg) | 3:26 |
+| 7 | [Corps](https://open.spotify.com/track/7qx03NsIL42jM03zFphnRO) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Noir](https://open.spotify.com/album/71KbEOWntZKWUHRfYAumiB) | 5:13 |
 | 8 | [Je t'aimais, je t'aime, je t'aimerai \- Remastered](https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Samedi soir sur la terre \(Remastered\)](https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8) | 4:38 |
 | 9 | [Des milliers de je t'aime](https://open.spotify.com/track/1NwjfTd5fsvRFtYGERuKzA) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Chroniques d’un cupidon](https://open.spotify.com/album/1a6v54PDHcrn6y5iA7wuT1) | 3:32 |
 | 10 | [Le sud](https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG) | 4:35 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 57 | [S'il suffisait d'aimer](https://open.spotify.com/track/5QsVz6hMVGPia0NOMQ8wOS) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [On ne change pas](https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO) | 3:34 |
 | 58 | [Je te promets](https://open.spotify.com/track/66qec4opk3ESgF5SqYlux2) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [70eme Anniversaire](https://open.spotify.com/album/3DhqKZkYpaJA3LnAgzRvuq) | 4:34 |
 | 59 | [T'es Belle](https://open.spotify.com/track/3SnAZtodqwylc35c3tP0wZ) | [Volo](https://open.spotify.com/artist/11T4vCBbGWjL5boJmWeiw9) | [Jours Heureux](https://open.spotify.com/album/7jUVoBb0xFVgnqoBOVuvxX) | 2:29 |
-| 60 | [Si t'étais là](https://open.spotify.com/track/1iQ9W74bGFDAbiRIKn0PuH) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Louane](https://open.spotify.com/album/1f1C1CjidKcWQyiIYcMvP2) | 2:33 |
-| 61 | [Ton visage \- Acoustic](https://open.spotify.com/track/5DAG0y0LtmvZCcc2uHNwUR) | [Fréro Delavega](https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT), [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [Des ombres et des lumières \- Live à l'Olympia / 2016](https://open.spotify.com/album/29AWK7mk7bfJ6QR2CX1fUX) | 2:54 |
+| 60 | [Ton visage \- Acoustic](https://open.spotify.com/track/5DAG0y0LtmvZCcc2uHNwUR) | [Fréro Delavega](https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT), [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [Des ombres et des lumières \- Live à l'Olympia / 2016](https://open.spotify.com/album/29AWK7mk7bfJ6QR2CX1fUX) | 2:54 |
+| 61 | [Si t'étais là](https://open.spotify.com/track/1iQ9W74bGFDAbiRIKn0PuH) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Louane](https://open.spotify.com/album/1f1C1CjidKcWQyiIYcMvP2) | 2:33 |
 | 62 | [Manque d'Amour](https://open.spotify.com/track/3AtdizIe78tjWmbyZbgIoV) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Petite Amie \(Edition Délice\)](https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N) | 3:06 |
 | 63 | [On fait comme si](https://open.spotify.com/track/0QaVAoRnez6qMlLPqbB4fd) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4) | [On fait comme si](https://open.spotify.com/album/0UpDT5u1kYDZV21UBQctll) | 4:11 |
 | 64 | [Dommage](https://open.spotify.com/track/0TdHMmYqHucjNryME4bfKe) | [Erza Muqoli](https://open.spotify.com/artist/2LaNU9yZUvApYGMs7lw9bt) | [Erza Muqoli](https://open.spotify.com/album/4MYZ8sm7algdZmjef4Bp4g) | 4:47 |

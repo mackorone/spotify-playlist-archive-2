@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 
 > Are you afraid of the dark?
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,980 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,981 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 17 | [The Place Where He Inserted the Blade](https://open.spotify.com/track/3k2kIiJqUiIP49iUcOLpWT) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 7:13 |
 | 18 | [Cry](https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy) | 4:16 |
 | 19 | [Slither](https://open.spotify.com/track/4zzwmX1ntxHBaFWJahkVTx) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 1:50 |
-| 20 | [Silk](https://open.spotify.com/track/5VWtavZNYlK6m6MQY6YRg1) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU) | 4:03 |
-| 21 | [Halloween](https://open.spotify.com/track/2GDxR0ZGYqDQUElSQxBiNS) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 4:31 |
+| 20 | [Halloween](https://open.spotify.com/track/2GDxR0ZGYqDQUElSQxBiNS) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 4:31 |
+| 21 | [Silk](https://open.spotify.com/track/5VWtavZNYlK6m6MQY6YRg1) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU) | 4:03 |
 | 22 | [Drink Deep](https://open.spotify.com/track/21sDgrgghtQMdUGsCqGVXI) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 3:51 |
 | 23 | [Funny](https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Funny](https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2) | 5:02 |
 | 24 | [Sisters of the Moon \- 2015 Remaster](https://open.spotify.com/track/7Gjj6NxSsVwXfOXUjvjCXv) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(Deluxe Edition\)](https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn) | 4:43 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 29 | [Ms](https://open.spotify.com/track/0pCTr2E9CtulIwNprituKi) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:58 |
 | 30 | [Willoughby's Interlude](https://open.spotify.com/track/3ugwznRhQxaUD8C5R8AhoG) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Willoughby Tucker, I'll Always Love You](https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm) | 7:27 |
 | 31 | [Horseness Is The Whatness](https://open.spotify.com/track/0kwMhCBpF1vlTTip2oqVs8) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:07 |
-| 32 | [Heavy Water/I'd Rather Be Sleeping](https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 2:53 |
-| 33 | [Famous Last Words \(An Ode to Eaters\)](https://open.spotify.com/track/7bpfZYrS4dQKxiuj6QiRaX) | [1017 ALYX 9SM](https://open.spotify.com/artist/72Kzyue7ShXymPjcjOZwHk), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Famous Last Words \(An Ode to Eaters\)](https://open.spotify.com/album/47mfwMreABCnlLm7EEtHsB) | 3:22 |
+| 32 | [Famous Last Words \(An Ode to Eaters\)](https://open.spotify.com/track/7bpfZYrS4dQKxiuj6QiRaX) | [1017 ALYX 9SM](https://open.spotify.com/artist/72Kzyue7ShXymPjcjOZwHk), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Famous Last Words \(An Ode to Eaters\)](https://open.spotify.com/album/47mfwMreABCnlLm7EEtHsB) | 3:22 |
+| 33 | [Heavy Water/I'd Rather Be Sleeping](https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 2:53 |
 | 34 | [Night Time](https://open.spotify.com/track/0ibXYHIS1vPqpkm1LoIWZR) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 3:36 |
 | 35 | [Dancing and Blood](https://open.spotify.com/track/23r92m2ABmBYCjQ55hncxY) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Double Negative](https://open.spotify.com/album/0fWKkkVCj14CllpjPLjU9P) | 6:22 |
 | 36 | [mary magdalene](https://open.spotify.com/track/77tQQM8iEswfiSVLbTrFPX) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 5:21 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 94 | [My Funny Valentine](https://open.spotify.com/track/7lkUDDKw8Xce33MtJTfvpO) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Covered In Hether](https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas) | 3:11 |
 | 95 | [Somebody Told Me](https://open.spotify.com/track/1NipBTZQXFIeQaqzy1Mdjj) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Somebody Told Me](https://open.spotify.com/album/3kLyeLRbV9sExn8j6Dxd5P) | 3:51 |
 | 96 | [Little Vampire](https://open.spotify.com/track/2DNynwcArXc2rYXgJxuBZ2) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Head of the Love Club](https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST) | 2:55 |
-| 97 | [Alps](https://open.spotify.com/track/57cfUHZjRwwrIQaMurSIlJ) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [I Don't Know](https://open.spotify.com/album/2cNtBpejkWMdxrN94XuR8z) | 5:30 |
+| 97 | [Darp 2 / Exorcism](https://open.spotify.com/track/4peyXn5Y2L8m8nKFdCfNOn) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [So Medieval](https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C) | 3:20 |
 | 98 | [Black Tuesday](https://open.spotify.com/track/0V7lk9z0lENF1yokswyldF) | [Anna Calvi](https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo) | [Peaky Blinders: Season 5 \(Original Score\)](https://open.spotify.com/album/4BdTEmyT5pI0OyBzqwQtu2) | 1:32 |
-| 99 | [Tears In The Typing Pool \[Demo\]](https://open.spotify.com/track/4cFJWQsjExGHzy72SU7LBI) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Tears In The Typing Pool \[Demo\]](https://open.spotify.com/album/68w71VR1Kdxxe7ZKFsFz34) | 2:07 |
-| 100 | [Darp 2 / Exorcism](https://open.spotify.com/track/4peyXn5Y2L8m8nKFdCfNOn) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [So Medieval](https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C) | 3:20 |
+| 99 | [Alps](https://open.spotify.com/track/57cfUHZjRwwrIQaMurSIlJ) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [I Don't Know](https://open.spotify.com/album/2cNtBpejkWMdxrN94XuR8z) | 5:30 |
+| 100 | [Tears In The Typing Pool \[Demo\]](https://open.spotify.com/track/4cFJWQsjExGHzy72SU7LBI) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Tears In The Typing Pool \[Demo\]](https://open.spotify.com/album/68w71VR1Kdxxe7ZKFsFz34) | 2:07 |
 
 Snapshot ID: `AAAAAFk+O9I7DKu2NgbgEWItggUY+Wpa`

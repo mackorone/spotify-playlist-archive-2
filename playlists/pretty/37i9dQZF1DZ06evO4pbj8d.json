@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Oladokun. The essential tracks, all in one playlist.",
-  "num_followers": 11577,
+  "num_followers": 11580,
   "original_name": "This Is Joy Oladokun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAAAB4V4QUhcobOGhvFWK6y0p",
+  "snapshot_id": "aZ+NAAAAAABnTFOhrorkVDvCy3V8l9Vn",
   "tracks": [
     {
       "added_at": null,
@@ -167,6 +167,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Taking Things For Granted",
+        "url": "https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 216167,
+      "name": "Taking Things For Granted",
+      "url": "https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Proof Of Life",
         "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 201483,
       "name": "Friends (with Mt. Joy)",
       "url": "https://open.spotify.com/track/4smxhbkhynwlqp8cjVxuxg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Taking Things For Granted",
-        "url": "https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 216167,
-      "name": "Taking Things For Granted",
-      "url": "https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O"
     },
     {
       "added_at": null,
@@ -588,29 +588,13 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         },
         {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
         }
       ],
-      "duration_ms": 186986,
-      "name": "Bigger Man (with Maren Morris)",
-      "url": "https://open.spotify.com/track/3Dd9ip26FejJl8qi6mJ7M8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OBSERVATIONS FROM A CROWDED ROOM",
-        "url": "https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 237915,
-      "name": "QUESTIONS, CHAOS & FAITH",
-      "url": "https://open.spotify.com/track/1bHUfLczpJKKgyB5OKlBbE"
+      "duration_ms": 192106,
+      "name": "wish you the best (feat. Jensen McRae)",
+      "url": "https://open.spotify.com/track/6N41BkrO2jEHjNS3zlXo45"
     },
     {
       "added_at": null,
@@ -631,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "OBSERVATIONS FROM A CROWDED ROOM",
+        "url": "https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 237915,
+      "name": "QUESTIONS, CHAOS & FAITH",
+      "url": "https://open.spotify.com/track/1bHUfLczpJKKgyB5OKlBbE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Hating Game (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5"
       },
@@ -643,22 +643,6 @@
       "duration_ms": 196606,
       "name": "Count On Me",
       "url": "https://open.spotify.com/track/5VLhD6BQRgXAtKCqlS1hMJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "May",
-        "url": "https://open.spotify.com/album/0zL7IkhuOdQtIKp999gDv6"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 193101,
-      "name": "Dear Maria",
-      "url": "https://open.spotify.com/track/474l0bzcgUT8Y6e8pul43i"
     },
     {
       "added_at": null,
@@ -695,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "May",
+        "url": "https://open.spotify.com/album/0zL7IkhuOdQtIKp999gDv6"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 193101,
+      "name": "Dear Maria",
+      "url": "https://open.spotify.com/track/474l0bzcgUT8Y6e8pul43i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "OBSERVATIONS FROM A CROWDED ROOM",
         "url": "https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV"
       },
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "in defense of my own happiness (complete)",
-        "url": "https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 213053,
-      "name": "brick by brick",
-      "url": "https://open.spotify.com/track/4JUSXwDFcncj0TbXByi0U7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carry",
         "url": "https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 242811,
       "name": "Carry",
       "url": "https://open.spotify.com/track/6drp4VbnWwVxfn5v5jzqp7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "in defense of my own happiness (complete)",
+        "url": "https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 213053,
+      "name": "brick by brick",
+      "url": "https://open.spotify.com/track/4JUSXwDFcncj0TbXByi0U7"
     },
     {
       "added_at": null,
@@ -811,38 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "in defense of my own happiness (the beginnings)",
-        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 170653,
-      "name": "smoke",
-      "url": "https://open.spotify.com/track/282iiFgHe0vEhEWZOE5v73"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OBSERVATIONS FROM A CROWDED ROOM",
-        "url": "https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 196008,
-      "name": "AM I?",
-      "url": "https://open.spotify.com/track/1J2prWTjfIrfjQBHa74RH4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Be Careful",
         "url": "https://open.spotify.com/album/6q36JBS51lMuxw7rsU9hwf"
       },
@@ -863,6 +831,38 @@
       "duration_ms": 342272,
       "name": "Be Careful",
       "url": "https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OBSERVATIONS FROM A CROWDED ROOM",
+        "url": "https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 196008,
+      "name": "AM I?",
+      "url": "https://open.spotify.com/track/1J2prWTjfIrfjQBHa74RH4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "in defense of my own happiness (the beginnings)",
+        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 170653,
+      "name": "smoke",
+      "url": "https://open.spotify.com/track/282iiFgHe0vEhEWZOE5v73"
     },
     {
       "added_at": null,

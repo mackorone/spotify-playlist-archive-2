@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e1f\u0e31\u0e07\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e43\u0e19\u0e44\u0e17\u0e22 \u0e23\u0e27\u0e21\u0e40\u0e1e\u0e25\u0e07\u0e40\u0e14\u0e48\u0e19\u0e08\u0e32\u0e01\u0e17\u0e31\u0e48\u0e27\u0e42\u0e25\u0e01. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: BLUE PONGTIWAT, TEN",
+  "description": "\u0e1f\u0e31\u0e07\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e43\u0e19\u0e44\u0e17\u0e22 \u0e23\u0e27\u0e21\u0e40\u0e1e\u0e25\u0e07\u0e40\u0e14\u0e48\u0e19\u0e08\u0e32\u0e01\u0e17\u0e31\u0e48\u0e27\u0e42\u0e25\u0e01. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: BLACKPINK",
   "name": "Hot Hits Thailand",
   "tracks": [
     {
@@ -100,7 +100,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 311733,
       "name": "Aperture",
       "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
@@ -416,7 +416,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 188059,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
@@ -870,6 +870,24 @@
       "duration_ms": 239720,
       "name": "Garden Of Eden",
       "url": "https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd"
+    },
+    {
+      "album": {
+        "name": "DEADLINE",
+        "url": "https://open.spotify.com/album/2SrWldMz9dfCB7kAGQNbcC"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195402,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/0mYa3o6tlUN5HRippmKmwH"
     },
     {
       "album": {
@@ -1897,6 +1915,24 @@
     },
     {
       "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204068,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
+    },
+    {
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
       },
@@ -2718,6 +2754,24 @@
       "duration_ms": 166265,
       "name": "\u0e02\u0e2d\u0e42\u0e17\u0e29\u0e25\u0e30\u0e01\u0e31\u0e19 (friend to friend)",
       "url": "https://open.spotify.com/track/0cvETHNq3ZkPHdYCqRXhzk"
+    },
+    {
+      "album": {
+        "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e23\u0e32\u0e17\u0e31\u0e49\u0e07\u0e04\u0e39\u0e48\u0e42\u0e0a\u0e04\u0e14\u0e35 (Good Luck to The Both of Us)",
+        "url": "https://open.spotify.com/album/5Y9UBuDr9YrjFoRvfuO6fb"
+      },
+      "artists": [
+        {
+          "name": "Tattoo Colour",
+          "url": "https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236335,
+      "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e23\u0e32\u0e17\u0e31\u0e49\u0e07\u0e04\u0e39\u0e48\u0e42\u0e0a\u0e04\u0e14\u0e35 (Good Luck to The Both of Us)",
+      "url": "https://open.spotify.com/track/4GMsgN54SdPxMamKu9qQam"
     },
     {
       "album": {
@@ -3868,7 +3922,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 208269,
       "name": "\u0e25\u0e49\u0e21\u0e41\u0e0a\u0e21\u0e1b\u0e4c (Only You Can)",
       "url": "https://open.spotify.com/track/3dKiS7M3Rkqtj9dsOkvzW6"
@@ -4071,6 +4125,24 @@
     },
     {
       "album": {
+        "name": "\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e04\u0e19\u0e15\u0e23\u0e07\u0e19\u0e35\u0e49 (I'm here)",
+        "url": "https://open.spotify.com/album/2S1NnWORdoVfgwFFHK2xww"
+      },
+      "artists": [
+        {
+          "name": "PURPEECH",
+          "url": "https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e04\u0e19\u0e15\u0e23\u0e07\u0e19\u0e35\u0e49 (I'm here)",
+      "url": "https://open.spotify.com/track/5GwXBrY91rDCB18cwpjsBz"
+    },
+    {
+      "album": {
         "name": "\u0e2b\u0e25\u0e48\u0e19 (Faded)",
         "url": "https://open.spotify.com/album/1fAuGPKljtvREJTpeGwCfx"
       },
@@ -4238,7 +4310,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 188414,
       "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e2a\u0e19\u0e34\u0e17 (Platonic Love) [feat. PEEMWASU OF BUS]",
       "url": "https://open.spotify.com/track/11ZywXk23xC8T7VOpKAbKI"

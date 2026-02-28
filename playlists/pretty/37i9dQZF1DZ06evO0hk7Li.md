@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 
 > This is Jacob Banks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,182 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,186 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 49 | [Parachute](https://open.spotify.com/track/1zDC7bs9jmXzBReD5JvpHn) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:11 |
 | 50 | [You Like It I Love It](https://open.spotify.com/track/78sI81RifcXgUp2YBiZb2q) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder](https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx) | 2:57 |
 
-Snapshot ID: `aZ47gAAAAADwyHhGSPHm71lKt2P0zt6e`
+Snapshot ID: `aZ+NAAAAAAA391rtBnEakvXmoRozH6Kz`

@@ -363,6 +363,24 @@
     },
     {
       "album": {
+        "name": "Alert VIP",
+        "url": "https://open.spotify.com/album/02xfxgNOtTx7KJ4GYC903X"
+      },
+      "artists": [
+        {
+          "name": "En:vy",
+          "url": "https://open.spotify.com/artist/00YRVhQFlwO1OhSyWyT9pU"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "Alert VIP",
+      "url": "https://open.spotify.com/track/1lPnwlx82GQTH8qSSSU8rw"
+    },
+    {
+      "album": {
         "name": "Alien Bass",
         "url": "https://open.spotify.com/album/3oICpwGncm9QOBg5FSBeOd"
       },
@@ -829,6 +847,24 @@
     },
     {
       "album": {
+        "name": "Back Crawler",
+        "url": "https://open.spotify.com/album/0x6q6WPhssMoVcUedmRMGW"
+      },
+      "artists": [
+        {
+          "name": "Scorsi",
+          "url": "https://open.spotify.com/artist/0LQKGvxOXZHDCxuite9zcT"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161600,
+      "name": "Back Crawler",
+      "url": "https://open.spotify.com/track/1RiWaWV9r1khZMd78p77xq"
+    },
+    {
+      "album": {
         "name": "Back In It",
         "url": "https://open.spotify.com/album/0WVjb48hdM7HPKdBQLt0WR"
       },
@@ -1066,7 +1102,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 241655,
       "name": "Badman Season",
       "url": "https://open.spotify.com/track/2sOBIuHSmGcdCnfzJJhfvK"
@@ -3306,7 +3342,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 205241,
       "name": "D33P",
       "url": "https://open.spotify.com/track/39sLXM6qyOKfsCnc7nBgvC"
@@ -3426,7 +3462,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 149142,
       "name": "Dark & Dangerous Dub",
       "url": "https://open.spotify.com/track/3LzgpGfxVe0SutWcHaT5bM"
@@ -8251,6 +8287,28 @@
     },
     {
       "album": {
+        "name": "l!sten",
+        "url": "https://open.spotify.com/album/3VDdMX2Cr34oAkZp7sgg7P"
+      },
+      "artists": [
+        {
+          "name": "Saka",
+          "url": "https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv"
+        },
+        {
+          "name": "Arya",
+          "url": "https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185589,
+      "name": "l!sten",
+      "url": "https://open.spotify.com/track/7wIxOG0GnM21WueiICVACR"
+    },
+    {
+      "album": {
         "name": "La La Land",
         "url": "https://open.spotify.com/album/4JmK8LoRBuUhN95jEoJ89S"
       },
@@ -11354,6 +11412,24 @@
       "duration_ms": 111923,
       "name": "PLAY HARD",
       "url": "https://open.spotify.com/track/7LABUtohkGbYgEKyimA403"
+    },
+    {
+      "album": {
+        "name": "NIGHT SHIFT",
+        "url": "https://open.spotify.com/album/5aFrXYRs6NnjZUj9OXQ2yv"
+      },
+      "artists": [
+        {
+          "name": "STVSH",
+          "url": "https://open.spotify.com/artist/5nEtdd8cmhvf1zgNMFoQcI"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199111,
+      "name": "POCKET",
+      "url": "https://open.spotify.com/track/0ACAz0i1t92GNt8SfZHQgA"
     },
     {
       "album": {
@@ -17242,7 +17318,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 159428,
       "name": "WTF",
       "url": "https://open.spotify.com/track/3z25bFqHfuV6KY0aFNvZ96"

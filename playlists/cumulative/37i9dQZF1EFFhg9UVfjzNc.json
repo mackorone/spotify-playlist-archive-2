@@ -129,6 +129,28 @@
     },
     {
       "album": {
+        "name": "Amanheceu",
+        "url": "https://open.spotify.com/album/5bTZzqk2navASrGfzL6a8e"
+      },
+      "artists": [
+        {
+          "name": "Comunidade das Na\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/1hnTrMUWH19QEXIBsPRch1"
+        },
+        {
+          "name": "Arthur Lemos",
+          "url": "https://open.spotify.com/artist/5pOq7exRqZuoSibuUQa4dz"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "Amanheceu",
+      "url": "https://open.spotify.com/track/3PvDP9ECFcfGrMWwpTD66L"
+    },
+    {
+      "album": {
         "name": "Deixa-Te Modelar",
         "url": "https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq"
       },

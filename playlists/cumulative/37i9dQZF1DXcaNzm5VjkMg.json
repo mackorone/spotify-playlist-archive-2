@@ -1579,6 +1579,24 @@
     },
     {
       "album": {
+        "name": "Jurus Jitu",
+        "url": "https://open.spotify.com/album/13jsZBiwJDWXMZa8xVZOFb"
+      },
+      "artists": [
+        {
+          "name": "Harra.",
+          "url": "https://open.spotify.com/artist/0bPHN5TpcAXxpuPjgNbh7O"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209831,
+      "name": "Jurus Jitu",
+      "url": "https://open.spotify.com/track/2suvULXa1nVq5s8iJGwSTt"
+    },
+    {
+      "album": {
         "name": "Question Mark ((?))",
         "url": "https://open.spotify.com/album/6VBu0XUEgmljCOxqJPbzWx"
       },
@@ -3240,6 +3258,28 @@
       "duration_ms": 222893,
       "name": "Teman Hidup",
       "url": "https://open.spotify.com/track/1U1qumuS2O5Qttw8G7UXOZ"
+    },
+    {
+      "album": {
+        "name": "Tenang",
+        "url": "https://open.spotify.com/album/0AjNJcgo36wOxQzmvra3Zi"
+      },
+      "artists": [
+        {
+          "name": "Judika",
+          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
+        },
+        {
+          "name": "Andi Rianto",
+          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297058,
+      "name": "Tenang",
+      "url": "https://open.spotify.com/track/1TMvBhqekWmWJSxpmUMgFz"
     },
     {
       "album": {

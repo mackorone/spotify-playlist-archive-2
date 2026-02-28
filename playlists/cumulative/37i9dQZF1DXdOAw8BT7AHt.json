@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The best in every corner of modern punk rock. Cover: Joyce Manor",
+  "description": "The best in every corner of modern punk rock. Cover: Upchuck",
   "name": "Today's Punk",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 203076,
       "name": "1800-PAINLESS",
       "url": "https://open.spotify.com/track/7yregBQ1r9Nr17IDWOIizd"
@@ -1545,6 +1545,24 @@
     },
     {
       "album": {
+        "name": "Born To Kill",
+        "url": "https://open.spotify.com/album/1NqTkg2rUSAGF6KOSTUgqW"
+      },
+      "artists": [
+        {
+          "name": "Social Distortion",
+          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230866,
+      "name": "Born To Kill",
+      "url": "https://open.spotify.com/track/2dar1QSaBJKGCPXJQsef0J"
+    },
+    {
+      "album": {
         "name": "Box In The Basement",
         "url": "https://open.spotify.com/album/2N13X4HNaRNqzjYL1nHPoF"
       },
@@ -2830,6 +2848,24 @@
       "duration_ms": 191589,
       "name": "DESPERATE BREAKFAST",
       "url": "https://open.spotify.com/track/0dWxRisAsPcoN1DOWj4hRR"
+    },
+    {
+      "album": {
+        "name": "Detonate",
+        "url": "https://open.spotify.com/album/3CAzERke4TJBatxOPrq99P"
+      },
+      "artists": [
+        {
+          "name": "The Casualties",
+          "url": "https://open.spotify.com/artist/5uMNhVG30JzeZ5xtPb1tqR"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85408,
+      "name": "Detonate",
+      "url": "https://open.spotify.com/track/1iOmwmv21Mh9jLb46F9nxf"
     },
     {
       "album": {
@@ -5755,6 +5791,24 @@
     },
     {
       "album": {
+        "name": "Last Breath",
+        "url": "https://open.spotify.com/album/1ABI2KGtoAW8aiJZ8KZyap"
+      },
+      "artists": [
+        {
+          "name": "Upchuck",
+          "url": "https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110758,
+      "name": "Last Breath",
+      "url": "https://open.spotify.com/track/7xcWsqQONJZtcOdduYsdko"
+    },
+    {
+      "album": {
         "name": "last cadence",
         "url": "https://open.spotify.com/album/7cwfws8SSBgQc7AGOtys3I"
       },
@@ -5936,7 +5990,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 161146,
       "name": "lil xan goes to washington",
       "url": "https://open.spotify.com/track/7DtlJDyMftHExSDlUdluuo"
@@ -6972,7 +7026,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 166414,
       "name": "New Case",
       "url": "https://open.spotify.com/track/5LF2zTvtSPdm6Ffa2IuXUf"
@@ -7266,6 +7320,24 @@
       "duration_ms": 199645,
       "name": "No One Was Driving The Car",
       "url": "https://open.spotify.com/track/4uRiAKVlF3WDlE8nCLGIlg"
+    },
+    {
+      "album": {
+        "name": "Nobody's Heroes",
+        "url": "https://open.spotify.com/album/6RXmJuQbcIgD2dLSKqtPB7"
+      },
+      "artists": [
+        {
+          "name": "The Menzingers",
+          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219715,
+      "name": "Nobody's Heroes",
+      "url": "https://open.spotify.com/track/3OEImZroksYhkQYVV6b8GE"
     },
     {
       "album": {
@@ -8438,7 +8510,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 204704,
       "name": "Salsa Verde",
       "url": "https://open.spotify.com/track/3YfT1BLLWJ1Jjv8VB4ge6l"
@@ -8604,7 +8676,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 133344,
       "name": "Semi-Detached Furnished Home",
       "url": "https://open.spotify.com/track/426Pcd366bBkCCUAlJMgnP"
@@ -9375,6 +9447,24 @@
     },
     {
       "album": {
+        "name": "Still Suffer",
+        "url": "https://open.spotify.com/album/0CF9wC1tCIb89Z63FOZSaG"
+      },
+      "artists": [
+        {
+          "name": "Terror",
+          "url": "https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144546,
+      "name": "Still Suffer",
+      "url": "https://open.spotify.com/track/3LmmBjYGnrWIaHpRyGauAG"
+    },
+    {
+      "album": {
         "name": "stone cold summer",
         "url": "https://open.spotify.com/album/3fQgWMLRBqYqGgB1mhSAmi"
       },
@@ -9916,7 +10006,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 134224,
       "name": "THE FIRST TEST",
       "url": "https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs"
@@ -10018,6 +10108,24 @@
       "duration_ms": 370939,
       "name": "The Last Drag",
       "url": "https://open.spotify.com/track/6YgLfZRRyZ22lYuEMg5rC7"
+    },
+    {
+      "album": {
+        "name": "The Outlaw Star",
+        "url": "https://open.spotify.com/album/2ypUjJxlG4VJfNpI482ne8"
+      },
+      "artists": [
+        {
+          "name": "Free Throw",
+          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155393,
+      "name": "The Outlaw Star",
+      "url": "https://open.spotify.com/track/56xmpRMOJ2x2QgOE5tGo6u"
     },
     {
       "album": {

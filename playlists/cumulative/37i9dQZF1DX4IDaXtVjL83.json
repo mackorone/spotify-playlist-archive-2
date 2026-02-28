@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: Tame Impala, JENNIE)",
+  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: aespa & \nAnderson .Paak)",
   "name": "K-Pop X-Overs",
   "tracks": [
     {
@@ -394,7 +394,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 151864,
       "name": "Amigos (with Becky G)",
       "url": "https://open.spotify.com/track/60DPrTJRHzpGPSJXLiSdDX"
@@ -1713,6 +1713,28 @@
     },
     {
       "album": {
+        "name": "EMOTIONS",
+        "url": "https://open.spotify.com/album/3qNHVdG5XAa63qdiLm6LzR"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        },
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "EMOTIONS",
+      "url": "https://open.spotify.com/track/5xG8q1HN3zJFVml6lttUbK"
+    },
+    {
+      "album": {
         "name": "Era with NAYEON (TWICE)",
         "url": "https://open.spotify.com/album/4oRP4R749QNBtxOob5lylI"
       },
@@ -2746,6 +2768,28 @@
       "duration_ms": 103111,
       "name": "keroppi",
       "url": "https://open.spotify.com/track/0mwa3xkGBZO5i4L88J8NyK"
+    },
+    {
+      "album": {
+        "name": "Keychain (FROM THE FILM K-POPS!)",
+        "url": "https://open.spotify.com/album/58x92u1JINTa5K7lTzfU02"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170786,
+      "name": "Keychain - FROM THE FILM K-POPS!",
+      "url": "https://open.spotify.com/track/3Q3WZ7sJLoIZQKY7hWFyQu"
     },
     {
       "album": {
@@ -5546,7 +5590,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 148418,
       "name": "YW",
       "url": "https://open.spotify.com/track/2TaoYfJcOMXsiDZPI9FPwA"

@@ -4,7 +4,7 @@
 
 > Tu táta tu tatá..\. el beat funk de Brasil para el mundo\. Cover: MC L da Vinte, MC Gury, Anitta, Neton Vega
 
-244 songs - 10 hr 44 min
+245 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Quédate](https://open.spotify.com/track/31bfC9yt2DBhdi3q9tZ2Vj) | [Claudy\-O](https://open.spotify.com/artist/5ClLwuv0gGLjZVFGwuokKn), [EL PK2R](https://open.spotify.com/artist/0Rv7QO2XbD6fPubp1HA5yH), [Hank R.](https://open.spotify.com/artist/5sVqeMM8axrDtjMZUZbk5B) | [Quédate](https://open.spotify.com/album/3Q18pGIIoG1FGfpLF3Stue) | 2:32 | 2025-05-16 | 2025-06-14 |
 | [Rara Vez](https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [Rara Vez](https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF) | 2:08 | 2023-11-29 |  |
 | [Recreo](https://open.spotify.com/track/2mSUkuDPzK8XVRA3cyRBnu) | [MACO](https://open.spotify.com/artist/0XerM4yoGja0adi5ohB8Lm) | [Recreo](https://open.spotify.com/album/3ru5vyOdcoxVeTxVxxDpuw) | 3:17 | 2024-10-25 | 2025-02-01 |
+| [Revuelve las horas \#B23](https://open.spotify.com/track/0R88NrCqEnP6WbkiQzWwgT) | [Spataro](https://open.spotify.com/artist/6S3ZC04iJ8ad9wLSIyaUp5), [MACO](https://open.spotify.com/artist/0XerM4yoGja0adi5ohB8Lm), [Santi Spataro](https://open.spotify.com/artist/5XbRiRF5wsSHyMg7XfieZR), [El Negri](https://open.spotify.com/artist/6LkXBVwSbeaRX4vloGSBz8) | [Revuelve las horas \#B23](https://open.spotify.com/album/5JjclzXFIpfwKX5YB4dTqT) | 3:33 | 2026-02-27 |  |
 | [Romantique](https://open.spotify.com/track/6OB5LW24nU5Jdjj1FuOuQj) | [St\-Prince](https://open.spotify.com/artist/4l9XlDeGxPJgWnF7OoEpgC) | [Romantique & Propaganda](https://open.spotify.com/album/52NucKNQk0IF5OPwVbLZSJ) | 2:30 | 2024-04-26 | 2024-06-01 |
 | [rosa](https://open.spotify.com/track/6zC0YD7pqW2mxaPRVmZUsV) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [DJ SAZE](https://open.spotify.com/artist/2HrKTpCwAnIHz39mXoaNot) | [rosa](https://open.spotify.com/album/14mOjMFqyAMRK0ra94MLEt) | 1:50 | 2024-10-25 | 2025-04-12 |
 | [Saia Mini](https://open.spotify.com/track/383AaDYkagb6VGEdjYwFQ0) | [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3), [Scarp](https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei), [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [Saia Mini](https://open.spotify.com/album/7HsoEEOmV8xHsjyJ5sA1a9) | 2:47 | 2025-01-31 | 2025-02-22 |

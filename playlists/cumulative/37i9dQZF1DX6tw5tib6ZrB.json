@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-19",
-  "description": "Monster Hiphop anthems to unlock your day. Tracks from Nasty C, Denzel Curry, NAV and more",
+  "description": "Monster Hiphop anthems to unlock your day. Tracks from Swae Lee, Rick Ross, Ndotz and more",
   "name": "JumpOff",
   "tracks": [
     {
@@ -244,6 +244,36 @@
       "duration_ms": 182325,
       "name": "54321",
       "url": "https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5"
+    },
+    {
+      "album": {
+        "name": "6WA",
+        "url": "https://open.spotify.com/album/23YB6arrlcMYHpeMT72TaO"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
+        },
+        {
+          "name": "MurdaGang PB",
+          "url": "https://open.spotify.com/artist/5vdwkO2Let6z32D2Oa9MEr"
+        },
+        {
+          "name": "Yung Hood",
+          "url": "https://open.spotify.com/artist/3OTNDa1tTW4HSiGfxZuJkI"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128573,
+      "name": "6WA",
+      "url": "https://open.spotify.com/track/6fODAgyTJdN7ATeJOP81dj"
     },
     {
       "album": {
@@ -598,7 +628,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 191168,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/47y8h6yklO7E9GWpGLJ3OG"
@@ -624,6 +654,28 @@
       "duration_ms": 207835,
       "name": "Aye (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/2Hc1LaV6bzFil3dE71eORA"
+    },
+    {
+      "album": {
+        "name": "B.B.B.",
+        "url": "https://open.spotify.com/album/3aS5keGWpo2QNDIGnL2Spd"
+      },
+      "artists": [
+        {
+          "name": "JUVENILE",
+          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140613,
+      "name": "B.B.B.",
+      "url": "https://open.spotify.com/track/2Vmb54sq94SOhDobcf4gxp"
     },
     {
       "album": {
@@ -2961,6 +3013,28 @@
     },
     {
       "album": {
+        "name": "Enemies",
+        "url": "https://open.spotify.com/album/0AnyKXm0HB8OhBXqkJNHeF"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181670,
+      "name": "Enemies",
+      "url": "https://open.spotify.com/track/4KYf8TBVU4QHZlSnVOn7u8"
+    },
+    {
+      "album": {
         "name": "Enough (Miami)",
         "url": "https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY"
       },
@@ -3178,7 +3252,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 319213,
       "name": "FDO",
       "url": "https://open.spotify.com/track/5YbDA37CN0YcgZXF6L2cBX"
@@ -3306,6 +3380,24 @@
       "duration_ms": 247444,
       "name": "First Person Shooter (feat. J. Cole)",
       "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
+    },
+    {
+      "album": {
+        "name": "FLAMMABLE",
+        "url": "https://open.spotify.com/album/5FS2IqrUicInbFJOS4bAHH"
+      },
+      "artists": [
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197551,
+      "name": "FLAMMABLE",
+      "url": "https://open.spotify.com/track/1d5sIc2QcHgSMYvGcnsLhe"
     },
     {
       "album": {
@@ -4114,7 +4206,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 137733,
       "name": "Gyatt",
       "url": "https://open.spotify.com/track/6cpRVsxxwB04HEnOGddGCc"
@@ -4322,7 +4414,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 249941,
       "name": "Hello Revenge",
       "url": "https://open.spotify.com/track/6ewqXnUFLxYfuUJPiWS2Bj"
@@ -8876,7 +8968,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 202426,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO"
@@ -9608,7 +9700,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 142506,
       "name": "Supreme Sanders",
       "url": "https://open.spotify.com/track/53agV5ZAIHGyvYBgTeChx9"
@@ -10938,6 +11030,28 @@
       "duration_ms": 200254,
       "name": "Wasp",
       "url": "https://open.spotify.com/track/79fMIVXRCjVDm8iazUhSoP"
+    },
+    {
+      "album": {
+        "name": "Watch Me Now! (with NLE Choppa)",
+        "url": "https://open.spotify.com/album/2WeVQRmOQpmfSRt4MlpeK4"
+      },
+      "artists": [
+        {
+          "name": "Ndotz",
+          "url": "https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Watch Me Now! (with NLE Choppa)",
+      "url": "https://open.spotify.com/track/1hoEI997iy6tutEfF5a9M6"
     },
     {
       "album": {

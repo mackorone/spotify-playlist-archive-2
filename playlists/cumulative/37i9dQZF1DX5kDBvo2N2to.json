@@ -2329,6 +2329,24 @@
     },
     {
       "album": {
+        "name": "Tryna make it in LA (Deluxe)",
+        "url": "https://open.spotify.com/album/6ELnL9vR5ufPGdqZIy67Zh"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217266,
+      "name": "Ett \u00e5r - Bonus Track",
+      "url": "https://open.spotify.com/track/4OJOZJLUnGun7f2qeIc7h7"
+    },
+    {
+      "album": {
         "name": "even if my heart breaks",
         "url": "https://open.spotify.com/album/4OFGAubLuL2b3tPQW9dG7J"
       },
@@ -6187,6 +6205,24 @@
     },
     {
       "album": {
+        "name": "Nightingale Lane.",
+        "url": "https://open.spotify.com/album/22FLublraJkicHyrK2egu0"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302623,
+      "name": "Nightingale Lane.",
+      "url": "https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF"
+    },
+    {
+      "album": {
         "name": "No Fun",
         "url": "https://open.spotify.com/album/0EsVZT9jNfgQNkKcAXqNYb"
       },
@@ -6926,7 +6962,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 123886,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/6K54qTmlXf6MW1YQvZDFVA"
@@ -8534,24 +8570,6 @@
       "duration_ms": 214179,
       "name": "Ton\u00e5rsdr\u00f6m",
       "url": "https://open.spotify.com/track/5CbHWID4ldov0V3sEjvqSU"
-    },
-    {
-      "album": {
-        "name": "Tryna make it in LA (Deluxe)",
-        "url": "https://open.spotify.com/album/6ELnL9vR5ufPGdqZIy67Zh"
-      },
-      "artists": [
-        {
-          "name": "Kerstin Ljungstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
-        }
-      ],
-      "date_added": "2026-02-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 12",
-      "url": "https://open.spotify.com/track/4OJOZJLUnGun7f2qeIc7h7"
     },
     {
       "album": {

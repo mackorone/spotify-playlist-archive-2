@@ -4,7 +4,7 @@
 
 > a playlist without boundaries 🧺 cover: skye newman
 
-861 songs - 1 day 19 hr 46 min
+862 songs - 1 day 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 | 2025-08-14 | 2025-11-14 |
 | [2000SEVEN](https://open.spotify.com/track/7fxGuWIxbIE2jt2Vo3AEGy) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [2000SEVEN](https://open.spotify.com/album/2hwa7JPhA6ZFPBKuLKIHD1) | 2:41 | 2024-07-11 | 2024-09-06 |
 | [2008](https://open.spotify.com/track/6P9k0dC9CP1g4ZlSzQn90M) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [2008](https://open.spotify.com/album/5KC7HD8Zt9kF088rA3SLl4) | 2:33 | 2024-09-05 | 2025-01-17 |
+| [2099](https://open.spotify.com/track/4ooICmT2zrfMprazExomIi) | [Sade Olutola](https://open.spotify.com/artist/3RnVqL6k23iwhe1uYh1JSm) | [Arrow Heart](https://open.spotify.com/album/6qS5D90JVQEZpBHccB577c) | 2:27 | 2026-02-27 |  |
 | [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 | 2025-01-24 | 2025-05-09 |
 | [23:42](https://open.spotify.com/track/0I1WEMYSU0dfENElriMamz) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/5pDnBe24XMck0UQnDGD8WL) | 3:01 | 2025-04-03 | 2025-05-09 |
 | [2DK](https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [2DK](https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv) | 3:16 | 2024-11-08 | 2024-12-06 |
@@ -289,7 +290,7 @@
 | [Getting It Together](https://open.spotify.com/track/64VoiWNhq0HEoPSTyNHm1G) | [chameleon](https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK) | [Getting It Together](https://open.spotify.com/album/5oeEaZmmvDNMBTOvG7k79F) | 3:56 | 2025-08-01 | 2025-09-19 |
 | [GHOST \- y u flexin'](https://open.spotify.com/track/6gpEZhq4aTT8EG407wU7Lr) | [YAII](https://open.spotify.com/artist/7MvPAMS30HN4K095Vm4N30), [PLUTO](https://open.spotify.com/artist/5fJfVzNyYHCgtMSDolHQT0) | [GHOST \(y u flexin'\)](https://open.spotify.com/album/2Ex9zwFWAdtohYRrpqnn9u) | 2:42 | 2026-02-20 |  |
 | [giovana](https://open.spotify.com/track/24euHPmRZBVUSl2BtAbTW2) | [kin](https://open.spotify.com/artist/19sYKBPHKVkIz8bHKOPOHO), [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [giovana](https://open.spotify.com/album/0CeXo9JKyxn1UztyoWk7dv) | 2:46 | 2025-12-12 |  |
-| [GIRLLIKEU](https://open.spotify.com/track/72QiRRe7SdZMwrGuqCXQ0E) | [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h), [aria.](https://open.spotify.com/artist/4s0zZ7VotaEphcKIdUDnX8), [karinovvaa](https://open.spotify.com/artist/6Mc3hAT0TdyWCvvPjzaa5n) | [GIRLLIKEU](https://open.spotify.com/album/3YNoW85W3nuwZr9ZQIwrYk) | 3:08 | 2026-01-09 |  |
+| [GIRLLIKEU](https://open.spotify.com/track/72QiRRe7SdZMwrGuqCXQ0E) | [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h), [aria.](https://open.spotify.com/artist/4s0zZ7VotaEphcKIdUDnX8), [karinovvaa](https://open.spotify.com/artist/6Mc3hAT0TdyWCvvPjzaa5n) | [GIRLLIKEU](https://open.spotify.com/album/3YNoW85W3nuwZr9ZQIwrYk) | 3:08 | 2026-01-09 | 2026-02-28 |
 | [Girls](https://open.spotify.com/track/71YIkTYcNzEfQKq4E3CImH) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Girls](https://open.spotify.com/album/6dXVpOLGM4QJPLCPiY3QLG) | 3:13 | 2025-02-14 | 2025-05-16 |
 | [girls just wanna have fun](https://open.spotify.com/track/2E6akA4GVkpu5jDDzbYH7d) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [girls just wanna have fun](https://open.spotify.com/album/4ggpeldcot5lj39pHKZUrh) | 2:31 | 2024-07-11 | 2024-09-06 |
 | [Give It Up](https://open.spotify.com/track/1KNNzjKUcp30V52dcD1jLW) | [Nia Chennai](https://open.spotify.com/artist/0iHJWiuW0rtMwtlLr0sPtR), [Ella More](https://open.spotify.com/artist/727Q7I2a8uB63eFKd4N38p) | [Give It Up](https://open.spotify.com/album/1FNgqA9u8ZQ10rjZ7aRFP5) | 3:16 | 2025-02-07 | 2025-05-09 |

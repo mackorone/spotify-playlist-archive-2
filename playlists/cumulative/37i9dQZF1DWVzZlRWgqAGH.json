@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "WILLOW and music for your soul.",
+  "description": "RAYE and music for your soul.",
   "name": "BUTTER",
   "tracks": [
     {
@@ -3756,7 +3756,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 237210,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn"
@@ -7076,7 +7076,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 261071,
       "name": "Culpable",
       "url": "https://open.spotify.com/track/1J1TG8a9E5s3QxQhboX8Lc"
@@ -8420,6 +8420,32 @@
       "duration_ms": 180000,
       "name": "Doubt Nothing",
       "url": "https://open.spotify.com/track/4rzAv7ehC7iSCV1JpZCVbr"
+    },
+    {
+      "album": {
+        "name": "The Pleasure Is Yours",
+        "url": "https://open.spotify.com/album/2PW3hhgsQRGgJbPIhHCYrS"
+      },
+      "artists": [
+        {
+          "name": "GENA",
+          "url": "https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE"
+        },
+        {
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165081,
+      "name": "Douwannabwitastar!?",
+      "url": "https://open.spotify.com/track/3de4w5RMotY7NBXG7vtP4O"
     },
     {
       "album": {
@@ -13677,6 +13703,32 @@
     },
     {
       "album": {
+        "name": "Helicopters",
+        "url": "https://open.spotify.com/album/53IVWLHnBwJ6KwpOAc5NRX"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        },
+        {
+          "name": "War Child Records",
+          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238086,
+      "name": "Helicopters",
+      "url": "https://open.spotify.com/track/2ofMsovltZ6Nn6wQz1ZphY"
+    },
+    {
+      "album": {
         "name": "Helio",
         "url": "https://open.spotify.com/album/4QO6U9zpG0DHeaKZVaJW9D"
       },
@@ -17332,7 +17384,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 168510,
       "name": "Lead It Up",
       "url": "https://open.spotify.com/track/4vcdHDZWVNRCOrEq1LlvsU"
@@ -21436,6 +21488,24 @@
       "duration_ms": 193773,
       "name": "Night After Night",
       "url": "https://open.spotify.com/track/2U7vXey8ZBg5DY4L5Wff0G"
+    },
+    {
+      "album": {
+        "name": "Nightingale Lane.",
+        "url": "https://open.spotify.com/album/22FLublraJkicHyrK2egu0"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302623,
+      "name": "Nightingale Lane.",
+      "url": "https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF"
     },
     {
       "album": {

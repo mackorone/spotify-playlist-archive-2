@@ -4,7 +4,7 @@
 
 > Something cute for baddies doing their hair and make\-up.
 
-226 songs - 12 hr 35 min
+227 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Afterbody](https://open.spotify.com/track/688F4WEXlJBlNYPMOpLmAx) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [SELLOUT II](https://open.spotify.com/album/1OAJ1g8pCfiJEPQ5h8V8cI) | 3:08 | 2025-08-29 |  |
 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 | 2023-12-01 | 2025-12-31 |
 | [All At Once](https://open.spotify.com/track/3Jd3aTezMFWeuDcUkANdQQ) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [F1 The Album \(Cinematic Edition\)](https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw) | 2:34 | 2025-06-30 | 2025-07-19 |
-| [All My Friends \(feat\. Tinashe & Chance the Rapper\)](https://open.spotify.com/track/6TaqooOXAEcijL6G1AWS2K) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [All My Friends \(feat\. Tinashe & Chance the Rapper\)](https://open.spotify.com/album/5cOhR878H8hC3UsxYq5Xyv) | 3:49 | 2024-04-15 |  |
+| [All My Friends \(feat\. Tinashe & Chance the Rapper\)](https://open.spotify.com/track/6TaqooOXAEcijL6G1AWS2K) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [All My Friends \(feat\. Tinashe & Chance the Rapper\)](https://open.spotify.com/album/5cOhR878H8hC3UsxYq5Xyv) | 3:49 | 2024-04-15 | 2026-02-28 |
 | [ALL MY LIFE](https://open.spotify.com/track/77OJdtx1NDBybpWWlc4p7c) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [ECLESIA](https://open.spotify.com/album/50nWidWTDAQOFrviZu12XH) | 2:32 | 2026-02-20 |  |
 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 | 2023-09-29 | 2023-10-17 |
 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 | 2023-08-10 | 2025-08-28 |
@@ -131,6 +131,7 @@
 | [Manchild](https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:33 | 2025-10-24 |  |
 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 | 2024-10-11 |  |
 | [Me & U](https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT) | [Cassie](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) | [Cassie \(U.S\. Version\)](https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu) | 3:12 | 2023-08-10 | 2025-12-31 |
+| [Me and my](https://open.spotify.com/track/0yV7V1mQ3yQZL1Gp3jNggW) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/7DO7f71Dkm98AKDIgBaaSx) | 2:52 | 2026-02-27 |  |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-12-27 |  |
 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 | 2025-07-18 |  |
 | [Monalisa](https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Monalisa](https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll) | 3:32 | 2023-08-10 | 2024-05-03 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Liran' Roll. The essential tracks, all in one playlist.",
-  "num_followers": 40822,
+  "num_followers": 40829,
   "original_name": "This Is Liran' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAACF/xOcFqn7G6Q2fb8Cm/EE",
+  "snapshot_id": "aZ+NAAAAAADWc5r7Pfn1WMd9Kk1qavnE",
   "tracks": [
     {
       "added_at": null,
@@ -443,18 +443,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "D.F.",
-        "url": "https://open.spotify.com/album/6bsZtXHmanZNWEa0YdgMTh"
+        "name": "No Puedo M\u00e1s",
+        "url": "https://open.spotify.com/album/5uOcNRe7Mmxyh2MbPhoV3Q"
       },
       "artists": [
+        {
+          "name": "Juan Hern\u00e1ndez y Su Banda de Blues",
+          "url": "https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ"
+        },
         {
           "name": "Liran' Roll",
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 279973,
-      "name": "Piensa en Mi",
-      "url": "https://open.spotify.com/track/2982dNBIFDZkjdjLhnYcOH"
+      "duration_ms": 207000,
+      "name": "No Puedo M\u00e1s",
+      "url": "https://open.spotify.com/track/27lDJbfLUkTxVAMqQaVT2a"
     },
     {
       "added_at": null,
@@ -491,22 +495,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Puedo M\u00e1s",
-        "url": "https://open.spotify.com/album/5uOcNRe7Mmxyh2MbPhoV3Q"
+        "name": "D.F.",
+        "url": "https://open.spotify.com/album/6bsZtXHmanZNWEa0YdgMTh"
       },
       "artists": [
-        {
-          "name": "Juan Hern\u00e1ndez y Su Banda de Blues",
-          "url": "https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ"
-        },
         {
           "name": "Liran' Roll",
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 207000,
-      "name": "No Puedo M\u00e1s",
-      "url": "https://open.spotify.com/track/27lDJbfLUkTxVAMqQaVT2a"
+      "duration_ms": 279973,
+      "name": "Piensa en Mi",
+      "url": "https://open.spotify.com/track/2982dNBIFDZkjdjLhnYcOH"
     },
     {
       "added_at": null,

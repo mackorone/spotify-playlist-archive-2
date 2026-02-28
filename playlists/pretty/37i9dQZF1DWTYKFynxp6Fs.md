@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYKFynxp6Fs.md) - [plain]
 
 ### [Trending Now Malayalam](https://open.spotify.com/playlist/37i9dQZF1DWTYKFynxp6Fs)
 
-> Every song that's Trending NOW from Malayalam! <br/>Cover: Sarvam Maya
+> Every song that's Trending NOW from Malayalam! <br/>Cover: Pallichattambi
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,916 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,464 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ZILL](https://open.spotify.com/track/12wlJpuAbgMv0OaYmY3r5x) | [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [Shafi Kollam](https://open.spotify.com/artist/0udTsqVsPijUXCJgdVKYWp), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW) | [ZILL](https://open.spotify.com/album/25D2wFqxvv4SupOGBIxXCM) | 4:07 |
-| 2 | [KALYANI](https://open.spotify.com/track/2Uyj6K6mSaFTZsPvov415i) | [ARJN](https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi), [KDS](https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7), [FIFTY4](https://open.spotify.com/artist/1NApv6DzDP19uLuxJ0CuuP), [RONN](https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW) | [KALYANI](https://open.spotify.com/album/5MwY2xvTLLDNXi3qiX0GhF) | 3:54 |
+| 2 | [CHEMBARATHI](https://open.spotify.com/track/6PYDvt362YQfghK6cfSpi8) | [Lil PAYYAN](https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8) | [CHEMBARATHI](https://open.spotify.com/album/7b8TzluGoR96DLTSgpbWGA) | 3:13 |
 | 3 | [Kaattuchembakam \(From "Pallichattambi"\)](https://open.spotify.com/track/2ZjwnRNaEEwQaJaIH2h6KY) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Aavani Malhar](https://open.spotify.com/artist/2UhFPsbFyTC38N0EAv7cRG), [Kaithapram](https://open.spotify.com/artist/755XJ9EAGeezpOuX87TlbF) | [Kaattuchembakam \(From "Pallichattambi"\)](https://open.spotify.com/album/17ibcchQINeDcTqxlUMvwx) | 4:36 |
-| 4 | [CHEMBARATHI](https://open.spotify.com/track/6PYDvt362YQfghK6cfSpi8) | [Lil PAYYAN](https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8) | [CHEMBARATHI](https://open.spotify.com/album/7b8TzluGoR96DLTSgpbWGA) | 3:13 |
+| 4 | [KALYANI](https://open.spotify.com/track/2Uyj6K6mSaFTZsPvov415i) | [ARJN](https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi), [KDS](https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7), [FIFTY4](https://open.spotify.com/artist/1NApv6DzDP19uLuxJ0CuuP), [RONN](https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW) | [KALYANI](https://open.spotify.com/album/5MwY2xvTLLDNXi3qiX0GhF) | 3:54 |
 | 5 | [Vellarathaaram \(From "Sarvam Maya"\)](https://open.spotify.com/track/2LzLaaGYFBzg7esTGqmpDR) | [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr), [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src), [Manu Manjith](https://open.spotify.com/artist/2Ac7n5L5b7LMXonUHZRrWy) | [Vellarathaaram \(From "Sarvam Maya"\)](https://open.spotify.com/album/76xhNcZY5zLItrivJ5Bz3Z) | 4:39 |
 | 6 | [Ennakaruppi](https://open.spotify.com/track/02bvAijBB6U4VeVF1mLEcI) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf), [gouthammm](https://open.spotify.com/artist/43Vt9P8hBXvNLz23OGzYoU), [nichesluck](https://open.spotify.com/artist/5o0U7xMRW1IxdOuwJ5z8ln) | [Ennakaruppi](https://open.spotify.com/album/1hhc40RRyJBxaU71OLcvI4) | 2:42 |
 | 7 | [Cringe Paattu](https://open.spotify.com/track/4bcOWgsod1G0ZBwaxty2sk) | [Eechuu](https://open.spotify.com/artist/4CB5jLRM1EUNK2y6l7kixx), [E3Y](https://open.spotify.com/artist/1kfF1kkbyruQ6Abd540tNL), [Suhas](https://open.spotify.com/artist/4p2Sm00Hqt9ICdLO7ASkcO) | [Cringe Paattu](https://open.spotify.com/album/7bAb1KTkiuKFYRgvFeNBxY) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYKFynxp6Fs.md) - [plain]
 | 49 | [Vatteppam \(From "Mandakini"\)](https://open.spotify.com/track/2mFXx4D49RdesixfLSsoU0) | [Bibin Ashok](https://open.spotify.com/artist/2r4835RasDrA3mvrZqYv1S), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Vaisakh Sugunan](https://open.spotify.com/artist/3MEt4mrI4ZktNe7YxaQMVx) | [Vatteppam \(From "Mandakini"\)](https://open.spotify.com/album/37fD3iPdRh7XvwHbrjXV2d) | 3:12 |
 | 50 | [Kondal Vedan Song \(From "Kondal"\)](https://open.spotify.com/track/0FhmVYnbnWocY6mOgjeMlz) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Kondal Vedan Song \(From "Kondal"\)](https://open.spotify.com/album/2QofMPxSLCWnxlKpDWVOeV) | 4:07 |
 
-Snapshot ID: `AAAAAPHTwIUyBi/sDlPZjSRYWqjNaMAE`
+Snapshot ID: `AAAAAIBHkGPonfAKsB6kGGLoRIGe6avk`

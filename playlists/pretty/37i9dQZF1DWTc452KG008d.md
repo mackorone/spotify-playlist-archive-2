@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTc452KG008d.md) - [plain]
 
 > Because a quiet Sunday every now and again doesn't hurt anybody.
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,218 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,210 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTc452KG008d.md) - [plain]
 | 28 | [exile \(feat\. Bon Iver\)](https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:45 |
 | 29 | [Count on Me](https://open.spotify.com/track/7l1qvxWjxcKpB9PCtBuTbU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:17 |
 | 30 | [Nan's The Word](https://open.spotify.com/track/1TLmoVnSVFvnaJmb8zeiIt) | [Bumpy](https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS) | [Kanana](https://open.spotify.com/album/5N6Gy8rBSiW4AKVKizyLAc) | 3:49 |
-| 31 | [Thank You](https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4) | 3:38 |
-| 32 | [Bleeding Love](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 4:22 |
+| 31 | [Bleeding Love](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 4:22 |
+| 32 | [Thank You](https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4) | 3:38 |
 | 33 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 |
 | 34 | [Orange Juice](https://open.spotify.com/track/07UFnnK3uPIuKv5Rs9TmXl) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:57 |
 | 35 | [Blackbird \- Remastered 2009](https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 2:18 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTc452KG008d.md) - [plain]
 | 58 | [The A Team](https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7) | 4:18 |
 | 59 | [The Hardest Part \(feat\. Leon Bridges\)](https://open.spotify.com/track/1fXALB3kb14ngMRGNdV5wD) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [The Hardest Part \(feat\. Leon Bridges\)](https://open.spotify.com/album/74vEZ35YylZD5SAxjLDsZz) | 2:56 |
 | 60 | [Here's Your Perfect](https://open.spotify.com/track/2aTKrdenCq5qBOoJPFdn4P) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect](https://open.spotify.com/album/6yNuKzr4GNs1c7Kpdf7c5w) | 2:38 |
-| 61 | [Home](https://open.spotify.com/track/18V1UiYRvWYwn01CRDbbuR) | [Edith Whiskers](https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN) | [Stop Stealing The Covers!](https://open.spotify.com/album/7mCxkaPLj0IGKmbBuLDYah) | 3:17 |
-| 62 | [Love Of My Life \- Remastered 2011](https://open.spotify.com/track/4YJUTdZ0Pgl0ZeNyHYXeLd) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB) | 3:37 |
+| 61 | [Love Of My Life \- Remastered 2011](https://open.spotify.com/track/4YJUTdZ0Pgl0ZeNyHYXeLd) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB) | 3:37 |
+| 62 | [Home](https://open.spotify.com/track/18V1UiYRvWYwn01CRDbbuR) | [Edith Whiskers](https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN) | [Stop Stealing The Covers!](https://open.spotify.com/album/7mCxkaPLj0IGKmbBuLDYah) | 3:17 |
 | 63 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 |
 | 64 | [Never Going Back Again \- 2004 Remaster](https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 2:14 |
 | 65 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 |

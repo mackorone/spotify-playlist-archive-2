@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTevReS5evR.md) - [plain]
 
 > Lagu\-lagu untuk kamu dan teman\-temanmu yang paling bucin
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,894 likes - 91 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,877 likes - 91 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

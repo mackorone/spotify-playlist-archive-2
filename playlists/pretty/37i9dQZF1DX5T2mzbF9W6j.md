@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,445 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,524 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 30 | [Kiedy umrę kochanie \(H\. Poświatowska\)](https://open.spotify.com/track/2PB5GjIi4EC3XYsanvpysO) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE), [Kasia Kowalska](https://open.spotify.com/artist/6VKh8iOViFBI7R8Bb9AilZ) | [Dwoje ludzieńków](https://open.spotify.com/album/6LKxswBVj57QxwDfDSl22s) | 3:12 |
 | 31 | [Co, jeśli?](https://open.spotify.com/track/0plgXTtOu4RJDf4nwzVPqr) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Co, jeśli?](https://open.spotify.com/album/6eIoeAsyTUWzb7QGsN0yEU) | 2:33 |
 | 32 | [Błękit](https://open.spotify.com/track/2MCf7Lv6OKjbozB5U1YdNC) | [Roxie](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV) | [Błękit](https://open.spotify.com/album/6AwIsJm2zgnyojCJXvQ1xM) | 2:28 |
-| 33 | [ZŁY](https://open.spotify.com/track/5ryN2m8kIwAofh31Hafej6) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq) | [lekko](https://open.spotify.com/album/6JsrQGjRiVxAFW9p5WMHYQ) | 2:38 |
-| 34 | [Decyzje](https://open.spotify.com/track/4LMQdvzEt5z4D14Rr2frwH) | [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Decyzje](https://open.spotify.com/album/6uYOJ4jwogpsfI4q80MS65) | 3:13 |
+| 33 | [Decyzje](https://open.spotify.com/track/4LMQdvzEt5z4D14Rr2frwH) | [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Decyzje](https://open.spotify.com/album/6uYOJ4jwogpsfI4q80MS65) | 3:13 |
+| 34 | [ZŁY](https://open.spotify.com/track/5ryN2m8kIwAofh31Hafej6) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq) | [lekko](https://open.spotify.com/album/6JsrQGjRiVxAFW9p5WMHYQ) | 2:38 |
 | 35 | [Pali się niebo](https://open.spotify.com/track/4tIcfOdcIaZAn3KnkJkXyh) | [Dawid Kwiatkowski](https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC) | [Pali się niebo](https://open.spotify.com/album/3Peq37g9q2t8aBEE5aAWvl) | 2:36 |
 | 36 | [5am](https://open.spotify.com/track/0MmNX3D3nEUYmbP58vhuG2) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [5am](https://open.spotify.com/album/4bMW89opKwxPi1j09k4ipM) | 2:56 |
 | 37 | [słowa na K](https://open.spotify.com/track/62gdD6TgAKbZI2ARFrZf0K) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [słowa na K](https://open.spotify.com/album/4OpCie3wmUKVD0zL5ScA9D) | 2:37 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 54 | [Brightest Light](https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp) | [Marianna Kłos](https://open.spotify.com/artist/1LzuKwjwmNPQWitkdaqtUc) | [Brightest Light](https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h) | 3:00 |
 | 55 | [mario](https://open.spotify.com/track/6aqgWYvzUhw53ZyaiHQiR9) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [mario](https://open.spotify.com/album/0Nl6cjFMv3HsWbOjooWtID) | 2:45 |
 | 56 | [sticky rice](https://open.spotify.com/track/11pYSQjxJ57i6tsu1OIzOk) | [Fausti](https://open.spotify.com/artist/6A1ynRvP3mW9mlLkWcSnlx), [clearmind](https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq) | [sticky rice](https://open.spotify.com/album/7sfA7avZWjCLToSLhteWBF) | 3:07 |
-| 57 | [Hot!](https://open.spotify.com/track/3FEWfnYH4NG3iBsWySY3gh) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov), [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t) | [Hot!](https://open.spotify.com/album/45LEesLYqM29tkihh8Yyr0) | 2:45 |
-| 58 | [TOKSYNA](https://open.spotify.com/track/2eJnIhTFimR9GSXQIeXqRZ) | [Aron x Krux](https://open.spotify.com/artist/3bEHrOv4S7ITrX3PAt4HwP), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Bajorson](https://open.spotify.com/artist/3kLH6xiJVhBa6JOqS3x7RS) | [TOKSYNA](https://open.spotify.com/album/18b8YnPhpv0CDkFPLIR3sF) | 3:36 |
+| 57 | [TOKSYNA](https://open.spotify.com/track/2eJnIhTFimR9GSXQIeXqRZ) | [Aron x Krux](https://open.spotify.com/artist/3bEHrOv4S7ITrX3PAt4HwP), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Bajorson](https://open.spotify.com/artist/3kLH6xiJVhBa6JOqS3x7RS) | [TOKSYNA](https://open.spotify.com/album/18b8YnPhpv0CDkFPLIR3sF) | 3:36 |
+| 58 | [Hot!](https://open.spotify.com/track/3FEWfnYH4NG3iBsWySY3gh) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov), [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t) | [Hot!](https://open.spotify.com/album/45LEesLYqM29tkihh8Yyr0) | 2:45 |
 | 59 | [Wild Guess](https://open.spotify.com/track/3yEBtdO34T5kdnabqZJawn) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Wild Guess](https://open.spotify.com/album/1gfZZDAAhIEZInvGnmkdlU) | 2:46 |
-| 60 | [Więcej nas](https://open.spotify.com/track/0pN5F4nvvnB2ZYb9AhKMJ4) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh), [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM) | [Więcej nas](https://open.spotify.com/album/6f0unjJ3i3i2jCOoCvsIvx) | 3:01 |
+| 60 | [pociąg bez ostatniej stacji](https://open.spotify.com/track/5fSucf8xEDuZxMBMppdeUb) | [majtis](https://open.spotify.com/artist/0x85f5ZhAe1Oj4CTnWEPtv), [4Money](https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1) | [pociąg bez ostatniej stacji](https://open.spotify.com/album/4AAlpeTlY3hzbcQVmGms73) | 2:24 |
 
 Snapshot ID: `AAAAAI8Gfm8NTIOdLZeCVLbeqMth5dzI`

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-734 songs - 1 day 11 hr 46 min
+735 songs - 1 day 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,7 +319,8 @@
 | [Fala Comigo \- Ao Vivo](https://open.spotify.com/track/56F3ngwk3a42aLY0o5QgBF) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador \- The Legacy \(Ao Vivo\)](https://open.spotify.com/album/78YLa6QF2hX4A0QIX80QGy) | 2:20 | 2023-12-30 |  |
 | [Falam De Você](https://open.spotify.com/track/6wVKEdBxix2jHhTBm1Kfcy) | [Luis Henrique](https://open.spotify.com/artist/5CfW8emozSBydzCL49x92p) | [Falam De Você](https://open.spotify.com/album/5TAfPB7U5mt0QprYen9jRo) | 3:02 | 2025-05-31 |  |
 | [Faz comigo outra vez](https://open.spotify.com/track/1HqUmDKUZr8Sx52DQ2o1fG) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Faz comigo outra vez](https://open.spotify.com/album/2Px5d17f0CklkzBreKDg4O) | 3:06 | 2023-12-30 |  |
-| [Faz Moleque Virar Homem \- Ao Vivo](https://open.spotify.com/track/0IRKmeD8HyjNswqV1IdVNF) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV), [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [Revivem Sua História \(Ao Vivo Em Belo Horizonte\)](https://open.spotify.com/album/6tmXf43FBVDqp3bnoLzzrj) | 2:44 | 2023-12-30 |  |
+| [Faz Moleque Virar Homem \- Ao Vivo](https://open.spotify.com/track/0IRKmeD8HyjNswqV1IdVNF) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV), [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [Revivem Sua História \(Ao Vivo Em Belo Horizonte\)](https://open.spotify.com/album/6tmXf43FBVDqp3bnoLzzrj) | 2:44 | 2023-12-30 | 2026-02-28 |
+| [Faz Moleque Virar Homem \- Ao Vivo](https://open.spotify.com/track/6TuwHk8iof96a2isJan68O) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV), [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [Revivem Sua História \(Ao Vivo Em Belo Horizonte\)](https://open.spotify.com/album/3f1efz5CQ76r1LkShv8Tox) | 2:44 | 2026-02-27 |  |
 | [Faz Safado Sofrer](https://open.spotify.com/track/21PuXnW0CMOLZHJHkNM272) | [Luciano Duarte](https://open.spotify.com/artist/4kQ1qAS7QFHg0Obs2bYck4) | [Faz Safado Sofrer](https://open.spotify.com/album/0lprCMKCTGH0Lnhw06ebHq) | 2:29 | 2023-12-30 |  |
 | [Feijão Com Arroz](https://open.spotify.com/track/5UtTjMHkg8C5QS8DiPR4Nh) | [Andri & Hector](https://open.spotify.com/artist/6Z5H6o9sDFCMcAr43wcYRh) | [Feijão Com Arroz](https://open.spotify.com/album/6NjKnXgweIopj6rainiDlP) | 2:25 | 2023-12-30 |  |
 | [Fica Aqui](https://open.spotify.com/track/70REzfi8DiUDuu4BHafeoj) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Fica Aqui](https://open.spotify.com/album/27aY7RzA66XBHJopBSHDtx) | 3:22 | 2023-12-30 |  |

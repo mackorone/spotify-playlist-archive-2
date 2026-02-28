@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t2kBq.md) - [plain]
 
 > This is Bad Religion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,785 likes - 50 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,800 likes - 50 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t2kBq.md) - [plain]
 | 40 | [Kerosene](https://open.spotify.com/track/29UzZipBctdph1OIIGVzrS) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Recipe For Hate](https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l) | 2:41 |
 | 41 | [Chaos From Within](https://open.spotify.com/track/1N8K9up7uz8EuyEiOoy9pq) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Age Of Unreason](https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz) | 1:50 |
 | 42 | [Epiphany](https://open.spotify.com/track/7AXcgpdL2oJWnI1BCLLeWI) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Process Of Belief](https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI) | 3:59 |
-| 43 | [God Song](https://open.spotify.com/track/0EhzHcEryTCWHaL98TdzIA) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Against The Grain](https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97) | 1:37 |
-| 44 | [All There Is](https://open.spotify.com/track/5mC5BYYc2yoAm3vGvA5hml) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Empire Strikes First](https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE) | 2:57 |
+| 43 | [All There Is](https://open.spotify.com/track/5mC5BYYc2yoAm3vGvA5hml) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Empire Strikes First](https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE) | 2:57 |
+| 44 | [God Song](https://open.spotify.com/track/0EhzHcEryTCWHaL98TdzIA) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Against The Grain](https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97) | 1:37 |
 | 45 | [Fuck Armageddon...This Is Hell](https://open.spotify.com/track/2WUJDRIoViFs5RYclM6gT0) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [How Could Hell Be Any Worse? \(2005 Remaster\)](https://open.spotify.com/album/7G9tRlpSNYGMzAjcjpgIJP) | 2:48 |
 | 46 | [What Can You Do?](https://open.spotify.com/track/0q1riGCpISLw7zTGQLiuPG) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Suffer](https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo) | 2:44 |
-| 47 | [Turn On the Light](https://open.spotify.com/track/2aCuA3PDvmDrPCo1MIyJ1Q) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Against The Grain](https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97) | 1:24 |
-| 48 | [Do The Paranoid Style](https://open.spotify.com/track/2kT4Xbm7e82XVnuPcU0fu7) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Age Of Unreason](https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz) | 1:45 |
+| 47 | [Do The Paranoid Style](https://open.spotify.com/track/2kT4Xbm7e82XVnuPcU0fu7) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Age Of Unreason](https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz) | 1:45 |
+| 48 | [Turn On the Light](https://open.spotify.com/track/2aCuA3PDvmDrPCo1MIyJ1Q) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Against The Grain](https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97) | 1:24 |
 | 49 | [Atheist Peace](https://open.spotify.com/track/72VqIWmCDS423j8TglfMWK) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Empire Strikes First](https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE) | 1:57 |
 | 50 | [Along The Way](https://open.spotify.com/track/0jl2DpwuQ2ZDBsUI4blDhr) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [How Could Hell Be Any Worse? \(2005 Remaster\)](https://open.spotify.com/album/7G9tRlpSNYGMzAjcjpgIJP) | 1:35 |
 
-Snapshot ID: `aZ47gAAAAABftRdxOB8qcrb3bbhydkpu`
+Snapshot ID: `aZ+NAAAAAACGCBfClekzJyjntwdVEwNB`

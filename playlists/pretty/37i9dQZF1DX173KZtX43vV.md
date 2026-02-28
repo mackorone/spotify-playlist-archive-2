@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Sean Paul, Stalk Ashley
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,557 likes - 49 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,570 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 18 | [fido](https://open.spotify.com/track/2kPxU5oiS8LUCJsFRJIHgZ) | [deathtoricky](https://open.spotify.com/artist/2dj6hqelYanB2vqOgf1O4T) | [fido](https://open.spotify.com/album/52b2aX4ECiOTVn4zPPiOzj) | 2:13 |
 | 19 | [Reflections](https://open.spotify.com/track/6EiddSbc6b4quXfQvrVND1) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Reflections](https://open.spotify.com/album/6pM6v4BqKK85SuyZHwxHwM) | 3:34 |
 | 20 | [Lights Off](https://open.spotify.com/track/3RH8lBYK7rpmRmyYY79t0J) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Lights Off](https://open.spotify.com/album/1qxqjgKbzcUdLaxyza6ZuH) | 2:42 |
-| 21 | [Mission Impossible \- Raw](https://open.spotify.com/track/5TTVPES1GhmkTWOOU1HNvR) | [Ryder](https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb), [MXNO](https://open.spotify.com/artist/1FKB1zYVzrlZPpIrP5teg2) | [RYDERHOOD 2](https://open.spotify.com/album/7e8B78YouQDyU1pH41KQuc) | 3:12 |
+| 21 | [Mission Impossible \- Raw](https://open.spotify.com/track/5TTVPES1GhmkTWOOU1HNvR) | [Ryder](https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb), [MXNO](https://open.spotify.com/artist/1FKB1zYVzrlZPpIrP5teg2) | [RYDERHOOD 2](https://open.spotify.com/album/7e8B78YouQDyU1pH41KQuc) | 2:02 |
 | 22 | [October Fallacy](https://open.spotify.com/track/0BPwMgKjZGnjmYfNgYF2dS) | [Tony Bontana](https://open.spotify.com/artist/65KD0ITHfxE6ix28iRAZdl) | [My Name](https://open.spotify.com/album/1TtsTv9d0A8qU4FaygeF2l) | 2:16 |
 | 23 | [2099](https://open.spotify.com/track/4ooICmT2zrfMprazExomIi) | [Sade Olutola](https://open.spotify.com/artist/3RnVqL6k23iwhe1uYh1JSm) | [Arrow Heart](https://open.spotify.com/album/6qS5D90JVQEZpBHccB577c) | 2:27 |
 | 24 | [Maze Hill](https://open.spotify.com/track/3bpbDuOGrcQBkVG6j9yDbT) | [DC](https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD) | [Maze Hill](https://open.spotify.com/album/37yUJQYYvDPIl7ATCxhdhZ) | 3:38 |
@@ -42,20 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 32 | [THE SURVEY \- \(JAY10! MIX\)](https://open.spotify.com/track/5pVCiBlFLVoRdN8sGXw6RC) | [JAY10!](https://open.spotify.com/artist/7C2XkaumLolC29VScZQw9S) | [TURNING 10!](https://open.spotify.com/album/1S7c912LzcQrBEG0YNM07L) | 2:03 |
 | 33 | [Lola](https://open.spotify.com/track/7xjD1xcqCBNyQq7nPPZ3vW) | [Melina Malone](https://open.spotify.com/artist/605KmpfOyF5FrdSfQkHnq3) | [Lola](https://open.spotify.com/album/18rKM5MD8hCKyAQpAD0IJS) | 3:12 |
 | 34 | [Y PREE](https://open.spotify.com/track/3vmeYOaZkDAun6Vcri9Yeu) | [H.LLS](https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD) | [Y PREE](https://open.spotify.com/album/1ljEpxoPi9HmA2ci7U13kv) | 2:20 |
-| 35 | [TNT \(feat\. Nemzzz\)](https://open.spotify.com/track/5XGMPxrNLiKgd5HRa76HPg) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Job's Not Done](https://open.spotify.com/album/26wnCS2ge003UaGJ19XqLO) | 2:36 |
-| 36 | [Keep Coming Back To You](https://open.spotify.com/track/55uA56TpLi1Xu0OBb95RTN) | [Vicky Sometani](https://open.spotify.com/artist/29uVFPS7wo6RBGzewIc6pt) | [Keep Coming Back To You](https://open.spotify.com/album/6P2HiyDapzinr2gRhN5RXT) | 3:29 |
-| 37 | [PEAK](https://open.spotify.com/track/23BSsSbhlWeeUbqRvP7hqZ) | [Gbnga](https://open.spotify.com/artist/1ZbrCYB8p8VyeTxH5YnEqZ) | [PEAK](https://open.spotify.com/album/6Qt0dedCvi2zPFDq7gIkT5) | 3:12 |
-| 38 | [FIGS0 FL0W](https://open.spotify.com/track/5x2UNjWgJev0C1aUARd1TO) | [Figs0](https://open.spotify.com/artist/0pGaXt1m03ZQBxzVqc6oHP) | [FIGS0 FL0W](https://open.spotify.com/album/5UK6akpiiKAhV6uLeKlA3T) | 3:05 |
-| 39 | [Whine Am](https://open.spotify.com/track/7GvlEVyj6lqf4FPLeomoHx) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [Whine Am](https://open.spotify.com/album/2I2BeesRbfvWYzqxbrw4ky) | 2:56 |
-| 40 | [Without You](https://open.spotify.com/track/10XHA4AVC8qfg5AUKt097S) | [Sym](https://open.spotify.com/artist/0F05OcSI8dBsO4UufWUIXa) | [Without You](https://open.spotify.com/album/5BAiPRWe1RHTDdRsspQDfO) | 3:10 |
-| 41 | [VEINS](https://open.spotify.com/track/1npr6DcnOo85sqQALH3AED) | [CEE5IVE](https://open.spotify.com/artist/2ktRMWS8SU1AYM6PkEyb3I) | [VEINS](https://open.spotify.com/album/0ez1ZrNyveKJ3gGlE8dojC) | 1:48 |
-| 42 | [feels like home](https://open.spotify.com/track/6mEbQzPatJwotaLbYB6OLQ) | [Naliyah](https://open.spotify.com/artist/3DbI3fZ6rjnVdNMvIehZYo) | [feels like home](https://open.spotify.com/album/0zZbfPWiZz3v9UlFNFwUzl) | 2:40 |
-| 43 | [Mercenary](https://open.spotify.com/track/5s0l8YyXuAtX1OsKb5faoF) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Mercenary](https://open.spotify.com/album/3buDFufXTD8bf5s5SkKSGY) | 2:19 |
-| 44 | [Time](https://open.spotify.com/track/6pckSq4XRZGNpJZRXd84ez) | [James Emmanuel](https://open.spotify.com/artist/1V4RGSGobXXjpikiHlO2ex) | [Time](https://open.spotify.com/album/182YLGoathhhGy3V0BlrYO) | 3:43 |
-| 45 | [matcha bros](https://open.spotify.com/track/6j039F1GAbxnO4un1630wK) | [Taifunds](https://open.spotify.com/artist/1C76b7OjUUW3Jqqk4PMkMr), [00ab](https://open.spotify.com/artist/0LWbBMbzVxCHLe3tebI4Yo) | [matcha bros](https://open.spotify.com/album/6wdFukaniwdxTSZp6cnfGg) | 2:20 |
-| 46 | [Drive](https://open.spotify.com/track/506Zj8Qav140YTT7HOW7SI) | [MATTII](https://open.spotify.com/artist/1tCd8DCTFUYDclgcwuL1A6) | [Drive](https://open.spotify.com/album/3yf9U0CrTtqFqWHUTjhyJZ) | 2:52 |
-| 47 | [hopeless romantic](https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [hopeless romantic](https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P) | 3:03 |
-| 48 | [Don't Leave](https://open.spotify.com/track/44kUOVs16iRf11YjO7aaRW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Don't Leave](https://open.spotify.com/album/4noKPYGvy7eXfARAgRDhHr) | 2:10 |
-| 49 | [Don't Take My Lover Away](https://open.spotify.com/track/3fKmOOqhIF7M9nU4mqe1yV) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Don't Take My Lover Away](https://open.spotify.com/album/572gZYJdYvplPqnMJTbzqJ) | 5:23 |
+| 35 | [B.B.B.](https://open.spotify.com/track/2Vmb54sq94SOhDobcf4gxp) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [B.B.B.](https://open.spotify.com/album/3aS5keGWpo2QNDIGnL2Spd) | 2:20 |
+| 36 | [TNT \(feat\. Nemzzz\)](https://open.spotify.com/track/5XGMPxrNLiKgd5HRa76HPg) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Job's Not Done](https://open.spotify.com/album/26wnCS2ge003UaGJ19XqLO) | 2:36 |
+| 37 | [Keep Coming Back To You](https://open.spotify.com/track/55uA56TpLi1Xu0OBb95RTN) | [Vicky Sometani](https://open.spotify.com/artist/29uVFPS7wo6RBGzewIc6pt) | [Keep Coming Back To You](https://open.spotify.com/album/6P2HiyDapzinr2gRhN5RXT) | 3:29 |
+| 38 | [PEAK](https://open.spotify.com/track/23BSsSbhlWeeUbqRvP7hqZ) | [Gbnga](https://open.spotify.com/artist/1ZbrCYB8p8VyeTxH5YnEqZ) | [PEAK](https://open.spotify.com/album/6Qt0dedCvi2zPFDq7gIkT5) | 3:12 |
+| 39 | [FIGS0 FL0W](https://open.spotify.com/track/5x2UNjWgJev0C1aUARd1TO) | [Figs0](https://open.spotify.com/artist/0pGaXt1m03ZQBxzVqc6oHP) | [FIGS0 FL0W](https://open.spotify.com/album/5UK6akpiiKAhV6uLeKlA3T) | 3:05 |
+| 40 | [Whine Am](https://open.spotify.com/track/7GvlEVyj6lqf4FPLeomoHx) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [Whine Am](https://open.spotify.com/album/2I2BeesRbfvWYzqxbrw4ky) | 2:56 |
+| 41 | [Without You](https://open.spotify.com/track/10XHA4AVC8qfg5AUKt097S) | [Sym](https://open.spotify.com/artist/0F05OcSI8dBsO4UufWUIXa) | [Without You](https://open.spotify.com/album/5BAiPRWe1RHTDdRsspQDfO) | 3:10 |
+| 42 | [VEINS](https://open.spotify.com/track/1npr6DcnOo85sqQALH3AED) | [CEE5IVE](https://open.spotify.com/artist/2ktRMWS8SU1AYM6PkEyb3I) | [VEINS](https://open.spotify.com/album/0ez1ZrNyveKJ3gGlE8dojC) | 1:48 |
+| 43 | [feels like home](https://open.spotify.com/track/6mEbQzPatJwotaLbYB6OLQ) | [Naliyah](https://open.spotify.com/artist/3DbI3fZ6rjnVdNMvIehZYo) | [feels like home](https://open.spotify.com/album/0zZbfPWiZz3v9UlFNFwUzl) | 2:40 |
+| 44 | [Mercenary](https://open.spotify.com/track/5s0l8YyXuAtX1OsKb5faoF) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Mercenary](https://open.spotify.com/album/3buDFufXTD8bf5s5SkKSGY) | 2:19 |
+| 45 | [Time](https://open.spotify.com/track/6pckSq4XRZGNpJZRXd84ez) | [James Emmanuel](https://open.spotify.com/artist/1V4RGSGobXXjpikiHlO2ex) | [Time](https://open.spotify.com/album/182YLGoathhhGy3V0BlrYO) | 3:43 |
+| 46 | [matcha bros](https://open.spotify.com/track/6j039F1GAbxnO4un1630wK) | [Taifunds](https://open.spotify.com/artist/1C76b7OjUUW3Jqqk4PMkMr), [00ab](https://open.spotify.com/artist/0LWbBMbzVxCHLe3tebI4Yo) | [matcha bros](https://open.spotify.com/album/6wdFukaniwdxTSZp6cnfGg) | 2:20 |
+| 47 | [Drive](https://open.spotify.com/track/506Zj8Qav140YTT7HOW7SI) | [MATTII](https://open.spotify.com/artist/1tCd8DCTFUYDclgcwuL1A6) | [Drive](https://open.spotify.com/album/3yf9U0CrTtqFqWHUTjhyJZ) | 2:52 |
+| 48 | [hopeless romantic](https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [hopeless romantic](https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P) | 3:03 |
+| 49 | [Don't Leave](https://open.spotify.com/track/44kUOVs16iRf11YjO7aaRW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Don't Leave](https://open.spotify.com/album/4noKPYGvy7eXfARAgRDhHr) | 2:10 |
+| 50 | [Don't Take My Lover Away](https://open.spotify.com/track/3fKmOOqhIF7M9nU4mqe1yV) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Don't Take My Lover Away](https://open.spotify.com/album/572gZYJdYvplPqnMJTbzqJ) | 5:23 |
 
 Snapshot ID: `AAAAALE4NI6kdWnHRIMezIdSBsbdOQeQ`

@@ -933,6 +933,24 @@
     },
     {
       "album": {
+        "name": "Love Stray",
+        "url": "https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d"
+      },
+      "artists": [
+        {
+          "name": "Braye",
+          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "Are You On The Way",
+      "url": "https://open.spotify.com/track/5QyJkMyAWCB0IzuzUiYpER"
+    },
+    {
+      "album": {
         "name": "MAFFIAN",
         "url": "https://open.spotify.com/album/34MCeC9R3RzTxf3vzEJmWi"
       },
@@ -11992,24 +12010,6 @@
       "duration_ms": 142222,
       "name": "TRABZ",
       "url": "https://open.spotify.com/track/37q6nr9zUrFCyBCcoKdaMJ"
-    },
-    {
-      "album": {
-        "name": "Love Stray",
-        "url": "https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d"
-      },
-      "artists": [
-        {
-          "name": "Braye",
-          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
-        }
-      ],
-      "date_added": "2026-02-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/5QyJkMyAWCB0IzuzUiYpER"
     },
     {
       "album": {

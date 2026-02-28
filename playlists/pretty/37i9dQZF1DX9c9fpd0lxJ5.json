@@ -1,6 +1,6 @@
 {
   "description": "indie tunes to make you shine (\u273f\u25e0\u203f\u25e0)",
-  "num_followers": 442513,
+  "num_followers": 442479,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
@@ -299,18 +299,18 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "El Renacimiento",
-        "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
+        "name": "Un D\u00eda A La Vez",
+        "url": "https://open.spotify.com/album/4kcxAdBocSXh8pz7fSqFXJ"
       },
       "artists": [
         {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
         }
       ],
-      "duration_ms": 197853,
-      "name": "Diamantes",
-      "url": "https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr"
+      "duration_ms": 160106,
+      "name": "Eucalipto",
+      "url": "https://open.spotify.com/track/4JFZ0ilVg7CenXhnDcJb4u"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -347,18 +347,18 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "Un D\u00eda A La Vez",
-        "url": "https://open.spotify.com/album/4kcxAdBocSXh8pz7fSqFXJ"
+        "name": "El Renacimiento",
+        "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
       },
       "artists": [
         {
-          "name": "Mario Puglia",
-          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 160106,
-      "name": "Eucalipto",
-      "url": "https://open.spotify.com/track/4JFZ0ilVg7CenXhnDcJb4u"
+      "duration_ms": 197853,
+      "name": "Diamantes",
+      "url": "https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "FLOTANDO",
-        "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "FLOTANDO",
-      "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
-    },
-    {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
         "name": "Puente",
         "url": "https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 180746,
       "name": "Puente",
       "url": "https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
+        "name": "FLOTANDO",
+        "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "FLOTANDO",
+      "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "Pelo Negro",
-        "url": "https://open.spotify.com/album/4SOHXDDVZCwBdnMOnuhPUD"
-      },
-      "artists": [
-        {
-          "name": "Jos Canela",
-          "url": "https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie"
-        }
-      ],
-      "duration_ms": 192340,
-      "name": "Pelo Negro",
-      "url": "https://open.spotify.com/track/75VogSe1jiacHYuhJDPc9g"
-    },
-    {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
         "name": "Hasta M\u00e1laga",
         "url": "https://open.spotify.com/album/40R3ygyEgApOC8fnmH7Ayx"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 148229,
       "name": "Hasta M\u00e1laga",
       "url": "https://open.spotify.com/track/6F9FBd4ZTKlhCuvxzJWcZf"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
+        "name": "Pelo Negro",
+        "url": "https://open.spotify.com/album/4SOHXDDVZCwBdnMOnuhPUD"
+      },
+      "artists": [
+        {
+          "name": "Jos Canela",
+          "url": "https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie"
+        }
+      ],
+      "duration_ms": 192340,
+      "name": "Pelo Negro",
+      "url": "https://open.spotify.com/track/75VogSe1jiacHYuhJDPc9g"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -951,6 +951,22 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
+        "name": "El Sol De Las 3",
+        "url": "https://open.spotify.com/album/2CEg0wCMivKXUXVKk90YOA"
+      },
+      "artists": [
+        {
+          "name": "seye",
+          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
+        }
+      ],
+      "duration_ms": 168205,
+      "name": "Intr\u00e9pida",
+      "url": "https://open.spotify.com/track/0qpfalTdyhy33HjUUunwYn"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
         "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
         "url": "https://open.spotify.com/album/2HnrU7teXQDKv65s8OoWZY"
       },
@@ -967,26 +983,6 @@
       "duration_ms": 167753,
       "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
       "url": "https://open.spotify.com/track/7EW1QpUaFRKwsMQvr6rJoC"
-    },
-    {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/7oBjTSSK15OF6X5kFJJugd"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        },
-        {
-          "name": "Nella",
-          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
-        }
-      ],
-      "duration_ms": 279840,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/6zmlvhQshwFBAIpOOAEVfb"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -1011,18 +1007,22 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "El Sol De Las 3",
-        "url": "https://open.spotify.com/album/2CEg0wCMivKXUXVKk90YOA"
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/7oBjTSSK15OF6X5kFJJugd"
       },
       "artists": [
         {
-          "name": "seye",
-          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        },
+        {
+          "name": "Nella",
+          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
         }
       ],
-      "duration_ms": 168205,
-      "name": "Intr\u00e9pida",
-      "url": "https://open.spotify.com/track/0qpfalTdyhy33HjUUunwYn"
+      "duration_ms": 279840,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/6zmlvhQshwFBAIpOOAEVfb"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -1303,30 +1303,6 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "Acto de Fe (A & B Remix)",
-        "url": "https://open.spotify.com/album/2flR1deOgoalwj3x8wJuwM"
-      },
-      "artists": [
-        {
-          "name": "Mi Amigo Invencible",
-          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
-        },
-        {
-          "name": "Andry Bett",
-          "url": "https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7"
-        },
-        {
-          "name": "Bob Crous",
-          "url": "https://open.spotify.com/artist/1kw4B3A1uYPYytuS1UhsbE"
-        }
-      ],
-      "duration_ms": 167726,
-      "name": "Acto de Fe - A & B Remix",
-      "url": "https://open.spotify.com/track/7qd8tiws4kLMsxfSNXiiUk"
-    },
-    {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
         "name": "Eres",
         "url": "https://open.spotify.com/album/5X4LwzmV4YI6ZgUSTrLzNs"
       },
@@ -1359,6 +1335,30 @@
       "duration_ms": 203389,
       "name": "La Piscina",
       "url": "https://open.spotify.com/track/62T4aq95ad7tN8iKe2gyE6"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
+        "name": "Acto de Fe (A & B Remix)",
+        "url": "https://open.spotify.com/album/2flR1deOgoalwj3x8wJuwM"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        },
+        {
+          "name": "Andry Bett",
+          "url": "https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7"
+        },
+        {
+          "name": "Bob Crous",
+          "url": "https://open.spotify.com/artist/1kw4B3A1uYPYytuS1UhsbE"
+        }
+      ],
+      "duration_ms": 167726,
+      "name": "Acto de Fe - A & B Remix",
+      "url": "https://open.spotify.com/track/7qd8tiws4kLMsxfSNXiiUk"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "Perd\u00f3n por lo que dije",
-        "url": "https://open.spotify.com/album/0bQiEyTwxJF5zxmacklfKc"
-      },
-      "artists": [
-        {
-          "name": "Julietas",
-          "url": "https://open.spotify.com/artist/0Uh0FKNPaZmi4av7rp3586"
-        }
-      ],
-      "duration_ms": 205915,
-      "name": "Perd\u00f3n por lo que dije",
-      "url": "https://open.spotify.com/track/7IhNXZrIgXh5ZtNtW7CtK1"
-    },
-    {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
         "name": "Ganas",
         "url": "https://open.spotify.com/album/12ZTthAi7mA6pZqvafJip2"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 166757,
       "name": "Ganas",
       "url": "https://open.spotify.com/track/2COIPWPW4VmT9FKiNx1xry"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
+        "name": "Perd\u00f3n por lo que dije",
+        "url": "https://open.spotify.com/album/0bQiEyTwxJF5zxmacklfKc"
+      },
+      "artists": [
+        {
+          "name": "Julietas",
+          "url": "https://open.spotify.com/artist/0Uh0FKNPaZmi4av7rp3586"
+        }
+      ],
+      "duration_ms": 205915,
+      "name": "Perd\u00f3n por lo que dije",
+      "url": "https://open.spotify.com/track/7IhNXZrIgXh5ZtNtW7CtK1"
     },
     {
       "added_at": "2025-10-24 04:00:24",

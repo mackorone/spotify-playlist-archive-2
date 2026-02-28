@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Bruno Mars",
-  "num_followers": 4024731,
+  "num_followers": 4024613,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2025-09-05 13:32:53",
       "album": {
-        "name": "Hide Away (Alan Walker Remix)",
-        "url": "https://open.spotify.com/album/2nJlv1pIys7dtM2vhiUL2N"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 137538,
-      "name": "Hide Away - Alan Walker Remix",
-      "url": "https://open.spotify.com/track/2hTlaUQWoevROx9V9oYt7f"
-    },
-    {
-      "added_at": "2025-09-05 13:32:53",
-      "album": {
         "name": "New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix]",
         "url": "https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 274141,
       "name": "New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix",
       "url": "https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON"
+    },
+    {
+      "added_at": "2025-09-05 13:32:53",
+      "album": {
+        "name": "Hide Away (Alan Walker Remix)",
+        "url": "https://open.spotify.com/album/2nJlv1pIys7dtM2vhiUL2N"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 137538,
+      "name": "Hide Away - Alan Walker Remix",
+      "url": "https://open.spotify.com/track/2hTlaUQWoevROx9V9oYt7f"
     },
     {
       "added_at": "2025-09-05 13:32:53",
@@ -1375,22 +1375,26 @@
     {
       "added_at": "2025-09-05 13:32:53",
       "album": {
-        "name": "Before You Leave Me (TELYKAST Remix)",
-        "url": "https://open.spotify.com/album/220lHt2TZTUYnR0HWLzK6J"
+        "name": "Drive (feat. Wes Nelson) [Topic VIP Remix]",
+        "url": "https://open.spotify.com/album/0J2xC9k1rdXhGZL0H4NmIt"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
         },
         {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
         }
       ],
-      "duration_ms": 167619,
-      "name": "Before You Leave Me - TELYKAST Remix",
-      "url": "https://open.spotify.com/track/1GM0BBPG6CWenFpXx6FPc2"
+      "duration_ms": 176000,
+      "name": "Drive (feat. Wes Nelson) - Topic VIP Remix",
+      "url": "https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO"
     },
     {
       "added_at": "2025-09-05 13:32:53",
@@ -1415,26 +1419,22 @@
     {
       "added_at": "2025-09-05 13:32:53",
       "album": {
-        "name": "Drive (feat. Wes Nelson) [Topic VIP Remix]",
-        "url": "https://open.spotify.com/album/0J2xC9k1rdXhGZL0H4NmIt"
+        "name": "Before You Leave Me (TELYKAST Remix)",
+        "url": "https://open.spotify.com/album/220lHt2TZTUYnR0HWLzK6J"
       },
       "artists": [
         {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         },
         {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Wes Nelson",
-          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Drive (feat. Wes Nelson) - Topic VIP Remix",
-      "url": "https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO"
+      "duration_ms": 167619,
+      "name": "Before You Leave Me - TELYKAST Remix",
+      "url": "https://open.spotify.com/track/1GM0BBPG6CWenFpXx6FPc2"
     },
     {
       "added_at": "2025-09-05 13:32:53",

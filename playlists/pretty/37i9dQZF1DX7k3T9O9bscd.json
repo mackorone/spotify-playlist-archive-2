@@ -1,6 +1,6 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Sedef  Seb\u00fcktekin on cover.",
-  "num_followers": 574193,
+  "num_followers": 574229,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -255,18 +255,34 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Wading Out / Shell Island",
-        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
+        "name": "Bacchanal",
+        "url": "https://open.spotify.com/album/21c7ulNJzCSDIelgGBA1QF"
       },
       "artists": [
         {
-          "name": "Favourite People",
-          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
+          "name": "G\u00e1bor Szab\u00f3",
+          "url": "https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG"
+        },
+        {
+          "name": "Jim Stewart",
+          "url": "https://open.spotify.com/artist/1Gy2CxCb9Bvp6Wp0xQmSbq"
+        },
+        {
+          "name": "Hal Gordon",
+          "url": "https://open.spotify.com/artist/08MG1w8piIBNcK7H4TTazQ"
+        },
+        {
+          "name": "Jimmy Keltner",
+          "url": "https://open.spotify.com/artist/50appzhosvzQcqmeipXLtP"
+        },
+        {
+          "name": "Louis Kabok",
+          "url": "https://open.spotify.com/artist/7ynQZmXaxvWuYmrHkVxs9u"
         }
       ],
-      "duration_ms": 203680,
-      "name": "Shell Island",
-      "url": "https://open.spotify.com/track/6zdthQLxB71PgKzTrgp36I"
+      "duration_ms": 288826,
+      "name": "Three King Fishers",
+      "url": "https://open.spotify.com/track/6w3bIc0BxTPGNHqyH4KNiY"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -303,34 +319,18 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Bacchanal",
-        "url": "https://open.spotify.com/album/21c7ulNJzCSDIelgGBA1QF"
+        "name": "Wading Out / Shell Island",
+        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
       },
       "artists": [
         {
-          "name": "G\u00e1bor Szab\u00f3",
-          "url": "https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG"
-        },
-        {
-          "name": "Jim Stewart",
-          "url": "https://open.spotify.com/artist/1Gy2CxCb9Bvp6Wp0xQmSbq"
-        },
-        {
-          "name": "Hal Gordon",
-          "url": "https://open.spotify.com/artist/08MG1w8piIBNcK7H4TTazQ"
-        },
-        {
-          "name": "Jimmy Keltner",
-          "url": "https://open.spotify.com/artist/50appzhosvzQcqmeipXLtP"
-        },
-        {
-          "name": "Louis Kabok",
-          "url": "https://open.spotify.com/artist/7ynQZmXaxvWuYmrHkVxs9u"
+          "name": "Favourite People",
+          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
         }
       ],
-      "duration_ms": 288826,
-      "name": "Three King Fishers",
-      "url": "https://open.spotify.com/track/6w3bIc0BxTPGNHqyH4KNiY"
+      "duration_ms": 203680,
+      "name": "Shell Island",
+      "url": "https://open.spotify.com/track/6zdthQLxB71PgKzTrgp36I"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -419,22 +419,6 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Time Bazaar",
-        "url": "https://open.spotify.com/album/2hFeS1xcEQx1vQA19nBfcR"
-      },
-      "artists": [
-        {
-          "name": "The Holydrug Couple",
-          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Time Bazaar",
-      "url": "https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
         "name": "The Trip",
         "url": "https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 257972,
       "name": "The Trip",
       "url": "https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
+        "name": "Time Bazaar",
+        "url": "https://open.spotify.com/album/2hFeS1xcEQx1vQA19nBfcR"
+      },
+      "artists": [
+        {
+          "name": "The Holydrug Couple",
+          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Time Bazaar",
+      "url": "https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Are You Tired? (Keep on Singing)",
-        "url": "https://open.spotify.com/album/6bfQx9nxndQu5zU3G4qBW7"
-      },
-      "artists": [
-        {
-          "name": "DARKSIDE",
-          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
-        }
-      ],
-      "duration_ms": 404562,
-      "name": "Are You Tired? (Keep on Singing)",
-      "url": "https://open.spotify.com/track/7qONmzQvjWnzQAbBrRqKrB"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
         "name": "Overdrive",
         "url": "https://open.spotify.com/album/1uk2d7U9mHyflSmcPxkhV5"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 329693,
       "name": "Plea From The Soul",
       "url": "https://open.spotify.com/track/3IroBaDGAzIty2iPEdVX1F"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
+        "name": "Are You Tired? (Keep on Singing)",
+        "url": "https://open.spotify.com/album/6bfQx9nxndQu5zU3G4qBW7"
+      },
+      "artists": [
+        {
+          "name": "DARKSIDE",
+          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
+        }
+      ],
+      "duration_ms": 404562,
+      "name": "Are You Tired? (Keep on Singing)",
+      "url": "https://open.spotify.com/track/7qONmzQvjWnzQAbBrRqKrB"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Man It Feels Like Space Again",
-        "url": "https://open.spotify.com/album/60aAmcYX5tw7r9ZQ1HF34q"
-      },
-      "artists": [
-        {
-          "name": "Pond",
-          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
-        }
-      ],
-      "duration_ms": 501840,
-      "name": "Man It Feels Like Space Again",
-      "url": "https://open.spotify.com/track/4LqQinWUzMl3QmRlO3Wgbh"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
         "name": "Bud Spencer Blues Explosion",
         "url": "https://open.spotify.com/album/6bmgowes6uR9WeQggryKqL"
       },
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
+        "name": "Man It Feels Like Space Again",
+        "url": "https://open.spotify.com/album/60aAmcYX5tw7r9ZQ1HF34q"
+      },
+      "artists": [
+        {
+          "name": "Pond",
+          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
+        }
+      ],
+      "duration_ms": 501840,
+      "name": "Man It Feels Like Space Again",
+      "url": "https://open.spotify.com/track/4LqQinWUzMl3QmRlO3Wgbh"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
         "name": "Django's High",
         "url": "https://open.spotify.com/album/05ToJnopcSnLYnbO0u8Mxq"
       },
@@ -1059,38 +1059,6 @@
       "duration_ms": 183978,
       "name": "Casino",
       "url": "https://open.spotify.com/track/2F6OAlmLqW0MmRA4Qo5o6W"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
-        "name": "Stung!",
-        "url": "https://open.spotify.com/album/5bZ876MvlpW4MQhAZFBBdp"
-      },
-      "artists": [
-        {
-          "name": "Pond",
-          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
-        }
-      ],
-      "duration_ms": 209717,
-      "name": "Constant Picnic",
-      "url": "https://open.spotify.com/track/0ADqC4Ko8CHQouePCVb1HL"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
-        "name": "Sophomore",
-        "url": "https://open.spotify.com/album/63UEd4dz1EXqvzAUlrtV9n"
-      },
-      "artists": [
-        {
-          "name": "Speck Joliet",
-          "url": "https://open.spotify.com/artist/75VJR7AaBp0U36xbniOrws"
-        }
-      ],
-      "duration_ms": 332335,
-      "name": "Time Frame",
-      "url": "https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -1111,6 +1079,22 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
+        "name": "Sophomore",
+        "url": "https://open.spotify.com/album/63UEd4dz1EXqvzAUlrtV9n"
+      },
+      "artists": [
+        {
+          "name": "Speck Joliet",
+          "url": "https://open.spotify.com/artist/75VJR7AaBp0U36xbniOrws"
+        }
+      ],
+      "duration_ms": 332335,
+      "name": "Time Frame",
+      "url": "https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
         "name": "The Moon Is In The Wrong Place",
         "url": "https://open.spotify.com/album/7j6jvLu3thEqRKkALqxXhf"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 179543,
       "name": "The Moon Is In The Wrong Place",
       "url": "https://open.spotify.com/track/2PE6ubpBBfYindtp3fzzBJ"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
+        "name": "Stung!",
+        "url": "https://open.spotify.com/album/5bZ876MvlpW4MQhAZFBBdp"
+      },
+      "artists": [
+        {
+          "name": "Pond",
+          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
+        }
+      ],
+      "duration_ms": 209717,
+      "name": "Constant Picnic",
+      "url": "https://open.spotify.com/track/0ADqC4Ko8CHQouePCVb1HL"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Corporal",
-        "url": "https://open.spotify.com/album/5PNOMgqCw68PvfKzwBNWU3"
-      },
-      "artists": [
-        {
-          "name": "Lorelle Meets The Obsolete",
-          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
-        }
-      ],
-      "duration_ms": 386800,
-      "name": "Ker",
-      "url": "https://open.spotify.com/track/1Vws7JNu4H97usOHqVBbEx"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
         "name": "humanus",
         "url": "https://open.spotify.com/album/25mz1lw83AfW9tewPmaULD"
       },
@@ -1563,22 +1547,6 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Pop-Wave",
-        "url": "https://open.spotify.com/album/6dSGG9JyqxwDLUvHkJOBiJ"
-      },
-      "artists": [
-        {
-          "name": "COSMO",
-          "url": "https://open.spotify.com/artist/1dFFyvFahmXCBccq3Ydo4z"
-        }
-      ],
-      "duration_ms": 180337,
-      "name": "Pop-Wave",
-      "url": "https://open.spotify.com/track/2mFiq3PS9rRe6T78doMz7M"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
         "name": "World Music",
         "url": "https://open.spotify.com/album/7luhH7DG3J2silksmUZ73i"
       },
@@ -1591,6 +1559,38 @@
       "duration_ms": 170186,
       "name": "Golden Dawn",
       "url": "https://open.spotify.com/track/7bllwcaPt7Di4dI2mbpvfU"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
+        "name": "Corporal",
+        "url": "https://open.spotify.com/album/5PNOMgqCw68PvfKzwBNWU3"
+      },
+      "artists": [
+        {
+          "name": "Lorelle Meets The Obsolete",
+          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
+        }
+      ],
+      "duration_ms": 386800,
+      "name": "Ker",
+      "url": "https://open.spotify.com/track/1Vws7JNu4H97usOHqVBbEx"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
+        "name": "Pop-Wave",
+        "url": "https://open.spotify.com/album/6dSGG9JyqxwDLUvHkJOBiJ"
+      },
+      "artists": [
+        {
+          "name": "COSMO",
+          "url": "https://open.spotify.com/artist/1dFFyvFahmXCBccq3Ydo4z"
+        }
+      ],
+      "duration_ms": 180337,
+      "name": "Pop-Wave",
+      "url": "https://open.spotify.com/track/2mFiq3PS9rRe6T78doMz7M"
     },
     {
       "added_at": "2025-12-19 06:00:08",

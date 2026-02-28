@@ -4,7 +4,7 @@
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: 神保彰
 
-164 songs - 12 hr 22 min
+165 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Glassland](https://open.spotify.com/track/1VXha98SArQoMQCL2tPVzb) | [Apneumo](https://open.spotify.com/artist/4pd2vMniXFGmAXS3NQxIaR) | [Glassland](https://open.spotify.com/album/3RZLViD4iKtZ7LIAVIfBKO) | 4:30 | 2023-10-17 | 2024-09-19 |
 | [Golden Forest](https://open.spotify.com/track/6gjdgW06BMrSmdSmp7pvBJ) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [color & monochrome 2](https://open.spotify.com/album/2rW7wndjnbsuzs8fniLPOW) | 5:18 | 2024-02-27 | 2026-01-22 |
 | [Good song](https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [WAVE](https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B) | 3:22 | 2023-03-14 |  |
-| [Greenfield](https://open.spotify.com/track/2puY8TFmn0geYy2NuPC8Jo) | [The Hey Song](https://open.spotify.com/artist/1amNM2sij1uuKOTunyYuze) | [New Horizon](https://open.spotify.com/album/3rYt9et8uKmF1ek5CPDW2F) | 2:26 | 2024-02-27 |  |
+| [Greenfield](https://open.spotify.com/track/2puY8TFmn0geYy2NuPC8Jo) | [The Hey Song](https://open.spotify.com/artist/1amNM2sij1uuKOTunyYuze) | [New Horizon](https://open.spotify.com/album/3rYt9et8uKmF1ek5CPDW2F) | 2:26 | 2024-02-27 | 2026-02-28 |
 | [Groove Delight \(feat.Ovall\)](https://open.spotify.com/track/4TgNRA05pRMz0oBaQYMyS3) | [PYRAMID](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Groove Delight \(feat.Ovall\)](https://open.spotify.com/album/7dCw1GWPdLc8exWpsmn1vn) | 3:37 | 2025-08-05 |  |
 | [Hale no sola sita \-LA YELLOW SAMBA\-](https://open.spotify.com/track/2PshJ3niqCAbzdKPtwSa7Z) | [PE'Z](https://open.spotify.com/artist/52uuAX0XAdhMmLLpaSaOig) | [九月の空 \-KUGATSU NO SOLA\-](https://open.spotify.com/album/6roaJKXBTODhmG7GcrSRdC) | 3:39 | 2024-10-09 | 2025-01-29 |
 | [Horns Riot](https://open.spotify.com/track/23Qd9pGRAGYvkW769SDCIg) | [TRI4TH](https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia), [Calmera](https://open.spotify.com/artist/5EQqINW9nAQs8lw8BzjQXw) | [Horns Riot](https://open.spotify.com/album/75yKmLPDLWt0G9RdDlHNY6) | 4:07 | 2023-06-14 | 2026-02-13 |
@@ -103,6 +103,7 @@
 | [Sad Premonition / Lilium](https://open.spotify.com/track/2ZMpOq0n124MRPO8vxAgCi) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [I'll](https://open.spotify.com/album/1dOgFP65sSxMncWqJ8FADo) | 4:05 | 2023-03-14 | 2023-12-05 |
 | [Sakura Flutter](https://open.spotify.com/track/4rDkASpLUTgBKumIkJkZ6c) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [Bouquet](https://open.spotify.com/album/5jJgBsbMoXwoSCOvvFuwRW) | 4:09 | 2024-02-27 | 2026-01-17 |
 | [SALVALAI](https://open.spotify.com/track/4h3BoLlp0fvVODmaY9CIiB) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [Start Over Focus](https://open.spotify.com/album/4ILyp34lXBAY4y4S1by092) | 4:02 | 2026-02-04 |  |
+| [SAMBA DE 恋して](https://open.spotify.com/track/2ntJXSC98pIAiGwigge8Nm) | [PE'Z](https://open.spotify.com/artist/52uuAX0XAdhMmLLpaSaOig) | [スズ虫](https://open.spotify.com/album/4VkJfvhkTnx8GZuCySMlKe) | 4:17 | 2026-02-18 |  |
 | [seiren](https://open.spotify.com/track/0f1hKtgruSDYQ52wvS9YeR) | [mouse on the keys](https://open.spotify.com/artist/6NVzd3Lv9yMFIf1bsXNLIp) | [an anxious object](https://open.spotify.com/album/3RaPoJgvbOwugD3mKSjew5) | 4:23 | 2023-04-04 | 2024-04-19 |
 | [seiren](https://open.spotify.com/track/4tzmAKoooM1NNMaoBiunvI) | [mouse on the keys](https://open.spotify.com/artist/6NVzd3Lv9yMFIf1bsXNLIp) | [an anxious object](https://open.spotify.com/album/7uLIqmPNnfmBd92Tz1apN2) | 4:23 | 2023-03-14 | 2023-04-29 |
 | [Sepia](https://open.spotify.com/track/5AVnWUXifjcxv7l9lKVIqb) | [Indigo Jam Unit](https://open.spotify.com/artist/0Mb07um3EFUmVvjcqN0DCn) | [Oonops Drops Vol\. 1](https://open.spotify.com/album/3JXpqb40IwJuCGWYbZdzns) | 5:25 | 2023-03-14 | 2024-04-19 |

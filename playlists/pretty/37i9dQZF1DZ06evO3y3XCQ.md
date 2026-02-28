@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3y3XCQ.md) - [plain]
 
 > This is Thursday\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,327 likes - 42 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,330 likes - 41 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3y3XCQ.md) - [plain]
 | 12 | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u) | 4:17 |
 | 13 | [Autobiography Of A Nation](https://open.spotify.com/track/0ALZo8QRVF93qCVyseIjNF) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Full Collapse](https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo) | 3:55 |
 | 14 | [Division St.](https://open.spotify.com/track/3CzZpfMmfvB8ybUkqAYqvD) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [War All The Time](https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t) | 4:14 |
-| 15 | [Application For Release From The Dream](https://open.spotify.com/track/7CFz9bEaKdZ7cQ63duKUXC) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Application For Release From The Dream](https://open.spotify.com/album/3PZAIjJNFvJzAWt48z8wUw) | 4:29 |
-| 16 | [The Lottery](https://open.spotify.com/track/38832SeThFAmmFWKaMv6xz) | [Circa Survive](https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT), [Geoff Rickly](https://open.spotify.com/artist/1rSMnOXCnT7rf4j4RErmSX), [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Violent Waves](https://open.spotify.com/album/3qSgoDBBG1UsZU4xJqieBd) | 4:43 |
+| 15 | [The Lottery](https://open.spotify.com/track/38832SeThFAmmFWKaMv6xz) | [Circa Survive](https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT), [Geoff Rickly](https://open.spotify.com/artist/1rSMnOXCnT7rf4j4RErmSX), [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Violent Waves](https://open.spotify.com/album/3qSgoDBBG1UsZU4xJqieBd) | 4:43 |
+| 16 | [Application For Release From The Dream](https://open.spotify.com/track/7CFz9bEaKdZ7cQ63duKUXC) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Application For Release From The Dream](https://open.spotify.com/album/3PZAIjJNFvJzAWt48z8wUw) | 4:29 |
 | 17 | [Concealer](https://open.spotify.com/track/3EPVk0rM704NDj9hWDne63) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Full Collapse](https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo) | 2:19 |
 | 18 | [Asleep In The Chapel](https://open.spotify.com/track/4tKjOaJ6994Fj1DcJGKriC) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [War All The Time](https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t) | 3:46 |
 | 19 | [This Side of Brightness](https://open.spotify.com/track/5gOlzxxl94eXariShwCikl) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Waiting](https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa) | 3:31 |
@@ -49,6 +49,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3y3XCQ.md) - [plain]
 | 39 | [Introduction](https://open.spotify.com/track/530YND7Asd4qwUgcXXVQ8b) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Waiting](https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa) | 1:58 |
 | 40 | [Friends In The Armed Forces](https://open.spotify.com/track/4IALJqOdZE5pwUaL6ag1Ko) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Common Existence \(Deluxe Edition\)](https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj) | 4:10 |
 | 41 | [A Darker Forest](https://open.spotify.com/track/52rlffXbQz0acv4hYV3YDr) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [No Devolución](https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT) | 3:39 |
-| 42 | [Beyond The Visible Spectrum](https://open.spotify.com/track/1v1xzaGKeKyjb8kuinY47z) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Common Existence \(Deluxe Edition\)](https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj) | 3:59 |
 
-Snapshot ID: `aZ47gAAAAAAe/1EenHTY5DAIK5qVWDfu`
+Snapshot ID: `aZ+NAAAAAACtQyNRjZlBYMwb9ASqywQm`

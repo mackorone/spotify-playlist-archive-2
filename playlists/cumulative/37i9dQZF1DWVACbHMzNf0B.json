@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "somos una fusi\u00f3n que no termina\u2728\ud83d\udc9a  La Joaqui, Gabito Ballesteros en portada.",
+  "description": "somos una fusi\u00f3n que no termina\u2728\ud83d\udc9a Los Primos del Este en portada.",
   "name": "MEXCLA",
   "tracks": [
     {
@@ -1961,6 +1961,24 @@
     },
     {
       "album": {
+        "name": "Ay Dieguito",
+        "url": "https://open.spotify.com/album/3SYYvFKrvzAbsLhxrH4goD"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170284,
+      "name": "Ay Dieguito",
+      "url": "https://open.spotify.com/track/57jY51VJ9iyZBP5DGFwQpP"
+    },
+    {
+      "album": {
         "name": "Ay Ke Cumbi\u00f3n",
         "url": "https://open.spotify.com/album/0g6xe8Whhm7qErMMwFrv3L"
       },
@@ -3088,6 +3106,24 @@
       "duration_ms": 186494,
       "name": "Cartier",
       "url": "https://open.spotify.com/track/5xAikCeFXqHpVUuRKxBg4V"
+    },
+    {
+      "album": {
+        "name": "El Mundo Es Del Que Se Anima",
+        "url": "https://open.spotify.com/album/6zuGZAkB6sMHRNUOC11hgx"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187822,
+      "name": "Caso Perdido",
+      "url": "https://open.spotify.com/track/22sGlWHrJfScxPwCd26S2z"
     },
     {
       "album": {
@@ -8716,7 +8752,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 150961,
       "name": "La Barbie",
       "url": "https://open.spotify.com/track/263f8MqBDUWVxVWEMesYh0"
@@ -10030,6 +10066,24 @@
       "duration_ms": 226250,
       "name": "Labios de Cereza 2",
       "url": "https://open.spotify.com/track/5kydBNKLSxvWNjXSSfyWAr"
+    },
+    {
+      "album": {
+        "name": "Labios De Cereza 3",
+        "url": "https://open.spotify.com/album/5qtP533GK5rZtlGBl6Gnr4"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216500,
+      "name": "Labios De Cereza 3",
+      "url": "https://open.spotify.com/track/2Lz88eC06q1CcGSIZhPcdR"
     },
     {
       "album": {
@@ -12822,7 +12876,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 224571,
       "name": "Netflix and Chill",
       "url": "https://open.spotify.com/track/2l5EWb5ThVJGWltu7R3uAs"
@@ -14092,7 +14146,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 179129,
       "name": "Pensando En Grande",
       "url": "https://open.spotify.com/track/0k3jCVNMmYF78FeBmj7zWn"
@@ -15660,7 +15714,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 147022,
       "name": "Que Viva El Amor",
       "url": "https://open.spotify.com/track/4qEefGyrhP8ZAcotTWQfYs"
@@ -15778,6 +15832,24 @@
       "duration_ms": 168376,
       "name": "Querido Rey",
       "url": "https://open.spotify.com/track/5qGP6zgyavDjMuZ57YO9jS"
+    },
+    {
+      "album": {
+        "name": "Quiero Que Seas T\u00fa",
+        "url": "https://open.spotify.com/album/2W3UAlM3O9u1IENBXtB8M8"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148821,
+      "name": "Quiero Que Seas T\u00fa",
+      "url": "https://open.spotify.com/track/7bSCakZAVtms7KN96hwaPW"
     },
     {
       "album": {

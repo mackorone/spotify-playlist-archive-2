@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: Giegs, PLUGOXHUSH, Clep N Flyy, Venti, Joella T & Vensly en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,313 likes - 67 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,310 likes - 67 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 3 | [Hoofd Omhoog](https://open.spotify.com/track/7IocSrGRqlavONYjBLpywM) | [Venti](https://open.spotify.com/artist/6SgOMDXLQKIiN15OrjOvGQ), [Joella T](https://open.spotify.com/artist/1yxupxuZvDWzd3JO8Z1mCW), [Vensly](https://open.spotify.com/artist/1yalnSfdVdX8qVMbCodMoA) | [Hoofd Omhoog](https://open.spotify.com/album/5eiQ9gaCjv0KLUeLMBqW7K) | 2:25 |
 | 4 | [Toxic](https://open.spotify.com/track/3mBKRgw8M1OHdgwAslBC1o) | [Getit](https://open.spotify.com/artist/5Yc3rkj4Fs4slH5uGZaG8I) | [Toxic](https://open.spotify.com/album/2wfF5J2pyHe1E4FlArcD5m) | 2:51 |
 | 5 | [A.O.S](https://open.spotify.com/track/7KvYMNrZVhxH7KSRLDM4wF) | [WAWA](https://open.spotify.com/artist/71IGD79X5laXW6cmqehskJ) | [A.O.S](https://open.spotify.com/album/57FMRoDEXtDc8r7kPT1ekC) | 2:58 |
-| 6 | [Track 2](https://open.spotify.com/track/0CLK3JHj0s6d3383D2DruJ) | [JAH](https://open.spotify.com/artist/5Mtx1K2I4k44IIlsCSf659) | [MISFIT](https://open.spotify.com/album/0HHRuXED5ILvl0hpcLMcX0) | 0:00 |
+| 6 | [Wake up](https://open.spotify.com/track/0CLK3JHj0s6d3383D2DruJ) | [JAH](https://open.spotify.com/artist/5Mtx1K2I4k44IIlsCSf659) | [MISFIT](https://open.spotify.com/album/0HHRuXED5ILvl0hpcLMcX0) | 2:18 |
 | 7 | [Blacka Man Waggie \(feat\. Rz\)](https://open.spotify.com/track/5tuNTGCLsYQp0z663yPaeQ) | [DSAAF](https://open.spotify.com/artist/79Wzu3NpW82H9rHbw4Gvlf), [Rz](https://open.spotify.com/artist/0Uicf2CoBVxIQZxFXuXlO8) | [Blacka Man Waggie \(feat\. Rz\)](https://open.spotify.com/album/5zFJS7OeaLfsw8Vrj08gkH) | 2:22 |
 | 8 | [5 Tellies](https://open.spotify.com/track/6kUs2cT1xKkpCNpdWd8cFY) | [B4RKIE](https://open.spotify.com/artist/2MQ6TLWN9FQ5OqnsB9HNXs) | [5 Tellies](https://open.spotify.com/album/3Je2Rx6ObAiFEOOy3NzCLQ) | 2:33 |
 | 9 | [Mezelf even kwijt](https://open.spotify.com/track/1zVYyc8qS3MPubzvzbZyTn) | [Burkeys](https://open.spotify.com/artist/43OU5L8Wx3q4hSkooXrfaJ), [Moony11](https://open.spotify.com/artist/37FMKePANjyQqSJK36WpWN) | [Mezelf even kwijt](https://open.spotify.com/album/1hjt515H6iTHbKzCpFaa6M) | 2:23 |

@@ -1,6 +1,6 @@
 {
   "description": "Dale play y dej\u00e1 que la m\u00fasica te lleve.",
-  "num_followers": 211675,
+  "num_followers": 211747,
   "original_name": "Ruta 2",
   "owner": {
     "name": "Spotify",
@@ -279,18 +279,18 @@
     {
       "added_at": "2026-02-24 17:41:43",
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+        "name": "The Game (2011 Remaster)",
+        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 277476,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
+      "duration_ms": 163373,
+      "name": "Crazy Little Thing Called Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
     },
     {
       "added_at": "2026-02-24 17:41:43",
@@ -347,18 +347,18 @@
     {
       "added_at": "2026-02-24 17:41:43",
       "album": {
-        "name": "The Game (2011 Remaster)",
-        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 163373,
-      "name": "Crazy Little Thing Called Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
+      "duration_ms": 277476,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
     },
     {
       "added_at": "2026-02-24 17:41:43",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-02-24 17:41:43",
       "album": {
-        "name": "La Era De La Boludez",
-        "url": "https://open.spotify.com/album/4D1aIzUYKG6jytRjgT0QIx"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 313733,
-      "name": "\u00bfQu\u00e9 Ves?",
-      "url": "https://open.spotify.com/track/0aad6vDkOmu9d1aFNvOwYC"
-    },
-    {
-      "added_at": "2026-02-24 17:41:43",
-      "album": {
         "name": "El Le\u00f3n",
         "url": "https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 237346,
       "name": "Manuel Santill\u00e1n, el Le\u00f3n (Versi\u00f3n Reggae) - Remasterizado 2008",
       "url": "https://open.spotify.com/track/41MfyUSxQoo1BgIsNj8eDS"
+    },
+    {
+      "added_at": "2026-02-24 17:41:43",
+      "album": {
+        "name": "La Era De La Boludez",
+        "url": "https://open.spotify.com/album/4D1aIzUYKG6jytRjgT0QIx"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 313733,
+      "name": "\u00bfQu\u00e9 Ves?",
+      "url": "https://open.spotify.com/track/0aad6vDkOmu9d1aFNvOwYC"
     },
     {
       "added_at": "2026-02-24 17:41:43",

@@ -4,7 +4,7 @@
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Mitski
 
-2,722 songs - 6 day 13 hr 53 min
+2,723 songs - 6 day 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [aku sorang](https://open.spotify.com/track/0E7etbeEEkEnvACqf7PzTy) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [Zhe Kamil](https://open.spotify.com/artist/2fuvcl5AoXU1gAu8B8Sfq7) | [aku sorang](https://open.spotify.com/album/3KKIZMVtlP5DjJwa6eTEK5) | 3:06 | 2025-01-09 | 2025-02-14 |
 | [Aku Takdirmu](https://open.spotify.com/track/7yDYXmJ8NAoYeVolXv9E5K) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5) | [Aku Takdirmu](https://open.spotify.com/album/6syB0IkH8vdpQBUQAnY25C) | 4:05 | 2024-05-16 | 2024-06-21 |
 | [Aku Tanpa Kamu Tanpa Aku](https://open.spotify.com/track/4fA9T5ifvSebKMJTr1HeN0) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas), [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Aku Tanpa Kamu Tanpa Aku](https://open.spotify.com/album/3mWgjnE8LPJeJSIy6dEHsm) | 4:27 | 2024-11-22 | 2025-01-10 |
+| [Al\-Hawdh](https://open.spotify.com/track/6EbPNZBHJnM8iOuJW2HRlJ) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Al\-Hawdh](https://open.spotify.com/album/4ovpwDJYCK6JMlOIvy46St) | 3:28 | 2026-02-27 |  |
 | [Alamak](https://open.spotify.com/track/1vkwlZncsYqFukl2Q7M6Fe) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [Alamak](https://open.spotify.com/album/5oUWkx2j4lVO8u7kM3XnJT) | 3:29 | 2025-10-02 | 2025-11-14 |
 | [Alamak Raya Lagi](https://open.spotify.com/track/2W3Kxbmf8FjCKPxUsWMXQi) | [Bravesboy](https://open.spotify.com/artist/2PUWReihDs70AzwDeGEoG1) | [Alamak Raya Lagi](https://open.spotify.com/album/190fO6iMwH3RGccaBmj23e) | 3:38 | 2025-03-06 | 2025-03-28 |
 | [Alasan Klasik](https://open.spotify.com/track/6Y8uDRZYlEkVABLmtjfLlu) | [Clara Riva](https://open.spotify.com/artist/7Gtq2mxSjXQuZx4rtc1L1J) | [Alasan Klasik](https://open.spotify.com/album/1vuWUheHHacrEfeziXf3O2) | 3:35 | 2024-11-07 | 2024-12-13 |

@@ -4,7 +4,7 @@
 
 > The newest arrivals\. Cover: Sean Paul, Stalk Ashley
 
-511 songs - 1 day 0 hr 58 min
+512 songs - 1 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [askeladd](https://open.spotify.com/track/5RvUqHb8YrOvy4V5MWDbX8) | [Kwákz](https://open.spotify.com/artist/2ZNbtfRwBDKN2k8drx3BrX) | [askeladd](https://open.spotify.com/album/4qkITEJJsPI2goRAmui95r) | 2:03 | 2025-12-12 | 2026-01-03 |
 | [At We Feet \(with Damian Marley\)](https://open.spotify.com/track/6DM5avm0wR2u3o4JytFHW2) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [At We Feet \(with Damian Marley\)](https://open.spotify.com/album/4Fg8syQhosyT8TpB8di7w9) | 3:47 | 2026-01-16 | 2026-01-30 |
 | [Aya](https://open.spotify.com/track/61VqWJ5xVGHUnyGv88G9Je) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Aya](https://open.spotify.com/album/5eFYMWVpQ7SL1is1hIitcl) | 2:41 | 2025-11-07 | 2025-11-14 |
+| [B.B.B.](https://open.spotify.com/track/2Vmb54sq94SOhDobcf4gxp) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [B.B.B.](https://open.spotify.com/album/3aS5keGWpo2QNDIGnL2Spd) | 2:20 | 2026-02-27 |  |
 | [BabyGoated](https://open.spotify.com/track/11rX5L5m4Bjn3sJ6xAQg6W) | [Amy Gadiaga](https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x) | [BabyGoated](https://open.spotify.com/album/3PhOU4yafgKTKWOYM0k0yH) | 3:58 | 2025-11-14 | 2025-11-28 |
 | [back two it](https://open.spotify.com/track/7ICiqqSwk8DpT8b1MweYmB) | [Trtl](https://open.spotify.com/artist/5hl4Ds8m0VaToEbZOQDE32) | [back two it](https://open.spotify.com/album/4CiUB1H0CvjTLkpJMIYWvW) | 1:30 | 2026-01-23 | 2026-02-06 |
 | [Backie](https://open.spotify.com/track/033iFTZGmWiVU9hUGBUvO3) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Backie](https://open.spotify.com/album/7y2B2JsFSFKicQzrXz4Msz) | 2:08 | 2026-01-02 | 2026-01-16 |
@@ -296,7 +297,7 @@
 | [Mightjuss](https://open.spotify.com/track/2BCTfnyOqyEq4CmZ3aPjEj) | [Finessekid](https://open.spotify.com/artist/3V0BdWlUGoiNckM4Ivt8HL), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Mightjuss](https://open.spotify.com/album/2HLkZmXUIsWFOwXyP8zJyc) | 2:49 | 2026-01-09 | 2026-01-23 |
 | [Mirrors](https://open.spotify.com/track/2DIwFJ7eGJkFkoRsizD4Qa) | [Devlin](https://open.spotify.com/artist/7Ks3elJhSP20mD04lgiA68), [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [The James Devlin Album](https://open.spotify.com/album/7LWa7tGQ5xEAxX1mlu8aCe) | 3:44 | 2025-11-07 | 2025-11-14 |
 | [Miss You](https://open.spotify.com/track/6JSb9ZQroda8Lgd4rF8o60) | [Ms Ray](https://open.spotify.com/artist/1OwAcRe2gUEpDZhLAkiLRp), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Miss You](https://open.spotify.com/album/1SdzUAaeUy54xHAgWo2Gcg) | 3:44 | 2026-02-13 | 2026-02-20 |
-| [Mission Impossible \- Raw](https://open.spotify.com/track/5TTVPES1GhmkTWOOU1HNvR) | [Ryder](https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb), [MXNO](https://open.spotify.com/artist/1FKB1zYVzrlZPpIrP5teg2) | [RYDERHOOD 2](https://open.spotify.com/album/7e8B78YouQDyU1pH41KQuc) | 3:12 | 2026-02-27 |  |
+| [Mission Impossible \- Raw](https://open.spotify.com/track/5TTVPES1GhmkTWOOU1HNvR) | [Ryder](https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb), [MXNO](https://open.spotify.com/artist/1FKB1zYVzrlZPpIrP5teg2) | [RYDERHOOD 2](https://open.spotify.com/album/7e8B78YouQDyU1pH41KQuc) | 2:02 | 2026-02-27 |  |
 | [MIST IS SPEAKING](https://open.spotify.com/track/3uzdBVWPGR8xdee4r4MxWf) | [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq), [Asher](https://open.spotify.com/artist/27rLoktmo5l6NQ5kSqB8X2) | [MIST IS SPEAKING](https://open.spotify.com/album/1Kx4bEuNUWXYZdo0yMM2Nq) | 3:29 | 2026-01-23 | 2026-01-30 |
 | [MLK.](https://open.spotify.com/track/0n0gZu9UIjWPbkRiI6VxWI) | [ROZZZQWEEN](https://open.spotify.com/artist/7EE9HI3pj86iVpw46vrhh5) | [MLK.](https://open.spotify.com/album/1tbEH1Afqq8HfqNUroq0c5) | 3:38 | 2026-01-23 | 2026-01-30 |
 | [mmpa](https://open.spotify.com/track/7rITBlQ6f6aJukoUJVeTgH) | [kenzo jae](https://open.spotify.com/artist/1649ehpEZceiBKsl19kumf) | [mmpa](https://open.spotify.com/album/0HoxA5EH6JkzgRghxuYoYe) | 3:12 | 2026-01-09 | 2026-01-16 |

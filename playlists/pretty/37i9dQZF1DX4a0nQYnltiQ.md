@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4a0nQYnltiQ.md) - [plain]
 
 > The \#1 Destination for the best melodies in the world\. Cover: Leigh\-Anne
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,634 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,600 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xzS2k.md) - [plain]
 
 > This is Nothing\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,824 likes - 39 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,825 likes - 39 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xzS2k.md) - [plain]
 | 6 | [Catch a Fade](https://open.spotify.com/track/1JXi6OWDS68SIsTF6TJ3Ob) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 3:50 |
 | 7 | [July the Fourth](https://open.spotify.com/track/5jQMGmXgqIszqknvBA65fn) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Whirr & Nothing](https://open.spotify.com/album/6pDNWot4SaDPtMLerJ3AFZ) | 3:40 |
 | 8 | [A.C.D\. \(Abcessive Compulsive Disorder\)](https://open.spotify.com/track/72LCw6fk4YZL5cyoG1TOzU) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 3:39 |
-| 9 | [toothless coal](https://open.spotify.com/track/4P1mMgITKDwL54lRxebGul) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [toothless coal](https://open.spotify.com/album/4mJBkjyYz5842bI63RPXAv) | 3:47 |
-| 10 | [Endlessly](https://open.spotify.com/track/7EzKrIF3T2XqUZfhnHw5CE) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Guilty of Everything](https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6) | 4:13 |
+| 9 | [Endlessly](https://open.spotify.com/track/7EzKrIF3T2XqUZfhnHw5CE) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Guilty of Everything](https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6) | 4:13 |
+| 10 | [toothless coal](https://open.spotify.com/track/4P1mMgITKDwL54lRxebGul) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [toothless coal](https://open.spotify.com/album/4mJBkjyYz5842bI63RPXAv) | 3:47 |
 | 11 | [purple strings](https://open.spotify.com/track/6xn74oHg2FAN4I9ejNajun) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [purple strings](https://open.spotify.com/album/3CRRMLGRHxX1OTF70U6RfH) | 4:42 |
 | 12 | [The Dead Are Dumb](https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 4:30 |
 | 13 | [I Hate the Flowers](https://open.spotify.com/track/6U1BjvVwE9hDCasACGvguA) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 4:21 |
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xzS2k.md) - [plain]
 | 31 | [Guilty of Everything](https://open.spotify.com/track/4X02SJMsjb6KZkH5QaAXGS) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Guilty of Everything](https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6) | 4:23 |
 | 32 | [You Wind Me Up](https://open.spotify.com/track/6yUAD5PO15m2Vc4OZBloQw) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 3:59 |
 | 33 | [Downward Years to Come](https://open.spotify.com/track/32UJl7FXThutfVf3QtBCwS) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 5:08 |
-| 34 | [Rose Tinted World](https://open.spotify.com/track/67vYna8TF0R0kQfN92x933) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 8:11 |
+| 34 | [Wild Blue](https://open.spotify.com/track/2r5JFrwl0quzXoGNSqWqe4) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 4:32 |
 | 35 | [Mine Is Clouds](https://open.spotify.com/track/4yCLoPgF4fv3GRvwKOflMO) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 6:15 |
-| 36 | [Wild Blue](https://open.spotify.com/track/2r5JFrwl0quzXoGNSqWqe4) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 4:32 |
+| 36 | [Rose Tinted World](https://open.spotify.com/track/67vYna8TF0R0kQfN92x933) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 8:11 |
 | 37 | [Suns and Lovers](https://open.spotify.com/track/3lS6ELc4is0o0MO0rveAAc) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 4:44 |
 | 38 | [Spend The Grace](https://open.spotify.com/track/2wcVDlzVPDIGqPbL5Z3lSS) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 5:47 |
 | 39 | [When No Birds Sang](https://open.spotify.com/track/2y6SnKCdLqMycrUq0gJZ7f) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 5:48 |
 
-Snapshot ID: `aZ47gAAAAAA9SfOmez7/mJ8btugdvxqy`
+Snapshot ID: `aZ+NAAAAAAAHfbsjzmE2NE2lGhCkelFG`

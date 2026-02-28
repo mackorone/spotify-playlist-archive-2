@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The world's biggest dance & electronic hits. Cover: Kygo, Gryffin and Khalid",
+  "description": "The world's biggest dance & electronic hits. Cover: Hannah Laing & Marlon Hoffstadt",
   "name": "mint",
   "tracks": [
     {
@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 207804,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/0fFRFFCiaZaExkXRfQyCJE"
@@ -3104,7 +3104,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 172661,
       "name": "Black Out Days (Stay Away)",
       "url": "https://open.spotify.com/track/6r7b1UHvO3fBZe7wBXWTaZ"
@@ -5184,7 +5184,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 216000,
       "name": "CONTROL YOUR BODY",
       "url": "https://open.spotify.com/track/3xTwHPwWKMWrWgyN22Qk2h"
@@ -6892,6 +6892,28 @@
     {
       "album": {
         "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/0194cIBrgVyNYXLk0csjjF"
+      },
+      "artists": [
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175238,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/2JgqwzlOSIxq5WmXKJdnVp"
+    },
+    {
+      "album": {
+        "name": "Don't Stop",
         "url": "https://open.spotify.com/album/0rSgVoJE8fncqD9bJU0Ltq"
       },
       "artists": [
@@ -8521,6 +8543,24 @@
     },
     {
       "album": {
+        "name": "Falling Into Acid Dreams",
+        "url": "https://open.spotify.com/album/4aPvaiQ0Y1X6gWWLf5d7Cu"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244542,
+      "name": "Falling Into Acid Dreams",
+      "url": "https://open.spotify.com/track/10c6UU4DXL2COuDV30tJcJ"
+    },
+    {
+      "album": {
         "name": "Falling Up",
         "url": "https://open.spotify.com/album/6h1MD0mbleCoPXg0FYAEzw"
       },
@@ -8624,7 +8664,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 168000,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/0EYoVxpvCLOoPMYz0ZEexD"
@@ -9064,6 +9104,28 @@
       "duration_ms": 246909,
       "name": "flex fm (freddit)",
       "url": "https://open.spotify.com/track/7qpZh0yIXeZzXZk3mE6Fj9"
+    },
+    {
+      "album": {
+        "name": "Flex It",
+        "url": "https://open.spotify.com/album/4WjCHpeBmDFJOYl3dVP81O"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "\u00c6",
+          "url": "https://open.spotify.com/artist/4Jp6hHKtWHf0Skka44mbJe"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Flex It",
+      "url": "https://open.spotify.com/track/3xuUg8w6c9mXkaCrkhx9Vm"
     },
     {
       "album": {
@@ -10142,6 +10204,24 @@
       "duration_ms": 199520,
       "name": "Getting Ready For The Party",
       "url": "https://open.spotify.com/track/6HUZoMili2b3e6X81OPIQd"
+    },
+    {
+      "album": {
+        "name": "Ghost Dance",
+        "url": "https://open.spotify.com/album/3OCShZ7NWWQIBte2YbBDZB"
+      },
+      "artists": [
+        {
+          "name": "Brunello",
+          "url": "https://open.spotify.com/artist/7FZIk8RSha4GBa4ZEPuytU"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372480,
+      "name": "Ghost Dance",
+      "url": "https://open.spotify.com/track/3x6CEyquRREaQ9ZBbBhrGe"
     },
     {
       "album": {
@@ -14680,7 +14760,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 138020,
       "name": "Kids",
       "url": "https://open.spotify.com/track/5zWgxdYxIQWfn3JY3gogbz"
@@ -16556,7 +16636,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 219023,
       "name": "Lost",
       "url": "https://open.spotify.com/track/1OeW24Ek3LEthuQz1UyYCj"
@@ -17528,7 +17608,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 171521,
       "name": "Match My Mood",
       "url": "https://open.spotify.com/track/1p0lMyesaiu6CH9iqZna0J"
@@ -26057,6 +26137,32 @@
     },
     {
       "album": {
+        "name": "Stomp Your Feet",
+        "url": "https://open.spotify.com/album/45vmjBcHoZfCrChrHFdCoT"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        },
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "Caroline Roxy",
+          "url": "https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210580,
+      "name": "Stomp Your Feet",
+      "url": "https://open.spotify.com/track/494lD6w8j07gDMub1UFd07"
+    },
+    {
+      "album": {
         "name": "Stop Thinking (feat. Lights)",
         "url": "https://open.spotify.com/album/2cC9ykuhZFjOaaytZGRi8K"
       },
@@ -26076,6 +26182,24 @@
       "duration_ms": 292633,
       "name": "Stop Thinking (feat. Lights)",
       "url": "https://open.spotify.com/track/6bfyfZ0UV3K9Broh54iXaw"
+    },
+    {
+      "album": {
+        "name": "stranger",
+        "url": "https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148943,
+      "name": "stranger",
+      "url": "https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK"
     },
     {
       "album": {
@@ -30920,6 +31044,28 @@
       "duration_ms": 228840,
       "name": "Wish You Knew",
       "url": "https://open.spotify.com/track/508Lt6htU4xJEwjHrDL1OD"
+    },
+    {
+      "album": {
+        "name": "WITH ME",
+        "url": "https://open.spotify.com/album/3Ftu3XGiFI03GVosY29p4y"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183271,
+      "name": "WITH ME",
+      "url": "https://open.spotify.com/track/7sMu7u5KzqJLYo9zUDFPFa"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dMFJ2AT5e5.md) - [plain]
 
 > una lloradita y a seguirle 🥲
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,918 likes - 85 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,004 likes - 85 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dMFJ2AT5e5.md) - [plain]
 | 38 | [Saturno](https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Prometo](https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD) | 4:13 |
 | 39 | [Dias Nublados](https://open.spotify.com/track/7xQrt5TkFBBmlTEPJvXTH8) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [MUSICA <3](https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH) | 3:41 |
 | 40 | [Hecho para ti](https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Hecho para ti](https://open.spotify.com/album/19lPl55GNoCaflIzowXkUC) | 2:32 |
-| 41 | [El Amor De Mi Herida](https://open.spotify.com/track/0QCTjU9xOvdDfe9LXEmxeT) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 2:07 |
-| 42 | [Ecos De Amor](https://open.spotify.com/track/3lI5dscCDez8cF6LF3Me7F) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Jesse](https://open.spotify.com/artist/7JmLfOmqdX5WvJ0NmHP4mV) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 3:35 |
+| 41 | [Ecos De Amor](https://open.spotify.com/track/3lI5dscCDez8cF6LF3Me7F) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Jesse](https://open.spotify.com/artist/7JmLfOmqdX5WvJ0NmHP4mV) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 3:35 |
+| 42 | [El Amor De Mi Herida](https://open.spotify.com/track/0QCTjU9xOvdDfe9LXEmxeT) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 2:07 |
 | 43 | [Nunca Es Suficiente](https://open.spotify.com/track/2niUiaoJDCzNldW0pV66zb) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:57 |
 | 44 | [Ropa De Bazar](https://open.spotify.com/track/7kWFRZdedr2gtfE8JDumVZ) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Ropa De Bazar](https://open.spotify.com/album/7z9qYJVpdYt9zplriyrrZI) | 3:17 |
 | 45 | [Lo Que Hay X Aquí](https://open.spotify.com/track/7oJ3N7oVSwoa5sdpg6NCE6) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Pa Mis Compas Y Rolitas Pa Mi Ex](https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU) | 2:38 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dMFJ2AT5e5.md) - [plain]
 | 72 | [Honey, No Estás](https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:27 |
 | 73 | [⁠Aviso importante](https://open.spotify.com/track/2bvaWmdYkg2xPDDxAC8RkD) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Bolela](https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:11 |
 | 74 | [Lejos Estamos Mejor](https://open.spotify.com/track/55VihOj2A4FBGUkJT2yGkJ) | [Motel](https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU) | [Motel](https://open.spotify.com/album/71G82kgmI0r6RipUwPzgZp) | 4:05 |
-| 75 | [DUEÑO DE TI](https://open.spotify.com/track/3fVoK5VLXYksHYMDf16RIT) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [DUEÑO DE TI](https://open.spotify.com/album/0h4n1Mx0fmZQYm27TfS7xR) | 3:32 |
-| 76 | [Amor Ordinario](https://open.spotify.com/track/4WbKmrxCQ8gp8qEjyRpXtb) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:10 |
+| 75 | [Amor Ordinario](https://open.spotify.com/track/4WbKmrxCQ8gp8qEjyRpXtb) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:10 |
+| 76 | [DUEÑO DE TI](https://open.spotify.com/track/3fVoK5VLXYksHYMDf16RIT) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [DUEÑO DE TI](https://open.spotify.com/album/0h4n1Mx0fmZQYm27TfS7xR) | 3:32 |
 | 77 | [La Vida Sin Ti](https://open.spotify.com/track/54qwF6zeJ0zjjcOxFGICli) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [La Vida Sin Ti](https://open.spotify.com/album/5mwQPFwobGNOp9P8I3BeUP) | 2:44 |
 | 78 | [no me siento mejor](https://open.spotify.com/track/7DbSinONBmw1GpwpDgyOR2) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Bambú](https://open.spotify.com/album/1ZSczNCwD6RB33ORwaRoD1) | 3:03 |
 | 79 | [Colapso](https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 3:55 |

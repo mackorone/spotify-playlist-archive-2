@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Neues aus der Welt des Pop. Cover: Mumford & Sons, Gracie Abrams",
+  "description": "Neues aus der Welt des Pop. Cover: BLACKPINK",
   "name": "Pop Brandneu",
   "tracks": [
     {
@@ -10407,6 +10407,24 @@
     },
     {
       "album": {
+        "name": "FEVER DREAM",
+        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153430,
+      "name": "FEVER DREAM",
+      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
+    },
+    {
+      "album": {
         "name": "FICTION",
         "url": "https://open.spotify.com/album/1beFAyrk1kXl23nA0oUJDU"
       },
@@ -12076,6 +12094,24 @@
       "duration_ms": 178352,
       "name": "Glow In The Dark",
       "url": "https://open.spotify.com/track/1V2ND6AWTXlzCnZ1s2klMH"
+    },
+    {
+      "album": {
+        "name": "DEADLINE",
+        "url": "https://open.spotify.com/album/2SrWldMz9dfCB7kAGQNbcC"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195402,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/0mYa3o6tlUN5HRippmKmwH"
     },
     {
       "album": {

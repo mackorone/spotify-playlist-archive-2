@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 397 songs - 1 day 0 hr 19 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 400 songs - 1 day 0 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -405,5 +405,8 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 395 | [Crawl](https://open.spotify.com/track/5wWW7oHGBRgVAaKEoGFvOf) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Jardín](https://open.spotify.com/album/3F10bARKBtqRdRywrjwAti) | 3:50 |
 | 396 | [Vaudeville Villain](https://open.spotify.com/track/6rkV9hz91Rr5iHnMRPZdEQ) | [Viktor Vaughn](https://open.spotify.com/artist/0wIb0PhwT3disoWykRhq6V), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Vaudeville Villain](https://open.spotify.com/album/7HPjcPD2cr8E5oHvVAmBp7) | 2:31 |
 | 397 | [Hourglass](https://open.spotify.com/track/27SUFEhCpOTwYGdvzCbRpK) | [CunninLynguists](https://open.spotify.com/artist/7EA0bLf8dXCIUkwC3lnaJa) | [A Piece Of Strange](https://open.spotify.com/album/03tgCJ19ar8hr39aRSfUIA) | 3:21 |
+| 398 | [The Gates](https://open.spotify.com/track/4eqFO0IoNpksEoZ6ew7Cc8) | [CunninLynguists](https://open.spotify.com/artist/7EA0bLf8dXCIUkwC3lnaJa) | [A Piece Of Strange](https://open.spotify.com/album/03tgCJ19ar8hr39aRSfUIA) | 4:04 |
+| 399 | [Get Hi](https://open.spotify.com/track/7kKEXvq4NQ9OatQs906MGV) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd) | [Atrocity Exhibition](https://open.spotify.com/album/3e7vtKJ3m1zVh38VGq2g3H) | 3:33 |
+| 400 | [Golden Boys](https://open.spotify.com/track/0nFu0CiLJGf3qw9t08Mm8L) | [Res](https://open.spotify.com/artist/56YiNz2C704YPpRtPvMBg7) | [How I Do](https://open.spotify.com/album/4u50iZ3xFs19AxPRmakPYa) | 4:38 |
 
-Snapshot ID: `AAAfyJbDruosOlIwuLXo0KQaj2P9IwHT`
+Snapshot ID: `AAAfyz6yY9/1gVi5Jwjhvy+xVFqGIP1e`

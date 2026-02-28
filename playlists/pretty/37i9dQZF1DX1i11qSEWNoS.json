@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 641846,
+  "num_followers": 641888,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
-        "name": "Running Around",
-        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 124620,
-      "name": "Running Around",
-      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
-    },
-    {
-      "added_at": "2026-02-26 23:00:35",
-      "album": {
         "name": "Mockingbird",
         "url": "https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 154838,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG"
+    },
+    {
+      "added_at": "2026-02-26 23:00:35",
+      "album": {
+        "name": "Running Around",
+        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 124620,
+      "name": "Running Around",
+      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
     },
     {
       "added_at": "2026-02-26 23:00:35",
@@ -603,6 +603,42 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
+        "name": "LET'S GO",
+        "url": "https://open.spotify.com/album/7sma9kYAXjPX6ABANXmCbe"
+      },
+      "artists": [
+        {
+          "name": "Jaden Bojsen",
+          "url": "https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg"
+        },
+        {
+          "name": "Sami Brielle",
+          "url": "https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK"
+        }
+      ],
+      "duration_ms": 193091,
+      "name": "LET'S GO",
+      "url": "https://open.spotify.com/track/20Y4EAmSXru3foatDg4OqN"
+    },
+    {
+      "added_at": "2026-02-26 23:00:35",
+      "album": {
+        "name": "Baby Bell",
+        "url": "https://open.spotify.com/album/57kEzJP6946zerd9ut7aMF"
+      },
+      "artists": [
+        {
+          "name": "Breitner",
+          "url": "https://open.spotify.com/artist/51nc2EzirxJ4U2nqjXezl6"
+        }
+      ],
+      "duration_ms": 159565,
+      "name": "Baby Bell",
+      "url": "https://open.spotify.com/track/6790Rqyau5Ol6mxj2UbTP3"
+    },
+    {
+      "added_at": "2026-02-26 23:00:35",
+      "album": {
         "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
         "url": "https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF"
       },
@@ -635,42 +671,6 @@
       "duration_ms": 177291,
       "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
       "url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg"
-    },
-    {
-      "added_at": "2026-02-26 23:00:35",
-      "album": {
-        "name": "Baby Bell",
-        "url": "https://open.spotify.com/album/57kEzJP6946zerd9ut7aMF"
-      },
-      "artists": [
-        {
-          "name": "Breitner",
-          "url": "https://open.spotify.com/artist/51nc2EzirxJ4U2nqjXezl6"
-        }
-      ],
-      "duration_ms": 159565,
-      "name": "Baby Bell",
-      "url": "https://open.spotify.com/track/6790Rqyau5Ol6mxj2UbTP3"
-    },
-    {
-      "added_at": "2026-02-26 23:00:35",
-      "album": {
-        "name": "LET'S GO",
-        "url": "https://open.spotify.com/album/7sma9kYAXjPX6ABANXmCbe"
-      },
-      "artists": [
-        {
-          "name": "Jaden Bojsen",
-          "url": "https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg"
-        },
-        {
-          "name": "Sami Brielle",
-          "url": "https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK"
-        }
-      ],
-      "duration_ms": 193091,
-      "name": "LET'S GO",
-      "url": "https://open.spotify.com/track/20Y4EAmSXru3foatDg4OqN"
     },
     {
       "added_at": "2026-02-26 23:00:35",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
-        "name": "Schnelle Brille",
-        "url": "https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5"
-      },
-      "artists": [
-        {
-          "name": "Nancy Franck",
-          "url": "https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD"
-        }
-      ],
-      "duration_ms": 137125,
-      "name": "Schnelle Brille",
-      "url": "https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z"
-    },
-    {
-      "added_at": "2026-02-26 23:00:35",
-      "album": {
         "name": "Man On The Moon: The End Of Day (Int'l Version)",
         "url": "https://open.spotify.com/album/6oPPKtAwNNlkW4wwHfQDfM"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 281746,
       "name": "Day 'N' Nite - Crookers Remix",
       "url": "https://open.spotify.com/track/34sGnIHB3ZthMvHpNX1i7e"
+    },
+    {
+      "added_at": "2026-02-26 23:00:35",
+      "album": {
+        "name": "Schnelle Brille",
+        "url": "https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5"
+      },
+      "artists": [
+        {
+          "name": "Nancy Franck",
+          "url": "https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD"
+        }
+      ],
+      "duration_ms": 137125,
+      "name": "Schnelle Brille",
+      "url": "https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z"
     },
     {
       "added_at": "2026-02-26 23:00:35",
@@ -1347,22 +1347,18 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
-        "name": "Motto",
-        "url": "https://open.spotify.com/album/279qpRKsE7c6mv0U3I3BGP"
+        "name": "Biertornado",
+        "url": "https://open.spotify.com/album/7kqjQTEMO3k9IhKa41ADZK"
       },
       "artists": [
         {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
-        },
-        {
-          "name": "2 Engel & Charlie",
-          "url": "https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA"
+          "name": "PA69",
+          "url": "https://open.spotify.com/artist/1f3unG8ouGKD4s3iscIA5h"
         }
       ],
-      "duration_ms": 161392,
-      "name": "Motto",
-      "url": "https://open.spotify.com/track/0yeFZfAw5Ua5JMon1v46GZ"
+      "duration_ms": 218417,
+      "name": "Biertornado",
+      "url": "https://open.spotify.com/track/5u7QargOKXO82nXcAU9s8L"
     },
     {
       "added_at": "2026-02-26 23:00:35",
@@ -1407,18 +1403,22 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
-        "name": "Biertornado",
-        "url": "https://open.spotify.com/album/7kqjQTEMO3k9IhKa41ADZK"
+        "name": "Motto",
+        "url": "https://open.spotify.com/album/279qpRKsE7c6mv0U3I3BGP"
       },
       "artists": [
         {
-          "name": "PA69",
-          "url": "https://open.spotify.com/artist/1f3unG8ouGKD4s3iscIA5h"
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        },
+        {
+          "name": "2 Engel & Charlie",
+          "url": "https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA"
         }
       ],
-      "duration_ms": 218417,
-      "name": "Biertornado",
-      "url": "https://open.spotify.com/track/5u7QargOKXO82nXcAU9s8L"
+      "duration_ms": 161392,
+      "name": "Motto",
+      "url": "https://open.spotify.com/track/0yeFZfAw5Ua5JMon1v46GZ"
     },
     {
       "added_at": "2026-02-26 23:00:35",
@@ -1667,22 +1667,18 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
-        "name": "MONEY ON THE DASH",
-        "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
+        "name": "Cooler Than Me",
+        "url": "https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP"
       },
       "artists": [
         {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        },
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+          "name": "Lucky Luke",
+          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
         }
       ],
-      "duration_ms": 116465,
-      "name": "MONEY ON THE DASH - SPED UP",
-      "url": "https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN"
+      "duration_ms": 179760,
+      "name": "Cooler Than Me",
+      "url": "https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz"
     },
     {
       "added_at": "2026-02-26 23:00:35",
@@ -1707,18 +1703,22 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
-        "name": "Cooler Than Me",
-        "url": "https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP"
+        "name": "MONEY ON THE DASH",
+        "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
       },
       "artists": [
         {
-          "name": "Lucky Luke",
-          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
         }
       ],
-      "duration_ms": 179760,
-      "name": "Cooler Than Me",
-      "url": "https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz"
+      "duration_ms": 116465,
+      "name": "MONEY ON THE DASH - SPED UP",
+      "url": "https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN"
     },
     {
       "added_at": "2026-02-26 23:00:35",
@@ -1815,26 +1815,6 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
-        "name": "Sar\u00e0 Perch\u00e9 Ti Amo (Stereoact Remix)",
-        "url": "https://open.spotify.com/album/15GmPCNdbwRiGpK6DjtpQX"
-      },
-      "artists": [
-        {
-          "name": "DJ Redblack",
-          "url": "https://open.spotify.com/artist/3YwK1Kk8VSAtowOX2lRO0c"
-        },
-        {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
-        }
-      ],
-      "duration_ms": 122585,
-      "name": "Sar\u00e0 Perch\u00e9 Ti Amo - Stereoact Remix",
-      "url": "https://open.spotify.com/track/7DK22gpHTmpLocUUJgddzk"
-    },
-    {
-      "added_at": "2026-02-26 23:00:35",
-      "album": {
         "name": "Gianna (Harris & Ford x BIG TIM Remix)",
         "url": "https://open.spotify.com/album/4WlOuhtP3XtVMX28n3YBVH"
       },
@@ -1855,6 +1835,26 @@
       "duration_ms": 145241,
       "name": "Gianna - Harris & Ford x BIG TIM Remix",
       "url": "https://open.spotify.com/track/52lF2brp2QBZRcIlB0GJe4"
+    },
+    {
+      "added_at": "2026-02-26 23:00:35",
+      "album": {
+        "name": "Sar\u00e0 Perch\u00e9 Ti Amo (Stereoact Remix)",
+        "url": "https://open.spotify.com/album/15GmPCNdbwRiGpK6DjtpQX"
+      },
+      "artists": [
+        {
+          "name": "DJ Redblack",
+          "url": "https://open.spotify.com/artist/3YwK1Kk8VSAtowOX2lRO0c"
+        },
+        {
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+        }
+      ],
+      "duration_ms": 122585,
+      "name": "Sar\u00e0 Perch\u00e9 Ti Amo - Stereoact Remix",
+      "url": "https://open.spotify.com/track/7DK22gpHTmpLocUUJgddzk"
     }
   ],
   "unique_name": "schiebt anders",

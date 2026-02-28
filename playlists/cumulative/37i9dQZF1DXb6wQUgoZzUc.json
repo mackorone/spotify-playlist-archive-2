@@ -1228,7 +1228,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 187466,
       "name": "BANSHEE",
       "url": "https://open.spotify.com/track/2phA5dZJrWqOBrOHFAgrjQ"
@@ -2759,6 +2759,32 @@
     },
     {
       "album": {
+        "name": "Dale s\u00fabete",
+        "url": "https://open.spotify.com/album/5yQmR9kIj0RfVkYTOgFfDY"
+      },
+      "artists": [
+        {
+          "name": "Joss ML",
+          "url": "https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA"
+        },
+        {
+          "name": "Enayy",
+          "url": "https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ"
+        },
+        {
+          "name": "Dj Jester",
+          "url": "https://open.spotify.com/artist/3acXvaPqSOwM7EabXX0225"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Dale s\u00fabete",
+      "url": "https://open.spotify.com/track/5IQbYsIvLlluGqVoOxm3rJ"
+    },
+    {
+      "album": {
         "name": "Dalo TO\u00b4",
         "url": "https://open.spotify.com/album/7l1vQiVoIhoqw5ftPP0ySj"
       },
@@ -3602,7 +3628,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 88798,
       "name": "El Trote",
       "url": "https://open.spotify.com/track/4r0Z65yr2es49w85G2tB16"
@@ -5365,6 +5391,28 @@
     },
     {
       "album": {
+        "name": "klk klwa",
+        "url": "https://open.spotify.com/album/5s2eURHjxbxfQ5OQ9cNvFI"
+      },
+      "artists": [
+        {
+          "name": "geomafia",
+          "url": "https://open.spotify.com/artist/2mzrWihYniKXcK0vNi9UUh"
+        },
+        {
+          "name": "The Ozakis",
+          "url": "https://open.spotify.com/artist/0x5KKxRIyIvaM5KQOdiLUS"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163882,
+      "name": "klk klwa",
+      "url": "https://open.spotify.com/track/3VU5D7slCHrUqyvxsiEcNf"
+    },
+    {
+      "album": {
         "name": "De Chava",
         "url": "https://open.spotify.com/album/44pDDIFsx4YTZkKPErlEtn"
       },
@@ -5965,6 +6013,32 @@
     },
     {
       "album": {
+        "name": "SUPERARTE",
+        "url": "https://open.spotify.com/album/2HcMhHy9j2nCoerGQLJe9g"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188936,
+      "name": "LA SENSA DEL PARTY",
+      "url": "https://open.spotify.com/track/7zGbowLpdK0N2zY5Y4lACA"
+    },
+    {
+      "album": {
         "name": "La Single",
         "url": "https://open.spotify.com/album/3tRChQRAml4AQlJjRmK3dc"
       },
@@ -6028,7 +6102,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 180520,
       "name": "La T\u00f3xica",
       "url": "https://open.spotify.com/track/15OjBeqNX3bShsGYQbteRv"

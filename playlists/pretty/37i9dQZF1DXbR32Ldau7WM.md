@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > J\-Rock acts who have broken the border and are making global impact\.   Cover: FINLANDS
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,826 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,831 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 61 | [夢幻](https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [夢幻](https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ) | 4:01 |
 | 62 | [風神](https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [風神](https://open.spotify.com/album/2dkncPeCSULjpH34voco0k) | 3:55 |
 | 63 | [breakfast](https://open.spotify.com/track/7BPgsEG645OAnpetcBbLrZ) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [breakfast](https://open.spotify.com/album/09JHBF2CtK8UUhcvot8ZGX) | 3:48 |
-| 64 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 |
-| 65 | [君と羊と青](https://open.spotify.com/track/17A3UTMUWzCRn7I42exBhF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [絶体絶命](https://open.spotify.com/album/17cNTH9fRan9G3GgH3CFgm) | 2:42 |
+| 64 | [君と羊と青](https://open.spotify.com/track/17A3UTMUWzCRn7I42exBhF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [絶体絶命](https://open.spotify.com/album/17cNTH9fRan9G3GgH3CFgm) | 2:42 |
+| 65 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 |
 | 66 | [SAIKAI](https://open.spotify.com/track/1TmMyrEWgX3WILJsOD0IBp) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [SAIKAI](https://open.spotify.com/album/2RKi8T2aaDNqLUGBccG3N3) | 5:23 |
 | 67 | [再会](https://open.spotify.com/track/7c1icp8E7aYG90vA3wo3Se) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [再会](https://open.spotify.com/album/7dGOGN5Fomqi84zOzyVKva) | 4:20 |
 | 68 | [ミュージック](https://open.spotify.com/track/21kn2sWOZANPZHGOpW7pG9) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [sakanaction](https://open.spotify.com/album/6fCKQaXvHahkOfGO0BvGSr) | 5:22 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 88 | [美しい鰭](https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [美しい鰭](https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9) | 3:29 |
 | 89 | [from me to u \(feat\. Poppy\)](https://open.spotify.com/track/6ILVeNgfsOG41ioscRql5P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [from me to u \(feat\. Poppy\)](https://open.spotify.com/album/2oxRRkR4Rj2aPCB63NsjZn) | 3:24 |
 | 90 | [あなたに](https://open.spotify.com/track/1egQB7JmuDdaWdWtODlrja) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [MESSAGE](https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2) | 3:15 |
-| 91 | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \- TV edit](https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \(TV edit\)](https://open.spotify.com/album/22bkV1gcP9weQRmRktdCM4) | 1:29 |
-| 92 | [Delusion:All](https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Delusion:All](https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61) | 3:04 |
+| 91 | [Delusion:All](https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Delusion:All](https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61) | 3:04 |
+| 92 | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \- TV edit](https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \(TV edit\)](https://open.spotify.com/album/22bkV1gcP9weQRmRktdCM4) | 1:29 |
 | 93 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 |
 | 94 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 |
 | 95 | [最大公約数](https://open.spotify.com/track/5oA6WuNqODuCtRF3YCSoka) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [最大公約数](https://open.spotify.com/album/3ALe5XivCiHvzJ9mST3bMS) | 4:35 |
 | 96 | [恥ずかしいか青春は](https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [恥ずかしいか青春は](https://open.spotify.com/album/2LJwdbcSoc4PwemsUj93xW) | 4:29 |
-| 97 | [突破口](https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [アイラヴユー](https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs) | 4:13 |
-| 98 | [EVER](https://open.spotify.com/track/0IQLk94VE32tdGlC7lUsPW) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EVER](https://open.spotify.com/album/3sA5Hdfaqv5XKc1ujCPTYS) | 4:02 |
+| 97 | [EVER](https://open.spotify.com/track/0IQLk94VE32tdGlC7lUsPW) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EVER](https://open.spotify.com/album/3sA5Hdfaqv5XKc1ujCPTYS) | 4:02 |
+| 98 | [突破口](https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [アイラヴユー](https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs) | 4:13 |
 | 99 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 |
-| 100 | [うるわし](https://open.spotify.com/track/5kvESVLeUE6ldAIYpBcstS) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [うるわし](https://open.spotify.com/album/4cnaJ9wIlBUVnZJLsPg9Q4) | 4:00 |
+| 100 | [Seasons](https://open.spotify.com/track/0jOFKglRHghXaYmPT0ys01) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Seasons](https://open.spotify.com/album/7MeKYsRWWQHQE8PKUJauNZ) | 3:38 |
 
 Snapshot ID: `AAAAAI4MGCoM3FCVGOgjijJwcXyVYJOi`

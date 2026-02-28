@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.
 
-573 songs - 1 day 8 hr 12 min
+574 songs - 1 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Boquita de Caramelo](https://open.spotify.com/track/1BQ0w7Dhgo9BeUeq0zfM1a) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 3:26 | 2022-01-21 |  |
 | [Borracho](https://open.spotify.com/track/7FdNfqIn8z06rVsAnqASrx) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Borracho](https://open.spotify.com/album/02Pflv12FdcVuONRElkjio) | 4:26 | 2025-02-21 | 2025-03-01 |
 | [BORRACHO Y LOCO](https://open.spotify.com/track/2UIFEzinNxkSv9fY93SYhx) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [BORRACHO Y LOCO](https://open.spotify.com/album/1wHiSIZldLNeICiNOABSLT) | 3:52 | 2024-10-04 |  |
-| [Buscando Otro Amor](https://open.spotify.com/track/5GktPnJ8W17lKXWnVwgD48) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [Buscando Otro Amor](https://open.spotify.com/album/2ijKJw1PlaNq0wIXL7fNiK) | 2:27 | 2024-05-17 |  |
+| [Buscando Otro Amor](https://open.spotify.com/track/5GktPnJ8W17lKXWnVwgD48) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [Buscando Otro Amor](https://open.spotify.com/album/2ijKJw1PlaNq0wIXL7fNiK) | 2:27 | 2024-05-17 | 2026-02-28 |
 | [Búscate Un Hombre Que Te Quiera](https://open.spotify.com/track/6LEg2KW6MfHZ4cFvPqaxnZ) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Búscate Un Hombre Que Te Quiera](https://open.spotify.com/album/2vTqXeZ4dNboPFqcc9StmO) | 3:01 | 2022-01-21 | 2023-01-15 |
 | [Caballitos de Mar](https://open.spotify.com/track/0aaDDIeUNnSH7hRDa4tOd8) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi), [Mika](https://open.spotify.com/artist/5JWQJWjXkGBCVNpomR4HSx) | [Caballitos de Mar](https://open.spotify.com/album/6h5O4VNQjWP1MyPlj57Bug) | 3:19 | 2022-04-29 | 2022-05-25 |
 | [Cartas de Verano](https://open.spotify.com/track/3uOEWxeR6DXatAYyO6PIUE) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X) | [Cartas de Verano](https://open.spotify.com/album/6VjbHJWar0lhRJueKMi28A) | 4:24 | 2024-02-16 | 2024-02-24 |
@@ -108,6 +108,7 @@
 | [Costumbres](https://open.spotify.com/track/0Q4VRYG0RySZ7zlGNkSUIM) | [Sonora Skandalo](https://open.spotify.com/artist/60El5gpHTkzTCmrNz0VG7i) | [Grandes Éxitos](https://open.spotify.com/album/5HGlQIKLTH8dFlidOsY9VD) | 3:26 | 2022-01-14 | 2022-07-29 |
 | [Cuando Me Enamoro](https://open.spotify.com/track/4QSaCbivt89xwh4eoB1sHk) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Sin Límites](https://open.spotify.com/album/7byUfllvPOAzXv5prxNauR) | 2:54 | 2022-01-14 | 2022-07-29 |
 | [Cuando Me Enamoro](https://open.spotify.com/track/03wQrSM0nV1WyPIgWvapG4) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Éxitos de Oro](https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK) | 2:54 | 2022-07-22 | 2024-04-19 |
+| [Cuando Sea Conmigo](https://open.spotify.com/track/4FeIKd4S3ihhzlYorunZfs) | [Diel Paris](https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA), [Quintana Musik](https://open.spotify.com/artist/5SGinZXSIoY7elh3aNVqKu) | [Cuando Sea Conmigo](https://open.spotify.com/album/7dZ5MenVbYqobkijuz0uFf) | 3:20 | 2026-02-27 |  |
 | [Cuanto Te Quiero](https://open.spotify.com/track/6pFtckyqZ1TZivTyHudgXq) | [Los Tiranos](https://open.spotify.com/artist/5CiyC1jDIrnOvvtmX2OwLZ) | [Cuanto Te Quiero](https://open.spotify.com/album/4FR6ToYaoCyrPf860qT9rS) | 2:56 | 2022-03-04 | 2022-03-09 |
 | [Cuatro Palabras](https://open.spotify.com/track/5vpiTOI6ZLW7Xln8ua0jzf) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Cuatro Palabras](https://open.spotify.com/album/4scENuMvXODp3Uzi54qLqc) | 3:56 | 2022-08-12 | 2022-09-19 |
 | [Cuentame](https://open.spotify.com/track/6DgXrxZez4Q5e8EWnKvZRa) | [Karavana Quartetera](https://open.spotify.com/artist/6fJEIea2BOriiJ2G6W0rAB), [Lucia Juarez](https://open.spotify.com/artist/0DuCIstBV9GAgtwChOcRlv), [Cristian Juarez](https://open.spotify.com/artist/2NLY4m5RQ4KpghXR6qbWg6) | [Cuentame](https://open.spotify.com/album/7puQ9ImENk44WKxA1k70RD) | 2:58 | 2022-04-01 | 2022-05-29 |

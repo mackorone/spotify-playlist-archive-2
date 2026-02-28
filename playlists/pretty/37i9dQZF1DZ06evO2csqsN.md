@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 
 > This is Latto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,630 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,640 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 18 | [Georgia Peach](https://open.spotify.com/track/3UidcB20Bb0f9WGZ08TNCL) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:27 |
 | 19 | [I Just Called](https://open.spotify.com/track/0H8Tclo4x4kbZruQtZFNSX) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [I Just Called](https://open.spotify.com/album/4Qq3n68D2ktEi0eHFMdpSp) | 2:30 |
 | 20 | [Go Crazy \(Remix\) \(feat\. Young Thug, Future, Lil Durk & Latto\)](https://open.spotify.com/track/1Jz1yhcPm1Yt6aoed3zact) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Go Crazy \(Remix\) \(feat\. Young Thug, Future, Lil Durk & Latto\)](https://open.spotify.com/album/57mRzPwzFz7cnnuDM4rHMU) | 3:47 |
-| 21 | [PROCEDURE \(feat\. Latto\)](https://open.spotify.com/track/0NrMjaEIssvhuzUhQOEwmJ) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:54 |
+| 21 | [Didn't Say \(feat\. Latto\)](https://open.spotify.com/track/1XYlc4sA6LaCEqEtG2VfYf) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 4:05 |
 | 22 | [Chicken Grease](https://open.spotify.com/track/5BsGbw1doMaFghuOMkkiJB) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/78bwcxLYi7vPZ2eCL9Vtvp) | 2:41 |
-| 23 | [Didn't Say \(feat\. Latto\)](https://open.spotify.com/track/1XYlc4sA6LaCEqEtG2VfYf) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 4:05 |
+| 23 | [PROCEDURE \(feat\. Latto\)](https://open.spotify.com/track/0NrMjaEIssvhuzUhQOEwmJ) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:54 |
 | 24 | [Sunday Service](https://open.spotify.com/track/1ytVc8fTgA7hAOOR0n4EH7) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sunday Service](https://open.spotify.com/album/5ayh7q1xq1jFa3QsmE3M7n) | 2:46 |
 | 25 | [Peaches & Eggplants \(feat\. Latto & Sexyy Red\)](https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Peaches & Eggplants \(feat\. Latto & Sexyy Red\)](https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj) | 3:37 |
 | 26 | [Look What You Did \(feat\. Mariah the Scientist\)](https://open.spotify.com/track/0oVazidxG4n1IZXv1Mizux) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 49 | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm) | 2:56 |
 | 50 | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB) | 2:25 |
 
-Snapshot ID: `aZ47gAAAAADmtdf8kGseUpB70Vwn1so4`
+Snapshot ID: `aZ+NAAAAAAAtGsOnx0QzY1m10+TgAuDb`

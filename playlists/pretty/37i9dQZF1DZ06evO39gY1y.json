@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 254059,
+  "num_followers": 254100,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAADuj9l6O8ERxLpzNmrfGeGE",
+  "snapshot_id": "aZ+NAAAAAAD8QV4mXBImWIvF5yzpqvbY",
   "tracks": [
     {
       "added_at": null,
@@ -647,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Olvidemos el Reloj",
-        "url": "https://open.spotify.com/album/0SoOGrJ6Rs2Zm7t9rlr5kr"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "M2H",
-          "url": "https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi"
-        }
-      ],
-      "duration_ms": 232947,
-      "name": "Olvidemos el Reloj",
-      "url": "https://open.spotify.com/track/57czCt4GTuasg1JRAg9lc9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hasta Que la Muerte Nos Separe",
         "url": "https://open.spotify.com/album/04MJFDXcwKuZizmnMKqyhb"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 232500,
       "name": "Hasta Que la Muerte Nos Separe",
       "url": "https://open.spotify.com/track/1cUPGG5tSWperOT9a7zZz3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Olvidemos el Reloj",
+        "url": "https://open.spotify.com/album/0SoOGrJ6Rs2Zm7t9rlr5kr"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "M2H",
+          "url": "https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi"
+        }
+      ],
+      "duration_ms": 232947,
+      "name": "Olvidemos el Reloj",
+      "url": "https://open.spotify.com/track/57czCt4GTuasg1JRAg9lc9"
     },
     {
       "added_at": null,
@@ -899,30 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MPNV (Mudarnos para No Volver)",
-        "url": "https://open.spotify.com/album/0dnFtQd5hZJJFZsUDhigU4"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Samtwenty",
-          "url": "https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO"
-        },
-        {
-          "name": "SANTU",
-          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "Despu\u00e9s de la Tormenta",
-      "url": "https://open.spotify.com/track/32rNUR1LvC7gIsVDv0rZqL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00d3rbitas",
         "url": "https://open.spotify.com/album/3N3VyxZUijgbxTXdCECuK4"
       },
@@ -943,6 +919,30 @@
       "duration_ms": 209737,
       "name": "Ma\u00f1ana Vas a Estar Ausente",
       "url": "https://open.spotify.com/track/23LJH1g8mvoynusQzCG7ud"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MPNV (Mudarnos para No Volver)",
+        "url": "https://open.spotify.com/album/0dnFtQd5hZJJFZsUDhigU4"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Samtwenty",
+          "url": "https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO"
+        },
+        {
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "Despu\u00e9s de la Tormenta",
+      "url": "https://open.spotify.com/track/32rNUR1LvC7gIsVDv0rZqL"
     },
     {
       "added_at": null,

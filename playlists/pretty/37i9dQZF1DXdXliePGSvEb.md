@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favourite electronic songs from around the world this year\. Cover: KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,497 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,498 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 24 | [Romance](https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Romance](https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3) | 4:16 |
 | 25 | [A Deeper Life](https://open.spotify.com/track/2BeFVOi5hh545rnHTmDmPF) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Isaac Aesili](https://open.spotify.com/artist/3zEfsUok55Gll9L0YN2YOE) | [A Deeper Life](https://open.spotify.com/album/5XyoQf6GrQHZgLkRMXfF5F) | 8:04 |
 | 26 | [Into Dust \(Still Falling\)](https://open.spotify.com/track/4kd3HIkMbwO4sVgkYkrBGo) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Into Dust \(Still Falling\)](https://open.spotify.com/album/407vGRsnaFAEBtYFRNsid0) | 5:33 |
-| 27 | [Dream Night](https://open.spotify.com/track/2DewmibGFWxakcxvVyf2Tv) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Dream Night](https://open.spotify.com/album/1sggIBo9jEoQFrX4ApjCD3) | 4:27 |
-| 28 | [Air](https://open.spotify.com/track/1hGFbfiUfo4xVIR0R706rR) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [FOREVER](https://open.spotify.com/album/45eDwIUGCbJKLNGwXj00Jh) | 3:42 |
+| 27 | [Air](https://open.spotify.com/track/1hGFbfiUfo4xVIR0R706rR) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [FOREVER](https://open.spotify.com/album/45eDwIUGCbJKLNGwXj00Jh) | 3:42 |
+| 28 | [Dream Night](https://open.spotify.com/track/2DewmibGFWxakcxvVyf2Tv) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Dream Night](https://open.spotify.com/album/1sggIBo9jEoQFrX4ApjCD3) | 4:27 |
 | 29 | [Hold On](https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Hold On](https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs) | 4:09 |
 | 30 | [START UP A RUMOUR](https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [START UP A RUMOUR](https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt) | 3:20 |
 | 31 | [Monsoon](https://open.spotify.com/track/1JUzQ21p11mRdSkNVibKtx) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [DUMB](https://open.spotify.com/album/7e7r5fXrnD2eRJEZ6DVnKs) | 2:50 |
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 53 | [TANK IT](https://open.spotify.com/track/4ubO4kObhIGP6kHN1QPE3r) | [Sentimento](https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa) | [TANK IT](https://open.spotify.com/album/081KqR46idkIxhnf5TgQLD) | 2:37 |
 | 54 | [Buschtaxi](https://open.spotify.com/track/1GLWfcqdlEedcZ0KywSrf9) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Music Can Hear Us](https://open.spotify.com/album/6Jq7lj2FjFmUuTjQllSTL0) | 8:36 |
 | 55 | [Bailarina](https://open.spotify.com/track/0bjU18qoUNAJbZm9zz2OeX) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual II](https://open.spotify.com/album/2x2mFRvZa0njVoPaWE2BTK) | 4:05 |
-| 56 | [Sad Piano House](https://open.spotify.com/track/5aoW3sHEi8uBBYEQyC16i9) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Sad Piano House](https://open.spotify.com/album/5RqK2ppKKTOIZbCl9wNbtv) | 5:05 |
+| 56 | [Manía](https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE), [Jazz Alonso](https://open.spotify.com/artist/7eSY3eOVSH5SLYU0BV9sCY) | [Manía](https://open.spotify.com/album/6Q7DhlfnFSV2LM4J2hvHMy) | 2:51 |
 | 57 | [Big Boy Tracks](https://open.spotify.com/track/0jplL1GF7TuyqR6kAe2ikh) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Big Boy Tracks](https://open.spotify.com/album/2Q9pKNTfIKEe1vRoe7vwWK) | 3:41 |
-| 58 | [Manía](https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE), [Jazz Alonso](https://open.spotify.com/artist/7eSY3eOVSH5SLYU0BV9sCY) | [Manía](https://open.spotify.com/album/6Q7DhlfnFSV2LM4J2hvHMy) | 2:51 |
+| 58 | [Sad Piano House](https://open.spotify.com/track/5aoW3sHEi8uBBYEQyC16i9) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Sad Piano House](https://open.spotify.com/album/5RqK2ppKKTOIZbCl9wNbtv) | 5:05 |
 | 59 | [Groove On](https://open.spotify.com/track/0iCRScqAaVd4VZlXpJLtHH) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Avangart Tabldot](https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX) | [Groove On](https://open.spotify.com/album/3gcuJIU2Tw2SrMkjCgzqWZ) | 3:29 |
 | 60 | [Without You](https://open.spotify.com/track/7Ksw8nf3U4g8rcJOoFkxaT) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [Without You](https://open.spotify.com/album/5PlzsOCOn76AF8NnmjScU8) | 3:55 |
 | 61 | [Ghost Orchid](https://open.spotify.com/track/69XAj1JQEIsziJbLR8B7AD) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [A Tropical Entropy](https://open.spotify.com/album/2nzRzw1h5j5Kr6QTjlR3es) | 4:08 |

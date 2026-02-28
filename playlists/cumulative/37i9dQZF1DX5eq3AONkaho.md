@@ -4,7 +4,7 @@
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무 & 공부시간을 보내세요!\)
 
-1,140 songs - 2 day 14 hr 39 min
+1,141 songs - 2 day 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [BOP BOP!](https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 1st Mini Album 'Beam Of Prism'](https://open.spotify.com/album/1SO45pKRdNI74Rdx7Hynh2) | 3:39 | 2022-02-16 | 2025-01-04 |
 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 | 2025-02-11 |  |
 | [BOSS](https://open.spotify.com/track/0ErzcmZ2gIwX7X0xSMQPix) | [NCT](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG), [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT 2018 EMPATHY](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) | 3:30 | 2021-11-17 |  |
+| [BOTH SIDES](https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK) | [NCT JNJM](https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H) | [BOTH SIDES \- The 1st Mini Album](https://open.spotify.com/album/6bRPrpiUj5AFPkJLcIfMQh) | 2:51 | 2026-02-27 |  |
 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 3:49 | 2022-07-08 | 2024-04-19 |
 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/5KawlOMHjWeUjQtnuRs22c) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/1AvXa8xFEXtR3hb4bgihIK) | 3:49 | 2021-11-17 | 2022-07-28 |
 | [Boyfriend](https://open.spotify.com/track/5n1tIwuiCnsNWrJvBSpENm) | [cignature](https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ) | [cignature 2nd EP Album 'Dear Diary Moment'](https://open.spotify.com/album/0aTFAjXc6DQuBiJt3WePb9) | 3:18 | 2022-02-03 | 2022-07-29 |
@@ -606,7 +607,7 @@
 | [like JENNIE](https://open.spotify.com/track/0DC62SYIRKMFgx2f7OyvwD) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1W7dufIS79lk01w3tBAGe5) | 2:03 | 2025-04-18 | 2025-06-13 |
 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 | 2025-05-08 |  |
 | [Like Magic](https://open.spotify.com/track/1bN4ejW5IMmL4CRVG6Fxfk) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B), [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Like Magic](https://open.spotify.com/album/5bp8pvBXLoluC3mXfTccfm) | 2:44 | 2024-03-27 | 2025-04-19 |
-| [LIKE YOU BETTER](https://open.spotify.com/track/7t4Z19BqZ23ExgdiOP0nf6) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [From Our 20's](https://open.spotify.com/album/3jGURiEnUi4OoN879bBz0V) | 3:05 | 2025-06-27 |  |
+| [LIKE YOU BETTER](https://open.spotify.com/track/7t4Z19BqZ23ExgdiOP0nf6) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [From Our 20's](https://open.spotify.com/album/3jGURiEnUi4OoN879bBz0V) | 3:05 | 2025-06-27 | 2026-02-28 |
 | [LILAC](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:34 | 2021-11-17 |  |
 | [Lil’ Touch](https://open.spotify.com/track/4D5Ode2OfZMxIwQyvmhUe8) | [Girls' Generation\-Oh!GG](https://open.spotify.com/artist/1foL9hLC9M6U94dINtOYfb) | [Lil' Touch \- The 1st Single](https://open.spotify.com/album/6369mPjmE105oD1ECF7WiA) | 3:09 | 2021-11-17 | 2022-07-08 |
 | [Lion Heart](https://open.spotify.com/track/17gohmCYDlZSYxp41xqVQ8) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Lion Heart \- The 5th Album](https://open.spotify.com/album/5NlwMhwLycO4kyzphjhM3e) | 3:44 | 2021-11-17 | 2022-07-27 |

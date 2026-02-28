@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 
 > This is Emei\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,831 likes - 32 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,838 likes - 33 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 | 16 | [Stereo](https://open.spotify.com/track/65crqZhjAbaM6bmNCgDf9M) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Stereo](https://open.spotify.com/album/0znufLvqCiP9LblUItyAeQ) | 2:27 |
 | 17 | [RABBITHOLE](https://open.spotify.com/track/5NVnK2Ct25u1enmwdWAdkR) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/0OptWsRKyw5TsNeiEshGfr) | 2:21 |
 | 18 | [End of an Era](https://open.spotify.com/track/5esqIDtXmnl0EIoiuLFsjp) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [End of an Era](https://open.spotify.com/album/4I0vC4wtvUmowO4rMM3eOV) | 2:13 |
-| 19 | [Watermelon Sugar \- Spotify Singles](https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Watermelon Sugar \(Spotify Singles\)](https://open.spotify.com/album/0kKBZgTc90Mdudfsu3bDl3) | 2:09 |
-| 20 | [Distracted](https://open.spotify.com/track/3cajPGP49WC0dxOsRmS1WY) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Distracted](https://open.spotify.com/album/05pOtkIgnk3jbeEctdrQuT) | 2:40 |
+| 19 | [Distracted](https://open.spotify.com/track/3cajPGP49WC0dxOsRmS1WY) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Distracted](https://open.spotify.com/album/05pOtkIgnk3jbeEctdrQuT) | 2:40 |
+| 20 | [Watermelon Sugar \- Spotify Singles](https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Watermelon Sugar \(Spotify Singles\)](https://open.spotify.com/album/0kKBZgTc90Mdudfsu3bDl3) | 2:09 |
 | 21 | [SUGARCOAT](https://open.spotify.com/track/7ds2cvPKeRrbIVHTctkBc4) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/1gyUNc54TWzgzXtPvOdOYN) | 2:30 |
 | 22 | [Picky](https://open.spotify.com/track/1qTHWIDjnghhPe294079cZ) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:20 |
 | 23 | [Agree to Disagree](https://open.spotify.com/track/4oD9gB11wTctdCMMzmuZWH) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain \(Deluxe\)](https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5) | 2:22 |
@@ -40,5 +40,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 | 30 | [Don't Know About The World](https://open.spotify.com/track/7xil2jjcEh4kaU3XXoAPh8) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:23 |
 | 31 | [9 LIVES](https://open.spotify.com/track/64APtv04ls8z8Cjv6iGUsY) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [9 LIVES](https://open.spotify.com/album/7hpEYDgSxgLy8t8TFNnCn7) | 3:02 |
 | 32 | [SUNNYD](https://open.spotify.com/track/4vnauoJf6OYYU73jPUJbZa) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [SUNNYD](https://open.spotify.com/album/1D8kmnJy5pX2oxTsydOEYZ) | 2:06 |
+| 33 | [Tian Mi Mi \(Your Sweet Smile\)](https://open.spotify.com/track/1wYBTmZ8tBfm7kX3RYkYLZ) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Ginger Tea](https://open.spotify.com/album/3HD6dMq4zT1yMugmUNNZdN) | 1:03 |
 
-Snapshot ID: `aZ47gAAAAAB2m5pCS+70FY45Xf5cMC17`
+Snapshot ID: `aZ+NAAAAAACTIe07LfnDTXU1W5YhjKyc`

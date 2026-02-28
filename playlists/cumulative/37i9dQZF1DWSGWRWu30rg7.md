@@ -4,7 +4,7 @@
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: Adzka
 
-5,495 songs - 14 day 0 hr 34 min
+5,497 songs - 14 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,7 +325,7 @@
 | [Arah Bersamamu](https://open.spotify.com/track/7LYHhyVh0lyOolKsOUDNMT) | [Nadzira Shafa](https://open.spotify.com/artist/3XzmTEQR3TMBJWJqE4Vtos) | [Arah Bersamamu](https://open.spotify.com/album/5eUomalYxWZJsOtMzl0Lhz) | 4:03 | 2023-09-28 | 2023-10-20 |
 | [Arah Pulang](https://open.spotify.com/track/0LBAYZckAFdxPaiukoxXcg) | [Orkes Bada Isya](https://open.spotify.com/artist/3r3Uir4USFn3eT6L76T0to) | [Arah Pulang](https://open.spotify.com/album/5d0oHtcABygUyzREnUafdw) | 4:38 | 2025-05-16 | 2025-06-13 |
 | [Arah Rumah](https://open.spotify.com/track/3M3Dd5TzhhKOasuT3XyKPW) | [Aline Rose](https://open.spotify.com/artist/6UfH1HGCn133WLMSLGgN5p) | [Arah Rumah](https://open.spotify.com/album/0iVQIheNdb1Q7Ve3NHLgY5) | 3:36 | 2023-12-08 | 2024-01-12 |
-| [Arc of Quiet Bloom](https://open.spotify.com/track/0R1JR9uFoheD1lDbcWlFpS) | [Lucien Sunmoon](https://open.spotify.com/artist/1iyZiDBthvSTIdAhg1TLAb) | [Nothing Blooms at Midnight](https://open.spotify.com/album/0sjlqOkbd2TfcbVnaWKR6w) | 3:02 | 2026-02-19 |  |
+| [Arc of Quiet Bloom](https://open.spotify.com/track/0R1JR9uFoheD1lDbcWlFpS) | [Lucien Sunmoon](https://open.spotify.com/artist/1iyZiDBthvSTIdAhg1TLAb) | [Nothing Blooms at Midnight](https://open.spotify.com/album/0sjlqOkbd2TfcbVnaWKR6w) | 3:02 | 2026-02-19 | 2026-02-28 |
 | [Are You Wearing Ruddy?](https://open.spotify.com/track/3eHJuagKoZOBPY8Psrb1Hy) | [Zerra](https://open.spotify.com/artist/0qfJuFOWgjteUxTVn2CTeE) | [Are You Wearing Ruddy?](https://open.spotify.com/album/3ed1ZXYdjWlsZTchzKU49R) | 3:34 | 2022-06-16 | 2022-07-08 |
 | [Aries Was So Smooth](https://open.spotify.com/track/4EV7JheqrFLwiFII5wgajb) | [Agenda Pesta Dansa](https://open.spotify.com/artist/5e6GByfzWmFpFYhRUZ888L) | [Aries Was So Smooth](https://open.spotify.com/album/1jXKUrSdkKi2zxGZ61AbJE) | 3:48 | 2022-01-06 | 2022-01-14 |
 | [Arisen](https://open.spotify.com/track/2a58wr5i4VYiQtuI4tJDB8) | [SHANNON](https://open.spotify.com/artist/5s67rogGUn0NMqfJKw6AMZ) | [ORENDA](https://open.spotify.com/album/3M21UKMt6v0UXIiZM8KwIZ) | 3:35 | 2022-04-21 | 2022-05-13 |
@@ -1078,6 +1078,7 @@
 | [Dansa Drama](https://open.spotify.com/track/6QuyAybXjvp0uCEGcDd8cd) | [Zigi Zaga](https://open.spotify.com/artist/2yfMlP8aNhrl4tXGEWO5uF) | [Dansa Drama](https://open.spotify.com/album/5pUj3LA5b0bS87juRGtQ6L) | 3:42 | 2023-06-08 | 2023-06-23 |
 | [Dansaria](https://open.spotify.com/track/7u3w4ViJh7wE07OVILiGUd) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Dansaria](https://open.spotify.com/album/5lHg9W5C0nLvIEZjkazzrq) | 3:31 | 2025-04-17 | 2025-05-16 |
 | [Dapuranmu](https://open.spotify.com/track/5ENCdUpHXKusJUxYdgryAQ) | [Kirom](https://open.spotify.com/artist/2m5xdVVUZiylkGxxb2na8B) | [Dapuranmu](https://open.spotify.com/album/3SgS0F0U5DaNcpbouTfKJq) | 4:07 | 2025-01-16 | 2025-02-14 |
+| [Daraku](https://open.spotify.com/track/2gOEyuHKwvMH66tGrKARKw) | [Lilo Lilo](https://open.spotify.com/artist/5J4yLOPnPFVaA39zyawZIo) | [Daraku](https://open.spotify.com/album/1FscwhdCanoSW6tWzJV6W4) | 3:22 | 2026-02-27 |  |
 | [Dari Aku](https://open.spotify.com/track/4Qjh86Jjn2qBM6R6aHYDka) | [Uncle Bram](https://open.spotify.com/artist/2mlRTyIinvQJXsO53FcPx6) | [Dari Aku](https://open.spotify.com/album/46dNsHfVGzZU8BUQmx40QT) | 3:45 | 2023-11-17 | 2023-12-01 |
 | [Dari Hati](https://open.spotify.com/track/3XBNm5G7uhsBU1hhHOC2pA) | [NUBICA](https://open.spotify.com/artist/3WPe1m1f5FSE9gaeHzzJq9) | [Dari Hati](https://open.spotify.com/album/75WDAKk1KfYUjJ1uCvMiFp) | 4:47 | 2024-02-22 | 2024-03-29 |
 | [Dari Hati](https://open.spotify.com/track/3WCRUBRGjVW28D0XDihNnO) | [Single Season](https://open.spotify.com/artist/0RZVavGo94qgo6HfBz7D8D) | [Dari Hati](https://open.spotify.com/album/1LIPtjFXhgRsr4hXgEKasX) | 4:03 | 2024-09-13 | 2024-10-12 |
@@ -2475,6 +2476,7 @@
 | [Kaum Patah Hati](https://open.spotify.com/track/1pzDBwp6mT06ROsKWZQ50o) | [Gan Bagaskara](https://open.spotify.com/artist/6vGjQftC5yON7QcOY4ShD5) | [Kaum Patah Hati](https://open.spotify.com/album/4kNkmGBFc1dcOUV4wVrTap) | 3:10 | 2022-11-03 | 2022-12-01 |
 | [Kawan](https://open.spotify.com/track/3WXJGVdYl0xo0fr355XV9K) | [WET](https://open.spotify.com/artist/5XVYDcUuZhNbn7B2DIdjxm) | [Kawan](https://open.spotify.com/album/2eB8IATuvvLKoZFJQhtuVd) | 4:18 | 2023-09-07 | 2023-09-23 |
 | [Kawan Lama](https://open.spotify.com/track/6wrj4lPecQgM3BAjrAtzkM) | [Grow Rich](https://open.spotify.com/artist/6joR0UelHRJedIhdB1PI89) | [Kawan Lama](https://open.spotify.com/album/4T7FYmrhneslvSr2bBm9hO) | 2:04 | 2022-11-17 | 2022-12-01 |
+| [Ke Mana Arahnya ?](https://open.spotify.com/track/5rQrIfB3eoKmrlAR0xv6Ns) | [Risti Panjali](https://open.spotify.com/artist/4VV5JkDFGzbPEPP1z1wQNl) | [Kemana arahnya ?](https://open.spotify.com/album/6cqTkoeTobwVXHPL5RCFqE) | 3:57 | 2026-02-26 |  |
 | [Ke Rumah](https://open.spotify.com/track/7I8jG5NjWJWEczkYb6XfFl) | [etto](https://open.spotify.com/artist/3nclN60uLT0pToquQDLN6U) | [Ke Rumah](https://open.spotify.com/album/1OLGRwOYlr9RPPIwXjDnox) | 2:56 | 2024-08-29 | 2024-09-27 |
 | [Kebanggaan Negeri](https://open.spotify.com/track/7HlS7ERw01qkfVGjBGMAh0) | [Paramonster](https://open.spotify.com/artist/4S84Kb1lNmUjysyy1mUzFw) | [Kebanggaan Negeri](https://open.spotify.com/album/4RCbUzP6HUMrWg5C9wVUIq) | 2:37 | 2024-05-16 | 2024-06-07 |
 | [Kecewa](https://open.spotify.com/track/3yp1LQzWL8WwecacKxYqNC) | [Faith](https://open.spotify.com/artist/51ChTfIJLjhAf8vd09W35d) | [Kecewa](https://open.spotify.com/album/3eG8eZdEz7odzPsGMoLFNp) | 4:32 | 2022-08-11 | 2022-09-02 |
@@ -2510,7 +2512,6 @@
 | [Kelepasan](https://open.spotify.com/track/0fgSaE6HD1FKINO8hvpGdg) | [Man Nala](https://open.spotify.com/artist/0BZN1mLAWOYnfAGm7Vs2zR) | [Kelepasan](https://open.spotify.com/album/2DqsdgLnBFt4adQFOv0cZC) | 2:52 | 2023-04-06 | 2023-04-28 |
 | [Keliling Kota](https://open.spotify.com/track/1rgviIhhU8bGydyBmcIFvG) | [Los Garelloz](https://open.spotify.com/artist/0s0FO1ZR5FTPXXqVS7S8p8) | [Keliling Kota](https://open.spotify.com/album/3mhy3uewEreneWQzYoQrk0) | 4:01 | 2024-09-13 | 2024-10-12 |
 | [Kemalaman](https://open.spotify.com/track/1N8WtHRDrjf08dFKN850yl) | [Dvy](https://open.spotify.com/artist/27mZIRyex2VVr6mmELKI1i) | [Kemalaman](https://open.spotify.com/album/7hlircDHurw6tkARX2iXd3) | 4:29 | 2022-05-26 | 2022-06-10 |
-| [Kemana arahnya ?](https://open.spotify.com/track/5rQrIfB3eoKmrlAR0xv6Ns) | [Risti Panjali](https://open.spotify.com/artist/4VV5JkDFGzbPEPP1z1wQNl) | [Kemana arahnya ?](https://open.spotify.com/album/6cqTkoeTobwVXHPL5RCFqE) | 3:57 | 2026-02-26 |  |
 | [Kemana Kisah Kita](https://open.spotify.com/track/45vVfacra5lCoXrv3NRoXH) | [EBIN](https://open.spotify.com/artist/7irq85kIuwqeocnSwCQr14) | [Kemana Kisah Kita](https://open.spotify.com/album/44ze0ovgP3rI6Bn72QduAJ) | 4:19 | 2024-02-02 | 2024-02-16 |
 | [Kemanakah Cinta](https://open.spotify.com/track/71clx8rX1OPSHUpdaH5Bwa) | [Tatjana Saphira](https://open.spotify.com/artist/3HOa5hXtbHiiWZmMVmRatl) | [Kemanakah Cinta](https://open.spotify.com/album/66tvze7d9skLd1IsJHycxZ) | 4:08 | 2023-08-24 | 2023-09-20 |
 | [Kembali](https://open.spotify.com/track/59OWkgz8gCVcPPsH6Q7Cki) | [bedacerita.](https://open.spotify.com/artist/2LrbX4xyxtkwC0LLqsXqOP) | [Kembali](https://open.spotify.com/album/0E03zjmCULVZbWWEuJaAIc) | 4:15 | 2024-09-19 | 2024-10-12 |
@@ -3293,7 +3294,7 @@
 | [Muaraku Pulang](https://open.spotify.com/track/44ZE7HzXu6TEliw6pLUHTM) | [Malu2x](https://open.spotify.com/artist/3V98wQcGl3qlB4clyukwGC) | [Muaraku Pulang](https://open.spotify.com/album/38005HHguIi4f1bfFH0DuL) | 3:38 | 2025-11-28 | 2026-01-15 |
 | [Muda](https://open.spotify.com/track/4xWZzEPJ7JVNVccbGMfe8M) | [Hans Dohar](https://open.spotify.com/artist/5Mv4js4EQHkwQhAIZTQeDc) | [Muda](https://open.spotify.com/album/4wSJcb4mSP8jzNl4N33Uge) | 4:35 | 2022-01-27 | 2022-02-11 |
 | [Muda \- From "Naga Naga Naga"](https://open.spotify.com/track/1pkDihX3uOeGIOxhBsJeNm) | [Cut Beby Tshabina](https://open.spotify.com/artist/6q94vvhFbgr2aHqm9E9A9J) | [Muda \(From "Naga Naga Naga"\)](https://open.spotify.com/album/2S4UsZcM0x55zyFscjuIgK) | 3:12 | 2022-05-19 | 2022-06-03 |
-| [Mudik Raya](https://open.spotify.com/track/3fz2Q6EST5v8VmcWu2SrVO) | [CHAYRA](https://open.spotify.com/artist/31duR6Wax3hRujL1i8JO0R) | [Mudik Raya](https://open.spotify.com/album/19iV1ud4wg1rRmCQi2p19d) | 3:45 | 2026-02-19 |  |
+| [Mudik Raya](https://open.spotify.com/track/3fz2Q6EST5v8VmcWu2SrVO) | [CHAYRA](https://open.spotify.com/artist/31duR6Wax3hRujL1i8JO0R) | [Mudik Raya](https://open.spotify.com/album/19iV1ud4wg1rRmCQi2p19d) | 3:45 | 2026-02-19 | 2026-02-28 |
 | [Mula Pesona](https://open.spotify.com/track/4VcbCN5UlsEIiuaufqXL41) | [Los Garelloz](https://open.spotify.com/artist/0s0FO1ZR5FTPXXqVS7S8p8) | [Mula Pesona](https://open.spotify.com/album/6RAdK8GVKH35fwhaCxMv9H) | 2:19 | 2025-01-16 | 2025-02-14 |
 | [Munafik](https://open.spotify.com/track/1eTffmajIDCV7MYuuKKNIt) | [Cosmicburp](https://open.spotify.com/artist/7gzCdWuDGb1lXfUIRTop7O), [Kanina](https://open.spotify.com/artist/3IMAg0nI7HV9UhPvy8Phcp) | [Munafik](https://open.spotify.com/album/6BUn32kKOlbUtCIDVYnHRa) | 2:57 | 2024-02-15 | 2024-03-08 |
 | [Mundur Bukan Pilihan \- Dub Remix](https://open.spotify.com/track/0v97iVfmjQ9TmfgG9QosE9) | [Megatruh Soundsystem](https://open.spotify.com/artist/1O3OBVYcUhnG2PeJdlafBV), [Serigala Malam](https://open.spotify.com/artist/6kfH65R3zLl5lcfC8HnJBN) | [Mundur Bukan Pilihan \(Dub Remix\)](https://open.spotify.com/album/68ZoNV9ibdpGxQ6rmpLFYj) | 1:40 | 2024-10-31 | 2024-11-30 |
@@ -3635,6 +3636,7 @@
 | [Pelita Ku](https://open.spotify.com/track/3KWayEYzJallJqIlxMGJbn) | [PESTA CINTA](https://open.spotify.com/artist/2OuJenE6OneRqz3Aa52pBt) | [Pelita Ku](https://open.spotify.com/album/42lOfSIuGwvojYVSixcnu3) | 3:05 | 2023-02-16 | 2023-03-03 |
 | [Peluk](https://open.spotify.com/track/6PNPymZ3AzIW94dEP6bbOe) | [Amanda Mutia](https://open.spotify.com/artist/2xDuNaMc3CPmH7TkkVDibr) | [Peluk](https://open.spotify.com/album/69LCb1skIRLP3QTFkc63KM) | 3:32 | 2026-02-19 |  |
 | [Peluk Terakhir](https://open.spotify.com/track/6smSqjQj87tNYFC4EOFklh) | [Gaby Rene](https://open.spotify.com/artist/0PuhBcPXsnrPD8erRCswHR) | [Peluk Terakhir](https://open.spotify.com/album/2Ai3YSCf94warhvvNp15d6) | 4:19 | 2023-09-22 | 2023-10-13 |
+| [Pelukan Rumah](https://open.spotify.com/track/6DX2qs5Le9BWu5ueLXYDs1) | [Perang Batin](https://open.spotify.com/artist/2Sb2r2HQdUONz09GpkfDtv) | [Pelukan Rumah](https://open.spotify.com/album/2RDuESSrSEiXnDgfYD13Gs) | 3:14 | 2026-02-27 |  |
 | [Pelukan Terbaik](https://open.spotify.com/track/4mzTc4fMopMuhS5da3Vz3Y) | [Melisa Putri](https://open.spotify.com/artist/3bttR4QObj76nAgjJ5hpa5) | [Pelukan Terbaik](https://open.spotify.com/album/5SrKztUX2F24d5T9taiYRA) | 4:29 | 2024-05-16 | 2024-06-07 |
 | [Pelupa](https://open.spotify.com/track/3KwHxBTZm2WvXDyrOMit7R) | [Mini Mili](https://open.spotify.com/artist/66JRP5Hc5KvGhw7XHEdZOH), [Bebi](https://open.spotify.com/artist/0b4D8JhfYU970qE77UNKSg) | [Pelupa](https://open.spotify.com/album/3qCGnBQrsyEuZPjqNXrVv2) | 3:23 | 2023-08-11 | 2023-08-25 |
 | [Pembual](https://open.spotify.com/track/5LQwSlwichzrr4vl9H2ve5) | [Les Truval](https://open.spotify.com/artist/42HaXOWInmPFqcgIf3IouF), [Azel Dinangga](https://open.spotify.com/artist/3pfzBv20OB44e6T3rgRvUE) | [Pembual](https://open.spotify.com/album/6li0yMb8BuMHdpyW8fJzQ6) | 4:07 | 2023-04-06 | 2023-04-28 |

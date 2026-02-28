@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1xnOx2.md) - [plain]
 
 > This is Hozier\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,564 likes - 44 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,629 likes - 44 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,12 +16,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1xnOx2.md) - [plain]
 | 6 | [Northern Attitude \(with Hozier\)](https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Northern Attitude \(with Hozier\)](https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH) | 4:27 |
 | 7 | [Someone New](https://open.spotify.com/track/2DNXgvkyv35vTWvdgjs7qn) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:42 |
 | 8 | [Would That I](https://open.spotify.com/track/37zuIvk4KBkAxxLJsxJaHq) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:28 |
-| 9 | [Angel Of Small Death & The Codeine Scene](https://open.spotify.com/track/1SCXzqKZdif5b33POmzwI4) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk) | 3:39 |
-| 10 | [Unknown / Nth](https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:40 |
+| 9 | [Unknown / Nth](https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:40 |
+| 10 | [Angel Of Small Death & The Codeine Scene](https://open.spotify.com/track/1SCXzqKZdif5b33POmzwI4) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk) | 3:39 |
 | 11 | [Like Real People Do](https://open.spotify.com/track/57V4uc2b2diZ4RPHXWecb9) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:18 |
 | 12 | [Shrike](https://open.spotify.com/track/083PU4XnYAOMAGVruma3vb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:58 |
-| 13 | [Say My Name \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0HFlesrysd5cO5m2Y5aB9H) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Singles](https://open.spotify.com/album/668E64E2CaJWuH8F4zg7Uj) | 4:27 |
-| 14 | [Eat Your Young](https://open.spotify.com/track/3hbKcj640iYmPQgecainOr) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/0TFpENEamBfIfGISdSTXFB) | 4:03 |
+| 13 | [Eat Your Young](https://open.spotify.com/track/3hbKcj640iYmPQgecainOr) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/0TFpENEamBfIfGISdSTXFB) | 4:03 |
+| 14 | [Say My Name \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0HFlesrysd5cO5m2Y5aB9H) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Singles](https://open.spotify.com/album/668E64E2CaJWuH8F4zg7Uj) | 4:27 |
 | 15 | [From Eden](https://open.spotify.com/track/5aRZk9oWIYUB5alrTs8TTV) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:43 |
 | 16 | [Movement](https://open.spotify.com/track/1djzKW3eYLyzjjHXazEWWh) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 3:57 |
 | 17 | [The Bones \- with Hozier](https://open.spotify.com/track/1yTTMcUhL7rtz08Dsgb7Qb) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [The Bones \(with Hozier\)](https://open.spotify.com/album/6HzebUNgGlzC1AMBwHGIkH) | 3:17 |
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1xnOx2.md) - [plain]
 | 36 | [Better Love \- From "The Legend Of Tarzan" Original Motion Picture Soundtrack / Single Version](https://open.spotify.com/track/1xSNfIhSXHEJIwqDXHAxQ7) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Better Love](https://open.spotify.com/album/3x9wI2YbixwKFQwfawMAOl) | 3:13 |
 | 37 | [Empire Now](https://open.spotify.com/track/6WIctLx62k1gJALmLe7rXj) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unaired](https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4) | 2:58 |
 | 38 | [Why Would You Be Loved](https://open.spotify.com/track/378Ufdm9Bq9SjWRQ6d4jn1) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby! \(Special Edition\)](https://open.spotify.com/album/4qpvDzPCm5PLNLNINaEWM5) | 4:08 |
-| 39 | [The Parting Glass \- Live from the Late Late Show](https://open.spotify.com/track/782her82K8V3a1JAL6LBbJ) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [The Parting Glass \(Live from the Late Late Show\)](https://open.spotify.com/album/53AzSufY9kjmbz1BELRn2A) | 2:15 |
-| 40 | [Moment's Silence \(Common Tongue\)](https://open.spotify.com/track/6F980QL4axcqjJDMaV7Ew8) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Nina Cried Power \- EP](https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU) | 4:14 |
+| 39 | [Moment's Silence \(Common Tongue\)](https://open.spotify.com/track/6F980QL4axcqjJDMaV7Ew8) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Nina Cried Power \- EP](https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU) | 4:14 |
+| 40 | [The Parting Glass \- Live from the Late Late Show](https://open.spotify.com/track/782her82K8V3a1JAL6LBbJ) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [The Parting Glass \(Live from the Late Late Show\)](https://open.spotify.com/album/53AzSufY9kjmbz1BELRn2A) | 2:15 |
 | 41 | [Wildflower and Barley \(feat\. Allison Russell\)](https://open.spotify.com/track/3Zwb1yipBxvrukVaNMm4o5) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Unreal Unearth: Unaired](https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4) | 3:42 |
 | 42 | [Through Me \(The Flood\)](https://open.spotify.com/track/7KPx2ijBup2MQHMrz6EVSV) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Eat Your Young](https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX) | 3:47 |
 | 43 | [Take Me To Church \- Live From Spotify, London](https://open.spotify.com/track/61IautUH8F8UWJ0kxF9pJc) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Sessions \(Live From Spotify, London\)](https://open.spotify.com/album/7z50fkoKTjnNyChNiJQx6q) | 4:06 |
 | 44 | [Fare Well](https://open.spotify.com/track/6Jj9X88wug8sfLXjkxdqtb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unaired](https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4) | 3:08 |
 
-Snapshot ID: `aZ47gAAAAAAfVNeoTZY5ubkyN2dQY7yC`
+Snapshot ID: `aZ+NAAAAAAAJLoSjmRO6fa/2T2cO5f+x`

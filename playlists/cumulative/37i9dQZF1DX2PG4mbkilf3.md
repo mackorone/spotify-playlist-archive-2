@@ -2,9 +2,9 @@
 
 ### [Mood Ring ](https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3)
 
-> Your guide to R&B in Canada, with Nonso Amadi from Toronto, ON.
+> Your guide to R&B in Canada, with RAAHiiM from Brampton, ON.
 
-1,582 songs - 3 day 10 hr 20 min
+1,584 songs - 3 day 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [4am](https://open.spotify.com/track/1yM0dE07jBAkAYKQHzaInk) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [4am](https://open.spotify.com/album/6JEJjc8OLNOPzUnc8AkfVR) | 3:33 | 2023-11-24 | 2024-09-28 |
 | [5 Minutes](https://open.spotify.com/track/3NybtZLoGsWTT1SHwExhkE) | [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [5 Minutes](https://open.spotify.com/album/40EQfE7yMNI8pMAGONi4Cj) | 2:49 | 2024-05-24 | 2024-09-28 |
 | [6:25](https://open.spotify.com/track/4adHUlpHedj2PKkj9IkF3T) | [Andye](https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj) | [6:25](https://open.spotify.com/album/067hqinbexfCaNGC2VbP8x) | 2:25 | 2025-05-02 | 2025-07-26 |
+| [6YRS](https://open.spotify.com/track/58jQYefzDe8XR3MSfC7nT7) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [Suite 96: Late Checkout](https://open.spotify.com/album/55azbI7LCJsN2BwURS7RdB) | 2:04 | 2026-02-27 |  |
 | [7 Days](https://open.spotify.com/track/5irUJjUQDKNMhVOZIowDu6) | [KAYAM](https://open.spotify.com/artist/58UJUfMaQRjFlDxawMuOru) | [7 Days](https://open.spotify.com/album/7ncpXqenfK2ixhnn2ykgNq) | 2:13 | 2026-01-30 |  |
 | [80 90 \- Spotify Singles](https://open.spotify.com/track/2Xh7UWFpUNLpVfY420u7c3) | [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel), [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75) | [Spotify Singles](https://open.spotify.com/album/2amvrQLu6W6CHTRhe2YImN) | 4:05 | 2022-07-22 | 2022-09-24 |
 | [80 Degrees](https://open.spotify.com/track/44Js4AnciUnHdDyBXC7sNw) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Bacthafu\*up](https://open.spotify.com/album/5EuL5Jp1caNNj9m8bQ1V6u) | 4:05 | 2022-02-18 | 2022-02-26 |
@@ -688,6 +689,7 @@
 | [JJC](https://open.spotify.com/track/4IcQbIh8U4DtXEy5KWKcAu) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [JJC](https://open.spotify.com/album/6Ba8adcxt440I92gC7ld28) | 2:34 | 2024-01-26 | 2024-08-03 |
 | [Jonesin'](https://open.spotify.com/track/5QFSVxgAbaCJFoKMmtfcdK) | [Nicole Chambers](https://open.spotify.com/artist/5kvxSGkZcVesEX2mqw0AtC) | [Love Had Other Plans](https://open.spotify.com/album/2uegzhhmxCYMIdWKL1FyYr) | 3:34 | 2023-09-22 | 2023-12-09 |
 | [Joy](https://open.spotify.com/track/2S89P2c2Vk7pn0moME75Mb) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Joy](https://open.spotify.com/album/4gqUCncKr9a5wK98U5e3NR) | 3:32 | 2024-06-07 | 2024-09-21 |
+| [JULIANNA](https://open.spotify.com/track/7C1JvjL44dnAvbLAqQunWU) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [JULIANNA](https://open.spotify.com/album/2NwvQKM1dYfVQv2xqrbU8z) | 2:33 | 2026-02-27 |  |
 | [Jump Off](https://open.spotify.com/track/6on03Tw14NWeIjumedTL71) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX), [Wave Montega](https://open.spotify.com/artist/5cJigbet3Qaxt5rH4qDuQs), [Godflow](https://open.spotify.com/artist/0QsEQ9wcaW5ruKmXNWxUJC) | [Jump Off](https://open.spotify.com/album/2MNQyEcTDvGJ0qXQ975dhK) | 2:09 | 2024-01-26 | 2024-03-30 |
 | [JUNGLE FEVER](https://open.spotify.com/track/13UTxl4QLqbrTpQ9drcKGa) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL \(DELUXE\)](https://open.spotify.com/album/4tYHaMdTM3vODsWyOtY284) | 3:31 | 2025-05-02 | 2025-08-23 |
 | [Jupiter & Mars](https://open.spotify.com/track/1BTECTa3NituN8LqXjrw2B) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Jupiter & Mars](https://open.spotify.com/album/6IgkZ5qys4BMo6X1iFYIBU) | 3:16 | 2022-04-22 | 2022-06-25 |
@@ -829,7 +831,7 @@
 | [maple brown](https://open.spotify.com/track/7qJRRPkLoOfjD3vYRrF4T4) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [maple brown](https://open.spotify.com/album/5PHWdBFGFJ53VSB8hFPCeD) | 2:59 | 2025-08-29 | 2025-11-22 |
 | [Marigold](https://open.spotify.com/track/3hg9d5gQ6jD21vKHXJ1ZRZ) | [Ariel](https://open.spotify.com/artist/1vMyuVkbyTMmCukJ6fXOlZ) | [Marigold](https://open.spotify.com/album/3iDlNOK6xYVxK6OTLatjCi) | 3:28 | 2025-11-21 | 2026-02-07 |
 | [Marvins Room](https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 5:47 | 2023-09-22 | 2023-10-07 |
-| [Matches](https://open.spotify.com/track/2O493lWFDRKubVYYxVAcCR) | [Haley Smalls](https://open.spotify.com/artist/5uTsMjH1CdE81ncmOnE4WY) | [Matches](https://open.spotify.com/album/65DCr9zn3ugbvBnoeBD0IH) | 2:54 | 2025-12-19 |  |
+| [Matches](https://open.spotify.com/track/2O493lWFDRKubVYYxVAcCR) | [Haley Smalls](https://open.spotify.com/artist/5uTsMjH1CdE81ncmOnE4WY) | [Matches](https://open.spotify.com/album/65DCr9zn3ugbvBnoeBD0IH) | 2:54 | 2025-12-19 | 2026-02-28 |
 | [Maybe...](https://open.spotify.com/track/279Wu3If7JDlRoor8f3XxJ) | [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y) | [Maybe...](https://open.spotify.com/album/6q6meFNQnJyNwiT5PQWZEu) | 3:44 | 2026-02-20 |  |
 | [Me Against My Vices](https://open.spotify.com/track/4Uu9hWGagXuIM98FgmjXbr) | [SPIRITSAVER](https://open.spotify.com/artist/3DbCiwrbBPRRuCo4UvLl8c) | [Me Against My Vices](https://open.spotify.com/album/450vWf8eiM4JTaI1yGxdVG) | 2:49 | 2024-05-24 | 2024-12-07 |
 | [ME FUI](https://open.spotify.com/track/6jpMFoQi1CS00qI6ntXfUN) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [ME FUI](https://open.spotify.com/album/3aUNKC0oS3gDtPY1HCqKK6) | 2:17 | 2023-07-21 | 2023-11-11 |
@@ -1078,7 +1080,7 @@
 | [Pressure](https://open.spotify.com/track/5DMFR9JU4l86FD063mmb7z) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Pressure](https://open.spotify.com/album/5ggd0JyaC9xDcbbIQigiiX) | 2:27 | 2022-09-02 | 2022-11-05 |
 | [Pretty Lies](https://open.spotify.com/track/3tnrEeCNKBpmu8RDD2pZhC) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Pretty Lies](https://open.spotify.com/album/05K0znVOHIm97rZmDjAVfJ) | 2:12 | 2023-11-10 | 2024-01-20 |
 | [Pretty Please](https://open.spotify.com/track/4OzlFs9MPncXpgia4jTjNq) | [Sun](https://open.spotify.com/artist/37AvA9c8rndxYbojqst9At) | [Pretty Please](https://open.spotify.com/album/1bMnJbwO3MJffVkmwYNU4Q) | 2:59 | 2024-08-02 | 2024-10-19 |
-| [PRETTY WOMAN \(WICKED\)](https://open.spotify.com/track/747fcCBqT47Mx2V40WFQOd) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [PRETTY WOMAN \(WICKED\)](https://open.spotify.com/album/34G6OJqIpUFe3aU1SjD3xj) | 3:19 | 2025-12-05 |  |
+| [PRETTY WOMAN \(WICKED\)](https://open.spotify.com/track/747fcCBqT47Mx2V40WFQOd) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [PRETTY WOMAN \(WICKED\)](https://open.spotify.com/album/34G6OJqIpUFe3aU1SjD3xj) | 3:19 | 2025-12-05 | 2026-02-28 |
 | [Problematic](https://open.spotify.com/track/4HYN77KVznXYhcnZ1dHH6W) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx) | [Problematic](https://open.spotify.com/album/2qeuH5GuV4fIct3EJbRTLI) | 3:03 | 2024-04-26 | 2024-07-19 |
 | [Problems](https://open.spotify.com/track/2uDPaIkiDYKeI79Fw20Fcm) | [Nadia Stone](https://open.spotify.com/artist/1qicKMspu6VwgeVWeJkVnG) | [Problems](https://open.spotify.com/album/40S0gntyleAVBjXNEU2VnO) | 2:38 | 2023-03-03 | 2023-04-22 |
 | [Promised Land](https://open.spotify.com/track/5iGENNDYmDkCIW4J14ROeH) | [SIMBO](https://open.spotify.com/artist/1lQA8yJSOVRxFOGJvRDQDU), [Iman Omari](https://open.spotify.com/artist/1ySUvbTVNE9pyhdzcDxjg4) | [SOUNDSORCERER, VOL.2](https://open.spotify.com/album/3m1zGZTGi3qQXLZAiiuuxt) | 2:41 | 2024-10-25 | 2024-11-23 |

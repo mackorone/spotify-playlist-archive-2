@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Ado
 
-832 songs - 2 day 6 hr 50 min
+833 songs - 2 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [remember](https://open.spotify.com/track/4LnRLsKhypMfOqExy6QanW) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [Orion Blue \(Special Edition\)](https://open.spotify.com/album/18fDDV05JDXFmNSACmKj7r) | 5:50 | 2022-06-24 | 2022-07-29 |
 | [Repaint](https://open.spotify.com/track/4ONakL7VOgMug2YNLLlg2i) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Repaint](https://open.spotify.com/album/0HBfHvwN912Vr7ggTW2PFP) | 3:53 | 2022-06-12 | 2022-07-25 |
 | [Repaint](https://open.spotify.com/track/5urLwuxGL2sFvVeHdjR2ON) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [CORUSCATE \-DNA\-](https://open.spotify.com/album/71lKytpdWRtMFdbPXZeHNB) | 3:54 | 2022-06-14 | 2022-06-18 |
+| [Reply](https://open.spotify.com/track/6ipTwgVCvUX6SgEuBtPoJ4) | [kz](https://open.spotify.com/artist/4YpCJjlm4apQ7kbQbP2iT4), [かぐや\(cv.夏吉ゆうこ\)](https://open.spotify.com/artist/2pxkowIU5N8WKEPOYLdres) | [超かぐや姫！](https://open.spotify.com/album/4jjF5DPbuso1zCAw7rzyZR) | 4:29 | 2026-02-26 |  |
 | [request](https://open.spotify.com/track/63MlPFQQ7PNGiiHMnVrfw2) | [krage](https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx) | [request](https://open.spotify.com/album/1f6C0igNf8jtwASukoTF6I) | 3:44 | 2024-01-22 | 2025-08-06 |
 | [Resolution](https://open.spotify.com/track/5vaJU5vIRhx6d6lgyYR1Bb) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Resolution](https://open.spotify.com/album/3k4p615S79dsbsuAc0xBhX) | 4:50 | 2022-10-03 | 2022-11-13 |
 | [Reverb](https://open.spotify.com/track/2UPjrQxLzC8z9cKOCmW9hw) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [Reverb](https://open.spotify.com/album/6DQf4EkGbnZdIovtszpsa3) | 4:33 | 2022-06-24 | 2022-07-21 |
@@ -497,7 +498,7 @@
 | [まるで元気](https://open.spotify.com/track/20AGXdjLMIrN25CsuCdEww) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [MUSIC](https://open.spotify.com/album/7vTxY03vAbkmoQTFq9mOxC) | 4:04 | 2023-11-07 | 2023-11-18 |
 | [みちくさ](https://open.spotify.com/track/3gH7Af4Y7FTuPAclJQdma8) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [みちくさ](https://open.spotify.com/album/2Qn7c6ilWo9ovRXieweXaS) | 4:04 | 2022-06-12 | 2022-07-22 |
 | [みちしるべ](https://open.spotify.com/track/3dRVzK0PsqrT2WUuAGvitu) | [茅原実里](https://open.spotify.com/artist/2BVUhHYQGZDr1YOQuySRuZ) | [SPIRAL](https://open.spotify.com/album/0CuFeKWcv86ic7NzUvbmjO) | 4:46 | 2022-06-14 | 2022-07-19 |
-| [もうどうなってもいいや](https://open.spotify.com/track/17oTdCFRG5Vp4381jehV3U) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [もうどうなってもいいや](https://open.spotify.com/album/6XMeBVW9xA5buvS6EAVbGG) | 3:23 | 2025-04-15 |  |
+| [もうどうなってもいいや](https://open.spotify.com/track/17oTdCFRG5Vp4381jehV3U) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [もうどうなってもいいや](https://open.spotify.com/album/6XMeBVW9xA5buvS6EAVbGG) | 3:23 | 2025-04-15 | 2026-02-28 |
 | [もっと高く](https://open.spotify.com/track/4xwDYFM7uajGDjL5PeEHt3) | [鈴木愛奈](https://open.spotify.com/artist/5h7WdhT6aUg1SMMklKJHHV) | [Belle révolte](https://open.spotify.com/album/1zcTlzozh6cb5dmkrHwni6) | 3:35 | 2022-06-24 | 2022-07-28 |
 | [やさしさの名前](https://open.spotify.com/track/0gykrNbxYxWwx9LwzAylrF) | [鈴木愛奈](https://open.spotify.com/artist/5h7WdhT6aUg1SMMklKJHHV) | [Belle révolte](https://open.spotify.com/album/1zcTlzozh6cb5dmkrHwni6) | 4:32 | 2022-07-07 | 2022-07-22 |
 | [やじるし→](https://open.spotify.com/track/0YZ5yXsaCX6McaJccpBHBn) | [ぽかぽかイオン](https://open.spotify.com/artist/6zKJblakB7LUnUtmo29gtf) | [TVアニメーション「スローループ」オープニングテーマ やじるし→\(ぽかぽか盤\)](https://open.spotify.com/album/4Oi47jpVzfSyT57fxoLqsS) | 4:31 | 2022-07-07 | 2022-07-20 |

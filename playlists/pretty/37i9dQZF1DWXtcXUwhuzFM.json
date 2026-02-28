@@ -1,6 +1,6 @@
 {
   "description": "Uutta musaa tarjoilevat Turisti, Averagekidluke, Elastinen, ja Ares... ja moni muu  \ud83c\udfb6",
-  "num_followers": 105389,
+  "num_followers": 105458,
   "original_name": "New Music Friday Suomi",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2026-02-26 22:00:17",
       "album": {
+        "name": "DEADLINE",
+        "url": "https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 195402,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB"
+    },
+    {
+      "added_at": "2026-02-26 22:00:17",
+      "album": {
         "name": "KiLL iT QUEEN",
         "url": "https://open.spotify.com/album/5YD2OXFbiw3S7kdL88p3X2"
       },
@@ -495,6 +511,22 @@
       "duration_ms": 207741,
       "name": "Intohimo",
       "url": "https://open.spotify.com/track/0CgxQdvbCAo3wBMdQhUOnn"
+    },
+    {
+      "added_at": "2026-02-26 22:00:17",
+      "album": {
+        "name": "FLAMMABLE",
+        "url": "https://open.spotify.com/album/5FS2IqrUicInbFJOS4bAHH"
+      },
+      "artists": [
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "duration_ms": 197551,
+      "name": "FLAMMABLE",
+      "url": "https://open.spotify.com/track/1d5sIc2QcHgSMYvGcnsLhe"
     },
     {
       "added_at": "2026-02-26 22:00:17",
@@ -756,8 +788,8 @@
           "url": "https://open.spotify.com/artist/0MCx3EcBHDcEb2nFUCMxSu"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 232252,
+      "name": "Kettingit",
       "url": "https://open.spotify.com/track/4owrESDc3HKDBerg0vfr4e"
     },
     {
@@ -881,7 +913,7 @@
         },
         {
           "name": "Nomi",
-          "url": "https://open.spotify.com/artist/43ozqpCfRVLQ4ZTbzaXaO8"
+          "url": "https://open.spotify.com/artist/5w6xcAMDQbufV2lAhlRwV7"
         }
       ],
       "duration_ms": 207574,
@@ -1299,7 +1331,7 @@
     {
       "added_at": "2026-02-26 22:00:17",
       "album": {
-        "name": "You always liked me better when i was stoned",
+        "name": "You Always Liked Me Better When I Was Stoned",
         "url": "https://open.spotify.com/album/4JUnK6tzlRvi07mUSxN8hH"
       },
       "artists": [
@@ -1309,7 +1341,7 @@
         }
       ],
       "duration_ms": 189913,
-      "name": "You always liked me better when i was stoned",
+      "name": "You Always Liked Me Better When I Was Stoned",
       "url": "https://open.spotify.com/track/31Zd47aEZP29ZoGQkp45VN"
     },
     {
@@ -1491,6 +1523,26 @@
       "duration_ms": 149428,
       "name": "Say No Prayer",
       "url": "https://open.spotify.com/track/3k9EAHWqEmKgPqsHUKNKOV"
+    },
+    {
+      "added_at": "2026-02-26 22:00:17",
+      "album": {
+        "name": "Keychain (FROM THE FILM K-POPS!)",
+        "url": "https://open.spotify.com/album/58x92u1JINTa5K7lTzfU02"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 170786,
+      "name": "Keychain - FROM THE FILM K-POPS!",
+      "url": "https://open.spotify.com/track/3Q3WZ7sJLoIZQKY7hWFyQu"
     },
     {
       "added_at": "2026-02-26 22:00:17",

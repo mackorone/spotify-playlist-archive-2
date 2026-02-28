@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: fedesttar
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,850 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,859 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 53 | [Codigo Secreto](https://open.spotify.com/track/6ZUGi3v66aBs8kLxJ8DsO1) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Núcleo](https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW) | 3:17 |
 | 54 | [Pal' Otro Año](https://open.spotify.com/track/68IONBceV20r5OOr6961PQ) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Pal' Otro Año](https://open.spotify.com/album/3mMjUoysR3SkxtKieFVmf9) | 2:30 |
 | 55 | [Más Papel](https://open.spotify.com/track/2guH6Iwas87W7c4QjgLot7) | [Axel Guerra](https://open.spotify.com/artist/5Pi482fNZrF0kD8nyhDtvo), [Castro Angel](https://open.spotify.com/artist/01olnHHF6FukRRCAObvofr) | [Más Papel](https://open.spotify.com/album/6PFtQgbQ6fVrf2sTKBgzn1) | 2:32 |
-| 56 | [Reggaeton Pesa’o](https://open.spotify.com/track/2Mc9kPytWq8zSmj9fqp5Cj) | [TBX](https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp), [Cael Roldan](https://open.spotify.com/artist/33hFgg3zqijh4EA4IkUzw3) | [Reggaeton Pesa’o](https://open.spotify.com/album/3yhEt7BrCO7hi7aRdUFXuZ) | 2:49 |
-| 57 | [BILLETES EN EL AIRE](https://open.spotify.com/track/5k0e2dhXqfqCg50JwRY31Y) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Totoy El Frio](https://open.spotify.com/artist/4GVsXuFOY9WJmgnmq5RVoh) | [BILLETES EN EL AIRE](https://open.spotify.com/album/5pK6B9GBLyf0CHpK5StNPe) | 3:02 |
+| 56 | [BILLETES EN EL AIRE](https://open.spotify.com/track/5k0e2dhXqfqCg50JwRY31Y) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Totoy El Frio](https://open.spotify.com/artist/4GVsXuFOY9WJmgnmq5RVoh) | [BILLETES EN EL AIRE](https://open.spotify.com/album/5pK6B9GBLyf0CHpK5StNPe) | 3:02 |
+| 57 | [Reggaeton Pesa’o](https://open.spotify.com/track/2Mc9kPytWq8zSmj9fqp5Cj) | [TBX](https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp), [Cael Roldan](https://open.spotify.com/artist/33hFgg3zqijh4EA4IkUzw3) | [Reggaeton Pesa’o](https://open.spotify.com/album/3yhEt7BrCO7hi7aRdUFXuZ) | 2:49 |
 | 58 | [Que a Pasao](https://open.spotify.com/track/5s2SRpPmDiYFf0Qu17r9Uk) | [Big Apple](https://open.spotify.com/artist/5suUyNwJ1hw1M45oqdw8zE), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Que a Pasao](https://open.spotify.com/album/00LnZnMQqMsYFIhnTjGAEo) | 2:05 |
 | 59 | [X Ti Lo Digo](https://open.spotify.com/track/1nT6epkjhga9uBDKrHIWVe) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [X Ti Lo Digo](https://open.spotify.com/album/4ifI86bX1iJP68q2AogGBM) | 3:11 |
 | 60 | [POPPER!](https://open.spotify.com/track/3dffM1ONyWwC9153O47a2O) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [POPPER!](https://open.spotify.com/album/4v0x0syzsxORqMTW3c88Zp) | 1:50 |

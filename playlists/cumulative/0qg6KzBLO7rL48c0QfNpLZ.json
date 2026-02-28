@@ -2752,7 +2752,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "Blame The Messiah",
       "url": "https://open.spotify.com/track/1sAGfDjxTrYz5BD131flfV"
@@ -5162,7 +5162,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 140000,
       "name": "Could It Be",
       "url": "https://open.spotify.com/track/4BMWxn0q6YuoFgEdzQg31t"
@@ -13178,7 +13178,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 166000,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/2LieJ0JcPygJdQuX0D0BJY"
@@ -15949,6 +15949,24 @@
     },
     {
       "album": {
+        "name": "Lost in Time",
+        "url": "https://open.spotify.com/album/555P3xiZDqF4WQsiaPiUeJ"
+      },
+      "artists": [
+        {
+          "name": "s\u00fbr faire",
+          "url": "https://open.spotify.com/artist/20einaeE0SdJZVBGpPaQP2"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177500,
+      "name": "Lost in Time",
+      "url": "https://open.spotify.com/track/2456S0tdor7XfGJWaYXnPx"
+    },
+    {
+      "album": {
         "name": "Lost In Yesterday",
         "url": "https://open.spotify.com/album/6XtPcc3o4pNuaccUxMJSsl"
       },
@@ -16608,7 +16626,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 143000,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/7AmhrMd70FuXsn1uCd1DML"
@@ -17030,7 +17048,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 154000,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4HMQcmdviIm28WNMDsbyXT"
@@ -19190,7 +19208,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 162545,
       "name": "Ocean Drive",
       "url": "https://open.spotify.com/track/0VxrjvfDjcVRoqjO0IRFuM"
@@ -20166,6 +20184,24 @@
       "duration_ms": 156000,
       "name": "Over",
       "url": "https://open.spotify.com/track/4EtgB1L15OvElChDieu0Nm"
+    },
+    {
+      "album": {
+        "name": "Over & Over",
+        "url": "https://open.spotify.com/album/0WokYT9OUPqU9FMBi9jEe6"
+      },
+      "artists": [
+        {
+          "name": "daawyd",
+          "url": "https://open.spotify.com/artist/1lnxQyOdHFBqwhrEjj2DJc"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Over & Over",
+      "url": "https://open.spotify.com/track/6wSwxpFK4pezMgiwbiQ4us"
     },
     {
       "album": {
@@ -21466,7 +21502,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 143589,
       "name": "Rest Of My Life",
       "url": "https://open.spotify.com/track/6SXbxiJzSIVCKXF9r6zE7g"
@@ -22308,7 +22344,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 195799,
       "name": "Save Me Now",
       "url": "https://open.spotify.com/track/7B3PU2dr2c3trv92tgyG6U"
@@ -24764,6 +24800,32 @@
       "duration_ms": 197704,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/0w7Usw5verGQnWj5vtJSy8"
+    },
+    {
+      "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/5ljSRA2BAMvHe6iHpHUy3s"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "Nuage",
+          "url": "https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY"
+        },
+        {
+          "name": "Velvety",
+          "url": "https://open.spotify.com/artist/5vj8jozcvNuHvgw68Lwvyh"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154615,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/243zvdGFWl6GurMRSp0XNQ"
     },
     {
       "album": {
@@ -27468,7 +27530,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 135737,
       "name": "Waiting For Love",
       "url": "https://open.spotify.com/track/2NAxj0kJqrYswoMPLWcnwt"
@@ -28090,7 +28152,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 141052,
       "name": "We Belong Together (feat. Michael Hausted)",
       "url": "https://open.spotify.com/track/608TDka6vmrWkxx5GwZh1N"
@@ -28682,6 +28744,32 @@
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+    },
+    {
+      "album": {
+        "name": "Where Did I Go Wrong",
+        "url": "https://open.spotify.com/album/5u2HI552urUyOPxAGhZPNL"
+      },
+      "artists": [
+        {
+          "name": "Moosa Saleem",
+          "url": "https://open.spotify.com/artist/16m66acFCoUlPwjQf9D6fN"
+        },
+        {
+          "name": "Anna-Sophia Henry",
+          "url": "https://open.spotify.com/artist/7eMgHO3ZOlcpWKM3OFnnS8"
+        },
+        {
+          "name": "Calm Springs",
+          "url": "https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158086,
+      "name": "Where Did I Go Wrong",
+      "url": "https://open.spotify.com/track/2gLyCwM826WDiYfsmbXUF6"
     },
     {
       "album": {

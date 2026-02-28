@@ -4,7 +4,7 @@
 
 > Unwind to the real beauty of Instrumentals!
 
-147 songs - 11 hr 52 min
+148 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Awakening The Soul 2](https://open.spotify.com/track/6cqkxzLZNglEN65Kt5hCMF) | [Pandit Satish Vyas](https://open.spotify.com/artist/5VjvnatSJPsJtYQIX2qOlV) | [Moods of Yoga \- Asana](https://open.spotify.com/album/7g7ZeAYpbui7XaEEgea1qH) | 17:21 | 2022-06-10 |  |
 | [Back to One](https://open.spotify.com/track/4yEXxzaeY1QfEfRVXTNqi9) | [Chris Jason](https://open.spotify.com/artist/2V2s3Ojx8fA8C0kZhyWmkl) | [Back to One](https://open.spotify.com/album/5r2rB9OynhQbvJeBE24z28) | 3:10 | 2022-06-10 |  |
 | [Bageshri](https://open.spotify.com/track/52oIvQ4IigJNawWR1wDhdb) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [Instrumental India](https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX) | 8:11 | 2022-06-10 | 2024-07-30 |
-| [Ballad Of Krishna \(feat\. Sandeep Chowta & thommyknoles\)](https://open.spotify.com/track/3MtAHtJnXMsfLyJ5Sq2c2u) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa), [Sandeep Chowta](https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy), [thommyknoles](https://open.spotify.com/artist/6ow5uPEmTf2syuovBlfibt) | [Abhay Nayampally](https://open.spotify.com/album/0PHqvL0508Pp8PSESdRrih) | 6:03 | 2022-06-10 |  |
+| [Ballad Of Krishna \(feat\. Sandeep Chowta & thommyknoles\)](https://open.spotify.com/track/3MtAHtJnXMsfLyJ5Sq2c2u) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa), [Sandeep Chowta](https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy), [thommyknoles](https://open.spotify.com/artist/6ow5uPEmTf2syuovBlfibt) | [Abhay Nayampally](https://open.spotify.com/album/0PHqvL0508Pp8PSESdRrih) | 6:03 | 2022-06-10 | 2026-02-28 |
 | [Ballad Of Krishna \(feat\. Sandeep Chowta & thommyknoles\)](https://open.spotify.com/track/3zxYkGwyk2ZXzFI6r72NlM) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa), [Sandeep Chowta](https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy), [thommyknoles](https://open.spotify.com/artist/6ow5uPEmTf2syuovBlfibt) | [Abhay Nayampally](https://open.spotify.com/album/6QhwQscRUGJ0C4E1xj9Uga) | 6:03 | 2022-06-10 | 2024-04-19 |
 | [Ballad Of Krishna \(feat\. Sandeep Chowta & thommyknoles\)](https://open.spotify.com/track/5JE4bVp3peKYimBL6FtXiE) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa), [Sandeep Chowta](https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy), [thommyknoles](https://open.spotify.com/artist/6ow5uPEmTf2syuovBlfibt) | [Abhay Nayampally](https://open.spotify.com/album/3IkUBDxwNCrjavADJMynrN) | 6:03 | 2022-06-10 | 2023-11-05 |
 | [Bantureethi Koluvu \- Instrumental](https://open.spotify.com/track/54cexJUIswXGxlfR2eky8y) | [Phani Narayana](https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0) | [This is Carnatic Fusion, Vol\. 4](https://open.spotify.com/album/6a8P91f5BM5eykZPz7M2jV) | 4:21 | 2022-06-10 |  |
@@ -136,6 +136,7 @@
 | [Telisi Rama](https://open.spotify.com/track/4U84VDe6nIpMEnhaiMATU7) | [Rini](https://open.spotify.com/artist/4DkoN3sidjYQuPiehE12Gs), [Seoyeon Im](https://open.spotify.com/artist/1D0QFoL3MHfPU0JqTlpidZ) | [Telisi Rama](https://open.spotify.com/album/5MbK9qiz0v2GtUhHohipCa) | 3:48 | 2024-07-29 |  |
 | [The Comeback Trail](https://open.spotify.com/track/0qxZuWjcIzhIUWslev4aP5) | [Sutej Singh](https://open.spotify.com/artist/1LQ87p0qt3OEhSGbjMVuVe) | [The Emerging](https://open.spotify.com/album/6tHfh49o6KkTwugdI9kh0N) | 6:42 | 2022-06-10 |  |
 | [The Last Cadenza](https://open.spotify.com/track/3j0AwklIEeYW7AjOPFMkt4) | [Bhaskar Dutta](https://open.spotify.com/artist/5WmWSEl2YZs5TgVsFFDXBk) | [The Violin Player \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ZVQVSIMR5231HVPUYJWTo) | 5:47 | 2022-06-10 |  |
+| [The Missing Heart](https://open.spotify.com/track/01yNBFVx2WJqHpU64SvaKu) | [Praveen Sriram](https://open.spotify.com/artist/3k40nOv0gpniaMd9OsYZK6) | [Kangalin Badhilenna \(Original Background Score\)](https://open.spotify.com/album/1YkXneHEbHWy8Vodyc2YEa) | 1:30 | 2026-02-11 |  |
 | [The Moment](https://open.spotify.com/track/4GEzdXpbeGB97W1C3gH8Hh) | [aswekeepsearching](https://open.spotify.com/artist/3K1oloNu09kQTV0Idz378q) | [Khwaab](https://open.spotify.com/album/6lXcwcAYbcjnbVmCvOifh6) | 1:50 | 2022-06-10 |  |
 | [The Namesake Reprise](https://open.spotify.com/track/5K0qbZW21BaPNURFp8juM1) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ) | [The Namesake \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2wv0qcdV5iokGLTD4VMdQI) | 5:04 | 2022-06-10 |  |
 | [The Namesake Reprise](https://open.spotify.com/track/6z3MOi8XJ6t3lFL74IFyJ6) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ) | [The Namesake \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3nziFdCTmqxIlYl82Lz9UW) | 5:04 | 2022-06-10 | 2024-04-19 |

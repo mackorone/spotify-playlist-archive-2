@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of electronic music culture\. Featuring Peaches.
 
-449 songs - 1 day 3 hr 23 min
+450 songs - 1 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [off to the ESSO](https://open.spotify.com/track/1R78da7R1cUTG5tLq7hU7c) | [aya](https://open.spotify.com/artist/0NKaRcyqHnynkv7UMsOhEH) | [hexed!](https://open.spotify.com/album/1hNGdfhOWtdbUoFOZ1Sc6J) | 3:29 | 2025-03-29 | 2025-08-09 |
 | [off to the ESSO](https://open.spotify.com/track/1l344tXmFBDrSl141i5hKL) | [aya](https://open.spotify.com/artist/0NKaRcyqHnynkv7UMsOhEH) | [off to the ESSO](https://open.spotify.com/album/5FRLG42HT660dswh54SSrA) | 3:29 | 2025-01-31 | 2025-06-29 |
 | [Oh The Glamour](https://open.spotify.com/track/7CZqezgV2IyorX2tnR1hNt) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Oh The Glamour](https://open.spotify.com/album/57lGyWWdxqvvC9uxEeX62j) | 3:21 | 2023-06-09 | 2024-09-07 |
+| [OLD TECHNOLOGY](https://open.spotify.com/track/02rYuBEPjNLm74mN9IxH0v) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [OLD TECHNOLOGY](https://open.spotify.com/album/6GkFvjqAuoIXk1SoAmG6Iw) | 2:39 | 2026-02-27 |  |
 | [Old White Man](https://open.spotify.com/track/5wWytyzSFYQKe6ar4FoAtc) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ), [3arthquaker](https://open.spotify.com/artist/1hetzmORNUorQZwY7Fw349) | [ANGRY B!TCH RAVE](https://open.spotify.com/album/2qclvgnbsY7VZRCj8vrUyU) | 2:28 | 2025-11-14 |  |
 | [OMG](https://open.spotify.com/track/6u9c5pxX79yzvshvYqwXKK) | [Comanavago](https://open.spotify.com/artist/2UC2VMVP6wuURHTgns8OoP) | [OMG](https://open.spotify.com/album/4JmaNINxnJbRSEGWtr2MhM) | 2:48 | 2024-09-20 | 2024-11-23 |
 | [On 1](https://open.spotify.com/track/7ctqv3o3fv6mbktTDWqNfD) | [Safety Trance](https://open.spotify.com/artist/1tUbyAgdYNOjxXrNSfgquF), [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [On 1](https://open.spotify.com/album/0PzyrjqgNK77UC2SvaUVuV) | 2:25 | 2024-11-15 | 2025-06-21 |
@@ -426,7 +427,7 @@
 | [Training Season \- Chloé Caillet Mix](https://open.spotify.com/track/54Csi59aEo0ENBuwIWtTPJ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Training Season \(Chloé Caillet Mix\)](https://open.spotify.com/album/0XCixBnX3pucK2merSXAN2) | 4:55 | 2024-06-14 | 2024-07-02 |
 | [Transmission](https://open.spotify.com/track/7kdMnkySYCReo8BsznztAF) | [Slim Soledad](https://open.spotify.com/artist/0PMIt2iZdVVvBzyYRpM7Db) | [Transmission](https://open.spotify.com/album/7FyHEcVa1qv5f4AryUbtPH) | 4:19 | 2024-06-01 | 2025-05-10 |
 | [True Love to the Grave \(feat\. Claudia Kane\)](https://open.spotify.com/track/1Av5Jjo7q31Iojme6EvBKC) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [Claudia Kane](https://open.spotify.com/artist/4UazGkNTyhQw8UDtJVhd82) | [True Love to the Grave \(feat\. Claudia Kane\)](https://open.spotify.com/album/4pTvGotVgYC5M4FJc6pfpG) | 3:11 | 2021-10-15 | 2022-06-04 |
-| [True Religion](https://open.spotify.com/track/78wZn0wdzhj3imUleYWd5M) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [True Religion](https://open.spotify.com/album/0Uowlm2LLlqaoAMFtajKat) | 2:50 | 2025-01-24 |  |
+| [True Religion](https://open.spotify.com/track/78wZn0wdzhj3imUleYWd5M) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [True Religion](https://open.spotify.com/album/0Uowlm2LLlqaoAMFtajKat) | 2:50 | 2025-01-24 | 2026-02-28 |
 | [Trust](https://open.spotify.com/track/2FfIlhqu5PONOnlXoRatom) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Trust](https://open.spotify.com/album/0fLTZ5thAE6uMVd1GrT2Pa) | 3:57 | 2022-06-03 | 2023-04-01 |
 | [TRUST!](https://open.spotify.com/track/0bxWdk5xYFcV7cm0tj6Q0R) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [TRUST!](https://open.spotify.com/album/6bJsuHBllmyGoMcRbsXaep) | 2:51 | 2024-10-22 | 2025-08-16 |
 | [Tu Me Das](https://open.spotify.com/track/5NdTp3GzFaBYOiVzV2K2s2) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy), [Safety Trance](https://open.spotify.com/artist/1tUbyAgdYNOjxXrNSfgquF) | [Tu Me Das](https://open.spotify.com/album/0K415NSIm0qCjSFmuM1L6e) | 2:31 | 2024-10-11 | 2025-05-17 |

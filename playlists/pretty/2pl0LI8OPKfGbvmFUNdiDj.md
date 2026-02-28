@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 612 likes - 37 songs - 2 hr 3 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 617 likes - 39 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,5 +45,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 35 | [Hurts \(Dancing With Ghosts\)](https://open.spotify.com/track/1QFmP5yTicfkV52OjzJRqD) | [The New Old](https://open.spotify.com/artist/0YPr7kEbKKF1wICVeL71tb) | [Hurts \(Dancing With Ghosts\)](https://open.spotify.com/album/1LttVa39jjMMHbKWXsKujT) | 3:59 |
 | 36 | [It's Been a While \- Remastered](https://open.spotify.com/track/53xso5Bn6tTx1hwMKu5ia0) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [It's Been a While \(Remastered\)](https://open.spotify.com/album/4yc260le0YppXs9MOv48Wh) | 4:15 |
 | 37 | [Almost Home](https://open.spotify.com/track/0aVnuMnp7Cwf6iQ5XWbwkA) | [Tin Zelkova](https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu) | [The Rock Made To Roll](https://open.spotify.com/album/7FoO01yjnTqwvvMZ2QNQ18) | 5:22 |
+| 38 | [Autumn in the Storm](https://open.spotify.com/track/0tB90dlegD2EegT7EE2Bii) | [Breathing Tales](https://open.spotify.com/artist/2ZFi7bp6R1cFiPxT0Q7P0I) | [Autumn in the Storm](https://open.spotify.com/album/0PEP2Y4dCNhnc71M1SC8zo) | 2:32 |
+| 39 | [The Party](https://open.spotify.com/track/3MDPDsTbteMtMytdsvMLBB) | [The Great Leslie](https://open.spotify.com/artist/4nLnyYZc70ZItmWTW0oo9W) | [The Party](https://open.spotify.com/album/5zd3NUklLnUdqPgU54YlL2) | 3:04 |
 
-Snapshot ID: `AAADGNHKoRqP/91H8ji/GKaMi5oBnujT`
+Snapshot ID: `AAADGt3CI9p3icWBziUQItB66PtJhw5V`

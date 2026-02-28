@@ -2422,7 +2422,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 159473,
       "name": "Jump Jump Jump",
       "url": "https://open.spotify.com/track/309jTjKoqrNjo0CQGjA0i4"
@@ -4376,6 +4376,28 @@
     {
       "album": {
         "name": "Together",
+        "url": "https://open.spotify.com/album/3NFVzTfvN68vpjnei9sxNz"
+      },
+      "artists": [
+        {
+          "name": "AVALDO",
+          "url": "https://open.spotify.com/artist/1GBGuobO7RKUsfnsn2J7AL"
+        },
+        {
+          "name": "Poleis Records",
+          "url": "https://open.spotify.com/artist/5c3SR4JtsmHE1uMzkUB73S"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201590,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/2zSuhqKKnstltdztCtEa5w"
+    },
+    {
+      "album": {
+        "name": "Together",
         "url": "https://open.spotify.com/album/444EVwZDVvm49c7RYE6HYn"
       },
       "artists": [
@@ -4416,6 +4438,24 @@
       "duration_ms": 126222,
       "name": "Tokyo To Rio",
       "url": "https://open.spotify.com/track/0vLFoHL7RfspOfDsVwe4Qt"
+    },
+    {
+      "album": {
+        "name": "Tombo 2026",
+        "url": "https://open.spotify.com/album/7crqZCsU2G23yeLtvgmT7E"
+      },
+      "artists": [
+        {
+          "name": "Dannic",
+          "url": "https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177773,
+      "name": "Tombo 2026",
+      "url": "https://open.spotify.com/track/5IWqDZnOQN2cZqXD3ImI8y"
     },
     {
       "album": {
@@ -4970,7 +5010,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 156338,
       "name": "You Like It Rough (feat. Lee McKing)",
       "url": "https://open.spotify.com/track/08oJNlCDLWglZcbLNMuQ3J"

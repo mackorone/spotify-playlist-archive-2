@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,964 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,971 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 13 | [我喜歡你就是你](https://open.spotify.com/track/17DRxdfyP07muN0Qamxbxc) | [仙杜貝拉 Bella](https://open.spotify.com/artist/3fxnJU0wOgkHIHTpPdgpcd) | [我喜歡你就是你](https://open.spotify.com/album/145Au0ueyg0HZFioFWnk2I) | 3:29 |
 | 14 | [黏黏 \(feat\. 許瑋甯\)](https://open.spotify.com/track/5AnzBfbZ7G88EQqIO5uxFL) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi), [許瑋甯](https://open.spotify.com/artist/0bzVqWAANIcEyvwoR78szB) | [如果雨之後](https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g) | 4:05 |
 | 15 | [陪我看日出](https://open.spotify.com/track/54vBDYCulMrXboGiXiABXD) | [Joi Chua](https://open.spotify.com/artist/7aoSiqJj23B6at0hTVobbg) | [日出](https://open.spotify.com/album/4Imutb6AFFjGa7fh9AAUK2) | 4:20 |
-| 16 | [理想情人](https://open.spotify.com/track/36nY8znTqPiL2MTCLkK0sZ) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [曖昧](https://open.spotify.com/album/2gqDiNvkKI7S4BNsrULQSk) | 4:22 |
-| 17 | [兩隻戀人](https://open.spotify.com/track/16MADi2KjVZgwshXXnCysN) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [Superman](https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN) | 4:04 |
+| 16 | [兩隻戀人](https://open.spotify.com/track/16MADi2KjVZgwshXXnCysN) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [Superman](https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN) | 4:04 |
+| 17 | [理想情人](https://open.spotify.com/track/36nY8znTqPiL2MTCLkK0sZ) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [曖昧](https://open.spotify.com/album/2gqDiNvkKI7S4BNsrULQSk) | 4:22 |
 | 18 | [moonlight](https://open.spotify.com/track/62A4bCkSIY5Geqo2N0uzTM) | [邱鋒澤 Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [moonlight](https://open.spotify.com/album/5lKpuRqLRvNHpsZzIkSg7A) | 2:42 |
 | 19 | [腦公](https://open.spotify.com/track/50ZM3drEKbAIKDfrbRYvX8) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Ugly Beauty](https://open.spotify.com/album/7HFFEjrwzZNpbee44SJnn9) | 2:52 |
 | 20 | [Make Sense](https://open.spotify.com/track/5fufhzT3tgaMEJTZel4cJT) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX), [焦凡凡](https://open.spotify.com/artist/1vgep0h29N7GekPN4MTOW3) | [Make Sense](https://open.spotify.com/album/42M8HFYWPDvXyk9sXLYeQz) | 2:58 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 33 | [美丽的妳](https://open.spotify.com/track/2T6AYvsD39QIoIBafh2RHt) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D), [Caven Tang](https://open.spotify.com/artist/2r8u5K7CZG6Kz3sDebwwOF) | [美丽的妳](https://open.spotify.com/album/0MRXsldEX64PtfesY4c0JC) | 3:09 |
 | 34 | [今天陽光就是特別耀眼特別和諧 feat\. 韋禮安](https://open.spotify.com/track/6qnSA1GSwRtgHCqaD1jQin) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w), [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [今天陽光就是特別耀眼特別和諧](https://open.spotify.com/album/2QREzTJk3ddhLIxoiLRveT) | 3:06 |
 | 35 | [屬於你 \- 電影《一周的朋友》插曲](https://open.spotify.com/track/6aAWv8sFAh1l1buBTUgTWo) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [屬於你 \(電影《一周的朋友》插曲\)](https://open.spotify.com/album/72UbhmRyjQB15aaSkfz6Td) | 2:57 |
-| 36 | [靠很近](https://open.spotify.com/track/5LgXO99ckCKgnGrxpMluIR) | [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv) | [才華換桃花](https://open.spotify.com/album/2zlOVnOj1NYHYqXVt5FlaD) | 3:37 |
-| 37 | [追光者](https://open.spotify.com/track/6XqSMZVMzLW9whVxxUr98p) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [追光者](https://open.spotify.com/album/0OlLgBOD24qBVkpZwGPTLW) | 3:33 |
+| 36 | [追光者](https://open.spotify.com/track/6XqSMZVMzLW9whVxxUr98p) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [追光者](https://open.spotify.com/album/0OlLgBOD24qBVkpZwGPTLW) | 3:33 |
+| 37 | [靠很近](https://open.spotify.com/track/5LgXO99ckCKgnGrxpMluIR) | [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv) | [才華換桃花](https://open.spotify.com/album/2zlOVnOj1NYHYqXVt5FlaD) | 3:37 |
 | 38 | [牛奶麵包 \(電視劇《親愛的, 熱愛的》片尾曲\)](https://open.spotify.com/track/43NcYYApDgwXliG1xWaG8h) | [楊紫](https://open.spotify.com/artist/0DN5jjffBgjiDE1REvAzFR) | [牛奶麵包 \(電視劇《親愛的, 熱愛的》片尾曲\)](https://open.spotify.com/album/0bh7YEKdIKMFbQPQCyKsgX) | 3:28 |
 | 39 | [比昨天更想念你](https://open.spotify.com/track/4TxUh6TXsiwrBqj5D1GkFC) | [李宜柏PAULYBLEE](https://open.spotify.com/artist/6rCZx04nawchlA7kTA0c9v) | [比昨天更想念你](https://open.spotify.com/album/5PWabj8sF2Z8vw23XPWBEg) | 3:15 |
 | 40 | [祝你生日快樂](https://open.spotify.com/track/0swDTbKkAtlG3FanC6jUct) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [祝你生日快樂](https://open.spotify.com/album/2AsrBsR18di75bRFTWArvC) | 4:06 |
@@ -62,16 +62,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 52 | [想和你](https://open.spotify.com/track/4TTjeID2YL0FogDNQoKWfF) | [bertandlulu](https://open.spotify.com/artist/5NnArmUJlGPHOtOQmTEdjJ) | [想和你](https://open.spotify.com/album/3PVAauOBdVFNBx27Nx9bry) | 3:03 |
 | 53 | [官宣](https://open.spotify.com/track/2PJdqbmvMlwmvCKvXbS0x3) | [吳霏](https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4) | [官宣](https://open.spotify.com/album/13B0fljkWc7JaiSm3M3J4R) | 2:49 |
 | 54 | [只想和你看海](https://open.spotify.com/track/2nPv2QOdzssVuE4BWxq3KD) | [Ruth Kueo](https://open.spotify.com/artist/0SueX3F8oyrlVY4i8JB6Lb) | [只想和你看海](https://open.spotify.com/album/1yFAMKACHaHZO67Q1wVRHY) | 3:09 |
-| 55 | [我會很愛妳](https://open.spotify.com/track/1zMfP7uJhoVAfgiaRfmXHT) | [Jerry Yan](https://open.spotify.com/artist/2WkfI6UZfc7Ohpyba7d086) | [多出來的自由](https://open.spotify.com/album/5ODtcfQN1zzG3KuvyQTbKg) | 3:33 |
+| 55 | [慢動作告白](https://open.spotify.com/track/0oTNUfAZEykfW3zglmqdiF) | [Sam Lin](https://open.spotify.com/artist/3EiW2e93LzyelaCJzRlNl1) | [慢動作告白](https://open.spotify.com/album/3rmO1ZCqgQbHlWam1InUBD) | 2:39 |
 | 56 | [想寫一首情歌給你](https://open.spotify.com/track/18MWw902cGonMsCbWjoJkZ) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [想寫一首情歌給你](https://open.spotify.com/album/0SaL2FBYObFbkhRisnIhag) | 2:42 |
-| 57 | [慢動作告白](https://open.spotify.com/track/0oTNUfAZEykfW3zglmqdiF) | [Sam Lin](https://open.spotify.com/artist/3EiW2e93LzyelaCJzRlNl1) | [慢動作告白](https://open.spotify.com/album/3rmO1ZCqgQbHlWam1InUBD) | 2:39 |
+| 57 | [我會很愛妳](https://open.spotify.com/track/1zMfP7uJhoVAfgiaRfmXHT) | [Jerry Yan](https://open.spotify.com/artist/2WkfI6UZfc7Ohpyba7d086) | [多出來的自由](https://open.spotify.com/album/5ODtcfQN1zzG3KuvyQTbKg) | 3:33 |
 | 58 | [怎麼辦都是你啦 \(Can’t help it’s you\)](https://open.spotify.com/track/3Okhe6t5SHvjkmdHz4VqEM) | [呂允](https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9) | [別著急 \(Take It Slow, Take Your Time\)](https://open.spotify.com/album/58hw4uGpGXtHTh0u7vypZL) | 2:57 |
 | 59 | [你是我的水 \- 電影<花甲大人轉男孩>插曲](https://open.spotify.com/track/6K95j4rov7rzTljwWXVibx) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [幾分之幾](https://open.spotify.com/album/2yBLZVs24cFju6t8Jrnpbx) | 3:38 |
 | 60 | [你還不知道？](https://open.spotify.com/track/4dV0T2JbvRemNAdt2oaOhG) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Tay Kewei](https://open.spotify.com/artist/7CEGCiUDMO8Xr257mqIJl2) | [你還不知道？](https://open.spotify.com/album/64w5Op6YBOQ9AiV76Rvikp) | 3:11 |
 | 61 | [借你的肩膀躺一下](https://open.spotify.com/track/3kco33fBIV5l0OLAOzfUXT) | [Jestinna Kuan](https://open.spotify.com/artist/35UUUH8eyqBKGB8iS2eXz2), [Danny Lee](https://open.spotify.com/artist/5FIJ4cSTtEIEyqyzuhP6W6) | [借你的肩膀躺一下](https://open.spotify.com/album/4VvEvvuu0FCPWwyljSkIne) | 3:08 |
 | 62 | [我跟你不只ENFP是LOVE](https://open.spotify.com/track/0rq5yo8UUSRUVbv841G9Um) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [我跟你不只ENFP是LOVE](https://open.spotify.com/album/1I4vRJBMS58WiZZuK4af6l) | 3:03 |
-| 63 | [我好想你](https://open.spotify.com/track/6f9mkalKXgL9ijaPgFyf8c) | [黃挺瑋](https://open.spotify.com/artist/7aLIDbD2Yg3eXMhYQcNCss) | [我好想你](https://open.spotify.com/album/0zP9QFtzJ6VBHYbANHCpsq) | 3:03 |
-| 64 | [You Are My Only One \(電視劇“我和兩個他”主題曲\)](https://open.spotify.com/track/71O9WhK2KDKAeD6ZigPIuB) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL), [Xiao Yu](https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA) | [You Are My Only One \(電視劇“我和兩個他”主題曲\)](https://open.spotify.com/album/4tNABtO1IjRcguQA28sP8b) | 4:33 |
+| 63 | [You Are My Only One \(電視劇“我和兩個他”主題曲\)](https://open.spotify.com/track/71O9WhK2KDKAeD6ZigPIuB) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL), [Xiao Yu](https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA) | [You Are My Only One \(電視劇“我和兩個他”主題曲\)](https://open.spotify.com/album/4tNABtO1IjRcguQA28sP8b) | 4:33 |
+| 64 | [我好想你](https://open.spotify.com/track/6f9mkalKXgL9ijaPgFyf8c) | [黃挺瑋](https://open.spotify.com/artist/7aLIDbD2Yg3eXMhYQcNCss) | [我好想你](https://open.spotify.com/album/0zP9QFtzJ6VBHYbANHCpsq) | 3:03 |
 | 65 | [我喜歡\(不,我愛\)](https://open.spotify.com/track/7lqtdXxC38KOrQ33SB5wVo) | [Yen\-J](https://open.spotify.com/artist/2GzmpDXimCEph6SAw4YdNi) | [謝謝你的美好](https://open.spotify.com/album/7l8wuAhY4aCPnc9ZmwxvSE) | 4:08 |
 | 66 | [曼煎糕](https://open.spotify.com/track/5sllnFvJeEIi6Nahng3FBX) | [Jestinna Kuan](https://open.spotify.com/artist/35UUUH8eyqBKGB8iS2eXz2), [Danny Lee](https://open.spotify.com/artist/5FIJ4cSTtEIEyqyzuhP6W6) | [曼煎糕](https://open.spotify.com/album/7HJXf0UTyN6rqV9yJLLyVw) | 3:19 |
 | 67 | [等著你，夢著你 \- 影集《美食無間》插曲](https://open.spotify.com/track/333r96VxBYJVGrn4XWJauE) | [ANGIE安吉](https://open.spotify.com/artist/4FtbSiZ7Ev2pCRnowp1WIU) | [等著你，夢著你 \(影集《美食無間》插曲\)](https://open.spotify.com/album/2OS0vHafdJcPPGSruzlV7Y) | 3:37 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 72 | [多想要給你我的愛](https://open.spotify.com/track/4nF5bO53yo6JWN0K9rrFZq) | [Lil RAD](https://open.spotify.com/artist/02eMETTb4dkr9wE0utyggc), [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [多想要給你我的愛](https://open.spotify.com/album/7sptJfmA71o8mztzZEz419) | 2:47 |
 | 73 | [明明就很ㄍㄧㄥ但我還是喜歡妳](https://open.spotify.com/track/5084tcZxnvYmXBzP2CwTDQ) | [洋蔥](https://open.spotify.com/artist/6Q6qP18xDxLbiw0um1t7pw) | [明明就很ㄍㄧㄥ但我還是喜歡妳](https://open.spotify.com/album/5p46ZRmGIMGZgbeHV5fp6i) | 3:48 |
 | 74 | [左边](https://open.spotify.com/track/16nxkgxMYayeSct6XY4SmW) | [小包](https://open.spotify.com/artist/70GgkbQstBRQJLwJsKADnC) | [左边](https://open.spotify.com/album/3l0aC2xHOJaDF9EWLeJQpx) | 3:02 |
-| 75 | [好喜歡你](https://open.spotify.com/track/0uvjPVyOj050b6n60pxf2z) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [好喜歡你](https://open.spotify.com/album/0AxUxvZfoCud7qsk9TGcqp) | 4:27 |
+| 75 | [猜一猜 \(網路劇《致我們暖暖的小時光》插曲\)](https://open.spotify.com/track/69AXIAN7Wni7y7LJaZVY6e) | [何曼婷](https://open.spotify.com/artist/6exBk0p2kZ6V9sDD1Y3gsF) | [猜一猜 \(網路劇《致我們暖暖的小時光》插曲\)](https://open.spotify.com/album/17J8RqYCYwucOeGmbj89EW) | 3:47 |
 
 Snapshot ID: `AAAAAGB3Lg753z0Z+NxjFZ+j6HI+XuUO`

@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 503675,
+  "num_followers": 503719,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -67,6 +67,22 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
+        "name": "Colombina",
+        "url": "https://open.spotify.com/album/2ytooaP50YxjuhVtYQyEb0"
+      },
+      "artists": [
+        {
+          "name": "Mari Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "duration_ms": 169687,
+      "name": "Colombina",
+      "url": "https://open.spotify.com/track/2BORRiSmyXBAMAZTsppmBw"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
         "name": "Sorri, Sou Rei (KVSH Remix)",
         "url": "https://open.spotify.com/album/5J4wjBvmwvBXYBWXickRmk"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 217678,
       "name": "Sorri, Sou Rei (KVSH Remix)",
       "url": "https://open.spotify.com/track/3xV2M8KBtZDtZp42vJReCH"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
-        "name": "Colombina",
-        "url": "https://open.spotify.com/album/2ytooaP50YxjuhVtYQyEb0"
-      },
-      "artists": [
-        {
-          "name": "Mari Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
-        }
-      ],
-      "duration_ms": 169687,
-      "name": "Colombina",
-      "url": "https://open.spotify.com/track/2BORRiSmyXBAMAZTsppmBw"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -779,8 +779,8 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "SHOUT",
-        "url": "https://open.spotify.com/album/4TMNunyC0pAOVTDd3YyY3t"
+        "name": "I Do (with Zeeba)",
+        "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
       },
       "artists": [
         {
@@ -788,17 +788,13 @@
           "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
         },
         {
-          "name": "Molk",
-          "url": "https://open.spotify.com/artist/6U58xKDckIjvutio9rirLx"
-        },
-        {
-          "name": "Di Fabianno",
-          "url": "https://open.spotify.com/artist/66rGokWlYlVXbG1mTkYpO1"
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
         }
       ],
-      "duration_ms": 224000,
-      "name": "SHOUT",
-      "url": "https://open.spotify.com/track/574zMI4Ve1OvuKyap7casF"
+      "duration_ms": 173446,
+      "name": "I Do - with Zeeba",
+      "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -855,22 +851,26 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "Please Don't Go (Bruno Martini Remix)",
-        "url": "https://open.spotify.com/album/5gHdb3YQGim7COUZgsPWdt"
+        "name": "No Embalo da Vila (Club Mix)",
+        "url": "https://open.spotify.com/album/1WBxcalV2JHKZCFsFh3ruq"
       },
       "artists": [
         {
-          "name": "Double You",
-          "url": "https://open.spotify.com/artist/2x0mCNdW4P27f3WE0iuQTV"
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
         },
         {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+          "name": "Mozambo",
+          "url": "https://open.spotify.com/artist/7p0BlEIc8u88hMrzTfWQhi"
+        },
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
         }
       ],
-      "duration_ms": 158774,
-      "name": "Please Don't Go - Bruno Martini Remix",
-      "url": "https://open.spotify.com/track/35hL1RBchmPifhV6T1OXxI"
+      "duration_ms": 241935,
+      "name": "No Embalo da Vila - Club Mix",
+      "url": "https://open.spotify.com/track/3k1isZWtIca9Opntaspwpo"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -895,8 +895,8 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "I Do (with Zeeba)",
-        "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
+        "name": "SHOUT",
+        "url": "https://open.spotify.com/album/4TMNunyC0pAOVTDd3YyY3t"
       },
       "artists": [
         {
@@ -904,37 +904,37 @@
           "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
         },
         {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+          "name": "Molk",
+          "url": "https://open.spotify.com/artist/6U58xKDckIjvutio9rirLx"
+        },
+        {
+          "name": "Di Fabianno",
+          "url": "https://open.spotify.com/artist/66rGokWlYlVXbG1mTkYpO1"
         }
       ],
-      "duration_ms": 173446,
-      "name": "I Do - with Zeeba",
-      "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
+      "duration_ms": 224000,
+      "name": "SHOUT",
+      "url": "https://open.spotify.com/track/574zMI4Ve1OvuKyap7casF"
     },
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "No Embalo da Vila (Club Mix)",
-        "url": "https://open.spotify.com/album/1WBxcalV2JHKZCFsFh3ruq"
+        "name": "Please Don't Go (Bruno Martini Remix)",
+        "url": "https://open.spotify.com/album/5gHdb3YQGim7COUZgsPWdt"
       },
       "artists": [
         {
-          "name": "Maz",
-          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+          "name": "Double You",
+          "url": "https://open.spotify.com/artist/2x0mCNdW4P27f3WE0iuQTV"
         },
         {
-          "name": "Mozambo",
-          "url": "https://open.spotify.com/artist/7p0BlEIc8u88hMrzTfWQhi"
-        },
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
         }
       ],
-      "duration_ms": 241935,
-      "name": "No Embalo da Vila - Club Mix",
-      "url": "https://open.spotify.com/track/3k1isZWtIca9Opntaspwpo"
+      "duration_ms": 158774,
+      "name": "Please Don't Go - Bruno Martini Remix",
+      "url": "https://open.spotify.com/track/35hL1RBchmPifhV6T1OXxI"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
+        "name": "Low (feat. Victor Perry)",
+        "url": "https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "Victor Perry",
+          "url": "https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE"
+        }
+      ],
+      "duration_ms": 145952,
+      "name": "Low (feat. Victor Perry)",
+      "url": "https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
         "name": "Todo Homem (Bhaskar, Mojjo Remix)",
         "url": "https://open.spotify.com/album/3Yo6lJRghDLJlv9v0oqyoN"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 269015,
       "name": "Todo Homem - Bhaskar, Mojjo Remix",
       "url": "https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
-        "name": "Low (feat. Victor Perry)",
-        "url": "https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        },
-        {
-          "name": "Victor Perry",
-          "url": "https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE"
-        }
-      ],
-      "duration_ms": 145952,
-      "name": "Low (feat. Victor Perry)",
-      "url": "https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "Foreplay (Radio Edit)",
-        "url": "https://open.spotify.com/album/4ZgMwbe1DsUSI23WrtzVra"
-      },
-      "artists": [
-        {
-          "name": "Flowavez",
-          "url": "https://open.spotify.com/artist/1sLWizVPX3xJrFzGuTcNSe"
-        },
-        {
-          "name": "Vitor Bueno",
-          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
-        }
-      ],
-      "duration_ms": 177633,
-      "name": "Foreplay - Radio Edit",
-      "url": "https://open.spotify.com/track/0ONK2veMuvNNHpaKBTiTnA"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
         "name": "Se Voc\u00ea Quiser",
         "url": "https://open.spotify.com/album/69ULBtdTrF5BxymBScNMQK"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 134400,
       "name": "Could You Be Loved",
       "url": "https://open.spotify.com/track/74PQjt9auBuTHXoQk9ryS4"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
+        "name": "Foreplay (Radio Edit)",
+        "url": "https://open.spotify.com/album/4ZgMwbe1DsUSI23WrtzVra"
+      },
+      "artists": [
+        {
+          "name": "Flowavez",
+          "url": "https://open.spotify.com/artist/1sLWizVPX3xJrFzGuTcNSe"
+        },
+        {
+          "name": "Vitor Bueno",
+          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
+        }
+      ],
+      "duration_ms": 177633,
+      "name": "Foreplay - Radio Edit",
+      "url": "https://open.spotify.com/track/0ONK2veMuvNNHpaKBTiTnA"
     },
     {
       "added_at": "2026-02-13 15:25:57",

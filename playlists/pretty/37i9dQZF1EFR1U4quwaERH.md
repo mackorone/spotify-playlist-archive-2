@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B0BPkmlJbG5tsDwTUUcBq">Blush</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179 likes - 86 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 180 likes - 86 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 42 | [Worthy](https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Worthy](https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon) | 3:28 |
 | 43 | [Impala](https://open.spotify.com/track/1hSd9wVOZKN9bkctsRMSJM) | [iyla](https://open.spotify.com/artist/4LXBFNxqvOcdBVpbgKn6op), [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [APPETITE FOR DISASTER](https://open.spotify.com/album/2xKVOKhRSFgKTrwhTPGoZe) | 3:07 |
 | 44 | [Special](https://open.spotify.com/track/7fbTqRCqyNVguCbUDGUGzG) | [Quincy](https://open.spotify.com/artist/19dpHprxtijzCuWbrtmGrL), [Ryan Destiny](https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf) | [Special](https://open.spotify.com/album/1svkjtosqPMrU78xbCf0MM) | 3:38 |
-| 45 | [Enough](https://open.spotify.com/track/69t1HCs16EDsBuso21e2cT) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Good Morning Gorgeous](https://open.spotify.com/album/0vUPpxeQjTDxcvV86y6G18) | 3:05 |
-| 46 | [Wasn’t Ready](https://open.spotify.com/track/0fwFnGs8ltloJxUKY0Eh6Y) | [TNX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [Love Never Dies](https://open.spotify.com/album/0r8x30PzZEBtxJsLpwHHwL) | 3:03 |
-| 47 | [I Know](https://open.spotify.com/track/3lboRjzlrZ8tFxR0y59Yny) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [Pleasure Shop \- The 3rd Mini Album](https://open.spotify.com/album/5yLDGn4Nj4fuqayUZqOp8J) | 3:25 |
-| 48 | [Çike Çike](https://open.spotify.com/track/5sSX7WUAGL1TUSWnGgnTA8) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Çike Çike](https://open.spotify.com/album/0cbMbvL8IPDDG4hHlOsXgk) | 2:19 |
+| 45 | [Çike Çike](https://open.spotify.com/track/5sSX7WUAGL1TUSWnGgnTA8) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Çike Çike](https://open.spotify.com/album/0cbMbvL8IPDDG4hHlOsXgk) | 2:19 |
+| 46 | [Enough](https://open.spotify.com/track/69t1HCs16EDsBuso21e2cT) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Good Morning Gorgeous](https://open.spotify.com/album/0vUPpxeQjTDxcvV86y6G18) | 3:05 |
+| 47 | [Wasn’t Ready](https://open.spotify.com/track/0fwFnGs8ltloJxUKY0Eh6Y) | [TNX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [Love Never Dies](https://open.spotify.com/album/0r8x30PzZEBtxJsLpwHHwL) | 3:03 |
+| 48 | [I Know](https://open.spotify.com/track/3lboRjzlrZ8tFxR0y59Yny) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [Pleasure Shop \- The 3rd Mini Album](https://open.spotify.com/album/5yLDGn4Nj4fuqayUZqOp8J) | 3:25 |
 | 49 | [Skeletons](https://open.spotify.com/track/5xlw9nAcMfmGNl26HbClOD) | [BluPrint](https://open.spotify.com/artist/3ufrJzxv3ezPKyauNpxPaZ) | [BluPrint](https://open.spotify.com/album/2WCYdF2ttKW61kTrQwvg64) | 3:45 |
 | 50 | [3AM](https://open.spotify.com/track/3gVaJZPl0fLaPeky7mwMlS) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO), [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [3AM](https://open.spotify.com/album/4kh79ZG95W2tzswDQjh9VR) | 2:25 |
 | 51 | [Sugar Free](https://open.spotify.com/track/6lnF4ddb8jtxuUuR0inTql) | [RIRI](https://open.spotify.com/artist/2UmhByzSum8X2lQZ7pWvWp) | [NEO](https://open.spotify.com/album/2glfQqfWGiPntmwsEyGAIE) | 2:47 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 85 | [WADE](https://open.spotify.com/track/1LoOSpYVTugNmrB0bWszvC) | [Parker Phillips](https://open.spotify.com/artist/4G4U0Pmtl0I2JKqI7uvsJw) | [AWAKENING](https://open.spotify.com/album/7Ba5HRA90FvV54xFVRNfDs) | 2:46 |
 | 86 | [Fire](https://open.spotify.com/track/3Ic9ajFl2aBmmQFXQus3Ed) | [Hawk Love](https://open.spotify.com/artist/3mNH3Eq13YnMTwo8vWwwTR) | [Fire](https://open.spotify.com/album/1h88EmeUgoP9Yjpdhz60Jh) | 4:16 |
 
-Snapshot ID: `AcKvHgAAAAD9dsxgNcYozAN9wpb6ir0t`
+Snapshot ID: `AcK0ggAAAADGeeQ5rQdkJJvnJz3ysYwU`

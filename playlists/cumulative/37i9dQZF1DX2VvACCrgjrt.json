@@ -1498,7 +1498,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 173711,
       "name": "BACK 2 THE RECORD",
       "url": "https://open.spotify.com/track/2P0hULf2MorSbvSGD93TuI"
@@ -5664,7 +5664,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 213234,
       "name": "Crazy Shit",
       "url": "https://open.spotify.com/track/5ju7hV8Kb2p2loZz9WyOWv"
@@ -9258,7 +9258,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 184687,
       "name": "Funk Phenomenon",
       "url": "https://open.spotify.com/track/0OlT85K7fAZ2Sx6yE0jXEM"
@@ -11741,6 +11741,24 @@
     },
     {
       "album": {
+        "name": "Hyper",
+        "url": "https://open.spotify.com/album/52fURmrWyVSulmBbmdmwEO"
+      },
+      "artists": [
+        {
+          "name": "La Fuente",
+          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213107,
+      "name": "Hyper",
+      "url": "https://open.spotify.com/track/2uU2Yz2R2ygmhy29cUeYD9"
+    },
+    {
+      "album": {
         "name": "Hypnosis",
         "url": "https://open.spotify.com/album/1GSiJhz5OGVnWvxCqhHKSi"
       },
@@ -12400,6 +12418,24 @@
       "duration_ms": 189214,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/77WJjvXF8XVavIPXicIYW2"
+    },
+    {
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/2kUC6XsIqcliRRS2pMz4DU"
+      },
+      "artists": [
+        {
+          "name": "Tony Dark Eyes",
+          "url": "https://open.spotify.com/artist/3aJBHJUwHkjkGQ4zkG93HP"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187906,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/6uvPxsEsLodSsWTsBBrS0s"
     },
     {
       "album": {
@@ -15022,7 +15058,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 193125,
       "name": "Mind Eraser",
       "url": "https://open.spotify.com/track/4Pqea5CRhmJZjn4VytoUPf"
@@ -18562,7 +18598,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 193828,
       "name": "Price Tag",
       "url": "https://open.spotify.com/track/6RVVtEI9tVwRavWcoW7q2T"
@@ -19640,6 +19676,24 @@
       "duration_ms": 140639,
       "name": "Right Away",
       "url": "https://open.spotify.com/track/3RTr2e3x2LmEMMF5SEaabO"
+    },
+    {
+      "album": {
+        "name": "Right Nahh",
+        "url": "https://open.spotify.com/album/2g99IUCFyi04QOYvPd6NDn"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149817,
+      "name": "Right Nahh",
+      "url": "https://open.spotify.com/track/0WMZSRpCfrUwmqTUaqQZa3"
     },
     {
       "album": {
@@ -22384,6 +22438,28 @@
       "duration_ms": 149706,
       "name": "SYMPHONY",
       "url": "https://open.spotify.com/track/3cPfCJLdadQ3u0T4DOTsnp"
+    },
+    {
+      "album": {
+        "name": "T.A.S.T.E.",
+        "url": "https://open.spotify.com/album/1SaizbBT3fIldGeMq2FaYj"
+      },
+      "artists": [
+        {
+          "name": "nikko",
+          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
+        },
+        {
+          "name": "DEV",
+          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135692,
+      "name": "T.A.S.T.E.",
+      "url": "https://open.spotify.com/track/1mIphNjyFAp2SecLo9GsEG"
     },
     {
       "album": {
@@ -25642,6 +25718,28 @@
       "duration_ms": 170624,
       "name": "What's Your Motive",
       "url": "https://open.spotify.com/track/6iFLvE09jn8p3CPRRH2rXU"
+    },
+    {
+      "album": {
+        "name": "Where I Be",
+        "url": "https://open.spotify.com/album/0p9vY8CVo5EyNpPm6FfVUg"
+      },
+      "artists": [
+        {
+          "name": "No Thanks",
+          "url": "https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34"
+        },
+        {
+          "name": "Kota",
+          "url": "https://open.spotify.com/artist/63QiIbACG85n38thH1gJry"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167343,
+      "name": "Where I Be",
+      "url": "https://open.spotify.com/track/2alxN3uT1DES1HspWPUjZW"
     },
     {
       "album": {

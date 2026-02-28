@@ -4,7 +4,7 @@
 
 > 스포티파이 뮤직 에디터가 선정한 2월의 노래를 만나보세요.
 
-107 songs - 5 hr 46 min
+108 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [First Sight](https://open.spotify.com/track/5trjbfsHbyxkcLdkq7aLN2) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [First Sight](https://open.spotify.com/album/25K852Vuj9m7hf21rKr6Ra) | 3:33 | 2025-12-04 | 2026-02-05 |
 | [FOCUS](https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [FOCUS \- The 1st Mini Album](https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b) | 2:57 | 2025-12-04 | 2026-02-05 |
 | [Follow Your Steps \(Feat\. BIBI\)](https://open.spotify.com/track/7opKvhH1FUiDCmkMSREqwr) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Follow Your Steps \(Feat\. BIBI\)](https://open.spotify.com/album/7z9DTlk05LOOhdU9jQKZUg) | 4:20 | 2025-12-04 | 2026-02-05 |
+| [Fxxxboy](https://open.spotify.com/track/2YUoX58zywC6rqFPOUNOiq) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 3:07 | 2026-02-27 |  |
 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:56 | 2026-02-04 |  |
 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 | 2025-12-04 | 2026-02-05 |
 | [GO!](https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:50 | 2025-12-04 | 2026-02-05 |

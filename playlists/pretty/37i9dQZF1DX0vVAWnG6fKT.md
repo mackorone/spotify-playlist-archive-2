@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 
 > Classic Country from the Legends of the 1940's\. Where Hillbilly, Texas Swing and Bluegrass came together\. Cover: Ernest Tubb
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,822 likes - 70 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,826 likes - 70 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 39 | [Anytime \- Remastered](https://open.spotify.com/track/4CX5dAUwc8zUVpExxXtFLZ) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [Complete Original \#1 Hits](https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU) | 2:52 |
 | 40 | [Old Nevada Moon](https://open.spotify.com/track/3rhYzTf2LKvMd4K0JkcL3E) | [Patsy Montana](https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG) | [Presenting Patsy Montana](https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41) | 2:56 |
 | 41 | [Mule Train](https://open.spotify.com/track/1gPJTFz0LBq7l9cZ9P7siy) | [Tennessee Ernie Ford](https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp) | [Capitol Collectors Series](https://open.spotify.com/album/5WNgZP1HqQyYgvmWCNgaPv) | 3:03 |
-| 42 | [Cotton Eyed Joe \- Single Version](https://open.spotify.com/track/12hH0TgLBeC7QMIM7xy1IN) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [Columbia Historic Edition](https://open.spotify.com/album/4hErYpa8hruFcraFwTDjQL) | 2:37 |
-| 43 | [Take an Old Cold 'Tater \(and Wait\)](https://open.spotify.com/track/31u0qGiw6ZiYe4KasJi2zv) | [Little Jimmy Dickens](https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM) | [16 Biggest Hits](https://open.spotify.com/album/0vnTSS1VEOezDcEf3V9b5q) | 2:47 |
+| 42 | [Take an Old Cold 'Tater \(and Wait\)](https://open.spotify.com/track/31u0qGiw6ZiYe4KasJi2zv) | [Little Jimmy Dickens](https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM) | [16 Biggest Hits](https://open.spotify.com/album/0vnTSS1VEOezDcEf3V9b5q) | 2:47 |
+| 43 | [Cotton Eyed Joe \- Single Version](https://open.spotify.com/track/12hH0TgLBeC7QMIM7xy1IN) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [Columbia Historic Edition](https://open.spotify.com/album/4hErYpa8hruFcraFwTDjQL) | 2:37 |
 | 44 | [So, Round, So Firm, So Fully Packed](https://open.spotify.com/track/0OmEXfD8wnUDd5hCQktc5x) | [Johnny Bond](https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0) | [The Very Best Of](https://open.spotify.com/album/79LDSEJQWGmsApFH2GG0Fr) | 2:58 |
 | 45 | [Mule Skinner Blues \(Blue Yodel \#8\)](https://open.spotify.com/track/5yCDZ1nxkdd8GOkU3rncjR) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [The Essential Bill Monroe](https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo) | 2:41 |
 | 46 | [Born to Lose](https://open.spotify.com/track/6Z6bycK4qORoW6VGp8YrUY) | [Ted Daffan's Texans](https://open.spotify.com/artist/2YnfSATOB2uSfoyltK0uyq) | [Columbia Country Classics Volume 1: The Golden Age](https://open.spotify.com/album/5KjgZmF5dhZ2RwW9sJfB2V) | 2:39 |

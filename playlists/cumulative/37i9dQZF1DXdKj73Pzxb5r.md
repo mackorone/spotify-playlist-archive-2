@@ -4,7 +4,7 @@
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Boy Warongan & The Palmeiros
 
-491 songs - 1 day 7 hr 26 min
+492 songs - 1 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Dinamika Ibukota](https://open.spotify.com/track/21rHgfejti4dwB7KZeoIqZ) | [Wacuwacu](https://open.spotify.com/artist/00sNv6O0WdBwf00jxIDkgc) | [Dinamika Ibukota](https://open.spotify.com/album/4135UcKGoGDg4IVzhzOCY8) | 3:59 | 2024-06-27 | 2024-08-30 |
 | [disarankan di bandung](https://open.spotify.com/track/1BZsLiymbw2UihokAVyTrR) | [Dongker](https://open.spotify.com/artist/6sf1OnuDZM48bgFQvPkbYm), [Jason Ranti](https://open.spotify.com/artist/06x5hKHmGzMggWmRK833nv) | [I Don't Know and I Dongker](https://open.spotify.com/album/6tKbLS7Vy0R1fQ2zUUQM3J) | 2:32 | 2025-08-21 |  |
 | [Doa Terima Kasih](https://open.spotify.com/track/1tZS5E6Ltac2knz4OUWLzh) | [Nosstress](https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co) | [Doa Terima Kasih](https://open.spotify.com/album/3FNHfvgztF0EokCZW3goRu) | 3:50 | 2024-06-27 | 2025-02-21 |
+| [Don't Hold Me Just To Hold On](https://open.spotify.com/track/7aqLZzTRqYXpMXyHjHID6p) | [Gaussian Blue](https://open.spotify.com/artist/6e9PQ9YiHtKk7BAvxxM5nu) | [Don't Hold Me Just To Hold On](https://open.spotify.com/album/10oSwq5p6ZSsJlkOg55P9I) | 3:49 | 2026-02-27 |  |
 | [Don't Let It Slip Away](https://open.spotify.com/track/1ogzrIAv1SZtDjLfVGgoAv) | [The Couch Club](https://open.spotify.com/artist/54Ez4eIclterVTLzaIt4nh), [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc), [BLEU HOUSE](https://open.spotify.com/artist/3hLKrHan3Nuo1N2rod8s4M) | [White Couch In The House](https://open.spotify.com/album/3cTiczSilNcUyTHop73Kss) | 5:38 | 2024-07-11 | 2024-09-06 |
 | [Don't You Dare Hesitate](https://open.spotify.com/track/7vNn4RT0zRxrb3KQQQ4j05) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Take Me](https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r) | 2:23 | 2024-07-16 | 2024-12-06 |
 | [Don't You Say I'm in Love](https://open.spotify.com/track/2wExzqXugXYiquPFiQSpaO) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Don't You Say I'm in Love](https://open.spotify.com/album/2OlZzIkYsmzTRbNaxjH1Rt) | 3:50 | 2026-02-26 |  |

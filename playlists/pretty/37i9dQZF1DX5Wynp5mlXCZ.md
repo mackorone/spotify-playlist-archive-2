@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Топові новинки української та світової поп\-музики\. Обкладинка: Kler
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,527 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,573 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 30 | [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 |
 | 31 | [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 |
 | 32 | [Beat Yourself Up](https://open.spotify.com/track/7dr9uWtuRR6sdFpRjk0mnN) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Beat Yourself Up](https://open.spotify.com/album/4UEzLrGegP8f1PyFEXaKKN) | 2:58 |
-| 33 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 |
-| 34 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 |
+| 33 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 |
+| 34 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 |
 | 35 | [Vanish Into You](https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:04 |
 | 36 | [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 |
 | 37 | [Gorgeous](https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 4:26 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 67 | [ЧОМУ](https://open.spotify.com/track/4mj7zAZwUpCDuPVdZEQlH3) | [Volodymyr Dantes](https://open.spotify.com/artist/0eFAXtLIVxGHPJgUS8gI2E) | [ЧОМУ](https://open.spotify.com/album/0siaXl6Hg3rOEI1CESKefY) | 2:44 |
 | 68 | [Герци](https://open.spotify.com/track/5o65nY7AgBff4iBMwEqzSa) | [KHAYAT](https://open.spotify.com/artist/1YHTEJ3H4Qop7qxN5hZ5jK) | [Герци](https://open.spotify.com/album/6MlCMk3yb2HFgHAOeAbPFS) | 3:00 |
 | 69 | [Stomach Butterflies](https://open.spotify.com/track/3ODfNdDz9b9VmABFncYmPG) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Stomach Butterflies](https://open.spotify.com/album/3yP0f4ywFTS8Y2SJAtmIvv) | 2:51 |
-| 70 | [Все по колу](https://open.spotify.com/track/1QtvlaZUhEU5AxtiIxNrAa) | [KAZKA](https://open.spotify.com/artist/6tnqzaOroG2OtBaSfVJbEw) | [Все по колу](https://open.spotify.com/album/5KW2YY8ttyygKGl7tsN0hI) | 2:43 |
+| 70 | [На вінілі](https://open.spotify.com/track/24vXFJ3D1WSEU2eYMBCSsh) | [KLER](https://open.spotify.com/artist/6rHWskJ6ifvI2GNvX1rjui) | [На вінілі](https://open.spotify.com/album/50qlzYAjmFiBiMqvk2qLpY) | 3:33 |
 
 Snapshot ID: `AAAAAN9UjxsBj72KEAt2b0VMiZaI84x6`

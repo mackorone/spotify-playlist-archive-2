@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Saya No\u00e9",
+  "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Moln\u00e1r Tam\u00e1s",
   "name": "Nemazapop",
   "tracks": [
     {
@@ -190,7 +190,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 214857,
       "name": "Ahogy szeretn\u00e9m",
       "url": "https://open.spotify.com/track/7l8hJYGHuauTSq23YUCCjI"
@@ -278,7 +278,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 205440,
       "name": "Aludn\u00e9k (de nem lehet)",
       "url": "https://open.spotify.com/track/0lZZSC7y64zbFqY8WnPLB3"
@@ -756,7 +756,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 197052,
       "name": "Boh\u00e9m Himnusz",
       "url": "https://open.spotify.com/track/1efQhXRuD8NvlWjGrBl1X7"
@@ -850,6 +850,24 @@
       "duration_ms": 207500,
       "name": "Brigitta V\u00e1rna",
       "url": "https://open.spotify.com/track/2gEiIiZtE5yYLU2JE2bacR"
+    },
+    {
+      "album": {
+        "name": "buligyilkos",
+        "url": "https://open.spotify.com/album/5yDcPJnMl1F01uAYXuT1ah"
+      },
+      "artists": [
+        {
+          "name": "girlhood",
+          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178838,
+      "name": "buligyilkos",
+      "url": "https://open.spotify.com/track/1GeJtHPMPHRrYkA4jX3MDb"
     },
     {
       "album": {
@@ -970,6 +988,24 @@
       "duration_ms": 249795,
       "name": "Channeling codes",
       "url": "https://open.spotify.com/track/3AVfmyHn1XwkupZXPZ0Odg"
+    },
+    {
+      "album": {
+        "name": "chill cheez brgr",
+        "url": "https://open.spotify.com/album/3kQREeH1o5lWO3MozTNar3"
+      },
+      "artists": [
+        {
+          "name": "cibi",
+          "url": "https://open.spotify.com/artist/3e1iDJzrvTCdGOzTCjuiuf"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171034,
+      "name": "chill cheez brgr",
+      "url": "https://open.spotify.com/track/2ex6K0PLnmBkhXXfvvi31L"
     },
     {
       "album": {
@@ -1620,7 +1656,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 207130,
       "name": "El\u00e9g a tenger",
       "url": "https://open.spotify.com/track/7fqCWm2j1szb2PyKTNQJba"
@@ -2397,6 +2433,24 @@
     },
     {
       "album": {
+        "name": "Hangtalan",
+        "url": "https://open.spotify.com/album/0TOHW1XZNCv2ZVh8ti3Jp2"
+      },
+      "artists": [
+        {
+          "name": "L\u00e1bas Viki",
+          "url": "https://open.spotify.com/artist/1FVZNAWNizA5FuYp5UvYOL"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194500,
+      "name": "Hangtalan",
+      "url": "https://open.spotify.com/track/2ApG7qcERbz1FwHXRBlG7d"
+    },
+    {
+      "album": {
         "name": "happy?",
         "url": "https://open.spotify.com/album/3arYHoq8RkLmTYXJYNMPVw"
       },
@@ -2412,6 +2466,32 @@
       "duration_ms": 158439,
       "name": "happy?",
       "url": "https://open.spotify.com/track/1yogziteo6wvaGztMbrjYA"
+    },
+    {
+      "album": {
+        "name": "HARD TIMES",
+        "url": "https://open.spotify.com/album/3OjnXHEZWMHZGha2zdEefx"
+      },
+      "artists": [
+        {
+          "name": "OIEE",
+          "url": "https://open.spotify.com/artist/2ns47ulOmmJQtO0HMIIMUY"
+        },
+        {
+          "name": "M3NSA",
+          "url": "https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s"
+        },
+        {
+          "name": "WaTa",
+          "url": "https://open.spotify.com/artist/0y4UlAL3MRNRaPWGzZrmT0"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157073,
+      "name": "HARD TIMES",
+      "url": "https://open.spotify.com/track/3XjT8J5nk80BqDWJ4BDhPY"
     },
     {
       "album": {
@@ -2734,6 +2814,24 @@
       "duration_ms": 168198,
       "name": "Isten, haza, csal\u00e1d",
       "url": "https://open.spotify.com/track/0LH3Rcqj6BvT32m62E76jj"
+    },
+    {
+      "album": {
+        "name": "Itt vagyok",
+        "url": "https://open.spotify.com/album/7CEFNw5QYzZRW57p2gV15q"
+      },
+      "artists": [
+        {
+          "name": "Zaporozsec",
+          "url": "https://open.spotify.com/artist/6sCNFSN1IvhWtxSEjPk4vP"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164561,
+      "name": "Itt vagyok",
+      "url": "https://open.spotify.com/track/3tGFVeJHq4t13lBsaq0Q94"
     },
     {
       "album": {
@@ -3190,6 +3288,24 @@
       "duration_ms": 156038,
       "name": "K\u00e9s\u0151 Van",
       "url": "https://open.spotify.com/track/5Tshn50cxPx4Zxw43yJ4PI"
+    },
+    {
+      "album": {
+        "name": "K\u00e9t Szeme K\u00f6zt",
+        "url": "https://open.spotify.com/album/2TaLWA4u9iq9oa2SCT8Miz"
+      },
+      "artists": [
+        {
+          "name": "OHNODY",
+          "url": "https://open.spotify.com/artist/3NzgQIuDyjcGAFns3Tc3tS"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336461,
+      "name": "K\u00e9t Szeme K\u00f6zt",
+      "url": "https://open.spotify.com/track/1gXsS2DQE5FoApHGyTz2I9"
     },
     {
       "album": {
@@ -3710,7 +3826,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 175040,
       "name": "Magamat keresem",
       "url": "https://open.spotify.com/track/4C08uOyQjflKZMzpAoxsBL"
@@ -3786,7 +3902,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 99280,
       "name": "Maynotbehere",
       "url": "https://open.spotify.com/track/2ztgRR559yA8idXrN9XFRn"
@@ -4482,6 +4598,24 @@
       "duration_ms": 134500,
       "name": "NEM MA",
       "url": "https://open.spotify.com/track/14ZTaMnNPVA0GoQpPYLa9Y"
+    },
+    {
+      "album": {
+        "name": "NEM N\u00c9M\u00cdTHATTOK EL",
+        "url": "https://open.spotify.com/album/2R1Psv1ZPyF3FggKde4rfp"
+      },
+      "artists": [
+        {
+          "name": "Moln\u00e1r Tam\u00e1s",
+          "url": "https://open.spotify.com/artist/50ktSO1tNyaOAn7mC2lOWm"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153747,
+      "name": "NEM N\u00c9M\u00cdTHATTOK EL",
+      "url": "https://open.spotify.com/track/7hiLmgxXlxzfpOQlfqeBU0"
     },
     {
       "album": {
@@ -6091,6 +6225,24 @@
     },
     {
       "album": {
+        "name": "Take me there",
+        "url": "https://open.spotify.com/album/0bs0tx6HZgBkx99zd55ykw"
+      },
+      "artists": [
+        {
+          "name": "Planet",
+          "url": "https://open.spotify.com/artist/2w5FhuuC9ivptMO0ip66xf"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214933,
+      "name": "Take me there",
+      "url": "https://open.spotify.com/track/4l2unL4Uf5TtuzleCkVMBH"
+    },
+    {
+      "album": {
         "name": "Tal\u00e1n",
         "url": "https://open.spotify.com/album/0lkJsDRKUKNj7SbhwxIaMQ"
       },
@@ -6348,7 +6500,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 165584,
       "name": "Utol\u00e9r",
       "url": "https://open.spotify.com/track/3NkIgoNeVIaNTGoX07HeaJ"
@@ -6374,6 +6526,24 @@
       "duration_ms": 202065,
       "name": "Vadnyugati",
       "url": "https://open.spotify.com/track/5oPCKEKVVbcu7WwvLr5Lrn"
+    },
+    {
+      "album": {
+        "name": "Vakrep\u00fcl\u00e9s",
+        "url": "https://open.spotify.com/album/3tOAQIYf5zHRuxvg6qaIZ1"
+      },
+      "artists": [
+        {
+          "name": "Quimby",
+          "url": "https://open.spotify.com/artist/3ZPq4IH5ZDJKwx5dBQQhBO"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Vakrep\u00fcl\u00e9s",
+      "url": "https://open.spotify.com/track/1AzLHDq6saPBrR9CHyySDs"
     },
     {
       "album": {
@@ -6684,7 +6854,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 202017,
       "name": "you, on repeat",
       "url": "https://open.spotify.com/track/1rEjry2NhQmJeU9cl385KM"
@@ -6832,7 +7002,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 217496,
       "name": "\u00c9LEK",
       "url": "https://open.spotify.com/track/6sttYMGxhalSlGfLWVgYle"

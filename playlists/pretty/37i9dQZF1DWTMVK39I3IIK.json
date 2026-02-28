@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  Mathias Ranch",
-  "num_followers": 47054,
+  "num_followers": 47050,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-02-26 23:00:57",
       "album": {
+        "name": "Udsving",
+        "url": "https://open.spotify.com/album/6DBNLC079WFCQ6tH40cV08"
+      },
+      "artists": [
+        {
+          "name": "Barselona",
+          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
+        }
+      ],
+      "duration_ms": 188752,
+      "name": "Udsving",
+      "url": "https://open.spotify.com/track/5mali68oFTzZtYlDAR4cHX"
+    },
+    {
+      "added_at": "2026-02-26 23:00:57",
+      "album": {
         "name": "hun m\u00e6rker aldrig smerten.",
         "url": "https://open.spotify.com/album/3Dk8ZoaFTtHYCDWRSd43E0"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 187422,
       "name": "Det sker alt for tit",
       "url": "https://open.spotify.com/track/4NJHLdpTZprYzzBl1INEGi"
-    },
-    {
-      "added_at": "2026-02-26 23:00:57",
-      "album": {
-        "name": "Udsving",
-        "url": "https://open.spotify.com/album/6DBNLC079WFCQ6tH40cV08"
-      },
-      "artists": [
-        {
-          "name": "Barselona",
-          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
-        }
-      ],
-      "duration_ms": 188752,
-      "name": "Udsving",
-      "url": "https://open.spotify.com/track/5mali68oFTzZtYlDAR4cHX"
     },
     {
       "added_at": "2026-02-26 23:00:57",
@@ -631,18 +631,18 @@
     {
       "added_at": "2026-02-26 23:00:57",
       "album": {
-        "name": "Marianne og Henrik",
-        "url": "https://open.spotify.com/album/0sRUBB8pBrYJHak5F0sppr"
+        "name": "Stay 4 U",
+        "url": "https://open.spotify.com/album/2YPDu0pGRiGESnixTgFQe7"
       },
       "artists": [
         {
-          "name": "Sofie1998",
-          "url": "https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB"
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
         }
       ],
-      "duration_ms": 180664,
-      "name": "Marianne og Henrik",
-      "url": "https://open.spotify.com/track/0awHR3yreICeQbqZmSfGVw"
+      "duration_ms": 184444,
+      "name": "Stay 4 U",
+      "url": "https://open.spotify.com/track/7ic1zj8awFw8dp0uu2VV12"
     },
     {
       "added_at": "2026-02-26 23:00:57",
@@ -683,18 +683,18 @@
     {
       "added_at": "2026-02-26 23:00:57",
       "album": {
-        "name": "Stay 4 U",
-        "url": "https://open.spotify.com/album/2YPDu0pGRiGESnixTgFQe7"
+        "name": "Marianne og Henrik",
+        "url": "https://open.spotify.com/album/0sRUBB8pBrYJHak5F0sppr"
       },
       "artists": [
         {
-          "name": "Caius",
-          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+          "name": "Sofie1998",
+          "url": "https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB"
         }
       ],
-      "duration_ms": 184444,
-      "name": "Stay 4 U",
-      "url": "https://open.spotify.com/track/7ic1zj8awFw8dp0uu2VV12"
+      "duration_ms": 180664,
+      "name": "Marianne og Henrik",
+      "url": "https://open.spotify.com/track/0awHR3yreICeQbqZmSfGVw"
     },
     {
       "added_at": "2026-02-26 23:00:57",
@@ -747,6 +747,26 @@
     {
       "added_at": "2026-02-26 23:00:57",
       "album": {
+        "name": "V\u00e5gn Op (feat. SELMA MILT)",
+        "url": "https://open.spotify.com/album/2vB1Moo3roCiVHIsuu3yId"
+      },
+      "artists": [
+        {
+          "name": "Kvadrillers",
+          "url": "https://open.spotify.com/artist/7cGbT709Ly8AR5xjPJPeac"
+        },
+        {
+          "name": "SELMA MILT",
+          "url": "https://open.spotify.com/artist/0FoWZNznH566l2BJHGXwE5"
+        }
+      ],
+      "duration_ms": 171136,
+      "name": "V\u00e5gn Op (feat. SELMA MILT)",
+      "url": "https://open.spotify.com/track/5YKRlWWfI9bIj2mulsfFdG"
+    },
+    {
+      "added_at": "2026-02-26 23:00:57",
+      "album": {
         "name": "F\u00f8rhen",
         "url": "https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 164734,
       "name": "Satellitter",
       "url": "https://open.spotify.com/track/6DNt0db6d4ILFcUfSv47xe"
-    },
-    {
-      "added_at": "2026-02-26 23:00:57",
-      "album": {
-        "name": "V\u00e5gn Op (feat. SELMA MILT)",
-        "url": "https://open.spotify.com/album/2vB1Moo3roCiVHIsuu3yId"
-      },
-      "artists": [
-        {
-          "name": "Kvadrillers",
-          "url": "https://open.spotify.com/artist/7cGbT709Ly8AR5xjPJPeac"
-        },
-        {
-          "name": "SELMA MILT",
-          "url": "https://open.spotify.com/artist/0FoWZNznH566l2BJHGXwE5"
-        }
-      ],
-      "duration_ms": 171136,
-      "name": "V\u00e5gn Op (feat. SELMA MILT)",
-      "url": "https://open.spotify.com/track/5YKRlWWfI9bIj2mulsfFdG"
     },
     {
       "added_at": "2026-02-26 23:00:57",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-02-26 23:00:57",
       "album": {
-        "name": "februar",
-        "url": "https://open.spotify.com/album/4bJ3n95X0KM9lSuOx2CN1j"
-      },
-      "artists": [
-        {
-          "name": "Y\u00f6r",
-          "url": "https://open.spotify.com/artist/5LX065qqygHI7V6VvvZ5Sn"
-        }
-      ],
-      "duration_ms": 208314,
-      "name": "februar",
-      "url": "https://open.spotify.com/track/4SJ75m1GZW7mCvUIZ3D7QT"
-    },
-    {
-      "added_at": "2026-02-26 23:00:57",
-      "album": {
         "name": "SIDDER FAST",
         "url": "https://open.spotify.com/album/1AzZUHmbgs54ifcIe6muYe"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 171744,
       "name": "SIDDER FAST",
       "url": "https://open.spotify.com/track/6Wrf5C5mxvkLIoFjlszAVK"
+    },
+    {
+      "added_at": "2026-02-26 23:00:57",
+      "album": {
+        "name": "februar",
+        "url": "https://open.spotify.com/album/4bJ3n95X0KM9lSuOx2CN1j"
+      },
+      "artists": [
+        {
+          "name": "Y\u00f6r",
+          "url": "https://open.spotify.com/artist/5LX065qqygHI7V6VvvZ5Sn"
+        }
+      ],
+      "duration_ms": 208314,
+      "name": "februar",
+      "url": "https://open.spotify.com/track/4SJ75m1GZW7mCvUIZ3D7QT"
     },
     {
       "added_at": "2026-02-26 23:00:57",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-02-26 23:00:57",
       "album": {
-        "name": "Lige s\u00e5 fucked som mig",
-        "url": "https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk"
-      },
-      "artists": [
-        {
-          "name": "Marcus.wav",
-          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
-        }
-      ],
-      "duration_ms": 150488,
-      "name": "Lige s\u00e5 fucked som mig",
-      "url": "https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu"
-    },
-    {
-      "added_at": "2026-02-26 23:00:57",
-      "album": {
         "name": "Waiting For You",
         "url": "https://open.spotify.com/album/1HATJl1qtSHJlHv6W4QGUf"
       },
@@ -963,18 +947,50 @@
     {
       "added_at": "2026-02-26 23:00:57",
       "album": {
-        "name": "Barn Af Venedig",
-        "url": "https://open.spotify.com/album/7md2UVqllUni4xa7373rXi"
+        "name": "Lige s\u00e5 fucked som mig",
+        "url": "https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk"
       },
       "artists": [
         {
-          "name": "Mathias Ranch",
-          "url": "https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8"
+          "name": "Marcus.wav",
+          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
         }
       ],
-      "duration_ms": 239000,
-      "name": "Barn Af Venedig",
-      "url": "https://open.spotify.com/track/69xPESR9jpHettUzmQiWYE"
+      "duration_ms": 150488,
+      "name": "Lige s\u00e5 fucked som mig",
+      "url": "https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu"
+    },
+    {
+      "added_at": "2026-02-26 23:00:57",
+      "album": {
+        "name": "Ind I Solen",
+        "url": "https://open.spotify.com/album/3zOUUHsN36r3eqFNh1gz0b"
+      },
+      "artists": [
+        {
+          "name": "Kayak",
+          "url": "https://open.spotify.com/artist/52CkRpzc0v3TRxHC5maRCz"
+        }
+      ],
+      "duration_ms": 227037,
+      "name": "Ind I Solen",
+      "url": "https://open.spotify.com/track/0reWoytdJChwzqhVwUpiFz"
+    },
+    {
+      "added_at": "2026-02-26 23:00:57",
+      "album": {
+        "name": "STEMMER",
+        "url": "https://open.spotify.com/album/2yXUtoUSVUmDwF5GxrwMYN"
+      },
+      "artists": [
+        {
+          "name": "BL\u00c5",
+          "url": "https://open.spotify.com/artist/0Cuk5kJqUBt9humq6ryL5N"
+        }
+      ],
+      "duration_ms": 176155,
+      "name": "STEMMER",
+      "url": "https://open.spotify.com/track/2ITRqKiP7QTCWir4Y26rLp"
     },
     {
       "added_at": "2026-02-26 23:00:57",
@@ -995,18 +1011,18 @@
     {
       "added_at": "2026-02-26 23:00:57",
       "album": {
-        "name": "Ind I Solen",
-        "url": "https://open.spotify.com/album/3zOUUHsN36r3eqFNh1gz0b"
+        "name": "Barn Af Venedig",
+        "url": "https://open.spotify.com/album/7md2UVqllUni4xa7373rXi"
       },
       "artists": [
         {
-          "name": "Kayak",
-          "url": "https://open.spotify.com/artist/52CkRpzc0v3TRxHC5maRCz"
+          "name": "Mathias Ranch",
+          "url": "https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8"
         }
       ],
-      "duration_ms": 227037,
-      "name": "Ind I Solen",
-      "url": "https://open.spotify.com/track/0reWoytdJChwzqhVwUpiFz"
+      "duration_ms": 239000,
+      "name": "Barn Af Venedig",
+      "url": "https://open.spotify.com/track/69xPESR9jpHettUzmQiWYE"
     },
     {
       "added_at": "2026-02-26 23:00:57",
@@ -1059,22 +1075,6 @@
     {
       "added_at": "2026-02-26 23:00:57",
       "album": {
-        "name": "STEMMER",
-        "url": "https://open.spotify.com/album/2yXUtoUSVUmDwF5GxrwMYN"
-      },
-      "artists": [
-        {
-          "name": "BL\u00c5",
-          "url": "https://open.spotify.com/artist/0Cuk5kJqUBt9humq6ryL5N"
-        }
-      ],
-      "duration_ms": 176155,
-      "name": "STEMMER",
-      "url": "https://open.spotify.com/track/2ITRqKiP7QTCWir4Y26rLp"
-    },
-    {
-      "added_at": "2026-02-26 23:00:57",
-      "album": {
         "name": "Til Enden Og Tilbage (feat. Ungklang)",
         "url": "https://open.spotify.com/album/6AyEcAj5lzs9BxxavSUpAu"
       },
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-02-26 23:00:57",
       "album": {
-        "name": "Den Lykkelige Ungdom",
-        "url": "https://open.spotify.com/album/3fJ3oOrnnde9HHFCzu0xfo"
-      },
-      "artists": [
-        {
-          "name": "Pauline",
-          "url": "https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl"
-        }
-      ],
-      "duration_ms": 163948,
-      "name": "Den Lykkelige Ungdom",
-      "url": "https://open.spotify.com/track/1AL7r6OKkjW77eRDaTZsSI"
-    },
-    {
-      "added_at": "2026-02-26 23:00:57",
-      "album": {
         "name": "Kravler f\u00f8r vi g\u00e5r",
         "url": "https://open.spotify.com/album/2bcOShjWYuvZO2PEmnG460"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 235500,
       "name": "For gamle ting",
       "url": "https://open.spotify.com/track/3s5FEMJxracb3iGPS87YZJ"
+    },
+    {
+      "added_at": "2026-02-26 23:00:57",
+      "album": {
+        "name": "Den Lykkelige Ungdom",
+        "url": "https://open.spotify.com/album/3fJ3oOrnnde9HHFCzu0xfo"
+      },
+      "artists": [
+        {
+          "name": "Pauline",
+          "url": "https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl"
+        }
+      ],
+      "duration_ms": 163948,
+      "name": "Den Lykkelige Ungdom",
+      "url": "https://open.spotify.com/track/1AL7r6OKkjW77eRDaTZsSI"
     },
     {
       "added_at": "2026-02-26 23:00:57",

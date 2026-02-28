@@ -8487,6 +8487,28 @@
     },
     {
       "album": {
+        "name": "Atrocity Exhibition",
+        "url": "https://open.spotify.com/album/3e7vtKJ3m1zVh38VGq2g3H"
+      },
+      "artists": [
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        },
+        {
+          "name": "B-Real",
+          "url": "https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213477,
+      "name": "Get Hi",
+      "url": "https://open.spotify.com/track/7kKEXvq4NQ9OatQs906MGV"
+    },
+    {
+      "album": {
         "name": "Master the Day of Judgement",
         "url": "https://open.spotify.com/album/3rNf2SErEqCBoyHVYEDNU9"
       },
@@ -8954,6 +8976,24 @@
       "duration_ms": 252600,
       "name": "Gold Watch",
       "url": "https://open.spotify.com/track/2DGMORz6TjhKgCYM7quaZh"
+    },
+    {
+      "album": {
+        "name": "How I Do",
+        "url": "https://open.spotify.com/album/4u50iZ3xFs19AxPRmakPYa"
+      },
+      "artists": [
+        {
+          "name": "Res",
+          "url": "https://open.spotify.com/artist/56YiNz2C704YPpRtPvMBg7"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278973,
+      "name": "Golden Boys",
+      "url": "https://open.spotify.com/track/0nFu0CiLJGf3qw9t08Mm8L"
     },
     {
       "album": {
@@ -23226,6 +23266,24 @@
       "duration_ms": 250960,
       "name": "The Game",
       "url": "https://open.spotify.com/track/0guvIenUfsoOqh7uAtumfm"
+    },
+    {
+      "album": {
+        "name": "A Piece Of Strange",
+        "url": "https://open.spotify.com/album/03tgCJ19ar8hr39aRSfUIA"
+      },
+      "artists": [
+        {
+          "name": "CunninLynguists",
+          "url": "https://open.spotify.com/artist/7EA0bLf8dXCIUkwC3lnaJa"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244946,
+      "name": "The Gates",
+      "url": "https://open.spotify.com/track/4eqFO0IoNpksEoZ6ew7Cc8"
     },
     {
       "album": {

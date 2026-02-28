@@ -4,7 +4,7 @@
 
 > Najlepsze polskie piosenki na czasie\. Cover: WIktoria Kida, Oskar Cyms
 
-797 songs - 1 day 14 hr 42 min
+797 songs - 1 day 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -582,6 +582,7 @@
 | [SAMOTNI RAZEM](https://open.spotify.com/track/5nhVWRExWcSE7CIx8hx4YM) | [Zui](https://open.spotify.com/artist/1p9gb5cprkEk0iZShbcRas) | [SAMOTNI RAZEM](https://open.spotify.com/album/1dZ2GilXKes0s4WEZokQ8p) | 2:22 | 2025-08-14 | 2025-08-22 |
 | [Santa Cruz](https://open.spotify.com/track/7eBnyfgpicRCTgGvlwJoMS) | [Ekipa](https://open.spotify.com/artist/4rneSQYWhgIT9pMX2NwpeM), [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Qry](https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy), [WERSOW](https://open.spotify.com/artist/1FIoGhkDJAWOqXT1I85GRC), [Mortal](https://open.spotify.com/artist/4tZpdFSfE7mkuwlWM2Y5f3), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0), [Świeży](https://open.spotify.com/artist/1EIiX3fde2dGnFkYH3527s) | [Santa Cruz](https://open.spotify.com/album/63gRlSJJOJEUTDM89savvW) | 2:25 | 2025-06-16 | 2025-11-28 |
 | [SANTORINI](https://open.spotify.com/track/725GGkOr07ss8F4ta39bc7) | [Mery Spolsky](https://open.spotify.com/artist/4U3Mh4fpzJb7XD1CR1ZbDx) | [SANTORINI](https://open.spotify.com/album/5iPUra2nZbLil9V5gaxa97) | 3:47 | 2024-07-01 | 2024-07-19 |
+| [SANTORINI](https://open.spotify.com/track/2HfLL3o1N1vfVRC1aRf3Zf) | [WERSOW](https://open.spotify.com/artist/1FIoGhkDJAWOqXT1I85GRC), [kuqe 2115](https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf) | [MATKA IDOLKA](https://open.spotify.com/album/0RDsMMJPhAPZ0horpR7HMF) | 2:17 | 2026-02-26 |  |
 | [Seans](https://open.spotify.com/track/3jKOZJ66h9OtMMK9peLtbT) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Seans](https://open.spotify.com/album/2Fe1SexwAJoAjF5hVDcHir) | 3:39 | 2025-08-07 | 2025-09-20 |
 | [Sedno](https://open.spotify.com/track/184h1j6ZZv26SmoKzv5uHD) | [Felivers](https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk) | [Sedno](https://open.spotify.com/album/7BdBHF7fDtd5OL5lPiAs75) | 2:21 | 2025-09-25 | 2025-10-10 |
 | [Selavie](https://open.spotify.com/track/0aFEj7St3LyFpuoT1cY23L) | [Vixen](https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO), [Tabb](https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ) | [Selavie](https://open.spotify.com/album/1it328lbXQ1jFw952cyQQN) | 2:31 | 2025-11-13 | 2025-11-21 |
@@ -667,7 +668,6 @@
 | [Top Girl](https://open.spotify.com/track/7ghosh2NhvSIbgONRA2lik) | [Daria Marx](https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u) | [Top Girl](https://open.spotify.com/album/5OYmkUhePZs0CWXKoJ4s7F) | 2:15 | 2025-07-03 | 2025-07-18 |
 | [Tortury](https://open.spotify.com/track/171JR2rZMLiIALNAKOWcSu) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Tortury](https://open.spotify.com/album/4sZgeQIX8gM4DT2vJUxrPp) | 2:59 | 2024-11-14 | 2025-01-17 |
 | [Toskania](https://open.spotify.com/track/019YTP6v9YSy1CjEkizSAm) | [Julia Przybylska](https://open.spotify.com/artist/3OSpVIczY7n8Mhz02orZTP) | [Toskania](https://open.spotify.com/album/2AX0qNiRGEtVeQiL9EHZ4W) | 2:19 | 2025-08-14 | 2025-08-22 |
-| [Track 16](https://open.spotify.com/track/2HfLL3o1N1vfVRC1aRf3Zf) | [WERSOW](https://open.spotify.com/artist/1FIoGhkDJAWOqXT1I85GRC) | [MATKA IDOLKA](https://open.spotify.com/album/0RDsMMJPhAPZ0horpR7HMF) | 0:00 | 2026-02-26 |  |
 | [Trochę Za Blisko](https://open.spotify.com/track/6SpeBDnkgYdkFYy5AEW2Oz) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [Trochę Za Blisko](https://open.spotify.com/album/5LTCu9xRaCbYcmKYWlBEI1) | 2:29 | 2024-10-03 | 2025-02-14 |
 | [Trzy razy bardziej](https://open.spotify.com/track/0eR77P8QY3qAH9JCidfHxf) | [Hania Kuzimowicz](https://open.spotify.com/artist/2z0LDef08JN0VpXdzrZIvJ), [The Voice of Poland](https://open.spotify.com/artist/0tu7LpFeEMuCPewcudUKG4) | [Trzy razy bardziej](https://open.spotify.com/album/0k6r6cVmXykoawcweiKtpv) | 2:29 | 2026-02-05 |  |
 | [Tsunami](https://open.spotify.com/track/1CN4xpeOZDn1Q1sdZjNHE6) | [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg), [Wiktor Dyduła](https://open.spotify.com/artist/7FauNoLr3HWvWfsaBlFPhs) | [Tsunami](https://open.spotify.com/album/0noxWwMrDt0phcOdH3oYP1) | 3:22 | 2025-01-16 | 2025-03-14 |

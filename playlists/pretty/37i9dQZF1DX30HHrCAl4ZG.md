@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Liz Cooper
 
-[Spotify](https://open.spotify.com/user/spotify) - 808,082 likes - 150 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 808,045 likes - 150 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 110 | [Don’t Let Them Tell You \(It’s Fair\)](https://open.spotify.com/track/1ij91ZruNl7xGgWE0ZRcBb) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Don’t Let Them Tell You \(It’s Fair\)](https://open.spotify.com/album/5gznrt3F3a9huMKqdzxPPN) | 3:57 |
 | 111 | [After Party](https://open.spotify.com/track/7BknNkgT0Bvkx6awnyj16Z) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Cutthroat](https://open.spotify.com/album/3Wm7UlvuhjWq4kiUBOqZeE) | 3:09 |
 | 112 | [Crashing Highs](https://open.spotify.com/track/0oEKrDeEMP99yUGu9WLSg8) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Crashing Highs](https://open.spotify.com/album/0QnNFYZHAtyYCMi8vxl6Rh) | 3:01 |
-| 113 | [Little Birds](https://open.spotify.com/track/48f6WJoZEU1TgKsapzSy9m) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [Chrysalis](https://open.spotify.com/album/7zye78YuqWDxWb3ZLSsXNh) | 4:00 |
+| 113 | [little birds](https://open.spotify.com/track/48f6WJoZEU1TgKsapzSy9m) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [chrysalis](https://open.spotify.com/album/7zye78YuqWDxWb3ZLSsXNh) | 4:00 |
 | 114 | [Favorite Fear](https://open.spotify.com/track/3Vqcx4fajH02dyRuY99szQ) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Goldie Boutilier Presents..\. Goldie Montana](https://open.spotify.com/album/7ztYs1cGt5EkHppMFcvNtN) | 3:09 |
 | 115 | [Bitter Everyday](https://open.spotify.com/track/3NGXSH11dlimo9JWJwLaEg) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bitter Everyday](https://open.spotify.com/album/2c6cvFXz3fANNgXuuqtlHs) | 3:21 |
 | 116 | [100 Summers](https://open.spotify.com/track/3nGdMRCCVS8TZiJOVKQD2P) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [100 Summers](https://open.spotify.com/album/2wq4WfPC7ic596WQnY1L2Z) | 3:58 |

@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 763875,
+  "num_followers": 764232,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/7hMHlj0TgrV5hw7LwZeziu"
+      },
+      "artists": [
+        {
+          "name": "Airbase",
+          "url": "https://open.spotify.com/artist/3R3fc4fBMzzmJoSrRgVdKe"
+        }
+      ],
+      "duration_ms": 194946,
+      "name": "Escape - Radio Edit",
+      "url": "https://open.spotify.com/track/0gDfkQYmyiq0eZFLof6hbh"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
         "name": "Armada Collected: Aly & Fila",
         "url": "https://open.spotify.com/album/7HWZDqLdT72qEKhiQrOCu1"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 226673,
       "name": "We Control The Sunlight",
       "url": "https://open.spotify.com/track/7LpshpG8snNJYdD7TnHS0I"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/7hMHlj0TgrV5hw7LwZeziu"
-      },
-      "artists": [
-        {
-          "name": "Airbase",
-          "url": "https://open.spotify.com/artist/3R3fc4fBMzzmJoSrRgVdKe"
-        }
-      ],
-      "duration_ms": 194946,
-      "name": "Escape - Radio Edit",
-      "url": "https://open.spotify.com/track/0gDfkQYmyiq0eZFLof6hbh"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -859,22 +859,18 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "The Club Mix Collection",
-        "url": "https://open.spotify.com/album/0RkRavz2FtCFuFe3U9iEZE"
+        "name": "Can't Sleep",
+        "url": "https://open.spotify.com/album/5KW0519bHDR5rjyGzcGYbB"
       },
       "artists": [
         {
           "name": "Above & Beyond",
           "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Richard Bedford",
-          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
         }
       ],
-      "duration_ms": 188099,
-      "name": "Sun & Moon - Above & Beyond Club Mix",
-      "url": "https://open.spotify.com/track/5uwnXVq6NrQDvIlVZznVaC"
+      "duration_ms": 192866,
+      "name": "Can't Sleep - Radio Edit",
+      "url": "https://open.spotify.com/track/7imdlxmN8ORoiwbje4KcDy"
     },
     {
       "added_at": "2024-07-23 09:55:55",

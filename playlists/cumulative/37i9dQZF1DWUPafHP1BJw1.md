@@ -4,11 +4,12 @@
 
 > Your favorite pop songs, classically reimagined.
 
-302 songs - 17 hr 21 min
+305 songs - 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(I Just\) Died In Your Arms \- Symphony Orchestra Version](https://open.spotify.com/track/1QW9fdfmKQbbEWKpxwcToS) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [\(I Just\) Died In Your Arms \[Symphony Orchestra Version\]](https://open.spotify.com/album/4Oe8mCQe5va5ItLsvJtvnq) | 3:10 | 2024-08-09 | 2025-05-17 |
+| [360 \(Arr\. For Cello Obligato and String Quartet\)](https://open.spotify.com/track/22B0img3GewOBsjGMoYx9T) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Bridgerton Season Four \(Covers from the Netflix Series\)](https://open.spotify.com/album/5i1sHzYpjy5XKnhgFjukXF) | 2:11 | 2026-02-27 |  |
 | [360 \(Arr\. String Quartet\) \- Inspired by Bridgerton](https://open.spotify.com/track/6htpdvT6PTQr1VPeOqkOsU) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [360 \(Arr\. String Quartet\) \[Inspired by Bridgerton\]](https://open.spotify.com/album/13WeT5zGOp1qny5bnOuk8A) | 2:05 | 2026-01-30 |  |
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/7lz548Cc4yXHl2shw1C7oo) | [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw), [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/2ybMUQuyia7YtgEjyFHIxi) | 2:52 | 2024-11-08 |  |
 | [A Sky Full of Stars](https://open.spotify.com/track/7k0KOplnvXm5GUkw7RXYg0) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [Uncharted](https://open.spotify.com/album/6nNCnm0zCnx2CF033KpEVd) | 4:08 | 2021-11-19 |  |
@@ -24,6 +25,7 @@
 | [All Of Me](https://open.spotify.com/track/1BpGZ5bqIC0F6nbK27G4xP) | [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3) | [Pop Goes Classical](https://open.spotify.com/album/20Et1l6jsJdticffIphZQP) | 3:18 | 2022-07-08 | 2024-04-19 |
 | [All Of Me](https://open.spotify.com/track/364awD0WkGUrHqvV92NLvd) | [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3) | [Pop Goes Classical](https://open.spotify.com/album/58i8rbysdhVemJzgFtP5Bo) | 3:18 | 2021-11-19 |  |
 | [America \(Arr\. for Piano by Noah Luna\)](https://open.spotify.com/track/7oXj6NwhbxjHM7FirgQUQ2) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Lara Downes](https://open.spotify.com/artist/2pSV3M4cqq8MUqT3SrXdpS) | [This Land](https://open.spotify.com/album/0IXW2nCmhfprq7V4HwYhxE) | 3:09 | 2024-09-04 |  |
+| [Angels Like You \(Arr\. String Quartet\) \- Inspired by Bridgerton](https://open.spotify.com/track/52Ss0JJFtErwRy82qLkfN8) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Angel Like You \(Arr\. for String Quartet\) \[Inspired by Bridgerton\]](https://open.spotify.com/album/0P2k9LM0ZxdlXxqkrye2D9) | 3:17 | 2026-02-27 |  |
 | [Another Love](https://open.spotify.com/track/16jP0IW7THTWCguoe10kUx) | [Pianíso](https://open.spotify.com/artist/0SbCt7iW9rSb4hMLejlUxc) | [Another Love](https://open.spotify.com/album/2Z6y6VZDUHTgIwWM9G2bkw) | 3:22 | 2024-08-09 |  |
 | [Anti\-Hero](https://open.spotify.com/track/4QoywwYw4xnKRHOSmbmSQx) | [Dallas String Quartet](https://open.spotify.com/artist/5vvlfKQdn6amTImsjy9Si5) | [Anti\-Hero](https://open.spotify.com/album/4YvpNIX2uxTvY5KXn1QLvg) | 3:16 | 2023-06-23 |  |
 | [Anti\-Hero \(arr\. piano\)](https://open.spotify.com/track/4xZP0zYF23dP8JRcqyF2mV) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Anti Hero \(arr\. piano\)](https://open.spotify.com/album/56wtDQM2uL66GbgYQXAlhP) | 3:18 | 2023-03-17 | 2023-06-24 |
@@ -178,6 +180,7 @@
 | [Maniac \- Symphony Orchestra Version](https://open.spotify.com/track/3UAznpWQQtaE1UCRAZ6WZM) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [Maniac \(Symphony Orchestra Version\)](https://open.spotify.com/album/3yDNmmVMxONGu3ZFm6poMy) | 3:45 | 2024-08-09 | 2025-05-17 |
 | [Material Girl](https://open.spotify.com/track/4p7na6NSU0F7lMOhx9kg9k) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:04 | 2022-03-30 |  |
 | [Matilda](https://open.spotify.com/track/0FsaTknAtvrXcf6qtJkOjI) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [Matilda](https://open.spotify.com/album/0XTCR8EFxyZoT3zBfOJRMR) | 4:34 | 2023-04-14 |  |
+| [Misery Business \(Arr\. String Quartet\) \- Inspired by Bridgerton](https://open.spotify.com/track/1JWaYtUaxn19EkQPfvREyE) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Misery Business \(Arr\. String Quartet\) \[Inspired by Bridgerton\]](https://open.spotify.com/album/5jQDivYRIBA3ZkcL6hOm4G) | 3:35 | 2026-02-27 |  |
 | [Morning Has Broken](https://open.spotify.com/track/4TaDnIQ6UmD8BW07VCH0ie) | [Rick Wakeman](https://open.spotify.com/artist/0mkcYaXUbJUs5mJointuzB) | [Piano Portraits](https://open.spotify.com/album/1Yo5LUdLUSn2fwNgYFEebf) | 3:41 | 2021-11-19 | 2022-05-07 |
 | [Moves Like Jagger](https://open.spotify.com/track/4GI6DgHjcyThFVotaMepa4) | [TwoPlusFour](https://open.spotify.com/artist/5E7YtMkMtwhfqEetlwiXQT) | [Moves Like Jagger](https://open.spotify.com/album/236GnBMmPj4RzbhhpADljT) | 2:58 | 2021-11-19 | 2022-01-05 |
 | [My Gift Is My Song \(Single Edit\): Your Song / Goodbye Yellow Brick Road](https://open.spotify.com/track/257EJQlyUhELc7VqoBqMcx) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s) | [My Gift Is My Song](https://open.spotify.com/album/3bGTshvqxl7igqEbBuFlW4) | 3:53 | 2022-03-25 |  |

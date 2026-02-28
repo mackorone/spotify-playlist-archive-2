@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best rock songs of the moment. Cover: Royal Tusk",
+  "description": "The best rock songs of the moment. Cover: The Sheepdogs",
   "name": "Rock Now",
   "tracks": [
     {
@@ -2321,6 +2321,24 @@
     },
     {
       "album": {
+        "name": "Keep Out of the Storm",
+        "url": "https://open.spotify.com/album/4zVep3YJysMh3gyQmCNKRr"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266053,
+      "name": "Bad For Your Health",
+      "url": "https://open.spotify.com/track/1yqEr1wbrKeDQzoVr4kvnB"
+    },
+    {
+      "album": {
         "name": "bad idea right?",
         "url": "https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0"
       },
@@ -2336,6 +2354,24 @@
       "duration_ms": 184783,
       "name": "bad idea right?",
       "url": "https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a"
+    },
+    {
+      "album": {
+        "name": "Bad Moons",
+        "url": "https://open.spotify.com/album/31Az8zsLomPk3LrfEs0q6p"
+      },
+      "artists": [
+        {
+          "name": "American Football",
+          "url": "https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493146,
+      "name": "Bad Moons",
+      "url": "https://open.spotify.com/track/1vFLg6nWigxe7H8pw2GT6z"
     },
     {
       "album": {
@@ -3833,6 +3869,24 @@
     },
     {
       "album": {
+        "name": "breathe",
+        "url": "https://open.spotify.com/album/0wfUkmhfadrvXWdN58N8Hi"
+      },
+      "artists": [
+        {
+          "name": "Evan Fong",
+          "url": "https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "breathe",
+      "url": "https://open.spotify.com/track/4TDVVe5jqspajdVDg8GYJF"
+    },
+    {
+      "album": {
         "name": "Breathe onto me",
         "url": "https://open.spotify.com/album/5FI4CXyIPIvp34yuBjRn6F"
       },
@@ -4150,7 +4204,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 235438,
       "name": "Burn the Ballroom Down",
       "url": "https://open.spotify.com/track/2sJp1wIFUHyNouLFOFFfN2"
@@ -10265,6 +10319,24 @@
     },
     {
       "album": {
+        "name": "Bill's Cafe",
+        "url": "https://open.spotify.com/album/5BD2jCsQhT0Th1AQIaLezB"
+      },
+      "artists": [
+        {
+          "name": "Garret T. Willie",
+          "url": "https://open.spotify.com/artist/1h3omMr7jTuA0Tbuy8fALW"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208064,
+      "name": "Going To Toronto",
+      "url": "https://open.spotify.com/track/4xpLJA2W5I89TyC7VufCwq"
+    },
+    {
+      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/50SocXtryJeL2lfhNhDq2B"
       },
@@ -13853,6 +13925,24 @@
     },
     {
       "album": {
+        "name": "KISSBURN",
+        "url": "https://open.spotify.com/album/5Q7FMsEUK0Cc35gxZqZDaT"
+      },
+      "artists": [
+        {
+          "name": "Bye Parula",
+          "url": "https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192904,
+      "name": "KISSBURN",
+      "url": "https://open.spotify.com/track/06PLaIZyj917CnrwaJ3USU"
+    },
+    {
+      "album": {
         "name": "Knocking At My Door",
         "url": "https://open.spotify.com/album/2k7mLxuz7WHnmsiVrI2mmD"
       },
@@ -14970,7 +15060,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 153318,
       "name": "LIKE ME LIKE THAT",
       "url": "https://open.spotify.com/track/04uBUXTAYNMUVr61CEakiq"
@@ -15878,7 +15968,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 190428,
       "name": "Make a Mess",
       "url": "https://open.spotify.com/track/0crhkNZJhowGwML5s7TYGp"
@@ -16080,7 +16170,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 217292,
       "name": "MASTERS OF WAR",
       "url": "https://open.spotify.com/track/0EJlSUNoYL931cYAQspN5i"
@@ -16654,7 +16744,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 201287,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/3q9tHGzGK8e94sTusovJYh"
@@ -17504,6 +17594,24 @@
       "duration_ms": 197253,
       "name": "Neurotic (feat. Lukas Rossi)",
       "url": "https://open.spotify.com/track/0lMYQaJNpyo4NIdLiv5eXY"
+    },
+    {
+      "album": {
+        "name": "never come never morning",
+        "url": "https://open.spotify.com/album/3KNP2YOHUN7mZ59sfWsQ5U"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219653,
+      "name": "never come never morning",
+      "url": "https://open.spotify.com/track/4jOknxaxzqmtiw583YTli6"
     },
     {
       "album": {
@@ -19751,6 +19859,24 @@
     },
     {
       "album": {
+        "name": "pieces",
+        "url": "https://open.spotify.com/album/0HtKs3fzUYPQIjA0kXsCDk"
+      },
+      "artists": [
+        {
+          "name": "thistle.",
+          "url": "https://open.spotify.com/artist/4dPHAp5JXnj8HkY71hWVj5"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202788,
+      "name": "pieces",
+      "url": "https://open.spotify.com/track/0TYYCO93FESiUlTanVH9pX"
+    },
+    {
+      "album": {
         "name": "Pill To Swallow",
         "url": "https://open.spotify.com/album/7jg6n0fgOkGDj9fxcIzI0u"
       },
@@ -21870,7 +21996,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 189847,
       "name": "SEVENTEEN",
       "url": "https://open.spotify.com/track/4RvawFof8a3euSxGe832wt"
@@ -23578,7 +23704,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 235765,
       "name": "Stranger Now",
       "url": "https://open.spotify.com/track/2NsGlGykcMfPnyeWdPXO6J"
@@ -24627,6 +24753,24 @@
     },
     {
       "album": {
+        "name": "The Big Knife",
+        "url": "https://open.spotify.com/album/0OH5GUOZuYs0VdXBAz2tfw"
+      },
+      "artists": [
+        {
+          "name": "Taylor Janzen",
+          "url": "https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "The Big Knife",
+      "url": "https://open.spotify.com/track/0Ugmy0PjqFCc8HPWxus8pW"
+    },
+    {
+      "album": {
         "name": "The Blob",
         "url": "https://open.spotify.com/album/0gAyeWtpqYOvJHH63QDbfQ"
       },
@@ -25337,6 +25481,24 @@
     },
     {
       "album": {
+        "name": "the punisher",
+        "url": "https://open.spotify.com/album/4lBwSddoFh5fy1T7uUCE5L"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189107,
+      "name": "the punisher",
+      "url": "https://open.spotify.com/track/4YOpINlEvanckbfIAwsdkx"
+    },
+    {
+      "album": {
         "name": "The Retaliators Theme Song (21 Bullets) [feat. Motley Crue, Asking Alexandria, Ice Nine Kills, From Ashes To New]",
         "url": "https://open.spotify.com/album/5vyHnq2QdGJWMzjrjn4S6k"
       },
@@ -25512,7 +25674,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 202973,
       "name": "The Treadmill",
       "url": "https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io"
@@ -26526,7 +26688,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 240917,
       "name": "TRUEST SOUND",
       "url": "https://open.spotify.com/track/6g7VwSBcKm5kOef5AJMsKd"

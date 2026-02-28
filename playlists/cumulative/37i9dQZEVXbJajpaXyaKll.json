@@ -18512,10 +18512,28 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 578040,
       "name": "Innerbloom",
       "url": "https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0"
+    },
+    {
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/6EGK4tLQTEj8mnfTh0nqa5"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 578040,
+      "name": "Innerbloom",
+      "url": "https://open.spotify.com/track/77kMHM0D2MgGTjoL2308Lm"
     },
     {
       "album": {

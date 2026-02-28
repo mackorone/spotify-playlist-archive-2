@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15qSjK.md) - [plain]
 
 > This is Kidz Bop Kids\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,161 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,163 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15qSjK.md) - [plain]
 | 35 | [Cake By The Ocean](https://open.spotify.com/track/1MbhZs4ycL1imDEq0Y0iJJ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 32](https://open.spotify.com/album/0qGfgCfiUYTLhrkF1iDR50) | 3:21 |
 | 36 | [Espresso](https://open.spotify.com/track/4kpk6h4xaIyn0lirxGioYs) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 50](https://open.spotify.com/album/1N7y2uOiGxoza5nabKtsMA) | 2:36 |
 | 37 | [Gabriela](https://open.spotify.com/track/2sJc3ugnMMMxyif6RJRn5H) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 52](https://open.spotify.com/album/6rFTqiL3mNKFT5FdjnEWVf) | 3:15 |
-| 38 | [Give Your Heart A Break](https://open.spotify.com/track/5K5Ah4VSx2aaRHF2sCbhPw) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Megapop](https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW) | 3:24 |
+| 38 | [Shut Up And Dance](https://open.spotify.com/track/7KqjPr2vj8CwQ1cV2swc57) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 29](https://open.spotify.com/album/3QNWZIE9VH4D1CkK14uXkX) | 3:18 |
 | 39 | [Paint The Town Red](https://open.spotify.com/track/2Td9ri2BOa2GG8aQxtz4mB) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 3:04 |
-| 40 | [Shut Up And Dance](https://open.spotify.com/track/7KqjPr2vj8CwQ1cV2swc57) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 29](https://open.spotify.com/album/3QNWZIE9VH4D1CkK14uXkX) | 3:18 |
+| 40 | [Give Your Heart A Break](https://open.spotify.com/track/5K5Ah4VSx2aaRHF2sCbhPw) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Megapop](https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW) | 3:24 |
 | 41 | [Kings & Queens](https://open.spotify.com/track/4wbEBmAhxOchkSdfltzavr) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:26 |
 | 42 | [Good 4 U](https://open.spotify.com/track/2WiPuzLGu2LKOjYQ2SMLcf) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 2:46 |
 | 43 | [24K Magic](https://open.spotify.com/track/0uO8gotUNmO7v5agFzqS7y) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 34](https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7) | 2:56 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15qSjK.md) - [plain]
 | 46 | [Señorita](https://open.spotify.com/track/0rzOBbw7Zg4yyN22wwJzvJ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 40](https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ) | 2:49 |
 | 47 | [We're Taking Over](https://open.spotify.com/track/45GlxNVf17LUYfHjQeuqvC) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 2:54 |
 | 48 | [Timber](https://open.spotify.com/track/5OKuFJwEG73Ni7TXbCMZKW) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 26](https://open.spotify.com/album/6AsZVhKAx8srkIJugNmYOj) | 3:10 |
-| 49 | [That's Not My Name](https://open.spotify.com/track/0K9xvFSBFD1vyvIBB50RnL) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Megapop](https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW) | 3:18 |
-| 50 | [Try Everything](https://open.spotify.com/track/2bivxemYYGhiOoPr7OfYhn) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 33](https://open.spotify.com/album/58KAwArwdxMXyEC3OLuInP) | 3:16 |
+| 49 | [Try Everything](https://open.spotify.com/track/2bivxemYYGhiOoPr7OfYhn) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 33](https://open.spotify.com/album/58KAwArwdxMXyEC3OLuInP) | 3:16 |
+| 50 | [That's Not My Name](https://open.spotify.com/track/0K9xvFSBFD1vyvIBB50RnL) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Megapop](https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW) | 3:18 |
 
-Snapshot ID: `aZ47gAAAAACFZMB+DyetZ2FcEVB9Slvb`
+Snapshot ID: `aZ+NAAAAAADPrHxrNzPbfeEHeceV4AGd`

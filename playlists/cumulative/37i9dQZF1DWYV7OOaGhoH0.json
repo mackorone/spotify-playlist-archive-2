@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best in folk & acoustic today featuring music from Cat Clyde",
+  "description": "The best in folk & acoustic today featuring music from Iron & Wine",
   "name": "Roots Rising",
   "tracks": [
     {
@@ -2631,6 +2631,24 @@
     },
     {
       "album": {
+        "name": "Can I Mend It?",
+        "url": "https://open.spotify.com/album/4iZBTCva0s1ngT4MpBUiUe"
+      },
+      "artists": [
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236292,
+      "name": "Can I Mend It?",
+      "url": "https://open.spotify.com/track/6G4dGhbdRJoOWysoFPJX7O"
+    },
+    {
+      "album": {
         "name": "Raise The Roof (Deluxe Edition)",
         "url": "https://open.spotify.com/album/48wFAtpgBV5rUTTDrNKCoN"
       },
@@ -3590,7 +3608,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 173883,
       "name": "Darling",
       "url": "https://open.spotify.com/track/0WTyIytT4Yi0nHtWI29PVZ"
@@ -6828,7 +6846,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 222629,
       "name": "I'm in Love",
       "url": "https://open.spotify.com/track/5VdQP3CLYQrTOb9YZipDqC"
@@ -9231,6 +9249,24 @@
     },
     {
       "album": {
+        "name": "My Maker",
+        "url": "https://open.spotify.com/album/47wcmMq8SaCVM5R7wOW8e4"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259842,
+      "name": "My Maker",
+      "url": "https://open.spotify.com/track/0CytapqefuNILUq2YdFw78"
+    },
+    {
+      "album": {
         "name": "Need To Know Basis",
         "url": "https://open.spotify.com/album/1OIHlXoGI7Ybv44vuI8oP3"
       },
@@ -9783,6 +9819,24 @@
     },
     {
       "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1hqHsGeJ5dMwe4lPYqaDav"
+      },
+      "artists": [
+        {
+          "name": "Black Sea Dahu",
+          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329980,
+      "name": "One Day Will Be All I Have",
+      "url": "https://open.spotify.com/track/6s8PTCV47fqb6RSFgkMTLy"
+    },
+    {
+      "album": {
         "name": "Oneida",
         "url": "https://open.spotify.com/album/1lDmuIBAi5R8NLdO2fc1XF"
       },
@@ -10090,7 +10144,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 115545,
       "name": "Philanthropist (feat. Billy Strings)",
       "url": "https://open.spotify.com/track/2tKpqpBkhnvZa0EwfSXnIG"
@@ -13798,7 +13852,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 165040,
       "name": "Troubled Water",
       "url": "https://open.spotify.com/track/4GdfDopXzjpHVkVZIbSV6Q"
@@ -14262,6 +14316,28 @@
       "duration_ms": 193936,
       "name": "Wait for You",
       "url": "https://open.spotify.com/track/3Rev8ukx9v7fBDtq71QeCT"
+    },
+    {
+      "album": {
+        "name": "Hen's Teeth",
+        "url": "https://open.spotify.com/album/4v7qrSwfjkEKu4hd1OwwvN"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        },
+        {
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225231,
+      "name": "Wait Up (feat. I'm With Her)",
+      "url": "https://open.spotify.com/track/4bKT1G7Q6kInM0idAtnP3p"
     },
     {
       "album": {

@@ -576,7 +576,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 299325,
       "name": "444 - Remix",
       "url": "https://open.spotify.com/track/5AK6QqM8aUXXTk6oY00ZRh"
@@ -1632,7 +1632,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 261081,
       "name": "Amor Infinito",
       "url": "https://open.spotify.com/track/1KTFvlTR9JCrceX0VJrVxS"
@@ -2410,7 +2410,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -3535,6 +3535,24 @@
     },
     {
       "album": {
+        "name": "Three Imaginary Boys",
+        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155973,
+      "name": "Boys Don't Cry",
+      "url": "https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC"
+    },
+    {
+      "album": {
         "name": "Three Imaginary Boys (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC"
       },
@@ -3826,7 +3844,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-20",
+      "date_removed": null,
       "duration_ms": 228836,
       "name": "CAF\u00e9 CON RON",
       "url": "https://open.spotify.com/track/6VNXmo59yDYgcwLS17UNAW"
@@ -5700,7 +5718,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 211084,
       "name": "Cuando No Era Cantante",
       "url": "https://open.spotify.com/track/6N2iccqxRInhTLHc2Fu3W0"
@@ -5730,7 +5748,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 327488,
       "name": "Cuando No Era Cantante - Remix",
       "url": "https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE"
@@ -7156,7 +7174,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 158440,
       "name": "Domingo Familiar",
       "url": "https://open.spotify.com/track/6s5fdTesXo77NneP3tn3Km"
@@ -11380,7 +11398,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 208110,
       "name": "Highway to Hell",
       "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
@@ -14518,7 +14536,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 272649,
       "name": "Last Train to London",
       "url": "https://open.spotify.com/track/6xE6ZWzK1YDDSYzqOCoQlz"
@@ -15228,7 +15246,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "LOQUITA",
       "url": "https://open.spotify.com/track/3zkGK0pIRra9Mql8fKmROf"
@@ -16474,7 +16492,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 192906,
       "name": "Me has invitado a bailar",
       "url": "https://open.spotify.com/track/3tMftGMXTPbQlmjh4FzXpZ"
@@ -17522,7 +17540,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 222973,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
@@ -18780,7 +18798,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
@@ -25008,7 +25026,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 183529,
       "name": "SUPERESTRELLA",
       "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
@@ -27228,7 +27246,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 175059,
       "name": "Tu jard\u00edn con enanitos",
       "url": "https://open.spotify.com/track/6X8DTIJEgHUjZynuds0E2f"

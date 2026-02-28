@@ -1,12 +1,12 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 24821,
+  "num_followers": 24823,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAAAiBa8jWNvZdlRJsbxTNaCm",
+  "snapshot_id": "aZ+NAAAAAADZmYyGBjWsEUTrRvC6bvCo",
   "tracks": [
     {
       "added_at": null,
@@ -407,18 +407,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Too Much (From \u201cZapped\u201d)",
-        "url": "https://open.spotify.com/album/73XdslsbaoIRZworqNAgJ2"
+        "name": "A Todo Ritmo: I <3 Dance (Music From the TV Series)",
+        "url": "https://open.spotify.com/album/5bTbeUe1dHjvpr6m2nN834"
       },
       "artists": [
         {
           "name": "Zendaya",
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        },
+        {
+          "name": "Bella Thorne",
+          "url": "https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX"
         }
       ],
-      "duration_ms": 187333,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/1cqudsA6yOqEUwGX5mrCeW"
+      "duration_ms": 135653,
+      "name": "Contagious Love",
+      "url": "https://open.spotify.com/track/1twMlAUezt1FcoXcK0Wydf"
     },
     {
       "added_at": null,
@@ -439,22 +443,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Todo Ritmo: I <3 Dance (Music From the TV Series)",
-        "url": "https://open.spotify.com/album/5bTbeUe1dHjvpr6m2nN834"
+        "name": "Too Much (From \u201cZapped\u201d)",
+        "url": "https://open.spotify.com/album/73XdslsbaoIRZworqNAgJ2"
       },
       "artists": [
         {
           "name": "Zendaya",
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        },
-        {
-          "name": "Bella Thorne",
-          "url": "https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX"
         }
       ],
-      "duration_ms": 135653,
-      "name": "Contagious Love",
-      "url": "https://open.spotify.com/track/1twMlAUezt1FcoXcK0Wydf"
+      "duration_ms": 187333,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/1cqudsA6yOqEUwGX5mrCeW"
     },
     {
       "added_at": null,

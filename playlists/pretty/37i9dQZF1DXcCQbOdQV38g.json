@@ -1,6 +1,6 @@
 {
   "description": "Het zomergevoel met Nederlandstalig \u2600\ufe0f\ud83e\udde1",
-  "num_followers": 59922,
+  "num_followers": 59931,
   "original_name": "Nederlandse Zomerhits 2026",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2026-02-03 23:00:20",
       "album": {
+        "name": "Nooit Meer Regen",
+        "url": "https://open.spotify.com/album/3XcPhaReL0pIPbdgGdL7gj"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 200717,
+      "name": "Nooit Meer Regen",
+      "url": "https://open.spotify.com/track/5vj6nqh3LGX4lrpGOkHFU3"
+    },
+    {
+      "added_at": "2026-02-03 23:00:20",
+      "album": {
         "name": "Sexy Lady",
         "url": "https://open.spotify.com/album/0jXeAJGHJKT61UABkNMERu"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 196632,
       "name": "Sexy Lady",
       "url": "https://open.spotify.com/track/1YlHHngcUYlyxB19hVSYYd"
-    },
-    {
-      "added_at": "2026-02-03 23:00:20",
-      "album": {
-        "name": "Nooit Meer Regen",
-        "url": "https://open.spotify.com/album/3XcPhaReL0pIPbdgGdL7gj"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 200717,
-      "name": "Nooit Meer Regen",
-      "url": "https://open.spotify.com/track/5vj6nqh3LGX4lrpGOkHFU3"
     },
     {
       "added_at": "2026-02-03 23:00:20",
@@ -843,26 +843,6 @@
     {
       "added_at": "2026-02-03 23:00:20",
       "album": {
-        "name": "Nog Geen Si\u00ebsta",
-        "url": "https://open.spotify.com/album/64D3m0YFpNWqGAQAUwuJ6A"
-      },
-      "artists": [
-        {
-          "name": "Wesley Klein",
-          "url": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2"
-        },
-        {
-          "name": "Monique Smit",
-          "url": "https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv"
-        }
-      ],
-      "duration_ms": 159843,
-      "name": "Nog Geen Si\u00ebsta",
-      "url": "https://open.spotify.com/track/2G82CkBfptmOqnGevZDrfM"
-    },
-    {
-      "added_at": "2026-02-03 23:00:20",
-      "album": {
         "name": "Laat Mij Nu Alleen",
         "url": "https://open.spotify.com/album/1o1IoR0EyRn13MwJil3kzR"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 135882,
       "name": "Laat Mij Nu Alleen",
       "url": "https://open.spotify.com/track/1Zrp43yN8u5awpag0A3DQo"
+    },
+    {
+      "added_at": "2026-02-03 23:00:20",
+      "album": {
+        "name": "Nog Geen Si\u00ebsta",
+        "url": "https://open.spotify.com/album/64D3m0YFpNWqGAQAUwuJ6A"
+      },
+      "artists": [
+        {
+          "name": "Wesley Klein",
+          "url": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2"
+        },
+        {
+          "name": "Monique Smit",
+          "url": "https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv"
+        }
+      ],
+      "duration_ms": 159843,
+      "name": "Nog Geen Si\u00ebsta",
+      "url": "https://open.spotify.com/track/2G82CkBfptmOqnGevZDrfM"
     },
     {
       "added_at": "2026-02-03 23:00:20",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-02-03 23:00:20",
       "album": {
+        "name": "Pi\u00f1a Colada",
+        "url": "https://open.spotify.com/album/0UVquSaaVSh0kmYlesx2oZ"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Heesen",
+          "url": "https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp"
+        }
+      ],
+      "duration_ms": 166849,
+      "name": "Pi\u00f1a Colada",
+      "url": "https://open.spotify.com/track/7ySlaQ9Dy3uy05wULpznrQ"
+    },
+    {
+      "added_at": "2026-02-03 23:00:20",
+      "album": {
         "name": "(Die Man Is) Verliefd [Bonte Carlo - Holiday Remix]",
         "url": "https://open.spotify.com/album/4qAk37jJHhAD1mFtJT3kgN"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 205448,
       "name": "(Die Man Is) Verliefd - Bonte Carlo - Holiday Remix",
       "url": "https://open.spotify.com/track/21zH6hBqyOu64HWOLkOPqx"
-    },
-    {
-      "added_at": "2026-02-03 23:00:20",
-      "album": {
-        "name": "Pi\u00f1a Colada",
-        "url": "https://open.spotify.com/album/0UVquSaaVSh0kmYlesx2oZ"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey Heesen",
-          "url": "https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp"
-        }
-      ],
-      "duration_ms": 166849,
-      "name": "Pi\u00f1a Colada",
-      "url": "https://open.spotify.com/track/7ySlaQ9Dy3uy05wULpznrQ"
     },
     {
       "added_at": "2026-02-03 23:00:20",

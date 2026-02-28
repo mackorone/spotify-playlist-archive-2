@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-504 songs - 1 day 6 hr 32 min
+506 songs - 1 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [La Samba](https://open.spotify.com/track/6N8VWb3F4GPP3pwj1jaDNU) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [La Samba](https://open.spotify.com/album/2JurI8lOhpvZZQFwrNu4rH) | 2:43 | 2023-03-19 | 2023-04-10 |
 | [la vida del emigrante](https://open.spotify.com/track/7xv4NBuK4mQJeVxK0ZVuHQ) | [fabiom\_dj](https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP) | [latin house](https://open.spotify.com/album/0geGNzCW92yXGPo02EakYb) | 3:20 | 2026-01-08 | 2026-02-23 |
 | [la vida es un carnaval](https://open.spotify.com/track/4RLbl6BmRGrN5SIXhQPxiD) | [fabiom\_dj](https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP) | [latin house](https://open.spotify.com/album/0geGNzCW92yXGPo02EakYb) | 3:59 | 2026-01-08 | 2026-02-23 |
+| [Last Night](https://open.spotify.com/track/1yNfUht2F5XFr6MtadE284) | [Ike TJ](https://open.spotify.com/artist/3DB5xKPkNiCoH8xopiagZ4) | [Last Night](https://open.spotify.com/album/4tai8TuD1nw2F2Isrm9D0Y) | 6:16 | 2026-02-27 |  |
 | [Last Ones](https://open.spotify.com/track/1DLf5cSy5FMiILI0z9acya) | [Aaron Klugg](https://open.spotify.com/artist/2wmuwPAXRhL4Xi0cWis1zG) | [Last Ones](https://open.spotify.com/album/4w2G9uZVP65BQcpN4k0rLn) | 6:18 | 2024-03-24 | 2024-05-20 |
 | [Lately](https://open.spotify.com/track/63uUbh2wl4FYvzLdOKJ8nq) | [Classmatic](https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m), [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys), [Leah Rose](https://open.spotify.com/artist/7JB5It5zOFEGkYJKipsBZj) | [Lately](https://open.spotify.com/album/63Zj3oMRhWuzAHcV6bhdxS) | 3:30 | 2023-01-29 | 2023-03-06 |
 | [Leave Me Like This](https://open.spotify.com/track/7vzWtCVhEKDmDkMmT3AiUL) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Bobby Raps](https://open.spotify.com/artist/22g86cix6LCeLMbu3m91Wo) | [Leave Me Like This](https://open.spotify.com/album/2U5XHV8AMBojtjxB6AWP6U) | 3:08 | 2023-01-22 | 2023-02-13 |
@@ -367,6 +368,7 @@
 | [Pump](https://open.spotify.com/track/37Jh3OXqliOxKjtl1aO49y) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Pump](https://open.spotify.com/album/6ikpD6RK27kfpo8CPCGUtI) | 3:45 | 2023-06-11 | 2023-07-17 |
 | [Put 'em Up](https://open.spotify.com/track/7cej2MfSORhrheKAa3DEOe) | [TECHTIC](https://open.spotify.com/artist/4MW2k6VEU8RltTQFyEixYt) | [Put 'em Up](https://open.spotify.com/album/5dTy34LWAXl75Vy2bI40UE) | 3:49 | 2024-02-18 | 2024-04-15 |
 | [put it to music.](https://open.spotify.com/track/4jzBcOyhDg2hkDiSVDWzSo) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [fall '23](https://open.spotify.com/album/4gc9G4LYsWG3Fj2OMirwE7) | 6:46 | 2023-12-10 | 2024-02-19 |
+| [Qué Maldito Sonido](https://open.spotify.com/track/5gcDnLlqYTApIhjsqXfOcU) | [Daniele Ceccarini](https://open.spotify.com/artist/3QmrkfwWbG09MX7SGFQ7Io) | [Qué Maldito Sonido](https://open.spotify.com/album/3aWAJIz07mzNNE1ywHmaEu) | 2:40 | 2026-02-27 |  |
 | [Reading My Mind](https://open.spotify.com/track/2c8TIDfFaU5LH6U05aTlIY) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [The Unexplained](https://open.spotify.com/album/6jSRRKhBd0hMSzoSwqihRl) | 2:15 | 2024-05-19 | 2024-07-08 |
 | [Ready Or Not](https://open.spotify.com/track/4n9RHYdYcIofn5C5j1gpz0) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Ready Or Not](https://open.spotify.com/album/4Vmlwmg6QKl3FYqeFZkfM7) | 3:09 | 2023-02-10 | 2024-03-09 |
 | [Real](https://open.spotify.com/track/0sHxBKvOOrPfCfBZjOIbkN) | [Hans Glader](https://open.spotify.com/artist/2xncrpOGGRImOgiWmbAPZG), [Isenberg](https://open.spotify.com/artist/753xxcDfgqoyWJTs55HCal) | [Real](https://open.spotify.com/album/1S3kgoT0prKVmnoX18HZRk) | 3:24 | 2023-01-29 | 2023-03-06 |

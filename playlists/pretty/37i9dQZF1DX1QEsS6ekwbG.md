@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QEsS6ekwbG.md) - [plain]
 
 > La mejor compañía mientras llueve.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,779 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,829 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,14 +17,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QEsS6ekwbG.md) - [plain]
 | 7 | [M.A.I](https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 3:04 |
 | 8 | [X Ella](https://open.spotify.com/track/4GZkx3HIHaU87FzU8KEdB8) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Querida Yo](https://open.spotify.com/album/7pjlWfFGhfSxnUZP1OQct4) | 2:11 |
 | 9 | [Me Dediqué a Perderte](https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Corazón Abierto](https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA) | 3:51 |
-| 10 | [Reliquia](https://open.spotify.com/track/4ORvXsPK9AJmDzm36BYcdy) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:50 |
-| 11 | [La Incondicional](https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 4:17 |
-| 12 | [Labios Rotos \- En Vivo Desde México / 2010](https://open.spotify.com/track/1nULBrlzWatdcjA2ZctIMv) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 4:03 |
+| 10 | [La Incondicional](https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 4:17 |
+| 11 | [Labios Rotos \- En Vivo Desde México / 2010](https://open.spotify.com/track/1nULBrlzWatdcjA2ZctIMv) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 4:03 |
+| 12 | [Reliquia](https://open.spotify.com/track/4ORvXsPK9AJmDzm36BYcdy) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:50 |
 | 13 | [Antología](https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 4:14 |
 | 14 | [Es Por Ti](https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 4:10 |
 | 15 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 |
-| 16 | [Caraluna](https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna](https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj) | 4:26 |
-| 17 | [Amiga mía](https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 4:50 |
+| 16 | [Amiga mía](https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 4:50 |
+| 17 | [Caraluna](https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna](https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj) | 4:26 |
 | 18 | [La Playa](https://open.spotify.com/track/2DNyZP4Py6f4zMASLBnIu6) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [El Viaje de Copperpot](https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu) | 4:07 |
 | 19 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 |
 | 20 | [Loco \(Tu Forma De Ser\)](https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [El Milagro Argentino](https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ) | 5:13 |

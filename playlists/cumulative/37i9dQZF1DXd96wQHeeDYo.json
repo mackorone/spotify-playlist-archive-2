@@ -3941,6 +3941,36 @@
     },
     {
       "album": {
+        "name": "Revuelve las horas #B23",
+        "url": "https://open.spotify.com/album/5JjclzXFIpfwKX5YB4dTqT"
+      },
+      "artists": [
+        {
+          "name": "Spataro",
+          "url": "https://open.spotify.com/artist/6S3ZC04iJ8ad9wLSIyaUp5"
+        },
+        {
+          "name": "MACO",
+          "url": "https://open.spotify.com/artist/0XerM4yoGja0adi5ohB8Lm"
+        },
+        {
+          "name": "Santi Spataro",
+          "url": "https://open.spotify.com/artist/5XbRiRF5wsSHyMg7XfieZR"
+        },
+        {
+          "name": "El Negri",
+          "url": "https://open.spotify.com/artist/6LkXBVwSbeaRX4vloGSBz8"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213331,
+      "name": "Revuelve las horas #B23",
+      "url": "https://open.spotify.com/track/0R88NrCqEnP6WbkiQzWwgT"
+    },
+    {
+      "album": {
         "name": "Romantique & Propaganda",
         "url": "https://open.spotify.com/album/52NucKNQk0IF5OPwVbLZSJ"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Grandes hinos da m\u00fasica brasileira para animar sua pista de dan\u00e7a! ",
-  "num_followers": 479204,
+  "num_followers": 479236,
   "original_name": "Festa Brasileira",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "Bicho De 7 Cabe\u00e7as",
+        "url": "https://open.spotify.com/album/3peuD9hEjWl5kGv0cqBhcG"
+      },
+      "artists": [
+        {
+          "name": "Geraldo Azevedo",
+          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
+        }
+      ],
+      "duration_ms": 212160,
+      "name": "Taxi Lunar",
+      "url": "https://open.spotify.com/track/1WT480kAYr5E5FpwtAtm6a"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "Latin Grooves - Samba",
         "url": "https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 201666,
       "name": "O Feij\u00e3o de Dona Nen\u00e9m",
       "url": "https://open.spotify.com/track/5G74LW4IB7XUaOzpH0VpEz"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "Bicho De 7 Cabe\u00e7as",
-        "url": "https://open.spotify.com/album/3peuD9hEjWl5kGv0cqBhcG"
-      },
-      "artists": [
-        {
-          "name": "Geraldo Azevedo",
-          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
-        }
-      ],
-      "duration_ms": 212160,
-      "name": "Taxi Lunar",
-      "url": "https://open.spotify.com/track/1WT480kAYr5E5FpwtAtm6a"
     },
     {
       "added_at": "2021-11-26 03:18:52",

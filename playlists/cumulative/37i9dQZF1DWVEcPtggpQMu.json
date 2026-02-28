@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap. \nCover: Tony Dayimane",
+  "description": "Only the hottest South African rap. \nCover: LaCabra",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -2162,7 +2162,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 213543,
       "name": "Banna",
       "url": "https://open.spotify.com/track/7vrKBIZyLtPLIqSUGOAcfA"
@@ -7898,7 +7898,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 166285,
       "name": "God\u2019s Armour",
       "url": "https://open.spotify.com/track/21usTk07Lyb5TifPKlxTvg"
@@ -8476,7 +8476,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 150000,
       "name": "Hard To Believe",
       "url": "https://open.spotify.com/track/09Su6hSkRJIudi16ZYKBO9"
@@ -8532,7 +8532,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 197288,
       "name": "He Ndaa",
       "url": "https://open.spotify.com/track/463NUoS6zPQ1C2HFyGd2kR"
@@ -8828,7 +8828,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 123025,
       "name": "Hoeveel",
       "url": "https://open.spotify.com/track/2b9IabFTXdpwBaF7Q9hmzC"
@@ -10386,7 +10386,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 231111,
       "name": "Juicy",
       "url": "https://open.spotify.com/track/1WCpEyjjDF6qqzxVtuVcoR"
@@ -12608,7 +12608,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 102530,
       "name": "MASINCOKOLE - Freestyle",
       "url": "https://open.spotify.com/track/02hInYc1DGNnEzm6KQEcDY"
@@ -12916,6 +12916,36 @@
       "duration_ms": 168667,
       "name": "Mina",
       "url": "https://open.spotify.com/track/1BqHLSv9P46QdTPkIXXHfH"
+    },
+    {
+      "album": {
+        "name": "Mina",
+        "url": "https://open.spotify.com/album/5QcO63cpxG7ZuGUHW944qU"
+      },
+      "artists": [
+        {
+          "name": "Bergie Fresh",
+          "url": "https://open.spotify.com/artist/53QHSjkdsOPe2XZpBHja9T"
+        },
+        {
+          "name": "Sastii",
+          "url": "https://open.spotify.com/artist/32Mj58IRbLXY5O8uj2O0Ml"
+        },
+        {
+          "name": "LaCabra",
+          "url": "https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT"
+        },
+        {
+          "name": "SiyaCeeBeats",
+          "url": "https://open.spotify.com/artist/575AQek8G74rY22ifc3eTt"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206959,
+      "name": "Mina",
+      "url": "https://open.spotify.com/track/6oo2jE42MlZl0Nc777A7bE"
     },
     {
       "album": {
@@ -14441,6 +14471,28 @@
     },
     {
       "album": {
+        "name": "WorstfeelinEva 3",
+        "url": "https://open.spotify.com/album/4crxpqVe1hHk2wzIEnqtOU"
+      },
+      "artists": [
+        {
+          "name": "Brotherkupa",
+          "url": "https://open.spotify.com/artist/2SRkMY6LxkfTMqktaFn32r"
+        },
+        {
+          "name": "jaykatana",
+          "url": "https://open.spotify.com/artist/0LTpOj4R3IrWZAkwKqHqLj"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191918,
+      "name": "No stylist in SA (feat. jaykatana)",
+      "url": "https://open.spotify.com/track/0BMm621RqPNGnrOdqxmdwm"
+    },
+    {
+      "album": {
         "name": "No Typo",
         "url": "https://open.spotify.com/album/4hjtnzay9yFORdNGWwdSNW"
       },
@@ -14478,7 +14530,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 178285,
       "name": "NOBODY",
       "url": "https://open.spotify.com/track/3wv83tW5C9wNszgZZFnNCw"
@@ -14798,7 +14850,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 120035,
       "name": "N\u01d0 H\u01ceo",
       "url": "https://open.spotify.com/track/2B68zv6GngxWnvIQkKK3Qo"
@@ -15252,7 +15304,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 162711,
       "name": "Paco Rabbane",
       "url": "https://open.spotify.com/track/25X5JxSQzUPOS48EFQItLW"
@@ -18284,7 +18336,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 154838,
       "name": "SLACK",
       "url": "https://open.spotify.com/track/0YrxIWKxfvpxIeuFTUKEKc"
@@ -19760,7 +19812,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 239953,
       "name": "TAKE iT EASY",
       "url": "https://open.spotify.com/track/5V8t3PCYz5UKfKvoDIrdEq"
@@ -20563,6 +20615,28 @@
     },
     {
       "album": {
+        "name": "MR BULLY",
+        "url": "https://open.spotify.com/album/1FyVaKbWHOA1xXUbCNjX9S"
+      },
+      "artists": [
+        {
+          "name": "LaCabra",
+          "url": "https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT"
+        },
+        {
+          "name": "A-Reece",
+          "url": "https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202177,
+      "name": "The Vision",
+      "url": "https://open.spotify.com/track/78PJkJsUq2V2uqAlMvZjfd"
+    },
+    {
+      "album": {
         "name": "The Way It Goes",
         "url": "https://open.spotify.com/album/5xDdy7h5k3VItTNuyieZ2w"
       },
@@ -21098,6 +21172,28 @@
       "duration_ms": 238240,
       "name": "TOO MUCH",
       "url": "https://open.spotify.com/track/2O0rVlBMPoqudJ4UUCHCWx"
+    },
+    {
+      "album": {
+        "name": "Too Much Aura (feat. CowBoii)",
+        "url": "https://open.spotify.com/album/4QzH6zC9RTWmMQFWXjELIY"
+      },
+      "artists": [
+        {
+          "name": "Majorsteez",
+          "url": "https://open.spotify.com/artist/2QNYVS9uCpV8VeJ3HL7v87"
+        },
+        {
+          "name": "CowBoii",
+          "url": "https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159183,
+      "name": "Too Much Aura (feat. CowBoii)",
+      "url": "https://open.spotify.com/track/4WbmTsKiGGO23iiOq4EKZa"
     },
     {
       "album": {
@@ -23174,7 +23270,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 125142,
       "name": "Whole City",
       "url": "https://open.spotify.com/track/3FzL5QWj9PMVclafhtLtIl"
@@ -23530,7 +23626,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 140571,
       "name": "WOZALA (feat. Vson)",
       "url": "https://open.spotify.com/track/5JsJx5K3jGCnHTpTsrNIkY"
@@ -23784,7 +23880,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 146000,
       "name": "Year 64",
       "url": "https://open.spotify.com/track/7bb5sYepNQNfNhLf0gg4aa"

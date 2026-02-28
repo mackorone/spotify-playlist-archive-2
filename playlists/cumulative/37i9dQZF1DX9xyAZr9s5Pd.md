@@ -2,9 +2,9 @@
 
 ### [Indie Andinos](https://open.spotify.com/playlist/37i9dQZF1DX9xyAZr9s5Pd)
 
-> ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Jaze
+> ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Motherflowers
 
-109 songs - 6 hr 11 min
+110 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Algo Bueno Tenía Que Tener \(Bogotá\)](https://open.spotify.com/track/7DJ2ooJelCCfs6UIbONOjr) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Algo Bueno Tenía Que Tener \(Bogotá\)](https://open.spotify.com/album/79JsLKk3Yqf3FxwM801LTz) | 3:30 | 2024-02-16 |  |
 | [Algo Discreto](https://open.spotify.com/track/7y660DIuwEb44cC86hNjAf) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Algo Discreto](https://open.spotify.com/album/10RilTBrHWcQeLOmgbptgp) | 3:20 | 2023-09-22 |  |
 | [Alma Rota](https://open.spotify.com/track/13fm0n3dQGNwMzVPdayFe9) | [Inzul](https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp) | [Las Cosas Que Nunca Te Dije](https://open.spotify.com/album/5NQAx2tanyqT0G3t219BDe) | 2:55 | 2023-12-08 | 2024-03-02 |
-| [Alma y Olvido](https://open.spotify.com/track/1P2DlRsIhnvUawboqQzArG) | [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY), [Los Balcones Amarillos](https://open.spotify.com/artist/2Tsj2XMyZc1hIsarvh9Vk1) | [Alma y Olvido](https://open.spotify.com/album/1NbfewHSHakpdQPzfmqZ0x) | 3:47 | 2024-05-17 |  |
+| [Alma y Olvido](https://open.spotify.com/track/1P2DlRsIhnvUawboqQzArG) | [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY), [Los Balcones Amarillos](https://open.spotify.com/artist/2Tsj2XMyZc1hIsarvh9Vk1) | [Alma y Olvido](https://open.spotify.com/album/1NbfewHSHakpdQPzfmqZ0x) | 3:47 | 2024-05-17 | 2026-02-28 |
 | [Amor Barato](https://open.spotify.com/track/3UAZphSh6pog2QYXvEJsQg) | [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Amor Barato](https://open.spotify.com/album/3VhIk6vzARVy2CUhtViy94) | 3:17 | 2023-09-22 |  |
 | [Amores De Colores](https://open.spotify.com/track/6JiKdKOTGtgatt1obe5cIE) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Veraneras](https://open.spotify.com/album/3BcXlbfEI0L2Ll45yBzSMO) | 3:05 | 2023-09-22 |  |
 | [Autosabotear](https://open.spotify.com/track/4zU95QAkAF4AdMMtpus2xo) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Autosabotear](https://open.spotify.com/album/5HlLxDeeDyWMD7dBb1rC5a) | 3:12 | 2023-10-13 | 2024-02-17 |
@@ -33,6 +33,7 @@
 | [De Cabeza](https://open.spotify.com/track/6g7J0GQZ0CEbJoLP6JDAug) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [De Cabeza](https://open.spotify.com/album/5sAfBwkvC5h66RxrWswRRY) | 2:54 | 2024-03-01 |  |
 | [De Maravilla](https://open.spotify.com/track/7osWLKq6j6KxoMT03EdvHv) | [The Vue](https://open.spotify.com/artist/1bCVI2X0v8Ext3IXFNd0oY) | [Las Cosas Que No Dije \(LCQND\)](https://open.spotify.com/album/2uC2X3vkFU4hLmRUPKWZ98) | 3:22 | 2023-09-22 | 2023-10-14 |
 | [Desprevenido](https://open.spotify.com/track/2iJwRkYxLQ5qK3yCPOHYYK) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Desprevenido](https://open.spotify.com/album/5b7GmiY0WfSAAPDdfI4Hoh) | 3:17 | 2023-09-22 | 2024-02-24 |
+| [después del PARi](https://open.spotify.com/track/1yPyDQ64m8YxTIMaihyimf) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [después del PARi](https://open.spotify.com/album/092D7xodckEdeVDgc4Jcva) | 3:52 | 2026-02-27 |  |
 | [Destino](https://open.spotify.com/track/0ELDsNFntqHq5bEokxAIMP) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Destino](https://open.spotify.com/album/7hVQeF8N8SkIHLUEEGgW5p) | 3:56 | 2023-09-22 |  |
 | [devut](https://open.spotify.com/track/69pSgqboXTZjbBZCExlUtB) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [devut](https://open.spotify.com/album/3hNpXrIXElTaQSDIG6b1kC) | 2:36 | 2024-08-23 |  |
 | [Difícil](https://open.spotify.com/track/21HPuDDBXtXJhj3XKp3hni) | [No Stories](https://open.spotify.com/artist/0mbkM3QZtS7hm3M1peCnPc) | [Difícil](https://open.spotify.com/album/1BNHMSShX2mt49uzHcMpEE) | 3:13 | 2025-01-24 |  |

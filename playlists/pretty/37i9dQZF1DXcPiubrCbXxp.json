@@ -1,13 +1,29 @@
 {
-  "description": "that 50s kinda feeling, cover: Laufey",
-  "num_followers": 72084,
+  "description": "that retro kinda feeling, cover: Willow Avalon",
+  "num_followers": 72093,
   "original_name": "crushed velvet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGf9AhOTGPjQ0O80L4+4/G+JzO+C",
+  "snapshot_id": "AAAAACUTl/pe3cu2fh77C4BCAOSRSvM5",
   "tracks": [
+    {
+      "added_at": "2026-02-27 05:34:06",
+      "album": {
+        "name": "Easy On The Eyes",
+        "url": "https://open.spotify.com/album/3JQfqboxnLDsxsHE4ut65G"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "duration_ms": 224568,
+      "name": "Easy On The Eyes",
+      "url": "https://open.spotify.com/track/0FKafClDhDTAjjNGr7wV5t"
+    },
     {
       "added_at": "2025-09-05 04:00:20",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 150866,
       "name": "Clockwork",
       "url": "https://open.spotify.com/track/1zOXs9kBDCGVYZXbxCR3eu"
+    },
+    {
+      "added_at": "2026-02-27 05:34:06",
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 204068,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
     },
     {
       "added_at": "2026-02-13 05:00:22",
@@ -55,6 +87,22 @@
       "duration_ms": 203522,
       "name": "Pretty Baby",
       "url": "https://open.spotify.com/track/78ZGO8OXHHBYg2ZhMNaywU"
+    },
+    {
+      "added_at": "2026-02-27 05:34:06",
+      "album": {
+        "name": "Cherry Valley",
+        "url": "https://open.spotify.com/album/5cBseH5iReybVachkE0BMA"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "If I Had Never Lost My Mind...",
+      "url": "https://open.spotify.com/track/2Ivf9KLhA9afDm0RnJTx98"
     },
     {
       "added_at": "2026-02-20 05:00:30",
@@ -91,6 +139,22 @@
       "duration_ms": 160538,
       "name": "Broke Bitch Boogie",
       "url": "https://open.spotify.com/track/2nvvVIj0PudeVXCjl7cXBm"
+    },
+    {
+      "added_at": "2026-02-27 05:34:06",
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
     },
     {
       "added_at": "2026-02-13 05:00:22",
@@ -555,22 +619,6 @@
     {
       "added_at": "2025-03-03 16:46:59",
       "album": {
-        "name": "Steady Hand",
-        "url": "https://open.spotify.com/album/70iJysX1s8FbU4XMzdD4jR"
-      },
-      "artists": [
-        {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
-        }
-      ],
-      "duration_ms": 252061,
-      "name": "Steady Hand",
-      "url": "https://open.spotify.com/track/3jCYOeWtFEmFwZmhzj23yI"
-    },
-    {
-      "added_at": "2025-03-03 16:46:59",
-      "album": {
         "name": "It Was You",
         "url": "https://open.spotify.com/album/5xo2Vvp1ceoc71Sz7YuvWh"
       },
@@ -583,22 +631,6 @@
       "duration_ms": 196284,
       "name": "It Was You",
       "url": "https://open.spotify.com/track/6GGH6rgZEGAg0Afy6SOXb8"
-    },
-    {
-      "added_at": "2025-03-03 16:46:59",
-      "album": {
-        "name": "Real Or Magic",
-        "url": "https://open.spotify.com/album/0b6XUCiA0QGgHDQPVZQGfL"
-      },
-      "artists": [
-        {
-          "name": "Shannon & The Clams",
-          "url": "https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE"
-        }
-      ],
-      "duration_ms": 226373,
-      "name": "Real Or Magic",
-      "url": "https://open.spotify.com/track/2CRHRuOY2KW0gdr6g1VMxd"
     },
     {
       "added_at": "2025-03-03 16:46:59",
@@ -651,26 +683,6 @@
       "duration_ms": 157987,
       "name": "I Wonder",
       "url": "https://open.spotify.com/track/3SHLX5ePGvPKcWKM05Thga"
-    },
-    {
-      "added_at": "2025-03-03 16:46:59",
-      "album": {
-        "name": "Until I Found You (Em Beihold Version)",
-        "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        },
-        {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
-        }
-      ],
-      "duration_ms": 176440,
-      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
-      "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
     },
     {
       "added_at": "2025-03-03 16:46:59",
@@ -751,22 +763,6 @@
       "duration_ms": 211293,
       "name": "Daydreamin'",
       "url": "https://open.spotify.com/track/2CcQDI2IDhHbmBIFup58JE"
-    },
-    {
-      "added_at": "2025-03-03 16:46:59",
-      "album": {
-        "name": "ELVIS (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/74g0V2gxEA5MCSaivAwZyb"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 168266,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/0IJ2TYANZHDVBuFvN09QvF"
     },
     {
       "added_at": "2025-03-03 16:46:59",

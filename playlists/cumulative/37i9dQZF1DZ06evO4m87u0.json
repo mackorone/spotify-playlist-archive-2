@@ -1876,7 +1876,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "She's Long Gone",
       "url": "https://open.spotify.com/track/26ZnmGlPGXaOzPDydAP9D5"
@@ -1919,6 +1919,24 @@
     },
     {
       "album": {
+        "name": "Brothers (Deluxe Remastered Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224381,
+      "name": "Sinister Kid",
+      "url": "https://open.spotify.com/track/52KT9rZ08EwZM80YJIbxFq"
+    },
+    {
+      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
@@ -1930,7 +1948,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 224480,
       "name": "Sinister Kid",
       "url": "https://open.spotify.com/track/78krcD2vFUXJ3Y0XXeiHWH"
@@ -2204,7 +2222,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 300611,
       "name": "The Only One",
       "url": "https://open.spotify.com/track/65PE3GVXjkiQOTM7V7NbfY"

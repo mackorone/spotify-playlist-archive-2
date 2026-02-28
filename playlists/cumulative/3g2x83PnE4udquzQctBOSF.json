@@ -5209,6 +5209,24 @@
     },
     {
       "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/4tai8TuD1nw2F2Isrm9D0Y"
+      },
+      "artists": [
+        {
+          "name": "Ike TJ",
+          "url": "https://open.spotify.com/artist/3DB5xKPkNiCoH8xopiagZ4"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376320,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/1yNfUht2F5XFr6MtadE284"
+    },
+    {
+      "album": {
         "name": "Last Ones",
         "url": "https://open.spotify.com/album/4w2G9uZVP65BQcpN4k0rLn"
       },
@@ -7096,6 +7114,24 @@
       "duration_ms": 406000,
       "name": "put it to music.",
       "url": "https://open.spotify.com/track/4jzBcOyhDg2hkDiSVDWzSo"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Maldito Sonido",
+        "url": "https://open.spotify.com/album/3aWAJIz07mzNNE1ywHmaEu"
+      },
+      "artists": [
+        {
+          "name": "Daniele Ceccarini",
+          "url": "https://open.spotify.com/artist/3QmrkfwWbG09MX7SGFQ7Io"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160546,
+      "name": "Qu\u00e9 Maldito Sonido",
+      "url": "https://open.spotify.com/track/5gcDnLlqYTApIhjsqXfOcU"
     },
     {
       "album": {

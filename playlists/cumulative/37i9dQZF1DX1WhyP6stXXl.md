@@ -2,9 +2,9 @@
 
 ### [Pop Brandneu](https://open.spotify.com/playlist/37i9dQZF1DX1WhyP6stXXl)
 
-> Neues aus der Welt des Pop\. Cover: Mumford & Sons, Gracie Abrams
+> Neues aus der Welt des Pop\. Cover: BLACKPINK
 
-1,922 songs - 4 day 1 hr 35 min
+1,924 songs - 4 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -565,6 +565,7 @@
 | [Fender Freestyle](https://open.spotify.com/track/5n5XAOnwZlW1E0vs3fKUN9) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Dreamers](https://open.spotify.com/album/2pFdkI2vVBJ5rvCq17db9e) | 3:33 | 2024-09-26 | 2024-10-25 |
 | [Ferrari](https://open.spotify.com/track/6pIQxaY3KwmYSAowTxssZW) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [the last 90s bitch](https://open.spotify.com/album/3iuUD5t9JpxeISE6LNYafg) | 2:41 | 2024-06-28 | 2024-07-12 |
 | [Ferris Wheel](https://open.spotify.com/track/63HPIbP11nHHlcC2gKxLcA) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Ferris Wheel](https://open.spotify.com/album/3PBgZgV4CjAeBSTMvC5rkp) | 3:25 | 2025-09-18 | 2025-10-17 |
+| [FEVER DREAM](https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FEVER DREAM](https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ) | 2:33 | 2026-02-27 |  |
 | [FICTION](https://open.spotify.com/track/7IY4M3WEpr2LLZUETkcVIR) | [Adam Klobi](https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI) | [FICTION](https://open.spotify.com/album/1beFAyrk1kXl23nA0oUJDU) | 4:07 | 2026-01-23 | 2026-02-20 |
 | [Fiction](https://open.spotify.com/track/2mcO2qndSRpwGiWxr9UjIG) | [Muryel](https://open.spotify.com/artist/4Ha661RJU3Gd2Rsd6mVmYn) | [Fiction](https://open.spotify.com/album/7asrT6SKGiRH84z6UvoI9A) | 3:09 | 2025-03-28 | 2025-04-25 |
 | [Filthy Rich](https://open.spotify.com/track/6InkM0NaTWi7PJ3utfUzlM) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Filthy Rich](https://open.spotify.com/album/4EZKTohECt4rz0GL4LShK2) | 2:52 | 2024-10-03 | 2024-11-01 |
@@ -655,6 +656,7 @@
 | [Gloria](https://open.spotify.com/track/7uguYtHdK6qwuxiUlzgrU1) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Gloria](https://open.spotify.com/album/6ZD3guVXCEBQbqZntbxiHP) | 3:41 | 2025-05-08 | 2025-06-06 |
 | [Glow](https://open.spotify.com/track/6XaRzGJgCgh7XHl5vnYbEW) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Glow](https://open.spotify.com/album/5cmCT8H9mFi0EmJIalBh7k) | 3:07 | 2024-11-07 | 2024-12-06 |
 | [Glow In The Dark](https://open.spotify.com/track/1V2ND6AWTXlzCnZ1s2klMH) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Glow In The Dark](https://open.spotify.com/album/4aA15kykB2RrixWL4m7MFP) | 2:58 | 2024-06-28 | 2024-07-19 |
+| [GO](https://open.spotify.com/track/0mYa3o6tlUN5HRippmKmwH) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/2SrWldMz9dfCB7kAGQNbcC) | 3:15 | 2026-02-27 |  |
 | [GO BABY](https://open.spotify.com/track/01p5urrGw5fuFCcfT7PBgc) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:14 | 2025-07-11 | 2025-08-09 |
 | [God Knows](https://open.spotify.com/track/0yOwc5hOnEQSgDTApRPgzC) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [God Knows](https://open.spotify.com/album/3G3sTPzTb0R6OQTt3nJI7i) | 2:50 | 2025-04-03 | 2025-05-02 |
 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 | 2025-06-05 | 2025-07-04 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u5973\u6027\u30dd\u30c3\u30d7\u30a2\u30a4\u30b3\u30f3\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: SZA",
+  "description": "\u5973\u6027\u30dd\u30c3\u30d7\u30a2\u30a4\u30b3\u30f3\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: Laufey",
   "name": "Girl On Fire",
   "tracks": [
     {
@@ -126,6 +126,24 @@
       "duration_ms": 189192,
       "name": "15 MINUTES",
       "url": "https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf"
+    },
+    {
+      "album": {
+        "name": "Ore",
+        "url": "https://open.spotify.com/album/0SiGD27Z9eblEQQMdpBCLK"
+      },
+      "artists": [
+        {
+          "name": "ena mori",
+          "url": "https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "19 Underground",
+      "url": "https://open.spotify.com/track/3AKzOFfv7b3WSuBmjFxMdp"
     },
     {
       "album": {
@@ -542,6 +560,24 @@
       "duration_ms": 187455,
       "name": "All I Can Say",
       "url": "https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ"
+    },
+    {
+      "album": {
+        "name": "HANA",
+        "url": "https://open.spotify.com/album/09EpfyvBdk8EL5TQNZiZYg"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152319,
+      "name": "ALL IN",
+      "url": "https://open.spotify.com/track/6lOUOvcscCHUofusbjbYV2"
     },
     {
       "album": {
@@ -1862,7 +1898,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 178173,
       "name": "BOTA",
       "url": "https://open.spotify.com/track/6XRjI89oGBRJe0etKtI04L"
@@ -4883,6 +4919,24 @@
     },
     {
       "album": {
+        "name": "DEADLINE",
+        "url": "https://open.spotify.com/album/7DO7f71Dkm98AKDIgBaaSx"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195402,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/3ZqbplDGd2MJOUgs6yY42I"
+    },
+    {
+      "album": {
         "name": "C,XOXO - Magic City Edition",
         "url": "https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm"
       },
@@ -5592,6 +5646,24 @@
       "duration_ms": 185917,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
+    },
+    {
+      "album": {
+        "name": "How I Get",
+        "url": "https://open.spotify.com/album/70NOPNFs2y4lZMrowJzPuY"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219866,
+      "name": "How I Get",
+      "url": "https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi"
     },
     {
       "album": {
@@ -6736,7 +6808,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 195546,
       "name": "La Perla",
       "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
@@ -8511,6 +8583,24 @@
     },
     {
       "album": {
+        "name": "Nightingale Lane.",
+        "url": "https://open.spotify.com/album/22FLublraJkicHyrK2egu0"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302623,
+      "name": "Nightingale Lane.",
+      "url": "https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF"
+    },
+    {
+      "album": {
         "name": "Nighttime Thing",
         "url": "https://open.spotify.com/album/6YUp5vj8ISFc0mcWYVxXBj"
       },
@@ -8646,7 +8736,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 173633,
       "name": "NON STOP",
       "url": "https://open.spotify.com/track/6U2jlLB3zyqpUiHwCfxcyA"
@@ -11146,7 +11236,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 164000,
       "name": "Stack",
       "url": "https://open.spotify.com/track/02cI2H0wxmoWRacpEl9JdG"
@@ -13842,7 +13932,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 209479,
       "name": "Wish I Didn't",
       "url": "https://open.spotify.com/track/5z5hTxmH4cAEYr9yg2L8OB"

@@ -2,9 +2,9 @@
 
 ### [Sertanejo Religioso](https://open.spotify.com/playlist/37i9dQZF1DWZxPtFzzWt6R)
 
-> A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Gerson Rufino
+> A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: André e Felipe
 
-118 songs - 7 hr 57 min
+119 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Aumente o Som \- Ao Vivo](https://open.spotify.com/track/3wzqDgOr0AN57nNIRDa8xP) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Aumente o Som \(Ao Vivo\)](https://open.spotify.com/album/36RFBF5WzYevP63BKWjYAF) | 6:00 | 2025-02-21 | 2025-08-02 |
 | [Caminhão 11 13 \- Ao Vivo](https://open.spotify.com/track/3NubUCC2PTleNfZs2h9YDL) | [Lázaro e Eduardo](https://open.spotify.com/artist/6Hsz3V67jWpX7tqCNH0NQF) | [Caminhão 11 13 \(Ao Vivo\)](https://open.spotify.com/album/3gFgVmyBu9n3E0ulLTFHO7) | 3:00 | 2024-01-05 | 2024-08-31 |
 | [Chuva de Poder](https://open.spotify.com/track/3MEgEIhFanSXp7dxmb7fmb) | [Gabriela Rodrigues](https://open.spotify.com/artist/3dCQ53bhVYWtm6VDtEMRqb) | [Chuva de Poder](https://open.spotify.com/album/0RpR497V9U9U6sPsEhITGr) | 3:16 | 2023-06-23 | 2025-08-02 |
+| [Como eu Te Amo Deus](https://open.spotify.com/track/1unkmTfcblkjHWIhZLSFhE) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Como eu Te Amo Deus](https://open.spotify.com/album/1hZif2WY3WGbnarLgKUjbJ) | 3:06 | 2026-02-27 |  |
 | [Confia no Processo](https://open.spotify.com/track/3ZJbvLFRJKqBxLk1zHstuv) | [João Marcos & Danilo](https://open.spotify.com/artist/27HdKF8P7IOhGzwgVi2w4F) | [Confia no Processo](https://open.spotify.com/album/6suujei9SvAs3eKoGfoLtp) | 3:03 | 2023-11-24 | 2024-06-15 |
 | [Contigo Até o Fim](https://open.spotify.com/track/5CnY4YdSh1u5Wj665Wbo7R) | [Elida Rodrigues](https://open.spotify.com/artist/1TwjqugM8aphuZoa8qBZbZ), [Sérgio Lopes](https://open.spotify.com/artist/2w3GMLgGsm8mJyVWdWwrKb) | [Contigo Até o Fim](https://open.spotify.com/album/3hFoiaAjeOHgdTKfb3a9ye) | 4:03 | 2024-06-28 |  |
 | [De Volta à Inocência](https://open.spotify.com/track/39NU2dGXS0Jjb3CufYOtXv) | [Alvaro & Daniel](https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2) | [De Volta à Inocência](https://open.spotify.com/album/7dWg5ZEhECD7rehmm0adzf) | 4:48 | 2023-06-23 |  |
@@ -64,7 +65,7 @@
 | [Lugar Secreto](https://open.spotify.com/track/3yBHRT12WrWXrp4fpzZhyT) | [Lucélia Santos](https://open.spotify.com/artist/6nXnDwtzXjcRAXEWVQ7RQV) | [Lugar Secreto](https://open.spotify.com/album/413JjplmLoHMSd7ylC6Dpk) | 3:46 | 2023-06-23 |  |
 | [Mais que Vencedor \(feat\. Carlos Henrique\)](https://open.spotify.com/track/1q3rYJMoGc0FDhdyPcTnBw) | [Kleuder Leão](https://open.spotify.com/artist/7Ft5r1OOfJxIoMrm61T8tk), [Carlos Henrique](https://open.spotify.com/artist/3QlHTFeE4uEB4zLEv9gy4r) | [Mais que Vencedor \(feat\. Carlos Henrique\)](https://open.spotify.com/album/67hDmO0TuD5Dsau7zZbK73) | 3:35 | 2023-06-23 |  |
 | [Me Entrego](https://open.spotify.com/track/6j10JapIh1BVbUjjCVW9Tv) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Me Entrego](https://open.spotify.com/album/5MKW0jgUtpVcaBfIH1ndN3) | 3:29 | 2023-06-23 | 2023-07-29 |
-| [Medley: João Viu / Sou um Milagre / Vou Seguir \- Ao Vivo](https://open.spotify.com/track/5dsWXguf4QMnRt1JxakWZi) | [Banda Som e Louvor](https://open.spotify.com/artist/2MXmyzaX94wBeNmIjsx6Dc), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Medley: João Viu / Sou um Milagre / Vou Seguir \(Ao Vivo\)](https://open.spotify.com/album/4fQTfXxHoGjpOXXTkvMISd) | 5:54 | 2024-08-16 |  |
+| [Medley: João Viu / Sou um Milagre / Vou Seguir \- Ao Vivo](https://open.spotify.com/track/5dsWXguf4QMnRt1JxakWZi) | [Banda Som e Louvor](https://open.spotify.com/artist/2MXmyzaX94wBeNmIjsx6Dc), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Medley: João Viu / Sou um Milagre / Vou Seguir \(Ao Vivo\)](https://open.spotify.com/album/4fQTfXxHoGjpOXXTkvMISd) | 5:54 | 2024-08-16 | 2026-02-28 |
 | [Melhor Herança](https://open.spotify.com/track/5BH8Z8orl7N5g8h4IcovGU) | [Guilherme Franco](https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Melhor Herança](https://open.spotify.com/album/3skNvqzrC2VlUwrcziueQ5) | 3:52 | 2025-09-19 |  |
 | [Meu Barquinho \- Ao Vivo](https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Meu Barquinho](https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86) | 3:15 | 2023-06-23 |  |
 | [Meu Filho \(Ao Vivo\)](https://open.spotify.com/track/0Jb0HoaMIHcEdI7l2BedDO) | [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk) | [Meu Filho \(Ao Vivo\)](https://open.spotify.com/album/3rSaMc6VjJNQxwD0tFo5zJ) | 3:59 | 2024-08-30 |  |

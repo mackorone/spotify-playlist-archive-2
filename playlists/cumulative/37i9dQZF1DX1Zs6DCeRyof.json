@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-13",
-  "description": "La lista donde viven los hits m\u00e1s grandes de la Isla del Encanto. Cover: Bad Bunny",
+  "description": "La lista donde viven los hits m\u00e1s grandes de la Isla del Encanto. Cover: Omar Courtz",
   "name": "\u00c9xitos Puerto Rico",
   "tracks": [
     {
@@ -1726,7 +1726,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 207461,
       "name": "Coi Leray - Remix",
       "url": "https://open.spotify.com/track/0SljePfLW5zYRxo1cmryj9"
@@ -2568,7 +2568,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 140017,
       "name": "El Del Flavor",
       "url": "https://open.spotify.com/track/164obCYBsKXiaJq19MZWd8"
@@ -3085,6 +3085,44 @@
     },
     {
       "album": {
+        "name": "Falsas Promesas (Remix)",
+        "url": "https://open.spotify.com/album/14FAowouxDrPZQOhqrH2SM"
+      },
+      "artists": [
+        {
+          "name": "Midnvght",
+          "url": "https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ"
+        },
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Finesse",
+          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415973,
+      "name": "Falsas Promesas (Remix)",
+      "url": "https://open.spotify.com/track/09djeJtz8wrtQFs5YtwgD4"
+    },
+    {
+      "album": {
         "name": "FANTASMA | AVC",
         "url": "https://open.spotify.com/album/6qgdKe2WdqizZIvO3sRpwP"
       },
@@ -3194,6 +3232,28 @@
       "duration_ms": 233099,
       "name": "FLOWHOT (feat. Arc\u00e1ngel, De La Ghetto, Randy)",
       "url": "https://open.spotify.com/track/617mNvfkXLMu1NisQfvYF2"
+    },
+    {
+      "album": {
+        "name": "POR SI MA\u00d1ANA NO ESTOY",
+        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226533,
+      "name": "FOREVER TU GANTEL",
+      "url": "https://open.spotify.com/track/1YAWMfsmduIrpqrjP45pFn"
     },
     {
       "album": {
@@ -3824,7 +3884,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 284000,
       "name": "Khelani - Remix",
       "url": "https://open.spotify.com/track/2R9VCHkAfx5w7wiydJW2JO"
@@ -4602,7 +4662,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 172800,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/3YmFH8V7TUtLAYhnlswkdQ"
@@ -4761,6 +4821,28 @@
     },
     {
       "album": {
+        "name": "Mamamelo",
+        "url": "https://open.spotify.com/album/5lR5HSNBuXhv9zj08yWeXs"
+      },
+      "artists": [
+        {
+          "name": "Conep",
+          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
+        },
+        {
+          "name": "Michael Flores",
+          "url": "https://open.spotify.com/artist/2gATjk9j2u50i0HmXZySZY"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172457,
+      "name": "Mamamelo",
+      "url": "https://open.spotify.com/track/1sv20HOiFRN94jsNjIcjOL"
+    },
+    {
+      "album": {
         "name": "Mami Chula",
         "url": "https://open.spotify.com/album/7weNe4OIBROOCcMEOMeNlS"
       },
@@ -4798,6 +4880,24 @@
       "duration_ms": 130961,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/2YIkop8YguSz17oRABRXIp"
+    },
+    {
+      "album": {
+        "name": "Manhattan II",
+        "url": "https://open.spotify.com/album/2Se1qWIRcHDKlX8F1rfYS0"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135019,
+      "name": "Manhattan II",
+      "url": "https://open.spotify.com/track/4iK6DxY48lY27FHklxpEGY"
     },
     {
       "album": {
@@ -5346,7 +5446,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 252435,
       "name": "MUSULMANA - Remix",
       "url": "https://open.spotify.com/track/1gCnA79lrwneXiocZADTV2"
@@ -5380,6 +5480,28 @@
       "duration_ms": 392258,
       "name": "MUVI",
       "url": "https://open.spotify.com/track/73hUKLJJqRRBPNZulaqZtt"
+    },
+    {
+      "album": {
+        "name": "MVLAN",
+        "url": "https://open.spotify.com/album/0zL3m3TQqvgJ1donJHGAmN"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "MVLAN",
+      "url": "https://open.spotify.com/track/74t17BRV4el0mU0Tb8XY1k"
     },
     {
       "album": {
@@ -5788,7 +5910,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 198400,
       "name": "Nostalgia de Oto\u00f1o",
       "url": "https://open.spotify.com/track/3a8cAWPzyD3xv1hCNR4f74"
@@ -6888,6 +7010,28 @@
       "duration_ms": 147499,
       "name": "Quiz\u00e1s, Tal Vez",
       "url": "https://open.spotify.com/track/15malicZv4vdLHzIXg5kK0"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Pasar\u00eda...",
+        "url": "https://open.spotify.com/album/0uuqkIU29zH9mpChddc5Tn"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191018,
+      "name": "Qu\u00e9 Pasar\u00eda...",
+      "url": "https://open.spotify.com/track/0OxKf18dUo2G5dFOQYCvBN"
     },
     {
       "album": {
@@ -8708,7 +8852,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 146503,
       "name": "Un Kiss",
       "url": "https://open.spotify.com/track/6RZyak46Ufg0VCrWRyz0FJ"
@@ -9216,6 +9360,28 @@
       "duration_ms": 146559,
       "name": "wiggy",
       "url": "https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A"
+    },
+    {
+      "album": {
+        "name": "POR SI MA\u00d1ANA NO ESTOY",
+        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269596,
+      "name": "WO OH OH",
+      "url": "https://open.spotify.com/track/0h54mLixODOqU6vTcZMqVM"
     },
     {
       "album": {

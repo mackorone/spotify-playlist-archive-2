@@ -4,7 +4,7 @@
 
 > darf man so ?? \(in den tag starten, kurz leben leben, bisschen pause machen\)
 
-305 songs - 15 hr 27 min
+305 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Closer To Me](https://open.spotify.com/track/6A5Y0hB4SGK9MCCkJJXAWm) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Closer To Me](https://open.spotify.com/album/6iwo9QpsRBRrjQFtFzL8VK) | 2:46 | 2025-11-12 |  |
 | [Cold](https://open.spotify.com/track/18WbzHfUTnPK1lcDNgMnO0) | [Alfie Castley](https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc) | [Cold](https://open.spotify.com/album/5SNJQ7BeKc43k8Cdb3KlSM) | 2:24 | 2025-10-16 |  |
 | [Coming Home \(California\)](https://open.spotify.com/track/5wh6M6rmdoIeVGlOLqGnFG) | [Anica Russo](https://open.spotify.com/artist/7sosL0rffvNlG2SE0fyZJX) | [Coming Home \(California\)](https://open.spotify.com/album/2WBb1JxNC599eu8ruG6mgk) | 2:31 | 2024-06-20 | 2024-07-23 |
+| [cosmic wink](https://open.spotify.com/track/0DwSDivYx1TTl5m3GsyKzK) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [Cosmic Wink](https://open.spotify.com/album/4FBsBCEPnDE9kRfyj3GteE) | 2:52 | 2026-02-26 |  |
 | [Crazy Woman](https://open.spotify.com/track/3KNAVLiOMLVrTTqviWZwmX) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Crazy Woman](https://open.spotify.com/album/5iIMeDqPXonKGMT6lpeA7v) | 2:48 | 2024-07-10 | 2025-07-11 |
 | [Criminals](https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \(Deluxe\)](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:34 | 2024-09-13 | 2025-04-15 |
 | [Crème Brulée](https://open.spotify.com/track/7uO4TMLRGBPbTaMFwckSoC) | [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) | [Crème Brulée](https://open.spotify.com/album/7Lf4jeuo8xle3BaJUueHyt) | 2:59 | 2025-04-02 | 2025-08-02 |
@@ -278,7 +279,6 @@
 | [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 | 2026-01-23 |  |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-20 | 2024-10-04 |
 | [Touch Me](https://open.spotify.com/track/74lOK0Z3WKvTpK8W8Srj1d) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Touch Me](https://open.spotify.com/album/0W1CKVUL1yAWcIwWzA4Ztt) | 3:23 | 2025-03-25 | 2025-08-02 |
-| [Track 5](https://open.spotify.com/track/0DwSDivYx1TTl5m3GsyKzK) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [Cosmic Wink](https://open.spotify.com/album/4FBsBCEPnDE9kRfyj3GteE) | 0:00 | 2026-02-26 |  |
 | [Traitor](https://open.spotify.com/track/7B4BgTFefaJ6VPcsXvMmq0) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Traitor](https://open.spotify.com/album/5MmR536vGgyvldeiZS7HVh) | 2:27 | 2025-02-07 | 2025-08-02 |
 | [TYRANT](https://open.spotify.com/track/5mUlozUYpdmXVPkj4BW8cA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:10 | 2025-07-10 | 2025-12-04 |
 | [Unsicher](https://open.spotify.com/track/2GN2pbQi4Yz7Qp99Wbp2vZ) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Unsicher](https://open.spotify.com/album/4YRMSEy1QmyGeUUxiZyk8S) | 2:18 | 2025-04-25 |  |

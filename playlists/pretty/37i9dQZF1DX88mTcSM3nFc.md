@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 
 > christmas always makes me cry
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,379 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,375 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 | 24 | [Please Come Home For Christmas](https://open.spotify.com/track/2UTO3vuKleiyHjOGX1dppL) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ) | [Sings Christmas Songs](https://open.spotify.com/album/0sYk8ncYCqrrJPKeGiBwKL) | 2:50 |
 | 25 | [Silent Night](https://open.spotify.com/track/4iTfml41SOUBHXgMUHLUVV) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 2:11 |
 | 26 | [Christmas Must Be Tonight](https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 3:47 |
-| 27 | [The First Noel](https://open.spotify.com/track/4WW2Bdai1qzTnNkWNJCGNg) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 2:44 |
-| 28 | [Coldest Winter](https://open.spotify.com/track/7GZ4WYixf0D6DWvvi60yTM) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 2:28 |
-| 29 | [River](https://open.spotify.com/track/3OHTX3Kf5qOOPwGepi5xe8) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Music From The Netflix Original Series The Politician](https://open.spotify.com/album/5Gik4usNaiTLBzBimuIEpJ) | 4:07 |
+| 27 | [River](https://open.spotify.com/track/3OHTX3Kf5qOOPwGepi5xe8) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Music From The Netflix Original Series The Politician](https://open.spotify.com/album/5Gik4usNaiTLBzBimuIEpJ) | 4:07 |
+| 28 | [The First Noel](https://open.spotify.com/track/4WW2Bdai1qzTnNkWNJCGNg) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 2:44 |
+| 29 | [Coldest Winter](https://open.spotify.com/track/7GZ4WYixf0D6DWvvi60yTM) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 2:28 |
 | 30 | [It Must Have Been Love \(Christmas for the Broken Hearted\) \- Spotify Singles: Holiday](https://open.spotify.com/track/3Cr5u6bC4NJomy0B3oNHkg) | [Lasse Skriver](https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp) | [It Must Have Been Love \(Christmas for the Broken Hearted\) \- Spotify Singles: Holiday](https://open.spotify.com/album/2WwjIbhO1VU84Zm9ZhaEoL) | 3:41 |
 | 31 | [Loneliest Time Of Year](https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Loneliest Time Of Year](https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ) | 3:22 |
 | 32 | [Last Christmas](https://open.spotify.com/track/6KVbGwEeQU6OOFNImlaT3b) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Last Christmas](https://open.spotify.com/album/4awqPGIwUO1svryLMY43KR) | 2:28 |

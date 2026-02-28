@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "A collection of the best recent Prog Rock tracks. Cover: Weather Systems",
+  "description": "A collection of best Prog Rock tracks. Cover: Dream Theater",
   "name": "Prog Rock",
   "tracks": [
     {
@@ -756,7 +756,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 222195,
       "name": "Babel",
       "url": "https://open.spotify.com/track/109FXcs1LybWMUI8BLujgx"
@@ -1560,7 +1560,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 296833,
       "name": "Cosmic Love",
       "url": "https://open.spotify.com/track/6Kv1bBUN1RiFNg4k68A4iF"
@@ -1840,6 +1840,24 @@
       "duration_ms": 275966,
       "name": "Dig Till You Die",
       "url": "https://open.spotify.com/track/635tnKoiWnhhd5lEMSyJjN"
+    },
+    {
+      "album": {
+        "name": "Disappear",
+        "url": "https://open.spotify.com/album/7mpn73tPaQ75h35RJH9nUS"
+      },
+      "artists": [
+        {
+          "name": "Soft Machine",
+          "url": "https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237840,
+      "name": "Disappear",
+      "url": "https://open.spotify.com/track/0OjwSz9BSrnHvYRx1GwjKm"
     },
     {
       "album": {
@@ -2964,7 +2982,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 335226,
       "name": "Green Books",
       "url": "https://open.spotify.com/track/0PrtcMr7euTKGzO9pDeOvX"
@@ -3846,7 +3864,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 221904,
       "name": "Jettison Me",
       "url": "https://open.spotify.com/track/71tiwn7G9HRJPiMc3pC5la"
@@ -3920,6 +3938,24 @@
       "duration_ms": 295407,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/5w5qpnef365DLgxknZmuoH"
+    },
+    {
+      "album": {
+        "name": "WROC",
+        "url": "https://open.spotify.com/album/78UJWmoWHCBOgHSR4FYMCQ"
+      },
+      "artists": [
+        {
+          "name": "Paul Gilbert",
+          "url": "https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285222,
+      "name": "Keep Your Feet Firm and Even",
+      "url": "https://open.spotify.com/track/2N3HV6f9BVFCnhiu04pZes"
     },
     {
       "album": {
@@ -4130,6 +4166,24 @@
       "duration_ms": 429573,
       "name": "Levitation - Live, Royal Albert Hall, 29 September 2023",
       "url": "https://open.spotify.com/track/2FvTH18Cfx5mfFm1Ut5KZC"
+    },
+    {
+      "album": {
+        "name": "Liberation Day",
+        "url": "https://open.spotify.com/album/3KIyu5Rrfknjcqhfkc4HUE"
+      },
+      "artists": [
+        {
+          "name": "Globus",
+          "url": "https://open.spotify.com/artist/2SrDoQLTZqsVi8Vg1UdHao"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288903,
+      "name": "Liberation Day",
+      "url": "https://open.spotify.com/track/7aTjY0J5IIObnWW0viBAka"
     },
     {
       "album": {
@@ -5185,6 +5239,24 @@
     },
     {
       "album": {
+        "name": "Ol\u0113ka",
+        "url": "https://open.spotify.com/album/5xHzbWyiusLmcfqgjwl872"
+      },
+      "artists": [
+        {
+          "name": "Kolm",
+          "url": "https://open.spotify.com/artist/2il2sBjwdjQzy5vQdNO8j4"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440000,
+      "name": "Ol\u0113ka",
+      "url": "https://open.spotify.com/track/2QRficRlliAxMbX1pM5EJw"
+    },
+    {
+      "album": {
         "name": "Omni: A Shuffle of Fate",
         "url": "https://open.spotify.com/album/0L4gXPAAeX49fPtu4ZHZUa"
       },
@@ -5542,6 +5614,24 @@
       "duration_ms": 192287,
       "name": "Pathfinder",
       "url": "https://open.spotify.com/track/5yovtAPlqWSS2SPB7cPljz"
+    },
+    {
+      "album": {
+        "name": "Patterns",
+        "url": "https://open.spotify.com/album/7zz5aSPOBSSMq7QNCH2t22"
+      },
+      "artists": [
+        {
+          "name": "Archive",
+          "url": "https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 500480,
+      "name": "Patterns",
+      "url": "https://open.spotify.com/track/6UN78M6QtRxb73AofX7keE"
     },
     {
       "album": {
@@ -7008,7 +7098,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 229184,
       "name": "Space To Dive",
       "url": "https://open.spotify.com/track/7kMUmPfY8DTAuBojfhNZjn"

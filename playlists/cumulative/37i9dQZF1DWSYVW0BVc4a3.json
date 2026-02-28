@@ -16567,6 +16567,24 @@
     },
     {
       "album": {
+        "name": "Mission Barnhus",
+        "url": "https://open.spotify.com/album/5x9H7C39y7M7SS4juDAZ3f"
+      },
+      "artists": [
+        {
+          "name": "FaltyDL",
+          "url": "https://open.spotify.com/artist/1qykxtFM9KoTti5y3xV1uk"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350906,
+      "name": "Mission Barnhus",
+      "url": "https://open.spotify.com/track/6HiIHHOVVop7G50iwqrUAr"
+    },
+    {
+      "album": {
         "name": "Mistery Lady",
         "url": "https://open.spotify.com/album/7pSNLI38T60BpQSq20ETle"
       },

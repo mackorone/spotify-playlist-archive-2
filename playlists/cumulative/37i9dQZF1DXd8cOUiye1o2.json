@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-01",
-  "description": "Volume badhaao because 'Ram Ji Aake Bhala Karenge' is out from Bhooth Bangla.",
+  "description": "Volume badhaao because 'Ram Ji Aake Bhala Karenge' from Bhooth Bangla is out now.",
   "name": "New Music Hindi",
   "tracks": [
     {
@@ -3028,7 +3028,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 163950,
       "name": "Dheere Dheere",
       "url": "https://open.spotify.com/track/1R2k1RqiyAXUPWw94datoO"
@@ -5088,7 +5088,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 304134,
       "name": "Hum To Tere Hi Liye The (From \"O' Romeo\")",
       "url": "https://open.spotify.com/track/5Kmpdwhvv2mk9rlW0Km6TJ"
@@ -5364,7 +5364,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 167428,
       "name": "Into You",
       "url": "https://open.spotify.com/track/3mVhR2s80SxstT6b1TZKzX"
@@ -7654,7 +7654,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 374500,
       "name": "Maatrubhumi (From \"Battle Of Galwan\")",
       "url": "https://open.spotify.com/track/3kvTEKHAxKZLKXnMi5ev6L"
@@ -8576,7 +8576,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 360064,
       "name": "Mohabbat Ho Gayi Hai",
       "url": "https://open.spotify.com/track/3xymNFOuhEjimrOOJS0otp"
@@ -10523,6 +10523,32 @@
     },
     {
       "album": {
+        "name": "RAINA",
+        "url": "https://open.spotify.com/album/75clQ7n29rQkzvGxrW1Btw"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Priya Saraiya",
+          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217192,
+      "name": "RAINA",
+      "url": "https://open.spotify.com/track/3Hmfcqxxy8OCPhaLJT9QaQ"
+    },
+    {
+      "album": {
         "name": "Raje Yuvaraje (From \"The Rajasaab\") [Hindi]",
         "url": "https://open.spotify.com/album/0F9zpcr6RqO7z0EINAnsLh"
       },
@@ -10580,6 +10606,36 @@
       "duration_ms": 235555,
       "name": "Ram Ji Aake Bhala Karenge - From \"Bhooth Bangla\"",
       "url": "https://open.spotify.com/track/76amTizokuA7JolW7aAZ16"
+    },
+    {
+      "album": {
+        "name": "Rang",
+        "url": "https://open.spotify.com/album/7pdUkV9d3V07MlUUzTjpKa"
+      },
+      "artists": [
+        {
+          "name": "Garvit - Priyansh",
+          "url": "https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4"
+        },
+        {
+          "name": "Garvit Soni",
+          "url": "https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH"
+        },
+        {
+          "name": "Priyansh Srivastava",
+          "url": "https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU"
+        },
+        {
+          "name": "Aniket Shukla",
+          "url": "https://open.spotify.com/artist/4FDtRL3oDJNggf5ABZcVEe"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206023,
+      "name": "Rang",
+      "url": "https://open.spotify.com/track/1lYdEfyIy0AjjuzMTcwwh5"
     },
     {
       "album": {
@@ -10733,6 +10789,32 @@
     },
     {
       "album": {
+        "name": "Rogi Mai (Kehna Hi Kya)",
+        "url": "https://open.spotify.com/album/3PHqsACWNOJndLlPd7Rowg"
+      },
+      "artists": [
+        {
+          "name": "SarpDansh",
+          "url": "https://open.spotify.com/artist/2EnfibPipqcjvyRiNrbHTN"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        },
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168928,
+      "name": "Rogi Mai (Kehna Hi Kya)",
+      "url": "https://open.spotify.com/track/68yZT5W0TaaKZPdxVe2jSy"
+    },
+    {
+      "album": {
         "name": "Baaghi 4",
         "url": "https://open.spotify.com/album/3S7prbLe2cHnA7HwfGCGsu"
       },
@@ -10774,6 +10856,36 @@
       "duration_ms": 189000,
       "name": "Roshni",
       "url": "https://open.spotify.com/track/5GS8iB32EF1xpFlhAjTkZC"
+    },
+    {
+      "album": {
+        "name": "Rubaroo [From \"Dacoit (Hindi)\"]",
+        "url": "https://open.spotify.com/album/7M6baKISFOK5ytbrNlM6kv"
+      },
+      "artists": [
+        {
+          "name": "Faheem Abdullah",
+          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "name": "Bheems Ceciroleo",
+          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+        },
+        {
+          "name": "Ritesh Rajwada",
+          "url": "https://open.spotify.com/artist/3DTQHPR6QoYFx6A5UVLcKb"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195999,
+      "name": "Rubaroo (From \"Dacoit (Hindi)\")",
+      "url": "https://open.spotify.com/track/1BL70Rng08HaglYhcd4i1K"
     },
     {
       "album": {
@@ -12718,6 +12830,28 @@
       "duration_ms": 118078,
       "name": "The Lalla Anthem - Warning From Subedaar (From \"Subedaar\")",
       "url": "https://open.spotify.com/track/7pIk5lVxAxT3GHd8fQXZW4"
+    },
+    {
+      "album": {
+        "name": "The Last Letter",
+        "url": "https://open.spotify.com/album/713AvxcNnVOUQnp4LRcc5G"
+      },
+      "artists": [
+        {
+          "name": "Maan Panu",
+          "url": "https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ"
+        },
+        {
+          "name": "Mazaak",
+          "url": "https://open.spotify.com/artist/01qn9kID2owHtQLAjKnQuz"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169941,
+      "name": "The Last Letter",
+      "url": "https://open.spotify.com/track/0TsyaaM73GAKIxv38yzHV4"
     },
     {
       "album": {

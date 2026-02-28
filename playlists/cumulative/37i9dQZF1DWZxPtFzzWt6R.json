@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-10",
-  "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Gerson Rufino",
+  "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Andr\u00e9 e Felipe",
   "name": "Sertanejo Religioso",
   "tracks": [
     {
@@ -426,6 +426,24 @@
       "duration_ms": 196000,
       "name": "Chuva de Poder",
       "url": "https://open.spotify.com/track/3MEgEIhFanSXp7dxmb7fmb"
+    },
+    {
+      "album": {
+        "name": "Como eu Te Amo Deus",
+        "url": "https://open.spotify.com/album/1hZif2WY3WGbnarLgKUjbJ"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186118,
+      "name": "Como eu Te Amo Deus",
+      "url": "https://open.spotify.com/track/1unkmTfcblkjHWIhZLSFhE"
     },
     {
       "album": {
@@ -1108,7 +1126,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 354909,
       "name": "Medley: Jo\u00e3o Viu / Sou um Milagre / Vou Seguir - Ao Vivo",
       "url": "https://open.spotify.com/track/5dsWXguf4QMnRt1JxakWZi"

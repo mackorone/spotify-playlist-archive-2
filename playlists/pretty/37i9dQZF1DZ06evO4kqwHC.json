@@ -1,12 +1,12 @@
 {
   "description": "This is Foo Fighters. The essential tracks, all in one playlist.",
-  "num_followers": 1100995,
+  "num_followers": 1101128,
   "original_name": "This Is Foo Fighters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAAApray8I58eKpziOUTKWY+4",
+  "snapshot_id": "aZ+NAAAAAABzj4joEFWpOcpPpYF2Z+bo",
   "tracks": [
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 293337,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2fDVMNQmFuMORDD3dP7GkN"
+      "duration_ms": 310470,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/4P4s2KHOw0uISbLI3zkHtD"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 310470,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/4P4s2KHOw0uISbLI3zkHtD"
+      "duration_ms": 293337,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2fDVMNQmFuMORDD3dP7GkN"
     },
     {
       "added_at": null,

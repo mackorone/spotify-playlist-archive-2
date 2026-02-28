@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 
 > e don cast
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,409 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,418 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 47 | [Goodgirl](https://open.spotify.com/track/6adCGcQBhdqQbrb2b1aoGv) | [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Goodgirl](https://open.spotify.com/album/0cfboUkpHeZwjcw8xvY0vK) | 2:43 |
 | 48 | [Ojuju](https://open.spotify.com/track/5FNrbC6EKv4HXqz5MOPZm7) | [Troniq Music](https://open.spotify.com/artist/21s2eqp56FkfHrrXpSTixv), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Eclipse](https://open.spotify.com/album/0yHslhvyRmnhOCUIYzNE5i) | 3:07 |
 | 49 | [Ogechi](https://open.spotify.com/track/6YYnBEMEaj960IX1evcTun) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [Ogechi](https://open.spotify.com/album/3RrnJMe8E4SmVIzo393sLg) | 2:32 |
-| 50 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 |
+| 50 | [Ruin](https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Ruin](https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG) | 3:01 |
 
 Snapshot ID: `AAAAAOIDbqwURDHd9o8BnakBUG1CxoDX`

@@ -4,7 +4,7 @@
 
 > la nueva ola de artistas con Diego Andlover en portada\. 🌊✨
 
-831 songs - 1 day 18 hr 33 min
+836 songs - 1 day 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Autorretrato](https://open.spotify.com/track/55SwmpdOchhXCJwYxrRdrq) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h), [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Autorretrato](https://open.spotify.com/album/3Mz3vMXm002M6VTs6Swg9V) | 3:34 | 2023-05-19 | 2023-07-07 |
 | [Ave Canta \- Reprise](https://open.spotify.com/track/0BUcpces0vo6QUB8sexVD5) | [Hay Un Dinosaurio](https://open.spotify.com/artist/6EarpkLGAtCbNZcKJ0WnGe) | [Ave Canta \(Reprise\)](https://open.spotify.com/album/32YUzQAtanQDlcis3O4NRy) | 4:32 | 2025-09-12 | 2025-11-08 |
 | [Azul](https://open.spotify.com/track/4REs7jIplREVkIfXaNjUzJ) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Azul](https://open.spotify.com/album/6VgL4TQPE0jfvuCGWgUMut) | 4:10 | 2023-08-25 | 2023-11-30 |
+| [AZUL.](https://open.spotify.com/track/0j6STFxwqNU0MoUwDdbfae) | [Yukun](https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB) | [AZUL.](https://open.spotify.com/album/0RYRFzJ97pWuyL1UK9wGYS) | 2:01 | 2026-02-27 |  |
 | [Back To U](https://open.spotify.com/track/4kWzYqOsoT2uzn42ueE4jX) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Back To U](https://open.spotify.com/album/4rRwEmIEgyqL70Omv2IWW3) | 3:13 | 2023-08-25 | 2023-10-21 |
 | [BAD INTENCIONES](https://open.spotify.com/track/5BwJIBeUgerlyYADTvRctX) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [BAD INTENCIONES](https://open.spotify.com/album/1sSipuadK72m7WMdrfrieC) | 2:49 | 2024-01-26 | 2024-11-30 |
 | [Barco](https://open.spotify.com/track/2x6pJL7zRMTT4GMLWcUTLL) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Barco](https://open.spotify.com/album/4kBwg7WWtpNMnm4LfNYXkK) | 3:58 | 2023-06-23 | 2024-06-29 |
@@ -131,6 +132,7 @@
 | [calma](https://open.spotify.com/track/7tBN8nQrkLsBIdz7RtkzB3) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [calma](https://open.spotify.com/album/2lOfVUwuTEqwiks5dLI7Nh) | 2:20 | 2025-03-21 | 2025-06-28 |
 | [Calor](https://open.spotify.com/track/1tjwpYaTif4HRMUADJzzgf) | [Herbolaria](https://open.spotify.com/artist/5DrflPAe5ZoSkw2FtxrnZW) | [Calor](https://open.spotify.com/album/50HwL1s1yIlbECtQ3SznIs) | 3:23 | 2023-03-10 | 2023-07-07 |
 | [Cambios](https://open.spotify.com/track/3IShiIaKrKZ7aOYXcvHLbQ) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Cambios](https://open.spotify.com/album/7y0uhpQYTnuIZlDR2mDY73) | 3:02 | 2024-03-08 | 2024-03-23 |
+| [Canciones de amor](https://open.spotify.com/track/2txptIWlISmcNTY06AG8L1) | [Alan Troy](https://open.spotify.com/artist/2AAtJ9SZMYanKsVF87wxGU) | [Canciones de amor](https://open.spotify.com/album/2WS4veQmN430zlkCoAhP6A) | 2:20 | 2026-02-27 |  |
 | [Canción de Cuna Para mi Amor](https://open.spotify.com/track/7oVscokaAqXztmruCWVAXq) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [Canción de Cuna Para mi Amor](https://open.spotify.com/album/1IRb97dQDYVbfSzJ8e5InQ) | 2:18 | 2024-10-18 | 2024-12-05 |
 | [cansada de verte en todas partes](https://open.spotify.com/track/09uBE5fjZUWZfjD2ensCGR) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [cansada de verte en todas partes](https://open.spotify.com/album/2xpnndjYm4cHc3f207UNXf) | 2:50 | 2023-07-21 | 2024-01-31 |
 | [cansada de verte en todas partes](https://open.spotify.com/track/3DXxe99pe0kM1UBgUR8fGm) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [todo pasa](https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE) | 2:50 | 2023-11-29 | 2024-01-13 |
@@ -182,6 +184,7 @@
 | [Cuestión de Fe](https://open.spotify.com/track/5ktwcFBkWl3W00mqcTIzgw) | [niño viejo](https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9) | [Cuestión de Fe](https://open.spotify.com/album/4RwjMVmtIfqRkpUVkdKlZN) | 2:23 | 2025-09-19 | 2025-11-22 |
 | [cumbia aesthetic](https://open.spotify.com/track/6iitVWohxBtt0HFopnMIkD) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [cumbia aesthetic](https://open.spotify.com/album/3MzlM2GvEnrKCYihOhLcxo) | 2:50 | 2023-05-26 | 2023-09-30 |
 | [Cumpleaños y Funerales](https://open.spotify.com/track/2sWxRtrkDFmDbQ5aYrxS6m) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [Cumpleaños y Funerales](https://open.spotify.com/album/1SgggMzOYWuLdThadwVPPl) | 3:13 | 2024-05-31 | 2024-07-21 |
+| [cuídame de mi](https://open.spotify.com/track/3rHnzhfozKEQ8p414MPW9F) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [i Music Listen](https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ) | 3:23 | 2026-02-27 |  |
 | [CÓMO RESPIRAR???](https://open.spotify.com/track/0K7JLUqCpPJrFRz4Eb9g14) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [CÓMO RESPIRAR???](https://open.spotify.com/album/4d6dB3zVorvbqroywYr09q) | 3:41 | 2021-12-10 | 2022-05-10 |
 | [D15BLO](https://open.spotify.com/track/0pqcoHJiTFLgkWemfOQ8Go) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [D15BLO](https://open.spotify.com/album/7feac3wBnvITrv4dKTjLWZ) | 2:49 | 2023-11-03 | 2024-01-27 |
 | [Dame Chance \(Rayuela\)](https://open.spotify.com/track/2czAQ067Yr4PTyCA22I1Pe) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Dame Chance \(Rayuela\)](https://open.spotify.com/album/1hrrlLfySKB6NgmMTcIBhL) | 2:32 | 2024-03-22 | 2025-02-08 |
@@ -606,6 +609,7 @@
 | [qué bueno!](https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [qué bueno!](https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7) | 2:37 | 2023-07-06 | 2023-08-05 |
 | [Qué Jodido](https://open.spotify.com/track/5ILOjHzlwbtGC2mfxh7nHn) | [Giorgio Siladi](https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj) | [Qué Jodido](https://open.spotify.com/album/3LXfwJbgciZfXUMOLiTpTs) | 4:06 | 2022-02-11 | 2022-03-26 |
 | [Qué Maldición](https://open.spotify.com/track/4DNnkNigVl4Dc5Ja4BvKH9) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Qué Maldición](https://open.spotify.com/album/34b6Qme3ZOs6jrgx0BWV3O) | 3:09 | 2022-02-25 | 2023-01-11 |
+| [qué raro es ser normal](https://open.spotify.com/track/0SJastxx9FyW6Kbp1RLQaK) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [qué raro es ser normal](https://open.spotify.com/album/0XqsyT0z2gEtn6kXJvI2Kk) | 2:25 | 2026-02-27 |  |
 | [Qué Triste](https://open.spotify.com/track/4MksjsLZCGH3pqXJ9UZBuP) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Qué Triste](https://open.spotify.com/album/04iZ3otyiB4BKNW9wmQ7pi) | 2:54 | 2023-02-17 | 2023-06-03 |
 | [qué voy a hacer conmigo???](https://open.spotify.com/track/6SXIsiIfGdhs2zOr4Tg9aS) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [qué voy a hacer conmigo???](https://open.spotify.com/album/2yfEIEiNip2zD2cO8kl1lg) | 2:45 | 2022-03-25 | 2023-01-11 |
 | [Quédame](https://open.spotify.com/track/6vLpthP41nttqYeyhyBFNx) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Quédame](https://open.spotify.com/album/2suU0mvs2EMYre0h28MZ14) | 2:49 | 2021-12-10 | 2022-02-26 |
@@ -686,6 +690,7 @@
 | [Soñando](https://open.spotify.com/track/1DNcloAj4rJc7v5kWcMLjQ) | [Alan Troy](https://open.spotify.com/artist/2AAtJ9SZMYanKsVF87wxGU) | [Soñando](https://open.spotify.com/album/7qAEhxiGcN1UrgwPtHRlvN) | 2:23 | 2025-05-16 | 2025-07-19 |
 | [SUBCONSCIENTE](https://open.spotify.com/track/4gSu8Zd82MehR4h8q0DAhH) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA, VOL\. 2](https://open.spotify.com/album/3TTRrj2mJcy3okuQi7OVSv) | 2:38 | 2022-11-25 | 2023-02-25 |
 | [Suena Tu Canto](https://open.spotify.com/track/6af3gkqJwZRgifUmWWNRTh) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Suena Tu Canto](https://open.spotify.com/album/3Go1r8uelLjlMgwAHcyokh) | 3:48 | 2022-06-24 | 2022-07-19 |
+| [Sueño](https://open.spotify.com/track/1WVg551B4ahuQzeV5vPnjY) | [Andie Gago](https://open.spotify.com/artist/2R5LEUDIhf0yxB5hQtXacJ) | [Ya No Soy Tan Cool \(Deluxe\)](https://open.spotify.com/album/6ysFEJKf8RALz59cyHGsEu) | 2:59 | 2026-02-27 |  |
 | [Sueño](https://open.spotify.com/track/6Ei43WF7g5ZOrtV5W52IIA) | [Bobui](https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse) | [Sueño](https://open.spotify.com/album/28odkuShEsUNTXuoC5psDo) | 3:55 | 2022-08-26 | 2023-03-11 |
 | [Sueños Rotos](https://open.spotify.com/track/66nJmbwRrvcRec2JvgWcNH) | [RAMSI](https://open.spotify.com/artist/2yrRZayfrT5J9U7GZ9AYfK), [niño viejo](https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9) | [Sueños Rotos](https://open.spotify.com/album/5sRhy8Zd3BIrXL5n2uHTRI) | 2:39 | 2025-07-11 | 2025-07-26 |
 | [SUFICIENTEPUNTOWAV](https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd) | [1UNAMORSUPREMO](https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP) | 4:00 | 2023-07-28 | 2024-03-23 |

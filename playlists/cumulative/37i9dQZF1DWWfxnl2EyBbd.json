@@ -934,7 +934,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 163628,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/0vWgUO8FjAaVNvddKmv0a9"
@@ -1550,7 +1550,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 101251,
       "name": "Blue Haze",
       "url": "https://open.spotify.com/track/2RWBFmndDrRQOcax4mfhvw"
@@ -3254,7 +3254,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 138669,
       "name": "Evening Letters",
       "url": "https://open.spotify.com/track/0LZ13UhgAnFD8JEwLzZFfk"
@@ -4874,7 +4874,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 147730,
       "name": "I'm Safe with You",
       "url": "https://open.spotify.com/track/2GlF8jXAeJXy30Fz7xnHTY"
@@ -6050,6 +6050,24 @@
       "duration_ms": 259587,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/2RabGFYvECBmNrp31WxPVu"
+    },
+    {
+      "album": {
+        "name": "Last light on 52nd street",
+        "url": "https://open.spotify.com/album/1ewztXs9EIdDaY5szpP2cS"
+      },
+      "artists": [
+        {
+          "name": "Art Beckett",
+          "url": "https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159600,
+      "name": "Last light on 52nd street",
+      "url": "https://open.spotify.com/track/2UIMFV8wrYW4QthT9oODXX"
     },
     {
       "album": {
@@ -10813,6 +10831,24 @@
     },
     {
       "album": {
+        "name": "Tender Is The Quiet",
+        "url": "https://open.spotify.com/album/4ARwOHjiYYEJs8QVA1dirh"
+      },
+      "artists": [
+        {
+          "name": "Aliz Uveges",
+          "url": "https://open.spotify.com/artist/5AtZWSF011oHJ6ebfhCJpp"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Tender Is The Quiet",
+      "url": "https://open.spotify.com/track/23h7USfFHcvcPOeFAOIeZi"
+    },
+    {
+      "album": {
         "name": "Tender Love",
         "url": "https://open.spotify.com/album/1yJMv0eQnnqlkXdtP4tc8w"
       },
@@ -11349,6 +11385,24 @@
     },
     {
       "album": {
+        "name": "The Night Forgot Our Names",
+        "url": "https://open.spotify.com/album/3flAwqL9DL2A1MpWb0UQo5"
+      },
+      "artists": [
+        {
+          "name": "Georg Harvester",
+          "url": "https://open.spotify.com/artist/2w9g3qs7EAeQFeRC91BaBs"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155466,
+      "name": "The Night Forgot Our Names",
+      "url": "https://open.spotify.com/track/5AVnesv0aPqtiub0UmMjNw"
+    },
+    {
+      "album": {
         "name": "The Time is Now",
         "url": "https://open.spotify.com/album/6rbxPC5MijiKjZo5C7VPtd"
       },
@@ -11462,6 +11516,24 @@
       "duration_ms": 376720,
       "name": "The Red Flower",
       "url": "https://open.spotify.com/track/7GnMqc1a6ihMtsxoORY8j6"
+    },
+    {
+      "album": {
+        "name": "The sound of waiting",
+        "url": "https://open.spotify.com/album/2RVsSBBdYZmzty5xVTu1hr"
+      },
+      "artists": [
+        {
+          "name": "Luca Armone",
+          "url": "https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157044,
+      "name": "The sound of waiting",
+      "url": "https://open.spotify.com/track/1ZuNV7S1kGPHu3nDHKIEDo"
     },
     {
       "album": {

@@ -1,8 +1,38 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Reggaeton hits from Omar Courtz, Easykid & Kali Uchis, Bad Bunny, Blessd and more. \ud83d\udd25\ud83c\udf51",
+  "description": "Reggaeton hits from Omar Courtz, FloyyMenor, Bad Bunny, Blessd and more. \ud83d\udd25\ud83c\udf51",
   "name": "Baila Reggaeton",
   "tracks": [
+    {
+      "album": {
+        "name": "POR SI MA\u00d1ANA NO ESTOY",
+        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231791,
+      "name": "$UELTA GATITA $UELTA",
+      "url": "https://open.spotify.com/track/01xWRzLhSgANX9CGgBzssk"
+    },
     {
       "album": {
         "name": "IND\u00d3MITA",
@@ -2676,7 +2706,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 221373,
       "name": "Comernos",
       "url": "https://open.spotify.com/track/29twJUQo66aqSd3lxoeswV"
@@ -5264,6 +5294,36 @@
       "duration_ms": 179495,
       "name": "FKN Movie",
       "url": "https://open.spotify.com/track/0t2Y8BKBhtHQTOW7nzyIc0"
+    },
+    {
+      "album": {
+        "name": "FLAITEERA",
+        "url": "https://open.spotify.com/album/4IuwTipm83UsyGlgQclqW8"
+      },
+      "artists": [
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "SINAKA",
+          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
+        },
+        {
+          "name": "Kennat",
+          "url": "https://open.spotify.com/artist/638YptdwVSImAVaR5aUagq"
+        },
+        {
+          "name": "Benja Valencia",
+          "url": "https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "FLAITEERA",
+      "url": "https://open.spotify.com/track/2mh6vP7zo6mDXXKLnpHLPt"
     },
     {
       "album": {
@@ -12624,7 +12684,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 209268,
       "name": "Santa Diabla - Remix",
       "url": "https://open.spotify.com/track/0U4hdB14qhelRqs2saikto"
@@ -14426,7 +14486,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 221224,
       "name": "TUCHAT",
       "url": "https://open.spotify.com/track/3bAAv8knmzFpYQsLFoK6de"
@@ -14856,6 +14916,24 @@
       "duration_ms": 200000,
       "name": "UNA NOTi",
       "url": "https://open.spotify.com/track/3siASmLFyTye8QbGkZQOlz"
+    },
+    {
+      "album": {
+        "name": "MAN IN BLACK",
+        "url": "https://open.spotify.com/album/6tSMLC7sCpo11PfrDJFCy3"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "UuUuuU",
+      "url": "https://open.spotify.com/track/2agO3LjMdwhgVrDt7bsBB6"
     },
     {
       "album": {

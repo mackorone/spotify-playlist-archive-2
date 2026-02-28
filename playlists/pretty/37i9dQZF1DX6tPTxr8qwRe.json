@@ -1,13 +1,61 @@
 {
-  "description": "sweet. sharp. unbothered - Earth to Eve on the cover",
-  "num_followers": 524040,
+  "description": "sweet. sharp. unbothered - L\u00d8L\u00d8 on the cover",
+  "num_followers": 524009,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGM3s1zoPPJWFpD5FhqO2pYY67NZ",
+  "snapshot_id": "AAAAAM6lpAR2vy0lA3KxFf4ZPcP+usYg",
   "tracks": [
+    {
+      "added_at": "2026-02-27 05:00:35",
+      "album": {
+        "name": "the punisher",
+        "url": "https://open.spotify.com/album/4lBwSddoFh5fy1T7uUCE5L"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 189107,
+      "name": "the punisher",
+      "url": "https://open.spotify.com/track/4YOpINlEvanckbfIAwsdkx"
+    },
+    {
+      "added_at": "2026-02-27 05:00:35",
+      "album": {
+        "name": "KISSING CONCRETE",
+        "url": "https://open.spotify.com/album/3gWbQloPE5DnaADqGHCyWN"
+      },
+      "artists": [
+        {
+          "name": "KANNER",
+          "url": "https://open.spotify.com/artist/6QNIXiyRL2CanldN3Qx7qh"
+        }
+      ],
+      "duration_ms": 137250,
+      "name": "BAD AT MATH",
+      "url": "https://open.spotify.com/track/01Sa5D6Odl5TCylRxMJTse"
+    },
+    {
+      "added_at": "2026-02-27 05:00:35",
+      "album": {
+        "name": "The Kill (From the Original Motion Picture \"Scream 7\")",
+        "url": "https://open.spotify.com/album/4jYpqLjsWQdhsCcs1hXyHe"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 149137,
+      "name": "The Kill (From the Original Motion Picture \"Scream 7\")",
+      "url": "https://open.spotify.com/track/29rXj5xHh7tGAA8H5Zqrxy"
+    },
     {
       "added_at": "2026-02-20 05:18:25",
       "album": {
@@ -23,6 +71,26 @@
       "duration_ms": 216900,
       "name": "First Generation Degenerate",
       "url": "https://open.spotify.com/track/0T1QNfwEZ8mQs8rfUHbwog"
+    },
+    {
+      "added_at": "2026-02-27 05:00:35",
+      "album": {
+        "name": "klepto (with Lexie Liu)",
+        "url": "https://open.spotify.com/album/7cKJIdIaR1THuqRTbzhEE0"
+      },
+      "artists": [
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        },
+        {
+          "name": "Lexie Liu",
+          "url": "https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX"
+        }
+      ],
+      "duration_ms": 152039,
+      "name": "klepto (with Lexie Liu)",
+      "url": "https://open.spotify.com/track/5rElubeagDSx1iaiMqq1jf"
     },
     {
       "added_at": "2026-02-20 05:36:26",
@@ -55,6 +123,22 @@
       "duration_ms": 196156,
       "name": "Who's That Calling?",
       "url": "https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk"
+    },
+    {
+      "added_at": "2026-02-27 05:00:35",
+      "album": {
+        "name": "Cupid Must've Been High",
+        "url": "https://open.spotify.com/album/72Diyo40WtMIgw7im5ZpqY"
+      },
+      "artists": [
+        {
+          "name": "Hannah Grae",
+          "url": "https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV"
+        }
+      ],
+      "duration_ms": 162115,
+      "name": "Cupid Must've Been High",
+      "url": "https://open.spotify.com/track/3hcdiLMlKuJPqcVNOp90Mi"
     },
     {
       "added_at": "2026-02-20 05:18:25",
@@ -477,22 +561,6 @@
       "url": "https://open.spotify.com/track/6rMO78nXjFtwI5s83OSqUb"
     },
     {
-      "added_at": "2025-12-19 05:00:39",
-      "album": {
-        "name": "Toy Soldier",
-        "url": "https://open.spotify.com/album/5Q6aPqXpmbRMJnIKiWgohG"
-      },
-      "artists": [
-        {
-          "name": "Earth to Eve",
-          "url": "https://open.spotify.com/artist/5VjqGrGYRn6vdmCxlLNsea"
-        }
-      ],
-      "duration_ms": 236731,
-      "name": "Toy Soldier",
-      "url": "https://open.spotify.com/track/70tTI0z1IDR7OqOQQZM9e3"
-    },
-    {
       "added_at": "2025-11-28 05:00:21",
       "album": {
         "name": "Claws",
@@ -611,22 +679,6 @@
     {
       "added_at": "2025-10-31 04:05:30",
       "album": {
-        "name": "SERiAL KiLLER",
-        "url": "https://open.spotify.com/album/0izQeMP2SyIqsD8vH3s3bi"
-      },
-      "artists": [
-        {
-          "name": "Ella Boh",
-          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
-        }
-      ],
-      "duration_ms": 172317,
-      "name": "SERiAL KiLLER",
-      "url": "https://open.spotify.com/track/5hAKpqv7L2bhzzQr4XDN6z"
-    },
-    {
-      "added_at": "2025-10-31 04:05:30",
-      "album": {
         "name": "Predator",
         "url": "https://open.spotify.com/album/41U6YwMaGP6wdtRTZptEaG"
       },
@@ -655,22 +707,6 @@
       "duration_ms": 168313,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/4OwxTsR3IPjFCX0sii5vtP"
-    },
-    {
-      "added_at": "2025-10-24 04:00:22",
-      "album": {
-        "name": "WHEN IT'S ALL HAPPENING",
-        "url": "https://open.spotify.com/album/3mlKuxtJkPzW4ijNL6BTbf"
-      },
-      "artists": [
-        {
-          "name": "KANNER",
-          "url": "https://open.spotify.com/artist/6QNIXiyRL2CanldN3Qx7qh"
-        }
-      ],
-      "duration_ms": 158863,
-      "name": "WHEN IT'S ALL HAPPENING",
-      "url": "https://open.spotify.com/track/5J5nNJuC002ukgXvjDseA6"
     },
     {
       "added_at": "2025-11-07 05:39:31",
@@ -743,22 +779,6 @@
       "duration_ms": 148000,
       "name": "ALICE - Red Queen Version",
       "url": "https://open.spotify.com/track/4yHwSwzHpsDSXf886P5Mlc"
-    },
-    {
-      "added_at": "2025-10-31 04:05:30",
-      "album": {
-        "name": "spiderwebs",
-        "url": "https://open.spotify.com/album/1fGjcMkLO4Yh7tNVaisrPh"
-      },
-      "artists": [
-        {
-          "name": "Sophie Powers",
-          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
-        }
-      ],
-      "duration_ms": 159446,
-      "name": "spiderwebs",
-      "url": "https://open.spotify.com/track/3zkguegMPvaPcmHaUzIeN2"
     },
     {
       "added_at": "2025-10-10 04:00:49",
@@ -891,22 +911,6 @@
       "duration_ms": 174981,
       "name": "2022",
       "url": "https://open.spotify.com/track/2bsMTraNEMpu6Z25bjWz2q"
-    },
-    {
-      "added_at": "2025-09-19 04:00:31",
-      "album": {
-        "name": "get better!",
-        "url": "https://open.spotify.com/album/44DDyYBv1WXPKfStRoCXPl"
-      },
-      "artists": [
-        {
-          "name": "Cloudy June",
-          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
-        }
-      ],
-      "duration_ms": 137781,
-      "name": "get better!",
-      "url": "https://open.spotify.com/track/2FElV26FnQwjsGzmkh4Dom"
     },
     {
       "added_at": "2025-09-19 04:00:31",

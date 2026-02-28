@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Kölsch
 
-[Spotify](https://open.spotify.com/user/spotify) - 739,600 likes - 90 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 739,781 likes - 90 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 7 | [Petrichor](https://open.spotify.com/track/0MCF34L70VGyQQ9psKXt7x) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Petrichor](https://open.spotify.com/album/5h5Xnb5HbhUWsJLHiRyJ5J) | 3:47 |
 | 8 | [Kontrol \- Edit](https://open.spotify.com/track/3pVBBUMYcLOwNVmfsrdUZm) | [Oliver Huntemann](https://open.spotify.com/artist/0NBGssQpgDczTsVEp4pCbR) | [Kontrol & Konfusion](https://open.spotify.com/album/4CLN9MnEibhP5Vnpy07sjp) | 4:27 |
 | 9 | [Brisa Do Mar](https://open.spotify.com/track/77cwX2PtCe6YAIefZGuk8D) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw) | [Brisa Do Mar](https://open.spotify.com/album/176U6DVvcrlsAncawTawbF) | 2:54 |
-| 10 | [Track 1](https://open.spotify.com/track/0jUCdtwFdn0sUsgvAFPeWf) | [Sascha Braemer](https://open.spotify.com/artist/3egW8Pgmbjm5vS4EPXZond) | [Under My Tongue](https://open.spotify.com/album/1kUHUHY61t0J4657LvZZ6n) | 0:00 |
+| 10 | [Under My Tongue](https://open.spotify.com/track/0jUCdtwFdn0sUsgvAFPeWf) | [Sascha Braemer](https://open.spotify.com/artist/3egW8Pgmbjm5vS4EPXZond) | [Under My Tongue](https://open.spotify.com/album/1kUHUHY61t0J4657LvZZ6n) | 6:27 |
 | 11 | [Labyrinth](https://open.spotify.com/track/6ena5iYyr6Qd7IzMA4PmC8) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R), [Fab Massimo](https://open.spotify.com/artist/6EDKZ3fyIzcualNVjPayM4) | [Labyrinth](https://open.spotify.com/album/7KPEpegWgmd31w0LKznvn3) | 4:00 |
 | 12 | [On My Mind](https://open.spotify.com/track/5yUzMWNucHXjfj7ZXc8kcN) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [LAUD](https://open.spotify.com/artist/04kVAoKNfyQrbp3XqhAkOB) | [On My Mind](https://open.spotify.com/album/2Em0nAZYESOGbYJFknlBAD) | 3:00 |
 | 13 | [Deleted Photo](https://open.spotify.com/track/5uWI98329R1s9gV0LTkhlE) | [Khainz](https://open.spotify.com/artist/71yD5VENn9Wy1IECnpYWvX) | [Getting Lost / Deleted Photo](https://open.spotify.com/album/69MN97ltUtZ0cyrPAAaE0u) | 3:20 |

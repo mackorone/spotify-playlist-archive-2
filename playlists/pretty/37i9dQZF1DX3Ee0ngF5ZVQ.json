@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Drake Milligan",
-  "num_followers": 403257,
+  "num_followers": 403248,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2026-01-09 05:00:37",
       "album": {
+        "name": "The Little Things",
+        "url": "https://open.spotify.com/album/62iaYGnhb2PL2kzngNGxjO"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 218480,
+      "name": "The Little Things",
+      "url": "https://open.spotify.com/track/0yfPThPvlNrnQaOoeoQMDl"
+    },
+    {
+      "added_at": "2026-01-09 05:00:37",
+      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/5fSCA9ESxtQPp2njYQlDBp"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 296875,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2z8n9qmI7YDfO2IA7dssja"
-    },
-    {
-      "added_at": "2026-01-09 05:00:37",
-      "album": {
-        "name": "The Little Things",
-        "url": "https://open.spotify.com/album/62iaYGnhb2PL2kzngNGxjO"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 218480,
-      "name": "The Little Things",
-      "url": "https://open.spotify.com/track/0yfPThPvlNrnQaOoeoQMDl"
     },
     {
       "added_at": "2026-01-09 05:00:37",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-01-09 05:00:37",
       "album": {
-        "name": "Outlaws and Mustangs",
-        "url": "https://open.spotify.com/album/0Arug5WNIfQYYlkrN2q6Rs"
-      },
-      "artists": [
-        {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
-        }
-      ],
-      "duration_ms": 240025,
-      "name": "Outlaws and Mustangs",
-      "url": "https://open.spotify.com/track/3NfiPeYsjdrsyO4kVIEdtr"
-    },
-    {
-      "added_at": "2026-01-09 05:00:37",
-      "album": {
         "name": "Three Drinks Behind",
         "url": "https://open.spotify.com/album/6BJw2pnVl1tV4xt4QAW82W"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 219026,
       "name": "Three Drinks Behind",
       "url": "https://open.spotify.com/track/2GW22U7NhyDSauwKcWyixN"
+    },
+    {
+      "added_at": "2026-01-09 05:00:37",
+      "album": {
+        "name": "Outlaws and Mustangs",
+        "url": "https://open.spotify.com/album/0Arug5WNIfQYYlkrN2q6Rs"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 240025,
+      "name": "Outlaws and Mustangs",
+      "url": "https://open.spotify.com/track/3NfiPeYsjdrsyO4kVIEdtr"
     },
     {
       "added_at": "2026-01-09 05:00:37",

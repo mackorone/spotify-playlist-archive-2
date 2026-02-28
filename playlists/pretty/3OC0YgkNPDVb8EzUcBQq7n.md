@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3OC0YgkNPDVb8EzUcBQq7n.md) - [plain]
 
 > Best of  the pop girl era!  Listen to all your favourite Gammy\- and BRIT  Awards nominated female artists here.
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 42,620 likes - 75 songs - 4 hr 7 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 42,620 likes - 76 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,13 +75,14 @@ pretty - [cumulative](/playlists/cumulative/3OC0YgkNPDVb8EzUcBQq7n.md) - [plain]
 | 65 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 |
 | 66 | [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 |
 | 67 | [Nothing Matters](https://open.spotify.com/track/5crY7axm3GejOxy5PsnnPk) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 3:02 |
-| 68 | [Echoes](https://open.spotify.com/track/1LXXQd8QKCS6jE7zIsHGo3) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Echoes](https://open.spotify.com/album/5OtGth79HOuvCHHXvbIyT5) | 2:42 |
-| 69 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 |
-| 70 | [Lose You To Love Me](https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:26 |
-| 71 | [Bad Girls](https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Matangi](https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR) | 3:47 |
-| 72 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 |
-| 73 | [Love Of My Life](https://open.spotify.com/track/0el0sWkgn2hViZJmYyJdK4) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Love Of My Life](https://open.spotify.com/album/5RSfA2mMGTU5ghYRsXtET1) | 3:36 |
-| 74 | [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 |
-| 75 | [Nobody’s Son](https://open.spotify.com/track/4SRShYMtFIGgnOU7iBicMH) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:02 |
+| 68 | [Unicorn](https://open.spotify.com/track/2vfhsZ9jm2ncXDV8MrFR7X) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Tales of a Failed Shapeshifter](https://open.spotify.com/album/2RL64278RxtHMgDH04qzex) | 2:28 |
+| 69 | [Echoes](https://open.spotify.com/track/1LXXQd8QKCS6jE7zIsHGo3) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Echoes](https://open.spotify.com/album/5OtGth79HOuvCHHXvbIyT5) | 2:42 |
+| 70 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 |
+| 71 | [Lose You To Love Me](https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:26 |
+| 72 | [Bad Girls](https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Matangi](https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR) | 3:47 |
+| 73 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 |
+| 74 | [Love Of My Life](https://open.spotify.com/track/0el0sWkgn2hViZJmYyJdK4) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Love Of My Life](https://open.spotify.com/album/5RSfA2mMGTU5ghYRsXtET1) | 3:36 |
+| 75 | [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 |
+| 76 | [Nobody’s Son](https://open.spotify.com/track/4SRShYMtFIGgnOU7iBicMH) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:02 |
 
-Snapshot ID: `AAARsOucrY+cDZ4nNlCTfEWLv5SnFgO1`
+Snapshot ID: `AAARscKEbfDn+5eNhYXvZWjYmYTW/ECw`

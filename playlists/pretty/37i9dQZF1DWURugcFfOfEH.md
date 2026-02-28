@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURugcFfOfEH.md) - [plain]
 
 > good vibes, all day every day
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,277 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,347 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURugcFfOfEH.md) - [plain]
 | 24 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
 | 25 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 |
 | 26 | [Phone Numbers](https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Phone Numbers](https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT) | 2:26 |
-| 27 | [Life Will Be](https://open.spotify.com/track/4ZTC6KvnQxloiwmT0Yhypy) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 3:18 |
+| 27 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 |
 | 28 | [Sunflower, Vol\. 6](https://open.spotify.com/track/6iYMfxznTBlcVOgRHab2W0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:41 |
-| 29 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 |
+| 29 | [Life Will Be](https://open.spotify.com/track/4ZTC6KvnQxloiwmT0Yhypy) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 3:18 |
 | 30 | [Stars](https://open.spotify.com/track/0ZzHRRPxUmNVr4vWNnlDAe) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:21 |
 | 31 | [Mona Lisa](https://open.spotify.com/track/71DSaeKtXQaMAqnvMT7Uoc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 3:06 |
 | 32 | [More Than A Woman \- SG's Paradise Edit](https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [More Than A Woman \(SG's Paradise Edit\)](https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96) | 5:57 |
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURugcFfOfEH.md) - [plain]
 | 67 | [Blackpool Boulevard \- Edit](https://open.spotify.com/track/603pPHCZn9Ng9K9woYdWEd) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8), [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Blackpool Boulevard](https://open.spotify.com/album/3jc8IkDpZ1bGZCNCZOyT3R) | 3:35 |
 | 68 | [Yesterday](https://open.spotify.com/track/0pRyOQjr12h9RBEFmhbTQc) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Yesterday](https://open.spotify.com/album/2VZolgD2RKzb5F4gSNkx1Y) | 2:48 |
 | 69 | [Back To My Bed](https://open.spotify.com/track/6uAyxTPrzZi8Pi3olGNJFj) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Why Do We Shake In The Cold?](https://open.spotify.com/album/5DmT0aBDQe90fxAiP3pDwO) | 3:22 |
-| 70 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/5789JwERVglbf574Olz2Bi) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:35 |
+| 70 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 |
 | 71 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 |
-| 72 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 |
+| 72 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/5789JwERVglbf574Olz2Bi) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:35 |
 | 73 | [Leave It On The Dancefloor](https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Leave It On The Dancefloor](https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o) | 2:55 |
 | 74 | [Last 100](https://open.spotify.com/track/39WFZVKifA8Fl2TZI2kp0S) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music](https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI) | 4:00 |
 | 75 | [Relationships](https://open.spotify.com/track/46s4mYaQ5YVmwxvDa0oYC3) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6) | 3:22 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURugcFfOfEH.md) - [plain]
 | 96 | [Sunday Morning](https://open.spotify.com/track/0CxVnKu6PG6tYTGVtSD8UU) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Phases EP](https://open.spotify.com/album/67yZd1xUTES5qFQT9XNwZG) | 3:20 |
 | 97 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 |
 | 98 | [peanut butter](https://open.spotify.com/track/4K9Jh6jnw0P4FZUwrG6Keb) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [see you later maybe never \(demos\)](https://open.spotify.com/album/2iumrsHblYqxcEyDNvnJg3) | 2:40 |
-| 99 | [Come Around and Love Me](https://open.spotify.com/track/6lB0AAe5f8msn8vqUNkVsN) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around And Love Me](https://open.spotify.com/album/7Fy0ZdCb6q5RC0J6y0PN8t) | 3:04 |
-| 100 | [God Talks Back](https://open.spotify.com/track/6upguv1cl65uzFbKxvruFI) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [God Talks Back](https://open.spotify.com/album/1OdVoqvuL37xqJB36iOaxN) | 2:52 |
+| 99 | [God Talks Back](https://open.spotify.com/track/6upguv1cl65uzFbKxvruFI) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [God Talks Back](https://open.spotify.com/album/1OdVoqvuL37xqJB36iOaxN) | 2:52 |
+| 100 | [Come Around and Love Me](https://open.spotify.com/track/6lB0AAe5f8msn8vqUNkVsN) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around And Love Me](https://open.spotify.com/album/7Fy0ZdCb6q5RC0J6y0PN8t) | 3:04 |
 
 Snapshot ID: `AAAAAAfwSsvoILyu265sAsPjV9nRceSo`

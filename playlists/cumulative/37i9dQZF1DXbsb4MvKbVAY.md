@@ -4,7 +4,7 @@
 
 > Mielenkiintoisimmat biisit ensisoitossa\. Kannessa PinkPantheress ja Zara Larsson.
 
-1,909 songs - 4 day 0 hr 3 min
+1,910 songs - 4 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -491,6 +491,7 @@
 | [Girls Like You](https://open.spotify.com/track/6RO6Qx1tiKfz7DM64r0e80) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Crazy Woman](https://open.spotify.com/album/5Z22p0gxm4C7o7wZRJ2QTy) | 2:45 | 2024-10-31 | 2024-11-08 |
 | [Glas](https://open.spotify.com/track/13IqDjxqFl763yUcTg2ycX) | [MISS MOLLY](https://open.spotify.com/artist/5evNbllFW2cG5We5y71zfA) | [Glas](https://open.spotify.com/album/2SgPhxnfejHUbW9FjBrb7U) | 2:52 | 2025-04-24 | 2025-05-02 |
 | [Glorious](https://open.spotify.com/track/554a5PHFwHbVQStkYrOfNg) | [Tuomo](https://open.spotify.com/artist/3cZ3iH61r1E6iuupRwaGRL), [Recluse Crew](https://open.spotify.com/artist/7GLGHSOJtjPnVuGpg3miew), [Dankery Harv](https://open.spotify.com/artist/7fZwhtdfujL85u7I6MQ59e) | [Glorious](https://open.spotify.com/album/0CMvgUwfX9zdiCjlyKtku7) | 4:25 | 2025-11-21 | 2026-02-27 |
+| [GO](https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 3:15 | 2026-02-26 |  |
 | [Go](https://open.spotify.com/track/5Q7EUcrAw2p3SHUob9gR3X) | [Evil Needle](https://open.spotify.com/artist/37nE9g0LRDhDSIejDuPKPS), [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [BeMyFiasco](https://open.spotify.com/artist/2WDSk4ZbwCw2E99XV6gkRk) | [Go](https://open.spotify.com/album/1lA3DRPunwGlfgV0wveVT6) | 3:16 | 2025-07-03 | 2025-07-11 |
 | [go to hell](https://open.spotify.com/track/7kPslfcxPGGd5a2i2F1T8r) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [go to hell](https://open.spotify.com/album/3rK7UbpPl0baqan7EwLSnH) | 3:27 | 2025-10-02 | 2025-10-10 |
 | [GOD \(with Sid Sriram\)](https://open.spotify.com/track/0evhnYBqAagPGFM8KJHNeO) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [GOD/MARRIAGE](https://open.spotify.com/album/3r02puVKfFDTkZgkDjdO04) | 2:11 | 2025-04-17 | 2025-04-25 |

@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Vera Blue
 
-2,540 songs - 5 day 11 hr 12 min
+2,542 songs - 5 day 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -839,6 +839,7 @@
 | [glhf<3](https://open.spotify.com/track/55SQgo2TTd0cjiWGzY2Q9A) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [glhf<3](https://open.spotify.com/album/1JzWf2Fd4ZhFeWsEFUkClh) | 2:56 | 2024-08-01 | 2024-08-30 |
 | [Glide](https://open.spotify.com/track/7e2polOF7Yjrs3eGiexCVW) | [ALZZY](https://open.spotify.com/artist/7AO0PhHfvJgyp71cMqusc7) | [Glide](https://open.spotify.com/album/1exJ4zN191WcU3Ok2OeOOT) | 2:38 | 2025-06-26 | 2025-08-22 |
 | [GLOW\. \(Blusher Remix\)](https://open.spotify.com/track/2EHLYHcY5n1VetFu2Te0Mv) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [GLOW\. \(Blusher Remix\)](https://open.spotify.com/album/2r2imdB1FzSZzzsOHfyyna) | 2:05 | 2026-01-15 | 2026-02-27 |
+| [GO](https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 3:15 | 2026-02-27 |  |
 | [GO](https://open.spotify.com/track/5LuMzEBhXsbQpsy6vNKbYQ) | [YAHYAH](https://open.spotify.com/artist/0ggYTxkFUAl6DmRMBpxM6w) | [GO](https://open.spotify.com/album/6Z8kJRbiWBPx4rsVcznL11) | 3:08 | 2023-06-15 | 2023-06-23 |
 | [Go Lucky](https://open.spotify.com/track/6s94B0nViQoesInRpQvX9T) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Go Lucky](https://open.spotify.com/album/3sJPaCElnRIgKs5JTuyxcZ) | 3:36 | 2026-02-26 |  |
 | [god complex](https://open.spotify.com/track/49aZox2OKhWCsmorRsCF3D) | [Ūla](https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8) | [god complex](https://open.spotify.com/album/0xLDiRQyvRM2Jh18sWTG5Z) | 3:08 | 2023-07-13 | 2023-09-15 |
@@ -1791,7 +1792,8 @@
 | [Right Now](https://open.spotify.com/track/1wd8ettR3DSlLl6rNVL4v7) | [Cammy](https://open.spotify.com/artist/0KQVXEyDcfDuA9RzSm91fd) | [Right Now](https://open.spotify.com/album/6h7di1wF33ndp8e8vglGtr) | 2:20 | 2024-11-28 | 2025-02-14 |
 | [Rinse & Repeat](https://open.spotify.com/track/3tRKHCjHvLEo5xdfnuRa0Q) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Rinse & Repeat / See Ya Later](https://open.spotify.com/album/3V0D354PkeylO9fMGy5f37) | 2:32 | 2024-11-21 | 2025-02-14 |
 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 | 2024-05-02 | 2024-06-21 |
-| [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 | 2026-02-26 |  |
+| [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 | 2026-02-26 | 2026-02-28 |
+| [Risk It All](https://open.spotify.com/track/6skX6In6VpLzev9epAUnpp) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/5z7kqc5UFmtNfZb2Rw7zHy) | 3:24 | 2026-02-27 |  |
 | [Risky](https://open.spotify.com/track/2m6impWnt3BTPW5hUpXDGD) | [Isabel Wood](https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO) | [Risky](https://open.spotify.com/album/1PPHXJ5LxH3wdPAuOpkODv) | 3:06 | 2023-09-14 | 2023-10-20 |
 | [Rivers on Rivers](https://open.spotify.com/track/56mTYVQpSMvBsgN6BGjaYW) | [Ilan Kidron](https://open.spotify.com/artist/2h4XAkDeP79wkwWE4eXzTT) | [Rivers on Rivers](https://open.spotify.com/album/2FFpu3pfDtYBsHVv4LtPgn) | 3:05 | 2025-10-23 | 2025-11-28 |
 | [rock hudson](https://open.spotify.com/track/45hEUx8ywENLrB13nEfntt) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry](https://open.spotify.com/album/5c56JYNgc48iDnwHHlOcye) | 3:22 | 2023-06-22 | 2023-07-21 |

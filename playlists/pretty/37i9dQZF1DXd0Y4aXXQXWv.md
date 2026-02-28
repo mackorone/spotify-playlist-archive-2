@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 
 > Les plus grands tubes de variété française d'hier et d'aujourd'hui\. Photo : Jean\-Jacques Goldman
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,602 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,637 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 | 45 | [Face à la mer](https://open.spotify.com/track/4nz1v2ghmGRo3RTZKxaC3P) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4), [Passi](https://open.spotify.com/artist/41o2A93SPxIUxsy5HQjvul) | [Calog3ro](https://open.spotify.com/album/1TfzspRmvBkDuIPZEG4ZdF) | 3:43 |
 | 46 | [Je T’aime](https://open.spotify.com/track/28mwuJqKOjRpqo14GuKSkj) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Pure](https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm) | 4:21 |
 | 47 | [Un jour je marierai un ange](https://open.spotify.com/track/5klPZRehMLpiKUchPAzKyR) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Regarde\-moi](https://open.spotify.com/album/0yHJkjaOVLRH5VZajnYHr9) | 2:44 |
-| 48 | [Mauvais Garçon](https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Mauvais Garçon](https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q) | 2:42 |
-| 49 | [Mais je t'aime](https://open.spotify.com/track/17NQyo1HsqDX7mbzsTWMuX) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM), [Camille Lellouche](https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q) | [MESDAMES deluxe](https://open.spotify.com/album/6lZU65hX50fImkVKlSUdLh) | 4:30 |
+| 48 | [Mais je t'aime](https://open.spotify.com/track/17NQyo1HsqDX7mbzsTWMuX) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM), [Camille Lellouche](https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q) | [MESDAMES deluxe](https://open.spotify.com/album/6lZU65hX50fImkVKlSUdLh) | 4:30 |
+| 49 | [Mauvais Garçon](https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Mauvais Garçon](https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q) | 2:42 |
 | 50 | [Aïcha \- Version Mixte](https://open.spotify.com/track/0cYX51Hneb8qIOx0tHm7ng) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [Sahra](https://open.spotify.com/album/2Ul6M5sIJdZjKVxwgDG7dC) | 4:19 |
 
 Snapshot ID: `AAAAABwdXNbGeqUwl82uRzTVoc0fYZKS`

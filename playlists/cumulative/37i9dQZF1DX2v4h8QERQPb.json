@@ -1381,6 +1381,32 @@
     },
     {
       "album": {
+        "name": "Calle y Desamor",
+        "url": "https://open.spotify.com/album/52woEXqC7bdlK1Bsd9A7Gg"
+      },
+      "artists": [
+        {
+          "name": "Mir Nicolas",
+          "url": "https://open.spotify.com/artist/0wTR1DXxJ3Ok60O4K4U9WT"
+        },
+        {
+          "name": "Malandro",
+          "url": "https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL"
+        },
+        {
+          "name": "Zulu",
+          "url": "https://open.spotify.com/artist/0aT0K8DtL2hT5QOpL5VPiH"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Calle y Desamor",
+      "url": "https://open.spotify.com/track/3L0GdRkYgdzOjyltnjuW0Z"
+    },
+    {
+      "album": {
         "name": "Cal\u00edope",
         "url": "https://open.spotify.com/album/0KqRhL817hMvB3KyKaPRs8"
       },
@@ -3654,7 +3680,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 157553,
       "name": "FUCK EL POLICE",
       "url": "https://open.spotify.com/track/1iEv1uCSDTN7YotFX4iHB9"
@@ -6879,6 +6905,32 @@
     },
     {
       "album": {
+        "name": "Por Amor",
+        "url": "https://open.spotify.com/album/4W2aM6h62K2RDDp8mPY9wB"
+      },
+      "artists": [
+        {
+          "name": "Tekauno",
+          "url": "https://open.spotify.com/artist/5crnDnceHvzjnZ58SvQ1eB"
+        },
+        {
+          "name": "ARA",
+          "url": "https://open.spotify.com/artist/3e7RQVUk78GpHhRiBWULff"
+        },
+        {
+          "name": "AiDK",
+          "url": "https://open.spotify.com/artist/5a2VtP5DFyFEwG8R87MOKR"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182666,
+      "name": "Por amor",
+      "url": "https://open.spotify.com/track/2yfqLDPU0XmlESgdBq2UAG"
+    },
+    {
+      "album": {
         "name": "Por clave El Cabez\u00f3n",
         "url": "https://open.spotify.com/album/5L7s5VhbCUFH3N9j88JBVD"
       },
@@ -7580,7 +7632,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 135272,
       "name": "Sala Llena",
       "url": "https://open.spotify.com/track/0r09pvHj9RWzEfAkClrb4D"

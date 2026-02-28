@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/25eAhcwuxdBgOJmzbuttR0.md) - [plain]
 
 > I&\#x27;M ANGSTY!! I&\#x27;M ANGSTY
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 7 likes - 416 songs - 1 day 4 hr 30 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 7 likes - 417 songs - 1 day 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -424,5 +424,6 @@ pretty - [cumulative](/playlists/cumulative/25eAhcwuxdBgOJmzbuttR0.md) - [plain]
 | 414 | [Stairs](https://open.spotify.com/track/0l3kMJXLcw4yaSOIU39Sq6) | [Design19](https://open.spotify.com/artist/3U09lzgkM9iGAHE1ESbRO8) | [Trigger](https://open.spotify.com/album/7o5z9uEOAZkfZJAV26Lv1j) | 3:56 |
 | 415 | [Blue Monday](https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE) | [Orgy](https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0) | [Candyass](https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A) | 4:27 |
 | 416 | [Revolt](https://open.spotify.com/track/5lUK1RAl9eVGxIgyAxWrEK) | [Wild Fire](https://open.spotify.com/artist/1w7LG2iZbPYsrPwINoRV3E) | [Revolt](https://open.spotify.com/album/06kio3GTv2iQAsZq68MC4x) | 4:56 |
+| 417 | [If I Leave](https://open.spotify.com/track/4eMXMUkWS4aChMfA1UO4YJ) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Nothing's About to Happen to Me](https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu) | 3:00 |
 
-Snapshot ID: `AAABtCCXf6S/xMFkn1BGntnOlrkYywkS`
+Snapshot ID: `AAABtXkFkYADKfC/+oX//tGhHw2Utmjq`

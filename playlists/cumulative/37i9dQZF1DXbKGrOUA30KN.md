@@ -4,7 +4,7 @@
 
 > Deutschpop, der jetzt passiert\. Cover: Mark Forster
 
-336 songs - 15 hr 10 min
+336 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Leise](https://open.spotify.com/track/74b7U40UyovtnZPAzIuWLr) | [Josh.](https://open.spotify.com/artist/1nngQyj8LCicyLKclbWTmU) | [Leise](https://open.spotify.com/album/671Sx2mRv2PATZ64qxvaQW) | 3:30 | 2025-11-27 | 2026-01-16 |
 | [Letzte Liebe](https://open.spotify.com/track/5xYVJdt0IxIqcVy8Lx4C2o) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Letzte Liebe](https://open.spotify.com/album/0QXuNVZSPyLRCF9LK5pPBQ) | 2:38 | 2026-01-08 | 2026-01-23 |
 | [LETZTER TAG](https://open.spotify.com/track/7l9qt1sUAbqSXXlAMlkrFs) | [FAYAN](https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF), [Dalton](https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk) | [LETZTER TAG](https://open.spotify.com/album/0yK0orUAzJF2C06LDJPb3I) | 2:14 | 2025-11-06 | 2026-01-02 |
+| [Liebe auf den letzten Blick](https://open.spotify.com/track/0bDS2pqRkirPh3EkuospR5) | [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW) | [Deja Vu 1/2](https://open.spotify.com/album/2IT793UDPbkvmG7iDAAjmO) | 3:05 | 2026-02-26 |  |
 | [Liebling](https://open.spotify.com/track/4jTkTLwpQ7UFoMxgp153ST) | [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [Liebling](https://open.spotify.com/album/67GN9IEJ6s6fEsrQCkLmbe) | 2:01 | 2025-10-24 | 2025-10-31 |
 | [lieblingslied](https://open.spotify.com/track/0MCgv85fHMQd1bnJObN13K) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [lieblingslied](https://open.spotify.com/album/6V2hiM28I7nIxse5Fvz5Qp) | 2:26 | 2025-11-13 | 2026-01-30 |
 | [Lieblingsmensch](https://open.spotify.com/track/0T4LGniLFM0NtRKq7XIDzg) | [JONA](https://open.spotify.com/artist/64x9nivyNE39JfmRiz2eM6) | [Lieblingsmensch](https://open.spotify.com/album/3bEfufNFL5cRO2AnjWdD1F) | 2:24 | 2025-12-04 | 2026-01-16 |
@@ -246,6 +247,7 @@
 | [Peter Pan](https://open.spotify.com/track/0FgKVO56B6jXqZ1qCQEcTy) | [NIEMALS](https://open.spotify.com/artist/1yY1FbNGJVyaTQQ62PYv9y) | [Peter Pan](https://open.spotify.com/album/5w7zO3LXptH8ZzEGY2MLpS) | 2:27 | 2026-02-19 |  |
 | [peu à peu](https://open.spotify.com/track/4SchPSB8Tu7WDWm2QsfR4f) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [peu à peu](https://open.spotify.com/album/6FOo0U0w6SkBdVZuopQLGm) | 2:55 | 2025-10-24 | 2025-11-07 |
 | [Phase](https://open.spotify.com/track/24qTQJ9XsTUkr6XZuRmnf2) | [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [Phase](https://open.spotify.com/album/10tnzSKRUtM0Lpr5U0IsQe) | 2:34 | 2026-01-15 | 2026-02-13 |
+| [Phasen](https://open.spotify.com/track/4xFkvzIIubUMKVqJ32w2vA) | [TONI](https://open.spotify.com/artist/0ZQGbwqD6c0iFu34y0tGsY) | [Phasen](https://open.spotify.com/album/3JUy8ErClqdCaBl5hB7epG) | 2:43 | 2026-02-26 |  |
 | [PING\-PONG](https://open.spotify.com/track/3iya1trOXIoDbKCOL3LuXO) | [Gregor Hägele](https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt) | [PING\-PONG](https://open.spotify.com/album/5cqCqMwELqpUqfgZMS9ewE) | 2:24 | 2026-02-26 |  |
 | [Pinienbäume](https://open.spotify.com/track/4eBzQbMeVBvPoG5PHx5CGF) | [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1) | [Pinienbäume](https://open.spotify.com/album/4eppomUlCQDiUPQVsCPcS4) | 3:23 | 2025-10-24 | 2025-12-05 |
 | [Plan B](https://open.spotify.com/track/1MyJkp1ZBCSYQHp1GVjwSC) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Plan B](https://open.spotify.com/album/0QqPpp5cV3ZVcybwGmQrEQ) | 2:49 | 2026-02-26 |  |
@@ -281,8 +283,6 @@
 | [tempo](https://open.spotify.com/track/7w2QhLdDSUK4T140YEIGEw) | [ELEHA](https://open.spotify.com/artist/56mSZjn1q0tcYyC1N2c7TT) | [tempo](https://open.spotify.com/album/4qBF8JWfH4beWAun8VKdcl) | 2:24 | 2026-01-15 | 2026-02-27 |
 | [Ti amo, Italiano!](https://open.spotify.com/track/5NWiaNjrJl0l3R89nOo4Vd) | [Sportfreunde Stiller](https://open.spotify.com/artist/5PwcOudItUhq3ciF9QwaXZ) | [Ti amo, Italiano!](https://open.spotify.com/album/6HlDFrz02QPE0vqlaFAUzn) | 3:21 | 2026-01-08 | 2026-01-30 |
 | [Tot](https://open.spotify.com/track/73ZDBpbxuy8CP45FKLrhPd) | [LYZA](https://open.spotify.com/artist/1GkuVWjCoLLzR2KwEp0zB4) | [Tot](https://open.spotify.com/album/1RJcxdAywbdvIpIvFFpySv) | 2:34 | 2026-01-29 |  |
-| [Track 10](https://open.spotify.com/track/4xFkvzIIubUMKVqJ32w2vA) | [TONI](https://open.spotify.com/artist/0ZQGbwqD6c0iFu34y0tGsY) | [Phasen](https://open.spotify.com/album/3JUy8ErClqdCaBl5hB7epG) | 0:00 | 2026-02-26 |  |
-| [Track 2](https://open.spotify.com/track/0bDS2pqRkirPh3EkuospR5) | [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW) | [Deja Vu 1/2](https://open.spotify.com/album/2IT793UDPbkvmG7iDAAjmO) | 0:00 | 2026-02-26 |  |
 | [Traumfrau](https://open.spotify.com/track/2BKYVK54OCkOJW1FFP1gej) | [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [Traumfrau](https://open.spotify.com/album/4eDGUfOsDno1JYQ7lOzoj9) | 2:10 | 2026-02-26 |  |
 | [Trust Issues](https://open.spotify.com/track/2OaqsMStA93iZPddnZuSHQ) | [ROTE MÜTZE RAPHI](https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L) | [Trust Issues](https://open.spotify.com/album/2yODdsTI20zYnM7QAHT7bh) | 2:36 | 2025-11-20 | 2025-12-12 |
 | [Träum weiter](https://open.spotify.com/track/0BZym7oJYCUx2782HG6VDF) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v), [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [Träum weiter](https://open.spotify.com/album/3cmL72jU4x8R1CU2jqtIpe) | 2:15 | 2025-10-24 | 2026-01-15 |

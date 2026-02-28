@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Alternative indie music etc. Cover: Sam Austins",
+  "description": "Alternative indie music etc. Cover: Daniel Caesar",
   "name": "anti pop",
   "tracks": [
     {
@@ -480,6 +480,24 @@
       "duration_ms": 204760,
       "name": "608",
       "url": "https://open.spotify.com/track/5b5bij5caee3a88pIXz5VK"
+    },
+    {
+      "album": {
+        "name": "Suite 96: Late Checkout",
+        "url": "https://open.spotify.com/album/55azbI7LCJsN2BwURS7RdB"
+      },
+      "artists": [
+        {
+          "name": "80purppp",
+          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124458,
+      "name": "6YRS",
+      "url": "https://open.spotify.com/track/58jQYefzDe8XR3MSfC7nT7"
     },
     {
       "album": {
@@ -2207,6 +2225,24 @@
     },
     {
       "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "album": {
         "name": "Avian",
         "url": "https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY"
       },
@@ -2816,7 +2852,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 195937,
       "name": "Be Your Man",
       "url": "https://open.spotify.com/track/5wrocsEO4DI9x7MJbfbgjJ"
@@ -5899,6 +5935,24 @@
     },
     {
       "album": {
+        "name": "KABEAUSH\u00c9 PRESENTS: IGGY SWAGGERING UNGRATEFUL INCESSANT LITTLE PEEEAAAAAAAA",
+        "url": "https://open.spotify.com/album/4mrIx6WYjqM6dl9R4poIfQ"
+      },
+      "artists": [
+        {
+          "name": "KABEAUSH\u00c9",
+          "url": "https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198616,
+      "name": "CLAMS ARE JUST SHELLS",
+      "url": "https://open.spotify.com/track/3aufXmyK5eWknYNFFQ3fjl"
+    },
+    {
+      "album": {
         "name": "[redacted]",
         "url": "https://open.spotify.com/album/25TYH4rc3INhrbHtmAxo9q"
       },
@@ -6000,7 +6054,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 260786,
       "name": "CLOCKS - GRAMMY REIMAGINED",
       "url": "https://open.spotify.com/track/23ztnd6UDo8stoOgogYpI1"
@@ -6408,7 +6462,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 213333,
       "name": "Compass",
       "url": "https://open.spotify.com/track/5RnyAdH7QhWnCCr95o4Mln"
@@ -7780,7 +7834,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 140024,
       "name": "Didn't Have To",
       "url": "https://open.spotify.com/track/5t2FrzAyXGGZGq8I1UacCu"
@@ -9276,6 +9330,24 @@
       "duration_ms": 129000,
       "name": "ETA2 (feat. Paris Texas)",
       "url": "https://open.spotify.com/track/6ceM12zLnXEBQ7JrF3rprq"
+    },
+    {
+      "album": {
+        "name": "EUREKA!",
+        "url": "https://open.spotify.com/album/0PJb9q4AfzmydNCE0QbJP9"
+      },
+      "artists": [
+        {
+          "name": "K-OS",
+          "url": "https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220396,
+      "name": "EUREKA!",
+      "url": "https://open.spotify.com/track/3s1woZPhQuwvjVaI4vM6ud"
     },
     {
       "album": {
@@ -19760,7 +19832,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 126680,
       "name": "MISS ME?",
       "url": "https://open.spotify.com/track/19T5c0CENOO6K32TJTUg7r"
@@ -20076,7 +20148,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 192492,
       "name": "Mr. Miracle",
       "url": "https://open.spotify.com/track/0c3l6nw0FC2UfhzJPpEOMK"
@@ -25638,7 +25710,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 232498,
       "name": "R\u00f6kKOut",
       "url": "https://open.spotify.com/track/4zfgnW5p7C2QAFauTn09Mh"
@@ -25936,7 +26008,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 188318,
       "name": "Santiladang",
       "url": "https://open.spotify.com/track/3t9EQIUArq9TSG10hUfRfb"
@@ -26048,7 +26120,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 97784,
       "name": "SAY MY NAME",
       "url": "https://open.spotify.com/track/6T52Nwzdn3YkPefljuLfs2"
@@ -26284,6 +26356,28 @@
       "duration_ms": 157664,
       "name": "secret road",
       "url": "https://open.spotify.com/track/3Ert93xdqjdLfN1ZOEvwUX"
+    },
+    {
+      "album": {
+        "name": "Self Sabotage",
+        "url": "https://open.spotify.com/album/5xGMfD4HeoMkhe4OoCkJP1"
+      },
+      "artists": [
+        {
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+        },
+        {
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Self Sabotage",
+      "url": "https://open.spotify.com/track/21NdaVgRO8S8mdzfeLdLAk"
     },
     {
       "album": {
@@ -27569,6 +27663,24 @@
     },
     {
       "album": {
+        "name": "Smugglers & Scholars",
+        "url": "https://open.spotify.com/album/2lr21LF1qXkcXsO5RD359Z"
+      },
+      "artists": [
+        {
+          "name": "KNEECAP",
+          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191880,
+      "name": "Smugglers & Scholars",
+      "url": "https://open.spotify.com/track/0cQjawSUdvCmCjJDeqPkt1"
+    },
+    {
+      "album": {
         "name": "SNAKE EYES",
         "url": "https://open.spotify.com/album/3S6MFjq2tvxbK8pWhQBnvQ"
       },
@@ -27598,7 +27710,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 173365,
       "name": "Snakes & Ladders",
       "url": "https://open.spotify.com/track/4Rg6MTZzS7LdCdHhO1oGFP"
@@ -28100,7 +28212,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 227434,
       "name": "Southern Sky",
       "url": "https://open.spotify.com/track/7pTsZpxCcRdX4HP63AvsUT"
@@ -29478,7 +29590,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 193170,
       "name": "supertight",
       "url": "https://open.spotify.com/track/2Siwe4138BLRthWPHhXNKq"
@@ -31627,6 +31739,24 @@
     },
     {
       "album": {
+        "name": "TIRED",
+        "url": "https://open.spotify.com/album/7Gkfk4oxSOgA8Tvt9Pf7XN"
+      },
+      "artists": [
+        {
+          "name": "Passion Mango",
+          "url": "https://open.spotify.com/artist/1duhcJbPuZ66kIsntXd9zn"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95833,
+      "name": "TIRED",
+      "url": "https://open.spotify.com/track/1iQqrQtPfZ9fGe6vLD6hnF"
+    },
+    {
+      "album": {
         "name": "tm06 toxic",
         "url": "https://open.spotify.com/album/68eb6W0PT8nOUqQOXQHNJS"
       },
@@ -33544,7 +33674,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 260488,
       "name": "WANDERER",
       "url": "https://open.spotify.com/track/44tPUwjtdkisODujAAp6hs"
@@ -34032,7 +34162,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 168938,
       "name": "When Will This Body Be Mine?",
       "url": "https://open.spotify.com/track/2B4m7QOMcFcRrurISKhs6W"
@@ -34174,6 +34304,24 @@
       "duration_ms": 257147,
       "name": "Who Knows",
       "url": "https://open.spotify.com/track/5HZu1toEKuPx2Tuv6ABwdG"
+    },
+    {
+      "album": {
+        "name": "Son Of Spergy",
+        "url": "https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226283,
+      "name": "Who Knows",
+      "url": "https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48"
     },
     {
       "album": {

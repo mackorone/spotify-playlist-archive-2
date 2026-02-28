@@ -1,6 +1,6 @@
 {
   "description": "Classic anthems from a classic era. Cover: DJ EZ at Drumsheds",
-  "num_followers": 664655,
+  "num_followers": 664790,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
@@ -563,26 +563,6 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "Wookie (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk"
-      },
-      "artists": [
-        {
-          "name": "Wookie",
-          "url": "https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv"
-        },
-        {
-          "name": "Lain",
-          "url": "https://open.spotify.com/artist/4hq76gdVn9hwIfTks4IG9B"
-        }
-      ],
-      "duration_ms": 300500,
-      "name": "Battle",
-      "url": "https://open.spotify.com/track/1Y8R1CKdai0oycCf6K0sjh"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
         "name": "Freak Like Me",
         "url": "https://open.spotify.com/album/2WF4PpVoRbiyRRNPBqWXdE"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 292533,
       "name": "Freak Like Me - Dome's Peak Freak Remix",
       "url": "https://open.spotify.com/track/7jUhvpXow0mD27v77F6vC2"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
+        "name": "Wookie (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk"
+      },
+      "artists": [
+        {
+          "name": "Wookie",
+          "url": "https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv"
+        },
+        {
+          "name": "Lain",
+          "url": "https://open.spotify.com/artist/4hq76gdVn9hwIfTks4IG9B"
+        }
+      ],
+      "duration_ms": 300500,
+      "name": "Battle",
+      "url": "https://open.spotify.com/track/1Y8R1CKdai0oycCf6K0sjh"
     },
     {
       "added_at": "2024-10-06 08:09:55",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
+        "name": "God Made Me Phunky",
+        "url": "https://open.spotify.com/album/4h3Jd9QhtT9TifEhLq9xkc"
+      },
+      "artists": [
+        {
+          "name": "MD X-Spress",
+          "url": "https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS"
+        }
+      ],
+      "duration_ms": 376626,
+      "name": "God Made Me Phunky (Extended Mix)",
+      "url": "https://open.spotify.com/track/4tvejslaZsD6Y0pFCWipwJ"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/2jMkOKyXgCi9NI4dxm4EkN"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 300083,
       "name": "Little Man - Exemen Rework",
       "url": "https://open.spotify.com/track/5NBEj4QYJMFUS4KvQHHiQX"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
-        "name": "God Made Me Phunky",
-        "url": "https://open.spotify.com/album/4h3Jd9QhtT9TifEhLq9xkc"
-      },
-      "artists": [
-        {
-          "name": "MD X-Spress",
-          "url": "https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS"
-        }
-      ],
-      "duration_ms": 376626,
-      "name": "God Made Me Phunky (Extended Mix)",
-      "url": "https://open.spotify.com/track/4tvejslaZsD6Y0pFCWipwJ"
     },
     {
       "added_at": "2024-10-06 08:09:55",

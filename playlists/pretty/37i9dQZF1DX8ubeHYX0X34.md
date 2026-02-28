@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 
 > Timeless Pakistani hits, all in one place\. Cover \- Junaid Jamshed
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,667 likes - 70 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,687 likes - 70 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 | 19 | [Na Kaho](https://open.spotify.com/track/70LGFBNHjfkL6Lo1ZIBjsI) | [Aaroh](https://open.spotify.com/artist/0FkdHz5RBdvLUTBf97WRSo) | [Sawaal](https://open.spotify.com/album/0fVgvrRb2zst9O7HiCYJOU) | 5:13 |
 | 20 | [Chal Dil Merey](https://open.spotify.com/track/0szjMfMU0PYyM4LskP1nKj) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Huqa Pani](https://open.spotify.com/album/4ccLUwsTaAt2fvVC75Copb) | 4:19 |
 | 21 | [Duur](https://open.spotify.com/track/5Gl780bmLH2msWJ8kgCINq) | [Strings](https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX) | [Duur](https://open.spotify.com/album/5MDx3qMlEeLqvYeR1fNzg4) | 5:07 |
-| 22 | [Manwa Re](https://open.spotify.com/track/61fzdZgmnQ2wg9vmHqwDgN) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Suno Ke Mein Hun Jawan](https://open.spotify.com/album/4AyNpK9PCLWHbxIX5ezvJG) | 3:27 |
-| 23 | [Aicha](https://open.spotify.com/track/1cRuI7DN1z2FO3boRPmagR) | [Outlandish](https://open.spotify.com/artist/5tqMW5dSAlvh0GvgD3XfDy) | [Bread & Barrels Of Water](https://open.spotify.com/album/3cowfTrvTm7ZBJhBO0ZYPU) | 4:35 |
+| 22 | [Aicha](https://open.spotify.com/track/1cRuI7DN1z2FO3boRPmagR) | [Outlandish](https://open.spotify.com/artist/5tqMW5dSAlvh0GvgD3XfDy) | [Bread & Barrels Of Water](https://open.spotify.com/album/3cowfTrvTm7ZBJhBO0ZYPU) | 4:35 |
+| 23 | [Manwa Re](https://open.spotify.com/track/61fzdZgmnQ2wg9vmHqwDgN) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Suno Ke Mein Hun Jawan](https://open.spotify.com/album/4AyNpK9PCLWHbxIX5ezvJG) | 3:27 |
 | 24 | [Lamhay](https://open.spotify.com/track/2jU0vqjU22JCRXYLTcSrKs) | [Jal \-The Band](https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8) | [Aadat](https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5) | 5:24 |
 | 25 | [Channo](https://open.spotify.com/track/7sVZyeg9O5aMaqikhAH0DM) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Huqa Pani](https://open.spotify.com/album/4ccLUwsTaAt2fvVC75Copb) | 4:43 |
 | 26 | [Dhaani](https://open.spotify.com/track/3eRF395BSAXtCPjpRN7DLF) | [Strings](https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX) | [Dhaani](https://open.spotify.com/album/21luKloROzEZKHzgbhye2U) | 4:29 |
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 | 59 | [Huqa Pani](https://open.spotify.com/track/0PV0bP3cqsQdXajY3f8pUL) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Huqa Pani](https://open.spotify.com/album/4ccLUwsTaAt2fvVC75Copb) | 4:43 |
 | 60 | [Ik Arzu](https://open.spotify.com/track/4cndbON398hOOnGgqJwj4M) | [Jal](https://open.spotify.com/artist/2f50lwdTtShldrc5JrA5fU) | [Pyaas](https://open.spotify.com/album/6tR4OP2sLkYlUgdaz1y9bW) | 4:39 |
 | 61 | [Deewana](https://open.spotify.com/track/13Nh7FZe0D6vBlAREaqfTR) | [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr) | [Social Circus](https://open.spotify.com/album/4Nj2wbrQ8k2pzh4XQktP3K) | 5:19 |
-| 62 | [Armaan](https://open.spotify.com/track/2DSKLQ2b47b2xT60OLLki2) | [Siege](https://open.spotify.com/artist/5Q2KMZcKYzQLN0kH3D4SPx) | [Best of Siege](https://open.spotify.com/album/55tD7F8Levcnd2y2OWMhk1) | 4:16 |
+| 62 | [Kitnee Sadiyan](https://open.spotify.com/track/3bVeAbKWxoIMXBff17AKqi) | [Mizraab](https://open.spotify.com/artist/0h96R0yP58SpvbS6hMrZJe) | [Maazi Haal Mutaqbil](https://open.spotify.com/album/5ZB9hCtbNx07Che3yQOV4I) | 6:35 |
 | 63 | [Chal Diye](https://open.spotify.com/track/4KLXNggnzrpMrtZX1DAK8g) | [Zeb & Haniya](https://open.spotify.com/artist/7yRWAVvdjzgjU2wrpaKXLA) | [Chup](https://open.spotify.com/album/5gwT7LD8k8457NUK824Kb5) | 5:33 |
-| 64 | [Kitnee Sadiyan](https://open.spotify.com/track/3bVeAbKWxoIMXBff17AKqi) | [Mizraab](https://open.spotify.com/artist/0h96R0yP58SpvbS6hMrZJe) | [Maazi Haal Mutaqbil](https://open.spotify.com/album/5ZB9hCtbNx07Che3yQOV4I) | 6:35 |
+| 64 | [Armaan](https://open.spotify.com/track/2DSKLQ2b47b2xT60OLLki2) | [Siege](https://open.spotify.com/artist/5Q2KMZcKYzQLN0kH3D4SPx) | [Best of Siege](https://open.spotify.com/album/55tD7F8Levcnd2y2OWMhk1) | 4:16 |
 | 65 | [Yeh Sham](https://open.spotify.com/track/4h68L4SwrbU9WLiRBLEoQs) | [Vital Signs](https://open.spotify.com/artist/6KX5FJjRlLTjMsnwLvAmJu) | [Very Best Of Vital Signs Vol \-1](https://open.spotify.com/album/2gkLlal7dxVaOml7Q7uqcm) | 7:18 |
 | 66 | [Man Gagan](https://open.spotify.com/track/1l3Jn24cC7UsLDqNIbH33a) | [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr) | [Social Circus](https://open.spotify.com/album/4Nj2wbrQ8k2pzh4XQktP3K) | 6:18 |
 | 67 | [Pyaar Bina](https://open.spotify.com/track/33lDINCEHJM5jeVhcnJfdE) | [Junoon](https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK) | [Parvaaz](https://open.spotify.com/album/5HGX0AsoyUQNhG9lC1i6Z7) | 4:21 |
 | 68 | [Aitebar](https://open.spotify.com/track/3xDoL9bDd18aDRvAYe2Oup) | [Zeb & Haniya](https://open.spotify.com/artist/7yRWAVvdjzgjU2wrpaKXLA) | [Chup](https://open.spotify.com/album/5gwT7LD8k8457NUK824Kb5) | 6:20 |
-| 69 | [Mukhra](https://open.spotify.com/track/31KZ3ZymFdyO1quVkpot2c) | [Shehzad Roy](https://open.spotify.com/artist/2IoNBHUOfnf7hsUwBKr6l4), [Rab Janey](https://open.spotify.com/artist/4lxld8EAoaaPRwNkcMXe8l) | [Shehzad Roy](https://open.spotify.com/album/7vS4aINdfTyauCwEdRDqSi) | 3:58 |
-| 70 | [Sawaal](https://open.spotify.com/track/78ebXoVF2HmY4RfaO1Eyk5) | [Aaroh](https://open.spotify.com/artist/0FkdHz5RBdvLUTBf97WRSo) | [Sawaal](https://open.spotify.com/album/0fVgvrRb2zst9O7HiCYJOU) | 6:00 |
+| 69 | [Sawaal](https://open.spotify.com/track/78ebXoVF2HmY4RfaO1Eyk5) | [Aaroh](https://open.spotify.com/artist/0FkdHz5RBdvLUTBf97WRSo) | [Sawaal](https://open.spotify.com/album/0fVgvrRb2zst9O7HiCYJOU) | 6:00 |
+| 70 | [Mukhra](https://open.spotify.com/track/31KZ3ZymFdyO1quVkpot2c) | [Shehzad Roy](https://open.spotify.com/artist/2IoNBHUOfnf7hsUwBKr6l4), [Rab Janey](https://open.spotify.com/artist/4lxld8EAoaaPRwNkcMXe8l) | [Shehzad Roy](https://open.spotify.com/album/7vS4aINdfTyauCwEdRDqSi) | 3:58 |
 
 Snapshot ID: `AAAAACZR32Ee+gK639112vhS+HEy999e`

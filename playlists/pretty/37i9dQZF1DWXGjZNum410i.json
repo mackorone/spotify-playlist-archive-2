@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta de las canciones pop con Juan Carlos Bodoque y Tulio Trivi\u00f1o!",
-  "num_followers": 245056,
+  "num_followers": 245057,
   "original_name": "Pop para Ni\u00f1os",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2025-10-10 06:00:38",
       "album": {
-        "name": "Songs From The Big Chair (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
-      },
-      "artists": [
-        {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        }
-      ],
-      "duration_ms": 251488,
-      "name": "Everybody Wants To Rule The World",
-      "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
-    },
-    {
-      "added_at": "2025-10-10 06:00:38",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "added_at": "2025-10-10 06:00:38",
+      "album": {
+        "name": "Songs From The Big Chair (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 251488,
+      "name": "Everybody Wants To Rule The World",
+      "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
     },
     {
       "added_at": "2025-10-10 06:00:38",
@@ -703,18 +703,18 @@
     {
       "added_at": "2025-10-10 06:00:38",
       "album": {
-        "name": "Entre A Mi Mundo",
-        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+        "name": "El Ritmo Mundial",
+        "url": "https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh"
       },
       "artists": [
         {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
         }
       ],
-      "duration_ms": 186373,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
+      "duration_ms": 279986,
+      "name": "Vasos Vac\u00edos - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK"
     },
     {
       "added_at": "2025-10-10 06:00:38",
@@ -739,18 +739,18 @@
     {
       "added_at": "2025-10-10 06:00:38",
       "album": {
-        "name": "El Ritmo Mundial",
-        "url": "https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh"
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
       },
       "artists": [
         {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 279986,
-      "name": "Vasos Vac\u00edos - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK"
+      "duration_ms": 186373,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
     },
     {
       "added_at": "2025-10-10 06:00:38",

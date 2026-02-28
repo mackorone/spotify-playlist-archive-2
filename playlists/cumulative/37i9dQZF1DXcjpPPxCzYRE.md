@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-485 songs - 1 day 3 hr 35 min
+486 songs - 1 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [KALO KAKO](https://open.spotify.com/track/6jEZAcHnK8vBGDq1wdcS32) | [el miyu](https://open.spotify.com/artist/3ybkQhkPO8zpkdcatHFOiO) | [KALO KAKO](https://open.spotify.com/album/0FoMIx2LHRSpu7zfsOHClB) | 2:28 | 2024-10-01 | 2024-10-14 |
 | [Karma](https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Karma](https://open.spotify.com/album/0nytfi2xw7vYF04PRdEnNW) | 2:35 | 2024-06-21 | 2024-08-03 |
 | [Kevin](https://open.spotify.com/track/1CWVTz4v0IHU3mPouSuZKZ) | [Ferran Palau](https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM) | [Kevin](https://open.spotify.com/album/3EOPENikNPh26ZofamfSTT) | 3:23 | 2024-06-06 |  |
-| [Killing Time \- Acoustic Version](https://open.spotify.com/track/0XKs0GqvtMEACEwdTPBXVL) | [Marta Knight](https://open.spotify.com/artist/1bTVf9uk7d4iU9rcWfWj5S) | [Unbothered](https://open.spotify.com/album/7G9rmRRlnmeS7i8wzjTqZw) | 3:03 | 2025-11-21 |  |
+| [Killing Time \- Acoustic Version](https://open.spotify.com/track/0XKs0GqvtMEACEwdTPBXVL) | [Marta Knight](https://open.spotify.com/artist/1bTVf9uk7d4iU9rcWfWj5S) | [Unbothered](https://open.spotify.com/album/7G9rmRRlnmeS7i8wzjTqZw) | 3:03 | 2025-11-21 | 2026-02-28 |
 | [KISS ME](https://open.spotify.com/track/0bThHrVS5I2yFe36bWjHql) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [KISS ME](https://open.spotify.com/album/6TXac9d8zbIyAhwaRrj10G) | 3:03 | 2026-01-16 |  |
 | [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/track/1fdJovNYzsGgh7jv4qBckQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/album/4WuCB1YiE2K9K7FCnPigg7) | 3:19 | 2025-07-31 | 2026-01-17 |
 | [La Belleza](https://open.spotify.com/track/4upu85v1yWjnxPWHPkTkFU) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [La Belleza](https://open.spotify.com/album/5KO5GWklzKhPl37V7UXq2B) | 3:19 | 2025-06-07 | 2025-09-19 |
@@ -300,6 +300,7 @@
 | [No debería quererte \- Acústico](https://open.spotify.com/track/77oNNJ8T6ZVHbCPhqM9Fry) | [Marina](https://open.spotify.com/artist/5pzsYBjgMTBW6r3B69yK9X) | [No debería quererte EP](https://open.spotify.com/album/7rgrfYTpZObZ6NPHI946PQ) | 2:37 | 2024-04-11 | 2024-06-07 |
 | [NO ES DORMIR](https://open.spotify.com/track/6sxSoBiFmDQP0l05BSA4hB) | [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [NO ES DORMIR](https://open.spotify.com/album/6x7juu25BeXzXFovRz8zgm) | 2:05 | 2025-06-26 | 2025-07-29 |
 | [No es el momento](https://open.spotify.com/track/5xOfDQ6Tiao8QXBEN49KSM) | [María Parrado](https://open.spotify.com/artist/41sqYvXOn3ATsAQ65G1zx6) | [No es el momento](https://open.spotify.com/album/2ITDn2tR0KFmRwZAh0gmMd) | 2:55 | 2024-12-23 | 2025-01-06 |
+| [no fue real](https://open.spotify.com/track/6DGqrsX9qHiD9zwSV4qhZS) | [Chiara Oliver](https://open.spotify.com/artist/5zeSRJxJzaOyxt9p4kxMLg) | [no fue real](https://open.spotify.com/album/5IGMvV045EH28EakqQ5MSz) | 4:13 | 2026-02-26 |  |
 | [No Marcharás](https://open.spotify.com/track/6cxQ2r0Bxn3lUYxY7nSWMn) | [Antonio Romero](https://open.spotify.com/artist/5oL1C1BH1Qeuib1JRZngtA) | [Tanto Tiempo](https://open.spotify.com/album/02JQ5rOsZa145uPzbWIarG) | 3:13 | 2025-06-26 | 2025-08-01 |
 | [No Matter What](https://open.spotify.com/track/1LxlsAn1gECKoqLtOslshm) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [No Matter What](https://open.spotify.com/album/5HYPXY6FQXg2pQkOY2Tygw) | 3:56 | 2022-11-11 | 2023-01-06 |
 | [No me dejes caer](https://open.spotify.com/track/2sPHM5gHzgGT8UrhWxQrjl) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Las burbujas del cajón](https://open.spotify.com/album/36dpLupe8eMdmdfjPvEcqM) | 3:13 | 2024-08-02 | 2024-09-25 |

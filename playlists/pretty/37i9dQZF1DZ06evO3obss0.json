@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 170115,
+  "num_followers": 170377,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAADWG1HSvR3cpNj3Tko38i9R",
+  "snapshot_id": "aZ+NAAAAAAA9VcTpjm/3HvQqbGAetVX4",
   "tracks": [
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Use Me (Deluxe)",
-        "url": "https://open.spotify.com/album/3KkmwR3a7OA4Ang9wR4WBe"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 211417,
-      "name": "Thank You (feat. RAYE)",
-      "url": "https://open.spotify.com/track/5KrslcTeVkDwRwttVVHetx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Money Calling (feat. RAYE, Russ Millions & wewantwraiths)",
         "url": "https://open.spotify.com/album/3E9ya95dpugJBXNlHEilrA"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 191897,
       "name": "Money Calling (feat. RAYE, Russ Millions & wewantwraiths)",
       "url": "https://open.spotify.com/track/58BJ5oUPX5ST2pjCtOSMkk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Use Me (Deluxe)",
+        "url": "https://open.spotify.com/album/3KkmwR3a7OA4Ang9wR4WBe"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 211417,
+      "name": "Thank You (feat. RAYE)",
+      "url": "https://open.spotify.com/track/5KrslcTeVkDwRwttVVHetx"
     },
     {
       "added_at": null,
@@ -939,26 +939,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BED (David Guetta Festival Mix)",
-        "url": "https://open.spotify.com/album/25SO6nYRYrNwBngu5UwThd"
+        "name": "You Don't Know Me (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3YHoJsSAzBoaDDPWzLc6iA"
       },
       "artists": [
         {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
         },
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 235200,
-      "name": "BED - David Guetta Festival Mix",
-      "url": "https://open.spotify.com/track/7ft8GUKMIuFnH4lueyOTQi"
+      "duration_ms": 224560,
+      "name": "You Don't Know Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/1OJP62SC1v9V1AcQjBQF5q"
     }
   ],
   "unique_name": "This Is RAYE",

@@ -2,9 +2,9 @@
 
 ### [Mixto](https://open.spotify.com/playlist/37i9dQZF1DX7qRKBHjmYIE)
 
-> De aquí y de allá \~ un poquito de todo ✨ en un vibe con Elsa y Elmar.
+> De aquí y de allá \~ un poquito de todo ✨ en un vibe con Los Aptos.
 
-982 songs - 2 day 4 hr 57 min
+984 songs - 2 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [bandOlerO](https://open.spotify.com/track/6fzvTjGv5I65Waaam5UTVv) | [Oliver Berg](https://open.spotify.com/artist/7jJ4OfX2RBNl7dK4MG5JZv) | [bandOlerO](https://open.spotify.com/album/4ci6a270otpgbQ0J1sWGi9) | 3:16 | 2025-10-24 |  |
 | [Barbed Wire](https://open.spotify.com/track/0Q5D0qPpJ30jLY9l5GK5Dm) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Silvia](https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l) | 3:22 | 2023-08-25 | 2024-02-11 |
 | [Barco](https://open.spotify.com/track/2x6pJL7zRMTT4GMLWcUTLL) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Barco](https://open.spotify.com/album/4kBwg7WWtpNMnm4LfNYXkK) | 3:58 | 2023-06-23 | 2023-08-26 |
+| [Barra Payan](https://open.spotify.com/track/3cdRDgp3swnjyrUQf4VybR) | [Planta Industrial](https://open.spotify.com/artist/2vfT28l8lKF4o9HuVkJ3Pw), [aka the darknight](https://open.spotify.com/artist/3yb2AwODgJ3ug0l3jKcD5j), [Saso](https://open.spotify.com/artist/7z3W8OunO3RH0quodR8Zsu) | [Barra Payan](https://open.spotify.com/album/4kyRtcVqVxmWpT5fPT9Wx7) | 2:52 | 2026-02-27 |  |
 | [BBY ROMEO](https://open.spotify.com/track/1QwfEonEHRjLItRU7kISSe) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [BBY ROMEO](https://open.spotify.com/album/6MNveBkoPPQgHQfM560Zcz) | 3:18 | 2025-04-25 |  |
 | [Be Mine](https://open.spotify.com/track/2obd4xYbCzz5mj6PMED9RR) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Be Mine](https://open.spotify.com/album/0tzapKoaFjcoNf3smm1Stm) | 2:44 | 2023-01-10 | 2023-02-17 |
 | [Beautiful](https://open.spotify.com/track/4qivrywz0cptut4imbWJJf) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d), [Calian](https://open.spotify.com/artist/5Seegd2m2S5bQggOPxtMZa) | [Beautiful](https://open.spotify.com/album/4blp4UsUuc0KiXHSUj9Bie) | 3:31 | 2024-02-16 | 2024-07-13 |
@@ -113,10 +114,11 @@
 | [bend&break](https://open.spotify.com/track/5K3ULL04iSyZo0on8cBkHt) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Hasta La Dorada](https://open.spotify.com/album/0A0Ez9RZ22c9NWW9pVm5d1) | 3:03 | 2023-02-17 | 2023-03-29 |
 | [BENDITA SEA LA HORA](https://open.spotify.com/track/3WSmQtAcuTqfsSUjy5CKar) | [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [BENDITA SEA LA HORA](https://open.spotify.com/album/7BaxtDkRZ1mxfhNb4WIYFW) | 2:27 | 2024-11-15 |  |
 | [Bendito Vicio](https://open.spotify.com/track/03pzxEy3IkfZgYRWKRTOT3) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Bendito Vicio](https://open.spotify.com/album/01IslxV0ythFtzyAhQsWRQ) | 4:31 | 2026-02-13 |  |
+| [BES4ME](https://open.spotify.com/track/4YoHssP1wgFxKIrgkAJRDD) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [BES4ME](https://open.spotify.com/album/2pDTIwOIb85dGC7Pj0RUay) | 2:33 | 2026-02-27 |  |
 | [Besos Ricos](https://open.spotify.com/track/1AeVenKA9w42gepptaabsD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Besos Ricos](https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU) | 3:07 | 2023-09-01 | 2023-10-14 |
 | [best damn thing](https://open.spotify.com/track/3eJ5PX6pbzRGSmCFMzdsnF) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [best damn thing](https://open.spotify.com/album/0LoAlGQH5OWrgmSKDs4Ad5) | 2:40 | 2022-10-27 | 2023-01-11 |
 | [BF](https://open.spotify.com/track/1IPEjtyzuk1K3U2QmpyIgw) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [BF](https://open.spotify.com/album/7blDathKAvoJoCVZFTUQLg) | 2:21 | 2024-01-12 | 2024-05-19 |
-| [Bien Bien](https://open.spotify.com/track/3CeetJ3dioCxE9qNaAvXHO) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Bien Bien](https://open.spotify.com/album/4XZScJixPo8QOp3G5RrCNR) | 2:02 | 2025-10-24 |  |
+| [Bien Bien](https://open.spotify.com/track/3CeetJ3dioCxE9qNaAvXHO) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Bien Bien](https://open.spotify.com/album/4XZScJixPo8QOp3G5RrCNR) | 2:02 | 2025-10-24 | 2026-02-28 |
 | [BIGSHORTYS](https://open.spotify.com/track/50cQxtYpWuqViXC9b7PnzI) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [PISTOLA](https://open.spotify.com/album/2ha5bvXlmL8TSKuR5qf5GY) | 3:06 | 2025-03-07 | 2025-04-05 |
 | [BITCH3](https://open.spotify.com/track/5f1hwdxzqdomOHHe40ju1f) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [BITCH3](https://open.spotify.com/album/5KYA9DUntV71ML54hncirY) | 2:24 | 2023-09-01 | 2023-09-30 |
 | [Blockbuster \(90's R&B\)](https://open.spotify.com/track/5wa8q4KYRxU5Ch8KhPIrJu) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Blockbuster \(90's R&B\)](https://open.spotify.com/album/55M9YK89rE00TLo6TY8Cdk) | 3:27 | 2024-02-23 | 2024-06-29 |
@@ -292,7 +294,7 @@
 | [El Rio](https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [El Rio](https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb) | 2:14 | 2023-08-25 | 2023-09-30 |
 | [El Show Debe Continuar](https://open.spotify.com/track/6iLSUEdHyRZmsWPzLJLBRj) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [El Show Debe Continuar](https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai) | 4:14 | 2024-08-16 | 2025-09-27 |
 | [el sofá](https://open.spotify.com/track/6gpTColYGFZ1q0isxHoE0u) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [tenemos que quedar](https://open.spotify.com/album/7vUAVFwLNWAazVVZOwQtc4) | 3:11 | 2021-12-02 | 2022-10-28 |
-| [el tiempo pasa rápido](https://open.spotify.com/track/3679bCH5CErBhzAfYR2Cf1) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [el tiempo pasa rápido](https://open.spotify.com/album/2AGTJDPd2mTqTsQikhlhkM) | 4:07 | 2025-07-16 |  |
+| [el tiempo pasa rápido](https://open.spotify.com/track/3679bCH5CErBhzAfYR2Cf1) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [el tiempo pasa rápido](https://open.spotify.com/album/2AGTJDPd2mTqTsQikhlhkM) | 4:07 | 2025-07-16 | 2026-02-28 |
 | [el vino y el tiempo \(feat\. Willy Rodríguez\)](https://open.spotify.com/track/2g7KRmUgE964Xrzv3g7yeP) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee) | [el vino y el tiempo \(feat\. Willy Rodríguez\)](https://open.spotify.com/album/3E8R0On43aWkW2gVtBxJce) | 3:00 | 2024-12-06 |  |
 | [ella brilla](https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ella brilla](https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD) | 4:23 | 2024-08-23 | 2025-09-27 |
 | [Ella y Yo](https://open.spotify.com/track/1NnfVCcWRT2rVlCS0x44cZ) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:24 | 2022-10-27 | 2023-02-17 |

@@ -4,7 +4,7 @@
 
 > BLACKPINK are ready to GO 🏁
 
-2,152 songs - 4 day 11 hr 44 min
+2,154 songs - 4 day 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [100sadsongs](https://open.spotify.com/track/0rvcPanRR8rQO8lSIr0S4l) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [100sadsongs](https://open.spotify.com/album/52D5Elj3MPS11Wa0r50EFM) | 2:56 | 2022-05-19 | 2022-09-17 |
 | [15 Minutes](https://open.spotify.com/track/1zhvxTuSha22nsUT5Nw8gE) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:11 | 2025-02-21 | 2025-03-14 |
 | [18](https://open.spotify.com/track/4h7CVH9xtHoYSlEV5Dpamk) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [18](https://open.spotify.com/album/2KZG5LAzFQ4atJL69eH9Qj) | 2:30 | 2021-06-26 | 2021-09-10 |
+| [19 Underground](https://open.spotify.com/track/3AKzOFfv7b3WSuBmjFxMdp) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Ore](https://open.spotify.com/album/0SiGD27Z9eblEQQMdpBCLK) | 3:08 | 2026-02-27 |  |
 | [1994](https://open.spotify.com/track/42kWSGSJu0tXXt3e2Guvsm) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [1994](https://open.spotify.com/album/2a20lEnbWdct9J2wI0J6lH) | 3:23 | 2022-09-09 | 2022-10-29 |
 | [1:59 \(feat\. Gunna\)](https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [1:59 \(feat\. Gunna\)](https://open.spotify.com/album/4QTPH0500WkMREPzyNYp9d) | 3:12 | 2024-04-26 | 2024-07-06 |
 | [2 Die 4](https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [2 Die 4](https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t) | 3:05 | 2022-07-29 | 2022-11-12 |
@@ -721,8 +722,9 @@
 | [Glitter](https://open.spotify.com/track/4aDYEx4grZSAQWoGsfjUTK) | [RVBY](https://open.spotify.com/artist/0kqz7XXvCnxDLku3AfGnc2) | [Glitter](https://open.spotify.com/album/3aHcT6QXjNnyloAq0pfpCO) | 3:20 | 2021-05-14 | 2021-07-10 |
 | [Glitter In My Tears](https://open.spotify.com/track/6ggeF2miuarRU6VjfaWsZK) | [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts) | [Glitter In My Tears](https://open.spotify.com/album/3hhiuxwHKEtIQJRtCKJcaZ) | 3:07 | 2026-02-20 |  |
 | [Glow](https://open.spotify.com/track/09NpMJO80vtOO5kH0uKPaw) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Glow](https://open.spotify.com/album/1R6ntu2OZzt8K8trkqtjPQ) | 3:08 | 2021-11-13 | 2022-02-26 |
-| [GLOW\. \(Blusher Remix\)](https://open.spotify.com/track/2EHLYHcY5n1VetFu2Te0Mv) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [GLOW\. \(Blusher Remix\)](https://open.spotify.com/album/2r2imdB1FzSZzzsOHfyyna) | 2:05 | 2026-01-16 |  |
+| [GLOW\. \(Blusher Remix\)](https://open.spotify.com/track/2EHLYHcY5n1VetFu2Te0Mv) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [GLOW\. \(Blusher Remix\)](https://open.spotify.com/album/2r2imdB1FzSZzzsOHfyyna) | 2:05 | 2026-01-16 | 2026-02-28 |
 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 | 2025-05-01 | 2025-06-27 |
+| [GO](https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 3:15 | 2026-02-27 |  |
 | [GO TO HELL](https://open.spotify.com/track/55XRXhQeU25IwqVpjQqxkz) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [GO TO HELL](https://open.spotify.com/album/32boQRfLOkEfXznZtudRrS) | 3:03 | 2021-12-04 | 2022-02-26 |
 | [god complex](https://open.spotify.com/track/0DKzJ57P5U7hGlyntNOzk2) | [ALBI.](https://open.spotify.com/artist/64GJf2NeiXg0ZxbJSq9Uqb) | [god complex](https://open.spotify.com/album/7kEDPyroJCXtUHk9CQ2ke2) | 2:03 | 2025-03-14 | 2025-03-21 |
 | [God Damn Baby](https://open.spotify.com/track/75yGJrcOyZon1q5xn6NR7t) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [God Damn Baby](https://open.spotify.com/album/16B9iKwLj2CT7Rq6LiNMTR) | 3:12 | 2025-09-04 | 2025-10-24 |

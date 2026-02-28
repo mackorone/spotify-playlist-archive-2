@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : DAKEEZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,040 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,104 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 
 > A mix of punk rock to get you through your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,415 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,422 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,15 +30,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 20 | [Story of My Life](https://open.spotify.com/track/4Q4w8aRdfhIIEhBututktL) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [Social Distortion](https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS) | 5:46 |
 | 21 | [I Fought the Law](https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 2:43 |
 | 22 | [When Your Heart Stops Beating](https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE) | [+44](https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj) | [When Your Heart Stops Beating](https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA) | 3:12 |
-| 23 | [I Wanna Be Sedated \- 1999 Remaster](https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin \(Expanded 2005 Remaster\)](https://open.spotify.com/album/5QK35ea0XnSBt6Ly8gWLhE) | 2:29 |
-| 24 | [I Don’t Want To Be Here Anymore](https://open.spotify.com/track/6qtg4gz3DhqOHL5BHtSQw8) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 3:59 |
+| 23 | [I Don’t Want To Be Here Anymore](https://open.spotify.com/track/6qtg4gz3DhqOHL5BHtSQw8) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 3:59 |
+| 24 | [I Wanna Be Sedated \- 1999 Remaster](https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin \(Expanded 2005 Remaster\)](https://open.spotify.com/album/5QK35ea0XnSBt6Ly8gWLhE) | 2:29 |
 | 25 | [Dopamine](https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 3:06 |
 | 26 | [Superman](https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Best Of Goldfinger](https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O) | 3:05 |
 | 27 | [Keep This Up](https://open.spotify.com/track/0hsCfXTwB1QhJDpLmf1Q8U) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Proper Dose](https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0) | 2:26 |
 | 28 | [God's Country](https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [God's Country](https://open.spotify.com/album/4ymxAnpNkFo2spUPzjouAR) | 2:15 |
 | 29 | [I Don't Wanna Be An Asshole Anymore](https://open.spotify.com/track/1BqJIsOlo8rpm6FJ5N8VtJ) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Rented World](https://open.spotify.com/album/49Q3EfStlDspsaOo8VAgtW) | 3:04 |
-| 30 | [The Hell Song](https://open.spotify.com/track/1hPftDY3fsBXQuZvzShMYA) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/7yhuYfoxQIer3OcxPLfebA) | 3:20 |
-| 31 | [Man Overboard](https://open.spotify.com/track/72iJsJMdTGjshAZdNJbSKU) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Greatest Hits](https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ) | 2:46 |
+| 30 | [Man Overboard](https://open.spotify.com/track/72iJsJMdTGjshAZdNJbSKU) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Greatest Hits](https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ) | 2:46 |
+| 31 | [The Hell Song](https://open.spotify.com/track/1hPftDY3fsBXQuZvzShMYA) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/7yhuYfoxQIer3OcxPLfebA) | 3:20 |
 | 32 | [Watch You Go](https://open.spotify.com/track/6VD9nT0dBYokELI1MEYBDt) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [I Want To Disappear](https://open.spotify.com/album/3E6iXP2MtzpyhgFmeB4vyo) | 2:10 |
 | 33 | [He's A Man](https://open.spotify.com/track/5hxtsRWVxj1wrAgkJEpvrq) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Humble As The Sun](https://open.spotify.com/album/2ban1kuF669VADhI7VIuXh) | 2:38 |
 | 34 | [Me First](https://open.spotify.com/track/72yApMP8fkW15lWdMjerBp) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Composure](https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX) | 3:13 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 81 | [Minds Like Minefields](https://open.spotify.com/track/4hKsDk5XzS7oYi0aWGIBvH) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [E.P.](https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY) | 3:15 |
 | 82 | [Bad Habits](https://open.spotify.com/track/43t2TYUzhb3FpM7Bn2UyJL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [A Beautiful Place To Drown](https://open.spotify.com/album/2mEJTFHUOCEv4QFNTQv2Rg) | 2:53 |
 | 83 | [Stay Awhile](https://open.spotify.com/track/4vkEb0zbUqi7n2n9ivvdhJ) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Forever And Ever x Infinity](https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn) | 3:24 |
-| 84 | [A Long Time Ago In A Galaxy Called LA](https://open.spotify.com/track/5miZeAqW2OLH3iBIKiL9hQ) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [A Long Time Ago In A Galaxy Called LA](https://open.spotify.com/album/1wLpt4NmhTBOdiqz39USqB) | 3:27 |
-| 85 | [Paradise Lost, a poem by John Milton](https://open.spotify.com/track/3kL1eGyxKYipkJoGGjxy0J) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Paradise Lost, a poem by John Milton](https://open.spotify.com/album/4EhnHqtmJ6mBQwHO2nXxLn) | 2:47 |
+| 84 | [Paradise Lost, a poem by John Milton](https://open.spotify.com/track/3kL1eGyxKYipkJoGGjxy0J) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Paradise Lost, a poem by John Milton](https://open.spotify.com/album/4EhnHqtmJ6mBQwHO2nXxLn) | 2:47 |
+| 85 | [A Long Time Ago In A Galaxy Called LA](https://open.spotify.com/track/5miZeAqW2OLH3iBIKiL9hQ) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [A Long Time Ago In A Galaxy Called LA](https://open.spotify.com/album/1wLpt4NmhTBOdiqz39USqB) | 3:27 |
 | 86 | [Wallflower](https://open.spotify.com/track/7oXIbtib1VHQAJCvuSg3rx) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Wallflower](https://open.spotify.com/album/7KDXQC3QK8gvw2Y2lExNcr) | 2:23 |
 | 87 | [Fools Gold](https://open.spotify.com/track/2dOPwODAXiOrkuFXLMTGd5) | [Calling All Captains](https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG) | [Nothing Grows Here](https://open.spotify.com/album/3KtiLWd9uMx5dVe3n2nW2p) | 4:16 |
 | 88 | [Cop Outs and Cover Ups](https://open.spotify.com/track/1eky0UG5NxlVNtcPrNOPSl) | [We Still Dream](https://open.spotify.com/artist/1hYf0dAHtryg8JfaQd5c5o) | [Therapy](https://open.spotify.com/album/7BHmLI3iFYEbbKqb2r97a6) | 3:07 |

@@ -3382,6 +3382,32 @@
     {
       "album": {
         "name": "Hey Mudhal Siripey",
+        "url": "https://open.spotify.com/album/52jWr1zdLdGArlr3TNy21m"
+      },
+      "artists": [
+        {
+          "name": "Praveen Sriram",
+          "url": "https://open.spotify.com/artist/3k40nOv0gpniaMd9OsYZK6"
+        },
+        {
+          "name": "Hemanth Kumar MHD",
+          "url": "https://open.spotify.com/artist/0FdT37rY4wTmIF4B8kPjpV"
+        },
+        {
+          "name": "Tamil Mani",
+          "url": "https://open.spotify.com/artist/5GQclhWiFwYsMfPMMsdwx8"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Hey Mudhal Siripey",
+      "url": "https://open.spotify.com/track/1PnQX3EVZHLRaNJocpeUwY"
+    },
+    {
+      "album": {
+        "name": "Hey Mudhal Siripey",
         "url": "https://open.spotify.com/album/4yHFrEJp5lyht4Z1NwvpL5"
       },
       "artists": [
@@ -12104,6 +12130,32 @@
       "duration_ms": 226324,
       "name": "Siragukal",
       "url": "https://open.spotify.com/track/75xH3TWSOfl5eNUreaGtin"
+    },
+    {
+      "album": {
+        "name": "SIRI PARVAYAALE",
+        "url": "https://open.spotify.com/album/71cdSPNTYL1CdaGq0i7NB4"
+      },
+      "artists": [
+        {
+          "name": "Jayakrishnan. J. K",
+          "url": "https://open.spotify.com/artist/35Y9QVQpZigdIJ1yp4iBVc"
+        },
+        {
+          "name": "Sajini Krishna",
+          "url": "https://open.spotify.com/artist/2COv83cvEPoL0a22971Wxn"
+        },
+        {
+          "name": "Sajil Nair",
+          "url": "https://open.spotify.com/artist/3VF3A6WCPtqvnYmghaC12G"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234596,
+      "name": "SIRI PARVAYAALE",
+      "url": "https://open.spotify.com/track/580wLeEhTlLPCqynL0a2vY"
     },
     {
       "album": {

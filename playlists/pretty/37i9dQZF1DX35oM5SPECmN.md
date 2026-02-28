@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 
 > Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,153,205 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,152,922 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 | 44 | [Red Bull & Hennessy](https://open.spotify.com/track/3rrzbjHWFyKcCpagbbFjrE) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [On the Line](https://open.spotify.com/album/2AHG3vkC3H7zqHbYdgCCcy) | 4:48 |
 | 45 | [Girlfriend](https://open.spotify.com/track/0usJbmjMMRdC89y8sUsldR) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Encore](https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d) | 2:53 |
 | 46 | [Gone](https://open.spotify.com/track/5xZV3jkOFbKLH7ywEqGORA) | [The Show Ponies](https://open.spotify.com/artist/0N12PNPrehNU9PVsJMfdzi) | [We're Not Lost](https://open.spotify.com/album/3uoPG7wceVYCXEYg426Hjb) | 2:38 |
-| 47 | [On The Road Again](https://open.spotify.com/track/6f2o3F3BoPwlicA0ko2gAb) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Calla Lily](https://open.spotify.com/album/44QrG8cDITqHHGZcGfeZWr) | 2:53 |
+| 47 | [Young Man's Game](https://open.spotify.com/track/5xGt18Bb0D0DvYwytFDuhD) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 3:11 |
 | 48 | [Workin' Woman Blues](https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:05 |
-| 49 | [Young Man's Game](https://open.spotify.com/track/5xGt18Bb0D0DvYwytFDuhD) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 3:11 |
+| 49 | [On The Road Again](https://open.spotify.com/track/6f2o3F3BoPwlicA0ko2gAb) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Calla Lily](https://open.spotify.com/album/44QrG8cDITqHHGZcGfeZWr) | 2:53 |
 | 50 | [Be Afraid](https://open.spotify.com/track/4YtvmIkKHaSBOv1VPmZf6p) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Reunions](https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz) | 3:19 |
 | 51 | [Make a Sound](https://open.spotify.com/track/1Ap29R9m0UyLBH2uJHpcTy) | [Bruce Peninsula](https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe) | [No Earthly Sound](https://open.spotify.com/album/5eVVVY0zVykT1hePDZFVMI) | 3:21 |
 | 52 | [Who Are You Now](https://open.spotify.com/track/5kxVd8hCvJWaXw8Rp5xtGh) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:17 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 | 71 | [Plague Dogs](https://open.spotify.com/track/1foa5cCV8qYCtplg9P3sqV) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Plague Dogs](https://open.spotify.com/album/1MNmfHP7XdVjerj8c2MX6m) | 4:11 |
 | 72 | [Burn Too Bright](https://open.spotify.com/track/7uAlJ3iZWFm8OlC7mtXHec) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [Burn Too Bright](https://open.spotify.com/album/77mrdHTeFaLXQTMfp2NliT) | 2:59 |
 | 73 | [Silver Lining](https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:18 |
-| 74 | [River Run](https://open.spotify.com/track/2nGlee89fbRa03FsCsY7hp) | [Cereus Bright](https://open.spotify.com/artist/3zt4I5TLIb0Z9RigaiHe5G) | [River Run](https://open.spotify.com/album/7gIRb5ZR8tGJfPqruJgfjJ) | 4:17 |
-| 75 | [As We Ran](https://open.spotify.com/track/5ITmuvjtUUdxVQCCsaKBDx) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [As We Ran](https://open.spotify.com/album/2MeNqK7a04QJIiUgrcX97y) | 3:20 |
+| 74 | [Going In](https://open.spotify.com/track/2ZJ1cbWdNlBjMlWPnpSvYT) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK), [The Song Confessional](https://open.spotify.com/artist/3zM0frH8HgM7cK5OXpHu4E) | [Going In](https://open.spotify.com/album/4g7qJhcnulLDRNqhtolo6X) | 2:41 |
+| 75 | [River Run](https://open.spotify.com/track/2nGlee89fbRa03FsCsY7hp) | [Cereus Bright](https://open.spotify.com/artist/3zt4I5TLIb0Z9RigaiHe5G) | [River Run](https://open.spotify.com/album/7gIRb5ZR8tGJfPqruJgfjJ) | 4:17 |
 
 Snapshot ID: `AAAAADifsjEzwMZLjX5ZGkqHO77l4BNx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 
 > 'tá na rua? traz salsinha?' \(eternamente\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,671 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,667 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 28 | [No Stress](https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [ZAM ZAM](https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6) | 3:32 |
 | 29 | [Deixa Acontecer](https://open.spotify.com/track/5YQO0NElgX0Tck0xg0dmaI) | [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Desastre Solar](https://open.spotify.com/album/5syRznRAOGlHouvD2NXXWx) | 3:53 |
 | 30 | [Carinhoso](https://open.spotify.com/track/6VjeeVYWXVUn3bA8sfxQAE) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Carinhoso](https://open.spotify.com/album/0rJHcHo2NIgsVWRs4PcBpE) | 4:25 |
-| 31 | [Vem Doce](https://open.spotify.com/track/2P5az0U3e9UJWgXIwLf0nu) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Vem Doce](https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH) | 3:46 |
-| 32 | [Pra Vida](https://open.spotify.com/track/7z9ygQkhE50EGYMuZfbEFq) | [Rogê](https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3) | [Curyman](https://open.spotify.com/album/05NiQkAFwyas6XwckmzsJ8) | 3:32 |
+| 31 | [Pra Vida](https://open.spotify.com/track/7z9ygQkhE50EGYMuZfbEFq) | [Rogê](https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3) | [Curyman](https://open.spotify.com/album/05NiQkAFwyas6XwckmzsJ8) | 3:32 |
+| 32 | [Vem Doce](https://open.spotify.com/track/2P5az0U3e9UJWgXIwLf0nu) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Vem Doce](https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH) | 3:46 |
 | 33 | [Bem ou Mal](https://open.spotify.com/track/5WjWfsNUTjiPbxubTL3UPz) | [SalDoce](https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG), [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs) | [SalDoce](https://open.spotify.com/album/3L72Mzaf9rUIFgRXlQiCF3) | 3:01 |
 | 34 | [Seu Pensamento](https://open.spotify.com/track/5E9FgjQiyEckt2KUxb94vv) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Maré](https://open.spotify.com/album/5LAUGOnMeoWsGEVic4go6l) | 3:23 |
 | 35 | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX) | 2:56 |

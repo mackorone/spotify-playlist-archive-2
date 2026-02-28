@@ -4,7 +4,7 @@
 
 > This is Damares\. The essential tracks, all in one playlist.
 
-79 songs - 7 hr 4 min
+80 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Escondido Nele](https://open.spotify.com/track/7x3qHc3QKCC9ObpYaWPJNz) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Apocalipse](https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT) | 4:46 | 2023-07-09 | 2024-11-06 |
 | [Escondido Nele](https://open.spotify.com/track/6ETboA32KhqdiuaQFym7jb) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Apocalipse](https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI) | 4:46 | 2024-11-06 |  |
 | [Eu Quero Ver o Seu Milagre](https://open.spotify.com/track/5nEqDoo9cdpDwmrdsJGC6i) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Superação](https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg) | 4:33 | 2023-07-09 |  |
+| [Maranata \- \(Abertura\) \[Ao Vivo\]](https://open.spotify.com/track/7E0RMYUpQp0gJfUUmS2EQC) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Maior Troféu \(Ao Vivo\)](https://open.spotify.com/album/01ZUb4FtrUZH390oHfyORi) | 6:36 | 2026-02-28 |  |
 | [Me Leva](https://open.spotify.com/track/6JOi0YnFYjDY4nLOj36zHo) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Me Leva](https://open.spotify.com/album/1uaJOnqo8tpkdm4ZZrHbfN) | 5:15 | 2023-07-09 | 2023-07-13 |
 | [Me Leva](https://open.spotify.com/track/7ctEwNQ442ScQp273q3KiG) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Superação](https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg) | 5:15 | 2023-08-31 |  |
 | [Milagre](https://open.spotify.com/track/3S2tOr5qzFpVAQhVMiEUYW) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Apocalipse](https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT) | 5:55 | 2023-07-09 | 2024-11-04 |

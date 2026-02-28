@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "bailando en el antro con FLVCKKA y Yeri Mua hasta el amanecer ",
-  "name": "4n7r0",
+  "description": "bailando en el antro con RIVVAA hasta el amanecer ",
+  "name": "ANTRO ",
   "tracks": [
     {
       "album": {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 184795,
       "name": "#Nanana",
       "url": "https://open.spotify.com/track/5RmiDnfQfVYNP3sGAvGOso"
@@ -538,7 +538,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 206829,
       "name": "AMOR JOVEN",
       "url": "https://open.spotify.com/track/1boSamCDUGe6D4etgGGiXD"
@@ -9269,6 +9269,28 @@
     },
     {
       "album": {
+        "name": "Quiere cochinero",
+        "url": "https://open.spotify.com/album/0d30ZwfEoue2bqplBtVM7P"
+      },
+      "artists": [
+        {
+          "name": "RIVVAA",
+          "url": "https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5"
+        },
+        {
+          "name": "Viglezz",
+          "url": "https://open.spotify.com/artist/1LJ9q30BIBFwaTDrJ5BZu5"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131571,
+      "name": "Quiere cochinero",
+      "url": "https://open.spotify.com/track/38pOl8Y8hZ3Zz2SZqvtTJS"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Lindo",
         "url": "https://open.spotify.com/album/2kFUwpcbGQPTpj6gdJtWJd"
       },
@@ -10086,6 +10108,24 @@
       "duration_ms": 158480,
       "name": "Shiny",
       "url": "https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3"
+    },
+    {
+      "album": {
+        "name": "Shippeo",
+        "url": "https://open.spotify.com/album/4DhwrVu3V0UOIZKWCW10pp"
+      },
+      "artists": [
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Shippeo",
+      "url": "https://open.spotify.com/track/0Fpf1FiEbWfr8rPWmibpLE"
     },
     {
       "album": {

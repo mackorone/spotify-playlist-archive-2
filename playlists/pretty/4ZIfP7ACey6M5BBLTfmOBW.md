@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 
 > All the freshest hip\-hop heaters in one list! Cover: A$AP Rocky.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,696 likes - 100 songs - 4 hr 42 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,692 likes - 103 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,8 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 | 98 | [Jealous Type](https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Jealous Type](https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5) | 2:43 |
 | 99 | [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 |
 | 100 | [DUMBO](https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:58 |
+| 101 | [push the pipe](https://open.spotify.com/track/6B64s9LUjWse0rtS9A7oyU) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [HYPERYOUTH \(afterparty\)](https://open.spotify.com/album/3vIpUJFnNJgMwB4nygKtgV) | 3:08 |
+| 102 | [Thug Love](https://open.spotify.com/track/7H0vjdxgl0aBWLC9IDFAGe) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG) | [Through Her Eyes](https://open.spotify.com/album/0gVsu04Wmbfa7bKaQIxTTk) | 2:46 |
+| 103 | [Pop Shit](https://open.spotify.com/track/2YbsFrxepUS7s3IGHjLLWn) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Pop Shit](https://open.spotify.com/album/2TSJIhXkxnkfqfIuhc1729) | 1:40 |
 
-Snapshot ID: `AAAnqjHYoQk6JHtoEmrCcoK5ruhLgm3C`
+Snapshot ID: `AAAnrS7ioikt6twtzRZG8NxmzMBw3FVf`

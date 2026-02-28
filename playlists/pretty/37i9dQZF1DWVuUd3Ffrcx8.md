@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuUd3Ffrcx8.md) - [plain]
 
 > 지금 국내에서 떠오르고 있는 팝 음악을 만나보세요! \(커버: RAYE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,610 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,602 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuUd3Ffrcx8.md) - [plain]
 | 49 | [T2T](https://open.spotify.com/track/5xXUqyjaTqPQ7XnIThviQ9) | [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2), [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [T2T](https://open.spotify.com/album/36tmLHUiLvhRAiEihPDTmI) | 3:20 |
 | 50 | [Damascus \(feat\. Omar Souleyman and Yasiin Bey\)](https://open.spotify.com/track/5dpo5JIcLRrMbaSgTwjCl7) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK), [Yasiin Bey](https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH) | [Damascus \(feat\. Omar Souleyman and Yasiin Bey\)](https://open.spotify.com/album/4mOVYvAg2d2vBaTMqBc1ot) | 4:04 |
 
-Snapshot ID: `AAAAADzl17HEeD7mpTYcEM1B5sxjCrPa`
+Snapshot ID: `AAAAAAAbNnKA5IlxArKbM7QGyUMngAip`

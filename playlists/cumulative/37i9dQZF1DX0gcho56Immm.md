@@ -4,7 +4,7 @@
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Ydegirl
 
-248 songs - 14 hr 25 min
+249 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Channeling codes](https://open.spotify.com/track/3AVfmyHn1XwkupZXPZ0Odg) | [Musspell](https://open.spotify.com/artist/0Lpgi7wyIavnWFEqgUVczz) | [Channeling codes](https://open.spotify.com/album/4wAvLx9vFOtCBwz3V18yFT) | 4:09 | 2025-04-17 | 2025-10-18 |
 | [Chrome, Hallowed be.](https://open.spotify.com/track/1I6mvx4WW1XsB3K6uS6qwL) | [Rainy Miller](https://open.spotify.com/artist/53LAWIqLkYE3N2UFod80A3) | [Joseph, What Have You Done?](https://open.spotify.com/album/7sDYrsX4m9SP7AtNQXwFC0) | 2:45 | 2025-08-08 |  |
 | [Clayboy](https://open.spotify.com/track/1V6MFi1F5PeiYe4NnADO6o) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Clayboy](https://open.spotify.com/album/6b4mSAa3dcAa2MREOBopYI) | 2:35 | 2025-03-21 | 2025-04-18 |
-| [Clear Sky Rain](https://open.spotify.com/track/4pXvRTrdLDHIzbtWpY5Vey) | [deer park](https://open.spotify.com/artist/6Lq0JPdh83AUSeMfuMPCjy), [Ivy Knight](https://open.spotify.com/artist/2k3Q5efL6SiHfAsGqdXk4z) | [Terra Infirma](https://open.spotify.com/album/25J99oRYyPzoghasxfHKGp) | 3:47 | 2025-04-03 |  |
+| [Clear Sky Rain](https://open.spotify.com/track/4pXvRTrdLDHIzbtWpY5Vey) | [Deer park](https://open.spotify.com/artist/6Lq0JPdh83AUSeMfuMPCjy), [Ivy Knight](https://open.spotify.com/artist/2k3Q5efL6SiHfAsGqdXk4z) | [Terra Infirma](https://open.spotify.com/album/25J99oRYyPzoghasxfHKGp) | 3:47 | 2025-04-03 |  |
 | [Cold Paris Vogue](https://open.spotify.com/track/0ZquXqzUdelOil2nV3APqN) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Pleasure Is Everything](https://open.spotify.com/album/6gzbL250qiTrGwsqvKw1O7) | 2:47 | 2025-03-13 | 2025-10-18 |
 | [Computer Love](https://open.spotify.com/track/1a8GO5CTwoQAz2Rhal9vls) | [Sarah Meth](https://open.spotify.com/artist/2cveuRnx0cbS41GQTBcuRz) | [Computer Love](https://open.spotify.com/album/56BloPLPzJUc0L81RcDwaY) | 2:30 | 2025-03-13 | 2025-08-09 |
 | [Corners \- Chanel Beads Rework](https://open.spotify.com/track/5LXtMPwVposSskplKpGDtw) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Corners \(Chanel Beads Rework\)](https://open.spotify.com/album/6piCTrD8hyuS5iUMXU56RT) | 4:13 | 2025-04-10 |  |
@@ -52,6 +52,7 @@
 | [daughter](https://open.spotify.com/track/5VRbDeF87UzXK8LI1HLk3f) | [shinyhunt](https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63) | [daughter](https://open.spotify.com/album/4FlWe4YmzMi9LVFZlza1AK) | 4:46 | 2025-06-06 | 2025-10-11 |
 | [Days In My Arms](https://open.spotify.com/track/6juSVsEDuNqM2Zp8D0kK5L) | [Milan W.](https://open.spotify.com/artist/4ZCux8WXdeKCoARMg1JSok) | [Leave Another Day](https://open.spotify.com/album/40UEAKeQY7F59p1dLFrD24) | 4:00 | 2025-03-13 | 2026-01-17 |
 | [Days Incomplete](https://open.spotify.com/track/7hzXbAbf3okLa0kpb39tG9) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Rocky Top Ballads](https://open.spotify.com/album/55FiMoQX3KBZo5hawtpofc) | 3:39 | 2025-03-13 | 2025-09-27 |
+| [Deepbluereflection](https://open.spotify.com/track/6zJ2acR0p3cci9h1GNKMjz) | [Ben Vince](https://open.spotify.com/artist/2EWVX9WDwCaDHdsoTFWSPV) | [Street Druid](https://open.spotify.com/album/09dNgUWYDu8lJAxYC0uUYj) | 6:33 | 2026-02-27 |  |
 | [Delete Forever](https://open.spotify.com/track/5hsvL0N22UBECtZFEezvC6) | [100%WET](https://open.spotify.com/artist/00NfekFQ6GejpGDubQhgN2) | [Delete Forever](https://open.spotify.com/album/6vns0F3lPj9nkAuQ3BxUzu) | 3:32 | 2026-01-23 |  |
 | [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 | 2025-05-08 |  |
 | [Delusional Conclusion](https://open.spotify.com/track/5bvcPN2SGbKXC2oet5f5Ni) | [Ragnhild og](https://open.spotify.com/artist/48WSqLS1CDGcKE7NUwdHNt) | [Might as Well Just Cause a Scene](https://open.spotify.com/album/3m9t4IwSEJdXnZ7E8hSNHq) | 4:12 | 2025-10-03 |  |

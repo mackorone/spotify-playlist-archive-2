@@ -1,28 +1,148 @@
 {
-  "description": "A laid-back trip in the folk scene. Cover: Jonah Kagen",
-  "num_followers": 167162,
+  "description": "A laid-back trip in the folk scene. Cover: Donovan Woods",
+  "num_followers": 167155,
   "original_name": "Folk & Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACAWNH2ixekMGfFCi36azdQxs++S",
+  "snapshot_id": "AAAAAE9NRbSq0KvjfxCVRN9jjQc3QOCm",
   "tracks": [
     {
-      "added_at": "2026-02-20 05:01:30",
+      "added_at": "2026-02-27 05:01:26",
       "album": {
-        "name": "Talkin' About Jesus",
-        "url": "https://open.spotify.com/album/4oCw0RruILxxANId1k4Zq4"
+        "name": "Hen's Teeth",
+        "url": "https://open.spotify.com/album/4v7qrSwfjkEKu4hd1OwwvN"
       },
       "artists": [
         {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        },
+        {
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
         }
       ],
-      "duration_ms": 178933,
-      "name": "Talkin' About Jesus",
-      "url": "https://open.spotify.com/track/0xJeEbuxxGvpcoBsG335LS"
+      "duration_ms": 225231,
+      "name": "Wait Up (feat. I'm With Her)",
+      "url": "https://open.spotify.com/track/4bKT1G7Q6kInM0idAtnP3p"
+    },
+    {
+      "added_at": "2026-02-27 05:01:26",
+      "album": {
+        "name": "The Blade",
+        "url": "https://open.spotify.com/album/0f9qhfxa46I2abFLjsEjqc"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "The Blade",
+      "url": "https://open.spotify.com/track/4xlkVxykYvk6i7Co32lMDS"
+    },
+    {
+      "added_at": "2026-02-27 05:01:26",
+      "album": {
+        "name": "Squander Your Gifts",
+        "url": "https://open.spotify.com/album/7IjSNJnrtWq2OBTcbjBk4G"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "duration_ms": 169581,
+      "name": "These Things Happen",
+      "url": "https://open.spotify.com/track/0BJpJFEPnEHKro9KLNeKKh"
+    },
+    {
+      "added_at": "2026-02-27 05:01:26",
+      "album": {
+        "name": "Something More",
+        "url": "https://open.spotify.com/album/2CoMN033y1JyZFhMNg2j0C"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "duration_ms": 186956,
+      "name": "Something More",
+      "url": "https://open.spotify.com/track/7G3P99HLDKvkoZHFVEKdgD"
+    },
+    {
+      "added_at": "2026-02-27 05:01:26",
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/5qItK4WGw8ufZrG4mLaNob"
+      },
+      "artists": [
+        {
+          "name": "Rose Cousins",
+          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
+        }
+      ],
+      "duration_ms": 255241,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/7yHZbBzxRZ8Ijhfqo0hvNN"
+    },
+    {
+      "added_at": "2026-02-27 05:01:26",
+      "album": {
+        "name": "My Days of 58",
+        "url": "https://open.spotify.com/album/497p1j3P9Xzlb7vXay7tNl"
+      },
+      "artists": [
+        {
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
+        }
+      ],
+      "duration_ms": 418617,
+      "name": "Why Do Men Sing",
+      "url": "https://open.spotify.com/track/3XOapyiO6vB1v6k9KqHz2O"
+    },
+    {
+      "added_at": "2026-02-27 05:01:26",
+      "album": {
+        "name": "Human Kind feat. Tenille Townes",
+        "url": "https://open.spotify.com/album/6fWqZwgFXeMO3kBw7Br0Eb"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        },
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 220926,
+      "name": "Human Kind (ft. Tenille Townes)",
+      "url": "https://open.spotify.com/track/1IP2Zb26WLB4J3KJN0Jvhi"
+    },
+    {
+      "added_at": "2026-02-27 05:01:26",
+      "album": {
+        "name": "Empty Hands",
+        "url": "https://open.spotify.com/album/7G850q6ewddXiJRZrl1B7b"
+      },
+      "artists": [
+        {
+          "name": "Logan Staats",
+          "url": "https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P"
+        }
+      ],
+      "duration_ms": 308119,
+      "name": "Empty Hands",
+      "url": "https://open.spotify.com/track/2NWWrbCeBSfzXKLzBaXrVh"
     },
     {
       "added_at": "2026-02-20 05:01:30",
@@ -39,6 +159,70 @@
       "duration_ms": 265179,
       "name": "Maywell",
       "url": "https://open.spotify.com/track/5YAK7c9Azk9DUfoDBfjNNc"
+    },
+    {
+      "added_at": "2026-02-27 05:01:26",
+      "album": {
+        "name": "The Lost River Sessions",
+        "url": "https://open.spotify.com/album/5DeBqJ0io8B4LByrvoK6z5"
+      },
+      "artists": [
+        {
+          "name": "Zachary Lucky",
+          "url": "https://open.spotify.com/artist/6iOhLVSyUQsVyW3rk8TI6E"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "I wish I was a mole in the ground",
+      "url": "https://open.spotify.com/track/5gBuoiTMZu7VfKh00hsiV8"
+    },
+    {
+      "added_at": "2026-02-20 05:01:30",
+      "album": {
+        "name": "My Maker",
+        "url": "https://open.spotify.com/album/47wcmMq8SaCVM5R7wOW8e4"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 259842,
+      "name": "My Maker",
+      "url": "https://open.spotify.com/track/0CytapqefuNILUq2YdFw78"
+    },
+    {
+      "added_at": "2026-02-13 12:18:19",
+      "album": {
+        "name": "Man's World",
+        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 162290,
+      "name": "Man's World",
+      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
+    },
+    {
+      "added_at": "2026-02-20 05:01:30",
+      "album": {
+        "name": "Talkin' About Jesus",
+        "url": "https://open.spotify.com/album/4oCw0RruILxxANId1k4Zq4"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 178933,
+      "name": "Talkin' About Jesus",
+      "url": "https://open.spotify.com/track/0xJeEbuxxGvpcoBsG335LS"
     },
     {
       "added_at": "2026-02-20 05:01:30",
@@ -91,22 +275,6 @@
       "duration_ms": 188773,
       "name": "Blue Water",
       "url": "https://open.spotify.com/track/4JcHHGalNvDxB0gCpGg1HP"
-    },
-    {
-      "added_at": "2026-02-20 05:01:30",
-      "album": {
-        "name": "My Maker",
-        "url": "https://open.spotify.com/album/47wcmMq8SaCVM5R7wOW8e4"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 259842,
-      "name": "My Maker",
-      "url": "https://open.spotify.com/track/0CytapqefuNILUq2YdFw78"
     },
     {
       "added_at": "2026-02-20 05:01:30",
@@ -191,22 +359,6 @@
       "duration_ms": 225017,
       "name": "Javelin",
       "url": "https://open.spotify.com/track/0CyWgKe5ZQ1BVN5Lyp2Z3C"
-    },
-    {
-      "added_at": "2026-02-13 12:18:19",
-      "album": {
-        "name": "Man's World",
-        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 162290,
-      "name": "Man's World",
-      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
     },
     {
       "added_at": "2026-02-13 13:40:13",
@@ -2335,154 +2487,6 @@
       "duration_ms": 211027,
       "name": "Opening Night",
       "url": "https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2"
-    },
-    {
-      "added_at": "2025-10-03 00:01:12",
-      "album": {
-        "name": "Watercress",
-        "url": "https://open.spotify.com/album/16Bp2wOfOAbK7uKZY42IkW"
-      },
-      "artists": [
-        {
-          "name": "S. Carey",
-          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
-        }
-      ],
-      "duration_ms": 195040,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/3sVVxX78LIK5bXUfmAF7F1"
-    },
-    {
-      "added_at": "2025-10-03 00:01:12",
-      "album": {
-        "name": "New Highs, Pt. 1",
-        "url": "https://open.spotify.com/album/0aSUXrulSnrgnzyAzl2eBf"
-      },
-      "artists": [
-        {
-          "name": "Genesis Ritchot",
-          "url": "https://open.spotify.com/artist/3G7RNCad1xTbtGy4GYMZhm"
-        }
-      ],
-      "duration_ms": 255895,
-      "name": "New Highs",
-      "url": "https://open.spotify.com/track/0HENdkCmHGj3u7XEsYAYsn"
-    },
-    {
-      "added_at": "2025-10-03 00:01:12",
-      "album": {
-        "name": "The Circle Remains",
-        "url": "https://open.spotify.com/album/7Df1VBSYFcpF0tORYYeE6D"
-      },
-      "artists": [
-        {
-          "name": "The Deep Dark Woods",
-          "url": "https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl"
-        }
-      ],
-      "duration_ms": 269764,
-      "name": "Can't Keep From Singing",
-      "url": "https://open.spotify.com/track/75YQt9dU8jRsdCf1Gnxuia"
-    },
-    {
-      "added_at": "2025-10-03 00:01:12",
-      "album": {
-        "name": "Disintegrate (Edit)",
-        "url": "https://open.spotify.com/album/4mdpD8TiSn8EhpO1WQ13tm"
-      },
-      "artists": [
-        {
-          "name": "Wild Pink",
-          "url": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ"
-        },
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 136607,
-      "name": "Disintegrate - Edit",
-      "url": "https://open.spotify.com/track/5VmQCYBdnjgs2epnrhnhsE"
-    },
-    {
-      "added_at": "2025-10-03 00:01:12",
-      "album": {
-        "name": "A Bend In The Light",
-        "url": "https://open.spotify.com/album/4mRh3F5YuHK8pALmGcaujN"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 180440,
-      "name": "A Bend In The Light",
-      "url": "https://open.spotify.com/track/4tQrsftIMrqSXYcr86zdOF"
-    },
-    {
-      "added_at": "2025-10-03 00:01:12",
-      "album": {
-        "name": "Who Knows",
-        "url": "https://open.spotify.com/album/7fk1YlvRCEGgwNEo8Mr0ud"
-      },
-      "artists": [
-        {
-          "name": "Somewhere In Between",
-          "url": "https://open.spotify.com/artist/6ilkFAfRoOmI4ESHfmdrCA"
-        }
-      ],
-      "duration_ms": 206132,
-      "name": "Who Knows",
-      "url": "https://open.spotify.com/track/4Ff9KReGMUOQ9c5zKzb879"
-    },
-    {
-      "added_at": "2025-10-03 00:01:12",
-      "album": {
-        "name": "High Road Reverie",
-        "url": "https://open.spotify.com/album/0fvZtAXepoxeCJKsjThct8"
-      },
-      "artists": [
-        {
-          "name": "Pony Gold",
-          "url": "https://open.spotify.com/artist/5olZNeXkXEoJOM0B2cJTRm"
-        }
-      ],
-      "duration_ms": 190348,
-      "name": "Wait for Me",
-      "url": "https://open.spotify.com/track/4HAEvT4ylhnLybDfl8hmDm"
-    },
-    {
-      "added_at": "2025-09-19 00:01:10",
-      "album": {
-        "name": "man like you",
-        "url": "https://open.spotify.com/album/6emR0rCcWjJ9tB0beVAFUt"
-      },
-      "artists": [
-        {
-          "name": "Keni Titus",
-          "url": "https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj"
-        }
-      ],
-      "duration_ms": 157504,
-      "name": "man like you",
-      "url": "https://open.spotify.com/track/2VIWp6coRHJpOu8KhcqIQC"
-    },
-    {
-      "added_at": "2025-09-19 00:01:10",
-      "album": {
-        "name": "Back to the Country",
-        "url": "https://open.spotify.com/album/2qtHeHuUDLpyaz9KYPj3zI"
-      },
-      "artists": [
-        {
-          "name": "Daniel James McFadyen",
-          "url": "https://open.spotify.com/artist/5MUdSu3xqIVIDS5TtJrEB9"
-        }
-      ],
-      "duration_ms": 250670,
-      "name": "Diamond",
-      "url": "https://open.spotify.com/track/0opvyElQZPPq405LGzfe56"
     }
   ],
   "unique_name": "Folk & Friends",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where R&B lives. Cover: Ty Dolla $ign & Leon Thomas",
+  "description": "Where R&B lives. Cover: Brent Faiyaz",
   "name": "RNB X",
   "tracks": [
     {
@@ -2228,6 +2228,24 @@
       "duration_ms": 230795,
       "name": "Caught Up",
       "url": "https://open.spotify.com/track/4XmQYIwiP6wveSj9bBGCyQ"
+    },
+    {
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236559,
+      "name": "Cha Cha Cha",
+      "url": "https://open.spotify.com/track/6QletrrmpkUpeJkipX9pgf"
     },
     {
       "album": {
@@ -14098,7 +14116,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 184711,
       "name": "Unhinged",
       "url": "https://open.spotify.com/track/5hvyS23Ya468Sp4VeL48U5"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,466 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,550 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 61 | [The Best Things](https://open.spotify.com/track/6QJfk4mQc9YYBX7DGmqbuZ) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Title Of Record \(Expanded Edition\)](https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu) | 4:26 |
 | 62 | [Swing and Sway](https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Swing and Sway](https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW) | 2:58 |
 | 63 | [Gushin' Blood](https://open.spotify.com/track/3AQzefqzIKZFzzIZEtBXIj) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 3:29 |
-| 64 | [The Joke's on Us](https://open.spotify.com/track/0VQPaFVOiUWGlYDL1tUewi) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Opposites \(Deluxe\)](https://open.spotify.com/album/1mGPHj7IomG8gBUW3wRi8G) | 3:34 |
-| 65 | [Superhero](https://open.spotify.com/track/6z4CTIToU7a03Rq07F9FF4) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Strays](https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk) | 3:58 |
+| 64 | [Superhero](https://open.spotify.com/track/6z4CTIToU7a03Rq07F9FF4) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Strays](https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk) | 3:58 |
+| 65 | [The Joke's on Us](https://open.spotify.com/track/0VQPaFVOiUWGlYDL1tUewi) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Opposites \(Deluxe\)](https://open.spotify.com/album/1mGPHj7IomG8gBUW3wRi8G) | 3:34 |
 | 66 | [Sighommi](https://open.spotify.com/track/1zz3gyupVHNCZ3tZiboxyg) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Aghori Mhori Mei](https://open.spotify.com/album/2BoDjxlw4rrLUOaoVtarU1) | 2:54 |
 | 67 | [Killing Time](https://open.spotify.com/track/4me6CoGX1RHTu7VE7Hnkpl) | [Bleed](https://open.spotify.com/artist/15DYcBNS0c6bfsoezOIzT3) | [Killing Time](https://open.spotify.com/album/0RrpTBev2XySRIyv8dnNKn) | 3:14 |
 | 68 | [Freaking Out](https://open.spotify.com/track/1OGMyqd5PKvCS45J5AyunP) | [Adema](https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb) | [Adema](https://open.spotify.com/album/2px7Z3Hvmb846rH8JHIiJh) | 3:35 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 85 | [My Condition](https://open.spotify.com/track/3dwG0z9bOORf9W1NWj2eFQ) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [My Condition](https://open.spotify.com/album/6HCfBgib3AXge1a1gDwcLH) | 3:27 |
 | 86 | [The Storm](https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Storm](https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf) | 2:53 |
 | 87 | [Blood In The Water](https://open.spotify.com/track/1eFtuUsdNIh7vTyyG6mwIo) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Blood In The Water](https://open.spotify.com/album/3I9e3fgZ3IaR2K7NLRxVy2) | 3:34 |
-| 88 | [I Don't Wanna Be Me](https://open.spotify.com/track/5kdCJtVGsVdbB5mcGxX7pr) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [I Don't Wanna Be Me](https://open.spotify.com/album/3sYNerGyactdioVkmUpMyZ) | 3:49 |
-| 89 | [Dad’Algorhythm](https://open.spotify.com/track/3BiY7K7qzbJ5VWZz2qgULg) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [Dad’Algorhythm](https://open.spotify.com/album/3b4XGfpUQmrqrtzN95sKLj) | 2:38 |
+| 88 | [Dad’Algorhythm](https://open.spotify.com/track/3BiY7K7qzbJ5VWZz2qgULg) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [Dad’Algorhythm](https://open.spotify.com/album/3b4XGfpUQmrqrtzN95sKLj) | 2:38 |
+| 89 | [I Don't Wanna Be Me](https://open.spotify.com/track/5kdCJtVGsVdbB5mcGxX7pr) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [I Don't Wanna Be Me](https://open.spotify.com/album/3sYNerGyactdioVkmUpMyZ) | 3:49 |
 | 90 | [Suffer](https://open.spotify.com/track/5Q6SSsB53WpRJS2umerkIB) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [Upright Animals](https://open.spotify.com/album/4azfM2hspLuUo7yk4AQKG3) | 3:23 |
 | 91 | [Flacco](https://open.spotify.com/track/248Z8fgwFHdQCAhtkJ0hrj) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Flacco](https://open.spotify.com/album/58dq6GiHzAppusqEYSC4yq) | 4:10 |
 | 92 | [Cellophane](https://open.spotify.com/track/2ZzCvMltW1PC5k8dv14ShX) | [House & Home](https://open.spotify.com/artist/2ihCoOZsBMPl5KuKLgK9T7) | [Split](https://open.spotify.com/album/4IaK5bhrMpaGaa1ZRRDdrp) | 4:04 |

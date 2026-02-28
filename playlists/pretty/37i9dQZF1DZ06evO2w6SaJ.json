@@ -1,12 +1,12 @@
 {
   "description": "This is Crazy Town. The essential tracks, all in one playlist.",
-  "num_followers": 7308,
+  "num_followers": 7309,
   "original_name": "This Is Crazy Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAADXXxaST9eBR7RWof+6Yoa2",
+  "snapshot_id": "aZ+NAAAAAABEay3JmuS1ZIHVnM3/Smfl",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fly Away",
-        "url": "https://open.spotify.com/album/3Je2lBhHDy2fokqXDJjjyN"
+        "name": "darkhorse",
+        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
       },
       "artists": [
         {
           "name": "Crazy Town",
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        },
-        {
-          "name": "Tanner Alexander",
-          "url": "https://open.spotify.com/artist/41lO2rd2y2DXgZfoZ85MgP"
         }
       ],
-      "duration_ms": 227794,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/7np2dkTK85z7i6GPjimhNO"
+      "duration_ms": 186293,
+      "name": "Decorated",
+      "url": "https://open.spotify.com/track/04jBnYdyN86CGnQjh9OJ8t"
     },
     {
       "added_at": null,
@@ -543,18 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "darkhorse",
-        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
+        "name": "Fly Away",
+        "url": "https://open.spotify.com/album/3Je2lBhHDy2fokqXDJjjyN"
       },
       "artists": [
         {
           "name": "Crazy Town",
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        },
+        {
+          "name": "Tanner Alexander",
+          "url": "https://open.spotify.com/artist/41lO2rd2y2DXgZfoZ85MgP"
         }
       ],
-      "duration_ms": 186293,
-      "name": "Decorated",
-      "url": "https://open.spotify.com/track/04jBnYdyN86CGnQjh9OJ8t"
+      "duration_ms": 227794,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/7np2dkTK85z7i6GPjimhNO"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 196306,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/2irE2loA3ZcWIcBDUdmyID"
+      "duration_ms": 168493,
+      "name": "Battle Cry",
+      "url": "https://open.spotify.com/track/55vzQKI0TTZnGVqCRJWTC6"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 168493,
-      "name": "Battle Cry",
-      "url": "https://open.spotify.com/track/55vzQKI0TTZnGVqCRJWTC6"
+      "duration_ms": 196306,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/2irE2loA3ZcWIcBDUdmyID"
     }
   ],
   "unique_name": "This Is Crazy Town",

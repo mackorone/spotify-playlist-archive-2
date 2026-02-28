@@ -1,12 +1,12 @@
 {
   "description": "This is Bruno Mars. The essential tracks, all in one playlist.",
-  "num_followers": 4267742,
+  "num_followers": 4268750,
   "original_name": "This Is Bruno Mars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAACLWwwb/hZV6Dk5V4V4HSWY",
+  "snapshot_id": "aZ+NAAAAAAD9dQAyRK8Z3YPhaymVThwo",
   "tracks": [
     {
       "added_at": null,
@@ -523,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Please Me",
-        "url": "https://open.spotify.com/album/5a4sJJ3qjn6hqRsvm0Veso"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 200889,
-      "name": "Please Me",
-      "url": "https://open.spotify.com/track/0PG9fbaaHFHfre2gUVo7AN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Young, Wild & Free (feat. Bruno Mars)",
         "url": "https://open.spotify.com/album/1LMcmxhxL1g2GXj0X3w3sQ"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 207346,
       "name": "Young, Wild & Free (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/3FNy4yzOhHhFBeA5p4ofoq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Please Me",
+        "url": "https://open.spotify.com/album/5a4sJJ3qjn6hqRsvm0Veso"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 200889,
+      "name": "Please Me",
+      "url": "https://open.spotify.com/track/0PG9fbaaHFHfre2gUVo7AN"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hottest Latin hits in the US! Cover: Rawayana, Manuel Turizo ",
+  "description": "The hottest Latin hits in the US! Cover: Junior H & Gael Valenzuela",
   "name": "\u00c9xitos USA",
   "tracks": [
     {
@@ -2330,7 +2330,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 181237,
       "name": "CAMBIAR\u00c9",
       "url": "https://open.spotify.com/track/0DHkA97Q6SWz7uanmsCy8u"
@@ -4409,6 +4409,32 @@
     },
     {
       "album": {
+        "name": "DROGA LETAL",
+        "url": "https://open.spotify.com/album/5xKg0Uy8mowljQPNE3bkT0"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Gael Valenzuela",
+          "url": "https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220467,
+      "name": "DROGA LETAL",
+      "url": "https://open.spotify.com/track/4TPmu6ABGoRkb0UIwc177k"
+    },
+    {
+      "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
@@ -6012,7 +6038,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 230513,
       "name": "Gata Only (Remix)",
       "url": "https://open.spotify.com/track/0JGTfiC4Z41GEEpMYLbWwO"
@@ -10622,7 +10648,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 194605,
       "name": "No Capea",
       "url": "https://open.spotify.com/track/3IcaWsnVb6NOsjtcuedsM8"
@@ -11106,6 +11132,24 @@
       "duration_ms": 201935,
       "name": "offline",
       "url": "https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304200,
+      "name": "Oh Qu\u00e9 Ser\u00e1?",
+      "url": "https://open.spotify.com/track/2n1MTLCis6qPSDKdr5XSDI"
     },
     {
       "album": {
@@ -12774,7 +12818,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 146460,
       "name": "QLOO*",
       "url": "https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS"
@@ -13424,6 +13468,32 @@
       "duration_ms": 165634,
       "name": "Rompe La Dompe",
       "url": "https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2"
+    },
+    {
+      "album": {
+        "name": "ROSITA",
+        "url": "https://open.spotify.com/album/3kU2wmmT1ix5kSHtNm1rFD"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245469,
+      "name": "ROSITA",
+      "url": "https://open.spotify.com/track/4HyPxBQDLUnY3w7gukITrW"
     },
     {
       "album": {
@@ -16746,6 +16816,28 @@
       "duration_ms": 146559,
       "name": "wiggy",
       "url": "https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A"
+    },
+    {
+      "album": {
+        "name": "WO OH OH",
+        "url": "https://open.spotify.com/album/61JbOabPeXdG7X8zGkKxex"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269596,
+      "name": "WO OH OH",
+      "url": "https://open.spotify.com/track/34bgCQVr0Wfuthiv8NeSQO"
     },
     {
       "album": {

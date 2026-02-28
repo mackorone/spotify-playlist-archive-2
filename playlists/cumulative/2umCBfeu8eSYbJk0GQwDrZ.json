@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "96 Sunfire",
+        "url": "https://open.spotify.com/album/34bVSPpN8SMmS39FO6NcGN"
+      },
+      "artists": [
+        {
+          "name": "The Honest Heart Collective",
+          "url": "https://open.spotify.com/artist/2qgcVY8aup4vFHfp4uoZ2X"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210532,
+      "name": "96 Sunfire",
+      "url": "https://open.spotify.com/track/0iLcqAFdcb3YoAQEtRtH8W"
+    },
+    {
+      "album": {
         "name": "@CHEW",
         "url": "https://open.spotify.com/album/572j7uOjuFkkoIoS1jSon2"
       },
@@ -1482,7 +1500,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 184624,
       "name": "Barbed Wire",
       "url": "https://open.spotify.com/track/11Ct9tSc2I8JOOx1QVtPZx"
@@ -3580,7 +3598,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 177565,
       "name": "coldwater canyon",
       "url": "https://open.spotify.com/track/4TF5BEtzmoDaubmY6W4E38"
@@ -3819,6 +3837,24 @@
     },
     {
       "album": {
+        "name": "Cosmic Wink",
+        "url": "https://open.spotify.com/album/4FBsBCEPnDE9kRfyj3GteE"
+      },
+      "artists": [
+        {
+          "name": "Juliet Ivy",
+          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172753,
+      "name": "cosmic wink",
+      "url": "https://open.spotify.com/track/0DwSDivYx1TTl5m3GsyKzK"
+    },
+    {
+      "album": {
         "name": "Coule douce",
         "url": "https://open.spotify.com/album/3pkNmEiDoIErguYqeBJ7jf"
       },
@@ -3946,7 +3982,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 163098,
       "name": "Creature",
       "url": "https://open.spotify.com/track/43LXBwC89xoSUGnsMXalIj"
@@ -8416,7 +8452,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 159527,
       "name": "HOME",
       "url": "https://open.spotify.com/track/6CNQLgGqOSpXpzGtru1JHx"
@@ -8618,6 +8654,24 @@
       "duration_ms": 180016,
       "name": "How Good",
       "url": "https://open.spotify.com/track/7fLGmNTDCV2Q79RxvOunTE"
+    },
+    {
+      "album": {
+        "name": "How I Get",
+        "url": "https://open.spotify.com/album/70NOPNFs2y4lZMrowJzPuY"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219866,
+      "name": "How I Get",
+      "url": "https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi"
     },
     {
       "album": {
@@ -9302,7 +9356,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 162550,
       "name": "I'm a memory",
       "url": "https://open.spotify.com/track/0nTyvtckqQ4hFzpM2Drn2J"
@@ -12908,7 +12962,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 163173,
       "name": "nah",
       "url": "https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf"
@@ -13873,6 +13927,28 @@
     },
     {
       "album": {
+        "name": "one day i'll forget",
+        "url": "https://open.spotify.com/album/7iIxo7z531Yb8vqfwAGGyV"
+      },
+      "artists": [
+        {
+          "name": "Mylie Taylor",
+          "url": "https://open.spotify.com/artist/3JR3JUiQX97T6lm85kCNVL"
+        },
+        {
+          "name": "Colorblind",
+          "url": "https://open.spotify.com/artist/3kSDOw6bEMSStOjqLR2kVX"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "one day i'll forget",
+      "url": "https://open.spotify.com/track/5Lr2NBdE3eBpzSdG9R0gWB"
+    },
+    {
+      "album": {
         "name": "One Of The Pack",
         "url": "https://open.spotify.com/album/5brmo3bAoy48mBJhm3JiKE"
       },
@@ -14418,7 +14494,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 316346,
       "name": "Peace Won't Keep : Anguish",
       "url": "https://open.spotify.com/track/1PJHxCiyUEqzNCCbgkSrTC"
@@ -16511,6 +16587,24 @@
     },
     {
       "album": {
+        "name": "Slow Tonight",
+        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192495,
+      "name": "Slow Tonight",
+      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
+    },
+    {
+      "album": {
         "name": "Slug",
         "url": "https://open.spotify.com/album/1KtfoFXpZEzixT8iPzCmmK"
       },
@@ -16666,7 +16760,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 209746,
       "name": "Somebody I'm Not",
       "url": "https://open.spotify.com/track/0hKuDy34aXj3CC3PXMqnZj"
@@ -18029,6 +18123,24 @@
     },
     {
       "album": {
+        "name": "Terrified",
+        "url": "https://open.spotify.com/album/0htdK0MDhpdcLa4Q0NW5OQ"
+      },
+      "artists": [
+        {
+          "name": "Kerr Mercer",
+          "url": "https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182585,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/1xAwZre22A8PJNoR19BKES"
+    },
+    {
+      "album": {
         "name": "Tether",
         "url": "https://open.spotify.com/album/1hZ7fxEBx9LcDCmFrhhFtX"
       },
@@ -18535,6 +18647,62 @@
     },
     {
       "album": {
+        "name": "The Mountain",
+        "url": "https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Asha Puthli",
+          "url": "https://open.spotify.com/artist/6XS2GPyMwHEgAn0VspnhMf"
+        },
+        {
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
+        },
+        {
+          "name": "Dave Jolicoeur",
+          "url": "https://open.spotify.com/artist/7p9cQvuiCC28PPRZwHGDBM"
+        },
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297787,
+      "name": "The Moon Cave (feat. Asha Puthli, Bobby Womack, Dave Jolicoeur, Jalen Ngonda and Black Thought)",
+      "url": "https://open.spotify.com/track/6VflG4mpZSlpKnqNRL3NO9"
+    },
+    {
+      "album": {
+        "name": "The Poet and Her Vice (Happy Ending)",
+        "url": "https://open.spotify.com/album/3zgpGvtXlMxWYBapCNtDva"
+      },
+      "artists": [
+        {
+          "name": "Josie Edwards",
+          "url": "https://open.spotify.com/artist/70876OxjZoMWimkWA2Iduq"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174881,
+      "name": "The Poet and Her Vice (Happy Ending)",
+      "url": "https://open.spotify.com/track/3dNyfmpDLcj2III4F2Kshv"
+    },
+    {
+      "album": {
         "name": "The Reaper",
         "url": "https://open.spotify.com/album/56quvGXHpGk8v1UoAirScb"
       },
@@ -18622,7 +18790,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 143560,
       "name": "The story of us",
       "url": "https://open.spotify.com/track/18Sbict5gfE7bnXiq9WJow"
@@ -18640,7 +18808,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 212000,
       "name": "The Tower",
       "url": "https://open.spotify.com/track/5THiJCaYKzV4I0taSBYQGZ"
@@ -19684,7 +19852,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 236874,
       "name": "VAMOS",
       "url": "https://open.spotify.com/track/0kj0isuufiVmad6Vt4e3NN"
@@ -20750,6 +20918,24 @@
       "duration_ms": 199785,
       "name": "Worry",
       "url": "https://open.spotify.com/track/3KP6fIwYGPioEwYwKXeZgG"
+    },
+    {
+      "album": {
+        "name": "Echo in the Dust (Deluxe)",
+        "url": "https://open.spotify.com/album/12JzbNcAuEwMmrqZUKzegz"
+      },
+      "artists": [
+        {
+          "name": "Julianna Riolino",
+          "url": "https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186800,
+      "name": "Would That It Were So Simple",
+      "url": "https://open.spotify.com/track/7lxhB1znIYwGAG5y42YSWZ"
     },
     {
       "album": {

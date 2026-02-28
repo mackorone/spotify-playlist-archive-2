@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > ¡Música tropical, cumbia, guasca y de carrilera para recordar y disfrutar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,575 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,569 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 20 | [Tú Pasaje al Olvido](https://open.spotify.com/track/5VENH9rLewIMEHhSArsJkg) | [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P), [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Mas Romántico Que Nunca](https://open.spotify.com/album/6nhrASXzyEsC34PfdO7OEa) | 4:01 |
 | 21 | [Muñeco de Vitrina](https://open.spotify.com/track/0PZ81A2LmrXzbjH6wscL3Z) | [Dario Dario](https://open.spotify.com/artist/4MAWVx8RvhYBpEDf3XKCOG) | [Darío Darío Esclavo de las Mujeres](https://open.spotify.com/album/7y3218iXz2iwxVBMe8Qqcm) | 3:41 |
 | 22 | [Por Tu Maldito Amor](https://open.spotify.com/track/3KZI2xeiIRJd8fm84ClxH5) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Por Tu Maldito Amor](https://open.spotify.com/album/4AcCWh1DSsRWGU8fWK70E1) | 3:56 |
-| 23 | [Amor Oculto](https://open.spotify.com/track/2XDFJJJDb35ng71PNB5GPW) | [El Andariego](https://open.spotify.com/artist/7umWQMinvyqkJIWOdo02OW) | [Amor Oculto](https://open.spotify.com/album/1CA0zMs4fMYWxwNWWA6tLx) | 3:49 |
-| 24 | [Me Tragaba Tus Mentiras](https://open.spotify.com/track/0Z2KrRMIL80GrzQUmXsLeu) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [No Hay Porqué Esperar](https://open.spotify.com/album/37ipB2Anm6xNkDUu8nubbX) | 2:56 |
+| 23 | [Me Tragaba Tus Mentiras](https://open.spotify.com/track/0Z2KrRMIL80GrzQUmXsLeu) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [No Hay Porqué Esperar](https://open.spotify.com/album/37ipB2Anm6xNkDUu8nubbX) | 2:56 |
+| 24 | [Amor Oculto](https://open.spotify.com/track/2XDFJJJDb35ng71PNB5GPW) | [El Andariego](https://open.spotify.com/artist/7umWQMinvyqkJIWOdo02OW) | [Amor Oculto](https://open.spotify.com/album/1CA0zMs4fMYWxwNWWA6tLx) | 3:49 |
 | 25 | [Mujeres y Despecho](https://open.spotify.com/track/6qF6Nq12QRlFMjS2mP4ziN) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [Mujeres y Despecho](https://open.spotify.com/album/0jxQqR3kCi0WXbUElGHM4Z) | 3:00 |
 | 26 | [Dos Pasajes](https://open.spotify.com/track/471SfF1VL5AjkWXMzYXout) | [Lupe Y Polo](https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS) | [15 Éxitos](https://open.spotify.com/album/6uowaVidZAFQIyT1jTkYBy) | 2:20 |
 | 27 | [Me Voy para Olvidarte](https://open.spotify.com/track/6XZvZmCuUsWtQDGXJDxy2f) | [El Gato Negro](https://open.spotify.com/artist/37WhXkqoj8aJT0GFsxRvoq) | [Te Vas a Acordar de Mi](https://open.spotify.com/album/0dXOEFH4cnhtEJXDcsZ2rp) | 3:35 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 56 | [Si No Puedo Ser Tu Amor](https://open.spotify.com/track/3HALoTXV3g4jEqx6oU3cLE) | [Jose Miguel Class](https://open.spotify.com/artist/1bLcdHalDusGM70EM8oxmk) | [Los Grandes Éxitos de Jose Miguel Class](https://open.spotify.com/album/3WJlGjYRBaNKHGOsiNK7lt) | 2:47 |
 | 57 | [Matemos las Ganas](https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos las Ganas](https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom) | 3:02 |
 | 58 | [Por Que Te Alejas?](https://open.spotify.com/track/6LUS9h8MHCY2ffOAfYRF8D) | [Los Trovadores De Cuyo](https://open.spotify.com/artist/1b04Sisb3cmkfcjvwCjaEV) | [Los Trovadores De Cuyo](https://open.spotify.com/album/6VxG2RkyFbEQLLlXUhidGA) | 3:23 |
-| 59 | [Macondo](https://open.spotify.com/track/1XKmU59ERIwofmciipLhlo) | [Cuarteto Continental de Alberto Maraví](https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq) | [Macondo](https://open.spotify.com/album/0eZurc4gYbenvoa6TpYK5E) | 3:57 |
-| 60 | [El Zapatero](https://open.spotify.com/track/2Q8O0xBH75Sh2182S8I8Pg) | [Octavio Mesa](https://open.spotify.com/artist/3aVL3CqqnAdGM3p3QNBD8x) | [Los Relajos del Arriero](https://open.spotify.com/album/5Z8e6tnjGvPulTFqddGxG8) | 2:23 |
+| 59 | [El Zapatero](https://open.spotify.com/track/2Q8O0xBH75Sh2182S8I8Pg) | [Octavio Mesa](https://open.spotify.com/artist/3aVL3CqqnAdGM3p3QNBD8x) | [Los Relajos del Arriero](https://open.spotify.com/album/5Z8e6tnjGvPulTFqddGxG8) | 2:23 |
+| 60 | [Macondo](https://open.spotify.com/track/1XKmU59ERIwofmciipLhlo) | [Cuarteto Continental de Alberto Maraví](https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq) | [Macondo](https://open.spotify.com/album/0eZurc4gYbenvoa6TpYK5E) | 3:57 |
 | 61 | [Sobre las Olas](https://open.spotify.com/track/1noDxnTrhCblZDWYuGSrtz) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Joseíto Martínez](https://open.spotify.com/artist/2tw2BrnDHhErZuk7ePrZcC) | [Historia Músical \- 30 Éxitos](https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj) | 3:24 |
 | 62 | [El Negro Picante](https://open.spotify.com/track/5iIE3Qxd7IawB6AbXILRNm) | [Jose A\. Bedoya y Su Conjunto](https://open.spotify.com/artist/6OHqNNrJaoz5qQb5PNGdNh) | [Que Gran Relajo](https://open.spotify.com/album/2RVseF0K75urCaJDlE5QV1) | 2:53 |
 | 63 | [Las Trovas Maliciosas](https://open.spotify.com/track/2VOCn5cM6fZR8wAKPevr6X) | [Octavio Mesa Y Su Conjunto](https://open.spotify.com/artist/3npi4RWuNZl4jhe3z5qwVr) | [Relajos del Arriero](https://open.spotify.com/album/1QFSyof19J29lXMJObKPeB) | 2:47 |

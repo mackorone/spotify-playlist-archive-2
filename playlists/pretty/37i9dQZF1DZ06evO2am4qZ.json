@@ -1,12 +1,12 @@
 {
   "description": "This is Baby Tate. The essential tracks, all in one playlist.",
-  "num_followers": 5113,
+  "num_followers": 5114,
   "original_name": "This Is Baby Tate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAADDre8/qO5EWs1wuw+pA+fg",
+  "snapshot_id": "aZ+NAAAAAADiMuJxDPUnXoeCKYZDTlZe",
   "tracks": [
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mani/Pedi",
-        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 172793,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/44AlUStg32yZ3xwhhrUGxq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hello Stranger",
         "url": "https://open.spotify.com/album/06ll4nWlQ2P2keJ2ULSOIR"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 180174,
       "name": "Aura (feat. Baby Tate)",
       "url": "https://open.spotify.com/track/0zAWAPj6mqQquTdur7Vrxx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 172793,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/44AlUStg32yZ3xwhhrUGxq"
     },
     {
       "added_at": null,
@@ -923,22 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tate Tuesday, Vol. 1",
-        "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 104000,
-      "name": "Olipop",
-      "url": "https://open.spotify.com/track/5YhmPL3vhBGSMKt39oCwWH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ms. Out Tonight",
         "url": "https://open.spotify.com/album/5dlGTLkjRhY4xpkrAZTKUq"
       },
@@ -959,8 +943,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "GIRLS",
-        "url": "https://open.spotify.com/album/3KExRXeulCEJWUYr6IP2lk"
+        "name": "Bow (feat. Baby Tate)",
+        "url": "https://open.spotify.com/album/2bf8hfYFu0gMwdT0LVfJoL"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 94524,
+      "name": "Bow (feat. Baby Tate)",
+      "url": "https://open.spotify.com/track/5TRZOLd92OksSG1I04LziQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tate Tuesday, Vol. 1",
+        "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
       },
       "artists": [
         {
@@ -968,9 +972,9 @@
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 270186,
-      "name": "That Girl",
-      "url": "https://open.spotify.com/track/1eGW9NUzLN1roVpWWyjVI8"
+      "duration_ms": 104000,
+      "name": "Olipop",
+      "url": "https://open.spotify.com/track/5YhmPL3vhBGSMKt39oCwWH"
     },
     {
       "added_at": null,

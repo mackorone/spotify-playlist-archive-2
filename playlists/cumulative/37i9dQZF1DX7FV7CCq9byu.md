@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,527 songs - 3 day 6 hr 0 min
+1,528 songs - 3 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,6 +375,7 @@
 | [Eternity](https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 | 2025-07-17 | 2025-09-19 |
 | [Eternity](https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Eternity](https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S) | 3:23 | 2025-12-05 | 2026-02-13 |
 | [ett minne i taget](https://open.spotify.com/track/4SXtVLD8B0O7kvw7FLi4Qj) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [ett minne i taget](https://open.spotify.com/album/40zmg4a9KuaUwLpHxj5NVX) | 2:50 | 2025-03-27 | 2025-05-17 |
+| [Ett år \- Bonus Track](https://open.spotify.com/track/4OJOZJLUnGun7f2qeIc7h7) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA \(Deluxe\)](https://open.spotify.com/album/6ELnL9vR5ufPGdqZIy67Zh) | 3:37 | 2026-02-26 |  |
 | [Ettor och nollor](https://open.spotify.com/track/32C06bOmyNPPW1kER79Q8e) | [Daniel Adams\-Ray](https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC) | [Pandemi, Palestina & Heartache](https://open.spotify.com/album/6lIra1LwEsGHs827ruYdwP) | 3:46 | 2025-02-13 | 2025-03-21 |
 | [Eurostar](https://open.spotify.com/track/6uDqKkOeYnE7W1KZMMBPve) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Eurostar](https://open.spotify.com/album/3TIuWz1xtNlre0XVZqm0BS) | 2:45 | 2024-10-04 | 2024-11-23 |
 | [Even If It's a Lie](https://open.spotify.com/track/3lKRNL0H2hSEWby9EaV5s3) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [Even If It's a Lie](https://open.spotify.com/album/7jg2h2Z7dcg5oWXIcADYGB) | 3:08 | 2025-09-25 | 2025-11-21 |
@@ -469,6 +470,7 @@
 | [Gloria](https://open.spotify.com/track/2CghTghvdsGOiTWAHoEOaf) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Gloria](https://open.spotify.com/album/5ttGp9NcuUNKFSwHd1h9j6) | 2:52 | 2025-03-06 | 2025-04-11 |
 | [Glow In The Dark](https://open.spotify.com/track/1V2ND6AWTXlzCnZ1s2klMH) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Glow In The Dark](https://open.spotify.com/album/4aA15kykB2RrixWL4m7MFP) | 2:58 | 2024-06-27 | 2024-08-16 |
 | [glöm det](https://open.spotify.com/track/4OLwEZqfG8GyJkjH6frFSW) | [TUVA](https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q) | [glöm det](https://open.spotify.com/album/3L66LCj1nrl49zNx8BRRHq) | 3:19 | 2025-03-13 | 2025-04-25 |
+| [GO](https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 3:15 | 2026-02-26 |  |
 | [go cowboy](https://open.spotify.com/track/1RvUSGdtvcHtWcO5bznlRA) | [mimi bay](https://open.spotify.com/artist/7BhFHZkSEe09pVDQZC6kVf) | [big bite mixtape](https://open.spotify.com/album/6S90qib2tu9vmn1CYAU72T) | 2:49 | 2025-07-24 | 2025-09-12 |
 | [Go Go Juice](https://open.spotify.com/track/1qyw5wSUkEvH8DtaCdx7Lg) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:13 | 2025-09-04 | 2025-11-21 |
 | [Go Loud](https://open.spotify.com/track/3a1OvOqAQ1vFA9obqcgkfY) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Go Loud](https://open.spotify.com/album/4u4Z2qTlZUsRuP0746sitX) | 2:55 | 2024-07-02 | 2024-08-23 |
@@ -1378,7 +1380,6 @@
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-16 | 2025-06-20 |
 | [Toulouse](https://open.spotify.com/track/01E1aVRPZ4qx7cGw5pE4Eo) | [Thilda U](https://open.spotify.com/artist/47HqP5i5LLC1m4RpvF317R) | [Toulouse](https://open.spotify.com/album/2cD3yzeftcX0qY2YV2NbHc) | 3:00 | 2024-08-29 | 2024-09-27 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-12 | 2025-02-21 |
-| [Track 12](https://open.spotify.com/track/4OJOZJLUnGun7f2qeIc7h7) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA \(Deluxe\)](https://open.spotify.com/album/6ELnL9vR5ufPGdqZIy67Zh) | 0:00 | 2026-02-26 |  |
 | [TRAFIK!](https://open.spotify.com/track/4VDEbsqJED0VOLm7sF21su) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [TRAFIK!](https://open.spotify.com/album/3YWWKOPLvtWtPsoEzqb3mB) | 2:12 | 2024-07-15 | 2024-08-30 |
 | [Treadmill](https://open.spotify.com/track/0ewQUWupKrDmYFhhiyjqaA) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Treadmill](https://open.spotify.com/album/1lnKUpRIc0wAcnMP9scVlJ) | 3:13 | 2024-07-04 | 2024-08-23 |
 | [TRIPPIN](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [TRIPPIN](https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ) | 3:22 | 2024-06-27 | 2024-08-23 |

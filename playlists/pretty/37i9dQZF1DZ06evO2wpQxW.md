@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wpQxW.md) - [plain]
 
 > This is Calibre 50\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 724,427 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 724,502 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wpQxW.md) - [plain]
 | 8 | [La Tatema](https://open.spotify.com/track/3ovi8ac2bNxvKe3EnZjOiW) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 3:33 |
 | 9 | [Escuela Del Virus Antrax](https://open.spotify.com/track/4UUf48kLSSO3fLL0lYkfoe) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [De Sinaloa Para El Mundo](https://open.spotify.com/album/0nSVxIyIILGvDr417ogi39) | 2:41 |
 | 10 | [Contigo](https://open.spotify.com/track/3imJHohXBxDGovFRQ75dUt) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Contigo](https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt) | 3:30 |
-| 11 | [Aunque Ahora Estés Con Él](https://open.spotify.com/track/7unyDZXFwdAMMIMlCeYa8V) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Lo Más Escuchado De](https://open.spotify.com/album/5w6UHZIk6AC190aQNFB9pW) | 3:36 |
-| 12 | [Javier El De Los Llanos](https://open.spotify.com/track/7kyK2NSDfRE1612vdYuqIx) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Corridos De Alto Calibre](https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri) | 3:21 |
+| 11 | [Javier El De Los Llanos](https://open.spotify.com/track/7kyK2NSDfRE1612vdYuqIx) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Corridos De Alto Calibre](https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri) | 3:21 |
+| 12 | [Aunque Ahora Estés Con Él](https://open.spotify.com/track/7unyDZXFwdAMMIMlCeYa8V) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Lo Más Escuchado De](https://open.spotify.com/album/5w6UHZIk6AC190aQNFB9pW) | 3:36 |
 | 13 | [El Tierno Se Fue](https://open.spotify.com/track/3RqnWbtQpoeoU7EpS5H7VS) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [De Sinaloa Para El Mundo](https://open.spotify.com/album/0nSVxIyIILGvDr417ogi39) | 4:19 |
 | 14 | [Mi Sorpresa Fuiste Tú](https://open.spotify.com/track/59S2kAfdUxi6k2Si8Vi0f3) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Mitad Y Mitad](https://open.spotify.com/album/76KrINxApHUqS0GywH3g0R) | 3:49 |
 | 15 | [Ni Que Estuvieras Tan Buena](https://open.spotify.com/track/3ElOgE8UIHSCqQu1L4FBco) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [La Recompensa](https://open.spotify.com/album/5YMCgTdT06cMlFlznzO2fo) | 2:18 |
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wpQxW.md) - [plain]
 | 34 | [Qué Tiene De Malo](https://open.spotify.com/track/06Od4Aeme6RXm1nNVpgxIr) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Contigo](https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt) | 2:48 |
 | 35 | [Salió A La Perfección](https://open.spotify.com/track/7L1hiumuXST9N4YgaF0JHs) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq) | 3:11 |
 | 36 | [¿Quién Te Crees?](https://open.spotify.com/track/2LXOSAYiSrTfIf8smheLaz) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [¿Quién Te Crees?](https://open.spotify.com/album/2KSCqFRagwcAC4q7mPIxvw) | 3:05 |
-| 37 | [Callejero Y Mujeriego](https://open.spotify.com/track/4fs0BA5PTPb7C31uzfWY4J) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Renovar O Morir](https://open.spotify.com/album/0Npb5RTXimPOeUQONeuz3A) | 2:28 |
-| 38 | [Te Amo](https://open.spotify.com/track/2g16Okw0KYkvewS8TShk24) | [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY), [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Te Amo](https://open.spotify.com/album/6J5nDuL7cgp9igdUn9cR7L) | 3:29 |
+| 37 | [Te Amo](https://open.spotify.com/track/2g16Okw0KYkvewS8TShk24) | [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY), [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Te Amo](https://open.spotify.com/album/6J5nDuL7cgp9igdUn9cR7L) | 3:29 |
+| 38 | [Callejero Y Mujeriego](https://open.spotify.com/track/4fs0BA5PTPb7C31uzfWY4J) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Renovar O Morir](https://open.spotify.com/album/0Npb5RTXimPOeUQONeuz3A) | 2:28 |
 | 39 | [Bohemio Loco](https://open.spotify.com/track/1Nzd6zmeBmGZ0UkmIdDzRC) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [El Buen Ejemplo](https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3) | 3:09 |
-| 40 | [Te Volvería A Elegir](https://open.spotify.com/track/7e8uUH6bOLxpXDm9lARsbI) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Las Número 1 De](https://open.spotify.com/album/6oplBB55aomIn5O6NSz3cd) | 3:00 |
-| 41 | [El Mensaje](https://open.spotify.com/track/0kI4ECAdY6qItGhPa3TgJy) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Mensaje](https://open.spotify.com/album/4boHu426ldWkKuKjrDq4Mv) | 3:13 |
+| 40 | [El Mensaje](https://open.spotify.com/track/0kI4ECAdY6qItGhPa3TgJy) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Mensaje](https://open.spotify.com/album/4boHu426ldWkKuKjrDq4Mv) | 3:13 |
+| 41 | [Te Volvería A Elegir](https://open.spotify.com/track/7e8uUH6bOLxpXDm9lARsbI) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Las Número 1 De](https://open.spotify.com/album/6oplBB55aomIn5O6NSz3cd) | 3:00 |
 | 42 | [Una Mala Elección](https://open.spotify.com/track/3UUAZLnbePuhLAlPsEFeL6) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Contigo](https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt) | 2:08 |
 | 43 | [Míranos Ahora](https://open.spotify.com/track/5VfkfKTTo5BRKqHwfENF0V) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Míranos Ahora](https://open.spotify.com/album/0cuCvmXFuaN8eS5lvAlQt3) | 3:18 |
 | 44 | [El Niño Sicario](https://open.spotify.com/track/1sVNgN59IWB81LiT1Agz9e) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Lo Mejor De...](https://open.spotify.com/album/3crvxBWvPLb0T9TMwlJKup) | 4:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wpQxW.md) - [plain]
 | 49 | [El Triste Alegre](https://open.spotify.com/track/2mNRZ3ewIzRD5JU8M7yOZ2) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Contigo](https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH) | 2:19 |
 | 50 | [Las Ultras](https://open.spotify.com/track/32nbIrhBqKTuZr4hFnlDbU) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 2:06 |
 
-Snapshot ID: `aZ47gAAAAABcaTUh22ceVUk8Psqc+5hZ`
+Snapshot ID: `aZ+NAAAAAACjKRTrWjz4TuRxhqtx4762`

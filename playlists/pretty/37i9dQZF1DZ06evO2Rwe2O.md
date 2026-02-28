@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rwe2O.md) - [plain]
 
 > This is Big Daddy Weave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,928 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,932 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rwe2O.md) - [plain]
 | 33 | [If You Died Tonight](https://open.spotify.com/track/7glAHcE2yN6onHZd7BBSto) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Love Come To Life](https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM) | 3:52 |
 | 34 | [You Found Me](https://open.spotify.com/track/70KZlDFmyd2OGigiLGwOwd) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [What Life Would Be Like](https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw) | 4:41 |
 | 35 | [Lions And Eagles](https://open.spotify.com/track/5TS7MJHae2zCApLTUKMmPr) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Let It Begin](https://open.spotify.com/album/6KYFAtnJMs1ohD5fDOFXWQ) | 3:00 |
-| 36 | [I Belong To God](https://open.spotify.com/track/6K2xpBy3l8RvmhD7xBQqS9) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Beautiful Offerings \(Deluxe Edition\)](https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc) | 4:22 |
+| 36 | [I Will Go](https://open.spotify.com/track/50ZvPCUJkoPNFPIOAV97Ni) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Beautiful Offerings \(Deluxe Edition\)](https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc) | 3:34 |
 | 37 | [Heart Cries Holy](https://open.spotify.com/track/13D4BSdRclYY6rkcHTtoiD) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Fields Of Grace](https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77) | 5:17 |
 | 38 | [You're Worthy Of My Praise](https://open.spotify.com/track/1WUmwcfpl8FPNwDEhqMQCJ) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt), [BarlowGirl](https://open.spotify.com/artist/3VMSmJURVM7s6LkrIaPZvi) | [The Ultimate Collection](https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW) | 4:25 |
 | 39 | [Turn On The Light](https://open.spotify.com/track/7eMEf2vcT5POvOLaery3I9) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [When The Light Comes](https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R) | 3:53 |
-| 40 | [I Will Go](https://open.spotify.com/track/50ZvPCUJkoPNFPIOAV97Ni) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Beautiful Offerings \(Deluxe Edition\)](https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc) | 3:34 |
+| 40 | [I Belong To God](https://open.spotify.com/track/6K2xpBy3l8RvmhD7xBQqS9) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Beautiful Offerings \(Deluxe Edition\)](https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc) | 4:22 |
 | 41 | [Fields of Grace](https://open.spotify.com/track/7I1jXhVC8QVJzjPzx93VAQ) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Fields Of Grace](https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77) | 3:25 |
 | 42 | [Word of God Speak](https://open.spotify.com/track/4DHwQgifWfvk38gZ98DBHU) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Get the Truth](https://open.spotify.com/album/1uHOFv8yPQwPOxaFiB2g9T) | 4:17 |
 | 43 | [Revive Us Again](https://open.spotify.com/track/1gDz3147BMHrVz772aYTwn) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [What Life Would Be Like](https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw) | 4:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rwe2O.md) - [plain]
 | 49 | [Be Your Everything](https://open.spotify.com/track/3RkTLYMiGUmdNUkqtD4iPg) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Fields Of Grace](https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77) | 5:13 |
 | 50 | [Neighborhoods](https://open.spotify.com/track/5olQics7uPj0dp1vBTkyYe) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [The Ultimate Collection](https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW) | 4:33 |
 
-Snapshot ID: `aZ47gAAAAACH8z498t2S816DkDY7Ndhr`
+Snapshot ID: `aZ+NAAAAAACD3o4BUVF01UPa3NNnAxP0`

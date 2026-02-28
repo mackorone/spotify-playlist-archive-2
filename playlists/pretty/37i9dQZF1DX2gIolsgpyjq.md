@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: lene 3000
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,181 likes - 127 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,187 likes - 127 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Body Language](https://open.spotify.com/track/0ebIDciVUpDhnNrivrXMzv) | [lene 3000](https://open.spotify.com/artist/2xljJPV7fZOIWj7x4ko22G) | [Body Language](https://open.spotify.com/album/4v2n6AI78jG6e3MQlQjj0C) | 3:04 |
 | 2 | [Crossfire](https://open.spotify.com/track/6Bwoy1JlqL9aG1GxeLH8SA) | [Lilly Avelin](https://open.spotify.com/artist/4qDpZVenSxs2xv1SN590wb) | [Crossfire](https://open.spotify.com/album/6qltTYbGBeAsxmCOmksnpZ) | 3:19 |
-| 3 | [You always liked me better when i was stoned](https://open.spotify.com/track/31Zd47aEZP29ZoGQkp45VN) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [You always liked me better when i was stoned](https://open.spotify.com/album/4JUnK6tzlRvi07mUSxN8hH) | 3:09 |
+| 3 | [You Always Liked Me Better When I Was Stoned](https://open.spotify.com/track/31Zd47aEZP29ZoGQkp45VN) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [You Always Liked Me Better When I Was Stoned](https://open.spotify.com/album/4JUnK6tzlRvi07mUSxN8hH) | 3:09 |
 | 4 | [Hometown](https://open.spotify.com/track/0DB1CP2brTqH6L05BdezWu) | [Geezerbomb](https://open.spotify.com/artist/7cPlO6Ai5O8yDvqntDK7PF), [Clayton](https://open.spotify.com/artist/2B9eNNfeX4u6TwMtDjS00L) | [Hometown](https://open.spotify.com/album/5UpZ5qn2lyHg8eHlPJfO9m) | 2:31 |
 | 5 | [feels like home](https://open.spotify.com/track/6mEbQzPatJwotaLbYB6OLQ) | [Naliyah](https://open.spotify.com/artist/3DbI3fZ6rjnVdNMvIehZYo) | [feels like home](https://open.spotify.com/album/0zZbfPWiZz3v9UlFNFwUzl) | 2:40 |
 | 6 | [Morning Lights](https://open.spotify.com/track/61n0Dc1PqTb6aOB1VLIJqh) | [Thilda U](https://open.spotify.com/artist/47HqP5i5LLC1m4RpvF317R) | [Morning Lights](https://open.spotify.com/album/5KBbQUDxnGTL5ot1bdDRyZ) | 2:46 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 
 > This is Jhené Aiko\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,845 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,856 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 | 19 | [I\. Pink Toes](https://open.spotify.com/track/5rmmw20qm7TDplJvyQAhIn) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Because the Internet](https://open.spotify.com/album/5h0KYWMZIg8xT6eRGYkNMh) | 3:27 |
 | 20 | [On The Way \(feat\. Mila J\)](https://open.spotify.com/track/423NhOTzoqgeaIJbrUzSoo) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:42 |
 | 21 | [W.A.Y.S.](https://open.spotify.com/track/7jjKsW39O1i8hKF31ShpV9) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Souled Out \(Deluxe\)](https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo) | 3:58 |
-| 22 | [BACKD00R \(feat\. Kendrick Lamar & Jhené Aiko\)](https://open.spotify.com/track/0rNgWFQJtfttOYIHfDOHCg) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 |
-| 23 | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/track/48KXAIruJ07kJVCWOGohMV) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/album/0NC1AcoK5y2cBLwzej6tqE) | 3:01 |
+| 22 | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/track/48KXAIruJ07kJVCWOGohMV) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/album/0NC1AcoK5y2cBLwzej6tqE) | 3:01 |
+| 23 | [BACKD00R \(feat\. Kendrick Lamar & Jhené Aiko\)](https://open.spotify.com/track/0rNgWFQJtfttOYIHfDOHCg) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 |
 | 24 | [None Of Your Concern \(feat\. Big Sean\)](https://open.spotify.com/track/75MSZRbAbQuzfUV3Pefvut) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Chilombo](https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920) | 4:19 |
 | 25 | [Spotless Mind](https://open.spotify.com/track/5Xe4fAuhqxQRSjTWNZLSqJ) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Souled Out \(Deluxe\)](https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo) | 4:28 |
 | 26 | [you vs them](https://open.spotify.com/track/68s7fE0r719vZa7E1OqNaR) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 3:24 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 | 43 | [The Vapors](https://open.spotify.com/track/7mnJgJhtuBEMRNoERn1OOa) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 3:30 |
 | 44 | [calm & patient](https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [calm & patient](https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg) | 3:33 |
 | 45 | [When We Love](https://open.spotify.com/track/63LJjsJuqZgQyYibMXn9ku) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:22 |
-| 46 | [U Move, I Move \(feat\. Jhene Aiko\)](https://open.spotify.com/track/7wfDCDfhVe2tFxIkQEJp35) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 3:43 |
-| 47 | [In The Dark \(with Jhené Aiko\)](https://open.spotify.com/track/0zaoWwS8RpE3LSDdmkg8TC) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 2:41 |
+| 46 | [In The Dark \(with Jhené Aiko\)](https://open.spotify.com/track/0zaoWwS8RpE3LSDdmkg8TC) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 2:41 |
+| 47 | [U Move, I Move \(feat\. Jhene Aiko\)](https://open.spotify.com/track/7wfDCDfhVe2tFxIkQEJp35) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 3:43 |
 | 48 | [My Type \(feat\. City Girls & Jhené Aiko\) \- Remix](https://open.spotify.com/track/5LTdRSQOg63EazLbKZbWn2) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [My Type \(feat\. City Girls & Jhené Aiko\) \[Remix\]](https://open.spotify.com/album/3zA4avOuepGbVtebFZzAz5) | 2:52 |
 | 49 | [Break](https://open.spotify.com/track/6o0jCyjCfxaFZOSSg9SHir) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Break](https://open.spotify.com/album/6qNRepMSmbxpQzW5d939Px) | 3:16 |
 | 50 | [First Fuck](https://open.spotify.com/track/1u4orOe6gYxeE9xKpv11Qi) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [First Fuck](https://open.spotify.com/album/6Fq2zZBisHn3e2I7VHzVuf) | 3:25 |
 
-Snapshot ID: `aZ47gAAAAACePKIRcVxLbtduOhv5i8J9`
+Snapshot ID: `aZ+NAAAAAAAq9qh0rC79tw5v75Cm8UN2`

@@ -4,7 +4,7 @@
 
 > La playlist qui fait du bien ☀️
 
-453 songs - 1 day 0 hr 53 min
+454 songs - 1 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,6 +360,7 @@
 | [Sky Queen \- Moonlight](https://open.spotify.com/track/0XaXfflU3WoH70mUlUw32y) | [Rose Rose](https://open.spotify.com/artist/7m5YHkCbSEVutUThNF5Lc9) | [Eye to Eye Remixes](https://open.spotify.com/album/1woPoKpHx3ShKyTBAM2GSw) | 3:56 | 2025-03-27 | 2025-07-04 |
 | [Slip Away](https://open.spotify.com/track/0B9QFGFixYDCLKzPmN45KV) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Second Guess](https://open.spotify.com/album/45uB4wf1JEzNmD7QZd6FAi) | 2:12 | 2024-05-30 | 2024-09-20 |
 | [Slow Song \(with Dragonette\)](https://open.spotify.com/track/6zTbYrkYJSiNOw6jL7nM5H) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [HISTORY](https://open.spotify.com/album/6IwONZNPHt81ip42NboklH) | 4:13 | 2024-06-06 | 2024-10-11 |
+| [Slow Tonight](https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Slow Tonight](https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc) | 3:12 | 2026-02-26 |  |
 | [Slowdown](https://open.spotify.com/track/3olBzBt2hQTUz8mgbfQJ6Q) | [Superjava](https://open.spotify.com/artist/2oiYIcyuXbGsKC0PJUCrGp) | [Get Sick Get Better](https://open.spotify.com/album/2vgmK0FxvLfrDOMazgGWbo) | 3:33 | 2024-09-19 | 2025-01-31 |
 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2025-09-25 | 2026-02-06 |
 | [Sober](https://open.spotify.com/track/0MaRZUe5QjY56E1pfY3hFY) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Sober](https://open.spotify.com/album/7JKGPSP7UIjxPWWo9KuqMK) | 2:42 | 2024-05-02 | 2024-09-20 |
@@ -431,7 +432,7 @@
 | [Under Water / In Air](https://open.spotify.com/track/0zDptnFR2ADwjapoENeSzF) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Under Water / In Air](https://open.spotify.com/album/3XvwFrw03TCLjWLeBonhDy) | 3:09 | 2024-02-01 | 2024-04-19 |
 | [Unoriginal](https://open.spotify.com/track/0k4qLmMUs7HOvGYtkljECk) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Unoriginal / Black\-Eyed Susan Climb](https://open.spotify.com/album/6G8lUZ22qQTBDsV5EKN4MO) | 2:58 | 2025-11-06 |  |
 | [Venus](https://open.spotify.com/track/0XVfjgNXQN5TFZM5tODTSk) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Rock Machine](https://open.spotify.com/album/0DmfmHvNTUhaCXKY3JlceI) | 3:02 | 2024-10-10 | 2025-01-10 |
-| [viens on part](https://open.spotify.com/track/0Jur8kJXfTdBwhJoNMEGgb) | [lili](https://open.spotify.com/artist/3CKIyHaaQL4vE7BQxvck9e) | [viens on part](https://open.spotify.com/album/7xSHTYnwyFVUONUoKILwgp) | 2:45 | 2025-10-16 |  |
+| [viens on part](https://open.spotify.com/track/0Jur8kJXfTdBwhJoNMEGgb) | [lili](https://open.spotify.com/artist/3CKIyHaaQL4vE7BQxvck9e) | [viens on part](https://open.spotify.com/album/7xSHTYnwyFVUONUoKILwgp) | 2:45 | 2025-10-16 | 2026-02-28 |
 | [Viens on prend le temps](https://open.spotify.com/track/4DzyOw0ACdOdOqzh6suSWj) | [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Viens on prend le temps](https://open.spotify.com/album/7q3GG7E7Lf3Dlvk5XZ9MYA) | 2:56 | 2024-07-18 | 2024-09-13 |
 | [Voyage en Italie \- Rework By nit](https://open.spotify.com/track/4Y2DyBlShSiG4B1CzQlrAl) | [Lilicub](https://open.spotify.com/artist/4qb1iMTG9N0RulBWuV621J), [nit](https://open.spotify.com/artist/40HtWrk52wYoKa7OvTded8) | [Voyage en Italie \(Rework By nit\)](https://open.spotify.com/album/5BFjNMhtTL91SH4VnVpfLA) | 3:30 | 2025-05-15 | 2025-10-03 |
 | [Wait \- Chromeo Remix](https://open.spotify.com/track/0eayB5jay6m21D816D7jF4) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Wait \(Chromeo Remix\)](https://open.spotify.com/album/5OI8zfqy2WwWN4OnfPVXak) | 4:19 | 2024-01-04 | 2024-04-19 |

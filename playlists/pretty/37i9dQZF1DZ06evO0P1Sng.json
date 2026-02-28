@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAAA35S9BBX3m249FJdQv52J5",
+  "snapshot_id": "aZ+NAAAAAACpWR46TR/lF8ySVRJDIsea",
   "tracks": [
     {
       "added_at": null,
@@ -571,6 +571,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fresh Sesh #6",
+        "url": "https://open.spotify.com/album/1Er4MbWMJTAp6C8iGmBs3V"
+      },
+      "artists": [
+        {
+          "name": "Jenario Mc",
+          "url": "https://open.spotify.com/artist/7w1dLBV1NMYCUd1DvugYOa"
+        },
+        {
+          "name": "Abaddie",
+          "url": "https://open.spotify.com/artist/6SoMTtBXy46Mcv5o98xdv3"
+        },
+        {
+          "name": "Akascagrossa",
+          "url": "https://open.spotify.com/artist/4g75QCIGrJufszfx2cH7Qj"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Fresh Records",
+          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
+        }
+      ],
+      "duration_ms": 204857,
+      "name": "Fresh Sesh #6",
+      "url": "https://open.spotify.com/track/7giwNNsayyEN9gWmQHy8PQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amor Intenso",
         "url": "https://open.spotify.com/album/5WJvrQgYVkSaMkdrFpJuJe"
       },
@@ -631,6 +663,42 @@
       "duration_ms": 133193,
       "name": "Reverse",
       "url": "https://open.spotify.com/track/2EMDPzYHzlRHggmbsJMtbo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Efeito Borboleta",
+        "url": "https://open.spotify.com/album/7tq63FD0LgYijNNquT8qi4"
+      },
+      "artists": [
+        {
+          "name": "DRESSA",
+          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "C.Z",
+          "url": "https://open.spotify.com/artist/2h5aZ1sD7MzqComOWdLTPU"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "Sensa\u00e7\u00e3o de Poder",
+      "url": "https://open.spotify.com/track/0niVaC6szmiViGBePozys1"
     },
     {
       "added_at": null,
@@ -723,58 +791,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Efeito Borboleta",
-        "url": "https://open.spotify.com/album/7tq63FD0LgYijNNquT8qi4"
+        "name": "OgEMr",
+        "url": "https://open.spotify.com/album/57JDkF9dsWZhjgqQoo8yBQ"
       },
       "artists": [
         {
-          "name": "DRESSA",
-          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
         },
         {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        },
-        {
-          "name": "C.Z",
-          "url": "https://open.spotify.com/artist/2h5aZ1sD7MzqComOWdLTPU"
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
         },
         {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
         }
       ],
-      "duration_ms": 180923,
-      "name": "Sensa\u00e7\u00e3o de Poder",
-      "url": "https://open.spotify.com/track/0niVaC6szmiViGBePozys1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ZyZy",
-        "url": "https://open.spotify.com/album/63dILFwx1nksgdLf0wV2En"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "A.LBeats",
-          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
-        }
-      ],
-      "duration_ms": 149833,
-      "name": "ZyZy",
-      "url": "https://open.spotify.com/track/1Q46nAXdJcAObxxiaD34jt"
+      "duration_ms": 205576,
+      "name": "BRONCA",
+      "url": "https://open.spotify.com/track/385ADXAbI6RlUAxCilPh2o"
     },
     {
       "added_at": null,
@@ -803,58 +839,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "OgEMr",
-        "url": "https://open.spotify.com/album/57JDkF9dsWZhjgqQoo8yBQ"
+        "name": "ZyZy",
+        "url": "https://open.spotify.com/album/63dILFwx1nksgdLf0wV2En"
       },
       "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 205576,
-      "name": "BRONCA",
-      "url": "https://open.spotify.com/track/385ADXAbI6RlUAxCilPh2o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fresh Sesh #6",
-        "url": "https://open.spotify.com/album/1Er4MbWMJTAp6C8iGmBs3V"
-      },
-      "artists": [
-        {
-          "name": "Jenario Mc",
-          "url": "https://open.spotify.com/artist/7w1dLBV1NMYCUd1DvugYOa"
-        },
-        {
-          "name": "Abaddie",
-          "url": "https://open.spotify.com/artist/6SoMTtBXy46Mcv5o98xdv3"
-        },
-        {
-          "name": "Akascagrossa",
-          "url": "https://open.spotify.com/artist/4g75QCIGrJufszfx2cH7Qj"
-        },
         {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
         },
         {
-          "name": "Fresh Records",
-          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
+          "name": "A.LBeats",
+          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
         }
       ],
-      "duration_ms": 204857,
-      "name": "Fresh Sesh #6",
-      "url": "https://open.spotify.com/track/7giwNNsayyEN9gWmQHy8PQ"
+      "duration_ms": 149833,
+      "name": "ZyZy",
+      "url": "https://open.spotify.com/track/1Q46nAXdJcAObxxiaD34jt"
     },
     {
       "added_at": null,
@@ -919,6 +919,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jogo de Sedu\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7gp28RmHb7fQwEERchv7BX"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Jogo de Sedu\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5OymLbSXFuU9gn9bauZ0nx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poetisas no Topo 4",
         "url": "https://open.spotify.com/album/3ysU9DYelUV6ML80xGMki9"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 414703,
       "name": "Poetisas no Topo 4",
       "url": "https://open.spotify.com/track/5eAsjTMGdKEUgNhRJUc9YU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jogo de Sedu\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7gp28RmHb7fQwEERchv7BX"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Jogo de Sedu\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5OymLbSXFuU9gn9bauZ0nx"
     },
     {
       "added_at": null,
@@ -1051,30 +1051,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FZND DNV",
-        "url": "https://open.spotify.com/album/3S3VnaT3xvdGP0srKVt8v5"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "H4lfmeasures",
-          "url": "https://open.spotify.com/artist/1EihkUZJcXOwXN4tedcfxd"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "FZND DNV",
-      "url": "https://open.spotify.com/track/5dGixeOdNWTMXvmIu64DRg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Milhas",
         "url": "https://open.spotify.com/album/0cfOwK11Z4y0J0NbtkRbUW"
       },
@@ -1099,6 +1075,30 @@
       "duration_ms": 163720,
       "name": "Milhas",
       "url": "https://open.spotify.com/track/7oUSiJU3pp2m54aFXwCP9q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FZND DNV",
+        "url": "https://open.spotify.com/album/3S3VnaT3xvdGP0srKVt8v5"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "H4lfmeasures",
+          "url": "https://open.spotify.com/artist/1EihkUZJcXOwXN4tedcfxd"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "FZND DNV",
+      "url": "https://open.spotify.com/track/5dGixeOdNWTMXvmIu64DRg"
     },
     {
       "added_at": null,
@@ -1335,34 +1335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "V\u00cdBORA",
-        "url": "https://open.spotify.com/album/07ZvorgEhaclWT0lAbUucU"
-      },
-      "artists": [
-        {
-          "name": "funBABE",
-          "url": "https://open.spotify.com/artist/7BDrGAjK6k6TyxEKxRuHSl"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        },
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 205717,
-      "name": "V\u00cdBORA",
-      "url": "https://open.spotify.com/track/7JHzRVeIdtiCkLu91ZQ2IK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e1 Influ\u00eancia",
         "url": "https://open.spotify.com/album/1enqkS1DrDducYiQkuYJWw"
       },
@@ -1387,6 +1359,34 @@
       "duration_ms": 177253,
       "name": "As Ruas Sabem Meu Nome",
       "url": "https://open.spotify.com/track/7KlGZR52HMdpzPihpaMTMl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "V\u00cdBORA",
+        "url": "https://open.spotify.com/album/07ZvorgEhaclWT0lAbUucU"
+      },
+      "artists": [
+        {
+          "name": "funBABE",
+          "url": "https://open.spotify.com/artist/7BDrGAjK6k6TyxEKxRuHSl"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        },
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 205717,
+      "name": "V\u00cdBORA",
+      "url": "https://open.spotify.com/track/7JHzRVeIdtiCkLu91ZQ2IK"
     },
     {
       "added_at": null,

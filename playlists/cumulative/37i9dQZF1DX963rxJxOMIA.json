@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "Fino y elegante, como Aria Vega y Ryan Castro. ",
+  "description": "Fino y elegante, como J Balvin y Ryan Castro. ",
   "name": "FINO",
   "tracks": [
     {
@@ -2216,6 +2216,24 @@
       "duration_ms": 182000,
       "name": "El Mensaje",
       "url": "https://open.spotify.com/track/2KixbV3oLBNrQP2cXwrAC4"
+    },
+    {
+      "album": {
+        "name": "El Peor Hombre Del Mundo",
+        "url": "https://open.spotify.com/album/3oh3NRybUjkGKdKEcYqHe3"
+      },
+      "artists": [
+        {
+          "name": "GeezyDee",
+          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140400,
+      "name": "El Peor Hombre Del Mundo",
+      "url": "https://open.spotify.com/track/0TBFzXKWtoF7Lwh0LKFt8f"
     },
     {
       "album": {
@@ -5379,6 +5397,28 @@
     },
     {
       "album": {
+        "name": "PASI\u00d3N Y SEXO",
+        "url": "https://open.spotify.com/album/3rBYLiBQUm7DfNsTGoNSni"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213919,
+      "name": "PASI\u00d3N Y SEXO",
+      "url": "https://open.spotify.com/track/4pjkZyNZnOJEPpBmzOqTC2"
+    },
+    {
+      "album": {
         "name": "Perfecci\u00f3n",
         "url": "https://open.spotify.com/album/6TAshkaMGXhmB7mdJfEwqd"
       },
@@ -7128,6 +7168,32 @@
       "duration_ms": 384000,
       "name": "Todos Mienten",
       "url": "https://open.spotify.com/track/5d5OZU83S7zk9tywpKXU7H"
+    },
+    {
+      "album": {
+        "name": "Tonto",
+        "url": "https://open.spotify.com/album/2O4uIDxW5yiPcPiGFag99v"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140816,
+      "name": "Tonto",
+      "url": "https://open.spotify.com/track/7mU1fei7P9h4mpjP2Otdw5"
     },
     {
       "album": {

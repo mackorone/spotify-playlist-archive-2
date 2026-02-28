@@ -396,7 +396,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 211653,
       "name": "Apple Of My Eye",
       "url": "https://open.spotify.com/track/5sCqIIOt4sfiPdi0tScrER"
@@ -2086,6 +2086,24 @@
       "duration_ms": 265454,
       "name": "Fire",
       "url": "https://open.spotify.com/track/02xvpUN3o4BegUDrfqv5ao"
+    },
+    {
+      "album": {
+        "name": "Flair",
+        "url": "https://open.spotify.com/album/3XblzHRdDhDp2JBYLaDeXU"
+      },
+      "artists": [
+        {
+          "name": "Julian Wassermann",
+          "url": "https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232080,
+      "name": "Flair",
+      "url": "https://open.spotify.com/track/4JehnCDNmDN5sPjdstrdKI"
     },
     {
       "album": {

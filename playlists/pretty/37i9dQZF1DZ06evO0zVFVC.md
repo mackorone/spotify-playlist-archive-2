@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zVFVC.md) - [plain]
 
 > This is Parkway Drive\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,550 likes - 47 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,559 likes - 47 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zVFVC.md) - [plain]
 | 12 | [Shadow Boxing](https://open.spotify.com/track/0IjgnngXXRb1adm4kYVeB2) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 3:50 |
 | 13 | [Bottom Feeder](https://open.spotify.com/track/6jQu1YuisnFu36Sof5wjym) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire](https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D) | 4:20 |
 | 14 | [Soul Bleach](https://open.spotify.com/track/3kRGiGpjCFS7CtEBSfHNH0) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 3:31 |
-| 15 | [Romance Is Dead](https://open.spotify.com/track/6Q9XnZPl7qbvvYV3UBz6bP) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 5:17 |
+| 15 | [Sleepwalker](https://open.spotify.com/track/2XZP7EIjlD75VwYcHNePYj) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Deep Blue](https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA) | 4:01 |
 | 16 | [Chronos](https://open.spotify.com/track/4oYNIBkL3n5SRR99kfGV5Z) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 6:20 |
-| 17 | [Sleepwalker](https://open.spotify.com/track/2XZP7EIjlD75VwYcHNePYj) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Deep Blue](https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA) | 4:01 |
+| 17 | [Romance Is Dead](https://open.spotify.com/track/6Q9XnZPl7qbvvYV3UBz6bP) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 5:17 |
 | 18 | [Ground Zero](https://open.spotify.com/track/04xV6DzDzE7TgWQKBGaC5E) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 4:09 |
 | 19 | [Dark Days](https://open.spotify.com/track/18Hju2cdvKh07eBmE4Sug5) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Atlas](https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP) | 4:05 |
 | 20 | [Absolute Power](https://open.spotify.com/track/3PBO2IOcxzIdDbpDwygejB) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 3:42 |
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zVFVC.md) - [plain]
 | 38 | [Swing](https://open.spotify.com/track/7EuOA3u04bWOvNw6RZQZy7) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Atlas](https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP) | 3:31 |
 | 39 | [Unrest](https://open.spotify.com/track/79e7Mpm2SLGmlxpGgjoWKr) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Deep Blue](https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA) | 2:19 |
 | 40 | [Into the Dark](https://open.spotify.com/track/46ZYSOvGGQRFC5cbEHUNKi) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire \(Deluxe Edition\)](https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr) | 3:30 |
-| 41 | [Anasasis \(Xenophontis\)](https://open.spotify.com/track/7h43QeYBcQIWb2OFcspoPb) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 3:31 |
+| 41 | [Smoke 'Em If You Got 'Em](https://open.spotify.com/track/3vbplXokNSSglwXOyZtnY5) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 3:40 |
 | 42 | [Dead Man's Chest](https://open.spotify.com/track/3fMvYJwGFEOKLi7EMrY8MW) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo), [No Apologies](https://open.spotify.com/artist/4puLBE4XPuXZBpF6lZmcxt) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:21 |
 | 43 | [Dream Run](https://open.spotify.com/track/5TeolAk3EbSPxafusAbL3S) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Atlas](https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP) | 4:08 |
-| 44 | [Smoke 'Em If You Got 'Em](https://open.spotify.com/track/3vbplXokNSSglwXOyZtnY5) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 3:40 |
+| 44 | [Anasasis \(Xenophontis\)](https://open.spotify.com/track/7h43QeYBcQIWb2OFcspoPb) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 3:31 |
 | 45 | [Old Ghost / New Regrets](https://open.spotify.com/track/0sSweTCEPskCfVx1hmiGiw) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Atlas](https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP) | 2:49 |
 | 46 | [Pandora](https://open.spotify.com/track/0DvT1fJmgN0pWA7R7AlGAf) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 3:58 |
 | 47 | [Mutiny](https://open.spotify.com/track/0JhU5780ClX6njQAN21bP9) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 3:13 |
 
-Snapshot ID: `aZ47gAAAAABUzO+GCzyd+eCxKtri3qro`
+Snapshot ID: `aZ+NAAAAAABH/EB0T8O62RLkTtILDFxt`

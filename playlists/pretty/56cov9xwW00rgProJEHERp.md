@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 
 > Tunes from your favourite coffee shop.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,529 likes - 101 songs - 5 hr 44 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,529 likes - 107 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,5 +109,11 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 | 99 | [Closing In](https://open.spotify.com/track/0zOMy6GcTK1CWltATkKTU1) | [Ray Bull](https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu) | [Closing In](https://open.spotify.com/album/1royFvTqc7dMBe0vFRobGX) | 4:28 |
 | 100 | [Like The Rain](https://open.spotify.com/track/0qBoobvEvFNnbCzvgtHjM8) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Love Again](https://open.spotify.com/album/55GVOmy6g6oRXIuUklMxnS) | 3:07 |
 | 101 | [No Te Vayas Sin Saber](https://open.spotify.com/track/0jRNilRcXzeH5ydiE4n3kh) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [No Te Vayas Sin Saber](https://open.spotify.com/album/4u4wHXWWNBdwfjHrd3MSoU) | 3:44 |
+| 102 | [How I Get](https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [How I Get](https://open.spotify.com/album/70NOPNFs2y4lZMrowJzPuY) | 3:39 |
+| 103 | [Slow Tonight](https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Slow Tonight](https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc) | 3:12 |
+| 104 | [cosmic wink](https://open.spotify.com/track/0DwSDivYx1TTl5m3GsyKzK) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [Cosmic Wink](https://open.spotify.com/album/4FBsBCEPnDE9kRfyj3GteE) | 2:52 |
+| 105 | [mariah](https://open.spotify.com/track/6hNqL8ihYM8NuJNBWPPu9M) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [songs i couldn't forget](https://open.spotify.com/album/7fMoS9P6G3ULbORP52stef) | 2:48 |
+| 106 | [Terrified](https://open.spotify.com/track/1xAwZre22A8PJNoR19BKES) | [Kerr Mercer](https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x) | [Terrified](https://open.spotify.com/album/0htdK0MDhpdcLa4Q0NW5OQ) | 3:02 |
+| 107 | [the acrobat \(feat\. Lori McKenna\)](https://open.spotify.com/track/6Q3lIX5uEqiTxt2cwvyl0R) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [the acrobat \(feat\. Lori McKenna\)](https://open.spotify.com/album/3n4Sz8AuTYmtgbPA58X9MK) | 3:54 |
 
-Snapshot ID: `AAAWongRovqtN+Arm08Pt8YlSOLBFK50`
+Snapshot ID: `AAAWqHOZFYvMaVsQ/sMWWsO7PJbVUsEZ`

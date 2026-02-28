@@ -541,6 +541,24 @@
     },
     {
       "album": {
+        "name": "O Maior Trof\u00e9u (Ao Vivo)",
+        "url": "https://open.spotify.com/album/01ZUb4FtrUZH390oHfyORi"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396173,
+      "name": "Maranata - (Abertura) [Ao Vivo]",
+      "url": "https://open.spotify.com/track/7E0RMYUpQp0gJfUUmS2EQC"
+    },
+    {
+      "album": {
         "name": "Me Leva",
         "url": "https://open.spotify.com/album/1uaJOnqo8tpkdm4ZZrHbfN"
       },

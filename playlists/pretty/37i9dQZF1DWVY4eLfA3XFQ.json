@@ -1,13 +1,29 @@
 {
-  "description": "50% techno, 50% house \ud83d\udca5 Tech house operators, featuring HILLS & WELKER",
-  "num_followers": 702123,
+  "description": "50% techno, 50% house \ud83d\udde3\ufe0f Tech house operators, featuring Biscits",
+  "num_followers": 702159,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB8OyIarG4u3H99m7QAFTikF/REO",
+  "snapshot_id": "AAAAAPkg0EVTDN6MEG/9Hwtnrko+plzb",
   "tracks": [
+    {
+      "added_at": "2026-02-27 05:00:49",
+      "album": {
+        "name": "BLAH BLAH BLAH",
+        "url": "https://open.spotify.com/album/0h0u5Sep1GRSZBslUBeneY"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 187727,
+      "name": "BLAH BLAH BLAH",
+      "url": "https://open.spotify.com/track/2ZVQo7aRQPW9LMi6CNdiRt"
+    },
     {
       "added_at": "2026-02-20 05:00:49",
       "album": {
@@ -29,24 +45,20 @@
       "url": "https://open.spotify.com/track/468PuGB2Aii62sRbKupxD9"
     },
     {
-      "added_at": "2026-02-13 05:00:36",
+      "added_at": "2026-02-20 23:36:04",
       "album": {
-        "name": "One More (feat. Ad-Apt)",
-        "url": "https://open.spotify.com/album/09sFieX0gGevzK0TWq27uZ"
+        "name": "Waist Move",
+        "url": "https://open.spotify.com/album/36oIcP7sVGtn9utIHk1KZd"
       },
       "artists": [
         {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        },
-        {
-          "name": "Ad-Apt",
-          "url": "https://open.spotify.com/artist/4IjVi2fLGbBTpnxXfGoatD"
+          "name": "GREG 99",
+          "url": "https://open.spotify.com/artist/68ocQOFVB9wvLiC1C1WjYp"
         }
       ],
-      "duration_ms": 185859,
-      "name": "One More (feat. Ad-Apt)",
-      "url": "https://open.spotify.com/track/0uWeiBRbGr6tWnWcZcksqs"
+      "duration_ms": 201230,
+      "name": "Waist Move",
+      "url": "https://open.spotify.com/track/7HzUjBSzXpS3vsmz8VG7yW"
     },
     {
       "added_at": "2026-02-06 05:00:30",
@@ -63,22 +75,6 @@
       "duration_ms": 220465,
       "name": "neck",
       "url": "https://open.spotify.com/track/6KrrcOQiX7NQ4h038wKTUy"
-    },
-    {
-      "added_at": "2026-02-06 05:00:30",
-      "album": {
-        "name": "Out of My Mind EP",
-        "url": "https://open.spotify.com/album/6yNf1ZQOOcc9fJun9HY1xa"
-      },
-      "artists": [
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        }
-      ],
-      "duration_ms": 204737,
-      "name": "Out of My Mind",
-      "url": "https://open.spotify.com/track/2ejlG3wXw0kCqHEcvCVqsw"
     },
     {
       "added_at": "2026-02-20 05:00:49",
@@ -101,6 +97,78 @@
       "url": "https://open.spotify.com/track/00M5ara85QmCOTVGgOlbIw"
     },
     {
+      "added_at": "2026-02-27 05:00:49",
+      "album": {
+        "name": "Daddy's Got A Gun",
+        "url": "https://open.spotify.com/album/6rcpBsXMlpZ7hCGKFGlum0"
+      },
+      "artists": [
+        {
+          "name": "Allnight",
+          "url": "https://open.spotify.com/artist/0s8cHQ7qsebgXl9G5QvwOK"
+        },
+        {
+          "name": "L0-G",
+          "url": "https://open.spotify.com/artist/141tVOTrAyMU3VdELgMMqP"
+        }
+      ],
+      "duration_ms": 208372,
+      "name": "Daddy's Got A Gun",
+      "url": "https://open.spotify.com/track/5lTLXjOzbA9MAregavAu0U"
+    },
+    {
+      "added_at": "2026-02-13 05:00:36",
+      "album": {
+        "name": "One More (feat. Ad-Apt)",
+        "url": "https://open.spotify.com/album/09sFieX0gGevzK0TWq27uZ"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Ad-Apt",
+          "url": "https://open.spotify.com/artist/4IjVi2fLGbBTpnxXfGoatD"
+        }
+      ],
+      "duration_ms": 185859,
+      "name": "One More (feat. Ad-Apt)",
+      "url": "https://open.spotify.com/track/0uWeiBRbGr6tWnWcZcksqs"
+    },
+    {
+      "added_at": "2026-02-27 05:00:49",
+      "album": {
+        "name": "New Life EP",
+        "url": "https://open.spotify.com/album/611bYVvzs9h0SfeLW9nP9i"
+      },
+      "artists": [
+        {
+          "name": "Amal Nemer",
+          "url": "https://open.spotify.com/artist/4dJbkK58s6mj9RGElqCNhm"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "New Life",
+      "url": "https://open.spotify.com/track/2TnVXWgbqE4h5DSqeumZUk"
+    },
+    {
+      "added_at": "2026-02-06 05:00:30",
+      "album": {
+        "name": "Out of My Mind EP",
+        "url": "https://open.spotify.com/album/6yNf1ZQOOcc9fJun9HY1xa"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 204737,
+      "name": "Out of My Mind",
+      "url": "https://open.spotify.com/track/2ejlG3wXw0kCqHEcvCVqsw"
+    },
+    {
       "added_at": "2026-01-23 05:00:24",
       "album": {
         "name": "Addicted",
@@ -119,6 +187,38 @@
     {
       "added_at": "2026-02-06 05:00:30",
       "album": {
+        "name": "Keep Moving",
+        "url": "https://open.spotify.com/album/4uLCVPSgCWxrTP4nkVGXop"
+      },
+      "artists": [
+        {
+          "name": "MARTA",
+          "url": "https://open.spotify.com/artist/1Qa6ZBZZK7Z1Zx7MiDTJQS"
+        }
+      ],
+      "duration_ms": 163336,
+      "name": "Keep Moving",
+      "url": "https://open.spotify.com/track/5PVxaSGZSU8LCA3AhChMUJ"
+    },
+    {
+      "added_at": "2026-02-27 05:00:49",
+      "album": {
+        "name": "Feel The Energy",
+        "url": "https://open.spotify.com/album/1ILqYzC4VX3IW3eh7gudSM"
+      },
+      "artists": [
+        {
+          "name": "Caleb Dent",
+          "url": "https://open.spotify.com/artist/3V6IeJyXSj7ApMbvv1ZqWE"
+        }
+      ],
+      "duration_ms": 189864,
+      "name": "Feel The Energy",
+      "url": "https://open.spotify.com/track/6StJR1CqkEDGm8T8u4K8QD"
+    },
+    {
+      "added_at": "2026-02-06 05:00:30",
+      "album": {
         "name": "Make My Day",
         "url": "https://open.spotify.com/album/6cQSuvnkSmmgHve6ZiwR4f"
       },
@@ -131,22 +231,6 @@
       "duration_ms": 184615,
       "name": "Make My Day",
       "url": "https://open.spotify.com/track/0CakZhdFnhL3nHpHTeCZ7W"
-    },
-    {
-      "added_at": "2026-02-20 23:36:04",
-      "album": {
-        "name": "Just Like That EP",
-        "url": "https://open.spotify.com/album/6HyNLK9f5wrFumqmGfDeO3"
-      },
-      "artists": [
-        {
-          "name": "SOSA",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 203909,
-      "name": "Just Like That",
-      "url": "https://open.spotify.com/track/3eMVersNz99DsD0vvv3Bk6"
     },
     {
       "added_at": "2026-01-27 22:33:36",
@@ -165,24 +249,40 @@
       "url": "https://open.spotify.com/track/7nboixHsDQbJkHHjz72pIY"
     },
     {
-      "added_at": "2026-02-13 05:00:36",
+      "added_at": "2026-02-27 05:00:49",
       "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/0mBllIhbnCSKbRAxyLwKLa"
+        "name": "Ya Back",
+        "url": "https://open.spotify.com/album/5tN4QsmcqL9I6ee9sF92Zk"
       },
       "artists": [
         {
-          "name": "DJ Minx",
-          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+          "name": "GUI2IN",
+          "url": "https://open.spotify.com/artist/65U4lJ60s7ip5O2gXCxbql"
         },
         {
-          "name": "Kendra Foster",
-          "url": "https://open.spotify.com/artist/1RhQ4EIgZsMwOi8ioA7Rbi"
+          "name": "AJK",
+          "url": "https://open.spotify.com/artist/3DWDq9siRUkW6n9geTbtIm"
         }
       ],
-      "duration_ms": 172913,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/4puiLG0MKNAs6r9AsMrMEo"
+      "duration_ms": 155624,
+      "name": "Ya Back",
+      "url": "https://open.spotify.com/track/5vobiF0t2BT8YY3DR0Thzw"
+    },
+    {
+      "added_at": "2026-02-27 05:00:49",
+      "album": {
+        "name": "Slay To The Rhythm",
+        "url": "https://open.spotify.com/album/1LyVCQq6xaFZ2faLd7setq"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "duration_ms": 186279,
+      "name": "Slay To The Rhythm",
+      "url": "https://open.spotify.com/track/6l5L3mJwDFqNsizPysrCNo"
     },
     {
       "added_at": "2026-02-20 05:00:49",
@@ -203,22 +303,6 @@
       "duration_ms": 197648,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/5Qb6BbM9zkHXg3X7OCXzbb"
-    },
-    {
-      "added_at": "2026-02-06 05:00:30",
-      "album": {
-        "name": "Keep Moving",
-        "url": "https://open.spotify.com/album/4uLCVPSgCWxrTP4nkVGXop"
-      },
-      "artists": [
-        {
-          "name": "MARTA",
-          "url": "https://open.spotify.com/artist/1Qa6ZBZZK7Z1Zx7MiDTJQS"
-        }
-      ],
-      "duration_ms": 163336,
-      "name": "Keep Moving",
-      "url": "https://open.spotify.com/track/5PVxaSGZSU8LCA3AhChMUJ"
     },
     {
       "added_at": "2026-02-20 05:00:49",
@@ -281,6 +365,58 @@
       "url": "https://open.spotify.com/track/6uaReMYzSpw9NFReHxAs1J"
     },
     {
+      "added_at": "2026-02-27 05:00:49",
+      "album": {
+        "name": "Un Gatito Como T\u00f9",
+        "url": "https://open.spotify.com/album/4txcVqwQoeJCyg5Zmhn2vP"
+      },
+      "artists": [
+        {
+          "name": "Roberto Surace",
+          "url": "https://open.spotify.com/artist/4Peqx8CmkLiHHRCfm3HR7G"
+        }
+      ],
+      "duration_ms": 118156,
+      "name": "Un Gatito Como T\u00f9",
+      "url": "https://open.spotify.com/track/2GtT8ecViiBn1Nt6mLiL3l"
+    },
+    {
+      "added_at": "2026-02-13 05:00:36",
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/0mBllIhbnCSKbRAxyLwKLa"
+      },
+      "artists": [
+        {
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+        },
+        {
+          "name": "Kendra Foster",
+          "url": "https://open.spotify.com/artist/1RhQ4EIgZsMwOi8ioA7Rbi"
+        }
+      ],
+      "duration_ms": 172913,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/4puiLG0MKNAs6r9AsMrMEo"
+    },
+    {
+      "added_at": "2026-02-06 05:00:30",
+      "album": {
+        "name": "Touched EP",
+        "url": "https://open.spotify.com/album/3H8xdwZmthfEKUIFxb29Mu"
+      },
+      "artists": [
+        {
+          "name": "Louis Millne",
+          "url": "https://open.spotify.com/artist/6oVWsUniV39LusFsC7axlb"
+        }
+      ],
+      "duration_ms": 242790,
+      "name": "Touched",
+      "url": "https://open.spotify.com/track/4b48Y7GyIThzRvLbDxlEHa"
+    },
+    {
       "added_at": "2026-02-20 05:00:49",
       "album": {
         "name": "Headshake",
@@ -295,6 +431,22 @@
       "duration_ms": 150461,
       "name": "Headshake",
       "url": "https://open.spotify.com/track/5M3qjL1GfsAcpCqVcTELKm"
+    },
+    {
+      "added_at": "2026-02-27 05:00:49",
+      "album": {
+        "name": "Temptations",
+        "url": "https://open.spotify.com/album/08Jtl2HPxGwbOmqWjJYLch"
+      },
+      "artists": [
+        {
+          "name": "POLOVICH",
+          "url": "https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS"
+        }
+      ],
+      "duration_ms": 211384,
+      "name": "Satisfy",
+      "url": "https://open.spotify.com/track/4h2wwSIptcx7H4oSvAu1Cm"
     },
     {
       "added_at": "2026-01-16 05:00:33",
@@ -331,22 +483,6 @@
       "duration_ms": 145459,
       "name": "Sixth Sense",
       "url": "https://open.spotify.com/track/2e9k1CQ5sq1KwMQBuItk1j"
-    },
-    {
-      "added_at": "2026-02-06 05:00:30",
-      "album": {
-        "name": "Touched EP",
-        "url": "https://open.spotify.com/album/3H8xdwZmthfEKUIFxb29Mu"
-      },
-      "artists": [
-        {
-          "name": "Louis Millne",
-          "url": "https://open.spotify.com/artist/6oVWsUniV39LusFsC7axlb"
-        }
-      ],
-      "duration_ms": 242790,
-      "name": "Touched",
-      "url": "https://open.spotify.com/track/4b48Y7GyIThzRvLbDxlEHa"
     },
     {
       "added_at": "2026-02-20 05:00:49",
@@ -389,6 +525,22 @@
       "url": "https://open.spotify.com/track/4fX5TrTpbze93zEzkhDOBb"
     },
     {
+      "added_at": "2026-02-27 05:00:49",
+      "album": {
+        "name": "Concentrate",
+        "url": "https://open.spotify.com/album/4JtBI9QhOg87pEvmDv6mcR"
+      },
+      "artists": [
+        {
+          "name": "Airwolf Paradise",
+          "url": "https://open.spotify.com/artist/0c3I7EPZUCCG7khbUwQDjl"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "Concentrate",
+      "url": "https://open.spotify.com/track/0znwuXTREpr2ZpBVrfWgTS"
+    },
+    {
       "added_at": "2026-02-13 05:00:36",
       "album": {
         "name": "KILLA",
@@ -407,22 +559,6 @@
       "duration_ms": 150642,
       "name": "KILLA",
       "url": "https://open.spotify.com/track/4owC4efdLUPtVFqoubrmj3"
-    },
-    {
-      "added_at": "2026-02-20 23:36:04",
-      "album": {
-        "name": "Waist Move",
-        "url": "https://open.spotify.com/album/36oIcP7sVGtn9utIHk1KZd"
-      },
-      "artists": [
-        {
-          "name": "GREG 99",
-          "url": "https://open.spotify.com/artist/68ocQOFVB9wvLiC1C1WjYp"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Waist Move",
-      "url": "https://open.spotify.com/track/7HzUjBSzXpS3vsmz8VG7yW"
     },
     {
       "added_at": "2026-01-30 17:08:27",
@@ -459,6 +595,22 @@
       "duration_ms": 207429,
       "name": "Jaguar (Feat. Eloise Keeble)",
       "url": "https://open.spotify.com/track/0FlEMLNFhZ0UrF4hvnoWyY"
+    },
+    {
+      "added_at": "2026-02-27 05:00:49",
+      "album": {
+        "name": "Don't Say EP",
+        "url": "https://open.spotify.com/album/6PvlkxvNqNTvLTN8bk0M5G"
+      },
+      "artists": [
+        {
+          "name": "Louis Millne",
+          "url": "https://open.spotify.com/artist/6oVWsUniV39LusFsC7axlb"
+        }
+      ],
+      "duration_ms": 165937,
+      "name": "Don't Say",
+      "url": "https://open.spotify.com/track/7B4QZy1BktlY4svxAZtow2"
     },
     {
       "added_at": "2026-02-20 05:00:49",
@@ -603,6 +755,22 @@
       "duration_ms": 223636,
       "name": "Misbehave",
       "url": "https://open.spotify.com/track/1FRWjWnOf6NRePXN38tkQS"
+    },
+    {
+      "added_at": "2026-02-20 23:36:04",
+      "album": {
+        "name": "Just Like That EP",
+        "url": "https://open.spotify.com/album/6HyNLK9f5wrFumqmGfDeO3"
+      },
+      "artists": [
+        {
+          "name": "SOSA",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 203909,
+      "name": "Just Like That",
+      "url": "https://open.spotify.com/track/3eMVersNz99DsD0vvv3Bk6"
     },
     {
       "added_at": "2026-01-28 18:57:38",
@@ -837,22 +1005,6 @@
       "url": "https://open.spotify.com/track/6a9DlepajlUJPeQ2N6B40L"
     },
     {
-      "added_at": "2026-01-30 17:08:27",
-      "album": {
-        "name": "Funk Rider",
-        "url": "https://open.spotify.com/album/0Smedj3kQlLiwpIsiPSOh3"
-      },
-      "artists": [
-        {
-          "name": "Dale Howard",
-          "url": "https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ"
-        }
-      ],
-      "duration_ms": 200601,
-      "name": "Funk Rider",
-      "url": "https://open.spotify.com/track/6RZakjq46iwjOvcTrVryOz"
-    },
-    {
       "added_at": "2026-02-13 05:00:36",
       "album": {
         "name": "Goes Like This",
@@ -915,22 +1067,6 @@
       "duration_ms": 216190,
       "name": "Sound",
       "url": "https://open.spotify.com/track/5PG2W9pNtvcKvzfMyuBvq9"
-    },
-    {
-      "added_at": "2026-01-30 05:00:45",
-      "album": {
-        "name": "Get Naughty EP",
-        "url": "https://open.spotify.com/album/2ZQmNuozwtpj43xdiVZPEk"
-      },
-      "artists": [
-        {
-          "name": "Amedeo Picone",
-          "url": "https://open.spotify.com/artist/0ER3TzKAxD9g6i0AkATjg6"
-        }
-      ],
-      "duration_ms": 206406,
-      "name": "Get Naughty",
-      "url": "https://open.spotify.com/track/0w19QEhKkYUzKEMdebpZCV"
     },
     {
       "added_at": "2026-01-30 05:00:45",
@@ -1413,26 +1549,6 @@
       "url": "https://open.spotify.com/track/7KYjDFryau4JTAkl6nPiKw"
     },
     {
-      "added_at": "2026-01-30 05:00:45",
-      "album": {
-        "name": "Me Gustas (GUI2IN Remix)",
-        "url": "https://open.spotify.com/album/4pfzN5l5HUgynAAHix3dVd"
-      },
-      "artists": [
-        {
-          "name": "Mandragora",
-          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
-        },
-        {
-          "name": "GUI2IN",
-          "url": "https://open.spotify.com/artist/65U4lJ60s7ip5O2gXCxbql"
-        }
-      ],
-      "duration_ms": 177251,
-      "name": "Me Gustas (GUI2IN Remix)",
-      "url": "https://open.spotify.com/track/7a1qgu8eubGXq7MtMo1qei"
-    },
-    {
       "added_at": "2026-01-09 05:00:35",
       "album": {
         "name": "Get Down (feat. Traxman) [Gabss Remix]",
@@ -1501,22 +1617,6 @@
       "url": "https://open.spotify.com/track/4a1UArX9uL4trMks4wu8LZ"
     },
     {
-      "added_at": "2025-11-14 15:05:32",
-      "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/22RXS7iEQ1RYMfY97xlUhp"
-      },
-      "artists": [
-        {
-          "name": "FEZZO",
-          "url": "https://open.spotify.com/artist/2tEWqiatl7q8hW7xyMwrtB"
-        }
-      ],
-      "duration_ms": 138020,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/5zWgxdYxIQWfn3JY3gogbz"
-    },
-    {
       "added_at": "2025-12-29 01:19:31",
       "album": {
         "name": "Night Pulse",
@@ -1547,38 +1647,6 @@
       "duration_ms": 228188,
       "name": "Funk It",
       "url": "https://open.spotify.com/track/3yFovGJTvTbV1JlbWhvh1y"
-    },
-    {
-      "added_at": "2026-01-09 05:00:35",
-      "album": {
-        "name": "Hot Spot",
-        "url": "https://open.spotify.com/album/2LWDtH3hzP2zMvIqQ4dJU2"
-      },
-      "artists": [
-        {
-          "name": "Blank Sense",
-          "url": "https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Hot Spot",
-      "url": "https://open.spotify.com/track/0tKvByjw9n564lR0SjtBnx"
-    },
-    {
-      "added_at": "2026-01-23 05:00:24",
-      "album": {
-        "name": "Mambos",
-        "url": "https://open.spotify.com/album/4HikS1roRtAhmCrFlSrvpM"
-      },
-      "artists": [
-        {
-          "name": "LIGHTLEAK",
-          "url": "https://open.spotify.com/artist/1gU6WyJYdljeam0N3ZpgOC"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Mambos",
-      "url": "https://open.spotify.com/track/3gFVvoIXxZkvCd8JhyovgY"
     },
     {
       "added_at": "2026-01-16 05:00:33",
@@ -1925,30 +1993,6 @@
       "url": "https://open.spotify.com/track/0sPFIFlnK5xAi86IOmlx35"
     },
     {
-      "added_at": "2025-11-21 05:00:30",
-      "album": {
-        "name": "Ecstasy (Take Your Shirts Off) (DJ Licious Remix)",
-        "url": "https://open.spotify.com/album/1FwIX5kmJMChTv4y18ukPa"
-      },
-      "artists": [
-        {
-          "name": "Johnny Vicious",
-          "url": "https://open.spotify.com/artist/0ElFqgRJ2ntCvvdWNyXUBh"
-        },
-        {
-          "name": "Lula",
-          "url": "https://open.spotify.com/artist/6LRf0MemUNpINQO47Fhe7W"
-        },
-        {
-          "name": "DJ Licious",
-          "url": "https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH"
-        }
-      ],
-      "duration_ms": 149204,
-      "name": "Ecstasy (Take Your Shirts Off) - DJ Licious Remix",
-      "url": "https://open.spotify.com/track/3qKz4gYsU8aOJXld0SPawR"
-    },
-    {
       "added_at": "2025-11-07 05:00:37",
       "album": {
         "name": "Dance Boo (feat. MoRuf)",
@@ -1969,22 +2013,6 @@
       "url": "https://open.spotify.com/track/4TpAyeQp2oObyDXoMGdZlQ"
     },
     {
-      "added_at": "2025-11-21 05:00:30",
-      "album": {
-        "name": "Satisfied",
-        "url": "https://open.spotify.com/album/6GcSYwy2vLagFVDZ5X7zWq"
-      },
-      "artists": [
-        {
-          "name": "JUNTARO",
-          "url": "https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/3CQ2QRDzwDsXOVfcgWv8fz"
-    },
-    {
       "added_at": "2025-10-21 14:06:27",
       "album": {
         "name": "Ruthless Kid",
@@ -1999,26 +2027,6 @@
       "duration_ms": 175748,
       "name": "Ruthless Kid",
       "url": "https://open.spotify.com/track/2O0RXTQwseXmdY7IpjBBIt"
-    },
-    {
-      "added_at": "2025-11-21 05:00:30",
-      "album": {
-        "name": "Dance To The Rhythm",
-        "url": "https://open.spotify.com/album/5urXWnaQEuVTbQMUiu3mM7"
-      },
-      "artists": [
-        {
-          "name": "Wade",
-          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
-        },
-        {
-          "name": "KENZ",
-          "url": "https://open.spotify.com/artist/4hG14VdUeZMYHmKwXjGv2L"
-        }
-      ],
-      "duration_ms": 217557,
-      "name": "Dance To The Rhythm",
-      "url": "https://open.spotify.com/track/4qBHNAseMi3ZQEmAf63Oly"
     },
     {
       "added_at": "2025-09-26 04:00:25",
@@ -2187,22 +2195,6 @@
       "duration_ms": 165000,
       "name": "Space Pump (Space Jam)",
       "url": "https://open.spotify.com/track/4vqZk6EL4i4lSYHMViNnuV"
-    },
-    {
-      "added_at": "2025-09-12 04:00:18",
-      "album": {
-        "name": "Cry (Just A Little)",
-        "url": "https://open.spotify.com/album/3XnwQ88D5UqWNYXpRQw5ji"
-      },
-      "artists": [
-        {
-          "name": "HILLS",
-          "url": "https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB"
-        }
-      ],
-      "duration_ms": 163269,
-      "name": "Cry (Just A Little)",
-      "url": "https://open.spotify.com/track/5aLTtkq9oHUCCVO96gyNQN"
     },
     {
       "added_at": "2025-08-08 04:01:30",

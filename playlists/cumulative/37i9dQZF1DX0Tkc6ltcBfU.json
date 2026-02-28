@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest out the South. Cover: Lil Poppa \ud83d\udd4a\ufe0f",
+  "description": "The hottest out the South. Cover: J. Cole",
   "name": "No Cap",
   "tracks": [
     {
@@ -652,6 +652,44 @@
       "duration_ms": 132310,
       "name": "2Tone (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/7IOrMgzGar3mbtQKNdlbYz"
+    },
+    {
+      "album": {
+        "name": "It's Us Vol. 2",
+        "url": "https://open.spotify.com/album/7rzXMS4cXlXe58t1AvPDDS"
+      },
+      "artists": [
+        {
+          "name": "Concrete Boys",
+          "url": "https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Draft Day",
+          "url": "https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L"
+        },
+        {
+          "name": "Camo!",
+          "url": "https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b"
+        },
+        {
+          "name": "Honest",
+          "url": "https://open.spotify.com/artist/0UVv3tdAVAmHXHhhMOQyhX"
+        },
+        {
+          "name": "Dc2trill",
+          "url": "https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215681,
+      "name": "3 SYRUPS (feat. Lil Yachty, Camo!, Dc2trill, Draft Day, Honest)",
+      "url": "https://open.spotify.com/track/0Rb0e3DPB2PluJQflNDAEd"
     },
     {
       "album": {
@@ -1428,7 +1466,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 88582,
       "name": "6-7",
       "url": "https://open.spotify.com/track/4yeaLItxF75bCI5KraoQcg"
@@ -1462,6 +1500,36 @@
       "duration_ms": 177142,
       "name": "600 Degrees",
       "url": "https://open.spotify.com/track/197BDJNJEEEO3GjoDe9eIN"
+    },
+    {
+      "album": {
+        "name": "6WA",
+        "url": "https://open.spotify.com/album/23YB6arrlcMYHpeMT72TaO"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
+        },
+        {
+          "name": "MurdaGang PB",
+          "url": "https://open.spotify.com/artist/5vdwkO2Let6z32D2Oa9MEr"
+        },
+        {
+          "name": "Yung Hood",
+          "url": "https://open.spotify.com/artist/3OTNDa1tTW4HSiGfxZuJkI"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128573,
+      "name": "6WA",
+      "url": "https://open.spotify.com/track/6fODAgyTJdN7ATeJOP81dj"
     },
     {
       "album": {
@@ -3410,10 +3478,32 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 140986,
       "name": "B.B.B.",
       "url": "https://open.spotify.com/track/34cHt7RO0My6Nsi4mvj0ez"
+    },
+    {
+      "album": {
+        "name": "B.B.B.",
+        "url": "https://open.spotify.com/album/3aS5keGWpo2QNDIGnL2Spd"
+      },
+      "artists": [
+        {
+          "name": "JUVENILE",
+          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140613,
+      "name": "B.B.B.",
+      "url": "https://open.spotify.com/track/2Vmb54sq94SOhDobcf4gxp"
     },
     {
       "album": {
@@ -6414,7 +6504,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 163636,
       "name": "Boat Remix",
       "url": "https://open.spotify.com/track/2HeqKWstr0XAYILHpRo5ra"
@@ -6604,6 +6694,24 @@
       "duration_ms": 138657,
       "name": "BOO",
       "url": "https://open.spotify.com/track/5z3lA9udc15kVQ4S4OcTsa"
+    },
+    {
+      "album": {
+        "name": "BOO",
+        "url": "https://open.spotify.com/album/03nGdB6ACTi1GJG0vZJO3n"
+      },
+      "artists": [
+        {
+          "name": "H3adband",
+          "url": "https://open.spotify.com/artist/3TvL95zdOZWkMbkvfJ8cCk"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138668,
+      "name": "BOO",
+      "url": "https://open.spotify.com/track/0092fZcbCidhWrmBQX4guf"
     },
     {
       "album": {
@@ -10972,6 +11080,24 @@
     {
       "album": {
         "name": "Dangerous",
+        "url": "https://open.spotify.com/album/2U5A3ty7PaoIEg1Br31jLz"
+      },
+      "artists": [
+        {
+          "name": "Hurricane Wisdom",
+          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/5b3QlErg4XqEe5hMaUXB0C"
+    },
+    {
+      "album": {
+        "name": "Dangerous",
         "url": "https://open.spotify.com/album/7i4elm5LPMGOawBkLaA8xA"
       },
       "artists": [
@@ -12372,7 +12498,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 181774,
       "name": "Do Not Disturb",
       "url": "https://open.spotify.com/track/7Mr9vYdF7jYbjl0DbpIfNZ"
@@ -12768,7 +12894,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 110000,
       "name": "Don\u2019t hide",
       "url": "https://open.spotify.com/track/6yJIO8264hq1hCbBLU0C0X"
@@ -13523,6 +13649,32 @@
     },
     {
       "album": {
+        "name": "Dumb Crasy Too",
+        "url": "https://open.spotify.com/album/3K3CJbTJTObDaB9UWmUrSS"
+      },
+      "artists": [
+        {
+          "name": "So Supa",
+          "url": "https://open.spotify.com/artist/6D6Uf2RTnvHkD64pUapryP"
+        },
+        {
+          "name": "Big Money Blitz",
+          "url": "https://open.spotify.com/artist/5u7vwAzFX2vW9KdLwpGOr9"
+        },
+        {
+          "name": "Tre Loaded",
+          "url": "https://open.spotify.com/artist/2IfOv1im8CNxZ6kFtob1e3"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120433,
+      "name": "Dumb Crasy Too",
+      "url": "https://open.spotify.com/track/2M6X6gDxzKvQSS3h7PyiAl"
+    },
+    {
+      "album": {
         "name": "Dumb wit it (get in dea) [Remix]",
         "url": "https://open.spotify.com/album/4B9ffC4jRpKIUG7R2cYKSE"
       },
@@ -14260,6 +14412,28 @@
       "duration_ms": 127058,
       "name": "Face Down",
       "url": "https://open.spotify.com/track/0DEjFljgDbPjkm5460EJnA"
+    },
+    {
+      "album": {
+        "name": "BE VERY AFRAID (Vol. 1)",
+        "url": "https://open.spotify.com/album/4K9r7DoXIz7ZsD1P6nsZz1"
+      },
+      "artists": [
+        {
+          "name": "CHASE B",
+          "url": "https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209639,
+      "name": "Facts",
+      "url": "https://open.spotify.com/track/0vqn83gxRRty97jHU2zhxp"
     },
     {
       "album": {
@@ -15576,6 +15750,24 @@
       "duration_ms": 148732,
       "name": "Flags To The Sky (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/34nGTjKinQV46a8C8T2HfY"
+    },
+    {
+      "album": {
+        "name": "FLAMMABLE",
+        "url": "https://open.spotify.com/album/5FS2IqrUicInbFJOS4bAHH"
+      },
+      "artists": [
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197551,
+      "name": "FLAMMABLE",
+      "url": "https://open.spotify.com/track/1d5sIc2QcHgSMYvGcnsLhe"
     },
     {
       "album": {
@@ -18912,7 +19104,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 186566,
       "name": "GUAPO",
       "url": "https://open.spotify.com/track/749Om40dkalc4mcUTmLZAK"
@@ -19302,7 +19494,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 144265,
       "name": "Handsome, Young & Paid",
       "url": "https://open.spotify.com/track/1UF1zg8o6ECx6ZGPFe0oh3"
@@ -20102,7 +20294,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 181165,
       "name": "Help Me",
       "url": "https://open.spotify.com/track/487JCvAXVblflZyDJn3fSp"
@@ -24486,7 +24678,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 99700,
       "name": "keep steady",
       "url": "https://open.spotify.com/track/2VOt88FoSGjSOuzLaeqz5k"
@@ -24882,6 +25074,24 @@
       "duration_ms": 214122,
       "name": "KO",
       "url": "https://open.spotify.com/track/2pAombGD2E4luR6lArQHCJ"
+    },
+    {
+      "album": {
+        "name": "Kobe",
+        "url": "https://open.spotify.com/album/5ZH6EQTpAVok9SbLGvN69U"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124268,
+      "name": "Kobe",
+      "url": "https://open.spotify.com/track/7Kw8y31KPpco4LBMckGfyn"
     },
     {
       "album": {
@@ -26904,7 +27114,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 175303,
       "name": "Love & War",
       "url": "https://open.spotify.com/track/6FbFmJgyXcL3hmdGK41aSi"
@@ -27806,7 +28016,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 206354,
       "name": "MAKETHEWORLDSTOP",
       "url": "https://open.spotify.com/track/4ggV52zphh9fwFm7EGtNOG"
@@ -28202,6 +28412,28 @@
       "duration_ms": 122553,
       "name": "Me & My",
       "url": "https://open.spotify.com/track/175Z9h8Ka6oi66zyS9ornE"
+    },
+    {
+      "album": {
+        "name": "big country",
+        "url": "https://open.spotify.com/album/7HkystmvAIsYWSHg68Uo0Y"
+      },
+      "artists": [
+        {
+          "name": "sosocamo",
+          "url": "https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd"
+        },
+        {
+          "name": "SoFaygo",
+          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149917,
+      "name": "me & you",
+      "url": "https://open.spotify.com/track/0XczPtF9mvVPqau0WUqJAT"
     },
     {
       "album": {
@@ -29389,6 +29621,24 @@
     },
     {
       "album": {
+        "name": "McKenzie 2.0",
+        "url": "https://open.spotify.com/album/0Jkbl6Acbfo87qL80QYJcu"
+      },
+      "artists": [
+        {
+          "name": "FattMack",
+          "url": "https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120666,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/0VMZb81qhvwWI4w3OVydSk"
+    },
+    {
+      "album": {
         "name": "Pup Pack: 3rd Shift",
         "url": "https://open.spotify.com/album/5hM25uBbtsquAlLGDmMWhb"
       },
@@ -30026,7 +30276,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 139810,
       "name": "My Boo",
       "url": "https://open.spotify.com/track/7wePrxULsFmxrynGvzftVT"
@@ -30420,6 +30670,24 @@
       "duration_ms": 129570,
       "name": "Neck of the Woods",
       "url": "https://open.spotify.com/track/7u1H2ggH2Q6VvFn1KBS6L2"
+    },
+    {
+      "album": {
+        "name": "Need That",
+        "url": "https://open.spotify.com/album/2zj7I1ZBHexwRudk0gXUXK"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179400,
+      "name": "Need That",
+      "url": "https://open.spotify.com/track/5Q4dKMJnW3TOOTuxyTTjDJ"
     },
     {
       "album": {
@@ -31633,6 +31901,24 @@
     },
     {
       "album": {
+        "name": "No Mileage",
+        "url": "https://open.spotify.com/album/0VjKpppUCarjzywISaeYXz"
+      },
+      "artists": [
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133683,
+      "name": "No Mileage",
+      "url": "https://open.spotify.com/track/5bu3osUhTayJQfo4J0MWAf"
+    },
+    {
+      "album": {
         "name": "No Mind",
         "url": "https://open.spotify.com/album/7whE3mVgEdIUitoZZgc7A2"
       },
@@ -31840,7 +32126,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 108936,
       "name": "NO SWEAT",
       "url": "https://open.spotify.com/track/6f6A5411wNShdb21MzAFXy"
@@ -32158,6 +32444,24 @@
       "duration_ms": 127441,
       "name": "Not My N*gga",
       "url": "https://open.spotify.com/track/6tL1V3GzJccYkas3w3f6QC"
+    },
+    {
+      "album": {
+        "name": "Not My Problem",
+        "url": "https://open.spotify.com/album/362lx6SRNrBhIQFs2VWWb9"
+      },
+      "artists": [
+        {
+          "name": "BunnaB",
+          "url": "https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98427,
+      "name": "Not My Problem",
+      "url": "https://open.spotify.com/track/4lQRGvv7tyVl3tBXz2Fbhl"
     },
     {
       "album": {
@@ -33456,6 +33760,44 @@
       "duration_ms": 144000,
       "name": "one of wun",
       "url": "https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36"
+    },
+    {
+      "album": {
+        "name": "It's Us Vol. 2",
+        "url": "https://open.spotify.com/album/7rzXMS4cXlXe58t1AvPDDS"
+      },
+      "artists": [
+        {
+          "name": "Concrete Boys",
+          "url": "https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Draft Day",
+          "url": "https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L"
+        },
+        {
+          "name": "Camo!",
+          "url": "https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b"
+        },
+        {
+          "name": "Dc2trill",
+          "url": "https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294633,
+      "name": "ONE TIME (feat. Lil Yachty, Camo!, Draft Day, Dc2trill, Veeze)",
+      "url": "https://open.spotify.com/track/32LTzUh3SodvOwfAuESWZF"
     },
     {
       "album": {
@@ -37979,6 +38321,24 @@
     },
     {
       "album": {
+        "name": "SW4GL0RD",
+        "url": "https://open.spotify.com/album/3R7smKm710OLsHyNWkNviz"
+      },
+      "artists": [
+        {
+          "name": "Kee Nola",
+          "url": "https://open.spotify.com/artist/4v5hbcPtrVfLlI011eQrER"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228676,
+      "name": "Ri0T",
+      "url": "https://open.spotify.com/track/5Rw4P3f2hGrtlMwd14cQkL"
+    },
+    {
+      "album": {
         "name": "Perfect Storm: Sorry 4 The Rain",
         "url": "https://open.spotify.com/album/4QMV0g9J5HS87XSvCxAf7i"
       },
@@ -39648,7 +40008,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 98624,
       "name": "SEEUMSAYIN",
       "url": "https://open.spotify.com/track/1L5kcJo9aJIjudbqoOyP5e"
@@ -41654,7 +42014,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 136708,
       "name": "Sorry Not Sorry",
       "url": "https://open.spotify.com/track/4lwfqyQXSDJ7kELpMErMih"
@@ -44460,7 +44820,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 145617,
       "name": "Tea Time",
       "url": "https://open.spotify.com/track/5Ot37i0Oaep5tpoUi6TnM9"
@@ -45910,7 +46270,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 162959,
       "name": "THUG ME LIKE DAT",
       "url": "https://open.spotify.com/track/5acobHPtkLe2oVrfDZuWBw"
@@ -49586,7 +49946,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 179313,
       "name": "What They Want",
       "url": "https://open.spotify.com/track/34VAyoWVAe3jaucafhMCLa"
@@ -50338,6 +50698,24 @@
       "duration_ms": 154283,
       "name": "Whole Nother League",
       "url": "https://open.spotify.com/track/42aR8AeISrUmz2g3uISrvb"
+    },
+    {
+      "album": {
+        "name": "Whole Thang",
+        "url": "https://open.spotify.com/album/0tDfmVyolVUEV68yiYtyO4"
+      },
+      "artists": [
+        {
+          "name": "Lebra Jolie",
+          "url": "https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199230,
+      "name": "Whole Thang",
+      "url": "https://open.spotify.com/track/4IttPmt52O0eS19zFgdgkg"
     },
     {
       "album": {
@@ -51954,7 +52332,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 248813,
       "name": "Yuck (feat. Ken Carson)",
       "url": "https://open.spotify.com/track/1gVbCsO7ekztVTRgyD0nq7"

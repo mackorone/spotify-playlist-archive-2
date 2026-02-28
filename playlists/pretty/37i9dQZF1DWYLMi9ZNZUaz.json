@@ -1,6 +1,6 @@
 {
-  "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: HIEUTHUHAI\n",
-  "num_followers": 118870,
+  "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: YC",
+  "num_followers": 118913,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2026-02-15 05:08:55",
       "album": {
+        "name": "Y\u00eau 5",
+        "url": "https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr"
+      },
+      "artists": [
+        {
+          "name": "Rhymastic",
+          "url": "https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Y\u00eau 5",
+      "url": "https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS"
+    },
+    {
+      "added_at": "2026-02-15 05:08:55",
+      "album": {
         "name": "C\u00f4ng Ty 4",
         "url": "https://open.spotify.com/album/0DJ4kSFK3kHAbkkwVHeGoO"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 254491,
       "name": "C\u00f4ng Ty 4",
       "url": "https://open.spotify.com/track/7p106V3HRaa0lCVL5oepMg"
-    },
-    {
-      "added_at": "2026-02-15 05:08:55",
-      "album": {
-        "name": "Y\u00eau 5",
-        "url": "https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr"
-      },
-      "artists": [
-        {
-          "name": "Rhymastic",
-          "url": "https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Y\u00eau 5",
-      "url": "https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS"
     },
     {
       "added_at": "2026-02-15 05:08:55",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-02-15 05:08:55",
       "album": {
-        "name": "99%",
-        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
-      },
-      "artists": [
-        {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
-        }
-      ],
-      "duration_ms": 194005,
-      "name": "Anh \u0110\u00e3 \u1ed4n H\u01a1n",
-      "url": "https://open.spotify.com/track/3YctJXK6kznnWl68TnYobN"
-    },
-    {
-      "added_at": "2026-02-15 05:08:55",
-      "album": {
         "name": "TETVOVEN",
         "url": "https://open.spotify.com/album/3jwSlUKUdfxcIuy3b2SCxc"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 197230,
       "name": "TETVOVEN",
       "url": "https://open.spotify.com/track/72ictTz6o0dusD2QpCn4bn"
+    },
+    {
+      "added_at": "2026-02-15 05:08:55",
+      "album": {
+        "name": "99%",
+        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
+      },
+      "artists": [
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        }
+      ],
+      "duration_ms": 194005,
+      "name": "Anh \u0110\u00e3 \u1ed4n H\u01a1n",
+      "url": "https://open.spotify.com/track/3YctJXK6kznnWl68TnYobN"
     },
     {
       "added_at": "2026-02-15 05:08:55",
@@ -763,26 +763,6 @@
     {
       "added_at": "2026-02-15 05:08:55",
       "album": {
-        "name": "HOP ON DA SHOW",
-        "url": "https://open.spotify.com/album/3YLqrwhIaMVzzvpuPG1dmb"
-      },
-      "artists": [
-        {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
-        },
-        {
-          "name": "Low G",
-          "url": "https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe"
-        }
-      ],
-      "duration_ms": 175876,
-      "name": "HOP ON DA SHOW",
-      "url": "https://open.spotify.com/track/0SLzsfxED15vyUccX4bCqo"
-    },
-    {
-      "added_at": "2026-02-15 05:08:55",
-      "album": {
         "name": "Panorama",
         "url": "https://open.spotify.com/album/3Qsp8mywrgRP9hZ9cHe0xH"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 205232,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/6gmvd9Lld9MiNR9r6I9eFE"
+    },
+    {
+      "added_at": "2026-02-15 05:08:55",
+      "album": {
+        "name": "HOP ON DA SHOW",
+        "url": "https://open.spotify.com/album/3YLqrwhIaMVzzvpuPG1dmb"
+      },
+      "artists": [
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        },
+        {
+          "name": "Low G",
+          "url": "https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe"
+        }
+      ],
+      "duration_ms": 175876,
+      "name": "HOP ON DA SHOW",
+      "url": "https://open.spotify.com/track/0SLzsfxED15vyUccX4bCqo"
     },
     {
       "added_at": "2026-02-15 05:08:55",

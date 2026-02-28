@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain]
 
 > this is your moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 807,458 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 807,480 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain]
 | 26 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 |
 | 27 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 |
 | 28 | [The View Between Villages](https://open.spotify.com/track/6PdWPdgPoVCT9WLFMVnhxx) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:35 |
-| 29 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 |
-| 30 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 |
+| 29 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 |
+| 30 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 |
 | 31 | [I Know The End](https://open.spotify.com/track/0pJW1Xw3aY4Eh6k5iuBkfI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 5:44 |
 | 32 | [Space Song](https://open.spotify.com/track/1ZgMsA55GIY7ICkQh5MILA) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/4SkZTSXdPpzTbf6C0m1UKv) | 5:20 |
 | 33 | [Bubble Gum](https://open.spotify.com/track/3zksbXteOCeSusJ5Xltr3t) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bubble Gum](https://open.spotify.com/album/4IlnBRDEsHcr9EWxmbgMC2) | 2:55 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain]
 | 45 | [Sometimes \(Backwood\)](https://open.spotify.com/track/1ElGmhauttS9p7LwmHG9uM) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sometimes \(Backwood\)](https://open.spotify.com/album/3hdw3AH6dkRpONWlJnotZn) | 2:33 |
 | 46 | [Your Best American Girl](https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 3:32 |
 | 47 | [As the World Caves In](https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [As the World Caves In](https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0) | 3:38 |
-| 48 | [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 |
-| 49 | [A&W](https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 7:13 |
+| 48 | [A&W](https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 7:13 |
+| 49 | [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 |
 | 50 | [Be My Mistake](https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:16 |
 | 51 | [Anthems For A Seventeen Year\-Old Girl \- From "I Saw the TV Glow"](https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Anthems For A Seventeen Year\-Old Girl \(From "I Saw the TV Glow"\)](https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT) | 3:32 |
 | 52 | [Night Shift](https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 6:31 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain]
 | 55 | [Lonesome Town](https://open.spotify.com/track/0SsYlkXxZ5vkWOTsKxMfMz) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Ricky Sings Again \(Expanded Edition / Remastered\)](https://open.spotify.com/album/30csxUzrzcgwuOT5QVmFmg) | 2:14 |
 | 56 | [La Lune](https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Writing of Blues and Yellows \(Deluxe Version\)](https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT) | 3:07 |
 | 57 | [Dear Reader](https://open.spotify.com/track/3QF5RsWzK1lCvf2o2cY65P) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 3:45 |
-| 58 | [Snow Angel](https://open.spotify.com/track/6skUuqrKMQIjjo75hWGAvQ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:35 |
-| 59 | [Jigsaw](https://open.spotify.com/track/6bOd4UM7FaQOZXR2MBzSPi) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 3:28 |
+| 58 | [Jigsaw](https://open.spotify.com/track/6bOd4UM7FaQOZXR2MBzSPi) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 3:28 |
+| 59 | [Snow Angel](https://open.spotify.com/track/6skUuqrKMQIjjo75hWGAvQ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:35 |
 | 60 | [Writer](https://open.spotify.com/track/50vKWUS6zLnd5cDhPSqwey) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:01 |
 | 61 | [Don’t get the deal](https://open.spotify.com/track/60aYO1uRqTkGltYtaMFPxy) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 3:40 |
 | 62 | [Agnes](https://open.spotify.com/track/6prvUr8l3t7x5GY7heQb5w) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 4:31 |

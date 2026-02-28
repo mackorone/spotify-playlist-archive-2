@@ -215,6 +215,24 @@
     },
     {
       "album": {
+        "name": "DEADLINE",
+        "url": "https://open.spotify.com/album/5EDiZm2nDfN10Uyr5XvQu8"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172992,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/2EgXIuwhwdnwc9Vj2P6ngA"
+    },
+    {
+      "album": {
         "name": "THE ALBUM",
         "url": "https://open.spotify.com/album/5jI79QM3CJiSELceqwVe78"
       },
@@ -620,6 +638,42 @@
       "duration_ms": 184155,
       "name": "FXCK UP THE WORLD (feat. Future)",
       "url": "https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt"
+    },
+    {
+      "album": {
+        "name": "DEADLINE",
+        "url": "https://open.spotify.com/album/5EDiZm2nDfN10Uyr5XvQu8"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187479,
+      "name": "Fxxxboy",
+      "url": "https://open.spotify.com/track/6C3aCtnqZGMij9FDWeDlQx"
+    },
+    {
+      "album": {
+        "name": "DEADLINE",
+        "url": "https://open.spotify.com/album/5EDiZm2nDfN10Uyr5XvQu8"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195402,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/0XanaXeMJJ4VdjWzwok7ZI"
     },
     {
       "album": {
@@ -1166,6 +1220,24 @@
       "duration_ms": 136627,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
+    },
+    {
+      "album": {
+        "name": "DEADLINE",
+        "url": "https://open.spotify.com/album/5EDiZm2nDfN10Uyr5XvQu8"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172323,
+      "name": "Me and my",
+      "url": "https://open.spotify.com/track/14ihgY3VH11Uy7zIcoSkP8"
     },
     {
       "album": {

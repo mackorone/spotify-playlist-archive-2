@@ -1,12 +1,12 @@
 {
   "description": "This is Louis Armstrong. The essential tracks, all in one playlist.",
-  "num_followers": 197040,
+  "num_followers": 197049,
   "original_name": "This Is Louis Armstrong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAAC5E9uqbJtkGn1LtiqzcApX",
+  "snapshot_id": "aZ+NAAAAAAAqJKgPInszWVTRtLSjTto2",
   "tracks": [
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What A Wonderful World",
-        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 165906,
-      "name": "Cabaret - Single Version",
-      "url": "https://open.spotify.com/track/77LwwnpmNJ4mU1yEzK0pf8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Great Reunion",
         "url": "https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 297640,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/3dtBmo7lvR8FVeWybUX7su"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 165906,
+      "name": "Cabaret - Single Version",
+      "url": "https://open.spotify.com/track/77LwwnpmNJ4mU1yEzK0pf8"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What A Wonderful World",
-        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 119026,
-      "name": "Give Me Your Kisses",
-      "url": "https://open.spotify.com/track/4yUtq7b6NX0zDGKUsgQIzG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Complete Louis Armstrong - Duke Ellington Sessions",
         "url": "https://open.spotify.com/album/0tDaldQZb0L4jsIbEJnNhF"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 240040,
       "name": "Mood Indigo",
       "url": "https://open.spotify.com/track/1EzGtQRzHlP3xNvzNalgvZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 119026,
+      "name": "Give Me Your Kisses",
+      "url": "https://open.spotify.com/track/4yUtq7b6NX0zDGKUsgQIzG"
     },
     {
       "added_at": null,
@@ -911,8 +911,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "What A Wonderful World",
-        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
+        "name": "Hello, Dolly! (Remastered)",
+        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
       },
       "artists": [
         {
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 198093,
-      "name": "The Home Fire",
-      "url": "https://open.spotify.com/track/0ctsFiWScfDEQqpH03tTrh"
+      "duration_ms": 133266,
+      "name": "I Still Get Jealous",
+      "url": "https://open.spotify.com/track/5OBriDrN0dLdVcPyuGS5m8"
     }
   ],
   "unique_name": "This Is Louis Armstrong",

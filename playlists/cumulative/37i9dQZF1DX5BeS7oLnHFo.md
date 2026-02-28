@@ -4,7 +4,7 @@
 
 > كافيار الراب المحلّي
 
-87 songs - 4 hr 10 min
+88 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Halloween](https://open.spotify.com/track/37TBQ5Mwx3SldaN03mMUru) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI), [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Halloween](https://open.spotify.com/album/0VdD8r7klztbY0Ilng4jxd) | 3:42 | 2024-06-24 | 2024-11-27 |
 | [Hayalla Min Yana](https://open.spotify.com/track/6rqE8AzO9Yhh2QDFVI2jyE) | [Flipperachi](https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd) | [Hayalla Min Yana](https://open.spotify.com/album/7uDRFiTAMR8zDXVySjwBSx) | 2:33 | 2024-06-24 | 2025-10-03 |
 | [Influenza](https://open.spotify.com/track/2UMihK8hP5rBZjw4iXDrvi) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [Influenza](https://open.spotify.com/album/0cfaz8h3V5bYOFcvFYaY7M) | 3:34 | 2024-06-24 | 2026-02-10 |
+| [Jabaha Le Ahlo](https://open.spotify.com/track/5Wran1wG54f2w0tnV8BmBI) | [Slow Moe](https://open.spotify.com/artist/5ws4gBwkGLUzjVxhvw4Kwd) | [Jabaha Le Ahlo](https://open.spotify.com/album/0sy0PPYClrTSRGz8CCFmTT) | 2:47 | 2026-02-27 |  |
 | [Jiddo](https://open.spotify.com/track/6pczaXrplw78wIo3D9zuLM) | [Mvndila](https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ) | [Jiddo](https://open.spotify.com/album/0SladTRgQhrI8r1zZt62gY) | 2:24 | 2025-10-02 | 2025-10-15 |
 | [Khalisni](https://open.spotify.com/track/0T1nrCDa8G4pzzW92BgGIp) | [Saud G](https://open.spotify.com/artist/76VXSNBSY5pbsYgMe2dTYZ), [Ahmedoo Biggie](https://open.spotify.com/artist/4srnmX4lNfxOKYNA8gdRMy) | [Khalisni](https://open.spotify.com/album/3gYH2ky5iZ1SaKNveeP378) | 3:09 | 2024-06-24 | 2026-01-15 |
 | [Km Wahed](https://open.spotify.com/track/1rukCHBt95a58Mb4cXzaAV) | [Triple9](https://open.spotify.com/artist/4EDet5KEQAdPKia5RxnVLt) | [Km Wahed](https://open.spotify.com/album/2yZ27FdxGaM69G3jUkDDVn) | 2:15 | 2025-10-07 |  |

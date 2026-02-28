@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: Coco K)",
-  "num_followers": 35321,
+  "num_followers": 35336,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,30 @@
     {
       "added_at": "2026-02-23 07:59:31",
       "album": {
+        "name": "3D (feat. Jack Harlow) (MK Remix)",
+        "url": "https://open.spotify.com/album/5zmAW0z1LtRIkw4OHsV3tW"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        }
+      ],
+      "duration_ms": 186241,
+      "name": "3D (feat. Jack Harlow) (MK Remix)",
+      "url": "https://open.spotify.com/track/1amaLBTe7l6zyWrWoq2Acy"
+    },
+    {
+      "added_at": "2026-02-23 07:59:31",
+      "album": {
         "name": "\ud76c / \ub178 / \uc560 / \ub77d",
         "url": "https://open.spotify.com/album/2q4GpFI6Ytc0apj7VnUgvf"
       },
@@ -655,30 +679,6 @@
       "duration_ms": 124637,
       "name": "ROAR (Raiden Hard Techno Ver.)",
       "url": "https://open.spotify.com/track/6KaoziVUc3ONLYv9D2Vz95"
-    },
-    {
-      "added_at": "2026-02-23 07:59:31",
-      "album": {
-        "name": "3D (feat. Jack Harlow) (MK Remix)",
-        "url": "https://open.spotify.com/album/5zmAW0z1LtRIkw4OHsV3tW"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        }
-      ],
-      "duration_ms": 186241,
-      "name": "3D (feat. Jack Harlow) (MK Remix)",
-      "url": "https://open.spotify.com/track/1amaLBTe7l6zyWrWoq2Acy"
     },
     {
       "added_at": "2026-02-23 07:59:31",
@@ -759,26 +759,6 @@
     {
       "added_at": "2026-02-23 07:59:31",
       "album": {
-        "name": "Eu li EP",
-        "url": "https://open.spotify.com/album/2I9SmVc4Pk5LecDTu52uDG"
-      },
-      "artists": [
-        {
-          "name": "Mr. Ho",
-          "url": "https://open.spotify.com/artist/44LzZsFXgy7Ft4EsT3WlI8"
-        },
-        {
-          "name": "Mogwaa",
-          "url": "https://open.spotify.com/artist/0ZMvuGH9qIoI5xBA4g0Tqy"
-        }
-      ],
-      "duration_ms": 472841,
-      "name": "Bail-E",
-      "url": "https://open.spotify.com/track/4q5UlYGp3arPnpSFdyWsga"
-    },
-    {
-      "added_at": "2026-02-23 07:59:31",
-      "album": {
         "name": "Whiplash (English Version)",
         "url": "https://open.spotify.com/album/10C0OaEiO9vsPJ7wr9G6Er"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 225000,
       "name": "Whiplash (Steve Aoki Remix)",
       "url": "https://open.spotify.com/track/05WroaccWBOq46mEkO5N0X"
+    },
+    {
+      "added_at": "2026-02-23 07:59:31",
+      "album": {
+        "name": "Eu li EP",
+        "url": "https://open.spotify.com/album/2I9SmVc4Pk5LecDTu52uDG"
+      },
+      "artists": [
+        {
+          "name": "Mr. Ho",
+          "url": "https://open.spotify.com/artist/44LzZsFXgy7Ft4EsT3WlI8"
+        },
+        {
+          "name": "Mogwaa",
+          "url": "https://open.spotify.com/artist/0ZMvuGH9qIoI5xBA4g0Tqy"
+        }
+      ],
+      "duration_ms": 472841,
+      "name": "Bail-E",
+      "url": "https://open.spotify.com/track/4q5UlYGp3arPnpSFdyWsga"
     },
     {
       "added_at": "2026-02-23 07:59:31",
@@ -871,26 +871,6 @@
     {
       "added_at": "2026-02-23 07:59:31",
       "album": {
-        "name": "Keep My Light On",
-        "url": "https://open.spotify.com/album/3HcZw9vfH6krvhgkhfkWSW"
-      },
-      "artists": [
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "Raiden",
-          "url": "https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Keep My Light On",
-      "url": "https://open.spotify.com/track/5zADzgQPu2VDODCcXANZou"
-    },
-    {
-      "added_at": "2026-02-23 07:59:31",
-      "album": {
         "name": "Mirror ball (feat. Moon Sujin)",
         "url": "https://open.spotify.com/album/74CFvy0bKedlpwjOKzwilo"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 193493,
       "name": "Mirror ball (feat. Moon Sujin)",
       "url": "https://open.spotify.com/track/3qJLTxwWA1VbFUcBKyfkA0"
+    },
+    {
+      "added_at": "2026-02-23 07:59:31",
+      "album": {
+        "name": "Keep My Light On",
+        "url": "https://open.spotify.com/album/3HcZw9vfH6krvhgkhfkWSW"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Raiden",
+          "url": "https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Keep My Light On",
+      "url": "https://open.spotify.com/track/5zADzgQPu2VDODCcXANZou"
     },
     {
       "added_at": "2026-02-23 07:59:31",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-02-23 07:59:31",
       "album": {
-        "name": "Always with You",
-        "url": "https://open.spotify.com/album/5s0qYDgx6lXJnuqOkvtC6Q"
-      },
-      "artists": [
-        {
-          "name": "Aseul",
-          "url": "https://open.spotify.com/artist/7K1yj70w0ldP7bMDqiiHMo"
-        }
-      ],
-      "duration_ms": 239931,
-      "name": "Always with You",
-      "url": "https://open.spotify.com/track/5pQPHQFBjp9hyNK0srbLLP"
-    },
-    {
-      "added_at": "2026-02-23 07:59:31",
-      "album": {
         "name": "Back for More (More Edition)",
         "url": "https://open.spotify.com/album/3InBiuGXecuwXqG81YrB1E"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2026-02-23 07:59:31",
       "album": {
-        "name": "Ash",
-        "url": "https://open.spotify.com/album/5S3Feym29lGQY8YJd8UTgu"
+        "name": "Always with You",
+        "url": "https://open.spotify.com/album/5s0qYDgx6lXJnuqOkvtC6Q"
       },
       "artists": [
         {
-          "name": "iiso",
-          "url": "https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v"
+          "name": "Aseul",
+          "url": "https://open.spotify.com/artist/7K1yj70w0ldP7bMDqiiHMo"
         }
       ],
-      "duration_ms": 144262,
-      "name": "Ash",
-      "url": "https://open.spotify.com/track/0Ir36rSxxxGr8fMysHcyMs"
+      "duration_ms": 239931,
+      "name": "Always with You",
+      "url": "https://open.spotify.com/track/5pQPHQFBjp9hyNK0srbLLP"
     },
     {
       "added_at": "2026-02-23 07:59:31",
@@ -1311,6 +1295,22 @@
       "duration_ms": 152505,
       "name": "Bad B**ch (Feat. Sik-K)",
       "url": "https://open.spotify.com/track/5adaDy3RlstXNVvniuBkRX"
+    },
+    {
+      "added_at": "2026-02-23 07:59:31",
+      "album": {
+        "name": "Ash",
+        "url": "https://open.spotify.com/album/5S3Feym29lGQY8YJd8UTgu"
+      },
+      "artists": [
+        {
+          "name": "iiso",
+          "url": "https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v"
+        }
+      ],
+      "duration_ms": 144262,
+      "name": "Ash",
+      "url": "https://open.spotify.com/track/0Ir36rSxxxGr8fMysHcyMs"
     },
     {
       "added_at": "2026-02-23 07:59:31",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2026-02-23 07:59:31",
       "album": {
-        "name": "SET ME FREE (Remixes)",
-        "url": "https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        },
-        {
-          "name": "Lindgren",
-          "url": "https://open.spotify.com/artist/0vk7Ds4u6waswHkzrfACVg"
-        }
-      ],
-      "duration_ms": 211573,
-      "name": "SET ME FREE (Lindgren Remix)",
-      "url": "https://open.spotify.com/track/5wNQXN45nL1BM6fuSZolVn"
-    },
-    {
-      "added_at": "2026-02-23 07:59:31",
-      "album": {
         "name": "SPAZ",
         "url": "https://open.spotify.com/album/0SSbN0KyO3qtoA4OgoQPmT"
       },
@@ -1411,6 +1391,26 @@
       "duration_ms": 169506,
       "name": "Bassister (Feat. Kid Milli)",
       "url": "https://open.spotify.com/track/6fprDkNvBbqjFYsSQ9cbCS"
+    },
+    {
+      "added_at": "2026-02-23 07:59:31",
+      "album": {
+        "name": "SET ME FREE (Remixes)",
+        "url": "https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Lindgren",
+          "url": "https://open.spotify.com/artist/0vk7Ds4u6waswHkzrfACVg"
+        }
+      ],
+      "duration_ms": 211573,
+      "name": "SET ME FREE (Lindgren Remix)",
+      "url": "https://open.spotify.com/track/5wNQXN45nL1BM6fuSZolVn"
     },
     {
       "added_at": "2026-02-23 07:59:31",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2026-02-23 07:59:31",
       "album": {
-        "name": "The Feels",
-        "url": "https://open.spotify.com/album/5kaDKzyrE5Cx9c4mLQZ6b1"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        },
-        {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
-        }
-      ],
-      "duration_ms": 185218,
-      "name": "The Feels (Benny Benassi Remix)",
-      "url": "https://open.spotify.com/track/2uIgQIrUIy57d1jngcOODC"
-    },
-    {
-      "added_at": "2026-02-23 07:59:31",
-      "album": {
         "name": "Pondeggi",
         "url": "https://open.spotify.com/album/7Kgg67NtyJyZ1YYzIFFCBT"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 279400,
       "name": "Pondeggi",
       "url": "https://open.spotify.com/track/0uWNm9IbLnhL7dEkTG8zMj"
+    },
+    {
+      "added_at": "2026-02-23 07:59:31",
+      "album": {
+        "name": "The Feels",
+        "url": "https://open.spotify.com/album/5kaDKzyrE5Cx9c4mLQZ6b1"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        }
+      ],
+      "duration_ms": 185218,
+      "name": "The Feels (Benny Benassi Remix)",
+      "url": "https://open.spotify.com/track/2uIgQIrUIy57d1jngcOODC"
     },
     {
       "added_at": "2026-02-23 07:59:31",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2026-02-23 07:59:31",
       "album": {
-        "name": "We The One",
-        "url": "https://open.spotify.com/album/7k23uWGxBtuFkvVObe7sBP"
-      },
-      "artists": [
-        {
-          "name": "SakaZan",
-          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
-        }
-      ],
-      "duration_ms": 195964,
-      "name": "We The One",
-      "url": "https://open.spotify.com/track/50h9twZAayX6uTyu8yNZoB"
-    },
-    {
-      "added_at": "2026-02-23 07:59:31",
-      "album": {
         "name": "Rule The World",
         "url": "https://open.spotify.com/album/5uCnzjU8tNml4kqucjJk59"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 146500,
       "name": "Rule The World",
       "url": "https://open.spotify.com/track/4jxnUzqf0ZhUtPwOEbOid5"
+    },
+    {
+      "added_at": "2026-02-23 07:59:31",
+      "album": {
+        "name": "We The One",
+        "url": "https://open.spotify.com/album/7k23uWGxBtuFkvVObe7sBP"
+      },
+      "artists": [
+        {
+          "name": "SakaZan",
+          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
+        }
+      ],
+      "duration_ms": 195964,
+      "name": "We The One",
+      "url": "https://open.spotify.com/track/50h9twZAayX6uTyu8yNZoB"
     },
     {
       "added_at": "2026-02-23 07:59:31",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2026-02-23 07:59:31",
       "album": {
+        "name": "Concrete Valley 0.5",
+        "url": "https://open.spotify.com/album/53Y4VuYwteJcwIlB3PlVvW"
+      },
+      "artists": [
+        {
+          "name": "off the menu",
+          "url": "https://open.spotify.com/artist/6g1CbXF83eU2eSvIUU9COb"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Concrete Valley",
+      "url": "https://open.spotify.com/track/0fU8a6ynFpnDx4jECwGLWE"
+    },
+    {
+      "added_at": "2026-02-23 07:59:31",
+      "album": {
         "name": "iScreaM Vol.14 : Peaches Remixes",
         "url": "https://open.spotify.com/album/2mrFSsDjOA6veZsbyMgMmI"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 199453,
       "name": "Peaches - SUMIN Remix",
       "url": "https://open.spotify.com/track/5VHcNCSmnKAFFyMaTYtzPc"
-    },
-    {
-      "added_at": "2026-02-23 07:59:31",
-      "album": {
-        "name": "Concrete Valley 0.5",
-        "url": "https://open.spotify.com/album/53Y4VuYwteJcwIlB3PlVvW"
-      },
-      "artists": [
-        {
-          "name": "off the menu",
-          "url": "https://open.spotify.com/artist/6g1CbXF83eU2eSvIUU9COb"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Concrete Valley",
-      "url": "https://open.spotify.com/track/0fU8a6ynFpnDx4jECwGLWE"
     },
     {
       "added_at": "2026-02-23 07:59:31",

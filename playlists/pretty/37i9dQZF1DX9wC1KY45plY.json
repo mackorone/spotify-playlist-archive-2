@@ -1,6 +1,6 @@
 {
   "description": "A soundtrack to fuel your good mood while on the road.",
-  "num_followers": 6748980,
+  "num_followers": 6749563,
   "original_name": "Classic Road Trip Songs",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2021-11-12 16:54:53",
       "album": {
-        "name": "Songs From The Big Chair (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
-      },
-      "artists": [
-        {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        }
-      ],
-      "duration_ms": 251488,
-      "name": "Everybody Wants To Rule The World",
-      "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
-    },
-    {
-      "added_at": "2021-11-12 16:54:53",
-      "album": {
         "name": "Toto IV",
         "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 295282,
       "name": "Africa",
       "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
+    },
+    {
+      "added_at": "2021-11-12 16:54:53",
+      "album": {
+        "name": "Songs From The Big Chair (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 251488,
+      "name": "Everybody Wants To Rule The World",
+      "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
     },
     {
       "added_at": "2021-11-12 16:54:53",
@@ -123,22 +123,6 @@
     {
       "added_at": "2021-11-12 16:54:53",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 245296,
-      "name": "Dancing In the Dark",
-      "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
-    },
-    {
-      "added_at": "2021-11-12 16:54:53",
-      "album": {
         "name": "Back In Black",
         "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 210328,
       "name": "You Shook Me All Night Long",
       "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
+    },
+    {
+      "added_at": "2021-11-12 16:54:53",
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 245296,
+      "name": "Dancing In the Dark",
+      "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
     },
     {
       "added_at": "2021-11-12 16:54:53",
@@ -537,22 +537,6 @@
       "url": "https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so"
     },
     {
-      "added_at": "2021-11-12 16:54:53",
-      "album": {
-        "name": "Breakfast In America (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
-      },
-      "artists": [
-        {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
-        }
-      ],
-      "duration_ms": 251253,
-      "name": "The Logical Song - Remastered 2010",
-      "url": "https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ"
-    },
-    {
       "added_at": "2022-04-08 18:54:53",
       "album": {
         "name": "Heartbeat City (Expanded Edition)",
@@ -567,6 +551,22 @@
       "duration_ms": 234332,
       "name": "Drive - 2017 Remaster",
       "url": "https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k"
+    },
+    {
+      "added_at": "2021-11-12 16:54:53",
+      "album": {
+        "name": "Breakfast In America (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 251253,
+      "name": "The Logical Song - Remastered 2010",
+      "url": "https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ"
     },
     {
       "added_at": "2022-04-08 18:54:53",
@@ -683,22 +683,6 @@
     {
       "added_at": "2021-11-12 16:54:53",
       "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 210226,
-      "name": "Panama - 2015 Remaster",
-      "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
-    },
-    {
-      "added_at": "2021-11-12 16:54:53",
-      "album": {
         "name": "I Don't Speak The Language",
         "url": "https://open.spotify.com/album/2coqGqbnSCAy740mClWesA"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 184480,
       "name": "Break My Stride",
       "url": "https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT"
+    },
+    {
+      "added_at": "2021-11-12 16:54:53",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 210226,
+      "name": "Panama - 2015 Remaster",
+      "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
     },
     {
       "added_at": "2021-11-12 16:54:53",
@@ -795,22 +795,6 @@
     {
       "added_at": "2021-11-12 16:54:53",
       "album": {
-        "name": "Who's Next (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 300400,
-      "name": "Baba O'Riley",
-      "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
-    },
-    {
-      "added_at": "2021-11-12 16:54:53",
-      "album": {
         "name": "Little Queen",
         "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 261495,
       "name": "Barracuda",
       "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
+    },
+    {
+      "added_at": "2021-11-12 16:54:53",
+      "album": {
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 300400,
+      "name": "Baba O'Riley",
+      "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
     },
     {
       "added_at": "2021-11-12 16:54:53",
@@ -987,22 +987,6 @@
     {
       "added_at": "2021-11-12 16:54:53",
       "album": {
-        "name": "Hotel California (2013 Remaster)",
-        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 286219,
-      "name": "Life in the Fast Lane - 2013 Remaster",
-      "url": "https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p"
-    },
-    {
-      "added_at": "2021-11-12 16:54:53",
-      "album": {
         "name": "Foreigner (Expanded)",
         "url": "https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M"
       },
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2021-11-12 16:54:53",
       "album": {
-        "name": "American Fool",
-        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
       },
       "artists": [
         {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         }
       ],
-      "duration_ms": 218960,
-      "name": "Hurts So Good",
-      "url": "https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM"
+      "duration_ms": 286219,
+      "name": "Life in the Fast Lane - 2013 Remaster",
+      "url": "https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p"
     },
     {
       "added_at": "2021-11-12 16:54:53",
@@ -1047,6 +1031,22 @@
       "duration_ms": 225626,
       "name": "Just What I Needed",
       "url": "https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN"
+    },
+    {
+      "added_at": "2021-11-12 16:54:53",
+      "album": {
+        "name": "American Fool",
+        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 218960,
+      "name": "Hurts So Good",
+      "url": "https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM"
     },
     {
       "added_at": "2021-11-12 16:54:53",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2021-11-12 16:54:53",
       "album": {
+        "name": "Hi Infidelity (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N"
+      },
+      "artists": [
+        {
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        }
+      ],
+      "duration_ms": 239680,
+      "name": "Take It On the Run",
+      "url": "https://open.spotify.com/track/5gys5nzVQIYhgHIfiOJYva"
+    },
+    {
+      "added_at": "2021-11-12 16:54:53",
+      "album": {
         "name": "Tropico",
         "url": "https://open.spotify.com/album/5qxb9JwzVz5EqegShruoM8"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 216533,
       "name": "Centerfold",
       "url": "https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"
-    },
-    {
-      "added_at": "2021-11-12 16:54:53",
-      "album": {
-        "name": "Hi Infidelity (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N"
-      },
-      "artists": [
-        {
-          "name": "REO Speedwagon",
-          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
-        }
-      ],
-      "duration_ms": 239680,
-      "name": "Take It On the Run",
-      "url": "https://open.spotify.com/track/5gys5nzVQIYhgHIfiOJYva"
     },
     {
       "added_at": "2021-11-12 16:54:53",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2021-11-12 16:54:53",
       "album": {
-        "name": "Hits Back",
-        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "Should I Stay or Should I Go - Remastered",
-      "url": "https://open.spotify.com/track/3v8PlUFGQQDBIk1J86waCo"
-    },
-    {
-      "added_at": "2021-11-12 16:54:53",
-      "album": {
         "name": "In Color",
         "url": "https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 191882,
       "name": "I Want You to Want Me",
       "url": "https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL"
+    },
+    {
+      "added_at": "2021-11-12 16:54:53",
+      "album": {
+        "name": "Hits Back",
+        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "Should I Stay or Should I Go - Remastered",
+      "url": "https://open.spotify.com/track/3v8PlUFGQQDBIk1J86waCo"
     },
     {
       "added_at": "2021-11-12 16:54:53",

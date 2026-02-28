@@ -627,6 +627,22 @@
     {
       "added_at": "2026-02-13 15:20:30",
       "album": {
+        "name": "UM44K Ac\u00fastico",
+        "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
+      },
+      "artists": [
+        {
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+        }
+      ],
+      "duration_ms": 163492,
+      "name": "Pode falar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP"
+    },
+    {
+      "added_at": "2026-02-13 15:20:30",
+      "album": {
         "name": "Amor N\u00e3o Sai de Moda",
         "url": "https://open.spotify.com/album/6dk9pgzQaucd5U72M7tWZB"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 216600,
       "name": "Amor N\u00e3o Sai de Moda",
       "url": "https://open.spotify.com/track/6dIccuQyn4JBdFoQZX1oxP"
-    },
-    {
-      "added_at": "2026-02-13 15:20:30",
-      "album": {
-        "name": "UM44K Ac\u00fastico",
-        "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        }
-      ],
-      "duration_ms": 163492,
-      "name": "Pode falar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP"
     },
     {
       "added_at": "2026-02-13 15:20:30",
@@ -819,26 +819,6 @@
     {
       "added_at": "2026-02-13 15:20:30",
       "album": {
-        "name": "Mensagem",
-        "url": "https://open.spotify.com/album/2NPc3kgr2YdiElHG3CKA26"
-      },
-      "artists": [
-        {
-          "name": "Dody",
-          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
-        },
-        {
-          "name": "lowz",
-          "url": "https://open.spotify.com/artist/03t6CvukafsNbQU1OD2n3q"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Mensagem",
-      "url": "https://open.spotify.com/track/7kfXIHFbBINJeUtXaPodZw"
-    },
-    {
-      "added_at": "2026-02-13 15:20:30",
-      "album": {
         "name": "Original MTK #2 - Se Voc\u00ea Vier",
         "url": "https://open.spotify.com/album/420rc6s3uRgnBnogGrjAfP"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 264547,
       "name": "Original MTK #2 - Se Voc\u00ea Vier",
       "url": "https://open.spotify.com/track/6GOV45NixAW87unGHpS3mE"
+    },
+    {
+      "added_at": "2026-02-13 15:20:30",
+      "album": {
+        "name": "Mensagem",
+        "url": "https://open.spotify.com/album/2NPc3kgr2YdiElHG3CKA26"
+      },
+      "artists": [
+        {
+          "name": "Dody",
+          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
+        },
+        {
+          "name": "lowz",
+          "url": "https://open.spotify.com/artist/03t6CvukafsNbQU1OD2n3q"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Mensagem",
+      "url": "https://open.spotify.com/track/7kfXIHFbBINJeUtXaPodZw"
     },
     {
       "added_at": "2026-02-13 15:20:30",

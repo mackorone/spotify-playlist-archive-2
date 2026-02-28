@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 
 > Back to the golden age of the scene\. Cover: Underoath
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,609 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,651 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,15 +68,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 58 | [I'm Not A Thief, I'm A Treasure Hunter](https://open.spotify.com/track/146UE7we0gOcTQ118xmR0A) | [A Skylit Drive](https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9) | [Wires...And The Concept Of Breathing](https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd) | 3:18 |
 | 59 | [Capricorn \(A Brand New Name\)](https://open.spotify.com/track/1e714xkChvo3z1s9hNxkK5) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [30 Seconds To Mars](https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz) | 3:53 |
 | 60 | [Rookie](https://open.spotify.com/track/3f0VeXFWFrDjt9BFmRPIej) | [Boysetsfire](https://open.spotify.com/artist/6kw9NLPmn9FdQq0gAIx0Bj) | [After The Eulogy](https://open.spotify.com/album/3p9Mqd8RUupzqYSRgCAjPX) | 4:13 |
-| 61 | [Juneau](https://open.spotify.com/track/1Ps1p8EztpQmxwRas27Il9) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 3:36 |
-| 62 | [Devil In Jersey City](https://open.spotify.com/track/14fcbToPrshMsN1IY8CKvE) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Second Stage Turbine Blade \(Re\-Issue\)](https://open.spotify.com/album/0puQN87m8wxSu8lcDkwV2k) | 4:47 |
+| 61 | [Devil In Jersey City](https://open.spotify.com/track/14fcbToPrshMsN1IY8CKvE) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Second Stage Turbine Blade \(Re\-Issue\)](https://open.spotify.com/album/0puQN87m8wxSu8lcDkwV2k) | 4:47 |
+| 62 | [Juneau](https://open.spotify.com/track/1Ps1p8EztpQmxwRas27Il9) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 3:36 |
 | 63 | [Studying Politics](https://open.spotify.com/track/69YAlTHsJSww392VeNOa7Z) | [Emery](https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni) | [The Question](https://open.spotify.com/album/4hqjE4M2FKwKeObRmoTEet) | 3:30 |
 | 64 | [Goodbye My Love](https://open.spotify.com/track/51VhgCrpMdrGysx0CMgyIM) | [Lovehatehero](https://open.spotify.com/artist/7x0UWXyNsNRQJtScbBnrBq) | [White Lies](https://open.spotify.com/album/2MPznUFDORXqL2lpA2IbPs) | 3:33 |
 | 65 | [All It Takes For Your Dreams To Come True](https://open.spotify.com/track/7DtwEwGYdcZDlXDoDmW0zo) | [A Skylit Drive](https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9) | [Wires...And The Concept Of Breathing](https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd) | 3:14 |
 | 66 | [My Darkest Hour](https://open.spotify.com/track/7mV7vI17u8TRVnuE9YwkuY) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9) | [The City Sleeps in Flames](https://open.spotify.com/album/73Kx19MysqVHMYvW29CTw3) | 3:29 |
 | 67 | [Rookie of the Year](https://open.spotify.com/track/05IWxcvFY5t7fUVJQdK9GA) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 3:00 |
-| 68 | [Short Stories With Tragic Endings](https://open.spotify.com/track/4eRtGBzP92gjIMOtal2kNB) | [From Autumn To Ashes](https://open.spotify.com/artist/1t0af5EH36iQVJ06XnLDOt) | [Too Bad You're Beautiful](https://open.spotify.com/album/5gZbzZKm0cBUfJwlUErOLm) | 9:25 |
-| 69 | [New Medicines](https://open.spotify.com/track/2UMuVwCwPUdTmAYYgd88Fg) | [Dead Poetic](https://open.spotify.com/artist/14NIQxiBiZtbmZMXUwS6KD) | [New Medicines](https://open.spotify.com/album/3D4LoGIjzALWhaYBp4brMh) | 4:02 |
+| 68 | [New Medicines](https://open.spotify.com/track/2UMuVwCwPUdTmAYYgd88Fg) | [Dead Poetic](https://open.spotify.com/artist/14NIQxiBiZtbmZMXUwS6KD) | [New Medicines](https://open.spotify.com/album/3D4LoGIjzALWhaYBp4brMh) | 4:02 |
+| 69 | [Short Stories With Tragic Endings](https://open.spotify.com/track/4eRtGBzP92gjIMOtal2kNB) | [From Autumn To Ashes](https://open.spotify.com/artist/1t0af5EH36iQVJ06XnLDOt) | [Too Bad You're Beautiful](https://open.spotify.com/album/5gZbzZKm0cBUfJwlUErOLm) | 9:25 |
 | 70 | [Error Operator](https://open.spotify.com/track/3Zcx8pEo36dcrdppEmLVjs) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 2:51 |
 | 71 | [Die Romantic](https://open.spotify.com/track/6X6hTTh32bJM24wYY26MTc) | [Aiden](https://open.spotify.com/artist/1FNjzdmDeHeZjU5qUJlQ1G) | [Nightmare Anatomy](https://open.spotify.com/album/2K3Ga1V2OzVtBLemgMDcIB) | 3:40 |
 | 72 | [Here I Stand](https://open.spotify.com/track/2hSpvEjeA8y2yGcFBCgwHd) | [Madina Lake](https://open.spotify.com/artist/43QrUqvhiL71U9A9gJtAfA) | [From Them, Through Us, To You](https://open.spotify.com/album/6yLkk9pNOfvAZ2EoUZlj7o) | 3:23 |

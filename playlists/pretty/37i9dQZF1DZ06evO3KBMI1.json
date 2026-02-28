@@ -1,12 +1,12 @@
 {
   "description": "This is UVERworld. The essential tracks, all in one playlist.",
-  "num_followers": 74391,
+  "num_followers": 74390,
   "original_name": "This Is UVERworld",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAAAc6Ge2iqFw0cMc1TSYJa3K",
+  "snapshot_id": "aZ+NAAAAAABLtu2XFUv1XBGVBoEISn94",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAWN",
-        "url": "https://open.spotify.com/album/2JOBBV8sldnPAG1G0KYdfF"
+        "name": "EVER",
+        "url": "https://open.spotify.com/album/6YM8mtP6K9lGvhwEGu34Wb"
       },
       "artists": [
-        {
-          "name": "AK-69",
-          "url": "https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh"
-        },
         {
           "name": "UVERworld",
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 239826,
-      "name": "Forever Young (feat. UVERworld)",
-      "url": "https://open.spotify.com/track/792bbU2aAlrbPC171z0ljk"
+      "duration_ms": 213533,
+      "name": "ZERO BREAKOUT POINT",
+      "url": "https://open.spotify.com/track/7rVdWPnRGuZpd8RIx1IsXW"
     },
     {
       "added_at": null,
@@ -139,6 +135,26 @@
       "duration_ms": 258706,
       "name": "Touch off",
       "url": "https://open.spotify.com/track/7CSTVNXkW2AbmNktlP1hi2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DAWN",
+        "url": "https://open.spotify.com/album/2JOBBV8sldnPAG1G0KYdfF"
+      },
+      "artists": [
+        {
+          "name": "AK-69",
+          "url": "https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh"
+        },
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 239826,
+      "name": "Forever Young (feat. UVERworld)",
+      "url": "https://open.spotify.com/track/792bbU2aAlrbPC171z0ljk"
     },
     {
       "added_at": null,
@@ -171,22 +187,6 @@
       "duration_ms": 89983,
       "name": "ODD FUTURE short ver.",
       "url": "https://open.spotify.com/track/5tXOuIoDO0ZtGLijEOD6HZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EVER",
-        "url": "https://open.spotify.com/album/6YM8mtP6K9lGvhwEGu34Wb"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 213533,
-      "name": "ZERO BREAKOUT POINT",
-      "url": "https://open.spotify.com/track/7rVdWPnRGuZpd8RIx1IsXW"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "EPIPHANY",
-        "url": "https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw"
+        "name": "7\uff54\uff48 Trigger",
+        "url": "https://open.spotify.com/album/2y1EdY2dKT6w0nVGt9uVtz"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 251773,
-      "name": "PHOENIX AX",
-      "url": "https://open.spotify.com/track/3g7jOzyFtGOgTSmzalvlt7"
+      "duration_ms": 275306,
+      "name": "AWAYOKUBA-\u65ac\u308b",
+      "url": "https://open.spotify.com/track/7rOGRAUI5YauKjCA0KIC0f"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EPIPHANY",
+        "url": "https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 251773,
+      "name": "PHOENIX AX",
+      "url": "https://open.spotify.com/track/3g7jOzyFtGOgTSmzalvlt7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Neo SOUND BEST",
         "url": "https://open.spotify.com/album/026YUzz3W2bYO1QNvgfrs6"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 334026,
       "name": "\u6fc0\u52d5",
       "url": "https://open.spotify.com/track/2bB94ADjTpb7qavnp8NYQP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "7\uff54\uff48 Trigger",
-        "url": "https://open.spotify.com/album/2y1EdY2dKT6w0nVGt9uVtz"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 275306,
-      "name": "AWAYOKUBA-\u65ac\u308b",
-      "url": "https://open.spotify.com/track/7rOGRAUI5YauKjCA0KIC0f"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EPIPHANY",
-        "url": "https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 235893,
-      "name": "NO MAP",
-      "url": "https://open.spotify.com/track/3NM5kbdYzz42SPWqDEUL8b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LIFE 6 SENSE",
         "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 200426,
       "name": "\u767d\u663c\u5922",
       "url": "https://open.spotify.com/track/6u6ZZKeq5Upa3Dq7fgdwxq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EPIPHANY",
+        "url": "https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 235893,
+      "name": "NO MAP",
+      "url": "https://open.spotify.com/track/3NM5kbdYzz42SPWqDEUL8b"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bye-Bye to you",
-        "url": "https://open.spotify.com/album/6Z7Mzo45DiFgAHm1DQwWvo"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 248400,
-      "name": "Bye-Bye to you",
-      "url": "https://open.spotify.com/track/1YC7xtKxgK0w1ZCtVXuvzl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30ca\u30ce\u30fb\u30bb\u30ab\u30f3\u30c9",
         "url": "https://open.spotify.com/album/6BdTHYe5EDbUI5Us4HnX2P"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 240640,
       "name": "DEJAVU",
       "url": "https://open.spotify.com/track/4MxC12Xsx3eQtbUO0rRi5c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bye-Bye to you",
+        "url": "https://open.spotify.com/album/6Z7Mzo45DiFgAHm1DQwWvo"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "Bye-Bye to you",
+      "url": "https://open.spotify.com/track/1YC7xtKxgK0w1ZCtVXuvzl"
     },
     {
       "added_at": null,

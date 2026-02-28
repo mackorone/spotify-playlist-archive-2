@@ -3743,6 +3743,24 @@
     },
     {
       "album": {
+        "name": "Like God Intended",
+        "url": "https://open.spotify.com/album/3M5QPvH82Rj2aMxe5dlvp1"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176837,
+      "name": "Like God Intended",
+      "url": "https://open.spotify.com/track/1dPKGWxMILRedoNtjUa8mh"
+    },
+    {
+      "album": {
         "name": "Like I Do",
         "url": "https://open.spotify.com/album/4ei995hyozcTYXDvY2VrE9"
       },

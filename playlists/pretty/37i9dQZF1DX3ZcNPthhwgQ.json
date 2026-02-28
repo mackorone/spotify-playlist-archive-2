@@ -1,6 +1,6 @@
 {
   "description": "Las rolas para escuchar mientras trabajas.",
-  "num_followers": 247292,
+  "num_followers": 247366,
   "original_name": "Chambeando",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-02-06 23:13:27",
       "album": {
-        "name": "$AD BOYZ 4 LIFE II",
-        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 226298,
-      "name": "LAS NOCHES",
-      "url": "https://open.spotify.com/track/0uQhDYHyoZe5DpncrPolb6"
-    },
-    {
-      "added_at": "2026-02-06 23:13:27",
-      "album": {
         "name": "MALA M\u00cdA",
         "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 212002,
       "name": "ME JALO",
       "url": "https://open.spotify.com/track/3D24ErT1MMmUfXWotSj2A2"
+    },
+    {
+      "added_at": "2026-02-06 23:13:27",
+      "album": {
+        "name": "$AD BOYZ 4 LIFE II",
+        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 226298,
+      "name": "LAS NOCHES",
+      "url": "https://open.spotify.com/track/0uQhDYHyoZe5DpncrPolb6"
     },
     {
       "added_at": "2026-02-06 23:13:27",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2026-02-06 23:13:27",
       "album": {
+        "name": "Mi Yo de Antes",
+        "url": "https://open.spotify.com/album/2y77rjJAPxg73wjdzAeTMN"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 182793,
+      "name": "Mi Yo de Antes",
+      "url": "https://open.spotify.com/track/0RAlrJTWdsaZVtfh1wDb3r"
+    },
+    {
+      "added_at": "2026-02-06 23:13:27",
+      "album": {
         "name": "PRESIDENTE",
         "url": "https://open.spotify.com/album/0xyBpeAAr8E86J7GH1SNUR"
       },
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2026-02-06 23:13:27",
       "album": {
-        "name": "Ojos En Blanco",
-        "url": "https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 147053,
-      "name": "Ya Te Perd\u00ed La Fe",
-      "url": "https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5"
-    },
-    {
-      "added_at": "2026-02-06 23:13:27",
-      "album": {
         "name": "Seguro Le Doli\u00f3",
         "url": "https://open.spotify.com/album/0laSYvHtmxy7gG0z8secrX"
       },
@@ -1207,38 +1207,18 @@
     {
       "added_at": "2026-02-06 23:13:27",
       "album": {
-        "name": "La Sinverg\u00fcenza",
-        "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
+        "name": "Ojos En Blanco",
+        "url": "https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 198529,
-      "name": "La Sinverg\u00fcenza",
-      "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
-    },
-    {
-      "added_at": "2026-02-06 23:13:27",
-      "album": {
-        "name": "Mi Yo de Antes",
-        "url": "https://open.spotify.com/album/2y77rjJAPxg73wjdzAeTMN"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 182793,
-      "name": "Mi Yo de Antes",
-      "url": "https://open.spotify.com/track/0RAlrJTWdsaZVtfh1wDb3r"
+      "duration_ms": 147053,
+      "name": "Ya Te Perd\u00ed La Fe",
+      "url": "https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5"
     },
     {
       "added_at": "2026-02-06 23:13:27",
@@ -1255,6 +1235,26 @@
       "duration_ms": 156500,
       "name": "SABOR FRESA",
       "url": "https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r"
+    },
+    {
+      "added_at": "2026-02-06 23:13:27",
+      "album": {
+        "name": "La Sinverg\u00fcenza",
+        "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 198529,
+      "name": "La Sinverg\u00fcenza",
+      "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
     },
     {
       "added_at": "2026-02-06 23:13:27",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2026-02-06 23:13:27",
       "album": {
-        "name": "7 DIAS",
-        "url": "https://open.spotify.com/album/5BoeqKVMi7D4S6U38rWjS4"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 180688,
-      "name": "7 DIAS",
-      "url": "https://open.spotify.com/track/5Z75FvRFiultmPFWHx5jQ7"
-    },
-    {
-      "added_at": "2026-02-06 23:13:27",
-      "album": {
         "name": "Por Esos Ojos",
         "url": "https://open.spotify.com/album/3ZaYiXwSEqq5iZ6xt8RAwp"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 240456,
       "name": "Yo Ya No Vuelvo Contigo - En Vivo",
       "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
+    },
+    {
+      "added_at": "2026-02-06 23:13:27",
+      "album": {
+        "name": "7 DIAS",
+        "url": "https://open.spotify.com/album/5BoeqKVMi7D4S6U38rWjS4"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 180688,
+      "name": "7 DIAS",
+      "url": "https://open.spotify.com/track/5Z75FvRFiultmPFWHx5jQ7"
     },
     {
       "added_at": "2026-02-06 23:13:27",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2026-02-06 23:13:27",
       "album": {
+        "name": "Seguimos Laborando",
+        "url": "https://open.spotify.com/album/2PS7Oebmv9wJNPbgISiMsN"
+      },
+      "artists": [
+        {
+          "name": "Grupo 360",
+          "url": "https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC"
+        }
+      ],
+      "duration_ms": 205813,
+      "name": "Seguimos Laborando",
+      "url": "https://open.spotify.com/track/6H9H6BYpuWycXP9HEx3vdJ"
+    },
+    {
+      "added_at": "2026-02-06 23:13:27",
+      "album": {
         "name": "Tus Mentiras",
         "url": "https://open.spotify.com/album/0ghcboa6syByFczkpDsnwZ"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 156710,
       "name": "Pelotero A La Bola",
       "url": "https://open.spotify.com/track/2HjRqfkjGe33JGlOdTtswE"
-    },
-    {
-      "added_at": "2026-02-06 23:13:27",
-      "album": {
-        "name": "Seguimos Laborando",
-        "url": "https://open.spotify.com/album/2PS7Oebmv9wJNPbgISiMsN"
-      },
-      "artists": [
-        {
-          "name": "Grupo 360",
-          "url": "https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC"
-        }
-      ],
-      "duration_ms": 205813,
-      "name": "Seguimos Laborando",
-      "url": "https://open.spotify.com/track/6H9H6BYpuWycXP9HEx3vdJ"
     },
     {
       "added_at": "2026-02-06 23:13:27",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2026-02-06 23:13:27",
       "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "A La Antig\u00fcita",
-      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
-    },
-    {
-      "added_at": "2026-02-06 23:13:27",
-      "album": {
         "name": "THE GB",
         "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 179967,
       "name": "Neta",
       "url": "https://open.spotify.com/track/6Q2UhuLaPUlC9VANQOjPxo"
+    },
+    {
+      "added_at": "2026-02-06 23:13:27",
+      "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "A La Antig\u00fcita",
+      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
     },
     {
       "added_at": "2026-02-06 23:13:27",

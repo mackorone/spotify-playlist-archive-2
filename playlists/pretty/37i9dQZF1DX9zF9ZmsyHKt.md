@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,718 likes - 65 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,749 likes - 65 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 24 | [Ultima Vez](https://open.spotify.com/track/40Frowu2ww9YAKKFLb7yS8) | [Billy Brasil](https://open.spotify.com/artist/5PXF4RydKIBSlMZC4JgShx), [Batidão do Melody](https://open.spotify.com/artist/1cxdUdATJCunpjaHM8e7d6) | [Ultima Vez](https://open.spotify.com/album/3A14Wp6OjW4cB6Bdkc7ZGn) | 3:39 |
 | 25 | [Meteoro](https://open.spotify.com/track/1SxROnJLFCeXgP56ZwPU9D) | [Banda Ravelly](https://open.spotify.com/artist/5D7dGRxmAnl6Smasp7WGVW) | [Envolvendo Você!](https://open.spotify.com/album/0DmS3rCKjEDUNy9zBcp3wD) | 3:36 |
 | 26 | [Pra Me Conquistar](https://open.spotify.com/track/11tQHWsy9QSi9Ml69ldeng) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [O Ritmo Que Conquistou o Brasil \- Vol.03](https://open.spotify.com/album/75BR3zxW4J4g4fnXsHKGY3) | 2:58 |
-| 27 | [Lágrimas de Sangue \(Ao Vivo\)](https://open.spotify.com/track/7ihbN5GjWZpta9qSrCRUl5) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Isso É Calypso Tour Brasil \(Ao Vivo em São Paulo \- SP\) EP5](https://open.spotify.com/album/2Eu4pJipc7JR6TJBgQpkqH) | 2:32 |
+| 27 | [Tchau Pra Você \- Ao Vivo em Portugal](https://open.spotify.com/track/3vtTlxjcAKKjPs3E6V9QCL) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Uma noite Amazônica \(Ao Vivo em Portugal\)](https://open.spotify.com/album/1UATryKcX3smDVVk4XWJ8R) | 3:50 |
 | 28 | [Eu Vou Recomeçar](https://open.spotify.com/track/2tZbOtxqeOpxamAlDPDZTs) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Sucessos](https://open.spotify.com/album/6UqGyxulGDAtJGQiy5gRP8) | 2:40 |
 | 29 | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/track/5YDyubwvYmgXR0mWjL8dXF) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/album/2Xz4Xcm86sv57xDz8akLvj) | 3:03 |
 | 30 | [Reacender a Chama](https://open.spotify.com/track/3kH39Eb5UCv8Wl81U9sJK9) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [TecnoShow](https://open.spotify.com/album/4kOyNVMQ2ve1jnEPajq9ua) | 3:43 |
 | 31 | [Vem Curtir Com Jackson](https://open.spotify.com/track/5irR7SwEE5M0YqKGL7XiW9) | [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq) | [Ao Som do Fruto, Vol\. 02](https://open.spotify.com/album/4t9z4MjfN7DeHCP6KlGuSs) | 3:49 |
-| 32 | [Tchau Pra Você \- Ao Vivo em Portugal](https://open.spotify.com/track/3vtTlxjcAKKjPs3E6V9QCL) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Uma noite Amazônica \(Ao Vivo em Portugal\)](https://open.spotify.com/album/1UATryKcX3smDVVk4XWJ8R) | 3:50 |
+| 32 | [Lágrimas de Sangue \(Ao Vivo\)](https://open.spotify.com/track/7ihbN5GjWZpta9qSrCRUl5) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Isso É Calypso Tour Brasil \(Ao Vivo em São Paulo \- SP\) EP5](https://open.spotify.com/album/2Eu4pJipc7JR6TJBgQpkqH) | 2:32 |
 | 33 | [Eu Te Venero](https://open.spotify.com/track/2xPYB3pXXhW4dLY58esXJh) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Marcantes](https://open.spotify.com/album/1VUSKzW4PssDDqhGh0oKiX) | 4:56 |
 | 34 | [É Tudo pra Mim](https://open.spotify.com/track/7esYGSi17zTkqPA8mQGnHm) | [Banda Paixão do Calypso](https://open.spotify.com/artist/7zDyKhidLb4eNwgDZpYy7m) | [É Tudo pra Mim](https://open.spotify.com/album/4jQ4walwpL7J8kCW0ZzR8f) | 4:11 |
 | 35 | [Não Vou Te Deixar](https://open.spotify.com/track/5xe90Er7lM8ztWTTZQSoYR) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [TecnoShow](https://open.spotify.com/album/4kOyNVMQ2ve1jnEPajq9ua) | 3:38 |

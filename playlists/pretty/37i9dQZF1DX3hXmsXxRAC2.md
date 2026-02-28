@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 
 > Las voces que inmortalizaron las canciones del Divo de Juárez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,544 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,560 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 11 | [Costumbres](https://open.spotify.com/track/2rPmMvb83a5GaLFGcMFoBw) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [México de Mi Corazón](https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY) | 4:38 |
 | 12 | [El Dia Que Me Acaricies Lloraré](https://open.spotify.com/track/111g0L3zCU8J4LCWN0EPCa) | [Nelson Ned](https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s) | [Mis Momentos](https://open.spotify.com/album/5I831xaYFuuZlBs6Lu2bhw) | 3:50 |
 | 13 | [He Venido a Pedirte Perdón \(with HA\-ASH\)](https://open.spotify.com/track/0yNBnX5iuu108NLpxcI2Yw) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Victor García](https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1) | 3:50 |
-| 14 | [Yo No Naci Para Amar](https://open.spotify.com/track/7qQMiNcXYmkx6G3sZ5ljDm) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:30 |
-| 15 | [Fue Tan Poco Tu Cariño](https://open.spotify.com/track/5fy24Sqa6YZKadyl2FDlqu) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Rocio Durcal Canta A Juan Gabriel](https://open.spotify.com/album/21Ju1SwSaCZHkWtZh1dEyX) | 3:15 |
+| 14 | [Fue Tan Poco Tu Cariño](https://open.spotify.com/track/5fy24Sqa6YZKadyl2FDlqu) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Rocio Durcal Canta A Juan Gabriel](https://open.spotify.com/album/21Ju1SwSaCZHkWtZh1dEyX) | 3:15 |
+| 15 | [Yo No Naci Para Amar](https://open.spotify.com/track/7qQMiNcXYmkx6G3sZ5ljDm) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:30 |
 | 16 | [Mañana, Mañana \- Primera Fila \- Live Version](https://open.spotify.com/track/72SShJccmTCXDqPf6J8h38) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Cristian Castro En Primera Fila \- Día 1](https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0) | 3:59 |
 | 17 | [Te Lo Pido por Favor](https://open.spotify.com/track/55kXjMfJUBYt4GahHegcUG) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Juan Gabriel y Lo Mas Romantico De](https://open.spotify.com/album/2nC10KHMdLet5RLY2FRN4v) | 2:59 |
 | 18 | [Amor Eterno](https://open.spotify.com/track/4SWye3OAVUSJysWgPF89e6) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [México de Mi Corazón](https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY) | 4:33 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 71 | [Yo Sé Que Está En Tu Corazón](https://open.spotify.com/track/4N3dBPrM1KPWHii6VRHi3q) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Los Dúo 2](https://open.spotify.com/album/4NzxMuOkm7q0WUZWmAZbT8) | 4:06 |
 | 72 | [No Vale la Pena](https://open.spotify.com/track/1ftjkFH9RUzPjPTM9tJbWa) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV) | 2:34 |
 | 73 | [Amor eterno](https://open.spotify.com/track/2IWOOtvbLProMGmNfqujX4) | [Alexandra Gravas](https://open.spotify.com/artist/3jDJ5r0kU32EeVl2Dd5uYv), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Songbook 3 El Amor Es Vida](https://open.spotify.com/album/5xTYvmQhMKxPo0W4O2CdDT) | 6:00 |
-| 74 | [Luna](https://open.spotify.com/track/739NTjHPzGdGG3mf4lgcGT) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel Todos Sus Exitos](https://open.spotify.com/album/1JRhGwaIC5lWxazf3yWySo) | 4:30 |
-| 75 | [No Vale La Pena](https://open.spotify.com/track/1OZHMioFDVvY85KYoRovHj) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Antologia De Juan Gabriel](https://open.spotify.com/album/0PdCVDLLPyONwCzOAoeQtc) | 2:37 |
+| 74 | [No Vale La Pena](https://open.spotify.com/track/1OZHMioFDVvY85KYoRovHj) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Antologia De Juan Gabriel](https://open.spotify.com/album/0PdCVDLLPyONwCzOAoeQtc) | 2:37 |
+| 75 | [Luna](https://open.spotify.com/track/739NTjHPzGdGG3mf4lgcGT) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel Todos Sus Exitos](https://open.spotify.com/album/1JRhGwaIC5lWxazf3yWySo) | 4:30 |
 | 76 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/5HQnUFcJWN9jpfhj4NxJB8) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5), [Mario Domm](https://open.spotify.com/artist/7tLRDdqaS3HlX9cLbpY3Hl) | [México & Amigos](https://open.spotify.com/album/4YzNjecIvmLFEby13NOBmj) | 3:00 |
 | 77 | [Fue un Placer Conocerte](https://open.spotify.com/track/2keN15BswHOxejdRAaMT8s) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV) | 3:30 |
 | 78 | [No Discutamos](https://open.spotify.com/track/1SSJlfheVvqdMEcjyFfRfz) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Los Dúo 2](https://open.spotify.com/album/4NzxMuOkm7q0WUZWmAZbT8) | 2:19 |

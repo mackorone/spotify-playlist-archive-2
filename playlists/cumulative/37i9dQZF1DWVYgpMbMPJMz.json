@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Passion",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: UPPERROOM",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -522,7 +522,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 278685,
       "name": "Alabaster Jar - Live",
       "url": "https://open.spotify.com/track/6CKLTrkkWN5Qd4zYS9vjZ7"
@@ -866,7 +866,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 438627,
       "name": "Always",
       "url": "https://open.spotify.com/track/6G7FSRegOKvDVDVDb4gEAA"
@@ -892,6 +892,24 @@
       "duration_ms": 361120,
       "name": "Always Been You (with Anike) - Live",
       "url": "https://open.spotify.com/track/43HieN3qrUrZUgAsyhFTDM"
+    },
+    {
+      "album": {
+        "name": "Always On Time",
+        "url": "https://open.spotify.com/album/09MMQo5gW3Uu4FY8VYEARN"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 598995,
+      "name": "Always On Time - Break Open",
+      "url": "https://open.spotify.com/track/6xAzxpF29ET0Ys5BZMmGAB"
     },
     {
       "album": {
@@ -2059,6 +2077,32 @@
     },
     {
       "album": {
+        "name": "Blood of Jesus (I Surrender All)",
+        "url": "https://open.spotify.com/album/39iJQ5xz5BDQ30QdSGHbhW"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Ashley Bailey",
+          "url": "https://open.spotify.com/artist/0mCGACx1tzi9BRx1KX0OXR"
+        },
+        {
+          "name": "Aaron Tedeschi",
+          "url": "https://open.spotify.com/artist/3LSv8vyAjTxn37MsKnYkz0"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337520,
+      "name": "Blood of Jesus (I Surrender All)",
+      "url": "https://open.spotify.com/track/0quxaXkS1kE3oKMdMWJbZ8"
+    },
+    {
+      "album": {
         "name": "Perspective (Live)",
         "url": "https://open.spotify.com/album/0GRiESh2EmEqqIYFIbDdcv"
       },
@@ -2074,6 +2118,28 @@
       "duration_ms": 404400,
       "name": "Bloom - Live",
       "url": "https://open.spotify.com/track/7ebNynWIxv70Dnkqfyc3rm"
+    },
+    {
+      "album": {
+        "name": "Bound by Love (Live)",
+        "url": "https://open.spotify.com/album/0pMENavXYhpztIaqTZiUYM"
+      },
+      "artists": [
+        {
+          "name": "The River Worship",
+          "url": "https://open.spotify.com/artist/5FmxD8Ox8Fr0wd01yEsca0"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442581,
+      "name": "Bound by Love - Live",
+      "url": "https://open.spotify.com/track/2MtiuCz7kbNnHZIjUKqUd9"
     },
     {
       "album": {
@@ -2106,7 +2172,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 384729,
       "name": "Break Open",
       "url": "https://open.spotify.com/track/7FGPDdVSHQ36b7jeHsDk26"
@@ -3482,7 +3548,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 295312,
       "name": "Constant - Live",
       "url": "https://open.spotify.com/track/0iNHti6FqdUvPEBvto6WsZ"
@@ -5218,7 +5284,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 179817,
       "name": "God Has Done",
       "url": "https://open.spotify.com/track/3k3Ax0x2M9OJGLOEtix5YB"
@@ -5578,7 +5644,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 350990,
       "name": "Good Plans - Live",
       "url": "https://open.spotify.com/track/29Zbu7SURpkRooBONvmU30"
@@ -5990,7 +6056,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 191600,
       "name": "Hallelujah (If Not For Your Love)",
       "url": "https://open.spotify.com/track/3RARr0qocWgXFMAhBJs9jR"
@@ -6400,6 +6466,24 @@
       "duration_ms": 425216,
       "name": "Heart Cry",
       "url": "https://open.spotify.com/track/7sj3foHbvvf33iGlhx2Rma"
+    },
+    {
+      "album": {
+        "name": "Heaven Sings Holy",
+        "url": "https://open.spotify.com/album/42BXK3yKX8LAeWGLr0Qigd"
+      },
+      "artists": [
+        {
+          "name": "Michael Gabriel Monroe",
+          "url": "https://open.spotify.com/artist/63ox6qPSxB4PsktUu1Qu75"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297417,
+      "name": "Heaven Sings Holy",
+      "url": "https://open.spotify.com/track/4KhMTGBEqYdTdLlos91oXI"
     },
     {
       "album": {
@@ -8045,6 +8129,32 @@
     },
     {
       "album": {
+        "name": "I Was Made To Glorify Your Name",
+        "url": "https://open.spotify.com/album/5WUPJV4LB0mMvypBL8Sfc0"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Grace Idowu",
+          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346056,
+      "name": "I Was Made To Glorify Your Name",
+      "url": "https://open.spotify.com/track/3OXx9dafJSuGO4OF5SiFLO"
+    },
+    {
+      "album": {
         "name": "Victory Lap",
         "url": "https://open.spotify.com/album/1HLdraTS3m3PgDkbJdFNXh"
       },
@@ -9489,6 +9599,28 @@
     },
     {
       "album": {
+        "name": "Just That Good",
+        "url": "https://open.spotify.com/album/1by7QZgO7PjgFybKSiszoA"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258509,
+      "name": "Just That Good",
+      "url": "https://open.spotify.com/track/4Io4Eg5hbiwUbjOs4PFIGY"
+    },
+    {
+      "album": {
         "name": "Now (Live)",
         "url": "https://open.spotify.com/album/7yRZsYRLvroRSwMfqaYEOA"
       },
@@ -9796,6 +9928,24 @@
       "duration_ms": 335849,
       "name": "Lamb of God - Live",
       "url": "https://open.spotify.com/track/3Qh7WTXJYgxVG0lr2TUK6o"
+    },
+    {
+      "album": {
+        "name": "Cathedral Sessions",
+        "url": "https://open.spotify.com/album/6nuxCuaEXELouyaN1qd0nB"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305023,
+      "name": "Lamb Of God/The Rock Won't Move (Medley) - Cathedral Sessions",
+      "url": "https://open.spotify.com/track/3GTZSEFF0oaD6DEpD7r1iU"
     },
     {
       "album": {
@@ -10810,7 +10960,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 398125,
       "name": "Midst",
       "url": "https://open.spotify.com/track/3iEVhb9l6mFqj2I2LUDGua"
@@ -10880,6 +11030,24 @@
       "duration_ms": 482500,
       "name": "Mighty Name of Jesus - Live",
       "url": "https://open.spotify.com/track/25KMQpquMxNuI91NGguYSu"
+    },
+    {
+      "album": {
+        "name": "Mighty Name Of Jesus - The Collection",
+        "url": "https://open.spotify.com/album/0wnHm1dJfcXDw74vgIUJN3"
+      },
+      "artists": [
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486956,
+      "name": "Mighty Name Of Jesus - Strings Version",
+      "url": "https://open.spotify.com/track/3uqqiJjJfKBjvtBJXySG9n"
     },
     {
       "album": {
@@ -11266,7 +11434,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 600000,
       "name": "Move Your Heart - Acoustic",
       "url": "https://open.spotify.com/track/1KnBcws65ojuFGqc500do6"
@@ -12593,6 +12761,28 @@
     },
     {
       "album": {
+        "name": "One And Only (with Cody Carnes)",
+        "url": "https://open.spotify.com/album/7KbPlFIesUg0x0twORygut"
+      },
+      "artists": [
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307919,
+      "name": "One And Only (with Cody Carnes)",
+      "url": "https://open.spotify.com/track/6oTSE8EOHyOIayrRoE6NmY"
+    },
+    {
+      "album": {
         "name": "One and Only Jesus",
         "url": "https://open.spotify.com/album/50OzYCE4poMoyteNi845mA"
       },
@@ -13862,6 +14052,28 @@
       "duration_ms": 336562,
       "name": "Rapha - Live",
       "url": "https://open.spotify.com/track/5TLenbM76rd2pkCeIwk45C"
+    },
+    {
+      "album": {
+        "name": "REASONS",
+        "url": "https://open.spotify.com/album/6JwDqip8UjGCoMQbsEh43v"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286750,
+      "name": "REASONS",
+      "url": "https://open.spotify.com/track/3brBg53ewJMBWamUJRm0TC"
     },
     {
       "album": {
@@ -15622,7 +15834,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 343458,
       "name": "Table Of The Lord - Live",
       "url": "https://open.spotify.com/track/4SIS0GmDA7iutDggCJmRSB"
@@ -17758,7 +17970,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 358175,
       "name": "Throne Room - Live from Garden Valley",
       "url": "https://open.spotify.com/track/568VR4OE2RAo3RVEOgcAIj"
@@ -18876,7 +19088,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 351978,
       "name": "What A Worthy Name",
       "url": "https://open.spotify.com/track/7vDwGrFOYLFrSD213NFnr3"
@@ -19244,7 +19456,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 253632,
       "name": "Who You'll Always Be - Reimagined",
       "url": "https://open.spotify.com/track/37QFWIEWsLUyzPDRuUiYhX"

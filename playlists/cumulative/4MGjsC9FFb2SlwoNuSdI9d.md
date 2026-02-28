@@ -4,7 +4,7 @@
 
 > Shake up your day at the office with this safe\-for\-work mix.
 
-272 songs - 14 hr 44 min
+273 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 | 2024-10-15 | 2024-11-09 |
 | [bulletproof](https://open.spotify.com/track/4V2bBjCOgiOSNtgrTZL0og) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [bulletproof](https://open.spotify.com/album/1hCiqZ2uyJT5fWd4pxWwx0) | 3:02 | 2024-03-22 | 2024-09-10 |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2023-11-28 |  |
+| [Cause I Do](https://open.spotify.com/track/00iDHVhXnvigmwfNJXyHq7) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Cause I Do](https://open.spotify.com/album/11Kn3hXn8f5QX4Cm8mSGhH) | 2:39 | 2026-02-27 |  |
 | [Chemical](https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq) | 3:04 | 2023-11-28 |  |
 | [Cherie Amour](https://open.spotify.com/track/0bNZpZSkdYkgvxQJ5QZuza) | [Sebastian Gaskin](https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za) | [Cherie Amour](https://open.spotify.com/album/6nI5dPVe0Gt5UplCz7ImGq) | 4:15 | 2024-09-09 | 2024-11-09 |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-05-27 | 2024-10-26 |

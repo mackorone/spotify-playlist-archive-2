@@ -4,7 +4,7 @@
 
 > ➡️ ➡️ ➡️ gute Laune.
 
-251 songs - 12 hr 20 min
+253 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 | 2024-11-09 |  |
 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 | 2023-07-21 | 2024-04-19 |
 | [Baianá](https://open.spotify.com/track/780be5fB7823aHG06mwTat) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/5pmFI5q0ob82elppBCel0W) | 3:00 | 2024-04-16 |  |
-| [Baller](https://open.spotify.com/track/4kbkYbhWNiSJraySknB4hD) | [Abor & Tynna](https://open.spotify.com/artist/58xrjO7pWlfj2C2uksXScP) | [Bittersüß](https://open.spotify.com/album/0PrVmVD88Xk509v7BOT6a2) | 2:39 | 2025-03-14 |  |
+| [Baller](https://open.spotify.com/track/4kbkYbhWNiSJraySknB4hD) | [Abor & Tynna](https://open.spotify.com/artist/58xrjO7pWlfj2C2uksXScP) | [Bittersüß](https://open.spotify.com/album/0PrVmVD88Xk509v7BOT6a2) | 2:39 | 2025-03-14 | 2026-02-28 |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/3lDSWvR0FXWGXo7mhDUs3v) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Familia](https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf) | 3:26 | 2025-05-22 | 2025-05-25 |
 | [Be Mine](https://open.spotify.com/track/5ejTcCJOozPqRPMs9gW3pN) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [Be Mine](https://open.spotify.com/album/4f7F3Kg3bB0aiWV3M97UBJ) | 2:36 | 2025-05-22 |  |
 | [Beat Of Your Heart](https://open.spotify.com/track/4luohviQijMNU3yWu8xUMr) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Beat Of Your Heart](https://open.spotify.com/album/2MGAPw592ly4ydVblvcMqr) | 3:29 | 2024-04-04 | 2025-08-06 |
@@ -122,7 +122,7 @@
 | [Heart Skips a Beat \(feat\. Rizzle Kicks\)](https://open.spotify.com/track/1f8UCzB3RqIgNkW7QIiIeP) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW), [Rizzle Kicks](https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF) | [In Case You Didn't Know](https://open.spotify.com/album/2OvZ8JCShhvxNkptwoGjve) | 3:22 | 2024-10-18 | 2025-06-05 |
 | [Heather On The Hill](https://open.spotify.com/track/7N3emAP0mWt2OYqxs0XYpc) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Heather On The Hill](https://open.spotify.com/album/2beYnTms954gTl7cYEupjN) | 2:19 | 2024-01-22 | 2025-02-14 |
 | [Heavy Metal Love](https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [Heavy Metal Love](https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH) | 2:12 | 2023-07-21 |  |
-| [Herz über Kopf](https://open.spotify.com/track/2krwNGlAHQuClcMw0WMUiz) | [JORIS](https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4) | [Hoffnungslos Hoffnungsvoll](https://open.spotify.com/album/6MHuwIyJMv2VsaBqzICOlc) | 3:24 | 2025-05-22 |  |
+| [Herz über Kopf](https://open.spotify.com/track/2krwNGlAHQuClcMw0WMUiz) | [JORIS](https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4) | [Hoffnungslos Hoffnungsvoll](https://open.spotify.com/album/6MHuwIyJMv2VsaBqzICOlc) | 3:24 | 2025-05-22 | 2026-02-28 |
 | [Hide Away](https://open.spotify.com/track/7fPyCCiXVwbzPQ1MtoUChl) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt) | 3:11 | 2024-04-16 | 2024-08-23 |
 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 | 2023-07-21 | 2023-08-29 |
 | [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 | 2023-07-21 | 2025-05-23 |
@@ -200,6 +200,7 @@
 | [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 | 2023-07-21 | 2024-04-19 |
 | [Simple Life](https://open.spotify.com/track/3AxfLI7PFjoe2voK0bmXjD) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Simple Life](https://open.spotify.com/album/7wwURNGmjYqXm1XRA4aIRf) | 2:33 | 2024-05-10 | 2024-11-27 |
 | [Single Soon](https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Single Soon](https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO) | 2:51 | 2023-08-28 | 2024-05-02 |
+| [Sitting Down Here \(feat\. Lilly Ahlberg\)](https://open.spotify.com/track/7vu6ybPQYHIKfrqg73ZI2d) | [Albi](https://open.spotify.com/artist/7AANDBs83JY3hFkYl7T3kk), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Sitting Down Here \(feat\. Lilly Ahlberg\)](https://open.spotify.com/album/7ySSTmTidGWYiMkHZKxa1g) | 2:38 | 2026-02-27 |  |
 | [Sleeping With The Lights On](https://open.spotify.com/track/79WmVVG6KbCecp45eyhbfX) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Second Wind](https://open.spotify.com/album/78ukESSuIkLhGjuQhvw0Nc) | 3:44 | 2025-05-22 |  |
 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 | 2024-05-22 |  |
 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 | 2023-07-21 | 2024-11-03 |
@@ -226,6 +227,7 @@
 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 | 2023-07-21 |  |
 | [There She Goes](https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs), [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [There She Goes](https://open.spotify.com/album/3gHDnPPOgXcueJrL1r03q2) | 2:01 | 2025-05-22 |  |
 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 | 2023-07-21 |  |
+| [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 | 2026-02-27 |  |
 | [Told You So](https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Told You So](https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H) | 3:07 | 2024-11-22 |  |
 | [Too Much](https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Too Much](https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM) | 2:51 | 2025-02-27 |  |
 | [Training Season](https://open.spotify.com/track/2UrKwpJwcoOlYZpooWD1hY) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/06BHopbQdo37rMND9RWZZg) | 3:29 | 2024-04-16 | 2024-06-17 |

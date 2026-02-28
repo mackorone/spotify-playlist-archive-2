@@ -2039,6 +2039,24 @@
     },
     {
       "album": {
+        "name": "Don't Hold Me Just To Hold On",
+        "url": "https://open.spotify.com/album/10oSwq5p6ZSsJlkOg55P9I"
+      },
+      "artists": [
+        {
+          "name": "Gaussian Blue",
+          "url": "https://open.spotify.com/artist/6e9PQ9YiHtKk7BAvxxM5nu"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229714,
+      "name": "Don't Hold Me Just To Hold On",
+      "url": "https://open.spotify.com/track/7aqLZzTRqYXpMXyHjHID6p"
+    },
+    {
+      "album": {
         "name": "White Couch In The House",
         "url": "https://open.spotify.com/album/3cTiczSilNcUyTHop73Kss"
       },

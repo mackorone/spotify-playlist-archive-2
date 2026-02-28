@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQkHAMKYFuV.md) - [plain]
 
 > The Latin soundtrack of the 2010s! Cover: Daddy Yankee & Luis Fonsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,903 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,924 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQkHAMKYFuV.md) - [plain]
 | 4 | [Borro Cassette](https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Pretty Boy, Dirty Boy](https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7) | 3:27 |
 | 5 | [Danza Kuduro](https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:18 |
 | 6 | [I Like It](https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 4:13 |
-| 7 | [Chantaje \(feat\. Maluma\)](https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [El Dorado](https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN) | 3:15 |
-| 8 | [QUE PRETENDES](https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 3:42 |
+| 7 | [QUE PRETENDES](https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 3:42 |
+| 8 | [Chantaje \(feat\. Maluma\)](https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [El Dorado](https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN) | 3:15 |
 | 9 | [La player \(Bandolera\)](https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [La player \(Bandolera\)](https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi) | 4:09 |
 | 10 | [Propuesta Indecente](https://open.spotify.com/track/5PycBIeabfvX3n9ILG7Vrv) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 3:55 |
 | 11 | [Se Preparó](https://open.spotify.com/track/1m69ELEgE6k5ZWsap40ozt) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:08 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQkHAMKYFuV.md) - [plain]
 | 45 | [Dutty Love](https://open.spotify.com/track/2oJH69cuNyWpCmZyTmvrEN) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Don Omar Presents MTO2: New Generation](https://open.spotify.com/album/7vyVMX83PJNulUZUgbKfuY) | 4:45 |
 | 46 | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Primera Cita](https://open.spotify.com/album/0YLrAWUbY0nyM7PFtqnYld) | 3:42 |
 | 47 | [Adiós Amor](https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:19 |
-| 48 | [Yo x Ti, Tu x Mi](https://open.spotify.com/track/7BlBVFwvbWvcwNcUarQmjk) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Yo x Ti, Tu x Mi](https://open.spotify.com/album/3844bY26oeSkqd06th4EYp) | 3:21 |
-| 49 | [Cómo Te Atreves](https://open.spotify.com/track/7M6CFruBrM5x7u0lTMtm6r) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sobre El Amor Y Sus Efectos Secundarios](https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz) | 4:00 |
-| 50 | [Échame La Culpa](https://open.spotify.com/track/0mlAOSILGRys2IbvyOT5VJ) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [VIDA](https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH) | 2:53 |
+| 48 | [Cómo Te Atreves](https://open.spotify.com/track/7M6CFruBrM5x7u0lTMtm6r) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sobre El Amor Y Sus Efectos Secundarios](https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz) | 4:00 |
+| 49 | [Échame La Culpa](https://open.spotify.com/track/0mlAOSILGRys2IbvyOT5VJ) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [VIDA](https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH) | 2:53 |
+| 50 | [Yo x Ti, Tu x Mi](https://open.spotify.com/track/7BlBVFwvbWvcwNcUarQmjk) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Yo x Ti, Tu x Mi](https://open.spotify.com/album/3844bY26oeSkqd06th4EYp) | 3:21 |
 
 Snapshot ID: `AAAAABbRp38a7qMiEiuV7uJKs6qBDZGr`

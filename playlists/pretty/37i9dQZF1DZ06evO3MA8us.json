@@ -1,12 +1,12 @@
 {
   "description": "This is Passion. The essential tracks, all in one playlist.",
-  "num_followers": 35375,
+  "num_followers": 35382,
   "original_name": "This Is Passion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAADMk/hB/iA7/kY7Aek6SnAg",
+  "snapshot_id": "aZ+NAAAAAACoj6wvrzHO7qgs46vBOs/D",
   "tracks": [
     {
       "added_at": null,
@@ -471,26 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: Let The Future Begin (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6FdImKs7ZL5y2pi1x2Kea3"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 508800,
-      "name": "Revelation Song - Live",
-      "url": "https://open.spotify.com/track/35msHwn81uKQS5Jn783oSU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What A Worthy Name",
         "url": "https://open.spotify.com/album/3erIkPijGp3lIh2gASA55v"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 239211,
       "name": "Watch Him Work",
       "url": "https://open.spotify.com/track/6L5z4CiRIrnoNrlB32vQyI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Passion: Let The Future Begin (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6FdImKs7ZL5y2pi1x2Kea3"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 508800,
+      "name": "Revelation Song - Live",
+      "url": "https://open.spotify.com/track/35msHwn81uKQS5Jn783oSU"
     },
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Follow You Anywhere (Live)",
-        "url": "https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 300933,
-      "name": "Follow You Anywhere - Live",
-      "url": "https://open.spotify.com/track/3OhF89cVIbCq5oG4syZ3dr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At Easter",
         "url": "https://open.spotify.com/album/5a3igU8xcTmZ0aHWx7j6Ng"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 402973,
       "name": "Agnus Dei / King of Kings",
       "url": "https://open.spotify.com/track/5eNGfAKI1AJXyRH0JwKEdP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Follow You Anywhere (Live)",
+        "url": "https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 300933,
+      "name": "Follow You Anywhere - Live",
+      "url": "https://open.spotify.com/track/3OhF89cVIbCq5oG4syZ3dr"
     },
     {
       "added_at": null,
@@ -751,6 +751,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Passion: Our Love Is Loud (Live)",
+        "url": "https://open.spotify.com/album/1NgdxA1GTFVNUvb2dxOaqy"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 291626,
+      "name": "Here I Am To Worship - Live",
+      "url": "https://open.spotify.com/track/2Cg6FXKNsP1JV4Nzoz2six"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Call On Heaven (Come, Lord Jesus) - Live",
         "url": "https://open.spotify.com/album/4tgH3HIbpzXKMjDIadVHIY"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 362680,
       "name": "The Lamb's Book of Life - Live From Passion 2025",
       "url": "https://open.spotify.com/track/0wfutOGnaGste3UPCEFHEV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Passion: Our Love Is Loud (Live)",
-        "url": "https://open.spotify.com/album/1NgdxA1GTFVNUvb2dxOaqy"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 291626,
-      "name": "Here I Am To Worship - Live",
-      "url": "https://open.spotify.com/track/2Cg6FXKNsP1JV4Nzoz2six"
     },
     {
       "added_at": null,
@@ -859,6 +859,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live From LIFT: Creative Conference",
+        "url": "https://open.spotify.com/album/1es3MMzzi1DrLJ4PmWdYk3"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Jourdan Johnson",
+          "url": "https://open.spotify.com/artist/4txdUXlNO7VGMJf6wVzt2X"
+        }
+      ],
+      "duration_ms": 221477,
+      "name": "Shout To The Lord - Live From LIFT: Creative Conference",
+      "url": "https://open.spotify.com/track/3TgQ3xHqSB4vAJ9WfcrtLL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Passion: Here For You (Live)",
         "url": "https://open.spotify.com/album/0NGmtUx2BoGIxzfaCmLj4O"
       },
@@ -879,8 +899,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live From LIFT: Creative Conference",
-        "url": "https://open.spotify.com/album/1es3MMzzi1DrLJ4PmWdYk3"
+        "name": "Passion: Our Love Is Loud (Live)",
+        "url": "https://open.spotify.com/album/1NgdxA1GTFVNUvb2dxOaqy"
       },
       "artists": [
         {
@@ -888,13 +908,13 @@
           "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
-          "name": "Jourdan Johnson",
-          "url": "https://open.spotify.com/artist/4txdUXlNO7VGMJf6wVzt2X"
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 221477,
-      "name": "Shout To The Lord - Live From LIFT: Creative Conference",
-      "url": "https://open.spotify.com/track/3TgQ3xHqSB4vAJ9WfcrtLL"
+      "duration_ms": 278440,
+      "name": "God Of Wonders - Live",
+      "url": "https://open.spotify.com/track/4VvhdAJYKkQoVqug73IeOL"
     },
     {
       "added_at": null,
@@ -919,8 +939,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: Our Love Is Loud (Live)",
-        "url": "https://open.spotify.com/album/1NgdxA1GTFVNUvb2dxOaqy"
+        "name": "Passion: Everything Glorious",
+        "url": "https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF"
       },
       "artists": [
         {
@@ -932,9 +952,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 278440,
-      "name": "God Of Wonders - Live",
-      "url": "https://open.spotify.com/track/4VvhdAJYKkQoVqug73IeOL"
+      "duration_ms": 268853,
+      "name": "Awesome Is The Lord Most High",
+      "url": "https://open.spotify.com/track/66knRxw7curkSwborNv7B0"
     },
     {
       "added_at": null,
@@ -963,26 +983,6 @@
       "duration_ms": 314535,
       "name": "Bless God - Live From Passion 2024",
       "url": "https://open.spotify.com/track/55891kIDHcEGReUrpD461w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Passion: Everything Glorious",
-        "url": "https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 268853,
-      "name": "Awesome Is The Lord Most High",
-      "url": "https://open.spotify.com/track/66knRxw7curkSwborNv7B0"
     },
     {
       "added_at": null,

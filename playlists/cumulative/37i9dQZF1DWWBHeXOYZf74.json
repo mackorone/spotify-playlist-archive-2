@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Cover: Baby Keem",
+  "description": "Genre-less. Quality first always. Cover: Grace Ives",
   "name": "POLLEN",
   "tracks": [
     {
@@ -17695,6 +17695,24 @@
     },
     {
       "album": {
+        "name": "Re:",
+        "url": "https://open.spotify.com/album/14z98bVbZBeqgDptfsvh49"
+      },
+      "artists": [
+        {
+          "name": "the sound chalk makes",
+          "url": "https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188124,
+      "name": "Electronic Eyes",
+      "url": "https://open.spotify.com/track/5toBKJkz6YzVN25mXyEOSG"
+    },
+    {
+      "album": {
         "name": "Electronicity",
         "url": "https://open.spotify.com/album/3WPR5y3pK1RW3GMt9ivjUC"
       },
@@ -24819,6 +24837,24 @@
     },
     {
       "album": {
+        "name": "COMETA",
+        "url": "https://open.spotify.com/album/0NV262RAj9h3a0DlLkJuYB"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253373,
+      "name": "Happen",
+      "url": "https://open.spotify.com/track/2fo5XVkVtd91WoSArcFemh"
+    },
+    {
+      "album": {
         "name": "With A Hammer",
         "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
       },
@@ -29500,6 +29536,28 @@
       "duration_ms": 117253,
       "name": "iinterlude 1",
       "url": "https://open.spotify.com/track/7irOypwMabCLuaKXQJdG0u"
+    },
+    {
+      "album": {
+        "name": "Illegal + Four Tet",
+        "url": "https://open.spotify.com/album/3MZZ31nzSpnUqFXffSI8mS"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "Illegal + Four Tet",
+      "url": "https://open.spotify.com/track/0hx680ZzQUWHqIbbj21XQj"
     },
     {
       "album": {
@@ -37978,7 +38036,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 128770,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/1HEYW4REh7DLbv5aE5vqkI"
@@ -38842,7 +38900,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 280790,
       "name": "Mother",
       "url": "https://open.spotify.com/track/5goc5XgGhACpIurZUOe9eM"
@@ -39310,7 +39368,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 165599,
       "name": "My Muse",
       "url": "https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1"
@@ -59462,7 +59520,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 308608,
       "name": "TRAVELERS",
       "url": "https://open.spotify.com/track/0E5YfHjYfK5PLD8bq3N4fk"
@@ -59574,7 +59632,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 230126,
       "name": "Tropical Storm",
       "url": "https://open.spotify.com/track/2yNcPf7aviICcMs6vj5HPX"
@@ -61476,7 +61534,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 288450,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/6fgGUaT6f1hmfLSSsAjuKM"
@@ -61520,6 +61578,32 @@
       "duration_ms": 252573,
       "name": "Waiting in Vain - Spotify Singles",
       "url": "https://open.spotify.com/track/5tHipIzrGqcoZ4ovlW1Aip"
+    },
+    {
+      "album": {
+        "name": "SYNY 3 Act I",
+        "url": "https://open.spotify.com/album/7HcelJ0xbHNYZ5QaPTg3p9"
+      },
+      "artists": [
+        {
+          "name": "Billy Lemos",
+          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
+        },
+        {
+          "name": "See You Next Year",
+          "url": "https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv"
+        },
+        {
+          "name": "Igwe Aka",
+          "url": "https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153682,
+      "name": "Wake Up and Get Sexy",
+      "url": "https://open.spotify.com/track/061lImbIi2dyZift5GqtIo"
     },
     {
       "album": {

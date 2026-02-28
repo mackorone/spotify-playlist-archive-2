@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: SuperJazzClub
 
-1,024 songs - 2 day 1 hr 33 min
+1,024 songs - 2 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 | 2023-04-14 | 2023-05-05 |
 | [Deep End](https://open.spotify.com/track/0DDpQSUMPkeBIUD8GKtkLT) | [Adey](https://open.spotify.com/artist/7fhpMY84rQV2StaeBivWOI) | [Akiba](https://open.spotify.com/album/0qeoUkFuY2vTbvIwZmOkMJ) | 3:12 | 2021-02-26 | 2022-02-11 |
 | [Deep End](https://open.spotify.com/track/6w2WWyBAOXQeP6waVT9s5O) | [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [Deep End](https://open.spotify.com/album/5lxES27OgTtXmCDhsBrvKP) | 3:22 | 2024-03-21 | 2024-03-25 |
+| [Deeper Than Love](https://open.spotify.com/track/621gWcQWi29Ka1veHGYVEI) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Love Stray](https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d) | 2:57 | 2026-02-27 |  |
 | [Designer Baby](https://open.spotify.com/track/6N24qh0lNjPDph0rdWDxKK) | [Elestee](https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [Designer Baby](https://open.spotify.com/album/1Ke1d51iQOvKKqmQ4O3Z1W) | 2:22 | 2025-08-29 |  |
 | [Detonate](https://open.spotify.com/track/6ufuzc7b2zgkpK22dPcmti) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Zirra](https://open.spotify.com/artist/3ygMZBYwEeR5Vd5Qze8IYl) | [For Good Reasons](https://open.spotify.com/album/7zDDdXCpkiw7NjP8yh5TNt) | 2:06 | 2022-07-07 | 2023-04-09 |
 | [Diamonds \(feat\. Fireboy DML\)](https://open.spotify.com/track/09JFIHQ8IPDKrbaDxTICxY) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Still The Mayor](https://open.spotify.com/album/0Ev8VZe0x9bTzf55gVQNeR) | 2:20 | 2025-06-13 | 2025-08-15 |
@@ -939,7 +940,6 @@
 | [Touché](https://open.spotify.com/track/6AmCAKY1V1msPUiqogglVW) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Moneybag](https://open.spotify.com/album/26MQEJC5dvEQL1rfShAXao) | 2:14 | 2023-10-20 | 2024-04-05 |
 | [Toxic Love Story](https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ) | [Jontae](https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8) | [Toxic Love Story](https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY) | 2:20 | 2024-01-08 | 2024-05-03 |
 | [Toyin Tomato](https://open.spotify.com/track/4M4FJYE3mTKtpvUld3cXJn) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [Love is War](https://open.spotify.com/album/4T7WOGmFKYhXwGYMTylhfq) | 2:48 | 2021-10-15 | 2022-02-11 |
-| [Track 1](https://open.spotify.com/track/621gWcQWi29Ka1veHGYVEI) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Love Stray](https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d) | 0:00 | 2026-02-27 |  |
 | [Trappin'](https://open.spotify.com/track/5plaVEdji1xkIuEEKvuVEt) | [Re.decay](https://open.spotify.com/artist/0PDj0ZH3LHrGifJSeDZKWF), [Tinuke](https://open.spotify.com/artist/5AzAEBREBwVj9AOmHNG5X1), [Eze Jackson](https://open.spotify.com/artist/5tPCFmRzyUGp5ZNqSC54QM) | [Trappin'](https://open.spotify.com/album/5hryGF4CvfTG6IIeK5SLVq) | 3:00 | 2022-05-12 | 2022-05-27 |
 | [Tropicana](https://open.spotify.com/track/3owm3LW9jSaF0UjULZvGJw) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Flash](https://open.spotify.com/artist/4YpdJj3xKNzKiLjowqoi0p) | [Palmwine Music 2](https://open.spotify.com/album/40nNC1WqyKr4IHIJH0cxS5) | 4:15 | 2024-03-21 | 2024-03-25 |
 | [Trouble](https://open.spotify.com/track/3Dw2KQ25px8I1pFVyKDVVO) | [Keziah Mallam](https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Trouble](https://open.spotify.com/album/3c6unOML6k41c3dkN9pxDe) | 3:28 | 2025-04-04 | 2025-10-17 |

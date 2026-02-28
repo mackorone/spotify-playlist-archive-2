@@ -1,13 +1,45 @@
 {
-  "description": "Sit back and relax to the chillest pop.  Cover: Olivia Dean",
-  "num_followers": 1806316,
+  "description": "Sit back and relax to the chillest pop.  Cover: Chelsea Jordan",
+  "num_followers": 1806219,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPVOeBHyt4cEW9mpNkUrFWwKJmU1",
+  "snapshot_id": "AAAAAG1kSl4UjFZXRjgtzMxhFaL8Fuxt",
   "tracks": [
+    {
+      "added_at": "2026-02-27 18:35:08",
+      "album": {
+        "name": "picky choosy",
+        "url": "https://open.spotify.com/album/6TD2tnPDc1FltOgEHw0Hpe"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Jordan",
+          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
+        }
+      ],
+      "duration_ms": 173988,
+      "name": "picky choosy",
+      "url": "https://open.spotify.com/track/3AcYk3jezQA6jc6A64mKw2"
+    },
+    {
+      "added_at": "2026-02-27 18:35:08",
+      "album": {
+        "name": "Flowers - Spotify Singles",
+        "url": "https://open.spotify.com/album/2xNxoIoAdqikspBdAGNshj"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "duration_ms": 236167,
+      "name": "Flowers - Spotify Singles",
+      "url": "https://open.spotify.com/track/5QlTdFRhzFV72ieDj04sdD"
+    },
     {
       "added_at": "2026-02-13 05:00:47",
       "album": {
@@ -23,6 +55,22 @@
       "duration_ms": 212000,
       "name": "A Couple Minutes",
       "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk"
+    },
+    {
+      "added_at": "2026-02-27 18:35:08",
+      "album": {
+        "name": "How I Get",
+        "url": "https://open.spotify.com/album/70NOPNFs2y4lZMrowJzPuY"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 219866,
+      "name": "How I Get",
+      "url": "https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi"
     },
     {
       "added_at": "2026-01-30 00:00:09",
@@ -57,6 +105,22 @@
       "url": "https://open.spotify.com/track/16zIGnAmzJUQY0aZPjiqQ5"
     },
     {
+      "added_at": "2026-02-27 18:35:08",
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/5w4Va9YoVAS3MCAiyMbfkR"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 227040,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5Lu0RsvwyI37fzUAjIb6RL"
+    },
+    {
       "added_at": "2026-02-20 17:49:49",
       "album": {
         "name": "Prizefighter",
@@ -75,6 +139,22 @@
       "duration_ms": 178200,
       "name": "Badlands (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/1kSdbaUZOEQTC8RmoxOYeA"
+    },
+    {
+      "added_at": "2026-02-27 18:35:08",
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 204068,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
     },
     {
       "added_at": "2026-02-06 05:00:49",
@@ -127,6 +207,22 @@
       "duration_ms": 187240,
       "name": "Cry",
       "url": "https://open.spotify.com/track/3G0SQeuephtTBg5OZtXyRD"
+    },
+    {
+      "added_at": "2026-02-27 18:35:08",
+      "album": {
+        "name": "Songs I Can Bike To",
+        "url": "https://open.spotify.com/album/0LbyXbPyzcSXF9l8dsBGGb"
+      },
+      "artists": [
+        {
+          "name": "Hojean",
+          "url": "https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w"
+        }
+      ],
+      "duration_ms": 178847,
+      "name": "Wanna Run",
+      "url": "https://open.spotify.com/track/09aWdUkqeYu7cNHGRnoPoW"
     },
     {
       "added_at": "2026-02-20 05:00:44",
@@ -209,6 +305,26 @@
       "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
     },
     {
+      "added_at": "2026-02-27 18:35:08",
+      "album": {
+        "name": "You\u2019ll Be The Proof (feat. Joy Williams)",
+        "url": "https://open.spotify.com/album/4QQj3QOSKqEEuJ1RdhJiAf"
+      },
+      "artists": [
+        {
+          "name": "Forest Blakk",
+          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+        },
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 206504,
+      "name": "You\u2019ll Be The Proof (feat. Joy Williams)",
+      "url": "https://open.spotify.com/track/3IC5qtXccheQyYw27oSSD4"
+    },
+    {
       "added_at": "2026-02-20 05:00:44",
       "album": {
         "name": "Shadow Of A Bird",
@@ -271,6 +387,22 @@
       "duration_ms": 189800,
       "name": "Is This Love??",
       "url": "https://open.spotify.com/track/2WZ2OD87MX3vVPv4OoKJ4M"
+    },
+    {
+      "added_at": "2026-02-27 18:35:08",
+      "album": {
+        "name": "So Many Ways",
+        "url": "https://open.spotify.com/album/2wTLPH7cnRqnhdFNVFcqFC"
+      },
+      "artists": [
+        {
+          "name": "Scout Willis",
+          "url": "https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN"
+        }
+      ],
+      "duration_ms": 212373,
+      "name": "So Many Ways",
+      "url": "https://open.spotify.com/track/3YvLgFx7MCEYbwkbJwIGOW"
     },
     {
       "added_at": "2025-12-05 05:05:38",
@@ -957,22 +1089,6 @@
       "url": "https://open.spotify.com/track/12zzqWVkgNwlMf8BJ577I7"
     },
     {
-      "added_at": "2025-12-12 05:00:48",
-      "album": {
-        "name": "I Could Miss You Forever",
-        "url": "https://open.spotify.com/album/3wakAMVNSBt9CTCdnoUEmx"
-      },
-      "artists": [
-        {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
-        }
-      ],
-      "duration_ms": 217908,
-      "name": "I Could Miss You Forever",
-      "url": "https://open.spotify.com/track/3F81PYqkx4j3pFX9aQORg0"
-    },
-    {
       "added_at": "2025-12-19 22:07:23",
       "album": {
         "name": "Just Life",
@@ -1149,22 +1265,6 @@
       "url": "https://open.spotify.com/track/1dRiTUbseehXIvzipgdKLp"
     },
     {
-      "added_at": "2025-11-08 16:45:50",
-      "album": {
-        "name": "level out",
-        "url": "https://open.spotify.com/album/3FjMfYxndHPZhkFpY0lRHn"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Jordan",
-          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
-        }
-      ],
-      "duration_ms": 176047,
-      "name": "level out",
-      "url": "https://open.spotify.com/track/6KmdpMArS0ad5meH19KSws"
-    },
-    {
       "added_at": "2025-11-22 18:15:26",
       "album": {
         "name": "UNDONE",
@@ -1211,22 +1311,6 @@
       "duration_ms": 215511,
       "name": "Camera",
       "url": "https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka"
-    },
-    {
-      "added_at": "2025-12-05 05:05:38",
-      "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/3tffwNpUA42EvmJ2O2NLGl"
-      },
-      "artists": [
-        {
-          "name": "Kristina Moe Hals",
-          "url": "https://open.spotify.com/artist/3NXTbjiBgCAFlZgl4ISwFj"
-        }
-      ],
-      "duration_ms": 157524,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/4mPmG1qvK98PXeNhLVFMVB"
     },
     {
       "added_at": "2025-11-14 05:00:32",
@@ -1295,22 +1379,6 @@
       "duration_ms": 199896,
       "name": "WANTCHU",
       "url": "https://open.spotify.com/track/0XWf8CRB6IptewumZDi5b6"
-    },
-    {
-      "added_at": "2025-11-28 05:00:25",
-      "album": {
-        "name": "Changing",
-        "url": "https://open.spotify.com/album/6mTrLn3lgmcX1Wj4sZNadR"
-      },
-      "artists": [
-        {
-          "name": "Kevin Jonas",
-          "url": "https://open.spotify.com/artist/11bdWrCwHE2gCdVARdASuu"
-        }
-      ],
-      "duration_ms": 182467,
-      "name": "Changing",
-      "url": "https://open.spotify.com/track/3Fq2jP7WOh6Jmw82J0ZUv9"
     },
     {
       "added_at": "2025-11-08 16:45:50",
@@ -1495,50 +1563,6 @@
     {
       "added_at": "2025-11-08 16:45:50",
       "album": {
-        "name": "The Dream",
-        "url": "https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi"
-      },
-      "artists": [
-        {
-          "name": "The Favors",
-          "url": "https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI"
-        },
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        },
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 217143,
-      "name": "David's Brother",
-      "url": "https://open.spotify.com/track/7HIIgAScOr8ywjvJiraobh"
-    },
-    {
-      "added_at": "2025-11-08 16:45:50",
-      "album": {
-        "name": "Cry about it! (feat. Ravyn Lenae)",
-        "url": "https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 171507,
-      "name": "Cry about it! (feat. Ravyn Lenae)",
-      "url": "https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH"
-    },
-    {
-      "added_at": "2025-11-08 16:45:50",
-      "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
@@ -1551,38 +1575,6 @@
       "duration_ms": 187130,
       "name": "Picture You",
       "url": "https://open.spotify.com/track/5KtvumPgVZmt8wg9xONE0T"
-    },
-    {
-      "added_at": "2025-11-08 16:45:50",
-      "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
-    },
-    {
-      "added_at": "2025-11-08 16:45:50",
-      "album": {
-        "name": "halfwaythru",
-        "url": "https://open.spotify.com/album/26qByOEvSOrNK0MNUw68MS"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Jordan",
-          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
-        }
-      ],
-      "duration_ms": 193627,
-      "name": "halfwaythru",
-      "url": "https://open.spotify.com/track/6EpqDPPT3GAdHmeFcFlRGw"
     },
     {
       "added_at": "2025-11-08 16:45:50",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A new take on a classic sound. Cover: Samm Henshaw",
+  "description": "A new take on a classic sound. Cover: The Womack Sisters",
   "name": "Retro Soul",
   "tracks": [
     {
@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 176640,
       "name": "Can\u2019t Sit Down",
       "url": "https://open.spotify.com/track/0fPfnMUL1qFzkLAIs1bwNl"
@@ -1216,6 +1216,24 @@
       "duration_ms": 327680,
       "name": "Cheating in the Daylight",
       "url": "https://open.spotify.com/track/70wmWSlvCFeoYHSgoGsbpk"
+    },
+    {
+      "album": {
+        "name": "Cherry",
+        "url": "https://open.spotify.com/album/0dVEDCqihLJ7o8eCxGg2Pu"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266678,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/3X68ExQpQzMCTCHsiqaQLI"
     },
     {
       "album": {
@@ -1468,7 +1486,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 169533,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/1svVLna35B0S0gYRE41UhR"
@@ -4398,7 +4416,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 186389,
       "name": "If You Want Me",
       "url": "https://open.spotify.com/track/7jY1fynjJEtkiSpMkQSk2P"
@@ -5725,6 +5743,24 @@
     },
     {
       "album": {
+        "name": "Lovin' Made Easy",
+        "url": "https://open.spotify.com/album/47bxdJhnEQ92tIzOyqqlyU"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283420,
+      "name": "Lovin' Made Easy",
+      "url": "https://open.spotify.com/track/2DE5u62CmddU4ct3jEoYm4"
+    },
+    {
+      "album": {
         "name": "Loving You is All I Want to Do",
         "url": "https://open.spotify.com/album/4TJt3xetzmO9t4hQSRBQnf"
       },
@@ -6998,7 +7034,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 259760,
       "name": "Pieces Of Us",
       "url": "https://open.spotify.com/track/2Rjo86V2HgAuKsypgvGIjd"
@@ -7378,7 +7414,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 282800,
       "name": "Redwood Highway",
       "url": "https://open.spotify.com/track/1XNEwekHRd1vPGg9rjIKB0"
@@ -8506,6 +8542,24 @@
       "duration_ms": 240468,
       "name": "Something Bout You",
       "url": "https://open.spotify.com/track/74H0ZAy5DdEYRVpM7uiAVv"
+    },
+    {
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166458,
+      "name": "Something Serious",
+      "url": "https://open.spotify.com/track/0PV4VQCmE6Ujssr1bnswdF"
     },
     {
       "album": {
@@ -10705,6 +10759,28 @@
     },
     {
       "album": {
+        "name": "Wonderful Love",
+        "url": "https://open.spotify.com/album/1vJVEvcpk9fajiz3sj2RYb"
+      },
+      "artists": [
+        {
+          "name": "Family Company",
+          "url": "https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0"
+        },
+        {
+          "name": "MacKenzie",
+          "url": "https://open.spotify.com/artist/3RGJj3VbTVH4BOhCNlyWcY"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332400,
+      "name": "Wonderful Love",
+      "url": "https://open.spotify.com/track/5pHjmN9vFGPT94ZKtZ1bGN"
+    },
+    {
+      "album": {
         "name": "Wonderland",
         "url": "https://open.spotify.com/album/3PRqDNpAzwzxAJqHWhL0cS"
       },
@@ -10937,6 +11013,24 @@
     },
     {
       "album": {
+        "name": "You Belong to Me",
+        "url": "https://open.spotify.com/album/0qyXrH6kgG48cFNBItTgCd"
+      },
+      "artists": [
+        {
+          "name": "Sam Pounds",
+          "url": "https://open.spotify.com/artist/1XoE8WpGuDGZ0SY1piWND1"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175104,
+      "name": "You Belong to Me",
+      "url": "https://open.spotify.com/track/6aiO3yDfoyrK29s5Ks3dqe"
+    },
+    {
+      "album": {
         "name": "Waiting on the Sidelines",
         "url": "https://open.spotify.com/album/5kABgENIqXOEWtN3o6rcPn"
       },
@@ -10988,6 +11082,24 @@
       "duration_ms": 187213,
       "name": "You Know What It Do",
       "url": "https://open.spotify.com/track/1YPsvTzKTMsQjrdC88CRcT"
+    },
+    {
+      "album": {
+        "name": "You Went Away Too Long",
+        "url": "https://open.spotify.com/album/5NpT7rCbRYs6LRMcmBEKOD"
+      },
+      "artists": [
+        {
+          "name": "The Womack Sisters",
+          "url": "https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199081,
+      "name": "You Went Away Too Long",
+      "url": "https://open.spotify.com/track/7Bxor3rKUpBDuNi9lVIzpz"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-730 songs - 2 day 13 hr 58 min
+731 songs - 2 day 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Almighty God](https://open.spotify.com/track/58NEx1sxFYC4wb3Y4LL0oW) | [Richy Okechukwu](https://open.spotify.com/artist/1xx5Qcso7kYFgcZgnfoqGW) | [Almighty God](https://open.spotify.com/album/3I0COoh7CIZsnFvyOuql4j) | 4:40 | 2025-09-26 | 2025-10-28 |
 | [Alpha Omega \(Radio Edit\)](https://open.spotify.com/track/1cjnRNR7aKHrSsVDKFYFnz) | [Helen Yawson](https://open.spotify.com/artist/3ChtrSrR4Klo88Gkp3mCc0) | [Alpha Omega \(Radio Edit\)](https://open.spotify.com/album/5FqdpJR39kJBWzmPTrIzHD) | 5:24 | 2025-06-13 | 2025-07-17 |
 | [Altar \(Hosanna\)](https://open.spotify.com/track/3q3ItcIZzhzCSmKIvWhfWU) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Altar \(Hosanna\)](https://open.spotify.com/album/1sJoz2kILCHl7n6wn351ko) | 2:52 | 2024-01-26 | 2024-07-12 |
-| [Always On Time](https://open.spotify.com/track/2UEYKgubqd6fp5DBwjXXqa) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Always On Time](https://open.spotify.com/album/1jdKdSOBaFjfBIsd0RwnKa) | 4:01 | 2025-09-26 |  |
+| [Always On Time](https://open.spotify.com/track/2UEYKgubqd6fp5DBwjXXqa) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Always On Time](https://open.spotify.com/album/1jdKdSOBaFjfBIsd0RwnKa) | 4:01 | 2025-09-26 | 2026-02-28 |
 | [Amaram Onyewem \- Live](https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Pastor Jerry Eze](https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn) | [Amaram Onyewem \(Live\)](https://open.spotify.com/album/0xSHtIqcHSX3OBLolbuKgP) | 10:42 | 2024-01-12 | 2025-06-20 |
 | [Amazing](https://open.spotify.com/track/3LPNm4v3yBQouZbLI3oqC5) | [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O), [Debbiie](https://open.spotify.com/artist/6FyetlIUC4TsUoXLZYkct9) | [Amazing](https://open.spotify.com/album/7tIynKtMjFoojTrgk1ilKO) | 2:56 | 2025-07-04 | 2025-08-03 |
 | [Amazing Grace](https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Amazing Grace](https://open.spotify.com/album/0rqRhC288otR9wnmgHz6Bb) | 2:56 | 2024-02-02 | 2025-05-09 |
@@ -289,6 +289,7 @@
 | [How Can I Forget?](https://open.spotify.com/track/5qKnVUFrx6xwuaPFs0eUhm) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [How Can I Forget?](https://open.spotify.com/album/4AHvbn1Co6cKRVGVf0k8is) | 3:18 | 2025-06-27 |  |
 | [How Excellent Is Your Name \- Live](https://open.spotify.com/track/2PkBsj7plaSZabkhuwy5RW) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [How Excellent Is Your Name \(Live\)](https://open.spotify.com/album/52mkWaKaDVVkYcReBBCrom) | 5:55 | 2025-08-29 | 2025-11-28 |
 | [How Great You Are](https://open.spotify.com/track/2uNdZjm6wWzLap2asj1f1S) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g) | [How Great You Are](https://open.spotify.com/album/0jJ8AgkTxfZIyJIVyrdMkc) | 5:18 | 2025-09-19 | 2025-11-12 |
+| [How Great You Are](https://open.spotify.com/track/1OpSbgyZYJbp1x2SZn0T5s) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [How Great You Are](https://open.spotify.com/album/1JsZjTtezfklllI2AMjoku) | 3:43 | 2026-02-20 |  |
 | [Hunger](https://open.spotify.com/track/76QxXnjKzq7E1B4PoLpPFf) | [K\-Medley](https://open.spotify.com/artist/4l14tKWGq5TEm5NEXvcRI6) | [Hunger](https://open.spotify.com/album/5vx3A23DhGzGmF3DH5JIkJ) | 11:19 | 2024-11-08 | 2024-12-28 |
 | [I Am](https://open.spotify.com/track/2zrsyufGC2p1LPBp8RzKcP) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [I Am](https://open.spotify.com/album/4jQGnOdxBUGyZKcQIkKvOV) | 7:39 | 2025-07-25 | 2025-10-06 |
 | [I am Excited](https://open.spotify.com/track/5PY8SCjjE6UgZoRZvnpQbY) | [Emon brill](https://open.spotify.com/artist/7h0bNvKAuQUJa1LhEMzjuO), [Emmasings](https://open.spotify.com/artist/77aKxTssZ17zSHCkrviZy7) | [I am Excited](https://open.spotify.com/album/1SK2Yee76TQBWVGGzjTLG6) | 4:13 | 2025-10-17 | 2025-12-28 |

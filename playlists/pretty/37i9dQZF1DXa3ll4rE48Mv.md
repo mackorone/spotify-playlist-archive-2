@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 
 > The sounds of LGBTQ+ punk\. Cover: Bikini Kill
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,197 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,213 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 16 | [G.L.O.S.S\. \(We're from the Future\)](https://open.spotify.com/track/5w8lL6jy9wToBej9Lk9v2f) | [G.L.O.S.S.](https://open.spotify.com/artist/2s4gtd98phMFZf7dMagxjU) | [Demo 2015](https://open.spotify.com/album/2v3FQ4S6xMKm9YL0JapDKl) | 1:31 |
 | 17 | [Staplegun](https://open.spotify.com/track/4JRs49S2iWLrYKppB2Nmql) | [Baby Guts](https://open.spotify.com/artist/0n7Xc7tVMZdgrQgNoVyqIR) | [gasoline](https://open.spotify.com/album/5fpTeGoair7Yj69gyJfjUh) | 1:54 |
 | 18 | [Boys in the Band](https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [You're Welcome](https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9) | 2:35 |
-| 19 | [Full Metal Black](https://open.spotify.com/track/2MQsDtg1jb4qI5OcurHMI0) | [The Royal They](https://open.spotify.com/artist/6PScjU4Y5AJ8EZp2aW4TA2) | [The Royal They](https://open.spotify.com/album/4oJvLQk4aJ8feombYas5YH) | 3:03 |
-| 20 | [I Saw Jesus Hanging on a Basketball Hoop](https://open.spotify.com/track/7jlEgdvIgNWO4dLXzqufoz) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [babyface](https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS) | 1:14 |
+| 19 | [I Saw Jesus Hanging on a Basketball Hoop](https://open.spotify.com/track/7jlEgdvIgNWO4dLXzqufoz) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [babyface](https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS) | 1:14 |
+| 20 | [Full Metal Black](https://open.spotify.com/track/2MQsDtg1jb4qI5OcurHMI0) | [The Royal They](https://open.spotify.com/artist/6PScjU4Y5AJ8EZp2aW4TA2) | [The Royal They](https://open.spotify.com/album/4oJvLQk4aJ8feombYas5YH) | 3:03 |
 | 21 | [Fuck the Cistem](https://open.spotify.com/track/6Qt0KafTAgxOBEi3XFo2eg) | [The Muslims](https://open.spotify.com/artist/0k4t6CgTa017VoLxokJn8t) | [Mayo Supreme](https://open.spotify.com/album/2T42kZHMEGCe6XkRmCWe8y) | 2:52 |
 | 22 | [In Birth](https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [In Birth](https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV) | 2:56 |
 | 23 | [Nvr Pass](https://open.spotify.com/track/7yJLS5bbD1BbVVXaRktMxP) | [She/Her/hers](https://open.spotify.com/artist/4VfY7XPH7M1nahvlNluxTg) | [Grrrl Angst](https://open.spotify.com/album/1joEVEBQ4YuxikhoClLGBP) | 3:50 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 43 | [Big Shouty](https://open.spotify.com/track/2JDMX69HvkeJuoNmFoj1Lz) | [Problem Patterns](https://open.spotify.com/artist/4u5UG0TxXroCBnpgBruPOP) | [Big Shouty](https://open.spotify.com/album/1pWMoHSZKWMnr4zYmG4NvH) | 1:26 |
 | 44 | [Girls With Glasses](https://open.spotify.com/track/1oJP3drbPbHRQAnsjrS9eq) | [Partyline](https://open.spotify.com/artist/5LqNtBKweePwvXgJ4BWWuA) | [Girls With Glasses](https://open.spotify.com/album/5X2W0yH4IF60WJRVV4pMGY) | 2:09 |
 | 45 | [Miranda](https://open.spotify.com/track/7JuocCvYUBbC0X1bZj6guM) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Miranda](https://open.spotify.com/album/7M5VeWYg64LLnKe5yvVDo2) | 4:00 |
-| 46 | [Fall Asleep](https://open.spotify.com/track/0PZQWlZ4A8CSD1f9P9xoTx) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Sistahs](https://open.spotify.com/album/7pToEE1w4P0UAMqhaPxoQr) | 2:56 |
-| 47 | [Save the Planet, You Dumb Shit](https://open.spotify.com/track/6Kk9Zy9dYzgvTEPNCh2s8o) | [Joe & The Shitboys](https://open.spotify.com/artist/1LQe0AlqV1e2GD3Ry1UFTg) | [The Reson For Hardcore Vibes Again](https://open.spotify.com/album/2ulPQaaJiq1rK6YK86wPsI) | 0:55 |
+| 46 | [Save the Planet, You Dumb Shit](https://open.spotify.com/track/6Kk9Zy9dYzgvTEPNCh2s8o) | [Joe & The Shitboys](https://open.spotify.com/artist/1LQe0AlqV1e2GD3Ry1UFTg) | [The Reson For Hardcore Vibes Again](https://open.spotify.com/album/2ulPQaaJiq1rK6YK86wPsI) | 0:55 |
+| 47 | [Down](https://open.spotify.com/track/2siNyitsnycrIp7aqUTgQp) | [Thelma and the Sleaze](https://open.spotify.com/artist/03VfdeLg04zHr8nmQ2rQ57) | [Fuck, Marry, Kill](https://open.spotify.com/album/7f81vcqMiOQYo2p1L2qEQT) | 4:12 |
 | 48 | [Queer For You](https://open.spotify.com/track/3wOIv5bly3SnBum3gLRsCa) | [The Degenerettes](https://open.spotify.com/artist/5aLqmIsEKz8r0bIaSRsf7z) | [Bad Girls Go to Hell](https://open.spotify.com/album/1USnl3zRNiSnGZF7toUpcp) | 2:08 |
-| 49 | [Down](https://open.spotify.com/track/2siNyitsnycrIp7aqUTgQp) | [Thelma and the Sleaze](https://open.spotify.com/artist/03VfdeLg04zHr8nmQ2rQ57) | [Fuck, Marry, Kill](https://open.spotify.com/album/7f81vcqMiOQYo2p1L2qEQT) | 4:12 |
+| 49 | [Fall Asleep](https://open.spotify.com/track/0PZQWlZ4A8CSD1f9P9xoTx) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Sistahs](https://open.spotify.com/album/7pToEE1w4P0UAMqhaPxoQr) | 2:56 |
 | 50 | [Colors](https://open.spotify.com/track/1CIVKxQTjN9Ed0woZbzx2z) | [The Groans](https://open.spotify.com/artist/4jhD0dxLgux1cB7BN16PlT) | [Earth Dweller](https://open.spotify.com/album/5jQdPuwpQCFCO0fltbBB63) | 3:49 |
 | 51 | [Mackerel's Funky Mission](https://open.spotify.com/track/40vNItT9RcL9FOD9M2p6wb) | [ĠENN](https://open.spotify.com/artist/5mZ836Fy59tOJEcqWfN771) | [Mackerel's Funky Mission](https://open.spotify.com/album/1PZHj7UZQmyzbtIjGFeNxV) | 3:44 |
 | 52 | [Jillian](https://open.spotify.com/track/0lhxZB33L7xpd0HzlpEyBa) | [Dream Nails](https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB) | [Dream Nails](https://open.spotify.com/album/6QXxOZNDngKIYagFOLC9uc) | 2:39 |

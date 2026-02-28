@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-07-31",
   "description": "Get in the zone with this fresh mix of chill music to study to | anti anxiety and stress music",
-  "name": "Pop Focus | Pop Music for Studying, Stress, and Anxiety",
+  "name": "Pop Focus | Pop Music for ADHD, Studying, Stress, and Anxiety",
   "tracks": [
     {
       "album": {
@@ -1508,6 +1508,24 @@
       "duration_ms": 193806,
       "name": "Different",
       "url": "https://open.spotify.com/track/0vJBL4Dx9aVFsHSqdApU3H"
+    },
+    {
+      "album": {
+        "name": "DISNEY PRINCESS",
+        "url": "https://open.spotify.com/album/65M9cSEwKpKqkZRiMCrX2H"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245441,
+      "name": "DISNEY PRINCESS",
+      "url": "https://open.spotify.com/track/1DH4XuBpL3HreZ7TmawEjR"
     },
     {
       "album": {
@@ -4695,6 +4713,32 @@
     },
     {
       "album": {
+        "name": "Pictures",
+        "url": "https://open.spotify.com/album/7eg0DlP83tIeeF2VAjwthu"
+      },
+      "artists": [
+        {
+          "name": "Gnarls Barkley",
+          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
+        },
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+        },
+        {
+          "name": "Danger Mouse",
+          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Pictures",
+      "url": "https://open.spotify.com/track/1JsNiBwzxX6Zad6W5GP88l"
+    },
+    {
+      "album": {
         "name": "ver2igo vol. 2",
         "url": "https://open.spotify.com/album/1pKYkFrxb7RiJuCfSszdav"
       },
@@ -5736,6 +5780,24 @@
       "duration_ms": 173547,
       "name": "Stains",
       "url": "https://open.spotify.com/track/7yCZNi9rvhRUkuvN7kqYsr"
+    },
+    {
+      "album": {
+        "name": "Stand On This Hill",
+        "url": "https://open.spotify.com/album/3nZnDqWsgvKZri4WovLdrq"
+      },
+      "artists": [
+        {
+          "name": "rory o'neill",
+          "url": "https://open.spotify.com/artist/26UCr0DSJQmIVTnNB5gwvw"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189295,
+      "name": "Stand On This Hill",
+      "url": "https://open.spotify.com/track/6f4M6XJjeoH922nRWWIbjp"
     },
     {
       "album": {

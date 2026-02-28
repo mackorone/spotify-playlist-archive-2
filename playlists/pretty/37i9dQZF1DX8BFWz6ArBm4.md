@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 
 > Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Billie Isak
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,734 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,760 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 41 | [Pou Ti Vrike?](https://open.spotify.com/track/58NBDso0aGKOH1HGMqeR6c) | [Angela Dimitriou](https://open.spotify.com/artist/7xySz9OyEWxKC6RyDlo256), [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [Pou Ti Vrike?](https://open.spotify.com/album/5CMbdkrcS8H2QWwjr3GYvI) | 3:08 |
 | 42 | [Perifanos Aetos](https://open.spotify.com/track/2vS4fNndj45xFMYRcAuLJU) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [Perifanos Aetos](https://open.spotify.com/album/2S4Toa1hOvgdIJWjqBIUr1) | 3:48 |
 | 43 | [Perno Tin Efthini](https://open.spotify.com/track/4rOOWZUDSd7s5hAVrWPgEP) | [Stan](https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2) | [Perno Tin Efthini](https://open.spotify.com/album/6AL96TadQffNkXkCW3BvMH) | 3:35 |
-| 44 | [Me Sighorite](https://open.spotify.com/track/7w7vv8KOKEC9VoyEaj49ww) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Me Sighorite](https://open.spotify.com/album/6gMuD6HJT8Ixnu73PIiXLk) | 3:30 |
-| 45 | [Eroteftika Esena](https://open.spotify.com/track/4rX2CGUDJzZ2tHcYvkO2B3) | [Nikos Vertis](https://open.spotify.com/artist/6BOprAXvUTWZjImX2dFdEa) | [Eroteftika Esena](https://open.spotify.com/album/2UMvJZgFcdk0kw9EGXL99d) | 4:09 |
+| 44 | [Eroteftika Esena](https://open.spotify.com/track/4rX2CGUDJzZ2tHcYvkO2B3) | [Nikos Vertis](https://open.spotify.com/artist/6BOprAXvUTWZjImX2dFdEa) | [Eroteftika Esena](https://open.spotify.com/album/2UMvJZgFcdk0kw9EGXL99d) | 4:09 |
+| 45 | [Me Sighorite](https://open.spotify.com/track/7w7vv8KOKEC9VoyEaj49ww) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Me Sighorite](https://open.spotify.com/album/6gMuD6HJT8Ixnu73PIiXLk) | 3:30 |
 | 46 | [Kourastika Na S' Agapo](https://open.spotify.com/track/5NFNMiVepy76S4tE6RDFWP) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Kourastika Na S' Agapo](https://open.spotify.com/album/1RXyaZyEctohzAyFlhlKDP) | 4:13 |
 | 47 | [Ta Xo Vrei Me Ton Eauto Mou](https://open.spotify.com/track/47PMZ8RvIbO9g483uTTHlv) | [Ilias Vrettos](https://open.spotify.com/artist/0bBYQsnSex82PNb1HkJZt1), [George Theofanous](https://open.spotify.com/artist/1rNn8vt3hmIxbDuqMVzXpA) | [Ta Xo Vrei Me Ton Eauto Mou](https://open.spotify.com/album/39ubI5bqHBp7S7tm6x5ntt) | 4:30 |
 | 48 | [Krata](https://open.spotify.com/track/3U38PoaEgmk9gO4maQ3RO7) | [Stan](https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2) | [Krata](https://open.spotify.com/album/4TndkB6ZzsDqPfxJa0lOU2) | 2:55 |
-| 49 | [Kerasmena](https://open.spotify.com/track/0WHpnRsewdrBExeDU90v2m) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [M' Akous](https://open.spotify.com/album/6nvg33SsfdT6GuEqFvbrgR) | 3:20 |
-| 50 | [Tha Me Kitas Sta Matia](https://open.spotify.com/track/4KS1Cq8pg0EawS2dPYGaWZ) | [Nikiforos Vithoulkas](https://open.spotify.com/artist/3uNZcGFziYYu8twdT7pCs9) | [Tha Me Kitas Sta Matia](https://open.spotify.com/album/6FGxQlqvjBCBlvHTVAyEEf) | 3:47 |
+| 49 | [Tha Me Kitas Sta Matia](https://open.spotify.com/track/4KS1Cq8pg0EawS2dPYGaWZ) | [Nikiforos Vithoulkas](https://open.spotify.com/artist/3uNZcGFziYYu8twdT7pCs9) | [Tha Me Kitas Sta Matia](https://open.spotify.com/album/6FGxQlqvjBCBlvHTVAyEEf) | 3:47 |
+| 50 | [Kerasmena](https://open.spotify.com/track/0WHpnRsewdrBExeDU90v2m) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [M' Akous](https://open.spotify.com/album/6nvg33SsfdT6GuEqFvbrgR) | 3:20 |
 
 Snapshot ID: `AAAAADgj+UMRWT9XOUnERINEhCr1KMx6`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 
 > This is Pedro Capó\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,374 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,380 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 | 49 | [Cae de Una](https://open.spotify.com/track/3NG3wfTRRPiGLxysGXG5RU) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [PAUSA](https://open.spotify.com/album/3hS1wzvOJuioDs9VV6HW3R) | 3:38 |
 | 50 | [Duele Amarte Así \(feat\. Pedro Capó\)](https://open.spotify.com/track/3NKeZuT6hzbC6a5cJ6F5te) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Por Tu Bien](https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr) | 3:48 |
 
-Snapshot ID: `aZ47gAAAAAAkkoRkDX1NDEEzrNv2fmN8`
+Snapshot ID: `aZ+NAAAAAADKbc5GJE8LdpC0EDpzxCMH`

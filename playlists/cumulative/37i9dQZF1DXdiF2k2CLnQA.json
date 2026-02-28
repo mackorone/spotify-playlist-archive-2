@@ -6835,6 +6835,24 @@
     },
     {
       "album": {
+        "name": "Tribute Song",
+        "url": "https://open.spotify.com/album/0hn6fg81VgSojwZWMOqZV1"
+      },
+      "artists": [
+        {
+          "name": "ITCHY",
+          "url": "https://open.spotify.com/artist/42pWilgI9MEZARoTtGHNR4"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198175,
+      "name": "Tribute Song",
+      "url": "https://open.spotify.com/track/5rg5QYqijRKDz9coVQmAIo"
+    },
+    {
+      "album": {
         "name": "True Believer",
         "url": "https://open.spotify.com/album/1kALPLjhxfv9Yu1lVeHu62"
       },
@@ -7528,6 +7546,24 @@
       "duration_ms": 240120,
       "name": "You Know My Name - From \"Casino Royale\" Soundtrack",
       "url": "https://open.spotify.com/track/3acBQxxlyb0jC2xqndDzSf"
+    },
+    {
+      "album": {
+        "name": "Your Favorite Toy",
+        "url": "https://open.spotify.com/album/1GlbwU0fG3s91TwcuTh4ea"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176453,
+      "name": "Your Favorite Toy",
+      "url": "https://open.spotify.com/track/2ZSOU8Fx9uRBW57nwfPVAL"
     },
     {
       "album": {

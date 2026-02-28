@@ -1,6 +1,6 @@
 {
   "description": "Quer fazer aquele exerc\u00edcio empolgante e sem estresse? Fizemos uma playlist com o som certo para voc\u00ea alcan\u00e7ar novas metas.",
-  "num_followers": 538777,
+  "num_followers": 538740,
   "original_name": "Corra numa Boa",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 145840,
-      "name": "Used to Know Me",
-      "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
         "name": "In Your Arms (For An Angel)",
         "url": "https://open.spotify.com/album/5wcSb6xtmgO4YvmVV1Xt7b"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 150476,
       "name": "In Your Arms (For An Angel)",
       "url": "https://open.spotify.com/track/5WOnsi0Bug74LmhxcPfKvR"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 145840,
+      "name": "Used to Know Me",
+      "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "Be Okay (with HRVY)",
-        "url": "https://open.spotify.com/album/7IWsyF6IuJ4jLdRTLxVw3v"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        }
-      ],
-      "duration_ms": 141600,
-      "name": "Be Okay (with HRVY)",
-      "url": "https://open.spotify.com/track/4ztw0mBC6VBiLV79yRHDQW"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
         "name": "LOW",
         "url": "https://open.spotify.com/album/026fudJsLFwB4U0WBYRdXm"
       },
@@ -1639,6 +1619,26 @@
       "duration_ms": 203288,
       "name": "LOW",
       "url": "https://open.spotify.com/track/4Ko0kuCmsJW0HMKkQM7Xw8"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
+        "name": "Be Okay (with HRVY)",
+        "url": "https://open.spotify.com/album/7IWsyF6IuJ4jLdRTLxVw3v"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        }
+      ],
+      "duration_ms": 141600,
+      "name": "Be Okay (with HRVY)",
+      "url": "https://open.spotify.com/track/4ztw0mBC6VBiLV79yRHDQW"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -1667,22 +1667,18 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "Swing",
-        "url": "https://open.spotify.com/album/3j2j7DAJq56gRsWXgJgWmN"
+        "name": "Afrofuturista",
+        "url": "https://open.spotify.com/album/1BWtvpZIQkHY9CwG49QcWs"
       },
       "artists": [
         {
-          "name": "SOFI TUKKER",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "Allday",
-          "url": "https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs"
+          "name": "Carlos do Complexo",
+          "url": "https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2"
         }
       ],
-      "duration_ms": 179279,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/0Hb1y5PXdcuhNmLC1iytPw"
+      "duration_ms": 124000,
+      "name": "Afrofuturista",
+      "url": "https://open.spotify.com/track/35d6akAv0HQFb21Ooifwvi"
     }
   ],
   "unique_name": "Corra numa Boa",

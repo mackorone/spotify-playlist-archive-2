@@ -1,6 +1,6 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 360097,
+  "num_followers": 360229,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
+        "name": "Everybody's Free",
+        "url": "https://open.spotify.com/album/5aQvlWnZ4ccLkCSOUMIA2X"
+      },
+      "artists": [
+        {
+          "name": "Rozalla",
+          "url": "https://open.spotify.com/artist/2wnJCxpnKAagrdBJAvaDrQ"
+        }
+      ],
+      "duration_ms": 212426,
+      "name": "Everybody's Free (Single Version)",
+      "url": "https://open.spotify.com/track/1gMZCGs6bxhyPeHAEiNc3i"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
         "name": "It's In the Lifestyle (Limited Edition)",
         "url": "https://open.spotify.com/album/3vAbdq0NCzDbPKlo3qejkt"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 435266,
       "name": "Domino",
       "url": "https://open.spotify.com/track/6VGNzYErt08Rai78mLkIzI"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
-        "name": "Everybody's Free",
-        "url": "https://open.spotify.com/album/5aQvlWnZ4ccLkCSOUMIA2X"
-      },
-      "artists": [
-        {
-          "name": "Rozalla",
-          "url": "https://open.spotify.com/artist/2wnJCxpnKAagrdBJAvaDrQ"
-        }
-      ],
-      "duration_ms": 212426,
-      "name": "Everybody's Free (Single Version)",
-      "url": "https://open.spotify.com/track/1gMZCGs6bxhyPeHAEiNc3i"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Big Love (Eat Me Edit)",
-        "url": "https://open.spotify.com/album/1VANsPWsE1fU4Yo7X0QSxa"
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/3cGR7Z78GMRPXetD6cFGjG"
       },
       "artists": [
         {
-          "name": "Pete Heller",
-          "url": "https://open.spotify.com/artist/5BiJE5QAwptqJobHRpBLFf"
+          "name": "The Beloved",
+          "url": "https://open.spotify.com/artist/46h3caIKtqPlEfRHuSdibg"
         }
       ],
-      "duration_ms": 241053,
-      "name": "Big Love - Eat Me Edit",
-      "url": "https://open.spotify.com/track/2w6YlpVeyHazO6YcvpGxIS"
+      "duration_ms": 305800,
+      "name": "The Sun Rising",
+      "url": "https://open.spotify.com/track/4pCvvYLj3N4kdz0jvR33Dw"
     }
   ],
   "unique_name": "Ibiza Classics",

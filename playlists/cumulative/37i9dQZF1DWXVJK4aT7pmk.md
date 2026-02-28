@@ -2,9 +2,9 @@
 
 ### [Hot Hits Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWXVJK4aT7pmk)
 
-> Catch the hottest Punjabi tracks\. Cover: Thiarajxtt & Bir
+> Catch the hottest Punjabi tracks\. Cover: Rashmeet Kaur
 
-205 songs - 10 hr 23 min
+206 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Distance Love](https://open.spotify.com/track/55nRhkhe7ckZhazYrv6ZOX) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Distance Love](https://open.spotify.com/album/0FSTdbfd0XFtEjWK8VCjgY) | 3:30 | 2024-04-12 | 2025-03-01 |
 | [DOPAMINE](https://open.spotify.com/track/3dw558iZgDA2BIeVd0taMM) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Gurjit Gill](https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd), [Lavish Dhiman](https://open.spotify.com/artist/0OZHEt7SMyC00w8xopYIcc) | [DOPAMINE](https://open.spotify.com/album/11bk9YxTwbYXl0BASHTKk7) | 2:32 | 2026-02-20 |  |
 | [Drippy](https://open.spotify.com/track/4fnIORP0QTYTOMPqMKpJtF) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K), [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Drippy](https://open.spotify.com/album/7xlh4JhUD65QX1HzN2guSX) | 3:15 | 2024-02-02 | 2025-07-26 |
-| [DXB](https://open.spotify.com/track/17vaaGEZlUz7b7IMKyDXvy) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [The Simpsons](https://open.spotify.com/album/30yeAdL28aqV7OH3gPV80K) | 3:26 | 2025-10-24 |  |
+| [DXB](https://open.spotify.com/track/17vaaGEZlUz7b7IMKyDXvy) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [The Simpsons](https://open.spotify.com/album/30yeAdL28aqV7OH3gPV80K) | 3:26 | 2025-10-24 | 2026-02-28 |
 | [Everybody Hurts](https://open.spotify.com/track/1w3exvIgbRFV2ijf6qyWm8) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 2:53 | 2024-01-04 | 2024-08-03 |
 | [Famous Enough](https://open.spotify.com/track/5HzPjMMntmDxCvHBhrzKrY) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT) | [Paper Before Money](https://open.spotify.com/album/1W8xXVyN2UEJWhaQAtrHcC) | 4:00 | 2024-04-26 | 2024-07-23 |
 | [Faqeeran \- Live](https://open.spotify.com/track/7DlNgLpxX3gPh3tzqrY7tL) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [MUSAFIR \(Live\)](https://open.spotify.com/album/6IAfM7GKWU0oKM2XNQv6qI) | 4:42 | 2026-02-06 |  |
@@ -133,6 +133,7 @@
 | [Naam Sunuga](https://open.spotify.com/track/2DnRbGR0JIKLERKI8IGcoL) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Naam Sunuga](https://open.spotify.com/album/290dKL08Ilt2QtRIeb4q6e) | 3:27 | 2024-01-04 | 2024-03-01 |
 | [Nachdi To'n](https://open.spotify.com/track/7Gm3V7q7zm5byzS0QQ8VHn) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1) | [Young Once](https://open.spotify.com/album/1Zf3YnrtFPy2hodXEBdRaS) | 3:03 | 2024-01-04 | 2024-07-03 |
 | [Naina \(From "Crew"\)](https://open.spotify.com/track/1eZefeDb8uOsjvcbl1fJrG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Naina \(From "Crew"\)](https://open.spotify.com/album/4mGz0G0d2mqGmaFc67MEEm) | 3:00 | 2024-11-29 | 2025-11-08 |
+| [Nazare](https://open.spotify.com/track/4y6I1Jm5Vh0QKh454bOz4i) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt) | [Bonafide](https://open.spotify.com/album/2wOy3GGZN8Z13kgwoYlqSk) | 2:45 | 2026-02-27 |  |
 | [Never Fold](https://open.spotify.com/track/3JkVYvxNoGf2HCWJo61462) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [SOE](https://open.spotify.com/artist/503jMzlAxbEpfltywmU45E) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 3:03 | 2024-01-04 | 2024-07-19 |
 | [No Love](https://open.spotify.com/track/6A2ZwOsMeomTIVhLvfXngC) | [lusttqwe](https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR), [jesp](https://open.spotify.com/artist/4A6FNKLHprsYDzim1SQAOJ), [bexter](https://open.spotify.com/artist/2nb1xGx7gKOs9Yu5g1sJ8n) | [No Love](https://open.spotify.com/album/6qrdcQLLTx6zzvtNpGkPru) | 2:49 | 2024-01-04 | 2024-01-24 |
 | [No Love](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 | 2024-01-04 | 2024-02-08 |

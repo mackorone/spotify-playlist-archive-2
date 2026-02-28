@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-31",
-  "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Xande de Pilares",
+  "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Renan Oliveira",
   "name": "Domingu\u00eara",
   "tracks": [
     {
@@ -732,7 +732,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 383414,
       "name": "Back At One / Duvido / When I Was Your Man / Perfume - Ao Vivo",
       "url": "https://open.spotify.com/track/2nKe0NY7wqdJ4Y52FxcddI"
@@ -1782,7 +1782,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 225750,
       "name": "Essa Tal Liberdade / Marrom BomBom / Poderosa - Ao Vivo",
       "url": "https://open.spotify.com/track/1VrIcgm5ZbcfG5JPr6P4Cp"
@@ -3125,6 +3125,28 @@
     },
     {
       "album": {
+        "name": "De Volta Para 2002 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6cKomSWg0tv5pXH2QvA8bN"
+      },
+      "artists": [
+        {
+          "name": "Suel",
+          "url": "https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK"
+        },
+        {
+          "name": "Xande de Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221374,
+      "name": "Melhor Amiga Da Minha Namorada / N\u00e3o Pedi Para Me Apaixonar - Ao Vivo",
+      "url": "https://open.spotify.com/track/3VKeCXgOZNIxgX9IXvF9Zb"
+    },
+    {
+      "album": {
         "name": "Pagode no Quintal, Vol. 01 (EDB Canta Fundo de Quintal) - Ao Vivo",
         "url": "https://open.spotify.com/album/0tF5TxM0GgkUeOdVfQhmC0"
       },
@@ -3454,6 +3476,24 @@
       "duration_ms": 339637,
       "name": "Nosso Lance / No Meu Olhar / Uma Estrela - Ao Vivo",
       "url": "https://open.spotify.com/track/3w9ZpncSzPhqcW3xq7e1ST"
+    },
+    {
+      "album": {
+        "name": "Samba \u00c9 Prece: Renan Oliveira Canta Jorge Arag\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2G1i3G5m7BkPcXCBPAgCew"
+      },
+      "artists": [
+        {
+          "name": "Renan Oliveira",
+          "url": "https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263281,
+      "name": "Novos Tempos / Encontro das \u00c1guas - Ao Vivo",
+      "url": "https://open.spotify.com/track/1vGAfMp4SDDUhWgIoL8sJw"
     },
     {
       "album": {
@@ -5316,7 +5356,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 236919,
       "name": "S\u00f3 Pro Meu Prazer / E Agora - Ao Vivo",
       "url": "https://open.spotify.com/track/7vk8j6aE01zh4CN1lZ8qQE"
@@ -5338,6 +5378,28 @@
       "duration_ms": 196186,
       "name": "S\u00f3 Voc\u00ea / Contatinho / Sentadinha - Ao Vivo",
       "url": "https://open.spotify.com/track/5PPSwWj6K4zXM9bWJTazwE"
+    },
+    {
+      "album": {
+        "name": "Ta Vendo Aquela Lua / Virei a Mesa / Abandonado (Cover)",
+        "url": "https://open.spotify.com/album/7KVTJ727hTNIaNQLII85zB"
+      },
+      "artists": [
+        {
+          "name": "Sem Reznha",
+          "url": "https://open.spotify.com/artist/1jcSJxePI4nTKpjHrWfBNd"
+        },
+        {
+          "name": "Grupo Envolv\u00eancia",
+          "url": "https://open.spotify.com/artist/5cNstjDy5P6A3iFpevNIM0"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344134,
+      "name": "Ta Vendo Aquela Lua / Virei a Mesa / Abandonado - Cover",
+      "url": "https://open.spotify.com/track/3tAvKjYt9KJajwGTMqDI2c"
     },
     {
       "album": {

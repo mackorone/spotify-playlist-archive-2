@@ -4,7 +4,7 @@
 
 > This is The Black Keys\. The essential tracks, all in one playlist.
 
-141 songs - 8 hr 8 min
+142 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,10 +110,11 @@
 | [Run Right Back](https://open.spotify.com/track/5HgAZuHFAU5qLLMYuIQkgq) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:17 | 2022-01-11 | 2026-02-01 |
 | [Run Right Back \- 2021 Remaster](https://open.spotify.com/track/3pFW7cWwjsYN15mJzeEVRb) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino \(2021 Remaster\)](https://open.spotify.com/album/15TCQN0DHHM3XX4TfnNkV8) | 3:16 | 2026-02-01 |  |
 | [She Said, She Said](https://open.spotify.com/track/1e8Y35sK08V3BbHKkgYZAM) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Big Come Up](https://open.spotify.com/album/1xVlDcp3ZHntqgvhHYw1rp) | 2:32 | 2022-01-11 | 2022-10-13 |
-| [She's Long Gone](https://open.spotify.com/track/26ZnmGlPGXaOzPDydAP9D5) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:06 | 2022-01-11 | 2026-02-24 |
+| [She's Long Gone](https://open.spotify.com/track/26ZnmGlPGXaOzPDydAP9D5) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:06 | 2022-01-11 |  |
 | [Shine A Little Light](https://open.spotify.com/track/365TSrFPqM66giaxJuafR3) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 3:16 | 2022-01-11 |  |
 | [Sin City](https://open.spotify.com/track/1bETkJvR6zcQ4C3KK4ePVT) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players \(Trophy Edition\)](https://open.spotify.com/album/4nL9a6F9au7kYG9KuswdNo) | 2:42 | 2024-11-17 | 2025-10-23 |
-| [Sinister Kid](https://open.spotify.com/track/78krcD2vFUXJ3Y0XXeiHWH) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:44 | 2022-01-11 |  |
+| [Sinister Kid](https://open.spotify.com/track/52KT9rZ08EwZM80YJIbxFq) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 3:44 | 2026-02-28 |  |
+| [Sinister Kid](https://open.spotify.com/track/78krcD2vFUXJ3Y0XXeiHWH) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:44 | 2022-01-11 | 2026-02-28 |
 | [Sister](https://open.spotify.com/track/5LCuFER5mMzL0fGNpClksf) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:25 | 2022-01-11 | 2026-01-18 |
 | [Sit Around And Miss You](https://open.spotify.com/track/4yBxXm4dDL00YGdO5G9ubK) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:40 | 2022-01-11 | 2025-01-15 |
 | [Stay All Night](https://open.spotify.com/track/44LBdduHzDcSiLSDzH8Gvy) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 5:44 | 2022-10-12 | 2022-10-15 |
@@ -128,7 +129,7 @@
 | [The Lengths](https://open.spotify.com/track/7nl6fbpRrLAED8KR2pUgTp) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Rubber Factory](https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5) | 4:54 | 2022-01-11 | 2022-10-07 |
 | [The Night Before](https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Night Before](https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O) | 2:34 | 2025-02-09 | 2025-08-13 |
 | [The Night Before](https://open.spotify.com/track/718SlaHAcFwEKTIDIBa1Z2) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4) | 2:34 | 2025-08-13 |  |
-| [The Only One](https://open.spotify.com/track/65PE3GVXjkiQOTM7V7NbfY) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 5:00 | 2022-01-11 |  |
+| [The Only One](https://open.spotify.com/track/65PE3GVXjkiQOTM7V7NbfY) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 5:00 | 2022-01-11 | 2026-02-28 |
 | [Thickfreakness](https://open.spotify.com/track/4m6uJViB1sb3OXErHUkkWk) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Thickfreakness](https://open.spotify.com/album/0GJH6shkenNdqkpGdsY8aa) | 3:48 | 2022-01-11 |  |
 | [This Is Nowhere](https://open.spotify.com/track/7aQx06Jx3iA9pRdixCUADJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 3:44 | 2024-04-21 |  |
 | [This Is Nowhere](https://open.spotify.com/track/7wFmJxJfGCN6DM5913y7pr) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [This Is Nowhere](https://open.spotify.com/album/1GrFd2S89YW8mQMop0Bu7S) | 3:44 | 2024-03-09 | 2024-04-21 |

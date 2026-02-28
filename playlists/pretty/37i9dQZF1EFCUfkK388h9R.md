@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCUfkK388h9R.md) - [plain]
 | 14 | [Love Phobia](https://open.spotify.com/track/33Vbi87Po3TrNaJUvyKsdY) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [DICE \- The 2nd Mini Album](https://open.spotify.com/album/6tjdh7YCcSKD51C2kQTW9n) | 3:10 |
 | 15 | [The Wave](https://open.spotify.com/track/6EKqDWgTz9nCxZojy4XoSk) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA), [SATICA](https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We), [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Pilot](https://open.spotify.com/album/24K6FQs2L43tUVIeuFATl6) | 3:10 |
 | 16 | [How To Dance](https://open.spotify.com/track/17TLMCiWbRnNblIfXiDLfF) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [ETERNALT](https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh) | 3:09 |
-| 17 | [Imposter Syndrome](https://open.spotify.com/track/7zce3JYJfyVYF8UmLYvQsq) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Imposter Syndrome](https://open.spotify.com/album/5rSanFwFS56tJs4AvV34t1) | 2:38 |
-| 18 | [no reason to cry](https://open.spotify.com/track/5Byx31VEpvvOBmsVFPzTh0) | [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [no reason to cry](https://open.spotify.com/album/39t4Ap861N3r7OaJaZJ2CM) | 3:03 |
+| 17 | [no reason to cry](https://open.spotify.com/track/5Byx31VEpvvOBmsVFPzTh0) | [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [no reason to cry](https://open.spotify.com/album/39t4Ap861N3r7OaJaZJ2CM) | 3:03 |
+| 18 | [Imposter Syndrome](https://open.spotify.com/track/7zce3JYJfyVYF8UmLYvQsq) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Imposter Syndrome](https://open.spotify.com/album/5rSanFwFS56tJs4AvV34t1) | 2:38 |
 | 19 | [seven\-twenty\-four](https://open.spotify.com/track/3agJXAf7NRv8VQ8owdwszX) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Robby East](https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW) | [seven\-twenty\-four](https://open.spotify.com/album/5QUmgjGrLcwkWO48NEi0Xs) | 4:18 |
 | 20 | [Back to You](https://open.spotify.com/track/0fNUchvYzB61KedvozWbtN) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [The Wave](https://open.spotify.com/album/7tODvFh4chMI6i0VIQ5UTv) | 3:20 |
 | 21 | [Holy Water](https://open.spotify.com/track/4x8KGMFJ2KiIvYF03Hoaa9) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Project Peach](https://open.spotify.com/album/6Xdt5esdxMePGPkHn4g7cI) | 3:06 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCUfkK388h9R.md) - [plain]
 | 54 | [Fuck Things Up](https://open.spotify.com/track/4J2r5n7wTXGdaRGse0ON6G) | [Vera Hotsauce](https://open.spotify.com/artist/5KucN3rNvkbmfNWqknOvth) | [Hot N Saucy](https://open.spotify.com/album/5aerQ661gL2BTTPjPpYsm1) | 3:03 |
 | 55 | [Punch](https://open.spotify.com/track/7JtmLurRXvcyvqVGwxoS9M) | [Darcy Day](https://open.spotify.com/artist/0jsZR31z3SUBQ1BJuAdEDn) | [Punch](https://open.spotify.com/album/0MgS9kN89HMeT1m2YuWPVF) | 2:29 |
 
-Snapshot ID: `AcKvFAAAAADAArC4ph8Q6fAy3QnVSFIN`
+Snapshot ID: `AcK0eAAAAAABWBhd9jIo6iOycS6CIeay`

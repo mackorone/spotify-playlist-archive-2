@@ -4,7 +4,7 @@
 
 > De nieuwste pop songs\. Cover: Davina Michelle
 
-1,315 songs - 2 day 19 hr 12 min
+1,317 songs - 2 day 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,6 +439,7 @@
 | [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/track/17Vqwvat9EmRmfDvmYqoi0) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB) | 2:42 | 2025-12-12 |  |
 | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/album/19F2dOW0JWTAuK941khqsA) | 2:54 | 2023-08-10 | 2023-11-10 |
 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 | 2025-05-01 | 2025-07-11 |
+| [GO](https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 3:15 | 2026-02-26 |  |
 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 | 2025-06-05 | 2025-08-15 |
 | [GODS](https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [GODS](https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs) | 3:40 | 2023-10-05 | 2024-01-05 |
 | [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 | 2025-05-22 | 2025-08-05 |
@@ -650,6 +651,7 @@
 | [Just Us](https://open.spotify.com/track/2QIChPucCEGOZjzkqFHxQ6) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Just Us](https://open.spotify.com/album/72TKdSLyVJMDrw8lPsTNtc) | 3:34 | 2023-10-07 | 2024-01-13 |
 | [Keep Going Up \(with Nelly Furtado & Justin Timberlake\)](https://open.spotify.com/track/0MBRKCgePXewM1iBQiPn7Q) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Keep Going Up](https://open.spotify.com/album/0leO4lM0iYTks8dy039b7c) | 2:54 | 2023-08-31 | 2024-01-05 |
 | [Keep Me Honest](https://open.spotify.com/track/4UjWi9O04gSjMFS2gZF1U7) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Keep Me Honest](https://open.spotify.com/album/3Q31EPb80KbZiB2sYJOshy) | 3:10 | 2024-12-12 | 2025-02-28 |
+| [Keychain \- FROM THE FILM K\-POPS!](https://open.spotify.com/track/3Q3WZ7sJLoIZQKY7hWFyQu) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Keychain \(FROM THE FILM K\-POPS!\)](https://open.spotify.com/album/58x92u1JINTa5K7lTzfU02) | 2:50 | 2026-02-26 |  |
 | [Kickflip](https://open.spotify.com/track/7FkmAIBCsJvGNoaNr9a1Xe) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Sagittarius](https://open.spotify.com/album/5uIFAwpVs0gCPiaehNZQ25) | 2:42 | 2023-02-24 | 2023-03-02 |
 | [KiLL iT QUEEN](https://open.spotify.com/track/0vEbs5wZEqnrTnRppLGZaU) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [KiLL iT QUEEN](https://open.spotify.com/album/5YD2OXFbiw3S7kdL88p3X2) | 2:48 | 2026-02-26 |  |
 | [Killing Me](https://open.spotify.com/track/2Lss5tezmIkgZA3GFfptI2) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Killing Me](https://open.spotify.com/album/7l01qix76t2pcJNPTEMA9E) | 3:24 | 2023-11-07 | 2024-03-09 |

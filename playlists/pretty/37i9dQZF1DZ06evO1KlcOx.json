@@ -1,12 +1,12 @@
 {
   "description": "This is Grouper. The essential tracks, all in one playlist.",
-  "num_followers": 7912,
+  "num_followers": 7914,
   "original_name": "This Is Grouper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAADvN+gdwvq5Bt4yyJlXEiYq",
+  "snapshot_id": "aZ+NAAAAAACN86B1vIzob+i89N1pAP13",
   "tracks": [
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 367720,
-      "name": "Down to the Ocean",
-      "url": "https://open.spotify.com/track/0Eci42j6D7tsAVhOVlSuk2"
+      "duration_ms": 281386,
+      "name": "Heart Current",
+      "url": "https://open.spotify.com/track/7kdGOznQ3wZO2lvFFtWxsf"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 281386,
-      "name": "Heart Current",
-      "url": "https://open.spotify.com/track/7kdGOznQ3wZO2lvFFtWxsf"
+      "duration_ms": 362253,
+      "name": "It Feels Alright",
+      "url": "https://open.spotify.com/track/1ssVStzSmOhMHw3g7NxPd3"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 362253,
-      "name": "It Feels Alright",
-      "url": "https://open.spotify.com/track/1ssVStzSmOhMHw3g7NxPd3"
+      "duration_ms": 367720,
+      "name": "Down to the Ocean",
+      "url": "https://open.spotify.com/track/0Eci42j6D7tsAVhOVlSuk2"
     },
     {
       "added_at": null,

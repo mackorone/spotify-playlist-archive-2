@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs van de 80's! Cover: U2",
-  "num_followers": 140945,
+  "num_followers": 140987,
   "original_name": "80's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
-        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "9 To 5 And Odd Jobs",
         "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 166749,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Whitesnake (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6ujO2Xzt247YCYIpAmcb4r"
-      },
-      "artists": [
-        {
-          "name": "Whitesnake",
-          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
-        }
-      ],
-      "duration_ms": 275693,
-      "name": "Here I Go Again - 1987 Version; 2017 Remaster",
-      "url": "https://open.spotify.com/track/0Cp7pkYwl4WCGRHhrfcsrg"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Rescue / Hero",
         "url": "https://open.spotify.com/album/0tl7YJWMDU4zYj50yrkf0f"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 290160,
       "name": "You're a Friend of Mine",
       "url": "https://open.spotify.com/track/2BSm925aJog65vjU9FU1R3"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Whitesnake (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6ujO2Xzt247YCYIpAmcb4r"
+      },
+      "artists": [
+        {
+          "name": "Whitesnake",
+          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+        }
+      ],
+      "duration_ms": 275693,
+      "name": "Here I Go Again - 1987 Version; 2017 Remaster",
+      "url": "https://open.spotify.com/track/0Cp7pkYwl4WCGRHhrfcsrg"
     },
     {
       "added_at": "2024-07-09 16:44:07",

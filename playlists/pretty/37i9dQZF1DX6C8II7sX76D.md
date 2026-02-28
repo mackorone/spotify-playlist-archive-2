@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 
 > pov: u hand the internet the aux
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,618 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,643 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 3 | [Black Out Days \(Stay Away\)](https://open.spotify.com/track/6r7b1UHvO3fBZe7wBXWTaZ) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Black Out Days \(Stay Away\)](https://open.spotify.com/album/5tqjvPX88OX1OpVo1QGBYC) | 2:52 |
 | 4 | [Turn The Lights Off \- Radio Edit](https://open.spotify.com/track/7apywiCuMzvSZIa0SKeH99) | [Kato](https://open.spotify.com/artist/1udruffum7CorOphFUMB9A), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [Turn The Lights Off](https://open.spotify.com/album/4Xo7jcwuvnxDQoYq9N1yA6) | 2:58 |
 | 5 | [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 |
-| 6 | [Just the Way You Are](https://open.spotify.com/track/2kJo0J02qdTsD1omMouIro) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw) | [Star](https://open.spotify.com/album/5y263lsrcaKgIF6rWV3uXX) | 3:30 |
+| 6 | [Just The Way You Are](https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Just The Way You Are](https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y) | 2:39 |
 | 7 | [REHAB](https://open.spotify.com/track/5KWlttlxtvmcPigdrfpQnz) | [Blair Muir](https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT) | [REHAB](https://open.spotify.com/album/7cWLfM1fEbvTA4x8FW4Eas) | 3:15 |
 | 8 | [HIGHJACK \(right back\)](https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [HIGHJACK \(right back\)](https://open.spotify.com/album/6CkVgejgX1Oypxu8rGI1VQ) | 2:41 |
 | 9 | [messy](https://open.spotify.com/track/3CPhCNH8rV1czzGSmXm9TH) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [messy](https://open.spotify.com/album/4XoiPhxyT8riRh4V2enQZP) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 49 | [poster boy](https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [2](https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv) | 2:01 |
 | 50 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
 
-Snapshot ID: `AAAAAGZwtJyopnAllMfYfpt0zGiUyMJh`
+Snapshot ID: `AAAAADElFVt9jAQKPCT8yf/iOjH54LJe`

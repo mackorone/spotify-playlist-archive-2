@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "\"EMHDM\"",
+        "url": "https://open.spotify.com/album/3biFY6bFZVVEqy9DPYu5KI"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183761,
+      "name": "\"EMHDM\"",
+      "url": "https://open.spotify.com/track/5NbIHx26LyFkW2oSNSCYBV"
+    },
+    {
+      "album": {
         "name": "+57",
         "url": "https://open.spotify.com/album/5TT8KluomuelzsNF7T1U37"
       },
@@ -1278,7 +1300,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 295458,
       "name": "BUENOS DIAS (feat. Tury, GeezyDee, CARABIN3)",
       "url": "https://open.spotify.com/track/10B0cONtHL7b8hdMRE2Du6"
@@ -1804,7 +1826,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 189239,
       "name": "Con el Coraz\u00f3n",
       "url": "https://open.spotify.com/track/1xTWu5aArww0QtXqX2ScBI"
@@ -2160,7 +2182,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 211084,
       "name": "Cuando No Era Cantante",
       "url": "https://open.spotify.com/track/6N2iccqxRInhTLHc2Fu3W0"
@@ -2190,7 +2212,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 327488,
       "name": "Cuando No Era Cantante - Remix",
       "url": "https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE"
@@ -2706,7 +2728,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 286040,
       "name": "Diles",
       "url": "https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"
@@ -3757,6 +3779,28 @@
     },
     {
       "album": {
+        "name": "POR SI MA\u00d1ANA NO ESTOY",
+        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226533,
+      "name": "FOREVER TU GANTEL",
+      "url": "https://open.spotify.com/track/1YAWMfsmduIrpqrjP45pFn"
+    },
+    {
+      "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
       },
@@ -4412,6 +4456,24 @@
       "duration_ms": 240000,
       "name": "IA",
       "url": "https://open.spotify.com/track/7lcbpfihslisNObKdHjyLo"
+    },
+    {
+      "album": {
+        "name": "Hecho En Puerto Rico",
+        "url": "https://open.spotify.com/album/6SphKzSgPW55sFK5lUGKd8"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309640,
+      "name": "Idilio",
+      "url": "https://open.spotify.com/track/5iwgEFKEktjBBZV3C9TTZj"
     },
     {
       "album": {
@@ -6312,7 +6374,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 134814,
       "name": "MUSA",
       "url": "https://open.spotify.com/track/0QuHK1VvIZ1Kt2GfqRrdVo"
@@ -6514,7 +6576,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 167706,
       "name": "NO CRY",
       "url": "https://open.spotify.com/track/4YM3IYESNKXWYHbPXvMMVD"
@@ -6850,6 +6912,24 @@
       "duration_ms": 201935,
       "name": "offline",
       "url": "https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304200,
+      "name": "Oh Qu\u00e9 Ser\u00e1?",
+      "url": "https://open.spotify.com/track/2n1MTLCis6qPSDKdr5XSDI"
     },
     {
       "album": {
@@ -8138,7 +8218,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 191018,
       "name": "Qu\u00e9 Pasar\u00eda...",
       "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
@@ -9557,6 +9637,24 @@
     },
     {
       "album": {
+        "name": "Reinicio",
+        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192064,
+      "name": "Todo Lo Fue",
+      "url": "https://open.spotify.com/track/0Sa8aRfGckW0qUGLrBwoBG"
+    },
+    {
+      "album": {
         "name": "BORONDO",
         "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
       },
@@ -9908,7 +10006,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 193259,
       "name": "Un Perro Enamorado",
       "url": "https://open.spotify.com/track/3kcr3teEgyTOVIAxMPOPeO"
@@ -10266,7 +10364,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 210047,
       "name": "Verano Rosa",
       "url": "https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF"
@@ -10712,6 +10810,24 @@
       "duration_ms": 215000,
       "name": "X TI",
       "url": "https://open.spotify.com/track/4TFjpINnVhINpTdrtNQIvx"
+    },
+    {
+      "album": {
+        "name": "Noches Sin Fin",
+        "url": "https://open.spotify.com/album/465rqQUVN9J9KTCphdfAKM"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158074,
+      "name": "Ya Borracho",
+      "url": "https://open.spotify.com/track/4NyUIohBa3CEMGcXURYSOh"
     },
     {
       "album": {

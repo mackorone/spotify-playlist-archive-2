@@ -2,9 +2,9 @@
 
 ### [RAP 91 Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWTqYqGLu7kTX)
 
-> Best of Punjabi Hip\-Hop! Cover:  Sultaan
+> Best of Punjabi Hip\-Hop! Cover:  Karan Aujla
 
-321 songs - 15 hr 53 min
+322 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Compulsory](https://open.spotify.com/track/326eZ9C7qpDj6NSsEiKvoW) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Step Up](https://open.spotify.com/album/3r4E0LF4sCrql6Z9TV7nNO) | 3:36 | 2023-03-18 | 2024-04-03 |
 | [Convo](https://open.spotify.com/track/5vXDlXE3vNa3eA8E73jySm) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [No Turning Back](https://open.spotify.com/album/20PfKi2qclF4raQzLjkz9i) | 2:16 | 2025-07-18 |  |
 | [Culture](https://open.spotify.com/track/6szgLz2R9DuvttnAb0BiY4) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Culture](https://open.spotify.com/album/4xgtLuP2QVVRyG54TNlfbK) | 2:43 | 2024-11-19 | 2025-10-04 |
+| [Custom](https://open.spotify.com/track/0oBQwoSOx13KFMOCCoCZ19) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj), [Saheb](https://open.spotify.com/artist/3ukEIJ46BpHQxnrWSbqaIq), [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p) | [Custom](https://open.spotify.com/album/5xFz9KZUCoaxLWkJvko6YS) | 2:55 | 2026-02-27 |  |
 | [Daang V1](https://open.spotify.com/track/718N1bBYYO7Rf4SJfVosQ7) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [DSP](https://open.spotify.com/album/1K7j7CMe82qIGH1OfxuGel) | 2:48 | 2024-09-09 | 2024-09-29 |
 | [Dabb Nal](https://open.spotify.com/track/6G1ytXcX96NOSOT3e46umY) | [Bally Bhinder](https://open.spotify.com/artist/6RW1VVbDxHlS1m7NzbGuld), [UPPAL](https://open.spotify.com/artist/1oPAPxl8tllygRBMZO8jkQ), [Tyga Productions](https://open.spotify.com/artist/6JexoE8wiAiQBZQtKGRfno) | [Dabb Nal](https://open.spotify.com/album/4C9e8PZourPawibCJ7CnRq) | 2:23 | 2024-03-28 | 2024-07-27 |
 | [Daku](https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Daku](https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR) | 2:11 | 2023-03-18 | 2025-08-27 |
@@ -149,7 +150,7 @@
 | [Hustle](https://open.spotify.com/track/56VeOPxdEti75KddXLOivp) | [Baggh\-e SMG](https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu), [Farmaan SMG](https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G) | [Be The Change](https://open.spotify.com/album/3FSUBDoKXuJnBRqlS9I0Z4) | 3:37 | 2024-11-12 | 2024-12-24 |
 | [Hustler](https://open.spotify.com/track/2OcY01R8TlA3co5aDHJG2G) | [Deep Bajheriwala](https://open.spotify.com/artist/7rZrBECX3UBrOBloYmC7jL), [Syphr](https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM) | [Hustler](https://open.spotify.com/album/04G5wa2MYgirsIXWESITcn) | 2:30 | 2024-11-27 | 2024-12-10 |
 | [I Know A Guy](https://open.spotify.com/track/1DFFzCDrgZRkRL4noqE6xd) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [RAK](https://open.spotify.com/artist/5fRjKFvGLlv4XCjkgWuPoT), [LXSH](https://open.spotify.com/artist/4xoF0p9MrhB4Qxh9sIwPaz) | [I Know A Guy](https://open.spotify.com/album/0GyPi7lYfWvD1SJwkjdRhc) | 4:31 | 2024-10-11 | 2024-11-08 |
-| [I'ma Do My Thiiing](https://open.spotify.com/track/2zIwRUw5iCpgElrEMdPHJm) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 3:13 | 2025-08-26 |  |
+| [I'ma Do My Thiiing](https://open.spotify.com/track/2zIwRUw5iCpgElrEMdPHJm) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 3:13 | 2025-08-26 | 2026-02-28 |
 | [Iceman](https://open.spotify.com/track/0lu0MNaneFAc0jx5THg5wu) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Longway](https://open.spotify.com/album/44SVcjDKmwb0buNknrEpiW) | 2:20 | 2025-09-12 |  |
 | [IDGAF \(feat\. Morrisson\)](https://open.spotify.com/track/7F5O2pMgNNjONTbdqQx9b3) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Morrisson](https://open.spotify.com/artist/3bn93QEHOITZ4ARuiZdfRA) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 2:56 | 2023-03-18 | 2023-04-24 |
 | [Il Capo](https://open.spotify.com/track/5lfzzSrGiid1bvw0W8K2HA) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [Arvin Beatz](https://open.spotify.com/artist/2GaqYSHNeH0PKPCl0Vcn84) | [Il Capo](https://open.spotify.com/album/5pLWCSnEyc05ivyxdnQBeA) | 2:39 | 2025-12-05 |  |

@@ -4,7 +4,7 @@
 
 > may include sad indie rock songs.
 
-255 songs - 13 hr 17 min
+256 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Crybaby](https://open.spotify.com/track/0zFkRHg8VLdN1nEwEvafZP) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Guard Dog](https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58) | 4:01 | 2023-06-13 |  |
 | [CryWitMe.mp3](https://open.spotify.com/track/3lhbGhwy97nY2pSZkpwuZn) | [Marigold](https://open.spotify.com/artist/1qxMrN7GOPfiFkC8H0rKh6) | [CryWitMe.mp3](https://open.spotify.com/album/2V2cmfoMXI7XuFVAt3l7A6) | 1:30 | 2023-04-11 | 2023-07-15 |
 | [cupid](https://open.spotify.com/track/4RrEGof2unXEhwVYLaVxUi) | [bunii](https://open.spotify.com/artist/6mx3Y8XNLPaS2pjJbQFq3W) | [8:30 is too early](https://open.spotify.com/album/7l89dP0Z0Q3GykEbcLwCXW) | 1:13 | 2025-11-20 |  |
+| [Dandelion](https://open.spotify.com/track/7yRZ9KTJXSnSWXh2hRPft9) | [silent collision](https://open.spotify.com/artist/0LLN5gLVXdG4JppMASYxNP) | [Dandelion](https://open.spotify.com/album/6PHIFBsrXsKPL6Z1hA4k9X) | 3:13 | 2026-02-27 |  |
 | [dark rain](https://open.spotify.com/track/4ofhqons1Y7p0orWUPM3qt) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [joseph's deli & lottery](https://open.spotify.com/album/4tbpoplEQJggCqxLF9GfsM) | 2:34 | 2023-07-14 |  |
 | [deep cut](https://open.spotify.com/track/0z7jINsAm4AOmiCYY7v1HW) | [Charlotte Rose Benjamin](https://open.spotify.com/artist/5NGaAzt758rEP9B9feiQIe) | [deep cut](https://open.spotify.com/album/17b1Br35jKvT919bAF3MAH) | 5:14 | 2023-04-11 | 2023-06-03 |
 | [die](https://open.spotify.com/track/5Qfq800wAIq4iDWOJewzAf) | [Oyatan](https://open.spotify.com/artist/6aQQEOm7P00EQEIt8b13om), [Coffee Stain](https://open.spotify.com/artist/2sXLxDkHv449hp1ZnQIvLv) | [Wouldn’t It Be Easy?](https://open.spotify.com/album/5lSRQqXZTgiK1kYqXSOs9t) | 2:50 | 2023-08-18 |  |

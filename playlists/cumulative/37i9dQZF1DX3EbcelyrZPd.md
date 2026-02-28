@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Jay Melody
 
-644 songs - 1 day 12 hr 43 min
+645 songs - 1 day 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -605,6 +605,7 @@
 | [Wali Nazi](https://open.spotify.com/track/4mc3yUfDAvt5VjUEaDJlUh) | [Q Chief](https://open.spotify.com/artist/2CL7c3WDQbjC7qoWwFjEig), [TID](https://open.spotify.com/artist/7F9kZ1lQ6NS4kQrKXDeAkv) | [Wali Nazi](https://open.spotify.com/album/3mGrGJh0EJGk0B3USlL8lR) | 3:06 | 2024-04-04 | 2024-11-08 |
 | [Wanangu \(feat\. DJ Awakening\)](https://open.spotify.com/track/0iyuCNsBSQLf7FnOkGm6MG) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd), [Dj Awakening](https://open.spotify.com/artist/1vdjiPf4w72D0ztlEkp97d) | [Time](https://open.spotify.com/album/7j261kEXqE8RLUe6Qjnao4) | 3:43 | 2025-08-14 | 2026-01-30 |
 | [Wanaweweseka](https://open.spotify.com/track/1rRmvbtJKihinccZi5Xbep) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Wanaweweseka](https://open.spotify.com/album/3K61B2XqXn3WpcdRojwWnA) | 3:22 | 2021-09-23 | 2022-05-20 |
+| [Wangu](https://open.spotify.com/track/3rRiEM8ttueIZU59KNSdTe) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Wangu](https://open.spotify.com/album/6oQFivXTgklnz7mHzjQkab) | 3:30 | 2026-02-26 |  |
 | [Wapo](https://open.spotify.com/track/1XPxQpP5eFmfp21sdY89xl) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX), [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Wapo](https://open.spotify.com/album/0sSuteqvC4BO0roqNxF62I) | 3:12 | 2023-10-05 | 2024-03-01 |
 | [Wasiwasi](https://open.spotify.com/track/5RzxzvDwkaBz3msv2VjSwi) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Wasiwasi](https://open.spotify.com/album/72ObTTZXAXz1TIo3NQSbrz) | 3:56 | 2023-02-23 | 2023-07-14 |
 | [Watu Feki](https://open.spotify.com/track/43EczENfxxOy3nJBqKRcV2) | [Appy](https://open.spotify.com/artist/22CP7pIdG3mGt7AL1Dm4gv) | [Watu Feki](https://open.spotify.com/album/3IQYzBMNVE9pEnZj2SWzKc) | 3:39 | 2023-08-10 | 2024-11-22 |

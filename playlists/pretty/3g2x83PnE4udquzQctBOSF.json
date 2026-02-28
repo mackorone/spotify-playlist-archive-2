@@ -6,8 +6,40 @@
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARcnHWHJyLUFu2nRL9ni41ooVjvYdW",
+  "snapshot_id": "AAARdE0d2kDO5F6ylZA/pD0tOXowafED",
   "tracks": [
+    {
+      "added_at": "2026-02-27 19:54:21",
+      "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/4tai8TuD1nw2F2Isrm9D0Y"
+      },
+      "artists": [
+        {
+          "name": "Ike TJ",
+          "url": "https://open.spotify.com/artist/3DB5xKPkNiCoH8xopiagZ4"
+        }
+      ],
+      "duration_ms": 376320,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/1yNfUht2F5XFr6MtadE284"
+    },
+    {
+      "added_at": "2026-02-27 18:25:55",
+      "album": {
+        "name": "Qu\u00e9 Maldito Sonido",
+        "url": "https://open.spotify.com/album/3aWAJIz07mzNNE1ywHmaEu"
+      },
+      "artists": [
+        {
+          "name": "Daniele Ceccarini",
+          "url": "https://open.spotify.com/artist/3QmrkfwWbG09MX7SGFQ7Io"
+        }
+      ],
+      "duration_ms": 160546,
+      "name": "Qu\u00e9 Maldito Sonido",
+      "url": "https://open.spotify.com/track/5gcDnLlqYTApIhjsqXfOcU"
+    },
     {
       "added_at": "2026-02-27 00:18:08",
       "album": {

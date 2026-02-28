@@ -4,7 +4,7 @@
 
 > This is El Coyote Y Su Banda Tierra Santa\. The essential tracks, all in one playlist.
 
-137 songs - 7 hr 12 min
+138 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Carta Abierta](https://open.spotify.com/track/4eSYNzie0zHOPoXp0iisZw) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Profundamente](https://open.spotify.com/album/78HIF5oTYm7ouvaMvFyz7i) | 2:31 | 2022-06-01 |  |
 | [Cita con un Invento](https://open.spotify.com/track/773lk88kjUKstndUTL1W7F) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Polo Norte](https://open.spotify.com/album/0mtRgmzxZP7qeD8Sr9yNPy) | 3:23 | 2022-06-01 | 2025-11-04 |
 | [Cita Con Un Invento](https://open.spotify.com/track/43hfVtk1xpbbG0AXa9Chji) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Polo Norte](https://open.spotify.com/album/7qYPjrdtdB54ebJ4te332h) | 3:23 | 2025-11-04 |  |
+| [Claro Que Me Duele](https://open.spotify.com/track/0TKn2fxvpUTSsiDqrkFDcV) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Te Soñé](https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY) | 3:07 | 2026-02-28 |  |
 | [Concédeme](https://open.spotify.com/track/0FANQz7nFRHIMmdwUCKJdC) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Grandes Exitos](https://open.spotify.com/album/20CuPsvlVGNNGZeRjXH3LA) | 2:57 | 2023-11-10 |  |
 | [Concédeme](https://open.spotify.com/track/5Q8lRKYm8vbPJbcJoE7JXX) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Las Bandas Románticas](https://open.spotify.com/album/3HZwshxrCybf8WzwrGLw22) | 2:57 | 2022-06-07 | 2023-11-11 |
 | [Cuando Me Vi En Tus Ojos](https://open.spotify.com/track/6LVnqu9o1XKTV03tBgiEsR) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Cuando Me Vi En Tus Ojos](https://open.spotify.com/album/6SOeP0jexav5t3x5J1wFKH) | 2:51 | 2022-06-02 | 2022-06-12 |
@@ -71,7 +72,7 @@
 | [La Escuela de la Vida](https://open.spotify.com/track/1yplnIFFnaIPgiOOKdlQDa) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Escuela de la Vida](https://open.spotify.com/album/1FajOqCHXRux8YmKtYVbjg) | 2:22 | 2022-06-01 | 2025-10-08 |
 | [La Escuela de la Vida](https://open.spotify.com/track/4SWNOnYG8zGt2YSTzx4HkU) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Escuela de la Vida](https://open.spotify.com/album/7rCXWWp8dk5w1qiO1WyW0v) | 2:22 | 2025-10-08 |  |
 | [La Gran Pachanga](https://open.spotify.com/track/4cyXq6gzdDDa8nRercj5C9) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El General](https://open.spotify.com/album/5jfEZzk2tqBlPisJv6ov78) | 2:35 | 2024-06-02 | 2024-09-27 |
-| [La Loba del Mar](https://open.spotify.com/track/01l0Stxns89Z2b4UCRZQgZ) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Como Una Huella Digital](https://open.spotify.com/album/2dkCnatj0xFwKpng8Sxgn3) | 2:23 | 2025-10-08 |  |
+| [La Loba del Mar](https://open.spotify.com/track/01l0Stxns89Z2b4UCRZQgZ) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Como Una Huella Digital](https://open.spotify.com/album/2dkCnatj0xFwKpng8Sxgn3) | 2:23 | 2025-10-08 | 2026-02-28 |
 | [La Loba del Mar](https://open.spotify.com/track/6ozLwDnOkZBN1yir033PyG) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Como una Huella Digital](https://open.spotify.com/album/2smzCkewD9Jfht4iw9spg6) | 2:23 | 2022-06-01 | 2025-10-07 |
 | [La Manuelita](https://open.spotify.com/track/4mSRvEUd338ZSDGR4ApCOR) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Porque Te Amé \(Vol\. 1\)](https://open.spotify.com/album/11RxvUuFr3iNGo6b3V7wi8) | 3:36 | 2022-06-01 | 2022-10-13 |
 | [La Prieta Linda](https://open.spotify.com/track/0P2uUhEU7JeVPCwFnxhrAD) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Cuando Regreso A Tus Brazos](https://open.spotify.com/album/5Xh3r6kzRx25E91eNZh8cJ) | 3:27 | 2023-06-27 |  |

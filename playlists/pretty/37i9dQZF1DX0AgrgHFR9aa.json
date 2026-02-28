@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Kerou\u00e9",
-  "num_followers": 172309,
+  "num_followers": 172302,
   "original_name": "Lyricistes",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
       "duration_ms": 120840,
       "name": "NANI",
       "url": "https://open.spotify.com/track/6xnFCb313mPiBAZ9MiNNDF"
+    },
+    {
+      "added_at": "2026-02-26 23:00:28",
+      "album": {
+        "name": "Mon enfer",
+        "url": "https://open.spotify.com/album/6f7PQlejKMWFvpZehP3uig"
+      },
+      "artists": [
+        {
+          "name": "Sullykzr",
+          "url": "https://open.spotify.com/artist/1B7eisw20jZOhrLMVHY2TW"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Mon enfer",
+      "url": "https://open.spotify.com/track/6rFtizFQZw5CjMOgqN8hLD"
     },
     {
       "added_at": "2026-02-26 23:00:28",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC2wbN3v6RhP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1Pk7rcCDQIzm46M7Z50xDh">Taylor Swift</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,612 likes - 225 songs - 14 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,608 likes - 225 songs - 14 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,11 +151,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC2wbN3v6RhP.md) - [plain]
 | 141 | [Soon You’ll Get Better \(feat\. The Chicks\)](https://open.spotify.com/track/4AYtqFyFbX0Xkc2wtcygTr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:21 |
 | 142 | [Dear Reader](https://open.spotify.com/track/7lFNXsbcbds699xCWO3pSe) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I) | 3:45 |
 | 143 | [Clean \(Taylor's Version\)](https://open.spotify.com/track/2ByBBvpR9b7IynvRmnG7kG) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 4:31 |
-| 144 | [Clara Bow](https://open.spotify.com/track/1UlhrRvYzbHEyugEDspXUB) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:36 |
-| 145 | [Honey](https://open.spotify.com/track/4qmFC3Jz5aQ0erlk2OSi2X) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:01 |
+| 144 | [Honey](https://open.spotify.com/track/4qmFC3Jz5aQ0erlk2OSi2X) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:01 |
+| 145 | [Clara Bow](https://open.spotify.com/track/1UlhrRvYzbHEyugEDspXUB) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:36 |
 | 146 | [I Hate It Here](https://open.spotify.com/track/3hlGuz3loYoLfI3bpwieWq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:03 |
-| 147 | [Run \(feat\. Ed Sheeran\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4IQkfUsrwXol38VV3U7t7T) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:00 |
-| 148 | [Peter](https://open.spotify.com/track/3zMDGj4D8ogaYgAIZPeU7S) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:43 |
+| 147 | [Peter](https://open.spotify.com/track/3zMDGj4D8ogaYgAIZPeU7S) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:43 |
+| 148 | [Run \(feat\. Ed Sheeran\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4IQkfUsrwXol38VV3U7t7T) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:00 |
 | 149 | [Babe \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/0v4z1tuZvn6LGknom9Qx7d) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:44 |
 | 150 | [Wonderland](https://open.spotify.com/track/6RvRzl1YJTDnUvdOtV21IK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 4:05 |
 | 151 | [The Last Time \(feat\. Gary Lightbody of Snow Patrol\) \(Taylor’s Version\)](https://open.spotify.com/track/0y6kdSRCVQhSsHSpWvTUm7) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Gary Lightbody](https://open.spotify.com/artist/3fCQnw6VSudXBTN5d2QP2z) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:59 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC2wbN3v6RhP.md) - [plain]
 | 224 | [Beautiful Ghosts \(Victoria’s Song\) \- From The Motion Picture Soundtrack "Cats"](https://open.spotify.com/track/1EBBNQDbxG6jfdiGTeWPdT) | [Francesca Hayward](https://open.spotify.com/artist/73jlloXDUzlTRHOcO9JhIg) | [Cats: Highlights From The Motion Picture Soundtrack](https://open.spotify.com/album/3OjtXmDVcfHAjJOS3xBoYU) | 2:50 |
 | 225 | [Dark Blue Tennessee](https://open.spotify.com/track/09CEIc9goZeeqRYwz6GYFD) | [outplay](https://open.spotify.com/artist/2vUjgOHdDaeftRG27IxxNq) | [Dark Blue Tennessee](https://open.spotify.com/album/5Am8oboqYxIQiEYU5tcSDz) | 3:17 |
 
-Snapshot ID: `AcKvHgAAAAAdNVd4mykrq+rmLcPFXrQ+`
+Snapshot ID: `AcK0ggAAAAAbVXksKmhndYlvKNY5w/u9`

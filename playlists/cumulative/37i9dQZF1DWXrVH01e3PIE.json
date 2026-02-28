@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Mike Southside & Corona en la casa del Trap Argentino.",
+  "description": "Lil Troca, Lucho SSJ & C.R.O en la casa del Trap Argentino",
   "name": "Trapperz Argentina",
   "tracks": [
     {
@@ -1272,7 +1272,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 132550,
       "name": "bali .",
       "url": "https://open.spotify.com/track/7slbwOTJmyABDs82VaURSC"
@@ -5784,6 +5784,32 @@
       "duration_ms": 135235,
       "name": "Jugador",
       "url": "https://open.spotify.com/track/3njm1G9QgV5Lis9Iu4KNiL"
+    },
+    {
+      "album": {
+        "name": "Jumping",
+        "url": "https://open.spotify.com/album/3dvaU8OfG9AXgXm4bg25gb"
+      },
+      "artists": [
+        {
+          "name": "Lil Troca",
+          "url": "https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk"
+        },
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197386,
+      "name": "Jumping",
+      "url": "https://open.spotify.com/track/3G3bxTpxZqC8x1PaZXgTGV"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Kelsea Ballerini. The essential tracks, all in one playlist.",
-  "num_followers": 101144,
+  "num_followers": 101147,
   "original_name": "This Is Kelsea Ballerini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAABd1LYsPjjY3Appo8PNCHnA",
+  "snapshot_id": "aZ+NAAAAAAA0qIRqWu6CEKkGFXRFI96E",
   "tracks": [
     {
       "added_at": null,
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rolling Up the Welcome Mat",
-        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 178746,
-      "name": "Leave Me Again",
-      "url": "https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo"
+      "duration_ms": 244466,
+      "name": "Legends",
+      "url": "https://open.spotify.com/track/6vlxmQGwmlyp07YjkugV6K"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 244466,
-      "name": "Legends",
-      "url": "https://open.spotify.com/track/6vlxmQGwmlyp07YjkugV6K"
+      "duration_ms": 178746,
+      "name": "Leave Me Again",
+      "url": "https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo"
     },
     {
       "added_at": null,

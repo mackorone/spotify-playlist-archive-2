@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ucVJaqqjpS.md) - [plain]
 
 > Canciones con la adrenalina necesaria para dar esa milla extra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,571 likes - 80 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,614 likes - 80 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ucVJaqqjpS.md) - [plain]
 | 21 | [Under the Bridge](https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:24 |
 | 22 | [Somewhere I Belong](https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD) | 3:33 |
 | 23 | [Toxicity](https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:38 |
-| 24 | [Should I Stay or Should I Go \- Remastered](https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:08 |
-| 25 | [Seven Nation Army](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:52 |
+| 24 | [Seven Nation Army](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:52 |
+| 25 | [Should I Stay or Should I Go \- Remastered](https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:08 |
 | 26 | [American Idiot](https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 2:56 |
 | 27 | [Duality](https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses \(Special Edition\)](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:12 |
 | 28 | [Lonely Day](https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Hypnotize](https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3) | 2:47 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ucVJaqqjpS.md) - [plain]
 | 49 | [T.N.T.](https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [High Voltage](https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq) | 3:35 |
 | 50 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 |
 | 51 | [B.Y.O.B.](https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Mezmerize](https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o) | 4:15 |
-| 52 | [Eye of the Tiger](https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Eye Of The Tiger](https://open.spotify.com/album/4PT9VulQaQP6XR1xBI2x1W) | 4:03 |
-| 53 | [The Pretender](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:29 |
+| 52 | [The Pretender](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:29 |
+| 53 | [Eye of the Tiger](https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Eye Of The Tiger](https://open.spotify.com/album/4PT9VulQaQP6XR1xBI2x1W) | 4:03 |
 | 54 | [Before I Forget](https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses \(Special Edition\)](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:38 |
 | 55 | [Hail to the King](https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:05 |
 | 56 | [Uprising](https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:04 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ucVJaqqjpS.md) - [plain]
 | 67 | [Nightmare](https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nightmare](https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr) | 6:14 |
 | 68 | [Learn to Fly](https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 3:55 |
 | 69 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 |
-| 70 | [Smooth Criminal](https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Anthology](https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5) | 3:29 |
-| 71 | [Stricken](https://open.spotify.com/track/6RJdYpFQwLyNfDc5FbjkgV) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Ten Thousand Fists](https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6) | 4:05 |
+| 70 | [Stricken](https://open.spotify.com/track/6RJdYpFQwLyNfDc5FbjkgV) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Ten Thousand Fists](https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6) | 4:05 |
+| 71 | [Smooth Criminal](https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Anthology](https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5) | 3:29 |
 | 72 | [Headstrong](https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4) | [Trapt](https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM) | [Trapt](https://open.spotify.com/album/4jd0qgZ4gaHW6b0lgpZKWk) | 4:46 |
 | 73 | [Best of You](https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 4:15 |
 | 74 | [Last Nite](https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 3:13 |

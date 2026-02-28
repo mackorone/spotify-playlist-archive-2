@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99lWznOaNjk.md) - [plain]
 
 > Today's biggest and most exciting videos\. Music videos available only on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,359 likes - 30 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,610 likes - 30 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 |
+| 1 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 |
 | 2 | [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 |
-| 3 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 |
-| 4 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
-| 5 | [luther](https://open.spotify.com/track/4WCLVsNdUhoq5Ue66YXTHb) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [luther](https://open.spotify.com/album/1015FLq4dfE55BwjmLZnVN) | 5:11 |
+| 3 | [luther](https://open.spotify.com/track/4WCLVsNdUhoq5Ue66YXTHb) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [luther](https://open.spotify.com/album/1015FLq4dfE55BwjmLZnVN) | 5:11 |
+| 4 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 |
+| 5 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
 | 6 | [Opalite](https://open.spotify.com/track/3cWbxSR8DZS4Zu8cGwYlPT) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Opalite](https://open.spotify.com/album/3QFoWoSKxCdj8Ad28kstOp) | 5:59 |
-| 7 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 |
-| 8 | [La Perla](https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:15 |
-| 9 | [Homewrecker](https://open.spotify.com/track/45rR6DD2pBxDcWmMARbrjm) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/7EpH4zAYGE9mmRrvHcjtrG) | 4:15 |
-| 10 | [Sports car](https://open.spotify.com/track/5UJbgR4XF4y1DvbkxEqe8S) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 2:45 |
-| 11 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 |
-| 12 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6uMOteLgUpMjkDQcCsoyo5) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [BIRDS OF A FEATHER](https://open.spotify.com/album/4e2Mrqs5CgdDy4Dmx6ShiT) | 3:33 |
+| 7 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 |
+| 8 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6uMOteLgUpMjkDQcCsoyo5) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [BIRDS OF A FEATHER](https://open.spotify.com/album/4e2Mrqs5CgdDy4Dmx6ShiT) | 3:33 |
+| 9 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 |
+| 10 | [La Perla](https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:15 |
+| 11 | [Homewrecker](https://open.spotify.com/track/45rR6DD2pBxDcWmMARbrjm) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/7EpH4zAYGE9mmRrvHcjtrG) | 4:15 |
+| 12 | [Sports car](https://open.spotify.com/track/5UJbgR4XF4y1DvbkxEqe8S) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 2:45 |
 | 13 | [12 to 12](https://open.spotify.com/track/1srR2mSBDQ6sc9KECxwggH) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/48xcWiZC4SkehEnq5I2pjr) | 4:04 |
 | 14 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 |
 | 15 | [Ordinary](https://open.spotify.com/track/22CA8GnsXHYdTmuuF4ZGOb) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/4BfXBNMwUjRE82v8yy7Gre) | 3:05 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99lWznOaNjk.md) - [plain]
 | 29 | [I Got Better](https://open.spotify.com/track/4gfrYDtaRmp6HPvN80V2ob) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:24 |
 | 30 | [White Feather Hawk Tail Deer Hunter](https://open.spotify.com/track/7IM4xK4W4n06UAV48ZXMup) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [White Feather Hawk Tail Deer Hunter](https://open.spotify.com/album/5Li8k3H3b4BC7CLlq5jVfQ) | 3:54 |
 
-Snapshot ID: `AAAAANZNIxMCXySxsAk9JAXslk3QIx1V`
+Snapshot ID: `AAAAAOs/MpEe6OEYd5PM7WTtpMJPHMm4`

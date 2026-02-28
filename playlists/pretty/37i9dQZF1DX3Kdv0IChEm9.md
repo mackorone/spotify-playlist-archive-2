@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Kdv0IChEm9.md) - [plain]
 
 > 100% clássicos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,784 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,943 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Kdv0IChEm9.md) - [plain]
 | 37 | [How Deep Is Your Love](https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [How Deep Is Your Love](https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm) | 3:32 |
 | 38 | [Where Have You Been](https://open.spotify.com/track/3tyPOhuVnt5zd5kGfxbCyL) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk](https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T) | 4:02 |
 | 39 | [In My Mind](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [In My Mind](https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa) | 3:04 |
-| 40 | [Stay](https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Stay](https://open.spotify.com/album/1I4W7JKzYbl8VKRfD61DIS) | 3:30 |
-| 41 | [Infinity 2008 \- Klaas Vocal Edit](https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE) | [Guru Josh Project](https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy), [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Infinity 2008](https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY) | 3:12 |
+| 40 | [Infinity 2008 \- Klaas Vocal Edit](https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE) | [Guru Josh Project](https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy), [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Infinity 2008](https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY) | 3:12 |
+| 41 | [Stay](https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Stay](https://open.spotify.com/album/1I4W7JKzYbl8VKRfD61DIS) | 3:30 |
 | 42 | [Runaway \(U & I\)](https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Pharmacy](https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2) | 3:47 |
 | 43 | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/track/2U8NXPTXZWG2O0ye2sYRiH) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [THIS IS..\. ICONA POP](https://open.spotify.com/album/3qpAHoOLWeXRNTaGzeYf13) | 2:37 |
 | 44 | [Party Rock Anthem](https://open.spotify.com/track/7mitXLIMCflkhZiD34uEQI) | [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl), [Lauren Bennett](https://open.spotify.com/artist/2jLE4BoXHriQ96JagEtiDP), [GoonRock](https://open.spotify.com/artist/53sIBaVjXQhfH89Vu6nEGh) | [Sorry For Party Rocking](https://open.spotify.com/album/0D49RvtlLCKyxeDKDnBU2R) | 4:22 |

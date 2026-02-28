@@ -1454,6 +1454,24 @@
     {
       "album": {
         "name": "REVIVE+",
+        "url": "https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178046,
+      "name": "BANG BANG",
+      "url": "https://open.spotify.com/track/5VtwUrgljtOyBa773AGSr4"
+    },
+    {
+      "album": {
+        "name": "REVIVE+",
         "url": "https://open.spotify.com/album/5T94fnmXJxSmPVjWb6M50x"
       },
       "artists": [
@@ -1464,7 +1482,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/7pBE8YpFoZ9ankC2Ci5z9X"
@@ -4189,6 +4207,32 @@
     },
     {
       "album": {
+        "name": "IJSLAND 2",
+        "url": "https://open.spotify.com/album/1qwQoDUVZNAGP8g9vBoHug"
+      },
+      "artists": [
+        {
+          "name": "Abel",
+          "url": "https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ"
+        },
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+        },
+        {
+          "name": "IJSLAND",
+          "url": "https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218945,
+      "name": "DON'T BELIEVE DE KRANT",
+      "url": "https://open.spotify.com/track/4j3R4MpvwHA9LRJgejoe7q"
+    },
+    {
+      "album": {
         "name": "DON'T GO",
         "url": "https://open.spotify.com/album/2LUgqawXp0JOneJDQyj5ZM"
       },
@@ -4488,7 +4532,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 201000,
       "name": "Drive Safe",
       "url": "https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn"
@@ -6408,6 +6452,32 @@
       "duration_ms": 176300,
       "name": "Het Sjtopleech Van De Vasteloavend",
       "url": "https://open.spotify.com/track/2K8xv8XoNrYN49ulfMguD9"
+    },
+    {
+      "album": {
+        "name": "IJSLAND 2",
+        "url": "https://open.spotify.com/album/1qwQoDUVZNAGP8g9vBoHug"
+      },
+      "artists": [
+        {
+          "name": "Abel",
+          "url": "https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ"
+        },
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+        },
+        {
+          "name": "IJSLAND",
+          "url": "https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172567,
+      "name": "HETE TAKE",
+      "url": "https://open.spotify.com/track/2GMVqbM45kWJQd6cFbaXJ2"
     },
     {
       "album": {
@@ -11868,7 +11938,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 286866,
       "name": "Only You (with Burna Boy)",
       "url": "https://open.spotify.com/track/0nn0Z1o1WI01pB7oEPiJeE"
@@ -13951,6 +14021,24 @@
     },
     {
       "album": {
+        "name": "Decorate",
+        "url": "https://open.spotify.com/album/6x6UkYPf9ZV3uEVSoTBqZP"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180582,
+      "name": "Someone Out Of Town",
+      "url": "https://open.spotify.com/track/4QrE7JVAi54WYRTO4y0yKb"
+    },
+    {
+      "album": {
         "name": "Terukir Di Bintang",
         "url": "https://open.spotify.com/album/7aB1a1ifJVpp2bfbTQkCLa"
       },
@@ -13962,7 +14050,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 181173,
       "name": "Someone Out of Town",
       "url": "https://open.spotify.com/track/3Tb6RlqXPldaQVasxc68cP"

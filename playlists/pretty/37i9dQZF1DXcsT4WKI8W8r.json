@@ -1,6 +1,6 @@
 {
   "description": "A playlist to get you through your whole workday.",
-  "num_followers": 353109,
+  "num_followers": 353172,
   "original_name": "Music for a Workday",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "Alannah Myles",
+        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
+      },
+      "artists": [
+        {
+          "name": "Alannah Myles",
+          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
+        }
+      ],
+      "duration_ms": 287440,
+      "name": "Black Velvet",
+      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "Red Pill Blues (Deluxe)",
         "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 235545,
       "name": "Girls Like You (feat. Cardi B) - Cardi B Version",
       "url": "https://open.spotify.com/track/7fa9MBXhVfQ8P8Df9OEbD8"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "Alannah Myles",
-        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
-      },
-      "artists": [
-        {
-          "name": "Alannah Myles",
-          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
-        }
-      ],
-      "duration_ms": 287440,
-      "name": "Black Velvet",
-      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "Goddess",
+        "url": "https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 267866,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "Please Don't Go",
         "url": "https://open.spotify.com/album/2SF8Wbc61u8hlQkZYGVCnx"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 125440,
       "name": "(What A) Wonderful World",
       "url": "https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "Goddess",
-        "url": "https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 267866,
-      "name": "Goddess",
-      "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 162533,
-      "name": "Bring It On Home to Me",
-      "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 256146,
       "name": "Smooth Operator - 2011 Remastered",
       "url": "https://open.spotify.com/track/28XDE6yXI6Bp4U3nLSGqzp"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 162533,
+      "name": "Bring It On Home to Me",
+      "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
     },
     {
       "added_at": "2025-03-18 09:51:32",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "The Ultimate Jackie Wilson",
-        "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 181066,
-      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
-      "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Rare",
         "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 220589,
       "name": "Rare",
       "url": "https://open.spotify.com/track/7HMmFQsKsljwTw8bS7lu19"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "The Ultimate Jackie Wilson",
+        "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 181066,
+      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
+      "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Carla",
-        "url": "https://open.spotify.com/album/5WyS0kooTM6uriZwmXjLLY"
-      },
-      "artists": [
-        {
-          "name": "Carla Thomas",
-          "url": "https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "B-A-B-Y",
-      "url": "https://open.spotify.com/track/35w6fQ0Wnuv7aIryRx7gTq"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Happier (Acoustic)",
         "url": "https://open.spotify.com/album/2m5WUxYqXkJc2gdP805IKm"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 206209,
       "name": "Happier - Acoustic",
       "url": "https://open.spotify.com/track/5weKCP07IGA1565wfI3cZ1"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Carla",
+        "url": "https://open.spotify.com/album/5WyS0kooTM6uriZwmXjLLY"
+      },
+      "artists": [
+        {
+          "name": "Carla Thomas",
+          "url": "https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "B-A-B-Y",
+      "url": "https://open.spotify.com/track/35w6fQ0Wnuv7aIryRx7gTq"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -2467,18 +2467,18 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Kite",
-        "url": "https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4"
+        "name": "ASYLUM",
+        "url": "https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL"
       },
       "artists": [
         {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
         }
       ],
-      "duration_ms": 166806,
-      "name": "Kite",
-      "url": "https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT"
+      "duration_ms": 171898,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/75ylrnob5O80WTKi9ugZ1Z"
     }
   ],
   "unique_name": "Music for a Workday",

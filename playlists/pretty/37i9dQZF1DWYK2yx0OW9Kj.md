@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK2yx0OW9Kj.md) - [plain]
 
 > Si te quieres divertir..\. y sudar al ritmo latino 🌶️
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,659 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,798 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK2yx0OW9Kj.md) - [plain]
 | 20 | [Quevedo: Bzrp Music Sessions, Vol\. 52/66](https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Quevedo: Bzrp Music Sessions, Vol\. 52/66](https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u) | 3:18 |
 | 21 | [Otra Vez \(feat\. J Balvin\)](https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Motivan2](https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb) | 3:29 |
 | 22 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 |
-| 23 | [DILUVIO](https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:17 |
-| 24 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 |
+| 23 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 |
+| 24 | [DILUVIO](https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:17 |
 | 25 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 |
 | 26 | [Pa' Que Retozen](https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 2:31 |
 | 27 | [MALA \(feat\. Anuel AA\)](https://open.spotify.com/track/5tYCl2bT9bDjMuTyn6OVb0) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [DUMMY BOY \(Revised\)](https://open.spotify.com/album/0iPy3R6fqEtiu8AFE6Azqr) | 3:26 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK2yx0OW9Kj.md) - [plain]
 | 71 | [Con Altura](https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Con Altura](https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l) | 2:41 |
 | 72 | [OA](https://open.spotify.com/track/6gMj2DzKR2PjrrbNSwcGFR) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [OA](https://open.spotify.com/album/6YpCug9vNZz4uvlmlU7cet) | 3:55 |
 | 73 | [Young Miko: Bzrp Music Sessions, Vol\. 58/66](https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Young Miko: Bzrp Music Sessions, Vol\. 58/66](https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo) | 3:07 |
-| 74 | [Amarillo](https://open.spotify.com/track/6zEgnpM0qYmHLDnh8WPejL) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 2:37 |
-| 75 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 |
+| 74 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 |
+| 75 | [Amarillo](https://open.spotify.com/track/6zEgnpM0qYmHLDnh8WPejL) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 2:37 |
 
 Snapshot ID: `AAAAANvmISz4jqk31/GAmKBXgHqEpSGP`

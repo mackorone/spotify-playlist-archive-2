@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28yPuNTio0f.md) - [plain]
 
 > The sound of Summer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,620 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,650 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28yPuNTio0f.md) - [plain]
 | 9 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 |
 | 10 | [12 to 12](https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 4:02 |
 | 11 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
-| 12 | [Lose Control](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:30 |
-| 13 | [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 |
+| 12 | [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 |
+| 13 | [Lose Control](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:30 |
 | 14 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
 | 15 | [Fame is a Gun](https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:03 |
 | 16 | [When Did You Get Hot?](https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:25 |

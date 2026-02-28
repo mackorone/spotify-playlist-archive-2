@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "pop is SO back. shop this year's collection <a href=\"https://www.umusic.ca/pages/POP\">here</a>.  Cover: Olivia Dean",
+  "description": "pop is SO back. shop this year's collection <a href=\"https://www.umusic.ca/pages/POP\">here</a>.  Cover: Preston Pablo",
   "name": "POP HITS 2026 (BEST 100 SONGS) \ud83d\udca5 \ud83d\udc96 \u2728 \ud83d\udcab",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 170826,
       "name": "007",
       "url": "https://open.spotify.com/track/3o9c3PtbZLl7Yj0H905VRM"
@@ -1454,6 +1454,24 @@
       "duration_ms": 232796,
       "name": "Casual",
       "url": "https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX"
+    },
+    {
+      "album": {
+        "name": "Cause I Do",
+        "url": "https://open.spotify.com/album/11Kn3hXn8f5QX4Cm8mSGhH"
+      },
+      "artists": [
+        {
+          "name": "Preston Pablo",
+          "url": "https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159694,
+      "name": "Cause I Do",
+      "url": "https://open.spotify.com/track/00iDHVhXnvigmwfNJXyHq7"
     },
     {
       "album": {
@@ -5549,6 +5567,28 @@
     },
     {
       "album": {
+        "name": "Keychain (FROM THE FILM K-POPS!)",
+        "url": "https://open.spotify.com/album/58x92u1JINTa5K7lTzfU02"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170786,
+      "name": "Keychain - FROM THE FILM K-POPS!",
+      "url": "https://open.spotify.com/track/3Q3WZ7sJLoIZQKY7hWFyQu"
+    },
+    {
+      "album": {
         "name": "When It Blooms",
         "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
       },
@@ -6636,7 +6676,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 168580,
       "name": "me with no shirt on",
       "url": "https://open.spotify.com/track/6KPYHb2QuzEy93ogaySLA4"
@@ -8240,7 +8280,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 169200,
       "name": "Princess",
       "url": "https://open.spotify.com/track/26LhC1DhMM2dPhHxcibOS8"
@@ -10437,6 +10477,24 @@
     },
     {
       "album": {
+        "name": "the punisher",
+        "url": "https://open.spotify.com/album/4sVAkgZHUNcuzIJpSLOdJh"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189107,
+      "name": "the punisher",
+      "url": "https://open.spotify.com/track/3plUJ0cT3NQgsY1xuUeaSZ"
+    },
+    {
+      "album": {
         "name": "The Show",
         "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
       },
@@ -10506,7 +10564,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 171760,
       "name": "The Way a Heart Breaks",
       "url": "https://open.spotify.com/track/0Bu17sNQtoxhPITYpxdblf"

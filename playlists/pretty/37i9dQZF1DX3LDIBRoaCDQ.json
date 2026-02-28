@@ -1,6 +1,6 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: The Damned from DB Burkeman's <a href=\"https://www.blurringbooks.com/book/crash\"> Crash Bang</a>, a book filled with photos & culture from the late \u201970s/early \u201980s New York, LA & London punk scenes.",
-  "num_followers": 1602578,
+  "num_followers": 1602592,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "New York Dolls",
-        "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
-      },
-      "artists": [
-        {
-          "name": "New York Dolls",
-          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
-        }
-      ],
-      "duration_ms": 221506,
-      "name": "Personality Crisis",
-      "url": "https://open.spotify.com/track/4AwKXevZmsTNa3KZVj3rzl"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Operation Ivy (2007 Remaster)",
         "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 102106,
       "name": "Knowledge - 2007 Remaster",
       "url": "https://open.spotify.com/track/4rpfA2rFOC7FMGxFNktB0i"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "New York Dolls",
+        "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
+      },
+      "artists": [
+        {
+          "name": "New York Dolls",
+          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
+        }
+      ],
+      "duration_ms": 221506,
+      "name": "Personality Crisis",
+      "url": "https://open.spotify.com/track/4AwKXevZmsTNa3KZVj3rzl"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Off The Bone",
-        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
-      },
-      "artists": [
-        {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
-        }
-      ],
-      "duration_ms": 163133,
-      "name": "I Can't Hardly Stand It",
-      "url": "https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Marquee Moon",
         "url": "https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 232960,
       "name": "See No Evil",
       "url": "https://open.spotify.com/track/2OaXmeYBJ0hcTmS3kxjJOx"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Off The Bone",
+        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "duration_ms": 163133,
+      "name": "I Can't Hardly Stand It",
+      "url": "https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Los Angeles",
-        "url": "https://open.spotify.com/album/4lgW2v8MOtBxyuQ7erHLgj"
-      },
-      "artists": [
-        {
-          "name": "X",
-          "url": "https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K"
-        }
-      ],
-      "duration_ms": 144786,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/75a66iUfwKdJb5n9juvXRI"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Inflammable Material",
         "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 128906,
       "name": "Code Blue",
       "url": "https://open.spotify.com/track/2OEaDUMy7y35mk78ZWcwTC"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Los Angeles",
+        "url": "https://open.spotify.com/album/4lgW2v8MOtBxyuQ7erHLgj"
+      },
+      "artists": [
+        {
+          "name": "X",
+          "url": "https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K"
+        }
+      ],
+      "duration_ms": 144786,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/75a66iUfwKdJb5n9juvXRI"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Zen Arcade",
-        "url": "https://open.spotify.com/album/0J1DP5GvKrzWumwzlcFhLc"
-      },
-      "artists": [
-        {
-          "name": "H\u00fcsker D\u00fc",
-          "url": "https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10"
-        }
-      ],
-      "duration_ms": 122560,
-      "name": "Something I Learned Today",
-      "url": "https://open.spotify.com/track/523qoxtSZJE2io945dAkVk"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Young, Loud And Snotty",
         "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 167400,
       "name": "All This and More",
       "url": "https://open.spotify.com/track/0JwGJgL8LCUFzDDPZNmQLa"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Zen Arcade",
+        "url": "https://open.spotify.com/album/0J1DP5GvKrzWumwzlcFhLc"
+      },
+      "artists": [
+        {
+          "name": "H\u00fcsker D\u00fc",
+          "url": "https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10"
+        }
+      ],
+      "duration_ms": 122560,
+      "name": "Something I Learned Today",
+      "url": "https://open.spotify.com/track/523qoxtSZJE2io945dAkVk"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Raw Power (Iggy Mix - 2023 Remaster)",
-        "url": "https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM"
-      },
-      "artists": [
-        {
-          "name": "The Stooges",
-          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
-        }
-      ],
-      "duration_ms": 256760,
-      "name": "Raw Power [2023 Remaster] - Iggy Mix",
-      "url": "https://open.spotify.com/track/3BnVqaDfgKyI4CFCfozors"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Young, Loud And Snotty",
         "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 130826,
       "name": "What Love Is",
       "url": "https://open.spotify.com/track/5Dl4cYpJHsmaMUlgTTViY6"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Raw Power (Iggy Mix - 2023 Remaster)",
+        "url": "https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM"
+      },
+      "artists": [
+        {
+          "name": "The Stooges",
+          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+        }
+      ],
+      "duration_ms": 256760,
+      "name": "Raw Power [2023 Remaster] - Iggy Mix",
+      "url": "https://open.spotify.com/track/3BnVqaDfgKyI4CFCfozors"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "First Two Seven Inches",
-        "url": "https://open.spotify.com/album/29cV9KKP4Wr07poFUHBsbC"
-      },
-      "artists": [
-        {
-          "name": "Minor Threat",
-          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
-        }
-      ],
-      "duration_ms": 91240,
-      "name": "Minor Threat",
-      "url": "https://open.spotify.com/track/6yIaRcvzhIrukxS4VVhil0"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "A Collection of Pop Classics",
         "url": "https://open.spotify.com/album/1Ojre9LKo2kR0FMb6VVSe3"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 94440,
       "name": "No Class",
       "url": "https://open.spotify.com/track/5NMnpiXpslafTY8vxCOGOZ"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "First Two Seven Inches",
+        "url": "https://open.spotify.com/album/29cV9KKP4Wr07poFUHBsbC"
+      },
+      "artists": [
+        {
+          "name": "Minor Threat",
+          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
+        }
+      ],
+      "duration_ms": 91240,
+      "name": "Minor Threat",
+      "url": "https://open.spotify.com/track/6yIaRcvzhIrukxS4VVhil0"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Peace Thru Vandalism (Re-Mastered)",
-        "url": "https://open.spotify.com/album/5rPr9N2sCgivHFmQu6qJj1"
-      },
-      "artists": [
-        {
-          "name": "The Vandals",
-          "url": "https://open.spotify.com/artist/4AqIRTZF6DDmKmdorgFug6"
-        }
-      ],
-      "duration_ms": 114133,
-      "name": "Anarchy Burger (Hold The Government)",
-      "url": "https://open.spotify.com/track/43UVZ8ZgNNuXOf0mTBeLSo"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "13 Songs",
         "url": "https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 155626,
       "name": "Bad Mouth",
       "url": "https://open.spotify.com/track/44qEQsgGIiKEE6oYwOGo2s"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Peace Thru Vandalism (Re-Mastered)",
+        "url": "https://open.spotify.com/album/5rPr9N2sCgivHFmQu6qJj1"
+      },
+      "artists": [
+        {
+          "name": "The Vandals",
+          "url": "https://open.spotify.com/artist/4AqIRTZF6DDmKmdorgFug6"
+        }
+      ],
+      "duration_ms": 114133,
+      "name": "Anarchy Burger (Hold The Government)",
+      "url": "https://open.spotify.com/track/43UVZ8ZgNNuXOf0mTBeLSo"
     },
     {
       "added_at": "2024-11-29 00:00:00",

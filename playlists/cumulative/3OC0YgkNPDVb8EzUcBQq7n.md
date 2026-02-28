@@ -4,7 +4,7 @@
 
 > Best of  the pop girl era!  Listen to all your favourite Gammy\- and BRIT  Awards nominated female artists here.
 
-144 songs - 7 hr 49 min
+145 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 | 2026-01-23 |  |
 | [Turn Me Up](https://open.spotify.com/track/60dQCCVc90CeM82Iajs4lR) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Mabel \(Mixtape\)](https://open.spotify.com/album/3a1kn6l83mijd3b0akLE68) | 4:11 | 2025-07-25 | 2025-09-27 |
 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-07-17 |  |
+| [Unicorn](https://open.spotify.com/track/2vfhsZ9jm2ncXDV8MrFR7X) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Tales of a Failed Shapeshifter](https://open.spotify.com/album/2RL64278RxtHMgDH04qzex) | 2:28 | 2026-02-27 |  |
 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2025-12-11 |  |
 | [Wacht Op Mij](https://open.spotify.com/track/0P6nJmFxmZ6StMiAveIabG) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Wacht Op Mij](https://open.spotify.com/album/36ZxTr0PuSwbTckbdSqkVV) | 3:06 | 2025-10-17 |  |
 | [What a Woman](https://open.spotify.com/track/7yCngOJnTDXHuabhS74XR3) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [What a Woman](https://open.spotify.com/album/3zJWDcRieFRKO76KegbEfu) | 3:33 | 2025-10-15 | 2025-12-12 |

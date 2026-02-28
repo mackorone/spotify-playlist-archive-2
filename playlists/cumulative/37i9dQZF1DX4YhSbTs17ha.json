@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Carlos Rivera y Alejandro Fern\u00e1ndez en portada.\n",
+  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Yuridia y Kany Garc\u00eda en portada.\n",
   "name": "S\u00f3lo Pop",
   "tracks": [
     {
@@ -972,6 +972,24 @@
       "duration_ms": 198542,
       "name": "Alcanc\u00eda",
       "url": "https://open.spotify.com/track/020womZSqTEXnoDptWI6mL"
+    },
+    {
+      "album": {
+        "name": "Algo de m\u00ed",
+        "url": "https://open.spotify.com/album/7mUyUHgpceqFrbVqKnyoqm"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181914,
+      "name": "Algo de m\u00ed",
+      "url": "https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE"
     },
     {
       "album": {
@@ -7265,6 +7283,28 @@
     },
     {
       "album": {
+        "name": "El Ayer",
+        "url": "https://open.spotify.com/album/0oNqIoImVPrSxGIrdZCMPp"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206900,
+      "name": "Hipot\u00e9ticamente",
+      "url": "https://open.spotify.com/track/2TaEcl4cN5G91oOWMt4h0P"
+    },
+    {
+      "album": {
         "name": "Home Alone",
         "url": "https://open.spotify.com/album/0Bfeaf1WqowUo8XndE8YC4"
       },
@@ -8248,6 +8288,28 @@
       "duration_ms": 144602,
       "name": "LA MALA",
       "url": "https://open.spotify.com/track/4qd4H8TaQRtPE3yfyQWk8B"
+    },
+    {
+      "album": {
+        "name": "La Mala Era Yo",
+        "url": "https://open.spotify.com/album/6ozCFSLuAcviqzd7fFn9AV"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "La Mala Era Yo",
+      "url": "https://open.spotify.com/track/2nCP0l4ZNJxVm7ZaKBC3mB"
     },
     {
       "album": {
@@ -14573,6 +14635,24 @@
     },
     {
       "album": {
+        "name": "Se Me Va",
+        "url": "https://open.spotify.com/album/5nVcYNglS9CCWlBgent3Nf"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Se Me Va",
+      "url": "https://open.spotify.com/track/3k8cy0mnztuAVC267hrLLm"
+    },
+    {
+      "album": {
         "name": "R",
         "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
       },
@@ -15576,6 +15656,28 @@
       "duration_ms": 225492,
       "name": "Te Dedico",
       "url": "https://open.spotify.com/track/1ZcdZQO5gzipPkjCxJ0uq6"
+    },
+    {
+      "album": {
+        "name": "Te Elijo",
+        "url": "https://open.spotify.com/album/6tiLCUQHveCwBusTVQCU8C"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176703,
+      "name": "Te Elijo",
+      "url": "https://open.spotify.com/track/032PZ5jBJYvzt8nPry49Ml"
     },
     {
       "album": {

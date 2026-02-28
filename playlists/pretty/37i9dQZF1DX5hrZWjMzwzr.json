@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj wszystkich nominowanych utwor\u00f3w w kategorii singiel roku. ",
-  "num_followers": 10562,
+  "num_followers": 10560,
   "original_name": "Popkillery 2026: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -151,26 +151,6 @@
     {
       "added_at": "2026-02-25 11:19:16",
       "album": {
-        "name": "NAPISZ JAK B\u0118DZIESZ",
-        "url": "https://open.spotify.com/album/3GT8nm2EifN5XETCqz1ILe"
-      },
-      "artists": [
-        {
-          "name": "Sobel",
-          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
-        },
-        {
-          "name": "francis",
-          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
-        }
-      ],
-      "duration_ms": 148187,
-      "name": "CA\u0141E LATO",
-      "url": "https://open.spotify.com/track/51cTY5CXYRwZdAyWFzWsxt"
-    },
-    {
-      "added_at": "2026-02-25 11:19:16",
-      "album": {
         "name": "FUGAZI",
         "url": "https://open.spotify.com/album/1MetFDWprjq2O3RMhYfWnG"
       },
@@ -191,6 +171,26 @@
       "duration_ms": 163278,
       "name": "kyoto",
       "url": "https://open.spotify.com/track/0opYvODIONdV6edM316xO8"
+    },
+    {
+      "added_at": "2026-02-25 11:19:16",
+      "album": {
+        "name": "NAPISZ JAK B\u0118DZIESZ",
+        "url": "https://open.spotify.com/album/3GT8nm2EifN5XETCqz1ILe"
+      },
+      "artists": [
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "francis",
+          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
+        }
+      ],
+      "duration_ms": 148187,
+      "name": "CA\u0141E LATO",
+      "url": "https://open.spotify.com/track/51cTY5CXYRwZdAyWFzWsxt"
     },
     {
       "added_at": "2026-02-25 11:19:16",
@@ -1271,34 +1271,6 @@
     {
       "added_at": "2026-02-25 11:19:16",
       "album": {
-        "name": "Czwarta Rano",
-        "url": "https://open.spotify.com/album/6U5SqvclMhXUaI0lWlJxgp"
-      },
-      "artists": [
-        {
-          "name": "Ma\u0142olat",
-          "url": "https://open.spotify.com/artist/4OKOsK6RUI0hFfxEXjt1kH"
-        },
-        {
-          "name": "Kukon",
-          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
-        },
-        {
-          "name": "NOSTALG1A",
-          "url": "https://open.spotify.com/artist/6MviuPgk8R2ZJBwY9yHxOS"
-        },
-        {
-          "name": "SHD\u00d8W",
-          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
-        }
-      ],
-      "duration_ms": 160851,
-      "name": "Czwarta Rano",
-      "url": "https://open.spotify.com/track/3GMbyrZOt6OsEq8id8jU4h"
-    },
-    {
-      "added_at": "2026-02-25 11:19:16",
-      "album": {
         "name": "Reszty Nie Trzeba",
         "url": "https://open.spotify.com/album/6wwmbJkCTg8PabC4BtmqX5"
       },
@@ -1335,6 +1307,34 @@
       "duration_ms": 282188,
       "name": "Szko\u0142a \u017bycia",
       "url": "https://open.spotify.com/track/5UQ4wo1cpnTloANWlQuAnM"
+    },
+    {
+      "added_at": "2026-02-25 11:19:16",
+      "album": {
+        "name": "Czwarta Rano",
+        "url": "https://open.spotify.com/album/6U5SqvclMhXUaI0lWlJxgp"
+      },
+      "artists": [
+        {
+          "name": "Ma\u0142olat",
+          "url": "https://open.spotify.com/artist/4OKOsK6RUI0hFfxEXjt1kH"
+        },
+        {
+          "name": "Kukon",
+          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
+        },
+        {
+          "name": "NOSTALG1A",
+          "url": "https://open.spotify.com/artist/6MviuPgk8R2ZJBwY9yHxOS"
+        },
+        {
+          "name": "SHD\u00d8W",
+          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
+        }
+      ],
+      "duration_ms": 160851,
+      "name": "Czwarta Rano",
+      "url": "https://open.spotify.com/track/3GMbyrZOt6OsEq8id8jU4h"
     },
     {
       "added_at": "2026-02-25 11:19:16",
@@ -1395,6 +1395,46 @@
     {
       "added_at": "2026-02-25 11:19:16",
       "album": {
+        "name": "DZIECI MIASTA",
+        "url": "https://open.spotify.com/album/6rEqhIQmkqaMiwiUC18Qr7"
+      },
+      "artists": [
+        {
+          "name": "Frosti",
+          "url": "https://open.spotify.com/artist/1gy83FHMv1GVuqYu3sxYxY"
+        },
+        {
+          "name": "Pedro",
+          "url": "https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT"
+        }
+      ],
+      "duration_ms": 168157,
+      "name": "DZIECI MIASTA",
+      "url": "https://open.spotify.com/track/4KdIikzAuPEWITf3CpG08y"
+    },
+    {
+      "added_at": "2026-02-25 11:19:16",
+      "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/22SiXjbw6WwEpXowkjl8zo"
+      },
+      "artists": [
+        {
+          "name": "VBS",
+          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
+        },
+        {
+          "name": "Kwiatek HAZE",
+          "url": "https://open.spotify.com/artist/4q06j2wJJG6LmjdDg2O4pk"
+        }
+      ],
+      "duration_ms": 200354,
+      "name": "DAW",
+      "url": "https://open.spotify.com/track/5P4uwcftTRTxywyscGVfHJ"
+    },
+    {
+      "added_at": "2026-02-25 11:19:16",
+      "album": {
         "name": "Ostatni z gatunku/Les derniers de l'esp\u00e8ce",
         "url": "https://open.spotify.com/album/5DaGiXaRGbNQsVzoS4d9LC"
       },
@@ -1439,46 +1479,6 @@
       "duration_ms": 258008,
       "name": "Ostatni z gatunku/Les derniers de l'esp\u00e8ce",
       "url": "https://open.spotify.com/track/0yRmDXmXJmMgVkaZ9saa2z"
-    },
-    {
-      "added_at": "2026-02-25 11:19:16",
-      "album": {
-        "name": "3",
-        "url": "https://open.spotify.com/album/22SiXjbw6WwEpXowkjl8zo"
-      },
-      "artists": [
-        {
-          "name": "VBS",
-          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
-        },
-        {
-          "name": "Kwiatek HAZE",
-          "url": "https://open.spotify.com/artist/4q06j2wJJG6LmjdDg2O4pk"
-        }
-      ],
-      "duration_ms": 200354,
-      "name": "DAW",
-      "url": "https://open.spotify.com/track/5P4uwcftTRTxywyscGVfHJ"
-    },
-    {
-      "added_at": "2026-02-25 11:19:16",
-      "album": {
-        "name": "DZIECI MIASTA",
-        "url": "https://open.spotify.com/album/6rEqhIQmkqaMiwiUC18Qr7"
-      },
-      "artists": [
-        {
-          "name": "Frosti",
-          "url": "https://open.spotify.com/artist/1gy83FHMv1GVuqYu3sxYxY"
-        },
-        {
-          "name": "Pedro",
-          "url": "https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT"
-        }
-      ],
-      "duration_ms": 168157,
-      "name": "DZIECI MIASTA",
-      "url": "https://open.spotify.com/track/4KdIikzAuPEWITf3CpG08y"
     },
     {
       "added_at": "2026-02-25 11:19:16",

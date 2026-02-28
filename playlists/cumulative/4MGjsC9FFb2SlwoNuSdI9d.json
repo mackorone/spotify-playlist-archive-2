@@ -483,6 +483,24 @@
     },
     {
       "album": {
+        "name": "Cause I Do",
+        "url": "https://open.spotify.com/album/11Kn3hXn8f5QX4Cm8mSGhH"
+      },
+      "artists": [
+        {
+          "name": "Preston Pablo",
+          "url": "https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159694,
+      "name": "Cause I Do",
+      "url": "https://open.spotify.com/track/00iDHVhXnvigmwfNJXyHq7"
+    },
+    {
+      "album": {
         "name": "Chemical",
         "url": "https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq"
       },

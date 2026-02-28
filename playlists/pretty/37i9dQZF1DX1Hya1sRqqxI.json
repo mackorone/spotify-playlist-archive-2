@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 754817,
+  "num_followers": 755259,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
@@ -617,22 +617,6 @@
       "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Stealers Wheel",
-        "url": "https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll"
-      },
-      "artists": [
-        {
-          "name": "Stealers Wheel",
-          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
-        }
-      ],
-      "duration_ms": 208946,
-      "name": "Stuck In The Middle With You",
-      "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Elvis (Fool)",
@@ -647,6 +631,22 @@
       "duration_ms": 171533,
       "name": "Burning Love",
       "url": "https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Stealers Wheel",
+        "url": "https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll"
+      },
+      "artists": [
+        {
+          "name": "Stealers Wheel",
+          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
+        }
+      ],
+      "duration_ms": 208946,
+      "name": "Stuck In The Middle With You",
+      "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -763,22 +763,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Hot Chocolate",
-        "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
-      },
-      "artists": [
-        {
-          "name": "Hot Chocolate",
-          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
-        }
-      ],
-      "duration_ms": 244920,
-      "name": "You Sexy Thing",
-      "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
         "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 174760,
       "name": "Love Grows (Where My Rosemary Goes)",
       "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Hot Chocolate",
+        "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
+      },
+      "artists": [
+        {
+          "name": "Hot Chocolate",
+          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
+        }
+      ],
+      "duration_ms": 244920,
+      "name": "You Sexy Thing",
+      "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1321,22 +1321,6 @@
       "url": "https://open.spotify.com/track/2LScqpywMqGcnum6nNaxXX"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Billy Ocean (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6o3pySsbnUSjfJvLFSMZgz"
-      },
-      "artists": [
-        {
-          "name": "Billy Ocean",
-          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
-        }
-      ],
-      "duration_ms": 210973,
-      "name": "Red Light Spells Danger",
-      "url": "https://open.spotify.com/track/557cxXIeiwh03kI2F2jKdh"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "We Are Family (1995 Remaster)",
@@ -1351,6 +1335,22 @@
       "duration_ms": 375400,
       "name": "He's the Greatest Dancer - 1995 Remaster",
       "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Billy Ocean (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6o3pySsbnUSjfJvLFSMZgz"
+      },
+      "artists": [
+        {
+          "name": "Billy Ocean",
+          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+        }
+      ],
+      "duration_ms": 210973,
+      "name": "Red Light Spells Danger",
+      "url": "https://open.spotify.com/track/557cxXIeiwh03kI2F2jKdh"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1417,6 +1417,22 @@
       "url": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"
     },
     {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "On The Radio: Greatest Hits Volumes I & II",
+        "url": "https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "MacArthur Park - Single Version",
+      "url": "https://open.spotify.com/track/42tYHqMxXxXHAAWqLaoOfQ"
+    },
+    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Move on Up",
@@ -1431,6 +1447,22 @@
       "duration_ms": 165789,
       "name": "Move on Up - Single Edit",
       "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "The Kids & Me",
+        "url": "https://open.spotify.com/album/7LukcPnAOnV7MuJ6uIUe1s"
+      },
+      "artists": [
+        {
+          "name": "Billy Preston",
+          "url": "https://open.spotify.com/artist/0IecGJbdBeYSOVtSPRehh5"
+        }
+      ],
+      "duration_ms": 156200,
+      "name": "Nothing From Nothing",
+      "url": "https://open.spotify.com/track/72PoJMDfdaw9gGECgA9kTZ"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1451,22 +1483,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "The Kids & Me",
-        "url": "https://open.spotify.com/album/7LukcPnAOnV7MuJ6uIUe1s"
-      },
-      "artists": [
-        {
-          "name": "Billy Preston",
-          "url": "https://open.spotify.com/artist/0IecGJbdBeYSOVtSPRehh5"
-        }
-      ],
-      "duration_ms": 156200,
-      "name": "Nothing From Nothing",
-      "url": "https://open.spotify.com/track/72PoJMDfdaw9gGECgA9kTZ"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Prince",
         "url": "https://open.spotify.com/album/6k7RVZ7bSL9ryReb8RLYRI"
       },
@@ -1483,18 +1499,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "On The Radio: Greatest Hits Volumes I & II",
-        "url": "https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA"
+        "name": "Whatever You Want",
+        "url": "https://open.spotify.com/album/08GCJIrpY1IegMp73501Z2"
       },
       "artists": [
         {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
         }
       ],
-      "duration_ms": 235200,
-      "name": "MacArthur Park - Single Version",
-      "url": "https://open.spotify.com/track/42tYHqMxXxXHAAWqLaoOfQ"
+      "duration_ms": 243546,
+      "name": "Whatever You Want",
+      "url": "https://open.spotify.com/track/2kUzt5LsTUR0ggquP7O3eN"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1511,22 +1527,6 @@
       "duration_ms": 151933,
       "name": "Rockin' Robin",
       "url": "https://open.spotify.com/track/2aadUB2b4hugbdIPU8Aypk"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Whatever You Want",
-        "url": "https://open.spotify.com/album/08GCJIrpY1IegMp73501Z2"
-      },
-      "artists": [
-        {
-          "name": "Status Quo",
-          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
-        }
-      ],
-      "duration_ms": 243546,
-      "name": "Whatever You Want",
-      "url": "https://open.spotify.com/track/2kUzt5LsTUR0ggquP7O3eN"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1641,22 +1641,6 @@
       "url": "https://open.spotify.com/track/4t0Pj3iBnSCZv5pDEPNmzG"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "War And Peace",
-        "url": "https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum"
-      },
-      "artists": [
-        {
-          "name": "Edwin Starr",
-          "url": "https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u"
-        }
-      ],
-      "duration_ms": 200266,
-      "name": "War",
-      "url": "https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "I Remember Yesterday",
@@ -1671,6 +1655,22 @@
       "duration_ms": 355173,
       "name": "I Feel Love",
       "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "War And Peace",
+        "url": "https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum"
+      },
+      "artists": [
+        {
+          "name": "Edwin Starr",
+          "url": "https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u"
+        }
+      ],
+      "duration_ms": 200266,
+      "name": "War",
+      "url": "https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1753,6 +1753,22 @@
       "url": "https://open.spotify.com/track/5F40csF5DtKOGfEg8vuz1d"
     },
     {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "On The Radio: Greatest Hits Volumes I & II",
+        "url": "https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 296506,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/5fKTkCOpnyJko7jZqpbJnX"
+    },
+    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
@@ -1787,22 +1803,6 @@
       "duration_ms": 179573,
       "name": "We Go Together - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/5CyZPkmTBmq61SunRDysna"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "On The Radio: Greatest Hits Volumes I & II",
-        "url": "https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 296506,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/5fKTkCOpnyJko7jZqpbJnX"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1903,18 +1903,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Go West In the Navy",
-        "url": "https://open.spotify.com/album/3iF4amlNW1yd9DoZ9WOD1i"
+        "name": "McFadden & Whitehead",
+        "url": "https://open.spotify.com/album/49y7YFLvKz54gVZZzHbAzs"
       },
       "artists": [
         {
-          "name": "Village People",
-          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
+          "name": "McFadden & Whitehead",
+          "url": "https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY"
         }
       ],
-      "duration_ms": 339946,
-      "name": "In the Navy - Original Version 1979",
-      "url": "https://open.spotify.com/track/4mjFMScEvHeM72791mXRCW"
+      "duration_ms": 420986,
+      "name": "Ain't No Stoppin' Us Now",
+      "url": "https://open.spotify.com/track/4Ymk3pqpkGx19gyxxUj5LK"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1935,18 +1935,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "McFadden & Whitehead",
-        "url": "https://open.spotify.com/album/49y7YFLvKz54gVZZzHbAzs"
+        "name": "Go West In the Navy",
+        "url": "https://open.spotify.com/album/3iF4amlNW1yd9DoZ9WOD1i"
       },
       "artists": [
         {
-          "name": "McFadden & Whitehead",
-          "url": "https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY"
+          "name": "Village People",
+          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
         }
       ],
-      "duration_ms": 420986,
-      "name": "Ain't No Stoppin' Us Now",
-      "url": "https://open.spotify.com/track/4Ymk3pqpkGx19gyxxUj5LK"
+      "duration_ms": 339946,
+      "name": "In the Navy - Original Version 1979",
+      "url": "https://open.spotify.com/track/4mjFMScEvHeM72791mXRCW"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1965,22 +1965,6 @@
       "url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Once Upon A Star",
-        "url": "https://open.spotify.com/album/2nZfNhrDCbTNnZEc4iuCcl"
-      },
-      "artists": [
-        {
-          "name": "Bay City Rollers",
-          "url": "https://open.spotify.com/artist/3r9TXuXfOUxXjgYgAR0fP8"
-        }
-      ],
-      "duration_ms": 170360,
-      "name": "Bye Bye Baby",
-      "url": "https://open.spotify.com/track/7wC5vOh3fQibFYWjCIotKw"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Vehicle",
@@ -1995,6 +1979,22 @@
       "duration_ms": 178066,
       "name": "Vehicle",
       "url": "https://open.spotify.com/track/6hnyQ0YpiO35rutiLLHLmr"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Once Upon A Star",
+        "url": "https://open.spotify.com/album/2nZfNhrDCbTNnZEc4iuCcl"
+      },
+      "artists": [
+        {
+          "name": "Bay City Rollers",
+          "url": "https://open.spotify.com/artist/3r9TXuXfOUxXjgYgAR0fP8"
+        }
+      ],
+      "duration_ms": 170360,
+      "name": "Bye Bye Baby",
+      "url": "https://open.spotify.com/track/7wC5vOh3fQibFYWjCIotKw"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Dancing In The Moonlight",
-        "url": "https://open.spotify.com/album/2gvwC6eFsQH5rlvrZyhs3s"
-      },
-      "artists": [
-        {
-          "name": "King Harvest",
-          "url": "https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y"
-        }
-      ],
-      "duration_ms": 178045,
-      "name": "Dancing In The Moonlight",
-      "url": "https://open.spotify.com/track/55GxhCTq6SY3tFTVh7z1nR"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/6lap95wPl0DwJva1FLGIfx"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 217733,
       "name": "Don't Leave Me This Way",
       "url": "https://open.spotify.com/track/4Af8yzidDPc520TFd4TmkE"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Dancing In The Moonlight",
+        "url": "https://open.spotify.com/album/2gvwC6eFsQH5rlvrZyhs3s"
+      },
+      "artists": [
+        {
+          "name": "King Harvest",
+          "url": "https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y"
+        }
+      ],
+      "duration_ms": 178045,
+      "name": "Dancing In The Moonlight",
+      "url": "https://open.spotify.com/track/55GxhCTq6SY3tFTVh7z1nR"
     },
     {
       "added_at": "2021-09-08 13:31:49",

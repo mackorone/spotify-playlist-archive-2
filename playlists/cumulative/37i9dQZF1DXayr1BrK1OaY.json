@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "All Gone",
+        "url": "https://open.spotify.com/album/08pqePg91NNMDhAYSbL9Qu"
+      },
+      "artists": [
+        {
+          "name": "Lyrah",
+          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187384,
+      "name": "All Gone",
+      "url": "https://open.spotify.com/track/6vfsaPG6EAsqOQj3RH4DEs"
+    },
+    {
+      "album": {
         "name": "all i ever wanted",
         "url": "https://open.spotify.com/album/1iX4zn7M6Qb7jxTCXwDnz7"
       },
@@ -5252,7 +5270,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 209839,
       "name": "i don't know what to say",
       "url": "https://open.spotify.com/track/71XhzO3pCZ96N1VgZeG1IX"
@@ -9523,6 +9541,24 @@
     },
     {
       "album": {
+        "name": "reserved...",
+        "url": "https://open.spotify.com/album/5YhLiGMPFYbg4tdTnUrsuU"
+      },
+      "artists": [
+        {
+          "name": "Berjan",
+          "url": "https://open.spotify.com/artist/1cMuUKj94WCynh9u5uES9c"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "reserved...",
+      "url": "https://open.spotify.com/track/6p9Sy9SswMeeXMFovq0fgB"
+    },
+    {
+      "album": {
         "name": "Rhythm (Of The Night)",
         "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
       },
@@ -9878,6 +9914,28 @@
       "duration_ms": 240122,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/6tws5zv83S3oBIX1k8xR4x"
+    },
+    {
+      "album": {
+        "name": "Say No Prayer",
+        "url": "https://open.spotify.com/album/6GyxOBOOGtlJMZzbyJ6vEc"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149428,
+      "name": "Say No Prayer",
+      "url": "https://open.spotify.com/track/3k9EAHWqEmKgPqsHUKNKOV"
     },
     {
       "album": {
@@ -11432,7 +11490,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 198695,
       "name": "That Boy's Not Nice",
       "url": "https://open.spotify.com/track/6wshH1jwUSaFQQWtaTDPkd"
@@ -13234,7 +13292,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 211428,
       "name": "You And I",
       "url": "https://open.spotify.com/track/56Q8dn5LGmBRdmXSpi7vX8"

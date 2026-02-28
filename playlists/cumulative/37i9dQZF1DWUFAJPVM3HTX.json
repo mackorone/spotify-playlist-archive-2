@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW?si=w-fNzqCCSpWSvolvGB5PXQ\">rjtheweirdo</a>. Updates every Wednesday.",
+  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4?si=DUpMNfnXRwWTcuNgcfHlKg\">nomi.</a>. Updates every Wednesday.",
   "name": "Fresh Finds R&B",
   "tracks": [
     {
@@ -5990,6 +5990,24 @@
       "duration_ms": 187792,
       "name": "BADGIRLERA",
       "url": "https://open.spotify.com/track/4bYwGILBZP6nR53AeZoQuM"
+    },
+    {
+      "album": {
+        "name": "badman",
+        "url": "https://open.spotify.com/album/7HryhBfvpRhVRzcWF2SH8W"
+      },
+      "artists": [
+        {
+          "name": "nomi.",
+          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174612,
+      "name": "badman",
+      "url": "https://open.spotify.com/track/4406h74Yzu8yH3TfsKJ41L"
     },
     {
       "album": {
@@ -12935,7 +12953,7 @@
       "artists": [
         {
           "name": "Ezra",
-          "url": "https://open.spotify.com/artist/0IpxUOafBaV2PPkm3b4E60"
+          "url": "https://open.spotify.com/artist/3JV7Jk651HCj2ohc0s0pKN"
         },
         {
           "name": "ZaeFyeHunnit",

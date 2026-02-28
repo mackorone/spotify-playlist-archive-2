@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > todos pro alto, cada um com o seu\. Foto: Yuri Redicopa
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,719 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,728 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 36 | [A VIDA É ASSIM](https://open.spotify.com/track/5PVfTlAsz7eaIKEz1OcWS0) | [Agostinhx](https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL), [SOMOS](https://open.spotify.com/artist/4RirWYVQPhtDNNwW5hmhuP), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Bia Soull](https://open.spotify.com/artist/0VYAyZttWMdlpWDl07itbd), [DJ RD DA DZ7](https://open.spotify.com/artist/0LwSj7oJtIyooMGm0PlCbj), [GEXIS](https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU) | [PRÓLOGO DE AGOSTO](https://open.spotify.com/album/1BKEwv3QWxYWUUeIV1tXLp) | 2:16 |
 | 37 | [Sem Pressão](https://open.spotify.com/track/3kljvt39F20M9GWxS32jSy) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [ALAKASAM](https://open.spotify.com/album/6OvCm5b3mYCKuNEzFB63A6) | 3:32 |
 | 38 | [Yeyeye](https://open.spotify.com/track/4ES5UTfWHbd2fgXFdrNdTR) | [A FÓRMULA](https://open.spotify.com/artist/2JjWIXlfhneMS1fsx4KW3W), [Tevito](https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC) | [YeYeYe / Não Solta Minha Mão](https://open.spotify.com/album/69jfklmT8EO7ECOy5HkX7R) | 3:10 |
-| 39 | [Grana Ameniza](https://open.spotify.com/track/0Z4cCOQdn9RI49pZkLE5ip) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Coelho](https://open.spotify.com/artist/5IQ5ayF3TFHtgMqENq0xPa) | [Grana Ameniza](https://open.spotify.com/album/7i9dW0TcvabZrvHclUqg1U) | 1:36 |
-| 40 | [Hiphop X Funk](https://open.spotify.com/track/1OnGlV8JcdoEsCevpAAz84) | [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [DJ Yas](https://open.spotify.com/artist/7BSj39Ch2fiZWCGJqak1WS) | [Hiphop X Funk](https://open.spotify.com/album/6gMKkI5T5xBMg54RZvOsJ8) | 2:29 |
+| 39 | [Hiphop X Funk](https://open.spotify.com/track/1OnGlV8JcdoEsCevpAAz84) | [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [DJ Yas](https://open.spotify.com/artist/7BSj39Ch2fiZWCGJqak1WS) | [Hiphop X Funk](https://open.spotify.com/album/6gMKkI5T5xBMg54RZvOsJ8) | 2:29 |
+| 40 | [Grana Ameniza](https://open.spotify.com/track/0Z4cCOQdn9RI49pZkLE5ip) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Coelho](https://open.spotify.com/artist/5IQ5ayF3TFHtgMqENq0xPa) | [Grana Ameniza](https://open.spotify.com/album/7i9dW0TcvabZrvHclUqg1U) | 1:36 |
 | 41 | [Rebola Na Vara](https://open.spotify.com/track/1FU24ZYS74ElrWpoJq01kJ) | [DJ Shua](https://open.spotify.com/artist/5KxqaJcX319zOOEj8E7ZUC), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Conexão do Funk](https://open.spotify.com/artist/4gsXN66pofmZfqIMrOEFX3) | [Rebola Na Vara](https://open.spotify.com/album/6YDmmUKfUc341SLnyQjy7g) | 2:29 |
 | 42 | [Vou Nessa](https://open.spotify.com/track/3tXT3n0NHFJo0MswFlzJAl) | [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv) | [Vou Nessa](https://open.spotify.com/album/4huR5dw6AO0rq92G6xMdcq) | 3:46 |
 | 43 | [CHAPA QUENTE](https://open.spotify.com/track/7q04im6F1NSXFcUlecUMFP) | [ABRONCA](https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd) | [CHAPA QUENTE](https://open.spotify.com/album/0xVrqL7jieiZKlLATiEobk) | 2:08 |

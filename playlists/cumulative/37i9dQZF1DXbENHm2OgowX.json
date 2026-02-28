@@ -106,7 +106,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 322475,
       "name": "A Quick One Before the Eternal Worm Devours Appalachia",
       "url": "https://open.spotify.com/track/5UJD2UkKSsRYeyii3MdRhp"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-03",
+      "date_removed": null,
       "duration_ms": 363284,
       "name": "All That's Left Behind",
       "url": "https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 241333,
       "name": "And They Will Fall",
       "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
@@ -362,7 +362,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 203424,
       "name": "Bardo Landscape",
       "url": "https://open.spotify.com/track/45QrxIJ95T9J4qrdP8DU4e"
@@ -406,7 +406,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-22",
+      "date_removed": null,
       "duration_ms": 221213,
       "name": "Below the House",
       "url": "https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd"
@@ -525,6 +525,28 @@
     },
     {
       "album": {
+        "name": "Calm Current",
+        "url": "https://open.spotify.com/album/3E2EJAj5HQGlk1CebBOyFR"
+      },
+      "artists": [
+        {
+          "name": "Watasino",
+          "url": "https://open.spotify.com/artist/4gblEuW5hn0GK6ZkrcquRw"
+        },
+        {
+          "name": "Lonely Girl",
+          "url": "https://open.spotify.com/artist/0oNkYl0JGIr9hFJHQlakdw"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Calm Current",
+      "url": "https://open.spotify.com/track/6TndWcfnrvsSoBHKLrDxFE"
+    },
+    {
+      "album": {
         "name": "Canneto",
         "url": "https://open.spotify.com/album/5yPvFSDxdzszBMr3lF3t5N"
       },
@@ -540,7 +562,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-14",
+      "date_removed": null,
       "duration_ms": 114500,
       "name": "Canneto",
       "url": "https://open.spotify.com/track/6hx5tz1VTta0cnTLcvCSaI"
@@ -558,7 +580,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-06",
+      "date_removed": null,
       "duration_ms": 191000,
       "name": "Cenizas",
       "url": "https://open.spotify.com/track/2pEcP8gvx0G1aA3NmNbwlJ"
@@ -594,7 +616,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 170878,
       "name": "Close",
       "url": "https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4"
@@ -648,7 +670,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-28",
+      "date_removed": null,
       "duration_ms": 155186,
       "name": "Common",
       "url": "https://open.spotify.com/track/37cddsvKZTPyYipLpzjpDx"
@@ -728,7 +750,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 422853,
       "name": "Dance of Seasons",
       "url": "https://open.spotify.com/track/7Ikb6ccHVKwhmafzmpQFSN"
@@ -847,6 +869,28 @@
     },
     {
       "album": {
+        "name": "Displacement (KMRU rework)",
+        "url": "https://open.spotify.com/album/3k0N6eVV7JYpyxEd7cHdu7"
+      },
+      "artists": [
+        {
+          "name": "Rafael Anton Irisarri",
+          "url": "https://open.spotify.com/artist/6AdRO941ZEDh4GHcCUdEs4"
+        },
+        {
+          "name": "KMRU",
+          "url": "https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Displacement - KMRU rework",
+      "url": "https://open.spotify.com/track/2wUujeRMhcXXettDljS5Hl"
+    },
+    {
+      "album": {
         "name": "PHANTOM BRICKWORKS (LP II)",
         "url": "https://open.spotify.com/album/1GJ2vLnz8Tz8bdyjORnUCt"
       },
@@ -894,7 +938,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 645000,
       "name": "Dry Retch - 2021 Remaster",
       "url": "https://open.spotify.com/track/6unZyubxwrlThrvlfMw1Ot"
@@ -1018,7 +1062,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-08",
+      "date_removed": null,
       "duration_ms": 261849,
       "name": "Even The Horizon Knows Its Bounds VIII",
       "url": "https://open.spotify.com/track/36UNARIup8YwWvqua2DG9T"
@@ -1270,7 +1314,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 201423,
       "name": "Fur and Exhaust",
       "url": "https://open.spotify.com/track/6CjJAzQfMQnMsG36HDkxtS"
@@ -1546,7 +1590,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 149333,
       "name": "hexa",
       "url": "https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP"
@@ -1633,6 +1677,24 @@
     },
     {
       "album": {
+        "name": "iel te guide (lumineuse arp v)",
+        "url": "https://open.spotify.com/album/3iGWgsVsg598vpnPMGOGst"
+      },
+      "artists": [
+        {
+          "name": "Passa Tempo",
+          "url": "https://open.spotify.com/artist/6Qpnrt9GMCBN54ec9eTsAu"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "iel te guide (lumineuse arp v)",
+      "url": "https://open.spotify.com/track/2Qn4xuj7oMw2DwWQGUdjsT"
+    },
+    {
+      "album": {
         "name": "...Is Doomed",
         "url": "https://open.spotify.com/album/0ZqUMApKpofig9rLkK1fJP"
       },
@@ -1662,7 +1724,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-30",
+      "date_removed": null,
       "duration_ms": 168480,
       "name": "Inertia",
       "url": "https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23"
@@ -1814,7 +1876,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-06",
+      "date_removed": null,
       "duration_ms": 156500,
       "name": "Line Gone Cold - Deconstructed",
       "url": "https://open.spotify.com/track/02hS8hWSlOdP8FvC2VK063"
@@ -1862,7 +1924,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 301863,
       "name": "Lonesome Sound",
       "url": "https://open.spotify.com/track/0W3XARJKAvikHEiOSgHl0z"
@@ -2078,7 +2140,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-04",
+      "date_removed": null,
       "duration_ms": 91000,
       "name": "Night Sculpture - Deconstructed",
       "url": "https://open.spotify.com/track/4vLMviupOxDFAj7XjvMIKA"
@@ -2100,6 +2162,24 @@
       "duration_ms": 486277,
       "name": "No One Is Ever Going to Want Me",
       "url": "https://open.spotify.com/track/4McullpiOd45TwEHlOISgs"
+    },
+    {
+      "album": {
+        "name": "no service",
+        "url": "https://open.spotify.com/album/17wnWBr68OQoLFULf9uVXD"
+      },
+      "artists": [
+        {
+          "name": "Marcelo De Carvalho",
+          "url": "https://open.spotify.com/artist/4SoA6yxZqGoIm96Zjynd1o"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170181,
+      "name": "no service",
+      "url": "https://open.spotify.com/track/2JfoV8oR2kQH5Zy2YWzIZx"
     },
     {
       "album": {
@@ -2284,7 +2364,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 200059,
       "name": "Perpetual Care",
       "url": "https://open.spotify.com/track/00obKbt8QTLsUoSNGvVd2e"
@@ -2338,7 +2418,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-31",
+      "date_removed": null,
       "duration_ms": 417142,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
@@ -2414,7 +2494,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 337405,
       "name": "Red Sex",
       "url": "https://open.spotify.com/track/2KBOfdbo1WlLsPI87RrqPH"
@@ -2468,7 +2548,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-07",
+      "date_removed": null,
       "duration_ms": 70306,
       "name": "Safn",
       "url": "https://open.spotify.com/track/2MHKYLzZDWpj2jZDIPVWor"
@@ -2695,6 +2775,24 @@
     },
     {
       "album": {
+        "name": "silent",
+        "url": "https://open.spotify.com/album/4rxSQvhSIfwTGUeqfafBrn"
+      },
+      "artists": [
+        {
+          "name": "Bhxa",
+          "url": "https://open.spotify.com/artist/0FayAsrcVWzpOFe9FCn4t4"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145454,
+      "name": "silent",
+      "url": "https://open.spotify.com/track/2TXXJo8xBzq3eszQkA391r"
+    },
+    {
+      "album": {
         "name": "Six Forty Seven",
         "url": "https://open.spotify.com/album/0FawTVuFbmS9KLWA8TAtau"
       },
@@ -2728,7 +2826,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 129998,
       "name": "skies",
       "url": "https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI"
@@ -2804,7 +2902,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 260482,
       "name": "Snowa",
       "url": "https://open.spotify.com/track/3yTaZznpoFekQlAdED2Yn2"
@@ -3078,7 +3176,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 178858,
       "name": "Stray",
       "url": "https://open.spotify.com/track/2qJ1lpSOeAsbHr5WP86KtF"
@@ -3100,7 +3198,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 199933,
       "name": "Symmetry",
       "url": "https://open.spotify.com/track/04xvAfowaRbutabkOUzILY"
@@ -3136,7 +3234,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 159972,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
@@ -3172,7 +3270,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 364293,
       "name": "The Eternal - 2007 Remaster",
       "url": "https://open.spotify.com/track/7rLB8H9GIzlxgXxXVqQltR"
@@ -3323,6 +3421,42 @@
     },
     {
       "album": {
+        "name": "thoughts inside my head",
+        "url": "https://open.spotify.com/album/47GjjzzGUecs6GjtbwieRA"
+      },
+      "artists": [
+        {
+          "name": "I'm flying",
+          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134314,
+      "name": "thoughts inside my head",
+      "url": "https://open.spotify.com/track/164X9gk1G6s6G6NWVYQ5XY"
+    },
+    {
+      "album": {
+        "name": "Too Much Love",
+        "url": "https://open.spotify.com/album/2UGOkuaFlOoIeGxLEN298U"
+      },
+      "artists": [
+        {
+          "name": "Romance",
+          "url": "https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133591,
+      "name": "Too Much Love",
+      "url": "https://open.spotify.com/track/27bJg4uzTXoqMS1Udjacni"
+    },
+    {
+      "album": {
         "name": "Arborescence",
         "url": "https://open.spotify.com/album/118CEJliIg47Jcr70y7Kww"
       },
@@ -3424,7 +3558,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 122000,
       "name": "Waiting for Your Train",
       "url": "https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R"
@@ -3514,7 +3648,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-17",
+      "date_removed": null,
       "duration_ms": 127384,
       "name": "where is life?",
       "url": "https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg"

@@ -4,7 +4,7 @@
 
 > 블랙핑크가 직접 국립중앙박물관의 유물들을 설명해주는 스포티파이 공식 도슨트 플레이리스트입니다\. \(This is a Spotify official docent playlist, featuring the members of BLACKPINK as they personally guide you through the artifacts of the National Museum of Korea.\)
 
-12 songs - 12 min 24 sec
+17 songs - 27 min 16 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,5 +20,10 @@
 | [\[ROSÉ\_ENG\] 금동관음보살좌상 \(Gilt\-bronze Seated Avalokitesvara Bodhisattva\)](https://open.spotify.com/track/15Jz6VRtAwvBZ91wm5LiS4) | [BLACKPINK X National Museum of Korea](https://open.spotify.com/artist/6bHtAZbc9VDyls6YkF6jIj) | [BLACKPINK X National Museum of Korea](https://open.spotify.com/album/47CEsMMS73Ocbjroltq7es) | 1:06 | 2026-02-26 |  |
 | [\[ROSÉ\_ENG\] 백자 달항아리 \(White Porcelain Moon Jar\)](https://open.spotify.com/track/5fkudJSJpKukRoewSpZLMX) | [BLACKPINK X National Museum of Korea](https://open.spotify.com/artist/6bHtAZbc9VDyls6YkF6jIj) | [BLACKPINK X National Museum of Korea](https://open.spotify.com/album/47CEsMMS73Ocbjroltq7es) | 0:55 | 2026-02-26 |  |
 | [\[ROSÉ\_ENG\] 청동 은입사 물가풍경 무늬 정병 \(Bronze Kundika with Silver Inlaid Landscape Design\)](https://open.spotify.com/track/3yVNhpAoXsRQNjbIyS8TA1) | [BLACKPINK X National Museum of Korea](https://open.spotify.com/artist/6bHtAZbc9VDyls6YkF6jIj) | [BLACKPINK X National Museum of Korea](https://open.spotify.com/album/47CEsMMS73Ocbjroltq7es) | 0:59 | 2026-02-26 |  |
+| [Champion](https://open.spotify.com/track/2EgXIuwhwdnwc9Vj2P6ngA) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/5EDiZm2nDfN10Uyr5XvQu8) | 2:52 | 2026-02-27 |  |
+| [Fxxxboy](https://open.spotify.com/track/3Q1bsNCfjp4cdzHvkO1B3d) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/2c5fBSnpzXFgwQahbeDdhl) | 3:07 | 2026-02-27 |  |
+| [GO](https://open.spotify.com/track/0XanaXeMJJ4VdjWzwok7ZI) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/5EDiZm2nDfN10Uyr5XvQu8) | 3:15 | 2026-02-27 |  |
+| [JUMP](https://open.spotify.com/track/7f4Aj1thFgXuXyqwsTdzMR) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/5EDiZm2nDfN10Uyr5XvQu8) | 2:44 | 2026-02-27 |  |
+| [Me and my](https://open.spotify.com/track/6aqGbhhTTnKuAYuIOSj8Pe) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/2c5fBSnpzXFgwQahbeDdhl) | 2:52 | 2026-02-27 |  |
 
 \*This playlist was first scraped on 2026-02-27. Prior content cannot be recovered.

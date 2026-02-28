@@ -1,12 +1,12 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 116994,
+  "num_followers": 117000,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACzhKJD+MdKB8a+KUzIKEDJjqdio",
+  "snapshot_id": "AAAAADeJvL9F1Kf9/Eez2Vzyg+G19eKo",
   "tracks": [
     {
       "added_at": "2026-02-19 23:00:46",
@@ -611,8 +611,8 @@
     {
       "added_at": "2026-02-19 23:00:46",
       "album": {
-        "name": "Singel til jeg d\u00f8r",
-        "url": "https://open.spotify.com/album/57hUp9ecLiQODZpexmgd6f"
+        "name": "Gikk en tur p\u00e5 stien",
+        "url": "https://open.spotify.com/album/1xx33P54osSgrtU0yMcpdS"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
         }
       ],
-      "duration_ms": 142620,
-      "name": "Singel til jeg d\u00f8r",
-      "url": "https://open.spotify.com/track/3OSzx7DOBwR10pCsbMOUwF"
+      "duration_ms": 143085,
+      "name": "Gikk en tur p\u00e5 stien",
+      "url": "https://open.spotify.com/track/0t8E42WWXZQ9Jd8XibIiZz"
     },
     {
       "added_at": "2026-02-19 23:00:46",
@@ -703,8 +703,8 @@
     {
       "added_at": "2026-02-19 23:00:46",
       "album": {
-        "name": "Gikk en tur p\u00e5 stien",
-        "url": "https://open.spotify.com/album/1xx33P54osSgrtU0yMcpdS"
+        "name": "Singel til jeg d\u00f8r",
+        "url": "https://open.spotify.com/album/57hUp9ecLiQODZpexmgd6f"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
         }
       ],
-      "duration_ms": 143085,
-      "name": "Gikk en tur p\u00e5 stien",
-      "url": "https://open.spotify.com/track/0t8E42WWXZQ9Jd8XibIiZz"
+      "duration_ms": 142620,
+      "name": "Singel til jeg d\u00f8r",
+      "url": "https://open.spotify.com/track/3OSzx7DOBwR10pCsbMOUwF"
     },
     {
       "added_at": "2026-02-19 23:00:46",
@@ -907,18 +907,18 @@
     {
       "added_at": "2026-02-19 23:00:46",
       "album": {
-        "name": "Polisen",
-        "url": "https://open.spotify.com/album/79Psas2Jq5BRug1JdJjXBj"
+        "name": "Tr\u00f8bbel",
+        "url": "https://open.spotify.com/album/5whjLWaR2WqXmBjuNSp9bw"
       },
       "artists": [
         {
-          "name": "Silje Bakke",
-          "url": "https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c"
+          "name": "Spelloppmaker",
+          "url": "https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi"
         }
       ],
-      "duration_ms": 145645,
-      "name": "Polisen",
-      "url": "https://open.spotify.com/track/1df1uSXhMSzNE29Ung8GEn"
+      "duration_ms": 193374,
+      "name": "Tr\u00f8bbel",
+      "url": "https://open.spotify.com/track/3xUzAD6beIGFICeRmMrjat"
     },
     {
       "added_at": "2026-02-19 23:00:46",
@@ -939,18 +939,18 @@
     {
       "added_at": "2026-02-19 23:00:46",
       "album": {
-        "name": "Tr\u00f8bbel",
-        "url": "https://open.spotify.com/album/5whjLWaR2WqXmBjuNSp9bw"
+        "name": "Polisen",
+        "url": "https://open.spotify.com/album/79Psas2Jq5BRug1JdJjXBj"
       },
       "artists": [
         {
-          "name": "Spelloppmaker",
-          "url": "https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi"
+          "name": "Silje Bakke",
+          "url": "https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c"
         }
       ],
-      "duration_ms": 193374,
-      "name": "Tr\u00f8bbel",
-      "url": "https://open.spotify.com/track/3xUzAD6beIGFICeRmMrjat"
+      "duration_ms": 145645,
+      "name": "Polisen",
+      "url": "https://open.spotify.com/track/1df1uSXhMSzNE29Ung8GEn"
     },
     {
       "added_at": "2026-02-19 23:00:46",
@@ -975,26 +975,6 @@
     {
       "added_at": "2026-02-19 23:00:46",
       "album": {
-        "name": "GUTTA (feat. Plumbo)",
-        "url": "https://open.spotify.com/album/1yypZTOVKtFi9Lnkb08H9x"
-      },
-      "artists": [
-        {
-          "name": "Ole Hartz",
-          "url": "https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI"
-        },
-        {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        }
-      ],
-      "duration_ms": 158866,
-      "name": "GUTTA (feat. Plumbo)",
-      "url": "https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE"
-    },
-    {
-      "added_at": "2026-02-19 23:00:46",
-      "album": {
         "name": "Svensk i kv\u00e4ll",
         "url": "https://open.spotify.com/album/4XdVxdRjQoooI2KSapG1YX"
       },
@@ -1015,6 +995,26 @@
     {
       "added_at": "2026-02-19 23:00:46",
       "album": {
+        "name": "GUTTA (feat. Plumbo)",
+        "url": "https://open.spotify.com/album/1yypZTOVKtFi9Lnkb08H9x"
+      },
+      "artists": [
+        {
+          "name": "Ole Hartz",
+          "url": "https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI"
+        },
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 158866,
+      "name": "GUTTA (feat. Plumbo)",
+      "url": "https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE"
+    },
+    {
+      "added_at": "2026-02-19 23:00:46",
+      "album": {
         "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
         "url": "https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo"
       },
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-02-19 23:00:46",
       "album": {
-        "name": "Dama Di",
-        "url": "https://open.spotify.com/album/4HvHh0nUSfRVqY3TPj6xKS"
-      },
-      "artists": [
-        {
-          "name": "JONE",
-          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
-        }
-      ],
-      "duration_ms": 171627,
-      "name": "Dama Di",
-      "url": "https://open.spotify.com/track/2LiM9cz809PkmUp5j97Vfa"
-    },
-    {
-      "added_at": "2026-02-19 23:00:46",
-      "album": {
         "name": "N\u00e5 er det helg",
         "url": "https://open.spotify.com/album/0YPZCUXaKBeoC2Y5AV7ius"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 183958,
       "name": "N\u00e5 er det helg",
       "url": "https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp"
+    },
+    {
+      "added_at": "2026-02-19 23:00:46",
+      "album": {
+        "name": "Dama Di",
+        "url": "https://open.spotify.com/album/4HvHh0nUSfRVqY3TPj6xKS"
+      },
+      "artists": [
+        {
+          "name": "JONE",
+          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
+        }
+      ],
+      "duration_ms": 171627,
+      "name": "Dama Di",
+      "url": "https://open.spotify.com/track/2LiM9cz809PkmUp5j97Vfa"
     },
     {
       "added_at": "2026-02-19 23:00:46",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-02-19 23:00:46",
       "album": {
-        "name": "HJEM",
-        "url": "https://open.spotify.com/album/3GWLj6KdiZx1qDb1d2fqBM"
-      },
-      "artists": [
-        {
-          "name": "ZadeKing",
-          "url": "https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw"
-        }
-      ],
-      "duration_ms": 151332,
-      "name": "HJEM",
-      "url": "https://open.spotify.com/track/04iXrACbPfc111pClbzXRk"
-    },
-    {
-      "added_at": "2026-02-19 23:00:46",
-      "album": {
         "name": "Stj\u00e6lt fr\u00e5 ei countryl\u00e5t",
         "url": "https://open.spotify.com/album/0ZvZl05t7ErPHF3uifasCG"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 188788,
       "name": "Stj\u00e6lt fr\u00e5 ei countryl\u00e5t",
       "url": "https://open.spotify.com/track/0gpnzHtnXiZWQemi2XvUZq"
+    },
+    {
+      "added_at": "2026-02-19 23:00:46",
+      "album": {
+        "name": "HJEM",
+        "url": "https://open.spotify.com/album/3GWLj6KdiZx1qDb1d2fqBM"
+      },
+      "artists": [
+        {
+          "name": "ZadeKing",
+          "url": "https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw"
+        }
+      ],
+      "duration_ms": 151332,
+      "name": "HJEM",
+      "url": "https://open.spotify.com/track/04iXrACbPfc111pClbzXRk"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

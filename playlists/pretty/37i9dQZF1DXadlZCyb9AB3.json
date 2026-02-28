@@ -1,6 +1,6 @@
 {
   "description": "Defining songs of the riot grrrl era and the artists keeping its spirit alive\n",
-  "num_followers": 208320,
+  "num_followers": 208368,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "xxx",
-        "url": "https://open.spotify.com/album/7oFHZxaSE9WzWCi592zMhC"
-      },
-      "artists": [
-        {
-          "name": "Pussy Riot",
-          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
-        }
-      ],
-      "duration_ms": 195155,
-      "name": "Make America Great Again",
-      "url": "https://open.spotify.com/track/0d858Q4cbhALzhzvljHC8k"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Rid Of Me",
         "url": "https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 143666,
       "name": "50ft Queenie",
       "url": "https://open.spotify.com/track/3fJprjhRxTVtOp18EHdNfu"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "xxx",
+        "url": "https://open.spotify.com/album/7oFHZxaSE9WzWCi592zMhC"
+      },
+      "artists": [
+        {
+          "name": "Pussy Riot",
+          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
+        }
+      ],
+      "duration_ms": 195155,
+      "name": "Make America Great Again",
+      "url": "https://open.spotify.com/track/0d858Q4cbhALzhzvljHC8k"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Willow",
-        "url": "https://open.spotify.com/album/27b5zGoTeu3YQO04wGTQg0"
-      },
-      "artists": [
-        {
-          "name": "Sloppy Jane",
-          "url": "https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv"
-        }
-      ],
-      "duration_ms": 228191,
-      "name": "Where's My Wife",
-      "url": "https://open.spotify.com/track/7MY32OSePqeLg5YPAqEkEc"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "THICK",
         "url": "https://open.spotify.com/album/3gfufUzwziwEigzdC507KP"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 84133,
       "name": "Your Mom",
       "url": "https://open.spotify.com/track/1RYYWpZAFqkRKAjyp8EKzW"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Willow",
+        "url": "https://open.spotify.com/album/27b5zGoTeu3YQO04wGTQg0"
+      },
+      "artists": [
+        {
+          "name": "Sloppy Jane",
+          "url": "https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv"
+        }
+      ],
+      "duration_ms": 228191,
+      "name": "Where's My Wife",
+      "url": "https://open.spotify.com/track/7MY32OSePqeLg5YPAqEkEc"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Celebrity Skin",
-        "url": "https://open.spotify.com/album/0ZIlM7A6pZyNhfohaWjauj"
+        "name": "Last Splash",
+        "url": "https://open.spotify.com/album/4lxW0axOKlImAQ0akMRz61"
       },
       "artists": [
         {
-          "name": "Hole",
-          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+          "name": "The Breeders",
+          "url": "https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp"
         }
       ],
-      "duration_ms": 162493,
-      "name": "Celebrity Skin",
-      "url": "https://open.spotify.com/track/2VTQAjZr7FPoEJD2sNoH3o"
+      "duration_ms": 213693,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/11nv53N7ZnNTCgyl8yxvYd"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1459,18 +1459,34 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Last Splash",
-        "url": "https://open.spotify.com/album/4lxW0axOKlImAQ0akMRz61"
+        "name": "Celebrity Skin",
+        "url": "https://open.spotify.com/album/0ZIlM7A6pZyNhfohaWjauj"
       },
       "artists": [
         {
-          "name": "The Breeders",
-          "url": "https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp"
+          "name": "Hole",
+          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
         }
       ],
-      "duration_ms": 213693,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/11nv53N7ZnNTCgyl8yxvYd"
+      "duration_ms": 162493,
+      "name": "Celebrity Skin",
+      "url": "https://open.spotify.com/track/2VTQAjZr7FPoEJD2sNoH3o"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Frenching the Bully",
+        "url": "https://open.spotify.com/album/0x27NVxUSjXYF4oHDDlboO"
+      },
+      "artists": [
+        {
+          "name": "The Gits",
+          "url": "https://open.spotify.com/artist/4uHoGHfHZep6Z8YUn8ji5m"
+        }
+      ],
+      "duration_ms": 177960,
+      "name": "Second Skin",
+      "url": "https://open.spotify.com/track/6pfQbtWvs7PtSBDGxLEyGB"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1523,22 +1539,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Frenching the Bully",
-        "url": "https://open.spotify.com/album/0x27NVxUSjXYF4oHDDlboO"
-      },
-      "artists": [
-        {
-          "name": "The Gits",
-          "url": "https://open.spotify.com/artist/4uHoGHfHZep6Z8YUn8ji5m"
-        }
-      ],
-      "duration_ms": 177960,
-      "name": "Second Skin",
-      "url": "https://open.spotify.com/track/6pfQbtWvs7PtSBDGxLEyGB"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/3IoTZRPtHvNs4UmDUli8Dy"
       },
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Pottymouth",
-        "url": "https://open.spotify.com/album/0er043d9DCecxrz0XVsPos"
-      },
-      "artists": [
-        {
-          "name": "Bratmobile",
-          "url": "https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L"
-        }
-      ],
-      "duration_ms": 91600,
-      "name": "Bitch Theme",
-      "url": "https://open.spotify.com/track/3wu6pRZrOAAet8YxeZ49nv"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Dig Me Out (Remastered)",
         "url": "https://open.spotify.com/album/5WwTUr1kf45gsJ1ZUGGwuL"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 160920,
       "name": "Dig Me Out",
       "url": "https://open.spotify.com/track/7zu3y0YRx0s5H5AIF8ULVJ"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Pottymouth",
+        "url": "https://open.spotify.com/album/0er043d9DCecxrz0XVsPos"
+      },
+      "artists": [
+        {
+          "name": "Bratmobile",
+          "url": "https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L"
+        }
+      ],
+      "duration_ms": 91600,
+      "name": "Bitch Theme",
+      "url": "https://open.spotify.com/track/3wu6pRZrOAAet8YxeZ49nv"
     },
     {
       "added_at": "2024-10-07 20:36:39",

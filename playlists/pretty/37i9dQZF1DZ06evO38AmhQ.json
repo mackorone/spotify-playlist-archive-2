@@ -1,12 +1,12 @@
 {
   "description": "This is John Williamson. The essential tracks, all in one playlist.",
-  "num_followers": 22306,
+  "num_followers": 22307,
   "original_name": "This Is John Williamson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAACwj4UB0G+YtUUYCVvrxt1Q",
+  "snapshot_id": "aZ+NAAAAAACDHZm4rGAcgij2TRVXYUh2",
   "tracks": [
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Road Thru The Heart",
+        "url": "https://open.spotify.com/album/51f2xjO7nDkp1jDevmXH0i"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 159773,
+      "name": "The Shed",
+      "url": "https://open.spotify.com/track/6HDThdBIQptMjGvt37SMpI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Warragul",
         "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 242786,
       "name": "Waltzing Matilda",
       "url": "https://open.spotify.com/track/1x2KFbCFp8k3MFBMrz7eXA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Road Thru The Heart",
-        "url": "https://open.spotify.com/album/51f2xjO7nDkp1jDevmXH0i"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 159773,
-      "name": "The Shed",
-      "url": "https://open.spotify.com/track/6HDThdBIQptMjGvt37SMpI"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Way It Is",
-        "url": "https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 215293,
-      "name": "Campfire on the Road",
-      "url": "https://open.spotify.com/track/2fEPIWh5HFnatSwBpHzKBl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Looking for a Story",
         "url": "https://open.spotify.com/album/2g3QOuio9fp0dO2zAl9aQg"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 304493,
       "name": "I Was Only 19 - Live",
       "url": "https://open.spotify.com/track/2ccxbWZGAWXk7SHduGYELK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 215293,
+      "name": "Campfire on the Road",
+      "url": "https://open.spotify.com/track/2fEPIWh5HFnatSwBpHzKBl"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hillbilly Road",
-        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
+        "name": "Waratah St.",
+        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 184906,
-      "name": "Hillbilly Road",
-      "url": "https://open.spotify.com/track/70Mqf5i7Rdo8uw2r6UfsaO"
+      "duration_ms": 158866,
+      "name": "Wobbly Boot Hotel",
+      "url": "https://open.spotify.com/track/3V4BAoJgTMrOP39LIXhf7Z"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waratah St.",
-        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 158866,
-      "name": "Wobbly Boot Hotel",
-      "url": "https://open.spotify.com/track/3V4BAoJgTMrOP39LIXhf7Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Both Sides Now",
         "url": "https://open.spotify.com/album/35OfYsF8wYNq3OR2YJpMvm"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 126586,
       "name": "King Of The Road",
       "url": "https://open.spotify.com/track/1Ndrjyj3hZv7KuZmNLQr9U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mates on the Road",
+        "url": "https://open.spotify.com/album/3sm8lCfuVRcVbrYd2Zorqr"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 71520,
+      "name": "Chain Around My Ankle",
+      "url": "https://open.spotify.com/track/5hT7oCaw5v0IU69MesPfnA"
     },
     {
       "added_at": null,
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mates on the Road",
-        "url": "https://open.spotify.com/album/3sm8lCfuVRcVbrYd2Zorqr"
+        "name": "Hillbilly Road",
+        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 71520,
-      "name": "Chain Around My Ankle",
-      "url": "https://open.spotify.com/track/5hT7oCaw5v0IU69MesPfnA"
+      "duration_ms": 184906,
+      "name": "Hillbilly Road",
+      "url": "https://open.spotify.com/track/70Mqf5i7Rdo8uw2r6UfsaO"
     },
     {
       "added_at": null,

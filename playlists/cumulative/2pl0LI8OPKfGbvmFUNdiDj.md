@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-356 songs - 19 hr 58 min
+358 songs - 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Ashes](https://open.spotify.com/track/5Ft6nMdweaJkJAJX57SHza) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Lifelike Figures](https://open.spotify.com/album/2eRVXNj2T29DPJqFsB7A7H) | 3:57 | 2026-01-19 | 2026-02-21 |
 | [Astrifer](https://open.spotify.com/track/66NCwHAAArMOhD6aduLl6g) | [IDŌL](https://open.spotify.com/artist/3nmBN4kK0iZ0yoYymH7RMS) | [Spectra](https://open.spotify.com/album/0dRFvEUEt5gg9u4TVhLJpe) | 4:08 | 2025-11-08 | 2025-12-01 |
 | [Autumn Fall](https://open.spotify.com/track/1bm4evNgnGNc6TkrW5coXx) | [Legends of the Seven Golden Vampires](https://open.spotify.com/artist/5MWBriMQP4x8AeTN48ErdZ) | [Autumn Fall](https://open.spotify.com/album/7x7BkLrEek3R6ekBdB6mrB) | 2:56 | 2025-12-30 | 2026-01-25 |
+| [Autumn in the Storm](https://open.spotify.com/track/0tB90dlegD2EegT7EE2Bii) | [Breathing Tales](https://open.spotify.com/artist/2ZFi7bp6R1cFiPxT0Q7P0I) | [Autumn in the Storm](https://open.spotify.com/album/0PEP2Y4dCNhnc71M1SC8zo) | 2:32 | 2026-02-27 |  |
 | [Avatar](https://open.spotify.com/track/4jvDddu5cVPq4ogsmSEeQ9) | [Svend48](https://open.spotify.com/artist/5u4b2A5VnjVTMzNxs5QhCc) | [Avatar](https://open.spotify.com/album/3rNkFTNqKvXFpiOB70Mb1f) | 4:28 | 2025-12-26 | 2026-01-15 |
 | [Awhile Longer](https://open.spotify.com/track/2oIeeJEISUZqeEy0tP1KFV) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 4:21 | 2025-12-09 | 2026-01-05 |
 | [BackYard](https://open.spotify.com/track/5MWrY70Z923ND9CmINZlJQ) | [Between Daze](https://open.spotify.com/artist/3MHaNl5fufkpRoHJ6sbAbs) | [BackYard](https://open.spotify.com/album/7gPsLU48jdwEDbf2fJmgaq) | 3:52 | 2025-12-30 | 2026-01-25 |
@@ -305,6 +306,7 @@
 | [The Hope and Desperation of the Sea](https://open.spotify.com/track/6lxU2is3bvGg1qzCpZXMOo) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [The Hope and Desperation of the Sea](https://open.spotify.com/album/74S6lWVbgQSkyDmqUznX1b) | 3:42 | 2025-11-30 | 2026-01-05 |
 | [The Narrative](https://open.spotify.com/track/2C5l4za8s1jMgUVhQnrt7U) | [DroCole](https://open.spotify.com/artist/1ULNRteGwjrrsPZ5SURVlX), [Pokoaya](https://open.spotify.com/artist/0dSM49bxZ52Bu3DbogQUbK) | [The Narrative](https://open.spotify.com/album/4rzoePKxuaie9M3VGCdtuI) | 2:16 | 2025-11-01 | 2025-12-01 |
 | [The One I Want Beside Me](https://open.spotify.com/track/4EtCyjZQCF2fxV6eKYxXXH) | [Solo el Malo](https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8) | [The One I Want Beside Me](https://open.spotify.com/album/6k3PoNmrxC5o2gYpjvFm6b) | 3:51 | 2025-11-03 | 2025-12-01 |
+| [The Party](https://open.spotify.com/track/3MDPDsTbteMtMytdsvMLBB) | [The Great Leslie](https://open.spotify.com/artist/4nLnyYZc70ZItmWTW0oo9W) | [The Party](https://open.spotify.com/album/5zd3NUklLnUdqPgU54YlL2) | 3:04 | 2026-02-27 |  |
 | [The Perfect Buzz](https://open.spotify.com/track/4nIbtAyxR6yeBxgONwdtda) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [The Perfect Buzz](https://open.spotify.com/album/2kPgxCfeUcADkJSxT0jBtG) | 2:46 | 2026-02-08 |  |
 | [The Price of Not Being Me](https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [The Price of Not Being Me](https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA) | 3:34 | 2026-01-24 | 2026-02-21 |
 | [The Red Cha Cha](https://open.spotify.com/track/10DZ0KHJmt1PS0hVNIf6PT) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo) | [The Red Cha Cha](https://open.spotify.com/album/0wBE98iV9c9xym1kQFK5b6) | 2:23 | 2025-11-30 | 2026-01-05 |

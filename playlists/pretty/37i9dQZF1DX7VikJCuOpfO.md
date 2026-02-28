@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Michelle Maciel 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,807 likes - 90 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,808 likes - 90 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,10 +67,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 57 | [Así Son Las Cosas](https://open.spotify.com/track/7K0saaGY6hqR1nSnktfDwm) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Así Son Las Cosas](https://open.spotify.com/album/3lKiOwzv44vFdJgkKLKRCv) | 2:51 |
 | 58 | [Mi México Mestizo](https://open.spotify.com/track/5Rn5XDwuJmzSiqIsDLspyo) | [Sant Orozco](https://open.spotify.com/artist/0ZeCzmxhyIQU8pB2jloBbG) | [Mi México Mestizo](https://open.spotify.com/album/2xQyshk5TRjdAVLonc74gv) | 2:26 |
 | 59 | [La Caminera](https://open.spotify.com/track/0CxFWDJHtLHKwJe9GPhD7r) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [La Caminera](https://open.spotify.com/album/7siwCssx8fWnknViHVzggI) | 2:23 |
-| 60 | [Se te olvidó](https://open.spotify.com/track/2q2721jaXxxjYGDonXN1u3) | [JUAN MACI](https://open.spotify.com/artist/6AAkqxke5D09lpu1SoOsFl) | [Se te olvidó](https://open.spotify.com/album/4a7YeSO2gi7cJmDt64QHpm) | 3:06 |
-| 61 | [Amor Eterno](https://open.spotify.com/track/6zSAQtEQSxIOXOWQoUGW9e) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Amor Eterno](https://open.spotify.com/album/7grFNupMrSIfmdGd5WDBNW) | 4:46 |
-| 62 | [Bailar Contigo \(feat\. Mariachi Sol De Mexico De Jose Hernandez\)](https://open.spotify.com/track/4qkhHNpS8k5U5Oq2rFoRbB) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [Mariachi Sol De Mexico De Jose Hernandez](https://open.spotify.com/artist/0MnQvecFg1VbNkiFcPnsaG) | [Bailar Contigo \(feat\. Mariachi Sol De Mexico De Jose Hernandez\)](https://open.spotify.com/album/7FfsjZ8fUGczsKen6ThyDV) | 3:45 |
-| 63 | [Lo que no fue no será](https://open.spotify.com/track/2Kw2dZoKcrtPDAJZ3p7Odc) | [Kevin Aguilar](https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y) | [Lo que no fue no será](https://open.spotify.com/album/4HmNzTbijLb6ClDnXMRKsH) | 3:37 |
+| 60 | [Amor Eterno](https://open.spotify.com/track/6zSAQtEQSxIOXOWQoUGW9e) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Amor Eterno](https://open.spotify.com/album/7grFNupMrSIfmdGd5WDBNW) | 4:46 |
+| 61 | [Se te olvidó](https://open.spotify.com/track/2q2721jaXxxjYGDonXN1u3) | [JUAN MACI](https://open.spotify.com/artist/6AAkqxke5D09lpu1SoOsFl) | [Se te olvidó](https://open.spotify.com/album/4a7YeSO2gi7cJmDt64QHpm) | 3:06 |
+| 62 | [Lo que no fue no será](https://open.spotify.com/track/2Kw2dZoKcrtPDAJZ3p7Odc) | [Kevin Aguilar](https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y) | [Lo que no fue no será](https://open.spotify.com/album/4HmNzTbijLb6ClDnXMRKsH) | 3:37 |
+| 63 | [Bailar Contigo \(feat\. Mariachi Sol De Mexico De Jose Hernandez\)](https://open.spotify.com/track/4qkhHNpS8k5U5Oq2rFoRbB) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [Mariachi Sol De Mexico De Jose Hernandez](https://open.spotify.com/artist/0MnQvecFg1VbNkiFcPnsaG) | [Bailar Contigo \(feat\. Mariachi Sol De Mexico De Jose Hernandez\)](https://open.spotify.com/album/7FfsjZ8fUGczsKen6ThyDV) | 3:45 |
 | 64 | [Los Laureles](https://open.spotify.com/track/0LVbuuyK3lvOQefpuvJvP2) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY), [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf) | [Los Laureles](https://open.spotify.com/album/7w2q18216uYakqsqunta9s) | 2:27 |
 | 65 | [Traigan Las Otras](https://open.spotify.com/track/5E9oKZMXP4AmH1xqsgeR6I) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Traigan Las Otras](https://open.spotify.com/album/2bmqn5pa7iUHPAsB0GW2Vv) | 3:50 |
 | 66 | [No Pidas Perdón](https://open.spotify.com/track/4T25QSWF3CemmblwbyZqkt) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Pidas Perdón](https://open.spotify.com/album/1hsPg6bG6BBj5czbuF34sT) | 3:04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nSXaa.md) - [plain]
 
 > This is Tate McRae\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,354 likes - 41 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,458 likes - 41 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nSXaa.md) - [plain]
 | 14 | [NOBODY'S GIRL](https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [SO CLOSE TO WHAT??? \(deluxe\)](https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ) | 2:48 |
 | 15 | [guilty conscience](https://open.spotify.com/track/2wIcebwzceIwgonsDICx6P) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:32 |
 | 16 | [It's ok I'm ok](https://open.spotify.com/track/3OfqwyE7RrZrtuxCRixfII) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:36 |
-| 17 | [uh oh](https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [uh oh](https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq) | 2:49 |
+| 17 | [10:35](https://open.spotify.com/track/36gcliMRX1vCpgnrZE3dFZ) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:52 |
 | 18 | [TRYING ON SHOES](https://open.spotify.com/track/7AxXJXqJOMRqkgZxvG3r6E) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [SO CLOSE TO WHAT??? \(deluxe\)](https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ) | 3:02 |
 | 19 | [hurt my feelings](https://open.spotify.com/track/4mFcwFOlSCxp6hjemRXwpd) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:02 |
 | 20 | [Dear god](https://open.spotify.com/track/7CmQjA7j6CxyPBkH3tP95W) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 2:51 |
-| 21 | [10:35](https://open.spotify.com/track/36gcliMRX1vCpgnrZE3dFZ) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:52 |
+| 21 | [uh oh](https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [uh oh](https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq) | 2:49 |
 | 22 | [HORSESHOE](https://open.spotify.com/track/3unY0p45pcQVnABntzlX8B) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [SO CLOSE TO WHAT??? \(deluxe\)](https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ) | 3:01 |
 | 23 | [feel like shit](https://open.spotify.com/track/03zuGqxMwUFFmCwusq0WKE) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 3:23 |
 | 24 | [Miss possessive](https://open.spotify.com/track/4Q9ExJGFgL9Jd9kmYH3nXs) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:19 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nSXaa.md) - [plain]
 | 40 | [wish i loved you in the 90s](https://open.spotify.com/track/2wkIdVB8HsWyMur3Q4shlZ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:56 |
 | 41 | [greedy acoustic](https://open.spotify.com/track/7LoyqdrF51XVflrSKFHH1a) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy \(remixes\)](https://open.spotify.com/album/0dIpV8isK5mSDnSm8odPWW) | 2:22 |
 
-Snapshot ID: `aZ47gAAAAABEMAH0lk9IAnMJvWpIADHi`
+Snapshot ID: `aZ+NAAAAAABYWsmx/YXFOvhGNMLwvk4/`

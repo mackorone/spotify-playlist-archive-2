@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 
 > Koleksi lagu tersayang dari para artis negeri jiran\. Cover: Meet Uncle Hussain, Adi Priyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,545 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,553 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 | 10 | [Kangen](https://open.spotify.com/track/3ZyMRe0jlSqffPBMeHUZFX) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [The 2000's Greatest](https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN) | 5:00 |
 | 11 | [Kasih Putih](https://open.spotify.com/track/3Qiv7UhkqYeBExD6gZ1m3k) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Kembali](https://open.spotify.com/album/7c9NuorRkB2t9ioSaRucBx) | 3:57 |
 | 12 | [My Heart](https://open.spotify.com/track/27xvsEVJolDpEDy5PtD0hq) | [Acha Septriasa](https://open.spotify.com/artist/6x9pgf75qWhi1YKJH2a8Xv), [Irwansyah](https://open.spotify.com/artist/6OZRp5SJfh9kZts1SyIMOa) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 4:33 |
-| 13 | [Takkan Terganti](https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [And the Story Continues...](https://open.spotify.com/album/1NIbJYN2b3CO92Q75ofpuZ) | 4:01 |
-| 14 | [Demi Cinta](https://open.spotify.com/track/2SscarnRY3zdkORvPu9JGZ) | [Kerispatih](https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ) | [Tak Lekang Oleh Waktu](https://open.spotify.com/album/0SGKVrJINkmC5vhhFtuw1d) | 4:42 |
+| 13 | [Demi Cinta](https://open.spotify.com/track/2SscarnRY3zdkORvPu9JGZ) | [Kerispatih](https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ) | [Tak Lekang Oleh Waktu](https://open.spotify.com/album/0SGKVrJINkmC5vhhFtuw1d) | 4:42 |
+| 14 | [Takkan Terganti](https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [And the Story Continues...](https://open.spotify.com/album/1NIbJYN2b3CO92Q75ofpuZ) | 4:01 |
 | 15 | [Seberapa Pantas](https://open.spotify.com/track/1BaGfrlIWinaF77p7QASBH) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [07 Des](https://open.spotify.com/album/59MdGM9vovHOEqp40fpthI) | 4:01 |
 | 16 | [Terlalu Cinta](https://open.spotify.com/track/3zmN19fLAcKeDaajrIdWLB) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Terlalu Cinta](https://open.spotify.com/album/02xTkZ9qQYEA5GtUgnsEcG) | 4:19 |
 | 17 | [Bukan Cinta Biasa](https://open.spotify.com/track/7pnySx65jx0qm8ZmV6R56m) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [The One](https://open.spotify.com/album/7GfylFxRPXIGHwKZTPlURg) | 4:11 |

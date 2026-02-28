@@ -4,7 +4,7 @@
 
 > Suomen suurin ja paras rock\-soittolista.
 
-345 songs - 22 hr 22 min
+350 songs - 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,9 +120,11 @@
 | [Fog To Fog](https://open.spotify.com/track/1XOmonDrGwXHfLqN4Iitvj) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Borderland](https://open.spotify.com/album/3sJNIoRnixgbSkSSDbE830) | 5:28 | 2025-09-25 |  |
 | [For I Am Death](https://open.spotify.com/track/3K85nEutdOPbJuAJgoe2O4) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [For I Am Death](https://open.spotify.com/album/7LnfxsUCMGkJfwQm969CKM) | 3:39 | 2025-08-21 |  |
 | [Frankenstein's Wife](https://open.spotify.com/track/268MELe1R45Gqhz8RYkxuU) | [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00) | [Frankenstein's Wife](https://open.spotify.com/album/5XQRzumlwkrrVlbl7yGMae) | 5:25 | 2024-09-11 | 2024-11-08 |
+| [Freedom Concept](https://open.spotify.com/track/3g8dRL2mQOgqUZVdK4Ba6O) | [Sonata Arctica](https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH) | [Freedom Concept](https://open.spotify.com/album/3a67wBiTMAQbtz4MtJTqqX) | 4:13 | 2026-02-27 |  |
 | [From An Empire To A Fall](https://open.spotify.com/track/3OVOD34O2bzQGDabjnJvFQ) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA) | [From An Empire To A Fall](https://open.spotify.com/album/1WFxhjTthikWB5m20GCgPK) | 4:08 | 2024-11-01 | 2025-01-17 |
 | [From Hell With Love](https://open.spotify.com/track/3iKSyNDGzJ3FcjXoDKqehS) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell With Love](https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr) | 3:55 | 2024-11-07 | 2024-12-13 |
 | [From the Bottom of My Heart](https://open.spotify.com/track/5lzUEsc8znqAzlBVewkony) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Come Hell, Come High Water](https://open.spotify.com/album/7mczEKzLUFG5OuNJWB07KI) | 3:10 | 2025-10-09 |  |
+| [Ghostlike](https://open.spotify.com/track/0GRvnzulLTAigMCZTEZETC) | [Gladenfold](https://open.spotify.com/artist/5fReK32sz2vmbh61o5TGLe) | [Soulbound](https://open.spotify.com/album/5sxBSdrWYHSJUKiGUoD8FW) | 5:11 | 2026-02-27 |  |
 | [Gods Of Rock N Roll](https://open.spotify.com/track/6fJ3mXUUBRHj1cCBazDCwQ) | [Billy Morrison](https://open.spotify.com/artist/5p5z43dPcFgT0EI7Ycf3XD), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Steve Stevens](https://open.spotify.com/artist/4ZMaiDLfxDaoG7ULXgcnDb) | [Gods Of Rock N Roll](https://open.spotify.com/album/3QmCUNc3xulR0uuL8HJfwf) | 5:16 | 2025-02-13 | 2025-04-18 |
 | [Gravity](https://open.spotify.com/track/3tlw6dqv2qejTGLnVaEsgb) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Afterglow](https://open.spotify.com/album/5VFCZaivqUDRJq34ylEbt5) | 3:53 | 2025-05-15 |  |
 | [GUTSY](https://open.spotify.com/track/2oK6zOlRBu3zYqS62LLc0i) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [GUTSY](https://open.spotify.com/album/1cSEktYGDM94FlEfAKNOiZ) | 4:41 | 2025-06-05 |  |
@@ -166,9 +168,12 @@
 | [Just a Vision](https://open.spotify.com/track/03QQ9ssP37QV2EGQkzaRiG) | [Stoned Statues](https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ) | [Just a Vision](https://open.spotify.com/album/4jp1EHLBxFqTdA6YG2HHP1) | 4:57 | 2025-11-13 |  |
 | [Just Too Much](https://open.spotify.com/track/0nLGyEeOsErcTyBcEQIu8s) | [Tremonti](https://open.spotify.com/artist/44tQC1PjxXIpEgW0i8uN00) | [The End Will Show Us How](https://open.spotify.com/album/0tQNVwSxVYCwaEa8HfHCd4) | 3:46 | 2025-03-21 | 2025-10-24 |
 | [Keep That Mother Down](https://open.spotify.com/track/5LwFa31Em0Lp7fqTabNgro) | [D\-A\-D](https://open.spotify.com/artist/2I6gQ8HicF6er2NgjfkwGd) | [Keep That Mother Down / Head Over Heels](https://open.spotify.com/album/6uAVkWGPde4xhcW5tOXhiq) | 3:37 | 2024-09-11 | 2024-10-04 |
+| [Kettingit](https://open.spotify.com/track/4owrESDc3HKDBerg0vfr4e) | [Ruoska](https://open.spotify.com/artist/0MCx3EcBHDcEb2nFUCMxSu) | [Kade](https://open.spotify.com/album/50i1el3KSBlu6ROLH9gWzT) | 3:52 | 2026-02-27 |  |
 | [Kohti tuhoa \(feat\. Tomi Joutsen\)](https://open.spotify.com/track/2lQgqBaf5ie7LWiG8NsEGw) | [Timo Rautiainen & Trio Niskalaukaus](https://open.spotify.com/artist/6sJ8TvVdY3NLFxtG4TESzC), [Tomi Joutsen](https://open.spotify.com/artist/6XKm3Pn13Owwmtu4l23dui) | [Kohti tuhoa \(feat\. Tomi Joutsen\)](https://open.spotify.com/album/0hUlq2Cl3WB7n5yBWacztM) | 3:52 | 2025-08-14 | 2025-09-13 |
+| [Kuolemankello](https://open.spotify.com/track/7v5F0dkZafJJz20cjXRT34) | [Noumena](https://open.spotify.com/artist/4vWgFBf8pMnDHVq2CTWvvL) | [Kuolemankello](https://open.spotify.com/album/3saVVq5kHt7w9PTfiVVHCj) | 5:58 | 2026-02-27 |  |
 | [Kylie](https://open.spotify.com/track/2hq1XgYec0eejLFiDnytUY) | [Balboa Son](https://open.spotify.com/artist/6ZcJKMHJOCYcDNiKK9TeMi) | [Kylie](https://open.spotify.com/album/0B42NGSmFbRlxb6RCvtvsk) | 4:07 | 2024-09-12 | 2025-08-22 |
 | [Lachryma](https://open.spotify.com/track/0hw2CGX8jaIpS4jGDn3dfa) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Lachryma](https://open.spotify.com/album/4c1dPnDFdWvgfUSwHvFgev) | 4:36 | 2025-04-11 | 2025-04-24 |
+| [Lahja](https://open.spotify.com/track/25y42iO1Bpjh3Rg1sBftzR) | [Stam1na](https://open.spotify.com/artist/41nB823nb3wxEI25UeGHqG) | [Apnea](https://open.spotify.com/album/0shNaOLJloTHlX1iDlXd7t) | 5:53 | 2026-02-27 |  |
 | [Land of Confusion](https://open.spotify.com/track/4ClGNWLK9vZMBtO0CpnyOE) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Ten Thousand Fists](https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6) | 4:47 | 2025-10-09 |  |
 | [Lanternlight](https://open.spotify.com/track/6WZImct4xSNP1EQuL2LI4z) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Yesterwynde](https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o) | 6:06 | 2024-09-19 | 2025-01-10 |
 | [Last Call for Alcohol](https://open.spotify.com/track/0PpwlEkocq2ii1L9UELKMo) | [Hardcore Superstar](https://open.spotify.com/artist/57b3sKD9pGilMb2QlMqArq) | [Split Your Lip](https://open.spotify.com/album/4raUhz4RLy0dmpCTM8EDZq) | 3:24 | 2024-09-11 | 2025-08-22 |

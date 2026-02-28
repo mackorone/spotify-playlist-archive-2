@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 
 > This is Wizkid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,079 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,135 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 49 | [Kai!](https://open.spotify.com/track/0C3zMmE4yo1qBq6MGfkwX0) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 2:57 |
 | 50 | [Bad To Me](https://open.spotify.com/track/2HYcI74UpbMMxLZ1m7Xnfn) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 2:58 |
 
-Snapshot ID: `aZ47gAAAAAAf18lSLnQMkAZXZAekydCE`
+Snapshot ID: `aZ+NAAAAAAAgkGFAVWh083VDp6JL3MBL`

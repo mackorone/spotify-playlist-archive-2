@@ -1,12 +1,12 @@
 {
   "description": "I didn\u2019t do my makeup just to cry!\nchloe moriondo on the cover.",
-  "num_followers": 595764,
+  "num_followers": 595762,
   "original_name": "Sad Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAkqIEyde6yhUvYSouGQj1A5fnv4",
+  "snapshot_id": "AAAAAID18KTn8K7C1hPwtysB5NeG6eMA",
   "tracks": [
     {
       "added_at": "2026-02-20 05:00:36",
@@ -23,6 +23,22 @@
       "duration_ms": 171386,
       "name": "Truth Of Pursuit",
       "url": "https://open.spotify.com/track/213XNePBS3v9QW0lnPUXmZ"
+    },
+    {
+      "added_at": "2026-02-27 04:58:02",
+      "album": {
+        "name": "New Year's Eve",
+        "url": "https://open.spotify.com/album/2wcAjapN7Lyie2OpbLwBrw"
+      },
+      "artists": [
+        {
+          "name": "Ida Fiona",
+          "url": "https://open.spotify.com/artist/0P1ms6USIpLYgcCZ9s1Xbm"
+        }
+      ],
+      "duration_ms": 171248,
+      "name": "New Year's Eve",
+      "url": "https://open.spotify.com/track/53hEGYyUpj3FYvQOCHVdo7"
     },
     {
       "added_at": "2026-02-20 05:00:36",
@@ -1603,22 +1619,6 @@
       "duration_ms": 147713,
       "name": "rubberband",
       "url": "https://open.spotify.com/track/05ABOPiW13nqIedJfqmfPM"
-    },
-    {
-      "added_at": "2025-10-25 14:36:55",
-      "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 193293,
-      "name": "All You Had To Do Was Stay",
-      "url": "https://open.spotify.com/track/0dAb8TY433dl3ZfXYCLE19"
     },
     {
       "added_at": "2025-10-25 14:36:55",

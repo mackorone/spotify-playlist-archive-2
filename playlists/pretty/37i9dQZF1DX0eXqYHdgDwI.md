@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain]
 
 > 🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,507 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,526 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain]
 | 39 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 |
 | 40 | [Atlantide](https://open.spotify.com/track/1mP024sin4qRJS0C0VW7GX) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Pixel](https://open.spotify.com/album/2GilGjaRAmsF7MptmRnFQT) | 3:04 |
 | 41 | [Say You Won't Let Go](https://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Say You Won't Let Go](https://open.spotify.com/album/0BL67dR6x0CPU7B7J9P8qC) | 3:31 |
-| 42 | [Ultraviolence](https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 4:11 |
-| 43 | [Promise](https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:54 |
+| 42 | [Promise](https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:54 |
+| 43 | [Ultraviolence](https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 4:11 |
 | 44 | [18](https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 4:08 |
 | 45 | [Photograph](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:18 |
 | 46 | [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [Íñigo Quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain]
 | 87 | [Control](https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Control](https://open.spotify.com/album/4w177LbRYa3z07NifGptFp) | 3:50 |
 | 88 | [Mad World](https://open.spotify.com/track/3JOVTQ5h8HGFnDdp4VT3MP) | [Gary Jules](https://open.spotify.com/artist/5oRnbmgqvvq7fVlgk4vcEa), [Michael Andrews](https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2) | [Trading Snakeoil for Wolftickets](https://open.spotify.com/album/1OydCrx4m7fguwcX4stR9z) | 3:09 |
 | 89 | [Knowing Me, Knowing You](https://open.spotify.com/track/798cuJeotvXP8UVa8GJPnD) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 4:01 |
-| 90 | [you were good to me](https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent](https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC) | 3:39 |
-| 91 | [Always Remember Us This Way](https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:30 |
+| 90 | [Always Remember Us This Way](https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:30 |
+| 91 | [you were good to me](https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent](https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC) | 3:39 |
 | 92 | [A Year Ago](https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [A Year Ago](https://open.spotify.com/album/4mXHsCQ4aRccewmcKUxIBJ) | 2:50 |
 | 93 | [Breathe Me](https://open.spotify.com/track/7jqzZyJJLrpkRFYGpkqSK6) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5) | 4:32 |
 | 94 | [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 |

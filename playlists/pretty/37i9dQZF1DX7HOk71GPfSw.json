@@ -1,13 +1,29 @@
 {
-  "description": "Our favorite MGNA Crrrta since 1215 \ud83d\udc9e",
-  "num_followers": 492759,
+  "description": "<3 ___ <3",
+  "num_followers": 492869,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD1LRU4jq6ztzQ0fOOBAANW/Hjay",
+  "snapshot_id": "AAAAAHvlnnV6AocGwmTeMu5QyTPo7S81",
   "tracks": [
+    {
+      "added_at": "2026-02-27 05:00:52",
+      "album": {
+        "name": "Tell Me (U Want It)",
+        "url": "https://open.spotify.com/album/3JedLQJK34WnW9thqc8BAo"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 213250,
+      "name": "Tell Me (U Want It)",
+      "url": "https://open.spotify.com/track/1dsKLYqHpiIkgTK4TdMUzy"
+    },
     {
       "added_at": "2026-02-20 05:00:48",
       "album": {
@@ -27,26 +43,34 @@
     {
       "added_at": "2026-02-20 05:00:48",
       "album": {
-        "name": "It's You (underscores' \"It\u2019s U\" Remix)",
-        "url": "https://open.spotify.com/album/68KwMNXlguxjAnGkNaEMaX"
+        "name": "START OVER",
+        "url": "https://open.spotify.com/album/6JzeTEulNDFMqji6Jq6JY4"
       },
       "artists": [
         {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        },
-        {
-          "name": "daine",
-          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
-        },
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
         }
       ],
-      "duration_ms": 211500,
-      "name": "It's You - underscores' \"It\u2019s U\" Remix",
-      "url": "https://open.spotify.com/track/3YQoG8Ey0eYsLS9yAmeHK1"
+      "duration_ms": 170381,
+      "name": "START OVER",
+      "url": "https://open.spotify.com/track/23iKYWszFScsU02y1HJb92"
+    },
+    {
+      "added_at": "2026-02-27 05:00:52",
+      "album": {
+        "name": "Red Horse",
+        "url": "https://open.spotify.com/album/6EzjgA9a0soBHbBFIrwk55"
+      },
+      "artists": [
+        {
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
+        }
+      ],
+      "duration_ms": 146351,
+      "name": "Red Horse",
+      "url": "https://open.spotify.com/track/7C36qjso9lFwADSdoOU0gj"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -85,6 +109,22 @@
       "url": "https://open.spotify.com/track/6odzEUEbJvJPhFVzjOCHyx"
     },
     {
+      "added_at": "2026-02-27 05:00:52",
+      "album": {
+        "name": "Miami Crest",
+        "url": "https://open.spotify.com/album/7wddxaFYnH7K0s8aULp0ql"
+      },
+      "artists": [
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "Miami Crest",
+      "url": "https://open.spotify.com/track/5BWL1daZx8NkFETSMAWm4q"
+    },
+    {
       "added_at": "2026-01-16 05:00:36",
       "album": {
         "name": "Sucker Punch",
@@ -115,6 +155,22 @@
       "duration_ms": 172000,
       "name": "Whitney",
       "url": "https://open.spotify.com/track/0xukGMERG8m6aXsJtIG4uo"
+    },
+    {
+      "added_at": "2026-02-27 05:00:52",
+      "album": {
+        "name": "Needle Guy",
+        "url": "https://open.spotify.com/album/2aDQC4StC9XTzDy9psxoXH"
+      },
+      "artists": [
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        }
+      ],
+      "duration_ms": 179560,
+      "name": "Needle Guy",
+      "url": "https://open.spotify.com/track/62m3y5RL0VGhxbV9zy0fDz"
     },
     {
       "added_at": "2025-09-12 04:00:15",
@@ -157,36 +213,36 @@
       "url": "https://open.spotify.com/track/27v8QdBidbC5idqWHqPBBj"
     },
     {
-      "added_at": "2026-02-20 05:00:48",
+      "added_at": "2026-02-27 05:00:52",
       "album": {
-        "name": "START OVER",
-        "url": "https://open.spotify.com/album/6JzeTEulNDFMqji6Jq6JY4"
+        "name": "J is for Joon",
+        "url": "https://open.spotify.com/album/39F32WxX76dNnQG5vzw90w"
       },
       "artists": [
         {
-          "name": "Tiffany Day",
-          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+          "name": "Ms* Gloom",
+          "url": "https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu"
         }
       ],
-      "duration_ms": 170381,
-      "name": "START OVER",
-      "url": "https://open.spotify.com/track/23iKYWszFScsU02y1HJb92"
+      "duration_ms": 234874,
+      "name": "Zines & Gibberish",
+      "url": "https://open.spotify.com/track/164KRTDMG3ol7IMpgK38bv"
     },
     {
-      "added_at": "2026-01-16 05:00:36",
+      "added_at": "2026-02-27 05:00:52",
       "album": {
-        "name": "4me?",
-        "url": "https://open.spotify.com/album/0Y8iEEG9eYOq6saas4yZYD"
+        "name": "prototype",
+        "url": "https://open.spotify.com/album/0xRNPryFtPD67496idfDsO"
       },
       "artists": [
         {
-          "name": "MGNA Crrrta",
-          "url": "https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye"
+          "name": "pnkdrco",
+          "url": "https://open.spotify.com/artist/54ui5N3fVlyC2imsAakAhI"
         }
       ],
-      "duration_ms": 147752,
-      "name": "4me?",
-      "url": "https://open.spotify.com/track/1V57UV83BZdTSR1N0Nd8cI"
+      "duration_ms": 99265,
+      "name": "prototype",
+      "url": "https://open.spotify.com/track/7qgqbZW6SeqV1iEYTRP4nS"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -207,6 +263,54 @@
       "duration_ms": 224000,
       "name": "Sisters",
       "url": "https://open.spotify.com/track/5083rgdiHkvjyJaQoLHwdZ"
+    },
+    {
+      "added_at": "2026-02-27 05:00:52",
+      "album": {
+        "name": "Get Used To Me",
+        "url": "https://open.spotify.com/album/7wVujmQw1lbNN2uqq1HobP"
+      },
+      "artists": [
+        {
+          "name": "Sorisa",
+          "url": "https://open.spotify.com/artist/5aHJ7mcBAI9x0Hv28IzNV8"
+        }
+      ],
+      "duration_ms": 201919,
+      "name": "Get Used To Me",
+      "url": "https://open.spotify.com/track/5r8yYNy65zjzKVHLbXm04j"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
+        "name": "Missing",
+        "url": "https://open.spotify.com/album/63z2McWDqC8jLc2vFNZIBW"
+      },
+      "artists": [
+        {
+          "name": "Ethanplus",
+          "url": "https://open.spotify.com/artist/6BjkYyzfLLbbHn8SBpjh6s"
+        }
+      ],
+      "duration_ms": 108862,
+      "name": "Missing",
+      "url": "https://open.spotify.com/track/5H2Y0X0FN3vMt4lRvdi5dJ"
+    },
+    {
+      "added_at": "2026-01-16 05:00:36",
+      "album": {
+        "name": "4me?",
+        "url": "https://open.spotify.com/album/0Y8iEEG9eYOq6saas4yZYD"
+      },
+      "artists": [
+        {
+          "name": "MGNA Crrrta",
+          "url": "https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye"
+        }
+      ],
+      "duration_ms": 147752,
+      "name": "4me?",
+      "url": "https://open.spotify.com/track/1V57UV83BZdTSR1N0Nd8cI"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -241,6 +345,22 @@
       "url": "https://open.spotify.com/track/3xXJHuTxbSF69tfqg061iT"
     },
     {
+      "added_at": "2026-02-27 05:00:52",
+      "album": {
+        "name": "Moire",
+        "url": "https://open.spotify.com/album/5yxDD9kqU4961uarBjkhNi"
+      },
+      "artists": [
+        {
+          "name": "GRRL",
+          "url": "https://open.spotify.com/artist/0JpzRsUcCKSyr44mQiosNg"
+        }
+      ],
+      "duration_ms": 160213,
+      "name": "Moire",
+      "url": "https://open.spotify.com/track/64xwM6gRhzh9XlTCYFX6y3"
+    },
+    {
       "added_at": "2026-02-20 05:00:48",
       "album": {
         "name": "say it back",
@@ -273,10 +393,10 @@
       "url": "https://open.spotify.com/track/1YHHmU0eU4v2f0p8aBB7Oq"
     },
     {
-      "added_at": "2025-11-21 05:00:35",
+      "added_at": "2026-02-20 05:00:48",
       "album": {
-        "name": "Fuck My Computer (Frost Children Remix)",
-        "url": "https://open.spotify.com/album/3mkVo55KYmJAxy21rPssZ4"
+        "name": "It's You (underscores' \"It\u2019s U\" Remix)",
+        "url": "https://open.spotify.com/album/68KwMNXlguxjAnGkNaEMaX"
       },
       "artists": [
         {
@@ -284,29 +404,33 @@
           "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
         },
         {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        },
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
         }
       ],
-      "duration_ms": 197956,
-      "name": "Fuck My Computer - Frost Children Remix",
-      "url": "https://open.spotify.com/track/4msZzTP3dJlqmHRhUb4v3f"
+      "duration_ms": 211500,
+      "name": "It's You - underscores' \"It\u2019s U\" Remix",
+      "url": "https://open.spotify.com/track/3YQoG8Ey0eYsLS9yAmeHK1"
     },
     {
-      "added_at": "2025-10-10 04:00:26",
+      "added_at": "2026-02-27 05:00:52",
       "album": {
-        "name": "Missing",
-        "url": "https://open.spotify.com/album/63z2McWDqC8jLc2vFNZIBW"
+        "name": "one4u",
+        "url": "https://open.spotify.com/album/7GzKdWFhCzGI7atbZglKuF"
       },
       "artists": [
         {
-          "name": "Ethanplus",
-          "url": "https://open.spotify.com/artist/6BjkYyzfLLbbHn8SBpjh6s"
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
         }
       ],
-      "duration_ms": 108862,
-      "name": "Missing",
-      "url": "https://open.spotify.com/track/5H2Y0X0FN3vMt4lRvdi5dJ"
+      "duration_ms": 255428,
+      "name": "one4u",
+      "url": "https://open.spotify.com/track/22QyJJgibWEtYCXxTQlbOh"
     },
     {
       "added_at": "2026-02-18 19:24:40",
@@ -327,6 +451,50 @@
       "duration_ms": 166500,
       "name": "I Want Him To Love Me",
       "url": "https://open.spotify.com/track/7hsHgvBdh5ZRGrvXiRuH6L"
+    },
+    {
+      "added_at": "2025-12-19 05:00:37",
+      "album": {
+        "name": "alliWantforXMASisurRemix",
+        "url": "https://open.spotify.com/album/2u4oWCijaOyc94QtYXMqoY"
+      },
+      "artists": [
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        },
+        {
+          "name": "dj g2g",
+          "url": "https://open.spotify.com/artist/3TnlUNMMrwW2IYrlBDTygL"
+        },
+        {
+          "name": "Mega Mongoliad",
+          "url": "https://open.spotify.com/artist/6xHMrHVijOcbhaRLAMnCLT"
+        },
+        {
+          "name": "PZZS",
+          "url": "https://open.spotify.com/artist/1h27s7BnaBATagMAgDOcDF"
+        }
+      ],
+      "duration_ms": 179612,
+      "name": "LoveKGirls - + dj g2g & PZZS in the club remix",
+      "url": "https://open.spotify.com/track/50EaFn7229y7hVF51avRuj"
+    },
+    {
+      "added_at": "2026-02-27 05:00:52",
+      "album": {
+        "name": "Oh My",
+        "url": "https://open.spotify.com/album/0b96OmXwEdvmsuTcH2iPt8"
+      },
+      "artists": [
+        {
+          "name": "Debbie Sings",
+          "url": "https://open.spotify.com/artist/5xrpKIIiDNRsPVOi0nYlkW"
+        }
+      ],
+      "duration_ms": 123897,
+      "name": "Leave This City",
+      "url": "https://open.spotify.com/track/1WgazhZVgvqkbTobFvqrnq"
     },
     {
       "added_at": "2026-02-20 05:00:48",
@@ -377,6 +545,42 @@
       "url": "https://open.spotify.com/track/1OYbnkHajQqvBNbe1vYmR1"
     },
     {
+      "added_at": "2026-02-27 05:00:52",
+      "album": {
+        "name": "Heart Eyez",
+        "url": "https://open.spotify.com/album/4DujZQvETKRFVOkTdufiLn"
+      },
+      "artists": [
+        {
+          "name": "Disco Shrine",
+          "url": "https://open.spotify.com/artist/1IkijWWvTvWKuZ90kHwdHA"
+        }
+      ],
+      "duration_ms": 176363,
+      "name": "Heart Eyez",
+      "url": "https://open.spotify.com/track/0noc6kyXQdeVTEnp3dzw6s"
+    },
+    {
+      "added_at": "2025-11-21 05:00:35",
+      "album": {
+        "name": "Fuck My Computer (Frost Children Remix)",
+        "url": "https://open.spotify.com/album/3mkVo55KYmJAxy21rPssZ4"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 197956,
+      "name": "Fuck My Computer - Frost Children Remix",
+      "url": "https://open.spotify.com/track/4msZzTP3dJlqmHRhUb4v3f"
+    },
+    {
       "added_at": "2026-02-20 05:00:48",
       "album": {
         "name": "SEE SEE WHERE WE GO",
@@ -407,34 +611,6 @@
       "duration_ms": 159187,
       "name": "THESE CORPORATE BITCHES TRYNA KILL ME!!!",
       "url": "https://open.spotify.com/track/5WX0xRJtM4Hyt1HQGx2sgU"
-    },
-    {
-      "added_at": "2025-12-19 05:00:37",
-      "album": {
-        "name": "alliWantforXMASisurRemix",
-        "url": "https://open.spotify.com/album/2u4oWCijaOyc94QtYXMqoY"
-      },
-      "artists": [
-        {
-          "name": "Alice Longyu Gao",
-          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
-        },
-        {
-          "name": "dj g2g",
-          "url": "https://open.spotify.com/artist/3TnlUNMMrwW2IYrlBDTygL"
-        },
-        {
-          "name": "Mega Mongoliad",
-          "url": "https://open.spotify.com/artist/6xHMrHVijOcbhaRLAMnCLT"
-        },
-        {
-          "name": "PZZS",
-          "url": "https://open.spotify.com/artist/1h27s7BnaBATagMAgDOcDF"
-        }
-      ],
-      "duration_ms": 179612,
-      "name": "LoveKGirls - + dj g2g & PZZS in the club remix",
-      "url": "https://open.spotify.com/track/50EaFn7229y7hVF51avRuj"
     },
     {
       "added_at": "2026-01-23 05:00:24",
@@ -659,22 +835,6 @@
       "duration_ms": 186857,
       "name": "Midnight Princess",
       "url": "https://open.spotify.com/track/5KhhQHOEdUL0I8tL4917pz"
-    },
-    {
-      "added_at": "2026-01-16 05:00:36",
-      "album": {
-        "name": "Ouroboros",
-        "url": "https://open.spotify.com/album/6CQJoYJFq04SX9OOmlgrG7"
-      },
-      "artists": [
-        {
-          "name": "Yvnlazy",
-          "url": "https://open.spotify.com/artist/4wUL3pWLsoJRFQghAcnWlM"
-        }
-      ],
-      "duration_ms": 106031,
-      "name": "Ouroboros",
-      "url": "https://open.spotify.com/track/63boTXkmnOSIOSQnjp0FRO"
     },
     {
       "added_at": "2026-01-23 05:00:24",
@@ -923,22 +1083,6 @@
       "duration_ms": 296834,
       "name": "2026",
       "url": "https://open.spotify.com/track/0H03dWs6Z1RkvDsbmmuDFl"
-    },
-    {
-      "added_at": "2026-01-23 05:00:24",
-      "album": {
-        "name": "UP TO MY NECK IN U",
-        "url": "https://open.spotify.com/album/0RXNiEjTJiYafYlOMo6KkV"
-      },
-      "artists": [
-        {
-          "name": "Ledbyher",
-          "url": "https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s"
-        }
-      ],
-      "duration_ms": 137440,
-      "name": "UP TO MY NECK IN U",
-      "url": "https://open.spotify.com/track/6Gcf36dXcnt1QE9s1hmzfF"
     },
     {
       "added_at": "2026-01-16 05:00:36",
@@ -1229,22 +1373,6 @@
       "url": "https://open.spotify.com/track/3sGNs97yV0MOz5KrHtlJ6t"
     },
     {
-      "added_at": "2026-01-23 05:00:24",
-      "album": {
-        "name": "iAmAcitykidiliveintheplAzAhotel",
-        "url": "https://open.spotify.com/album/4jPSTQKGWjj40ZwWh8xyhl"
-      },
-      "artists": [
-        {
-          "name": "orlik",
-          "url": "https://open.spotify.com/artist/5ypY2kcdpE3ce1OuAKzPUe"
-        }
-      ],
-      "duration_ms": 151587,
-      "name": "iAmAcitykidiliveintheplAzAhotel",
-      "url": "https://open.spotify.com/track/3VMRbEESulyIiyfYjfp8jK"
-    },
-    {
       "added_at": "2025-12-05 05:00:23",
       "album": {
         "name": "MAKE IT RIGHT",
@@ -1429,26 +1557,6 @@
       "url": "https://open.spotify.com/track/2XxOiXJVFypLC7mlCtBofY"
     },
     {
-      "added_at": "2025-11-21 05:00:35",
-      "album": {
-        "name": "Dreamsong",
-        "url": "https://open.spotify.com/album/5HxSpdvEzUDcJFsdlCSvsG"
-      },
-      "artists": [
-        {
-          "name": "GORPCORP",
-          "url": "https://open.spotify.com/artist/6HTa2yOtL4iZCNVO26WDZE"
-        },
-        {
-          "name": "Roy",
-          "url": "https://open.spotify.com/artist/00ohr6OIRg7iK2rG128kSf"
-        }
-      ],
-      "duration_ms": 226829,
-      "name": "Dreamsong",
-      "url": "https://open.spotify.com/track/0WgGzBW76xQPQXZB6U0YLF"
-    },
-    {
       "added_at": "2025-11-28 20:55:54",
       "album": {
         "name": "Final Song (bod [\u5305\u5bb6\u5df7] Remix)",
@@ -1551,26 +1659,6 @@
       "duration_ms": 190577,
       "name": "Fuck My Computer",
       "url": "https://open.spotify.com/track/5ZbztTcvj6QWWbeYsL4GTa"
-    },
-    {
-      "added_at": "2025-10-17 04:00:51",
-      "album": {
-        "name": "Copycats",
-        "url": "https://open.spotify.com/album/0KJ0nrsNiDP2bAbW0OBgmd"
-      },
-      "artists": [
-        {
-          "name": "Danny Brown",
-          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
-        },
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 171426,
-      "name": "Copycats",
-      "url": "https://open.spotify.com/track/0N8aH4DmGUEZWJMo6WVPbY"
     },
     {
       "added_at": "2026-01-06 19:47:29",
@@ -1705,22 +1793,6 @@
       "url": "https://open.spotify.com/track/1qTwZ9i3lHfDeqgjSFQFVs"
     },
     {
-      "added_at": "2026-01-06 19:47:29",
-      "album": {
-        "name": "SwedishWinterDepression",
-        "url": "https://open.spotify.com/album/0WQiuNJTLa46pN1oi297rt"
-      },
-      "artists": [
-        {
-          "name": "Yony x Malla",
-          "url": "https://open.spotify.com/artist/6eeNVSWhipIRmCDMal0zRT"
-        }
-      ],
-      "duration_ms": 100500,
-      "name": "SwedishWinterDepression",
-      "url": "https://open.spotify.com/track/2amgwr4hJ5sYWO6OlMupr7"
-    },
-    {
       "added_at": "2025-11-14 05:00:39",
       "album": {
         "name": "Big Dog",
@@ -1755,26 +1827,6 @@
       "duration_ms": 226606,
       "name": "Azimuth",
       "url": "https://open.spotify.com/track/5eLQyZ8kZKFRukO1mIAXKQ"
-    },
-    {
-      "added_at": "2025-11-07 05:21:43",
-      "album": {
-        "name": "Uhh mientes",
-        "url": "https://open.spotify.com/album/2pOrQBifjCUbmnGpi1w7nw"
-      },
-      "artists": [
-        {
-          "name": "lucigarci",
-          "url": "https://open.spotify.com/artist/3p0R6mcL8V0U23UVv3vAOg"
-        },
-        {
-          "name": "60k Cvndy",
-          "url": "https://open.spotify.com/artist/3DYX3dAFVcFm28EObj4j3x"
-        }
-      ],
-      "duration_ms": 102954,
-      "name": "Uhh mientes",
-      "url": "https://open.spotify.com/track/726bJogFdJlyj9fAkbR7bv"
     },
     {
       "added_at": "2025-09-12 04:00:15",
@@ -1867,22 +1919,6 @@
     {
       "added_at": "2025-09-12 04:00:15",
       "album": {
-        "name": "Airglow",
-        "url": "https://open.spotify.com/album/2aPKoJXKtbfzZHbI6gVzyB"
-      },
-      "artists": [
-        {
-          "name": "DJ_Dave",
-          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
-        }
-      ],
-      "duration_ms": 290571,
-      "name": "Airglow",
-      "url": "https://open.spotify.com/track/1vczvREfjA7ZVXpdpthnoE"
-    },
-    {
-      "added_at": "2025-09-12 04:00:15",
-      "album": {
         "name": "Expression On Your Face",
         "url": "https://open.spotify.com/album/0SylYxgzz1dgwuN4ItVB3u"
       },
@@ -1959,22 +1995,6 @@
       "duration_ms": 107175,
       "name": "What a shame i love you too",
       "url": "https://open.spotify.com/track/6VP6nTZ2QBf0kQj8RdAnuZ"
-    },
-    {
-      "added_at": "2025-09-19 04:00:38",
-      "album": {
-        "name": "techno s3x!",
-        "url": "https://open.spotify.com/album/2PVldRuU7VY5l29EHD4FBc"
-      },
-      "artists": [
-        {
-          "name": "RIXXIA",
-          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
-        }
-      ],
-      "duration_ms": 145918,
-      "name": "techno s3x!",
-      "url": "https://open.spotify.com/track/3TWPapEzNeVlkPqCIMDxpe"
     },
     {
       "added_at": "2025-09-12 04:00:15",
@@ -2103,22 +2123,6 @@
     {
       "added_at": "2025-09-12 04:00:15",
       "album": {
-        "name": "body (i want you)",
-        "url": "https://open.spotify.com/album/4WsjE465wN3CQaej44DddW"
-      },
-      "artists": [
-        {
-          "name": "rouri404",
-          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "body (i want you)",
-      "url": "https://open.spotify.com/track/3y8Ek4gLumZB1wMsIzbNsH"
-    },
-    {
-      "added_at": "2025-09-12 04:00:15",
-      "album": {
         "name": "Sleazy",
         "url": "https://open.spotify.com/album/4cF938Qm270hJg30XOrO75"
       },
@@ -2179,22 +2183,6 @@
       "duration_ms": 180735,
       "name": "GET HIGHER",
       "url": "https://open.spotify.com/track/3MiqSOZesQI2NctPFdSyzP"
-    },
-    {
-      "added_at": "2025-09-12 04:00:15",
-      "album": {
-        "name": "WHERE U R (angel with no feathers)",
-        "url": "https://open.spotify.com/album/35AW97hJFk1kd3yRhzuoK6"
-      },
-      "artists": [
-        {
-          "name": "FiFi Zhang",
-          "url": "https://open.spotify.com/artist/059v3EegVz2AonSh0Ro75Y"
-        }
-      ],
-      "duration_ms": 159750,
-      "name": "WHERE U R (angel with no feathers)",
-      "url": "https://open.spotify.com/track/3G8ZoCkS3o9EGrF9W8VmvQ"
     },
     {
       "added_at": "2025-09-12 04:00:15",

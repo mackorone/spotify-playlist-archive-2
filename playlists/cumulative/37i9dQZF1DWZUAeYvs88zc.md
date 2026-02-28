@@ -4,7 +4,7 @@
 
 > I didn’t do my makeup just to cry!<br/>chloe moriondo on the cover.
 
-613 songs - 1 day 10 hr 21 min
+614 songs - 1 day 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Alchemy \(Living Is Not For The Heart\)](https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [Again, for the first time](https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd) | 3:39 | 2025-11-07 |  |
 | [All I Want](https://open.spotify.com/track/1v6svH1Fyx9C1nIt1mA2DT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack\)](https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI) | 2:57 | 2020-02-25 | 2025-05-28 |
 | [All Love](https://open.spotify.com/track/7iv32XEy2HlM7PqQO4lp5f) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [you ruined new york city for me](https://open.spotify.com/album/4aGGhfTv8mJ9JAiz8dsa0L) | 3:13 | 2019-09-21 | 2022-09-26 |
-| [All You Had To Do Was Stay](https://open.spotify.com/track/0dAb8TY433dl3ZfXYCLE19) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:13 | 2019-11-18 |  |
+| [All You Had To Do Was Stay](https://open.spotify.com/track/0dAb8TY433dl3ZfXYCLE19) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:13 | 2019-11-18 | 2026-02-28 |
 | [all\-american bitch](https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:45 | 2024-01-26 | 2025-05-28 |
 | [Am I Alright](https://open.spotify.com/track/2OZJWIhTXHL3UKJmhG5kxq) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Am I Alright](https://open.spotify.com/album/3b68VqtD6JXCG5NlVo0QTH) | 3:34 | 2021-10-23 | 2022-07-29 |
 | [American Teenager](https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 4:18 | 2024-01-26 |  |
@@ -376,6 +376,7 @@
 | [Never Wanted This](https://open.spotify.com/track/1OayqR9ZUXeGJvUbKdeoaR) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG), [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [eight gardengate](https://open.spotify.com/album/4544NYUPO0Rafsdk4ctFr6) | 2:31 | 2022-11-11 | 2022-12-29 |
 | [Nevermind](https://open.spotify.com/track/2JKrC6yV9TckvJViTTj3WJ) | [Simone](https://open.spotify.com/artist/5k6BuuGye7fUjFvPOOJ8C2) | [Nevermind](https://open.spotify.com/album/4hG3kuD8ef0zVUHEsDcP16) | 3:09 | 2021-10-09 | 2022-07-29 |
 | [New Rules](https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9) | 3:29 | 2019-05-27 | 2021-05-28 |
+| [New Year's Eve](https://open.spotify.com/track/53hEGYyUpj3FYvQOCHVdo7) | [Ida Fiona](https://open.spotify.com/artist/0P1ms6USIpLYgcCZ9s1Xbm) | [New Year's Eve](https://open.spotify.com/album/2wcAjapN7Lyie2OpbLwBrw) | 2:51 | 2026-02-27 |  |
 | [Nicer](https://open.spotify.com/track/3mL3jFNJ2irVn02EdkYBu2) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Nicer](https://open.spotify.com/album/51HQqGdM5M4BBvSHEKaffN) | 3:22 | 2021-11-14 |  |
 | [Night Bus](https://open.spotify.com/track/4pCUMrVlDuWIk6X03VDvT2) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Miss You](https://open.spotify.com/album/6nuULOa2RTLwAFspmzc991) | 3:41 | 2019-05-26\* | 2021-09-24 |
 | [No Goodbyes](https://open.spotify.com/track/0mDGNetRxywxqgiXFbagZh) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9) | 3:36 | 2019-05-26\* | 2021-09-15 |

@@ -5047,6 +5047,24 @@
     },
     {
       "album": {
+        "name": "Mon enfer",
+        "url": "https://open.spotify.com/album/6f7PQlejKMWFvpZehP3uig"
+      },
+      "artists": [
+        {
+          "name": "Sullykzr",
+          "url": "https://open.spotify.com/artist/1B7eisw20jZOhrLMVHY2TW"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Mon enfer",
+      "url": "https://open.spotify.com/track/6rFtizFQZw5CjMOgqN8hLD"
+    },
+    {
+      "album": {
         "name": "Chaque Jour",
         "url": "https://open.spotify.com/album/0CeyLRFqUGCnk37rUv7WXd"
       },

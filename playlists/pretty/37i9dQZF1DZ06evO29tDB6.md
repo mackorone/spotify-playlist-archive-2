@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 
 > This is El Tri\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,328 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,335 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 | 26 | [Triste Canción de Amor](https://open.spotify.com/track/2dU6qhklHciuCpoKA8QOfu) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne), [Gerardo Guardia](https://open.spotify.com/artist/7F6wmzeL2p5MCZalXhuJdt) | [Rayito Colombiano y los Grandes Compositores](https://open.spotify.com/album/5EMKs9y5YoQjNRv0TuEbAm) | 3:26 |
 | 27 | [Que viva el rocanrol \- En vivo](https://open.spotify.com/track/21vlXzWrTG8PaMcBgPIIiZ) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [20 Grandes Exitos](https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq) | 3:14 |
 | 28 | [La raza más chida](https://open.spotify.com/track/0i2V6Z7OWEP7VvA1Dhk3ll) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:10 |
-| 29 | [San Juanico](https://open.spotify.com/track/5yfAPz7Qac8QzSLRw4iIdL) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Simplemente](https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y) | 5:25 |
-| 30 | [El hablador](https://open.spotify.com/track/7CmVmboIpe4bgIQJi4hk5v) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [25 años](https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L) | 2:50 |
+| 29 | [El hablador](https://open.spotify.com/track/7CmVmboIpe4bgIQJi4hk5v) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [25 años](https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L) | 2:50 |
+| 30 | [San Juanico](https://open.spotify.com/track/5yfAPz7Qac8QzSLRw4iIdL) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Simplemente](https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y) | 5:25 |
 | 31 | [Nunca digas que no](https://open.spotify.com/track/1PfgTzxz8fqqOjIIO81ZXy) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [20 Grandes Exitos](https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq) | 5:14 |
 | 32 | [Sara](https://open.spotify.com/track/30E7fZpUC0Cdw1E62BRxb3) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Otra tocada más](https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z) | 3:44 |
 | 33 | [Hoyos en la bolsa](https://open.spotify.com/track/4OqLK8rKx9nHAUVIKCsMVi) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Hoyos en la bolsa](https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw) | 3:37 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 | 47 | [Sópleme usted primero](https://open.spotify.com/track/1sdKHMIGRYs7FDZvha1wAp) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Simplemente](https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y) | 4:33 |
 | 48 | [Ya estamos hartos](https://open.spotify.com/track/221Kj107g9kqy0bNOk6uKc) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [El Tri Sinfónico II](https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr) | 3:41 |
 | 49 | [Presta](https://open.spotify.com/track/482M2V0cYuCHXAMLyJ56Nt) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 3:50 |
-| 50 | [Hasta que el cuerpo aguante](https://open.spotify.com/track/0KCzMpVMHbNASNzegF5miF) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Hecho en México](https://open.spotify.com/album/369wsc0pjkUa9W6zUn0iz7) | 2:09 |
+| 50 | [Chavo de onda \- Live](https://open.spotify.com/track/7haAS6bTEJHz5at86CAG9g) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [MTV Unplugged](https://open.spotify.com/album/1fK1XSbmTDH2UDBTXqj5bE) | 6:03 |
 
-Snapshot ID: `aZ47gAAAAADeMGAn4sZaE7Xv9+T+6+EL`
+Snapshot ID: `aZ+NAAAAAAA0a+sumzLN3NZehKwXCRYN`

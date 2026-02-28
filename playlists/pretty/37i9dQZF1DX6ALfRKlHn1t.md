@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 
 > the soundtrack for your vitamin d fix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,146,378 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,146,356 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 11 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
 | 12 | [Rainbow](https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd) | 3:15 |
 | 13 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 |
-| 14 | [Delete Ya](https://open.spotify.com/track/7tFI5cqfAoR7MIvmbw1qd8) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux](https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ) | 3:23 |
-| 15 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 |
+| 14 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 |
+| 15 | [Delete Ya](https://open.spotify.com/track/7tFI5cqfAoR7MIvmbw1qd8) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux](https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ) | 3:23 |
 | 16 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
 | 17 | [Back To Me](https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:34 |
 | 18 | [Beaches](https://open.spotify.com/track/1a19jsjG2DvbN1fVJonKUU) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 3:50 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 49 | [I Think I Like You](https://open.spotify.com/track/6yOxL1xfPkv9Z9zvpNrMDU) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Band CAMINO](https://open.spotify.com/album/1N5ZRHDLAv92FHZ4fRYhCi) | 3:02 |
 | 50 | [adios](https://open.spotify.com/track/7BkLfZnv7DJdJJ9wWj8Vdv) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [It’s Never Fair, Always True](https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES) | 3:23 |
 | 51 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 |
-| 52 | [Tiny Moves](https://open.spotify.com/track/4yTqr0F1vVAY2pUCRiRpr9) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:48 |
-| 53 | [And a Big Load](https://open.spotify.com/track/2Oo8nMqcHm1pKZUgm4l3ln) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [The Sound a Body Makes When It's Still](https://open.spotify.com/album/0HMgzw7KIZ7gnmkfeOxCs6) | 2:53 |
+| 52 | [And a Big Load](https://open.spotify.com/track/2Oo8nMqcHm1pKZUgm4l3ln) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [The Sound a Body Makes When It's Still](https://open.spotify.com/album/0HMgzw7KIZ7gnmkfeOxCs6) | 2:53 |
+| 53 | [Tiny Moves](https://open.spotify.com/track/4yTqr0F1vVAY2pUCRiRpr9) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:48 |
 | 54 | [Colorado](https://open.spotify.com/track/35iR1qzexmbcUSgA01S4gI) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Trip Tape](https://open.spotify.com/album/707cK3j40hIquI15sOcYXP) | 2:54 |
 | 55 | [Tidal Wave](https://open.spotify.com/track/384TqRlwlMfeUAODhXfF3O) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 3:31 |
 | 56 | [Ghosts \(From The Runarounds Original Series\)](https://open.spotify.com/track/5hd4iDjOQzE2KMYHjb1H0P) | [The Runarounds](https://open.spotify.com/artist/6G6I2kNqaE0oDRygzPRGeY) | [The Runarounds \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/67YYD5G443iLSj4t2NCBUD) | 2:43 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 63 | [Wreckage](https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 5:00 |
 | 64 | [Barrio Hustle](https://open.spotify.com/track/6UK4epTqVwWpeFfslXecth) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t) | 3:14 |
 | 65 | [Nowhere To Run](https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:40 |
-| 66 | [Insomnia](https://open.spotify.com/track/35Z7oHhfYZJ5KTAG87nWPb) | [The Moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia](https://open.spotify.com/album/14VtoUzT2LOwUwyZPbCKY1) | 3:12 |
-| 67 | [Down Swinging](https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [work in progress](https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5) | 2:56 |
+| 66 | [Down Swinging](https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [work in progress](https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5) | 2:56 |
+| 67 | [Insomnia](https://open.spotify.com/track/35Z7oHhfYZJ5KTAG87nWPb) | [The Moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia](https://open.spotify.com/album/14VtoUzT2LOwUwyZPbCKY1) | 3:12 |
 | 68 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
 | 69 | [Giving Up Air](https://open.spotify.com/track/5BnRN1Qqnl7MntWLzsZ9kE) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Giving Up Air](https://open.spotify.com/album/4foiPmpx9aPyoWs37TRVb1) | 4:47 |
 | 70 | [Someday \- Remastered](https://open.spotify.com/track/6NcHJ23mLQKnVxQcOmT7JW) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [The Best Of Sugar Ray](https://open.spotify.com/album/2hjQQj7x2YipViOCw6UX1N) | 4:03 |

@@ -750,7 +750,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 215639,
       "name": "Cayeron L\u00e1grimas",
       "url": "https://open.spotify.com/track/3awaeive1cSrGalmCHOFtK"
@@ -1078,6 +1078,24 @@
       "duration_ms": 192646,
       "name": "De Polic\u00eda a Ladr\u00f3n",
       "url": "https://open.spotify.com/track/1jebYwGYhXdIpehhcKyJTt"
+    },
+    {
+      "album": {
+        "name": "Respira: Vol 1",
+        "url": "https://open.spotify.com/album/2WsFttKsztYbXLVD8Qtc03"
+      },
+      "artists": [
+        {
+          "name": "Beto Cuevas",
+          "url": "https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207683,
+      "name": "De Volver a Comenzar",
+      "url": "https://open.spotify.com/track/7aUCXhB4HReQZxJbpJoqAt"
     },
     {
       "album": {
@@ -2532,7 +2550,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 192291,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/61WO3yJRK8S39cmHetyw1J"
@@ -5884,7 +5902,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 208298,
       "name": "Ya No Te Esperar\u00e9",
       "url": "https://open.spotify.com/track/5qJMvyGIJryYsDQ8SVStQ0"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,218 likes - 324 songs - 17 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,219 likes - 324 songs - 17 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 108 | [That's What I Get](https://open.spotify.com/track/0koOtMGSYQSbaUpSCoL9Kh) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [WILD CHILD](https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR) | 2:30 |
 | 109 | [Paranoid](https://open.spotify.com/track/6uuslD9HHSfs5uOKvwpqkn) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/2iIqqSVeH04ytD0DIWrrA6) | 3:12 |
 | 110 | [Lonely Eyes](https://open.spotify.com/track/0r4l1Eco6JEbeexC8dEawI) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:16 |
-| 111 | [Julia](https://open.spotify.com/track/12YVZ3Tg4LyAJNsMJVtwQq) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:38 |
-| 112 | [nobody \(make me feel\)](https://open.spotify.com/track/72qknjLxZXE6iE6h27sIHY) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [nobody \(make me feel\)](https://open.spotify.com/album/3eeriHqB4mrrlzqFwdpjHQ) | 2:45 |
+| 111 | [nobody \(make me feel\)](https://open.spotify.com/track/72qknjLxZXE6iE6h27sIHY) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [nobody \(make me feel\)](https://open.spotify.com/album/3eeriHqB4mrrlzqFwdpjHQ) | 2:45 |
+| 112 | [Julia](https://open.spotify.com/track/12YVZ3Tg4LyAJNsMJVtwQq) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:38 |
 | 113 | [Get By](https://open.spotify.com/track/6Aq8FRLvUNzBNCgCQ3PsXT) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:40 |
 | 114 | [Echo \(feat\. blackbear\)](https://open.spotify.com/track/54WpJSyO81dpA40MKJHd0C) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 2:58 |
 | 115 | [Runaway](https://open.spotify.com/track/60sX1vz8ToXYuaAvW5sYMs) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Runaway](https://open.spotify.com/album/6wLkmUYF8riWVznDJQTsJ1) | 2:33 |
@@ -333,4 +333,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 323 | [Dancehall](https://open.spotify.com/track/4GpqmcUvJcY5XJcwLSxMOi) | [Xternal](https://open.spotify.com/artist/1ddhUGauGANGPAmaUpgfvY) | [Old Fan Riddim](https://open.spotify.com/album/3egAD2whk3pAz5jMj13XyU) | 3:16 |
 | 324 | [Aliens](https://open.spotify.com/track/3n5lE0vC4SOb3tKP1h1fVD) | [The Dudley Corporation](https://open.spotify.com/artist/7Ch6Iyny8xZOqGcKbg1TEd) | [What a Human Does](https://open.spotify.com/album/3QdQhjtaMNBpwNgK1VwAR4) | 2:19 |
 
-Snapshot ID: `AcKvFAAAAAAYxi15vkH4X4BzccIhuDyb`
+Snapshot ID: `AcK0tAAAAAAiGlS0+qshmns1/BFkiEct`

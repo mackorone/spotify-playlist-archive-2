@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,196 songs - 2 day 3 hr 42 min
+1,197 songs - 2 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1149,6 +1149,7 @@
 | [When The Beat Drops Out](https://open.spotify.com/track/0TV5O9DZxQ561w1fNc0TSg) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77), [Luna Serenade](https://open.spotify.com/artist/1GmIz6AGIA1KTzqltGRkJJ) | [When The Beat Drops Out](https://open.spotify.com/album/5BLj4vYsELaoM95lOU2Ogg) | 2:24 | 2024-10-03 | 2025-07-29 |
 | [When Tomorrow Comes](https://open.spotify.com/track/5yHxG2tJuvjhp9OLodQI8k) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16) | [When Tomorrow Comes](https://open.spotify.com/album/1VHPLsguIyg5fQSiD4P0o3) | 2:28 | 2024-06-30 | 2024-08-05 |
 | [When You Say Nothing At All](https://open.spotify.com/track/0QHaoHqQjO5mOnQS0J4Siq) | [Edwardo Atlas](https://open.spotify.com/artist/7fafcnfLroOhtWlp6Xh7j7), [Daniel Santoro](https://open.spotify.com/artist/2LwSighkNo49filvTvJmBz) | [When You Say Nothing At All](https://open.spotify.com/album/67zfrviWrmvLtJYSv78qAd) | 2:28 | 2024-07-13 | 2024-08-08 |
+| [Where Did I Go Wrong](https://open.spotify.com/track/2gLyCwM826WDiYfsmbXUF6) | [Moosa Saleem](https://open.spotify.com/artist/16m66acFCoUlPwjQf9D6fN), [Anna\-Sophia Henry](https://open.spotify.com/artist/7eMgHO3ZOlcpWKM3OFnnS8), [Calm Springs](https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb) | [Where Did I Go Wrong](https://open.spotify.com/album/5u2HI552urUyOPxAGhZPNL) | 2:38 | 2026-02-27 |  |
 | [Where Did The Time Go](https://open.spotify.com/track/7qVNpUuHogmiiTMQyN9ykB) | [Dela Utca](https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X) | [Where Did The Time Go](https://open.spotify.com/album/7z6kWYCL516BpwQ30PxfHP) | 2:13 | 2025-07-27 | 2025-09-01 |
 | [Where Did You Go](https://open.spotify.com/track/7IgtNA3fFMnTHD0ZluzBOi) | [Menza](https://open.spotify.com/artist/1He0fcv3xRjliYzR7I84q7), [Aexcit](https://open.spotify.com/artist/2HpYCHV3bvQ71jmohAnBL8), [WILS](https://open.spotify.com/artist/2s7MSmBHBen5bxastq4E0O) | [Where Did You Go](https://open.spotify.com/album/2i7RzsHlqxeOg9am4xUYzg) | 2:31 | 2024-09-29 | 2024-11-11 |
 | [Where Do I Go From Here](https://open.spotify.com/track/5F4tGSHXstulX0NpVz2ikX) | [Usually Quiet](https://open.spotify.com/artist/1O1HvB6EYifPQ5udFJnL6j), [Orum Palmer](https://open.spotify.com/artist/637tlebsGGKK8skncgWsrN), [Emma Cutajar](https://open.spotify.com/artist/0JxsnWIDtWP1CfXeuYyVqA) | [Where Do I Go From Here](https://open.spotify.com/album/2lXM51nk4xyrKOT5afJl9X) | 3:01 | 2023-10-27 | 2024-04-16 |

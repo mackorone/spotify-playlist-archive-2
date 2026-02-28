@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 97851,
+  "num_followers": 97856,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAADJr8dIMpcYihIY+UVKa85X",
+  "snapshot_id": "aZ+NAAAAAACPvls9MFAZ8h3UUAfMk/J+",
   "tracks": [
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homenaje a Jes\u00fas",
-        "url": "https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 321619,
-      "name": "Somos el pueblo de Dios",
-      "url": "https://open.spotify.com/track/3MF7cqKTCqQ6Xm8Pe2igJh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu y Yo",
         "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
       },
@@ -623,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venci\u00f3",
-        "url": "https://open.spotify.com/album/4rhVnJvuqXXEnaTbH3EaWw"
+        "name": "Homenaje a Jes\u00fas",
+        "url": "https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J"
       },
       "artists": [
         {
@@ -632,9 +616,9 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 248893,
-      "name": "Al que es Digno",
-      "url": "https://open.spotify.com/track/14ZqaxUjFW2Fhq5CcJ5mhm"
+      "duration_ms": 321619,
+      "name": "Somos el pueblo de Dios",
+      "url": "https://open.spotify.com/track/3MF7cqKTCqQ6Xm8Pe2igJh"
     },
     {
       "added_at": null,
@@ -651,6 +635,22 @@
       "duration_ms": 165147,
       "name": "Porque T\u00fa Eres bueno",
       "url": "https://open.spotify.com/track/6MRlSkOGex4cx3fcusHFtU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Venci\u00f3",
+        "url": "https://open.spotify.com/album/4rhVnJvuqXXEnaTbH3EaWw"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 248893,
+      "name": "Al que es Digno",
+      "url": "https://open.spotify.com/track/14ZqaxUjFW2Fhq5CcJ5mhm"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dios de Pactos",
-        "url": "https://open.spotify.com/album/4YCOrXZRsLWvj9BZBTS2AR"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 651080,
-      "name": "Dios De Pactos",
-      "url": "https://open.spotify.com/track/4wFBzIA7HuaaGz89DQnWyo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sana Nuestra Tierra",
         "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 358086,
       "name": "Mi Primer Amor",
       "url": "https://open.spotify.com/track/6Ba2sP6ehhMlwNKHcverwl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dios de Pactos",
+        "url": "https://open.spotify.com/album/4YCOrXZRsLWvj9BZBTS2AR"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 651080,
+      "name": "Dios De Pactos",
+      "url": "https://open.spotify.com/track/4wFBzIA7HuaaGz89DQnWyo"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sana Nuestra Tierra",
+        "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 412708,
+      "name": "Sananos",
+      "url": "https://open.spotify.com/track/3pf1Pa1b4Vd1KuilOA0CpH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu Iglesia",
         "url": "https://open.spotify.com/album/3lb9AFreeW6mc0jx5NKcxP"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 355417,
       "name": "\u00c9l Siempre Reina",
       "url": "https://open.spotify.com/track/1iTKfYiWEj9MWVPeQMcW5l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sana Nuestra Tierra",
-        "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 412708,
-      "name": "Sananos",
-      "url": "https://open.spotify.com/track/3pf1Pa1b4Vd1KuilOA0CpH"
     },
     {
       "added_at": null,
@@ -895,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poderoso",
-        "url": "https://open.spotify.com/album/3ZpqmdCzScCDTslbgxPUkn"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 306599,
-      "name": "Cristo es Mi Se\u00f1or",
-      "url": "https://open.spotify.com/track/2xPa83ocADIZydAdeB9M6G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Coraz\u00f3n (En Vivo desde el Auditorio Nacional)",
         "url": "https://open.spotify.com/album/4T4uX4tt64Zhn3Ig2lcuNU"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 93254,
       "name": "Dios Ha Sido Bueno - En Vivo desde el Auditorio Nacional",
       "url": "https://open.spotify.com/track/2E4OmIhuppQYuBomMV37lx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poderoso",
+        "url": "https://open.spotify.com/album/3ZpqmdCzScCDTslbgxPUkn"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 306599,
+      "name": "Cristo es Mi Se\u00f1or",
+      "url": "https://open.spotify.com/track/2xPa83ocADIZydAdeB9M6G"
     }
   ],
   "unique_name": "This Is Marcos Witt",

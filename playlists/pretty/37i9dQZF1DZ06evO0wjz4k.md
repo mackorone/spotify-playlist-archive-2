@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wjz4k.md) - [plain]
 
 > This is Parker McCollum\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,478 likes - 46 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,482 likes - 46 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Handle On You](https://open.spotify.com/track/4reXo2zg1uhEIpUAacDb9C) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:39 |
 | 2 | [What Kinda Man](https://open.spotify.com/track/2uH74oFgwuk5x0DlD3EFJ1) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum](https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA) | 4:19 |
 | 3 | [Pretty Heart](https://open.spotify.com/track/7nINhyXn6uwUkYLY5KQH0K) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Gold Chain Cowboy](https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu) | 4:05 |
-| 4 | [Big Ole Fancy House](https://open.spotify.com/track/2O6518EoFdYebARB4PCEjH) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Big Ole Fancy House](https://open.spotify.com/album/0T1po3gtIUONgzpdM2BRYG) | 4:03 |
+| 4 | [Love \(feat\. Parker McCollum\)](https://open.spotify.com/track/12n0Z1dIlqXZYXx43MSHoG) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Noise Complaint](https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT) | 3:43 |
 | 5 | [Burn It Down](https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:53 |
-| 6 | [Love \(feat\. Parker McCollum\)](https://open.spotify.com/track/12n0Z1dIlqXZYXx43MSHoG) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Noise Complaint](https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT) | 3:43 |
+| 6 | [Big Ole Fancy House](https://open.spotify.com/track/2O6518EoFdYebARB4PCEjH) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Big Ole Fancy House](https://open.spotify.com/album/0T1po3gtIUONgzpdM2BRYG) | 4:03 |
 | 7 | [Hell of a Year](https://open.spotify.com/track/0kz85nFVQ3JzZo0CRG5SQc) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci) | 3:52 |
 | 8 | [Killin’ Me](https://open.spotify.com/track/2IRSpYsVphI0rZz93eqjrL) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum](https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA) | 3:17 |
 | 9 | [Young Man's Blues](https://open.spotify.com/track/6ywiHcxaHBR39gRhud37XK) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Young Man's Blues](https://open.spotify.com/album/5ix6PvaO7elQgjgLsxcb0j) | 3:26 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wjz4k.md) - [plain]
 | 45 | [Perfectly Lonely](https://open.spotify.com/track/0c3pzxjufIrG4oVwF99eqs) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Perfectly Lonely](https://open.spotify.com/album/6G4Z9dLR84a2xBEPBP4uMH) | 4:30 |
 | 46 | [Carrying Your Love With Me \- Spotify Singles](https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Carrying Your Love With Me \(Spotify Singles\)](https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8) | 4:03 |
 
-Snapshot ID: `aZ47gAAAAABH22Xluf74clH1iPz+z6FK`
+Snapshot ID: `aZ+NAAAAAADRQUPQ8Fke/tqz0Pow7x4f`

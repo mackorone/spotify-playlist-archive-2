@@ -1,6 +1,6 @@
 {
   "description": "Perreo con \u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25",
-  "num_followers": 444213,
+  "num_followers": 444244,
   "original_name": "Romantiqueo",
   "owner": {
     "name": "Spotify",
@@ -371,26 +371,6 @@
     {
       "added_at": "2026-01-22 23:00:53",
       "album": {
-        "name": "M\u00edrame",
-        "url": "https://open.spotify.com/album/5oCAS6VzHoESewtXUGMqbz"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 157453,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB"
-    },
-    {
-      "added_at": "2026-01-22 23:00:53",
-      "album": {
         "name": "MICRODOSIS",
         "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 202173,
       "name": "LA INOCENTE",
       "url": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W"
+    },
+    {
+      "added_at": "2026-01-22 23:00:53",
+      "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/5oCAS6VzHoESewtXUGMqbz"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 157453,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB"
     },
     {
       "added_at": "2026-01-22 23:00:53",
@@ -535,26 +535,6 @@
     {
       "added_at": "2026-01-22 23:00:53",
       "album": {
-        "name": "Inolvidable",
-        "url": "https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI"
-      },
-      "artists": [
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 225812,
-      "name": "Inolvidable",
-      "url": "https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF"
-    },
-    {
-      "added_at": "2026-01-22 23:00:53",
-      "album": {
         "name": "Volv\u00ed",
         "url": "https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 230125,
       "name": "Volv\u00ed",
       "url": "https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi"
+    },
+    {
+      "added_at": "2026-01-22 23:00:53",
+      "album": {
+        "name": "Inolvidable",
+        "url": "https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 225812,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF"
     },
     {
       "added_at": "2026-01-22 23:00:53",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-01-22 23:00:53",
       "album": {
+        "name": "ESTRELLA",
+        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 144427,
+      "name": "DONDE SE APRENDE A QUERER?",
+      "url": "https://open.spotify.com/track/0sfk352FO8bJUjWjIsyzSR"
+    },
+    {
+      "added_at": "2026-01-22 23:00:53",
+      "album": {
         "name": "Para Aventuras y Curiosidades",
         "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 204488,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/56f5qnyAlZdlz8wrUDA50h"
-    },
-    {
-      "added_at": "2026-01-22 23:00:53",
-      "album": {
-        "name": "ESTRELLA",
-        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 144427,
-      "name": "DONDE SE APRENDE A QUERER?",
-      "url": "https://open.spotify.com/track/0sfk352FO8bJUjWjIsyzSR"
     },
     {
       "added_at": "2026-01-22 23:00:53",
@@ -967,6 +967,26 @@
     {
       "added_at": "2026-01-22 23:00:53",
       "album": {
+        "name": "Historias de un Capricornio",
+        "url": "https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 221103,
+      "name": "Infeliz",
+      "url": "https://open.spotify.com/track/4z6wo6PJG4Fve45OXK6D9m"
+    },
+    {
+      "added_at": "2026-01-22 23:00:53",
+      "album": {
         "name": "Pareja Del A\u00f1o",
         "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 249520,
       "name": "Hola - Remix",
       "url": "https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt"
-    },
-    {
-      "added_at": "2026-01-22 23:00:53",
-      "album": {
-        "name": "Historias de un Capricornio",
-        "url": "https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 221103,
-      "name": "Infeliz",
-      "url": "https://open.spotify.com/track/4z6wo6PJG4Fve45OXK6D9m"
     },
     {
       "added_at": "2026-01-22 23:00:53",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-01-22 23:00:53",
       "album": {
+        "name": "SHORTY QUE TE VAYA BN <3",
+        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "SHORTY QUE TE VAYA BN <3",
+      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
+    },
+    {
+      "added_at": "2026-01-22 23:00:53",
+      "album": {
         "name": "BB ;(",
         "url": "https://open.spotify.com/album/2BKV4RKtmzWwWW8BSffI8U"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 180363,
       "name": "BB ;(",
       "url": "https://open.spotify.com/track/5KZ4EBaAXUEp6dyE6l00Ok"
-    },
-    {
-      "added_at": "2026-01-22 23:00:53",
-      "album": {
-        "name": "SHORTY QUE TE VAYA BN <3",
-        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "SHORTY QUE TE VAYA BN <3",
-      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
     },
     {
       "added_at": "2026-01-22 23:00:53",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-01-22 23:00:53",
       "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/54lqxBRUg66EYNyqKSKU5C"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 150853,
-      "name": "Rojo",
-      "url": "https://open.spotify.com/track/4uziEsK1yiqdauKVDPsmVG"
-    },
-    {
-      "added_at": "2026-01-22 23:00:53",
-      "album": {
         "name": "Como Antes",
         "url": "https://open.spotify.com/album/7FSHQn3g0X4Io2Q2U4PcKZ"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 142576,
       "name": "Como Antes",
       "url": "https://open.spotify.com/track/1ZR473PTTSHGcnyRyidBoA"
+    },
+    {
+      "added_at": "2026-01-22 23:00:53",
+      "album": {
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/54lqxBRUg66EYNyqKSKU5C"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 150853,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/4uziEsK1yiqdauKVDPsmVG"
     },
     {
       "added_at": "2026-01-22 23:00:53",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-01-22 23:00:53",
       "album": {
-        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
-        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 154081,
-      "name": "DEDICANDOME",
-      "url": "https://open.spotify.com/track/6DlsjtDtHj75XUzE7HtuY3"
-    },
-    {
-      "added_at": "2026-01-22 23:00:53",
-      "album": {
         "name": "777",
         "url": "https://open.spotify.com/album/6U2Ncrmi1EeBQQz2NNgh1M"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 209268,
       "name": "Felices Perdidos",
       "url": "https://open.spotify.com/track/5XJWVLhYE2tsa5vXlcgT3N"
+    },
+    {
+      "added_at": "2026-01-22 23:00:53",
+      "album": {
+        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
+        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 154081,
+      "name": "DEDICANDOME",
+      "url": "https://open.spotify.com/track/6DlsjtDtHj75XUzE7HtuY3"
     },
     {
       "added_at": "2026-01-22 23:00:53",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2026-01-22 23:00:53",
       "album": {
+        "name": "+Linda",
+        "url": "https://open.spotify.com/album/5ka8beHlVQAFdRm6IaZ9JQ"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 161748,
+      "name": "+Linda",
+      "url": "https://open.spotify.com/track/5cBrOhKDyiJF9bPGUHKkG0"
+    },
+    {
+      "added_at": "2026-01-22 23:00:53",
+      "album": {
         "name": "Whiskey y Coco",
         "url": "https://open.spotify.com/album/6MVcp3C5rcllaSyU9nhGrP"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 186477,
       "name": "Whiskey y Coco",
       "url": "https://open.spotify.com/track/0otoSS2m3QjbDLzsHMobgK"
-    },
-    {
-      "added_at": "2026-01-22 23:00:53",
-      "album": {
-        "name": "+Linda",
-        "url": "https://open.spotify.com/album/5ka8beHlVQAFdRm6IaZ9JQ"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 161748,
-      "name": "+Linda",
-      "url": "https://open.spotify.com/track/5cBrOhKDyiJF9bPGUHKkG0"
     },
     {
       "added_at": "2026-01-22 23:00:53",

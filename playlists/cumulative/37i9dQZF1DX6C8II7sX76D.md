@@ -4,7 +4,7 @@
 
 > pov: u hand the internet the aux
 
-374 songs - 19 hr 3 min
+375 songs - 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,8 @@
 | [Jiggle Jiggle \- Kideko Remix](https://open.spotify.com/track/0XGR13jGzZ68T6R0PVmQFH) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Louis Theroux](https://open.spotify.com/artist/016Rz5DsXUPPxosNTZLYcv), [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj) | [Jiggle Jiggle \(Kideko Remix\)](https://open.spotify.com/album/30FrwqPEGqukqqzdpNlpVc) | 3:38 | 2023-12-01 | 2023-12-13 |
 | [Jubel](https://open.spotify.com/track/2mpsKeLCbdXkwEpZRNi4XD) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel](https://open.spotify.com/album/2w2DVkRZJV2hG8vEndFwO7) | 4:43 | 2025-03-05 | 2025-04-26 |
 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-08-01 |  |
-| [Just the Way You Are](https://open.spotify.com/track/2kJo0J02qdTsD1omMouIro) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw) | [Star](https://open.spotify.com/album/5y263lsrcaKgIF6rWV3uXX) | 3:30 | 2026-02-13 |  |
+| [Just the Way You Are](https://open.spotify.com/track/2kJo0J02qdTsD1omMouIro) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw) | [Star](https://open.spotify.com/album/5y263lsrcaKgIF6rWV3uXX) | 3:30 | 2026-02-13 | 2026-02-28 |
+| [Just The Way You Are](https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Just The Way You Are](https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y) | 2:39 | 2026-02-27 |  |
 | [KEEP UP](https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [KEEP UP // FROSTBITE](https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY) | 2:13 | 2024-09-13 | 2025-05-28 |
 | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34) | 2:18 | 2024-07-26 |  |
 | [kompa pasión](https://open.spotify.com/track/1EwIdgeVfiXTIDfFHpgqfI) | [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2) | [kompa pasión](https://open.spotify.com/album/7e1ONcI4irpbaj0mYEyEdf) | 2:27 | 2024-04-12 | 2024-08-14 |

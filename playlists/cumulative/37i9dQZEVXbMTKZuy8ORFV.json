@@ -10356,7 +10356,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 197869,
       "name": "Dame Otro Motivo",
       "url": "https://open.spotify.com/track/40iaOidXr2AwfjXFqlWqcg"
@@ -16340,7 +16340,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-26",
+      "date_removed": null,
       "duration_ms": 159768,
       "name": "Fuerzas Pa'",
       "url": "https://open.spotify.com/track/6SsspmS2fecS6kMKEN3uEP"
@@ -17814,7 +17814,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 147613,
       "name": "Hasta Donde Te Quiero",
       "url": "https://open.spotify.com/track/5gcHIPUzf4WZwcgfJ7vHkq"
@@ -20170,7 +20170,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 148645,
       "name": "JETSKI",
       "url": "https://open.spotify.com/track/3jhyw60F61gc7nC4dblqtC"
@@ -22813,6 +22813,24 @@
     },
     {
       "album": {
+        "name": "Loop",
+        "url": "https://open.spotify.com/album/2kTHdT585hkQkJVWrybzqQ"
+      },
+      "artists": [
+        {
+          "name": "Jerri",
+          "url": "https://open.spotify.com/artist/5nkSIrT61FtbpWyM2fWdmK"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138897,
+      "name": "Loop",
+      "url": "https://open.spotify.com/track/0OD0jZsRWsC8FwKektKyA4"
+    },
+    {
+      "album": {
         "name": "Looping the Rooms / Lambent Aria",
         "url": "https://open.spotify.com/album/6MyiYxY7PsY0aHp1PjA5KM"
       },
@@ -24718,6 +24736,24 @@
       "duration_ms": 333517,
       "name": "Me Equivoqu\u00e9",
       "url": "https://open.spotify.com/track/42NCRp4TSQXohIcpnNECrJ"
+    },
+    {
+      "album": {
+        "name": "Me Fui Sin Hacer Ruido",
+        "url": "https://open.spotify.com/album/7fL4M8w64rSYepi4BCcg0w"
+      },
+      "artists": [
+        {
+          "name": "LINZAE LIR",
+          "url": "https://open.spotify.com/artist/7LGY1ZGeotpXgRRg5Wm9nf"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223596,
+      "name": "Me Fui Sin Hacer Ruido",
+      "url": "https://open.spotify.com/track/01dO9FVNNPIh2E3zIErN6k"
     },
     {
       "album": {
@@ -27264,7 +27300,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 208495,
       "name": "Moonwalkin'",
       "url": "https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY"
@@ -37754,7 +37790,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 424615,
       "name": "So what we get drunk? - Extended Version",
       "url": "https://open.spotify.com/track/231Crd29pPGdweClh2CoVO"
@@ -39606,7 +39642,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 137752,
       "name": "S\u00f3 Bund\u00e3o Grand\u00e3o",
       "url": "https://open.spotify.com/track/4QcbeYrzfyUBqnF5JU5Xt7"
@@ -41852,7 +41888,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 92365,
       "name": "TRILLIUM HARDTEKK",
       "url": "https://open.spotify.com/track/7hPwUxGo7YgQFFYDynDQwp"
@@ -42732,10 +42768,6 @@
         {
           "name": "mikeeysmind",
           "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
-        },
-        {
-          "name": "Belico",
-          "url": "https://open.spotify.com/artist/6f04rVzdeSu2uJv6ZB323r"
         }
       ],
       "date_added": "2026-02-25",

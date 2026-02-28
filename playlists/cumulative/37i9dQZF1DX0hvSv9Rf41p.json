@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with Levity + GRiZ",
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with Mary Droppinz",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -422,7 +422,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 193714,
       "name": "Act Up",
       "url": "https://open.spotify.com/track/1w4QnSXYTNNFtnV2NWPVrX"
@@ -760,6 +760,24 @@
       "duration_ms": 172224,
       "name": "Alarma",
       "url": "https://open.spotify.com/track/0BZWDVGgV3cmi7OOQftmrc"
+    },
+    {
+      "album": {
+        "name": "Alien Base",
+        "url": "https://open.spotify.com/album/450adZnRzeTT4ITCIATlSD"
+      },
+      "artists": [
+        {
+          "name": "AHEE",
+          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182325,
+      "name": "Alien Base",
+      "url": "https://open.spotify.com/track/5gTblOIiXXUU962sWyWUk3"
     },
     {
       "album": {
@@ -4457,6 +4475,28 @@
     },
     {
       "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/1vNP7Jup5IOXzQvgjIoub2"
+      },
+      "artists": [
+        {
+          "name": "Vibrvnt",
+          "url": "https://open.spotify.com/artist/5cXMKV6T9pq5VPSQoTdpJV"
+        },
+        {
+          "name": "ProbCause",
+          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143355,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/6vHfUI3h2F3PLc359w6Lwv"
+    },
+    {
+      "album": {
         "name": "Bout To Break",
         "url": "https://open.spotify.com/album/1L0BuVdCVXHlzR8zpfd9DS"
       },
@@ -5554,7 +5594,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 186947,
       "name": "Candy Shop Remix (feat. Olivia)",
       "url": "https://open.spotify.com/track/3sZky3MDf3hY6ZTO94gWbe"
@@ -7212,7 +7252,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 186000,
       "name": "Cyanide",
       "url": "https://open.spotify.com/track/37iVjhBGNBnxVSuF67TX0H"
@@ -8169,6 +8209,28 @@
     },
     {
       "album": {
+        "name": "DIAMONDS",
+        "url": "https://open.spotify.com/album/7l6QeXt2iCcNCYevmPidpD"
+      },
+      "artists": [
+        {
+          "name": "HerShe",
+          "url": "https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J"
+        },
+        {
+          "name": "Roto",
+          "url": "https://open.spotify.com/artist/0NHHS1FbPA2UVJfGfR9anL"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207887,
+      "name": "DIAMONDS",
+      "url": "https://open.spotify.com/track/0w1pczzsvV3CmYY9VlyeoO"
+    },
+    {
+      "album": {
         "name": "This Is Night Bass: Vol. 14",
         "url": "https://open.spotify.com/album/0vrgZVoQ9Z34ORVkyhNH8e"
       },
@@ -8564,7 +8626,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 159428,
       "name": "DMT",
       "url": "https://open.spotify.com/track/7hWzKjcvsPIYORcrQ3zIia"
@@ -8692,7 +8754,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 195692,
       "name": "Dominator",
       "url": "https://open.spotify.com/track/23zzImIajKFyKPlg6vKsbY"
@@ -13118,7 +13180,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 189843,
       "name": "GET LOUD",
       "url": "https://open.spotify.com/track/3hIanoKRYqpCaOUwl8RIiG"
@@ -13206,6 +13268,28 @@
       "duration_ms": 192140,
       "name": "Get Started - Mary Droppinz Remix",
       "url": "https://open.spotify.com/track/339mdwpecqoBHQEOWGOLnh"
+    },
+    {
+      "album": {
+        "name": "Get To You",
+        "url": "https://open.spotify.com/album/7r6kS0uznLWDiUaYcTff63"
+      },
+      "artists": [
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        },
+        {
+          "name": "Dani King",
+          "url": "https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243287,
+      "name": "Get To You",
+      "url": "https://open.spotify.com/track/4RSsnFYqVIyhmvQgM7gYFI"
     },
     {
       "album": {
@@ -13584,6 +13668,32 @@
       "duration_ms": 107793,
       "name": "Goblin Mode",
       "url": "https://open.spotify.com/track/5IbdRBgL9g3BqjT7PcbioK"
+    },
+    {
+      "album": {
+        "name": "Goddess",
+        "url": "https://open.spotify.com/album/26KY5Noaiuq6EZB5CTiEpC"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "Jaira Burns",
+          "url": "https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/3HD9GLv9hzwTPAkhmBIXKq"
     },
     {
       "album": {
@@ -18077,6 +18187,28 @@
     },
     {
       "album": {
+        "name": "l!sten",
+        "url": "https://open.spotify.com/album/3VDdMX2Cr34oAkZp7sgg7P"
+      },
+      "artists": [
+        {
+          "name": "Saka",
+          "url": "https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv"
+        },
+        {
+          "name": "Arya",
+          "url": "https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185589,
+      "name": "l!sten",
+      "url": "https://open.spotify.com/track/7wIxOG0GnM21WueiICVACR"
+    },
+    {
+      "album": {
         "name": "CYBER BLADE",
         "url": "https://open.spotify.com/album/1RShEQl3IL7YAJFLRV3OH2"
       },
@@ -19901,6 +20033,28 @@
     },
     {
       "album": {
+        "name": "Jesus Loves Trap Music",
+        "url": "https://open.spotify.com/album/7BKAq3ux4qhQXwGdGxSv5r"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Aida Sofia",
+          "url": "https://open.spotify.com/artist/0QxPOCNkDNs3qaA1p5PzQu"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188721,
+      "name": "Lucid",
+      "url": "https://open.spotify.com/track/6qTzPNNmXsGy5aq7EHs0S4"
+    },
+    {
+      "album": {
         "name": "Lunar Fade EP",
         "url": "https://open.spotify.com/album/5RSoWqY5AOCAJz62eP1CJB"
       },
@@ -20084,7 +20238,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 232034,
       "name": "MALFUNCTION",
       "url": "https://open.spotify.com/track/6xEVH29EJFORwTXUSAz18d"
@@ -22490,7 +22644,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 247924,
       "name": "Nocturnal - VKTM VIP",
       "url": "https://open.spotify.com/track/7Iy1n71lBcH5g3yaWSDgct"
@@ -23749,6 +23903,24 @@
     },
     {
       "album": {
+        "name": "ORGANIC DUBSTEP",
+        "url": "https://open.spotify.com/album/4OYseklVa14vefbba2Adct"
+      },
+      "artists": [
+        {
+          "name": "INFEKT",
+          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188689,
+      "name": "ORGANIC DUBSTEP",
+      "url": "https://open.spotify.com/track/7sTVTmnmKO3aRD54h735RK"
+    },
+    {
+      "album": {
         "name": "Original Don",
         "url": "https://open.spotify.com/album/7Jn24h49ditLNn0I2ePgsL"
       },
@@ -24852,6 +25024,24 @@
       "duration_ms": 152147,
       "name": "PONDA",
       "url": "https://open.spotify.com/track/2MAVzueQH0kZZm331wHwjD"
+    },
+    {
+      "album": {
+        "name": "Pop",
+        "url": "https://open.spotify.com/album/69znXGnL5lj0jEIbl7yni7"
+      },
+      "artists": [
+        {
+          "name": "Mary Droppinz",
+          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179142,
+      "name": "Pop",
+      "url": "https://open.spotify.com/track/0TgoIKzHyU2zysMf12KuJD"
     },
     {
       "album": {
@@ -28220,7 +28410,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 244800,
       "name": "Sh*t's On F*re",
       "url": "https://open.spotify.com/track/53VFQ23T8h7f4ECrih68nP"
@@ -29996,7 +30186,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 251076,
       "name": "STAB UP (feat. Shakewell)",
       "url": "https://open.spotify.com/track/0kGpfbVDi9K8srRsJBeVla"
@@ -31298,6 +31488,28 @@
       "duration_ms": 136688,
       "name": "System Shock",
       "url": "https://open.spotify.com/track/48xIuXP8AN7dnan1Afsoqv"
+    },
+    {
+      "album": {
+        "name": "T.A.S.T.E.",
+        "url": "https://open.spotify.com/album/1SaizbBT3fIldGeMq2FaYj"
+      },
+      "artists": [
+        {
+          "name": "nikko",
+          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
+        },
+        {
+          "name": "DEV",
+          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135692,
+      "name": "T.A.S.T.E.",
+      "url": "https://open.spotify.com/track/1mIphNjyFAp2SecLo9GsEG"
     },
     {
       "album": {
@@ -32805,6 +33017,28 @@
     },
     {
       "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/21t6qH7SVwrYoubXmxhyE2"
+      },
+      "artists": [
+        {
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        },
+        {
+          "name": "BARELY ALIVE",
+          "url": "https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/1eikreaPZfpVaUX69LwD6f"
+    },
+    {
+      "album": {
         "name": "Time Warp",
         "url": "https://open.spotify.com/album/49fd3bVQRchR7RsxrQgGtY"
       },
@@ -33676,7 +33910,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 193920,
       "name": "Turn It Up",
       "url": "https://open.spotify.com/track/1SbDt7n2aRCjB5jhk9rAJ6"

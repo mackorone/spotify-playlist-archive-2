@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU13kKnk03AP.md) - [plain]
 
 > Pump it up with these current jams!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,195,221 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,195,258 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU13kKnk03AP.md) - [plain]
 | 52 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
 | 53 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 |
 | 54 | [gigolo](https://open.spotify.com/track/6DYul32gElizGgTrtRYrNY) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [gigolo](https://open.spotify.com/album/58Xf2l1m7iWhfwoRjx75C0) | 1:58 |
-| 55 | [I Like It \(with Nate Smith\)](https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [I Like It \(with Nate Smith\)](https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC) | 2:32 |
-| 56 | [You Can't Stop This](https://open.spotify.com/track/15ugBBMTmevxMc2WSbRULC) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 2:41 |
+| 55 | [You Can't Stop This](https://open.spotify.com/track/15ugBBMTmevxMc2WSbRULC) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 2:41 |
+| 56 | [I Like It \(with Nate Smith\)](https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [I Like It \(with Nate Smith\)](https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC) | 2:32 |
 | 57 | [Numb](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Numb](https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk) | 2:35 |
 | 58 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 |
 | 59 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU13kKnk03AP.md) - [plain]
 | 63 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 |
 | 64 | [FLY](https://open.spotify.com/track/5CJ3DQPUmrtI2lqRjPk4K6) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [FLY](https://open.spotify.com/album/1AnhQmNUPz24OM6YpG9WZX) | 2:37 |
 | 65 | [Someone To You](https://open.spotify.com/track/14BH4qO7pgCmIe6mgLKOK3) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Empires On Fire](https://open.spotify.com/album/6ErxPYc0KcJgLzQnpMGsth) | 3:39 |
-| 66 | [if u think i'm pretty](https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u) | 2:08 |
-| 67 | [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 |
+| 66 | [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 |
+| 67 | [if u think i'm pretty](https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u) | 2:08 |
 | 68 | [Cover Me In Sunshine](https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Willow Sage Hart](https://open.spotify.com/artist/0gAILSEru1PKMwP0tAqNLS) | [Cover Me In Sunshine](https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI) | 2:21 |
 | 69 | [The Thing I Love](https://open.spotify.com/track/4wsT99Vv3afkArA5SSHDsu) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [The Thing I Love](https://open.spotify.com/album/6pz8Io3WGItAMxlbM1L9zG) | 2:52 |
 | 70 | [Holy Water](https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Holy Water](https://open.spotify.com/album/6DD756fhA5jj74FmDBncgU) | 2:29 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU13kKnk03AP.md) - [plain]
 | 82 | [All That Really Matters](https://open.spotify.com/track/5zviMoAeuerK1Rd58qXASv) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [All That Really Matters](https://open.spotify.com/album/2OW7PzcHkPrB2fY0fLvx4Q) | 4:04 |
 | 83 | [WE PRAY \- Single Version](https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [WE PRAY](https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK) | 3:53 |
 | 84 | [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 |
-| 85 | [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 |
-| 86 | [More Than A Feeling](https://open.spotify.com/track/1AgcC6Xyhp5gw0BnedjCJh) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [More Than A Feeling](https://open.spotify.com/album/1uJzTlXwEwWwo30TWER0ms) | 2:47 |
+| 85 | [More Than A Feeling](https://open.spotify.com/track/1AgcC6Xyhp5gw0BnedjCJh) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [More Than A Feeling](https://open.spotify.com/album/1uJzTlXwEwWwo30TWER0ms) | 2:47 |
+| 86 | [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 |
 | 87 | [Love Me To Heaven](https://open.spotify.com/track/7usqgT1ajVAJ3s0wXePtRr) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Love Me To Heaven](https://open.spotify.com/album/1UOsUheDy5xGJtpyHhu1t9) | 3:26 |
 | 88 | [The Feeling](https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [The Feeling](https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG) | 2:33 |
 | 89 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU13kKnk03AP.md) - [plain]
 | 99 | [My Stupid Heart](https://open.spotify.com/track/3UZDl7g2r84o1b5marUjfK) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [My Stupid Heart](https://open.spotify.com/album/5csTYfCTB01hnZ3tT1yI39) | 2:40 |
 | 100 | [Thick Skin](https://open.spotify.com/track/4wPS8JGKj8iNV8zNrmwtam) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Thick Skin](https://open.spotify.com/album/6ykkVXarEYsrH8G56v1FRI) | 2:32 |
 
-Snapshot ID: `AAAAAOIbQ4KWVImV8KT0Af1pDxfrJhCg`
+Snapshot ID: `AAAAAN1T6t8iDnRMzAGWjKf/deqjx2ZI`

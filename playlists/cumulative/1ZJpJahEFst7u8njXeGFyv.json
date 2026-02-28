@@ -17617,6 +17617,24 @@
     },
     {
       "album": {
+        "name": "The Pearl Portrait",
+        "url": "https://open.spotify.com/album/5fKlSnJFtlH0YmV3hnGqeG"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207053,
+      "name": "The Pearl Portrait",
+      "url": "https://open.spotify.com/track/5ofP6UDJlIhFVA7sc20rUN"
+    },
+    {
+      "album": {
         "name": "The Prince and the Emperor",
         "url": "https://open.spotify.com/album/661xdHFeMHZg9biKHudInm"
       },

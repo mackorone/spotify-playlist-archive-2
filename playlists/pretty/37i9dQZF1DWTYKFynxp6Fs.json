@@ -1,12 +1,12 @@
 {
-  "description": "Every song that's Trending NOW from Malayalam! \nCover: Sarvam Maya",
-  "num_followers": 624916,
+  "description": "Every song that's Trending NOW from Malayalam! \nCover: Pallichattambi",
+  "num_followers": 625464,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPHTwIUyBi/sDlPZjSRYWqjNaMAE",
+  "snapshot_id": "AAAAAIBHkGPonfAKsB6kGGLoRIGe6avk",
   "tracks": [
     {
       "added_at": "2026-02-26 09:58:49",
@@ -33,32 +33,24 @@
       "url": "https://open.spotify.com/track/12wlJpuAbgMv0OaYmY3r5x"
     },
     {
-      "added_at": "2025-11-26 07:40:57",
+      "added_at": "2026-02-09 06:30:29",
       "album": {
-        "name": "KALYANI",
-        "url": "https://open.spotify.com/album/5MwY2xvTLLDNXi3qiX0GhF"
+        "name": "CHEMBARATHI",
+        "url": "https://open.spotify.com/album/7b8TzluGoR96DLTSgpbWGA"
       },
       "artists": [
         {
-          "name": "ARJN",
-          "url": "https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi"
+          "name": "Lil PAYYAN",
+          "url": "https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic"
         },
         {
-          "name": "KDS",
-          "url": "https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7"
-        },
-        {
-          "name": "FIFTY4",
-          "url": "https://open.spotify.com/artist/1NApv6DzDP19uLuxJ0CuuP"
-        },
-        {
-          "name": "RONN",
-          "url": "https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW"
+          "name": "AZWIN",
+          "url": "https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8"
         }
       ],
-      "duration_ms": 234489,
-      "name": "KALYANI",
-      "url": "https://open.spotify.com/track/2Uyj6K6mSaFTZsPvov415i"
+      "duration_ms": 193333,
+      "name": "CHEMBARATHI",
+      "url": "https://open.spotify.com/track/6PYDvt362YQfghK6cfSpi8"
     },
     {
       "added_at": "2026-02-24 18:24:10",
@@ -89,24 +81,32 @@
       "url": "https://open.spotify.com/track/2ZjwnRNaEEwQaJaIH2h6KY"
     },
     {
-      "added_at": "2026-02-09 06:30:29",
+      "added_at": "2025-11-26 07:40:57",
       "album": {
-        "name": "CHEMBARATHI",
-        "url": "https://open.spotify.com/album/7b8TzluGoR96DLTSgpbWGA"
+        "name": "KALYANI",
+        "url": "https://open.spotify.com/album/5MwY2xvTLLDNXi3qiX0GhF"
       },
       "artists": [
         {
-          "name": "Lil PAYYAN",
-          "url": "https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic"
+          "name": "ARJN",
+          "url": "https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi"
         },
         {
-          "name": "AZWIN",
-          "url": "https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8"
+          "name": "KDS",
+          "url": "https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7"
+        },
+        {
+          "name": "FIFTY4",
+          "url": "https://open.spotify.com/artist/1NApv6DzDP19uLuxJ0CuuP"
+        },
+        {
+          "name": "RONN",
+          "url": "https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW"
         }
       ],
-      "duration_ms": 193333,
-      "name": "CHEMBARATHI",
-      "url": "https://open.spotify.com/track/6PYDvt362YQfghK6cfSpi8"
+      "duration_ms": 234489,
+      "name": "KALYANI",
+      "url": "https://open.spotify.com/track/2Uyj6K6mSaFTZsPvov415i"
     },
     {
       "added_at": "2026-01-07 07:41:31",

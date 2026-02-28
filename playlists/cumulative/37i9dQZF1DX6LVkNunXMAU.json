@@ -657,6 +657,24 @@
     },
     {
       "album": {
+        "name": "Demos (Lado B)",
+        "url": "https://open.spotify.com/album/78wjxzYSTxyzXMeRI508oa"
+      },
+      "artists": [
+        {
+          "name": "Sunny",
+          "url": "https://open.spotify.com/artist/1IwRlef3wOkD3M0ZsbhhAf"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/2kbW8T7QHzjcTWR7yrMuki"
+    },
+    {
+      "album": {
         "name": "Ay, Mi Gorri\u00f3n!",
         "url": "https://open.spotify.com/album/3eejHVYQFBUCGtVQRDGfMQ"
       },
@@ -1902,7 +1920,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 149364,
       "name": "Disfon\u00eda",
       "url": "https://open.spotify.com/track/0uJDoMbRcfmojaIOqOOMs7"

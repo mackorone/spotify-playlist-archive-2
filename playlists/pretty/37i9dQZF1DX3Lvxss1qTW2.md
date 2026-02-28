@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: Kojo Blak
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,274 likes - 60 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,279 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SAILOR \(with Oxlade\)](https://open.spotify.com/track/1F1WDMlVyxfyIwGhQPKYdW) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [SAILOR \(with Oxlade\)](https://open.spotify.com/album/70bcwlOQC9FKbbKovrL0MB) | 3:04 |
 | 2 | [september rush](https://open.spotify.com/track/0aSkyAsDk2e2RG1R62kTjp) | [Baves O](https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs), [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [september rush](https://open.spotify.com/album/7gdMifqpW7gUeSePcGlDWA) | 2:17 |
-| 3 | [Track 2](https://open.spotify.com/track/5QyJkMyAWCB0IzuzUiYpER) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Love Stray](https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d) | 0:00 |
+| 3 | [Are You On The Way](https://open.spotify.com/track/5QyJkMyAWCB0IzuzUiYpER) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Love Stray](https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d) | 3:38 |
 | 4 | [Omo](https://open.spotify.com/track/2JePyTyj5nmjDe2ovgCChq) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP) | [Omo](https://open.spotify.com/album/0Q4bqBS5jE3GpU0bOmnen6) | 2:36 |
 | 5 | [Aura Salad](https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [SSSoundGawd](https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw) | [Breaking](https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK) | 2:52 |
 | 6 | [Munachi](https://open.spotify.com/track/32eZBRzpOlfJewW9Ih0tu2) | [Agbá](https://open.spotify.com/artist/6sKiadRicEKCCjyrbzzbmE) | [Munachi](https://open.spotify.com/album/0Po5K4XzLDkEnlLvKmmCVD) | 2:29 |

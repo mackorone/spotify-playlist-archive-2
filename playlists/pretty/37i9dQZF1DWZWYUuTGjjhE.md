@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 
 > Timeless easy listening from the sixties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,067 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,072 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 | 24 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay](https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr) | 2:46 |
 | 25 | [Crying](https://open.spotify.com/track/6eLL7QTdMWdhhG4i3jHDR9) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Crying](https://open.spotify.com/album/21REQ6X34DCAcoxtj654TI) | 2:48 |
 | 26 | [Knock on Wood](https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c) | [Eddie Floyd](https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF) | [Knock On Wood](https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF) | 3:09 |
-| 27 | [I Got You Babe](https://open.spotify.com/track/2SWBfqj1FrS8t8z56G55rP) | [Sonny & Cher](https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO) | [The Beat Goes On: Best Of](https://open.spotify.com/album/5QzkzMcvCJSk30pQS2mqia) | 3:13 |
-| 28 | [You'll Never Walk Alone \- Stereo; 1997 Remaster](https://open.spotify.com/track/2VfvfFSVD1Ki0PH0Xd0jcv) | [Gerry & The Pacemakers](https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8) | [How Do You Like It? \[Mono And Stereo Version\]](https://open.spotify.com/album/6KfKWfiXnXVcgYDH0JcIP2) | 2:44 |
+| 27 | [You'll Never Walk Alone \- Stereo; 1997 Remaster](https://open.spotify.com/track/2VfvfFSVD1Ki0PH0Xd0jcv) | [Gerry & The Pacemakers](https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8) | [How Do You Like It? \[Mono And Stereo Version\]](https://open.spotify.com/album/6KfKWfiXnXVcgYDH0JcIP2) | 2:44 |
+| 28 | [I Got You Babe](https://open.spotify.com/track/2SWBfqj1FrS8t8z56G55rP) | [Sonny & Cher](https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO) | [The Beat Goes On: Best Of](https://open.spotify.com/album/5QzkzMcvCJSk30pQS2mqia) | 3:13 |
 | 29 | [One Fine Day](https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 2:08 |
 | 30 | [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/track/3aSWQJcWnnqgwYbAgidvlV) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [The Definitive Collection](https://open.spotify.com/album/348K6QH725oW2W78lvSy1Y) | 2:43 |
 | 31 | [Blue Velvet](https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [The Best Of Bobby Vinton](https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA) | 2:48 |
@@ -63,11 +63,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 | 53 | [Come Together \- Remastered](https://open.spotify.com/track/0MKqeOVdZcUFGJvWpGCKbG) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd) | 4:19 |
 | 54 | [Chapel Of Love](https://open.spotify.com/track/0SMRck5oZi9hc16L6FuRF6) | [The Dixie Cups](https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772) | [Full Metal Jacket \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF) | 2:47 |
 | 55 | [You Never Can Tell](https://open.spotify.com/track/7xcFTtcCiyRvqLLq8s61WF) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [You Never Can Tell: His Complete Chess Recordings 1960 \-1966](https://open.spotify.com/album/1dDdgIg8pDTCfsqQwdHJJM) | 2:41 |
-| 56 | [My Girl](https://open.spotify.com/track/6RrXd9Hph4hYR4bf3dbM6H) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/5H2rffw6MNKGWVKBNWNA4S) | 2:45 |
-| 57 | [The Weight \- Remastered](https://open.spotify.com/track/0sDqo9UPzPUtu9wEkI3zRB) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Expanded Edition\)](https://open.spotify.com/album/0nuPXgAXAfPmz9AW1PPrlk) | 4:38 |
-| 58 | [What A Wonderful World](https://open.spotify.com/track/6Z5XZ8fjmWGbkdahOgreVe) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello Louis \- The Hit Years \(1963\-1969\)](https://open.spotify.com/album/3IkAJdl6rQcSbnfpGr3MVt) | 2:17 |
+| 56 | [The Weight \- Remastered](https://open.spotify.com/track/0sDqo9UPzPUtu9wEkI3zRB) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Expanded Edition\)](https://open.spotify.com/album/0nuPXgAXAfPmz9AW1PPrlk) | 4:38 |
+| 57 | [My Girl](https://open.spotify.com/track/6RrXd9Hph4hYR4bf3dbM6H) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/5H2rffw6MNKGWVKBNWNA4S) | 2:45 |
+| 58 | [At Last \- Single Version](https://open.spotify.com/track/0CmIALzGn4vHIHJG4n3Q4z) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101) | 3:02 |
 | 59 | [Somethin' Stupid](https://open.spotify.com/track/3cVWNLd0uEHkc2tnBoE3Ay) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [The World We Knew](https://open.spotify.com/album/00vMwG6tYLzcwXgwvzlzyK) | 2:42 |
-| 60 | [At Last \- Single Version](https://open.spotify.com/track/0CmIALzGn4vHIHJG4n3Q4z) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101) | 3:02 |
+| 60 | [What A Wonderful World](https://open.spotify.com/track/6Z5XZ8fjmWGbkdahOgreVe) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello Louis \- The Hit Years \(1963\-1969\)](https://open.spotify.com/album/3IkAJdl6rQcSbnfpGr3MVt) | 2:17 |
 | 61 | [Blackbird \- Remastered](https://open.spotify.com/track/4Z92RMiyJpUrApZi3LtpJ6) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/03Qh833fEdVT30Pfs93ea6) | 2:18 |
 | 62 | [Build Me Up Buttercup](https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Build Me Up Buttercup](https://open.spotify.com/album/0AFXSZYiYyggIkcYW5GK0x) | 2:58 |
 | 63 | [My Cherie Amour](https://open.spotify.com/track/6Udg88zGCFc2xA9M4EavzH) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [My Cherie Amour](https://open.spotify.com/album/5LkcwHaOv2jNRuC7cGbnoF) | 2:53 |

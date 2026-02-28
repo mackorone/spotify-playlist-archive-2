@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Illuminating Asian artists everywhere. Cover: natalie jinju",
+  "description": "Illuminating Asian artists everywhere. Cover: Mitski",
   "name": "Jasmine",
   "tracks": [
     {
@@ -96,6 +96,24 @@
       "duration_ms": 190644,
       "name": "1+1=11 - Edit",
       "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
+    },
+    {
+      "album": {
+        "name": "Ore",
+        "url": "https://open.spotify.com/album/0SiGD27Z9eblEQQMdpBCLK"
+      },
+      "artists": [
+        {
+          "name": "ena mori",
+          "url": "https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "19 Underground",
+      "url": "https://open.spotify.com/track/3AKzOFfv7b3WSuBmjFxMdp"
     },
     {
       "album": {
@@ -1959,6 +1977,24 @@
     },
     {
       "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/7fWswbqrYkq5epwUQAJtFU"
+      },
+      "artists": [
+        {
+          "name": "Quiet Light",
+          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/17XxoRBKPgZqSzYLFW3gto"
+    },
+    {
+      "album": {
         "name": "beside you",
         "url": "https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD"
       },
@@ -2032,6 +2068,24 @@
       "duration_ms": 156144,
       "name": "Best U Had",
       "url": "https://open.spotify.com/track/1ERFhctkk5lhGZAStRmcQE"
+    },
+    {
+      "album": {
+        "name": "Foul",
+        "url": "https://open.spotify.com/album/0RrCbYpd3E2UwH3i0K0n8i"
+      },
+      "artists": [
+        {
+          "name": "Pimmie",
+          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122033,
+      "name": "Bet",
+      "url": "https://open.spotify.com/track/75ke3sGD2JmxIOfTjoJxuX"
     },
     {
       "album": {
@@ -2468,7 +2522,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 183493,
       "name": "Blue",
       "url": "https://open.spotify.com/track/6ykxTAkzk0zvJykFM02Taa"
@@ -4411,6 +4465,24 @@
     },
     {
       "album": {
+        "name": "Deposit",
+        "url": "https://open.spotify.com/album/5UcVQZ4y2byGCAvBgr1ElA"
+      },
+      "artists": [
+        {
+          "name": "Storm Ford",
+          "url": "https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Crutch on Me",
+      "url": "https://open.spotify.com/track/4QARQbcpc5EiOEGJLnSlCh"
+    },
+    {
+      "album": {
         "name": "CTM (The Conversation)",
         "url": "https://open.spotify.com/album/03bYP4Du4i6U2ZiJ3QKhF0"
       },
@@ -5124,7 +5196,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 111683,
       "name": "dirty",
       "url": "https://open.spotify.com/track/74qt5cbf6SnVINBSK7TqLT"
@@ -6326,7 +6398,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 180814,
       "name": "Ego",
       "url": "https://open.spotify.com/track/6qWLeDClhAZYyshdF3y45Y"
@@ -7368,7 +7440,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 100920,
       "name": "first date",
       "url": "https://open.spotify.com/track/0WQa83jf87irPjO1eaC5qL"
@@ -9852,7 +9924,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 184559,
       "name": "HOUNDSOFHELL",
       "url": "https://open.spotify.com/track/0mWAqUgHBubNf7phC3hjA0"
@@ -10760,6 +10832,24 @@
       "duration_ms": 103664,
       "name": "IdgaF",
       "url": "https://open.spotify.com/track/5uFGqqXqeX2EA8CxTs2DJL"
+    },
+    {
+      "album": {
+        "name": "Nothing's About to Happen to Me",
+        "url": "https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180053,
+      "name": "If I Leave",
+      "url": "https://open.spotify.com/track/4eMXMUkWS4aChMfA1UO4YJ"
     },
     {
       "album": {
@@ -13602,7 +13692,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 191725,
       "name": "made for this",
       "url": "https://open.spotify.com/track/0vfZT35Ij2c2o8lA7ox3EQ"
@@ -15278,7 +15368,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 177828,
       "name": "Newly",
       "url": "https://open.spotify.com/track/4X7In1I8cDBpdOEWjRUMO7"
@@ -16182,6 +16272,24 @@
       "duration_ms": 144128,
       "name": "Pair Of You",
       "url": "https://open.spotify.com/track/6ekoBPfdfnWhQ8oJveaZSk"
+    },
+    {
+      "album": {
+        "name": "BACK TO REALITY",
+        "url": "https://open.spotify.com/album/61ztlk3IamUgahgX4VPisJ"
+      },
+      "artists": [
+        {
+          "name": "PRYVT",
+          "url": "https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186352,
+      "name": "PALETTE",
+      "url": "https://open.spotify.com/track/2KQUgnOmfxgkL7QBXaZ0Qm"
     },
     {
       "album": {
@@ -20051,6 +20159,24 @@
     },
     {
       "album": {
+        "name": "STRAYS",
+        "url": "https://open.spotify.com/album/0SA7JchrRZotPs4Nti4VYa"
+      },
+      "artists": [
+        {
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132185,
+      "name": "STRAYS",
+      "url": "https://open.spotify.com/track/2IvTWzfITfOBSm7nU7QOcq"
+    },
+    {
+      "album": {
         "name": "stuck losing",
         "url": "https://open.spotify.com/album/1jKCdQAaBL9iTEsLYcQcnq"
       },
@@ -20904,7 +21030,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 185600,
       "name": "Tell Me The Name",
       "url": "https://open.spotify.com/track/2hFpbQpaRHlZhtrYlXIltT"

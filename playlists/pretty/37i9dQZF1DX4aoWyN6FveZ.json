@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ravieb/\">Ravie B</a>",
-  "num_followers": 23995,
+  "num_followers": 23997,
   "original_name": "Ravie B's Taste",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
+        "name": "No Holding Back",
+        "url": "https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA"
+      },
+      "artists": [
+        {
+          "name": "Wayne Wonder",
+          "url": "https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO"
+        }
+      ],
+      "duration_ms": 202013,
+      "name": "No Letting Go",
+      "url": "https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1"
+    },
+    {
+      "added_at": "2022-10-01 20:09:45",
+      "album": {
         "name": "Press Play",
         "url": "https://open.spotify.com/album/7kIi4z3UO8ZqH3GVX18p7h"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 388226,
       "name": "Last Night (feat. Keyshia Cole)",
       "url": "https://open.spotify.com/track/5gfPJ45gpn3ThswDyeW0Qc"
-    },
-    {
-      "added_at": "2022-10-01 20:09:45",
-      "album": {
-        "name": "No Holding Back",
-        "url": "https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA"
-      },
-      "artists": [
-        {
-          "name": "Wayne Wonder",
-          "url": "https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO"
-        }
-      ],
-      "duration_ms": 202013,
-      "name": "No Letting Go",
-      "url": "https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1"
     },
     {
       "added_at": "2022-10-01 20:09:45",

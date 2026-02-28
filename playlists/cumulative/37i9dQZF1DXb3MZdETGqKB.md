@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Sonny Gullage
 
-348 songs - 20 hr 27 min
+349 songs - 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Good People](https://open.spotify.com/track/0KlEYhot7IwsbCNGpww72s) | [The Harpoonist](https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG) | [Good People](https://open.spotify.com/album/5b2N8BU4Libo6GmfcxX3E5) | 5:45 | 2024-04-26 | 2024-07-06 |
 | [Good Times](https://open.spotify.com/track/5cUjDokJ7BpzghS8gcRhWi) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp) | [Good Times](https://open.spotify.com/album/4LtBDjPPZbgcinG0qCyuwR) | 3:14 | 2022-04-08 | 2024-02-17 |
 | [Good Times](https://open.spotify.com/track/3jMYz9pMU8z6TE5xTtvlKY) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Good Times](https://open.spotify.com/album/5RKBqebBiGoxUp6nCYZwLx) | 3:14 | 2022-04-08 | 2023-11-06 |
+| [Good To Me](https://open.spotify.com/track/7sOUL7fsYV1AngxrrSwplo) | [Prince Street Bodega](https://open.spotify.com/artist/00Z7KikCldWg5aQzEk2AUS), [DOMENICO](https://open.spotify.com/artist/0njfgkVXlaTtQnSZx9awZt), [Rion S](https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7), [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6) | [Good To Me](https://open.spotify.com/album/3gafm5KT24utYvUfhjuush) | 3:12 | 2026-02-27 |  |
 | [Gossip](https://open.spotify.com/track/65XSifoolPRjDZAQQnwJOa) | [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) | [Gossip](https://open.spotify.com/album/0lafTsLHcigE5J0EMO9HKx) | 3:10 | 2024-12-06 |  |
 | [Grown Folks Love](https://open.spotify.com/track/60Bnlpj51IUFDK7Tcyinii) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [Grown Folks Love](https://open.spotify.com/album/4IPV2zybll9xnQg8r1vx6J) | 2:48 | 2023-05-12 | 2023-11-11 |
 | [Habits \- Radio Edit](https://open.spotify.com/track/4IPMVoDEzVAwwrNPqM0qmq) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Habits](https://open.spotify.com/album/6EiqbvEYWkkB7xmYwGQ3u6) | 3:31 | 2024-03-08 | 2024-03-23 |
@@ -227,7 +228,7 @@
 | [Queen Of The Road](https://open.spotify.com/track/0Z941Yv9mo0BQIPdVCT1B0) | [Pimps of Joytime](https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4), [Sophia Urista](https://open.spotify.com/artist/0ZOIPu5gy4F5VFvJrRfvVP) | [Queen Of The Road](https://open.spotify.com/album/0dnQw3nGeIg2ZOKiA8cVhA) | 3:45 | 2024-04-19 | 2024-05-25 |
 | [Racing To A Red Light](https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Racing To A Red Light](https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a) | 4:24 | 2022-07-15 | 2024-05-18 |
 | [Rain Gonna Fall](https://open.spotify.com/track/2aRbqrv0y95UlmSFwE9832) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Rain Gonna Fall](https://open.spotify.com/album/2Zc0N5hjKfYTecNWMollgM) | 3:50 | 2021-02-05 | 2022-03-26 |
-| [Reconcile](https://open.spotify.com/track/40KisYYaB1CQZ32qDkdo2L) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY), [Charles Morgan](https://open.spotify.com/artist/49wXybwwvthf1zYBangQ0k) | [Reconcile](https://open.spotify.com/album/2gybW4tM9V6oUvYSw6YHV4) | 3:39 | 2023-01-13 |  |
+| [Reconcile](https://open.spotify.com/track/40KisYYaB1CQZ32qDkdo2L) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY), [Charles Morgan](https://open.spotify.com/artist/49wXybwwvthf1zYBangQ0k) | [Reconcile](https://open.spotify.com/album/2gybW4tM9V6oUvYSw6YHV4) | 3:39 | 2023-01-13 | 2026-02-28 |
 | [Ridin'](https://open.spotify.com/track/6TU5CaJ68BaVZ2BLvhgOmO) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Ridin'](https://open.spotify.com/album/70uWPKRSwkmkYO2s33tzZP) | 5:23 | 2023-03-03 | 2023-03-25 |
 | [Riding Out The Storm](https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Riding Out The Storm](https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC) | 4:38 | 2022-02-18 | 2022-02-26 |
 | [RIOT](https://open.spotify.com/track/4oU3wup0ixElRJLzpEjRB4) | [J.Pollock](https://open.spotify.com/artist/0LuT1TXrVuq4fsA0Sy3QQe), [Revel Day](https://open.spotify.com/artist/0GlCo4o05HxdzR4Gj7GKyw) | [RIOT](https://open.spotify.com/album/0IE26YwVRBnDUYxPh2JfZN) | 2:09 | 2024-09-13 |  |

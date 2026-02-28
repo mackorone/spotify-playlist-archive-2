@@ -4,7 +4,7 @@
 
 > Sabrina Carpenter\. Period.
 
-597 songs - 1 day 8 hr 37 min
+598 songs - 1 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [Future Starts Now](https://open.spotify.com/track/3p2wS6G159mBIU50xl7uvc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Future Starts Now](https://open.spotify.com/album/0mhiYBnL1wLGc0CgMhvBe2) | 4:39 | 2021-10-09 | 2022-02-04 |
 | [Genesis, pt\. ii](https://open.spotify.com/track/4VUc2yMO1AttRC7jahya9y) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 3:28 | 2024-06-10 | 2024-08-15 |
 | [Genetics](https://open.spotify.com/track/2FOwRoyI2TTujfAGmHgEJP) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Genetics](https://open.spotify.com/album/3tdsdSwWtAGr1eouGR8mS6) | 2:57 | 2019-10-26 | 2021-10-16 |
-| [Get In Girl](https://open.spotify.com/track/7CULOX5o1ekP2LmSfmgOFJ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Get In Girl](https://open.spotify.com/album/6CieG4RrsQjO1x03umSVrk) | 3:26 | 2026-02-13 |  |
+| [Get In Girl](https://open.spotify.com/track/7CULOX5o1ekP2LmSfmgOFJ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Get In Girl](https://open.spotify.com/album/6CieG4RrsQjO1x03umSVrk) | 3:26 | 2026-02-13 | 2026-02-28 |
 | [Get Into It \(Yuh\)](https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:18 | 2022-04-15 | 2022-09-27 |
 | [Gimme More](https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 4:11 | 2023-10-20 |  |
 | [GIRL](https://open.spotify.com/track/0u3zalSKQIUJ0foEGILmxe) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/2gTENOPxvxQmQswzVQ8v1u) | 4:10 | 2022-03-25 | 2022-04-17 |
@@ -286,6 +286,7 @@
 | [justified](https://open.spotify.com/track/6IW4TUC3zHW4tpikDg1w7Y) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [justified](https://open.spotify.com/album/4d4qaLHCcfXzMbGa33Kpqg) | 3:00 | 2021-09-18 | 2022-07-29 |
 | [Keep On](https://open.spotify.com/track/4gbB4ORVF9jqFWgPF8277Z) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Self Portrait](https://open.spotify.com/album/5UZriQSHZOJOjqUtPE5lpg) | 3:00 | 2019-11-14 | 2022-07-29 |
 | [Kill Em With Kindness](https://open.spotify.com/track/1QNoKVgA758HFLu3TW2q7R) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz) | 3:37 | 2019-10-25 | 2019-10-26 |
+| [KiLL iT QUEEN](https://open.spotify.com/track/0vEbs5wZEqnrTnRppLGZaU) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [KiLL iT QUEEN](https://open.spotify.com/album/5YD2OXFbiw3S7kdL88p3X2) | 2:48 | 2026-02-27 |  |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-06-07 | 2022-09-27 |
 | [Kiss My \(Ah\)](https://open.spotify.com/track/5zgyVeHTCXBnLGI3xRvb0s) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Kiss My \(Ah\)](https://open.spotify.com/album/4LtELtq7yXRdE5A8jNIef0) | 2:18 | 2024-09-13 | 2024-09-21 |
 | [Kiss My \(Uh Oh\)](https://open.spotify.com/track/0MWiSBKm8Avs8iDIxcertp) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 2:56 | 2021-08-01 | 2022-11-13 |

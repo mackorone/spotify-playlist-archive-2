@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 
 > Traditional country sounds from artists of yesterday and today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 824,289 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 824,355 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 28 | [Sadder Day \- Bonus Track](https://open.spotify.com/track/6c31SfN490H2PyGZ4oMbCn) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [Almost Greatest Hits](https://open.spotify.com/album/1vQ76dimVpL1k2MhNu7fVR) | 3:35 |
 | 29 | [Neon Moon](https://open.spotify.com/track/3EUl8M6SzxZl03NPkB8mUd) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 4:23 |
 | 30 | [Dale Dickens \(RIP\)](https://open.spotify.com/track/6RFEp3DeSQcMGEr97WtTqM) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [Dale Dickens \(RIP\)](https://open.spotify.com/album/1iutbAZnuqdVVghCzPDoJL) | 2:01 |
-| 31 | [Two Dozen Roses](https://open.spotify.com/track/0e05wFNr6zg1ULcp4NKs1p) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Now And Then](https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e) | 3:24 |
-| 32 | [It's A Great Day To Be Alive](https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Down The Road I Go](https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB) | 4:01 |
+| 31 | [It's A Great Day To Be Alive](https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Down The Road I Go](https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB) | 4:01 |
+| 32 | [Two Dozen Roses](https://open.spotify.com/track/0e05wFNr6zg1ULcp4NKs1p) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Now And Then](https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e) | 3:24 |
 | 33 | [Mint Tea](https://open.spotify.com/track/6F7mS7NLtJ54WIkFZuaKT8) | [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Passage Du Desir](https://open.spotify.com/album/71On7h3S7yH5D0Td6YNw1t) | 3:37 |
 | 34 | [On My Way to You](https://open.spotify.com/track/3OjNkFFZavF89xvRqWCXmU) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 3:33 |
 | 35 | [Dust On The Bottle](https://open.spotify.com/track/0Xg68XXMRWzKQvD5S6BFvI) | [David Lee Murphy](https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5) | [Out With A Bang](https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9) | 3:44 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 81 | [Next To You, Next To Me](https://open.spotify.com/track/37KWffCdnLyHqvhugCQNM6) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Now And Then](https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e) | 3:25 |
 | 82 | [Small Town Saturday Night](https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ) | [Hal Ketchum](https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7) | [Past The Point Of Rescue](https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE) | 2:57 |
 | 83 | [One Night Standards](https://open.spotify.com/track/47qZzTLLJcuD69AIKnquo4) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Will](https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP) | 3:10 |
-| 84 | [Forever and Ever, Amen](https://open.spotify.com/track/4rQSLX4qMiUWL81hEQOuPY) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Top 10](https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss) | 3:32 |
-| 85 | [Pickup Man](https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Greatest Hits](https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0) | 3:36 |
+| 84 | [Pickup Man](https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Greatest Hits](https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0) | 3:36 |
+| 85 | [Forever and Ever, Amen](https://open.spotify.com/track/4rQSLX4qMiUWL81hEQOuPY) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Top 10](https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss) | 3:32 |
 | 86 | [Brother Jukebox](https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Too Cold At Home](https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA) | 3:04 |
 | 87 | [If Heaven Wasn't So Far Away](https://open.spotify.com/track/0aW7CSfoMBKBzLE7VerHyn) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Outlaws Like Me](https://open.spotify.com/album/43WYprY30K1r0pbDmf3amq) | 3:43 |
 | 88 | [Boots On](https://open.spotify.com/track/7K4VxvIXXbDbaVn6ARbch1) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Anything Goes](https://open.spotify.com/album/4xw2DKqtMyAde8WoF80WiQ) | 2:50 |

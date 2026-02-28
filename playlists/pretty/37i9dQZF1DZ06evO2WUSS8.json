@@ -1,12 +1,12 @@
 {
   "description": "This is Angelique Kidjo. The essential tracks, all in one playlist.",
-  "num_followers": 14953,
+  "num_followers": 14955,
   "original_name": "This Is Angelique Kidjo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAADIzr00pUCwP4xTCFzaaHOl",
+  "snapshot_id": "aZ+NAAAAAAAaJradIDtY15sIxxpCaUc6",
   "tracks": [
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "JERUSALEMA",
-        "url": "https://open.spotify.com/album/1MdpGLfmkG6VQwopb8K0au"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 329189,
-      "name": "JERUSALEMA",
-      "url": "https://open.spotify.com/track/0HcxM7O49XgSNbWVn5C8vi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "5Th Dimension",
         "url": "https://open.spotify.com/album/57CR17REkRzvwpVjafGDSx"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 225565,
       "name": "Manodzi",
       "url": "https://open.spotify.com/track/6OSAPzdQHqfWpTiIRp7cgc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JERUSALEMA",
+        "url": "https://open.spotify.com/album/1MdpGLfmkG6VQwopb8K0au"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 329189,
+      "name": "Jerusalema",
+      "url": "https://open.spotify.com/track/0HcxM7O49XgSNbWVn5C8vi"
     },
     {
       "added_at": null,
@@ -599,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djin Djin",
-        "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "Sedjedo",
-      "url": "https://open.spotify.com/track/7gb6UolAvBNPad7IIXLoAB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Toast to Freedom",
         "url": "https://open.spotify.com/album/3kvEJ7NfjBXi43bW7FF9PC"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 374508,
       "name": "Toast to Freedom - Long Version",
       "url": "https://open.spotify.com/track/0SQPaGnphdxWDKJxtQ7NY5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Djin Djin",
+        "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "Sedjedo",
+      "url": "https://open.spotify.com/track/7gb6UolAvBNPad7IIXLoAB"
     },
     {
       "added_at": null,
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Logozo",
+        "url": "https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 276840,
+      "name": "Batonga",
+      "url": "https://open.spotify.com/track/2U4kiDoSsCKBXHIWTZ8ugu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Djin Djin",
         "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
       },
@@ -875,22 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Logozo",
-        "url": "https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 276840,
-      "name": "Batonga",
-      "url": "https://open.spotify.com/track/2U4kiDoSsCKBXHIWTZ8ugu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "OYO (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6UcZyvaymagvEIKf1xSwU3"
       },
@@ -911,8 +911,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spirit Rising (Live)",
-        "url": "https://open.spotify.com/album/0eWhzAxYEfHZ5nni4b3038"
+        "name": "Logozo",
+        "url": "https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw"
       },
       "artists": [
         {
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
-      "duration_ms": 244973,
-      "name": "Summertime - Live",
-      "url": "https://open.spotify.com/track/17m83WZGqAfGpnNUbpCDqF"
+      "duration_ms": 259200,
+      "name": "Malaika",
+      "url": "https://open.spotify.com/track/0tODdphY94KVzwtO3pm1fY"
     },
     {
       "added_at": null,
@@ -947,8 +947,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Logozo",
-        "url": "https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw"
+        "name": "Spirit Rising (Live)",
+        "url": "https://open.spotify.com/album/0eWhzAxYEfHZ5nni4b3038"
       },
       "artists": [
         {
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
-      "duration_ms": 259200,
-      "name": "Malaika",
-      "url": "https://open.spotify.com/track/0tODdphY94KVzwtO3pm1fY"
+      "duration_ms": 244973,
+      "name": "Summertime - Live",
+      "url": "https://open.spotify.com/track/17m83WZGqAfGpnNUbpCDqF"
     },
     {
       "added_at": null,
@@ -1155,18 +1155,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mother Nature",
-        "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
+        "name": "Wakafrika",
+        "url": "https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC"
       },
       "artists": [
         {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        },
+        {
           "name": "Angelique Kidjo",
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Papa Wemba",
+          "url": "https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ"
         }
       ],
-      "duration_ms": 179226,
-      "name": "Mother Nature",
-      "url": "https://open.spotify.com/track/09UiY7Lj5ircmWblcX2sF6"
+      "duration_ms": 278040,
+      "name": "Ami Oh! (feat. Ang\u00e9lique Kidjo & Papa Wemba)",
+      "url": "https://open.spotify.com/track/3cTOcVSED8x5psHFY5xGcg"
     }
   ],
   "unique_name": "This Is Angelique Kidjo",

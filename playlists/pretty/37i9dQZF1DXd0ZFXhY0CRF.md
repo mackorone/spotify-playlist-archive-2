@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 
 > The women whose music and influence rock our world\. Cover: Nova Twins
 
-[Spotify](https://open.spotify.com/user/spotify) - 780,192 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 780,199 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 40 | [Choreomania](https://open.spotify.com/track/7xdHw4C522RbsxHL9KD9L6) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:33 |
 | 41 | [Rebel Girl](https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 2:37 |
 | 42 | [EAT ME \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/0ByTfwoYWdom6GlQ9BIdv2) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [HOLY FVCK](https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR) | 3:00 |
-| 43 | [catch these fists](https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [catch these fists](https://open.spotify.com/album/3rRVJqXI4bcFPfICrJX496) | 3:08 |
-| 44 | [blindfolded](https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [blindfolded](https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i) | 3:19 |
+| 43 | [blindfolded](https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [blindfolded](https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i) | 3:19 |
+| 44 | [catch these fists](https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [catch these fists](https://open.spotify.com/album/3rRVJqXI4bcFPfICrJX496) | 3:08 |
 | 45 | [One of the Greats](https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [One of the Greats](https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi) | 6:32 |
 | 46 | [I Want You \(Fever\)](https://open.spotify.com/track/4Ze7DFjyVa0smRqY2Fxcnz) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Welcome to My Blue Sky](https://open.spotify.com/album/6BMB400fh0wby5BM8VOTEY) | 3:37 |
 | 47 | [All Comes Crashing](https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera](https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6) | 4:23 |

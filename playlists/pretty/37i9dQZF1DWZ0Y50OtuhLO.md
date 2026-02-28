@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Y50OtuhLO.md) - [plain]
 
 > The soundtrack to being to best version of you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,480 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,474 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Y50OtuhLO.md) - [plain]
 | 16 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 |
 | 17 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 |
 | 18 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 |
-| 19 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 |
-| 20 | [luther \(with sza\)](https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ) | 2:57 |
+| 19 | [luther \(with sza\)](https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ) | 2:57 |
+| 20 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 |
 | 21 | [NIGHTS LIKE THIS](https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 1:26 |
 | 22 | [Adore You](https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:27 |
 | 23 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Y50OtuhLO.md) - [plain]
 | 40 | [Azizam](https://open.spotify.com/track/0sCvjs8IVBhxXVhg7jQemt) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play](https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH) | 2:42 |
 | 41 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 |
 | 42 | [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 |
-| 43 | [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 |
-| 44 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
+| 43 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
+| 44 | [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 |
 | 45 | [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 |
 | 46 | [MILLION DOLLAR BABY](https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54) | 2:35 |
 | 47 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 |

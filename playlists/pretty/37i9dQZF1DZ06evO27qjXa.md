@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO27qjXa.md) - [plain]
 
 > This is Danny Go!\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,597 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,643 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO27qjXa.md) - [plain]
 | 45 | [Digging In The Dirt \- Construction Vehicles Dance](https://open.spotify.com/track/01hdETjucKH5ZrB4vkUqwV) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Digging In The Dirt \(Construction Vehicles Dance\)](https://open.spotify.com/album/37KlVr59FQRgCLnI1LSIUq) | 3:36 |
 | 46 | [The Creepy Crawl](https://open.spotify.com/track/3sjwPrNmCYwkGMvAm8wlS2) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Creepy Crawl](https://open.spotify.com/album/53kXMqX4i6E0kJwwbAxkNn) | 2:42 |
 | 47 | [Little Cat](https://open.spotify.com/track/0DAtPFHyXrKNhqnHqbh5hN) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Little Cat](https://open.spotify.com/album/7khTtFbmq7o0y1hrydp7VB) | 3:14 |
-| 48 | [Ka\-Pow \- Lullaby Version](https://open.spotify.com/track/4Q0hlXcIoIFZXVk72X30Ed) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Danny Go! Sleep Music, Vol\. 2 \(Lullaby Version\)](https://open.spotify.com/album/6p92UHr7NrpLtb13KO0gqe) | 4:02 |
-| 49 | [The Ice King Freeze Dance 2 \- Arctic Avalanche](https://open.spotify.com/track/1YIWFnXR5AfpP10ls7GThB) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Ice King Freeze Dance 2 \(Arctic Avalanche\)](https://open.spotify.com/album/51SRXEk9DfmGTtL107MXVi) | 3:52 |
-| 50 | [Bluey Theme \- Acapella Version](https://open.spotify.com/track/3DzlwU2KL2yyqJb5lhM1XS) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Bluey Theme \(Acapella Version\)](https://open.spotify.com/album/3eStOZlBWOOhexdhe203N0) | 1:10 |
+| 48 | [The Ice King Freeze Dance 2 \- Arctic Avalanche](https://open.spotify.com/track/1YIWFnXR5AfpP10ls7GThB) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Ice King Freeze Dance 2 \(Arctic Avalanche\)](https://open.spotify.com/album/51SRXEk9DfmGTtL107MXVi) | 3:52 |
+| 49 | [Bluey Theme \- Acapella Version](https://open.spotify.com/track/3DzlwU2KL2yyqJb5lhM1XS) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Bluey Theme \(Acapella Version\)](https://open.spotify.com/album/3eStOZlBWOOhexdhe203N0) | 1:10 |
+| 50 | [Space Race \- Lullaby Version](https://open.spotify.com/track/0XR0JroNI3KATMxvQh0ETy) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Danny Go! Sleep Music, Vol\. 2 \(Lullaby Version\)](https://open.spotify.com/album/6p92UHr7NrpLtb13KO0gqe) | 7:50 |
 
-Snapshot ID: `aZ47gAAAAADZ36z6Yd4QP0PwB20cn4Ll`
+Snapshot ID: `aZ+NAAAAAADDplGhNe/fMjTzvhi6XUWR`

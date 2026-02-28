@@ -6541,6 +6541,32 @@
     },
     {
       "album": {
+        "name": "Goddess",
+        "url": "https://open.spotify.com/album/26KY5Noaiuq6EZB5CTiEpC"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "Jaira Burns",
+          "url": "https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/3HD9GLv9hzwTPAkhmBIXKq"
+    },
+    {
+      "album": {
         "name": "Godrays",
         "url": "https://open.spotify.com/album/3LOlAp1cmPAiaVQSWll3Tr"
       },
@@ -12074,7 +12100,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 232000,
       "name": "Nothing to Lose",
       "url": "https://open.spotify.com/track/0fUGpNaRH925javytIbW5h"

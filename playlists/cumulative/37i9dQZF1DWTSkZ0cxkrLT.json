@@ -1207,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "El Color Amor",
+        "url": "https://open.spotify.com/album/52vMTlpxWqPBgvlU5McNSk"
+      },
+      "artists": [
+        {
+          "name": "Astronautiko",
+          "url": "https://open.spotify.com/artist/4jtlM7KkUGZi5N3DWFZLbw"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "El Color Amor",
+      "url": "https://open.spotify.com/track/52ocsg0ou3sEnuKRR6aJrG"
+    },
+    {
+      "album": {
         "name": "El Mundo Siempre Estuvo Dividido en Dos",
         "url": "https://open.spotify.com/album/4DwDKGqyR2hp8roLeNrhYh"
       },
@@ -1218,7 +1236,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 125156,
       "name": "El Mundo Siempre Estuvo Dividido en Dos",
       "url": "https://open.spotify.com/track/2mdZOkJvBqGaPmuqLLMp88"
@@ -3010,7 +3028,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 159741,
       "name": "Por el Bien de los Dos",
       "url": "https://open.spotify.com/track/5YVBaeIf9L56ybZdUYOcjy"
@@ -3392,6 +3410,24 @@
       "duration_ms": 302280,
       "name": "Sigo Caminando",
       "url": "https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR"
+    },
+    {
+      "album": {
+        "name": "D\u00cdA 3",
+        "url": "https://open.spotify.com/album/10pLIYumFEMuL69sxaFQcJ"
+      },
+      "artists": [
+        {
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161731,
+      "name": "Solos en la Oscuridad",
+      "url": "https://open.spotify.com/track/5lp388sQi6cbrbHJZi93XG"
     },
     {
       "album": {

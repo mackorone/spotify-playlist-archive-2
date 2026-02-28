@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,120 likes - 197 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,121 likes - 197 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 71 | [Revival \(feat\. Cheat Codes & MAX\)](https://open.spotify.com/track/3y6R5ohBabcdmbvhr1P1xC) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:12 |
 | 72 | [My Love Won't Let You Down](https://open.spotify.com/track/3Ms30cFnM7su9lCdwgnexR) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti](https://open.spotify.com/album/33a8Ha3pE7fo2o4T4xLabF) | 2:54 |
 | 73 | [One Of Those Days](https://open.spotify.com/track/4qoRtBttExNQ8eguqiYsRg) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Just Whitney](https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX) | 4:15 |
-| 74 | [Make This Song Cry](https://open.spotify.com/track/0iUQMaYF4PijgspAkghWMm) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [KIMBERLY: The People I Used to Know](https://open.spotify.com/album/2nIA5nr4NS4aYi5VWaUn5o) | 3:25 |
-| 75 | [Forever](https://open.spotify.com/track/56ZFxOatfQbv6lPABm4c17) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Alna](https://open.spotify.com/artist/42CbYw1Y9fAdCr6UND2P5f) | [ODYSSEY](https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC) | 2:51 |
+| 74 | [Forever](https://open.spotify.com/track/56ZFxOatfQbv6lPABm4c17) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Alna](https://open.spotify.com/artist/42CbYw1Y9fAdCr6UND2P5f) | [ODYSSEY](https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC) | 2:51 |
+| 75 | [Make This Song Cry](https://open.spotify.com/track/0iUQMaYF4PijgspAkghWMm) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [KIMBERLY: The People I Used to Know](https://open.spotify.com/album/2nIA5nr4NS4aYi5VWaUn5o) | 3:25 |
 | 76 | [Fire \(feat\. Pitbull\)](https://open.spotify.com/track/4tKDNJH4ylLAxfwYqqUM1d) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Tattoos](https://open.spotify.com/album/1OdcBxCNY52OXH0r4odXqP) | 3:36 |
 | 77 | [last night i dreamt i fell in love](https://open.spotify.com/track/6t1pBY6VYjNM9SJEBieyJw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [last night i dreamt i fell in love](https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA) | 2:06 |
 | 78 | [Take Me Higher](https://open.spotify.com/track/1x2nB4SHNWlp0aqtvBBvzu) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Take Me Higher](https://open.spotify.com/album/0LmEG3bIDEk1cpW0ckMOIn) | 3:00 |
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 103 | [Weekend Millionaires](https://open.spotify.com/track/47hg9HCsnTYbdkd5d5KJMl) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Tired Eyes](https://open.spotify.com/album/1fMzgbBLV4vdE4Wp21F3PF) | 3:44 |
 | 104 | [Same Time](https://open.spotify.com/track/6QZN4gD7ezuPKX2TNOw28u) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Sunsets & Full Moons](https://open.spotify.com/album/4BSDAmxxjYJnePMfh8kSJM) | 3:17 |
 | 105 | [Machine Heart](https://open.spotify.com/track/6PxBgV42eHs9vgSXMxF5Ea) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically](https://open.spotify.com/album/76TPKafjzyzB1PjXOuvRtT) | 3:09 |
-| 106 | [Psychic](https://open.spotify.com/track/2mZULc67KQ7PJ3pqGl1Uce) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [STEP](https://open.spotify.com/album/7ouKhEyy9jcnDeg9KNnXe9) | 2:21 |
-| 107 | [PRIDE](https://open.spotify.com/track/4fHjAlhou3qMEgLUSbtvPP) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [NAGTTB+](https://open.spotify.com/album/6lte94zyWde7fR0o8XKQPZ) | 2:38 |
+| 106 | [PRIDE](https://open.spotify.com/track/4fHjAlhou3qMEgLUSbtvPP) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [NAGTTB+](https://open.spotify.com/album/6lte94zyWde7fR0o8XKQPZ) | 2:38 |
+| 107 | [Psychic](https://open.spotify.com/track/2mZULc67KQ7PJ3pqGl1Uce) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [STEP](https://open.spotify.com/album/7ouKhEyy9jcnDeg9KNnXe9) | 2:21 |
 | 108 | [Afraid of Love](https://open.spotify.com/track/4IbLHnHvz6dBwlkk9Xcs9B) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Stondon Massey](https://open.spotify.com/artist/0f5OmOrnXOokDq55o3osxg) | [HELLRAISERS, Part 3](https://open.spotify.com/album/3BwgBDgdwqRnuU805FMu3N) | 2:31 |
 | 109 | [Thought About That](https://open.spotify.com/track/0KqQk985HTWIkQgEABSwPP) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Thought About That](https://open.spotify.com/album/3G06Xtuozm5OVMq3iEetEL) | 3:19 |
 | 110 | [Never Again](https://open.spotify.com/track/3ACM0aFlB082ugIvX4beb5) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Chapter V \(Deluxe\)](https://open.spotify.com/album/24IexOT10jPuK3MR6cS3ag) | 3:48 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 196 | [Tonight](https://open.spotify.com/track/4aTAQCJIGLU5RRcnZNPftn) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/6ohDfN4WqQolD87G6s3j3U) | 3:53 |
 | 197 | [Let It Rain](https://open.spotify.com/track/1TG6k7kK3uHX1WyCh2xNpD) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 3:04 |
 
-Snapshot ID: `AcKvHgAAAAAbcRM8q0EkrGXJiz9EUGdz`
+Snapshot ID: `AcK0ggAAAADsaFeHoYTbhY2w4vyt/YBR`

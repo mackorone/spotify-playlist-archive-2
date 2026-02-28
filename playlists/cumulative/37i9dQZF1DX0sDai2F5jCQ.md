@@ -4,7 +4,7 @@
 
 > Your shortcut to the best new Hip Hop\. Cover: Baby Keem
 
-774 songs - 1 day 13 hr 39 min
+775 songs - 1 day 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,6 +420,7 @@
 | [LUXURY \(feat\. Aitch\)](https://open.spotify.com/track/6ljs4NxZZQTbxIz4ZjBMiW) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [IT'S NOT YOU IT'S ME](https://open.spotify.com/album/7yOrgeOtDX3XjPEzemjucQ) | 2:58 | 2026-01-29 |  |
 | [LV Bag \(feat\. j\-hope of BTS & Pharrell Williams\)](https://open.spotify.com/track/1MhXchY126AX5Iuv4Odbe8) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Speedy](https://open.spotify.com/artist/4hTb6DnLgjnsz9SgibDYS4), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [LV Bag \(feat\. j\-hope of BTS & Pharrell Williams\)](https://open.spotify.com/album/5AbAAzC0jBy4teVgpRbFPj) | 3:02 | 2025-02-20 | 2025-06-13 |
 | [LWRW](https://open.spotify.com/track/00KKtPfUBjO1k8Yn8dmJKZ) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [LWRW](https://open.spotify.com/album/17UWTQHJpEBuW8cWFGbYlN) | 2:39 | 2024-03-14 | 2024-04-19 |
+| [Made It On Our Own](https://open.spotify.com/track/13Z2JpNwN54a5WXacGYtLs) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Made It On Our Own](https://open.spotify.com/album/5pXYL4x2dOkvxM0aeigqwF) | 2:49 | 2026-02-27 |  |
 | [Magnet](https://open.spotify.com/track/7dHblXsJTRemgyIvFNJE7t) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:58 | 2025-09-19 | 2025-11-14 |
 | [Make a W \(feat\. Skrillex, AJ Tracey & BEAM\)](https://open.spotify.com/track/1TvL9bTK09XpG2NtAkD4nq) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [The Last One](https://open.spotify.com/album/26PpclJsqvQlP50d5XcLWp) | 2:57 | 2024-06-27 | 2024-11-29 |
 | [Mamas Car](https://open.spotify.com/track/51JtGJtPkfPz4qLHFIwC4j) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [Mamas Car](https://open.spotify.com/album/5jSswkACL8ldBkgeuWKG4o) | 2:16 | 2023-10-19 | 2023-12-01 |

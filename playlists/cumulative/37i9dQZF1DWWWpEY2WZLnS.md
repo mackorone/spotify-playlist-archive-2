@@ -4,7 +4,7 @@
 
 > Los éxitos del Dembow\. Portada: Ezzy R
 
-417 songs - 19 hr 42 min
+418 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [MONTOYA](https://open.spotify.com/track/6QJoEebhAhga8KXM2ho6k8) | [Anthony Ready & Yeigo](https://open.spotify.com/artist/3jbsnUDtwiiGVikbY9VYK7), [Victor R \-Swag](https://open.spotify.com/artist/5Jz48JzVckf7ZUvrQc55Iq) | [MONTOYA](https://open.spotify.com/album/3YimyhLTjpZjME0dBNNuLe) | 2:19 | 2025-02-19 | 2025-04-10 |
 | [Moreno](https://open.spotify.com/track/3eD7tZaxWolZ473ASnJpVt) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq) | [Moreno](https://open.spotify.com/album/0ltwMDb5zdU61DnCmaeIgn) | 3:02 | 2022-04-15 | 2023-03-11 |
 | [Moriremos](https://open.spotify.com/track/2xgSrqcEUnsNtTThaClnv4) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq) | [Moriremos](https://open.spotify.com/album/1dUvWr9F2VVNxiQ0JsiMTR) | 2:31 | 2021-11-19 | 2023-05-27 |
+| [Moto Uber](https://open.spotify.com/track/6YziklG4cZQ8WD9sSc6p07) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Ezzy R](https://open.spotify.com/artist/0DiYoKuXAI3xAA5JiU5UFX) | [Moto Uber](https://open.spotify.com/album/2eV97n3xMvoH2IYm7UQFd8) | 2:36 | 2026-02-27 |  |
 | [Mueve Eso](https://open.spotify.com/track/05I7jRJLZWfHgnuv2w7f75) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Luigui Bleand](https://open.spotify.com/artist/3s4iTKRp9wGJFYyn5Bo8Pq) | [Mueve Eso](https://open.spotify.com/album/137Kiv3H9ygMvm5fGy8BcR) | 2:22 | 2023-02-09 | 2023-05-27 |
 | [Muevelo](https://open.spotify.com/track/2EKhwL63hyaGrduXq36Dv6) | [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo), [Atomic Otro Way](https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ) | [Muevelo](https://open.spotify.com/album/3eWr2xpbtamu6EJpgMrkHd) | 3:23 | 2023-02-09 | 2023-08-04 |
 | [MUXAXA](https://open.spotify.com/track/0zNQhDxF7EVm7VUqU7nIBu) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [La Mas Doll](https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK) | [MUXAXA](https://open.spotify.com/album/6NeWz1m7EndzRGrxiX39KZ) | 1:49 | 2025-10-09 |  |

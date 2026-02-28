@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر\. الغلاف: عصام صاصا
 
-336 songs - 20 hr 57 min
+337 songs - 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [خمسه عليكي فالته](https://open.spotify.com/track/2jqdLZ9ts1Echt7AaTzYsY) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [خمسه عليكي فالته](https://open.spotify.com/album/788HXbaBgPjdMj9Qt9CNbI) | 3:04 | 2025-06-03 |  |
 | [خوجه في الجنب \- وانا علي البحر ازماله بتمشي متجوزيني بنتك يا حماتي](https://open.spotify.com/track/7KWqfXjwdagIi5KuYduDVk) | [Fares Sokar \- فارس سكر](https://open.spotify.com/artist/6mG5L5mJQIrHrZQZ0ZmpHh) | [خوجه في الجنب \- وانا علي البحر ازماله بتمشي متجوزيني بنتك يا حماتي](https://open.spotify.com/album/6GI7OaIeaZmqopk0AJTIFg) | 3:31 | 2024-03-08 | 2024-04-19 |
 | [دكن دكن هنا مفيش مكان](https://open.spotify.com/track/50x3nwdfvXWc8h0hUfKZU2) | [حمو رانجو](https://open.spotify.com/artist/1PKk0Y4YdcaolgA1jX9jRQ), [الصافي رايزو](https://open.spotify.com/artist/2kg6enclyL9breHTeJ9NuO) | [دكن دكن هنا مفيش مكان](https://open.spotify.com/album/30FVCyiVawvTRIVRN4lUtF) | 5:35 | 2025-01-13 | 2026-01-01 |
+| [دورت مكنتي بمنفلا](https://open.spotify.com/track/6UtmPa2TfoRP9VpSY8x1Cj) | [Fares Sokar \- فارس سكر](https://open.spotify.com/artist/6mG5L5mJQIrHrZQZ0ZmpHh) | [دورت مكنتي بمنفلا](https://open.spotify.com/album/2xhV3sxXW7ErVSfJ6bbnn6) | 3:08 | 2026-02-27 |  |
 | [دوس استوب لا تتخرط \- عاملالى فيها ليه فرفوره](https://open.spotify.com/track/1VdpB91Q5z4FBZxAEdM5fr) | [مصطفي الجن و هادي الصغير \- تيم الابداع](https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc) | [دوس استوب لا تتخرط \(عاملالى فيها ليه فرفوره\)](https://open.spotify.com/album/3WhDeVpaneCSP5yf53hJAs) | 3:55 | 2025-04-22 | 2025-05-08 |
 | [دوست علي زرار الحرب](https://open.spotify.com/track/4qLE7m7g5C49w1oOYi4kps) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [دوست علي زرار الحرب](https://open.spotify.com/album/4ykMP6RPkUr0Og1hE0HTrm) | 3:01 | 2023-08-20 | 2023-09-06 |
 | [ربنا يسترها علينا \- سهرتي في لفل بسهر احتفل](https://open.spotify.com/track/3xQg4jzByLiRONK4jsB9bk) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [ربنا يسترها علينا \(سهرتي في لفل بسهر احتفل\)](https://open.spotify.com/album/4tdx33SWo9L1flpGFEFNqO) | 3:55 | 2024-10-08 | 2025-04-23 |
@@ -274,7 +275,7 @@
 | [مسا مني ليكوا](https://open.spotify.com/track/7qnR06N2Ekj9iBOQHiFqdq) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [مسا منى ليكوا](https://open.spotify.com/album/7xJews3EUUzYDq1Ycez0Kq) | 3:39 | 2023-01-12 | 2025-06-04 |
 | [مساء اللذاذه رافعلي ازازة](https://open.spotify.com/track/6iYt4DFRlCQX4qsjc4yNVp) | [مصطفي الجن و هادي الصغير \- تيم الابداع](https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc) | [مساء اللذاذه رافعلي ازازة](https://open.spotify.com/album/3a0Hv8DY64kbCxLXySBNYI) | 2:42 | 2025-04-22 | 2025-05-08 |
 | [مسجون حزين](https://open.spotify.com/track/0TxEBrs9Py9uOxwOSYBROV) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [مسجون حزين](https://open.spotify.com/album/5bCHHycTY8di9iZoGO6hYI) | 4:24 | 2021-12-16 | 2022-10-25 |
-| [مسيلى على نفسك مسا](https://open.spotify.com/track/6CQNzeaZaiHNI6B8UTl5EE) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7), [Ahmed Moza](https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl) | [مسيلى على نفسك مسا](https://open.spotify.com/album/0UoKkR5b9EwbwcfTZP2t4u) | 4:34 | 2024-03-08 |  |
+| [مسيلى على نفسك مسا](https://open.spotify.com/track/6CQNzeaZaiHNI6B8UTl5EE) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7), [Ahmed Moza](https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl) | [مسيلى على نفسك مسا](https://open.spotify.com/album/0UoKkR5b9EwbwcfTZP2t4u) | 4:34 | 2024-03-08 | 2026-02-28 |
 | [مش شايفك](https://open.spotify.com/track/348qlmHvImqrjdgqlwvPjr) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [مش شايفك](https://open.spotify.com/album/0C8L9omqkyv8af3yCXNg7L) | 2:21 | 2022-10-16 | 2026-02-12 |
 | [مش قصدي اخون \(حاسس اني انا نصين\)](https://open.spotify.com/track/6XuYS6bTPYpD8IKOgwQROF) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [مش قصدي اخون \(حاسس اني انا نصين\)](https://open.spotify.com/album/6fIDk202Z8OdHtqBkwsjvX) | 3:20 | 2026-01-12 |  |
 | [مطروش معايا متجوش](https://open.spotify.com/track/7mTtBcAsOhcJs0BfWEFeYM) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [مطروش معايا متجوش](https://open.spotify.com/album/66sAt9c07XQxPqggpnYdRN) | 4:44 | 2024-01-31 | 2024-05-11 |

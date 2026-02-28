@@ -1,28 +1,28 @@
 {
   "description": "Playlist",
-  "num_followers": 17950,
+  "num_followers": 17951,
   "original_name": "Nice Guys | 24/7 Radio",
   "owner": {
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAAMS21Zpyy07XDlr4wFgmMO11wytD+o",
+  "snapshot_id": "AAAMUk9G48mQy4bOuZZAccXs6QILR9cp",
   "tracks": [
     {
-      "added_at": "2025-09-12 07:21:16",
+      "added_at": "2026-02-27 07:49:26",
       "album": {
-        "name": "You And I",
-        "url": "https://open.spotify.com/album/7uplgyK0NYSBM0vtLK4BIE"
+        "name": "Run on Home",
+        "url": "https://open.spotify.com/album/6tLKtcfb3mL4g8H3YfUOKA"
       },
       "artists": [
         {
-          "name": "Grayson Hamm",
-          "url": "https://open.spotify.com/artist/1zQbqJWYcdrVXef2iatspr"
+          "name": "BowAsWell",
+          "url": "https://open.spotify.com/artist/6apmV6knOKD1iACyE9wRLe"
         }
       ],
-      "duration_ms": 136045,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/7jwJMpWbCm9SPrV6dqvAc7"
+      "duration_ms": 171582,
+      "name": "Run on Home",
+      "url": "https://open.spotify.com/track/2uKigUC8VwPwyXFmLdwHkU"
     },
     {
       "added_at": "2026-01-16 08:41:44",
@@ -57,6 +57,54 @@
       "url": "https://open.spotify.com/track/542nv7m5c3NRgATOrgaBO0"
     },
     {
+      "added_at": "2026-01-29 14:15:51",
+      "album": {
+        "name": "Gardening is a Practice, Not an Idea (Deluxe)",
+        "url": "https://open.spotify.com/album/3A5v9tb1gc0TtegtuLTk84"
+      },
+      "artists": [
+        {
+          "name": "Blacktop",
+          "url": "https://open.spotify.com/artist/2tKIzZnbrNVtgyxye3uoZc"
+        }
+      ],
+      "duration_ms": 245017,
+      "name": "Flowers in the Garden",
+      "url": "https://open.spotify.com/track/59QMzFQooFuIhGyrHqQZMH"
+    },
+    {
+      "added_at": "2026-01-29 14:16:29",
+      "album": {
+        "name": "Presente",
+        "url": "https://open.spotify.com/album/6ZRkE4Q2fphdQ1pizokpp7"
+      },
+      "artists": [
+        {
+          "name": "Pedro Mizutani",
+          "url": "https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R"
+        }
+      ],
+      "duration_ms": 238125,
+      "name": "Presente",
+      "url": "https://open.spotify.com/track/12fmgHPWF4ljzjxdqjusuY"
+    },
+    {
+      "added_at": "2026-02-03 11:40:15",
+      "album": {
+        "name": "Window",
+        "url": "https://open.spotify.com/album/1q1GEYLNeJzXBXzINilLhh"
+      },
+      "artists": [
+        {
+          "name": "DNCR",
+          "url": "https://open.spotify.com/artist/5vtbcOgk8iFe6LF2paSK2u"
+        }
+      ],
+      "duration_ms": 179491,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/6aEkKd66Ik1zyVEBSMomK2"
+    },
+    {
       "added_at": "2025-11-28 14:52:01",
       "album": {
         "name": "Dia Azul",
@@ -71,6 +119,38 @@
       "duration_ms": 227262,
       "name": "Dia Azul",
       "url": "https://open.spotify.com/track/5qP6czxvzVk5rWni8RNQKc"
+    },
+    {
+      "added_at": "2026-02-20 09:20:34",
+      "album": {
+        "name": "Sweet Heart Sugar Love",
+        "url": "https://open.spotify.com/album/29xXHSOnoCwEFbu5K6oaUR"
+      },
+      "artists": [
+        {
+          "name": "Worries And Other Plants",
+          "url": "https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc"
+        }
+      ],
+      "duration_ms": 237859,
+      "name": "In Numbers",
+      "url": "https://open.spotify.com/track/5o7D67sy3DZHqT2lNkuOmh"
+    },
+    {
+      "added_at": "2025-09-12 07:21:16",
+      "album": {
+        "name": "You And I",
+        "url": "https://open.spotify.com/album/7uplgyK0NYSBM0vtLK4BIE"
+      },
+      "artists": [
+        {
+          "name": "Grayson Hamm",
+          "url": "https://open.spotify.com/artist/1zQbqJWYcdrVXef2iatspr"
+        }
+      ],
+      "duration_ms": 136045,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/7jwJMpWbCm9SPrV6dqvAc7"
     },
     {
       "added_at": "2026-01-14 10:37:37",
@@ -207,6 +287,22 @@
       "duration_ms": 222226,
       "name": "I Don't Wanna Give You Up",
       "url": "https://open.spotify.com/track/4rCZUOAzUEkgqit17eDlzi"
+    },
+    {
+      "added_at": "2026-02-20 09:24:27",
+      "album": {
+        "name": "Sweet Heart Sugar Love",
+        "url": "https://open.spotify.com/album/29xXHSOnoCwEFbu5K6oaUR"
+      },
+      "artists": [
+        {
+          "name": "Worries And Other Plants",
+          "url": "https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc"
+        }
+      ],
+      "duration_ms": 173361,
+      "name": "Three Four",
+      "url": "https://open.spotify.com/track/0qKGdje9mi0K1RH2qOK4Vm"
     },
     {
       "added_at": "2025-11-04 11:08:14",
@@ -10371,86 +10467,6 @@
       "duration_ms": 169879,
       "name": "Bye Dummy",
       "url": "https://open.spotify.com/track/13xRpimF9gtVsB5GM8Gyjz"
-    },
-    {
-      "added_at": "2026-01-29 14:15:51",
-      "album": {
-        "name": "Gardening is a Practice, Not an Idea (Deluxe)",
-        "url": "https://open.spotify.com/album/3A5v9tb1gc0TtegtuLTk84"
-      },
-      "artists": [
-        {
-          "name": "Blacktop",
-          "url": "https://open.spotify.com/artist/2tKIzZnbrNVtgyxye3uoZc"
-        }
-      ],
-      "duration_ms": 245017,
-      "name": "Flowers in the Garden",
-      "url": "https://open.spotify.com/track/59QMzFQooFuIhGyrHqQZMH"
-    },
-    {
-      "added_at": "2026-01-29 14:16:29",
-      "album": {
-        "name": "Presente",
-        "url": "https://open.spotify.com/album/6ZRkE4Q2fphdQ1pizokpp7"
-      },
-      "artists": [
-        {
-          "name": "Pedro Mizutani",
-          "url": "https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R"
-        }
-      ],
-      "duration_ms": 238125,
-      "name": "Presente",
-      "url": "https://open.spotify.com/track/12fmgHPWF4ljzjxdqjusuY"
-    },
-    {
-      "added_at": "2026-02-03 11:40:15",
-      "album": {
-        "name": "Window",
-        "url": "https://open.spotify.com/album/1q1GEYLNeJzXBXzINilLhh"
-      },
-      "artists": [
-        {
-          "name": "DNCR",
-          "url": "https://open.spotify.com/artist/5vtbcOgk8iFe6LF2paSK2u"
-        }
-      ],
-      "duration_ms": 179491,
-      "name": "Window",
-      "url": "https://open.spotify.com/track/6aEkKd66Ik1zyVEBSMomK2"
-    },
-    {
-      "added_at": "2026-02-20 09:20:34",
-      "album": {
-        "name": "Sweet Heart Sugar Love",
-        "url": "https://open.spotify.com/album/29xXHSOnoCwEFbu5K6oaUR"
-      },
-      "artists": [
-        {
-          "name": "Worries And Other Plants",
-          "url": "https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc"
-        }
-      ],
-      "duration_ms": 237859,
-      "name": "In Numbers",
-      "url": "https://open.spotify.com/track/5o7D67sy3DZHqT2lNkuOmh"
-    },
-    {
-      "added_at": "2026-02-20 09:24:27",
-      "album": {
-        "name": "Sweet Heart Sugar Love",
-        "url": "https://open.spotify.com/album/29xXHSOnoCwEFbu5K6oaUR"
-      },
-      "artists": [
-        {
-          "name": "Worries And Other Plants",
-          "url": "https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc"
-        }
-      ],
-      "duration_ms": 173361,
-      "name": "Three Four",
-      "url": "https://open.spotify.com/track/0qKGdje9mi0K1RH2qOK4Vm"
     }
   ],
   "unique_name": "Nice Guys | 24/7 Radio",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Workout to K-Pop? Count me in! (Cover: IVE) (\uc2e0\ub098\ub294 \ucf00\uc774\ud31d \ub304\uc2a4 \uc74c\uc545\uacfc \ud568\uaed8 \uc6b4\ub3d9\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Workout to K-Pop? Count me in! (Cover: BLACKPINK) (\uc2e0\ub098\ub294 \ucf00\uc774\ud31d \ub304\uc2a4 \uc74c\uc545\uacfc \ud568\uaed8 \uc6b4\ub3d9\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "WOR K  OUT",
   "tracks": [
     {
@@ -942,7 +942,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 177000,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/4MII9R3syMugyhdDvB8G0u"
@@ -1219,6 +1219,24 @@
     },
     {
       "album": {
+        "name": "REVIVE+",
+        "url": "https://open.spotify.com/album/28fYAUhRzVQM5nu4EmlDvo"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194171,
+      "name": "BLACKHOLE",
+      "url": "https://open.spotify.com/track/0MtiWniV24IBXmBPeW1v1m"
+    },
+    {
+      "album": {
         "name": "DIMENSION : ANSWER",
         "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
       },
@@ -1478,6 +1496,24 @@
       "duration_ms": 231174,
       "name": "Born Again (feat. Doja Cat & RAYE)",
       "url": "https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf"
+    },
+    {
+      "album": {
+        "name": "BOTH SIDES - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6bRPrpiUj5AFPkJLcIfMQh"
+      },
+      "artists": [
+        {
+          "name": "NCT JNJM",
+          "url": "https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171600,
+      "name": "BOTH SIDES",
+      "url": "https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK"
     },
     {
       "album": {
@@ -3402,7 +3438,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 168437,
       "name": "FEARLESS",
       "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
@@ -4056,6 +4092,24 @@
       "duration_ms": 137316,
       "name": "Gnarly",
       "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL"
+    },
+    {
+      "album": {
+        "name": "DEADLINE",
+        "url": "https://open.spotify.com/album/5EDiZm2nDfN10Uyr5XvQu8"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195402,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/0XanaXeMJJ4VdjWzwok7ZI"
     },
     {
       "album": {
@@ -6906,7 +6960,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 146360,
       "name": "Nice to see you again (Korean Ver.)",
       "url": "https://open.spotify.com/track/1mX9SZZfCeTbetghcrp8Jr"
@@ -8481,6 +8535,24 @@
     },
     {
       "album": {
+        "name": "RUDE!",
+        "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "RUDE!",
+      "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
+    },
+    {
+      "album": {
         "name": "RUN",
         "url": "https://open.spotify.com/album/5WQdyEPsMtXtFIldEhgqpF"
       },
@@ -9316,7 +9388,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 171720,
       "name": "SPAGHETTI",
       "url": "https://open.spotify.com/track/4ly7INe0YNvJNZYXnp85PH"
@@ -10656,7 +10728,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 153664,
       "name": "TOO BAD",
       "url": "https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm"
@@ -11474,7 +11546,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 162070,
       "name": "WHERE YOU AT",
       "url": "https://open.spotify.com/track/6vfcaWsN8gBLpfpSCru0Co"

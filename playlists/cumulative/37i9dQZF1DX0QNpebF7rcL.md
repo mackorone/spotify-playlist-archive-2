@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Joe Bonamassa
 
-542 songs - 1 day 12 hr 23 min
+543 songs - 1 day 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Grown Now](https://open.spotify.com/track/1G4QXkxFkadwNDEJSDWnfl) | [D.K\. Harrell](https://open.spotify.com/artist/33YoCLWWu9T6IdrXxCHsyx) | [Grown Now](https://open.spotify.com/album/0WU81ML0nzuJwgxRTgSdBk) | 3:52 | 2025-05-02 | 2025-06-21 |
 | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/track/62QWywMNsKrR05lOSYUAzg) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/album/0VxKgrOCKdcF9PSAvn1rx2) | 3:08 | 2022-08-12 | 2022-09-17 |
 | [Halfway There](https://open.spotify.com/track/627qRPE4twOD1Ag58smmc6) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Liberation \(Deluxe Edition\)](https://open.spotify.com/album/1NDbJpeEHpn98FldLiroO3) | 3:06 | 2025-09-19 |  |
-| [Hammer & Chisel](https://open.spotify.com/track/5dvMSxQxXTju4LR408NRwC) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Hammer & Chisel](https://open.spotify.com/album/5calaNHiZo8sYfIZSq30OY) | 3:47 | 2026-02-06 |  |
+| [Hammer & Chisel](https://open.spotify.com/track/5dvMSxQxXTju4LR408NRwC) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Hammer & Chisel](https://open.spotify.com/album/5calaNHiZo8sYfIZSq30OY) | 3:47 | 2026-02-06 | 2026-02-28 |
 | [Hangover Blues](https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Hangover Blues](https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz) | 4:04 | 2021-06-04 | 2023-01-06 |
 | [Hard Times](https://open.spotify.com/track/0iwCmwNw208SJPWr2ffvfn) | [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ), [Noah East](https://open.spotify.com/artist/0vAR5oDr4QsiUWm8aTFuB6), [Billy Valentine](https://open.spotify.com/artist/4AYoCwXHaaxeaM8DtzP3zg), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [FATHER SON](https://open.spotify.com/album/4eLAsdyOfNsiuczW6Iyc24) | 4:04 | 2025-05-16 |  |
 | [Hard To Be A Human](https://open.spotify.com/track/7hFfgsKkk0mbUiSuWElzTW) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Hard To Be A Human](https://open.spotify.com/album/1eJg3HW3Tn3xyK9Jh5Ot7U) | 4:40 | 2023-05-19 | 2023-09-16 |
@@ -524,6 +524,7 @@
 | [Where's The Party At](https://open.spotify.com/track/1eOlbH8uCxVAQnI0lh7OaO) | [Son Of Dave](https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae), [Celeigh Cardinal](https://open.spotify.com/artist/7HAq3UBI3pb8ok9k7dkdGR) | [Where's The Party At](https://open.spotify.com/album/4D6vyF59LINFNxZXIqOcbI) | 2:30 | 2024-06-14 | 2024-07-13 |
 | [Whiskey Got Me Married](https://open.spotify.com/track/1LlJhzftKCr4SVRfOgIYXN) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Testifyin'](https://open.spotify.com/album/0zNY2rhuQ5b3MLYFjqfNtp) | 3:51 | 2024-03-22 | 2026-01-15 |
 | [Who Are These Men](https://open.spotify.com/track/52l5jET3AK3xJnFKYiQVvr) | [ROZZZQWEEN](https://open.spotify.com/artist/7EE9HI3pj86iVpw46vrhh5), [FunkBuddy Official](https://open.spotify.com/artist/14pptHoet53ND2ZtGRQBcW) | [Who Are These Men](https://open.spotify.com/album/6r1maWifeE8Qa88Ibsqr6l) | 3:28 | 2024-11-08 |  |
+| [Who Can You Trust](https://open.spotify.com/track/0QBATyfMWV08KwlAaSCIfW) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Hammer & Chisel](https://open.spotify.com/album/6g8ujDUf9iXslvByOXW6S7) | 4:16 | 2026-02-27 |  |
 | [Who Do You Love](https://open.spotify.com/track/4KbkajONKr97VZBv5Zi3Ux) | [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk), [Datrian Johnson](https://open.spotify.com/artist/1ta7b6Oo2nNK918tfmFJ4A), [MEM\_MODS](https://open.spotify.com/artist/2NS7SoCNyg1AWORYD54jSv) | [Who Do You Love](https://open.spotify.com/album/6lTNovqqr00syqgcNwQUwS) | 4:28 | 2025-08-29 | 2025-10-18 |
 | [Whole World's Got The Blues \(feat\. Eric Gales\)](https://open.spotify.com/track/36K7AYc1UyMyjPoV4c3ozR) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Whole World's Got The Blues \(feat\. Eric Gales\)](https://open.spotify.com/album/4WliYc7MYceRk1zwJMUNNE) | 5:33 | 2021-03-19 | 2022-04-23 |
 | [Why You Wanna Make War \- English Version](https://open.spotify.com/track/4yB81Xy4lvmharZ5qr7LVT) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Emotional Gangster](https://open.spotify.com/album/0FpsQrpsnBRAj4lnhq879R) | 3:27 | 2022-03-18 | 2024-05-04 |

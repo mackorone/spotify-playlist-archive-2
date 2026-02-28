@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Bilderbuch
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,792 likes - 90 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,810 likes - 90 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,21 +32,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 22 | [seventeen](https://open.spotify.com/track/2AUz0IhvouSf6GHNqZN5WO) | [Kids don't smoke](https://open.spotify.com/artist/4rV7tL543jWwFTKTIQSdYf) | [seventeen](https://open.spotify.com/album/3nBYPJeuJsYsoiN4PIrURW) | 3:04 |
 | 23 | [Wait Up \(feat\. I'm With Her\)](https://open.spotify.com/track/4bKT1G7Q6kInM0idAtnP3p) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Hen's Teeth](https://open.spotify.com/album/4v7qrSwfjkEKu4hd1OwwvN) | 3:45 |
 | 24 | [Slow Tonight](https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Slow Tonight](https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc) | 3:12 |
-| 25 | [Track 4](https://open.spotify.com/track/3aufXmyK5eWknYNFFQ3fjl) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [KABEAUSHÉ PRESENTS: IGGY SWAGGERING UNGRATEFUL INCESSANT LITTLE PEEEAAAAAAAA](https://open.spotify.com/album/4mrIx6WYjqM6dl9R4poIfQ) | 0:00 |
+| 25 | [CLAMS ARE JUST SHELLS](https://open.spotify.com/track/3aufXmyK5eWknYNFFQ3fjl) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [KABEAUSHÉ PRESENTS: IGGY SWAGGERING UNGRATEFUL INCESSANT LITTLE PEEEAAAAAAAA](https://open.spotify.com/album/4mrIx6WYjqM6dl9R4poIfQ) | 3:18 |
 | 26 | [19 Underground](https://open.spotify.com/track/3AKzOFfv7b3WSuBmjFxMdp) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Ore](https://open.spotify.com/album/0SiGD27Z9eblEQQMdpBCLK) | 3:08 |
-| 27 | [Track 4](https://open.spotify.com/track/7b7E0DRrCjo6SRA0H1T7At) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [You Better Get Used To It](https://open.spotify.com/album/1LEjRr1j3QXvy6Ag6Pa2Ru) | 0:00 |
+| 27 | [You See Me](https://open.spotify.com/track/7b7E0DRrCjo6SRA0H1T7At) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [You Better Get Used To It](https://open.spotify.com/album/1LEjRr1j3QXvy6Ag6Pa2Ru) | 2:59 |
 | 28 | [Star](https://open.spotify.com/track/6ZzycZmHaFzfbIBl24BV3N) | [mori](https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [El Niño Bola](https://open.spotify.com/album/3Bo7xLuNrJhubah3xYLCqv) | 3:31 |
 | 29 | [I Know!](https://open.spotify.com/track/3q2YKTA1K0GrFVoBFMoN5t) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [I Know!](https://open.spotify.com/album/0M2XvfmdGjy0jer1Z7gbXW) | 3:34 |
 | 30 | [Berlin](https://open.spotify.com/track/17XxoRBKPgZqSzYLFW3gto) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Berlin](https://open.spotify.com/album/7fWswbqrYkq5epwUQAJtFU) | 3:23 |
 | 31 | [Drifting](https://open.spotify.com/track/2Ot8ncF6npCGj4WWII531y) | [Flora Falls](https://open.spotify.com/artist/2lgTnaXO0b6ufPyEmbZJO9) | [Drifting](https://open.spotify.com/album/1jr4CTZPT3zAtxK4j9tDl4) | 3:14 |
 | 32 | [Internet Famous](https://open.spotify.com/track/50h9Bp3vYgDfv0852K2ZYJ) | [Odd Beholder](https://open.spotify.com/artist/3QXIzf05xhPdEUciKVif6v) | [Internet Famous](https://open.spotify.com/album/7ggy8Et1NGjODVwqN9FSgd) | 3:39 |
 | 33 | [Future Memories](https://open.spotify.com/track/5EUvb4GAObVx4JiWKE7Exy) | [Mink](https://open.spotify.com/artist/021q1fOEcfqxtlCtJs868v) | [Future Memories](https://open.spotify.com/album/3LLSCmWBkoJE53NbdpE71H) | 2:56 |
-| 34 | [Track 8](https://open.spotify.com/track/2tV5OHJ87RiiROZwFGRpmh) | [Lone Assembly](https://open.spotify.com/artist/7rBex2w8oAVe36lTvkMss6) | [Knots & Chains](https://open.spotify.com/album/4pU4iCDJArAmiwZittcWHA) | 0:00 |
+| 34 | [You're Pulling at the Same Strings](https://open.spotify.com/track/2tV5OHJ87RiiROZwFGRpmh) | [Lone Assembly](https://open.spotify.com/artist/7rBex2w8oAVe36lTvkMss6) | [Knots & Chains](https://open.spotify.com/album/4pU4iCDJArAmiwZittcWHA) | 4:36 |
 | 35 | [Unfug the World](https://open.spotify.com/track/1RnVCoM6EvFMbmn7nwSqgY) | [Fortuna Ehrenfeld](https://open.spotify.com/artist/7xs1dZEBvPCk2zktBhVeKb) | [Unfug the World](https://open.spotify.com/album/7fcAFjQgLTxpurPGbAXzeC) | 3:05 |
 | 36 | [Hollywood Smile](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0) | [Cousines like Shit](https://open.spotify.com/artist/31m36kfWrLAbE0uLkMFBLX), [Farce](https://open.spotify.com/artist/1IOefq76hrfQI27fVDDq7y) | [Hollywood Smile](https://open.spotify.com/album/61x7cRWE8RxYGLclzYIr28) | 2:17 |
 | 37 | [Blue Rider, Blue Faced](https://open.spotify.com/track/6HSuf0rKOtvGv1yhNSsBXK) | [Fiona Fiasco](https://open.spotify.com/artist/77Sy5Zgnd5KHzbsqKW6few) | [Blue Rider, Blue Faced](https://open.spotify.com/album/5aMb0lWLkrRnwmc1eH3Llr) | 3:25 |
 | 38 | [Heartbeat](https://open.spotify.com/track/0bcff4ijcFCRui8XWmeKn9) | [Lola Blue](https://open.spotify.com/artist/6qdCzMXnKVyrxoa0ibl1at) | [Heartbeat](https://open.spotify.com/album/0hcdzuLJY31Dzc7ZIz8o2o) | 2:52 |
-| 39 | [Track 4](https://open.spotify.com/track/6tQUk9jdRt7J4gcNGWsbY7) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Daystar](https://open.spotify.com/album/0KoW4BXL68p81T9Cm93cRC) | 0:00 |
+| 39 | [Secrets](https://open.spotify.com/track/6tQUk9jdRt7J4gcNGWsbY7) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Daystar](https://open.spotify.com/album/0KoW4BXL68p81T9Cm93cRC) | 4:08 |
 | 40 | [Jet Stream Heart](https://open.spotify.com/track/0tIi8FsNFChexzMAkkjCcE) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Jet Stream Heart](https://open.spotify.com/album/0OEWMeVWS44OsiFYOvaz4n) | 3:39 |
 | 41 | [Such Great Heights \- From "Tell Me Lies \(Season 3\)"](https://open.spotify.com/track/2UJ5jlXlRkBx4dyVGIEGc0) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Such Great Heights \[From "Tell Me Lies \(Season 3\)"\]](https://open.spotify.com/album/3Qabstvdx4TfWujTzy5Gee) | 4:27 |
 | 42 | [Tell Me How It Feels](https://open.spotify.com/track/7heLi5l4FqgKvOG3IN8jFm) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Tell Me How It Feels](https://open.spotify.com/album/20WT44ywZwSmZsYSk4OW7l) | 3:23 |

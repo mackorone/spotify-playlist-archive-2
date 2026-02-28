@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 57530,
+  "num_followers": 57546,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
@@ -243,30 +243,6 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Schumann: Lied Edition, Vol. 6: Myrthen - 6 Gedichte und Requiem",
-        "url": "https://open.spotify.com/album/0LlTYA9dmlXeNnFGk4W1kE"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Thomas E. Bauer",
-          "url": "https://open.spotify.com/artist/2CZtxZGpDalPgf7ZE2mXXq"
-        },
-        {
-          "name": "Uta Hielscher",
-          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
-        }
-      ],
-      "duration_ms": 162453,
-      "name": "6 Gedichte von N. Lenau und Requiem, Op. 90: No. 2, Meine Rose",
-      "url": "https://open.spotify.com/track/23OlUfTExh1b2MMOy9MBXF"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
         "name": "Schumann: Carnaval, Davidsb\u00fcndlert\u00e4nze & Papillons",
         "url": "https://open.spotify.com/album/0fNkt7mfTDI1BbnvgZRDyV"
       },
@@ -311,6 +287,30 @@
       "duration_ms": 201640,
       "name": "Minnespiel, Op. 101: No. 1: Meine Tone still und heiter",
       "url": "https://open.spotify.com/track/0DeEj6R8KMJQSajVMJk41K"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
+        "name": "Schumann: Lied Edition, Vol. 6: Myrthen - 6 Gedichte und Requiem",
+        "url": "https://open.spotify.com/album/0LlTYA9dmlXeNnFGk4W1kE"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Thomas E. Bauer",
+          "url": "https://open.spotify.com/artist/2CZtxZGpDalPgf7ZE2mXXq"
+        },
+        {
+          "name": "Uta Hielscher",
+          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
+        }
+      ],
+      "duration_ms": 162453,
+      "name": "6 Gedichte von N. Lenau und Requiem, Op. 90: No. 2, Meine Rose",
+      "url": "https://open.spotify.com/track/23OlUfTExh1b2MMOy9MBXF"
     },
     {
       "added_at": "2025-12-15 12:40:07",
@@ -711,34 +711,6 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Schumann: Complete Works for Piano Trio",
-        "url": "https://open.spotify.com/album/2M0yWj2uwyyGiGJxKm8Nwx"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
-        },
-        {
-          "name": "Christian Tetzlaff",
-          "url": "https://open.spotify.com/artist/1fo7wyhU0wmbIbknhGaBOi"
-        },
-        {
-          "name": "Tanja Tetzlaff",
-          "url": "https://open.spotify.com/artist/02bDUUUCAdpFob66KNgPtF"
-        }
-      ],
-      "duration_ms": 478546,
-      "name": "Schumann: Piano Trio No. 1 in D Minor, Op. 63: IV. Mit Feuer",
-      "url": "https://open.spotify.com/track/5Nxjc7qVeZTcNv7lCNTiSS"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
         "name": "Schumann: Cello Concerto; Piano Trio No. 1",
         "url": "https://open.spotify.com/album/572k9YtrTjku07ed5jf8rH"
       },
@@ -763,6 +735,34 @@
       "duration_ms": 475426,
       "name": "Cello Concerto in A minor, op. 129: III. Finale vivace - Sehr Lebhaft",
       "url": "https://open.spotify.com/track/01Q0yJSYeyoNFYxJXjWbQG"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
+        "name": "Schumann: Complete Works for Piano Trio",
+        "url": "https://open.spotify.com/album/2M0yWj2uwyyGiGJxKm8Nwx"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        },
+        {
+          "name": "Christian Tetzlaff",
+          "url": "https://open.spotify.com/artist/1fo7wyhU0wmbIbknhGaBOi"
+        },
+        {
+          "name": "Tanja Tetzlaff",
+          "url": "https://open.spotify.com/artist/02bDUUUCAdpFob66KNgPtF"
+        }
+      ],
+      "duration_ms": 478546,
+      "name": "Schumann: Piano Trio No. 1 in D Minor, Op. 63: IV. Mit Feuer",
+      "url": "https://open.spotify.com/track/5Nxjc7qVeZTcNv7lCNTiSS"
     },
     {
       "added_at": "2025-12-15 12:40:07",
@@ -859,30 +859,6 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Schumann: Symphony No.2; \"Manfred\" Overture; Konzertst\u00fcck for 4 Horns",
-        "url": "https://open.spotify.com/album/0wWKS7tKOF2KxpMSURs08f"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        },
-        {
-          "name": "Christian Thielemann",
-          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
-        }
-      ],
-      "duration_ms": 773000,
-      "name": "Symphony No. 2 in C Major, Op. 61: I. Sostenuto assai \u2013 Allegro ma non troppo",
-      "url": "https://open.spotify.com/track/5OQl6PCd6FxO7qfz6tMVGq"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
         "name": "Dichterliebe, Op. 48: 1. Im wundersch\u00f6nen Monat Mai",
         "url": "https://open.spotify.com/album/7DVk0O09BSgLYP8FdQotxX"
       },
@@ -903,6 +879,30 @@
       "duration_ms": 90000,
       "name": "Schumann: Dichterliebe, Op. 48: 1. Im wundersch\u00f6nen Monat Mai",
       "url": "https://open.spotify.com/track/6VEuY1WrVMMW7xOAlzbLXv"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
+        "name": "Schumann: Symphony No.2; \"Manfred\" Overture; Konzertst\u00fcck for 4 Horns",
+        "url": "https://open.spotify.com/album/0wWKS7tKOF2KxpMSURs08f"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Christian Thielemann",
+          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
+        }
+      ],
+      "duration_ms": 773000,
+      "name": "Symphony No. 2 in C Major, Op. 61: I. Sostenuto assai \u2013 Allegro ma non troppo",
+      "url": "https://open.spotify.com/track/5OQl6PCd6FxO7qfz6tMVGq"
     },
     {
       "added_at": "2025-12-15 12:40:07",

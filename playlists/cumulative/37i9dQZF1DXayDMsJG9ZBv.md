@@ -4,7 +4,7 @@
 
 > 世界中のトレンドと日本の最新ヒット曲をまとめてお届けします。Cover: Bruno Mars
 
-947 songs - 2 day 6 hr 41 min
+950 songs - 2 day 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,8 @@
 | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS) | 3:08 | 2026-01-15 |  |
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-02-27 | 2023-03-14 |
 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 | 2025-05-22 | 2025-06-13 |
+| [GO](https://open.spotify.com/track/3ZqbplDGd2MJOUgs6yY42I) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/7DO7f71Dkm98AKDIgBaaSx) | 3:15 | 2026-02-27 |  |
+| [GO](https://open.spotify.com/track/7mnGt1Kc4co88m5b5DbdwL) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/1WHbHdkNSLkALCFxPAQjXc) | 3:15 | 2026-02-27 |  |
 | [Go For Broke](https://open.spotify.com/track/3pVLl6PaU1IVVGt4aqFxg7) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Go For Broke](https://open.spotify.com/album/7lQDeso2WxVQ4RZFjxlMp7) | 2:50 | 2026-02-19 |  |
 | [Go Wild](https://open.spotify.com/track/7k0S7glb0p9AX7jj4a6w0J) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Go Wild / Miyao](https://open.spotify.com/album/2yyNpA4jsXUoVatcIBuI7W) | 2:44 | 2025-12-11 | 2026-01-15 |
 | [GOAT](https://open.spotify.com/track/18mkDTCwDfZyTJNYieHxhQ) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/7FMZzj19H20lmScSIZvUFO) | 2:37 | 2024-01-10 | 2024-05-10 |
@@ -309,7 +311,8 @@
 | [I GOT YOU \(Original\)](https://open.spotify.com/track/4RXsi1oTj3uaqoRC9UrwGA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU \(Voyage ver.\)](https://open.spotify.com/album/5cnrcbdcdt6BJgAig9Tn3P) | 2:53 | 2024-02-05 | 2024-02-27 |
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-05-16 | 2024-10-31 |
 | [I hate this love song](https://open.spotify.com/track/0HwDv2bXxdQnGUJhAuGAqG) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [I hate this love song](https://open.spotify.com/album/0R8wB8JasgURZHtMHwRjm4) | 3:18 | 2025-06-05 | 2025-09-13 |
-| [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 | 2026-01-15 |  |
+| [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 | 2026-01-15 | 2026-02-28 |
+| [I Just Might](https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:32 | 2026-02-27 |  |
 | [I know love \(feat\. The Kid LAROI\)](https://open.spotify.com/track/4xvEn1vhrF9JbPFWqTXsH4) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:36 | 2025-02-27 | 2025-05-23 |
 | [I Like It \- Remix](https://open.spotify.com/track/1DUB3yI7yBwlgyuLvNjWRb) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [R\-Shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb), [BACHLOGIC](https://open.spotify.com/artist/2ywZEDFSCGI0zuycGdCwQ9) | [I Like It \(Remix\)](https://open.spotify.com/album/6OFYq75Tj0U11rvguNSnfT) | 2:40 | 2025-09-04 | 2025-10-24 |
 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2023-01-30 | 2023-02-07 |
@@ -474,7 +477,7 @@
 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 | 2024-10-30 | 2025-01-17 |
 | [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 | 2025-02-27 | 2025-05-23 |
 | [NON STOP](https://open.spotify.com/track/6U2jlLB3zyqpUiHwCfxcyA) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [NON STOP](https://open.spotify.com/album/204nfufsRpeYrfkr0L0Z8B) | 2:53 | 2025-12-04 | 2026-01-23 |
-| [NOT CUTE ANYMORE](https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [NOT CUTE ANYMORE](https://open.spotify.com/album/6wKHLrZczZAhDVsMEG4JXt) | 2:11 | 2025-12-04 |  |
+| [NOT CUTE ANYMORE](https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [NOT CUTE ANYMORE](https://open.spotify.com/album/6wKHLrZczZAhDVsMEG4JXt) | 2:11 | 2025-12-04 | 2026-02-28 |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-09 | 2025-03-14 |
 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj) | 2:50 | 2023-12-25 | 2024-05-10 |
 | [NOT OK](https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [NOT OK](https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm) | 3:26 | 2025-10-02 | 2025-11-21 |

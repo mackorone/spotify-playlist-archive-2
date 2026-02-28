@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 
 > Enjoy music from "Nijigasaki High School Idol Club"\. ©2022 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,860 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,859 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 | 14 | [決意の光](https://open.spotify.com/track/5bKOT6xcTF9SLJw4sKgb2s) | [三船栞子 \(CV.小泉萌香\)](https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 3:54 |
 | 15 | [TOKIMEKI Runners](https://open.spotify.com/track/2wI8kQ2psvPoMqqlKLusJ1) | [Nijigasaki High School Idol Club](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 4:36 |
 | 16 | [Daydream Mermaid](https://open.spotify.com/track/2HEIUm9pIViliot1yfkJi3) | [近江彼方 \(CV.鬼頭明里\)](https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI) | [どこにいても君は君](https://open.spotify.com/album/3ByQWR8ogTlrWM7lh5i5Om) | 4:08 |
-| 17 | [MELODY](https://open.spotify.com/track/6DmIItjA98dekA0MvIeiHC) | [優木せつ菜 \(CV.楠木ともり\)](https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN) | [Love U my friends](https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV) | 4:29 |
+| 17 | [無敵級\*ビリーバー](https://open.spotify.com/track/4fwvtGCkTjHfgFvati4kJu) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [無敵級\*ビリーバー](https://open.spotify.com/album/4hYX05KykZ4kLoVJXJKMHn) | 4:04 |
 | 18 | [Solitude Rain](https://open.spotify.com/track/7pTGAjgAD6mojP2oRwiXX5) | [桜坂しずく \(CV.前田佳織里\)](https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq) | [Butterfly / Solitude Rain / VIVID WORLD \(桜坂しずく盤\)](https://open.spotify.com/album/6HizYtJPlqdsGd9AaVep4T) | 4:06 |
-| 19 | [無敵級\*ビリーバー](https://open.spotify.com/track/4fwvtGCkTjHfgFvati4kJu) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [無敵級\*ビリーバー](https://open.spotify.com/album/4hYX05KykZ4kLoVJXJKMHn) | 4:04 |
+| 19 | [MELODY](https://open.spotify.com/track/6DmIItjA98dekA0MvIeiHC) | [優木せつ菜 \(CV.楠木ともり\)](https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN) | [Love U my friends](https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV) | 4:29 |
 | 20 | [夢がここからはじまるよ](https://open.spotify.com/track/1VXAsYc8reWdpt1l5mXzid) | [Nijigasaki High School Idol Club](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [Awakening Promise / 夢がここからはじまるよ](https://open.spotify.com/album/2AVHHCRSevbqVGmSNAos6o) | 4:43 |
 | 21 | [Stellar Stream](https://open.spotify.com/track/4wZcKcvGmPDbSazHXFw6ex) | [上原歩夢 \(CV.大西亜玖璃\)](https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ) | [どこにいても君は君](https://open.spotify.com/album/3ByQWR8ogTlrWM7lh5i5Om) | 3:48 |
 | 22 | [VIVID WORLD](https://open.spotify.com/track/2nsE6Ebr959B30OaevvMJI) | [朝香果林 \(CV.久保田未夢\)](https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku) | [Butterfly / Solitude Rain / VIVID WORLD \(朝香果林盤\)](https://open.spotify.com/album/1BnZQYgRgHc7FbMArnUCAm) | 4:35 |

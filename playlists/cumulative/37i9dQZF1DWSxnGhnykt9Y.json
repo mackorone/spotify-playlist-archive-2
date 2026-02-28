@@ -125,6 +125,24 @@
     },
     {
       "album": {
+        "name": "African King",
+        "url": "https://open.spotify.com/album/0Bno7z2yVU82F0Yd5VgmdD"
+      },
+      "artists": [
+        {
+          "name": "Wendy Shay",
+          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143157,
+      "name": "African King",
+      "url": "https://open.spotify.com/track/6ggYw77QdcBDBj0thdtMAl"
+    },
+    {
+      "album": {
         "name": "Freely",
         "url": "https://open.spotify.com/album/0i6vKjiwKhg63HBWJvnKCp"
       },
@@ -615,6 +633,28 @@
     },
     {
       "album": {
+        "name": "Busy Body",
+        "url": "https://open.spotify.com/album/6zsTa35bn3dzyTRADdbRfd"
+      },
+      "artists": [
+        {
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195157,
+      "name": "Busy Body",
+      "url": "https://open.spotify.com/track/6GNR77cARsUEuYAacz5fPr"
+    },
+    {
+      "album": {
         "name": "Chakra",
         "url": "https://open.spotify.com/album/0Xik1jZbDQ5bBFVap73iul"
       },
@@ -716,7 +756,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 156779,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/140cW0PtrfiVaOrIUlZ5Dq"
@@ -876,7 +916,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 147000,
       "name": "Denial",
       "url": "https://open.spotify.com/track/1LoWT5n1jJ8sHsMFKEugmV"
@@ -1294,6 +1334,24 @@
       "duration_ms": 151868,
       "name": "Gara (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/4FoPiQu25ouBFSZJIhCkc0"
+    },
+    {
+      "album": {
+        "name": "Gimme Ur Luv",
+        "url": "https://open.spotify.com/album/1Yjr8ett0KVRZlM2IkaviJ"
+      },
+      "artists": [
+        {
+          "name": "Efe Oraka",
+          "url": "https://open.spotify.com/artist/5Q53UO2TC6Nwbx0qVCmcxo"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145200,
+      "name": "Gimme Ur Luv",
+      "url": "https://open.spotify.com/track/41Y4HI6j3MO763wGudQtAP"
     },
     {
       "album": {
@@ -1795,6 +1853,28 @@
     },
     {
       "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/1gJOBSFTxIuJ2pwYRa7cmJ"
+      },
+      "artists": [
+        {
+          "name": "Rose May Alaba",
+          "url": "https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s"
+        },
+        {
+          "name": "Mamba Sounds",
+          "url": "https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161379,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/3RkVf1OldUGYKfhsnE35AC"
+    },
+    {
+      "album": {
         "name": "Jump",
         "url": "https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX"
       },
@@ -1850,7 +1930,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 115932,
       "name": "Kamakazi",
       "url": "https://open.spotify.com/track/6KWQVlGNYtwLWhTdAYdPrZ"
@@ -1962,7 +2042,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 141967,
       "name": "Larger Than Life (feat. Stonebwoy)",
       "url": "https://open.spotify.com/track/3inZDmrO8MqAbMjSliT1IO"
@@ -2154,7 +2234,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 202127,
       "name": "Love Na Scam",
       "url": "https://open.spotify.com/track/5DoU2Z4yrJtDWohxvjqlfr"
@@ -3093,6 +3173,24 @@
     },
     {
       "album": {
+        "name": "One Life",
+        "url": "https://open.spotify.com/album/7740eZ2txjy1JGxSZ9fi6y"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Winter",
+          "url": "https://open.spotify.com/artist/1SbOUD9N7WuyXFV8ISYxK5"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153684,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/1ALDDxD2qP0VN7PUhcVeF0"
+    },
+    {
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/0vxQ7lhCLDy0g2bL21vK8I"
       },
@@ -3144,6 +3242,28 @@
       "duration_ms": 161739,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/3qtjXN6IeonFhzu8IWZRKT"
+    },
+    {
+      "album": {
+        "name": "PARTYGYAL",
+        "url": "https://open.spotify.com/album/58KANh9hTj5sxFClFIuTty"
+      },
+      "artists": [
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167355,
+      "name": "PARTYGYAL",
+      "url": "https://open.spotify.com/track/46Cu4xavDB7pcejde1ldMA"
     },
     {
       "album": {
@@ -3220,6 +3340,24 @@
       "duration_ms": 172800,
       "name": "Personally",
       "url": "https://open.spotify.com/track/4L8RI5JB3drZXgzsnDpSF3"
+    },
+    {
+      "album": {
+        "name": "Pour Some More",
+        "url": "https://open.spotify.com/album/2GWRXNkOxM7otzMuhInBqF"
+      },
+      "artists": [
+        {
+          "name": "Yas Mayou",
+          "url": "https://open.spotify.com/artist/23tleadB20w0exvWcMYROK"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207455,
+      "name": "Pour Some More",
+      "url": "https://open.spotify.com/track/0FpWKANWyGMQku1LNLUO7a"
     },
     {
       "album": {
@@ -3512,7 +3650,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 143119,
       "name": "Sapiosexual",
       "url": "https://open.spotify.com/track/1U87fNBrQuYJgoolhh0WQt"
@@ -3530,7 +3668,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 128000,
       "name": "Shawa Shawa (Ashawo)",
       "url": "https://open.spotify.com/track/0L83TBAR0ad6GJH7q2GtJP"
@@ -3654,6 +3792,24 @@
       "duration_ms": 174812,
       "name": "Speed",
       "url": "https://open.spotify.com/track/5NzJQcALCxkwV8BUrFUtDS"
+    },
+    {
+      "album": {
+        "name": "Stay Far",
+        "url": "https://open.spotify.com/album/1VqUiyDvMZetDUxttTeDfa"
+      },
+      "artists": [
+        {
+          "name": "Adina Thembi",
+          "url": "https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "Stay Far",
+      "url": "https://open.spotify.com/track/10e3UqAjkFbHOIr85l9vrN"
     },
     {
       "album": {
@@ -3784,7 +3940,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 139409,
       "name": "Telepatia",
       "url": "https://open.spotify.com/track/589zxmaP1M9N8AHVje76mF"
@@ -3838,7 +3994,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 185660,
       "name": "Toffee",
       "url": "https://open.spotify.com/track/526ajsmmCi9QKfOQCJiZn3"
@@ -3900,6 +4056,24 @@
       "duration_ms": 183170,
       "name": "Tonic No Lime - Remix",
       "url": "https://open.spotify.com/track/44iABFwPsdM9jVxKojQrw5"
+    },
+    {
+      "album": {
+        "name": "TRABZ",
+        "url": "https://open.spotify.com/album/5b9bt1fofoZKmzGnPrcnPd"
+      },
+      "artists": [
+        {
+          "name": "Candy Bleakz",
+          "url": "https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "TRABZ",
+      "url": "https://open.spotify.com/track/37q6nr9zUrFCyBCcoKdaMJ"
     },
     {
       "album": {

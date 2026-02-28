@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CRVnO.md) - [plain]
 
 > This is Playboi Carti\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,370 likes - 47 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,382 likes - 47 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CRVnO.md) - [plain]
 | 29 | [FOMDJ](https://open.spotify.com/track/7bO7a1KrtmGNDIOy2u3siZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:20 |
 | 30 | [Yah Mean](https://open.spotify.com/track/5MUxrNd7Gr2HksLcAlB0IO) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 2:45 |
 | 31 | [New Tank](https://open.spotify.com/track/4txKMpsSfZRV6durPuHVq0) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 1:29 |
-| 32 | [FIELD TRIP](https://open.spotify.com/track/3lCb7ZYE3Fvie4JOPqpXfY) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [FIELD TRIP](https://open.spotify.com/album/73RJkZAkpUFHyGw4gTUQjK) | 2:43 |
-| 33 | [ALL RED](https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [ALL RED](https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx) | 2:28 |
+| 32 | [ALL RED](https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [ALL RED](https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx) | 2:28 |
+| 33 | [FIELD TRIP](https://open.spotify.com/track/3lCb7ZYE3Fvie4JOPqpXfY) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [FIELD TRIP](https://open.spotify.com/album/73RJkZAkpUFHyGw4gTUQjK) | 2:43 |
 | 34 | [Let It Go](https://open.spotify.com/track/23QyE9GQpXsX9WgEDADMa6) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 2:30 |
 | 35 | [Place](https://open.spotify.com/track/1Bg2CNZw6S4e9cGWPmi0uI) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 1:57 |
 | 36 | [FlatBed Freestyle](https://open.spotify.com/track/5nayhWICkQGMTkisxVMbRw) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Die Lit](https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O) | 3:13 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CRVnO.md) - [plain]
 | 46 | [Fire Your Manager \(feat\. Playboi Carti\)](https://open.spotify.com/track/3kdAWcII7Co6Lv9Rw1pbIo) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MASA](https://open.spotify.com/album/2jkrBfnQoV4eDTaoXWnVhg) | 3:53 |
 | 47 | [Baguettes in the Face \(feat\. NAV, Playboi Carti & A Boogie Wit da Hoodie\)](https://open.spotify.com/track/2zjGJ0dChMR0KxBZS15aqo) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 2:54 |
 
-Snapshot ID: `aZ47gAAAAAC+kZ44X5chNOmFU752/J/m`
+Snapshot ID: `aZ+NAAAAAADvPYWVFmCapwOQ6hHQo+4L`

@@ -12471,6 +12471,24 @@
     },
     {
       "album": {
+        "name": "Wangu",
+        "url": "https://open.spotify.com/album/6oQFivXTgklnz7mHzjQkab"
+      },
+      "artists": [
+        {
+          "name": "Jay Melody",
+          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Wangu",
+      "url": "https://open.spotify.com/track/3rRiEM8ttueIZU59KNSdTe"
+    },
+    {
+      "album": {
         "name": "Wapo",
         "url": "https://open.spotify.com/album/0sSuteqvC4BO0roqNxF62I"
       },

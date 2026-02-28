@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The latest releases from bluegrass and string bands alike. Cover: The Infamous Stringdusters",
+  "description": "The latest releases from bluegrass and string bands alike. Cover: Magoo",
   "name": "New Grass",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 196440,
       "name": "Adaline",
       "url": "https://open.spotify.com/track/7k26M5gQBzggbDRQrf9qSc"
@@ -795,6 +795,24 @@
     },
     {
       "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/0B88zHXjkSFUIGyYrnQGCc"
+      },
+      "artists": [
+        {
+          "name": "Yonder Mountain String Band",
+          "url": "https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200400,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/63B7GNMc9PMqRDsEvJ49KX"
+    },
+    {
+      "album": {
         "name": "Blue Ain't the Word",
         "url": "https://open.spotify.com/album/30i0ogJziOxtmX1icK49di"
       },
@@ -806,7 +824,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 189400,
       "name": "Blue Ain't the Word",
       "url": "https://open.spotify.com/track/7HTFXALLYa9dkKjmULvSPe"
@@ -1742,7 +1760,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 231000,
       "name": "Deadly Sin",
       "url": "https://open.spotify.com/track/0z6BriK0Yhh5WipPk71lSN"
@@ -2667,6 +2685,24 @@
     },
     {
       "album": {
+        "name": "Gas and Oil",
+        "url": "https://open.spotify.com/album/50vHvkAXlMu7mG59nmhtCs"
+      },
+      "artists": [
+        {
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227786,
+      "name": "Gas and Oil",
+      "url": "https://open.spotify.com/track/2sQ8RGC3DHAecvS5nd2lbF"
+    },
+    {
+      "album": {
         "name": "Gentle On My Mind",
         "url": "https://open.spotify.com/album/0FkhA1RNqsEM8e1kJvfIT7"
       },
@@ -2736,7 +2772,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 210421,
       "name": "Get Along",
       "url": "https://open.spotify.com/track/3ny7MMhitjk83n87bnLHqM"
@@ -3026,6 +3062,24 @@
       "duration_ms": 319337,
       "name": "Grass is Greener",
       "url": "https://open.spotify.com/track/0ygU1M7Q3IQD7AS3xDWWET"
+    },
+    {
+      "album": {
+        "name": "Guitar Song",
+        "url": "https://open.spotify.com/album/7gY9JkP7vfNdJvyH3Fve94"
+      },
+      "artists": [
+        {
+          "name": "Appalachian Smoke",
+          "url": "https://open.spotify.com/artist/52cXmxaVS3gYpNvCmAbMyx"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205226,
+      "name": "Guitar Song",
+      "url": "https://open.spotify.com/track/58tEwrUnHKPXRotN8sYeQn"
     },
     {
       "album": {
@@ -3774,7 +3828,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 185248,
       "name": "I'll Be Long Gone - Live",
       "url": "https://open.spotify.com/track/4PpouxaUEKw7vfL0VmMYzG"
@@ -4488,6 +4542,24 @@
       "duration_ms": 162508,
       "name": "Leave You Behind",
       "url": "https://open.spotify.com/track/5jTnTImVNfv6NDToLImHa6"
+    },
+    {
+      "album": {
+        "name": "Sing, Appalachia",
+        "url": "https://open.spotify.com/album/2wT5x6mgNU9MU8unSmMAf0"
+      },
+      "artists": [
+        {
+          "name": "Trey Hedrick",
+          "url": "https://open.spotify.com/artist/4Nhc6hSYDtqX3hQjYZjJCX"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179373,
+      "name": "Leavin' Town",
+      "url": "https://open.spotify.com/track/033t7yIDaVQDpgVGtaO8ck"
     },
     {
       "album": {
@@ -5555,6 +5627,24 @@
     },
     {
       "album": {
+        "name": "Odd One Out",
+        "url": "https://open.spotify.com/album/5BUDOKld9wRECkMXsJK3OI"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/6BoGPE6HncyAwa1Ka8uQVn"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244253,
+      "name": "Odd One Out",
+      "url": "https://open.spotify.com/track/1On6wsX9gJStbRaOPxOWgV"
+    },
+    {
+      "album": {
         "name": "Oh Lordy Me",
         "url": "https://open.spotify.com/album/1FZa36uSDkVx8ZqvabPVZX"
       },
@@ -5574,7 +5664,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 237826,
       "name": "Oh Lordy Me",
       "url": "https://open.spotify.com/track/4grwKj7KqANp1RelhWsM2L"
@@ -6542,7 +6632,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 244000,
       "name": "Ready",
       "url": "https://open.spotify.com/track/5DE2KFUI3bDFlm5SaXGRKj"
@@ -6586,6 +6676,32 @@
       "duration_ms": 174030,
       "name": "Red Bandana",
       "url": "https://open.spotify.com/track/57jkyzooZEkrKV8lVDRKxC"
+    },
+    {
+      "album": {
+        "name": "Red River Valley",
+        "url": "https://open.spotify.com/album/7F8mu93dUAs2W40tSEaZzM"
+      },
+      "artists": [
+        {
+          "name": "Tony Trischka",
+          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Bronwyn Keith-Hynes",
+          "url": "https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207438,
+      "name": "Red River Valley",
+      "url": "https://open.spotify.com/track/0QOEsoMZDUqsw7cuiwmywa"
     },
     {
       "album": {
@@ -8147,6 +8263,24 @@
     },
     {
       "album": {
+        "name": "There Where the River Rolls Around",
+        "url": "https://open.spotify.com/album/4Iq8GKdYlIUiDqpFYMhLMS"
+      },
+      "artists": [
+        {
+          "name": "Lonesome River Band",
+          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "There Where the River Rolls Around",
+      "url": "https://open.spotify.com/track/6ixvHkr0Lol7KxYH57u2mm"
+    },
+    {
+      "album": {
         "name": "This Sad Song (Single Version) [Live]",
         "url": "https://open.spotify.com/album/7iSdWGN9Q4U6zKeGDM9XuJ"
       },
@@ -8909,6 +9043,24 @@
     },
     {
       "album": {
+        "name": "What a Life",
+        "url": "https://open.spotify.com/album/6zXl4k9tNe4A147k3pQ3vL"
+      },
+      "artists": [
+        {
+          "name": "Magoo",
+          "url": "https://open.spotify.com/artist/5WekSJls7QTlBwgvrUvVDy"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245360,
+      "name": "What a Life",
+      "url": "https://open.spotify.com/track/0AruH4r6Rs9DlXGy6o1SQ7"
+    },
+    {
+      "album": {
         "name": "What if You're Wrong",
         "url": "https://open.spotify.com/album/3Vinp0LVm9a214BkrqWDiT"
       },
@@ -8992,7 +9144,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 197341,
       "name": "When Night Falls",
       "url": "https://open.spotify.com/track/48pDdyxmu072Bh7eiQDbNi"

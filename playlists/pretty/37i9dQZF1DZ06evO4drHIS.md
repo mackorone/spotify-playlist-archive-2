@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4drHIS.md) - [plain]
 
 > This is Majo Aguilar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,163 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,172 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4drHIS.md) - [plain]
 | 16 | [Qué Bonito](https://open.spotify.com/track/1LITSGGVyVIyYzfEv9hAdi) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mi Herencia, Mi Sangre](https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH) | 3:05 |
 | 17 | [Cómo Te Olvido](https://open.spotify.com/track/6apNNvYFcXv7pzVcTFKqpI) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón](https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd) | 4:17 |
 | 18 | [Para No Verte Más](https://open.spotify.com/track/5ray3yUkUYoaP77QLmGks6) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón \(Deluxe\)](https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg) | 3:12 |
-| 19 | [Un Puño De Tierra](https://open.spotify.com/track/6aCH4XhrhW0AG7NVZghJad) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [Antonio Aguilar Hijo](https://open.spotify.com/artist/0IdKtkahT8e9Kt7xjxKfTT) | [Un Puño De Tierra](https://open.spotify.com/album/1a409Jfx8qZCYvza4afRjb) | 2:50 |
-| 20 | [Cielo Rojo](https://open.spotify.com/track/34FglmHyQxeya2ZUpsOMvm) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Cielo Rojo](https://open.spotify.com/album/70DsT4xiJHLaWo1plNuB2G) | 4:18 |
+| 19 | [El Sonido De Tu Voz](https://open.spotify.com/track/5aUiMBbZIQq6Zf8A8Njabo) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [El Sonido De Tu Voz](https://open.spotify.com/album/2VEl4SYSktKfN8eu1avFzJ) | 2:50 |
+| 20 | [Un Puño De Tierra](https://open.spotify.com/track/6aCH4XhrhW0AG7NVZghJad) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [Antonio Aguilar Hijo](https://open.spotify.com/artist/0IdKtkahT8e9Kt7xjxKfTT) | [Un Puño De Tierra](https://open.spotify.com/album/1a409Jfx8qZCYvza4afRjb) | 2:50 |
 | 21 | [Morí](https://open.spotify.com/track/6MTT7GTR2LCR5jvy0CFJiV) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón](https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd) | 3:44 |
 | 22 | [Cucurrucucú Paloma](https://open.spotify.com/track/3srZIe4lQlKPMBY6NMOJgc) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [México Mi Amor](https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg) | 4:41 |
-| 23 | [El Sonido De Tu Voz](https://open.spotify.com/track/5aUiMBbZIQq6Zf8A8Njabo) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [El Sonido De Tu Voz](https://open.spotify.com/album/2VEl4SYSktKfN8eu1avFzJ) | 2:50 |
+| 23 | [Cielo Rojo](https://open.spotify.com/track/34FglmHyQxeya2ZUpsOMvm) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Cielo Rojo](https://open.spotify.com/album/70DsT4xiJHLaWo1plNuB2G) | 4:18 |
 | 24 | [Si Una Vez \- En Vivo Desde Pa’l Norte](https://open.spotify.com/track/02eDT52J9sMICWNGgVdVen) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Pa'l Norte \(En Vivo Desde Pa’l Norte\)](https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g) | 2:38 |
 | 25 | [Se Solicita](https://open.spotify.com/track/572C9YliZ90R176sy2702N) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila](https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu) | 3:05 |
 | 26 | [Paloma Negra](https://open.spotify.com/track/6azmVYavoYRuLjLYhMwTDP) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [México Mi Amor](https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg) | 3:25 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4drHIS.md) - [plain]
 | 45 | [Déjame Vivir](https://open.spotify.com/track/5Sc3hAINcW0WmiOyhQuK2g) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Déjame Vivir](https://open.spotify.com/album/4yG38ivZD1u0BAaPBvv5bK) | 3:29 |
 | 46 | [Que Te Vaya Bien](https://open.spotify.com/track/5dnAqQrFUTYQgURxxHEuRt) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Mío](https://open.spotify.com/album/1YIRDOZOst2mx333CDXD2h) | 2:50 |
 | 47 | [Si Tú No Vuelves](https://open.spotify.com/track/5bVsmvc0Yc6fR32vhz5kPQ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Si Tú No Vuelves](https://open.spotify.com/album/6kauhrMCA9h8KT7PltZJ7T) | 3:27 |
-| 48 | [No Más Canciones De Amor](https://open.spotify.com/track/5KUXDV43C0Id3obmoiMVTz) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Más Canciones De Amor](https://open.spotify.com/album/06OW44HrziPwbrneC0HrIQ) | 2:31 |
-| 49 | [Así Son Las Cosas](https://open.spotify.com/track/7K0saaGY6hqR1nSnktfDwm) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Así Son Las Cosas](https://open.spotify.com/album/3lKiOwzv44vFdJgkKLKRCv) | 2:51 |
+| 48 | [Así Son Las Cosas](https://open.spotify.com/track/7K0saaGY6hqR1nSnktfDwm) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Así Son Las Cosas](https://open.spotify.com/album/3lKiOwzv44vFdJgkKLKRCv) | 2:51 |
+| 49 | [No Más Canciones De Amor](https://open.spotify.com/track/5KUXDV43C0Id3obmoiMVTz) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Más Canciones De Amor](https://open.spotify.com/album/06OW44HrziPwbrneC0HrIQ) | 2:31 |
 | 50 | [A Tu Lado \- En Vivo](https://open.spotify.com/track/3mIHpW3Nqu8BAXJJlGdAvQ) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [A Tu Lado \(En Vivo\)](https://open.spotify.com/album/4pYSMP0E5pP9Yd2kgJtZ44) | 4:53 |
 
-Snapshot ID: `aZ47gAAAAADCSvT6Gnzp0nILTvazFeKp`
+Snapshot ID: `aZ+NAAAAAACJLz+Uk2zP3hEOsGuZRu3L`

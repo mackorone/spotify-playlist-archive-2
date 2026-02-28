@@ -1,6 +1,6 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia ",
-  "num_followers": 36353,
+  "num_followers": 36361,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-02-09 16:56:15",
       "album": {
-        "name": "DON'T TAP THE GLASS",
-        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 153332,
-      "name": "Sugar On My Tongue",
-      "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
-    },
-    {
-      "added_at": "2026-02-09 16:56:15",
-      "album": {
         "name": "I Adore You (feat. Daecolm)",
         "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 214000,
       "name": "I Adore You (feat. Daecolm)",
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
+    },
+    {
+      "added_at": "2026-02-09 16:56:15",
+      "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 153332,
+      "name": "Sugar On My Tongue",
+      "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
     },
     {
       "added_at": "2026-02-09 16:56:15",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2026-02-09 16:56:15",
       "album": {
+        "name": "Connie Francis Sings Second Hand Love & Other Hits",
+        "url": "https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "duration_ms": 142520,
+      "name": "Pretty Little Baby",
+      "url": "https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD"
+    },
+    {
+      "added_at": "2026-02-09 16:56:15",
+      "album": {
         "name": "Berghain",
         "url": "https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 178853,
       "name": "Berghain",
       "url": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
-    },
-    {
-      "added_at": "2026-02-09 16:56:15",
-      "album": {
-        "name": "Connie Francis Sings Second Hand Love & Other Hits",
-        "url": "https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ"
-      },
-      "artists": [
-        {
-          "name": "Connie Francis",
-          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
-        }
-      ],
-      "duration_ms": 142520,
-      "name": "Pretty Little Baby",
-      "url": "https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD"
     },
     {
       "added_at": "2026-02-09 16:56:15",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2026-02-09 16:56:15",
       "album": {
+        "name": "Her Eyes",
+        "url": "https://open.spotify.com/album/2gAspt9uteUDYLHBkcnGJ6"
+      },
+      "artists": [
+        {
+          "name": "Charlie Jeer",
+          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
+        }
+      ],
+      "duration_ms": 215476,
+      "name": "Her Eyes",
+      "url": "https://open.spotify.com/track/37KlEsunxdtWMTiSZOujDj"
+    },
+    {
+      "added_at": "2026-02-09 16:56:15",
+      "album": {
         "name": "Everything is romantic featuring caroline polachek",
         "url": "https://open.spotify.com/album/0ZdvmKuGdMusb7B0qqVEio"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 203945,
       "name": "Everything is romantic featuring caroline polachek",
       "url": "https://open.spotify.com/track/4cCnCDJZDLGDIdnxRfOUBn"
-    },
-    {
-      "added_at": "2026-02-09 16:56:15",
-      "album": {
-        "name": "Her Eyes",
-        "url": "https://open.spotify.com/album/2gAspt9uteUDYLHBkcnGJ6"
-      },
-      "artists": [
-        {
-          "name": "Charlie Jeer",
-          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
-        }
-      ],
-      "duration_ms": 215476,
-      "name": "Her Eyes",
-      "url": "https://open.spotify.com/track/37KlEsunxdtWMTiSZOujDj"
     },
     {
       "added_at": "2026-02-09 16:56:15",
@@ -1807,6 +1807,26 @@
     {
       "added_at": "2026-02-09 16:56:15",
       "album": {
+        "name": "SLABICIUNEA MEA",
+        "url": "https://open.spotify.com/album/25Dw2g8vvQdIYTw0BgWmyO"
+      },
+      "artists": [
+        {
+          "name": "COMANN",
+          "url": "https://open.spotify.com/artist/6jr4s1ToXLbE4Yp6Rw6pKa"
+        },
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        }
+      ],
+      "duration_ms": 158437,
+      "name": "SLABICIUNEA MEA",
+      "url": "https://open.spotify.com/track/6tAU3VBu82Yu1FG2TXuYJM"
+    },
+    {
+      "added_at": "2026-02-09 16:56:15",
+      "album": {
         "name": "LNPSTRD",
         "url": "https://open.spotify.com/album/2EgMkwAkvsGRmcxSb1SDmF"
       },
@@ -1831,26 +1851,6 @@
       "duration_ms": 147105,
       "name": "LNPSTRD",
       "url": "https://open.spotify.com/track/1jtemoyhUX8S1ZqgYlQuQE"
-    },
-    {
-      "added_at": "2026-02-09 16:56:15",
-      "album": {
-        "name": "SLABICIUNEA MEA",
-        "url": "https://open.spotify.com/album/25Dw2g8vvQdIYTw0BgWmyO"
-      },
-      "artists": [
-        {
-          "name": "COMANN",
-          "url": "https://open.spotify.com/artist/6jr4s1ToXLbE4Yp6Rw6pKa"
-        },
-        {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
-        }
-      ],
-      "duration_ms": 158437,
-      "name": "SLABICIUNEA MEA",
-      "url": "https://open.spotify.com/track/6tAU3VBu82Yu1FG2TXuYJM"
     }
   ],
   "unique_name": "Viral \u00een Rom\u00e2nia",

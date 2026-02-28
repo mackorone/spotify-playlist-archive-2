@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Altijd frisse hits! Cover: Lil Kleine",
+  "description": "Altijd frisse hits! Cover: BLACKPINK",
   "name": "Fresh Hits",
   "tracks": [
     {
@@ -4024,7 +4024,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 223985,
       "name": "Call You Home",
       "url": "https://open.spotify.com/track/6asKWJ9heYSpUUlN77lgnc"
@@ -6493,6 +6493,24 @@
     },
     {
       "album": {
+        "name": "Drag Path",
+        "url": "https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Drag Path",
+      "url": "https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L"
+    },
+    {
+      "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/7msKLkViyWdF6X3QdlC6wK"
       },
@@ -6864,7 +6882,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 178477,
       "name": "Echte Liefde Is Te Koop - Spotify Singles",
       "url": "https://open.spotify.com/track/5lTy97S8T5KglpeEKpCuKE"
@@ -7541,6 +7559,28 @@
     },
     {
       "album": {
+        "name": "F*CK KLEINE",
+        "url": "https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149615,
+      "name": "Fashionweek",
+      "url": "https://open.spotify.com/track/3AsS2rFZd9yvysDmPIXkDk"
+    },
+    {
+      "album": {
         "name": "Fat Juicy & Wet",
         "url": "https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa"
       },
@@ -7784,6 +7824,24 @@
       "duration_ms": 146778,
       "name": "Festival",
       "url": "https://open.spotify.com/track/7Jvfgj6mmATe6hq7dSdseM"
+    },
+    {
+      "album": {
+        "name": "FEVER DREAM",
+        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153430,
+      "name": "FEVER DREAM",
+      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
     },
     {
       "album": {
@@ -8836,6 +8894,24 @@
       "duration_ms": 140970,
       "name": "Glock",
       "url": "https://open.spotify.com/track/5QhCPvsFz5wPgyY2Ma7P5G"
+    },
+    {
+      "album": {
+        "name": "DEADLINE",
+        "url": "https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195402,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB"
     },
     {
       "album": {
@@ -11361,6 +11437,24 @@
     },
     {
       "album": {
+        "name": "iloveitiloveitiloveit",
+        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183237,
+      "name": "iloveitiloveitiloveit",
+      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
+    },
+    {
+      "album": {
         "name": "In A Perfect World (with Julia Michaels)",
         "url": "https://open.spotify.com/album/2OFiWC4MyJh72imvTDV3gq"
       },
@@ -12512,7 +12606,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 153230,
       "name": "Kroegentocht",
       "url": "https://open.spotify.com/track/4La3UzkRZnOUmF4b5Dfton"
@@ -15870,7 +15964,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 168134,
       "name": "NOBODY'S GIRL",
       "url": "https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2"
@@ -18280,7 +18374,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 339893,
       "name": "Rein Me In (with Olivia Dean)",
       "url": "https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV"
@@ -19336,7 +19430,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 142030,
       "name": "silent treatment",
       "url": "https://open.spotify.com/track/4T5bTjkZ5Ig3SPJnovf5GN"
@@ -21176,7 +21270,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 219836,
       "name": "Te Laat",
       "url": "https://open.spotify.com/track/1QQAb1GolryJk3F9tvf7mY"
@@ -22864,6 +22958,28 @@
       "duration_ms": 159551,
       "name": "U & Me (feat. Jonna Fraser & Spanker)",
       "url": "https://open.spotify.com/track/0LivPTalooilNZTbxjlUzT"
+    },
+    {
+      "album": {
+        "name": "Uitslover",
+        "url": "https://open.spotify.com/album/6YDru2ioziRTAmmZ4iDZS6"
+      },
+      "artists": [
+        {
+          "name": "Samuel Welten",
+          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
+        },
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155998,
+      "name": "Uitslover",
+      "url": "https://open.spotify.com/track/3HUpSJBn9COpunhZJczbQw"
     },
     {
       "album": {
@@ -24816,7 +24932,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 185581,
       "name": "Winterbanden",
       "url": "https://open.spotify.com/track/0S1jSwK33ilIaRwmPlWnvV"
@@ -25132,7 +25248,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 207190,
       "name": "You Stole The Show",
       "url": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"

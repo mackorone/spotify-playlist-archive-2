@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1v0Zy96qsz4.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/skylardigginssmith/">Skylar Diggins\-Smith</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,735 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,738 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1v0Zy96qsz4.md) - [plain]
 | 15 | [Leave The Door Open](https://open.spotify.com/track/4pryE6cN2gFL1FVF5fYINl) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 4:02 |
 | 16 | [It Was A Good Day](https://open.spotify.com/track/2GrOq1y5gksYrqkc8Jzl9T) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Greatest Hits](https://open.spotify.com/album/7EPmezGIzLHj7LeTtLYhJZ) | 4:20 |
 | 17 | [A Milli](https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 3:41 |
-| 18 | [My Love Is Your Love](https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:21 |
-| 19 | [Break Ya Neck](https://open.spotify.com/track/7gKgd0P3dAAePiSQQBqrlf) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Genesis](https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd) | 3:51 |
+| 18 | [Break Ya Neck](https://open.spotify.com/track/7gKgd0P3dAAePiSQQBqrlf) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Genesis](https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd) | 3:51 |
+| 19 | [My Love Is Your Love](https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:21 |
 | 20 | [This Is America](https://open.spotify.com/track/0b9oOr2ZgvyQu88wzixux9) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [This Is America](https://open.spotify.com/album/7arx9qPJexCsDz67El4qvk) | 3:45 |
 | 21 | [Da Rockwilder](https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Blackout!](https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg) | 2:16 |
 | 22 | [Thot Shit](https://open.spotify.com/track/5zNW5ARjYhJQJz1AChP33n) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Thot Shit](https://open.spotify.com/album/7gEGuvkVs79hY4tG7OYnzx) | 3:04 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1v0Zy96qsz4.md) - [plain]
 | 35 | [Ten Crack Commandments \- 2007 Remaster](https://open.spotify.com/track/4xtq6uY0ofikksLWN37pT4) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 3:23 |
 | 36 | [MOOD 4 EVA \(feat\. Oumou Sangaré\)](https://open.spotify.com/track/7oqftogUN82Q7VNy2TmTJW) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 4:32 |
 | 37 | [The Pleasure Principle](https://open.spotify.com/track/1krKp0OXeCH6SI5SXl8tu5) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Control](https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y) | 4:57 |
-| 38 | [Summer 2020](https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:16 |
-| 39 | [Pressure](https://open.spotify.com/track/6ElfCM1XppU0YWkkFYh4s2) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Pressure](https://open.spotify.com/album/5lpInBYJiEtNyOXLIa3c9B) | 3:13 |
+| 38 | [Pressure](https://open.spotify.com/track/6ElfCM1XppU0YWkkFYh4s2) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Pressure](https://open.spotify.com/album/5lpInBYJiEtNyOXLIa3c9B) | 3:13 |
+| 39 | [Summer 2020](https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:16 |
 | 40 | [Demon High](https://open.spotify.com/track/5MAnH0CFbD13INQBsnKI9y) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Demon High](https://open.spotify.com/album/5DGjYVxEuz3T1xqzqK9gTq) | 3:17 |
 | 41 | [BLACK PARADE](https://open.spotify.com/track/2qzUpSVI4NnPyWxbXwumTj) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BLACK PARADE](https://open.spotify.com/album/3MJxH055n52Rbm8RLlpJcN) | 4:41 |
 | 42 | [SORRY NOT SORRY \(feat\. Nas, JAY\-Z & James Fauntleroy\) \- Harmonies by The Hive](https://open.spotify.com/track/5OypcrFg58e4k2iYHi69ED) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 4:18 |

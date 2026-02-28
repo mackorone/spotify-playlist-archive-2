@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-08",
-  "description": "late night vibes \u2013 notifications off. cover: Jaymin",
+  "description": "late night vibes \u2013 notifications off. cover: Devin Donnell",
   "name": "DND.",
   "tracks": [
     {
@@ -122,6 +122,28 @@
       "duration_ms": 161311,
       "name": "444",
       "url": "https://open.spotify.com/track/2f7NXiO2Uyffl4Pp2AArRI"
+    },
+    {
+      "album": {
+        "name": "90 in a 35 / mama said",
+        "url": "https://open.spotify.com/album/53STz3bzoVL6GraG4wVoMf"
+      },
+      "artists": [
+        {
+          "name": "spaceluvrrr",
+          "url": "https://open.spotify.com/artist/15b0BXl4cHzRDfGhupATdb"
+        },
+        {
+          "name": "QWESi",
+          "url": "https://open.spotify.com/artist/4p0j2PYnc6LxlJPEPLzluR"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "90 in a 35",
+      "url": "https://open.spotify.com/track/5jOzt9SUzOxqb3hEEG1v1g"
     },
     {
       "album": {
@@ -1891,6 +1913,24 @@
     },
     {
       "album": {
+        "name": "fiftyfive",
+        "url": "https://open.spotify.com/album/5X0pDpzylW7su4SfhFX8SF"
+      },
+      "artists": [
+        {
+          "name": "Devin Donnell",
+          "url": "https://open.spotify.com/artist/6HL912h0I4WSdVWuArkUSc"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131895,
+      "name": "fiftyfive",
+      "url": "https://open.spotify.com/track/5IpZBiClRFZ61ue19PWbp5"
+    },
+    {
+      "album": {
         "name": "Figure It Out",
         "url": "https://open.spotify.com/album/7dzn4ykqrLk9mUDUbBNLbc"
       },
@@ -3532,7 +3572,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 171348,
       "name": "No Contest",
       "url": "https://open.spotify.com/track/2aC3ZELwliJI0vOjIjBB2G"
@@ -4425,6 +4465,24 @@
     },
     {
       "album": {
+        "name": "Shut It Down",
+        "url": "https://open.spotify.com/album/1pBHZvxW0PjRj3JDYlAovT"
+      },
+      "artists": [
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146363,
+      "name": "Shut It Down",
+      "url": "https://open.spotify.com/track/2lb2g8Otp8qDlpNFTVHjlh"
+    },
+    {
+      "album": {
         "name": "Sin on Purpose",
         "url": "https://open.spotify.com/album/0pX2PQOd7EWLwLvFYMuR9G"
       },
@@ -4968,7 +5026,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 175058,
       "name": "Tell Me - Remix",
       "url": "https://open.spotify.com/track/54tr3MfsfOI17ioN4pyUyb"

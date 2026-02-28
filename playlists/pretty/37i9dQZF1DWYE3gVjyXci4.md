@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYE3gVjyXci4.md) - [plain]
 
 > pink bows, spilled secrets, deep feels, and main character dreams
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,346 likes - 55 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,450 likes - 55 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,23 +23,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYE3gVjyXci4.md) - [plain]
 | 13 | [Tell Me It's Over](https://open.spotify.com/track/5dGzPJBNASM65k7uwcEMtt) | [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [Tell Me It's Over](https://open.spotify.com/album/6MmMqPde3ph2QQY1FhaUrP) | 2:56 |
 | 14 | [Adore You](https://open.spotify.com/track/5AnCLGg35ziFOloEnXK4uu) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 4:38 |
 | 15 | [4EVER](https://open.spotify.com/track/26yohWYLPKCCP7X7rwKedJ) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [diary 001](https://open.spotify.com/album/3NEDQmYF1roygFssVEwkwv) | 2:39 |
-| 16 | [Luckiest](https://open.spotify.com/track/2U2skQkpTjmR1HlfMvHE7S) | [Beeson](https://open.spotify.com/artist/2x2B1ZRBmx1TTzvPuKj0I8) | [Luckiest](https://open.spotify.com/album/5HXRBBh6x0VHAIS0hNVC0L) | 3:05 |
-| 17 | [My Endeavour](https://open.spotify.com/track/32zC4WPTjQdzXbQGvSk6rB) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [Somersault Queen](https://open.spotify.com/album/6GonAkL6eg0RWND5iwfPIm) | 4:05 |
-| 18 | [Castle in Hollywood](https://open.spotify.com/track/3zTnSPti5JjNsowJH4SS3u) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 2:33 |
-| 19 | [Love](https://open.spotify.com/track/2Kerz9H9IejzeIpjhDJoYG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 4:32 |
-| 20 | [Knowing](https://open.spotify.com/track/79xIJDjvkuq7Ya34PITFLD) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Knowing](https://open.spotify.com/album/5Y6ZiopsWTP46syvirfYK0) | 3:40 |
-| 21 | [Girls Just Wanna](https://open.spotify.com/track/7z1Z3ORSLmusMHO2JvEALl) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Girlhood](https://open.spotify.com/album/05KNazpljahHfx1ElDNujj) | 2:16 |
-| 22 | [Pushing It Down and Praying](https://open.spotify.com/track/0Exki6SgSuYfWQDP0npFlF) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF) | 3:54 |
-| 23 | [Sugar Water](https://open.spotify.com/track/7mDgx8aONzvoKw0Ckx3wF7) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 5:03 |
-| 24 | [because i liked a boy](https://open.spotify.com/track/32FhTAAjKZaBein150o3Px) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:16 |
-| 25 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
-| 26 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 |
-| 27 | [Honey](https://open.spotify.com/track/4qmFC3Jz5aQ0erlk2OSi2X) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:01 |
-| 28 | [If She Could See Me Now](https://open.spotify.com/track/75GHF6q3DHtjNDVISy62rk) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 2:56 |
-| 29 | [imperfect for you](https://open.spotify.com/track/6XXKB32Om6WuXg3uEWwTob) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:02 |
-| 30 | [Is A Woman’s Body Not A Ritual?](https://open.spotify.com/track/0HFOCcewLjTDEJsmyJubYG) | [Natalie Madigan](https://open.spotify.com/artist/0VqERH28tjwguO9olLjkJd) | [Is A Woman’s Body Not A Ritual?](https://open.spotify.com/album/7LtmQnN6io8NnwN2ggLjHt) | 3:29 |
-| 31 | [Picture You](https://open.spotify.com/track/5KtvumPgVZmt8wg9xONE0T) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:07 |
-| 32 | [Laid Down My Arms](https://open.spotify.com/track/2vzj3ueNzwFsJKo18UAOSo) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Laid Down My Arms](https://open.spotify.com/album/4N9HQlTBjCcpCSFuJAcNQL) | 4:29 |
+| 16 | [Steady](https://open.spotify.com/track/4PZQtsDTNlq5hFWmdBb5xh) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [a couple minutes out](https://open.spotify.com/album/13sFSgU0S2NUdpv4BbLN0t) | 3:26 |
+| 17 | [Luckiest](https://open.spotify.com/track/2U2skQkpTjmR1HlfMvHE7S) | [Beeson](https://open.spotify.com/artist/2x2B1ZRBmx1TTzvPuKj0I8) | [Luckiest](https://open.spotify.com/album/5HXRBBh6x0VHAIS0hNVC0L) | 3:05 |
+| 18 | [My Endeavour](https://open.spotify.com/track/32zC4WPTjQdzXbQGvSk6rB) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [Somersault Queen](https://open.spotify.com/album/6GonAkL6eg0RWND5iwfPIm) | 4:05 |
+| 19 | [Castle in Hollywood](https://open.spotify.com/track/3zTnSPti5JjNsowJH4SS3u) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 2:33 |
+| 20 | [Love](https://open.spotify.com/track/2Kerz9H9IejzeIpjhDJoYG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 4:32 |
+| 21 | [Knowing](https://open.spotify.com/track/79xIJDjvkuq7Ya34PITFLD) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Knowing](https://open.spotify.com/album/5Y6ZiopsWTP46syvirfYK0) | 3:40 |
+| 22 | [Girls Just Wanna](https://open.spotify.com/track/7z1Z3ORSLmusMHO2JvEALl) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Girlhood](https://open.spotify.com/album/05KNazpljahHfx1ElDNujj) | 2:16 |
+| 23 | [Pushing It Down and Praying](https://open.spotify.com/track/0Exki6SgSuYfWQDP0npFlF) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF) | 3:54 |
+| 24 | [Sugar Water](https://open.spotify.com/track/7mDgx8aONzvoKw0Ckx3wF7) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 5:03 |
+| 25 | [because i liked a boy](https://open.spotify.com/track/32FhTAAjKZaBein150o3Px) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:16 |
+| 26 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
+| 27 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 |
+| 28 | [Sleeping Dogs](https://open.spotify.com/track/1AXf936Ys3VSuGQMvCFQvD) | [Dolder](https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb) | [Sleeping Dogs](https://open.spotify.com/album/2HupVyLf54am3GFxjFZWnn) | 3:34 |
+| 29 | [If She Could See Me Now](https://open.spotify.com/track/75GHF6q3DHtjNDVISy62rk) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 2:56 |
+| 30 | [imperfect for you](https://open.spotify.com/track/6XXKB32Om6WuXg3uEWwTob) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:02 |
+| 31 | [Is A Woman’s Body Not A Ritual?](https://open.spotify.com/track/0HFOCcewLjTDEJsmyJubYG) | [Natalie Madigan](https://open.spotify.com/artist/0VqERH28tjwguO9olLjkJd) | [Is A Woman’s Body Not A Ritual?](https://open.spotify.com/album/7LtmQnN6io8NnwN2ggLjHt) | 3:29 |
+| 32 | [Picture You](https://open.spotify.com/track/5KtvumPgVZmt8wg9xONE0T) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:07 |
 | 33 | [Writer In The Dark](https://open.spotify.com/track/193Dm5SqYy3hTSbuzxbwKc) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:36 |
 | 34 | [Dreams](https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:31 |
 | 35 | [How Am I Supposed To Love Myself?](https://open.spotify.com/track/3Fc478Rl4HYlqLYMZ5gfMT) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [How Am I Supposed To Love Myself?](https://open.spotify.com/album/3PBbBLpCuIveNKgxRQds1e) | 3:44 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYE3gVjyXci4.md) - [plain]
 | 54 | [Best Friend](https://open.spotify.com/track/47Bg6IrMed1GPbxRgwH2aC) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Best Friend](https://open.spotify.com/album/51pSyGziPFv8ajzF7ilUAr) | 4:22 |
 | 55 | [What It Feels Like for a Girl](https://open.spotify.com/track/6rQcK4xOzePDdrTg7Yv6d6) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/3e3PxWKqv7lyZaR5d02abW) | 4:43 |
 
-Snapshot ID: `AAAAABdJVjQfzRJOvzfySEL5hO7i4PcR`
+Snapshot ID: `AAAAAN6rykMr+JAhWfL6emmO34weXoYa`

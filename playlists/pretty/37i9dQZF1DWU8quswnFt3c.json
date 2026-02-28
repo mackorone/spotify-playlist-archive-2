@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Ariel Imani \ud83d\udc9a",
-  "num_followers": 1047748,
+  "num_followers": 1047624,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
-        "name": "2 Versager",
-        "url": "https://open.spotify.com/album/57IxQ3LBAXH622YZSXvUi2"
-      },
-      "artists": [
-        {
-          "name": "Magda",
-          "url": "https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup"
-        }
-      ],
-      "duration_ms": 227202,
-      "name": "2 Versager",
-      "url": "https://open.spotify.com/track/1raCCG5vKSpqZ3Xo1H8U1v"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
         "name": "Hurts",
         "url": "https://open.spotify.com/album/0vD6ViITeV3JJtZIswk4t7"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 162893,
       "name": "Hurts",
       "url": "https://open.spotify.com/track/42PmsIuf88yzxgyZ4YsrA3"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
+        "name": "2 Versager",
+        "url": "https://open.spotify.com/album/57IxQ3LBAXH622YZSXvUi2"
+      },
+      "artists": [
+        {
+          "name": "Magda",
+          "url": "https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup"
+        }
+      ],
+      "duration_ms": 227202,
+      "name": "2 Versager",
+      "url": "https://open.spotify.com/track/1raCCG5vKSpqZ3Xo1H8U1v"
     },
     {
       "added_at": "2026-02-18 05:00:29",
@@ -927,18 +927,18 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
-        "name": "Nessuna",
-        "url": "https://open.spotify.com/album/3aCQCerumFp8XZKbGD6jXM"
+        "name": "MARAVILHOSAMENTE BEM",
+        "url": "https://open.spotify.com/album/4Od9vP3ffzaBu3nXezoPZi"
       },
       "artists": [
         {
-          "name": "Altea",
-          "url": "https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws"
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
         }
       ],
-      "duration_ms": 134924,
-      "name": "mia",
-      "url": "https://open.spotify.com/track/2PP6LXaNeA4hTWxq2FVOnr"
+      "duration_ms": 226484,
+      "name": "Maravilhosamente Bem",
+      "url": "https://open.spotify.com/track/6A7Ck7Bgl3YIzbeUwm99Sm"
     },
     {
       "added_at": "2026-02-18 05:00:29",
@@ -959,18 +959,18 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
-        "name": "MARAVILHOSAMENTE BEM",
-        "url": "https://open.spotify.com/album/4Od9vP3ffzaBu3nXezoPZi"
+        "name": "Nessuna",
+        "url": "https://open.spotify.com/album/3aCQCerumFp8XZKbGD6jXM"
       },
       "artists": [
         {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+          "name": "Altea",
+          "url": "https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws"
         }
       ],
-      "duration_ms": 226484,
-      "name": "Maravilhosamente Bem",
-      "url": "https://open.spotify.com/track/6A7Ck7Bgl3YIzbeUwm99Sm"
+      "duration_ms": 134924,
+      "name": "mia",
+      "url": "https://open.spotify.com/track/2PP6LXaNeA4hTWxq2FVOnr"
     },
     {
       "added_at": "2026-02-18 05:00:29",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
-        "name": "Mirza",
-        "url": "https://open.spotify.com/album/4Rhh8R5mQv3VMv7qRWzhXD"
-      },
-      "artists": [
-        {
-          "name": "Neeti Mohan",
-          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
-        },
-        {
-          "name": "Adarsh Rao",
-          "url": "https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Mirza",
-      "url": "https://open.spotify.com/track/4t4Lszg4CvWbm3YrX6Bk5l"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
         "name": "Tento Na L\u00edngua",
         "url": "https://open.spotify.com/album/0JZzrTOlEMIsUV5lGXgtOx"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 195683,
       "name": "Tento Na L\u00edngua",
       "url": "https://open.spotify.com/track/38ujKy5Qyv2s4mEW9JmqIG"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
+        "name": "Mirza",
+        "url": "https://open.spotify.com/album/4Rhh8R5mQv3VMv7qRWzhXD"
+      },
+      "artists": [
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Adarsh Rao",
+          "url": "https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Mirza",
+      "url": "https://open.spotify.com/track/4t4Lszg4CvWbm3YrX6Bk5l"
     },
     {
       "added_at": "2026-02-18 05:00:29",

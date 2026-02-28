@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-886 songs - 1 day 14 hr 4 min
+889 songs - 1 day 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Cavtat](https://open.spotify.com/track/69cCYMgf3Hk9BzbYLmzY7V) | [Medéa Bokor](https://open.spotify.com/artist/0AQEuRH3hzlAdn8eOzGJRl) | [Cavtat](https://open.spotify.com/album/1im1sa5FyaQmWb24yyhRd2) | 1:59 | 2021-12-13 | 2023-08-22 |
 | [Ce Jour Là](https://open.spotify.com/track/6Y7GT4UuGkUFhYHxVLQ4bF) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [Ce Jour Là](https://open.spotify.com/album/2nQtY69UjbRQQYkjMHnqXB) | 2:48 | 2021-12-13 | 2023-11-21 |
 | [Ce jour là](https://open.spotify.com/track/3lUAjSVqgu8A7e7Vhlu74G) | [Laetitia Dostie](https://open.spotify.com/artist/5s6PaKcOZ8NA318EJoA86v) | [Ce jour là](https://open.spotify.com/album/2XPO10I96fugOchMhRpqxW) | 2:27 | 2021-12-13 | 2022-09-13 |
+| [Cellar](https://open.spotify.com/track/6K4uQfVY4NGXQXx9Gq8LQa) | [Silvenna](https://open.spotify.com/artist/0EpNnTSU5DHuYwSdMMRyfw) | [Cellar](https://open.spotify.com/album/2dWyq4IXlTxi8u5w1khJ5J) | 2:43 | 2026-02-27 |  |
 | [Certain](https://open.spotify.com/track/0NOLY8oi9pVOHNrpMiVOC6) | [Karen Elf](https://open.spotify.com/artist/5RWEVr9QGQJrCXyVxMJD48) | [Unfolded](https://open.spotify.com/album/0bqH14Y1fJFoqkGHlp9Us0) | 2:48 | 2021-12-13 | 2022-11-12 |
 | [Chalet High](https://open.spotify.com/track/05IVJHxixrLD0oVi63i6Fn) | [Boone River](https://open.spotify.com/artist/5hnP6B3XX1yAvhQWHifkxx) | [Chalet High](https://open.spotify.com/album/0s5pe0oFhpK60gLPI1RDZZ) | 2:39 | 2022-03-02 | 2024-01-03 |
 | [Chaleureuse](https://open.spotify.com/track/0FAJDVUpuCzEhCGfouo8Fk) | [Aleron Lapointe](https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc) | [Chaleureuse](https://open.spotify.com/album/1wjRb8hVZyqMasnqzsqqcw) | 2:14 | 2022-02-15 | 2024-01-03 |
@@ -831,6 +832,7 @@
 | [Varazdin](https://open.spotify.com/track/4MbjcL460D3UHueKiREBPZ) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Varazdin](https://open.spotify.com/album/4vYwpkP10mwLThSSeYpsoV) | 1:46 | 2022-07-21 | 2023-08-22 |
 | [Vardo](https://open.spotify.com/track/0pc9BoEkAuNoAcHyQcZ28E) | [Ama Hemmah](https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY) | [Vardo](https://open.spotify.com/album/38TZDlWd5JHe6p75JyC035) | 2:28 | 2022-10-13 | 2024-09-10 |
 | [Včeraj](https://open.spotify.com/track/6o71Foef4Jf2LMFnHuvQo4) | [Zemfira Mironova](https://open.spotify.com/artist/7HdmWISDuEN6CX1zXXaK8H) | [Včeraj](https://open.spotify.com/album/5gR375qQkGA51v1fB4euT9) | 2:05 | 2021-12-13 | 2022-05-27 |
+| [Veil of Evening](https://open.spotify.com/track/16uzCCEGABfcr8X2a1J3kC) | [Eldur Hættu](https://open.spotify.com/artist/3GsfhG02GtXyYPOoc5QRa8) | [Veil of Evening](https://open.spotify.com/album/7IMDkhANS0sndmZhkO9a0T) | 2:38 | 2026-02-27 |  |
 | [Vejlefjord](https://open.spotify.com/track/6ff7MgoSLL9Cxi3t2qYVnA) | [Rasmus H Thomsen](https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10) | [Vejlefjord](https://open.spotify.com/album/1gt84E4kL8DdnXW1XlclX4) | 2:14 | 2022-08-29 | 2024-01-03 |
 | [Velez\-Malaga](https://open.spotify.com/track/2vevoLZEoZTCAYsvc1TDnq) | [Rosa Monteiro](https://open.spotify.com/artist/52Lag2Pn0WtKwomc2lCtZ1) | [Velez\-Malaga](https://open.spotify.com/album/6bmGfliwOLuAcStJqB9sNl) | 3:14 | 2021-12-13 | 2022-03-18 |
 | [Velvet Dusk](https://open.spotify.com/track/2WGN0S9K8oAVpYoZaBnq5j) | [Opal](https://open.spotify.com/artist/1GkiBY8d6lkwJvWb6YFlzS) | [Velvet Dusk](https://open.spotify.com/album/3WHLgkPHToeTjcaWPStWqu) | 2:18 | 2025-08-26 | 2026-01-15 |
@@ -890,6 +892,7 @@
 | [Zadar](https://open.spotify.com/track/0LOaCUBNsulgH8qEHH7Y4O) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Zadar](https://open.spotify.com/album/3pudp0e767UMQu6w1DWzfz) | 2:03 | 2021-12-13 | 2023-06-15 |
 | [Zašto](https://open.spotify.com/track/7eiM2QUgzptSwtOAno0kVW) | [Suzana Tomić](https://open.spotify.com/artist/5MhlqMxEF4q8fUcxDLnPZL) | [Zašto](https://open.spotify.com/album/6ruV80tj4ul5kL8hbjYZI0) | 2:19 | 2022-10-13 | 2024-04-04 |
 | [Zu Hause](https://open.spotify.com/track/3KuHx15ro3TkRZTi5g261x) | [Elias Kiefer](https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB) | [Zu Hause](https://open.spotify.com/album/4zZaVpP8e7Gl9d4YvyAjrH) | 2:07 | 2022-12-21 | 2024-11-26 |
+| [Étoile](https://open.spotify.com/track/4jo6pUEYAyJeT4UT4Ew9rs) | [Julien Trevant](https://open.spotify.com/artist/1hbSId3a071gC1M9PtyrLO) | [Étoile](https://open.spotify.com/album/1CW9eglJkWLDmsuy9KxwCq) | 2:03 | 2026-02-27 |  |
 | [Étoile](https://open.spotify.com/track/1nDv71bmip8uUPCfCZuRll) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Étoile](https://open.spotify.com/album/5ljetXvSUVU4qNAfRIi1dO) | 2:28 | 2024-09-02 | 2026-01-15 |
 | [Éveil](https://open.spotify.com/track/2brRgCl1LHEDuwMjFxp8s5) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Éveil](https://open.spotify.com/album/3A3g8Hg3Y2y42uG7BmDoft) | 2:54 | 2025-09-15 |  |
 | [Ótta](https://open.spotify.com/track/1HIsNXsMp337FECrM521V0) | [Stefán Hafsteinsson](https://open.spotify.com/artist/57eZ1e0kwxtZYfYUs6GcF8) | [Ótta](https://open.spotify.com/album/1FduT1J6puUxizGclSvYDA) | 2:47 | 2022-07-28 | 2022-10-25 |

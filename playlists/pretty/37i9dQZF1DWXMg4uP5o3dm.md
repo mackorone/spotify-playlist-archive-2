@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > alternative meets electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,290 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,329 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 35 | [PREDATOR](https://open.spotify.com/track/5r8tAjAxquehOkOruflfLP) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [PREDATOR](https://open.spotify.com/album/3NFHHJhzpiRAhnRSCAEILR) | 2:51 |
 | 36 | [The Feeling You Get](https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Ask That God](https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m) | 4:16 |
 | 37 | [martyr](https://open.spotify.com/track/4BaYa88YtE0WBDVKfTeUTP) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [honey catching season](https://open.spotify.com/album/0tGwBl1H2dLqrOPceQ8CS0) | 2:25 |
-| 38 | [Ghost](https://open.spotify.com/track/286QlG0bSnI9BBfOQBl0L2) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Ghost](https://open.spotify.com/album/7tfEOusLSTsiDwKQADFBjQ) | 3:58 |
-| 39 | [Therapy](https://open.spotify.com/track/5q7AR3TkyCxlgxAjBMu4yL) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Level Days](https://open.spotify.com/album/40Yky457gNkU3chdZUIoTY) | 3:06 |
+| 38 | [Therapy](https://open.spotify.com/track/5q7AR3TkyCxlgxAjBMu4yL) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Level Days](https://open.spotify.com/album/40Yky457gNkU3chdZUIoTY) | 3:06 |
+| 39 | [Ghost](https://open.spotify.com/track/286QlG0bSnI9BBfOQBl0L2) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Ghost](https://open.spotify.com/album/7tfEOusLSTsiDwKQADFBjQ) | 3:58 |
 | 40 | [Seize the Power](https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Seize the Power](https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7) | 2:41 |
 | 41 | [FUNERAL](https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [FUNERAL](https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd) | 3:01 |
 | 42 | [Shivering](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 |
@@ -96,12 +96,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 86 | [S.O.A.G.](https://open.spotify.com/track/7yBkmyHcSTEkauXdQotxMz) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [S.O.A.G.](https://open.spotify.com/album/5gKanMQhuEqZVJUmvQjEhZ) | 3:10 |
 | 87 | [Already Dead](https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Already Dead](https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2) | 2:19 |
 | 88 | [so wrong \(so right!\)](https://open.spotify.com/track/4TiLrA7d8ZrJ2lPk7gIB4B) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [EYEBLEACH.](https://open.spotify.com/album/6njyjOMLRjiM3ZAOIIEZlb) | 1:46 |
-| 89 | [Never Like Me](https://open.spotify.com/track/7gJ4fxyVlsTvk9deROJc0F) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Never Like Me](https://open.spotify.com/album/3aMmzcJ5CmtMltIC41HKdT) | 3:14 |
-| 90 | [Again](https://open.spotify.com/track/14gw6qQSrs9pEf8ADJuHo1) | [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [Again](https://open.spotify.com/album/0dCsvVuNZ9yudIkRsHfSmV) | 2:38 |
+| 89 | [Again](https://open.spotify.com/track/14gw6qQSrs9pEf8ADJuHo1) | [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [Again](https://open.spotify.com/album/0dCsvVuNZ9yudIkRsHfSmV) | 2:38 |
+| 90 | [Never Like Me](https://open.spotify.com/track/7gJ4fxyVlsTvk9deROJc0F) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Never Like Me](https://open.spotify.com/album/3aMmzcJ5CmtMltIC41HKdT) | 3:14 |
 | 91 | [New Friends](https://open.spotify.com/track/6bHFFcOvpc1pKrT4YL1K83) | [ENVYYOU](https://open.spotify.com/artist/3V8sGWr3KUanz1VJyaCngm) | [New Friends](https://open.spotify.com/album/3CqLMnA4ivtuBuGPV4h4Ky) | 2:56 |
 | 92 | [Time of my Life](https://open.spotify.com/track/1K0lYhdaq84V90aOneQjIW) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Time of my Life](https://open.spotify.com/album/5ohnsSxGEfREu3adgPHIGd) | 2:16 |
-| 93 | [Easy](https://open.spotify.com/track/4jxrwfVK43RE2bzsP2S1ZM) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Easy](https://open.spotify.com/album/0mX4pQN4mYVHZsvjqNekLp) | 3:26 |
-| 94 | [Bipolar Rhapsody](https://open.spotify.com/track/7ELka9OSxvZo4AkpIhd9CF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Bipolar Rhapsody](https://open.spotify.com/album/0O1ipfhDdMueuyRl2RfWLG) | 4:48 |
+| 93 | [Bipolar Rhapsody](https://open.spotify.com/track/7ELka9OSxvZo4AkpIhd9CF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Bipolar Rhapsody](https://open.spotify.com/album/0O1ipfhDdMueuyRl2RfWLG) | 4:48 |
+| 94 | [Easy](https://open.spotify.com/track/4jxrwfVK43RE2bzsP2S1ZM) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Easy](https://open.spotify.com/album/0mX4pQN4mYVHZsvjqNekLp) | 3:26 |
 | 95 | [Body Bag \- ROMES Remix](https://open.spotify.com/track/0xX6RLKMriNDru30G8RsQU) | [DEVORA](https://open.spotify.com/artist/2rV7OHV7pnQxQPkLbY7LoY), [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [Body Bag \(ROMES Remix\)](https://open.spotify.com/album/43559YWMyLG88SyxIfvHtM) | 3:15 |
 | 96 | [Upgrade](https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Upgrade](https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7) | 2:41 |
 | 97 | [Can't Get You Out of My Head](https://open.spotify.com/track/6mtTiVREzK3kV0E65MXCZo) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [Can't Get You Out of My Head](https://open.spotify.com/album/3BE31HD0sbdeIBL791ayyV) | 3:10 |

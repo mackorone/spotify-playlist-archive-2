@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,164 songs - 4 day 16 hr 9 min
+2,165 songs - 4 day 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -542,6 +542,7 @@
 | [ett minne i taget](https://open.spotify.com/track/4SXtVLD8B0O7kvw7FLi4Qj) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [ett minne i taget](https://open.spotify.com/album/40zmg4a9KuaUwLpHxj5NVX) | 2:50 | 2025-03-27 | 2025-07-04 |
 | [Ett silverhjärtas sista slag](https://open.spotify.com/track/0aQtLsd9tlZZvOzWJvwDS6) | [Byz](https://open.spotify.com/artist/4edQilKMzaQG7GzgAMJDbf), [Tom Goren](https://open.spotify.com/artist/5UFbFMAL2ERkRDUurGOyQJ) | [Ett silverhjärtas sista slag](https://open.spotify.com/album/6SdycG80NCL5vcnCOMbWS8) | 3:39 | 2024-03-07 | 2024-04-17 |
 | [Ett varv till](https://open.spotify.com/track/3QIcx4ASUFPNnJLdzMEy0D) | [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Ett varv till](https://open.spotify.com/album/0VDVseaKn0Lq8D2zKz0V00) | 2:57 | 2026-01-22 |  |
+| [Ett år \- Bonus Track](https://open.spotify.com/track/4OJOZJLUnGun7f2qeIc7h7) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA \(Deluxe\)](https://open.spotify.com/album/6ELnL9vR5ufPGdqZIy67Zh) | 3:37 | 2026-02-26 |  |
 | [Ettor och nollor](https://open.spotify.com/track/32C06bOmyNPPW1kER79Q8e) | [Daniel Adams\-Ray](https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC) | [Pandemi, Palestina & Heartache](https://open.spotify.com/album/6lIra1LwEsGHs827ruYdwP) | 3:46 | 2025-02-14 | 2025-05-30 |
 | [Europa](https://open.spotify.com/track/2jlj959NddsGSOCWG50UAv) | [David Ritschard](https://open.spotify.com/artist/2kVWsK53009cpZqfuA3TMf) | [Innan tystnaden tar vid](https://open.spotify.com/album/7IJJWqgkGGQSK3VdOH69wI) | 6:34 | 2024-08-29 | 2025-01-02 |
 | [Even It Out](https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 3:07 | 2023-03-09 | 2023-04-14 |
@@ -976,7 +977,7 @@
 | [Iris](https://open.spotify.com/track/4TRQ9JWo2kytsBQqaayD5z) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Iris](https://open.spotify.com/album/16DmICdpaMDhQBmvPWTSPd) | 3:00 | 2026-01-29 |  |
 | [Irreplaceable](https://open.spotify.com/track/1gK79XAWFSYyl8FpphEQiH) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Irreplaceable](https://open.spotify.com/album/2dIihXdiXigVetfKI2QDqs) | 3:35 | 2021-12-16 | 2022-03-11 |
 | [Is It Love](https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Is It Love](https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf) | 2:23 | 2023-10-13 | 2024-01-26 |
-| [is this how you said you’d be gone](https://open.spotify.com/track/1zM1XKfkjVooLnszVfO6nq) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [mexico / is this how you said you'd be gone](https://open.spotify.com/album/0iLHHCTA7n8iZyJHjiNKLA) | 4:07 | 2025-11-27 |  |
+| [is this how you said you’d be gone](https://open.spotify.com/track/1zM1XKfkjVooLnszVfO6nq) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [mexico / is this how you said you'd be gone](https://open.spotify.com/album/0iLHHCTA7n8iZyJHjiNKLA) | 4:07 | 2025-11-27 | 2026-02-28 |
 | [Isabelle](https://open.spotify.com/track/6RIWWLyss6LfdqJXANlhFv) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Isabelle](https://open.spotify.com/album/170jl8RUaJsCe2snINmw7P) | 3:35 | 2022-05-20 | 2023-03-20 |
 | [Isbad](https://open.spotify.com/track/5yt6aZSpovyJjVXmNYhj7W) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns) | [Isbad](https://open.spotify.com/album/6KUNUExXgrm9IYLoo2YW8U) | 3:31 | 2024-03-14 | 2024-04-26 |
 | [Island of the Sun](https://open.spotify.com/track/6TD7O7KdrL3kzU2plhZqm0) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Island of the Sun](https://open.spotify.com/album/3lhEn9XlYq4Naa0YPBFQd4) | 2:56 | 2022-03-10 | 2022-04-20 |
@@ -1918,7 +1919,6 @@
 | [Toulouse](https://open.spotify.com/track/01E1aVRPZ4qx7cGw5pE4Eo) | [Thilda U](https://open.spotify.com/artist/47HqP5i5LLC1m4RpvF317R) | [Toulouse](https://open.spotify.com/album/2cD3yzeftcX0qY2YV2NbHc) | 3:00 | 2024-08-29 | 2024-10-06 |
 | [Toxic Som Mig](https://open.spotify.com/track/7mWsekctZ2EtxDIc29diPv) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Toxic Som Mig](https://open.spotify.com/album/5BDR0gDGqKPw2dECdSiCRX) | 2:31 | 2024-01-11 | 2024-03-15 |
 | [Toys](https://open.spotify.com/track/4lBLNOs6Mm5PRrg6cbsA5o) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Toys](https://open.spotify.com/album/63r0qTkNROkVH1pYnoMzFB) | 4:26 | 2025-04-03 | 2025-06-06 |
-| [Track 12](https://open.spotify.com/track/4OJOZJLUnGun7f2qeIc7h7) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA \(Deluxe\)](https://open.spotify.com/album/6ELnL9vR5ufPGdqZIy67Zh) | 0:00 | 2026-02-26 |  |
 | [Tracksuit Pants](https://open.spotify.com/track/7HeuUU0RhWiBDslwL8Py6z) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Tracksuit Pants](https://open.spotify.com/album/6ShzJzQ6B0DFHZZkKG4y6G) | 2:59 | 2023-09-21 | 2024-01-19 |
 | [Trappa till himlen](https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen](https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8) | 3:56 | 2025-04-24 | 2025-06-27 |
 | [Trasiga Skor](https://open.spotify.com/track/2oui1x8hu3GY3FQDxFADbe) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Xpensive](https://open.spotify.com/artist/2mKw2kl0Hhw8caVt0msuwe) | [Trasiga Skor](https://open.spotify.com/album/3DI1AW6MIBUL1pgDRAsBew) | 2:33 | 2024-05-09 | 2024-06-07 |
@@ -2170,6 +2170,7 @@
 | [Ålderdomen](https://open.spotify.com/track/2fCrRzGDWFaVzVEVtoxxUh) | [Oscar Danielson](https://open.spotify.com/artist/1MrlpnrM5jFgwSqYwul5HY) | [Ålderdomen](https://open.spotify.com/album/5HhweWrpUpuRt2uj4AoonE) | 3:20 | 2024-05-02 | 2024-06-01 |
 | [ÅNGRA](https://open.spotify.com/track/396pTsIds5nlqE93IZhFp7) | [INTI](https://open.spotify.com/artist/2Zm7ZQflu3uuy7zyFkMP1D) | [ÅNGRA](https://open.spotify.com/album/7gpSlaLkiMoED5EvYBNgS9) | 2:02 | 2024-02-15 | 2024-04-05 |
 | [Önskar det vore så enkelt](https://open.spotify.com/track/0dgzmvAuiFwU1b66y7gOPr) | [Strobaek](https://open.spotify.com/artist/082YfpbTrmcJ7CVtnQcbQp) | [Önskar det vore så enkelt](https://open.spotify.com/album/6UF1HqWxGmhwMJqwQ4CaQ8) | 2:17 | 2024-11-21 | 2025-01-26 |
+| [Över](https://open.spotify.com/track/142CLjGxBpBtQxj9gPNJOK) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Över](https://open.spotify.com/album/6Rj381d50c8zjs37wts189) | 3:49 | 2026-02-27 |  |
 | [Överdos](https://open.spotify.com/track/3Ty4UGx4epTWK3Yt1IFHRV) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui), [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [Överdos](https://open.spotify.com/album/0GkO6ZGHN2mFjshFAGvphH) | 2:25 | 2021-12-16 | 2022-02-04 |
 | [Övertänker](https://open.spotify.com/track/3U573wJbbipFNpkGGE2pQh) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Övertänker](https://open.spotify.com/album/38tGxDfs43Mnsip0jruENW) | 3:23 | 2026-01-29 |  |
 

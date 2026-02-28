@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JHaiA.md) - [plain]
 
 > This is The Intruders\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,087 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,088 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JHaiA.md) - [plain]
 | 40 | [Dance Boy](https://open.spotify.com/track/3ldpPfTpKMP4eksHXWW25A) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:13 |
 | 41 | [I Hope That We Can Be Together Soon \- Live](https://open.spotify.com/track/3lOtLeKb5DSyOROzldhUTz) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Intruders vs Harold Melvin's Blue Notes \(Live In Concert\)](https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN) | 4:48 |
 | 42 | [I Didn't Know](https://open.spotify.com/track/61j8TzAwSBSiSwHpJRuo68) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:46 |
-| 43 | [Just to Be](https://open.spotify.com/track/7BvoAUxstGc6Ssmc592bTG) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Old Town Doo Wop, Vol\. 5](https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF) | 2:19 |
-| 44 | [Fried Eggs](https://open.spotify.com/track/3NwMSgyUmb2fbZoqwiizB1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Koko\-Mojo Diner, Vol\. 2 \- Cornbread & Cabbage Greens](https://open.spotify.com/album/56sNGZKmZ8NJmLID2DeQZ4) | 1:57 |
+| 43 | [Fried Eggs](https://open.spotify.com/track/3NwMSgyUmb2fbZoqwiizB1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Koko\-Mojo Diner, Vol\. 2 \- Cornbread & Cabbage Greens](https://open.spotify.com/album/56sNGZKmZ8NJmLID2DeQZ4) | 1:57 |
+| 44 | [Just to Be](https://open.spotify.com/track/7BvoAUxstGc6Ssmc592bTG) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Old Town Doo Wop, Vol\. 5](https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF) | 2:19 |
 | 45 | [If You Don't Know Me By Now \- Live](https://open.spotify.com/track/2sWyHjB0BFSCxoVYuSyarY) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Intruders vs Harold Melvin's Blue Notes \(Live In Concert\)](https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN) | 3:44 |
 | 46 | [Tender \(Was The Love We Knew\)](https://open.spotify.com/track/7M6mfBANj32qorIc9aAM4Z) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:41 |
 | 47 | [I'm Glad Your're My Girl](https://open.spotify.com/track/2H6diTdJOS5SjxEvZJCa4q) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:45 |
-| 48 | [Best Days of My Life](https://open.spotify.com/track/0ICwP1Ql94VflS9VMD8kwQ) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:49 |
-| 49 | [But You Belong to Me](https://open.spotify.com/track/1gBgLPr9FPSNWcphljszz1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:33 |
-| 50 | [One In a Million](https://open.spotify.com/track/5d8L74OY8ckIWzDL30RtHV) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 3:13 |
+| 48 | [Gloria](https://open.spotify.com/track/0Nu3tJkKb4UBDBLRMVRV2s) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Old Town Doo Wop, Vol\. 5](https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF) | 2:28 |
+| 49 | [Best Days of My Life](https://open.spotify.com/track/0ICwP1Ql94VflS9VMD8kwQ) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:49 |
+| 50 | [But You Belong to Me](https://open.spotify.com/track/1gBgLPr9FPSNWcphljszz1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:33 |
 
-Snapshot ID: `aZ47gAAAAADVfiFL63xpbzwtzqiCMH2m`
+Snapshot ID: `aZ+NAAAAAACB/U0Ojodq/kLvnFSgD4w1`

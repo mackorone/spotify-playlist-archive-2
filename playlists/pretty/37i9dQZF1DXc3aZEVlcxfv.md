@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 
 > If you're blessed!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,052 likes - 100 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,048 likes - 100 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 | 12 | [Excess Love](https://open.spotify.com/track/3AK2yLrBpakAcnYBMPBhrw) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/2ZiJzL4GjNFUQhzHeiF6LO) | 6:36 |
 | 13 | [Boku](https://open.spotify.com/track/3EX183tnITp6RMePnXFAfl) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [God, In all Seasons](https://open.spotify.com/album/755o89dLMkJLE3OR4T8GOc) | 3:57 |
 | 14 | [New Day](https://open.spotify.com/track/3HtzmaDTfIw3ZuhBrzWJ7h) | [Ebube Immanuel](https://open.spotify.com/artist/6T9pNc1rbjm0SpkqyDO6dp) | [New Day](https://open.spotify.com/album/4IxnmE6G9VNJwMFHjnZhwO) | 3:45 |
-| 15 | [Dance Like David](https://open.spotify.com/track/0AVYx4AftpfptSBZwSoefi) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Sarah Nathalié](https://open.spotify.com/artist/1QREgi3vk6vWdQK5ZKltgX) | [Dance Like David](https://open.spotify.com/album/2ifOguXcgPwFkw6KD5dMmr) | 2:30 |
+| 15 | [Dance Like David](https://open.spotify.com/track/0AVYx4AftpfptSBZwSoefi) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [Dance Like David](https://open.spotify.com/album/2ifOguXcgPwFkw6KD5dMmr) | 2:30 |
 | 16 | [Blessed Child](https://open.spotify.com/track/4gZZo78bmbvgrn34kBf3pT) | [Gospel hints](https://open.spotify.com/artist/2MrSx4lzfedSt9CycfCvvc) | [Blessed Child](https://open.spotify.com/album/1InZFTcdT3npephAfpjcKM) | 2:14 |
 | 17 | [Million Little Miracles \(feat\. Joe L Barnes\)](https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 6:45 |
 | 18 | [TAMUNO](https://open.spotify.com/track/28TXLB9iqk5d0c5omSr0dh) | [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1) | [TAMUNO](https://open.spotify.com/album/3Hx2cSmvKNliegyB4Ok0O1) | 2:36 |

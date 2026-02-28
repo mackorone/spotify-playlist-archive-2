@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 
 > Brighten your day with a mix of folksy mood boosters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,881,565 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,881,508 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 40 | [Little Road](https://open.spotify.com/track/4wDhECcwcKR4jZEEDiye5a) | [Devarrow](https://open.spotify.com/artist/6MrZj6wqVagXe1UQ8AYWgZ) | [The Great Escape](https://open.spotify.com/album/155osgcutzrJu9a1w5aIgB) | 3:15 |
 | 41 | [What If I](https://open.spotify.com/track/0j6QLLMEQoX292B44xQZFf) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 3:34 |
 | 42 | [honey!](https://open.spotify.com/track/29E0o3uJirAFyRyZGOaSgo) | [Mike Duhaime](https://open.spotify.com/artist/3To2Iew23BImwC0d8jUIPq) | [honey!](https://open.spotify.com/album/6bQ6Dj8nbLaJJG0hV7oBQE) | 3:54 |
-| 43 | [Betty](https://open.spotify.com/track/2HYYwJ6euMXxsMNryLJhSM) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Betty](https://open.spotify.com/album/1WtUItKWV5XkaUyLr5W5Nu) | 3:02 |
-| 44 | [All My Love \- Spotify Singles](https://open.spotify.com/track/5SbSfCkjzWzVYc0yKb5AlJ) | [Chance Emerson](https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED) | [All My Love \- Spotify Singles](https://open.spotify.com/album/6iBtRKPRx4m9XGBb3uTa9a) | 3:44 |
+| 43 | [All My Love \- Spotify Singles](https://open.spotify.com/track/5SbSfCkjzWzVYc0yKb5AlJ) | [Chance Emerson](https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED) | [All My Love \- Spotify Singles](https://open.spotify.com/album/6iBtRKPRx4m9XGBb3uTa9a) | 3:44 |
+| 44 | [Betty](https://open.spotify.com/track/2HYYwJ6euMXxsMNryLJhSM) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Betty](https://open.spotify.com/album/1WtUItKWV5XkaUyLr5W5Nu) | 3:02 |
 | 45 | [Brother To You](https://open.spotify.com/track/4reQP8WeF311w1sDlCBS3F) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [New Mythology](https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw) | 3:34 |
 | 46 | [People Need A Melody](https://open.spotify.com/track/7vVtCG0LmChEV6NaIwALOh) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [People Need a Melody](https://open.spotify.com/album/344VAXCsawRmlsrHtcc4pQ) | 4:12 |
 | 47 | [I Just Love You](https://open.spotify.com/track/2gQV3v9mnk1Hiy6q2NWDJy) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Nightjar and the Nightingale](https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk) | 3:15 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 58 | [Almost Home](https://open.spotify.com/track/4AsUAGWIMsZ7Xl5Hc1Fk4p) | [Keston Cobblers Club](https://open.spotify.com/artist/38DmNaPnPBoXtbpFgXZNL8) | [Almost Home](https://open.spotify.com/album/3wa5A9GyJM4jd3vCvfIby5) | 2:49 |
 | 59 | [My Home Is You](https://open.spotify.com/track/25tf3JcjG8097N3jEPgVAL) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [My Home Is You](https://open.spotify.com/album/3gxvQCTnw0tl5h6sgAnfnb) | 3:23 |
 | 60 | [Plant A Forest](https://open.spotify.com/track/3PY4QVfv2hTd5hvikGd8vB) | [Chance Emerson](https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED) | [Plant A Forest](https://open.spotify.com/album/0oKKTJTn0TniaTXT3Dj79z) | 2:44 |
-| 61 | [On a Roll](https://open.spotify.com/track/34L5OwGhNUKJOG7fgR4ain) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Strangers No More](https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV) | 4:24 |
-| 62 | [Making Do](https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Making Do](https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC) | 3:34 |
+| 61 | [Making Do](https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Making Do](https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC) | 3:34 |
+| 62 | [On a Roll](https://open.spotify.com/track/34L5OwGhNUKJOG7fgR4ain) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Strangers No More](https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV) | 4:24 |
 | 63 | [Smile](https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:30 |
 | 64 | [Hold Me](https://open.spotify.com/track/5P8ldnOsScd9aMlQMKucb6) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hold Me](https://open.spotify.com/album/4gVu2VoV5kV8g6ihNLWfFS) | 2:52 |
 | 65 | [Swing](https://open.spotify.com/track/3Z2kf97u27vENbQRADp5nO) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Swing](https://open.spotify.com/album/2camVZ5HsnwObRkmE6H6Ws) | 2:45 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 95 | [colorado](https://open.spotify.com/track/4CV5CM0n6FvULMk62J8XNW) | [Mesita](https://open.spotify.com/artist/0Y4MvL6mOliZEB5uTLlX9z) | [colorado](https://open.spotify.com/album/7fe6hvtnwqeRnpopJg3FzT) | 3:03 |
 | 96 | [Underground](https://open.spotify.com/track/0imvDJe1YTOJ0rslCEqxME) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Underground](https://open.spotify.com/album/1XogUM1lbgNl7yivlrcD2L) | 3:56 |
 | 97 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 |
-| 98 | [I Should've Danced More](https://open.spotify.com/track/64ATnWMoANGIML1HeNWhMO) | [Joan Osborne](https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o) | [Nobody Owns You](https://open.spotify.com/album/2WPwjBRADu4edc5Xw4B6Vd) | 3:56 |
-| 99 | [pop the placebo](https://open.spotify.com/track/0a8eRyWUFB5icN7tNRwgFr) | [Elizabeth & the Catapult](https://open.spotify.com/artist/6HzkeE2Ggi3n8zB0cX3qiR) | [pop the placebo](https://open.spotify.com/album/1FMdg3rDTUp8Dutv7djgM3) | 4:10 |
+| 98 | [pop the placebo](https://open.spotify.com/track/0a8eRyWUFB5icN7tNRwgFr) | [Elizabeth & the Catapult](https://open.spotify.com/artist/6HzkeE2Ggi3n8zB0cX3qiR) | [pop the placebo](https://open.spotify.com/album/1FMdg3rDTUp8Dutv7djgM3) | 4:10 |
+| 99 | [I Should've Danced More](https://open.spotify.com/track/64ATnWMoANGIML1HeNWhMO) | [Joan Osborne](https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o) | [Nobody Owns You](https://open.spotify.com/album/2WPwjBRADu4edc5Xw4B6Vd) | 3:56 |
 | 100 | [Feel Like Going Home](https://open.spotify.com/track/3MtPnzu1Q0PatrrMHsdfCB) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Feel Like Going Home](https://open.spotify.com/album/2DzbUMDWMSPbE7vJN2Ud1S) | 4:35 |
 
 Snapshot ID: `AAAAAL/pwx6jzqS6Xve5LJD/Yx8k7uRe`

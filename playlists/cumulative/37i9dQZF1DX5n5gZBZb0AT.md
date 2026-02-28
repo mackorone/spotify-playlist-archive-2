@@ -4,7 +4,7 @@
 
 > all gains
 
-161 songs - 6 hr 6 min
+162 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Montagem Mysterious Game](https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Montagem Mysterious Game](https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe) | 1:43 | 2024-01-05 |  |
 | [Montagem Supersonic](https://open.spotify.com/track/2r2vr5ujMEZN9hJzwwc6Jk) | [KHAOS](https://open.spotify.com/artist/3SENePgknpJt3DvLK2JAfZ), [Jmilton](https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz), [Mc Jajá](https://open.spotify.com/artist/1P2tOPRmSa1XzEdtIEYA9W) | [Montagem Supersonic](https://open.spotify.com/album/0fauumBf19hArK8Wt3XhkC) | 1:27 | 2025-07-25 |  |
 | [MONTAGEM TOMADA](https://open.spotify.com/track/1WusF1nfwF70ojSCSFhmLW) | [MXZI](https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y) | [MONTAGEM TOMADA](https://open.spotify.com/album/5D17Gk0J7jPXLvWMszqijF) | 1:11 | 2025-03-28 | 2025-06-10 |
-| [MONTAGEM TOMADA](https://open.spotify.com/track/2UEyo3ufg8DvO0zYMJWG7R) | [MXZI](https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y) | [MONTAGEM TOMADA](https://open.spotify.com/album/40m2KxQUQNQANattrHt9vZ) | 1:11 | 2025-07-25 |  |
+| [MONTAGEM TOMADA](https://open.spotify.com/track/2UEyo3ufg8DvO0zYMJWG7R) | [MXZI](https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y) | [MONTAGEM TOMADA](https://open.spotify.com/album/40m2KxQUQNQANattrHt9vZ) | 1:11 | 2025-07-25 | 2026-02-28 |
 | [Montagem Totally Strange](https://open.spotify.com/track/5K79Sqmi1GcFB0rjrzoVXf) | [MC Caja](https://open.spotify.com/artist/0zyPMXUsjcvUvgWmaRt0bY), [MC BN](https://open.spotify.com/artist/1JYiyu6QtmtwjdFz3TEFTe), [MC BF](https://open.spotify.com/artist/6D8B4iuwUVhFmYRcT1c6Tu), [DJ YUZAK](https://open.spotify.com/artist/651jNHJzsX4ckQvURNNAIS) | [Montagem Totally Strange](https://open.spotify.com/album/35e7by9KnpAKb01SCj5SHn) | 2:25 | 2025-03-28 | 2025-05-28 |
 | [Monëy so big](https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:40 | 2023-03-01 | 2023-07-12 |
 | [Moonlight](https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:15 | 2023-03-01 | 2023-03-28 |
@@ -140,6 +140,7 @@
 | [Sequência da Dz7](https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [Sequência da Dz7](https://open.spotify.com/album/0q18FVPvrXw161KvnT4sk7) | 1:59 | 2023-07-19 | 2024-03-15 |
 | [Sequência da Dz7](https://open.spotify.com/track/0hEjvk5rMwLzt9rUcFmZG7) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [Sequência da Dz7](https://open.spotify.com/album/3BsuqyYCV0DYIBrDi1SKwQ) | 1:59 | 2024-02-13 | 2024-04-19 |
 | [SEQUÊNCIA MALÉFICA 1.0](https://open.spotify.com/track/1v5PQyuSHxPy56xCuCnMQ0) | [RXPOSO99](https://open.spotify.com/artist/5joODcLQTClX0o3q13SOfU), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [SEQUÊNCIA MALÉFICA 1.0](https://open.spotify.com/album/4Fpr7mZ709qg0Iu1ESYNwz) | 1:36 | 2024-05-08 | 2025-04-06 |
+| [Shake That Bunda](https://open.spotify.com/track/7uWIyd4hf5UYIOxBMFRT1S) | [Fantasm](https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy), [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [Shake That Bunda](https://open.spotify.com/album/08GthPNa2ax2Kv7O5Kv5lL) | 2:40 | 2026-02-13 |  |
 | [SLAY!](https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [SLAY!](https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx) | 1:47 | 2024-05-08 |  |
 | [Space Cadet \(feat\. Gunna\)](https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:23 | 2023-03-01 | 2023-12-30 |
 | [Spinnin](https://open.spotify.com/track/4r0kug4vaNx3d8qyDLhQes) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Bens](https://open.spotify.com/artist/0tAl0sGxLq4qkokhuFMLC7) | [Spin The Globe](https://open.spotify.com/album/1HkGRJtlIFAMDKpEgGxF0M) | 1:50 | 2023-05-19 | 2023-09-09 |

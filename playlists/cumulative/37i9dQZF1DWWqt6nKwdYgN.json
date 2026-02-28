@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-15",
-  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Soul AM, Z\u00e1baz y Komba en portada. ",
+  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Charles Ans, Yubeili, DAAZ y Caztro en portada. ",
   "name": "Rimas Frescas ",
   "tracks": [
     {
@@ -1797,6 +1797,24 @@
     },
     {
       "album": {
+        "name": "ANAMAU",
+        "url": "https://open.spotify.com/album/51kKo9n5HDNIMUYBJTdec7"
+      },
+      "artists": [
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156219,
+      "name": "ANAMAU",
+      "url": "https://open.spotify.com/track/5Fo4nQogolKSCjDOvLTAgm"
+    },
+    {
+      "album": {
         "name": "ANBU",
         "url": "https://open.spotify.com/album/5ANllXrlPvSfmcWW8oTkyw"
       },
@@ -2950,6 +2968,28 @@
       "duration_ms": 164659,
       "name": "Bill Cosby",
       "url": "https://open.spotify.com/track/3rmJrSfzgJo2Ty09Rf6txz"
+    },
+    {
+      "album": {
+        "name": "Bisiestos",
+        "url": "https://open.spotify.com/album/5jAfgzFP7BLCB5cv5n2bLp"
+      },
+      "artists": [
+        {
+          "name": "No Rules Clan",
+          "url": "https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv"
+        },
+        {
+          "name": "Ignorancia Sofisticada",
+          "url": "https://open.spotify.com/artist/2VqPCXF4QWaR9Xto4xN4YX"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152813,
+      "name": "Bisiestos",
+      "url": "https://open.spotify.com/track/2VCuzWuTcvv7oqoArHtNdJ"
     },
     {
       "album": {
@@ -4460,7 +4500,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 187692,
       "name": "Cero Fantoche",
       "url": "https://open.spotify.com/track/5ajAI2e0DOP4MeykoQi21p"
@@ -4796,6 +4836,32 @@
       "duration_ms": 168017,
       "name": "Cine Para Adultos",
       "url": "https://open.spotify.com/track/5x5HxoOo9hrFtbmdxJ476M"
+    },
+    {
+      "album": {
+        "name": "Circo",
+        "url": "https://open.spotify.com/album/4iaLvFK67a8wTGlWGPjK9l"
+      },
+      "artists": [
+        {
+          "name": "Putolargo",
+          "url": "https://open.spotify.com/artist/3lP2GgJaO5TZJt8dE1WsSQ"
+        },
+        {
+          "name": "Teeam Revolver",
+          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
+        },
+        {
+          "name": "Yabul\u00e9",
+          "url": "https://open.spotify.com/artist/5s0UiGPVJ2Ghj3ushukRNG"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230741,
+      "name": "Circo",
+      "url": "https://open.spotify.com/track/6nvu3Ziu2mptzcEWMB9kJk"
     },
     {
       "album": {
@@ -8792,10 +8858,32 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 196847,
       "name": "Estilo GTA",
       "url": "https://open.spotify.com/track/3TyL0wLBgemN9ageCkTbT3"
+    },
+    {
+      "album": {
+        "name": "Estilo Libre",
+        "url": "https://open.spotify.com/album/3LRc5qMxdwWkQHSFniaohX"
+      },
+      "artists": [
+        {
+          "name": "Solitario Soldado",
+          "url": "https://open.spotify.com/artist/1iXMM6jVHyxeES7W3xxBUG"
+        },
+        {
+          "name": "El sonido del javier",
+          "url": "https://open.spotify.com/artist/4uVbjrw33FZ26BdquXi36u"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141590,
+      "name": "Estilo Libre",
+      "url": "https://open.spotify.com/track/00BNkalZzVpxUjdL17ZCUn"
     },
     {
       "album": {
@@ -8862,7 +8950,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 195000,
       "name": "Esto No Te Sale",
       "url": "https://open.spotify.com/track/5puP1AMamvsrAW7megJcFd"
@@ -8924,7 +9012,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 135998,
       "name": "Estuve Ah\u00ed",
       "url": "https://open.spotify.com/track/0deJuuwLr6HofRCDVDbVNA"
@@ -10128,7 +10216,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 127058,
       "name": "GUAYETE",
       "url": "https://open.spotify.com/track/2h25QFfUif78EYxfJLNerX"
@@ -11747,6 +11835,52 @@
     },
     {
       "album": {
+        "name": "L.V.M.M.",
+        "url": "https://open.spotify.com/album/1e4lKS2W6jPnMMZwoXgHti"
+      },
+      "artists": [
+        {
+          "name": "Tempo",
+          "url": "https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        },
+        {
+          "name": "El B",
+          "url": "https://open.spotify.com/artist/2hbqnyDIEyi8JbZCmOkPdm"
+        },
+        {
+          "name": "FARIANA",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        },
+        {
+          "name": "Lito MC Cassidy",
+          "url": "https://open.spotify.com/artist/0zgbk1EdcU6tt6QUOnCC5o"
+        },
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491320,
+      "name": "L.V.M.M.",
+      "url": "https://open.spotify.com/track/1O4HsnqlbFlOBoZVJBtqsQ"
+    },
+    {
+      "album": {
         "name": "La Bestia",
         "url": "https://open.spotify.com/album/2tLnc9SMjbiOzJKcP3xicG"
       },
@@ -12433,6 +12567,28 @@
     },
     {
       "album": {
+        "name": "La luz",
+        "url": "https://open.spotify.com/album/285QEUrTLS9j5EtaMCkCu7"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197013,
+      "name": "La luz",
+      "url": "https://open.spotify.com/track/2jslkxswlLCTqZDlvl5M1x"
+    },
+    {
+      "album": {
         "name": "LA LUZ DEL BARRIO",
         "url": "https://open.spotify.com/album/2a4439WXwlPVB2MKKK2sBM"
       },
@@ -12764,6 +12920,28 @@
       "duration_ms": 255638,
       "name": "La Pura Neta",
       "url": "https://open.spotify.com/track/48aan0qxFx1IEmS0OvbGyN"
+    },
+    {
+      "album": {
+        "name": "La Receta",
+        "url": "https://open.spotify.com/album/5ddbD2oj0dd8UeQSmuuk3M"
+      },
+      "artists": [
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        },
+        {
+          "name": "School MC",
+          "url": "https://open.spotify.com/artist/5mu2rGENOsGqLnb9hGum2X"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186250,
+      "name": "La Receta",
+      "url": "https://open.spotify.com/track/0tIQOdrZFgXSqfzqFttyyT"
     },
     {
       "album": {
@@ -14747,6 +14925,44 @@
     },
     {
       "album": {
+        "name": "Medallo Finest - Cypher",
+        "url": "https://open.spotify.com/album/3cri0TxB5nxq3SK2zVm4v0"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
+        },
+        {
+          "name": "DeeJohend",
+          "url": "https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1"
+        },
+        {
+          "name": "Niche Ls",
+          "url": "https://open.spotify.com/artist/2yxSMjOgzBvfmExi22OCU7"
+        },
+        {
+          "name": "Z\u00e1baz",
+          "url": "https://open.spotify.com/artist/6HZ9Yb4XRVEWWFqUANMtKd"
+        },
+        {
+          "name": "Thomas Parr",
+          "url": "https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314000,
+      "name": "Medallo Finest - Cypher",
+      "url": "https://open.spotify.com/track/0GgKbQrvXc5ejyHCcsEkHf"
+    },
+    {
+      "album": {
         "name": "Medellificaci\u00f3n",
         "url": "https://open.spotify.com/album/6EOAPxFmNwLMaJ6aPmfwsP"
       },
@@ -15602,7 +15818,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 150013,
       "name": "MIRALO AHI",
       "url": "https://open.spotify.com/track/2XGjqnA82LQ4gBlqCleyOU"
@@ -15760,7 +15976,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 239611,
       "name": "Modestia Aparte (Cabos Sueltos 3)",
       "url": "https://open.spotify.com/track/2RJt2HzLVj5TQofHaaKasc"
@@ -17487,6 +17703,36 @@
     },
     {
       "album": {
+        "name": "Nombre y Apellido",
+        "url": "https://open.spotify.com/album/1w2Yqtcb9tTGRx93hKSawe"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271208,
+      "name": "Nombre y Apellido",
+      "url": "https://open.spotify.com/track/5T3GPd0C19r3y4ahADtiXH"
+    },
+    {
+      "album": {
         "name": "North Carolina",
         "url": "https://open.spotify.com/album/71pufSccYxTQifr78KAbL0"
       },
@@ -18600,7 +18846,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 157586,
       "name": "Pase Lo Que Pase",
       "url": "https://open.spotify.com/track/2D1EgOOybmJOU9rh0yYivn"
@@ -19636,7 +19882,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 254769,
       "name": "Puro Bandido",
       "url": "https://open.spotify.com/track/2hO1iNz6UGwCa8E6dvh1vL"
@@ -20776,7 +21022,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 209693,
       "name": "Ritmo",
       "url": "https://open.spotify.com/track/6pNmHaLprimBA8ZFuDdhAp"
@@ -25946,6 +26192,24 @@
       "duration_ms": 123428,
       "name": "Zidane",
       "url": "https://open.spotify.com/track/5K7RZy6pR7okeyB5TtaXd4"
+    },
+    {
+      "album": {
+        "name": "ZUMBANDO",
+        "url": "https://open.spotify.com/album/6il6zAJuUDj56CgZcmAzsm"
+      },
+      "artists": [
+        {
+          "name": "Victor Rivera Y Su Nuevo Estilo",
+          "url": "https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "ZUMBANDO",
+      "url": "https://open.spotify.com/track/0eyQrJBitRm6DZfdQ7Ssnc"
     },
     {
       "album": {

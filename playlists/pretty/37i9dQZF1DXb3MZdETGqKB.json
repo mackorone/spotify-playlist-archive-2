@@ -1,13 +1,41 @@
 {
   "description": "All new, all blues. Cover: Sonny Gullage",
-  "num_followers": 158564,
+  "num_followers": 158567,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALfp83R5m+AtWIFCrE8fua7o0kfI",
+  "snapshot_id": "AAAAAJeUfKemV81VfMx03FhKVr8HTXcY",
   "tracks": [
+    {
+      "added_at": "2026-02-27 05:00:36",
+      "album": {
+        "name": "Good To Me",
+        "url": "https://open.spotify.com/album/3gafm5KT24utYvUfhjuush"
+      },
+      "artists": [
+        {
+          "name": "Prince Street Bodega",
+          "url": "https://open.spotify.com/artist/00Z7KikCldWg5aQzEk2AUS"
+        },
+        {
+          "name": "DOMENICO",
+          "url": "https://open.spotify.com/artist/0njfgkVXlaTtQnSZx9awZt"
+        },
+        {
+          "name": "Rion S",
+          "url": "https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7"
+        },
+        {
+          "name": "Black Caviar",
+          "url": "https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6"
+        }
+      ],
+      "duration_ms": 192631,
+      "name": "Good To Me",
+      "url": "https://open.spotify.com/track/7sOUL7fsYV1AngxrrSwplo"
+    },
     {
       "added_at": "2025-11-21 05:00:18",
       "album": {
@@ -1651,26 +1679,6 @@
       "duration_ms": 184870,
       "name": "Keep Off of You",
       "url": "https://open.spotify.com/track/3oNXDpo7ziScRfWi8d9O37"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "Reconcile",
-        "url": "https://open.spotify.com/album/2gybW4tM9V6oUvYSw6YHV4"
-      },
-      "artists": [
-        {
-          "name": "The Allergies",
-          "url": "https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY"
-        },
-        {
-          "name": "Charles Morgan",
-          "url": "https://open.spotify.com/artist/49wXybwwvthf1zYBangQ0k"
-        }
-      ],
-      "duration_ms": 219453,
-      "name": "Reconcile",
-      "url": "https://open.spotify.com/track/40KisYYaB1CQZ32qDkdo2L"
     },
     {
       "added_at": "2023-01-13 05:01:00",

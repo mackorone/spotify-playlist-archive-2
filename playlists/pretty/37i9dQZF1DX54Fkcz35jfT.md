@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 
 > Discover the intensity and emotion resonating through Japan’s hard rock\. / 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: Nothing's Carved In Stone
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,638 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,645 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 59 | [SUPER NATURAL HIGH \- feat\. 唾奇](https://open.spotify.com/track/7H2G4gNAop4IEmLSJJP6L7) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1) | [PALEDUSK](https://open.spotify.com/album/60WzIOT8v9ww4FeKfndWwI) | 3:18 |
 | 60 | [KINGSBLOOD](https://open.spotify.com/track/6uiuwwmzowxSJN34GekhQr) | [Kala](https://open.spotify.com/artist/7pPCkPhaRLkGmovI5M0zCq) | [KINGSBLOOD](https://open.spotify.com/album/6YuF8lQdkkcqQWP3KB2a5L) | 3:31 |
 | 61 | [おいしいサバイバー](https://open.spotify.com/track/7rUo3qpSvGob97U68qb0M6) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [おいしいサバイバー](https://open.spotify.com/album/2GXXX6qqWMmqhG4FU91NPX) | 2:58 |
-| 62 | [完全感覚Dreamer](https://open.spotify.com/track/30hzxa3MaRd2XXB6kXGlPh) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Nicheシンドローム](https://open.spotify.com/album/5Txrg948JAAstSTzI0Rssa) | 4:12 |
-| 63 | [INCOMPLETE](https://open.spotify.com/track/5qmYsAjOo7AVWcVSvQm8Wh) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [INCOMPLETE](https://open.spotify.com/album/7oN3hZbZ7xPkMbB4MC8vac) | 3:35 |
+| 62 | [INCOMPLETE](https://open.spotify.com/track/5qmYsAjOo7AVWcVSvQm8Wh) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [INCOMPLETE](https://open.spotify.com/album/7oN3hZbZ7xPkMbB4MC8vac) | 3:35 |
+| 63 | [完全感覚Dreamer](https://open.spotify.com/track/30hzxa3MaRd2XXB6kXGlPh) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Nicheシンドローム](https://open.spotify.com/album/5Txrg948JAAstSTzI0Rssa) | 4:12 |
 | 64 | [東京ミッドナイト \- Tokyo Midnight](https://open.spotify.com/track/2zKMBHW3j6E4uxXXZhYwwD) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [The Crown](https://open.spotify.com/album/7ENXjwkWhcXDZ09XIQAzca) | 3:48 |
 | 65 | [Be The One](https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Be The One](https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq) | 3:06 |
 | 66 | [I'll be there](https://open.spotify.com/track/0lfcOko3BkbcOOQvIJVUG0) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [I'll be there](https://open.spotify.com/album/2XV1p7LViusogXzUiB338X) | 4:38 |
 | 67 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 |
-| 68 | [Atmosphere](https://open.spotify.com/track/5zedOynNXLH5aUHPM5zSv7) | [MONOEYES](https://open.spotify.com/artist/6E0nqUTrVRNwUGcbZxeDX9) | [The Unforgettables E.P.](https://open.spotify.com/album/0wfPZAnAc4hs0pIxXtS8pM) | 2:48 |
-| 69 | [NEW DAWN](https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [NEW DAWN](https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8) | 3:32 |
+| 68 | [NEW DAWN](https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [NEW DAWN](https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8) | 3:32 |
+| 69 | [Atmosphere](https://open.spotify.com/track/5zedOynNXLH5aUHPM5zSv7) | [MONOEYES](https://open.spotify.com/artist/6E0nqUTrVRNwUGcbZxeDX9) | [The Unforgettables E.P.](https://open.spotify.com/album/0wfPZAnAc4hs0pIxXtS8pM) | 2:48 |
 | 70 | [DUA･RHYTHM](https://open.spotify.com/track/4gTa2HNlJEfGr9q1s2PsFD) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [DUA･RHYTHM](https://open.spotify.com/album/4Cfgh8X6COsvtyirAF5iBF) | 3:33 |
 | 71 | [Against the Kings and Gods](https://open.spotify.com/track/4FsOAgejIlmrA7qvQsJn0B) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Against the Kings and Gods](https://open.spotify.com/album/76VR0jyf0FtIRFf6RxF41f) | 4:16 |
 | 72 | [Inside of Me](https://open.spotify.com/track/20Y2bZDq6iSvWgykeyShXD) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Inside Of Me](https://open.spotify.com/album/3qhR0fpKLkCSGWn63xBXHE) | 3:13 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 88 | [Keep going](https://open.spotify.com/track/0ZCpVXA2TCoxpYCdtnQWJg) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Keep going](https://open.spotify.com/album/5qanfHlbiLvT8JGKsY9OUT) | 2:40 |
 | 89 | [RISE](https://open.spotify.com/track/7IOWVbArUAldsxLamaQt8R) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [RISE](https://open.spotify.com/album/6aigT9ZhKsG8bBVEx75JzH) | 3:21 |
 | 90 | [PALEHELL](https://open.spotify.com/track/2uiYaLjZv8nRFzL0utxSBd) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [PALEHELL](https://open.spotify.com/album/061Fln1SY6RputuFt6GP5N) | 3:41 |
-| 91 | [knuckle duster](https://open.spotify.com/track/6XMusqUoRUqH3roWmiCIuj) | [the bercedes menz](https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd) | [knuckle duster](https://open.spotify.com/album/2P37p95rPADZFU7VmIpQfu) | 3:03 |
-| 92 | [Beast Mode](https://open.spotify.com/track/1tA3FxKi8oA0pmSNEB4ush) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [Beast Mode](https://open.spotify.com/album/1UMECQ51RJkCPjU7jXlPGt) | 4:10 |
+| 91 | [Beast Mode](https://open.spotify.com/track/1tA3FxKi8oA0pmSNEB4ush) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [Beast Mode](https://open.spotify.com/album/1UMECQ51RJkCPjU7jXlPGt) | 4:10 |
+| 92 | [knuckle duster](https://open.spotify.com/track/6XMusqUoRUqH3roWmiCIuj) | [the bercedes menz](https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd) | [knuckle duster](https://open.spotify.com/album/2P37p95rPADZFU7VmIpQfu) | 3:03 |
 | 93 | [PAC\-MANISM](https://open.spotify.com/track/06OI5rkTs4hHrlUGjD1UUw) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [PAC\-MANISM](https://open.spotify.com/album/4Rl64ebxCFoq7NuECnR9Nu) | 2:07 |
 | 94 | [h2o.wav](https://open.spotify.com/track/5WmpPBp1c2fcT5fdpFizBW) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA), [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [PHOBIA SYNDROME](https://open.spotify.com/album/6UeGX0fcpL3KycKGeBM3Rz) | 3:56 |
 | 95 | [error](https://open.spotify.com/track/6UBKBsszhdmFrfgdrfXhHr) | [FACT](https://open.spotify.com/artist/6e72QQjYlMcLhQaDWO2G73) | [FACT 2009 \- 2012](https://open.spotify.com/album/7EAoGpFEkajO87sci1FFC2) | 3:32 |

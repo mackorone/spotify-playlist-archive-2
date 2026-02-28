@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 
 > Para ahogar las penas en el fondo de una botella\. Jessi Uribe en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,860 likes - 99 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,909 likes - 99 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,10 +64,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 54 | [Voy a Conquistarte](https://open.spotify.com/track/1NRL1xr9JCqu5ITWURgfk6) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Voy a Conquistarte](https://open.spotify.com/album/2VHsO0GHeMDDemIeaEg9dZ) | 2:55 |
 | 55 | [Debí Suponerlo \- Versión Mariachi](https://open.spotify.com/track/6NyJ0XuEuryK0kpxgv0flT) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Debí Suponerlo \(Versión Mariachi\)](https://open.spotify.com/album/21ENHysoKWXYrrp9jvDJgM) | 2:40 |
 | 56 | [Mi Ex](https://open.spotify.com/track/6jD818CoibqddGqCEyhjCy) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [Imparables](https://open.spotify.com/album/5HVoQdtTpBV5ek4cEKTKrO) | 4:44 |
-| 57 | [¿Por Qué Me Haces Llorar?](https://open.spotify.com/track/68pE8830rWrd5LSSfKcRqn) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel](https://open.spotify.com/album/43k4po9vUTVv54kNCBXWcT) | 3:02 |
-| 58 | [Dile al Amor](https://open.spotify.com/track/6h7dFkekl5awWSe9IGtAfP) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Pa' Olvidar](https://open.spotify.com/album/42C8pktaxUVrz8NKQEtTC3) | 3:19 |
-| 59 | [Una Llamada Perdida](https://open.spotify.com/track/1seKHgwXPVAK9o6bh7IzlF) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Alquimia](https://open.spotify.com/album/3qjKFqjicRz4kDPbWb8QWq) | 3:21 |
-| 60 | [Borracho Te Llamo](https://open.spotify.com/track/0QTy8NYyHUheegmH0ndfMK) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [Borracho Te Llamo](https://open.spotify.com/album/0lg5oGuuZvNc9brVmqI64C) | 2:28 |
+| 57 | [Dile al Amor](https://open.spotify.com/track/6h7dFkekl5awWSe9IGtAfP) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Pa' Olvidar](https://open.spotify.com/album/42C8pktaxUVrz8NKQEtTC3) | 3:19 |
+| 58 | [¿Por Qué Me Haces Llorar?](https://open.spotify.com/track/68pE8830rWrd5LSSfKcRqn) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel](https://open.spotify.com/album/43k4po9vUTVv54kNCBXWcT) | 3:02 |
+| 59 | [Borracho Te Llamo](https://open.spotify.com/track/0QTy8NYyHUheegmH0ndfMK) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [Borracho Te Llamo](https://open.spotify.com/album/0lg5oGuuZvNc9brVmqI64C) | 2:28 |
+| 60 | [Una Llamada Perdida](https://open.spotify.com/track/1seKHgwXPVAK9o6bh7IzlF) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Alquimia](https://open.spotify.com/album/3qjKFqjicRz4kDPbWb8QWq) | 3:21 |
 | 61 | [Que Sea](https://open.spotify.com/track/3LBnikk8IS3TSBbVUn86eA) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Atemporal](https://open.spotify.com/album/69opE4juUkLG8qTWNKB6Cv) | 2:49 |
 | 62 | [No Me Hace Bien](https://open.spotify.com/track/4BCplEwn32Y3nQeeBsbsj9) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Así de Enamorados](https://open.spotify.com/album/6cjoz33o9RqcKCgo7zDXxK) | 2:54 |
 | 63 | [En Este Amor](https://open.spotify.com/track/4f5oH6SMKbWnsxjznuuYAJ) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [En Este Amor](https://open.spotify.com/album/6o4we0I9BrHtDb9fUXt97y) | 2:46 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 72 | [Los Chismes](https://open.spotify.com/track/1EB7ebq9oX7eFr2aEHp3MG) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Los Chismes](https://open.spotify.com/album/5474RKvrAG8YQjN4B98ul4) | 3:04 |
 | 73 | [Mejor Ni Me La Nombren](https://open.spotify.com/track/7y3TuUYfFzF7PgdSz3FplN) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Mejor Ni Me La Nombren](https://open.spotify.com/album/5Q7i8xatCEmGh7wX81r4bw) | 3:30 |
 | 74 | [10 PM \- Popular](https://open.spotify.com/track/5Wa3cRSjVUeQm5zhwAFUao) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [10 PM \(Popular\)](https://open.spotify.com/album/0UKMqy1QBgwAgfwIsWmOsR) | 3:33 |
-| 75 | [Matemos las Ganas](https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos las Ganas](https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom) | 3:02 |
-| 76 | [Me Pase de Tragos](https://open.spotify.com/track/5ZGfTN3AjHosH5O8bpjyOf) | [Alexis Escobar](https://open.spotify.com/artist/5WJINRAYLwCnLBp9tzaE98) | [Me Pase de Tragos](https://open.spotify.com/album/6hA1t3VClQcV24hLiQ0zQn) | 2:58 |
+| 75 | [Me Pase de Tragos](https://open.spotify.com/track/5ZGfTN3AjHosH5O8bpjyOf) | [Alexis Escobar](https://open.spotify.com/artist/5WJINRAYLwCnLBp9tzaE98) | [Me Pase de Tragos](https://open.spotify.com/album/6hA1t3VClQcV24hLiQ0zQn) | 2:58 |
+| 76 | [Matemos las Ganas](https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos las Ganas](https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom) | 3:02 |
 | 77 | [Desarmada \- Spotify Singles](https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Desarmada \- Spotify Singles](https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih) | 2:31 |
 | 78 | [2 O 3 Botellas](https://open.spotify.com/track/346bfJqsooK4mXr2SLT3t3) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF), [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [2 O 3 Botellas](https://open.spotify.com/album/2kk1iU5HnwFoA80NZUPDe7) | 2:53 |
 | 79 | [No Se Va \- EN VIVO](https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va \(EN VIVO\)](https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3) | 3:14 |
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 95 | [Mis Borracheras](https://open.spotify.com/track/3V9ZEYBGRNiogfBzY5kffn) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Mis Borracheras](https://open.spotify.com/album/7gq0O9v34SWXIzggHHOZli) | 2:47 |
 | 96 | [No Es Por Acá](https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [No Es Por Acá](https://open.spotify.com/album/452R0kJudc73I2N1hxhL7k) | 2:47 |
 | 97 | [Dulce Pecado](https://open.spotify.com/track/1dcPvuDlIyEZSCtYXtZlMm) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítelas](https://open.spotify.com/album/6GMiVgtsRUVMb1ZCIxQoYi) | 2:55 |
-| 98 | [Murió El Amor](https://open.spotify.com/track/09H7KZfOO0PMNLwsUDG2BI) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [En Tus Manos](https://open.spotify.com/album/0gkKTHSGp4ckN2XPVi4GUL) | 3:00 |
+| 98 | [La Conquista](https://open.spotify.com/track/4o5DwAte1mdSB3YfIKwZjm) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [La Conquista](https://open.spotify.com/album/5uZpOJO7pLBQ7nSHE1fjjY) | 3:06 |
 | 99 | [Que Te Lo Crea Tu Madre](https://open.spotify.com/track/1FEH4cNvTNkBO5tM4mMyag) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Las Compuse para Ti](https://open.spotify.com/album/6MPAzfdQFWe5IadlxhcUNv) | 3:20 |
 
 Snapshot ID: `AAAAAB7TpwHxGGwtMF3flyORYfGMbusF`

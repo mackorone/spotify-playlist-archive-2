@@ -1,6 +1,6 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 296948,
+  "num_followers": 297048,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
@@ -659,26 +659,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Joyas Prestadas - Pop",
-        "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Basta Ya - Pop",
-      "url": "https://open.spotify.com/track/726JxH4rjuSfeYjtZBKp5w"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 191906,
       "name": "Yo Te Necesito",
       "url": "https://open.spotify.com/track/4dlJmzbFkjvut4QjJM8LPe"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Joyas Prestadas - Pop",
+        "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Basta Ya - Pop",
+      "url": "https://open.spotify.com/track/726JxH4rjuSfeYjtZBKp5w"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "La Mas Completa Coleccion (Disco 1)",
-        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 196986,
-      "name": "Sigue Sin Mi",
-      "url": "https://open.spotify.com/track/0SrxRhhNIhyTx0wLTl4zCt"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Barra Abierta a los Dolidos... (En Vivo)",
         "url": "https://open.spotify.com/album/31Dhjy2qlvaPwURQfQQ1Mc"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 236835,
       "name": "A Donde Vayas (En Vivo)",
       "url": "https://open.spotify.com/track/2O8jEh0CMGuMRnB4zmfY2y"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "La Mas Completa Coleccion (Disco 1)",
+        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 196986,
+      "name": "Sigue Sin Mi",
+      "url": "https://open.spotify.com/track/0SrxRhhNIhyTx0wLTl4zCt"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "La Mas Completa Coleccion (Disco 1)",
-        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Para Que No Te Vayas",
-      "url": "https://open.spotify.com/track/2WMgMvIKhQW6LmkSCA5Ct6"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Mi Eterno Amor Secreto (En Vivo)",
         "url": "https://open.spotify.com/album/1uvg6zk4qCvm9oOrt73Dmi"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 233728,
       "name": "Mi Eterno Amor Secreto (En Vivo)",
       "url": "https://open.spotify.com/track/6u6d57Let06W838gmh7XKB"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "La Mas Completa Coleccion (Disco 1)",
+        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Para Que No Te Vayas",
+      "url": "https://open.spotify.com/track/2WMgMvIKhQW6LmkSCA5Ct6"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "La Mina Verde",
-        "url": "https://open.spotify.com/album/0eg7jZirIdHq0Ra3wfZHhG"
-      },
-      "artists": [
-        {
-          "name": "Los Sembradores",
-          "url": "https://open.spotify.com/artist/1JVfORNBW6NGm0tJPKdvnm"
-        }
-      ],
-      "duration_ms": 204019,
-      "name": "El Celoso",
-      "url": "https://open.spotify.com/track/58PlhLYOXl1aOLDHzbIpDA"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 210680,
       "name": "M\u00e1s Que Tu Amigo",
       "url": "https://open.spotify.com/track/1ZdXOEAEcOt3gwB71vYCie"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "La Mina Verde",
+        "url": "https://open.spotify.com/album/0eg7jZirIdHq0Ra3wfZHhG"
+      },
+      "artists": [
+        {
+          "name": "Los Sembradores",
+          "url": "https://open.spotify.com/artist/1JVfORNBW6NGm0tJPKdvnm"
+        }
+      ],
+      "duration_ms": 204019,
+      "name": "El Celoso",
+      "url": "https://open.spotify.com/track/58PlhLYOXl1aOLDHzbIpDA"
     },
     {
       "added_at": "2025-01-23 17:30:18",

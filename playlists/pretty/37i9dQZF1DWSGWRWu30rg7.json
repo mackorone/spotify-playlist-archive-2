@@ -1,12 +1,12 @@
 {
   "description": "Temukan beragam musik dari talenta segar dalam negri. Cover: Adzka",
-  "num_followers": 64411,
+  "num_followers": 64412,
   "original_name": "Fresh Finds Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFpoS8guxlpXU87u7knIB5KdUlLc",
+  "snapshot_id": "AAAAAG2KArhstD3EmCP1UmpHaDoQ7EkT",
   "tracks": [
     {
       "added_at": "2026-02-26 23:54:30",
@@ -93,6 +93,22 @@
       "url": "https://open.spotify.com/track/1vTfTqu8j2PhBUoXRpULFz"
     },
     {
+      "added_at": "2026-02-27 07:50:52",
+      "album": {
+        "name": "Pelukan Rumah",
+        "url": "https://open.spotify.com/album/2RDuESSrSEiXnDgfYD13Gs"
+      },
+      "artists": [
+        {
+          "name": "Perang Batin",
+          "url": "https://open.spotify.com/artist/2Sb2r2HQdUONz09GpkfDtv"
+        }
+      ],
+      "duration_ms": 194570,
+      "name": "Pelukan Rumah",
+      "url": "https://open.spotify.com/track/6DX2qs5Le9BWu5ueLXYDs1"
+    },
+    {
       "added_at": "2026-02-26 23:54:30",
       "album": {
         "name": "aku atau dia",
@@ -129,7 +145,7 @@
         }
       ],
       "duration_ms": 237757,
-      "name": "Kemana arahnya ?",
+      "name": "Ke Mana Arahnya ?",
       "url": "https://open.spotify.com/track/5rQrIfB3eoKmrlAR0xv6Ns"
     },
     {
@@ -199,6 +215,22 @@
       "duration_ms": 266666,
       "name": "Didera Realita",
       "url": "https://open.spotify.com/track/7sq1JPzacWG2vnCipLnTAl"
+    },
+    {
+      "added_at": "2026-02-27 04:00:13",
+      "album": {
+        "name": "Daraku",
+        "url": "https://open.spotify.com/album/1FscwhdCanoSW6tWzJV6W4"
+      },
+      "artists": [
+        {
+          "name": "Lilo Lilo",
+          "url": "https://open.spotify.com/artist/5J4yLOPnPFVaA39zyawZIo"
+        }
+      ],
+      "duration_ms": 202706,
+      "name": "Daraku",
+      "url": "https://open.spotify.com/track/2gOEyuHKwvMH66tGrKARKw"
     },
     {
       "added_at": "2026-02-26 23:54:30",
@@ -351,6 +383,22 @@
     {
       "added_at": "2026-02-26 23:54:30",
       "album": {
+        "name": "Tongkat Sihir",
+        "url": "https://open.spotify.com/album/1CGd5Oxx5E7UKNAUlSXBQB"
+      },
+      "artists": [
+        {
+          "name": "Katyana",
+          "url": "https://open.spotify.com/artist/3pfvO3S6cSlzcKBeigiWKz"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Tongkat Sihir",
+      "url": "https://open.spotify.com/track/5hglczcbronGeycPEHydKy"
+    },
+    {
+      "added_at": "2026-02-26 23:54:30",
+      "album": {
         "name": "Kau Coba Rayu",
         "url": "https://open.spotify.com/album/3G0sCkC9p3yLK4467FX9CR"
       },
@@ -439,22 +487,6 @@
     {
       "added_at": "2026-02-26 23:54:30",
       "album": {
-        "name": "Mudik Raya",
-        "url": "https://open.spotify.com/album/19iV1ud4wg1rRmCQi2p19d"
-      },
-      "artists": [
-        {
-          "name": "CHAYRA",
-          "url": "https://open.spotify.com/artist/31duR6Wax3hRujL1i8JO0R"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Mudik Raya",
-      "url": "https://open.spotify.com/track/3fz2Q6EST5v8VmcWu2SrVO"
-    },
-    {
-      "added_at": "2026-02-26 23:54:30",
-      "album": {
         "name": "Simetris",
         "url": "https://open.spotify.com/album/4hY7whlotkOXiexGgFLB5p"
       },
@@ -483,38 +515,6 @@
       "duration_ms": 209307,
       "name": "Di Bawah Langit",
       "url": "https://open.spotify.com/track/31a7ZmEySFCvWPjoN78P6O"
-    },
-    {
-      "added_at": "2026-02-26 23:54:30",
-      "album": {
-        "name": "Nothing Blooms at Midnight",
-        "url": "https://open.spotify.com/album/0sjlqOkbd2TfcbVnaWKR6w"
-      },
-      "artists": [
-        {
-          "name": "Lucien Sunmoon",
-          "url": "https://open.spotify.com/artist/1iyZiDBthvSTIdAhg1TLAb"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Arc of Quiet Bloom",
-      "url": "https://open.spotify.com/track/0R1JR9uFoheD1lDbcWlFpS"
-    },
-    {
-      "added_at": "2026-02-26 23:54:30",
-      "album": {
-        "name": "Tongkat Sihir",
-        "url": "https://open.spotify.com/album/1CGd5Oxx5E7UKNAUlSXBQB"
-      },
-      "artists": [
-        {
-          "name": "Katyana",
-          "url": "https://open.spotify.com/artist/3pfvO3S6cSlzcKBeigiWKz"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Tongkat Sihir",
-      "url": "https://open.spotify.com/track/5hglczcbronGeycPEHydKy"
     }
   ],
   "unique_name": "Fresh Finds Indonesia",

@@ -1,13 +1,29 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Yasmine",
-  "num_followers": 241902,
+  "num_followers": 241974,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGvcdVgLM9b7FPYnr/Mw1DNKdb+v",
+  "snapshot_id": "AAAAAOEcPVdpV/pbTlJL7JwxT7s44+0m",
   "tracks": [
+    {
+      "added_at": "2026-02-27 11:47:45",
+      "album": {
+        "name": "Libra",
+        "url": "https://open.spotify.com/album/4LdlwdEpvdicYhV7SC5qsi"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 157419,
+      "name": "Quero Mais",
+      "url": "https://open.spotify.com/track/4oeSPyT7VejCz5duJ1lwnV"
+    },
     {
       "added_at": "2026-02-27 00:00:45",
       "album": {
@@ -165,6 +181,26 @@
       "url": "https://open.spotify.com/track/7KRzYyu3vBMSGF03Ez3Dru"
     },
     {
+      "added_at": "2026-02-27 10:13:04",
+      "album": {
+        "name": "Te Avisei",
+        "url": "https://open.spotify.com/album/517j90MdtPA3dGrWmSGiyi"
+      },
+      "artists": [
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        },
+        {
+          "name": "Shalom Beatz",
+          "url": "https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Te Avisei",
+      "url": "https://open.spotify.com/track/2MnGRWPN0GXLajqzxBCUqq"
+    },
+    {
       "added_at": "2026-02-27 00:00:45",
       "album": {
         "name": "Como Antes",
@@ -195,26 +231,6 @@
       "duration_ms": 169407,
       "name": "Deixa o Clima Rolar",
       "url": "https://open.spotify.com/track/5Jpa5TYgS6Eqdp3395ZtjG"
-    },
-    {
-      "added_at": "2026-02-27 00:00:45",
-      "album": {
-        "name": "O Nosso Amor",
-        "url": "https://open.spotify.com/album/0g47qzEGZUVkYQJzMQhIcU"
-      },
-      "artists": [
-        {
-          "name": "Soraia Ramos",
-          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
-        },
-        {
-          "name": "Calema",
-          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
-        }
-      ],
-      "duration_ms": 286378,
-      "name": "O Nosso Amor",
-      "url": "https://open.spotify.com/track/23bemRVqcUNl1ujD87upis"
     },
     {
       "added_at": "2026-02-27 00:00:45",
@@ -283,6 +299,26 @@
       "duration_ms": 185879,
       "name": "Perto De Ti",
       "url": "https://open.spotify.com/track/0ECgyQMr8uqVWshrzICj38"
+    },
+    {
+      "added_at": "2026-02-27 00:00:45",
+      "album": {
+        "name": "O Nosso Amor",
+        "url": "https://open.spotify.com/album/0g47qzEGZUVkYQJzMQhIcU"
+      },
+      "artists": [
+        {
+          "name": "Soraia Ramos",
+          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
+        },
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        }
+      ],
+      "duration_ms": 286378,
+      "name": "O Nosso Amor",
+      "url": "https://open.spotify.com/track/23bemRVqcUNl1ujD87upis"
     },
     {
       "added_at": "2026-02-27 00:00:45",
@@ -363,22 +399,6 @@
     {
       "added_at": "2026-02-27 00:00:45",
       "album": {
-        "name": "TU E A LUA",
-        "url": "https://open.spotify.com/album/1RB4xQYnHkcZZjyu3vYxkS"
-      },
-      "artists": [
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        }
-      ],
-      "duration_ms": 168600,
-      "name": "TU E A LUA",
-      "url": "https://open.spotify.com/track/2i91LXIQTB9uRfkrVrcRKC"
-    },
-    {
-      "added_at": "2026-02-27 00:00:45",
-      "album": {
         "name": "Do Jeito Da Vida",
         "url": "https://open.spotify.com/album/1JrQYD4jmNb3T7SHjKxS4v"
       },
@@ -391,22 +411,6 @@
       "duration_ms": 210679,
       "name": "Do Jeito Da Vida",
       "url": "https://open.spotify.com/track/0KRYlVHlWLRhH6JvCXA9uN"
-    },
-    {
-      "added_at": "2026-02-27 00:00:45",
-      "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/4xCCW00iAqMGJArZCBIVNZ"
-      },
-      "artists": [
-        {
-          "name": "Calema",
-          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
-        }
-      ],
-      "duration_ms": 255690,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/1pcARA1iBjvjnHgrMeo9c9"
     },
     {
       "added_at": "2026-02-27 00:00:45",
@@ -431,6 +435,22 @@
     {
       "added_at": "2026-02-27 00:00:45",
       "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/4xCCW00iAqMGJArZCBIVNZ"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        }
+      ],
+      "duration_ms": 255690,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/1pcARA1iBjvjnHgrMeo9c9"
+    },
+    {
+      "added_at": "2026-02-27 00:00:45",
+      "album": {
         "name": "Com Quem Ser\u00e1",
         "url": "https://open.spotify.com/album/2QQnJqt5HPHWrS1PiAhZVL"
       },
@@ -447,6 +467,22 @@
       "duration_ms": 268314,
       "name": "Com Quem Ser\u00e1",
       "url": "https://open.spotify.com/track/0tzA9PpAJrUMv1bmkTRmI7"
+    },
+    {
+      "added_at": "2026-02-27 00:00:45",
+      "album": {
+        "name": "TU E A LUA",
+        "url": "https://open.spotify.com/album/1RB4xQYnHkcZZjyu3vYxkS"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "duration_ms": 168600,
+      "name": "TU E A LUA",
+      "url": "https://open.spotify.com/track/2i91LXIQTB9uRfkrVrcRKC"
     },
     {
       "added_at": "2026-02-27 00:00:45",
@@ -975,26 +1011,6 @@
     {
       "added_at": "2026-02-27 00:00:45",
       "album": {
-        "name": "TANTO PR\u2019A VIVER (feat. Matias Dam\u00e1sio)",
-        "url": "https://open.spotify.com/album/4n7bQ38B5YqWTXmJ19ABHi"
-      },
-      "artists": [
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        },
-        {
-          "name": "Matias Dam\u00e1sio",
-          "url": "https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2"
-        }
-      ],
-      "duration_ms": 183958,
-      "name": "TANTO PR\u2019A VIVER (feat. Matias Dam\u00e1sio)",
-      "url": "https://open.spotify.com/track/3gom9XHytg4YnDKzOVDVI4"
-    },
-    {
-      "added_at": "2026-02-27 00:00:45",
-      "album": {
         "name": "Ilus\u00e3o",
         "url": "https://open.spotify.com/album/7KZ5tJxMCnxWo2pqyUN5Mm"
       },
@@ -1023,22 +1039,22 @@
     {
       "added_at": "2026-02-27 00:00:45",
       "album": {
-        "name": "Nha Preta",
-        "url": "https://open.spotify.com/album/1Bq46oN238vBDzOl6VHUza"
+        "name": "TANTO PR\u2019A VIVER (feat. Matias Dam\u00e1sio)",
+        "url": "https://open.spotify.com/album/4n7bQ38B5YqWTXmJ19ABHi"
       },
       "artists": [
         {
-          "name": "Helio Batalha",
-          "url": "https://open.spotify.com/artist/08ukYp96CtGT1te37kfVoz"
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
         },
         {
-          "name": "Garry",
-          "url": "https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS"
+          "name": "Matias Dam\u00e1sio",
+          "url": "https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Nha Preta",
-      "url": "https://open.spotify.com/track/0JjHBA5DGZx80PS6TMuzAp"
+      "duration_ms": 183958,
+      "name": "TANTO PR\u2019A VIVER (feat. Matias Dam\u00e1sio)",
+      "url": "https://open.spotify.com/track/3gom9XHytg4YnDKzOVDVI4"
     },
     {
       "added_at": "2026-02-27 00:00:45",
@@ -1063,6 +1079,26 @@
     {
       "added_at": "2026-02-27 00:00:45",
       "album": {
+        "name": "Nha Preta",
+        "url": "https://open.spotify.com/album/1Bq46oN238vBDzOl6VHUza"
+      },
+      "artists": [
+        {
+          "name": "Helio Batalha",
+          "url": "https://open.spotify.com/artist/08ukYp96CtGT1te37kfVoz"
+        },
+        {
+          "name": "Garry",
+          "url": "https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Nha Preta",
+      "url": "https://open.spotify.com/track/0JjHBA5DGZx80PS6TMuzAp"
+    },
+    {
+      "added_at": "2026-02-27 00:00:45",
+      "album": {
         "name": "Fica longi bo",
         "url": "https://open.spotify.com/album/4aWV8TxkTIf0FItHx20cOc"
       },
@@ -1083,22 +1119,6 @@
     {
       "added_at": "2026-02-27 00:00:45",
       "album": {
-        "name": "365",
-        "url": "https://open.spotify.com/album/2t2JD3efuWaZWDHF8gfCoT"
-      },
-      "artists": [
-        {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
-        }
-      ],
-      "duration_ms": 219712,
-      "name": "365",
-      "url": "https://open.spotify.com/track/0qrad26bbnF71qbebIhV2q"
-    },
-    {
-      "added_at": "2026-02-27 00:00:45",
-      "album": {
         "name": "Vem Relaxar",
         "url": "https://open.spotify.com/album/4KqwpNCIeLXUIPqwa5QBVd"
       },
@@ -1111,6 +1131,22 @@
       "duration_ms": 172962,
       "name": "Vem Relaxar",
       "url": "https://open.spotify.com/track/1e55OqUQMPI9kG2NhG5Dm5"
+    },
+    {
+      "added_at": "2026-02-27 00:00:45",
+      "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/2t2JD3efuWaZWDHF8gfCoT"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        }
+      ],
+      "duration_ms": 219712,
+      "name": "365",
+      "url": "https://open.spotify.com/track/0qrad26bbnF71qbebIhV2q"
     },
     {
       "added_at": "2026-02-27 00:00:45",
@@ -1335,6 +1371,22 @@
     {
       "added_at": "2026-02-27 00:00:45",
       "album": {
+        "name": "Choices",
+        "url": "https://open.spotify.com/album/5paRTOL3SEbtrR11fLu05r"
+      },
+      "artists": [
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "duration_ms": 134279,
+      "name": "0 a 100",
+      "url": "https://open.spotify.com/track/6b2VNir58EMaPyNIN5Fz3p"
+    },
+    {
+      "added_at": "2026-02-27 00:00:45",
+      "album": {
         "name": "\u00danica",
         "url": "https://open.spotify.com/album/56u0Dym6F9KI78VjvF1yMQ"
       },
@@ -1351,22 +1403,6 @@
       "duration_ms": 234666,
       "name": "\u00danica",
       "url": "https://open.spotify.com/track/0hvNYD0sn7lzyswT2t08nm"
-    },
-    {
-      "added_at": "2026-02-27 00:00:45",
-      "album": {
-        "name": "Choices",
-        "url": "https://open.spotify.com/album/5paRTOL3SEbtrR11fLu05r"
-      },
-      "artists": [
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 134279,
-      "name": "0 a 100",
-      "url": "https://open.spotify.com/track/6b2VNir58EMaPyNIN5Fz3p"
     },
     {
       "added_at": "2026-02-27 00:00:45",
@@ -1655,30 +1691,6 @@
     {
       "added_at": "2026-02-27 00:00:45",
       "album": {
-        "name": "Kannot Compare",
-        "url": "https://open.spotify.com/album/2q1zSpU894PXQLVZCB87iz"
-      },
-      "artists": [
-        {
-          "name": "Florito",
-          "url": "https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH"
-        },
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        },
-        {
-          "name": "Sandro Beatz",
-          "url": "https://open.spotify.com/artist/7aD9DloLZqOaJ8saOF4OXi"
-        }
-      ],
-      "duration_ms": 171958,
-      "name": "Kannot Compare",
-      "url": "https://open.spotify.com/track/4h5v5pDvP217NKUTOeYXEA"
-    },
-    {
-      "added_at": "2026-02-27 00:00:45",
-      "album": {
         "name": "Na M\u00e3o de Deus",
         "url": "https://open.spotify.com/album/5pby6fImgnFXdPsjsl7bRu"
       },
@@ -1715,6 +1727,30 @@
       "duration_ms": 184906,
       "name": "Sonho de Amor",
       "url": "https://open.spotify.com/track/7lRXLeSXcDSETFeXLsxNRB"
+    },
+    {
+      "added_at": "2026-02-27 00:00:45",
+      "album": {
+        "name": "Kannot Compare",
+        "url": "https://open.spotify.com/album/2q1zSpU894PXQLVZCB87iz"
+      },
+      "artists": [
+        {
+          "name": "Florito",
+          "url": "https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH"
+        },
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        },
+        {
+          "name": "Sandro Beatz",
+          "url": "https://open.spotify.com/artist/7aD9DloLZqOaJ8saOF4OXi"
+        }
+      ],
+      "duration_ms": 171958,
+      "name": "Kannot Compare",
+      "url": "https://open.spotify.com/track/4h5v5pDvP217NKUTOeYXEA"
     },
     {
       "added_at": "2026-02-27 00:00:45",
@@ -1843,34 +1879,6 @@
       "duration_ms": 257137,
       "name": "TROMPETE",
       "url": "https://open.spotify.com/track/2PEIsEdhCs1ykvN9tY6erM"
-    },
-    {
-      "added_at": "2026-02-27 00:00:45",
-      "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/6xxYj7XEsGGquc3DSbUf7L"
-      },
-      "artists": [
-        {
-          "name": "Black Spygo",
-          "url": "https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY"
-        },
-        {
-          "name": "Chelsea Dinorath",
-          "url": "https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp"
-        },
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        },
-        {
-          "name": "Black Vision",
-          "url": "https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/3WQxc2F2C57eqs57YJgEcZ"
     }
   ],
   "unique_name": "Dancing Kizomba",

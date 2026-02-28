@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0jdtXxGhcy0ycjSBMT5Qij">Jack Antonoff</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,505 likes - 346 songs - 21 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,508 likes - 346 songs - 21 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 101 | [Don't Take The Money](https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Gone Now](https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ) | 3:35 |
 | 102 | [My Man on Willpower](https://open.spotify.com/track/3EMfeKtNK4q4k3sVjwg5Yy) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:17 |
 | 103 | [Lie To Girls](https://open.spotify.com/track/5il0jwWUlvgtIzWvzJi12z) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:22 |
-| 104 | [Hard Feelings/Loveless](https://open.spotify.com/track/1Dp7JGFNjvg8Nk0CtMCcnr) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 6:07 |
-| 105 | [Go Go Juice](https://open.spotify.com/track/1qyw5wSUkEvH8DtaCdx7Lg) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:13 |
+| 104 | [Go Go Juice](https://open.spotify.com/track/1qyw5wSUkEvH8DtaCdx7Lg) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:13 |
+| 105 | [Hard Feelings/Loveless](https://open.spotify.com/track/1Dp7JGFNjvg8Nk0CtMCcnr) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 6:07 |
 | 106 | [gloria \(with sza\)](https://open.spotify.com/track/0wgOhYnqZKjOHr6bmdz0aN) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 4:47 |
 | 107 | [I Look in People's Windows](https://open.spotify.com/track/1Zai5UJ2di3qEuR2HeT2s8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 2:11 |
 | 108 | [Goodbye](https://open.spotify.com/track/4tVVmShMF2PYdLqcejrsy2) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:45 |
@@ -355,4 +355,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 345 | [W.95th Street High](https://open.spotify.com/track/6D4wRSYyOHfJkYs2VelrbW) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 4:21 |
 | 346 | [I Will Stay Here](https://open.spotify.com/track/0Je3AfZFiRde3KcvZYlCS0) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 5:46 |
 
-Snapshot ID: `AcKvHgAAAAAaAQxpGKRqNg2H0LPctLWB`
+Snapshot ID: `AcK0ggAAAAAf0rHpH2rIPXPwsMbhALLM`

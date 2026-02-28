@@ -1,12 +1,12 @@
 {
   "description": "This is Kate Bush. The essential tracks, all in one playlist.",
-  "num_followers": 205505,
+  "num_followers": 205608,
   "original_name": "This Is Kate Bush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAABCtK1IWhRL3KQIYT3HOm1T",
+  "snapshot_id": "aZ+NAAAAAADyN0Po9V6Qerhn4ldajFL9",
   "tracks": [
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Dreaming (2018 Remaster)",
+        "url": "https://open.spotify.com/album/2cRwYvvGigsHqk63ZGfuI2"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 229240,
+      "name": "Houdini - 2018 Remaster",
+      "url": "https://open.spotify.com/track/18hSVEiQxA9mbIq23fyNfz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Red Shoes",
         "url": "https://open.spotify.com/album/1YFk4j3zQGogLjOC5YZ19i"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 85893,
       "name": "Prelude - 2018 Remaster",
       "url": "https://open.spotify.com/track/2Z6ynWKfXbp66zGf5GSbyD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Dreaming (2018 Remaster)",
-        "url": "https://open.spotify.com/album/2cRwYvvGigsHqk63ZGfuI2"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 229240,
-      "name": "Houdini - 2018 Remaster",
-      "url": "https://open.spotify.com/track/18hSVEiQxA9mbIq23fyNfz"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Sensual World (2018 Remaster)",
+        "url": "https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 285960,
+      "name": "Deeper Understanding - 2018 Remaster",
+      "url": "https://open.spotify.com/track/0IYowUndxZq0g05YBz2f7H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aerial (2018 Remaster)",
         "url": "https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 294853,
       "name": "An Architect's Dream - 2018 Remaster",
       "url": "https://open.spotify.com/track/0RwmRvaoJKpTMnenlxYMxc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lionheart (2018 Remaster)",
-        "url": "https://open.spotify.com/album/2CRirDu87zmvr01X8MkcQ8"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "Full House - 2018 Remaster",
-      "url": "https://open.spotify.com/track/3rds168fWqxkyYnyIvH3Ed"
     }
   ],
   "unique_name": "This Is Kate Bush",

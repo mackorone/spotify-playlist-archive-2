@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Get lifted by the waves of faith-infused music.  Cover: Pharrell Williams & Voices of Fire",
+  "description": "Get lifted by the waves of faith-infused music.  Cover: DOE & Jon Batiste",
   "name": "Lifted Frequency",
   "tracks": [
     {
@@ -660,6 +660,28 @@
       "duration_ms": 222082,
       "name": "Already Good (Tasha Slide)",
       "url": "https://open.spotify.com/track/2t79W2Spqw1Bm2ohSYJAxa"
+    },
+    {
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/45f99hzvsRGJzug3gsjH5M"
+      },
+      "artists": [
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+        },
+        {
+          "name": "Jac Ross",
+          "url": "https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285281,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/1CPjfoP4nxvHoxGZD6ZEXt"
     },
     {
       "album": {
@@ -1387,6 +1409,28 @@
     },
     {
       "album": {
+        "name": "Black Boy (feat. Jon Batiste)",
+        "url": "https://open.spotify.com/album/5Ps4aUroz2P4lCVZyn1P4i"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        },
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207479,
+      "name": "Black Boy (feat. Jon Batiste)",
+      "url": "https://open.spotify.com/track/5uasQWigsUutS50i4cRpMz"
+    },
+    {
+      "album": {
         "name": "Black Monday",
         "url": "https://open.spotify.com/album/6OuwOOydUWhPmlz1PiL2zz"
       },
@@ -1962,6 +2006,36 @@
       "duration_ms": 190843,
       "name": "Can I Get a Witness",
       "url": "https://open.spotify.com/track/4wa9fDSypocJR9E08iMkaS"
+    },
+    {
+      "album": {
+        "name": "From Profit to Purpose",
+        "url": "https://open.spotify.com/album/6uh7SgAq63sEi2SOb7wxFk"
+      },
+      "artists": [
+        {
+          "name": "Justin Radford",
+          "url": "https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV"
+        },
+        {
+          "name": "Darlene McCoy",
+          "url": "https://open.spotify.com/artist/6IFoxYp4s7WuFlCAqfYaMn"
+        },
+        {
+          "name": "TheKidMave",
+          "url": "https://open.spotify.com/artist/3GWiLZOGCcbpSbFhy7Lcth"
+        },
+        {
+          "name": "Brandon Pair",
+          "url": "https://open.spotify.com/artist/1zzJtXBYfC2nL8SwO3tgM8"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187941,
+      "name": "Can I Get a Witness (Remix)",
+      "url": "https://open.spotify.com/track/1Z2PaVTRj70DlxD6qqcCHg"
     },
     {
       "album": {
@@ -4337,6 +4411,24 @@
     },
     {
       "album": {
+        "name": "God I'm Just Grateful (Radio Version)",
+        "url": "https://open.spotify.com/album/7tuFbno5P8tgY8dQ8KjIpB"
+      },
+      "artists": [
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234844,
+      "name": "God I'm Just Grateful - Radio Version",
+      "url": "https://open.spotify.com/track/1PVWmMVBJ8RrHMsvL1c15o"
+    },
+    {
+      "album": {
         "name": "God Is For Me",
         "url": "https://open.spotify.com/album/6f8eCGU8Pf9rI0OTP6HTAU"
       },
@@ -4868,6 +4960,24 @@
       "duration_ms": 205333,
       "name": "Hard Times (feat. Mali Music)",
       "url": "https://open.spotify.com/track/3rFbsLHao2fghAslf30Qmm"
+    },
+    {
+      "album": {
+        "name": "He Can",
+        "url": "https://open.spotify.com/album/1zMaAbWlOY7x7YbC4eROar"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "He Can",
+      "url": "https://open.spotify.com/track/3En8bMeRZ8s3HkYCDAX75P"
     },
     {
       "album": {
@@ -6590,7 +6700,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 128625,
       "name": "Jesus Party",
       "url": "https://open.spotify.com/track/0NG2hh18Y6Yp5rPwRf7TIR"
@@ -7612,7 +7722,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 188986,
       "name": "MAN ABOVE",
       "url": "https://open.spotify.com/track/6j3WTzuSCJIIsgw8giRSmv"
@@ -7972,6 +8082,32 @@
       "duration_ms": 162500,
       "name": "Motive",
       "url": "https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY"
+    },
+    {
+      "album": {
+        "name": "mourning 2 dancing",
+        "url": "https://open.spotify.com/album/4nbGCL267piZpeBJ7jQsFq"
+      },
+      "artists": [
+        {
+          "name": "Tenroc",
+          "url": "https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164253,
+      "name": "mourning 2 dancing",
+      "url": "https://open.spotify.com/track/3T2vuPqaHbXLwegNZyeRVa"
     },
     {
       "album": {
@@ -8693,6 +8829,28 @@
     },
     {
       "album": {
+        "name": "On The Way (Remix)",
+        "url": "https://open.spotify.com/album/4h6faXw82hMdgP41wjJKJD"
+      },
+      "artists": [
+        {
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+        },
+        {
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151111,
+      "name": "On The Way - Remix",
+      "url": "https://open.spotify.com/track/3877TuPJ4HruNhvxBnC9Oy"
+    },
+    {
+      "album": {
         "name": "diary entry 1",
         "url": "https://open.spotify.com/album/6fX5APrymapa9uIsC1yy0s"
       },
@@ -9095,6 +9253,24 @@
     },
     {
       "album": {
+        "name": "peace at last",
+        "url": "https://open.spotify.com/album/0NUDgYkJXkkI6e0LfuvTs0"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154522,
+      "name": "peace at last",
+      "url": "https://open.spotify.com/track/3GU1NnT6gLvNrkTNnmo2Lh"
+    },
+    {
+      "album": {
         "name": "Peace Be Still",
         "url": "https://open.spotify.com/album/1zBeDm3o4LyQYnIHMb923x"
       },
@@ -9288,7 +9464,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 142964,
       "name": "Pray",
       "url": "https://open.spotify.com/track/6jE1iKmQNYgJUWLq3Xk2dM"
@@ -10662,7 +10838,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 478933,
       "name": "Still (with Jamal Roberts)",
       "url": "https://open.spotify.com/track/5Da2Lp145edSaxq5l5zDF7"
@@ -12622,6 +12798,24 @@
       "duration_ms": 191098,
       "name": "What Can Man Do",
       "url": "https://open.spotify.com/track/7AFFYqO9MgT1Wp8uec24Dt"
+    },
+    {
+      "album": {
+        "name": "What I Need",
+        "url": "https://open.spotify.com/album/3AtNtoPcgW71xzuzgSwk1q"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171158,
+      "name": "What I Need",
+      "url": "https://open.spotify.com/track/0LTdWXf4krvXCHdEbJIHRl"
     },
     {
       "album": {

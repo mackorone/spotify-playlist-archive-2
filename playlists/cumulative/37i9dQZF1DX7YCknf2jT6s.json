@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: aja monet",
+  "description": "New jazz for open minds. Cover: Jeremy Pelt",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -614,7 +614,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 202723,
       "name": "A Future Untold",
       "url": "https://open.spotify.com/track/6gthXQDyhf3OaWw3QvuYtA"
@@ -6462,7 +6462,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 397000,
       "name": "Casual \u2013 Lee",
       "url": "https://open.spotify.com/track/1eAdHNRLWded0ioKpyIbgi"
@@ -8578,6 +8578,24 @@
       "duration_ms": 250000,
       "name": "DAN DA DAN ~Nikujiru Juicy~",
       "url": "https://open.spotify.com/track/6bU0xA0rcv4BUhiCUeSpga"
+    },
+    {
+      "album": {
+        "name": "Dance In Praise",
+        "url": "https://open.spotify.com/album/2NDkjx2pEYZO1rTYFQo4rh"
+      },
+      "artists": [
+        {
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267140,
+      "name": "Dance In Praise",
+      "url": "https://open.spotify.com/track/7wx3mx0HSQ9u1xLBquLX0n"
     },
     {
       "album": {
@@ -11716,7 +11734,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 224834,
       "name": "Eyes Lowered",
       "url": "https://open.spotify.com/track/4tlvJc74uAN61eG23u5E7k"
@@ -12966,7 +12984,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 205000,
       "name": "For the Culture",
       "url": "https://open.spotify.com/track/5VyhDlll6gIanznhIhfu3s"
@@ -13128,6 +13146,24 @@
       "duration_ms": 436130,
       "name": "Found A Light (Beale Street)",
       "url": "https://open.spotify.com/track/09Btkoj4YIm36KVJqomiCE"
+    },
+    {
+      "album": {
+        "name": "Circadia",
+        "url": "https://open.spotify.com/album/2b62tiWt3Ot0AlSodBxgh7"
+      },
+      "artists": [
+        {
+          "name": "Mammal Hands",
+          "url": "https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288266,
+      "name": "Four Flowers",
+      "url": "https://open.spotify.com/track/2ONAQaP6J7NsOcDkBefx8G"
     },
     {
       "album": {
@@ -16740,7 +16776,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 380923,
       "name": "Icons at the Fair",
       "url": "https://open.spotify.com/track/6rXz8pM5j6oJ2pMMAR2Fv9"
@@ -20630,7 +20666,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 316440,
       "name": "Logue",
       "url": "https://open.spotify.com/track/2tqam8LDaNrdUO37oNBFco"
@@ -21846,6 +21882,24 @@
       "duration_ms": 211114,
       "name": "Mambo Influenciado",
       "url": "https://open.spotify.com/track/6KLQUsEikFi0vbtffUknCF"
+    },
+    {
+      "album": {
+        "name": "Our Community Will Not Be Erased",
+        "url": "https://open.spotify.com/album/2tEfIZ3BGDlXSmEhLGUzre"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Manifesto",
+      "url": "https://open.spotify.com/track/2XhxjNlHAN22jo5xwqr6v2"
     },
     {
       "album": {
@@ -23606,7 +23660,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 246866,
       "name": "My Ideal",
       "url": "https://open.spotify.com/track/1EeWkiiptCgP6M8ImrcyDu"
@@ -26291,6 +26345,48 @@
     },
     {
       "album": {
+        "name": "Osawatomie Brown",
+        "url": "https://open.spotify.com/album/02rPLF67JWO8SnymQdqDT4"
+      },
+      "artists": [
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        },
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        },
+        {
+          "name": "Burniss Travis",
+          "url": "https://open.spotify.com/artist/4Y4dR3x2kFHqIEJJ7SaH9c"
+        },
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        },
+        {
+          "name": "Rane Moore",
+          "url": "https://open.spotify.com/artist/2J8IfJdj7z7BwB1SwLlNBe"
+        },
+        {
+          "name": "Zekkereya El-Magharbel",
+          "url": "https://open.spotify.com/artist/7KimbJw1zGH4bOmvKt6BaF"
+        },
+        {
+          "name": "Sara Caswell",
+          "url": "https://open.spotify.com/artist/5vWTZJJWBwmB2b5Nl2FWxm"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452533,
+      "name": "Osawatomie Brown",
+      "url": "https://open.spotify.com/track/6xwyZfZeXe5mMi3vg91qxe"
+    },
+    {
+      "album": {
         "name": "Other Jewels",
         "url": "https://open.spotify.com/album/0KcDJAC3z1lDxTlbUtqydr"
       },
@@ -28886,6 +28982,24 @@
       "duration_ms": 138330,
       "name": "Reflection Eternal",
       "url": "https://open.spotify.com/track/7wLH62MhVqsqbLxdYUkctr"
+    },
+    {
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/6pM6v4BqKK85SuyZHwxHwM"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Myra",
+          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214430,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/6EiddSbc6b4quXfQvrVND1"
     },
     {
       "album": {
@@ -38043,6 +38157,24 @@
     },
     {
       "album": {
+        "name": "One Voice \u2013 One World",
+        "url": "https://open.spotify.com/album/5MJvK7fboOgoC182ohzFs8"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/6sMujJDUsHX85VV9fCJdAx"
+    },
+    {
+      "album": {
         "name": "Tracy Beaker",
         "url": "https://open.spotify.com/album/0XUreXCfVUmvoERNXyGS8s"
       },
@@ -40094,6 +40226,28 @@
       "duration_ms": 193714,
       "name": "wASH U AWAY",
       "url": "https://open.spotify.com/track/6rrv9Ye4cQSGAjSSZOYp1x"
+    },
+    {
+      "album": {
+        "name": "Water (Feelings, Emotions) [Immanuel's Edit]",
+        "url": "https://open.spotify.com/album/0576BL8688fzkTnEjQPZ8n"
+      },
+      "artists": [
+        {
+          "name": "Marquis Hill",
+          "url": "https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez"
+        },
+        {
+          "name": "Amyna Love",
+          "url": "https://open.spotify.com/artist/36V5ANjAPdyjdj7ZQlrDBc"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244894,
+      "name": "Water (Feelings, Emotions) - Immanuel's Edit",
+      "url": "https://open.spotify.com/track/0Pem9UJoE48GKqFne0hn5K"
     },
     {
       "album": {

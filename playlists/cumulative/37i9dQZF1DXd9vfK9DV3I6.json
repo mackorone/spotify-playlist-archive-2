@@ -1974,7 +1974,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 181196,
       "name": "El Youm",
       "url": "https://open.spotify.com/track/0mjDJiXyG83w6EdKUWU867"
@@ -2248,6 +2248,24 @@
       "duration_ms": 224727,
       "name": "Fiddle",
       "url": "https://open.spotify.com/track/3mBFt5hZcG1nQrf5zuuwpB"
+    },
+    {
+      "album": {
+        "name": "Fleur De Lune",
+        "url": "https://open.spotify.com/album/3RlAPg5a7S4dyQh9aIPLAj"
+      },
+      "artists": [
+        {
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240091,
+      "name": "Fleur de lune",
+      "url": "https://open.spotify.com/track/2KYaACYb5lNKbDAyIdoj0C"
     },
     {
       "album": {
@@ -2920,7 +2938,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 164899,
       "name": "Ishq",
       "url": "https://open.spotify.com/track/0BIUZCo5SaRVqaYTnTTqmp"
@@ -4216,7 +4234,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 297593,
       "name": "Moulayiten",
       "url": "https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR"
@@ -5348,7 +5366,7 @@
       ],
       "date_added": "2021-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 283659,
       "name": "Samra",
       "url": "https://open.spotify.com/track/22Q7q8bz3vR5qX9NoEyVm4"
@@ -5462,7 +5480,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-08",
+      "date_removed": null,
       "duration_ms": 399500,
       "name": "Seville",
       "url": "https://open.spotify.com/track/4OBoOQTrlGAdBmGVHEP6TE"

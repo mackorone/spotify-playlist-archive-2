@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 20873,
+  "num_followers": 20877,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAAAl46aYqauzR+34xmr7y78q",
+  "snapshot_id": "aZ+NAAAAAAC7WZHsmVO3mZYWmKJ3w6qf",
   "tracks": [
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coma",
+        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 253452,
+      "name": "RedBone",
+      "url": "https://open.spotify.com/track/2tEvKwNUradPTkXpGnbDyv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life After Fame",
         "url": "https://open.spotify.com/album/3IYaSINx79h33UY51uylld"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 164622,
       "name": "Rich Homie Quando (feat. Rich Homie Quan)",
       "url": "https://open.spotify.com/track/5UAXYLeJ7XrdTe7u5eq2ts"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coma",
-        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 253452,
-      "name": "RedBone",
-      "url": "https://open.spotify.com/track/2tEvKwNUradPTkXpGnbDyv"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coma",
+        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 210409,
+      "name": "Stressed",
+      "url": "https://open.spotify.com/track/3XO41ZKnULP1KIhoLgnBzG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Baby On Baby",
         "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 192773,
       "name": "Celebrate (feat. Rich Homie Quan)",
       "url": "https://open.spotify.com/track/7uxbabRF4omY1MhmIgaZ6Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coma",
-        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 210409,
-      "name": "Stressed",
-      "url": "https://open.spotify.com/track/3XO41ZKnULP1KIhoLgnBzG"
     },
     {
       "added_at": null,

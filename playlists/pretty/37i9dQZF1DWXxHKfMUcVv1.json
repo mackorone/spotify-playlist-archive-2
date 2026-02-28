@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 126599,
+  "num_followers": 126611,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/0IJd9Z5Um4Z1bAL0SNo8M4"
+      },
+      "artists": [
+        {
+          "name": "El Culto Casero",
+          "url": "https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW"
+        }
+      ],
+      "duration_ms": 137584,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/6uAfHK8pf9qZVB1BFMSapl"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
         "name": "D\u00f3nde est\u00e1 el amor?",
         "url": "https://open.spotify.com/album/6Va6OpLeZmmzbBjV1CgtWE"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 194022,
       "name": "D\u00f3nde est\u00e1 el amor?",
       "url": "https://open.spotify.com/track/0vc4k8TRSYEggDDB2RVUmu"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/0IJd9Z5Um4Z1bAL0SNo8M4"
-      },
-      "artists": [
-        {
-          "name": "El Culto Casero",
-          "url": "https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW"
-        }
-      ],
-      "duration_ms": 137584,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/6uAfHK8pf9qZVB1BFMSapl"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -871,18 +871,22 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Alpha",
-        "url": "https://open.spotify.com/album/16r1WIgldvVmCchytQQT2S"
+        "name": "Auto",
+        "url": "https://open.spotify.com/album/3ZdRSfSaKDElyVwAvpRaQf"
       },
       "artists": [
         {
-          "name": "Flou",
-          "url": "https://open.spotify.com/artist/0YubN7dhD1kcJe7KtALAHk"
+          "name": "El Culto Casero",
+          "url": "https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW"
+        },
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
         }
       ],
-      "duration_ms": 198840,
-      "name": "Alpha",
-      "url": "https://open.spotify.com/track/3694uSFilgXYyEGFalAlJV"
+      "duration_ms": 142016,
+      "name": "Auto",
+      "url": "https://open.spotify.com/track/2deq9FLu0FHizs9pPsPCNv"
     }
   ],
   "unique_name": "Mi Terer\u00e9",

@@ -1992,7 +1992,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 123966,
       "name": "fireborn spirits",
       "url": "https://open.spotify.com/track/6JIJ4UlZzSAEYSBR29g2F9"
@@ -2332,7 +2332,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 150625,
       "name": "fuyubiyori",
       "url": "https://open.spotify.com/track/4ySo0yGXykcQZjhb3lMKdX"
@@ -3041,6 +3041,24 @@
     },
     {
       "album": {
+        "name": "The Last Journey Of The Crane",
+        "url": "https://open.spotify.com/album/4Ri0yp2ryJoua2es00SSvL"
+      },
+      "artists": [
+        {
+          "name": "Lost Files",
+          "url": "https://open.spotify.com/artist/0NA9RjFnSsIlj1FUMhfuow"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122745,
+      "name": "Izumi",
+      "url": "https://open.spotify.com/track/5PDGyZGX8hsA0if5F6G1VU"
+    },
+    {
+      "album": {
         "name": "Under the Bamboo Sky",
         "url": "https://open.spotify.com/album/47SDC624DAeUDmMg0kQvc5"
       },
@@ -3128,7 +3146,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 126000,
       "name": "Kanashimi",
       "url": "https://open.spotify.com/track/33RqyOOGsXthA5Y7wKmhCZ"
@@ -3714,6 +3732,24 @@
       "duration_ms": 196120,
       "name": "Lyricist",
       "url": "https://open.spotify.com/track/5MFROL7TXwkFAeDs6rphWX"
+    },
+    {
+      "album": {
+        "name": "Maiko",
+        "url": "https://open.spotify.com/album/5ENbDCURcJ0lREMM9vV9SI"
+      },
+      "artists": [
+        {
+          "name": "Kyoma",
+          "url": "https://open.spotify.com/artist/4o0RNVgB6vL98OQdazaY3g"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195400,
+      "name": "Maiko",
+      "url": "https://open.spotify.com/track/1e05hNHNGvsFc5tggAiAWD"
     },
     {
       "album": {
@@ -6056,6 +6092,28 @@
       "duration_ms": 163092,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/58heKhVoYe0mXW4PB3CfLF"
+    },
+    {
+      "album": {
+        "name": "Summer In Kyoto",
+        "url": "https://open.spotify.com/album/2zpsd5cIpInuhgQoTGZNtm"
+      },
+      "artists": [
+        {
+          "name": "Luis Wijaya",
+          "url": "https://open.spotify.com/artist/00IJC5cYMdgJBc4yQbFY7K"
+        },
+        {
+          "name": "Jwxd",
+          "url": "https://open.spotify.com/artist/651xAYYqPAnbP47dcADgYh"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139298,
+      "name": "Summer In Kyoto",
+      "url": "https://open.spotify.com/track/6YamiHN9L1P5v9O4FVMNv1"
     },
     {
       "album": {

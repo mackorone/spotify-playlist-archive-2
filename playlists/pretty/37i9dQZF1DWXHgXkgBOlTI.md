@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: 神保彰
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,520 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,524 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 35 | [犬、逃げた。\-ver\. 2.0\-](https://open.spotify.com/track/69So29DLz3KKHUuxs6iiHX) | [Calmera](https://open.spotify.com/artist/5EQqINW9nAQs8lw8BzjQXw) | [REAL KICKS](https://open.spotify.com/album/6Y1gGXJMEzmur74PIrYFUL) | 3:06 |
 | 36 | [Down In The Village](https://open.spotify.com/track/7y8YT71woP61vMze8Lwf4N) | [Quasimode](https://open.spotify.com/artist/5vLyvkGLk9d9hp9LRQ8RqD) | [Oneself Likeness](https://open.spotify.com/album/5gN1A4s7Rb7CSnLzMQ77dG) | 6:30 |
 | 37 | [marten](https://open.spotify.com/track/5qqzkyf0OCSvqoSEAhNyPe) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Seeds](https://open.spotify.com/album/45KqNCl8TiC2VukD2AufOz) | 4:27 |
-| 38 | [白鳥](https://open.spotify.com/track/5cFJ2DLxeLgNE4AZsuWOrB) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [ユートピア](https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2) | 6:44 |
-| 39 | [Solitude](https://open.spotify.com/track/7ESu5dNSc30xnlQkWlSN9d) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Ordinary Landscape](https://open.spotify.com/album/7Jkzw2xlE48wN2dUKPxw7V) | 4:16 |
-| 40 | [WAVE](https://open.spotify.com/track/3A2PqBP4fJnThiEJ9w8nVg) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [WAVE](https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B) | 7:32 |
+| 38 | [Solitude](https://open.spotify.com/track/7ESu5dNSc30xnlQkWlSN9d) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Ordinary Landscape](https://open.spotify.com/album/7Jkzw2xlE48wN2dUKPxw7V) | 4:16 |
+| 39 | [WAVE](https://open.spotify.com/track/3A2PqBP4fJnThiEJ9w8nVg) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [WAVE](https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B) | 7:32 |
+| 40 | [白鳥](https://open.spotify.com/track/5cFJ2DLxeLgNE4AZsuWOrB) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [ユートピア](https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2) | 6:44 |
 | 41 | [Never Let Go \- Instrumental](https://open.spotify.com/track/6HHlEdo81pmNuapvkEPQZl) | [Kenichiro Nishihara](https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m) | [Elastic Afterwords \(Instrumental\)](https://open.spotify.com/album/1iXHDPgsCFPAT6TGdQ9DIm) | 4:28 |
 | 42 | [ハルカゼ](https://open.spotify.com/track/7tlp9XRwOIjpYNUa82GAyz) | [The Hey Song](https://open.spotify.com/artist/1amNM2sij1uuKOTunyYuze) | [seed](https://open.spotify.com/album/22fSotV1aM3FopU7cUnnmg) | 3:27 |
 | 43 | [Normal Life](https://open.spotify.com/track/0GJPcZShlAFmziN0GdOhhT) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [Variety](https://open.spotify.com/album/3LJEvxN8yCR4gnSd3xkpr2) | 2:38 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 47 | [birth](https://open.spotify.com/track/2VXijxrpCGnWb7pM3LkYZY) | [MIDORINOMARU](https://open.spotify.com/artist/4ZBnxeDmHTLJZPQWmbINhu) | [NEW DAY](https://open.spotify.com/album/5wo4OdsI8cutqgOV1ieXbB) | 4:50 |
 | 48 | [SALVALAI](https://open.spotify.com/track/4h3BoLlp0fvVODmaY9CIiB) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [Start Over Focus](https://open.spotify.com/album/4ILyp34lXBAY4y4S1by092) | 4:02 |
 | 49 | [哀しい予感 / リリウム](https://open.spotify.com/track/4wHitaztudi6P05MUvFfpE) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [アイル](https://open.spotify.com/album/33jrZWD12HJIHMpmnqmipP) | 4:05 |
-| 50 | [Greenfield](https://open.spotify.com/track/2puY8TFmn0geYy2NuPC8Jo) | [The Hey Song](https://open.spotify.com/artist/1amNM2sij1uuKOTunyYuze) | [New Horizon](https://open.spotify.com/album/3rYt9et8uKmF1ek5CPDW2F) | 2:26 |
+| 50 | [SAMBA DE 恋して](https://open.spotify.com/track/2ntJXSC98pIAiGwigge8Nm) | [PE'Z](https://open.spotify.com/artist/52uuAX0XAdhMmLLpaSaOig) | [スズ虫](https://open.spotify.com/album/4VkJfvhkTnx8GZuCySMlKe) | 4:17 |
 
 Snapshot ID: `AAAAAHL1iaSGSH4cArtVle17ckzvXynR`

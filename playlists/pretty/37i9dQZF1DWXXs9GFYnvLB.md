@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXs9GFYnvLB.md) - [plain]
 
 > The hottest tracks with the freshest hits! Cover: Sam Fender
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,435,904 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,435,859 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXs9GFYnvLB.md) - [plain]
 | 15 | [Gone Gone Gone](https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Gone Gone Gone](https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz) | 3:18 |
 | 16 | [The Great Divide](https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N) | 5:17 |
 | 17 | [12 to 12](https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 4:02 |
-| 18 | [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 |
+| 18 | [Risk It All](https://open.spotify.com/track/6skX6In6VpLzev9epAUnpp) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/5z7kqc5UFmtNfZb2Rw7zHy) | 3:24 |
 | 19 | [Coming Up \(It’s Dare\)](https://open.spotify.com/track/7JHkJ5mDS868b5j5h67cwL) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [Coming Up \(It’s Dare\)](https://open.spotify.com/album/2aXtY87dtUYnV93D8xTdmq) | 3:00 |
 | 20 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
 | 21 | [Choosin' Texas](https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Choosin' Texas](https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi) | 3:52 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXs9GFYnvLB.md) - [plain]
 | 74 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 |
 | 75 | [Backseat](https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Backseat](https://open.spotify.com/album/4SnYbgZqKOxc2eCRdMS3xu) | 6:23 |
 
-Snapshot ID: `AAAAABakiKMlNsZNgQxhNaiUDDVY5Vpf`
+Snapshot ID: `AAAAACS+NJ25OISlSvVTBaG/xteddulA`

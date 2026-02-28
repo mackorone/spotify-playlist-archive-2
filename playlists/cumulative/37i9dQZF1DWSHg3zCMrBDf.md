@@ -2,9 +2,9 @@
 
 ### [Hot Hits Ghana](https://open.spotify.com/playlist/37i9dQZF1DWSHg3zCMrBDf)
 
-> The hottest tracks in Ghana\. Cover: Dopenation
+> The hottest tracks in Ghana\. Cover: KiDi
 
-430 songs - 21 hr 47 min
+431 songs - 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Azonto Fiesta \(feat\. Amaarae & Mugeez\)](https://open.spotify.com/track/3Da3TZJ0EhJIAPJC5rxwZw) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0) | [Road To Fuego](https://open.spotify.com/album/3lMjAgltdk3MBExAXTw7Ux) | 2:51 | 2024-10-18 | 2024-10-26 |
 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 | 2025-03-14 |  |
 | [Baby I'm Jealous](https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [emPawa Africa](https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [One Day You Will Understand](https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC) | 2:30 | 2021-02-22 | 2023-05-27 |
+| [Babylon](https://open.spotify.com/track/4FQD13B32eYtCBH7PDMYZw) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Babylon](https://open.spotify.com/album/55CLjgXBq4zuAnGYeGM8VB) | 2:40 | 2026-02-27 |  |
 | [Bad Boy](https://open.spotify.com/track/2Yi3XIg9MQAwAlTDCoSumI) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Bad Boy](https://open.spotify.com/album/1292tIVpPTJimKAqIOQZlP) | 3:12 | 2023-07-14 | 2025-09-23 |
 | [Bad Feeling](https://open.spotify.com/track/1toPx3Ekrax1CIGIBJIgLf) | [Tulenkey](https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Bad Friends](https://open.spotify.com/album/7CPDg8cp3nKsAWNdZniYme) | 2:41 | 2024-05-14 | 2025-03-15 |
 | [Bad Habits](https://open.spotify.com/track/4UUh6WPTCy0l3BY6pvMOcL) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Bad Habits](https://open.spotify.com/album/6qsQ0MJsBfRYuG8lTz7ncT) | 2:51 | 2025-11-21 |  |

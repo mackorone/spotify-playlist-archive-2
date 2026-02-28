@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 
 > Calm your mind from anxiety with gentle piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,833,552 likes - 200 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,834,224 likes - 200 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 199 | [Aestra](https://open.spotify.com/track/317ctp5SnAcQtApXeVHrOK) | [Linden Vale](https://open.spotify.com/artist/5Jh7KeIgfvJbqVDeosT2C3) | [Aestra](https://open.spotify.com/album/7iMcBEIFgafTuSA28cIZqy) | 2:38 |
 | 200 | [In Quiet Admirations](https://open.spotify.com/track/0FLmoG9ErJivjWQ8pZSoJH) | [Noni Ammin](https://open.spotify.com/artist/6mUFb0nVX1RQqNS0jC5D0R) | [In Quiet Admirations](https://open.spotify.com/album/0kAmHQ3ePQGpad9RyYp27p) | 1:59 |
 
-Snapshot ID: `AAAAAEsGeKaB5IlVCMV2n6b6I8KzOJce`
+Snapshot ID: `AAAAAGq0DzIDxxo1pi+unDYNMxoTxUuv`

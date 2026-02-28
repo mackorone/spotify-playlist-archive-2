@@ -4,7 +4,7 @@
 
 > Tunes from your favourite coffee shop.
 
-402 songs - 23 hr 7 min
+408 songs - 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Comin' Home](https://open.spotify.com/track/7HfyhSzpexmBnBbmQ27fz2) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Sometimes Lullaby](https://open.spotify.com/album/30aaqhBizcbohS248ONyqh) | 3:33 | 2025-11-28 |  |
 | [Como Un Pájaro](https://open.spotify.com/track/0F1OOqdNXZctaw0y4QVWJB) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Como Un Pájaro](https://open.spotify.com/album/2RpAWWOjVelOhj1VW39FSL) | 3:30 | 2025-05-30 | 2026-02-07 |
 | [complex](https://open.spotify.com/track/4cM7wj6FKij1OHs3q61u0s) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex](https://open.spotify.com/album/6EJrbQYRD2FEjj7mpc3ASn) | 3:59 | 2023-12-08 | 2024-07-27 |
+| [cosmic wink](https://open.spotify.com/track/0DwSDivYx1TTl5m3GsyKzK) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [Cosmic Wink](https://open.spotify.com/album/4FBsBCEPnDE9kRfyj3GteE) | 2:52 | 2026-02-27 |  |
 | [Coyote](https://open.spotify.com/track/4iTU8a7xlebcunaTSBLwEs) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Coyote](https://open.spotify.com/album/1BO7uyUvn0Lur0fkPDK1Mr) | 5:06 | 2025-06-06 | 2025-12-06 |
 | [Creature](https://open.spotify.com/track/43LXBwC89xoSUGnsMXalIj) | [The Man The Myth The Meatslab](https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x) | [Creature](https://open.spotify.com/album/2XbPoShUeTYrHU2R76fDkJ) | 2:43 | 2025-11-21 |  |
 | [Crimson and Clay](https://open.spotify.com/track/60gQmNkGCHQEb4TaJC9IwC) | [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Foxes in the Snow](https://open.spotify.com/album/6OgNgnMcqhcDw01qXlw8el) | 3:02 | 2025-03-07 | 2025-09-20 |
@@ -168,6 +169,7 @@
 | [Holy Ghost](https://open.spotify.com/track/3kKVjpgY1UQW3ikr0AhMZg) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Holy Ghost](https://open.spotify.com/album/2AUGXdf8CZckloBZfqY35g) | 2:38 | 2024-07-19 | 2025-02-01 |
 | [HOME](https://open.spotify.com/track/6CNQLgGqOSpXpzGtru1JHx) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [HOME](https://open.spotify.com/album/0EaAIP9mPmRm99Vfq7X34D) | 2:39 | 2025-10-14 |  |
 | [How Good](https://open.spotify.com/track/7fLGmNTDCV2Q79RxvOunTE) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [How Good](https://open.spotify.com/album/0vh6Re7uiZecWV5coraF0I) | 3:00 | 2024-01-19 | 2024-04-02 |
+| [How I Get](https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [How I Get](https://open.spotify.com/album/70NOPNFs2y4lZMrowJzPuY) | 3:39 | 2026-02-27 |  |
 | [how to change a tire](https://open.spotify.com/track/6ZlwbgqfMALnnwi8zVJTyr) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [how to change a tire](https://open.spotify.com/album/09oYcPRYGDwOZcP7XkO6Mr) | 3:00 | 2024-03-15 | 2024-05-04 |
 | [HOW WAS YOUR DAY?](https://open.spotify.com/track/7uUB3Ypgg4XRD1TIhGqsUE) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [HOW WAS YOUR DAY?](https://open.spotify.com/album/56EwjhypyDbNqQWWPn4nfF) | 3:52 | 2025-10-31 |  |
 | [Huntley](https://open.spotify.com/track/5sJdlrzaYvCxeSTsQzQ6Db) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Huntley](https://open.spotify.com/album/0HV9T0Zb3gwIeBaZLu2qFd) | 2:59 | 2024-10-25 | 2024-11-09 |
@@ -241,6 +243,7 @@
 | [MAKE ME YOUR MONSTER](https://open.spotify.com/track/4bNCgx7wGWP98iP2euzF12) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [MAKE ME YOUR MONSTER](https://open.spotify.com/album/1xBDETRvO7zwDC5pEUvzAv) | 3:20 | 2024-08-02 | 2025-09-20 |
 | [Malibu](https://open.spotify.com/track/20O68YXmVnI0MzVfOy9WQ4) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Malibu](https://open.spotify.com/album/2Z5S2hgUpivyXs9T5LnxiS) | 4:02 | 2025-02-21 |  |
 | [Mangos](https://open.spotify.com/track/49e50MWToveqr3PjnKFpnM) | [Shallow Alcove](https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj) | [Mangos](https://open.spotify.com/album/5xebmA2DGH8Xyg6vmpblkU) | 3:16 | 2024-10-25 | 2024-11-09 |
+| [mariah](https://open.spotify.com/track/6hNqL8ihYM8NuJNBWPPu9M) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [songs i couldn't forget](https://open.spotify.com/album/7fMoS9P6G3ULbORP52stef) | 2:48 | 2026-02-27 |  |
 | [Me Without You \(Acoustic\)](https://open.spotify.com/track/1mfPsU5u0fgdjYfKIxaJol) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [The Acoustic Sessions](https://open.spotify.com/album/0FzEpPssQM0QRjqlsuiBc8) | 4:15 | 2023-12-08 | 2024-04-06 |
 | [Memories](https://open.spotify.com/track/6SrYWzq2Fn0ReOmhE3lqh4) | [Aimee Carty](https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl) | [Memories](https://open.spotify.com/album/7udQ2xdosB3zUkdNGaG4m8) | 2:33 | 2024-09-20 | 2025-02-22 |
 | [mi sombra](https://open.spotify.com/track/5H3YoqollP4StScIYTdSLN) | [Kent Jamz](https://open.spotify.com/artist/4JgGhWEWcKIyT84mknHP2w) | [mi sombra](https://open.spotify.com/album/6thzFYrrBeeu16ijc5L8ht) | 3:07 | 2025-10-03 |  |
@@ -310,6 +313,7 @@
 | [Skeleton](https://open.spotify.com/track/2Yn9puKCi8DRD1oYi4kNn8) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Skeleton](https://open.spotify.com/album/06nY6LXMeaRGEudo7i2IOd) | 2:38 | 2025-09-19 |  |
 | [Sleepwalking](https://open.spotify.com/track/4axflVhTuU55y1ZYyLJ22X) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Sleepwalking](https://open.spotify.com/album/1WkPJ7h3W8VNTOaRWWsATU) | 3:48 | 2023-12-15 | 2024-01-27 |
 | [slow dance in the diner](https://open.spotify.com/track/44tkU5OWulSCRn01iTyAXK) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [slow dance in the diner](https://open.spotify.com/album/0m4mFKvycRZ4QstEEjzfKl) | 3:35 | 2025-06-20 | 2026-01-17 |
+| [Slow Tonight](https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Slow Tonight](https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc) | 3:12 | 2026-02-27 |  |
 | [Smooth Like Vinyl](https://open.spotify.com/track/6mnA0MvgEeJTQVJ1QnOqPI) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Smooth Like Vinyl](https://open.spotify.com/album/5CYp5SgznyJC9iIoa2p2MH) | 3:39 | 2025-06-20 | 2026-01-17 |
 | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU) | 3:10 | 2023-12-08 | 2024-11-23 |
 | [snow globe on an alien's desk](https://open.spotify.com/track/6mMnpEBAhOovSKHVSc34V2) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [snow globe on an alien's desk](https://open.spotify.com/album/2mVWhUdGshgfvKau9tBAbx) | 2:58 | 2024-12-06 | 2025-07-26 |
@@ -342,10 +346,12 @@
 | [Tant pis pour elle \- Version Acoustique](https://open.spotify.com/track/67306rh9aCq7snz1aW1tJ0) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Tant pis pour elle \(Version Acoustique\)](https://open.spotify.com/album/1RKq2hecvg4x2MQBW4fKgP) | 2:32 | 2025-11-14 | 2025-11-22 |
 | [Team Babe](https://open.spotify.com/track/6TqVmfK0Um2rK6ozp3E8dG) | [The Man The Myth The Meatslab](https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x) | [Until The Comet Came](https://open.spotify.com/album/1Ag9sz7rFDlTiHtacxRQ17) | 4:06 | 2026-01-30 |  |
 | [Tell Me How](https://open.spotify.com/track/00RDBupKs9RP0YQEBrKn1i) | [Loryn Taggart](https://open.spotify.com/artist/2DwFvKJOTB8DNK7j0q3HaO) | [Tell Me How](https://open.spotify.com/album/60QZB4L7P6e41u3rNBgB2m) | 4:25 | 2023-12-08 | 2024-02-24 |
+| [Terrified](https://open.spotify.com/track/1xAwZre22A8PJNoR19BKES) | [Kerr Mercer](https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x) | [Terrified](https://open.spotify.com/album/0htdK0MDhpdcLa4Q0NW5OQ) | 3:02 | 2026-02-27 |  |
 | [Thank You](https://open.spotify.com/track/5iuWWNhVwmcbSJ5qTuYd9H) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Thank You](https://open.spotify.com/album/6bH8EKg9SfXOACeppfdRz4) | 3:36 | 2023-12-08 | 2024-07-27 |
 | [That Girl](https://open.spotify.com/track/465iG5ttKfJKdKRW79lXe2) | [Yukon Blonde](https://open.spotify.com/artist/3CdvcTOH01EXzXu96afkSN) | [Friendship & Rock 'n' Roll](https://open.spotify.com/album/00CQc4RN8EzyEfCiMk0skF) | 3:10 | 2025-09-19 |  |
 | [That's Life](https://open.spotify.com/track/77815RO1IuoduqqoxRaC2n) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [When a Thought Grows Wings](https://open.spotify.com/album/7i3h5FxsKCEFVvtKg2fZGs) | 3:43 | 2024-08-23 | 2025-03-08 |
 | [That's What I Love](https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That's What I Love](https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93) | 3:46 | 2024-09-27 | 2025-11-29 |
+| [the acrobat \(feat\. Lori McKenna\)](https://open.spotify.com/track/6Q3lIX5uEqiTxt2cwvyl0R) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [the acrobat \(feat\. Lori McKenna\)](https://open.spotify.com/album/3n4Sz8AuTYmtgbPA58X9MK) | 3:54 | 2026-02-27 |  |
 | [The Alchemist](https://open.spotify.com/track/5fQO9U2ygxgK7x6XpToKsS) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [The Alchemist](https://open.spotify.com/album/1W8QZB9LoDkREFfO6dRSnC) | 3:32 | 2024-12-06 | 2025-07-05 |
 | [The Bad Guy](https://open.spotify.com/track/2xGHrlMrQwqkxpfEvoMhIK) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [In Another Lifetime](https://open.spotify.com/album/4NnwZcieQumRpDD2rdO3pO) | 3:16 | 2024-05-24 | 2024-09-07 |
 | [The Banjo Song](https://open.spotify.com/track/7AQiFyoymWq9CUF3aRo64c) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [The Banjo Song](https://open.spotify.com/album/2diypD47uPTBpZmzIQbrAu) | 3:49 | 2026-01-09 | 2026-01-17 |

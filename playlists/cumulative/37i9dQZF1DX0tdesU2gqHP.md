@@ -4,7 +4,7 @@
 
 > The best videos from the world of pop! <br/>Music videos only available on Premium.
 
-57 songs - 3 hr 13 min
+59 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Ghost Town](https://open.spotify.com/track/6HuHyXviAdpmnQu73JHfBz) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:13 | 2025-12-09 |  |
 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 | 2026-01-23 | 2026-02-14 |
 | [Gnarly \(Live\) \| Spotify Best New Artist](https://open.spotify.com/track/2zoci1Endv9cwcyYF00mYr) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly \(Live\) \| Spotify Best New Artist](https://open.spotify.com/album/22YsfExa6uLecnP0NPNOK0) | 2:17 | 2026-02-13 |  |
+| [GO](https://open.spotify.com/track/0mYa3o6tlUN5HRippmKmwH) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/2SrWldMz9dfCB7kAGQNbcC) | 3:15 | 2026-02-27 |  |
 | [GO!](https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:50 | 2025-12-29 |  |
 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 | 2026-02-06 |  |
 | [I Don't Speak French](https://open.spotify.com/track/42LMd0m0zj6DPaKFramUMS) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [A Little Louder, Please \(Deluxe\)](https://open.spotify.com/album/03wOikJOtHMA55JRvBsx0g) | 2:58 | 2025-12-09 |  |
@@ -52,6 +53,7 @@
 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 | 2025-12-09 |  |
 | [Pretty Baby](https://open.spotify.com/track/78ZGO8OXHHBYg2ZhMNaywU) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Pretty Baby](https://open.spotify.com/album/3r1xlXd5nl8DgO9RGJWZZO) | 3:23 | 2026-02-23 |  |
 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 | 2026-02-13 |  |
+| [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 | 2026-02-27 |  |
 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 | 2025-12-09 |  |
 | [Sex and the city](https://open.spotify.com/track/05e0Tkr6tpxbktIei9q8Mw) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Who's the Clown?](https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP) | 2:49 | 2025-12-09 | 2026-02-07 |
 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2025-12-09 |  |

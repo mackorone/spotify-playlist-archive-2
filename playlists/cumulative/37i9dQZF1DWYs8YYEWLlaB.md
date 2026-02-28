@@ -4,7 +4,7 @@
 
 > viral, trend ve yükselenler\.  Kapak: manifest
 
-254 songs - 13 hr 5 min
+255 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [BELLYDANCE](https://open.spotify.com/track/3mnejDqp3v2ucwt7MlcwsN) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [BELLYDANCE](https://open.spotify.com/album/7vKX8Z5lmyEPCmNfVjP8vq) | 2:27 | 2025-05-28 | 2025-06-20 |
 | [Ben Bilmem](https://open.spotify.com/track/5YbygGKXlC5HP55xGtSkx8) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Bir Bakmışsın](https://open.spotify.com/album/4lefgXP8RY8zV7QLQ7DJvS) | 4:24 | 2024-08-15 | 2025-05-13 |
 | [Ben Sana Gelemem](https://open.spotify.com/track/3gdY5WFt7i6BWVLie3t6hQ) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [Ben Sana Gelemem](https://open.spotify.com/album/6VotTGGtlSzAuy8q5JCSsV) | 3:12 | 2024-07-02 | 2025-05-13 |
+| [BEN ÜNLÜYÜM](https://open.spotify.com/track/3MLrWKvuIJjP00nSu1GdQW) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [BEN ÜNLÜYÜM](https://open.spotify.com/album/7wCv0qYY2OuU0QSHt2aiZF) | 1:51 | 2026-02-27 |  |
 | [Bende Katilime Aşıktım](https://open.spotify.com/track/5dOsHFII8HF05Cq6BoZDOa) | [Yıldırım Elmas](https://open.spotify.com/artist/464lu5xDniFcO7vYC5K8Ox) | [Bende Katilime Aşıktım](https://open.spotify.com/album/51iuFHmvwb5h5E4oMhzmHu) | 2:41 | 2025-10-23 |  |
 | [Benden Sonra](https://open.spotify.com/track/5uh8vQEAZeIFEYhAg52BNS) | [Rıza Tamer](https://open.spotify.com/artist/6QG6gseQYnxZfSoq42yINJ) | [Benden Sonra](https://open.spotify.com/album/0nvknd97mQC4LvfqwHB6hi) | 2:43 | 2025-04-01 | 2026-02-06 |
 | [Benden Uzak Dur](https://open.spotify.com/track/2IAPQ0akP6TSqPUguuVkfn) | [Bedo](https://open.spotify.com/artist/7xD3PtnXEsJeqsPtJ3N3si), [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P) | [Benden Uzak Dur](https://open.spotify.com/album/7lfzD9WCAmBrLxIkSKu8xm) | 3:44 | 2024-11-21 | 2024-11-28 |
@@ -212,7 +213,7 @@
 | [STOP SMOKING](https://open.spotify.com/track/1LZdDJ0ZPxbIKP1NcvWhm5) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [STOP SMOKING](https://open.spotify.com/album/1zfzwXyOTY9LYvhkZMUxWf) | 1:37 | 2026-02-05 |  |
 | [SUBMARINER](https://open.spotify.com/track/2L39N1sTAiaKbN8NBtOH4I) | [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [SUBMARINER](https://open.spotify.com/album/2UGRgtYH9ron8nioaqzkO7) | 2:03 | 2024-07-02 | 2024-08-09 |
 | [Sıfırdan Zirveye](https://open.spotify.com/track/4DYpSlYDrQyAvfQhORjyGM) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Sıfırdan Zirveye](https://open.spotify.com/album/5pNZZwx87US89C5MTkUFI2) | 2:38 | 2025-08-21 | 2025-10-22 |
-| [TAK TAK TAK](https://open.spotify.com/track/28TeosAOQZvsftj5ZxucaX) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [TAK TAK TAK](https://open.spotify.com/album/5QWdCZD91757ow6zCrYTnr) | 1:30 | 2025-08-06 |  |
+| [TAK TAK TAK](https://open.spotify.com/track/28TeosAOQZvsftj5ZxucaX) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [TAK TAK TAK](https://open.spotify.com/album/5QWdCZD91757ow6zCrYTnr) | 1:30 | 2025-08-06 | 2026-02-28 |
 | [Tırnağın Kırılmasın](https://open.spotify.com/track/36SKXwHlE1zYin3xwPRDnU) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Tırnağın Kırılmasın](https://open.spotify.com/album/3X5k2n8X0KaJF2GBFfvVBl) | 3:35 | 2024-11-06 | 2025-07-01 |
 | [Uykusuz Geceler](https://open.spotify.com/track/0ANRAWJSJrojS0w8bzhKP9) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ), [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Uykusuz Geceler](https://open.spotify.com/album/0Q1QG5BzoGjAPGZGxdUh5F) | 2:25 | 2025-08-25 |  |
 | [UZAK](https://open.spotify.com/track/40SkcRpe9ch2iunfhnytM8) | [BGR](https://open.spotify.com/artist/6umb60Q2lGAXahIvuPiOHi), [LAARA](https://open.spotify.com/artist/4BJp4ZBfFyBR4mOLHMHxR4) | [UZAK](https://open.spotify.com/album/3ORtfpBO2BBgOBRGYhx5Gf) | 3:00 | 2025-04-28 | 2025-05-09 |

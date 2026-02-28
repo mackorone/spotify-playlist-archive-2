@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 
 > Pouring Indie tunes for all you bathroom singers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,920 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,940 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 | 40 | [Khoya](https://open.spotify.com/track/0P4AQdNDgEdi7J8mpgY8Jx) | [Zariya](https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1), [Aseem](https://open.spotify.com/artist/2Z5Fwohe32YFEjPpuiSAo1) | [Khoya](https://open.spotify.com/album/2AjolCCtmTdfRkQsvl4TeA) | 2:58 |
 | 41 | [Baatein Karo](https://open.spotify.com/track/0defKES0cQIsig27CpfPWx) | [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL) | [Baatein Karo](https://open.spotify.com/album/66vdrbexbgZKs1NkNRmIET) | 3:15 |
 | 42 | [Le Chal](https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Le Chal](https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn) | 3:16 |
-| 43 | [smile](https://open.spotify.com/track/7yHoWylfxxYpOYkeWT0IqD) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [ghosts, and goodbyes](https://open.spotify.com/album/13HPCeCDTiQP4oljsHNygo) | 3:48 |
-| 44 | [Khayaal](https://open.spotify.com/track/7fY8qVujvm5lZBrt5Y1sIJ) | [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK), [Ankita Barwad](https://open.spotify.com/artist/5TFZxLxVzFec55swRGsGdO) | [Khayaal](https://open.spotify.com/album/0T74gRslxMbXuKxPicbV65) | 2:29 |
+| 43 | [Khayaal](https://open.spotify.com/track/7fY8qVujvm5lZBrt5Y1sIJ) | [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK), [Ankita Barwad](https://open.spotify.com/artist/5TFZxLxVzFec55swRGsGdO) | [Khayaal](https://open.spotify.com/album/0T74gRslxMbXuKxPicbV65) | 2:29 |
+| 44 | [smile](https://open.spotify.com/track/7yHoWylfxxYpOYkeWT0IqD) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [ghosts, and goodbyes](https://open.spotify.com/album/13HPCeCDTiQP4oljsHNygo) | 3:48 |
 | 45 | [Shaam Tanha](https://open.spotify.com/track/5V6XcXBrCGI6JOeYr4Uyo3) | [Agnee](https://open.spotify.com/artist/66VUlJ41NQs9bRTflM4eGA) | [Agnee](https://open.spotify.com/album/4zE9JWKkoH2ezquD54Kwn9) | 4:59 |
 | 46 | [Main Bola Hey!](https://open.spotify.com/track/0PKEQjnGn0LmPjozJ3t4MF) | [Karthik Rao](https://open.spotify.com/artist/3aAy6jFZLqqDUlMGSZcyaZ) | [Kota Factory: Season 1 \(Music from Tvf Original Series\)](https://open.spotify.com/album/6mOfUlKhx0AROUKdxA7v6Z) | 2:33 |
 | 47 | [Jogi](https://open.spotify.com/track/0h0gWburhWxIhV9h7kyX3l) | [Swastik The Band](https://open.spotify.com/artist/740SYcL7Hl2TatDM2wYV8V) | [Avasa](https://open.spotify.com/album/07iHCQyQ69gc8c13fdmqhh) | 6:16 |

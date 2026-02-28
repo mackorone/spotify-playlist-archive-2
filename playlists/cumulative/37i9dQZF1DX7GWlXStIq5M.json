@@ -3918,7 +3918,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 155912,
       "name": "Canibal",
       "url": "https://open.spotify.com/track/5yS5dvfPcEQ6f3iTfgjgPZ"
@@ -7010,6 +7010,32 @@
       "duration_ms": 201000,
       "name": "Encontros",
       "url": "https://open.spotify.com/track/6kUuvZCS0A2mCimWR9yPnp"
+    },
+    {
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/2AkCaeXRWht0pyc4SHzGGr"
+      },
+      "artists": [
+        {
+          "name": "RDD",
+          "url": "https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW"
+        },
+        {
+          "name": "Anik Khan",
+          "url": "https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa"
+        },
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188400,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/50eUngFZAVXR5jbjoO4INk"
     },
     {
       "album": {
@@ -13714,7 +13740,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 183032,
       "name": "Noites em Miami",
       "url": "https://open.spotify.com/track/6KQ0cjaECXJy5TohPYqkQl"
@@ -14206,6 +14232,24 @@
       "duration_ms": 173397,
       "name": "N\u00f3s",
       "url": "https://open.spotify.com/track/7kDQV2MzhzRGHeLrB09zMA"
+    },
+    {
+      "album": {
+        "name": "APGC (Ao Vivo Na Casa Da Colina)",
+        "url": "https://open.spotify.com/album/4zl5y4as3m2eZS8DFRfqVt"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195094,
+      "name": "N\u00f3s Dois - Ao Vivo Na Casa da Colina",
+      "url": "https://open.spotify.com/track/6Mg2CaEissVzViqC5jgveU"
     },
     {
       "album": {

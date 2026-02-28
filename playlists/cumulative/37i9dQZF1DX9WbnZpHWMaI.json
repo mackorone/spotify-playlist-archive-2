@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Celebrating women at the center of innovation in electronic music. Featuring KI/KI.",
+  "description": "Celebrating women at the center of innovation in electronic music. Featuring Namasenda.",
   "name": "Women of Electronic",
   "tracks": [
     {
@@ -3041,6 +3041,28 @@
     },
     {
       "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/0194cIBrgVyNYXLk0csjjF"
+      },
+      "artists": [
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175238,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/2JgqwzlOSIxq5WmXKJdnVp"
+    },
+    {
+      "album": {
         "name": "Say",
         "url": "https://open.spotify.com/album/4djFEArMg3PsHqIHxQmtXO"
       },
@@ -5230,7 +5252,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 125815,
       "name": "GLOW. (Blusher Remix)",
       "url": "https://open.spotify.com/track/2EHLYHcY5n1VetFu2Te0Mv"
@@ -5604,7 +5626,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 246870,
       "name": "Have You Ever Loved (Ellie)",
       "url": "https://open.spotify.com/track/6LXP8uM57vLvhjiCDYvnys"
@@ -6768,6 +6790,24 @@
       "duration_ms": 149666,
       "name": "Illegal",
       "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
+    },
+    {
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/2x5ye8DOvnqm9csJAHUbmW"
+      },
+      "artists": [
+        {
+          "name": "Tomike",
+          "url": "https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143808,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/7CVEZE9RSUO3MfdqF4TRgv"
     },
     {
       "album": {
@@ -8309,6 +8349,24 @@
     },
     {
       "album": {
+        "name": "Miami Crest",
+        "url": "https://open.spotify.com/album/7wddxaFYnH7K0s8aULp0ql"
+      },
+      "artists": [
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159493,
+      "name": "Miami Crest",
+      "url": "https://open.spotify.com/track/5BWL1daZx8NkFETSMAWm4q"
+    },
+    {
+      "album": {
         "name": "Scarlet Lamb",
         "url": "https://open.spotify.com/album/5usTfd8cfuQttU2w3Eh0q3"
       },
@@ -9258,7 +9316,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 244391,
       "name": "No One",
       "url": "https://open.spotify.com/track/5J72L91na30WRBYaCokV8i"
@@ -9520,6 +9578,24 @@
       "duration_ms": 345605,
       "name": "One Mind",
       "url": "https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh"
+    },
+    {
+      "album": {
+        "name": "one4u",
+        "url": "https://open.spotify.com/album/7GzKdWFhCzGI7atbZglKuF"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255428,
+      "name": "one4u",
+      "url": "https://open.spotify.com/track/22QyJJgibWEtYCXxTQlbOh"
     },
     {
       "album": {
@@ -9900,6 +9976,24 @@
       "duration_ms": 363693,
       "name": "Poodle Power - DJ-Kicks",
       "url": "https://open.spotify.com/track/5TBec4bs5VxUy3WxL37HJY"
+    },
+    {
+      "album": {
+        "name": "Pop",
+        "url": "https://open.spotify.com/album/69znXGnL5lj0jEIbl7yni7"
+      },
+      "artists": [
+        {
+          "name": "Mary Droppinz",
+          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179142,
+      "name": "Pop",
+      "url": "https://open.spotify.com/track/0TgoIKzHyU2zysMf12KuJD"
     },
     {
       "album": {
@@ -12418,7 +12512,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 214026,
       "name": "The Boy",
       "url": "https://open.spotify.com/track/71opuLWkFhYlqcYYKPkkQw"
@@ -14000,7 +14094,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 219987,
       "name": "What's Her Name",
       "url": "https://open.spotify.com/track/2hUpEz45xMjCSlueWqgMjI"

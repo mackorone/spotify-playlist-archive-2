@@ -4,7 +4,7 @@
 
 > The best tracks from the world of music\. Cover: Bad Bunny
 
-611 songs - 1 day 9 hr 20 min
+612 songs - 1 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Get Loose](https://open.spotify.com/track/6HkECn6elRsylPQmDGmDxq) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK), [Khally](https://open.spotify.com/artist/4PqeHxPLqzI2yCNerkPrES), [SoundClout](https://open.spotify.com/artist/3LcwAiTjlQTT25TtU39kSB), [PravOnTheLoose](https://open.spotify.com/artist/5HvJGgEq2XovGcbdGmWKXg) | [Get Loose](https://open.spotify.com/album/6bPxTPEqF4jd5ugFWShH0A) | 3:15 | 2024-10-30 | 2024-11-28 |
 | [GGUM](https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [GGUM](https://open.spotify.com/album/2hgOMXg9I7Mk7G58OFAZ1V) | 2:31 | 2024-09-25 | 2024-10-17 |
 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 | 2025-05-07 | 2025-07-24 |
+| [GO](https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 3:15 | 2026-02-27 |  |
 | [GO!](https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:50 | 2025-09-17 | 2025-11-14 |
 | [Goddess](https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Goddess](https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ) | 4:27 | 2024-03-13 | 2024-04-10 |
 | [GODS](https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [GODS](https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs) | 3:40 | 2024-01-17 | 2024-02-01 |

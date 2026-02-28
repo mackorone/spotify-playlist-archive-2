@@ -2,9 +2,9 @@
 
 ### [Dark and Furious](https://open.spotify.com/playlist/37i9dQZF1DXdMp10y0r6l2)
 
-> AAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHH\. Poppy en portada
+> AAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHH\. Rob Zombie en portada
 
-575 songs - 1 day 21 hr 29 min
+581 songs - 1 day 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [After World Obliteration](https://open.spotify.com/track/1B3EH5RE7LhigcjdBhlY5F) | [Terrorizer](https://open.spotify.com/artist/09eXH2A1Zi3E7MZJXGg5oG) | [World Downfall](https://open.spotify.com/album/1OAUXcUtKiPdDtftxbjGV2) | 3:29 | 2024-08-20 | 2024-10-22 |
 | [Afterglow of Ragnarok](https://open.spotify.com/track/6SqEnIIYnBHU8ZDPsfDvq9) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Rain on the Graves](https://open.spotify.com/album/13hB30MBr9lEVogRpiNBav) | 5:45 | 2024-01-25 | 2024-08-20 |
 | [All Alone](https://open.spotify.com/track/52ADjbnO2yizl9ke12CKov) | [Saturnus](https://open.spotify.com/artist/7HY8HFHBM9zrY5R9rlY3Id) | [Veronica Decides to Die](https://open.spotify.com/album/5Jxf2vLZ8JdNco7lAM9S4c) | 6:20 | 2024-08-20 | 2024-10-22 |
+| [All For You](https://open.spotify.com/track/4JQMbQK6139mYC1osRQK0b) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [All For You](https://open.spotify.com/album/1S2lRRUmJ4SWtiXeBK48dK) | 3:54 | 2026-02-27 |  |
 | [All Hail the Goat](https://open.spotify.com/track/79PE0a8VfZKSxhLVeUq3rd) | [Hellripper](https://open.spotify.com/artist/6FfZaHz07OsknWNdtdan5R) | [Black Arts & Alchemy](https://open.spotify.com/album/6dKricXWxb6EiH9su5ZSyM) | 3:12 | 2024-08-20 | 2024-10-22 |
 | [Alternative Reality](https://open.spotify.com/track/3l3lwMDyYiHGFTIVn0l8ZX) | [Holy Moses](https://open.spotify.com/artist/7jcSmabVYrhiPf8mY1P0OV) | [Invisible Queen](https://open.spotify.com/album/3mFeydGHsphucwlgTTd0vH) | 3:39 | 2023-09-22 | 2024-01-26 |
 | [Angel of Death](https://open.spotify.com/track/5VU1UiFWwv7KTYmfuROi71) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Renegade](https://open.spotify.com/album/57mD54LjIFfFspvoELYlMz) | 6:17 | 2024-01-25 | 2024-04-19 |
@@ -71,6 +72,7 @@
 | [Black Thrash Attack](https://open.spotify.com/track/49jO2kj2USrOl78AtBtOVd) | [Aura Noir](https://open.spotify.com/artist/4S2qftLTvdEFvIPPTYmeg6) | [Black Thrash Attack](https://open.spotify.com/album/3upUs3audIVbLYP0EGRzwv) | 5:11 | 2024-08-20 | 2024-10-22 |
 | [Blackout](https://open.spotify.com/track/15RpfmFhrE5RRkf4vZ6kZu) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:48 | 2024-01-25 | 2024-08-20 |
 | [Blight Cathedral](https://open.spotify.com/track/26eIpTqBkTgIP2v321pQC8) | [Fossilization](https://open.spotify.com/artist/3FDmCPVi3TyAPCmKS3jcdB) | [He Whose Name Was Long Forgotten](https://open.spotify.com/album/0sTZnbAF63kElLLKwuJdJJ) | 5:07 | 2025-08-28 | 2025-09-27 |
+| [Blissful End](https://open.spotify.com/track/5brgPwPVEwNb2zQdVs7yiF) | [Varials](https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l) | [WHERE THE LIGHT LEAVES](https://open.spotify.com/album/11s6vQkS5eVq5tVWGUJwSr) | 3:23 | 2026-02-27 |  |
 | [Blood Of Christ \(Mohammed Wept\)](https://open.spotify.com/track/6N3XiMBtKsJ1HmZrqLGun8) | [Ancient Rites](https://open.spotify.com/artist/0okB1HEJFLD98VkNzLtTBJ) | [Blasfemia Eternal](https://open.spotify.com/album/3tJW9cGpaeoCRBk8Ip6Pwi) | 3:59 | 2025-08-28 | 2025-09-27 |
 | [Bloodstorm](https://open.spotify.com/track/5Caam0gWsFmgSpnGbhMOym) | [In Obscurity Revealed](https://open.spotify.com/artist/1zYUInYNfj4e7BO4ia4xMv) | [In Obscurity Revealed / Infesticide](https://open.spotify.com/album/4VccvKFwGx4Z5gsdrIWQRj) | 4:18 | 2024-08-20 | 2024-10-22 |
 | [BLOODSWEAT](https://open.spotify.com/track/3YGma4LsXxOZYZiKOtsSzC) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY WILL BE DONE](https://open.spotify.com/album/7jtViL0H9WMUkCrsafE4xo) | 3:41 | 2025-12-26 |  |
@@ -166,6 +168,8 @@
 | [Everybody Knows](https://open.spotify.com/track/4uHsDdr65dajDR7zuc7336) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Everybody Knows](https://open.spotify.com/album/13gb5lKK6fIsAEYMzEg9Qs) | 3:19 | 2025-10-24 |  |
 | [Everything Burns \(feat\. Beartooth\)](https://open.spotify.com/track/4m4MMljoJx4illTnaWRHbG) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Everything Burns \(feat\. Beartooth\)](https://open.spotify.com/album/4jsUVte5X0LXHuFIE281qq) | 3:01 | 2025-12-26 |  |
 | [Extra XD](https://open.spotify.com/track/3TokcTUsP217Yr99Rt9w0n) | [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6), [MUÑEKI77A](https://open.spotify.com/artist/4vPj1iAE8l3VAQNenIOGt8) | [Extra XD](https://open.spotify.com/album/0gOr767utT9JQWyJpQwYU3) | 4:12 | 2026-01-23 |  |
+| [F.T.W\. 84](https://open.spotify.com/track/4DJDtYrUMZl1WteQCSKEBX) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Great Satan](https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I) | 3:55 | 2026-02-27 |  |
+| [Fake Flowers](https://open.spotify.com/track/03RKM7pHHjmHbuSgmJzMzT) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Fake Flowers](https://open.spotify.com/album/5EiJjLPvJMXHJQBElbkKQ9) | 4:02 | 2026-02-27 |  |
 | [Falling Snow \(2016 \- Remaster\)](https://open.spotify.com/track/6ye33mzkXa1OfTJBPXCtPr) | [Agalloch](https://open.spotify.com/artist/3Meu28o8P5z9Zjm6NTGihT) | [Ashes Against The Grain](https://open.spotify.com/album/33yLuUJMwpcZmkAypX3IKp) | 9:38 | 2025-08-28 | 2025-09-27 |
 | [False Democracy](https://open.spotify.com/track/28hXLPYRU5s4G5s7nhL6zF) | [Chemicide](https://open.spotify.com/artist/4ax8Q2ingc59UDymaYLqFn) | [Common Sense](https://open.spotify.com/album/7kyjqxu2jx5Up2HwUoScFp) | 3:31 | 2023-09-22 | 2024-01-26 |
 | [Family Snapshot](https://open.spotify.com/track/1elMP3KDNdzAq0bnhGEyLX) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Peter Gabriel 3: Melt \(Remastered\)](https://open.spotify.com/album/0KLyPao7XpXHSAMmbkxCoz) | 4:28 | 2024-01-25 | 2024-08-20 |
@@ -317,6 +321,7 @@
 | [Ms Salmonella \(Lifelover\)](https://open.spotify.com/track/7z59igAdHezE0VroXyGAvC) | [Black Hate](https://open.spotify.com/artist/1YK9suOewtPHgPf3DbMbQG) | [Oppressive Tunes](https://open.spotify.com/album/7hGmbRVP8XpckIfDf6WG6D) | 5:02 | 2025-08-28 | 2025-09-27 |
 | [Murder](https://open.spotify.com/track/2S4SNGSjZq2kURJ3F7oGjF) | [Horse The Band](https://open.spotify.com/artist/5YUQk45IjdzzQ49G1Txzkk) | [A Natural Death](https://open.spotify.com/album/2pnNu84JN3uVaFg2LB6xx5) | 4:14 | 2025-07-29 |  |
 | [Murder Scene \(feat\. Magnolia Park\)](https://open.spotify.com/track/7fmtvVoWh7U0RIuyEcXm24) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Murder Scene \(feat\. Magnolia Park\)](https://open.spotify.com/album/1kgipVMHW83Fu19OZKReSy) | 3:10 | 2026-01-23 |  |
+| [MUTE WITNESS](https://open.spotify.com/track/5JGA7gtu4iJXLP6AS087pu) | [SUICIDE MESSIAH](https://open.spotify.com/artist/43d9cIWGbJrzetNX3zi4JO), [Taylor Barber](https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs), [Blegh! Label](https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl) | [MUTE WITNESS](https://open.spotify.com/album/2B0sd976idNW5QX7vVOVsR) | 3:03 | 2026-02-27 |  |
 | [my mind is a mountain](https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [my mind is a mountain](https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG) | 2:50 | 2025-07-29 |  |
 | [My Queen \(feat\. Spiritbox\)](https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [METAL FORTH](https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp) | 3:20 | 2025-09-26 |  |
 | [N.I.B.](https://open.spotify.com/track/2GnVuaoKSkB6Xa07l1BBg8) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [The Ultimate Collection](https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv) | 6:04 | 2024-01-25 | 2024-04-19 |
@@ -391,6 +396,7 @@
 | [Rock N Roll Train](https://open.spotify.com/track/4feXJ5IC3avXsVW9WNFSag) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Black Ice](https://open.spotify.com/album/7qVfz4UGONwEd5nQjj0ESN) | 4:21 | 2024-05-24 | 2024-08-20 |
 | [Rock or Bust](https://open.spotify.com/track/2vyae4DvSU2gs8OMOGwXF2) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Rock or Bust](https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg) | 3:03 | 2024-05-24 | 2024-08-20 |
 | [Romantic](https://open.spotify.com/track/5wReOstW3tptMlZLTjt97E) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Romantic](https://open.spotify.com/album/4wuZj4JGd958dYbBZOj9ex) | 2:39 | 2025-07-29 |  |
+| [Rompecabezas](https://open.spotify.com/track/4DtPhk3tIhER14wZYxzZxZ) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Rompecabezas](https://open.spotify.com/album/6hs8Y0Let3NM1UCtcTv5fy) | 1:43 | 2026-02-27 |  |
 | [Rooster \(2022 Remaster\)](https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 6:14 | 2024-01-25 | 2024-08-20 |
 | [Roses on Your Grave](https://open.spotify.com/track/2xMEKnHsZLusGWXSCaKkh9) | [Eclipse](https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr) | [Wired](https://open.spotify.com/album/5dX2WDUUG8FxtXojBn6D3V) | 3:22 | 2025-08-28 | 2025-09-27 |
 | [Runaways](https://open.spotify.com/track/71i8FzLUHpO3UqMBCvW6gn) | [Eclipse](https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr) | [Runaways](https://open.spotify.com/album/14zmgmYiTEHchJdzwiRv4t) | 2:59 | 2025-08-28 | 2025-09-27 |

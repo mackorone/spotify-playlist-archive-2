@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4hy48b.md) - [plain]
 
 > This is Aitana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,024 likes - 41 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,072 likes - 41 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4hy48b.md) - [plain]
 | 36 | [CUANDO TE FUISTE](https://open.spotify.com/track/3vrslkAmBQ4mvqfOX1Xc6Q) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 2:47 |
 | 37 | [En El Coche](https://open.spotify.com/track/5mcYWxQAAlqGAhEPqVMMR5) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [En El Coche](https://open.spotify.com/album/6sIXTuaE9F2p4PcXVuawjp) | 2:05 |
 | 38 | [2 Extraños](https://open.spotify.com/track/1zIVr01FW9T3aWKmoBcmFd) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 3:01 |
-| 39 | [La Canción Que No Quiero Cantarte](https://open.spotify.com/track/5PHEToa3yWlCiagig8MFE9) | [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Cuando No Sé Quién Soy](https://open.spotify.com/album/28Et1GjQGMGNY9oQNDVkGF) | 2:48 |
-| 40 | [Tu Foto Del DNI](https://open.spotify.com/track/31rmWWAR4m0pIUDNMWTEWe) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Tu Foto Del DNI](https://open.spotify.com/album/4k9xzNF92Jb8hOMleVqRiJ) | 2:58 |
+| 39 | [Tu Foto Del DNI](https://open.spotify.com/track/31rmWWAR4m0pIUDNMWTEWe) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Tu Foto Del DNI](https://open.spotify.com/album/4k9xzNF92Jb8hOMleVqRiJ) | 2:58 |
+| 40 | [La Canción Que No Quiero Cantarte](https://open.spotify.com/track/5PHEToa3yWlCiagig8MFE9) | [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Cuando No Sé Quién Soy](https://open.spotify.com/album/28Et1GjQGMGNY9oQNDVkGF) | 2:48 |
 | 41 | [La última](https://open.spotify.com/track/3QMbspb1zO1XaREaQrRUh2) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [La Última \(Banda Sonora Original\)](https://open.spotify.com/album/2K8Jw6BgO5befV6LSdYXur) | 3:36 |
 
-Snapshot ID: `aZ47gAAAAADiBn2WHzW2i1xdf0xMXIFd`
+Snapshot ID: `aZ+NAAAAAABImBisunEbD2xgzI91JhWY`

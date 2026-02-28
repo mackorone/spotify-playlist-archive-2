@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 
 > Unwind and let the afternoon unfold.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,028,543 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,028,277 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 37 | [Hold Your Head Up High](https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Hold Your Head Up High](https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J) | 3:37 |
 | 38 | [Lockdown On Date Night Tuesday](https://open.spotify.com/track/5l4KZmLaiImt906CJxl5nv) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Folk n’ Roll Vol\. 1: Tales Of Isolation](https://open.spotify.com/album/5rxYtc0dKFxROEin9UkD9d) | 5:03 |
 | 39 | [Grey County Blues](https://open.spotify.com/track/6CAZcxmUbPGe6ghbFTQutj) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi) | [Quiet Talkers](https://open.spotify.com/album/4qz1y6JRpFcSXMwAttnpzs) | 3:50 |
-| 40 | [Motel](https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Motel Bouquet](https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu) | 3:04 |
-| 41 | [Fever To The Form](https://open.spotify.com/track/7xbF5Nf1iKYmwvD9EWhJav) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Fever To The Form](https://open.spotify.com/album/13U33DEomTwUMn7t2jYHTj) | 4:11 |
+| 40 | [Fever To The Form](https://open.spotify.com/track/7xbF5Nf1iKYmwvD9EWhJav) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Fever To The Form](https://open.spotify.com/album/13U33DEomTwUMn7t2jYHTj) | 4:11 |
+| 41 | [Motel](https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Motel Bouquet](https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu) | 3:04 |
 | 42 | [Love Is Tall](https://open.spotify.com/track/3H3DQ2bzxJJ8yW198ZwTH3) | [Oshima Brothers](https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg) | [Love Is Tall](https://open.spotify.com/album/7vXTmI0oKrlEZzxW8UJ6Kp) | 2:33 |
 | 43 | [Runaway Horses \(feat\. Phoebe Bridgers\) \- Abridged](https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pressure Machine \(Abridged\)](https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB) | 3:24 |
 | 44 | [Bridge](https://open.spotify.com/track/2HLd7alxKkXHU2KmbGUUVm) | [High Highs](https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4) | [Open Season](https://open.spotify.com/album/4F5s7tDOWFCgozxJg0o8Rw) | 2:30 |
@@ -86,11 +86,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 76 | [The Woods \- Acoustic](https://open.spotify.com/track/6uaIMhUZXMuT2Zz0vxrFiR) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [The Woods \(Acoustic\)](https://open.spotify.com/album/1YkP0hYlF5E4il2VPTFFGZ) | 3:59 |
 | 77 | [Resilient](https://open.spotify.com/track/6A90L2keyWNwlH21dqM8bA) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Resilient](https://open.spotify.com/album/3EaJWoy52v2Rxu79L2GAin) | 4:10 |
 | 78 | [Re: Stacks](https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5) | 6:41 |
-| 79 | [Kathy's Song](https://open.spotify.com/track/6i6hIiqSXwfzU4B2Tbtw4S) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [You Don't Own Me Anymore](https://open.spotify.com/album/48oEbT2demuZV5mRLlbaLC) | 3:43 |
-| 80 | [Heartbeats](https://open.spotify.com/track/7BzhqmRj3iOZXqMHqiifHr) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Imperial Recordings Best Of](https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV) | 2:40 |
-| 81 | [Tiger Striped Sky](https://open.spotify.com/track/6FOyzhp375u8DapDyQqGTh) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/7fqZrcQ53NpZugjmXHtLK3) | 4:01 |
-| 82 | [Whiskey Whiskey](https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Into the Depths of Hell](https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c) | 2:51 |
-| 83 | [Naked As We Came](https://open.spotify.com/track/2gUSIsapdX6jEJ0DvjqTt2) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days](https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt) | 2:32 |
+| 79 | [Heartbeats](https://open.spotify.com/track/7BzhqmRj3iOZXqMHqiifHr) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Imperial Recordings Best Of](https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV) | 2:40 |
+| 80 | [Naked As We Came](https://open.spotify.com/track/2gUSIsapdX6jEJ0DvjqTt2) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days](https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt) | 2:32 |
+| 81 | [Kathy's Song](https://open.spotify.com/track/6i6hIiqSXwfzU4B2Tbtw4S) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [You Don't Own Me Anymore](https://open.spotify.com/album/48oEbT2demuZV5mRLlbaLC) | 3:43 |
+| 82 | [Tiger Striped Sky](https://open.spotify.com/track/6FOyzhp375u8DapDyQqGTh) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/7fqZrcQ53NpZugjmXHtLK3) | 4:01 |
+| 83 | [Whiskey Whiskey](https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Into the Depths of Hell](https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c) | 2:51 |
 | 84 | [If We Were Vampires](https://open.spotify.com/track/7o8Fe4IHujZWCSV6c84kln) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [If We Were Vampires](https://open.spotify.com/album/4mwBBYV7dU6LbnOWKdIk1k) | 3:35 |
 | 85 | [Warped Window](https://open.spotify.com/track/0C0ESa1ZZ5taXaYUxwnvx9) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Idle Mind](https://open.spotify.com/album/5PncSJwq9TMUU2c3Y54pGZ) | 4:55 |
 | 86 | [Calico](https://open.spotify.com/track/7EWwiyBXMaLzoSXwWZkYyU) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Calico](https://open.spotify.com/album/6ocDemfIGrj8hpvvpjDFoc) | 3:51 |

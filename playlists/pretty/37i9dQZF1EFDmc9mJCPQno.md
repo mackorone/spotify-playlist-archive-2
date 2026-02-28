@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1xzZPyV5jY8bYYNtAUkyOx">Lauren Aquilina</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,212 likes - 128 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,212 likes - 129 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,30 +111,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 101 | [Anyway](https://open.spotify.com/track/4BJQYSYHW2DWJ0DVFKBbQ1) | [Jack Vallier](https://open.spotify.com/artist/2wnHlwpI5kZaXQRGq21UNN) | [Anyway](https://open.spotify.com/album/0UMuE9NyLHNs64AHsnvNgF) | 2:41 |
 | 102 | [Hope Is a Scary Thing](https://open.spotify.com/track/2Pn8rE4he6Knz53X3RS896) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Late Start](https://open.spotify.com/album/6TrJSxKjdKynXNEwt42PbF) | 2:48 |
 | 103 | [Loser](https://open.spotify.com/track/1JBHJBOr0UKTzHK0XzTII5) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Have U Seen Her?](https://open.spotify.com/album/6duDuIepi6ZCwgAbBw1BQ1) | 3:12 |
-| 104 | [Limoncello](https://open.spotify.com/track/1MzrmkSpQO3z0xBIWkh9s0) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [XO, My Cyberlove](https://open.spotify.com/album/2sVppxhqMC6qFOp1Xxvy8Q) | 2:39 |
-| 105 | [Swap Places](https://open.spotify.com/track/2Q6Z13C5b9AqgozHe7qPbO) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 3:24 |
-| 106 | [Better Than You Found Me](https://open.spotify.com/track/1p201K92LblEJTqd3Sx5ez) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Late Start](https://open.spotify.com/album/6TrJSxKjdKynXNEwt42PbF) | 2:58 |
-| 107 | [Everybody Needs a Hero](https://open.spotify.com/track/1EmX0q1eOc5ffa7N2F0bOg) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 4:20 |
-| 108 | [Performer](https://open.spotify.com/track/1fajhwklF3pSlWvdaaSWG3) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Let Her Burn](https://open.spotify.com/album/7ejtUeGJ9QV8IQHEBRGRWr) | 3:14 |
-| 109 | [Hipnotic \(SINB Solo\)](https://open.spotify.com/track/4lAUlzH9ESUc0WG8BnHnxJ) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 1st Album 'A Montage of \( \)'](https://open.spotify.com/album/7hc0DjpDJHNvVNF7a9PDNq) | 2:26 |
-| 110 | [Best Friend](https://open.spotify.com/track/3rncf1MzF1nnqPPCt9TORS) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 3:15 |
-| 111 | [Fireworks](https://open.spotify.com/track/1UQDjhNSUJq1Qt02fdXzN3) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/5T94fnmXJxSmPVjWb6M50x) | 3:00 |
-| 112 | [XOXO](https://open.spotify.com/track/6rZBcOUK0u7F3ipY97Kef3) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Sugar Water \(Deluxe\)](https://open.spotify.com/album/3YVFjLQyt1RBXxl3pifOVw) | 2:48 |
-| 113 | [Free](https://open.spotify.com/track/2wZhh84WylENwS23foVHkF) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Free](https://open.spotify.com/album/5pvr0eVCCJainwXBc6XwnA) | 3:46 |
-| 114 | [tiny little titties](https://open.spotify.com/track/09jmvYB5lVdvLeKxkjtCcW) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [serious person \(part 1\)](https://open.spotify.com/album/6gg1EATMm8D7SM4YxPnXZ4) | 3:04 |
-| 115 | [Fuckedupminddd](https://open.spotify.com/track/1utfH4im9foOZg7AgeMpKr) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 2:54 |
-| 116 | [Empathy](https://open.spotify.com/track/5zICqxSi9MRZNmpuaTWfBj) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Empathy](https://open.spotify.com/album/3EdQVRzyA5pRExPGNqZZ7E) | 3:34 |
-| 117 | [Star Potential](https://open.spotify.com/track/6TjqmtO3H55Ey6nNJCG0FE) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Star Potential](https://open.spotify.com/album/4yHhW0tJ06QGsIBSpFRchc) | 3:02 |
-| 118 | [Can't Say No](https://open.spotify.com/track/4NKFLpXmmaqqyAOJAgMtP7) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Through](https://open.spotify.com/album/4J0kTKU9ORIpmECus6dTsR) | 2:58 |
-| 119 | [Teenage Self](https://open.spotify.com/track/6OldSvtQa4kQoTSaWzsSlR) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 1:51 |
-| 120 | [Most Viewed](https://open.spotify.com/track/0YYJRs8ENvqnU7BQf8wVrm) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Most Viewed](https://open.spotify.com/album/1tQArKbrcX6BbyVED8aIYr) | 3:14 |
-| 121 | [no one cares](https://open.spotify.com/track/0aQXCpOF4zFstiNhWAGtXD) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [no one cares](https://open.spotify.com/album/05YHG0o3540O1xXDSAyx0j) | 3:00 |
-| 122 | [Mom Song](https://open.spotify.com/track/2nD16TvMgRJL15XRfy8Bju) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Late Start](https://open.spotify.com/album/6TrJSxKjdKynXNEwt42PbF) | 2:35 |
-| 123 | [death](https://open.spotify.com/track/2VrMoRFZLk2NYuZpfxC06B) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [committed to a bit](https://open.spotify.com/album/7pzCbXIKBn1wqJSNI8icip) | 3:44 |
-| 124 | [Wrong](https://open.spotify.com/track/5FWCrwlmk1Kq1jy8khhxvA) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Heavy Love](https://open.spotify.com/album/4g30lAhSUDEOUhs4Izez2s) | 3:12 |
-| 125 | [Off\-World](https://open.spotify.com/track/7actzHWTsZYrimLJtDUGEC) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Off\-World](https://open.spotify.com/album/4ffjvDRam4xYWMy85hNtdb) | 3:40 |
-| 126 | [It's Mean When You Don't Mean It](https://open.spotify.com/track/06qDeXAlTAspztapKBCQXs) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [The Wrong Side of 25](https://open.spotify.com/album/1ts3tatZuXKtmyTbyqybKS) | 4:09 |
-| 127 | [Ponytail](https://open.spotify.com/track/356sykgkwuqWnvXwq1M1l0) | [XO](https://open.spotify.com/artist/3uRDnagY9HyAPIo7Y34V4r) | [Fashionably Late](https://open.spotify.com/album/1NJ9tmNuz88hJ10dPLLOQH) | 2:36 |
-| 128 | [lie to myself](https://open.spotify.com/track/5p60aTSUb3ZLG1HbUbuJLW) | [amber\-liz](https://open.spotify.com/artist/1OWB13bPhotfvAdQjiIdP5) | [lie to myself](https://open.spotify.com/album/1xtYNQqeWrRvhraE3uiWcs) | 2:33 |
+| 104 | [Fireworks](https://open.spotify.com/track/1UQDjhNSUJq1Qt02fdXzN3) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/5T94fnmXJxSmPVjWb6M50x) | 3:00 |
+| 105 | [Limoncello](https://open.spotify.com/track/1MzrmkSpQO3z0xBIWkh9s0) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [XO, My Cyberlove](https://open.spotify.com/album/2sVppxhqMC6qFOp1Xxvy8Q) | 2:39 |
+| 106 | [Swap Places](https://open.spotify.com/track/2Q6Z13C5b9AqgozHe7qPbO) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 3:24 |
+| 107 | [Better Than You Found Me](https://open.spotify.com/track/1p201K92LblEJTqd3Sx5ez) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Late Start](https://open.spotify.com/album/6TrJSxKjdKynXNEwt42PbF) | 2:58 |
+| 108 | [Everybody Needs a Hero](https://open.spotify.com/track/1EmX0q1eOc5ffa7N2F0bOg) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 4:20 |
+| 109 | [Performer](https://open.spotify.com/track/1fajhwklF3pSlWvdaaSWG3) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Let Her Burn](https://open.spotify.com/album/7ejtUeGJ9QV8IQHEBRGRWr) | 3:14 |
+| 110 | [Hipnotic \(SINB Solo\)](https://open.spotify.com/track/4lAUlzH9ESUc0WG8BnHnxJ) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 1st Album 'A Montage of \( \)'](https://open.spotify.com/album/7hc0DjpDJHNvVNF7a9PDNq) | 2:26 |
+| 111 | [Super ICY \(LEESEO Solo\)](https://open.spotify.com/track/0DxvB5z7FTzI8KFlFTwyWm) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/5T94fnmXJxSmPVjWb6M50x) | 2:50 |
+| 112 | [Best Friend](https://open.spotify.com/track/3rncf1MzF1nnqPPCt9TORS) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 3:15 |
+| 113 | [XOXO](https://open.spotify.com/track/6rZBcOUK0u7F3ipY97Kef3) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Sugar Water \(Deluxe\)](https://open.spotify.com/album/3YVFjLQyt1RBXxl3pifOVw) | 2:48 |
+| 114 | [Free](https://open.spotify.com/track/2wZhh84WylENwS23foVHkF) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Free](https://open.spotify.com/album/5pvr0eVCCJainwXBc6XwnA) | 3:46 |
+| 115 | [tiny little titties](https://open.spotify.com/track/09jmvYB5lVdvLeKxkjtCcW) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [serious person \(part 1\)](https://open.spotify.com/album/6gg1EATMm8D7SM4YxPnXZ4) | 3:04 |
+| 116 | [Fuckedupminddd](https://open.spotify.com/track/1utfH4im9foOZg7AgeMpKr) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 2:54 |
+| 117 | [Empathy](https://open.spotify.com/track/5zICqxSi9MRZNmpuaTWfBj) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Empathy](https://open.spotify.com/album/3EdQVRzyA5pRExPGNqZZ7E) | 3:34 |
+| 118 | [Star Potential](https://open.spotify.com/track/6TjqmtO3H55Ey6nNJCG0FE) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Star Potential](https://open.spotify.com/album/4yHhW0tJ06QGsIBSpFRchc) | 3:02 |
+| 119 | [Can't Say No](https://open.spotify.com/track/4NKFLpXmmaqqyAOJAgMtP7) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Through](https://open.spotify.com/album/4J0kTKU9ORIpmECus6dTsR) | 2:58 |
+| 120 | [Teenage Self](https://open.spotify.com/track/6OldSvtQa4kQoTSaWzsSlR) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 1:51 |
+| 121 | [Most Viewed](https://open.spotify.com/track/0YYJRs8ENvqnU7BQf8wVrm) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Most Viewed](https://open.spotify.com/album/1tQArKbrcX6BbyVED8aIYr) | 3:14 |
+| 122 | [no one cares](https://open.spotify.com/track/0aQXCpOF4zFstiNhWAGtXD) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [no one cares](https://open.spotify.com/album/05YHG0o3540O1xXDSAyx0j) | 3:00 |
+| 123 | [Mom Song](https://open.spotify.com/track/2nD16TvMgRJL15XRfy8Bju) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Late Start](https://open.spotify.com/album/6TrJSxKjdKynXNEwt42PbF) | 2:35 |
+| 124 | [death](https://open.spotify.com/track/2VrMoRFZLk2NYuZpfxC06B) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [committed to a bit](https://open.spotify.com/album/7pzCbXIKBn1wqJSNI8icip) | 3:44 |
+| 125 | [Wrong](https://open.spotify.com/track/5FWCrwlmk1Kq1jy8khhxvA) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Heavy Love](https://open.spotify.com/album/4g30lAhSUDEOUhs4Izez2s) | 3:12 |
+| 126 | [Off\-World](https://open.spotify.com/track/7actzHWTsZYrimLJtDUGEC) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Off\-World](https://open.spotify.com/album/4ffjvDRam4xYWMy85hNtdb) | 3:40 |
+| 127 | [It's Mean When You Don't Mean It](https://open.spotify.com/track/06qDeXAlTAspztapKBCQXs) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [The Wrong Side of 25](https://open.spotify.com/album/1ts3tatZuXKtmyTbyqybKS) | 4:09 |
+| 128 | [Ponytail](https://open.spotify.com/track/356sykgkwuqWnvXwq1M1l0) | [XO](https://open.spotify.com/artist/3uRDnagY9HyAPIo7Y34V4r) | [Fashionably Late](https://open.spotify.com/album/1NJ9tmNuz88hJ10dPLLOQH) | 2:36 |
+| 129 | [lie to myself](https://open.spotify.com/track/5p60aTSUb3ZLG1HbUbuJLW) | [amber\-liz](https://open.spotify.com/artist/1OWB13bPhotfvAdQjiIdP5) | [lie to myself](https://open.spotify.com/album/1xtYNQqeWrRvhraE3uiWcs) | 2:33 |
 
-Snapshot ID: `AcKvHgAAAABW9wZ13zIECFPLkAvYoWWB`
+Snapshot ID: `AcK0ggAAAAB/r0G/hgOuRfCKbmQ0aDtA`

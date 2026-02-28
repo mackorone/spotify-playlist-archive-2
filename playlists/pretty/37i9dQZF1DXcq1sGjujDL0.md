@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq1sGjujDL0.md) - [plain]
 
 > Só pra quem usa a colher de pau como microfone.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,986 likes - 60 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,996 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,13 +21,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq1sGjujDL0.md) - [plain]
 | 11 | [How Deep Is Your Love](https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 4:05 |
 | 12 | [Crazy](https://open.spotify.com/track/1vxw6aYJls2oq3gW0DujAo) | [Gnarls Barkley](https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [St\. Elsewhere](https://open.spotify.com/album/5I0Wf7lRLZArM1K2uQ1AEA) | 2:57 |
 | 13 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:53 |
-| 14 | [Time After Time](https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 4:05 |
-| 15 | [Don't Stop 'Til You Get Enough](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 6:04 |
+| 14 | [Don't Stop 'Til You Get Enough](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 6:04 |
+| 15 | [Time After Time](https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 4:05 |
 | 16 | [Hung Up](https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:37 |
 | 17 | [My Girl](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) | 2:45 |
 | 18 | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA) | 4:07 |
-| 19 | [You're The One That I Want \- From “Grease”](https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 2:49 |
-| 20 | [Billie Jean](https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:53 |
+| 19 | [Billie Jean](https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:53 |
+| 20 | [You're The One That I Want \- From “Grease”](https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 2:49 |
 | 21 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB) | 3:56 |
 | 22 | [Sexual Healing](https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Midnight Love](https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm) | 3:58 |
 | 23 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq1sGjujDL0.md) - [plain]
 | 57 | [Your Song](https://open.spotify.com/track/2WAO1qTCK2SUef8c3GiXeF) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Love Songs](https://open.spotify.com/album/74RK3gsxjigff01cRt7pLL) | 6:33 |
 | 58 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/4rmPQGwcLQjCoFq5NrTA0D) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/album/0tWBtc7le3TMo1gDdGyJVI) | 4:30 |
 | 59 | [Nel blu dipinto di blu \(Volare\) \- Remastered](https://open.spotify.com/track/6jUghjdX9fZyjsjcx4VdAG) | [Domenico Modugno](https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI) | [The Italian Stars \(Original Recordings Remastered\)](https://open.spotify.com/album/57flpga8SEY4iCaBwwTKNg) | 3:37 |
-| 60 | [Stayin' Alive \- 2007 Remastered Version Saturday Night Fever](https://open.spotify.com/track/5cP52DlDN9yryuZVQDg3iq) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Saturday Night Fever \[The Original Movie Soundtrack\]](https://open.spotify.com/album/0taUwU7qjtc9lvwmd7FKac) | 4:45 |
+| 60 | [Upside Down](https://open.spotify.com/track/57Y3UccJEJqT8w8RWkUAz0) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/0Gy4phN6Xwx4uyskE7Wkls) | 4:04 |
 
 Snapshot ID: `AAAAAEtaJjOUluFxKFxnOrqyUDqLJau2`

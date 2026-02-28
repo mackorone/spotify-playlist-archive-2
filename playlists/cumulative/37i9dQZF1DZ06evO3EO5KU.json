@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "Aqu\u00ed Sigues T\u00fa",
+        "url": "https://open.spotify.com/album/1NO5Jfuoe0b34Tszpk41wj"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262337,
+      "name": "Aqu\u00ed Sigues T\u00fa",
+      "url": "https://open.spotify.com/track/4JBVBolRrTPpRYjBGBaQot"
+    },
+    {
+      "album": {
         "name": "Asi Me La Llevo",
         "url": "https://open.spotify.com/album/2a8OztEUFX2sRTPhexhm4b"
       },
@@ -2080,7 +2098,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 282349,
       "name": "Me Llamas - En Vivo",
       "url": "https://open.spotify.com/track/1fwGf1n0CaEuwA87zLZINk"
@@ -2102,6 +2120,28 @@
       "duration_ms": 282349,
       "name": "Me Llamas - En Vivo",
       "url": "https://open.spotify.com/track/4pAHKSc9AbM5JUKlTFBiAD"
+    },
+    {
+      "album": {
+        "name": "EN VIVO con Banda Sinaloense La Tuyia de Culiac\u00e1n, Sinaloa (En Vivo)",
+        "url": "https://open.spotify.com/album/2FvlCAa5PTlKkAfH1FIC5C"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Banda Sinaloense La Tuyia de Culiac\u00e1n",
+          "url": "https://open.spotify.com/artist/7whx9sO2nsmw8znriXYrW2"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282353,
+      "name": "Me Llamas - En Vivo",
+      "url": "https://open.spotify.com/track/3SqC8hNt1YsnlJj1uYPWCw"
     },
     {
       "album": {
@@ -2152,7 +2192,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 161054,
       "name": "Mi Soledad",
       "url": "https://open.spotify.com/track/02EkhOrPz6K4axWJkJe7fK"
@@ -2174,6 +2214,24 @@
       "duration_ms": 161054,
       "name": "Mi Soledad",
       "url": "https://open.spotify.com/track/34INKokSiDUJb1XbmPJdRQ"
+    },
+    {
+      "album": {
+        "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/2SqFgos4euGZwKMiGZ4YEJ"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161054,
+      "name": "Mi Soledad",
+      "url": "https://open.spotify.com/track/3Bqrzz0mct6zzIyYeXjSK2"
     },
     {
       "album": {
@@ -2666,10 +2724,28 @@
       ],
       "date_added": "2025-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 212362,
       "name": "Sangre por Sangre - En Vivo",
       "url": "https://open.spotify.com/track/14wUtTyH3kshtelfPQ44gd"
+    },
+    {
+      "album": {
+        "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/2SqFgos4euGZwKMiGZ4YEJ"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195125,
+      "name": "Seg\u00fan Tus Labios",
+      "url": "https://open.spotify.com/track/0l7okR2i9ylxm1GbauQHzE"
     },
     {
       "album": {
@@ -2684,7 +2760,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 195125,
       "name": "Seg\u00fan Tus Labios",
       "url": "https://open.spotify.com/track/4KlUAwn0cVf09M33LKUu1q"
@@ -2944,7 +3020,7 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 199773,
       "name": "Tres Botellas",
       "url": "https://open.spotify.com/track/03mFB2ot7uqND6aBYhwZBM"
@@ -2966,6 +3042,24 @@
       "duration_ms": 199773,
       "name": "Tres Botellas",
       "url": "https://open.spotify.com/track/1QHZkNm7jcSrvtFPwnB0zK"
+    },
+    {
+      "album": {
+        "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/2SqFgos4euGZwKMiGZ4YEJ"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199773,
+      "name": "Tres Botellas",
+      "url": "https://open.spotify.com/track/32ZUnlNEvQ8sgVi3xTtCci"
     },
     {
       "album": {

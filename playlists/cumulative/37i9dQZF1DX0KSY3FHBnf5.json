@@ -92,7 +92,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 182623,
       "name": "3 am walk",
       "url": "https://open.spotify.com/track/6mFsMkwQi9onAvRZNlWvhJ"
@@ -419,6 +419,46 @@
     },
     {
       "album": {
+        "name": "back then",
+        "url": "https://open.spotify.com/album/4qW7jLDMO9pc4sndeCRLet"
+      },
+      "artists": [
+        {
+          "name": "cepalin",
+          "url": "https://open.spotify.com/artist/6sHzKEPZZq45XtUpJ7V4p2"
+        },
+        {
+          "name": "bobby.wav",
+          "url": "https://open.spotify.com/artist/1riJL2BmtdTAOaqVKkb88V"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104502,
+      "name": "back then",
+      "url": "https://open.spotify.com/track/3mxJVcqphi44zXxGhZVqne"
+    },
+    {
+      "album": {
+        "name": "barely alive",
+        "url": "https://open.spotify.com/album/39kQpEt4KZrB4U7RV2irxq"
+      },
+      "artists": [
+        {
+          "name": "slipdream",
+          "url": "https://open.spotify.com/artist/4dVNhXv8UM1MVeDzswLb80"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141052,
+      "name": "barely alive",
+      "url": "https://open.spotify.com/track/0wYfnN2nWNlSC4X8GssK6Z"
+    },
+    {
+      "album": {
         "name": "before winter's call",
         "url": "https://open.spotify.com/album/56sJTZ8VE5PrKVZN997433"
       },
@@ -482,6 +522,24 @@
       "duration_ms": 176000,
       "name": "big dreams",
       "url": "https://open.spotify.com/track/35ebR4DqVFQuKKEbfVy5QB"
+    },
+    {
+      "album": {
+        "name": "Bioluminescent",
+        "url": "https://open.spotify.com/album/10Qb6ufKlWSm1wH8Q4RElk"
+      },
+      "artists": [
+        {
+          "name": "LMR Records",
+          "url": "https://open.spotify.com/artist/3fjujrPPhls0OtFKnwXnkP"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118201,
+      "name": "Bioluminescent",
+      "url": "https://open.spotify.com/track/1b3iUSzoslK19LzK0iwCaR"
     },
     {
       "album": {
@@ -623,6 +681,24 @@
     },
     {
       "album": {
+        "name": "burning memories",
+        "url": "https://open.spotify.com/album/4QGT5JT7fQEaUP3CIUctP5"
+      },
+      "artists": [
+        {
+          "name": "Unnholy",
+          "url": "https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98126,
+      "name": "burning memories",
+      "url": "https://open.spotify.com/track/6vzpm2Q4NPpuowQG7pNtUg"
+    },
+    {
+      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/7s5eowxjxvNsyob3EuiHUM"
       },
@@ -696,6 +772,24 @@
       "duration_ms": 131356,
       "name": "Chamber Stone",
       "url": "https://open.spotify.com/track/1nVNYYdWWRSWIwsfzjkKfr"
+    },
+    {
+      "album": {
+        "name": "changes",
+        "url": "https://open.spotify.com/album/3MIhK4b8ngqjKlxl0sdrk9"
+      },
+      "artists": [
+        {
+          "name": "ambit.",
+          "url": "https://open.spotify.com/artist/1OXRInYKrZWZ3z6f099iaB"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129049,
+      "name": "changes",
+      "url": "https://open.spotify.com/track/1FVIw75jfuIuf1WP4NMYQC"
     },
     {
       "album": {
@@ -806,6 +900,28 @@
       "duration_ms": 264724,
       "name": "Coherence - Circle 42",
       "url": "https://open.spotify.com/track/2WGm7UQQHx4qbES6JpfILP"
+    },
+    {
+      "album": {
+        "name": "cold days",
+        "url": "https://open.spotify.com/album/7853R5HokgHQbUiNUC6zuA"
+      },
+      "artists": [
+        {
+          "name": "R\u014d\u014dh",
+          "url": "https://open.spotify.com/artist/4iv8oWq1lizY7C7bmB5HzB"
+        },
+        {
+          "name": "sh\u00f8uldz",
+          "url": "https://open.spotify.com/artist/4v5fu4yQqm0cOdODG9eRBc"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84032,
+      "name": "cold days",
+      "url": "https://open.spotify.com/track/6R3ES5wkoWD2xPYiesoVjA"
     },
     {
       "album": {
@@ -1350,7 +1466,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 200920,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/5iGXJnmP8rDhcaMa3KnBTB"
@@ -1648,6 +1764,24 @@
       "duration_ms": 117446,
       "name": "Fable",
       "url": "https://open.spotify.com/track/6aFgTeAArLgNBlt1lcVF3o"
+    },
+    {
+      "album": {
+        "name": "Fall Apart",
+        "url": "https://open.spotify.com/album/5pcxgKPB77lURQkMI3HklK"
+      },
+      "artists": [
+        {
+          "name": "where??",
+          "url": "https://open.spotify.com/artist/6bUr4trSlpbXmrXvVhRuRL"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265600,
+      "name": "Fall Apart",
+      "url": "https://open.spotify.com/track/5WbQA8KBThI8MQq3yis3ng"
     },
     {
       "album": {
@@ -2211,6 +2345,42 @@
     },
     {
       "album": {
+        "name": "health status: empty",
+        "url": "https://open.spotify.com/album/3AxzAEd2CgWwIvakD0UdnF"
+      },
+      "artists": [
+        {
+          "name": "jakub.",
+          "url": "https://open.spotify.com/artist/7hUhXAakX6BPEcosMTAPUI"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101052,
+      "name": "health status: empty",
+      "url": "https://open.spotify.com/track/56K8iVHtnzSpuHpGdydpSo"
+    },
+    {
+      "album": {
+        "name": "heart shut down",
+        "url": "https://open.spotify.com/album/2NyLqKqU9Lv4yvMTaXwvdC"
+      },
+      "artists": [
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139459,
+      "name": "heart shut down",
+      "url": "https://open.spotify.com/track/1Xw3lylOByAdMHHSrk9DNP"
+    },
+    {
+      "album": {
         "name": "heartbroken",
         "url": "https://open.spotify.com/album/6VJ2Q2lRo4ctJQuBePHLEg"
       },
@@ -2364,6 +2534,24 @@
       "duration_ms": 103200,
       "name": "hummingbird",
       "url": "https://open.spotify.com/track/7Le9FkXJJqPLkIF18WTprA"
+    },
+    {
+      "album": {
+        "name": "I can't describe what I'm feeling (remixes)",
+        "url": "https://open.spotify.com/album/3yO73ao6bvjaRiCRGUDFpw"
+      },
+      "artists": [
+        {
+          "name": "lyr\u03bbmbient",
+          "url": "https://open.spotify.com/artist/2yTJYxhglamTW9F83R8wSV"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185636,
+      "name": "I can't describe what I'm feeling (slowed)",
+      "url": "https://open.spotify.com/track/1IYXrRCutlougKvkCdtZkg"
     },
     {
       "album": {
@@ -2894,7 +3082,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 250917,
       "name": "Long Road Home - Ambient Version",
       "url": "https://open.spotify.com/track/6YMHz1DUfIsBtN5gkTX3E8"
@@ -3104,6 +3292,28 @@
       "duration_ms": 98322,
       "name": "loyalty",
       "url": "https://open.spotify.com/track/1OYrYL2SxZGTG566YtEDCz"
+    },
+    {
+      "album": {
+        "name": "luminescent memories",
+        "url": "https://open.spotify.com/album/4jNGNfaTzsYLkEihrBIpCL"
+      },
+      "artists": [
+        {
+          "name": "arancina",
+          "url": "https://open.spotify.com/artist/5YdVyeU1XSouFk8VBSfLAO"
+        },
+        {
+          "name": "distvnt",
+          "url": "https://open.spotify.com/artist/5N92pkygd7ftsemgq1iLxO"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124481,
+      "name": "luminescent memories",
+      "url": "https://open.spotify.com/track/0Fz9i8eDCdTqFZNOGBP0c1"
     },
     {
       "album": {
@@ -3344,6 +3554,24 @@
       "duration_ms": 180965,
       "name": "Murmur Forest",
       "url": "https://open.spotify.com/track/0TaZ1jEMVJ4AUlKpsCABcr"
+    },
+    {
+      "album": {
+        "name": "my cosmos",
+        "url": "https://open.spotify.com/album/7ocvjc7c4vv36atCWYnm1N"
+      },
+      "artists": [
+        {
+          "name": "I'm flying",
+          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87272,
+      "name": "my cosmos",
+      "url": "https://open.spotify.com/track/2SZRuGyRgHdGjDJqPShumU"
     },
     {
       "album": {
@@ -3728,7 +3956,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 484311,
       "name": "Old Dream",
       "url": "https://open.spotify.com/track/6q3VgaiJGI3MoB64ygMEyW"
@@ -3887,6 +4115,24 @@
     },
     {
       "album": {
+        "name": "paranoia",
+        "url": "https://open.spotify.com/album/0eoM2CZ2qKJNdQckZuUBiz"
+      },
+      "artists": [
+        {
+          "name": "inside of my head.",
+          "url": "https://open.spotify.com/artist/6F1GS2DD776dXGpo7nzElq"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144039,
+      "name": "paranoia",
+      "url": "https://open.spotify.com/track/5r4auqBxZ4EH0Abqk7DUrh"
+    },
+    {
+      "album": {
         "name": "peaceful silence",
         "url": "https://open.spotify.com/album/5RtfQnpJOg163dJBGm0ALH"
       },
@@ -3942,6 +4188,24 @@
       "duration_ms": 108923,
       "name": "pulsar",
       "url": "https://open.spotify.com/track/33cXVAoxpOHTHkt2KdqC9c"
+    },
+    {
+      "album": {
+        "name": "rapture",
+        "url": "https://open.spotify.com/album/31tVwSSJgpjV0FxoJj5cJA"
+      },
+      "artists": [
+        {
+          "name": "plutonia",
+          "url": "https://open.spotify.com/artist/17EqVy5EtAHerTWHJ9Pwiv"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165232,
+      "name": "rapture",
+      "url": "https://open.spotify.com/track/7hXMbwUWu3kdOnd4bfwzu3"
     },
     {
       "album": {
@@ -4272,7 +4536,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 225000,
       "name": "Saturna",
       "url": "https://open.spotify.com/track/1kkzd4515STvL7AJDeoTmu"
@@ -5297,6 +5561,28 @@
     },
     {
       "album": {
+        "name": "waiting",
+        "url": "https://open.spotify.com/album/6nTdLGjrX0kgzvn8MYCmwr"
+      },
+      "artists": [
+        {
+          "name": "ID10",
+          "url": "https://open.spotify.com/artist/6AZ1XtXdaFlXxadYdUijtX"
+        },
+        {
+          "name": "fauxe.",
+          "url": "https://open.spotify.com/artist/681FiFPQPUSRknJn11zylo"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "waiting - slowed + reverb",
+      "url": "https://open.spotify.com/track/2w9GSFL71sjqUbHkmQEOZc"
+    },
+    {
+      "album": {
         "name": "walking through water",
         "url": "https://open.spotify.com/album/0Il7YiZt5QYTjBGj5I38dh"
       },
@@ -5330,7 +5616,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 110017,
       "name": "we are floating in space",
       "url": "https://open.spotify.com/track/2n9YpCJTDUb6o5SqmOFyV5"

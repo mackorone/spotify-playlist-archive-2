@@ -2313,6 +2313,24 @@
     },
     {
       "album": {
+        "name": "REVIVE+",
+        "url": "https://open.spotify.com/album/5T94fnmXJxSmPVjWb6M50x"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Super ICY (LEESEO Solo)",
+      "url": "https://open.spotify.com/track/0DxvB5z7FTzI8KFlFTwyWm"
+    },
+    {
+      "album": {
         "name": "Oshean View 2",
         "url": "https://open.spotify.com/album/5x5jN2DA9CUrW9lrJfPYOS"
       },

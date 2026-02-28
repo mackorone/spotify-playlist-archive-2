@@ -291,6 +291,24 @@
     },
     {
       "album": {
+        "name": "Ore",
+        "url": "https://open.spotify.com/album/0SiGD27Z9eblEQQMdpBCLK"
+      },
+      "artists": [
+        {
+          "name": "ena mori",
+          "url": "https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "19 Underground",
+      "url": "https://open.spotify.com/track/3AKzOFfv7b3WSuBmjFxMdp"
+    },
+    {
+      "album": {
         "name": "1994",
         "url": "https://open.spotify.com/album/2a20lEnbWdct9J2wI0J6lH"
       },
@@ -13434,7 +13452,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 125815,
       "name": "GLOW. (Blusher Remix)",
       "url": "https://open.spotify.com/track/2EHLYHcY5n1VetFu2Te0Mv"
@@ -13456,6 +13474,24 @@
       "duration_ms": 137316,
       "name": "Gnarly",
       "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL"
+    },
+    {
+      "album": {
+        "name": "DEADLINE",
+        "url": "https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195402,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB"
     },
     {
       "album": {

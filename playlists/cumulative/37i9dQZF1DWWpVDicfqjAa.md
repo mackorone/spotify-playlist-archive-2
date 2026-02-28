@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5ITI6SEoUZMIXXkzCfr4oE">Aluna</a>'s favorite tracks\. Updated regularly\. Curated by Aluna\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-370 songs - 22 hr 45 min
+372 songs - 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Happy Ending](https://open.spotify.com/track/1Szz2K6zjz3tbHJFfuIb4E) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:08 | 2023-02-09 | 2023-03-18 |
 | [Happy Ending](https://open.spotify.com/track/3nv43IARMsDxgfHHpEfeCQ) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Happy Ending](https://open.spotify.com/album/4qInGWd8oKXlKxZCdqS8EL) | 4:08 | 2022-11-19 | 2023-02-03 |
 | [Happy Ending](https://open.spotify.com/track/6RxVB52FcxiuH3moPgTNj7) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Happy Ending](https://open.spotify.com/album/40QuFWLaRkdedUKlhUTPeR) | 4:08 | 2023-01-30 | 2023-02-14 |
+| [HARD](https://open.spotify.com/track/5AzO8bswSqsYtJIfVA2BqX) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA Afterglow](https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM) | 3:34 | 2026-02-27 |  |
 | [Harder \(Shermanology Remix\)](https://open.spotify.com/track/3hVIIqBnoSXWxlUQRWikYL) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Harder \(With Busta Rhymes\) \- Shermanology Remix](https://open.spotify.com/album/2YKdhOGgOq29ImtFWvwin2) | 6:31 | 2022-10-27 | 2022-11-20 |
 | [Heatstroke](https://open.spotify.com/track/6i2E8aGMDCLYVhX2LI0YwH) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV) | [Heatstroke](https://open.spotify.com/album/7CqdojwzqTaoYu74bVwfmQ) | 2:46 | 2024-06-07 |  |
 | [HI MY NAME IS](https://open.spotify.com/track/4BIG0loMauvi6cRICJ8Z8y) | [Farrah Fawx](https://open.spotify.com/artist/5xcBwfNxf3WXLFZcNhu2Cy), [CARLA](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [HI MY NAME IS](https://open.spotify.com/album/5m0Y7PFytk33nQoBKhU09M) | 2:19 | 2024-12-27 |  |
@@ -148,6 +149,7 @@
 | [House of Helix](https://open.spotify.com/track/66fMWRocZy1nESetjcKcj6) | [CalvoMusic](https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo) | [Nights Into Mornings EP](https://open.spotify.com/album/6wgYPnFPjoD178hdY6cvea) | 3:22 | 2023-04-14 | 2023-07-21 |
 | [I've Arrived \(with Tomike\)](https://open.spotify.com/track/2EPbupudXMt2oYC3iyl31o) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [I've Arrived \(with Tomike\)](https://open.spotify.com/album/2W1UzcHNaKiSHpbAgMnWZM) | 2:30 | 2024-12-27 |  |
 | [Icky Boyz](https://open.spotify.com/track/277hRJkk5W8GKzdBZ67Q1l) | [Storm Mollison](https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC), [Crybaby](https://open.spotify.com/artist/68sTQgQtPe9e4Bb7OtoqET) | [Icky Boyz](https://open.spotify.com/album/4Wi5VeEYchfdVcThpnC7Tn) | 2:23 | 2024-12-27 |  |
+| [Illusion](https://open.spotify.com/track/7CVEZE9RSUO3MfdqF4TRgv) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [Illusion](https://open.spotify.com/album/2x5ye8DOvnqm9csJAHUbmW) | 2:23 | 2026-02-27 |  |
 | [Impossible \- Jax Jones Remix](https://open.spotify.com/track/2wIOPCQd8yC90Xxbwo6w0B) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Impossible \(Remixes\)](https://open.spotify.com/album/3MadsCbTHSp47zATZr1wdJ) | 3:54 | 2024-07-22 |  |
 | [Inhale Exhale](https://open.spotify.com/track/0jl8XWES6VNZ5eMVvzZN0M) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [Inhale Exhale](https://open.spotify.com/album/4PgKGF2Ey6keEkcbqGpAGv) | 3:25 | 2023-02-17 | 2024-05-18 |
 | [Intersexy](https://open.spotify.com/track/1L0nJ5i4BWQJf2LzAi3pEw) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Intersexy](https://open.spotify.com/album/0sP3HEYlXpD3cJTk3g2NNm) | 4:41 | 2024-12-27 |  |

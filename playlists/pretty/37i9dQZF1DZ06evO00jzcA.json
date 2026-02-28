@@ -1,12 +1,12 @@
 {
   "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 485557,
+  "num_followers": 485581,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAAAdO/FgT650YQbu8E2XSBeX",
+  "snapshot_id": "aZ+NAAAAAADRNHgdUXLZItwGdeOvGgaC",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dressed To Kill (2025 Remaster)",
-        "url": "https://open.spotify.com/album/4ekx5nOmLLxYPLLoV6t8RD"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 178669,
-      "name": "C'mon And Love Me - 2025 Remaster",
-      "url": "https://open.spotify.com/track/0m6u2yOY5AYgMkGvRliCsp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 259079,
       "name": "Rock 'N' Roll All Nite - Live",
       "url": "https://open.spotify.com/track/19FX445jYl2XFNKvVKJ9NJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dressed To Kill (2025 Remaster)",
+        "url": "https://open.spotify.com/album/4ekx5nOmLLxYPLLoV6t8RD"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 178669,
+      "name": "C'mon And Love Me - 2025 Remaster",
+      "url": "https://open.spotify.com/track/0m6u2yOY5AYgMkGvRliCsp"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dynasty",
-        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
+        "name": "Love Gun",
+        "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 295386,
-      "name": "2,000 Man",
-      "url": "https://open.spotify.com/track/3TjM3SIVQksTj3pNVUZPv8"
+      "duration_ms": 226773,
+      "name": "Shock Me",
+      "url": "https://open.spotify.com/track/39hfj6Tnqgsxn7jGTfWl18"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Gun",
-        "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 226773,
-      "name": "Shock Me",
-      "url": "https://open.spotify.com/track/39hfj6Tnqgsxn7jGTfWl18"
+      "duration_ms": 295386,
+      "name": "2,000 Man",
+      "url": "https://open.spotify.com/track/3TjM3SIVQksTj3pNVUZPv8"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dynasty",
-        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
+        "name": "Love Gun",
+        "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 282226,
-      "name": "Magic Touch",
-      "url": "https://open.spotify.com/track/3gAnPHRoANSRwp1gwv5p2m"
+      "duration_ms": 184960,
+      "name": "I Stole Your Love",
+      "url": "https://open.spotify.com/track/7qj6lBOB1QTgBmKedXuIbs"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Gun",
-        "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 184960,
-      "name": "I Stole Your Love",
-      "url": "https://open.spotify.com/track/7qj6lBOB1QTgBmKedXuIbs"
+      "duration_ms": 282226,
+      "name": "Magic Touch",
+      "url": "https://open.spotify.com/track/3gAnPHRoANSRwp1gwv5p2m"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
       "duration_ms": 213000,
       "name": "Do You Love Me",
       "url": "https://open.spotify.com/track/6KbSviXtYJuPG3FbTvJZSI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dynasty",
-        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 267933,
-      "name": "Dirty Livin'",
-      "url": "https://open.spotify.com/track/159RwMV9yxgOBk0aXhs3sq"
     },
     {
       "added_at": null,
@@ -683,6 +667,22 @@
       "duration_ms": 198466,
       "name": "Turn On The Night",
       "url": "https://open.spotify.com/track/3L5dCw2G1sNtAaZ0cqUBnY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 267933,
+      "name": "Dirty Livin'",
+      "url": "https://open.spotify.com/track/159RwMV9yxgOBk0aXhs3sq"
     },
     {
       "added_at": null,
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 149720,
-      "name": "See You Tonight - Live",
-      "url": "https://open.spotify.com/track/57zKsBEPheQbBBsNFs35Sy"
+      "duration_ms": 175013,
+      "name": "Beth - Live",
+      "url": "https://open.spotify.com/track/5cPISbao7sZ27Cxj3la7lT"
     },
     {
       "added_at": null,
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 175013,
-      "name": "Beth - Live",
-      "url": "https://open.spotify.com/track/5cPISbao7sZ27Cxj3la7lT"
+      "duration_ms": 149720,
+      "name": "See You Tonight - Live",
+      "url": "https://open.spotify.com/track/57zKsBEPheQbBBsNFs35Sy"
     },
     {
       "added_at": null,

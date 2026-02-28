@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > Belleza y distorsión imaginada por bandas iberoamericanas\. Sueño A Marte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,346 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,363 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 38 | [Morning Sun](https://open.spotify.com/track/5ObGH4iynfz5WQ8KJAYpbZ) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv), [Z.A.M.P.A](https://open.spotify.com/artist/2Om6U6DwLuSX7WTVC9Nce2) | [Morning Sun](https://open.spotify.com/album/5ASteoHCRzSBltEuaP1kmh) | 4:27 |
 | 39 | [Lazy Lovers](https://open.spotify.com/track/223R25sVUNY4QCvA7XjkNk) | [Trementina](https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X) | [Almost Reach the Sun](https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS) | 3:57 |
 | 40 | [Shallow](https://open.spotify.com/track/7mrG4CWCjYiWWfSiYLdoxg) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Flash Memory](https://open.spotify.com/album/1z264tIT1BVy9CgA9hJkv1) | 2:15 |
-| 41 | [Mil Espejos](https://open.spotify.com/track/5W7CsTIjb4LNKujDtqutGc) | [Nudozurdo](https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0) | [Sintetica](https://open.spotify.com/album/6D2b3pORKyOOwZwJ4InjXe) | 4:33 |
-| 42 | [Figura de Cristal](https://open.spotify.com/track/4aZIaHfXGIcDFMCrGaEoFS) | [Estrella del Sol](https://open.spotify.com/artist/5oQPWni89oK2A4pM3TLFh0) | [Figura de Cristal](https://open.spotify.com/album/7Fj3Ex7rvD1rjHJMYPPoVH) | 3:00 |
+| 41 | [Figura de Cristal](https://open.spotify.com/track/4aZIaHfXGIcDFMCrGaEoFS) | [Estrella del Sol](https://open.spotify.com/artist/5oQPWni89oK2A4pM3TLFh0) | [Figura de Cristal](https://open.spotify.com/album/7Fj3Ex7rvD1rjHJMYPPoVH) | 3:00 |
+| 42 | [Mil Espejos](https://open.spotify.com/track/5W7CsTIjb4LNKujDtqutGc) | [Nudozurdo](https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0) | [Sintetica](https://open.spotify.com/album/6D2b3pORKyOOwZwJ4InjXe) | 4:33 |
 | 43 | [más tiempo](https://open.spotify.com/track/0Z0CnfVm3VSHD9jtiemuRe) | [Policias y Ladrones](https://open.spotify.com/artist/6Y9quCNVfxgIE308HSMpEd) | [más tiempo](https://open.spotify.com/album/5ZLljWH8uDb0oJBYpXJKfX) | 3:27 |
 | 44 | [Cosas Invisibles](https://open.spotify.com/track/33R9nKgwAP04xQfPh0HZ56) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Cosas Invisibles](https://open.spotify.com/album/2dKZE2m8hRSWHPoPZpXFGf) | 4:00 |
 | 45 | [No Sé a Quién Matar](https://open.spotify.com/track/2GblwI1Lhuwxd4bMkENMem) | [No sé a quién matar](https://open.spotify.com/artist/4FVmReIogKhsocFmvBPLAV) | [No Sé a Quién Matar](https://open.spotify.com/album/0X7ZQoSMpEiDJHHBo0otkS) | 3:39 |

@@ -4,7 +4,7 @@
 
 > Lagu\-lagu sedih yang menyayat hati 😭
 
-254 songs - 17 hr 34 min
+256 songs - 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Ini Panggung Sandiwara](https://open.spotify.com/track/5Myzlwe1UqFUeMMCP5WbUX) | [Sarwendah](https://open.spotify.com/artist/5UBkLLBPICz1UoMehxUN86) | [Ini Panggung Sandiwara](https://open.spotify.com/album/5xrCorNSSyFkMWaSjocK83) | 4:00 | 2025-03-24 | 2025-04-15 |
 | [It's Only Me \- Studio Version](https://open.spotify.com/track/2CoxJRIhTKvHyFIq9FcDO5) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [It's Only Me \(Studio Version\)](https://open.spotify.com/album/2BQkplVABAVVOzvZzRkBQ4) | 3:23 | 2022-11-28 | 2023-05-19 |
 | [Itu Aku](https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Renung Resah](https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj) | 3:42 | 2023-06-07 | 2023-07-27 |
+| [Jangan Paksa Rindu \- Beda](https://open.spotify.com/track/5PW7zDYYMCrR2BsfiieCOk) | [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [Jangan Paksa Rindu \(Beda\)](https://open.spotify.com/album/1JF51ZL4beqyoP0NrmzLqn) | 4:05 | 2026-02-27 |  |
 | [Jangan Pernah Kembali](https://open.spotify.com/track/4liHGe5HApRR21pCMkImM2) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Melangkah](https://open.spotify.com/album/2y28ojd9lBvtJjgoGgCLov) | 3:33 | 2024-11-13 | 2025-05-20 |
 | [Jatuh Rapuh](https://open.spotify.com/track/5NmL2p9TXa9H17LoCyCKJS) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Jatuh Rapuh](https://open.spotify.com/album/3uX5S5Lrm7mHT22OFt3q00) | 4:30 | 2025-01-16 | 2025-02-04 |
 | [Jiwa Yang Bersedih](https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Jiwa Yang Bersedih](https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL) | 4:38 | 2023-06-14 | 2025-11-05 |
@@ -99,7 +100,7 @@
 | [Kelingan Mantan](https://open.spotify.com/track/3w09eeWmgkLz5BISaqcpgm) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [NDX A.K.A\. Familia](https://open.spotify.com/album/2tkko0H0gYzg3jwEzfJQuc) | 3:19 | 2024-08-15 | 2024-09-03 |
 | [Kembali Untukku](https://open.spotify.com/track/7tO9cYgyaQyBLEQEf50R0s) | [Febinda Tito](https://open.spotify.com/artist/538SnQc3YoJ96cIs2mpTaZ) | [Kembali Untukku](https://open.spotify.com/album/3HqPvgG8iwbCdYOzRPBmUx) | 3:29 | 2025-06-23 | 2025-07-01 |
 | [Kenangan Terindah](https://open.spotify.com/track/5TtmfZaNSYEcTR49cureT0) | [SAMSONS](https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp) | [Naluri Lelaki \(Special Edition\)](https://open.spotify.com/album/7Ls7Id4vLjwONTyxywzrg7) | 4:07 | 2022-11-28 | 2024-04-16 |
-| [Keras Kepala](https://open.spotify.com/track/5l3jhWIfRg1FeKgw7R1jWb) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Hanya Figuran](https://open.spotify.com/album/7lhbsQ75nktdtQNlwa06Gy) | 4:56 | 2024-07-30 |  |
+| [Keras Kepala](https://open.spotify.com/track/5l3jhWIfRg1FeKgw7R1jWb) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Hanya Figuran](https://open.spotify.com/album/7lhbsQ75nktdtQNlwa06Gy) | 4:56 | 2024-07-30 | 2026-02-28 |
 | [Khanti \(Original Soundtrack from Bidadari Bermata Bening\)](https://open.spotify.com/track/3UAqNuP74Su2h7zOXXIbWm) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Khanti \(Original Soundtrack from Bidadari Bermata Bening\)](https://open.spotify.com/album/2ff9pyMaCGKVhltK61VYTb) | 3:25 | 2023-06-09 | 2023-06-15 |
 | [Kini](https://open.spotify.com/track/5AIAQ8Si5Gx9xFT3n3U3Jl) | [Daun Jatuh](https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI) | [Kini](https://open.spotify.com/album/46DOpLwkpDlUHfPusJ91cB) | 3:37 | 2024-05-24 | 2024-07-24 |
 | [Kisah Penuh Kecewa](https://open.spotify.com/track/0GiI82kfAuTows8dlKdABu) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Kisah Penuh Kecewa](https://open.spotify.com/album/2QQvBiCR66jEhRYrt3R6yc) | 3:53 | 2025-07-28 | 2025-08-04 |
@@ -143,7 +144,7 @@
 | [Menunggumu Sampai Akhir Hidup](https://open.spotify.com/track/6vPs2QpyHKvYJ9Bq7CQaUu) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Menunggumu Sampai Akhir Hidup](https://open.spotify.com/album/2GtB6vMtpUwsQ2yqiandyJ) | 4:11 | 2025-08-11 | 2025-09-30 |
 | [Menyesal](https://open.spotify.com/track/29lBFGkfr7EoJlb3lxi9Ij) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Menyesal](https://open.spotify.com/album/13zfefPjKHsxUJm9SZFDtE) | 3:23 | 2023-04-20 | 2024-09-10 |
 | [Merasa Indah](https://open.spotify.com/track/3Ysf0Y3iu23mrDsVh1mdu0) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini](https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl) | 3:40 | 2022-11-28 | 2025-12-09 |
-| [Merindumu lagi](https://open.spotify.com/track/2EhHCazu5nK0S3oljv0B6l) | [Khifnu](https://open.spotify.com/artist/7eKNo6fozgNsKThGC40ol7) | [Merindumu lagi](https://open.spotify.com/album/4LTGuJdFIcKgJfHjsK0lE7) | 3:38 | 2025-09-16 |  |
+| [Merindumu lagi](https://open.spotify.com/track/2EhHCazu5nK0S3oljv0B6l) | [Khifnu](https://open.spotify.com/artist/7eKNo6fozgNsKThGC40ol7) | [Merindumu lagi](https://open.spotify.com/album/4LTGuJdFIcKgJfHjsK0lE7) | 3:38 | 2025-09-16 | 2026-02-28 |
 | [Mesin Waktu](https://open.spotify.com/track/4ZX6ww7kJCABHIDQfy9Bmd) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Mesin Waktu](https://open.spotify.com/album/50po9sQMJ9mv7TNWW5lPZy) | 4:22 | 2022-11-28 | 2023-06-08 |
 | [Muak](https://open.spotify.com/track/3N2WeXxSjngB1DSi8vrI8C) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1) | [Muak](https://open.spotify.com/album/4Zt66ubcxeKkfB3MvTYvCq) | 4:24 | 2022-12-15 | 2024-05-24 |
 | [Mundur Perlahan](https://open.spotify.com/track/4WoxEHYd86PQQ9MvauypnV) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Mundur Perlahan](https://open.spotify.com/album/46JONawt8M57m28JCS7EtT) | 4:18 | 2024-09-09 | 2025-07-18 |
@@ -257,6 +258,7 @@
 | [Titik Nadir \(feat\. Monita Tahalea\)](https://open.spotify.com/track/52m690jqpxP1tHHkRNdl5p) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7), [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g) | [Titik Nadir](https://open.spotify.com/album/0IpT1x2OIQoUuY320ayTyh) | 4:05 | 2025-09-16 |  |
 | [To the Bone](https://open.spotify.com/track/3pCt2wRdBDa2kCisIdHWgF) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Flying Solo](https://open.spotify.com/album/3QUGmEDo4oijL93sKzlsR4) | 5:44 | 2022-11-28 | 2025-02-24 |
 | [Tresno Tekan Mati New Version \- Remastered 2023](https://open.spotify.com/track/5JJ6JB7fKygWoKAcBZKxNo) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Tresno Tekan Mati \(New Version\)](https://open.spotify.com/album/5rjrUoQokVq8SKhvhatF2U) | 4:31 | 2025-02-11 | 2026-02-15 |
+| [Tuhan Tahu Kita Saling Cinta](https://open.spotify.com/track/0n8UJLCCEu2cF0Zm2luIvn) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Tuhan Tahu Kita Saling Cinta](https://open.spotify.com/album/0mz4JRi48KjxAbltvPTZIx) | 4:35 | 2026-02-27 |  |
 | [Tutur Batin](https://open.spotify.com/track/1k1e4Amkn7hIFrEthtazqT) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:35 | 2022-11-28 | 2025-08-11 |
 | [Usai](https://open.spotify.com/track/3nHxZEe1dT7zs73DG6pNll) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Usai](https://open.spotify.com/album/1lN55vIsNORo3W6QlWbGR8) | 3:37 | 2022-11-28 |  |
 | [Waktu Dan Perhatian](https://open.spotify.com/track/0Bsl6c8yEqyiAsmXB8p0H6) | [Rimar](https://open.spotify.com/artist/5P8zPeJpGvHclaIk8nKoGx) | [Waktu Dan Perhatian](https://open.spotify.com/album/4sUNf3OPxdj6EJAbGVtG0p) | 4:53 | 2025-05-19 | 2025-06-03 |

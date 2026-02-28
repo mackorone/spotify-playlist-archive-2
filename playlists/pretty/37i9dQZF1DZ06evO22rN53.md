@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22rN53.md) - [plain]
 
 > This is Victor Ray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,650 likes - 20 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,654 likes - 20 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22rN53.md) - [plain]
 | 16 | [Like The Moon](https://open.spotify.com/track/5IMIzerUwHmzMW9sgjWSj7) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Like The Moon](https://open.spotify.com/album/0u1GmTFsk4E3hirXBetbpk) | 2:57 |
 | 17 | [A Little Less Lonely](https://open.spotify.com/track/1N3BYJL19J3XMmYaWHiifd) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [A Little Less Lonely](https://open.spotify.com/album/7kfHJlByAOz2DpsIetOsEh) | 3:14 |
 | 18 | [Sticks and Stones \(ft\. Kojey Radical & Strandz\)](https://open.spotify.com/track/4GEBLb8i3BtKGuqjoU2txa) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS) | [Sticks and Stones \(ft\. Kojey Radical & Strandz\)](https://open.spotify.com/album/6KTsdhNUKZUZIXvrEWcPiO) | 4:12 |
-| 19 | [Lose Myself](https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I TRIED.](https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN) | 3:05 |
-| 20 | [Popcorn and a Smoothie](https://open.spotify.com/track/217lMAhuyxm8Smz7OeSiJ7) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Popcorn and a Smoothie](https://open.spotify.com/album/7FUQUeda9RYXI5invOQS5i) | 3:23 |
+| 19 | [Popcorn and a Smoothie](https://open.spotify.com/track/217lMAhuyxm8Smz7OeSiJ7) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Popcorn and a Smoothie](https://open.spotify.com/album/7FUQUeda9RYXI5invOQS5i) | 3:23 |
+| 20 | [Lose Myself](https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I TRIED.](https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN) | 3:05 |
 
-Snapshot ID: `aZ47gAAAAACBaLrtasEColZ+z6NuZFLT`
+Snapshot ID: `aZ+NAAAAAAAD8s8uxqCwzspMLpSQB1YM`

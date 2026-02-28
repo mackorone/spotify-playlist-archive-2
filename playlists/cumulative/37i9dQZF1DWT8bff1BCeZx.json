@@ -3597,7 +3597,7 @@
         },
         {
           "name": "Sarah Nathali\u00e9",
-          "url": "https://open.spotify.com/artist/1QREgi3vk6vWdQK5ZKltgX"
+          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
         }
       ],
       "date_added": "2026-02-27",
@@ -9174,6 +9174,28 @@
       "duration_ms": 197067,
       "name": "Light My Way",
       "url": "https://open.spotify.com/track/7cJNrb80srlS1s499HjEQF"
+    },
+    {
+      "album": {
+        "name": "Light Of The World (Live)",
+        "url": "https://open.spotify.com/album/6SzntBREccSSWqtX90xg8d"
+      },
+      "artists": [
+        {
+          "name": "Bimbo Idemeto",
+          "url": "https://open.spotify.com/artist/59sVYSKrS333w0LDE3tOnE"
+        },
+        {
+          "name": "Manus Akpanke",
+          "url": "https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 511000,
+      "name": "Light Of The World - Live",
+      "url": "https://open.spotify.com/track/3OHSXhBGjFzvvumpEvHLBf"
     },
     {
       "album": {

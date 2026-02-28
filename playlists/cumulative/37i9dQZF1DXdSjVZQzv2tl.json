@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Panda, Gusttavo Lima",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Diego & Arnaldo, Mari Fernandez",
   "name": "Esquenta Sertanejo",
   "tracks": [
     {
@@ -116,6 +116,24 @@
       "duration_ms": 176549,
       "name": "50 por Cento",
       "url": "https://open.spotify.com/track/1d7Z2HUkWno2w4452Jaqt6"
+    },
+    {
+      "album": {
+        "name": "Melhor Que Imaginei | EP01 (Ao Vivo em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/3W1RDXIugXi6OKDTlaNAAw"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186547,
+      "name": "90/10 - Ao Vivo em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/4DqwiZjicetHqqxl9cUID5"
     },
     {
       "album": {
@@ -566,7 +584,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 178882,
       "name": "Apaga Apaga Apaga - Ao Vivo",
       "url": "https://open.spotify.com/track/17tg01y3RhlfRKMnd333yL"
@@ -5683,6 +5701,28 @@
     },
     {
       "album": {
+        "name": "Quem Que T\u00e1",
+        "url": "https://open.spotify.com/album/6AOYra2DSu2cs5tBUhpEbS"
+      },
+      "artists": [
+        {
+          "name": "CountryBeat",
+          "url": "https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152458,
+      "name": "Quem Que T\u00e1",
+      "url": "https://open.spotify.com/track/2kd04YGxY6v8t4HYztOHn7"
+    },
+    {
+      "album": {
         "name": "Praiou (Ao Vivo / Vol.2)",
         "url": "https://open.spotify.com/album/1FLBaYOIAuCqsCQo9TUR79"
       },
@@ -5900,7 +5940,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 153103,
       "name": "Saudade De Quem Eu Sou - Ao Vivo",
       "url": "https://open.spotify.com/track/6id4TFeHJgvVtCzrJEysl0"
@@ -6416,6 +6456,24 @@
       "duration_ms": 160476,
       "name": "S\u00f3 N\u00e3o Divulga",
       "url": "https://open.spotify.com/track/3HquWF2pZmWYu3WAEP9Heb"
+    },
+    {
+      "album": {
+        "name": "Te Amar \u00c9 Meu Talento (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6WspHQm4g3ZBk44vUr6jDd"
+      },
+      "artists": [
+        {
+          "name": "Fred & Fabr\u00edcio",
+          "url": "https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163207,
+      "name": "Te Amar \u00c9 Meu Talento - Ao Vivo",
+      "url": "https://open.spotify.com/track/0Jn2mV8cW1bkTGkyuB26Fs"
     },
     {
       "album": {
@@ -7088,7 +7146,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 178131,
       "name": "Veneno - Ao Vivo",
       "url": "https://open.spotify.com/track/2tUIRX4wK0COoKEorOdEpZ"

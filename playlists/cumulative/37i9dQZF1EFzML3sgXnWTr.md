@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-121 songs - 6 hr 9 min
+122 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Luccica](https://open.spotify.com/track/2MRNpRQLaErjmGBk6c9OQJ) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Matteo](https://open.spotify.com/album/5VeLRPwjs2yLnNklcluzlc) | 2:47 | 2023-09-25 |  |
 | [luci allo xeno](https://open.spotify.com/track/3zBsXyqrOj6QVVoGJtjOaZ) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [luci allo xeno](https://open.spotify.com/album/78ItbaiDnbYt7cy9ecMUmN) | 2:53 | 2025-09-10 |  |
 | [Luna](https://open.spotify.com/track/2zyiYftVAL1eKQZtMxG1IZ) | [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Donna sulla Luna](https://open.spotify.com/album/5zWZQPpSRsDwx6AwmkMZmD) | 3:31 | 2022-09-16 |  |
+| [MALE NECESSARIO](https://open.spotify.com/track/4kK4uxstY0lTdun71200Al) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Marco Masini](https://open.spotify.com/artist/0kcOfjhVfDMTS09s9aLmuD) | [MALE NECESSARIO](https://open.spotify.com/album/2bewKhlwZYgeHhXPf7xyqs) | 3:07 | 2026-02-27 |  |
 | [malibu](https://open.spotify.com/track/4p0o4pBoJPxYMXKhYbRzzw) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [sangiovanni](https://open.spotify.com/album/4glIx4caTnxFFuRP5tUFaz) | 2:46 | 2022-09-16 |  |
 | [malibu](https://open.spotify.com/track/34VtrzecYLVHKmcuuwGb8q) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [malibu](https://open.spotify.com/album/44sFwu9PaZJ0bVKT5JkdAd) | 3:03 | 2023-12-14 | 2024-01-27 |
 | [malibu \(with Trevor Daniel\)](https://open.spotify.com/track/31cxJ8JDVyYM1Ybqppmi9s) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [sangiovanni](https://open.spotify.com/album/4glIx4caTnxFFuRP5tUFaz) | 2:46 | 2022-09-16 |  |

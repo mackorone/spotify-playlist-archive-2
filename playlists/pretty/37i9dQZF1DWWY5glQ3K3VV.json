@@ -1,6 +1,6 @@
 {
   "description": "SPINGERE",
-  "num_followers": 113651,
+  "num_followers": 113656,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -775,26 +775,6 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "Going Hard 3",
-        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
-      },
-      "artists": [
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 130560,
-      "name": "Codeine (feat. ANNA)",
-      "url": "https://open.spotify.com/track/2fgOUiGsgelBOjH8ZTSJHs"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
         "name": "SIRIO",
         "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 155862,
       "name": "PIOVE (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
+        "name": "Going Hard 3",
+        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 130560,
+      "name": "Codeine (feat. ANNA)",
+      "url": "https://open.spotify.com/track/2fgOUiGsgelBOjH8ZTSJHs"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -1267,30 +1267,18 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "Trap Fatta Bene",
-        "url": "https://open.spotify.com/album/6zOYd3ULQWAauhgVyCL143"
+        "name": "I CAN FLY",
+        "url": "https://open.spotify.com/album/2SbroeWsALG42AtivCsCnu"
       },
       "artists": [
         {
-          "name": "Papa V",
-          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
-        },
-        {
-          "name": "Kuremino",
-          "url": "https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n"
-        },
-        {
-          "name": "Nerissima Serpe",
-          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
-        },
-        {
-          "name": "Fritu",
-          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
         }
       ],
-      "duration_ms": 142000,
-      "name": "Mattone (feat. Kuremino, Nerissima Serpe)",
-      "url": "https://open.spotify.com/track/3TE8sw3fWmWficRYKRKkqx"
+      "duration_ms": 164705,
+      "name": "I CAN FLY",
+      "url": "https://open.spotify.com/track/2Y3gIiYfcphPCPNYuQDMph"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -1319,18 +1307,30 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "I CAN FLY",
-        "url": "https://open.spotify.com/album/2SbroeWsALG42AtivCsCnu"
+        "name": "Trap Fatta Bene",
+        "url": "https://open.spotify.com/album/6zOYd3ULQWAauhgVyCL143"
       },
       "artists": [
         {
-          "name": "Icy Subzero",
-          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Kuremino",
+          "url": "https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Fritu",
+          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
         }
       ],
-      "duration_ms": 164705,
-      "name": "I CAN FLY",
-      "url": "https://open.spotify.com/track/2Y3gIiYfcphPCPNYuQDMph"
+      "duration_ms": 142000,
+      "name": "Mattone (feat. Kuremino, Nerissima Serpe)",
+      "url": "https://open.spotify.com/track/3TE8sw3fWmWficRYKRKkqx"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -1395,6 +1395,46 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
+        "name": "Ma Jolie (feat. ANNA)",
+        "url": "https://open.spotify.com/album/5DiVq0GezpEej8E2krKSkz"
+      },
+      "artists": [
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Ma Jolie (feat. ANNA)",
+      "url": "https://open.spotify.com/track/7J4FSE9i1mo3ZHtaMy27dy"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
+        "name": "Effetto notte",
+        "url": "https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "ON FIRE - paid in full",
+      "url": "https://open.spotify.com/track/2pGbOFiWVwZaTq3iKi5sGb"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
         "name": "Apparecchiato (feat. Nerissima Serpe)",
         "url": "https://open.spotify.com/album/5dSZpDWUqAEZUGTjWpJEgv"
       },
@@ -1419,26 +1459,6 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "Ma Jolie (feat. ANNA)",
-        "url": "https://open.spotify.com/album/5DiVq0GezpEej8E2krKSkz"
-      },
-      "artists": [
-        {
-          "name": "Medy",
-          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Ma Jolie (feat. ANNA)",
-      "url": "https://open.spotify.com/track/7J4FSE9i1mo3ZHtaMy27dy"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
         "name": "Supercar",
         "url": "https://open.spotify.com/album/0NP8M8kOGShVj1YQrvN2sf"
       },
@@ -1455,26 +1475,6 @@
       "duration_ms": 124800,
       "name": "Supercar",
       "url": "https://open.spotify.com/track/45Z5FthR22V4kAe49KLke1"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
-        "name": "Effetto notte",
-        "url": "https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga"
-      },
-      "artists": [
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "ON FIRE - paid in full",
-      "url": "https://open.spotify.com/track/2pGbOFiWVwZaTq3iKi5sGb"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -1699,8 +1699,8 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "Petit Fou Fou (feat. ANNA)",
-        "url": "https://open.spotify.com/album/5GNS5KbQRhO2uvyM7HKCZ6"
+        "name": "Pel\u00e9",
+        "url": "https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC"
       },
       "artists": [
         {
@@ -1708,13 +1708,13 @@
           "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
         },
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+          "name": "Madfingerz",
+          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
         }
       ],
-      "duration_ms": 113737,
-      "name": "Petit Fou Fou (feat. ANNA)",
-      "url": "https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv"
+      "duration_ms": 133858,
+      "name": "Pel\u00e9",
+      "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -1803,8 +1803,8 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "Pel\u00e9",
-        "url": "https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC"
+        "name": "Petit Fou Fou (feat. ANNA)",
+        "url": "https://open.spotify.com/album/5GNS5KbQRhO2uvyM7HKCZ6"
       },
       "artists": [
         {
@@ -1812,13 +1812,13 @@
           "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
         },
         {
-          "name": "Madfingerz",
-          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
         }
       ],
-      "duration_ms": 133858,
-      "name": "Pel\u00e9",
-      "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
+      "duration_ms": 113737,
+      "name": "Petit Fou Fou (feat. ANNA)",
+      "url": "https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv"
     },
     {
       "added_at": "2026-02-12 23:01:39",

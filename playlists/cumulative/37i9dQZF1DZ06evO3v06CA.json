@@ -992,7 +992,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 125379,
       "name": "Heaven's Bad Day",
       "url": "https://open.spotify.com/track/5LPo4MHNYtWdh8FWIIkixD"
@@ -2798,6 +2798,28 @@
       "duration_ms": 177533,
       "name": "What If I'm Out Of My Mind",
       "url": "https://open.spotify.com/track/44YzCXsGhUaN82i8EAyO0C"
+    },
+    {
+      "album": {
+        "name": "When I Sang My Last Hillbillie Song b/w A Storm Is Just Begun",
+        "url": "https://open.spotify.com/album/41fzw6X1B8SQda46MIrjA7"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Sarg",
+          "url": "https://open.spotify.com/artist/5ByC3fs2apahS0UY3eaA1K"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128565,
+      "name": "When I Sang My Last Hillbillie Song",
+      "url": "https://open.spotify.com/track/146YqofwHQVo0Xt1AG3zZN"
     },
     {
       "album": {

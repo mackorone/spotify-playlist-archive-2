@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 
 > heavy vibes for cuffing season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,779 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,905 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 79 | [SHAKE](https://open.spotify.com/track/2oLdDgLtfYMd6nhukQWyRE) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [SHAKE](https://open.spotify.com/album/78A4CF4zvvHU21A2u5H1AW) | 3:10 |
 | 80 | [CHILDREN OF SORROW](https://open.spotify.com/track/0m1JXimp3o6AP7yBtCXCKd) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [CHILDREN OF SORROW](https://open.spotify.com/album/7Kb3GTVE5cBCvXOPxoLzlr) | 3:20 |
 | 81 | [Aquila](https://open.spotify.com/track/7goOBp1pzbohHhaaJO05H2) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [Aquila](https://open.spotify.com/album/06vkY41nabAWVastRByeLy) | 4:05 |
-| 82 | [Blood on the Sheets](https://open.spotify.com/track/7pCoALlwKHdGFfnkpgH0A1) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Blood on the Sheets](https://open.spotify.com/album/5vNNEtI5ScBzU3Reba9Y5i) | 3:49 |
-| 83 | [Don't Need You](https://open.spotify.com/track/6tpwK4QEA9IlWGv3KuaR6n) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [Don't Need You](https://open.spotify.com/album/35gFs2xTjmciWt5UXv4RwC) | 3:26 |
+| 82 | [Don't Need You](https://open.spotify.com/track/6tpwK4QEA9IlWGv3KuaR6n) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [Don't Need You](https://open.spotify.com/album/35gFs2xTjmciWt5UXv4RwC) | 3:26 |
+| 83 | [Blood on the Sheets](https://open.spotify.com/track/7pCoALlwKHdGFfnkpgH0A1) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Blood on the Sheets](https://open.spotify.com/album/5vNNEtI5ScBzU3Reba9Y5i) | 3:49 |
 | 84 | [Wet Dreams](https://open.spotify.com/track/7gU7RWO1r3yUPVagFTfbi6) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Wet Dreams](https://open.spotify.com/album/0CpfMb1CvPursI3CGbzAWN) | 2:37 |
 | 85 | [my mistake...](https://open.spotify.com/track/5gUaMx5euG5hLsjSCKImIN) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [motionblur](https://open.spotify.com/album/3zXbRvUa5RiqdGUeB1Od40) | 5:16 |
 | 86 | [I Shift](https://open.spotify.com/track/3Ci8VRojYttIlIm4YikgKo) | [Sable](https://open.spotify.com/artist/5rRyGasapvQWgfTijFs2mq) | [I Shift](https://open.spotify.com/album/49Jl8jC6BGOLuw0FoyXY0c) | 3:10 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 93 | [Valentina](https://open.spotify.com/track/6nFQW2MigtHWPLpOvqbod3) | [PALESKIN](https://open.spotify.com/artist/5eKP3s5CJQOYL65VzunrN1), [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Valentina](https://open.spotify.com/album/0KXe6LZTUtvVBbAMft6BpE) | 3:48 |
 | 94 | [Gorgeous](https://open.spotify.com/track/02i9hlZQCCb6vYxpBm6r5h) | [Cold Gawd](https://open.spotify.com/artist/4nD7mZ37GMiFBSjvWZIlDb) | [Gorgeous](https://open.spotify.com/album/3brN47YTTKHWEpB8hsOEa2) | 5:31 |
 | 95 | [Give Blood](https://open.spotify.com/track/1Ult8Ht7snBt5DOGcECkZV) | [SOM](https://open.spotify.com/artist/0l5d2oD9unQCRRogw47e2Q) | [Give Blood](https://open.spotify.com/album/6TNhU5xuppWcHNSvDEBpsv) | 4:22 |
-| 96 | [THE DRAIN](https://open.spotify.com/track/0LSgZIdGUQtaXxlFN9thhc) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [SWARM](https://open.spotify.com/artist/07OF36h5y4S6s9ckQliaj3) | [THE DRAIN](https://open.spotify.com/album/5QKeZAJVAx2OtEsMALM0Cz) | 3:45 |
-| 97 | [Spiders](https://open.spotify.com/track/4vAHXnJ5YWLq5hbIVzZS1h) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down \(Deluxe Version\)](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 3:35 |
+| 96 | [Spiders](https://open.spotify.com/track/4vAHXnJ5YWLq5hbIVzZS1h) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down \(Deluxe Version\)](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 3:35 |
+| 97 | [THE DRAIN](https://open.spotify.com/track/0LSgZIdGUQtaXxlFN9thhc) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [SWARM](https://open.spotify.com/artist/07OF36h5y4S6s9ckQliaj3) | [THE DRAIN](https://open.spotify.com/album/5QKeZAJVAx2OtEsMALM0Cz) | 3:45 |
 | 98 | [Surrender](https://open.spotify.com/track/5gcuhVVuh0BFDJo5m62HJ0) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Surrender](https://open.spotify.com/album/4kGdD69S719G72vgoRxUEl) | 3:36 |
 | 99 | [Closer](https://open.spotify.com/track/2oDqmfa2g8W893LlwJG1qu) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto) | 6:13 |
 | 100 | [The Silence Hurts The Most II](https://open.spotify.com/track/2SnHuo77EoH29NuJJP8SQS) | [LASTELLE](https://open.spotify.com/artist/2BB6OyMcGIRSwJQfsmpjKJ) | [The Silence Hurts The Most II](https://open.spotify.com/album/0s13LjFa1clm6Ia0QlXBnE) | 7:49 |

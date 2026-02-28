@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-152 songs - 15 hr 46 min
+153 songs - 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Adoração Espontânea \- Ao Vivo](https://open.spotify.com/track/4VgtOEtlLJlpa6okshTlUu) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm), [JesusCopy Music](https://open.spotify.com/artist/4CDhTrPFRLfba48VJR9L4b), [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2) | [Hebreus 1 \(Ao Vivo\)](https://open.spotify.com/album/2iaC0zdDp1yuYAPUBWBjtv) | 21:53 | 2025-05-17 |  |
 | [Alegria / Sou Feliz \- Ao Vivo](https://open.spotify.com/track/240V4ZoqPSfsMAxrRLIId2) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Ao Vivo nos EUA](https://open.spotify.com/album/4jJG66nWLXbgJvakco7uFO) | 8:22 | 2025-04-14 |  |
 | [Alegria / Sou Feliz \- Ao Vivo](https://open.spotify.com/track/6T2z10MblimUkS2tjzYOdz) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Alegria / Sou Feliz \(Ao Vivo\)](https://open.spotify.com/album/1Ry58rPrrFXc4EjYhLzyZW) | 8:22 | 2024-06-03 | 2025-04-15 |
+| [Amanheceu](https://open.spotify.com/track/3PvDP9ECFcfGrMWwpTD66L) | [Comunidade das Nações](https://open.spotify.com/artist/1hnTrMUWH19QEXIBsPRch1), [Arthur Lemos](https://open.spotify.com/artist/5pOq7exRqZuoSibuUQa4dz) | [Amanheceu](https://open.spotify.com/album/5bTZzqk2navASrGfzL6a8e) | 4:45 | 2026-02-27 |  |
 | [Anseio por Ti](https://open.spotify.com/track/2W12vYVznKRTuW34TM2j0V) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 7:17 | 2022-06-04 |  |
 | [Apocalipse 4 \- Ao Vivo](https://open.spotify.com/track/4KvwPgAJMWNqx4lCll9Ldp) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Apocalipse 4 \(Ao Vivo\)](https://open.spotify.com/album/2C8V8hCKIAkZMtSr532PBO) | 6:33 | 2022-06-04 |  |
 | [Apocalipse 5](https://open.spotify.com/track/1zAbs0HlGxAYsYAmWjUjOz) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Daiana Celano](https://open.spotify.com/artist/0A7O8vWr8zmjwcZrmswa9o) | [Eternidade](https://open.spotify.com/album/6XUYRDiVKiUvHwrwi2kuiY) | 6:08 | 2025-09-22 |  |

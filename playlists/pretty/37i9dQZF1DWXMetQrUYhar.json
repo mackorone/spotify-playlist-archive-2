@@ -1,6 +1,6 @@
 {
   "description": "Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles. Cover: Ezra Koenig",
-  "num_followers": 111282,
+  "num_followers": 111280,
   "original_name": "Spotify Singles: Indie & Alternative",
   "owner": {
     "name": "Spotify",
@@ -412,22 +412,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 207600,
-      "name": "I'm Goin' Down - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/4l7aryEsduuO7tQU8ZY46e"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
       },
       "artists": [
@@ -439,6 +423,22 @@
       "duration_ms": 252240,
       "name": "Movement - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5EaHXf4tvFDKr3W2dDTlaO"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "I'm Goin' Down - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/4l7aryEsduuO7tQU8ZY46e"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -457,22 +457,6 @@
       "url": "https://open.spotify.com/track/5Xh97PTcc1LxMF8sc8Xhis"
     },
     {
-      "added_at": "2025-01-27 20:00:12",
-      "album": {
-        "name": "flower boy - Spotify Singles",
-        "url": "https://open.spotify.com/album/0XJmr9bXAu9lqnDzu3CQiq"
-      },
-      "artists": [
-        {
-          "name": "King Isis",
-          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
-        }
-      ],
-      "duration_ms": 174630,
-      "name": "flower boy - Spotify Singles",
-      "url": "https://open.spotify.com/track/6K9U3U3C5wIB8MCXiPppFa"
-    },
-    {
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
@@ -487,6 +471,22 @@
       "duration_ms": 319750,
       "name": "Sign Of The Times - Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN"
+    },
+    {
+      "added_at": "2025-01-27 20:00:12",
+      "album": {
+        "name": "flower boy - Spotify Singles",
+        "url": "https://open.spotify.com/album/0XJmr9bXAu9lqnDzu3CQiq"
+      },
+      "artists": [
+        {
+          "name": "King Isis",
+          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
+        }
+      ],
+      "duration_ms": 174630,
+      "name": "flower boy - Spotify Singles",
+      "url": "https://open.spotify.com/track/6K9U3U3C5wIB8MCXiPppFa"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -972,22 +972,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 178461,
-      "name": "Convincing - Spotify Singles",
-      "url": "https://open.spotify.com/track/0R7lOFuxYUlXUd76mrGMHt"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
       },
       "artists": [
@@ -999,6 +983,22 @@
       "duration_ms": 138383,
       "name": "Simple Man - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 178461,
+      "name": "Convincing - Spotify Singles",
+      "url": "https://open.spotify.com/track/0R7lOFuxYUlXUd76mrGMHt"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
+        "name": "Dance In The Dark (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 225366,
+      "name": "Dance In The Dark (Spotify Singles)",
+      "url": "https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 221115,
       "name": "Whole Wide World - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1r6JOvVgGQ2QU2uNrvk98g"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Dance In The Dark (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 225366,
-      "name": "Dance In The Dark (Spotify Singles)",
-      "url": "https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1464,9 +1464,9 @@
           "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
         }
       ],
-      "duration_ms": 252048,
-      "name": "(What's So Funny Bout) Peace, Love and Understanding? - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3Zd7oF8MH9j0zNEiIOPPNP"
+      "duration_ms": 192522,
+      "name": "If I Ever Was A Child - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/69eSem5Y1nrCaGi2FrQhVJ"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1544,9 +1544,9 @@
           "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
         }
       ],
-      "duration_ms": 192522,
-      "name": "If I Ever Was A Child - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/69eSem5Y1nrCaGi2FrQhVJ"
+      "duration_ms": 252048,
+      "name": "(What's So Funny Bout) Peace, Love and Understanding? - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3Zd7oF8MH9j0zNEiIOPPNP"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1696,17 +1696,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS"
+        "url": "https://open.spotify.com/album/2awjquCIUPcDdcWaBWcEnY"
       },
       "artists": [
         {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+          "name": "Rostam",
+          "url": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT"
         }
       ],
-      "duration_ms": 192870,
-      "name": "La Tirana - Spotify Singles",
-      "url": "https://open.spotify.com/track/5UzRLiSBXVQh3rrxWUmBhc"
+      "duration_ms": 237617,
+      "name": "Bike Dream - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4RG0sBO0bb7Ddkdg8rF2vE"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1728,17 +1728,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2awjquCIUPcDdcWaBWcEnY"
+        "url": "https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS"
       },
       "artists": [
         {
-          "name": "Rostam",
-          "url": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT"
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
         }
       ],
-      "duration_ms": 237617,
-      "name": "Bike Dream - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4RG0sBO0bb7Ddkdg8rF2vE"
+      "duration_ms": 192870,
+      "name": "La Tirana - Spotify Singles",
+      "url": "https://open.spotify.com/track/5UzRLiSBXVQh3rrxWUmBhc"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1812,22 +1812,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0MtApzOMJ5uGbMZHhgrMur"
-      },
-      "artists": [
-        {
-          "name": "Andrew McMahon in the Wilderness",
-          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
-        }
-      ],
-      "duration_ms": 213995,
-      "name": "Fire Escape - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1k2XzKObDo17FgS3ovj3se"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE"
       },
       "artists": [
@@ -1855,6 +1839,22 @@
       "duration_ms": 231729,
       "name": "Born Again - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0BGdxW79sZA6nmuws983bE"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0MtApzOMJ5uGbMZHhgrMur"
+      },
+      "artists": [
+        {
+          "name": "Andrew McMahon in the Wilderness",
+          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
+        }
+      ],
+      "duration_ms": 213995,
+      "name": "Fire Escape - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1k2XzKObDo17FgS3ovj3se"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1940,22 +1940,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS"
-      },
-      "artists": [
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        }
-      ],
-      "duration_ms": 210355,
-      "name": "El Rey de la Popola - Spotify Singles",
-      "url": "https://open.spotify.com/track/2kMYjwRj5E9Th5QgXoj8Mj"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1YRHQaixdZLJkUxQ5glsnk"
       },
       "artists": [
@@ -1967,6 +1951,22 @@
       "duration_ms": 245826,
       "name": "Want You Back - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1VxuPBPMqgVMAv6NXZFQ3B"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "duration_ms": 210355,
+      "name": "El Rey de la Popola - Spotify Singles",
+      "url": "https://open.spotify.com/track/2kMYjwRj5E9Th5QgXoj8Mj"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -2020,17 +2020,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2pmZrbCbPmu1tKnABQTumb"
+        "url": "https://open.spotify.com/album/1YRHQaixdZLJkUxQ5glsnk"
       },
       "artists": [
         {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
         }
       ],
-      "duration_ms": 229916,
-      "name": "Fountain Of Youth",
-      "url": "https://open.spotify.com/track/14B3iL077fUYRAkmka5eTq"
+      "duration_ms": 175946,
+      "name": "Night So Long - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/28H8wM4aFa1DYUMjw4sI3c"
     }
   ],
   "unique_name": "Spotify Singles: Indie & Alternative",

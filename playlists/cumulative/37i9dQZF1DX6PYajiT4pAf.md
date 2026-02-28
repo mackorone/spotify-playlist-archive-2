@@ -4,7 +4,7 @@
 
 > Melendi, Dei V & JC Reyes, Bruno Mars y el resto de novedades de la semana.
 
-4,707 songs - 10 day 0 hr 41 min
+4,708 songs - 10 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1689,6 +1689,7 @@
 | [Globo \(feat\. Blessd & Kofla\)](https://open.spotify.com/track/3QyQNNpJg7spXyMzobBoX3) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Kofla](https://open.spotify.com/artist/3uvuXrgd8H5Gwnubvtm0sk) | [Globo \(feat\. Blessd & Kofla\)](https://open.spotify.com/album/1kUmugvmPWIY6ZEODVrMSx) | 3:13 | 2025-05-15 | 2025-05-23 |
 | [Gloria Bendita](https://open.spotify.com/track/33S73Eors5RO9aI0EeK0GU) | [Álvaro García](https://open.spotify.com/artist/3xuiqNVeSn3hpnWlAto2eq) | [Gloria Bendita](https://open.spotify.com/album/2hcKA0tpL9br9Ul2xCrG1R) | 3:39 | 2025-05-22 | 2025-05-30 |
 | [Gluones](https://open.spotify.com/track/1DM02wtaGbdSgi1uAIz4Ll) | [Erik Urano](https://open.spotify.com/artist/4UGlbaxTr9BPv4YLD6iWRN), [Merca Bae](https://open.spotify.com/artist/7tNlqSl7RogtzMsEA20byE), [Hoke](https://open.spotify.com/artist/2x6kZekpNZMll7Uq3M6ar5) | [Gluones](https://open.spotify.com/album/31MUdjrA9NQu9CMT4bVSEL) | 3:10 | 2025-11-27 | 2025-12-05 |
+| [GO](https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 3:15 | 2026-02-26 |  |
 | [Goat Milk](https://open.spotify.com/track/4o1rgBJw45Bzl9QLyQzo0h) | [superreservao](https://open.spotify.com/artist/6AcMrxqogX2HwILuphv5Yq), [Biberon](https://open.spotify.com/artist/31VgmAag1FUVTzQpASIeFo), [Nake](https://open.spotify.com/artist/6hJnrA58ELi64NP1TDyzQG) | [Goat Milk](https://open.spotify.com/album/5unR45StZhVOzildyZX8df) | 2:00 | 2025-06-12 | 2025-06-20 |
 | [GOD \(with Sid Sriram\)](https://open.spotify.com/track/0evhnYBqAagPGFM8KJHNeO) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [GOD/MARRIAGE](https://open.spotify.com/album/3r02puVKfFDTkZgkDjdO04) | 2:11 | 2025-04-18 | 2025-04-25 |
 | [Godspeed](https://open.spotify.com/track/4gk0U9MIugzdLRvB9N5BFj) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Outrun You All](https://open.spotify.com/album/3dy3BgU0SuF4YyHSCmQoYc) | 3:14 | 2025-05-22 | 2025-05-30 |
@@ -3503,7 +3504,7 @@
 | [Qué pena](https://open.spotify.com/track/0QMZpdGfspLMWiOA8UDjFL) | [Cora Yako](https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm) | [Mil Pequeños Cortes](https://open.spotify.com/album/3klXIBIyfHZiVNHQ5gKZby) | 3:18 | 2026-02-20 | 2026-02-27 |
 | [QUÉ QUIERES DE MI? \(feat\. Eladio Carrion\)](https://open.spotify.com/track/6w1eQ7AxYB8Y6YQGJR9jBT) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [LYKE MIIKE](https://open.spotify.com/album/0G1YnsWxzQoJ2B1QtZLj1e) | 4:14 | 2025-01-02 | 2025-01-10 |
 | [Qué será de mí \(feat\. Maruja Limón\)](https://open.spotify.com/track/60Rh4gjFGVFvpTSLQG3y4o) | [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3), [Maruja Limón](https://open.spotify.com/artist/15weuOZLZZBnFfkmkfVxPu) | [Qué será de mí \(feat\. Maruja Limón\)](https://open.spotify.com/album/5TZDSAn1AA1xc1eIXQAKXd) | 3:12 | 2025-06-19 | 2025-06-27 |
-| [Qué Sería de Mi](https://open.spotify.com/track/0AUav4ATQNj8VrG8xY3Wxp) | [MAREK](https://open.spotify.com/artist/0QPoBkVmos30cMFwz42zm4), [Ozarus](https://open.spotify.com/artist/4DnQtKDnMN03ahgfDWcmJz) | [Qué Sería de Mi](https://open.spotify.com/album/17BXPfKlWYhLQgVWpaEYlQ) | 2:31 | 2026-02-26 |  |
+| [Qué Sería de Mí](https://open.spotify.com/track/0AUav4ATQNj8VrG8xY3Wxp) | [MAREK](https://open.spotify.com/artist/0QPoBkVmos30cMFwz42zm4), [Ozarus](https://open.spotify.com/artist/4DnQtKDnMN03ahgfDWcmJz) | [Qué Sería de Mí](https://open.spotify.com/album/17BXPfKlWYhLQgVWpaEYlQ) | 2:31 | 2026-02-26 |  |
 | [QUÉ SOMOS?](https://open.spotify.com/track/5FC9Oa4zW0mq4fFtsJEzyT) | [Yapi](https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn) | [QUÉ SOMOS?](https://open.spotify.com/album/0Jg5zuwDziq8hzGiPxOPiz) | 2:08 | 2025-09-25 | 2025-10-03 |
 | [qué triste, qué desastre \(bolero\)](https://open.spotify.com/track/4UVaHNLL9WLObHhYpjvdJY) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [nomeolvides](https://open.spotify.com/album/3RuMWGbodLpBMlUzJ2VchT) | 2:59 | 2025-09-05 | 2025-09-13 |
 | [Qué+Da](https://open.spotify.com/track/7jnQcaPFeF37CjAcyMdjkz) | [Chanela Clicka](https://open.spotify.com/artist/2RQCJUGP83CMLYttGm2Ypy), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Qué+Da](https://open.spotify.com/album/0cIuSzAChgpTzbmPf9LfTh) | 3:06 | 2025-05-29 | 2025-06-06 |

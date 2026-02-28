@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 
 > This is Danna Paola\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,742 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,746 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 44 | [T.A.C.O.](https://open.spotify.com/track/3BtvZuzvNbN7OIaUsWIM5M) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:00 |
 | 45 | [Ladrones](https://open.spotify.com/track/23R6LNvr5YGUw4iJiPhXOb) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Cuatro Estaciones](https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m) | 3:03 |
 | 46 | [Es Mejor](https://open.spotify.com/track/2SH19kAKFEqKFYFNLhIEFA) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Las Populares](https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX) | [Atrevete A Soñar](https://open.spotify.com/album/4YQ7hShKeFJQKC4tgYenmb) | 3:04 |
-| 47 | [De Mí Enamórate](https://open.spotify.com/track/6JmCyFj0UAIkGlp9EsFEsu) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Los Dúo 3](https://open.spotify.com/album/3f8PsF3D3BxxQJGvN2nqXC) | 4:59 |
-| 48 | [Cachito](https://open.spotify.com/track/5S4rNAIyjLyUVdrGWy48Ub) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Cachito](https://open.spotify.com/album/0OcBXPOOzTDvQKUJxnQSvf) | 3:08 |
-| 49 | [A Un Beso](https://open.spotify.com/track/5c8KTKmAo3zlqBSsvnQrmB) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [A Un Beso](https://open.spotify.com/album/5x4CHqbGKiDrkE8CNcdlwk) | 3:37 |
+| 47 | [A Un Beso](https://open.spotify.com/track/5c8KTKmAo3zlqBSsvnQrmB) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [A Un Beso](https://open.spotify.com/album/5x4CHqbGKiDrkE8CNcdlwk) | 3:37 |
+| 48 | [De Mí Enamórate](https://open.spotify.com/track/6JmCyFj0UAIkGlp9EsFEsu) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Los Dúo 3](https://open.spotify.com/album/3f8PsF3D3BxxQJGvN2nqXC) | 4:59 |
+| 49 | [Cachito](https://open.spotify.com/track/5S4rNAIyjLyUVdrGWy48Ub) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Cachito](https://open.spotify.com/album/0OcBXPOOzTDvQKUJxnQSvf) | 3:08 |
 | 50 | [MÍA](https://open.spotify.com/track/2HWXhViZhTPJa10NgyrRRS) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [MÍA](https://open.spotify.com/album/7w4L4dKgKRlErEaYooPvoz) | 3:10 |
 
-Snapshot ID: `aZ47gAAAAAD4wEvD1neVD5EOEs/zwb+9`
+Snapshot ID: `aZ+NAAAAAAB4SHSbefFgqyTYSBziXWV7`

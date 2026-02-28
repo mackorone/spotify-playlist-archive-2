@@ -1,6 +1,6 @@
 {
   "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d",
-  "num_followers": 87414,
+  "num_followers": 87428,
   "original_name": "Ny Pop",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,30 @@
     {
       "added_at": "2026-02-26 23:00:42",
       "album": {
+        "name": "Save My Love",
+        "url": "https://open.spotify.com/album/16OQglx2ocK2F03OgmYIxh"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        }
+      ],
+      "duration_ms": 210404,
+      "name": "Save My Love",
+      "url": "https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8"
+    },
+    {
+      "added_at": "2026-02-26 23:00:42",
+      "album": {
         "name": "Something In The Heavens",
         "url": "https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf"
       },
@@ -467,30 +491,6 @@
       "duration_ms": 243667,
       "name": "Funeral",
       "url": "https://open.spotify.com/track/3KcmK26eTYJ3Rz1Vb8qs5Z"
-    },
-    {
-      "added_at": "2026-02-26 23:00:42",
-      "album": {
-        "name": "Save My Love",
-        "url": "https://open.spotify.com/album/16OQglx2ocK2F03OgmYIxh"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        }
-      ],
-      "duration_ms": 210404,
-      "name": "Save My Love",
-      "url": "https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8"
     },
     {
       "added_at": "2026-02-26 23:00:42",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-02-26 23:00:42",
       "album": {
-        "name": "V\u00e4ntat",
-        "url": "https://open.spotify.com/album/7KdMdwaPx35CBkGEff2n4q"
-      },
-      "artists": [
-        {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "V\u00e4ntat",
-      "url": "https://open.spotify.com/track/6FlICUJXQ6JcBsdR7y9wuM"
-    },
-    {
-      "added_at": "2026-02-26 23:00:42",
-      "album": {
         "name": "SEES IGJEN",
         "url": "https://open.spotify.com/album/0ouuDuGD9Jn8D8i4dHbxcD"
       },
@@ -855,22 +839,6 @@
       "duration_ms": 207157,
       "name": "SEES IGJEN",
       "url": "https://open.spotify.com/track/6vW1RECrVCKf1WrlOjdmku"
-    },
-    {
-      "added_at": "2026-02-26 23:00:42",
-      "album": {
-        "name": "Play (Extended Edition)",
-        "url": "https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 215511,
-      "name": "Camera",
-      "url": "https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew"
     },
     {
       "added_at": "2026-02-26 23:00:42",
@@ -895,6 +863,54 @@
     {
       "added_at": "2026-02-26 23:00:42",
       "album": {
+        "name": "Play (Extended Edition)",
+        "url": "https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 215511,
+      "name": "Camera",
+      "url": "https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew"
+    },
+    {
+      "added_at": "2026-02-26 23:00:42",
+      "album": {
+        "name": "V\u00e4ntat",
+        "url": "https://open.spotify.com/album/7KdMdwaPx35CBkGEff2n4q"
+      },
+      "artists": [
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "V\u00e4ntat",
+      "url": "https://open.spotify.com/track/6FlICUJXQ6JcBsdR7y9wuM"
+    },
+    {
+      "added_at": "2026-02-26 23:00:42",
+      "album": {
+        "name": "A Minute, A Moment...",
+        "url": "https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea"
+    },
+    {
+      "added_at": "2026-02-26 23:00:42",
+      "album": {
         "name": "Lommeringe (feat. Emma Steinbakken)",
         "url": "https://open.spotify.com/album/0BPKNoGYFszX7D6whMtZMO"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 173888,
       "name": "Lommeringe (feat. Emma Steinbakken)",
       "url": "https://open.spotify.com/track/3Uu2LAOqiEG3ydnTYT4Y6l"
-    },
-    {
-      "added_at": "2026-02-26 23:00:42",
-      "album": {
-        "name": "A Minute, A Moment...",
-        "url": "https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea"
     },
     {
       "added_at": "2026-02-26 23:00:42",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-02-26 23:00:42",
       "album": {
+        "name": "Love Can Grow",
+        "url": "https://open.spotify.com/album/5iVTqjz6O8WR33Xe9MkXWk"
+      },
+      "artists": [
+        {
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
+        }
+      ],
+      "duration_ms": 193889,
+      "name": "Love Can Grow",
+      "url": "https://open.spotify.com/track/6uXE1eYTnvxngLUfmuRNsu"
+    },
+    {
+      "added_at": "2026-02-26 23:00:42",
+      "album": {
         "name": "Under v\u00e5re laken",
         "url": "https://open.spotify.com/album/5yODFEPfLq1PmKRuNwyAQ3"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 237212,
       "name": "Under v\u00e5re laken",
       "url": "https://open.spotify.com/track/4sMY1lEwenHvbSuE8HkTQM"
-    },
-    {
-      "added_at": "2026-02-26 23:00:42",
-      "album": {
-        "name": "Love Can Grow",
-        "url": "https://open.spotify.com/album/5iVTqjz6O8WR33Xe9MkXWk"
-      },
-      "artists": [
-        {
-          "name": "Declan J Donovan",
-          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
-        }
-      ],
-      "duration_ms": 193889,
-      "name": "Love Can Grow",
-      "url": "https://open.spotify.com/track/6uXE1eYTnvxngLUfmuRNsu"
     },
     {
       "added_at": "2026-02-26 23:00:42",

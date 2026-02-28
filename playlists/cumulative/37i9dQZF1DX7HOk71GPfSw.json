@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Our favorite MGNA Crrrta since 1215 \ud83d\udc9e",
+  "description": "<3 ___ <3",
   "name": "hyperpop",
   "tracks": [
     {
@@ -2214,7 +2214,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 290571,
       "name": "Airglow",
       "url": "https://open.spotify.com/track/1vczvREfjA7ZVXpdpthnoE"
@@ -6148,7 +6148,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 200625,
       "name": "body (i want you)",
       "url": "https://open.spotify.com/track/3y8Ek4gLumZB1wMsIzbNsH"
@@ -9840,7 +9840,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 171426,
       "name": "Copycats",
       "url": "https://open.spotify.com/track/0N8aH4DmGUEZWJMo6WVPbY"
@@ -13014,7 +13014,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 226829,
       "name": "Dreamsong",
       "url": "https://open.spotify.com/track/0WgGzBW76xQPQXZB6U0YLF"
@@ -17839,6 +17839,24 @@
     },
     {
       "album": {
+        "name": "Get Used To Me",
+        "url": "https://open.spotify.com/album/7wVujmQw1lbNN2uqq1HobP"
+      },
+      "artists": [
+        {
+          "name": "Sorisa",
+          "url": "https://open.spotify.com/artist/5aHJ7mcBAI9x0Hv28IzNV8"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201919,
+      "name": "Get Used To Me",
+      "url": "https://open.spotify.com/track/5r8yYNy65zjzKVHLbXm04j"
+    },
+    {
+      "album": {
         "name": "Get What You Want",
         "url": "https://open.spotify.com/album/0dozzz1Bk0ou1zzYVw7mug"
       },
@@ -20242,6 +20260,24 @@
       "duration_ms": 198411,
       "name": "heart 4 heart",
       "url": "https://open.spotify.com/track/6k42eRkrkynbgclbyTMUxN"
+    },
+    {
+      "album": {
+        "name": "Heart Eyez",
+        "url": "https://open.spotify.com/album/4DujZQvETKRFVOkTdufiLn"
+      },
+      "artists": [
+        {
+          "name": "Disco Shrine",
+          "url": "https://open.spotify.com/artist/1IkijWWvTvWKuZ90kHwdHA"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176363,
+      "name": "Heart Eyez",
+      "url": "https://open.spotify.com/track/0noc6kyXQdeVTEnp3dzw6s"
     },
     {
       "album": {
@@ -23256,7 +23292,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 151587,
       "name": "iAmAcitykidiliveintheplAzAhotel",
       "url": "https://open.spotify.com/track/3VMRbEESulyIiyfYjfp8jK"
@@ -26647,6 +26683,24 @@
     },
     {
       "album": {
+        "name": "Oh My",
+        "url": "https://open.spotify.com/album/0b96OmXwEdvmsuTcH2iPt8"
+      },
+      "artists": [
+        {
+          "name": "Debbie Sings",
+          "url": "https://open.spotify.com/artist/5xrpKIIiDNRsPVOi0nYlkW"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123897,
+      "name": "Leave This City",
+      "url": "https://open.spotify.com/track/1WgazhZVgvqkbTobFvqrnq"
+    },
+    {
+      "album": {
         "name": "Leaving / Data (Urdata Versions)",
         "url": "https://open.spotify.com/album/4pzbArJQKk6AsKCK4vr4u9"
       },
@@ -29965,6 +30019,24 @@
     },
     {
       "album": {
+        "name": "Miami Crest",
+        "url": "https://open.spotify.com/album/7wddxaFYnH7K0s8aULp0ql"
+      },
+      "artists": [
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159493,
+      "name": "Miami Crest",
+      "url": "https://open.spotify.com/track/5BWL1daZx8NkFETSMAWm4q"
+    },
+    {
+      "album": {
         "name": "True North",
         "url": "https://open.spotify.com/album/5CMPddM08M99BREQ7Rc5Tl"
       },
@@ -30476,6 +30548,24 @@
       "duration_ms": 202609,
       "name": "Modern Warfare",
       "url": "https://open.spotify.com/track/0o9B36SwyWjYnoXLWAyLzj"
+    },
+    {
+      "album": {
+        "name": "Moire",
+        "url": "https://open.spotify.com/album/5yxDD9kqU4961uarBjkhNi"
+      },
+      "artists": [
+        {
+          "name": "GRRL",
+          "url": "https://open.spotify.com/artist/0JpzRsUcCKSyr44mQiosNg"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160213,
+      "name": "Moire",
+      "url": "https://open.spotify.com/track/64xwM6gRhzh9XlTCYFX6y3"
     },
     {
       "album": {
@@ -31650,6 +31740,24 @@
       "duration_ms": 190500,
       "name": "Need You",
       "url": "https://open.spotify.com/track/6tidodcans7kdPcaVkOVWK"
+    },
+    {
+      "album": {
+        "name": "Needle Guy",
+        "url": "https://open.spotify.com/album/2aDQC4StC9XTzDy9psxoXH"
+      },
+      "artists": [
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179560,
+      "name": "Needle Guy",
+      "url": "https://open.spotify.com/track/62m3y5RL0VGhxbV9zy0fDz"
     },
     {
       "album": {
@@ -33839,6 +33947,24 @@
     },
     {
       "album": {
+        "name": "one4u",
+        "url": "https://open.spotify.com/album/7GzKdWFhCzGI7atbZglKuF"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255428,
+      "name": "one4u",
+      "url": "https://open.spotify.com/track/22QyJJgibWEtYCXxTQlbOh"
+    },
+    {
+      "album": {
         "name": "online_v3!!! *BOUNCE BACK*",
         "url": "https://open.spotify.com/album/51JwYMyDZ0VfzY9pejdmVf"
       },
@@ -34134,7 +34260,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 106031,
       "name": "Ouroboros",
       "url": "https://open.spotify.com/track/63boTXkmnOSIOSQnjp0FRO"
@@ -36447,6 +36573,24 @@
     },
     {
       "album": {
+        "name": "prototype",
+        "url": "https://open.spotify.com/album/0xRNPryFtPD67496idfDsO"
+      },
+      "artists": [
+        {
+          "name": "pnkdrco",
+          "url": "https://open.spotify.com/artist/54ui5N3fVlyC2imsAakAhI"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99265,
+      "name": "prototype",
+      "url": "https://open.spotify.com/track/7qgqbZW6SeqV1iEYTRP4nS"
+    },
+    {
+      "album": {
         "name": "Provoke",
         "url": "https://open.spotify.com/album/7Apri4bZsKuqkOGQHk1moN"
       },
@@ -37846,6 +37990,24 @@
       "duration_ms": 112847,
       "name": "RED EYES BLACK DRAGON CHAIN",
       "url": "https://open.spotify.com/track/3dQtwcynncDonT1X0tBQLI"
+    },
+    {
+      "album": {
+        "name": "Red Horse",
+        "url": "https://open.spotify.com/album/6EzjgA9a0soBHbBFIrwk55"
+      },
+      "artists": [
+        {
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146351,
+      "name": "Red Horse",
+      "url": "https://open.spotify.com/track/7C36qjso9lFwADSdoOU0gj"
     },
     {
       "album": {
@@ -44560,7 +44722,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 100500,
       "name": "SwedishWinterDepression",
       "url": "https://open.spotify.com/track/2amgwr4hJ5sYWO6OlMupr7"
@@ -45516,7 +45678,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 145918,
       "name": "techno s3x!",
       "url": "https://open.spotify.com/track/3TWPapEzNeVlkPqCIMDxpe"
@@ -45622,6 +45784,24 @@
       "duration_ms": 163532,
       "name": "tell me",
       "url": "https://open.spotify.com/track/29hQU0F1P9mxjAallGIZ4J"
+    },
+    {
+      "album": {
+        "name": "Tell Me (U Want It)",
+        "url": "https://open.spotify.com/album/3JedLQJK34WnW9thqc8BAo"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213250,
+      "name": "Tell Me (U Want It)",
+      "url": "https://open.spotify.com/track/1dsKLYqHpiIkgTK4TdMUzy"
     },
     {
       "album": {
@@ -48130,7 +48310,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 102954,
       "name": "Uhh mientes",
       "url": "https://open.spotify.com/track/726bJogFdJlyj9fAkbR7bv"
@@ -48618,7 +48798,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 137440,
       "name": "UP TO MY NECK IN U",
       "url": "https://open.spotify.com/track/6Gcf36dXcnt1QE9s1hmzfF"
@@ -50302,7 +50482,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 159750,
       "name": "WHERE U R (angel with no feathers)",
       "url": "https://open.spotify.com/track/3G8ZoCkS3o9EGrF9W8VmvQ"
@@ -51604,6 +51784,24 @@
       "duration_ms": 175298,
       "name": "ZERO",
       "url": "https://open.spotify.com/track/2TGL64n9M3FdwgGzc3FmRT"
+    },
+    {
+      "album": {
+        "name": "J is for Joon",
+        "url": "https://open.spotify.com/album/39F32WxX76dNnQG5vzw90w"
+      },
+      "artists": [
+        {
+          "name": "Ms* Gloom",
+          "url": "https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234874,
+      "name": "Zines & Gibberish",
+      "url": "https://open.spotify.com/track/164KRTDMG3ol7IMpgK38bv"
     },
     {
       "album": {

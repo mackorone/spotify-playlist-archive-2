@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Z99viCDp7Q.md) - [plain]
 
 > Special songs for your special day\. Cover: Alex Warren and Kouvr Annon 💗
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,119 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,188 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,14 +41,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Z99viCDp7Q.md) - [plain]
 | 31 | [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/album/4b13SJlne61y53KSEwuQtD) | 3:32 |
 | 32 | [pov](https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 3:21 |
 | 33 | [Love Story \(Taylor’s Version\)](https://open.spotify.com/track/6YvqWjhGD8mB5QXcbcUKtx) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:55 |
-| 34 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 |
-| 35 | [Just the Way You Are](https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 4:50 |
+| 34 | [Just the Way You Are](https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 4:50 |
+| 35 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 |
 | 36 | [You're Still The One](https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:32 |
 | 37 | [Can't Take My Eyes off You](https://open.spotify.com/track/6ft9PAgNOjmZ2kFVP7LGqb) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [The Very Best of Frankie Valli & The 4 Seasons](https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ) | 3:23 |
 | 38 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 |
 | 39 | [This Will Be \(An Everlasting Love\)](https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Inseparable](https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx) | 2:51 |
-| 40 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 |
-| 41 | [Die A Happy Man](https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:47 |
+| 40 | [Die A Happy Man](https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:47 |
+| 41 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 |
 | 42 | [Falling Like The Stars](https://open.spotify.com/track/395KzBy0bkb57dEvg6cfzJ) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 3:32 |
 | 43 | [All My Life](https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Love Always](https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu) | 5:31 |
 | 44 | [Anyone](https://open.spotify.com/track/2WnAKZefdRHxtBEkRjFOHC) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:10 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Z99viCDp7Q.md) - [plain]
 | 70 | [From the Ground Up](https://open.spotify.com/track/0lQJBl9YEsoMtE8D4yTE9g) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Obsessed](https://open.spotify.com/album/4rQa0t2qWm1MNPy7DNEUHB) | 4:13 |
 | 71 | [Die With A Smile \- Acoustic](https://open.spotify.com/track/6gSkYEONe1fCvrOUgmXZTy) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile \(Acoustic\)](https://open.spotify.com/album/5eLr5u0UcnXjtNZgbnsoYS) | 4:11 |
 | 72 | [Golden Hour](https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:18 |
-| 73 | [I Will Follow You into the Dark](https://open.spotify.com/track/2ndWbjiiNBEOrlfToKlABE) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/4guW5WPxFzHrXg04FPC9v9) | 3:09 |
-| 74 | [I Choose You](https://open.spotify.com/track/01twL64hJwU3kAiSsUsIVa) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [I Choose You](https://open.spotify.com/album/4rbl87dwD8DuREheLUJsyR) | 3:00 |
+| 73 | [I Choose You](https://open.spotify.com/track/01twL64hJwU3kAiSsUsIVa) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [I Choose You](https://open.spotify.com/album/4rbl87dwD8DuREheLUJsyR) | 3:00 |
+| 74 | [I Will Follow You into the Dark](https://open.spotify.com/track/2ndWbjiiNBEOrlfToKlABE) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/4guW5WPxFzHrXg04FPC9v9) | 3:09 |
 | 75 | [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 |
 
 Snapshot ID: `AAAAAJaIuJjGNf22mYNur3quzpURgwKy`

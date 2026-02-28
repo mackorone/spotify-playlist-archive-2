@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-373 songs - 1 day 10 hr 30 min
+374 songs - 1 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Antidote](https://open.spotify.com/track/2o8Mv0acwqg9zT4Cx1ZGVL) | [Thomas Helmich](https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml) | [Extraterrestrial Intelligence](https://open.spotify.com/album/5CeNGjzJBPrdaLmZ5EtrGR) | 5:26 | 2024-07-26 | 2025-04-11 |
 | [Apache \- Nusha Remix](https://open.spotify.com/track/3nx53u9SFSgFdxChE8nMrj) | [Dense & Pika](https://open.spotify.com/artist/3tlt5onLwIKTuaOAyI6ytC), [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q) | [Apache \(Nusha Remix\)](https://open.spotify.com/album/4RVzlhV7VQgp8hWO48lQMg) | 6:06 | 2023-10-27 | 2024-01-27 |
 | [Apache \- Nusha Remix](https://open.spotify.com/track/5CHtVqIbKlNFHvrHEUNwaj) | [Dense & Pika](https://open.spotify.com/artist/3tlt5onLwIKTuaOAyI6ytC), [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q) | [Apache \(Nusha Remix\)](https://open.spotify.com/album/0QzWgGeyFEcy2gWFzZykDQ) | 6:06 | 2023-05-05 | 2023-11-05 |
-| [Apple Of My Eye](https://open.spotify.com/track/5sCqIIOt4sfiPdi0tScrER) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0) | [Apple Of My Eye](https://open.spotify.com/album/4jiXyJjieMfHNfOv3EZr4d) | 3:31 | 2025-10-10 |  |
+| [Apple Of My Eye](https://open.spotify.com/track/5sCqIIOt4sfiPdi0tScrER) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0) | [Apple Of My Eye](https://open.spotify.com/album/4jiXyJjieMfHNfOv3EZr4d) | 3:31 | 2025-10-10 | 2026-02-28 |
 | [Are Am Eye? \- Roger Shah & Cores Short Edit](https://open.spotify.com/track/6SoOlvrcw4GhmQoq9araKD) | [Commander Tom](https://open.spotify.com/artist/1mlDy7thi2GGZ5ybFxjnmd), [Cores](https://open.spotify.com/artist/7cPTd41SGeifvTvz4DmK9M), [Roger Shah](https://open.spotify.com/artist/3dAnWbqTzCOK1jdiK2v3gI) | [Are Am Eye? Roger Shah & Cores Remix](https://open.spotify.com/album/1sdYiS8ZuS0NmT6o9uyezT) | 3:32 | 2022-09-16 |  |
 | [Artefact](https://open.spotify.com/track/33QwWRC57OnQSkmAvrvjJI) | [Moritz Sachse](https://open.spotify.com/artist/2yPFNVTKTqKeIn3leJpeq3) | [VA: CAELUM](https://open.spotify.com/album/77IT6pLjTXeFxzSn1VndEN) | 7:03 | 2023-05-26 | 2023-07-15 |
 | [artificial light](https://open.spotify.com/track/3MTjeFi4TKj2PsGOtTflwS) | [shot by stanley](https://open.spotify.com/artist/5jVEGx3UP7jXfHzVoaZOuJ) | [artificial light](https://open.spotify.com/album/2FQnbUiFMwoLUOGxY2TrNZ) | 4:30 | 2025-07-11 |  |
@@ -116,6 +116,7 @@
 | [Fantasy \- Extended Mix](https://open.spotify.com/track/2yKqhmoxG33Pl7mW59KU6n) | [Fifty Five](https://open.spotify.com/artist/2sWTgm6qQXV3Ebyg3T9FD2), [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Désirée](https://open.spotify.com/artist/7igTH5z3uoVbKRvQ3M10fG) | [Fantasy](https://open.spotify.com/album/4F2UVqJr4RQ6tWOEC3dAxg) | 5:20 | 2024-08-09 | 2025-04-26 |
 | [Fata Morgana](https://open.spotify.com/track/4euEvn1jjxEqY9AOXCwR1y) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Fata Morgana](https://open.spotify.com/album/1DkEi6XopdxU3NGXYmYdAu) | 3:09 | 2022-09-16 | 2022-10-08 |
 | [Fire](https://open.spotify.com/track/02xvpUN3o4BegUDrfqv5ao) | [CJ Bolland](https://open.spotify.com/artist/51OKtNtm24ALAjAHBMiFng) | [The Fire](https://open.spotify.com/album/3Fe4a70NPiblcAadRnUXcv) | 4:25 | 2022-09-16 | 2024-05-25 |
+| [Flair](https://open.spotify.com/track/4JehnCDNmDN5sPjdstrdKI) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0) | [Flair](https://open.spotify.com/album/3XblzHRdDhDp2JBYLaDeXU) | 3:52 | 2026-02-27 |  |
 | [Flight Number](https://open.spotify.com/track/5Ek7y6nNqZaQaC8s005K5O) | [Smilla](https://open.spotify.com/artist/4GNUAjOnCWs0kuq2ikLBVK) | [Shift Sequence](https://open.spotify.com/album/4MeMM1mQNBMUlrJtDV8WXn) | 5:56 | 2022-09-16 | 2024-06-29 |
 | [Flockentanz \- 2024 Remake](https://open.spotify.com/track/07iPWNVMyNWK9LF5tT6LWO) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Flockentanz Remixes](https://open.spotify.com/album/3yF9V62Qh45yKNX416mef3) | 8:00 | 2024-05-24 |  |
 | [Fly](https://open.spotify.com/track/3gp5lbLAuDgcwFu7CxQffZ) | [Nick Schwenderling](https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6) | [Fly](https://open.spotify.com/album/1qik9Gr4EhhOMb2jDUpyTA) | 3:48 | 2022-12-22 | 2023-01-21 |

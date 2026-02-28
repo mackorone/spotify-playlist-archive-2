@@ -933,6 +933,24 @@
     },
     {
       "album": {
+        "name": "black tears",
+        "url": "https://open.spotify.com/album/1nvoVie8QSZtNPJPMmCzqZ"
+      },
+      "artists": [
+        {
+          "name": "all things break",
+          "url": "https://open.spotify.com/artist/7krmtqHJ8N1fg1JkjlrP0P"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124787,
+      "name": "black tears",
+      "url": "https://open.spotify.com/track/4lzsFM6Niynyr5C1GoNqT2"
+    },
+    {
+      "album": {
         "name": "Bleecker",
         "url": "https://open.spotify.com/album/3E7WTyyZV0bx1EcLJFQQDh"
       },

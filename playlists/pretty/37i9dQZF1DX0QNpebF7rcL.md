@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Joe Bonamassa
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,176 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,242 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Don't Take Advantage Of Me](https://open.spotify.com/track/4gUBKPFYxnIxf1v49CX0vf) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Don’t Take Advantage Of Me](https://open.spotify.com/album/5IQTaJtWRL77KVm1xuc0gj) | 4:32 |
-| 2 | [The Thrill Is Gone](https://open.spotify.com/track/1uhMPhUvVTQV9aawmxepS7) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [B.B\. King's Blues Summit 100](https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6) | 5:05 |
-| 3 | [Perfect Illusion](https://open.spotify.com/track/3PQVdzi8AzhCezucKB1R3Q) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Perfect Illusion](https://open.spotify.com/album/0guLOURlqAn4TaBdAzGvhA) | 4:14 |
-| 4 | [One Mississippi](https://open.spotify.com/track/5ZPcNZ30ErhH7d2WfLabi4) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [One Mississippi](https://open.spotify.com/album/3gkxsfKsBhUUsP3uhIEMGH) | 3:38 |
-| 5 | [Too Broke](https://open.spotify.com/track/4OzazzaU3Jv3Sf2czAp2kr) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Labor Of Love](https://open.spotify.com/album/3tM2BhfXRTk19q2aD2fLhf) | 2:59 |
-| 6 | [Hammer & Chisel](https://open.spotify.com/track/5dvMSxQxXTju4LR408NRwC) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Hammer & Chisel](https://open.spotify.com/album/5calaNHiZo8sYfIZSq30OY) | 3:47 |
+| 1 | [Who Can You Trust](https://open.spotify.com/track/0QBATyfMWV08KwlAaSCIfW) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Hammer & Chisel](https://open.spotify.com/album/6g8ujDUf9iXslvByOXW6S7) | 4:16 |
+| 2 | [Don't Take Advantage Of Me](https://open.spotify.com/track/4gUBKPFYxnIxf1v49CX0vf) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Don’t Take Advantage Of Me](https://open.spotify.com/album/5IQTaJtWRL77KVm1xuc0gj) | 4:32 |
+| 3 | [The Thrill Is Gone](https://open.spotify.com/track/1uhMPhUvVTQV9aawmxepS7) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [B.B\. King's Blues Summit 100](https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6) | 5:05 |
+| 4 | [Perfect Illusion](https://open.spotify.com/track/3PQVdzi8AzhCezucKB1R3Q) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Perfect Illusion](https://open.spotify.com/album/0guLOURlqAn4TaBdAzGvhA) | 4:14 |
+| 5 | [One Mississippi](https://open.spotify.com/track/5ZPcNZ30ErhH7d2WfLabi4) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [One Mississippi](https://open.spotify.com/album/3gkxsfKsBhUUsP3uhIEMGH) | 3:38 |
+| 6 | [Too Broke](https://open.spotify.com/track/4OzazzaU3Jv3Sf2czAp2kr) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Labor Of Love](https://open.spotify.com/album/3tM2BhfXRTk19q2aD2fLhf) | 2:59 |
 | 7 | [Little By Little](https://open.spotify.com/track/3B9rNHb7e2mGRoFGFbn5Wx) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [Little By Little](https://open.spotify.com/album/2hawlSOnUjx36npp6OpUvm) | 5:08 |
 | 8 | [Flyin’ High \[Yesterday\]](https://open.spotify.com/track/2dl5oYgHph3A1HiNJI5nOS) | [Solomon Hicks](https://open.spotify.com/artist/6wOhfVrtGnmbLlgcAHSR1k) | [How Did I Ever Get This Blue](https://open.spotify.com/album/5WqWzHGGF2pxly2Mcu4xfo) | 3:14 |
 | 9 | [Hell Or High Water](https://open.spotify.com/track/5CVi1Y4FCzWAi9cY1gHl8K) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Hell Or High Water](https://open.spotify.com/album/5iBCXTVY0QnvyAhpiNONTF) | 3:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [2x2](https://open.spotify.com/track/1ErjgoKMkRUjsEQ50bFaTJ) | [Taj Farrant](https://open.spotify.com/artist/33yogRYdM0M5dc9VxfoqaJ) | [2x2](https://open.spotify.com/album/5bgr5dGuxXoVUZigkqMGcK) | 2:40 |
 | 100 | [Juke Joint](https://open.spotify.com/track/3wdI9KWEqn7uXIaM1pj1L6) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Hill Country Love](https://open.spotify.com/album/6nziuDYeLmZtW4BdypRzfH) | 2:51 |
 
-Snapshot ID: `AAAAAIWcL+U5T5MOcABDoCK1QykJLQMI`
+Snapshot ID: `AAAAAOb8mNEbabYPZAWSPUU/x2VXLGgg`

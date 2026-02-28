@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music from Baby Keem, Central Cee and Don Toliver.",
+  "description": "New music from Yeat, Esdeekid, Swae Lee and Baby Keem. ",
   "name": "RapCaviar",
   "tracks": [
     {
@@ -699,6 +699,44 @@
     },
     {
       "album": {
+        "name": "It's Us Vol. 2",
+        "url": "https://open.spotify.com/album/7rzXMS4cXlXe58t1AvPDDS"
+      },
+      "artists": [
+        {
+          "name": "Concrete Boys",
+          "url": "https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Draft Day",
+          "url": "https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L"
+        },
+        {
+          "name": "Camo!",
+          "url": "https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b"
+        },
+        {
+          "name": "Honest",
+          "url": "https://open.spotify.com/artist/0UVv3tdAVAmHXHhhMOQyhX"
+        },
+        {
+          "name": "Dc2trill",
+          "url": "https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215681,
+      "name": "3 SYRUPS (feat. Lil Yachty, Camo!, Dc2trill, Draft Day, Honest)",
+      "url": "https://open.spotify.com/track/0Rb0e3DPB2PluJQflNDAEd"
+    },
+    {
+      "album": {
         "name": "Kutthroat Bill: Vol. 1",
         "url": "https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs"
       },
@@ -1226,6 +1264,36 @@
       "duration_ms": 176583,
       "name": "6locc 6a6y (feat. NLE Choppa) - Remix",
       "url": "https://open.spotify.com/track/60eZwR3BMCP2yVkUBsD69O"
+    },
+    {
+      "album": {
+        "name": "6WA",
+        "url": "https://open.spotify.com/album/23YB6arrlcMYHpeMT72TaO"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
+        },
+        {
+          "name": "MurdaGang PB",
+          "url": "https://open.spotify.com/artist/5vdwkO2Let6z32D2Oa9MEr"
+        },
+        {
+          "name": "Yung Hood",
+          "url": "https://open.spotify.com/artist/3OTNDa1tTW4HSiGfxZuJkI"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128573,
+      "name": "6WA",
+      "url": "https://open.spotify.com/track/6fODAgyTJdN7ATeJOP81dj"
     },
     {
       "album": {
@@ -2440,7 +2508,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 219767,
       "name": "All On Me (feat. G Herbo)",
       "url": "https://open.spotify.com/track/0pVYhms1xQW1TFsyl1SDmH"
@@ -5962,7 +6030,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 136542,
       "name": "Birds & the Bees",
       "url": "https://open.spotify.com/track/7bwLHhqhRu0fVTM3aaeK9V"
@@ -9649,6 +9717,24 @@
     },
     {
       "album": {
+        "name": "Ca$ino",
+        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292359,
+      "name": "Circus Circus Free$tyle",
+      "url": "https://open.spotify.com/track/5waTXjl4V7YBw1Bo4CsjlM"
+    },
+    {
+      "album": {
         "name": "City Lights",
         "url": "https://open.spotify.com/album/1lfQlXzzgUbMBNQmyrDBhp"
       },
@@ -13062,7 +13148,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 209600,
       "name": "Drive Alone",
       "url": "https://open.spotify.com/track/52O0lWLhF9VoOVACnlnAnS"
@@ -13609,6 +13695,28 @@
     },
     {
       "album": {
+        "name": "Enemies",
+        "url": "https://open.spotify.com/album/0AnyKXm0HB8OhBXqkJNHeF"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181670,
+      "name": "Enemies",
+      "url": "https://open.spotify.com/track/4KYf8TBVU4QHZlSnVOn7u8"
+    },
+    {
+      "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/3KziODx7ieQTgYCVrS6nBv"
       },
@@ -13960,6 +14068,32 @@
       "duration_ms": 294357,
       "name": "Everybody\u2019s Looking At Me",
       "url": "https://open.spotify.com/track/4yYI0Cly9B2p8XbNxfNCRy"
+    },
+    {
+      "album": {
+        "name": "Spiral Staircases",
+        "url": "https://open.spotify.com/album/4XGYIMntQYL5PPjsUZJoGJ"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173266,
+      "name": "Everything Allocated",
+      "url": "https://open.spotify.com/track/5ohaehTCqi0VyCQuDmCc6x"
     },
     {
       "album": {
@@ -14348,6 +14482,28 @@
       "duration_ms": 174373,
       "name": "Fact (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/5ht9obvnnWeW4eoRtPAoQD"
+    },
+    {
+      "album": {
+        "name": "BE VERY AFRAID (Vol. 1)",
+        "url": "https://open.spotify.com/album/4K9r7DoXIz7ZsD1P6nsZz1"
+      },
+      "artists": [
+        {
+          "name": "CHASE B",
+          "url": "https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209639,
+      "name": "Facts",
+      "url": "https://open.spotify.com/track/0vqn83gxRRty97jHU2zhxp"
     },
     {
       "album": {
@@ -15514,6 +15670,24 @@
       "duration_ms": 100465,
       "name": "Flamerz Flow",
       "url": "https://open.spotify.com/track/74saqPvlvYTPwXORWa9IeU"
+    },
+    {
+      "album": {
+        "name": "FLAMMABLE",
+        "url": "https://open.spotify.com/album/5FS2IqrUicInbFJOS4bAHH"
+      },
+      "artists": [
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197551,
+      "name": "FLAMMABLE",
+      "url": "https://open.spotify.com/track/1d5sIc2QcHgSMYvGcnsLhe"
     },
     {
       "album": {
@@ -18880,7 +19054,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 232424,
       "name": "Good Flirts (feat. Kendrick Lamar & Momo Boyd)",
       "url": "https://open.spotify.com/track/5sHeIGDbdzw8DeO57XZKIy"
@@ -21956,6 +22130,24 @@
       "duration_ms": 183001,
       "name": "Hottest in the City",
       "url": "https://open.spotify.com/track/22Fwimjd0oaL06eU7Aura4"
+    },
+    {
+      "album": {
+        "name": "Ca$ino",
+        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195612,
+      "name": "House Money",
+      "url": "https://open.spotify.com/track/5Th1SPySWgYlkXXC6wLMwL"
     },
     {
       "album": {
@@ -27164,7 +27356,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 254373,
       "name": "Life We Live (feat. Namond Lumpkin & Edgar Fletcher)",
       "url": "https://open.spotify.com/track/3A4S0o95OxSgRbqEnEMsn4"
@@ -28599,6 +28791,28 @@
     },
     {
       "album": {
+        "name": "Made It On Our Own",
+        "url": "https://open.spotify.com/album/5pXYL4x2dOkvxM0aeigqwF"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169090,
+      "name": "Made It On Our Own",
+      "url": "https://open.spotify.com/track/13Z2JpNwN54a5WXacGYtLs"
+    },
+    {
+      "album": {
         "name": "ESCAPE PLAN / MAFIA",
         "url": "https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve"
       },
@@ -29212,6 +29426,28 @@
       "duration_ms": 187034,
       "name": "Me & You",
       "url": "https://open.spotify.com/track/12Us8e6NFesdkXKf4StU1I"
+    },
+    {
+      "album": {
+        "name": "big country",
+        "url": "https://open.spotify.com/album/7HkystmvAIsYWSHg68Uo0Y"
+      },
+      "artists": [
+        {
+          "name": "sosocamo",
+          "url": "https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd"
+        },
+        {
+          "name": "SoFaygo",
+          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149917,
+      "name": "me & you",
+      "url": "https://open.spotify.com/track/0XczPtF9mvVPqau0WUqJAT"
     },
     {
       "album": {
@@ -33134,7 +33370,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 247894,
       "name": "Not So Virgo of You",
       "url": "https://open.spotify.com/track/06iPWbs7FDigzZ0hSW7lo1"
@@ -34188,7 +34424,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 185400,
       "name": "One of Them Ones",
       "url": "https://open.spotify.com/track/6f0UpQ2qdNevj7NARngtna"
@@ -36044,7 +36280,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 109759,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
@@ -40810,7 +41046,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 242573,
       "name": "Run A Train (with Future)",
       "url": "https://open.spotify.com/track/4pPJQ2p8jIsBuvxEIW2R99"
@@ -45630,7 +45866,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 200170,
       "name": "STOP SNITCHING (feat. BossMan Dlow & Sauce Walka)",
       "url": "https://open.spotify.com/track/2lSDVBIWbWQ7z5Lw15GRNw"

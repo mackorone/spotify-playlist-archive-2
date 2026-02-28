@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Le Belladone",
+  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Population II",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -218,7 +218,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 191476,
       "name": "Adieux",
       "url": "https://open.spotify.com/track/42sl6gsdJVJICsTcIHXS5b"
@@ -712,7 +712,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 153161,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/09ldOu23gZPJYwH0QMw6pp"
@@ -4477,6 +4477,24 @@
     },
     {
       "album": {
+        "name": "Million Rats",
+        "url": "https://open.spotify.com/album/3V1q7yanZrhK1Y0SFcDkmE"
+      },
+      "artists": [
+        {
+          "name": "distraction4ever",
+          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175909,
+      "name": "Million Rats",
+      "url": "https://open.spotify.com/track/3llooxIeqyhX3ySefkyrP3"
+    },
+    {
+      "album": {
         "name": "Milquetoast",
         "url": "https://open.spotify.com/album/6b3lLjWwLRbksC0vHNG72T"
       },
@@ -7040,6 +7058,24 @@
       "duration_ms": 205026,
       "name": "Vivante",
       "url": "https://open.spotify.com/track/6INiiv6q0t1aG4sT1BgGVw"
+    },
+    {
+      "album": {
+        "name": "Vivre et mourir en r\u00e9gion",
+        "url": "https://open.spotify.com/album/7gSLy6lCK5WDECT8PpHRzU"
+      },
+      "artists": [
+        {
+          "name": "PasMort",
+          "url": "https://open.spotify.com/artist/2uTrwIsXDbJ4b1JRwTzt6o"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116252,
+      "name": "Vivre et mourir en r\u00e9gion",
+      "url": "https://open.spotify.com/track/1pTlJ53M2ulqDpNus0FXSH"
     },
     {
       "album": {

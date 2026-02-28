@@ -6,8 +6,160 @@
     "name": "RDGO",
     "url": "https://open.spotify.com/user/rgonzalez196"
   },
-  "snapshot_id": "AAAGjC6PBPdpPSbQN7uezLBdBHjgDtod",
+  "snapshot_id": "AAAGjxxVOz2cGoPzSDRqeR7FDzHCBZ24",
   "tracks": [
+    {
+      "added_at": "2026-02-27 16:51:32",
+      "album": {
+        "name": "Check Check",
+        "url": "https://open.spotify.com/album/1ACuk1BWGrlaNTcpKloWkj"
+      },
+      "artists": [
+        {
+          "name": "Juush",
+          "url": "https://open.spotify.com/artist/4E3LoXmQVgt6uWJvAw9Olo"
+        },
+        {
+          "name": "RDGO",
+          "url": "https://open.spotify.com/artist/6UZEErPAl6SmBfodfX4U8c"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Check Check",
+      "url": "https://open.spotify.com/track/5z5udHhFRDtJvAAqLdU7Aa"
+    },
+    {
+      "added_at": "2026-02-27 16:51:32",
+      "album": {
+        "name": "Flex It",
+        "url": "https://open.spotify.com/album/4WjCHpeBmDFJOYl3dVP81O"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "\u00c6",
+          "url": "https://open.spotify.com/artist/4Jp6hHKtWHf0Skka44mbJe"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Flex It",
+      "url": "https://open.spotify.com/track/3xuUg8w6c9mXkaCrkhx9Vm"
+    },
+    {
+      "added_at": "2026-02-27 16:51:32",
+      "album": {
+        "name": "DREAM",
+        "url": "https://open.spotify.com/album/6eY2K479XOyF57yyf7u4wl"
+      },
+      "artists": [
+        {
+          "name": "V. Christie",
+          "url": "https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm"
+        },
+        {
+          "name": "\u00dcBERKLUBB",
+          "url": "https://open.spotify.com/artist/64sr4agNPkR3dtVQV64eAy"
+        }
+      ],
+      "duration_ms": 221632,
+      "name": "BY MY SIDE",
+      "url": "https://open.spotify.com/track/0VIO769924lW4gjyhRcvNP"
+    },
+    {
+      "added_at": "2026-02-27 16:51:32",
+      "album": {
+        "name": "DREAM",
+        "url": "https://open.spotify.com/album/6eY2K479XOyF57yyf7u4wl"
+      },
+      "artists": [
+        {
+          "name": "V. Christie",
+          "url": "https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm"
+        }
+      ],
+      "duration_ms": 263978,
+      "name": "DREAM",
+      "url": "https://open.spotify.com/track/3Gv4iRTcFcDJ3n12vCyWst"
+    },
+    {
+      "added_at": "2026-02-27 16:51:32",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/2B8YmT6sPzZk41N8WClBuo"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        },
+        {
+          "name": "Eloise Keeble",
+          "url": "https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9"
+        }
+      ],
+      "duration_ms": 192700,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3MhivhKf1CEfSFwD1ZwB5I"
+    },
+    {
+      "added_at": "2026-02-27 16:51:32",
+      "album": {
+        "name": "Sweet Flower (Feat. Emi Grace)",
+        "url": "https://open.spotify.com/album/0dgNZBer4wpHrmivRBbuY8"
+      },
+      "artists": [
+        {
+          "name": "Hans Glader",
+          "url": "https://open.spotify.com/artist/2xncrpOGGRImOgiWmbAPZG"
+        },
+        {
+          "name": "Emi Grace",
+          "url": "https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS"
+        }
+      ],
+      "duration_ms": 261208,
+      "name": "Sweet Flower (Feat. Emi Grace)",
+      "url": "https://open.spotify.com/track/2l5EEmemzcWD6GUOluauCp"
+    },
+    {
+      "added_at": "2026-02-27 16:51:32",
+      "album": {
+        "name": "hold tight",
+        "url": "https://open.spotify.com/album/4kUwLZkwyuhrcibGvmto12"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        },
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "duration_ms": 148645,
+      "name": "hold tight",
+      "url": "https://open.spotify.com/track/2gZpDSPgPs0N41CAtErXWz"
+    },
+    {
+      "added_at": "2026-02-27 16:51:32",
+      "album": {
+        "name": "Instinct 38",
+        "url": "https://open.spotify.com/album/6Wd3l7G8B9TbuBAsrew9pK"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/5HlCl9bk3XegCGmoTp1noF"
+        }
+      ],
+      "duration_ms": 356571,
+      "name": "Arisen",
+      "url": "https://open.spotify.com/track/1YcISpfEiONccA0hLrqNMS"
+    },
     {
       "added_at": "2026-02-11 18:43:12",
       "album": {

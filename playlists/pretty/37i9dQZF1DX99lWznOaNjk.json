@@ -1,32 +1,28 @@
 {
   "description": "Today's biggest and most exciting videos. Music videos available only on Premium.",
-  "num_followers": 3359,
+  "num_followers": 3610,
   "original_name": "Today's Top Videos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANZNIxMCXySxsAk9JAXslk3QIx1V",
+  "snapshot_id": "AAAAAOs/MpEe6OEYd5PM7WTtpMJPHMm4",
   "tracks": [
     {
-      "added_at": "2026-02-24 19:38:56",
+      "added_at": "2026-02-06 13:01:20",
       "album": {
-        "name": "Fancy Some More?",
-        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+        "name": "CHANEL",
+        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
       },
       "artists": [
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 184761,
-      "name": "Stateside + Zara Larsson",
-      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
+      "duration_ms": 188059,
+      "name": "CHANEL",
+      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
     },
     {
       "added_at": "2026-02-06 13:01:20",
@@ -43,6 +39,26 @@
       "duration_ms": 311733,
       "name": "Aperture",
       "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
+    },
+    {
+      "added_at": "2026-02-06 13:01:20",
+      "album": {
+        "name": "luther",
+        "url": "https://open.spotify.com/album/1015FLq4dfE55BwjmLZnVN"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 311091,
+      "name": "luther",
+      "url": "https://open.spotify.com/track/4WCLVsNdUhoq5Ue66YXTHb"
     },
     {
       "added_at": "2026-02-06 13:01:20",
@@ -79,26 +95,6 @@
     {
       "added_at": "2026-02-06 13:01:20",
       "album": {
-        "name": "luther",
-        "url": "https://open.spotify.com/album/1015FLq4dfE55BwjmLZnVN"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 311091,
-      "name": "luther",
-      "url": "https://open.spotify.com/track/4WCLVsNdUhoq5Ue66YXTHb"
-    },
-    {
-      "added_at": "2026-02-06 13:01:20",
-      "album": {
         "name": "Opalite",
         "url": "https://open.spotify.com/album/3QFoWoSKxCdj8Ad28kstOp"
       },
@@ -111,6 +107,42 @@
       "duration_ms": 359659,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3cWbxSR8DZS4Zu8cGwYlPT"
+    },
+    {
+      "added_at": "2026-02-24 19:38:56",
+      "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "Stateside + Zara Larsson",
+      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
+    },
+    {
+      "added_at": "2026-02-06 13:01:20",
+      "album": {
+        "name": "BIRDS OF A FEATHER",
+        "url": "https://open.spotify.com/album/4e2Mrqs5CgdDy4Dmx6ShiT"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 213258,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6uMOteLgUpMjkDQcCsoyo5"
     },
     {
       "added_at": "2026-02-20 01:04:45",
@@ -183,38 +215,6 @@
       "duration_ms": 165045,
       "name": "Sports car",
       "url": "https://open.spotify.com/track/5UJbgR4XF4y1DvbkxEqe8S"
-    },
-    {
-      "added_at": "2026-02-06 13:01:20",
-      "album": {
-        "name": "CHANEL",
-        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 188059,
-      "name": "CHANEL",
-      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
-    },
-    {
-      "added_at": "2026-02-06 13:01:20",
-      "album": {
-        "name": "BIRDS OF A FEATHER",
-        "url": "https://open.spotify.com/album/4e2Mrqs5CgdDy4Dmx6ShiT"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 213258,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6uMOteLgUpMjkDQcCsoyo5"
     },
     {
       "added_at": "2026-02-06 13:01:20",

@@ -1,6 +1,6 @@
 {
   "description": "\u2744\ufe0f\u2744\ufe0f\u2744\ufe0f\n",
-  "num_followers": 159626,
+  "num_followers": 159617,
   "original_name": "vintertid",
   "owner": {
     "name": "Spotify",
@@ -151,22 +151,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Henry, come on",
-        "url": "https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 311269,
-      "name": "Henry, come on",
-      "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "Sjelen",
         "url": "https://open.spotify.com/album/1MPznXnULu0vA6rNA6O32L"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 168930,
       "name": "Sjelen",
       "url": "https://open.spotify.com/track/6Azklj5eui0iZ4ikG0L47g"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "Henry, come on",
+        "url": "https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 311269,
+      "name": "Henry, come on",
+      "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -335,26 +335,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Lykke til pappa",
-        "url": "https://open.spotify.com/album/1C7ut96iQoRm9adHiyukPU"
-      },
-      "artists": [
-        {
-          "name": "Musti",
-          "url": "https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 159472,
-      "name": "Lykke til pappa",
-      "url": "https://open.spotify.com/track/2i8HqCbclrZUaN1PexNjy9"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "Gro Harlem Brundtland",
         "url": "https://open.spotify.com/album/7hNyb9KXnAjTUQbnLpfOIN"
       },
@@ -375,18 +355,22 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Bedre dager",
-        "url": "https://open.spotify.com/album/5HHcnHBqXIUVRMnhPiBco4"
+        "name": "Lykke til pappa",
+        "url": "https://open.spotify.com/album/1C7ut96iQoRm9adHiyukPU"
       },
       "artists": [
         {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+          "name": "Musti",
+          "url": "https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 220662,
-      "name": "Siste f\u00f8rste dans",
-      "url": "https://open.spotify.com/track/7EnHeRdXqIAMGDL7sT8Ba9"
+      "duration_ms": 159472,
+      "name": "Lykke til pappa",
+      "url": "https://open.spotify.com/track/2i8HqCbclrZUaN1PexNjy9"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -403,6 +387,22 @@
       "duration_ms": 147018,
       "name": "THEO",
       "url": "https://open.spotify.com/track/6eD4ndwM2co4RBDFjWhkye"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "Bedre dager",
+        "url": "https://open.spotify.com/album/5HHcnHBqXIUVRMnhPiBco4"
+      },
+      "artists": [
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        }
+      ],
+      "duration_ms": 220662,
+      "name": "Siste f\u00f8rste dans",
+      "url": "https://open.spotify.com/track/7EnHeRdXqIAMGDL7sT8Ba9"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -507,18 +507,18 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Real To Me",
-        "url": "https://open.spotify.com/album/5JhzejBKo3M8xRbKsdOjqD"
+        "name": "Don't Let Me Go",
+        "url": "https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o"
       },
       "artists": [
         {
-          "name": "Victoria Nadine",
-          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 190522,
-      "name": "Real To Me",
-      "url": "https://open.spotify.com/track/5mThLXcmnbDgoudfO6HBNm"
+      "duration_ms": 292093,
+      "name": "Don't Let Me Go",
+      "url": "https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -539,18 +539,18 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Don't Let Me Go",
-        "url": "https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o"
+        "name": "Real To Me",
+        "url": "https://open.spotify.com/album/5JhzejBKo3M8xRbKsdOjqD"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
         }
       ],
-      "duration_ms": 292093,
-      "name": "Don't Let Me Go",
-      "url": "https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa"
+      "duration_ms": 190522,
+      "name": "Real To Me",
+      "url": "https://open.spotify.com/track/5mThLXcmnbDgoudfO6HBNm"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Kanskje det g\u00e5r te helvete",
-        "url": "https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 146813,
-      "name": "Gjesten p\u00e5 festen",
-      "url": "https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "I'll be the light",
         "url": "https://open.spotify.com/album/1k5IS1kmJi8s2gHZTyHdAE"
       },
@@ -967,18 +951,18 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "I Could Miss You Forever",
-        "url": "https://open.spotify.com/album/3wakAMVNSBt9CTCdnoUEmx"
+        "name": "Kanskje det g\u00e5r te helvete",
+        "url": "https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8"
       },
       "artists": [
         {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
         }
       ],
-      "duration_ms": 217908,
-      "name": "I Could Miss You Forever",
-      "url": "https://open.spotify.com/track/3F81PYqkx4j3pFX9aQORg0"
+      "duration_ms": 146813,
+      "name": "Gjesten p\u00e5 festen",
+      "url": "https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -995,6 +979,22 @@
       "duration_ms": 213124,
       "name": "Sterkere enn du vet",
       "url": "https://open.spotify.com/track/0uHY2b4VEAXOxjrz2NwAED"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "I Could Miss You Forever",
+        "url": "https://open.spotify.com/album/3wakAMVNSBt9CTCdnoUEmx"
+      },
+      "artists": [
+        {
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+        }
+      ],
+      "duration_ms": 217908,
+      "name": "I Could Miss You Forever",
+      "url": "https://open.spotify.com/track/3F81PYqkx4j3pFX9aQORg0"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "N\u00e5 har du meg",
-        "url": "https://open.spotify.com/album/5MjN3dWFsEMB2HuyjaeXBy"
-      },
-      "artists": [
-        {
-          "name": "Emelie Hollow",
-          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
-        }
-      ],
-      "duration_ms": 221427,
-      "name": "N\u00e5 har du meg",
-      "url": "https://open.spotify.com/track/33coicso7oegceR6nB7Srl"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "Lykkelig uten meg",
         "url": "https://open.spotify.com/album/61dEd6Ry9s0Bx5cDz673T6"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 185560,
       "name": "Lykkelig uten meg",
       "url": "https://open.spotify.com/track/59gqidwHw7znpxWyH4buT1"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "N\u00e5 har du meg",
+        "url": "https://open.spotify.com/album/5MjN3dWFsEMB2HuyjaeXBy"
+      },
+      "artists": [
+        {
+          "name": "Emelie Hollow",
+          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
+        }
+      ],
+      "duration_ms": 221427,
+      "name": "N\u00e5 har du meg",
+      "url": "https://open.spotify.com/track/33coicso7oegceR6nB7Srl"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
+        "name": "Jeg vil ikke st\u00e5 i ro lenger",
+        "url": "https://open.spotify.com/album/5tOX3r3JMbo4tCYOuExN8A"
+      },
+      "artists": [
+        {
+          "name": "Randi Oline",
+          "url": "https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV"
+        }
+      ],
+      "duration_ms": 173822,
+      "name": "Late Bloomer",
+      "url": "https://open.spotify.com/track/2O5HmTtJOZaRQ6TMOKf4Gg"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
         "name": "Skyfri himmel",
         "url": "https://open.spotify.com/album/1ZMfhQD8MkMGSqydaXAGgN"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 225570,
       "name": "Skyfri himmel",
       "url": "https://open.spotify.com/track/1zQPWQuZRK63pvxAVhC9za"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
-        "name": "Jeg vil ikke st\u00e5 i ro lenger",
-        "url": "https://open.spotify.com/album/5tOX3r3JMbo4tCYOuExN8A"
-      },
-      "artists": [
-        {
-          "name": "Randi Oline",
-          "url": "https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV"
-        }
-      ],
-      "duration_ms": 173822,
-      "name": "Late Bloomer",
-      "url": "https://open.spotify.com/track/2O5HmTtJOZaRQ6TMOKf4Gg"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Finaste s\u00e5 finns",
-        "url": "https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1"
-      },
-      "artists": [
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 190405,
-      "name": "Finaste s\u00e5 finns",
-      "url": "https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "Give Me Your Love Back",
         "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 176097,
       "name": "Give Me Your Love Back",
       "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "Finaste s\u00e5 finns",
+        "url": "https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1"
+      },
+      "artists": [
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "duration_ms": 190405,
+      "name": "Finaste s\u00e5 finns",
+      "url": "https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F"
     },
     {
       "added_at": "2026-02-26 23:00:40",

@@ -1,6 +1,6 @@
 {
   "description": "Timeless easy listening from the sixties...",
-  "num_followers": 365067,
+  "num_followers": 365072,
   "original_name": "Easy 60s",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-06-03 14:49:59",
       "album": {
-        "name": "The Beat Goes On: Best Of",
-        "url": "https://open.spotify.com/album/5QzkzMcvCJSk30pQS2mqia"
-      },
-      "artists": [
-        {
-          "name": "Sonny & Cher",
-          "url": "https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO"
-        }
-      ],
-      "duration_ms": 193840,
-      "name": "I Got You Babe",
-      "url": "https://open.spotify.com/track/2SWBfqj1FrS8t8z56G55rP"
-    },
-    {
-      "added_at": "2024-06-03 14:49:59",
-      "album": {
         "name": "How Do You Like It? [Mono And Stereo Version]",
         "url": "https://open.spotify.com/album/6KfKWfiXnXVcgYDH0JcIP2"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 164173,
       "name": "You'll Never Walk Alone - Stereo; 1997 Remaster",
       "url": "https://open.spotify.com/track/2VfvfFSVD1Ki0PH0Xd0jcv"
+    },
+    {
+      "added_at": "2024-06-03 14:49:59",
+      "album": {
+        "name": "The Beat Goes On: Best Of",
+        "url": "https://open.spotify.com/album/5QzkzMcvCJSk30pQS2mqia"
+      },
+      "artists": [
+        {
+          "name": "Sonny & Cher",
+          "url": "https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO"
+        }
+      ],
+      "duration_ms": 193840,
+      "name": "I Got You Babe",
+      "url": "https://open.spotify.com/track/2SWBfqj1FrS8t8z56G55rP"
     },
     {
       "added_at": "2024-06-03 14:49:59",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-06-03 14:49:59",
       "album": {
-        "name": "The Temptations Sing Smokey",
-        "url": "https://open.spotify.com/album/5H2rffw6MNKGWVKBNWNA4S"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/6RrXd9Hph4hYR4bf3dbM6H"
-    },
-    {
-      "added_at": "2024-06-03 14:49:59",
-      "album": {
         "name": "Music From Big Pink (Expanded Edition)",
         "url": "https://open.spotify.com/album/0nuPXgAXAfPmz9AW1PPrlk"
       },
@@ -931,18 +915,34 @@
     {
       "added_at": "2024-06-03 14:49:59",
       "album": {
-        "name": "Hello Louis - The Hit Years (1963-1969)",
-        "url": "https://open.spotify.com/album/3IkAJdl6rQcSbnfpGr3MVt"
+        "name": "The Temptations Sing Smokey",
+        "url": "https://open.spotify.com/album/5H2rffw6MNKGWVKBNWNA4S"
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
         }
       ],
-      "duration_ms": 137466,
-      "name": "What A Wonderful World",
-      "url": "https://open.spotify.com/track/6Z5XZ8fjmWGbkdahOgreVe"
+      "duration_ms": 165000,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/6RrXd9Hph4hYR4bf3dbM6H"
+    },
+    {
+      "added_at": "2024-06-03 14:49:59",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "At Last - Single Version",
+      "url": "https://open.spotify.com/track/0CmIALzGn4vHIHJG4n3Q4z"
     },
     {
       "added_at": "2024-06-03 14:49:59",
@@ -967,18 +967,18 @@
     {
       "added_at": "2024-06-03 14:49:59",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101"
+        "name": "Hello Louis - The Hit Years (1963-1969)",
+        "url": "https://open.spotify.com/album/3IkAJdl6rQcSbnfpGr3MVt"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 182400,
-      "name": "At Last - Single Version",
-      "url": "https://open.spotify.com/track/0CmIALzGn4vHIHJG4n3Q4z"
+      "duration_ms": 137466,
+      "name": "What A Wonderful World",
+      "url": "https://open.spotify.com/track/6Z5XZ8fjmWGbkdahOgreVe"
     },
     {
       "added_at": "2024-06-03 14:49:59",

@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 308253,
       "name": "'Tis Autumn",
       "url": "https://open.spotify.com/track/50dJQJ4VLNsb8yNOJNFDRJ"
@@ -1257,6 +1257,24 @@
     },
     {
       "album": {
+        "name": "Edelweiss",
+        "url": "https://open.spotify.com/album/0iMw5aKpZC7Ifv7oQZ8FzF"
+      },
+      "artists": [
+        {
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177773,
+      "name": "Edelweiss",
+      "url": "https://open.spotify.com/track/4aRUHmTxZtltzbnv1XApBD"
+    },
+    {
+      "album": {
         "name": "end credits",
         "url": "https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2"
       },
@@ -1542,7 +1560,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 380066,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/3Fn1AoG7bIcMKPKy30KtKD"
@@ -5182,7 +5200,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "Try Your Wings",
       "url": "https://open.spotify.com/track/5PXI1R8o162Ts7gJiQiv0X"

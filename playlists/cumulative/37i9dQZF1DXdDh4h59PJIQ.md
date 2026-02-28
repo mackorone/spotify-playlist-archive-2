@@ -4,7 +4,7 @@
 
 > ¡Estos son los hits de la electrónica en el 2026!
 
-418 songs - 20 hr 48 min
+419 songs - 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Baianá](https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro) | 3:00 | 2022-03-11 |  |
 | [Baianá](https://open.spotify.com/track/7MUazB4rGIqFFIkjT95rCO) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Baianá](https://open.spotify.com/album/7ImQIxwDqi9OKS93QMsKQN) | 3:00 | 2021-10-22 | 2022-07-29 |
 | [Baila Conmigo](https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Baila Conmigo](https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G) | 2:26 | 2023-02-13 |  |
-| [BANG BANG](https://open.spotify.com/track/4TZaceVVtIEtHOx8w8KkJV) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [BANG BANG](https://open.spotify.com/album/2IKf2bBeD3RF178UUTC3ZA) | 3:13 | 2025-05-21 |  |
+| [BANG BANG](https://open.spotify.com/track/4TZaceVVtIEtHOx8w8KkJV) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [BANG BANG](https://open.spotify.com/album/2IKf2bBeD3RF178UUTC3ZA) | 3:13 | 2025-05-21 | 2026-02-28 |
 | [Bayside \- Radio Edit](https://open.spotify.com/track/7hYW4hKuPkfaLbzTpg9hQB) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Bayside](https://open.spotify.com/album/6zkyKkJPiRV3EiAuTg6aQC) | 3:17 | 2021-10-22 | 2022-08-10 |
 | [Be My Lover \(feat\. La Bouche\) \- 2023 Mix](https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV) | [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Be My Lover \(feat\. La Bouche\) \[2023 Mix\]](https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX) | 2:49 | 2024-08-13 |  |
 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 | 2023-11-16 | 2024-08-14 |
@@ -157,6 +157,7 @@
 | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1) | 2:55 | 2024-08-13 | 2025-05-22 |
 | [Forever](https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Forever](https://open.spotify.com/album/7cXPqivcSwwoWsx29zT6lq) | 2:39 | 2025-05-21 | 2026-01-24 |
 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 | 2021-10-22 | 2024-01-06 |
+| [Get Get Down](https://open.spotify.com/track/69A01pYY2LORH0xJkYWL2d) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [Paul Johnson](https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G) | [Get Get Down](https://open.spotify.com/album/0qoUP2macMRqlJX8814yYs) | 4:17 | 2026-02-27 |  |
 | [Gimme That Bounce](https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Gimme That Bounce](https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv) | 3:37 | 2023-02-13 | 2025-05-22 |
 | [GIRL LIKE ME \- twocolors remix](https://open.spotify.com/track/19tO5sNxHHJcX7CUPMVykl) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [GIRL LIKE ME \(twocolors remix\)](https://open.spotify.com/album/1UKrd1cduH9EIC89bDnXRM) | 3:01 | 2021-10-22 |  |
 | [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 | 2024-08-13 | 2026-01-24 |

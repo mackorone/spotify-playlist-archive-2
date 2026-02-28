@@ -4,7 +4,7 @@
 
 > Den bästa och största rocklistan i Sverige!
 
-414 songs - 1 day 2 hr 8 min
+416 songs - 1 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,6 +377,7 @@
 | [Today's Song](https://open.spotify.com/track/14PhYqLZ4QLKprqeCOMx36) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Today's Song](https://open.spotify.com/album/6DuHTWcfnuCvgQhbFyh1ct) | 3:14 | 2025-07-03 | 2025-08-29 |
 | [Tonight We Must Be Warriors](https://open.spotify.com/track/0zYWqMOr2xtOEGM8B326fw) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Tonight We Must Be Warriors](https://open.spotify.com/album/7qU5jLj7GI7h9pNk1spCU5) | 4:10 | 2025-08-28 | 2025-11-06 |
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-06-27 | 2025-02-14 |
+| [Tribute Song](https://open.spotify.com/track/5rg5QYqijRKDz9coVQmAIo) | [ITCHY](https://open.spotify.com/artist/42pWilgI9MEZARoTtGHNR4) | [Tribute Song](https://open.spotify.com/album/0hn6fg81VgSojwZWMOqZV1) | 3:18 | 2026-02-27 |  |
 | [True Believer](https://open.spotify.com/track/6RRYgdkCmVTYHGmId3LpqW) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [True Believer](https://open.spotify.com/album/1kALPLjhxfv9Yu1lVeHu62) | 4:34 | 2025-09-04 | 2025-10-24 |
 | [Two Faced](https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Two Faced](https://open.spotify.com/album/4kksZlvAqineklmhltdTFe) | 3:03 | 2024-11-14 | 2025-01-10 |
 | [Unbreakable](https://open.spotify.com/track/2aCDSwEeyqRbTI0iaroTWZ) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Unbreakable](https://open.spotify.com/album/3akqEprag6eKeObpB2iB44) | 4:49 | 2025-07-10 |  |
@@ -415,6 +416,7 @@
 | [WTCH](https://open.spotify.com/track/07S1I5r2tlpNg8QJDJewBJ) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK) | [BLACK MAGIC](https://open.spotify.com/album/0YtqdM1lPwVEpOQip5xhfB) | 2:59 | 2025-06-26 |  |
 | [You Could Be Mine](https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C) | 5:43 | 2024-11-07 | 2025-06-20 |
 | [You Know My Name \- From "Casino Royale" Soundtrack](https://open.spotify.com/track/3acBQxxlyb0jC2xqndDzSf) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Carry On](https://open.spotify.com/album/125bv7EBFzsaqeW2LzY6QP) | 4:00 | 2024-11-07 | 2025-05-16 |
+| [Your Favorite Toy](https://open.spotify.com/track/2ZSOU8Fx9uRBW57nwfPVAL) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Your Favorite Toy](https://open.spotify.com/album/1GlbwU0fG3s91TwcuTh4ea) | 2:56 | 2026-02-27 |  |
 | [Youth of the Nation](https://open.spotify.com/track/0UrWr7Jnu1heq1o99ZwUd0) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 4:16 | 2024-11-07 | 2025-06-20 |
 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 | 2024-11-07 | 2025-06-20 |
 | [Zombie](https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Zombie](https://open.spotify.com/album/2VjTqSwV1IY3a4kFdurCVv) | 4:06 | 2025-05-29 |  |

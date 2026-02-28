@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,926 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,934 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 33 | [Love will find a way](https://open.spotify.com/track/6C7mJCBnZOxDrPVh9PHB1o) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/4RzDYcDedKOdPPMZU0hksv) | 3:43 |
 | 34 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 |
 | 35 | [Amazing You](https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [The 3rd Digital Single \`Amazing You'](https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy) | 4:56 |
-| 36 | [Tell me you love me](https://open.spotify.com/track/0U5HgFCn3EJN2zZqI0KGfJ) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [Tell me you love me](https://open.spotify.com/album/5bKbsvVQeAG146ZniREsY2) | 3:19 |
-| 37 | [Madeleine Love](https://open.spotify.com/track/5wefwQ17a5HEK4FwajSXXJ) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Plain](https://open.spotify.com/album/6pSV2QFFALy5LJzrQ3RxPS) | 3:38 |
+| 36 | [Madeleine Love](https://open.spotify.com/track/5wefwQ17a5HEK4FwajSXXJ) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Plain](https://open.spotify.com/album/6pSV2QFFALy5LJzrQ3RxPS) | 3:38 |
+| 37 | [Tell me you love me](https://open.spotify.com/track/0U5HgFCn3EJN2zZqI0KGfJ) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [Tell me you love me](https://open.spotify.com/album/5bKbsvVQeAG146ZniREsY2) | 3:19 |
 | 38 | [We'll shine brighter than any other stars](https://open.spotify.com/track/5psoGr4LFHqFCJnyo4pVaN) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [We'll shine brighter than any other stars \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/6EwCSLyDftnUuKmaSoo6Hv) | 3:49 |
 | 39 | [Your/My](https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Jay Park Season 1](https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7) | 3:39 |
 | 40 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: maïa
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,839 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,835 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 26 | [The Currency Is Trust](https://open.spotify.com/track/5CaBvNxQknk4UPZutTvN3G) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [The Currency Is Trust](https://open.spotify.com/album/2xMA3Lghpf7SNAXBmwMMc5) | 2:52 |
 | 27 | [people pleaser](https://open.spotify.com/track/3sARZteFXGPGrvcZFtIssk) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [people pleaser](https://open.spotify.com/album/4s175oNexOJX6mjdPn80ua) | 3:09 |
 | 28 | [Papa](https://open.spotify.com/track/6DPywNzRLarOthB1qUZCoF) | [Rina](https://open.spotify.com/artist/4Y7P8O5PNR7k7IvoLWfYTY) | [Papa](https://open.spotify.com/album/2WZA8RmOaQgiuWMr2VG4DK) | 2:43 |
-| 29 | [LIEBE ODER PFLICHT](https://open.spotify.com/track/065HHeAU5OjYWfODBnmWrI) | [Niyas](https://open.spotify.com/artist/3vsudk9aA5Cx5JHEqpNY6k) | [LIEBE ODER PFLICHT](https://open.spotify.com/album/60c7iOpvcauQMzC93KHxvp) | 2:19 |
-| 30 | [amelie](https://open.spotify.com/track/3eaUEWWH8gSpFp8D1R0Mub) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [amelie](https://open.spotify.com/album/3ThxdYiGV7JEn3ZQFAOvLE) | 2:38 |
-| 31 | [Keiner Weiß](https://open.spotify.com/track/726b35bTUD5HQHDvdb0b1O) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [Keiner Weiß](https://open.spotify.com/album/7d5GVUJB0LeSOY8Or9gCpk) | 2:48 |
+| 29 | [amelie](https://open.spotify.com/track/3eaUEWWH8gSpFp8D1R0Mub) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [amelie](https://open.spotify.com/album/3ThxdYiGV7JEn3ZQFAOvLE) | 2:38 |
+| 30 | [Keiner Weiß](https://open.spotify.com/track/726b35bTUD5HQHDvdb0b1O) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [Keiner Weiß](https://open.spotify.com/album/7d5GVUJB0LeSOY8Or9gCpk) | 2:48 |
+| 31 | [LIEBE ODER PFLICHT](https://open.spotify.com/track/065HHeAU5OjYWfODBnmWrI) | [Niyas](https://open.spotify.com/artist/3vsudk9aA5Cx5JHEqpNY6k) | [LIEBE ODER PFLICHT](https://open.spotify.com/album/60c7iOpvcauQMzC93KHxvp) | 2:19 |
 | 32 | [DER KOPIERER](https://open.spotify.com/track/1b2euiTa0jRMG9gpS5rb31) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [DER KOPIERER](https://open.spotify.com/album/12x2TLLtli4npRpONR4G8I) | 2:59 |
 | 33 | [2 wochen](https://open.spotify.com/track/1gR5R1CNB2xG0Bx29NWHS6) | [MELLER](https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9) | [2 wochen](https://open.spotify.com/album/68zcM6bt6lF1S5Ruyk63Xz) | 2:27 |
 | 34 | [Wake up!](https://open.spotify.com/track/2yZYMVtQ7KR1KIek1KYSAe) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Wake up!](https://open.spotify.com/album/4mxjttZLhQQMEzjOJGCoP4) | 2:28 |

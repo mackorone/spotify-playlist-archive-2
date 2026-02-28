@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 
 > catch a vibe 🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,481 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,471 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 | 13 | [bad](https://open.spotify.com/track/6H67gFuycHyTOROX2M4bbs) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML) | 4:23 |
 | 14 | [BACKSTREETS](https://open.spotify.com/track/3XzGb1aeUv1lu0u1Bozknw) | [Miss Kaninna](https://open.spotify.com/artist/1ODboExevbfXfgKz7NPKxz) | [BACKSTREETS](https://open.spotify.com/album/15SLKSZFLE7f2mMR84D1bK) | 3:31 |
 | 15 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 |
-| 16 | [After Hours](https://open.spotify.com/track/4ChomJf8z16E6Zw4EoioYY) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CRASH](https://open.spotify.com/album/2MRNLEYm9SB0HBrJEU8L32) | 3:22 |
-| 17 | [Forever Yours](https://open.spotify.com/track/2JqkpMe2eJToJNHEqkJeCu) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 1:36 |
+| 16 | [Forever Yours](https://open.spotify.com/track/2JqkpMe2eJToJNHEqkJeCu) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 1:36 |
+| 17 | [After Hours](https://open.spotify.com/track/4ChomJf8z16E6Zw4EoioYY) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CRASH](https://open.spotify.com/album/2MRNLEYm9SB0HBrJEU8L32) | 3:22 |
 | 18 | [Blame It On Me](https://open.spotify.com/track/6pZBCJsupkHOMqsLNKC2IH) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Blame It On Me](https://open.spotify.com/album/5MFIzCR04bQxJDTfgbjbGY) | 2:51 |
 | 19 | [Destroy Myself Just For You](https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:26 |
 | 20 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 | 52 | [Dancer](https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Dancer](https://open.spotify.com/album/21WB3xmAukyafQysJdV8C9) | 3:00 |
 | 53 | [Lady](https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 3:03 |
 | 54 | [HOW DOES IT FEEL?](https://open.spotify.com/track/4SNPg0KDZ859vauVTaNg7i) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HOW DOES IT FEEL?](https://open.spotify.com/album/7JMaEJNjxaGVamrsszHC15) | 2:17 |
-| 55 | [Sweet Tooth](https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [FLAMES](https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF) | 3:00 |
-| 56 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 |
+| 55 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 |
+| 56 | [Sweet Tooth](https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [FLAMES](https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF) | 3:00 |
 | 57 | [i like just how you like me](https://open.spotify.com/track/5kJ45QtERi21dHsz2rrOyG) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [i like just how you like me](https://open.spotify.com/album/6kmbGstkhw2sC5v1D41yoH) | 2:20 |
 | 58 | [Fuck The Pain Away \(Lost Tapes 2022\)](https://open.spotify.com/track/1qZUQIWMamlw2iONSC10tT) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Fuck The Pain Away \(Lost Tapes 2022\)](https://open.spotify.com/album/01F1U7aavzuTAo0Rdw0eeB) | 2:17 |
 | 59 | [Moving](https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Moving](https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV) | 2:20 |

@@ -4,7 +4,7 @@
 
 > Lagu\-lagu positif untuk kamu dan teman\-temanmu yang paling ngejar sehat
 
-212 songs - 13 hr 19 min
+214 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Dewi Pelita](https://open.spotify.com/track/0xD8XcL3Z655ohuMf8AYED) | [kidunghara](https://open.spotify.com/artist/6aNEwNrod9qI0UZO69awmo), [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Dewi Pelita](https://open.spotify.com/album/4ERCJb48c2k4aOtPz7U7tK) | 3:45 | 2023-02-23 | 2024-10-15 |
 | [Dibuai](https://open.spotify.com/track/5fxoTrI1hsUgTfbOdqYkY3) | [The Paps](https://open.spotify.com/artist/1cx2juvnWgqfbOoikFxCKS) | [Soul](https://open.spotify.com/album/397R2Ydd8yoqr5gHSQekVj) | 3:05 | 2024-05-08 | 2024-06-06 |
 | [Djakarta](https://open.spotify.com/track/4rfdBCU8fRgmtwpuR0rCOQ) | [Laleilmanino](https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm), [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Cécil Yang](https://open.spotify.com/artist/1BQ949dyo7EwfHh3tUpxIP) | [Djakarta](https://open.spotify.com/album/0M8VdQEeFGKbuJ1LutcvmX) | 3:56 | 2024-10-24 |  |
+| [EEEE A](https://open.spotify.com/track/4h07ne6Xf5AaCIGkrgNq1i) | [dia](https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu) | [INI DIA](https://open.spotify.com/album/2zrnqv7JAhdID3uKiIxbUR) | 1:58 | 2026-02-27 |  |
 | [Evaluasi](https://open.spotify.com/track/2dIBMHByUGcNPzmYBJ6OAj) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Menari Dengan Bayangan](https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn) | 3:14 | 2022-12-13 |  |
 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 | 2022-12-13 | 2025-07-29 |
 | [Fake Friends](https://open.spotify.com/track/1pl99AShk41rIlUkVzI4lu) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Fake Friends](https://open.spotify.com/album/4W6r3RpxkoVgbDvK02q9Iu) | 2:34 | 2022-12-13 | 2023-02-24 |
@@ -166,6 +167,7 @@
 | [Precious](https://open.spotify.com/track/6ikaNm8tnqvSB8XxRV4nog) | [Livingroom.](https://open.spotify.com/artist/7waocZDnwhSgSPIt7By0QA) | [Precious](https://open.spotify.com/album/0blGPLYWpPAIViPMRfuQnT) | 2:40 | 2022-12-13 | 2023-02-24 |
 | [Precious Time](https://open.spotify.com/track/6QCf3ZUBc5oIUjtxR4NPmm) | [Showbiz](https://open.spotify.com/artist/1qrWyeykFOOSGikuDQA9eC) | [Precious Time](https://open.spotify.com/album/4snPevQGPMdd0nsSX6q45M) | 3:23 | 2025-10-20 |  |
 | [Primadona](https://open.spotify.com/track/21VAHk2V9XKkhsTT0LCyPI) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Primadona](https://open.spotify.com/album/0UoR0p6c4Wr7iTBeKzDnRS) | 4:07 | 2024-06-06 |  |
+| [Puspa](https://open.spotify.com/track/4GXnBXT9JGeae9WtznHMmd) | [Dere](https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP) | [Berbunga](https://open.spotify.com/album/7GICddTJ6Lyrm8IPSGtyXg) | 3:20 | 2026-02-27 |  |
 | [Ragu?](https://open.spotify.com/track/6oW5w1IAVnBrLA8uDes0Gl) | [RAYHAN NOOR](https://open.spotify.com/artist/5jLL1YM0DNKKhnLl0oSlUA) | [Ragu?](https://open.spotify.com/album/0U7CnDEqU7eVjqnAdq9gE0) | 3:19 | 2023-03-23 | 2024-10-15 |
 | [Ragu?](https://open.spotify.com/track/68LuQlKVtKkILNcDJwqMPr) | [RAYHAN NOOR](https://open.spotify.com/artist/5jLL1YM0DNKKhnLl0oSlUA) | [Menjelang Tiga Puluh](https://open.spotify.com/album/1zIjdhnEbN0iI2unekxAPV) | 3:19 | 2023-10-19 | 2024-04-19 |
 | [Remaja](https://open.spotify.com/track/1SaQZoFXNu7ZAxxKImzFgf) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Kereta Kencan](https://open.spotify.com/album/4JJsEIGWQzfjAgWiUEkuot) | 3:38 | 2024-02-01 |  |

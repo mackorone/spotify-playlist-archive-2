@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 
 > A collection of Industrial Metal \- fresh and old tunes\. Cover: Fear Factory
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,785 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,860 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 61 | [Deadened](https://open.spotify.com/track/2Vlfc5hZxy1XY6XtsOF0aD) | [Front Line Assembly](https://open.spotify.com/artist/5QYAExYvxixCVwX70SRf7F) | [Echogenetic](https://open.spotify.com/album/0f45KbfktTH1dpYgApp979) | 5:48 |
 | 62 | [Supernaut](https://open.spotify.com/track/1LkYAkYzqq7TbJTGfx3ixY) | [1000 Homo DJs](https://open.spotify.com/artist/62G7ybeJSN91TgfsWsdDOb) | [Supernaut](https://open.spotify.com/album/59or2rVv97PQ4dS45ohNlQ) | 6:42 |
 | 63 | [Merchant of the Void](https://open.spotify.com/track/3BIQ9Y3WCwRWZju6jHXHuA) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [Merchant of the Void](https://open.spotify.com/album/4DpUdsgqbQekAluRjffr08) | 3:32 |
-| 64 | [A Violent Reaction](https://open.spotify.com/track/00YeAWckFwAyrvzvHlYMOk) | [American Head Charge](https://open.spotify.com/artist/6Ig4qybKXgMN2FLSM7GKau) | [The War Of Art](https://open.spotify.com/album/5dBhZn63iuwNTQ9JnDktsl) | 4:12 |
-| 65 | [Enough](https://open.spotify.com/track/4D4wh1GyvA4gSxBN7e7ysN) | [Gravity Kills](https://open.spotify.com/artist/3V3ChkwvlWDJtMFuOKfYiB) | [Gravity Kills](https://open.spotify.com/album/7pOydrQchgIb8t6G9td2pm) | 4:16 |
+| 64 | [Enough](https://open.spotify.com/track/4D4wh1GyvA4gSxBN7e7ysN) | [Gravity Kills](https://open.spotify.com/artist/3V3ChkwvlWDJtMFuOKfYiB) | [Gravity Kills](https://open.spotify.com/album/7pOydrQchgIb8t6G9td2pm) | 4:16 |
+| 65 | [A Violent Reaction](https://open.spotify.com/track/00YeAWckFwAyrvzvHlYMOk) | [American Head Charge](https://open.spotify.com/artist/6Ig4qybKXgMN2FLSM7GKau) | [The War Of Art](https://open.spotify.com/album/5dBhZn63iuwNTQ9JnDktsl) | 4:12 |
 | 66 | [Killing Grounds](https://open.spotify.com/track/0HCxCQXakzMJfjcek0Qn7E) | [Front Line Assembly](https://open.spotify.com/artist/5QYAExYvxixCVwX70SRf7F) | [Echogenetic](https://open.spotify.com/album/0f45KbfktTH1dpYgApp979) | 5:58 |
 | 67 | [Bits and Razors](https://open.spotify.com/track/1u9wZPcZ72MtBdmsmh0FdT) | [Rabbit Junk](https://open.spotify.com/artist/3Cnkej21cJ1XgbAh98CbaS) | [Bits and Razors](https://open.spotify.com/album/1SugTKvFL1DYE9jOrEvxlb) | 4:03 |
 | 68 | [D4TM](https://open.spotify.com/track/6S4Q0HDqHDsdcmfFNvyc8y) | [Oddko](https://open.spotify.com/artist/1UVYxhc5UIS5VLvUXrSo81) | [Digital Gods](https://open.spotify.com/album/2dhSJeHtfSCcpEwyQCikfc) | 3:26 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 86 | [Hollow \(Project Regeneration\)](https://open.spotify.com/track/0qGbzBx02qt7MwtAgNjRDj) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Hollow \(Project Regeneration\)](https://open.spotify.com/album/2Istkur4ggU2hcahfC38Mf) | 2:41 |
 | 87 | [Endzeit](https://open.spotify.com/track/3YwmrqN6NMxPL5HyjojEOi) | [Schwarzer Engel](https://open.spotify.com/artist/15g7I4KWNHNSPdcCtm6dpk) | [Sieben](https://open.spotify.com/album/3nnX9wWAHFLYun9ylDAhUJ) | 4:10 |
 | 88 | [Small World](https://open.spotify.com/track/0cSd01K5jeFTDLSrD95dEb) | [Skold](https://open.spotify.com/artist/71Yh3iYxx17VectgWOMvUr) | [Never Is Now](https://open.spotify.com/album/4a42neJMlka7MRKNKwYsJb) | 4:56 |
-| 89 | [Killer Quinn](https://open.spotify.com/track/0nuPTlaHKknCMqwkiIgqSf) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN) | [Killer Quinn](https://open.spotify.com/album/3WRtHLiv4uw6pkxx0Bbddd) | 2:59 |
-| 90 | [Disobey \- Disruptor Remix](https://open.spotify.com/track/5ovhDF3buYTpIgwgqhIwxf) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX), [Zardonic](https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n) | [Disobey \(Disruptor Remix\)](https://open.spotify.com/album/6qeYZ9eiG9uMyvlR3n5pK6) | 3:28 |
+| 89 | [Disobey \- Disruptor Remix](https://open.spotify.com/track/5ovhDF3buYTpIgwgqhIwxf) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX), [Zardonic](https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n) | [Disobey \(Disruptor Remix\)](https://open.spotify.com/album/6qeYZ9eiG9uMyvlR3n5pK6) | 3:28 |
+| 90 | [Killer Quinn](https://open.spotify.com/track/0nuPTlaHKknCMqwkiIgqSf) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN) | [Killer Quinn](https://open.spotify.com/album/3WRtHLiv4uw6pkxx0Bbddd) | 2:59 |
 | 91 | [Prototype](https://open.spotify.com/track/7k2SHJ8HKjjW3sZcDj2eAz) | [The Silverblack](https://open.spotify.com/artist/0ckgPY5JROBCK0hB6tAG5r) | [Prototype 6:17](https://open.spotify.com/album/0AzQ3DznOByMMtnZSt9PvM) | 3:28 |
 | 92 | [PRESIDENT X](https://open.spotify.com/track/3YlXqeGh10AADlm9tt7bbK) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2) | [PRESIDENT X](https://open.spotify.com/album/2nEO7xItffDVSNZo4XOIJU) | 3:40 |
 | 93 | [Burn Everything](https://open.spotify.com/track/3TnHNsSdOYdqQdXyivAmuH) | [Ludovico Technique](https://open.spotify.com/artist/1QLq3DjHn8KdTfUig43wP1) | [Burn Everything](https://open.spotify.com/album/3YVOIopHaBdAnj3dBe97od) | 4:23 |

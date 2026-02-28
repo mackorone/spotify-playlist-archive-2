@@ -4,7 +4,7 @@
 
 > Las canciones esenciales de la escena alternativa en español\. Con Diamante Eléctrico en portada.
 
-308 songs - 18 hr 3 min
+309 songs - 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [El Bolero \- Acústico](https://open.spotify.com/track/27gu4iadh6eZ3seAD74dTM) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [El Bolero \(acústico\)](https://open.spotify.com/album/5P85yo4uOZwMXQT46vubPe) | 3:29 | 2023-03-19 | 2023-04-21 |
 | [El Cardón](https://open.spotify.com/track/2L5z9XcA1PCxUOJ3W24tnX) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Bungalo Dub](https://open.spotify.com/artist/69JPOTvYfcr3R57sMZdJU0), [Bhajan](https://open.spotify.com/artist/03gjTMhvuxszNbXMxwYJmv) | [El Cardón](https://open.spotify.com/album/69EuMRSnKU8THC0V3WZ4rz) | 3:27 | 2023-03-19 | 2023-06-01 |
 | [El Destino](https://open.spotify.com/track/7deEXsuLC8Teu0MHiwr3V0) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf), [Adrian Dargelos](https://open.spotify.com/artist/4F55zi79SZIr5PPOLTJ6cg) | [Franco \(Bonus Track Version\)](https://open.spotify.com/album/1KwfATAKqo1JKJtlflgkGj) | 3:24 | 2024-06-14 |  |
-| [El Fin del Mundo](https://open.spotify.com/track/5SeYlZyKVENMOxiSPQkKyw) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [El Fin del Mundo](https://open.spotify.com/album/4VfiuZYoSkkLs7N68l75jN) | 3:08 | 2024-03-08 |  |
+| [El Fin del Mundo](https://open.spotify.com/track/5SeYlZyKVENMOxiSPQkKyw) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [El Fin del Mundo](https://open.spotify.com/album/4VfiuZYoSkkLs7N68l75jN) | 3:08 | 2024-03-08 | 2026-02-28 |
 | [El Lado Oscuro de Tu Corazón](https://open.spotify.com/track/4i2Yg55oDJdPLZtg01nwRi) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [O Marineros](https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I) | 3:42 | 2024-06-14 |  |
 | [El Magnetismo](https://open.spotify.com/track/4u8A7x0YPkPCkC0eRM9qL7) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastía Scorpio](https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3) | 1:28 | 2024-03-08 |  |
 | [El Micrófono](https://open.spotify.com/track/2hfGuADMk6YBgciFuJnv5s) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Piñata](https://open.spotify.com/album/4NNsCRL4LuWbspwc4F0RRu) | 3:34 | 2024-06-14 |  |
@@ -264,6 +264,7 @@
 | [sanvalentín:\(](https://open.spotify.com/track/4ETb1UPd2OAem6KVOpz0WM) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [sanvalentín:\(](https://open.spotify.com/album/3zaBvAmrb7tyHt0kvVWGt9) | 4:02 | 2023-03-19 | 2023-05-09 |
 | [Sed](https://open.spotify.com/track/5qwBGh8rMY4jEdszbxXA0Z) | [Xavier Martinex](https://open.spotify.com/artist/1XLR7wR5X9EWHrL5BYV8oY), [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Sed](https://open.spotify.com/album/6taEnbo5tcuo1hY11NeZEK) | 3:08 | 2023-04-10 | 2023-07-18 |
 | [Selva Negra](https://open.spotify.com/track/4abXKMf3IsIe3gQaCsiiHx) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [Rosa](https://open.spotify.com/album/2hEqB0JliRzhmxRhyN9IEH) | 3:01 | 2024-03-08 | 2025-12-25 |
+| [Sexo Con Amor](https://open.spotify.com/track/37pK35IDidhQIDR6WORZS1) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB) | [Sultana: Manual Psicodélico del Ritmo, Vol\. 1](https://open.spotify.com/album/6e9kBJyRv3DBZbFw6cvqrZ) | 4:33 | 2024-06-14 |  |
 | [Sexo en la playa](https://open.spotify.com/track/4hdq0AASkxYPua4kKwQ4jy) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [Sexo en la playa](https://open.spotify.com/album/0ncQYd7wRzoLdM4MFG6UGd) | 3:45 | 2024-03-08 |  |
 | [Señorita Revolución](https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Señorita Revolución](https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm) | 2:38 | 2023-03-19 | 2023-05-30 |
 | [Shorty 2](https://open.spotify.com/track/4PxNkl09m4T65wW7qqPh6J) | [Lolabúm](https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki), [Menino Gutto](https://open.spotify.com/artist/4eX5jYwqeLxnUZcBszdrws) | [Shorty 2](https://open.spotify.com/album/1YVcXIfifU15sAd7fIr7Dt) | 3:23 | 2023-03-19 | 2023-04-13 |

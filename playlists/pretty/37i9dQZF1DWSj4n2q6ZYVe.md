@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSj4n2q6ZYVe.md) - [plain]
 
 > The biggest dance floor bangers of the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 726,382 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,781 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSj4n2q6ZYVe.md) - [plain]
 | 92 | [Rock This Party \- Everybody Dance Now](https://open.spotify.com/track/0Qn0i8df7Q76ej3RAXAtI2) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Cutee B.](https://open.spotify.com/artist/5PTDGbHPxxXf81RrubpIOO), [DollarMan](https://open.spotify.com/artist/0TsTesOYlZmHOLnFPLPKLZ), [Big Ali](https://open.spotify.com/artist/4LqXqd68BBoEk9RDYeS0ls), [Makedah](https://open.spotify.com/artist/0f5cjky3a6ee9e0WicpzhW) | [Rock This Party \(Everybody Dance Now\)](https://open.spotify.com/album/0FoptdZTKSUm6JU99XVKhO) | 4:05 |
 | 93 | [Stamp on the Ground \- Radio Edit](https://open.spotify.com/track/09ISyLOPeuno7kKlzdbZuq) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Stamp On The Ground](https://open.spotify.com/album/1OS81VthdrXXDhtMc2MF0q) | 3:18 |
 | 94 | [Becoming Insane](https://open.spotify.com/track/1Nukcy7xk7AbS7MtkaiOe3) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [Vicious Delicious](https://open.spotify.com/album/3W2rs8vCNzvB5BmAoCjART) | 7:20 |
-| 95 | [Sexy](https://open.spotify.com/track/3FgrXi0L9lkaFJlNy5NZ0k) | [French Affair](https://open.spotify.com/artist/6ja9fzugcFkIEIXRw3Ie1E) | [Belle Epoque](https://open.spotify.com/album/0ZUU0rETCIdO13CCmQnKfr) | 3:51 |
-| 96 | [Tarantula \- Original Mix](https://open.spotify.com/track/7ifq3etzDP60X1IRaFVngl) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Hold Your Colour](https://open.spotify.com/album/4FAfNNU21dqtKKhHWB2eOa) | 5:31 |
+| 95 | [Tarantula \- Original Mix](https://open.spotify.com/track/7ifq3etzDP60X1IRaFVngl) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Hold Your Colour](https://open.spotify.com/album/4FAfNNU21dqtKKhHWB2eOa) | 5:31 |
+| 96 | [Sexy](https://open.spotify.com/track/3FgrXi0L9lkaFJlNy5NZ0k) | [French Affair](https://open.spotify.com/artist/6ja9fzugcFkIEIXRw3Ie1E) | [Belle Epoque](https://open.spotify.com/album/0ZUU0rETCIdO13CCmQnKfr) | 3:51 |
 | 97 | [Show Me Love \- Radio Edit](https://open.spotify.com/track/2WIwmd809qDTOn4UJgDnNi) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/2Dvz88PooQPZDvjDAyN6in) | 3:04 |
 | 98 | [One \(Always Hardcore\)](https://open.spotify.com/track/076xVAqkadBKbU7kI7yXaV) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [20 Years of Hardcore](https://open.spotify.com/album/3y02W7Qv7zFB85ApapWbVt) | 3:50 |
 | 99 | [No Stress](https://open.spotify.com/track/3AMExQQyUUBr9e6WftMVCp) | [Laurent Wolf](https://open.spotify.com/artist/0U2M5hyVn2T78XKlRHJFcn) | [Wash My World](https://open.spotify.com/album/096zju7jYYYpvaimFPiPrT) | 3:20 |

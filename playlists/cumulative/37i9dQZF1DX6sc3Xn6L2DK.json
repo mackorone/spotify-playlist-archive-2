@@ -142,7 +142,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 180520,
       "name": "America",
       "url": "https://open.spotify.com/track/5GOdN3y1m0pjoMC4OKifIp"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 179306,
       "name": "Forever and Always",
       "url": "https://open.spotify.com/track/6PvBktHEi7p9VM8UNhyxMB"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 253780,
       "name": "From Outer Space",
       "url": "https://open.spotify.com/track/0H8BIUe4qnJ7c6ptFIjLPa"
@@ -988,7 +988,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 225461,
       "name": "Happy Birthday, Baby",
       "url": "https://open.spotify.com/track/0lPhxCOJ4RrJL8gzfFEdcf"
@@ -1150,10 +1150,28 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 211480,
       "name": "Humility",
       "url": "https://open.spotify.com/track/4AUifvBNJ67z88rrDsSxi2"
+    },
+    {
+      "album": {
+        "name": "Deer in the Headlights",
+        "url": "https://open.spotify.com/album/5qeZSe0axVQt0roM9PqMJL"
+      },
+      "artists": [
+        {
+          "name": "Tallulah Argue",
+          "url": "https://open.spotify.com/artist/34L2mrqYyWifYUwyPMhCUd"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235555,
+      "name": "I Think I'm Gonna Love You Forever",
+      "url": "https://open.spotify.com/track/2wa37x2GB65RpxpKV3ch67"
     },
     {
       "album": {
@@ -1774,7 +1792,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 198440,
       "name": "Midnight Train",
       "url": "https://open.spotify.com/track/3OZRkavHZUYEfFuK8JNmU9"
@@ -1947,6 +1965,24 @@
     },
     {
       "album": {
+        "name": "Pilar, NM",
+        "url": "https://open.spotify.com/album/5H1vDU5KUKrih7Am2VDqWJ"
+      },
+      "artists": [
+        {
+          "name": "Jobi Riccio",
+          "url": "https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275264,
+      "name": "Pilar, NM",
+      "url": "https://open.spotify.com/track/1iVPI1CbE7cot90mJxry4l"
+    },
+    {
+      "album": {
         "name": "A LA SALA",
         "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
       },
@@ -1976,7 +2012,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 220573,
       "name": "Poncho & Lefty",
       "url": "https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs"
@@ -2582,7 +2618,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 189130,
       "name": "Stone Me",
       "url": "https://open.spotify.com/track/2mJ1FJkn0Bq23FCQppViGf"
@@ -2662,7 +2698,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 289986,
       "name": "Sufferer (Love My Conqueror)",
       "url": "https://open.spotify.com/track/4OFD7AHoOsVzdJju9DoWQa"
@@ -2793,6 +2829,24 @@
     },
     {
       "album": {
+        "name": "The Dreaming Kind",
+        "url": "https://open.spotify.com/album/0RkkdDiuROPhI0p4gw9vpH"
+      },
+      "artists": [
+        {
+          "name": "Lacy Green",
+          "url": "https://open.spotify.com/artist/6WO2WuZjHxfZweG6FvoeCL"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242797,
+      "name": "The Dreaming Kind",
+      "url": "https://open.spotify.com/track/0VUmkh6uFoNL6LyPm5b5wu"
+    },
+    {
+      "album": {
         "name": "The Forty-Ninth Parallel",
         "url": "https://open.spotify.com/album/0vybYOhRsPHsLn0JZWPxUc"
       },
@@ -2804,7 +2858,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 146729,
       "name": "The Forty-Ninth Parallel",
       "url": "https://open.spotify.com/track/2nQwMNwJP7S09XFtKJdgvH"
@@ -3238,7 +3292,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 235617,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/2rhkDqUHN8qheTE1vZf7T9"
@@ -3610,7 +3664,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 243010,
       "name": "You've Got Other Girls for That",
       "url": "https://open.spotify.com/track/5YmUheNKfm5UiZ3q1mxVEF"

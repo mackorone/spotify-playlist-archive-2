@@ -1,12 +1,12 @@
 {
   "description": "This is Jhen\u00e9 Aiko. The essential tracks, all in one playlist.",
-  "num_followers": 244845,
+  "num_followers": 244856,
   "original_name": "This Is Jhen\u00e9 Aiko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAACePKIRcVxLbtduOhv5i8J9",
+  "snapshot_id": "aZ+NAAAAAAAq9qh0rC79tw5v75Cm8UN2",
   "tracks": [
     {
       "added_at": null,
@@ -403,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "P*$$Y Fairy (OTW)",
+        "url": "https://open.spotify.com/album/0NC1AcoK5y2cBLwzej6tqE"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 181860,
+      "name": "P*$$Y Fairy (OTW)",
+      "url": "https://open.spotify.com/track/48KXAIruJ07kJVCWOGohMV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 190053,
       "name": "BACKD00R (feat. Kendrick Lamar & Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/0rNgWFQJtfttOYIHfDOHCg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "P*$$Y Fairy (OTW)",
-        "url": "https://open.spotify.com/album/0NC1AcoK5y2cBLwzej6tqE"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 181860,
-      "name": "P*$$Y Fairy (OTW)",
-      "url": "https://open.spotify.com/track/48KXAIruJ07kJVCWOGohMV"
     },
     {
       "added_at": null,
@@ -855,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bigger Love",
-        "url": "https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 223933,
-      "name": "U Move, I Move (feat. Jhene Aiko)",
-      "url": "https://open.spotify.com/track/7wfDCDfhVe2tFxIkQEJp35"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
         "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 161146,
       "name": "In The Dark (with Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/0zaoWwS8RpE3LSDdmkg8TC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bigger Love",
+        "url": "https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 223933,
+      "name": "U Move, I Move (feat. Jhene Aiko)",
+      "url": "https://open.spotify.com/track/7wfDCDfhVe2tFxIkQEJp35"
     },
     {
       "added_at": null,

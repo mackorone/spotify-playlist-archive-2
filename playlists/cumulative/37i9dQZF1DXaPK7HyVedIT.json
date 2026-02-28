@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Roddy Lima",
+  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Dubdogz",
   "name": "Dance Paradise",
   "tracks": [
     {
@@ -320,6 +320,28 @@
       "duration_ms": 184880,
       "name": "A GIRA",
       "url": "https://open.spotify.com/track/4pYtao3lFQeIewGgRZguHS"
+    },
+    {
+      "album": {
+        "name": "A La Vont\u00e9",
+        "url": "https://open.spotify.com/album/0POGIoz9sCDQMkSZRdrQIs"
+      },
+      "artists": [
+        {
+          "name": "Juicce",
+          "url": "https://open.spotify.com/artist/63arbh8ZF2mvGFINe50Byi"
+        },
+        {
+          "name": "Gangbang",
+          "url": "https://open.spotify.com/artist/4xAlQ5oAnU0WpbN23f9Dkz"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166732,
+      "name": "A La Vont\u00e9",
+      "url": "https://open.spotify.com/track/2rXustr9hFP9YS5Mea76Zz"
     },
     {
       "album": {
@@ -1236,6 +1258,24 @@
       "duration_ms": 222857,
       "name": "Avisa",
       "url": "https://open.spotify.com/track/2iXhwztFvWP8zNVGHaDIs3"
+    },
+    {
+      "album": {
+        "name": "AWAKE",
+        "url": "https://open.spotify.com/album/4UEdAADO57okZjafO05wtK"
+      },
+      "artists": [
+        {
+          "name": "Roddy Lima",
+          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203636,
+      "name": "AWAKE",
+      "url": "https://open.spotify.com/track/5XH7i3B4Q6ZPHhdv07SEdf"
     },
     {
       "album": {
@@ -3298,7 +3338,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 346581,
       "name": "Concentrate",
       "url": "https://open.spotify.com/track/2NsOuiUOa7zEpoTGc1145W"
@@ -5191,6 +5231,24 @@
     },
     {
       "album": {
+        "name": "Euro Trash Girl",
+        "url": "https://open.spotify.com/album/6SbRp1bzplKnL9jaXfi83O"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253125,
+      "name": "Euro Trash Girl",
+      "url": "https://open.spotify.com/track/43ZAGtIx5RA54MMJ3mQ1B9"
+    },
+    {
+      "album": {
         "name": "Eventide",
         "url": "https://open.spotify.com/album/2OkJhrj1cXGzsJI0dFDOzk"
       },
@@ -5308,6 +5366,24 @@
       "duration_ms": 150004,
       "name": "Evil",
       "url": "https://open.spotify.com/track/3I82UgyI4rzaXSwAGJvvfw"
+    },
+    {
+      "album": {
+        "name": "Ex Machina",
+        "url": "https://open.spotify.com/album/7Fb34mkumndAU8Lc5421C1"
+      },
+      "artists": [
+        {
+          "name": "Groove Delight",
+          "url": "https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160645,
+      "name": "Ex Machina",
+      "url": "https://open.spotify.com/track/40rQKPdcEUr83krJCaNUvz"
     },
     {
       "album": {
@@ -6266,6 +6342,24 @@
       "duration_ms": 152044,
       "name": "Fritando",
       "url": "https://open.spotify.com/track/0XVH2KvgEwUatVf5bLwDtX"
+    },
+    {
+      "album": {
+        "name": "From Home",
+        "url": "https://open.spotify.com/album/7kODUfNMQbdbUusMpSSnNh"
+      },
+      "artists": [
+        {
+          "name": "unfazed",
+          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174260,
+      "name": "From Home",
+      "url": "https://open.spotify.com/track/4vOIzp5aM7DnxKYuf9wnkn"
     },
     {
       "album": {
@@ -8070,7 +8164,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 243871,
       "name": "I'll Be Here",
       "url": "https://open.spotify.com/track/3Sv6liwDwv868Dfodi4V09"
@@ -8254,10 +8348,32 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 210967,
       "name": "If You Wanna Come",
       "url": "https://open.spotify.com/track/3fp3ebsLgDrKDTWyzymWCs"
+    },
+    {
+      "album": {
+        "name": "Mziki, Vol. 2",
+        "url": "https://open.spotify.com/album/3Y7uhCxhDdpo5JQ7j9YPZT"
+      },
+      "artists": [
+        {
+          "name": "Curol",
+          "url": "https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX"
+        },
+        {
+          "name": "Savage & SH\u0113",
+          "url": "https://open.spotify.com/artist/3grWiHymOsSQY0VjeNAxCD"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222148,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/6r6MPuQfr3riRVWcJnfKNe"
     },
     {
       "album": {
@@ -8530,7 +8646,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 201396,
       "name": "Inner Eye",
       "url": "https://open.spotify.com/track/6bMKul9Q0MnJo7yiwQcH1z"
@@ -8692,7 +8808,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 185625,
       "name": "It Just Won't Do",
       "url": "https://open.spotify.com/track/4bEbJeUHEzV6vjgTzZc84r"
@@ -8732,7 +8848,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 181860,
       "name": "Izzin",
       "url": "https://open.spotify.com/track/1vFtcubbaGr3ih0C5l8Ob9"
@@ -8750,7 +8866,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 143225,
       "name": "I\u2019d Run It Back",
       "url": "https://open.spotify.com/track/12gVeibyKyCqLWE4zIT9Un"
@@ -10118,7 +10234,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 208524,
       "name": "Lost In The 90s",
       "url": "https://open.spotify.com/track/4bQJw0NoTkSJcrBjMy1C8G"
@@ -10532,6 +10648,28 @@
       "duration_ms": 186872,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/0BGAlBkICQWwW1VJK2A3vB"
+    },
+    {
+      "album": {
+        "name": "Me Faz Um Favor",
+        "url": "https://open.spotify.com/album/1Yp4RbREiFeF6jDo5Lb65L"
+      },
+      "artists": [
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        },
+        {
+          "name": "MC BEATRIZ",
+          "url": "https://open.spotify.com/artist/4lLwHokiP9fqkPpq9YCDEB"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132923,
+      "name": "Me Faz Um Favor",
+      "url": "https://open.spotify.com/track/3l5syz1VxdxHxkMy1rpCWn"
     },
     {
       "album": {
@@ -11032,6 +11170,32 @@
       "duration_ms": 178331,
       "name": "Mind",
       "url": "https://open.spotify.com/track/3O0TxAxm3jvtgfri7hmtIl"
+    },
+    {
+      "album": {
+        "name": "Mind Illuminate",
+        "url": "https://open.spotify.com/album/1hC1LUMQUyiBYxCUbVDkt3"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171825,
+      "name": "Mind Illuminate",
+      "url": "https://open.spotify.com/track/5p7hNVYvzfrdb4wOiWtcNo"
     },
     {
       "album": {
@@ -12380,7 +12544,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 152307,
       "name": "Okay",
       "url": "https://open.spotify.com/track/5salqxT61vFZ7vuCvJzf1B"
@@ -13310,6 +13474,24 @@
       "duration_ms": 154146,
       "name": "Presente",
       "url": "https://open.spotify.com/track/2wJFp8plZQfBA9mIXfra14"
+    },
+    {
+      "album": {
+        "name": "Prophecy",
+        "url": "https://open.spotify.com/album/0DG3puFX1rUWPZao7XGtn1"
+      },
+      "artists": [
+        {
+          "name": "ZAC",
+          "url": "https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187741,
+      "name": "Prophecy",
+      "url": "https://open.spotify.com/track/4z7Yzda45Gok9vuTPXnCxr"
     },
     {
       "album": {
@@ -15388,7 +15570,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 265635,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2R5YtxGWAhclm2sxUSPbm6"
@@ -15808,6 +15990,24 @@
       "duration_ms": 226829,
       "name": "take me (to the sunrise)",
       "url": "https://open.spotify.com/track/7xFd6J61nBu42RAlDVgQC3"
+    },
+    {
+      "album": {
+        "name": "Take My Time",
+        "url": "https://open.spotify.com/album/2rw16F07haNmxgezFOEw4c"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Take My Time",
+      "url": "https://open.spotify.com/track/6t9mVDPpeMZhm0pnqGHzUF"
     },
     {
       "album": {
@@ -17628,7 +17828,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 182769,
       "name": "Vodka",
       "url": "https://open.spotify.com/track/0NFLot7aYjdkJon2mMN5lG"

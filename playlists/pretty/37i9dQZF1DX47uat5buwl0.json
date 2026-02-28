@@ -1,12 +1,12 @@
 {
   "description": "Miloolaathetlukken genomineerd voor Edison Pop 2026: Nieuwkomer. HDP \ud83d\udd25\ud83c\udf89",
-  "num_followers": 313535,
+  "num_followers": 313587,
   "original_name": "Studenten Hits 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB6Pz8h5nSVNGwbXTy5/BzM4a+Kt",
+  "snapshot_id": "AAAAAG3TyhinKrEESShw0/wSyIiFZzeq",
   "tracks": [
     {
       "added_at": "2026-02-26 23:00:44",
@@ -31,6 +31,26 @@
     {
       "added_at": "2026-02-26 23:00:44",
       "album": {
+        "name": "F*CK KLEINE",
+        "url": "https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 149615,
+      "name": "Fashionweek",
+      "url": "https://open.spotify.com/track/3AsS2rFZd9yvysDmPIXkDk"
+    },
+    {
+      "added_at": "2026-02-26 23:00:44",
+      "album": {
         "name": "Just The Way You Are",
         "url": "https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y"
       },
@@ -47,26 +67,6 @@
       "duration_ms": 159500,
       "name": "Just The Way You Are",
       "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
-    },
-    {
-      "added_at": "2026-02-26 23:00:44",
-      "album": {
-        "name": "Lijntje",
-        "url": "https://open.spotify.com/album/7rSKhMvO7Ng4MYeLpElCvX"
-      },
-      "artists": [
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        },
-        {
-          "name": "Milolaathetlukken",
-          "url": "https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i"
-        }
-      ],
-      "duration_ms": 171692,
-      "name": "Lijntje",
-      "url": "https://open.spotify.com/track/1q7xYZc69cGcUa3eqwf7tt"
     },
     {
       "added_at": "2026-02-26 23:00:44",
@@ -91,8 +91,8 @@
     {
       "added_at": "2026-02-26 23:00:44",
       "album": {
-        "name": "F*CK KLEINE",
-        "url": "https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7"
+        "name": "Lijntje",
+        "url": "https://open.spotify.com/album/7rSKhMvO7Ng4MYeLpElCvX"
       },
       "artists": [
         {
@@ -100,13 +100,13 @@
           "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
         },
         {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+          "name": "Milolaathetlukken",
+          "url": "https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i"
         }
       ],
-      "duration_ms": 149615,
-      "name": "Fashionweek",
-      "url": "https://open.spotify.com/track/3AsS2rFZd9yvysDmPIXkDk"
+      "duration_ms": 171692,
+      "name": "Lijntje",
+      "url": "https://open.spotify.com/track/1q7xYZc69cGcUa3eqwf7tt"
     },
     {
       "added_at": "2026-02-26 23:00:44",

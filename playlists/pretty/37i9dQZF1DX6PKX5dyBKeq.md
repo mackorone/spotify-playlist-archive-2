@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Kidwild
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,403,425 likes - 80 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,403,449 likes - 80 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 21 | [RACKS.](https://open.spotify.com/track/0W8dVG4CnNRu2pd0XQO8k0) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [We Live.](https://open.spotify.com/album/0xecMwhgNinkh1Z82HGQ0x) | 2:28 |
 | 22 | [matcha bros](https://open.spotify.com/track/6j039F1GAbxnO4un1630wK) | [Taifunds](https://open.spotify.com/artist/1C76b7OjUUW3Jqqk4PMkMr), [00ab](https://open.spotify.com/artist/0LWbBMbzVxCHLe3tebI4Yo) | [matcha bros](https://open.spotify.com/album/6wdFukaniwdxTSZp6cnfGg) | 2:20 |
 | 23 | [MR DND](https://open.spotify.com/track/7KVkMVxVs3GqO7Vzy9hzjk) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [From Me 2 U](https://open.spotify.com/album/4SWWl5H8G1ZVx56WQV3yhY) | 1:44 |
-| 24 | [Mission Impossible \- Raw](https://open.spotify.com/track/5TTVPES1GhmkTWOOU1HNvR) | [Ryder](https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb), [MXNO](https://open.spotify.com/artist/1FKB1zYVzrlZPpIrP5teg2) | [RYDERHOOD 2](https://open.spotify.com/album/7e8B78YouQDyU1pH41KQuc) | 3:12 |
+| 24 | [Mission Impossible \- Raw](https://open.spotify.com/track/5TTVPES1GhmkTWOOU1HNvR) | [Ryder](https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb), [MXNO](https://open.spotify.com/artist/1FKB1zYVzrlZPpIrP5teg2) | [RYDERHOOD 2](https://open.spotify.com/album/7e8B78YouQDyU1pH41KQuc) | 2:02 |
 | 25 | [Everest](https://open.spotify.com/track/0XUiK6UHJJP3X7aE8W2Aa9) | [Noaah](https://open.spotify.com/artist/3Og0HlgdW9l89ref8rY5DX) | [Everest](https://open.spotify.com/album/77OdE2O0ENIOP87xmqLhvV) | 2:03 |
 | 26 | [Still Indecisive](https://open.spotify.com/track/0JYhsvRtU9Hq4p7SWzVJUB) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9) | [Still Indecisive](https://open.spotify.com/album/0m9V3f0tNHR4z1QiUPzM9J) | 2:42 |
 | 27 | [Cold, No Coat](https://open.spotify.com/track/35Vp66dI9saavgJd4pf5Mm) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Cold, No Coat](https://open.spotify.com/album/6c6Bs9XywsavE2lCbxceQ9) | 2:05 |

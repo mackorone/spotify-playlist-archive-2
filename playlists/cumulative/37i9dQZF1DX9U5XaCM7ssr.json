@@ -1441,6 +1441,24 @@
     },
     {
       "album": {
+        "name": "Jangan Paksa Rindu (Beda)",
+        "url": "https://open.spotify.com/album/1JF51ZL4beqyoP0NrmzLqn"
+      },
+      "artists": [
+        {
+          "name": "Ifan Seventeen",
+          "url": "https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245226,
+      "name": "Jangan Paksa Rindu - Beda",
+      "url": "https://open.spotify.com/track/5PW7zDYYMCrR2BsfiieCOk"
+    },
+    {
+      "album": {
         "name": "Melangkah",
         "url": "https://open.spotify.com/album/2y28ojd9lBvtJjgoGgCLov"
       },
@@ -1734,7 +1752,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 296800,
       "name": "Keras Kepala",
       "url": "https://open.spotify.com/track/5l3jhWIfRg1FeKgw7R1jWb"
@@ -2562,7 +2580,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 218571,
       "name": "Merindumu lagi",
       "url": "https://open.spotify.com/track/2EhHCazu5nK0S3oljv0B6l"
@@ -4688,6 +4706,24 @@
       "duration_ms": 271038,
       "name": "Tresno Tekan Mati New Version - Remastered 2023",
       "url": "https://open.spotify.com/track/5JJ6JB7fKygWoKAcBZKxNo"
+    },
+    {
+      "album": {
+        "name": "Tuhan Tahu Kita Saling Cinta",
+        "url": "https://open.spotify.com/album/0mz4JRi48KjxAbltvPTZIx"
+      },
+      "artists": [
+        {
+          "name": "Fajar Noor",
+          "url": "https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275277,
+      "name": "Tuhan Tahu Kita Saling Cinta",
+      "url": "https://open.spotify.com/track/0n8UJLCCEu2cF0Zm2luIvn"
     },
     {
       "album": {

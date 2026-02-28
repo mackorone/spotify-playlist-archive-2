@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Jyx1uIhxnP.md) - [plain]
 
 > Iconic indie tunes from your favourite films.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,185 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,204 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Jyx1uIhxnP.md) - [plain]
 | 2 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 |
 | 3 | [Fluorescent Adolescent](https://open.spotify.com/track/2x8evxqUlF0eRabbW2JBJd) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare](https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm) | 3:03 |
 | 4 | [Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 4:18 |
-| 5 | [There She Goes](https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's](https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x) | 2:42 |
-| 6 | [Born Slippy \(Nuxx\)](https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq) | 7:36 |
+| 5 | [Born Slippy \(Nuxx\)](https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq) | 7:36 |
+| 6 | [There She Goes](https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's](https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x) | 2:42 |
 | 7 | [Anyone Else But You](https://open.spotify.com/track/2pKi1lRvXNASy7ybeQIDTy) | [The Moldy Peaches](https://open.spotify.com/artist/7GGv4mV9JTJK9e7nIzUliU) | [The Moldy Peaches](https://open.spotify.com/album/4FD8WC9s2yohxwVTp9f236) | 3:00 |
 | 8 | [Bad Reputation](https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 2:49 |
 | 9 | [Don't Panic](https://open.spotify.com/track/2QhURnm7mQDxBb5jWkbDug) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 2:16 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Jyx1uIhxnP.md) - [plain]
 | 33 | [Sing \- 2012 Remaster](https://open.spotify.com/track/7d1dGY0j55oqOmJFAdmQlR) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Leisure \(Special Edition\)](https://open.spotify.com/album/0cTdvscLZjCTEKxYUlJFwa) | 6:00 |
 | 34 | [Mile End \- From 'Trainspotting' Original Motion Picture Soundtrack](https://open.spotify.com/track/3DYnqG3jqB1bijSKsJzuzG) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class / Deluxe Edition](https://open.spotify.com/album/1wDUCt2Jqcn4qKLnDdkMXh) | 4:30 |
 | 35 | [Paperweight by Joshua Radin and Schuyler Fisk](https://open.spotify.com/track/7IjL4IoQZMk1dOI4MH1T0i) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [Paperweight by Joshua Radin and Schuyler Fisk](https://open.spotify.com/album/1llgroOoPNwILl0RNnHoh7) | 3:24 |
-| 36 | [I Want You to Want Me](https://open.spotify.com/track/3DcPLPvsZPcFcYfMPMfh4e) | [Letters To Cleo](https://open.spotify.com/artist/7E41j1yL9ZeTWfqe9bUGgw) | [When Did We Do That?](https://open.spotify.com/album/1c2pJwy1y3eSP2Nknt0rp8) | 3:26 |
-| 37 | [Black Sheep](https://open.spotify.com/track/1CBQ8XGwcu7BcsT8iByvwE) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Scott Pilgrim vs\. the World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3q1e0dxZARuaHxZkLzgErK) | 4:55 |
+| 36 | [Black Sheep](https://open.spotify.com/track/1CBQ8XGwcu7BcsT8iByvwE) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Scott Pilgrim vs\. the World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3q1e0dxZARuaHxZkLzgErK) | 4:55 |
+| 37 | [I Want You to Want Me](https://open.spotify.com/track/3DcPLPvsZPcFcYfMPMfh4e) | [Letters To Cleo](https://open.spotify.com/artist/7E41j1yL9ZeTWfqe9bUGgw) | [When Did We Do That?](https://open.spotify.com/album/1c2pJwy1y3eSP2Nknt0rp8) | 3:26 |
 | 38 | [Little Motel](https://open.spotify.com/track/1UR0lWHLSCx2naiD7bq9FW) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Were Dead Before The Ship Even Sank](https://open.spotify.com/album/2lXBCL76UL5PCPbfAqKBkz) | 4:44 |
 | 39 | [Trainspotting](https://open.spotify.com/track/3N8p0hzXZ0EF0OoDGFh5G9) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Vanishing Point \(Expanded Edition\)](https://open.spotify.com/album/4VhBLFWE273FyI3rDeNx0A) | 8:04 |
 | 40 | [Skeletons](https://open.spotify.com/track/4QDlcd4wAmmXXtKryfTxnO) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz! \(Deluxe Edition\)](https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG) | 5:02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkxQvqMy4WW.md) - [plain]
 
 > Country music to get you back to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,415,206 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,415,215 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkxQvqMy4WW.md) - [plain]
 | 96 | [Highway Don't Care](https://open.spotify.com/track/4wFUdSCer8bdQsrp1M90sa) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Two Lanes Of Freedom](https://open.spotify.com/album/1O3BsjGx9plSOJ036ZY4Fl) | 4:36 |
 | 97 | [Peter Pan](https://open.spotify.com/track/2wqXQjOmQ9KoBm9Ssgt4Fo) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 3:20 |
 | 98 | [Somethin' 'Bout A Truck](https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Up All Night](https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu) | 3:33 |
-| 99 | [Pretty Little Poison](https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison](https://open.spotify.com/album/19EncKM5x6aE207IFFUT2M) | 3:38 |
-| 100 | [Burning House](https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:51 |
+| 99 | [Burning House](https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:51 |
+| 100 | [Pretty Little Poison](https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison](https://open.spotify.com/album/19EncKM5x6aE207IFFUT2M) | 3:38 |
 
 Snapshot ID: `AAAAADRTT46VfdB5GSzQjNQ5d/FriEC7`

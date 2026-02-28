@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nijhEsl8AZJkEaIAeF4lj.md) - [plain]
 
 > melancholic dreaming… or my go\-to plane playlist
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 18 likes - 349 songs - 22 hr 21 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 18 likes - 350 songs - 22 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -357,5 +357,6 @@ pretty - [cumulative](/playlists/cumulative/2nijhEsl8AZJkEaIAeF4lj.md) - [plain]
 | 347 | [Dying for You](https://open.spotify.com/track/0T3sHoiR3t9HtwbIOgTI7J) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:02 |
 | 348 | [Altars](https://open.spotify.com/track/37Vbx4pkj4QdmE4fPfAdoD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 2:56 |
 | 349 | [Raise Up Your Bat \(From "Deltarune"\) \- Rock Version](https://open.spotify.com/track/4fO8ZTzQ5FjzdcjAwQrHuq) | [NyxTheShield](https://open.spotify.com/artist/45Thh01bYz4UDmEFjU4tvT) | [Raise Up Your Bat \(From "Deltarune"\) \[Rock Version\]](https://open.spotify.com/album/1aeURf1FNFa6236qR9uGXd) | 3:51 |
+| 350 | [I'll Change for You](https://open.spotify.com/track/0MRooJn2J6iXQnzFdFSpRR) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Nothing's About to Happen to Me](https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu) | 3:16 |
 
-Snapshot ID: `AAAEO4sCMmOq3Al93TodWzAFEkWaxG7Z`
+Snapshot ID: `AAAEPGyPOfnMMfqacZspzaSrkTvz8XS3`

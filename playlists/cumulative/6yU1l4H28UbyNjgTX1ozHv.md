@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-318 songs - 16 hr 16 min
+320 songs - 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [As Long As You Love Me \- Acoustic](https://open.spotify.com/track/4MeIqmkDUpzCNh25g7PaYN) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [As Long As You Love Me \(Acoustic\)](https://open.spotify.com/album/4TOEnObzWo2hprdRapk6Jc) | 2:38 | 2025-06-14 | 2025-07-14 |
 | [Baby I Love You](https://open.spotify.com/track/1tIRAawWBRIcOUqbu4pxt7) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Baby I Love You](https://open.spotify.com/album/3Y21Y9YDCryfDO6lhSmWRS) | 3:14 | 2025-07-05 | 2025-11-29 |
 | [Baby I'm Yours \- Acoustic](https://open.spotify.com/track/6HTPUY4wJX7cR2b67nLFa5) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Baby I'm Yours \(Acoustic\)](https://open.spotify.com/album/2yyCCIXv0Kl95gwmK6zZ7g) | 1:59 | 2021-05-24 | 2024-03-04 |
+| [Be My Baby](https://open.spotify.com/track/6767EYNPX0LT5AERBRRKyx) | [Thomas Law](https://open.spotify.com/artist/17oLmcamZOvri63kIr56CO) | [Be My Baby](https://open.spotify.com/album/6XiUwP6st5qWfGH0rJVvuX) | 3:03 | 2026-02-27 |  |
 | [Beautiful Birds \- Acoustic](https://open.spotify.com/track/0LenfZSOzFiUB6sLmbB8pS) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Young as the Morning Old as the Sea \(Deluxe Edition\)](https://open.spotify.com/album/6MRC1VH6UnmiDFMvalRV68) | 2:53 | 2019-10-13 |  |
 | [Beautiful Day \- Acoustic](https://open.spotify.com/track/7eWOW1egL8jXVrFuWHeFOY) | [Ben Weighill](https://open.spotify.com/artist/6yAU69cTqYRuizldebquYb) | [Beautiful Day \(Acoustic\)](https://open.spotify.com/album/3jnfn4qhQMw8DO5xBvMpZe) | 3:04 | 2024-04-19 | 2024-06-15 |
 | [Because You Loved Me \- Acoustic](https://open.spotify.com/track/46riIukB23FBujbdYQTfmf) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [Because You Loved Me \(Acoustic\)](https://open.spotify.com/album/4XbwbcopmQJCRuETbjr1RN) | 3:37 | 2022-06-17 | 2023-05-10 |
@@ -57,7 +58,7 @@
 | [Dance The Night \- Acoustic](https://open.spotify.com/track/5Rylkdnez4Jye4YHucM3M4) | [Phil Halo](https://open.spotify.com/artist/6dyzieLNuthwQsahZSxbOv), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [Dance The Night](https://open.spotify.com/album/2LBVTDsPoquLbnLRmwKlMS) | 2:52 | 2023-08-24 |  |
 | [Dancing in the Moonlight \- Acoustic](https://open.spotify.com/track/4dudhJneNjXsJDyCxmObVB) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Dancing in the Moonlight \(Acoustic\)](https://open.spotify.com/album/3zbMIvyACUAWcf702wwZQu) | 2:32 | 2024-10-25 |  |
 | [Dancing in the Moonlight \- Acoustic](https://open.spotify.com/track/15ITqJqQ7f3EW9HmSQnzR4) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Dancing in the Moonlight \(Acoustic\)](https://open.spotify.com/album/0ldEDXECSxV2KJrwScStqq) | 2:59 | 2021-10-01 | 2023-12-14 |
-| [Dancing Queen \- Acoustic](https://open.spotify.com/track/4PGaZTakItG48FENLQhDyv) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Dancing Queen \(Acoustic\)](https://open.spotify.com/album/70EnDLWEFJv2HyqaFuxlCt) | 2:23 | 2024-10-04 |  |
+| [Dancing Queen \- Acoustic](https://open.spotify.com/track/4PGaZTakItG48FENLQhDyv) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Dancing Queen \(Acoustic\)](https://open.spotify.com/album/70EnDLWEFJv2HyqaFuxlCt) | 2:23 | 2024-10-04 | 2026-02-28 |
 | [Daydream Believer \- Acoustic](https://open.spotify.com/track/2tq6QHha0InhddKVEbfHiy) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [Daydream Believer \(Acoustic\)](https://open.spotify.com/album/3qwvjINzC7FN11ZRxVwmsE) | 2:13 | 2023-03-17 | 2024-03-04 |
 | [Dignity \- Acoustic](https://open.spotify.com/track/6WaOpI5POr5KaIFiOTIb1E) | [Richard Watts](https://open.spotify.com/artist/3cGb8b9Zwvka0MWD5RyMDI) | [Dignity \(Acoustic\)](https://open.spotify.com/album/79Dxyo0UTmGpOn14wgQWDM) | 2:53 | 2021-05-28 |  |
 | [Don't Dream It's Over](https://open.spotify.com/track/4VFM638fhpRTmkyJ69fSWE) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm), [Dave Moffatt](https://open.spotify.com/artist/7qwDy02WdmGebMlToaDyoY) | [Don't Dream It's Over](https://open.spotify.com/album/5rxtBTtwKhso4luWXRjj8t) | 3:27 | 2025-02-28 | 2025-04-26 |
@@ -250,6 +251,7 @@
 | [Symphony \(feat\. Zara Larsson\) \- Acoustic Version](https://open.spotify.com/track/06R0AVKrZM91OJf1ubm80d) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Symphony \(feat\. Zara Larsson\) \[Acoustic\]](https://open.spotify.com/album/2ixRAW2pBgisVTmYKiJca0) | 3:36 | 2019-10-13 |  |
 | [Take a Chance On Me \- Acoustic](https://open.spotify.com/track/4zXAFNd8ZyGDxMQirvjA0S) | [Sands of Summer](https://open.spotify.com/artist/43vjXOqFOUcodqUtWIRptz) | [Take a Chance On Me \(Acoustic\)](https://open.spotify.com/album/3T8fiS1ajuJDnvUJUnGRHu) | 2:58 | 2024-09-13 | 2025-02-26 |
 | [Take Me Home, Country Roads](https://open.spotify.com/track/6VSMMUfqorGCI5Glap5KSr) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Take Me Home, Country Roads](https://open.spotify.com/album/4jQcSVIcWcvWnTAPQ7w2eG) | 2:56 | 2026-01-05 |  |
+| [Teenage Dirtbag \- Acoustic](https://open.spotify.com/track/28UhV2P56qrhxu05pNP08W) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Teenage Dirtbag \(Acoustic\)](https://open.spotify.com/album/1kJwJ8ks6DweMzFDiJieIg) | 2:52 | 2026-02-27 |  |
 | [Teenage Dirtbag \- Acoustic](https://open.spotify.com/track/5ZprRG6q2boxa5Ypa3u6Hp) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [Teenage Dirtbag \(Acoustic\)](https://open.spotify.com/album/2MfAsqckmrxIssTdeReizP) | 3:31 | 2023-01-13 | 2023-03-18 |
 | [Teenage Dirtbag \- Acoustic](https://open.spotify.com/track/6g2Fiqf2HGj1oag2wbeWCI) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Teenage Dirtbag \(Acoustic\)](https://open.spotify.com/album/26FVlm5oL62SgHxc0MZmcE) | 3:26 | 2021-12-12 | 2022-06-18 |
 | [The Best \- Acoustic](https://open.spotify.com/track/7MkQ4oVMEsF3boi4hsajDG) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [The Best \(Acoustic\)](https://open.spotify.com/album/0zydjTR0i385HRexojYc5s) | 3:38 | 2020-08-08 | 2024-03-04 |

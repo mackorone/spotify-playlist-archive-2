@@ -4,7 +4,7 @@
 
 > Future & melodic bass 🛸 with ILLENIUM
 
-866 songs - 2 day 3 hr 48 min
+867 songs - 2 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Glitter & Gold](https://open.spotify.com/track/6WAD0F28oPL1xthLnWudRh) | [Wurme](https://open.spotify.com/artist/3rOSH7IovBDpCELYQq4gSJ), [Benzi](https://open.spotify.com/artist/1dqyvasqrPO2j7VS8TOxDl) | [Glitter & Gold](https://open.spotify.com/album/1Jhpc4DfM04o0MenO4nQFq) | 2:28 | 2025-09-26 |  |
 | [Glow In The Dark](https://open.spotify.com/track/1VDglOP1aicFIAQUolynFU) | [Friendzone](https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Glow In The Dark](https://open.spotify.com/album/3AMkR5uLWftipdTryaZz85) | 4:09 | 2022-07-08 | 2024-07-27 |
 | [Glow In The Dark](https://open.spotify.com/track/4VQR7e1OXp1gJcX72FJNv7) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Glow In The Dark](https://open.spotify.com/album/6EGhyU4YNH0ahFaYU0H8YW) | 3:49 | 2024-02-06 | 2024-11-09 |
+| [Goddess](https://open.spotify.com/track/3HD9GLv9hzwTPAkhmBIXKq) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX) | [Goddess](https://open.spotify.com/album/26KY5Noaiuq6EZB5CTiEpC) | 2:58 | 2026-02-27 |  |
 | [Godrays](https://open.spotify.com/track/0gyOLmdRZUKbwgyNv9P6aT) | [LOCKBOX](https://open.spotify.com/artist/4yqp9NiO7zJLy1eHzb54Ro), [Sidney Blair](https://open.spotify.com/artist/283NVL6QVdfv13KOAmyj3v) | [Godrays](https://open.spotify.com/album/3LOlAp1cmPAiaVQSWll3Tr) | 3:19 | 2024-03-01 | 2024-06-29 |
 | [Gold](https://open.spotify.com/track/4lWQlJLtppSgSZJZyXF8ek) | [STAR SEED](https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Burial](https://open.spotify.com/album/7DvxNPsfXVGihXgsF5cYd9) | 3:40 | 2025-10-17 |  |
 | [Gold Dust \- ILLENIUM 2015 Remix](https://open.spotify.com/track/31xpBcHJen3t4zJz02dO1U) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [Gold Dust \(ILLENIUM 2015 Remix\)](https://open.spotify.com/album/20FXdazGWpExq17zclAjKP) | 4:24 | 2024-02-06 | 2024-07-27 |
@@ -549,7 +550,7 @@
 | [Not My Night](https://open.spotify.com/track/6EUJEfYWvjdOzxpt2BIww6) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Not My Night](https://open.spotify.com/album/2ZTlNNxszsBxCU71FCQxd7) | 3:22 | 2024-03-01 | 2024-11-16 |
 | [Not Over You Yet](https://open.spotify.com/track/6Vnu5FeXz3E8KQYKKnwxTu) | [FLOTE](https://open.spotify.com/artist/5GlpEfsBmDxKXL5Sr3ZTMO) | [Not Over You Yet](https://open.spotify.com/album/2aeVreve3bcIGm6cYi80OU) | 3:05 | 2025-05-16 | 2025-08-10 |
 | [NOT THE ONE](https://open.spotify.com/track/1zT5ymdKPYUJBNLa85FIBN) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Kelly Paige](https://open.spotify.com/artist/55gmpteNh4JYsHglV3aQeD) | [NOT THE ONE](https://open.spotify.com/album/6fMyp6cpXpQDq5dZ2cRBuY) | 2:27 | 2023-09-29 | 2023-12-02 |
-| [Nothing to Lose](https://open.spotify.com/track/0fUGpNaRH925javytIbW5h) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Oliverse](https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp) | [Nothing to Lose](https://open.spotify.com/album/1SIhxMaUOEnfa3TSFjCgqG) | 3:52 | 2025-04-11 |  |
+| [Nothing to Lose](https://open.spotify.com/track/0fUGpNaRH925javytIbW5h) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Oliverse](https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp) | [Nothing to Lose](https://open.spotify.com/album/1SIhxMaUOEnfa3TSFjCgqG) | 3:52 | 2025-04-11 | 2026-02-28 |
 | [Nothing To You](https://open.spotify.com/track/4AS0qHBGLOnvEbtGi4qiyv) | [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [Daye](https://open.spotify.com/artist/60osBGZW2H9FtEecIfybMt), [shXdow.](https://open.spotify.com/artist/5k013eqGq6R7I8hYIqB643) | [Nothing To You](https://open.spotify.com/album/7ktR7MO2fbOwRf0zh7LgG8) | 3:17 | 2025-11-07 |  |
 | [Nowhere](https://open.spotify.com/track/31gMxpu8lSWdIBayKt5ED3) | [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb) | [Nowhere](https://open.spotify.com/album/4iWqhU4VbUG7RWRk9L7Utz) | 3:13 | 2023-08-04 | 2023-11-26 |
 | [Numb](https://open.spotify.com/track/0kMWWZzHQwB5HaIkWhObP5) | [Nikademis](https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP), [LEUTHERO](https://open.spotify.com/artist/3lzcu6JBa7phqYHz8xjZp5), [skye silansky](https://open.spotify.com/artist/0S3LxjopMZF875k3QbpzFt) | [Numb](https://open.spotify.com/album/0Pjb8nZBlx7muWOH2VZJoy) | 3:12 | 2024-05-10 |  |

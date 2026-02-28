@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNsJgooxLfdP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4K6JUGERv1pUGgxWwuwj06">Victoria Monét</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,425 likes - 84 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,427 likes - 84 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNsJgooxLfdP.md) - [plain]
 | 47 | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/track/5v7BIzhKuy8WzT7LyFYiiO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [JAGUAR II](https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw) | 4:00 |
 | 48 | [Got Her Own \(with Victoria Monét\)](https://open.spotify.com/track/3UBE9swDF71ARoV42g6Fcx) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Charlie's Angels \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f) | 2:41 |
 | 49 | [Admit It \(u dont want 2\)](https://open.spotify.com/track/7c0DlxLjlEEK2VKQJIIU1Z) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/17Y0WRHJehin8BUG2n9jkM) | 6:25 |
-| 50 | [Double Tap \(feat\. 2 Chainz\)](https://open.spotify.com/track/0FXkDghtNzvWLoB92pYMDF) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Right Here Right Now](https://open.spotify.com/album/2aGFVwpZFTQXpxx9ag96cd) | 3:25 |
-| 51 | [Go There With You](https://open.spotify.com/track/4DHbBXZYwlFIVpcI8fC6Ue) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 3:03 |
+| 50 | [Go There With You](https://open.spotify.com/track/4DHbBXZYwlFIVpcI8fC6Ue) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 3:03 |
+| 51 | [Double Tap \(feat\. 2 Chainz\)](https://open.spotify.com/track/0FXkDghtNzvWLoB92pYMDF) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Right Here Right Now](https://open.spotify.com/album/2aGFVwpZFTQXpxx9ag96cd) | 3:25 |
 | 52 | [Sin City](https://open.spotify.com/track/3BkPFyejx6Qf4otNHMvxap) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH), [Malik Yusef](https://open.spotify.com/artist/2hikCywT7dcTj6gt3jmsbD) | [Kanye West Presents Good Music Cruel Summer](https://open.spotify.com/album/0bcOGgwJpwBjfFBTApoqSn) | 4:28 |
 | 53 | [How Does It Make You Feel](https://open.spotify.com/track/7ptEC3PSdXZ8530GoESqm3) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw) | 3:36 |
 | 54 | [Yo Te Amo A Ti](https://open.spotify.com/track/578QxCzsWlrHJrXaZGOpwY) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Jorge Blanco](https://open.spotify.com/artist/6MWKObDGDrI3jN3Q3d9dpD) | [TINI \(Martina Stoessel\) \[Deluxe Edition\]](https://open.spotify.com/album/2pFtQ4nD1Dq1ESF4w7wk3Q) | 3:39 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNsJgooxLfdP.md) - [plain]
 | 83 | [I'm The One \(Jingle Bells\)](https://open.spotify.com/track/1JgCZJT9mhWcZkerQVuRXY) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [A Jaguar II Christmas: The Orchestral Arrangements](https://open.spotify.com/album/6WVNnqHYc6pCrkXyXB7ai5) | 1:56 |
 | 84 | [Christmas in Hollywood](https://open.spotify.com/track/0ovd1Hjlnd1jUyMINunnKi) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [A Jaguar II Christmas: The Orchestral Arrangements](https://open.spotify.com/album/6WVNnqHYc6pCrkXyXB7ai5) | 2:59 |
 
-Snapshot ID: `AcKvFAAAAABm+5Chs/9oqkZ/zgdFkD3T`
+Snapshot ID: `AcK0lgAAAAD6oqto+X0GwBWRc+lmFeZs`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 
 > sultry and seductive feminine energy 🔪 cover: Marilyn Monroe
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,433,722 likes - 70 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,433,961 likes - 70 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 10 | [Skyfall](https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Skyfall](https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY) | 4:46 |
 | 11 | [You Know I'm No Good](https://open.spotify.com/track/4zQuwW24dweWcaX0fEJkP2) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 4:16 |
 | 12 | [Cigarettes out the Window](https://open.spotify.com/track/6QeYSvYqYUsfBzsApbjDHO) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh) | 3:18 |
-| 13 | [Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Twilight](https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1) | 3:23 |
+| 13 | [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 2:41 |
 | 14 | [for the night](https://open.spotify.com/track/5XnfNWIuyArQU732bZ6Nj1) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [locket](https://open.spotify.com/album/766kQKYQvONQk339t5payy) | 3:08 |
 | 15 | [Hush – Spotify Singles](https://open.spotify.com/track/4dFDrETHRPwHd6rX1LrlIP) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Spotify Singles](https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP) | 2:36 |
 | 16 | [Gangster's Wife](https://open.spotify.com/track/30vGqh1ELeYh6r4A6FIaya) | [Izzy Escobar](https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO) | [Sunny in London \(Acoustic\)](https://open.spotify.com/album/3rlOkmojjYLRFnAY9shUX8) | 2:39 |
-| 17 | [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 2:41 |
+| 17 | [Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Twilight](https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1) | 3:23 |
 | 18 | [Lady Love \(Omnichord version\)](https://open.spotify.com/track/1K706YVvIGmYufKIDqCxM6) | [Olivia C\. Dacal](https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa) | [Lady Love \(Omnichord version\)](https://open.spotify.com/album/7DescDXR4AY38mk5pIEf4o) | 3:26 |
 | 19 | [Maneater](https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:18 |
 | 20 | [Daddy Issues](https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Wiped Out!](https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF) | 4:20 |

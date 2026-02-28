@@ -2,9 +2,9 @@
 
 ### [the new retro](https://open.spotify.com/playlist/37i9dQZF1DWV5vqkTng2MA)
 
-> Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Kokoroko
+> Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Devon Gilfillian
 
-312 songs - 18 hr 40 min
+313 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Highway Vagabond](https://open.spotify.com/track/1m6un0uWcRlNcJHBQ1lKAo) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 3:53 | 2022-06-01 | 2024-04-19 |
 | [Highway Vagabond](https://open.spotify.com/track/49UUfxpZ5b8COpc23EIaFH) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Highway Vagabond](https://open.spotify.com/album/0Dxl5n9oECHhrlPnStv2jY) | 3:53 | 2021-10-01 | 2022-06-01 |
 | [Hold](https://open.spotify.com/track/0sLgdA4a3ReEK5xoBJAndM) | [Ali Angel](https://open.spotify.com/artist/0RPW9rpDMyVD4wEMzvd1RG), [Tyler Ballgame](https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK) | [Hold](https://open.spotify.com/album/6TvnRqPEqYn938EHeBWvyh) | 4:21 | 2025-03-19 |  |
+| [Hold On \(Hourglass\)](https://open.spotify.com/track/1QDySElJ1ReSMXctn2RlX2) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Hold On \(Hourglass\)](https://open.spotify.com/album/1xT90CemUTK48e1L3y7Pfx) | 4:08 | 2026-02-27 |  |
 | [Holly](https://open.spotify.com/track/3YYmCD8ERuxyMu6GDhWDQF) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [Holly](https://open.spotify.com/album/1Q2XIzf9j68gTi9MuY4fwD) | 2:43 | 2021-10-01 | 2022-07-29 |
 | [Honest Man](https://open.spotify.com/track/0KRBAOHg8LuG07fF2jrsrK) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Honest Man](https://open.spotify.com/album/4syDqjDLtyOd7T70QkUQ60) | 3:32 | 2021-10-01 | 2022-07-27 |
 | [Housebroken Man](https://open.spotify.com/track/3BLFRn1bObTn2E9WQB8cBI) | [Quiet Life](https://open.spotify.com/artist/13MdjUqnWNyfY4qKYQ9OPl), [Cary Ann Hearst](https://open.spotify.com/artist/2Fwqnm1kpxK4BZgWrsG5qm) | [Housebroken Man](https://open.spotify.com/album/5OGTvU4mhKMfoUkajeA0De) | 3:46 | 2021-10-01 | 2022-03-09 |
@@ -267,7 +268,7 @@
 | [Summer Sun](https://open.spotify.com/track/2YMIYzyip7FRqV1pasIGc9) | [Ruen Brothers](https://open.spotify.com/artist/0CBu2ZuF5503TaauGVk1Go) | [All My Shades Of Blue](https://open.spotify.com/album/5ZfLIL2IFjtgKAAxvW7WiJ) | 3:21 | 2021-10-01 |  |
 | [Supernova](https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Supernova](https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW) | 3:55 | 2021-10-01 |  |
 | [Sushi and Coca\-Cola](https://open.spotify.com/track/5pGdWJIkt47ovJcBOKHl2S) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sushi and Coca\-Cola](https://open.spotify.com/album/3QSjD8VyfUBGICacKVLzk4) | 2:37 | 2025-07-25 |  |
-| [Sweet Little Rainbows](https://open.spotify.com/track/3gOSDkunPRtxksTi0Gxq81) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Mystery](https://open.spotify.com/album/7f0UvHSC6XjlmO1HMR5iId) | 3:43 | 2025-01-14 |  |
+| [Sweet Little Rainbows](https://open.spotify.com/track/3gOSDkunPRtxksTi0Gxq81) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Mystery](https://open.spotify.com/album/7f0UvHSC6XjlmO1HMR5iId) | 3:43 | 2025-01-14 | 2026-02-28 |
 | [Swing That Thing](https://open.spotify.com/track/5oBGZryzl7e2wtNth9IHe0) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Everlasting Arms](https://open.spotify.com/album/3J5rlCW6Yo7yvRkAnZx9AQ) | 3:17 | 2023-09-15 | 2024-04-17 |
 | [Take My Heart](https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg) | 4:18 | 2024-03-01 |  |
 | [Take My Heart](https://open.spotify.com/track/7i6ba4Pz9c6i0TnDKUmI7F) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/1AqN9WyeYYPPLEvclp2xlI) | 4:18 | 2023-03-24 | 2023-06-20 |

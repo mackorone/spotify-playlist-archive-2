@@ -611,6 +611,24 @@
     },
     {
       "album": {
+        "name": "Autumn in the Storm",
+        "url": "https://open.spotify.com/album/0PEP2Y4dCNhnc71M1SC8zo"
+      },
+      "artists": [
+        {
+          "name": "Breathing Tales",
+          "url": "https://open.spotify.com/artist/2ZFi7bp6R1cFiPxT0Q7P0I"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152716,
+      "name": "Autumn in the Storm",
+      "url": "https://open.spotify.com/track/0tB90dlegD2EegT7EE2Bii"
+    },
+    {
+      "album": {
         "name": "Avatar",
         "url": "https://open.spotify.com/album/3rNkFTNqKvXFpiOB70Mb1f"
       },
@@ -5496,6 +5514,24 @@
       "duration_ms": 231293,
       "name": "The One I Want Beside Me",
       "url": "https://open.spotify.com/track/4EtCyjZQCF2fxV6eKYxXXH"
+    },
+    {
+      "album": {
+        "name": "The Party",
+        "url": "https://open.spotify.com/album/5zd3NUklLnUdqPgU54YlL2"
+      },
+      "artists": [
+        {
+          "name": "The Great Leslie",
+          "url": "https://open.spotify.com/artist/4nLnyYZc70ZItmWTW0oo9W"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184833,
+      "name": "The Party",
+      "url": "https://open.spotify.com/track/3MDPDsTbteMtMytdsvMLBB"
     },
     {
       "album": {

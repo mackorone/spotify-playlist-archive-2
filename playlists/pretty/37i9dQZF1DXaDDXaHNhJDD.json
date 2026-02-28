@@ -1,13 +1,37 @@
 {
-  "description": "Finest collection of Malayalam Music from the past 10 years Cover : Narivetta",
-  "num_followers": 215387,
+  "description": "Finest collection of Malayalam Music from the past 10 years Cover : Aashaan",
+  "num_followers": 215450,
   "original_name": " Mollywood Gold ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAaUAT20MlsoR6ST0Tcm2z48JQYk",
+  "snapshot_id": "AAAAAEnfVdPjzPRbiX4nNs09ApkilGWu",
   "tracks": [
+    {
+      "added_at": "2026-02-27 11:39:28",
+      "album": {
+        "name": "Kunjikkavil Meghame (From \"Aashaan\")",
+        "url": "https://open.spotify.com/album/2KhiAM5udaWOv0ohiipVBS"
+      },
+      "artists": [
+        {
+          "name": "Johnpaul George",
+          "url": "https://open.spotify.com/artist/3odIxuvJWJpYybFS0fDI4X"
+        },
+        {
+          "name": "Sooraj Santhosh",
+          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
+        },
+        {
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+        }
+      ],
+      "duration_ms": 284210,
+      "name": "Kunjikkavil Meghame (From \"Aashaan\")",
+      "url": "https://open.spotify.com/track/1QjXwGvMfjlFdGCnBSfTcD"
+    },
     {
       "added_at": "2025-06-03 08:06:05",
       "album": {
@@ -31,6 +55,58 @@
       "duration_ms": 299055,
       "name": "Minnalvala (From \"Narivetta\")",
       "url": "https://open.spotify.com/track/5yAfCVJwa3r9wAQSOfawqm"
+    },
+    {
+      "added_at": "2025-09-23 06:28:54",
+      "album": {
+        "name": "Thalavara (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7D5muU673GHLplT6iCt423"
+      },
+      "artists": [
+        {
+          "name": "electronic kili",
+          "url": "https://open.spotify.com/artist/6S9pxoEBK0Mczr3qE8H0GX"
+        },
+        {
+          "name": "Rakhooo",
+          "url": "https://open.spotify.com/artist/4taC6D2Loslf6n6YBTWjzd"
+        },
+        {
+          "name": "iSai",
+          "url": "https://open.spotify.com/artist/43j2RldsisSwS11vMFLNOX"
+        },
+        {
+          "name": "Muthu",
+          "url": "https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "Ilakozhiye",
+      "url": "https://open.spotify.com/track/2Qkr0RTvw2DSMToTChKoyN"
+    },
+    {
+      "added_at": "2026-02-27 11:39:28",
+      "album": {
+        "name": "Jaalakaari (From \"Balti\")",
+        "url": "https://open.spotify.com/album/5zyr4y12Rn3B204mU2aamV"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+        }
+      ],
+      "duration_ms": 238730,
+      "name": "Jaalakaari - From \"Balti\"",
+      "url": "https://open.spotify.com/track/0aMi5DHyTwYrlOcxp1AM3v"
     },
     {
       "added_at": "2025-06-03 08:06:05",
@@ -131,34 +207,6 @@
       "duration_ms": 202844,
       "name": "Poomaram",
       "url": "https://open.spotify.com/track/7BDYYg12ldqFowsjiYAdRJ"
-    },
-    {
-      "added_at": "2025-09-23 06:28:54",
-      "album": {
-        "name": "Thalavara (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7D5muU673GHLplT6iCt423"
-      },
-      "artists": [
-        {
-          "name": "electronic kili",
-          "url": "https://open.spotify.com/artist/6S9pxoEBK0Mczr3qE8H0GX"
-        },
-        {
-          "name": "Rakhooo",
-          "url": "https://open.spotify.com/artist/4taC6D2Loslf6n6YBTWjzd"
-        },
-        {
-          "name": "iSai",
-          "url": "https://open.spotify.com/artist/43j2RldsisSwS11vMFLNOX"
-        },
-        {
-          "name": "Muthu",
-          "url": "https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "Ilakozhiye",
-      "url": "https://open.spotify.com/track/2Qkr0RTvw2DSMToTChKoyN"
     },
     {
       "added_at": "2025-05-20 06:39:22",
@@ -367,26 +415,6 @@
       "duration_ms": 240327,
       "name": "Kuthanthram",
       "url": "https://open.spotify.com/track/11BKSlBxpkxrHvPi8uxXzV"
-    },
-    {
-      "added_at": "2025-10-08 13:07:01",
-      "album": {
-        "name": "Premam",
-        "url": "https://open.spotify.com/album/5gkkfFiedjuYeCM0v4IlZu"
-      },
-      "artists": [
-        {
-          "name": "Vijay Yesudas",
-          "url": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
-        },
-        {
-          "name": "Rajesh Murugesan",
-          "url": "https://open.spotify.com/artist/0dbzsYBJZ4XZUcrgts3kWf"
-        }
-      ],
-      "duration_ms": 316419,
-      "name": "Malare",
-      "url": "https://open.spotify.com/track/4Hvf9xIeJWp5p9FkJerQhN"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -747,22 +775,6 @@
       "duration_ms": 218610,
       "name": "Etho Mazhayil",
       "url": "https://open.spotify.com/track/2Psbt9MZfVJNuHXFgG7DHh"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Kumbalangi Nights (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1YYQL3f8f6rxowT4SO0eZ6"
-      },
-      "artists": [
-        {
-          "name": "Sithara Krishnakumar,Sushin Shyam",
-          "url": "https://open.spotify.com/artist/5aMk6DtFyuKqPEskoEkEhC"
-        }
-      ],
-      "duration_ms": 221370,
-      "name": "Cherathukal",
-      "url": "https://open.spotify.com/track/3rwIts9ls8HrOVbawWXmF2"
     },
     {
       "added_at": "2024-12-04 12:15:00",

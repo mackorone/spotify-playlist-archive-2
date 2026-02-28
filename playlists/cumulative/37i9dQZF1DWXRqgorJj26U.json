@@ -1046,7 +1046,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 329733,
       "name": "Californication",
       "url": "https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox"
@@ -5138,6 +5138,24 @@
       "duration_ms": 258826,
       "name": "Say It Ain't So",
       "url": "https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA"
+    },
+    {
+      "album": {
+        "name": "Californication (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215906,
+      "name": "Scar Tissue",
+      "url": "https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With The Guilt, Rob Harrowven, Evil Level Live and more",
+  "description": "With Evil Level Live, Lockjaw, The Ramey Memo and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 217778,
       "name": "A Dark Dream",
       "url": "https://open.spotify.com/track/0UG6GMOOMsnS9hW1vO7u5N"
@@ -240,7 +240,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 177230,
       "name": "a short term effect",
       "url": "https://open.spotify.com/track/1BFfuqkmcRqkouAYuXTnNf"
@@ -472,7 +472,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 220000,
       "name": "apoca-lips",
       "url": "https://open.spotify.com/track/2MTcR4vNAYLtguyNscbceQ"
@@ -602,7 +602,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 120754,
       "name": "BANSHEE",
       "url": "https://open.spotify.com/track/4gpzZ49746dFN5gks3nA6E"
@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 278344,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/5a0UozDdlLleQaN7EZta6C"
@@ -1340,7 +1340,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-26",
+      "date_removed": null,
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -1524,7 +1524,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 198391,
       "name": "Cut Me Loose",
       "url": "https://open.spotify.com/track/4u1SCkmOp9hWkG7cX8FCjp"
@@ -1618,7 +1618,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 171284,
       "name": "Dance in the Dungeon",
       "url": "https://open.spotify.com/track/1djlouVTNO65GRUQ6kV44G"
@@ -1792,10 +1792,32 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 205250,
       "name": "Detached",
       "url": "https://open.spotify.com/track/6W6ktN80W3pwJ6AlD424xg"
+    },
+    {
+      "album": {
+        "name": "Diamond Dust",
+        "url": "https://open.spotify.com/album/4z3rc3W4CbW3jks9iOIY5n"
+      },
+      "artists": [
+        {
+          "name": "The Recordios",
+          "url": "https://open.spotify.com/artist/0QQeWbYycAVd8fvoRB4chT"
+        },
+        {
+          "name": "Malcolm Burn",
+          "url": "https://open.spotify.com/artist/1TTvJIvyl2VxaAV5FuPeim"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167907,
+      "name": "Diamond Dust",
+      "url": "https://open.spotify.com/track/0C6ArJYSXjvjQe1OiSxiZM"
     },
     {
       "album": {
@@ -2240,7 +2262,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 238437,
       "name": "Fake Love - Rock Remix",
       "url": "https://open.spotify.com/track/1ljd5NB7YLcUBMiA5f3eEF"
@@ -3436,7 +3458,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 281500,
       "name": "I'm made for more",
       "url": "https://open.spotify.com/track/43qb7qNNuxjUq6Kq0APvcR"
@@ -3764,7 +3786,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 186803,
       "name": "Just Like Honey",
       "url": "https://open.spotify.com/track/4468rcPpL0NyU9uu2NCPQm"
@@ -5852,7 +5874,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 273353,
       "name": "Sei\u00f0r",
       "url": "https://open.spotify.com/track/1IRQJ2cJZlxRa79zVIWqoU"
@@ -6583,6 +6605,24 @@
     },
     {
       "album": {
+        "name": "Annihilove EP",
+        "url": "https://open.spotify.com/album/4hOWAJSZaAEcGpd23Nzeiz"
+      },
+      "artists": [
+        {
+          "name": "Lockjaw",
+          "url": "https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221906,
+      "name": "Suburban Decay",
+      "url": "https://open.spotify.com/track/4X5ZUHqi7EogCNb8SGaoEB"
+    },
+    {
+      "album": {
         "name": "Love, Lust, and Longing",
         "url": "https://open.spotify.com/album/2bg62D9HhnF2X7cQDvv0Ki"
       },
@@ -6634,6 +6674,24 @@
       "duration_ms": 227294,
       "name": "Sugar Dead",
       "url": "https://open.spotify.com/track/5oJHsvkfpk34v3MJHrwO5k"
+    },
+    {
+      "album": {
+        "name": "Sunrise Symphony",
+        "url": "https://open.spotify.com/album/6e6tiu2y1XMWQ2HNo8WGC9"
+      },
+      "artists": [
+        {
+          "name": "Edward Weaver",
+          "url": "https://open.spotify.com/artist/33DSmTdS4xNldk3ctK5PAi"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260040,
+      "name": "Sunrise Symphony",
+      "url": "https://open.spotify.com/track/1yNjERs6ZPT5aEaUjFtTi2"
     },
     {
       "album": {
@@ -7274,7 +7332,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 190955,
       "name": "Through The Looking Glass",
       "url": "https://open.spotify.com/track/2VChgOUgrKcZ7poZHsQTqe"
@@ -7950,7 +8008,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 160000,
       "name": "Weaponry",
       "url": "https://open.spotify.com/track/64byd64mWqDoRIjgNFdFXR"

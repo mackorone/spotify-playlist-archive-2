@@ -1,6 +1,6 @@
 {
   "description": "Para ahogar las penas en el fondo de una botella. Jessi Uribe en portada.",
-  "num_followers": 163860,
+  "num_followers": 163909,
   "original_name": "Rancheras, Despecho & Licor",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,22 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
+        "name": "Pa' Olvidar",
+        "url": "https://open.spotify.com/album/42C8pktaxUVrz8NKQEtTC3"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        }
+      ],
+      "duration_ms": 199210,
+      "name": "Dile al Amor",
+      "url": "https://open.spotify.com/track/6h7dFkekl5awWSe9IGtAfP"
+    },
+    {
+      "added_at": "2025-12-05 04:59:34",
+      "album": {
         "name": "Juan Gabriel",
         "url": "https://open.spotify.com/album/43k4po9vUTVv54kNCBXWcT"
       },
@@ -991,18 +1007,18 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
-        "name": "Pa' Olvidar",
-        "url": "https://open.spotify.com/album/42C8pktaxUVrz8NKQEtTC3"
+        "name": "Borracho Te Llamo",
+        "url": "https://open.spotify.com/album/0lg5oGuuZvNc9brVmqI64C"
       },
       "artists": [
         {
-          "name": "Nico Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+          "name": "Jhon Alex Casta\u00f1o",
+          "url": "https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv"
         }
       ],
-      "duration_ms": 199210,
-      "name": "Dile al Amor",
-      "url": "https://open.spotify.com/track/6h7dFkekl5awWSe9IGtAfP"
+      "duration_ms": 148542,
+      "name": "Borracho Te Llamo",
+      "url": "https://open.spotify.com/track/0QTy8NYyHUheegmH0ndfMK"
     },
     {
       "added_at": "2025-12-05 04:59:34",
@@ -1023,22 +1039,6 @@
       "duration_ms": 201200,
       "name": "Una Llamada Perdida",
       "url": "https://open.spotify.com/track/1seKHgwXPVAK9o6bh7IzlF"
-    },
-    {
-      "added_at": "2025-12-05 04:59:34",
-      "album": {
-        "name": "Borracho Te Llamo",
-        "url": "https://open.spotify.com/album/0lg5oGuuZvNc9brVmqI64C"
-      },
-      "artists": [
-        {
-          "name": "Jhon Alex Casta\u00f1o",
-          "url": "https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv"
-        }
-      ],
-      "duration_ms": 148542,
-      "name": "Borracho Te Llamo",
-      "url": "https://open.spotify.com/track/0QTy8NYyHUheegmH0ndfMK"
     },
     {
       "added_at": "2025-12-05 04:59:34",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
-        "name": "Matemos las Ganas",
-        "url": "https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom"
-      },
-      "artists": [
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        }
-      ],
-      "duration_ms": 182166,
-      "name": "Matemos las Ganas",
-      "url": "https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN"
-    },
-    {
-      "added_at": "2025-12-05 04:59:34",
-      "album": {
         "name": "Me Pase de Tragos",
         "url": "https://open.spotify.com/album/6hA1t3VClQcV24hLiQ0zQn"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 178800,
       "name": "Me Pase de Tragos",
       "url": "https://open.spotify.com/track/5ZGfTN3AjHosH5O8bpjyOf"
+    },
+    {
+      "added_at": "2025-12-05 04:59:34",
+      "album": {
+        "name": "Matemos las Ganas",
+        "url": "https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "duration_ms": 182166,
+      "name": "Matemos las Ganas",
+      "url": "https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN"
     },
     {
       "added_at": "2025-12-05 04:59:34",
@@ -1687,18 +1687,22 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
-        "name": "En Tus Manos",
-        "url": "https://open.spotify.com/album/0gkKTHSGp4ckN2XPVi4GUL"
+        "name": "La Conquista",
+        "url": "https://open.spotify.com/album/5uZpOJO7pLBQ7nSHE1fjjY"
       },
       "artists": [
         {
           "name": "Paola Jara",
           "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
         }
       ],
-      "duration_ms": 180165,
-      "name": "Muri\u00f3 El Amor",
-      "url": "https://open.spotify.com/track/09H7KZfOO0PMNLwsUDG2BI"
+      "duration_ms": 186378,
+      "name": "La Conquista",
+      "url": "https://open.spotify.com/track/4o5DwAte1mdSB3YfIKwZjm"
     },
     {
       "added_at": "2025-12-05 04:59:34",

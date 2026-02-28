@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 
 > Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,068 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,087 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 74 | [Rest Of My Life](https://open.spotify.com/track/2fhgFd9pEvTUhyBacCrPOn) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Rest Of My Life](https://open.spotify.com/album/3fOdo5NTgvDRnGtw70Eekp) | 2:54 |
 | 75 | [Texas On My Mind](https://open.spotify.com/track/1q2lZdxH80D9UwM57J4pzX) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Three Days](https://open.spotify.com/album/2lGigUytoUfyQOWqA5DIC4) | 4:40 |
 | 76 | [The Highway Kind](https://open.spotify.com/track/1DBoVgENKo0xEOAsQS3TK3) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [The Highway Kind](https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ) | 3:59 |
-| 77 | [The Love That We Need](https://open.spotify.com/track/31dEh1OeZGv61RZzDIixue) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Lovers and Leavers](https://open.spotify.com/album/7z5FvJZESvRTwHTJT2uKc4) | 4:08 |
-| 78 | [Back Roads](https://open.spotify.com/track/2ZnA5zyjPzku5AVV3UCBI9) | [Brandon Rhyder](https://open.spotify.com/artist/7E6MNnNmJCt5ag3vtTvHiD) | [Conviction](https://open.spotify.com/album/5eZc2QcvtO6kHyhKqKdinL) | 4:04 |
+| 77 | [Back Roads](https://open.spotify.com/track/2ZnA5zyjPzku5AVV3UCBI9) | [Brandon Rhyder](https://open.spotify.com/artist/7E6MNnNmJCt5ag3vtTvHiD) | [Conviction](https://open.spotify.com/album/5eZc2QcvtO6kHyhKqKdinL) | 4:04 |
+| 78 | [The Love That We Need](https://open.spotify.com/track/31dEh1OeZGv61RZzDIixue) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Lovers and Leavers](https://open.spotify.com/album/7z5FvJZESvRTwHTJT2uKc4) | 4:08 |
 | 79 | [Tails I Lose](https://open.spotify.com/track/0onu3vmyPJNYC8ARE81uGe) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Tails I Lose](https://open.spotify.com/album/3goaHaBpCfkyHLcw5ReS8b) | 3:45 |
 | 80 | [How Lucky Am I](https://open.spotify.com/track/65djCR0BY2s8w1mdL270yj) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [How Lucky Am I](https://open.spotify.com/album/5FvWijatd6SksRLCD0TpER) | 3:57 |
 | 81 | [Who I Am](https://open.spotify.com/track/3dlM0Jy0cLRzAOeBxMt7Mw) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [The Waiting](https://open.spotify.com/album/0n6zxAXMLA2dDZx4bLs6IG) | 4:35 |

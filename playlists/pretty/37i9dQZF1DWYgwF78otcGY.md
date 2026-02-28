@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 
 > Fjäderboa, dansgolv, allsång och tonartshöjningar \- nu är det mellofest! 🪩✨💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,776 likes - 52 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,774 likes - 52 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,13 +40,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 30 | [Mer av dig](https://open.spotify.com/track/7xzgJNufqvox5oQQa1dP1O) | [Theo](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Mer av dig](https://open.spotify.com/album/3waGWjneO6tOSEAzfHusNp) | 2:44 |
 | 31 | [Air](https://open.spotify.com/track/7DBQIEXuFIXMWNAWyGsTTm) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Air](https://open.spotify.com/album/1RJ3zvMBc4NB9VSXEF1EUy) | 2:52 |
 | 32 | [Blame It On The Disco](https://open.spotify.com/track/4IZy2nI5mAxLtlLPbcErqc) | [Alcazar](https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg) | [Disco Defenders](https://open.spotify.com/album/6tZv43WmLwofiLbWanh1Ww) | 3:01 |
-| 33 | [Det gör ont](https://open.spotify.com/track/2aeVGqdsF7WbKZkwhcCeqm) | [Lena Philipsson](https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm) | [Lena 20 år](https://open.spotify.com/album/1T8NH2yMjPBlUDwim5Vtdo) | 3:01 |
-| 34 | [Evighet](https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Från nu till evighet](https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH) | 3:01 |
+| 33 | [Evighet](https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Från nu till evighet](https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH) | 3:01 |
+| 34 | [Det gör ont](https://open.spotify.com/track/2aeVGqdsF7WbKZkwhcCeqm) | [Lena Philipsson](https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm) | [Lena 20 år](https://open.spotify.com/album/1T8NH2yMjPBlUDwim5Vtdo) | 3:01 |
 | 35 | [Where You Are \(Sávežan\)](https://open.spotify.com/track/4zPqv04ddAFwk2Pgz3jC9U) | [Arc North](https://open.spotify.com/artist/2kgvaYV2tbNyOonFI3YlfH), [Jon Henrik Fjällgren](https://open.spotify.com/artist/65lCLhmmyUwnPBD2Bq7FQx), [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Where You Are \(Sávežan\)](https://open.spotify.com/album/249haOgXpuQsUSQelQ5OoE) | 2:56 |
 | 36 | [Efter solsken](https://open.spotify.com/track/2dh07zmyCMoY64rQdJrXLe) | [Panetoz](https://open.spotify.com/artist/7DXjp1eSv6Xf759gmCiApa) | [Det blir vad du gör det till](https://open.spotify.com/album/0ZZPKcI9MClojLecRZguDs) | 3:10 |
 | 37 | [Amazing](https://open.spotify.com/track/33qw98yPnShEQMoF72ORUa) | [Danny Saucedo](https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN) | [Amazing](https://open.spotify.com/album/1B0mVsLzCERctx9aZDC5yN) | 3:01 |
-| 38 | [En dag](https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [En Samling 1981 \- 2001](https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9) | 3:18 |
-| 39 | [Främling](https://open.spotify.com/track/17zFOtbuquEAAxSttpfWWl) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Främling 25 år](https://open.spotify.com/album/4cotyYQgYleaHbqQEgU9Hv) | 2:57 |
+| 38 | [Främling](https://open.spotify.com/track/17zFOtbuquEAAxSttpfWWl) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Främling 25 år](https://open.spotify.com/album/4cotyYQgYleaHbqQEgU9Hv) | 2:57 |
+| 39 | [En dag](https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [En Samling 1981 \- 2001](https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9) | 3:18 |
 | 40 | [Bailá Bailá](https://open.spotify.com/track/3MMJuk00QLVAjS6vwBZ67V) | [Alvaro Estrella](https://open.spotify.com/artist/6RYT3r4anXD8WAGOw6T8El) | [Bailá Bailá](https://open.spotify.com/album/3bcMrj2XzJl776OdDXmrnF) | 2:53 |
 | 41 | [Högt över havet](https://open.spotify.com/track/4J5KXnvaoSPa7yHrsNnqda) | [Arja Saijonmaa](https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK) | [Högt över havet](https://open.spotify.com/album/0lTGL5FPRV2cL926HKbUaS) | 2:49 |
 | 42 | [Underbart](https://open.spotify.com/track/5Tbc2O2q1NCux8F0lYiEo0) | [Kalle Moraeus](https://open.spotify.com/artist/1NDYAcgpsX4ony5CD0QIxW), [Orsa Spelmän](https://open.spotify.com/artist/2XmqtWcNsjq5XxlE6p5WrT) | [Underbart](https://open.spotify.com/album/1RXvOiBHUXPHqMfNZYohGQ) | 3:08 |

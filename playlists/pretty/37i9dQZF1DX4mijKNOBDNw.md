@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 
 > Si tocan a una respondemos todas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,723 likes - 65 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,729 likes - 65 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 17 | [Dignificada](https://open.spotify.com/track/5jRzAstjJuMwUP9P4Sj6Ng) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [One Blood \(Una Sangre\)](https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT) | 3:46 |
 | 18 | [Alma de Cantaora](https://open.spotify.com/track/68E3IMzPvvgKVXrwW2hXJW) | [Amparo Sánchez](https://open.spotify.com/artist/2VsFlcS7zCbTXd1JpZ74cg) | [Alma de Cantaora](https://open.spotify.com/album/4RZtmfEuBbn9QVZguelVmO) | 4:50 |
 | 19 | [Te Mereces Un Amor](https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te Mereces Un Amor](https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl) | 3:46 |
-| 20 | [Gitanas](https://open.spotify.com/track/2GyKZ65PKJJ16ACMqnzC1y) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Gitanas](https://open.spotify.com/album/2S6OhCz266448hlUEzIduB) | 3:10 |
-| 21 | [Paren de Matarnos](https://open.spotify.com/track/4p048hM5kMxSLLcRiLtE0K) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx) | [Pantera](https://open.spotify.com/album/572ZnLpVAhneJ6duuES4OL) | 3:22 |
+| 20 | [Paren de Matarnos](https://open.spotify.com/track/4p048hM5kMxSLLcRiLtE0K) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx) | [Pantera](https://open.spotify.com/album/572ZnLpVAhneJ6duuES4OL) | 3:22 |
+| 21 | [Gitanas](https://open.spotify.com/track/2GyKZ65PKJJ16ACMqnzC1y) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Gitanas](https://open.spotify.com/album/2S6OhCz266448hlUEzIduB) | 3:10 |
 | 22 | [Donde Quiera Que Van \(feat\. Lula Bertoldi, Ivonne Guzmán, Nadia Larcher & Ana Prada\)](https://open.spotify.com/track/2M1g4Nns1DO8WpN4aHLDvX) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ), [Ivonne Guzmán](https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY), [Nadia Larcher](https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5), [Ana Prada](https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S) | [Donde Quiera Que Van \(feat\. Lula Bertoldi, Ivonne Guzmán, Nadia Larcher & Ana Prada\)](https://open.spotify.com/album/1Ldh7pJGCxaYhzvys0ryGc) | 3:58 |
 | 23 | [Hermanas](https://open.spotify.com/track/1ZMILHInTaxZ3G5A7y55hY) | [Amparo Sánchez](https://open.spotify.com/artist/2VsFlcS7zCbTXd1JpZ74cg), [Maria Rezende](https://open.spotify.com/artist/3WDDrOm8mMLjqb8DltOW4k) | [Hermanas](https://open.spotify.com/album/5UPSoi84uNlqOuRcSkOOEa) | 4:06 |
 | 24 | [Nosotras Tenemos Otros Datos](https://open.spotify.com/track/1NmW3KNBImwfO6ej91vpHv) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [P\. Jaguar](https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB) | [Nosotras Tenemos Otros Datos](https://open.spotify.com/album/5c9LTfH3OcFIRHuaecGOm4) | 3:21 |
@@ -64,13 +64,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 54 | [Piba Cumbia](https://open.spotify.com/track/34LVUwRGzvYLqsNnD5nhFx) | [Barbarita Palacios](https://open.spotify.com/artist/1gq0ImfjG4vhi885kD3gB8), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Micaela Chauque](https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX) | [Piba Cumbia](https://open.spotify.com/album/28sPoHadwfwkZF7ZTBBAVp) | 3:34 |
 | 55 | [Déjame de Matar](https://open.spotify.com/track/2fAGXnJeAgNXRzdHbEArIS) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Déjame de Matar](https://open.spotify.com/album/7q70Mz0YbW2oxJZVqSUEXK) | 3:10 |
 | 56 | [Noche](https://open.spotify.com/track/60y8hKEZjCMchod0EcEnN7) | [Valentina Peralta](https://open.spotify.com/artist/2zsV26r2jyjg8toXnBiEId), [Fabián Hidalgo](https://open.spotify.com/artist/2ZylpF6ChLnfAkQHINmf8r) | [Noche](https://open.spotify.com/album/1rbgnjnxu4tHWNdf2OuArH) | 4:31 |
-| 57 | [Lisístrata](https://open.spotify.com/track/6BxjJVZL5GMv8OnyUP587z) | [Gata Cattana](https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo) | [Anclas](https://open.spotify.com/album/4eg8ReqTsC0N8BZwdEIHKN) | 3:57 |
-| 58 | [Ni Una Menos](https://open.spotify.com/track/11UL8736NPiJSdCiezulQp) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Ni Una Menos](https://open.spotify.com/album/2Ad42MuUjsRZFpIsPnGCkC) | 2:34 |
+| 57 | [Ni Una Menos](https://open.spotify.com/track/11UL8736NPiJSdCiezulQp) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Ni Una Menos](https://open.spotify.com/album/2Ad42MuUjsRZFpIsPnGCkC) | 2:34 |
+| 58 | [Lisístrata](https://open.spotify.com/track/6BxjJVZL5GMv8OnyUP587z) | [Gata Cattana](https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo) | [Anclas](https://open.spotify.com/album/4eg8ReqTsC0N8BZwdEIHKN) | 3:57 |
 | 59 | [Ni una Menos](https://open.spotify.com/track/73sv7ERsv0E9dFRJkmTroF) | [Chocolate Remix](https://open.spotify.com/artist/4kkuyWmpashrooyOFvHX2m) | [Sátira](https://open.spotify.com/album/4HsyhBMFmRLmTxEQeuROub) | 2:23 |
 | 60 | [Se Quemó](https://open.spotify.com/track/2x3pyIaB1hsqU7W06lfYDL) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7) | [Pa'fuera y Pa'dentro](https://open.spotify.com/album/29UNByudXjnpljtU2XOU6j) | 4:43 |
 | 61 | [No Ves](https://open.spotify.com/track/5y38M7sJvnfZPguQBYO7qx) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [No Ves](https://open.spotify.com/album/0noxqh5mBtyCT5N741oUKC) | 3:19 |
-| 62 | [Sororidad](https://open.spotify.com/track/5pdF3LbEvRBiLFSfCjMlmP) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2) | [Autogestión y Resistencia](https://open.spotify.com/album/78MBva8XZUxvaeHANhYG7W) | 3:40 |
-| 63 | [Ni Encerradas Ni Con Miedos](https://open.spotify.com/track/1rFA6XWEvH6dbYiHmOovCT) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Alma Mestiza](https://open.spotify.com/album/7drLzTXpNpRTiA5A7LpbTm) | 2:53 |
+| 62 | [Ni Encerradas Ni Con Miedos](https://open.spotify.com/track/1rFA6XWEvH6dbYiHmOovCT) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Alma Mestiza](https://open.spotify.com/album/7drLzTXpNpRTiA5A7LpbTm) | 2:53 |
+| 63 | [Sororidad](https://open.spotify.com/track/5pdF3LbEvRBiLFSfCjMlmP) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2) | [Autogestión y Resistencia](https://open.spotify.com/album/78MBva8XZUxvaeHANhYG7W) | 3:40 |
 | 64 | [Quememos el Reino](https://open.spotify.com/track/6Q34FSF6Y1VMYC6oGx2R8G) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Quememos el Reino](https://open.spotify.com/album/3L4Ud38y1Kf5cUjlKbAvAR) | 4:27 |
 | 65 | [Idealizar, nunca más](https://open.spotify.com/track/454mv67DU2LHuuP2gKh1vx) | [Valentina Marinkovic](https://open.spotify.com/artist/0XGcjQMRjxUa3QQxmxa4el) | [Idealizar, nunca más](https://open.spotify.com/album/5bcdtAzzuqKxdtDgYGAuqz) | 3:41 |
 

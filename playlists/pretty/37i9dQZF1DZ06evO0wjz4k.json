@@ -1,12 +1,12 @@
 {
   "description": "This is Parker McCollum. The essential tracks, all in one playlist.",
-  "num_followers": 34478,
+  "num_followers": 34482,
   "original_name": "This Is Parker McCollum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAABH22Xluf74clH1iPz+z6FK",
+  "snapshot_id": "aZ+NAAAAAADRQUPQ8Fke/tqz0Pow7x4f",
   "tracks": [
     {
       "added_at": null,
@@ -59,18 +59,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Ole Fancy House",
-        "url": "https://open.spotify.com/album/0T1po3gtIUONgzpdM2BRYG"
+        "name": "Noise Complaint",
+        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
       },
       "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        },
         {
           "name": "Parker McCollum",
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 243506,
-      "name": "Big Ole Fancy House",
-      "url": "https://open.spotify.com/track/2O6518EoFdYebARB4PCEjH"
+      "duration_ms": 223062,
+      "name": "Love (feat. Parker McCollum)",
+      "url": "https://open.spotify.com/track/12n0Z1dIlqXZYXx43MSHoG"
     },
     {
       "added_at": null,
@@ -91,22 +95,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noise Complaint",
-        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
+        "name": "Big Ole Fancy House",
+        "url": "https://open.spotify.com/album/0T1po3gtIUONgzpdM2BRYG"
       },
       "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        },
         {
           "name": "Parker McCollum",
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 223062,
-      "name": "Love (feat. Parker McCollum)",
-      "url": "https://open.spotify.com/track/12n0Z1dIlqXZYXx43MSHoG"
+      "duration_ms": 243506,
+      "name": "Big Ole Fancy House",
+      "url": "https://open.spotify.com/track/2O6518EoFdYebARB4PCEjH"
     },
     {
       "added_at": null,

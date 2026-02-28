@@ -1464,7 +1464,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 159565,
       "name": "Baby Bell",
       "url": "https://open.spotify.com/track/6790Rqyau5Ol6mxj2UbTP3"
@@ -1716,7 +1716,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 150621,
       "name": "Baila Baila",
       "url": "https://open.spotify.com/track/1xS7XV1k4Q2YRldPsPswdf"
@@ -3152,7 +3152,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -4293,6 +4293,24 @@
     },
     {
       "album": {
+        "name": "Die On This Hill",
+        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217008,
+      "name": "Die On This Hill",
+      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
+    },
+    {
+      "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
       },
@@ -4516,6 +4534,24 @@
       "duration_ms": 261228,
       "name": "Down Bad",
       "url": "https://open.spotify.com/track/2F3N9tdombb64aW6VtZOdo"
+    },
+    {
+      "album": {
+        "name": "Drag Path",
+        "url": "https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Drag Path",
+      "url": "https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L"
     },
     {
       "album": {
@@ -6488,7 +6524,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 175790,
       "name": "Gute Laune",
       "url": "https://open.spotify.com/track/6ogNEis5cmjtWmhTfb85aI"
@@ -11298,7 +11334,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 235355,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
@@ -12446,7 +12482,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 188187,
       "name": "Rakete - Party Edit",
       "url": "https://open.spotify.com/track/1bPPGrKv9D6z4RSwYm76QY"
@@ -12658,7 +12694,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 166760,
       "name": "Renn!",
       "url": "https://open.spotify.com/track/3uKAPZDXq6yE8Zqfhjbpp6"
@@ -13124,7 +13160,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-17",
+      "date_removed": null,
       "duration_ms": 243600,
       "name": "S&M",
       "url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D"
@@ -14566,7 +14602,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -14584,7 +14620,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -14860,6 +14896,24 @@
       "duration_ms": 109206,
       "name": "TANLINES",
       "url": "https://open.spotify.com/track/0WjgqfgjsdwZnwUBCqdOxq"
+    },
+    {
+      "album": {
+        "name": "TANZSCHEIN",
+        "url": "https://open.spotify.com/album/1x70VU6LDfmoLdL8OgaKix"
+      },
+      "artists": [
+        {
+          "name": "COSM\u00d3",
+          "url": "https://open.spotify.com/artist/5nbBY85e9IUeoz6vr9EdQM"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162548,
+      "name": "TANZSCHEIN",
+      "url": "https://open.spotify.com/track/6P4wvzxJJZR7cVs1kFXL3q"
     },
     {
       "album": {
@@ -16518,7 +16572,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 148800,
       "name": "UZI",
       "url": "https://open.spotify.com/track/4gAYiVZJiAO72GclV4CHGz"
@@ -16736,7 +16790,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 156364,
       "name": "VOY A LLeVARTE PA PR",
       "url": "https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ"
@@ -17464,6 +17518,24 @@
       "duration_ms": 204156,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/4buHBCFNm5WvttEDevaj9C"
+    },
+    {
+      "album": {
+        "name": "White Keys",
+        "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144101,
+      "name": "White Keys",
+      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
     },
     {
       "album": {

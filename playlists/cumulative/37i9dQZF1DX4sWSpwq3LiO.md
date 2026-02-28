@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,826 songs - 3 day 9 hr 0 min
+1,827 songs - 3 day 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Ce n’est pas la mer à boire](https://open.spotify.com/track/2LdkHXvU7cvGzybVuIBlXZ) | [Vail Bizier](https://open.spotify.com/artist/33QYi4D3jB1OJig8upNeMR) | [Ce n’est pas la mer à boire](https://open.spotify.com/album/6KBRQMShV9Bw3ANK9PIQI6) | 2:31 | 2019-12-17 | 2021-04-22 |
 | [Ceci n'est pas une Valse](https://open.spotify.com/track/2vsAgLO9cV6kTOXYiPHSKN) | [Louis Mercier](https://open.spotify.com/artist/3Pew2vdzxrnyQjjs7wsOa2) | [Ceci n'est pas une Valse](https://open.spotify.com/album/5IngGOItgt0ztSb84yyP23) | 1:45 | 2021-11-11 | 2022-04-29 |
 | [Celandine](https://open.spotify.com/track/5jQYFxt77oQWFQXbok9jcq) | [Aldo Talete](https://open.spotify.com/artist/1kiwy88C2q3l8auoOUMw6W) | [Celandine](https://open.spotify.com/album/6nwjj72G7P6AjnMACNl8Qe) | 3:10 | 2025-04-04 |  |
+| [Cellar](https://open.spotify.com/track/6K4uQfVY4NGXQXx9Gq8LQa) | [Silvenna](https://open.spotify.com/artist/0EpNnTSU5DHuYwSdMMRyfw) | [Cellar](https://open.spotify.com/album/2dWyq4IXlTxi8u5w1khJ5J) | 2:43 | 2026-02-27 |  |
 | [Center of Gravity](https://open.spotify.com/track/6k1humOdWSIwNQ1W278wpk) | [Carl Bonet](https://open.spotify.com/artist/3NvG2KsrNSJqeGRryYyl8x) | [Center of Gravity](https://open.spotify.com/album/53A24jAS0pIuBHGINApD71) | 4:35 | 2020-01-08 | 2020-01-22 |
 | [Certain](https://open.spotify.com/track/0NOLY8oi9pVOHNrpMiVOC6) | [Karen Elf](https://open.spotify.com/artist/5RWEVr9QGQJrCXyVxMJD48) | [Unfolded](https://open.spotify.com/album/0bqH14Y1fJFoqkGHlp9Us0) | 2:48 | 2021-06-10 | 2022-05-05 |
 | [Cessura](https://open.spotify.com/track/7uvey8m0ZfknE25sBVWoGY) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 3:05 | 2019-08-02 | 2020-10-20 |
@@ -1541,7 +1542,7 @@
 | [The Breeze and The Wildflower](https://open.spotify.com/track/6Plm2aAPOdsimkWZiL7VVd) | [Roasting Coffee Beans](https://open.spotify.com/artist/03dlT1wdnhRBavp2hsrmoY) | [The Breeze and The Wildflower](https://open.spotify.com/album/6IINRvEFdsEwwk38Q3jQEO) | 2:45 | 2024-10-07 | 2025-08-28 |
 | [The Broad Sun](https://open.spotify.com/track/7qRXesZGmMS1K2ZgLyIMvE) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [The Broad Sun](https://open.spotify.com/album/5Rh0euybxLozKjyzzkaSf3) | 3:28 | 2019-05-26\* | 2020-03-04 |
 | [The Chapel](https://open.spotify.com/track/4Vuegf7MFlYZ5h8WK973O3) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [The Chapel](https://open.spotify.com/album/6D6v2edEjUDk5OMVcvzbGO) | 3:30 | 2021-10-20 | 2022-07-29 |
-| [The Coming Day](https://open.spotify.com/track/7J9IGMMsPyzWh2trBv6OQT) | [Jack Pelayo](https://open.spotify.com/artist/3t11hg9zFYERlfzuO211YG) | [The Coming Day](https://open.spotify.com/album/6go0e0725Fm8wBzypakTMa) | 2:32 | 2023-10-02 |  |
+| [The Coming Day](https://open.spotify.com/track/7J9IGMMsPyzWh2trBv6OQT) | [Jack Pelayo](https://open.spotify.com/artist/3t11hg9zFYERlfzuO211YG) | [The Coming Day](https://open.spotify.com/album/6go0e0725Fm8wBzypakTMa) | 2:32 | 2023-10-02 | 2026-02-28 |
 | [The Cottage](https://open.spotify.com/track/6wqnYzf6QuiJo2BMkn3cXT) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [The Cottage](https://open.spotify.com/album/7LUao7G6nkLcpB4puQQUUo) | 3:26 | 2020-05-19 | 2020-08-20 |
 | [The Crossing \(Revisited\)](https://open.spotify.com/track/2aLM9O5Gz5X758xYkgpSC6) | [Danny Mulhern](https://open.spotify.com/artist/4tc9PdoWcfLTI5ZcNIhWuU) | [The Crossing \(Revisited\)](https://open.spotify.com/album/7EvoRhA8ptjI0AoQQu4n6s) | 1:57 | 2021-05-12 | 2022-05-13 |
 | [The Diary](https://open.spotify.com/track/0uwPKxXPXVAwqbz21XhUet) | [Relajar](https://open.spotify.com/artist/6K4NQdivqL83RqY2e3wW0Z) | [The Diary](https://open.spotify.com/album/6w5Cy6eeE1z7wxooY4hCUu) | 3:05 | 2019-05-26\* | 2020-01-14 |

@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Celestine Donkor",
-  "num_followers": 16872,
+  "num_followers": 16884,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,38 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
+        "name": "Matwen 20",
+        "url": "https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6"
+      },
+      "artists": [
+        {
+          "name": "KOFI OWUSU PEPRAH",
+          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
+        }
+      ],
+      "duration_ms": 365808,
+      "name": "Matwen 20",
+      "url": "https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK"
+    },
+    {
+      "added_at": "2026-02-20 00:01:29",
+      "album": {
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
+      },
+      "artists": [
+        {
+          "name": "Team Eternity Ghana",
+          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
+        }
+      ],
+      "duration_ms": 801576,
+      "name": "Ghana Chant",
+      "url": "https://open.spotify.com/track/6SDSUyyEbsjFHEccLh0Mw4"
+    },
+    {
+      "added_at": "2026-02-20 00:01:29",
+      "album": {
         "name": "A Sound from Heaven",
         "url": "https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo"
       },
@@ -267,38 +299,6 @@
       "duration_ms": 402782,
       "name": "Yes You Are the Lord",
       "url": "https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w"
-    },
-    {
-      "added_at": "2026-02-20 00:01:29",
-      "album": {
-        "name": "Testimony",
-        "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
-      },
-      "artists": [
-        {
-          "name": "Team Eternity Ghana",
-          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
-        }
-      ],
-      "duration_ms": 801576,
-      "name": "Ghana Chant",
-      "url": "https://open.spotify.com/track/6SDSUyyEbsjFHEccLh0Mw4"
-    },
-    {
-      "added_at": "2026-02-20 00:01:29",
-      "album": {
-        "name": "Matwen 20",
-        "url": "https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6"
-      },
-      "artists": [
-        {
-          "name": "KOFI OWUSU PEPRAH",
-          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
-        }
-      ],
-      "duration_ms": 365808,
-      "name": "Matwen 20",
-      "url": "https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK"
     },
     {
       "added_at": "2026-02-20 00:01:29",
@@ -335,6 +335,22 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
+        "name": "Live in Kumasi",
+        "url": "https://open.spotify.com/album/4Cjdnmhpz6b8gbBhqRKCaz"
+      },
+      "artists": [
+        {
+          "name": "KOFI OWUSU PEPRAH",
+          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Nyame Tumfo (Live)",
+      "url": "https://open.spotify.com/track/30uN5hIhQLOjJTlXC8RKPn"
+    },
+    {
+      "added_at": "2026-02-20 00:01:29",
+      "album": {
         "name": "Thanksgiving",
         "url": "https://open.spotify.com/album/40LLVGCHtepelvSvLvhqHR"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 200161,
       "name": "Amen - Live",
       "url": "https://open.spotify.com/track/5vVMTcdrdemhDKYsUeDq3m"
-    },
-    {
-      "added_at": "2026-02-20 00:01:29",
-      "album": {
-        "name": "Live in Kumasi",
-        "url": "https://open.spotify.com/album/4Cjdnmhpz6b8gbBhqRKCaz"
-      },
-      "artists": [
-        {
-          "name": "KOFI OWUSU PEPRAH",
-          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Nyame Tumfo (Live)",
-      "url": "https://open.spotify.com/track/30uN5hIhQLOjJTlXC8RKPn"
     },
     {
       "added_at": "2026-02-20 00:01:29",
@@ -623,6 +623,22 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
+        "name": "I'm Good",
+        "url": "https://open.spotify.com/album/4byNNuclvVz6DXh149owNm"
+      },
+      "artists": [
+        {
+          "name": "Neqta",
+          "url": "https://open.spotify.com/artist/3LWdiar2WAr8sbYuiYkmSr"
+        }
+      ],
+      "duration_ms": 209004,
+      "name": "I'm Good",
+      "url": "https://open.spotify.com/track/4Xo5vzskyIV3PbqLqsZMvz"
+    },
+    {
+      "added_at": "2026-02-20 00:01:29",
+      "album": {
         "name": "VICTORY",
         "url": "https://open.spotify.com/album/0aLj0BdIYW7zKIG2Eq1hQU"
       },
@@ -659,22 +675,6 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
-        "name": "Deeper Touch",
-        "url": "https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP"
-      },
-      "artists": [
-        {
-          "name": "Denzel Prempeh",
-          "url": "https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p"
-        }
-      ],
-      "duration_ms": 781930,
-      "name": "Deeper Medley",
-      "url": "https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg"
-    },
-    {
-      "added_at": "2026-02-20 00:01:29",
-      "album": {
         "name": "Agbadza Gospel Medley II (Live)",
         "url": "https://open.spotify.com/album/0a1CiR5KeyKrb3Zwh7Fp3I"
       },
@@ -691,18 +691,18 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
-        "name": "I'm Good",
-        "url": "https://open.spotify.com/album/4byNNuclvVz6DXh149owNm"
+        "name": "Deeper Touch",
+        "url": "https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP"
       },
       "artists": [
         {
-          "name": "Neqta",
-          "url": "https://open.spotify.com/artist/3LWdiar2WAr8sbYuiYkmSr"
+          "name": "Denzel Prempeh",
+          "url": "https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p"
         }
       ],
-      "duration_ms": 209004,
-      "name": "I'm Good",
-      "url": "https://open.spotify.com/track/4Xo5vzskyIV3PbqLqsZMvz"
+      "duration_ms": 781930,
+      "name": "Deeper Medley",
+      "url": "https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg"
     },
     {
       "added_at": "2026-02-20 00:01:29",

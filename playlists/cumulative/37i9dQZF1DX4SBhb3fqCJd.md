@@ -2,9 +2,9 @@
 
 ### [RNB X](https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd)
 
-> Where R&B lives\. Cover: Ty Dolla $ign & Leon Thomas
+> Where R&B lives\. Cover: Brent Faiyaz
 
-780 songs - 1 day 19 hr 31 min
+781 songs - 1 day 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Careful \(From The Original Motion Picture "Magic Mike's Last Dance"\)](https://open.spotify.com/track/5VRVc5Cq5MbKJG5llJ8XvH) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Careful \(From The Original Motion Picture "Magic Mike's Last Dance"\)](https://open.spotify.com/album/1TzD43H8N0nGO5GRIvlDge) | 3:12 | 2023-02-10 | 2023-03-11 |
 | [Cartier](https://open.spotify.com/track/1A07u1T45HV84tT33UpVSB) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection Too](https://open.spotify.com/album/27jeucZeZB1BDcFtIbNY5b) | 3:16 | 2022-07-01 | 2022-09-17 |
 | [Caught Up](https://open.spotify.com/track/4XmQYIwiP6wveSj9bBGCyQ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Caught Up](https://open.spotify.com/album/4rG8urpRqy180HcCWO1mML) | 3:50 | 2024-05-24 | 2024-08-03 |
+| [Cha Cha Cha](https://open.spotify.com/track/6QletrrmpkUpeJkipX9pgf) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:56 | 2026-02-27 |  |
 | [Change](https://open.spotify.com/track/1cCbhd6fguIfloDXiPdxH8) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3d8fLEZMdkLiqAKJAAktsu) | 3:12 | 2023-07-07 | 2023-09-16 |
 | [Changes](https://open.spotify.com/track/3noiPAHonb3coH4jSVM09i) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Changes](https://open.spotify.com/album/1DpF83ld572jojmymv9J8P) | 2:33 | 2022-10-21 | 2023-02-25 |
 | [Charged Up](https://open.spotify.com/track/4HN6CicOpFp1nrkxHFM3Gt) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Charged Up](https://open.spotify.com/album/7tM3cKpt6DrUg1OW4B4BSf) | 2:59 | 2024-04-12 | 2024-06-01 |
@@ -719,7 +720,7 @@
 | [TYRANT](https://open.spotify.com/track/5mUlozUYpdmXVPkj4BW8cA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:10 | 2024-03-29 | 2024-06-22 |
 | [U Can’t Remember](https://open.spotify.com/track/4x5LMShKOrswA4QGjXESXK) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Cut Ties](https://open.spotify.com/album/27ST9owNrIXtJZULE1NGQ5) | 2:09 | 2024-11-01 | 2025-03-01 |
 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-08-26 | 2023-01-14 |
-| [Unhinged](https://open.spotify.com/track/5hvyS23Ya468Sp4VeL48U5) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Unhinged](https://open.spotify.com/album/3NQxrzLOQvUi82RbGIMgIA) | 3:04 | 2025-11-07 |  |
+| [Unhinged](https://open.spotify.com/track/5hvyS23Ya468Sp4VeL48U5) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Unhinged](https://open.spotify.com/album/3NQxrzLOQvUi82RbGIMgIA) | 3:04 | 2025-11-07 | 2026-02-28 |
 | [Unloyal \(with Ari Lennox\)](https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:27 | 2021-12-17 | 2023-02-18 |
 | [Unstoppable](https://open.spotify.com/track/57OHEGx7h74VFZw1jx37cg) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Unstoppable](https://open.spotify.com/album/52zyV45viU6MxjRZe3Xr1T) | 4:07 | 2023-04-07 | 2023-04-29 |
 | [Until The End Of Time \- Spotify Singles](https://open.spotify.com/track/0XdwIG7p28SeTam3DVdMX6) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Spotify Singles](https://open.spotify.com/album/6SL03KQzLNrxyO6AfIBe7y) | 4:43 | 2023-02-14 | 2023-06-10 |

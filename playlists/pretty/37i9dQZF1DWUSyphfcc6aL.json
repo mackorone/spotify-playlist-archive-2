@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 1304305,
+  "num_followers": 1304248,
   "original_name": "Workout Beats",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,26 @@
     {
       "added_at": "2026-02-15 13:00:28",
       "album": {
+        "name": "Just The Way You Are",
+        "url": "https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y"
+      },
+      "artists": [
+        {
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
+    },
+    {
+      "added_at": "2026-02-15 13:00:28",
+      "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
       },
@@ -423,26 +443,6 @@
     {
       "added_at": "2026-02-15 13:00:28",
       "album": {
-        "name": "Just The Way You Are",
-        "url": "https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y"
-      },
-      "artists": [
-        {
-          "name": "Milky",
-          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
-        },
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "Just The Way You Are",
-      "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
-    },
-    {
-      "added_at": "2026-02-15 13:00:28",
-      "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
       },
@@ -459,26 +459,6 @@
       "duration_ms": 214071,
       "name": "Heaven Takes You Home (feat. Connie Constance)",
       "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
-    },
-    {
-      "added_at": "2026-02-15 13:00:28",
-      "album": {
-        "name": "Ferrari",
-        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Miggy Dela Rosa",
-          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
-        }
-      ],
-      "duration_ms": 186661,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
     },
     {
       "added_at": "2026-02-15 13:00:28",
@@ -503,6 +483,26 @@
       "duration_ms": 160000,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
+    },
+    {
+      "added_at": "2026-02-15 13:00:28",
+      "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "duration_ms": 186661,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
     },
     {
       "added_at": "2026-02-15 13:00:28",
@@ -799,26 +799,6 @@
     {
       "added_at": "2026-02-15 13:00:28",
       "album": {
-        "name": "It's That Time (FISHER Remix)",
-        "url": "https://open.spotify.com/album/2so0gk9JxwVcQaCUIOxRh2"
-      },
-      "artists": [
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        },
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 171717,
-      "name": "It's That Time - FISHER Remix",
-      "url": "https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ"
-    },
-    {
-      "added_at": "2026-02-15 13:00:28",
-      "album": {
         "name": "SHADOWS",
         "url": "https://open.spotify.com/album/2kjMYQKKsGLAivQKy6Hbtp"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 202078,
       "name": "SHADOWS",
       "url": "https://open.spotify.com/track/7esJ56tKqU6aWABAdJJrFR"
+    },
+    {
+      "added_at": "2026-02-15 13:00:28",
+      "album": {
+        "name": "It's That Time (FISHER Remix)",
+        "url": "https://open.spotify.com/album/2so0gk9JxwVcQaCUIOxRh2"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 171717,
+      "name": "It's That Time - FISHER Remix",
+      "url": "https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ"
     },
     {
       "added_at": "2026-02-15 13:00:28",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-02-15 13:00:28",
       "album": {
-        "name": "Area Codes",
-        "url": "https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 139325,
-      "name": "Area Codes",
-      "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
-    },
-    {
-      "added_at": "2026-02-15 13:00:28",
-      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP"
       },
@@ -1203,6 +1187,38 @@
       "duration_ms": 168387,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK"
+    },
+    {
+      "added_at": "2026-02-15 13:00:28",
+      "album": {
+        "name": "Area Codes",
+        "url": "https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 139325,
+      "name": "Area Codes",
+      "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
+    },
+    {
+      "added_at": "2026-02-15 13:00:28",
+      "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9"
+      },
+      "artists": [
+        {
+          "name": "Lance Savali",
+          "url": "https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd"
+        }
+      ],
+      "duration_ms": 136406,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK"
     },
     {
       "added_at": "2026-02-15 13:00:28",
@@ -1247,22 +1263,6 @@
       "duration_ms": 171428,
       "name": "Tell Me Why - MEDUZA Remix",
       "url": "https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl"
-    },
-    {
-      "added_at": "2026-02-15 13:00:28",
-      "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9"
-      },
-      "artists": [
-        {
-          "name": "Lance Savali",
-          "url": "https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd"
-        }
-      ],
-      "duration_ms": 136406,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK"
     },
     {
       "added_at": "2026-02-15 13:00:28",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2026-02-15 13:00:28",
       "album": {
+        "name": "Saving Up",
+        "url": "https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 207514,
+      "name": "Saving Up",
+      "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
+    },
+    {
+      "added_at": "2026-02-15 13:00:28",
+      "album": {
         "name": "Down Under (feat. Colin Hay)",
         "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 158774,
       "name": "Down Under (feat. Colin Hay)",
       "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
-    },
-    {
-      "added_at": "2026-02-15 13:00:28",
-      "album": {
-        "name": "Saving Up",
-        "url": "https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        }
-      ],
-      "duration_ms": 207514,
-      "name": "Saving Up",
-      "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
     },
     {
       "added_at": "2026-02-15 13:00:28",

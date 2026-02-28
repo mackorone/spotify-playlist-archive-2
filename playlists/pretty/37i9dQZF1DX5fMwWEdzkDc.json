@@ -1,6 +1,6 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 22434,
+  "num_followers": 22458,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Reply 1988 (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/6KKR9GZN6wnhQmBCFvoTMM"
-      },
-      "artists": [
-        {
-          "name": "OHHYUK",
-          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
-        }
-      ],
-      "duration_ms": 226274,
-      "name": "A Little Girl",
-      "url": "https://open.spotify.com/track/1N9TrsZZXX8GQvOvD3PV23"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Pieces, Part One",
         "url": "https://open.spotify.com/album/1xepnoe8Uet49Nh0nv20lO"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 301720,
       "name": "\uc6b0\uc0b0 (feat. \uc724\ud558)",
       "url": "https://open.spotify.com/track/1VnjByC7TUx5A73A4qtgoo"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Reply 1988 (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/6KKR9GZN6wnhQmBCFvoTMM"
+      },
+      "artists": [
+        {
+          "name": "OHHYUK",
+          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
+        }
+      ],
+      "duration_ms": 226274,
+      "name": "A Little Girl",
+      "url": "https://open.spotify.com/track/1N9TrsZZXX8GQvOvD3PV23"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "The 3rd Album Part.1",
-        "url": "https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2"
-      },
-      "artists": [
-        {
-          "name": "K.Will",
-          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
-        }
-      ],
-      "duration_ms": 212976,
-      "name": "Please don\u2019t\u2026",
-      "url": "https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "\ub354 \ub11b\uce20 1\uc9d1",
         "url": "https://open.spotify.com/album/5H4enzwKTdOaPPNvb9W1lf"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 261630,
       "name": "\uc0ac\ub791\uc758 \ubc14\ubcf4",
       "url": "https://open.spotify.com/track/3wYDgvDi82GUU1NPy2roYp"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "The 3rd Album Part.1",
+        "url": "https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2"
+      },
+      "artists": [
+        {
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+        }
+      ],
+      "duration_ms": 212976,
+      "name": "Please don\u2019t\u2026",
+      "url": "https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Cheerful Sensibility",
-        "url": "https://open.spotify.com/album/6CLke5r6LqAyM8Vno1Xfjk"
-      },
-      "artists": [
-        {
-          "name": "FTISLAND",
-          "url": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ"
-        }
-      ],
-      "duration_ms": 241866,
-      "name": "Love Sick",
-      "url": "https://open.spotify.com/track/74KrjA5CWRr2elkzhJo6si"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Psy 3",
         "url": "https://open.spotify.com/album/7cEeYqp2ltesGDkU2niTtL"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 186932,
       "name": "\ucc54\ud53c\uc5b8",
       "url": "https://open.spotify.com/track/6h0DkyZqIuWFFdWRo7n8l2"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Cheerful Sensibility",
+        "url": "https://open.spotify.com/album/6CLke5r6LqAyM8Vno1Xfjk"
+      },
+      "artists": [
+        {
+          "name": "FTISLAND",
+          "url": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ"
+        }
+      ],
+      "duration_ms": 241866,
+      "name": "Love Sick",
+      "url": "https://open.spotify.com/track/74KrjA5CWRr2elkzhJo6si"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Traveling You",
-        "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
-      },
-      "artists": [
-        {
-          "name": "Un",
-          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
-        }
-      ],
-      "duration_ms": 251846,
-      "name": "\ud30c\ub3c4",
-      "url": "https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "\uc0b4\ub2e4\uac00",
         "url": "https://open.spotify.com/album/0BneVJK0dUlj0q9RRjADQe"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 243026,
       "name": "\uc8c4\uc640 \ubc8c (\u7f6a\uc640 \u7f70)",
       "url": "https://open.spotify.com/track/2yfD1eKDVlNRxDUE5Q1n3Y"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Traveling You",
+        "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
+      },
+      "artists": [
+        {
+          "name": "Un",
+          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
+        }
+      ],
+      "duration_ms": 251846,
+      "name": "\ud30c\ub3c4",
+      "url": "https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "The Jadu 3",
-        "url": "https://open.spotify.com/album/0jUxZh8BKRhj7IqvPVmmJ4"
-      },
-      "artists": [
-        {
-          "name": "The Jadu",
-          "url": "https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU"
-        }
-      ],
-      "duration_ms": 225866,
-      "name": "\uae40\ubc25",
-      "url": "https://open.spotify.com/track/7tSt4Jbnml5l7MMWqxfx7f"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "The 3rd Masterpiece",
         "url": "https://open.spotify.com/album/78hxnlQlbAaIsaQxG3RonV"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 298237,
       "name": "Partner for Life",
       "url": "https://open.spotify.com/track/1Ud6TKFPVyWIs0dmQhg5iL"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "The Jadu 3",
+        "url": "https://open.spotify.com/album/0jUxZh8BKRhj7IqvPVmmJ4"
+      },
+      "artists": [
+        {
+          "name": "The Jadu",
+          "url": "https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU"
+        }
+      ],
+      "duration_ms": 225866,
+      "name": "\uae40\ubc25",
+      "url": "https://open.spotify.com/track/7tSt4Jbnml5l7MMWqxfx7f"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Girls On Top",
-        "url": "https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6"
-      },
-      "artists": [
-        {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
-        }
-      ],
-      "duration_ms": 218653,
-      "name": "Girls On Top",
-      "url": "https://open.spotify.com/track/5AjjiajghftDZd5qO5YRCQ"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Para Ti",
         "url": "https://open.spotify.com/album/18lNhdkcBXHKkCG4HFnNZo"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 218279,
       "name": "\ubbf8\uc778",
       "url": "https://open.spotify.com/track/68fLjAO2M0FuG7OPXZDg9U"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Girls On Top",
+        "url": "https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "duration_ms": 218653,
+      "name": "Girls On Top",
+      "url": "https://open.spotify.com/track/5AjjiajghftDZd5qO5YRCQ"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
-      },
-      "artists": [
-        {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
-        }
-      ],
-      "duration_ms": 255844,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "BLAQ Style",
         "url": "https://open.spotify.com/album/7nEtGoI32qBOQ1VinD31VF"
       },
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "My love has faded away",
-        "url": "https://open.spotify.com/album/69dtdfRPdV7cV3taX0horB"
+        "name": "Cool Best",
+        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
       },
       "artists": [
         {
-          "name": "Monday Kiz",
-          "url": "https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD"
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
         }
       ],
-      "duration_ms": 220466,
-      "name": "My love has faded away",
-      "url": "https://open.spotify.com/track/1K7POuN7vtBx5MCAi2W6DJ"
+      "duration_ms": 255844,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1383,6 +1367,22 @@
       "duration_ms": 249352,
       "name": "\ub108\uc758 \uacc1\uc73c\ub85c",
       "url": "https://open.spotify.com/track/72cdYcriYaCOBzxTu42YfH"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "My love has faded away",
+        "url": "https://open.spotify.com/album/69dtdfRPdV7cV3taX0horB"
+      },
+      "artists": [
+        {
+          "name": "Monday Kiz",
+          "url": "https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD"
+        }
+      ],
+      "duration_ms": 220466,
+      "name": "My love has faded away",
+      "url": "https://open.spotify.com/track/1K7POuN7vtBx5MCAi2W6DJ"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "The Wind, The Sea, The Rain",
-        "url": "https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL"
-      },
-      "artists": [
-        {
-          "name": "BROWN EYED SOUL",
-          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
-        }
-      ],
-      "duration_ms": 263533,
-      "name": "Nothing Better",
-      "url": "https://open.spotify.com/track/1c3YKD6HDervPsw0nHxlhh"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Longing",
         "url": "https://open.spotify.com/album/5HOLb1Hdf9asv3tWWiUkva"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 232960,
       "name": "Missing you",
       "url": "https://open.spotify.com/track/0OnYYBxChwtrOcb9xWdhfS"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "The Wind, The Sea, The Rain",
+        "url": "https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL"
+      },
+      "artists": [
+        {
+          "name": "BROWN EYED SOUL",
+          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
+        }
+      ],
+      "duration_ms": 263533,
+      "name": "Nothing Better",
+      "url": "https://open.spotify.com/track/1c3YKD6HDervPsw0nHxlhh"
     },
     {
       "added_at": "2024-08-05 16:59:31",

@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "Wuthering Heights",
+        "url": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170211,
+      "name": "Chains of Love",
+      "url": "https://open.spotify.com/track/77qLAmRzMPetmXywybpH15"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -2073,6 +2091,24 @@
     },
     {
       "album": {
+        "name": "Homewrecker",
+        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209066,
+      "name": "Homewrecker",
+      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
+    },
+    {
+      "album": {
         "name": "hopi amor",
         "url": "https://open.spotify.com/album/36rLxateZqIxhnM5hPgHMu"
       },
@@ -2712,7 +2748,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -5908,6 +5944,24 @@
       "duration_ms": 189806,
       "name": "With You",
       "url": "https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0"
+    },
+    {
+      "album": {
+        "name": "Won\u2019t Fall",
+        "url": "https://open.spotify.com/album/4uSNgH9awhE0zRbG62IUek"
+      },
+      "artists": [
+        {
+          "name": "DI-RECT",
+          "url": "https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228900,
+      "name": "Won\u2019t Fall",
+      "url": "https://open.spotify.com/track/1f7P00oydj1vmqzPqk9AxN"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Some of the most mesmerizing voices and masterful musicians of indie. Cover: AURORA",
-  "num_followers": 626009,
+  "num_followers": 626044,
   "original_name": "Women of Indie",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-09-22 17:46:31",
       "album": {
-        "name": "Everybody Scream",
-        "url": "https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 244500,
-      "name": "Everybody Scream",
-      "url": "https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW"
-    },
-    {
-      "added_at": "2025-09-22 17:46:31",
-      "album": {
         "name": "Billie Toppy",
         "url": "https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 195289,
       "name": "Billie Toppy",
       "url": "https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT"
+    },
+    {
+      "added_at": "2025-09-22 17:46:31",
+      "album": {
+        "name": "Everybody Scream",
+        "url": "https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 244500,
+      "name": "Everybody Scream",
+      "url": "https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW"
     },
     {
       "added_at": "2025-09-22 17:46:31",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-09-22 17:46:31",
       "album": {
-        "name": "Ring of Past",
-        "url": "https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 201523,
-      "name": "Ring of Past",
-      "url": "https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1"
-    },
-    {
-      "added_at": "2025-09-22 17:46:31",
-      "album": {
         "name": "Lush",
         "url": "https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 295333,
       "name": "Pristine",
       "url": "https://open.spotify.com/track/5JX6gZ5mOASumPrU1JbfbV"
+    },
+    {
+      "added_at": "2025-09-22 17:46:31",
+      "album": {
+        "name": "Ring of Past",
+        "url": "https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 201523,
+      "name": "Ring of Past",
+      "url": "https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1"
     },
     {
       "added_at": "2025-09-22 17:46:31",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-09-22 17:46:31",
       "album": {
-        "name": "Sharon Van Etten & The Attachment Theory",
-        "url": "https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 300045,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/56nsBD9bmnuW7V5wHlyVCx"
-    },
-    {
-      "added_at": "2025-09-22 17:46:31",
-      "album": {
         "name": "MASSEDUCTION",
         "url": "https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 197426,
       "name": "Masseduction",
       "url": "https://open.spotify.com/track/4L7kaptgY6py2G3nRW9BVQ"
+    },
+    {
+      "added_at": "2025-09-22 17:46:31",
+      "album": {
+        "name": "Sharon Van Etten & The Attachment Theory",
+        "url": "https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 300045,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/56nsBD9bmnuW7V5wHlyVCx"
     },
     {
       "added_at": "2025-09-22 17:46:31",

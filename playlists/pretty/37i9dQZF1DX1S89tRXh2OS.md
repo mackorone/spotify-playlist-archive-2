@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S89tRXh2OS.md) - [plain]
 
 > La playlist idéale pour prendre la route.
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,087 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,130 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S89tRXh2OS.md) - [plain]
 | 18 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 |
 | 19 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
 | 20 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 |
-| 21 | [Cake By The Ocean](https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:39 |
-| 22 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 |
+| 21 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 |
+| 22 | [Cake By The Ocean](https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:39 |
 | 23 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 |
 | 24 | [You Get What You Give](https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Maybe You've Been Brainwashed Too](https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR) | 5:00 |
 | 25 | [Somebody That I Used To Know](https://open.spotify.com/track/1qDrWA6lyx8cLECdZE7TV7) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/4G2rJNhsKOE6iHgtUqZ0Ye) | 4:04 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S89tRXh2OS.md) - [plain]
 | 42 | [Suddenly I See](https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Eye To The Telescope](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) | 3:21 |
 | 43 | [Everybody's Changing](https://open.spotify.com/track/0yac0FPhLRH9i9lOng3f81) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd) | 3:35 |
 | 44 | [Castle on the Hill](https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:21 |
-| 45 | [Tainted Love](https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 2:33 |
-| 46 | [What About Us](https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 4:29 |
+| 45 | [What About Us](https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 4:29 |
+| 46 | [Tainted Love](https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 2:33 |
 | 47 | [Starlight](https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 4:00 |
 | 48 | [Feel](https://open.spotify.com/track/2Ms33RTRCT6gArrpcrPxmo) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Escapology](https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V) | 4:23 |
 | 49 | [She Drives Me Crazy](https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw & The Cooked](https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F) | 3:35 |

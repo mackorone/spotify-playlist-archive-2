@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 
 > Calm ambient music with gentle nature sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 990,463 likes - 180 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 991,001 likes - 180 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 | 179 | [Sapphire Tide](https://open.spotify.com/track/2jh0KjuwnfuVF5VoJDcU6p) | [Elaifas](https://open.spotify.com/artist/4y8E0sPmztHzvNUnVIQVot) | [Sapphire Tide](https://open.spotify.com/album/2Ecs1Bo7o3l2ilNlsGcgs9) | 2:23 |
 | 180 | [Nebulune](https://open.spotify.com/track/53tFNiOsqvQRRYdI852x3z) | [Mahyar](https://open.spotify.com/artist/5bYzD2YaRwu1jMrnao3Yxv) | [Nebulune](https://open.spotify.com/album/5OOLdbAPZRQtGu5fqOPxw2) | 2:21 |
 
-Snapshot ID: `AAAAAJfeFdoP9ZdhJFJiZsUrDnAjsqjf`
+Snapshot ID: `AAAAAHbZ3mdya4P7Pl+5UcDlG0bAb2dK`

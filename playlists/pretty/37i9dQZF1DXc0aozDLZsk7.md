@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0aozDLZsk7.md) - [plain]
 
 > Relax\. Abbandonati alla musica e ritrova la tua tranquillità.
 
-[Spotify](https://open.spotify.com/user/spotify) - 674,777 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 674,782 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0aozDLZsk7.md) - [plain]
 | 65 | [emily](https://open.spotify.com/track/1sTtlEZeVeeEnxEztJNkYN) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent ii](https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2) | 3:53 |
 | 66 | [Is It Just Me? \(feat\. JP Cooper\)](https://open.spotify.com/track/754zNJgoWQaGETFzSYVlmC) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Is It Just Me?](https://open.spotify.com/album/3DgJhCabZjQ3zMcw0E8zWX) | 3:23 |
 | 67 | [Grey](https://open.spotify.com/track/2J4DpqJCIuuM9WjtWHbjvd) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [The Good Times and The Bad Ones](https://open.spotify.com/album/0cVSrL39wn0PkBm9PFf6G2) | 4:37 |
-| 68 | [Somewhere Only We Know](https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU) | 3:28 |
-| 69 | [Home](https://open.spotify.com/track/2fDVMNQmFuMORDD3dP7GkN) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:53 |
+| 68 | [Home](https://open.spotify.com/track/2fDVMNQmFuMORDD3dP7GkN) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:53 |
+| 69 | [Somewhere Only We Know](https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU) | 3:28 |
 | 70 | [This City Remix \(feat\. Anne\-Marie\)](https://open.spotify.com/track/1FtIOsS879PVgtHKw3C6Vs) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [This City Remix \(feat\. Anne\-Marie\)](https://open.spotify.com/album/1CaqKGLTbEJzGTikKtoQi6) | 3:17 |
 | 71 | [Can I Be Him \- Acoustic Live Version](https://open.spotify.com/track/0iVAPfPW2NkfxCqu0a1UBl) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Can I Be Him \(Acoustic Live Version\)](https://open.spotify.com/album/2lc79WJoOQ3pJ0bDRbOdah) | 5:05 |
 | 72 | [Hurt Somebody \(With Julia Michaels\)](https://open.spotify.com/track/7vA2Y79Q4bBqdzBCfHeGEe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Hurt Somebody](https://open.spotify.com/album/1TMA2dKLdsJZ8u1iikE6Ow) | 2:48 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0aozDLZsk7.md) - [plain]
 | 74 | [If Ever \(with Jack Johnson & Ben Harper\)](https://open.spotify.com/track/5CeXAfGpk9baITQvV0feoG) | [Paula Fuga](https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [If Ever](https://open.spotify.com/album/0hWhMuCu6vFSHTJNH3BqqC) | 3:35 |
 | 75 | [You All Over Me \(feat\. Maren Morris\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/5pcjystBtalYeqaiXCcgEY) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [You All Over Me \(feat\. Maren Morris\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/album/5xd9LleY1wqsgKVTwLoXYI) | 3:40 |
 | 76 | [Use Somebody \- Acoustic Version](https://open.spotify.com/track/55KKAV2VnlggBrVS0J666s) | [Isabella Celander](https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE) | [Use Somebody \(Acoustic Version\)](https://open.spotify.com/album/29IqFm10gYl1ml1Occt8m5) | 3:06 |
-| 77 | [To Begin Again](https://open.spotify.com/track/1iJBSr7s7jYXzM8EGcbK5b) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [To Begin Again](https://open.spotify.com/album/5rrWBCnnYiFaT5EoyCeikd) | 3:30 |
+| 77 | [Magnetised \- Acoustic](https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Magnetised \(Acoustic\)](https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2) | 4:52 |
 | 78 | [Let’s Go Home Together](https://open.spotify.com/track/53fP1JzpjywHdJKx1flKCA) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Let’s Go Home Together](https://open.spotify.com/album/7DrqGKIDV8xq1LwSTlEqlv) | 3:28 |
-| 79 | [Magnetised \- Acoustic](https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Magnetised \(Acoustic\)](https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2) | 4:52 |
-| 80 | [i see red](https://open.spotify.com/track/3Gg7L1NuNNhqltvDgd6VHI) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [i see red](https://open.spotify.com/album/231uuW018MqyHPEGHHjZ8C) | 2:56 |
+| 79 | [To Begin Again](https://open.spotify.com/track/1iJBSr7s7jYXzM8EGcbK5b) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [To Begin Again](https://open.spotify.com/album/5rrWBCnnYiFaT5EoyCeikd) | 3:30 |
+| 80 | [Arcadia](https://open.spotify.com/track/5mqVdt50q0fYvyz3gd6eKe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Arcadia](https://open.spotify.com/album/2AVn0YgzBtqsa0d6R5QD95) | 4:23 |
 
 Snapshot ID: `AAAAAKTYZCpEv4xHFh7S+2uqhnmTARlt`

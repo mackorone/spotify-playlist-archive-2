@@ -1,32 +1,36 @@
 {
-  "description": "Fino y elegante, como Aria Vega y Ryan Castro. ",
-  "num_followers": 221012,
+  "description": "Fino y elegante, como J Balvin y Ryan Castro. ",
+  "num_followers": 221030,
   "original_name": "FINO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOc6M0C5qWPqaGAv+qtbIl7K6/eZ",
+  "snapshot_id": "AAAAAKRPztlqoyNAFxZn+jweiMMS0em2",
   "tracks": [
     {
-      "added_at": "2026-02-13 04:59:40",
+      "added_at": "2026-02-27 04:59:17",
       "album": {
-        "name": "CH\u00c9VERE (premium_remix)",
-        "url": "https://open.spotify.com/album/4J4UG9VKP7M6XhEuxUj94w"
+        "name": "Tonto",
+        "url": "https://open.spotify.com/album/2O4uIDxW5yiPcPiGFag99v"
       },
       "artists": [
         {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
           "name": "Ryan Castro",
           "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
         }
       ],
-      "duration_ms": 219989,
-      "name": "CH\u00c9VERE (premium_remix)",
-      "url": "https://open.spotify.com/track/3CBEVPwR3kUXDoTx1lqFUQ"
+      "duration_ms": 140816,
+      "name": "Tonto",
+      "url": "https://open.spotify.com/track/7mU1fei7P9h4mpjP2Otdw5"
     },
     {
       "added_at": "2026-02-13 04:59:40",
@@ -85,6 +89,26 @@
       "url": "https://open.spotify.com/track/4KE9Ne3hgh18B3Th4xcylg"
     },
     {
+      "added_at": "2026-02-27 04:59:17",
+      "album": {
+        "name": "PASI\u00d3N Y SEXO",
+        "url": "https://open.spotify.com/album/3rBYLiBQUm7DfNsTGoNSni"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        }
+      ],
+      "duration_ms": 213919,
+      "name": "PASI\u00d3N Y SEXO",
+      "url": "https://open.spotify.com/track/4pjkZyNZnOJEPpBmzOqTC2"
+    },
+    {
       "added_at": "2025-12-12 04:59:19",
       "album": {
         "name": "Crudo Means Raw - Spotify Sessions",
@@ -119,6 +143,22 @@
       "duration_ms": 177882,
       "name": "AMISTA",
       "url": "https://open.spotify.com/track/72veJ1UABNtqddwZKCIGMo"
+    },
+    {
+      "added_at": "2026-02-27 04:59:17",
+      "album": {
+        "name": "El Peor Hombre Del Mundo",
+        "url": "https://open.spotify.com/album/3oh3NRybUjkGKdKEcYqHe3"
+      },
+      "artists": [
+        {
+          "name": "GeezyDee",
+          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
+        }
+      ],
+      "duration_ms": 140400,
+      "name": "El Peor Hombre Del Mundo",
+      "url": "https://open.spotify.com/track/0TBFzXKWtoF7Lwh0LKFt8f"
     },
     {
       "added_at": "2025-12-12 04:59:19",
@@ -173,28 +213,24 @@
       "url": "https://open.spotify.com/track/4zqFA9MOG86u7uugR8QFDU"
     },
     {
-      "added_at": "2025-12-12 04:59:19",
+      "added_at": "2026-02-13 04:59:40",
       "album": {
-        "name": "EL ANDROIDE",
-        "url": "https://open.spotify.com/album/4hHr8IqArStD13dxMZqNM8"
+        "name": "CH\u00c9VERE (premium_remix)",
+        "url": "https://open.spotify.com/album/4J4UG9VKP7M6XhEuxUj94w"
       },
       "artists": [
         {
-          "name": "Pirlo",
-          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
         },
         {
-          "name": "Slayter",
-          "url": "https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn"
-        },
-        {
-          "name": "Big Papa313",
-          "url": "https://open.spotify.com/artist/00CSK0wSAAGoaLWR9uFuAp"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
         }
       ],
-      "duration_ms": 186390,
-      "name": "ME DICES",
-      "url": "https://open.spotify.com/track/4zBO7zkAFeJmufwJnOIN9K"
+      "duration_ms": 219989,
+      "name": "CH\u00c9VERE (premium_remix)",
+      "url": "https://open.spotify.com/track/3CBEVPwR3kUXDoTx1lqFUQ"
     },
     {
       "added_at": "2025-12-12 04:59:19",
@@ -219,6 +255,30 @@
       "duration_ms": 192111,
       "name": "LA VILLA",
       "url": "https://open.spotify.com/track/6YkGw5op7PeyP2gmMMMrfJ"
+    },
+    {
+      "added_at": "2025-12-12 04:59:19",
+      "album": {
+        "name": "EL ANDROIDE",
+        "url": "https://open.spotify.com/album/4hHr8IqArStD13dxMZqNM8"
+      },
+      "artists": [
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        },
+        {
+          "name": "Slayter",
+          "url": "https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn"
+        },
+        {
+          "name": "Big Papa313",
+          "url": "https://open.spotify.com/artist/00CSK0wSAAGoaLWR9uFuAp"
+        }
+      ],
+      "duration_ms": 186390,
+      "name": "ME DICES",
+      "url": "https://open.spotify.com/track/4zBO7zkAFeJmufwJnOIN9K"
     },
     {
       "added_at": "2025-12-12 04:59:19",

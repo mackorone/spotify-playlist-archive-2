@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Ore",
+        "url": "https://open.spotify.com/album/0SiGD27Z9eblEQQMdpBCLK"
+      },
+      "artists": [
+        {
+          "name": "ena mori",
+          "url": "https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "19 Underground",
+      "url": "https://open.spotify.com/track/3AKzOFfv7b3WSuBmjFxMdp"
+    },
+    {
+      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
       },
@@ -556,6 +574,24 @@
       "duration_ms": 244537,
       "name": "Akatoki Reload",
       "url": "https://open.spotify.com/track/62EpDxcm0oRG5uxvjtel9r"
+    },
+    {
+      "album": {
+        "name": "HANA",
+        "url": "https://open.spotify.com/album/09EpfyvBdk8EL5TQNZiZYg"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152319,
+      "name": "ALL IN",
+      "url": "https://open.spotify.com/track/6lOUOvcscCHUofusbjbYV2"
     },
     {
       "album": {
@@ -1386,7 +1422,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 188802,
       "name": "bandaids",
       "url": "https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh"
@@ -5194,7 +5230,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 231960,
       "name": "GateWay",
       "url": "https://open.spotify.com/track/0ZbrPNzu1wzzrK5Kbm0epz"
@@ -5470,6 +5506,24 @@
       "duration_ms": 162789,
       "name": "Give Me Something (for Arknights Endfield)",
       "url": "https://open.spotify.com/track/17Vqwvat9EmRmfDvmYqoi0"
+    },
+    {
+      "album": {
+        "name": "DEADLINE",
+        "url": "https://open.spotify.com/album/7DO7f71Dkm98AKDIgBaaSx"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195402,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/3ZqbplDGd2MJOUgs6yY42I"
     },
     {
       "album": {
@@ -8033,6 +8087,28 @@
     },
     {
       "album": {
+        "name": "Keychain (FROM THE FILM K-POPS!)",
+        "url": "https://open.spotify.com/album/58x92u1JINTa5K7lTzfU02"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170786,
+      "name": "Keychain - FROM THE FILM K-POPS!",
+      "url": "https://open.spotify.com/track/3Q3WZ7sJLoIZQKY7hWFyQu"
+    },
+    {
+      "album": {
         "name": "23-Spring",
         "url": "https://open.spotify.com/album/7JNO5AFNE0ISRSDUDQqRCl"
       },
@@ -8408,7 +8484,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 186573,
       "name": "Latata",
       "url": "https://open.spotify.com/track/53x4Fe0j0X5Nxo1UKsJNTX"
@@ -20028,7 +20104,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 230483,
       "name": "\u76db\u308c\uff01\u30df\u30fb\u30a2\u30e2\u30fc\u30ec",
       "url": "https://open.spotify.com/track/1ycsBZlPqRPqf0ilosVhEl"

@@ -1,6 +1,6 @@
 {
   "description": "Spotify country fan favorites. Cover: Brothers Osborne",
-  "num_followers": 2209617,
+  "num_followers": 2209552,
   "original_name": "Country Gold",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-01-14 22:49:57",
       "album": {
-        "name": "That Lonesome Song",
-        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
-      },
-      "artists": [
-        {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
-        }
-      ],
-      "duration_ms": 290680,
-      "name": "In Color",
-      "url": "https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN"
-    },
-    {
-      "added_at": "2026-01-14 22:49:57",
-      "album": {
         "name": "A Place In The Sun",
         "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 188270,
       "name": "What Ifs (feat. Lauren Alaina)",
       "url": "https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W"
+    },
+    {
+      "added_at": "2026-01-14 22:49:57",
+      "album": {
+        "name": "That Lonesome Song",
+        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
+      },
+      "artists": [
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        }
+      ],
+      "duration_ms": 290680,
+      "name": "In Color",
+      "url": "https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN"
     },
     {
       "added_at": "2026-01-14 22:49:57",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-01-14 22:49:57",
       "album": {
-        "name": "Blake Shelton",
-        "url": "https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 230333,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/2WQAknZHrJAEQOFXe0F44P"
-    },
-    {
-      "added_at": "2026-01-14 22:49:57",
-      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/2QBJCHNMYQC1cyhSXW0ygV"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 242733,
       "name": "Drive (For Daddy Gene)",
       "url": "https://open.spotify.com/track/1FV374EPG5CrjdIbIMLkcv"
+    },
+    {
+      "added_at": "2026-01-14 22:49:57",
+      "album": {
+        "name": "Blake Shelton",
+        "url": "https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 230333,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/2WQAknZHrJAEQOFXe0F44P"
     },
     {
       "added_at": "2026-01-14 22:49:57",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-01-14 22:49:57",
       "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Wine, Beer, Whiskey",
-      "url": "https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl"
-    },
-    {
-      "added_at": "2026-01-14 22:49:57",
-      "album": {
         "name": "The Mountain",
         "url": "https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 238493,
       "name": "Burning Man",
       "url": "https://open.spotify.com/track/4a1oIihVt6xSnDRpgX387M"
+    },
+    {
+      "added_at": "2026-01-14 22:49:57",
+      "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Wine, Beer, Whiskey",
+      "url": "https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl"
     },
     {
       "added_at": "2026-01-14 22:49:57",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-01-14 22:49:57",
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wade",
-          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
-        }
-      ],
-      "duration_ms": 251298,
-      "name": "Wilder Days",
-      "url": "https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc"
-    },
-    {
-      "added_at": "2026-01-14 22:49:57",
-      "album": {
         "name": "Real Friends",
         "url": "https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 165586,
       "name": "Good Vibes",
       "url": "https://open.spotify.com/track/1XVqh0dC0PIl72f2mQhsVt"
+    },
+    {
+      "added_at": "2026-01-14 22:49:57",
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        }
+      ],
+      "duration_ms": 251298,
+      "name": "Wilder Days",
+      "url": "https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc"
     },
     {
       "added_at": "2026-01-14 22:49:57",

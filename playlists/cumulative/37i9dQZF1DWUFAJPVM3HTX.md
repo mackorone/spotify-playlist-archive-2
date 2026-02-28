@@ -2,9 +2,9 @@
 
 ### [Fresh Finds R&B](https://open.spotify.com/playlist/37i9dQZF1DWUFAJPVM3HTX)
 
-> The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW?si=w\-fNzqCCSpWSvolvGB5PXQ">rjtheweirdo</a>\. Updates every Wednesday.
+> The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4?si=DUpMNfnXRwWTcuNgcfHlKg">nomi.</a>\. Updates every Wednesday.
 
-3,873 songs - 8 day 3 hr 17 min
+3,874 songs - 8 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [Bada Bing!](https://open.spotify.com/track/6btISD6JoVTabNgQgLO13H) | [Miranda Joan](https://open.spotify.com/artist/7AXlH9niNMWttTOT9WX3Xb), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [Bada Bing!](https://open.spotify.com/album/3ax3WhIQanR4YrFICiCp00) | 3:03 | 2023-09-08 | 2023-11-30 |
 | [Badder Not Sadder](https://open.spotify.com/track/1TtBDWugbqv4YrSMAUffeT) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Badder Not Sadder](https://open.spotify.com/album/1HPdHGw0vMOEVx5u4wGuEJ) | 2:18 | 2024-01-19 | 2024-04-11 |
 | [BADGIRLERA](https://open.spotify.com/track/4bYwGILBZP6nR53AeZoQuM) | [iBXRHM](https://open.spotify.com/artist/0clPo9vES13IpyWxFEu9DQ), [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [BADGIRLERA](https://open.spotify.com/album/0HLCIAvyYc6NpBDGLrJEEX) | 3:07 | 2024-10-26 | 2024-12-05 |
+| [badman](https://open.spotify.com/track/4406h74Yzu8yH3TfsKJ41L) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [badman](https://open.spotify.com/album/7HryhBfvpRhVRzcWF2SH8W) | 2:54 | 2026-02-27 |  |
 | [Bae](https://open.spotify.com/track/2O8xuEPGWoOrUIO1waSpLv) | [Demi Mulla](https://open.spotify.com/artist/3sjh5nINlAnwcXW6ugUzVH) | [Bae](https://open.spotify.com/album/0RN68lxiygw8gPtRv3CYGD) | 2:17 | 2024-11-15 | 2024-12-05 |
 | [Bag](https://open.spotify.com/track/4oxqZP2uWGdY5DQLeOQkgg) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Bag](https://open.spotify.com/album/47AI0YmHRrymGBlMkrFQzj) | 2:58 | 2022-01-26 | 2022-03-03 |
 | [Bag](https://open.spotify.com/track/7GtmVIo5AP6uIuqqASO7UG) | [Know Good](https://open.spotify.com/artist/4iogDJBJ2BO2jl8OkPrfpx), [Aaron Page](https://open.spotify.com/artist/3VDL2INkcXTUD91WQ5qqEJ) | [Bag](https://open.spotify.com/album/4AdT9qIknywairfED7XaHS) | 2:41 | 2025-03-21 | 2025-07-26 |
@@ -690,7 +691,7 @@
 | [Come Down](https://open.spotify.com/track/1LECF2AFfSlHFGKP7I6Who) | [V\. Cartier](https://open.spotify.com/artist/5Spozi8ZrO7PLm99USCdop) | [Come Down](https://open.spotify.com/album/7wZKCYMKnlr8IYmoXeoHbU) | 3:57 | 2022-10-05 | 2022-12-01 |
 | [Come Find Me](https://open.spotify.com/track/1lYTebUDk3gaK5rURVPE1m) | [James Savage](https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5) | [Come Find Me](https://open.spotify.com/album/3am1LNeOdmSOHqgm7fI9pU) | 2:13 | 2024-12-04 | 2025-07-26 |
 | [Come Get Me Out](https://open.spotify.com/track/54DpQsG4eustUJp2hKKWcS) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [don't look at the moon...](https://open.spotify.com/album/0GEc7foEpk3JCkR1kh8fK6) | 3:22 | 2023-10-25 | 2023-11-30 |
-| [Come Get My Love](https://open.spotify.com/track/2XCcvfgiM3PtKWenEpCVEH) | [Ezra](https://open.spotify.com/artist/0IpxUOafBaV2PPkm3b4E60), [ZaeFyeHunnit](https://open.spotify.com/artist/4ZLNPoLvO7VkH4wGsqFiO1) | [Come Get My Love](https://open.spotify.com/album/17dAEF9B4dPdOD3iwS5BbK) | 3:38 | 2026-01-15 |  |
+| [Come Get My Love](https://open.spotify.com/track/2XCcvfgiM3PtKWenEpCVEH) | [Ezra](https://open.spotify.com/artist/3JV7Jk651HCj2ohc0s0pKN), [ZaeFyeHunnit](https://open.spotify.com/artist/4ZLNPoLvO7VkH4wGsqFiO1) | [Come Get My Love](https://open.spotify.com/album/17dAEF9B4dPdOD3iwS5BbK) | 3:38 | 2026-01-15 |  |
 | [Come Inside](https://open.spotify.com/track/4iELda59F3EhsNI8CJh25k) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [SPECTRUM for The Good Days Boys](https://open.spotify.com/album/4ckoQ9CgEHZ8qyg5csPgIZ) | 2:42 | 2022-08-03 | 2022-09-22 |
 | [Come Over](https://open.spotify.com/track/6rAcukeqpISkdLlrZUyRNE) | [Eldana](https://open.spotify.com/artist/3a1Bjk09KcxrS4ED8HWpeS) | [Come Over](https://open.spotify.com/album/4IQenHCVosRkf8wrCzrYFz) | 2:48 | 2025-04-19 | 2025-10-26 |
 | [Come Over](https://open.spotify.com/track/1PjlJyLVv53xSRwD0KzvX9) | [Friyie](https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08), [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Come Over](https://open.spotify.com/album/7lvNlojG1C0yBwVfOc42MS) | 4:00 | 2022-02-23 | 2022-04-09 |

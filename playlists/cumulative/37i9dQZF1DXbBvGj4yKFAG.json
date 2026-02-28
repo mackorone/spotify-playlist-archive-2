@@ -841,6 +841,24 @@
     },
     {
       "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/6PHIFBsrXsKPL6Z1hA4k9X"
+      },
+      "artists": [
+        {
+          "name": "silent collision",
+          "url": "https://open.spotify.com/artist/0LLN5gLVXdG4JppMASYxNP"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193777,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/7yRZ9KTJXSnSWXh2hRPft9"
+    },
+    {
+      "album": {
         "name": "joseph's deli & lottery",
         "url": "https://open.spotify.com/album/4tbpoplEQJggCqxLF9GfsM"
       },

@@ -2669,6 +2669,24 @@
     },
     {
       "album": {
+        "name": "Felonious Funk",
+        "url": "https://open.spotify.com/album/48ArWKWs0wy1OLEdXRyDVD"
+      },
+      "artists": [
+        {
+          "name": "Oli Parker",
+          "url": "https://open.spotify.com/artist/4o7rOtAAYgrNOZrnxG8t9g"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223038,
+      "name": "Felonious Funk",
+      "url": "https://open.spotify.com/track/4U8YLPp4f8IEq5fp14nRtZ"
+    },
+    {
+      "album": {
         "name": "Fight Harder",
         "url": "https://open.spotify.com/album/6xZUmkq57p0cWMVLnxIuJC"
       },
@@ -6380,7 +6398,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 415773,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/0h4r3AE752IOrp8cdpAImC"

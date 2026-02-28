@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Milky Chance x southstar
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,525 likes - 86 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,630 likes - 86 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

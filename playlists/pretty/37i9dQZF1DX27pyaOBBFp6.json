@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot",
-  "num_followers": 25177,
+  "num_followers": 25185,
   "original_name": "60's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Die Goeie Ouwe Tijd Top 100",
-        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
-      },
-      "artists": [
-        {
-          "name": "Jasperina de Jong",
-          "url": "https://open.spotify.com/artist/3ll4qAeqLNOB6U3FSPwyJX"
-        }
-      ],
-      "duration_ms": 210013,
-      "name": "De Wandelclub",
-      "url": "https://open.spotify.com/track/2Uyu9r8dY1MIhG76fubp0H"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Warm Is De Liefde - 50 Gouden Herinneringen",
         "url": "https://open.spotify.com/album/4UiNhbNhYlkznyjr85N7im"
       },
@@ -495,6 +479,22 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
+        "name": "Die Goeie Ouwe Tijd Top 100",
+        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
+      },
+      "artists": [
+        {
+          "name": "Jasperina de Jong",
+          "url": "https://open.spotify.com/artist/3ll4qAeqLNOB6U3FSPwyJX"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "De Wandelclub",
+      "url": "https://open.spotify.com/track/2Uyu9r8dY1MIhG76fubp0H"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
         "name": "Lowland Trio",
         "url": "https://open.spotify.com/album/5cuRfpQZqI2F6cahasPgwE"
       },
@@ -507,6 +507,22 @@
       "duration_ms": 203226,
       "name": "Ik Kan Geen Kikker Van De Kant Afduwen",
       "url": "https://open.spotify.com/track/3UzgV7RakYC3cwMa1zcCeJ"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Corry",
+        "url": "https://open.spotify.com/album/7HN3yPzTLfJhGf8Ek67H4i"
+      },
+      "artists": [
+        {
+          "name": "Corry Konings",
+          "url": "https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS"
+        }
+      ],
+      "duration_ms": 173733,
+      "name": "De Wereld Is Leeg Zonder Jou",
+      "url": "https://open.spotify.com/track/3GWOmCm7y2lobaykZbkjpm"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -531,22 +547,6 @@
       "duration_ms": 129026,
       "name": "De Kat Van Ome Willem",
       "url": "https://open.spotify.com/track/4BZCJXgKSg7UudaRiWfmt7"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
-        "name": "Corry",
-        "url": "https://open.spotify.com/album/7HN3yPzTLfJhGf8Ek67H4i"
-      },
-      "artists": [
-        {
-          "name": "Corry Konings",
-          "url": "https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS"
-        }
-      ],
-      "duration_ms": 173733,
-      "name": "De Wereld Is Leeg Zonder Jou",
-      "url": "https://open.spotify.com/track/3GWOmCm7y2lobaykZbkjpm"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -800,13 +800,13 @@
       },
       "artists": [
         {
-          "name": "Wim Sonneveld",
-          "url": "https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM"
+          "name": "Imca Marina",
+          "url": "https://open.spotify.com/artist/43xjJMxn9QG0jEiBO3Hxe5"
         }
       ],
-      "duration_ms": 195440,
-      "name": "Tearoom-Tango",
-      "url": "https://open.spotify.com/track/3vJRgNNPQlhFzD4PWhIY45"
+      "duration_ms": 141720,
+      "name": "Harlekino",
+      "url": "https://open.spotify.com/track/3hWAY20gL1X8kKEeJ3khmT"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -816,13 +816,13 @@
       },
       "artists": [
         {
-          "name": "Imca Marina",
-          "url": "https://open.spotify.com/artist/43xjJMxn9QG0jEiBO3Hxe5"
+          "name": "Wim Sonneveld",
+          "url": "https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM"
         }
       ],
-      "duration_ms": 141720,
-      "name": "Harlekino",
-      "url": "https://open.spotify.com/track/3hWAY20gL1X8kKEeJ3khmT"
+      "duration_ms": 195440,
+      "name": "Tearoom-Tango",
+      "url": "https://open.spotify.com/track/3vJRgNNPQlhFzD4PWhIY45"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Het Beste Van",
-        "url": "https://open.spotify.com/album/1XeTdhNPw6BSdPQrb13TcW"
-      },
-      "artists": [
-        {
-          "name": "Bob Benny",
-          "url": "https://open.spotify.com/artist/4quJ3J41hqATpXNJFYZHUH"
-        }
-      ],
-      "duration_ms": 151200,
-      "name": "Waar En Wanneer",
-      "url": "https://open.spotify.com/track/2zNv1HqUrYRoYCKry4P5bD"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Hollands Glorie",
         "url": "https://open.spotify.com/album/3XDzNzyKKI4VnFt1HmU81F"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 146093,
       "name": "Tachtig Rode Rozen",
       "url": "https://open.spotify.com/track/7loJOA8d0eXsIsKr2xXBWX"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Het Beste Van",
+        "url": "https://open.spotify.com/album/1XeTdhNPw6BSdPQrb13TcW"
+      },
+      "artists": [
+        {
+          "name": "Bob Benny",
+          "url": "https://open.spotify.com/artist/4quJ3J41hqATpXNJFYZHUH"
+        }
+      ],
+      "duration_ms": 151200,
+      "name": "Waar En Wanneer",
+      "url": "https://open.spotify.com/track/2zNv1HqUrYRoYCKry4P5bD"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -916,9 +916,9 @@
           "url": "https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm"
         }
       ],
-      "duration_ms": 156667,
-      "name": "Iedere Avond",
-      "url": "https://open.spotify.com/track/27K4ItIdSmWm9VKiteM5m2"
+      "duration_ms": 117874,
+      "name": "Geweldig",
+      "url": "https://open.spotify.com/track/6Xjg93yoJu0h64r8SKRtld"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -996,9 +996,9 @@
           "url": "https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm"
         }
       ],
-      "duration_ms": 117874,
-      "name": "Geweldig",
-      "url": "https://open.spotify.com/track/6Xjg93yoJu0h64r8SKRtld"
+      "duration_ms": 156667,
+      "name": "Iedere Avond",
+      "url": "https://open.spotify.com/track/27K4ItIdSmWm9VKiteM5m2"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Het Beste van De Heikrekels - Instrumentaal",
-        "url": "https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG"
+        "name": "Hollands Glorie Liedjes van vroeger Top 100",
+        "url": "https://open.spotify.com/album/6WvfGdqBJHKPkBlxRQJBmX"
       },
       "artists": [
         {
-          "name": "De Heikrekels",
-          "url": "https://open.spotify.com/artist/3GOkYicm1xxsurU3bGY5JR"
+          "name": "Ted De Braak",
+          "url": "https://open.spotify.com/artist/2fi6R2NPeUn8jfbUfXk6QF"
         }
       ],
-      "duration_ms": 171551,
-      "name": "Jij Bent Voor Mij Alleen",
-      "url": "https://open.spotify.com/track/2eNAWjONbl5l4Ju1Yywvmu"
+      "duration_ms": 315853,
+      "name": "Een glaasje madeira",
+      "url": "https://open.spotify.com/track/6vFcFphdp1XPKuGMmnGLFd"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Hollands Glorie Liedjes van vroeger Top 100",
-        "url": "https://open.spotify.com/album/6WvfGdqBJHKPkBlxRQJBmX"
+        "name": "Het Beste van De Heikrekels - Instrumentaal",
+        "url": "https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG"
       },
       "artists": [
         {
-          "name": "Ted De Braak",
-          "url": "https://open.spotify.com/artist/2fi6R2NPeUn8jfbUfXk6QF"
+          "name": "De Heikrekels",
+          "url": "https://open.spotify.com/artist/3GOkYicm1xxsurU3bGY5JR"
         }
       ],
-      "duration_ms": 315853,
-      "name": "Een glaasje madeira",
-      "url": "https://open.spotify.com/track/6vFcFphdp1XPKuGMmnGLFd"
+      "duration_ms": 171551,
+      "name": "Jij Bent Voor Mij Alleen",
+      "url": "https://open.spotify.com/track/2eNAWjONbl5l4Ju1Yywvmu"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Zingt",
-        "url": "https://open.spotify.com/album/1KoK4OFIIoQffVwLee1T4R"
-      },
-      "artists": [
-        {
-          "name": "Harry Bannink",
-          "url": "https://open.spotify.com/artist/1p8ZTsL8Oyog1jwhp9X3Fd"
-        }
-      ],
-      "duration_ms": 493800,
-      "name": "Wil u een stekkie? In een rijtuigie. Op een mooie Pinksterdag. M'n opa.",
-      "url": "https://open.spotify.com/track/0iY2Ju7FiPTP505dYq3A6T"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "De Regenboog Serie: Anneke Gr\u00f6nloh",
         "url": "https://open.spotify.com/album/4roRCYfTzJwP7dzOCPddx9"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 137920,
       "name": "Da Doo Ron Ron",
       "url": "https://open.spotify.com/track/7CaFlYMP3S0nzP6rFu9NNx"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Zingt",
+        "url": "https://open.spotify.com/album/1KoK4OFIIoQffVwLee1T4R"
+      },
+      "artists": [
+        {
+          "name": "Harry Bannink",
+          "url": "https://open.spotify.com/artist/1p8ZTsL8Oyog1jwhp9X3Fd"
+        }
+      ],
+      "duration_ms": 493800,
+      "name": "Wil u een stekkie? In een rijtuigie. Op een mooie Pinksterdag. M'n opa.",
+      "url": "https://open.spotify.com/track/0iY2Ju7FiPTP505dYq3A6T"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "The Story of Indo Rock, Vol. 5",
-        "url": "https://open.spotify.com/album/7aRjoPQ3OjMqUQS10W8B1t"
-      },
-      "artists": [
-        {
-          "name": "Bob Smit & the Duke City Sextet",
-          "url": "https://open.spotify.com/artist/4yFGeDevG1iIHEryWKl7iL"
-        }
-      ],
-      "duration_ms": 182047,
-      "name": "Ik Heb Me Weer Vergist",
-      "url": "https://open.spotify.com/track/0Uyl6ZCHXgiBW1EfEPjZjt"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "De Gert Timmerman Show No. 2",
         "url": "https://open.spotify.com/album/0riKMv34shrO6OSwiSkAHC"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 121826,
       "name": "Jij Alleen",
       "url": "https://open.spotify.com/track/6Fa3DamR01xXEz7tB0rrf6"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "The Story of Indo Rock, Vol. 5",
+        "url": "https://open.spotify.com/album/7aRjoPQ3OjMqUQS10W8B1t"
+      },
+      "artists": [
+        {
+          "name": "Bob Smit & the Duke City Sextet",
+          "url": "https://open.spotify.com/artist/4yFGeDevG1iIHEryWKl7iL"
+        }
+      ],
+      "duration_ms": 182047,
+      "name": "Ik Heb Me Weer Vergist",
+      "url": "https://open.spotify.com/track/0Uyl6ZCHXgiBW1EfEPjZjt"
     },
     {
       "added_at": "2024-07-19 06:41:15",

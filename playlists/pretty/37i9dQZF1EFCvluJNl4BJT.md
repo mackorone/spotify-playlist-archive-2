@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Ak2P6rRpuVPTPAvHSuVDQ">Leon Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,180 likes - 123 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,181 likes - 123 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 60 | [I Love Me](https://open.spotify.com/track/5D4368CnI6V8iMVeE8LyQA) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [I Love Me](https://open.spotify.com/album/47cpDbkNcM4FcEKcAoYLyE) | 3:11 |
 | 61 | [Back It Up](https://open.spotify.com/track/04J9aoBIvtKSeDCvC6OEAk) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 2:34 |
 | 62 | [Here We Go \(Uh Oh\) \[Remix\] \(feat\. Leon Thomas\)](https://open.spotify.com/track/2QDNxaKybJGJaZ0ZLoZbxf) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Why Not More? \(MORE!\)](https://open.spotify.com/album/6mG2LhKSQ8H5DxmaC1vZ8M) | 3:36 |
-| 63 | [Ain't It Funny ft\. Meek Mill](https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [VORY](https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA) | 3:03 |
-| 64 | [DANCING WITH DEMONS](https://open.spotify.com/track/5d5zlLTuykcqoT4EhhyC2Q) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 4:01 |
+| 63 | [DANCING WITH DEMONS](https://open.spotify.com/track/5d5zlLTuykcqoT4EhhyC2Q) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 4:01 |
+| 64 | [Ain't It Funny ft\. Meek Mill](https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [VORY](https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA) | 3:03 |
 | 65 | [Watching Us \(with Leon Thomas\)](https://open.spotify.com/track/1MWJ3pny2L1eiZTAYTaYwJ) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 3:49 |
 | 66 | [New Flower! \(feat\. Leon Thomas\)](https://open.spotify.com/track/3q8mXT1racKde1h8zHY1ko) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [13 Months of Sunshine](https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE) | 3:28 |
 | 67 | [I USED TO \(feat\. Baby Rose\)](https://open.spotify.com/track/7Lx9TY1fYMAvOxk9GWFNkQ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:27 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 122 | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/2w6NKpDk88j5WhmAOggYNx) | [Leon Thomas](https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/4kX602tlPIQUCM8K9mtjAK) | 3:38 |
 | 123 | [All Wolves Go To Heaven](https://open.spotify.com/track/0FnKGnChseb8z8rta9nHQk) | [YoDogg](https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Raised By Wolves](https://open.spotify.com/album/61gYrHZvvs4tHesla7RTNz) | 2:33 |
 
-Snapshot ID: `AcKvFAAAAABPhUgprkc3XSSnLhg4gkMT`
+Snapshot ID: `AcK0lgAAAAAL03nBveiVCegnN1UymwoF`

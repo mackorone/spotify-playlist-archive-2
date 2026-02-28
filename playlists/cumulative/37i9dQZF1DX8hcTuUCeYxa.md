@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Bilderbuch
 
-2,535 songs - 6 day 1 hr 30 min
+2,535 songs - 6 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,6 +435,7 @@
 | [CiRCLES](https://open.spotify.com/track/5DsMjolwNjmzLP0fzf0n7P) | [Nik Dandelion](https://open.spotify.com/artist/5SrhFOt282uZjwSYWo71ds) | [¡ALiGN!](https://open.spotify.com/album/70WIDbx1x8l1W0Jkx0nwJW) | 3:01 | 2024-11-28 | 2025-01-10 |
 | [Circus](https://open.spotify.com/track/5Xinke5CL0UrKNenCaOzHg) | [Sandhouse](https://open.spotify.com/artist/52MaMxgeAkCxISb1tZuDyq) | [Circus](https://open.spotify.com/album/256A3hMEJMumkN5Z1YwhLa) | 3:39 | 2025-01-23 | 2025-02-07 |
 | [Citrus](https://open.spotify.com/track/45bXXyFCZPrRDIdhjaQUHU) | [Mia Lord](https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI) | [Citrus](https://open.spotify.com/album/35wtAN1hExKJFtW18MUpIX) | 3:07 | 2025-04-10 | 2025-05-09 |
+| [CLAMS ARE JUST SHELLS](https://open.spotify.com/track/3aufXmyK5eWknYNFFQ3fjl) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [KABEAUSHÉ PRESENTS: IGGY SWAGGERING UNGRATEFUL INCESSANT LITTLE PEEEAAAAAAAA](https://open.spotify.com/album/4mrIx6WYjqM6dl9R4poIfQ) | 3:18 | 2026-02-26 |  |
 | [Clay](https://open.spotify.com/track/5NCuTNOLyeNQ1gZjNGpOix) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn), [ttoh](https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF) | [Clay](https://open.spotify.com/album/0e36ZQ2pyvtxVqO07ptESt) | 3:05 | 2026-02-12 | 2026-02-20 |
 | [Clean Heart](https://open.spotify.com/track/1tO3ZKiyVPOnEIwYTfD7PS) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Clean Heart](https://open.spotify.com/album/4PBjg8iIHZH283BSRNIszV) | 3:52 | 2025-03-27 | 2025-04-25 |
 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 | 2024-08-29 | 2024-09-27 |
@@ -1854,6 +1855,7 @@
 | [Second Best](https://open.spotify.com/track/3maVS3WFsYND7s97LJQnzF) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Second Best](https://open.spotify.com/album/6wuwiiAyhdR1B8fuW7Entm) | 3:31 | 2025-10-02 | 2025-10-31 |
 | [Second Sleep](https://open.spotify.com/track/47N21fn8V8IN392MGlicT5) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Second Sleep / Star Eyes](https://open.spotify.com/album/3EdUtcidzDOrmwRn31dfuU) | 4:48 | 2025-09-25 | 2025-10-10 |
 | [Secrets](https://open.spotify.com/track/222ixOHVwNakNI8FjKVwdo) | [Saya Noé](https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead) | [Venus](https://open.spotify.com/album/38nbcCEcWa0l4Lj3aFCLAs) | 2:33 | 2024-07-25 | 2024-08-23 |
+| [Secrets](https://open.spotify.com/track/6tQUk9jdRt7J4gcNGWsbY7) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Daystar](https://open.spotify.com/album/0KoW4BXL68p81T9Cm93cRC) | 4:08 | 2026-02-26 |  |
 | [See You In The Afterlife](https://open.spotify.com/track/6qtGeawfnmQMUWyQ95LdIL) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Paradise State of Mind](https://open.spotify.com/album/27ynHS80OjICdw3qLNMgQP) | 3:09 | 2024-08-15 | 2024-09-13 |
 | [See You Later](https://open.spotify.com/track/5fBAeMNvjmE60fyHlNSK6T) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Roxwell](https://open.spotify.com/album/0XDaQYDGJ4FHKXY7DHhg9c) | 3:01 | 2025-02-27 | 2025-03-14 |
 | [Seeing You](https://open.spotify.com/track/7jjQcyGSb1rNGdUmoQuBuk) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Seeing You](https://open.spotify.com/album/5PMPqKGwQCGAbZhl9qdLbP) | 3:18 | 2025-10-16 | 2025-10-24 |
@@ -2287,10 +2289,6 @@
 | [Tough Love Paradigm](https://open.spotify.com/track/2QIt3LukTeJR4DomwpcKVN) | [Laura Lee & the Jettes](https://open.spotify.com/artist/4727cuqI1mSh8LKNSjG6xr) | [Tough Love Paradigm](https://open.spotify.com/album/6ueN0TyrrYaYLqDY7XXH5L) | 2:57 | 2025-02-20 | 2025-03-21 |
 | [Towards The Dawn](https://open.spotify.com/track/6xrrY73Ths1IJBuWDxE8TZ) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Towards The Dawn](https://open.spotify.com/album/5KzTRPRbLXif2K3Xx4AsaT) | 3:07 | 2024-10-03 | 2024-10-18 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 | 2025-09-27 |
-| [Track 4](https://open.spotify.com/track/3aufXmyK5eWknYNFFQ3fjl) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [KABEAUSHÉ PRESENTS: IGGY SWAGGERING UNGRATEFUL INCESSANT LITTLE PEEEAAAAAAAA](https://open.spotify.com/album/4mrIx6WYjqM6dl9R4poIfQ) | 0:00 | 2026-02-26 |  |
-| [Track 4](https://open.spotify.com/track/7b7E0DRrCjo6SRA0H1T7At) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [You Better Get Used To It](https://open.spotify.com/album/1LEjRr1j3QXvy6Ag6Pa2Ru) | 0:00 | 2026-02-26 |  |
-| [Track 4](https://open.spotify.com/track/6tQUk9jdRt7J4gcNGWsbY7) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Daystar](https://open.spotify.com/album/0KoW4BXL68p81T9Cm93cRC) | 0:00 | 2026-02-26 |  |
-| [Track 8](https://open.spotify.com/track/2tV5OHJ87RiiROZwFGRpmh) | [Lone Assembly](https://open.spotify.com/artist/7rBex2w8oAVe36lTvkMss6) | [Knots & Chains](https://open.spotify.com/album/4pU4iCDJArAmiwZittcWHA) | 0:00 | 2026-02-20 |  |
 | [Tragic](https://open.spotify.com/track/0h7M39CvtDJl9OzXxYPyf6) | [VARLEY](https://open.spotify.com/artist/72bbAAM5Iz6gsbihCr1Gvc) | [Tragic](https://open.spotify.com/album/3XYFyxePlQpWQmwfeb5oM6) | 2:43 | 2026-02-19 |  |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-10 | 2025-04-25 |
 | [Trampelpfad](https://open.spotify.com/track/7swleFJ2EV0jcaz8Y77ohC) | [ClickClickDecker](https://open.spotify.com/artist/5wNvenQ2uTeqJAxNahM2nX) | [Wir waren schon immer da](https://open.spotify.com/album/6NwYOyxPHNFtBZonR3UK6O) | 4:04 | 2025-09-25 | 2025-10-10 |
@@ -2523,8 +2521,10 @@
 | [You Made It Easy to Let Go](https://open.spotify.com/track/0ePA3ZPD4hQW9w0GIjwyQg) | [Mia Lord](https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI) | [You Made It Easy to Let Go](https://open.spotify.com/album/3xDL92kCHBGvP6NSrowybz) | 3:01 | 2026-02-12 |  |
 | [You Me](https://open.spotify.com/track/02ZFLEQmupBcdPJirln6sn) | [Robert Kretzschmar](https://open.spotify.com/artist/5troWDsJN5OAOmXV4CPtpw) | [You Me](https://open.spotify.com/album/4bKIoq0J4Z7uibQCNvJJ0k) | 3:41 | 2025-03-13 | 2025-04-11 |
 | [You Need A Friend](https://open.spotify.com/track/3bqUXng5zUHizxzwzar1BT) | [Andi Fins](https://open.spotify.com/artist/2BPie6p0D58hgEWz5Y9ACw) | [You Need A Friend](https://open.spotify.com/album/23U89gDwvWhvhL0E4JIOlK) | 3:30 | 2024-10-17 | 2024-11-01 |
+| [You See Me](https://open.spotify.com/track/7b7E0DRrCjo6SRA0H1T7At) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [You Better Get Used To It](https://open.spotify.com/album/1LEjRr1j3QXvy6Ag6Pa2Ru) | 2:59 | 2026-02-26 |  |
 | [You Won](https://open.spotify.com/track/5PXWEZsNcnhenhpICdPWRW) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [You Won](https://open.spotify.com/album/6CNDPyJnxIMKrXLC8ph3wR) | 2:45 | 2025-12-04 | 2026-01-16 |
 | [You're All I Got](https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [You're All I Got / So Long](https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz) | 3:22 | 2025-01-30 | 2025-02-28 |
+| [You're Pulling at the Same Strings](https://open.spotify.com/track/2tV5OHJ87RiiROZwFGRpmh) | [Lone Assembly](https://open.spotify.com/artist/7rBex2w8oAVe36lTvkMss6) | [Knots & Chains](https://open.spotify.com/album/4pU4iCDJArAmiwZittcWHA) | 4:36 | 2026-02-20 |  |
 | [You've Got My Number](https://open.spotify.com/track/5VJS4UH2VccJoUgc9bsIPW) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [RUDE](https://open.spotify.com/album/07aVgAaXvYBOPFY0kWX6HK) | 3:50 | 2025-10-23 | 2025-11-21 |
 | [Yougotmefeeling](https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Yougotmefeeling](https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4) | 3:03 | 2025-05-08 | 2025-06-06 |
 | [Young\-Girl \(Illusion\)](https://open.spotify.com/track/7BXMOuzZnYYTj2mS0mbS7d) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Young\-Girl \(Illusion\)](https://open.spotify.com/album/10UrSqG6MvEutC0qfrZ1fK) | 3:09 | 2024-09-26 | 2024-10-18 |

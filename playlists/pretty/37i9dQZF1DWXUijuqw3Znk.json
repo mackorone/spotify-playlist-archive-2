@@ -1,6 +1,6 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 381,
+  "num_followers": 385,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "Family Business",
+        "url": "https://open.spotify.com/album/2vYMpNE7JybdLEKOEhyLcp"
+      },
+      "artists": [
+        {
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+        }
+      ],
+      "duration_ms": 211162,
+      "name": "Louis Vuitton belt (prod. Kidstone)",
+      "url": "https://open.spotify.com/track/57gtcByN4XDSisWK4h2rkW"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "Show Me The Money 9 Semi Final",
         "url": "https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 250986,
       "name": "Hero (Feat. JUSTHIS, Golden) (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/18KL3cwcbZ5bOlfo9y94h0"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "Family Business",
-        "url": "https://open.spotify.com/album/2vYMpNE7JybdLEKOEhyLcp"
-      },
-      "artists": [
-        {
-          "name": "HOMIES",
-          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
-        }
-      ],
-      "duration_ms": 211162,
-      "name": "Louis Vuitton belt (prod. Kidstone)",
-      "url": "https://open.spotify.com/track/57gtcByN4XDSisWK4h2rkW"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -599,6 +599,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "Ghetto Superstars",
+        "url": "https://open.spotify.com/album/5DYlWsxiiKkKHzrYO7DLnb"
+      },
+      "artists": [
+        {
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+        }
+      ],
+      "duration_ms": 175102,
+      "name": "You told me that i would'nt make it(prod. Kidstone)",
+      "url": "https://open.spotify.com/track/2ZJHVum4M1qRQ05I8IiF6B"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "LALALA Remix",
         "url": "https://open.spotify.com/album/70otDt0x1EX7RVIiGWPju3"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 184146,
       "name": "LALALA Remix (Feat. Jay Park, Paul Blanco)",
       "url": "https://open.spotify.com/track/1Dd6lOJeKgJVeWSZQPtkVF"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "Ghetto Superstars",
-        "url": "https://open.spotify.com/album/5DYlWsxiiKkKHzrYO7DLnb"
-      },
-      "artists": [
-        {
-          "name": "HOMIES",
-          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
-        }
-      ],
-      "duration_ms": 175102,
-      "name": "You told me that i would'nt make it(prod. Kidstone)",
-      "url": "https://open.spotify.com/track/2ZJHVum4M1qRQ05I8IiF6B"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1543,22 +1543,18 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "GAROSAWK",
-        "url": "https://open.spotify.com/album/4WXMcC4tSLWowFlX67HMwi"
+        "name": "Dirt",
+        "url": "https://open.spotify.com/album/4oZmb7ErF2dgRvVvvqgu0P"
       },
       "artists": [
         {
-          "name": "Khundi Panda",
-          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
-        },
-        {
-          "name": "DAMYE",
-          "url": "https://open.spotify.com/artist/4ONpnuHm5fPmO8i0YsMRrR"
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
         }
       ],
-      "duration_ms": 250195,
-      "name": "Story On Sale (Feat. DAMYE)",
-      "url": "https://open.spotify.com/track/5lsd20yGxXhJOGvkog7vn1"
+      "duration_ms": 160026,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/3KDsMACCTk16TIuSkd5mp7"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1579,18 +1575,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Dirt",
-        "url": "https://open.spotify.com/album/4oZmb7ErF2dgRvVvvqgu0P"
+        "name": "GAROSAWK",
+        "url": "https://open.spotify.com/album/4WXMcC4tSLWowFlX67HMwi"
       },
       "artists": [
         {
-          "name": "Paloalto",
-          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+          "name": "Khundi Panda",
+          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
+        },
+        {
+          "name": "DAMYE",
+          "url": "https://open.spotify.com/artist/4ONpnuHm5fPmO8i0YsMRrR"
         }
       ],
-      "duration_ms": 160026,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/3KDsMACCTk16TIuSkd5mp7"
+      "duration_ms": 250195,
+      "name": "Story On Sale (Feat. DAMYE)",
+      "url": "https://open.spotify.com/track/5lsd20yGxXhJOGvkog7vn1"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1643,38 +1643,18 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "It's Your Turn (Feat. Futuristic Swaver)",
-        "url": "https://open.spotify.com/album/6PJegtUCcQPhdkP11FyXJt"
+        "name": "MANTA BIPOLAR, Pt. 2",
+        "url": "https://open.spotify.com/album/2aPI1gfxJADKL9FBfMe6xd"
       },
       "artists": [
         {
-          "name": "JAEHA",
-          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
-        },
-        {
-          "name": "Futuristic Swaver",
-          "url": "https://open.spotify.com/artist/1IoxcWz8vPDGOJBQNCGEvF"
+          "name": "VINXEN",
+          "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
         }
       ],
-      "duration_ms": 193174,
-      "name": "It's Your Turn (Feat. Futuristic Swaver)",
-      "url": "https://open.spotify.com/track/37gsND37Afaqykeo0forwU"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "END OF PUBERTY",
-        "url": "https://open.spotify.com/album/3uOT0XBkp1JZeMBydK62Fj"
-      },
-      "artists": [
-        {
-          "name": "D.Ark",
-          "url": "https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j"
-        }
-      ],
-      "duration_ms": 224613,
-      "name": "DEAR MOM",
-      "url": "https://open.spotify.com/track/3Q6xaSbm7iJwHJCtpk1si2"
+      "duration_ms": 120502,
+      "name": "GANGSHIN",
+      "url": "https://open.spotify.com/track/0PIagLSC85oKKCE5TggEX2"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1695,18 +1675,38 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "MANTA BIPOLAR, Pt. 2",
-        "url": "https://open.spotify.com/album/2aPI1gfxJADKL9FBfMe6xd"
+        "name": "END OF PUBERTY",
+        "url": "https://open.spotify.com/album/3uOT0XBkp1JZeMBydK62Fj"
       },
       "artists": [
         {
-          "name": "VINXEN",
-          "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
+          "name": "D.Ark",
+          "url": "https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j"
         }
       ],
-      "duration_ms": 120502,
-      "name": "GANGSHIN",
-      "url": "https://open.spotify.com/track/0PIagLSC85oKKCE5TggEX2"
+      "duration_ms": 224613,
+      "name": "DEAR MOM",
+      "url": "https://open.spotify.com/track/3Q6xaSbm7iJwHJCtpk1si2"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "It's Your Turn (Feat. Futuristic Swaver)",
+        "url": "https://open.spotify.com/album/6PJegtUCcQPhdkP11FyXJt"
+      },
+      "artists": [
+        {
+          "name": "JAEHA",
+          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
+        },
+        {
+          "name": "Futuristic Swaver",
+          "url": "https://open.spotify.com/artist/1IoxcWz8vPDGOJBQNCGEvF"
+        }
+      ],
+      "duration_ms": 193174,
+      "name": "It's Your Turn (Feat. Futuristic Swaver)",
+      "url": "https://open.spotify.com/track/37gsND37Afaqykeo0forwU"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "PAID IN SEOUL",
+        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
+      },
+      "artists": [
+        {
+          "name": "DON MALIK",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        }
+      ],
+      "duration_ms": 194252,
+      "name": "GNGB",
+      "url": "https://open.spotify.com/track/5QBvCdGtU5sblvqy1ZmIT6"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "IT\u2032S YOUR WAY",
         "url": "https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb"
       },
@@ -1779,22 +1795,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "PAID IN SEOUL",
-        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
-      },
-      "artists": [
-        {
-          "name": "DON MALIK",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        }
-      ],
-      "duration_ms": 194252,
-      "name": "GNGB",
-      "url": "https://open.spotify.com/track/5QBvCdGtU5sblvqy1ZmIT6"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "500000",
         "url": "https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx"
       },
@@ -1807,6 +1807,38 @@
       "duration_ms": 128250,
       "name": "500000",
       "url": "https://open.spotify.com/track/68CH3kN7G1Ve7TBUFICh0z"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "BREATHE",
+        "url": "https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW"
+      },
+      "artists": [
+        {
+          "name": "YUMDDA",
+          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
+        }
+      ],
+      "duration_ms": 188232,
+      "name": "FEELING",
+      "url": "https://open.spotify.com/track/2G0mGZLZs5R82BED7hwCEV"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "Reborn",
+        "url": "https://open.spotify.com/album/3ZSQOBLpHgNLVVWgsN7MuV"
+      },
+      "artists": [
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        }
+      ],
+      "duration_ms": 199755,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/044osg6Cw2BLj7VQGSVjEl"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1831,38 +1863,6 @@
       "duration_ms": 203549,
       "name": "WINNING MIND (Feat. Chin, LIL GIMCHI)",
       "url": "https://open.spotify.com/track/2wwmdvHAH09hRZ9w7tqNie"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "Reborn",
-        "url": "https://open.spotify.com/album/3ZSQOBLpHgNLVVWgsN7MuV"
-      },
-      "artists": [
-        {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        }
-      ],
-      "duration_ms": 199755,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/044osg6Cw2BLj7VQGSVjEl"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "BREATHE",
-        "url": "https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW"
-      },
-      "artists": [
-        {
-          "name": "YUMDDA",
-          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
-        }
-      ],
-      "duration_ms": 188232,
-      "name": "FEELING",
-      "url": "https://open.spotify.com/track/2G0mGZLZs5R82BED7hwCEV"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "A SOLITARY MAN",
-        "url": "https://open.spotify.com/album/1qFLsgIIgQ46hwoCnutc3P"
-      },
-      "artists": [
-        {
-          "name": "CRUCiAL STAR",
-          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
-        }
-      ],
-      "duration_ms": 187045,
-      "name": "A SOLITARY MAN",
-      "url": "https://open.spotify.com/track/3kCnWwL7H4HNxSOV2CwBCa"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "Yessir!",
         "url": "https://open.spotify.com/album/5pUsKPyDAiruVHE9pHYrZV"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 129600,
       "name": "Yessir!",
       "url": "https://open.spotify.com/track/7gDjX9OBv0igB7PyZXJje6"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "A SOLITARY MAN",
+        "url": "https://open.spotify.com/album/1qFLsgIIgQ46hwoCnutc3P"
+      },
+      "artists": [
+        {
+          "name": "CRUCiAL STAR",
+          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
+        }
+      ],
+      "duration_ms": 187045,
+      "name": "A SOLITARY MAN",
+      "url": "https://open.spotify.com/track/3kCnWwL7H4HNxSOV2CwBCa"
     },
     {
       "added_at": "2025-11-10 09:53:18",

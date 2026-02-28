@@ -1,6 +1,6 @@
 {
   "description": "Para cantar y recordar.",
-  "num_followers": 208843,
+  "num_followers": 208955,
   "original_name": "Cl\u00e1sicos del Vallenato",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Presente y Futuro",
-        "url": "https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 300346,
-      "name": "Nunca Niegues Que Te Amo",
-      "url": "https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
         "name": "Mas Vallenato",
         "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 267840,
       "name": "A Besitos",
       "url": "https://open.spotify.com/track/5qlIIog5kwh0hhiSO5yGv0"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
+        "name": "Presente y Futuro",
+        "url": "https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 300346,
+      "name": "Nunca Niegues Que Te Amo",
+      "url": "https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -735,6 +735,26 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
+        "name": "Marca Registrada del Binomio de Oro",
+        "url": "https://open.spotify.com/album/00vITF8SZst4YVAbF8nqOq"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        },
+        {
+          "name": "Dub\u00e1n Bayona",
+          "url": "https://open.spotify.com/artist/6jGkJmr4vmIFRPIRy7zsF1"
+        }
+      ],
+      "duration_ms": 270293,
+      "name": "Me Sobran las Palabras",
+      "url": "https://open.spotify.com/track/3jPpZ5ikg40XJ8g6rjjUvJ"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
         "name": "Sue\u00f1os de Colombia",
         "url": "https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn"
       },
@@ -747,6 +767,22 @@
       "duration_ms": 317760,
       "name": "Entregame Tu Amor",
       "url": "https://open.spotify.com/track/0fZbwXikuLa4ZFPIHbN3ot"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
+        "name": "Los 3 Amigos",
+        "url": "https://open.spotify.com/album/192GUv5p5fMEjf7ODUdpof"
+      },
+      "artists": [
+        {
+          "name": "Nelson Velasquez",
+          "url": "https://open.spotify.com/artist/0B9fAbZMZTBXUyffDU2Mxj"
+        }
+      ],
+      "duration_ms": 296693,
+      "name": "Ajena - En Vivo Version",
+      "url": "https://open.spotify.com/track/54wv2En7qrGKMwvbgMvuxi"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -767,18 +803,18 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Los 3 Amigos",
-        "url": "https://open.spotify.com/album/192GUv5p5fMEjf7ODUdpof"
+        "name": "Dif\u00edcil De Igualar",
+        "url": "https://open.spotify.com/album/2YCWN8hMvb8QYUEHkmGqDb"
       },
       "artists": [
         {
-          "name": "Nelson Velasquez",
-          "url": "https://open.spotify.com/artist/0B9fAbZMZTBXUyffDU2Mxj"
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 296693,
-      "name": "Ajena - En Vivo Version",
-      "url": "https://open.spotify.com/track/54wv2En7qrGKMwvbgMvuxi"
+      "duration_ms": 300786,
+      "name": "Me Ilusione",
+      "url": "https://open.spotify.com/track/1EiRuVyMKA7uSSeuWgCJiu"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -803,22 +839,6 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Dif\u00edcil De Igualar",
-        "url": "https://open.spotify.com/album/2YCWN8hMvb8QYUEHkmGqDb"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 300786,
-      "name": "Me Ilusione",
-      "url": "https://open.spotify.com/track/1EiRuVyMKA7uSSeuWgCJiu"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
       },
@@ -831,22 +851,6 @@
       "duration_ms": 292224,
       "name": "Volver",
       "url": "https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
-        "name": "Versi\u00f3n Original",
-        "url": "https://open.spotify.com/album/79bVLSKqyyQWGjQLI55HRw"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 266573,
-      "name": "Me Tiraste Al Mar",
-      "url": "https://open.spotify.com/track/6dqxQhRZG8bsBfJBQft24Y"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -871,22 +875,18 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
-        "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
       },
       "artists": [
         {
-          "name": "Otto Serge",
-          "url": "https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF"
-        },
-        {
-          "name": "Rafael Ricardo",
-          "url": "https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe"
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 238892,
-      "name": "Se\u00f1ora",
-      "url": "https://open.spotify.com/track/5tY5SZELFkC8VTlHAp9HPx"
+      "duration_ms": 283853,
+      "name": "No Voy A Llorar",
+      "url": "https://open.spotify.com/track/3w3qhkJcjCPmJuNQH6Nrt0"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -907,18 +907,22 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
+        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
+        "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
       },
       "artists": [
         {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+          "name": "Otto Serge",
+          "url": "https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF"
+        },
+        {
+          "name": "Rafael Ricardo",
+          "url": "https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe"
         }
       ],
-      "duration_ms": 292800,
-      "name": "Perd\u00f3name la Vida",
-      "url": "https://open.spotify.com/track/1MdKgwGs2hW1cJUzsIxWVV"
+      "duration_ms": 238892,
+      "name": "Se\u00f1ora",
+      "url": "https://open.spotify.com/track/5tY5SZELFkC8VTlHAp9HPx"
     }
   ],
   "unique_name": "Cl\u00e1sicos del Vallenato",

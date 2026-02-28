@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Cover: Judith Owen
 
-926 songs - 2 day 18 hr 10 min
+926 songs - 2 day 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -505,6 +505,7 @@
 | [Madrid](https://open.spotify.com/track/7sn2vY1Uh0jLQNiFuMETSo) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Madrid](https://open.spotify.com/album/7nPajU253ClFSt0PVMbBs1) | 2:12 | 2023-07-13 | 2023-10-06 |
 | [Magic \(feat\. Emily King\)](https://open.spotify.com/track/3VSYrw22mDac2h1bqr8pmg) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Djesse Vol\. 4 \(Deluxe\)](https://open.spotify.com/album/0ieeyOsOoSmd2b906MrlRO) | 3:59 | 2024-10-10 | 2025-01-24 |
 | [MAGIC DANCE](https://open.spotify.com/track/5JbX3yCeWW9xcdExxG2lCG) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy), [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig), [Michael League](https://open.spotify.com/artist/0YzrofLyUlORKLkH8AAMm9) | [MAGIC DANCE](https://open.spotify.com/album/0Jj6mJVhOOKTLFVEeCyjqZ) | 3:36 | 2025-07-10 | 2025-08-30 |
+| [Make a New World](https://open.spotify.com/track/2SzqtnBIJZyKEZzwj6GoEX) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Side\-Eye III+](https://open.spotify.com/album/4KsyZ4rh9jSNqtCy2aBAmm) | 10:04 | 2026-02-26 |  |
 | [Mal de vivre](https://open.spotify.com/track/1VcejonVyFNjgASurwl28D) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [ENCORE!](https://open.spotify.com/album/6GL1EHQVbtqKubEfWdDZt3) | 6:06 | 2024-06-13 | 2024-07-12 |
 | [Maledetta Quella Notte](https://open.spotify.com/track/2Wz8vQMgkpnUallH0caj1r) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA) | [Maledetta Quella Notte](https://open.spotify.com/album/53rZDVzeELEDGg9XSfoYym) | 3:50 | 2023-10-19 | 2024-02-02 |
 | [Man At Heart](https://open.spotify.com/track/36obvzkBpCzXGP0cohkZlZ) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Man At Heart](https://open.spotify.com/album/7I95wqu9JjuOepQI5zqlQ0) | 2:14 | 2023-01-05 | 2023-03-31 |
@@ -661,6 +662,7 @@
 | [Romance](https://open.spotify.com/track/4vUrXy8MnrNxyHAAoXoWa4) | [Emmanuel Bex](https://open.spotify.com/artist/1NVyfQbY0oM9xBVCaIYkwh), [David Taieb](https://open.spotify.com/artist/4XGYpvtl5JZouPyqGqbvmO) | [Romance](https://open.spotify.com/album/5UtxXYIkCwJhnm4ccP77ie) | 5:37 | 2025-02-20 | 2025-06-06 |
 | [Rondo Arménien](https://open.spotify.com/track/32kaDw2jHXYRv6kzdO04fP) | [André Manoukian](https://open.spotify.com/artist/5BfTfnzUSptoVhFigXMc1v) | [Rondo Arménien](https://open.spotify.com/album/0OC1TmbTXnMP46k0SmZ7TT) | 3:00 | 2022-09-29 | 2023-01-20 |
 | [Roni's Swing](https://open.spotify.com/track/7o1D6of9CprXWZEYJlyneL) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Roni Kaspi](https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9), [Guy Moskovich](https://open.spotify.com/artist/3ayMZIWae6YcKu9kdj0pVK) | [Roni's Swing](https://open.spotify.com/album/76bbZNv3akzKWbMxGbVcXO) | 4:40 | 2024-07-04 | 2024-09-27 |
+| [Roses](https://open.spotify.com/track/3YFZBxVvgU7hMpxgEHXfdU) | [loopgarden](https://open.spotify.com/artist/4M9C2IXUroEUTQRiMKWM46), [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [LOOPS](https://open.spotify.com/album/04ADP4KpzsWSBLNDN7uKzj) | 2:54 | 2026-02-26 |  |
 | [Route de nuit](https://open.spotify.com/track/3aJ4NTA6ZN58RxzlT8MFHu) | [Erik Truffaz](https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3) | [Route de nuit](https://open.spotify.com/album/056ScEAKzcIJ3BeDXxdevJ) | 3:38 | 2023-03-02 | 2023-05-12 |
 | [Rumbo a Tí](https://open.spotify.com/track/1AgV1nlfJqH8nrMetnqqpL) | [Roberto Fonseca](https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu), [Vincent Segal](https://open.spotify.com/artist/1DM0tMCA5GRAgG3qLCy67F) | [Rumbo a Tí](https://open.spotify.com/album/4PPbMS6V66VO6D9erHPY38) | 2:38 | 2026-01-08 |  |
 | [Run To It \(The CP Song\)](https://open.spotify.com/track/6Lb7lH15OsyGlwmmjaAVz8) | [Julius Rodriguez](https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF) | [Evergreen](https://open.spotify.com/album/5M8eXGXY9ds3L7qSAMY5me) | 5:13 | 2024-06-13 | 2024-09-27 |
@@ -835,8 +837,6 @@
 | [Tomorrow](https://open.spotify.com/track/2OmKfDdY4wSdvTB9YuCJ4t) | [JaRon Marshall](https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8), [Claudia Isaki](https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP) | [The Return of Slick](https://open.spotify.com/album/1t2kpu4LHR0O5PsQLxSQnp) | 3:19 | 2025-10-16 | 2026-02-06 |
 | [Top Hat, White Tie and Tails \- Live](https://open.spotify.com/track/6Z3xTihvELYImFc27FPdIi) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella At The Hollywood Bowl: The Irving Berlin Songbook \(Live\)](https://open.spotify.com/album/7aebz42KPbU8Otic1ze11x) | 2:46 | 2022-06-23 | 2022-08-26 |
 | [Top of My Head \(Live\)](https://open.spotify.com/track/3MNiy7awkWDXeJ8C4CiUdY) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Roy Hargrove: Live at KNKX](https://open.spotify.com/album/5YP0b8AebeLSJJyMJFwnVC) | 6:37 | 2026-02-05 |  |
-| [Track 3](https://open.spotify.com/track/3YFZBxVvgU7hMpxgEHXfdU) | [loopgarden](https://open.spotify.com/artist/4M9C2IXUroEUTQRiMKWM46) | [LOOPS](https://open.spotify.com/album/04ADP4KpzsWSBLNDN7uKzj) | 0:00 | 2026-02-26 |  |
-| [Track 3](https://open.spotify.com/track/2SzqtnBIJZyKEZzwj6GoEX) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Side\-Eye III+](https://open.spotify.com/album/4KsyZ4rh9jSNqtCy2aBAmm) | 0:00 | 2026-02-26 |  |
 | [Transe](https://open.spotify.com/track/6o9JFWqgg1RiVoUqv5d0yk) | [Monsieur MÂLÂ](https://open.spotify.com/artist/5N5NNRHYscHxAzcCPCtj7t) | [Transe](https://open.spotify.com/album/4H6duHfqSqD9pLd2egTzvL) | 6:23 | 2023-07-20 | 2023-10-13 |
 | [Transformation](https://open.spotify.com/track/6G6XGVNCOV2tfwv3r2QlhY) | [Pamina Beroff](https://open.spotify.com/artist/5o2LIkj5gUj33wuzmyiE7M), [Eric Legnini](https://open.spotify.com/artist/4iwk7yhBhcSyfbK4a4cnUi) | [Unfolding](https://open.spotify.com/album/3OGyLTv3Ijupp1zRw88e7f) | 3:58 | 2022-12-22 | 2023-03-03 |
 | [Trop beau pour être vrai](https://open.spotify.com/track/3GZQSblqvzUGvA7LmBXXSm) | [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS) | [Biréli Lagrène plays Loulou Gasté](https://open.spotify.com/album/0TnO3HNJuygK4cOPp8mefA) | 2:32 | 2023-11-02 | 2023-11-24 |

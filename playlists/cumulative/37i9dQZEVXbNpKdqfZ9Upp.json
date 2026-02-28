@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 288671,
       "name": "4x4",
       "url": "https://open.spotify.com/track/1nkrOMcNi5TAwYWDQAOaB3"
@@ -7526,6 +7526,24 @@
       "duration_ms": 198715,
       "name": "BBY ROMEO",
       "url": "https://open.spotify.com/track/1QwfEonEHRjLItRU7kISSe"
+    },
+    {
+      "album": {
+        "name": "The Chris Rainbow Anthology",
+        "url": "https://open.spotify.com/album/3uJ0vJKjo6059nVpcQGpLC"
+      },
+      "artists": [
+        {
+          "name": "Chris Rainbow",
+          "url": "https://open.spotify.com/artist/0CnHF3fzueVi59nz8fdwcl"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240773,
+      "name": "Be Like a Woman",
+      "url": "https://open.spotify.com/track/41IZazdHzQOB9ZlvReDzgR"
     },
     {
       "album": {
@@ -14108,7 +14126,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 224360,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/6ra0162M1vgBI3Ams3r2SK"
@@ -34948,7 +34966,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 204960,
       "name": "La Victoria es Tuya",
       "url": "https://open.spotify.com/track/2M8vy458RHLN1V5kdt6FQD"
@@ -36658,7 +36676,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 444461,
       "name": "Lo Que Necesito - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4VINif5cOM9x4DPYdGj9TH"
@@ -40238,6 +40256,24 @@
       "duration_ms": 180929,
       "name": "Me Fui de Vacaciones",
       "url": "https://open.spotify.com/track/28GCbKgjlVD9eDmasGbe0T"
+    },
+    {
+      "album": {
+        "name": "Me Fui Sin Hacer Ruido",
+        "url": "https://open.spotify.com/album/7fL4M8w64rSYepi4BCcg0w"
+      },
+      "artists": [
+        {
+          "name": "LINZAE LIR",
+          "url": "https://open.spotify.com/artist/7LGY1ZGeotpXgRRg5Wm9nf"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223596,
+      "name": "Me Fui Sin Hacer Ruido",
+      "url": "https://open.spotify.com/track/01dO9FVNNPIh2E3zIErN6k"
     },
     {
       "album": {
@@ -62958,7 +62994,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
@@ -65536,7 +65572,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 207519,
       "name": "Ten Misericordia De M\u00ed",
       "url": "https://open.spotify.com/track/31a2370XtGBwXicbF7RxiI"
@@ -69196,10 +69232,6 @@
         {
           "name": "mikeeysmind",
           "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
-        },
-        {
-          "name": "Belico",
-          "url": "https://open.spotify.com/artist/6f04rVzdeSu2uJv6ZB323r"
         }
       ],
       "date_added": "2026-02-23",

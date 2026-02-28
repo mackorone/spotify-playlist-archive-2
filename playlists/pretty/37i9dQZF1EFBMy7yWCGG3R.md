@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,591 likes - 274 songs - 14 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,596 likes - 274 songs - 14 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 29 | [Lie To Me \(feat\. Julia Michaels\)](https://open.spotify.com/track/6GzApXoBQiiAjak3tOQfV3) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Lie To Me \(feat\. Julia Michaels\)](https://open.spotify.com/album/2rSrRHcfwJXxni8HczqKAT) | 2:29 |
 | 30 | [Peer Pressure](https://open.spotify.com/track/4RE3vueod5PL48rvHtuu9C) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Oh My Messy Mind](https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d) | 2:56 |
 | 31 | [The Feeling](https://open.spotify.com/track/7E390nZTMqEbrNC1TmHd42) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 4:04 |
-| 32 | [Coincidence](https://open.spotify.com/track/5oIVNm56t6OIf9ZjdEG3ud) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:44 |
-| 33 | [TIT FOR TAT](https://open.spotify.com/track/1dByUyyoRKL99fJJ6VCQzb) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [SO CLOSE TO WHAT??? \(deluxe\)](https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ) | 2:57 |
+| 32 | [TIT FOR TAT](https://open.spotify.com/track/1dByUyyoRKL99fJJ6VCQzb) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [SO CLOSE TO WHAT??? \(deluxe\)](https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ) | 2:57 |
+| 33 | [Coincidence](https://open.spotify.com/track/5oIVNm56t6OIf9ZjdEG3ud) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:44 |
 | 34 | [MORE & MORE](https://open.spotify.com/track/2bAAj29XGc4h1G4oEGYCmg) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh) | 3:19 |
 | 35 | [logical](https://open.spotify.com/track/53dtP2iUMvaF28JZcHnFuU) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:51 |
 | 36 | [Nervous](https://open.spotify.com/track/5wxurz8J6YlyQRNnGN8zXS) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 2:44 |
@@ -242,8 +242,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 232 | [yes no maybe](https://open.spotify.com/track/3PFSJheLU0OIQkQrxKDeUB) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/3e9xFKdGt0oS5O4fMubFT5) | 3:27 |
 | 233 | [That's When I'll Care](https://open.spotify.com/track/5xccy9zo3LoXPznM8qHzAb) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First..\. And You Said It Back](https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5) | 3:04 |
 | 234 | [Love Goes On](https://open.spotify.com/track/7ggFrwti59f2wm5aYMxo6O) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Across The Sheets](https://open.spotify.com/album/7nWjFzbfY7W4FxTAzKfhMu) | 3:20 |
-| 235 | [If The World Was Ending](https://open.spotify.com/track/6jpwgdkUYnssqXuJUvm29Q) | [Denis Kalytovskyi](https://open.spotify.com/artist/2TdyIW2Ol7vpofth27iAZi) | [Bedroom Covers Vol\. 1](https://open.spotify.com/album/79pD8WzTXqHdVN5rN1zeKJ) | 3:51 |
-| 236 | [This Is What We Dance For](https://open.spotify.com/track/1EDcmMFvd185Foe3b64fOD) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY! THE ENCORE](https://open.spotify.com/album/4MR10rSYnclQoPXq6O9sw0) | 3:04 |
+| 235 | [This Is What We Dance For](https://open.spotify.com/track/1EDcmMFvd185Foe3b64fOD) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY! THE ENCORE](https://open.spotify.com/album/4MR10rSYnclQoPXq6O9sw0) | 3:04 |
+| 236 | [If The World Was Ending](https://open.spotify.com/track/6jpwgdkUYnssqXuJUvm29Q) | [Denis Kalytovskyi](https://open.spotify.com/artist/2TdyIW2Ol7vpofth27iAZi) | [Bedroom Covers Vol\. 1](https://open.spotify.com/album/79pD8WzTXqHdVN5rN1zeKJ) | 3:51 |
 | 237 | [spelling bee](https://open.spotify.com/track/33OStqVx8yvu6egc2WBt6F) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [he's still just not that into you!](https://open.spotify.com/album/1AFQW8SO3gppdkZC8XPxP8) | 3:04 |
 | 238 | [Getting Warmer](https://open.spotify.com/track/0lvCgY0ZDo6krZgqIxYLHb) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like \(Deluxe\)](https://open.spotify.com/album/4axtAJxO6n73s5ZGBxWAio) | 3:24 |
 | 239 | [angel boy](https://open.spotify.com/track/1XC05OqaALo09LCiW5ICbw) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/3e9xFKdGt0oS5O4fMubFT5) | 3:00 |
@@ -252,8 +252,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 242 | [Just For You](https://open.spotify.com/track/275DvW2FJITkWUdTHeuAup) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 3:06 |
 | 243 | [Like That \(feat\. Kany García\) \[Spanglish Version\]](https://open.spotify.com/track/3Z3Ed4IDwDT6R5WQmJhKvo) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Like That \(feat\. Kany García\) \[Spanglish Version\]](https://open.spotify.com/album/5BPlOAPz44uVZl1fnEA8S9) | 2:53 |
 | 244 | [Waterslide](https://open.spotify.com/track/4SeShDomhZSFIfvGdHBXHq) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:05 |
-| 245 | [Bad For You](https://open.spotify.com/track/1TrISIcOILgHb48a4VOb89) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [The Running Wild EP](https://open.spotify.com/album/4TK7X7cCvg1OQmP3XNjdlZ) | 3:16 |
-| 246 | [Raft In The Sea](https://open.spotify.com/track/4gMwwEa1krfx8Y2Y2IxrDR) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Cerulean](https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ) | 3:35 |
+| 245 | [Raft In The Sea](https://open.spotify.com/track/4gMwwEa1krfx8Y2Y2IxrDR) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Cerulean](https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ) | 3:35 |
+| 246 | [Bad For You](https://open.spotify.com/track/1TrISIcOILgHb48a4VOb89) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [The Running Wild EP](https://open.spotify.com/album/4TK7X7cCvg1OQmP3XNjdlZ) | 3:16 |
 | 247 | [Rocket Ship](https://open.spotify.com/track/7Kk83KSdI044UbqrtYmQII) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like \(Deluxe\)](https://open.spotify.com/album/4axtAJxO6n73s5ZGBxWAio) | 3:08 |
 | 248 | [Stay On Me](https://open.spotify.com/track/2PtLFjdYbFdbXn4qYX5Y0L) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Perimenopop](https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn) | 3:07 |
 | 249 | [Hands](https://open.spotify.com/track/2vDV1IiMZeFHMnVpxarTYy) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Waves](https://open.spotify.com/album/1mH4ntQRUk1akxx6WNST8q) | 3:54 |
@@ -283,4 +283,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 273 | [Deep](https://open.spotify.com/track/01D0aVd8vRbRPIltg6Tbhw) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Julia Michaels](https://open.spotify.com/album/7nlsv3q4UQtP5Nj05k905a) | 4:57 |
 | 274 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 
-Snapshot ID: `AcKvFAAAAAD0V0Bvq5IEWP+fW8ckfjYv`
+Snapshot ID: `AcK0lgAAAAA9w4mAshJ7VhYKM9H2BGud`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: Katrine Sansregret",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: Bye Parula",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -522,7 +522,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 160542,
       "name": "Boston",
       "url": "https://open.spotify.com/track/6RDOSs73FPXkimyhJrrR8j"
@@ -744,7 +744,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 265866,
       "name": "Cap-Pel\u00e9",
       "url": "https://open.spotify.com/track/0Sc9eYJ2OpwTMrXPPQxdnS"
@@ -2889,6 +2889,24 @@
     },
     {
       "album": {
+        "name": "Johanne et Johanne",
+        "url": "https://open.spotify.com/album/0YxbvVoUT99Sutsl0nP3aC"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Constantin",
+          "url": "https://open.spotify.com/artist/16rv4gKc1NU7DDlS9jYjKQ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237761,
+      "name": "Johanne et Johanne",
+      "url": "https://open.spotify.com/track/2HtjiQwfiThxqD3qarDrEr"
+    },
+    {
+      "album": {
         "name": "Johny",
         "url": "https://open.spotify.com/album/6IBrbgGI7eV16AhTTqHW0n"
       },
@@ -2980,6 +2998,24 @@
       "duration_ms": 296503,
       "name": "Kekpart",
       "url": "https://open.spotify.com/track/3U3tTkZYuqAO6yDSAzKcEu"
+    },
+    {
+      "album": {
+        "name": "KISSBURN",
+        "url": "https://open.spotify.com/album/5Q7FMsEUK0Cc35gxZqZDaT"
+      },
+      "artists": [
+        {
+          "name": "Bye Parula",
+          "url": "https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192904,
+      "name": "KISSBURN",
+      "url": "https://open.spotify.com/track/06PLaIZyj917CnrwaJ3USU"
     },
     {
       "album": {
@@ -3077,6 +3113,24 @@
     },
     {
       "album": {
+        "name": "L'Eldorado",
+        "url": "https://open.spotify.com/album/2szvSfOSMzU8Wc1NnB9usY"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9yla Caminel",
+          "url": "https://open.spotify.com/artist/13YIcrzTPUY7F5NtQ1ijFy"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253897,
+      "name": "L'Eldorado",
+      "url": "https://open.spotify.com/track/4JNSwi0Ianf7GehfFSQACX"
+    },
+    {
+      "album": {
         "name": "Point",
         "url": "https://open.spotify.com/album/54amvrCm1neA2wWwLRX7Wo"
       },
@@ -3160,7 +3214,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 167853,
       "name": "La Cin\u00e9math\u00e8que",
       "url": "https://open.spotify.com/track/3Ky9HUXqpojLUYST2EIHfh"
@@ -4026,7 +4080,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 288520,
       "name": "Les saisons, les secondes",
       "url": "https://open.spotify.com/track/0xdk6O2rVwvkeQh9l4sBZv"
@@ -4192,7 +4246,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 217707,
       "name": "Ma maison",
       "url": "https://open.spotify.com/track/2OuvHFcMCxr4Y3allMuic3"
@@ -4749,6 +4803,24 @@
     },
     {
       "album": {
+        "name": "Ne me quitte pas des yeux",
+        "url": "https://open.spotify.com/album/7o3NPNaON3hnqFzWZbCY9P"
+      },
+      "artists": [
+        {
+          "name": "Les Louanges",
+          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307389,
+      "name": "Ne me quitte pas des yeux",
+      "url": "https://open.spotify.com/track/3o8R0EWZOAm7zWkMLG6BNc"
+    },
+    {
+      "album": {
         "name": "Ne partez pas sans moi",
         "url": "https://open.spotify.com/album/17go52ItR838U5I3fywNDA"
       },
@@ -5146,7 +5218,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 184415,
       "name": "Passer tout droit",
       "url": "https://open.spotify.com/track/1CWRRkzuWLfBOFC3rLq8oM"
@@ -5248,6 +5320,24 @@
       "duration_ms": 179000,
       "name": "Pomme",
       "url": "https://open.spotify.com/track/26s7UGEzE0vfIK7BxvWb8q"
+    },
+    {
+      "album": {
+        "name": "porcelaine",
+        "url": "https://open.spotify.com/album/3rKbLbdC2CVE1U0bCGQpcU"
+      },
+      "artists": [
+        {
+          "name": "mirani coelho",
+          "url": "https://open.spotify.com/artist/25W2wGoMZL13LGDKG0AwFE"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271320,
+      "name": "porcelaine",
+      "url": "https://open.spotify.com/track/18ymUE8BDQDnJIzebhk2PZ"
     },
     {
       "album": {
@@ -5988,6 +6078,24 @@
       "duration_ms": 260786,
       "name": "Si tu demandais",
       "url": "https://open.spotify.com/track/5LFJRjiD32OZbLnaMSWWpj"
+    },
+    {
+      "album": {
+        "name": "Si y'a pu rien",
+        "url": "https://open.spotify.com/album/1KAf93MNoSVAPRehHF1uhT"
+      },
+      "artists": [
+        {
+          "name": "Les Lunatiques",
+          "url": "https://open.spotify.com/artist/5i6jPkyXixJNovFvLyIRa1"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230968,
+      "name": "Si y'a pu rien",
+      "url": "https://open.spotify.com/track/2ca8GZaHaFjjR6019Qw3Id"
     },
     {
       "album": {

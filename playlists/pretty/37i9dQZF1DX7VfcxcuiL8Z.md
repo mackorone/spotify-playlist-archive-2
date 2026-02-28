@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: Pacific Avenue
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,202 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,199 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Drag Path](https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drag Path](https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo) | 3:44 |
 | 2 | [Am I There](https://open.spotify.com/track/1xasTmLCY1OUPOvTHuXj4S) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Goodbye \(If You Call That Gone\)](https://open.spotify.com/album/1svJQc2WYWqzXp75ZaxFH4) | 3:05 |
-| 3 | [Tell Me It Ain't Over](https://open.spotify.com/track/50m3JU4UKyu1pr4y7jWjfg) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Lovesick Sentimental](https://open.spotify.com/album/3Z63UdA9vBK8yhmhwqkEY2) | 4:48 |
+| 3 | [Tell Me It Ain't Over](https://open.spotify.com/track/50m3JU4UKyu1pr4y7jWjfg) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Lovesick Sentimental](https://open.spotify.com/album/3Z63UdA9vBK8yhmhwqkEY2) | 4:49 |
 | 4 | [Song Of The Future](https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Days Of Ash EP](https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT) | 3:55 |
 | 5 | [Shadowland](https://open.spotify.com/track/55UcLytbMiRcXmReVQcpyz) | [Bad//Dreems](https://open.spotify.com/artist/54f24706ua34STMhWSzPV7) | [Shadowland](https://open.spotify.com/album/0RdCEIJvDjwJve2G98UIAy) | 3:52 |
 | 6 | [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 |

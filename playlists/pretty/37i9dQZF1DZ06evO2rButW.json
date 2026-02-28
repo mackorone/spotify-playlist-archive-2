@@ -1,12 +1,12 @@
 {
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 771142,
+  "num_followers": 771734,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAACSv2Jf8fKMPVXxx82d2PlH",
+  "snapshot_id": "aZ+NAAAAAABMbAnjZQutolP6h/rzuWE0",
   "tracks": [
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tornasol",
+        "url": "https://open.spotify.com/album/7tFRCDcq1MhhKXZJ2VZP6H"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 256540,
+      "name": "Vuelve por Favor",
+      "url": "https://open.spotify.com/track/5j35m0VodPLiRxfG3fmTSP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cosa Nuestra: Cap\u00edtulo 0",
         "url": "https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 224650,
       "name": "Callej\u00f3n de los Secretos",
       "url": "https://open.spotify.com/track/1hFyhyZygYYD35G2cEuwR0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tornasol",
-        "url": "https://open.spotify.com/album/7tFRCDcq1MhhKXZJ2VZP6H"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 256540,
-      "name": "Vuelve por Favor",
-      "url": "https://open.spotify.com/track/5j35m0VodPLiRxfG3fmTSP"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Trenza (Deluxe)",
+        "url": "https://open.spotify.com/album/4heSwh4OgqS8CX2D4v7vnz"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 214120,
+      "name": "Vendaval",
+      "url": "https://open.spotify.com/track/0EvjmzGLCyesGcFzvTNH8D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Bunkers (MTV Unplugged)",
         "url": "https://open.spotify.com/album/3v9WTwGpwKCwYyCLoI3kjj"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 290752,
       "name": "Quiero Dormir Cansado - MTV Unplugged",
       "url": "https://open.spotify.com/track/5Df8mDDSY22DR5XZcHIA4A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Trenza (Deluxe)",
-        "url": "https://open.spotify.com/album/4heSwh4OgqS8CX2D4v7vnz"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 214120,
-      "name": "Vendaval",
-      "url": "https://open.spotify.com/track/0EvjmzGLCyesGcFzvTNH8D"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RqcIrDxBiI.md) - [plain]
 
 > Les plus belles chansons d'amour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,726 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,723 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RqcIrDxBiI.md) - [plain]
 | 20 | [Halo](https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7) | 4:21 |
 | 21 | [Killing Me Softly With His Song](https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 4:46 |
 | 22 | [Take My Breath Away \- Love Theme from "Top Gun"](https://open.spotify.com/track/77Oww6V7jooOd7aNEMnFJ3) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [TOP GUN/SOUNDTRACK](https://open.spotify.com/album/0aAtSw6p6dKW33Azdc0Ihq) | 4:11 |
-| 23 | [She's The One](https://open.spotify.com/track/4lO57zZGFcj7vSY4QhfVDq) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [I've Been Expecting You](https://open.spotify.com/album/4sgNyq4LbcoRnNhte25GPs) | 4:18 |
-| 24 | [With Or Without You \- Remastered 2007](https://open.spotify.com/track/5JGEAz15LkPoOtFHttDtVs) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3) | 4:55 |
+| 23 | [With Or Without You \- Remastered 2007](https://open.spotify.com/track/5JGEAz15LkPoOtFHttDtVs) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3) | 4:55 |
+| 24 | [She's The One](https://open.spotify.com/track/4lO57zZGFcj7vSY4QhfVDq) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [I've Been Expecting You](https://open.spotify.com/album/4sgNyq4LbcoRnNhte25GPs) | 4:18 |
 | 25 | [Shallow \- Radio Edit](https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:37 |
 | 26 | [She's Like the Wind \(feat\. Wendy Fraser\) \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/7BdXRaSlGAzhySfuW3y8h5) | [Patrick Swayze](https://open.spotify.com/artist/6dH5I8Q7HhXu74cBXkP0LD), [Wendy Fraser](https://open.spotify.com/artist/2oSO8nxMHKOJKj7v8l0zWh) | [Dirty Dancing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g) | 3:52 |
 | 27 | [\(I've Had\) The Time Of My Life \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/6W7ztLBiRzBN46ZaPAcQ0F) | [Bill Medley](https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [Dirty Dancing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g) | 4:50 |

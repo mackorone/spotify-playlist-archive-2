@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 
 > This is Natanael Cano\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,551 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 845,661 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 | 16 | [Kamikaze \(feat\. Victor Mendivil\)](https://open.spotify.com/track/6fKvGaO8Dfntvx4thaXtak) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Uriel Gaxiola](https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj), [Ganggy](https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Kamikaze \(feat\. Victor Mendivil\)](https://open.spotify.com/album/0qRymMmPlQL4Jji8iXAZVP) | 4:08 |
 | 17 | [AMG](https://open.spotify.com/track/0FxtC8uFapbpDBliAU3sd6) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 2:54 |
 | 18 | [Giza](https://open.spotify.com/track/6KOnLTb1xLfKDAjMC43I76) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Giza](https://open.spotify.com/album/59NGQmOz4yxHkgbrVdFHhy) | 2:57 |
-| 19 | [Disfruto Lo Malo](https://open.spotify.com/track/7LH2UUuyMHt7035PLZQ8wx) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 3:07 |
-| 20 | [Morritas](https://open.spotify.com/track/5RQKSb1oqK7bAkuNpu1NSC) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Morritas](https://open.spotify.com/album/4rl0XbWJhc8ZD2aTPwo7a7) | 3:36 |
+| 19 | [Morritas](https://open.spotify.com/track/5RQKSb1oqK7bAkuNpu1NSC) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Morritas](https://open.spotify.com/album/4rl0XbWJhc8ZD2aTPwo7a7) | 3:36 |
+| 20 | [Disfruto Lo Malo](https://open.spotify.com/track/7LH2UUuyMHt7035PLZQ8wx) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 3:07 |
 | 21 | [Porte Exuberante](https://open.spotify.com/track/4DdnffqoFr9wDRlCACNmGf) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Oscar Maydon](https://open.spotify.com/artist/5yYCc4KdgGsTDnOoSI45vj) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 3:33 |
 | 22 | [Me Gusta](https://open.spotify.com/track/3dfU4Gby9MXckEQVa68TDC) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 3:38 |
 | 23 | [PRC](https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRC](https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 | 49 | [Paso En Culiacan](https://open.spotify.com/track/5McxmoutZI2oRpuTQdvH71) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Paso En Culiacan](https://open.spotify.com/album/03fkik4lkYThFBm6gMuWkO) | 4:35 |
 | 50 | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh) | 2:44 |
 
-Snapshot ID: `aZ47gAAAAAA876qKTH8CW0RIq7GfeS35`
+Snapshot ID: `aZ+NAAAAAAAN6KH1fk91IlI+E2S8kV/w`

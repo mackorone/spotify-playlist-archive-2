@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: waterbaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,017 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,525 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 39 | [Fara](https://open.spotify.com/track/0MSwEp1oqojExCixKd0xKu) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Fara](https://open.spotify.com/album/5eF1127c1C2jiqc3xuzeqd) | 3:02 |
 | 40 | [Death Wish](https://open.spotify.com/track/3tX3O0C3n8RB9knm9QRFsc) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Death Wish](https://open.spotify.com/album/2uDeSxmbT8XFv0uxQyz3hA) | 3:25 |
 | 41 | [Dearly Missed](https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Dearly Missed](https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS) | 6:00 |
-| 42 | [Waiting For You \(feat\. Reggie Dartey\)](https://open.spotify.com/track/4fnTe6QJgXrZtLrTUuCo3M) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui) | [Waiting For You \(feat\. Reggie Dartey\)](https://open.spotify.com/album/3OP5lchVXZ5LjpmTwqk3Rt) | 3:18 |
-| 43 | [Floor](https://open.spotify.com/track/6Oea18ZwpdpWOV5cPpdsPo) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9) | [Floor](https://open.spotify.com/album/6Z2lZcGo7oM7HIM6R2Ufoa) | 2:27 |
+| 42 | [Floor](https://open.spotify.com/track/6Oea18ZwpdpWOV5cPpdsPo) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9) | [Floor](https://open.spotify.com/album/6Z2lZcGo7oM7HIM6R2Ufoa) | 2:27 |
+| 43 | [Waiting For You \(feat\. Reggie Dartey\)](https://open.spotify.com/track/4fnTe6QJgXrZtLrTUuCo3M) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui) | [Waiting For You \(feat\. Reggie Dartey\)](https://open.spotify.com/album/3OP5lchVXZ5LjpmTwqk3Rt) | 3:18 |
 | 44 | [I Know Where Mark Chen Lives](https://open.spotify.com/track/6ZzUmrPFLDuMM51uuVSb0h) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [I Know Where Mark Chen Lives](https://open.spotify.com/album/6J0USYx5H0mtsqxVwEREHN) | 1:50 |
 | 45 | [Clinton County](https://open.spotify.com/track/3asVZ8UVuR7iw0WLSZOxpZ) | [Colton Bowlin](https://open.spotify.com/artist/7nXlGfcD7lyEIeQTCYiS0C) | [Clinton County](https://open.spotify.com/album/1hLcwNP4GJ3gLUbOjbf8qU) | 4:49 |
 | 46 | [The River](https://open.spotify.com/track/6Wr8n9KkQgJtlY26IypHvX) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [The River](https://open.spotify.com/album/0R8av0tTQptVgkuB69M7Gu) | 4:53 |

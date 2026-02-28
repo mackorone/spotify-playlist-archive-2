@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-505 songs - 1 day 2 hr 44 min
+506 songs - 1 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [En Första Dans](https://open.spotify.com/track/2M0mCS649bGFR0Y9tPpCer) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [En Första Dans](https://open.spotify.com/album/5uizL4oF1rIIaQoqFC683R) | 2:10 | 2024-06-28 | 2024-10-25 |
 | [ENERGI](https://open.spotify.com/track/0N5khQ2R2C9r6zUWj5Rgwl) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [ENERGI](https://open.spotify.com/album/670PVkgGQoiAqGdlT9O39j) | 3:13 | 2024-06-28 | 2024-08-23 |
 | [ett minne i taget](https://open.spotify.com/track/4SXtVLD8B0O7kvw7FLi4Qj) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [ett minne i taget](https://open.spotify.com/album/40zmg4a9KuaUwLpHxj5NVX) | 2:50 | 2025-03-27 | 2026-02-13 |
+| [Ett år \- Bonus Track](https://open.spotify.com/track/4OJOZJLUnGun7f2qeIc7h7) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA \(Deluxe\)](https://open.spotify.com/album/6ELnL9vR5ufPGdqZIy67Zh) | 3:37 | 2026-02-26 |  |
 | [even if my heart breaks](https://open.spotify.com/track/1zjLuFuezkngtOgUQhAwjX) | [TUVA](https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q) | [even if my heart breaks](https://open.spotify.com/album/4OFGAubLuL2b3tPQW9dG7J) | 2:41 | 2025-01-16 | 2025-02-28 |
 | [Fakta: Fucked Up](https://open.spotify.com/track/7Jk9NlMb2fThaDOYRC52kC) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Fakta: Fucked Up](https://open.spotify.com/album/3N3rwYkqqBRkzMmo6uqShJ) | 3:59 | 2024-09-19 | 2025-03-21 |
 | [Falla](https://open.spotify.com/track/2TRoPIfG2IqShh7ZQ9MWE2) | [Albin Tingwall](https://open.spotify.com/artist/3lcVkEoGO0JFaJBUCGQw2H) | [Falla](https://open.spotify.com/album/0eTb1CdlXs84iS51y9LCeD) | 2:57 | 2025-04-17 | 2025-08-10 |
@@ -343,6 +344,7 @@
 | [Never Be Over](https://open.spotify.com/track/7co3hAzTZT3HbdITNnyywZ) | [Astral Weeks](https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3) | [Never Be Over](https://open.spotify.com/album/5ysXlIX0TG7RCwspi59ek8) | 3:15 | 2026-02-26 |  |
 | [New Year's Eve](https://open.spotify.com/track/53hEGYyUpj3FYvQOCHVdo7) | [Ida Fiona](https://open.spotify.com/artist/0P1ms6USIpLYgcCZ9s1Xbm) | [New Year's Eve](https://open.spotify.com/album/2wcAjapN7Lyie2OpbLwBrw) | 2:51 | 2026-02-19 |  |
 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 | 2025-06-12 | 2026-02-13 |
+| [Nightingale Lane.](https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Nightingale Lane.](https://open.spotify.com/album/22FLublraJkicHyrK2egu0) | 5:02 | 2026-02-26 |  |
 | [No Fun](https://open.spotify.com/track/1AdgVWMgeSZNj59u16F0gV) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [No Fun](https://open.spotify.com/album/0EsVZT9jNfgQNkKcAXqNYb) | 3:19 | 2024-06-28 | 2024-09-20 |
 | [NOSTALGI](https://open.spotify.com/track/4TqpAtvf3o2bQp255k4V8n) | [Ella Rammelt](https://open.spotify.com/artist/5Q16MIBSMECMqeKAHKw9qE) | [NOSTALGI](https://open.spotify.com/album/4yLwv3kbaczSeyrbdXin8U) | 2:26 | 2024-06-28 | 2024-08-23 |
 | [Nostalgi](https://open.spotify.com/track/7exxRwkE4xTJBNmpEO8Igj) | [KHARMA](https://open.spotify.com/artist/2EZTSVr6dVIOe7aeMEFQic) | [Nostalgi](https://open.spotify.com/album/3NFRYOP651HE9QwHNRXpu5) | 2:20 | 2025-09-25 |  |
@@ -383,7 +385,7 @@
 | [Rock'n'Roll](https://open.spotify.com/track/0Oiy3oMloogzORJWupzheE) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Rock'n'Roll](https://open.spotify.com/album/6GgQLcIAQxceoTAQ5wMdSK) | 2:39 | 2024-09-19 | 2025-03-13 |
 | [Rocko](https://open.spotify.com/track/1JpvGIVCdc7BRbHEVEk27r) | [Junior Brielle](https://open.spotify.com/artist/4wp7fk3zvD1Nr688kd4VSc) | [Rocko](https://open.spotify.com/album/4vUQaIMVDKzpKVjXHG20qU) | 3:18 | 2025-06-12 | 2025-10-17 |
 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-06-28 | 2025-04-25 |
-| [Run It Up](https://open.spotify.com/track/6K54qTmlXf6MW1YQvZDFVA) | [Tasha17k](https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd) | [Run It Up](https://open.spotify.com/album/4SyiWqVrp8NbHkTJoTmIx1) | 2:03 | 2025-10-16 |  |
+| [Run It Up](https://open.spotify.com/track/6K54qTmlXf6MW1YQvZDFVA) | [Tasha17k](https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd) | [Run It Up](https://open.spotify.com/album/4SyiWqVrp8NbHkTJoTmIx1) | 2:03 | 2025-10-16 | 2026-02-28 |
 | [Safada](https://open.spotify.com/track/4EDbi1VU7nPBlvyv2aXFat) | [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl), [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y) | [Safada](https://open.spotify.com/album/1keYW8BnJ3zory5U2AnFD2) | 2:36 | 2025-10-16 | 2025-11-07 |
 | [Sakerna som kan ta slut](https://open.spotify.com/track/5WKazohHMcqQKyxV4oSGC0) | [Karakou](https://open.spotify.com/artist/4eLoWgIQ8bNC5mXpFgewSq) | [Mina vänner växer upp](https://open.spotify.com/album/6c011GTxshOq4U7ygQOqaY) | 3:13 | 2024-09-19 | 2025-01-17 |
 | [Sakte Film](https://open.spotify.com/track/3UPjsBEaPTGE82x9Gqe3JG) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Sakte Film](https://open.spotify.com/album/3BgXNYkT0dJsg0at6P84Fa) | 2:37 | 2025-07-31 | 2026-02-13 |
@@ -470,7 +472,6 @@
 | [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 | 2026-01-23 |  |
 | [Tom Cruisin'](https://open.spotify.com/track/3um7ZBlvt2VoLICwBYIyx3) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Tom Cruisin'](https://open.spotify.com/album/1pTvDS8e4LoB0l5BaydhDL) | 2:52 | 2025-05-23 | 2025-10-03 |
 | [Tonårsdröm](https://open.spotify.com/track/5CbHWID4ldov0V3sEjvqSU) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Lijam](https://open.spotify.com/artist/0TuWk7DJvWphPrr7w1LtNN) | [Tonårsdröm](https://open.spotify.com/album/0T7h8NPbEAoC6fR8bpwVMJ) | 3:34 | 2026-01-01 |  |
-| [Track 12](https://open.spotify.com/track/4OJOZJLUnGun7f2qeIc7h7) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA \(Deluxe\)](https://open.spotify.com/album/6ELnL9vR5ufPGdqZIy67Zh) | 0:00 | 2026-02-26 |  |
 | [Trappa till himlen](https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen](https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8) | 3:56 | 2025-04-24 | 2025-07-14 |
 | [Tro](https://open.spotify.com/track/1YJGpZL9eDOrbHCxszX9D2) | [Tim Lidman](https://open.spotify.com/artist/5xkOv6R7zAoKN69OE2MKQq) | [Tro](https://open.spotify.com/album/45kllyUpXALGQ3casrPGZ6) | 2:16 | 2025-05-29 | 2025-09-12 |
 | [Tro på en ängel](https://open.spotify.com/track/4c3o7jupG81TySJrmxsZmR) | [Melwin Wid](https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb) | [Tro på en ängel](https://open.spotify.com/album/42Xd3B8pJuseAuxoEeszGH) | 2:40 | 2026-02-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 
 > Rock out while you game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,077 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,189 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 91 | [Atlas Falls](https://open.spotify.com/track/7m1Lw3uTakxHFxGjXXbE4l) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Atlas Falls](https://open.spotify.com/album/3jOuZwZorZqcxcRAwLXDIV) | 3:12 |
 | 92 | [IF IT DOESN'T HURT](https://open.spotify.com/track/4olevV9BVXIZpcI3g8E6kI) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [IF IT DOESN'T HURT](https://open.spotify.com/album/5kx9a5qBDk9zQAk84pnPWo) | 2:59 |
 | 93 | [Stuck](https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Stuck](https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq) | 3:02 |
-| 94 | [I CHANGED \(I'M UP\)](https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [THOSE WHO ARE AGAINST US ALL THE TIME](https://open.spotify.com/album/0x5Y6GpGre82Z0Lx7um7XK) | 3:21 |
-| 95 | [BRAVE NEW WORLD](https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [BRAVE NEW WORLD](https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh) | 4:23 |
+| 94 | [BRAVE NEW WORLD](https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [BRAVE NEW WORLD](https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh) | 4:23 |
+| 95 | [I CHANGED \(I'M UP\)](https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [THOSE WHO ARE AGAINST US ALL THE TIME](https://open.spotify.com/album/0x5Y6GpGre82Z0Lx7um7XK) | 3:21 |
 | 96 | [I Will Not Break](https://open.spotify.com/track/3MfqS0MYdNOZ5Xk7itm4jJ) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [I Will Not Break](https://open.spotify.com/album/3tstswhmigzOMuCWC4rpwr) | 4:52 |
 | 97 | [Already Over](https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [Already Over](https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih) | 2:40 |
 | 98 | [Barely Breathing \(feat\. Against The Current\)](https://open.spotify.com/track/7Ds5R4lrpWAtVGAspvd5lE) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv) | [Barely Breathing \(feat\. Against The Current\)](https://open.spotify.com/album/7g4zvyk5Lz0DtNDtqr7Pu6) | 3:10 |

@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: NCT JNJM
 
-909 songs - 2 day 1 hr 43 min
+911 songs - 2 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -611,6 +611,7 @@
 | [Sailing](https://open.spotify.com/track/0Tjfd3zPoTpPo7FwR21DC2) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Sailing](https://open.spotify.com/album/1hzne4NVJBLxSD78Flnzww) | 3:06 | 2024-11-05 | 2024-12-25 |
 | [Salvia](https://open.spotify.com/track/0bcTxNXi8c0IUY0PhNYItd) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Sarracenia / Salvia](https://open.spotify.com/album/4KO4Ul7zk5Rz2itJ5KKtyl) | 3:26 | 2023-11-23 | 2023-12-20 |
 | [Same Key](https://open.spotify.com/track/6bl0lwuf0okN1QKOer1m2n) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Same Key](https://open.spotify.com/album/13QLqadsR7ld5XzrTslUFY) | 4:03 | 2024-10-01 | 2024-10-23 |
+| [Same Sky](https://open.spotify.com/track/0FAUYnNFMlHteLJ11r5Ix8) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Same Sky](https://open.spotify.com/album/6aQ2GvMtXtrVACouE8pba7) | 3:04 | 2026-02-26 |  |
 | [SANE](https://open.spotify.com/track/1xvKv2s1glXmM7r7onnU0s) | [ONE PACT](https://open.spotify.com/artist/6ypgjfzuOVkVw9FEyh2UD5) | [1'ONLY](https://open.spotify.com/album/6Edlwp9FVbvlxF0JYAUqg9) | 2:18 | 2026-02-26 |  |
 | [Saucin'](https://open.spotify.com/track/7jVr1ZipYJJR4qHxZcQjqa) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [Saucin'](https://open.spotify.com/album/5y364Kj24BuuitP830bMnM) | 2:53 | 2026-01-15 | 2026-01-17 |
 | [SAVIOR](https://open.spotify.com/track/3GujwZryUismW6xKOn309M) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [SAVIOR](https://open.spotify.com/album/3iXdmJU9Ya628gLjlgoWZr) | 2:59 | 2025-01-14 | 2025-02-10 |
@@ -722,6 +723,7 @@
 | [Time](https://open.spotify.com/track/1OvE4CwaIZJ89Eq0qXGCEF) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Simula at Wakas](https://open.spotify.com/album/04tWizEPzUimMQaZKdZwzJ) | 3:44 | 2025-04-24 | 2025-09-19 |
 | [TIME MACHINE](https://open.spotify.com/track/5NRkJih2PxdvMS8Bz3qA7q) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [TIME MACHINE](https://open.spotify.com/album/1GbvjB3ehllvBn31u6Iaer) | 3:35 | 2025-05-01 | 2025-06-29 |
 | [Timeline](https://open.spotify.com/track/4Ob3UA1QYw49MrY7DSDkbo) | [2xFE](https://open.spotify.com/artist/5fNaCr4gxZY2nlgxMVYoMg) | [Timeline](https://open.spotify.com/album/1RCM4Sazwov9GdcO3Bbxw1) | 3:32 | 2024-06-25 | 2024-07-10 |
+| [Tiny Light](https://open.spotify.com/track/0r4WKpapZS9Fit7iJr3XM1) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Tiny Light](https://open.spotify.com/album/29itUVO9h0qMhglTVctEQD) | 3:27 | 2026-02-26 |  |
 | [to me](https://open.spotify.com/track/3pykHwMxPrCjKIS5jMcADR) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Royal Straight Flush](https://open.spotify.com/album/7u3KKFUERzcSNIxKgRv9VR) | 3:39 | 2025-04-14 | 2025-07-16 |
 | [TOKYO BLACK HOLE](https://open.spotify.com/track/2OIo2bL2wQxzzW3MCIuxf4) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [ECHOES of DUALITY](https://open.spotify.com/album/1OL8ShYfIqC64LwSqAozVm) | 3:33 | 2024-11-12 | 2025-01-15 |
 | [TOKYO DRIFT](https://open.spotify.com/track/3cHkS1oZDYBY31NXdqVCLw) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [GATHER](https://open.spotify.com/album/1RqbXoQpUaeNNRFYrV0WZD) | 3:08 | 2026-01-30 |  |

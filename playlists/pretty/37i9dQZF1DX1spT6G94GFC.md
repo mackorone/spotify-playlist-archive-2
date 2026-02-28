@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1spT6G94GFC.md) - [plain]
 
 > These songs rocked the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,078,899 likes - 80 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,079,101 likes - 80 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1spT6G94GFC.md) - [plain]
 | 2 | [Love Is A Battlefield](https://open.spotify.com/track/06dAFXkgM2OGAkGS3CxpEm) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [Live From Earth](https://open.spotify.com/album/0Dz62BSPfz8XMmJCFtB9iN) | 5:25 |
 | 3 | [Rebel Yell](https://open.spotify.com/track/1S2yXfKjH5S14W5ga1m0nD) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell](https://open.spotify.com/album/6yDq3SrTcstT7zD1hv3hgM) | 4:48 |
 | 4 | [When Doves Cry](https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 5:52 |
-| 5 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 |
+| 5 | [Africa](https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 4:55 |
 | 6 | [Don't Stop Believin'](https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [The Essential Journey](https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R) | 4:08 |
 | 7 | [Personal Jesus \- 2006 Remaster](https://open.spotify.com/track/7dhM0KUBxuZV9z5iNodLyn) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 4:54 |
-| 8 | [Africa](https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 4:55 |
+| 8 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 |
 | 9 | [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:16 |
 | 10 | [Should I Stay or Should I Go \- Remastered](https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:08 |
 | 11 | [Summer Of '69](https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:36 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1spT6G94GFC.md) - [plain]
 | 28 | [Run To You](https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:53 |
 | 29 | [Hysteria](https://open.spotify.com/track/2PFIZFcGry0po3ZfRZkzKc) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria](https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82) | 5:54 |
 | 30 | [Born in the U.S.A.](https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:39 |
-| 31 | [Shout](https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 6:33 |
-| 32 | [Edge of Seventeen \- 2016 Remaster](https://open.spotify.com/track/7L3b6iaVhDVjfo52Hbvh9Z) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 5:29 |
+| 31 | [Edge of Seventeen \- 2016 Remaster](https://open.spotify.com/track/7L3b6iaVhDVjfo52Hbvh9Z) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 5:29 |
+| 32 | [Shout](https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 6:33 |
 | 33 | [Panama \- 2015 Remaster](https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 3:30 |
 | 34 | [Pour Some Sugar On Me \- Remastered 2017](https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 4:27 |
 | 35 | [Hungry Like the Wolf \- 2009 Remaster](https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 3:40 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1spT6G94GFC.md) - [plain]
 | 76 | [Sweet Child O' Mine](https://open.spotify.com/track/7o2CTH4ctstm8TNelqjb51) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5) | 5:54 |
 | 77 | [The Boys Of Summer](https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [Building The Perfect Beast](https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i) | 4:48 |
 | 78 | [Ace of Spades](https://open.spotify.com/track/6EPRKhUOdiFSQwGBRBbvsZ) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91) | 2:46 |
-| 79 | [Kickstart My Heart](https://open.spotify.com/track/7GonnnalI2s19OCQO1J7Tf) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood](https://open.spotify.com/album/6pL7kL9cOc0DpWCq6qJtxQ) | 4:42 |
-| 80 | [I Wanna Rock](https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 2:59 |
+| 79 | [I Wanna Rock](https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 2:59 |
+| 80 | [Kickstart My Heart](https://open.spotify.com/track/7GonnnalI2s19OCQO1J7Tf) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood](https://open.spotify.com/album/6pL7kL9cOc0DpWCq6qJtxQ) | 4:42 |
 
 Snapshot ID: `AAAAABjkgECxQ2Zh+7B9RB9ZlFSd1g2R`

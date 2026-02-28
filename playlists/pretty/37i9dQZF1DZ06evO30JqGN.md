@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30JqGN.md) - [plain]
 
 > This is Summer Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,656 likes - 47 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,662 likes - 47 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30JqGN.md) - [plain]
 | 28 | [BP](https://open.spotify.com/track/7B1c8GzIeRVfuU7pqgmBaR) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 1:49 |
 | 29 | [You Will Be Found \(with Summer Walker\) \- From The “Dear Evan Hansen” Original Motion Picture Soundtrack](https://open.spotify.com/track/2URXzpbSUwOjltvpgtzXua) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [You Will Be Found \(with Summer Walker\) \[From The “Dear Evan Hansen” Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6Anzto8x93tfDjDghGqHQf) | 3:57 |
 | 30 | [Constant Bullshit](https://open.spotify.com/track/1luvsaicSpNDRLgOtRZxWO) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:17 |
-| 31 | [Dead \(feat\. Summer Walker\)](https://open.spotify.com/track/3gnBcl5KRYTzIQyCOQug6F) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 4:27 |
-| 32 | [Spend It](https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Spend It](https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9) | 2:45 |
+| 31 | [Spend It](https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Spend It](https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9) | 2:45 |
+| 32 | [Dead \(feat\. Summer Walker\)](https://open.spotify.com/track/3gnBcl5KRYTzIQyCOQug6F) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 4:27 |
 | 33 | [Shame](https://open.spotify.com/track/3LdGRWewvpcaZrkOpc70fP) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 2:46 |
 | 34 | [Ex For A Reason \(with JT from City Girls\)](https://open.spotify.com/track/1De7cOMrdUnVpjWBaowMg4) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:45 |
 | 35 | [Tell Me It's Over \(feat\. Summer Walker & 6LACK\)](https://open.spotify.com/track/2cue4DdCwO7himRLESpWk5) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Sincerely For You](https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze) | 4:41 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30JqGN.md) - [plain]
 | 46 | [D & G \(feat\. Summer Walker\)](https://open.spotify.com/track/0xr7t6jQWzFsZ9XwfcxAu7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 2:52 |
 | 47 | [Shower Tears \(feat\. Summer Walker\)](https://open.spotify.com/track/5g8frSfNnBYjSpLkLtFnCd) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 3:27 |
 
-Snapshot ID: `aZ47gAAAAAAyKvSJmg7mCGREo5LqVTFm`
+Snapshot ID: `aZ+NAAAAAAD57wTS2y7vUnVe/bEitBcG`

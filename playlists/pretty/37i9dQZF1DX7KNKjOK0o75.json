@@ -1,6 +1,6 @@
 {
   "description": "Feel great with these timelessly fun songs!",
-  "num_followers": 5262044,
+  "num_followers": 5261979,
   "original_name": "Have a Great Day!",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-05-02 19:18:45",
       "album": {
-        "name": "Songs From The Big Chair (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
-      },
-      "artists": [
-        {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        }
-      ],
-      "duration_ms": 251488,
-      "name": "Everybody Wants To Rule The World",
-      "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
-    },
-    {
-      "added_at": "2023-05-02 19:18:45",
-      "album": {
         "name": "Toto IV",
         "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 295282,
       "name": "Africa",
       "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
+    },
+    {
+      "added_at": "2023-05-02 19:18:45",
+      "album": {
+        "name": "Songs From The Big Chair (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 251488,
+      "name": "Everybody Wants To Rule The World",
+      "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
     },
     {
       "added_at": "2023-05-02 19:18:45",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-05-02 19:18:45",
       "album": {
-        "name": "August And Everything After",
-        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
-      },
-      "artists": [
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "Mr. Jones",
-      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
-    },
-    {
-      "added_at": "2023-05-02 19:18:45",
-      "album": {
         "name": "Come and Get Your Love",
         "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 205933,
       "name": "Come and Get Your Love - Single Version",
       "url": "https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"
+    },
+    {
+      "added_at": "2023-05-02 19:18:45",
+      "album": {
+        "name": "August And Everything After",
+        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "duration_ms": 272293,
+      "name": "Mr. Jones",
+      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-05-02 19:18:45",
       "album": {
-        "name": "Partners In Crime",
-        "url": "https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN"
-      },
-      "artists": [
-        {
-          "name": "Rupert Holmes",
-          "url": "https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj"
-        }
-      ],
-      "duration_ms": 276493,
-      "name": "Escape (The Pina Colada Song)",
-      "url": "https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ"
-    },
-    {
-      "added_at": "2023-05-02 19:18:45",
-      "album": {
         "name": "Jazz (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 209413,
       "name": "Don't Stop Me Now - Remastered 2011",
       "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
+    },
+    {
+      "added_at": "2023-05-02 19:18:45",
+      "album": {
+        "name": "Partners In Crime",
+        "url": "https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN"
+      },
+      "artists": [
+        {
+          "name": "Rupert Holmes",
+          "url": "https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj"
+        }
+      ],
+      "duration_ms": 276493,
+      "name": "Escape (The Pina Colada Song)",
+      "url": "https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ"
     },
     {
       "added_at": "2023-05-02 19:18:45",
@@ -1005,22 +1005,6 @@
       "url": "https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA"
     },
     {
-      "added_at": "2023-05-02 19:18:45",
-      "album": {
-        "name": "Hot Chocolate",
-        "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
-      },
-      "artists": [
-        {
-          "name": "Hot Chocolate",
-          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
-        }
-      ],
-      "duration_ms": 244920,
-      "name": "You Sexy Thing",
-      "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
-    },
-    {
       "added_at": "2025-03-25 15:39:56",
       "album": {
         "name": "Supernatural (Legacy Edition)",
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2023-05-02 19:18:45",
       "album": {
+        "name": "Hot Chocolate",
+        "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
+      },
+      "artists": [
+        {
+          "name": "Hot Chocolate",
+          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
+        }
+      ],
+      "duration_ms": 244920,
+      "name": "You Sexy Thing",
+      "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
+    },
+    {
+      "added_at": "2023-05-02 19:18:45",
+      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum"
       },
@@ -1089,22 +1089,6 @@
       "url": "https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd"
     },
     {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "River Of Dreams",
-        "url": "https://open.spotify.com/album/4HPnwQJAEvTY910q4RNeOu"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 245893,
-      "name": "The River of Dreams",
-      "url": "https://open.spotify.com/track/30qVCFYKBtAENjTIBA8FPZ"
-    },
-    {
       "added_at": "2023-05-02 19:18:45",
       "album": {
         "name": "Supernatural (Remastered)",
@@ -1123,6 +1107,22 @@
       "duration_ms": 261973,
       "name": "Maria Maria (feat. The Product G&B)",
       "url": "https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "River Of Dreams",
+        "url": "https://open.spotify.com/album/4HPnwQJAEvTY910q4RNeOu"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 245893,
+      "name": "The River of Dreams",
+      "url": "https://open.spotify.com/track/30qVCFYKBtAENjTIBA8FPZ"
     },
     {
       "added_at": "2023-05-02 19:18:45",

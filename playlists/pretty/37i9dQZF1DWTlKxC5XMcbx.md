@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 
 > 即興而自在、優雅而舒緩，這形容是不是像個好夢的感覺呢？就讓美妙的爵士樂助你入眠吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,791 likes - 75 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,791 likes - 75 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 21 | [The Nearness Of You](https://open.spotify.com/track/4vuoL9ldmpmZcXm7RkhQvx) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Stardust: The Music Of Hoagy Carmichael](https://open.spotify.com/album/13m4PuHeRYI7FyfSGmnTiT) | 7:27 |
 | 22 | [Where or When](https://open.spotify.com/track/2JR1WeETsXmFR1kRC2oXXq) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard Time Vol\. 3: The Resolution Of Romance](https://open.spotify.com/album/3ggRodyIM1r04IT4K3Ikho) | 2:48 |
 | 23 | [Maze of Tranquility](https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Maze of Tranquility](https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS) | 4:22 |
-| 24 | [I'll Give You My Heartache](https://open.spotify.com/track/4tIfVGVF30szIEmcCYsvpq) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [I'll Give You My Heartache](https://open.spotify.com/album/4TQm9IHWhgw91qgRmxE5KE) | 3:47 |
-| 25 | [I Hear A Rhapsody](https://open.spotify.com/track/2oEvw0AfrT2fPNpEnBwVml) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Undercurrent](https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ) | 4:40 |
+| 24 | [I Hear A Rhapsody](https://open.spotify.com/track/2oEvw0AfrT2fPNpEnBwVml) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Undercurrent](https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ) | 4:40 |
+| 25 | [I'll Give You My Heartache](https://open.spotify.com/track/4tIfVGVF30szIEmcCYsvpq) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [I'll Give You My Heartache](https://open.spotify.com/album/4TQm9IHWhgw91qgRmxE5KE) | 3:47 |
 | 26 | [I Guess I'll Hang My Tears Out To Dry \- Rudy Van Gelder Edition / Remastered 1999](https://open.spotify.com/track/58ylMBq2yqYdHyevarkNWa) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Go! \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet) | 5:22 |
 | 27 | [Dedicated To You](https://open.spotify.com/track/7Codqj9B5oMniYPUhfv26I) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [The Body & The Soul](https://open.spotify.com/album/4HI73mieaBFtwKS37HmvQH) | 3:22 |
-| 28 | [Forenet](https://open.spotify.com/track/1Xzr6UzZzm2ksXBafZzowm) | [Bremer/McCoy](https://open.spotify.com/artist/2lHSlOOSjpb0qKUkrpXT6J) | [Ordet](https://open.spotify.com/album/0rt84oJPahkvHKS9jkSdaq) | 1:58 |
-| 29 | [Reacquainted](https://open.spotify.com/track/0MdFNrukQ56KurgxVNTNm2) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [Reacquainted](https://open.spotify.com/album/7jttkH7iYONN0AoY3jTyeD) | 3:29 |
+| 28 | [Reacquainted](https://open.spotify.com/track/0MdFNrukQ56KurgxVNTNm2) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [Reacquainted](https://open.spotify.com/album/7jttkH7iYONN0AoY3jTyeD) | 3:29 |
+| 29 | [Forenet](https://open.spotify.com/track/1Xzr6UzZzm2ksXBafZzowm) | [Bremer/McCoy](https://open.spotify.com/artist/2lHSlOOSjpb0qKUkrpXT6J) | [Ordet](https://open.spotify.com/album/0rt84oJPahkvHKS9jkSdaq) | 1:58 |
 | 30 | [I'm A Fool To Want You \- Remastered 2006](https://open.spotify.com/track/2FnTwpi1PdHLjgHv4XQEFn) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Royal Flush](https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72) | 6:12 |
 | 31 | [I'm A Fool To Want You](https://open.spotify.com/track/3kYrQXSao9IXp3EzMZQt5J) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Ballads](https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K) | 6:45 |
 | 32 | [Strange Meadow Lark](https://open.spotify.com/track/0ivpUENLpheuPoa6VuY1ax) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/6P3jzdPK5VMbzuJ2HcRt9y) | 7:22 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 36 | [Over The Rainbow](https://open.spotify.com/track/08lUeu1CxXvAoaKkemoEk8) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Everything I Play Is Funky](https://open.spotify.com/album/4bonZNozN5B3PO7nXJ317E) | 7:11 |
 | 37 | [Lil Darlin'](https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4) | [Kai Winding](https://open.spotify.com/artist/1kYYk4lJ7ZWbyy3zDYOl6h) | [The Incredible Kai Winding Trombones](https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj) | 4:05 |
 | 38 | [Lullaby Of The Leaves \- 1998 Digital Remaster](https://open.spotify.com/track/08rTZ8jNknn8VBS3v2o8pT) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [The Original Quartet With Chet Baker](https://open.spotify.com/album/7r5zWHLMNah1gedwI4S9AA) | 3:15 |
-| 39 | [Blue Ballad](https://open.spotify.com/track/6f6OQJv9qjqyJq9NHin45n) | [Phil Woods](https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f), [Space Jazz Trio](https://open.spotify.com/artist/2sLufQ8lc6cZL6YIO1oD65) | [Phil's Mood](https://open.spotify.com/album/4syA9XxPp63SXbiygEsh43) | 6:34 |
-| 40 | [My Sweetest You](https://open.spotify.com/track/1DvX7QmvoZMr2i2rIy6vPy) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [My Sweetest You](https://open.spotify.com/album/1BxZWb9WVLtpAjSLX25sRq) | 3:07 |
+| 39 | [My Sweetest You](https://open.spotify.com/track/1DvX7QmvoZMr2i2rIy6vPy) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [My Sweetest You](https://open.spotify.com/album/1BxZWb9WVLtpAjSLX25sRq) | 3:07 |
+| 40 | [Blue Ballad](https://open.spotify.com/track/6f6OQJv9qjqyJq9NHin45n) | [Phil Woods](https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f), [Space Jazz Trio](https://open.spotify.com/artist/2sLufQ8lc6cZL6YIO1oD65) | [Phil's Mood](https://open.spotify.com/album/4syA9XxPp63SXbiygEsh43) | 6:34 |
 | 41 | [When It's Sleepy Time Down South](https://open.spotify.com/track/6AyUZf6QlPpOJLETzK9wkr) | [Howard Alden](https://open.spotify.com/artist/7sgBK9xjqtnAFTfm2SvWMR), [Helmut Nieberle](https://open.spotify.com/artist/7xDNjmM5Q34OUfblDBD1EO) | [Timelines](https://open.spotify.com/album/7rjsl9oej89UpkhFciGwFY) | 3:20 |
 | 42 | [Sleep Away](https://open.spotify.com/track/5YHPH0wpc5IMqNNrbN3JMm) | [Bob Acri](https://open.spotify.com/artist/5LgnVUVYlM9jqiyYMgNMMB) | [Bob Acri](https://open.spotify.com/album/1HghYCAJpIIZrqad27tp1s) | 3:21 |
 | 43 | [A Hundred Dreams from Now](https://open.spotify.com/track/2R9KveaVtFgiiEC6KSF9un) | [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [A Hundred Dreams from Now](https://open.spotify.com/album/1OLQClJexwEK6xNTb5mU4L) | 3:26 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 72 | [I Have Dreamed](https://open.spotify.com/track/4bBIADw4urJPkcx0YOfEIo) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Out Here](https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH) | 8:27 |
 | 73 | [You've Changed](https://open.spotify.com/track/1bzWQAERd8mtwpxH8R4vjB) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Ballads](https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K) | 7:27 |
 | 74 | [Smile](https://open.spotify.com/track/7xLZGhRR2jTUtaPewAmacY) | [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80) | [My New Old Friend](https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr) | 5:33 |
-| 75 | [One Quiet Night](https://open.spotify.com/track/4XdoeWiOIDg2VMVUZSnHlO) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [One Quiet Night](https://open.spotify.com/album/6lUW37ehhdAZNF3cJPkSpK) | 5:01 |
+| 75 | [Five Years Ago](https://open.spotify.com/track/1L2aEbr8dOnVUKoeFhmMZG) | [Leonard Peters](https://open.spotify.com/artist/3lnir5hIW9TkpCGJGUuhvk) | [Walk The Dog](https://open.spotify.com/album/1P4DJRMLQ5RhNxYkDPeUf1) | 2:55 |
 
 Snapshot ID: `AAAAAFXMeelVZKvq5JmVR+TbUDS4LQJI`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FusBW.md) - [plain]
 
 > This is RIOPY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,149 likes - 44 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,152 likes - 44 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FusBW.md) - [plain]
 | 43 | [Evolving Memories](https://open.spotify.com/track/7fatRhuZtEj2KB2VGefprE) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Emotive Piano](https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ) | 2:33 |
 | 44 | [Come With Me](https://open.spotify.com/track/0pWnnhW2NufW8ZVRLepQvi) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Be Love](https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L) | 4:23 |
 
-Snapshot ID: `aZ47gAAAAACZ1i6QE9X1y1RJCb7Zwm0P`
+Snapshot ID: `aZ+NAAAAAAAqARKdRS5soo3+cnCuli2d`

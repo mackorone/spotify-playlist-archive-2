@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Dios Le Pido](https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:25 | 2021-07-30 |  |
-| [A Puro Dolor \- Balada](https://open.spotify.com/track/28upjDakWVnHAgW2anm273) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Son By 4](https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq) | 3:30 | 2021-07-30 |  |
+| [A Puro Dolor \- Balada](https://open.spotify.com/track/28upjDakWVnHAgW2anm273) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Son By 4](https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq) | 3:30 | 2021-07-30 | 2026-02-28 |
 | [Algo Está Cambiando](https://open.spotify.com/track/7mJG18yZGq0aXKWNtK3FQf) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 4:00 | 2024-06-12 |  |
 | [Algo Más](https://open.spotify.com/track/3bJBWsVNUJ3hOIO6lQUKCj) | [La Quinta Estacion](https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh) | [Flores De Alquiler](https://open.spotify.com/album/2IdCNfB4mJGsGCzGt6FnHs) | 4:29 | 2021-07-30 |  |
 | [Amor del Bueno](https://open.spotify.com/track/2G74yhtIMW8tJY5I83dS4Z) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Reyli En La Luna](https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY) | 4:02 | 2021-07-30 |  |
@@ -69,7 +69,7 @@
 | [Noviembre Sin Ti](https://open.spotify.com/track/2vCHDrXVN0k1GPTjSIZ69E) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Reik](https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS) | 3:23 | 2021-07-30 |  |
 | [Para No Verte Más](https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM) | [La Mosca](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Visperas De Carnaval](https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W) | 3:11 | 2021-07-30 |  |
 | [Perfecta](https://open.spotify.com/track/09QfIIP4NUx4A3thmovb2o) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [El Templo del Pop](https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY) | 3:45 | 2021-07-30 |  |
-| [Pero Me Acuerdo de Tí](https://open.spotify.com/track/4B1sb2YVO03sBmyR8bvzEB) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 4:25 | 2021-07-30 | 2026-02-26 |
+| [Pero Me Acuerdo de Tí](https://open.spotify.com/track/4B1sb2YVO03sBmyR8bvzEB) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 4:25 | 2021-07-30 |  |
 | [Por Besarte](https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL) | [LU](https://open.spotify.com/artist/1G4QsyR9Fj6k8JJK233X8C) | [Lu](https://open.spotify.com/album/0FDD3Y5vJ0chGNLtJju6nq) | 3:37 | 2021-07-30 |  |
 | [Por Ti](https://open.spotify.com/track/1foeacjwgWD6UMmirTXwL5) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Dulce Beat](https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK) | 3:36 | 2021-07-30 |  |
 | [Puedes Contar Conmigo](https://open.spotify.com/track/1hbWtHgRDG25DkmxE4I28V) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Lo Que Te Conte Mientras Te Hacias La Dormida](https://open.spotify.com/album/1Atbkyir7YdfpFYWCnRTFp) | 3:56 | 2024-03-12 |  |

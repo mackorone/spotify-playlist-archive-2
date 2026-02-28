@@ -4,7 +4,7 @@
 
 > Tú, nosotros y esta lista de canciones\. Foto: KAROL G, Marco Antonio Solís
 
-107 songs - 6 hr 59 min
+108 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [La Cosa Mas Bella](https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \(Spanish Version\)](https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq) | 4:25 | 2022-01-14 |  |
 | [La Falta](https://open.spotify.com/track/7Ex9Z4MqgbHNiwQJHnXj0R) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Falta](https://open.spotify.com/album/6ZEqDHzgAxGE7ZHOk75ZuX) | 3:08 | 2022-08-24 | 2023-04-28 |
 | [La Última Canción](https://open.spotify.com/track/0wKivXf3kIW91AtEll1Aqa) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [La Última Canción](https://open.spotify.com/album/0pSYqGyZXM9SlyTdyB1t1N) | 3:15 | 2023-05-12 | 2023-10-30 |
-| [Lluvia](https://open.spotify.com/track/1heIify4NygHEzqrozuVKK) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [LA 8VA MARAVILLA](https://open.spotify.com/album/4ZMzNSoTgWgSfkBpJTCx9w) | 3:24 | 2026-01-22 |  |
+| [Lluvia](https://open.spotify.com/track/1heIify4NygHEzqrozuVKK) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [LA 8VA MARAVILLA](https://open.spotify.com/album/4ZMzNSoTgWgSfkBpJTCx9w) | 3:24 | 2026-01-22 | 2026-02-28 |
 | [Lo noto](https://open.spotify.com/track/1k3Y0fhjdYKjfPSacDJm0p) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Peligrosamente Juntos](https://open.spotify.com/album/7eBwifbtzfdnn9NhcUaC8d) | 4:19 | 2022-01-14 | 2024-08-31 |
 | [Lo Que Había Olvidado](https://open.spotify.com/track/4I6XQsgfGKBxyadO7JLjQL) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Lo Que Había Olvidado](https://open.spotify.com/album/4zwvvp5T1ecV8lyFQIIz23) | 2:58 | 2022-04-22 | 2022-07-02 |
 | [Luz De Dia](https://open.spotify.com/track/4pxHBdRmwqhiv2B5zy3KG3) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Cronicas](https://open.spotify.com/album/1IWEksNGjNzgc6aGWZAjV8) | 4:27 | 2022-01-14 |  |
@@ -105,6 +105,7 @@
 | [Te Amo y Punto](https://open.spotify.com/track/5cFvInbt4jkAf48cdqhkJc) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Te Amo y Punto](https://open.spotify.com/album/2docoJFd5tY0o9iqbsYhsK) | 2:45 | 2022-07-01 | 2026-01-23 |
 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:39 | 2022-01-14 |  |
 | [Te Mando Flores](https://open.spotify.com/track/2in1gSZtv2lRbcZUmN9aAl) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Corazón](https://open.spotify.com/album/6O0WvW7JA4B02y8D9Kd3Bx) | 3:48 | 2022-01-14 | 2022-04-02 |
+| [Tu Cárcel](https://open.spotify.com/track/0b55EHxWx8ylntHOJwPZrC) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Tu Cárcel](https://open.spotify.com/album/614rbDLa3xPz4aeZCqfTzv) | 3:36 | 2026-02-27 |  |
 | [Un nuevo amor](https://open.spotify.com/track/5SxqIG4rs9hxt0FO8gX5ig) | [Tranzas](https://open.spotify.com/artist/1GfaAWKfZE9hrYS8IqkWKB) | [Por Siempre](https://open.spotify.com/album/6GFfLFXNbp690VCpEgYigS) | 3:50 | 2022-01-14 |  |
 | [Una Vida Pasada](https://open.spotify.com/track/7y91nQBMhyeHWTn9wVvhKl) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Una Vida Pasada](https://open.spotify.com/album/3hc06uuIEsjOu8CwOumEbd) | 3:38 | 2024-07-05 |  |
 | [Vivo Por Ella \(feat\. KAROL G\)](https://open.spotify.com/track/0XG0M7286ZdcOflyehbXmS) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Vivo Por Ella \(feat\. KAROL G\)](https://open.spotify.com/album/57WjrGotxjy4Wh2CEHZSMl) | 4:24 | 2024-08-30 |  |

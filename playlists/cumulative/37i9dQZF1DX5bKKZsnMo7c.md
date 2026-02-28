@@ -2,9 +2,9 @@
 
 ### [Limelight](https://open.spotify.com/playlist/37i9dQZF1DX5bKKZsnMo7c)
 
-> Feeling dramatic? All eyes on you\. Cover: Chloe Qisha
+> Feeling dramatic? All eyes on you\. Cover: Em Beihold
 
-551 songs - 1 day 5 hr 54 min
+557 songs - 1 day 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Against the Kitchen Floor \- Live in Charlotte, NC](https://open.spotify.com/track/5iSHEe6K8pmrcWWy2kPvZE) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [IN CASE I DIE \(Live\)](https://open.spotify.com/album/7jGDcKK1aVh9vxDXV6RGmb) | 5:20 | 2023-01-13 | 2023-01-19 |
 | [Ain't No Crying](https://open.spotify.com/track/18wSH9W51fEBd9qrUAb9aW) | [Derivakat](https://open.spotify.com/artist/4T7KICeQg50AwFzauMCR9C) | [Songs of the SMP](https://open.spotify.com/album/6ks45W8ykLFRr1lgoUj9mW) | 2:36 | 2022-05-17 | 2022-12-10 |
 | [Alabama Stone](https://open.spotify.com/track/4wYtMm8dCeqbcOMVE2Z5hs) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG) | [Alabama Stone](https://open.spotify.com/album/21EwKvVlMvjG5tsgJrzdvu) | 3:45 | 2024-12-06 | 2025-03-01 |
+| [ALICE](https://open.spotify.com/track/62lIi3Mb3jR018YFjESFl7) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [ALICE](https://open.spotify.com/album/1JmyKpeyt4cHkYlfKBU6Dv) | 4:39 | 2026-02-27 |  |
 | [ALICE](https://open.spotify.com/track/1c4hrCYvdfJ6IQM0tf9bk1) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [ALICE](https://open.spotify.com/album/0978t07FucRDrjdMNEdG0Z) | 2:33 | 2023-10-27 | 2024-08-10 |
 | [ALICE \- Red Queen Version](https://open.spotify.com/track/4yHwSwzHpsDSXf886P5Mlc) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh), [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R) | [ALICE \(Red Queen Version\)](https://open.spotify.com/album/7tzDJQwW4WzJXSbSJpFqG2) | 2:28 | 2025-10-17 |  |
 | [Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh) | 2:35 | 2023-05-26 | 2024-06-29 |
@@ -142,6 +143,7 @@
 | [Devil Town](https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Cavetown](https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t) | 2:59 | 2023-03-27 | 2024-05-25 |
 | [Difluoroethane](https://open.spotify.com/track/6wqlEKnSMVq37ZipY04pMp) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [Knives For Aries](https://open.spotify.com/album/2EL0n7jffmOwkdEvm60kwi) | 2:06 | 2024-05-24 | 2024-06-29 |
 | [Dinner @ Brasserie Zédel](https://open.spotify.com/track/2OE8encLnOWQEsmcJTifeZ) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Dinner @ Brasserie Zédel](https://open.spotify.com/album/0NNZzGLChmCp78PF60tuWk) | 3:24 | 2024-11-01 | 2025-09-20 |
+| [DISNEY PRINCESS](https://open.spotify.com/track/1DH4XuBpL3HreZ7TmawEjR) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [DISNEY PRINCESS](https://open.spotify.com/album/65M9cSEwKpKqkZRiMCrX2H) | 4:05 | 2026-02-27 |  |
 | [Dog's Dinner](https://open.spotify.com/track/6pVOmtY7MYzOdV5KwVEvDQ) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Dog's Dinner](https://open.spotify.com/album/29eup3dxdGR1TSGL2NIzS1) | 3:45 | 2025-01-31 | 2025-03-08 |
 | [Don't Cry for your Daughters Eve](https://open.spotify.com/track/4bXLeoxlnN5V3OnY1EhT3J) | [Lydia the Bard](https://open.spotify.com/artist/4dYuygkzjqrehCNZMTjkNJ) | [Don't Cry for your Daughters Eve](https://open.spotify.com/album/29yybJt3AVpBD4F4GUgt7q) | 4:25 | 2024-06-07 | 2025-04-05 |
 | [Don't Go Insane](https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Dear Insanity...](https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q) | 3:24 | 2024-01-05 | 2025-02-04 |
@@ -168,6 +170,7 @@
 | [Expiration Dating](https://open.spotify.com/track/4RY8NabvRv6Y95x96asZbr) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Expiration Dating](https://open.spotify.com/album/6FFDFr43db7FFvrpOT6xAg) | 3:00 | 2025-05-23 | 2025-10-11 |
 | [Fable](https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Fable](https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw) | 4:21 | 2024-10-25 | 2025-07-12 |
 | [Fabulous](https://open.spotify.com/track/1LkpaAtSjAx5n4rrTkIQyu) | [MEEK](https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0) | [Fabulous](https://open.spotify.com/album/4RxIQmhjviMgTLRbCosPoN) | 2:33 | 2026-01-30 |  |
+| [fairest fruit](https://open.spotify.com/track/4eTLw4k738PaAaHz81XXC6) | [Stateira](https://open.spotify.com/artist/5kS1vwsmrRriPqB1OLOTUZ) | [fairest fruit](https://open.spotify.com/album/7EYeVtJIk3E8gQGDWs4E0s) | 4:02 | 2026-02-27 |  |
 | [Fairytale](https://open.spotify.com/track/4eDtZP99H6xfasP4Tku9Ee) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Lighthouse](https://open.spotify.com/album/4Pmm7z9aZUxOifop5oDvOJ) | 2:49 | 2022-05-23 | 2022-06-02 |
 | [Fall In Love With A Girl \(feat\. Beabadoobee\)](https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fall In Love With A Girl \(feat\. Beabadoobee\)](https://open.spotify.com/album/18czgkFPCbEyxqTGt3dBQ1) | 3:11 | 2022-05-17 | 2022-06-02 |
 | [Fall In Love With A Girl \(feat\. Orla Gartland\)](https://open.spotify.com/track/3oDm8bWMqVw2Hn4R8nYwyZ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Fall In Love With A Girl \(feat\. Orla Gartland\)](https://open.spotify.com/album/4rhuxHJsNJdATS6PHxMvQ6) | 2:48 | 2022-06-10 | 2022-07-08 |
@@ -204,6 +207,7 @@
 | [Goddess](https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Goddess](https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ) | 4:27 | 2024-12-18 | 2025-10-25 |
 | [Golden](https://open.spotify.com/track/4Re3BkmG5JYl2bB2s0yV2b) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Golden](https://open.spotify.com/album/7szpzMClGbgEeP2UhIY2Xf) | 3:32 | 2022-06-07 | 2022-08-04 |
 | [Golden](https://open.spotify.com/track/7wjmwD5nIYWVnHiR3X3PTO) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Elevator Music for an Elevated Mood](https://open.spotify.com/album/1LL5VZdY7CBXScXB0oQ4tB) | 3:32 | 2022-05-17 | 2022-12-10 |
+| [Golden Brown](https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [La Folie](https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx) | 3:26 | 2026-02-27 |  |
 | [Good Boy](https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Good Boy](https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF) | 3:42 | 2025-09-19 |  |
 | [Goodbye](https://open.spotify.com/track/2JAEfa7DOZJ61TdTCc322N) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [INSIDE \(DELUXE\)](https://open.spotify.com/album/2ZiKx3dsBYBGMypMTdPoKg) | 4:09 | 2022-10-21 | 2022-11-13 |
 | [Goodbye](https://open.spotify.com/track/2ySaltE2swk0QsimILPK05) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [INSIDE](https://open.spotify.com/album/35qVMfUfBN6q2xzm9rZn5a) | 4:09 | 2022-06-07 | 2022-11-26 |
@@ -409,6 +413,7 @@
 | [Runs in the Family](https://open.spotify.com/track/0GdiWLQt5VYtMEcero6AOW) | [Amanda Palmer](https://open.spotify.com/artist/726Dh6A5VyDfAAQxilT6A0) | [Who Killed Amanda Palmer \(Deluxe Version\)](https://open.spotify.com/album/55MoQXHYxkNlD5lxZOjoeG) | 2:44 | 2022-05-17 | 2023-04-18 |
 | [Rät](https://open.spotify.com/track/25z6kpmIwkCUqk2IORrJ5v) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g) | 3:14 | 2022-05-17 | 2022-07-29 |
 | [Rät](https://open.spotify.com/track/4blPH3Uy89WnOnYlIv7Ev4) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 3:14 | 2022-06-07 | 2024-01-27 |
+| [Safe For Another Day](https://open.spotify.com/track/6hMIlCVxfh93G65HTthxwQ) | [Surely Shirley](https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB) | [Safe For Another Day](https://open.spotify.com/album/5lFIiWu2PSgEIETJ77dBJ7) | 3:06 | 2026-02-27 |  |
 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 | 2024-08-09 |  |
 | [Saint Bernard](https://open.spotify.com/track/0klQggBfRsnvBNNBzsstzh) | [Lincoln](https://open.spotify.com/artist/6RcxmUOBnyAQr2rRsNfQI5) | [Saint Bernard](https://open.spotify.com/album/7nKc18XiVnnXEexFrdRbMh) | 1:43 | 2023-10-27 | 2024-03-19 |
 | [Saint Bernard](https://open.spotify.com/track/4YTFAawmOFyRjJdT6H95oE) | [Lincoln](https://open.spotify.com/artist/6RcxmUOBnyAQr2rRsNfQI5) | [A Constant State of Ohio](https://open.spotify.com/album/6vEyxIuSDfiR0qIfK7F167) | 1:43 | 2023-01-23 | 2024-01-13 |
@@ -426,7 +431,7 @@
 | [Shit Show](https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 3:26 | 2024-02-23 | 2024-03-23 |
 | [Should've Been Me](https://open.spotify.com/track/5FQ9NDyx3KZXhovWWq4Gxo) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:11 | 2022-05-17 | 2023-09-23 |
 | [Shy Girl](https://open.spotify.com/track/7KNFJbMvPdplvrolBUkK2N) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Shy Girl](https://open.spotify.com/album/3geXpNNZHdQD15uZV0uRj5) | 3:07 | 2025-05-16 | 2025-09-20 |
-| [Silver Lining](https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Silver Lining](https://open.spotify.com/album/0jAVa8PcQSqGTFIXVyxFoy) | 3:17 | 2025-04-04 |  |
+| [Silver Lining](https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Silver Lining](https://open.spotify.com/album/0jAVa8PcQSqGTFIXVyxFoy) | 3:17 | 2025-04-04 | 2026-02-28 |
 | [Silverlines \- prod\. Labrinth](https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Silverlines \- prod\. Labrinth](https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4) | 3:17 | 2024-09-27 | 2024-10-26 |
 | [Sinner](https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Sinner](https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt) | 2:56 | 2023-08-22 | 2023-09-23 |
 | [SLEEP PARALYSIS DEMON](https://open.spotify.com/track/7ArCnzvsDjjLort2k4lELX) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [SLEEP PARALYSIS DEMON](https://open.spotify.com/album/6VaeeTZaX6qAcG0iJWTnNj) | 2:34 | 2023-12-08 | 2024-07-11 |
@@ -518,6 +523,7 @@
 | [Typical Me](https://open.spotify.com/track/7qHwYBcgT5UFchyGXFyifq) | [kroh](https://open.spotify.com/artist/6IOp54e0ZK9Ccnb8WUIeUa) | [Unfinished Symphony](https://open.spotify.com/album/5QmoeSOvBYGuSLQcd0tzk7) | 3:06 | 2022-05-17 | 2024-01-27 |
 | [Under My Skin](https://open.spotify.com/track/5oiZiF3fBLHqgTDaH0Pj7M) | [Jukebox The Ghost](https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4) | [Let Live & Let Ghosts](https://open.spotify.com/album/0zQxOFhjixRmW1w6LftIyX) | 3:19 | 2022-05-17 | 2022-12-10 |
 | [Underworld](https://open.spotify.com/track/7G7v5g0WC8E1RoidL43T6X) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/35TPXfDh8oqj7xpkaWhIKJ) | 3:20 | 2025-10-31 |  |
+| [Unicorn](https://open.spotify.com/track/2vfhsZ9jm2ncXDV8MrFR7X) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Tales of a Failed Shapeshifter](https://open.spotify.com/album/2RL64278RxtHMgDH04qzex) | 2:28 | 2026-02-27 |  |
 | [Unsweetened Lemonade](https://open.spotify.com/track/0hjTOj4u1cLwPov4fqevnw) | [Amélie Farren](https://open.spotify.com/artist/6xRbdqe7I2llmjw533rYnG) | [Unsweetened Lemonade](https://open.spotify.com/album/1ybx1ljq27DWJqYxm1rn5R) | 2:24 | 2024-05-26 |  |
 | [Us and Pigs](https://open.spotify.com/track/4SmhvwAHcPS07SfLUSOJnt) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Us and Pigs](https://open.spotify.com/album/0qoWzc62jWceify6jMxXDt) | 2:54 | 2023-01-20 | 2023-12-30 |
 | [Using You](https://open.spotify.com/track/11jVnpAewcZnIdLsq0BKJF) | [Mars Argo](https://open.spotify.com/artist/3WFBuQFguwRNZcPyQrtBEU) | [Using You](https://open.spotify.com/album/7B2LAN3VRvXFBX8EgSotfo) | 3:28 | 2023-11-15 | 2025-03-22 |

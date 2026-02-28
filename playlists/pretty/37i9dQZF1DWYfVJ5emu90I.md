@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,177 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,182 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 19 | [WANNABE GONNABE](https://open.spotify.com/track/5zxzoyrzAWVzL7kMJm8DFe) | [möshigigam](https://open.spotify.com/artist/4CHEhTO2cv2o161swhcPQR) | [WANNABE GONNABE](https://open.spotify.com/album/7vJGsCv3emtWksRNzyMA0f) | 3:18 |
 | 20 | [Selfish](https://open.spotify.com/track/44WuchXFmBX72dU65OAhdg) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Selfish](https://open.spotify.com/album/6F0eQIfRBLiX1ZmDNnn8uc) | 3:44 |
 | 21 | [Dive](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dive](https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2) | 2:39 |
-| 22 | [KAWASAKI \(with Felip & thủy\)](https://open.spotify.com/track/37ifPBg9M2NzlRNHe9WUIy) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA), [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [KAWASAKI \(with Felip & thủy\)](https://open.spotify.com/album/5VY9bSLF9Dy2kUj4jlL3n2) | 2:10 |
-| 23 | [RASEN in OKINAWA](https://open.spotify.com/track/7d5uA21GZEzdlnyP251Ou0) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [098RADIO vol.1 Hosted by Awich](https://open.spotify.com/album/3pI2uSbHBV35jRs5QsZyEs) | 4:49 |
+| 22 | [RASEN in OKINAWA](https://open.spotify.com/track/7d5uA21GZEzdlnyP251Ou0) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [098RADIO vol.1 Hosted by Awich](https://open.spotify.com/album/3pI2uSbHBV35jRs5QsZyEs) | 4:49 |
+| 23 | [KAWASAKI \(with Felip & thủy\)](https://open.spotify.com/track/37ifPBg9M2NzlRNHe9WUIy) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA), [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [KAWASAKI \(with Felip & thủy\)](https://open.spotify.com/album/5VY9bSLF9Dy2kUj4jlL3n2) | 2:10 |
 | 24 | [TRAUMA \(feat\. ralph\)](https://open.spotify.com/track/49MTwYpaPShEqqn4amf0AE) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [DESTRUCTION](https://open.spotify.com/album/6J2XUL32G6s74SoTCmURpD) | 2:54 |
 | 25 | [MORIAGE](https://open.spotify.com/track/0bL8mRYXWsoUz4XJwoebf1) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [MORIAGE](https://open.spotify.com/album/1LQxQn7UrFPcv1yfUoVpeU) | 4:10 |
 | 26 | [Kick Up \(feat\. ralph\)](https://open.spotify.com/track/4aZpjruA4GGvDNH9XwXaXc) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Kick Up \(feat\. ralph\)](https://open.spotify.com/album/0VTOiRW8jyQiTFXZP8fcsT) | 3:07 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 46 | [POP KILLERS \(feat\. ralph\)](https://open.spotify.com/track/6tjAXcxgDNtkvaXFUXDUQC) | [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [POP KILLERS \(feat\. ralph\)](https://open.spotify.com/album/06l8AppEOLd6MaxxqAcLf5) | 2:39 |
 | 47 | [RAKURAI](https://open.spotify.com/track/1w062ZFlKViaWMFkbxJRF3) | [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [GUNJO](https://open.spotify.com/album/4B1SD47qfhR8pDJIPd97V6) | 2:44 |
 | 48 | [Very Very Rare](https://open.spotify.com/track/6bJZtj9x7G9VNVB2VslkQJ) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [lj](https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez) | [New Stars Swag](https://open.spotify.com/album/78MusSj7gCs8daCm2CRfS1) | 3:16 |
-| 49 | [Hot Rodder](https://open.spotify.com/track/31vWGyuri51ShwvgZ801WD) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [Hot Rodder](https://open.spotify.com/album/4SiEuOz8dE9Padpu7Woq85) | 2:57 |
-| 50 | [Don't](https://open.spotify.com/track/0SYgPi0sgpjurZ3zc9w7CM) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Don't](https://open.spotify.com/album/7AIF17humOKTJLYA3g7x0h) | 3:02 |
+| 49 | [Don't](https://open.spotify.com/track/0SYgPi0sgpjurZ3zc9w7CM) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Don't](https://open.spotify.com/album/7AIF17humOKTJLYA3g7x0h) | 3:02 |
+| 50 | [Hot Rodder](https://open.spotify.com/track/31vWGyuri51ShwvgZ801WD) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [Hot Rodder](https://open.spotify.com/album/4SiEuOz8dE9Padpu7Woq85) | 2:57 |
 
 Snapshot ID: `AAAAAO+RPBZm0xZUuPb3T3tnLz4dkj0P`

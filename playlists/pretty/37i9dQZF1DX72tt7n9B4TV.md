@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 
 > TURNSTILE SUMMER
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,003 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,001 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 69 | [Love On The Outside](https://open.spotify.com/track/1HS1Q38mPX3iAP66gTHt6E) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Triple Seven](https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf) | 3:58 |
 | 70 | [Paint A Picture](https://open.spotify.com/track/4utuVAGRIGr2rZ4RNOsToh) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Paint A Picture](https://open.spotify.com/album/6GAwsYJC09D75uOSpkAdWM) | 2:48 |
 | 71 | [Nobody’s](https://open.spotify.com/track/3WBFG43oD1qU3yJSDjQJ2O) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Spiral In A Straight Line](https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC) | 2:15 |
-| 72 | [Sinking Feeling](https://open.spotify.com/track/3lTj6VhUedrKhpCsw5Rnbb) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Sinking Feeling](https://open.spotify.com/album/1BfIqHOVWRBcqzUUc4jIey) | 3:47 |
-| 73 | [Bored of Being Sad](https://open.spotify.com/track/77rk2TGUhxlWMLuQq4iIlV) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Let's Start Degeneracy](https://open.spotify.com/album/63F30pJnKvFr2kI9TK08dW) | 3:20 |
-| 74 | [sundays](https://open.spotify.com/track/1Wvl7G2pzy53umhn3RC05u) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [sundays](https://open.spotify.com/album/5oIO3BuotbdFVpulc9NUDi) | 3:51 |
+| 72 | [Bored of Being Sad](https://open.spotify.com/track/77rk2TGUhxlWMLuQq4iIlV) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Let's Start Degeneracy](https://open.spotify.com/album/63F30pJnKvFr2kI9TK08dW) | 3:20 |
+| 73 | [sundays](https://open.spotify.com/track/1Wvl7G2pzy53umhn3RC05u) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [sundays](https://open.spotify.com/album/5oIO3BuotbdFVpulc9NUDi) | 3:51 |
+| 74 | [Sinking Feeling](https://open.spotify.com/track/3lTj6VhUedrKhpCsw5Rnbb) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Sinking Feeling](https://open.spotify.com/album/1BfIqHOVWRBcqzUUc4jIey) | 3:47 |
 | 75 | [Can EU Hear Me?](https://open.spotify.com/track/7LUVmUWiSvtI2tJvYHFRAs) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [There Goes The Neighbourhood](https://open.spotify.com/album/3o6ih9edQcACGSYAW6eXTb) | 2:58 |
 | 76 | [I Just Do!](https://open.spotify.com/track/3bcLNMckHtoZ3Gds38DSlR) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [Sweetness](https://open.spotify.com/album/00CNmHlBN88lF6nc7NYPaF) | 3:09 |
 | 77 | [You're So Impatient](https://open.spotify.com/track/2kqc0DW78CyMemrXnK0PQA) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [The Night the Zombies Came](https://open.spotify.com/album/2kL3JicKZpvBfIeDeDPDUX) | 2:08 |

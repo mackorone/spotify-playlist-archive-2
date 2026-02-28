@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 970,590 likes - 40 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 970,664 likes - 40 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 34 | [THIS FEELING](https://open.spotify.com/track/7oncLeIzUPgJf4a6jm1c3e) | [DJ Anemia](https://open.spotify.com/artist/6vvNcm1On2wFwZNXB63a7B), [crier](https://open.spotify.com/artist/3pxK1rdoF4Swqd00UH6wCl), [sixnite](https://open.spotify.com/artist/1Yo7tf6JFEfruQgejOLkFk) | [THIS FEELING](https://open.spotify.com/album/4QbF9gd2zeyd3Vxg29NbWS) | 2:02 |
 | 35 | [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:51 |
 | 36 | [PSL \- Slowed](https://open.spotify.com/track/2LAYBsmfObMC0IPUHmvDav) | [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4) | [PSL](https://open.spotify.com/album/4hhb7OlsPwdMK0gqpHkrMq) | 2:21 |
-| 37 | [MONTAGEM TOMADA](https://open.spotify.com/track/2UEyo3ufg8DvO0zYMJWG7R) | [MXZI](https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y) | [MONTAGEM TOMADA](https://open.spotify.com/album/40m2KxQUQNQANattrHt9vZ) | 1:11 |
-| 38 | [Crystals](https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d) | [Isolate.exe](https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI) | [Crystals](https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS) | 2:19 |
-| 39 | [WAKE UP!](https://open.spotify.com/track/4B8gtpBuEtU9XUizl6BK2W) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [WAKE UP!](https://open.spotify.com/album/7GkHQdfJDCvcGaIVlfc39l) | 2:22 |
+| 37 | [Crystals](https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d) | [Isolate.exe](https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI) | [Crystals](https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS) | 2:19 |
+| 38 | [WAKE UP!](https://open.spotify.com/track/4B8gtpBuEtU9XUizl6BK2W) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [WAKE UP!](https://open.spotify.com/album/7GkHQdfJDCvcGaIVlfc39l) | 2:22 |
+| 39 | [Shake That Bunda](https://open.spotify.com/track/7uWIyd4hf5UYIOxBMFRT1S) | [Fantasm](https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy), [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [Shake That Bunda](https://open.spotify.com/album/08GthPNa2ax2Kv7O5Kv5lL) | 2:40 |
 | 40 | [GHOST!](https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [KIIXSHI](https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh) | [GHOST!](https://open.spotify.com/album/0TwAp1jAUFp1PQtdDlDDW3) | 3:51 |
 
 Snapshot ID: `AAAAALRBthNUVWU9otCAeSgdHoj2vET4`

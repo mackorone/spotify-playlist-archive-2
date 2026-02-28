@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: WIktoria Kida, Oskar Cyms
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,343 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,412 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 9 | [Anioły \(Pojedynek\)](https://open.spotify.com/track/2FPk6E4BfCsdJ4esqT6bVv) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX), [Julia Pietrucha](https://open.spotify.com/artist/5gSWboNBgJZ060m1r30Xmg) | [Anioły \(Pojedynek\)](https://open.spotify.com/album/6Y1mNv6Zlfkh8U7H2jabST) | 4:42 |
 | 10 | [To nie koniec](https://open.spotify.com/track/7u1mfYq6nRZmD4F9iumOy8) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [To nie koniec](https://open.spotify.com/album/7MJf5dvbXttoVqkcxWxDcM) | 3:11 |
 | 11 | [W to mi graj](https://open.spotify.com/track/3s2tBiOaWfZnd97WEoL7ID) | [Ania Karwan](https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4) | [W to mi graj](https://open.spotify.com/album/24fRidH4T3GIwjfFiS6VEc) | 3:09 |
-| 12 | [Track 16](https://open.spotify.com/track/2HfLL3o1N1vfVRC1aRf3Zf) | [WERSOW](https://open.spotify.com/artist/1FIoGhkDJAWOqXT1I85GRC) | [MATKA IDOLKA](https://open.spotify.com/album/0RDsMMJPhAPZ0horpR7HMF) | 0:00 |
+| 12 | [SANTORINI](https://open.spotify.com/track/2HfLL3o1N1vfVRC1aRf3Zf) | [WERSOW](https://open.spotify.com/artist/1FIoGhkDJAWOqXT1I85GRC), [kuqe 2115](https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf) | [MATKA IDOLKA](https://open.spotify.com/album/0RDsMMJPhAPZ0horpR7HMF) | 2:17 |
 | 13 | [Odpowiedni moment](https://open.spotify.com/track/4WnJ8tdQhBWGDEHKm6y40h) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Odpowiedni moment](https://open.spotify.com/album/7lgIBV8MkGZg6u6twshy0e) | 3:14 |
 | 14 | [NIE CHCESZ WIEDZIEĆ](https://open.spotify.com/track/4xKjBNiwqtM9aZwTvQzELZ) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [NIE CHCESZ WIEDZIEĆ](https://open.spotify.com/album/768fNhsYEhPQvtr23aUdTF) | 2:22 |
 | 15 | [Niech żyje bal](https://open.spotify.com/track/2pXPUEjpV3LCkK9rv0djby) | [Maryla Rodowicz](https://open.spotify.com/artist/1IYFJPQcbXYjgkyebYs1w6), [Błażej Król](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4), [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX), [Misia Furtak](https://open.spotify.com/artist/1gHY7d1BsJjxJ1VjAnqm5M) | [Niech żyje bal](https://open.spotify.com/album/3dqGcvAwa84vGvmnersJxN) | 3:58 |

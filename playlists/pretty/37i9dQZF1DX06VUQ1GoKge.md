@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 
 > Don’t Sweat It!
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,569 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,573 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,14 +53,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 43 | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/track/4AFjPeecGnS3999PV5iOSK) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt), [Marina Viotti](https://open.spotify.com/artist/79i3gkVE8U1ff8X4TRX7y4), [Victor Le Masne](https://open.spotify.com/artist/73HYvBYbBoXKmDEzsM27RI) | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/album/4k6UKb3mWQcQ5yEiyi43DT) | 2:53 |
 | 44 | [Twilight Of The Thunder God](https://open.spotify.com/track/5u3l2TONYacJgmRPQVaF9y) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Twilight Of The Thunder God](https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz) | 4:08 |
 | 45 | [Genocidal Humanoidz](https://open.spotify.com/track/3Sg3bOiD0kE4D5DcXk48Ds) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 2:35 |
-| 46 | [Kool\-Aid](https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Kool\-Aid](https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut) | 3:48 |
+| 46 | [War Eternal](https://open.spotify.com/track/0WZZENH0kt3O2cBE8q5IRq) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 4:16 |
 | 47 | [Prey](https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 4:15 |
-| 48 | [War Eternal](https://open.spotify.com/track/0WZZENH0kt3O2cBE8q5IRq) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 4:16 |
+| 48 | [Kool\-Aid](https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Kool\-Aid](https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut) | 3:48 |
 | 49 | [You Only Live Once](https://open.spotify.com/track/4Ku3OOZWR4tpKNCVFXILY8) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [The Black Crown](https://open.spotify.com/album/3oJKuFPVZTSeNc8G4UYV4L) | 3:12 |
 | 50 | [Blacklist](https://open.spotify.com/track/3iUJrkMilUVkUKtYZK7Th4) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Tempo of the Damned](https://open.spotify.com/album/3sNPwtcV7Xv9CixCk0PpqP) | 6:16 |
-| 51 | [Teardrops](https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Teardrops](https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4) | 3:35 |
+| 51 | [War Ensemble](https://open.spotify.com/track/1E0yt5XSdjE9NOu897RilW) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Seasons In The Abyss](https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT) | 4:51 |
 | 52 | [Vice Grip](https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire](https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D) | 4:23 |
-| 53 | [War Ensemble](https://open.spotify.com/track/1E0yt5XSdjE9NOu897RilW) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Seasons In The Abyss](https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT) | 4:51 |
+| 53 | [Teardrops](https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Teardrops](https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4) | 3:35 |
 | 54 | [Soft Spine](https://open.spotify.com/track/3t5GlWUzGSt2lPuiSEPBFG) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Soft Spine](https://open.spotify.com/album/54Upk1Q8DmVaMR2MrOvoiR) | 3:03 |
 | 55 | [Hated](https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Aggressive](https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ) | 3:31 |
 | 56 | [Out Of Style](https://open.spotify.com/track/06nmwVr0Ev16QnVXsQXSf1) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:22 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 96 | [CMFT Must Be Stopped \(feat\. Tech N9ne and Kid Bookie\)](https://open.spotify.com/track/6fGw5N35sPLcmyN5T3XRv7) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV) | [Black Eyes Blue / CMFT Must Be Stopped \(feat\. Tech N9ne and Kid Bookie\)](https://open.spotify.com/album/6cflFZCSRgkhzBUguQrsJy) | 5:14 |
 | 97 | [Dante](https://open.spotify.com/track/6jjx1KvWK4OAzD0JimzHiY) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Dante](https://open.spotify.com/album/5BC58VTUf4aaoGVkjhtx9U) | 5:46 |
 | 98 | [Black Hole](https://open.spotify.com/track/3rjgOeWUEth90mFVR82WtG) | [Betraying The Martyrs](https://open.spotify.com/artist/4tEWLl4loWFLgs25trNnro) | [Black Hole](https://open.spotify.com/album/6lhq5amVK8LmVJmF8DUNuB) | 3:51 |
-| 99 | [Spike in My Veins](https://open.spotify.com/track/1wzZLs3oFoMcSbf1nEzhLm) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Paradigm Shift \(Deluxe\)](https://open.spotify.com/album/6TA5d51wosfWuZXyOKWzpG) | 4:24 |
-| 100 | [Handshake with Hell](https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Handshake with Hell](https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV) | 5:38 |
+| 99 | [Handshake with Hell](https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Handshake with Hell](https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV) | 5:38 |
+| 100 | [Spike in My Veins](https://open.spotify.com/track/1wzZLs3oFoMcSbf1nEzhLm) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Paradigm Shift \(Deluxe\)](https://open.spotify.com/album/6TA5d51wosfWuZXyOKWzpG) | 4:24 |
 
 Snapshot ID: `AAAAABlBCrn3yP9OHHwSeYRls8gSyi/x`

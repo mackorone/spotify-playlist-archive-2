@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 
 > This is Megan Thee Stallion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,368 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,412 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 42 | [Cobra \(Rock Remix\) \[feat\. Spiritbox\]](https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cobra \(Rock Remix\) \[feat\. Spiritbox\]](https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y) | 3:06 |
 | 43 | [Ungrateful \(feat\. Key Glock\)](https://open.spotify.com/track/6vA7RdHmU23h3ygUPPFXz5) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:34 |
 | 44 | [Hot Girl](https://open.spotify.com/track/2Xc9MR2NMc5IKPFKaEjt1k) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Tina Snow](https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN) | 3:16 |
-| 45 | [Hot Girl Summer \(feat\. Nicki Minaj & Ty Dolla $ign\)](https://open.spotify.com/track/5N1o6d8zGcSZSeMFkOUQOk) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Hot Girl Summer \(feat\. Nicki Minaj & Ty Dolla $ign\)](https://open.spotify.com/album/2Xqs4kJBrZAHN1XVqy9QOK) | 3:19 |
-| 46 | [Right Now](https://open.spotify.com/track/6qzZLA8bDM3wsAzTK4PvSX) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN: ACT II](https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR) | 2:52 |
+| 45 | [Right Now](https://open.spotify.com/track/6qzZLA8bDM3wsAzTK4PvSX) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN: ACT II](https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR) | 2:52 |
+| 46 | [Hot Girl Summer \(feat\. Nicki Minaj & Ty Dolla $ign\)](https://open.spotify.com/track/5N1o6d8zGcSZSeMFkOUQOk) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Hot Girl Summer \(feat\. Nicki Minaj & Ty Dolla $ign\)](https://open.spotify.com/album/2Xqs4kJBrZAHN1XVqy9QOK) | 3:19 |
 | 47 | [Budget \(feat\. Latto\)](https://open.spotify.com/track/3BFxkzhkESwALQxjxOVFgJ) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 3:21 |
 | 48 | [Freak Nasty](https://open.spotify.com/track/4rd4bY5IzC4AN6NdgYGtWD) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Tina Snow](https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN) | 2:53 |
 | 49 | [HOW I LOOK \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/5JeRMplL0U8IWbC3ZTaxLX) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 1:58 |
 | 50 | [RNB \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/0hng8bySwA3wbhPNeSg7Mo) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Rich Slave](https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY) | 3:31 |
 
-Snapshot ID: `aZ47gAAAAAA+OPafP6MS/1XejOeEh/Zg`
+Snapshot ID: `aZ+NAAAAAAB+IHb85WX8Oq8qy5RXtcos`

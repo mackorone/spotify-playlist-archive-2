@@ -1,13 +1,265 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Mumford & Sons",
-  "num_followers": 869685,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Bill Callahan",
+  "num_followers": 869962,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI4WTBiO+1NwKu1Uo96ex6+tSyJr",
+  "snapshot_id": "AAAAAKRZ+vhq0wl0J/8i+Cw0XNoVP1kF",
   "tracks": [
+    {
+      "added_at": "2026-02-27 05:00:30",
+      "album": {
+        "name": "My Days of 58",
+        "url": "https://open.spotify.com/album/497p1j3P9Xzlb7vXay7tNl"
+      },
+      "artists": [
+        {
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
+        }
+      ],
+      "duration_ms": 418617,
+      "name": "Why Do Men Sing",
+      "url": "https://open.spotify.com/track/3XOapyiO6vB1v6k9KqHz2O"
+    },
+    {
+      "added_at": "2026-02-27 05:00:30",
+      "album": {
+        "name": "Can I Mend It?",
+        "url": "https://open.spotify.com/album/4iZBTCva0s1ngT4MpBUiUe"
+      },
+      "artists": [
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
+        }
+      ],
+      "duration_ms": 236292,
+      "name": "Can I Mend It?",
+      "url": "https://open.spotify.com/track/6G4dGhbdRJoOWysoFPJX7O"
+    },
+    {
+      "added_at": "2026-02-27 05:00:30",
+      "album": {
+        "name": "Hen's Teeth",
+        "url": "https://open.spotify.com/album/4v7qrSwfjkEKu4hd1OwwvN"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        },
+        {
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        }
+      ],
+      "duration_ms": 225231,
+      "name": "Wait Up (feat. I'm With Her)",
+      "url": "https://open.spotify.com/track/4bKT1G7Q6kInM0idAtnP3p"
+    },
+    {
+      "added_at": "2026-02-27 05:00:30",
+      "album": {
+        "name": "A Perfect Storm",
+        "url": "https://open.spotify.com/album/2zcG8CLrB1510937KfbsVK"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 184453,
+      "name": "A Perfect Storm",
+      "url": "https://open.spotify.com/track/2VooUVWfcwhJA780U5yNa2"
+    },
+    {
+      "added_at": "2026-02-27 05:00:30",
+      "album": {
+        "name": "(Looking Through) Rose Colored Glasses",
+        "url": "https://open.spotify.com/album/1jxeJvg5kOtCFSvdblJVoe"
+      },
+      "artists": [
+        {
+          "name": "Mikaela Davis",
+          "url": "https://open.spotify.com/artist/6CbL78A3tB1CPFoduF7UM5"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 215497,
+      "name": "(Looking Through) Rose Colored Glasses",
+      "url": "https://open.spotify.com/track/0fp9X7zv7W75w5mQSFMwYu"
+    },
+    {
+      "added_at": "2026-02-27 05:00:30",
+      "album": {
+        "name": "Human Kind feat. Tenille Townes",
+        "url": "https://open.spotify.com/album/6fWqZwgFXeMO3kBw7Br0Eb"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        },
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 220926,
+      "name": "Human Kind (ft. Tenille Townes)",
+      "url": "https://open.spotify.com/track/1IP2Zb26WLB4J3KJN0Jvhi"
+    },
+    {
+      "added_at": "2026-02-27 05:00:30",
+      "album": {
+        "name": "Squander Your Gifts",
+        "url": "https://open.spotify.com/album/7IjSNJnrtWq2OBTcbjBk4G"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "duration_ms": 169581,
+      "name": "These Things Happen",
+      "url": "https://open.spotify.com/track/0BJpJFEPnEHKro9KLNeKKh"
+    },
+    {
+      "added_at": "2026-02-27 05:00:30",
+      "album": {
+        "name": "The Blade",
+        "url": "https://open.spotify.com/album/0f9qhfxa46I2abFLjsEjqc"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "The Blade",
+      "url": "https://open.spotify.com/track/4xlkVxykYvk6i7Co32lMDS"
+    },
+    {
+      "added_at": "2026-02-27 05:00:30",
+      "album": {
+        "name": "Mirror Mirror",
+        "url": "https://open.spotify.com/album/7zMy45aBD1zFWQZPhOwsB0"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 249339,
+      "name": "Mirror Mirror",
+      "url": "https://open.spotify.com/track/15qShm1xxxFm7kXh6yH9Sj"
+    },
+    {
+      "added_at": "2026-02-27 05:00:30",
+      "album": {
+        "name": "Won't Stop Loving You",
+        "url": "https://open.spotify.com/album/25FHg8pLTuHQFDRvbQfwS2"
+      },
+      "artists": [
+        {
+          "name": "Georgia Gets By",
+          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
+        }
+      ],
+      "duration_ms": 182370,
+      "name": "Won't Stop Loving You",
+      "url": "https://open.spotify.com/track/0U4BKwfruydIlZLDGqKwXW"
+    },
+    {
+      "added_at": "2026-02-27 05:00:30",
+      "album": {
+        "name": "Zillow",
+        "url": "https://open.spotify.com/album/4XeHxmpacyud0mOmfnElPJ"
+      },
+      "artists": [
+        {
+          "name": "Sluice",
+          "url": "https://open.spotify.com/artist/2G2lzG0hD7813EiPyiCC4j"
+        }
+      ],
+      "duration_ms": 192497,
+      "name": "Zillow",
+      "url": "https://open.spotify.com/track/1AVt5OrrvNz3pX8nmeycFv"
+    },
+    {
+      "added_at": "2026-02-27 05:00:30",
+      "album": {
+        "name": "The Market",
+        "url": "https://open.spotify.com/album/0A5jWrqY9HIv2u4lsClE93"
+      },
+      "artists": [
+        {
+          "name": "Oliver Hazard",
+          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
+        }
+      ],
+      "duration_ms": 240186,
+      "name": "The Market",
+      "url": "https://open.spotify.com/track/087ExK4nUghsluco3jU4DY"
+    },
+    {
+      "added_at": "2026-02-27 05:00:30",
+      "album": {
+        "name": "Seven Brides",
+        "url": "https://open.spotify.com/album/69Aznje5U5K8fM2L1arlj3"
+      },
+      "artists": [
+        {
+          "name": "Jackie Evans",
+          "url": "https://open.spotify.com/artist/3hr95JCfCIlFRK9EmDFJ3R"
+        }
+      ],
+      "duration_ms": 178848,
+      "name": "Seven Brides",
+      "url": "https://open.spotify.com/track/4dhdWFf4aWA0sI7xZdwOqB"
+    },
+    {
+      "added_at": "2026-02-27 05:00:30",
+      "album": {
+        "name": "Blue Rider, Blue Faced",
+        "url": "https://open.spotify.com/album/5aMb0lWLkrRnwmc1eH3Llr"
+      },
+      "artists": [
+        {
+          "name": "Fiona Fiasco",
+          "url": "https://open.spotify.com/artist/77Sy5Zgnd5KHzbsqKW6few"
+        }
+      ],
+      "duration_ms": 205923,
+      "name": "Blue Rider, Blue Faced",
+      "url": "https://open.spotify.com/track/6HSuf0rKOtvGv1yhNSsBXK"
+    },
+    {
+      "added_at": "2026-02-27 05:00:30",
+      "album": {
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/7L72HTWpcLkW05Ak1GoCag"
+      },
+      "artists": [
+        {
+          "name": "Maria BC",
+          "url": "https://open.spotify.com/artist/1GRdVyqsikMsJrvHskjwry"
+        }
+      ],
+      "duration_ms": 200746,
+      "name": "Rare",
+      "url": "https://open.spotify.com/track/2Z42tEaq49iNuQ2jAtVgGs"
+    },
     {
       "added_at": "2026-02-20 19:09:04",
       "album": {
@@ -2199,258 +2451,6 @@
       "duration_ms": 197963,
       "name": "January",
       "url": "https://open.spotify.com/track/6PezZtCN7RCDHjSAsj01fP"
-    },
-    {
-      "added_at": "2025-12-19 05:00:26",
-      "album": {
-        "name": "Nowhere",
-        "url": "https://open.spotify.com/album/3Yl6iLaSNTi4E0yilc1YHk"
-      },
-      "artists": [
-        {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
-        }
-      ],
-      "duration_ms": 199542,
-      "name": "Nowhere",
-      "url": "https://open.spotify.com/track/3qhupcUlxypKHUWujBzJ81"
-    },
-    {
-      "added_at": "2025-12-19 05:00:26",
-      "album": {
-        "name": "Catching A Snowflake",
-        "url": "https://open.spotify.com/album/3K5FeHF5EUMo5VfMwdGIOe"
-      },
-      "artists": [
-        {
-          "name": "Rosie Darling",
-          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Kissin\u2019 In The Cold",
-      "url": "https://open.spotify.com/track/0hjtNWa0QAHOBQjeMdWY6W"
-    },
-    {
-      "added_at": "2025-12-19 05:00:26",
-      "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/56EDhX6NgpJ7BTmkKzqnH7"
-      },
-      "artists": [
-        {
-          "name": "Thomas LaVine",
-          "url": "https://open.spotify.com/artist/2T7YLT9nMnXlnW0UjJBN70"
-        }
-      ],
-      "duration_ms": 183857,
-      "name": "Already Gone",
-      "url": "https://open.spotify.com/track/3V0LlS1digy1Lm9P2pRmC3"
-    },
-    {
-      "added_at": "2025-12-19 05:00:26",
-      "album": {
-        "name": "Bargaining",
-        "url": "https://open.spotify.com/album/08yLEdKzlgvqzV6w4k6KWK"
-      },
-      "artists": [
-        {
-          "name": "Theo Bleak",
-          "url": "https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk"
-        }
-      ],
-      "duration_ms": 173946,
-      "name": "Finest Work",
-      "url": "https://open.spotify.com/track/0ry7byytV1WoXLtUreDvDU"
-    },
-    {
-      "added_at": "2025-12-19 05:00:26",
-      "album": {
-        "name": "vintage",
-        "url": "https://open.spotify.com/album/3g7NJhynRjo9HcRFdkFXgF"
-      },
-      "artists": [
-        {
-          "name": "Camila Luna",
-          "url": "https://open.spotify.com/artist/1aMXU2xuC6FdOyD7SFdL3X"
-        }
-      ],
-      "duration_ms": 229914,
-      "name": "vintage",
-      "url": "https://open.spotify.com/track/3PHgXZUBabnnLK17VxZ8AY"
-    },
-    {
-      "added_at": "2025-12-19 05:00:26",
-      "album": {
-        "name": "If It Isn't Killing Me (feat. Annika Kilkenny)",
-        "url": "https://open.spotify.com/album/5PBIibAyk70PgXS2HTSfvd"
-      },
-      "artists": [
-        {
-          "name": "Liang Lawrence",
-          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
-        },
-        {
-          "name": "Annika Kilkenny",
-          "url": "https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx"
-        }
-      ],
-      "duration_ms": 205797,
-      "name": "If It Isn't Killing Me (feat. Annika Kilkenny)",
-      "url": "https://open.spotify.com/track/1gEv5hHQoblVo4awmgKODX"
-    },
-    {
-      "added_at": "2025-12-12 05:00:43",
-      "album": {
-        "name": "Prizefighter",
-        "url": "https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 209733,
-      "name": "Prizefighter",
-      "url": "https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK"
-    },
-    {
-      "added_at": "2025-12-12 05:00:43",
-      "album": {
-        "name": "Old Fort Steel Trail",
-        "url": "https://open.spotify.com/album/7larsH6AfaDqGW4y4JBx5a"
-      },
-      "artists": [
-        {
-          "name": "Mon Rov\u00eea",
-          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
-        }
-      ],
-      "duration_ms": 149435,
-      "name": "Old Fort Steel Trail",
-      "url": "https://open.spotify.com/track/4kcsDPAER6xQl8WFyWP1gr"
-    },
-    {
-      "added_at": "2025-12-12 05:00:43",
-      "album": {
-        "name": "What You Wanted",
-        "url": "https://open.spotify.com/album/2fJno4Qv16cHFR0dWGoMTh"
-      },
-      "artists": [
-        {
-          "name": "Steinza",
-          "url": "https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD"
-        }
-      ],
-      "duration_ms": 191520,
-      "name": "What You Wanted",
-      "url": "https://open.spotify.com/track/2jQlFhPoWdcxD7TEK5C75u"
-    },
-    {
-      "added_at": "2025-12-12 05:00:43",
-      "album": {
-        "name": "Personified",
-        "url": "https://open.spotify.com/album/4QjQZhAuJUSt7busfeDsrc"
-      },
-      "artists": [
-        {
-          "name": "Cece Coakley",
-          "url": "https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN"
-        }
-      ],
-      "duration_ms": 189147,
-      "name": "Personified",
-      "url": "https://open.spotify.com/track/4yd4nDCAiHzeu0BsetmtFN"
-    },
-    {
-      "added_at": "2025-12-12 05:00:43",
-      "album": {
-        "name": "No Kings (feat. Joan Baez)",
-        "url": "https://open.spotify.com/album/6XJBVOUONYdjZWLio9emIz"
-      },
-      "artists": [
-        {
-          "name": "Jesse Welles",
-          "url": "https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ"
-        },
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 171706,
-      "name": "No Kings (feat. Joan Baez)",
-      "url": "https://open.spotify.com/track/3TQeJtbJjv8Q4V0a7f5NvT"
-    },
-    {
-      "added_at": "2025-12-12 05:00:43",
-      "album": {
-        "name": "Unlocks Me",
-        "url": "https://open.spotify.com/album/1fXWUMbvnd1ZpGvfUbLtwa"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 204243,
-      "name": "Unlocks Me",
-      "url": "https://open.spotify.com/track/59z7gCZXcS4O2CFsUuzzGy"
-    },
-    {
-      "added_at": "2025-12-12 05:00:43",
-      "album": {
-        "name": "but they were kissing",
-        "url": "https://open.spotify.com/album/64TZ8KxWKigUQofyIr8wb1"
-      },
-      "artists": [
-        {
-          "name": "Kevin Atwater",
-          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
-        }
-      ],
-      "duration_ms": 171256,
-      "name": "but they were kissing",
-      "url": "https://open.spotify.com/track/4U2BIDGojmXfdRcUgC3NGC"
-    },
-    {
-      "added_at": "2025-12-12 05:00:43",
-      "album": {
-        "name": "River (feat. Wesley Schultz)",
-        "url": "https://open.spotify.com/album/04WZsYj8FOW7U8xJ9zFA9N"
-      },
-      "artists": [
-        {
-          "name": "Shovels & Rope",
-          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
-        },
-        {
-          "name": "Wesley Schultz",
-          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
-        }
-      ],
-      "duration_ms": 208253,
-      "name": "River (feat. Wesley Schultz)",
-      "url": "https://open.spotify.com/track/5J1PGd1J1KBC71wYiDinRp"
-    },
-    {
-      "added_at": "2025-12-12 05:00:43",
-      "album": {
-        "name": "Tripping Over Time",
-        "url": "https://open.spotify.com/album/0Qv7CQ2vU9vcUqqcODFs4i"
-      },
-      "artists": [
-        {
-          "name": "Boy & Bear",
-          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
-        }
-      ],
-      "duration_ms": 176335,
-      "name": "Ancestors",
-      "url": "https://open.spotify.com/track/4dxgtby0I8aUiN46PaxwIH"
     }
   ],
   "unique_name": "Fresh Folk",

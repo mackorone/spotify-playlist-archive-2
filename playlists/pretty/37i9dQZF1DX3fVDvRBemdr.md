@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste releases Hollands & Volks\. Cover: Wesly Bronkhorst, Brace, Billy Dans & Poke
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,912 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,992 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

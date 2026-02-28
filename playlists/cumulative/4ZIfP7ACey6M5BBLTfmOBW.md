@@ -4,7 +4,7 @@
 
 > All the freshest hip\-hop heaters in one list! Cover: A$AP Rocky.
 
-896 songs - 1 day 17 hr 44 min
+899 songs - 1 day 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -639,6 +639,7 @@
 | [Plenty Guns](https://open.spotify.com/track/29gNXaDSlzN4DJtjPjscIJ) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Plenty Guns](https://open.spotify.com/album/3LwKxNjZlZhnAq6sHZnYhS) | 1:26 | 2024-06-07 | 2024-08-24 |
 | [Plenty Motion](https://open.spotify.com/track/4UVZFD5h5RPoTjl1ExmxSe) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Dlow Curry \(Deluxe\)](https://open.spotify.com/album/6GuthNCWjSFsAFoKsnIBR7) | 1:55 | 2025-05-23 | 2025-08-02 |
 | [Poetry](https://open.spotify.com/track/3LUpZ1UXIp0xU5KZ8vIAcH) | [Maino](https://open.spotify.com/artist/20apXQGKM00jJTvYfyKwlb), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Poetry](https://open.spotify.com/album/2ymNS2YXhwg2akYRX1aL6A) | 4:13 | 2024-02-23 | 2024-04-19 |
+| [Pop Shit](https://open.spotify.com/track/2YbsFrxepUS7s3IGHjLLWn) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Pop Shit](https://open.spotify.com/album/2TSJIhXkxnkfqfIuhc1729) | 1:40 | 2026-02-27 |  |
 | [Pop That \(feat\. Lil Wayne\)](https://open.spotify.com/track/7tmeWuZzdU1HHM7ba03L2o) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Scarred B4 Fame](https://open.spotify.com/album/4JSRp5T76QCCo0TNVihYsm) | 3:29 | 2025-06-20 | 2025-11-08 |
 | [POS](https://open.spotify.com/track/42ADnFPhERC2Gy1BXb3ehv) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [POS](https://open.spotify.com/album/623ScMbAhkNmOvAUxpZzOT) | 1:49 | 2024-07-12 | 2024-09-14 |
 | [Pouring My Heart Out With Ink](https://open.spotify.com/track/2JYgNSkVO5PYiWhdWuCFdS) | [Roney](https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J) | [Pouring My Heart Out With Ink](https://open.spotify.com/album/7tXvYKcik314LDyvaKu8T5) | 2:32 | 2025-07-04 | 2025-09-20 |
@@ -651,6 +652,7 @@
 | [psych ward](https://open.spotify.com/track/1H8KqQB7p2pqSg4cGYTNMK) | [Scrim](https://open.spotify.com/artist/5VKvqCyBxqbaXUp8eK0aUy) | [via crucis](https://open.spotify.com/album/1vLWWwioeRV3DSCj2SB9Ra) | 3:05 | 2025-04-21 | 2025-05-31 |
 | [PUNK ROCKY](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [PUNK ROCKY](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 | 2026-01-09 |  |
 | [Purge](https://open.spotify.com/track/7zjOLqDc8l93vneZGva34P) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [If You Feel Lost](https://open.spotify.com/album/57ouj07UylieYoOrEPHxGt) | 2:01 | 2025-03-21 | 2025-05-03 |
+| [push the pipe](https://open.spotify.com/track/6B64s9LUjWse0rtS9A7oyU) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [HYPERYOUTH \(afterparty\)](https://open.spotify.com/album/3vIpUJFnNJgMwB4nygKtgV) | 3:08 | 2026-02-27 |  |
 | [Putting Ya Dine](https://open.spotify.com/track/3C9H7htrTDVHrP8BiB2f2r) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Putting Ya Dine](https://open.spotify.com/album/1EfvRoD67Fh0xHvMfeFrGo) | 2:59 | 2025-09-02 | 2025-09-27 |
 | [Putting Ya Dine](https://open.spotify.com/track/57TSLzWfZdQroiwtIFX97X) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Who Did The Body](https://open.spotify.com/album/4HOuHBKlSAkdpHf50kHMAH) | 2:59 | 2025-10-17 |  |
 | [Raincoat](https://open.spotify.com/track/07F3O6tfMJeEjFKO0j0ZW8) | [Pradabagshawty](https://open.spotify.com/artist/5IyinZYJjqYfHlgtdyUYnm) | [Raincoat](https://open.spotify.com/album/2y5Q38NapwY3I8ssjG48C1) | 1:49 | 2025-09-02 | 2025-09-09 |
@@ -809,6 +811,7 @@
 | [Thinking Of You](https://open.spotify.com/track/1lVJbunitVV2YBmlOCuJG7) | [Dave Blunts](https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j) | [Thinking Of You](https://open.spotify.com/album/2oHvIk5IL9sgqaZkuzfo9W) | 2:29 | 2025-02-14 | 2025-03-22 |
 | [Thought I Was Dead](https://open.spotify.com/track/6MrNG4o8vyJ0xmfIFKG3kB) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Thought I Was Dead](https://open.spotify.com/album/4IUCrwXucmLoVO6geJ3Vjr) | 2:28 | 2024-10-18 | 2024-12-14 |
 | [THROBBY](https://open.spotify.com/track/6ryBPn4MALM4IcZj9iPriQ) | [NADUH](https://open.spotify.com/artist/5voTUw1S7gRACJXVp3slwh) | [THROBBY](https://open.spotify.com/album/2V3S27WE1edWKHR8B6tZ0x) | 3:18 | 2024-10-04 | 2024-10-14 |
+| [Thug Love](https://open.spotify.com/track/7H0vjdxgl0aBWLC9IDFAGe) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG) | [Through Her Eyes](https://open.spotify.com/album/0gVsu04Wmbfa7bKaQIxTTk) | 2:46 | 2026-02-27 |  |
 | [TILL L4TE \(feat\. Pozer\)](https://open.spotify.com/track/3wZwJmK48mHwruBIK24oP2) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [TILL L4TE \(feat\. Pozer\)](https://open.spotify.com/album/3N7NAEQA0RxUxJSq0JOmd5) | 2:08 | 2025-05-23 | 2025-08-02 |
 | [Time Out](https://open.spotify.com/track/3EyKj3YyiJoyb4rnYfSfcD) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [PANIC](https://open.spotify.com/album/3kuA7IDrIq2FqIJXDoFeSZ) | 3:41 | 2023-12-08 | 2024-04-02 |
 | [TIMES](https://open.spotify.com/track/412SD87HdmZW1EsyAx74ts) | [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [One Day It Will All Make Sense](https://open.spotify.com/album/19Mm6euzUtEIpsTDkkjnsi) | 3:19 | 2025-03-07 | 2025-05-03 |

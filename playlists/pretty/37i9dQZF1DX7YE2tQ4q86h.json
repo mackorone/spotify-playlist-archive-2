@@ -1,13 +1,153 @@
 {
-  "description": "Charli xcx is having a main pop girl emergency!",
-  "num_followers": 222483,
+  "description": "BLACKPINK are having a main pop girl emergency!",
+  "num_followers": 222550,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPD8RLE6SZ4YBiDWENUzcbmaYOZs",
+  "snapshot_id": "AAAAAFCeDM88YAS3Wt/O5SALAmvn3Q14",
   "tracks": [
+    {
+      "added_at": "2026-02-27 05:00:35",
+      "album": {
+        "name": "DEADLINE",
+        "url": "https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 172992,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/43BJVWcBzHRIDaQCg7abnX"
+    },
+    {
+      "added_at": "2026-02-27 05:00:35",
+      "album": {
+        "name": "Lush Life (Spotify Singles)",
+        "url": "https://open.spotify.com/album/2km7Ivx2yjw61DfjgrJ5wQ"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "duration_ms": 181976,
+      "name": "Lush Life - Spotify Singles",
+      "url": "https://open.spotify.com/track/19vcdecWhQfCqf4KzEnlRj"
+    },
+    {
+      "added_at": "2025-10-17 04:00:35",
+      "album": {
+        "name": "Stateside + Zara Larsson",
+        "url": "https://open.spotify.com/album/553gwPPa6VUWikljMiQyGM"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "Stateside + Zara Larsson",
+      "url": "https://open.spotify.com/track/7tM3yPeSBxnIIQlkz22vId"
+    },
+    {
+      "added_at": "2026-02-27 05:00:35",
+      "album": {
+        "name": "KiLL iT QUEEN",
+        "url": "https://open.spotify.com/album/5YD2OXFbiw3S7kdL88p3X2"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "KiLL iT QUEEN",
+      "url": "https://open.spotify.com/track/0vEbs5wZEqnrTnRppLGZaU"
+    },
+    {
+      "added_at": "2026-02-27 05:00:35",
+      "album": {
+        "name": "OLD TECHNOLOGY",
+        "url": "https://open.spotify.com/album/6GkFvjqAuoIXk1SoAmG6Iw"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 159198,
+      "name": "OLD TECHNOLOGY",
+      "url": "https://open.spotify.com/track/02rYuBEPjNLm74mN9IxH0v"
+    },
+    {
+      "added_at": "2026-02-27 05:00:35",
+      "album": {
+        "name": "Ore",
+        "url": "https://open.spotify.com/album/0SiGD27Z9eblEQQMdpBCLK"
+      },
+      "artists": [
+        {
+          "name": "ena mori",
+          "url": "https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "19 Underground",
+      "url": "https://open.spotify.com/track/3AKzOFfv7b3WSuBmjFxMdp"
+    },
+    {
+      "added_at": "2026-02-27 05:00:35",
+      "album": {
+        "name": "What You Want",
+        "url": "https://open.spotify.com/album/0PWDYw8t6pEp4n8sFHZzOj"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        },
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/7J4dPn4Xg9Op0e8N2tjqkX"
+    },
+    {
+      "added_at": "2026-02-27 05:00:35",
+      "album": {
+        "name": "Adi\u00f3s",
+        "url": "https://open.spotify.com/album/6cQN4xp9wJ5fOuaVt2gVye"
+      },
+      "artists": [
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        },
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        }
+      ],
+      "duration_ms": 175029,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/3D4trADwg7QGGpFlLSLg48"
+    },
     {
       "added_at": "2026-02-13 05:00:31",
       "album": {
@@ -23,6 +163,22 @@
       "duration_ms": 182038,
       "name": "Dying for You",
       "url": "https://open.spotify.com/track/0T3sHoiR3t9HtwbIOgTI7J"
+    },
+    {
+      "added_at": "2025-12-27 16:24:52",
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 189898,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
     },
     {
       "added_at": "2026-02-20 05:00:50",
@@ -187,26 +343,6 @@
       "duration_ms": 171386,
       "name": "Truth Of Pursuit",
       "url": "https://open.spotify.com/track/213XNePBS3v9QW0lnPUXmZ"
-    },
-    {
-      "added_at": "2025-10-17 04:00:35",
-      "album": {
-        "name": "Stateside + Zara Larsson",
-        "url": "https://open.spotify.com/album/553gwPPa6VUWikljMiQyGM"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "Stateside + Zara Larsson",
-      "url": "https://open.spotify.com/track/7tM3yPeSBxnIIQlkz22vId"
     },
     {
       "added_at": "2026-02-13 05:00:31",
@@ -481,22 +617,6 @@
       "url": "https://open.spotify.com/track/6PWoqFfl4HwgsScx99CyF2"
     },
     {
-      "added_at": "2025-12-27 16:24:52",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 200646,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
-    },
-    {
       "added_at": "2026-01-31 00:09:31",
       "album": {
         "name": "Half Of Me",
@@ -607,22 +727,6 @@
       "duration_ms": 219986,
       "name": "Dance The Pain Away",
       "url": "https://open.spotify.com/track/7A34WgGmK1E4D9X9zgq9VD"
-    },
-    {
-      "added_at": "2025-12-27 16:24:52",
-      "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 189898,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
     },
     {
       "added_at": "2026-01-23 05:00:26",
@@ -787,22 +891,6 @@
       "duration_ms": 151578,
       "name": "DANSE",
       "url": "https://open.spotify.com/track/3CTlN5zEni6m26Wwkc3voS"
-    },
-    {
-      "added_at": "2026-01-09 05:00:44",
-      "album": {
-        "name": "Sexistential / Talk To Me",
-        "url": "https://open.spotify.com/album/5aBcnDmgAwjKxJRnEG6gvk"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 199561,
-      "name": "Talk To Me",
-      "url": "https://open.spotify.com/track/6rY4CO2ko4iWpSIm93fWJv"
     },
     {
       "added_at": "2026-01-09 05:00:44",
@@ -987,22 +1075,6 @@
       "duration_ms": 159000,
       "name": "A Rush of You",
       "url": "https://open.spotify.com/track/2ozy7riT1NRGwa7dLYQ9PW"
-    },
-    {
-      "added_at": "2025-11-14 05:00:35",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11"
     },
     {
       "added_at": "2026-01-23 05:00:26",
@@ -1237,22 +1309,6 @@
       "url": "https://open.spotify.com/track/7jIIaLkLcxyn9z2GvQi1Se"
     },
     {
-      "added_at": "2025-11-14 05:00:35",
-      "album": {
-        "name": "Chains of Love",
-        "url": "https://open.spotify.com/album/6pSGolbfux1G7aSSJP0OQU"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 170106,
-      "name": "Chains of Love",
-      "url": "https://open.spotify.com/track/3obedb2fnHaTE8bPlr9TNK"
-    },
-    {
       "added_at": "2025-12-05 05:00:22",
       "album": {
         "name": "Little Miss LA",
@@ -1295,26 +1351,6 @@
       "duration_ms": 200080,
       "name": "Human Nature - Howie Tee New Edit",
       "url": "https://open.spotify.com/track/1izJB7BcfE39WOP5MCAivd"
-    },
-    {
-      "added_at": "2025-10-24 14:13:47",
-      "album": {
-        "name": "A Little Louder, Please (Deluxe)",
-        "url": "https://open.spotify.com/album/03wOikJOtHMA55JRvBsx0g"
-      },
-      "artists": [
-        {
-          "name": "Rose Gray",
-          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
-        },
-        {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
-        }
-      ],
-      "duration_ms": 211327,
-      "name": "Angel Of Satisfaction (ft.JADE)",
-      "url": "https://open.spotify.com/track/5UjyFZZGw0PAh5ngAhEdML"
     },
     {
       "added_at": "2025-11-21 05:00:40",
@@ -1517,22 +1553,6 @@
       "url": "https://open.spotify.com/track/5TQq3QfG2tXGZum3GvBmkm"
     },
     {
-      "added_at": "2025-09-26 04:00:24",
-      "album": {
-        "name": "Sugar Water (Deluxe)",
-        "url": "https://open.spotify.com/album/3YVFjLQyt1RBXxl3pifOVw"
-      },
-      "artists": [
-        {
-          "name": "Maude Latour",
-          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
-        }
-      ],
-      "duration_ms": 168150,
-      "name": "XOXO",
-      "url": "https://open.spotify.com/track/6rZBcOUK0u7F3ipY97Kef3"
-    },
-    {
       "added_at": "2025-09-19 04:00:28",
       "album": {
         "name": "yes baby",
@@ -1563,22 +1583,6 @@
       "duration_ms": 246469,
       "name": "I'm Not Going Anywhere",
       "url": "https://open.spotify.com/track/7xUYVXZTGsU45EQDaDcZbr"
-    },
-    {
-      "added_at": "2025-09-26 04:00:24",
-      "album": {
-        "name": "Fleeting",
-        "url": "https://open.spotify.com/album/7s4OI9VpYZaaDjwujZTWDJ"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kinsley",
-          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
-        }
-      ],
-      "duration_ms": 219257,
-      "name": "Fleeting",
-      "url": "https://open.spotify.com/track/0irXFjfMY0YDUpudTgkJef"
     },
     {
       "added_at": "2025-08-29 04:28:02",

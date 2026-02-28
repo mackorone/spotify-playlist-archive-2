@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:1lnfnJFVIaKY0wWil9MEG4">filit</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,148 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,147 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

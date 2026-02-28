@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSX4baQVDQut.md) - [plain]
 
 > Nosotros ponemos la música y tú los pasos ;\)<br/>Can't stop, won't stop dancing!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,825,080 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,825,005 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSX4baQVDQut.md) - [plain]
 | 23 | [HARLEY QUINN](https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:23 |
 | 24 | [QLONA](https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:52 |
 | 25 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
-| 26 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 |
-| 27 | [NI BORRACHO](https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [NI BORRACHO](https://open.spotify.com/album/56abbxkslQf53jbbIInCD3) | 4:08 |
+| 26 | [NI BORRACHO](https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [NI BORRACHO](https://open.spotify.com/album/56abbxkslQf53jbbIInCD3) | 4:08 |
+| 27 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 |
 | 28 | [La Plena \- W Sound 05](https://open.spotify.com/track/6xOEgzkMSZJKz6qtCJsQL5) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [La Plena \(W Sound 05\)](https://open.spotify.com/album/6mCCkmAs0Q3RNFD8dp2Pw8) | 2:30 |
 | 29 | [DÓNDE](https://open.spotify.com/track/4zqFA9MOG86u7uugR8QFDU) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [POR SI ALGUIEN NOS ESCUCHA](https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe) | 3:13 |
 | 30 | [Me Mareo](https://open.spotify.com/track/6jBoUckd6VEImt6pg8RpDr) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [SATIROLOGÍA \(DELUXE EDITION\)](https://open.spotify.com/album/6DGGDTzn0msZRptzHHcMNE) | 2:48 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSX4baQVDQut.md) - [plain]
 | 83 | [Enhorabuena](https://open.spotify.com/track/6Js2Fy0gdSAkpD780TYJGu) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Enhorabuena](https://open.spotify.com/album/1p2JgxJxYfju0cSvAnfuPo) | 2:48 |
 | 84 | [Si no no](https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 2:29 |
 | 85 | [san blaS](https://open.spotify.com/track/5I2MsBzDR7YmFG9W5SAWYg) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [SAN BLAS](https://open.spotify.com/album/0FftKMxAvrnFuynmLCvjQ0) | 2:28 |
-| 86 | [capaz \(merengueton\)](https://open.spotify.com/track/3QbfCvCAOCrSGNcGjtOjYM) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [capaz \(merengueton\)](https://open.spotify.com/album/2ZrE9RpWOoVhffUupc6hRV) | 2:53 |
-| 87 | [COMO TU](https://open.spotify.com/track/0IXL5SPeI849hcz7Cynpk4) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [BABABA WORLD](https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS) | 2:34 |
+| 86 | [COMO TU](https://open.spotify.com/track/0IXL5SPeI849hcz7Cynpk4) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [BABABA WORLD](https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS) | 2:34 |
+| 87 | [capaz \(merengueton\)](https://open.spotify.com/track/3QbfCvCAOCrSGNcGjtOjYM) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [capaz \(merengueton\)](https://open.spotify.com/album/2ZrE9RpWOoVhffUupc6hRV) | 2:53 |
 | 88 | [Pasaporte](https://open.spotify.com/track/3LkVlYZK41uDwBHX26m8mi) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mr\. Naisgai](https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM) | [Pasaporte](https://open.spotify.com/album/6jGjJCN5uEufVPfbbdjVbf) | 4:26 |
 | 89 | [Brinca \(Acuario\)](https://open.spotify.com/track/7rdgssw9cq1TloP5HbopVx) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [ASTROPICAL](https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz) | [ASTROPICAL](https://open.spotify.com/album/21U3vjlzUXb642LW0Ventl) | 3:39 |
 | 90 | [ATARI](https://open.spotify.com/track/26Fvbip1soBIK5RWJYco05) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 2:56 |

@@ -2,9 +2,9 @@
 
 ### [Calorcito](https://open.spotify.com/playlist/37i9dQZF1DX7dXtI26GOnj)
 
-> Todo o calor latino está aqui! 🔥  foto: Mau y Rick, Luísa Sonza, Big One
+> Todo o calor latino está aqui! 🔥  foto: J Balvin, Ryan Castro
 
-546 songs - 1 day 4 hr 12 min
+547 songs - 1 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,7 +336,7 @@
 | [MOTOMAMI](https://open.spotify.com/track/6ygEPi8EtVkUO0Xarcgs63) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 1:01 | 2022-10-07 | 2022-10-29 |
 | [Muero X Verte](https://open.spotify.com/track/0TYSuIwGG6sO0eSTiEHgmW) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Muero X Verte](https://open.spotify.com/album/1xXQ297EaVkgUScacoiiUa) | 3:26 | 2025-06-20 | 2025-08-23 |
 | [Mujeriego](https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Mujeriego](https://open.spotify.com/album/43sxUsU622oLloqafw61vN) | 2:22 | 2022-01-31 | 2022-02-10 |
-| [mulher de artista](https://open.spotify.com/track/4WYRWOZYL0RZY0vvTXQDPW) | [Welisson](https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ) | [Vol\. 2: 446 FM](https://open.spotify.com/album/06y7woehZsjdXK8EXsFP3x) | 2:25 | 2026-02-06 |  |
+| [mulher de artista](https://open.spotify.com/track/4WYRWOZYL0RZY0vvTXQDPW) | [Welisson](https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ) | [Vol\. 2: 446 FM](https://open.spotify.com/album/06y7woehZsjdXK8EXsFP3x) | 2:25 | 2026-02-06 | 2026-02-28 |
 | [Muñekita \(with El Alfa & JT\)](https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Muñekita \(with El Alfa & JT\)](https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4) | 3:39 | 2023-08-04 | 2023-09-30 |
 | [Nadie La Controla](https://open.spotify.com/track/4IOJ3ar9OZQReV1F34ks9R) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Nadie La Controla](https://open.spotify.com/album/1kW5m1DD6QtBn2vToj7eyD) | 3:34 | 2021-12-31 | 2022-02-01 |
 | [Naturaleza](https://open.spotify.com/track/4Au8XE7B4fdG5LieLLTdP4) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Naturaleza](https://open.spotify.com/album/11eLw82kDc6Id4iYk1jrIN) | 2:43 | 2022-08-05 | 2022-10-08 |
@@ -481,7 +481,7 @@
 | [Te Menti](https://open.spotify.com/track/1QtKYyXEw9tSMIlK4RfA8B) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Te Menti](https://open.spotify.com/album/0ucVAnzaNBmu2fQIF459tl) | 3:07 | 2023-09-15 | 2024-02-24 |
 | [Te Olvido](https://open.spotify.com/track/1ycIhjQ4fQp2WqNFpSDEcX) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Te Olvido](https://open.spotify.com/album/670aQBkW0Vvjz8GFVOVRJT) | 3:31 | 2021-12-31 | 2023-04-22 |
 | [Te Quiero](https://open.spotify.com/track/1UrIIf3M5R2pOwkvh1F8NX) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Te Quiero](https://open.spotify.com/album/3JqYyLydwNbHG4014uqd45) | 2:12 | 2022-04-01 | 2022-06-18 |
-| [Te Vi](https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Vi](https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5) | 3:51 | 2021-12-31 |  |
+| [Te Vi](https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Vi](https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5) | 3:51 | 2021-12-31 | 2026-02-28 |
 | [Teka \(with Peso Pluma\)](https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Teka \(with Peso Pluma\)](https://open.spotify.com/album/4MGpOqMU3FlZ7li35laoBu) | 2:43 | 2024-04-19 | 2024-06-08 |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-12-31 | 2022-01-22 |
 | [Tempo](https://open.spotify.com/track/7icIDep1Jr3oJdgJSGsdnM) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Tempo](https://open.spotify.com/album/5TWuIEEbRxkdyn9HgiV69n) | 1:47 | 2023-11-03 | 2024-01-27 |
@@ -495,6 +495,7 @@
 | [Tocando Madera](https://open.spotify.com/track/6ILrPgB1ywnLmdmFWQ73p7) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e) | [Tocando Madera](https://open.spotify.com/album/2GczCMSnfjV5UNxXTGC5t6) | 2:39 | 2025-10-17 |  |
 | [TODO O NADA](https://open.spotify.com/track/59rjsHYxdxeUG6gd43Emzs) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 3:28 | 2021-12-31 | 2023-02-08 |
 | [TONIGHT \(Bad Boys: Ride Or Die\) \(feat\. Becky G\)](https://open.spotify.com/track/237t7ZswmEnZChpNZ0zscx) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [TONIGHT \(Bad Boys: Ride Or Die\) \(feat\. Becky G\)](https://open.spotify.com/album/06OlGmd9PuKK8CXYw7xiEu) | 3:38 | 2024-05-10 | 2024-06-22 |
+| [Tonto](https://open.spotify.com/track/7mU1fei7P9h4mpjP2Otdw5) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Tonto](https://open.spotify.com/album/2O4uIDxW5yiPcPiGFag99v) | 2:20 | 2026-02-27 |  |
 | [Top](https://open.spotify.com/track/2OncTcSo3mojsFNgYQUwRF) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Top](https://open.spotify.com/album/3Vq3Ow6BcjMRq3lHSF36CN) | 3:22 | 2024-08-30 | 2024-09-28 |
 | [Toretto](https://open.spotify.com/track/2LhnVbBHUWyrDQ4m1LCPvo) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Toretto \(FAST X / Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4YHGjIgKtP3QKRA11AhfJ1) | 2:30 | 2023-05-12 | 2023-06-10 |
 | [Tormenta \(feat\. Bad Bunny\)](https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:13 | 2023-02-24 | 2023-05-20 |

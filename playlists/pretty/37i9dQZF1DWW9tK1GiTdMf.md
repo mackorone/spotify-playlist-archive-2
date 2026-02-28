@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica per un inverno non proprio felice \(chiello in cover\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,092 likes - 110 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,171 likes - 110 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

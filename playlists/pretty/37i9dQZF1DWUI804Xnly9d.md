@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,272 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,335 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 7 | [Zara Zara \- MTV Unwind](https://open.spotify.com/track/6anGj4SX83j5DyG3aZOzqc) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa) | [Zara Zara \- MTV Unwind](https://open.spotify.com/album/2AQXHeeiHSxhptNmUZdwkU) | 3:28 |
 | 8 | [Inaam](https://open.spotify.com/track/52Zf1kNdojgRkkw39O6vwl) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Inaam](https://open.spotify.com/album/2c6wzrX9E7bdrY8UU4ISbL) | 4:17 |
 | 9 | [Le Aaunga \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/track/2cz4qH4fCauVA93JHkUMad) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Le Aaunga \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/album/55AiBuh1Ljke5dd9kEby1b) | 4:04 |
-| 10 | [Maula Mere](https://open.spotify.com/track/7ss3vPgVJ4TmIjdVdmjnvT) | [Amarabha Banerjee](https://open.spotify.com/artist/2780kFYuvbwSLPJZ5faEDw) | [Quiet Rooms](https://open.spotify.com/album/5pIoir24ghxEf4LPSFJPlj) | 4:08 |
-| 11 | [par ab kya?](https://open.spotify.com/track/5DkBFgvF1ECLLwB0ykfRiS) | [Harry Arora](https://open.spotify.com/artist/0Hv1cidXFr7vPUtWijAoMQ) | [par ab kya?](https://open.spotify.com/album/7Knpd0IXoLvUSXSqtdkdZQ) | 4:30 |
-| 12 | [Aakhri Baat](https://open.spotify.com/track/7l2jbJumAMjztS7wHav0Je) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aakhri Baat](https://open.spotify.com/album/2VOk3cv9fdpDwzpvi4StBu) | 3:42 |
+| 10 | [Hum Tumhare \(Unplugged\)](https://open.spotify.com/track/7IPqXficRXT39hvn4XxC3h) | [Eric Wink](https://open.spotify.com/artist/7k2dC4sHlKjN52VppZRxUP), [Ashimita Sawhney](https://open.spotify.com/artist/3yUizU76QXuZcTydv0QpSC), [Saurabh Trivedi](https://open.spotify.com/artist/3bz6ZRvw3t4k0Oz72baGrk), [Ayush Dolas](https://open.spotify.com/artist/1TDK3rn1aqm7QmZfcJO4Mk) | [Hum Tumhare \(Unplugged\)](https://open.spotify.com/album/2MQY6QKCAZWcwAnUbU8CqJ) | 3:08 |
+| 11 | [Maula Mere](https://open.spotify.com/track/7ss3vPgVJ4TmIjdVdmjnvT) | [Amarabha Banerjee](https://open.spotify.com/artist/2780kFYuvbwSLPJZ5faEDw) | [Quiet Rooms](https://open.spotify.com/album/5pIoir24ghxEf4LPSFJPlj) | 4:08 |
+| 12 | [par ab kya?](https://open.spotify.com/track/5DkBFgvF1ECLLwB0ykfRiS) | [Harry Arora](https://open.spotify.com/artist/0Hv1cidXFr7vPUtWijAoMQ) | [par ab kya?](https://open.spotify.com/album/7Knpd0IXoLvUSXSqtdkdZQ) | 4:30 |
 | 13 | [Baat Itni Si Hai \- Unplugged](https://open.spotify.com/track/2xkyznh2fVteFDmWjUlZ9U) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baat Itni Si Hai \(Unplugged\)](https://open.spotify.com/album/0rjJuTIRRXK6KOv3UuUSvC) | 3:47 |
 | 14 | [Qareeb](https://open.spotify.com/track/35hwpi55PUyJFXjrodHPa0) | [Jayant Joshi](https://open.spotify.com/artist/4feOH8EFdcvYwYfvkCTY5e), [Aastha Tiwari](https://open.spotify.com/artist/5ttg9TylEAZumuaczAn2YS), [Moin](https://open.spotify.com/artist/7xgtUknw8tyUhWkSnMjhti) | [Qareeb](https://open.spotify.com/album/67TmrfJ0pim4hq3kRIOznG) | 3:15 |
 | 15 | [Saari Raat](https://open.spotify.com/track/2FuHwIdCmfTwjaXBOVmE76) | [Muheet Bharti](https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Saari Raat](https://open.spotify.com/album/5WnCiVjmZgdlazM3lEnUgj) | 2:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Meri Kya Khata](https://open.spotify.com/track/25cu0HRFLcHsQ3DGijw4IH) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Kalki](https://open.spotify.com/artist/3bQQocqN6y43hFBAUPP5v5), [Dheerendra Gautam](https://open.spotify.com/artist/0OG7qbI3Mvd7UdxhqoP6Ly) | [Meri Kya Khata](https://open.spotify.com/album/121PPl7OE4kVQCUcFrLylb) | 3:02 |
 | 75 | [Tuta Pull Wahan](https://open.spotify.com/track/7EYEswNmA0XjzwUitONgzK) | [Deepak Rathore](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Tuta Pull Wahan](https://open.spotify.com/album/00BfVMr2A2C6V1fScLpMTI) | 5:13 |
 
-Snapshot ID: `AAAAACf/qRXOTAdxJA8ECyWkbsHUtolV`
+Snapshot ID: `AAAAAE8oZlfaTQXBq445sw476JEiuMHY`

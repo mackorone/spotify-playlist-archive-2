@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & The Night Sweats
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,162 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,147 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 31 | [Black Myself](https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:21 |
 | 32 | [Miles Away](https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85) | [Phil Cook](https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E) | [People Are My Drug](https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl) | 4:01 |
 | 33 | [Into The Mystery](https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Into The Mystery](https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF) | 3:54 |
-| 34 | [Don't Tell Our Friends About Me](https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 5:19 |
-| 35 | [Waste of Time](https://open.spotify.com/track/1iMzZNgkgw5xITKIgBKh9O) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Waste of Time](https://open.spotify.com/album/7f39VmqaoMuEi30pYKFlh6) | 3:03 |
+| 34 | [Waste of Time](https://open.spotify.com/track/1iMzZNgkgw5xITKIgBKh9O) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Waste of Time](https://open.spotify.com/album/7f39VmqaoMuEi30pYKFlh6) | 3:03 |
+| 35 | [Don't Tell Our Friends About Me](https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 5:19 |
 | 36 | [On a Roll](https://open.spotify.com/track/34L5OwGhNUKJOG7fgR4ain) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Strangers No More](https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV) | 4:24 |
 | 37 | [This Ain't It](https://open.spotify.com/track/6B14xfqJG4JCzf0gaFkQ21) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 6:14 |
 | 38 | [Signs of Life](https://open.spotify.com/track/15ZSEpaU6Q8YJLcld0hEqt) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 5:00 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 60 | [Heroes](https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Heroes](https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks) | 3:13 |
 | 61 | [Good Time](https://open.spotify.com/track/5vKzUzEaNEH6iLfQAAXGcP) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Good Time](https://open.spotify.com/album/7ewBMKLhrJ21P2nlAgUuPW) | 5:33 |
 | 62 | [Looking for Love](https://open.spotify.com/track/3s3NKsV3p6hCAh23j1H4W7) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [One](https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm) | 3:39 |
-| 63 | [Feel Like Going Home \(OurVinyl Sessions\)](https://open.spotify.com/track/4g61d4q3CjcywFQy5dP5pu) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [Miko Marks \| OurVinyl Sessions](https://open.spotify.com/album/1jYR4r6R2gWLtGQYPbm4qR) | 4:41 |
-| 64 | [Oh Dear Brother](https://open.spotify.com/track/27TIWKzBDkahxcjKUmthdw) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Oh Dear Brother](https://open.spotify.com/album/3Pue2ojjST8Vq2m8y2EppZ) | 3:58 |
+| 63 | [Oh Dear Brother](https://open.spotify.com/track/27TIWKzBDkahxcjKUmthdw) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Oh Dear Brother](https://open.spotify.com/album/3Pue2ojjST8Vq2m8y2EppZ) | 3:58 |
+| 64 | [Feel Like Going Home \(OurVinyl Sessions\)](https://open.spotify.com/track/4g61d4q3CjcywFQy5dP5pu) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [Miko Marks \| OurVinyl Sessions](https://open.spotify.com/album/1jYR4r6R2gWLtGQYPbm4qR) | 4:41 |
 | 65 | [Love At Your Convenience](https://open.spotify.com/track/5RmYeDWwImW4OC63UQsbG0) | [The Ghost of Paul Revere](https://open.spotify.com/artist/30fXKjFrJ6I9tfwia1ZZMG) | [Love At Your Convenience](https://open.spotify.com/album/60a4GdYNRT135ejymVVsCt) | 3:33 |
 | 66 | [Evergreen](https://open.spotify.com/track/0rDOZAwa5hpOIFvej2yBIU) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Evergreen](https://open.spotify.com/album/00MHXpbaXylI2b4eQ5b5SB) | 4:40 |
 | 67 | [Drive You Home](https://open.spotify.com/track/6DKqCfULlm9Fa7Cb9E8daQ) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Drive You Home](https://open.spotify.com/album/5N626BClwWdlR9Ks3vOgRX) | 3:00 |
@@ -90,10 +90,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 80 | [Outwit the Devil](https://open.spotify.com/track/6W7CkWDUexJnzDBqC1a27c) | [Willy Mason](https://open.spotify.com/artist/2uYZJqMXH5Q6xvPU6BPySL) | [Already Dead](https://open.spotify.com/album/3b21RhhOLcTI7rY6JdeFIM) | 3:04 |
 | 81 | [Never Makes a Sound](https://open.spotify.com/track/6ws3nglPZiK1lCgU9ZpfQV) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Never Makes a Sound](https://open.spotify.com/album/1oG3x0lHgddWOoJ3UhzWXY) | 4:00 |
 | 82 | [Pain Shifter](https://open.spotify.com/track/2A5fpEFPiljuW0a23kcDVf) | [W\. B\. Wooten](https://open.spotify.com/artist/5PM6kTcLdfwy9q1RVZjXQk) | [Pain Shifter](https://open.spotify.com/album/1KbqWbmHEfEFtFgGPTPWgt) | 3:44 |
-| 83 | [Circles](https://open.spotify.com/track/7Ad6cjOyjaRKS8XHlzMG8w) | [Breakfield](https://open.spotify.com/artist/631Dp31oMOJmgq8CY50MIl) | [Circles](https://open.spotify.com/album/0Lnu3IpqBS3BW8EhiOL9iC) | 3:35 |
-| 84 | [Way Back](https://open.spotify.com/track/6Jt5iBTXNyW4fpG6W26K0G) | [The Lighthouse And The Whaler](https://open.spotify.com/artist/6ls5A8Wys9Swixpz4v6kj3) | [Way Back](https://open.spotify.com/album/19HLhs8Ey6wysibfosbk0q) | 4:18 |
-| 85 | [Devil and the Sea](https://open.spotify.com/track/4MvLYfOKCq2iFfANg0WNxR) | [Streets of Laredo](https://open.spotify.com/artist/4gzYX1gPVnAh5YB1MAo60t) | [Devil and the Sea](https://open.spotify.com/album/5XkuCSfJsRRNsBJTfpfLEs) | 3:38 |
-| 86 | [Tomorrow](https://open.spotify.com/track/0U8YpnqPkTeA9v9FRwmomq) | [The Brummies](https://open.spotify.com/artist/1B9SbgFtfWSlUvAd1y0AaA) | [Tomorrow](https://open.spotify.com/album/1wUPDxnbQCUh3zv6SiAFhI) | 3:30 |
+| 83 | [Tomorrow](https://open.spotify.com/track/0U8YpnqPkTeA9v9FRwmomq) | [The Brummies](https://open.spotify.com/artist/1B9SbgFtfWSlUvAd1y0AaA) | [Tomorrow](https://open.spotify.com/album/1wUPDxnbQCUh3zv6SiAFhI) | 3:30 |
+| 84 | [Devil and the Sea](https://open.spotify.com/track/4MvLYfOKCq2iFfANg0WNxR) | [Streets of Laredo](https://open.spotify.com/artist/4gzYX1gPVnAh5YB1MAo60t) | [Devil and the Sea](https://open.spotify.com/album/5XkuCSfJsRRNsBJTfpfLEs) | 3:38 |
+| 85 | [Way Back](https://open.spotify.com/track/6Jt5iBTXNyW4fpG6W26K0G) | [The Lighthouse And The Whaler](https://open.spotify.com/artist/6ls5A8Wys9Swixpz4v6kj3) | [Way Back](https://open.spotify.com/album/19HLhs8Ey6wysibfosbk0q) | 4:18 |
+| 86 | [Circles](https://open.spotify.com/track/7Ad6cjOyjaRKS8XHlzMG8w) | [Breakfield](https://open.spotify.com/artist/631Dp31oMOJmgq8CY50MIl) | [Circles](https://open.spotify.com/album/0Lnu3IpqBS3BW8EhiOL9iC) | 3:35 |
 | 87 | [Daylight Push](https://open.spotify.com/track/0CmPx3PUQYMjmSxB9Zn7aV) | [Woods](https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ) | [Strange to Explain \[More Strange \(Deluxe Edition\)\]](https://open.spotify.com/album/1UbNct48nwdSKvZ1HC6SqG) | 3:51 |
 | 88 | [Home Truths](https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju) | [Home Truths](https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7) | 3:37 |
 | 89 | [The Offer](https://open.spotify.com/track/21MrTvTBPnBM1ssyzMR1KK) | [Ian O'Neil](https://open.spotify.com/artist/3zAC2h398XqegpW0bfeIiX) | [Ten Years of It](https://open.spotify.com/album/66dNqDHM40nEgoj6NS02qA) | 3:29 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 97 | [Heavy Metal Heart](https://open.spotify.com/track/5lLImAUUwxvZgR5ttivI7M) | [The Blessing Business](https://open.spotify.com/artist/2EZCT6ZL6Gb4pCiXQCkeet) | [Heavy Metal Heart](https://open.spotify.com/album/5MNqC4Po5g4wdCxYmY1Flx) | 4:32 |
 | 98 | [Ophelia](https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 2:40 |
 | 99 | [Strangers](https://open.spotify.com/track/3wcluZHyfuTzIXHfwXVAIE) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Rearrange Us](https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9) | 3:13 |
-| 100 | [Old Sob Story](https://open.spotify.com/track/7Akh76oQE1crm0aIz9B7IK) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Old Sob Story](https://open.spotify.com/album/3fnFtGjNgtLYd0CSnYp3Z9) | 3:16 |
+| 100 | [Sedona](https://open.spotify.com/track/2kG5litgxXvx6ZRgwO1v7W) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Little Neon Limelight](https://open.spotify.com/album/4DL8KCLfnDpUQRyDR5dKvt) | 3:59 |
 
 Snapshot ID: `AAAAAMhdH3TSyTDwmGLBtbRCxwfvgq16`

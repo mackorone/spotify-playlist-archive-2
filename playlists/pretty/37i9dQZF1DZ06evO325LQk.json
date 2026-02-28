@@ -1,12 +1,12 @@
 {
   "description": "This is SOPHIE. The essential tracks, all in one playlist.",
-  "num_followers": 38047,
+  "num_followers": 38046,
   "original_name": "This Is SOPHIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAAARnqdtVpqtwfN+5ubXBTk6",
+  "snapshot_id": "aZ+NAAAAAACNi8B9Yuopzf7y9/RA5FU5",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM",
-        "url": "https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ"
+        "name": "Nothing More to Say",
+        "url": "https://open.spotify.com/album/3fwjJp5CzCfUQtXsMflbHi"
       },
       "artists": [
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        },
-        {
-          "name": "Doss",
-          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
         }
       ],
-      "duration_ms": 210250,
-      "name": "Whole New World (Sophie and Doss Remix)",
-      "url": "https://open.spotify.com/track/00iumuIHzIc3rDViE1Vh8U"
+      "duration_ms": 281636,
+      "name": "Eeehhh",
+      "url": "https://open.spotify.com/track/6tDPoIyvMNXeA597qtxDPN"
     },
     {
       "added_at": null,
@@ -415,18 +411,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing More to Say",
-        "url": "https://open.spotify.com/album/3fwjJp5CzCfUQtXsMflbHi"
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM",
+        "url": "https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ"
       },
       "artists": [
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
         }
       ],
-      "duration_ms": 281636,
-      "name": "Eeehhh",
-      "url": "https://open.spotify.com/track/6tDPoIyvMNXeA597qtxDPN"
+      "duration_ms": 210250,
+      "name": "Whole New World (Sophie and Doss Remix)",
+      "url": "https://open.spotify.com/track/00iumuIHzIc3rDViE1Vh8U"
     },
     {
       "added_at": null,

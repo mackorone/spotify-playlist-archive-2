@@ -2,9 +2,9 @@
 
 ### [Varsity Bars](https://open.spotify.com/playlist/37i9dQZF1DXdWMJMjqz9bm)
 
-> A little bit of pop, a little bit of rap, a little bit of country? Cover: Dominic Fike
+> A little bit of pop, a little bit of rap, a little bit of country? Cover: Red Leather
 
-835 songs - 1 day 14 hr 8 min
+838 songs - 1 day 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Crazy](https://open.spotify.com/track/6L23YXw4FINdMDgtvfgyL7) | [RMR](https://open.spotify.com/artist/0j1Pwmd6nuk0BXD1RqoHDw), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp) | [Crazy](https://open.spotify.com/album/2UTVJGVZtWKYHBbor2lp6x) | 2:02 | 2023-03-03 | 2024-06-01 |
 | [Crazy](https://open.spotify.com/track/601m47xXoC3TFJuyEQ80VZ) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Crazy](https://open.spotify.com/album/6jrUbwWMJR8APSS7D1iHq9) | 2:41 | 2025-05-16 | 2025-10-06 |
 | [crazy](https://open.spotify.com/track/7eapS72LGn58Bx6cQaj0h4) | [Zac Greer](https://open.spotify.com/artist/26Hx3p02bxJ4cLfua31zmz) | [crazy](https://open.spotify.com/album/7nRlK5EFYouK3XAMdKr5wi) | 2:37 | 2021-12-03 | 2022-02-26 |
-| [CRY](https://open.spotify.com/track/3MVCR2UGxXtvdhqFFEzmGX) | [Parker Jack](https://open.spotify.com/artist/5COD136qwj9wtuea78EGbF) | [CRY](https://open.spotify.com/album/5OKFXrFjt1N8adFAWpp3NZ) | 2:15 | 2025-08-18 |  |
+| [CRY](https://open.spotify.com/track/3MVCR2UGxXtvdhqFFEzmGX) | [Parker Jack](https://open.spotify.com/artist/5COD136qwj9wtuea78EGbF) | [CRY](https://open.spotify.com/album/5OKFXrFjt1N8adFAWpp3NZ) | 2:15 | 2025-08-18 | 2026-02-28 |
 | [Crying In Sunshine \(feat\. Arden Jones\)](https://open.spotify.com/track/5i2oYP9tEfmBjULYH1rM7u) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD), [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [Crying In Sunshine \(feat\. Arden Jones\)](https://open.spotify.com/album/1gebTTFEpyP6zKhXhG60QI) | 3:16 | 2023-03-24 | 2024-06-01 |
 | [Cutlass \(ft\. ScHoolboy Q\)](https://open.spotify.com/track/6vBczVPPas3vqNDFX9u7q0) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Towards The Sun](https://open.spotify.com/album/57XXE3V0P60nJkG68roJiH) | 3:20 | 2022-05-20 | 2022-07-23 |
 | [D.I.Y.A\. \(Die In Your Arms\)](https://open.spotify.com/track/3NrIDXk1iWUzzNjyebPmNx) | [North Ave Jax](https://open.spotify.com/artist/7t3WSgiRVbVsTIbsgcHVrY), [jetsonmade](https://open.spotify.com/artist/0UcXjTpzt0DmIwPSNwlJfF) | [D.I.Y.A\. \(Die In Your Arms\)](https://open.spotify.com/album/3Ntqgl4QwGZymJxrLDxXhJ) | 3:09 | 2023-08-18 | 2025-04-30 |
@@ -195,6 +195,7 @@
 | [DITTO](https://open.spotify.com/track/3MrZcAFdNmtPVbob9QYvs4) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [BELIEVE IN ME, WHO BELIEVES IN YOU](https://open.spotify.com/album/1eLp5qe0nJkOb3rzqnbme0) | 2:30 | 2022-04-28 | 2023-09-09 |
 | [DIVA](https://open.spotify.com/track/3xf30JR3dwUTCneru7jSOT) | [MILES](https://open.spotify.com/artist/5QqCSh9Ri3B7Tw6HNQkPQH) | [DIVA](https://open.spotify.com/album/6WIFd9kAF8y7dnVW6s8ZIs) | 2:12 | 2021-12-16 | 2022-02-26 |
 | [dive bar](https://open.spotify.com/track/589Dp8bbbMcL4NlVt0oBtX) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [the lows.](https://open.spotify.com/album/6FBhrR6fIddXNhi0FrVadc) | 3:33 | 2024-05-24 | 2024-06-01 |
+| [DIVINE INTERVENTION](https://open.spotify.com/track/4Ytw21cfkgt76XjR7aOuVv) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1) | [TAHOE](https://open.spotify.com/album/1N5SOH3glG1MXgl8ScPnbu) | 3:26 | 2026-02-27 |  |
 | [do it all](https://open.spotify.com/track/0W9PTP67SR6IrBYub9GsBC) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [leave me where you found me](https://open.spotify.com/album/1f19gczYsoUBsqpiG2UFR3) | 1:36 | 2023-03-24 | 2024-04-19 |
 | [do it all](https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [do it all](https://open.spotify.com/album/4STyku6IDvnMxFVdRVdDdf) | 1:36 | 2023-03-24 | 2024-06-01 |
 | [Do It Over](https://open.spotify.com/track/2lEGr8w1XYJ2cyRoKrGui7) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Do It Over](https://open.spotify.com/album/38lfw021YLO2OWKwHcvZUb) | 3:17 | 2021-11-16 | 2022-02-19 |
@@ -294,6 +295,7 @@
 | [Gasoline](https://open.spotify.com/track/4sFzAOD1uiP2Ww5XA1OHJf) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Gasoline](https://open.spotify.com/album/0fGaL3TZgjzCsBZRl9Abxr) | 1:43 | 2022-06-03 | 2023-01-07 |
 | [Geezer](https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Geezer](https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO) | 2:49 | 2025-06-20 | 2026-02-02 |
 | [Get Into It \(Yuh\)](https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:18 | 2022-04-04 | 2022-04-23 |
+| [Get Used To Me](https://open.spotify.com/track/5r8yYNy65zjzKVHLbXm04j) | [Sorisa](https://open.spotify.com/artist/5aHJ7mcBAI9x0Hv28IzNV8) | [Get Used To Me](https://open.spotify.com/album/7wVujmQw1lbNN2uqq1HobP) | 3:21 | 2026-02-27 |  |
 | [Getcho Mans](https://open.spotify.com/track/10b0n4KwuRyNteJ9WNjrdj) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [Brightside](https://open.spotify.com/album/41f4EFQKt0oSJjq8KCClJZ) | 3:31 | 2022-01-28 | 2022-06-04 |
 | [gfy \(with Machine Gun Kelly\)](https://open.spotify.com/track/3MTm8eZ2wCEtpyZqqhP6Dn) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [gfy \(with Machine Gun Kelly\)](https://open.spotify.com/album/43tasPwPisjAgGgde0yy7F) | 2:52 | 2022-06-03 | 2022-06-18 |
 | [Ghost Town](https://open.spotify.com/track/39M5Ael30C0gwWxzM76K3a) | [AMAG](https://open.spotify.com/artist/4Rs9SGqGgto5ZNlfyfq0as) | [Ghost Town](https://open.spotify.com/album/5ThkyKRSPoNQc2neaiCXiW) | 2:42 | 2025-04-04 | 2025-08-23 |
@@ -487,6 +489,7 @@
 | [morning](https://open.spotify.com/track/0MWeEap0R36Qauy3G7vd7y) | [Aizayah Hills](https://open.spotify.com/artist/5BLTxShcXYTib23V0lRdDt) | [morning](https://open.spotify.com/album/4pJTYvnrV8guZmGlioUtgd) | 2:42 | 2022-06-10 | 2022-07-23 |
 | [MOTTO](https://open.spotify.com/track/3q9PVufz68TRvOao25IMNk) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [MOTTO](https://open.spotify.com/album/1zt9jr9SYbHe90e2Q6DPLE) | 3:37 | 2023-03-09 | 2023-04-05 |
 | [Movin'](https://open.spotify.com/track/6LY60TJtxLNbsBtwUKRaxo) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Movin'](https://open.spotify.com/album/2rHcTFQ8r6dpPwPE0UTRVD) | 2:10 | 2023-03-17 | 2023-04-18 |
+| [moving on](https://open.spotify.com/track/56kplWYajG9mIypjY8cVn4) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [moving on](https://open.spotify.com/album/6JK3X7apZZoLbQ2KI0rX62) | 3:00 | 2026-02-27 |  |
 | [moving on \(feat\. Khary\)](https://open.spotify.com/track/3YNUrsQihHuKSE1xQs6MdG) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi), [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [moving on / sugarhoneyiceicetea](https://open.spotify.com/album/6bKEgno07WC8rhuhSwMb8n) | 2:59 | 2023-04-28 | 2024-06-01 |
 | [Mr\. Miracle](https://open.spotify.com/track/0c3l6nw0FC2UfhzJPpEOMK) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Mr\. Miracle](https://open.spotify.com/album/33PM56Ebm1noVM1px0GL9Q) | 3:12 | 2025-08-22 |  |
 | [mr\. sunshine](https://open.spotify.com/track/2NJefEQeqDKUdyiy38GFoV) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 0](https://open.spotify.com/album/3wNkf6SHSN19bVxWCNC3Lu) | 2:57 | 2024-05-24 | 2025-04-30 |
@@ -688,7 +691,7 @@
 | [STATUS](https://open.spotify.com/track/6GeknxD68osCT7BusMmzVF) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [STATUS](https://open.spotify.com/album/37ChAtjm7LncBjMoffeFvn) | 2:23 | 2021-11-16 | 2022-02-26 |
 | [Stay In Bed](https://open.spotify.com/track/55Q0OpbUmbqg6cSwRbOG2O) | [good problem](https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK) | [Stay In Bed](https://open.spotify.com/album/2GZ26dBt4GANEBgeV5oXFV) | 2:30 | 2022-11-25 | 2023-06-17 |
 | [Sticky Fingers](https://open.spotify.com/track/1wXVyDRq58n4MHrlhYjBdB) | [Pick Patek](https://open.spotify.com/artist/0S9cudS88S3BH35w2sWFaN) | [MODERN ART](https://open.spotify.com/album/1lN0WvKqJyFYVeuC71Leit) | 2:46 | 2021-11-16 | 2022-02-26 |
-| [Still](https://open.spotify.com/track/33M4V1Ns4DWrp2eop2Ubzg) | [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) | [Dark](https://open.spotify.com/album/5QGv6b6i7tIOksucTpcUau) | 3:16 | 2025-08-22 |  |
+| [Still](https://open.spotify.com/track/33M4V1Ns4DWrp2eop2Ubzg) | [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) | [Dark](https://open.spotify.com/album/5QGv6b6i7tIOksucTpcUau) | 3:16 | 2025-08-22 | 2026-02-28 |
 | [Still Got Love 4 U](https://open.spotify.com/track/1Ujhcw9pgAXenzex9P84n2) | [Anella](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN) | [Still Got Love 4 U](https://open.spotify.com/album/5c2OERs7PuV8xCwBs82MTZ) | 2:56 | 2026-01-30 | 2026-02-07 |
 | [Still Young](https://open.spotify.com/track/5qOg2p4SrnSXDk1LF5bSIc) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Still Young](https://open.spotify.com/album/5cYxzZsx7uto7TFV7X7G2q) | 2:32 | 2021-11-16 | 2022-02-26 |
 | [Stop it](https://open.spotify.com/track/21K4Irg91lZvVifnBxVdVZ) | [Travie McCoy](https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG) | [Stop it](https://open.spotify.com/album/3us1VOBUhYMEdUcHVeoM71) | 3:48 | 2022-04-08 | 2022-05-20 |

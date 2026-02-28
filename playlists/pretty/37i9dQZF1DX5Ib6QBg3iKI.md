@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,424 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,416 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 64 | [christmas day](https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [christmas day](https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K) | 2:41 |
 | 65 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/6NBEjaO6uf9ZCxjylkazqh) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 3:35 |
 | 66 | [My Favorite Things](https://open.spotify.com/track/0qRSeJNPVhhMDZ5N6gPoW6) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [My Favorite Things](https://open.spotify.com/album/4HM8jivtEeHxo9AfP0h2Vt) | 3:11 |
-| 67 | [What I Want For Xmas](https://open.spotify.com/track/1uT3zADrkjeCfe41WN0yO4) | [Orba Squara](https://open.spotify.com/artist/4SzP9GTvwqU4FzL68ZJdMX) | [What I Want For Xmas](https://open.spotify.com/album/0lHiFF9V2Ey1AI13x5Sh3w) | 2:54 |
-| 68 | [Christmas Song](https://open.spotify.com/track/2LZ1OMHCc5eFOmJh0RA3la) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Day After Tomorrow](https://open.spotify.com/album/0nLUl1qxZ1CTd1fRGUg0G4) | 3:41 |
+| 67 | [Christmas Song](https://open.spotify.com/track/2LZ1OMHCc5eFOmJh0RA3la) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Day After Tomorrow](https://open.spotify.com/album/0nLUl1qxZ1CTd1fRGUg0G4) | 3:41 |
+| 68 | [What I Want For Xmas](https://open.spotify.com/track/1uT3zADrkjeCfe41WN0yO4) | [Orba Squara](https://open.spotify.com/artist/4SzP9GTvwqU4FzL68ZJdMX) | [What I Want For Xmas](https://open.spotify.com/album/0lHiFF9V2Ey1AI13x5Sh3w) | 2:54 |
 | 69 | [Missing You](https://open.spotify.com/track/4OycJbuzBOCAl7SDH0U2MO) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Missing You](https://open.spotify.com/album/79UhVQyX9bJSasD8bGUw1f) | 4:26 |
 | 70 | [Last December \(Mountain Music version\)](https://open.spotify.com/track/0tdpnqesuLkETArM451kAP) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Last December \(Mountain Music version\)](https://open.spotify.com/album/3iTxeyS0edd2PsD0hruWZi) | 5:35 |
 | 71 | [Man on the Moon](https://open.spotify.com/track/4fIR2Qocg33dhjEVrGWAlj) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Man on the Moon](https://open.spotify.com/album/7ChaTXG8VLVpzQnI2tzhJ2) | 2:51 |

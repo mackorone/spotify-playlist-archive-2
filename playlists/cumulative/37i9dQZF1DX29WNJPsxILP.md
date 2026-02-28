@@ -2,9 +2,9 @@
 
 ### [RAP 91 Hindi](https://open.spotify.com/playlist/37i9dQZF1DX29WNJPsxILP)
 
-> Best of Hindi Hip\-Hop! Cover: DL 91 Era
+> Best of Hindi Hip\-Hop! Cover: Siroyi
 
-309 songs - 15 hr 41 min
+310 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [Niyat Kharaab Hai](https://open.spotify.com/track/5kjmrSUYFhhYVEhD8wkgho) | [Albela](https://open.spotify.com/artist/5LAqES7mtiAF86N0aBLqPO), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV) | [BOHOT AJEEB ARTIST](https://open.spotify.com/album/1S16lAF2I5TWqJ2SClP3lq) | 2:27 | 2025-10-17 |  |
 | [No Cap](https://open.spotify.com/track/1XdUEm2MwB6ysy6E80ltMg) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [No Cap](https://open.spotify.com/album/0cqxAGBxVVlB19D01Eb2TS) | 3:25 | 2023-03-10 | 2024-08-27 |
 | [NO CHINA](https://open.spotify.com/track/1LZbyxhEXOjdHwWoaWN7Ve) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 3:18 | 2023-03-10 | 2025-01-22 |
-| [No ID](https://open.spotify.com/track/7EHRSYq5H4yJrhnOND4V4O) | [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO) | [No ID](https://open.spotify.com/album/0sOz3qB67vifJ7xChlGXWQ) | 2:39 | 2023-08-28 |  |
+| [No ID](https://open.spotify.com/track/7EHRSYq5H4yJrhnOND4V4O) | [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO) | [No ID](https://open.spotify.com/album/0sOz3qB67vifJ7xChlGXWQ) | 2:39 | 2023-08-28 | 2026-02-28 |
 | [NO ID](https://open.spotify.com/track/1V4FMAMLpKEATaJTtwY7Z8) | [FEROZI](https://open.spotify.com/artist/7MlaJqW5l4zH0FF5OyaZK8), [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [ZeroToOne](https://open.spotify.com/artist/1SzCp8v0seFsO2KFHpzLVY) | [FEROZI: THE ARRIVAL](https://open.spotify.com/album/05o5qqqHrp24cY3x6kVl0l) | 2:53 | 2025-01-31 | 2025-02-15 |
 | [No Mercy](https://open.spotify.com/track/6fZxZf9m01EPeBDjCEdtKm) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [No Mercy](https://open.spotify.com/album/2aBu3zCR9Z69Xy2fZuhQv0) | 3:10 | 2023-03-10 | 2024-06-14 |
 | [Only Uparwala Can Judge Me](https://open.spotify.com/track/1XFLB33wRzg87i4u4k5zBQ) | [Dhanji](https://open.spotify.com/artist/1OVeQPd27s1MkICbzBfZTV), [Reble](https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [Only Uparwala Can Judge Me](https://open.spotify.com/album/1UIftXYjq7JPIezuEk6FAg) | 2:06 | 2025-10-14 | 2025-10-25 |
@@ -284,6 +284,7 @@
 | [THAPPAD!](https://open.spotify.com/track/044qR6dTjjF8NkVeD1Q55Y) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [THAPPAD!](https://open.spotify.com/album/18ZE60hq43zlGSZkIuF9N0) | 1:54 | 2023-04-21 | 2024-02-09 |
 | [The Last Talk](https://open.spotify.com/track/6Aq4cO87R2tW0pvEaJudhH) | [The Singh](https://open.spotify.com/artist/5dFkHVAGFrmhjPwvfIQg14) | [The Last Talk](https://open.spotify.com/album/0JZrr1iTr7TK2C5YIqAaEm) | 3:00 | 2025-01-31 |  |
 | [Those Dayz](https://open.spotify.com/track/4lMQbPB9xgaORHXIUxxRpV) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Those Dayz](https://open.spotify.com/album/1mFAPaahUjzV20qOG1myva) | 3:49 | 2025-09-23 | 2025-10-15 |
+| [TIRKIT DHA](https://open.spotify.com/track/4hlb8pjr97eiVFdgGYNHE9) | [Siroyi](https://open.spotify.com/artist/306lommsDZyts5VuMuVzEC) | [TIRKIT DHA](https://open.spotify.com/album/0KtAAlD9E5GQLKbXZsVKyg) | 2:30 | 2026-02-27 |  |
 | [Title Kya Doon?](https://open.spotify.com/track/7CAAWyMGx2vo4HGDQpgw80) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu) | [Title Kya Doon?](https://open.spotify.com/album/7pInKnDPeSiG094c81DKpB) | 3:53 | 2025-01-06 | 2025-08-02 |
 | [Top Class / Overseas](https://open.spotify.com/track/4BDOA9pV0yLClbR3v37ekI) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Street Dreams](https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y) | 4:48 | 2025-01-06 | 2025-10-15 |
 | [TOP FLOOR SHiii](https://open.spotify.com/track/5PBLHkJ35cyzRHWN083JKM) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Calm](https://open.spotify.com/artist/10qWcrbcxZeuyHHQO1hXxE) | [TOP FLOOR SHiii](https://open.spotify.com/album/4HQywyfzZIxnI1zems5VBX) | 2:59 | 2025-09-05 | 2025-09-27 |

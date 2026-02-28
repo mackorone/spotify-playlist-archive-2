@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1477049,
+  "num_followers": 1476999,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,30 @@
     {
       "added_at": "2026-02-25 03:51:29",
       "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/1Nc79l3YOCK7Wc8WX2y9Sb"
+      },
+      "artists": [
+        {
+          "name": "Nahokimama",
+          "url": "https://open.spotify.com/artist/17sOYtMShLw4BdQf5YUns3"
+        },
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        },
+        {
+          "name": "Toshiki Soejima",
+          "url": "https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO"
+        }
+      ],
+      "duration_ms": 132507,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/2KRZS3T0XDqxLh1l3K1DzV"
+    },
+    {
+      "added_at": "2026-02-25 03:51:29",
+      "album": {
         "name": "A Tribute to First Love",
         "url": "https://open.spotify.com/album/5uAYIbzCtrDl31Wzw2xloM"
       },
@@ -399,30 +423,6 @@
     {
       "added_at": "2026-02-25 03:51:29",
       "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/1Nc79l3YOCK7Wc8WX2y9Sb"
-      },
-      "artists": [
-        {
-          "name": "Nahokimama",
-          "url": "https://open.spotify.com/artist/17sOYtMShLw4BdQf5YUns3"
-        },
-        {
-          "name": "FloFilz",
-          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
-        },
-        {
-          "name": "Toshiki Soejima",
-          "url": "https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO"
-        }
-      ],
-      "duration_ms": 132507,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/2KRZS3T0XDqxLh1l3K1DzV"
-    },
-    {
-      "added_at": "2026-02-25 03:51:29",
-      "album": {
         "name": "Mental Acupuncture",
         "url": "https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn"
       },
@@ -435,22 +435,6 @@
       "duration_ms": 152000,
       "name": "Mental Acupuncture",
       "url": "https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX"
-    },
-    {
-      "added_at": "2026-02-25 03:51:29",
-      "album": {
-        "name": "The Neighborhood",
-        "url": "https://open.spotify.com/album/0G3mBgdPScjga7vIe6t5Nv"
-      },
-      "artists": [
-        {
-          "name": "Michael Kaneko",
-          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
-        }
-      ],
-      "duration_ms": 100747,
-      "name": "NEIGHBORHOOD",
-      "url": "https://open.spotify.com/track/7pF5IwjIYwsxTmXnGq1Orn"
     },
     {
       "added_at": "2026-02-25 03:51:29",
@@ -475,6 +459,22 @@
       "duration_ms": 139508,
       "name": "Azure",
       "url": "https://open.spotify.com/track/0Yo1t0lsn2vqvZLd0kxJ5P"
+    },
+    {
+      "added_at": "2026-02-25 03:51:29",
+      "album": {
+        "name": "The Neighborhood",
+        "url": "https://open.spotify.com/album/0G3mBgdPScjga7vIe6t5Nv"
+      },
+      "artists": [
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        }
+      ],
+      "duration_ms": 100747,
+      "name": "NEIGHBORHOOD",
+      "url": "https://open.spotify.com/track/7pF5IwjIYwsxTmXnGq1Orn"
     },
     {
       "added_at": "2026-02-25 03:51:29",
@@ -631,6 +631,30 @@
     {
       "added_at": "2026-02-25 03:51:29",
       "album": {
+        "name": "Flow Motion",
+        "url": "https://open.spotify.com/album/4cJ8GhgQkfaoQLpHcESCJB"
+      },
+      "artists": [
+        {
+          "name": "Seizan Ishigaki",
+          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
+        },
+        {
+          "name": "Jikuru",
+          "url": "https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        }
+      ],
+      "duration_ms": 132152,
+      "name": "Flow Motion",
+      "url": "https://open.spotify.com/track/6letr2UF42D0KowDsi8IRN"
+    },
+    {
+      "added_at": "2026-02-25 03:51:29",
+      "album": {
         "name": "On My Way Home (Blue Lab Beats Remix)",
         "url": "https://open.spotify.com/album/5o3VQdQ5Mp8TZzKKDkZ1fI"
       },
@@ -667,30 +691,6 @@
       "duration_ms": 184346,
       "name": "Tangerine Hues",
       "url": "https://open.spotify.com/track/4fImJZBA2TopABdxAEg1in"
-    },
-    {
-      "added_at": "2026-02-25 03:51:29",
-      "album": {
-        "name": "Flow Motion",
-        "url": "https://open.spotify.com/album/4cJ8GhgQkfaoQLpHcESCJB"
-      },
-      "artists": [
-        {
-          "name": "Seizan Ishigaki",
-          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
-        },
-        {
-          "name": "Jikuru",
-          "url": "https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp"
-        },
-        {
-          "name": "Lola",
-          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
-        }
-      ],
-      "duration_ms": 132152,
-      "name": "Flow Motion",
-      "url": "https://open.spotify.com/track/6letr2UF42D0KowDsi8IRN"
     },
     {
       "added_at": "2026-02-25 03:51:29",
@@ -783,6 +783,30 @@
     {
       "added_at": "2026-02-25 03:51:29",
       "album": {
+        "name": "Scintillate",
+        "url": "https://open.spotify.com/album/0adv9JqoGDSm3WhTL3jzcq"
+      },
+      "artists": [
+        {
+          "name": "Seizan Ishigaki",
+          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        },
+        {
+          "name": "Devaloop",
+          "url": "https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY"
+        }
+      ],
+      "duration_ms": 173367,
+      "name": "Scintillate",
+      "url": "https://open.spotify.com/track/0I8lF4sOSnxssc99KxcBqU"
+    },
+    {
+      "added_at": "2026-02-25 03:51:29",
+      "album": {
         "name": "Dersen Cafe & Give Nothing",
         "url": "https://open.spotify.com/album/4YU2bHRmTiy9fSI6arBkYH"
       },
@@ -795,26 +819,6 @@
       "duration_ms": 124200,
       "name": "Dersen Cafe",
       "url": "https://open.spotify.com/track/1GhtPXeqONUwX91jVh3Obu"
-    },
-    {
-      "added_at": "2026-02-25 03:51:29",
-      "album": {
-        "name": "Primo",
-        "url": "https://open.spotify.com/album/0yQ2Z7C1W9zjXnRcVWkln4"
-      },
-      "artists": [
-        {
-          "name": "edbl",
-          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
-        },
-        {
-          "name": "JPRK",
-          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
-        }
-      ],
-      "duration_ms": 162324,
-      "name": "Primo",
-      "url": "https://open.spotify.com/track/2uCgOs0VUkQYlnXtfi4uuK"
     },
     {
       "added_at": "2026-02-25 03:51:29",
@@ -839,26 +843,22 @@
     {
       "added_at": "2026-02-25 03:51:29",
       "album": {
-        "name": "Scintillate",
-        "url": "https://open.spotify.com/album/0adv9JqoGDSm3WhTL3jzcq"
+        "name": "Primo",
+        "url": "https://open.spotify.com/album/0yQ2Z7C1W9zjXnRcVWkln4"
       },
       "artists": [
         {
-          "name": "Seizan Ishigaki",
-          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
         },
         {
-          "name": "Lola",
-          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
-        },
-        {
-          "name": "Devaloop",
-          "url": "https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY"
+          "name": "JPRK",
+          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
         }
       ],
-      "duration_ms": 173367,
-      "name": "Scintillate",
-      "url": "https://open.spotify.com/track/0I8lF4sOSnxssc99KxcBqU"
+      "duration_ms": 162324,
+      "name": "Primo",
+      "url": "https://open.spotify.com/track/2uCgOs0VUkQYlnXtfi4uuK"
     },
     {
       "added_at": "2026-02-25 03:51:29",
@@ -915,26 +915,6 @@
     {
       "added_at": "2026-02-25 03:51:29",
       "album": {
-        "name": "Syn Fonia I",
-        "url": "https://open.spotify.com/album/0LprKxhCl7cBBkQHzBbWRU"
-      },
-      "artists": [
-        {
-          "name": "EVISBEATS",
-          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
-        },
-        {
-          "name": "Kazuhiko Maeda",
-          "url": "https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "Space Orgazm",
-      "url": "https://open.spotify.com/track/5BxPmRFKVf9bMGr2q9ZmEA"
-    },
-    {
-      "added_at": "2026-02-25 03:51:29",
-      "album": {
         "name": "Sasanqua",
         "url": "https://open.spotify.com/album/0BMJ7h0QsY0wNSjsteLRSd"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 134959,
       "name": "Sasanqua",
       "url": "https://open.spotify.com/track/08POPoMeYXmzyOnrxLQRlU"
+    },
+    {
+      "added_at": "2026-02-25 03:51:29",
+      "album": {
+        "name": "Syn Fonia I",
+        "url": "https://open.spotify.com/album/0LprKxhCl7cBBkQHzBbWRU"
+      },
+      "artists": [
+        {
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Kazuhiko Maeda",
+          "url": "https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "Space Orgazm",
+      "url": "https://open.spotify.com/track/5BxPmRFKVf9bMGr2q9ZmEA"
     },
     {
       "added_at": "2026-02-25 03:51:29",
@@ -975,18 +975,18 @@
     {
       "added_at": "2026-02-25 03:51:29",
       "album": {
-        "name": "6F Encounters",
-        "url": "https://open.spotify.com/album/6qDq0f7Oa3CpQGnTyT5qug"
+        "name": "Whatsreal",
+        "url": "https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T"
       },
       "artists": [
         {
-          "name": "FloFilz",
-          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+          "name": "Psalm Trees",
+          "url": "https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S"
         }
       ],
-      "duration_ms": 144040,
-      "name": "6F Encounters",
-      "url": "https://open.spotify.com/track/0RgB0efZJi6NR17fAi0uNH"
+      "duration_ms": 148124,
+      "name": "Whatsreal",
+      "url": "https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt"
     },
     {
       "added_at": "2026-02-25 03:51:29",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2026-02-25 03:51:29",
       "album": {
-        "name": "Whatsreal",
-        "url": "https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T"
+        "name": "6F Encounters",
+        "url": "https://open.spotify.com/album/6qDq0f7Oa3CpQGnTyT5qug"
       },
       "artists": [
         {
-          "name": "Psalm Trees",
-          "url": "https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S"
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
         }
       ],
-      "duration_ms": 148124,
-      "name": "Whatsreal",
-      "url": "https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt"
+      "duration_ms": 144040,
+      "name": "6F Encounters",
+      "url": "https://open.spotify.com/track/0RgB0efZJi6NR17fAi0uNH"
     },
     {
       "added_at": "2026-02-25 03:51:29",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-02-25 03:51:29",
       "album": {
+        "name": "The Scenic Route",
+        "url": "https://open.spotify.com/album/7wbY6nhgh48vz5QGOGJDEo"
+      },
+      "artists": [
+        {
+          "name": "Elaquent",
+          "url": "https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL"
+        }
+      ],
+      "duration_ms": 173296,
+      "name": "Recuring Dream",
+      "url": "https://open.spotify.com/track/6dB6YYgBOPtzt37Fa0M8Eh"
+    },
+    {
+      "added_at": "2026-02-25 03:51:29",
+      "album": {
         "name": "Tarde Invernal",
         "url": "https://open.spotify.com/album/6dA8kioLgf0NRxEnrSLhWb"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 142004,
       "name": "Tarde Invernal",
       "url": "https://open.spotify.com/track/4son9tHQEmD5NK9JNGdtlf"
-    },
-    {
-      "added_at": "2026-02-25 03:51:29",
-      "album": {
-        "name": "The Scenic Route",
-        "url": "https://open.spotify.com/album/7wbY6nhgh48vz5QGOGJDEo"
-      },
-      "artists": [
-        {
-          "name": "Elaquent",
-          "url": "https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL"
-        }
-      ],
-      "duration_ms": 173296,
-      "name": "Recuring Dream",
-      "url": "https://open.spotify.com/track/6dB6YYgBOPtzt37Fa0M8Eh"
     },
     {
       "added_at": "2026-02-25 03:51:29",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-02-25 03:51:29",
       "album": {
-        "name": "glow",
-        "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
-      },
-      "artists": [
-        {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
-        }
-      ],
-      "duration_ms": 249717,
-      "name": "glow",
-      "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
-    },
-    {
-      "added_at": "2026-02-25 03:51:29",
-      "album": {
         "name": "Colibri",
         "url": "https://open.spotify.com/album/1PiE5MBRBD0fSuXETvn81S"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 212000,
       "name": "Colibri",
       "url": "https://open.spotify.com/track/1QxAi7Vgm10DBiLij4dGnZ"
+    },
+    {
+      "added_at": "2026-02-25 03:51:29",
+      "album": {
+        "name": "glow",
+        "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
+      },
+      "artists": [
+        {
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
+        }
+      ],
+      "duration_ms": 249717,
+      "name": "glow",
+      "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
     },
     {
       "added_at": "2026-02-25 03:51:29",

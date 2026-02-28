@@ -1073,6 +1073,24 @@
     },
     {
       "album": {
+        "name": "INI DIA",
+        "url": "https://open.spotify.com/album/2zrnqv7JAhdID3uKiIxbUR"
+      },
+      "artists": [
+        {
+          "name": "dia",
+          "url": "https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118248,
+      "name": "EEEE A",
+      "url": "https://open.spotify.com/track/4h07ne6Xf5AaCIGkrgNq1i"
+    },
+    {
+      "album": {
         "name": "Menari Dengan Bayangan",
         "url": "https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn"
       },
@@ -3038,6 +3056,24 @@
       "duration_ms": 247250,
       "name": "Primadona",
       "url": "https://open.spotify.com/track/21VAHk2V9XKkhsTT0LCyPI"
+    },
+    {
+      "album": {
+        "name": "Berbunga",
+        "url": "https://open.spotify.com/album/7GICddTJ6Lyrm8IPSGtyXg"
+      },
+      "artists": [
+        {
+          "name": "Dere",
+          "url": "https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200553,
+      "name": "Puspa",
+      "url": "https://open.spotify.com/track/4GXnBXT9JGeae9WtznHMmd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > This is Julia Vitória\. The essential tracks, all in one playlist.
 
-70 songs - 6 hr 46 min
+71 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Pai de Amor \(Heavenly Father I Appreciate You\) \- Ao Vivo](https://open.spotify.com/track/4y0lpqcs5nauOwJdP5Is9N) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Pai de Amor \(Heavenly Father I Appreciate You\) \[Ao Vivo\]](https://open.spotify.com/album/1xHsDUSESGzPXKsxYOQUe4) | 4:05 | 2023-08-19 |  |
 | [Palavras](https://open.spotify.com/track/31tZBMILhUQPwPDEMrQg3Z) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Palavras](https://open.spotify.com/album/1sQrDiL3Fh8ZBa0AlqcoAG) | 4:24 | 2023-07-09 |  |
 | [Perto Eu Quero Estar \- Ao Vivo](https://open.spotify.com/track/0qcVbrMV3FW3BnKOadt3Xw) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Perto Eu Quero Estar \(Ao Vivo\)](https://open.spotify.com/album/4YJCr4MpR5LE6WBMMcBT4x) | 4:12 | 2023-07-09 |  |
+| [Princípio e Fim \- Ao Vivo](https://open.spotify.com/track/7eaTivrbUG41ALipFdQYus) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Princípio e Fim \(Ao Vivo\)](https://open.spotify.com/album/7iLSh4dOutEWR2qZO3NWtV) | 6:23 | 2026-02-28 |  |
 | [Redimido \- Ao Vivo](https://open.spotify.com/track/5tQ86KVRFbsQp26LmDK5Yo) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Redimido \(Ao Vivo\)](https://open.spotify.com/album/2LxF3P6SnsYgfyNdtWnIAt) | 5:47 | 2023-12-13 |  |
 | [Restaura o Teu Altar \- Ao Vivo](https://open.spotify.com/track/4wrh7ga7os62COyIENj1mf) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Restaura o Teu Altar \(Ao Vivo\)](https://open.spotify.com/album/7lIAe7WjmKuBrhiBYIUFbF) | 6:58 | 2025-11-29 |  |
 | [Risen Savior \(Sing My Soul\) \- Live](https://open.spotify.com/track/4joIuCCI84iGcn1T1KQbUR) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Risen Savior \(Sing My Soul\)](https://open.spotify.com/album/50iKVMbuYnG7Fxv5BpaLPf) | 7:29 | 2023-07-09 | 2025-02-25 |
@@ -66,7 +67,7 @@
 | [Sem Palavras](https://open.spotify.com/track/0vPBFfdXXAoqclFkNX8979) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Luciano Camargo](https://open.spotify.com/artist/1tOFgcNGgl6DvHFsF5yst3) | [Sem Palavras](https://open.spotify.com/album/6eASbeNA5vfVRcv8wcZYwa) | 3:55 | 2024-08-17 |  |
 | [Som das Águas \- Acústico](https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Som das Águas \(Acústico\)](https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB) | 3:45 | 2023-07-09 |  |
 | [Som das Águas \- Ao Vivo](https://open.spotify.com/track/4M7zH6rJM4BOUkqdBp3fHE) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [One Service Project](https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7) | [Som das Águas \(Ao Vivo\)](https://open.spotify.com/album/6Ld1idWbNLeraKHfusfumG) | 5:27 | 2024-09-29 | 2025-02-22 |
-| [Sou Humano \(Ao Vivo\)](https://open.spotify.com/track/3Nncb8DnbdvGvfHoT6FejH) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Bruna Karla \- Louvorzão 2022 \(Ao Vivo\)](https://open.spotify.com/album/165BlFcLxau1hJTHHxHc1S) | 5:30 | 2023-07-09 |  |
+| [Sou Humano \(Ao Vivo\)](https://open.spotify.com/track/3Nncb8DnbdvGvfHoT6FejH) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Bruna Karla \- Louvorzão 2022 \(Ao Vivo\)](https://open.spotify.com/album/165BlFcLxau1hJTHHxHc1S) | 5:30 | 2023-07-09 | 2026-02-28 |
 | [Tu és Bom](https://open.spotify.com/track/4n5XNuCNdlv1olMLYDwpcn) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tu és Bom](https://open.spotify.com/album/5Iiv24LKFHRT0oeHGNGRcV) | 3:22 | 2023-07-09 |  |
 | [Tu És Rei](https://open.spotify.com/track/1ZRqhv2xiJWVrSOaD5VLpm) | [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tu És Rei](https://open.spotify.com/album/0cZcSReFhsKGSKx2XT19W7) | 7:01 | 2023-07-09 |  |
 | [Tu És Santo](https://open.spotify.com/track/1NaSnyNxuyzp7Cu0ejxcjx) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tu És Santo](https://open.spotify.com/album/0FUyhdvuhxB9A9ytLNuHwO) | 3:40 | 2023-07-09 |  |

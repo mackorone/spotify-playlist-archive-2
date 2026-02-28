@@ -1,13 +1,113 @@
 {
   "description": "A weekly selection of tracks that I love to listen to at home or play out at a party.",
-  "num_followers": 279655,
+  "num_followers": 279631,
   "original_name": "Martin Garrix Radio",
   "owner": {
     "name": "Martin Garrix",
     "url": "https://open.spotify.com/user/martingarrix"
   },
-  "snapshot_id": "AAAIi+Ckwzl5HzbLc8pUfssj738lgSrn",
+  "snapshot_id": "AAAIjyerQv/MCUCD3mlSipXht2VnBfXd",
   "tracks": [
+    {
+      "added_at": "2026-02-27 09:09:10",
+      "album": {
+        "name": "Right Nahh",
+        "url": "https://open.spotify.com/album/2g99IUCFyi04QOYvPd6NDn"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 149817,
+      "name": "Right Nahh",
+      "url": "https://open.spotify.com/track/0WMZSRpCfrUwmqTUaqQZa3"
+    },
+    {
+      "added_at": "2026-02-27 09:08:05",
+      "album": {
+        "name": "Don't Give Up",
+        "url": "https://open.spotify.com/album/3SV7ThDWT89t0f6poOW403"
+      },
+      "artists": [
+        {
+          "name": "NOME.",
+          "url": "https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93"
+        }
+      ],
+      "duration_ms": 145846,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/7lssCwBFqAp5sszHnsfLDr"
+    },
+    {
+      "added_at": "2026-02-27 09:08:05",
+      "album": {
+        "name": "ON THE MOVE",
+        "url": "https://open.spotify.com/album/6APBCYRXyElNJtqs5yFLQU"
+      },
+      "artists": [
+        {
+          "name": "Vluarr",
+          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "ON THE MOVE",
+      "url": "https://open.spotify.com/track/6skEpWNkNmaELxSlulBvHa"
+    },
+    {
+      "added_at": "2026-02-27 09:08:05",
+      "album": {
+        "name": "Accelerate",
+        "url": "https://open.spotify.com/album/3tBOi55OfaaLW6NbkQCy5Q"
+      },
+      "artists": [
+        {
+          "name": "BARTS",
+          "url": "https://open.spotify.com/artist/44qzMC9QX2iSk5ttc4SZfH"
+        }
+      ],
+      "duration_ms": 156363,
+      "name": "Accelerate",
+      "url": "https://open.spotify.com/track/6gslD6VJKBE7y3GVst6EPj"
+    },
+    {
+      "added_at": "2026-02-27 09:08:05",
+      "album": {
+        "name": "Clutch",
+        "url": "https://open.spotify.com/album/5IgswjG1HmPdCBejwiAb20"
+      },
+      "artists": [
+        {
+          "name": "Good Times Ahead",
+          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+        },
+        {
+          "name": "MNNR",
+          "url": "https://open.spotify.com/artist/4yZ4oFs7rKNy4OXlZmcZnd"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "Clutch",
+      "url": "https://open.spotify.com/track/0AuuYhRoOexK17RvNNE7Gk"
+    },
+    {
+      "added_at": "2026-02-27 09:08:05",
+      "album": {
+        "name": "Vision",
+        "url": "https://open.spotify.com/album/5cvmFijeT5wI6B6Shy1LBl"
+      },
+      "artists": [
+        {
+          "name": "Mauro Venti",
+          "url": "https://open.spotify.com/artist/1EYRcS75munXqQbWsZ0HVd"
+        }
+      ],
+      "duration_ms": 146015,
+      "name": "Vision",
+      "url": "https://open.spotify.com/track/5vSDA4Pcp2dcAtDUnOiryZ"
+    },
     {
       "added_at": "2026-01-16 15:27:02",
       "album": {
@@ -97,6 +197,22 @@
       "url": "https://open.spotify.com/track/5khfVayqYh6Cs7bcpzYzb4"
     },
     {
+      "added_at": "2026-02-27 09:08:05",
+      "album": {
+        "name": "Vision",
+        "url": "https://open.spotify.com/album/5cvmFijeT5wI6B6Shy1LBl"
+      },
+      "artists": [
+        {
+          "name": "Mauro Venti",
+          "url": "https://open.spotify.com/artist/1EYRcS75munXqQbWsZ0HVd"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "I Don't Need Nobody",
+      "url": "https://open.spotify.com/track/157WqoK6Q8y17d8MpivlFU"
+    },
+    {
       "added_at": "2026-01-16 15:27:02",
       "album": {
         "name": "Run",
@@ -151,6 +267,22 @@
       "duration_ms": 261958,
       "name": "Ain't Letting You Down",
       "url": "https://open.spotify.com/track/1vQolNYci1yfPZccu6mqIB"
+    },
+    {
+      "added_at": "2026-02-27 09:08:05",
+      "album": {
+        "name": "Vision",
+        "url": "https://open.spotify.com/album/5cvmFijeT5wI6B6Shy1LBl"
+      },
+      "artists": [
+        {
+          "name": "Mauro Venti",
+          "url": "https://open.spotify.com/artist/1EYRcS75munXqQbWsZ0HVd"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Heat Boy",
+      "url": "https://open.spotify.com/track/0VWdFFJ9LdiVnveYC10TPK"
     },
     {
       "added_at": "2026-01-16 15:27:02",

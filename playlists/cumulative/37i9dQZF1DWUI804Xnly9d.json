@@ -234,7 +234,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 222000,
       "name": "Aakhri Baat",
       "url": "https://open.spotify.com/track/7l2jbJumAMjztS7wHav0Je"
@@ -3842,6 +3842,36 @@
       "duration_ms": 221133,
       "name": "Hum Dono",
       "url": "https://open.spotify.com/track/4IALofMkaEpltIkhpvo0sz"
+    },
+    {
+      "album": {
+        "name": "Hum Tumhare (Unplugged)",
+        "url": "https://open.spotify.com/album/2MQY6QKCAZWcwAnUbU8CqJ"
+      },
+      "artists": [
+        {
+          "name": "Eric Wink",
+          "url": "https://open.spotify.com/artist/7k2dC4sHlKjN52VppZRxUP"
+        },
+        {
+          "name": "Ashimita Sawhney",
+          "url": "https://open.spotify.com/artist/3yUizU76QXuZcTydv0QpSC"
+        },
+        {
+          "name": "Saurabh Trivedi",
+          "url": "https://open.spotify.com/artist/3bz6ZRvw3t4k0Oz72baGrk"
+        },
+        {
+          "name": "Ayush Dolas",
+          "url": "https://open.spotify.com/artist/1TDK3rn1aqm7QmZfcJO4Mk"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188741,
+      "name": "Hum Tumhare (Unplugged)",
+      "url": "https://open.spotify.com/track/7IPqXficRXT39hvn4XxC3h"
     },
     {
       "album": {

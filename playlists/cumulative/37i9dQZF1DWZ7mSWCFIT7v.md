@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-559 songs - 1 day 20 hr 49 min
+562 songs - 1 day 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Brauner Bär](https://open.spotify.com/track/3KdzCW4YZkvi4qcY5U8TeT) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1) | [Brauner Bär](https://open.spotify.com/album/31Z1j8rZW1b6svVvOOOBi1) | 8:30 | 2025-10-10 | 2025-11-22 |
 | [Breathe Cre8](https://open.spotify.com/track/4L75OEom1UKUALCLguUpig) | [Kamandi](https://open.spotify.com/artist/4pSowxoZVdsKUyTkhU9ebC) | [Breathe Cre8](https://open.spotify.com/album/41zMYJ5DfjjcseXWbqeBlR) | 3:16 | 2022-02-25 | 2025-07-17 |
 | [British Columbia](https://open.spotify.com/track/6sKA3OL7Sz5Bpzn9CzaLnF) | [Alps 2](https://open.spotify.com/artist/3ZGwQcTbkx3ubLRoXUBcCd) | [British Columbia](https://open.spotify.com/album/55v5y2ktJYN61fithDiTDb) | 3:46 | 2025-08-11 |  |
-| [Broadcastyl](https://open.spotify.com/track/6VuhTKDDOfRDySMag7Rr96) | [RamonPang](https://open.spotify.com/artist/5rgp60RQWM2lsyrHloYD7D) | [The Answer Breaks](https://open.spotify.com/album/2MCmFPT7F9GiuR6glc4XPU) | 5:33 | 2025-08-22 |  |
+| [Broadcastyl](https://open.spotify.com/track/6VuhTKDDOfRDySMag7Rr96) | [RamonPang](https://open.spotify.com/artist/5rgp60RQWM2lsyrHloYD7D) | [The Answer Breaks](https://open.spotify.com/album/2MCmFPT7F9GiuR6glc4XPU) | 5:33 | 2025-08-22 | 2026-02-28 |
 | [BSMR](https://open.spotify.com/track/2PVA5M1EWqzbwyfPVBSqpA) | [Tom Marvin](https://open.spotify.com/artist/49YMNaFUcHthWqmQ4adbyH) | [The Archives, Vol\. 1](https://open.spotify.com/album/5SH33m7iBZovqeUwFIeqo1) | 4:09 | 2026-01-09 |  |
 | [Bundeena](https://open.spotify.com/track/1sBhHX5W5qmYbMBxvCuzd1) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/4JDu9Wp3oVqBc18hIau11s) | 4:22 | 2021-10-06 | 2025-07-17 |
 | [Bundeena](https://open.spotify.com/track/1QNgUvacqzNDdMOkXFtMlN) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1) | 4:22 | 2021-10-06 | 2024-04-19 |
@@ -246,7 +246,7 @@
 | [jazmin](https://open.spotify.com/track/3vLbYgfzxz2PewnOtVbayK) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR) | [Jardines Vol\. I](https://open.spotify.com/album/1huZKOZy8nzN8M7qDjocgg) | 2:33 | 2023-03-03 | 2025-07-17 |
 | [Jordão](https://open.spotify.com/track/4DBVvRxw7iCF0Os4KqKB2l) | [Niagara](https://open.spotify.com/artist/7v9653L6WJv9pZKYEKdcDz) | [Jordão](https://open.spotify.com/album/0GPBTClGuLZ4Z1aGGOqVWi) | 4:23 | 2022-01-21 | 2022-09-22 |
 | [Jupiter](https://open.spotify.com/track/17XWNxJmaPZbHjJ48aCmwm) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Jupiter](https://open.spotify.com/album/3GwfZuYLP7X8d0FBOZGyHt) | 4:05 | 2025-05-30 | 2025-10-11 |
-| [K](https://open.spotify.com/track/5YgBRARHa2TcMImdQ1eQI0) | [NTsKi](https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9) | [Euphoria](https://open.spotify.com/album/7byI7mI77MAZYhuHyFt8Ag) | 4:15 | 2025-10-17 |  |
+| [K](https://open.spotify.com/track/5YgBRARHa2TcMImdQ1eQI0) | [NTsKi](https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9) | [Euphoria](https://open.spotify.com/album/7byI7mI77MAZYhuHyFt8Ag) | 4:15 | 2025-10-17 | 2026-02-28 |
 | [K16 Del 1](https://open.spotify.com/track/1bCOjLk15YypgB9KkUpUsC) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Square One](https://open.spotify.com/album/5IruA91DcFLqjsryE4CMuZ) | 5:59 | 2021-10-06 | 2025-07-17 |
 | [Kalimba Heart](https://open.spotify.com/track/4UVYWa3Pq8pjm0bKw9uZ9u) | [A Lily](https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS) | [Sleep Through the Storm](https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7) | 3:11 | 2021-10-06 | 2024-04-19 |
 | [Kalimba Heart](https://open.spotify.com/track/6zHLUchfVKSSvDOYqrQu4U) | [A Lily](https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS) | [Sleep Through the Storm](https://open.spotify.com/album/2cJUkDSiyikvlTBtM3Dekx) | 3:11 | 2021-10-06 | 2025-07-17 |
@@ -285,7 +285,7 @@
 | [Lush Nova Elec](https://open.spotify.com/track/1zE3a5bnQp7oItLXIWG6Ap) | [Leila](https://open.spotify.com/artist/77uSxZ20fMeBEI804UuGX8) | [Courtesy of Choice ۲۵..\. asides and besides \(25th anniversary\)](https://open.spotify.com/album/7Ibx5ilXwSbjQl2NB6Yb7K) | 3:09 | 2025-11-14 | 2026-01-31 |
 | [LYMRINCE](https://open.spotify.com/track/52SBzN2ON4wkDmEEM0I5bK) | [enuar](https://open.spotify.com/artist/5vokRMHo5yamJ1b2NHDIcz) | [LYMRINCE / xcix\-maxima](https://open.spotify.com/album/1lvWOvSMLOOu9uJVzN4C3d) | 1:54 | 2025-04-25 | 2026-01-24 |
 | [Mainstream Belief](https://open.spotify.com/track/2VtvAOGHHsJ57UO46v9ybK) | [Grant](https://open.spotify.com/artist/5xUqD3EXrIaAq1IZeOC4lM) | [Cranks](https://open.spotify.com/album/1tBm85iGcYs2mlr7BIUvmv) | 4:59 | 2021-10-06 | 2025-07-17 |
-| [Manuark](https://open.spotify.com/track/2SSdkW1L2k8scw8cUvea6l) | [Voices from The Lake](https://open.spotify.com/artist/5SbbRrhr7qhyu1jv75AzOh) | [Manuark](https://open.spotify.com/album/73qxUWhcVJKaTHKkDgpS0d) | 6:54 | 2025-10-24 |  |
+| [Manuark](https://open.spotify.com/track/2SSdkW1L2k8scw8cUvea6l) | [Voices from The Lake](https://open.spotify.com/artist/5SbbRrhr7qhyu1jv75AzOh) | [Manuark](https://open.spotify.com/album/73qxUWhcVJKaTHKkDgpS0d) | 6:54 | 2025-10-24 | 2026-02-28 |
 | [Marking Time](https://open.spotify.com/track/34ywBstvC6knYlFm5VbaaO) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Marking Time](https://open.spotify.com/album/4WzQyr5KR9JkD2ilK0hw1W) | 4:30 | 2021-10-06 | 2025-07-17 |
 | [Marking Time](https://open.spotify.com/track/43YlD5hr6IVXPAuWz47bSH) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Angel Tears in Sunlight](https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd) | 4:30 | 2021-10-06 | 2024-03-30 |
 | [Matrix Bloom](https://open.spotify.com/track/4Jf2URgehgIDx5YKMVphUP) | [RamonPang](https://open.spotify.com/artist/5rgp60RQWM2lsyrHloYD7D) | [Matrix Bloom](https://open.spotify.com/album/1IhDA7aVpZz3YpVOmPR5HQ) | 5:50 | 2026-01-30 |  |
@@ -325,6 +325,7 @@
 | [Night Truths](https://open.spotify.com/track/1adKxjTGjk9h001b9WYLzD) | [Eamon Harkin](https://open.spotify.com/artist/2Vjxc2icvsiPPgzPz9nQQC) | [Night Truths](https://open.spotify.com/album/2y3EuqREWThOAm8wSTeEPA) | 7:08 | 2026-01-16 |  |
 | [NLL561606933](https://open.spotify.com/track/1sxkvvUTGKcRoY3IYnKyRb) | [Aleksi Perälä](https://open.spotify.com/artist/3hjBVvW03HcmXfKUipv1Fx) | [Simulation](https://open.spotify.com/album/542oFPILAI1UiGnoHH8XyH) | 4:54 | 2021-10-06 | 2025-07-17 |
 | [No Pills U](https://open.spotify.com/track/7qqXGvIXJeQopPy8wAq2X2) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Steep Stims](https://open.spotify.com/album/0zL30K7hlasu2LygmuK5EA) | 2:13 | 2025-11-07 |  |
+| [Noise and Chaos](https://open.spotify.com/track/4Mj4o0nMhfznMyz9BqvIja) | [Motoki Hada](https://open.spotify.com/artist/32xdvQZnvp4noPsOArCpAI) | [Noise and Chaos](https://open.spotify.com/album/7uvU39cAr6tYbO72j3EGY9) | 5:46 | 2026-02-27 |  |
 | [NPCs have feelings too](https://open.spotify.com/track/2NAb2HxL55cZRhATCQLw3t) | [Artur M Puga](https://open.spotify.com/artist/3eBggjM2o4vL4jMyLgElSn) | [weirdbloom](https://open.spotify.com/album/1VTbpHOo6ks1bjUZNwlvaZ) | 4:39 | 2023-03-28 | 2025-06-21 |
 | [NRG Remains](https://open.spotify.com/track/0OsNfb4otfIOdHSUt40ecP) | [Verraco](https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1) | [Grial](https://open.spotify.com/album/0plvaGqOtMeRPkzUwDgd3X) | 2:56 | 2021-10-06 | 2025-07-17 |
 | [Nutrition](https://open.spotify.com/track/2dT232m3tJqiGxhTQOWlKk) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Nutrition EP](https://open.spotify.com/album/1bOl840hJ6oAoDWn1qNYgV) | 4:25 | 2024-11-12 | 2025-09-16 |
@@ -380,6 +381,7 @@
 | [Reality Beckons](https://open.spotify.com/track/2xxjg0zKrLe6VtRerHujAn) | [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI) | [Reality Beckons](https://open.spotify.com/album/7A6YXYo6sqQXfm78CBETpa) | 3:44 | 2026-01-23 |  |
 | [Rejser](https://open.spotify.com/track/2zHDLkyEqwup69ZCR2mOAX) | [Emil Mark](https://open.spotify.com/artist/1qlDl83uNVefTibpCIvCoa) | [Rejser](https://open.spotify.com/album/0qA1RVPxi208LwgJU8p8X0) | 4:46 | 2026-02-04 |  |
 | [Reluctant Memory](https://open.spotify.com/track/168TsA6bdm7pt73KVyVyZM) | [DJ Sports](https://open.spotify.com/artist/7EJ8xVXZJezYW7Y1xvJ2Yb) | [Modern Species](https://open.spotify.com/album/4sZvkjrogy7HbQ0M5CNCEL) | 5:58 | 2021-10-06 | 2025-07-17 |
+| [Remaining](https://open.spotify.com/track/65aUooGV1yBpAwg868XHKK) | [Niels Orens](https://open.spotify.com/artist/56HzUkOrdunCoUYH2w25Xu) | [Remaining](https://open.spotify.com/album/0VfO1FISG5LLtjx5sBIzNI) | 4:13 | 2026-02-27 |  |
 | [Replica](https://open.spotify.com/track/4JvZ9aZDSG1vQigKPHGpaG) | [Aloka](https://open.spotify.com/artist/4UbgpaTDik0SDhBQq5Ucmt) | [Strange Forms](https://open.spotify.com/album/0gnnKS26a9maxCXGwuwAWn) | 4:48 | 2026-01-30 |  |
 | [Resonances From The D \- Bonus Track](https://open.spotify.com/track/2qza3GP3Bp4dowRBd6lk1Y) | [Laurent Garnier](https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ) | [fabric presents Laurent Garnier: Rhythmic Resonance \(Mixed\)](https://open.spotify.com/album/4GR1hk1LnQ7Qq4ZWonzfiw) | 8:20 | 2025-05-20 | 2025-10-25 |
 | [Resounding](https://open.spotify.com/track/4tWEcrIZeSAwFUr06k8gWs) | [Hotspring](https://open.spotify.com/artist/3QSOFV5VWDB1pbmlpUof4G) | [Obit For Sunshade](https://open.spotify.com/album/7dclubLbsPj645Q0kHWuK2) | 2:51 | 2021-10-06 | 2025-07-17 |
@@ -394,6 +396,7 @@
 | [Rotating In Unison](https://open.spotify.com/track/38x5k5FN5X7rtrN3WyxcA1) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Put Your Head Above The Parakeets](https://open.spotify.com/album/6d1CSnZChE0mkkVvRFlKVH) | 5:01 | 2021-10-06 | 2025-07-17 |
 | [Rotterdambi](https://open.spotify.com/track/7amYhgypF2tsCax09u80oF) | [Dubokaj](https://open.spotify.com/artist/4LpipxyhaUntlQyGXKmsQL) | [Daydreamflix](https://open.spotify.com/album/0lTJ1VWKgf6fhDiHvoQ7fq) | 2:17 | 2022-03-30 | 2025-07-17 |
 | [Routine](https://open.spotify.com/track/001AtqHBv2Pmnfkd4D1fDe) | [Skee Mask](https://open.spotify.com/artist/2qwi0hBvI2GrbkurOnw3hZ) | [ISS002](https://open.spotify.com/album/56PPeakEYsp9N44Hb1RcdU) | 5:44 | 2021-10-06 | 2022-07-23 |
+| [running \- mndsgn remix](https://open.spotify.com/track/3ULD5tEJRJ8bDndnVuBS7I) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0), [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26) | [running \(remix/live\)](https://open.spotify.com/album/7ew5PPmw9Ic6FXPIGJIRoe) | 3:27 | 2026-02-27 |  |
 | [Russian Oscillator](https://open.spotify.com/track/4pA4anx90egS5Tc8zwfKwI) | [Adrian Sherwood](https://open.spotify.com/artist/4vZIz0gG5DD3Qj9MB6kclW) | [The Grand Designer](https://open.spotify.com/album/59gBsijmqHF1tP6UfiYbVl) | 3:30 | 2025-06-13 | 2025-10-22 |
 | [Ryso](https://open.spotify.com/track/1TdtpAUTwx99XeEDULGVkE) | [Psychic Health](https://open.spotify.com/artist/6VZPTy7odAe8Xgy95gkie2) | [Exclusion](https://open.spotify.com/album/0TuFV0X2zr2zwS6qoSp8h3) | 4:25 | 2021-10-06 | 2022-07-20 |
 | [Rápido & Lento ;\)](https://open.spotify.com/track/1Q8l9OpEHChZbkBdJoJmn3) | [Brenda](https://open.spotify.com/artist/6bbLScfhLt3Q5QeIQYiQM9), [Verraco](https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1) | [Húmedo](https://open.spotify.com/album/2dxKs1bSNZS7f4zFi3K8Kv) | 5:27 | 2025-09-15 |  |

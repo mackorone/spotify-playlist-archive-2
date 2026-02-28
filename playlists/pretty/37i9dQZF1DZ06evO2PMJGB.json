@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 265070,
+  "num_followers": 265067,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAABFk1rdiotTYsQXyMTTtfAN",
+  "snapshot_id": "aZ+NAAAAAADSK/7WW1uKOidvihMPtuxD",
   "tracks": [
     {
       "added_at": null,
@@ -375,30 +375,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Combatchy (feat. MC Rebecca)",
-        "url": "https://open.spotify.com/album/4YQQS1DM9JskregbISv1dq"
+        "name": "BRABA",
+        "url": "https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        },
-        {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Rebecca",
-          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
         }
       ],
-      "duration_ms": 157600,
-      "name": "Combatchy (feat. MC Rebecca)",
-      "url": "https://open.spotify.com/track/2bPtwnrpFNEe8N7Q85kLHw"
+      "duration_ms": 129782,
+      "name": "BRABA",
+      "url": "https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg"
     },
     {
       "added_at": null,
@@ -443,18 +431,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "BRABA",
-        "url": "https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4"
+        "name": "Combatchy (feat. MC Rebecca)",
+        "url": "https://open.spotify.com/album/4YQQS1DM9JskregbISv1dq"
       },
       "artists": [
         {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        },
+        {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Rebecca",
+          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
         }
       ],
-      "duration_ms": 129782,
-      "name": "BRABA",
-      "url": "https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg"
+      "duration_ms": 157600,
+      "name": "Combatchy (feat. MC Rebecca)",
+      "url": "https://open.spotify.com/track/2bPtwnrpFNEe8N7Q85kLHw"
     },
     {
       "added_at": null,
@@ -891,6 +891,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beijo De Judas",
+        "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 174881,
+      "name": "Tenta\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/71txbUtWVkqbN7BOQcEkDI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NOT \u00dc",
         "url": "https://open.spotify.com/album/6WhhFMVZAcW8dWpipOddAk"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 139322,
       "name": "NOT \u00dc",
       "url": "https://open.spotify.com/track/7GJtYstZAW9hVBoTMfkYgh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beijo De Judas",
-        "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 174881,
-      "name": "Tenta\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/71txbUtWVkqbN7BOQcEkDI"
     },
     {
       "added_at": null,

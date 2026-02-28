@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 
 > Ränta på ränta..\. 💸
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,595 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,570 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 47 | [High Life](https://open.spotify.com/track/098ttCNmncrO4YvqWUNMvn) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:21 |
 | 48 | [Miss Decibel](https://open.spotify.com/track/1DLgyG3oqFB1pZacMOsdLB) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Sista minuten](https://open.spotify.com/album/6HkiZ3xdqbDcHiWYtyR3mN) | 3:14 |
 | 49 | [Sommarkatt](https://open.spotify.com/track/57AHVmaxTYWoBBB5CFr9Ts) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Sommarkatt](https://open.spotify.com/album/17jcApM4Eibe8do5pJTNCD) | 3:28 |
-| 50 | [Show Me Love \- Radio Edit](https://open.spotify.com/track/0CzJlMusD7CyBa7H9VyxC6) | [Doctor Y](https://open.spotify.com/artist/5Tfn0mwTWAvYUacFDhBWXr) | [Show Me Love \(Radio Edit\)](https://open.spotify.com/album/0ZV2JwBqsURM7b17a6DIZl) | 3:38 |
+| 50 | [Losing It \- Radio Edit](https://open.spotify.com/track/2KXwJZv1pRQFQ95Kj60jBN) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Losing It \(Radio Edit\)](https://open.spotify.com/album/2aYokx2jGun9pPjyY5Cc9t) | 2:43 |
 
 Snapshot ID: `AAAAANu0K5IuuArwVI6QQ3EAOavEX849`

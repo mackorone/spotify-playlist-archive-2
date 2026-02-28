@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,450 likes - 90 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,527 likes - 90 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,15 +35,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 25 | [Dear Limmertz](https://open.spotify.com/track/2CYiQ3q2G4HftvucNszh7R) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx) | [Outubro](https://open.spotify.com/album/0IorUdxKqanPxpAzzavG5n) | 4:31 |
 | 26 | [We Have Love](https://open.spotify.com/track/4JW5zLMjI7JymdPrjo0UGh) | [Amnesty](https://open.spotify.com/artist/13clnHtI56jEGjzqeD0Q1o) | [Free Your Mind](https://open.spotify.com/album/6egPdO2BtKte1CZpOd6Oxj) | 4:32 |
 | 27 | [Jazzie's Groove](https://open.spotify.com/track/0HGxuuv3WdVpIFZeIepoUq) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf) | [Keep On Movin'](https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni) | 2:37 |
-| 28 | [My Queen Is Albertina Sisulu](https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Your Queen Is A Reptile](https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5) | 5:14 |
-| 29 | [Bridge Through Time](https://open.spotify.com/track/3WmH2tJbogJcrVSrtdlMPO) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK) | [Love Is The Answer \(Expanded\)](https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8) | 4:01 |
+| 28 | [Bridge Through Time](https://open.spotify.com/track/3WmH2tJbogJcrVSrtdlMPO) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK) | [Love Is The Answer \(Expanded\)](https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8) | 4:01 |
+| 29 | [My Queen Is Albertina Sisulu](https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Your Queen Is A Reptile](https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5) | 5:14 |
 | 30 | [All or Nothing](https://open.spotify.com/track/6jWFsJT5IYVKCJEQ55L29W) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS), [Tanya Morgan](https://open.spotify.com/artist/1s8WiPtSSuQmJPGBwFTwFG), [Lorine Chia](https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9) | [Eternal](https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9) | 3:46 |
 | 31 | [Apparently Nothin' \- Soul River](https://open.spotify.com/track/5tjFtfGhmq1emybxdG6gIl) | [Young Disciples](https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4) | [Road To Freedom](https://open.spotify.com/album/5NZjo5bmc4kVlVp0sIfqMg) | 5:21 |
 | 32 | [Lord Jazz Hit Me One Time \(Make It Funky\)](https://open.spotify.com/track/2vWaZmzwxRDNYySRGUdq3N) | [Lords Of The Underground](https://open.spotify.com/artist/17Q9sCBpIyS6yM2YyaI6R4) | [Here Come The Lords](https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI) | 2:46 |
 | 33 | [Mama Said](https://open.spotify.com/track/7MITu04P3bpWgI1IBdmhYf) | [Carleen Anderson](https://open.spotify.com/artist/6thyqrW8SkVY11NUqTyCI6) | [True Spirit](https://open.spotify.com/album/6GxnHqovqi1yRhCpLQ9LPp) | 4:07 |
 | 34 | [Whatchugot](https://open.spotify.com/track/5kMnWSBKSLnN7Su1XDTttO) | [Groove Collective](https://open.spotify.com/artist/4jtNe96TPlvnre0tgcL5pg) | [Groove Collective](https://open.spotify.com/album/3yhvrkLMZjGzb0uBQq5y2N) | 6:34 |
-| 35 | [Evil Vibrations](https://open.spotify.com/track/2kKP6f4FdVxOHvUG8ctLKY) | [The Rebirth](https://open.spotify.com/artist/69Jz3OjR3kdhCoJoAY8PSL) | [Rewind, Vol\. 4](https://open.spotify.com/album/7FGy6XcQ4v0sP56LWbg6gp) | 5:33 |
-| 36 | [Feel The Real](https://open.spotify.com/track/2tTMoXavkBdOsjKGaKdzdm) | [David Bendeth](https://open.spotify.com/artist/1cIMjUTNaDs3pP0TxjdPXe) | [Adrenalin](https://open.spotify.com/album/79JZAbb01l4hyVs0JNJJEe) | 6:50 |
+| 35 | [Feel The Real](https://open.spotify.com/track/2tTMoXavkBdOsjKGaKdzdm) | [David Bendeth](https://open.spotify.com/artist/1cIMjUTNaDs3pP0TxjdPXe) | [Adrenalin](https://open.spotify.com/album/79JZAbb01l4hyVs0JNJJEe) | 6:50 |
+| 36 | [Evil Vibrations](https://open.spotify.com/track/2kKP6f4FdVxOHvUG8ctLKY) | [The Rebirth](https://open.spotify.com/artist/69Jz3OjR3kdhCoJoAY8PSL) | [Rewind, Vol\. 4](https://open.spotify.com/album/7FGy6XcQ4v0sP56LWbg6gp) | 5:33 |
 | 37 | [Stomp And Buck Dance](https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp) | [The Crusaders](https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b) | [Southern Comfort](https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD) | 5:48 |
 | 38 | [Hard Work](https://open.spotify.com/track/4URLJkB6D5QxvOB7H3kmGI) | [John Handy](https://open.spotify.com/artist/3Hl3dCaBcrnvBAOMAW4nJR) | [Hard Work](https://open.spotify.com/album/36qRTryrmjNPkO6AX8fKTw) | 6:57 |
 | 39 | [Love Will Bring Us Back Together](https://open.spotify.com/track/2LCsNgUX2qsEbKZ9yLRUJq) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Evolution: The Polydor Anthology](https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l) | 5:55 |

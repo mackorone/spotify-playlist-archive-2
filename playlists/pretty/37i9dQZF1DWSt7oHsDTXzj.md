@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 
 > The ultimate seasonal \(indie\) playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,203 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,162 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 53 | [A Little Love](https://open.spotify.com/track/7eTonpb9lXgerPaW6I1VnP) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [A Little Love \(From The John Lewis & Waitrose Christmas Advert 2020\)](https://open.spotify.com/album/6uXCDNLCKMosTnjTrDtkp4) | 2:58 |
 | 54 | [A Dreamer's Holiday](https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [A Dreamer's Holiday](https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E) | 3:00 |
 | 55 | [Blue Christmas](https://open.spotify.com/track/5Tkq8xiWGkcnCoU9itcCBN) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [A Christmas Album](https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1) | 2:19 |
-| 56 | [Merry Xmas Everybody](https://open.spotify.com/track/5lfN1H4X6hDhHKMoZIApEN) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Merry Xmas Everybody](https://open.spotify.com/album/60i7Lo8iMpAFEogjdDQje4) | 3:38 |
-| 57 | [Andalucia](https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:32 |
+| 56 | [Andalucia](https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:32 |
+| 57 | [Merry Xmas Everybody](https://open.spotify.com/track/5lfN1H4X6hDhHKMoZIApEN) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Merry Xmas Everybody](https://open.spotify.com/album/60i7Lo8iMpAFEogjdDQje4) | 3:38 |
 | 58 | [Christmas Special](https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Christmas Special](https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl) | 3:08 |
 | 59 | [White Christmas](https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [White Christmas](https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14) | 2:32 |
 | 60 | [The Little Drummer Boy](https://open.spotify.com/track/3PS3si74boOaOC6zxf858B) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [The Little Drummer Boy](https://open.spotify.com/album/31DWNerPyDK7QIpaT3FAWF) | 2:56 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 69 | [When I Get Home for Christmas](https://open.spotify.com/track/3KyVary6bJfAK5cZCWgW1j) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [When I Get Home for Christmas](https://open.spotify.com/album/50ctfjOYbjIn56CfxUxdZD) | 4:16 |
 | 70 | [White Winter Hymnal](https://open.spotify.com/track/4NCBDTOYQmBmXXQEs3pUDB) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [White Winter Hymnal](https://open.spotify.com/album/5jBXk71cVw1kRlyaQ1kbO5) | 2:14 |
 | 71 | [Cozy Christmas](https://open.spotify.com/track/1QnbWxNrVX5IlF7GeWqkZR) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Cozy Christmas / December Baby](https://open.spotify.com/album/5eDRhqqR5tmiPnrUfCdLRe) | 3:57 |
-| 72 | [This Wintertime](https://open.spotify.com/track/4K2eNoUvBzaD0yjAtSHvG3) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Purple Snowflakes / This Wintertime](https://open.spotify.com/album/5SoBDgotyx8iue58ZB35uf) | 4:13 |
-| 73 | [santa baby](https://open.spotify.com/track/1gpXsWIb9HhdiK3KYDsCZr) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [santa baby](https://open.spotify.com/album/7wCLSfmIX1QqLnGwM35R4h) | 2:39 |
+| 72 | [santa baby](https://open.spotify.com/track/1gpXsWIb9HhdiK3KYDsCZr) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [santa baby](https://open.spotify.com/album/7wCLSfmIX1QqLnGwM35R4h) | 2:39 |
+| 73 | [This Wintertime](https://open.spotify.com/track/4K2eNoUvBzaD0yjAtSHvG3) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Purple Snowflakes / This Wintertime](https://open.spotify.com/album/5SoBDgotyx8iue58ZB35uf) | 4:13 |
 | 74 | [Auld Lang Syne](https://open.spotify.com/track/0iDlZGhqZQO1j7Vnmnu8P9) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:32 |
 | 75 | [Amelia \(A Christmas Carol\)](https://open.spotify.com/track/3es8Mx4rLDVFw6DQBqwCTG) | [Jimmy Kelly](https://open.spotify.com/artist/36HJ2ONaZ9fShnJvgvqFTq) | [Amelia \(A Christmas Carol\)](https://open.spotify.com/album/0JF3CO07Svd1lFLnRWXOdy) | 3:03 |
 

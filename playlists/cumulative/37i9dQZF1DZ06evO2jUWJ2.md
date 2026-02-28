@@ -4,7 +4,7 @@
 
 > This is Elevation Worship\. The essential tracks, all in one playlist.
 
-82 songs - 8 hr 47 min
+83 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [So So Good \- Live](https://open.spotify.com/track/3uNx9NvRHm60mDwOBFCkqg) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [So So Good \(Live\)](https://open.spotify.com/album/4dZx4AIFmNQo4KCUyhY3ru) | 4:48 | 2025-08-29 |  |
 | [Sure Been Good \(feat\. Tiffany Hudson\)](https://open.spotify.com/track/17qx4XW3tI8BkGhZseXzsQ) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [When Wind Meets Fire](https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0) | 7:32 | 2024-08-06 | 2025-12-12 |
 | [Sure Been Good \(feat\. Tiffany Hudson\)](https://open.spotify.com/track/5doYljP28aXEnQryAPrcka) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Sure Been Good](https://open.spotify.com/album/1ivo46wANZtVJodxaqT4f9) | 7:32 | 2024-05-24 | 2024-08-06 |
-| [Talking To Jesus \(feat\. Brandon Lake\)](https://open.spotify.com/track/7q05bMdcSwsJKduP8eiLpZ) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 8:29 | 2024-08-07 |  |
+| [Talking To Jesus \(feat\. Brandon Lake\)](https://open.spotify.com/track/7q05bMdcSwsJKduP8eiLpZ) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 8:29 | 2024-08-07 | 2026-02-28 |
+| [Thank You \(feat\. Jonsal Barrientes & Tiffany Hudson\)](https://open.spotify.com/track/2Z1OmcUpMToGnOGa2RP0OR) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Jonsal Barrientes](https://open.spotify.com/artist/1qPdpbKXwgJeJ45C7rJj4J), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [SO BE IT](https://open.spotify.com/album/6OF8Psf3BjjHnBIfUpOYHp) | 6:31 | 2026-02-28 |  |
 | [The Blessing \(Live\)](https://open.spotify.com/track/5O306r2a9Nl7rm5ZlaTqka) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 8:27 | 2024-05-25 |  |
 | [The One You Love](https://open.spotify.com/track/7ssoLXeu8jLn1hLbPgG3TK) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [LION](https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh) | 7:57 | 2024-05-24 | 2024-12-08 |
 | [There Is a Cloud](https://open.spotify.com/track/2sn2gK89nnjXgJ0iLO4Gps) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 5:47 | 2024-05-24 | 2024-07-18 |

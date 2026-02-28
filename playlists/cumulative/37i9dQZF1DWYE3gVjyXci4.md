@@ -4,7 +4,7 @@
 
 > pink bows, spilled secrets, deep feels, and main character dreams
 
-76 songs - 4 hr 35 min
+78 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2025-08-18 |  |
 | [Go Away](https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:27 | 2025-08-18 | 2025-09-20 |
 | [Good Books](https://open.spotify.com/track/7qqDAVEq3y8yKmEMVMJ6Wf) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:14 | 2025-08-18 |  |
-| [Honey](https://open.spotify.com/track/4qmFC3Jz5aQ0erlk2OSi2X) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:01 | 2025-10-24 |  |
+| [Honey](https://open.spotify.com/track/4qmFC3Jz5aQ0erlk2OSi2X) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:01 | 2025-10-24 | 2026-02-28 |
 | [How Am I Supposed To Love Myself?](https://open.spotify.com/track/3Fc478Rl4HYlqLYMZ5gfMT) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [How Am I Supposed To Love Myself?](https://open.spotify.com/album/3PBbBLpCuIveNKgxRQds1e) | 3:44 | 2025-11-28 |  |
 | [I Told You Things](https://open.spotify.com/track/5V6mK1pEu22104f22m8KkX) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 3:41 | 2025-08-18 |  |
 | [I Want You To Love Me](https://open.spotify.com/track/73SBAGI4fPFm4VkB3NjXq8) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Fetch The Bolt Cutters](https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj) | 3:57 | 2025-08-18 |  |
@@ -44,7 +44,7 @@
 | [Know You Forever](https://open.spotify.com/track/5l9u3FymQxGg9vdRXI7tLQ) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Early Twenties Torture](https://open.spotify.com/album/6HNDL6my8XFprSf8KRwaf8) | 3:12 | 2025-10-24 |  |
 | [Knowing](https://open.spotify.com/track/79xIJDjvkuq7Ya34PITFLD) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Knowing](https://open.spotify.com/album/5Y6ZiopsWTP46syvirfYK0) | 3:40 | 2026-01-06 |  |
 | [Lady Lady](https://open.spotify.com/track/2dmBAIjIfisvCG7G9YEh0g) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:29 | 2025-10-24 |  |
-| [Laid Down My Arms](https://open.spotify.com/track/2vzj3ueNzwFsJKo18UAOSo) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Laid Down My Arms](https://open.spotify.com/album/4N9HQlTBjCcpCSFuJAcNQL) | 4:29 | 2025-08-18 |  |
+| [Laid Down My Arms](https://open.spotify.com/track/2vzj3ueNzwFsJKo18UAOSo) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Laid Down My Arms](https://open.spotify.com/album/4N9HQlTBjCcpCSFuJAcNQL) | 4:29 | 2025-08-18 | 2026-02-28 |
 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 | 2025-08-18 |  |
 | [logical](https://open.spotify.com/track/53dtP2iUMvaF28JZcHnFuU) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:51 | 2025-08-18 | 2026-01-15 |
 | [Love](https://open.spotify.com/track/2Kerz9H9IejzeIpjhDJoYG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 4:32 | 2025-08-18 |  |
@@ -68,7 +68,9 @@
 | [Same Mouth](https://open.spotify.com/track/54kKXHfDyylaMcVJQOIjKp) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [That Could Be Me](https://open.spotify.com/album/2zzGDctvygFHOKpEQBS3MN) | 2:36 | 2025-08-18 |  |
 | [Sex and the city](https://open.spotify.com/track/05e0Tkr6tpxbktIei9q8Mw) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Who's the Clown?](https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP) | 2:49 | 2025-12-05 |  |
 | [She](https://open.spotify.com/track/6SQLk9HSNketfgs2AyIiMs) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 6:02 | 2025-08-18 |  |
+| [Sleeping Dogs](https://open.spotify.com/track/1AXf936Ys3VSuGQMvCFQvD) | [Dolder](https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb) | [Sleeping Dogs](https://open.spotify.com/album/2HupVyLf54am3GFxjFZWnn) | 3:34 | 2026-02-27 |  |
 | [Snow White](https://open.spotify.com/track/45mmAFhB2L79faaul6n8If) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Snow White](https://open.spotify.com/album/0fPlfyidFYMTYn14faHYl9) | 3:13 | 2025-08-18 | 2025-12-06 |
+| [Steady](https://open.spotify.com/track/4PZQtsDTNlq5hFWmdBb5xh) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [a couple minutes out](https://open.spotify.com/album/13sFSgU0S2NUdpv4BbLN0t) | 3:26 | 2026-02-27 |  |
 | [Sugar Water](https://open.spotify.com/track/7mDgx8aONzvoKw0Ckx3wF7) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 5:03 | 2026-01-06 |  |
 | [Summer Forever](https://open.spotify.com/track/6RbbysHL9wr8gTRhBlYBbq) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:47 | 2025-08-18 | 2025-10-25 |
 | [Tell Me It's Over](https://open.spotify.com/track/5dGzPJBNASM65k7uwcEMtt) | [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [Tell Me It's Over](https://open.spotify.com/album/6MmMqPde3ph2QQY1FhaUrP) | 2:56 | 2026-01-09 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Paramore. The essential tracks, all in one playlist.",
-  "num_followers": 966350,
+  "num_followers": 966456,
   "original_name": "This Is Paramore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAAD///OG5MEa9SV+uJdxhvuT",
+  "snapshot_id": "aZ+NAAAAAADHmtd13OVqvK51+em0NBcw",
   "tracks": [
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 215093,
-      "name": "When It Rains",
-      "url": "https://open.spotify.com/track/5MNsy8G3K0Y09QFpktzyrj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Why",
         "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 235012,
       "name": "Crave",
       "url": "https://open.spotify.com/track/7wYCva1bI1AkHRQoVXhy8F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 215093,
+      "name": "When It Rains",
+      "url": "https://open.spotify.com/track/5MNsy8G3K0Y09QFpktzyrj"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "Let the Flames Begin",
-      "url": "https://open.spotify.com/track/2myJNvcL71V5IZ1N2NW29O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Why",
         "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 207652,
       "name": "This Is Why",
       "url": "https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 198226,
+      "name": "Let the Flames Begin",
+      "url": "https://open.spotify.com/track/2myJNvcL71V5IZ1N2NW29O"
     },
     {
       "added_at": null,

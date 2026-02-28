@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Gorillaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,395 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,414 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 8 | [AUTONOMY](https://open.spotify.com/track/2kNd41ey27IQcEME9J0ZBz) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [AUTONOMY](https://open.spotify.com/album/31NLkXt7yqS8Ugi7DvkxQm) | 4:40 |
 | 9 | [Meaning Of It All](https://open.spotify.com/track/4GPKCexcPQb706EWDHAHmD) | [Michael Prins](https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m) | [Meaning Of It All](https://open.spotify.com/album/3PxODeTRyswUaiJHsveNqJ) | 4:32 |
 | 10 | [Drag Path](https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drag Path](https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo) | 3:44 |
-| 11 | [Tell Me It Ain't Over](https://open.spotify.com/track/50m3JU4UKyu1pr4y7jWjfg) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Lovesick Sentimental](https://open.spotify.com/album/3Z63UdA9vBK8yhmhwqkEY2) | 4:48 |
+| 11 | [Tell Me It Ain't Over](https://open.spotify.com/track/50m3JU4UKyu1pr4y7jWjfg) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Lovesick Sentimental](https://open.spotify.com/album/3Z63UdA9vBK8yhmhwqkEY2) | 4:49 |
 | 12 | [Opening Night](https://open.spotify.com/track/7HXzuAd8UNJj2yCAS0NWbB) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [Opening Night](https://open.spotify.com/album/0Q6JVakLI4J5kvjX2uW38i) | 4:19 |
 | 13 | [HEAVENLY FATHER \- Mediolanum, Milan, IT\. Nov 05 2022](https://open.spotify.com/track/4XyteovQUzWDoQsx07M2en) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [HEAVENLY FATHER \- Mediolanum, Milan, IT\. Nov 05 2022](https://open.spotify.com/album/3XKBl8eJQzEddmR2tR1Ww0) | 4:00 |
 | 14 | [Cold Sun](https://open.spotify.com/track/0R03DkSad23jyYw6lecBsG) | [The Hickey Underworld](https://open.spotify.com/artist/2MQPjAyvdDotQXwvKPAxam) | [Cold Sun](https://open.spotify.com/album/6jOOUBJxY1DY6s0oWZoc9T) | 3:23 |

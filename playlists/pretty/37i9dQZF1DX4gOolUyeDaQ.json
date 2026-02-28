@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Al agua! Nosotros ponemos la m\u00fasica.",
-  "num_followers": 496206,
+  "num_followers": 496213,
   "original_name": "Pool Party",
   "owner": {
     "name": "Spotify",
@@ -355,18 +355,26 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "Motivando a la Yal",
-        "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
       "artists": [
         {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 232019,
-      "name": "Yo Voy (feat. Daddy Yankee)",
-      "url": "https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS"
+      "duration_ms": 198081,
+      "name": "Peaches (feat. Daniel Caesar & Giveon)",
+      "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -395,26 +403,18 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+        "name": "Motivando a la Yal",
+        "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
         }
       ],
-      "duration_ms": 198081,
-      "name": "Peaches (feat. Daniel Caesar & Giveon)",
-      "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
+      "duration_ms": 232019,
+      "name": "Yo Voy (feat. Daddy Yankee)",
+      "url": "https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -935,26 +935,6 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "Inolvidable",
-        "url": "https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI"
-      },
-      "artists": [
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 225812,
-      "name": "Inolvidable",
-      "url": "https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
         "name": "Volv\u00ed",
         "url": "https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 230125,
       "name": "Volv\u00ed",
       "url": "https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "Inolvidable",
+        "url": "https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 225812,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "My Universe",
-        "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "My Universe",
-      "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -1291,18 +1271,22 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+        "name": "My Universe",
+        "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
       },
       "artists": [
         {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 168227,
-      "name": "MONEY",
-      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
+      "duration_ms": 228000,
+      "name": "My Universe",
+      "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "evermore",
-        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
         }
       ],
-      "duration_ms": 214706,
-      "name": "willow",
-      "url": "https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f"
+      "duration_ms": 168227,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -1355,6 +1339,22 @@
       "duration_ms": 143901,
       "name": "THATS WHAT I WANT",
       "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "evermore",
+        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "willow",
+      "url": "https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "Dream Girl (Remix)",
-        "url": "https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 192452,
-      "name": "Dream Girl - Remix",
-      "url": "https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
         "name": "Breaking Me",
         "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 166793,
       "name": "Breaking Me",
       "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "Dream Girl (Remix)",
+        "url": "https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 192452,
+      "name": "Dream Girl - Remix",
+      "url": "https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "Remember That Night?",
-        "url": "https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP"
-      },
-      "artists": [
-        {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
-        }
-      ],
-      "duration_ms": 227186,
-      "name": "Remember That Night?",
-      "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
         "name": "drivers license",
         "url": "https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 242013,
       "name": "drivers license",
       "url": "https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "Remember That Night?",
+        "url": "https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP"
+      },
+      "artists": [
+        {
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+        }
+      ],
+      "duration_ms": 227186,
+      "name": "Remember That Night?",
+      "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
+        "name": "Dark Lane Demo Tapes",
+        "url": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 247058,
+      "name": "Toosie Slide",
+      "url": "https://open.spotify.com/track/466cKvZn1j45IpxDdYZqdA"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
       },
@@ -1887,22 +1903,6 @@
       "duration_ms": 172797,
       "name": "QLONA",
       "url": "https://open.spotify.com/track/3XB5uhhlYSnkxpSihkNQwh"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
-        "name": "Dark Lane Demo Tapes",
-        "url": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 247058,
-      "name": "Toosie Slide",
-      "url": "https://open.spotify.com/track/466cKvZn1j45IpxDdYZqdA"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -1959,6 +1959,22 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 163854,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
         "name": "La Forma en Que Me Miras",
         "url": "https://open.spotify.com/album/4C1RvpT7vJ7H8j21larWQU"
       },
@@ -1991,18 +2007,18 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
+        "name": "Tacones Rojos",
+        "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 163854,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
+      "duration_ms": 189320,
+      "name": "Tacones Rojos",
+      "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -2023,38 +2039,6 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "Tacones Rojos",
-        "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "Tacones Rojos",
-      "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
-        "name": "Colores",
-        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 157733,
-      "name": "Amarillo",
-      "url": "https://open.spotify.com/track/6zEgnpM0qYmHLDnh8WPejL"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
         "name": "Te Felicito",
         "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 172235,
       "name": "Te Felicito",
       "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "Amarillo",
+      "url": "https://open.spotify.com/track/6zEgnpM0qYmHLDnh8WPejL"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "Saving Up",
-        "url": "https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        }
-      ],
-      "duration_ms": 207514,
-      "name": "Saving Up",
-      "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 233386,
       "name": "You",
       "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "Saving Up",
+        "url": "https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 207514,
+      "name": "Saving Up",
+      "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -2755,22 +2755,6 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "1 of 1",
-        "url": "https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 184254,
-      "name": "Relaci\u00f3n",
-      "url": "https://open.spotify.com/track/3ZG8N7aWw2meb6UrI5ZmnZ"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
         "name": "I AM WOMAN",
         "url": "https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n"
       },
@@ -2799,6 +2783,22 @@
       "duration_ms": 156946,
       "name": "Up",
       "url": "https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "1 of 1",
+        "url": "https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 184254,
+      "name": "Relaci\u00f3n",
+      "url": "https://open.spotify.com/track/3ZG8N7aWw2meb6UrI5ZmnZ"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -2931,26 +2931,6 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "CHAMA MEU NOME",
-        "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "Mc Pedrinho",
-          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
-        }
-      ],
-      "duration_ms": 110222,
-      "name": "DAN\u00c7ARINA",
-      "url": "https://open.spotify.com/track/5zNxUkUW9WiV5oyg6gh2wB"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
         "name": "DJ No Pare (feat. Zion, Dalex, Lenny Tav\u00e1rez) [Remix]",
         "url": "https://open.spotify.com/album/71uU1JDWZ61OMDtW8h1Kp8"
       },
@@ -2983,6 +2963,26 @@
       "duration_ms": 258600,
       "name": "DJ No Pare (feat. Zion, Dalex, Lenny Tav\u00e1rez) - Remix",
       "url": "https://open.spotify.com/track/1ndyl3wJCFs872XZ3ztPk6"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "PAPI JUANCHO",
+        "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 198569,
+      "name": "Madrid (feat. Myke Towers)",
+      "url": "https://open.spotify.com/track/19OXtYzrJyCrQvTbfukt4H"
     }
   ],
   "unique_name": "Pool Party",

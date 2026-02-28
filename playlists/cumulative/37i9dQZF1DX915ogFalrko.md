@@ -4,7 +4,7 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-194 songs - 11 hr 28 min
+195 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Grizzly Bear](https://open.spotify.com/track/2vnY0rNwecUTknZyEpJbZR) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Angus & Julia Stone](https://open.spotify.com/album/3VT2E4zmRmdn1EZw5U4HK6) | 4:08 | 2025-08-12 |  |
 | [Hanoï café](https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6) | [Bleu Toucan](https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r) | [Origami](https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA) | 3:14 | 2025-07-18 |  |
 | [Here, There And Everywhere \- Remastered 2009](https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR) | 2:24 | 2025-07-18 | 2025-08-13 |
-| [Hopes](https://open.spotify.com/track/4VpZuQybRG17RNjhgVbym7) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Hopes](https://open.spotify.com/album/7DwxsnVF7eErIgNNxLiT7H) | 2:44 | 2025-08-21 |  |
+| [Hopes](https://open.spotify.com/track/4VpZuQybRG17RNjhgVbym7) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Hopes](https://open.spotify.com/album/7DwxsnVF7eErIgNNxLiT7H) | 2:44 | 2025-08-21 | 2026-02-28 |
 | [Hotel](https://open.spotify.com/track/6GidQ1dZ3fn05tTDHu47In) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Alē](https://open.spotify.com/album/7LnzOfYsMn2euc6xuZoQup) | 2:27 | 2025-07-18 | 2025-08-02 |
 | [How To Live](https://open.spotify.com/track/25ywKtUww26ABFd0tiGt9D) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [How To Live](https://open.spotify.com/album/0YrhLhmdGAgsHizxY1BRlH) | 4:00 | 2025-08-01 | 2026-01-24 |
 | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/track/0f7sFuSS6GiZEnNA9AHMsJ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Children of the Baked Potato](https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In) | 2:49 | 2025-09-18 | 2025-10-17 |
@@ -145,6 +145,7 @@
 | [Shala\-Lala\-La](https://open.spotify.com/track/3fv0dIDalzlgaLRAvaBobT) | [Waldeck](https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH), [la Heidi](https://open.spotify.com/artist/5uaGhmrko7vQ43FKH1V1KT) | [Gran Paradiso](https://open.spotify.com/album/4e8YIEAGQlDLpka8wkiZBM) | 3:15 | 2025-07-18 |  |
 | [Siesta Freestyle](https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Alicia te quiero](https://open.spotify.com/artist/36sT4wc9jtpjKsa4kXZhkS) | [Dancy Party](https://open.spotify.com/album/3hifRrzUOFSl3BJo2JUqBE) | 3:14 | 2025-07-18 |  |
 | [Silver Screens](https://open.spotify.com/track/4RVhYp02rWNYn6N35yXzxH) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Silver Screens](https://open.spotify.com/album/3OHp2k00Tx51yX33X2zyZw) | 3:21 | 2025-10-10 | 2025-11-07 |
+| [Slow Tonight](https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Slow Tonight](https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc) | 3:12 | 2026-02-27 |  |
 | [Small Town Girls](https://open.spotify.com/track/6Dm7r7IyaNLOnLKXs0MhKD) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [About A Woman \(From A Small Town\)](https://open.spotify.com/album/3gWvwlZ4c5k8am80gBnlci) | 2:30 | 2025-07-18 | 2025-07-26 |
 | [So Be So Mine](https://open.spotify.com/track/1EZ8su96SWli2ao55uNyXE) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [So Be So Mine](https://open.spotify.com/album/6a2sEWy5mmfAcsaSW3tt7Q) | 2:54 | 2025-09-25 | 2025-11-09 |
 | [Somebody That I Used to Know](https://open.spotify.com/track/0kQavaJGqio24iCOHyM6aa) | [Freedom Dub](https://open.spotify.com/artist/4KWmY9RioiBzILyhpJjQ3J), [Angie](https://open.spotify.com/artist/7uGnvnboEMvBsBBGggqqC1) | [Chilling Effects](https://open.spotify.com/album/0M35TZUSnmX5Id5Vx5Y2GK) | 4:10 | 2025-07-18 |  |

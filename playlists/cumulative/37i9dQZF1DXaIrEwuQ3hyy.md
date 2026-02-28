@@ -4,7 +4,7 @@
 
 > Songs, die von innen wärmen.
 
-290 songs - 16 hr 22 min
+292 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Eyes](https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Eyes](https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA) | 4:17 | 2023-07-26 | 2024-04-19 |
 | [Fantasy \(with Raveena\)](https://open.spotify.com/track/6g8cxooV9l2dluphzZyJDg) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Fantasy \(with Raveena\)](https://open.spotify.com/album/7dEJfJNC8FTuvu1fbnXedb) | 3:54 | 2025-03-24 | 2025-04-26 |
 | [Favorite Part](https://open.spotify.com/track/1OYM9zd4CwZCk6qVDC51K6) | [Jared Benjamin](https://open.spotify.com/artist/0pu0ZEMZtgePMOE6m19Cne), [Diana](https://open.spotify.com/artist/3lxzzKcBsDoqtKasgJnWSw) | [ICARUS](https://open.spotify.com/album/7l5kJsa4xkMX8Wt9nPXuvO) | 3:02 | 2026-01-30 |  |
-| [Fcuk!](https://open.spotify.com/track/0evmOxpkmNxaJGPPYSnPGm) | [Jared Lembo](https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g) | [Enough](https://open.spotify.com/album/1gXNFFoqxKAFpjEQNoaD1A) | 3:34 | 2025-09-12 |  |
+| [Fcuk!](https://open.spotify.com/track/0evmOxpkmNxaJGPPYSnPGm) | [Jared Lembo](https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g) | [Enough](https://open.spotify.com/album/1gXNFFoqxKAFpjEQNoaD1A) | 3:34 | 2025-09-12 | 2026-02-28 |
 | [Feel The Rush](https://open.spotify.com/track/2Hu0FoS9V98LSQkkOtsKIx) | [Asha Banks](https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw) | [Feel The Rush](https://open.spotify.com/album/33xNB3f9rzZhPpO8xs1xD0) | 3:13 | 2025-03-24 |  |
 | [Feeling Fine](https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Feeling Fine](https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx) | 2:48 | 2025-10-16 |  |
 | [Figa De Guiné](https://open.spotify.com/track/6NHAz8a9j2yZkP2TP48yLK) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Figa De Guiné](https://open.spotify.com/album/42pGRNpFJumps5qcggM8Tj) | 2:20 | 2025-05-22 |  |
@@ -119,6 +119,7 @@
 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 | 2024-08-16 | 2025-02-20 |
 | [I miss you, I’m sorry](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:47 | 2024-02-09 | 2024-07-02 |
 | [Iman](https://open.spotify.com/track/4cQcn6Zh5mHglFWIXnckqi) | [Yuuf](https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v) | [Iman](https://open.spotify.com/album/5NbAz6PiABkXYYOpaTIEQN) | 4:00 | 2025-06-02 |  |
+| [Into You \- Spotify Singles](https://open.spotify.com/track/4smI43J9NuIJpRT76fCLX6) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Into You \(Spotify Singles\)](https://open.spotify.com/album/1J5EJwA0fSnOBOHkrIe6vM) | 4:06 | 2026-02-26 |  |
 | [Jah](https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Jah](https://open.spotify.com/album/4loLO6BScEOCNJaUnXpIMd) | 2:27 | 2023-07-26 | 2023-09-16 |
 | [Jessie \(i miss you\)](https://open.spotify.com/track/2BMtVVQPrhMR3bIoiFhwpQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jessie \(i miss you\)](https://open.spotify.com/album/3EKtYw5CKxZD4B0lXizamQ) | 3:17 | 2023-07-26 |  |
 | [Julia](https://open.spotify.com/track/7r9NCIrR6ZRHX1jfjAASVv) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Von Wind und Anonymität](https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK) | 2:17 | 2024-04-05 | 2024-07-10 |
@@ -151,7 +152,7 @@
 | [Man Man](https://open.spotify.com/track/1Ibiuakl4eDRoOpA7jYyRM) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Man Man](https://open.spotify.com/album/3N4rKiNU9T3WAuv6Xg9TIR) | 2:52 | 2023-09-08 | 2024-02-12 |
 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 | 2023-07-26 |  |
 | [May Ninth](https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [May Ninth](https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L) | 3:12 | 2024-02-23 | 2024-07-14 |
-| [maybe](https://open.spotify.com/track/58UlCz2tHiJkgnQbSwmpND) | [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [maybe](https://open.spotify.com/album/7vVLoKoAf1hnNAxk3NdMI6) | 3:07 | 2024-05-01 |  |
+| [maybe](https://open.spotify.com/track/58UlCz2tHiJkgnQbSwmpND) | [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [maybe](https://open.spotify.com/album/7vVLoKoAf1hnNAxk3NdMI6) | 3:07 | 2024-05-01 | 2026-02-28 |
 | [Meant To Be](https://open.spotify.com/track/0wxGIpOZbDR4RGy1sh3XhR) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x), [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Meant To Be](https://open.spotify.com/album/5tkaijq9MpGmzgkGAWYDEN) | 2:43 | 2023-07-26 | 2024-04-19 |
 | [Mira](https://open.spotify.com/track/3xbSexiVMsTaqlWW2tyt8s) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Mira](https://open.spotify.com/album/2OBxw92JrtGREndgAnWkCz) | 3:43 | 2025-10-16 | 2025-10-27 |
 | [Miss Hot July](https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 3:21 | 2025-09-25 | 2025-11-15 |
@@ -218,6 +219,7 @@
 | [Slipping Away](https://open.spotify.com/track/07AbRgKmb5KfppwtZbZqDI) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:55 | 2023-07-26 | 2024-04-19 |
 | [Slow Dancing](https://open.spotify.com/track/6EXCQbPhpBf5RTQZ4F1raZ) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [a touch of the beat gets you up on your feet gets you out and then into the sun](https://open.spotify.com/album/00NPJAyth7IDd3jgZDCMdT) | 4:27 | 2023-07-26 | 2024-04-19 |
 | [Slow It Down](https://open.spotify.com/track/3BCA5KOKE7RRcrx0tK7kDK) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH), [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Slow It Down](https://open.spotify.com/album/5xeGFga33wKgIuTcef2wKn) | 3:38 | 2024-11-14 |  |
+| [Slow Tonight](https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Slow Tonight](https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc) | 3:12 | 2026-02-26 |  |
 | [Slowdown \(girl what's up\)](https://open.spotify.com/track/4xexPtg7VSPCf9hM3aZdfZ) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx) | [Slowdown \(girl what's up\)](https://open.spotify.com/album/4B6I2s8qDymQLWT9qtJOtW) | 2:03 | 2023-11-17 | 2025-02-20 |
 | [Smooth Operator \- Single Version](https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:18 | 2023-07-26 | 2023-12-13 |
 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2023-09-08 | 2023-09-27 |

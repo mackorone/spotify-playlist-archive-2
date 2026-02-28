@@ -1,13 +1,57 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124266,
+  "num_followers": 124263,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVKx0jJj1Vr+xaaRrgaTac04M/C9bQ",
+  "snapshot_id": "AAAVLkqbdj20YoxIhtN+D+l2kbzPkwQ4",
   "tracks": [
+    {
+      "added_at": "2026-02-27 15:11:54",
+      "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/21t6qH7SVwrYoubXmxhyE2"
+      },
+      "artists": [
+        {
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        },
+        {
+          "name": "BARELY ALIVE",
+          "url": "https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/1eikreaPZfpVaUX69LwD6f"
+    },
+    {
+      "added_at": "2026-02-27 15:12:15",
+      "album": {
+        "name": "undux (remixes)",
+        "url": "https://open.spotify.com/album/1BUB694gwlVgxUpTCCPHO7"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "MKLA",
+          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+        },
+        {
+          "name": "Disciples",
+          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "touch - Disciples Remix",
+      "url": "https://open.spotify.com/track/37HcLbQGmm1mrJUjkoxj0H"
+    },
     {
       "added_at": "2026-02-26 17:49:52",
       "album": {
@@ -1071,42 +1115,6 @@
       "duration_ms": 170000,
       "name": "Walking Away",
       "url": "https://open.spotify.com/track/7rIfZw9MyKIDWz0OKeet6L"
-    },
-    {
-      "added_at": "2025-11-24 15:35:26",
-      "album": {
-        "name": "after dark",
-        "url": "https://open.spotify.com/album/2kjC0jHNdyYNtc4AFkgc8x"
-      },
-      "artists": [
-        {
-          "name": "Rameses B",
-          "url": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
-        },
-        {
-          "name": "Veela",
-          "url": "https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "after dark",
-      "url": "https://open.spotify.com/track/0NJCqEATpphBXDl9iWk9iW"
-    },
-    {
-      "added_at": "2025-11-21 16:18:53",
-      "album": {
-        "name": "What You Know You Know You Know",
-        "url": "https://open.spotify.com/album/3A0eLPS8eCXO2NjjtmSiRQ"
-      },
-      "artists": [
-        {
-          "name": "Infected Mushroom",
-          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
-        }
-      ],
-      "duration_ms": 441021,
-      "name": "What You Know You Know You Know",
-      "url": "https://open.spotify.com/track/4QnsxVV6dskJ6OaUx1snAu"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

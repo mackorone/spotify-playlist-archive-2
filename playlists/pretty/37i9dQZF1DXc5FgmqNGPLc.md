@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 
 > All live, all jazz\. Cover: Nat King Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,084 likes - 100 songs - 15 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,090 likes - 100 songs - 15 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 15 | [I Cried For You](https://open.spotify.com/track/3CB1D8GtpOxRE0ZhrKZXwg) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ), [Jerome Richardson](https://open.spotify.com/artist/3oLQqwPfXDOPsoP9U768OG) | [I Cried For You](https://open.spotify.com/album/3f2xuAK9DfNd2ujQKYKcbZ) | 3:42 |
 | 16 | [Time Is Right \- 2023 Remastered](https://open.spotify.com/track/3QPzqEUmlKQ4VkfWvRQRy8) | [Woody Shaw](https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs) | [Time Is Right \(2023 Remastered\)](https://open.spotify.com/album/3M7eoCG3iZzMEUTiqtjunL) | 12:12 |
 | 17 | [Mother Of The Veil \- Live \(Remastered\)](https://open.spotify.com/track/0tTq4JHh0AL3W7PCd3IDgP) | [Don Cherry](https://open.spotify.com/artist/3uPWecBPNXAChysw1uOJwI) | [Inside/Outside](https://open.spotify.com/album/3BwunC2a1yOsic076ud2li) | 12:49 |
-| 18 | [Universal Gratitude \(Trio \- Live\)](https://open.spotify.com/track/6y9XVP0HsYr3SVtHmzbj1n) | [Mike Casey](https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2) | [Universal Gratitude \(Trio \- Live\)](https://open.spotify.com/album/16SnKeimPpAsiEbXKtKnOY) | 5:24 |
+| 18 | [Universal Gratitude \(Trio Live\)](https://open.spotify.com/track/6y9XVP0HsYr3SVtHmzbj1n) | [Mike Casey](https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2) | [Universal Gratitude \(Trio \- Live\)](https://open.spotify.com/album/16SnKeimPpAsiEbXKtKnOY) | 5:24 |
 | 19 | [Your Smile \- Live](https://open.spotify.com/track/5dF9OuGFO1rtDfpbULTpL0) | [Victor Feldman](https://open.spotify.com/artist/53TjTwCEnkdeTkNUO0qivk), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Trevor Feldman](https://open.spotify.com/artist/2e44l2JbTpsjkrk97ji0A1) | [Your Smile \(Live\)](https://open.spotify.com/album/6lHTZb9TcHVd2qKE7QDilR) | 8:54 |
 | 20 | [Bluesbird Blues \- Live](https://open.spotify.com/track/4wgMRK5oV43WPIKeq9F5b7) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Live at Fabrik Hamburg 1981, Vol\. 1](https://open.spotify.com/album/7JBQQD8VDvqSacOz4NsQYg) | 9:33 |
 | 21 | [First Light \- Live](https://open.spotify.com/track/3uXFvzREIaJ4vupIMyIaOx) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em), [Billy Childs](https://open.spotify.com/artist/2DalOaFXdbHCB4cyMJhQtR) | [First Light \(Live\)](https://open.spotify.com/album/2RsWDwGFxarODRFW73hA3V) | 8:18 |

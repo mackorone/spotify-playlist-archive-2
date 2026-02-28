@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: Mitski
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,169,390 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,169,302 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 6 | [you and forever](https://open.spotify.com/track/7faK0eOWGbfxWeuw1inyBN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [you and forever](https://open.spotify.com/album/32spb4QXcrqJxAgumWb6up) | 3:54 |
 | 7 | [Icarus \(with Gigi Perez\)](https://open.spotify.com/track/5JHbJWAt56lUXP70gEeBRv) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Prizefighter](https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k) | 3:12 |
 | 8 | [Mantis](https://open.spotify.com/track/4H7gZWrCfKN4Yc8HMGvmNw) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Mantis/Sugar Plum](https://open.spotify.com/album/0GGa1FKiyveo2FPZnvDkKh) | 4:40 |
-| 9 | [Track 2](https://open.spotify.com/track/1bRTiAfN4FKqP4ZqGnQFYm) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Stupid Kids](https://open.spotify.com/album/5KSvg69RiDoSqqXQZNq8wd) | 0:00 |
+| 9 | [My Guitar](https://open.spotify.com/track/1bRTiAfN4FKqP4ZqGnQFYm) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Stupid Kids](https://open.spotify.com/album/5KSvg69RiDoSqqXQZNq8wd) | 1:49 |
 | 10 | [Dancing On The Wall](https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS) | 4:03 |
 | 11 | [Flags](https://open.spotify.com/track/0GkUyGCLewjgand5EEfCOO) | [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL), [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE), [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [Flags](https://open.spotify.com/album/4tocgMB81kYzmX1J79SiiH) | 5:06 |
 | 12 | [Break the Girl](https://open.spotify.com/track/1G6tftTrUHgg1g6cP3VkJ5) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Break the Girl](https://open.spotify.com/album/66ZkWrGgZzUsC7G1U7Z2gl) | 3:31 |

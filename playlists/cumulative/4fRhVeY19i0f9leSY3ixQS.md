@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-977 songs - 2 day 7 hr 34 min
+980 songs - 2 day 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -569,6 +569,7 @@
 | [Nine Circles Deep](https://open.spotify.com/track/4dRnNyrpCKgYyoZkKrosAN) | [Lies We Sold](https://open.spotify.com/artist/1ZaXyPktPr1gpp3m3c7330) | [Nine Circles Deep](https://open.spotify.com/album/0N2HiAO3HuSd7b4G4cutQq) | 3:00 | 2025-12-15 | 2026-01-06 |
 | [No Angel Is Watching](https://open.spotify.com/track/3Cjct6UfADZsVdXdRHmOae) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [No Angel Is Watching](https://open.spotify.com/album/68XNOikZKxIdeg4OncW44B) | 2:55 | 2025-11-29 | 2025-12-24 |
 | [No Gods](https://open.spotify.com/track/4Bejk4T1EkgJFOMBruuZMQ) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [No Gods](https://open.spotify.com/album/1rSMvnaueBZxlXtPLFtsPH) | 2:59 | 2025-12-15 | 2026-01-06 |
+| [No Need to Wait](https://open.spotify.com/track/4XB1k8GJdXvQZ9YvkwNuOk) | [Brau](https://open.spotify.com/artist/4B1VpxLCj9TBzqbjN99fKQ) | [No Need to Wait](https://open.spotify.com/album/2tfynEzI16EdyoFGBIb76a) | 3:33 | 2026-02-27 |  |
 | [No Refunds For Existence](https://open.spotify.com/track/79tOfD8ayDx1eZnwOcMXcX) | [GA PROJECT](https://open.spotify.com/artist/29Ld8IE7ycWeTn5k7oJbQu) | [No Refunds For Existence](https://open.spotify.com/album/72AWFt5TXUGz8JrUgvppHy) | 2:36 | 2025-12-15 | 2026-02-03 |
 | [No Regret](https://open.spotify.com/track/6VgFWJLECE8QZM2tSYz6v5) | [Timelines](https://open.spotify.com/artist/2qBTwDoKX0b9ckEj2ErSj0) | [No Regret](https://open.spotify.com/album/6mhuNY2hTdCAxphPrZWCNn) | 2:54 | 2026-01-06 | 2026-02-07 |
 | [No Time Left](https://open.spotify.com/track/19ETTZ36aLHXEPrAy6WoV2) | [TheOnlyRealOne](https://open.spotify.com/artist/7BZM7a528k8aeNIGgW3JsM) | [No Time Left](https://open.spotify.com/album/7shvCcJZlrW340WYf8cGQN) | 4:37 | 2026-02-23 |  |
@@ -830,6 +831,7 @@
 | [The Fallen](https://open.spotify.com/track/2NOTdXSTcElqvSAYxALN0J) | [Zeta Inri](https://open.spotify.com/artist/79rEQBEMAXqOd3KPD1giyA) | [The Fallen](https://open.spotify.com/album/4vCOyJKV7ehDy1M6k8myYo) | 3:44 | 2026-02-19 |  |
 | [The Fear](https://open.spotify.com/track/72dC2Cm4K79zu6jsMbAWRM) | [Wild Oceans](https://open.spotify.com/artist/6FhE766rqgj0CthToqDLky) | [The Fear](https://open.spotify.com/album/6GeX53WEJJeGDDy5jeHkiF) | 3:37 | 2026-01-09 | 2026-02-10 |
 | [The Friends of Joey Coyle](https://open.spotify.com/track/1Z50QG15gl43om5JALNq4a) | [Tony Mecca](https://open.spotify.com/artist/3FEarLAYejR4vLifQcpiRb) | [Heavy Mental Gypsies](https://open.spotify.com/album/432choLFbupQ8Us7b8m7I1) | 6:45 | 2025-12-10 | 2026-01-06 |
+| [The Gutter](https://open.spotify.com/track/4XMFBPsFBxSgVuXo9oTvqT) | [Misery Channel](https://open.spotify.com/artist/0km1fYeCjrTJF5VOJShTsc) | [The Gutter](https://open.spotify.com/album/6EmcFf2Gqkpby9vZ71Bb1D) | 3:03 | 2026-02-27 |  |
 | [The Knife](https://open.spotify.com/track/1cbB3p9Z3Dhch9PDtReYyu) | [Barren Sea](https://open.spotify.com/artist/52YaDNTA2VWMofP95FkTSi) | [The War on Cars](https://open.spotify.com/album/1tkfcVGm3ZxwKRq51SWTcV) | 4:14 | 2026-02-12 |  |
 | [The line](https://open.spotify.com/track/5spFXTi0X8oQg8yxqYxCMz) | [CANONVILLE](https://open.spotify.com/artist/3lJB0a4SfTiJTWEPbAZ7TY) | [FOUR LEGS GOOD](https://open.spotify.com/album/0OkHctBsI8EpCGDT3u98yy) | 5:28 | 2025-12-29 | 2026-01-22 |
 | [The Line That Separates](https://open.spotify.com/track/0Mf7Y9cVAhr3jsVcUXeyz3) | [Mayfly](https://open.spotify.com/artist/54lgshCA4yb6pMhonEh7kI) | [The Line That Separates](https://open.spotify.com/album/3JIsg51hdyIYOFpd60c0F8) | 3:38 | 2025-12-27 | 2026-01-22 |
@@ -954,6 +956,7 @@
 | [Wolves \(Remaster\)](https://open.spotify.com/track/3EpUZ25T9f353NQrnEcfkH) | [Worn Out Welcome](https://open.spotify.com/artist/0ibx8tICHFMIC94A8NrrqM) | [Wolves \(Remaster\)](https://open.spotify.com/album/7GUvag7SEWSo4XmY8Wvi2b) | 3:42 | 2025-12-29 | 2026-01-22 |
 | [Won't Come Clean](https://open.spotify.com/track/6jvIAxHaJEGEj6eHdnyrK6) | [Burnt Black](https://open.spotify.com/artist/0DdtX28gBnCvTknoSQNpDk) | [Won't Come Clean](https://open.spotify.com/album/4wY1VDWZUmW19hL7hSn6PN) | 3:32 | 2026-01-23 | 2026-02-24 |
 | [WORK FAST DIE YOUNG \(HO VISTO\)](https://open.spotify.com/track/3jxiT3u0Is6XNTIWWykASS) | [Kamikaze Lavanda](https://open.spotify.com/artist/1VggdEN6pF9vJNeOXh8ULw) | [WORK FAST DIE YOUNG \(HO VISTO\)](https://open.spotify.com/album/1cYFmntki9MrArDWHofH5T) | 2:52 | 2025-11-03 | 2025-12-10 |
+| [World of Dragons](https://open.spotify.com/track/0WM5S1KbyhIQCTGoUA3pq8) | [Lonely wanderer](https://open.spotify.com/artist/7oZKXbKzbYSqj49riynY8v) | [World of Dragons](https://open.spotify.com/album/5UspvmSNBgmzWRKdxEdJFD) | 3:20 | 2026-02-27 |  |
 | [Would You Kindly](https://open.spotify.com/track/0Q0LsZQjhpxQhksUUyTjvA) | [Ultra\-Lite](https://open.spotify.com/artist/7om5QGtg4YyvK7OnDBfDD9) | [Would You Kindly](https://open.spotify.com/album/046xpQvBoGaBXFWc5VWKUs) | 3:42 | 2026-01-05 | 2026-02-06 |
 | [X Me Out](https://open.spotify.com/track/0NuuQsxnwtP3VI5vm7xRuZ) | [kmikzemusic](https://open.spotify.com/artist/6yHl4Y6LfsQl9XtJGUjQOW) | [X Me Out](https://open.spotify.com/album/07ZqaqUUQ796JElSECG59C) | 4:19 | 2026-02-02 |  |
 | [XO](https://open.spotify.com/track/3GTJzjz2xbdQWs2Hum199C) | [In The Blind](https://open.spotify.com/artist/4K8sERQcjuHdGq692MMb01) | [Sulphur Moon](https://open.spotify.com/album/2MGtiDm0n79VzZhCqXZ8wF) | 3:30 | 2025-12-08 | 2026-01-06 |

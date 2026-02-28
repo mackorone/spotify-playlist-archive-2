@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: Leah
+> Net die beste Afrikaanse musiek! Omslag: GSTRiNG
 
-369 songs - 20 hr 26 min
+370 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Chocolate Sigarette](https://open.spotify.com/track/0185cQUYmXRbiVDJiGAXHU) | [Christia Visser](https://open.spotify.com/artist/0AVwVUxhRdEKiuLNGAxmtu) | [Chocolate Sigarette](https://open.spotify.com/album/3mC8IJz4TXi2iEMMYNytOU) | 3:18 | 2023-05-18 | 2023-06-16 |
 | [Coco Pops en Kaas](https://open.spotify.com/track/47a7yKmqL4y49StvHnrT0Y) | [Nicholis Louw](https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI) | [Coco Pops en Kaas](https://open.spotify.com/album/7eX7oEbmqlgWrMeWP4CAA1) | 4:02 | 2023-03-30 | 2023-05-12 |
 | [Country Girl Van Bloem](https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Country Girl Van Bloem](https://open.spotify.com/album/55fPGAUIsa23dXP1CxT23N) | 2:56 | 2023-12-14 |  |
-| [Country Probeer](https://open.spotify.com/track/4bFnQ3DOwIckGfcKYQHdVN) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Country Probeer](https://open.spotify.com/album/2VJwQzleSWnMYPRxRsqj3p) | 3:52 | 2025-11-06 |  |
+| [Country Probeer](https://open.spotify.com/track/4bFnQ3DOwIckGfcKYQHdVN) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Country Probeer](https://open.spotify.com/album/2VJwQzleSWnMYPRxRsqj3p) | 3:52 | 2025-11-06 | 2026-02-28 |
 | [Dagdrome in Suburbia](https://open.spotify.com/track/10Ql7yWoFEmRNp83JeS4Uk) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Dagdrome in Suburbia](https://open.spotify.com/album/3RzHaNjl15r6TWi3QDSAPZ) | 3:11 | 2025-11-10 |  |
 | [Dagdrome in Suburbia](https://open.spotify.com/track/1K9B9JRjtUe6bVVOv8Bw1X) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Dagdrome in Suburbia](https://open.spotify.com/album/7HUBQlGEE0eQ77zIT6Yz40) | 3:11 | 2023-03-09 | 2023-04-14 |
 | [Dans Die Vlamme Dood](https://open.spotify.com/track/1rw7TMwVcioAaSbrHXPQjl) | [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj) | [Dans Die Vlamme Dood](https://open.spotify.com/album/5ZrGwrSdrxN36ySRx5ye76) | 2:53 | 2025-06-13 | 2025-08-30 |
@@ -208,6 +208,7 @@
 | [Lek My Lippe Af](https://open.spotify.com/track/7AxtjVZVNwPt9VG3D0N1jK) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Lek My Lippe Af](https://open.spotify.com/album/4U2E0tpYsGCAMYn9dy7lPn) | 3:13 | 2024-08-15 | 2025-11-11 |
 | [Lekkerste Lekker](https://open.spotify.com/track/2OTNALTwsmkv7yXoRmvw6W) | [Leah](https://open.spotify.com/artist/46aCUT92RT7Q9QwhZuaNXh) | [Lekkerste Lekker](https://open.spotify.com/album/7bwS3hDUSdfutYkorS7sbZ) | 3:07 | 2025-05-22 | 2025-06-01 |
 | [Lemoene](https://open.spotify.com/track/5J24BPmjKlr77KK4sQ5iuo) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd), [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ) | [Lei My Na Die Water](https://open.spotify.com/album/30Y6Kmoq8Kz5Ua9JHnbVgQ) | 3:26 | 2023-03-09 | 2023-07-14 |
+| [Lenie Blou](https://open.spotify.com/track/5O17tIhBU2Z3JGzrJPR11k) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Lenie Blou](https://open.spotify.com/album/6krZkJORCAZDFizJ1Op5XJ) | 3:00 | 2026-02-27 |  |
 | [Lenie Blou](https://open.spotify.com/track/10s1HbmFsDCKmMNcAbDLyV) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Swaartekrag](https://open.spotify.com/album/6KykLYdne818aTl3ogcYSt) | 2:58 | 2023-03-09 |  |
 | [Lentekind \- Dans Remix](https://open.spotify.com/track/3jp5MWHkhUMNKvTcKoEC21) | [Georic Lomas](https://open.spotify.com/artist/6s70YvvNGOGzhKqveX21uf) | [Lentekind \(Dans Remix\)](https://open.spotify.com/album/29N4DMheHAM04FlffYEAoq) | 2:37 | 2022-09-01 | 2022-10-29 |
 | [Lief](https://open.spotify.com/track/1Fbu7GJTELkKNVdlQ2X4zz) | [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5), [Jacob Swann](https://open.spotify.com/artist/3b8ExEnWwnymMCMM3vcHbe) | [Lief](https://open.spotify.com/album/2qlqp7lrg0ZJtPrcdilOt2) | 3:25 | 2022-07-07 | 2023-03-18 |
@@ -260,7 +261,7 @@
 | [Nykie](https://open.spotify.com/track/2kK8T5mbA5rJaC578CyKQ0) | [Refentse](https://open.spotify.com/artist/5yACoSSz99q9C7n8bKNFxl) | [Nykie](https://open.spotify.com/album/4L2oOZclkPXDTGIblnXyBw) | 3:19 | 2025-06-26 | 2025-09-22 |
 | [O My Vy](https://open.spotify.com/track/6UPiIutgybDU0QljOWWUHf) | [FATMAN](https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3) | [O My Vy](https://open.spotify.com/album/0vFiwfmHqB84pPcp6tWcbh) | 3:29 | 2022-10-20 | 2023-11-24 |
 | [OASE](https://open.spotify.com/track/2DiZzEROBjh6HejBmWav51) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [OASE](https://open.spotify.com/album/45L3PeEzR30opQd0fDapgf) | 3:17 | 2024-02-15 | 2024-10-11 |
-| [OE LA LA!](https://open.spotify.com/track/18zPDP4ryJxBUaWg6MEQCD) | [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [OE LA LA!](https://open.spotify.com/album/3WTbOwaP7hba6znwEyO5mv) | 2:56 | 2025-11-20 |  |
+| [OE LA LA!](https://open.spotify.com/track/18zPDP4ryJxBUaWg6MEQCD) | [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [OE LA LA!](https://open.spotify.com/album/3WTbOwaP7hba6znwEyO5mv) | 2:56 | 2025-11-20 | 2026-02-28 |
 | [Oh La La](https://open.spotify.com/track/25P45klCq8CfhgwnQ1i6ts) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Loufi Flippen Loufi](https://open.spotify.com/album/32nDgPOF75LUn7GoCpewjK) | 3:33 | 2023-06-22 | 2023-07-28 |
 | [Ons Twee Genoeg \(feat\. Marissa\)](https://open.spotify.com/track/6e91EOUzqp7CITax2iB4rd) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG), [Marissa](https://open.spotify.com/artist/2uFAfVNLrN2ewh731Oc0C6) | [Ons Twee Genoeg \(feat\. Marissa\)](https://open.spotify.com/album/6hInSb4NV8bhtdgblONeJG) | 4:02 | 2023-03-16 | 2023-05-05 |
 | [Ontlaai](https://open.spotify.com/track/6v1hZo339lw7OUT5vH66DC) | [Ilán van Staden](https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj) | [Ontlaai](https://open.spotify.com/album/0B1W6DEeGMPMFlg3eREW9b) | 4:03 | 2023-02-02 | 2023-08-11 |
@@ -374,7 +375,7 @@
 | [Willemiena Van Gezina](https://open.spotify.com/track/6DL9Lejno5xdGRl0gwLwP9) | [Pieter Smith](https://open.spotify.com/artist/436epCFSdTxQ6EtvKmOg26) | [Willemiena Van Gezina](https://open.spotify.com/album/4wMtEK7o7S37aebSotkFb0) | 2:58 | 2023-03-23 | 2023-06-23 |
 | [Winter In Die Kaap](https://open.spotify.com/track/5O21NlOGDR1DNcuAgpe8ch) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q), [Bella](https://open.spotify.com/artist/6KZghn76x4DQ8OMHh4ApGh) | [Winter In Die Kaap](https://open.spotify.com/album/1wvsM5dEyjnyLE4csBs5Hn) | 3:26 | 2025-06-26 |  |
 | [Witblits](https://open.spotify.com/track/1MJagJs7aC4UJYZK3j5iIO) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Witblits](https://open.spotify.com/album/1j0JxyVmQLkrFIZRY4m9xT) | 3:07 | 2022-07-07 | 2023-03-25 |
-| [Witblits](https://open.spotify.com/track/5bJEHJ8BPTn7dYM7EYmwvE) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Hittegolf](https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH) | 3:07 | 2023-03-09 | 2026-02-14 |
+| [Witblits](https://open.spotify.com/track/5bJEHJ8BPTn7dYM7EYmwvE) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Hittegolf](https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH) | 3:07 | 2023-03-09 |  |
 | [Wynland](https://open.spotify.com/track/1Jrtl0GAYhGbk23ixM8tqX) | [Werner Van Der Hoven](https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2) | [Wynland](https://open.spotify.com/album/1gAIJXFuwE7LSuibaGwehS) | 2:41 | 2023-06-03 | 2025-11-11 |
 | [Yskas Skuif](https://open.spotify.com/track/5n2KIUk8fQT6O7pZqVwlJE) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Yskas Skuif](https://open.spotify.com/album/6d3LnzJ7KMQSeSN2CpUfAZ) | 3:24 | 2024-11-21 |  |
 

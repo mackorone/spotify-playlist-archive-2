@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OY2Lp0bIPp.md) - [plain]
 
 > Giving motivation to your Monday\. You got this!
 
-[Spotify](https://open.spotify.com/user/spotify) - 638,582 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 638,559 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OY2Lp0bIPp.md) - [plain]
 | 41 | [So What](https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Funhouse \(Expanded Edition\)](https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at) | 3:35 |
 | 42 | [Call on Me \- Radio Mix](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call on Me \(Radio Mix\)](https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z) | 2:51 |
 | 43 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:46 |
-| 44 | [Domino](https://open.spotify.com/track/2fQxE0jVrjNMT9oJAXtSJR) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp) | 3:51 |
-| 45 | [Best Song Ever](https://open.spotify.com/track/5T7ZFtCcOgkpjxcuaeZbw0) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:20 |
+| 44 | [Best Song Ever](https://open.spotify.com/track/5T7ZFtCcOgkpjxcuaeZbw0) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:20 |
+| 45 | [Domino](https://open.spotify.com/track/2fQxE0jVrjNMT9oJAXtSJR) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp) | 3:51 |
 | 46 | [Green Light](https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:54 |
 | 47 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB) | 3:56 |
 | 48 | [In Too Deep](https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 3:27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > All the sunny surf rock you need.
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,802 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,796 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 47 | [Valley Girl](https://open.spotify.com/track/7cYuXEJSfRLZUrekVDh6jh) | [The Burkharts](https://open.spotify.com/artist/0zvND4IqnGShzA7X47MIkp) | [Valley Girl](https://open.spotify.com/album/5uHWX7eFyS8dvJq251V8BH) | 3:31 |
 | 48 | [twenty bucks \(the friend song\)](https://open.spotify.com/track/3ROzSBuKT50Wo4oSghz89V) | [boxboys](https://open.spotify.com/artist/0Gz3QLw26RL5BtFXy1TIq9) | [twenty bucks \(the friend song\)](https://open.spotify.com/album/1IFu8i2vYo9zKkOR8xc8yB) | 1:53 |
 | 49 | [LONG LIVE THE WILDERNESS](https://open.spotify.com/track/0F3XAOuJuMY1dUll6lR0RY) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [LONG LIVE THE WILDERNESS](https://open.spotify.com/album/74G6zlK0eqHKbdleUXtafE) | 4:46 |
-| 50 | [I AM NOT SO TALL](https://open.spotify.com/track/6i2pZl5STYPFqQSigNa8Tt) | [Camp Blu](https://open.spotify.com/artist/6ABdWlgN5QfjDsCacBn6Nt) | [I AM NOT SO TALL](https://open.spotify.com/album/5pyo8OoK8CVAAX6193lM0U) | 2:54 |
-| 51 | [Out Of Here](https://open.spotify.com/track/3HiH0AHki9UZDRfXnjL0dJ) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Out Of Here](https://open.spotify.com/album/1CRnBfgRX2TzO7sKeJVzJx) | 2:31 |
+| 50 | [Out Of Here](https://open.spotify.com/track/3HiH0AHki9UZDRfXnjL0dJ) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Out Of Here](https://open.spotify.com/album/1CRnBfgRX2TzO7sKeJVzJx) | 2:31 |
+| 51 | [I AM NOT SO TALL](https://open.spotify.com/track/6i2pZl5STYPFqQSigNa8Tt) | [Camp Blu](https://open.spotify.com/artist/6ABdWlgN5QfjDsCacBn6Nt) | [I AM NOT SO TALL](https://open.spotify.com/album/5pyo8OoK8CVAAX6193lM0U) | 2:54 |
 | 52 | [Hometown](https://open.spotify.com/track/0mFRpxD2a8hGgvXLIeCGgA) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [Small Fry](https://open.spotify.com/album/2ZxvQr6jlEWSmiCmMpE9VR) | 3:26 |
 | 53 | [Sunday Scaries](https://open.spotify.com/track/67b2q2wgvtlWxiG6ldoJNz) | [LAZY GHOST](https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz) | [Sunday Scaries](https://open.spotify.com/album/3LqdEUjaPqXbzqlcIQufLY) | 2:52 |
 | 54 | [Obsession](https://open.spotify.com/track/6nOyxthqenZOOl1sWNeg2v) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Mushroom](https://open.spotify.com/album/2B2c7Sr3eEaEYyM5qrwYyu) | 3:25 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 59 | [Bangkok](https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ) | [Alaaska](https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK) | [Bangkok](https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv) | 3:35 |
 | 60 | [Sweet Tooth](https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw) | [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [Sweet Tooth](https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL) | 2:04 |
 | 61 | [Naga Damai](https://open.spotify.com/track/67JfEpAFRL9ODmfh0LI1Yf) | [Cocobolo](https://open.spotify.com/artist/2KL4LWA8Ed7B5SscFbaLsu) | [Naga Damai](https://open.spotify.com/album/1eEyJyPSx9PLnkm6K9qyBo) | 3:37 |
-| 62 | [Middleman](https://open.spotify.com/track/4dqWPuDUgq2LNNUQRaf2JX) | [Straight Arrows](https://open.spotify.com/artist/26z3WWkBQxxvG8jRbFdL3N) | [Middleman / Do The Sloth](https://open.spotify.com/album/3e6CnNkVhZoVFNUASCmFRl) | 2:23 |
-| 63 | [Pacific Ocean](https://open.spotify.com/track/49MVg5q2nvlPjnK93dqalV) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f) | [Pacific Ocean](https://open.spotify.com/album/5kG4wRE6BuhP582mtt5a25) | 2:33 |
+| 62 | [Pacific Ocean](https://open.spotify.com/track/49MVg5q2nvlPjnK93dqalV) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f) | [Pacific Ocean](https://open.spotify.com/album/5kG4wRE6BuhP582mtt5a25) | 2:33 |
+| 63 | [Middleman](https://open.spotify.com/track/4dqWPuDUgq2LNNUQRaf2JX) | [Straight Arrows](https://open.spotify.com/artist/26z3WWkBQxxvG8jRbFdL3N) | [Middleman / Do The Sloth](https://open.spotify.com/album/3e6CnNkVhZoVFNUASCmFRl) | 2:23 |
 | 64 | [The Way You Talk](https://open.spotify.com/track/7siQxKPvmCuMnXxJ5Hw1ZW) | [The Red Pears](https://open.spotify.com/artist/3FRYBFCNEBWMjk6kvwjHQT) | [The Way You Talk](https://open.spotify.com/album/4Awmos0hQb07Xwdacie1Oq) | 3:18 |
 | 65 | [Right or Wrong](https://open.spotify.com/track/3iblchfWSkursOZywc1MyH) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Right or Wrong](https://open.spotify.com/album/1ZcPZPxmi8IS60QSCWfRXK) | 3:27 |
 | 66 | [LCD](https://open.spotify.com/track/2uR01tcAXfzD99eaKQJvBT) | [Ghost Care](https://open.spotify.com/artist/5kbK7MXSEO00Bw9AVTmXdy) | [LCD](https://open.spotify.com/album/7JiblL6oSzGZfiTAin8t4Y) | 3:31 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 68 | [Stargazer](https://open.spotify.com/track/3NguJRn6XA8XHaBkIy5VB1) | [Yellow The Sun](https://open.spotify.com/artist/2SMU4gn77Tx3f2b5Lodrag) | [Stargazer](https://open.spotify.com/album/1lepumZo22mVAqL0BbH9ID) | 3:02 |
 | 69 | [Bali Nights](https://open.spotify.com/track/0DbCQ19qemrwPFPeoXsZRP) | [Summer Thieves](https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W) | [Cigarettes In Space](https://open.spotify.com/album/6j0YmnGZ7Qm2ZdtPMT1Gxu) | 3:30 |
 | 70 | [Keep on](https://open.spotify.com/track/2xmAT9gY7qZJlEStkbwT9j) | [Lavalove](https://open.spotify.com/artist/3rqzavMb2twmjVAqvDyqq9) | [Love Sick](https://open.spotify.com/album/5PjKhLXDH9qKWcAv4Y8GqK) | 3:07 |
-| 71 | [Peace In Me](https://open.spotify.com/track/3WEFEaXOPlC9aYA6bf5yaH) | [Bones and Jones](https://open.spotify.com/artist/5gJ35QfLWXsCmfleo8gPz4) | [In Colour](https://open.spotify.com/album/5DCOPvYMwUPv0UCoFVD1hl) | 4:35 |
-| 72 | [Couch Sex](https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU) | [Gerf](https://open.spotify.com/artist/1HNfkzcazWiwgcfTRiVFaB) | [Can You See The Sunshine? \(EP\)](https://open.spotify.com/album/2dJIYB8giFNwvgCTKMc5wC) | 3:25 |
+| 71 | [Couch Sex](https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU) | [Gerf](https://open.spotify.com/artist/1HNfkzcazWiwgcfTRiVFaB) | [Can You See The Sunshine? \(EP\)](https://open.spotify.com/album/2dJIYB8giFNwvgCTKMc5wC) | 3:25 |
+| 72 | [Peace In Me](https://open.spotify.com/track/3WEFEaXOPlC9aYA6bf5yaH) | [Bones and Jones](https://open.spotify.com/artist/5gJ35QfLWXsCmfleo8gPz4) | [In Colour](https://open.spotify.com/album/5DCOPvYMwUPv0UCoFVD1hl) | 4:35 |
 | 73 | [MOVING ON](https://open.spotify.com/track/52gV8gK6iG1QXBbAZmrskz) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [MOVING ON](https://open.spotify.com/album/2PaJHZzyi7UZJBX57mdbMW) | 4:08 |
-| 74 | [Simpin'](https://open.spotify.com/track/1Pb4lLhmdKfTgODHT72ngq) | [LAZY GHOST](https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz) | [Simpin'](https://open.spotify.com/album/493qZRGlg8auYOJGtj81Ze) | 3:33 |
-| 75 | [Tommy Bahama](https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9) | [Sebimor](https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH) | [Tommy Bahama](https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW) | 3:49 |
+| 74 | [Tommy Bahama](https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9) | [Sebimor](https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH) | [Tommy Bahama](https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW) | 3:49 |
+| 75 | [Simpin'](https://open.spotify.com/track/1Pb4lLhmdKfTgODHT72ngq) | [LAZY GHOST](https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz) | [Simpin'](https://open.spotify.com/album/493qZRGlg8auYOJGtj81Ze) | 3:33 |
 
 Snapshot ID: `AAAAAPECEQGq6yTVQ+ySz6ilNJUx9HLU`

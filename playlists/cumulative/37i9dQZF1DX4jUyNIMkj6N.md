@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-389 songs - 23 hr 26 min
+390 songs - 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [America](https://open.spotify.com/track/5l2JI0XPhFKWJwERHOIqkN) | [Nina Kinert](https://open.spotify.com/artist/6uRl4Lp821EvTTEYmboj8O) | [America](https://open.spotify.com/album/1sd88SXXNbNQijDo8ngbOq) | 5:28 | 2023-08-17 | 2023-10-04 |
 | [Angel \- Acoustic String Version](https://open.spotify.com/track/2qtyj7TOmcHQ5liWb8vOaV) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Palomino Deluxe \(Child of Summer Edition\)](https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd) | 3:40 | 2023-07-13 | 2024-02-02 |
 | [Animal](https://open.spotify.com/track/6XLsy0UvTwzfd3eS8Uqqc9) | [Oklahoma](https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow) | [Animal](https://open.spotify.com/album/3iAp0bYRNDHVHkxQDD3g4C) | 2:56 | 2024-08-22 | 2025-03-28 |
-| [anywhere](https://open.spotify.com/track/3UTw97nvn3xfPsB3RtbdWN) | [Malen](https://open.spotify.com/artist/4IdTbZsJ8z00CNjZDdyV4g) | [anywhere](https://open.spotify.com/album/5JbRU6OuMz1vcPlnnZNVsC) | 2:31 | 2024-08-29 |  |
+| [anywhere](https://open.spotify.com/track/3UTw97nvn3xfPsB3RtbdWN) | [Malen](https://open.spotify.com/artist/4IdTbZsJ8z00CNjZDdyV4g) | [anywhere](https://open.spotify.com/album/5JbRU6OuMz1vcPlnnZNVsC) | 2:31 | 2024-08-29 | 2026-02-28 |
 | [Aprilgitar](https://open.spotify.com/track/3J7ZctjNMenFKXSkXbHGsN) | [Hanne Hukkelberg](https://open.spotify.com/artist/0pGsKU60aKi7MK8rQENGwZ) | [Sommerbarna \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5EwLd11ZOFFaO0YLNgYHnn) | 2:39 | 2022-05-26 | 2022-07-29 |
 | [Arpeggio \(Revisited\)](https://open.spotify.com/track/4fCNc4jXpxvGv5ZVa45fCV) | [Friska Viljor](https://open.spotify.com/artist/3gToxmSxuAo27Aa0wD8Yul) | [Arpeggio \(Revisited\)](https://open.spotify.com/album/1xIjkcyQwjfw9zjPoCLGTD) | 5:36 | 2024-12-05 | 2025-09-05 |
 | [As The Sun Hits Your Face](https://open.spotify.com/track/3HnhrCHcrtWZjIzveBclBU) | [Rick Grove](https://open.spotify.com/artist/6ZqkiLDqtgWIf9upBjABI2) | [Ricky](https://open.spotify.com/album/4ZA55kbdgi4YfNtEXCVvra) | 3:20 | 2025-09-18 |  |
@@ -264,6 +264,7 @@
 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 | 2021-12-02 |  |
 | [Poor Symmetry](https://open.spotify.com/track/4FAiqzB4VQSckzurMJ5wSX) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Poor Symmetry / Cities](https://open.spotify.com/album/624PNGP795hhIwigo5ixXg) | 2:01 | 2024-04-11 | 2024-07-19 |
 | [Raining Over Fire](https://open.spotify.com/track/7Ivhfxnqx1n3eP5o5WManb) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Raining Over Fire](https://open.spotify.com/album/27r8xw72gazKL2zdTTYMmB) | 2:58 | 2025-02-27 | 2025-10-04 |
+| [Raven](https://open.spotify.com/track/7AF2UzVYXqxdJLKzKuKq1U) | [Harriet Nauer](https://open.spotify.com/artist/7ntzg1pA71vjzEhdSwYj3Q) | [Vampire Country](https://open.spotify.com/album/2DZpZ3j4yZrv39kuKeNtvZ) | 4:07 | 2026-02-26 |  |
 | [Riding by my side](https://open.spotify.com/track/3EjWS9Jnn7SJSwkiQNlfOB) | [Blind Molly](https://open.spotify.com/artist/3XPVCbkmaBGNWEb4UANfov) | [Riding by my side](https://open.spotify.com/album/1Ul251Hlo9fFN3Or838rYt) | 3:04 | 2025-05-08 | 2025-06-08 |
 | [Right as Rain](https://open.spotify.com/track/5IgCnPZUVKe5PeIZfuwfSK) | [Marianne Sveen](https://open.spotify.com/artist/5kXWa36lvxl2qHX4dGEMJD) | [Right as Rain](https://open.spotify.com/album/5zeC7hP1L3tLcTdrxkXur2) | 4:38 | 2021-12-02 | 2022-07-29 |
 | [River \- Live](https://open.spotify.com/track/5gXUVnYtalAWVScaiw3Vmq) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Live 2020](https://open.spotify.com/album/3MfrdryGGjczqK1NalPSks) | 4:18 | 2021-12-02 | 2022-07-29 |

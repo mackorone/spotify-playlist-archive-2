@@ -459,6 +459,24 @@
     },
     {
       "album": {
+        "name": "BES4ME",
+        "url": "https://open.spotify.com/album/2pDTIwOIb85dGC7Pj0RUay"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153176,
+      "name": "BES4ME",
+      "url": "https://open.spotify.com/track/4YoHssP1wgFxKIrgkAJRDD"
+    },
+    {
+      "album": {
         "name": "Better Together",
         "url": "https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc"
       },
@@ -1167,6 +1185,28 @@
     },
     {
       "album": {
+        "name": "Cumbia fantasia",
+        "url": "https://open.spotify.com/album/3EIuPAt9DW7PQNg3A3hSws"
+      },
+      "artists": [
+        {
+          "name": "Mexican Institute Of Sound",
+          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+        },
+        {
+          "name": "Meridian Brothers",
+          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238514,
+      "name": "Cumbia fantasia",
+      "url": "https://open.spotify.com/track/41IW719r1CuVwStSFcsY4k"
+    },
+    {
+      "album": {
         "name": "Cu\u00e1ntas Veces",
         "url": "https://open.spotify.com/album/2nliVdeqWoH2jDShBUdGMj"
       },
@@ -1280,6 +1320,24 @@
       "duration_ms": 182373,
       "name": "Dulcito e Coco - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3hQR682FLOBZg22eYjPA6L"
+    },
+    {
+      "album": {
+        "name": "El AchanTAdo",
+        "url": "https://open.spotify.com/album/1T8WIYEepKDl4j27kdZIox"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225750,
+      "name": "El AchanTAdo",
+      "url": "https://open.spotify.com/track/3fr52NaaVxb2UxPNxDtaQx"
     },
     {
       "album": {
@@ -2042,7 +2100,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 245120,
       "name": "La Bilirrubina",
       "url": "https://open.spotify.com/track/6M8horg7h52MPTxY0I3dQJ"
@@ -2166,6 +2224,28 @@
       "duration_ms": 187298,
       "name": "Lado B",
       "url": "https://open.spotify.com/track/6jueOlbmLtDCL6wLliktKe"
+    },
+    {
+      "album": {
+        "name": "Le Reclam\u00e9 A Cupido",
+        "url": "https://open.spotify.com/album/6ZbGUlwaGbv7GmJ57i1isb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176341,
+      "name": "Le Reclam\u00e9 A Cupido",
+      "url": "https://open.spotify.com/track/0YnR66KiP0J4BqDYF3lm4m"
     },
     {
       "album": {
@@ -2480,7 +2560,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 190640,
       "name": "Mariposas",
       "url": "https://open.spotify.com/track/70agLjPjNKAgHG2xHP3aSS"
@@ -2638,6 +2718,28 @@
       "duration_ms": 239972,
       "name": "Mi Persona Favorita",
       "url": "https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd"
+    },
+    {
+      "album": {
+        "name": "GOLOSA",
+        "url": "https://open.spotify.com/album/3vVYr1YoOAONCCiNYGHCfr"
+      },
+      "artists": [
+        {
+          "name": "Let\u00f3n P\u00e9",
+          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
+        },
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214140,
+      "name": "Mi Terraza",
+      "url": "https://open.spotify.com/track/6liXtsSKDHM1OPMbmszF70"
     },
     {
       "album": {
@@ -3334,6 +3436,28 @@
       "duration_ms": 247733,
       "name": "Se Fue - Con Ximena Sari\u00f1ana y Elsa y Elmar",
       "url": "https://open.spotify.com/track/6C2nsLf4lmP890KLXbn3UC"
+    },
+    {
+      "album": {
+        "name": "Se Va Se Va",
+        "url": "https://open.spotify.com/album/4ZfqMbCFTpljyPoVxDQseE"
+      },
+      "artists": [
+        {
+          "name": "Dylan Coronel",
+          "url": "https://open.spotify.com/artist/3oBZXbSQHXnxp9sWJcUT7j"
+        },
+        {
+          "name": "8Uno",
+          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195103,
+      "name": "Se Va Se Va",
+      "url": "https://open.spotify.com/track/7A3vj4M64VDkcxzPkziR5s"
     },
     {
       "album": {

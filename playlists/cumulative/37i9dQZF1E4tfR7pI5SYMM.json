@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Die Oberherren, AlligatorX, Jacobs Fall and more",
+  "description": "With Die Oberherren, AlligatorX, Lockjaw and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -204,6 +204,28 @@
       "duration_ms": 315221,
       "name": "Alnilam",
       "url": "https://open.spotify.com/track/0gRpx1wqzHalsr5VG4HTYs"
+    },
+    {
+      "album": {
+        "name": "Altostratus 26",
+        "url": "https://open.spotify.com/album/6AcJedElU5BzLJVrbmJkWs"
+      },
+      "artists": [
+        {
+          "name": "Antonis Vlavo",
+          "url": "https://open.spotify.com/artist/1kIBJaqB03tEA8CUfiUElj"
+        },
+        {
+          "name": "Dimi De San",
+          "url": "https://open.spotify.com/artist/36z49zlZxwuFOoYUO0HZHX"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271597,
+      "name": "Altostratus 26",
+      "url": "https://open.spotify.com/track/1KfOqudRftSTun86gB69xM"
     },
     {
       "album": {
@@ -650,7 +672,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 251400,
       "name": "Broken Glass",
       "url": "https://open.spotify.com/track/2f8MBmW7FByHDrSAqI2O2E"
@@ -1014,7 +1036,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -1104,7 +1126,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-26",
+      "date_removed": null,
       "duration_ms": 248679,
       "name": "Creepy Tales from the Other Side (Crimson Nights Part II)",
       "url": "https://open.spotify.com/track/0wQ1WQ6eA4RqwkWLRMlPVK"
@@ -1212,7 +1234,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 226568,
       "name": "Dance On My Grave",
       "url": "https://open.spotify.com/track/04kcDf6whIoJebDQ6vZh8R"
@@ -1230,7 +1252,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 226758,
       "name": "Days and Roses",
       "url": "https://open.spotify.com/track/3zpfjxjnfosCaGLfJeZdEf"
@@ -1602,7 +1624,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 201586,
       "name": "Draumen",
       "url": "https://open.spotify.com/track/62i0jfS0Rie0VJxVwLWbHB"
@@ -2478,7 +2500,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 189000,
       "name": "Grifter",
       "url": "https://open.spotify.com/track/0Phzc8FXpj19ZVdvTmBwep"
@@ -3958,6 +3980,28 @@
     {
       "album": {
         "name": "Memories",
+        "url": "https://open.spotify.com/album/7CjRGMD9sI1OQNJt4iVXTK"
+      },
+      "artists": [
+        {
+          "name": "Steve Peacock",
+          "url": "https://open.spotify.com/artist/2CFwobC31DUZ7qlkxzvxew"
+        },
+        {
+          "name": "MIK's Reaction",
+          "url": "https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247994,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/5TuY7LoTVng1mXt9yDYbZt"
+    },
+    {
+      "album": {
+        "name": "Memories",
         "url": "https://open.spotify.com/album/6WAALfEXxdWd1CpqzYXoAU"
       },
       "artists": [
@@ -4138,7 +4182,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 326507,
       "name": "mosquito's wing",
       "url": "https://open.spotify.com/track/3V5DsjUPjon53mu0iF4GaH"
@@ -4228,7 +4272,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 255812,
       "name": "My Elegy",
       "url": "https://open.spotify.com/track/1affhJbiFkgnBpxzeQ5WFh"
@@ -4286,7 +4330,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-20",
+      "date_removed": null,
       "duration_ms": 299896,
       "name": "My Remains",
       "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
@@ -4358,7 +4402,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 299311,
       "name": "Never the Same",
       "url": "https://open.spotify.com/track/37RaDHuCzwcZeRzgqhf3Dv"
@@ -4726,7 +4770,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 174545,
       "name": "Odin",
       "url": "https://open.spotify.com/track/1ht01WVeH0egiSMOyTGjW8"
@@ -4744,7 +4788,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 246088,
       "name": "Old Heart Falls",
       "url": "https://open.spotify.com/track/2wruwMp8j02epUMpj6CKOA"
@@ -4942,7 +4986,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-26",
+      "date_removed": null,
       "duration_ms": 296484,
       "name": "Personal Paradox",
       "url": "https://open.spotify.com/track/1rTcscm59VFhWYXh8fma51"
@@ -5416,7 +5460,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 314414,
       "name": "Scared Dancer",
       "url": "https://open.spotify.com/track/4tIZxipGM6Bac1DrUekVKb"
@@ -5780,6 +5824,24 @@
       "duration_ms": 473000,
       "name": "Sol",
       "url": "https://open.spotify.com/track/7KFUjMCPZ8YsoZOm3j0wWs"
+    },
+    {
+      "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/5uIE7yGenjCYMuMPw89pKn"
+      },
+      "artists": [
+        {
+          "name": "Echoes and Signals",
+          "url": "https://open.spotify.com/artist/6j4YQkruireTrMryER3gjw"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462653,
+      "name": "Sol Invictus",
+      "url": "https://open.spotify.com/track/7MNqZBHxIIUG49zlppn903"
     },
     {
       "album": {
@@ -6472,7 +6534,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 394040,
       "name": "The Hole",
       "url": "https://open.spotify.com/track/4kvSx0xBweaAidCPRyzsFO"
@@ -6580,7 +6642,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 263920,
       "name": "The Ocean",
       "url": "https://open.spotify.com/track/625gLSaOlAcfJ0mWt6zITJ"
@@ -6753,6 +6815,24 @@
     },
     {
       "album": {
+        "name": "The Witch's Waltz",
+        "url": "https://open.spotify.com/album/1nrZd1okX3zNWKjYZFGmdL"
+      },
+      "artists": [
+        {
+          "name": "ASTRAL SPECTRE",
+          "url": "https://open.spotify.com/artist/01WoYykKRj3kxnjBISF0P2"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225093,
+      "name": "The Witch's Waltz",
+      "url": "https://open.spotify.com/track/2Rjy1UKgwWizeohx8unv1e"
+    },
+    {
+      "album": {
         "name": "The World is a Rabbit Hole",
         "url": "https://open.spotify.com/album/3qKJJu2I1bMYGfaVQhLsLV"
       },
@@ -6898,7 +6978,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 206083,
       "name": "Time",
       "url": "https://open.spotify.com/track/67dBdEclgI36iWZmd9YjRU"
@@ -7010,7 +7090,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 192026,
       "name": "Toy ! - Single mix",
       "url": "https://open.spotify.com/track/4lna786L8JUAqg31pV89Y8"
@@ -7710,7 +7790,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 335466,
       "name": "Wild Horse",
       "url": "https://open.spotify.com/track/5haFM5bfeKXJ3ysbTJzFbq"
@@ -7732,7 +7812,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 305000,
       "name": "Withered",
       "url": "https://open.spotify.com/track/4rXXkuEOyspu8wqlhd47z7"
@@ -7952,7 +8032,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 301336,
       "name": "Zulu Alpha",
       "url": "https://open.spotify.com/track/2Un1wf1MC4CEAramid6OoC"

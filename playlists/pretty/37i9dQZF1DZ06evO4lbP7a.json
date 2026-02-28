@@ -1,12 +1,12 @@
 {
   "description": "This is yama. The essential tracks, all in one playlist.",
-  "num_followers": 49895,
+  "num_followers": 49896,
   "original_name": "This Is yama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAACvdmKAym27CTQ1Nx5FnV+K",
+  "snapshot_id": "aZ+NAAAAAADuAMnze7QaTptVcMdneS9v",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/7kqIabAB3ihk1eXDZy11lF"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 224366,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/4OvdtlIQxHJTWsh1j5I19v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30de\u30b8\u30ab\u30eb\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
         "url": "https://open.spotify.com/album/0JfZQAF3ONStszQOiywvpl"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 165099,
       "name": "\u30de\u30b8\u30ab\u30eb\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
       "url": "https://open.spotify.com/track/1tzce9prdmxYbPwDSfYV1g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/7kqIabAB3ihk1eXDZy11lF"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 224366,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/4OvdtlIQxHJTWsh1j5I19v"
     },
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "End roll",
-        "url": "https://open.spotify.com/album/3uyKE7Xaxo4LCK6qiNw64R"
+        "name": "\u86f9",
+        "url": "https://open.spotify.com/album/6qqUwVgl227Y6CM5LxLt1F"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 196933,
-      "name": "End roll",
-      "url": "https://open.spotify.com/track/0WKB31BWP8DLFCpSQxGQNb"
+      "duration_ms": 234471,
+      "name": "\u86f9",
+      "url": "https://open.spotify.com/track/3WE8A4ZHK7CDtXtcvpJxnC"
     },
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u86f9",
-        "url": "https://open.spotify.com/album/6qqUwVgl227Y6CM5LxLt1F"
+        "name": "End roll",
+        "url": "https://open.spotify.com/album/3uyKE7Xaxo4LCK6qiNw64R"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 234471,
-      "name": "\u86f9",
-      "url": "https://open.spotify.com/track/3WE8A4ZHK7CDtXtcvpJxnC"
+      "duration_ms": 196933,
+      "name": "End roll",
+      "url": "https://open.spotify.com/track/0WKB31BWP8DLFCpSQxGQNb"
     },
     {
       "added_at": null,
@@ -239,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "the meaning of life",
+        "url": "https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 208093,
+      "name": "\u8840\u6d41",
+      "url": "https://open.spotify.com/track/0bBl2jjpCFCgRd60BowZoV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u30a2\u30c0\u30eb\u30c8\u30c1\u30c3\u30af\u30c1\u30eb\u30c9\u30ec\u30f3",
         "url": "https://open.spotify.com/album/1fgsyeUzImXkMVBy1vVUNm"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 198866,
       "name": "midnight",
       "url": "https://open.spotify.com/track/2I4wbn6mSyyXJOXMlNB12n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "the meaning of life",
-        "url": "https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 208093,
-      "name": "\u8840\u6d41",
-      "url": "https://open.spotify.com/track/0bBl2jjpCFCgRd60BowZoV"
     },
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Versus the night",
+        "url": "https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3sz0hi6mkqq0hfRMN8RGrs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "awake\uff06build",
         "url": "https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 205966,
       "name": "\u61a7\u308c\u306e\u307e\u307e\u306b",
       "url": "https://open.spotify.com/track/6cRZpoOfi9kBOTFxeN8X3t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Versus the night",
-        "url": "https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 245466,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3sz0hi6mkqq0hfRMN8RGrs"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u4e00\u5bf8\u306e\u8d64",
-        "url": "https://open.spotify.com/album/3AZiSmcQY2ci47AneOFYhj"
+        "name": "\u6625\u3092\u544a\u3052\u308b - From THE FIRST TAKE",
+        "url": "https://open.spotify.com/album/61OTGf8KiylPy39lihGoUs"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 231673,
-      "name": "\u4e00\u5bf8\u306e\u8d64",
-      "url": "https://open.spotify.com/track/6gLIdsq5niNohbCT3LFT1Z"
+      "duration_ms": 300800,
+      "name": "\u6625\u3092\u544a\u3052\u308b - From THE FIRST TAKE",
+      "url": "https://open.spotify.com/track/0QDjYBER1ZqISxA2Gc0cJe"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u6625\u3092\u544a\u3052\u308b - From THE FIRST TAKE",
-        "url": "https://open.spotify.com/album/61OTGf8KiylPy39lihGoUs"
+        "name": "\u4e00\u5bf8\u306e\u8d64",
+        "url": "https://open.spotify.com/album/3AZiSmcQY2ci47AneOFYhj"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 300800,
-      "name": "\u6625\u3092\u544a\u3052\u308b - From THE FIRST TAKE",
-      "url": "https://open.spotify.com/track/0QDjYBER1ZqISxA2Gc0cJe"
+      "duration_ms": 231673,
+      "name": "\u4e00\u5bf8\u306e\u8d64",
+      "url": "https://open.spotify.com/track/6gLIdsq5niNohbCT3LFT1Z"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "GRIDOUT",
-        "url": "https://open.spotify.com/album/22yU6RnbXhgWPi53eDpSyS"
+        "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/4FNbJK6K73qKy9TuxggkVY"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 177966,
-      "name": "GRIDOUT",
-      "url": "https://open.spotify.com/track/3vPxuqeKOCpguz5aqhHtQr"
+      "duration_ms": 219206,
+      "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/5EBkv7Vl47e674Yi6Gk7zi"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GRIDOUT",
+        "url": "https://open.spotify.com/album/22yU6RnbXhgWPi53eDpSyS"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 177966,
+      "name": "GRIDOUT",
+      "url": "https://open.spotify.com/track/3vPxuqeKOCpguz5aqhHtQr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "the meaning of life",
         "url": "https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 274800,
       "name": "\u5e0c\u671b\u8ad6",
       "url": "https://open.spotify.com/track/4ivrdKOEXXGiRIApiD7rII"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/4FNbJK6K73qKy9TuxggkVY"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 219206,
-      "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/5EBkv7Vl47e674Yi6Gk7zi"
     },
     {
       "added_at": null,

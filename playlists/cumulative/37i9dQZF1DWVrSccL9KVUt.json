@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Celebrating the women of all the genres of Christian & Gospel music!  Cover: Abbie Gamboa",
+  "description": "Celebrating the women of all the genres of Christian & Gospel music!  Cover: Brooke Ligertwood and Abbie Gamboa ",
   "name": "Women of Faith",
   "tracks": [
     {
@@ -857,6 +857,24 @@
     },
     {
       "album": {
+        "name": "best thing",
+        "url": "https://open.spotify.com/album/3cReeK55hE5LnvhpLA8kh9"
+      },
+      "artists": [
+        {
+          "name": "Megan Tibbits",
+          "url": "https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233583,
+      "name": "best thing",
+      "url": "https://open.spotify.com/track/5GFxzXTom2S4ZhC7JSOBEh"
+    },
+    {
+      "album": {
         "name": "Better Than I Thought",
         "url": "https://open.spotify.com/album/2dTOI0srlqWqKOGmqWkMhX"
       },
@@ -1077,6 +1095,24 @@
     },
     {
       "album": {
+        "name": "Can\u2019t Keep A Secret",
+        "url": "https://open.spotify.com/album/1aKlGxC90P7YDKJfYAat5Y"
+      },
+      "artists": [
+        {
+          "name": "Amanda Nolan",
+          "url": "https://open.spotify.com/artist/1M62wAGkipCrvniBF6ZCa8"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150987,
+      "name": "Can\u2019t Keep A Secret",
+      "url": "https://open.spotify.com/track/6YiUHNjJDJaAJCBaBG0lBZ"
+    },
+    {
+      "album": {
         "name": "Carry Me",
         "url": "https://open.spotify.com/album/0JKuT0K56zJYmCnXrI13sy"
       },
@@ -1092,6 +1128,24 @@
       "duration_ms": 193269,
       "name": "Carry Me",
       "url": "https://open.spotify.com/track/4q3Y80rmbaIaZqR8PcRhie"
+    },
+    {
+      "album": {
+        "name": "idk",
+        "url": "https://open.spotify.com/album/7G3529tdmiUXQ2wdQxtozM"
+      },
+      "artists": [
+        {
+          "name": "Allison Eide",
+          "url": "https://open.spotify.com/artist/6RDeotP2Ny6OsLRt5OJLQ1"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221563,
+      "name": "chemically messed up",
+      "url": "https://open.spotify.com/track/1umu1IyfH4U7MHygdGvW5f"
     },
     {
       "album": {
@@ -1516,7 +1570,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 204161,
       "name": "Don't Count Me Out",
       "url": "https://open.spotify.com/track/0zuJsIOYKAir5r0ZcjtTLf"
@@ -1668,7 +1722,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 279624,
       "name": "Easy To Please",
       "url": "https://open.spotify.com/track/3hRXdLdEsQ2XtAuQlHq6Nz"
@@ -1690,6 +1744,28 @@
       "duration_ms": 206326,
       "name": "Enough",
       "url": "https://open.spotify.com/track/4IrBZI6Vhcg9NZoTPQuV4a"
+    },
+    {
+      "album": {
+        "name": "Even Death On A Cross!",
+        "url": "https://open.spotify.com/album/7vTcBAEdOYVZwASV8qk0A8"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        },
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249233,
+      "name": "Even Death On A Cross!",
+      "url": "https://open.spotify.com/track/6QM7HFCQZvBvlzFyNtxdfZ"
     },
     {
       "album": {
@@ -1726,6 +1802,24 @@
       "duration_ms": 169853,
       "name": "Every Day I Love You",
       "url": "https://open.spotify.com/track/51LgJSmjDz5BTmoVg7t2yf"
+    },
+    {
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/4AEO6YucgMlWQ7xCWRvC4B"
+      },
+      "artists": [
+        {
+          "name": "SOFYKA",
+          "url": "https://open.spotify.com/artist/0aOnfDbpLdvyWDnjZiIEBq"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224727,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6nphpniFXq98Il7puQ3VRH"
     },
     {
       "album": {
@@ -1816,7 +1910,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 216030,
       "name": "First",
       "url": "https://open.spotify.com/track/4HwLdRPrxwu4vP1ETO2t2a"
@@ -1918,6 +2012,24 @@
       "duration_ms": 239171,
       "name": "For Your Glory",
       "url": "https://open.spotify.com/track/6AQWVm4CSPxd8xNmgWjwmA"
+    },
+    {
+      "album": {
+        "name": "Forty One",
+        "url": "https://open.spotify.com/album/4CyKRwvYNl98G8TtHCHWNV"
+      },
+      "artists": [
+        {
+          "name": "Samantha Ebert",
+          "url": "https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231504,
+      "name": "Forty One",
+      "url": "https://open.spotify.com/track/19ZQem15tyNYl8H4M40Th6"
     },
     {
       "album": {
@@ -2835,6 +2947,24 @@
     },
     {
       "album": {
+        "name": "Hunger",
+        "url": "https://open.spotify.com/album/3R2RTLpJtl704e5hWzaVxI"
+      },
+      "artists": [
+        {
+          "name": "Gracie Binion",
+          "url": "https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328000,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/380rX1XZL7XLmLOO7FE2er"
+    },
+    {
+      "album": {
         "name": "Hymn of Praise/Shouts of Joy",
         "url": "https://open.spotify.com/album/1X3vTShKFZUfvXT1W4BLIG"
       },
@@ -2882,7 +3012,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 222019,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/73t0NQMn7cB9maJ4ydNnGS"
@@ -3002,6 +3132,24 @@
       "duration_ms": 240000,
       "name": "i can see ur progress from here",
       "url": "https://open.spotify.com/track/69uOKhqJ6y1kkayZILeJaa"
+    },
+    {
+      "album": {
+        "name": "I Know Somebody",
+        "url": "https://open.spotify.com/album/6kF4WDaAZut9K224Pknqpv"
+      },
+      "artists": [
+        {
+          "name": "Holly Brand",
+          "url": "https://open.spotify.com/artist/7g6SnEgo46bultqgcRI5FI"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191808,
+      "name": "I Know Somebody",
+      "url": "https://open.spotify.com/track/1yF0qJR0fBaZmgJZFQijig"
     },
     {
       "album": {
@@ -3322,7 +3470,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 169600,
       "name": "In the middle",
       "url": "https://open.spotify.com/track/2wVUvuhjTEBX1UHS15GNJS"
@@ -3600,7 +3748,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 224000,
       "name": "Jesus, You\u2019re Enough",
       "url": "https://open.spotify.com/track/3mAMyzElL4P5QQ2UTU1xAK"
@@ -3882,7 +4030,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 152597,
       "name": "Like Me Better",
       "url": "https://open.spotify.com/track/6GfNpMaBdEEDUoABk9Wusw"
@@ -3961,6 +4109,24 @@
     },
     {
       "album": {
+        "name": "Looking At You",
+        "url": "https://open.spotify.com/album/7igjXC4yOBiagGa0co0esw"
+      },
+      "artists": [
+        {
+          "name": "Sara Peyton King",
+          "url": "https://open.spotify.com/artist/1G0gK2l8RPggjAy4g7fm72"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "Looking At You",
+      "url": "https://open.spotify.com/track/3UwNV6c7gAGRyIFWfdZPlV"
+    },
+    {
+      "album": {
         "name": "Lord You Have My Heart (feat. Martin Smith)",
         "url": "https://open.spotify.com/album/2ruV9qUcGIV9SKOQpHrINS"
       },
@@ -4030,7 +4196,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 150662,
       "name": "Love Me Anyway",
       "url": "https://open.spotify.com/track/4FiC3pmU9BruZNna7YH84u"
@@ -4197,6 +4363,24 @@
     },
     {
       "album": {
+        "name": "Mighty Name Of Jesus - The Collection",
+        "url": "https://open.spotify.com/album/0wnHm1dJfcXDw74vgIUJN3"
+      },
+      "artists": [
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486956,
+      "name": "Mighty Name Of Jesus - Strings Version",
+      "url": "https://open.spotify.com/track/3uqqiJjJfKBjvtBJXySG9n"
+    },
+    {
+      "album": {
         "name": "Wild Child",
         "url": "https://open.spotify.com/album/7xYvqJyefvpXWdsG9hUlCC"
       },
@@ -4226,7 +4410,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 212700,
       "name": "More Than Enough",
       "url": "https://open.spotify.com/track/2ooXF4st47aOFg8h42ex7R"
@@ -4616,7 +4800,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 208681,
       "name": "One Thing He Wouldn't Do",
       "url": "https://open.spotify.com/track/1XkMo7w7CfptNggLuJEoq9"
@@ -5717,6 +5901,24 @@
     },
     {
       "album": {
+        "name": "Stay Close",
+        "url": "https://open.spotify.com/album/0m3ED6ovwyXBhFLDw44JHH"
+      },
+      "artists": [
+        {
+          "name": "Evelyn Cormier",
+          "url": "https://open.spotify.com/artist/6oOuy3kZ9Sk07JEER1C7En"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178213,
+      "name": "Stay Close",
+      "url": "https://open.spotify.com/track/2rulvx7ge8pyeDa9y4wpAu"
+    },
+    {
+      "album": {
         "name": "HONEY FROM THE ROCK",
         "url": "https://open.spotify.com/album/1PfgghMzB0dGoB1IKpfCZN"
       },
@@ -5884,7 +6086,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 343458,
       "name": "Table Of The Lord - Live",
       "url": "https://open.spotify.com/track/4SIS0GmDA7iutDggCJmRSB"
@@ -6160,6 +6362,24 @@
       "duration_ms": 229000,
       "name": "The One You Love (feat. Rachael Lampa)",
       "url": "https://open.spotify.com/track/4IGwbj01DGPnldco16510L"
+    },
+    {
+      "album": {
+        "name": "The Table",
+        "url": "https://open.spotify.com/album/1PEf5sXES0sPMFxiUNypEX"
+      },
+      "artists": [
+        {
+          "name": "Anna Childs",
+          "url": "https://open.spotify.com/artist/3uLkyG01b7EWl1e1RM3Jck"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252540,
+      "name": "The Table",
+      "url": "https://open.spotify.com/track/2wWzEDufN9Mj6aot6IUYR3"
     },
     {
       "album": {
@@ -6626,7 +6846,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 184958,
       "name": "Wait For The Dawn",
       "url": "https://open.spotify.com/track/5PHrgpOiAn8BeYwKmDgKAl"
@@ -7042,7 +7262,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 221425,
       "name": "WHY SHOULD I WORRY (Remind Me Version)",
       "url": "https://open.spotify.com/track/7nWlsNm5x9tBvt9oQlpKug"
@@ -7060,7 +7280,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 241000,
       "name": "why why why",
       "url": "https://open.spotify.com/track/2G0xJMt5vfPh3qG95HtiQF"
@@ -7269,6 +7489,24 @@
     },
     {
       "album": {
+        "name": "Worthy",
+        "url": "https://open.spotify.com/album/7usvayUkl3dLssBcnI5TwM"
+      },
+      "artists": [
+        {
+          "name": "Lee Vasi",
+          "url": "https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174613,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/6m31OC4uyWmHKFpT2vyCaA"
+    },
+    {
+      "album": {
         "name": "Wouldn't Change a Thing",
         "url": "https://open.spotify.com/album/7yl6G54uyUIn9FdgjYiqqU"
       },
@@ -7356,7 +7594,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 179939,
       "name": "You Can't Take My Song",
       "url": "https://open.spotify.com/track/4qaIk1oubKaR6rD1G7GTX7"

@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-406 songs - 1 day 13 hr 23 min
+407 songs - 1 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Jabse Tum Sana Lag Li \- Bhoopali](https://open.spotify.com/track/6zFQPuWAkXBEN2h3ytYJLx) | [DEW](https://open.spotify.com/artist/3kTz6jnByrB7YKt0sEQC8s), [Sanchari Nag](https://open.spotify.com/artist/3Vdi9hu61GlWNIvJH51AmE) | [Jabse Tum Sana Lag Li \(Bhoopali\)](https://open.spotify.com/album/6Bm1pY8Lg5vDmRzxOjC22l) | 3:03 | 2023-12-15 |  |
 | [Jagaave Saari Raina](https://open.spotify.com/track/4Y5YYrofXOcGZnrH03AhvF) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Dedh Ishqiya](https://open.spotify.com/album/23R1Rdt3MDu5aHYh9FFGBp) | 5:38 | 2024-01-31 | 2024-04-19 |
 | [Jagaave Saari Raina](https://open.spotify.com/track/7CQ0O1bdOHZINqyOf1W3kz) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Dedh Ishqiya](https://open.spotify.com/album/0x33kdKVOuPpUNyuQdX1LR) | 5:38 | 2023-03-02 |  |
+| [Jamuna Kinaare](https://open.spotify.com/track/5EMzjJF46nOPU9kmM1jatd) | [Abby V](https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Jamuna Kinaare](https://open.spotify.com/album/3UFK1vbFH3sKk1auE0f9v7) | 4:03 | 2026-02-25 |  |
 | [Jamuna Kinaare](https://open.spotify.com/track/7JRBFFMp0VpGoFmEMGLJ9w) | [Vidhya Gopal](https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B), [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih) | [Jamuna Kinaare](https://open.spotify.com/album/6FoH3QGoYMwNlnPW6TkPNP) | 7:41 | 2025-07-04 | 2025-09-05 |
 | [Jamuna Kinare](https://open.spotify.com/track/4CXTIuPWk4ArUANlD5k3Af) | [Sooryagayathri](https://open.spotify.com/artist/5qfJHcOsAD4qaRzxUJzr2K) | [Jamuna Kinare](https://open.spotify.com/album/2augZUhTpR5kFbuXZRzZut) | 7:41 | 2022-12-07 | 2023-04-22 |
 | [Jao Ji Jao \- From "Ulajh"](https://open.spotify.com/track/5LKAj1Ed6xJewL8RYa7K0j) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Shanya Kashyap](https://open.spotify.com/artist/2En4ppmO51pQ7t4MXSmw2D), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU) | [Ulajh \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3ZaDeJrwMgfJExajojAuwC) | 3:59 | 2024-07-29 | 2024-10-01 |
@@ -168,7 +169,7 @@
 | [Kahaani](https://open.spotify.com/track/6aq4kwRTCpm3nMMDazY0kK) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Sabar](https://open.spotify.com/album/2ikyb4st55fJ0309PgANvS) | 4:20 | 2022-05-17 | 2022-07-29 |
 | [Kahaani](https://open.spotify.com/track/6z0iNZXZ7xEwjQf6SXDH8P) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Sabar](https://open.spotify.com/album/44gFbG7mWYc4u0lENFlQSY) | 4:20 | 2022-07-12 | 2023-03-23 |
 | [Kahe Bana Batiya](https://open.spotify.com/track/2DeFZhd4UcRwLaWAETGoCi) | [Imran Khan Sitar](https://open.spotify.com/artist/1UrxT8kr1FXLymiN3SWpEP), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P) | [Song Craft Season 1](https://open.spotify.com/album/6cyCyVWsO3y369yadNqbmA) | 6:45 | 2024-02-23 | 2025-01-07 |
-| [Kahe Sataye](https://open.spotify.com/track/5lZWQY94QWVaxjtam5dRqc) | [Abby V](https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX), [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P) | [Aarambh](https://open.spotify.com/album/23tB4HqO2xE8DqUkXyhzyc) | 3:50 | 2023-11-24 |  |
+| [Kahe Sataye](https://open.spotify.com/track/5lZWQY94QWVaxjtam5dRqc) | [Abby V](https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX), [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P) | [Aarambh](https://open.spotify.com/album/23tB4HqO2xE8DqUkXyhzyc) | 3:50 | 2023-11-24 | 2026-02-28 |
 | [Kaliyaan](https://open.spotify.com/track/2imK2X4ah7bVms1TjSAB19) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Bawari Basanti](https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8) | [Kaliyaan](https://open.spotify.com/album/3fl0YteOBNVB020BXkgpS1) | 2:39 | 2024-10-04 |  |
 | [Kanha Re](https://open.spotify.com/track/2WE7d2v6kdC2tED3oWtdaz) | [RaagNRocks](https://open.spotify.com/artist/3jTcN7ekTH3C1dnzRW65CY), [Nabanita Goswami](https://open.spotify.com/artist/6x3CZ20CvNvPKylTfC2nzB) | [Kanha Re](https://open.spotify.com/album/4OwpgHERocW4KSPZ1D1rqV) | 3:51 | 2023-04-20 | 2024-01-03 |
 | [Kanha Re](https://open.spotify.com/track/4rve7qQ9hYbpATiu5hJwVj) | [RaagNRocks](https://open.spotify.com/artist/3jTcN7ekTH3C1dnzRW65CY), [Nabanita Goswami](https://open.spotify.com/artist/6x3CZ20CvNvPKylTfC2nzB) | [Kanha Re](https://open.spotify.com/album/4X7TVqpjzzAeB5MlYH0zpF) | 3:51 | 2023-12-15 | 2024-02-24 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAACC4SPT2shKPgAm3a7q2Kmq",
+  "snapshot_id": "aZ+NAAAAAACqvQIO/w/OjGEBJrD2xZkE",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reflections: In Loving Memory",
-        "url": "https://open.spotify.com/album/7dhvs5QbajnXYUY5NETIGY"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 324960,
-      "name": "Baby Don't Go Yet",
-      "url": "https://open.spotify.com/track/6NKNogU1zrD9jNj4aPNdQV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coming Back",
         "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
       },
@@ -531,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reflections: In Loving Memory",
+        "url": "https://open.spotify.com/album/7dhvs5QbajnXYUY5NETIGY"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 324960,
+      "name": "Baby Don't Go Yet",
+      "url": "https://open.spotify.com/track/6NKNogU1zrD9jNj4aPNdQV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Keep It Comin'",
         "url": "https://open.spotify.com/album/7vKrwEYZpsgbl84bYSZ9tJ"
       },
@@ -543,22 +543,6 @@
       "duration_ms": 252640,
       "name": "Better Things to Do",
       "url": "https://open.spotify.com/track/74PH2myT1Q271X9ygKce2I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Luxury Soul 2018",
-        "url": "https://open.spotify.com/album/3wGtvC2F8Bw7ztDIl3ly3L"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 157133,
-      "name": "If You Don't Start Nothing",
-      "url": "https://open.spotify.com/track/3TdBD4lD7gylpWdNsRHx8P"
     },
     {
       "added_at": null,
@@ -595,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Luxury Soul 2018",
+        "url": "https://open.spotify.com/album/3wGtvC2F8Bw7ztDIl3ly3L"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 157133,
+      "name": "If You Don't Start Nothing",
+      "url": "https://open.spotify.com/track/3TdBD4lD7gylpWdNsRHx8P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Keep It Comin'",
         "url": "https://open.spotify.com/album/7vKrwEYZpsgbl84bYSZ9tJ"
       },
@@ -607,22 +607,6 @@
       "duration_ms": 275773,
       "name": "Why You Wanna Do That to Me",
       "url": "https://open.spotify.com/track/37qqCwdo1Vx0lKV0t2v3oa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music Merchant B-Sides (The Holland Dozier Holland 45s)",
-        "url": "https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 231053,
-      "name": "You're the Only Bargain I've Got",
-      "url": "https://open.spotify.com/track/7n99baQQ4F6lGKpz52SNMn"
     },
     {
       "added_at": null,
@@ -655,6 +639,22 @@
       "duration_ms": 270666,
       "name": "You Threw Our Love Away",
       "url": "https://open.spotify.com/track/2VeJDRAffO2knNj1RuUYAI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music Merchant B-Sides (The Holland Dozier Holland 45s)",
+        "url": "https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 231053,
+      "name": "You're the Only Bargain I've Got",
+      "url": "https://open.spotify.com/track/7n99baQQ4F6lGKpz52SNMn"
     },
     {
       "added_at": null,

@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Nos Pertenecemos",
+        "url": "https://open.spotify.com/album/2yOe1iSolv9Fe9ZhlvJsF4"
+      },
+      "artists": [
+        {
+          "name": "Banda Torera Del Valle",
+          "url": "https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276540,
+      "name": "A Gozar",
+      "url": "https://open.spotify.com/track/6PVeZNxyYK1ta2qmbJJRaT"
+    },
+    {
+      "album": {
         "name": "Vamos Bien",
         "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
       },
@@ -364,7 +382,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 194813,
       "name": "Ambicion",
       "url": "https://open.spotify.com/track/6UFTow898t6dbHb14FnKzk"
@@ -961,6 +979,24 @@
     },
     {
       "album": {
+        "name": "Corridos Prohibidos",
+        "url": "https://open.spotify.com/album/1X4znZJ1tE300zU5dd060r"
+      },
+      "artists": [
+        {
+          "name": "Adan Romero",
+          "url": "https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187240,
+      "name": "Casquillos De Mi Cuerno",
+      "url": "https://open.spotify.com/track/7bciiqMnJmrfL7jayg9DJa"
+    },
+    {
+      "album": {
         "name": "Llegando Al Rancho",
         "url": "https://open.spotify.com/album/6vJ9ymVhHcvI1NgFuFA0rN"
       },
@@ -1272,7 +1308,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 168063,
       "name": "Con Cartitas Y Palabras",
       "url": "https://open.spotify.com/track/0gjdLG2i7nXGJsUgYyDRcv"
@@ -1427,6 +1463,24 @@
     },
     {
       "album": {
+        "name": "Los Prohibidos en Concierto (En Vivo)",
+        "url": "https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154093,
+      "name": "Cosas del Amor - En Vivo",
+      "url": "https://open.spotify.com/track/6YzMEo6d3PbmtftbYwE9tj"
+    },
+    {
+      "album": {
         "name": "En Vivo Desde el Hangar",
         "url": "https://open.spotify.com/album/1C9TBlicNWqtn9FnIVeabt"
       },
@@ -1482,6 +1536,28 @@
       "duration_ms": 136440,
       "name": "Cuando Los Hombres Lloran",
       "url": "https://open.spotify.com/track/355sdIGsNoFpGz5hqLL6EA"
+    },
+    {
+      "album": {
+        "name": "Cuando No Estas Conmigo",
+        "url": "https://open.spotify.com/album/0rpNenvRSpG0ILgEFZSvym"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Su Majestad La Brissa",
+          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201367,
+      "name": "Cuando No Estas Conmigo",
+      "url": "https://open.spotify.com/track/70jP2lO4kyktgLKQjE62Ak"
     },
     {
       "album": {
@@ -2330,7 +2406,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 207333,
       "name": "EL BO",
       "url": "https://open.spotify.com/track/3WR4YxkDZlKLiBSlg7oNxD"
@@ -2663,6 +2739,28 @@
     },
     {
       "album": {
+        "name": "En Contacto (En Vivo)",
+        "url": "https://open.spotify.com/album/10ZH2j3ykzI8n6v5WPklQD"
+      },
+      "artists": [
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        },
+        {
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181589,
+      "name": "El Negrito - En Vivo",
+      "url": "https://open.spotify.com/track/1hmZR9N5q1ThHtI701dK9t"
+    },
+    {
+      "album": {
         "name": "El Ni\u00f1o",
         "url": "https://open.spotify.com/album/7gUYaG993XR9dyROUbSQn1"
       },
@@ -2938,6 +3036,42 @@
       "duration_ms": 180871,
       "name": "El Taquicardio",
       "url": "https://open.spotify.com/track/0ZZqH5tN03zxbkuyZo1Gr1"
+    },
+    {
+      "album": {
+        "name": "El Tarachi",
+        "url": "https://open.spotify.com/album/5BkrGEd97OrTXylNGd6ib9"
+      },
+      "artists": [
+        {
+          "name": "Joel Elizalde",
+          "url": "https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176700,
+      "name": "El Tarachi",
+      "url": "https://open.spotify.com/track/1GOoInDuc7fLTDYLaKP8hN"
+    },
+    {
+      "album": {
+        "name": "Secretos De Mi Memoria",
+        "url": "https://open.spotify.com/album/7uiQrtdG9S5vltQrvdK6Ik"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167906,
+      "name": "El Ultimo Cartucho",
+      "url": "https://open.spotify.com/track/3YEz7DrxZbXnEfxIJ0tjE1"
     },
     {
       "album": {
@@ -3754,7 +3888,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 162000,
       "name": "Ilusi\u00f3n 98",
       "url": "https://open.spotify.com/track/4bvfI3qmILgkvqdq7txFQl"
@@ -4437,6 +4571,24 @@
     },
     {
       "album": {
+        "name": "Banda Sinaloense Los Recoditos",
+        "url": "https://open.spotify.com/album/7JdkmewzPmFaW110iZ7zK3"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171258,
+      "name": "La Roncona",
+      "url": "https://open.spotify.com/track/4HTClrOChNd2JTzaO9EN8H"
+    },
+    {
+      "album": {
         "name": "Compa\u00f1eros Musicales",
         "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
       },
@@ -4632,7 +4784,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 224333,
       "name": "Lo Mejor de Mi Vida",
       "url": "https://open.spotify.com/track/5SVXxIPttTS33BSphXn7Dv"
@@ -4834,7 +4986,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 175682,
       "name": "Los hombres no deben llorar",
       "url": "https://open.spotify.com/track/29XqRRgs3I95F7PMuf8iBn"
@@ -4906,7 +5058,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 175038,
       "name": "MALEDUCADO",
       "url": "https://open.spotify.com/track/2apx5RFsUlOcTWDwLUFQ6g"
@@ -5112,6 +5264,28 @@
       "duration_ms": 156386,
       "name": "Me Naci\u00f3 Del Alma",
       "url": "https://open.spotify.com/track/3GYDqqCfOhrB1XicSIh6AY"
+    },
+    {
+      "album": {
+        "name": "Me Voy al Amanecer",
+        "url": "https://open.spotify.com/album/0jGxlPzfSQvzY8y7MRurlr"
+      },
+      "artists": [
+        {
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202029,
+      "name": "Me Voy al Amanecer",
+      "url": "https://open.spotify.com/track/044OjTSoQNelqaMaq7adLT"
     },
     {
       "album": {
@@ -6093,6 +6267,24 @@
     },
     {
       "album": {
+        "name": "Paseando Y Tomando",
+        "url": "https://open.spotify.com/album/5yQjr1ikl5uT75mk7SJmCQ"
+      },
+      "artists": [
+        {
+          "name": "Los Sembradores",
+          "url": "https://open.spotify.com/artist/1JVfORNBW6NGm0tJPKdvnm"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180773,
+      "name": "Paseando Y Tomando",
+      "url": "https://open.spotify.com/track/006tr7q37mYDg6fkJDy4AQ"
+    },
+    {
+      "album": {
         "name": "Patrullon",
         "url": "https://open.spotify.com/album/5xj5BZBQvm6wcXf5iFrDiP"
       },
@@ -6166,6 +6358,24 @@
       "duration_ms": 181117,
       "name": "Pensando En Usted",
       "url": "https://open.spotify.com/track/7yUvzs4rzLnjJajlwCmsrM"
+    },
+    {
+      "album": {
+        "name": "Mi Princesa",
+        "url": "https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146853,
+      "name": "Peque\u00f1a Y Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/14DxrLChj0kcZVMjmQcw6i"
     },
     {
       "album": {
@@ -6264,6 +6474,24 @@
       "duration_ms": 177040,
       "name": "Piensa En M\u00ed",
       "url": "https://open.spotify.com/track/1xKP7GVLY33i5jmx1bB1Kk"
+    },
+    {
+      "album": {
+        "name": "No Es de Madera",
+        "url": "https://open.spotify.com/album/5hf6WT0Zv9JyQCiZNo6hGv"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157413,
+      "name": "Pienso En Ti",
+      "url": "https://open.spotify.com/track/6ZA4xgOuvzkWc8ow843Q3t"
     },
     {
       "album": {
@@ -6974,7 +7202,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 180800,
       "name": "Rec\u00e1rguense Conmigo",
       "url": "https://open.spotify.com/track/4gzks4gPyueRKrO2NgKHrY"
@@ -7174,6 +7402,28 @@
       "duration_ms": 247373,
       "name": "Secretos De Mi Memoria",
       "url": "https://open.spotify.com/track/09aZzS1QTGtrBx4Ys0xIRr"
+    },
+    {
+      "album": {
+        "name": "Desde Estacion Corral Hasta Los Hornos Sonora",
+        "url": "https://open.spotify.com/album/3mQloaIk4vubKSpULWf8Ww"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Vega Jr.",
+          "url": "https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm"
+        },
+        {
+          "name": "Su Majestad La Brissa",
+          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "Sera El Amor",
+      "url": "https://open.spotify.com/track/4hi3efC8QrfV2PIJ8tE7sh"
     },
     {
       "album": {

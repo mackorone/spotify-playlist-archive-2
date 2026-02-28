@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-304 songs - 1 day 17 hr 12 min
+305 songs - 1 day 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Let Them Know \- Live](https://open.spotify.com/track/0HqvZlBUawha81zBQ5wnFl) | [David Ekene](https://open.spotify.com/artist/5A7uVlEs5QcS92rQl9A2IJ) | [Let Them Know \(Live\)](https://open.spotify.com/album/5V9HkW2CNncaS6dI8K3WG9) | 9:07 | 2024-09-20 | 2024-11-15 |
 | [Lift Up Your Voices \- Live](https://open.spotify.com/track/0TXH1EyG4FsKHpp8CIBK4I) | [David Forlu](https://open.spotify.com/artist/3GZOiQIDEfPmITy20a8Wto) | [Lift Up Your Voices \(Live\)](https://open.spotify.com/album/66rGbvNL1jJAcKHf6fqMi7) | 9:17 | 2024-09-13 | 2025-02-21 |
 | [Light Come \- Live](https://open.spotify.com/track/1A4XJqbjVomOLrN2pKt2gX) | [Isabella Melodies](https://open.spotify.com/artist/4MoAcSftH9uiQEfe8pA0tr) | [Light Come \(Live\)](https://open.spotify.com/album/7xHhTXpmEtwd68DpcNw9tA) | 3:30 | 2024-12-20 | 2025-01-17 |
+| [Light Of The World \- Live](https://open.spotify.com/track/3OHSXhBGjFzvvumpEvHLBf) | [Bimbo Idemeto](https://open.spotify.com/artist/59sVYSKrS333w0LDE3tOnE), [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL) | [Light Of The World \(Live\)](https://open.spotify.com/album/6SzntBREccSSWqtX90xg8d) | 8:31 | 2026-02-27 |  |
 | [Light Of The World \- Live In Chicago](https://open.spotify.com/track/0G8Oai4uQlCipnvlqSjCBz) | [Efe Lucky](https://open.spotify.com/artist/2dFgoR6fiFFJ21OdG7A28b), [Deoye](https://open.spotify.com/artist/2BfaCEkVTEh7dbOYdTc1wJ), [Jojoo](https://open.spotify.com/artist/7MZpYHoOEYqzGxf3yWwo02) | [Light Of The World \(Live In Chicago\)](https://open.spotify.com/album/7CWVbayg8RTZg2LrtkUV01) | 4:46 | 2025-02-21 | 2025-03-21 |
 | [Live Again \- Live](https://open.spotify.com/track/2PJtONySMmQWuMNpSg9gBo) | [Breakthrough Worship ZA](https://open.spotify.com/artist/06WukqeQmCpLBsSu0njfLN), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [Volume One \(Live\)](https://open.spotify.com/album/3NLEdaOPs1Sgo2oGC9NbSr) | 9:27 | 2026-01-30 |  |
 | [Live Worship Medley](https://open.spotify.com/track/5p3eZrJOpJjYdxMy7Bs847) | [Glitch Gospel](https://open.spotify.com/artist/7g9iFNrR0eMrFq2gXkw57Q), [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Live Worship Medley](https://open.spotify.com/album/3VbdAlFQTE7ul2PciwWAyV) | 7:39 | 2025-05-09 |  |

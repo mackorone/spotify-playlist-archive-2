@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WzB1Rs2vkz.md) - [plain]
 
 > Musiquita sabrosa que te hace bailar el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,643 likes - 75 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,684 likes - 75 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WzB1Rs2vkz.md) - [plain]
 | 17 | [Sobredosis \(feat\. Ozuna\)](https://open.spotify.com/track/1WbXIpiGBJkCiv3hn40iPB) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:18 |
 | 18 | [Bachata En Fukuoka](https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra](https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL) | 3:11 |
 | 19 | [Te Mando Flores](https://open.spotify.com/track/2in1gSZtv2lRbcZUmN9aAl) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Corazón](https://open.spotify.com/album/6O0WvW7JA4B02y8D9Kd3Bx) | 3:48 |
-| 20 | [Valió la Pena \- Salsa Version](https://open.spotify.com/track/2AMDKSt4HJWZbuLupJuNrj) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 4:49 |
-| 21 | [Idilio](https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 5:08 |
+| 20 | [Idilio](https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 5:08 |
+| 21 | [Valió la Pena \- Salsa Version](https://open.spotify.com/track/2AMDKSt4HJWZbuLupJuNrj) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 4:49 |
 | 22 | [Que Locura Enamorarme De Ti](https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Atrevido Y Diferente](https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG) | 5:08 |
 | 23 | [Bailando Bachata](https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Bailando Bachata](https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe) | 2:50 |
 | 24 | [Mi Corazoncito](https://open.spotify.com/track/5I76YtdZkFQReVgKppRd78) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [K.O.B\. Live](https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz) | 3:54 |

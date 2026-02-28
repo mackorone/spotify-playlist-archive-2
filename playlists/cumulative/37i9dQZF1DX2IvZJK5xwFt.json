@@ -695,6 +695,24 @@
     },
     {
       "album": {
+        "name": "All For You",
+        "url": "https://open.spotify.com/album/1S2lRRUmJ4SWtiXeBK48dK"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234234,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/4JQMbQK6139mYC1osRQK0b"
+    },
+    {
+      "album": {
         "name": "Songs Of A Lost World",
         "url": "https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX"
       },
@@ -2023,6 +2041,24 @@
     },
     {
       "album": {
+        "name": "Blunt Force Blues",
+        "url": "https://open.spotify.com/album/6JSSK9vSJUabyLGFhdnMEG"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251505,
+      "name": "Blunt Force Blues",
+      "url": "https://open.spotify.com/track/7sxzXYrcCVnMnqCxBwCXLN"
+    },
+    {
+      "album": {
         "name": "Body Bag",
         "url": "https://open.spotify.com/album/66fpcSbqSujeY5dwGWsz5s"
       },
@@ -2074,6 +2110,24 @@
       "duration_ms": 213506,
       "name": "BONVOYAGE",
       "url": "https://open.spotify.com/track/3Jnwl9zlbFNEqKQjydxLxe"
+    },
+    {
+      "album": {
+        "name": "Born To Kill",
+        "url": "https://open.spotify.com/album/1NqTkg2rUSAGF6KOSTUgqW"
+      },
+      "artists": [
+        {
+          "name": "Social Distortion",
+          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230866,
+      "name": "Born To Kill",
+      "url": "https://open.spotify.com/track/2dar1QSaBJKGCPXJQsef0J"
     },
     {
       "album": {
@@ -2334,7 +2388,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 192125,
       "name": "Broken and Blind",
       "url": "https://open.spotify.com/track/1UKPDEkYKuqxdItIyaZehC"
@@ -3453,6 +3507,28 @@
     },
     {
       "album": {
+        "name": "Cowboys Of Doom",
+        "url": "https://open.spotify.com/album/1VC01TRAKUqqNw3QsyLfbB"
+      },
+      "artists": [
+        {
+          "name": "We Kill Cowboys",
+          "url": "https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k"
+        },
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/1qS4fe56ZPYitRYMlJsLaO"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299720,
+      "name": "Cowboys Of Doom",
+      "url": "https://open.spotify.com/track/3sLufhrnJMJ6D5SB3Kx0mC"
+    },
+    {
+      "album": {
         "name": "crawling",
         "url": "https://open.spotify.com/album/3miAzGyRnOqRfBsO2cwPaZ"
       },
@@ -4064,7 +4140,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 155331,
       "name": "Death Punch",
       "url": "https://open.spotify.com/track/3LCDYEISvX2IRlb2xOxqli"
@@ -4950,7 +5026,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 192800,
       "name": "End of You",
       "url": "https://open.spotify.com/track/0PsFsv5xUyX06ZhIEtFkeA"
@@ -5880,6 +5956,24 @@
       "duration_ms": 208230,
       "name": "Freaking Me Out",
       "url": "https://open.spotify.com/track/3I8U8BMugXc4ZGzAl5IkCc"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188062,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj"
     },
     {
       "album": {
@@ -8158,7 +8252,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 260066,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/5oypXoPkWAQ9fDJ6ghK49l"
@@ -9364,7 +9458,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 230240,
       "name": "let me burn",
       "url": "https://open.spotify.com/track/3SnoIOHg3ksaP0pe0pD4To"
@@ -12028,7 +12122,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 259495,
       "name": "Opening Night",
       "url": "https://open.spotify.com/track/7HXzuAd8UNJj2yCAS0NWbB"
@@ -12170,6 +12264,24 @@
       "duration_ms": 170445,
       "name": "Over Each Other",
       "url": "https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe"
+    },
+    {
+      "album": {
+        "name": "Over My Head",
+        "url": "https://open.spotify.com/album/3Qxms75iFFEBACANdN1nns"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150753,
+      "name": "Over My Head",
+      "url": "https://open.spotify.com/track/3tffqhqjhbLMfefbsMupgL"
     },
     {
       "album": {
@@ -17304,7 +17416,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 233289,
       "name": "To Space",
       "url": "https://open.spotify.com/track/356x2OD1llA9NfOMXVmGSk"
@@ -19036,6 +19148,24 @@
       "duration_ms": 220748,
       "name": "Yearning",
       "url": "https://open.spotify.com/track/1bmiU7ALrg8TlYY71RAaBh"
+    },
+    {
+      "album": {
+        "name": "Yellow Roses",
+        "url": "https://open.spotify.com/album/0hpuV7YhUJBOEaIQh52mZ6"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202757,
+      "name": "Yellow Roses",
+      "url": "https://open.spotify.com/track/71tJCENl05wzNpFLKVeYUl"
     },
     {
       "album": {

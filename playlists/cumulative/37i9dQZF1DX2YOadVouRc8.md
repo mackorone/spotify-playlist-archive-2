@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-719 songs - 1 day 10 hr 47 min
+719 songs - 1 day 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Anticipate](https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Anticipate](https://open.spotify.com/album/1gjvuirxy43mXAc6O7UNLD) | 2:47 | 2023-07-28 | 2024-02-07 |
 | [Après Minuit \(feat\. Tiakola\)](https://open.spotify.com/track/7JKGyMt8qkTaUHXFpxgjY2) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:57 | 2025-04-07 | 2025-12-19 |
 | [ARABAMBI](https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [ARABAMBI](https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1) | 3:10 | 2024-06-14 | 2025-07-26 |
+| [Are You On The Way](https://open.spotify.com/track/5QyJkMyAWCB0IzuzUiYpER) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Love Stray](https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d) | 3:38 | 2026-02-27 |  |
 | [AREA BOYZ PRAYER \(feat\. Seyi Vibez\)](https://open.spotify.com/track/4q66cTrveS3OCh2cIeOKRS) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 4:10 | 2023-10-20 | 2024-08-26 |
 | [Arike](https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Arike](https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw) | 2:04 | 2025-02-26 | 2025-07-30 |
 | [Arike \- Remix](https://open.spotify.com/track/2TDNamLQbpOrzWM0zN7vA1) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Arike \(Remix\)](https://open.spotify.com/album/4cbzmkoVpf6oNpJW6sQFe3) | 2:26 | 2025-07-18 |  |
@@ -644,7 +645,6 @@
 | [Touché](https://open.spotify.com/track/6AmCAKY1V1msPUiqogglVW) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Moneybag](https://open.spotify.com/album/26MQEJC5dvEQL1rfShAXao) | 2:14 | 2023-10-20 | 2023-10-27 |
 | [Toxic Love Story](https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ) | [Jontae](https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8) | [Toxic Love Story](https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY) | 2:20 | 2024-01-08 | 2024-03-22 |
 | [TOYL \(Time Of Your Life\)](https://open.spotify.com/track/2MC76yZJfif1GRBpG1USWg) | [M3NSA](https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s) | [TOYL \(Time Of Your Life\)](https://open.spotify.com/album/1ad4lbzO6ZSQsTHMxNbvTN) | 3:45 | 2024-09-27 | 2025-01-30 |
-| [Track 2](https://open.spotify.com/track/5QyJkMyAWCB0IzuzUiYpER) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Love Stray](https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d) | 0:00 | 2026-02-27 |  |
 | [Trobul](https://open.spotify.com/track/3mitop70iyN03AreLNsit4) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Trobul](https://open.spotify.com/album/0rR5whQcGWozzVgQ9XV2VS) | 4:02 | 2022-06-09 | 2023-12-08 |
 | [Tropicana](https://open.spotify.com/track/3owm3LW9jSaF0UjULZvGJw) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Flash](https://open.spotify.com/artist/4YpdJj3xKNzKiLjowqoi0p) | [Palmwine Music 2](https://open.spotify.com/album/40nNC1WqyKr4IHIJH0cxS5) | 4:15 | 2022-06-09 | 2023-12-02 |
 | [troublin \- A COLORS SHOW](https://open.spotify.com/track/7y7iGYV1c2XIPIvPh8TbN1) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [troublin \- A COLORS SHOW](https://open.spotify.com/album/1KCidWMSBM1Manslu7zT2K) | 2:25 | 2023-03-17 | 2023-08-04 |

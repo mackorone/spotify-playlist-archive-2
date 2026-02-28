@@ -4,7 +4,7 @@
 
 > Les meilleurs titres du moment et plus encore en version acoustique.
 
-156 songs - 8 hr 18 min
+157 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Anti\-Hero \- Acoustic Version](https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Anti\-Hero \(Acoustic Version\)](https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv) | 3:16 | 2022-12-21 | 2025-07-04 |
 | [As It Was \- Spotify Singles](https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Spotify Singles](https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w) | 3:26 | 2022-12-21 | 2024-04-13 |
 | [Azizam \- Acoustic](https://open.spotify.com/track/2IQz2JtlZ4GjMuXcusYF2i) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam \(Acoustic\)](https://open.spotify.com/album/4vsBt7vutpoO2ebjuTinkn) | 2:40 | 2025-05-22 |  |
+| [B.M.S \(version acoustique\)](https://open.spotify.com/track/4U2Bj3qDV7T3wjBbjTdEsK) | [Rambo goyard](https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA) | [B.M.S \(version acoustique\)](https://open.spotify.com/album/2qSucHSdqc8F0glawx1X4Q) | 3:21 | 2026-02-27 |  |
 | [Bad Dreams \- Acoustic](https://open.spotify.com/track/2J0uAddTaXz5mYhAIKhBXc) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams \(Acoustic\)](https://open.spotify.com/album/3w0fo8UhkhtBUi8i3EcSQg) | 2:56 | 2024-11-21 |  |
 | [Bad Habits \- Acoustic Version](https://open.spotify.com/track/0IkK4SEryuCtbQjm5LRLMZ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits \(Acoustic Version\)](https://open.spotify.com/album/6m1jYE77JZX8aJpO5ei2V7) | 3:52 | 2022-12-21 | 2025-11-07 |
 | [Beau \(feat\. Julien Doré\) \- Version acoustique](https://open.spotify.com/track/5reKvqw1x4bKPk7BcatWiU) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Beau \(feat\. Julien Doré\) \[Version acoustique\]](https://open.spotify.com/album/56nhvJWil0JYTO4v0MBEht) | 2:33 | 2024-03-21 |  |
@@ -127,7 +128,7 @@
 | [run for the hills \(Spotify OUTSIDE Version\) \- Live from Malibu](https://open.spotify.com/track/1gMv5QSRDJ6SwcQGbTtAtB) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify OUTSIDE](https://open.spotify.com/album/6iAheP6Xd45D2CocnMGMmE) | 2:44 | 2024-01-11 | 2024-03-22 |
 | [RUNAWAY \- Acoustic](https://open.spotify.com/track/4Z3jnL8wjTptUo0OgxKa47) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY \(Acoustic\)](https://open.spotify.com/album/6O4FUArVCjvgfvWMIwwPf3) | 2:22 | 2023-08-24 | 2024-01-06 |
 | [Running up That Hill](https://open.spotify.com/track/7w4YExaFOqzTGQ1Y5fCoNv) | [Joanie Loves Chachi](https://open.spotify.com/artist/0hZe6a2PBIKKqTkZt5vDHy) | [Acoustic](https://open.spotify.com/album/28rVoKui34rygR8weIfjVl) | 3:45 | 2022-12-21 | 2024-03-15 |
-| [Sapphire \- Unplugged](https://open.spotify.com/track/1luf2qRRvfP0o35F3g8xqA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire \(Unplugged\)](https://open.spotify.com/album/1SSAC7Db5LEhTWtVVnvMva) | 2:56 | 2025-07-10 |  |
+| [Sapphire \- Unplugged](https://open.spotify.com/track/1luf2qRRvfP0o35F3g8xqA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire \(Unplugged\)](https://open.spotify.com/album/1SSAC7Db5LEhTWtVVnvMva) | 2:56 | 2025-07-10 | 2026-02-28 |
 | [Sauver ma vie](https://open.spotify.com/track/1eCkkVeleQ2Hl84xKGfLFt) | [Jean\-Pierre Armanet](https://open.spotify.com/artist/5O1JnG6IYbdlG2ZmcPeEQr), [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Sauver ma vie](https://open.spotify.com/album/20Mk9Z3Ezo0u0dzmUzsYCI) | 3:22 | 2024-01-05 | 2024-02-09 |
 | [Save Your Tears](https://open.spotify.com/track/45SbQo5bq8f0hNdB70IyFC) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Save Your Tears](https://open.spotify.com/album/6qjjZeAIfKFBeudsyydI0S) | 3:36 | 2022-12-21 | 2023-03-10 |
 | [Save Your Tears \(Acoustic\)](https://open.spotify.com/track/1X6Kmaa2Yq70vF0cIQ6V0f) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Trip Tape](https://open.spotify.com/album/707cK3j40hIquI15sOcYXP) | 3:03 | 2023-08-31 |  |

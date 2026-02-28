@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to in 2026\. Updated weekly!
 
-553 songs - 1 day 6 hr 28 min
+554 songs - 1 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Bird Song](https://open.spotify.com/track/51Wao8QZ4Fv4zamKbRnKQd) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Old Friend](https://open.spotify.com/album/3EWFbpqL5iBAL9L7Zoydxj) | 3:16 | 2020-09-13\* | 2021-03-06 |
 | [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 | 2025-07-30 |  |
 | [Black Light](https://open.spotify.com/track/6XsjMGPp015u8Ykod0KMUj) | [SJAY Music](https://open.spotify.com/artist/3EwtOLCqfnvcF2CY9b64gN), [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Black Light](https://open.spotify.com/album/6RL4nOMfiTDBjhzRnpiMas) | 2:55 | 2022-05-20 | 2026-01-06 |
+| [black tears](https://open.spotify.com/track/4lzsFM6Niynyr5C1GoNqT2) | [all things break](https://open.spotify.com/artist/7krmtqHJ8N1fg1JkjlrP0P) | [black tears](https://open.spotify.com/album/1nvoVie8QSZtNPJPMmCzqZ) | 2:04 | 2026-02-27 |  |
 | [Bleecker](https://open.spotify.com/track/5GHXtGjgoX5EKQTiuNX6Fc) | [ALBA](https://open.spotify.com/artist/5MKM7cNYL4SIuIe6q4Qd1p) | [Bleecker](https://open.spotify.com/album/3E7WTyyZV0bx1EcLJFQQDh) | 3:30 | 2023-08-18 | 2023-12-14 |
 | [Bliss](https://open.spotify.com/track/0fc0Asyn18uW8soZ3bhFS7) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV) | [Bliss](https://open.spotify.com/album/72vTCgZbrVnszdSeWQ6ajA) | 2:59 | 2020-12-18 | 2021-03-06 |
 | [Bloom](https://open.spotify.com/track/1rb65ahUV0k2QYq4x3Fi9y) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [FLORES](https://open.spotify.com/artist/6ijryPR4MbExatvDQD1AhY) | [Bloom](https://open.spotify.com/album/1ytnZ8jmwW5KYIvsh3fXdp) | 3:25 | 2025-06-20 |  |

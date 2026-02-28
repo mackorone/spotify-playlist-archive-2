@@ -4,7 +4,7 @@
 
 > The best tracks from the world of music\. Cover: Naykilla
 
-488 songs - 1 day 3 hr 55 min
+489 songs - 1 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Gelora](https://open.spotify.com/track/1LSDf9UugcT7zX9FlCQRvL) | [Usop](https://open.spotify.com/artist/4Gva5ICIXF9VvD8AEIyOSX) | [Gelora](https://open.spotify.com/album/1ZO8DsyDKeG3SPU5Uoggjc) | 3:48 | 2024-06-26 | 2024-07-04 |
 | [GGUM](https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [GGUM](https://open.spotify.com/album/2hgOMXg9I7Mk7G58OFAZ1V) | 2:31 | 2024-09-25 | 2024-10-17 |
 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 | 2025-05-07 | 2025-06-19 |
+| [GO](https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 3:15 | 2026-02-27 |  |
 | [GO!](https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:50 | 2025-09-17 | 2025-12-11 |
 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 | 2025-07-02 |  |
 | [Good Goodbye](https://open.spotify.com/track/3cLXrotzCjYCkN73PewALM) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Good Goodbye](https://open.spotify.com/album/2L8UNlNXyAD3cJBPimHbhu) | 3:43 | 2025-11-26 | 2026-02-27 |

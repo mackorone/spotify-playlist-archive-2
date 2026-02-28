@@ -2,9 +2,9 @@
 
 ### [EQUAL Hong Kong](https://open.spotify.com/playlist/37i9dQZF1DX6W1YbI0Nbnc)
 
-> Listen to women at full volume! 香港EQUAL女聲力量！\(cover: Feanna Wong\)
+> Listen to women at full volume! 香港EQUAL女聲力量！\(cover: JW王灝兒\)
 
-362 songs - 22 hr 30 min
+364 songs - 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Tomorrow](https://open.spotify.com/track/0LuBQym8RGIcybVJE5F5iE) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Tomorrow](https://open.spotify.com/album/5jLneIxjJyBOb8GC96tJy1) | 4:10 | 2022-11-30 | 2026-01-15 |
 | [Tomorrow](https://open.spotify.com/track/3bCHbOoRbzo4IsCbTeQCQ3) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Agatha](https://open.spotify.com/album/1rUusu6WHVtnCIY7w7vV8D) | 4:10 | 2024-12-04 | 2025-01-08 |
 | [u owe me $$](https://open.spotify.com/track/1suYIEpjPMDs8b8ouSWfV7) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [u owe me $$](https://open.spotify.com/album/45ws2OGii3pGImgyhePhBC) | 2:37 | 2022-08-02 | 2022-12-01 |
-| [Wake Me Up](https://open.spotify.com/track/4UptZdAy1xY0qcp3yNvLeO) | [GDJYB 雞蛋蒸肉餅](https://open.spotify.com/artist/06LP6816j1i658mANtPNVc) | [<=P:r0J3CT 2222/>](https://open.spotify.com/album/1gycyhTqFh9fVwH91yo4qM) | 4:07 | 2026-01-07 |  |
+| [Wake Me Up](https://open.spotify.com/track/4UptZdAy1xY0qcp3yNvLeO) | [GDJYB 雞蛋蒸肉餅](https://open.spotify.com/artist/06LP6816j1i658mANtPNVc) | [<=P:r0J3CT 2222/>](https://open.spotify.com/album/1gycyhTqFh9fVwH91yo4qM) | 4:07 | 2026-01-07 | 2026-02-28 |
 | [What Am I Living For?](https://open.spotify.com/track/3E57cdzOQQmS2UTdCI1Oiz) | [Chancharlie](https://open.spotify.com/artist/43ibupoLM6nWMGBh14Og4T) | [What Am I Living For?](https://open.spotify.com/album/683hVWbcmRGo878DimrQ1X) | 2:52 | 2022-01-04 | 2022-05-04 |
 | [Where's Wally \(Day Version\)](https://open.spotify.com/track/6gMEdTwtla0u63r5Sv5icE) | [iii](https://open.spotify.com/artist/3pQeUO1dZJCsibkawRfUYT) | [Where's Wally \(Day Version\)](https://open.spotify.com/album/4LzV60BDgEN0Z184L9m0uX) | 3:07 | 2021-12-07 | 2022-01-05 |
 | [Will you answer me?](https://open.spotify.com/track/5KtfSChXZpCJs2DGAQsR0x) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Will you answer me?](https://open.spotify.com/album/2tnI7S4FpHhZrS47mndVwx) | 3:33 | 2025-10-02 | 2026-01-15 |
@@ -159,6 +159,7 @@
 | [你所應有的勇氣（電影《金童》主題曲）](https://open.spotify.com/track/6WqQiebXV9eYs0HiR1MqZ6) | [林愷鈴](https://open.spotify.com/artist/2tOQ6qYoc0Zzi7n6aSeUaa) | [你所應有的勇氣（電影《金童》主題曲）](https://open.spotify.com/album/1QV5mmD1IQTUxSB6Y9TMXi) | 4:52 | 2026-01-07 |  |
 | [你是你本身的傳奇](https://open.spotify.com/track/5uMkdWf1H6JEcpcdnPOSZM) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [404 Not Found](https://open.spotify.com/album/4xl2rRkillqFASqckMIjLy) | 3:48 | 2022-05-03 | 2022-12-01 |
 | [你的損失](https://open.spotify.com/track/286eXFCY7vNrWiuazONUNr) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [你的損失](https://open.spotify.com/album/4BP6YalAkcuONOuPAjXFis) | 3:58 | 2026-01-06 |  |
+| [你离开之后](https://open.spotify.com/track/33nUhjkJRfXrdH2c9ih7EX) | [JW](https://open.spotify.com/artist/5YsDFZYpkNgiIxfDW6rXlu) | [你离开之后](https://open.spotify.com/album/1pegTruxApdcl6n3c8HO5M) | 3:50 | 2026-02-27 |  |
 | [修養動物](https://open.spotify.com/track/3gEclAuA5BZASJXkqubeJP) | [Mag Lam](https://open.spotify.com/artist/2fTmvcWWFIP66KlIvWlnlL) | [修養動物](https://open.spotify.com/album/74P05iBehlh9oJaiL2kgh2) | 4:11 | 2022-01-04 | 2022-12-01 |
 | [借夢](https://open.spotify.com/track/2OypHetAmUaCOzqHwSUGGn) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [借夢](https://open.spotify.com/album/217H0K4lcncewRCzm1AXME) | 4:44 | 2023-01-03 | 2024-02-07 |
 | [傻瓜機](https://open.spotify.com/track/23LQXqdTK8DhJVhWttUiw7) | [JUDE](https://open.spotify.com/artist/0fs8Z11YQwRDEhdgRXoi4q) | [傻瓜機](https://open.spotify.com/album/7bzVRrsAmXcBTR89pULxDL) | 3:57 | 2022-01-04 | 2022-03-08 |
@@ -261,6 +262,7 @@
 | [旁觀有罪](https://open.spotify.com/track/30OWg6pLbi8fupNYS5ZDnk) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [Honesty](https://open.spotify.com/album/4ikmdAhDo4AOmHmugvz1sT) | 3:53 | 2022-01-04 | 2022-02-03 |
 | [日月無常](https://open.spotify.com/track/5hZ7UxBJFPpi64lqpdXyh0) | [Kendy Suen](https://open.spotify.com/artist/5nE5dXf6BtMjH6YnnidrNZ) | [日月無常](https://open.spotify.com/album/7G8suSg1esgxqWBsVE1GsP) | 3:32 | 2022-04-05 | 2022-05-04 |
 | [早上37.2度](https://open.spotify.com/track/0xPuqKHf6Cchdi3jkjuyTR) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [早上37.2度](https://open.spotify.com/album/0cQ4ghlPaRQXjZQ8P84tBW) | 4:05 | 2022-05-03 | 2022-12-01 |
+| [明日見 \(劇集《痞子無間道》主題曲\)](https://open.spotify.com/track/5CIZiWYqskOqKJCyRAILld) | [JW](https://open.spotify.com/artist/5YsDFZYpkNgiIxfDW6rXlu) | [明日見 \(劇集《痞子無間道》主題曲\)](https://open.spotify.com/album/2purX3kLorHyzyt5wHLF6p) | 3:08 | 2026-02-27 |  |
 | [明明單身最開心](https://open.spotify.com/track/4IsqMYxUuwFmVhNfJB7g1f) | [麗英@小薯茄](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [明明單身最開心](https://open.spotify.com/album/1lMFKCkEHvt1WtvtwlPFEd) | 3:53 | 2022-01-04 | 2022-03-08 |
 | [明目張膽](https://open.spotify.com/track/0w8s03MKvuLmK8CozWJCQu) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [艷光四射](https://open.spotify.com/album/3z50Y8A5d5jz63vaYBnnU7) | 4:35 | 2021-12-07 | 2022-01-05 |
 | [是那麼聲勢浩大 LOUD & PROUD](https://open.spotify.com/track/5ysyYcp5Czk2cisdkr5Spl) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [是那麼聲勢浩大 LOUD & PROUD](https://open.spotify.com/album/5gI35OdhpjrAjUjOAk9Y4h) | 3:37 | 2026-01-06 |  |
@@ -335,7 +337,7 @@
 | [美男子圖鑑](https://open.spotify.com/track/5mhWe9oy3xHB52Qhf86DVt) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [美男子圖鑑](https://open.spotify.com/album/3aHapX83gJwZznhrxKC2rM) | 2:55 | 2024-04-02 | 2026-01-15 |
 | [自白的勇氣](https://open.spotify.com/track/1zHwqRHKGrM5BpAOLzmFNE) | [Eman Lam](https://open.spotify.com/artist/3SJsybXfmMSrXcwpK56YuU) | [自白的勇氣](https://open.spotify.com/album/68DrJdjADfWUfl4tUgDIWy) | 3:32 | 2021-12-07 | 2022-01-05 |
 | [至少做一件離譜的事](https://open.spotify.com/track/2oOemghuOplk25PORF4s39) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [至少做一件離譜的事](https://open.spotify.com/album/4ExqABTnuhxEXKYr0MI8L6) | 3:52 | 2024-06-06 | 2026-01-15 |
-| [草西](https://open.spotify.com/track/3jFv65hSmXNh8XUuFbcDJ0) | [GDJYB 雞蛋蒸肉餅](https://open.spotify.com/artist/06LP6816j1i658mANtPNVc) | [<=P:r0J3CT 2222/>](https://open.spotify.com/album/1gycyhTqFh9fVwH91yo4qM) | 4:10 | 2026-01-07 |  |
+| [草西](https://open.spotify.com/track/3jFv65hSmXNh8XUuFbcDJ0) | [GDJYB 雞蛋蒸肉餅](https://open.spotify.com/artist/06LP6816j1i658mANtPNVc) | [<=P:r0J3CT 2222/>](https://open.spotify.com/album/1gycyhTqFh9fVwH91yo4qM) | 4:10 | 2026-01-07 | 2026-02-28 |
 | [荊棘海\(三生石版\)](https://open.spotify.com/track/5r2CyKElH6fqAVMNN3OKfG) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [荊棘海\(三生石版\)](https://open.spotify.com/album/3f6891HPS0e44ouJGTyaoA) | 4:19 | 2022-01-04 | 2022-02-03 |
 | [萬物有時](https://open.spotify.com/track/5gE4HG83INsGkkJPkwQVjk) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [萬物有時](https://open.spotify.com/album/6Xq3BT9jPBjAvlAPyEVMnF) | 3:44 | 2022-11-30 | 2023-11-30 |
 | [葉落冰川](https://open.spotify.com/track/3jxj7O93SLRCAsBIviq3IH) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [葉落冰川](https://open.spotify.com/album/05XwwNdSaXEovmHokmE53P) | 4:22 | 2022-02-02 | 2022-12-01 |

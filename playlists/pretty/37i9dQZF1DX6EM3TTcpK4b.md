@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 
 ### [Clásicas del Mariachi](https://open.spotify.com/playlist/37i9dQZF1DX6EM3TTcpK4b)
 
-> Pa' cantar, bailar y pistear\. ¡Qué suene el mariachi! En portada: Ana Gabriel
+> Pa' cantar, bailar y pistear\. ¡Qué suene el mariachi! En portada: Lola Beltrán
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,327 likes - 150 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,438 likes - 150 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 | 54 | [Ebrio De Amor](https://open.spotify.com/track/74wVQ70UcpENCcJFOZCsW3) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty) | [Orgullo Ranchero](https://open.spotify.com/album/3RX67bIfnSkkEcobM5yAni) | 3:38 |
 | 55 | [Como Quien Pierde una Estrella](https://open.spotify.com/track/7rayH7w0DFOWTZ9LZaKL3G) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 3:35 |
 | 56 | [Entrega Total](https://open.spotify.com/track/1Hh7gEOhoCBG1ob7Aw6biK) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Canciones De Sus Peliculas](https://open.spotify.com/album/4b0LLrVt3PWfWBV1Oz4fjL) | 2:30 |
-| 57 | [Sin Fortuna](https://open.spotify.com/track/4JBHcA19SAq5EzNgZZOy9O) | [Gerardo Reyes](https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e) | [Serie De Colecc\. 15 Auténticos Exitos](https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU) | 2:56 |
-| 58 | [El Rey](https://open.spotify.com/track/4ihZFukyNotzCUtxI4qpu8) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Cantinero](https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES) | 2:09 |
+| 57 | [El Rey](https://open.spotify.com/track/4ihZFukyNotzCUtxI4qpu8) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Cantinero](https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES) | 2:09 |
+| 58 | [Sin Fortuna](https://open.spotify.com/track/4JBHcA19SAq5EzNgZZOy9O) | [Gerardo Reyes](https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e) | [Serie De Colecc\. 15 Auténticos Exitos](https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU) | 2:56 |
 | 59 | [Prefiero Partir](https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty) | [Yo Vendo Unos Ojos Verdes](https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ) | 3:17 |
 | 60 | [Amorcito corazón](https://open.spotify.com/track/73WX2V6JVfyQYYIG3K76i8) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [15 Inmortales de Pedro Infante](https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba) | 3:01 |
 | 61 | [El Loco](https://open.spotify.com/track/4srM8XuNfNMFXKgU4ybkrP) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Javier Solis Con Acoo De Mariachi](https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn) | 2:54 |
@@ -74,12 +74,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 | 64 | [Me Gustas Mucho](https://open.spotify.com/track/2i7SlECYIAsT72FpLUU1Uj) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Mis Mejores Canciones](https://open.spotify.com/album/3t2qZdlJXoWGeenwUPD5qQ) | 3:08 |
 | 65 | [Es Demasiado Tarde](https://open.spotify.com/track/5g4HXOoT2kQTDtVuJhBgBV) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [La Reina Canta A Mexico](https://open.spotify.com/album/1IRYnt0nIw8IEf7bDiJOVj) | 4:11 |
 | 66 | [Una Página Más](https://open.spotify.com/track/2eVPRDZqjO0sMD32ecDPyP) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty) | [A Todas Las Que Amé](https://open.spotify.com/album/3mPYmDJtfS7QiqWJ1OtIeA) | 2:41 |
-| 67 | [Decepciones](https://open.spotify.com/track/2LTYkSso5VAfdqzqjprOcH) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Decepciones](https://open.spotify.com/album/4Q7weZZRXGVLoKk3NeOuNT) | 3:43 |
+| 67 | [Tantita Pena](https://open.spotify.com/track/35EkiksXJbSPuOdMdjZvb0) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Orígenes](https://open.spotify.com/album/7BV29ZA45jWvqMY9CuRNvl) | 3:28 |
 | 68 | [Yo No Fui](https://open.spotify.com/track/0SygIagLM5nPX3qWvh53UY) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Yo No Fui](https://open.spotify.com/album/7gXeZSbYYmSsWvbe8rxcPu) | 4:52 |
 | 69 | [Besando La Cruz \- Versión Mariachi](https://open.spotify.com/track/4WYshCZOAaCGFRcXfJiOEZ) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Con Mariachi](https://open.spotify.com/album/6ZmAvrZsc7atoSDqqODDVF) | 3:31 |
 | 70 | [Si Nos Dejan](https://open.spotify.com/track/1mTWvb5uY8R6tU7iCLtiUo) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Las 100 Clasicas Vol\. 2](https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG) | 2:24 |
 | 71 | [El Pastor](https://open.spotify.com/track/4r7V9rY0u9Vn3y9E928Ehr) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 2:55 |
-| 72 | [Tantita Pena](https://open.spotify.com/track/35EkiksXJbSPuOdMdjZvb0) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Orígenes](https://open.spotify.com/album/7BV29ZA45jWvqMY9CuRNvl) | 3:28 |
+| 72 | [Decepciones](https://open.spotify.com/track/2LTYkSso5VAfdqzqjprOcH) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Decepciones](https://open.spotify.com/album/4Q7weZZRXGVLoKk3NeOuNT) | 3:43 |
 | 73 | [Besos Y Copas](https://open.spotify.com/track/5gXJjrNk3kwPkz8toXQTxf) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Soy Lo Prohibido](https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4) | 2:58 |
 | 74 | [Mi cariñito](https://open.spotify.com/track/4VCXBuzshKoXGqCu5C12tz) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [15 Inmortales de Pedro Infante](https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba) | 2:41 |
 | 75 | [Pa' Todo el Año](https://open.spotify.com/track/3O8QuZZrZF9aDYlmmClMO6) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Las 100 Clasicas Vol\. 2](https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG) | 3:07 |

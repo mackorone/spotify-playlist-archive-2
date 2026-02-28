@@ -4,7 +4,7 @@
 
 > Hip Hop workout hits to get your mental right and blood pumping\. Soundtrack your workout with heavy\-hitting bangers from YoungBoy Never Broke Again, Kendrick Lamar, Offset, Travis Scott, Drake and more!  High Energy Rap \| Hip Hop Workout \| Rap Bangers \| Rap Workout
 
-547 songs - 1 day 4 hr 12 min
+549 songs - 1 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [fine shyt \(feat\. BIA\)](https://open.spotify.com/track/6XpoHMRgTntAML54Ok1Y5D) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [blame the chat](https://open.spotify.com/album/1yWAdXtJTkmV4LmLBhSMbY) | 2:19 | 2025-05-02 | 2025-06-21 |
 | [First Day Out](https://open.spotify.com/track/3muBQDekYAg7jm6hDu6R0Z) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [My Moment](https://open.spotify.com/album/6074OsmUN1PdFgy0zTP4Fn) | 4:14 | 2025-08-01 |  |
 | [First Person Shooter \(feat\. J\. Cole\)](https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:07 | 2023-12-11 | 2024-05-24 |
+| [FLAMMABLE](https://open.spotify.com/track/1d5sIc2QcHgSMYvGcnsLhe) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [FLAMMABLE](https://open.spotify.com/album/5FS2IqrUicInbFJOS4bAHH) | 3:17 | 2026-02-28 |  |
 | [FLY](https://open.spotify.com/track/5CJ3DQPUmrtI2lqRjPk4K6) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [FLY](https://open.spotify.com/album/1AnhQmNUPz24OM6YpG9WZX) | 2:37 | 2024-08-09 | 2025-02-15 |
 | [Fly Sh!t](https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Fly Sh!t](https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj) | 2:15 | 2022-09-12 | 2024-05-24 |
 | [FOMDJ](https://open.spotify.com/track/7bO7a1KrtmGNDIOy2u3siZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:20 | 2025-03-28 |  |
@@ -325,6 +326,7 @@
 | [Narco](https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Narco](https://open.spotify.com/album/1lINYBzMLR4DYFverdCmPK) | 3:28 | 2022-09-08 | 2023-05-30 |
 | [NBA](https://open.spotify.com/track/2l8WGCvnyufndoyex57vYZ) | [Tre Loaded](https://open.spotify.com/artist/2IfOv1im8CNxZ6kFtob1e3) | [NBA](https://open.spotify.com/album/2ZkhpEIQ0iAr9V47Oy4u0J) | 2:07 | 2025-12-13 |  |
 | [Need It](https://open.spotify.com/track/6mtjo5kIHKlboGE84lf1FJ) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Need It](https://open.spotify.com/album/3L3WBqghAN3LeGZa5eRIBk) | 3:15 | 2024-05-23 |  |
+| [Need That](https://open.spotify.com/track/5Q4dKMJnW3TOOTuxyTTjDJ) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Need That](https://open.spotify.com/album/2zj7I1ZBHexwRudk0gXUXK) | 2:59 | 2026-02-28 |  |
 | [Never Recover \(Lil Baby & Gunna, Drake\)](https://open.spotify.com/track/6wWaVoUOzLQJHd3bWAUpdZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 3:14 | 2025-02-28 |  |
 | [Never Sleep \(with Lil Baby feat\. Travis Scott\)](https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Never Sleep](https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN) | 3:05 | 2022-08-01 | 2025-09-05 |
 | [New Cash](https://open.spotify.com/track/4NNyZ9w119c7FJLn6FoRJg) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [New Cash](https://open.spotify.com/album/25ZcUBzPwZxKVBk40kNzXu) | 2:24 | 2025-05-09 |  |

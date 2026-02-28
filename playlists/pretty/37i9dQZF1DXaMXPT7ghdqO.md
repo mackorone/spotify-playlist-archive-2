@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMXPT7ghdqO.md) - [plain]
 
 > 祝・結成5周年！6人組エンタメユニット、すとぷりの音楽をプレイリストで！ Music from Japanese entertainment group, Strawberry prince! ©STPR Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,597 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,594 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMXPT7ghdqO.md) - [plain]
 | 69 | [Day By Day](https://open.spotify.com/track/6l2v6ZZpknWRWwW5YKEuOP) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [すとろべりーらぶっ！](https://open.spotify.com/album/6JRx2reXbLsdIyupLh88Ms) | 3:41 |
 | 70 | [すとろべりーごーらんどっ](https://open.spotify.com/track/67a9ZAckiUjPxDxuiM3OHn) | [莉犬](https://open.spotify.com/artist/3of301alMiUWK1KFTLcj4L), [るぅと](https://open.spotify.com/artist/4HVrQm6wGdr7u8MpunIVIa) | [すとろべりーすたーと](https://open.spotify.com/album/2SMrkC9bhd3o19ULQcTvGA) | 4:25 |
 | 71 | [青春チョコレート \- Christmas Version](https://open.spotify.com/track/1XEATRA9P0Eb2RuBARo0P7) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 3:21 |
-| 72 | [Don’t Give Up!!](https://open.spotify.com/track/2RdqzMiVozJiZPA89SGKdE) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [すとろべりーらぶっ！](https://open.spotify.com/album/6JRx2reXbLsdIyupLh88Ms) | 3:05 |
-| 73 | [Ready Go!!](https://open.spotify.com/track/6tegIQ47QKtO7ihE5ypMyN) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 4:12 |
+| 72 | [Ready Go!!](https://open.spotify.com/track/6tegIQ47QKtO7ihE5ypMyN) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 4:12 |
+| 73 | [Don’t Give Up!!](https://open.spotify.com/track/2RdqzMiVozJiZPA89SGKdE) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [すとろべりーらぶっ！](https://open.spotify.com/album/6JRx2reXbLsdIyupLh88Ms) | 3:05 |
 | 74 | [クリスマスの魔法](https://open.spotify.com/track/2v4wmPnKa2OEXhOeWdNJV2) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [クリスマスの魔法](https://open.spotify.com/album/5MBXtk3exQrlbR0n8jsuec) | 4:04 |
-| 75 | [Flowering palettes](https://open.spotify.com/track/5g0oEwrd8gQqk2JJ167hNY) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [君と僕のストーリー](https://open.spotify.com/album/4uthqzojX4HGbgDgI18Nng) | 4:10 |
+| 75 | [Mr\. Music](https://open.spotify.com/track/2xaVV4ZhlYDE2t5mv94n9b) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Mr\. Music](https://open.spotify.com/album/4hTGKu2WW6sVI3Au3SyOum) | 4:27 |
 
 Snapshot ID: `AAAAAG0Pu6DxKv7u+/sDTRNqzpRhjtHV`

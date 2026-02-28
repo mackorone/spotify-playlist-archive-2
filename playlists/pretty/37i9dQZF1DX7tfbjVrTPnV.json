@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Shelby Lynne",
-  "num_followers": 234797,
+  "num_followers": 234826,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,26 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "The Traveling Kind",
+        "url": "https://open.spotify.com/album/2lyBmILucpN3Wxy1Cna2Ch"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        },
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        }
+      ],
+      "duration_ms": 220600,
+      "name": "The Traveling Kind",
+      "url": "https://open.spotify.com/track/5OHTqUeUeV09qhqszxS541"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Southern Family",
         "url": "https://open.spotify.com/album/2cKzkXbgcoQjaFMCPbJDdi"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 373266,
       "name": "You Are My Sunshine (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/0JqHPXj2YlV0oIbWleZjDS"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "The Traveling Kind",
-        "url": "https://open.spotify.com/album/2lyBmILucpN3Wxy1Cna2Ch"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        },
-        {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        }
-      ],
-      "duration_ms": 220600,
-      "name": "The Traveling Kind",
-      "url": "https://open.spotify.com/track/5OHTqUeUeV09qhqszxS541"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 329746,
-      "name": "Time After Time - Live from Spotify NYC",
-      "url": "https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Heartaches & Highways: The Very Best of Emmylou Harris",
         "url": "https://open.spotify.com/album/2Pd49KeT8aphj7hfBLxcuf"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 213026,
       "name": "Boulder to Birmingham - 2003 Remaster",
       "url": "https://open.spotify.com/track/3PAnJueYX2pM8Ig0xSnkbI"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 329746,
+      "name": "Time After Time - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Patty Griffin",
+        "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
+      },
+      "artists": [
+        {
+          "name": "Patty Griffin",
+          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
+        }
+      ],
+      "duration_ms": 284030,
+      "name": "Where I Come From",
+      "url": "https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/6XHqRtggc3u82NKgyIFG4o"
       },
@@ -1039,26 +1055,6 @@
       "duration_ms": 222626,
       "name": "When You're Here",
       "url": "https://open.spotify.com/track/01wGBCQrxtUnVGj6Hw8YP4"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Still Woman Enough",
-        "url": "https://open.spotify.com/album/6t1h5sp58mtWBsl0ptwfZv"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        },
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 161023,
-      "name": "One's On The Way (feat. Margo Price)",
-      "url": "https://open.spotify.com/track/4sPVvd3PfAAtB4jF07mva4"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1079,18 +1075,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Patty Griffin",
-        "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
+        "name": "Still Woman Enough",
+        "url": "https://open.spotify.com/album/6t1h5sp58mtWBsl0ptwfZv"
       },
       "artists": [
         {
-          "name": "Patty Griffin",
-          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        },
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
         }
       ],
-      "duration_ms": 284030,
-      "name": "Where I Come From",
-      "url": "https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs"
+      "duration_ms": 161023,
+      "name": "One's On The Way (feat. Margo Price)",
+      "url": "https://open.spotify.com/track/4sPVvd3PfAAtB4jF07mva4"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "I Contain Multitudes",
-        "url": "https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 276600,
-      "name": "I Contain Multitudes",
-      "url": "https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Detour",
         "url": "https://open.spotify.com/album/3mXZIWJYygHtn9XaZrvpbJ"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72"
+        "name": "I Contain Multitudes",
+        "url": "https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV"
       },
       "artists": [
         {
-          "name": "Allison Moorer",
-          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 219108,
-      "name": "The Rock and the Hill",
-      "url": "https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH"
+      "duration_ms": 276600,
+      "name": "I Contain Multitudes",
+      "url": "https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1235,6 +1219,22 @@
       "duration_ms": 298520,
       "name": "I Shall Not Be Moved (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/03HGmuDW5iVxZwbUfXagbr"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72"
+      },
+      "artists": [
+        {
+          "name": "Allison Moorer",
+          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
+        }
+      ],
+      "duration_ms": 219108,
+      "name": "The Rock and the Hill",
+      "url": "https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Electro Melodier",
-        "url": "https://open.spotify.com/album/4nqWF9eOdxiyRevgezK8QS"
-      },
-      "artists": [
-        {
-          "name": "Son Volt",
-          "url": "https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe"
-        }
-      ],
-      "duration_ms": 215570,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/3h3OQ1X6pe0Z78j37RsPF9"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "The Killing Fields",
         "url": "https://open.spotify.com/album/5cEX0d8qgLfNjNT7yyOkxS"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 263000,
       "name": "The Killing Fields",
       "url": "https://open.spotify.com/track/4JvN6gikGBJ65KjEGEnAUP"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Electro Melodier",
+        "url": "https://open.spotify.com/album/4nqWF9eOdxiyRevgezK8QS"
+      },
+      "artists": [
+        {
+          "name": "Son Volt",
+          "url": "https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe"
+        }
+      ],
+      "duration_ms": 215570,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/3h3OQ1X6pe0Z78j37RsPF9"
     },
     {
       "added_at": "2024-08-30 04:00:00",

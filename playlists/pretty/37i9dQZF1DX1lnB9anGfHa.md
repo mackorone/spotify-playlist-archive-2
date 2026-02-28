@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 
 > A journey into the unknown, dark, and experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,223 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,226 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 42 | [Evening Mood](https://open.spotify.com/track/0Pwk9jrn5MfTTFKtsntzIT) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Evening Mood](https://open.spotify.com/album/7lR0ukB3rDagjRbrnWALUu) | 6:24 |
 | 43 | [Close](https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW) | [Johan Graden](https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak), [Ellen Arkbro](https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn) | [Close](https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u) | 5:20 |
 | 44 | [Carmina XVII](https://open.spotify.com/track/1Ocx7Dulgma6cU4bwIxHmN) | [BLUEM](https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1), [Tarta Relena](https://open.spotify.com/artist/40sPlPGgON8MBAiW4CIFTP) | [Carmina XVII](https://open.spotify.com/album/0rnYVawsuOnaXb90trd2WP) | 4:00 |
-| 45 | [thieves](https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [thieves](https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7) | 2:58 |
-| 46 | [Cloudbreath](https://open.spotify.com/track/4NvNjb3LSb1Tb3GJzfFiEZ) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Lovegaze](https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U) | 3:07 |
+| 45 | [Cloudbreath](https://open.spotify.com/track/4NvNjb3LSb1Tb3GJzfFiEZ) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Lovegaze](https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U) | 3:07 |
+| 46 | [thieves](https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [thieves](https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7) | 2:58 |
 | 47 | [Marte](https://open.spotify.com/track/0O3AWOwZa4KemTGCVbelEG) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [Marte](https://open.spotify.com/album/4ytkKIoWlf8cMAznG8h83s) | 2:59 |
-| 48 | [The King](https://open.spotify.com/track/6aFYhF9iSJv4OCee099HxM) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [The King](https://open.spotify.com/album/0ouw4GHpv8UexlEOMidhwJ) | 3:44 |
-| 49 | [Going Home \- IRCAM Version](https://open.spotify.com/track/5RC9SAPnBXj57ovnvUslvl) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Twin Color, Vol\. 1](https://open.spotify.com/album/1H8oLIUoU8Fq3yGBpZWp9Y) | 7:47 |
+| 48 | [Going Home \- IRCAM Version](https://open.spotify.com/track/5RC9SAPnBXj57ovnvUslvl) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Twin Color, Vol\. 1](https://open.spotify.com/album/1H8oLIUoU8Fq3yGBpZWp9Y) | 7:47 |
+| 49 | [The King](https://open.spotify.com/track/6aFYhF9iSJv4OCee099HxM) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [The King](https://open.spotify.com/album/0ouw4GHpv8UexlEOMidhwJ) | 3:44 |
 | 50 | [Odyssey](https://open.spotify.com/track/25YnWoOmRGDR2ozZtkTjJ2) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH), [huskie](https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS) | [Odyssey](https://open.spotify.com/album/0tGlLrFgTKh7foE3Zp9dVI) | 3:33 |
 | 51 | [Spinning](https://open.spotify.com/track/0E2AcfdJAhmAZdLz85TQU3) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Spinning](https://open.spotify.com/album/5WcVopSnLSUMTFUuoeE1jA) | 6:14 |
 | 52 | [Drip In The Cave](https://open.spotify.com/track/4A5mCpJSr1mH57EEARNjYs) | [Katatonic Silentio](https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm) | [Axis Of Light](https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm) | 3:37 |
@@ -70,15 +70,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 60 | [The Fountain](https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 3:16 |
 | 61 | [ANNA](https://open.spotify.com/track/3JRRWAm5wR9pal37nIIbyc) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [Pt\. I](https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK) | 4:01 |
 | 62 | [Noche](https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6) | [Fuensanta](https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD) | [Noche](https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph) | 3:57 |
-| 63 | [Makkuroi Mizu \(まっくろい水）](https://open.spotify.com/track/0opHOZfNqPFyqhOXupj363) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2) | 6:03 |
-| 64 | [The Order of the Rain](https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [The Order of the Rain](https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK) | 5:00 |
+| 63 | [The Order of the Rain](https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [The Order of the Rain](https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK) | 5:00 |
+| 64 | [Makkuroi Mizu \(まっくろい水）](https://open.spotify.com/track/0opHOZfNqPFyqhOXupj363) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2) | 6:03 |
 | 65 | [Lonely Times](https://open.spotify.com/track/66fHmVMVKYLwNzIdwrZADI) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Lonely Times](https://open.spotify.com/album/52NC1y7dIs0EjOJf9UFc04) | 3:17 |
 | 66 | [True Luck](https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [True Luck](https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ) | 3:20 |
 | 67 | [I AM](https://open.spotify.com/track/6CYh4lWqJ0RzLiDn5BAYyu) | [Vera Di Lecce](https://open.spotify.com/artist/2J86M7FAdzuVVYL5IMJYZZ) | [I AM](https://open.spotify.com/album/6X6VBlL0Rsdl0JN9mVrK31) | 3:58 |
-| 68 | [An Ocean](https://open.spotify.com/track/6G6W3MWjKYMNpKo88KIsgf) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [An Ocean](https://open.spotify.com/album/1FEfRYCD9GvAeYUBG3ysIU) | 4:19 |
-| 69 | [Travel Lite](https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7) | [Perera Elsewhere](https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ) | [Home](https://open.spotify.com/album/1lkzte1CunMUPAewKAdgDN) | 3:57 |
-| 70 | [Deep Sea](https://open.spotify.com/track/4EqDAxDuFSsRFaxQRlpsCm) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [I Hope You Can Forgive Me](https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5) | 0:55 |
-| 71 | [Lovegaze](https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Lovegaze](https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U) | 4:51 |
+| 68 | [Lovegaze](https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Lovegaze](https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U) | 4:51 |
+| 69 | [An Ocean](https://open.spotify.com/track/6G6W3MWjKYMNpKo88KIsgf) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [An Ocean](https://open.spotify.com/album/1FEfRYCD9GvAeYUBG3ysIU) | 4:19 |
+| 70 | [Travel Lite](https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7) | [Perera Elsewhere](https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ) | [Home](https://open.spotify.com/album/1lkzte1CunMUPAewKAdgDN) | 3:57 |
+| 71 | [Deep Sea](https://open.spotify.com/track/4EqDAxDuFSsRFaxQRlpsCm) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [I Hope You Can Forgive Me](https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5) | 0:55 |
 | 72 | [CLOUD 9](https://open.spotify.com/track/2kcSEuvgfUtyy5itR0jIjB) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [CLOUD 9](https://open.spotify.com/album/36Tr8wmY3Xs9XKEluvYoG9) | 3:28 |
 | 73 | [Empty space](https://open.spotify.com/track/7hctEV1xzChyXgCzzMNpth) | [Bianca Scout](https://open.spotify.com/artist/0SViH83GsqJ0GCwnmTTlep) | [The Heart of the Anchoress](https://open.spotify.com/album/3MawvDSn4MxS2a73jPe10o) | 3:47 |
 | 74 | [I Dream](https://open.spotify.com/track/7s0hSLYHlHpHOOVe9z1MQk) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [The Lost Tapes EP](https://open.spotify.com/album/2aKK6YKpfkJ9JeLhVU0OX8) | 2:57 |

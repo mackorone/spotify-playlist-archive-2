@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\ude80 when ur love language is bpm \ud83d\ude80  Cover: Hannah Laing",
-  "num_followers": 374228,
+  "num_followers": 374421,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2026-02-26 23:00:34",
       "album": {
+        "name": "Sturm und Drang",
+        "url": "https://open.spotify.com/album/3OT6k1ifjAOirGAlpQCkNK"
+      },
+      "artists": [
+        {
+          "name": "Schrotthagen",
+          "url": "https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94"
+        }
+      ],
+      "duration_ms": 224698,
+      "name": "Pain in my Heart",
+      "url": "https://open.spotify.com/track/2cxlyCk4NZZDDaq7TDcsSs"
+    },
+    {
+      "added_at": "2026-02-26 23:00:34",
+      "album": {
         "name": "Fine Day Anthem",
         "url": "https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 193690,
       "name": "Fine Day Anthem",
       "url": "https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G"
-    },
-    {
-      "added_at": "2026-02-26 23:00:34",
-      "album": {
-        "name": "Sturm und Drang",
-        "url": "https://open.spotify.com/album/3OT6k1ifjAOirGAlpQCkNK"
-      },
-      "artists": [
-        {
-          "name": "Schrotthagen",
-          "url": "https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94"
-        }
-      ],
-      "duration_ms": 224698,
-      "name": "Pain in my Heart",
-      "url": "https://open.spotify.com/track/2cxlyCk4NZZDDaq7TDcsSs"
     },
     {
       "added_at": "2026-02-26 23:00:34",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2026-02-26 23:00:34",
       "album": {
-        "name": "Sonne Geht Auf",
-        "url": "https://open.spotify.com/album/3zh834YrAtWDuBumqFkgHR"
-      },
-      "artists": [
-        {
-          "name": "Klangkuenstler",
-          "url": "https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk"
-        },
-        {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        }
-      ],
-      "duration_ms": 126538,
-      "name": "Sonne Geht Auf",
-      "url": "https://open.spotify.com/track/6bs1myCEARQoI7oOLxqHkp"
-    },
-    {
-      "added_at": "2026-02-26 23:00:34",
-      "album": {
         "name": "Damager",
         "url": "https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 224591,
       "name": "Damager",
       "url": "https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS"
+    },
+    {
+      "added_at": "2026-02-26 23:00:34",
+      "album": {
+        "name": "Sonne Geht Auf",
+        "url": "https://open.spotify.com/album/3zh834YrAtWDuBumqFkgHR"
+      },
+      "artists": [
+        {
+          "name": "Klangkuenstler",
+          "url": "https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk"
+        },
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "duration_ms": 126538,
+      "name": "Sonne Geht Auf",
+      "url": "https://open.spotify.com/track/6bs1myCEARQoI7oOLxqHkp"
     },
     {
       "added_at": "2026-02-26 23:00:34",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2026-02-26 23:00:34",
       "album": {
-        "name": "Diamond Heart",
-        "url": "https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        },
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        }
-      ],
-      "duration_ms": 152519,
-      "name": "Diamond Heart",
-      "url": "https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO"
-    },
-    {
-      "added_at": "2026-02-26 23:00:34",
-      "album": {
         "name": "Hooked on the Bassline",
         "url": "https://open.spotify.com/album/1hZM8Y4iNpgyjGICUkuTrv"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 197600,
       "name": "Hooked on the Bassline",
       "url": "https://open.spotify.com/track/1XsCQKhLGFP714xLKHeLvZ"
+    },
+    {
+      "added_at": "2026-02-26 23:00:34",
+      "album": {
+        "name": "Diamond Heart",
+        "url": "https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "duration_ms": 152519,
+      "name": "Diamond Heart",
+      "url": "https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO"
     },
     {
       "added_at": "2026-02-26 23:00:34",
@@ -1263,8 +1263,8 @@
     {
       "added_at": "2026-02-26 23:00:34",
       "album": {
-        "name": "Can't Stop Loving You",
-        "url": "https://open.spotify.com/album/0B6h2urIr10tKp0Vzh02UX"
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/1H4LHLHLLckvd7VAgInxwP"
       },
       "artists": [
         {
@@ -1272,9 +1272,9 @@
           "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
         }
       ],
-      "duration_ms": 205106,
-      "name": "Can't Stop Loving You",
-      "url": "https://open.spotify.com/track/7D9nLNkpBM3X43NTTK6ODa"
+      "duration_ms": 204324,
+      "name": "5AM",
+      "url": "https://open.spotify.com/track/59oSJUWLxsD6gQRup9aGCY"
     },
     {
       "added_at": "2026-02-26 23:00:34",
@@ -1347,8 +1347,8 @@
     {
       "added_at": "2026-02-26 23:00:34",
       "album": {
-        "name": "5AM",
-        "url": "https://open.spotify.com/album/1H4LHLHLLckvd7VAgInxwP"
+        "name": "Can't Stop Loving You",
+        "url": "https://open.spotify.com/album/0B6h2urIr10tKp0Vzh02UX"
       },
       "artists": [
         {
@@ -1356,9 +1356,9 @@
           "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
         }
       ],
-      "duration_ms": 204324,
-      "name": "5AM",
-      "url": "https://open.spotify.com/track/59oSJUWLxsD6gQRup9aGCY"
+      "duration_ms": 205106,
+      "name": "Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/7D9nLNkpBM3X43NTTK6ODa"
     },
     {
       "added_at": "2026-02-26 23:00:34",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2026-02-26 23:00:34",
       "album": {
+        "name": "Die Tonight",
+        "url": "https://open.spotify.com/album/3dhdbBuZZrSShe1noV5TQF"
+      },
+      "artists": [
+        {
+          "name": "KUKO",
+          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
+        }
+      ],
+      "duration_ms": 227612,
+      "name": "Die Tonight",
+      "url": "https://open.spotify.com/track/4y4NBmnV3QWygYpjLNDWOw"
+    },
+    {
+      "added_at": "2026-02-26 23:00:34",
+      "album": {
         "name": "Toter Schmetterling",
         "url": "https://open.spotify.com/album/4DE6Bmt5GNbm4up60YkXe2"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 233846,
       "name": "Toter Schmetterling",
       "url": "https://open.spotify.com/track/4LsYdWDeumtYjMndQVcA94"
-    },
-    {
-      "added_at": "2026-02-26 23:00:34",
-      "album": {
-        "name": "Die Tonight",
-        "url": "https://open.spotify.com/album/3dhdbBuZZrSShe1noV5TQF"
-      },
-      "artists": [
-        {
-          "name": "KUKO",
-          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
-        }
-      ],
-      "duration_ms": 227612,
-      "name": "Die Tonight",
-      "url": "https://open.spotify.com/track/4y4NBmnV3QWygYpjLNDWOw"
     },
     {
       "added_at": "2026-02-26 23:00:34",
@@ -1875,22 +1875,18 @@
     {
       "added_at": "2026-02-26 23:00:34",
       "album": {
-        "name": "Ayi Giri / Dopamine Machine",
-        "url": "https://open.spotify.com/album/2vhwDcGYmlSy5S3lWEtGF7"
+        "name": "4 Da Ravers",
+        "url": "https://open.spotify.com/album/7rFjECStShUcE157PCp9z8"
       },
       "artists": [
         {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        },
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
         }
       ],
-      "duration_ms": 186475,
-      "name": "Ayi Giri",
-      "url": "https://open.spotify.com/track/5xqjH87yvNSUWHN8ezvlpb"
+      "duration_ms": 153290,
+      "name": "4 Da Ravers",
+      "url": "https://open.spotify.com/track/4vgOQl4ldjh5JS4cysFHH7"
     }
   ],
   "unique_name": "rave",

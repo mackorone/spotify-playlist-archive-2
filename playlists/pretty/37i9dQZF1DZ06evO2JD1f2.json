@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 13335,
+  "num_followers": 13337,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ47gAAAAACaQopt1Iv0R9xRruR2JhQ0",
+  "snapshot_id": "aZ+NAAAAAACYB9iT86ntEPjlz7/c8snG",
   "tracks": [
     {
       "added_at": null,
@@ -235,26 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "YOU HEAR ME THO",
-        "url": "https://open.spotify.com/album/5gCuDvedKVLRv6o4mbW2di"
-      },
-      "artists": [
-        {
-          "name": "Mozzy",
-          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "YOU HEAR ME THO",
-      "url": "https://open.spotify.com/track/2nGUl0oc9DGIful2EqadW2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last Ones Left",
         "url": "https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 133631,
       "name": "Switches & Dracs (with Lil Durk feat. EST Gee)",
       "url": "https://open.spotify.com/track/4c7LkE1lSNj3RR4cZo0jEi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "YOU HEAR ME THO",
+        "url": "https://open.spotify.com/album/5gCuDvedKVLRv6o4mbW2di"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "YOU HEAR ME THO",
+      "url": "https://open.spotify.com/track/2nGUl0oc9DGIful2EqadW2"
     },
     {
       "added_at": null,
@@ -779,6 +779,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Breezy",
+        "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 204533,
+      "name": "Hmhmm (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/0Tnw0FXl9CYNec5VsPN0y8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shiesty Season: Certified",
         "url": "https://open.spotify.com/album/2lTh3MtdESaC4jg5E82JEE"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 212331,
       "name": "7.62 God (Reloaded) [feat. EST Gee & BIG30]",
       "url": "https://open.spotify.com/track/3vtDYruaEKSuep0ZgfAsHO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Breezy",
-        "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 204533,
-      "name": "Hmhmm (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/0Tnw0FXl9CYNec5VsPN0y8"
     },
     {
       "added_at": null,

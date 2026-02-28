@@ -2053,6 +2053,24 @@
     },
     {
       "album": {
+        "name": "My Lover",
+        "url": "https://open.spotify.com/album/2huUEfqWfvuCa2MZKuCBO9"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196451,
+      "name": "City",
+      "url": "https://open.spotify.com/track/1nSEAxK0L8z5pJiCnhMMqX"
+    },
+    {
+      "album": {
         "name": "Purple Hearts (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3wDjzYFS8eWE3bLSpXK4gd"
       },
@@ -2284,7 +2302,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 164554,
       "name": "CRAZY",
       "url": "https://open.spotify.com/track/4gxEY3Mh5FZZDAJAKPNrCS"
@@ -2782,7 +2800,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 202192,
       "name": "Doin' Time",
       "url": "https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX"
@@ -3342,7 +3360,7 @@
       ],
       "date_added": "2021-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 243493,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13"
@@ -6752,6 +6770,24 @@
       "duration_ms": 201122,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/2kvgmr5CFhSvleQqTjB3eP"
+    },
+    {
+      "album": {
+        "name": "Lush Life (Spotify Singles)",
+        "url": "https://open.spotify.com/album/2km7Ivx2yjw61DfjgrJ5wQ"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181976,
+      "name": "Lush Life - Spotify Singles",
+      "url": "https://open.spotify.com/track/19vcdecWhQfCqf4KzEnlRj"
     },
     {
       "album": {
@@ -10212,6 +10248,28 @@
       "duration_ms": 181880,
       "name": "Starving",
       "url": "https://open.spotify.com/track/4Ce37cRWvM1vIGGynKcs22"
+    },
+    {
+      "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184761,
+      "name": "Stateside + Zara Larsson",
+      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
     },
     {
       "album": {

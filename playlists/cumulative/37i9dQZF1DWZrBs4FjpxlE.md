@@ -4,7 +4,7 @@
 
 > we got you\. Cover: Post Malone
 
-193 songs - 9 hr 30 min
+194 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [772 Love](https://open.spotify.com/track/230wNo1dnexltKYQbsW7oD) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [772 Love](https://open.spotify.com/album/1RTMwluKhKL68BpYBdiF6x) | 3:29 | 2024-02-23 |  |
 | [911](https://open.spotify.com/track/7AikJn0VCWhnKvuNgfJa8j) | [Parker Jack](https://open.spotify.com/artist/5COD136qwj9wtuea78EGbF), [Eon Zero](https://open.spotify.com/artist/7mkjJXcIIgW5F92qaNFV98), [HunnaV](https://open.spotify.com/artist/0l0gRnqPszmcf6NQKcyuWH), [Jake Luke](https://open.spotify.com/artist/7bkZ9WvOveMiDLvTIGiMyw) | [911](https://open.spotify.com/album/62nSQQw0KJZhjRrwk4AbwO) | 3:26 | 2025-11-14 |  |
 | [A PERFECT WORLD](https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A PERFECT WORLD](https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4) | 3:07 | 2025-11-21 | 2026-01-17 |
-| [About You](https://open.spotify.com/track/74WKPbLlT4hrlNBj0cmR33) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [Still Lost 2](https://open.spotify.com/album/3e91QRkfMkbIDBwH4X7n8s) | 2:53 | 2024-02-23 |  |
+| [About You](https://open.spotify.com/track/74WKPbLlT4hrlNBj0cmR33) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [Still Lost 2](https://open.spotify.com/album/3e91QRkfMkbIDBwH4X7n8s) | 2:53 | 2024-02-23 | 2026-02-28 |
 | [act iii: on god? \(she like\)](https://open.spotify.com/track/30uO152on2tYWoE99VaEL5) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act iii: on god? \(she like\)](https://open.spotify.com/album/3Tq1vvYtgk2AgJpB9f2lTb) | 2:50 | 2024-03-08 |  |
 | [after](https://open.spotify.com/track/56MC5t01ksjryLvJuuZypa) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [after](https://open.spotify.com/album/1x4fNH25BgVaDjo0jWaYD7) | 2:25 | 2025-06-27 |  |
 | [After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 4:19 | 2023-08-07 |  |
@@ -36,6 +36,7 @@
 | [Calling My Phone](https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 3:25 | 2023-08-07 |  |
 | [Candles](https://open.spotify.com/track/1wa6QQsdSE3X2GbRljGpFk) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 3:03 | 2024-02-23 | 2026-01-15 |
 | [Central Park](https://open.spotify.com/track/5CSCpV7F9ZJZqFTOYxGoAw) | [Vwillz](https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [Central Park](https://open.spotify.com/album/50VY4hGQOZYKjDNsEo7pOT) | 2:49 | 2025-03-28 | 2026-01-15 |
+| [Chasing Stars](https://open.spotify.com/track/4gys49LNMqJd3gf3Fog8Tg) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [Chasing Stars](https://open.spotify.com/album/5ii142qhDvWAfA9BG3gjTb) | 2:09 | 2026-02-27 |  |
 | [Chicago Freestyle \(feat\. Giveon\)](https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 3:40 | 2023-08-07 |  |
 | [Chosen 1](https://open.spotify.com/track/40QrLHWdsxyXLAdjJG4Rxs) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Die A Legend](https://open.spotify.com/album/26ztFK3E69j5THJQdyxC5w) | 2:07 | 2023-08-07 |  |
 | [Close Friends \(Lil Baby & Gunna\)](https://open.spotify.com/track/5nzhL67GpF9szXWg5y509A) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 3:23 | 2023-08-18 |  |

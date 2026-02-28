@@ -10416,7 +10416,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 180881,
       "name": "HASTA QUE ME ENAMORO",
       "url": "https://open.spotify.com/track/7rfYGYxsZzQAhlJy5B0IcW"
@@ -15710,7 +15710,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 267194,
       "name": "MONACO",
       "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
@@ -17264,7 +17264,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 260371,
       "name": "Nunca quise",
       "url": "https://open.spotify.com/track/0ZAJ660VP57lLK4U7NlGOy"
@@ -19600,6 +19600,24 @@
       "duration_ms": 155926,
       "name": "POR QU\u00c9 SE ENAMORAN?",
       "url": "https://open.spotify.com/track/2m1HCOwEKSEk8R6jjwXRIu"
+    },
+    {
+      "album": {
+        "name": "POR SI MA\u00d1ANA NO ESTOY",
+        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264946,
+      "name": "POR SI MA\u00d1ANA NO ESTOY",
+      "url": "https://open.spotify.com/track/595wwjQiad6e6lSTScmXvz"
     },
     {
       "album": {

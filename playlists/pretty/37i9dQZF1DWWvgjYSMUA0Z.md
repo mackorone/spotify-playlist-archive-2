@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 
 > Music to encourage emotional and physical healing through Reiki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,785 likes - 170 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,868 likes - 170 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 | 169 | [Breath of the Earth](https://open.spotify.com/track/1WZQXQmVCHzV6YnBVjGNWW) | [Harmonic Reverie](https://open.spotify.com/artist/5MQgVlRZZAASmBxSk6bbqi) | [Breath of the Earth](https://open.spotify.com/album/1P0Y9kbSG1LCk804vC3plv) | 3:06 |
 | 170 | [Night Vision](https://open.spotify.com/track/2fRzBSbWD0BPCZy8KXc5IT) | [Doosi](https://open.spotify.com/artist/6M99p2uc6AP0HCJiqnjszP) | [Night Vision](https://open.spotify.com/album/04nqCEYecpVvOmRPD8xjyJ) | 3:19 |
 
-Snapshot ID: `AAAAADqIkKM1dkyOxoZCRUmiNHLcIo+R`
+Snapshot ID: `AAAAAAQimVenzehraf1UfMlRK/BEEJq7`

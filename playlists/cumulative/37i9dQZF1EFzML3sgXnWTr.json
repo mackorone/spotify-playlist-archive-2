@@ -983,6 +983,28 @@
     },
     {
       "album": {
+        "name": "MALE NECESSARIO",
+        "url": "https://open.spotify.com/album/2bewKhlwZYgeHhXPf7xyqs"
+      },
+      "artists": [
+        {
+          "name": "Fedez",
+          "url": "https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i"
+        },
+        {
+          "name": "Marco Masini",
+          "url": "https://open.spotify.com/artist/0kcOfjhVfDMTS09s9aLmuD"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187647,
+      "name": "MALE NECESSARIO",
+      "url": "https://open.spotify.com/track/4kK4uxstY0lTdun71200Al"
+    },
+    {
+      "album": {
         "name": "sangiovanni",
         "url": "https://open.spotify.com/album/4glIx4caTnxFFuRP5tUFaz"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Gazing at pedals, soaring celestially high. Cover: Novulent",
+  "description": "Gazing at pedals, soaring celestially high. Cover: she's green",
   "name": "Shoegaze Now",
   "tracks": [
     {
@@ -222,7 +222,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 276853,
       "name": "A Lot Can Happen",
       "url": "https://open.spotify.com/track/4VILGtiBLGG0SQeiWLW3pW"
@@ -403,6 +403,24 @@
     },
     {
       "album": {
+        "name": "Alfie",
+        "url": "https://open.spotify.com/album/3Jdv5z4pzOwCgFFedBEDkX"
+      },
+      "artists": [
+        {
+          "name": "deary",
+          "url": "https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450574,
+      "name": "Alfie",
+      "url": "https://open.spotify.com/track/3pRC68ju71MW3CwcpueO2c"
+    },
+    {
+      "album": {
         "name": "everything is alive",
         "url": "https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0"
       },
@@ -522,7 +540,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 242206,
       "name": "all tied up",
       "url": "https://open.spotify.com/track/3leEuA0pLARgAtq0UZSVuO"
@@ -3324,7 +3342,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 362920,
       "name": "Daymom",
       "url": "https://open.spotify.com/track/1RTKTG7zfaiuJ4CXazi13u"
@@ -4649,6 +4667,24 @@
     },
     {
       "album": {
+        "name": "february",
+        "url": "https://open.spotify.com/album/3MFtINR7fBfoqwmZXaGYL8"
+      },
+      "artists": [
+        {
+          "name": "Ergo, Bria",
+          "url": "https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250154,
+      "name": "february",
+      "url": "https://open.spotify.com/track/5eNfGm4uIoYTRQGZHXW7NB"
+    },
+    {
+      "album": {
         "name": "feel around",
         "url": "https://open.spotify.com/album/1gYm18jjj8S4lELxoIQSNz"
       },
@@ -4878,7 +4914,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 246865,
       "name": "Floorface",
       "url": "https://open.spotify.com/track/5OQiaJR2fde5d6k3ULRCaz"
@@ -7542,7 +7578,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 182777,
       "name": "kittyriff",
       "url": "https://open.spotify.com/track/1fafMla0Vggy1EqB79OsRW"
@@ -7986,7 +8022,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 342552,
       "name": "Like I Do",
       "url": "https://open.spotify.com/track/5JLhwWXFpHeBz9I5KutZZT"
@@ -8734,6 +8770,24 @@
       "duration_ms": 310094,
       "name": "Melody Experiment",
       "url": "https://open.spotify.com/track/5k1c6yaWO1uTSY6wNTVUa6"
+    },
+    {
+      "album": {
+        "name": "mettle",
+        "url": "https://open.spotify.com/album/0QZNEGmnZrFhePN6CH6muw"
+      },
+      "artists": [
+        {
+          "name": "she's green",
+          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176853,
+      "name": "mettle",
+      "url": "https://open.spotify.com/track/09kKoIXQgBJMY3nGQN4IMB"
     },
     {
       "album": {
@@ -10075,6 +10129,24 @@
     },
     {
       "album": {
+        "name": "pieces",
+        "url": "https://open.spotify.com/album/0HtKs3fzUYPQIjA0kXsCDk"
+      },
+      "artists": [
+        {
+          "name": "thistle.",
+          "url": "https://open.spotify.com/artist/4dPHAp5JXnj8HkY71hWVj5"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202788,
+      "name": "pieces",
+      "url": "https://open.spotify.com/track/0TYYCO93FESiUlTanVH9pX"
+    },
+    {
+      "album": {
         "name": "The Knife",
         "url": "https://open.spotify.com/album/0gkvOoUvjCFHj6SmhIqT5C"
       },
@@ -10713,6 +10785,24 @@
     },
     {
       "album": {
+        "name": "Drowning in Bliss",
+        "url": "https://open.spotify.com/album/2HudLOcFGyvrK9II6Hsu21"
+      },
+      "artists": [
+        {
+          "name": "Trxy!",
+          "url": "https://open.spotify.com/artist/0kNnAYnBKQRs6boBVMRwaD"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138409,
+      "name": "Rot",
+      "url": "https://open.spotify.com/track/4arDKY3NQFRQ5eQn2xZZyr"
+    },
+    {
+      "album": {
         "name": "In Between",
         "url": "https://open.spotify.com/album/01wXcpwki6IvQo0ViDDig1"
       },
@@ -10868,7 +10958,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 232592,
       "name": "Scolder",
       "url": "https://open.spotify.com/track/6Oy7dkb0pkQjIJaglDHrny"
@@ -13035,6 +13125,24 @@
     },
     {
       "album": {
+        "name": "Too Little Too Late",
+        "url": "https://open.spotify.com/album/6uk7vnmh02W7nGsWbIDKTM"
+      },
+      "artists": [
+        {
+          "name": "Darksoft",
+          "url": "https://open.spotify.com/artist/5pD33SUgX5GQ8NvqZ6IdeE"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224411,
+      "name": "Too Little Too Late",
+      "url": "https://open.spotify.com/track/330cp0Orkp42xBTJP4e9vw"
+    },
+    {
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/1EBcd6IpMnfXVOpTOG4fO2"
       },
@@ -13086,6 +13194,24 @@
       "duration_ms": 275253,
       "name": "Too Wild",
       "url": "https://open.spotify.com/track/6JA0gPoX8td6bG9KDSvRl4"
+    },
+    {
+      "album": {
+        "name": "toothless coal",
+        "url": "https://open.spotify.com/album/4mJBkjyYz5842bI63RPXAv"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227733,
+      "name": "toothless coal",
+      "url": "https://open.spotify.com/track/4P1mMgITKDwL54lRxebGul"
     },
     {
       "album": {
@@ -13306,6 +13432,24 @@
       "duration_ms": 142080,
       "name": "Unresponsive",
       "url": "https://open.spotify.com/track/074XXIChzoiocYGqS221a4"
+    },
+    {
+      "album": {
+        "name": "unwind",
+        "url": "https://open.spotify.com/album/2C7gdbC4kgBqPOEkhtjkaA"
+      },
+      "artists": [
+        {
+          "name": "Glixen",
+          "url": "https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273493,
+      "name": "unwind",
+      "url": "https://open.spotify.com/track/4RvYafsdYCh7WEVZU2dJVt"
     },
     {
       "album": {
@@ -13976,7 +14120,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 155480,
       "name": "Willow",
       "url": "https://open.spotify.com/track/5DVPSIVpyp8D80XsgRkmjN"

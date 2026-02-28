@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 771,538 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 771,555 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 26 | [Wicked Game](https://open.spotify.com/track/6AJAzlq5ujQWCzzwpeGEZA) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Wicked Game](https://open.spotify.com/album/6h4GwAgi9ePUFoEvN7LBrx) | 2:55 |
 | 27 | [Holy Atlantis](https://open.spotify.com/track/7u2FjJcKrJOcfiR10vnxSn) | [HOLY PRIEST](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [Netherworld](https://open.spotify.com/artist/79LaPRYSRh7JAnu3r1jYPF) | [Holy Atlantis](https://open.spotify.com/album/6FbfMrCx8r37hzH0HbdFLZ) | 1:56 |
 | 28 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 |
-| 29 | [Tattoo \- Topic Remix](https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Tattoo \(Topic Remix\)](https://open.spotify.com/album/1nAJInWgfbBTHuK4osAGM9) | 3:31 |
-| 30 | [We Are The People \- southstar Remix](https://open.spotify.com/track/4atLPkcljMp14JBaigYFKC) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [We Are The People \(southstar Remix\)](https://open.spotify.com/album/6NB6yrLJKj7nlP1vUWcVPA) | 3:56 |
+| 29 | [We Are The People \- southstar Remix](https://open.spotify.com/track/4atLPkcljMp14JBaigYFKC) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [We Are The People \(southstar Remix\)](https://open.spotify.com/album/6NB6yrLJKj7nlP1vUWcVPA) | 3:56 |
+| 30 | [Tattoo \- Topic Remix](https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Tattoo \(Topic Remix\)](https://open.spotify.com/album/1nAJInWgfbBTHuK4osAGM9) | 3:31 |
 | 31 | [Ex's & Oh's](https://open.spotify.com/track/2hqYXrqzmYWhQQH9wvccdT) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Ex's & Oh's](https://open.spotify.com/album/2YFHbRlQNfc4uOfNTxqtyR) | 2:03 |
 | 32 | [Would You \(go to bed with me?\)](https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0) | [Would You \(go to bed with me?\)](https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1) | 2:00 |
 | 33 | [Unfaithful](https://open.spotify.com/track/342is2Mbd5vqTD5HADpRz8) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Unfaithful](https://open.spotify.com/album/2orEzHWfrAyY4u2SthixnV) | 3:51 |

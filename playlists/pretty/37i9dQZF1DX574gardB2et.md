@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX574gardB2et.md) - [plain]
 
 > The hits you just keep coming back to\. Cover: Djo
 
-[Spotify](https://open.spotify.com/user/spotify) - 828,858 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,812 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX574gardB2et.md) - [plain]
 | 36 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 |
 | 37 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 |
 | 38 | [Adore You](https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:27 |
-| 39 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 |
-| 40 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 |
-| 41 | [Circles](https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:35 |
+| 39 | [Circles](https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:35 |
+| 40 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 |
+| 41 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 |
 | 42 | [Ride](https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:34 |
 | 43 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:53 |
 | 44 | [God's Plan](https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:18 |

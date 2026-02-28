@@ -503,6 +503,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "ZG\u0141OWY",
+        "url": "https://open.spotify.com/album/3XIDxziYfm9hhIUVQMbS4u"
+      },
+      "artists": [
+        {
+          "name": "Krzysztof Zalewski",
+          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
+        }
+      ],
+      "duration_ms": 202858,
+      "name": "Kochaj",
+      "url": "https://open.spotify.com/track/0BIinvAbW4ka0Hb9i8DBLT"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "Kasia i B\u0142a\u017cej",
         "url": "https://open.spotify.com/album/6UH0UcgRruP71UGChmwNCi"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 240280,
       "name": "Mo\u017cna",
       "url": "https://open.spotify.com/track/77hzpC7B8W8GqLmY6XI2fi"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "ZG\u0141OWY",
-        "url": "https://open.spotify.com/album/3XIDxziYfm9hhIUVQMbS4u"
-      },
-      "artists": [
-        {
-          "name": "Krzysztof Zalewski",
-          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
-        }
-      ],
-      "duration_ms": 202858,
-      "name": "Kochaj",
-      "url": "https://open.spotify.com/track/0BIinvAbW4ka0Hb9i8DBLT"
     },
     {
       "added_at": "2025-04-06 08:27:45",

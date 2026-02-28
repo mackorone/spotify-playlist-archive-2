@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdK49S1DyoyG.md) - [plain]
 
 > Take the afternoon off.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,120 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,153 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdK49S1DyoyG.md) - [plain]
 | 36 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 |
 | 37 | [Austin \(Boots Stop Workin'\)](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 |
 | 38 | [Rockabye \(feat\. Sean Paul & Anne\-Marie\)](https://open.spotify.com/track/2hrUO4drrO63i7FYbCLBl2) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 4:11 |
-| 39 | [The Middle](https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [The Middle](https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c) | 3:04 |
-| 40 | [Be Her](https://open.spotify.com/track/05CjWFAcAlY6O9po6Qwakk) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Be Her](https://open.spotify.com/album/0xY9ccawTTfHlwdVlkDT90) | 3:37 |
+| 39 | [Be Her](https://open.spotify.com/track/05CjWFAcAlY6O9po6Qwakk) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Be Her](https://open.spotify.com/album/0xY9ccawTTfHlwdVlkDT90) | 3:37 |
+| 40 | [The Middle](https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [The Middle](https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c) | 3:04 |
 | 41 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:17 |
 | 42 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 |
 | 43 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 |

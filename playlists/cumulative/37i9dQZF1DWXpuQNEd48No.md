@@ -2,9 +2,9 @@
 
 ### [RAP 91 Haryanvi](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
 
-> Best of Haryanvi Hip\-Hop! Cover: RP Singh
+> Best of Haryanvi Hip\-Hop! Cover: Hammy Muzic
 
-551 songs - 1 day 3 hr 47 min
+552 songs - 1 day 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [Goli](https://open.spotify.com/track/5bJVRkqNWRwULSglgjLLL1) | [Ron Likhari](https://open.spotify.com/artist/3HtPdSP2gc9CkXVysXsRQS) | [Goli](https://open.spotify.com/album/32lzoDt96kxUb6Hh8cRy6m) | 2:45 | 2023-03-28 | 2023-04-04 |
 | [Goli](https://open.spotify.com/track/5Eg7UwkwmvZ6klpm26opBD) | [Sahil Dhull](https://open.spotify.com/artist/1YhZbHSLY4DwUzlennljq8), [Nonu Rana](https://open.spotify.com/artist/5apXJg5GUrFPVqRe4prxKh), [VJ Paul](https://open.spotify.com/artist/7znLEJV5gqErkQT4xd8yOn), [Khushi Verma](https://open.spotify.com/artist/2bdyNpVEnnVc1WDz79Riz4) | [Goli](https://open.spotify.com/album/1x72UEEAlwx8Idzm6buZd8) | 2:34 | 2023-07-11 | 2023-12-17 |
 | [Goli \(feat\. Khushi Verma\)](https://open.spotify.com/track/4HATNfC9i1QhyKu12K79DK) | [Sahil Dhull](https://open.spotify.com/artist/1YhZbHSLY4DwUzlennljq8), [Nonu Rana](https://open.spotify.com/artist/5apXJg5GUrFPVqRe4prxKh), [VJ Paul](https://open.spotify.com/artist/7znLEJV5gqErkQT4xd8yOn), [Khushi Verma](https://open.spotify.com/artist/6VK3DHQtrpLI82AdK9fcwY) | [Goli \(feat\. Khushi Verma\)](https://open.spotify.com/album/6uOg651hrzwS9y5I1uEz5d) | 2:34 | 2023-12-14 | 2024-04-19 |
-| [GTA Haryana](https://open.spotify.com/track/6w77RaL9sZfWNDYw1KRBwS) | [Sainibloods](https://open.spotify.com/artist/4mwrocjGf1S9J95lCfEpBV) | [GTA Haryana](https://open.spotify.com/album/4ysmzIVLPcHhvvahu7711r) | 1:54 | 2026-02-20 |  |
+| [GTA Haryana](https://open.spotify.com/track/6w77RaL9sZfWNDYw1KRBwS) | [Sainibloods](https://open.spotify.com/artist/4mwrocjGf1S9J95lCfEpBV) | [GTA Haryana](https://open.spotify.com/album/4ysmzIVLPcHhvvahu7711r) | 1:54 | 2026-02-20 | 2026-02-28 |
 | [Gudgamma Gang](https://open.spotify.com/track/4DsO9pGrWVjmTNZff6rxaj) | [Deep13Bhai](https://open.spotify.com/artist/718tfbSBs9LZeNVAAn19XD), [DJ Sunny](https://open.spotify.com/artist/1oh9WLpDYRZH9z1P81Erbu), [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM), [Shaitan](https://open.spotify.com/artist/3p486QTcZzNDrForILESQ3) | [Gudgamma Gang](https://open.spotify.com/album/2OQkbg1tj5saRVv9gCbirf) | 4:32 | 2025-04-29 | 2025-05-10 |
 | [Gurgaame](https://open.spotify.com/track/2CvVywwxrGQimsysACwtZT) | [Shiva Choudhary](https://open.spotify.com/artist/3KOSRNy74RLnTAFn0u1tmN), [Nish Tomar](https://open.spotify.com/artist/5qRVWMxyeXRDp2NsgKSwBQ) | [Gurgaame](https://open.spotify.com/album/0FD6RKMyNeU3sD57gbUzLj) | 3:15 | 2024-08-30 | 2024-09-17 |
 | [Gurjar Gang](https://open.spotify.com/track/0Suya0KkIIaqvnXtXyGMpJ) | [Jassi Kirarkot](https://open.spotify.com/artist/2MrTNaowqRRDiTj0FKHvZP), [Dc](https://open.spotify.com/artist/2FOKZV8ZRTKsJ9v90qIxoU), [Deepty](https://open.spotify.com/artist/6V0gxfUlhg6fOcQGEhcpel) | [Gurjar Gang](https://open.spotify.com/album/0LcekT7wnn60wsizvduMhe) | 2:28 | 2024-04-10 | 2025-01-11 |
@@ -554,6 +554,7 @@
 | [What Else](https://open.spotify.com/track/0mjlnTz7oroxQwKsR6iNJQ) | [Rawme Hooda](https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE), [Nishael](https://open.spotify.com/artist/3FDqg0UZYTSVzxDgREFPAX) | [What Else](https://open.spotify.com/album/2rhiX1iJcpQxcRUUPcUTRp) | 2:28 | 2025-02-14 | 2025-08-27 |
 | [Why Parta?](https://open.spotify.com/track/4IyOFPnnFlf8DIIM3lxEBG) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr) | [Why Parta?](https://open.spotify.com/album/1zzBEcLIT46Na15R8ZMeCe) | 3:05 | 2026-01-16 |  |
 | [World War](https://open.spotify.com/track/54z8rvv4UU2O4UmBbdDn0D) | [Saaaj Tomar](https://open.spotify.com/artist/3Y7nPioCRQYii5bAFVbOMl), [Chaahat](https://open.spotify.com/artist/0Rmepg7H9PGYIDlR6wG1Iy), [VJ Paul](https://open.spotify.com/artist/7znLEJV5gqErkQT4xd8yOn) | [Tem Aan Do](https://open.spotify.com/album/22JcwfsstI5WV57OI1duDw) | 2:56 | 2023-12-22 | 2025-01-11 |
+| [Yaar Chale Ni](https://open.spotify.com/track/5KMW5VJUMG1AEJlhN5Eyh6) | [Avy Nyoli](https://open.spotify.com/artist/2R5btwiJhkxWzX1nfjRWQ8) | [Yaar Chale Ni](https://open.spotify.com/album/0fozvGqOCpvPti5t59SJWc) | 2:41 | 2026-02-27 |  |
 | [Yaar Haryane Te](https://open.spotify.com/track/7M5rtXfBW7FZ9gEWkw2uDR) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Yaar Haryane Te](https://open.spotify.com/album/2T5gjowpYgITFECRvQcFOE) | 4:03 | 2023-03-28 | 2024-08-13 |
 | [Yadav Brand 4 \(feat\. Aniket Yadav\)](https://open.spotify.com/track/7219K3Erao3elqwkDox2vf) | [Sunny Yaduvanshi](https://open.spotify.com/artist/07XZWWsqwn2QshmfoYzKIU), [AK Rok](https://open.spotify.com/artist/3npIyKDl6aWfQPCIEU8RjY), [Nitesh Ujoli](https://open.spotify.com/artist/2k4fHTIWakuc1WSIV0owMZ), [Aniket Yadav](https://open.spotify.com/artist/0g6pAi5XRxoT9tjygNLbW6) | [Yadav Brand 4 \(feat\. Aniket Yadav\)](https://open.spotify.com/album/57HlcoG829tHIUPFIudfrL) | 3:03 | 2024-09-30 | 2024-11-30 |
 | [Yamraaj](https://open.spotify.com/track/3YaeW3xxbjiLITtHQIK3y0) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Yamraaj](https://open.spotify.com/album/6yXzEfYAv5KsrReCdVWgJw) | 3:29 | 2023-03-28 | 2026-02-25 |

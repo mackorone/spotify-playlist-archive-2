@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "The hottest tracks in the United States. Cover: Noah Kahan",
+  "description": "The hottest tracks in the United States. Cover: PinkPantheress + Zara Larsson",
   "name": "Hot Hits USA",
   "tracks": [
     {
@@ -1413,6 +1413,24 @@
     },
     {
       "album": {
+        "name": "Be By You",
+        "url": "https://open.spotify.com/album/5xDfjX4jwqezEfiRzFwHCs"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197655,
+      "name": "Be By You",
+      "url": "https://open.spotify.com/track/7aLndReanHBzpTGE5Am9H8"
+    },
+    {
+      "album": {
         "name": "Be Her",
         "url": "https://open.spotify.com/album/0xY9ccawTTfHlwdVlkDT90"
       },
@@ -2322,6 +2340,24 @@
       "duration_ms": 108498,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ"
+    },
+    {
+      "album": {
+        "name": "Ca$ino",
+        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260825,
+      "name": "Ca$ino",
+      "url": "https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P"
     },
     {
       "album": {
@@ -5026,6 +5062,24 @@
       "duration_ms": 157974,
       "name": "Feel It (From \u201cInvincible\u201d)",
       "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
+    },
+    {
+      "album": {
+        "name": "FEVER DREAM",
+        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153430,
+      "name": "FEVER DREAM",
+      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
     },
     {
       "album": {
@@ -11392,7 +11446,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 185788,
       "name": "Plastic Cigarette",
       "url": "https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i"
@@ -12219,6 +12273,24 @@
     },
     {
       "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204068,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
+    },
+    {
+      "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
       },
@@ -12962,7 +13034,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 177674,
       "name": "Sleepless in a Hotel Room",
       "url": "https://open.spotify.com/track/2za9t2qpWyUpIhnJcwopPt"
@@ -13586,7 +13658,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 346093,
       "name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli"
@@ -14758,7 +14830,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 177208,
       "name": "TIT FOR TAT",
       "url": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"
@@ -16026,7 +16098,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-28",
       "duration_ms": 145398,
       "name": "When Did You Get Hot?",
       "url": "https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl"
@@ -16222,6 +16294,24 @@
       "duration_ms": 267893,
       "name": "White Horse",
       "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
+    },
+    {
+      "album": {
+        "name": "White Keys",
+        "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144101,
+      "name": "White Keys",
+      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
     },
     {
       "album": {

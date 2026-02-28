@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,864 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,813 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 99 | [Scared To Start \(feat\. Joy Oladokun\)](https://open.spotify.com/track/3ruJjAt0eybFoPw0g0h7ZT) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Scared To Start \(feat\. Joy Oladokun\)](https://open.spotify.com/album/0q98KV3tR3VAgP0W1wsO64) | 2:39 |
 | 100 | [Kids](https://open.spotify.com/track/6EmYpFjAcFMF5dt2krHSSt) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Kids](https://open.spotify.com/album/3A7lw3LCydkMHdvFS7nv1K) | 2:58 |
 
-Snapshot ID: `AAAAAMMRZrhz11HYmo9uDP2pjqf0T/WC`
+Snapshot ID: `AAAAAIvn3k1t4nWbB+ONAGsaI2XVZ7Uo`

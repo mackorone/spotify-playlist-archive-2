@@ -4,7 +4,7 @@
 
 > Beautiful songs to give you that warm, fuzzy feeling.
 
-318 songs - 18 hr 30 min
+320 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [As the World Caves In](https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [As the World Caves In](https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0) | 3:38 | 2021-06-07 | 2022-04-13 |
 | [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 | 2023-08-04 |  |
 | [beat up car](https://open.spotify.com/track/7FBsCEfKsrj5hbcn5PZDyP) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [beat up car](https://open.spotify.com/album/4SOi9qG5Lv1vDedaGGQlwu) | 3:34 | 2024-04-12 | 2024-09-23 |
-| [Beautiful Thing](https://open.spotify.com/track/02lEmG1nu8rpOSecUVnbSg) | [John The Blind](https://open.spotify.com/artist/12U3blX0ilxf0tnejqPDYD) | [Indicator](https://open.spotify.com/album/6ujiOVHXvy4ki58z4SCPoE) | 3:36 | 2026-02-06 |  |
+| [Beautiful Thing](https://open.spotify.com/track/02lEmG1nu8rpOSecUVnbSg) | [John The Blind](https://open.spotify.com/artist/12U3blX0ilxf0tnejqPDYD) | [Indicator](https://open.spotify.com/album/6ujiOVHXvy4ki58z4SCPoE) | 3:36 | 2026-02-06 | 2026-02-28 |
 | [Beautiful Things \- Acoustic](https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things \(Alternate Versions\)](https://open.spotify.com/album/5KZ5cuVY1oLvHI1ecqoUJP) | 3:21 | 2024-03-01 |  |
 | [Before I Knew You](https://open.spotify.com/track/3qR4a0OJETm6ptX1coBQ2g) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 4:11 | 2024-06-07 | 2024-07-04 |
 | [Before You](https://open.spotify.com/track/523f4oSjrZx83XDtRLnsIw) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Before You](https://open.spotify.com/album/5daRbOcG3hGi60yaXm5PXM) | 3:07 | 2022-10-28 |  |
@@ -108,6 +108,7 @@
 | [Girl Crush \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Spotify Singles](https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj) | 4:03 | 2019-07-29\* | 2020-01-24 |
 | [Glad I Got You](https://open.spotify.com/track/77QHKxBniAzCLen3aKgKgw) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Subject To Change](https://open.spotify.com/album/0r94JScFZwwTDVTo4YXwpx) | 2:40 | 2021-12-10 | 2022-07-29 |
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-03-03 |  |
+| [God Was Showing Off](https://open.spotify.com/track/1sVBT215CDmVJvfy1E2OCU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:31 | 2026-02-27 |  |
 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 | 2025-06-06 |  |
 | [Golden Burning Sun](https://open.spotify.com/track/3MYz54tDi5fnEJjjCfPPlZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 4:54 | 2025-05-30 | 2026-01-15 |
 | [golden hour](https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:29 | 2022-09-30 | 2024-04-19 |
@@ -220,7 +221,7 @@
 | [Pointless](https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Pointless](https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7) | 3:48 | 2023-04-07 | 2023-05-24 |
 | [Pointless](https://open.spotify.com/track/44G9fSM6qI8zRoG6Qwn3eq) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:51 | 2023-05-14 | 2024-04-19 |
 | [Poison & Wine](https://open.spotify.com/track/3wsZYuHJrk3lssa7V7jvye) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV) | 3:39 | 2019-07-29\* | 2022-04-21 |
-| [Put A Little Love On Me](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Put A Little Love On Me](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) | 3:44 | 2020-04-23 |  |
+| [Put A Little Love On Me](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Put A Little Love On Me](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) | 3:44 | 2020-04-23 | 2026-02-28 |
 | [Quedate Conmigo](https://open.spotify.com/track/2lqHosXoRrzxh42th6Mi7a) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 2:40 | 2023-04-28 | 2023-05-15 |
 | [Quietly Yours](https://open.spotify.com/track/52xFKeXEHm2fI8jpia0oUS) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Persuasion \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/66j8eOruoDph1NWL9vAI1W) | 3:54 | 2022-07-18 | 2022-11-20 |
 | [Quietly Yours](https://open.spotify.com/track/7wRijQK8vRmGLK0RYW7Vr1) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Persuasion \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4ZIW3ma2l44g1HhiyxNagv) | 3:54 | 2022-12-05 | 2023-10-04 |
@@ -238,6 +239,7 @@
 | [Smiling All The Way Back Home](https://open.spotify.com/track/2GMnysJaMa483o0gIOinzB) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 3:02 | 2022-12-05 | 2023-04-11 |
 | [Smiling All The Way Back Home](https://open.spotify.com/track/3jeYMY8wyibEfP8gsQ3TAS) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Smiling All The Way Back Home](https://open.spotify.com/album/4MhanVyOKDTIQs8ZhQqNe8) | 3:02 | 2022-09-15 | 2022-11-24 |
 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2025-10-24 |  |
+| [So Many Ways](https://open.spotify.com/track/3YvLgFx7MCEYbwkbJwIGOW) | [Scout Willis](https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN) | [So Many Ways](https://open.spotify.com/album/2wTLPH7cnRqnhdFNVFcqFC) | 3:32 | 2026-02-27 |  |
 | [Soft Kissing Hour](https://open.spotify.com/track/0kqAay0O50MTaQtrPmV26H) | [Nat & Alex Wolff](https://open.spotify.com/artist/32fNbCzrzfsTbMHjznvm4S) | [Soft Kissing Hour](https://open.spotify.com/album/0GZiHFKeTi5lvDmGmDyHVt) | 4:02 | 2024-10-11 | 2025-02-08 |
 | [Soft Spot](https://open.spotify.com/track/5pmITEphUtjpCLmKiYIPl9) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Soft Spot](https://open.spotify.com/album/5huqwJ6gDBbuyjNOOVOTrP) | 3:24 | 2024-09-22 | 2025-07-14 |
 | [Someone Like You \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:06 | 2021-09-19 |  |

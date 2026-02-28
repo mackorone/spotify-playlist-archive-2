@@ -1,6 +1,6 @@
 {
   "description": "\u5bd2\u3044\u51ac\u306f\u5fc3\u3092\u6696\u3081\u308b\u30cf\u30fc\u30c8\u30d5\u30eb\u306a\u697d\u66f2\u3092\u304a\u4f9b\u306b\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002",
-  "num_followers": 27588,
+  "num_followers": 27586,
   "original_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -657,22 +657,6 @@
       "url": "https://open.spotify.com/track/0U8JJXyvA1ufQd1CJLTl1E"
     },
     {
-      "added_at": "2025-12-11 02:28:39",
-      "album": {
-        "name": "\u30b9\u30bf\u30fc\u30b5\u30a4\u30f3",
-        "url": "https://open.spotify.com/album/740WJc46dcHEz0eVZDwj0b"
-      },
-      "artists": [
-        {
-          "name": "Aooo",
-          "url": "https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2"
-        }
-      ],
-      "duration_ms": 266954,
-      "name": "\u30b9\u30bf\u30fc\u30b5\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/7LsVLiojCVPKSjb7n5uwMj"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "First Love (2022 Mix)",
@@ -689,20 +673,20 @@
       "url": "https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
+      "added_at": "2025-12-11 02:28:39",
       "album": {
-        "name": "\u30ec\u30a4\u30b8\u30fc\u30b5\u30f3\u30c7\u30fc",
-        "url": "https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr"
+        "name": "\u30b9\u30bf\u30fc\u30b5\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/740WJc46dcHEz0eVZDwj0b"
       },
       "artists": [
         {
-          "name": "Saucy Dog",
-          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
+          "name": "Aooo",
+          "url": "https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2"
         }
       ],
-      "duration_ms": 234323,
-      "name": "\u30b7\u30f3\u30c7\u30ec\u30e9\u30dc\u30fc\u30a4",
-      "url": "https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V"
+      "duration_ms": 266954,
+      "name": "\u30b9\u30bf\u30fc\u30b5\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/7LsVLiojCVPKSjb7n5uwMj"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -729,38 +713,6 @@
       "url": "https://open.spotify.com/track/6VsSAI7IlsTiXqKuCsuS81"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "Niche\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
-        "url": "https://open.spotify.com/album/5Txrg948JAAstSTzI0Rssa"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 295600,
-      "name": "Wherever you are",
-      "url": "https://open.spotify.com/track/7a7EIFzJLd7lcDRgThMQgm"
-    },
-    {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "\u30e6\u30b0\u30c9\u30e9\u30b7\u30eb",
-        "url": "https://open.spotify.com/album/6nAhyJYpMCLzRGeVLJrico"
-      },
-      "artists": [
-        {
-          "name": "BUMP OF CHICKEN",
-          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
-        }
-      ],
-      "duration_ms": 307013,
-      "name": "\u30b9\u30ce\u30fc\u30b9\u30de\u30a4\u30eb",
-      "url": "https://open.spotify.com/track/2l02YNthg1e2dyXrv8gacQ"
-    },
-    {
       "added_at": "2025-03-11 22:40:18",
       "album": {
         "name": "\u30db\u30c3\u30c8\u30ec\u30e2\u30f3 (feat. SKRYU) [Remix]",
@@ -783,6 +735,54 @@
       "duration_ms": 153461,
       "name": "\u30db\u30c3\u30c8\u30ec\u30e2\u30f3 - Remix",
       "url": "https://open.spotify.com/track/21Bu6arnjs8MqLqn3jcuzc"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "\u30e6\u30b0\u30c9\u30e9\u30b7\u30eb",
+        "url": "https://open.spotify.com/album/6nAhyJYpMCLzRGeVLJrico"
+      },
+      "artists": [
+        {
+          "name": "BUMP OF CHICKEN",
+          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
+        }
+      ],
+      "duration_ms": 307013,
+      "name": "\u30b9\u30ce\u30fc\u30b9\u30de\u30a4\u30eb",
+      "url": "https://open.spotify.com/track/2l02YNthg1e2dyXrv8gacQ"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "\u30ec\u30a4\u30b8\u30fc\u30b5\u30f3\u30c7\u30fc",
+        "url": "https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr"
+      },
+      "artists": [
+        {
+          "name": "Saucy Dog",
+          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
+        }
+      ],
+      "duration_ms": 234323,
+      "name": "\u30b7\u30f3\u30c7\u30ec\u30e9\u30dc\u30fc\u30a4",
+      "url": "https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "Niche\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/5Txrg948JAAstSTzI0Rssa"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 295600,
+      "name": "Wherever you are",
+      "url": "https://open.spotify.com/track/7a7EIFzJLd7lcDRgThMQgm"
     },
     {
       "added_at": "2025-12-24 00:34:11",
@@ -1233,6 +1233,22 @@
       "url": "https://open.spotify.com/track/6bM1QYzUKzZpQyAa7uO5kr"
     },
     {
+      "added_at": "2025-12-24 00:34:11",
+      "album": {
+        "name": "\u6c34\u4e2d\u306e\u30e1\u30c8\u30ed",
+        "url": "https://open.spotify.com/album/5FlD12dyWeEKRXhNIzRZpM"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "duration_ms": 261865,
+      "name": "\u6c34\u4e2d\u306e\u30e1\u30c8\u30ed",
+      "url": "https://open.spotify.com/track/2rPZULJJqeYbJAwO7PyVcX"
+    },
+    {
       "added_at": "2025-03-11 22:40:18",
       "album": {
         "name": "NIGHT DANCER (Yaffle Holiday Remix - Spotify Singles)",
@@ -1251,22 +1267,6 @@
       "duration_ms": 231638,
       "name": "NIGHT DANCER - Yaffle Holiday Remix - Spotify Singles",
       "url": "https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms"
-    },
-    {
-      "added_at": "2025-12-24 00:34:11",
-      "album": {
-        "name": "\u6c34\u4e2d\u306e\u30e1\u30c8\u30ed",
-        "url": "https://open.spotify.com/album/5FlD12dyWeEKRXhNIzRZpM"
-      },
-      "artists": [
-        {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
-        }
-      ],
-      "duration_ms": 261865,
-      "name": "\u6c34\u4e2d\u306e\u30e1\u30c8\u30ed",
-      "url": "https://open.spotify.com/track/2rPZULJJqeYbJAwO7PyVcX"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-10-24 07:45:46",
       "album": {
-        "name": "OH MY LITTLE GIRL",
-        "url": "https://open.spotify.com/album/7LEcypSjlXxIQnSSjeIiLj"
-      },
-      "artists": [
-        {
-          "name": "Yutaka Ozaki",
-          "url": "https://open.spotify.com/artist/7Mo0nFEU6E8fGI0P2u7MOl"
-        }
-      ],
-      "duration_ms": 276333,
-      "name": "OH MY LITTLE GIRL",
-      "url": "https://open.spotify.com/track/7gRwEA36B5Oq7oUlCcWLKb"
-    },
-    {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
         "name": "Junior Sweet",
         "url": "https://open.spotify.com/album/6mOQ8WkcSPoIk8w3zA6ZuG"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 232760,
       "name": "\u30df\u30eb\u30af",
       "url": "https://open.spotify.com/track/3tFY3KX0w4DwynMKepKkUU"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "OH MY LITTLE GIRL",
+        "url": "https://open.spotify.com/album/7LEcypSjlXxIQnSSjeIiLj"
+      },
+      "artists": [
+        {
+          "name": "Yutaka Ozaki",
+          "url": "https://open.spotify.com/artist/7Mo0nFEU6E8fGI0P2u7MOl"
+        }
+      ],
+      "duration_ms": 276333,
+      "name": "OH MY LITTLE GIRL",
+      "url": "https://open.spotify.com/track/7gRwEA36B5Oq7oUlCcWLKb"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1401,22 +1401,6 @@
       "url": "https://open.spotify.com/track/6em5Z6ju1rH6A4FCpcGt5z"
     },
     {
-      "added_at": "2025-12-11 02:28:39",
-      "album": {
-        "name": "AFTER TASTE",
-        "url": "https://open.spotify.com/album/1rJGujcwxdGCnfoqcMzZO9"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        }
-      ],
-      "duration_ms": 247968,
-      "name": "AFTER TASTE",
-      "url": "https://open.spotify.com/track/0nZf4KRecUg0rVC6vKi7Bo"
-    },
-    {
       "added_at": "2025-12-16 15:00:32",
       "album": {
         "name": "\u84bc\u304d\u6625",
@@ -1431,6 +1415,22 @@
       "duration_ms": 240197,
       "name": "\u84bc\u304d\u6625",
       "url": "https://open.spotify.com/track/2e9fua8pHpkK6Wso8Cq97c"
+    },
+    {
+      "added_at": "2025-12-11 02:28:39",
+      "album": {
+        "name": "AFTER TASTE",
+        "url": "https://open.spotify.com/album/1rJGujcwxdGCnfoqcMzZO9"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 247968,
+      "name": "AFTER TASTE",
+      "url": "https://open.spotify.com/track/0nZf4KRecUg0rVC6vKi7Bo"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1497,22 +1497,6 @@
       "url": "https://open.spotify.com/track/1DSxhNf742bhxJzfhDuygH"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "BIBLE",
-        "url": "https://open.spotify.com/album/0dgfL1KfvwumtF2RH4gNZL"
-      },
-      "artists": [
-        {
-          "name": "Seiko Matsuda",
-          "url": "https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h"
-        }
-      ],
-      "duration_ms": 280093,
-      "name": "\u771f\u51ac\u306e\u604b\u4eba\u305f\u3061",
-      "url": "https://open.spotify.com/track/05mB4qDx7CR2c88s0YsNs5"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "Susanna",
@@ -1531,6 +1515,22 @@
     {
       "added_at": "2025-10-23 13:55:51",
       "album": {
+        "name": "BIBLE",
+        "url": "https://open.spotify.com/album/0dgfL1KfvwumtF2RH4gNZL"
+      },
+      "artists": [
+        {
+          "name": "Seiko Matsuda",
+          "url": "https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h"
+        }
+      ],
+      "duration_ms": 280093,
+      "name": "\u771f\u51ac\u306e\u604b\u4eba\u305f\u3061",
+      "url": "https://open.spotify.com/track/05mB4qDx7CR2c88s0YsNs5"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
         "name": "\u51ac\u306e\u4e88\u611f",
         "url": "https://open.spotify.com/album/6UaY4IfXT6wnafnjSlBRhI"
       },
@@ -1543,22 +1543,6 @@
       "duration_ms": 201462,
       "name": "\u51ac\u306e\u4e88\u611f",
       "url": "https://open.spotify.com/track/7oRPjRlfRnWZcBH4j8WAAT"
-    },
-    {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "\u30cf\u30d4\u30cd\u30b9EP",
-        "url": "https://open.spotify.com/album/4JdDkmXQA7RkwMkirHCsKb"
-      },
-      "artists": [
-        {
-          "name": "AI",
-          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
-        }
-      ],
-      "duration_ms": 257746,
-      "name": "\u30cf\u30d4\u30cd\u30b9",
-      "url": "https://open.spotify.com/track/13ndjn8Ro8ytUJQJfNVYz4"
     },
     {
       "added_at": "2025-12-11 02:28:39",
@@ -1575,6 +1559,22 @@
       "duration_ms": 208600,
       "name": "Unmelting Snow",
       "url": "https://open.spotify.com/track/6TgWVZWAjihesMAPcIwFnY"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "\u30cf\u30d4\u30cd\u30b9EP",
+        "url": "https://open.spotify.com/album/4JdDkmXQA7RkwMkirHCsKb"
+      },
+      "artists": [
+        {
+          "name": "AI",
+          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
+        }
+      ],
+      "duration_ms": 257746,
+      "name": "\u30cf\u30d4\u30cd\u30b9",
+      "url": "https://open.spotify.com/track/13ndjn8Ro8ytUJQJfNVYz4"
     },
     {
       "added_at": "2025-10-24 07:45:46",

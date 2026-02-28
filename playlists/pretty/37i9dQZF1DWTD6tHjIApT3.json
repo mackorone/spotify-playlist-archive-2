@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u4e0a\u767d\u77f3\u840c\u97f3 Mone Kamishiraishi",
-  "num_followers": 135198,
+  "num_followers": 135295,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-02-24 15:09:12",
       "album": {
+        "name": "DARK GAME",
+        "url": "https://open.spotify.com/album/7KUSqIZLZE7YxCpgvUqTc5"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "duration_ms": 212959,
+      "name": "DARK GAME",
+      "url": "https://open.spotify.com/track/06yH03bQeE3qYbeD2lmNoG"
+    },
+    {
+      "added_at": "2026-02-24 15:09:12",
+      "album": {
         "name": "Happy Ever After",
         "url": "https://open.spotify.com/album/6gvgtKoAbqP46vLw46Hrlg"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 237746,
       "name": "Share",
       "url": "https://open.spotify.com/track/3PRRGO7BnuyiXu8e6EiTbR"
-    },
-    {
-      "added_at": "2026-02-24 15:09:12",
-      "album": {
-        "name": "DARK GAME",
-        "url": "https://open.spotify.com/album/7KUSqIZLZE7YxCpgvUqTc5"
-      },
-      "artists": [
-        {
-          "name": "muque",
-          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
-        }
-      ],
-      "duration_ms": 212959,
-      "name": "DARK GAME",
-      "url": "https://open.spotify.com/track/06yH03bQeE3qYbeD2lmNoG"
     },
     {
       "added_at": "2026-02-24 15:09:12",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2026-02-24 15:09:12",
       "album": {
-        "name": "\u85cd\u611b",
-        "url": "https://open.spotify.com/album/6zcov0VyTyk6KbtbfuOKqM"
+        "name": "d\u00e9j\u00e0 vu",
+        "url": "https://open.spotify.com/album/0DiLXI23N9Hjarf3MW9jhW"
       },
       "artists": [
         {
-          "name": "shimamo",
-          "url": "https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm"
+          "name": "\u6c50\u308c\u3044\u3089",
+          "url": "https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F"
         }
       ],
-      "duration_ms": 232000,
-      "name": "\u85cd\u611b",
-      "url": "https://open.spotify.com/track/5OZacGkPZnRaYwpUJFmuxg"
+      "duration_ms": 196166,
+      "name": "d\u00e9j\u00e0 vu",
+      "url": "https://open.spotify.com/track/6uqRAsd93IzpS2tLR2s9mg"
     },
     {
       "added_at": "2026-02-24 15:09:12",
@@ -1543,18 +1543,34 @@
     {
       "added_at": "2026-02-24 15:09:12",
       "album": {
-        "name": "d\u00e9j\u00e0 vu",
-        "url": "https://open.spotify.com/album/0DiLXI23N9Hjarf3MW9jhW"
+        "name": "\u85cd\u611b",
+        "url": "https://open.spotify.com/album/6zcov0VyTyk6KbtbfuOKqM"
       },
       "artists": [
         {
-          "name": "\u6c50\u308c\u3044\u3089",
-          "url": "https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F"
+          "name": "shimamo",
+          "url": "https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm"
         }
       ],
-      "duration_ms": 196166,
-      "name": "d\u00e9j\u00e0 vu",
-      "url": "https://open.spotify.com/track/6uqRAsd93IzpS2tLR2s9mg"
+      "duration_ms": 232000,
+      "name": "\u85cd\u611b",
+      "url": "https://open.spotify.com/track/5OZacGkPZnRaYwpUJFmuxg"
+    },
+    {
+      "added_at": "2026-02-24 15:09:12",
+      "album": {
+        "name": "Celeste",
+        "url": "https://open.spotify.com/album/16eVU6d7Bntt7tQa37bCXw"
+      },
+      "artists": [
+        {
+          "name": "Myuk",
+          "url": "https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Celeste",
+      "url": "https://open.spotify.com/track/2JFSvkUw0TIPBajbi84UcZ"
     },
     {
       "added_at": "2026-02-24 15:09:12",
@@ -1579,34 +1595,18 @@
     {
       "added_at": "2026-02-24 15:09:12",
       "album": {
-        "name": "Celeste",
-        "url": "https://open.spotify.com/album/16eVU6d7Bntt7tQa37bCXw"
+        "name": "\u96e8\u5bbf\u3089\u305a",
+        "url": "https://open.spotify.com/album/3YF9DNZ28oIi9TIFy32gma"
       },
       "artists": [
         {
-          "name": "Myuk",
-          "url": "https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9"
+          "name": "\u6c38\u4e95\u7433\u5b50",
+          "url": "https://open.spotify.com/artist/6lKa4ZKIvgDWO8z87DBa8r"
         }
       ],
-      "duration_ms": 245000,
-      "name": "Celeste",
-      "url": "https://open.spotify.com/track/2JFSvkUw0TIPBajbi84UcZ"
-    },
-    {
-      "added_at": "2026-02-24 15:09:12",
-      "album": {
-        "name": "\u78a7\u304f\u3001\u6df1\u3005\u3068",
-        "url": "https://open.spotify.com/album/1Loerk2PhQPBoyLWIyS2lk"
-      },
-      "artists": [
-        {
-          "name": "\u85cd\u7a7a\u3068\u6708",
-          "url": "https://open.spotify.com/artist/04gPMXDpwndachrxXFNcwg"
-        }
-      ],
-      "duration_ms": 208965,
-      "name": "\u78a7\u304f\u3001\u6df1\u3005\u3068",
-      "url": "https://open.spotify.com/track/1YwRjsmsPLYVWEr9Ij1aZv"
+      "duration_ms": 206074,
+      "name": "\u96e8\u5bbf\u3089\u305a",
+      "url": "https://open.spotify.com/track/2CdJLWQbNRYsFdlr4izar9"
     },
     {
       "added_at": "2026-02-24 15:09:12",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2026-02-24 15:09:12",
       "album": {
+        "name": "\u78a7\u304f\u3001\u6df1\u3005\u3068",
+        "url": "https://open.spotify.com/album/1Loerk2PhQPBoyLWIyS2lk"
+      },
+      "artists": [
+        {
+          "name": "\u85cd\u7a7a\u3068\u6708",
+          "url": "https://open.spotify.com/artist/04gPMXDpwndachrxXFNcwg"
+        }
+      ],
+      "duration_ms": 208965,
+      "name": "\u78a7\u304f\u3001\u6df1\u3005\u3068",
+      "url": "https://open.spotify.com/track/1YwRjsmsPLYVWEr9Ij1aZv"
+    },
+    {
+      "added_at": "2026-02-24 15:09:12",
+      "album": {
         "name": "\u56db\u9762\u695a\u6b4c",
         "url": "https://open.spotify.com/album/2rX0erWZKJR0ieN7WdWKFU"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 223521,
       "name": "\u56db\u9762\u695a\u6b4c",
       "url": "https://open.spotify.com/track/3EQ8DzEgUx2zylrlCQf3Pg"
-    },
-    {
-      "added_at": "2026-02-24 15:09:12",
-      "album": {
-        "name": "\u96e8\u5bbf\u3089\u305a",
-        "url": "https://open.spotify.com/album/3YF9DNZ28oIi9TIFy32gma"
-      },
-      "artists": [
-        {
-          "name": "\u6c38\u4e95\u7433\u5b50",
-          "url": "https://open.spotify.com/artist/6lKa4ZKIvgDWO8z87DBa8r"
-        }
-      ],
-      "duration_ms": 206074,
-      "name": "\u96e8\u5bbf\u3089\u305a",
-      "url": "https://open.spotify.com/track/2CdJLWQbNRYsFdlr4izar9"
     }
   ],
   "unique_name": "Women's Voice",

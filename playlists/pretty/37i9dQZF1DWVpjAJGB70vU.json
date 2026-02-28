@@ -1,6 +1,6 @@
 {
   "description": "The country that made country cool. Cover: George Strait",
-  "num_followers": 2157951,
+  "num_followers": 2158546,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "American Pride",
-        "url": "https://open.spotify.com/album/2Rn1tjI9H6vZp9ZlxAZKce"
-      },
-      "artists": [
-        {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
-        }
-      ],
-      "duration_ms": 168640,
-      "name": "I'm in a Hurry (And Don't Know Why)",
-      "url": "https://open.spotify.com/track/1N9GGOUf8TQqsaPDByZzEF"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Dreamin' Out Loud",
         "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 179600,
       "name": "Every Light In The House",
       "url": "https://open.spotify.com/track/2A7j0RLnzvvlUFrevBiOQf"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "American Pride",
+        "url": "https://open.spotify.com/album/2Rn1tjI9H6vZp9ZlxAZKce"
+      },
+      "artists": [
+        {
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+        }
+      ],
+      "duration_ms": 168640,
+      "name": "I'm in a Hurry (And Don't Know Why)",
+      "url": "https://open.spotify.com/track/1N9GGOUf8TQqsaPDByZzEF"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "A Thousand Memories",
-        "url": "https://open.spotify.com/album/3dD77M8Lo9Ag3rSvzTD7Kb"
+        "name": "I'm From The Country",
+        "url": "https://open.spotify.com/album/1dWB676MYae7xa9lLTe7lS"
       },
       "artists": [
         {
-          "name": "Rhett Akins",
-          "url": "https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24"
+          "name": "Tracy Byrd",
+          "url": "https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT"
         }
       ],
-      "duration_ms": 243106,
-      "name": "That Ain't My Truck",
-      "url": "https://open.spotify.com/track/7riuy1t0Kt3SRgMtFxX0FR"
+      "duration_ms": 213973,
+      "name": "I'm From The Country - Single Version",
+      "url": "https://open.spotify.com/track/5Lwc3DTWzX6JaW2x2PZezt"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Sticks and Stones",
-        "url": "https://open.spotify.com/album/0MhvdNZeIBuzjyG1jBDTbq"
+        "name": "A Thousand Memories",
+        "url": "https://open.spotify.com/album/3dD77M8Lo9Ag3rSvzTD7Kb"
       },
       "artists": [
         {
-          "name": "Tracy Lawrence",
-          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
+          "name": "Rhett Akins",
+          "url": "https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24"
         }
       ],
-      "duration_ms": 218053,
-      "name": "Sticks and Stones",
-      "url": "https://open.spotify.com/track/1l6aokk2Hw72z0mFPKgPmm"
+      "duration_ms": 243106,
+      "name": "That Ain't My Truck",
+      "url": "https://open.spotify.com/track/7riuy1t0Kt3SRgMtFxX0FR"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "I'm From The Country",
-        "url": "https://open.spotify.com/album/1dWB676MYae7xa9lLTe7lS"
+        "name": "Sticks and Stones",
+        "url": "https://open.spotify.com/album/0MhvdNZeIBuzjyG1jBDTbq"
       },
       "artists": [
         {
-          "name": "Tracy Byrd",
-          "url": "https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT"
+          "name": "Tracy Lawrence",
+          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
         }
       ],
-      "duration_ms": 213973,
-      "name": "I'm From The Country - Single Version",
-      "url": "https://open.spotify.com/track/5Lwc3DTWzX6JaW2x2PZezt"
+      "duration_ms": 218053,
+      "name": "Sticks and Stones",
+      "url": "https://open.spotify.com/track/1l6aokk2Hw72z0mFPKgPmm"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Too Cold At Home",
-        "url": "https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA"
-      },
-      "artists": [
-        {
-          "name": "Mark Chesnutt",
-          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "Brother Jukebox",
-      "url": "https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "No Doubt About It",
         "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 227640,
       "name": "No Doubt About It",
       "url": "https://open.spotify.com/track/2iehL6Q3m5NUDanDT2IKwT"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Too Cold At Home",
+        "url": "https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA"
+      },
+      "artists": [
+        {
+          "name": "Mark Chesnutt",
+          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "Brother Jukebox",
+      "url": "https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Greatest Hits: Mark Chesnutt",
-        "url": "https://open.spotify.com/album/3BHgJUyzqtmUFnUngsDVeg"
-      },
-      "artists": [
-        {
-          "name": "Mark Chesnutt",
-          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
-        }
-      ],
-      "duration_ms": 163560,
-      "name": "It's A Little Too Late - 1996 Greatest Hits Version",
-      "url": "https://open.spotify.com/track/0D5L0ZxGyhEFTqhfiXwYxw"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "High Lonesome",
         "url": "https://open.spotify.com/album/3AFctn1twGQe6rPHzPvR02"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 160360,
       "name": "Better Class of Losers",
       "url": "https://open.spotify.com/track/3EiXWMUIE0bNNo36suPrRQ"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Greatest Hits: Mark Chesnutt",
+        "url": "https://open.spotify.com/album/3BHgJUyzqtmUFnUngsDVeg"
+      },
+      "artists": [
+        {
+          "name": "Mark Chesnutt",
+          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
+        }
+      ],
+      "duration_ms": 163560,
+      "name": "It's A Little Too Late - 1996 Greatest Hits Version",
+      "url": "https://open.spotify.com/track/0D5L0ZxGyhEFTqhfiXwYxw"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "When Love Finds You",
-        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
-      },
-      "artists": [
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 259160,
-      "name": "Whenever You Come Around",
-      "url": "https://open.spotify.com/track/3PHLZ5wmtyZha1pp2405OT"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Dream Walkin'",
         "url": "https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 188240,
       "name": "I Left Something Turned On At Home",
       "url": "https://open.spotify.com/track/1CxG3QsfkmcUYlxWwvOtz5"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "When Love Finds You",
+        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
+      },
+      "artists": [
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 259160,
+      "name": "Whenever You Come Around",
+      "url": "https://open.spotify.com/track/3PHLZ5wmtyZha1pp2405OT"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Homeward Looking Angel",
-        "url": "https://open.spotify.com/album/1NNsm5qebMGEW6Fn7DazXS"
-      },
-      "artists": [
-        {
-          "name": "Pam Tillis",
-          "url": "https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6"
-        }
-      ],
-      "duration_ms": 187733,
-      "name": "Shake The Sugar Tree",
-      "url": "https://open.spotify.com/track/1UWAhFXMAebtKo904MuEhp"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "What Do I Do With Me",
         "url": "https://open.spotify.com/album/5r3XWEnJj5iL1nIE1WOwEa"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 210200,
       "name": "Down To My Last Teardrop",
       "url": "https://open.spotify.com/track/4HCugTrpZ4fBcTF4tQW1Fc"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Homeward Looking Angel",
+        "url": "https://open.spotify.com/album/1NNsm5qebMGEW6Fn7DazXS"
+      },
+      "artists": [
+        {
+          "name": "Pam Tillis",
+          "url": "https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6"
+        }
+      ],
+      "duration_ms": 187733,
+      "name": "Shake The Sugar Tree",
+      "url": "https://open.spotify.com/track/1UWAhFXMAebtKo904MuEhp"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "She'd Give Anything",
-        "url": "https://open.spotify.com/album/1X87sU2bykRDc7i7Msg2ZP"
-      },
-      "artists": [
-        {
-          "name": "Boy Howdy",
-          "url": "https://open.spotify.com/artist/2AcyhCU0sIqSh1c6BVh68G"
-        }
-      ],
-      "duration_ms": 218706,
-      "name": "She'd Give Anything",
-      "url": "https://open.spotify.com/track/6NbaCMidP5CmQSUL1fomZf"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "I Think About You",
         "url": "https://open.spotify.com/album/6ngZLbm52ebfzfIxYIybvu"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 206506,
       "name": "I Think About You",
       "url": "https://open.spotify.com/track/31zLkaElQKtj8hDigVB31n"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "She'd Give Anything",
+        "url": "https://open.spotify.com/album/1X87sU2bykRDc7i7Msg2ZP"
+      },
+      "artists": [
+        {
+          "name": "Boy Howdy",
+          "url": "https://open.spotify.com/artist/2AcyhCU0sIqSh1c6BVh68G"
+        }
+      ],
+      "duration_ms": 218706,
+      "name": "She'd Give Anything",
+      "url": "https://open.spotify.com/track/6NbaCMidP5CmQSUL1fomZf"
     }
   ],
   "unique_name": "90s Country",

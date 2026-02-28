@@ -1069,6 +1069,24 @@
     },
     {
       "album": {
+        "name": "Cosmic Wink",
+        "url": "https://open.spotify.com/album/4FBsBCEPnDE9kRfyj3GteE"
+      },
+      "artists": [
+        {
+          "name": "Juliet Ivy",
+          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172753,
+      "name": "cosmic wink",
+      "url": "https://open.spotify.com/track/0DwSDivYx1TTl5m3GsyKzK"
+    },
+    {
+      "album": {
         "name": "Crazy Woman",
         "url": "https://open.spotify.com/album/5iIMeDqPXonKGMT6lpeA7v"
       },
@@ -5098,24 +5116,6 @@
       "duration_ms": 203876,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/74lOK0Z3WKvTpK8W8Srj1d"
-    },
-    {
-      "album": {
-        "name": "Cosmic Wink",
-        "url": "https://open.spotify.com/album/4FBsBCEPnDE9kRfyj3GteE"
-      },
-      "artists": [
-        {
-          "name": "Juliet Ivy",
-          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
-        }
-      ],
-      "date_added": "2026-02-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/0DwSDivYx1TTl5m3GsyKzK"
     },
     {
       "album": {

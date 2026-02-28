@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BzILRveYHb.md) - [plain]
 
 > Easy listening pop that feels sunny wherever you are
 
-[Spotify](https://open.spotify.com/user/spotify) - 968,852 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 969,013 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BzILRveYHb.md) - [plain]
 | 24 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 |
 | 25 | [Riptide](https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:24 |
 | 26 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
-| 27 | [Wagon Wheel](https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [True Believers](https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8) | 4:58 |
-| 28 | [Semi\-Charmed Life](https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:28 |
+| 27 | [Semi\-Charmed Life](https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:28 |
+| 28 | [Wagon Wheel](https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [True Believers](https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8) | 4:58 |
 | 29 | [Mr\. Jones](https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [August And Everything After](https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ) | 4:32 |
 | 30 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 |
 | 31 | [Budapest](https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:20 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BzILRveYHb.md) - [plain]
 | 44 | [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 |
 | 45 | [I Love You Always Forever](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2) | [Now in a Minute](https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL) | 3:59 |
 | 46 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 |
-| 47 | [Sunrise](https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:20 |
-| 48 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 |
-| 49 | [I'm Alive](https://open.spotify.com/track/2FTZeRHQ4gRPViPMpWL9uX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [A New Day Has Come](https://open.spotify.com/album/1YQ5V21NSxR9ZauQ3RUbfZ) | 3:30 |
+| 47 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 |
+| 48 | [I'm Alive](https://open.spotify.com/track/2FTZeRHQ4gRPViPMpWL9uX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [A New Day Has Come](https://open.spotify.com/album/1YQ5V21NSxR9ZauQ3RUbfZ) | 3:30 |
+| 49 | [Sunrise](https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:20 |
 | 50 | [All Summer Long](https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Rock n Roll Jesus](https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI) | 4:57 |
 | 51 | [Over My Head \(Cable Car\)](https://open.spotify.com/track/1N62wozuHCvczCkY4QidpP) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 3:56 |
 | 52 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BzILRveYHb.md) - [plain]
 | 60 | [Weather With You](https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Woodface](https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h) | 3:44 |
 | 61 | [Every Morning](https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [14:59](https://open.spotify.com/album/43NNW7iDuAE8pIouzvwWWi) | 3:39 |
 | 62 | [Malibu](https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Younger Now](https://open.spotify.com/album/5xG9gJcs9ut3qDWezHUlsX) | 3:51 |
-| 63 | [You Are the Best Thing](https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip In The Grain](https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso) | 3:51 |
-| 64 | [Baby, I Love Your Way](https://open.spotify.com/track/1Rvl8qsKJurfFTyWLBI9ib) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [The Best of Big Mountain](https://open.spotify.com/album/4QHFXQLRwZx5122InHluo5) | 4:09 |
+| 63 | [Baby, I Love Your Way](https://open.spotify.com/track/1Rvl8qsKJurfFTyWLBI9ib) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [The Best of Big Mountain](https://open.spotify.com/album/4QHFXQLRwZx5122InHluo5) | 4:09 |
+| 64 | [You Are the Best Thing](https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip In The Grain](https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso) | 3:51 |
 | 65 | [Hand in My Pocket \- 2015 Remaster](https://open.spotify.com/track/2lE7oRoKssULAtbWViL385) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:42 |
 | 66 | [Amber](https://open.spotify.com/track/6Fe3Flc9SjE03pqwD6PVQl) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [From Chaos](https://open.spotify.com/album/3TRn4uDntIyJV3bnu2Mnn1) | 3:26 |
 | 67 | [You Got It](https://open.spotify.com/track/6r20M5DWYdIoCDmDViBxuz) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Mystery Girl](https://open.spotify.com/album/1UPcuqLY9PC99fQAqWgrSU) | 3:30 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BzILRveYHb.md) - [plain]
 | 70 | [Everywhere](https://open.spotify.com/track/1u0l8zWpQeMYStFkc2mLD7) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [The Spirit Room](https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi) | 3:34 |
 | 71 | [Waiting On the World to Change](https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 3:20 |
 | 72 | [Higher Ground](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 3:42 |
-| 73 | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b) | 3:15 |
-| 74 | [Closing Time](https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [20th Century Masters: The Millennium Collection: Best Of Semisonic](https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L) | 4:34 |
+| 73 | [Closing Time](https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [20th Century Masters: The Millennium Collection: Best Of Semisonic](https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L) | 4:34 |
+| 74 | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b) | 3:15 |
 | 75 | [Cover Me In Sunshine](https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Willow Sage Hart](https://open.spotify.com/artist/0gAILSEru1PKMwP0tAqNLS) | [Cover Me In Sunshine](https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI) | 2:21 |
 
 Snapshot ID: `AAAAACMBhPJuMvHC4pWF3Gr6/Sf/uy/x`
