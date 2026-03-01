@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Zúmbale Primo, & Corazón Serrano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,863 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,893 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 99 | [Tu Amor Barato](https://open.spotify.com/track/4aqFAEwxpD3UFFjZUXNIOx) | [RIVALES DE CHILE](https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g), [Incondicionales](https://open.spotify.com/artist/0INHt4DwMkY5lMtHdbdSog) | [Tu Amor Barato](https://open.spotify.com/album/1KmKiGShZ6TThgvJWKVUrA) | 3:16 |
 | 100 | [Heroica Matamoro](https://open.spotify.com/track/5QEhl8Q4J86rbiKWo3ihZ8) | [Los Super Rancheros](https://open.spotify.com/artist/4UWijF2yUrmtdhVZQ9Jie3), [Aquiles Salas](https://open.spotify.com/artist/6ndTfundAyvdOLwfhdkNLc), [German meza](https://open.spotify.com/artist/33JyGRE0aoE4VVsc3YDX7W), [Alejandro Ramirez](https://open.spotify.com/artist/0f4LDQu2Wo0MdWjH7Kcms5), [Pedro Toledo](https://open.spotify.com/artist/4W42QCkcQNUo5TePWWTVvb), [Felipe Huenteñanco](https://open.spotify.com/artist/0QBFa0YTKTkz9ltTqWYgc5) | [Que Milagro Chaparrita](https://open.spotify.com/album/2RqDzWaYPzUhV8E7EwImN8) | 2:52 |
 
-Snapshot ID: `AAAAAF38sn7EJzQg0ubyfMD2SVS2FtTg`
+Snapshot ID: `AAAAALvb6EB7ThwSTQSXyxtBf50JwCv8`

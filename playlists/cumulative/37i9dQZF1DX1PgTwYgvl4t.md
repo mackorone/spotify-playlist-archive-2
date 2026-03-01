@@ -4,7 +4,7 @@
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe?si=Eijv\-JdSTCumhjsWkOSU6Q>Folabi Nuel</a>
 
-314 songs - 1 day 13 hr 54 min
+315 songs - 1 day 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [E Seun O](https://open.spotify.com/track/51HmiQqyR8YbeOGlIrg1Fz) | [Ezekiel Okesola](https://open.spotify.com/artist/1UVWelRHKzIEOm4n6jhTcU), [Olayinka Darasimi](https://open.spotify.com/artist/7sC9n52n6KNXEjwVkbNzhK), [Magdalene Whowha](https://open.spotify.com/artist/2t0gHmJnDX2gD9NbOm0YBb) | [E Seun O](https://open.spotify.com/album/2pHqdmgXUAWwduRb0mLLtj) | 5:34 | 2024-10-18 | 2025-01-03 |
 | [Earthen Vessel](https://open.spotify.com/track/3XviL2qF4yKNNtk1c5VrsB) | [THEOPHILUS SUNDAY](https://open.spotify.com/artist/4cPMN7Bzz4cSb3KilevhaB) | [Earthen Vessel](https://open.spotify.com/album/1gwqbHQe4wSdtW950ubzDD) | 20:43 | 2025-08-22 |  |
 | [Ebak Zala Z'Ovu](https://open.spotify.com/track/6qgCLPlUn7P9TiM0ztGnQb) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8), [Grace Akakam](https://open.spotify.com/artist/6RxBaERGqQUh8s7IW6ebDV) | [Ebak Zala Z'Ovu](https://open.spotify.com/album/4QjjKMT4LUjOFgSVvyVKPc) | 5:53 | 2025-11-21 | 2025-12-19 |
+| [Ebak Zala Z'Ovu \(II\)](https://open.spotify.com/track/6jzAHmnTyz72Ha1o2b3pNi) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8), [Grace Akakam](https://open.spotify.com/artist/6RxBaERGqQUh8s7IW6ebDV) | [Ebak Zala Z'Ovu \(II\)](https://open.spotify.com/album/1slivS0rdHFiVpl6OHYihN) | 4:54 | 2026-02-28 |  |
 | [Ebenezer](https://open.spotify.com/track/7AVUn7XDkSjcKLzoHze8kQ) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Ebenezer](https://open.spotify.com/album/37iJDRDQcjPE0SMGKtNp5y) | 5:16 | 2025-08-08 | 2026-01-30 |
 | [Ebezina \- Remix](https://open.spotify.com/track/4aeJUqWP7Sa1PKd8E0ZpDV) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [PROMISE EFFIONG](https://open.spotify.com/artist/427FC2Bm4pD6DM2CBt8A90) | [Ebezina \(Remix\)](https://open.spotify.com/album/0WCYtMFPpuBcdlLzeKfztd) | 4:54 | 2024-07-12 |  |
 | [Ekwueme \(In Your Class\)](https://open.spotify.com/track/4VaTVRelsQw9HZDmg45GDs) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Ekwueme \(In Your Class\)](https://open.spotify.com/album/4aKFnqCvKz4ZDo2apxay1I) | 12:53 | 2024-08-23 | 2025-02-21 |

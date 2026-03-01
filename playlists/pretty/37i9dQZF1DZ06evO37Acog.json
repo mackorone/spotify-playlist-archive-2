@@ -1,12 +1,12 @@
 {
   "description": "This is Ramon Ayala Y Sus Bravos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 85512,
+  "num_followers": 85542,
   "original_name": "This Is Ramon Ayala Y Sus Bravos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ+NAAAAAAC6ueExUVUwSPsKAYjI0VYa",
+  "snapshot_id": "aaDegAAAAABApdWXgNPe2hidqvo6Zrv2",
   "tracks": [
     {
       "added_at": null,
@@ -171,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Piquito De Oro",
+        "url": "https://open.spotify.com/album/2HgZcYF9GN2rhgyVuBuzJu"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 129066,
+      "name": "Mi Piquito De Oro",
+      "url": "https://open.spotify.com/track/0w6iI2pCqX2beV22BqXFCz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Recu\u00e9rdame Y Ven A M\u00ed",
         "url": "https://open.spotify.com/album/1X2Hj21Lb5nOpaHlZpYLnU"
       },
@@ -203,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Piquito De Oro",
-        "url": "https://open.spotify.com/album/2HgZcYF9GN2rhgyVuBuzJu"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 129066,
-      "name": "Mi Piquito De Oro",
-      "url": "https://open.spotify.com/track/0w6iI2pCqX2beV22BqXFCz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Relampagueando - En Memoria De Cornelio Reyna 25 A\u00f1os Despu\u00e9s",
         "url": "https://open.spotify.com/album/1nD4NSry2Tv0Fz4UzjkHfy"
       },
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Mejores 15 \u00c9xitos Norte\u00f1os",
-        "url": "https://open.spotify.com/album/6G6ycCLOWgkb3AQoI28Y8c"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 210946,
-      "name": "Corrido De Chito Cano",
-      "url": "https://open.spotify.com/track/31cRUiuUfvpxAEYAXn1Qtq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Central Camionera",
         "url": "https://open.spotify.com/album/7HqZHKxJhg64tA9o6Dxveu"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 202373,
       "name": "Central Camionera",
       "url": "https://open.spotify.com/track/0N57zOUnZ9AvassdfVf3IV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Mejores 15 \u00c9xitos Norte\u00f1os",
+        "url": "https://open.spotify.com/album/6G6ycCLOWgkb3AQoI28Y8c"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 210946,
+      "name": "Corrido De Chito Cano",
+      "url": "https://open.spotify.com/track/31cRUiuUfvpxAEYAXn1Qtq"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/5xA3Oq6EdroHpAW6gBZBsJ"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 185960,
-      "name": "Vestida De Color De Rosa",
-      "url": "https://open.spotify.com/track/4hZzcu2j0XVti6j8hVV0Oz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor Vaquero",
         "url": "https://open.spotify.com/album/2ikhPXiJKnhxkMBUJGUw2I"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 224360,
       "name": "Seis Pies Abajo",
       "url": "https://open.spotify.com/track/4gMEDmaYG8JaM2Au8RzNqp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/5xA3Oq6EdroHpAW6gBZBsJ"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 185960,
+      "name": "Vestida De Color De Rosa",
+      "url": "https://open.spotify.com/track/4hZzcu2j0XVti6j8hVV0Oz"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/5xA3Oq6EdroHpAW6gBZBsJ"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 141200,
-      "name": "No Porque Seas T\u00fa",
-      "url": "https://open.spotify.com/track/0jrWPhV7jnyuIViH1XAjZs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qu\u00e9 Casualidad",
         "url": "https://open.spotify.com/album/48MmKDBvYTuFZMdzgfER9w"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 183626,
       "name": "Qu\u00e9 Casualidad",
       "url": "https://open.spotify.com/track/7lgsl2ESXS9D5rvpl2bBsc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/5xA3Oq6EdroHpAW6gBZBsJ"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 141200,
+      "name": "No Porque Seas T\u00fa",
+      "url": "https://open.spotify.com/track/0jrWPhV7jnyuIViH1XAjZs"
     },
     {
       "added_at": null,
@@ -667,38 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Rama De Mezquite",
-        "url": "https://open.spotify.com/album/4JYoO4nKwHf4uPBa6Loh07"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 223853,
-      "name": "La Rama Del Mezquite",
-      "url": "https://open.spotify.com/track/1UNqn7QxAZFGlaHqKOK1tp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pu\u00f1alada Trapera",
-        "url": "https://open.spotify.com/album/77u9ZXoUfBvTcloek014di"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 210946,
-      "name": "Dos Hojas Sin Rumbo",
-      "url": "https://open.spotify.com/track/3WTDMX2sCPaNtPIRtr4EA9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PURA MUSICA DE CANTINA",
         "url": "https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z"
       },
@@ -727,6 +695,38 @@
       "duration_ms": 215400,
       "name": "Me Puso El Dedo",
       "url": "https://open.spotify.com/track/1iCVU73Xs9tj0tZI0j4Tun"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Rama De Mezquite",
+        "url": "https://open.spotify.com/album/4JYoO4nKwHf4uPBa6Loh07"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 223853,
+      "name": "La Rama Del Mezquite",
+      "url": "https://open.spotify.com/track/1UNqn7QxAZFGlaHqKOK1tp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pu\u00f1alada Trapera",
+        "url": "https://open.spotify.com/album/77u9ZXoUfBvTcloek014di"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 210946,
+      "name": "Dos Hojas Sin Rumbo",
+      "url": "https://open.spotify.com/track/3WTDMX2sCPaNtPIRtr4EA9"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pu\u00f1alada Trapera",
-        "url": "https://open.spotify.com/album/77u9ZXoUfBvTcloek014di"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 207906,
-      "name": "No Te Vayas Sin Mi",
-      "url": "https://open.spotify.com/track/13bo0kgan04XjH5RNmXlzM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor Vaquero",
         "url": "https://open.spotify.com/album/2ikhPXiJKnhxkMBUJGUw2I"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 161560,
       "name": "Amor Vaquero",
       "url": "https://open.spotify.com/track/4mfeFlSkg2PHY3Gf5iYuGU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Suerte La M\u00eda",
+        "url": "https://open.spotify.com/album/5Hm0fRTMWfCaGqkNKWqXcs"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 185346,
+      "name": "Paulita Guti\u00e9rrez",
+      "url": "https://open.spotify.com/track/6wF7xuEiAxZVbe3AvfqI0k"
     }
   ],
   "unique_name": "This Is Ramon Ayala Y Sus Bravos Del Norte",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari con Nonpalidece & Tippy I\-Grade
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,173,688 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,173,618 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tus Ojos](https://open.spotify.com/track/6yyrsrci6u2nreFlhXSy3J) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Suena la Alarma](https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv) | 4:14 |
 | 2 | [Revolución DuB \(feat\. Tippy I\-Grade, Micah Shemaiah & Sly Dunbar\)](https://open.spotify.com/track/4jMKxILEpy6gf0SD3Xzsts) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [Tippy I\-Grade](https://open.spotify.com/artist/2PzLpvNk9o1Lm1hQ0Djlb9), [Micah Shemaiah](https://open.spotify.com/artist/3eZZJk4Ik5kBSK2dsdxX6X), [Sly Dunbar](https://open.spotify.com/artist/2Ub1N1tF1AK2NkWvw87oP8) | [Tippy I Meets Nonpalidece • Hecho en Jamaica DuB \(feat\. Tippy I\-Grade\)](https://open.spotify.com/album/53qaELz2GflEOBS2PUxcPs) | 4:40 |
-| 3 | [Cosas de Enamorao \- Salud mi Reina](https://open.spotify.com/track/5REuVEc3Mo3aIHn8QYSrxk) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Cosas de Enamorao \(Salud mi Reina\)](https://open.spotify.com/album/7lqgz12x7nS4jrGJQChDX8) | 2:39 |
+| 3 | [Cosas de Enamorao](https://open.spotify.com/track/5REuVEc3Mo3aIHn8QYSrxk) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Cosas de Enamorao](https://open.spotify.com/album/7lqgz12x7nS4jrGJQChDX8) | 2:39 |
 | 4 | [Un Desperdicio](https://open.spotify.com/track/75qepWUT3FEyPyXQMMMVZm) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 3:43 |
 | 5 | [Ay Dale](https://open.spotify.com/track/0S71WAkS1fLsGHMC4NX4zt) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Eddy Lover](https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX) | [Ay Dale](https://open.spotify.com/album/554YtsiV2xM17gb9XE84TP) | 2:26 |
 | 6 | [Confianza](https://open.spotify.com/track/4chzKVwJz3Dt0ryO3Vd9ue) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Inefable](https://open.spotify.com/album/5AcfM2EiLTrnFxQjpo7mxp) | 3:27 |

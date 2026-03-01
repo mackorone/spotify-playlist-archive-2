@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Mari Raia, Muse Maya
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,815 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,855 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 | 74 | [Jogo da Vida](https://open.spotify.com/track/6jK8DJfC4wVPyfEc7SEgfe) | [Visão Records](https://open.spotify.com/artist/51jC7VpvzmZ6gN6LHrJNy5), [A.LBeats](https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Jogo da Vida](https://open.spotify.com/album/2ZcjMx3IEjStin63pGb7u2) | 2:00 |
 | 75 | [CUSSY](https://open.spotify.com/track/7m11QHa9VLJ4aY019j1yAc) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [CUSSY](https://open.spotify.com/album/5KHCRhhOSUUNGsdBfJTfZo) | 3:00 |
 
-Snapshot ID: `AAAAAMlRKojap7ouRr3WSQ0PsxPIguZ2`
+Snapshot ID: `AAAAAJtbLx3lxoZT9mwZl6rbwmYQCBN8`

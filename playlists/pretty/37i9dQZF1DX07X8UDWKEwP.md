@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Luis Vazquez
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,395 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,473 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 14 | [El Pacto](https://open.spotify.com/track/0tUJwCdSzXzHJaarIEm5pN) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Pacto](https://open.spotify.com/album/5z91VerhktfjoCowldQlno) | 2:52 |
 | 15 | [Azúcar \(feat\. Arturo Sandoval\)](https://open.spotify.com/track/4PMkN6hqPNlvEXSKxqEUSB) | [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk), [Mimy Succar](https://open.spotify.com/artist/1hOnt6Sw9sCHTUbljZwayv), [Kenyi](https://open.spotify.com/artist/6AdFGjfHin3ow9yC5qE2TW), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Arturo Sandoval](https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ) | [Azúcar \(feat\. Arturo Sandoval\)](https://open.spotify.com/album/75WV3Y5nWfQxSa40fixkPl) | 4:47 |
 | 16 | [La Carrera](https://open.spotify.com/track/7rZ1zXk0K0gSSUInOd9Tss) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz), [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [La Carrera](https://open.spotify.com/album/6k67isnOdUxFxG45TxPR0H) | 3:40 |
-| 17 | [Por un Pendejo no se llora \- Salud mi Reina](https://open.spotify.com/track/4VPl3WGYKxQG8EVis7uLDt) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Por un Pendejo no se llora \(Salud mi Reina\)](https://open.spotify.com/album/2EruLTvow64kevFfTRKP6f) | 2:31 |
+| 17 | [Por un Pendejo no se llora](https://open.spotify.com/track/4VPl3WGYKxQG8EVis7uLDt) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Por un Pendejo no se llora](https://open.spotify.com/album/2EruLTvow64kevFfTRKP6f) | 2:31 |
 | 18 | [Palabras](https://open.spotify.com/track/05QdnHIp9ismzFt7giASsJ) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Canto Pa No Llorar](https://open.spotify.com/album/5bX6LxVm3m57Dd6pp1ASTf) | 3:02 |
 | 19 | [Titi Que Fluya](https://open.spotify.com/track/0PdYhjXIsKWxiGD6gDEE7X) | [NIA](https://open.spotify.com/artist/6pWfZsh4oMfM4lRITDxtfw) | [Titi Que Fluya](https://open.spotify.com/album/7A6HDzK4L65NSA5wNrGvk7) | 2:38 |
 | 20 | [Cuidado Conmigo \- Versión Salsa](https://open.spotify.com/track/0t422ehD7Tq6ScQEbFMw9t) | [Amy Gutiérrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Cuidado Conmigo \(Versión Salsa\)](https://open.spotify.com/album/2jYEAaXVw27hciL5bwgLZd) | 3:25 |

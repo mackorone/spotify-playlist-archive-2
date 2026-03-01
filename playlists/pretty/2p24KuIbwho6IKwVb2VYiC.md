@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance, House, Bass and EDM tracks right now, curated by <a href="https://www.instagram.com/nightvision/">NIGHTVISION</a>!  Cover: Felix Cartal
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 21,159 likes - 199 songs - 10 hr 18 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 21,158 likes - 199 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

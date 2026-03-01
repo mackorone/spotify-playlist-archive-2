@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRupnl9NVKn.md) - [plain]
 
 > Neverland, your queens are here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,829 likes - 126 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,832 likes - 126 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRupnl9NVKn.md) - [plain]
 | 50 | [Peter Pan](https://open.spotify.com/track/5mhvd7AyGwL35oKEPfrJqJ) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/2cBuoAocFtOZU31Tk6UmTt) | 3:10 |
 | 51 | [Abracadabra](https://open.spotify.com/track/3OL3ZJ6YEJpTTxFENVK3L8) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Abracadabra \[THE SEASONS: Red Carpet with Lee Hyo Ri\]](https://open.spotify.com/album/7a81w6Jk4mMnDC6NL36zao) | 3:02 |
 | 52 | [You and I](https://open.spotify.com/track/5O5VwPoOqC4lV3Ffc8eRx3) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [My Sibling's Romance \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/7xKL7L439LwQxFw9XEojEl) | 2:27 |
-| 53 | [A\-MOONO\-KE \(I’m OK\)](https://open.spotify.com/track/7bmjqFnamwu5iGT3WeKOdG) | [Jung Soyeon](https://open.spotify.com/artist/5RU7V9CQHl1CzWWIVBxPwK) | [A\-MOONO\-KE](https://open.spotify.com/album/0rRs35ls1ttKAtw0ioIAlJ) | 2:57 |
+| 53 | [A\-MOONO\-KE \(I’m OK\)](https://open.spotify.com/track/7bmjqFnamwu5iGT3WeKOdG) | [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [A\-MOONO\-KE](https://open.spotify.com/album/0rRs35ls1ttKAtw0ioIAlJ) | 2:57 |
 | 54 | [The Painted On The Moonlight](https://open.spotify.com/track/2SCOjgC1DSu7XskVTo0Wzl) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [My Dearest \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/0xxKDsA1uPsxzqIE5wTneS) | 4:04 |
 | 55 | [PINK YOUR MOMENT](https://open.spotify.com/track/0Z4g9s48umnsfDYGKj7jOT) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [PINK YOUR MOMENT](https://open.spotify.com/album/0XJXxqADyzn0ed4QbTvsBD) | 2:57 |
 | 56 | [Expectations](https://open.spotify.com/track/3szFx3SyWFpRbehaPxpyqq) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX), [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Expectations](https://open.spotify.com/album/3T6Xy6iJPpYmawK2LmJWFF) | 3:09 |

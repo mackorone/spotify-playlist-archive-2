@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Charles Ans, Yubeili, DAAZ y Caztro en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,063 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,089 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 7 | [ZUMBANDO](https://open.spotify.com/track/0eyQrJBitRm6DZfdQ7Ssnc) | [Victor Rivera Y Su Nuevo Estilo](https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4) | [ZUMBANDO](https://open.spotify.com/album/6il6zAJuUDj56CgZcmAzsm) | 3:06 |
 | 8 | [ANAMAU](https://open.spotify.com/track/5Fo4nQogolKSCjDOvLTAgm) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [ANAMAU](https://open.spotify.com/album/51kKo9n5HDNIMUYBJTdec7) | 2:36 |
 | 9 | [Estilo Libre](https://open.spotify.com/track/00BNkalZzVpxUjdL17ZCUn) | [Solitario Soldado](https://open.spotify.com/artist/1iXMM6jVHyxeES7W3xxBUG), [El sonido del javier](https://open.spotify.com/artist/4uVbjrw33FZ26BdquXi36u) | [Estilo Libre](https://open.spotify.com/album/3LRc5qMxdwWkQHSFniaohX) | 2:21 |
-| 10 | [Bisiestos](https://open.spotify.com/track/2VCuzWuTcvv7oqoArHtNdJ) | [No Rules Clan](https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv), [Ignorancia Sofisticada](https://open.spotify.com/artist/2VqPCXF4QWaR9Xto4xN4YX) | [Bisiestos](https://open.spotify.com/album/5jAfgzFP7BLCB5cv5n2bLp) | 2:32 |
+| 10 | [Bisiestos](https://open.spotify.com/track/2VCuzWuTcvv7oqoArHtNdJ) | [No Rules Clan](https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv), [Ignorancia Sofisticada](https://open.spotify.com/artist/2VqPCXF4QWaR9Xto4xN4YX), [Kid Sanchez](https://open.spotify.com/artist/1tVHSMYLGXR8dGdHbCCyLS) | [Bisiestos](https://open.spotify.com/album/5jAfgzFP7BLCB5cv5n2bLp) | 2:32 |
 | 11 | [U Know My Steelo](https://open.spotify.com/track/4LaFFvflHMxhTvpsHapnJM) | [Soul AM](https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA), [Zábaz](https://open.spotify.com/artist/6HZ9Yb4XRVEWWFqUANMtKd), [Komba](https://open.spotify.com/artist/45GCCsbyU6F1K5qMciA4tc) | [U Know My Steelo](https://open.spotify.com/album/2Lw7lSsh9KVrdCzaUazhhN) | 3:14 |
 | 12 | [Grietas de Oro](https://open.spotify.com/track/6gzYizdEjvGGx1gtVue8Ch) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Grietas de Oro](https://open.spotify.com/album/31U0PoWVEWtJCSnhEzgCH7) | 3:17 |
 | 13 | [Serpientes y Escaleras](https://open.spotify.com/track/3ezcLP3TCSGkqrmNSWEfKA) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Serpientes y Escaleras](https://open.spotify.com/album/0flCe6BwfmaE5uUlbIpcc4) | 4:36 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Bausa, Ingrid Vårvik, Arif, Makosir og mange flere!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,308 likes - 111 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,306 likes - 111 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

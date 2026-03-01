@@ -793,6 +793,24 @@
     },
     {
       "album": {
+        "name": "All The Time",
+        "url": "https://open.spotify.com/album/5kEJxEoZytKnaoQpr76M73"
+      },
+      "artists": [
+        {
+          "name": "Tathan",
+          "url": "https://open.spotify.com/artist/02MtYbPPmiILqyRJ8ftJfV"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154311,
+      "name": "All The Time",
+      "url": "https://open.spotify.com/track/7E2MmQgEzRorBQZYx853RD"
+    },
+    {
+      "album": {
         "name": "Alleine im Partyraum",
         "url": "https://open.spotify.com/album/7jFYriN5oyX3gwZZuJpEDm"
       },

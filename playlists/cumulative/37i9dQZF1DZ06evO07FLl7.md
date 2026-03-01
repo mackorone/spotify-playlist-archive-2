@@ -4,7 +4,7 @@
 
 > This is Tassia Reis\. The essential tracks, all in one playlist.
 
-130 songs - 8 hr 1 min
+131 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Agora Que Eu Quero Ver](https://open.spotify.com/track/1RShRN08PjU20gFysZQDDX) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Douglas Sã](https://open.spotify.com/artist/02UytBDvw7HUUzB28LWydz) | [Tássia Reis](https://open.spotify.com/album/2ERj7DCOq6FAH2Y7qad5hN) | 3:05 | 2023-09-18 | 2025-11-17 |
 | [Ansiejazz](https://open.spotify.com/track/0tZVFCC60EASRBcdv9OTjY) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK) | 2:59 | 2023-09-18 | 2025-11-22 |
 | [Ansiejazz](https://open.spotify.com/track/4efbE6REaSPBd9sbfj61Lg) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/7qpdsnBS3Kfbat72sb8Gab) | 2:59 | 2025-11-22 |  |
+| [Aquele Tipo de Som](https://open.spotify.com/track/1HWfIMdhK7JYrZa6iW5mUd) | [Pinotti](https://open.spotify.com/artist/1IHCpTo50InaIDRqX54B1x), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU) | [Aquele Tipo de Som](https://open.spotify.com/album/6jFBRhPwlU8UgXS53rHaqV) | 2:35 | 2026-03-01 |  |
 | [Asas](https://open.spotify.com/track/0fWEScGfHtclwYwG8oKpYv) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Tássia Reis](https://open.spotify.com/album/1s2L8nGABE9LRMSpC4R7F9) | 3:22 | 2025-11-19 |  |
 | [Asas](https://open.spotify.com/track/33gruk3ZuMKP1t2gHwgmBa) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Tássia Reis](https://open.spotify.com/album/2ERj7DCOq6FAH2Y7qad5hN) | 3:22 | 2024-11-23 | 2025-11-19 |
 | [Asfalto Selvagem](https://open.spotify.com/track/3cCQPtsEBDGVhupAzHYx48) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Asfalto Selvagem](https://open.spotify.com/album/3l7cmXYZgUZz7DH3o1YtD8) | 2:55 | 2024-08-18 | 2025-11-17 |
@@ -51,7 +52,7 @@
 | [Eu + Vc](https://open.spotify.com/track/1MbZJ1ZvcP15HcmZDfWqf7) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Próspera](https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK) | 4:52 | 2023-09-18 | 2025-11-23 |
 | [Eu + Vc](https://open.spotify.com/track/21RBxe8bUcOetq6kvIiOQv) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Próspera](https://open.spotify.com/album/7qpdsnBS3Kfbat72sb8Gab) | 4:52 | 2025-11-23 |  |
 | [Felicidade](https://open.spotify.com/track/7LiJJnMly6vHxEerTlkoNW) | [Engrenagem Urbana](https://open.spotify.com/artist/57NLP8USQoe1mMRTiMOVjk), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Mil Histórias de uma Cidade, para Mil e um Corações](https://open.spotify.com/album/1Tjq1uNW0ffKrTxLqXAV94) | 3:55 | 2024-11-23 | 2024-12-02 |
-| [Flor Laranja](https://open.spotify.com/track/4Oct09kM0spNmbowmgmjE4) | [A.X.L.](https://open.spotify.com/artist/0do07emvR7qjROBp1jl7Yt), [Skeeter](https://open.spotify.com/artist/7g7jKmP3nb2Ys5jdoZpdsw), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Quando É Preciso Voltar](https://open.spotify.com/album/0nLvIHbTPxE9aPmcP45T6D) | 3:55 | 2024-02-05 |  |
+| [Flor Laranja](https://open.spotify.com/track/4Oct09kM0spNmbowmgmjE4) | [A.X.L.](https://open.spotify.com/artist/0do07emvR7qjROBp1jl7Yt), [Skeeter](https://open.spotify.com/artist/7g7jKmP3nb2Ys5jdoZpdsw), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Quando É Preciso Voltar](https://open.spotify.com/album/0nLvIHbTPxE9aPmcP45T6D) | 3:55 | 2024-02-05 | 2026-03-01 |
 | [Flor Laranja](https://open.spotify.com/track/6UHq4ElwVLCiLomYupUmt9) | [A.X.L.](https://open.spotify.com/artist/0do07emvR7qjROBp1jl7Yt), [Skeeter](https://open.spotify.com/artist/7g7jKmP3nb2Ys5jdoZpdsw), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Quando É Preciso Voltar](https://open.spotify.com/album/2A0EOT2JGSudDtoqE6hFXJ) | 3:55 | 2023-11-10 | 2023-12-14 |
 | [Girl from Bahia](https://open.spotify.com/track/5iLPuAregh2acj2I2rrWOF) | [Jevon](https://open.spotify.com/artist/1cwNKCIuq12wLqAAsC1Zyi), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Girl from Bahia](https://open.spotify.com/album/3NRwcRgNBM5gtT6LM9BAON) | 3:22 | 2023-09-18 | 2025-12-19 |
 | [Good Trip](https://open.spotify.com/track/1CBxl9O6txc3y2SQGtFXjY) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Tiago Mac](https://open.spotify.com/artist/0gg2eO2WNyElUAGWD1n9bf) | [Tássia Reis](https://open.spotify.com/album/1s2L8nGABE9LRMSpC4R7F9) | 4:00 | 2025-11-22 |  |

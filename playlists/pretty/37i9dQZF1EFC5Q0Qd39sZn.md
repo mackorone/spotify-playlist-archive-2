@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,904 likes - 581 songs - 1 day 16 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,908 likes - 581 songs - 1 day 16 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -198,8 +198,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 188 | [Finish Line](https://open.spotify.com/track/0Vua3a4EZaEiGTfbUGImXf) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Finish Line](https://open.spotify.com/album/3i1RQtutPgn8oR8fZtZgK9) | 3:36 |
 | 189 | [Cuando Seas Mia \- Balada Version](https://open.spotify.com/track/0YOnVfmFFSQ1jcIMD0Oszw) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Purest of Pain](https://open.spotify.com/album/27K2So5UHlOBnCPzrPDN2j) | 3:35 |
 | 190 | [No Living Without Loving You](https://open.spotify.com/track/5lRALu97xWoZws3ZUl84wx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:22 |
-| 191 | [Nasty One Remix \(feat\. Stefflon Don, Kranium, HoodCelebrityy\)](https://open.spotify.com/track/2RuX6HJFN85balcuYh981T) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [HoodCelebrityy](https://open.spotify.com/artist/3PKyxkWOWIJ2tUnUTTeFlk), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Nasty One \(Remix\) \[feat\. Stefflon Don, Kranium, HoodCelebrityy\]](https://open.spotify.com/album/4KbGqjjyT4K3wInlhAZS3X) | 4:00 |
-| 192 | [Emotional Fire \- Extended Remastered](https://open.spotify.com/track/45piW5hgUmj0wQJRxmzgFM) | [Denise](https://open.spotify.com/artist/4IhfYc5fG1itC02swMmUpo) | [Eurobeat Masters \- Remastered Vol.1](https://open.spotify.com/album/2c0ZSguh39wwivjEpim3gV) | 5:36 |
+| 191 | [Emotional Fire \- Extended Remastered](https://open.spotify.com/track/45piW5hgUmj0wQJRxmzgFM) | [Denise](https://open.spotify.com/artist/4IhfYc5fG1itC02swMmUpo) | [Eurobeat Masters \- Remastered Vol.1](https://open.spotify.com/album/2c0ZSguh39wwivjEpim3gV) | 5:36 |
+| 192 | [Nasty One Remix \(feat\. Stefflon Don, Kranium, HoodCelebrityy\)](https://open.spotify.com/track/2RuX6HJFN85balcuYh981T) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [HoodCelebrityy](https://open.spotify.com/artist/3PKyxkWOWIJ2tUnUTTeFlk), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Nasty One \(Remix\) \[feat\. Stefflon Don, Kranium, HoodCelebrityy\]](https://open.spotify.com/album/4KbGqjjyT4K3wInlhAZS3X) | 4:00 |
 | 193 | [I Hear Your Voice](https://open.spotify.com/track/5kcdhV63UOtO2CCj59olOC) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Time](https://open.spotify.com/album/4o5S5EwZLGCIvWOaWonhkA) | 4:00 |
 | 194 | [Need to Be Next to You](https://open.spotify.com/track/4WuojYI1z4yKqDQu2NzbTu) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/1hkmdmciMUjVLInxxEhHCY) | 4:29 |
 | 195 | [Take It to Heart](https://open.spotify.com/track/2mdNWsx6evoVi9IhD6P9uL) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Take It to Heart](https://open.spotify.com/album/26DyP2oh3gRsq5eNR1gjtV) | 5:57 |
@@ -540,8 +540,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 530 | [A Hundred Oceans](https://open.spotify.com/track/3xitSIBFxesl3u1dXxWRkw) | [Innosense](https://open.spotify.com/artist/2OaYYIqUbv6g6Q81vptEmW) | [So Together](https://open.spotify.com/album/4jbmIiX2zGMDOqYpVNsS5J) | 4:08 |
 | 531 | [Same Song](https://open.spotify.com/track/5STQsgq6o82sqKYfymtqe7) | [LaKisha Jones](https://open.spotify.com/artist/3lmeQnSYHi5KoLctIwMQXv) | [So Glad I'm Me \(Deluxe Version\)](https://open.spotify.com/album/2axCyrRo1yZC6fQDNmd8rG) | 4:09 |
 | 532 | [I'm By Your Side](https://open.spotify.com/track/0gZPEf6zaswcXJP7uqC1BE) | [Samantha Cole](https://open.spotify.com/artist/4VnMJXQpix0onjop2VNFvX) | [Samantha Cole](https://open.spotify.com/album/1nLWlryXPg4E3Yqr89yW5V) | 4:57 |
-| 533 | [Catch My Breath](https://open.spotify.com/track/2OtFe3xMV2Pa9XEM5LhYJh) | [Due Voci](https://open.spotify.com/artist/5oBk7hgCa5NzzvprFSPwqO) | [Due Voci](https://open.spotify.com/album/0Wj7tuC2Xi0e612FxmBdVz) | 4:38 |
-| 534 | [Heart Be Strong](https://open.spotify.com/track/4UFfw65GAwIjlgp1wkZdGh) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb) | [Illegal Romeo Part 1](https://open.spotify.com/album/4UqAWY93I8TFVfB3wNEnhY) | 4:16 |
+| 533 | [Heart Be Strong](https://open.spotify.com/track/4UFfw65GAwIjlgp1wkZdGh) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb) | [Illegal Romeo Part 1](https://open.spotify.com/album/4UqAWY93I8TFVfB3wNEnhY) | 4:16 |
+| 534 | [Catch My Breath](https://open.spotify.com/track/2OtFe3xMV2Pa9XEM5LhYJh) | [Due Voci](https://open.spotify.com/artist/5oBk7hgCa5NzzvprFSPwqO) | [Due Voci](https://open.spotify.com/album/0Wj7tuC2Xi0e612FxmBdVz) | 4:38 |
 | 535 | [Care Too Much](https://open.spotify.com/track/6cXFkHT00hrPD3dVfPCW9g) | [Jamali](https://open.spotify.com/artist/4dyN2fwkUd8Y0qjKH7ztK0) | [3rd Base](https://open.spotify.com/album/1BF6nTLmsnDY3gIdnMjAwz) | 4:08 |
 | 536 | [Break](https://open.spotify.com/track/4s5LJh2Rkmi66GWeZm0cOx) | [Due Voci](https://open.spotify.com/artist/5oBk7hgCa5NzzvprFSPwqO) | [Due Voci](https://open.spotify.com/album/0Wj7tuC2Xi0e612FxmBdVz) | 4:52 |
 | 537 | [I Know What's Good for You](https://open.spotify.com/track/6v0kYD1OtpqAxRNuQQgjS0) | [Amy Keys](https://open.spotify.com/artist/2K1iGjjn5wjpOHhpeU9Cy0) | [Lover's Intuition](https://open.spotify.com/album/5ZmIfeKLj8AE45i0JELGog) | 5:02 |
@@ -590,4 +590,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 580 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 581 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AcK0jAAAAADTmyMosJXu6kNakt+8CQoM`
+Snapshot ID: `AcK6aAAAAABNzyFLU78/L54DVTx4swnl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Romanie
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,521 likes - 99 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,522 likes - 99 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 98 | [YOU WANTED YOU BACK](https://open.spotify.com/track/7j21glYanSStULyf6v2tL5) | [ixaras](https://open.spotify.com/artist/7pEbXPH6n4tq1E5uMon4PJ) | [WHAT IS AND WHAT ISN'T](https://open.spotify.com/album/07DEkEFRGyvcfWT8eXg5YQ) | 3:17 |
 | 99 | [A4](https://open.spotify.com/track/7iD5D3ocuy6ndBUW06eLzJ) | [Purée](https://open.spotify.com/artist/4wBguEl200jafxtVjWKPwa) | [What Happens Now?](https://open.spotify.com/album/6txGpx5Oa73ScOpIrZcoLb) | 3:23 |
 
-Snapshot ID: `AAAAAHL9VWB8UezlRkvsXDbOj9KHOna0`
+Snapshot ID: `AAAAAJtmJnkP47ihzpuX5cslBGjYx2F8`

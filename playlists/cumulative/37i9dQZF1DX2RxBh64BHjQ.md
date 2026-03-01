@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:6hpztnbgmaneFFGGnEOVjd">sosocamo</a>
 
-2,735 songs - 5 day 0 hr 41 min
+2,736 songs - 5 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1028,7 +1028,7 @@
 | [Han Solo](https://open.spotify.com/track/7Fl6CFzsNVjnxYBAG2YfD7) | [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw) | [Han Solo](https://open.spotify.com/album/4SAWZ46pT9XJnQYtUW9UdS) | 2:22 | 2023-12-15 | 2024-02-17 |
 | [HANDS UP!](https://open.spotify.com/track/4yyrqAE18WygbNJhVW91g7) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [HANDS UP!](https://open.spotify.com/album/0sewRJupZ1zkzYo6h3X388) | 1:29 | 2023-07-07 | 2023-07-29 |
 | [Handsome Hustler](https://open.spotify.com/track/3J7pYoOjDF2x8YDTFaezxm) | [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG) | [CASH RULES](https://open.spotify.com/album/2aiukIV0Qlw8RI9yCVhwJq) | 2:40 | 2025-04-25 | 2025-06-18 |
-| [Handsome, Young & Paid](https://open.spotify.com/track/1UF1zg8o6ECx6ZGPFe0oh3) | [RNB.FOEMOB](https://open.spotify.com/artist/3YrSdCCaG11xDOpXYJdGl3) | [Handsome, Young & Paid](https://open.spotify.com/album/4o2LIPQQLxIW1hu6H2gFYJ) | 2:24 | 2026-02-20 |  |
+| [Handsome, Young & Paid](https://open.spotify.com/track/1UF1zg8o6ECx6ZGPFe0oh3) | [RNB.FOEMOB](https://open.spotify.com/artist/3YrSdCCaG11xDOpXYJdGl3) | [Handsome, Young & Paid](https://open.spotify.com/album/4o2LIPQQLxIW1hu6H2gFYJ) | 2:24 | 2026-02-20 | 2026-03-01 |
 | [Handz Up](https://open.spotify.com/track/2A2ShorxYJRX2sLzF7cpUT) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Handz Up](https://open.spotify.com/album/5qWXDadboFIkEnnoGRgsZJ) | 3:05 | 2024-06-28 | 2024-07-13 |
 | [Hannah Montana \(with NLE Choppa & DaBaby\)](https://open.spotify.com/track/11KgBg77VfJjv0oifmE7M7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Y2K! : I’m Just A Girl \(Deluxe\)](https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw) | 2:17 | 2024-12-27 | 2025-08-09 |
 | [Hard ES](https://open.spotify.com/track/0q98r6GiZsMR6rpgEM5Gux) | [Bri3](https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H) | [Hard ES](https://open.spotify.com/album/17iLQLJuFl38h3ql5RMO2Z) | 2:24 | 2026-02-13 |  |
@@ -2326,6 +2326,7 @@
 | [Tada \(feat\. Blxst\)](https://open.spotify.com/track/6OG1hV6boTYr0GGU16NNnz) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Tada \(feat\. Blxst\)](https://open.spotify.com/album/19tfV4P34rmSvKoc6abGJw) | 3:06 | 2023-02-17 | 2023-04-15 |
 | [Tag Me In](https://open.spotify.com/track/5QQ1zEhxJ4k2zdkcHV2hoT) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Tag Me In](https://open.spotify.com/album/6Xxmm6M26fdlewgIBxRWVd) | 2:53 | 2023-12-08 | 2024-02-17 |
 | [Take Her Down](https://open.spotify.com/track/6VKn4n4FoI0Ktx7M6eIh99) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [Take Her Down](https://open.spotify.com/album/2W0MQtufPFPzM3m4GuRyzz) | 3:15 | 2025-05-09 | 2025-10-11 |
+| [Take Me Back To London Where It's Raining](https://open.spotify.com/track/2NVXGwEZWXmloS3mftEaa3) | [YT](https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C) | [Take Me Back To London](https://open.spotify.com/album/5QJuDMqj3m17seBGt99tQw) | 2:11 | 2026-02-28 |  |
 | [Take my time Geeski SH Feb 23](https://open.spotify.com/track/5HX3m4LUWtDjFBtTLd8PHo) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Take my time Geeski SH Feb 23](https://open.spotify.com/album/0cH8XPlr5xRwUWABrGEye6) | 2:54 | 2025-06-06 | 2025-06-14 |
 | [Take U A Army](https://open.spotify.com/track/3Oax2vllbpCAzWKuuOES4t) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Take U A Army](https://open.spotify.com/album/6ioKfZ1ppOiIWUuKL7IwCt) | 2:59 | 2025-08-29 | 2025-09-16 |
 | [Taken For Granted](https://open.spotify.com/track/3CsdKcnQRUtuPO7hHjzJ1P) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [Taken For Granted](https://open.spotify.com/album/1v9tdLs34CUDSItvFilRMD) | 2:50 | 2021-10-29 | 2022-01-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 
 > Drilling through Naij\. Cover: Wizard Chan
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,920 likes - 60 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,958 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 | 59 | [JJC](https://open.spotify.com/track/0NBEhowJUHYLWhe1BNGLDa) | [Hugo P](https://open.spotify.com/artist/0J6ZIgkuOsplZ6o3VOrb8p), [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK) | [JJC](https://open.spotify.com/album/65Xb0BUvLHFqXhF3Ev0slx) | 3:42 |
 | 60 | [My Time](https://open.spotify.com/track/56IzMNcIHJnVvIR4DEMPqj) | [Chibuzor](https://open.spotify.com/artist/5q7Zr4GT2BW2aNSonvKOjd) | [My Time](https://open.spotify.com/album/31IkWfeidxB3KkzVDFHqM7) | 2:28 |
 
-Snapshot ID: `AAAAAKtDCoea7trc7FXuDKQ6xffLsRi9`
+Snapshot ID: `AAAAAAxi/GRtf1oaljEQ8mSivLMFtjm7`

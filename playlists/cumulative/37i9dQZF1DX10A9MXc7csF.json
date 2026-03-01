@@ -17382,7 +17382,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 144338,
       "name": "Madrecita",
       "url": "https://open.spotify.com/track/48yZjsjIc2NDrSLBiLGHpQ"
@@ -25956,6 +25956,24 @@
       "duration_ms": 198053,
       "name": "Recordando",
       "url": "https://open.spotify.com/track/4kDe3NzNqfQwkr7VEgbfwh"
+    },
+    {
+      "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/2C3zDPX6c15SjYv21tiXqm"
+      },
+      "artists": [
+        {
+          "name": "El Esparza",
+          "url": "https://open.spotify.com/artist/4RT0MnB1whwGBJ3N8oEntX"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196323,
+      "name": "Recuerdos",
+      "url": "https://open.spotify.com/track/4qRJi0Y4E8bkuIRZB0N59j"
     },
     {
       "album": {

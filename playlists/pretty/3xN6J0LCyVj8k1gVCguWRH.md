@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,081 likes - 168 songs - 9 hr 50 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,073 likes - 163 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,10 +171,5 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 161 | [Talk To Johnny](https://open.spotify.com/track/6obIwCzFzUYOS3ka1zI0wv) | [Noah James](https://open.spotify.com/artist/3AEyWNe4qhvSdT3ggMPdHq) | [Talk To Johnny](https://open.spotify.com/album/2tDKMJJsVZ0dhZh2AcFnFZ) | 2:43 |
 | 162 | [Satellite Love](https://open.spotify.com/track/5gSEEvtnkTm5O7F8oxtw9C) | [Nova Blu](https://open.spotify.com/artist/3yL32qScrUz9MVVTgBJh8v) | [Satellite Love](https://open.spotify.com/album/1HZDlRTsWiN2cDo9KbIPCK) | 3:52 |
 | 163 | [One Good Friend](https://open.spotify.com/track/3BzgwQ4En4HPZJUJoNPNen) | [Ted Riverstone](https://open.spotify.com/artist/32bPDt9cP4640996YSTQl8) | [One Good Friend](https://open.spotify.com/album/0mkkh4HNmTUgCkUKIzTBaD) | 4:09 |
-| 164 | [Not so Secret Anymore](https://open.spotify.com/track/6pDh2hoyEZmf35tfkjliC3) | [jclr;](https://open.spotify.com/artist/0VBP3zJElW0mlwQsV7swvr) | [Not so Secret Anymore](https://open.spotify.com/album/1oxk89XNZiZUd3FlvG7sMw) | 3:23 |
-| 165 | [My Puerto Rico](https://open.spotify.com/track/1WlMhTBKldC5VW5FFIicc2) | [Wilfredo A\. Miguez](https://open.spotify.com/artist/784gsJfPXmdBiOACiigxBa) | [Mi Trompeta Tropical](https://open.spotify.com/album/6Rer93M4nn5TzKBTDmPNkn) | 3:55 |
-| 166 | [What Are We Waiting For](https://open.spotify.com/track/5ltNwYLjFFhqbQ8zq06d9V) | [Candee Sweet](https://open.spotify.com/artist/2r1A9yNEcaEMErzZ4AHugj) | [What Are We Waiting For](https://open.spotify.com/album/1ahwnKNbpG0xbutOsB4JZb) | 2:47 |
-| 167 | [Corners](https://open.spotify.com/track/5wMjOak2e3CfgsUpS7XzJA) | [Ignatius](https://open.spotify.com/artist/4KaYaCjRR42kLDmAvSfzqf) | [Corners](https://open.spotify.com/album/7MTppb9uIpUZ0auknab0z3) | 2:41 |
-| 168 | [Stars Past the Milky Way](https://open.spotify.com/track/7oBuvCFdtabS6ZhqPQEiCu) | [James Judson](https://open.spotify.com/artist/4eAzxyeCCpO7J3OwZhLEjz) | [Songs of My Dreams](https://open.spotify.com/album/6HKOX5Jsx1dwe40qWdzcqT) | 2:46 |
 
-Snapshot ID: `AAA4Oj6caTluvQPwfaJKBZUndHUhVXZE`
+Snapshot ID: `AAA4OyEm0Wehb62UNa9oy9BkzR98/R1q`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Bruno Mars, BLACKPINK, Dato' Sri Siti Nurhaliza, Black Hanifah, laufey, RAYE  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,118 likes - 115 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,128 likes - 115 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 28 | [Kini](https://open.spotify.com/track/751Bz5vVIURh0R5tafZ2L1) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [KIM](https://open.spotify.com/artist/1ltPgn4r3rgK3NcpJZScIp), [Neida](https://open.spotify.com/artist/6B19mPGcc9M5LmRwJLVhys) | [Yovie and His Friends: Kini & Selamanya](https://open.spotify.com/album/431WArkt1kXceTtCPmtnrQ) | 3:25 |
 | 29 | [Menuju Cahaya](https://open.spotify.com/track/3k3uhSQonuD2LL2D3r8j0G) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk), [Rima Melati Adams](https://open.spotify.com/artist/1xb3vUWhUFFBRCJlaP2Bqc) | [Menuju Cahaya](https://open.spotify.com/album/12eQxn8CWspSpzzpG5rqaw) | 4:56 |
 | 30 | [Melati](https://open.spotify.com/track/4koI5WbXEXwrO2dhbfErvS) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Melati](https://open.spotify.com/album/5m0VWZtQpAYtYdnZLh7R4d) | 2:56 |
-| 31 | [Jantung Samudra](https://open.spotify.com/track/3eTukrKJBaJZMemLVRycwJ) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Jantung Samudra](https://open.spotify.com/album/0zFdnteznJblNnXZhi71mn) | 3:21 |
+| 31 | [Jantung Samudra \(Haya \- Nyi Roro Kidul Theme Song\)](https://open.spotify.com/track/3eTukrKJBaJZMemLVRycwJ) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX), [Honor of Kings Indonesia](https://open.spotify.com/artist/5aXtu4HI1PMk7Wqwm70lvh) | [Jantung Samudra](https://open.spotify.com/album/0zFdnteznJblNnXZhi71mn) | 3:21 |
 | 32 | [Cincin Kepalsuan](https://open.spotify.com/track/635cvp7jE8hZXu8F85Ek4f) | [Selfi Yamma](https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p) | [Cincin Kepalsuan](https://open.spotify.com/album/6Sjtc1kGTX45UfxOxqYZj8) | 5:36 |
 | 33 | [Raya Berseri](https://open.spotify.com/track/601KPrG5YogUKb9efFgNvd) | [Layla Sania](https://open.spotify.com/artist/7cgAsD4dJVqN4ckWT9jbEK), [Perry K](https://open.spotify.com/artist/6cTvfjoGBDGWta3T6GRoNo) | [Raya Berseri](https://open.spotify.com/album/2vqt9vBkLx9bxDBP7Zkb5K) | 2:22 |
 | 34 | [Rasa Raya](https://open.spotify.com/track/3i7qopiiVyuNHV8xgha0LR) | [Amad Dayyan](https://open.spotify.com/artist/3Fb13mjSoKo27EhNJ7K0Rr), [Thalita](https://open.spotify.com/artist/6V0axFNpUw92kvQQ1S1SMN) | [Rasa Raya](https://open.spotify.com/album/4LTIv10Lwz14wvzosuo24w) | 2:45 |

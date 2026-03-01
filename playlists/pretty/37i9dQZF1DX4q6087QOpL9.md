@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4q6087QOpL9.md) - [plain]
 
 > That real soulful house sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,527 likes - 150 songs - 13 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,588 likes - 150 songs - 13 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4q6087QOpL9.md) - [plain]
 | 149 | [Do It Any Way You Wanna \- Eric Kupper Remix](https://open.spotify.com/track/64bjfJ3QeVrDHrzWmegS4G) | [The Philly All Stars](https://open.spotify.com/artist/3hA3H6rsM5Q5hCzLnuzadK), [Eric Kupper](https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz) | [Do It Any Way You Wanna \(Eric Kupper Remix\)](https://open.spotify.com/album/2SgyHegDmwhTENCHZG9iaW) | 5:38 |
 | 150 | [Going Nowhere](https://open.spotify.com/track/6gxCItsJhHpmucspvOhwAP) | [Venessa Jackson](https://open.spotify.com/artist/6JDjuDf9o67pNcq97V6fhy), [Corey Holmes](https://open.spotify.com/artist/5nHH9d9UcjjJ56GfKE6XoS) | [Going Nowhere](https://open.spotify.com/album/6k3UcaaEVihWwLoItNA8qH) | 7:23 |
 
-Snapshot ID: `AAAAAHz/WxJF8S5y3vZ5/hI9ddGT6puH`
+Snapshot ID: `AAAAANOoQz/gsdh+xDXhwidB5BHfjmHE`

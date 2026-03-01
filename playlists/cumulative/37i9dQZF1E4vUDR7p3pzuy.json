@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Evil Level Live, Lockjaw, The Ramey Memo and more",
+  "description": "With Evil Level Live, Rob Harrowven, The Ramey Memo and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -472,7 +472,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "apoca-lips",
       "url": "https://open.spotify.com/track/2MTcR4vNAYLtguyNscbceQ"
@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 278344,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/5a0UozDdlLleQaN7EZta6C"
@@ -1340,7 +1340,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -1524,7 +1524,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 198391,
       "name": "Cut Me Loose",
       "url": "https://open.spotify.com/track/4u1SCkmOp9hWkG7cX8FCjp"
@@ -1792,7 +1792,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 205250,
       "name": "Detached",
       "url": "https://open.spotify.com/track/6W6ktN80W3pwJ6AlD424xg"
@@ -1814,7 +1814,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 167907,
       "name": "Diamond Dust",
       "url": "https://open.spotify.com/track/0C6ArJYSXjvjQe1OiSxiZM"
@@ -2262,7 +2262,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 238437,
       "name": "Fake Love - Rock Remix",
       "url": "https://open.spotify.com/track/1ljd5NB7YLcUBMiA5f3eEF"
@@ -2370,7 +2370,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Feel",
       "url": "https://open.spotify.com/track/2paWLxW5uODgpyEiBCon4w"
@@ -2388,7 +2388,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 137054,
       "name": "Fine & Dandy - Single Edit",
       "url": "https://open.spotify.com/track/1FUpjRcUG2BFXsoC9giGvA"
@@ -2565,6 +2565,32 @@
     },
     {
       "album": {
+        "name": "RE:CONSTRUCTION PART I (Echoes Of Three Worlds)",
+        "url": "https://open.spotify.com/album/73O4X8EB3UaEzdXt7czL0H"
+      },
+      "artists": [
+        {
+          "name": "Electric BlindFold",
+          "url": "https://open.spotify.com/artist/2OzZt06pUFhxbinEGey4Ng"
+        },
+        {
+          "name": "Industrial Destruction",
+          "url": "https://open.spotify.com/artist/60V7xX9WjAAIvrjM8Z7ulZ"
+        },
+        {
+          "name": "Mystique Tendenz",
+          "url": "https://open.spotify.com/artist/1cXptaljbyW0FY46BTYpj6"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176821,
+      "name": "FUCK WAR! - Remix",
+      "url": "https://open.spotify.com/track/1zGCWTRvCzJkEWwTj7bC43"
+    },
+    {
+      "album": {
         "name": "Fuck War! (Remix)",
         "url": "https://open.spotify.com/album/3useDp57yqqGwmcHcUfHoJ"
       },
@@ -2576,7 +2602,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 176821,
       "name": "Fuck War! - Remix I",
       "url": "https://open.spotify.com/track/30ech3YFPEWg5dvWFLMyoo"
@@ -2860,7 +2886,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 175982,
       "name": "HAIR KILLER",
       "url": "https://open.spotify.com/track/3Th9GrFjG5bKv5nQQIw3bh"
@@ -3260,7 +3286,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-26",
+      "date_removed": null,
       "duration_ms": 219511,
       "name": "I can't sleep",
       "url": "https://open.spotify.com/track/5Ccro6iY3KDNOvsvNZsdtv"
@@ -3458,7 +3484,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 281500,
       "name": "I'm made for more",
       "url": "https://open.spotify.com/track/43qb7qNNuxjUq6Kq0APvcR"
@@ -4014,7 +4040,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Least",
       "url": "https://open.spotify.com/track/4jcdmZz76vJkLEEu8IsKkw"
@@ -4862,7 +4888,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 167830,
       "name": "no thank you",
       "url": "https://open.spotify.com/track/5DXHMz3iJWgw8MvfBoakze"
@@ -5874,7 +5900,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 273353,
       "name": "Sei\u00f0r",
       "url": "https://open.spotify.com/track/1IRQJ2cJZlxRa79zVIWqoU"
@@ -6142,7 +6168,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 141000,
       "name": "Skin",
       "url": "https://open.spotify.com/track/1GiM0sCx7JfmkmHhMDuwQr"
@@ -6450,7 +6476,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 230164,
       "name": "Split Realities",
       "url": "https://open.spotify.com/track/0G7ro4Mul84jHShHCT9RJ2"
@@ -6598,7 +6624,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 210500,
       "name": "Struggle",
       "url": "https://open.spotify.com/track/0LufHqU1K0M08WNNxc5XhG"
@@ -6616,7 +6642,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 221906,
       "name": "Suburban Decay",
       "url": "https://open.spotify.com/track/4X5ZUHqi7EogCNb8SGaoEB"
@@ -7220,7 +7246,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 233045,
       "name": "They Don't Care (About You)",
       "url": "https://open.spotify.com/track/2hpb6qsOE6zCIvIzzuPeBN"
@@ -7274,7 +7300,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 234320,
       "name": "Things Have Changed - Radio Edit",
       "url": "https://open.spotify.com/track/3SmreUsJpTRubF2f69Ub9y"
@@ -7462,10 +7488,28 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 234717,
       "name": "To Nothing",
       "url": "https://open.spotify.com/track/65vk97TWbixyEpOPUJiIPa"
+    },
+    {
+      "album": {
+        "name": "TOMORROW.IS.GONE",
+        "url": "https://open.spotify.com/album/0ib2DUUUGexmWlm9RC8OwU"
+      },
+      "artists": [
+        {
+          "name": "VERTTIGO",
+          "url": "https://open.spotify.com/artist/7eLn91iQ7lCk8ZJqxYfYzk"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184590,
+      "name": "TOMORROW.IS.GONE",
+      "url": "https://open.spotify.com/track/4dz2I13MPmF0Q1HN5cxTSd"
     },
     {
       "album": {
@@ -8008,7 +8052,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Weaponry",
       "url": "https://open.spotify.com/track/64byd64mWqDoRIjgNFdFXR"
@@ -8102,7 +8146,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 171000,
       "name": "When You're Down",
       "url": "https://open.spotify.com/track/35eCarWbCxKpJD3im0JO65"
@@ -8214,7 +8258,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 124399,
       "name": "Wildfire Heart",
       "url": "https://open.spotify.com/track/6Q7ApqsX2ZWOPGIEklmgL6"

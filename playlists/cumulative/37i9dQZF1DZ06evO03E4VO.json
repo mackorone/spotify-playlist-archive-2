@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "favorite girl",
+        "url": "https://open.spotify.com/album/75YCAbBtHvShKgO0dN2T6G"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204051,
+      "name": "favorite girl",
+      "url": "https://open.spotify.com/track/2ZqUy3M1XreBBcQ9OIALDc"
+    },
+    {
+      "album": {
         "name": "fantasies",
         "url": "https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3"
       },

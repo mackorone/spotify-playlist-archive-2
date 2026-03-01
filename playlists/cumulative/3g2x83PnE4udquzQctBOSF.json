@@ -8025,6 +8025,24 @@
     },
     {
       "album": {
+        "name": "Soul Sing",
+        "url": "https://open.spotify.com/album/5rXUujxnfeItYJODD8cw47"
+      },
+      "artists": [
+        {
+          "name": "KeepNoise",
+          "url": "https://open.spotify.com/artist/6iMok0Y9VLcNLkjuUi3sS9"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390331,
+      "name": "Soul Sing",
+      "url": "https://open.spotify.com/track/6Kaq0Tp4vak93B7BcTWnnD"
+    },
+    {
+      "album": {
         "name": "Soundboy",
         "url": "https://open.spotify.com/album/1FSB0rdp9vJrhfW9Aql04O"
       },

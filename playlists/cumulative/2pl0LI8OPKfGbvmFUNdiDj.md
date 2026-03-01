@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-358 songs - 20 hr 3 min
+362 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Hazte oir](https://open.spotify.com/track/1dfB3PNQCu7FMhf9xae073) | [Marcoo](https://open.spotify.com/artist/78r09t3sUYBpJSrYZqeAxb) | [Hazte oir](https://open.spotify.com/album/0iqOcbtUyjYtnHZgU8Jdzv) | 3:09 | 2025-11-24 | 2026-01-05 |
 | [Hectic Movement](https://open.spotify.com/track/4G0L0GzZjStc84JE0muTBt) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [Eviction Notice](https://open.spotify.com/album/2vSRvfh99w8GfaaZpbUkjS) | 2:17 | 2025-11-08 | 2025-12-01 |
 | [Heute geh ich drauf](https://open.spotify.com/track/23nNSezQQ5f4GYcnkDmHiX) | [EKN\_0322](https://open.spotify.com/artist/2TzFfwjSStKVlmeexgGpK5) | [Heute geh ich drauf](https://open.spotify.com/album/3ZrFHe0uXTln9gL7JMqqFb) | 2:45 | 2026-01-24 | 2026-02-21 |
+| [Hey Woman](https://open.spotify.com/track/08JpU2mT1TLwxZme4pAHU5) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [The Fuzes Best Of](https://open.spotify.com/album/16zoHx9wW6EVMvPDo1sha5) | 2:57 | 2026-02-28 |  |
 | [Higher Ground](https://open.spotify.com/track/6OKnrZiGv6u4gDg92UuEtf) | [Fernando's Eyes](https://open.spotify.com/artist/2nrwwBTk2oiNYRK29k6vGr) | [Bonus Tracks & Remixes](https://open.spotify.com/album/0wLTi4IIGvYo9isxjLoxHi) | 6:11 | 2025-11-22 | 2026-01-05 |
 | [Hold On](https://open.spotify.com/track/4Wo7nXA54eJJ42tzRaED3i) | [Dono](https://open.spotify.com/artist/2X3HWlSgzq0vYKsR7kACxn) | [Hold On](https://open.spotify.com/album/1MoZcHm6ZFVNzm8R7OJeSl) | 2:33 | 2025-12-23 | 2026-01-15 |
 | [Homework Forever](https://open.spotify.com/track/5EBAcYsLz8yVFBjzNirEt7) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Homework Forever](https://open.spotify.com/album/4ZV5lF2tPgdP36xQH1lLSQ) | 2:56 | 2025-12-30 | 2026-01-25 |
@@ -181,11 +182,13 @@
 | [Kisses On The Lips](https://open.spotify.com/track/3jrhLw4fhfPi9g4KN4k9i7) | [Nicolust](https://open.spotify.com/artist/0uZVCERmBAm9C9PWvbIwlb) | [Kisses On The Lips](https://open.spotify.com/album/6hxvNG9uKUhwjn0QdOrW7G) | 4:45 | 2025-11-17 | 2026-01-05 |
 | [L'été](https://open.spotify.com/track/1QCUwsbi0gzZjZWbBTfvNS) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [L'été](https://open.spotify.com/album/2Sc22SbioaEC7xBfK94JUc) | 3:58 | 2026-02-08 |  |
 | [LA CORREA](https://open.spotify.com/track/6crvVYcGro1Ewukvm98AL0) | [Hugo Serrano](https://open.spotify.com/artist/2CdZKr2ePuktdkB8BZwrWj) | [HALLOWEEN](https://open.spotify.com/album/2q0gSWqA5rgVqAnXVTTAwj) | 2:18 | 2025-11-01 | 2025-12-01 |
+| [Last Goodbye](https://open.spotify.com/track/5SdEoelq5gFFHzpxGeqi1W) | [Softcase](https://open.spotify.com/artist/2nqXZfwOxBVcKjVa7pYdC8) | [Last Goodbye](https://open.spotify.com/album/52T9LF5wyA24Vz0qI7C5SE) | 3:17 | 2026-02-28 |  |
 | [Last Time Dancing](https://open.spotify.com/track/3XtY6BIFUKabU0CIrntHNe) | [Rafael Vidal Lykova](https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA) | [Last Time Dancing](https://open.spotify.com/album/2TPQDIZSmD7ZD1dxACv9u2) | 2:15 | 2025-11-08 | 2025-12-01 |
 | [Late Nites](https://open.spotify.com/track/75gsaxmN1p8wLimz3iKmRa) | [Gmile](https://open.spotify.com/artist/2tt6NEFNep08zMwtrzxNaF) | [Late Nites](https://open.spotify.com/album/5XwHLVp7dZCxO0b8W2as0k) | 2:52 | 2025-11-17 | 2026-01-05 |
 | [Latina BB](https://open.spotify.com/track/3XqDTOzpLaSUFT2GPwbQW8) | [cami santiz](https://open.spotify.com/artist/5SqIDTS8ZHDtkIFZpS6G0S) | [Latina BB](https://open.spotify.com/album/19kXzogdcK0IQAKGUI3Je3) | 2:17 | 2026-01-29 |  |
 | [Layla Bartle](https://open.spotify.com/track/0VbH7zwCc4sdkpLeSDe7nu) | [Quilted Snowflake](https://open.spotify.com/artist/3iWXOvz68AzL0gUCpUvTVA) | [Fun with Layla in Wallington](https://open.spotify.com/album/2hTc0kStuvzmNsApCiLosP) | 2:43 | 2025-10-19 | 2026-01-05 |
 | [Leave Me Alone](https://open.spotify.com/track/58k6KdzzvSjfUWkRpvbFYi) | [Mitirikpwe Patricia](https://open.spotify.com/artist/0NEmwN7vYujcKPM4hs5cVh) | [Mitirikpwe](https://open.spotify.com/album/1UgRg1mzV72aE0VQPdtujP) | 3:26 | 2025-11-17 | 2026-01-05 |
+| [Let Me Be Me](https://open.spotify.com/track/4xDKzurISthaAbD6NzOy75) | [Lilly Sweetness](https://open.spotify.com/artist/3TwZJUhz6tKt6OxFPNf4fu) | [Blessings](https://open.spotify.com/album/0sEWclT1yWwNlQfnPRJ9v4) | 3:54 | 2026-02-28 |  |
 | [Let's Do It Again](https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Let's Do It Again](https://open.spotify.com/album/5cfYAyMa2BN1b8yup5F6TL) | 4:28 | 2026-01-29 |  |
 | [Life to the End](https://open.spotify.com/track/6jJz7ivhfDOITkDRe6lw3v) | [Brene Wilson](https://open.spotify.com/artist/6xKFlWtI3CkiqpFEzkchZj) | [Trial and Error Session](https://open.spotify.com/album/1uW561qp8DOm8Ey7tgzLUv) | 4:16 | 2025-11-10 | 2025-12-01 |
 | [Lifespan](https://open.spotify.com/track/061iJoemR1JeGwFZa0339j) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Lifespan](https://open.spotify.com/album/3wOlsRSBN05i4lfp9zYhBy) | 2:22 | 2025-10-19 | 2026-01-05 |
@@ -259,6 +262,7 @@
 | [Ramounie](https://open.spotify.com/track/6xWlprrLSpaNMK6tnaZ0NZ) | [DJ ToloV](https://open.spotify.com/artist/5EovaKhTCk7aUZ2iYy26t7) | [Ramounie](https://open.spotify.com/album/5595pglhwoIHAFB0PvmAKr) | 3:55 | 2025-11-16 | 2026-01-05 |
 | [RAP DE MINECRAFT](https://open.spotify.com/track/2TVIBaCN7AoJ2okpNAIxx5) | [Kalibre Brown](https://open.spotify.com/artist/5ukaoYh4Cp7e4zp1gRM1bp) | [RAP DE MINECRAFT](https://open.spotify.com/album/53ImTr4XsTPc5vMk6uMbRk) | 2:10 | 2025-11-30 | 2026-01-05 |
 | [Razza Umana](https://open.spotify.com/track/4kyqPP2pApVhqU9UDPCPIa) | [Mantideatea](https://open.spotify.com/artist/5v1HMdsldVByS7yLgsL3aB) | [Vecchio Progresso](https://open.spotify.com/album/3r1infkoCbumrwUx4nBIEd) | 3:27 | 2025-11-10 | 2025-12-01 |
+| [Ready 4 Ya](https://open.spotify.com/track/4lif5tsojBx55AhtDsyWh8) | [Uneekint](https://open.spotify.com/artist/73no0Yxs5lkOd6fCl7UgzI) | [Ready 4 Ya](https://open.spotify.com/album/04iI7eTuLE1jmHCu3nsaH6) | 1:56 | 2026-02-28 |  |
 | [Real Life Remastered \- Radio Edit](https://open.spotify.com/track/3H4NIqgvUkoIS0xpHxzrWe) | [Dsplita](https://open.spotify.com/artist/6uTaMdfn3QDIAmiPHtVrf0), [Atum Hunter](https://open.spotify.com/artist/390wKFpOpKVEexFMFpOets) | [Real Life Remastered \(Radio Edit\)](https://open.spotify.com/album/0Z6v32MY3YV4tW3dKwSGCy) | 2:53 | 2025-12-22 | 2026-01-15 |
 | [Real Talk](https://open.spotify.com/track/0VZonNcbe7t9baqsGVeU7n) | [Young JD](https://open.spotify.com/artist/4GeZGR2T3FNXXcQFqjvnuL) | [Real Talk](https://open.spotify.com/album/0Na2C3AJXAMGt1JDy6sCe8) | 4:33 | 2025-11-05 | 2025-12-01 |
 | [Recognize](https://open.spotify.com/track/5EpZwXMWUCS3sLKBPpl7oJ) | [ADAD Audio](https://open.spotify.com/artist/5E6ZCRSMAyeT15BqrWOdy5) | [Recognize](https://open.spotify.com/album/10lOKU6lpAZ6up58TCYNsR) | 3:09 | 2025-11-10 | 2025-12-01 |

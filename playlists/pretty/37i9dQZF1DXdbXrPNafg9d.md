@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Buck Meek
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,292,456 likes - 175 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,292,419 likes - 175 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

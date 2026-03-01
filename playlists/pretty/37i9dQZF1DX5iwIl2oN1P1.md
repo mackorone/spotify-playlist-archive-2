@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > All new Gospel songs on the rise! Cover:  RED Hands
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,703 likes - 80 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,775 likes - 80 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 79 | [no stages](https://open.spotify.com/track/3sX88h1DVMSRa1VUm3rvhe) | [ANTHNY](https://open.spotify.com/artist/4BlBv9QEzkvROw7jx0uWC5) | [no stages](https://open.spotify.com/album/7EHxYwSPjYf9WkSFfVeC1u) | 4:30 |
 | 80 | [Church](https://open.spotify.com/track/4FQXeaugZnVS5XfIwBLJ7T) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [TASHA](https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP) | 4:02 |
 
-Snapshot ID: `AAAAAEh9LmqPQfoD3je8bu/BK4YJmKuj`
+Snapshot ID: `AAAAAEcsd+gmHT3fwcA80TZargGwQCj+`

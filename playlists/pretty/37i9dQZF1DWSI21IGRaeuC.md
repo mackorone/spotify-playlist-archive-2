@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house & tech ⛏️⛏️  <br/>featuring SOSA
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,438 likes - 116 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,488 likes - 116 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

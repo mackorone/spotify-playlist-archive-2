@@ -268,7 +268,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 168746,
       "name": "Donde Estar\u00e1 Mi Caballo",
       "url": "https://open.spotify.com/track/1X14CzCnjflUArxCk6Y1Ch"
@@ -722,6 +722,24 @@
       "duration_ms": 187173,
       "name": "La Cruz Negra",
       "url": "https://open.spotify.com/track/2DiBQzkbn1b33z76pQdu1h"
+    },
+    {
+      "album": {
+        "name": "4 Decadas 20 Corridos",
+        "url": "https://open.spotify.com/album/6bxrhrczONkksofmRNsUsL"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167906,
+      "name": "La Discusion Fue Una Yegua",
+      "url": "https://open.spotify.com/track/098PjeDDqNNq1uWG6ZVY1V"
     },
     {
       "album": {

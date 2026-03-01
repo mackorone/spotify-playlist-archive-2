@@ -6,7 +6,7 @@
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAANckh7ap2M4cY4fXjG6a4iMoUyo/EH",
+  "snapshot_id": "AAANeuLIdja05s6t7rOhGPI5y9wOHuSJ",
   "tracks": [
     {
       "added_at": "2026-02-07 16:20:06",
@@ -1323,6 +1323,134 @@
       "duration_ms": 272520,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/4bAbgD2Tv3v1d0fuJNg1ar"
+    },
+    {
+      "added_at": "2026-02-28 09:02:45",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0xZfbz18GIROo9S2LYCr1L"
+      },
+      "artists": [
+        {
+          "name": "White Star Line",
+          "url": "https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh"
+        }
+      ],
+      "duration_ms": 195803,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/66WZo836GgymQUJIomTs0v"
+    },
+    {
+      "added_at": "2026-02-28 09:02:58",
+      "album": {
+        "name": "Unmovable Fires",
+        "url": "https://open.spotify.com/album/0divLjbOp4vAR6qpIelxuv"
+      },
+      "artists": [
+        {
+          "name": "Pink Cliffs",
+          "url": "https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR"
+        }
+      ],
+      "duration_ms": 257321,
+      "name": "Unmovable Fires",
+      "url": "https://open.spotify.com/track/5UIdkmar4ZlpDQKeniwRHt"
+    },
+    {
+      "added_at": "2026-02-28 09:03:05",
+      "album": {
+        "name": "Damnation",
+        "url": "https://open.spotify.com/album/6ytOXRWpY1J684AWQq9d0t"
+      },
+      "artists": [
+        {
+          "name": "BeMauve",
+          "url": "https://open.spotify.com/artist/7fUlvrZXa9b5tc7XCKySHq"
+        }
+      ],
+      "duration_ms": 247200,
+      "name": "Damnation",
+      "url": "https://open.spotify.com/track/0WmOcqYZxdtZV1zehFFkQh"
+    },
+    {
+      "added_at": "2026-02-28 09:03:20",
+      "album": {
+        "name": "SLUDGE",
+        "url": "https://open.spotify.com/album/1AamHYpsA0SpBZhn4x01BF"
+      },
+      "artists": [
+        {
+          "name": "Wikka",
+          "url": "https://open.spotify.com/artist/1PTXGpEQqVfBYjv5sGbfjq"
+        }
+      ],
+      "duration_ms": 148241,
+      "name": "CLOWN TOWN",
+      "url": "https://open.spotify.com/track/2vUsPkvVZfewhZTs05ipvb"
+    },
+    {
+      "added_at": "2026-02-28 09:03:30",
+      "album": {
+        "name": "Would Be Better",
+        "url": "https://open.spotify.com/album/7wHaSk8Rc42ZLzHCTKJbZH"
+      },
+      "artists": [
+        {
+          "name": "Luan Luan",
+          "url": "https://open.spotify.com/artist/1TRI5G2cp3GkZ2itd8IIMG"
+        }
+      ],
+      "duration_ms": 234529,
+      "name": "Would Be Better",
+      "url": "https://open.spotify.com/track/4caeJi0QJyfrgCwcfS5XZU"
+    },
+    {
+      "added_at": "2026-02-28 09:03:54",
+      "album": {
+        "name": "AMIGOS",
+        "url": "https://open.spotify.com/album/7kdkuaPkb7hxAn62YURevg"
+      },
+      "artists": [
+        {
+          "name": "Muk Zen",
+          "url": "https://open.spotify.com/artist/6fpSO2jPZo4TGmsFRLMBYv"
+        }
+      ],
+      "duration_ms": 191310,
+      "name": "AMIGOS",
+      "url": "https://open.spotify.com/track/6OBUF3YnAuiVJFcmMYVQYV"
+    },
+    {
+      "added_at": "2026-02-28 09:04:12",
+      "album": {
+        "name": "Hoary Light",
+        "url": "https://open.spotify.com/album/2k2Qu1YN9FI3O2ALMCq9Gy"
+      },
+      "artists": [
+        {
+          "name": "RawGrow",
+          "url": "https://open.spotify.com/artist/5Q0kT0kscaMSJ56bRv1VAF"
+        }
+      ],
+      "duration_ms": 188281,
+      "name": "Hoary Light",
+      "url": "https://open.spotify.com/track/5VZCZYaOsBrZtF7i3jy2P4"
+    },
+    {
+      "added_at": "2026-02-28 09:05:12",
+      "album": {
+        "name": "The way home",
+        "url": "https://open.spotify.com/album/4xO88KLM8NjEHYpQhXbJgV"
+      },
+      "artists": [
+        {
+          "name": "Eternalize",
+          "url": "https://open.spotify.com/artist/0gxYWBKorYdHOkDcnMLDsf"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "A different face",
+      "url": "https://open.spotify.com/track/2Rg295NxrG2fN2HQcvAfib"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1rrYSOTmZS.md) - [plain]
 
 > Get ready for the upcoming concert by listening to the artist's best songs! \(아티스트의 베스트곡을 들으며 다가오는 콘서트를 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,396 likes - 21 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,455 likes - 21 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1rrYSOTmZS.md) - [plain]
 | 20 | [evening glow](https://open.spotify.com/track/7KboPR4TuGQSAEjJNXKwQQ) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML) | 3:36 |
 | 21 | [pink](https://open.spotify.com/track/1JYtwhnjpVxQeYE9uyU2Lx) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML) | 4:27 |
 
-Snapshot ID: `AAAAANE+em9be2RnoGnYdmfeu9cZAOjt`
+Snapshot ID: `AAAAAA5cFSIWTbq2WJZkb+73qs/NTuCU`

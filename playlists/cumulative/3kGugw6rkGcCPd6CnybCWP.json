@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "The way home",
+        "url": "https://open.spotify.com/album/4xO88KLM8NjEHYpQhXbJgV"
+      },
+      "artists": [
+        {
+          "name": "Eternalize",
+          "url": "https://open.spotify.com/artist/0gxYWBKorYdHOkDcnMLDsf"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "A different face",
+      "url": "https://open.spotify.com/track/2Rg295NxrG2fN2HQcvAfib"
+    },
+    {
+      "album": {
         "name": "A Little More",
         "url": "https://open.spotify.com/album/3aVIlpVQ7ZCyRqcI5JrCq5"
       },
@@ -74,6 +92,24 @@
       "duration_ms": 211115,
       "name": "A Westerner Walks Into a Bar",
       "url": "https://open.spotify.com/track/4IlGkkdxTr3K5lLTaCp24c"
+    },
+    {
+      "album": {
+        "name": "AMIGOS",
+        "url": "https://open.spotify.com/album/7kdkuaPkb7hxAn62YURevg"
+      },
+      "artists": [
+        {
+          "name": "Muk Zen",
+          "url": "https://open.spotify.com/artist/6fpSO2jPZo4TGmsFRLMBYv"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191310,
+      "name": "AMIGOS",
+      "url": "https://open.spotify.com/track/6OBUF3YnAuiVJFcmMYVQYV"
     },
     {
       "album": {
@@ -351,6 +387,24 @@
     },
     {
       "album": {
+        "name": "SLUDGE",
+        "url": "https://open.spotify.com/album/1AamHYpsA0SpBZhn4x01BF"
+      },
+      "artists": [
+        {
+          "name": "Wikka",
+          "url": "https://open.spotify.com/artist/1PTXGpEQqVfBYjv5sGbfjq"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148241,
+      "name": "CLOWN TOWN",
+      "url": "https://open.spotify.com/track/2vUsPkvVZfewhZTs05ipvb"
+    },
+    {
+      "album": {
         "name": "Coca Cola",
         "url": "https://open.spotify.com/album/6N7sdx1gFiQvvzuFdVmyMl"
       },
@@ -456,6 +510,24 @@
       "duration_ms": 258461,
       "name": "Dagger",
       "url": "https://open.spotify.com/track/2z085z3HP9wxC1NbZg0l75"
+    },
+    {
+      "album": {
+        "name": "Damnation",
+        "url": "https://open.spotify.com/album/6ytOXRWpY1J684AWQq9d0t"
+      },
+      "artists": [
+        {
+          "name": "BeMauve",
+          "url": "https://open.spotify.com/artist/7fUlvrZXa9b5tc7XCKySHq"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247200,
+      "name": "Damnation",
+      "url": "https://open.spotify.com/track/0WmOcqYZxdtZV1zehFFkQh"
     },
     {
       "album": {
@@ -1282,6 +1354,42 @@
       "duration_ms": 200062,
       "name": "High and Low",
       "url": "https://open.spotify.com/track/7aJokZHlQxlEbNXYZiOA0p"
+    },
+    {
+      "album": {
+        "name": "Hoary Light",
+        "url": "https://open.spotify.com/album/2k2Qu1YN9FI3O2ALMCq9Gy"
+      },
+      "artists": [
+        {
+          "name": "RawGrow",
+          "url": "https://open.spotify.com/artist/5Q0kT0kscaMSJ56bRv1VAF"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188281,
+      "name": "Hoary Light",
+      "url": "https://open.spotify.com/track/5VZCZYaOsBrZtF7i3jy2P4"
+    },
+    {
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0xZfbz18GIROo9S2LYCr1L"
+      },
+      "artists": [
+        {
+          "name": "White Star Line",
+          "url": "https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195803,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/66WZo836GgymQUJIomTs0v"
     },
     {
       "album": {
@@ -3083,6 +3191,24 @@
     },
     {
       "album": {
+        "name": "Unmovable Fires",
+        "url": "https://open.spotify.com/album/0divLjbOp4vAR6qpIelxuv"
+      },
+      "artists": [
+        {
+          "name": "Pink Cliffs",
+          "url": "https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257321,
+      "name": "Unmovable Fires",
+      "url": "https://open.spotify.com/track/5UIdkmar4ZlpDQKeniwRHt"
+    },
+    {
+      "album": {
         "name": "Velvet Afterglow",
         "url": "https://open.spotify.com/album/4wmAqexRvA4fz4If87IhhZ"
       },
@@ -3404,6 +3530,24 @@
       "duration_ms": 224444,
       "name": "Wonderful Paradox",
       "url": "https://open.spotify.com/track/7LfF485Urzmt6zMcqNOVYu"
+    },
+    {
+      "album": {
+        "name": "Would Be Better",
+        "url": "https://open.spotify.com/album/7wHaSk8Rc42ZLzHCTKJbZH"
+      },
+      "artists": [
+        {
+          "name": "Luan Luan",
+          "url": "https://open.spotify.com/artist/1TRI5G2cp3GkZ2itd8IIMG"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234529,
+      "name": "Would Be Better",
+      "url": "https://open.spotify.com/track/4caeJi0QJyfrgCwcfS5XZU"
     },
     {
       "album": {

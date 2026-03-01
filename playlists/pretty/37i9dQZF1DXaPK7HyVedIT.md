@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Dubdogz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,199,389 likes - 69 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,199,309 likes - 69 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 17 | [I Don't Want To](https://open.spotify.com/track/00M5ara85QmCOTVGgOlbIw) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [I Don't Want To](https://open.spotify.com/album/3EctQMphj2fWCEnkUeYTbD) | 3:47 |
 | 18 | [Impossible](https://open.spotify.com/track/6r6MPuQfr3riRVWcJnfKNe) | [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX), [Savage & SHē](https://open.spotify.com/artist/3grWiHymOsSQY0VjeNAxCD) | [Mziki, Vol\. 2](https://open.spotify.com/album/3Y7uhCxhDdpo5JQ7j9YPZT) | 3:42 |
 | 19 | [Lotus 72D](https://open.spotify.com/track/3yNzOggdlDyZeUhLJS52nE) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Lotus 72D](https://open.spotify.com/album/35xIg31gSD0GI3c7q7IqtL) | 2:28 |
-| 20 | [Ex Machina](https://open.spotify.com/track/40rQKPdcEUr83krJCaNUvz) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Ex Machina](https://open.spotify.com/album/7Fb34mkumndAU8Lc5421C1) | 2:40 |
+| 20 | [Ex Machina](https://open.spotify.com/track/40rQKPdcEUr83krJCaNUvz) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Ex Machina](https://open.spotify.com/album/7Fb34mkumndAU8Lc5421C1) | 2:01 |
 | 21 | [PIECE OF ME](https://open.spotify.com/track/5qfCSmBt5ZPjZiRqvgRrnr) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Kiko Franco](https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2), [MONTE](https://open.spotify.com/artist/5u7JRRh8fKRbjCA2CueKkX) | [PIECE OF ME](https://open.spotify.com/album/7eeuSPN1i239ntcPygFj5A) | 3:42 |
 | 22 | [The Button](https://open.spotify.com/track/4B2GQVogNcFOat66WA0uMh) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [The Button](https://open.spotify.com/album/1FwjdsZ02U5eNpUsMMGWgA) | 2:45 |
 | 23 | [A New Day](https://open.spotify.com/track/2eaS1iJ2COp7sZWYL6IAFd) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z), [HNGT](https://open.spotify.com/artist/1LMZAwKQsYL6iIyAx7VuLK) | [A New Day](https://open.spotify.com/album/50TJbf8ARpqpcp8lHMapuc) | 3:55 |

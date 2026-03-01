@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Bops and LGBTQIA+ artists only\. Cover: Jules, Naomi
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,222 likes - 59 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,233 likes - 59 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 58 | [Sugar](https://open.spotify.com/track/1RtL0D6XycKWLCDt0pxpCf) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [When Are You Leaving?](https://open.spotify.com/album/073KfYmVFHQtkmh6zpTQ3N) | 4:02 |
 | 59 | [Fussy](https://open.spotify.com/track/4VA4eatY1J5Lhq6XjT3DVR) | [NIIVA](https://open.spotify.com/artist/0viMvQMmt8vK3TO2TAkbz1), [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [Fussy](https://open.spotify.com/album/5RAnzcXg4fpMTbqQS9elVG) | 2:44 |
 
-Snapshot ID: `AAAAAByl8pVQX4c+AssLYUfFc4SpVKxV`
+Snapshot ID: `AAAAAE+ueoto4r94TX4YzA7BMMvWh1Bj`

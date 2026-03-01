@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,282 likes - 118 songs - 6 hr 42 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,280 likes - 119 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,5 +126,6 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 116 | [What's the Use? \- Instrumental](https://open.spotify.com/track/5r4DMrQ4BpTRdnPe9QGeya) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [What's the Use? \(Instrumental\)](https://open.spotify.com/album/5FffrbI5spPovvRmhyo7UH) | 2:37 |
 | 117 | [Could It Be Love](https://open.spotify.com/track/0lfjkpY9AZq0Qs2Bwn09tu) | [James A\. Rocco](https://open.spotify.com/artist/6smo6fpEJijfZN27dFbaoL), [Heidi Karol Johnson](https://open.spotify.com/artist/4ySm3RS7l7jOfxpLZ3UPN0) | [Could It Be Love](https://open.spotify.com/album/4ddfDIzblId9xdTm0oK3Oz) | 3:57 |
 | 118 | [Verão Cruel](https://open.spotify.com/track/3BORXQvI9R94IK4gxy0KcV) | [Henry Key](https://open.spotify.com/artist/0fFowNydSeaku95nJbHodn) | [Verão Cruel](https://open.spotify.com/album/4LNUrXvE4Mm4o1CIkl9WIF) | 3:27 |
+| 119 | [All The Time](https://open.spotify.com/track/7E2MmQgEzRorBQZYx853RD) | [Tathan](https://open.spotify.com/artist/02MtYbPPmiILqyRJ8ftJfV) | [All The Time](https://open.spotify.com/album/5kEJxEoZytKnaoQpr76M73) | 2:34 |
 
-Snapshot ID: `AAARDuuglVunlNmdonho+C6px7mugVbc`
+Snapshot ID: `AAARD+HpeNLl44Me/XnePNEeAWzZ9gSQ`

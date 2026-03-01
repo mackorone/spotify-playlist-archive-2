@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mari Fernandez, BLACKPINK, Murillo Huff,  Alok, Bruno Mars, Gorillaz e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,261,663 likes - 89 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,261,825 likes - 89 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 15 | [Tonto](https://open.spotify.com/track/7mU1fei7P9h4mpjP2Otdw5) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Tonto](https://open.spotify.com/album/2O4uIDxW5yiPcPiGFag99v) | 2:20 |
 | 16 | [ganga](https://open.spotify.com/track/7gyHVcxDQ0uMnWwGTsE9YX) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [El Randal](https://open.spotify.com/artist/3xy1Z8p0bYLH2cDPla9QnU) | [ganga](https://open.spotify.com/album/7hUNrguCnr82K3zt93l1pQ) | 2:45 |
 | 17 | [Bola Uma Vela \(Trava Chip\)](https://open.spotify.com/track/4tP2kbroBcBmYk4IhbYwu5) | [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Dj Yuri Pedrada](https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi) | [Bola Uma Vela \(Trava Chip\)](https://open.spotify.com/album/4VqvH1Is9WcgpuO2Jfisre) | 1:39 |
-| 18 | [Vem No Pula Pula](https://open.spotify.com/track/3qLM9qdjA6gWHMyijhGOtN) | [Explode Nova Era](https://open.spotify.com/artist/3FfFShdeE7YqrfMH2Cls2H), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC GH Original](https://open.spotify.com/artist/6TlHQuC7PJX1Ki2AjN7YAy) | [Resenha Secreta, Vol.1](https://open.spotify.com/album/5OgtpV8CEpSna0D6uInh4y) | 4:45 |
+| 18 | [Vem No Pula Pula](https://open.spotify.com/track/3qLM9qdjA6gWHMyijhGOtN) | [Explode Nova Era](https://open.spotify.com/artist/3FfFShdeE7YqrfMH2Cls2H), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC GH Original](https://open.spotify.com/artist/6TlHQuC7PJX1Ki2AjN7YAy), [DJ GORDINHO DA VF](https://open.spotify.com/artist/2isWi9fP3idxCaGPPEelEQ) | [Resenha Secreta, Vol.1](https://open.spotify.com/album/5OgtpV8CEpSna0D6uInh4y) | 4:45 |
 | 19 | [Love Farsante](https://open.spotify.com/track/1946tSPOB4DND3ZStWSTOK) | [Vitinho Imperador](https://open.spotify.com/artist/6xrc4RXcso9uKlYWlIANPU) | [Love Farsante](https://open.spotify.com/album/1yUTgDOxY0IKeLX8OGCyIR) | 3:51 |
 | 20 | [Para Não](https://open.spotify.com/track/3hWewvjrDltoFI4Kj4CM1K) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Para Não](https://open.spotify.com/album/3ly45cS6cUJ8XubAqKLzE0) | 1:47 |
 | 21 | [UuUuuU](https://open.spotify.com/track/2agO3LjMdwhgVrDt7bsBB6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [MAN IN BLACK](https://open.spotify.com/album/6tSMLC7sCpo11PfrDJFCy3) | 3:11 |

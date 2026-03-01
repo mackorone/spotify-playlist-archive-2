@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Plan de Escape & Codigo FN en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,326 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,393 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 99 | [Déjame Amarte \- En Vivo](https://open.spotify.com/track/2vufDNF0g0D3DV5L4GwnDc) | [Tadeo Pequeño](https://open.spotify.com/artist/1TVMUeWseEGwId27jZQWfh) | [En Vivo](https://open.spotify.com/album/4BTYfMXTLOENdw1PqdsK48) | 3:22 |
 | 100 | [Mi Kid](https://open.spotify.com/track/4lKKLawxuOjwuQ1buFGhAp) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [ESSENCE \#10](https://open.spotify.com/album/2k0E3kC27sMUg3Hwb0Qc1F) | 3:12 |
 
-Snapshot ID: `AAAAAN9hGpL/0oRxoJJDVuu82PP0txz7`
+Snapshot ID: `AAAAAAYPXusJpYzrukyM+O0HeBlEZzDX`

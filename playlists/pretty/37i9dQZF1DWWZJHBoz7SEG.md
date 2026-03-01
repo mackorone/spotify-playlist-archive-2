@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Febrero se va, pero el mood se queda: rolitas prendidas y cero ganas de bajarle, Bruno Mars en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,145,321 likes - 89 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,146,208 likes - 89 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,12 +90,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 80 | [Cumbia fantasia](https://open.spotify.com/track/41IW719r1CuVwStSFcsY4k) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Cumbia fantasia](https://open.spotify.com/album/3EIuPAt9DW7PQNg3A3hSws) | 3:58 |
 | 81 | [El alma de la fiesta](https://open.spotify.com/track/2JCxVW97xVoFUGXixag62Q) | [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1) | [El alma de la fiesta](https://open.spotify.com/album/2vtRtrqA101Ih5P2JzPd1x) | 2:05 |
 | 82 | [Soy Tuyo](https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [Soy Tuyo](https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80) | 2:39 |
-| 83 | [Carnaval](https://open.spotify.com/track/38z6IVmEDw5CncRT1AIT4d) | [Silverio](https://open.spotify.com/artist/1Du4cMgDEKryT08bQdMqpV) | [Carnaval](https://open.spotify.com/album/5TFzR86ScBslTadTzb2E5D) | 4:00 |
-| 84 | [YO NO SOY ASÍ](https://open.spotify.com/track/6A7Rx8Jaqsv9S2H411Y27b) | [Morenito De Fuego](https://open.spotify.com/artist/3jF75SDeZLJaaFS0kYdnTV), [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [YO NO SOY ASÍ](https://open.spotify.com/album/7CRSTs3m0z54RgEvL13kzc) | 3:09 |
-| 85 | [Ya No Soy Tan Cool](https://open.spotify.com/track/4yVgN4I70OQCDv6dy2Mitf) | [Andie Gago](https://open.spotify.com/artist/2R5LEUDIhf0yxB5hQtXacJ) | [Ya No Soy Tan Cool](https://open.spotify.com/album/4UTCUeOIGIsqqgROdKZXXW) | 3:14 |
+| 83 | [Ya No Hay Diversión](https://open.spotify.com/track/76z2s7kCzHX0aN8r1vhpFu) | [Andie Gago](https://open.spotify.com/artist/2R5LEUDIhf0yxB5hQtXacJ) | [Ya No Soy Tan Cool \(Deluxe\)](https://open.spotify.com/album/6ysFEJKf8RALz59cyHGsEu) | 2:33 |
+| 84 | [Carnaval](https://open.spotify.com/track/38z6IVmEDw5CncRT1AIT4d) | [Silverio](https://open.spotify.com/artist/1Du4cMgDEKryT08bQdMqpV) | [Carnaval](https://open.spotify.com/album/5TFzR86ScBslTadTzb2E5D) | 4:00 |
+| 85 | [YO NO SOY ASÍ](https://open.spotify.com/track/6A7Rx8Jaqsv9S2H411Y27b) | [Morenito De Fuego](https://open.spotify.com/artist/3jF75SDeZLJaaFS0kYdnTV), [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [YO NO SOY ASÍ](https://open.spotify.com/album/7CRSTs3m0z54RgEvL13kzc) | 3:09 |
 | 86 | [tabaco para armar](https://open.spotify.com/track/6IXWL69KVkpqyHhQxEi857) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [tabaco para armar](https://open.spotify.com/album/4wdpdfpjxUugDWTePO1BOn) | 2:47 |
 | 87 | [Fantasía](https://open.spotify.com/track/3Odd6Hk5F3D7vP3XXoaK2p) | [Brosste Moor](https://open.spotify.com/artist/46jvdopXnakky5esc0J4ho), [Valdespino](https://open.spotify.com/artist/4gmPWmVobcU0zK2ErrSvJw), [Seis Alam](https://open.spotify.com/artist/3aTyGGl6ps6SCzNnY9LB3H) | [Fantasía](https://open.spotify.com/album/56bjU03Lt2EFd9lTdJa60j) | 3:03 |
 | 88 | [ay amor ii](https://open.spotify.com/track/2cBoTVgE7yPBbMWKdwxkEx) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [ay amor ii](https://open.spotify.com/album/5XbIWjAmeoVwuitSG2p79s) | 4:23 |
 | 89 | [Tatuajes](https://open.spotify.com/track/6RfsM2nHksNGt26ZvPUDE1) | [Eddy Y Samu](https://open.spotify.com/artist/1ltW6BF5qgKsoN2T0nyEvn) | [Tatuajes](https://open.spotify.com/album/3ZtuZNAjh8fSU7NpojwX4p) | 3:35 |
 
-Snapshot ID: `AAAAAP8nVc5xr19SgRucyA0Z29UmyasD`
+Snapshot ID: `AAAAAAFJXDbYxIVxaWFS9lHLaStqtmk7`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 
 > Where your new favourite bands are discovered\. Cover: EVELYN GRAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,096 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,094 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 | 49 | [Tiles & Moss](https://open.spotify.com/track/5MHKVTslowdhxzyOLOgA5X) | [Pebbledash](https://open.spotify.com/artist/5nXn4Aa9Cifzc2mdJqqrIL) | [Tiles & Moss](https://open.spotify.com/album/6k1wy9i4vriYhKfBHIuWlx) | 4:03 |
 | 50 | [Lucky](https://open.spotify.com/track/70DK9qoXC1XvgRjeOIHdH1) | [Mên An Tol](https://open.spotify.com/artist/4CFcHsL8xqUWQC4vIZWPOs) | [Lucky](https://open.spotify.com/album/12hBbCObC2UB756DKj6tca) | 3:12 |
 
-Snapshot ID: `AAAAAO4M4kAsoCqVIkJZ0Vtwpcfanwpj`
+Snapshot ID: `AAAAAAcW0TJQ5TU6ByRXE83KfIn3Lzts`

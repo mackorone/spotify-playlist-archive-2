@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,168 likes - 81 songs - 4 hr 38 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,168 likes - 89 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,5 +89,13 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 79 | [a place](https://open.spotify.com/track/0B10EkMCSLvpyLffiuRPMt) | [Tex M](https://open.spotify.com/artist/2UdABJUkfJ2hQEERZhhkUq) | [Not All Eyes Are Green](https://open.spotify.com/album/5uIS1c0hRQZY3H8eIHNCrJ) | 1:47 |
 | 80 | [Fiat 500](https://open.spotify.com/track/4S600HS4ZcpOuz6eIn0s8h) | [Baby Suicida](https://open.spotify.com/artist/37dbiHpWkjkirTka2vOuLb) | [Fiat 500](https://open.spotify.com/album/797bViaNzkV6Gc3pGlvWJi) | 2:36 |
 | 81 | [Trouble](https://open.spotify.com/track/4bAbgD2Tv3v1d0fuJNg1ar) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Trouble](https://open.spotify.com/album/766W9V5Bg6ZX5rm46fuVWX) | 4:32 |
+| 82 | [Hold On](https://open.spotify.com/track/66WZo836GgymQUJIomTs0v) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Hold On](https://open.spotify.com/album/0xZfbz18GIROo9S2LYCr1L) | 3:15 |
+| 83 | [Unmovable Fires](https://open.spotify.com/track/5UIdkmar4ZlpDQKeniwRHt) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Unmovable Fires](https://open.spotify.com/album/0divLjbOp4vAR6qpIelxuv) | 4:17 |
+| 84 | [Damnation](https://open.spotify.com/track/0WmOcqYZxdtZV1zehFFkQh) | [BeMauve](https://open.spotify.com/artist/7fUlvrZXa9b5tc7XCKySHq) | [Damnation](https://open.spotify.com/album/6ytOXRWpY1J684AWQq9d0t) | 4:07 |
+| 85 | [CLOWN TOWN](https://open.spotify.com/track/2vUsPkvVZfewhZTs05ipvb) | [Wikka](https://open.spotify.com/artist/1PTXGpEQqVfBYjv5sGbfjq) | [SLUDGE](https://open.spotify.com/album/1AamHYpsA0SpBZhn4x01BF) | 2:28 |
+| 86 | [Would Be Better](https://open.spotify.com/track/4caeJi0QJyfrgCwcfS5XZU) | [Luan Luan](https://open.spotify.com/artist/1TRI5G2cp3GkZ2itd8IIMG) | [Would Be Better](https://open.spotify.com/album/7wHaSk8Rc42ZLzHCTKJbZH) | 3:54 |
+| 87 | [AMIGOS](https://open.spotify.com/track/6OBUF3YnAuiVJFcmMYVQYV) | [Muk Zen](https://open.spotify.com/artist/6fpSO2jPZo4TGmsFRLMBYv) | [AMIGOS](https://open.spotify.com/album/7kdkuaPkb7hxAn62YURevg) | 3:11 |
+| 88 | [Hoary Light](https://open.spotify.com/track/5VZCZYaOsBrZtF7i3jy2P4) | [RawGrow](https://open.spotify.com/artist/5Q0kT0kscaMSJ56bRv1VAF) | [Hoary Light](https://open.spotify.com/album/2k2Qu1YN9FI3O2ALMCq9Gy) | 3:08 |
+| 89 | [A different face](https://open.spotify.com/track/2Rg295NxrG2fN2HQcvAfib) | [Eternalize](https://open.spotify.com/artist/0gxYWBKorYdHOkDcnMLDsf) | [The way home](https://open.spotify.com/album/4xO88KLM8NjEHYpQhXbJgV) | 4:12 |
 
-Snapshot ID: `AAANckh7ap2M4cY4fXjG6a4iMoUyo/EH`
+Snapshot ID: `AAANeuLIdja05s6t7rOhGPI5y9wOHuSJ`

@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 617,
+  "num_followers": 616,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAADGt3CI9p3icWBziUQItB66PtJhw5V",
+  "snapshot_id": "AAADHvYuWC0dYddrs4vM/SyQDmKYpE59",
   "tracks": [
     {
       "added_at": "2026-02-15 20:35:35",
@@ -667,6 +667,70 @@
       "duration_ms": 184833,
       "name": "The Party",
       "url": "https://open.spotify.com/track/3MDPDsTbteMtMytdsvMLBB"
+    },
+    {
+      "added_at": "2026-02-28 16:51:05",
+      "album": {
+        "name": "Last Goodbye",
+        "url": "https://open.spotify.com/album/52T9LF5wyA24Vz0qI7C5SE"
+      },
+      "artists": [
+        {
+          "name": "Softcase",
+          "url": "https://open.spotify.com/artist/2nqXZfwOxBVcKjVa7pYdC8"
+        }
+      ],
+      "duration_ms": 197489,
+      "name": "Last Goodbye",
+      "url": "https://open.spotify.com/track/5SdEoelq5gFFHzpxGeqi1W"
+    },
+    {
+      "added_at": "2026-02-28 17:07:33",
+      "album": {
+        "name": "Ready 4 Ya",
+        "url": "https://open.spotify.com/album/04iI7eTuLE1jmHCu3nsaH6"
+      },
+      "artists": [
+        {
+          "name": "Uneekint",
+          "url": "https://open.spotify.com/artist/73no0Yxs5lkOd6fCl7UgzI"
+        }
+      ],
+      "duration_ms": 116951,
+      "name": "Ready 4 Ya",
+      "url": "https://open.spotify.com/track/4lif5tsojBx55AhtDsyWh8"
+    },
+    {
+      "added_at": "2026-02-28 17:28:29",
+      "album": {
+        "name": "The Fuzes Best Of",
+        "url": "https://open.spotify.com/album/16zoHx9wW6EVMvPDo1sha5"
+      },
+      "artists": [
+        {
+          "name": "The Fuzes",
+          "url": "https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA"
+        }
+      ],
+      "duration_ms": 177710,
+      "name": "Hey Woman",
+      "url": "https://open.spotify.com/track/08JpU2mT1TLwxZme4pAHU5"
+    },
+    {
+      "added_at": "2026-02-28 17:32:37",
+      "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/0sEWclT1yWwNlQfnPRJ9v4"
+      },
+      "artists": [
+        {
+          "name": "Lilly Sweetness",
+          "url": "https://open.spotify.com/artist/3TwZJUhz6tKt6OxFPNf4fu"
+        }
+      ],
+      "duration_ms": 234039,
+      "name": "Let Me Be Me",
+      "url": "https://open.spotify.com/track/4xDKzurISthaAbD6NzOy75"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Featuring new cuts from DJ\_Dave, Ms\* Gloom, Effie, MRD, + more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,489 likes - 100 songs - 5 hr 34 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,490 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Amabbi, LAI$ROSA, GvsnoBeat
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,659 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,678 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Pescador](https://open.spotify.com/track/7fOVvOSh1AWx8YXzg9xYMv) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [CHF](https://open.spotify.com/artist/1HNVz8Sg0CzK1um1QNB7qS) | [Pescador](https://open.spotify.com/album/2rEPgcwYtaEZTLqVld2bRg) | 3:07 |
 | 75 | [Já Dizia Minha Vó](https://open.spotify.com/track/13fzwFXbkD6q1RhDOO3bne) | [Mrasta](https://open.spotify.com/artist/4LATAzZazW5gcrunD9TMLs), [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Já Dizia Minha Vó](https://open.spotify.com/album/0wS9IQlF84VE1InPq8XT2C) | 2:39 |
 
-Snapshot ID: `AAAAAEzt1dVV5MCnelP/FUVJcJK9+0k+`
+Snapshot ID: `AAAAAPtOPXTIahtsgRNRnVqmpqTdJzdd`

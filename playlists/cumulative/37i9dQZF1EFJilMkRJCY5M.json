@@ -1651,6 +1651,24 @@
     },
     {
       "album": {
+        "name": "When the Money Runs Out",
+        "url": "https://open.spotify.com/album/1a8Qi4Py6my4IxQAjWoPFK"
+      },
+      "artists": [
+        {
+          "name": "Roman Alexander",
+          "url": "https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170066,
+      "name": "Lethal",
+      "url": "https://open.spotify.com/track/7k0n8cQ0XUxDU5209qcE07"
+    },
+    {
+      "album": {
         "name": "Little Things",
         "url": "https://open.spotify.com/album/78qFqIAO3RIsGmqgBLDtFt"
       },
@@ -2858,6 +2876,24 @@
       "duration_ms": 185440,
       "name": "Somebody Else's Somebody",
       "url": "https://open.spotify.com/track/2kI1DffKDMBuq5R0MTI2S6"
+    },
+    {
+      "album": {
+        "name": "Heartbreak Worktapes Vol. 2",
+        "url": "https://open.spotify.com/album/0k9RnyrVHo7mvgdug6CVxp"
+      },
+      "artists": [
+        {
+          "name": "Palmer Anthony",
+          "url": "https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181636,
+      "name": "Somehow, Some Way, Somewhere, Some Day - Worktape",
+      "url": "https://open.spotify.com/track/3mPNkTNYIt14YD75wbbEhM"
     },
     {
       "album": {

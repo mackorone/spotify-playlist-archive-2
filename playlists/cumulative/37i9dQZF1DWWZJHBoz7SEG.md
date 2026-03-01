@@ -4,7 +4,7 @@
 
 > Febrero se va, pero el mood se queda: rolitas prendidas y cero ganas de bajarle, Bruno Mars en portada
 
-11,385 songs - 25 day 11 hr 2 min
+11,386 songs - 25 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -11114,6 +11114,7 @@
 | [Ya No Es Lo Mismo](https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Ya No Es Lo Mismo](https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG) | 3:49 | 2023-09-15 | 2023-09-23 |
 | [Ya no estoy aquí](https://open.spotify.com/track/72ERVQD9a4KEnLEssH4mg7) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Ya no estoy aquí](https://open.spotify.com/album/2L2rLbtvGZDkJdSHCAOdh6) | 3:22 | 2022-04-22 | 2022-04-29 |
 | [Ya No Estás](https://open.spotify.com/track/60nOmFyaDvEeb8v8D6Y6gx) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Ya No Estás](https://open.spotify.com/album/7KgIRu2wQh0z8S3x41KnK6) | 4:22 | 2025-02-14 | 2025-02-22 |
+| [Ya No Hay Diversión](https://open.spotify.com/track/76z2s7kCzHX0aN8r1vhpFu) | [Andie Gago](https://open.spotify.com/artist/2R5LEUDIhf0yxB5hQtXacJ) | [Ya No Soy Tan Cool \(Deluxe\)](https://open.spotify.com/album/6ysFEJKf8RALz59cyHGsEu) | 2:33 | 2026-02-28 |  |
 | [Ya No Lloro Por Ti](https://open.spotify.com/track/38zjErQuN1wDu1V6GtuG3H) | [La Quinna](https://open.spotify.com/artist/7LGuLcZGN3C0UCqg1vuDb5) | [Ya No Lloro Por Ti](https://open.spotify.com/album/0j9SxmdZ6B28PNTbvBwdF2) | 2:32 | 2026-01-02 | 2026-01-15 |
 | [Ya No Me Hables](https://open.spotify.com/track/2evewrPsMc78CG7U3ftWCo) | [Sergi](https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv), [KID FLEX](https://open.spotify.com/artist/3MG0nEhYET2TCkegY1QBP6) | [KID & SERGI: VOL I](https://open.spotify.com/album/3Wd5eZzeDgn4cT1j2DW4MF) | 2:59 | 2022-02-25 | 2022-03-05 |
 | [YA NO ME HABLES BB](https://open.spotify.com/track/4iK2IJiT6Nsi59RZYWiKAV) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX), [Linea Personal](https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ) | [YA NO ME HABLES BB](https://open.spotify.com/album/2rcT4b8TurR1HYtq2Y4MQG) | 3:00 | 2024-09-13 | 2024-09-21 |
@@ -11127,7 +11128,7 @@
 | [Ya No Se Puede](https://open.spotify.com/track/7zvdb0JfwwfYRAok8nwwfW) | [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Nueva H](https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S) | [Ya No Se Puede](https://open.spotify.com/album/4L80PEHVqVjYESFzaZGwDA) | 2:14 | 2026-02-27 |  |
 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya No Somos Ni Seremos](https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo) | 3:05 | 2022-02-18 | 2022-02-26 |
 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/2hvKsgtrjMKbHKvmiGmiBP) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc), [Yahir](https://open.spotify.com/artist/1bqHIHJm8coUJqqoguolZJ) | [Ya No Somos Ni Seremos](https://open.spotify.com/album/7DfpBtFBAUBWvFhcdJpAZU) | 3:27 | 2024-11-22 | 2024-11-30 |
-| [Ya No Soy Tan Cool](https://open.spotify.com/track/4yVgN4I70OQCDv6dy2Mitf) | [Andie Gago](https://open.spotify.com/artist/2R5LEUDIhf0yxB5hQtXacJ) | [Ya No Soy Tan Cool](https://open.spotify.com/album/4UTCUeOIGIsqqgROdKZXXW) | 3:14 | 2026-02-27 |  |
+| [Ya No Soy Tan Cool](https://open.spotify.com/track/4yVgN4I70OQCDv6dy2Mitf) | [Andie Gago](https://open.spotify.com/artist/2R5LEUDIhf0yxB5hQtXacJ) | [Ya No Soy Tan Cool](https://open.spotify.com/album/4UTCUeOIGIsqqgROdKZXXW) | 3:14 | 2026-02-27 | 2026-03-01 |
 | [Ya No Te Esperaré](https://open.spotify.com/track/5qJMvyGIJryYsDQ8SVStQ0) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Ya No Te Esperaré](https://open.spotify.com/album/6CpwgrssmzTfRoL1QHEjmy) | 3:28 | 2023-09-29 | 2023-10-07 |
 | [YA NO TE EXTRAÑO](https://open.spotify.com/track/70XGqzcK8c7GdVbr5begBH) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [YA NO TE EXTRAÑO](https://open.spotify.com/album/4RO9yfmO1QjZUklszKC4Ts) | 3:10 | 2023-12-08 | 2023-12-16 |
 | [Ya No Te Hago Falta \(Con Ed Maverick\)](https://open.spotify.com/track/6UaIXNg4TUkpI9QGQYlFYi) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [Ya No Te Hago Falta \(Con Ed Maverick\)](https://open.spotify.com/album/5tClj2DV2p4LFruoL4mYrS) | 2:38 | 2025-02-21 | 2025-03-01 |

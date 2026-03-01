@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Yung Maynie
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,520 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,523 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 21 | [priceless](https://open.spotify.com/track/2zfvZzXyIwx0FdGoDU2WWC) | [DRIZZZ](https://open.spotify.com/artist/1cr4aKJ1SFmSVZBbmukJB0) | [priceless](https://open.spotify.com/album/5cKMkx7iZApXWZunQ2nQTN) | 2:43 |
 | 22 | [Waist Up](https://open.spotify.com/track/1AHqfSNljYdDWucUYSkjx0) | [Juiceboxx](https://open.spotify.com/artist/63ogWsfipDtWKUz9IaiI33) | [Waist Up](https://open.spotify.com/album/3TqRlRn2nBR9W0Zk4gedmJ) | 2:35 |
 | 23 | [Always Was](https://open.spotify.com/track/7oeF9QZEmNiAtslGRYUNHd) | [Yung Maynie](https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI) | [Always Was](https://open.spotify.com/album/4kLGsifJgXpx04RwfjQMZb) | 2:25 |
-| 24 | [Feel Like Uzi](https://open.spotify.com/track/2vzJT80pIxibhmIKzKM2s4) | [Jonny Chopps](https://open.spotify.com/artist/0fd9HlnFdsNSBrIMHluGrS) | [Free WIll](https://open.spotify.com/album/0Kcg9yfX92odxyVS0hgYO8) | 2:36 |
+| 24 | [Feel Like Uzi](https://open.spotify.com/track/2vzJT80pIxibhmIKzKM2s4) | [Jonny Chopps](https://open.spotify.com/artist/0fd9HlnFdsNSBrIMHluGrS) | [Free Will](https://open.spotify.com/album/0Kcg9yfX92odxyVS0hgYO8) | 2:36 |
 | 25 | [Good for Nothing](https://open.spotify.com/track/7dHhOqDWXb4AWi9a3TXxOn) | [DOBBY](https://open.spotify.com/artist/1RW4O0kc1TxXivUceZyPad) | [Good for Nothing](https://open.spotify.com/album/3rqF3UZr31VlrG6J5uywM9) | 3:30 |
 | 26 | [PHUB](https://open.spotify.com/track/7sxhYc77TLlzwcngXPDI7C) | [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs) | [PHUB](https://open.spotify.com/album/7ok21RJ2PDTpW5kQSMCjaD) | 1:57 |
 | 27 | [Supply n Demand](https://open.spotify.com/track/53r2uA9UHGsDVCqqP3IQjP) | [VV\-Ace](https://open.spotify.com/artist/58oXnUjX5TvylYa3gGNxca) | [Supply n Demand](https://open.spotify.com/album/6iSyx8SepBQbhnGpblB8Ge) | 1:49 |

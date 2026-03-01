@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Virgoun
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,415 likes - 111 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,423 likes - 111 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 2 | [Rumah dan Baju Barumu](https://open.spotify.com/track/6FESOv2mvZiZPG65JVAnjT) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Rumah dan Baju Barumu](https://open.spotify.com/album/6prlq1THHNcyLk2g0gkBwg) | 4:38 |
 | 3 | [Kini](https://open.spotify.com/track/751Bz5vVIURh0R5tafZ2L1) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [KIM](https://open.spotify.com/artist/1ltPgn4r3rgK3NcpJZScIp), [Neida](https://open.spotify.com/artist/6B19mPGcc9M5LmRwJLVhys) | [Yovie and His Friends: Kini & Selamanya](https://open.spotify.com/album/431WArkt1kXceTtCPmtnrQ) | 3:25 |
 | 4 | [Sembuh Tanpaku](https://open.spotify.com/track/77cyLF8OxRJxbdQ5Pb9lST) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Sembuh Tanpaku](https://open.spotify.com/album/6AmdOHPpZxhdo4ob7Ehkf6) | 4:37 |
-| 5 | [Jantung Samudra](https://open.spotify.com/track/3eTukrKJBaJZMemLVRycwJ) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Jantung Samudra](https://open.spotify.com/album/0zFdnteznJblNnXZhi71mn) | 3:21 |
+| 5 | [Jantung Samudra \(Haya \- Nyi Roro Kidul Theme Song\)](https://open.spotify.com/track/3eTukrKJBaJZMemLVRycwJ) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX), [Honor of Kings Indonesia](https://open.spotify.com/artist/5aXtu4HI1PMk7Wqwm70lvh) | [Jantung Samudra](https://open.spotify.com/album/0zFdnteznJblNnXZhi71mn) | 3:21 |
 | 6 | [Kuharap Duka Ini Selamanya](https://open.spotify.com/track/4VCmXihNaBZdnVNWOIk7NC) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Kuharap Duka Ini Selamanya](https://open.spotify.com/album/35jjxX4BwfJxWjr2MpRAts) | 4:22 |
 | 7 | [Melati](https://open.spotify.com/track/4koI5WbXEXwrO2dhbfErvS) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Melati](https://open.spotify.com/album/5m0VWZtQpAYtYdnZLh7R4d) | 2:56 |
 | 8 | [Iqro'](https://open.spotify.com/track/1w0tQpNChqgM7oBWsV3erJ) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Iqro'](https://open.spotify.com/album/1tfOH9j7lcUsCMByB3j6RC) | 3:54 |

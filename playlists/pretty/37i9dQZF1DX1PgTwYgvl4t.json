@@ -1,12 +1,12 @@
 {
   "description": "Strictly Nigerian worship songs. Cover: <a href=https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe?si=Eijv-JdSTCumhjsWkOSU6Q>Folabi Nuel</a>",
-  "num_followers": 103926,
+  "num_followers": 104005,
   "original_name": "Naija Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ56Whmk6m6B5sWKzzhelO83f/ad",
+  "snapshot_id": "AAAAACi96EnVr+pL6+9WhWJc5OG55A34",
   "tracks": [
     {
       "added_at": "2026-02-27 00:01:20",
@@ -231,6 +231,26 @@
       "duration_ms": 326186,
       "name": "Adun - Acoustic",
       "url": "https://open.spotify.com/track/6U6GLUbyFxsQJZw1iFfkc8"
+    },
+    {
+      "added_at": "2026-02-28 14:05:09",
+      "album": {
+        "name": "Ebak Zala Z'Ovu (II)",
+        "url": "https://open.spotify.com/album/1slivS0rdHFiVpl6OHYihN"
+      },
+      "artists": [
+        {
+          "name": "Hi-Bred",
+          "url": "https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8"
+        },
+        {
+          "name": "Grace Akakam",
+          "url": "https://open.spotify.com/artist/6RxBaERGqQUh8s7IW6ebDV"
+        }
+      ],
+      "duration_ms": 294324,
+      "name": "Ebak Zala Z'Ovu (II)",
+      "url": "https://open.spotify.com/track/6jzAHmnTyz72Ha1o2b3pNi"
     },
     {
       "added_at": "2026-02-27 00:01:20",

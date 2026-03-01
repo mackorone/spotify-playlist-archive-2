@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Tulum szn\. Cover: MËSTIZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,422 likes - 403 songs - 1 day 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,433 likes - 403 songs - 1 day 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

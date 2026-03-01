@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/71L6ZAisLtzcDO2PVDXkCl">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-346 songs - 18 hr 4 min
+347 songs - 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [KILLA KILLA](https://open.spotify.com/track/3PcpDQwqxPcm3AvZJGg4Lt) | [GALXARA](https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC) | [KILLA KILLA](https://open.spotify.com/album/5bLFyyKx0j9E5W7n35ZNiv) | 2:32 | 2021-12-27 |  |
 | [Killed by Death](https://open.spotify.com/track/2mnb8s87G241uXAiGL79KP) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 2:18 | 2021-12-27 |  |
 | [King Size Bed](https://open.spotify.com/track/078pXymemqeV5DH00w6cBa) | [Katie Wighton](https://open.spotify.com/artist/41CNj1cWdeOjG7M5m8bTut) | [King Size Bed](https://open.spotify.com/album/0Dwo0yFwvBovZSJvQGGkbt) | 2:58 | 2021-12-27 | 2025-11-26 |
+| [King Size Bed](https://open.spotify.com/track/5otwN9Mn79pn7POXm5vZFk) | [Katie Wighton](https://open.spotify.com/artist/41CNj1cWdeOjG7M5m8bTut) | [Katie Wighton](https://open.spotify.com/album/1Py4Muj45TeIkRsfDjFDVn) | 2:58 | 2026-02-28 |  |
 | [Knife Went In](https://open.spotify.com/track/1zjcpWgj97g2QggKaLbHkl) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Knife Went In](https://open.spotify.com/album/3NkrN8x8bqnsv82BejvpoR) | 3:39 | 2023-08-10 | 2023-09-26 |
 | [Knife Went In](https://open.spotify.com/track/5bBDvz7EAuVlPTlwKxSf7l) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Avalanche](https://open.spotify.com/album/6XP23DjYr0NNJZMjVlnPAo) | 3:39 | 2023-09-25 |  |
 | [Know U Anymore \(feat\. Sarah Hyland\)](https://open.spotify.com/track/6Ufv48wYcNp822At8Q4k7w) | [BoTalks](https://open.spotify.com/artist/3wjluyWXDHiiMKxkhaW1em), [Sarah Hyland](https://open.spotify.com/artist/7icfzHg2AhHxy65PU58rCP) | [Know U Anymore](https://open.spotify.com/album/73JMf3o63Tvh9CKx5yrr7N) | 3:11 | 2021-12-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > aquí están las joyas escondidas del 2025, elegidas por tus editores 🙂‍↕️
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,918 likes - 115 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,916 likes - 115 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 45 | [Octubre](https://open.spotify.com/track/5li1TvCfdNVZclNOWI9zVS) | [Cerounno](https://open.spotify.com/artist/5KpmLKI7ktzNzQL13J95Pf), [Vinyltracker](https://open.spotify.com/artist/3C1LbhIokOcNVlfGF9k6Qz) | [Octubre](https://open.spotify.com/album/77dT4Zu1Zhy0i7ppHZHIp4) | 2:36 |
 | 46 | [CORA DE HIELO \(feat\. Natt Calma\) – Spotify Sessions](https://open.spotify.com/track/75AL7s9h64TNHPNhfficbw) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH) | [RØZ – Spotify Sessions](https://open.spotify.com/album/00KpVHcDHe6LV4sPlPOvgA) | 4:53 |
 | 47 | [No estaba tan mal](https://open.spotify.com/track/3xSBUtVPeIxD9kiLHcKxx7) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [C.A.P.S](https://open.spotify.com/album/6HlzENT5LIAZoVq8LjP0iR) | 2:43 |
-| 48 | [pensé en ti \(feat\. Caloncho\)](https://open.spotify.com/track/46Z3waLIm9pBhiI5dA6dyt) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Quizá no es para tanto](https://open.spotify.com/album/1D6abDGoj5W44nsKkhm9dB) | 3:56 |
+| 48 | [pensé en ti \(feat\. Caloncho\) \(feat\. Caloncho\)](https://open.spotify.com/track/46Z3waLIm9pBhiI5dA6dyt) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Quizá no es para tanto](https://open.spotify.com/album/1D6abDGoj5W44nsKkhm9dB) | 3:56 |
 | 49 | [Aliados en un viaje](https://open.spotify.com/track/4trsLciy3dlxlFaaXpAmmY) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Divididos](https://open.spotify.com/album/5umNRvNHP6ubJNA8q5Da8v) | 5:47 |
 | 50 | [24/7](https://open.spotify.com/track/42UeFcOi6FTnUYvC73MbzI) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [GAD](https://open.spotify.com/album/3BhIIm6DEgqUXGc5np42a0) | 3:22 |
 | 51 | [El Ritmo](https://open.spotify.com/track/6cZaunet5DpuYtLbLecHli) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Vándalos](https://open.spotify.com/album/4sPqEkPXMrI8DoxnuOKWhT) | 5:09 |

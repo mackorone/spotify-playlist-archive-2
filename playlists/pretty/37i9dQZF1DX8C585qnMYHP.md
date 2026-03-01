@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by Experimental independent artists\. <a href="spotify:artist:2gSV6FsMxBBH01LLNgx6HU">Babau</a> on cover\. Artwork by Thami Nabil, photo by Stefania Zanetti
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,298 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,305 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

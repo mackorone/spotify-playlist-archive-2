@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: Lil Kleine
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,367 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,380 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,18 +12,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 2 | [OKE](https://open.spotify.com/track/0blCMImJHiB3rKxitkLeEP) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [OKE](https://open.spotify.com/album/4hetmZqSFCsYS4QKYh4jf9) | 2:35 |
 | 3 | [Shoulder Lean](https://open.spotify.com/track/3FMy6QQ9L7DIKRwXeXvzpP) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm), [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p), [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ) | [Shoulder Lean](https://open.spotify.com/album/2LUOPrx3vuEzFGMqZeR0Hl) | 2:34 |
 | 4 | [Lekker voor je](https://open.spotify.com/track/4ElhIoBu7sQuLvvP7fhAzq) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Lekker voor je](https://open.spotify.com/album/2WSf26RUwoJuVXk8xkUxXj) | 1:31 |
-| 5 | [Broke](https://open.spotify.com/track/0FgZJIyEzNEJdeeHbRDIe4) | [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs) | [Broke](https://open.spotify.com/album/6aXLk4I0vYBcGjAp11Clfj) | 1:47 |
-| 6 | [Toedels!](https://open.spotify.com/track/6AmhyeFjiw2s8313ruZuIg) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3) | [Toedels!](https://open.spotify.com/album/7bDArl46fkgXYxKqxSrKqf) | 2:52 |
+| 5 | [Toedels!](https://open.spotify.com/track/6AmhyeFjiw2s8313ruZuIg) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3) | [Toedels!](https://open.spotify.com/album/7bDArl46fkgXYxKqxSrKqf) | 2:52 |
+| 6 | [Broke](https://open.spotify.com/track/0FgZJIyEzNEJdeeHbRDIe4) | [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs) | [Broke](https://open.spotify.com/album/6aXLk4I0vYBcGjAp11Clfj) | 1:47 |
 | 7 | [No Handouts](https://open.spotify.com/track/2F2LGTyc3kiP7a1wfJUd1J) | [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El) | [No Handouts](https://open.spotify.com/album/4vMtK9zOVRcop68ypi29jK) | 3:36 |
 | 8 | [Patser](https://open.spotify.com/track/0zTKvfSa0CLzav90AfZvQa) | [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Patser](https://open.spotify.com/album/2VYzkX2SSNBS6ZL8lYdYA6) | 2:24 |
 | 9 | [Op Een Go](https://open.spotify.com/track/5MFDSAWYjuWNZIKmhbBCJQ) | [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs), [Bokke8](https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB), [GS](https://open.spotify.com/artist/2KR13mWlgztgIek6BlS7hA) | [Op Een Go](https://open.spotify.com/album/6cxZ9ynUSmr9HxXRMPrjvH) | 2:57 |
-| 10 | [Fashionweek](https://open.spotify.com/track/3AsS2rFZd9yvysDmPIXkDk) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [F\*CK KLEINE](https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7) | 2:29 |
+| 10 | [Psycholoog](https://open.spotify.com/track/3LiNpN9qg5p2wJAnQum1Yt) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [F\*CK KLEINE](https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7) | 3:14 |
 | 11 | [AMG Met Matje](https://open.spotify.com/track/5ggvkkbCuV1rh01Ey8KoUY) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [AMG Met Matje](https://open.spotify.com/album/2OAo3a49XmUBYcb5gAtOzP) | 3:27 |
 | 12 | [Brrrr 🥶🇨🇦](https://open.spotify.com/track/5Zyaa1GakQxEVdnZ8bF2kQ) | [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk) | [Brrrr 🥶🇨🇦](https://open.spotify.com/album/6hzdVWNgtKMtRW2xtXIzER) | 2:19 |
 | 13 | [Dure Geintje](https://open.spotify.com/track/0LAQc7pyZaVxo7C6czJ7rz) | [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Dure Geintje](https://open.spotify.com/album/6rfemzDVUuIj377RFJlXhr) | 2:16 |
-| 14 | [Psycholoog](https://open.spotify.com/track/3LiNpN9qg5p2wJAnQum1Yt) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [F\*CK KLEINE](https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7) | 3:14 |
-| 15 | [Kraslot](https://open.spotify.com/track/1joA71Sm3YHfHA8kjAIJk4) | [Drechter](https://open.spotify.com/artist/0yZtrEIjvzoZSNoSNrY5Gj), [Hekje31](https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [JayEliano](https://open.spotify.com/artist/1cKw3DLJk6yhRbSjsiv0Re) | [Kraslot](https://open.spotify.com/album/5UIAIc3JgDiIa53hPhef4O) | 3:36 |
-| 16 | [Mobil 1](https://open.spotify.com/track/480RzRw1ZHGk3bdNvV8ou6) | [NOBODYPANICC](https://open.spotify.com/artist/4JIZ3k1lKVbM61RPGN6QTg) | [Mobil 1](https://open.spotify.com/album/6wl6Jg6VNNWzhEZZ2SQoXB) | 2:48 |
+| 14 | [Kraslot](https://open.spotify.com/track/1joA71Sm3YHfHA8kjAIJk4) | [Drechter](https://open.spotify.com/artist/0yZtrEIjvzoZSNoSNrY5Gj), [Hekje31](https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [JayEliano](https://open.spotify.com/artist/1cKw3DLJk6yhRbSjsiv0Re) | [Kraslot](https://open.spotify.com/album/5UIAIc3JgDiIa53hPhef4O) | 3:36 |
+| 15 | [Mobil 1](https://open.spotify.com/track/480RzRw1ZHGk3bdNvV8ou6) | [NOBODYPANICC](https://open.spotify.com/artist/4JIZ3k1lKVbM61RPGN6QTg) | [Mobil 1](https://open.spotify.com/album/6wl6Jg6VNNWzhEZZ2SQoXB) | 2:48 |
+| 16 | [Fashionweek](https://open.spotify.com/track/3AsS2rFZd9yvysDmPIXkDk) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [F\*CK KLEINE](https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7) | 2:29 |
 | 17 | [CHOSSEL BABY](https://open.spotify.com/track/6igUXLlbjCE1mocZR7048w) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI) | [CHOSSEL BABY](https://open.spotify.com/album/5XqJtZNvt8GUAfxTZp5u8c) | 2:32 |
 | 18 | [Dawgs Out](https://open.spotify.com/track/0NgcDz7iEEkM2MUWeX9c5M) | [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O), [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf) | [Dawgs Out](https://open.spotify.com/album/6eM5ZgA4P9K2lUYQriw3sj) | 3:02 |
 | 19 | [David Blaine](https://open.spotify.com/track/2TAL7pGuP2QWsv93LqjMhZ) | [Lostt](https://open.spotify.com/artist/2zvq4i4GGwZ6T5CmWcjJkk) | [David Blaine](https://open.spotify.com/album/0UhqjwUWfPr6L9TkeLrBbt) | 2:26 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [Alcantara](https://open.spotify.com/track/6PBgiQ0JVfHBBidyIBQHMe) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [Alcantara](https://open.spotify.com/album/4w79VeLMd0PpNWE4Q66zfR) | 3:47 |
 | 60 | [Was Machst Du](https://open.spotify.com/track/3fJOhEiy7FNUpxUrHMtFmE) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [Was Machst Du](https://open.spotify.com/album/2O6ObeXY5q7me8jpCQjhu3) | 3:10 |
 
-Snapshot ID: `AAAAAAPnUNIiXWwgY3fp7d9DwVF21bQL`
+Snapshot ID: `AAAAADjUTnqdLpRYU5a+ZKaJCaNKanNW`

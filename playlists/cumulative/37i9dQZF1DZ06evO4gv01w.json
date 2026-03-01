@@ -2704,7 +2704,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 181624,
       "name": "She's A Self Made Man",
       "url": "https://open.spotify.com/track/5wTeGGSnCrWl9b0rqNi9Qr"
@@ -2722,7 +2722,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 181624,
       "name": "She's A Self Made Man",
       "url": "https://open.spotify.com/track/688EzbJ3fiB8zKwArQdZkK"
@@ -3078,7 +3078,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 217000,
       "name": "String Theory",
       "url": "https://open.spotify.com/track/2ZtOqWd72Bt9hOlSvkiKjI"
@@ -3306,6 +3306,24 @@
       "duration_ms": 248626,
       "name": "That's Not The Part Of Him You're Leaving",
       "url": "https://open.spotify.com/track/4YGHGOsDtXZpWiN6s2Ziag"
+    },
+    {
+      "album": {
+        "name": "The Gray House (Original Soundtrack From the Amazon Series)",
+        "url": "https://open.spotify.com/album/1AdKCZKrCgn4IALU4grzqO"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292869,
+      "name": "The Devil's Boat - From The Gray House Original Soundtrack",
+      "url": "https://open.spotify.com/track/62kKtLqtYgzKNiug9baIAe"
     },
     {
       "album": {

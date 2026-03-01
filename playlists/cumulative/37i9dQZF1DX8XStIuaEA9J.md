@@ -4,7 +4,7 @@
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: Snow Man
 
-1,597 songs - 3 day 19 hr 41 min
+1,598 songs - 3 day 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [CHAOS](https://open.spotify.com/track/0zeE7GWhYlWink9gQgAsQ6) | [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD) | [CHAOS](https://open.spotify.com/album/7jo87kWPoxGUeoBCYxTztz) | 3:39 | 2024-03-26 | 2024-04-03 |
 | [Charon](https://open.spotify.com/track/1McwU7KXAl4hpx5VOFSZBe) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Charon](https://open.spotify.com/album/7MRzv4kEwUZQEucCdgjjs4) | 2:40 | 2025-10-21 | 2025-12-03 |
 | [Chateaubriand](https://open.spotify.com/track/5Yvl3ajuwsVUW8qzQjEb5E) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Chateaubriand](https://open.spotify.com/album/72mW7ri5d3jzvpPXB3KXcI) | 3:47 | 2025-06-03 | 2025-07-02 |
+| [Chatter Chatter](https://open.spotify.com/track/3f2HnVPKvQ19QvYrjBMUiX) | [宝鐘マリン](https://open.spotify.com/artist/5XaBNKQo65yYcjNA8wQPOk), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [Chatter Chatter](https://open.spotify.com/album/28eckMCFWtXKYswQDPL8Ov) | 2:57 | 2026-02-28 |  |
 | [Cheat Life \(feat\. punchnello\)\(prod\. by GRAY\)](https://open.spotify.com/track/25ZpVBEhPmKuMwJHVbUXIG) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn), [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv) | [Cheat Life \(feat\. punchnello\)\(prod\. by GRAY\)](https://open.spotify.com/album/3Tk0EPZRaUwlNyRhrUFxOL) | 2:34 | 2023-11-23 | 2023-12-13 |
 | [Cheese](https://open.spotify.com/track/6CipFOB3WDUzbgigSutqi1) | [SG](https://open.spotify.com/artist/216arN9tLMMn2ltwEAxmF5) | [Cheese](https://open.spotify.com/album/5Toh9RskrYrwIbHvSLrClI) | 3:20 | 2024-05-21 | 2024-06-12 |
 | [Cheese \(feat\. Manaka\)](https://open.spotify.com/track/1Q2vHLsoQYqF2JJluCMUMS) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [Manaka](https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN) | [Cheese \(feat\. Manaka\)](https://open.spotify.com/album/0qnGjnpfdidRbo8nOi2F9F) | 2:45 | 2026-01-14 | 2026-02-11 |

@@ -4,7 +4,7 @@
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Dubdogz
 
-847 songs - 1 day 22 hr 47 min
+847 songs - 1 day 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,7 @@
 | [Everything To Lose](https://open.spotify.com/track/3lXUkAnDOEzxkxaCmv0jRZ) | [Pontifexx](https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s), [Rafa Gerazo](https://open.spotify.com/artist/0i8xi3BFQf4Q6pN80svgmq) | [Everything To Lose](https://open.spotify.com/album/0yTrnyss34XSk8sOU9qTTg) | 2:38 | 2024-10-18 | 2025-02-04 |
 | [Everytime I See You](https://open.spotify.com/track/5RJDYanOGdOkN1weW29QPc) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx) | [Everytime I See You](https://open.spotify.com/album/1bONxhxluLRruXau72MsZt) | 3:43 | 2025-03-24 | 2025-06-28 |
 | [Evil](https://open.spotify.com/track/3I82UgyI4rzaXSwAGJvvfw) | [TAWWA](https://open.spotify.com/artist/6yBHf0snZYUKr4CWZC50N6), [Scorz](https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn) | [Evil](https://open.spotify.com/album/6LmICPiQ7WCGs2KnJHXfQ1) | 2:30 | 2025-11-14 | 2026-02-21 |
-| [Ex Machina](https://open.spotify.com/track/40rQKPdcEUr83krJCaNUvz) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Ex Machina](https://open.spotify.com/album/7Fb34mkumndAU8Lc5421C1) | 2:40 | 2026-02-27 |  |
+| [Ex Machina](https://open.spotify.com/track/40rQKPdcEUr83krJCaNUvz) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Ex Machina](https://open.spotify.com/album/7Fb34mkumndAU8Lc5421C1) | 2:01 | 2026-02-27 |  |
 | [Eyes](https://open.spotify.com/track/0Zx3np2HJ3He2QJS0wG9Ex) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Eyes](https://open.spotify.com/album/5n40WLofQwmG7dsgewDyzR) | 2:47 | 2024-09-20 | 2025-01-18 |
 | [EYES](https://open.spotify.com/track/77UBLe8jlRIxn8AsouUtS1) | [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx) | [EYES](https://open.spotify.com/album/02vJlON5DhAy9I73azuKcx) | 3:33 | 2025-12-19 |  |
 | [Eyes on You](https://open.spotify.com/track/3DzxBsy3GI8rshXNv60w5r) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD) | [Eyes on You](https://open.spotify.com/album/3UMHY86wgLajNDQP0jw3AK) | 3:08 | 2025-03-17 | 2025-06-20 |

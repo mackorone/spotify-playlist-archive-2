@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to jan-feb 2026",
-  "num_followers": 24173,
+  "num_followers": 24170,
   "original_name": "now is not the time, the time is now",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAN8ugMmvSxiReGQa0fKp+J+9vGVKOe",
+  "snapshot_id": "AAAN9JNvq/Z2XgxOmPBSlQG9akO3faqu",
   "tracks": [
     {
       "added_at": "2026-01-08 20:03:59",
@@ -1071,6 +1071,42 @@
       "duration_ms": 194173,
       "name": "Married Man's a Fool",
       "url": "https://open.spotify.com/track/4adw6ESNlVjwuVuOjCdGrJ"
+    },
+    {
+      "added_at": "2026-02-28 17:19:49",
+      "album": {
+        "name": "Strange But True",
+        "url": "https://open.spotify.com/album/3W9DFhaDMjjAjCsGaMbopg"
+      },
+      "artists": [
+        {
+          "name": "Jad Fair",
+          "url": "https://open.spotify.com/artist/3xx5PhUhJZ9ADhd7RlC00C"
+        },
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "duration_ms": 168866,
+      "name": "Embarrassed Teen Accidentally Uses Valuable Rare Postage Stamp",
+      "url": "https://open.spotify.com/track/6uO4p4uNbPknjd6rQOPeEZ"
+    },
+    {
+      "added_at": "2026-02-28 19:16:28",
+      "album": {
+        "name": "First And Last Waltz",
+        "url": "https://open.spotify.com/album/4pP5l3tZAmZgcdE4bJP6AK"
+      },
+      "artists": [
+        {
+          "name": "Country Girl Kay",
+          "url": "https://open.spotify.com/artist/13Fih6xK79er6DVucSwvlQ"
+        }
+      ],
+      "duration_ms": 107533,
+      "name": "Bluebird Yodel",
+      "url": "https://open.spotify.com/track/5BJ5oq7wKalQCazcumfItE"
     }
   ],
   "unique_name": "now is not the time, the time is now",

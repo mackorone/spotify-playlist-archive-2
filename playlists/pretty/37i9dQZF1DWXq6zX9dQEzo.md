@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,668 likes - 150 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,785 likes - 150 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 149 | [R U READY?](https://open.spotify.com/track/2ZshKa5yKsFna7WsBqiGoD) | [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I), [BURKS](https://open.spotify.com/artist/3xSb1IsvobiCiuhtKokzqr) | [TRILLMATIKK](https://open.spotify.com/album/1oy4EUcgstj42dmQI0mrEC) | 3:21 |
 | 150 | [BACK OUTSIDE](https://open.spotify.com/track/6eRSb2uLyScpC2qvDhY5X0) | [Christopher Syncere](https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u) | [BACK OUTSIDE](https://open.spotify.com/album/5UrL9HgkeX2zCIdPg3Y28G) | 2:16 |
 
-Snapshot ID: `AAAAACk7JdXadiekcWlsgoC6ghpnQ2BG`
+Snapshot ID: `AAAAAPYv3qsuBgv+pMEOFJ6g3xmybEg+`

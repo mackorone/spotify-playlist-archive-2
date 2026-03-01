@@ -2,7 +2,7 @@
 
 ### [Fresh Hits](https://open.spotify.com/playlist/37i9dQZF1DWYrgs30Ir8ow)
 
-> Altijd frisse hits! Cover: BLACKPINK
+> Altijd frisse hits! Cover: Alex Warren
 
 1,238 songs - 2 day 12 hr 21 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 
 > Stream your favourite trending tracks and discover new jams along the way! Cover: Doja Cat.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 43,172 likes - 99 songs - 5 hr 25 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 43,165 likes - 99 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 | 13 | [Morning Comes](https://open.spotify.com/track/78n5hMSMF5vL01YEqSCRaS) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Morning Comes](https://open.spotify.com/album/4YhN9CPv5jlRKsP4b5EHaE) | 4:11 |
 | 14 | [Ends In Y](https://open.spotify.com/track/6DMzMl75NFXqyMgtQy2KYg) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions: An Unexpected Turn of Events](https://open.spotify.com/album/3FvYnph2PkFCVoUkjUpMCE) | 2:53 |
 | 15 | [Stimulated](https://open.spotify.com/track/4YbOnkvXUMHh2Mm0zSdtD9) | [Tia Wood](https://open.spotify.com/artist/0NPcTqtChsRP52BHjPGJLC) | [Stimulated](https://open.spotify.com/album/0Xo8Bp20KFSp5gRB7Za1YQ) | 3:16 |
-| 16 | [Bloom \(feat\. Lou Xtwo\) \- afro house edit](https://open.spotify.com/track/6jT46sVx9YP1tPI1SYONhk) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4), [Lou Xtwo](https://open.spotify.com/artist/2DB3V4DUCCRFqLIYQTWr6Z) | [Bloom \(re\-imagined\)](https://open.spotify.com/album/2LfRcEIXXWYAfy2Qn50FRH) | 4:13 |
+| 16 | [Bloom \(feat\. Lou Xtwo\) \- afro house edit](https://open.spotify.com/track/6jT46sVx9YP1tPI1SYONhk) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4), [Lou Xtwo](https://open.spotify.com/artist/7k5fnVM7UaT6HMxqbV6bhz) | [Bloom \(re\-imagined\)](https://open.spotify.com/album/2LfRcEIXXWYAfy2Qn50FRH) | 4:13 |
 | 17 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 |
 | 18 | [White Keys](https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [White Keys](https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c) | 2:24 |
 | 19 | [Badlands \(with Gracie Abrams\)](https://open.spotify.com/track/1kSdbaUZOEQTC8RmoxOYeA) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Prizefighter](https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0) | 2:58 |

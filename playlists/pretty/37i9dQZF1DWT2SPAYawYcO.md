@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Bruno Mars, RAYE, The Temper Trap, Alex Warren, Gorillaz + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,030 likes - 88 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,037 likes - 88 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 77 | [Rally 2000](https://open.spotify.com/track/7knLh7CRL9yRZbMmQTWoZZ) | [Gin & Tonic](https://open.spotify.com/artist/6OXghR7PioEyyg0OyrxAfu) | [Rally 2000](https://open.spotify.com/album/2wrxDF8VEIpuImheQSrkjT) | 3:06 |
 | 78 | [BAD GIRLS](https://open.spotify.com/track/36M4adnqibiKG5zJWWau8p) | [WHO SHOT SCOTT](https://open.spotify.com/artist/4INpCNtJho77CQ6ZOfk5lP) | [BAD GIRLS](https://open.spotify.com/album/4GinnAVVCX7d0T3EA9M5cP) | 3:29 |
 | 79 | [You Have Been Blessed](https://open.spotify.com/track/7idM3k12zC9u0wckoDIFRq) | [EXEK](https://open.spotify.com/artist/7ldGIajEfZUsa38eyvJ04V) | [You Have Been Blessed](https://open.spotify.com/album/0bq3II9Uj1J9wb94NnA439) | 5:07 |
-| 80 | [Feel Like Uzi](https://open.spotify.com/track/2vzJT80pIxibhmIKzKM2s4) | [Jonny Chopps](https://open.spotify.com/artist/0fd9HlnFdsNSBrIMHluGrS) | [Free WIll](https://open.spotify.com/album/0Kcg9yfX92odxyVS0hgYO8) | 2:36 |
+| 80 | [Feel Like Uzi](https://open.spotify.com/track/2vzJT80pIxibhmIKzKM2s4) | [Jonny Chopps](https://open.spotify.com/artist/0fd9HlnFdsNSBrIMHluGrS) | [Free Will](https://open.spotify.com/album/0Kcg9yfX92odxyVS0hgYO8) | 2:36 |
 | 81 | [You’re With Me](https://open.spotify.com/track/48sKvLrVxcTFQR867g0Xr3) | [Martin King](https://open.spotify.com/artist/3KFmcF2UXE7B1BJbVa7gvX) | [You’re With Me](https://open.spotify.com/album/0iLHVAXW5GSNd56bVlHeek) | 4:10 |
 | 82 | [Talking to Ghosts](https://open.spotify.com/track/0AVnIiTL0DFJ7mnfEVTlly) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [Talking to Ghosts](https://open.spotify.com/album/5auWxx9W3VrHM07XecExN5) | 2:23 |
 | 83 | [Monster Of The Week](https://open.spotify.com/track/1162azpImsWdxITT4Lv0ZI) | [Cry Club](https://open.spotify.com/artist/41KaTg5AhCYSn2MUUJq0P3) | [Monster of the Week](https://open.spotify.com/album/4ZR8T4ES1ezH3KC9MawK1Q) | 3:20 |

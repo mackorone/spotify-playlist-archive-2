@@ -1,15 +1,31 @@
 {
-  "description": "Altijd frisse hits! Cover: BLACKPINK",
-  "num_followers": 35496,
+  "description": "Altijd frisse hits! Cover: Alex Warren",
+  "num_followers": 35533,
   "original_name": "Fresh Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGDOGp49uN8gCXVrlozBJisQWPSa",
+  "snapshot_id": "AAAAAMil7t1EvFgCpu9Uu8Z7Dt3BhoeZ",
   "tracks": [
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
+      "album": {
+        "name": "FEVER DREAM",
+        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 153430,
+      "name": "FEVER DREAM",
+      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
+    },
+    {
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "DEADLINE",
         "url": "https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "F*CK KLEINE",
         "url": "https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/3AsS2rFZd9yvysDmPIXkDk"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "Uitslover",
         "url": "https://open.spotify.com/album/6YDru2ioziRTAmmZ4iDZS6"
@@ -65,23 +81,7 @@
       "url": "https://open.spotify.com/track/3HUpSJBn9COpunhZJczbQw"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
-      "album": {
-        "name": "FEVER DREAM",
-        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 153430,
-      "name": "FEVER DREAM",
-      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
-    },
-    {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "Op Een Go",
         "url": "https://open.spotify.com/album/6cxZ9ynUSmr9HxXRMPrjvH"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/5MFDSAWYjuWNZIKmhbBCJQ"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "iloveitiloveitiloveit",
         "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "Loco Loco",
         "url": "https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "Drag Path",
         "url": "https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "Lekker voor je",
         "url": "https://open.spotify.com/album/2WSf26RUwoJuVXk8xkUxXj"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/4ElhIoBu7sQuLvvP7fhAzq"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "Die For Me",
         "url": "https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "WTBBA?!",
         "url": "https://open.spotify.com/album/6Hf8nJKRNM5kGyZgZspFVQ"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/4hv657Sw8KmupQAjzPHfEM"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "White Keys",
         "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "Zijn Probleem",
         "url": "https://open.spotify.com/album/5QmQVkCS2ESWm4wWl12DML"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/7FJo5nWEp80SJsJ4ibkkof"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "Dure Geintje",
         "url": "https://open.spotify.com/album/6rfemzDVUuIj377RFJlXhr"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/0LAQc7pyZaVxo7C6czJ7rz"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "Birkin Bag",
         "url": "https://open.spotify.com/album/6VpPRW97yPW13qE4ClURQo"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/3gKXEoSctLCasuL2jHWgW5"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "Hoe Dan Ook",
         "url": "https://open.spotify.com/album/48y0r6I9Doq8nYpury8Yh8"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/2zaoK6oYu2bJOOuSQyJeD8"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "ICEMAN FREESTYLE",
         "url": "https://open.spotify.com/album/2WffTc00muxCNZhwopltsi"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/0YskQDMYYgtxyFp1yTabRu"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "Tot Het Eind Van Mij",
         "url": "https://open.spotify.com/album/5j5NTP6nC9pSNzmxkyaARU"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/1JA5D5dsSgVn9cSr7ogzfC"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "OCTANE",
         "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "Reset",
         "url": "https://open.spotify.com/album/01YPoXB22upTPnELbZ1UBw"
@@ -373,7 +373,7 @@
       "url": "https://open.spotify.com/track/0aF8AteBjXo1mh3Yrc8ge4"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "Drive Safe",
         "url": "https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "Dansvloer Dilemma",
         "url": "https://open.spotify.com/album/4NMMzxRCxS2ndNubwAznAF"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/5hm19T0tQzMHTnC3lZA8PC"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "Januari",
         "url": "https://open.spotify.com/album/6xe6bnCzdGhuWI5PUl3qpp"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/6bEUzaKcHiKH5B9L1eH9Rc"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
@@ -445,7 +445,7 @@
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "AMG Met Matje",
         "url": "https://open.spotify.com/album/2OAo3a49XmUBYcb5gAtOzP"
@@ -465,7 +465,7 @@
       "url": "https://open.spotify.com/track/5ggvkkbCuV1rh01Ey8KoUY"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "girl, get up. (feat. SZA)",
         "url": "https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS"
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "IJSLAND 2",
         "url": "https://open.spotify.com/album/1qwQoDUVZNAGP8g9vBoHug"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/3uKQQH67pV4dsJIR6SML8z"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "Dark Before The Dawn",
         "url": "https://open.spotify.com/album/5IDysKWEasAmRL0GtLQaLb"
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/7p1zQqPlC3gju243x8BTYZ"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "GIOVANNI II",
         "url": "https://open.spotify.com/album/54TRy2dAPI0J6Og5seK2MA"
@@ -545,7 +545,7 @@
       "url": "https://open.spotify.com/track/13c77IilGVzMcrOFO8rHlb"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "In De Olie",
         "url": "https://open.spotify.com/album/0qlqsjGYkJvx7GIALA9ZDn"
@@ -561,7 +561,7 @@
       "url": "https://open.spotify.com/track/7pZRkJjCXGwP2h59EfFZxy"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/42tGduNh3nIT5NGsUDqcKY"
@@ -577,7 +577,7 @@
       "url": "https://open.spotify.com/track/0fy5enlfWgIP2ojLZjUcwA"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "The Great Divide",
         "url": "https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N"
@@ -593,7 +593,7 @@
       "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "She",
         "url": "https://open.spotify.com/album/5ctwYNecOlD65X81p0RHhl"
@@ -609,7 +609,7 @@
       "url": "https://open.spotify.com/track/4nidpqxJxWkpI1J1cQYIjX"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "De Ene Hand Wast De Ander (Deluxe)",
         "url": "https://open.spotify.com/album/4kiNumKo95FBrtwmIC6uF5"
@@ -625,7 +625,7 @@
       "url": "https://open.spotify.com/track/1jP8mOe5joQg5isHUTukcg"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "What You Saying",
         "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
@@ -641,7 +641,7 @@
       "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "If Not Now Then When",
         "url": "https://open.spotify.com/album/4BK0XMjnJQfMWgQWgyii8b"
@@ -657,7 +657,7 @@
       "url": "https://open.spotify.com/track/4bVs6e8fpoS9sVPDHp7oo9"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "BEND OVA",
         "url": "https://open.spotify.com/album/5tOsyH5JHocaAJBojCyCNL"
@@ -677,7 +677,7 @@
       "url": "https://open.spotify.com/track/05wK2fpzjb29klShjaamxJ"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "Hey Son",
         "url": "https://open.spotify.com/album/6wKpxhTWl6HtdreIFPSbpq"
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/0OiNRfziXYdxP5I3ysqeuz"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "Dans Gewoon",
         "url": "https://open.spotify.com/album/3PvUWA9XY1FQhKikmc5NK6"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/3YrzQVu7wdv1d5MO2DvVdl"
     },
     {
-      "added_at": "2026-02-27 05:00:39",
+      "added_at": "2026-02-28 23:12:36",
       "album": {
         "name": "POSSESSION",
         "url": "https://open.spotify.com/album/6ihNq8bZ2OicMm12ZAHUip"

@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 141333,
       "name": "50 CENT",
       "url": "https://open.spotify.com/track/27f62QDRVencjisrZxarp9"
@@ -1788,7 +1788,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 210000,
       "name": "Aeroplana",
       "url": "https://open.spotify.com/track/3lS1r65AbkPdljhDrRQEyV"
@@ -5018,7 +5018,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 180000,
       "name": "ASTEIO",
       "url": "https://open.spotify.com/track/2j17FJiRlXhuf0gqoyFSza"
@@ -5044,7 +5044,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 237125,
       "name": "Asteria",
       "url": "https://open.spotify.com/track/62ErMQlE4ub2GvtKdwy7id"
@@ -13799,6 +13799,28 @@
     },
     {
       "album": {
+        "name": "Metropolis",
+        "url": "https://open.spotify.com/album/0r5nD6gx0StXdEVLmdJFjV"
+      },
+      "artists": [
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        },
+        {
+          "name": "Melow",
+          "url": "https://open.spotify.com/artist/6AIQTOOpTjnDu66SLPNN61"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196651,
+      "name": "Dromologia",
+      "url": "https://open.spotify.com/track/6nRxHVlvoNJH74wkfQUbTP"
+    },
+    {
+      "album": {
         "name": "Drop",
         "url": "https://open.spotify.com/album/3LVTpj9wvRAfeV522lbRaP"
       },
@@ -16588,7 +16610,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 173308,
       "name": "Exigiste Mou",
       "url": "https://open.spotify.com/track/3hqEXohUvBy76CKAxK2A9R"
@@ -18868,7 +18890,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 186122,
       "name": "FWTIA",
       "url": "https://open.spotify.com/track/4NJzucf3s44ZN2E7kcoE0a"
@@ -19810,6 +19832,36 @@
       "duration_ms": 162278,
       "name": "GIA MENA",
       "url": "https://open.spotify.com/track/46dgrkhAaXe9VELYpS7D8A"
+    },
+    {
+      "album": {
+        "name": "Metropolis",
+        "url": "https://open.spotify.com/album/0r5nD6gx0StXdEVLmdJFjV"
+      },
+      "artists": [
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        },
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
+        },
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        },
+        {
+          "name": "Melow",
+          "url": "https://open.spotify.com/artist/6AIQTOOpTjnDu66SLPNN61"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263056,
+      "name": "Gia Mia Mera",
+      "url": "https://open.spotify.com/track/077O8CMDH8oED1YGATZLHR"
     },
     {
       "album": {
@@ -21302,6 +21354,28 @@
       "duration_ms": 188852,
       "name": "GUZMAN",
       "url": "https://open.spotify.com/track/6P9P1j0v2KiDu4vxW3T1WS"
+    },
+    {
+      "album": {
+        "name": "Metropolis",
+        "url": "https://open.spotify.com/album/0r5nD6gx0StXdEVLmdJFjV"
+      },
+      "artists": [
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        },
+        {
+          "name": "Melow",
+          "url": "https://open.spotify.com/artist/6AIQTOOpTjnDu66SLPNN61"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202431,
+      "name": "Gyalinos Dromeas",
+      "url": "https://open.spotify.com/track/0vpWNB6yOXadBWhpArZpHR"
     },
     {
       "album": {
@@ -28260,7 +28334,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 109115,
       "name": "LETRA",
       "url": "https://open.spotify.com/track/3eFqTDfADWUYxVnfpSAlRY"
@@ -29008,6 +29082,28 @@
       "duration_ms": 173538,
       "name": "LOLO",
       "url": "https://open.spotify.com/track/61ZDRnJAlqTkNOB2cKvMcX"
+    },
+    {
+      "album": {
+        "name": "Metropolis",
+        "url": "https://open.spotify.com/album/0r5nD6gx0StXdEVLmdJFjV"
+      },
+      "artists": [
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        },
+        {
+          "name": "GoldenChild",
+          "url": "https://open.spotify.com/artist/5p5s48lCsujHviP7XFXth0"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226806,
+      "name": "Lonarid & Lonalgal",
+      "url": "https://open.spotify.com/track/73DAX8q4Xo2LuZtX3zwu88"
     },
     {
       "album": {
@@ -35977,6 +36073,28 @@
     },
     {
       "album": {
+        "name": "Metropolis",
+        "url": "https://open.spotify.com/album/0r5nD6gx0StXdEVLmdJFjV"
+      },
+      "artists": [
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        },
+        {
+          "name": "GoldenChild",
+          "url": "https://open.spotify.com/artist/5p5s48lCsujHviP7XFXth0"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201167,
+      "name": "Nyxterinoi Ekfonites",
+      "url": "https://open.spotify.com/track/2yroc2uLlKqI9oE9fuvTBa"
+    },
+    {
+      "album": {
         "name": "Ki2d",
         "url": "https://open.spotify.com/album/4APMq2g1qGMZxkuHrgqO6q"
       },
@@ -36478,6 +36596,28 @@
       "duration_ms": 203708,
       "name": "Oh Shit",
       "url": "https://open.spotify.com/track/1WzaVtOgPWZ4FZp0W2L4wv"
+    },
+    {
+      "album": {
+        "name": "Metropolis",
+        "url": "https://open.spotify.com/album/0r5nD6gx0StXdEVLmdJFjV"
+      },
+      "artists": [
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        },
+        {
+          "name": "Melow",
+          "url": "https://open.spotify.com/artist/6AIQTOOpTjnDu66SLPNN61"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240032,
+      "name": "Oi Pio Oraies Mas Stigmes",
+      "url": "https://open.spotify.com/track/16ZVkwpiBmHFdJAIS7kvtM"
     },
     {
       "album": {
@@ -37350,7 +37490,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-26",
+      "date_removed": null,
       "duration_ms": 166800,
       "name": "OPWS EGW",
       "url": "https://open.spotify.com/track/0Sr2dBNlujbvwSk29BiGA9"
@@ -38128,7 +38268,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 167251,
       "name": "PALI",
       "url": "https://open.spotify.com/track/48tcwflLj2v1mDsPQnjxN7"
@@ -41210,7 +41350,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 169811,
       "name": "Prezi",
       "url": "https://open.spotify.com/track/7pm3I8p2MWYcjEyZKoVMcd"
@@ -41228,7 +41368,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 235000,
       "name": "Primo",
       "url": "https://open.spotify.com/track/484mTE7ETTJk74VKjTTI5f"
@@ -44014,7 +44154,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 178089,
       "name": "Sandra",
       "url": "https://open.spotify.com/track/73KYTCSbVlj5E02qWj8DPF"
@@ -45247,6 +45387,28 @@
     },
     {
       "album": {
+        "name": "Metropolis",
+        "url": "https://open.spotify.com/album/0r5nD6gx0StXdEVLmdJFjV"
+      },
+      "artists": [
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        },
+        {
+          "name": "Melow",
+          "url": "https://open.spotify.com/artist/6AIQTOOpTjnDu66SLPNN61"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205878,
+      "name": "Sin City",
+      "url": "https://open.spotify.com/track/2t0C57rB44nVDgFuFIwC7P"
+    },
+    {
+      "album": {
         "name": "SIN PLIN",
         "url": "https://open.spotify.com/album/6WbBTOHSCSD603ym4WfURh"
       },
@@ -46424,6 +46586,32 @@
       "duration_ms": 123000,
       "name": "SPEEDEX",
       "url": "https://open.spotify.com/track/0SwtTrZ9iJMGSvcXprOmeT"
+    },
+    {
+      "album": {
+        "name": "Metropolis",
+        "url": "https://open.spotify.com/album/0r5nD6gx0StXdEVLmdJFjV"
+      },
+      "artists": [
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        },
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        },
+        {
+          "name": "Melow",
+          "url": "https://open.spotify.com/artist/6AIQTOOpTjnDu66SLPNN61"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221378,
+      "name": "Spicy Mayo",
+      "url": "https://open.spotify.com/track/1AkciqGsV74kaBpBZOkWHS"
     },
     {
       "album": {
@@ -49180,6 +49368,28 @@
       "duration_ms": 144000,
       "name": "Tetradima",
       "url": "https://open.spotify.com/track/1Jj52gWq2sZ5tnqZwFCFId"
+    },
+    {
+      "album": {
+        "name": "Metropolis",
+        "url": "https://open.spotify.com/album/0r5nD6gx0StXdEVLmdJFjV"
+      },
+      "artists": [
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        },
+        {
+          "name": "Melow",
+          "url": "https://open.spotify.com/artist/6AIQTOOpTjnDu66SLPNN61"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147466,
+      "name": "Texas",
+      "url": "https://open.spotify.com/track/32KK1EcjPmeGP5ae1gtDBJ"
     },
     {
       "album": {
@@ -55454,6 +55664,32 @@
       "duration_ms": 245896,
       "name": "Your Power",
       "url": "https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD"
+    },
+    {
+      "album": {
+        "name": "Metropolis",
+        "url": "https://open.spotify.com/album/0r5nD6gx0StXdEVLmdJFjV"
+      },
+      "artists": [
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        },
+        {
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+        },
+        {
+          "name": "Melow",
+          "url": "https://open.spotify.com/artist/6AIQTOOpTjnDu66SLPNN61"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252923,
+      "name": "Ypostega",
+      "url": "https://open.spotify.com/track/3YWpgirDgb7LRKwhUKztBZ"
     },
     {
       "album": {

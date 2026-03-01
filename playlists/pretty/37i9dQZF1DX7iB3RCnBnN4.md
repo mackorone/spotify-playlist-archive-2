@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > Celebrating all the songs with more than a billion streams on Spotify\. Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 871,702 likes - 1,194 songs - 3 day 0 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 872,215 likes - 1,194 songs - 3 day 0 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

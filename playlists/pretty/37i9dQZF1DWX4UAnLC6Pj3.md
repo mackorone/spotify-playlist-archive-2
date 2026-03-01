@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! Banda Clave Nueva 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,297,304 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,297,444 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 99 | [El Tabaco Mascado](https://open.spotify.com/track/4y0vFpMhPsoqMegFw25hos) | [Banda Playa Grande](https://open.spotify.com/artist/22Mt7QupEbM69UrYe7wRl0) | [El Tabaco Mascado](https://open.spotify.com/album/1LpTtZQLPxLzM7tdoqVsck) | 2:43 |
 | 100 | [De Mi Enamórate](https://open.spotify.com/track/5yV9MNJ54l58QaHqm5lrHP) | [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD), [Juleny Favela](https://open.spotify.com/artist/5WAyGFOR3rjQnPMa6oUnKj), [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci), [Johanna Cota](https://open.spotify.com/artist/6bm7uU9sg4Fm6MVQ6Rovi2) | [De Mi Enamórate](https://open.spotify.com/album/1Uuwm9dLAENLFkQcXhEGfL) | 4:26 |
 
-Snapshot ID: `AAAAAOmCx2kQep2wytHfsNZtJwLoKrTK`
+Snapshot ID: `AAAAAP6r7TsBa9cp7bGyqMADbFtUq5Hm`

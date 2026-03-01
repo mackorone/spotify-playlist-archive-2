@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-4,990 songs - 11 day 8 hr 49 min
+4,991 songs - 11 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -656,6 +656,7 @@
 | [Can't Let You Go](https://open.spotify.com/track/7E6KF4tYddZGxtBqv9J7YA) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Bantu](https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom) | [Can't Let You Go](https://open.spotify.com/album/3qzTRlqS7SH1Ea3KggjQuw) | 2:34 | 2024-11-15 | 2024-11-23 |
 | [Can't Let You Go](https://open.spotify.com/track/3AQsOVkdBgPMODxH1exZMR) | [JYH](https://open.spotify.com/artist/36R62sqgB3eyqLawx6Qqgc) | [Can't Let You Go](https://open.spotify.com/album/4jAbNZ4ZDQE4RueceSFgMz) | 3:13 | 2024-08-09 | 2024-08-16 |
 | [Can't Live Without Your Love \- Darren Porter Remix](https://open.spotify.com/track/1LwshbxiX6vQmXL0x04pNi) | [Mark Sherry](https://open.spotify.com/artist/3mvBDVwojbFc7hmDIgoIHH), [Marcella Woods](https://open.spotify.com/artist/3fX4ESsQJXkOXSGW4FsB1c), [Darren Porter](https://open.spotify.com/artist/04b2pmUXaBL8wHacSaOplA) | [Can't Live Without Your Love \(Darren Porter Remix\)](https://open.spotify.com/album/2KxcA5Tr36HDjmAO8WiJyo) | 4:00 | 2025-11-28 | 2025-12-06 |
+| [Can't Slow Down](https://open.spotify.com/track/2KywvbBKDE19v1MqLp52W6) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [Can't Slow Down](https://open.spotify.com/album/1YANR1WSpn28SnFdn2SG4k) | 2:08 | 2026-02-28 |  |
 | [Can't Stop](https://open.spotify.com/track/7amg9RKDxNCu3Zj9mq3kPq) | [BARAKAT](https://open.spotify.com/artist/6t4oxmktTeIiYNTHlnAm4L) | [Can't Stop](https://open.spotify.com/album/6RBzJMdRAADOTAMoaJH8cO) | 2:34 | 2025-04-24 | 2025-05-10 |
 | [Can't Stop](https://open.spotify.com/track/4lsHkNkJccz58VrEmA1o3q) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Can't Stop / Boogie In Your Butt](https://open.spotify.com/album/2C6HCPyMAHTDtS8jdpssiW) | 3:25 | 2024-06-16 | 2024-06-21 |
 | [Can't Stop Now \(Don't Go\)](https://open.spotify.com/track/3Mmz4VHeHFjx3tmqwrkFsj) | [Indecent Noise](https://open.spotify.com/artist/6g3WgXMkGuNv3fKtXvz6wA) | [Can't Stop Now \(Don't Go\)](https://open.spotify.com/album/2mzcG1LAkdXHSeZ9Jzyq8e) | 3:15 | 2024-10-04 | 2024-10-12 |
@@ -1315,7 +1316,7 @@
 | [Everytime We Touch](https://open.spotify.com/track/2iANaOu9ypAYmuiHf1QoIa) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Everytime We Touch](https://open.spotify.com/album/75jf8Uf0t4ZWYdNZO5qOfU) | 2:43 | 2025-09-12 | 2025-09-20 |
 | [Everywhere To Me](https://open.spotify.com/track/2tlhmNfXy3dNV4T46RFkBG) | [Factor B](https://open.spotify.com/artist/4OUavLWUepaSy6MNjkNS3g), [Theia](https://open.spotify.com/artist/6e37WZLCCQ1rQbpcpaZrkk) | [Everywhere To Me](https://open.spotify.com/album/69shF46x5NOTv0BHxzKeUa) | 4:36 | 2024-05-24 | 2024-06-01 |
 | [Evil Acid](https://open.spotify.com/track/3rNQvYJ8wkX3Zx87Qzi1gB) | [Rene Ablaze](https://open.spotify.com/artist/6rXpyi122Zalz9VORZB1xd) | [Evil Acid](https://open.spotify.com/album/1RQi61KbJjAKYEHHCs0VYB) | 3:07 | 2025-02-13 | 2025-02-22 |
-| [Ex Machina](https://open.spotify.com/track/40rQKPdcEUr83krJCaNUvz) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Ex Machina](https://open.spotify.com/album/7Fb34mkumndAU8Lc5421C1) | 2:40 | 2026-02-26 |  |
+| [Ex Machina](https://open.spotify.com/track/40rQKPdcEUr83krJCaNUvz) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Ex Machina](https://open.spotify.com/album/7Fb34mkumndAU8Lc5421C1) | 2:01 | 2026-02-26 |  |
 | [Exhausted \- the split](https://open.spotify.com/track/6bU2iCRNxxQIYsKHdEGWnN) | [rom](https://open.spotify.com/artist/6S8H5q8qw6YJwOygSvuihS) | [Act 1](https://open.spotify.com/album/3s4WVJHqjDlqGXj68kWQew) | 2:27 | 2024-09-20 | 2024-09-27 |
 | [Exhilarate \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/077XTAiMeMkjv6Tz464t0r) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Exhilarate \(feat\. Bibi Bourelly\)](https://open.spotify.com/album/2hRxMeM5JeYjHLjGRrQ3lL) | 4:23 | 2024-08-30 | 2024-09-06 |
 | [Exist](https://open.spotify.com/track/7JbQt4Rn0BZ5R9bKfDmL3L) | [TVLI](https://open.spotify.com/artist/5HuSOEpwCwZOEVcMNSq1Hj) | [Exist](https://open.spotify.com/album/6J3GvME029tmBrWdvkzWUv) | 3:45 | 2025-03-07 | 2025-03-15 |

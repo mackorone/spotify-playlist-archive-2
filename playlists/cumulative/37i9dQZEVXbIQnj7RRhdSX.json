@@ -3410,7 +3410,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 184803,
       "name": "Amelie",
       "url": "https://open.spotify.com/track/0O5KcmgOeEgublW6ySQ6Vc"
@@ -3618,7 +3618,7 @@
       ],
       "date_added": "2025-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 188918,
       "name": "Amore Disperato",
       "url": "https://open.spotify.com/track/0h7djzQOTBHcNaKD8k449b"
@@ -14526,7 +14526,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 165922,
       "name": "DAVVERODAVVERO",
       "url": "https://open.spotify.com/track/6bdTp8Jkp3IAU15rVPWFuJ"
@@ -24987,6 +24987,24 @@
     },
     {
       "album": {
+        "name": "Casa Paradiso",
+        "url": "https://open.spotify.com/album/3zg425tc9QDKx3vvEnQSjU"
+      },
+      "artists": [
+        {
+          "name": "Tommaso Paradiso",
+          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239967,
+      "name": "I romantici",
+      "url": "https://open.spotify.com/track/3UUqp8cf3sWFSmxw6r0Tqm"
+    },
+    {
+      "album": {
         "name": "I romantici",
         "url": "https://open.spotify.com/album/6QXhh6j3OifW2hTvVWXbVW"
       },
@@ -24998,7 +25016,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 239967,
       "name": "I romantici",
       "url": "https://open.spotify.com/track/3X6VETSe1orqobaME0KTzQ"
@@ -29440,10 +29458,32 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 208621,
       "name": "La felicit\u00e0 e basta",
       "url": "https://open.spotify.com/track/2NmvOrVquVRNNKUPOGx3xe"
+    },
+    {
+      "album": {
+        "name": "Luna di Miele",
+        "url": "https://open.spotify.com/album/4YFEwElV1KmgqW1G60Ptso"
+      },
+      "artists": [
+        {
+          "name": "Maria Antonietta",
+          "url": "https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb"
+        },
+        {
+          "name": "Colombre",
+          "url": "https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208621,
+      "name": "La felicit\u00e0 e basta",
+      "url": "https://open.spotify.com/track/2Nxwny65nNZ0lYeT9p2gOq"
     },
     {
       "album": {
@@ -33968,10 +34008,28 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 184720,
       "name": "MANIFESTAZIONE D'AMORE",
       "url": "https://open.spotify.com/track/4CVzKDQSP7dZOzca7vQvsH"
+    },
+    {
+      "album": {
+        "name": "GRANDI SUCCESSI",
+        "url": "https://open.spotify.com/album/0YCxr5WiOLY1xQp79275Dn"
+      },
+      "artists": [
+        {
+          "name": "Mazzariello",
+          "url": "https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184720,
+      "name": "MANIFESTAZIONE D'AMORE",
+      "url": "https://open.spotify.com/track/5Ydf2WBhw0PVcvqJtpXNAw"
     },
     {
       "album": {
@@ -38542,7 +38600,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 223834,
       "name": "Nessuna",
       "url": "https://open.spotify.com/track/5bhYjElbPmm2FyB0PxP8Wd"
@@ -40266,7 +40324,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 187698,
       "name": "Non \u00e8 mica te",
       "url": "https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD"
@@ -53489,6 +53547,24 @@
     },
     {
       "album": {
+        "name": "Funzioni Vitali",
+        "url": "https://open.spotify.com/album/4IPUuyazmb3slWXpLYuiBX"
+      },
+      "artists": [
+        {
+          "name": "Ermal Meta",
+          "url": "https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198906,
+      "name": "Stella stellina",
+      "url": "https://open.spotify.com/track/0ilKgZv8wYHoVhHrZHnCHd"
+    },
+    {
+      "album": {
         "name": "Stella stellina",
         "url": "https://open.spotify.com/album/0wVfHOSUm3hEgjPL3VtnvS"
       },
@@ -53500,7 +53576,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 198906,
       "name": "Stella stellina",
       "url": "https://open.spotify.com/track/2wNoBWBMt1bpoAzPX2lAi0"
@@ -56726,7 +56802,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 217593,
       "name": "Tristano e Isotta",
       "url": "https://open.spotify.com/track/7dFfkSJrAHnUdKM5jaUOLt"
@@ -58657,6 +58733,24 @@
     },
     {
       "album": {
+        "name": "NON GUARDARE + GI\u00d9",
+        "url": "https://open.spotify.com/album/6vHMRrFFPBdyDYGDottid8"
+      },
+      "artists": [
+        {
+          "name": "Tredici Pietro",
+          "url": "https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217458,
+      "name": "uomo che cade",
+      "url": "https://open.spotify.com/track/04D9HzwC1Re1anayHhJNKb"
+    },
+    {
+      "album": {
         "name": "uomo che cade",
         "url": "https://open.spotify.com/album/5sy7D2BvqumKXW4WalI8xj"
       },
@@ -58668,7 +58762,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 217458,
       "name": "uomo che cade",
       "url": "https://open.spotify.com/track/3vwObRd71oUa145riRt42O"

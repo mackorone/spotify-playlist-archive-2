@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > indie folk latino de estación\. Foto: LAIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,598 likes - 95 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,600 likes - 95 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

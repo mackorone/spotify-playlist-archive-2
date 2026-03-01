@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy music\. Cover: DON BROCO, Nickelback
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,919 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,892 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 99 | [Make Me A Martyr](https://open.spotify.com/track/6x8YTiGS4Sa5kbkYK0osG8) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Make Me A Martyr](https://open.spotify.com/album/4EJd4T4OTp8P0YPjW2h569) | 3:55 |
 | 100 | [GASOLINE](https://open.spotify.com/track/4HGEwC9WRC2NMVtIkaC5ye) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [GASOLINE](https://open.spotify.com/album/2ZL64l82SA1HN5EX06b4Kg) | 3:08 |
 
-Snapshot ID: `AAAAAIQExbfJ+fl1Byrh6NsRVbo7PW9J`
+Snapshot ID: `AAAAACyEJqviHnXL78y+tcaMfWxA6O3E`

@@ -3332,7 +3332,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 154347,
       "name": "Darkest Days",
       "url": "https://open.spotify.com/track/5J1uPPobS3ZpxMrt9lrMsX"
@@ -7782,7 +7782,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 108833,
       "name": "It's Not a Costume",
       "url": "https://open.spotify.com/track/0a5EnEZetMFbTQlQPq7u4Y"
@@ -9687,6 +9687,24 @@
     },
     {
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/71cTC1mD5o4PpWsFLTw21s"
+      },
+      "artists": [
+        {
+          "name": "Empired",
+          "url": "https://open.spotify.com/artist/1ktOD59jIqHniqPFgmHNOr"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232935,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/7sVpYaGW7qZxbBs9tx52AC"
+    },
+    {
+      "album": {
         "name": "Monkey business",
         "url": "https://open.spotify.com/album/0w3VzPSFsWYGkYxOn1uIUF"
       },
@@ -10411,6 +10429,24 @@
     },
     {
       "album": {
+        "name": "no.fucks",
+        "url": "https://open.spotify.com/album/7ziAUh0927IcQqWQueOp6m"
+      },
+      "artists": [
+        {
+          "name": "neuroboy",
+          "url": "https://open.spotify.com/artist/16u0a3mpcphw4Fkr7AGUrC"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "no.fucks",
+      "url": "https://open.spotify.com/track/3fMNF2npGKxToYRe3HHYVq"
+    },
+    {
+      "album": {
         "name": "Profondo Rosso",
         "url": "https://open.spotify.com/album/2gEACwgO3Ai5NuSuxFjyRY"
       },
@@ -10960,7 +10996,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 237542,
       "name": "Out of Sight",
       "url": "https://open.spotify.com/track/2ZWhP6xzlkiPXxvk6aap1a"
@@ -11144,6 +11180,24 @@
       "duration_ms": 185595,
       "name": "Pax Humana (remaster)",
       "url": "https://open.spotify.com/track/1ghVtuSyq2HfBJccvrQc5h"
+    },
+    {
+      "album": {
+        "name": "Arabesque",
+        "url": "https://open.spotify.com/album/3Ci9lnpfoobOGL3XIS12Y7"
+      },
+      "artists": [
+        {
+          "name": "King-Mob",
+          "url": "https://open.spotify.com/artist/6AtM0lknJzg2W9TXmSqhks"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276426,
+      "name": "Pendulum Days",
+      "url": "https://open.spotify.com/track/1qZ6g0mIS1mPOtMsNAwhQU"
     },
     {
       "album": {
@@ -16350,6 +16404,24 @@
       "duration_ms": 269165,
       "name": "Viva R\u00e1pido",
       "url": "https://open.spotify.com/track/2z1MgbekwalIeE18JOxeFE"
+    },
+    {
+      "album": {
+        "name": "Vorbild",
+        "url": "https://open.spotify.com/album/0mLLVgzVZeo9WPC4Xp66NS"
+      },
+      "artists": [
+        {
+          "name": "Mein Eigener Feind",
+          "url": "https://open.spotify.com/artist/1OovNzjvjj9fwusa9qQZbO"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154074,
+      "name": "Vorbild",
+      "url": "https://open.spotify.com/track/4S5AcGtzXRcjioBT6Ng3L8"
     },
     {
       "album": {

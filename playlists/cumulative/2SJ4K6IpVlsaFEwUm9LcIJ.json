@@ -1877,6 +1877,24 @@
     },
     {
       "album": {
+        "name": "First And Last Waltz",
+        "url": "https://open.spotify.com/album/4pP5l3tZAmZgcdE4bJP6AK"
+      },
+      "artists": [
+        {
+          "name": "Country Girl Kay",
+          "url": "https://open.spotify.com/artist/13Fih6xK79er6DVucSwvlQ"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107533,
+      "name": "Bluebird Yodel",
+      "url": "https://open.spotify.com/track/5BJ5oq7wKalQCazcumfItE"
+    },
+    {
+      "album": {
         "name": "Miss America",
         "url": "https://open.spotify.com/album/7EorEag88teTV1CevBYuMV"
       },
@@ -4080,6 +4098,28 @@
       "duration_ms": 238800,
       "name": "Elastic Dance",
       "url": "https://open.spotify.com/track/0WteRY4jMvEd1zEAdmlfhe"
+    },
+    {
+      "album": {
+        "name": "Strange But True",
+        "url": "https://open.spotify.com/album/3W9DFhaDMjjAjCsGaMbopg"
+      },
+      "artists": [
+        {
+          "name": "Jad Fair",
+          "url": "https://open.spotify.com/artist/3xx5PhUhJZ9ADhd7RlC00C"
+        },
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168866,
+      "name": "Embarrassed Teen Accidentally Uses Valuable Rare Postage Stamp",
+      "url": "https://open.spotify.com/track/6uO4p4uNbPknjd6rQOPeEZ"
     },
     {
       "album": {

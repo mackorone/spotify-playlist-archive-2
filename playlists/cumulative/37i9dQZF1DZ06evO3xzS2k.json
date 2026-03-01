@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "a short history of decay",
+        "url": "https://open.spotify.com/album/7euwYFDlezb1aLOvEE4p2P"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328000,
+      "name": "a short history of decay",
+      "url": "https://open.spotify.com/track/50433OMDh4XkIDIXNBrMmz"
+    },
+    {
+      "album": {
         "name": "Tired of Tomorrow (Deluxe Version)",
         "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
       },
@@ -110,6 +128,24 @@
       "duration_ms": 318813,
       "name": "B&E",
       "url": "https://open.spotify.com/track/3ISyXQ2lSec1yltnvBbEEY"
+    },
+    {
+      "album": {
+        "name": "a short history of decay",
+        "url": "https://open.spotify.com/album/7euwYFDlezb1aLOvEE4p2P"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303573,
+      "name": "ballet of the traitor",
+      "url": "https://open.spotify.com/track/6hR5MLc9Qs6VbszX0sloly"
     },
     {
       "album": {
@@ -380,6 +416,24 @@
       "duration_ms": 253664,
       "name": "Endlessly",
       "url": "https://open.spotify.com/track/7EzKrIF3T2XqUZfhnHw5CE"
+    },
+    {
+      "album": {
+        "name": "a short history of decay",
+        "url": "https://open.spotify.com/album/7euwYFDlezb1aLOvEE4p2P"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250120,
+      "name": "essential tremors",
+      "url": "https://open.spotify.com/track/4iuQ5ExLS4Wl1JiyM2uSFc"
     },
     {
       "album": {
@@ -748,10 +802,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 375933,
       "name": "Mine Is Clouds",
       "url": "https://open.spotify.com/track/4yCLoPgF4fv3GRvwKOflMO"
+    },
+    {
+      "album": {
+        "name": "a short history of decay",
+        "url": "https://open.spotify.com/album/7euwYFDlezb1aLOvEE4p2P"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283120,
+      "name": "nerve scales",
+      "url": "https://open.spotify.com/track/7hOdEU0XGWjfMQJkikZSBs"
     },
     {
       "album": {
@@ -904,7 +976,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 491133,
       "name": "Rose Tinted World",
       "url": "https://open.spotify.com/track/67vYna8TF0R0kQfN92x933"
@@ -1002,7 +1074,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 347160,
       "name": "Spend The Grace",
       "url": "https://open.spotify.com/track/2wcVDlzVPDIGqPbL5Z3lSS"
@@ -1020,7 +1092,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 284351,
       "name": "Suns and Lovers",
       "url": "https://open.spotify.com/track/3lS6ELc4is0o0MO0rveAAc"
@@ -1114,6 +1186,24 @@
       "duration_ms": 199760,
       "name": "The Mohegan - DOTB B Side",
       "url": "https://open.spotify.com/track/7mlXr4SOCtD142pBgpVZzG"
+    },
+    {
+      "album": {
+        "name": "a short history of decay",
+        "url": "https://open.spotify.com/album/7euwYFDlezb1aLOvEE4p2P"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321480,
+      "name": "the rain don\u2019t care",
+      "url": "https://open.spotify.com/track/0OnRt1cgZ7l7SSiVy8mg3c"
     },
     {
       "album": {
@@ -1222,7 +1312,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 348493,
       "name": "When No Birds Sang",
       "url": "https://open.spotify.com/track/2y6SnKCdLqMycrUq0gJZ7f"

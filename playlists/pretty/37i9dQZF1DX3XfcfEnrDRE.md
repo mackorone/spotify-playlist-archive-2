@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > Songs representing Alternative music's ever\-evolving sound paired with these artists' everlasting faith\.  Cover: Abbie Gamboa
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,001 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,030 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 74 | [kerosene](https://open.spotify.com/track/7mRthTJf3n6Ee35g2qTl95) | [Strings & Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [Plastic Wine](https://open.spotify.com/album/40TqlefUvFjqQqRNuqB56l) | 2:51 |
 | 75 | [Like A Branch](https://open.spotify.com/track/4y8Wk5PoOBDzwV28dzbWDW) | [Living Again](https://open.spotify.com/artist/4wQNGiwWYW2XFrSSPRdpI6) | [Like A Branch](https://open.spotify.com/album/49SOAzWIFEzXKTbyudAraE) | 4:42 |
 
-Snapshot ID: `AAAAACnQpe5hHsS2SVuZLc9CMmyku7Cx`
+Snapshot ID: `AAAAANN3ht3x5U4dXXccCFTsMsbQECLt`

@@ -1,13 +1,29 @@
 {
   "description": "This is Lamb of God. The essential tracks, all in one playlist.",
-  "num_followers": 142660,
+  "num_followers": 142698,
   "original_name": "This Is Lamb of God",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ+NAAAAAADKaIHXghL8ZHG6iM/zsdJO",
+  "snapshot_id": "aaDegAAAAABqvf9NyDSC7Tr/iZqruadj",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blunt Force Blues",
+        "url": "https://open.spotify.com/album/6JSSK9vSJUabyLGFhdnMEG"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 251505,
+      "name": "Blunt Force Blues",
+      "url": "https://open.spotify.com/track/7sxzXYrcCVnMnqCxBwCXLN"
+    },
     {
       "added_at": null,
       "album": {
@@ -100,9 +116,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 286028,
-      "name": "Omert\u00e1",
-      "url": "https://open.spotify.com/track/2Sy5OyM3D8TL797lj8VmQx"
+      "duration_ms": 219815,
+      "name": "Now You've Got Something to Die For",
+      "url": "https://open.spotify.com/track/53CYNxzR49G438rPaKFOIp"
     },
     {
       "added_at": null,
@@ -164,9 +180,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 219815,
-      "name": "Now You've Got Something to Die For",
-      "url": "https://open.spotify.com/track/53CYNxzR49G438rPaKFOIp"
+      "duration_ms": 286028,
+      "name": "Omert\u00e1",
+      "url": "https://open.spotify.com/track/2Sy5OyM3D8TL797lj8VmQx"
     },
     {
       "added_at": null,
@@ -399,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sacrament (15th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 270440,
-      "name": "Again We Rise",
-      "url": "https://open.spotify.com/track/5wYpug3WCxliMt9WDa8WvU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wrath (Special Edition)",
         "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
       },
@@ -427,6 +427,22 @@
       "duration_ms": 226493,
       "name": "Set To Fail",
       "url": "https://open.spotify.com/track/4MMGq2YxRFyMMUhxaAQdQs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sacrament (15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 270440,
+      "name": "Again We Rise",
+      "url": "https://open.spotify.com/track/5wYpug3WCxliMt9WDa8WvU"
     },
     {
       "added_at": null,
@@ -607,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lamb of God",
-        "url": "https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV"
+        "name": "Omens",
+        "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
       },
       "artists": [
         {
@@ -616,9 +632,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 235111,
-      "name": "Gears",
-      "url": "https://open.spotify.com/track/5GwPTFXjE3WLJevK6KLMyc"
+      "duration_ms": 275924,
+      "name": "Nevermore",
+      "url": "https://open.spotify.com/track/0YHuruiHL4Vzna7jeOdfJt"
     },
     {
       "added_at": null,
@@ -632,15 +648,15 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 236466,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/3A5zeEH2eLW3uMYXoBj9Tq"
+      "duration_ms": 233466,
+      "name": "Broken Hands",
+      "url": "https://open.spotify.com/track/3WJaypEGPAc0GH4l9ouoww"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Omens",
-        "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
+        "name": "Lamb of God",
+        "url": "https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV"
       },
       "artists": [
         {
@@ -648,9 +664,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 275924,
-      "name": "Nevermore",
-      "url": "https://open.spotify.com/track/0YHuruiHL4Vzna7jeOdfJt"
+      "duration_ms": 235111,
+      "name": "Gears",
+      "url": "https://open.spotify.com/track/5GwPTFXjE3WLJevK6KLMyc"
     },
     {
       "added_at": null,
@@ -696,9 +712,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 202040,
-      "name": "Contractor",
-      "url": "https://open.spotify.com/track/7HYsxZZCd45AXjhHch1HEB"
+      "duration_ms": 236466,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/3A5zeEH2eLW3uMYXoBj9Tq"
     },
     {
       "added_at": null,
@@ -764,9 +780,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 233466,
-      "name": "Broken Hands",
-      "url": "https://open.spotify.com/track/3WJaypEGPAc0GH4l9ouoww"
+      "duration_ms": 202040,
+      "name": "Contractor",
+      "url": "https://open.spotify.com/track/7HYsxZZCd45AXjhHch1HEB"
     },
     {
       "added_at": null,
@@ -819,30 +835,6 @@
       "duration_ms": 223661,
       "name": "To The Grave",
       "url": "https://open.spotify.com/track/6Q88Xw5D2syb9X5rZd3TLz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wake up Dead (feat. Dave Mustaine)",
-        "url": "https://open.spotify.com/album/6BJrJlkffGEpipjY9OFq6t"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        },
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        },
-        {
-          "name": "Dave Mustaine",
-          "url": "https://open.spotify.com/artist/6jhdkDXD8A4iI2pLpb90QC"
-        }
-      ],
-      "duration_ms": 223413,
-      "name": "Wake up Dead (feat. Dave Mustaine)",
-      "url": "https://open.spotify.com/track/4v3Iyw1DP578eRpoQPpcv9"
     }
   ],
   "unique_name": "This Is Lamb of God",

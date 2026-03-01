@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Baby Keem
 
-[Spotify](https://open.spotify.com/user/spotify) - 759,533 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 759,550 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 84 | [GERMANY](https://open.spotify.com/track/4D9uo0QNAoDXgXxh79o8AR) | [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw), [1stplas](https://open.spotify.com/artist/6JAiEbYOBDvMrkg4kZYp00), [Ayeddawgg](https://open.spotify.com/artist/6wu3kLV5YkLrh4KIwNOtsN) | [GERMANY](https://open.spotify.com/album/4myLqm23KazGHhdIQuhtnf) | 2:33 |
 | 85 | [GEEK'D UP \(LITERALLY\)](https://open.spotify.com/track/50RZnl0qd4zbJurpFfPwGm) | [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ), [BB](https://open.spotify.com/artist/28tk1PiLYWjkVr0fxlleKP), [Teaawhy](https://open.spotify.com/artist/7ikaWAiot7KxyQQx8LICbt), [Milly Mo](https://open.spotify.com/artist/1FbNRjYXMW1sZGjlxaOO9u), [Big I\-N\-D\-O](https://open.spotify.com/artist/06P96M68wB5ZW82bUJIt1T) | [FAMILY REUNION](https://open.spotify.com/album/2UfKO8jHq78gO3v0GYmvAx) | 2:24 |
 | 86 | [Take Me Somewhere](https://open.spotify.com/track/5IY0y9qqGklz0DYv0fTpd4) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Take Me Somewhere](https://open.spotify.com/album/3cO5SEwLccRoKGwJemXdL7) | 3:55 |
-| 87 | [Gimme the Light](https://open.spotify.com/track/6lQQNfLEhyJM3SE7GQdhb6) | [Radio Base](https://open.spotify.com/artist/2O07L4IuTAy1LU3Dtb2kfN), [Rank](https://open.spotify.com/artist/3rQMAqrvf70QuCppsPHPbQ), [Bull Jones](https://open.spotify.com/artist/2qqGouON9CWr8bC7GSZKcS) | [Water Boy](https://open.spotify.com/album/1jpzszp1NyTm8K8ppXMqUJ) | 2:58 |
+| 87 | [The Light](https://open.spotify.com/track/6lQQNfLEhyJM3SE7GQdhb6) | [Radio Base](https://open.spotify.com/artist/2O07L4IuTAy1LU3Dtb2kfN), [Rank](https://open.spotify.com/artist/3rQMAqrvf70QuCppsPHPbQ), [Bull Jones](https://open.spotify.com/artist/2qqGouON9CWr8bC7GSZKcS) | [Water Boy](https://open.spotify.com/album/1jpzszp1NyTm8K8ppXMqUJ) | 2:58 |
 | 88 | [Streets Don't Love You](https://open.spotify.com/track/1kV59Fg5fPiuWGYxFurasX) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS) | [Streets Don't Love You](https://open.spotify.com/album/5d3H7qe613DkNwaQNhF2yl) | 1:44 |
 | 89 | [Bag Walk](https://open.spotify.com/track/7mYZDjq3rOgSSZqMDsqDQ6) | [JEW3LZ](https://open.spotify.com/artist/2TIxX1Qr1jiXwUeYImYNBq), [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3) | [Bag Walk](https://open.spotify.com/album/74KfS9DQxcBWePL7aYUnpC) | 2:46 |
 | 90 | [Underrated \(feat\. MoneySign Suede\) \- Remix](https://open.spotify.com/track/6qWlp0154BPzimbk2CPkMm) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Underrated \(Remix\) \[feat\. MoneySign Suede\]](https://open.spotify.com/album/4ko5DEJGsyTMd9UAAYKNAT) | 4:04 |

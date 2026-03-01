@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 747,
+  "num_followers": 748,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAFLi+a524ruQ2hcxRpvJ6A40Nhrb17",
+  "snapshot_id": "AAAFMJkAYO3iDtWgHLYoA/yjzAUrthIl",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1243,6 +1243,38 @@
       "duration_ms": 279579,
       "name": "Lonely Spaceman",
       "url": "https://open.spotify.com/track/2zqjUfdbnpfFCzwMmIYjbD"
+    },
+    {
+      "added_at": "2026-02-28 15:45:41",
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/2dsufG9Ds7vt8stxbrBkBE"
+      },
+      "artists": [
+        {
+          "name": "Trophy Boy Poems",
+          "url": "https://open.spotify.com/artist/1EyJ3RSMmZO6ZK2HxzSvTj"
+        }
+      ],
+      "duration_ms": 211207,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/3nfFEXmkLRjfVIslYXSTFu"
+    },
+    {
+      "added_at": "2026-02-28 15:56:56",
+      "album": {
+        "name": "I Will Survive",
+        "url": "https://open.spotify.com/album/5c0tOfj6Kj7kjHz4cZ5CCo"
+      },
+      "artists": [
+        {
+          "name": "Lonely wanderer",
+          "url": "https://open.spotify.com/artist/7oZKXbKzbYSqj49riynY8v"
+        }
+      ],
+      "duration_ms": 184529,
+      "name": "I Will Survive",
+      "url": "https://open.spotify.com/track/2ntUrJmw1Vsvv342JF9HAj"
     }
   ],
   "unique_name": "Unsigned Rock",

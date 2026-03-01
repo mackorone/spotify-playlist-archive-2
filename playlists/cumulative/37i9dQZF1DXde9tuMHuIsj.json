@@ -5361,6 +5361,28 @@
     },
     {
       "album": {
+        "name": "GROUPIE",
+        "url": "https://open.spotify.com/album/6Qzv1zgIL5FRsj4QnloK9B"
+      },
+      "artists": [
+        {
+          "name": "El Goldo",
+          "url": "https://open.spotify.com/artist/2Uz6P0j7gDmtKVIFbPrOvt"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "GROUPIE",
+      "url": "https://open.spotify.com/track/1n4r4ZJy3EUfFWBancfbIb"
+    },
+    {
+      "album": {
         "name": "Guarida",
         "url": "https://open.spotify.com/album/5BvgHK8tmdBlIjxdSnyI0K"
       },

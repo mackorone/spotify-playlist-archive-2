@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-1,607 songs - 3 day 19 hr 11 min
+1,608 songs - 3 day 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [CH4NGE](https://open.spotify.com/track/0tZNBm62R9dr5xCHONe4r0) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [CH4NGE](https://open.spotify.com/album/01RDfYld8bmfLUyxx2nqm4) | 2:13 | 2023-10-05 | 2023-10-11 |
 | [Character](https://open.spotify.com/track/0eurhU5ak9lXwhOFgmo42M) | [ACAね](https://open.spotify.com/artist/7tCgZB3cHou13zCzimxILs), [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4), [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV) | [Character](https://open.spotify.com/album/2V2kyrZQe0YXQ1LCr8zNDa) | 4:44 | 2022-06-23 | 2022-07-13 |
 | [Charon](https://open.spotify.com/track/1McwU7KXAl4hpx5VOFSZBe) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Charon](https://open.spotify.com/album/7MRzv4kEwUZQEucCdgjjs4) | 2:40 | 2025-10-21 | 2025-12-24 |
+| [Chatter Chatter](https://open.spotify.com/track/3f2HnVPKvQ19QvYrjBMUiX) | [宝鐘マリン](https://open.spotify.com/artist/5XaBNKQo65yYcjNA8wQPOk), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [Chatter Chatter](https://open.spotify.com/album/28eckMCFWtXKYswQDPL8Ov) | 2:57 | 2026-02-28 |  |
 | [Chewinggum](https://open.spotify.com/track/0MAV5mwsbDdiAKetZciXta) | [cyberMINK](https://open.spotify.com/artist/6HIQj3zppWYAxrSCKt5hPk), [響木アオ](https://open.spotify.com/artist/7JbBmfOwEH5JnrcLI5pXlg) | [Chewinggum](https://open.spotify.com/album/3MeAFXpDUwGd0OoDGDCpaM) | 3:49 | 2022-07-14 | 2022-07-20 |
 | [Chocolat Cadabra](https://open.spotify.com/track/0AKxVjQmNYwYuNY5sCJuPn) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Chocolat Cadabra](https://open.spotify.com/album/2grvAfP3pjbRwkhaTbbNS9) | 3:03 | 2024-01-30 | 2024-02-10 |
 | [Choju Giga](https://open.spotify.com/track/6hmR1ka2ZUG9w6rniXE3De) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Choju Giga](https://open.spotify.com/album/0Rsq4VHL8OXmZUlrLM6toB) | 2:51 | 2023-11-29 | 2023-12-20 |
@@ -194,7 +195,7 @@
 | [GAME](https://open.spotify.com/track/4yW4xDZJLJUUdDNC0gdsNU) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [GAME](https://open.spotify.com/album/4VJRULO2JnD5QtPsXGivEx) | 2:49 | 2024-03-26 | 2024-04-11 |
 | [Gaze](https://open.spotify.com/track/6s4yoCzQJOR2JtTMbFhIQj) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Gaze](https://open.spotify.com/album/0hoSnKno21HWDf6u46AQ50) | 4:01 | 2023-10-24 | 2023-11-29 |
 | [Gerbera](https://open.spotify.com/track/0WpodCrGhNjKu87WxMUkFK) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [Gerbera](https://open.spotify.com/album/5bW6MAWuSTKFk7cuMLOETR) | 3:50 | 2022-07-14 | 2022-07-27 |
-| [Ghost Avenue](https://open.spotify.com/track/2GDRgBKMBmo0uNUh2pLe77) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Ghost Avenue](https://open.spotify.com/album/0xqWaDWVYb16HY8TR6nCn6) | 2:53 | 2025-07-15 |  |
+| [Ghost Avenue](https://open.spotify.com/track/2GDRgBKMBmo0uNUh2pLe77) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Ghost Avenue](https://open.spotify.com/album/0xqWaDWVYb16HY8TR6nCn6) | 2:53 | 2025-07-15 | 2026-03-01 |
 | [Gingiragin](https://open.spotify.com/track/0yMLnG5bKL8HWHnp6Jj5oG) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [Gingiragin](https://open.spotify.com/album/6xznymn8xYfw4SBmwLb10L) | 3:01 | 2023-03-30 | 2023-05-24 |
 | [Girl.](https://open.spotify.com/track/2uH4sSVxfRDBhsg1YekBBm) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [Girl.](https://open.spotify.com/album/5jR5aEVdxEXOMRf9Mp6uIK) | 3:25 | 2022-06-09 | 2022-07-24 |
 | [Give Me Hack.](https://open.spotify.com/track/4YYwfHJXmbd4JPqnzxp2fN) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [Give Me Hack.](https://open.spotify.com/album/0kwRgklTnQDN8MXbGjkkbe) | 2:33 | 2023-10-12 | 2023-10-25 |

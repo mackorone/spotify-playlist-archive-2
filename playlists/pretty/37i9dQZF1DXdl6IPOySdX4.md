@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 
 > you up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,149,168 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,149,524 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 99 | [How Many Times?](https://open.spotify.com/track/57nKcZqsl20G6Uy8LDZPLR) | [Dyce](https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc) | [How Many Times?](https://open.spotify.com/album/4tvMSm80LSthlreLWgbzvM) | 2:49 |
 | 100 | [BLEED MY LOVE](https://open.spotify.com/track/5vbuYJAzJqMIIaGcEuu021) | [Johnny Huynh](https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju) | [BLEED MY LOVE](https://open.spotify.com/album/4oK6v8oTRvM6FSMRrz3MJX) | 2:34 |
 
-Snapshot ID: `AAAAALUgcpFNkRLk2LlQcYBdn0axeOmV`
+Snapshot ID: `AAAAADqlPcZMCk0l4uJImAmHANbKuBK7`

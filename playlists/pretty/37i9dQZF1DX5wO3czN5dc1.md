@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: Euggy
 
-[Spotify](https://open.spotify.com/user/spotify) - 567 likes - 75 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 767 likes - 75 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 | 8 | [Dwana Days](https://open.spotify.com/track/1Old2F6y7j1fJRNKesCwGE) | [Euggy](https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn) | [Chuki](https://open.spotify.com/album/1VBNBDE64HPvshY3NuZZf8) | 6:32 |
 | 9 | [Unembeza](https://open.spotify.com/track/3bzsr5XLrNtUNunw5nr5Q5) | [Darque](https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105), [ZIDDO](https://open.spotify.com/artist/4XE8kpT8vOyemOlkfzPJnc), [Section Five](https://open.spotify.com/artist/5pM2d7Jh0CvXvddLhBsRfS) | [Unembeza](https://open.spotify.com/album/1Go1vPXFFsCuCA1zFvWPiG) | 3:12 |
 | 10 | [Int'engekhoyo \(feat\. STOFFELA\)](https://open.spotify.com/track/0PmOeHT4I1XfaSD8JGHv3S) | [Masšh](https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs), [STOFFELA](https://open.spotify.com/artist/4ySNMtCSTAPhaXp9XMtSSn) | [Masingita](https://open.spotify.com/album/7BTDHUfDxkoXu3AQlBoVyO) | 5:42 |
-| 11 | [Bloom \(feat\. Lou Xtwo\) \- afro house edit](https://open.spotify.com/track/6jT46sVx9YP1tPI1SYONhk) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4), [Lou Xtwo](https://open.spotify.com/artist/2DB3V4DUCCRFqLIYQTWr6Z) | [Bloom \(re\-imagined\)](https://open.spotify.com/album/2LfRcEIXXWYAfy2Qn50FRH) | 4:13 |
+| 11 | [Bloom \(feat\. Lou Xtwo\) \- afro house edit](https://open.spotify.com/track/6jT46sVx9YP1tPI1SYONhk) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4), [Lou Xtwo](https://open.spotify.com/artist/7k5fnVM7UaT6HMxqbV6bhz) | [Bloom \(re\-imagined\)](https://open.spotify.com/album/2LfRcEIXXWYAfy2Qn50FRH) | 4:13 |
 | 12 | [Unjust](https://open.spotify.com/track/7qHc4dGw5Bnfaa6RkGOFu0) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Madmix](https://open.spotify.com/artist/33CPdnBb3lDoa1adNWa6Zt), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Unjust](https://open.spotify.com/album/4TkMSfIK0rOsSoAgRJOifr) | 3:47 |
 | 13 | [Can You See Me?](https://open.spotify.com/track/1pHVuic3bWY3BYR7EcH3B2) | [Mister Joozey](https://open.spotify.com/artist/4zTWCeQoe4JQ5z5D1ocOS7), [AKIKI](https://open.spotify.com/artist/5dzxRbLd2yi1nalU1Sy8gx), [Rody Joh](https://open.spotify.com/artist/2g9iMz4DMuBmhpfardxfjr) | [Can You See Me?](https://open.spotify.com/album/0kTu4zpYJtk7BnJvMvytOX) | 5:42 |
 | 14 | [Raiz Brasileira](https://open.spotify.com/track/1PE2n13pbdv5GiSRibgfj3) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv), [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Amazone Project](https://open.spotify.com/album/3ji4mFEmZ5Kl8cNJxeoB64) | 3:50 |

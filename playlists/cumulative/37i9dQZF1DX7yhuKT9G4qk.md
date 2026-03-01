@@ -2,7 +2,7 @@
 
 ### [Dinner Chill Music](https://open.spotify.com/playlist/37i9dQZF1DX7yhuKT9G4qk)
 
-> Lekker  eten en lang natafelen? Daar hoort muziek bij.
+> Perfect dinner playlist \| soulful music
 
 182 songs - 10 hr 26 min
 

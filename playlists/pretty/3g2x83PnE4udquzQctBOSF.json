@@ -1,13 +1,29 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2696,
+  "num_followers": 2697,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARdE0d2kDO5F6ylZA/pD0tOXowafED",
+  "snapshot_id": "AAARdfq5eQExdTPHl1DaVveFfqIkyAtC",
   "tracks": [
+    {
+      "added_at": "2026-02-28 23:34:33",
+      "album": {
+        "name": "Soul Sing",
+        "url": "https://open.spotify.com/album/5rXUujxnfeItYJODD8cw47"
+      },
+      "artists": [
+        {
+          "name": "KeepNoise",
+          "url": "https://open.spotify.com/artist/6iMok0Y9VLcNLkjuUi3sS9"
+        }
+      ],
+      "duration_ms": 390331,
+      "name": "Soul Sing",
+      "url": "https://open.spotify.com/track/6Kaq0Tp4vak93B7BcTWnnD"
+    },
     {
       "added_at": "2026-02-27 19:54:21",
       "album": {

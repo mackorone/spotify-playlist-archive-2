@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,896 songs - 4 day 17 hr 33 min
+1,898 songs - 4 day 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [ASIDERAL SPACE](https://open.spotify.com/track/24Hwi2MkkwBRg4riBVSEfY) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [YOGYETY & AI](https://open.spotify.com/album/4iXiqES3b6P7toYWq2ZCpd) | 3:28 | 2026-01-07 |  |
 | [Asteroid](https://open.spotify.com/track/2ZcZVHWbladB8xTuUZ2YFK) | [Dutch Gunderson](https://open.spotify.com/artist/5UAK417O73vLv1MOTDxhYx) | [Dutch Gunderson](https://open.spotify.com/album/1k3ynjVZhaPk2DFNIVERbW) | 3:47 | 2025-05-28 |  |
 | [Astral](https://open.spotify.com/track/2zid4cfWtpcooEjSADhN2z) | [Clariá](https://open.spotify.com/artist/6Za8rqeiBcShSX1tzkUqkl) | [Astral](https://open.spotify.com/album/6rqF5Cx8HtkXzWtzcdeTQH) | 3:58 | 2026-02-10 |  |
+| [Astral Vision](https://open.spotify.com/track/79GyilhcKE7fvMhljJMQxL) | [Elastica Dub](https://open.spotify.com/artist/1nyZ7QOTyzJ0lhHLGaikIW), [Zion Train](https://open.spotify.com/artist/6sDKfmMPaTI7MYeFoNFrg7), [Gabriel Blue](https://open.spotify.com/artist/2z0BjCl7p9XrswyaknMFMJ) | [Astral Vision](https://open.spotify.com/album/4skr9ieBSHKCa52ivYa7hy) | 5:49 | 2026-02-28 |  |
 | [Astros](https://open.spotify.com/track/23USLP01Sb9lL29bkMdGNe) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Supernova](https://open.spotify.com/album/1cEtLyqdkRlTsxn3ldfGot) | 4:03 | 2025-12-28 |  |
 | [At The Restaurant](https://open.spotify.com/track/7hf98kLVYzvl5eLrM8hL3D) | [caveau](https://open.spotify.com/artist/6nBYceEDCCiItPV56dIeVo) | [At The Restaurant](https://open.spotify.com/album/5BXD9EhfxsvVwrgdtAl3Ku) | 3:41 | 2025-11-15 |  |
 | [Atlantis](https://open.spotify.com/track/4MP0SgPbAIn5ha78vJklQF) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Atlantis](https://open.spotify.com/album/0GVBEDtchsOWV4hoKom8dC) | 1:50 | 2026-02-18 |  |
@@ -348,6 +349,7 @@
 | [dack](https://open.spotify.com/track/4qlWjCMKFWZzxLMzKGv32s) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [found the lost sound](https://open.spotify.com/album/09GlCuLN5uIjUFnF9LXpWI) | 5:29 | 2024-10-20 |  |
 | [Daily Bread](https://open.spotify.com/track/7HDLrxZBWschpv2fUkCv0c) | [R\-Juna](https://open.spotify.com/artist/0aQXmVGvxpQmQ3UbZttDBb) | [Dubs and Praises](https://open.spotify.com/album/3sY7rsSxS37DDDnAzfRFvq) | 5:28 | 2024-07-06 |  |
 | [Dammit \- Live/1999](https://open.spotify.com/track/6RdOHWeSdDyLjkOPjM4LLj) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [The Mark, Tom And Travis Show \(The Enema Strikes Back!\) \[Live\]](https://open.spotify.com/album/1rkcABZWlix3sYH6XLUSAz) | 3:05 | 2025-02-04 |  |
+| [Dance it with Me](https://open.spotify.com/track/0R6YvH3Wgcz5NSx1H2NvIz) | [Vinny Peach](https://open.spotify.com/artist/2sMvGeQMLrn7Y21zljtp75) | [Dance it with Me](https://open.spotify.com/album/4psi3LKEvKCfgQNojJsSp4) | 2:52 | 2026-03-01 |  |
 | [DANCE WITH THE WOLF](https://open.spotify.com/track/5sjdPdzRztJYDmHTZIylhY) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [DANCE WITH THE WOLF](https://open.spotify.com/album/2VLd8MMi4QouRVoD7C2O6g) | 3:07 | 2025-10-23 |  |
 | [Dancin' with Danger](https://open.spotify.com/track/5Ugi0BTGgAde3kg3opPeb7) | [Max Matthew](https://open.spotify.com/artist/3fWkFZChTcp5KaFox9eimn) | [Dancin' with Danger](https://open.spotify.com/album/6NtJMEpjG0ceRRfUUuXNQQ) | 2:55 | 2025-07-18 |  |
 | [Dancing Barefoot](https://open.spotify.com/track/0un15avZb7pJyat6QDgNqe) | [MC 900 Ft\. Jesus](https://open.spotify.com/artist/2S8nYaxyItH72O4dhRWTPq) | [Welcome To My Dream](https://open.spotify.com/album/4InNADufitzJWnZQ1b6h08) | 4:30 | 2026-02-07 |  |

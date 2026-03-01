@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from  Msaki & Jesse Clegg, Nomfundo Moh, LaCabra, MOLIY and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,770 likes - 91 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,802 likes - 91 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 49 | [Go Monate \(feat\. Vandro Sings & Goldman\)](https://open.spotify.com/track/11IgDOaV8ODRaGVe0YqZwX) | [Syfred Mckay](https://open.spotify.com/artist/06jdp4LxHkf2qG6SQ5QltC), [Vandro Sings](https://open.spotify.com/artist/41GUovN6qzA7qjs7afe3nv), [Goldman](https://open.spotify.com/artist/69q0WV8qZgl6rOMYaogoqI) | [Go Monate \(feat\. Vandro Sings & Goldman\)](https://open.spotify.com/album/4tqR58rn78OvRv775k7KA1) | 6:51 |
 | 50 | [Take Me Home](https://open.spotify.com/track/4LUL35MklZ3BPW85KmyH5R) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Take Me Home](https://open.spotify.com/album/1G7f1fXJlGsMSDc6yVdIdM) | 4:39 |
 | 51 | [He Has](https://open.spotify.com/track/2z4FJsSPPaPm0rmdMud451) | [Senior Oat](https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw), [Kemy Chienda](https://open.spotify.com/artist/21ubOXEDOMELSW2LDxG8HK) | [He Has](https://open.spotify.com/album/7x0SjLHM1ovbGSzfnhh9hC) | 6:53 |
-| 52 | [Angel Whispers](https://open.spotify.com/track/0Gm3BnC8qh8DqoowbdazrL) | [Charisse C](https://open.spotify.com/artist/3t8cTcgOoxQb0K8gkyKC0n), [Kwamzy](https://open.spotify.com/artist/3v5aYUzyeGmqJGpIxHmhEv), [Phodii](https://open.spotify.com/artist/6IHasJRpaYHVdkMzv6HDEV), [Infrallectual](https://open.spotify.com/artist/5MS1zgDjBmvUnFq6cl19g7) | [Angel Whispers](https://open.spotify.com/album/2Nf2tYF0TZgOSz9C9DpkVd) | 5:47 |
+| 52 | [Angel Whispers](https://open.spotify.com/track/0Gm3BnC8qh8DqoowbdazrL) | [Phodii](https://open.spotify.com/artist/6IHasJRpaYHVdkMzv6HDEV), [Charisse C](https://open.spotify.com/artist/3t8cTcgOoxQb0K8gkyKC0n), [Kwamzy](https://open.spotify.com/artist/3v5aYUzyeGmqJGpIxHmhEv), [Infrallectual](https://open.spotify.com/artist/5MS1zgDjBmvUnFq6cl19g7) | [Angel Whispers](https://open.spotify.com/album/2Nf2tYF0TZgOSz9C9DpkVd) | 5:47 |
 | 53 | [Angipick Mina](https://open.spotify.com/track/2NInwE20zhPSEWrMmxF2YF) | [Sastii](https://open.spotify.com/artist/32Mj58IRbLXY5O8uj2O0Ml), [Yungboyvegeta](https://open.spotify.com/artist/0RYxiK8P3O1SwUY9jRt7sh) | [Angipick Mina](https://open.spotify.com/album/2acqeXVh36lvzWAKfjJFMS) | 2:44 |
 | 54 | [FOCUS](https://open.spotify.com/track/3WfWhh0UEe9AaLdUDqv70P) | [Dr\. Chaii](https://open.spotify.com/artist/608Tz9GUNqRDkHGprJv3Og), [KARABA](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy), [Emily Apollo](https://open.spotify.com/artist/7x9mpQNiBxVDLeJjtmXqyw), [KMNI](https://open.spotify.com/artist/2YXjkO5I6QIGTBMAHWLvL2) | [FOCUS](https://open.spotify.com/album/6nKI0eexIovx0Xd8BwC54p) | 3:40 |
 | 55 | [Mujava's Funk](https://open.spotify.com/track/65LEgimkUTclDkk7FejHon) | [Lebza TheVillain](https://open.spotify.com/artist/0IBbki2AxG9X2cjaqrSGP3) | [Ngoma](https://open.spotify.com/album/2bhTlZq5p05KRoTvV9696p) | 5:52 |

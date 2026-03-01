@@ -811,6 +811,24 @@
     },
     {
       "album": {
+        "name": "La Fiesta En El Rancho, Vol. 3 (En Vivo)",
+        "url": "https://open.spotify.com/album/28aVNb9V0fA9sbnpgorAJg"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172153,
+      "name": "Hoy Toca - En Vivo",
+      "url": "https://open.spotify.com/track/5xQtuCAnheLi8aHXwpHBuM"
+    },
+    {
+      "album": {
         "name": "Inolvidable",
         "url": "https://open.spotify.com/album/0IDSWIblPZ2z1VV1F7A6Np"
       },
@@ -862,7 +880,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 244121,
       "name": "Juan Ignacio",
       "url": "https://open.spotify.com/track/2FKkmbKDGuAY0VvqWqa8Dv"

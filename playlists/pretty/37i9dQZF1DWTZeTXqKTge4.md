@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: Gnino
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,748 likes - 101 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,743 likes - 101 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

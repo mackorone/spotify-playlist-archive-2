@@ -1270,7 +1270,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 176320,
       "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
       "url": "https://open.spotify.com/track/7ieBYsqVGvTx6rOvvYdoDY"
@@ -1292,6 +1292,24 @@
       "duration_ms": 176431,
       "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
       "url": "https://open.spotify.com/track/5VGpOXAaau0DdzzOzhApPh"
+    },
+    {
+      "album": {
+        "name": "Te Ir\u00e1 Mejor Sin M\u00ed (En Vivo)",
+        "url": "https://open.spotify.com/album/63mh31VajBDrf4EYBj9NDG"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Te Ir\u00e1 Mejor Sin M\u00ed - En Vivo",
+      "url": "https://open.spotify.com/track/4MkqVtX64ycxgAHi6urJYT"
     },
     {
       "album": {

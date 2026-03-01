@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-506 songs - 1 day 6 hr 41 min
+507 songs - 1 day 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,6 +414,7 @@
 | [SOMEBODY HERE?](https://open.spotify.com/track/38PbBMCHd67hE9XQrHFwut) | [KODELEAN DJ](https://open.spotify.com/artist/2CG8X1NKy4XkOxsUckIrWl) | [SOMEBODY HERE?](https://open.spotify.com/album/3Bkcjr5mpF6mxqlJL3MDHu) | 2:30 | 2025-11-29 | 2026-01-03 |
 | [SOMEBODY HERE? \- Extended Version](https://open.spotify.com/track/3pWjNTp2YCT5hVkXZ0JdNB) | [KODELEAN DJ](https://open.spotify.com/artist/2CG8X1NKy4XkOxsUckIrWl) | [SOMEBODY HERE?](https://open.spotify.com/album/3Bkcjr5mpF6mxqlJL3MDHu) | 4:01 | 2025-12-01 | 2026-01-03 |
 | [Something In Your Eyes](https://open.spotify.com/track/5vr8JEu7dWxm6p1IXBGEbH) | [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Something In Your Eyes](https://open.spotify.com/album/5s4ZxE4IDV0TlOBwZNAPo1) | 2:08 | 2023-03-05 | 2023-03-20 |
+| [Soul Sing](https://open.spotify.com/track/6Kaq0Tp4vak93B7BcTWnnD) | [KeepNoise](https://open.spotify.com/artist/6iMok0Y9VLcNLkjuUi3sS9) | [Soul Sing](https://open.spotify.com/album/5rXUujxnfeItYJODD8cw47) | 6:30 | 2026-02-28 |  |
 | [Soundboy](https://open.spotify.com/track/5RU33jajJPKSXfqJoZpABf) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Soundboy](https://open.spotify.com/album/1FSB0rdp9vJrhfW9Aql04O) | 2:35 | 2023-08-27 | 2023-09-26 |
 | [Space Trip](https://open.spotify.com/track/1tXXkKnv5QfIQ88XNNPvbf) | [Malcolm Zeller](https://open.spotify.com/artist/5LlefWbu524mwqs5ZmFuvm) | [Space Trip](https://open.spotify.com/album/2cPvcE5SPbVPyWNGOsisRD) | 2:50 | 2023-03-26 | 2023-04-10 |
 | [Spam](https://open.spotify.com/track/0dEY2uCcwVSkk2Zk8q6fAm) | [Lucas Bahr](https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v) | [Spam EP](https://open.spotify.com/album/4b6vJdlkIU8jbqecXaeOKa) | 2:29 | 2023-08-20 | 2023-09-26 |

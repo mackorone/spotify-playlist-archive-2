@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to jan\-feb 2026
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,173 likes - 65 songs - 4 hr 17 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,170 likes - 67 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,5 +73,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 63 | [The Lived\-But\-Yet\-Named](https://open.spotify.com/track/0tt3NAj1AC70LntRfjuUbR) | [Karate](https://open.spotify.com/artist/6U26vGPwnCQcNDr9Dpj0Y0) | [Unsolved](https://open.spotify.com/album/0fsLBrh7OufpOhzudaVlCX) | 4:42 |
 | 64 | [Hydra](https://open.spotify.com/track/3VNAzep1H7LuLJWWd7oeVX) | [Movietone](https://open.spotify.com/artist/71ZjnwAyCVUWd6UsMbRtqf) | [Peel Sessions](https://open.spotify.com/album/4GdnUQHVxyRlZpJJ6xIi07) | 4:01 |
 | 65 | [Married Man's a Fool](https://open.spotify.com/track/4adw6ESNlVjwuVuOjCdGrJ) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Paradise and Lunch](https://open.spotify.com/album/0i7EzDfNC1tfBRpbKkYbrt) | 3:14 |
+| 66 | [Embarrassed Teen Accidentally Uses Valuable Rare Postage Stamp](https://open.spotify.com/track/6uO4p4uNbPknjd6rQOPeEZ) | [Jad Fair](https://open.spotify.com/artist/3xx5PhUhJZ9ADhd7RlC00C), [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Strange But True](https://open.spotify.com/album/3W9DFhaDMjjAjCsGaMbopg) | 2:48 |
+| 67 | [Bluebird Yodel](https://open.spotify.com/track/5BJ5oq7wKalQCazcumfItE) | [Country Girl Kay](https://open.spotify.com/artist/13Fih6xK79er6DVucSwvlQ) | [First And Last Waltz](https://open.spotify.com/album/4pP5l3tZAmZgcdE4bJP6AK) | 1:47 |
 
-Snapshot ID: `AAAN8ugMmvSxiReGQa0fKp+J+9vGVKOe`
+Snapshot ID: `AAAN9JNvq/Z2XgxOmPBSlQG9akO3faqu`

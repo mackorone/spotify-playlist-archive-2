@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > bolsa nova é pra caber 💵 ne?!?! // Emilly Guedes, LAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,346 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,384 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [Porque não](https://open.spotify.com/track/4D2qQTotc3wObIKKtPNfEi) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v), [S3X!](https://open.spotify.com/artist/2eg0Srr8X5TQlSIozcIxlG) | [Porque não](https://open.spotify.com/album/6SPu9BsezTBeQQHjdanFxq) | 2:45 |
 | 50 | [TÃOQUENTE](https://open.spotify.com/track/23Z1lShTFinifegJBwhOaz) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [TÃOQUENTE \- No Meu Club](https://open.spotify.com/album/6rBy862OKIVHmQeMStkcUC) | 1:49 |
 
-Snapshot ID: `AAAAABibYXBnNY/jkFrf/t3AHF/OA3WU`
+Snapshot ID: `AAAAAL0RdCHFK4W58q7Zxkf3VzdsWygv`

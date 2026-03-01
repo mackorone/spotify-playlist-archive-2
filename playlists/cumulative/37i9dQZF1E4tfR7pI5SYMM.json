@@ -474,7 +474,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -672,7 +672,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 251400,
       "name": "Broken Glass",
       "url": "https://open.spotify.com/track/2f8MBmW7FByHDrSAqI2O2E"
@@ -730,7 +730,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 131027,
       "name": "By the Way",
       "url": "https://open.spotify.com/track/4SajZCUf85xVUTdYQ2vEnQ"
@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 268510,
       "name": "Control",
       "url": "https://open.spotify.com/track/7DGsGpngDhy1kNi5ZHBNMl"
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 248679,
       "name": "Creepy Tales from the Other Side (Crimson Nights Part II)",
       "url": "https://open.spotify.com/track/0wQ1WQ6eA4RqwkWLRMlPVK"
@@ -1234,7 +1234,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 226568,
       "name": "Dance On My Grave",
       "url": "https://open.spotify.com/track/04kcDf6whIoJebDQ6vZh8R"
@@ -2175,6 +2175,24 @@
     },
     {
       "album": {
+        "name": "Far Below",
+        "url": "https://open.spotify.com/album/0F6CbkjgV7QjKudkonPO0j"
+      },
+      "artists": [
+        {
+          "name": "Quebec Nihilism Front",
+          "url": "https://open.spotify.com/artist/26P4l3WiJOAVBtRLMnHpar"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "Far Below",
+      "url": "https://open.spotify.com/track/3uoOgcDg6s74nDVwovObch"
+    },
+    {
+      "album": {
         "name": "Farao P\u00e5 Ferie",
         "url": "https://open.spotify.com/album/1bRCIkdBBruiGPvi4IwOtj"
       },
@@ -2420,7 +2438,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-26",
+      "date_removed": null,
       "duration_ms": 248451,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/7unT6Ykkw38roexHf453ur"
@@ -2464,7 +2482,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 198364,
       "name": "Goodbye Horses",
       "url": "https://open.spotify.com/track/1UX6WV1lpNYEj5V5YGPco8"
@@ -2500,7 +2518,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 189000,
       "name": "Grifter",
       "url": "https://open.spotify.com/track/0Phzc8FXpj19ZVdvTmBwep"
@@ -2684,7 +2702,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 161926,
       "name": "Here's your Reaper",
       "url": "https://open.spotify.com/track/2NWCtv0HbrbQXVFu3qwriE"
@@ -3752,7 +3770,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 293422,
       "name": "Lori - Special Edition",
       "url": "https://open.spotify.com/track/3y64sLHWMzAJHBVSfGgwPX"
@@ -3994,7 +4012,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 247994,
       "name": "Memories",
       "url": "https://open.spotify.com/track/5TuY7LoTVng1mXt9yDYbZt"
@@ -4052,6 +4070,24 @@
       "duration_ms": 211200,
       "name": "Mirror Curse",
       "url": "https://open.spotify.com/track/7eqHOmbCELyi1yn0ZPQJIu"
+    },
+    {
+      "album": {
+        "name": "Misamgeri",
+        "url": "https://open.spotify.com/album/6jobrshpf4NEgrUnTU60i8"
+      },
+      "artists": [
+        {
+          "name": "Erekle Deisadze",
+          "url": "https://open.spotify.com/artist/0bZ608xBwf6ouKEXuaqRLf"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207943,
+      "name": "Misamgeri",
+      "url": "https://open.spotify.com/track/0GEP8vnAf1fJ0Nn1j3Wfkg"
     },
     {
       "album": {
@@ -4182,7 +4218,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 326507,
       "name": "mosquito's wing",
       "url": "https://open.spotify.com/track/3V5DsjUPjon53mu0iF4GaH"
@@ -4272,7 +4308,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 255812,
       "name": "My Elegy",
       "url": "https://open.spotify.com/track/1affhJbiFkgnBpxzeQ5WFh"
@@ -4402,7 +4438,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 299311,
       "name": "Never the Same",
       "url": "https://open.spotify.com/track/37RaDHuCzwcZeRzgqhf3Dv"
@@ -4474,7 +4510,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 272125,
       "name": "No One's Embrace",
       "url": "https://open.spotify.com/track/0Ja46KKDb4MpntMADfEWPm"
@@ -4824,7 +4860,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 249272,
       "name": "Only What You Love",
       "url": "https://open.spotify.com/track/7joAUdC9IjE7kkpA14WV9Q"
@@ -5640,7 +5676,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 164829,
       "name": "Shadows of Tomorrow",
       "url": "https://open.spotify.com/track/6QIGBSPAtC2Bg6Ccl72TZy"
@@ -5712,7 +5748,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 242946,
       "name": "Skuggorna p\u00e5 v\u00e4gen hem",
       "url": "https://open.spotify.com/track/3W5sENHWeCZzchAAzaqVNG"
@@ -5910,7 +5946,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 216864,
       "name": "Sons of Aeeth",
       "url": "https://open.spotify.com/track/4hGuteKLpeM13iVnhkwWlg"
@@ -6570,7 +6606,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 266000,
       "name": "The Labyrinth",
       "url": "https://open.spotify.com/track/0dZXSaT4CAE5oK70gOcIrg"
@@ -6628,6 +6664,36 @@
       "duration_ms": 633013,
       "name": "The Long Way Home",
       "url": "https://open.spotify.com/track/73giAuGnHFsZpqlsoLwLvi"
+    },
+    {
+      "album": {
+        "name": "The Nameless",
+        "url": "https://open.spotify.com/album/6FwQef8K8kVlIMsFVfHxjP"
+      },
+      "artists": [
+        {
+          "name": "The Mugshots",
+          "url": "https://open.spotify.com/artist/6TzJ4CUDf8qe5lmtCJPzHV"
+        },
+        {
+          "name": "Andy Larocque",
+          "url": "https://open.spotify.com/artist/5U9lKvAgzKTglUFJ68BjAg"
+        },
+        {
+          "name": "Sakis Tolis",
+          "url": "https://open.spotify.com/artist/2Mbwnv9a97OLrSoClsRd9D"
+        },
+        {
+          "name": "Jim Mutilator",
+          "url": "https://open.spotify.com/artist/2hHjsMuTSp3P1WIsSlPCou"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303918,
+      "name": "The Nameless",
+      "url": "https://open.spotify.com/track/34GM7xocWhHZMwBSPlgnEq"
     },
     {
       "album": {
@@ -6826,10 +6892,28 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 225093,
       "name": "The Witch's Waltz",
       "url": "https://open.spotify.com/track/2Rjy1UKgwWizeohx8unv1e"
+    },
+    {
+      "album": {
+        "name": "The Wolf",
+        "url": "https://open.spotify.com/album/40y47zHCnnEBZ5hrxkqGMW"
+      },
+      "artists": [
+        {
+          "name": "Fracture Plane",
+          "url": "https://open.spotify.com/artist/3WiLv5CJFd4c9WBtYy4QD3"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239040,
+      "name": "The Wolf",
+      "url": "https://open.spotify.com/track/2S6ibnlpUUWEp2Ws0ZvQlH"
     },
     {
       "album": {
@@ -6866,7 +6950,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -7036,7 +7120,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 199614,
       "name": "To Kill a Silver Sparrow",
       "url": "https://open.spotify.com/track/08RIklEZ1C1T7xL1A1MqP2"
@@ -7090,7 +7174,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 192026,
       "name": "Toy ! - Single mix",
       "url": "https://open.spotify.com/track/4lna786L8JUAqg31pV89Y8"
@@ -8032,7 +8116,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 301336,
       "name": "Zulu Alpha",
       "url": "https://open.spotify.com/track/2Un1wf1MC4CEAramid6OoC"

@@ -1289,6 +1289,28 @@
     },
     {
       "album": {
+        "name": "Ebak Zala Z'Ovu (II)",
+        "url": "https://open.spotify.com/album/1slivS0rdHFiVpl6OHYihN"
+      },
+      "artists": [
+        {
+          "name": "Hi-Bred",
+          "url": "https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8"
+        },
+        {
+          "name": "Grace Akakam",
+          "url": "https://open.spotify.com/artist/6RxBaERGqQUh8s7IW6ebDV"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294324,
+      "name": "Ebak Zala Z'Ovu (II)",
+      "url": "https://open.spotify.com/track/6jzAHmnTyz72Ha1o2b3pNi"
+    },
+    {
+      "album": {
         "name": "Ebenezer",
         "url": "https://open.spotify.com/album/37iJDRDQcjPE0SMGKtNp5y"
       },

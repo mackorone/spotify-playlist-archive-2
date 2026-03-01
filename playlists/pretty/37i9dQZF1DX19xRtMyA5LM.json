@@ -1,12 +1,12 @@
 {
   "description": "De beste tracks in WS\u2757\ufe0fCover: Lil Kleine",
-  "num_followers": 708367,
+  "num_followers": 708380,
   "original_name": "Woordenschat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAPnUNIiXWwgY3fp7d9DwVF21bQL",
+  "snapshot_id": "AAAAADjUTnqdLpRYU5a+ZKaJCaNKanNW",
   "tracks": [
     {
       "added_at": "2026-02-26 23:00:37",
@@ -87,22 +87,6 @@
     {
       "added_at": "2026-02-26 23:00:37",
       "album": {
-        "name": "Broke",
-        "url": "https://open.spotify.com/album/6aXLk4I0vYBcGjAp11Clfj"
-      },
-      "artists": [
-        {
-          "name": "Lusho",
-          "url": "https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs"
-        }
-      ],
-      "duration_ms": 107443,
-      "name": "Broke",
-      "url": "https://open.spotify.com/track/0FgZJIyEzNEJdeeHbRDIe4"
-    },
-    {
-      "added_at": "2026-02-26 23:00:37",
-      "album": {
         "name": "Toedels!",
         "url": "https://open.spotify.com/album/7bDArl46fkgXYxKqxSrKqf"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 172251,
       "name": "Toedels!",
       "url": "https://open.spotify.com/track/6AmhyeFjiw2s8313ruZuIg"
+    },
+    {
+      "added_at": "2026-02-26 23:00:37",
+      "album": {
+        "name": "Broke",
+        "url": "https://open.spotify.com/album/6aXLk4I0vYBcGjAp11Clfj"
+      },
+      "artists": [
+        {
+          "name": "Lusho",
+          "url": "https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs"
+        }
+      ],
+      "duration_ms": 107443,
+      "name": "Broke",
+      "url": "https://open.spotify.com/track/0FgZJIyEzNEJdeeHbRDIe4"
     },
     {
       "added_at": "2026-02-26 23:00:37",
@@ -186,15 +186,11 @@
         {
           "name": "Lil Kleine",
           "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        },
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
         }
       ],
-      "duration_ms": 149615,
-      "name": "Fashionweek",
-      "url": "https://open.spotify.com/track/3AsS2rFZd9yvysDmPIXkDk"
+      "duration_ms": 194221,
+      "name": "Psycholoog",
+      "url": "https://open.spotify.com/track/3LiNpN9qg5p2wJAnQum1Yt"
     },
     {
       "added_at": "2026-02-26 23:00:37",
@@ -259,22 +255,6 @@
     {
       "added_at": "2026-02-26 23:00:37",
       "album": {
-        "name": "F*CK KLEINE",
-        "url": "https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7"
-      },
-      "artists": [
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        }
-      ],
-      "duration_ms": 194221,
-      "name": "Psycholoog",
-      "url": "https://open.spotify.com/track/3LiNpN9qg5p2wJAnQum1Yt"
-    },
-    {
-      "added_at": "2026-02-26 23:00:37",
-      "album": {
         "name": "Kraslot",
         "url": "https://open.spotify.com/album/5UIAIc3JgDiIa53hPhef4O"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 168648,
       "name": "Mobil 1",
       "url": "https://open.spotify.com/track/480RzRw1ZHGk3bdNvV8ou6"
+    },
+    {
+      "added_at": "2026-02-26 23:00:37",
+      "album": {
+        "name": "F*CK KLEINE",
+        "url": "https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 149615,
+      "name": "Fashionweek",
+      "url": "https://open.spotify.com/track/3AsS2rFZd9yvysDmPIXkDk"
     },
     {
       "added_at": "2026-02-26 23:00:37",

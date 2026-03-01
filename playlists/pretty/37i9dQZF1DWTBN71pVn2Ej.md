@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The future of noise\. Cover: Failure
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,335 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,305 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 99 | [For now, I'll forget you](https://open.spotify.com/track/6LNeBXXKUN0WjIrISFMFj1) | [TNL VZN](https://open.spotify.com/artist/3di6YoR5j617hBNYJJ9c1h) | [Wandering Eyes, Still Hands](https://open.spotify.com/album/73R2D1405h15Q94FAsHIee) | 3:49 |
 | 100 | [Undo](https://open.spotify.com/track/3EIzpYc2Jg5GBG1J9utqrH) | [Forest](https://open.spotify.com/artist/4yhFkgZya8FbiBkJU7t5j6) | [Intravenous French Kiss](https://open.spotify.com/album/0RItMlHAl5pXiU4svmRRhf) | 3:14 |
 
-Snapshot ID: `AAAAAIrXjgUujxNwpn/3wKndS5KNhid+`
+Snapshot ID: `AAAAAAMkMsDaIebUrMW2S2Ok00pZxHo0`

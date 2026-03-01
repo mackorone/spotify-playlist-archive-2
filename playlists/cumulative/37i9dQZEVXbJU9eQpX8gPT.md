@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,928 songs - 4 day 8 hr 57 min
+1,930 songs - 4 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -679,6 +679,7 @@
 | [Girl Of My Dreams \(with SUGA of BTS\)](https://open.spotify.com/track/7DF8lvLdV3htIbuTWpc7lR) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Fighting Demons](https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT) | 3:46 | 2021-12-12 | 2021-12-27 |
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2021-09-05 | 2021-09-15 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-14 | 2022-07-31 |
+| [GO](https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 3:15 | 2026-02-28 |  |
 | [Go](https://open.spotify.com/track/2g2x70gCZb31tUFcACNeL5) | [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [Go](https://open.spotify.com/album/6Bp7UQPt8gXp3SFk3CF70Q) | 2:08 | 2025-02-17 | 2025-05-17 |
 | [Go Go](https://open.spotify.com/track/5nq1uTNIR1cBR72T87viS0) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 承 'Her'](https://open.spotify.com/album/2FTS6a6DLXMNp8flyA0HGO) | 3:55 | 2021-12-09 | 2021-12-10 |
 | [God Breathed](https://open.spotify.com/track/1dPNJDYuW9QAtkOpK3eBvO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:33 | 2021-08-31 | 2021-09-02 |
@@ -948,7 +949,7 @@
 | [Lalala](https://open.spotify.com/track/1diDQ6oxUeaMWzGxeITGmF) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Lalala](https://open.spotify.com/album/51uhzA9DubuaIA8HipKUVP) | 2:32 | 2021-03-27\* | 2021-08-07 |
 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 | 2021-09-12 | 2021-09-13 |
 | [Lalla ou mali](https://open.spotify.com/track/6UtKKdLfQr7qPyBrnVpjWH) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 2\)](https://open.spotify.com/album/6ftqq8qDocyfFPhLCmX0o1) | 3:29 | 2022-11-04 | 2022-12-03 |
-| [Lalla w Mali](https://open.spotify.com/track/3Thycu4Wd5AwGFDYYWiioT) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Lalla w Mali](https://open.spotify.com/album/1PJZUE8mS0n32Rbf7buCXl) | 2:56 | 2024-08-10 |  |
+| [Lalla w Mali](https://open.spotify.com/track/3Thycu4Wd5AwGFDYYWiioT) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Lalla w Mali](https://open.spotify.com/album/1PJZUE8mS0n32Rbf7buCXl) | 2:56 | 2024-08-10 | 2026-03-01 |
 | [Laloli](https://open.spotify.com/track/1MnVAOuyDFh6RwD8MCzQ6l) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [2x1](https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp) | 3:16 | 2024-05-11 | 2024-05-16 |
 | [Lamine](https://open.spotify.com/track/0kHyQJgRXOfB5EhBFTSpRJ) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Reinsertado 2.0](https://open.spotify.com/album/1dpi5vuuSZ0NILVDKhi8Ii) | 3:29 | 2025-07-29 | 2025-10-10 |
 | [Lamouni](https://open.spotify.com/track/3VjyVm2EOI3bKXmA9BRz7i) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Soufiane Az](https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04) | [Lamouni](https://open.spotify.com/album/67GW8ttYMQksrL6ER2Ovaf) | 3:22 | 2023-06-20 | 2023-06-22 |
@@ -1419,7 +1420,7 @@
 | [Pyro](https://open.spotify.com/track/1CTZ4R38pefIcVSuWh1HG0) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Pyro](https://open.spotify.com/album/0BtK0U46lkbSfxSSq1doUT) | 6:04 | 2026-01-03 | 2026-01-05 |
 | [Python](https://open.spotify.com/track/5kvEOhMHxxCeiEQlLSoEWZ) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Gala](https://open.spotify.com/album/5thNlwr5FFcXWjtZAlfRH0) | 3:03 | 2022-05-07 | 2022-06-03 |
 | [Q&Q](https://open.spotify.com/track/5XZGHt40MF58dJEitWqMf0) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [Traitement](https://open.spotify.com/album/6fCkoAdNggGvVt6gUoKF5T) | 4:05 | 2021-09-15 | 2021-09-17 |
-| [Qalbi Fil Madinah](https://open.spotify.com/track/0wlrVtFDcIBzZQoTdVcIkg) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz), [Harris J](https://open.spotify.com/artist/58LXBTOy629nyAjqX8iUTE) | [Qalbi Fil Madinah](https://open.spotify.com/album/6iPrwxzLdwfMrjymjvxvJM) | 3:24 | 2025-03-13 |  |
+| [Qalbi Fil Madinah](https://open.spotify.com/track/0wlrVtFDcIBzZQoTdVcIkg) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz), [Harris J](https://open.spotify.com/artist/58LXBTOy629nyAjqX8iUTE) | [Qalbi Fil Madinah](https://open.spotify.com/album/6iPrwxzLdwfMrjymjvxvJM) | 3:24 | 2025-03-13 | 2026-03-01 |
 | [Qalbi Fil Madinah](https://open.spotify.com/track/2A60yUGLjnvwvoCYDyAk8Y) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz), [Harris J](https://open.spotify.com/artist/58LXBTOy629nyAjqX8iUTE) | [Qalbi Fil Madinah](https://open.spotify.com/album/36bGiADRQ7jBGthPyPU1Ly) | 3:24 | 2025-03-22 | 2026-02-22 |
 | [QQP](https://open.spotify.com/track/12DL63Fh3MHyfiQfLsZXxm) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [PLAN B](https://open.spotify.com/album/4p3aP0cbVIb90Lm3h2TD1N) | 3:03 | 2025-11-22 | 2025-12-15 |
 | [Qualité](https://open.spotify.com/track/2keq6Q46nWdILpktuPhLOQ) | [Fresh La Douille](https://open.spotify.com/artist/1ssrFpfMmM0vRx85eO2XKL), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Voltaire \(Deluxe\)](https://open.spotify.com/album/03pi9QuYKXaynm4jETYAtf) | 3:24 | 2023-07-08 | 2023-07-10 |
@@ -1477,6 +1478,7 @@
 | [Rolex](https://open.spotify.com/track/0SlYh9pUfmFGFH5mSANcJM) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8), [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Ok Wait](https://open.spotify.com/album/3k9wutDahqiqO2YfohyG4d) | 3:40 | 2024-10-24 | 2024-10-30 |
 | [Rooftop](https://open.spotify.com/track/14xb83sTdlt21uPgv9AeSr) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [YAKINE](https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX) | 3:43 | 2024-06-28 | 2024-07-12 |
 | [Rooftop](https://open.spotify.com/track/5mZsqdcS54Dz1HiyzJ6IC8) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [YAKINE](https://open.spotify.com/album/5LuZWDplnk8b6cL0BV3SJ9) | 3:43 | 2024-07-12 | 2024-07-27 |
+| [Rosalinda](https://open.spotify.com/track/2Ck70DwcyAnqIWkE12ZOn2) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Flashy OTR](https://open.spotify.com/artist/5avjsXzLQG6PCfrzENEgak) | [Rosalinda](https://open.spotify.com/album/1i7rBPNK8CKM5M6TIBnleQ) | 3:27 | 2026-02-28 |  |
 | [Rosita](https://open.spotify.com/track/0Iu2Jrfy91hMgIUtS9FFIX) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 3:15 | 2022-07-16 | 2023-04-27 |
 | [Rouhi](https://open.spotify.com/track/2qxPBeL2Q8jRnDv6EPK18A) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Rouhi](https://open.spotify.com/album/7yfYEHSOufXZcpYcBfD0VS) | 3:01 | 2024-01-31 | 2024-06-22 |
 | [Routini \(feat\. Lferda\)](https://open.spotify.com/track/3CFv7rsTbKuJ2j3pDbebYe) | [Tflow](https://open.spotify.com/artist/1gEQbGxdBq1vvCskS9qQBI), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Jenna](https://open.spotify.com/album/6LG7p8zCkqWALWyhpTvCMw) | 2:54 | 2021-07-18 | 2021-07-21 |

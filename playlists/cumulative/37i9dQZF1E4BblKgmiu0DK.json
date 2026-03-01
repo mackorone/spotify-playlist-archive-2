@@ -488,7 +488,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 181613,
       "name": "Best Of Me",
       "url": "https://open.spotify.com/track/1JhmW4NdVThYhB6W5Af9OU"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 201142,
       "name": "Better Off Dancing",
       "url": "https://open.spotify.com/track/1DpFP5szxmfhKtmmQseenG"
@@ -668,7 +668,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 130290,
       "name": "Blazetrap Anthem",
       "url": "https://open.spotify.com/track/19WwfaQrv9Ofhce1PP3GRN"
@@ -2026,7 +2026,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 178466,
       "name": "Groupie",
       "url": "https://open.spotify.com/track/68eyV7PfPk2SE066AbZ2Hj"
@@ -2170,10 +2170,28 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 101999,
       "name": "High-Voltage Riot",
       "url": "https://open.spotify.com/track/3wQP930DfW0DOc4nBBvS3F"
+    },
+    {
+      "album": {
+        "name": "Hollow Bone",
+        "url": "https://open.spotify.com/album/4ccewCTWruvhwAj9I0aKSK"
+      },
+      "artists": [
+        {
+          "name": "Kinetic Kaleidoscope",
+          "url": "https://open.spotify.com/artist/5sATOhqIRY5pgA7XCm8l1I"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215481,
+      "name": "Hollow Bone",
+      "url": "https://open.spotify.com/track/61PSIaS8qIBNJvSJUCjsMv"
     },
     {
       "album": {
@@ -2588,7 +2606,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 211941,
       "name": "I'm Just A Girl",
       "url": "https://open.spotify.com/track/6VTMcqAaoP3yzdEQ1NShuW"
@@ -2686,7 +2704,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 178826,
       "name": "It Takes One to Know One",
       "url": "https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup"
@@ -2956,7 +2974,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 219786,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/67I2ZXHgILepytYzNMBAbm"
@@ -3392,7 +3410,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 238013,
       "name": "Mr Colson",
       "url": "https://open.spotify.com/track/3slvBytOocmwtxDCR4Q12p"
@@ -3968,7 +3986,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 225440,
       "name": "Phase Transition",
       "url": "https://open.spotify.com/track/5126Zi3wuCY7NwZW8dsJIm"
@@ -4836,7 +4854,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 266386,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz"
@@ -4872,7 +4890,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 135984,
       "name": "The Same Chick",
       "url": "https://open.spotify.com/track/4qKGLx4EWB6Ovj0E48YSLX"
@@ -4890,7 +4908,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 186050,
       "name": "The Spell",
       "url": "https://open.spotify.com/track/0ZtHJrJ0yUhVRWxKhfwrbm"
@@ -4955,6 +4973,24 @@
     },
     {
       "album": {
+        "name": "Irresistible Light",
+        "url": "https://open.spotify.com/album/0wNbUdIgSwlq0xZrjp8ku3"
+      },
+      "artists": [
+        {
+          "name": "Selma Dackord",
+          "url": "https://open.spotify.com/artist/6f8vDlDRpRE1mXYSlGKRwq"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "This is our Time",
+      "url": "https://open.spotify.com/track/0FL9wk5ZYlCe1IDPj4fFHF"
+    },
+    {
+      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/5p6IgZnQlcfXwhibCi1TtD"
       },
@@ -4984,7 +5020,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 129047,
       "name": "Thunderstorm Revolution",
       "url": "https://open.spotify.com/track/010QHyDl2REO0nD4vtT9p4"
@@ -5020,7 +5056,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 250799,
       "name": "Top of the Mourning",
       "url": "https://open.spotify.com/track/7CtsYwGM9pMP5ywplXwpAc"
@@ -5074,7 +5110,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 159433,
       "name": "Turborage Flow",
       "url": "https://open.spotify.com/track/1EwdEzlPkrK7P8TQccZWzh"
@@ -5092,7 +5128,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 224807,
       "name": "TURN IT AROUND",
       "url": "https://open.spotify.com/track/2HoD5AMsRcx5DpwkGywEo5"
@@ -5272,7 +5308,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 198570,
       "name": "Welcome To The Badlands",
       "url": "https://open.spotify.com/track/0eKlJZz9cE2DAhjOSqehCS"

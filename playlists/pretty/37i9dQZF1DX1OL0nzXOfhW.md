@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 > 2025 RADAR登場！持續發掘香港未來新聲！Cover: Billy Choi
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,656 likes - 51 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,655 likes - 51 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 50 | [out of sight out of mind](https://open.spotify.com/track/1OKWPUyUmRYeKv0uUhMcAD) | [Dizparity](https://open.spotify.com/artist/0DYcDpgiVTcXJszxcswVce), [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq) | [out of sight out of mind](https://open.spotify.com/album/11DROtu8TL8qmYMNTlG5nQ) | 3:10 |
 | 51 | [i'll shine](https://open.spotify.com/track/5BVUabiHdhozWcy8DlgJDZ) | [Dizparity](https://open.spotify.com/artist/0DYcDpgiVTcXJszxcswVce), [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq) | [i'll shine](https://open.spotify.com/album/5mw25o5rZsomWFgr4UC8ys) | 3:56 |
 
-Snapshot ID: `AAAAACJMRo4Kloob6LTLbJXAzmIyrIau`
+Snapshot ID: `AAAAAEmtwbVI8kfa0O8HFtfyK4OvrF+B`

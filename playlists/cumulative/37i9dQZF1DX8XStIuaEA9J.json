@@ -2929,6 +2929,28 @@
     },
     {
       "album": {
+        "name": "Chatter Chatter",
+        "url": "https://open.spotify.com/album/28eckMCFWtXKYswQDPL8Ov"
+      },
+      "artists": [
+        {
+          "name": "\u5b9d\u9418\u30de\u30ea\u30f3",
+          "url": "https://open.spotify.com/artist/5XaBNKQo65yYcjNA8wQPOk"
+        },
+        {
+          "name": "Hoshimachi Suisei",
+          "url": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177344,
+      "name": "Chatter Chatter",
+      "url": "https://open.spotify.com/track/3f2HnVPKvQ19QvYrjBMUiX"
+    },
+    {
+      "album": {
         "name": "Cheat Life (feat. punchnello)(prod. by GRAY)",
         "url": "https://open.spotify.com/album/3Tk0EPZRaUwlNyRhrUFxOL"
       },

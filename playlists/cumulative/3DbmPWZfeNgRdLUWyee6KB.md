@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-686 songs - 1 day 16 hr 24 min
+687 songs - 1 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Age Of Innocence](https://open.spotify.com/track/6Kg9rDa3N0UANVpbuNTAby) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [Age Of Innocence](https://open.spotify.com/album/4M9Na1uq901AQhN8aVNXzq) | 4:14 | 2025-09-23 | 2025-11-29 |
 | [Ahhh](https://open.spotify.com/track/2vxr60lrZFVBxq1UmyTX1d) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Instinto Animal](https://open.spotify.com/album/1J7Dz8Fw98iGdyc5zkVqBy) | 2:50 | 2025-11-24 | 2026-01-05 |
 | [Algo Tranqui](https://open.spotify.com/track/6QgPvRXLjwJNKflsm6YIBv) | [CHRISTIAN GRAND](https://open.spotify.com/artist/0Jy7k1rljCzZoaqXs5Cjxd) | [Destellos en la Noche](https://open.spotify.com/album/1Zo3M98fNKzuBUrG7tUKSU) | 2:50 | 2026-01-20 | 2026-02-20 |
+| [All The Time](https://open.spotify.com/track/7E2MmQgEzRorBQZYx853RD) | [Tathan](https://open.spotify.com/artist/02MtYbPPmiILqyRJ8ftJfV) | [All The Time](https://open.spotify.com/album/5kEJxEoZytKnaoQpr76M73) | 2:34 | 2026-02-28 |  |
 | [Alleine im Partyraum](https://open.spotify.com/track/3IYJdA04iosfRwkMUOCc1O) | [Nordwestpartycrew](https://open.spotify.com/artist/5Jq329mT4XRIjQirRXkzbg) | [Alleine im Partyraum](https://open.spotify.com/album/7jFYriN5oyX3gwZZuJpEDm) | 4:29 | 2025-11-21 | 2026-01-05 |
 | [Allora come ti va](https://open.spotify.com/track/1e4XmtctCBleGXpwMFL2uS) | [David Monni](https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx) | [Allora come ti va](https://open.spotify.com/album/2kIGDCh4ia1nJP38hvN6QH) | 4:38 | 2026-01-08 |  |
 | [Aloha wau iā ʻoe](https://open.spotify.com/track/4QCsOjVip08VY94h6mOiry) | [DJ Kosho](https://open.spotify.com/artist/4v0mYxAmKlG7pDYuiUfm87) | [Aloha wau iā ʻoe](https://open.spotify.com/album/5Hj7C1hSX8R3ehZcSlpSDt) | 4:12 | 2026-01-07 | 2026-02-03 |

@@ -4,7 +4,7 @@
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-236 songs - 14 hr 2 min
+237 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Hello \(feat\. KiDi\)](https://open.spotify.com/track/51UajxghdmBlcW1WGU1lXa) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 4:01 | 2021-12-30 | 2022-10-12 |
 | [Hennessy Cypher](https://open.spotify.com/track/4Pk8OqjfAwDnYS6kD7RlRa) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni) | [Hennessy Cypher](https://open.spotify.com/album/3pqhwdNsbyzuXL54RMUjNw) | 8:20 | 2024-07-27 | 2024-08-24 |
 | [Highest, Pt\. 1 \- Interlude](https://open.spotify.com/track/4crdW05OWhinvkKKe0jz8o) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Suli Breaks](https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck) | [Highest](https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au) | 0:35 | 2022-09-18 | 2025-05-17 |
+| [Homicide](https://open.spotify.com/track/4sXR32GHaqM9WKPpqdfQtr) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6) | [Homicide](https://open.spotify.com/album/1m8U2P0PXOh00k1GnCjObK) | 2:57 | 2026-03-01 |  |
 | [Homicide](https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6) | [Homicide](https://open.spotify.com/album/48AoFYGD47IgoGp0EA3x81) | 3:03 | 2022-05-21 | 2025-12-25 |
 | [Honey \(feat\. Kuami Eugene\)](https://open.spotify.com/track/5nVhVTm0ZVWMiFRXmC1ori) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:17 | 2022-03-13 | 2022-09-25 |
 | [Hope \(Brighter Day\)](https://open.spotify.com/track/7E0KDOByWpvZBX83SJua0e) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Hope \(Brighter Day\)](https://open.spotify.com/album/0eDB6dnzG46Xfn1yhycDGM) | 5:16 | 2022-05-10 | 2025-11-20 |
@@ -241,7 +242,7 @@
 | [Year of Return](https://open.spotify.com/track/2ovx9TSB1J3pEaWRUDnBed) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Coded](https://open.spotify.com/artist/4oUIlyHTTqRSmtWZTQNZ4r) | [Year of Return](https://open.spotify.com/album/4828QaSjhsNh3dtIt0leDt) | 3:58 | 2021-12-28 | 2022-10-11 |
 | [Yedin](https://open.spotify.com/track/2ZSwQpziKJivg3cJSoRtjQ) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Yedin](https://open.spotify.com/album/1fuwXJKd5nYTrVFU9R7Afj) | 3:17 | 2024-12-10 | 2025-06-07 |
 | [You & I](https://open.spotify.com/track/6awL5NSRprmquSbat1sCnf) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [You & I](https://open.spotify.com/album/1O1zYFI9VSymutdU8HLbCW) | 2:40 | 2025-12-15 | 2026-01-21 |
-| [You & I \(feat\. Olivetheboy\) \- Remix](https://open.spotify.com/track/1flano0UcvIuEHv9YxzCc1) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [You & I \(feat\. Olivetheboy\) \[Remix\]](https://open.spotify.com/album/7N1Z4pD0qIGEr1kPhuTDHW) | 2:40 | 2026-01-21 |  |
+| [You & I \(feat\. Olivetheboy\) \- Remix](https://open.spotify.com/track/1flano0UcvIuEHv9YxzCc1) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [You & I \(feat\. Olivetheboy\) \[Remix\]](https://open.spotify.com/album/7N1Z4pD0qIGEr1kPhuTDHW) | 2:40 | 2026-01-21 | 2026-03-01 |
 | [You Know](https://open.spotify.com/track/4WyeQ7S4ggK6OT0xfoFJK2) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Lighthouse EP](https://open.spotify.com/album/3XiiHZ3R6DtKXTb8X1cHzF) | 3:39 | 2023-11-10 | 2023-12-14 |
 | [Your Waist](https://open.spotify.com/track/3JrGJpTH22g43YrSWuW4df) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Highest](https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au) | 3:33 | 2021-12-28 | 2023-04-17 |
 

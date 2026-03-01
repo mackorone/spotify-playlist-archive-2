@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Veer Sandhu & More
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,045 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,054 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 4 | [STILL INTO YOU \(feat\. NIMAAN\)](https://open.spotify.com/track/5kHifuPCFRJlzMm55aa3mq) | [Agaaz](https://open.spotify.com/artist/5v8xvZvH2sT2vSqQjwZdhl), [ARSH](https://open.spotify.com/artist/0vzZDYE6Z4rvZXMReRwlHi), [NIMAAN](https://open.spotify.com/artist/2XHUsFId8Zx5T6wa48Rdzr) | [STILL INTO YOU \(feat\. NIMAAN\)](https://open.spotify.com/album/03WXOP5Mnzcm9D7upbsdJu) | 3:14 |
 | 5 | [Yaariyan \(From "Big Step"\)](https://open.spotify.com/track/0tDXLncyIcLQpB9dzbouFw) | [Samarr](https://open.spotify.com/artist/7LdpoCfM0ZokVwmlhoP2Qf), [Saga Sounds](https://open.spotify.com/artist/6JqjmhYjFskJtqjvruCxKN) | [Yaariyan \(From "Big Step"\)](https://open.spotify.com/album/0PP56Vpbm6w9OC9Kz2ahRA) | 2:39 |
 | 6 | [GodSpeed](https://open.spotify.com/track/1lWmOnxDibmFoLkqISeuLV) | [G Money](https://open.spotify.com/artist/6nESeogcP9RHcCxenWws4f) | [GodSpeed](https://open.spotify.com/album/7awoUr7HNHEE92BRbxPuMu) | 2:00 |
-| 7 | [Puff](https://open.spotify.com/track/26lBKwkwv7kASiNp2yi3j8) | [DNP](https://open.spotify.com/artist/4KlOS4A6fIwPN2EHbnZPpX), [Jazz Dee](https://open.spotify.com/artist/18244MIsK1vlIWrr9gG2i3) | [Puff](https://open.spotify.com/album/2T0z04imUKjqJUw1lLqPWI) | 2:19 |
+| 7 | [Puff](https://open.spotify.com/track/26lBKwkwv7kASiNp2yi3j8) | [DNP](https://open.spotify.com/artist/5AVksex7R1JhL5tVsxfBjy), [Jazz Dee](https://open.spotify.com/artist/18244MIsK1vlIWrr9gG2i3) | [Puff](https://open.spotify.com/album/2T0z04imUKjqJUw1lLqPWI) | 2:19 |
 | 8 | [Aitbaar](https://open.spotify.com/track/19WjBfLw88ly1nzzJxbeMd) | [NVY](https://open.spotify.com/artist/1NcRcMDkVhDDwtHF53VfSa), [Muheet Khan](https://open.spotify.com/artist/7JJ5y1QW0tDTlc3ZjKbcE9), [Illuminhadi](https://open.spotify.com/artist/5XAv2ZKaRm5PHhWAMFFkSf) | [Aitbaar](https://open.spotify.com/album/3GfZ7JONSSrKzsuQ4zE9R7) | 3:17 |
 | 9 | [Seal](https://open.spotify.com/track/24Ne91Jvl5wetkDudLbpsz) | [Khush Athwal](https://open.spotify.com/artist/2b2otF2sjvHWC1jQQQcY69), [Harry Gill](https://open.spotify.com/artist/7oJrFWGDY3WKkE2w8WnI2C), [PROD BY 47](https://open.spotify.com/artist/1y2qyqqQVxDXAwm87Ki1NG) | [Seal](https://open.spotify.com/album/0C3mzcfzfCG2YkqtIIEn24) | 2:55 |
 | 10 | [Mask Off](https://open.spotify.com/track/1E7p0ka5WTGgeVAuvEPCmR) | [RB Singh](https://open.spotify.com/artist/2Xai801c9jaVjHzViq0F71) | [Mask Off](https://open.spotify.com/album/29wkiCWzBkyNjB07LjLl2O) | 2:02 |

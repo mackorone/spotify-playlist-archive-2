@@ -9711,6 +9711,32 @@
     },
     {
       "album": {
+        "name": "Cantaremos (Que Cante La Iglesia)",
+        "url": "https://open.spotify.com/album/5huZc7HBMowjgsBDcZhcrW"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "ECCOS",
+          "url": "https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l"
+        },
+        {
+          "name": "Samu Robles",
+          "url": "https://open.spotify.com/artist/2fvKekLjq0z3TzIljRraPl"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195756,
+      "name": "Cantaremos (Que Cante La Iglesia)",
+      "url": "https://open.spotify.com/track/1c3kCYHSJWAM4doRN4Bver"
+    },
+    {
+      "album": {
         "name": "Cantaremos (Live)",
         "url": "https://open.spotify.com/album/06e7a8Sx5SPrHsEgL90RVF"
       },
@@ -9930,32 +9956,6 @@
       "duration_ms": 339443,
       "name": "Canto En La Batalla - En Vivo",
       "url": "https://open.spotify.com/track/68Hxi3sKPugKXtOG4ZBmK9"
-    },
-    {
-      "album": {
-        "name": "Cant\u00e1remos (Que Cante La Iglesia)",
-        "url": "https://open.spotify.com/album/5huZc7HBMowjgsBDcZhcrW"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "ECCOS",
-          "url": "https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l"
-        },
-        {
-          "name": "Samu Robles",
-          "url": "https://open.spotify.com/artist/2fvKekLjq0z3TzIljRraPl"
-        }
-      ],
-      "date_added": "2026-02-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 195756,
-      "name": "Cant\u00e1remos (Que Cante La Iglesia)",
-      "url": "https://open.spotify.com/track/1c3kCYHSJWAM4doRN4Bver"
     },
     {
       "album": {

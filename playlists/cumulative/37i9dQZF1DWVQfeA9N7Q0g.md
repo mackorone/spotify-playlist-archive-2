@@ -2,9 +2,9 @@
 
 ### [Sanremo 2026](https://open.spotify.com/playlist/37i9dQZF1DWVQfeA9N7Q0g)
 
-> I brani di Sanremo sono qui, pronti a farti innamorare al primo \(o al decimo\) ascolto 💐
+> Sal Da Vinci ha vinto il festival di Sanremo 💐
 
-90 songs - 4 hr 53 min
+91 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Grazie ma no grazie](https://open.spotify.com/track/4Ac0hRIX2ygtdag4E9mXh0) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Grazie ma no grazie](https://open.spotify.com/album/0qXDA1aseu36UbzuadyYnx) | 3:25 | 2025-02-24 | 2026-02-25 |
 | [I MASCHI \(feat\. Gaia\)](https://open.spotify.com/track/1bs5J4ljYslfbSCtvKxh78) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G), [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [I MASCHI \(feat\. Gaia\)](https://open.spotify.com/album/1ym6imEjfATMQw9WrTd1xy) | 2:58 | 2026-02-28 |  |
 | [I romantici](https://open.spotify.com/track/3X6VETSe1orqobaME0KTzQ) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [I romantici](https://open.spotify.com/album/6QXhh6j3OifW2hTvVWXbVW) | 3:59 | 2026-02-25 |  |
+| [Il Giorno dell'Armistizio](https://open.spotify.com/track/0VwjJbNuxG338w8a4O4ZtG) | [Dargen D'Amico](https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm), [Pupo](https://open.spotify.com/artist/6LjwPhoH3RDoL8JoXciUHL), [Fabrizio Bosso](https://open.spotify.com/artist/1Y8kr8EHj08yZJHAWyQxoQ) | [Il Giorno dell'Armistizio](https://open.spotify.com/album/1VJVIDLUjD5wjoZzVrzpnf) | 3:15 | 2026-03-01 |  |
 | [Il meglio di me](https://open.spotify.com/track/4cvOQtYVSPe1Tv4T4R34IC) | [Francesco Renga](https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2) | [Il meglio di me](https://open.spotify.com/album/7tz6PDG1tpEZcmXdAmeDeV) | 2:47 | 2026-02-25 |  |
 | [Il Mondo \(con Brunori Sas\)](https://open.spotify.com/track/5EfDRuPRCMcuwfc5i9kwjn) | [Maria Antonietta](https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb), [Colombre](https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1), [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Il Mondo \(con Brunori Sas\)](https://open.spotify.com/album/4jS7pe9vwUQzhUzRZFQqMT) | 2:53 | 2026-02-28 |  |
 | [il ritmo delle cose.](https://open.spotify.com/track/2BptnzpcLO9NAdNdKh2rZy) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [il ritmo delle cose.](https://open.spotify.com/album/14o2gMXu5mcQehz5n3YnfU) | 3:12 | 2025-02-24 | 2026-02-25 |

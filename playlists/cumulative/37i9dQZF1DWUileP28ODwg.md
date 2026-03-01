@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: Leanna Crawford & Seph Schlueter
 
-686 songs - 1 day 18 hr 4 min
+686 songs - 1 day 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [I've Got A Story \(feat\. Tori Kelly\)](https://open.spotify.com/track/36eSZRHIYEE1zFN3aAjjAN) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [House Of David \(Music Inspired By The Prime Video Original Series\) \[Season One\]](https://open.spotify.com/album/0xV5LfRixOiXlDYOvny1GI) | 3:23 | 2025-04-11 | 2025-08-10 |
 | [I've Got Joy](https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It \(Deluxe Edition\)](https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw) | 3:38 | 2022-04-22 | 2023-10-07 |
 | [I've Just Seen Too Much](https://open.spotify.com/track/1FEe1h5HsZ7Zemy9C8fw5k) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [I've Just Seen Too Much](https://open.spotify.com/album/3prY1U770zxu2B8vCJ6iBe) | 4:17 | 2025-03-28 | 2025-04-29 |
+| [If God Lives Here](https://open.spotify.com/track/3UF6qUVCkDROF8dnpiRHBG) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Jesus Loves \(Deluxe\)](https://open.spotify.com/album/27SAGWQhgRIMrsaXyiGge2) | 3:41 | 2026-02-27 |  |
 | [If God Lives Here](https://open.spotify.com/track/38mlXMe2Sixjbv3ysYfeUL) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [If God Lives Here](https://open.spotify.com/album/0LUnzgdbzekvEuOKHBpHlU) | 3:50 | 2025-12-12 | 2026-01-24 |
 | [If God Wrote A Song](https://open.spotify.com/track/2B3fZRkEZiLR5vqpDxLYTy) | [Jaime Jamgochian](https://open.spotify.com/artist/589zPmnl9UayJxgJAyEmpo), [Joseph Habedank](https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be) | [If God Wrote A Song](https://open.spotify.com/album/6zev25jw1cTXFrLwdMMbux) | 3:14 | 2024-06-07 | 2024-07-19 |
 | [If I Got Jesus](https://open.spotify.com/track/3WmxRZz8xq4jNJW2kVusQc) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [If I Got Jesus](https://open.spotify.com/album/3VPe5UV652wUXh56MN9eSH) | 3:51 | 2024-05-10 | 2025-03-08 |
@@ -603,7 +604,6 @@
 | [To Save My Life](https://open.spotify.com/track/3ztqayRkNjhDgsJ3fKwu3P) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [My Foundation](https://open.spotify.com/album/5aHy0vrK4u7BtrGkUwMa0q) | 3:20 | 2024-06-14 | 2025-03-29 |
 | [To Save My Life \- Acoustic](https://open.spotify.com/track/3pJug2MQyFivr5GAC91VTl) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [To Save My Life \(Acoustic\)](https://open.spotify.com/album/2yjZS9kAJ5QSem8Mr2QeUP) | 3:20 | 2025-03-28 | 2025-05-10 |
 | [Today](https://open.spotify.com/track/36zPLlwvrQjDm2oDG7KbmJ) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Today](https://open.spotify.com/album/5OcFeJQu3euDRmtOd2P19D) | 4:05 | 2022-02-25 | 2022-05-14 |
-| [Track 4](https://open.spotify.com/track/3UF6qUVCkDROF8dnpiRHBG) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Jesus Loves \(Deluxe\)](https://open.spotify.com/album/27SAGWQhgRIMrsaXyiGge2) | 0:00 | 2026-02-27 |  |
 | [Tremble](https://open.spotify.com/track/0RGIthuwU7fubTalnVc5fl) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Tremble](https://open.spotify.com/album/6XFGEg3EfV8PFqOUjs8Yvx) | 4:59 | 2022-02-25 | 2023-10-07 |
 | [Trust In God \(feat\. Chris Brown\)](https://open.spotify.com/track/5EHMPGhsQY5o1pcjOejbMj) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [Trust In God / More Than Able](https://open.spotify.com/album/0S5WweUHqJ4VLgXOfpmFZj) | 7:22 | 2023-10-06 | 2024-06-08 |
 | [Turn](https://open.spotify.com/track/1YWJPgaOnSO9fxvuaFuxXp) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Turn](https://open.spotify.com/album/2ciEYT6fFNsDoauWsERZut) | 3:54 | 2024-09-06 | 2024-10-08 |

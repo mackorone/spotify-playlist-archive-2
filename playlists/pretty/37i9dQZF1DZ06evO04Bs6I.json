@@ -1,12 +1,12 @@
 {
   "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 116738,
+  "num_followers": 116744,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ+NAAAAAABFsQfug/WNlbaCBPq6EcUO",
+  "snapshot_id": "aaDegAAAAAAiAnoDCZBeDi8xX3RV05kq",
   "tracks": [
     {
       "added_at": null,
@@ -43,26 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu Tenho Voc\u00ea",
-        "url": "https://open.spotify.com/album/3aQavEzfViHr3Qi6xaRNB9"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 394960,
-      "name": "Eu Tenho Voc\u00ea",
-      "url": "https://open.spotify.com/track/0oMn4ekYhRgtFMbAAzR0r9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuido dos Detalhes",
         "url": "https://open.spotify.com/album/4bxXWOi7jCnUEbeZ5SVUPp"
       },
@@ -79,6 +59,26 @@
       "duration_ms": 213420,
       "name": "Cuido dos Detalhes",
       "url": "https://open.spotify.com/track/1otGRpxjSNjSg5lmjaviNB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eu Tenho Voc\u00ea",
+        "url": "https://open.spotify.com/album/3aQavEzfViHr3Qi6xaRNB9"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 394960,
+      "name": "Eu Tenho Voc\u00ea",
+      "url": "https://open.spotify.com/track/0oMn4ekYhRgtFMbAAzR0r9"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 205266,
-      "name": "Sua Paz",
-      "url": "https://open.spotify.com/track/6IxxbIlg3rgzaULZm3DDxG"
+      "duration_ms": 226240,
+      "name": "Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/5dnPxV8jRadA1sClQEtNSX"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vou Me Humilhar",
-        "url": "https://open.spotify.com/album/3nAXxJENtLPyNVLJL2pV2B"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "Vou Me Humilhar",
-      "url": "https://open.spotify.com/track/6vHDtEpISkhjaYE5TDAHx3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
       },
@@ -483,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vou Me Humilhar",
+        "url": "https://open.spotify.com/album/3nAXxJENtLPyNVLJL2pV2B"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "Vou Me Humilhar",
+      "url": "https://open.spotify.com/track/6vHDtEpISkhjaYE5TDAHx3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Processo",
         "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
       },
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 226240,
-      "name": "Hist\u00f3ria",
-      "url": "https://open.spotify.com/track/5dnPxV8jRadA1sClQEtNSX"
+      "duration_ms": 205266,
+      "name": "Sua Paz",
+      "url": "https://open.spotify.com/track/6IxxbIlg3rgzaULZm3DDxG"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tetelestai (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 420453,
-      "name": "Se Eu Pudesse (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3Z7YY7XHEGrDjTtg4dxySG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 259862,
       "name": "Assume A Responsa",
       "url": "https://open.spotify.com/track/3VTOIGYgtzpZRDMQugP22h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tetelestai (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 420453,
+      "name": "Se Eu Pudesse (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3Z7YY7XHEGrDjTtg4dxySG"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tetelestai (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 354493,
-      "name": "Minha Alma Te Ama (Ao Vivo)",
-      "url": "https://open.spotify.com/track/10x8UTJcYEh4r7hLKj1Emi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 487384,
       "name": "A Casa \u00e9 Sua + Labareda",
       "url": "https://open.spotify.com/track/5C4touLyxRJB5ES63KyX6r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tetelestai (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 354493,
+      "name": "Minha Alma Te Ama (Ao Vivo)",
+      "url": "https://open.spotify.com/track/10x8UTJcYEh4r7hLKj1Emi"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resultado",
-        "url": "https://open.spotify.com/album/3Yon9LyJOWdwpwDcoDCvaH"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 200453,
-      "name": "Resultado",
-      "url": "https://open.spotify.com/track/7aBQQ6sJixQFZCuC3HPVHI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bra\u00e7os de Amor",
         "url": "https://open.spotify.com/album/7DAsKDdhuzSZynB1fsCpig"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 326136,
       "name": "Palavras e Palavras - Ao Vivo",
       "url": "https://open.spotify.com/track/43OlvJkIi2Gezfx1fajFPl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resultado",
+        "url": "https://open.spotify.com/album/3Yon9LyJOWdwpwDcoDCvaH"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 200453,
+      "name": "Resultado",
+      "url": "https://open.spotify.com/track/7aBQQ6sJixQFZCuC3HPVHI"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dependente de Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0dQX1IZI82UCXg47zWJNvh"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 242602,
+      "name": "Lindo Jesus - Ao Vivo",
+      "url": "https://open.spotify.com/track/6ObQ2PQrSK01d7MwSIzpAW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tranquilo",
         "url": "https://open.spotify.com/album/6a6l1rcXkDIgEeXynqIrxy"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 252352,
       "name": "N\u00e3o H\u00e1 o Que Temer",
       "url": "https://open.spotify.com/track/0OF4D4FGn9epxkXAJKFD86"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dependente de Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0dQX1IZI82UCXg47zWJNvh"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 242602,
-      "name": "Lindo Jesus - Ao Vivo",
-      "url": "https://open.spotify.com/track/6ObQ2PQrSK01d7MwSIzpAW"
     },
     {
       "added_at": null,

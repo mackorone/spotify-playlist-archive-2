@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjEq7Z199Si.md) - [plain]
 
 > Experience the epic conclusion of Wicked: For Good with the official playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,217 likes - 24 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,286 likes - 24 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjEq7Z199Si.md) - [plain]
 | 23 | [A Sentimental Man](https://open.spotify.com/track/2Nox49biysRuKoIaDWMemm) | [Jeff Goldblum](https://open.spotify.com/artist/0O1n2TpXR4XizmHi7aY0l8) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 2:12 |
 | 24 | [Ozdust Duet \- Bonus Track](https://open.spotify.com/track/5oUggqlg7zOto1unBbj393) | [The Wicked Orchestra](https://open.spotify.com/artist/0bVjGR347nlhO79Z3i881P) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 2:11 |
 
-Snapshot ID: `AAAAAJXW+RqFcPw232VlQ/65z3hMRP3e`
+Snapshot ID: `AAAAAEbOBNloVVIrgYndvCOC4K0Oae7X`

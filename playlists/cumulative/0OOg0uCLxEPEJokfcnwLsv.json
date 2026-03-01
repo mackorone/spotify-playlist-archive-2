@@ -1893,6 +1893,24 @@
     },
     {
       "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/2dsufG9Ds7vt8stxbrBkBE"
+      },
+      "artists": [
+        {
+          "name": "Trophy Boy Poems",
+          "url": "https://open.spotify.com/artist/1EyJ3RSMmZO6ZK2HxzSvTj"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211207,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/3nfFEXmkLRjfVIslYXSTFu"
+    },
+    {
+      "album": {
         "name": "Transcend",
         "url": "https://open.spotify.com/album/5CFY6AXx0tLDqkzbVpoUSu"
       },
@@ -2538,6 +2556,24 @@
       "duration_ms": 126818,
       "name": "I Scream at the Sky",
       "url": "https://open.spotify.com/track/0CLp865LeLrvTR4a5baLZe"
+    },
+    {
+      "album": {
+        "name": "I Will Survive",
+        "url": "https://open.spotify.com/album/5c0tOfj6Kj7kjHz4cZ5CCo"
+      },
+      "artists": [
+        {
+          "name": "Lonely wanderer",
+          "url": "https://open.spotify.com/artist/7oZKXbKzbYSqj49riynY8v"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184529,
+      "name": "I Will Survive",
+      "url": "https://open.spotify.com/track/2ntUrJmw1Vsvv342JF9HAj"
     },
     {
       "album": {

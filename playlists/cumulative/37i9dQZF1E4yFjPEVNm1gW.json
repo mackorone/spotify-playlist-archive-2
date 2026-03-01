@@ -68,7 +68,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 142199,
       "name": "Adulthood",
       "url": "https://open.spotify.com/track/7KCgFPgWcTHWCOMdqVMiBj"
@@ -324,7 +324,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 138208,
       "name": "blood",
       "url": "https://open.spotify.com/track/373tYv4yykESwVkPjDkuzf"
@@ -763,6 +763,24 @@
     },
     {
       "album": {
+        "name": "distant",
+        "url": "https://open.spotify.com/album/71GJGi9ItTXMSaX9Ai31z2"
+      },
+      "artists": [
+        {
+          "name": "Kahjill",
+          "url": "https://open.spotify.com/artist/1krwli1ZbwL9u1vW99rWGG"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118204,
+      "name": "distant",
+      "url": "https://open.spotify.com/track/773of3RaXgWq2VE0Nxbpmz"
+    },
+    {
+      "album": {
         "name": "Kreeps Come Out At Night",
         "url": "https://open.spotify.com/album/31iWdpWYH7TTc6HMZdSSBA"
       },
@@ -1020,7 +1038,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 152611,
       "name": "GO",
       "url": "https://open.spotify.com/track/0L4J3hS3u7IQBtmA4w0Fuh"
@@ -1078,7 +1096,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 205009,
       "name": "Guillotine",
       "url": "https://open.spotify.com/track/3YirUAtlK9nCzPp3CTaAg5"
@@ -1242,7 +1260,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-26",
+      "date_removed": null,
       "duration_ms": 108437,
       "name": "imposter",
       "url": "https://open.spotify.com/track/14DqYafHROsQH834bFBVbt"
@@ -1937,6 +1955,24 @@
     },
     {
       "album": {
+        "name": "One Take",
+        "url": "https://open.spotify.com/album/5KSWVXXIFylp2llAv448Sv"
+      },
+      "artists": [
+        {
+          "name": "Young Slixe",
+          "url": "https://open.spotify.com/artist/2Co2CaKKgnpRBuguJsI3uG"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119813,
+      "name": "One Take",
+      "url": "https://open.spotify.com/track/3uh5GDAjOou5BHvKvPEpOD"
+    },
+    {
+      "album": {
         "name": "Never Lose",
         "url": "https://open.spotify.com/album/6UePZA2W3KscieTmTiJyax"
       },
@@ -2078,7 +2114,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 161075,
       "name": "Price I Pay",
       "url": "https://open.spotify.com/track/6PKAfJPbZMOk2Zz9D8g0w4"

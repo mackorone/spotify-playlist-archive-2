@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 562 likes - 2,353 songs - 5 day 17 hr 29 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 562 likes - 2,361 songs - 5 day 17 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2361,5 +2361,13 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2351 | [Endless Rite](https://open.spotify.com/track/4Wz6qD27pzaBe1yw2owOIx) | [Basavriuk](https://open.spotify.com/artist/1jiZdw6LLdm28eMxFnDKSd) | [Endless Rite](https://open.spotify.com/album/6bnbRQ6UeoaKTwTfpdInE9) | 4:06 |
 | 2352 | [Somebody Real](https://open.spotify.com/track/5Yj8OJNrnyxFABHO4FNKUx) | [KIA](https://open.spotify.com/artist/3fh3oFb1KTTHIdCUzoY6eU) | [Somebody Real](https://open.spotify.com/album/0EmKEt4fo9UvnjO3Lm12eH) | 3:48 |
 | 2353 | [Fuel The Flame](https://open.spotify.com/track/7pBg9yHTAml4Aw3eIvcgBH) | [File Under Humanoid](https://open.spotify.com/artist/4THYnYjrIh3ssVteBV9Vmx) | [Fuel The Flame EP](https://open.spotify.com/album/3DmHe6uM9Jav9qgmtIGLbZ) | 3:05 |
+| 2354 | [Lost](https://open.spotify.com/track/4m1rXlkz5ckKZ0U88KCM2b) | [Beau Audio](https://open.spotify.com/artist/0rNKItJKS1Cku4iKnNv4f0) | [Lost](https://open.spotify.com/album/47eQgls81hW9oXneMlww3A) | 2:58 |
+| 2355 | [Becoming Dad](https://open.spotify.com/track/4I1UNVQghrNL5YH5iRuVzh) | [James Langley](https://open.spotify.com/artist/3DyaG5YVa6SW0zAMfJ6cHp) | [Becoming Dad](https://open.spotify.com/album/6pVSO2VuC00tvcS50Z3qmv) | 3:16 |
+| 2356 | [La tristesse est passée](https://open.spotify.com/track/3GFmfCtgDsJZoYzBZYQSWQ) | [Al!ce](https://open.spotify.com/artist/6uh4s1hKZY4CIgrHAJyY96) | [La tristesse est passée](https://open.spotify.com/album/5UKIc41JTf8mBZB3UEEybd) | 4:00 |
+| 2357 | [Taken](https://open.spotify.com/track/1hjHMOee5iGRcTYoaoCGit) | [Arrhizal](https://open.spotify.com/artist/0DA0O3ZMVUqBk9QEV7Asjr), [Shru\-ti](https://open.spotify.com/artist/2qAjfkWS46yOEI3L5uH8Hh) | [Melancholy](https://open.spotify.com/album/4VXXa3YNx8UNmljqX5Q1JU) | 3:40 |
+| 2358 | [Fairy Tale](https://open.spotify.com/track/0M3sybmDWCDciSwf0SJ2vZ) | [CLARASCHEIN](https://open.spotify.com/artist/3G6VR0fzmyjvNSxZx6480w), [Vittorio Longobardi](https://open.spotify.com/artist/06qOVeNb3n8mq1UhbWG3TE) | [Fairy Tale](https://open.spotify.com/album/2wT8k6MiHyEYA1fJEGNBdL) | 2:52 |
+| 2359 | [Satu Nama Dalam Doa](https://open.spotify.com/track/5DtlSMHi46HBRdpqf91zsk) | [Ian Nasution](https://open.spotify.com/artist/4SQO8nHhrCupEhr8fLfemf) | [Satu Nama Dalam Doa](https://open.spotify.com/album/02g3USnHFIo8oMxPSrFOVs) | 4:35 |
+| 2360 | [Ritual](https://open.spotify.com/track/5J3heOLvvlxjn4vc37GZrU) | [Point/Blank](https://open.spotify.com/artist/6gBKANhXFdMgqqcUaXQlGp) | [Ritual](https://open.spotify.com/album/42OnuKOT2TRhApXxbsZ1Wt) | 2:17 |
+| 2361 | [Long Time Dead](https://open.spotify.com/track/0vWzjxded9A9cL1yuocuyR) | [Digsby](https://open.spotify.com/artist/2svG4IsrYb68sAGhIQ9UXA) | [Death of the Party](https://open.spotify.com/album/5dBxgjLQ6wWiqyhSgChjDy) | 3:30 |
 
-Snapshot ID: `AAAJyASSV8FLjX4KF4h1yrm2unyVTcTX`
+Snapshot ID: `AAAJ0FATN24gTQ55pA218zWGlZOVjiUX`

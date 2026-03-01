@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain](/playlists/plain/37i9dQZF1DWZLcGGC0HJbc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZLcGGC0HJbc)
 
-### [indie folk vibes](https://open.spotify.com/playlist/37i9dQZF1DWZLcGGC0HJbc)
+### [Indie Folk Cedar & Coffee](https://open.spotify.com/playlist/37i9dQZF1DWZLcGGC0HJbc)
 
-> als het woud een playlist zou zijn
+> Voor boslucht, koffie en kalmte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,855 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,861 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 49 | [Six Missed Calls](https://open.spotify.com/track/3A11OV16IvmGERXBn8MjSV) | [Lumï](https://open.spotify.com/artist/4YVmec1RYeLcalC4yvHv2T) | [Speak Softly](https://open.spotify.com/album/4SBPSulqoUsJbjrrvjl0lP) | 5:01 |
 | 50 | [My Heroine](https://open.spotify.com/track/0IAhw7KxiogXweSwVxW4av) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Every Dawn's a Mountain](https://open.spotify.com/album/0S3ocN5MLEY4mFMJWY0VG1) | 3:21 |
 
-Snapshot ID: `AAAAALTIVdpzcRsIqtzHHu4HmUHSjmRp`
+Snapshot ID: `AAAAAA5mMP581XAVy068Hmr2KOn83rIh`

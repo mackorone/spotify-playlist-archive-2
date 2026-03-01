@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Nina del Río\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,107 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,114 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [En Ningún Lugar](https://open.spotify.com/track/0k0mn8mOgjkJg1HK4QqMjF) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [En Ningún Lugar](https://open.spotify.com/album/7HocfBdL2g9qAwxp4Meqfn) | 3:01 |
 | 50 | [amarillo](https://open.spotify.com/track/2vcS73KJUZ3eQBNj1qcOju) | [Nina](https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt) | [amarillo](https://open.spotify.com/album/05qi6pFAvTnLeveze9eIHL) | 3:09 |
 
-Snapshot ID: `AAAAAATm3an655PB/ohwLitfahESGqUv`
+Snapshot ID: `AAAAAGchvU5wYQf4MFWz0JmCTbIxSwwg`

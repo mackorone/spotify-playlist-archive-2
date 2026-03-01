@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: Mr JazziQ
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,174,663 likes - 50 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,175,217 likes - 50 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 49 | [Khona o Kuzayo \(feat\. Katarina RSA & Meez\)](https://open.spotify.com/track/3jbvTBA5Ql5PGhu3Vfgxdm) | [Visca](https://open.spotify.com/artist/4Ijr6oNjLibby38inghdKO), [Cuba Beats](https://open.spotify.com/artist/2GyTwPnCWi2COPYXy6ZA5D), [VeeRsa](https://open.spotify.com/artist/3J6Qc6lwKfpIUm8dQKvZtE), [Katarina RSA](https://open.spotify.com/artist/1zJbAvbBzEchuGsPh9fBm8), [Meez](https://open.spotify.com/artist/0bdPNmxnLZb3eNh45oyWCY) | [Khona o Kuzayo \(feat\. Katarina RSA & Meez\)](https://open.spotify.com/album/005PNURKq5W8ro67jDTCwR) | 7:12 |
 | 50 | [Yi Problem \(feat\. Scotts Maphuma\)](https://open.spotify.com/track/74fo6GWsV2n0KYqeYeXs7P) | [Shaunmusiq](https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85), [Mbuxx](https://open.spotify.com/artist/3JQMhRMQlzHTD5RWpFROkk), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS) | [Yi Problem](https://open.spotify.com/album/6WxcLtgcZoA4gmKzHZW555) | 6:46 |
 
-Snapshot ID: `AAAAANoPrP8pDhWdKIy7YvWfTmDuIiGU`
+Snapshot ID: `AAAAACyvsTnHKNBgeU/EbpTI++LM8Jjb`

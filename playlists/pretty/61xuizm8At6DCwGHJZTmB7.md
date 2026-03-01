@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Top Christian Worship 2026 \| Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Tauren Wells! 2016 \| Winter storm \| snow storm 2026 \| GRAMMYs 2026 Christian
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,295 likes - 132 songs - 12 hr 17 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,287 likes - 132 songs - 12 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 72 | ['Tis So Sweet / Turn Your Eyes \- Chapel Sessions](https://open.spotify.com/track/3JVRYMkGQ8DBFtBoiYAqMQ) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Jessie Harris](https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA) | [Chapel Sessions \(Vol\. 2\)](https://open.spotify.com/album/4jYLJGHlwngGQaoLfbZvpJ) | 5:48 |
 | 73 | [Blood Of Christ](https://open.spotify.com/track/4FpSdYB6a8U97dVgZaThML) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc), [Emma Fargnoli](https://open.spotify.com/artist/66vp1Xgi5koKUndk6ajMTI) | [Blood Of Christ](https://open.spotify.com/album/0OIJAEarNSxiDd1MK9sb1l) | 7:15 |
 | 74 | [10,000 Reasons \(Bless The Lord\) \- Live](https://open.spotify.com/track/0fxpHpK3aw2nFWII6yveDD) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [10,000 Reasons \(Live\)](https://open.spotify.com/album/0av22wHGgPZRC0BkGrnVVJ) | 5:42 |
-| 75 | [Empty](https://open.spotify.com/track/6e5NhZKh6BILKjZ8GWg03O) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Ofa Fakatoumafi](https://open.spotify.com/artist/6IyvQ62FFOjdHmDkrAEg7d) | [Empty](https://open.spotify.com/album/5cztPq9IQz1J7jw1y3Rvmo) | 5:18 |
+| 75 | [Empty \- Live](https://open.spotify.com/track/6e5NhZKh6BILKjZ8GWg03O) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Ofa Fakatoumafi](https://open.spotify.com/artist/6IyvQ62FFOjdHmDkrAEg7d) | [Empty \(Live\)](https://open.spotify.com/album/5cztPq9IQz1J7jw1y3Rvmo) | 5:18 |
 | 76 | [At the heart of it \- From Worship Together](https://open.spotify.com/track/6jURYt7pmRYeJcmXyIux9T) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [At the heart of it \(From Worship Together\)](https://open.spotify.com/album/3j8FJx5Exz0PPsSp2Y059k) | 5:35 |
 | 77 | [He Who Is To Come](https://open.spotify.com/track/5qoQKIpbl0z7oEyIPtlFJe) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [He Who Is To Come](https://open.spotify.com/album/5kVU9uVjpylXgoqNAxs7EP) | 5:16 |
 | 78 | [All Fall Down \- Live](https://open.spotify.com/track/39f4VewtRh9XSed54TMDV4) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Henry Seeley](https://open.spotify.com/artist/2MZEISBa4OBbC0erQQcyzS) | [Eden \(Live\)](https://open.spotify.com/album/5N1WJL82K9qV5tXTk79v8Y) | 8:27 |

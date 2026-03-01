@@ -4,7 +4,7 @@
 
 > The new school of Música Mexicana\.  Hermanos Espinoza 📸
 
-1,702 songs - 3 day 14 hr 42 min
+1,703 songs - 3 day 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -897,7 +897,7 @@
 | [MACALLAN](https://open.spotify.com/track/3WsrcYFPa0sXqaTbVr9bGo) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [MACALLAN](https://open.spotify.com/album/3TOBtZ0INJ5buOsWcSagam) | 3:09 | 2025-07-25 | 2025-11-15 |
 | [Made In Paris](https://open.spotify.com/track/3Wt5VJAfUegajg4F3BEpVK) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Made In Paris](https://open.spotify.com/album/27IGVp8LfUUZTISwgB6rkC) | 2:38 | 2024-07-12 | 2024-09-21 |
 | [Madre Mia](https://open.spotify.com/track/4RggfCU7eVdXnbE6yw958e) | [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG), [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo) | [Madre Mia](https://open.spotify.com/album/52usi9n7VTM6DLIcipoQj2) | 3:10 | 2025-12-19 |  |
-| [Madrecita](https://open.spotify.com/track/48yZjsjIc2NDrSLBiLGHpQ) | [El Esparza](https://open.spotify.com/artist/4RT0MnB1whwGBJ3N8oEntX) | [Madrecita](https://open.spotify.com/album/3L3FbFQv3Q7gGUCJZmNMgw) | 2:24 | 2025-11-28 |  |
+| [Madrecita](https://open.spotify.com/track/48yZjsjIc2NDrSLBiLGHpQ) | [El Esparza](https://open.spotify.com/artist/4RT0MnB1whwGBJ3N8oEntX) | [Madrecita](https://open.spotify.com/album/3L3FbFQv3Q7gGUCJZmNMgw) | 2:24 | 2025-11-28 | 2026-03-01 |
 | [Mafia De La Calle](https://open.spotify.com/track/0OjyXDwYxedaS3mhXBpfbE) | [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq) | [Mafia De La Calle](https://open.spotify.com/album/5ES7hYzsnWJWPUpIn34Foq) | 2:23 | 2022-05-14 | 2022-08-27 |
 | [Mal de Ojo](https://open.spotify.com/track/5gFqNF0PzR3ojfntW3LC9G) | [Christian Nava](https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0) | [Mal de Ojo](https://open.spotify.com/album/1dvFb22zm82Nx0FYq0STrd) | 3:04 | 2022-07-01 | 2022-09-09 |
 | [Malandrin](https://open.spotify.com/track/3jRXaEb0C8Gz2w99Gvkmrg) | [Linea Personal](https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ), [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG) | [Malandrin](https://open.spotify.com/album/1z8479vViQ5svBGirVpm40) | 3:04 | 2025-08-01 | 2025-11-29 |
@@ -1341,6 +1341,7 @@
 | [Rayando El Sol \(En Vivo\)](https://open.spotify.com/track/0E9C9ini7zV0vTzVvy6VwI) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Rayando El Sol \(En Vivo\)](https://open.spotify.com/album/4Z6FaZMiqPHbhdZsWYGyz2) | 3:04 | 2023-04-21 | 2023-05-27 |
 | [Rayito De Luz](https://open.spotify.com/track/4WP35e4N3xr7FEhB6iGgz2) | [Pepe Walker](https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ), [Bryan Martínez](https://open.spotify.com/artist/7FctMSq2t2zyod20njlcjP), [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Rayito De Luz](https://open.spotify.com/album/65bYDn2sTeaT0gD6jCR05O) | 2:45 | 2025-02-14 | 2025-05-03 |
 | [Recordando](https://open.spotify.com/track/4kDe3NzNqfQwkr7VEgbfwh) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8) | [Recordando](https://open.spotify.com/album/5bTnGQJ9YS1Rat4ksg09by) | 3:18 | 2023-09-29 | 2023-11-25 |
+| [Recuerdos](https://open.spotify.com/track/4qRJi0Y4E8bkuIRZB0N59j) | [El Esparza](https://open.spotify.com/artist/4RT0MnB1whwGBJ3N8oEntX) | [Recuerdos](https://open.spotify.com/album/2C3zDPX6c15SjYv21tiXqm) | 3:16 | 2026-02-28 |  |
 | [Recíproco](https://open.spotify.com/track/5A229ZRjcmVebJmvbC0OMg) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU) | [AURUM](https://open.spotify.com/album/0s7u5TO1zlOyQge4U3smOL) | 2:50 | 2024-05-24 | 2024-08-10 |
 | [Regalame Una Noche](https://open.spotify.com/track/2dXppU2kauENBeLZYEbIng) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Se Cantan Se Bailan y Se Lloran](https://open.spotify.com/album/2OyPcJ7KgLDWeo2b8BYnoN) | 3:07 | 2024-09-20 | 2024-10-19 |
 | [Reina De Mi Amor](https://open.spotify.com/track/0jR9yktMaTQcaCVWCkq6zV) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Reina De Mi Amor](https://open.spotify.com/album/1vtIbdkq7ThJ685gWkMwEP) | 2:18 | 2022-08-26 | 2023-01-28 |

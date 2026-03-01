@@ -4,7 +4,7 @@
 
 > 
 
-308 songs - 12 hr 2 min
+309 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [needless](https://open.spotify.com/track/3AeYfw6VlIIRsXMSyTO5lf) | [akselbolt](https://open.spotify.com/artist/32O9ENEJnldkd0SMkjFz25), [akoge](https://open.spotify.com/artist/42hqB8RQixQXhyxGqm1moL) | [needless](https://open.spotify.com/album/53W8vQb2ovfZJmEXTUiJK2) | 2:10 | 2025-04-11 |  |
 | [NEW BANZ!](https://open.spotify.com/track/7F7Gc8zj61NN1v0PLDxUef) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [MWAH!](https://open.spotify.com/album/0bLqOyNF2wpsNLOMsRNbXW) | 1:54 | 2024-12-08 |  |
 | [Next To Nothing](https://open.spotify.com/track/4kyCTcAbtt78Q2LC5ASSED) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 4:04 | 2025-02-26 |  |
+| [nightcoringearly2000ssongsthatmakemethinkofyou.](https://open.spotify.com/track/4ASdPwug1EYZnqLQ2hMklT) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [fuck.](https://open.spotify.com/album/7lgnsSkcTlrp1FULCYmM0z) | 3:07 | 2026-03-01 |  |
 | [Nodding Off](https://open.spotify.com/track/7jd5bSsJ3pdPVDU7PdFVJL) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 5:45 | 2025-03-14 |  |
 | [NOMOTION](https://open.spotify.com/track/2jvdBpGG2TXmrNTA7SxFEP) | [kuya](https://open.spotify.com/artist/1iqagAfuLHGpm140nMYhRP), [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed) | [NOMOTION](https://open.spotify.com/album/0X4l37wfioPNxtNBvlFrGd) | 1:51 | 2025-04-11 |  |
 | [Not how it seems](https://open.spotify.com/track/0OnpNyDCOGE2gmjYZwIW5y) | [CapzLock](https://open.spotify.com/artist/4g3JG556dlxAQVKpqTbedB) | [Not how it seems](https://open.spotify.com/album/4m9T6ngJpEkTD48kVjbjvo) | 1:40 | 2025-05-28 |  |

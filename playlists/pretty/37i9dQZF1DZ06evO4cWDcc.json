@@ -1,12 +1,12 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 325539,
+  "num_followers": 325572,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ+NAAAAAADbYiolVhJHx0qkSMax0vut",
+  "snapshot_id": "aaDegAAAAACVlQ0g74PkTeH3P15oLyky",
   "tracks": [
     {
       "added_at": null,
@@ -795,18 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Band Of Gypsys (50th Anniversary / Live)",
-        "url": "https://open.spotify.com/album/0B0Zwfcy4pAY2JAoxIEkR5"
+        "name": "West Coast Seattle Boy: The Jimi Hendrix Anthology",
+        "url": "https://open.spotify.com/album/6c0U1VcL3Bom0g6HTpUa1i"
       },
       "artists": [
         {
           "name": "Jimi Hendrix",
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        },
+        {
+          "name": "Don Covay",
+          "url": "https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S"
         }
       ],
-      "duration_ms": 415813,
-      "name": "Power To Love - Live At Fillmore East, 1970 / 50th Anniversary",
-      "url": "https://open.spotify.com/track/3XR4rCVMpjGraeX9io1pwO"
+      "duration_ms": 145146,
+      "name": "Mercy, Mercy - Single/LP Version",
+      "url": "https://open.spotify.com/track/0R8ftvBCBw2d9DylZKFJ1P"
     }
   ],
   "unique_name": "This Is Jimi Hendrix",

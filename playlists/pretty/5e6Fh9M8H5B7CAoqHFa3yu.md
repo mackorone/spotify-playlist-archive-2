@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 267 likes - 1,962 songs - 4 day 21 hr 37 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 270 likes - 1,964 songs - 4 day 21 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1970,5 +1970,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1960 | [Aquariana \- Acoustic](https://open.spotify.com/track/4wUyQVIIx8Hhn64Eznn8jc) | [Nine Angel](https://open.spotify.com/artist/1Lc1Ou5z78fgizSFbUlj8Y) | [Aquariana \(Acoustic\)](https://open.spotify.com/album/2UN5i8OhabZ5xJYncO71j2) | 3:35 |
 | 1961 | [I Find More](https://open.spotify.com/track/5sEUa1SYgAJbzVO3EYfwVS) | [Laurie Larson](https://open.spotify.com/artist/7kETQcK3nvWn1jEqi43h0M) | [I Find More](https://open.spotify.com/album/04Abxh0v1uy7lLY1czJmQX) | 3:06 |
 | 1962 | [Moonlight of Muirin](https://open.spotify.com/track/4oSn1XDw8xlvZAFULhbeCf) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Moonlight of Muirin](https://open.spotify.com/album/4oRObxDGVm3EEHExEBfywZ) | 3:12 |
+| 1963 | [Astral Vision](https://open.spotify.com/track/79GyilhcKE7fvMhljJMQxL) | [Elastica Dub](https://open.spotify.com/artist/1nyZ7QOTyzJ0lhHLGaikIW), [Zion Train](https://open.spotify.com/artist/6sDKfmMPaTI7MYeFoNFrg7), [Gabriel Blue](https://open.spotify.com/artist/2z0BjCl7p9XrswyaknMFMJ) | [Astral Vision](https://open.spotify.com/album/4skr9ieBSHKCa52ivYa7hy) | 5:49 |
+| 1964 | [Dance it with Me](https://open.spotify.com/track/0R6YvH3Wgcz5NSx1H2NvIz) | [Vinny Peach](https://open.spotify.com/artist/2sMvGeQMLrn7Y21zljtp75) | [Dance it with Me](https://open.spotify.com/album/4psi3LKEvKCfgQNojJsSp4) | 2:52 |
 
-Snapshot ID: `AAAIM72Rg3cFZ4yCgNn1RMZyo3ajfcrt`
+Snapshot ID: `AAAINa2mUOID7c2gu1pm4UacKGA97yxN`

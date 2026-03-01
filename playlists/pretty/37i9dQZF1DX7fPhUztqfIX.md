@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: Chandler Moore
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,176 likes - 99 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,222 likes - 99 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 43 | [Abundance of Rain](https://open.spotify.com/track/12NjGwpgqvNbzDSwTuvFqr) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Jeremiah Woods](https://open.spotify.com/artist/6hvKFsimQHgWJsYJcsBomt) | [Abundance of Rain](https://open.spotify.com/album/43gyNOAwZpusgSyWlLHi8U) | 5:15 |
 | 44 | [What A Friend](https://open.spotify.com/track/2Ce5mlADVbZ89PjyTbA4Vd) | [Common Gathering](https://open.spotify.com/artist/3bZ53EiW7dyu9vKsFBmGfi) | [What A Friend](https://open.spotify.com/album/7lTpMxZbbv6CI1MRVeafoS) | 7:41 |
 | 45 | [Hands of Grace](https://open.spotify.com/track/5Kl4dm6OvKDWhch8kbv5Z6) | [Exalt Worship](https://open.spotify.com/artist/6m9sqt67ut4zHCYq7NHkqc) | [Hands of Grace](https://open.spotify.com/album/3ZyHQqDUaTjnyf19lo8EDj) | 5:04 |
-| 46 | [Empty](https://open.spotify.com/track/6e5NhZKh6BILKjZ8GWg03O) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Ofa Fakatoumafi](https://open.spotify.com/artist/6IyvQ62FFOjdHmDkrAEg7d) | [Empty](https://open.spotify.com/album/5cztPq9IQz1J7jw1y3Rvmo) | 5:18 |
+| 46 | [Empty \- Live](https://open.spotify.com/track/6e5NhZKh6BILKjZ8GWg03O) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Ofa Fakatoumafi](https://open.spotify.com/artist/6IyvQ62FFOjdHmDkrAEg7d) | [Empty \(Live\)](https://open.spotify.com/album/5cztPq9IQz1J7jw1y3Rvmo) | 5:18 |
 | 47 | ['Til The Whole World Knows](https://open.spotify.com/track/3F7NPOqfCwheybRRNUasJY) | [Philippa Hanna](https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | ['Til The Whole World Knows](https://open.spotify.com/album/0U4Cz2a6Qq4q0w06Vhs2ay) | 6:04 |
 | 48 | [Wide\~Eyed Wonder \- Live](https://open.spotify.com/track/76mhZHwiBbFFqNEFNNv499) | [Desperation Worship](https://open.spotify.com/artist/4LYMP7DnHyPSXRdznxyCXd), [Jon Egan](https://open.spotify.com/artist/1S0iYQGlUIb8gJFOXEnaey) | [Wide\~Eyed Wonder \(Live\)](https://open.spotify.com/album/0Vbbmh5KRXHo6mjYguwawr) | 9:53 |
 | 49 | [Washed By The Blood Of The Lamb](https://open.spotify.com/track/2F3H4t7eV8TtduUyJtI52W) | [North Palm Worship](https://open.spotify.com/artist/1oSrA2oH5V1Qo4jNPD0BMF), [Kobian Milne](https://open.spotify.com/artist/1hhhvmZzx3D7ZneuRfu8nV) | [Washed By The Blood Of The Lamb](https://open.spotify.com/album/3KP9THZkn8aWrgFRRrEqhI) | 8:08 |

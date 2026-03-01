@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,101 likes - 262 songs - 14 hr 2 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,105 likes - 270 songs - 14 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -270,5 +270,13 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 260 | [I Want You Out \- Radio Mix](https://open.spotify.com/track/0AqssRB9ZFoYpGModIxESk) | [Mark Vdh](https://open.spotify.com/artist/2lUhgurKH7B0YDOAtRkglH), [Taylor Sackson](https://open.spotify.com/artist/0J4SgyQe1Mt4U1z855jZEJ) | [Electricity](https://open.spotify.com/album/0E2fO3pNU0X5lV8CLuz2zG) | 3:34 |
 | 261 | [Dime Store Halloween Costume](https://open.spotify.com/track/4BW30DZHPPEekScsVGg3Dj) | [Live Oak Sunburst](https://open.spotify.com/artist/4QHJTuyBl6eDWAikRZaAmB) | [Dime Store Halloween Costume](https://open.spotify.com/album/0wkulyNCo6WghUmJPyYKQ5) | 2:50 |
 | 262 | [SHAME](https://open.spotify.com/track/35aO5pQh4i4jZGRXlCmbjb) | [BDA](https://open.spotify.com/artist/4GC3RnnR4vkDlsPeqYh03s) | [SHAME](https://open.spotify.com/album/4DNYDjumEVmoAQwqPBtKuV) | 1:47 |
+| 263 | [Aurora](https://open.spotify.com/track/7143g83oM5T1zVTnGVFx4p) | [Harram Anwar](https://open.spotify.com/artist/3F2PzQKlm43sQYe3cPzuFL) | [Aurora](https://open.spotify.com/album/4iuWtp8SPnpCMuUo7WaFlG) | 3:07 |
+| 264 | [Don't Give Up On Me](https://open.spotify.com/track/2GhvGTzsq4Q5Uts53zNali) | [IAMDWX](https://open.spotify.com/artist/7w2jiVgHPyBIahw5NZkPHU), [Kevin Hadley](https://open.spotify.com/artist/4nBjWiNV8ofFeQdnMbijqk) | [Don't Give Up On Me](https://open.spotify.com/album/2WGUdDm9QTCnzFhXOwERi7) | 2:49 |
+| 265 | [Luciérnagas](https://open.spotify.com/track/1w0RqB7JgOiP5WaoCNX0lf) | [TyraBias](https://open.spotify.com/artist/7pI7OyK8aR2DiqQjhuTcr0) | [Luciérnagas](https://open.spotify.com/album/4zjC5EiCyBsc0tETky3CWm) | 3:18 |
+| 266 | [Work From Anywhere](https://open.spotify.com/track/5PMJ3V5KlIDnSBUawpejTa) | [George Pelham](https://open.spotify.com/artist/76Vy0VBFDdQSJT4pQxLDjT) | [Work From Anywhere](https://open.spotify.com/album/5P6h9zYPieQW4B0JM4lsf1) | 2:17 |
+| 267 | [Little Things](https://open.spotify.com/track/3Tyd9Gp1Cvsc0YiklXItdl) | [Chelsea Fiallo](https://open.spotify.com/artist/6zwx5YtekYIge5XqFUVcs9) | [Little Things](https://open.spotify.com/album/6foyILYn5R99A3RxzJwnhm) | 3:06 |
+| 268 | [Shy](https://open.spotify.com/track/5xnBpt6vhqcPaQgFPG2kbo) | [Jennifer Foster](https://open.spotify.com/artist/23CbYFymkUfLkR5AqGS3yV) | [Shy](https://open.spotify.com/album/7hwYe2lLKCab3UlWyVryXj) | 3:23 |
+| 269 | [if u love me](https://open.spotify.com/track/5MVWaPkRUM3hwHcy2vKh7v) | [JAYE](https://open.spotify.com/artist/5JUYkckYrZ38au0ZOzCABf) | [if u love me](https://open.spotify.com/album/4c1Xracj0hszVK5V38HNS3) | 2:51 |
+| 270 | [Lisbon at Night](https://open.spotify.com/track/3ZdIbKEU7r8hbpskRCHuXE) | [Guillem S\. Benet](https://open.spotify.com/artist/762webPEr6n5L8HYICFiOG) | [Lisbon at Night](https://open.spotify.com/album/0TvG1Omk1NgDvtJPXxY06R) | 2:47 |
 
-Snapshot ID: `AAA1JgiD1XgFTjBdQ7P0uCWDnlNBTR3O`
+Snapshot ID: `AAA1Lur/yEF9HIQKQseWnR3sDoHVxGih`

@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 267,
+  "num_followers": 270,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIM72Rg3cFZ4yCgNn1RMZyo3ajfcrt",
+  "snapshot_id": "AAAINa2mUOID7c2gu1pm4UacKGA97yxN",
   "tracks": [
     {
       "added_at": "2026-02-24 08:34:44",
@@ -33495,6 +33495,46 @@
       "duration_ms": 192879,
       "name": "Moonlight of Muirin",
       "url": "https://open.spotify.com/track/4oSn1XDw8xlvZAFULhbeCf"
+    },
+    {
+      "added_at": "2026-02-28 06:12:04",
+      "album": {
+        "name": "Astral Vision",
+        "url": "https://open.spotify.com/album/4skr9ieBSHKCa52ivYa7hy"
+      },
+      "artists": [
+        {
+          "name": "Elastica Dub",
+          "url": "https://open.spotify.com/artist/1nyZ7QOTyzJ0lhHLGaikIW"
+        },
+        {
+          "name": "Zion Train",
+          "url": "https://open.spotify.com/artist/6sDKfmMPaTI7MYeFoNFrg7"
+        },
+        {
+          "name": "Gabriel Blue",
+          "url": "https://open.spotify.com/artist/2z0BjCl7p9XrswyaknMFMJ"
+        }
+      ],
+      "duration_ms": 349448,
+      "name": "Astral Vision",
+      "url": "https://open.spotify.com/track/79GyilhcKE7fvMhljJMQxL"
+    },
+    {
+      "added_at": "2026-03-01 02:57:18",
+      "album": {
+        "name": "Dance it with Me",
+        "url": "https://open.spotify.com/album/4psi3LKEvKCfgQNojJsSp4"
+      },
+      "artists": [
+        {
+          "name": "Vinny Peach",
+          "url": "https://open.spotify.com/artist/2sMvGeQMLrn7Y21zljtp75"
+        }
+      ],
+      "duration_ms": 172581,
+      "name": "Dance it with Me",
+      "url": "https://open.spotify.com/track/0R6YvH3Wgcz5NSx1H2NvIz"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

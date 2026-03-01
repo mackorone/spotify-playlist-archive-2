@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZLcGGC0HJbc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZLcGGC0HJbc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZLcGGC0HJbc)
 
-### [indie folk vibes](https://open.spotify.com/playlist/37i9dQZF1DWZLcGGC0HJbc)
+### [Indie Folk Cedar & Coffee](https://open.spotify.com/playlist/37i9dQZF1DWZLcGGC0HJbc)
 
-> als het woud een playlist zou zijn
+> Voor boslucht, koffie en kalmte.
 
 283 songs - 17 hr 0 min
 

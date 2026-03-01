@@ -4,10 +4,11 @@
 
 > This is Valerie June\. The essential tracks, all in one playlist.
 
-98 songs - 5 hr 25 min
+99 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Ain't Gonna Let Nobody Turn Me 'Round](https://open.spotify.com/track/4cBLEBRM8SqBlZ9o6JKie3) | [Paula Boggs Band](https://open.spotify.com/artist/00vtUBkRansXWuoZ8XBTjv), [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Ain't Gonna Let Nobody Turn Me 'Round](https://open.spotify.com/album/0vKVm6BzOYeKcjBXmeyBNL) | 2:49 | 2026-03-01 |  |
 | [All I Really Wanna Do](https://open.spotify.com/track/6zwaAZzlDrap10CYFQQIsq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Owls, Omens, and Oracles](https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q) | 2:43 | 2025-04-13 |  |
 | [Astral Plane](https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:38 | 2022-09-16 |  |
 | [Big Dream](https://open.spotify.com/track/5Kpt9U5o9qDUkT5RyvOwmg) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [My Black Country: The Songs of Alice Randall](https://open.spotify.com/album/55YFzxmWdGxAUFSp9zh9sN) | 2:23 | 2024-10-28 |  |

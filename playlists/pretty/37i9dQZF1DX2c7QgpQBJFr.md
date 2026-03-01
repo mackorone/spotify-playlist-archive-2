@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > La nuova scena pop italiana 🇮🇹 cover: Samurai Jay
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,929 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,949 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [OSSESSIONE](https://open.spotify.com/track/63sQFPGkKfzcK5qEZVefpu) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH) | [OSSESSIONE](https://open.spotify.com/album/2DbfTApmD8EQye9mNgVpcK) | 3:08 |
-| 2 | [Che fastidio!](https://open.spotify.com/track/1k3pzheXrbtHgvvOsQeMkU) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Che fastidio!](https://open.spotify.com/album/1sIUqfQsBmRIlSmhDnkB0u) | 3:14 |
+| 2 | [Poesie Clandestine](https://open.spotify.com/track/730yruXTNk2KvXdbCNzXpR) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf), [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Poesie Clandestine](https://open.spotify.com/album/1MMVWEgrIylF7v0er9IjWm) | 3:03 |
 | 3 | [TU MI PIACI TANTO](https://open.spotify.com/track/1ByC6cNyFHMIrqTDVf8Urf) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [TU MI PIACI TANTO](https://open.spotify.com/album/0fRRdNGgVZ1tiPjfDPlD8k) | 3:29 |
 | 4 | [Anche a vent’anni si muore](https://open.spotify.com/track/59Awynpg4oFhSwb5F8lQQ1) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Anche a vent’anni si muore](https://open.spotify.com/album/5ia2NfmJrcmFBZcX5GVloM) | 3:40 |
 | 5 | [Introvabile](https://open.spotify.com/track/1qzPNHULYNqlTDxZoOIytn) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Introvabile](https://open.spotify.com/album/1afcyvrWTSivDef7JDO0ot) | 2:55 |
 | 6 | [Stupida sfortuna](https://open.spotify.com/track/2yzOkthIypp8Lwkww7LZjY) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Stupida sfortuna](https://open.spotify.com/album/2op7wmZ9fVyLGLhjGmrLMG) | 2:55 |
 | 7 | [Prima che](https://open.spotify.com/track/1bXER40RxwNWTf9fnQOY64) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Prima che](https://open.spotify.com/album/2BWwjP2nMSpRRS1mdnHnIP) | 3:03 |
-| 8 | [Poesie Clandestine](https://open.spotify.com/track/730yruXTNk2KvXdbCNzXpR) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf), [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Poesie Clandestine](https://open.spotify.com/album/1MMVWEgrIylF7v0er9IjWm) | 3:03 |
+| 8 | [Che fastidio!](https://open.spotify.com/track/1k3pzheXrbtHgvvOsQeMkU) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Che fastidio!](https://open.spotify.com/album/1sIUqfQsBmRIlSmhDnkB0u) | 3:14 |
 | 9 | [METROPOLI SOLITUDINE](https://open.spotify.com/track/3JwOXrqx4weUHMVRMH1zFJ) | [Joseph](https://open.spotify.com/artist/55XdeSzaUSVeSfsnRCQrnR) | [METROPOLI SOLITUDINE](https://open.spotify.com/album/0ox3bk9CIxTCzcZjX5nleK) | 3:08 |
 | 10 | [Nessuno qui é chi dovrebbe essere](https://open.spotify.com/track/3U4UsEENKPvawZnV4mjcWW) | [WAX](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [Nessuno qui é chi dovrebbe essere](https://open.spotify.com/album/54u4GvYfCExZ0EqYomX8i3) | 2:40 |
 | 11 | [Facciamo a metà](https://open.spotify.com/track/2PAZ4v3LrSLjEUdE9CAuJP) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t) | [L'amore è tutto](https://open.spotify.com/album/161wzAhcVaxA9SipWiTF6n) | 3:33 |
-| 12 | [Girasole \(feat\. Rkomi\)](https://open.spotify.com/track/6QYSy0nHV8WoBRLqtz6Oa2) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [La Cura, in nome di Miria](https://open.spotify.com/album/2jbeoamHqIQwfQuzKuDo7s) | 3:21 |
-| 13 | [La felicità e basta](https://open.spotify.com/track/2NmvOrVquVRNNKUPOGx3xe) | [Maria Antonietta](https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb), [Colombre](https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1) | [La felicità e basta](https://open.spotify.com/album/0QjAdM88ez6yukjfd22Xnv) | 3:28 |
-| 14 | [Ti penso sempre](https://open.spotify.com/track/15RaJcxk9ng0GahyzI6q3g) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Ti penso sempre](https://open.spotify.com/album/1BmNw1cvb6dJCKWoB2KlFs) | 2:34 |
+| 12 | [Ti penso sempre](https://open.spotify.com/track/15RaJcxk9ng0GahyzI6q3g) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Ti penso sempre](https://open.spotify.com/album/1BmNw1cvb6dJCKWoB2KlFs) | 2:34 |
+| 13 | [Girasole \(feat\. Rkomi\)](https://open.spotify.com/track/6QYSy0nHV8WoBRLqtz6Oa2) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [La Cura, in nome di Miria](https://open.spotify.com/album/2jbeoamHqIQwfQuzKuDo7s) | 3:21 |
+| 14 | [La felicità e basta](https://open.spotify.com/track/2NmvOrVquVRNNKUPOGx3xe) | [Maria Antonietta](https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb), [Colombre](https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1) | [La felicità e basta](https://open.spotify.com/album/0QjAdM88ez6yukjfd22Xnv) | 3:28 |
 | 15 | [le cose che non sai di me](https://open.spotify.com/track/2XVaLBILDwmtR876otQkpg) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [le cose che non sai di me](https://open.spotify.com/album/60St94B0YIRu0Ja3xxwe2k) | 3:24 |
 | 16 | [Vanagloria](https://open.spotify.com/track/1xTjMkjpcfHMKVSAWMjhS4) | [Tutti Fenomeni](https://open.spotify.com/artist/13jvLDXME7yplEwCweRivE) | [Vanagloria](https://open.spotify.com/album/6U4meIqdidImHWIqqvkD48) | 3:24 |
 | 17 | [RoseRovi](https://open.spotify.com/track/0ipLTHBWpIfrbAJdTWBIdt) | [Cate Lumina](https://open.spotify.com/artist/3EAlQVh9v7qGWoImwqgrYf) | [RoseRovi](https://open.spotify.com/album/48HGfVfD57X1WDlWj3m9Yo) | 2:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 99 | [Orsetti](https://open.spotify.com/track/7edoSlGNEW9DsmFtLxrILm) | [sonoalaska](https://open.spotify.com/artist/3lxioj9FChaR6qaLUJqNvP) | [Orsetti](https://open.spotify.com/album/0jGHjafj5a7Pa6ISpKFkBI) | 2:45 |
 | 100 | [Decisamente Blu](https://open.spotify.com/track/27tEj7pAfVqGdaeMVMS8EU) | [Ormai](https://open.spotify.com/artist/0bimr2cwNTw2EIz4OX224Q), [Delicottero](https://open.spotify.com/artist/03uOoqCQVSPP73upHsBkrc) | [Decisamente Blu](https://open.spotify.com/album/4qU8AvRBSBymLKTHw3pTP1) | 3:13 |
 
-Snapshot ID: `AAAAAC7yZSlHLr3zSrE2R/Zm1FQML0oj`
+Snapshot ID: `AAAAAM+bpdGikG5on1eH6P+nOhN2xo4o`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,214 songs - 3 day 2 hr 38 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,215 songs - 3 day 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1222,5 +1222,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1212 | [Drag Path](https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drag Path](https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo) | 3:44 |
 | 1213 | [In the dark](https://open.spotify.com/track/2LXrbR5g8YtHOwsUajVA3n) | [venturing](https://open.spotify.com/artist/13xKCVJaX32BL7EN9IOiCM) | [In the dark](https://open.spotify.com/album/4f79OSrDn7wmCau5h8u1t9) | 4:01 |
 | 1214 | [Play my guitar](https://open.spotify.com/track/2ivXSSVfpv2YUYMqX9x426) | [venturing](https://open.spotify.com/artist/13xKCVJaX32BL7EN9IOiCM) | [Ghostholding](https://open.spotify.com/album/0zfRCNRF2ya1KZDtgGXUgI) | 3:30 |
+| 1215 | [Take A Drive](https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Take A Drive](https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a) | 3:45 |
 
-Snapshot ID: `AAAJv4p3fSWTisauq5ye54UW0vrNVEjE`
+Snapshot ID: `AAAJwLLts7MQGfQlEBWhbDrZGeaJqbfg`

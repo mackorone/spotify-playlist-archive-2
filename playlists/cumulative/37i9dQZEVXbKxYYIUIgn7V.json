@@ -962,7 +962,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 179586,
       "name": "404 (New Era)",
       "url": "https://open.spotify.com/track/24rDDbSlFY9OHrlJb48CRh"
@@ -1891,12 +1891,12 @@
       "artists": [
         {
           "name": "Shifty Brent",
-          "url": "https://open.spotify.com/artist/1x0YcF98Fketh6iGtkAfSX"
+          "url": "https://open.spotify.com/artist/3hn5NjFQsIJLGrrAWCDCci"
         }
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 194960,
       "name": "Achy Breaky Heart",
       "url": "https://open.spotify.com/track/4PleDMxu2thEpWhlmCBs3B"
@@ -2498,7 +2498,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 154277,
       "name": "Alice",
       "url": "https://open.spotify.com/track/0ljIh0b1ubYroGj6ngyE9u"
@@ -5028,7 +5028,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/5VtwUrgljtOyBa773AGSr4"
@@ -10976,7 +10976,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 232795,
       "name": "Cool For The Summer - Slowed",
       "url": "https://open.spotify.com/track/4DMExGI4z6D0ZTHg8i4UqE"
@@ -22177,6 +22177,24 @@
     },
     {
       "album": {
+        "name": "Herz",
+        "url": "https://open.spotify.com/album/4N1XDBc31gbfJQg6LkUlhz"
+      },
+      "artists": [
+        {
+          "name": "BELA",
+          "url": "https://open.spotify.com/artist/70Wk8uVX5q6U2xRwOXtWfU"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132608,
+      "name": "Herz",
+      "url": "https://open.spotify.com/track/6z0kKKHiOoAN8vDYdGFTLu"
+    },
+    {
+      "album": {
         "name": "HERZ MACHT BAMM",
         "url": "https://open.spotify.com/album/43hhHQjezxykYy1yf5CG11"
       },
@@ -26830,7 +26848,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 181581,
       "name": "Kakalika",
       "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
@@ -35668,7 +35686,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 157983,
       "name": "Nachteule",
       "url": "https://open.spotify.com/track/1yRmYSj80tAUpRrckhHaFp"
@@ -37548,7 +37566,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 172439,
       "name": "Ohne Gummi pudern",
       "url": "https://open.spotify.com/track/4sIL1XRz76D0OXgOW1Vq9J"
@@ -38144,7 +38162,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 236460,
       "name": "Over",
       "url": "https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B"
@@ -38626,7 +38644,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 144439,
       "name": "Paradies - Dancehall Version",
       "url": "https://open.spotify.com/track/6eVPz6D8lyiXyPZwU0Znh7"
@@ -44088,7 +44106,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 136292,
       "name": "Shake",
       "url": "https://open.spotify.com/track/5dMnARA9qb0aXnOQHwf1C6"
@@ -45616,7 +45634,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 180582,
       "name": "Someone Out Of Town",
       "url": "https://open.spotify.com/track/4QrE7JVAi54WYRTO4y0yKb"
@@ -50278,7 +50296,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 243716,
       "name": "Tit\u00ed Me Pregunt\u00f3",
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
@@ -52282,6 +52300,24 @@
     {
       "album": {
         "name": "Versatile (Slowed)",
+        "url": "https://open.spotify.com/album/15S0hzjICjZ4KPJSWfz0S8"
+      },
+      "artists": [
+        {
+          "name": "L.P. Rhythm",
+          "url": "https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Versatile (Super Slowed)",
+      "url": "https://open.spotify.com/track/192JplmkRbucqhEYUsreVt"
+    },
+    {
+      "album": {
+        "name": "Versatile (Slowed)",
         "url": "https://open.spotify.com/album/7Hd2aP2IHua8xlWwN38mmx"
       },
       "artists": [
@@ -53742,6 +53778,24 @@
       "duration_ms": 241567,
       "name": "We Carry The Flame",
       "url": "https://open.spotify.com/track/65Bker7Dj5lWlrO6AtadAv"
+    },
+    {
+      "album": {
+        "name": "We Do What We Want (Edit)",
+        "url": "https://open.spotify.com/album/5WzbzjfI0AeLlYwyZ1rHOa"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188095,
+      "name": "We Do What We Want - Edit",
+      "url": "https://open.spotify.com/track/2qGvgsRsmrB0Y7Y4MmuP1M"
     },
     {
       "album": {

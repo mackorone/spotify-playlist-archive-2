@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Xb9zZnc2MHkRocj5kqPWU.md) - [plain]
 
 > Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this playlist for reflection and calm.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 59,423 likes - 106 songs - 5 hr 40 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 59,415 likes - 106 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/0Xb9zZnc2MHkRocj5kqPWU.md) - [plain]
 | 61 | [Moment in Time](https://open.spotify.com/track/5QVpsrD7VvA3JGLO7UAjpr) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR), [Niklas Liepe](https://open.spotify.com/artist/6ukAV4us7nVNQ1MQvj4sut) | [Moment in Time](https://open.spotify.com/album/67MwEDznUXj1Oo1SwLbkq4) | 3:09 |
 | 62 | [Helena's Sunrise](https://open.spotify.com/track/0FA7x00wmGCqUNHsmXtHM4) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Helena's Sunrise](https://open.spotify.com/album/3iccrCMVW5AOOyqCeccQHw) | 2:50 |
 | 63 | [Kyo](https://open.spotify.com/track/0LjazH98i2iH7TCkKPX4m3) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Kyo](https://open.spotify.com/album/0lwPCjEyY3TOE93TYeeFq8) | 2:57 |
-| 64 | [Piano Sonata in A major](https://open.spotify.com/track/63ayBaJeqgp9GmRnc4ewmF) | [Thomas Enhco](https://open.spotify.com/artist/7JpJd4JNH3oPZMWCwTKkYK) | [Piano Sonata in A major](https://open.spotify.com/album/4W3y0BJ9PG73pL5kAXl2Vu) | 4:36 |
+| 64 | [Piano Sonata in A Major \(After the First Movement of Piano Sonata No\. 11 in A Major, K\. 331\) \[Arr\. for Piano Solo by T\. Enhco\]](https://open.spotify.com/track/63ayBaJeqgp9GmRnc4ewmF) | [Thomas Enhco](https://open.spotify.com/artist/7JpJd4JNH3oPZMWCwTKkYK) | [Piano Sonata in A major](https://open.spotify.com/album/4W3y0BJ9PG73pL5kAXl2Vu) | 4:36 |
 | 65 | [Prayer](https://open.spotify.com/track/7LgljzzT4CGyJ7Fv8qwWJO) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Time](https://open.spotify.com/album/1jtleXgBwqCJGqWBPorJgX) | 2:38 |
 | 66 | [Nocturne in E\-Flat Major, Op\. 9, No\. 2](https://open.spotify.com/track/5vHdzeEjuK5ZQnOyFqUTDH) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Pablo Ferrandez](https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt), [Julien Quentin](https://open.spotify.com/artist/374U7fciZF54RvuwwZY3bR) | [Nocturne in E\-Flat Major, Op\. 9, No\. 2](https://open.spotify.com/album/03BGb4cBD5kWEg8Dng7pFs) | 4:07 |
 | 67 | [Dreaming of Summer](https://open.spotify.com/track/7IMwFSt6Gd9WtCeBvmc4HL) | [Lauri Porra](https://open.spotify.com/artist/6PcS0mIfMV5JOY3NX2bkTn), [Mumintrollen](https://open.spotify.com/artist/6SXUdE8lwqmLKPQgyGrpUP) | [Dreaming of Summer](https://open.spotify.com/album/05rV9j6FtUOMOL8JcUcd5e) | 2:21 |

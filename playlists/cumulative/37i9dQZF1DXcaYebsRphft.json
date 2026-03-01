@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u6765\u65e5\u516c\u6f14\u300eNCT WISH 1st CONCERT TOUR INTO THE WISH : Our WISH in JAPAN\u300f\u306e\u30bb\u30c3\u30c8\u30ea\u30b9\u30c8\u3092\u516c\u958b\uff01",
-  "name": "On Tour Japan:  NCT WISH",
+  "description": "\u300e2026 RIIZE CONCERT TOUR [RIIZING LOUD] Special Edition in TOKYO DOME\u300f\u306e\u30e1\u30f3\u30d0\u30fc\u30dc\u30a4\u30b9\u5165\u308a\u30bb\u30c3\u30c8\u30ea\u30b9\u30c8",
+  "name": "On Tour Japan: RIIZE",
   "tracks": [
     {
       "album": {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 171200,
       "name": "1000",
       "url": "https://open.spotify.com/track/4fqWeOA8LcipNx6NOlFqtM"
@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "RIIZING",
+        "url": "https://open.spotify.com/album/7JidrvBZXM4otdFhbf7OZ1"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160205,
+      "name": "9 Days",
+      "url": "https://open.spotify.com/track/4ad0l49Ck32TLfOoHady0n"
+    },
+    {
+      "album": {
         "name": "WHY..",
         "url": "https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa"
       },
@@ -164,6 +182,24 @@
       "duration_ms": 62300,
       "name": "About IF I SAY, I LOVE YOU",
       "url": "https://open.spotify.com/track/3JiF9qFwFo4jGrGieEcZgX"
+    },
+    {
+      "album": {
+        "name": "All of You",
+        "url": "https://open.spotify.com/album/2BOIZjVSfiQDntgqzE94PI"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158796,
+      "name": "All of You",
+      "url": "https://open.spotify.com/track/5aZUKmHWosIdaehziLYEq4"
     },
     {
       "album": {
@@ -286,7 +322,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 227206,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/39cCcB8SwwudStq1uNLyUl"
@@ -430,7 +466,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 151000,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/5Vhv7grrhFyhTYkXKrNo67"
@@ -502,7 +538,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 192835,
       "name": "Bag Bad Back",
       "url": "https://open.spotify.com/track/1AcL3gJU51lgOotfF1Bx4d"
@@ -578,7 +614,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 199273,
       "name": "Be My Next",
       "url": "https://open.spotify.com/track/4qbd4V3cSPzXX1jXOnxJLS"
@@ -924,7 +960,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 152889,
       "name": "Boom Boom Bass",
       "url": "https://open.spotify.com/track/7tsX0vfh16qjWpGaWSGfPu"
@@ -1302,7 +1338,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 181000,
       "name": "Cheat Code",
       "url": "https://open.spotify.com/track/0dE5yWQgpEMBtEiLqsKbL2"
@@ -1356,7 +1392,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 214573,
       "name": "CHOO CHOO",
       "url": "https://open.spotify.com/track/1WiImFNE0hJBfnZz0nSoLc"
@@ -1392,7 +1428,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 180000,
       "name": "COLOR",
       "url": "https://open.spotify.com/track/7BRP4zawz4T1PhAdj2Nr4Z"
@@ -1410,7 +1446,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 219551,
       "name": "Combo",
       "url": "https://open.spotify.com/track/0W0STGeR1lBHBbDgdB0uie"
@@ -1842,7 +1878,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 179053,
       "name": "Design",
       "url": "https://open.spotify.com/track/4w8zAz3oVqVa5OMteT0TuV"
@@ -2022,7 +2058,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 178000,
       "name": "Dreamcatcher",
       "url": "https://open.spotify.com/track/6Cgeu9s6xOqnqRGmWpewHW"
@@ -2220,7 +2256,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 200547,
       "name": "Ember to Solar",
       "url": "https://open.spotify.com/track/2O63e8oCEEKj4Ji3T5ggpC"
@@ -2335,6 +2371,24 @@
     },
     {
       "album": {
+        "name": "Fame",
+        "url": "https://open.spotify.com/album/5sbuDQcTnQz6wjcJMQ5tvH"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176847,
+      "name": "Fame",
+      "url": "https://open.spotify.com/track/1Z3doUU99Rwz3hRYDlZ7Ap"
+    },
+    {
+      "album": {
         "name": "WISHFUL",
         "url": "https://open.spotify.com/album/3JSUHAskqOwtOnMLO21kd3"
       },
@@ -2346,7 +2400,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 184160,
       "name": "FAR AWAY",
       "url": "https://open.spotify.com/track/0YlgcPQR7rr77evdMsMG05"
@@ -2497,6 +2551,24 @@
     },
     {
       "album": {
+        "name": "All of You",
+        "url": "https://open.spotify.com/album/2lIYNTQtiK8t6v9byPP529"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226833,
+      "name": "Flashlight",
+      "url": "https://open.spotify.com/track/45Q8uNKNGJnl2VDGzv22V7"
+    },
+    {
+      "album": {
         "name": "BORDER : DAY ONE",
         "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
       },
@@ -2526,7 +2598,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 178175,
       "name": "Fly Up",
       "url": "https://open.spotify.com/track/0S24FhekyRbihACHFwgPjs"
@@ -2634,7 +2706,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 160044,
       "name": "Get A Guitar",
       "url": "https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0"
@@ -2944,7 +3016,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 194653,
       "name": "Hands Up",
       "url": "https://open.spotify.com/track/0Wp5yopFqgKyklOReg9S8a"
@@ -3016,7 +3088,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 182000,
       "name": "Hello Mellow",
       "url": "https://open.spotify.com/track/0Bta0rqkUh1ErjpwHIofP6"
@@ -3250,7 +3322,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 234040,
       "name": "Hug",
       "url": "https://open.spotify.com/track/1Yy0eOzubrYK75bXH3rFbF"
@@ -3383,6 +3455,24 @@
     },
     {
       "album": {
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/2y1vWKt2JxwDaCit3wolxX"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182439,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/63bN9o4phUH6dZTvzkhqBD"
+    },
+    {
+      "album": {
         "name": "ANTIFRAGILE",
         "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
       },
@@ -3430,7 +3520,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 159553,
       "name": "Inside My Love",
       "url": "https://open.spotify.com/track/4CYodtfvQBBuUVnYXDl8qo"
@@ -3952,7 +4042,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 173489,
       "name": "Love 119 - Japanese Ver.",
       "url": "https://open.spotify.com/track/5dlLmuARBEgcqMSzsUqxCA"
@@ -4078,7 +4168,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 167219,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/4CnDbDsp8M84paAlyPpVpf"
@@ -4222,7 +4312,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 191066,
       "name": "Melt Inside My Pocket",
       "url": "https://open.spotify.com/track/1iHLurrRAWHisZAmzp9Uio"
@@ -4247,6 +4337,24 @@
     },
     {
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178013,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L"
+    },
+    {
+      "album": {
         "name": "Message from aespa",
         "url": "https://open.spotify.com/album/4YZLlygySwgHWMOohubZED"
       },
@@ -4262,6 +4370,24 @@
       "duration_ms": 46963,
       "name": "Message from aespa",
       "url": "https://open.spotify.com/track/7nzZrE9qyhj5QjcEtPEbYo"
+    },
+    {
+      "album": {
+        "name": "Message from RIIZE",
+        "url": "https://open.spotify.com/album/6JjlIXGq9Ky2kwpNxUG172"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 18416,
+      "name": "Message from ANTON",
+      "url": "https://open.spotify.com/track/1aUiRwSCVh0magbwgHasGJ"
     },
     {
       "album": {
@@ -4316,6 +4442,24 @@
       "duration_ms": 41124,
       "name": "Message from ENHYPEN",
       "url": "https://open.spotify.com/track/6WvQ6QLcYSh6U7PjdMy2Gn"
+    },
+    {
+      "album": {
+        "name": "Message from RIIZE",
+        "url": "https://open.spotify.com/album/6JjlIXGq9Ky2kwpNxUG172"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 14440,
+      "name": "Message from EUNSEOK",
+      "url": "https://open.spotify.com/track/3AqvSFWK2v3ROlr34vYByp"
     },
     {
       "album": {
@@ -4445,6 +4589,78 @@
     },
     {
       "album": {
+        "name": "Message from RIIZE",
+        "url": "https://open.spotify.com/album/6JjlIXGq9Ky2kwpNxUG172"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 18280,
+      "name": "Message from SHOTARO",
+      "url": "https://open.spotify.com/track/6H5wIVu3dDLq1k3mct2S9W"
+    },
+    {
+      "album": {
+        "name": "Message from RIIZE",
+        "url": "https://open.spotify.com/album/6JjlIXGq9Ky2kwpNxUG172"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 13720,
+      "name": "Message from SOHEE",
+      "url": "https://open.spotify.com/track/73dFVvZKib1ZmQby9SIaon"
+    },
+    {
+      "album": {
+        "name": "Message from RIIZE",
+        "url": "https://open.spotify.com/album/6JjlIXGq9Ky2kwpNxUG172"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 13920,
+      "name": "Message from SUNGCHAN",
+      "url": "https://open.spotify.com/track/6iUMNgJNF6TUPGCmM9D7X2"
+    },
+    {
+      "album": {
+        "name": "Message from RIIZE",
+        "url": "https://open.spotify.com/album/6JjlIXGq9Ky2kwpNxUG172"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 12560,
+      "name": "Message from WONBIN",
+      "url": "https://open.spotify.com/track/6OQgsVvOeEzfqxbX0XbGVT"
+    },
+    {
+      "album": {
         "name": "ODYSSEY - The 1st Album",
         "url": "https://open.spotify.com/album/5LGr4toULbiDoFoSTo0wCw"
       },
@@ -4456,7 +4672,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 202848,
       "name": "Midnight Mirage",
       "url": "https://open.spotify.com/track/6nmYJGBZxQbit7nlog3WI0"
@@ -4672,7 +4888,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 183133,
       "name": "NASA",
       "url": "https://open.spotify.com/track/4FlwKeii8Y46oyTLtsYLJq"
@@ -4906,7 +5122,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 152267,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/3wZHktgqSxoMlvX2dvDajs"
@@ -4942,7 +5158,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 183386,
       "name": "On & On",
       "url": "https://open.spotify.com/track/5RJK0rH8I8I5BeBRLlTvPy"
@@ -4960,7 +5176,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 32800,
       "name": "On Tour Japan NCT WISH",
       "url": "https://open.spotify.com/track/2FFHcdF7FjtlnBGBZRFwfC"
@@ -5054,6 +5270,24 @@
       "duration_ms": 196392,
       "name": "One In A Billion",
       "url": "https://open.spotify.com/track/66wQlkJP6zHNOzRkyo5yZS"
+    },
+    {
+      "album": {
+        "name": "RIIZING",
+        "url": "https://open.spotify.com/album/7JidrvBZXM4otdFhbf7OZ1"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212062,
+      "name": "One Kiss",
+      "url": "https://open.spotify.com/track/2B0fIX58M69Y7kuPG86l7g"
     },
     {
       "album": {
@@ -5158,7 +5392,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 172173,
       "name": "Our Adventures",
       "url": "https://open.spotify.com/track/5Y93XMH6dJ4Yy8ImAdMewa"
@@ -5194,7 +5428,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 181573,
       "name": "P.O.V",
       "url": "https://open.spotify.com/track/735o24zZtDtVXfETHmcii5"
@@ -5248,7 +5482,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 39696,
       "name": "Passage",
       "url": "https://open.spotify.com/track/5uW0KnvuqjNbd6F57p6I19"
@@ -5356,7 +5590,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 182133,
       "name": "poppop - Japanese Ver.",
       "url": "https://open.spotify.com/track/72B6VU3Yvyz3pYNqZpLzVT"
@@ -5500,7 +5734,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 189000,
       "name": "Reel-ationship",
       "url": "https://open.spotify.com/track/2lQVBSfjBVCvI245h4oJNi"
@@ -5662,7 +5896,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 243498,
       "name": "Same Key",
       "url": "https://open.spotify.com/track/7tFO9G4t5Yhv9E5VT86l6g"
@@ -5896,7 +6130,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 189544,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/5pyqAZSjzZiAZfdfQaMtGj"
@@ -5936,10 +6170,28 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 182186,
       "name": "Silly Dance",
       "url": "https://open.spotify.com/track/4SbfYv8PHH5KOxLLOUBxex"
+    },
+    {
+      "album": {
+        "name": "Siren",
+        "url": "https://open.spotify.com/album/13eyoNteqwQJmUqhUcWuQt"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147961,
+      "name": "Siren",
+      "url": "https://open.spotify.com/track/0lCT7dZovwscmIRIltborh"
     },
     {
       "album": {
@@ -5972,7 +6224,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 199213,
       "name": "Skate",
       "url": "https://open.spotify.com/track/3QSejT9vB9LWJQ64rbur3E"
@@ -6116,7 +6368,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 181760,
       "name": "Songbird - Japanese Ver.",
       "url": "https://open.spotify.com/track/3SCRXReEFR5yhw5jnMA0zE"
@@ -6260,10 +6512,28 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 179680,
       "name": "Steady",
       "url": "https://open.spotify.com/track/1zJUr9Oo5zEjvJrdlg67jQ"
+    },
+    {
+      "album": {
+        "name": "Fame",
+        "url": "https://open.spotify.com/album/4xj1odt2gz8GbbuKopagkH"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197383,
+      "name": "Sticky Like",
+      "url": "https://open.spotify.com/track/28zERxMmEa5kjPP7yMJNu1"
     },
     {
       "album": {
@@ -6476,7 +6746,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 184000,
       "name": "Surf",
       "url": "https://open.spotify.com/track/2bJI4NceMjye26SmzewutW"
@@ -6588,6 +6858,24 @@
       "duration_ms": 26884,
       "name": "TALK - WE GO UP",
       "url": "https://open.spotify.com/track/6DuQfxp75nyKRSz3eBhCiR"
+    },
+    {
+      "album": {
+        "name": "Talk Saxy",
+        "url": "https://open.spotify.com/album/3DDfrWAkdIj5SljPdMLVHM"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190941,
+      "name": "Talk Saxy",
+      "url": "https://open.spotify.com/track/51XEe7g3biT97KzhZjHRgv"
     },
     {
       "album": {
@@ -6974,7 +7262,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 181000,
       "name": "Videohood",
       "url": "https://open.spotify.com/track/348MxMVyHYOKA4XrHJEQAk"
@@ -7118,7 +7406,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 181506,
       "name": "We Go!",
       "url": "https://open.spotify.com/track/4E4FEpgRWPdymqCckJ1C1R"
@@ -7136,7 +7424,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 208000,
       "name": "WICHU",
       "url": "https://open.spotify.com/track/37bG7biGfYaLebbXIuQbxK"
@@ -7190,7 +7478,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 185533,
       "name": "WISH - Japanese Ver.",
       "url": "https://open.spotify.com/track/5na7IiFow1qNGtLhhBAaSI"
@@ -7208,7 +7496,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 188480,
       "name": "Wishful Winter",
       "url": "https://open.spotify.com/track/3hCg0ihZAaSEVquRz9MKAs"

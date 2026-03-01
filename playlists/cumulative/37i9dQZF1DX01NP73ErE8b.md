@@ -4,7 +4,7 @@
 
 > I brani italiani che abbiamo on repeat  🔁  Ditonellapiaga in cover
 
-526 songs - 1 day 3 hr 9 min
+528 songs - 1 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,6 +410,7 @@
 | [RANDAGI](https://open.spotify.com/track/1nELZxAVX7ibdrXxYcc4Pj) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [RANDAGI](https://open.spotify.com/album/4WmwbD0f9GLDMU55MFWeo3) | 3:17 | 2024-07-01 | 2024-08-20 |
 | [RELAX](https://open.spotify.com/track/5onR9s5xFHJMovlUECcSyS) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [RELAX](https://open.spotify.com/album/2FjLBW7Ms9y0xi81Ox9zWL) | 2:49 | 2025-05-08 | 2025-06-13 |
 | [REQUIEM](https://open.spotify.com/track/329qNAEH6BYfCFC62j158Z) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [REQUIEM](https://open.spotify.com/album/2W09xIZ63nBstT9nLW2mAu) | 2:31 | 2024-07-01 | 2024-10-18 |
+| [Resta Con Me](https://open.spotify.com/track/1GjQApTKIADKfSoZm8bHRK) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Resta Con Me](https://open.spotify.com/album/4mCgQu8BIqXpiil8pw5KDj) | 3:10 | 2026-02-28 |  |
 | [RIMANI RIMANI RIMANI](https://open.spotify.com/track/6DppnYSn5RrZZjxNfUlRDS) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [RIMANI RIMANI RIMANI](https://open.spotify.com/album/1XykBGy8nRX5iAG8PeEYH4) | 2:37 | 2024-12-19 | 2025-01-17 |
 | [Rockstar](https://open.spotify.com/track/1Nxi3qWX2wJ08VeWiSV9By) | [Alex Wyse](https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ) | [Rockstar](https://open.spotify.com/album/4E2mpIFXDslDMo14Kp6iWr) | 3:36 | 2024-11-13 | 2025-01-17 |
 | [ROMANTICA](https://open.spotify.com/track/0P69lzMez4EK81zNq2zx6b) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [ROMANTICA](https://open.spotify.com/album/1515R9PDJhpiwKSuO8cnrK) | 2:21 | 2025-04-03 | 2025-05-27 |
@@ -483,6 +484,7 @@
 | [Ti Fidavi \(feat\. Capo Plaza\)](https://open.spotify.com/track/4FdRVbXlQTdmfDCQPNZYVp) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [rosa dei venti](https://open.spotify.com/album/1hrC8WmoDqNoIm9wY7vTYj) | 2:11 | 2025-03-20 | 2025-05-23 |
 | [Ti manca l’aria](https://open.spotify.com/track/2x1AF8mR82VKEci1bSZ5gI) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Ti manca l’aria](https://open.spotify.com/album/56b0zsCOziJ9ujXcqs93Jy) | 3:12 | 2025-04-03 | 2025-10-25 |
 | [Ti penso](https://open.spotify.com/track/3dffFDUu2lOiOfsEhAiIdi) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD) | [Ti penso](https://open.spotify.com/album/7fWSuZhKMmKcZhpbKF0S2B) | 2:51 | 2025-04-03 | 2025-04-18 |
+| [Ti penso sempre](https://open.spotify.com/track/15RaJcxk9ng0GahyzI6q3g) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Ti penso sempre](https://open.spotify.com/album/1BmNw1cvb6dJCKWoB2KlFs) | 2:34 | 2026-02-28 |  |
 | [ti prego non piangere](https://open.spotify.com/track/02Gl9tZhIu0BguKv3GTYgB) | [Federica Carta](https://open.spotify.com/artist/0vQk2DnpCtSLT8QeMbCE6L), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [ti prego non piangere](https://open.spotify.com/album/4hUpEROffCaxLIy3C201Pw) | 3:19 | 2026-02-05 |  |
 | [Tilt](https://open.spotify.com/track/6EzqfLXQSgs0JeTY73VZob) | [Federica Abbate](https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B) | [Tilt](https://open.spotify.com/album/2dZj4dQ0l93htP9jv6HD1Z) | 2:25 | 2025-04-17 | 2025-05-09 |
 | [Torcida](https://open.spotify.com/track/50okpBf3MvXr4FyWB6jJIK) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Torcida](https://open.spotify.com/album/7bl7T20VOkLwcLSBHUcq9V) | 2:54 | 2024-07-01 | 2024-11-15 |

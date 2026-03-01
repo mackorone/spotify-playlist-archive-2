@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Cliff. The essential tracks, all in one playlist.",
-  "num_followers": 43483,
+  "num_followers": 43490,
   "original_name": "This Is Jimmy Cliff",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ+NAAAAAACWPAy+Q3YXV7eoPBu9yM6q",
+  "snapshot_id": "aaDegAAAAADClza1LYqCeEqBv4gevRpf",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "War a Africa",
-        "url": "https://open.spotify.com/album/58gv9p5fC4xs1N5ckoxPLX"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 294544,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/5fJuB2LPN99z6ZHJ5pfEPQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Power And The Glory",
         "url": "https://open.spotify.com/album/6NAU01DHEdx0vyioca0Pcs"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 290866,
       "name": "Sunshine in the Music",
       "url": "https://open.spotify.com/track/2WTdOVaNWbcOViMg4NBML9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "War a Africa",
+        "url": "https://open.spotify.com/album/58gv9p5fC4xs1N5ckoxPLX"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 294544,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/5fJuB2LPN99z6ZHJ5pfEPQ"
     },
     {
       "added_at": null,
@@ -883,22 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unlimited",
-        "url": "https://open.spotify.com/album/6c4nsvQdAUNOWLDGCBNyzR"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 181773,
-      "name": "Fundamental Reggay",
-      "url": "https://open.spotify.com/track/2v3EzjkdxRom9XXd9Ew2d2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Give Thanx",
         "url": "https://open.spotify.com/album/2fxpPZnUQrYgjax8z9t4UB"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 221933,
       "name": "Wanted Man",
       "url": "https://open.spotify.com/track/5ZiDeyGECCx1so1CKl2yvH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unlimited",
+        "url": "https://open.spotify.com/album/6c4nsvQdAUNOWLDGCBNyzR"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 181773,
+      "name": "Fundamental Reggay",
+      "url": "https://open.spotify.com/track/2v3EzjkdxRom9XXd9Ew2d2"
     }
   ],
   "unique_name": "This Is Jimmy Cliff",

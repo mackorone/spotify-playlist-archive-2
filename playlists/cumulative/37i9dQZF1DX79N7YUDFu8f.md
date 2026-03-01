@@ -2,7 +2,7 @@
 
 ### [Easy On Saturday](https://open.spotify.com/playlist/37i9dQZF1DX79N7YUDFu8f)
 
-> Lekker rustig aan doen op zaterdag met deze zachte popliedjes.
+> Rustig aan doen op zaterdag met deze zachte popliedjes.
 
 306 songs - 18 hr 3 min
 

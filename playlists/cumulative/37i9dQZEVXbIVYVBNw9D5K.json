@@ -5602,7 +5602,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 268515,
       "name": "Bu A\u015fk Fazla Sana",
       "url": "https://open.spotify.com/track/3Ommpa2aE0RU3F04BedepA"
@@ -14186,7 +14186,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 249164,
       "name": "\u0130NANMAZDUM S\u00d6ZUNE",
       "url": "https://open.spotify.com/track/6sYjEgsIj6aKOGRVmnRVZn"
@@ -15124,6 +15124,24 @@
       "duration_ms": 165918,
       "name": "Kalpsiz Bir Serseri",
       "url": "https://open.spotify.com/track/2nmlHwWFYwTzdyzI8MqLen"
+    },
+    {
+      "album": {
+        "name": "Kalpsiz Bir Serseri (Live)",
+        "url": "https://open.spotify.com/album/3R7BUFaIAw3RPuf6eybWHB"
+      },
+      "artists": [
+        {
+          "name": "Simge",
+          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224962,
+      "name": "Kalpsiz Bir Serseri - Live",
+      "url": "https://open.spotify.com/track/5PdcxLk48vWQqMeY4qqdsZ"
     },
     {
       "album": {
@@ -16410,6 +16428,28 @@
       "duration_ms": 211040,
       "name": "Ku\u011fulu Park",
       "url": "https://open.spotify.com/track/4BeGu2WQNlpiREpmWGHD8U"
+    },
+    {
+      "album": {
+        "name": "K\u00e2be'de Hac\u0131lar",
+        "url": "https://open.spotify.com/album/2OzCPenEZiSGFjVy9mkHP2"
+      },
+      "artists": [
+        {
+          "name": "Abdurrahman \u00d6n\u00fcl",
+          "url": "https://open.spotify.com/artist/4wfR2P1uLr5g3hgvcwkcjt"
+        },
+        {
+          "name": "Celal Karat\u00fcre",
+          "url": "https://open.spotify.com/artist/5Z11w19UZIbK8wuZwtHslL"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175902,
+      "name": "K\u00e2be'de Hac\u0131lar",
+      "url": "https://open.spotify.com/track/5tJysfpX3Q6KJ3W6M3LP0q"
     },
     {
       "album": {
@@ -18682,7 +18722,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 153721,
       "name": "Murabba",
       "url": "https://open.spotify.com/track/6qJXJ9OvhQ7ETQX8pb2UDm"
@@ -22482,7 +22522,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 271210,
       "name": "Sayg\u0131mdan",
       "url": "https://open.spotify.com/track/4E10qEzOmTIVmrg6Wz2RHj"
@@ -22724,7 +22764,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 251280,
       "name": "Senden Insaf Diler Yar\u0131n",
       "url": "https://open.spotify.com/track/5qQUV7nH6koNlmnoxE115x"
@@ -24846,7 +24886,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 186710,
       "name": "Trap House",
       "url": "https://open.spotify.com/track/24jJv0eMKXT4MvGKRP70QS"
@@ -24998,7 +25038,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 104427,
       "name": "T\u00fct\u00fcn ve Votka",
       "url": "https://open.spotify.com/track/33R8444moUu3Tm33Lq0D0I"
@@ -26838,6 +26878,24 @@
       "duration_ms": 166425,
       "name": "Ya\u015fanacaksa",
       "url": "https://open.spotify.com/track/4j2rg6pHWZJVpJy1AwRpdl"
+    },
+    {
+      "album": {
+        "name": "Ya\u015f\u0131yoken Anla",
+        "url": "https://open.spotify.com/album/5mWXaZ7MlKvbdnLPZ1UlOs"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197304,
+      "name": "Ya\u015f\u0131yoken Anla",
+      "url": "https://open.spotify.com/track/0e86zY8kamEt5Jz5pAWpc9"
     },
     {
       "album": {

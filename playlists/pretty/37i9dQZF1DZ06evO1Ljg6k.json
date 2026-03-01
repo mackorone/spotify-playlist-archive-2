@@ -1,12 +1,12 @@
 {
   "description": "This is D'Angelo. The essential tracks, all in one playlist.",
-  "num_followers": 71772,
+  "num_followers": 71816,
   "original_name": "This Is D'Angelo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ+NAAAAAAAEVYt7wE/ti/YKkoaCxI5H",
+  "snapshot_id": "aaDegAAAAADW1x2egWaxnwcOERcqGdmL",
   "tracks": [
     {
       "added_at": null,
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 384666,
-      "name": "Cruisin'",
-      "url": "https://open.spotify.com/track/2voXNGgRrosxCJA6foTVau"
+      "duration_ms": 344893,
+      "name": "When We Get By",
+      "url": "https://open.spotify.com/track/1DNkxLaGqAIU43kHQkunoE"
     },
     {
       "added_at": null,
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 344893,
-      "name": "When We Get By",
-      "url": "https://open.spotify.com/track/1DNkxLaGqAIU43kHQkunoE"
+      "duration_ms": 384666,
+      "name": "Cruisin'",
+      "url": "https://open.spotify.com/track/2voXNGgRrosxCJA6foTVau"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Messiah",
-        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 302840,
-      "name": "Sugah Daddy",
-      "url": "https://open.spotify.com/track/53l4LGUeZKCDZI1u25kQDN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tical 2000: Judgement Day",
         "url": "https://open.spotify.com/album/5EGi6pUMlx1UfSCrfYUisa"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 233933,
       "name": "Break Ups 2 Make Ups",
       "url": "https://open.spotify.com/track/5jlVndwOZVzbAfGVHtetDX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Messiah",
+        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 302840,
+      "name": "Sugah Daddy",
+      "url": "https://open.spotify.com/track/53l4LGUeZKCDZI1u25kQDN"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Messiah",
-        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 231906,
-      "name": "Till It's Done (Tutu)",
-      "url": "https://open.spotify.com/track/1tgmyTEKDOkwyvyE37AJDj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Finding Forever",
         "url": "https://open.spotify.com/album/0XFFBEzvJ7Zit24MY5oVV3"
       },
@@ -535,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Messiah",
+        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 231906,
+      "name": "Till It's Done (Tutu)",
+      "url": "https://open.spotify.com/track/1tgmyTEKDOkwyvyE37AJDj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fan-Tas-Tic, Vol. 2",
         "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
       },
@@ -551,58 +551,6 @@
       "duration_ms": 277639,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/2Xr7QVhLRYwXRR1oteyo9I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Renaissance",
-        "url": "https://open.spotify.com/album/3asZSLOAAtCNJz5W2LGuFJ"
-      },
-      "artists": [
-        {
-          "name": "Q-Tip",
-          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
-        },
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 176986,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/1HeuJBxrVjtxLeEJKm8Tez"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Messiah",
-        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 289026,
-      "name": "Ain't That Easy",
-      "url": "https://open.spotify.com/track/2yx7XX9v7M6yhm2fBG7K3E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live At The Jazz Cafe, London",
-        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 235773,
-      "name": "Jonz In My Bones - Live At The Jazz Cafe, London/1995",
-      "url": "https://open.spotify.com/track/0cUMdJl2C1WFcnSsgYjBF9"
     },
     {
       "added_at": null,
@@ -643,6 +591,58 @@
       "duration_ms": 610519,
       "name": "Water No Get Enemy",
       "url": "https://open.spotify.com/track/5WFSTTKZxDnvr0EVBJTFpe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 235773,
+      "name": "Jonz In My Bones - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/0cUMdJl2C1WFcnSsgYjBF9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Messiah",
+        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 289026,
+      "name": "Ain't That Easy",
+      "url": "https://open.spotify.com/track/2yx7XX9v7M6yhm2fBG7K3E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Renaissance",
+        "url": "https://open.spotify.com/album/3asZSLOAAtCNJz5W2LGuFJ"
+      },
+      "artists": [
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        },
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 176986,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/1HeuJBxrVjtxLeEJKm8Tez"
     }
   ],
   "unique_name": "This Is D'Angelo",

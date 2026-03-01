@@ -13285,6 +13285,44 @@
     },
     {
       "album": {
+        "name": "DOMI",
+        "url": "https://open.spotify.com/album/3Kr66lsYEsQ1XaeRJho9x5"
+      },
+      "artists": [
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        },
+        {
+          "name": "Jezzy",
+          "url": "https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu"
+        },
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        },
+        {
+          "name": "Shelow Shaq",
+          "url": "https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU"
+        },
+        {
+          "name": "Three Seven Music",
+          "url": "https://open.spotify.com/artist/6WpyChzOE17EotLrDxy3Cb"
+        },
+        {
+          "name": "The Chosen Few",
+          "url": "https://open.spotify.com/artist/2HOZmbv4saI1WELN907XSN"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160615,
+      "name": "DOMI",
+      "url": "https://open.spotify.com/track/0Kr9tPPgBaINkfA9nEgrNu"
+    },
+    {
+      "album": {
         "name": "Dominicana",
         "url": "https://open.spotify.com/album/0xBy8mlkeW6KOPuzt5xikF"
       },
@@ -37298,7 +37336,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 174106,
       "name": "Ponte Perra",
       "url": "https://open.spotify.com/track/1DbT2COwAovcubwNvYIAg6"

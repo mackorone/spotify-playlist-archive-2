@@ -1,12 +1,12 @@
 {
-  "description": "Funky & groovy tunes for poolside chilling.",
-  "num_followers": 82615,
-  "original_name": "Poolside Grooves",
+  "description": "Hand-picked grooves.",
+  "num_followers": 82620,
+  "original_name": "Poolside Selection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMmNSVdYxNFK9TdC4Py3ewmpFLHX",
+  "snapshot_id": "AAAAAM1bMlZFdIrAwZUR383R5s4uA5w/",
   "tracks": [
     {
       "added_at": "2026-02-26 23:00:38",
@@ -1885,6 +1885,6 @@
       "url": "https://open.spotify.com/track/4EzIrPHgxqHbNB3ikyo0io"
     }
   ],
-  "unique_name": "Poolside Grooves",
+  "unique_name": "Poolside Selection",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2cEUXdJJLVG"
 }

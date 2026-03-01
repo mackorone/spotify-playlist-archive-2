@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's best new <a href="spotify:genre:edm\_dance">dance and electronic releases</a> from HoneyLuv, MPH, Four Tet, Hannah Laing, & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,349 likes - 140 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,398 likes - 140 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,7 +130,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 120 | [Piratas](https://open.spotify.com/track/1lVsfkH7myd4i6ut7yIhgx) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Piratas](https://open.spotify.com/album/1ECRGJ8zlsgq5JMNvjSkDx) | 2:49 |
 | 121 | [Phase One](https://open.spotify.com/track/0JeHzggWbL6xJs40tXnBJO) | [Ellis Garner](https://open.spotify.com/artist/6sY1arGfGF8dJ616TFEOeO) | [Phase One EP](https://open.spotify.com/album/3oWzOc36MGNe40ug6NHBqK) | 3:23 |
 | 122 | [Real Ones](https://open.spotify.com/track/07UgchZNl7IyEBXLi59AF5) | [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K), [Jason Lindner](https://open.spotify.com/artist/7IyxbbSUjUQVIembL68zvy) | [Real Ones](https://open.spotify.com/album/0OXDrhOnW7YV6h651E5GmZ) | 6:48 |
-| 123 | [Esa Chiquita](https://open.spotify.com/track/73nYQgfeifQwPcBcsk20V7) | [Jesse Perez](https://open.spotify.com/artist/28tbqi7xhIZs8RRGdeCy8d), [Blue Mystic](https://open.spotify.com/artist/2Q46VKBYQ96xrWdRoK1Jdu) | [Esa Chiquita](https://open.spotify.com/album/75GEIHpJEYkMdv0I6f4241) | 3:31 |
+| 123 | [Esa Chiquita](https://open.spotify.com/track/73nYQgfeifQwPcBcsk20V7) | [Jesse Perez](https://open.spotify.com/artist/28tbqi7xhIZs8RRGdeCy8d), [Blue Mystic](https://open.spotify.com/artist/2RFhG8KLT5AX3XUUp44Vim) | [Esa Chiquita](https://open.spotify.com/album/75GEIHpJEYkMdv0I6f4241) | 3:31 |
 | 124 | [Touch](https://open.spotify.com/track/4kBK0q8pXP41R1GczinXq9) | [Aures](https://open.spotify.com/artist/39xkt555pu4TqjWuwdDl3E), [NOGE](https://open.spotify.com/artist/4X6TZPjwVwLKCjLdnRX5NI) | [Touch](https://open.spotify.com/album/6S19rfBuAOHCkUkk9pYtCv) | 4:04 |
 | 125 | [Was I Loved? \- Dub Mix](https://open.spotify.com/track/4XHtyj62uFk4Tlk16WrQ30) | [Joss Dean](https://open.spotify.com/artist/5wY7g9kThj0QTE33r30CXf) | [Was I Loved? \(Dub Mix\)](https://open.spotify.com/album/2D1rJsEEfe4YPdRNAWFvRs) | 2:47 |
 | 126 | [Bomba \(Club Mix\)](https://open.spotify.com/track/3QxSDqReNbVVGv9T68TWit) | [Renceau](https://open.spotify.com/artist/5grCmWFT1dIPxLpzGZtxlU) | [\[EC2A02\] BOMBA EP](https://open.spotify.com/album/0JkfjagtVTPOzQtIKyoe2g) | 4:01 |

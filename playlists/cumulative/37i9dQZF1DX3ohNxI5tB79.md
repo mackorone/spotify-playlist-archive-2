@@ -2,7 +2,7 @@
 
 ### [Morning Rhythm](https://open.spotify.com/playlist/37i9dQZF1DX3ohNxI5tB79)
 
-> Start your morning right with this collection of funky, soulful, jazzy tunes.
+> Start your morning right with this collection of soul & jazz.
 
 358 songs - 22 hr 55 min
 

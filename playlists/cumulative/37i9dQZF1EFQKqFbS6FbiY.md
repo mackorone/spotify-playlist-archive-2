@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-735 songs - 1 day 11 hr 49 min
+736 songs - 1 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,8 @@
 | [Faz Safado Sofrer](https://open.spotify.com/track/21PuXnW0CMOLZHJHkNM272) | [Luciano Duarte](https://open.spotify.com/artist/4kQ1qAS7QFHg0Obs2bYck4) | [Faz Safado Sofrer](https://open.spotify.com/album/0lprCMKCTGH0Lnhw06ebHq) | 2:29 | 2023-12-30 |  |
 | [Feijão Com Arroz](https://open.spotify.com/track/5UtTjMHkg8C5QS8DiPR4Nh) | [Andri & Hector](https://open.spotify.com/artist/6Z5H6o9sDFCMcAr43wcYRh) | [Feijão Com Arroz](https://open.spotify.com/album/6NjKnXgweIopj6rainiDlP) | 2:25 | 2023-12-30 |  |
 | [Fica Aqui](https://open.spotify.com/track/70REzfi8DiUDuu4BHafeoj) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Fica Aqui](https://open.spotify.com/album/27aY7RzA66XBHJopBSHDtx) | 3:22 | 2023-12-30 |  |
-| [Fica Titi Não](https://open.spotify.com/track/1k92O4rH8Cadue3gXzVchL) | [Rafa e Junior](https://open.spotify.com/artist/583d9476xT4d6A0pADiRJg) | [Fica Titi Não](https://open.spotify.com/album/4mkAPYOFwQ46ozNiN2wQb2) | 2:43 | 2023-12-30 |  |
+| [Fica Titi Não](https://open.spotify.com/track/1k92O4rH8Cadue3gXzVchL) | [Rafa e Junior](https://open.spotify.com/artist/583d9476xT4d6A0pADiRJg) | [Fica Titi Não](https://open.spotify.com/album/4mkAPYOFwQ46ozNiN2wQb2) | 2:43 | 2023-12-30 | 2026-03-01 |
+| [Fica Titi Não](https://open.spotify.com/track/1KP7DmaxeL4hkgILwzqBp9) | [Rafa e Junior](https://open.spotify.com/artist/583d9476xT4d6A0pADiRJg) | [Fica Titi Não](https://open.spotify.com/album/10BhDedLC6LQPdLSU0FvyC) | 2:44 | 2026-02-28 |  |
 | [Figo Bão](https://open.spotify.com/track/4NWe9QIk7UjS6BTAjlFZbM) | [Fernando Souza e Matheus](https://open.spotify.com/artist/2weq76M4O67H31FgYGf20v) | [Modão](https://open.spotify.com/album/3pVSqLrf4ARCCvFNDKCiJI) | 3:01 | 2025-05-31 |  |
 | [Figurinha de Grupo \- No 12, Ao Vivo](https://open.spotify.com/track/3A1WPglEROfedBSUPqMNI3) | [Maurício & Eduardo](https://open.spotify.com/artist/2Se9PDvg33BU6293vybNHc) | [NO 12 \(Ao Vivo\)](https://open.spotify.com/album/5Mmu9vDgfeaHvaR56yIPu0) | 3:06 | 2024-03-26 | 2025-10-27 |
 | [Figurinha de Grupo \- No 12, Ao Vivo](https://open.spotify.com/track/7uWb1cCy8aSF1PKTkp7TOm) | [Maurício & Eduardo](https://open.spotify.com/artist/2Se9PDvg33BU6293vybNHc) | [Figurinha de Grupo \(No 12, Ao Vivo\)](https://open.spotify.com/album/2GriTzdSq98tKzbAx97jYR) | 3:06 | 2025-10-26 |  |

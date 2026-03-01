@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moeZr1JWKb.md) - [plain]
 
 > Estas son las grandes voces del Hip Hop\. Foto: Penyair
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,582 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,601 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moeZr1JWKb.md) - [plain]
 | 7 | [Oro Por Ti](https://open.spotify.com/track/3hWnBTMoc0QGporRnmLZQn) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Duelo](https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl) | 3:36 |
 | 8 | [Efímero](https://open.spotify.com/track/7t407aCWIaRzkOu6YnaNkg) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [FineSound Music](https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh) | [Efímero](https://open.spotify.com/album/7rOEIGOgasINOSzG5qYi6c) | 3:36 |
 | 9 | [Crudo](https://open.spotify.com/track/0wT9Ueg9zNaTRGCmQsWUJL) | [chelo hop](https://open.spotify.com/artist/2CHBCYKsNfCltqmkl9yhQC), [Astrallbass](https://open.spotify.com/artist/14dNhqhwFlu2nJuDZRuy8t) | [Crudo](https://open.spotify.com/album/1UgZKyUxYqKKqYnajZ0E1V) | 2:56 |
-| 10 | [Bisiestos](https://open.spotify.com/track/2VCuzWuTcvv7oqoArHtNdJ) | [No Rules Clan](https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv), [Ignorancia Sofisticada](https://open.spotify.com/artist/2VqPCXF4QWaR9Xto4xN4YX) | [Bisiestos](https://open.spotify.com/album/5jAfgzFP7BLCB5cv5n2bLp) | 2:32 |
+| 10 | [Bisiestos](https://open.spotify.com/track/2VCuzWuTcvv7oqoArHtNdJ) | [No Rules Clan](https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv), [Ignorancia Sofisticada](https://open.spotify.com/artist/2VqPCXF4QWaR9Xto4xN4YX), [Kid Sanchez](https://open.spotify.com/artist/1tVHSMYLGXR8dGdHbCCyLS) | [Bisiestos](https://open.spotify.com/album/5jAfgzFP7BLCB5cv5n2bLp) | 2:32 |
 | 11 | [No Somos Iguales](https://open.spotify.com/track/768hs3HVSrFZzBtuEw4ZBE) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Gabylonia](https://open.spotify.com/artist/1dTtCb4nYTZLKpTnJ1f5uU), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI) | [No Somos Iguales](https://open.spotify.com/album/6a8f7KXUjf2AWp0Mf5tKxH) | 3:06 |
 | 12 | [GARDEL EN EL AVIÓN](https://open.spotify.com/track/7bMZF2sGTEAvZC0lIHAPAA) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Willy Bronca](https://open.spotify.com/artist/72LcvCe3u6J31WGoz55n9c) | [GARDEL EN EL AVIÓN](https://open.spotify.com/album/5RPPRhI9UzU2DQDkimiNKM) | 2:25 |
 | 13 | [INSTINTO](https://open.spotify.com/track/2iCYcHvwdNOFQTtekOHYyL) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [INSTINTO](https://open.spotify.com/album/6ijdWK2Svb4fi8ucoafIY9) | 3:53 |

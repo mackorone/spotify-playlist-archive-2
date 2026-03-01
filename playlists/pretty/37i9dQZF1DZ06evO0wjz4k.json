@@ -1,12 +1,12 @@
 {
   "description": "This is Parker McCollum. The essential tracks, all in one playlist.",
-  "num_followers": 34482,
+  "num_followers": 34488,
   "original_name": "This Is Parker McCollum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZ+NAAAAAADRQUPQ8Fke/tqz0Pow7x4f",
+  "snapshot_id": "aaDegAAAAACB60Nye+bTY7Ss7wxRcqfO",
   "tracks": [
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 210053,
-      "name": "Learn to Fly",
-      "url": "https://open.spotify.com/track/0B2kWR9V7Z4JZOtXgWG8Qr"
+      "duration_ms": 253453,
+      "name": "South of the City Lights",
+      "url": "https://open.spotify.com/track/1zf5HO14cdCxaCNXlhwvbV"
     },
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 253453,
-      "name": "South of the City Lights",
-      "url": "https://open.spotify.com/track/1zf5HO14cdCxaCNXlhwvbV"
+      "duration_ms": 210053,
+      "name": "Learn to Fly",
+      "url": "https://open.spotify.com/track/0B2kWR9V7Z4JZOtXgWG8Qr"
     },
     {
       "added_at": null,

@@ -14840,7 +14840,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 162857,
       "name": "CARNAVAL",
       "url": "https://open.spotify.com/track/0AWbhOimtlECEsQP0H5J6Q"
@@ -38130,7 +38130,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 156952,
       "name": "IMPERFEITA",
       "url": "https://open.spotify.com/track/5DI2UrNUQBqpOPiPs9wLWj"
@@ -46178,6 +46178,24 @@
       "duration_ms": 181756,
       "name": "Me Ama Mesmo - Ao Vivo",
       "url": "https://open.spotify.com/track/3EcLx5fFRgDIVAzfYwopuR"
+    },
+    {
+      "album": {
+        "name": "DEADLINE",
+        "url": "https://open.spotify.com/album/2SrWldMz9dfCB7kAGQNbcC"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172323,
+      "name": "Me and my",
+      "url": "https://open.spotify.com/track/5MXcM263QvCTWriH3nVusc"
     },
     {
       "album": {
@@ -75714,7 +75732,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-10",
+      "date_removed": null,
       "duration_ms": 216226,
       "name": "Sinais de fogo",
       "url": "https://open.spotify.com/track/7D9BJEcWwRqvQVqPbj1dbF"

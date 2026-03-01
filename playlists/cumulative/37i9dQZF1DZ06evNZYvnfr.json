@@ -519,6 +519,24 @@
     },
     {
       "album": {
+        "name": "Perfectly",
+        "url": "https://open.spotify.com/album/5TAVDxb6XTjJSABswnKHa2"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164101,
+      "name": "Perfectly",
+      "url": "https://open.spotify.com/track/3CaOFPZhOQYi1270esmtsf"
+    },
+    {
+      "album": {
         "name": "Praise The Lord",
         "url": "https://open.spotify.com/album/6AVULKLk5k401GWjYcqesn"
       },

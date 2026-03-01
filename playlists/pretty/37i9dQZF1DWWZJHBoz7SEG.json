@@ -1,12 +1,12 @@
 {
   "description": " Febrero se va, pero el mood se queda: rolitas prendidas y cero ganas de bajarle, Bruno Mars en portada ",
-  "num_followers": 1145321,
+  "num_followers": 1146208,
   "original_name": "Novedades Viernes MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP8nVc5xr19SgRucyA0Z29UmyasD",
+  "snapshot_id": "AAAAAAFJXDbYxIVxaWFS9lHLaStqtmk7",
   "tracks": [
     {
       "added_at": "2026-02-27 06:00:33",
@@ -1585,6 +1585,22 @@
       "url": "https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3"
     },
     {
+      "added_at": "2026-02-28 04:19:09",
+      "album": {
+        "name": "Ya No Soy Tan Cool (Deluxe)",
+        "url": "https://open.spotify.com/album/6ysFEJKf8RALz59cyHGsEu"
+      },
+      "artists": [
+        {
+          "name": "Andie Gago",
+          "url": "https://open.spotify.com/artist/2R5LEUDIhf0yxB5hQtXacJ"
+        }
+      ],
+      "duration_ms": 153933,
+      "name": "Ya No Hay Diversi\u00f3n",
+      "url": "https://open.spotify.com/track/76z2s7kCzHX0aN8r1vhpFu"
+    },
+    {
       "added_at": "2026-02-27 06:00:33",
       "album": {
         "name": "Carnaval",
@@ -1619,22 +1635,6 @@
       "duration_ms": 189473,
       "name": "YO NO SOY AS\u00cd",
       "url": "https://open.spotify.com/track/6A7Rx8Jaqsv9S2H411Y27b"
-    },
-    {
-      "added_at": "2026-02-27 06:00:33",
-      "album": {
-        "name": "Ya No Soy Tan Cool",
-        "url": "https://open.spotify.com/album/4UTCUeOIGIsqqgROdKZXXW"
-      },
-      "artists": [
-        {
-          "name": "Andie Gago",
-          "url": "https://open.spotify.com/artist/2R5LEUDIhf0yxB5hQtXacJ"
-        }
-      ],
-      "duration_ms": 194840,
-      "name": "Ya No Soy Tan Cool",
-      "url": "https://open.spotify.com/track/4yVgN4I70OQCDv6dy2Mitf"
     },
     {
       "added_at": "2026-02-27 06:00:33",

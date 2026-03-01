@@ -1,12 +1,12 @@
 {
   "description": "It's giving vibes. Cover: RnBoi & Ayra Starr",
-  "num_followers": 194974,
+  "num_followers": 194965,
   "original_name": "Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANGTZmyRccpj8noeU0UAth75VnZM",
+  "snapshot_id": "AAAAAOYFb+74nrQDgp/T8z7dHT6pI+t4",
   "tracks": [
     {
       "added_at": "2026-02-26 23:00:37",
@@ -60,9 +60,9 @@
           "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
         }
       ],
-      "duration_ms": 161739,
-      "name": "Cipriani",
-      "url": "https://open.spotify.com/track/46HNmYU7eYtTLeppahCVYk"
+      "duration_ms": 171570,
+      "name": "Hypocriet",
+      "url": "https://open.spotify.com/track/0jvimyrCx2jnzaxZXi6ShJ"
     },
     {
       "added_at": "2026-02-26 23:00:37",
@@ -231,6 +231,22 @@
     {
       "added_at": "2026-02-26 23:00:37",
       "album": {
+        "name": "F*CK KLEINE",
+        "url": "https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "Cipriani",
+      "url": "https://open.spotify.com/track/46HNmYU7eYtTLeppahCVYk"
+    },
+    {
+      "added_at": "2026-02-26 23:00:37",
+      "album": {
         "name": "Give It To Me",
         "url": "https://open.spotify.com/album/0Muk4t1czK2RNtrisFJ4sV"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 167852,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/51kQpKpagyNBxT4S1ljXqD"
-    },
-    {
-      "added_at": "2026-02-26 23:00:37",
-      "album": {
-        "name": "F*CK KLEINE",
-        "url": "https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7"
-      },
-      "artists": [
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        }
-      ],
-      "duration_ms": 171570,
-      "name": "Hypocriet",
-      "url": "https://open.spotify.com/track/0jvimyrCx2jnzaxZXi6ShJ"
     },
     {
       "added_at": "2026-02-26 23:00:37",

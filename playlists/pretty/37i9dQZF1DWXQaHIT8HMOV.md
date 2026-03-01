@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan gems in one playlist\. Cover: Pia Pounds
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,237 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,252 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 49 | [Slow Burn](https://open.spotify.com/track/6ENZbAQiGwkK2m33tA4rh8) | [SHENA SKIES](https://open.spotify.com/artist/59a5FtFMSsCD2iYYfuQTvO) | [Error 404](https://open.spotify.com/album/3aeOd0raQ0KzPDITXr0Gyz) | 2:49 |
 | 50 | [Give Me \(Story Book Riddim\)](https://open.spotify.com/track/1eNE8To9RboIMrdOObfPJd) | [Nutty Neithan](https://open.spotify.com/artist/2OvQ8hSCoty5MBYDt1kvKw) | [Give Me \(Story Book Riddim\)](https://open.spotify.com/album/0GkSjE0nF9GfromUhQ2Be3) | 2:18 |
 
-Snapshot ID: `AAAAAHBaFmIlPX9OjQR6QSy6b+xRk/+t`
+Snapshot ID: `AAAAAGBfQZkpUvr5JARL2grEba71MFSM`

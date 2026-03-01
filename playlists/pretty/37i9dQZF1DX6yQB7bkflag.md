@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Mitski
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,184 likes - 147 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,182 likes - 147 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 7 | [Allah Ya Allahu](https://open.spotify.com/track/29qaPgFuhI47F0zowk9ipP) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Allah Ya Allahu](https://open.spotify.com/album/49wyBw8rVk9fwQjvZM8EUT) | 3:38 |
 | 8 | [Beraya Dengan Saya](https://open.spotify.com/track/10a9x1AEEZdUIKYrTzJaWi) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Beraya Dengan Saya](https://open.spotify.com/album/0gMUWnZAG4GGnEUBvjZYMO) | 3:21 |
 | 9 | [another eve](https://open.spotify.com/track/4S2Jni29AVhvtpRxCa7QMB) | [Lukas Will](https://open.spotify.com/artist/2CY8nVYLln1sjeOcpp4hC7) | [another eve](https://open.spotify.com/album/1inidCLPoiPPwa3SmSR8xF) | 3:24 |
-| 10 | [Jantung Samudra](https://open.spotify.com/track/3eTukrKJBaJZMemLVRycwJ) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Jantung Samudra](https://open.spotify.com/album/0zFdnteznJblNnXZhi71mn) | 3:21 |
+| 10 | [Jantung Samudra \(Haya \- Nyi Roro Kidul Theme Song\)](https://open.spotify.com/track/3eTukrKJBaJZMemLVRycwJ) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX), [Honor of Kings Indonesia](https://open.spotify.com/artist/5aXtu4HI1PMk7Wqwm70lvh) | [Jantung Samudra](https://open.spotify.com/album/0zFdnteznJblNnXZhi71mn) | 3:21 |
 | 11 | [Bandung City \(UOO\)](https://open.spotify.com/track/3da5PBXzLQ3KoBGceD6QVG) | [Yung Caters](https://open.spotify.com/artist/0F155RyWAEaj0UoTZX6lk2) | [Bandung City \(UOO\)](https://open.spotify.com/album/093k3PKKaHm4dGiD223Opj) | 3:03 |
 | 12 | [White Feather Hawk Tail Deer Hunter](https://open.spotify.com/track/7IM4xK4W4n06UAV48ZXMup) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [White Feather Hawk Tail Deer Hunter](https://open.spotify.com/album/5Li8k3H3b4BC7CLlq5jVfQ) | 3:54 |
 | 13 | [Al\-Hawdh](https://open.spotify.com/track/6EbPNZBHJnM8iOuJW2HRlJ) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Al\-Hawdh](https://open.spotify.com/album/4ovpwDJYCK6JMlOIvy46St) | 3:28 |

@@ -4,7 +4,7 @@
 
 > The best of Latin Trap\. Cover: YOVNGCHIMI, JC Reyes
 
-563 songs - 1 day 8 hr 18 min
+564 songs - 1 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Golfista](https://open.spotify.com/track/0mmWol32PnowJQf0rZx5ab) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Golfista](https://open.spotify.com/album/0lTUD8YJxWaETCcV5sLPJH) | 2:38 | 2025-06-13 | 2025-09-27 |
 | [GONZY MONTANA](https://open.spotify.com/track/1niuG9ErJRe0bbbnnita3L) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [GONZY MONTANA](https://open.spotify.com/album/0dLJHosPrTuh5OZa9LcJJn) | 3:23 | 2024-06-21 | 2024-08-17 |
 | [Grave Digger \(with Southside\)](https://open.spotify.com/track/6aXGt8YQ0zcfagTeWLLTen) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN) | [WLGS](https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh) | 3:02 | 2023-12-15 | 2024-03-19 |
+| [GROUPIE](https://open.spotify.com/track/1n4r4ZJy3EUfFWBancfbIb) | [El Goldo](https://open.spotify.com/artist/2Uz6P0j7gDmtKVIFbPrOvt), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [GROUPIE](https://open.spotify.com/album/6Qzv1zgIL5FRsj4QnloK9B) | 2:55 | 2026-02-28 |  |
 | [Guarida](https://open.spotify.com/track/19FjaZwowlzROovPliZty2) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Guarida](https://open.spotify.com/album/5BvgHK8tmdBlIjxdSnyI0K) | 3:32 | 2022-06-28 | 2024-03-23 |
 | [Gucci En Mis Pies](https://open.spotify.com/track/4RhKIBupRs3ID7Svb8kiwX) | [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS) | [Gucci En Mis Pies](https://open.spotify.com/album/2BsIAX7gf3766JS3tdH0ys) | 3:51 | 2022-05-03 | 2022-09-17 |
 | [H E A V Y](https://open.spotify.com/track/3WZqTFGMU04pDM5JaGQBZz) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 3:18 | 2024-09-20 |  |

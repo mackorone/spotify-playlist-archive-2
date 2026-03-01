@@ -3361,6 +3361,24 @@
     },
     {
       "album": {
+        "name": "HOLES",
+        "url": "https://open.spotify.com/album/5zl7NEY0kWkXzqdCCksGvQ"
+      },
+      "artists": [
+        {
+          "name": "Vampire Slumber Party",
+          "url": "https://open.spotify.com/artist/5NWnYLJe0rkfZLZuKN4m4d"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212391,
+      "name": "SPECKS",
+      "url": "https://open.spotify.com/track/3MqmmpXA0BHiUthZJ7kMgH"
+    },
+    {
+      "album": {
         "name": "Stay With You",
         "url": "https://open.spotify.com/album/4RWd149IxtWI1XcOHuYHQe"
       },

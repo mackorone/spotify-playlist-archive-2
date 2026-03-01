@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: Leanna Crawford & Seph Schlueter
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,795 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,904 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 4](https://open.spotify.com/track/3UF6qUVCkDROF8dnpiRHBG) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Jesus Loves \(Deluxe\)](https://open.spotify.com/album/27SAGWQhgRIMrsaXyiGge2) | 0:00 |
+| 1 | [If God Lives Here](https://open.spotify.com/track/3UF6qUVCkDROF8dnpiRHBG) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Jesus Loves \(Deluxe\)](https://open.spotify.com/album/27SAGWQhgRIMrsaXyiGge2) | 3:41 |
 | 2 | [Water Into Wine](https://open.spotify.com/track/3yVR7hc7HjtXFnalkgfiK6) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf), [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Water Into Wine](https://open.spotify.com/album/0mCLJi59sXFYUCyZnjT4ir) | 3:49 |
 | 3 | [Here In Your Arms](https://open.spotify.com/track/4e8PDVGtTG1uvLOkKDR0gV) | [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [Here In Your Arms](https://open.spotify.com/album/07pEzm2jpbU2FHE4Q1i3l7) | 2:52 |
 | 4 | [Hard Fought Hallelujah \(with Jon Batiste & Jelly Roll\)](https://open.spotify.com/track/1RSBlcNeG579dFOfEB8hYy) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Hard Fought Hallelujah \(with Jon Batiste & Jelly Roll\)](https://open.spotify.com/album/5WXIrCrFe92GUyV0lF55fh) | 6:33 |

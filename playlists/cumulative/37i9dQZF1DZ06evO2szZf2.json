@@ -558,6 +558,32 @@
     {
       "album": {
         "name": "Como Acredito No Amor",
+        "url": "https://open.spotify.com/album/5GXtW3MsnGS5Fu4KD3Sase"
+      },
+      "artists": [
+        {
+          "name": "DG e Batid\u00e3o Stronda",
+          "url": "https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Como Acredito No Amor",
+      "url": "https://open.spotify.com/track/5Dwd5WQQSWPn693k5VaaSw"
+    },
+    {
+      "album": {
+        "name": "Como Acredito No Amor",
         "url": "https://open.spotify.com/album/57NXaLzvMs55pZikaSBOvt"
       },
       "artists": [
@@ -1438,7 +1464,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-01",
       "duration_ms": 157440,
       "name": "Mandrake",
       "url": "https://open.spotify.com/track/1wBt59AABSYomRpGojX7cb"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LhW5nPZDse.md) - [plain]
 
 > Death is just the beginning\. Listen to the music from School Spirits, new season now streaming on Paramount+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,730 likes - 98 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,782 likes - 98 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

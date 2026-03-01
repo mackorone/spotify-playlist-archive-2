@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Alex Campos
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,056 likes - 100 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,076 likes - 100 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 2 | [Aleluya](https://open.spotify.com/track/2bp5Q3eafyHErg3LYt5b8M) | [Elevation Español](https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0), [Unified Sound](https://open.spotify.com/artist/6Y0QlQ95DbxecMvOq4KhXf) | [ASÍ SERÁ](https://open.spotify.com/album/3rMpZAyXBu5e7zVX6OLJRA) | 4:07 |
 | 3 | [Ingenuo](https://open.spotify.com/track/49qUOXChJyidskXieN9EQY) | [Emanuel Lara](https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap) | [Ingenuo](https://open.spotify.com/album/1JCRLf6viFbabU4D7AzpxX) | 3:17 |
 | 4 | [Ayúdame a Creer](https://open.spotify.com/track/5dOuVjXwYraVqeP9Dr75Av) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Ayúdame a Creer](https://open.spotify.com/album/33TGZrKLsp5OIdiRYd7ggL) | 3:08 |
-| 5 | [Cantáremos \(Que Cante La Iglesia\)](https://open.spotify.com/track/1c3kCYHSJWAM4doRN4Bver) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [ECCOS](https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l), [Samu Robles](https://open.spotify.com/artist/2fvKekLjq0z3TzIljRraPl) | [Cantáremos \(Que Cante La Iglesia\)](https://open.spotify.com/album/5huZc7HBMowjgsBDcZhcrW) | 3:15 |
+| 5 | [Cantaremos \(Que Cante La Iglesia\)](https://open.spotify.com/track/1c3kCYHSJWAM4doRN4Bver) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [ECCOS](https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l), [Samu Robles](https://open.spotify.com/artist/2fvKekLjq0z3TzIljRraPl) | [Cantaremos \(Que Cante La Iglesia\)](https://open.spotify.com/album/5huZc7HBMowjgsBDcZhcrW) | 3:15 |
 | 6 | [Escojo la Vida](https://open.spotify.com/track/2y4CfvaP124RwNyjJXCoW4) | [Santiago Benavides](https://open.spotify.com/artist/1kmI6wp97POUynJvBlxkuR), [Cris Velez](https://open.spotify.com/artist/5Vw576povsUgOarGPvcmQM) | [Andar Sobre el Agua](https://open.spotify.com/album/1hjN4fnsl0oGzR0IIJ7WT5) | 3:28 |
 | 7 | [SÍGUEME](https://open.spotify.com/track/4gL3gWs3J29Du2CrM8s80W) | [Luispo](https://open.spotify.com/artist/628FuQxkeQlwH2QcFzgil5), [OzoresP](https://open.spotify.com/artist/7g2WdxkwctSnq2vMTyVjeW) | [SÍGUEME](https://open.spotify.com/album/5uWvHAVloFrXFsdzzPgK18) | 4:04 |
 | 8 | [Vencio](https://open.spotify.com/track/2pri22zuE30r6F7wXfia1P) | [YADAH](https://open.spotify.com/artist/3Ah5V56kXoarxe5HfnRUl1), [Álvaro López](https://open.spotify.com/artist/5LrqAMICjuzUZXr8AqQhMv) | [Vencio](https://open.spotify.com/album/5xagOQYXoLWnSOcgGsRS5A) | 3:40 |

@@ -6,7 +6,7 @@
     "name": "Evan",
     "url": "https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l"
   },
-  "snapshot_id": "AAAA3rAfQFtGO5Pq5frTX9MN2gPDHiOT",
+  "snapshot_id": "AAAA3xScVNYoF2fd91bNmolb3aL4fBQy",
   "tracks": [
     {
       "added_at": "2021-12-01 17:59:34",
@@ -1835,6 +1835,22 @@
       "duration_ms": 211200,
       "name": "The Boxer",
       "url": "https://open.spotify.com/track/2rIIbUK6hOdpojv37cnbYr"
+    },
+    {
+      "added_at": "2026-02-28 15:23:37",
+      "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 207652,
+      "name": "This Is Why",
+      "url": "https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M"
     }
   ],
   "unique_name": "white girl indie",

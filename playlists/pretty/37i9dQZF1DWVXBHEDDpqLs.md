@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 > the best cuts from the underground 💎 featuring QRTR 💎
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,271 likes - 115 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,295 likes - 115 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

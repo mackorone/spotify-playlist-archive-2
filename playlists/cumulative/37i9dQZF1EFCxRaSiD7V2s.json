@@ -3309,6 +3309,24 @@
     },
     {
       "album": {
+        "name": "Katie Wighton",
+        "url": "https://open.spotify.com/album/1Py4Muj45TeIkRsfDjFDVn"
+      },
+      "artists": [
+        {
+          "name": "Katie Wighton",
+          "url": "https://open.spotify.com/artist/41CNj1cWdeOjG7M5m8bTut"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178827,
+      "name": "King Size Bed",
+      "url": "https://open.spotify.com/track/5otwN9Mn79pn7POXm5vZFk"
+    },
+    {
+      "album": {
         "name": "Knife Went In",
         "url": "https://open.spotify.com/album/3NkrN8x8bqnsv82BejvpoR"
       },

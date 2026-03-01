@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to jan\-feb 2026
 
-929 songs - 2 day 8 hr 1 min
+931 songs - 2 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Blimps Go 90](https://open.spotify.com/track/6HuETBwV7SXoJueNMWVMBE) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [Alien Lanes](https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE) | 1:40 | 2025-04-30 | 2025-07-04 |
 | [bloom](https://open.spotify.com/track/23SyRsEwgBsFs5fnr2mffZ) | [Duval Timothy](https://open.spotify.com/artist/4t5XnkAKxcaYcDXI726A4Y) | [wishful thinking](https://open.spotify.com/album/7AzqzYUtZhGnQA2gnM6wXz) | 1:29 | 2025-09-11 | 2025-11-15 |
 | [Blue \- 2021 Remaster](https://open.spotify.com/track/4Nz3VaVwFS48p6CYILxebB) | [Rain Parade](https://open.spotify.com/artist/1e9cOgMYTLJ0KFOjmTx13F) | [Explosions In the Glass Palace](https://open.spotify.com/album/7rOxe97IzTolDCSCXIdiSa) | 2:54 | 2025-08-24 | 2025-09-11 |
+| [Bluebird Yodel](https://open.spotify.com/track/5BJ5oq7wKalQCazcumfItE) | [Country Girl Kay](https://open.spotify.com/artist/13Fih6xK79er6DVucSwvlQ) | [First And Last Waltz](https://open.spotify.com/album/4pP5l3tZAmZgcdE4bJP6AK) | 1:47 | 2026-02-28 |  |
 | [Body's In Trouble](https://open.spotify.com/track/15Edy9um1W2jrCb9MVaIBV) | [Mary Margaret O'Hara](https://open.spotify.com/artist/7d4LXGxrBM99Ayu2MkcMWo) | [Miss America](https://open.spotify.com/album/7EorEag88teTV1CevBYuMV) | 5:01 | 2025-05-01 | 2025-07-04 |
 | [Boer Farmstead](https://open.spotify.com/track/4ThB3AtztuqdKxPHdjeta7) | [Hood](https://open.spotify.com/artist/6fLY0fk62ACnHx1QAWXvEZ) | [Rustic Houses, Forlorn Valleys](https://open.spotify.com/album/4GF3M8xZKRJySoqqksltcG) | 4:53 | 2025-08-18 | 2025-09-11 |
 | [Bonbon sucre](https://open.spotify.com/track/7LisFV8edSWfOvm9XKJjA9) | [Grand Kallé](https://open.spotify.com/artist/72y2BmOygi88StwtMuQfEQ), [L'African Jazz](https://open.spotify.com/artist/0mHnv5jdaehGzv9zujVlXW) | [Merveilles du passé, Vol\. 1 \(1958 / 1959 / 1960\)](https://open.spotify.com/album/6LGIjTarpggj13sgOa0G1h) | 2:44 | 2025-06-12 | 2025-07-04 |
@@ -227,6 +228,7 @@
 | [Echo](https://open.spotify.com/track/3ypXaNibspfxvUIKpzUkfz) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 3:34 | 2025-07-27 | 2025-09-11 |
 | [Echo Tricks Me](https://open.spotify.com/track/5FYdwJ6ZFmB8o5LTdeyiNR) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [PHASOR](https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S) | 4:09 | 2024-02-09 | 2024-03-10 |
 | [Elastic Dance](https://open.spotify.com/track/0WteRY4jMvEd1zEAdmlfhe) | [African Head Charge](https://open.spotify.com/artist/4eOZAQytg3U2l0WTClghDQ) | [My Life In A Hole In The Ground](https://open.spotify.com/album/39ritWVnJCxRNhyj8mRSI8) | 3:58 | 2025-03-01 | 2025-05-09 |
+| [Embarrassed Teen Accidentally Uses Valuable Rare Postage Stamp](https://open.spotify.com/track/6uO4p4uNbPknjd6rQOPeEZ) | [Jad Fair](https://open.spotify.com/artist/3xx5PhUhJZ9ADhd7RlC00C), [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Strange But True](https://open.spotify.com/album/3W9DFhaDMjjAjCsGaMbopg) | 2:48 | 2026-02-28 |  |
 | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0) | 6:07 | 2024-03-13 | 2024-05-16 |
 | [Eternal Sunshine of the Spotless Mind](https://open.spotify.com/track/53WIcYCLyuJ25HTkdrmGVo) | [Any Other](https://open.spotify.com/artist/5RECxqPUWytzhwKabZ1lWx) | [Four Covers](https://open.spotify.com/album/0ZiOOV1MXNcH8O56kQJx0h) | 2:15 | 2024-03-11 | 2024-05-16 |
 | [Eurostar](https://open.spotify.com/track/0WoZF12IBXLSQDzbQm7Jeb) | [Soundpool](https://open.spotify.com/artist/2vkjEcWfKySAsYcwpRRGn4) | [On High](https://open.spotify.com/album/157hEnA1WdlHwTinWyJlms) | 3:19 | 2024-12-09 | 2025-01-12 |

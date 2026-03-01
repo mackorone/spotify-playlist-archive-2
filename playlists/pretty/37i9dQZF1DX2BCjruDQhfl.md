@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 
 > It's giving vibes\. Cover: RnBoi & Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,974 likes - 90 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,965 likes - 90 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [MON BÉBÉ \(feat\. Ayra Starr\)](https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [MON BÉBÉ \(feat\. Ayra Starr\)](https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT) | 2:17 |
 | 2 | [Niet Alleen](https://open.spotify.com/track/63rbtDV69QDQd7jpsg2MFW) | [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS), [Keizer](https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW) | [Niet Alleen](https://open.spotify.com/album/68gEYFDR7LxGuiS1PC9Cdt) | 2:23 |
-| 3 | [Cipriani](https://open.spotify.com/track/46HNmYU7eYtTLeppahCVYk) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [F\*CK KLEINE](https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7) | 2:41 |
+| 3 | [Hypocriet](https://open.spotify.com/track/0jvimyrCx2jnzaxZXi6ShJ) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [F\*CK KLEINE](https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7) | 2:51 |
 | 4 | [Birkin Bag](https://open.spotify.com/track/3gKXEoSctLCasuL2jHWgW5) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw), [Latifah](https://open.spotify.com/artist/1a4DIEh9pp70HzDHgyjioB) | [Birkin Bag](https://open.spotify.com/album/6VpPRW97yPW13qE4ClURQo) | 2:51 |
 | 5 | [Lay it On Me](https://open.spotify.com/track/66AJdZhZxuUZgESo6Y8ScD) | [EAN](https://open.spotify.com/artist/2R6fMantwd4zJz4s07Wpnm) | [Lay it On Me](https://open.spotify.com/album/05gdSY2aStDPKXt2565sc6) | 3:33 |
 | 6 | [Secondhand \(feat\. Rema\)](https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 3:46 |
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 | 10 | [No stress zone](https://open.spotify.com/track/1Atd9ieir1NXGz9rTBiG5c) | [Nyarko](https://open.spotify.com/artist/72s7X3AeRHBhWdziRzAZFM) | [No stress zone](https://open.spotify.com/album/0kh2WQprmeAATldxsuum22) | 2:40 |
 | 11 | [Falling 4 Ya](https://open.spotify.com/track/2yx4kObpXCCedhsLuOwTel) | [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Gemengde Gevoelens](https://open.spotify.com/album/3CSe0pMc9mifZMIGnfnfzK) | 3:24 |
 | 12 | [Wauw](https://open.spotify.com/track/7obesMJDAYQ3JjwxfnjFVO) | [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [Wauw](https://open.spotify.com/album/3XVI7j8urrhyMdBQSLIYLN) | 1:55 |
-| 13 | [Give It To Me](https://open.spotify.com/track/4SxNIsYJVeKx7crMsMNjf8) | [Jada Faith](https://open.spotify.com/artist/1Y1heq4pqZt7bF5lKZCDfL), [Lucky Jones](https://open.spotify.com/artist/3kRrXk5mL3cBvrMaN18Tet) | [Give It To Me](https://open.spotify.com/album/0Muk4t1czK2RNtrisFJ4sV) | 2:28 |
-| 14 | [ONE TRACK MIND](https://open.spotify.com/track/0nP8XXnfBQnP3jllQj6f4K) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [ONE TRACK MIND](https://open.spotify.com/album/2JOvmn8Eq4nwSUjeKfBEeQ) | 3:20 |
-| 15 | [Victim](https://open.spotify.com/track/1NZ0lkkvagc3Roy2QCr6Cz) | [Demi Lou](https://open.spotify.com/artist/3y78r08o9kmeQZ1Mu2WtiJ), [Jerr](https://open.spotify.com/artist/6nhDEFKffCxLLWy9OolhmH) | [Victim](https://open.spotify.com/album/1MtrbQKZTO1shXxX4zEQBL) | 2:45 |
-| 16 | [Toxic](https://open.spotify.com/track/51kQpKpagyNBxT4S1ljXqD) | [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2) | [Toxic](https://open.spotify.com/album/44X2BlGzjWP16oRX70eEm7) | 2:47 |
-| 17 | [Hypocriet](https://open.spotify.com/track/0jvimyrCx2jnzaxZXi6ShJ) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [F\*CK KLEINE](https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7) | 2:51 |
+| 13 | [Cipriani](https://open.spotify.com/track/46HNmYU7eYtTLeppahCVYk) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [F\*CK KLEINE](https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7) | 2:41 |
+| 14 | [Give It To Me](https://open.spotify.com/track/4SxNIsYJVeKx7crMsMNjf8) | [Jada Faith](https://open.spotify.com/artist/1Y1heq4pqZt7bF5lKZCDfL), [Lucky Jones](https://open.spotify.com/artist/3kRrXk5mL3cBvrMaN18Tet) | [Give It To Me](https://open.spotify.com/album/0Muk4t1czK2RNtrisFJ4sV) | 2:28 |
+| 15 | [ONE TRACK MIND](https://open.spotify.com/track/0nP8XXnfBQnP3jllQj6f4K) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [ONE TRACK MIND](https://open.spotify.com/album/2JOvmn8Eq4nwSUjeKfBEeQ) | 3:20 |
+| 16 | [Victim](https://open.spotify.com/track/1NZ0lkkvagc3Roy2QCr6Cz) | [Demi Lou](https://open.spotify.com/artist/3y78r08o9kmeQZ1Mu2WtiJ), [Jerr](https://open.spotify.com/artist/6nhDEFKffCxLLWy9OolhmH) | [Victim](https://open.spotify.com/album/1MtrbQKZTO1shXxX4zEQBL) | 2:45 |
+| 17 | [Toxic](https://open.spotify.com/track/51kQpKpagyNBxT4S1ljXqD) | [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2) | [Toxic](https://open.spotify.com/album/44X2BlGzjWP16oRX70eEm7) | 2:47 |
 | 18 | [miss u 2 \(with Leon Thomas\)](https://open.spotify.com/track/2Agp4orhknYXMMrHHpasqJ) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [miss u 2 \(with Leon Thomas\)](https://open.spotify.com/album/6koaz0ufllVmz49Z8M4Dgo) | 2:28 |
 | 19 | [WAT ER GEBEURD IS?](https://open.spotify.com/track/6ki2UIX04890fV4kjg0E1N) | [Tyrone Marcio](https://open.spotify.com/artist/5LNaytroUJTMebyCMO39AI) | [WROKGEVOELENS](https://open.spotify.com/album/30sYkjQGYY7dnPxi2dhesm) | 1:36 |
 | 20 | [Mi Kurason](https://open.spotify.com/track/3XSRayCtwQW2inAwbx1Qr4) | [Káiro Lunai](https://open.spotify.com/artist/6uwDcBgT7tj8BzHNDBAeSD) | [Mi Kurason](https://open.spotify.com/album/0D3ivqOH1Y254pcE3qJ4a0) | 2:45 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 | 89 | [Laat me zien](https://open.spotify.com/track/6ckmOfisQCSN7ftG1xt5IL) | [Amy\-Grace](https://open.spotify.com/artist/6GTdbF6guNLWinUGyxfygi), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8) | [Laat me zien](https://open.spotify.com/album/0ovwpTGzack6NFcxAS4AYU) | 2:52 |
 | 90 | [Love](https://open.spotify.com/track/5pB7zLOU7mTplExDJF1NuG) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Love](https://open.spotify.com/album/5spgzPm7x3HPsfQLMDZYPY) | 3:07 |
 
-Snapshot ID: `AAAAANGTZmyRccpj8noeU0UAth75VnZM`
+Snapshot ID: `AAAAAOYFb+74nrQDgp/T8z7dHT6pI+t4`

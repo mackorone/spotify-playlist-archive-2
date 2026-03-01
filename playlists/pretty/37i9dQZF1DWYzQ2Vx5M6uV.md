@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Latin Afrobeats heat that will make you sweat 🥵 Cover: Juan Duque & Hamilton
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,723 likes - 105 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,726 likes - 105 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
