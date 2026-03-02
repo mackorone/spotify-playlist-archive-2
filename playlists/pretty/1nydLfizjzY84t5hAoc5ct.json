@@ -6,23 +6,31 @@
     "name": "newfoundsound",
     "url": "https://open.spotify.com/user/newfoundsound"
   },
-  "snapshot_id": "AABzwPt9lC8/bXhXIZfZZmmQkgsPw08R",
+  "snapshot_id": "AABz6zFvUCP07d7wvuYq3DhoAdKvDP6s",
   "tracks": [
     {
-      "added_at": "2026-02-26 17:00:29",
+      "added_at": "2026-03-01 11:48:12",
       "album": {
-        "name": "The Meadows",
-        "url": "https://open.spotify.com/album/6xBiAvZYngBSrzuIol180j"
+        "name": "The Hidden Treasures of William Spring",
+        "url": "https://open.spotify.com/album/0RJOx59ZqXwqVIKzOcykMv"
       },
       "artists": [
         {
-          "name": "KATANES",
-          "url": "https://open.spotify.com/artist/5Z9F67svL9FJQW3g4hpBYE"
+          "name": "Roll & Record",
+          "url": "https://open.spotify.com/artist/5lH2PFt1LLM2nj1EmWD4c3"
+        },
+        {
+          "name": "William Spring",
+          "url": "https://open.spotify.com/artist/1KHePv52aC3FTiql2VIGYs"
+        },
+        {
+          "name": "Wends",
+          "url": "https://open.spotify.com/artist/32VlnqGtNSLCYgYhAGl99a"
         }
       ],
-      "duration_ms": 210731,
-      "name": "The Meadows",
-      "url": "https://open.spotify.com/track/5SlnDgMUVV4k4CC0eAGAEN"
+      "duration_ms": 210754,
+      "name": "I'm Ready",
+      "url": "https://open.spotify.com/track/1v0ZbkSDNAINz6edJ8c98i"
     },
     {
       "added_at": "2026-02-26 16:09:27",
@@ -81,20 +89,24 @@
       "url": "https://open.spotify.com/track/5FoAvYOnBBVYAHOybfy9l5"
     },
     {
-      "added_at": "2026-02-28 13:02:15",
+      "added_at": "2026-03-01 11:46:13",
       "album": {
-        "name": "The Meadows",
-        "url": "https://open.spotify.com/album/6xBiAvZYngBSrzuIol180j"
+        "name": "Roots Gal Party",
+        "url": "https://open.spotify.com/album/5GRQZ2hEGGIueWNMfOXsk0"
       },
       "artists": [
         {
-          "name": "KATANES",
-          "url": "https://open.spotify.com/artist/5Z9F67svL9FJQW3g4hpBYE"
+          "name": "Wends",
+          "url": "https://open.spotify.com/artist/32VlnqGtNSLCYgYhAGl99a"
+        },
+        {
+          "name": "Escape Roots",
+          "url": "https://open.spotify.com/artist/4Bb1EZadKGt9ULjvthamKf"
         }
       ],
-      "duration_ms": 210731,
-      "name": "The Meadows",
-      "url": "https://open.spotify.com/track/5SlnDgMUVV4k4CC0eAGAEN"
+      "duration_ms": 220531,
+      "name": "Roots Gal Party",
+      "url": "https://open.spotify.com/track/2MKtXR1IJruRE4dOosk8fE"
     },
     {
       "added_at": "2026-02-26 16:58:09",
@@ -169,6 +181,30 @@
       "url": "https://open.spotify.com/track/5MqWKIoNpV1TnLVTvk58GU"
     },
     {
+      "added_at": "2026-03-01 11:47:45",
+      "album": {
+        "name": "The Hidden Treasures of William Spring",
+        "url": "https://open.spotify.com/album/0RJOx59ZqXwqVIKzOcykMv"
+      },
+      "artists": [
+        {
+          "name": "Roll & Record",
+          "url": "https://open.spotify.com/artist/5lH2PFt1LLM2nj1EmWD4c3"
+        },
+        {
+          "name": "William Spring",
+          "url": "https://open.spotify.com/artist/1KHePv52aC3FTiql2VIGYs"
+        },
+        {
+          "name": "Wends",
+          "url": "https://open.spotify.com/artist/32VlnqGtNSLCYgYhAGl99a"
+        }
+      ],
+      "duration_ms": 210754,
+      "name": "I'm Ready",
+      "url": "https://open.spotify.com/track/1v0ZbkSDNAINz6edJ8c98i"
+    },
+    {
       "added_at": "2026-02-28 13:02:23",
       "album": {
         "name": "The Meadows",
@@ -231,6 +267,26 @@
       "duration_ms": 162516,
       "name": "Sunday feelin blue",
       "url": "https://open.spotify.com/track/5HxpA82MBhLlzrB46cqeGk"
+    },
+    {
+      "added_at": "2026-03-01 11:47:50",
+      "album": {
+        "name": "Roots Gal Party",
+        "url": "https://open.spotify.com/album/5GRQZ2hEGGIueWNMfOXsk0"
+      },
+      "artists": [
+        {
+          "name": "Wends",
+          "url": "https://open.spotify.com/artist/32VlnqGtNSLCYgYhAGl99a"
+        },
+        {
+          "name": "Escape Roots",
+          "url": "https://open.spotify.com/artist/4Bb1EZadKGt9ULjvthamKf"
+        }
+      ],
+      "duration_ms": 220531,
+      "name": "Roots Gal Party",
+      "url": "https://open.spotify.com/track/2MKtXR1IJruRE4dOosk8fE"
     },
     {
       "added_at": "2026-02-26 16:58:52",
@@ -305,6 +361,50 @@
       "url": "https://open.spotify.com/track/5FoAvYOnBBVYAHOybfy9l5"
     },
     {
+      "added_at": "2026-03-01 11:47:29",
+      "album": {
+        "name": "Roots Gal Party",
+        "url": "https://open.spotify.com/album/5GRQZ2hEGGIueWNMfOXsk0"
+      },
+      "artists": [
+        {
+          "name": "Wends",
+          "url": "https://open.spotify.com/artist/32VlnqGtNSLCYgYhAGl99a"
+        },
+        {
+          "name": "Escape Roots",
+          "url": "https://open.spotify.com/artist/4Bb1EZadKGt9ULjvthamKf"
+        }
+      ],
+      "duration_ms": 220531,
+      "name": "Roots Gal Party",
+      "url": "https://open.spotify.com/track/2MKtXR1IJruRE4dOosk8fE"
+    },
+    {
+      "added_at": "2026-03-01 11:47:54",
+      "album": {
+        "name": "The Hidden Treasures of William Spring",
+        "url": "https://open.spotify.com/album/0RJOx59ZqXwqVIKzOcykMv"
+      },
+      "artists": [
+        {
+          "name": "Roll & Record",
+          "url": "https://open.spotify.com/artist/5lH2PFt1LLM2nj1EmWD4c3"
+        },
+        {
+          "name": "William Spring",
+          "url": "https://open.spotify.com/artist/1KHePv52aC3FTiql2VIGYs"
+        },
+        {
+          "name": "Wends",
+          "url": "https://open.spotify.com/artist/32VlnqGtNSLCYgYhAGl99a"
+        }
+      ],
+      "duration_ms": 210754,
+      "name": "I'm Ready",
+      "url": "https://open.spotify.com/track/1v0ZbkSDNAINz6edJ8c98i"
+    },
+    {
       "added_at": "2026-02-26 16:58:37",
       "album": {
         "name": "Vol 1 (Experience, Strength and Broke)",
@@ -359,6 +459,30 @@
       "duration_ms": 288262,
       "name": "Who Died?",
       "url": "https://open.spotify.com/track/2RsppsDbLFjkmBodREdLqE"
+    },
+    {
+      "added_at": "2026-03-01 11:47:41",
+      "album": {
+        "name": "The Hidden Treasures of William Spring",
+        "url": "https://open.spotify.com/album/0RJOx59ZqXwqVIKzOcykMv"
+      },
+      "artists": [
+        {
+          "name": "Roll & Record",
+          "url": "https://open.spotify.com/artist/5lH2PFt1LLM2nj1EmWD4c3"
+        },
+        {
+          "name": "William Spring",
+          "url": "https://open.spotify.com/artist/1KHePv52aC3FTiql2VIGYs"
+        },
+        {
+          "name": "Wends",
+          "url": "https://open.spotify.com/artist/32VlnqGtNSLCYgYhAGl99a"
+        }
+      ],
+      "duration_ms": 210754,
+      "name": "I'm Ready",
+      "url": "https://open.spotify.com/track/1v0ZbkSDNAINz6edJ8c98i"
     },
     {
       "added_at": "2026-02-26 17:03:02",
@@ -425,6 +549,30 @@
       "url": "https://open.spotify.com/track/2xbG1SeusBEXFgoHZztq82"
     },
     {
+      "added_at": "2026-03-01 11:46:47",
+      "album": {
+        "name": "The Hidden Treasures of William Spring",
+        "url": "https://open.spotify.com/album/0RJOx59ZqXwqVIKzOcykMv"
+      },
+      "artists": [
+        {
+          "name": "Roll & Record",
+          "url": "https://open.spotify.com/artist/5lH2PFt1LLM2nj1EmWD4c3"
+        },
+        {
+          "name": "William Spring",
+          "url": "https://open.spotify.com/artist/1KHePv52aC3FTiql2VIGYs"
+        },
+        {
+          "name": "Wends",
+          "url": "https://open.spotify.com/artist/32VlnqGtNSLCYgYhAGl99a"
+        }
+      ],
+      "duration_ms": 210754,
+      "name": "I'm Ready",
+      "url": "https://open.spotify.com/track/1v0ZbkSDNAINz6edJ8c98i"
+    },
+    {
       "added_at": "2026-02-26 17:03:26",
       "album": {
         "name": "Superhero",
@@ -487,6 +635,26 @@
       "duration_ms": 216760,
       "name": "Darius",
       "url": "https://open.spotify.com/track/13kdyM4ZHAff8c5SVV2Np8"
+    },
+    {
+      "added_at": "2026-03-01 11:48:01",
+      "album": {
+        "name": "Roots Gal Party",
+        "url": "https://open.spotify.com/album/5GRQZ2hEGGIueWNMfOXsk0"
+      },
+      "artists": [
+        {
+          "name": "Wends",
+          "url": "https://open.spotify.com/artist/32VlnqGtNSLCYgYhAGl99a"
+        },
+        {
+          "name": "Escape Roots",
+          "url": "https://open.spotify.com/artist/4Bb1EZadKGt9ULjvthamKf"
+        }
+      ],
+      "duration_ms": 220531,
+      "name": "Roots Gal Party",
+      "url": "https://open.spotify.com/track/2MKtXR1IJruRE4dOosk8fE"
     },
     {
       "added_at": "2026-02-26 17:04:37",
@@ -557,6 +725,30 @@
       "url": "https://open.spotify.com/track/7flLFmCkey6fJopjMyz8rb"
     },
     {
+      "added_at": "2026-03-01 11:47:37",
+      "album": {
+        "name": "The Hidden Treasures of William Spring",
+        "url": "https://open.spotify.com/album/0RJOx59ZqXwqVIKzOcykMv"
+      },
+      "artists": [
+        {
+          "name": "Roll & Record",
+          "url": "https://open.spotify.com/artist/5lH2PFt1LLM2nj1EmWD4c3"
+        },
+        {
+          "name": "William Spring",
+          "url": "https://open.spotify.com/artist/1KHePv52aC3FTiql2VIGYs"
+        },
+        {
+          "name": "Wends",
+          "url": "https://open.spotify.com/artist/32VlnqGtNSLCYgYhAGl99a"
+        }
+      ],
+      "duration_ms": 210754,
+      "name": "I'm Ready",
+      "url": "https://open.spotify.com/track/1v0ZbkSDNAINz6edJ8c98i"
+    },
+    {
       "added_at": "2026-02-26 17:06:15",
       "album": {
         "name": "Beginnings and Endings",
@@ -589,40 +781,24 @@
       "url": "https://open.spotify.com/track/1xGQKuz3lqVEjEdGaa2U7J"
     },
     {
-      "added_at": "2026-02-26 17:10:09",
+      "added_at": "2026-03-01 11:47:33",
       "album": {
-        "name": "The Light",
-        "url": "https://open.spotify.com/album/2gJcFPgjJdG6wYwfGPeC88"
+        "name": "Roots Gal Party",
+        "url": "https://open.spotify.com/album/5GRQZ2hEGGIueWNMfOXsk0"
       },
       "artists": [
         {
-          "name": "Myshkin's Ruby Warblers",
-          "url": "https://open.spotify.com/artist/2tY7jyyLc3NFIEUcXK0lMF"
-        }
-      ],
-      "duration_ms": 189293,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/5UBl4Bz7cpEA9i1tHxKath"
-    },
-    {
-      "added_at": "2026-02-26 17:10:17",
-      "album": {
-        "name": "Econoline",
-        "url": "https://open.spotify.com/album/2qxqx6hKvsq8bORLJY2fwf"
-      },
-      "artists": [
-        {
-          "name": "Mike West",
-          "url": "https://open.spotify.com/artist/4tTpvmcly5XOlMrMkx9RpF"
+          "name": "Wends",
+          "url": "https://open.spotify.com/artist/32VlnqGtNSLCYgYhAGl99a"
         },
         {
-          "name": "Myshkin",
-          "url": "https://open.spotify.com/artist/6m0XoeEadMkDHRFSwjPMAM"
+          "name": "Escape Roots",
+          "url": "https://open.spotify.com/artist/4Bb1EZadKGt9ULjvthamKf"
         }
       ],
-      "duration_ms": 181586,
-      "name": "Ariel Angelo",
-      "url": "https://open.spotify.com/track/34iRrsao8eXZSQ41HqfM4L"
+      "duration_ms": 220531,
+      "name": "Roots Gal Party",
+      "url": "https://open.spotify.com/track/2MKtXR1IJruRE4dOosk8fE"
     },
     {
       "added_at": "2026-02-26 17:10:37",
@@ -693,6 +869,30 @@
       "url": "https://open.spotify.com/track/0mxOqMRyj73HBPszDNbo14"
     },
     {
+      "added_at": "2026-03-01 11:48:05",
+      "album": {
+        "name": "The Hidden Treasures of William Spring",
+        "url": "https://open.spotify.com/album/0RJOx59ZqXwqVIKzOcykMv"
+      },
+      "artists": [
+        {
+          "name": "Roll & Record",
+          "url": "https://open.spotify.com/artist/5lH2PFt1LLM2nj1EmWD4c3"
+        },
+        {
+          "name": "William Spring",
+          "url": "https://open.spotify.com/artist/1KHePv52aC3FTiql2VIGYs"
+        },
+        {
+          "name": "Wends",
+          "url": "https://open.spotify.com/artist/32VlnqGtNSLCYgYhAGl99a"
+        }
+      ],
+      "duration_ms": 210754,
+      "name": "I'm Ready",
+      "url": "https://open.spotify.com/track/1v0ZbkSDNAINz6edJ8c98i"
+    },
+    {
       "added_at": "2026-02-26 17:11:23",
       "album": {
         "name": "Fables",
@@ -755,6 +955,26 @@
       "duration_ms": 195761,
       "name": "Fever",
       "url": "https://open.spotify.com/track/2CaeoDenCPTMU1ilc4f19z"
+    },
+    {
+      "added_at": "2026-03-01 11:48:09",
+      "album": {
+        "name": "Roots Gal Party",
+        "url": "https://open.spotify.com/album/5GRQZ2hEGGIueWNMfOXsk0"
+      },
+      "artists": [
+        {
+          "name": "Wends",
+          "url": "https://open.spotify.com/artist/32VlnqGtNSLCYgYhAGl99a"
+        },
+        {
+          "name": "Escape Roots",
+          "url": "https://open.spotify.com/artist/4Bb1EZadKGt9ULjvthamKf"
+        }
+      ],
+      "duration_ms": 220531,
+      "name": "Roots Gal Party",
+      "url": "https://open.spotify.com/track/2MKtXR1IJruRE4dOosk8fE"
     },
     {
       "added_at": "2026-02-26 17:13:26",
@@ -1109,22 +1329,6 @@
       "url": "https://open.spotify.com/track/5MqWKIoNpV1TnLVTvk58GU"
     },
     {
-      "added_at": "2026-02-26 17:15:26",
-      "album": {
-        "name": "The Light",
-        "url": "https://open.spotify.com/album/2gJcFPgjJdG6wYwfGPeC88"
-      },
-      "artists": [
-        {
-          "name": "Myshkin's Ruby Warblers",
-          "url": "https://open.spotify.com/artist/2tY7jyyLc3NFIEUcXK0lMF"
-        }
-      ],
-      "duration_ms": 189293,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/5UBl4Bz7cpEA9i1tHxKath"
-    },
-    {
       "added_at": "2026-02-26 17:16:06",
       "album": {
         "name": "International Radio Star",
@@ -1445,22 +1649,6 @@
       "url": "https://open.spotify.com/track/5FoAvYOnBBVYAHOybfy9l5"
     },
     {
-      "added_at": "2026-02-26 17:22:49",
-      "album": {
-        "name": "The Light",
-        "url": "https://open.spotify.com/album/2gJcFPgjJdG6wYwfGPeC88"
-      },
-      "artists": [
-        {
-          "name": "Myshkin's Ruby Warblers",
-          "url": "https://open.spotify.com/artist/2tY7jyyLc3NFIEUcXK0lMF"
-        }
-      ],
-      "duration_ms": 189293,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/5UBl4Bz7cpEA9i1tHxKath"
-    },
-    {
       "added_at": "2026-02-26 17:24:12",
       "album": {
         "name": "Blood / Water",
@@ -1511,38 +1699,6 @@
       "duration_ms": 218873,
       "name": "Insecure",
       "url": "https://open.spotify.com/track/5MqWKIoNpV1TnLVTvk58GU"
-    },
-    {
-      "added_at": "2026-02-26 17:26:23",
-      "album": {
-        "name": "Warm/Safe",
-        "url": "https://open.spotify.com/album/5ewK2wWp6uFddofEn3x9bO"
-      },
-      "artists": [
-        {
-          "name": "Mark Hegan",
-          "url": "https://open.spotify.com/artist/7crr46eJh3TVrvWKovT5mr"
-        }
-      ],
-      "duration_ms": 175555,
-      "name": "Warm/Safe",
-      "url": "https://open.spotify.com/track/4vTSzMD8DYx69XgU0EZ3Md"
-    },
-    {
-      "added_at": "2026-02-26 17:26:44",
-      "album": {
-        "name": "The Light",
-        "url": "https://open.spotify.com/album/2gJcFPgjJdG6wYwfGPeC88"
-      },
-      "artists": [
-        {
-          "name": "Myshkin's Ruby Warblers",
-          "url": "https://open.spotify.com/artist/2tY7jyyLc3NFIEUcXK0lMF"
-        }
-      ],
-      "duration_ms": 189293,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/5UBl4Bz7cpEA9i1tHxKath"
     },
     {
       "added_at": "2026-02-26 17:26:47",
@@ -1787,42 +1943,6 @@
       "duration_ms": 368640,
       "name": "Fear - Demo",
       "url": "https://open.spotify.com/track/1xGQKuz3lqVEjEdGaa2U7J"
-    },
-    {
-      "added_at": "2026-02-26 17:28:19",
-      "album": {
-        "name": "The Light",
-        "url": "https://open.spotify.com/album/2gJcFPgjJdG6wYwfGPeC88"
-      },
-      "artists": [
-        {
-          "name": "Myshkin's Ruby Warblers",
-          "url": "https://open.spotify.com/artist/2tY7jyyLc3NFIEUcXK0lMF"
-        }
-      ],
-      "duration_ms": 189293,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/5UBl4Bz7cpEA9i1tHxKath"
-    },
-    {
-      "added_at": "2026-02-26 17:28:23",
-      "album": {
-        "name": "Econoline",
-        "url": "https://open.spotify.com/album/2qxqx6hKvsq8bORLJY2fwf"
-      },
-      "artists": [
-        {
-          "name": "Mike West",
-          "url": "https://open.spotify.com/artist/4tTpvmcly5XOlMrMkx9RpF"
-        },
-        {
-          "name": "Myshkin",
-          "url": "https://open.spotify.com/artist/6m0XoeEadMkDHRFSwjPMAM"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Ariel Angelo",
-      "url": "https://open.spotify.com/track/34iRrsao8eXZSQ41HqfM4L"
     },
     {
       "added_at": "2026-02-26 17:28:27",
@@ -2373,42 +2493,6 @@
       "url": "https://open.spotify.com/track/1xGQKuz3lqVEjEdGaa2U7J"
     },
     {
-      "added_at": "2026-02-27 00:50:07",
-      "album": {
-        "name": "The Light",
-        "url": "https://open.spotify.com/album/2gJcFPgjJdG6wYwfGPeC88"
-      },
-      "artists": [
-        {
-          "name": "Myshkin's Ruby Warblers",
-          "url": "https://open.spotify.com/artist/2tY7jyyLc3NFIEUcXK0lMF"
-        }
-      ],
-      "duration_ms": 189293,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/5UBl4Bz7cpEA9i1tHxKath"
-    },
-    {
-      "added_at": "2026-02-27 00:50:12",
-      "album": {
-        "name": "Econoline",
-        "url": "https://open.spotify.com/album/2qxqx6hKvsq8bORLJY2fwf"
-      },
-      "artists": [
-        {
-          "name": "Mike West",
-          "url": "https://open.spotify.com/artist/4tTpvmcly5XOlMrMkx9RpF"
-        },
-        {
-          "name": "Myshkin",
-          "url": "https://open.spotify.com/artist/6m0XoeEadMkDHRFSwjPMAM"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Ariel Angelo",
-      "url": "https://open.spotify.com/track/34iRrsao8eXZSQ41HqfM4L"
-    },
-    {
       "added_at": "2026-02-27 00:50:16",
       "album": {
         "name": "Sinking Sands",
@@ -2893,22 +2977,6 @@
       "url": "https://open.spotify.com/track/5MqWKIoNpV1TnLVTvk58GU"
     },
     {
-      "added_at": "2026-02-27 00:52:17",
-      "album": {
-        "name": "The Light",
-        "url": "https://open.spotify.com/album/2gJcFPgjJdG6wYwfGPeC88"
-      },
-      "artists": [
-        {
-          "name": "Myshkin's Ruby Warblers",
-          "url": "https://open.spotify.com/artist/2tY7jyyLc3NFIEUcXK0lMF"
-        }
-      ],
-      "duration_ms": 189293,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/5UBl4Bz7cpEA9i1tHxKath"
-    },
-    {
       "added_at": "2026-02-27 00:52:21",
       "album": {
         "name": "International Radio Star",
@@ -3311,22 +3379,6 @@
       "duration_ms": 175555,
       "name": "Warm/Safe",
       "url": "https://open.spotify.com/track/4vTSzMD8DYx69XgU0EZ3Md"
-    },
-    {
-      "added_at": "2026-02-27 00:54:02",
-      "album": {
-        "name": "The Light",
-        "url": "https://open.spotify.com/album/2gJcFPgjJdG6wYwfGPeC88"
-      },
-      "artists": [
-        {
-          "name": "Myshkin's Ruby Warblers",
-          "url": "https://open.spotify.com/artist/2tY7jyyLc3NFIEUcXK0lMF"
-        }
-      ],
-      "duration_ms": 189293,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/5UBl4Bz7cpEA9i1tHxKath"
     },
     {
       "added_at": "2026-02-27 00:54:05",

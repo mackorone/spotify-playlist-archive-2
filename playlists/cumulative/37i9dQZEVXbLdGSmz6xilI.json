@@ -438,7 +438,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 258281,
       "name": "2AM",
       "url": "https://open.spotify.com/track/3DLtPObflLQBodZN8qGODT"
@@ -9070,7 +9070,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 187479,
       "name": "Fxxxboy",
       "url": "https://open.spotify.com/track/7m0duH1vdTNxM2g8BLfR0F"
@@ -12216,7 +12216,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 164718,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
@@ -14822,7 +14822,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 172323,
       "name": "Me and my",
       "url": "https://open.spotify.com/track/5MXcM263QvCTWriH3nVusc"
@@ -19222,7 +19222,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-01",
+      "date_removed": null,
       "duration_ms": 226415,
       "name": "Pin D\u1ef1 Ph\u00f2ng",
       "url": "https://open.spotify.com/track/29Tj2R8sZZ3fzlXZVe1OyY"
@@ -23794,7 +23794,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-01",
+      "date_removed": null,
       "duration_ms": 234000,
       "name": "Th\u1eb1ng \u0110i\u00ean",
       "url": "https://open.spotify.com/track/27Z9T0mSWHYWSj9SNOGvyt"
@@ -24741,6 +24741,24 @@
     },
     {
       "album": {
+        "name": "T\u00ecnh M\u00ecnh L\u1ea1 K\u00ec",
+        "url": "https://open.spotify.com/album/22PwljwCdygdaOy3cBxZWg"
+      },
+      "artists": [
+        {
+          "name": "Lil Zpoet",
+          "url": "https://open.spotify.com/artist/0T8DkuhhFhdWAMN0bdeLL7"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300750,
+      "name": "T\u00ecnh M\u00ecnh L\u1ea1 K\u00ec",
+      "url": "https://open.spotify.com/track/3VkV6L37ub0rtuYQoawAqz"
+    },
+    {
+      "album": {
         "name": "T\u00ecnh Y\u00eau Bu\u00f4ng Tha Cho Ch\u00fang Ta",
         "url": "https://open.spotify.com/album/3wfl9F8KTsLVixdRvhVImr"
       },
@@ -25594,7 +25612,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 225862,
       "name": "vaicaunoicokhiennguoithaydoi",
       "url": "https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK"

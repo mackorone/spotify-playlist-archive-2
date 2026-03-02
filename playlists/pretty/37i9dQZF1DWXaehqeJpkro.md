@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 
 > 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: 한로로 \(HANRORO\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,825 likes - 235 songs - 15 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,851 likes - 235 songs - 15 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

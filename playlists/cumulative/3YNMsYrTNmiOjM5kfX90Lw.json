@@ -7191,20 +7191,28 @@
     },
     {
       "album": {
-        "name": "Hip Hop Is What Made Me (feat. DJ ACE NYC & Larissa Lambert)",
+        "name": "Hip Hop Is What Made Me",
         "url": "https://open.spotify.com/album/0rF7WiRHOcPDhzFZpeeHFR"
       },
       "artists": [
         {
           "name": "Def Manic",
           "url": "https://open.spotify.com/artist/5plJ0ZhN706lDAG4o8w56S"
+        },
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        },
+        {
+          "name": "DJ ACE NYC",
+          "url": "https://open.spotify.com/artist/3NggH17RWRTlazacK3wG0o"
         }
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 231392,
-      "name": "Hip Hop Is What Made Me (feat. DJ ACE NYC & Larissa Lambert)",
+      "duration_ms": 231418,
+      "name": "Hip Hop Is What Made Me",
       "url": "https://open.spotify.com/track/7iSwN7wyIDX4QpnhyxjYGv"
     },
     {

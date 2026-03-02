@@ -2,9 +2,9 @@
 
 ### [Serotonin](https://open.spotify.com/playlist/37i9dQZF1DWYMroOc5KTTh)
 
-> 100% good vibes.
+> Cover: Harry Styles at The BRITs 2026
 
-584 songs - 1 day 14 hr 36 min
+585 songs - 1 day 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Angels \- Jacana People Remix](https://open.spotify.com/track/2m6OAkCtiL1axO79siLxNo) | [Paris Green](https://open.spotify.com/artist/5ECHe2MSGF8z12B7wv08x5), [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Angels \(Jacana People Remix\)](https://open.spotify.com/album/0hPU9q7zQCVKlD9LfRGlIl) | 3:59 | 2022-01-14 | 2022-07-13 |
 | [Anyone Around](https://open.spotify.com/track/3QfNd2g8qMtWg57DRPOq0e) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Anyone Around](https://open.spotify.com/album/7wTbPwcxA5j3wFgu05JFGQ) | 2:49 | 2022-04-06 | 2022-04-19 |
 | [Anywhere In The World](https://open.spotify.com/track/5iPSQYDohyVO5k8Scu2X4L) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [Anywhere In The World](https://open.spotify.com/album/3OuccmRmvxw3ePC8A6U1Gc) | 6:59 | 2022-04-06 | 2022-04-15 |
+| [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 | 2026-03-01 |  |
 | [Apricity \(feat\. jules\)](https://open.spotify.com/track/0WgPeBuFxnyiFiPt5gdsEL) | [Morgan Hislop](https://open.spotify.com/artist/1M1AEVIsxhvm4lAkuC2LyC), [jules](https://open.spotify.com/artist/38lbchSS1uIomHvHUNtJp9) | [Apricity \(feat\. jules\)](https://open.spotify.com/album/3wjEG5ukwncxnrMLtrBjRU) | 3:36 | 2022-05-30 | 2023-04-12 |
 | [Are U Still Smiling?](https://open.spotify.com/track/7bPo4vIzlcxpWadcsj7MHR) | [Ossie](https://open.spotify.com/artist/4k2R7rFptalNPkyGEq2s9G) | [That's a Vibe](https://open.spotify.com/album/3nCJ7MLW17oUep7ZvW3ugz) | 4:32 | 2025-09-11 |  |
 | [Ascension](https://open.spotify.com/track/5zXkATrsSKmEWgutgNaJe8) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Ascension](https://open.spotify.com/album/3hleDhTxP5TllrUOUAFlzD) | 3:21 | 2022-01-14 | 2022-04-21 |
@@ -323,7 +324,7 @@
 | [Let's Go Back](https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Let's Go Back](https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul) | 2:49 | 2024-09-12 |  |
 | [Let’s Sing Let’s Dance](https://open.spotify.com/track/43e9tSxVoL8LEWd5oLkR1S) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Let’s Sing Let’s Dance](https://open.spotify.com/album/2v3RfmAE1IyyUDjsKyGreG) | 3:50 | 2021-12-03 | 2022-06-01 |
 | [Levitation](https://open.spotify.com/track/6XGIUVbIWpfblrAZDsyTSQ) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [Levitation](https://open.spotify.com/album/2K9USaxWlJWgPO56LR960V) | 4:00 | 2022-04-06 | 2022-07-26 |
-| [Life](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Life](https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl) | 3:22 | 2024-07-12 |  |
+| [Life](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Life](https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl) | 3:22 | 2024-07-12 | 2026-03-02 |
 | [LIFE](https://open.spotify.com/track/2OOb0wDmLyyhC2ViXembbS) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [Wuh Oh](https://open.spotify.com/artist/48AHKCezlxWjPfE4FLf0b8) | [LIFE](https://open.spotify.com/album/6onzoXHe7wCWnrkWKtVXCX) | 2:35 | 2022-01-14 | 2022-04-20 |
 | [Lifted](https://open.spotify.com/track/55sYZhDj9Ty9PTSLt3Ul9I) | [Joy Club](https://open.spotify.com/artist/2pl0xmKbMZHncAxBcYUs79), [TIEKS](https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45) | [Lifted](https://open.spotify.com/album/31QmA5V5UbFNiiurEKoaCY) | 2:47 | 2022-04-06 | 2022-04-21 |
 | [Lightenup \- Alex Metric Remix](https://open.spotify.com/track/1rIPNuXlthhSUphhva5d5y) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD) | [Lightenup \(Alex Metric Remix\)](https://open.spotify.com/album/5CD57eZyNcQPV9kzXSkVnR) | 7:18 | 2021-12-03 | 2022-07-16 |

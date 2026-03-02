@@ -2,7 +2,7 @@
 
 ### [OPM Rising](https://open.spotify.com/playlist/37i9dQZF1DWSVQreDCvFMf)
 
-> Mga bago at lumilitaw sa mundo ng OPM\. Cover: John Sam
+> Mga bago at lumilitaw sa mundo ng OPM\. Cover: Fern.
 
 779 songs - 2 day 0 hr 18 min
 

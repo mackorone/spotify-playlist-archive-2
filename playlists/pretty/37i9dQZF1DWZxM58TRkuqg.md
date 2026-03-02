@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Virgoun
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,423 likes - 111 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,417 likes - 111 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 254141,
+  "num_followers": 254171,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaDegAAAAABTZxsb+q42mUwgYFtiwSXN",
+  "snapshot_id": "aaIwAAAAAADUdm9io7sm5Jz4e60TmZ+O",
   "tracks": [
     {
       "added_at": null,
@@ -415,26 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1scaras",
-        "url": "https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ"
+        "name": "Antes del alba",
+        "url": "https://open.spotify.com/album/2c8XYCoJPicXUReFRoplYe"
       },
       "artists": [
         {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
-        {
-          "name": "BCN",
-          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
         }
       ],
-      "duration_ms": 182200,
-      "name": "Vegetales Con Pescado",
-      "url": "https://open.spotify.com/track/79E00piO2jJc98iBP9mw7m"
+      "duration_ms": 181418,
+      "name": "T\u00fa tienes el son",
+      "url": "https://open.spotify.com/track/0xK4D0uzzCBwUpqhjLOupm"
     },
     {
       "added_at": null,
@@ -463,22 +459,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Antes del alba",
-        "url": "https://open.spotify.com/album/2c8XYCoJPicXUReFRoplYe"
+        "name": "M\u00e1scaras",
+        "url": "https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ"
       },
       "artists": [
         {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
-        },
-        {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "BCN",
+          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
         }
       ],
-      "duration_ms": 181418,
-      "name": "T\u00fa tienes el son",
-      "url": "https://open.spotify.com/track/0xK4D0uzzCBwUpqhjLOupm"
+      "duration_ms": 182200,
+      "name": "Vegetales Con Pescado",
+      "url": "https://open.spotify.com/track/79E00piO2jJc98iBP9mw7m"
     },
     {
       "added_at": null,

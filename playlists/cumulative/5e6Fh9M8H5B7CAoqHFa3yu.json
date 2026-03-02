@@ -9027,6 +9027,24 @@
     },
     {
       "album": {
+        "name": "Echo Of You",
+        "url": "https://open.spotify.com/album/1uxa967QvZrV3185K7Vbow"
+      },
+      "artists": [
+        {
+          "name": "VANYRA X",
+          "url": "https://open.spotify.com/artist/3rWPyQgHJ9pvXOK7KtBX1Z"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214437,
+      "name": "Echo Of You",
+      "url": "https://open.spotify.com/track/5cWmg3WlMZeTQbHhGuKm21"
+    },
+    {
+      "album": {
         "name": "Ecstasy",
         "url": "https://open.spotify.com/album/7jiK2hsrbjuWSOvsQ7dBbF"
       },
@@ -32062,6 +32080,24 @@
       "duration_ms": 159912,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/4gIx5xurI60c22H8BAd22T"
+    },
+    {
+      "album": {
+        "name": "Tomorrow (LIVE AT THE PUB)",
+        "url": "https://open.spotify.com/album/01dMlVbOA4a9GiutfbOn13"
+      },
+      "artists": [
+        {
+          "name": "The Mark & Freddy Band",
+          "url": "https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185122,
+      "name": "Tomorrow (LIVE AT THE PUB)",
+      "url": "https://open.spotify.com/track/3Kk8rxvmWCdjRfvCyXVXY0"
     },
     {
       "album": {

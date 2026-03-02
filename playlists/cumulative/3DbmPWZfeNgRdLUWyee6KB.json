@@ -7099,6 +7099,24 @@
     },
     {
       "album": {
+        "name": "Midnight Train",
+        "url": "https://open.spotify.com/album/6ia67fR6ixurUa0oysyGXn"
+      },
+      "artists": [
+        {
+          "name": "RayOrbit",
+          "url": "https://open.spotify.com/artist/1kG8I34nBNWoXtkp53JdT2"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290972,
+      "name": "Midnight Train",
+      "url": "https://open.spotify.com/track/75ndxPSgPcezSP8xz2UuSb"
+    },
+    {
+      "album": {
         "name": "\u00bfA d\u00f3nde ir\u00e1 el amor?",
         "url": "https://open.spotify.com/album/70mPEYs6WVlLBIDXtP4m0R"
       },

@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,106 songs - 9 day 2 hr 26 min
+4,109 songs - 9 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1844,6 +1844,7 @@
 | [Irony](https://open.spotify.com/track/4afTGSfV1Ydlsn6V21GcHc) | [Joey Glam](https://open.spotify.com/artist/272ANGjK3r7UvU1pk0Xm5P) | [Irony](https://open.spotify.com/album/4TmuAzQp4jyu03l3rBV6f1) | 3:20 | 2025-06-04 |  |
 | [Irresistibile](https://open.spotify.com/track/1mkAlM8TZLcbMfgk2SCPvj) | [Dave Bolo](https://open.spotify.com/artist/7fCRAaXZoFGb21FJqY9ihn) | [Radiophonia](https://open.spotify.com/album/2dzC1EX8wdt7rIoSl3xqWC) | 3:58 | 2025-06-06 |  |
 | [Isidora](https://open.spotify.com/track/54F4sYjoxbp8gRTNIb3mQw) | [Modivari](https://open.spotify.com/artist/0FW2nr07DG4O1uVfofqe41) | [Isidora](https://open.spotify.com/album/6bCOMC2tZ1Pq1bJAC7ji1v) | 3:07 | 2025-06-29 |  |
+| [It Grows](https://open.spotify.com/track/36bjfCNFgMgS6PzTRsDpQI) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [It Grows](https://open.spotify.com/album/3wEMVRIEFI3SxYeooos05I) | 3:24 | 2026-03-01 |  |
 | [IT NEVER COMES BACK](https://open.spotify.com/track/3diyZsEkmMTKqBVawZlRMx) | [AN.GA](https://open.spotify.com/artist/48MGjcil56lYnTupg2P3Vm) | [IT NEVER COMES BACK](https://open.spotify.com/album/33ZKtj4WvcBeYlgOCriCYn) | 3:31 | 2025-06-02 |  |
 | [It Was Nice Meeting You](https://open.spotify.com/track/5FRX4SxGuILpN1mE6tS30y) | [Slowcoaching](https://open.spotify.com/artist/2EDx60iaorVfT7kuWZbo1m) | [It Was Nice Meeting You](https://open.spotify.com/album/46NdFFFJp2TA83rLRIc3xj) | 3:10 | 2025-12-04 |  |
 | [It Would Be a Delight](https://open.spotify.com/track/4X6tx53seoOStba1QbpSci) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [Televangelist](https://open.spotify.com/album/4EQ8Q3in2KptGJU8Ilo7uM) | 3:14 | 2025-07-01 |  |
@@ -1887,6 +1888,7 @@
 | [Just Human](https://open.spotify.com/track/7mZ4brZqkAI08vy4N2up7S) | [Modjo Atmodjo](https://open.spotify.com/artist/28QDPpgHwt46auRYwz9679) | [Just Human](https://open.spotify.com/album/7gCOnjUhcrGZotRhbydePn) | 3:46 | 2025-02-13 |  |
 | [Just the Thing](https://open.spotify.com/track/0TnbWHg68Z0fLDl4HYV31r) | [Meredith O'Connor](https://open.spotify.com/artist/0uA6tV1ERg5cIWTEIp2gfF) | [I Am](https://open.spotify.com/album/0k77QzqX1NJf5B8anY0Uif) | 2:43 | 2025-03-30 |  |
 | [JUST WAIT](https://open.spotify.com/track/0jn4pFs4qJhAILTDIIUlSb) | [BB](https://open.spotify.com/artist/79IIXXtsmNkpN2btrkbIot) | [MICHAEL 2](https://open.spotify.com/album/4voAERiKo3EYGvhKXJqz5U) | 2:08 | 2026-01-15 |  |
+| [Justice for Lucy Letby](https://open.spotify.com/track/7foZi9ro64GDP1dOrAS6x3) | [Beyond Reasonable Doubt](https://open.spotify.com/artist/4t1WIAA1040hy9mxgOxeiT) | [Justice for Lucy Letby](https://open.spotify.com/album/6g1xo1RvUj8ptweteqI2Hq) | 3:38 | 2026-03-01 |  |
 | [Kaibigang Demonyo](https://open.spotify.com/track/7o8fbvliCukqkMYn8amRWq) | [Labao St.](https://open.spotify.com/artist/03dSlROdmj0TUop0BOQI3H) | [Kaibigang Demonyo](https://open.spotify.com/album/4JEhkJHekEhNrVsOBHgfuE) | 5:52 | 2025-05-30 |  |
 | [Kaos](https://open.spotify.com/track/5Gv6JRKCGzdhBXDyMRMXv0) | [Againstide](https://open.spotify.com/artist/7qEOhbkxfx5d24fF5vEjpI) | [Kaos](https://open.spotify.com/album/3Kk9Jiio0xLE4FOuvY0kvx) | 4:37 | 2025-07-26 |  |
 | [Karpa Koi](https://open.spotify.com/track/5wNaTEXJt42mrir0krH5Z6) | [Ksv Sirius](https://open.spotify.com/artist/3mGKLjUOJC93N1lQB0RRJF) | [Karpa Koi](https://open.spotify.com/album/4G1JLl7b1jjnjAlNyu9Tzb) | 1:57 | 2025-12-25 |  |
@@ -4051,6 +4053,7 @@
 | [YOSYS \(You're Ok, so You Say\)](https://open.spotify.com/track/3PdPdHBqRuXyHdubPUTt9b) | [Ziey Kizzy](https://open.spotify.com/artist/2lVHX4G8SuMo5EiZ403UAo) | [YOSYS \(You're Ok, so You Say\)](https://open.spotify.com/album/706RnjjDPBSLZkt9yh5u0c) | 1:42 | 2025-08-04 |  |
 | [You Are Not Alone \(International\)](https://open.spotify.com/track/1sj2aqNHUyrTjEb7Yx2Bib) | [Meredith O'Connor](https://open.spotify.com/artist/0uA6tV1ERg5cIWTEIp2gfF) | [You Are Not Alone \(International\)](https://open.spotify.com/album/6nISCsqelx1ucXFCVc5Wtm) | 3:54 | 2025-03-30 |  |
 | [You Call Me](https://open.spotify.com/track/03BNEWTnyl9okHOWxgLg2v) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9), [Velvet Stardust](https://open.spotify.com/artist/2J9AoO5nCh1htfy8dv6Svz) | [You Call Me](https://open.spotify.com/album/1VXEenNuByH6jO9G09lXDX) | 2:21 | 2025-09-04 |  |
+| [You Could Be The One](https://open.spotify.com/track/02pvQdHxWqIY9tn2c3pdrU) | [Niklas Adam NKA](https://open.spotify.com/artist/46KsqlLXguaP5uKbte1awz), [Megan Simpson](https://open.spotify.com/artist/3rgijfHse67hzlRSPO2tJP) | [You Could Be The One](https://open.spotify.com/album/5YehGgNqJ41m5TJhGUgbrV) | 3:22 | 2026-03-01 |  |
 | [You Make Me Happy](https://open.spotify.com/track/1xtObOc7r0QkLu0Y9S7syx) | [Clark Ford](https://open.spotify.com/artist/6Ko3RRseRZ71JjN5vwI8mH) | [In My Heart](https://open.spotify.com/album/3E56gLV95mNBSxJGTqVzok) | 2:46 | 2025-02-27 |  |
 | [You Never Died](https://open.spotify.com/track/3JBFbPQRqufCifcueo0BeG) | [Boneyard Lily](https://open.spotify.com/artist/4X258WlI0oC78zl7HC2jMn) | [You Never Died](https://open.spotify.com/album/57brjzlWROvtNLEMsNNnem) | 3:38 | 2025-10-02 |  |
 | [You Promised Me You Would Be Brave](https://open.spotify.com/track/2tjdllne0AER7ldJwMHKZE) | [Goodbye Lenin](https://open.spotify.com/artist/36Le1UCarumb2FxVEImKpS) | [In Spite of Impending Doom](https://open.spotify.com/album/6OQ5JfQ2vqdAEY7VkVpLNP) | 3:21 | 2025-12-10 | 2025-12-30 |

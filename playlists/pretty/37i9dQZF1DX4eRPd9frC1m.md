@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,575,407 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,575,387 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 74 | [Bring The House Down](https://open.spotify.com/track/3FXDzAJ28I5CNC7GWDRn4K) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [Bring The House Down](https://open.spotify.com/album/1mGCOttFr5jHVaJnaSB5PG) | 3:42 |
 | 75 | [dashstar\* \- Yellow Claw Trap Edit](https://open.spotify.com/track/0fQlqbTeuXiUZnkmqTurOc) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [dashstar\* \(Yellow Claw Trap Edit\)](https://open.spotify.com/album/2WGGdPokwClK08HMWXgh62) | 2:32 |
 
-Snapshot ID: `AAAAAFLdr5f/u63XmceQWbNnKSLYGdy0`
+Snapshot ID: `AAAAAL1IDYbyFM/OT0/58DrAZQLSgKjd`

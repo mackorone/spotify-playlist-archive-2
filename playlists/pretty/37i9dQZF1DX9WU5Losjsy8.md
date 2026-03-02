@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 
 > Die Musik für die Hütten Gaudi!
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,732 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,793 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 | 79 | [Bring mich nach Hause](https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Bring mich nach Hause](https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4) | 2:29 |
 | 80 | [Geh mal Bier hol'n \- GmBh](https://open.spotify.com/track/0NipOXqC53PNZVUMfthzPt) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q) | [Ein Wort sagt mehr als 1000 Bilder](https://open.spotify.com/album/1hh1YtzD7HiKAla6K6W0KZ) | 3:07 |
 
-Snapshot ID: `AAAAAInHDOeJ5ecY+zHJyTadfOQJmneg`
+Snapshot ID: `AAAAAGx2a7yvDxGnO6kczdmXsv7n5YlC`

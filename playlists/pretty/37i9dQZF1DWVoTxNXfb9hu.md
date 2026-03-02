@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoTxNXfb9hu.md) - [plain]
 
 > Colourful songs to kickstart your Holi party! Cover \- Yeh Jawaani Hai Deewani
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,195 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,225 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoTxNXfb9hu.md) - [plain]
 | 74 | [Daaru Peeke Dance](https://open.spotify.com/track/0aJo7AY5yhtmNCmKUfSTPm) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Aishwarya Nigam](https://open.spotify.com/artist/4kkFeWZDJDfSqNFeMmyze9) | [Kuch Kuch Locha Hai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5WQHi2iNVTo5AqdlZDKdYc) | 3:38 |
 | 75 | [Zilla Hilela \- From "Jabariya Jodi"](https://open.spotify.com/track/3LpEs8eCrbIJAzUO2UeGfx) | [Dev Negi](https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK), [Monali Thakur](https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl), [Pravesh Mallick](https://open.spotify.com/artist/7KkXMWm8xdafnzymUO9Dte), [Raja Hasan](https://open.spotify.com/artist/6ID2zdEFxXLChwiqQzf3ZA) | [Zilla Hilela \(From "Jabariya Jodi"\)](https://open.spotify.com/album/0LNGEywJsPqr7fWxHMSzp1) | 3:58 |
 
-Snapshot ID: `AAAAAN6aILQq3RkbPGJPtv2wi44YSVH8`
+Snapshot ID: `AAAAAKnCYPdlJsSaR/Caqc1hNgkSDnC7`

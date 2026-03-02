@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: Giegs, PLUGOXHUSH, Clep N Flyy, Venti, Joella T & Vensly en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,305 likes - 67 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,294 likes - 67 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,13 +1,33 @@
 {
-  "description": "The Hottest Christian and Gospel music from across the African continent.   Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=ZT9AqBbPT9G5ll5jf4WxSw>Lawrence Oyor</a> ",
-  "num_followers": 302147,
+  "description": "The Hottest Christian and Gospel music from across the African continent.   Cover: <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=vtIr81d5Rqyej46rqc6M0A>Sunmisola Agbebi</a> ",
+  "num_followers": 302358,
   "original_name": "African Gospel Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALQxa9idnPZJ+KOQnX/Rkh0595PO",
+  "snapshot_id": "AAAAAElCzU5jnFRJfN1/9hCj7zImQXix",
   "tracks": [
+    {
+      "added_at": "2026-03-01 10:43:24",
+      "album": {
+        "name": "Amioluwa",
+        "url": "https://open.spotify.com/album/7syagUQVNcJnnRg9ZIHQfd"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        },
+        {
+          "name": "Yinka Okeleye",
+          "url": "https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9"
+        }
+      ],
+      "duration_ms": 607129,
+      "name": "Amioluwa",
+      "url": "https://open.spotify.com/track/2taXjxwpS0Mrl3PqdwWHPu"
+    },
     {
       "added_at": "2025-12-03 12:16:06",
       "album": {
@@ -111,6 +131,22 @@
       "duration_ms": 357208,
       "name": "Favour",
       "url": "https://open.spotify.com/track/0mxvkw5NNGXugvh5qVORjx"
+    },
+    {
+      "added_at": "2026-03-01 10:43:24",
+      "album": {
+        "name": "Amin (Amen) [Live]",
+        "url": "https://open.spotify.com/album/382YTaePZFxxLrqMg0D9KO"
+      },
+      "artists": [
+        {
+          "name": "BBO",
+          "url": "https://open.spotify.com/artist/2uaQ0i7hnhD1rRwDOSCkOd"
+        }
+      ],
+      "duration_ms": 551218,
+      "name": "Amin (Amen) - Live",
+      "url": "https://open.spotify.com/track/6jR6lM1TVcAYq2MnKNaadJ"
     },
     {
       "added_at": "2025-12-24 18:51:27",
@@ -895,30 +931,6 @@
     {
       "added_at": "2025-12-24 18:51:27",
       "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/0j428IWZNxi3fAJTahWjil"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        },
-        {
-          "name": "Chizie",
-          "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
-        }
-      ],
-      "duration_ms": 252048,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/3RWGw0Q3JA9gYtBcor4UQy"
-    },
-    {
-      "added_at": "2025-12-24 18:51:27",
-      "album": {
         "name": "Umusirikare",
         "url": "https://open.spotify.com/album/2gmosA09uXbSu5MvBBswLh"
       },
@@ -931,22 +943,6 @@
       "duration_ms": 670000,
       "name": "Nina Siri",
       "url": "https://open.spotify.com/track/7wcBcpJnk3FkNvspFJN6SE"
-    },
-    {
-      "added_at": "2025-12-03 12:16:06",
-      "album": {
-        "name": "Inkanyezi (Live)",
-        "url": "https://open.spotify.com/album/4VfnwUHBzz14cl6R1K9iWY"
-      },
-      "artists": [
-        {
-          "name": "Sjava",
-          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
-        }
-      ],
-      "duration_ms": 347904,
-      "name": "Uyena - Live",
-      "url": "https://open.spotify.com/track/2f6K1uDICmz5TrZ7wAHdUm"
     },
     {
       "added_at": "2025-12-24 18:51:27",

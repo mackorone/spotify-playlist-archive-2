@@ -1,12 +1,12 @@
 {
   "description": "This is XXXTENTACION. The essential tracks, all in one playlist.",
-  "num_followers": 2949071,
+  "num_followers": 2948995,
   "original_name": "This Is XXXTENTACION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaDegAAAAABFjanRuQTzg2DSIHS+e1Ta",
+  "snapshot_id": "aaIwAAAAAAC8/Pq/cUNuhUso2NeN6ETv",
   "tracks": [
     {
       "added_at": null,
@@ -855,22 +855,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Will Regret (Reloaded)",
-        "url": "https://open.spotify.com/album/2pTyjuQ1d1d79Chhknoa2h"
+        "name": "XXXTENTACION Presents: Members Only, Vol. 3",
+        "url": "https://open.spotify.com/album/7ifkO4gppMVf0HNy7JJDHn"
       },
       "artists": [
         {
-          "name": "Ski Mask The Slump God",
-          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+          "name": "Bass Santana",
+          "url": "https://open.spotify.com/artist/0O1cTzccAEKaEFShgzAK9V"
         },
         {
           "name": "XXXTENTACION",
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Cooliecut",
+          "url": "https://open.spotify.com/artist/19uEVh7y7Y9RfjMphMamXc"
+        },
+        {
+          "name": "Kin$oul",
+          "url": "https://open.spotify.com/artist/6HhsbprrJmKeaH8SgSlGge"
         }
       ],
-      "duration_ms": 210386,
-      "name": "Take A Step Back",
-      "url": "https://open.spotify.com/track/2gQYziDV5cSTRSqr6akzi5"
+      "duration_ms": 118360,
+      "name": "Curse",
+      "url": "https://open.spotify.com/track/5BYCMWNQqz4nqErN1ReRGL"
     }
   ],
   "unique_name": "This Is XXXTENTACION",

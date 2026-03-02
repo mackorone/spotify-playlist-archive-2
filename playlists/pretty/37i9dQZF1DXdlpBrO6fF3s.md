@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlpBrO6fF3s.md) - [plain]
 
 > I'm The One! A TEEnager Z is here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,627 likes - 198 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,687 likes - 198 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -207,4 +207,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlpBrO6fF3s.md) - [plain]
 | 197 | [Promise \- Notation from Senor Juwon Park](https://open.spotify.com/track/0tAEIfNoAAf7yksns00RE1) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP\. EXTRA: Shift The Map](https://open.spotify.com/album/3uejTFamPCZuTD1HvYLqw2) | 3:25 |
 | 198 | [My Way](https://open.spotify.com/track/7nm5N2yWWlDp3R9wPSGmj8) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.1 : All to Zero](https://open.spotify.com/album/4ayTucmOGwLd0WrJddrUwx) | 3:48 |
 
-Snapshot ID: `AAAAALtvlBqjChK4vwiMgQ7yH1uGk8Gz`
+Snapshot ID: `AAAAAFtWEb4SJAh2vAQvKs3D/RtPtaAf`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Bruno Mars, BLACKPINK, Dato' Sri Siti Nurhaliza, Black Hanifah, laufey, RAYE  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,128 likes - 115 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,123 likes - 115 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 8 | [Raya Macam Raya](https://open.spotify.com/track/2gLazzeWEpohNCfXQXwqg0) | [Hael Husaini](https://open.spotify.com/artist/1FIUUafdGtfqLIP8pmPymL), [Alpha](https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t) | [Raya Macam Raya](https://open.spotify.com/album/476V0fX53BKmxRCl4Ad3dD) | 2:45 |
 | 9 | [Meriah Raya](https://open.spotify.com/track/3T1I8MWX6V4MlRppOnUNLB) | [Halim Ahmad](https://open.spotify.com/artist/6S125PJZpYbguFj48bbYO4), [In\-Team](https://open.spotify.com/artist/4V3ZO3RnRFdpS10jbUTJaT) | [Meriah Raya](https://open.spotify.com/album/5wc0CYzA7NsS7oKI49zaPx) | 3:02 |
 | 10 | [Pok Pek Raya](https://open.spotify.com/track/3U0PCY8mQEmMdvel0fXydj) | [De Fam](https://open.spotify.com/artist/4m8URcWW3beNdxt4DnihgK) | [Pok Pek Raya](https://open.spotify.com/album/6o1c1JcAuYOcu6MBtXR3DX) | 2:11 |
-| 11 | [Yeye Raya](https://open.spotify.com/track/2KjeSx5nVBVn7DvuUJ9xCZ) | [Floor 88](https://open.spotify.com/artist/4QwvHvUlOSlPvxH7ldeEvD), [Odda](https://open.spotify.com/artist/6gv9XdxNciZgj4GjoDlEgX) | [Yeye Raya](https://open.spotify.com/album/5wKYaVjd9pMK0i70wBOKM2) | 4:58 |
+| 11 | [Yeye Raya](https://open.spotify.com/track/2KjeSx5nVBVn7DvuUJ9xCZ) | [Floor 88](https://open.spotify.com/artist/4QwvHvUlOSlPvxH7ldeEvD), [Odda](https://open.spotify.com/artist/1lUvBrfUhn8mzvf3Ak77SV) | [Yeye Raya](https://open.spotify.com/album/5wKYaVjd9pMK0i70wBOKM2) | 4:58 |
 | 12 | [Setahun Sekali](https://open.spotify.com/track/1MHMXYpr80n9sEzgpMlCA6) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D) | [Setahun Sekali](https://open.spotify.com/album/78flqFyrvKHgA4z3MHq2gM) | 4:02 |
 | 13 | [Tak Sabar Nak Raya \(feat\. Nabil Ahmad\)](https://open.spotify.com/track/6tU9z830gHvWsM5VUNQrPu) | [Nabila Razali](https://open.spotify.com/artist/2yWleHZF4HaaNjmiU8snKO), [Nabil Ahmad](https://open.spotify.com/artist/6y1uIaXNjqO6UpHKzbLkun) | [Tak Sabar Nak Raya \(feat\. Nabil Ahmad\)](https://open.spotify.com/album/3F4iQHcTSpPeWU9lOPkY8R) | 3:02 |
 | 14 | [Gembiraya](https://open.spotify.com/track/5KfPiZ0XHomsdNRW9b9CbO) | [Ikhmal Nour](https://open.spotify.com/artist/3WOPoRt2KY37hzmXjUOVos), [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh), [Ijaa Ishak](https://open.spotify.com/artist/4iYnV8mEMOUouwKQJj1mJl) | [Gembiraya](https://open.spotify.com/album/0JgBaumv55PqbZuOjhbt1N) | 2:57 |

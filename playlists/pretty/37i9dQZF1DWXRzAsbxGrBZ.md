@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Get revived with some of the best Deep House South Africa has to offer\. Cover: Buddynice
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,294 likes - 68 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,325 likes - 68 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 59762,
+  "num_followers": 59764,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAAw+M+yGcNXpPPRhPXdazG9TAD3Hr2J",
+  "snapshot_id": "AAAw+moWR3i66AYpK6DDPZ7m4CT/wHl9",
   "tracks": [
     {
       "added_at": "2026-02-28 08:36:19",
@@ -2215,6 +2215,22 @@
     {
       "added_at": "2026-02-28 08:36:19",
       "album": {
+        "name": "Rooster Slipped",
+        "url": "https://open.spotify.com/album/6PDmhPhilCrAdCi0KV1O7Y"
+      },
+      "artists": [
+        {
+          "name": "Rooster",
+          "url": "https://open.spotify.com/artist/0LUNFShhDJByoEEnW8cxLR"
+        }
+      ],
+      "duration_ms": 151250,
+      "name": "The Mirror",
+      "url": "https://open.spotify.com/track/1eguFDzYrQJbQaXrnLrTAg"
+    },
+    {
+      "added_at": "2026-02-28 08:36:19",
+      "album": {
         "name": "Bigfoot",
         "url": "https://open.spotify.com/album/0loQ0es1gmoeTWEabl5IN5"
       },
@@ -2351,22 +2367,6 @@
       "duration_ms": 150441,
       "name": "Brain Like Computer",
       "url": "https://open.spotify.com/track/0teTw4nNk3NTRHBjEisM5R"
-    },
-    {
-      "added_at": "2026-02-28 08:36:19",
-      "album": {
-        "name": "Rooster Slipped",
-        "url": "https://open.spotify.com/album/6PDmhPhilCrAdCi0KV1O7Y"
-      },
-      "artists": [
-        {
-          "name": "Rooster",
-          "url": "https://open.spotify.com/artist/0LUNFShhDJByoEEnW8cxLR"
-        }
-      ],
-      "duration_ms": 151250,
-      "name": "The Mirror",
-      "url": "https://open.spotify.com/track/1eguFDzYrQJbQaXrnLrTAg"
     },
     {
       "added_at": "2026-02-28 08:36:19",

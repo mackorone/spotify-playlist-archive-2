@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > Happy Black History Month! Now featuring our Frequency Zine cover star <a href="https://www.instagram.com/spotify/p/DVMFG3EkbnW/">Durand Bernarr</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,124,102 likes - 125 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,124,143 likes - 125 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

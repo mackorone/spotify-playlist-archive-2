@@ -236,7 +236,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 250453,
       "name": "12 Horas / Pra Voc\u00ea Acreditar - Ao Vivo",
       "url": "https://open.spotify.com/track/2j7IPPMZt5nE5R4r2AbKZ8"
@@ -6790,36 +6790,6 @@
     {
       "album": {
         "name": "Carn\u00edvoro",
-        "url": "https://open.spotify.com/album/1Wytj2S8Of5HMUmOJN1ULa"
-      },
-      "artists": [
-        {
-          "name": "Mc Jacare\u0301",
-          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
-        },
-        {
-          "name": "Mc Lele JP",
-          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
-        },
-        {
-          "name": "Mc Neg\u00e3o Original",
-          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
-        },
-        {
-          "name": "DJ Japa NK",
-          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
-        }
-      ],
-      "date_added": "2026-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 216000,
-      "name": "Carn\u00edvoro",
-      "url": "https://open.spotify.com/track/65aH3l8LEmRp3HuH5XpKoH"
-    },
-    {
-      "album": {
-        "name": "Carn\u00edvoro",
         "url": "https://open.spotify.com/album/45lGEvqXqQd7RLietEj16l"
       },
       "artists": [
@@ -6846,6 +6816,36 @@
       "duration_ms": 216000,
       "name": "Carn\u00edvoro",
       "url": "https://open.spotify.com/track/6zWfgvh1e1FCdtfUVj370i"
+    },
+    {
+      "album": {
+        "name": "Carn\u00edvoro (Incidental De 1 Minuto)",
+        "url": "https://open.spotify.com/album/1Wytj2S8Of5HMUmOJN1ULa"
+      },
+      "artists": [
+        {
+          "name": "Mc Jacare\u0301",
+          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Carn\u00edvoro (Incidental De 1 Minuto)",
+      "url": "https://open.spotify.com/track/65aH3l8LEmRp3HuH5XpKoH"
     },
     {
       "album": {
@@ -9306,7 +9306,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-01",
+      "date_removed": null,
       "duration_ms": 146560,
       "name": "Desliza (\"\u00d3lhinho\" No Corpinho)",
       "url": "https://open.spotify.com/track/2gLUZtZN1gfercLP9guft3"
@@ -10344,6 +10344,24 @@
     {
       "album": {
         "name": "Dois Gumes (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0uZnGJjxegYEBKniJuVhJR"
+      },
+      "artists": [
+        {
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191154,
+      "name": "Dois Gumes (Ao Vivo)",
+      "url": "https://open.spotify.com/track/63eA4sRuWRLstweK7Isx58"
+    },
+    {
+      "album": {
+        "name": "Dois Gumes (Ao Vivo)",
         "url": "https://open.spotify.com/album/4o1PjHRaJZI1FqRRsb8Oz4"
       },
       "artists": [
@@ -10354,7 +10372,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 191154,
       "name": "Dois Gumes - Ao Vivo",
       "url": "https://open.spotify.com/track/39KwMv89TaEdaBrvk28AMC"
@@ -12150,7 +12168,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 124000,
       "name": "Esse Cupido N\u00e3o Me Ajuda",
       "url": "https://open.spotify.com/track/58lPXPuE7deTicTvsdvVbL"
@@ -15212,7 +15230,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 195402,
       "name": "GO",
       "url": "https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB"
@@ -25488,7 +25506,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 140487,
       "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
       "url": "https://open.spotify.com/track/5L0d4gFfxGNITmevcFfHnA"
@@ -28574,7 +28592,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 178526,
       "name": "Quarto 67 - Ao Vivo",
       "url": "https://open.spotify.com/track/1FoV9rUsKIecaQpSap2YLn"
@@ -31042,6 +31060,60 @@
       "duration_ms": 548571,
       "name": "Semi Nua",
       "url": "https://open.spotify.com/track/4kqz2VSAmiLm06X90jmktL"
+    },
+    {
+      "album": {
+        "name": "Semi Nua",
+        "url": "https://open.spotify.com/album/6gqqwaJfY8l5SsIOFPywHv"
+      },
+      "artists": [
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Aaron Modesto",
+          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
+        },
+        {
+          "name": "MC RN do Cap\u00e3o",
+          "url": "https://open.spotify.com/artist/0ktgQZv6VIj48TP9VupyFB"
+        },
+        {
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        },
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "DJ Guh Mix",
+          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 548593,
+      "name": "Semi Nua",
+      "url": "https://open.spotify.com/track/3umoKiuIgHFDaboDpRn6BB"
     },
     {
       "album": {
@@ -39148,7 +39220,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 442406,
       "name": "\u00c9 Tudo Sobre Voc\u00ea / Ser Mudado - Ao Vivo",
       "url": "https://open.spotify.com/track/1h0yBDChztCJRTqmI5U6ou"

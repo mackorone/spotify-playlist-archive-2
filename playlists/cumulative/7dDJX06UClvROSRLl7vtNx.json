@@ -657,6 +657,28 @@
     },
     {
       "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/3gWjdjPXV5asIur9yPYHG8"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        },
+        {
+          "name": "Andrea Hamilton",
+          "url": "https://open.spotify.com/artist/6KHaRRRqsIRnkLcApkyELs"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130327,
+      "name": "All I Want Is You",
+      "url": "https://open.spotify.com/track/7FZuqykDd8TsJ2x0fsrlvv"
+    },
+    {
+      "album": {
         "name": "All My Love",
         "url": "https://open.spotify.com/album/0s8c5llqb7VrRotixGu0ik"
       },
@@ -1848,7 +1870,7 @@
       ],
       "date_added": "2025-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 156052,
       "name": "Because of You",
       "url": "https://open.spotify.com/track/0qpUZ0c42DyRjYV4C8UhrI"
@@ -2098,6 +2120,28 @@
       "duration_ms": 147000,
       "name": "Better This Way",
       "url": "https://open.spotify.com/track/60IMM6Pswld6W0DSc3seaQ"
+    },
+    {
+      "album": {
+        "name": "Better With You Around",
+        "url": "https://open.spotify.com/album/3OerpEem6cuP4JBMDS9KYC"
+      },
+      "artists": [
+        {
+          "name": "AgusAlvarez",
+          "url": "https://open.spotify.com/artist/7rGnhW0N8GcFkxw3xgZucr"
+        },
+        {
+          "name": "oceans apart",
+          "url": "https://open.spotify.com/artist/4SJ00ViCeRfYfFVljPgzy8"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174358,
+      "name": "Better With You Around",
+      "url": "https://open.spotify.com/track/6wLWPDZT4jvsbTcnMYe2lE"
     },
     {
       "album": {
@@ -5983,6 +6027,32 @@
     },
     {
       "album": {
+        "name": "Eternal Love",
+        "url": "https://open.spotify.com/album/2XBbF4q32JLPOzYigCQfeX"
+      },
+      "artists": [
+        {
+          "name": "L.A",
+          "url": "https://open.spotify.com/artist/6zzGgDPvgB0PNyYtwfZ1I2"
+        },
+        {
+          "name": "Dallien",
+          "url": "https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ"
+        },
+        {
+          "name": "L!LY",
+          "url": "https://open.spotify.com/artist/78dzc9jtm3rsK2ID1burVY"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Eternal Love",
+      "url": "https://open.spotify.com/track/67kl2cOmkm3Enu1JOajhcj"
+    },
+    {
+      "album": {
         "name": "Ethereal",
         "url": "https://open.spotify.com/album/2M6cL02paUx296iPc4IF7r"
       },
@@ -6822,7 +6892,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 133833,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/53er7l5eGgX7R5UDn1LFGU"
@@ -9400,6 +9470,32 @@
     {
       "album": {
         "name": "Hold On",
+        "url": "https://open.spotify.com/album/6CoXT4snUxg6OJUePzSb0L"
+      },
+      "artists": [
+        {
+          "name": "FIXL",
+          "url": "https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li"
+        },
+        {
+          "name": "November Lights",
+          "url": "https://open.spotify.com/artist/1XynSPT6cyvrZhQXrZh1qH"
+        },
+        {
+          "name": "Jaker",
+          "url": "https://open.spotify.com/artist/1OiylLVpVrT0ToNcZBZaZY"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143065,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/1L2iAHvjYMSKVEZcKfEkKY"
+    },
+    {
+      "album": {
+        "name": "Hold On",
         "url": "https://open.spotify.com/album/5N43rVFdgAhIX1N6zZ0xSH"
       },
       "artists": [
@@ -10954,6 +11050,32 @@
       "duration_ms": 134000,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/4D4AkymIGGVmd6EC4D6vcQ"
+    },
+    {
+      "album": {
+        "name": "I've Found You",
+        "url": "https://open.spotify.com/album/01kkBa2dtL55reco39983Q"
+      },
+      "artists": [
+        {
+          "name": "\u00c6j",
+          "url": "https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41"
+        },
+        {
+          "name": "Amaranth Skies",
+          "url": "https://open.spotify.com/artist/6v1yanGkwUBUbk6G3dgNOq"
+        },
+        {
+          "name": "Brandon Chase",
+          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118983,
+      "name": "I've Found You",
+      "url": "https://open.spotify.com/track/4Jd89RSDzTitWjuyE5Ly6v"
     },
     {
       "album": {
@@ -12982,7 +13104,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 149400,
       "name": "Let You Know - Summer Edit",
       "url": "https://open.spotify.com/track/6eFlqtmgYckrLelrV4oc9C"
@@ -17320,7 +17442,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 125283,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/6SmkZfOvzbF3nWMZZSOAhX"
@@ -19546,7 +19668,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 172380,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/2N0L3jEwhhD1vLwtk1baTJ"
@@ -23560,6 +23682,28 @@
     {
       "album": {
         "name": "The One That Got Away",
+        "url": "https://open.spotify.com/album/16QfaWuDFaeSKgYaxAaW3N"
+      },
+      "artists": [
+        {
+          "name": "Bayshore Court",
+          "url": "https://open.spotify.com/artist/0lMvjrlg2CPHQiVHPIzdDg"
+        },
+        {
+          "name": "Zist",
+          "url": "https://open.spotify.com/artist/0DH8z0bMj7KS2oJq6rKXxR"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "The One That Got Away",
+      "url": "https://open.spotify.com/track/6AK9pLFV2UcxxmCj1CNMm9"
+    },
+    {
+      "album": {
+        "name": "The One That Got Away",
         "url": "https://open.spotify.com/album/1aShjWaj5Hu0Chqgqvhrcz"
       },
       "artists": [
@@ -25284,6 +25428,24 @@
       "duration_ms": 163472,
       "name": "Wasting Colors",
       "url": "https://open.spotify.com/track/7h45k1RvHYFzGBswoDky3c"
+    },
+    {
+      "album": {
+        "name": "Wasting Time",
+        "url": "https://open.spotify.com/album/08ML3nOS02UA9w7IC9Z4ty"
+      },
+      "artists": [
+        {
+          "name": "Samuel Miller",
+          "url": "https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162051,
+      "name": "Wasting Time",
+      "url": "https://open.spotify.com/track/7w5mZfgM7ue7KE5JR4ClIc"
     },
     {
       "album": {

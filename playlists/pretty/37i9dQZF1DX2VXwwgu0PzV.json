@@ -1,12 +1,12 @@
 {
   "description": "Music for when you've got your Jesus on and your swag up . \nCover: Natalie Okri & TBabz",
-  "num_followers": 73475,
+  "num_followers": 73487,
   "original_name": "Youth Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGYdGw5Sim/rjsGYzSraE0lbLN/H",
+  "snapshot_id": "AAAAACvIr1oxB9K7u6mYnu4zuN4jif2P",
   "tracks": [
     {
       "added_at": "2026-02-20 00:01:26",
@@ -51,6 +51,30 @@
       "duration_ms": 192844,
       "name": "WAY",
       "url": "https://open.spotify.com/track/0lRn3p4Vo8j6tzJ6m49sRA"
+    },
+    {
+      "added_at": "2026-03-01 10:43:57",
+      "album": {
+        "name": "Alleluia",
+        "url": "https://open.spotify.com/album/4nVUeDkkqCnhG8hQ8sLvVO"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "duration_ms": 263721,
+      "name": "Alleluia",
+      "url": "https://open.spotify.com/track/401mrYPv21Zs2USsU6bauy"
     },
     {
       "added_at": "2026-02-27 00:01:22",

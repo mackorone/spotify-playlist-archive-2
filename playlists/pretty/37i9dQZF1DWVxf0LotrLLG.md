@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2026\. Hit shuffle for a mixed listening experience\. Cover: Arcángel
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,747 likes - 45 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,752 likes - 45 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 44 | [LA FORMULA](https://open.spotify.com/track/1uqCUWuLckeGAcpIthq9xj) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA FORMULA](https://open.spotify.com/album/1g9AHagDJvZfgKXE0IVzIA) | 1:38 |
 | 45 | [UN DIA](https://open.spotify.com/track/3iPYnV9WRHto3sy1kn4DDZ) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p) | [LA FORMULA](https://open.spotify.com/album/1g9AHagDJvZfgKXE0IVzIA) | 2:53 |
 
-Snapshot ID: `AAAAANdSidRrRX7yQXtR3b/8p3vMUFQy`
+Snapshot ID: `AAAAAJO+yYdW0X5QwL+e7SyAqbpOfDD0`

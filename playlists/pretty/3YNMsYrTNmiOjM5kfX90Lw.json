@@ -1,6 +1,6 @@
 {
   "description": "Hip-hop favorites. Songs distributed by DistroKid, playlist curated by the public. To vote, head to: distrokid.com/spotlight",
-  "num_followers": 477251,
+  "num_followers": 477436,
   "original_name": "DistroKid Rap Scallion",
   "owner": {
     "name": "DistroKid",
@@ -275,17 +275,25 @@
     {
       "added_at": "2026-02-27 04:05:15",
       "album": {
-        "name": "Hip Hop Is What Made Me (feat. DJ ACE NYC & Larissa Lambert)",
+        "name": "Hip Hop Is What Made Me",
         "url": "https://open.spotify.com/album/0rF7WiRHOcPDhzFZpeeHFR"
       },
       "artists": [
         {
           "name": "Def Manic",
           "url": "https://open.spotify.com/artist/5plJ0ZhN706lDAG4o8w56S"
+        },
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        },
+        {
+          "name": "DJ ACE NYC",
+          "url": "https://open.spotify.com/artist/3NggH17RWRTlazacK3wG0o"
         }
       ],
-      "duration_ms": 231392,
-      "name": "Hip Hop Is What Made Me (feat. DJ ACE NYC & Larissa Lambert)",
+      "duration_ms": 231418,
+      "name": "Hip Hop Is What Made Me",
       "url": "https://open.spotify.com/track/7iSwN7wyIDX4QpnhyxjYGv"
     },
     {

@@ -1,12 +1,12 @@
 {
   "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 116744,
+  "num_followers": 116751,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaDegAAAAAAiAnoDCZBeDi8xX3RV05kq",
+  "snapshot_id": "aaIwAAAAAAAYZ1LlgHykZvOu7AHU4SiZ",
   "tracks": [
     {
       "added_at": null,
@@ -499,26 +499,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seu Amor",
-        "url": "https://open.spotify.com/album/08J3DhJqaCRwIGeIZL7FBl"
+        "name": "Tetelestai (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
       },
       "artists": [
         {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        },
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
         }
       ],
-      "duration_ms": 192402,
-      "name": "Seu Amor",
-      "url": "https://open.spotify.com/track/0MUqcBCI1UV1LezKrBh7dG"
+      "duration_ms": 420453,
+      "name": "Se Eu Pudesse (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3Z7YY7XHEGrDjTtg4dxySG"
     },
     {
       "added_at": null,
@@ -543,18 +535,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tetelestai (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
+        "name": "Seu Amor",
+        "url": "https://open.spotify.com/album/08J3DhJqaCRwIGeIZL7FBl"
       },
       "artists": [
         {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        },
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
         }
       ],
-      "duration_ms": 420453,
-      "name": "Se Eu Pudesse (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3Z7YY7XHEGrDjTtg4dxySG"
+      "duration_ms": 192402,
+      "name": "Seu Amor",
+      "url": "https://open.spotify.com/track/0MUqcBCI1UV1LezKrBh7dG"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pra Te Contar Os Meus Segredos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 237333,
-      "name": "Preciso Entender - Ao Vivo",
-      "url": "https://open.spotify.com/track/1EUm3fTMaakB3KdffkvCZk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tudo Volta ao Seu Lugar",
         "url": "https://open.spotify.com/album/7iFsnjU5wTgTSeEF4tLxV5"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 292755,
       "name": "Nada Pode Calar Um Adorador",
       "url": "https://open.spotify.com/track/6wSUMbiuYkOzN5YzZ4Y3Vs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pra Te Contar Os Meus Segredos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 237333,
+      "name": "Preciso Entender - Ao Vivo",
+      "url": "https://open.spotify.com/track/1EUm3fTMaakB3KdffkvCZk"
     },
     {
       "added_at": null,
@@ -787,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confio em Ti",
-        "url": "https://open.spotify.com/album/1UHI806hrGV9QVZFjq7xJB"
-      },
-      "artists": [
-        {
-          "name": "Thaiane Seghetto",
-          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 252453,
-      "name": "Confio em Ti",
-      "url": "https://open.spotify.com/track/3UBwVX5qweI2yIrkvLjRzM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dependente de Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/0dQX1IZI82UCXg47zWJNvh"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 240697,
       "name": "Tranquilo",
       "url": "https://open.spotify.com/track/6RknNslwpjiHMgO4nKBgsQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confio em Ti",
+        "url": "https://open.spotify.com/album/1UHI806hrGV9QVZFjq7xJB"
+      },
+      "artists": [
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 252453,
+      "name": "Confio em Ti",
+      "url": "https://open.spotify.com/track/3UBwVX5qweI2yIrkvLjRzM"
     },
     {
       "added_at": null,

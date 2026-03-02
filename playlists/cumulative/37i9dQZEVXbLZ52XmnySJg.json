@@ -276,7 +276,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 154105,
       "name": "5-7",
       "url": "https://open.spotify.com/track/6PRFDCNAMLeSZimkPGrKMG"
@@ -772,10 +772,40 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 286917,
       "name": "Aaya Sher (From \"The Paradise\")",
       "url": "https://open.spotify.com/track/4pr6UpTPTsuzU6gzB2hpPv"
+    },
+    {
+      "album": {
+        "name": "Aaya Sher (From \"The Paradise\") (Telugu)",
+        "url": "https://open.spotify.com/album/47i89HeDSUWHJGFT1wzAWP"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Jangi Reddy",
+          "url": "https://open.spotify.com/artist/576GMrbKBURxmaLAJXMqCp"
+        },
+        {
+          "name": "Arjun Chandy",
+          "url": "https://open.spotify.com/artist/4UCG3GFuPR4k19M40Mzxip"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286917,
+      "name": "Aaya Sher (From \"The Paradise\") (Telugu)",
+      "url": "https://open.spotify.com/track/4kV0ugCwyF7OAb3huIdThG"
     },
     {
       "album": {
@@ -2650,6 +2680,32 @@
       "duration_ms": 242628,
       "name": "Bae (From \"Don\")",
       "url": "https://open.spotify.com/track/5D507IC1VOAg7bKkmOblr6"
+    },
+    {
+      "album": {
+        "name": "Bairi",
+        "url": "https://open.spotify.com/album/56L4U2KxgXa66NLUJLS7EI"
+      },
+      "artists": [
+        {
+          "name": "Virat",
+          "url": "https://open.spotify.com/artist/3uHCE9eimH5dJx7TLslsmE"
+        },
+        {
+          "name": "Pradeep Solanki",
+          "url": "https://open.spotify.com/artist/5kD46P0iLqWZtITQB9nmAn"
+        },
+        {
+          "name": "Heena",
+          "url": "https://open.spotify.com/artist/1mgNO6u7VjkWz3wWD7ZnkF"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195294,
+      "name": "Bairi",
+      "url": "https://open.spotify.com/track/1GfcRba0wGXDTtT4r8C65Z"
     },
     {
       "album": {
@@ -6048,7 +6104,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 155590,
       "name": "Dhurandhar - Title Track",
       "url": "https://open.spotify.com/track/5xKr4HfdnYLMDmAJZkOuBc"
@@ -6094,7 +6150,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 155590,
       "name": "Dhurandhar - Title Track (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/1ifI8ipBJreNmLDYigFc6d"
@@ -6452,7 +6508,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 198875,
       "name": "Dil Lagana Mana Tha",
       "url": "https://open.spotify.com/track/3A3oq3VMSboPPWBYTRq0nX"
@@ -8082,7 +8138,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 362400,
       "name": "Gehra Hua",
       "url": "https://open.spotify.com/track/5MCbGWnNLLjoHpbDO3BOgi"
@@ -8112,7 +8168,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 362400,
       "name": "Gehra Hua (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/72EW32eRMEnrHY4ZJf2Z96"
@@ -10744,7 +10800,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 250860,
       "name": "Ishq Jalakar - Karvaan",
       "url": "https://open.spotify.com/track/7DonHcAdu5FHzLNESEEOuj"
@@ -10828,7 +10884,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 250860,
       "name": "Ishq Jalakar - Karvaan (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/0dkQAG6lAsZvRCeG8QwVwR"
@@ -15174,7 +15230,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 253801,
       "name": "Lutt Le Gaya",
       "url": "https://open.spotify.com/track/2dQMisG0lyz6Z8J4zYdAsG"
@@ -15196,7 +15252,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 253801,
       "name": "Lutt Le Gaya (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/6NAtrsDcRI5YkC6vGvPF6U"
@@ -18014,7 +18070,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 155142,
       "name": "Naal Nachna",
       "url": "https://open.spotify.com/track/2nnDPEbNxnBKq5RG6sObTg"
@@ -18044,7 +18100,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 155142,
       "name": "Naal Nachna (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/0KHOIkAcSHTH9S0H0wZV7Q"
@@ -23178,7 +23234,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 224083,
       "name": "Shararat",
       "url": "https://open.spotify.com/track/0R7grQWU1dRxiOQGIqZm0Z"
@@ -23204,7 +23260,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 224083,
       "name": "Shararat (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/0uvnGQnVe313EXePbRnZEH"
@@ -23566,7 +23622,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 586075,
       "name": "Shree Hanuman Chalisa",
       "url": "https://open.spotify.com/track/6H7fLdt0AeWpuxUKXuXWrx"
@@ -25094,7 +25150,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 309640,
       "name": "Tere Bina",
       "url": "https://open.spotify.com/track/37j9F77SglsxJruWdGUxIY"
@@ -25124,7 +25180,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-01",
+      "date_removed": null,
       "duration_ms": 309640,
       "name": "Tere Bina",
       "url": "https://open.spotify.com/track/4FeczSomVWVyU4FW7xDeAI"
@@ -25526,7 +25582,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-01",
+      "date_removed": null,
       "duration_ms": 323520,
       "name": "Teri Deewani",
       "url": "https://open.spotify.com/track/2iNqdCchlUZEgjJbQyZf8T"
@@ -25552,7 +25608,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 323520,
       "name": "Teri Deewani",
       "url": "https://open.spotify.com/track/4IgRZYozl466yNlOnf8qRO"
@@ -27388,7 +27444,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 278000,
       "name": "Ucha Lamba Kad",
       "url": "https://open.spotify.com/track/3GAVREeCqJTAJsGEkTd3CL"
@@ -27414,7 +27470,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 278000,
       "name": "Ucha Lamba Kad",
       "url": "https://open.spotify.com/track/0YT1SVUhTE6HFFU4OHRalz"

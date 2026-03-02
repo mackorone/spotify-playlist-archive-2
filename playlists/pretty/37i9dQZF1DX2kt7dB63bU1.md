@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Gabrielle Cavassa
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,802 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,842 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [Sparrow \(feat\. Angelique Kidjo\)](https://open.spotify.com/track/324kvzJnO81wfCvR5eHAL8) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Shadow](https://open.spotify.com/album/1bm8lycQzE0Hx7w0dgPOKW) | 6:34 |
 | 100 | [Sad to Say \- Snapshot \- vocal theme](https://open.spotify.com/track/1A1VctouaYYVxnyz1IYLuB) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG), [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd), [Mulgrew Miller](https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP) | [Sad to Say \(Snapshot \- vocal theme\)](https://open.spotify.com/album/5eJUp28TOHvYKuAsCvDxSF) | 2:16 |
 
-Snapshot ID: `AAAAAMziJcf5YtIKrHUeRsZKKEzaVcwl`
+Snapshot ID: `AAAAAJtTkbe/0C9qTgRplJ67OGjyZNrL`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7jLQsJHPr0Z.md) - [plain]
 
 > The aux for every college party\. Cover: Benson Boone and YUNGBLUD
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,464 likes - 200 songs - 12 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,626 likes - 200 songs - 12 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

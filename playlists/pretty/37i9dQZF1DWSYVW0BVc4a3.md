@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > All energy\. Cover: Jayda G
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,595 likes - 125 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,617 likes - 125 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 16 | [Can I Take You Home](https://open.spotify.com/track/24B0ePrVEASYgMp3MyxSWs) | [Smoko Ono](https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd) | [Can I Take You Home](https://open.spotify.com/album/11DdfoOJMI9WR5pqzXeE0z) | 3:17 |
 | 17 | [Ride](https://open.spotify.com/track/16M3MyMIPvRdOHGeeHHuq6) | [Mason Collective](https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Ride](https://open.spotify.com/album/5gLWvBzFKr7kZm2EcUaCQK) | 2:50 |
 | 18 | [Feel This Way](https://open.spotify.com/track/2libVw5xnVwelZ69K47bDz) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Feel This Way](https://open.spotify.com/album/0BVGCcx3DWdTu1ComULh5k) | 3:04 |
-| 19 | [Sweat](https://open.spotify.com/track/4xXqzlCnVukSusVHLAnYc9) | [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa), [Mad.Again](https://open.spotify.com/artist/0N3Cd61UD4Y0ED9YXFGa5V) | [Sweat](https://open.spotify.com/album/2p1NJOBxUbwSljyvVC01BY) | 2:44 |
-| 20 | [Plush](https://open.spotify.com/track/4jP7Eh55rn0buD5c2Cknmj) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Plush](https://open.spotify.com/album/4oxdzUE0WaiEG4mRkkidXE) | 3:59 |
-| 21 | [Illegal + Four Tet](https://open.spotify.com/track/0hx680ZzQUWHqIbbj21XQj) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Illegal + Four Tet](https://open.spotify.com/album/3MZZ31nzSpnUqFXffSI8mS) | 5:36 |
-| 22 | [Fallin'](https://open.spotify.com/track/4RWk0U7Fk6Y6TCLk0THcfN) | [Noah Baine](https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI) | [Balance](https://open.spotify.com/album/19z1oEwjBsQb9DSCqGRaq5) | 2:52 |
-| 23 | [Contact](https://open.spotify.com/track/2BVyRnQTr2by4dvTdhP6LI) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Contact](https://open.spotify.com/album/1sCsiqGXef6RuggffHQKSS) | 3:07 |
-| 24 | [Was I Loved?](https://open.spotify.com/track/1OXp5ZrI1JXY0xY5H4ql7z) | [Joss Dean](https://open.spotify.com/artist/5wY7g9kThj0QTE33r30CXf) | [Was I Loved?](https://open.spotify.com/album/0xuivpSg8Z5zmBkYZZ5IUN) | 3:13 |
+| 19 | [Plush](https://open.spotify.com/track/4jP7Eh55rn0buD5c2Cknmj) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Plush](https://open.spotify.com/album/4oxdzUE0WaiEG4mRkkidXE) | 3:59 |
+| 20 | [Illegal + Four Tet](https://open.spotify.com/track/0hx680ZzQUWHqIbbj21XQj) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Illegal + Four Tet](https://open.spotify.com/album/3MZZ31nzSpnUqFXffSI8mS) | 5:36 |
+| 21 | [Fallin'](https://open.spotify.com/track/4RWk0U7Fk6Y6TCLk0THcfN) | [Noah Baine](https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI) | [Balance](https://open.spotify.com/album/19z1oEwjBsQb9DSCqGRaq5) | 2:52 |
+| 22 | [Contact](https://open.spotify.com/track/2BVyRnQTr2by4dvTdhP6LI) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Contact](https://open.spotify.com/album/1sCsiqGXef6RuggffHQKSS) | 3:07 |
+| 23 | [Was I Loved?](https://open.spotify.com/track/1OXp5ZrI1JXY0xY5H4ql7z) | [Joss Dean](https://open.spotify.com/artist/5wY7g9kThj0QTE33r30CXf) | [Was I Loved?](https://open.spotify.com/album/0xuivpSg8Z5zmBkYZZ5IUN) | 3:13 |
+| 24 | [Sweat](https://open.spotify.com/track/4xXqzlCnVukSusVHLAnYc9) | [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa), [Mad.Again](https://open.spotify.com/artist/0N3Cd61UD4Y0ED9YXFGa5V) | [Sweat](https://open.spotify.com/album/2p1NJOBxUbwSljyvVC01BY) | 2:44 |
 | 25 | [Ease Your Mind](https://open.spotify.com/track/12tSrqvAnzM62NyJAS4c6L) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Ease Your Mind](https://open.spotify.com/album/0FNX04BMYj2bBxJno6sWxo) | 3:05 |
 | 26 | [Fluorescent Horizons](https://open.spotify.com/track/0bXDTZbnngKlGmrnSmlYTk) | [1\-800 Techno](https://open.spotify.com/artist/2X2lZoNNwgxRD7kZpBn0sS), [DJ CITY](https://open.spotify.com/artist/52c8wOVJiBoVy5csR9SSWj), [Karl Lihagen](https://open.spotify.com/artist/39xx7uSO1RiFK5YyJwgAa3) | [For Several Eternals Before There Were Years](https://open.spotify.com/album/6QgF3L8v9e8Mwwd1vhLUBJ) | 4:26 |
 | 27 | [Apollo](https://open.spotify.com/track/2abFvOexMeXG1W7mkzyu9r) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB), [Moontalk](https://open.spotify.com/artist/4UFhlgDCipgC1LdbaJgIgN) | [Apollo](https://open.spotify.com/album/5WH3UxgNTmLBn0DTJrfdL7) | 3:51 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 124 | [Man With a Second Face](https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Archangel](https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d) | 4:41 |
 | 125 | [Front & Back Seat](https://open.spotify.com/track/1KyMTc7vqMotAPD21EvzBx) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Front & Back Seat](https://open.spotify.com/album/3prlLKT6UH9wH4zmIhiNyG) | 2:51 |
 
-Snapshot ID: `AAAAAGlsoDuk0m3d0QtUSgxFBmAn9t5I`
+Snapshot ID: `AAAAAB5YCNyK8GY7ZOnWlCF4CCyCImF3`

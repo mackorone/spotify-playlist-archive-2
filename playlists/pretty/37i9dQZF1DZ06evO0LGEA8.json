@@ -1,12 +1,12 @@
 {
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 310434,
+  "num_followers": 310492,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaDegAAAAADOyS08QDicxkL61pLcB55P",
+  "snapshot_id": "aaIwAAAAAAAT+nwEMlIHWi4lLSSrLnhm",
   "tracks": [
     {
       "added_at": null,
@@ -211,6 +211,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Se Yo",
+        "url": "https://open.spotify.com/album/29GPy18nuDwaIBrlwxZsGK"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 205403,
+      "name": "Que Se Yo",
+      "url": "https://open.spotify.com/track/3rKZuDrVxEcHLcHwIp2I2z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Vuelta a las Andadas",
         "url": "https://open.spotify.com/album/2YgSHCBlOE0ZamNGQBg19Q"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 221583,
       "name": "Mi Clero",
       "url": "https://open.spotify.com/track/7LdLq9qpjRDksIQlO5EyAQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Se Yo",
-        "url": "https://open.spotify.com/album/29GPy18nuDwaIBrlwxZsGK"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 205403,
-      "name": "Que Se Yo",
-      "url": "https://open.spotify.com/track/3rKZuDrVxEcHLcHwIp2I2z"
     },
     {
       "added_at": null,
@@ -707,42 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Locofon\u00edas",
-        "url": "https://open.spotify.com/album/26zGsUDPf6YXszmHdi4aCT"
-      },
-      "artists": [
-        {
-          "name": "TREN LOKOTE",
-          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
-        },
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 182700,
-      "name": "La Misi\u00f3n",
-      "url": "https://open.spotify.com/track/5fH4tV2DyGaKI0rIFewqQ8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00c9xitos, Vol. 2",
-        "url": "https://open.spotify.com/album/5MhpEW1P1Lpu4NLrLB34x7"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 530280,
-      "name": "A Su Vato Enga\u00f1a",
-      "url": "https://open.spotify.com/track/1omrt3OLApXDY5F440nNst"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TOP TOP (feat. MC Davo)",
         "url": "https://open.spotify.com/album/0pGlWHw5twnUTOBCvkIKLI"
       },
@@ -771,6 +735,42 @@
       "duration_ms": 362063,
       "name": "TOP TOP (feat. MC Davo)",
       "url": "https://open.spotify.com/track/75uaabQUMf0Vg7YKwVQq01"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9xitos, Vol. 2",
+        "url": "https://open.spotify.com/album/5MhpEW1P1Lpu4NLrLB34x7"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 530280,
+      "name": "A Su Vato Enga\u00f1a",
+      "url": "https://open.spotify.com/track/1omrt3OLApXDY5F440nNst"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Locofon\u00edas",
+        "url": "https://open.spotify.com/album/26zGsUDPf6YXszmHdi4aCT"
+      },
+      "artists": [
+        {
+          "name": "TREN LOKOTE",
+          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+        },
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 182700,
+      "name": "La Misi\u00f3n",
+      "url": "https://open.spotify.com/track/5fH4tV2DyGaKI0rIFewqQ8"
     },
     {
       "added_at": null,

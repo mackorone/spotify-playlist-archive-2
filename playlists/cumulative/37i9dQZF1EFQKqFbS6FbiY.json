@@ -3913,6 +3913,28 @@
     },
     {
       "album": {
+        "name": "Depois Nois Melhora",
+        "url": "https://open.spotify.com/album/6tH25ZGHnI4GulRJ8cDy13"
+      },
+      "artists": [
+        {
+          "name": "Augusto D\u00e1vila",
+          "url": "https://open.spotify.com/artist/6CdeVbV2irRNWkOSAA8BrF"
+        },
+        {
+          "name": "Duda Bertelli",
+          "url": "https://open.spotify.com/artist/0Zuy8Df6xyPDVxstUOsHQO"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145535,
+      "name": "Depois Nois Melhora",
+      "url": "https://open.spotify.com/track/2yU5H3o6QnEfNrqF6USOE5"
+    },
+    {
+      "album": {
         "name": "Desafoga",
         "url": "https://open.spotify.com/album/6NR67zP4bXIk2EjbaBJtXR"
       },
@@ -11016,6 +11038,24 @@
     {
       "album": {
         "name": "Seu Rol\u00ea",
+        "url": "https://open.spotify.com/album/1vOM6Q8JRZmsdAdnSiifs7"
+      },
+      "artists": [
+        {
+          "name": "Guto e Rafael",
+          "url": "https://open.spotify.com/artist/0YzQuhhZMbqDepWhuSANAp"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156781,
+      "name": "Seu Rol\u00ea",
+      "url": "https://open.spotify.com/track/1g9btLNQZ8XCVHz4WvxATH"
+    },
+    {
+      "album": {
+        "name": "Seu Rol\u00ea",
         "url": "https://open.spotify.com/album/4Z7jnESJVRuwjP2ulq3gp5"
       },
       "artists": [
@@ -11026,7 +11066,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 156781,
       "name": "Seu Rol\u00ea",
       "url": "https://open.spotify.com/track/2Y8liP3ppwsrk1OArUkeVh"

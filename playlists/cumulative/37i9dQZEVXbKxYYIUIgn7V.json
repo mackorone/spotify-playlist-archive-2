@@ -4501,6 +4501,24 @@
     },
     {
       "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "album": {
         "name": "Back to Black (Afro Edit)",
         "url": "https://open.spotify.com/album/0uMgvzWuca0VNES0J54E0m"
       },
@@ -5538,6 +5556,24 @@
       "duration_ms": 204936,
       "name": "Bbl Drizzy",
       "url": "https://open.spotify.com/track/39zWzcFnV4yVcl8fH3MZbe"
+    },
+    {
+      "album": {
+        "name": "The Chris Rainbow Anthology",
+        "url": "https://open.spotify.com/album/3uJ0vJKjo6059nVpcQGpLC"
+      },
+      "artists": [
+        {
+          "name": "Chris Rainbow",
+          "url": "https://open.spotify.com/artist/0CnHF3fzueVi59nz8fdwcl"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240773,
+      "name": "Be Like a Woman",
+      "url": "https://open.spotify.com/track/41IZazdHzQOB9ZlvReDzgR"
     },
     {
       "album": {
@@ -18855,6 +18891,24 @@
     },
     {
       "album": {
+        "name": "Generation Z",
+        "url": "https://open.spotify.com/album/4sa62Ru9aFRvZPzCrlA8gC"
+      },
+      "artists": [
+        {
+          "name": "HWZ",
+          "url": "https://open.spotify.com/artist/7JrwW0qqL3V7LBTyHTrHIT"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212363,
+      "name": "Generation Z",
+      "url": "https://open.spotify.com/track/5ylClqJDNlNXI3yUlcMjR7"
+    },
+    {
+      "album": {
         "name": "Fritz & the Downhill Gang",
         "url": "https://open.spotify.com/album/6vQ5GqijDE1iM3o8fdZoh2"
       },
@@ -20216,7 +20270,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 175790,
       "name": "Gute Laune",
       "url": "https://open.spotify.com/track/6ogNEis5cmjtWmhTfb85aI"
@@ -22188,7 +22242,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 132608,
       "name": "Herz",
       "url": "https://open.spotify.com/track/6z0kKKHiOoAN8vDYdGFTLu"
@@ -43070,7 +43124,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 181448,
       "name": "Schaukelpferd",
       "url": "https://open.spotify.com/track/7psH4sJy3YeNzTNnbQthjX"
@@ -45634,10 +45688,28 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 180582,
       "name": "Someone Out Of Town",
       "url": "https://open.spotify.com/track/4QrE7JVAi54WYRTO4y0yKb"
+    },
+    {
+      "album": {
+        "name": "Terukir Di Bintang",
+        "url": "https://open.spotify.com/album/7aB1a1ifJVpp2bfbTQkCLa"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181173,
+      "name": "Someone Out of Town",
+      "url": "https://open.spotify.com/track/3Tb6RlqXPldaQVasxc68cP"
     },
     {
       "album": {
@@ -52310,7 +52382,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 132000,
       "name": "Versatile (Super Slowed)",
       "url": "https://open.spotify.com/track/192JplmkRbucqhEYUsreVt"
@@ -58102,6 +58174,24 @@
       "duration_ms": 211677,
       "name": "\u5927\u5c55\u9d3b\u5716(Blueprint Supreme)",
       "url": "https://open.spotify.com/track/0hEWvzkgbI301JZj947gFz"
+    },
+    {
+      "album": {
+        "name": "\u5f25\u6e21\u5c71\u6b4c (Midu Echoing)",
+        "url": "https://open.spotify.com/album/1DyUpmEtcnpQmaxFvNdRLr"
+      },
+      "artists": [
+        {
+          "name": "YANGYINYUE",
+          "url": "https://open.spotify.com/artist/51xakPscggv7Qxu020Q4pj"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "\u5f25\u6e21\u5c71\u6b4c (Midu Echoing)",
+      "url": "https://open.spotify.com/track/5FeR50ZqILXczkSZ0MocL0"
     },
     {
       "album": {

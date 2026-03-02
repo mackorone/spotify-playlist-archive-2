@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Minister GUC
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,440 likes - 80 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,497 likes - 80 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

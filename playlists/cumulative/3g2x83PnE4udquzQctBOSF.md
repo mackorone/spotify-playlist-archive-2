@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-507 songs - 1 day 6 hr 48 min
+508 songs - 1 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -449,6 +449,7 @@
 | [The Chant](https://open.spotify.com/track/5YgEBkuwbKpSU14XiVkG59) | [Danner \(US\)](https://open.spotify.com/artist/3AuIQd8biRyI5g4FiwO8AI) | [The Chant](https://open.spotify.com/album/5y0nLRNNz8vBAHueIu6gsx) | 2:51 | 2023-01-29 | 2023-02-20 |
 | [The Feeling](https://open.spotify.com/track/3rDHqwEaW1imPZrNngMJaY) | [Joax](https://open.spotify.com/artist/6ZVtX2xT5iMoNqDrKZDy1R) | [The Feeling](https://open.spotify.com/album/48V4icljZR1aRguBSyKNU8) | 3:43 | 2026-01-14 | 2026-02-23 |
 | [The Funktion](https://open.spotify.com/track/5npl72FBCav1cwDDvQlMnt) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Mike Cervello](https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3) | [The Funktion](https://open.spotify.com/album/7r4rUHrAmjArs1NUKOJaOS) | 3:28 | 2023-11-26 | 2024-02-05 |
+| [The Lantern](https://open.spotify.com/track/6k3RupZgMFmF7YywVEzmSZ) | [Protonyk effe](https://open.spotify.com/artist/6DCF1QIF6We2qC725gMLKN) | [The Lantern](https://open.spotify.com/album/4P1CdA5eMSgGFzLaA5nm4P) | 6:19 | 2026-03-01 |  |
 | [The Movement](https://open.spotify.com/track/7Iv0WsLicswjnu8giaN2Wn) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [The Movement](https://open.spotify.com/album/5XGUdgMXArjFNlckLB5jUC) | 3:04 | 2023-04-30 | 2023-05-23 |
 | [The Mumble](https://open.spotify.com/track/1oQkhEfJrxUxFIMGlUMr9O) | [Groove Aspect](https://open.spotify.com/artist/6y0pzhdHu0IQAmqbbg6dhd) | [The Mumble](https://open.spotify.com/album/63xMbYrGDTZ2GTwG96AZch) | 3:46 | 2023-04-09 | 2023-04-24 |
 | [The Rose](https://open.spotify.com/track/1uIQ895GDy3q9NlMu14pI7) | [Bruno Costa](https://open.spotify.com/artist/3yxmvN8rSmNEfyTCC7FaA2) | [Paradise](https://open.spotify.com/album/4UWUFqTM4G2XZCigKozMqY) | 3:32 | 2026-02-18 | 2026-02-23 |

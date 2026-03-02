@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C5zJGrQEji.md) - [plain]
 
 > Tracks crediting NATURE support its conservation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,609 likes - 61 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,626 likes - 61 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

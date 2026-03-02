@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,762 likes - 452 songs - 1 day 1 hr 0 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,764 likes - 452 songs - 1 day 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,15 +143,15 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 133 | [Bingo](https://open.spotify.com/track/7x9gGMQc0Q5ddWtgLOyJfV) | [Grant Winters](https://open.spotify.com/artist/4dqbT6NZ6Nq5qpQhx64fTz) | [Bingo](https://open.spotify.com/album/6IyNkP7Go7I1CXvwtpDW3l) | 3:27 |
 | 134 | [Looking at Houses](https://open.spotify.com/track/3xcLSGRBIfEOy301fQWTEo) | [Tim Carr](https://open.spotify.com/artist/67cH5nZMWo6kEHH2EGtrfa) | [Pleasure Drives](https://open.spotify.com/album/1U7RsvrXFCFncmpL84RvFi) | 4:05 |
 | 135 | [AIR IT](https://open.spotify.com/track/0rYTZQQTpxO5dmssLOmXYi) | [Boshe](https://open.spotify.com/artist/2qFtSSi6zc8jGg8P1CXyAl) | [AIR IT](https://open.spotify.com/album/0FI4JA6v3AYKD7faoXSJeF) | 3:17 |
-| 136 | [Bigfoot](https://open.spotify.com/track/6LPUQBMNn1cmWSiNDwLA5j) | [dnhm](https://open.spotify.com/artist/2HXcHaEZW9BqODzbQrLtbh) | [Bigfoot](https://open.spotify.com/album/0loQ0es1gmoeTWEabl5IN5) | 3:17 |
-| 137 | [Venetian Day](https://open.spotify.com/track/4oKpDfMkg8M9FVhRMT5voG) | [Coward Syndrome](https://open.spotify.com/artist/0QTa6kfKv7BXeTTxR4JPAf), [Sofia Anastasio](https://open.spotify.com/artist/7qex82ykQRgr6YeOUwxV0d), [Alexandra Anastasio](https://open.spotify.com/artist/4SHxTrp1ZncEfiPsaxOqku) | [Venetian Day](https://open.spotify.com/album/3T2H8SJyO06Kp000W9WKmR) | 3:21 |
-| 138 | [Fool Moon \(Cruised\) Feat\. PWNT](https://open.spotify.com/track/00MoF31O7qLE0l2RgDTc9e) | [Crash Richard](https://open.spotify.com/artist/4CeM6k6L6z36r0xhteyfXF), [Kosta G](https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v) | [Sensitive Devil](https://open.spotify.com/album/0hF3vg1hOA3WXpsePqKV3S) | 3:51 |
-| 139 | [Homesick Dream](https://open.spotify.com/track/7puE8Al8ROxTbwF3fYqJqB) | [Brady Only](https://open.spotify.com/artist/6qUO6LWvTfEo3YPUmEgxOp) | [Dog Year Hum](https://open.spotify.com/album/0juzVBVaKfQvWCHDJy1FHq) | 2:56 |
-| 140 | [angel](https://open.spotify.com/track/3C7n1FGHok8KuOFOFMAT2W) | [offering field](https://open.spotify.com/artist/2FPlGSW8N52xcPx2yxZrBm) | [hand reaching through flames](https://open.spotify.com/album/3Px6bMGUNXUA38x3TxVZ3e) | 3:26 |
-| 141 | [Stay](https://open.spotify.com/track/7ovQvZFcOoqbU78k9NvSoH) | [laceleaf](https://open.spotify.com/artist/3nU7dTTqO4ErB9Bb0HMQXn) | [Richie](https://open.spotify.com/album/1gN0j08dqi1v0amBmEkjUJ) | 3:08 |
-| 142 | [Fly Away](https://open.spotify.com/track/6N7kR64unjAKBgnYDNOhIX) | [Girlfriend Wife](https://open.spotify.com/artist/7zvFSAz5RYFZcNQyHixDDM) | [Fly Away](https://open.spotify.com/album/0kaoBkP2qYkCfVfCYTuoPW) | 3:24 |
-| 143 | [Brain Like Computer](https://open.spotify.com/track/0teTw4nNk3NTRHBjEisM5R) | [Mia June](https://open.spotify.com/artist/3nGsiPPwDm3hNizqMYxtRi) | [Brain Like Computer](https://open.spotify.com/album/3jV5wbvciajt9etOlaT3x0) | 2:30 |
-| 144 | [The Mirror](https://open.spotify.com/track/1eguFDzYrQJbQaXrnLrTAg) | [Rooster](https://open.spotify.com/artist/0LUNFShhDJByoEEnW8cxLR) | [Rooster Slipped](https://open.spotify.com/album/6PDmhPhilCrAdCi0KV1O7Y) | 2:31 |
+| 136 | [The Mirror](https://open.spotify.com/track/1eguFDzYrQJbQaXrnLrTAg) | [Rooster](https://open.spotify.com/artist/0LUNFShhDJByoEEnW8cxLR) | [Rooster Slipped](https://open.spotify.com/album/6PDmhPhilCrAdCi0KV1O7Y) | 2:31 |
+| 137 | [Bigfoot](https://open.spotify.com/track/6LPUQBMNn1cmWSiNDwLA5j) | [dnhm](https://open.spotify.com/artist/2HXcHaEZW9BqODzbQrLtbh) | [Bigfoot](https://open.spotify.com/album/0loQ0es1gmoeTWEabl5IN5) | 3:17 |
+| 138 | [Venetian Day](https://open.spotify.com/track/4oKpDfMkg8M9FVhRMT5voG) | [Coward Syndrome](https://open.spotify.com/artist/0QTa6kfKv7BXeTTxR4JPAf), [Sofia Anastasio](https://open.spotify.com/artist/7qex82ykQRgr6YeOUwxV0d), [Alexandra Anastasio](https://open.spotify.com/artist/4SHxTrp1ZncEfiPsaxOqku) | [Venetian Day](https://open.spotify.com/album/3T2H8SJyO06Kp000W9WKmR) | 3:21 |
+| 139 | [Fool Moon \(Cruised\) Feat\. PWNT](https://open.spotify.com/track/00MoF31O7qLE0l2RgDTc9e) | [Crash Richard](https://open.spotify.com/artist/4CeM6k6L6z36r0xhteyfXF), [Kosta G](https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v) | [Sensitive Devil](https://open.spotify.com/album/0hF3vg1hOA3WXpsePqKV3S) | 3:51 |
+| 140 | [Homesick Dream](https://open.spotify.com/track/7puE8Al8ROxTbwF3fYqJqB) | [Brady Only](https://open.spotify.com/artist/6qUO6LWvTfEo3YPUmEgxOp) | [Dog Year Hum](https://open.spotify.com/album/0juzVBVaKfQvWCHDJy1FHq) | 2:56 |
+| 141 | [angel](https://open.spotify.com/track/3C7n1FGHok8KuOFOFMAT2W) | [offering field](https://open.spotify.com/artist/2FPlGSW8N52xcPx2yxZrBm) | [hand reaching through flames](https://open.spotify.com/album/3Px6bMGUNXUA38x3TxVZ3e) | 3:26 |
+| 142 | [Stay](https://open.spotify.com/track/7ovQvZFcOoqbU78k9NvSoH) | [laceleaf](https://open.spotify.com/artist/3nU7dTTqO4ErB9Bb0HMQXn) | [Richie](https://open.spotify.com/album/1gN0j08dqi1v0amBmEkjUJ) | 3:08 |
+| 143 | [Fly Away](https://open.spotify.com/track/6N7kR64unjAKBgnYDNOhIX) | [Girlfriend Wife](https://open.spotify.com/artist/7zvFSAz5RYFZcNQyHixDDM) | [Fly Away](https://open.spotify.com/album/0kaoBkP2qYkCfVfCYTuoPW) | 3:24 |
+| 144 | [Brain Like Computer](https://open.spotify.com/track/0teTw4nNk3NTRHBjEisM5R) | [Mia June](https://open.spotify.com/artist/3nGsiPPwDm3hNizqMYxtRi) | [Brain Like Computer](https://open.spotify.com/album/3jV5wbvciajt9etOlaT3x0) | 2:30 |
 | 145 | [Honey](https://open.spotify.com/track/15moOiZOg3X02cdg9MVElH) | [Sister.](https://open.spotify.com/artist/3QooTofa3QjkPWjB7sMHCY) | [Two Birds](https://open.spotify.com/album/3XK27r3GGdbvu8WIfkPbv7) | 3:29 |
 | 146 | [bloom](https://open.spotify.com/track/0aGzRg92Ljbn8qN9HTPsVe) | [zahra](https://open.spotify.com/artist/1h1IjwNyhq5LNt51pkcj7S) | [arrival](https://open.spotify.com/album/5BEzFxmEcGH9NXE5tiswHW) | 4:12 |
 | 147 | [cusp](https://open.spotify.com/track/75ClClPDUhi54Kfxwz4hVr) | [palefire](https://open.spotify.com/artist/01N7ZSqz6Y7sqngr4xsTYY) | [cusp](https://open.spotify.com/album/235C5QAdzKufd4doabWWun) | 2:27 |
@@ -461,4 +461,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 451 | [All Of Our Friends](https://open.spotify.com/track/7LDPJapt5Y0ugPR9ysUHw2) | [Emily Hines](https://open.spotify.com/artist/2ickW99aviSnUfDMsxpIOX) | [These Days](https://open.spotify.com/album/73oXwYKn7SWXBHCsDlQyLc) | 4:56 |
 | 452 | [Long Winter](https://open.spotify.com/track/2D9DREwIEEfpMBOmPi9SEM) | [Saintseneca](https://open.spotify.com/artist/5x3hUNIfDPxP1Kr0ZaGs64) | [Highwalllow & Supermoon Songs](https://open.spotify.com/album/1nErVBr1RSfaetOQpqXbVP) | 3:50 |
 
-Snapshot ID: `AAAw+M+yGcNXpPPRhPXdazG9TAD3Hr2J`
+Snapshot ID: `AAAw+moWR3i66AYpK6DDPZ7m4CT/wHl9`

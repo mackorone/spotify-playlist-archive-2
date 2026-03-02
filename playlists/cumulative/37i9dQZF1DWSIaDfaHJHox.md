@@ -2,7 +2,7 @@
 
 ### [Best of British](https://open.spotify.com/playlist/37i9dQZF1DWSIaDfaHJHox)
 
-> All great, all British.
+> Cover: Sam Fender and Olivia Dean at The BRITs 2026
 
 274 songs - 17 hr 56 min
 

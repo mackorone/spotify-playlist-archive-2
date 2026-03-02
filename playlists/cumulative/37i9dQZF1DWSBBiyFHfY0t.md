@@ -2,7 +2,7 @@
 
 ### [Frolic](https://open.spotify.com/playlist/37i9dQZF1DWSBBiyFHfY0t)
 
-> For frolicking joyously, freely and theatrically in this world.
+> Cover: Rosalía at The BRITs 2026
 
 138 songs - 8 hr 45 min
 

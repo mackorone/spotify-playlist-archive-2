@@ -520,7 +520,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 187422,
       "name": "30 Mil Pies",
       "url": "https://open.spotify.com/track/6A8ZNt71PS4PuBtxbdXV0L"
@@ -1952,7 +1952,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 241880,
       "name": "Amor Completo",
       "url": "https://open.spotify.com/track/00kIWJu9IHiQ6i0qJAU0Z9"
@@ -2026,7 +2026,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 207333,
       "name": "Am\u00e1rrame",
       "url": "https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln"
@@ -2934,7 +2934,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-01",
+      "date_removed": null,
       "duration_ms": 144705,
       "name": "BAILAME ASI",
       "url": "https://open.spotify.com/track/2XsNvTXYuCNCoz94bPBrPB"
@@ -14286,7 +14286,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 248499,
       "name": "La de la mala suerte (feat. Pablo Albor\u00e1n)",
       "url": "https://open.spotify.com/track/4QVCx0T2eF2gZb1jcvvxy3"
@@ -16028,10 +16028,36 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 222318,
       "name": "LO QUE TU PIDAS",
       "url": "https://open.spotify.com/track/4LWGYeVIH2uWNGY227walv"
+    },
+    {
+      "album": {
+        "name": "LO QUE T\u00da PIDAS",
+        "url": "https://open.spotify.com/album/04g0MZApKaD6ierW24qs8o"
+      },
+      "artists": [
+        {
+          "name": "Kreamly",
+          "url": "https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk"
+        },
+        {
+          "name": "Tobal Mj",
+          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
+        },
+        {
+          "name": "Baby Jey",
+          "url": "https://open.spotify.com/artist/5Oq7EwA4wS5J6L4hYtf9Tk"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222318,
+      "name": "LO QUE T\u00da PIDAS",
+      "url": "https://open.spotify.com/track/5fKb9vC0HYr636KQnRAEUq"
     },
     {
       "album": {
@@ -18724,7 +18750,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 159404,
       "name": "mi refe",
       "url": "https://open.spotify.com/track/4zhk2RS2EZODmBW6il55Qj"
@@ -21778,6 +21804,28 @@
       "duration_ms": 210906,
       "name": "Pachuco",
       "url": "https://open.spotify.com/track/6MKlKwZ8R4BBfAtvAqDAfV"
+    },
+    {
+      "album": {
+        "name": "PALETA - REMIX",
+        "url": "https://open.spotify.com/album/2dm65ElGWwKmxsvZ7Nww8l"
+      },
+      "artists": [
+        {
+          "name": "Plox",
+          "url": "https://open.spotify.com/artist/62SDpKzU9fECZG82LALByM"
+        },
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153230,
+      "name": "PALETA - REMIX",
+      "url": "https://open.spotify.com/track/0Q4CsujXMRyOusybdlIedM"
     },
     {
       "album": {
@@ -24910,17 +24958,17 @@
       },
       "artists": [
         {
-          "name": "Taiu",
-          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
-        },
-        {
           "name": "Milo j",
           "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Taiu",
+          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
         }
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 128677,
       "name": "Rara Vez",
       "url": "https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR"
@@ -25318,7 +25366,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 200526,
       "name": "Resentia",
       "url": "https://open.spotify.com/track/2ANtIUI9cipWNI685VdlZb"
@@ -27076,7 +27124,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 251360,
       "name": "SI EST\u00c1S CON ALGUIEN",
       "url": "https://open.spotify.com/track/7nyk5uxevcijIfl1FlJgmA"
@@ -27452,7 +27500,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 202333,
       "name": "Si T\u00fa Me Quisieras",
       "url": "https://open.spotify.com/track/7EySX8ldJHoeWjJhJyZ8Tq"
@@ -29742,7 +29790,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-01",
+      "date_removed": null,
       "duration_ms": 225000,
       "name": "Tiene",
       "url": "https://open.spotify.com/track/1KfiYYMCZkP7no8DdkXFDl"
@@ -30274,7 +30322,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 169622,
       "name": "Troka",
       "url": "https://open.spotify.com/track/5AchK5XMO4AwN99yYcDPQc"
@@ -30620,7 +30668,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-01",
+      "date_removed": null,
       "duration_ms": 155000,
       "name": "TU Y YO",
       "url": "https://open.spotify.com/track/2tZNPwTLefIc2hUasTohfB"

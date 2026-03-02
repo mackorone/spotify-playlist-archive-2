@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 
 > New and approved indie pop\. Cover: Ally Evenson
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,673,848 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,673,778 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 99 | [Promise](https://open.spotify.com/track/7fVzvxyIZtUKB85yjGHdXK) | [People I’ve Met](https://open.spotify.com/artist/0IDpTcrUiflR4OMeFA2Qwi) | [Promise](https://open.spotify.com/album/2dabxlmiE2lPhYvNEB7yGl) | 3:34 |
 | 100 | [Dandelion](https://open.spotify.com/track/1dvYCfO9EXPJCXvksXV8iu) | [New Constellations](https://open.spotify.com/artist/5WF5jtgP0H31QTl5g4WxW9) | [Dandelion](https://open.spotify.com/album/3LPzHubHMTywYtKhF1beHW) | 4:03 |
 
-Snapshot ID: `AAAAAKcRCPDhQGxM1ASg1phnogawYZiL`
+Snapshot ID: `AAAAAJIhiDNzPNNeDz/jwGegb5oU5708`

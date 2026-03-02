@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,280 likes - 119 songs - 6 hr 44 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,281 likes - 120 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,5 +127,6 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 117 | [Could It Be Love](https://open.spotify.com/track/0lfjkpY9AZq0Qs2Bwn09tu) | [James A\. Rocco](https://open.spotify.com/artist/6smo6fpEJijfZN27dFbaoL), [Heidi Karol Johnson](https://open.spotify.com/artist/4ySm3RS7l7jOfxpLZ3UPN0) | [Could It Be Love](https://open.spotify.com/album/4ddfDIzblId9xdTm0oK3Oz) | 3:57 |
 | 118 | [Verão Cruel](https://open.spotify.com/track/3BORXQvI9R94IK4gxy0KcV) | [Henry Key](https://open.spotify.com/artist/0fFowNydSeaku95nJbHodn) | [Verão Cruel](https://open.spotify.com/album/4LNUrXvE4Mm4o1CIkl9WIF) | 3:27 |
 | 119 | [All The Time](https://open.spotify.com/track/7E2MmQgEzRorBQZYx853RD) | [Tathan](https://open.spotify.com/artist/02MtYbPPmiILqyRJ8ftJfV) | [All The Time](https://open.spotify.com/album/5kEJxEoZytKnaoQpr76M73) | 2:34 |
+| 120 | [Midnight Train](https://open.spotify.com/track/75ndxPSgPcezSP8xz2UuSb) | [RayOrbit](https://open.spotify.com/artist/1kG8I34nBNWoXtkp53JdT2) | [Midnight Train](https://open.spotify.com/album/6ia67fR6ixurUa0oysyGXn) | 4:50 |
 
-Snapshot ID: `AAARD+HpeNLl44Me/XnePNEeAWzZ9gSQ`
+Snapshot ID: `AAAREFWgndPz2Rn5PMKyAvUdhD8q2LRm`

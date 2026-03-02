@@ -3885,6 +3885,32 @@
     },
     {
       "album": {
+        "name": "Andamento Lento (feat. Tullio De Piscopo)",
+        "url": "https://open.spotify.com/album/2SbSbxX8KaXElM5Xsc9HXn"
+      },
+      "artists": [
+        {
+          "name": "LDA",
+          "url": "https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf"
+        },
+        {
+          "name": "Aka 7even",
+          "url": "https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc"
+        },
+        {
+          "name": "Tullio De Piscopo",
+          "url": "https://open.spotify.com/artist/677NtrMPiyPumrSUs8lBKk"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210199,
+      "name": "Andamento Lento (feat. Tullio De Piscopo)",
+      "url": "https://open.spotify.com/track/0OZMRO5yuxhVwQ3MPxll8h"
+    },
+    {
+      "album": {
         "name": "Andrea",
         "url": "https://open.spotify.com/album/1mbwNDgFojWsQfJCN46Izm"
       },
@@ -13968,7 +13994,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 178000,
       "name": "CULO",
       "url": "https://open.spotify.com/track/3MI1TeWMJqhWuZtpjn0SZX"
@@ -17922,6 +17948,28 @@
       "duration_ms": 161773,
       "name": "EMIRATES",
       "url": "https://open.spotify.com/track/4ERO7nWPAAGo687R3gF4PZ"
+    },
+    {
+      "album": {
+        "name": "En e Xanax (feat. Alfa)",
+        "url": "https://open.spotify.com/album/21khkz9aiVp6ONEQEK9GWh"
+      },
+      "artists": [
+        {
+          "name": "Enrico Nigiotti",
+          "url": "https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c"
+        },
+        {
+          "name": "Alfa",
+          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212271,
+      "name": "En e Xanax (feat. Alfa)",
+      "url": "https://open.spotify.com/track/24y5rDZTffJ8k4woQ14T9i"
     },
     {
       "album": {
@@ -25818,7 +25866,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 167100,
       "name": "Il meglio di me",
       "url": "https://open.spotify.com/track/4cvOQtYVSPe1Tv4T4R34IC"
@@ -28552,7 +28600,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 211453,
       "name": "L'Amore Non Mi Basta",
       "url": "https://open.spotify.com/track/01PuEcSSxP84CO9yaXtsyp"
@@ -28570,7 +28618,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 211453,
       "name": "L'Amore Non Mi Basta",
       "url": "https://open.spotify.com/track/1YaSQXYPqhwtw35Wf3Z0nI"
@@ -28919,6 +28967,28 @@
     },
     {
       "album": {
+        "name": "CHE ME NE FACCIO DEL TEMPO",
+        "url": "https://open.spotify.com/album/42c9ej2lRcmIKqTNUQR50R"
+      },
+      "artists": [
+        {
+          "name": "Mara Sattei",
+          "url": "https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk"
+        },
+        {
+          "name": "Mecna",
+          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173806,
+      "name": "l'ultimo bacio",
+      "url": "https://open.spotify.com/track/1kgApnSI6d3TrbqGzBAyGo"
+    },
+    {
+      "album": {
         "name": "FAME",
         "url": "https://open.spotify.com/album/1cE5vEGVNAYXOJkrrwqu3P"
       },
@@ -29114,6 +29184,28 @@
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
+    },
+    {
+      "album": {
+        "name": "La canzone dell'amore perduto (feat. Joan Thiele)",
+        "url": "https://open.spotify.com/album/3TPZzCtmJRINHOGq84DWS3"
+      },
+      "artists": [
+        {
+          "name": "nayt",
+          "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
+        },
+        {
+          "name": "Joan Thiele",
+          "url": "https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196060,
+      "name": "La canzone dell'amore perduto (feat. Joan Thiele)",
+      "url": "https://open.spotify.com/track/37TW8WIet2l0xkxQTuj4MT"
     },
     {
       "album": {
@@ -30674,7 +30766,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 188709,
       "name": "Laguna",
       "url": "https://open.spotify.com/track/0L7oxMR89ji7A6htHnPR8L"
@@ -34026,7 +34118,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 184720,
       "name": "MANIFESTAZIONE D'AMORE",
       "url": "https://open.spotify.com/track/5Ydf2WBhw0PVcvqJtpXNAw"
@@ -35170,6 +35262,32 @@
       "duration_ms": 168266,
       "name": "Meravigliosa (feat. Stadio)",
       "url": "https://open.spotify.com/track/0M6Rh4nTaxVJefzV9IAVFq"
+    },
+    {
+      "album": {
+        "name": "MERAVIGLIOSA CREATURA",
+        "url": "https://open.spotify.com/album/6GmH8lGmLyu2ypz93AjvxY"
+      },
+      "artists": [
+        {
+          "name": "Fedez",
+          "url": "https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i"
+        },
+        {
+          "name": "Marco Masini",
+          "url": "https://open.spotify.com/artist/0kcOfjhVfDMTS09s9aLmuD"
+        },
+        {
+          "name": "HAUSER",
+          "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "MERAVIGLIOSA CREATURA",
+      "url": "https://open.spotify.com/track/4WvurZy0QYcgX4pyPvxTee"
     },
     {
       "album": {
@@ -38390,7 +38508,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 183902,
       "name": "Nei miei DM",
       "url": "https://open.spotify.com/track/2CvhzdXKzJ90JQj6iLg5qI"
@@ -38600,7 +38718,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 223834,
       "name": "Nessuna",
       "url": "https://open.spotify.com/track/5bhYjElbPmm2FyB0PxP8Wd"
@@ -40324,7 +40442,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 187698,
       "name": "Non \u00e8 mica te",
       "url": "https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD"
@@ -41982,7 +42100,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 222706,
       "name": "Opera",
       "url": "https://open.spotify.com/track/4OiSgru8ScEiHkrL9nThQl"
@@ -47075,6 +47193,28 @@
     },
     {
       "album": {
+        "name": "Quello che le donne non dicono",
+        "url": "https://open.spotify.com/album/6E6eoFQ3dcncKWf4fc0d6I"
+      },
+      "artists": [
+        {
+          "name": "Arisa",
+          "url": "https://open.spotify.com/artist/25x6MD0spNNS7z93Sat30K"
+        },
+        {
+          "name": "Coro del Teatro Regio di Parma",
+          "url": "https://open.spotify.com/artist/4Nhabt8M1m0ZoAmw72NG10"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220234,
+      "name": "Quello che le donne non dicono",
+      "url": "https://open.spotify.com/track/1xrQXLdFY7X0WaaBwRV4bS"
+    },
+    {
+      "album": {
         "name": "Ritorno Al Futuro / Back To The Future",
         "url": "https://open.spotify.com/album/5XJrvRd0dxcLiSs2HHONPn"
       },
@@ -47112,7 +47252,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 216098,
       "name": "Questa domenica",
       "url": "https://open.spotify.com/track/1VX2LLBpUPS2QJVou4WGz3"
@@ -55526,6 +55666,28 @@
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+    },
+    {
+      "album": {
+        "name": "The Lady Is A Tramp",
+        "url": "https://open.spotify.com/album/3GhV5cngIMyxQ432KUhEgI"
+      },
+      "artists": [
+        {
+          "name": "Ditonellapiaga",
+          "url": "https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l"
+        },
+        {
+          "name": "TonyPitony",
+          "url": "https://open.spotify.com/artist/07yfI2D37Ir0pGQ8huDd4j"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132231,
+      "name": "The Lady Is A Tramp",
+      "url": "https://open.spotify.com/track/6yrwLR7cV6DifWyO1diYFe"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-166 songs - 10 hr 15 min
+168 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Anytime Now](https://open.spotify.com/track/4ZmS5SLnbKNO1w5t4yei5d) | [Mike West](https://open.spotify.com/artist/4tTpvmcly5XOlMrMkx9RpF), [Myshkin](https://open.spotify.com/artist/6m0XoeEadMkDHRFSwjPMAM) | [Econoline](https://open.spotify.com/album/2qxqx6hKvsq8bORLJY2fwf) | 2:44 | 2025-12-14 | 2026-02-01 |
 | [Apricot Tree](https://open.spotify.com/track/25BqmDMjXSxGAgY6UHCDiv) | [Myshkin's Ruby Warblers](https://open.spotify.com/artist/2tY7jyyLc3NFIEUcXK0lMF) | [Choice Blooms](https://open.spotify.com/album/6plVIfUeOqZvVUjWSgova4) | 3:30 | 2026-02-08 | 2026-02-27 |
 | [Are You Satisfied?](https://open.spotify.com/track/3D9Dbubc334fzEbcu2h1pi) | [Mixed Signals](https://open.spotify.com/artist/63fTqiDjAtUbSkGYkiv1Ts) | [Are You Satisfied?](https://open.spotify.com/album/6k0grUQD7y9UxumSaX0pp7) | 4:21 | 2026-02-01 | 2026-02-09 |
-| [Ariel Angelo](https://open.spotify.com/track/34iRrsao8eXZSQ41HqfM4L) | [Mike West](https://open.spotify.com/artist/4tTpvmcly5XOlMrMkx9RpF), [Myshkin](https://open.spotify.com/artist/6m0XoeEadMkDHRFSwjPMAM) | [Econoline](https://open.spotify.com/album/2qxqx6hKvsq8bORLJY2fwf) | 3:01 | 2025-12-14 |  |
+| [Ariel Angelo](https://open.spotify.com/track/34iRrsao8eXZSQ41HqfM4L) | [Mike West](https://open.spotify.com/artist/4tTpvmcly5XOlMrMkx9RpF), [Myshkin](https://open.spotify.com/artist/6m0XoeEadMkDHRFSwjPMAM) | [Econoline](https://open.spotify.com/album/2qxqx6hKvsq8bORLJY2fwf) | 3:01 | 2025-12-14 | 2026-03-02 |
 | [At Nathan's House](https://open.spotify.com/track/41etUdAj7MZz7x7s7VP3DS) | [Clay Rings](https://open.spotify.com/artist/3tr227jMYMc1Qygz3A4Unp) | [At Nathan's House](https://open.spotify.com/album/2cOtM6OudVEX5xJe9ooAEO) | 3:49 | 2025-12-26 |  |
 | [Baby I've Got It](https://open.spotify.com/track/1HtjINsvc7zbq8HbYdGPp5) | [Florence Jack](https://open.spotify.com/artist/4pmpDqVKHxD5w8lCH7vCvv) | [Love Heist](https://open.spotify.com/album/74WfiAauEFf8nMY6WAeARN) | 3:39 | 2025-11-30 | 2026-02-02 |
 | [Bad Habits](https://open.spotify.com/track/3Xa8IgwILvTWDkgukI8qJm) | [Oceanless](https://open.spotify.com/artist/4yqBdaK0VWZGdwhwHHEBk8) | [JADED](https://open.spotify.com/album/3bFIkrKtLvf8UqGnvuzKDB) | 4:55 | 2025-11-16 | 2025-11-24 |
@@ -90,6 +90,7 @@
 | [I Don't Want War \(I Want Beauty Today\)](https://open.spotify.com/track/2zXZ98Ag5IZV9vO5s1O2BX) | [Calum Baird](https://open.spotify.com/artist/04J4L4jowMcqbzD05TnGGk) | [I Don't Want War \(I Want Beauty Today\)](https://open.spotify.com/album/3CjGweamksIxEGyaswQL7h) | 3:05 | 2026-01-09 |  |
 | [I Feel Fine](https://open.spotify.com/track/6jhf0Wr4YPPq5V7L4x2PNk) | [The Demographic](https://open.spotify.com/artist/1krGl2BYNGaEmOnkOBor7L) | [I Feel Fine](https://open.spotify.com/album/01be9wmq5IkRSH2oo5CRal) | 2:23 | 2025-11-23 | 2026-02-02 |
 | [I'm Not A Robot](https://open.spotify.com/track/4wFzMwyYhjGeG6aYNHBo9p) | [Lewis Wiles](https://open.spotify.com/artist/5NE6yiNIyVj0T8tWCFbT4G) | [I'm Not A Robot](https://open.spotify.com/album/1Yn8FAXPUpHQXbNZGXDzmR) | 3:28 | 2025-11-16 | 2026-02-02 |
+| [I'm Ready](https://open.spotify.com/track/1v0ZbkSDNAINz6edJ8c98i) | [Roll & Record](https://open.spotify.com/artist/5lH2PFt1LLM2nj1EmWD4c3), [William Spring](https://open.spotify.com/artist/1KHePv52aC3FTiql2VIGYs), [Wends](https://open.spotify.com/artist/32VlnqGtNSLCYgYhAGl99a) | [The Hidden Treasures of William Spring](https://open.spotify.com/album/0RJOx59ZqXwqVIKzOcykMv) | 3:30 | 2026-03-01 |  |
 | [I've Got You](https://open.spotify.com/track/5kFURYaEWjegfVvTq9b42C) | [San Jose](https://open.spotify.com/artist/4S7RqxJANGm2g4AmBQuCJr) | [I've Got You](https://open.spotify.com/album/4PVOuBiBS7B7WuTSgdb15s) | 3:56 | 2025-12-26 | 2026-01-19 |
 | [Iconoclast](https://open.spotify.com/track/6NLpQ3Fea4LUFnC6qqi2V4) | [Sean By Mercy](https://open.spotify.com/artist/2LkECyiaX4X9ICXTzyzXjZ) | [Iconoclast](https://open.spotify.com/album/13z58quQJvPbp248LAoegw) | 4:00 | 2025-12-18 | 2026-02-02 |
 | [Insecure](https://open.spotify.com/track/5MqWKIoNpV1TnLVTvk58GU) | [Homegrownalwaysbest](https://open.spotify.com/artist/3EwGYKjWb6aQXjammXz7T7), [Jam](https://open.spotify.com/artist/2HcIDnavebY2T024UsfDUt) | [Vol 1 \(Experience, Strength and Broke\)](https://open.spotify.com/album/01z5Nb8LDu6uuBixU3mozy) | 3:38 | 2026-02-02 |  |
@@ -129,6 +130,7 @@
 | [Portals](https://open.spotify.com/track/4AV3czCZP4cT0ybTfn5fVG) | [BRSR](https://open.spotify.com/artist/5xNIOeyc7NSNxIeJF10pxE) | [Portals](https://open.spotify.com/album/02MVKCOqzKb0HoWxAWoSSk) | 5:19 | 2026-02-01 |  |
 | [Posers](https://open.spotify.com/track/5lDo83ASWT5BkJQtXPUmdh) | [Doss](https://open.spotify.com/artist/3csu8AxiaJammKmr2EPtSe) | [Posers](https://open.spotify.com/album/6WzoIYNawmqYwNFzZQOlTP) | 2:42 | 2026-01-11 | 2026-01-17 |
 | [Resolve](https://open.spotify.com/track/3RpfSH6LHxSmobNd50FZo4) | [Socialites](https://open.spotify.com/artist/6viYhJ4Hkq8WrahWIOO1HR) | [Resolve](https://open.spotify.com/album/3OCIIDu3Yv1PfisV8LPHmL) | 4:37 | 2025-11-16 | 2025-12-01 |
+| [Roots Gal Party](https://open.spotify.com/track/2MKtXR1IJruRE4dOosk8fE) | [Wends](https://open.spotify.com/artist/32VlnqGtNSLCYgYhAGl99a), [Escape Roots](https://open.spotify.com/artist/4Bb1EZadKGt9ULjvthamKf) | [Roots Gal Party](https://open.spotify.com/album/5GRQZ2hEGGIueWNMfOXsk0) | 3:40 | 2026-03-01 |  |
 | [Roses](https://open.spotify.com/track/5xLKMsU6RoJ8Gg10vsuxVO) | [brittle](https://open.spotify.com/artist/6nTGjlKzh92A8qlAwQ0clg) | [Roses](https://open.spotify.com/album/3h8yWxYigpNvZIRuZJgPXg) | 4:21 | 2026-02-01 |  |
 | [Ruminate](https://open.spotify.com/track/1nbAu0nIYnUuHPe8HV3vEh) | [Holly Powers](https://open.spotify.com/artist/5hpguBehXryNSjOW2TioWx) | [Ruminate](https://open.spotify.com/album/6MCuoYZhj5mQsgySvwtWdU) | 4:13 | 2026-02-01 | 2026-02-09 |
 | [Run Away](https://open.spotify.com/track/4V0OaH2WJGf5iuDlQQAqju) | [Flair](https://open.spotify.com/artist/2FDBZdGWn8G6927XKL6cd4) | [Flair](https://open.spotify.com/album/2AfdH1P3nAPnYSzXBBplim) | 3:20 | 2025-11-16 | 2026-02-02 |

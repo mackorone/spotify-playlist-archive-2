@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Mitski
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,182 likes - 147 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,176 likes - 147 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,13 +1,29 @@
 {
   "description": "In the mood for live Christian and Gospel music? This is the one. Cover: Kaestrings",
-  "num_followers": 45066,
+  "num_followers": 45108,
   "original_name": "Live Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIwsqTkc2yPYgKObW9dmhKv6guca",
+  "snapshot_id": "AAAAALuBBJgmOEvwaxi8BRZMCqSyA+fB",
   "tracks": [
+    {
+      "added_at": "2026-03-01 10:41:34",
+      "album": {
+        "name": "Amin (Amen) [Live]",
+        "url": "https://open.spotify.com/album/382YTaePZFxxLrqMg0D9KO"
+      },
+      "artists": [
+        {
+          "name": "BBO",
+          "url": "https://open.spotify.com/artist/2uaQ0i7hnhD1rRwDOSCkOd"
+        }
+      ],
+      "duration_ms": 551218,
+      "name": "Amin (Amen) - Live",
+      "url": "https://open.spotify.com/track/6jR6lM1TVcAYq2MnKNaadJ"
+    },
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {

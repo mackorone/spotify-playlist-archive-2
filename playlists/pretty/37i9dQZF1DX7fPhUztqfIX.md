@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: Chandler Moore
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,222 likes - 99 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,245 likes - 99 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 98 | [Get His Good](https://open.spotify.com/track/4nWLjXYVdJCozhxxd4NYy8) | [Southeast Worship](https://open.spotify.com/artist/48Cxaiqses3N5qczr2RJ99), [Lindsay Buege](https://open.spotify.com/artist/2b0LzhLHm7eD7cqcaLErkm) | [Get His Good](https://open.spotify.com/album/4JdJ7sX6LarsJGKbBgmmPt) | 3:33 |
 | 99 | [Stay Here](https://open.spotify.com/track/0CLHmjEsZ1GQ3pTzCvRamV) | [City Students Worship](https://open.spotify.com/artist/6mGZBhDHH1Ypnwg3VoSD4G), [Kyndall Cowart](https://open.spotify.com/artist/7zUb977dmkv4BOJirMsCwK) | [Stay Here](https://open.spotify.com/album/4p5QyC7qxg5tQDOYbfbKCS) | 4:29 |
 
-Snapshot ID: `AAAAAEWrBJ93vv0qr6tUDgaci/Fiptnt`
+Snapshot ID: `AAAAAG+mKQ7sAuBnes9SnWwWBXyb3qZ+`

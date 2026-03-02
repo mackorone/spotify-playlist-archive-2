@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > new gen alt ⛓ ft\. chalk
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,402 likes - 55 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,378 likes - 55 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 54 | [Skyscrapers Soaring, Yet We're Drowning](https://open.spotify.com/track/45ogCnZm0oHeh9TNh98U6R) | [Poor Bambi](https://open.spotify.com/artist/4GvgWv8CdOC1wDhLx78N7T) | [Skyscrapers Soaring, Yet We're Drowning](https://open.spotify.com/album/0IcB45y3zI9tN4TU7BQRDy) | 3:42 |
 | 55 | [Hair on Coffee](https://open.spotify.com/track/5hKBkozQZ6EykWJawhK5N0) | [Cousines like Shit](https://open.spotify.com/artist/31m36kfWrLAbE0uLkMFBLX), [Farce](https://open.spotify.com/artist/1IOefq76hrfQI27fVDDq7y) | [Hair on Coffee](https://open.spotify.com/album/0cPJmtKNsqpmh6ko412adM) | 3:21 |
 
-Snapshot ID: `AAAAAFE9ItGuK/JX0UrarGwhu8NjGcgS`
+Snapshot ID: `AAAAAJUA/aVGPlqQbXaY6p2mgxwyaEKu`

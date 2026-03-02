@@ -1,12 +1,12 @@
 {
   "description": "This is Rammstein. The essential tracks, all in one playlist.",
-  "num_followers": 1426897,
+  "num_followers": 1426955,
   "original_name": "This Is Rammstein",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaDegAAAAAADuwJVhpJI77zabpgdvtL9",
+  "snapshot_id": "aaIwAAAAAAAKR4czmdvTLFpPf0nibsXe",
   "tracks": [
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 244365,
-      "name": "Zick Zack",
-      "url": "https://open.spotify.com/track/2w7Ca8DNYXBCgA6Bht7o0N"
+      "duration_ms": 278211,
+      "name": "Adieu",
+      "url": "https://open.spotify.com/track/56SLMIzWKrEOWIQ5LCzKXV"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 278211,
-      "name": "Adieu",
-      "url": "https://open.spotify.com/track/56SLMIzWKrEOWIQ5LCzKXV"
+      "duration_ms": 244365,
+      "name": "Zick Zack",
+      "url": "https://open.spotify.com/track/2w7Ca8DNYXBCgA6Bht7o0N"
     },
     {
       "added_at": null,

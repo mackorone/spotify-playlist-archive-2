@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Endelig fredag, endelig ny musik bl.a\. fra APHACA, HUGORM og Bruno Mars ❤️‍🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,652 likes - 93 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,658 likes - 93 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

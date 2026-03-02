@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-362 songs - 20 hr 16 min
+363 songs - 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [Why da World So Mean](https://open.spotify.com/track/0rXBIIjohzuLEQ2FMCa427) | [Kuntry Boi Movement](https://open.spotify.com/artist/00lZvwtVbwHs2FfWQNYnWW), [Jay Creez23](https://open.spotify.com/artist/04s72J53BqDmEd1Fnq3NSB) | [Fine Wine](https://open.spotify.com/album/5AQRASubuxHx5zu9vTags0) | 4:09 | 2026-01-29 |  |
 | [WIFE YOU UP](https://open.spotify.com/track/0Hg2N59MLGTo588NK6DHC9) | [Yenn](https://open.spotify.com/artist/6QRKylVfrExn0cIOQzpAIp), [Mayn](https://open.spotify.com/artist/3Bm2qmss0lQDGCO0NoH2zX), [OhMyGon!](https://open.spotify.com/artist/24Yd7vBTT9pEYgOw9Cs2Pj) | [WIFE YOU UP](https://open.spotify.com/album/2YqQ3pZFbtlgvM0li5R7p0) | 2:18 | 2025-11-10 | 2025-12-01 |
 | [With Me or Not](https://open.spotify.com/track/4HEA6mMR5amsP0cs0zMff3) | [ADAD Audio](https://open.spotify.com/artist/5E6ZCRSMAyeT15BqrWOdy5) | [With Me or Not](https://open.spotify.com/album/0SHyYqd5du5q3RPXchBD6l) | 2:55 | 2026-01-13 | 2026-02-21 |
+| [Without The Kiss](https://open.spotify.com/track/415RGDjNwmsNR7RgUE8VOC) | [Crimson Crow](https://open.spotify.com/artist/7mFL33QnjafnM1J1456vsX) | [Reflection](https://open.spotify.com/album/51Z96Q16vCgmoPsic84Ewf) | 4:46 | 2026-03-01 |  |
 | [Wolves \(Instrumental Version\)](https://open.spotify.com/track/3fPmoZmxjh4b8oJpi7NCeK) | [Open Strum](https://open.spotify.com/artist/1Xh9igcpw9BvisCWyVQ932), [Danny Bourgeois](https://open.spotify.com/artist/0j2o3txfia5ATDt4sPqAnr) | [Open Strum 2](https://open.spotify.com/album/1jIdsJW3n2lfxaP7IQnwko) | 2:07 | 2025-11-03 | 2025-12-01 |
 | [WORK](https://open.spotify.com/track/1oq5IzU37F61XVioGL0DC4) | [Todd & Karen](https://open.spotify.com/artist/2HpxTC13Na9jP0L9z8PneH) | [WORK](https://open.spotify.com/album/25RS5VNu5tyuusZN8stDpE) | 5:03 | 2025-11-08 | 2025-12-01 |
 | [Would You Even Care](https://open.spotify.com/track/1Kj5ue4WKfvkN2OdvRhhQ0) | [CuLP \- Copper Legion Privateers](https://open.spotify.com/artist/6YYAH4jmUPm0Tplnr5ETYF) | [Would You Even Care](https://open.spotify.com/album/5jpoea7gLlGq65YO5vHsO2) | 2:46 | 2025-11-08 | 2025-12-01 |

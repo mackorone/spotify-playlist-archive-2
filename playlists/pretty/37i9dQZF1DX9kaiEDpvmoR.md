@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kaiEDpvmoR.md) - [plain]
 
 > Aktuell musik med etablerade och intressanta artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,810 likes - 89 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,813 likes - 89 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kaiEDpvmoR.md) - [plain]
 | 7 | [Give and Take](https://open.spotify.com/track/7vfRnx1IvMPBjL0EqRGaGk) | [The Ark](https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4) | [Give and Take](https://open.spotify.com/album/4rwAgXIiQgSausvqcxTckO) | 3:22 |
 | 8 | [All My Life](https://open.spotify.com/track/3E1R7Y8GnRHJcLPelaiiWI) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [All My Life](https://open.spotify.com/album/1yz0XQiokSATLkqDCqgBnO) | 3:53 |
 | 9 | [På egna ben \(feat\. Carola\)](https://open.spotify.com/track/6hZlxqZfxucXVRs3lZRhju) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4), [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [På egna ben \(feat\. Carola\)](https://open.spotify.com/album/3JbjxrypmK5nXtxo5Qco3U) | 3:22 |
-| 10 | [Glasshouse](https://open.spotify.com/track/3igailADWMRi9mHKiv7Xo2) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1), [Ingrid](https://open.spotify.com/artist/5MoWNrnyfYT8RgRjEpTROL) | [Glasshouse](https://open.spotify.com/album/5y6ilMb7yPnyeF1kTrZl36) | 3:01 |
+| 10 | [Glasshouse](https://open.spotify.com/track/3igailADWMRi9mHKiv7Xo2) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1), [Ingrid](https://open.spotify.com/artist/3BdrVMEizhOoxjo2tWSiM6) | [Glasshouse](https://open.spotify.com/album/5y6ilMb7yPnyeF1kTrZl36) | 3:01 |
 | 11 | [Göteborg](https://open.spotify.com/track/5wCwRorgVytF1HnOw9IwF9) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Göteborg](https://open.spotify.com/album/71pxG9wcH5tpumzPTrREIK) | 3:48 |
 | 12 | [Ingenting är efter oss](https://open.spotify.com/track/690MIMKpAyUshTiusrgrmn) | [Timo Räisänen](https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP) | [Ingenting är efter oss](https://open.spotify.com/album/5NgyWTgIc8ilxOEL0Cb0kQ) | 3:01 |
 | 13 | [You](https://open.spotify.com/track/0FPUZqLL86z0eGXKgf9J5M) | [Robert Pettersson](https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ) | [You](https://open.spotify.com/album/2n1wJFqBY1KUprIEKnD0tt) | 4:48 |

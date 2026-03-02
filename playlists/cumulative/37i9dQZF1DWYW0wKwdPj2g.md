@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-305 songs - 1 day 17 hr 20 min
+306 songs - 1 day 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Amandla \- Live](https://open.spotify.com/track/1aouk0cuImwh43TboSr12l) | [Brilliant Baloyi](https://open.spotify.com/artist/4WrGUdLd8aQOczzzPZdnuA), [Sesi Rhoda](https://open.spotify.com/artist/5QGDLCb92eloRXUmd9UIGq) | [Amandla \(Live\)](https://open.spotify.com/album/3OoMombUZCPzfif0JtaRPD) | 8:54 | 2025-10-17 | 2025-11-14 |
 | [Amen \- Live](https://open.spotify.com/track/0I4Mtcz94osb6CNmsTV58I) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Pastor E.A Adeboye](https://open.spotify.com/artist/1o9Wsdmi8AIsqBsctcPeM8) | [Amen \(Live\)](https://open.spotify.com/album/543dGL7ntD305dtK6Jx8JB) | 9:07 | 2026-01-02 |  |
 | [Amen \- Live](https://open.spotify.com/track/5vVMTcdrdemhDKYsUeDq3m) | [FRA!](https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN) | [Amen \(Live\)](https://open.spotify.com/album/5jfl39rUw28zJbmYNf3BjA) | 3:20 | 2024-05-10 |  |
+| [Amin \(Amen\) \- Live](https://open.spotify.com/track/6jR6lM1TVcAYq2MnKNaadJ) | [BBO](https://open.spotify.com/artist/2uaQ0i7hnhD1rRwDOSCkOd) | [Amin \(Amen\) \[Live\]](https://open.spotify.com/album/382YTaePZFxxLrqMg0D9KO) | 9:11 | 2026-03-01 |  |
 | [Anesu \(God with us\) \- Live](https://open.spotify.com/track/3ebUYrBfGD2A0dvOxQx6Cc) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Chairo](https://open.spotify.com/artist/1FFHFMUEGwwivLM3rO42ce) | [Anesu \(God with us\) \[Live\]](https://open.spotify.com/album/5GI13g4MbffMBJe8adYamQ) | 11:06 | 2025-02-28 | 2025-04-18 |
 | [Angel](https://open.spotify.com/track/3DnJJUC203F4Ax9UIXyBWB) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ) | [Angel](https://open.spotify.com/album/3CFs1r2mE6fxKunYkTwfHg) | 4:28 | 2024-03-01 | 2025-10-31 |
 | [Anointed \- Live](https://open.spotify.com/track/7mUHPAzP6KgSL87FNStUrX) | [Lily Perez](https://open.spotify.com/artist/4q1WSwssICii8AJOeFd5KD) | [Anointed \(Live\)](https://open.spotify.com/album/3pSL12Bbolej3oW2vPzvoZ) | 10:42 | 2025-02-28 | 2025-03-28 |

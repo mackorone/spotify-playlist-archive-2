@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-332 songs - 20 hr 33 min
+338 songs - 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Cansado del amor](https://open.spotify.com/track/12IELCO5NmSEIk6x8CoDHT) | [Pandino](https://open.spotify.com/artist/0uOaofBqG9uFHU7ksh6huW) | [Soñando Despierto](https://open.spotify.com/album/5MjbVM1gA4q3ioxHxCCdcc) | 2:43 | 2025-12-01 | 2025-12-17 |
 | [Captain Frenchy](https://open.spotify.com/track/4NoRvNC07A2CQey6K73d09) | [Teymur Karimli](https://open.spotify.com/artist/21FB5CWks6Hpc9kc7M2JZw) | [Captain Frenchy](https://open.spotify.com/album/5790XMNa3mSfofFLXkS8HR) | 3:20 | 2025-11-09 |  |
 | [Castaway](https://open.spotify.com/track/7oEXp5pzlZIGafGaAM3ibD) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [Castaway](https://open.spotify.com/album/5omwhRrrco9U57TmhEu1D9) | 3:49 | 2025-12-31 |  |
+| [Caught in the Stillness](https://open.spotify.com/track/2tDI6WG6dRN7dzIgUpT3B3) | [The Hollow Frays](https://open.spotify.com/artist/4p9MmGhxHuh8SEcsOTiU9L) | [Caught in the Stillness](https://open.spotify.com/album/0UQ0WNh2D6S0InS8ETa4v7) | 3:26 | 2026-03-01 |  |
 | [Chasing Yesterday](https://open.spotify.com/track/3pke4JWohWzavXdgJe0wR4) | [FuzzBeat](https://open.spotify.com/artist/3tlQEPigCWjJl4mCY97UYV) | [Chasing Yesterday](https://open.spotify.com/album/2bZ7Mt7GGbp1cB0K355wDw) | 3:20 | 2025-12-31 |  |
 | [Chillin’ on the breakdown lane](https://open.spotify.com/track/3zxaF7GYPsMnGk65APHrn2) | [Billy Zain](https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA) | [Chillin on the breakdown lane](https://open.spotify.com/album/2vSEepJdDbIcqvHArpOiVq) | 3:56 | 2026-01-07 |  |
 | [Cocomama](https://open.spotify.com/track/10kkQ39P3LF5U4owFUW1D5) | [Pituf Project](https://open.spotify.com/artist/1JZT0UPEFA7lPu94SzUqWh) | [Perception Altérée](https://open.spotify.com/album/6y1AIZMakzsN8OTTiq29zg) | 4:14 | 2025-09-01 |  |
@@ -108,6 +109,7 @@
 | [ESTOY VIEJA](https://open.spotify.com/track/4vhQqf3mGxPEdM4X85GWkL) | [Elisa Cano Elgarresta](https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6) | [ESTOY VIEJA](https://open.spotify.com/album/38HjyGTf0kKd67brXPPMd1) | 2:40 | 2026-02-09 |  |
 | [Eternal Flame](https://open.spotify.com/track/1knJt03nwMagF4TfJOrirK) | [Marcus O'Neill](https://open.spotify.com/artist/0woLT8rQMi0nFQ4iQHiS8J) | [Eternal Flame](https://open.spotify.com/album/1So5y8r0qzeuYtR4PWkNvB) | 2:14 | 2025-09-28 | 2025-12-17 |
 | [Faded Sun](https://open.spotify.com/track/4yoShDFZqFOsrXTdUzxpz6) | [OberTonic](https://open.spotify.com/artist/0D2hc3aCon3HUemLWIj2pR) | [Faded Sun](https://open.spotify.com/album/6Nj3qWQMCdy0Z9kNwhLiYq) | 3:05 | 2025-11-29 | 2025-12-17 |
+| [Faith Over Follows](https://open.spotify.com/track/4KwSpONS6uS35pBJDXDXJd) | [Walker Lawrence](https://open.spotify.com/artist/65CIRBacIF3DEkVgBZ9YFC) | [Faith Over Follows](https://open.spotify.com/album/5JS5m0MeKrmj1VMZgkdd6Z) | 4:29 | 2026-03-01 |  |
 | [Fallin' Up](https://open.spotify.com/track/6K0AByZlnuW2t9iuV4ntBg) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [New West](https://open.spotify.com/album/7iwcTjYekrnEr3CM1J8TIS) | 3:11 | 2025-12-04 | 2025-12-17 |
 | [Finding You](https://open.spotify.com/track/5jCpLxpsNUM2QU7sa5FuLO) | [Casey Bloom](https://open.spotify.com/artist/3Yp2AG1A20FQbUtNqed1rq) | [Casey Bloom \- EP](https://open.spotify.com/album/2lQ4xbUEr2B6EbIrBrd5MK) | 3:16 | 2025-11-25 | 2025-12-17 |
 | [Fine](https://open.spotify.com/track/1acTG3McucI4PvWXxjGwoV) | [Brian Wolff](https://open.spotify.com/artist/5tW2IMfCtMzMHLij0PlQht) | [Fine](https://open.spotify.com/album/0wxCT2YorPsh4VKkei1jfP) | 4:10 | 2025-10-02 | 2025-12-17 |
@@ -160,6 +162,7 @@
 | [La Reina del Edredón](https://open.spotify.com/track/03bw13qxffSu8DlwkJhoXi) | [David Send](https://open.spotify.com/artist/31MXafStikNQHwXXa2h61m) | [Nuevo Camino](https://open.spotify.com/album/2xzviDRmrzORM3lWhxuBDT) | 2:30 | 2025-11-03 | 2025-12-17 |
 | [La Viuda Negra](https://open.spotify.com/track/1CO5E6IQSLp9ydxXTejgsF) | [Jacohard](https://open.spotify.com/artist/45nuUPQYKnVDrW6KyCfUtq), [AQUILES LAGP](https://open.spotify.com/artist/7pMAl2FZdDwU1Xz09sxaFB) | [La Viuda Negra](https://open.spotify.com/album/4FGDOVvHuGWm8jMqY1mtYv) | 2:40 | 2026-01-19 |  |
 | [Lady Mazikeen](https://open.spotify.com/track/7bmkoBCsL2IE4cr1PL8ill) | [Woda Woda](https://open.spotify.com/artist/5TUs575Aa9RDMJUPWdPEiI) | [Lady Mazikeen](https://open.spotify.com/album/502ix0vLyJcnVHoBRr1jkc) | 3:40 | 2026-01-03 |  |
+| [Last Goodbye](https://open.spotify.com/track/5SdEoelq5gFFHzpxGeqi1W) | [Softcase](https://open.spotify.com/artist/2nqXZfwOxBVcKjVa7pYdC8) | [Last Goodbye](https://open.spotify.com/album/52T9LF5wyA24Vz0qI7C5SE) | 3:17 | 2026-03-01 |  |
 | [Laureano Gómez era un Triplehijueputa](https://open.spotify.com/track/72fbAsOKHLH4OOCBS76GTE) | [Los Pixeles de Warhol](https://open.spotify.com/artist/1S8T8aWGgXAp4IefMclzuP) | [Laureano Gómez era un Triplehijueputa](https://open.spotify.com/album/2x9Q84jE5RA0h6DbLnqlyK) | 4:11 | 2026-01-03 |  |
 | [Leave](https://open.spotify.com/track/24eQ0gaztPwAT44pHozFI5) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Leave](https://open.spotify.com/album/2CadloDYbh46qgdzOWfoQ0) | 3:08 | 2025-11-10 | 2025-12-17 |
 | [Leave IT \| MJ Unofficial Tribute](https://open.spotify.com/track/5ODzg3yxWLI4JfMM6Py2Wv) | [STTAP](https://open.spotify.com/artist/28gjHgZscJjNrIiBaKiodS) | [Leave IT \| MJ Unofficial Tribute](https://open.spotify.com/album/28z8XJcaUV623xWpJbPepW) | 2:35 | 2025-12-18 |  |
@@ -172,6 +175,7 @@
 | [Little Bit Closer](https://open.spotify.com/track/41ibNw69vc7EOi6jv9EqEU) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Why Not Take A Chance](https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey) | 2:54 | 2025-10-30 | 2025-12-17 |
 | [Little Girl](https://open.spotify.com/track/62lgxs50xzYUAjFLPTgfPj) | [Ryan Hanifl](https://open.spotify.com/artist/1AuTC05dE8pv2qIT1hIjMD) | [Sourpuss](https://open.spotify.com/album/6hQSWrkqdDJ1fRDxKw6jTM) | 4:13 | 2025-10-05 | 2025-11-28 |
 | [Love Bomb Me](https://open.spotify.com/track/7qZgGW3dEySJaU9aXgQmn9) | [Who's Amber?](https://open.spotify.com/artist/1k1JkZDYdPfGr7sMhuzReV) | [Love Bomb Me](https://open.spotify.com/album/0Ht9x8uHVCDnGVG8yYiT1a) | 4:02 | 2025-10-04 | 2025-12-17 |
+| [LOVE CRY](https://open.spotify.com/track/1jZitmjNQnvi4bIAMaa6ED) | [The Morning Sons](https://open.spotify.com/artist/5Q0x4IVSxDcFgOwgyikTwD) | [LOVE CRY](https://open.spotify.com/album/1igVBGMLk0OiqaWjhFp1uV) | 5:15 | 2026-03-01 |  |
 | [Love dont live here no more](https://open.spotify.com/track/46ddaPksuVwz9I1I0MELlU) | [Ario Nanaj](https://open.spotify.com/artist/3oxKAakkUQ02MoRb5Z6qrq) | [Echos From The Mountains](https://open.spotify.com/album/06rsDsZw8cpL50L92qtRmT) | 4:25 | 2026-01-27 |  |
 | [Love is Alive](https://open.spotify.com/track/37cN267Fk7TmCieQb9ew9U) | [Hoss Carl](https://open.spotify.com/artist/5OTamahcB1uXMerWExIRol) | [Love is Alive](https://open.spotify.com/album/6i1jTWMfDp49yt9uRBCAQf) | 4:05 | 2025-11-24 | 2025-12-17 |
 | [LTK](https://open.spotify.com/track/44Qqn1dhvDng9pLPANoRGh) | [Steve Schwartz](https://open.spotify.com/artist/0rFuKciUQDbtEQmQ6XJ4YQ) | [LTK](https://open.spotify.com/album/3j7jt2dabJflTVhsgznvVO) | 3:52 | 2025-12-22 |  |
@@ -249,6 +253,7 @@
 | [Rise Above](https://open.spotify.com/track/309LwauvrDOeNJRMuE0Imu) | [Gut\-Scrapers](https://open.spotify.com/artist/1aelV1MURttvVkO7W4SSDa) | [Twelve Rays](https://open.spotify.com/album/7FSxxUop7f29sNP8qfCSzg) | 4:21 | 2026-01-19 |  |
 | [River](https://open.spotify.com/track/0X4XWWpcEIMZImTqO6Qzwr) | [Modarn](https://open.spotify.com/artist/21dNZRQ8rilyedhVEXFjkU) | [Dive In](https://open.spotify.com/album/4KaFd9rQ7YC0PWpNS14w99) | 4:06 | 2026-01-22 |  |
 | [Road home](https://open.spotify.com/track/3vWWVcx1tuc841jkIC7WHb) | [JJ Llombart](https://open.spotify.com/artist/3nUhOA1UIN29SP7hggslu9) | [Road home](https://open.spotify.com/album/0UMHEvnwS5ybVhdTXu4444) | 4:48 | 2026-01-27 |  |
+| [Rock N Roll From Tennessee](https://open.spotify.com/track/0U4A63dSoHUsX852Akvxki) | [The Red Light](https://open.spotify.com/artist/60BwxiCPsunxkkYMXZGCAu) | [Stories From The Working Class](https://open.spotify.com/album/0uROJoEp9NJ0YdzbQfpyRd) | 3:34 | 2026-03-01 |  |
 | [Rollin' + Twistin'](https://open.spotify.com/track/2CCdd0Lo1B5BY8N2ctOFNQ) | [Gypsy Cowboys](https://open.spotify.com/artist/4myRhM03KuiFw1dOSSkAdM) | [Rollin' + Twistin'](https://open.spotify.com/album/5zMH9tVYPrNuer03CoUjit) | 3:24 | 2026-01-03 |  |
 | [Ruines](https://open.spotify.com/track/5k0EsA3WldipVOOZhUkhQr) | [good afternoon](https://open.spotify.com/artist/51AUWbI67m6qAMG9NCZDJ2) | [City pilgrim](https://open.spotify.com/album/3LPAMLVRB4F46OcQUBq6SA) | 2:11 | 2025-11-25 | 2025-12-17 |
 | [Run Run Rudolf](https://open.spotify.com/track/2DOb4zdUX9Y2i82w2M0g2Y) | [Amelina](https://open.spotify.com/artist/2KB8CcoEbyUA0hP58619Iu) | [Season of Joy](https://open.spotify.com/album/7eu9Q8J8RkTsB2NwbrhL94) | 2:26 | 2025-12-30 |  |
@@ -325,6 +330,7 @@
 | [Werewolves of London](https://open.spotify.com/track/0zYtpXjgqkKKQOpsl3y9qE) | [Highway Wolf](https://open.spotify.com/artist/6WKdYl11XpIoIGJCV6AeXE) | [Werewolves of London](https://open.spotify.com/album/3hKZcu4BOd9ZP8knghvahJ) | 4:24 | 2025-11-06 | 2025-12-17 |
 | [What I Need](https://open.spotify.com/track/4Pyo1AIDTHsEXJnyDc5Ew1) | [The Fading Wish](https://open.spotify.com/artist/5sy66wBuZP3PpDgArbuItr) | [What I Need](https://open.spotify.com/album/6D24DlYbh2JJUPrxbKPaMo) | 2:42 | 2025-11-26 | 2025-12-17 |
 | [What I Need from You](https://open.spotify.com/track/0AWDRo8aeuR6JBfc15g0wj) | [Byron Walker](https://open.spotify.com/artist/48aPWjDPQcizEOJHQ8ghcJ) | [What I Need from You](https://open.spotify.com/album/3DgJSlbyGOLwkfF6DFr4SE) | 5:19 | 2025-10-04 | 2025-12-17 |
+| [When i see you again](https://open.spotify.com/track/2P9poLLH4lyqJX6Ym8W2ce) | [drew mado](https://open.spotify.com/artist/2wSPHPho5VMaJehm6VIywZ) | [Journey without destination](https://open.spotify.com/album/6sTSgNYjdWf7tSe2LMPlrk) | 3:29 | 2026-03-01 |  |
 | [Where Is My Home](https://open.spotify.com/track/7BOq5JrhLVdKlBoqzLJRij) | [Shao Hao](https://open.spotify.com/artist/2XTN7HUsm5XQJg6i3DGQHn) | [Where Is My Home](https://open.spotify.com/album/53o3hU2tzVnuhEzxi0smMY) | 2:54 | 2026-01-11 |  |
 | [Whispers In The Dark'](https://open.spotify.com/track/0SvJPW7oWVCviUYaoAB1NP) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Whispers In The Dark'](https://open.spotify.com/album/77Yz4HqNoeydxq5d4aYfJp) | 3:54 | 2025-12-08 |  |
 | [White Tiger Chronicles 2024](https://open.spotify.com/track/504hlNAOuRyHUNvCwS3npu) | [MR Smith Group \(MSG\)](https://open.spotify.com/artist/6l9p3JaA6pQ8siip0fOxNM) | [White Tiger Chronicles 2024](https://open.spotify.com/album/5RSm9WADXmIjIztIGvzNEg) | 4:42 | 2026-02-05 |  |

@@ -183,6 +183,24 @@
     },
     {
       "album": {
+        "name": "Amin (Amen) [Live]",
+        "url": "https://open.spotify.com/album/382YTaePZFxxLrqMg0D9KO"
+      },
+      "artists": [
+        {
+          "name": "BBO",
+          "url": "https://open.spotify.com/artist/2uaQ0i7hnhD1rRwDOSCkOd"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 551218,
+      "name": "Amin (Amen) - Live",
+      "url": "https://open.spotify.com/track/6jR6lM1TVcAYq2MnKNaadJ"
+    },
+    {
+      "album": {
         "name": "Anesu (God with us) [Live]",
         "url": "https://open.spotify.com/album/5GI13g4MbffMBJe8adYamQ"
       },

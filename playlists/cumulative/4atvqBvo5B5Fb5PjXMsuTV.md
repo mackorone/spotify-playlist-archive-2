@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date\. Updated 28 Feb 19:10 UTC.
+> Latest popular single releases\. Sorted by release date\. Updated 01 Mar 09:10 UTC.
 
-6,327 songs - 14 day 16 hr 2 min
+6,328 songs - 14 day 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -720,6 +720,7 @@
 | [Blueberry Syrup](https://open.spotify.com/track/6qJiJZ9aeorNSFiWMAIFBg) | [Twelve'len](https://open.spotify.com/artist/0G57ms4DD5dn6wXwuFOLdO), [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc), [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Blueberry Syrup](https://open.spotify.com/album/3IB1E648JnENA7Z3wJkuwk) | 3:25 | 2024-10-21 | 2024-10-24 |
 | [BLUEPRINTS FOR IDOL GENOCIDE](https://open.spotify.com/track/1Jr9NlooITJqwUd8aJdmYB) | [PSYCHO\-FRAME](https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR) | [BLUEPRINTS FOR IDOL GENOCIDE](https://open.spotify.com/album/2YCZtOSfnNefFFun4RYwKO) | 3:40 | 2025-05-21 | 2025-05-31 |
 | [Blues](https://open.spotify.com/track/7nGhBjDpYtI7jJ5Tel9jDt) | [Geordie Greep](https://open.spotify.com/artist/65Msz2E34NUtbjEbsrsJlJ) | [Blues](https://open.spotify.com/album/17MCK1RRgBwKzmOLioiap3) | 5:42 | 2024-10-01 | 2024-10-04 |
+| [Blunt Force Blues](https://open.spotify.com/track/7sxzXYrcCVnMnqCxBwCXLN) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Blunt Force Blues](https://open.spotify.com/album/6JSSK9vSJUabyLGFhdnMEG) | 4:11 | 2026-03-01 |  |
 | [Blur My Memory](https://open.spotify.com/track/0xTodmdnb8ShqovneD0GEy) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Blur My Memory](https://open.spotify.com/album/1CzJzus4zgnwjfksYKCop6) | 2:39 | 2024-05-13 | 2024-05-15 |
 | [Blurred \- Twitch Tapes](https://open.spotify.com/track/1UTm2IATfGWWIbTC9sAxi2) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Blurred \(Twitch Tapes\)](https://open.spotify.com/album/0boHCCaNSl6NHCWRBAK1ZY) | 1:45 | 2024-12-20 | 2025-01-10 |
 | [Bluu Fuzz](https://open.spotify.com/track/3J4v6Fh96P9BeRXHr0Z8DP) | [Marigold](https://open.spotify.com/artist/1qxMrN7GOPfiFkC8H0rKh6) | [Bluu Fuzz](https://open.spotify.com/album/1ClGq8uXuUMAXoWhjcwxBn) | 2:50 | 2024-07-24 | 2024-07-27 |
@@ -3110,7 +3111,7 @@
 | [LAZER SLAVA](https://open.spotify.com/track/6dctGQ6CXQ5tl4jqDHHq1H) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [Slava KPSS](https://open.spotify.com/artist/7fMhppMTr3ElTOEJqSbkEq) | [LAZER SLAVA](https://open.spotify.com/album/1TDLY1lHNyevKQkEgjrspc) | 1:55 | 2024-09-13 | 2024-09-18 |
 | [Lazy Sod](https://open.spotify.com/track/4HHOsyrXFH2dB3ySFGIfpf) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Lazy Sod](https://open.spotify.com/album/7MpBUXAl2vo4ODN9kdpVT9) | 3:40 | 2024-07-03 | 2024-07-06 |
 | [LCA](https://open.spotify.com/track/2UnBCcS2IhYdOzh3ACOnSS) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [LCA](https://open.spotify.com/album/5kp76qchpeMxS0EmeOdNkv) | 2:39 | 2025-04-04 | 2025-04-14 |
-| [le cose che non sai di me](https://open.spotify.com/track/2XVaLBILDwmtR876otQkpg) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [le cose che non sai di me](https://open.spotify.com/album/60St94B0YIRu0Ja3xxwe2k) | 3:24 | 2026-02-25 |  |
+| [le cose che non sai di me](https://open.spotify.com/track/2XVaLBILDwmtR876otQkpg) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [le cose che non sai di me](https://open.spotify.com/album/60St94B0YIRu0Ja3xxwe2k) | 3:24 | 2026-02-25 | 2026-03-02 |
 | [le fou dans la voiture](https://open.spotify.com/track/3k9cQZ3IX3uUbtaScug3t5) | [Terrenoire](https://open.spotify.com/artist/6AiHXHMryCtGFBEnjB17aA) | [le fou dans la voiture](https://open.spotify.com/album/59WkRQu423vEroErMVws4h) | 2:46 | 2024-12-13 | 2024-12-15 |
 | [Le goût des mangues](https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Le goût des mangues](https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK) | 2:12 | 2024-10-10 | 2024-10-11 |
 | [Le Leyenda del Tiempo](https://open.spotify.com/track/5iEUJ2SPJfUBNTRcks1Zes) | [Gogol Bordello](https://open.spotify.com/artist/2SVw939fwuqSobLjF8u78b), [Vadim Kolpakov](https://open.spotify.com/artist/0yTPTMy6RbMVOAFnfxGfFA) | [La Leyenda Del Tiempo](https://open.spotify.com/album/5FV9S1x4dx3VjBcFSvYk86) | 3:43 | 2024-10-08 | 2024-10-11 |

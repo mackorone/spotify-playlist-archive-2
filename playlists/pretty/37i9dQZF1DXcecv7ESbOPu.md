@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Ida\-Lova, Bruno Mars och Søte & Rare med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,115 likes - 102 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,109 likes - 102 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 55 | [Ingrid The Sailor](https://open.spotify.com/track/5V9bApk9HtwwkZcULg3uUB) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J), [Yttling Jazz](https://open.spotify.com/artist/0sHY32geV56IzTbEEomMFG) | [Ingrid The Sailor](https://open.spotify.com/album/0vFgnBArl5j3o9EOGKIxAY) | 4:11 |
 | 56 | [Like God Intended](https://open.spotify.com/track/1dPKGWxMILRedoNtjUa8mh) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Like God Intended](https://open.spotify.com/album/3M5QPvH82Rj2aMxe5dlvp1) | 2:56 |
 | 57 | [Over My Head](https://open.spotify.com/track/3tffqhqjhbLMfefbsMupgL) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Over My Head](https://open.spotify.com/album/3Qxms75iFFEBACANdN1nns) | 2:30 |
-| 58 | [Glasshouse](https://open.spotify.com/track/3igailADWMRi9mHKiv7Xo2) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1), [Ingrid](https://open.spotify.com/artist/5MoWNrnyfYT8RgRjEpTROL) | [Glasshouse](https://open.spotify.com/album/5y6ilMb7yPnyeF1kTrZl36) | 3:01 |
+| 58 | [Glasshouse](https://open.spotify.com/track/3igailADWMRi9mHKiv7Xo2) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1), [Ingrid](https://open.spotify.com/artist/3BdrVMEizhOoxjo2tWSiM6) | [Glasshouse](https://open.spotify.com/album/5y6ilMb7yPnyeF1kTrZl36) | 3:01 |
 | 59 | [All Of It Now](https://open.spotify.com/track/3exzGjyEWjVfHvqKgclPwE) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [All Of It Now](https://open.spotify.com/album/2aQOFp3PNTfxsptIkS6zSp) | 3:06 |
 | 60 | [For Real](https://open.spotify.com/track/1tkmqwlYF7fsRUPCQZ7kzp) | [Joel Nordenberg](https://open.spotify.com/artist/1gA3JTuDyNLoU0KwrrQVZW) | [Påväg](https://open.spotify.com/album/0FWDD5IjxJFocpncjcOa2t) | 2:10 |
 | 61 | [made it another year](https://open.spotify.com/track/4ECUmFGRJR7Kp6Ki29oUKJ) | [Binky Blaise](https://open.spotify.com/artist/6wVXRQ64TTR22g2J34DfO7) | [made it another year](https://open.spotify.com/album/0E32LV3VjnKNmBcixgayDg) | 4:36 |

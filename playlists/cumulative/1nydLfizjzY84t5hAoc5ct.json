@@ -168,7 +168,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 181586,
       "name": "Ariel Angelo",
       "url": "https://open.spotify.com/track/34iRrsao8eXZSQ41HqfM4L"
@@ -1589,6 +1589,32 @@
     },
     {
       "album": {
+        "name": "The Hidden Treasures of William Spring",
+        "url": "https://open.spotify.com/album/0RJOx59ZqXwqVIKzOcykMv"
+      },
+      "artists": [
+        {
+          "name": "Roll & Record",
+          "url": "https://open.spotify.com/artist/5lH2PFt1LLM2nj1EmWD4c3"
+        },
+        {
+          "name": "William Spring",
+          "url": "https://open.spotify.com/artist/1KHePv52aC3FTiql2VIGYs"
+        },
+        {
+          "name": "Wends",
+          "url": "https://open.spotify.com/artist/32VlnqGtNSLCYgYhAGl99a"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210754,
+      "name": "I'm Ready",
+      "url": "https://open.spotify.com/track/1v0ZbkSDNAINz6edJ8c98i"
+    },
+    {
+      "album": {
         "name": "I've Got You",
         "url": "https://open.spotify.com/album/4PVOuBiBS7B7WuTSgdb15s"
       },
@@ -2328,6 +2354,28 @@
       "duration_ms": 277161,
       "name": "Resolve",
       "url": "https://open.spotify.com/track/3RpfSH6LHxSmobNd50FZo4"
+    },
+    {
+      "album": {
+        "name": "Roots Gal Party",
+        "url": "https://open.spotify.com/album/5GRQZ2hEGGIueWNMfOXsk0"
+      },
+      "artists": [
+        {
+          "name": "Wends",
+          "url": "https://open.spotify.com/artist/32VlnqGtNSLCYgYhAGl99a"
+        },
+        {
+          "name": "Escape Roots",
+          "url": "https://open.spotify.com/artist/4Bb1EZadKGt9ULjvthamKf"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220531,
+      "name": "Roots Gal Party",
+      "url": "https://open.spotify.com/track/2MKtXR1IJruRE4dOosk8fE"
     },
     {
       "album": {

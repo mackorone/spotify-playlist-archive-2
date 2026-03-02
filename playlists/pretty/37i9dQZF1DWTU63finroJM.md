@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 ### [RADAR Global ](https://open.spotify.com/playlist/37i9dQZF1DWTU63finroJM)
 
-> Meet the future of music around the world\. Cover: Fernanda Díaz
+> Meet the future of music around the world\. Cover: wane
 
 [Spotify](https://open.spotify.com/user/spotify) - 84,784 likes - 37 songs - 1 hr 55 min
 

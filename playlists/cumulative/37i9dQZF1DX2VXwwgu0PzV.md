@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Natalie Okri & TBabz
 
-1,560 songs - 3 day 10 hr 55 min
+1,561 songs - 3 day 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [ALL THE TIME](https://open.spotify.com/track/56YasbqXFzP3ErHyhLtn26) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [ALL THE TIME](https://open.spotify.com/album/51tsjSE6RzCUli9QafZsH2) | 2:48 | 2024-05-10 | 2024-07-27 |
 | [All the way](https://open.spotify.com/track/4lvZurxRtbkepGI9yE1YRw) | [ANOWI Noah](https://open.spotify.com/artist/46F10sHrFACpiNeOrXxnSY), [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG) | [All the way](https://open.spotify.com/album/65E6vK16UeRhr3yBFU78oX) | 2:20 | 2023-06-23 | 2023-07-07 |
 | [All Things Are Possible \(Live\)](https://open.spotify.com/track/4mEl4NNDrzWLXC60nVlvnM) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Great Grace Music](https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN) | [All Things Are Possible \(Live\)](https://open.spotify.com/album/5zAoHldAVbalTRk851wI1S) | 4:30 | 2024-04-12 | 2024-07-27 |
+| [Alleluia](https://open.spotify.com/track/401mrYPv21Zs2USsU6bauy) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [Alleluia](https://open.spotify.com/album/4nVUeDkkqCnhG8hQ8sLvVO) | 4:23 | 2026-03-01 |  |
 | [Alone](https://open.spotify.com/track/1aJb5rl14uELMauKzgjW0v) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Alone](https://open.spotify.com/album/3lFBphC8ENBweBOgbrCwwl) | 2:43 | 2023-08-11 | 2023-10-21 |
 | [Alone](https://open.spotify.com/track/2Im4gW7xrTDqQFOIjxkb7j) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Decagon](https://open.spotify.com/album/5zcepYAcGr8m0YEmd9k3kl) | 2:43 | 2023-10-13 | 2025-08-22 |
 | [Already Blessed \(Edm Vibe\)](https://open.spotify.com/track/5eb1ldbYuU2duprz0cmpkq) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Chidiya O](https://open.spotify.com/artist/7qtt3wp4JSWg9BqVsP1a1J) | [Summer Vibes \(AB Remixed\)](https://open.spotify.com/album/4ZdXjUBQNq281ICrSpFP3V) | 2:36 | 2024-05-17 | 2024-08-23 |

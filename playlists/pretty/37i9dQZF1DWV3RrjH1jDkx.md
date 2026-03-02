@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Bausa, Ingrid Vårvik, Arif, Makosir og mange flere!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,306 likes - 111 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,311 likes - 111 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 105 | [Miami Crest](https://open.spotify.com/track/5BWL1daZx8NkFETSMAWm4q) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Miami Crest](https://open.spotify.com/album/7wddxaFYnH7K0s8aULp0ql) | 2:39 |
 | 106 | [Morning Lights](https://open.spotify.com/track/61n0Dc1PqTb6aOB1VLIJqh) | [Thilda U](https://open.spotify.com/artist/47HqP5i5LLC1m4RpvF317R) | [Morning Lights](https://open.spotify.com/album/5KBbQUDxnGTL5ot1bdDRyZ) | 2:46 |
 | 107 | [EPA TILLS VI DÖR](https://open.spotify.com/track/6ysgj0lONvM1PBQPhT69Vh) | [Silje Bakke](https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c) | [EPA TILLS VI DÖR](https://open.spotify.com/album/0eioIiOkIY2GXfNnSBU1Mj) | 2:25 |
-| 108 | [Glasshouse](https://open.spotify.com/track/3igailADWMRi9mHKiv7Xo2) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1), [Ingrid](https://open.spotify.com/artist/5MoWNrnyfYT8RgRjEpTROL) | [Glasshouse](https://open.spotify.com/album/5y6ilMb7yPnyeF1kTrZl36) | 3:01 |
+| 108 | [Glasshouse](https://open.spotify.com/track/3igailADWMRi9mHKiv7Xo2) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1), [Ingrid](https://open.spotify.com/artist/3BdrVMEizhOoxjo2tWSiM6) | [Glasshouse](https://open.spotify.com/album/5y6ilMb7yPnyeF1kTrZl36) | 3:01 |
 | 109 | [Passelig](https://open.spotify.com/track/0vXMT7qDgObNRAMT46i6NE) | [Iren Reppen](https://open.spotify.com/artist/7fpBcEBHCC0ITnMR1qZ2cs) | [Passelig](https://open.spotify.com/album/4B8j4DuMfn1WDWurf2uEFB) | 3:30 |
 | 110 | [Lita jente på bass](https://open.spotify.com/track/3yA2pHc9NPfzeay6yV4WIi) | [Synnings](https://open.spotify.com/artist/7wbMRUDADde5Cd9ZKs1QeW) | [Lita jente på bass](https://open.spotify.com/album/6NSjXvQfDdIfib6c4hTI7G) | 3:11 |
 | 111 | [Keychain \- FROM THE FILM K\-POPS!](https://open.spotify.com/track/3Q3WZ7sJLoIZQKY7hWFyQu) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Keychain \(FROM THE FILM K\-POPS!\)](https://open.spotify.com/album/58x92u1JINTa5K7lTzfU02) | 2:50 |

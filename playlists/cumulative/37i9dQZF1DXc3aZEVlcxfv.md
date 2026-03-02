@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-554 songs - 1 day 12 hr 58 min
+555 songs - 1 day 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [All Joy](https://open.spotify.com/track/2Gpmj69SvjOvQ8VulFin1O) | [Laolu Adewumi](https://open.spotify.com/artist/4bLvRbw3aelMQlVPBnxFG7) | [All Joy](https://open.spotify.com/album/122hkcSAoi32jiFRRdCtLD) | 2:53 | 2025-03-07 | 2026-02-27 |
 | [All That Matters](https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [The Message](https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd) | 6:10 | 2024-09-27 | 2025-02-28 |
 | [All The Way](https://open.spotify.com/track/5xoTK2L3G7eLbUdHo4TnpU) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Afolake](https://open.spotify.com/artist/6BQJqR87wQhMbTca9VP8H8), [Tite Tunez](https://open.spotify.com/artist/4kkaELRqmzjvexnCIKPyBT) | [All The Way](https://open.spotify.com/album/6UkFSOzDVAsJkXjmOG3iwB) | 3:07 | 2025-06-06 | 2025-09-12 |
+| [Alleluia](https://open.spotify.com/track/401mrYPv21Zs2USsU6bauy) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [Alleluia](https://open.spotify.com/album/4nVUeDkkqCnhG8hQ8sLvVO) | 4:23 | 2026-03-01 |  |
 | [Amazing](https://open.spotify.com/track/4mPdrJA4h0txHWUYQqozw7) | [Nashbi](https://open.spotify.com/artist/73mUf7Xm41sGYVWOMSt9qZ), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Amazing](https://open.spotify.com/album/0aXpeLU03p6F9X1L6k7FVU) | 3:06 | 2025-01-10 | 2025-03-07 |
 | [Amazing](https://open.spotify.com/track/3LPNm4v3yBQouZbLI3oqC5) | [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O), [Debbiie](https://open.spotify.com/artist/6FyetlIUC4TsUoXLZYkct9) | [Amazing](https://open.spotify.com/album/7tIynKtMjFoojTrgk1ilKO) | 2:56 | 2025-07-04 | 2025-11-28 |
 | [Amazing Grace](https://open.spotify.com/track/6eBLUjX5ynH2UT3IdP2gdj) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT) | [Amazing Grace](https://open.spotify.com/album/6Mr0UAJoXUjvQruBEs4qLb) | 2:35 | 2025-03-21 | 2025-05-23 |

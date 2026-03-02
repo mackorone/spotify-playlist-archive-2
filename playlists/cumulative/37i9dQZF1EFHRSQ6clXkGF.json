@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/3oiyCLwqtHTdyiel3686cG"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262826,
+      "name": "A Case of You",
+      "url": "https://open.spotify.com/track/5dGEmvTSg5CxvjY1mX64Hr"
+    },
+    {
+      "album": {
         "name": "Duvet Day Songs",
         "url": "https://open.spotify.com/album/1lMRhtNybZjQXMRwlMaSEO"
       },
@@ -124,7 +142,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 263480,
       "name": "A Case of You",
       "url": "https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1"
@@ -286,10 +304,28 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 214240,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/7jeSFewaQLq8t2x8OZFQxZ"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/3oiyCLwqtHTdyiel3686cG"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214333,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/5LfAKA2gxCevwAPNac1Nqx"
     },
     {
       "album": {
@@ -614,10 +650,28 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 177253,
       "name": "Blue",
       "url": "https://open.spotify.com/track/1yWIsH3TC51gmzvQxZNCQC"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/3oiyCLwqtHTdyiel3686cG"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185373,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/3y6vdoeI4NDlVMoBbu1B4D"
     },
     {
       "album": {
@@ -864,10 +918,28 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 230226,
       "name": "California",
       "url": "https://open.spotify.com/track/5eM6Rrk8rwLpUhrh7Kk5R1"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/3oiyCLwqtHTdyiel3686cG"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231033,
+      "name": "California",
+      "url": "https://open.spotify.com/track/303BVC9OOydzYaXptwymcR"
     },
     {
       "album": {
@@ -952,6 +1024,24 @@
     {
       "album": {
         "name": "Blue",
+        "url": "https://open.spotify.com/album/3oiyCLwqtHTdyiel3686cG"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182693,
+      "name": "Carey",
+      "url": "https://open.spotify.com/track/069yZCP8atux1N8VMKneNi"
+    },
+    {
+      "album": {
+        "name": "Blue",
         "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
       },
       "artists": [
@@ -962,7 +1052,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 182906,
       "name": "Carey",
       "url": "https://open.spotify.com/track/11dUk8E2z8Oj1JURwl7GJd"
@@ -3206,10 +3296,28 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 207506,
       "name": "Little Green",
       "url": "https://open.spotify.com/track/11ZNWD9Xzq9p3n07NbWSZw"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/3oiyCLwqtHTdyiel3686cG"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207666,
+      "name": "Little Green",
+      "url": "https://open.spotify.com/track/5cePSzNcQcVYWEkc8B6VnX"
     },
     {
       "album": {
@@ -3494,10 +3602,28 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 214826,
       "name": "My Old Man",
       "url": "https://open.spotify.com/track/6NQRhp9Vv5RRySazV7ttBl"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/3oiyCLwqtHTdyiel3686cG"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214880,
+      "name": "My Old Man",
+      "url": "https://open.spotify.com/track/71J7YkgrPpSGnLEmrXuQ2Q"
     },
     {
       "album": {
@@ -3978,6 +4104,24 @@
     {
       "album": {
         "name": "Blue",
+        "url": "https://open.spotify.com/album/3oiyCLwqtHTdyiel3686cG"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244986,
+      "name": "River",
+      "url": "https://open.spotify.com/track/6nBI8KbtZEGT5pXJaGZyLg"
+    },
+    {
+      "album": {
+        "name": "Blue",
         "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
       },
       "artists": [
@@ -3988,7 +4132,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 245040,
       "name": "River",
       "url": "https://open.spotify.com/track/0DAmSYQW9kq9gQNDI002KP"
@@ -4824,6 +4968,24 @@
     {
       "album": {
         "name": "Blue",
+        "url": "https://open.spotify.com/album/3oiyCLwqtHTdyiel3686cG"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255461,
+      "name": "The Last Time I Saw Richard",
+      "url": "https://open.spotify.com/track/4NmNJjA1SFbAwpY9O8MlDg"
+    },
+    {
+      "album": {
+        "name": "Blue",
         "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
       },
       "artists": [
@@ -4834,7 +4996,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 256773,
       "name": "The Last Time I Saw Richard",
       "url": "https://open.spotify.com/track/5LZLOOTwrA0HgTszqCgZ3C"

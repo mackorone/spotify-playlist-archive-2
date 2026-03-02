@@ -1,12 +1,12 @@
 {
   "description": "This is Nick Drake. The essential tracks, all in one playlist.",
-  "num_followers": 60749,
+  "num_followers": 60757,
   "original_name": "This Is Nick Drake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaDegAAAAAC/UGmjebvq9qAKHYPfaTP/",
+  "snapshot_id": "aaIwAAAAAACqzwAqOQGCWdVI+W2/MxPX",
   "tracks": [
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 203400,
-      "name": "Mickey\u2019s Tune - Cambridge, Lent Term / 1968",
-      "url": "https://open.spotify.com/track/5YUnQbDO1oaHsW0aHDfqdU"
+      "duration_ms": 137240,
+      "name": "Mayfair - 1st Sound Techniques Session, March / 1968",
+      "url": "https://open.spotify.com/track/5t4Qxd68SqjLVwZKnAPoov"
     },
     {
       "added_at": null,
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 137240,
-      "name": "Mayfair - 1st Sound Techniques Session, March / 1968",
-      "url": "https://open.spotify.com/track/5t4Qxd68SqjLVwZKnAPoov"
+      "duration_ms": 203400,
+      "name": "Mickey\u2019s Tune - Cambridge, Lent Term / 1968",
+      "url": "https://open.spotify.com/track/5YUnQbDO1oaHsW0aHDfqdU"
     },
     {
       "added_at": null,

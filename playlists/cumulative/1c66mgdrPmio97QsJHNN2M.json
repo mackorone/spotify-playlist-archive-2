@@ -2286,7 +2286,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 147301,
       "name": "Black Cat",
       "url": "https://open.spotify.com/track/6dSioFJXazwRx8v0TFKcVX"
@@ -2448,7 +2448,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 158769,
       "name": "Body On Me",
       "url": "https://open.spotify.com/track/3uD74LCzCjXIDq3YvfES8R"
@@ -4428,6 +4428,24 @@
       "duration_ms": 109879,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/3mf54V3ZB3xPP7HE2AHYJ5"
+    },
+    {
+      "album": {
+        "name": "Dear Darling",
+        "url": "https://open.spotify.com/album/5vY4zjcfynqa8QJa87lSvU"
+      },
+      "artists": [
+        {
+          "name": "Veauxgue",
+          "url": "https://open.spotify.com/artist/0ZEvbB2ViUVH9JGLOBLvrM"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Dear Darling",
+      "url": "https://open.spotify.com/track/7mIY7tT2PY78BfYYWvwkAc"
     },
     {
       "album": {
@@ -15668,7 +15686,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 200894,
       "name": "Play it Out",
       "url": "https://open.spotify.com/track/20pHilnC9UnCmfPMeDPM4E"
@@ -16992,7 +17010,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 195032,
       "name": "River Runs Strong",
       "url": "https://open.spotify.com/track/2MP12s2g0uDQghOXIRfNqi"
@@ -19011,6 +19029,24 @@
     },
     {
       "album": {
+        "name": "Near Singleton",
+        "url": "https://open.spotify.com/album/4Grag18jkQ6LbnsxCJ9Q4e"
+      },
+      "artists": [
+        {
+          "name": "4est Fleur",
+          "url": "https://open.spotify.com/artist/1e6iPCtpgbbp5rs49IsDOK"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204962,
+      "name": "Stuck in Amsterdamn - Remaster",
+      "url": "https://open.spotify.com/track/032WydYzKxM1b70cgdefgh"
+    },
+    {
+      "album": {
         "name": "submerged",
         "url": "https://open.spotify.com/album/4tIEYgYE2Au5WwScjqabX2"
       },
@@ -20086,7 +20122,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 179714,
       "name": "The One I've Never Met Who I Long For",
       "url": "https://open.spotify.com/track/5gJiUz1Zvsdg3uxTSmfff2"
@@ -20378,7 +20414,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 201336,
       "name": "The Woman I Have Never Been",
       "url": "https://open.spotify.com/track/1cAgYiSNH4Tw6uaTYycCQ5"
@@ -21084,6 +21120,24 @@
       "duration_ms": 333559,
       "name": "Tropical Freak",
       "url": "https://open.spotify.com/track/60t44DquyB0lnTTSwm3NIY"
+    },
+    {
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/6ewqAVzfQjwl4ZsMPGl79C"
+      },
+      "artists": [
+        {
+          "name": "Sneeky",
+          "url": "https://open.spotify.com/artist/6XyLeD1KALVhSBG7wJGY5n"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247500,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/0kWCZGu4zyza0KEpkFfZl5"
     },
     {
       "album": {
@@ -21990,7 +22044,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 180016,
       "name": "WHAT ONCE WAS",
       "url": "https://open.spotify.com/track/0vSrn7OvRZjtdp78PST23m"

@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 62 | [The End](https://open.spotify.com/track/0OwqAGjxNnCSjKpVKwFxyZ) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Quarter Life Crisis](https://open.spotify.com/album/4DTZ4p8XB7SeXAPLYwzb6A) | 3:46 |
 | 63 | [Get It](https://open.spotify.com/track/5Oy1hOAnCit3XFyQVwIGOH) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Pain/Pleasure](https://open.spotify.com/album/2PDLRqHuLXz6X9pzaeRh19) | 1:53 |
 | 64 | [Show Me](https://open.spotify.com/track/604BDNGxzL9IyKMFODcZpV) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Wedding Season \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/3SXe7OIHWx0VnxugqYMiFv) | 2:44 |
-| 65 | [Double Standards](https://open.spotify.com/track/4tHM9DzWtj0P0ZTZzEuaP5) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Double Standards](https://open.spotify.com/album/3ffSkoeLJWwuX3GdrTfcpy) | 2:49 |
-| 66 | [One Fine Day](https://open.spotify.com/track/0cAcuLGXhCIR5aCMlkmGJc) | [Maitreyi Ramakrishnan](https://open.spotify.com/artist/0syHMgSCCIb3v7ngXtXHg0), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Freakier Friday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21GEjVF1Rr389EmT0pEedm) | 2:58 |
+| 65 | [One Fine Day](https://open.spotify.com/track/0cAcuLGXhCIR5aCMlkmGJc) | [Maitreyi Ramakrishnan](https://open.spotify.com/artist/0syHMgSCCIb3v7ngXtXHg0), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Freakier Friday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21GEjVF1Rr389EmT0pEedm) | 2:58 |
+| 66 | [Double Standards](https://open.spotify.com/track/4tHM9DzWtj0P0ZTZzEuaP5) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Double Standards](https://open.spotify.com/album/3ffSkoeLJWwuX3GdrTfcpy) | 2:49 |
 | 67 | [Hypochondriac](https://open.spotify.com/track/3gz1k8QjOsAvkpQlkhmDM8) | [Miranda Glory](https://open.spotify.com/artist/3LU5ho1MrktZxpRBGYPISK) | [Hypochondriac](https://open.spotify.com/album/7ENl3nfDJl9totzRCLUyZA) | 3:01 |
 | 68 | [Real Thing](https://open.spotify.com/track/7bJcvljR0snEcdfmd9j0B1) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Pick It Up](https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq) | 2:40 |
 | 69 | [Jealous](https://open.spotify.com/track/5wXX1UkC8iX4fD1WIkcXdn) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Double Standards](https://open.spotify.com/album/3ffSkoeLJWwuX3GdrTfcpy) | 3:16 |
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 136 | [Get Dat](https://open.spotify.com/track/1t1eeYi7HjDQxcgjZavRGu) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:43 |
 | 137 | [Get It Done](https://open.spotify.com/track/5J9WaXYErqUTZoNmk7ebG6) | [Saint Bodhi](https://open.spotify.com/artist/6X7nWsfLVq8lo1qePztyu5) | [Get It Done](https://open.spotify.com/album/1MVJomsYj2fjYDtA5QzEk3) | 2:16 |
 
-Snapshot ID: `AcK6aAAAAABXAhIavAbTluKqkZgF9Zog`
+Snapshot ID: `AcLACAAAAAA4geaJG7wWOgVZe1/xHruk`

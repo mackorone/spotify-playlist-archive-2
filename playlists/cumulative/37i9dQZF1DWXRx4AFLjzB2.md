@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXRx4AFLjzB2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXRx4AFLjzB2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXRx4AFLjzB2)
 
-### [Valentine’s Day Perreo Party ❤️](https://open.spotify.com/playlist/37i9dQZF1DWXRx4AFLjzB2)
+### [Spring Break Perreo Party ](https://open.spotify.com/playlist/37i9dQZF1DWXRx4AFLjzB2)
 
-> Add some perreo to your Valentine’s Day activities ❤️
+> Perreo del bueno for your spring break 🍑
 
 439 songs - 1 day 0 hr 18 min
 

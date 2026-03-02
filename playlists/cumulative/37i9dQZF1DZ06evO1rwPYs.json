@@ -2653,6 +2653,32 @@
     },
     {
       "album": {
+        "name": "The 'Brillante' Best",
+        "url": "https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Johnny Pacheco Y Su Charanga",
+          "url": "https://open.spotify.com/artist/2JK0DNoBRuK2rH1tQrBsvA"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293057,
+      "name": "Quimbara",
+      "url": "https://open.spotify.com/track/1CkuZ3qvhxfMv7y0Nt0sV5"
+    },
+    {
+      "album": {
         "name": "Celia & Johnny",
         "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
       },
@@ -2708,7 +2734,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 291377,
       "name": "Quimbara - Remastered 2024",
       "url": "https://open.spotify.com/track/6jGyB2FnwlsobRMsp9mvUG"

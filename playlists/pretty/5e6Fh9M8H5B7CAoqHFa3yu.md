@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 270 likes - 1,964 songs - 4 day 21 hr 46 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 270 likes - 1,966 songs - 4 day 21 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1972,5 +1972,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1962 | [Moonlight of Muirin](https://open.spotify.com/track/4oSn1XDw8xlvZAFULhbeCf) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Moonlight of Muirin](https://open.spotify.com/album/4oRObxDGVm3EEHExEBfywZ) | 3:12 |
 | 1963 | [Astral Vision](https://open.spotify.com/track/79GyilhcKE7fvMhljJMQxL) | [Elastica Dub](https://open.spotify.com/artist/1nyZ7QOTyzJ0lhHLGaikIW), [Zion Train](https://open.spotify.com/artist/6sDKfmMPaTI7MYeFoNFrg7), [Gabriel Blue](https://open.spotify.com/artist/2z0BjCl7p9XrswyaknMFMJ) | [Astral Vision](https://open.spotify.com/album/4skr9ieBSHKCa52ivYa7hy) | 5:49 |
 | 1964 | [Dance it with Me](https://open.spotify.com/track/0R6YvH3Wgcz5NSx1H2NvIz) | [Vinny Peach](https://open.spotify.com/artist/2sMvGeQMLrn7Y21zljtp75) | [Dance it with Me](https://open.spotify.com/album/4psi3LKEvKCfgQNojJsSp4) | 2:52 |
+| 1965 | [Tomorrow \(LIVE AT THE PUB\)](https://open.spotify.com/track/3Kk8rxvmWCdjRfvCyXVXY0) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [Tomorrow \(LIVE AT THE PUB\)](https://open.spotify.com/album/01dMlVbOA4a9GiutfbOn13) | 3:05 |
+| 1966 | [Echo Of You](https://open.spotify.com/track/5cWmg3WlMZeTQbHhGuKm21) | [VANYRA X](https://open.spotify.com/artist/3rWPyQgHJ9pvXOK7KtBX1Z) | [Echo Of You](https://open.spotify.com/album/1uxa967QvZrV3185K7Vbow) | 3:34 |
 
-Snapshot ID: `AAAINa2mUOID7c2gu1pm4UacKGA97yxN`
+Snapshot ID: `AAAIN+t2LYA887CFQdRWCCMPgoovI4Xc`

@@ -1,12 +1,12 @@
 {
   "description": "This is Maria Callas. The essential tracks, all in one playlist.",
-  "num_followers": 40381,
+  "num_followers": 40388,
   "original_name": "This Is Maria Callas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaDegAAAAACQo2nVk434UNCxMTxrYBVV",
+  "snapshot_id": "aaIwAAAAAAB++40D54H1pIB4pCdsID9U",
   "tracks": [
     {
       "added_at": null,
@@ -524,41 +524,17 @@
           "url": "https://open.spotify.com/artist/1wKLEotRPkbzZOv6CABJI7"
         },
         {
-          "name": "Coro e Orchestra del Teatro alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/5ikqt8rR11Gv3CKaqotxro"
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
         },
         {
           "name": "Antonino Votto",
           "url": "https://open.spotify.com/artist/1cJYZCqOPzIhYf3VekKtGW"
-        },
-        {
-          "name": "Carlo Badioli",
-          "url": "https://open.spotify.com/artist/0x90JS9TkqKvaoDP5rmTk1"
-        },
-        {
-          "name": "Franco Ricciardi",
-          "url": "https://open.spotify.com/artist/62NXyjR5u28brk6scdMkWv"
-        },
-        {
-          "name": "Carlo Forti",
-          "url": "https://open.spotify.com/artist/7eZ8s8pQKR0bW7zCMzI5L8"
-        },
-        {
-          "name": "Eraldo Coda",
-          "url": "https://open.spotify.com/artist/3sG9KXKRYbAkBvRkvIqJZe"
-        },
-        {
-          "name": "Anna Moffo",
-          "url": "https://open.spotify.com/artist/28zJ68gN34mByp7NEYNdse"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
         }
       ],
-      "duration_ms": 280226,
-      "name": "Puccini: La boh\u00e8me, Act 2: \"Quando me'n vo soletta\" (Musetta/Marcellop/Alcindoro/Mim\u00ec/Rodolfo/Schaunard/Colline)",
-      "url": "https://open.spotify.com/track/3udHAti4qpoKGnMymuNZZd"
+      "duration_ms": 252706,
+      "name": "Puccini: La boh\u00e8me, Act 1: \"Ehi! Rodolfo! \u2026 O soave fanciulla, o dolce viso\" (Schaunard, Colline, Marcello, Rodolfo, Mimi)",
+      "url": "https://open.spotify.com/track/332vXZ7UCNUmNQn6xfGPYs"
     },
     {
       "added_at": null,
@@ -660,17 +636,41 @@
           "url": "https://open.spotify.com/artist/1wKLEotRPkbzZOv6CABJI7"
         },
         {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+          "name": "Coro e Orchestra del Teatro alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/5ikqt8rR11Gv3CKaqotxro"
         },
         {
           "name": "Antonino Votto",
           "url": "https://open.spotify.com/artist/1cJYZCqOPzIhYf3VekKtGW"
+        },
+        {
+          "name": "Carlo Badioli",
+          "url": "https://open.spotify.com/artist/0x90JS9TkqKvaoDP5rmTk1"
+        },
+        {
+          "name": "Franco Ricciardi",
+          "url": "https://open.spotify.com/artist/62NXyjR5u28brk6scdMkWv"
+        },
+        {
+          "name": "Carlo Forti",
+          "url": "https://open.spotify.com/artist/7eZ8s8pQKR0bW7zCMzI5L8"
+        },
+        {
+          "name": "Eraldo Coda",
+          "url": "https://open.spotify.com/artist/3sG9KXKRYbAkBvRkvIqJZe"
+        },
+        {
+          "name": "Anna Moffo",
+          "url": "https://open.spotify.com/artist/28zJ68gN34mByp7NEYNdse"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
         }
       ],
-      "duration_ms": 252706,
-      "name": "Puccini: La boh\u00e8me, Act 1: \"Ehi! Rodolfo! \u2026 O soave fanciulla, o dolce viso\" (Schaunard, Colline, Marcello, Rodolfo, Mimi)",
-      "url": "https://open.spotify.com/track/332vXZ7UCNUmNQn6xfGPYs"
+      "duration_ms": 280226,
+      "name": "Puccini: La boh\u00e8me, Act 2: \"Quando me'n vo soletta\" (Musetta/Marcellop/Alcindoro/Mim\u00ec/Rodolfo/Schaunard/Colline)",
+      "url": "https://open.spotify.com/track/3udHAti4qpoKGnMymuNZZd"
     },
     {
       "added_at": null,
@@ -755,34 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maria Callas: Rossini and Donizetti Arias",
-        "url": "https://open.spotify.com/album/6rGI3DRkuJsPmi9JQnkoeb"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Nicola Rescigno",
-          "url": "https://open.spotify.com/artist/0q361GTlmwBoXupFQc0T8v"
-        },
-        {
-          "name": "Orchestre De La Soci\u00e9t\u00e9 Des Concerts Du Conservatoire",
-          "url": "https://open.spotify.com/artist/2jR0NsaJWwUmIxtEAJKCNP"
-        }
-      ],
-      "duration_ms": 251066,
-      "name": "La figlia del reggimento (1997 - Remaster): Convien partir (Act I)",
-      "url": "https://open.spotify.com/track/2W2hq778KQvcSfpf77eUev"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Callas sings Arias from Tristano e Isotta, Norma & I puritani - Callas Remastered",
         "url": "https://open.spotify.com/album/4xWgA6PBxf3Jr6XXCoskgr"
       },
@@ -835,6 +807,34 @@
       "duration_ms": 149413,
       "name": "Puccini: Turandot, Act 1: \"Signore, ascolta!\" (Li\u00f9)",
       "url": "https://open.spotify.com/track/6Xv8wvEqDlSMxMVbvRJHsx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maria Callas: Rossini and Donizetti Arias",
+        "url": "https://open.spotify.com/album/6rGI3DRkuJsPmi9JQnkoeb"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Nicola Rescigno",
+          "url": "https://open.spotify.com/artist/0q361GTlmwBoXupFQc0T8v"
+        },
+        {
+          "name": "Orchestre De La Soci\u00e9t\u00e9 Des Concerts Du Conservatoire",
+          "url": "https://open.spotify.com/artist/2jR0NsaJWwUmIxtEAJKCNP"
+        }
+      ],
+      "duration_ms": 251066,
+      "name": "La figlia del reggimento (1997 - Remaster): Convien partir (Act I)",
+      "url": "https://open.spotify.com/track/2W2hq778KQvcSfpf77eUev"
     },
     {
       "added_at": null,
@@ -1031,30 +1031,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maria by Callas (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3xaUzONuVZ28q4dpkKvktc"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Orchestra of the San Carlos Opera House, Lisbon",
-          "url": "https://open.spotify.com/artist/6sbBdQ4IdyKtzYfLkKZWj7"
-        },
-        {
-          "name": "Franco Ghione",
-          "url": "https://open.spotify.com/artist/3qOlbb0x5LJsXZZ4iXI5Ir"
-        }
-      ],
-      "duration_ms": 204226,
-      "name": "La traviata, Act III Scene 4: No. 8c. \"Addio, del passato\" (Violetta) [Recorded in Lisbon, 1958]",
-      "url": "https://open.spotify.com/track/5efDz32sTEFyvcTjqB8jLY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Very Best of Maria Callas",
         "url": "https://open.spotify.com/album/0tREYnFHLtGOkfegsYOBRb"
       },
@@ -1079,6 +1055,30 @@
       "duration_ms": 412360,
       "name": "Rossini: Il barbiere di Siviglia, Act 1: \"Una voce poco fa\" (Rosina)",
       "url": "https://open.spotify.com/track/3YYUmw4asVeqUlkJMKPfzW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maria by Callas (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3xaUzONuVZ28q4dpkKvktc"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Orchestra of the San Carlos Opera House, Lisbon",
+          "url": "https://open.spotify.com/artist/6sbBdQ4IdyKtzYfLkKZWj7"
+        },
+        {
+          "name": "Franco Ghione",
+          "url": "https://open.spotify.com/artist/3qOlbb0x5LJsXZZ4iXI5Ir"
+        }
+      ],
+      "duration_ms": 204226,
+      "name": "La traviata, Act III Scene 4: No. 8c. \"Addio, del passato\" (Violetta) [Recorded in Lisbon, 1958]",
+      "url": "https://open.spotify.com/track/5efDz32sTEFyvcTjqB8jLY"
     },
     {
       "added_at": null,
@@ -1367,22 +1367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grandiose Stimmen: Maria Callas",
-        "url": "https://open.spotify.com/album/7JVclT7eBui5eWSnde53uP"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        }
-      ],
-      "duration_ms": 131933,
-      "name": "\" La Traviata \" : Amami Alfredo (Act II) - Digitally Remastered",
-      "url": "https://open.spotify.com/track/0wtpkz93wATDkUExJVuXEl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ponchielli: La Gioconda, Op. 9",
         "url": "https://open.spotify.com/album/2ybC8FeFGHFaK8l0oL20sf"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 252533,
       "name": "Ponchielli: La Gioconda, Op. 9, Act 4: \"Suicidio!\" (Gioconda)",
       "url": "https://open.spotify.com/track/4h7KFEuWw6vct0TllV36OV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grandiose Stimmen: Maria Callas",
+        "url": "https://open.spotify.com/album/7JVclT7eBui5eWSnde53uP"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        }
+      ],
+      "duration_ms": 131933,
+      "name": "\" La Traviata \" : Amami Alfredo (Act II) - Digitally Remastered",
+      "url": "https://open.spotify.com/track/0wtpkz93wATDkUExJVuXEl"
     },
     {
       "added_at": null,

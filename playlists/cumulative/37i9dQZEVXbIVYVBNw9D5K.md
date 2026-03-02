@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,463 songs - 3 day 2 hr 0 min
+1,464 songs - 3 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [Baby Naber?](https://open.spotify.com/track/26BtOe3Dyvbe0Uavxj60ST) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [Baby Naber?](https://open.spotify.com/album/11FT97nMjQ7wgtPvFtdLIk) | 1:58 | 2023-08-12 | 2023-08-14 |
 | [BACK IN BUSINESS](https://open.spotify.com/track/6HNVQfmmuHloobK46wgySz) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [9](https://open.spotify.com/album/4Y85xXiGtuA1moIlx5JMZV) | 3:07 | 2025-07-19 | 2025-07-21 |
 | [Bahçemin En Zor Gülü](https://open.spotify.com/track/6rRwSZRESAriAagC5CmWMS) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Fatih](https://open.spotify.com/album/7eB3zd25eiAwsUMCcLpRCf) | 4:30 | 2023-09-26 | 2023-09-30 |
-| [Bak](https://open.spotify.com/track/4zAy3I7Amhup6JeDLFkKhH) | [Pilli Bebek](https://open.spotify.com/artist/63RFns47gk00mnHIQ8zTR1) | [Olsun](https://open.spotify.com/album/6wrS2IS6GGyJHVbIZaVLjq) | 4:35 | 2026-01-03 |  |
+| [Bak](https://open.spotify.com/track/4zAy3I7Amhup6JeDLFkKhH) | [Pilli Bebek](https://open.spotify.com/artist/63RFns47gk00mnHIQ8zTR1) | [Olsun](https://open.spotify.com/album/6wrS2IS6GGyJHVbIZaVLjq) | 4:35 | 2026-01-03 | 2026-03-02 |
 | [BAKSANA BİLADER \- Saz Mi Caz Mi](https://open.spotify.com/track/2BepN9ElbmjHlE2loXT72r) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1) | [BAKSANA BİLADER \(Saz Mi Caz Mi\)](https://open.spotify.com/album/5xS8dSZF7pVnJ7LfTsA4og) | 2:56 | 2023-07-15 | 2023-07-17 |
 | [BAL](https://open.spotify.com/track/2RojZW2380o281z4LF0wTh) | [Gülşen](https://open.spotify.com/artist/1F2v33FQTavJyaD7ZsyhdA) | [BAL](https://open.spotify.com/album/14jmglD62tPPu5yptZcSv4) | 2:37 | 2024-05-18 | 2024-09-10 |
 | [Balbiber](https://open.spotify.com/track/5fQLukeUgE3NlSwlQx3KWY) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [CURCUNA](https://open.spotify.com/album/5CQCXwMHs5IuOOKpCUqaDD) | 2:01 | 2026-02-21 |  |
@@ -301,6 +301,7 @@
 | [Bu Gece Karakolluk Olabilirim](https://open.spotify.com/track/2XY8epv0D64xqErIL21PJx) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Bu Gece Karakolluk Olabilirim](https://open.spotify.com/album/59w8ncxczTWGEClNIkYCuG) | 2:55 | 2024-02-17 | 2024-03-12 |
 | [Bu Gece Karakolluk Olabilirim](https://open.spotify.com/track/2SLWxQ1HDxNlkIhxNRtIaT) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Bu Gece Karakolluk Olabilirim](https://open.spotify.com/album/4pmke7Abk1fcNfFTSv63Po) | 2:55 | 2024-01-15 | 2024-02-18 |
 | [bu gece karakolluk olabilirim](https://open.spotify.com/track/2CNqJNwrybE70v6eBjpBOV) | [Mert Ali Aslan](https://open.spotify.com/artist/5vaqBLjNLseAiCCU12ZoHO) | [bu gece karakolluk olabilirim](https://open.spotify.com/album/6v4lQt7VW06iHKrjuW071m) | 2:55 | 2024-01-13 | 2024-01-16 |
+| [bu gece misafirinim](https://open.spotify.com/track/5g9FoTmNCpdXOM82o4T90h) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [bu gece misafirinim](https://open.spotify.com/album/5BECP4vLdzDAj6r7rjoPuX) | 2:24 | 2026-03-01 |  |
 | [Bu Gün Bayram](https://open.spotify.com/track/4sNTDiLygCF0NAo3vDqhY2) | [Barış Manço](https://open.spotify.com/artist/3eVuump9qyK0YCQQo4mKbc) | [24 Ayar](https://open.spotify.com/album/5Ii0po9FpJQPqCwlY8xGze) | 2:35 | 2021-05-15 | 2025-04-02 |
 | [Bu Saatten Sonra](https://open.spotify.com/track/53QUjrQ8BygCTBXfIs1Beu) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Bu Saatten Sonra](https://open.spotify.com/album/6wtf8zyYddES6YnnVwqxRH) | 3:51 | 2022-01-05 | 2023-01-16 |
 | [Bu Son Olsun](https://open.spotify.com/track/5QfhqYAS8wmNnvFuOgLNRs) | [Cem Karaca](https://open.spotify.com/artist/1lIbZfJvMQRqzhtCQsg5EI) | [Bu Son Olsun](https://open.spotify.com/album/30oGctq0ESNTuT5zX5SYfp) | 2:46 | 2021-08-27 | 2022-03-02 |

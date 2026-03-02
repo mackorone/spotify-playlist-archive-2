@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Jeremy Pelt
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,047,141 likes - 100 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,047,134 likes - 100 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 58 | [One Body, One Blood](https://open.spotify.com/track/41HV8PYAK48RhYq50CS77M) | [Tigran Hamasyan](https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW) | [One Body, One Blood](https://open.spotify.com/album/1LsoDC0XhSqN92JPGZfpki) | 4:24 |
 | 59 | [who knows](https://open.spotify.com/track/10jrV3ZR7tDBoKTCkAVaDw) | [Amy Gadiaga](https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x) | [who knows](https://open.spotify.com/album/38hhGCLfuJZOmU0cnDrsRB) | 3:09 |
 | 60 | [Orbits \(feat\. Ambrose Akinmusire, Ron Blake, Gerald Clayton, Joe Sanders\)](https://open.spotify.com/track/6JtYOh6JDY6MYNfp1XCZ9x) | [Gregory Hutchinson](https://open.spotify.com/artist/4uFjFfYlOxBKvdHKuHqk2y), [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF), [Ron Blake](https://open.spotify.com/artist/0NlX1W0yjS9FWyDBbHcGuY), [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8), [Joe Sanders](https://open.spotify.com/artist/37FavLKAfuARIuUxBOyyY7) | [Orbits \(feat\. Ambrose Akinmusire, Ron Blake, Gerald Clayton, Joe Sanders\)](https://open.spotify.com/album/0n0FfsCa0DXB6e2P90plG9) | 4:53 |
-| 61 | [Imagine That](https://open.spotify.com/track/3zixzhipHvNnUQMsPiOBA8) | [Tom Hemby](https://open.spotify.com/artist/18DYBJxCpac3YG86xhVPqM), [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503) | [Imagine That](https://open.spotify.com/album/1e7M5xClDeVJFB5QhsbeFE) | 3:44 |
+| 61 | [Imagine That](https://open.spotify.com/track/3zixzhipHvNnUQMsPiOBA8) | [Tom Hemby](https://open.spotify.com/artist/18DYBJxCpac3YG86xhVPqM), [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH) | [Imagine That](https://open.spotify.com/album/1e7M5xClDeVJFB5QhsbeFE) | 3:44 |
 | 62 | [Trinity \(Father, Son, and Holy Spirit\)](https://open.spotify.com/track/0nONfdSjBptV3MtphsdYDc) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [Gospel Music](https://open.spotify.com/album/52H41dJZIWXp6SjvXF0Gie) | 7:20 |
 | 63 | [The Law of Diminishing Returns \- Radio](https://open.spotify.com/track/2Z1xYH4Y4uDnaMRk2kMM7t) | [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80), [Michael Brecker](https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU), [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH) | [San Michele \(Radio\)](https://open.spotify.com/album/0De82n8QaUod7sefVRbA3F) | 5:38 |
 | 64 | [É Real … É Verdade…](https://open.spotify.com/track/7BrioRz1sLrk7nrgCKLPQC) | [Carlos Dafé](https://open.spotify.com/artist/7c2M9J4vkC24hmNwQyl4vZ), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Carlos Dafé JID025](https://open.spotify.com/album/7Art0O6t4MsJJylCYeiyVj) | 2:33 |

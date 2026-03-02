@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date. Updated 28 Feb 19:10 UTC.",
+  "description": "Latest popular single releases. Sorted by release date. Updated 01 Mar 09:10 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -13602,6 +13602,24 @@
       "duration_ms": 342734,
       "name": "Blues",
       "url": "https://open.spotify.com/track/7nGhBjDpYtI7jJ5Tel9jDt"
+    },
+    {
+      "album": {
+        "name": "Blunt Force Blues",
+        "url": "https://open.spotify.com/album/6JSSK9vSJUabyLGFhdnMEG"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251505,
+      "name": "Blunt Force Blues",
+      "url": "https://open.spotify.com/track/7sxzXYrcCVnMnqCxBwCXLN"
     },
     {
       "album": {
@@ -59192,7 +59210,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 204637,
       "name": "le cose che non sai di me",
       "url": "https://open.spotify.com/track/2XVaLBILDwmtR876otQkpg"

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Singapore, you know the fanchants. It\u2019s about to feel like home again. Cover: SEVENTEEN",
-  "name": "On Tour Singapore: SEVENTEEN",
+  "description": "DETOX: ONE OK ROCK at their most explosive yet. Cover: ONE OK ROCK",
+  "name": "On Tour Singapore: ONE OK ROCK",
   "tracks": [
     {
       "album": {
@@ -56,6 +56,24 @@
       "duration_ms": 152125,
       "name": "'Di Na Masakit",
       "url": "https://open.spotify.com/track/124BRvHNAn7FhiLMvwn8iL"
+    },
+    {
+      "album": {
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232964,
+      "name": "+Matter",
+      "url": "https://open.spotify.com/track/2ZdQBK8hrh3ZaXQpVnFSn7"
     },
     {
       "album": {
@@ -446,7 +464,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 197898,
       "name": "9-TEEN",
       "url": "https://open.spotify.com/track/5G5MW3CIQ26AV08Yl7UV6m"
@@ -482,7 +500,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 178453,
       "name": "_WORLD",
       "url": "https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC"
@@ -562,7 +580,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 196323,
       "name": "A-TEEN",
       "url": "https://open.spotify.com/track/5P0Uo1LqAgvFuxabQMe81X"
@@ -1528,7 +1546,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 167013,
       "name": "Bad Influence (Prod. by Pharrell Williams)",
       "url": "https://open.spotify.com/track/3cjHBmP0CsTGNN44gf6cID"
@@ -2813,6 +2831,32 @@
     },
     {
       "album": {
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        },
+        {
+          "name": "Paledusk",
+          "url": "https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa"
+        },
+        {
+          "name": "CHICO CARLITO",
+          "url": "https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188626,
+      "name": "C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)",
+      "url": "https://open.spotify.com/track/4UKANDuD17KGukGIp5g0Cx"
+    },
+    {
+      "album": {
         "name": "THINK LATER",
         "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
       },
@@ -3872,7 +3916,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 176546,
       "name": "Darl+ing",
       "url": "https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5"
@@ -4078,6 +4122,24 @@
       "duration_ms": 250702,
       "name": "Delilah (pull me out of this)",
       "url": "https://open.spotify.com/track/5w9upngVRHNjdZcRC7Xxr2"
+    },
+    {
+      "album": {
+        "name": "Delusion:All",
+        "url": "https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184909,
+      "name": "Delusion:All",
+      "url": "https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3"
     },
     {
       "album": {
@@ -4428,7 +4490,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 214893,
       "name": "Domino",
       "url": "https://open.spotify.com/track/1sjObenL1HryPaQOiMDVZ9"
@@ -4764,6 +4826,24 @@
       "duration_ms": 215497,
       "name": "DUNGKA!",
       "url": "https://open.spotify.com/track/7mqsPvhSR1CtY6PkTf1YVy"
+    },
+    {
+      "album": {
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189897,
+      "name": "Dystopia",
+      "url": "https://open.spotify.com/track/2C0fPB5c2LUhVQELSOXWGJ"
     },
     {
       "album": {
@@ -5216,7 +5296,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 174506,
       "name": "Eyes on you",
       "url": "https://open.spotify.com/track/7qkv7ZLTIMkObkyhNo6sdQ"
@@ -5234,7 +5314,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 202280,
       "name": "F*ck My Life",
       "url": "https://open.spotify.com/track/3tgWMPOY4stCdKYj5NjrAe"
@@ -5940,7 +6020,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 217026,
       "name": "Fortunate Change (JOSHUA Solo)",
       "url": "https://open.spotify.com/track/6HmKlhejcNEEsQZEGjnrmR"
@@ -6250,7 +6330,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 190013,
       "name": "Gemini (JUN Solo)",
       "url": "https://open.spotify.com/track/1N7EvHKdB4bCzfF1C5GhwN"
@@ -7110,7 +7190,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 194106,
       "name": "Happy Virus (DK Solo)",
       "url": "https://open.spotify.com/track/4nHwPRwu1imdTzmbIDJD6z"
@@ -7218,7 +7298,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 155213,
       "name": "HBD",
       "url": "https://open.spotify.com/track/6E0o3c4mgb7K5DB2TXg4XX"
@@ -7506,7 +7586,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 225302,
       "name": "HIGHLIGHT",
       "url": "https://open.spotify.com/track/6FdIEgj8ErhkOHbtB6aqFF"
@@ -7560,7 +7640,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 203506,
       "name": "HIT",
       "url": "https://open.spotify.com/track/0uIw1c0E2nyFWWwEVzhl30"
@@ -7708,7 +7788,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 197586,
       "name": "HOT",
       "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
@@ -9046,7 +9126,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 153013,
       "name": "Jungle (S.COUPS Solo)",
       "url": "https://open.spotify.com/track/6AwBSWBq9WvZmJRqqv12Fa"
@@ -9340,6 +9420,24 @@
       "duration_ms": 210651,
       "name": "Killah (feat. Gesaffelstein)",
       "url": "https://open.spotify.com/track/4pNzBbGcqXofx8mLBPTeih"
+    },
+    {
+      "album": {
+        "name": "Zankyo Reference",
+        "url": "https://open.spotify.com/album/0gCEHUTnmz1HC2778srS03"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254746,
+      "name": "Kimishidai Ressha",
+      "url": "https://open.spotify.com/track/6K54pTWwPtjrQJYxNSGtEA"
     },
     {
       "album": {
@@ -10442,7 +10540,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 186386,
       "name": "LOVE, MONEY, FAME (feat. DJ Khaled)",
       "url": "https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE"
@@ -10634,6 +10732,24 @@
       "duration_ms": 207053,
       "name": "Mainstream",
       "url": "https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA"
+    },
+    {
+      "album": {
+        "name": "Make It Out Alive",
+        "url": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209799,
+      "name": "Make It Out Alive",
+      "url": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
     },
     {
       "album": {
@@ -11665,6 +11781,24 @@
     },
     {
       "album": {
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203922,
+      "name": "NASTY",
+      "url": "https://open.spotify.com/track/2Pn5ryxvT2qzACUISxOHLv"
+    },
+    {
+      "album": {
         "name": "Need To Know",
         "url": "https://open.spotify.com/album/4IGSbTfm3Xwmp8up7pOR3t"
       },
@@ -11730,7 +11864,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 209973,
       "name": "Network Love",
       "url": "https://open.spotify.com/track/30S8t6er5QvMBugOzLJnV9"
@@ -12693,6 +12827,24 @@
     },
     {
       "album": {
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178031,
+      "name": "Party\u2019s Over",
+      "url": "https://open.spotify.com/track/5BC2eApA3H6ImhCLD83xhY"
+    },
+    {
+      "album": {
         "name": "Pasensyoso",
         "url": "https://open.spotify.com/album/55n5ypmobXM2XfuUZosSo4"
       },
@@ -13369,6 +13521,24 @@
     },
     {
       "album": {
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194493,
+      "name": "Puppets Can't Control You",
+      "url": "https://open.spotify.com/track/4KLOLezYVOg03lKu7EgmaI"
+    },
+    {
+      "album": {
         "name": "put it on me",
         "url": "https://open.spotify.com/album/7ISjczr1BMdAZrrMkxnjhz"
       },
@@ -13510,7 +13680,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 224013,
       "name": "Raindrops (SEUNGKWAN Solo)",
       "url": "https://open.spotify.com/track/5X6A8puJNGzQaAhHJgx1Ld"
@@ -13662,6 +13832,24 @@
       "duration_ms": 265406,
       "name": "Reminisensi",
       "url": "https://open.spotify.com/track/0TRKtVvsVmOkXCvnq5AgNE"
+    },
+    {
+      "album": {
+        "name": "Renegades",
+        "url": "https://open.spotify.com/album/2YXEcU1J4p8HyIVatFFmng"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244538,
+      "name": "Renegades",
+      "url": "https://open.spotify.com/track/29VVYrV5TVpGu0IfoTXlcw"
     },
     {
       "album": {
@@ -13824,7 +14012,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 191500,
       "name": "Rock",
       "url": "https://open.spotify.com/track/17MlnACcP3VDE7xHMaToGF"
@@ -13842,7 +14030,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 180360,
       "name": "Rock with you",
       "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
@@ -14160,6 +14348,24 @@
       "duration_ms": 194182,
       "name": "Save Tonight",
       "url": "https://open.spotify.com/track/1zPgbEPmJV1AxqOUWLeofE"
+    },
+    {
+      "album": {
+        "name": "Luxury Disease",
+        "url": "https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197995,
+      "name": "Save Yourself",
+      "url": "https://open.spotify.com/track/5D5fiDX8MhK3lfHJmZZmpt"
     },
     {
       "album": {
@@ -14646,7 +14852,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 168026,
       "name": "Shake It Off (MINGYU Solo)",
       "url": "https://open.spotify.com/track/1MO3vlEZjAQHM6i1HJtZMA"
@@ -14830,7 +15036,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 201400,
       "name": "Shining Star (Vernon Solo)",
       "url": "https://open.spotify.com/track/73j3bR9wX3Gip4P7zsmkWV"
@@ -15050,7 +15256,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 180026,
       "name": "Skyfall (THE 8 Solo)",
       "url": "https://open.spotify.com/track/6GrZkYlCYIuHEjPpTZ3qDb"
@@ -15426,7 +15632,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 192013,
       "name": "SOS (Prod. Marshmello)",
       "url": "https://open.spotify.com/track/3oTDi9MWC0JB39FcsLRon3"
@@ -15546,6 +15752,24 @@
       "duration_ms": 199019,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/068qo0w1Ki0cjnFYOUhAm2"
+    },
+    {
+      "album": {
+        "name": "Eye of the Storm",
+        "url": "https://open.spotify.com/album/1obI3635eoYwWYhGs2vEeP"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214573,
+      "name": "Stand Out Fit In",
+      "url": "https://open.spotify.com/track/4zXRMjTaeflesB3Ih4eHnJ"
     },
     {
       "album": {
@@ -16455,6 +16679,24 @@
     },
     {
       "album": {
+        "name": "Jinsei \u00d7 Boku =",
+        "url": "https://open.spotify.com/album/1PLXi3s3RDWoMUYw3SAl64"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292733,
+      "name": "The Beginning",
+      "url": "https://open.spotify.com/track/2vAuqfENmrnySgcKHAwsZJ"
+    },
+    {
+      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/20psrOViqBEfD3fv0cZKaO"
       },
@@ -16650,6 +16892,24 @@
       "duration_ms": 242986,
       "name": "The Minute",
       "url": "https://open.spotify.com/track/01nO6YQUhc5pM39hJ8KoIR"
+    },
+    {
+      "album": {
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231940,
+      "name": "The Pilot </3",
+      "url": "https://open.spotify.com/track/5I7hYNW8P1TLdxurADkxN6"
     },
     {
       "album": {
@@ -16916,7 +17176,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 164040,
       "name": "THUNDER",
       "url": "https://open.spotify.com/track/6oeMntjclWLoguzwj5ECTo"
@@ -17031,6 +17291,24 @@
     },
     {
       "album": {
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214091,
+      "name": "Tiny Pieces",
+      "url": "https://open.spotify.com/track/5Ndm8UZQSXIO3nk44TNKGt"
+    },
+    {
+      "album": {
         "name": "Tippy Toes",
         "url": "https://open.spotify.com/album/6P9erpHs7hgJlca7Tj3F0w"
       },
@@ -17114,7 +17392,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 225573,
       "name": "To you",
       "url": "https://open.spotify.com/track/25osmdhvjltPlN7gI2Javd"
@@ -17312,7 +17590,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 149053,
       "name": "Trigger (DINO Solo)",
       "url": "https://open.spotify.com/track/6Z9QbzkKGGiMJGWiEvdAax"
@@ -17334,6 +17612,24 @@
       "duration_ms": 206791,
       "name": "Trigger the fever - Bonus Track",
       "url": "https://open.spotify.com/track/1b0EgjAcJAkOlMh1U5zXLU"
+    },
+    {
+      "album": {
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208666,
+      "name": "Tropical Therapy",
+      "url": "https://open.spotify.com/track/0aXrPDQKpsGlZKVzEnurSK"
     },
     {
       "album": {
@@ -17746,7 +18042,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 192092,
       "name": "VERY NICE",
       "url": "https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w"
@@ -17963,6 +18259,24 @@
     },
     {
       "album": {
+        "name": "Eye of the Storm",
+        "url": "https://open.spotify.com/album/1obI3635eoYwWYhGs2vEeP"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224746,
+      "name": "Wasted Nights",
+      "url": "https://open.spotify.com/track/39LyUQIy7idLxPdsjyZsxe"
+    },
+    {
+      "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/5lLpdj3vBItlhNW9BxY2TK"
       },
@@ -18000,6 +18314,24 @@
       "duration_ms": 240013,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6w8pFOKn42O418qwcQElZ3"
+    },
+    {
+      "album": {
+        "name": "Ambitions",
+        "url": "https://open.spotify.com/album/0p1YL9nzIuKTonZH6Gq58i"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255400,
+      "name": "We Are",
+      "url": "https://open.spotify.com/track/57sk9X1fPLXRfkw74XNrmK"
     },
     {
       "album": {
@@ -18310,6 +18642,24 @@
       "duration_ms": 178693,
       "name": "where we're going",
       "url": "https://open.spotify.com/track/4mm39wDyaVYByBLz5MN3kW"
+    },
+    {
+      "album": {
+        "name": "Niche Syndrome",
+        "url": "https://open.spotify.com/album/76gcSn0zTBkjHEvQ8lcRIY"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295600,
+      "name": "Wherever you are",
+      "url": "https://open.spotify.com/track/6kjnGjYMk9YAtH1BMD311b"
     },
     {
       "album": {
@@ -18624,6 +18974,24 @@
       "duration_ms": 191220,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
+    },
+    {
+      "album": {
+        "name": "Zeitakubyou",
+        "url": "https://open.spotify.com/album/3if2gkJtQqh0wEzBr0MKOD"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202200,
+      "name": "Yokubou Ni Michita Seinendan",
+      "url": "https://open.spotify.com/track/3skhXvq7nIofuN5SWolQML"
     },
     {
       "album": {

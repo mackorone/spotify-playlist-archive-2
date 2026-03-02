@@ -1,12 +1,12 @@
 {
   "description": "This is Nothing. The essential tracks, all in one playlist.",
-  "num_followers": 2828,
+  "num_followers": 2829,
   "original_name": "This Is Nothing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaDegAAAAADAdsTAM2ntM71XCQb3O321",
+  "snapshot_id": "aaIwAAAAAACUi01jb3KlEzd3z+cGiOWt",
   "tracks": [
     {
       "added_at": null,
@@ -59,6 +59,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "a short history of decay",
+        "url": "https://open.spotify.com/album/7euwYFDlezb1aLOvEE4p2P"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 328000,
+      "name": "a short history of decay",
+      "url": "https://open.spotify.com/track/50433OMDh4XkIDIXNBrMmz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tired of Tomorrow (Deluxe Version)",
         "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
       },
@@ -91,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "a short history of decay",
-        "url": "https://open.spotify.com/album/7euwYFDlezb1aLOvEE4p2P"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 328000,
-      "name": "a short history of decay",
-      "url": "https://open.spotify.com/track/50433OMDh4XkIDIXNBrMmz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whirr & Nothing",
         "url": "https://open.spotify.com/album/6pDNWot4SaDPtMLerJ3AFZ"
       },
@@ -119,38 +119,6 @@
       "duration_ms": 220245,
       "name": "July the Fourth",
       "url": "https://open.spotify.com/track/5jQMGmXgqIszqknvBA65fn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tired of Tomorrow (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 219020,
-      "name": "A.C.D. (Abcessive Compulsive Disorder)",
-      "url": "https://open.spotify.com/track/72LCw6fk4YZL5cyoG1TOzU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "toothless coal",
-        "url": "https://open.spotify.com/album/4mJBkjyYz5842bI63RPXAv"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 227733,
-      "name": "toothless coal",
-      "url": "https://open.spotify.com/track/4P1mMgITKDwL54lRxebGul"
     },
     {
       "added_at": null,
@@ -171,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tired of Tomorrow (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 219020,
+      "name": "A.C.D. (Abcessive Compulsive Disorder)",
+      "url": "https://open.spotify.com/track/72LCw6fk4YZL5cyoG1TOzU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Great Dismal",
         "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
       },
@@ -183,22 +167,6 @@
       "duration_ms": 230437,
       "name": "Catch a Fade",
       "url": "https://open.spotify.com/track/1JXi6OWDS68SIsTF6TJ3Ob"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tired of Tomorrow (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 270281,
-      "name": "The Dead Are Dumb",
-      "url": "https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov"
     },
     {
       "added_at": null,
@@ -235,6 +203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tired of Tomorrow (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 270281,
+      "name": "The Dead Are Dumb",
+      "url": "https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "purple strings",
         "url": "https://open.spotify.com/album/3CRRMLGRHxX1OTF70U6RfH"
       },
@@ -251,6 +235,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "toothless coal",
+        "url": "https://open.spotify.com/album/4mJBkjyYz5842bI63RPXAv"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 227733,
+      "name": "toothless coal",
+      "url": "https://open.spotify.com/track/4P1mMgITKDwL54lRxebGul"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "a short history of decay",
+        "url": "https://open.spotify.com/album/7euwYFDlezb1aLOvEE4p2P"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 250120,
+      "name": "essential tremors",
+      "url": "https://open.spotify.com/track/4iuQ5ExLS4Wl1JiyM2uSFc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tired of Tomorrow (Deluxe Version)",
         "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
       },
@@ -263,6 +279,22 @@
       "duration_ms": 176435,
       "name": "Fever Queen",
       "url": "https://open.spotify.com/track/2hWnuDzcKznJvlCxuRgfaA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "cannibal world",
+        "url": "https://open.spotify.com/album/7lcGeuVRPOGkyiAGUUa2DR"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 269120,
+      "name": "cannibal world",
+      "url": "https://open.spotify.com/track/2lAGEcRzl5B8qrmKrqrywQ"
     },
     {
       "added_at": null,
@@ -299,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "cannibal world",
-        "url": "https://open.spotify.com/album/7lcGeuVRPOGkyiAGUUa2DR"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 269120,
-      "name": "cannibal world",
-      "url": "https://open.spotify.com/track/2lAGEcRzl5B8qrmKrqrywQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Guilty of Everything",
         "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
       },
@@ -327,38 +343,6 @@
       "duration_ms": 270565,
       "name": "Somersault",
       "url": "https://open.spotify.com/track/1X3RzfQtAcsj3K6QE9l9IO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dance on the Blacktop",
-        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 237133,
-      "name": "Zero Day",
-      "url": "https://open.spotify.com/track/1dwC0I32wb53mXCECR4ZY7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "a short history of decay",
-        "url": "https://open.spotify.com/album/7euwYFDlezb1aLOvEE4p2P"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 250120,
-      "name": "essential tremors",
-      "url": "https://open.spotify.com/track/4iuQ5ExLS4Wl1JiyM2uSFc"
     },
     {
       "added_at": null,
@@ -379,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Guilty of Everything",
-        "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
+        "name": "Dance on the Blacktop",
+        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
       },
       "artists": [
         {
@@ -388,9 +372,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 281004,
-      "name": "Hymn to the Pillory",
-      "url": "https://open.spotify.com/track/5mR1Clx2pnR6RNSS0U3wq9"
+      "duration_ms": 237133,
+      "name": "Zero Day",
+      "url": "https://open.spotify.com/track/1dwC0I32wb53mXCECR4ZY7"
     },
     {
       "added_at": null,
@@ -411,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dance on the Blacktop",
-        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
+        "name": "Guilty of Everything",
+        "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
       },
       "artists": [
         {
@@ -420,9 +404,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 214613,
-      "name": "Us/We/are",
-      "url": "https://open.spotify.com/track/12v6blwysPzpK8DsOSB0z9"
+      "duration_ms": 281004,
+      "name": "Hymn to the Pillory",
+      "url": "https://open.spotify.com/track/5mR1Clx2pnR6RNSS0U3wq9"
     },
     {
       "added_at": null,
@@ -443,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Guilty of Everything",
-        "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
+        "name": "Dance on the Blacktop",
+        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
       },
       "artists": [
         {
@@ -452,9 +436,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 242759,
-      "name": "Dig",
-      "url": "https://open.spotify.com/track/2jUvEnpLXGQh94Qoymx4P8"
+      "duration_ms": 214613,
+      "name": "Us/We/are",
+      "url": "https://open.spotify.com/track/12v6blwysPzpK8DsOSB0z9"
     },
     {
       "added_at": null,
@@ -471,6 +455,38 @@
       "duration_ms": 300660,
       "name": "Eaten by Worms",
       "url": "https://open.spotify.com/track/6cpbYfrmRRATj7MK89ZMox"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Guilty of Everything",
+        "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 242759,
+      "name": "Dig",
+      "url": "https://open.spotify.com/track/2jUvEnpLXGQh94Qoymx4P8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Great Dismal",
+        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 318709,
+      "name": "In Blueberry Memories",
+      "url": "https://open.spotify.com/track/3wjWNCX6ADU9NaOSoRZhSQ"
     },
     {
       "added_at": null,
@@ -495,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Great Dismal",
-        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+        "name": "Dance on the Blacktop",
+        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
       },
       "artists": [
         {
@@ -504,9 +520,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 318709,
-      "name": "In Blueberry Memories",
-      "url": "https://open.spotify.com/track/3wjWNCX6ADU9NaOSoRZhSQ"
+      "duration_ms": 284000,
+      "name": "Plastic Migraine",
+      "url": "https://open.spotify.com/track/2K4MJk3z1GgNKIElhcwT44"
     },
     {
       "added_at": null,
@@ -527,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dance on the Blacktop",
-        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
+        "name": "The Great Dismal",
+        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
       },
       "artists": [
         {
@@ -536,9 +552,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 284000,
-      "name": "Plastic Migraine",
-      "url": "https://open.spotify.com/track/2K4MJk3z1GgNKIElhcwT44"
+      "duration_ms": 247231,
+      "name": "Bernie Sanders",
+      "url": "https://open.spotify.com/track/5SQkUFHUn2Gsj5tfvNKoa0"
     },
     {
       "added_at": null,
@@ -563,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Great Dismal",
-        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+        "name": "Dance on the Blacktop",
+        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
       },
       "artists": [
         {
@@ -572,9 +588,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 247231,
-      "name": "Bernie Sanders",
-      "url": "https://open.spotify.com/track/5SQkUFHUn2Gsj5tfvNKoa0"
+      "duration_ms": 239920,
+      "name": "You Wind Me Up",
+      "url": "https://open.spotify.com/track/6yUAD5PO15m2Vc4OZBloQw"
     },
     {
       "added_at": null,
@@ -595,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dance on the Blacktop",
-        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
+        "name": "Downward Years to Come",
+        "url": "https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj"
       },
       "artists": [
         {
@@ -604,9 +620,29 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 239920,
-      "name": "You Wind Me Up",
-      "url": "https://open.spotify.com/track/6yUAD5PO15m2Vc4OZBloQw"
+      "duration_ms": 308600,
+      "name": "Downward Years to Come",
+      "url": "https://open.spotify.com/track/32UJl7FXThutfVf3QtBCwS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When No Birds Sang",
+        "url": "https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6"
+      },
+      "artists": [
+        {
+          "name": "Full Of Hell",
+          "url": "https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz"
+        },
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 491133,
+      "name": "Rose Tinted World",
+      "url": "https://open.spotify.com/track/67vYna8TF0R0kQfN92x933"
     },
     {
       "added_at": null,
@@ -620,9 +656,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 308600,
-      "name": "Downward Years to Come",
-      "url": "https://open.spotify.com/track/32UJl7FXThutfVf3QtBCwS"
+      "duration_ms": 375933,
+      "name": "Mine Is Clouds",
+      "url": "https://open.spotify.com/track/4yCLoPgF4fv3GRvwKOflMO"
     },
     {
       "added_at": null,

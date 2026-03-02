@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 
 > Gentle instrumental covers of known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,142,260 likes - 200 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,142,805 likes - 200 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 199 | [Every Breath You Take](https://open.spotify.com/track/1RjNPuM8U0SWtPTnUzIXhG) | [Bart Cohen](https://open.spotify.com/artist/0QBLDqfkyZjtQJPlLeLvQh) | [Every Breath You Take](https://open.spotify.com/album/5tpnMfk0ZIYsjnwwsmzntv) | 2:45 |
 | 200 | [A whiter shade of pale](https://open.spotify.com/track/7gb7bAdUDArVuoyNh2F90F) | [Zach Flash](https://open.spotify.com/artist/245BfbwD5kOa5wFTd0Bl5w) | [A whiter shade of pale](https://open.spotify.com/album/7MfYvNk4UVEAZgkKZP05eA) | 2:37 |
 
-Snapshot ID: `AAAAAEmoxHAvyIRRmmNbxF60CZ8IyjGB`
+Snapshot ID: `AAAAAKF+bTH8f0kLxuAsvYjOjTpaODPX`

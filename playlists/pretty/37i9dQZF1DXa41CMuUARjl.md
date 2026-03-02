@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's best new <a href="spotify:genre:edm\_dance">dance and electronic releases</a> from HoneyLuv, MPH, Four Tet, Hannah Laing, & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,398 likes - 140 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,419 likes - 140 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

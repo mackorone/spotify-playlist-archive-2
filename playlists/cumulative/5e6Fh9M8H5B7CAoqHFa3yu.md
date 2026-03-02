@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,898 songs - 4 day 17 hr 42 min
+1,900 songs - 4 day 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,6 +475,7 @@
 | [Easy](https://open.spotify.com/track/7kHsUC130CgJgVNjsUhh71) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Easy](https://open.spotify.com/album/59YZHomQFKn0in43lI0Px9) | 4:10 | 2023-03-15 |  |
 | [EAT MY ACID](https://open.spotify.com/track/68hR7nF4saDsSrn0eREvue) | [EMM](https://open.spotify.com/artist/1pYPWJEmCbWjcqnxw3qcyo) | [BLACK DIAMOND](https://open.spotify.com/album/00aWPd7iB5wgq8oaarPFKf) | 2:55 | 2025-11-04 |  |
 | [Ecco la primavera](https://open.spotify.com/track/1lRJo7MOJaDuB3MJ66qDhD) | [Francesco Landini](https://open.spotify.com/artist/4yvZ9OueU8lXBhmon7qswI), [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Música Antigua Para Cítola Y Vihuela](https://open.spotify.com/album/03xRLo5mXY5KsALtg92jCh) | 1:01 | 2025-08-11 |  |
+| [Echo Of You](https://open.spotify.com/track/5cWmg3WlMZeTQbHhGuKm21) | [VANYRA X](https://open.spotify.com/artist/3rWPyQgHJ9pvXOK7KtBX1Z) | [Echo Of You](https://open.spotify.com/album/1uxa967QvZrV3185K7Vbow) | 3:34 | 2026-03-01 |  |
 | [Ecstasy](https://open.spotify.com/track/7ofFY0Oamx4tnWa6G2S1RC) | [Yellstone](https://open.spotify.com/artist/0ZKMOq56KamtscCLIl8Lah) | [Ecstasy](https://open.spotify.com/album/7jiK2hsrbjuWSOvsQ7dBbF) | 3:07 | 2025-05-12 |  |
 | [Eins, zwei, drei… PROST!](https://open.spotify.com/track/2ku2pmw8xz2wFjHSkw5TLl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Eins, zwei, drei… PROST!](https://open.spotify.com/album/0GGL99juAuKOzqbT2gTPJi) | 2:05 | 2025-09-19 |  |
 | [Ekip](https://open.spotify.com/track/322dZWh5J7WlZMeZpnsSLJ) | [Merakey](https://open.spotify.com/artist/1BBKC0Oklk2pFQ2adawEHs), [DJ OB ONE](https://open.spotify.com/artist/6wHxaWiiQuivK7dFvarlLQ), [Dj Creem](https://open.spotify.com/artist/5vMo2aFvC4U5DstyBAOR7b), [DJ Dash](https://open.spotify.com/artist/6lYqR7ZdA9gXysMZFXvq27) | [DPC JAM \- The Soundtrack 2024](https://open.spotify.com/album/4FmzgUezFeLaKRw11gx9QJ) | 2:56 | 2026-02-07 |  |
@@ -1686,6 +1687,7 @@
 | [Tomorrow](https://open.spotify.com/track/5Y3vdGngM9PdwiWCY4DjIw) | [Samadhi Radio](https://open.spotify.com/artist/1Xo5Iukw1wJ05KCIy9STI8) | [When time runs dry](https://open.spotify.com/album/151onIPEKJjuyooQEEVfKE) | 3:25 | 2025-07-13 |  |
 | [Tomorrow](https://open.spotify.com/track/7fITm5BPEBFThb59785P5n) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Lifelike Figures](https://open.spotify.com/album/2eRVXNj2T29DPJqFsB7A7H) | 3:19 | 2025-05-22 |  |
 | [Tomorrow](https://open.spotify.com/track/4gIx5xurI60c22H8BAd22T) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 2:39 | 2025-12-01 |  |
+| [Tomorrow \(LIVE AT THE PUB\)](https://open.spotify.com/track/3Kk8rxvmWCdjRfvCyXVXY0) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [Tomorrow \(LIVE AT THE PUB\)](https://open.spotify.com/album/01dMlVbOA4a9GiutfbOn13) | 3:05 | 2026-03-01 |  |
 | [Tomorrow Belongs to the Dreamers](https://open.spotify.com/track/30O7modvTlt6e4bOvRZySE) | [Nik & Kat](https://open.spotify.com/artist/5RIdtHfccAeXNQJ42OtvYR) | [Tomorrow Belongs to the Dreamers](https://open.spotify.com/album/3ZEdJjMF9XVswuKhStTwRk) | 3:45 | 2025-05-06 |  |
 | [Too DRUNK at The Kickback](https://open.spotify.com/track/0CYCw3lz3URZTO0Q1RVEIw) | [Chris Mohead](https://open.spotify.com/artist/2x99P9SkKleI2muhh0VYFt), [Kwame](https://open.spotify.com/artist/6KEArOax7RqRZ5DMZavUVJ) | [The Kickback](https://open.spotify.com/album/4NUAtn8dhZODnlkdXKOA6y) | 2:36 | 2025-10-16 |  |
 | [Too Early At The Party](https://open.spotify.com/track/1fQuEEuJIfMfucOy1x7mME) | [Amaury Laurent Bernier](https://open.spotify.com/artist/3W838tQ7KOuhu6lq0DbKvK) | [Polaroid Revolt](https://open.spotify.com/album/2VigbaNTOIGykpEppCAzz7) | 3:45 | 2025-11-29 |  |

@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-687 songs - 1 day 16 hr 27 min
+688 songs - 1 day 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,6 +373,7 @@
 | [Mi piace quando ridi](https://open.spotify.com/track/0ZwphHJg0IMkAnlPx0blwC) | [David Monni](https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx) | [Mi piace quando ridi](https://open.spotify.com/album/4iK1pnUBHpvdKYI8lvm4ki) | 2:58 | 2026-02-06 |  |
 | [Mi voluntad](https://open.spotify.com/track/5tXPiB9wwihAlWuwS5hYr0) | [Eterea](https://open.spotify.com/artist/4H08iozMUTfC4kj5mPnDPD) | [Que la luna me desarme](https://open.spotify.com/album/4npBuLFIMtPnj5EFaa2zBN) | 3:14 | 2026-01-29 | 2026-02-28 |
 | [Mia Famiglia](https://open.spotify.com/track/0qW4zEOpPIKQffT2J9Vt4M) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3), [Giancarlo Romani](https://open.spotify.com/artist/59gxTwI7Wu2hNmNyj5l4Su), [Danilo Gambardella](https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE), [Maurizio Perrone](https://open.spotify.com/artist/2PICoEK7lgXMhdL89xvvKr), [Massimiliano De Lucia](https://open.spotify.com/artist/0sXIcrA8yfLCqZQYC2MtIc) | [Mia Famiglia](https://open.spotify.com/album/06gfq63dLIwYSqh0ou4nN1) | 4:17 | 2026-01-09 |  |
+| [Midnight Train](https://open.spotify.com/track/75ndxPSgPcezSP8xz2UuSb) | [RayOrbit](https://open.spotify.com/artist/1kG8I34nBNWoXtkp53JdT2) | [Midnight Train](https://open.spotify.com/album/6ia67fR6ixurUa0oysyGXn) | 4:50 | 2026-03-01 |  |
 | [Milenios de Amor](https://open.spotify.com/track/5SKERroWJAtPprqyweRjuO) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [¿A dónde irá el amor?](https://open.spotify.com/album/70mPEYs6WVlLBIDXtP4m0R) | 3:28 | 2025-12-09 | 2026-01-05 |
 | [Misery](https://open.spotify.com/track/1q5pZyYwDaqMk17GkkaOMH) | [B1GHEADCHRIS](https://open.spotify.com/artist/1qfIzy7pywvM34nzOv6DA6), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [Misery](https://open.spotify.com/album/1HpxaI60U9dBKNv5kDRu5x) | 3:53 | 2025-08-23 | 2025-11-29 |
 | [Misfits Rejoice](https://open.spotify.com/track/1T08MkKOgNuqMHg3nDjsnU) | [Purple Microdot](https://open.spotify.com/artist/7a8uvG9bm2pkf2BeVpJiB4) | [Misfits Rejoice](https://open.spotify.com/album/1mVKv1gmUXXFLxBZgViTDe) | 2:34 | 2026-02-19 |  |

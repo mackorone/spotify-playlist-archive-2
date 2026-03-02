@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-736 songs - 1 day 11 hr 52 min
+738 songs - 1 day 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Deixa o Choro Pingar \- Ao Vivo](https://open.spotify.com/track/68DbeflYqndZsXCca7hc3R) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [\#Nabebidaenasofrência, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/43VostSbPyVlPMEGNy6zSX) | 2:53 | 2023-12-30 | 2025-11-14 |
 | [Delicinha](https://open.spotify.com/track/4Vwr6rNipMxIolYHDDb86L) | [Gabriel Gava](https://open.spotify.com/artist/01WrcqajqftNjrRuSqgyQA), [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Delicinha](https://open.spotify.com/album/3OdNgpZ9q0CqFwDpzcqZGJ) | 2:57 | 2023-12-30 |  |
 | [Depois Da Sua Cama](https://open.spotify.com/track/49mZTOxSbyZOjNoxQmpHBk) | [Carol Villa](https://open.spotify.com/artist/1nr8Q8WNEAb3znVkAlZGOO) | [Depois Da Sua Cama](https://open.spotify.com/album/1U3kr6pxUwMw0LJgpsCQ1Y) | 3:05 | 2024-11-25 |  |
+| [Depois Nois Melhora](https://open.spotify.com/track/2yU5H3o6QnEfNrqF6USOE5) | [Augusto Dávila](https://open.spotify.com/artist/6CdeVbV2irRNWkOSAA8BrF), [Duda Bertelli](https://open.spotify.com/artist/0Zuy8Df6xyPDVxstUOsHQO) | [Depois Nois Melhora](https://open.spotify.com/album/6tH25ZGHnI4GulRJ8cDy13) | 2:25 | 2026-03-01 |  |
 | [Desafoga](https://open.spotify.com/track/6bda1JRKm5caqWvTgvjrSb) | [Matheus Moraes](https://open.spotify.com/artist/2NwH41qkOrtEwPQOJF3FP7), [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Desafoga](https://open.spotify.com/album/6NR67zP4bXIk2EjbaBJtXR) | 2:52 | 2023-12-30 | 2024-07-20 |
 | [Desafoga \(feat\. Felipe Araújo\)](https://open.spotify.com/track/05Wzecpl3URq4szAUEmCs2) | [Matheus Moraes](https://open.spotify.com/artist/2NwH41qkOrtEwPQOJF3FP7), [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Desafoga \(feat\. Felipe Araújo\)](https://open.spotify.com/album/5WqWpIJxnHvG2l5jzPOORF) | 2:52 | 2024-07-19 | 2025-07-10 |
 | [Desafoga \- Ao Vivo](https://open.spotify.com/track/0KVmZdDFAbzXflNFw2E1B9) | [Kadim e Leo](https://open.spotify.com/artist/6x2roFsjZU1YqUJq58sMaC) | [Kadim & Leo, Ep\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3NCcF2gAXNWY3KG32vk6qK) | 3:03 | 2025-07-09 |  |
@@ -589,7 +590,8 @@
 | [Senhor Juiz \- Ao Vivo](https://open.spotify.com/track/4ESj3Ty0PtAMUKxWJpI36C) | [Hugo Pena](https://open.spotify.com/artist/77PXntcAH6TrnvUuXE3cU9) | [Hugo Pena e Segundeiros do Brasil \(Ao Vivo\)](https://open.spotify.com/album/6QZoLubUpvsytHxs1M013X) | 3:16 | 2024-03-26 |  |
 | [Sete Vidas](https://open.spotify.com/track/3roe5tPp6hWqnQf7uvEz3L) | [Leandro Kato](https://open.spotify.com/artist/2Cse5DmD2EpqYRlVin7qjo) | [Sete Vidas \- Ep1](https://open.spotify.com/album/1z8g8hfoWvGFDrCTq0QpcS) | 2:33 | 2024-04-10 |  |
 | [Seu Fã](https://open.spotify.com/track/2CDJmsUEuKdILRxi2B5P2s) | [Luciano](https://open.spotify.com/artist/393U4fED3zDAdZRXZ1IWWT) | [Dois Tempos, Pt\. 2](https://open.spotify.com/album/4qsjL0Fi1XFyW9ag7Mmdmk) | 3:18 | 2023-12-30 |  |
-| [Seu Rolê](https://open.spotify.com/track/2Y8liP3ppwsrk1OArUkeVh) | [Guto e Rafael](https://open.spotify.com/artist/0YzQuhhZMbqDepWhuSANAp) | [Seu Rolê](https://open.spotify.com/album/4Z7jnESJVRuwjP2ulq3gp5) | 2:36 | 2023-12-30 |  |
+| [Seu Rolê](https://open.spotify.com/track/1g9btLNQZ8XCVHz4WvxATH) | [Guto e Rafael](https://open.spotify.com/artist/0YzQuhhZMbqDepWhuSANAp) | [Seu Rolê](https://open.spotify.com/album/1vOM6Q8JRZmsdAdnSiifs7) | 2:36 | 2026-03-01 |  |
+| [Seu Rolê](https://open.spotify.com/track/2Y8liP3ppwsrk1OArUkeVh) | [Guto e Rafael](https://open.spotify.com/artist/0YzQuhhZMbqDepWhuSANAp) | [Seu Rolê](https://open.spotify.com/album/4Z7jnESJVRuwjP2ulq3gp5) | 2:36 | 2023-12-30 | 2026-03-02 |
 | [Sexo Frágil \- Ao Vivo](https://open.spotify.com/track/5ZwIuaCGWtsOxbSsJfSD7U) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Day e Lara \(...\) \[Ao Vivo\]](https://open.spotify.com/album/4ijQqGz1C1a8JtKBykhYsj) | 3:23 | 2023-12-30 |  |
 | [Sextazona](https://open.spotify.com/track/5jCLRfRHHQOZfvdftV1MVt) | [João Stelutti](https://open.spotify.com/artist/0hdEG1P4kfjPOn1N2LkrXa), [Bruno & Barretto](https://open.spotify.com/artist/70x9rYb58QCNNeNxuO3StS) | [Sextazona](https://open.spotify.com/album/6NqTgIUrbzfvwFCpNuQ98R) | 2:26 | 2023-12-30 | 2025-06-28 |
 | [Sigo Iludido \- Ao Vivo](https://open.spotify.com/track/2WHhhSnr3befSWt1E8hW4G) | [Diego & Ramon](https://open.spotify.com/artist/4OgxwJz0WEilpnnmHLnCCR), [Bruno](https://open.spotify.com/artist/6xTE2Q6MPdXyS5FJ6JGURo) | [Sigo Iludido \(Ao Vivo\)](https://open.spotify.com/album/6jJVD2pkEqzisCaFNc7LBG) | 2:58 | 2023-12-30 |  |

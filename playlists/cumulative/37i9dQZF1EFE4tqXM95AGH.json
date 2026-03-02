@@ -551,6 +551,24 @@
     },
     {
       "album": {
+        "name": "star scum city",
+        "url": "https://open.spotify.com/album/0T5M2ccVJg6rJZaLAp5xmZ"
+      },
+      "artists": [
+        {
+          "name": "2charm",
+          "url": "https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221367,
+      "name": "chateau",
+      "url": "https://open.spotify.com/track/58aMAhdMkN5OO4y9oRjd8E"
+    },
+    {
+      "album": {
         "name": "Chemical Reaction",
         "url": "https://open.spotify.com/album/5aCO10dxpRi1HiMtSyMaDC"
       },

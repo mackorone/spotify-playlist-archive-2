@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 
 ### [Folk Mexicano](https://open.spotify.com/playlist/37i9dQZF1DX2XI8j0WLbht)
 
-> una guitarra y mucho sentimiento para cantar\. Macario Martínez en portada.
+> una guitarra y mucho sentimiento para cantar\. Natalia Lafourcade en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,733 likes - 77 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,760 likes - 77 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

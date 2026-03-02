@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Angèle & Justice, Bruno Mars et Jolagreen23 x Tiakola au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,709 likes - 86 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,685 likes - 86 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

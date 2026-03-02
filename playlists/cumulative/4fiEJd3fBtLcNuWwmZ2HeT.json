@@ -1360,7 +1360,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 243677,
       "name": "Dokuhaku",
       "url": "https://open.spotify.com/track/2y3kuBk487S1ulblqdsn5U"
@@ -4105,6 +4105,24 @@
     },
     {
       "album": {
+        "name": "Rakuraku annrakushi",
+        "url": "https://open.spotify.com/album/06mpsnBQWKwiHmSyyqTRwR"
+      },
+      "artists": [
+        {
+          "name": "PEPOYO",
+          "url": "https://open.spotify.com/artist/4bbwL5ExcnumLvnzz5BL74"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250270,
+      "name": "Rakuraku annrakushi",
+      "url": "https://open.spotify.com/track/3aqSio8aHpLnfaUgdg8xAO"
+    },
+    {
+      "album": {
         "name": "Whale-fall Community",
         "url": "https://open.spotify.com/album/25sMXhTMexGKpfDuPxighr"
       },
@@ -6411,6 +6429,24 @@
     },
     {
       "album": {
+        "name": "\u30c9\u30af\u30cf\u30af",
+        "url": "https://open.spotify.com/album/0h6BDdJ8aeoBhIY2VER4Xv"
+      },
+      "artists": [
+        {
+          "name": "MARETU",
+          "url": "https://open.spotify.com/artist/5xyAdpFAdfuMpS3uRXKPpB"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245706,
+      "name": "\u30c9\u30af\u30cf\u30af",
+      "url": "https://open.spotify.com/track/4u1vzzB6PIzYgwqb7ABSpH"
+    },
+    {
+      "album": {
         "name": "\u30cd\u30d0\u30fc\u30d5\u30a3\u30af\u30b7\u30e7\u30f3 (feat. \u661f\u8857\u3059\u3044\u305b\u3044)",
         "url": "https://open.spotify.com/album/61hPWE3xufYcYjiqZGYHXp"
       },
@@ -6976,6 +7012,24 @@
       "duration_ms": 189412,
       "name": "\u30ea\u30ec\u30a4\u30a2\u30a6\u30bf\u30fc",
       "url": "https://open.spotify.com/track/1hc0G2VMFmkqI0JnW5Zbjh"
+    },
+    {
+      "album": {
+        "name": "\u30a6\u30a7\u30b6\u30fc\u30b9\u30c6\u30fc\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/6jg2tl87TSzWMU6SXYUwsd"
+      },
+      "artists": [
+        {
+          "name": "\u7a32\u8449\u66c7",
+          "url": "https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194946,
+      "name": "\u30ec\u30a4\u30cb\u30fc\u30d6\u30fc\u30c4",
+      "url": "https://open.spotify.com/track/1OQwvsS1fqohD6xH7zoOy7"
     },
     {
       "album": {
@@ -7988,6 +8042,42 @@
       "duration_ms": 226937,
       "name": "\u7802\u7cd6\u3058\u304b\u3051\u306e\u96fb\u5f71\u8857 (feat. GUMI)",
       "url": "https://open.spotify.com/track/7woJbv6ZxTfNM2eqbTNxYH"
+    },
+    {
+      "album": {
+        "name": "\u79c1\u306e\u604b\u306f\u30d8\u30eb\u30d5\u30a1\u30a4\u30a2",
+        "url": "https://open.spotify.com/album/1WyO7Ij2uvv5FDimlZTBbr"
+      },
+      "artists": [
+        {
+          "name": "SLAVE.V-V-R",
+          "url": "https://open.spotify.com/artist/1onKSSP12ag3LqViv4sBzR"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196140,
+      "name": "\u79c1\u306e\u604b\u306f\u30d8\u30eb\u30d5\u30a1\u30a4\u30a2 (feat. MEIKO)",
+      "url": "https://open.spotify.com/track/1fqpUqtqVLbDZXrtmFK1eW"
+    },
+    {
+      "album": {
+        "name": "\u79c1\u306f\u96e8",
+        "url": "https://open.spotify.com/album/6kAEY3WED6CgfhVzsLUQHN"
+      },
+      "artists": [
+        {
+          "name": "\u7a32\u8449\u66c7",
+          "url": "https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220416,
+      "name": "\u79c1\u306f\u96e8",
+      "url": "https://open.spotify.com/track/3s5sFHV8VTzg0CSXy3gz5y"
     },
     {
       "album": {

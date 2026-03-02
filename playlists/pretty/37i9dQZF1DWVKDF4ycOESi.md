@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Bruno Mars,  Sayf, Ditonellapiaga, nayt, RAYE, Alex Warren e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,145 likes - 77 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,135 likes - 77 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 76 | [FLAITEERA](https://open.spotify.com/track/2mh6vP7zo6mDXXKLnpHLPt) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [SINAKA](https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl), [Kennat](https://open.spotify.com/artist/638YptdwVSImAVaR5aUagq), [Benja Valencia](https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP) | [FLAITEERA](https://open.spotify.com/album/4IuwTipm83UsyGlgQclqW8) | 4:04 |
 | 77 | [non ho più freddo](https://open.spotify.com/track/0LRT4XR4KWgBUb7QX11CJ6) | [Kosh Anade](https://open.spotify.com/artist/5lkCExarEg4AtOn0xgWpI1), [Lo Straqen](https://open.spotify.com/artist/1dzBGHcvmxo5Fu3TdVpC1Z) | [non ho più freddo](https://open.spotify.com/album/4JHq4niwl2TV4ZIi4wlEyX) | 2:53 |
 
-Snapshot ID: `AAAAAOauKrL9LCruUxb0qevshyd3b7iY`
+Snapshot ID: `AAAAAJB0Xf5r2oZ9QznXojCfYl3M/MIO`

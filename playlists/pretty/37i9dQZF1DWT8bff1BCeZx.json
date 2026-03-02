@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 24301,
+  "num_followers": 24317,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABnCkM+yBvT+aJ8xJe4EyUndZOuU",
+  "snapshot_id": "AAAAAIAc52gdMEtRnFnsJomwRHXHsx78",
   "tracks": [
     {
       "added_at": "2023-05-26 00:01:00",
@@ -63,6 +63,22 @@
       "duration_ms": 184347,
       "name": "Promise Keeper",
       "url": "https://open.spotify.com/track/4kQlvea7CbFtYSiy9t3ykj"
+    },
+    {
+      "added_at": "2026-03-01 10:17:06",
+      "album": {
+        "name": "Mma Mma",
+        "url": "https://open.spotify.com/album/6RqkRdP2h5tw0PupBNfn0X"
+      },
+      "artists": [
+        {
+          "name": "OMASHINES",
+          "url": "https://open.spotify.com/artist/2WPK5MznLVJDeI440TE3QM"
+        }
+      ],
+      "duration_ms": 178663,
+      "name": "Mma Mma",
+      "url": "https://open.spotify.com/track/4wPrrk1ugsb8u6fWRldiPm"
     },
     {
       "added_at": "2026-02-27 00:01:20",

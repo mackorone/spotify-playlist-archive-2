@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JfKlntuxjdB6N1mp9PYoF">Cory Henry</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-114 songs - 7 hr 51 min
+115 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Touched The Sky](https://open.spotify.com/track/1Mny8zZspJQGl32fxWiVjF) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Divine Time](https://open.spotify.com/album/6EcAxImXQ3INgUwyumOLcz) | 5:02 | 2025-12-27 |  |
 | [Trade It All](https://open.spotify.com/track/3OZqqgl3jpCodZrMCJuZBK) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Art of Love](https://open.spotify.com/album/7GmZgoldBKNdXMNqq0llGh) | 6:50 | 2024-05-01 |  |
 | [Up the Road](https://open.spotify.com/track/41W11tB5n4diSijDunvrHF) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 4:25 | 2024-05-01 |  |
+| [Walk on By](https://open.spotify.com/track/26EpdF7vnJJVj4CCQOWZW4) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Susan Carol](https://open.spotify.com/artist/2WmGi2N6RChXuo85yX9mMm) | [Divine Time](https://open.spotify.com/album/6EcAxImXQ3INgUwyumOLcz) | 4:43 | 2026-03-01 |  |
 | [Walkin](https://open.spotify.com/track/6PHsbjxjYxS9LH5IXW1Xrm) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 6:20 | 2024-05-01 |  |
 | [Waterfall](https://open.spotify.com/track/55svzLRbfbsISEmxzvpFce) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 5:10 | 2024-05-01 |  |
 | [What a Pity](https://open.spotify.com/track/1SxWq956NaCVQsIN6ZupF6) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 4:06 | 2024-05-01 |  |

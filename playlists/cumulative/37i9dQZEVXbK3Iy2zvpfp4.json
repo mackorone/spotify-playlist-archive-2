@@ -7311,6 +7311,24 @@
     },
     {
       "album": {
+        "name": "The Chris Rainbow Anthology",
+        "url": "https://open.spotify.com/album/3uJ0vJKjo6059nVpcQGpLC"
+      },
+      "artists": [
+        {
+          "name": "Chris Rainbow",
+          "url": "https://open.spotify.com/artist/0CnHF3fzueVi59nz8fdwcl"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240773,
+      "name": "Be Like a Woman",
+      "url": "https://open.spotify.com/track/41IZazdHzQOB9ZlvReDzgR"
+    },
+    {
+      "album": {
         "name": "Be My Lover (feat. La Bouche) [2023 Mix]",
         "url": "https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX"
       },
@@ -34260,7 +34278,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-26",
+      "date_removed": null,
       "duration_ms": 124267,
       "name": "Italiano,Cigan,Arab",
       "url": "https://open.spotify.com/track/0ByJbHq3o1ssNSTSWZAZi9"
@@ -39774,7 +39792,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-01",
+      "date_removed": null,
       "duration_ms": 138897,
       "name": "Loop",
       "url": "https://open.spotify.com/track/0OD0jZsRWsC8FwKektKyA4"
@@ -39792,7 +39810,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 138897,
       "name": "Loop",
       "url": "https://open.spotify.com/track/7vvW4Z6Hry5FXX5izk5z5m"
@@ -48606,7 +48624,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 193826,
       "name": "Nech Boze Da - Radio Edit",
       "url": "https://open.spotify.com/track/5LI2snLaWMSNxdTVsA6iiK"
@@ -79560,7 +79578,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 148006,
       "name": "WOOPAAA",
       "url": "https://open.spotify.com/track/4wtd8ekJ0ntQADpwLaPOgy"

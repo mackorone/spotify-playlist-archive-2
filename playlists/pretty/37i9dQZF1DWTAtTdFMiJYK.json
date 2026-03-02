@@ -1,12 +1,12 @@
 {
   "description": "Most exciting artists from the Indian Indie scene. Cover: Yawar Abdal",
-  "num_followers": 189665,
+  "num_followers": 189711,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB7MFSBIqDtBzmWfwsoRVtYZ3en9",
+  "snapshot_id": "AAAAAGDyD8gBBikbxofYiK2K7tjohJyl",
   "tracks": [
     {
       "added_at": "2026-02-20 05:09:37",
@@ -165,20 +165,24 @@
       "url": "https://open.spotify.com/track/0YRpv07J0y7J73X87efpia"
     },
     {
-      "added_at": "2026-02-20 05:09:37",
+      "added_at": "2026-03-01 07:58:02",
       "album": {
-        "name": "nadaaniyan",
-        "url": "https://open.spotify.com/album/5iB4wggqDR2cQSduJGBfUy"
+        "name": "Kadi Aavi Ve",
+        "url": "https://open.spotify.com/album/7dS96yd0E0HFjjooBy7cB6"
       },
       "artists": [
         {
-          "name": "Akshath",
-          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
+          "name": "Sambhav Baxi",
+          "url": "https://open.spotify.com/artist/3nATuYrOHrDL1dwzuw8lk2"
+        },
+        {
+          "name": "Kawan",
+          "url": "https://open.spotify.com/artist/6vLCEFCznzcd6s69cV5XuA"
         }
       ],
-      "duration_ms": 171063,
-      "name": "nadaaniyan",
-      "url": "https://open.spotify.com/track/3bmsaFp11I9pbicxzlStf3"
+      "duration_ms": 282371,
+      "name": "Kadi Aavi Ve",
+      "url": "https://open.spotify.com/track/3IZU0qqTeHH6ae6TF2YFFy"
     },
     {
       "added_at": "2026-02-20 05:09:37",
@@ -203,26 +207,18 @@
     {
       "added_at": "2026-02-20 05:09:37",
       "album": {
-        "name": "Baawra",
-        "url": "https://open.spotify.com/album/58CpJdSRp7B0Hg96V45ch1"
+        "name": "nadaaniyan",
+        "url": "https://open.spotify.com/album/5iB4wggqDR2cQSduJGBfUy"
       },
       "artists": [
         {
-          "name": "Kushagra",
-          "url": "https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6"
-        },
-        {
-          "name": "Tanishka Bahl",
-          "url": "https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw"
-        },
-        {
-          "name": "Akash Rajput",
-          "url": "https://open.spotify.com/artist/3PedLNTFVPKy2wUQbiq0gk"
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
         }
       ],
-      "duration_ms": 268000,
-      "name": "Baawra",
-      "url": "https://open.spotify.com/track/2Repz4eP8qEqOVz8CltLZ0"
+      "duration_ms": 171063,
+      "name": "nadaaniyan",
+      "url": "https://open.spotify.com/track/3bmsaFp11I9pbicxzlStf3"
     },
     {
       "added_at": "2026-02-20 05:09:37",
@@ -331,6 +327,46 @@
     {
       "added_at": "2026-02-20 05:09:37",
       "album": {
+        "name": "Baawra",
+        "url": "https://open.spotify.com/album/58CpJdSRp7B0Hg96V45ch1"
+      },
+      "artists": [
+        {
+          "name": "Kushagra",
+          "url": "https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6"
+        },
+        {
+          "name": "Tanishka Bahl",
+          "url": "https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw"
+        },
+        {
+          "name": "Akash Rajput",
+          "url": "https://open.spotify.com/artist/3PedLNTFVPKy2wUQbiq0gk"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Baawra",
+      "url": "https://open.spotify.com/track/2Repz4eP8qEqOVz8CltLZ0"
+    },
+    {
+      "added_at": "2026-02-20 05:09:37",
+      "album": {
+        "name": "Hourglass",
+        "url": "https://open.spotify.com/album/2XYwu6Gzx44CvbVCdjhWGE"
+      },
+      "artists": [
+        {
+          "name": "Run it's the Kid",
+          "url": "https://open.spotify.com/artist/36057fby7tY856T2vg7jQj"
+        }
+      ],
+      "duration_ms": 176869,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/2XoGeM2c6R2UFz8SKnJ0WV"
+    },
+    {
+      "added_at": "2026-02-20 05:09:37",
+      "album": {
         "name": "Ratiyaan",
         "url": "https://open.spotify.com/album/228bM7MDfeoocgddt5o8bl"
       },
@@ -355,22 +391,6 @@
     {
       "added_at": "2026-02-20 05:09:37",
       "album": {
-        "name": "Hourglass",
-        "url": "https://open.spotify.com/album/2XYwu6Gzx44CvbVCdjhWGE"
-      },
-      "artists": [
-        {
-          "name": "Run it's the Kid",
-          "url": "https://open.spotify.com/artist/36057fby7tY856T2vg7jQj"
-        }
-      ],
-      "duration_ms": 176869,
-      "name": "Hourglass",
-      "url": "https://open.spotify.com/track/2XoGeM2c6R2UFz8SKnJ0WV"
-    },
-    {
-      "added_at": "2026-02-20 05:09:37",
-      "album": {
         "name": "Savera",
         "url": "https://open.spotify.com/album/3JEj0JqpBIbAiIJ3SyADpd"
       },
@@ -391,22 +411,6 @@
     {
       "added_at": "2026-02-20 05:09:37",
       "album": {
-        "name": "Maara Makka (From \"Think Indie\")",
-        "url": "https://open.spotify.com/album/19DWPHifKZD73XLtkiRb6B"
-      },
-      "artists": [
-        {
-          "name": "rudh",
-          "url": "https://open.spotify.com/artist/2Q3UCe0lQfw6yrq7EoOb4t"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "Maara Makka - From \"Think Indie\"",
-      "url": "https://open.spotify.com/track/13TxDpBIVafb5iAKXaO6IG"
-    },
-    {
-      "added_at": "2026-02-20 05:09:37",
-      "album": {
         "name": "Patang (From \"UR Debut\")",
         "url": "https://open.spotify.com/album/11FDeXQnlSkuyT1IZPTH0O"
       },
@@ -423,6 +427,22 @@
       "duration_ms": 178222,
       "name": "Patang (From \"UR Debut\")",
       "url": "https://open.spotify.com/track/0epXbBmjLluPZbhdZv5Vda"
+    },
+    {
+      "added_at": "2026-02-20 05:09:37",
+      "album": {
+        "name": "Maara Makka (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/19DWPHifKZD73XLtkiRb6B"
+      },
+      "artists": [
+        {
+          "name": "rudh",
+          "url": "https://open.spotify.com/artist/2Q3UCe0lQfw6yrq7EoOb4t"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Maara Makka - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/13TxDpBIVafb5iAKXaO6IG"
     },
     {
       "added_at": "2026-02-20 05:09:37",
@@ -1423,26 +1443,6 @@
       "duration_ms": 227177,
       "name": "Tu Jaise Dariya",
       "url": "https://open.spotify.com/track/75983zLFgUzgjJM45aY0Mn"
-    },
-    {
-      "added_at": "2026-02-20 05:09:37",
-      "album": {
-        "name": "RAW",
-        "url": "https://open.spotify.com/album/3M9ZZrIGlCkgb22viZRvdE"
-      },
-      "artists": [
-        {
-          "name": "DONNI\u00a3",
-          "url": "https://open.spotify.com/artist/4pT4uhS01avUmbvVTJzybq"
-        },
-        {
-          "name": "Nyn Music",
-          "url": "https://open.spotify.com/artist/1mdpuEMzGFix1xdvjOma0t"
-        }
-      ],
-      "duration_ms": 236065,
-      "name": "RAW",
-      "url": "https://open.spotify.com/track/3MVxAa6fIRXdUFqKA6NGmp"
     }
   ],
   "unique_name": "RADAR India",

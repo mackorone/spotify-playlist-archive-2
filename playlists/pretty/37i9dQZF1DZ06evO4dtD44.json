@@ -1,12 +1,12 @@
 {
   "description": "This is Jo\u00e3o Gilberto. The essential tracks, all in one playlist.",
-  "num_followers": 62769,
+  "num_followers": 62765,
   "original_name": "This Is Jo\u00e3o Gilberto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaDegAAAAAB6iFYNrgJkqkGWZt6e4y5D",
+  "snapshot_id": "aaIwAAAAAADT9glr/mr3UmaU9l5z4Wun",
   "tracks": [
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 176173,
-      "name": "Nao Vou Pra Casa",
-      "url": "https://open.spotify.com/track/4sw0RHCif9pADb47PxGDMk"
+      "duration_ms": 176360,
+      "name": "Voc\u00ea Vai Ver",
+      "url": "https://open.spotify.com/track/4qUeWZKSawVPEQpgh1sZvT"
     },
     {
       "added_at": null,
@@ -812,25 +812,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 176360,
-      "name": "Voc\u00ea Vai Ver",
-      "url": "https://open.spotify.com/track/4qUeWZKSawVPEQpgh1sZvT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jo\u00e3o Gilberto",
-        "url": "https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 397453,
-      "name": "Undi\u00fa",
-      "url": "https://open.spotify.com/track/5DPhD44bQHEOBPGRzc3Ebl"
+      "duration_ms": 176173,
+      "name": "Nao Vou Pra Casa",
+      "url": "https://open.spotify.com/track/4sw0RHCif9pADb47PxGDMk"
     },
     {
       "added_at": null,
@@ -859,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jo\u00e3o Gilberto",
+        "url": "https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 397453,
+      "name": "Undi\u00fa",
+      "url": "https://open.spotify.com/track/5DPhD44bQHEOBPGRzc3Ebl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brazil",
         "url": "https://open.spotify.com/album/7B3DBrDOxHU0qBhbTjvYvK"
       },
@@ -879,6 +879,22 @@
       "duration_ms": 321640,
       "name": "All of Me (Disse algu\u00e9m)",
       "url": "https://open.spotify.com/track/3XUJt8gNj9O1eyNvOtVlL7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Mito (Digital Edition)",
+        "url": "https://open.spotify.com/album/3ndWeWYOu0nzSgREN9mScv"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 171546,
+      "name": "Coisa Mais Linda",
+      "url": "https://open.spotify.com/track/2EQXKBGTaFU29HLIiL7FCj"
     },
     {
       "added_at": null,
@@ -911,22 +927,6 @@
       "duration_ms": 308166,
       "name": "\u00c9 preciso Perdoar",
       "url": "https://open.spotify.com/track/2O6G533UXYJmbkrhzmt7OC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Mito (Digital Edition)",
-        "url": "https://open.spotify.com/album/3ndWeWYOu0nzSgREN9mScv"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 171546,
-      "name": "Coisa Mais Linda",
-      "url": "https://open.spotify.com/track/2EQXKBGTaFU29HLIiL7FCj"
     },
     {
       "added_at": null,

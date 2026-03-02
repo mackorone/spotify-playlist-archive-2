@@ -8699,6 +8699,24 @@
     },
     {
       "album": {
+        "name": "The Lantern",
+        "url": "https://open.spotify.com/album/4P1CdA5eMSgGFzLaA5nm4P"
+      },
+      "artists": [
+        {
+          "name": "Protonyk effe",
+          "url": "https://open.spotify.com/artist/6DCF1QIF6We2qC725gMLKN"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379279,
+      "name": "The Lantern",
+      "url": "https://open.spotify.com/track/6k3RupZgMFmF7YywVEzmSZ"
+    },
+    {
+      "album": {
         "name": "The Movement",
         "url": "https://open.spotify.com/album/5XGUdgMXArjFNlckLB5jUC"
       },

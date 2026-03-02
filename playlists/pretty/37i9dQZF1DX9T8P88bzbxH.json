@@ -1,486 +1,342 @@
 {
-  "description": "Singapore, you know the fanchants. It\u2019s about to feel like home again. Cover: SEVENTEEN",
-  "num_followers": 54933,
-  "original_name": "On Tour Singapore: SEVENTEEN",
+  "description": "DETOX: ONE OK ROCK at their most explosive yet. Cover: ONE OK ROCK",
+  "num_followers": 54905,
+  "original_name": "On Tour Singapore: ONE OK ROCK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMDeyGscA3TqiHISr7aZpp6JvirC",
+  "snapshot_id": "AAAAAHpjw/F+j2dKLfi0uzCR7AFyAZUL",
   "tracks": [
     {
-      "added_at": "2026-02-21 16:00:23",
+      "added_at": "2026-03-01 16:00:33",
       "album": {
-        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
-        "url": "https://open.spotify.com/album/6160Q4MxABBaeqMW5AZss4"
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 194493,
+      "name": "Puppets Can't Control You",
+      "url": "https://open.spotify.com/track/4KLOLezYVOg03lKu7EgmaI"
+    },
+    {
+      "added_at": "2026-03-01 16:00:33",
+      "album": {
+        "name": "Jinsei \u00d7 Boku =",
+        "url": "https://open.spotify.com/album/1PLXi3s3RDWoMUYw3SAl64"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 292733,
+      "name": "The Beginning",
+      "url": "https://open.spotify.com/track/2vAuqfENmrnySgcKHAwsZJ"
+    },
+    {
+      "added_at": "2026-03-01 16:00:33",
+      "album": {
+        "name": "Luxury Disease",
+        "url": "https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 197995,
+      "name": "Save Yourself",
+      "url": "https://open.spotify.com/track/5D5fiDX8MhK3lfHJmZZmpt"
+    },
+    {
+      "added_at": "2026-03-01 16:00:33",
+      "album": {
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 203922,
+      "name": "NASTY",
+      "url": "https://open.spotify.com/track/2Pn5ryxvT2qzACUISxOHLv"
+    },
+    {
+      "added_at": "2026-03-01 16:00:33",
+      "album": {
+        "name": "Renegades",
+        "url": "https://open.spotify.com/album/2YXEcU1J4p8HyIVatFFmng"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 244538,
+      "name": "Renegades",
+      "url": "https://open.spotify.com/track/29VVYrV5TVpGu0IfoTXlcw"
+    },
+    {
+      "added_at": "2026-03-01 16:00:33",
+      "album": {
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 178031,
+      "name": "Party\u2019s Over",
+      "url": "https://open.spotify.com/track/5BC2eApA3H6ImhCLD83xhY"
+    },
+    {
+      "added_at": "2026-03-01 16:00:33",
+      "album": {
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 214091,
+      "name": "Tiny Pieces",
+      "url": "https://open.spotify.com/track/5Ndm8UZQSXIO3nk44TNKGt"
+    },
+    {
+      "added_at": "2026-03-01 16:00:33",
+      "album": {
+        "name": "Niche Syndrome",
+        "url": "https://open.spotify.com/album/76gcSn0zTBkjHEvQ8lcRIY"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 295600,
+      "name": "Wherever you are",
+      "url": "https://open.spotify.com/track/6kjnGjYMk9YAtH1BMD311b"
+    },
+    {
+      "added_at": "2026-03-01 16:00:33",
+      "album": {
+        "name": "Make It Out Alive",
+        "url": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 209799,
+      "name": "Make It Out Alive",
+      "url": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
+    },
+    {
+      "added_at": "2026-03-01 16:00:33",
+      "album": {
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         },
         {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 167013,
-      "name": "Bad Influence (Prod. by Pharrell Williams)",
-      "url": "https://open.spotify.com/track/3cjHBmP0CsTGNN44gf6cID"
-    },
-    {
-      "added_at": "2026-02-21 16:00:23",
-      "album": {
-        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
-        "url": "https://open.spotify.com/album/6160Q4MxABBaeqMW5AZss4"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 155213,
-      "name": "HBD",
-      "url": "https://open.spotify.com/track/6E0o3c4mgb7K5DB2TXg4XX"
-    },
-    {
-      "added_at": "2026-02-21 16:00:23",
-      "album": {
-        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
-        "url": "https://open.spotify.com/album/6160Q4MxABBaeqMW5AZss4"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 164040,
-      "name": "THUNDER",
-      "url": "https://open.spotify.com/track/6oeMntjclWLoguzwj5ECTo"
-    },
-    {
-      "added_at": "2026-02-21 16:00:23",
-      "album": {
-        "name": "SEVENTEEN 4th Album 'Face the Sun'",
-        "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 214893,
-      "name": "Domino",
-      "url": "https://open.spotify.com/track/1sjObenL1HryPaQOiMDVZ9"
-    },
-    {
-      "added_at": "2026-02-21 16:00:23",
-      "album": {
-        "name": "An Ode",
-        "url": "https://open.spotify.com/album/5HlxNTQpJb7buoWIRS4M7T"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 209973,
-      "name": "Network Love",
-      "url": "https://open.spotify.com/track/30S8t6er5QvMBugOzLJnV9"
-    },
-    {
-      "added_at": "2026-02-21 16:00:23",
-      "album": {
-        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
-        "url": "https://open.spotify.com/album/6160Q4MxABBaeqMW5AZss4"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 149053,
-      "name": "Trigger (DINO Solo)",
-      "url": "https://open.spotify.com/track/6Z9QbzkKGGiMJGWiEvdAax"
-    },
-    {
-      "added_at": "2026-02-21 16:00:23",
-      "album": {
-        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
-        "url": "https://open.spotify.com/album/6160Q4MxABBaeqMW5AZss4"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "Gemini (JUN Solo)",
-      "url": "https://open.spotify.com/track/1N7EvHKdB4bCzfF1C5GhwN"
-    },
-    {
-      "added_at": "2026-02-21 16:00:23",
-      "album": {
-        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
-        "url": "https://open.spotify.com/album/6160Q4MxABBaeqMW5AZss4"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "Shining Star (Vernon Solo)",
-      "url": "https://open.spotify.com/track/73j3bR9wX3Gip4P7zsmkWV"
-    },
-    {
-      "added_at": "2026-02-21 16:00:23",
-      "album": {
-        "name": "SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'",
-        "url": "https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 192013,
-      "name": "SOS (Prod. Marshmello)",
-      "url": "https://open.spotify.com/track/3oTDi9MWC0JB39FcsLRon3"
-    },
-    {
-      "added_at": "2026-02-21 16:00:23",
-      "album": {
-        "name": "SEVENTEEN 10th Mini Album 'FML'",
-        "url": "https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 202280,
-      "name": "F*ck My Life",
-      "url": "https://open.spotify.com/track/3tgWMPOY4stCdKYj5NjrAe"
-    },
-    {
-      "added_at": "2026-02-21 16:00:23",
-      "album": {
-        "name": "SEVENTEEN 12th Mini Album 'SPILL THE FEELS'",
-        "url": "https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "Paledusk",
+          "url": "https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa"
         },
         {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+          "name": "CHICO CARLITO",
+          "url": "https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz"
         }
       ],
-      "duration_ms": 186386,
-      "name": "LOVE, MONEY, FAME (feat. DJ Khaled)",
-      "url": "https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE"
+      "duration_ms": 188626,
+      "name": "C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)",
+      "url": "https://open.spotify.com/track/4UKANDuD17KGukGIp5g0Cx"
     },
     {
-      "added_at": "2026-02-21 16:00:23",
+      "added_at": "2026-03-01 16:00:33",
       "album": {
-        "name": "Darl+ing",
-        "url": "https://open.spotify.com/album/0Dl7e3uv3UrVDdZ6saplzH"
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         }
       ],
-      "duration_ms": 176546,
-      "name": "Darl+ing",
-      "url": "https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5"
+      "duration_ms": 189897,
+      "name": "Dystopia",
+      "url": "https://open.spotify.com/track/2C0fPB5c2LUhVQELSOXWGJ"
     },
     {
-      "added_at": "2026-02-21 16:00:23",
+      "added_at": "2026-03-01 16:00:33",
       "album": {
-        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
-        "url": "https://open.spotify.com/album/6160Q4MxABBaeqMW5AZss4"
+        "name": "Delusion:All",
+        "url": "https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         }
       ],
-      "duration_ms": 217026,
-      "name": "Fortunate Change (JOSHUA Solo)",
-      "url": "https://open.spotify.com/track/6HmKlhejcNEEsQZEGjnrmR"
+      "duration_ms": 184909,
+      "name": "Delusion:All",
+      "url": "https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3"
     },
     {
-      "added_at": "2026-02-21 16:00:23",
+      "added_at": "2026-03-01 16:00:33",
       "album": {
-        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
-        "url": "https://open.spotify.com/album/6160Q4MxABBaeqMW5AZss4"
+        "name": "Eye of the Storm",
+        "url": "https://open.spotify.com/album/1obI3635eoYwWYhGs2vEeP"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         }
       ],
-      "duration_ms": 194106,
-      "name": "Happy Virus (DK Solo)",
-      "url": "https://open.spotify.com/track/4nHwPRwu1imdTzmbIDJD6z"
+      "duration_ms": 214573,
+      "name": "Stand Out Fit In",
+      "url": "https://open.spotify.com/track/4zXRMjTaeflesB3Ih4eHnJ"
     },
     {
-      "added_at": "2026-02-21 16:00:23",
+      "added_at": "2026-03-01 16:00:33",
       "album": {
-        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
-        "url": "https://open.spotify.com/album/6160Q4MxABBaeqMW5AZss4"
+        "name": "Zankyo Reference",
+        "url": "https://open.spotify.com/album/0gCEHUTnmz1HC2778srS03"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         }
       ],
-      "duration_ms": 224013,
-      "name": "Raindrops (SEUNGKWAN Solo)",
-      "url": "https://open.spotify.com/track/5X6A8puJNGzQaAhHJgx1Ld"
+      "duration_ms": 254746,
+      "name": "Kimishidai Ressha",
+      "url": "https://open.spotify.com/track/6K54pTWwPtjrQJYxNSGtEA"
     },
     {
-      "added_at": "2026-02-21 16:00:23",
+      "added_at": "2026-03-01 16:00:33",
       "album": {
-        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
-        "url": "https://open.spotify.com/album/6160Q4MxABBaeqMW5AZss4"
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         }
       ],
-      "duration_ms": 180026,
-      "name": "Skyfall (THE 8 Solo)",
-      "url": "https://open.spotify.com/track/6GrZkYlCYIuHEjPpTZ3qDb"
+      "duration_ms": 208666,
+      "name": "Tropical Therapy",
+      "url": "https://open.spotify.com/track/0aXrPDQKpsGlZKVzEnurSK"
     },
     {
-      "added_at": "2026-02-21 16:00:23",
+      "added_at": "2026-03-01 16:00:33",
       "album": {
-        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
-        "url": "https://open.spotify.com/album/6160Q4MxABBaeqMW5AZss4"
+        "name": "Eye of the Storm",
+        "url": "https://open.spotify.com/album/1obI3635eoYwWYhGs2vEeP"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         }
       ],
-      "duration_ms": 168026,
-      "name": "Shake It Off (MINGYU Solo)",
-      "url": "https://open.spotify.com/track/1MO3vlEZjAQHM6i1HJtZMA"
+      "duration_ms": 224746,
+      "name": "Wasted Nights",
+      "url": "https://open.spotify.com/track/39LyUQIy7idLxPdsjyZsxe"
     },
     {
-      "added_at": "2026-02-21 16:00:23",
+      "added_at": "2026-03-01 16:00:33",
       "album": {
-        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
-        "url": "https://open.spotify.com/album/6160Q4MxABBaeqMW5AZss4"
+        "name": "Zeitakubyou",
+        "url": "https://open.spotify.com/album/3if2gkJtQqh0wEzBr0MKOD"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         }
       ],
-      "duration_ms": 153013,
-      "name": "Jungle (S.COUPS Solo)",
-      "url": "https://open.spotify.com/track/6AwBSWBq9WvZmJRqqv12Fa"
+      "duration_ms": 202200,
+      "name": "Yokubou Ni Michita Seinendan",
+      "url": "https://open.spotify.com/track/3skhXvq7nIofuN5SWolQML"
     },
     {
-      "added_at": "2026-02-21 16:00:23",
+      "added_at": "2026-03-01 16:00:33",
       "album": {
-        "name": "SEVENTEEN 4th Album 'Face the Sun'",
-        "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         }
       ],
-      "duration_ms": 197586,
-      "name": "HOT",
-      "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
+      "duration_ms": 231940,
+      "name": "The Pilot </3",
+      "url": "https://open.spotify.com/track/5I7hYNW8P1TLdxurADkxN6"
     },
     {
-      "added_at": "2026-02-21 16:00:23",
+      "added_at": "2026-03-01 16:00:33",
       "album": {
-        "name": "Seventeen 3rd Mini Album \u2019Going Seventeen\u2019",
-        "url": "https://open.spotify.com/album/3wXGFboFgcK9ezbPuSrKk9"
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         }
       ],
-      "duration_ms": 225302,
-      "name": "HIGHLIGHT",
-      "url": "https://open.spotify.com/track/6FdIEgj8ErhkOHbtB6aqFF"
+      "duration_ms": 232964,
+      "name": "+Matter",
+      "url": "https://open.spotify.com/track/2ZdQBK8hrh3ZaXQpVnFSn7"
     },
     {
-      "added_at": "2026-02-21 16:00:23",
+      "added_at": "2026-03-01 16:00:33",
       "album": {
-        "name": "SEVENTEEN 2nd Mini Album \u2018BOYS BE\u2019",
-        "url": "https://open.spotify.com/album/18aXrsD7zdPD6NSIfdwExD"
+        "name": "Ambitions",
+        "url": "https://open.spotify.com/album/0p1YL9nzIuKTonZH6Gq58i"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         }
       ],
-      "duration_ms": 191500,
-      "name": "Rock",
-      "url": "https://open.spotify.com/track/17MlnACcP3VDE7xHMaToGF"
-    },
-    {
-      "added_at": "2026-02-21 16:00:23",
-      "album": {
-        "name": "An Ode",
-        "url": "https://open.spotify.com/album/5HlxNTQpJb7buoWIRS4M7T"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "HIT",
-      "url": "https://open.spotify.com/track/0uIw1c0E2nyFWWwEVzhl30"
-    },
-    {
-      "added_at": "2026-02-21 16:00:23",
-      "album": {
-        "name": "SEVENTEEN 4th Album Repackage 'SECTOR 17'",
-        "url": "https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 178453,
-      "name": "_WORLD",
-      "url": "https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC"
-    },
-    {
-      "added_at": "2026-02-21 16:00:23",
-      "album": {
-        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
-        "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 180360,
-      "name": "Rock with you",
-      "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
-    },
-    {
-      "added_at": "2026-02-21 16:00:23",
-      "album": {
-        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
-        "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 225573,
-      "name": "To you",
-      "url": "https://open.spotify.com/track/25osmdhvjltPlN7gI2Javd"
-    },
-    {
-      "added_at": "2026-02-21 16:00:23",
-      "album": {
-        "name": "SEVENTEEN 12th Mini Album 'SPILL THE FEELS'",
-        "url": "https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 174506,
-      "name": "Eyes on you",
-      "url": "https://open.spotify.com/track/7qkv7ZLTIMkObkyhNo6sdQ"
-    },
-    {
-      "added_at": "2026-02-21 16:00:23",
-      "album": {
-        "name": "A-TEEN Part.3",
-        "url": "https://open.spotify.com/album/62kX5esOPtWPjfCbT7tQwb"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 196323,
-      "name": "A-TEEN",
-      "url": "https://open.spotify.com/track/5P0Uo1LqAgvFuxabQMe81X"
-    },
-    {
-      "added_at": "2026-02-21 16:00:23",
-      "album": {
-        "name": "A-TEEN2 Part.2",
-        "url": "https://open.spotify.com/album/3U2CtLGvuiukljwO8rPoVk"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 197898,
-      "name": "9-TEEN",
-      "url": "https://open.spotify.com/track/5G5MW3CIQ26AV08Yl7UV6m"
-    },
-    {
-      "added_at": "2026-02-21 16:00:23",
-      "album": {
-        "name": "Love&Letter repackage album",
-        "url": "https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 192092,
-      "name": "VERY NICE",
-      "url": "https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w"
+      "duration_ms": 255400,
+      "name": "We Are",
+      "url": "https://open.spotify.com/track/57sk9X1fPLXRfkw74XNrmK"
     }
   ],
-  "unique_name": "On Tour Singapore: SEVENTEEN",
+  "unique_name": "On Tour Singapore: ONE OK ROCK",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9T8P88bzbxH"
 }

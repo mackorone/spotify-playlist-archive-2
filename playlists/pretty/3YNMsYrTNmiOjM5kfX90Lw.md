@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 
 > Hip\-hop favorites\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 477,251 likes - 50 songs - 2 hr 40 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 477,436 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 | 13 | [Follow](https://open.spotify.com/track/4QbJxfMo9UGjjPbrDgIzdy) | [6spd](https://open.spotify.com/artist/0z4Xd95tgkcfZqwkeryKMj) | [Follow](https://open.spotify.com/album/5U0cbPMpJiPC6i2D00l7oO) | 3:21 |
 | 14 | [Whadafunk Is My Team](https://open.spotify.com/track/1w85ECzSyFyN8eIqBNW97S) | [A\-N\-T](https://open.spotify.com/artist/0BWB2uol1EjINjm0xsrxz9), [Grizz](https://open.spotify.com/artist/1mAsIigiouDXONIfsQd6py) | [Unstoppable](https://open.spotify.com/album/5kFmPQCmhmcVJLxmJTy7nv) | 3:10 |
 | 15 | [freeglue \(freestyle\)](https://open.spotify.com/track/1s3aPImE4XnP29V1JAQAPo) | [yngbn0](https://open.spotify.com/artist/491tDK3crRnHxqJTrUZ6MM) | [freeglue \(freestyle\)](https://open.spotify.com/album/7AJmQ1uglTu5Sijeuhae5J) | 2:57 |
-| 16 | [Hip Hop Is What Made Me \(feat\. DJ ACE NYC & Larissa Lambert\)](https://open.spotify.com/track/7iSwN7wyIDX4QpnhyxjYGv) | [Def Manic](https://open.spotify.com/artist/5plJ0ZhN706lDAG4o8w56S) | [Hip Hop Is What Made Me \(feat\. DJ ACE NYC & Larissa Lambert\)](https://open.spotify.com/album/0rF7WiRHOcPDhzFZpeeHFR) | 3:51 |
+| 16 | [Hip Hop Is What Made Me](https://open.spotify.com/track/7iSwN7wyIDX4QpnhyxjYGv) | [Def Manic](https://open.spotify.com/artist/5plJ0ZhN706lDAG4o8w56S), [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47), [DJ ACE NYC](https://open.spotify.com/artist/3NggH17RWRTlazacK3wG0o) | [Hip Hop Is What Made Me](https://open.spotify.com/album/0rF7WiRHOcPDhzFZpeeHFR) | 3:51 |
 | 17 | [But Why](https://open.spotify.com/track/0a0UqBAWfIM7gS8wCiRrxM) | [Heckmaster4000](https://open.spotify.com/artist/7wHB8P5b9Da1VFash0RsSw) | [But Why](https://open.spotify.com/album/7ir0U8aHgMozngDnwynKUb) | 3:06 |
 | 18 | [Third Base](https://open.spotify.com/track/2TD0v4GilM4ZB15GtU2AoC) | [D\. Horton](https://open.spotify.com/artist/7odZ53xYf4DUUhJ0Prwckd), [King Los](https://open.spotify.com/artist/29M3C4IzWXrztUr4cV2umC) | [The Sessions 2](https://open.spotify.com/album/4De2xn1mtPCoS9EsvIGrhL) | 3:38 |
 | 19 | [Spaceship 2.0](https://open.spotify.com/track/0fCmyw0RBGOWYiQtrZKkTM) | [Mychelle Lee](https://open.spotify.com/artist/2H3Uqt1T7SjVM2m852GsKe) | [Spaceship 2.0](https://open.spotify.com/album/7iD8RyIrwEuda3XniEcBCs) | 3:57 |

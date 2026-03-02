@@ -5459,6 +5459,24 @@
     },
     {
       "album": {
+        "name": "Green Light",
+        "url": "https://open.spotify.com/album/6SaE49glNAg1uxVoS5WLVJ"
+      },
+      "artists": [
+        {
+          "name": "STARGLOW",
+          "url": "https://open.spotify.com/artist/1iw2iFU0Tpq7xvkX4VZyfZ"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173511,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/5u1dWaZX9WX5wSyq1Qyp0l"
+    },
+    {
+      "album": {
         "name": "\u539f",
         "url": "https://open.spotify.com/album/4qTTzaU30PLhLJmD6lLzFm"
       },
@@ -9778,7 +9796,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 217666,
       "name": "PAINT",
       "url": "https://open.spotify.com/track/2rjgaXR8TiZccEYPxHod4H"
@@ -12126,7 +12144,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-02",
       "duration_ms": 189426,
       "name": "Star Wish",
       "url": "https://open.spotify.com/track/7932DENhO9bz8Hf7RQDqln"
@@ -16542,6 +16560,24 @@
       "duration_ms": 173413,
       "name": "\u672a\u78ba\u8a8d\u9818\u57df",
       "url": "https://open.spotify.com/track/14KZzCx6mbOCeM0e5iFt3N"
+    },
+    {
+      "album": {
+        "name": "\u672c\u5fc3",
+        "url": "https://open.spotify.com/album/6NmjGr27sF31bCu46LQh8J"
+      },
+      "artists": [
+        {
+          "name": "GENERATIONS from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292266,
+      "name": "\u672c\u5fc3",
+      "url": "https://open.spotify.com/track/462L8gr5XOHZrjim67Qx09"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is 3 Doors Down. The essential tracks, all in one playlist.",
-  "num_followers": 179501,
+  "num_followers": 179536,
   "original_name": "This Is 3 Doors Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaDegAAAAAAYEV3TIzYsGiLX9SP7+/9P",
+  "snapshot_id": "aaIwAAAAAADYGm6W9KZjSHa5Wqdv5u5v",
   "tracks": [
     {
       "added_at": null,
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 238400,
-      "name": "Life Of My Own",
-      "url": "https://open.spotify.com/track/19v5b0qbqfqIDuRO8wxsIY"
+      "duration_ms": 230600,
+      "name": "Duck And Run",
+      "url": "https://open.spotify.com/track/0s8OsDxW96cl290PcsI2mX"
     },
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 230600,
-      "name": "Duck And Run",
-      "url": "https://open.spotify.com/track/0s8OsDxW96cl290PcsI2mX"
+      "duration_ms": 238400,
+      "name": "Life Of My Own",
+      "url": "https://open.spotify.com/track/19v5b0qbqfqIDuRO8wxsIY"
     },
     {
       "added_at": null,

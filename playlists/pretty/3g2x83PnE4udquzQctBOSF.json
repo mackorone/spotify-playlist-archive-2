@@ -1,13 +1,29 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2697,
+  "num_followers": 2698,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARdfq5eQExdTPHl1DaVveFfqIkyAtC",
+  "snapshot_id": "AAARdi2f81PuJpOrNoz/46jNYIFDVsGg",
   "tracks": [
+    {
+      "added_at": "2026-03-01 12:16:59",
+      "album": {
+        "name": "The Lantern",
+        "url": "https://open.spotify.com/album/4P1CdA5eMSgGFzLaA5nm4P"
+      },
+      "artists": [
+        {
+          "name": "Protonyk effe",
+          "url": "https://open.spotify.com/artist/6DCF1QIF6We2qC725gMLKN"
+        }
+      ],
+      "duration_ms": 379279,
+      "name": "The Lantern",
+      "url": "https://open.spotify.com/track/6k3RupZgMFmF7YywVEzmSZ"
+    },
     {
       "added_at": "2026-02-28 23:34:33",
       "album": {

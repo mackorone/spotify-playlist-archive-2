@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIaDfaHJHox.md) - [plain]
 
 ### [Best of British](https://open.spotify.com/playlist/37i9dQZF1DWSIaDfaHJHox)
 
-> All great, all British.
+> Cover: Sam Fender and Olivia Dean at The BRITs 2026
 
-[Spotify](https://open.spotify.com/user/spotify) - 762,589 likes - 250 songs - 16 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 762,622 likes - 250 songs - 16 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIaDfaHJHox.md) - [plain]
 | 249 | [Ooh La La](https://open.spotify.com/track/6oLb4m0HlijuaxtQIbvAhp) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Supernature](https://open.spotify.com/album/1R77epa6N8qyWYFCa41S9f) | 3:24 |
 | 250 | [Alone Again \(Naturally\)](https://open.spotify.com/track/4lHQCzdK3VdYQvQZnnRouG) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front \(Deluxe Edition\)](https://open.spotify.com/album/7EZeSlS7lupfVVaZXGXVUs) | 3:36 |
 
-Snapshot ID: `AAAAAEdy8Om5LOzouIr3HhyIoFt3Up/S`
+Snapshot ID: `AAAAAKiD33ev4/vCGKf9b6GxEgBam9XN`

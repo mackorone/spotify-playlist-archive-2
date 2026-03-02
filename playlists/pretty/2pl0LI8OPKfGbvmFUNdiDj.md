@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 616 likes - 43 songs - 2 hr 21 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 615 likes - 44 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,5 +51,6 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 41 | [Ready 4 Ya](https://open.spotify.com/track/4lif5tsojBx55AhtDsyWh8) | [Uneekint](https://open.spotify.com/artist/73no0Yxs5lkOd6fCl7UgzI) | [Ready 4 Ya](https://open.spotify.com/album/04iI7eTuLE1jmHCu3nsaH6) | 1:56 |
 | 42 | [Hey Woman](https://open.spotify.com/track/08JpU2mT1TLwxZme4pAHU5) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [The Fuzes Best Of](https://open.spotify.com/album/16zoHx9wW6EVMvPDo1sha5) | 2:57 |
 | 43 | [Let Me Be Me](https://open.spotify.com/track/4xDKzurISthaAbD6NzOy75) | [Lilly Sweetness](https://open.spotify.com/artist/3TwZJUhz6tKt6OxFPNf4fu) | [Blessings](https://open.spotify.com/album/0sEWclT1yWwNlQfnPRJ9v4) | 3:54 |
+| 44 | [Without The Kiss](https://open.spotify.com/track/415RGDjNwmsNR7RgUE8VOC) | [Crimson Crow](https://open.spotify.com/artist/7mFL33QnjafnM1J1456vsX) | [Reflection](https://open.spotify.com/album/51Z96Q16vCgmoPsic84Ewf) | 4:46 |
 
-Snapshot ID: `AAADHvYuWC0dYddrs4vM/SyQDmKYpE59`
+Snapshot ID: `AAADH7jzi77Y6vuMyyg+F1BkuL/8YMR7`

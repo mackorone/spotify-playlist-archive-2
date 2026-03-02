@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 16164,
+  "num_followers": 16167,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaDegAAAAADllpyrGu4C6u8yaexdzjU6",
+  "snapshot_id": "aaIwAAAAAABGPYQecx/GO36ML6QLaS+X",
   "tracks": [
     {
       "added_at": null,
@@ -143,6 +143,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wash House Ting",
+        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 208586,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/5wN7FwXj5SujmvTPkWwdbn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Monterey or Bust, Vol. 2",
         "url": "https://open.spotify.com/album/2zLwFPoUPCopbjHzSjyEYM"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 193400,
       "name": "No Other Love",
       "url": "https://open.spotify.com/track/2fb8kXjXaT2hkK86VrmThw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wash House Ting",
-        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 208586,
-      "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/5wN7FwXj5SujmvTPkWwdbn"
     },
     {
       "added_at": null,
@@ -331,18 +331,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Remember Gregory Isaacs",
-        "url": "https://open.spotify.com/album/5qx0HddioFaXTSTykAG6nu"
+        "name": "Amid the Noise and Haste",
+        "url": "https://open.spotify.com/album/3PPShSOyJlk6lG6BheUqCe"
       },
       "artists": [
+        {
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+        },
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        },
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 251693,
-      "name": "Cool Down The Pace",
-      "url": "https://open.spotify.com/track/48vVcRVvJxD5zB0ODldx2C"
+      "duration_ms": 195439,
+      "name": "Easier",
+      "url": "https://open.spotify.com/track/2pmhCyJqNiF2IEE0ATRNaM"
     },
     {
       "added_at": null,
@@ -367,26 +375,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amid the Noise and Haste",
-        "url": "https://open.spotify.com/album/3PPShSOyJlk6lG6BheUqCe"
+        "name": "We Remember Gregory Isaacs",
+        "url": "https://open.spotify.com/album/5qx0HddioFaXTSTykAG6nu"
       },
       "artists": [
-        {
-          "name": "SOJA",
-          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
-        },
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        },
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 195439,
-      "name": "Easier",
-      "url": "https://open.spotify.com/track/2pmhCyJqNiF2IEE0ATRNaM"
+      "duration_ms": 251693,
+      "name": "Cool Down The Pace",
+      "url": "https://open.spotify.com/track/48vVcRVvJxD5zB0ODldx2C"
     },
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "J Boog",
+        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 207573,
+      "name": "Waiting On The Rain",
+      "url": "https://open.spotify.com/track/4QONpmE4WJ8KkeaADeZI1i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Liki Tiki (Reggae Remix)",
         "url": "https://open.spotify.com/album/3vu3P7k95GmGbcihFAPNf3"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 250105,
       "name": "Liki Tiki - Reggae Remix",
       "url": "https://open.spotify.com/track/7ffWg1aiz44kiCF6wtvypd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "J Boog",
-        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 207573,
-      "name": "Waiting On The Rain",
-      "url": "https://open.spotify.com/track/4QONpmE4WJ8KkeaADeZI1i"
     },
     {
       "added_at": null,
@@ -575,6 +575,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hustlin' Riddim",
+        "url": "https://open.spotify.com/album/7C7iUJ39NnBpoMqPXx35ap"
+      },
+      "artists": [
+        {
+          "name": "Bost & Bim",
+          "url": "https://open.spotify.com/artist/43zfbzuXQncLzV9RyHy2EP"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 193093,
+      "name": "Coldest Zone",
+      "url": "https://open.spotify.com/track/1l8Tn0W9Rby3alJ78AMGi8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wana",
         "url": "https://open.spotify.com/album/6hQAr2qajVKNviUmPA3SJc"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 238666,
       "name": "Wana",
       "url": "https://open.spotify.com/track/1sxnPAx4uYKN2j9tKThu9a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hustlin' Riddim",
-        "url": "https://open.spotify.com/album/7C7iUJ39NnBpoMqPXx35ap"
-      },
-      "artists": [
-        {
-          "name": "Bost & Bim",
-          "url": "https://open.spotify.com/artist/43zfbzuXQncLzV9RyHy2EP"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 193093,
-      "name": "Coldest Zone",
-      "url": "https://open.spotify.com/track/1l8Tn0W9Rby3alJ78AMGi8"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Audio",
+        "url": "https://open.spotify.com/album/3L9tTUH2OUjHrP8zAEwp24"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 235684,
+      "name": "My Audio",
+      "url": "https://open.spotify.com/track/4A3b23XdMVDPX6cdzHQOjb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Never Give Up",
         "url": "https://open.spotify.com/album/1xC4rDxccWwdxTTF3Q4uS9"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 188783,
       "name": "Never Give Up",
       "url": "https://open.spotify.com/track/3CPOkmC658WbCY4HnPjxta"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Audio",
-        "url": "https://open.spotify.com/album/3L9tTUH2OUjHrP8zAEwp24"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 235684,
-      "name": "My Audio",
-      "url": "https://open.spotify.com/track/4A3b23XdMVDPX6cdzHQOjb"
     },
     {
       "added_at": null,
@@ -927,6 +927,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Always Been You",
+        "url": "https://open.spotify.com/album/7KX733L0zdhiHZ7hcUfrUJ"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 203664,
+      "name": "Always Been You",
+      "url": "https://open.spotify.com/track/5Yoj2Tr83tfpzTbwR643pa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pacific Coast Highway",
         "url": "https://open.spotify.com/album/2tVLaJCNrTTEWRqGDtxDiH"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 243218,
       "name": "This Is Love",
       "url": "https://open.spotify.com/track/6kT2DiTbDomd5UJtBJb5Jv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Always Been You",
-        "url": "https://open.spotify.com/album/7KX733L0zdhiHZ7hcUfrUJ"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 203664,
-      "name": "Always Been You",
-      "url": "https://open.spotify.com/track/5Yoj2Tr83tfpzTbwR643pa"
     },
     {
       "added_at": null,
