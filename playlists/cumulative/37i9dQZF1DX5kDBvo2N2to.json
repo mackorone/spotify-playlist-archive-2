@@ -1257,6 +1257,28 @@
     },
     {
       "album": {
+        "name": "Buddy",
+        "url": "https://open.spotify.com/album/2UqdYHuCN9P2STSMaMlVm8"
+      },
+      "artists": [
+        {
+          "name": "Valter Nilsson",
+          "url": "https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln"
+        },
+        {
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250955,
+      "name": "Buddy",
+      "url": "https://open.spotify.com/track/1TX5YEqG0GQH5zdA6y4GzQ"
+    },
+    {
+      "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/2k3xxJO6AKW6xfIsfu4kGH"
       },
@@ -1568,7 +1590,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 209767,
       "name": "cherry flip",
       "url": "https://open.spotify.com/track/6lXI82PJUgsMjJCtKP79Jc"
@@ -3057,6 +3079,28 @@
     },
     {
       "album": {
+        "name": "Ge mig allt",
+        "url": "https://open.spotify.com/album/6d01B1uKqkmPEi2aKzj9f1"
+      },
+      "artists": [
+        {
+          "name": "Vince Wavy",
+          "url": "https://open.spotify.com/artist/1SqKGJizWclJMBj6HETaTW"
+        },
+        {
+          "name": "Saron",
+          "url": "https://open.spotify.com/artist/4hAAMk45EqgjEDgRYujswY"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Ge mig allt",
+      "url": "https://open.spotify.com/track/1nWhsFFn0rhqc6lc513lBw"
+    },
+    {
+      "album": {
         "name": "GEN Z",
         "url": "https://open.spotify.com/album/2CboZV6emhWjGOKJK5kFg0"
       },
@@ -3324,7 +3368,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 182911,
       "name": "Gr\u00f6n hatt",
       "url": "https://open.spotify.com/track/4gXJGYvNwzgJIGxMc1iQnK"
@@ -3726,7 +3770,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 95217,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/00KapgrQdKRGWUFZm74STy"
@@ -5545,6 +5589,24 @@
     },
     {
       "album": {
+        "name": "L\u00e5ngt fr\u00e5n alla andra",
+        "url": "https://open.spotify.com/album/0NZWe2meBF6NPW13KJ0TbH"
+      },
+      "artists": [
+        {
+          "name": "JULIETT",
+          "url": "https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158240,
+      "name": "L\u00e5ngt fr\u00e5n alla andra",
+      "url": "https://open.spotify.com/track/7hlXQbHJJ8P8CSEliQz3hk"
+    },
+    {
+      "album": {
         "name": "L\u00e5ta Dig G\u00e5",
         "url": "https://open.spotify.com/album/4aVb3fj8jMFZa8WJq3NPqh"
       },
@@ -6915,6 +6977,24 @@
     },
     {
       "album": {
+        "name": "Rockenrollen",
+        "url": "https://open.spotify.com/album/1N0sJpiWaZfEqaBDg72WR0"
+      },
+      "artists": [
+        {
+          "name": "Ida-Lova",
+          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186210,
+      "name": "Rockenrollen",
+      "url": "https://open.spotify.com/track/3AjnXyw1G38KLVOIEiESww"
+    },
+    {
+      "album": {
         "name": "Rocko",
         "url": "https://open.spotify.com/album/4vUQaIMVDKzpKVjXHG20qU"
       },
@@ -7746,7 +7826,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 207174,
       "name": "Stanna lite till",
       "url": "https://open.spotify.com/track/0NOarA9rgil63mHQCS5JVu"

@@ -1,6 +1,6 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 22498,
+  "num_followers": 22518,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Atlantis Princess - The 3rd Album",
-        "url": "https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV"
-      },
-      "artists": [
-        {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
-        }
-      ],
-      "duration_ms": 224373,
-      "name": "Atlantis Princess",
-      "url": "https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Psy 3",
         "url": "https://open.spotify.com/album/7cEeYqp2ltesGDkU2niTtL"
       },
@@ -723,18 +707,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Cheerful Sensibility",
-        "url": "https://open.spotify.com/album/6CLke5r6LqAyM8Vno1Xfjk"
+        "name": "Atlantis Princess - The 3rd Album",
+        "url": "https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV"
       },
       "artists": [
         {
-          "name": "FTISLAND",
-          "url": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ"
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
         }
       ],
-      "duration_ms": 241866,
-      "name": "Love Sick",
-      "url": "https://open.spotify.com/track/74KrjA5CWRr2elkzhJo6si"
+      "duration_ms": 224373,
+      "name": "Atlantis Princess",
+      "url": "https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -751,6 +735,22 @@
       "duration_ms": 215840,
       "name": "With Coffee\u2026",
       "url": "https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Cheerful Sensibility",
+        "url": "https://open.spotify.com/album/6CLke5r6LqAyM8Vno1Xfjk"
+      },
+      "artists": [
+        {
+          "name": "FTISLAND",
+          "url": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ"
+        }
+      ],
+      "duration_ms": 241866,
+      "name": "Love Sick",
+      "url": "https://open.spotify.com/track/74KrjA5CWRr2elkzhJo6si"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "\uae30\uc5b5\uc18d\uc758 \uba5c\ub85c\ub514",
-        "url": "https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi"
-      },
-      "artists": [
-        {
-          "name": "Kim Dong Ryul",
-          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
-        }
-      ],
-      "duration_ms": 285234,
-      "name": "\uac10\uc0ac",
-      "url": "https://open.spotify.com/track/6vL9tLXg2XnsYXndqpIUQS"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Stand Alone",
         "url": "https://open.spotify.com/album/67ibv6vTadhuxdFgZ4eV4i"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 259213,
       "name": "\uadf8\ub140\ub97c \uc0ac\ub791\ud574\uc918\uc694",
       "url": "https://open.spotify.com/track/4YQGPR4KGFMnSS8lUQPdbs"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "\uae30\uc5b5\uc18d\uc758 \uba5c\ub85c\ub514",
+        "url": "https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi"
+      },
+      "artists": [
+        {
+          "name": "Kim Dong Ryul",
+          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
+        }
+      ],
+      "duration_ms": 285234,
+      "name": "\uac10\uc0ac",
+      "url": "https://open.spotify.com/track/6vL9tLXg2XnsYXndqpIUQS"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "\uc0b4\ub2e4\uac00",
-        "url": "https://open.spotify.com/album/0BneVJK0dUlj0q9RRjADQe"
-      },
-      "artists": [
-        {
-          "name": "SG Wannabe",
-          "url": "https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn"
-        }
-      ],
-      "duration_ms": 243026,
-      "name": "\uc8c4\uc640 \ubc8c (\u7f6a\uc640 \u7f70)",
-      "url": "https://open.spotify.com/track/2yfD1eKDVlNRxDUE5Q1n3Y"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Traveling You",
         "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
       },
@@ -1011,18 +995,34 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "DJ Chully's Handsome Vol.1",
-        "url": "https://open.spotify.com/album/5QqBi6noPokRSDtKOdXaTH"
+        "name": "\uc0b4\ub2e4\uac00",
+        "url": "https://open.spotify.com/album/0BneVJK0dUlj0q9RRjADQe"
       },
       "artists": [
         {
-          "name": "So Chan-Whee",
-          "url": "https://open.spotify.com/artist/7fgBlQWIOLXuOwQ2nLS2FI"
+          "name": "SG Wannabe",
+          "url": "https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn"
         }
       ],
-      "duration_ms": 205626,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/02laG0v03OGNH74mEWOH3V"
+      "duration_ms": 243026,
+      "name": "\uc8c4\uc640 \ubc8c (\u7f6a\uc640 \u7f70)",
+      "url": "https://open.spotify.com/track/2yfD1eKDVlNRxDUE5Q1n3Y"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "The Jadu 3",
+        "url": "https://open.spotify.com/album/0jUxZh8BKRhj7IqvPVmmJ4"
+      },
+      "artists": [
+        {
+          "name": "The Jadu",
+          "url": "https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU"
+        }
+      ],
+      "duration_ms": 225866,
+      "name": "\uae40\ubc25",
+      "url": "https://open.spotify.com/track/7tSt4Jbnml5l7MMWqxfx7f"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1039,6 +1039,22 @@
       "duration_ms": 265379,
       "name": "\uc544\ub85c\ud558",
       "url": "https://open.spotify.com/track/1uRB9bYGCSvLSsF4e65UYj"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "DJ Chully's Handsome Vol.1",
+        "url": "https://open.spotify.com/album/5QqBi6noPokRSDtKOdXaTH"
+      },
+      "artists": [
+        {
+          "name": "So Chan-Whee",
+          "url": "https://open.spotify.com/artist/7fgBlQWIOLXuOwQ2nLS2FI"
+        }
+      ],
+      "duration_ms": 205626,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/02laG0v03OGNH74mEWOH3V"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "The Jadu 3",
-        "url": "https://open.spotify.com/album/0jUxZh8BKRhj7IqvPVmmJ4"
-      },
-      "artists": [
-        {
-          "name": "The Jadu",
-          "url": "https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU"
-        }
-      ],
-      "duration_ms": 225866,
-      "name": "\uae40\ubc25",
-      "url": "https://open.spotify.com/track/7tSt4Jbnml5l7MMWqxfx7f"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "\ud61c\uc131",
         "url": "https://open.spotify.com/album/2hGIulY9CjIWsQ8Rqed6fZ"
       },
@@ -1119,6 +1119,22 @@
       "duration_ms": 284106,
       "name": "When flowering spring comes",
       "url": "https://open.spotify.com/track/1P5Ijjvm4fIpFs1hyArWSW"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/18lNhdkcBXHKkCG4HFnNZo"
+      },
+      "artists": [
+        {
+          "name": "Lee Ki-chan",
+          "url": "https://open.spotify.com/artist/06lmDAKbe4tXjN9m7bRaQj"
+        }
+      ],
+      "duration_ms": 218279,
+      "name": "\ubbf8\uc778",
+      "url": "https://open.spotify.com/track/68fLjAO2M0FuG7OPXZDg9U"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1159,22 +1175,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Para Ti",
-        "url": "https://open.spotify.com/album/18lNhdkcBXHKkCG4HFnNZo"
-      },
-      "artists": [
-        {
-          "name": "Lee Ki-chan",
-          "url": "https://open.spotify.com/artist/06lmDAKbe4tXjN9m7bRaQj"
-        }
-      ],
-      "duration_ms": 218279,
-      "name": "\ubbf8\uc778",
-      "url": "https://open.spotify.com/track/68fLjAO2M0FuG7OPXZDg9U"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Girls On Top",
         "url": "https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6"
       },
@@ -1191,8 +1191,8 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "It's Different",
-        "url": "https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf"
+        "name": "Like Them",
+        "url": "https://open.spotify.com/album/374rk50TgKbQSbeBaLFjek"
       },
       "artists": [
         {
@@ -1200,9 +1200,9 @@
           "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
         }
       ],
-      "duration_ms": 271893,
-      "name": "\ub0a0 \uadf8\ub9cc \uc78a\uc5b4\uc694",
-      "url": "https://open.spotify.com/track/48019yKa8kJowllkqICDIi"
+      "duration_ms": 281800,
+      "name": "We Should've Been Friends",
+      "url": "https://open.spotify.com/track/4nLwtNzEa1I1tvqC89xo1L"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1243,54 +1243,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Gugip: C.J.2002",
-        "url": "https://open.spotify.com/album/706OvChSHJpCoIeyfpZQEs"
-      },
-      "artists": [
-        {
-          "name": "Lim Changjung",
-          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
-        }
-      ],
-      "duration_ms": 260480,
-      "name": "Seulpun honjatmal",
-      "url": "https://open.spotify.com/track/0JRVGUATX7IKaKVwsgExmj"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "Just Listen.......",
-        "url": "https://open.spotify.com/album/4QoM0VDe5UPOotBYmmcg5U"
-      },
-      "artists": [
-        {
-          "name": "SE7EN",
-          "url": "https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "Come Back To Me",
-      "url": "https://open.spotify.com/track/4ezlt6ciGxes2ctqphnKVU"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "Like Them",
-        "url": "https://open.spotify.com/album/374rk50TgKbQSbeBaLFjek"
-      },
-      "artists": [
-        {
-          "name": "GUMMY",
-          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
-        }
-      ],
-      "duration_ms": 281800,
-      "name": "We Should've Been Friends",
-      "url": "https://open.spotify.com/track/4nLwtNzEa1I1tvqC89xo1L"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/127CxMmFX7bctgIccMVPib"
       },
@@ -1323,18 +1275,50 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "BLAQ Style",
-        "url": "https://open.spotify.com/album/7nEtGoI32qBOQ1VinD31VF"
+        "name": "It's Different",
+        "url": "https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf"
       },
       "artists": [
         {
-          "name": "MBLAQ",
-          "url": "https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG"
+          "name": "GUMMY",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
         }
       ],
-      "duration_ms": 200556,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0Q2uAamKg36f2KH0NSepT7"
+      "duration_ms": 271893,
+      "name": "\ub0a0 \uadf8\ub9cc \uc78a\uc5b4\uc694",
+      "url": "https://open.spotify.com/track/48019yKa8kJowllkqICDIi"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Just Listen.......",
+        "url": "https://open.spotify.com/album/4QoM0VDe5UPOotBYmmcg5U"
+      },
+      "artists": [
+        {
+          "name": "SE7EN",
+          "url": "https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV"
+        }
+      ],
+      "duration_ms": 246333,
+      "name": "Come Back To Me",
+      "url": "https://open.spotify.com/track/4ezlt6ciGxes2ctqphnKVU"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Gugip: C.J.2002",
+        "url": "https://open.spotify.com/album/706OvChSHJpCoIeyfpZQEs"
+      },
+      "artists": [
+        {
+          "name": "Lim Changjung",
+          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+        }
+      ],
+      "duration_ms": 260480,
+      "name": "Seulpun honjatmal",
+      "url": "https://open.spotify.com/track/0JRVGUATX7IKaKVwsgExmj"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1351,6 +1335,22 @@
       "duration_ms": 255844,
       "name": "All For You",
       "url": "https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "BLAQ Style",
+        "url": "https://open.spotify.com/album/7nEtGoI32qBOQ1VinD31VF"
+      },
+      "artists": [
+        {
+          "name": "MBLAQ",
+          "url": "https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG"
+        }
+      ],
+      "duration_ms": 200556,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0Q2uAamKg36f2KH0NSepT7"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "Dropping the Tears",
+        "url": "https://open.spotify.com/album/2LPszV62iNiLadCZ2J0kol"
+      },
+      "artists": [
+        {
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+        }
+      ],
+      "duration_ms": 257226,
+      "name": "Dropping the Tears",
+      "url": "https://open.spotify.com/track/0WHzRzinRoUzW7vX7xhSLD"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "Monologue",
         "url": "https://open.spotify.com/album/2vdtU1KZ2owCBxjBC5WebE"
       },
@@ -1407,18 +1423,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Dropping the Tears",
-        "url": "https://open.spotify.com/album/2LPszV62iNiLadCZ2J0kol"
+        "name": "The Way I Am",
+        "url": "https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk"
       },
       "artists": [
         {
-          "name": "K.Will",
-          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+          "name": "MC MONG",
+          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
         }
       ],
-      "duration_ms": 257226,
-      "name": "Dropping the Tears",
-      "url": "https://open.spotify.com/track/0WHzRzinRoUzW7vX7xhSLD"
+      "duration_ms": 216323,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/2KlzrWVFpUIyI2goyvInX4"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1439,22 +1455,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "The Way I Am",
-        "url": "https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk"
-      },
-      "artists": [
-        {
-          "name": "MC MONG",
-          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
-        }
-      ],
-      "duration_ms": 216323,
-      "name": "Ice Cream",
-      "url": "https://open.spotify.com/track/2KlzrWVFpUIyI2goyvInX4"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Hi~",
         "url": "https://open.spotify.com/album/4oYvS9fninV79hmUvWeUho"
       },
@@ -1467,6 +1467,22 @@
       "duration_ms": 207426,
       "name": "Hi~",
       "url": "https://open.spotify.com/track/0uK6mPSkTMteghVWeMDMHG"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Re - Feel",
+        "url": "https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w"
+      },
+      "artists": [
+        {
+          "name": "VIBE",
+          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
+        }
+      ],
+      "duration_ms": 245159,
+      "name": "I drink again",
+      "url": "https://open.spotify.com/track/68SpcwzDfyFYaM6dMSEtRk"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1499,22 +1515,6 @@
       "duration_ms": 337066,
       "name": "In dreams",
       "url": "https://open.spotify.com/track/1hNYiYh10zoFl4L6RrLDHq"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "Re - Feel",
-        "url": "https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w"
-      },
-      "artists": [
-        {
-          "name": "VIBE",
-          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
-        }
-      ],
-      "duration_ms": 245159,
-      "name": "I drink again",
-      "url": "https://open.spotify.com/track/68SpcwzDfyFYaM6dMSEtRk"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Longing",
-        "url": "https://open.spotify.com/album/5HOLb1Hdf9asv3tWWiUkva"
-      },
-      "artists": [
-        {
-          "name": "Noel",
-          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "Missing you",
-      "url": "https://open.spotify.com/track/0OnYYBxChwtrOcb9xWdhfS"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "The Wind, The Sea, The Rain",
         "url": "https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 263533,
       "name": "Nothing Better",
       "url": "https://open.spotify.com/track/1c3YKD6HDervPsw0nHxlhh"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Longing",
+        "url": "https://open.spotify.com/album/5HOLb1Hdf9asv3tWWiUkva"
+      },
+      "artists": [
+        {
+          "name": "Noel",
+          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "Missing you",
+      "url": "https://open.spotify.com/track/0OnYYBxChwtrOcb9xWdhfS"
     },
     {
       "added_at": "2024-08-05 16:59:31",

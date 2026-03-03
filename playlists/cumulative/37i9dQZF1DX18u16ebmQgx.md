@@ -4,7 +4,7 @@
 
 > ¡Brillando baldosa! Foto: La\-33
 
-141 songs - 10 hr 32 min
+142 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Manyoma](https://open.spotify.com/track/2MGT7BNwjf3c6DbhXqBaW9) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:08 | 2022-12-02 | 2023-03-04 |
 | [Margie](https://open.spotify.com/track/4ALuTupX7toAc7rZRgQGaD) | [Anddy Caicedo](https://open.spotify.com/artist/0Emz7Y7utBVunAblbfCdrC) | [Margie](https://open.spotify.com/album/0A9INqN4aDvTOOd7BwrgWE) | 3:31 | 2023-09-15 |  |
 | [Maria Canela](https://open.spotify.com/track/2AzJDIs4hDFvARTcTRGj0a) | [Cesar Mora](https://open.spotify.com/artist/0xR68AyQA5b3scD6PB8RPS) | [Hacerlo Bien](https://open.spotify.com/album/2hBVT5RuHoYHdfBAhxhPdd) | 5:02 | 2022-06-24 |  |
+| [Mi Cali Bella \- Salsa](https://open.spotify.com/track/3RmOuFMb91bKOZOnCRb8Kv) | [Los Alfa 8](https://open.spotify.com/artist/3C9BF8bjoRWU14IkkAXGq2), [Marcelo Cezán](https://open.spotify.com/artist/6PwCDMNPqykd8swT8kidCF) | [Mi Cali Bella \(Salsa\)](https://open.spotify.com/album/0SdD0h12av21JUkOtN43gx) | 3:44 | 2026-03-02 |  |
 | [Micaela](https://open.spotify.com/track/6cFecmNzTj6MSV4aIYcCHg) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS) | [Viejoteca en Tiempo de Salsa, Vol\. 6](https://open.spotify.com/album/02uyPWSIRRXGLmhsm6t5xR) | 4:44 | 2023-08-04 |  |
 | [Micaela](https://open.spotify.com/track/1m3paVx65imhvCjPx505Oy) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS), [Luis Florez](https://open.spotify.com/artist/125qXSgsP3irn2SEE6rpor) | [The Best](https://open.spotify.com/album/6HTMGKWidJzcm9IHP4iolu) | 4:44 | 2022-06-24 | 2024-04-19 |
 | [Micaela](https://open.spotify.com/track/4fMzopYZnezYVCOADldvq7) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS), [Luis Florez](https://open.spotify.com/artist/125qXSgsP3irn2SEE6rpor) | [Boogaloo Is Here](https://open.spotify.com/album/1SemOW7b7Wz8yEyQTmZ6p6) | 4:44 | 2022-06-24 | 2022-11-13 |
@@ -130,7 +131,7 @@
 | [Sabre Olvidar](https://open.spotify.com/track/7ycF9ruw3EKOxY2lgKN5Ks) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [32 Grandes Exitos](https://open.spotify.com/album/0Moiv2jGzK7Apt4YjJUYqA) | 4:15 | 2022-06-24 |  |
 | [Salsa](https://open.spotify.com/track/0pFLD8oIWPHDBgkPzINYcG) | [Yuri Buenaventura](https://open.spotify.com/artist/7FIeKWN0FTtzvQ1i7Z1aTx) | [Yo Soy](https://open.spotify.com/album/3PB2RhTronK7QGdyOdDaBs) | 4:28 | 2023-08-04 |  |
 | [Salsa](https://open.spotify.com/track/7ElA9eXX6zKtexObEeexHf) | [Yuri Buenaventura](https://open.spotify.com/artist/7FIeKWN0FTtzvQ1i7Z1aTx) | [Salsita Pal Corazón](https://open.spotify.com/album/5Sec49juKX7hXBWI6tz7j0) | 4:28 | 2022-06-24 | 2022-11-13 |
-| [Sentimiento Caleño](https://open.spotify.com/track/0Sv9GZus14o4AwvXb8CeYs) | [Tromboranga](https://open.spotify.com/artist/1d8flZp4PgQ17KR7RjtlJP) | [Salsa Pa Rato](https://open.spotify.com/album/6PiAJKP3eTFzCa0Bni784i) | 5:32 | 2022-06-24 |  |
+| [Sentimiento Caleño](https://open.spotify.com/track/0Sv9GZus14o4AwvXb8CeYs) | [Tromboranga](https://open.spotify.com/artist/1d8flZp4PgQ17KR7RjtlJP) | [Salsa Pa Rato](https://open.spotify.com/album/6PiAJKP3eTFzCa0Bni784i) | 5:32 | 2022-06-24 | 2026-03-03 |
 | [Señor Marido](https://open.spotify.com/track/6wuj8Xmba3wNN4jSe3k0Pi) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Señor Marido](https://open.spotify.com/album/34jUG52OFFxhkoD4Fg55Xe) | 3:27 | 2024-11-29 | 2025-08-16 |
 | [Si Yo Te Dije](https://open.spotify.com/track/3VpMDXyvUuBvlK49u2sKeE) | [Aguanile](https://open.spotify.com/artist/1hdKuH2r5ZyarRGZC6vsdA), [David Zahan](https://open.spotify.com/artist/6GNOUK9TS7x72jEjDsdwHn) | [Si Yo Te Dije](https://open.spotify.com/album/1UhSwKJnp9xYkdCvsBa7cU) | 4:07 | 2023-09-15 | 2024-07-13 |
 | [Sobre las Olas](https://open.spotify.com/track/6jly2CevRmnMbmU2R1cm1e) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK) | [Grandes Hits \- Latin Brothers](https://open.spotify.com/album/16Crjgmzz0nueE1mu3TXUq) | 3:24 | 2023-08-04 |  |

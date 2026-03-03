@@ -1,12 +1,12 @@
 {
   "description": "This is Jorja Smith. The essential tracks, all in one playlist.",
-  "num_followers": 323796,
+  "num_followers": 323804,
   "original_name": "This Is Jorja Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaIwAAAAAADvAi+yc9q6Xiuf5ymYpghp",
+  "snapshot_id": "aaOBgAAAAADjHw/hgnhPBs5UzhPXuyEl",
   "tracks": [
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Way I Love You",
+        "url": "https://open.spotify.com/album/5LM2wQNoA6LlS5aTR4PKJj"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 203813,
+      "name": "The Way I Love You",
+      "url": "https://open.spotify.com/track/6u1xR1LKAiahXPrwjNCkky"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MALIK",
         "url": "https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 178586,
       "name": "Myself (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/7ymllAe6kR6TSmiDXmnOWx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Way I Love You",
-        "url": "https://open.spotify.com/album/5LM2wQNoA6LlS5aTR4PKJj"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 203813,
-      "name": "The Way I Love You",
-      "url": "https://open.spotify.com/track/6u1xR1LKAiahXPrwjNCkky"
     },
     {
       "added_at": null,
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 195275,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beautiful And Brutal Yard",
         "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 208760,
       "name": "I Am",
       "url": "https://open.spotify.com/track/0DJBgBiYeSn6n1AXAkFVE8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 195275,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
     },
     {
       "added_at": null,

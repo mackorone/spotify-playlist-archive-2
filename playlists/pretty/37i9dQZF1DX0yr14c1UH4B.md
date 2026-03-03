@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > It's all about the song  🎧 cover: Kingfishr<br/>📍Somewhere between indie, pop, folk and country
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,384 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,393 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 69 | [Narcissist](https://open.spotify.com/track/2iTqogAQJ5Oprtkn1SxkS4) | [Tallulah Argue](https://open.spotify.com/artist/34L2mrqYyWifYUwyPMhCUd) | [Narcissist](https://open.spotify.com/album/4EybcryYJC2MmZ65yPGS2J) | 3:29 |
 | 70 | [I OWE IT TO YOU](https://open.spotify.com/track/31NCU7wSIerIAlbpdNBFI7) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [I OWE IT TO YOU](https://open.spotify.com/album/6O622GKMA9zpqTLxQ7vyZt) | 3:10 |
 | 71 | [hands to myself](https://open.spotify.com/track/312F4NjnSnTbFI70e435is) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [hands to myself](https://open.spotify.com/album/6hFrFTTnn4LiZr8izHX1zf) | 2:40 |
-| 72 | [For you, my love](https://open.spotify.com/track/5upTmFcG7SR5MiNZIWlriI) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [For you, my love](https://open.spotify.com/album/5yyo2qqQg0y0Sjtr321PPE) | 3:12 |
+| 72 | [For You, My Love](https://open.spotify.com/track/5upTmFcG7SR5MiNZIWlriI) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [For You, My Love](https://open.spotify.com/album/5yyo2qqQg0y0Sjtr321PPE) | 3:12 |
 | 73 | [Wherever You Go](https://open.spotify.com/track/6h2z1Vf57755mPHQ98w68i) | [Max Allais](https://open.spotify.com/artist/1q6Erwlg8yTeH3XgngViVn) | [Wherever You Go](https://open.spotify.com/album/5Q18GtyAco5jhxjhftppGh) | 3:03 |
 | 74 | [Boyfriend](https://open.spotify.com/track/4BTJx4a85WdIvtF6EbMVrr) | [Dring](https://open.spotify.com/artist/1CXXrFuiErqDFLhQPPPYKt) | [To Be Needed At All](https://open.spotify.com/album/7AicQh8rXbOWMHhIFHG6Oc) | 3:15 |
 | 75 | [sticks and stones](https://open.spotify.com/track/6YUOUEBVYXnF4ZQRTDpORz) | [sean trelford](https://open.spotify.com/artist/4FFOqFgY6neszSElcfmV3i) | [ulcer](https://open.spotify.com/album/0Dh5TLgHNhnu4RrPWXV6dY) | 2:32 |

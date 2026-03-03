@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Pop bops for the saints!  Cover: Hollyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,702 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,715 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 99 | [forgiveness](https://open.spotify.com/track/61JEiyJi26bdOArXNq4yKe) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [forgiveness](https://open.spotify.com/album/2Y8fVshisSaMIiaqH2m8gD) | 2:45 |
 | 100 | [always will be \- acoustic](https://open.spotify.com/track/4L1vwX3sseUZAsyPieVksK) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [the unknown](https://open.spotify.com/album/0mhF2Ygr1GQE7JrmkfUrZI) | 2:58 |
 
-Snapshot ID: `AAAAANXBHz6oVrxcIO5JYK5E36aasQPd`
+Snapshot ID: `AAAAAGee+mNtELCmHz+bQXy0eFul+hhh`

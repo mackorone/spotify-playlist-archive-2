@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von LAVINA, Alvaro Soler, RAYE, Jazeek, Bruno Mars & mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 906,044 likes - 93 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 905,983 likes - 93 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

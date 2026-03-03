@@ -1,6 +1,6 @@
 {
   "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Kler",
-  "num_followers": 13718,
+  "num_followers": 13764,
   "original_name": "\u0422\u041e\u041f \u041f\u041e\u041f 2026",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-02-26 22:00:19",
       "album": {
+        "name": "Lucky Again",
+        "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 181550,
+      "name": "Lucky Again",
+      "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
+    },
+    {
+      "added_at": "2026-02-26 22:00:19",
+      "album": {
         "name": "End of the World",
         "url": "https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 250483,
       "name": "End of the World",
       "url": "https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c"
-    },
-    {
-      "added_at": "2026-02-26 22:00:19",
-      "album": {
-        "name": "I\u2019m Only F**king Myself",
-        "url": "https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 261959,
-      "name": "Post Sex Clarity",
-      "url": "https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg"
     },
     {
       "added_at": "2026-02-26 22:00:19",
@@ -599,18 +599,18 @@
     {
       "added_at": "2026-02-26 22:00:19",
       "album": {
-        "name": "Lucky Again",
-        "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
+        "name": "I\u2019m Only F**king Myself",
+        "url": "https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts"
       },
       "artists": [
         {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 181550,
-      "name": "Lucky Again",
-      "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
+      "duration_ms": 261959,
+      "name": "Post Sex Clarity",
+      "url": "https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg"
     },
     {
       "added_at": "2026-02-26 22:00:19",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-02-26 22:00:19",
       "album": {
-        "name": "professional heartbreaker",
-        "url": "https://open.spotify.com/album/2X5QpEX5O4DFQMLhr9iXx7"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 175328,
-      "name": "professional heartbreaker",
-      "url": "https://open.spotify.com/track/1cXe8OVF7fL9OyRWMFHytH"
-    },
-    {
-      "added_at": "2026-02-26 22:00:19",
-      "album": {
         "name": "Henry, come on",
         "url": "https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 311269,
       "name": "Henry, come on",
       "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
+    },
+    {
+      "added_at": "2026-02-26 22:00:19",
+      "album": {
+        "name": "professional heartbreaker",
+        "url": "https://open.spotify.com/album/2X5QpEX5O4DFQMLhr9iXx7"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 175328,
+      "name": "professional heartbreaker",
+      "url": "https://open.spotify.com/track/1cXe8OVF7fL9OyRWMFHytH"
     },
     {
       "added_at": "2026-02-26 22:00:19",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-02-26 22:00:19",
       "album": {
-        "name": "This Is Acting (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2LaW7npYOD7TzJHdpkqLuk"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 227400,
-      "name": "Fist Fighting A Sandstorm",
-      "url": "https://open.spotify.com/track/2f4a3iqaHrW8ly6qtjvYOL"
-    },
-    {
-      "added_at": "2026-02-26 22:00:19",
-      "album": {
         "name": "\u041d\u0435 \u041f\u02bc\u044f\u043d\u0430 - \u0417\u0430\u043a\u043e\u0445\u0430\u043d\u0430 (\u0437\u0430 \u0443\u0447\u0430\u0441\u0442\u0456 \u0430\u043d\u0441\u0430\u043c\u0431\u043b\u044e \u00ab\u041a\u0440\u0430\u043b\u0438\u0446\u044f\u00bb)",
         "url": "https://open.spotify.com/album/2Y0mXdZdGWGWrKSdLWmPJ2"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 223255,
       "name": "\u041d\u0435 \u041f\u02bc\u044f\u043d\u0430 - \u0417\u0430\u043a\u043e\u0445\u0430\u043d\u0430 - \u0437\u0430 \u0443\u0447\u0430\u0441\u0442\u0456 \u0430\u043d\u0441\u0430\u043c\u0431\u043b\u044e \u00ab\u041a\u0440\u0430\u043b\u0438\u0446\u044f\u00bb",
       "url": "https://open.spotify.com/track/0stBh1b8Oyi7gW3MdQQSGs"
+    },
+    {
+      "added_at": "2026-02-26 22:00:19",
+      "album": {
+        "name": "This Is Acting (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2LaW7npYOD7TzJHdpkqLuk"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 227400,
+      "name": "Fist Fighting A Sandstorm",
+      "url": "https://open.spotify.com/track/2f4a3iqaHrW8ly6qtjvYOL"
     },
     {
       "added_at": "2026-02-26 22:00:19",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-02-26 22:00:19",
       "album": {
-        "name": "\u043c\u0443\u043b\u044c\u0442\u0438\u0432\u0441\u0435\u0441\u0432\u0456\u0442",
-        "url": "https://open.spotify.com/album/6oMmhKjvV4gI1yGHic6Zkk"
-      },
-      "artists": [
-        {
-          "name": "Nikow",
-          "url": "https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe"
-        }
-      ],
-      "duration_ms": 193513,
-      "name": "\u043c\u0443\u043b\u044c\u0442\u0438\u0432\u0441\u0435\u0441\u0432\u0456\u0442",
-      "url": "https://open.spotify.com/track/0i5arZ6f0zuS2M6K1NgOPO"
-    },
-    {
-      "added_at": "2026-02-26 22:00:19",
-      "album": {
         "name": "Bird of Pray (Eurovision 2025)",
         "url": "https://open.spotify.com/album/7ipNGl84BdLCYkcOm0fToR"
       },
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2026-02-26 22:00:19",
       "album": {
-        "name": "\u0428\u0438\u043d\u0448\u0438\u043b\u0430",
-        "url": "https://open.spotify.com/album/0vJRuTCQzUlMn7pDV9HeAy"
+        "name": "\u043c\u0443\u043b\u044c\u0442\u0438\u0432\u0441\u0435\u0441\u0432\u0456\u0442",
+        "url": "https://open.spotify.com/album/6oMmhKjvV4gI1yGHic6Zkk"
       },
       "artists": [
         {
-          "name": "Tina Karol",
-          "url": "https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r"
+          "name": "Nikow",
+          "url": "https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe"
         }
       ],
-      "duration_ms": 168470,
-      "name": "\u0428\u0438\u043d\u0448\u0438\u043b\u0430",
-      "url": "https://open.spotify.com/track/1f5i0oy0aeVVbXDvAbPEdg"
+      "duration_ms": 193513,
+      "name": "\u043c\u0443\u043b\u044c\u0442\u0438\u0432\u0441\u0435\u0441\u0432\u0456\u0442",
+      "url": "https://open.spotify.com/track/0i5arZ6f0zuS2M6K1NgOPO"
     },
     {
       "added_at": "2026-02-26 22:00:19",
@@ -1083,6 +1067,22 @@
       "duration_ms": 217582,
       "name": "Walk of Fame (feat. Brittany Howard) - Edit",
       "url": "https://open.spotify.com/track/22tmzHt5QJ2sMKJefaqkjn"
+    },
+    {
+      "added_at": "2026-02-26 22:00:19",
+      "album": {
+        "name": "\u0428\u0438\u043d\u0448\u0438\u043b\u0430",
+        "url": "https://open.spotify.com/album/0vJRuTCQzUlMn7pDV9HeAy"
+      },
+      "artists": [
+        {
+          "name": "Tina Karol",
+          "url": "https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r"
+        }
+      ],
+      "duration_ms": 168470,
+      "name": "\u0428\u0438\u043d\u0448\u0438\u043b\u0430",
+      "url": "https://open.spotify.com/track/1f5i0oy0aeVVbXDvAbPEdg"
     },
     {
       "added_at": "2026-02-26 22:00:19",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-02-26 22:00:19",
       "album": {
-        "name": "\u0413\u0435\u0440\u0446\u0438",
-        "url": "https://open.spotify.com/album/6MlCMk3yb2HFgHAOeAbPFS"
-      },
-      "artists": [
-        {
-          "name": "KHAYAT",
-          "url": "https://open.spotify.com/artist/1YHTEJ3H4Qop7qxN5hZ5jK"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "\u0413\u0435\u0440\u0446\u0438",
-      "url": "https://open.spotify.com/track/5o65nY7AgBff4iBMwEqzSa"
-    },
-    {
-      "added_at": "2026-02-26 22:00:19",
-      "album": {
         "name": "Stomach Butterflies",
         "url": "https://open.spotify.com/album/3yP0f4ywFTS8Y2SJAtmIvv"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 171176,
       "name": "Stomach Butterflies",
       "url": "https://open.spotify.com/track/3ODfNdDz9b9VmABFncYmPG"
+    },
+    {
+      "added_at": "2026-02-26 22:00:19",
+      "album": {
+        "name": "\u0413\u0435\u0440\u0446\u0438",
+        "url": "https://open.spotify.com/album/6MlCMk3yb2HFgHAOeAbPFS"
+      },
+      "artists": [
+        {
+          "name": "KHAYAT",
+          "url": "https://open.spotify.com/artist/1YHTEJ3H4Qop7qxN5hZ5jK"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "\u0413\u0435\u0440\u0446\u0438",
+      "url": "https://open.spotify.com/track/5o65nY7AgBff4iBMwEqzSa"
     },
     {
       "added_at": "2026-02-26 22:00:19",

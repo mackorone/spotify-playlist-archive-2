@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d4\u05d9\u05dc\u05d4 \u05e8\u05d5\u05d7",
-  "num_followers": 33343,
+  "num_followers": 33348,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2026-02-26 22:00:17",
       "album": {
+        "name": "WATCH THE NEWS",
+        "url": "https://open.spotify.com/album/5OM5AobrcNnYzh3mNdcprJ"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "duration_ms": 166996,
+      "name": "WATCH THE NEWS",
+      "url": "https://open.spotify.com/track/7x2mL3MT47IxwQQBfiTFh9"
+    },
+    {
+      "added_at": "2026-02-26 22:00:17",
+      "album": {
         "name": "\u05d0\u05d9 \u05d0\u05e4\u05e9\u05e8 \u05dc\u05e8\u05db\u05d1 \u05e2\u05dc \u05e1\u05d5\u05e1 \u05e4\u05e8\u05d0",
         "url": "https://open.spotify.com/album/3uKIb53kW2Ub3Kd1WPU2Hx"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 235909,
       "name": "\u05d2\u05f3\u05d9\u05df",
       "url": "https://open.spotify.com/track/0fAbC15ujG00QJjAXVE0Es"
-    },
-    {
-      "added_at": "2026-02-26 22:00:17",
-      "album": {
-        "name": "WATCH THE NEWS",
-        "url": "https://open.spotify.com/album/5OM5AobrcNnYzh3mNdcprJ"
-      },
-      "artists": [
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        }
-      ],
-      "duration_ms": 166996,
-      "name": "WATCH THE NEWS",
-      "url": "https://open.spotify.com/track/7x2mL3MT47IxwQQBfiTFh9"
     },
     {
       "added_at": "2026-02-26 22:00:17",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-02-26 22:00:17",
       "album": {
-        "name": "\u05d0\u05d9 \u05d0\u05e4\u05e9\u05e8 \u05dc\u05e8\u05db\u05d1 \u05e2\u05dc \u05e1\u05d5\u05e1 \u05e4\u05e8\u05d0",
-        "url": "https://open.spotify.com/album/3uKIb53kW2Ub3Kd1WPU2Hx"
-      },
-      "artists": [
-        {
-          "name": "Shae",
-          "url": "https://open.spotify.com/artist/49wOBRtFgrPnrYYJUlPgY6"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "\u05e0\u05d9\u05d2\u05d5\u05df \u05e2\u05ea\u05d9\u05e7",
-      "url": "https://open.spotify.com/track/2JjrMM8Isp8hKgCG9DsSmI"
-    },
-    {
-      "added_at": "2026-02-26 22:00:17",
-      "album": {
         "name": "GODMOTHER (feat. Eden Ben Zaken)",
         "url": "https://open.spotify.com/album/2epktylpW82pRgLMu0FSHo"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 191516,
       "name": "GODMOTHER (feat. Eden Ben Zaken)",
       "url": "https://open.spotify.com/track/72yhMb8kkkzWxM4UEPywPC"
+    },
+    {
+      "added_at": "2026-02-26 22:00:17",
+      "album": {
+        "name": "\u05d0\u05d9 \u05d0\u05e4\u05e9\u05e8 \u05dc\u05e8\u05db\u05d1 \u05e2\u05dc \u05e1\u05d5\u05e1 \u05e4\u05e8\u05d0",
+        "url": "https://open.spotify.com/album/3uKIb53kW2Ub3Kd1WPU2Hx"
+      },
+      "artists": [
+        {
+          "name": "Shae",
+          "url": "https://open.spotify.com/artist/49wOBRtFgrPnrYYJUlPgY6"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "\u05e0\u05d9\u05d2\u05d5\u05df \u05e2\u05ea\u05d9\u05e7",
+      "url": "https://open.spotify.com/track/2JjrMM8Isp8hKgCG9DsSmI"
     },
     {
       "added_at": "2026-02-26 22:00:17",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-02-26 22:00:17",
       "album": {
-        "name": "\u05d0\u05e4\u05e9\u05e8 \u05dc\u05e0\u05e9\u05d5\u05dd",
-        "url": "https://open.spotify.com/album/4rmIIrkqvUwGiFYfrIQ0uH"
-      },
-      "artists": [
-        {
-          "name": "\u05d9\u05d5\u05e9\u05d9",
-          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "\u05d0\u05e4\u05e9\u05e8 \u05dc\u05e0\u05e9\u05d5\u05dd",
-      "url": "https://open.spotify.com/track/09zklQ120q209D3xXGrKnZ"
-    },
-    {
-      "added_at": "2026-02-26 22:00:17",
-      "album": {
         "name": "Haunted",
         "url": "https://open.spotify.com/album/59TgUlQXE5FqObb58LJsWL"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 238838,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/5cPMjdmwBWdbNpviqSj944"
+    },
+    {
+      "added_at": "2026-02-26 22:00:17",
+      "album": {
+        "name": "\u05d0\u05e4\u05e9\u05e8 \u05dc\u05e0\u05e9\u05d5\u05dd",
+        "url": "https://open.spotify.com/album/4rmIIrkqvUwGiFYfrIQ0uH"
+      },
+      "artists": [
+        {
+          "name": "\u05d9\u05d5\u05e9\u05d9",
+          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "\u05d0\u05e4\u05e9\u05e8 \u05dc\u05e0\u05e9\u05d5\u05dd",
+      "url": "https://open.spotify.com/track/09zklQ120q209D3xXGrKnZ"
     },
     {
       "added_at": "2026-02-26 22:00:17",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-02-26 22:00:17",
       "album": {
-        "name": "\u05e2\u05d3 \u05e9\u05d9\u05e8\u05d3\u05d5 \u05d3\u05de\u05e2\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/6Q3RF7PWI9eS8Cjn4hdIcG"
-      },
-      "artists": [
-        {
-          "name": "Assaf Amdursky",
-          "url": "https://open.spotify.com/artist/7ncSeJV3xl2Q2HnWvllj4B"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "\u05e2\u05d3 \u05e9\u05d9\u05e8\u05d3\u05d5 \u05d3\u05de\u05e2\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/6L2JIHrrytMYeJIaSOcIdQ"
-    },
-    {
-      "added_at": "2026-02-26 22:00:17",
-      "album": {
         "name": "The Call Of The Flow",
         "url": "https://open.spotify.com/album/4IfBE388B8vhY2AUXBiJLc"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 236221,
       "name": "The Call Of The Flow",
       "url": "https://open.spotify.com/track/0d3rgGVa0WAOrUg1vSR2oA"
+    },
+    {
+      "added_at": "2026-02-26 22:00:17",
+      "album": {
+        "name": "\u05e2\u05d3 \u05e9\u05d9\u05e8\u05d3\u05d5 \u05d3\u05de\u05e2\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/6Q3RF7PWI9eS8Cjn4hdIcG"
+      },
+      "artists": [
+        {
+          "name": "Assaf Amdursky",
+          "url": "https://open.spotify.com/artist/7ncSeJV3xl2Q2HnWvllj4B"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "\u05e2\u05d3 \u05e9\u05d9\u05e8\u05d3\u05d5 \u05d3\u05de\u05e2\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/6L2JIHrrytMYeJIaSOcIdQ"
     },
     {
       "added_at": "2026-02-26 22:00:17",

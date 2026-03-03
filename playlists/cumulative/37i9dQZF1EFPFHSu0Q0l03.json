@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188333,
+      "name": "Alleycat",
+      "url": "https://open.spotify.com/track/3MtVQlX0ZSPqs7d1Tn0g4m"
+    },
+    {
+      "album": {
         "name": "Autumn Variations",
         "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
       },
@@ -333,6 +351,28 @@
     },
     {
       "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178200,
+      "name": "Badlands (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg"
+    },
+    {
+      "album": {
         "name": "The National (2021 Remaster)",
         "url": "https://open.spotify.com/album/68NmQ5XgjHsKYcJZJKkvSp"
       },
@@ -348,6 +388,24 @@
       "duration_ms": 188760,
       "name": "Beautiful Head - 2021 Remaster",
       "url": "https://open.spotify.com/track/5n7ZqHJo1d3ensM9ovgpF4"
+    },
+    {
+      "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224133,
+      "name": "Begin Again",
+      "url": "https://open.spotify.com/track/0hIE1ASrRWy6LvPTVbfH8Z"
     },
     {
       "album": {
@@ -768,6 +826,24 @@
       "duration_ms": 180653,
       "name": "closure",
       "url": "https://open.spotify.com/track/3uayvzcbqFydIbgUeC6EJh"
+    },
+    {
+      "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222893,
+      "name": "Clover",
+      "url": "https://open.spotify.com/track/2rPUusaY37nm8M4OItC47v"
     },
     {
       "album": {
@@ -1727,6 +1803,28 @@
     },
     {
       "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191146,
+      "name": "Here (with Chris Stapleton)",
+      "url": "https://open.spotify.com/track/3vacuoRYIAFTu0CsnBIcL7"
+    },
+    {
+      "album": {
         "name": "Bleachers",
         "url": "https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E"
       },
@@ -2144,6 +2242,46 @@
       "duration_ms": 315280,
       "name": "I'll Still Destroy You",
       "url": "https://open.spotify.com/track/5L6YfOfsBnaKJHpgsxVgsV"
+    },
+    {
+      "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162706,
+      "name": "I'll Tell You Everything",
+      "url": "https://open.spotify.com/track/4MGEM5fktBHcB0gJzVswsv"
+    },
+    {
+      "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192333,
+      "name": "Icarus (with Gigi Perez)",
+      "url": "https://open.spotify.com/track/5JHbJWAt56lUXP70gEeBRv"
     },
     {
       "album": {
@@ -3575,6 +3713,24 @@
     },
     {
       "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219053,
+      "name": "Run Together",
+      "url": "https://open.spotify.com/track/5hdjFoHgz5pRImyECjTuUn"
+    },
+    {
+      "album": {
         "name": "High Violet",
         "url": "https://open.spotify.com/album/4vBvnlmaiyoEf04hLe5SLo"
       },
@@ -3844,6 +4000,24 @@
       "duration_ms": 208906,
       "name": "seven",
       "url": "https://open.spotify.com/track/6KJqZcs9XDgVck7Lg9QOTC"
+    },
+    {
+      "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223373,
+      "name": "Shadow Of A Man",
+      "url": "https://open.spotify.com/track/0pxeRv17TMp2uAPlqMpPep"
     },
     {
       "album": {
@@ -4184,6 +4358,24 @@
       "duration_ms": 196400,
       "name": "Start a War",
       "url": "https://open.spotify.com/track/2Tk7IZ4XHXCGRFxSaP40qB"
+    },
+    {
+      "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203146,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1JSwlEW1gk5Tmh4aWR5QCO"
     },
     {
       "album": {

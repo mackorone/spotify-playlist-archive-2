@@ -1,33 +1,13 @@
 {
   "description": "Today's top Latin hits, elevando nuestra m\u00fasica. Cover: Omar Courtz",
-  "num_followers": 15485946,
+  "num_followers": 15485360,
   "original_name": "Viva Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAg8Vguh9mtixoZnxu0lFr5p+3d",
+  "snapshot_id": "AAAAAMzGnkok67xQTwVQo/7X/pAQOrNi",
   "tracks": [
-    {
-      "added_at": "2026-02-27 05:00:50",
-      "album": {
-        "name": "FOREVER TU GANTEL",
-        "url": "https://open.spotify.com/album/2CmgcsyoQeFW6yj6eFTwdA"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        }
-      ],
-      "duration_ms": 226533,
-      "name": "FOREVER TU GANTEL",
-      "url": "https://open.spotify.com/track/5XE2dc5tz7tbufWCPFUo5c"
-    },
     {
       "added_at": "2026-02-27 05:00:50",
       "album": {
@@ -215,6 +195,26 @@
       "duration_ms": 203357,
       "name": "Perlas Negras",
       "url": "https://open.spotify.com/track/0N6h5RnzCNJG3JfROXQIMQ"
+    },
+    {
+      "added_at": "2026-02-27 05:00:50",
+      "album": {
+        "name": "FOREVER TU GANTEL",
+        "url": "https://open.spotify.com/album/2CmgcsyoQeFW6yj6eFTwdA"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 226533,
+      "name": "FOREVER TU GANTEL",
+      "url": "https://open.spotify.com/track/5XE2dc5tz7tbufWCPFUo5c"
     },
     {
       "added_at": "2026-02-27 05:00:50",

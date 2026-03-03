@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: COII\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,836 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,867 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [Love Power Warrior \(Prod\. hyeminsong\)](https://open.spotify.com/track/7wFLMYAba4y9quHtt1KRVR) | [Yoon Da Hye](https://open.spotify.com/artist/1MMvp9AK4S9WKByz3xt83F), [Jeffrey White](https://open.spotify.com/artist/2CzJxatdtHWmZzJf1iZZBi) | [AP Melodies](https://open.spotify.com/album/6dGSTPRWk3ZwXVdb4Lsjzi) | 3:33 |
 | 50 | [Counter Punch](https://open.spotify.com/track/4DgOE5sQzN44rVwudUoMJk) | [Shane](https://open.spotify.com/artist/3BBmWyvut6k6gHFeIzlx5v), [DORI](https://open.spotify.com/artist/5n32uEk7HdSYRqZbiSyj13), [EID®echoesindream.](https://open.spotify.com/artist/1ErmY2nlIGPPVcczrNFLdv) | [Counter Punch](https://open.spotify.com/album/0CkMUSv9oTVBl2zVR1WOQN) | 2:24 |
 
-Snapshot ID: `AAAAAJiTEdCRX86No0G2Scivt0iPjsVr`
+Snapshot ID: `AAAAADv67MbbMhW5skPaPQ5kVR9IVtOK`

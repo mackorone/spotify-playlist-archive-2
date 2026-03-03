@@ -6213,6 +6213,28 @@
     },
     {
       "album": {
+        "name": "Sabe onde me encontar",
+        "url": "https://open.spotify.com/album/6aailZeGwqA6NDtHekl6X1"
+      },
+      "artists": [
+        {
+          "name": "Devasto Prod",
+          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
+        },
+        {
+          "name": "Druhh e Drehh",
+          "url": "https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171369,
+      "name": "Sabe onde me encontar",
+      "url": "https://open.spotify.com/track/6E1AzVIFvPdvMPq4WVigoh"
+    },
+    {
+      "album": {
         "name": "Sainha da Cyclone",
         "url": "https://open.spotify.com/album/0FKsqgos6juV7KVz03kaJD"
       },

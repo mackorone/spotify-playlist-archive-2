@@ -1,6 +1,6 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 374198,
+  "num_followers": 374220,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -411,26 +411,6 @@
     {
       "added_at": "2026-02-12 16:45:42",
       "album": {
-        "name": "TIMELESS",
-        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 219035,
-      "name": "Spit It Out (feat. Rochelle Jordan)",
-      "url": "https://open.spotify.com/track/3sc1W8OHwAFoPe6mS7AJUT"
-    },
-    {
-      "added_at": "2026-02-12 16:45:42",
-      "album": {
         "name": "Fancy Some More?",
         "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 293308,
       "name": "Girl Like Me + Kaytranada",
       "url": "https://open.spotify.com/track/76AtpWLCarPl4okCl8XCwS"
+    },
+    {
+      "added_at": "2026-02-12 16:45:42",
+      "album": {
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 219035,
+      "name": "Spit It Out (feat. Rochelle Jordan)",
+      "url": "https://open.spotify.com/track/3sc1W8OHwAFoPe6mS7AJUT"
     },
     {
       "added_at": "2026-02-12 16:45:42",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-02-12 16:45:42",
       "album": {
+        "name": "dear dialE",
+        "url": "https://open.spotify.com/album/5MuPJGunKGoiPi0NYqiqIE"
+      },
+      "artists": [
+        {
+          "name": "dialE",
+          "url": "https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB"
+        }
+      ],
+      "duration_ms": 115041,
+      "name": "AOT",
+      "url": "https://open.spotify.com/track/2BAcbnk7JMYspiJip31953"
+    },
+    {
+      "added_at": "2026-02-12 16:45:42",
+      "album": {
         "name": "Curses Broken",
         "url": "https://open.spotify.com/album/0VKoTrkB7atHHNuJ2LRakY"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 125084,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/13LojN5HDhICPdgLz6QmIG"
-    },
-    {
-      "added_at": "2026-02-12 16:45:42",
-      "album": {
-        "name": "dear dialE",
-        "url": "https://open.spotify.com/album/5MuPJGunKGoiPi0NYqiqIE"
-      },
-      "artists": [
-        {
-          "name": "dialE",
-          "url": "https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB"
-        }
-      ],
-      "duration_ms": 115041,
-      "name": "AOT",
-      "url": "https://open.spotify.com/track/2BAcbnk7JMYspiJip31953"
     },
     {
       "added_at": "2026-02-12 16:45:42",
@@ -767,30 +767,6 @@
     {
       "added_at": "2026-02-12 16:45:42",
       "album": {
-        "name": "times",
-        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 284573,
-      "name": "Impact (feat. Robyn & Channel Tres)",
-      "url": "https://open.spotify.com/track/7I1oIGR5bcMR4dBFZOtaUi"
-    },
-    {
-      "added_at": "2026-02-12 16:45:42",
-      "album": {
         "name": "All This Love",
         "url": "https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb"
       },
@@ -815,6 +791,30 @@
       "duration_ms": 233196,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE"
+    },
+    {
+      "added_at": "2026-02-12 16:45:42",
+      "album": {
+        "name": "times",
+        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 284573,
+      "name": "Impact (feat. Robyn & Channel Tres)",
+      "url": "https://open.spotify.com/track/7I1oIGR5bcMR4dBFZOtaUi"
     },
     {
       "added_at": "2026-02-12 16:45:42",
@@ -971,26 +971,6 @@
     {
       "added_at": "2026-02-12 16:45:42",
       "album": {
-        "name": "DUN DI DUN",
-        "url": "https://open.spotify.com/album/6yiQLSFVe8zT2NtvPBedUd"
-      },
-      "artists": [
-        {
-          "name": "Mysie",
-          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
-        },
-        {
-          "name": "SOXX",
-          "url": "https://open.spotify.com/artist/59CIKqVd0hUE3gZx3pvubw"
-        }
-      ],
-      "duration_ms": 162439,
-      "name": "DUN DI DUN",
-      "url": "https://open.spotify.com/track/3Z9nSzxrucQVMXS8cfOYzr"
-    },
-    {
-      "added_at": "2026-02-12 16:45:42",
-      "album": {
         "name": "Strike a Pose (feat. Camille Munn)",
         "url": "https://open.spotify.com/album/54ZxNpUzA5uPcWx7T0hfNE"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 186604,
       "name": "Strike a Pose (feat. Camille Munn)",
       "url": "https://open.spotify.com/track/2Ud42Q4mxETIYEuJ2D5oZA"
+    },
+    {
+      "added_at": "2026-02-12 16:45:42",
+      "album": {
+        "name": "DUN DI DUN",
+        "url": "https://open.spotify.com/album/6yiQLSFVe8zT2NtvPBedUd"
+      },
+      "artists": [
+        {
+          "name": "Mysie",
+          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
+        },
+        {
+          "name": "SOXX",
+          "url": "https://open.spotify.com/artist/59CIKqVd0hUE3gZx3pvubw"
+        }
+      ],
+      "duration_ms": 162439,
+      "name": "DUN DI DUN",
+      "url": "https://open.spotify.com/track/3Z9nSzxrucQVMXS8cfOYzr"
     },
     {
       "added_at": "2026-02-12 16:45:42",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2026-02-12 16:45:42",
       "album": {
-        "name": "North",
-        "url": "https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP"
-      },
-      "artists": [
-        {
-          "name": "Sango",
-          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
-        },
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Middle of Things, Beautiful Wife (feat. Xavier Om\u00e4r))",
-      "url": "https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO"
-    },
-    {
-      "added_at": "2026-02-12 16:45:42",
-      "album": {
         "name": "This World Of Mine",
         "url": "https://open.spotify.com/album/67qqzqcaVGJ0FBAkfy6J38"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 186691,
       "name": "This World Of Mine",
       "url": "https://open.spotify.com/track/6bttpK4KFgtKwCfQ8oIaWQ"
+    },
+    {
+      "added_at": "2026-02-12 16:45:42",
+      "album": {
+        "name": "North",
+        "url": "https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP"
+      },
+      "artists": [
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        },
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Middle of Things, Beautiful Wife (feat. Xavier Om\u00e4r))",
+      "url": "https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO"
     },
     {
       "added_at": "2026-02-12 16:45:42",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-02-12 16:45:42",
       "album": {
-        "name": "THE BPM",
-        "url": "https://open.spotify.com/album/6xuXmpSyh7WqIct3bvsSfg"
-      },
-      "artists": [
-        {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "SHE'S GOT PAIN",
-      "url": "https://open.spotify.com/track/5LObg9zxmkh4pIY1SKKBAG"
-    },
-    {
-      "added_at": "2026-02-12 16:45:42",
-      "album": {
         "name": "Heatwave",
         "url": "https://open.spotify.com/album/3y5RpzFIsdyO5N9svU35Hv"
       },
@@ -1207,26 +1191,6 @@
     {
       "added_at": "2026-02-12 16:45:42",
       "album": {
-        "name": "Dancing While Falling",
-        "url": "https://open.spotify.com/album/0OQDgPsunDOfPiRAuS87ng"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        },
-        {
-          "name": "Andreya Triana",
-          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
-        }
-      ],
-      "duration_ms": 211590,
-      "name": "Morning Light (feat. Andreya Triana)",
-      "url": "https://open.spotify.com/track/74BzzNL9WKXyUd7vzh2hz3"
-    },
-    {
-      "added_at": "2026-02-12 16:45:42",
-      "album": {
         "name": "touch",
         "url": "https://open.spotify.com/album/6985sMUAYiGoVOKToO4ggh"
       },
@@ -1243,6 +1207,42 @@
       "duration_ms": 222496,
       "name": "touch",
       "url": "https://open.spotify.com/track/20dwZjiulXW26Pux4Tm7Fh"
+    },
+    {
+      "added_at": "2026-02-12 16:45:42",
+      "album": {
+        "name": "THE BPM",
+        "url": "https://open.spotify.com/album/6xuXmpSyh7WqIct3bvsSfg"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "SHE'S GOT PAIN",
+      "url": "https://open.spotify.com/track/5LObg9zxmkh4pIY1SKKBAG"
+    },
+    {
+      "added_at": "2026-02-12 16:45:42",
+      "album": {
+        "name": "Dancing While Falling",
+        "url": "https://open.spotify.com/album/0OQDgPsunDOfPiRAuS87ng"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "duration_ms": 211590,
+      "name": "Morning Light (feat. Andreya Triana)",
+      "url": "https://open.spotify.com/track/74BzzNL9WKXyUd7vzh2hz3"
     },
     {
       "added_at": "2026-02-12 16:45:42",

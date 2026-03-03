@@ -4,7 +4,7 @@
 
 > Motion & good vibes! Cover: Kybba
 
-1,658 songs - 3 day 1 hr 43 min
+1,659 songs - 3 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1162,6 +1162,7 @@
 | [Party \(feat\. Hekje31 & Poke\)](https://open.spotify.com/track/3Io4v6jDiTcXYbJ49wZaUs) | [Alessio](https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj), [Hekje31](https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [Party \(feat\. Hekje31 & Poke\)](https://open.spotify.com/album/27YRcwQvrio1xdebGfk7fo) | 2:05 | 2025-11-20 | 2025-12-19 |
 | [Party Lit](https://open.spotify.com/track/1VWBiIqOkw87zQ1VlDQL3V) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Party Lit](https://open.spotify.com/album/0zrEX1otKLqnZEmVLI0b2q) | 2:09 | 2025-10-24 | 2025-12-12 |
 | [Party No Dey Stop](https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq) | 2:48 | 2023-03-30 | 2023-06-01 |
+| [PARTYGYAL](https://open.spotify.com/track/46Cu4xavDB7pcejde1ldMA) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [PARTYGYAL](https://open.spotify.com/album/58KANh9hTj5sxFClFIuTty) | 2:47 | 2026-03-02 |  |
 | [Pas Comme Ça](https://open.spotify.com/track/5Os3fdIL2QS2e1r6JzMrjQ) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [D&D](https://open.spotify.com/album/7EznJ3BjBGXxRgNSC6n610) | 3:17 | 2024-07-19 | 2024-11-29 |
 | [Passa Passa](https://open.spotify.com/track/4CuiTKxzI5IYB4C9DteyRW) | [Karl Wine](https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5) | [Passa Passa](https://open.spotify.com/album/559Ym4G6Nd0rQdLRnM1PR4) | 2:39 | 2022-11-18 | 2022-12-09 |
 | [PASSA PASSA PASSA](https://open.spotify.com/track/6x7LwtkzFYwcCKJgvNt7Io) | [Karl Wine](https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [PASSA PASSA PASSA](https://open.spotify.com/album/397MNayWWypQlvNyOhGMWg) | 3:34 | 2023-06-07 | 2023-06-23 |
@@ -1258,7 +1259,7 @@
 | [Ring Di Alarm](https://open.spotify.com/track/1D0pdbZyGTIDt6ynWP3JLM) | [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ) | [Ring Di Alarm](https://open.spotify.com/album/3l7r1yJn2LOle1ClOKkIMo) | 2:27 | 2023-11-30 | 2024-04-05 |
 | [Rio](https://open.spotify.com/track/4c6yjn6FdNfuRltmPFciJh) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Rio](https://open.spotify.com/album/0EEQ93KABmtc6GFkyBV0sl) | 3:08 | 2025-01-23 | 2025-04-25 |
 | [RISICO](https://open.spotify.com/track/0FvtWOVCp6pn8GK2lr3fIq) | [Chip Charlez](https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH) | [RISICO](https://open.spotify.com/album/78gIEFjspU0TG8ZxtjmSHd) | 2:09 | 2023-10-05 | 2024-01-26 |
-| [Roadtrips](https://open.spotify.com/track/3QlpGVOpkPeswuTQINHsdh) | [Javé](https://open.spotify.com/artist/0l0L4jCaPSwe99OwHtzQeT), [PHIA](https://open.spotify.com/artist/0eCmejqEQByPL0MZm9ADhK) | [Roadtrips](https://open.spotify.com/album/2qh3zPVUUrj9PbP491yUDY) | 2:28 | 2026-02-05 |  |
+| [Roadtrips](https://open.spotify.com/track/3QlpGVOpkPeswuTQINHsdh) | [Javé](https://open.spotify.com/artist/0l0L4jCaPSwe99OwHtzQeT), [PHIA](https://open.spotify.com/artist/0eCmejqEQByPL0MZm9ADhK) | [Roadtrips](https://open.spotify.com/album/2qh3zPVUUrj9PbP491yUDY) | 2:28 | 2026-02-05 | 2026-03-03 |
 | [Robotica \(Remix\) \[feat\. Kilate Tesla, Ozin & Riverali\]](https://open.spotify.com/track/2pBfF9Prcj3RTrsS8NyMJd) | [Lani Manila](https://open.spotify.com/artist/0g7NWpl1IogB4zosDPZ4Eu), [Ozin](https://open.spotify.com/artist/3VY9hWsvkxG3zzfoS72U93), [Riverali](https://open.spotify.com/artist/2hjZB2EP4nefXJMwahLPKx), [KILATE TESLA](https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo) | [Robotica \(Remix\) \[feat\. Ozin, Riverali & Kilate Tesla\]](https://open.spotify.com/album/2EVwPA5Os9FtUTn2v1t6Kv) | 2:24 | 2022-12-22 | 2023-03-18 |
 | [Roi 2 cœur \(feat\. Indila\)](https://open.spotify.com/track/6nYW5D9TyWomuS9hW6wDuY) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Résilience](https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2) | 3:29 | 2023-02-23 | 2023-03-09 |
 | [Romeo Must Die \(RMD\)](https://open.spotify.com/track/10TygH7MoyZQFRMPDE2N6Z) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Romeo Must Die \(RMD\)](https://open.spotify.com/album/4Q2RjSDGbmXumbrTQTEYd3) | 2:40 | 2024-02-29 | 2024-03-22 |

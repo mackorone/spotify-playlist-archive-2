@@ -6,8 +6,84 @@
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARdi2f81PuJpOrNoz/46jNYIFDVsGg",
+  "snapshot_id": "AAARei75p0vPrrXHh4Y7LFynlJoE3/AV",
   "tracks": [
+    {
+      "added_at": "2026-03-02 20:25:13",
+      "album": {
+        "name": "Dreamworld",
+        "url": "https://open.spotify.com/album/7D5H4QJnAMTNARciIaWrXj"
+      },
+      "artists": [
+        {
+          "name": "Kadro",
+          "url": "https://open.spotify.com/artist/3O8NCSBnwcI4IoORaOhDWx"
+        }
+      ],
+      "duration_ms": 255483,
+      "name": "Dreamworld",
+      "url": "https://open.spotify.com/track/2igoVqi3hoozzQOD5il1SK"
+    },
+    {
+      "added_at": "2026-03-02 11:10:07",
+      "album": {
+        "name": "Back To The Groove",
+        "url": "https://open.spotify.com/album/62p4HL44U6NqmzXO8Be4r3"
+      },
+      "artists": [
+        {
+          "name": "Thunder DJ AI",
+          "url": "https://open.spotify.com/artist/7ba9PcoyvqG1loN3hReWM6"
+        }
+      ],
+      "duration_ms": 278779,
+      "name": "Back To The Groove",
+      "url": "https://open.spotify.com/track/6lTX898JuTfnT6l0tx5gKV"
+    },
+    {
+      "added_at": "2026-03-02 11:04:41",
+      "album": {
+        "name": "Otherside",
+        "url": "https://open.spotify.com/album/2yYHalWG0HUTScBhbi3hee"
+      },
+      "artists": [
+        {
+          "name": "Burak Yeter",
+          "url": "https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI"
+        },
+        {
+          "name": "Luca Testa",
+          "url": "https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7"
+        },
+        {
+          "name": "Roundrobin",
+          "url": "https://open.spotify.com/artist/6lzdsHJPRvkOydWYIQjnQc"
+        }
+      ],
+      "duration_ms": 151788,
+      "name": "Otherside",
+      "url": "https://open.spotify.com/track/5ZQzSzss3k8m3AT3arO58L"
+    },
+    {
+      "added_at": "2026-03-02 10:42:03",
+      "album": {
+        "name": "Dance Above It",
+        "url": "https://open.spotify.com/album/7I78XWG6pMjpcZs8oqrnu3"
+      },
+      "artists": [
+        {
+          "name": "White Whale",
+          "url": "https://open.spotify.com/artist/7iJ8iFAOikb11EdAAP4H5B"
+        },
+        {
+          "name": "Silvia Doro",
+          "url": "https://open.spotify.com/artist/6z4dhiZWnGczWJDij9ndcC"
+        }
+      ],
+      "duration_ms": 196875,
+      "name": "Dance Above It",
+      "url": "https://open.spotify.com/track/3ENcRrCq2yFxlWk4epUafr"
+    },
     {
       "added_at": "2026-03-01 12:16:59",
       "album": {

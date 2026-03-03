@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZLcGGC0HJbc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZLcGGC0HJbc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZLcGGC0HJbc)
 
-### [Indie Folk Cedar & Coffee](https://open.spotify.com/playlist/37i9dQZF1DWZLcGGC0HJbc)
+### [Indie Folk Coffee & Cedar](https://open.spotify.com/playlist/37i9dQZF1DWZLcGGC0HJbc)
 
 > Voor boslucht, koffie en kalmte.
 
-283 songs - 17 hr 0 min
+284 songs - 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Backfire](https://open.spotify.com/track/6tAOc7igS4LWMKQBMkqMkU) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Backfire](https://open.spotify.com/album/3bFtx73cpXEELUIMMGrH3d) | 3:33 | 2024-06-27 | 2025-01-24 |
 | [Berlin](https://open.spotify.com/track/3xe0as9iSolwPSaZdNhka8) | [Iskander Moon](https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0) | [Berlin](https://open.spotify.com/album/0D0FZUmTHNSvsVJ89ZlvZL) | 3:22 | 2024-06-27 | 2025-02-21 |
 | [Big Black Car \- Cover](https://open.spotify.com/track/1gGTs9zEatXSNKwabDDrpD) | [Bertie Newman](https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh), [Bradley Baker](https://open.spotify.com/artist/0L87ufcQdvOHWZbcrIaXcc) | [Big Black Car \(Cover\)](https://open.spotify.com/album/4bmokgLbihiveYrFGvvZrd) | 3:03 | 2025-02-03 | 2025-06-09 |
+| [Bigger Picture](https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Bigger Picture](https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57) | 3:05 | 2026-03-02 |  |
 | [Black Hole](https://open.spotify.com/track/07gbjddL6AZ4PYKaviVMOQ) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw) | [the rest](https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz) | 2:21 | 2024-06-27 | 2024-09-20 |
 | [Blue](https://open.spotify.com/track/0PSliKcrngN9atHRe9sy8s) | [Ivy Falls](https://open.spotify.com/artist/3I6L2mDZUNbW1BZ5YNwqAv) | [Sense & Nonsense](https://open.spotify.com/album/49C201EMuA7vMN68BRphjn) | 4:07 | 2025-01-27 | 2025-05-30 |
 | [Body as a Meadow](https://open.spotify.com/track/0X1WV3X8xEf1Tt8nLBIWPi) | [AWKWARD i](https://open.spotify.com/artist/7A8U1UZFpc03H6UrSaX9wh) | [UNALASKA](https://open.spotify.com/album/2EfVQqJagb60EnAJNq1o9I) | 3:39 | 2025-01-23 | 2025-02-22 |
@@ -166,7 +167,7 @@
 | [Mountainsong](https://open.spotify.com/track/03ErdYcB9JbUBZCRYdVrg9) | [Catbug](https://open.spotify.com/artist/1JaN6kQQwn2LiP0VBH8Zpj) | [Mountainsong](https://open.spotify.com/album/1WZ9xo6JWHuk9r9lM0Bz9J) | 6:20 | 2024-07-18 | 2025-01-24 |
 | [Much Ado About Nothing](https://open.spotify.com/track/0nuneId81O8XGxUjSCL316) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/5O9TGAJ6Opoya7KCBKKQUA) | 3:49 | 2025-01-23 |  |
 | [My Deliverance](https://open.spotify.com/track/3gr32BoWQHCEVfDFCXSa7O) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Dust Chaser \(Deluxe Edition\)](https://open.spotify.com/album/29lQvTxeVSN6epZyHvk8HE) | 3:09 | 2025-01-23 | 2025-02-18 |
-| [My Heroine](https://open.spotify.com/track/0IAhw7KxiogXweSwVxW4av) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Every Dawn's a Mountain](https://open.spotify.com/album/0S3ocN5MLEY4mFMJWY0VG1) | 3:21 | 2025-07-03 |  |
+| [My Heroine](https://open.spotify.com/track/0IAhw7KxiogXweSwVxW4av) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Every Dawn's a Mountain](https://open.spotify.com/album/0S3ocN5MLEY4mFMJWY0VG1) | 3:21 | 2025-07-03 | 2026-03-03 |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2024-06-27 | 2025-09-20 |
 | [My Love Mine All Mine](https://open.spotify.com/track/5TS7Hcbrjz8JTAgUFIsqoC) | [Tom Bailey](https://open.spotify.com/artist/6nUOrgkHVLMY7Zoe3IXQhJ) | [My Love Mine All Mine](https://open.spotify.com/album/0IIiS2dXsBM4aZjrExn5gh) | 2:21 | 2024-06-27 | 2025-01-24 |
 | [My Love, I'm Only Mad](https://open.spotify.com/track/5EH7kncFVKreSpuQsbOkh0) | [Halehan](https://open.spotify.com/artist/7BFaz82AlJshWc7bxdRn3p) | [My Love, I'm Only Mad](https://open.spotify.com/album/1gAxp3FOrALIlOAlUeM4JI) | 2:45 | 2024-11-11 | 2025-01-24 |

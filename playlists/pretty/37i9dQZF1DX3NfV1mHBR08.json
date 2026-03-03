@@ -1,6 +1,6 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 49600,
+  "num_followers": 49605,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-02-23 06:11:45",
       "album": {
-        "name": "Running to Future",
-        "url": "https://open.spotify.com/album/26SNqrN1ngsW5AaLpcgkEa"
-      },
-      "artists": [
-        {
-          "name": "ZEROBASEONE",
-          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Running to Future",
-      "url": "https://open.spotify.com/track/6tn8DOizEPVGwqgqdXsYYN"
-    },
-    {
-      "added_at": "2026-02-23 06:11:45",
-      "album": {
         "name": "ALL FOR YOU, 2027",
         "url": "https://open.spotify.com/album/1N9oFEpIgZZoOkZZI0FFFg"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 170206,
       "name": "ALL FOR YOU",
       "url": "https://open.spotify.com/track/7i3A3RHpnqoOBEX9GcP1Ms"
+    },
+    {
+      "added_at": "2026-02-23 06:11:45",
+      "album": {
+        "name": "Running to Future",
+        "url": "https://open.spotify.com/album/26SNqrN1ngsW5AaLpcgkEa"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Running to Future",
+      "url": "https://open.spotify.com/track/6tn8DOizEPVGwqgqdXsYYN"
     },
     {
       "added_at": "2026-02-23 06:11:45",
@@ -283,18 +283,22 @@
     {
       "added_at": "2026-02-23 06:11:45",
       "album": {
-        "name": "WHO WE ARE",
-        "url": "https://open.spotify.com/album/0RBuVlwwEKFRj4wTiDayRz"
+        "name": "Red Moon: To You My Light",
+        "url": "https://open.spotify.com/album/1pqAIHe422sy6zGwJhvcqO"
       },
       "artists": [
         {
-          "name": "AHOF",
-          "url": "https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH"
+          "name": "MAKTUB",
+          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
+        },
+        {
+          "name": "LEE RAON",
+          "url": "https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane"
         }
       ],
-      "duration_ms": 193013,
-      "name": "Cosmic Underdog",
-      "url": "https://open.spotify.com/track/5SQFdiZM3xEwPjRVrZqXpm"
+      "duration_ms": 265586,
+      "name": "To You My Light (feat. LEE RAON)",
+      "url": "https://open.spotify.com/track/5kPpA4aMFeAQnahSnTIOi4"
     },
     {
       "added_at": "2026-02-23 06:11:45",
@@ -315,22 +319,18 @@
     {
       "added_at": "2026-02-23 06:11:45",
       "album": {
-        "name": "Red Moon: To You My Light",
-        "url": "https://open.spotify.com/album/1pqAIHe422sy6zGwJhvcqO"
+        "name": "WHO WE ARE",
+        "url": "https://open.spotify.com/album/0RBuVlwwEKFRj4wTiDayRz"
       },
       "artists": [
         {
-          "name": "MAKTUB",
-          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
-        },
-        {
-          "name": "LEE RAON",
-          "url": "https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane"
+          "name": "AHOF",
+          "url": "https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH"
         }
       ],
-      "duration_ms": 265586,
-      "name": "To You My Light (feat. LEE RAON)",
-      "url": "https://open.spotify.com/track/5kPpA4aMFeAQnahSnTIOi4"
+      "duration_ms": 193013,
+      "name": "Cosmic Underdog",
+      "url": "https://open.spotify.com/track/5SQFdiZM3xEwPjRVrZqXpm"
     },
     {
       "added_at": "2026-02-23 06:11:45",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-02-23 06:11:45",
       "album": {
-        "name": "Like Water - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
-      },
-      "artists": [
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        }
-      ],
-      "duration_ms": 244546,
-      "name": "When This Rain Stops",
-      "url": "https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf"
-    },
-    {
-      "added_at": "2026-02-23 06:11:45",
-      "album": {
         "name": "HOSPITAL PLAYLIST Season2, Pt. 6 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/1cpmFMRuxjqfwNqzsG7UTi"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 216000,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/20BE9EAAuma1el03cT4bH6"
+    },
+    {
+      "added_at": "2026-02-23 06:11:45",
+      "album": {
+        "name": "Like Water - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "duration_ms": 244546,
+      "name": "When This Rain Stops",
+      "url": "https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf"
     },
     {
       "added_at": "2026-02-23 06:11:45",
@@ -523,26 +523,18 @@
     {
       "added_at": "2026-02-23 06:11:45",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Final",
-        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
+        "name": "2nd Mini Album 'Algorithm's Blossom'",
+        "url": "https://open.spotify.com/album/4i0rZXe1lgKDzJ8LkueifT"
       },
       "artists": [
         {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+          "name": "QWER",
+          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
         }
       ],
-      "duration_ms": 236524,
-      "name": "HUG (Feat. Zion.T, Wonstein) (Prod. by Slom)",
-      "url": "https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc"
+      "duration_ms": 271293,
+      "name": "Goodbye My Sadness",
+      "url": "https://open.spotify.com/track/7BoC7eEStVxZSBeLtLSoHv"
     },
     {
       "added_at": "2026-02-23 06:11:45",
@@ -563,18 +555,26 @@
     {
       "added_at": "2026-02-23 06:11:45",
       "album": {
-        "name": "2nd Mini Album 'Algorithm's Blossom'",
-        "url": "https://open.spotify.com/album/4i0rZXe1lgKDzJ8LkueifT"
+        "name": "SHOW ME THE MONEY 11 Final",
+        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
       },
       "artists": [
         {
-          "name": "QWER",
-          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
         }
       ],
-      "duration_ms": 271293,
-      "name": "Goodbye My Sadness",
-      "url": "https://open.spotify.com/track/7BoC7eEStVxZSBeLtLSoHv"
+      "duration_ms": 236524,
+      "name": "HUG (Feat. Zion.T, Wonstein) (Prod. by Slom)",
+      "url": "https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc"
     },
     {
       "added_at": "2026-02-23 06:11:45",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-02-23 06:11:45",
       "album": {
-        "name": "Reply 1988 (Original Television Soundtrack), Pt. 7",
-        "url": "https://open.spotify.com/album/54P1MSGvQt3Hq1UpsijMgA"
-      },
-      "artists": [
-        {
-          "name": "Noel",
-          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
-        }
-      ],
-      "duration_ms": 272144,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/3dQxjLOKLUUpZOwHYYdvyo"
-    },
-    {
-      "added_at": "2026-02-23 06:11:45",
-      "album": {
         "name": "Stars",
         "url": "https://open.spotify.com/album/0Kjrj9VlwLkuAWb1FugHoi"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 260264,
       "name": "Stars",
       "url": "https://open.spotify.com/track/5vMmRDWrRsogNA6xm916nq"
+    },
+    {
+      "added_at": "2026-02-23 06:11:45",
+      "album": {
+        "name": "Reply 1988 (Original Television Soundtrack), Pt. 7",
+        "url": "https://open.spotify.com/album/54P1MSGvQt3Hq1UpsijMgA"
+      },
+      "artists": [
+        {
+          "name": "Noel",
+          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
+        }
+      ],
+      "duration_ms": 272144,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/3dQxjLOKLUUpZOwHYYdvyo"
     },
     {
       "added_at": "2026-02-23 06:11:45",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-02-23 06:11:45",
       "album": {
-        "name": "THINKING Part.1",
-        "url": "https://open.spotify.com/album/0yRTfpYIoHqPmmijU9GZGd"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 237520,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/58DqPqnPOrXEIU7Lj0s5PW"
-    },
-    {
-      "added_at": "2026-02-23 06:11:45",
-      "album": {
         "name": "Still the Same",
         "url": "https://open.spotify.com/album/5nWOkQmzmE5erjdAY6S2Gu"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 148002,
       "name": "Still the Same",
       "url": "https://open.spotify.com/track/6haDjNEwTRlmBlIQ5wxeML"
+    },
+    {
+      "added_at": "2026-02-23 06:11:45",
+      "album": {
+        "name": "THINKING Part.1",
+        "url": "https://open.spotify.com/album/0yRTfpYIoHqPmmijU9GZGd"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "duration_ms": 237520,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/58DqPqnPOrXEIU7Lj0s5PW"
     },
     {
       "added_at": "2026-02-23 06:11:45",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-02-23 06:11:45",
       "album": {
-        "name": "GOOD BOY (Original Television Soundtrack), Pt. 7",
-        "url": "https://open.spotify.com/album/1EZbKSF8GxSnqNVtsYdRjm"
-      },
-      "artists": [
-        {
-          "name": "PARK BO GUM",
-          "url": "https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/4HQ8ZB2ZKBhdhTZPzgqRJU"
-    },
-    {
-      "added_at": "2026-02-23 06:11:45",
-      "album": {
         "name": "Resident Playbook, Pt. 5 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1JToGfIzudNvACOhEzDk6P"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 232670,
       "name": "Breath",
       "url": "https://open.spotify.com/track/5r3nfTCyrc3KzNexD5pXyU"
+    },
+    {
+      "added_at": "2026-02-23 06:11:45",
+      "album": {
+        "name": "GOOD BOY (Original Television Soundtrack), Pt. 7",
+        "url": "https://open.spotify.com/album/1EZbKSF8GxSnqNVtsYdRjm"
+      },
+      "artists": [
+        {
+          "name": "PARK BO GUM",
+          "url": "https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/4HQ8ZB2ZKBhdhTZPzgqRJU"
     },
     {
       "added_at": "2026-02-23 06:11:45",
@@ -823,18 +823,18 @@
     {
       "added_at": "2026-02-23 06:11:45",
       "album": {
-        "name": "Life is a Drama Prelude3",
-        "url": "https://open.spotify.com/album/65DEU4VXqQaDO7qeuOAV6D"
+        "name": "Being an Adult",
+        "url": "https://open.spotify.com/album/73GAMGtPKswNL17lAv92jH"
       },
       "artists": [
         {
-          "name": "Lim Jae Beum",
-          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
         }
       ],
-      "duration_ms": 218861,
-      "name": "Life is a Drama",
-      "url": "https://open.spotify.com/track/3doz1ZA13QjszPBEgze1pn"
+      "duration_ms": 225257,
+      "name": "Being an Adult",
+      "url": "https://open.spotify.com/track/0OatopllsqPHbb7RQiJ1No"
     }
   ],
   "unique_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",

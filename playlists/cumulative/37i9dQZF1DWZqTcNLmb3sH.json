@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Check out the latest hits from Sandalwood!\nCover : Rakkasapuradhol",
+  "description": "Check out the latest hits from Sandalwood!\nCover : Toxic",
   "name": "Latest Kannada",
   "tracks": [
     {
@@ -1230,7 +1230,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 201511,
       "name": "AFRO TAPANG (From \"45\") [Kannada Version]",
       "url": "https://open.spotify.com/track/4xfruRvqPbTR1LM0kBwiBN"
@@ -5800,6 +5800,32 @@
       "duration_ms": 252583,
       "name": "Bekitta Bekitta - From \"Raju James Bond\"",
       "url": "https://open.spotify.com/track/0ZDWGu4skxJ2RGAgg4BTeC"
+    },
+    {
+      "album": {
+        "name": "Beladingalu (From \"Love Mocktail 3\")",
+        "url": "https://open.spotify.com/album/5Xmt6bD8e6Stv21ewEJbh5"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        },
+        {
+          "name": "Raghavendra Kamath",
+          "url": "https://open.spotify.com/artist/046r8qn0wLcpx2NkFoXnH9"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269011,
+      "name": "Beladingalu (From \"Love Mocktail 3\")",
+      "url": "https://open.spotify.com/track/5LvQNx8Y8DZJQvTkPkZQpV"
     },
     {
       "album": {
@@ -11547,6 +11573,36 @@
     },
     {
       "album": {
+        "name": "Enayya Saami (Special Surprise) [From \"Ranabaali\"]",
+        "url": "https://open.spotify.com/album/4gfEWovOF7Si8WDCBtnpSS"
+      },
+      "artists": [
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79146,
+      "name": "Enayya Saami (Special Surprise) [From \"Ranabaali\"]",
+      "url": "https://open.spotify.com/track/112WN5qH3DjSgJflDj029X"
+    },
+    {
+      "album": {
         "name": "Endo Bareda (From \"Garuda Gamana Vrishabha Vahana\")",
         "url": "https://open.spotify.com/album/5o3lWJhOoOFz967V5yhKJe"
       },
@@ -13020,7 +13076,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 222254,
       "name": "Gangadhara Shankara (Kannada)",
       "url": "https://open.spotify.com/track/5DVuhQPwY3P7tQTwQpH0yS"
@@ -24170,6 +24226,32 @@
       "duration_ms": 169842,
       "name": "Madanaari (From \"Vidyapati\")",
       "url": "https://open.spotify.com/track/1SmIg8p0L9SOkJnjGjsgmK"
+    },
+    {
+      "album": {
+        "name": "Maddillada Ee Khayile (From \"Cult\")",
+        "url": "https://open.spotify.com/album/5mzXChlVtxUx5YNpmOFJrP"
+      },
+      "artists": [
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Anilkumar T M",
+          "url": "https://open.spotify.com/artist/4jkXKqxpj1Wfsf0rggCIM4"
+        },
+        {
+          "name": "Nishan Rai",
+          "url": "https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183428,
+      "name": "Maddillada Ee Khayile (From \"Cult\")",
+      "url": "https://open.spotify.com/track/0HxtR8u5pO2SoHYu3HJi2Y"
     },
     {
       "album": {
@@ -37072,7 +37154,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 252085,
       "name": "Raje Yuvaraje",
       "url": "https://open.spotify.com/track/44grsdutkEA6eyyCcFz2gC"
@@ -37102,7 +37184,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 252085,
       "name": "Raje Yuvaraje (From \"The Rajasaab\") [Kannada]",
       "url": "https://open.spotify.com/track/3Fi5p3bOElbqBYIzYo9x76"
@@ -39927,6 +40009,32 @@
     },
     {
       "album": {
+        "name": "Sheddige Hogona Baa (From \"Majestic 2\")",
+        "url": "https://open.spotify.com/album/4AgVHHcUah3cIiwQNYLBIE"
+      },
+      "artists": [
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        },
+        {
+          "name": "Vinu Manasu",
+          "url": "https://open.spotify.com/artist/1ZibIIoDWcMC9UkJ4dHCfL"
+        },
+        {
+          "name": "Rudreesh.A",
+          "url": "https://open.spotify.com/artist/4RSESqCqKEjVbhVdODAK1N"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238927,
+      "name": "Sheddige Hogona Baa (From \"Majestic 2\")",
+      "url": "https://open.spotify.com/track/1oYCB3VCMuIdELnmHp7mbl"
+    },
+    {
+      "album": {
         "name": "Shiva Gangadhara (From\"Apple Cut\")",
         "url": "https://open.spotify.com/album/4xoHuOAHajdeaeaKpqQbgi"
       },
@@ -42089,6 +42197,28 @@
     },
     {
       "album": {
+        "name": "Tabaahi (From \"Toxic - Kannada\")",
+        "url": "https://open.spotify.com/album/7eGwoEFYq2o7BHhxQKsJ0h"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Yogaraj Bhat",
+          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257604,
+      "name": "Tabaahi - From \"Toxic - Kannada\"",
+      "url": "https://open.spotify.com/track/4gzQdQ2frmP1dWugnOHJKb"
+    },
+    {
+      "album": {
         "name": "Tadibeda Tadibeda (From \"Jigar\")",
         "url": "https://open.spotify.com/album/27dEmar1QdnB60IXW3qS3C"
       },
@@ -42444,7 +42574,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 213490,
       "name": "Thaaye Thaaye - From \"Peter - Kannada\"",
       "url": "https://open.spotify.com/track/6WsiLbgcDxE58J2WWlT7xe"

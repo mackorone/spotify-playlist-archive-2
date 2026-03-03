@@ -9471,6 +9471,28 @@
     },
     {
       "album": {
+        "name": "NU",
+        "url": "https://open.spotify.com/album/7eUepdWZLeKfvudVFmLmDY"
+      },
+      "artists": [
+        {
+          "name": "Raff\u00e9",
+          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
+        },
+        {
+          "name": "Dennix",
+          "url": "https://open.spotify.com/artist/2956ruMVOp7gOncwSU9cC4"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131764,
+      "name": "NU",
+      "url": "https://open.spotify.com/track/6IiZ9VESqTIkOIND0WMk0h"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Nasceu pra Namorar",
         "url": "https://open.spotify.com/album/17id6KvXhh7BXEKPfetHTQ"
       },
@@ -12676,7 +12698,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 212400,
       "name": "Sem Press\u00e3o",
       "url": "https://open.spotify.com/track/3kljvt39F20M9GWxS32jSy"

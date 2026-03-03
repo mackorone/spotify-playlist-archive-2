@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: Lil Kleine
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,386 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,394 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fysio](https://open.spotify.com/track/5kSdTWUvY0Pqx2svJ6Q3ss) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [F\*CK KLEINE](https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7) | 1:58 |
 | 2 | [OKE](https://open.spotify.com/track/0blCMImJHiB3rKxitkLeEP) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [OKE](https://open.spotify.com/album/4hetmZqSFCsYS4QKYh4jf9) | 2:35 |
 | 3 | [Shoulder Lean](https://open.spotify.com/track/3FMy6QQ9L7DIKRwXeXvzpP) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm), [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p), [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ) | [Shoulder Lean](https://open.spotify.com/album/2LUOPrx3vuEzFGMqZeR0Hl) | 2:34 |
-| 4 | [Lekker voor je](https://open.spotify.com/track/4ElhIoBu7sQuLvvP7fhAzq) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Lekker voor je](https://open.spotify.com/album/2WSf26RUwoJuVXk8xkUxXj) | 1:31 |
-| 5 | [Toedels!](https://open.spotify.com/track/6AmhyeFjiw2s8313ruZuIg) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3) | [Toedels!](https://open.spotify.com/album/7bDArl46fkgXYxKqxSrKqf) | 2:52 |
+| 4 | [Toedels!](https://open.spotify.com/track/6AmhyeFjiw2s8313ruZuIg) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3) | [Toedels!](https://open.spotify.com/album/7bDArl46fkgXYxKqxSrKqf) | 2:52 |
+| 5 | [Lekker voor je](https://open.spotify.com/track/4ElhIoBu7sQuLvvP7fhAzq) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Lekker voor je](https://open.spotify.com/album/2WSf26RUwoJuVXk8xkUxXj) | 1:31 |
 | 6 | [Broke](https://open.spotify.com/track/0FgZJIyEzNEJdeeHbRDIe4) | [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs) | [Broke](https://open.spotify.com/album/6aXLk4I0vYBcGjAp11Clfj) | 1:47 |
 | 7 | [No Handouts](https://open.spotify.com/track/2F2LGTyc3kiP7a1wfJUd1J) | [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El) | [No Handouts](https://open.spotify.com/album/4vMtK9zOVRcop68ypi29jK) | 3:36 |
 | 8 | [Patser](https://open.spotify.com/track/0zTKvfSa0CLzav90AfZvQa) | [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Patser](https://open.spotify.com/album/2VYzkX2SSNBS6ZL8lYdYA6) | 2:24 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [Alcantara](https://open.spotify.com/track/6PBgiQ0JVfHBBidyIBQHMe) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [Alcantara](https://open.spotify.com/album/4w79VeLMd0PpNWE4Q66zfR) | 3:47 |
 | 60 | [Was Machst Du](https://open.spotify.com/track/3fJOhEiy7FNUpxUrHMtFmE) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [Was Machst Du](https://open.spotify.com/album/2O6ObeXY5q7me8jpCQjhu3) | 3:10 |
 
-Snapshot ID: `AAAAADjUTnqdLpRYU5a+ZKaJCaNKanNW`
+Snapshot ID: `AAAAADUr8M32qjAoIsWDWXI2BvDHihLN`

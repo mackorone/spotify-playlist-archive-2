@@ -2094,7 +2094,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 158778,
       "name": "Be Somewhere",
       "url": "https://open.spotify.com/track/7IddP0tIBe0Hh9oCYdtuyX"
@@ -4506,6 +4506,32 @@
       "duration_ms": 154125,
       "name": "Cherry Gold Sunset",
       "url": "https://open.spotify.com/track/54R0urLnxf4XZhPlAkWV7r"
+    },
+    {
+      "album": {
+        "name": "Purple Skies",
+        "url": "https://open.spotify.com/album/0ZgBg4nXwuVaZdBLKh4fiy"
+      },
+      "artists": [
+        {
+          "name": "HMWL",
+          "url": "https://open.spotify.com/artist/6CVwhNoDmLG9vhfCAJSzmV"
+        },
+        {
+          "name": "Constantin Nasiri",
+          "url": "https://open.spotify.com/artist/5lklR4Zca10fu4HSAC1u9M"
+        },
+        {
+          "name": "Miltiades Pistof",
+          "url": "https://open.spotify.com/artist/7f5rUGKWbTzuwgrh53qGEX"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Children",
+      "url": "https://open.spotify.com/track/0Gjm1iRWAsNbeHr7R4wESx"
     },
     {
       "album": {
@@ -7196,7 +7222,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 124616,
       "name": "Drown In Your Love",
       "url": "https://open.spotify.com/track/4bY2GvE2w4L4R283b3JbwT"
@@ -8458,6 +8484,24 @@
     {
       "album": {
         "name": "Favorites",
+        "url": "https://open.spotify.com/album/5L9Fyf5nyvO2CxwfjwWDml"
+      },
+      "artists": [
+        {
+          "name": "SITHEA",
+          "url": "https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120666,
+      "name": "Favorites",
+      "url": "https://open.spotify.com/track/1N0qufU5cPVrdkxqF7sM8r"
+    },
+    {
+      "album": {
+        "name": "Favorites",
         "url": "https://open.spotify.com/album/2JZnI7uhBUutURbguB82un"
       },
       "artists": [
@@ -8660,7 +8704,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-15",
+      "date_removed": null,
       "duration_ms": 142105,
       "name": "Feel It Coming",
       "url": "https://open.spotify.com/track/21IoGPoLq9kDAa613Obl7T"
@@ -10520,6 +10564,28 @@
       "duration_ms": 184000,
       "name": "Habits (Stay High)",
       "url": "https://open.spotify.com/track/06pqBQTjITx3HYExoOYe3T"
+    },
+    {
+      "album": {
+        "name": "Hale",
+        "url": "https://open.spotify.com/album/0A3JOH3fWzBOW2KkyrVuhm"
+      },
+      "artists": [
+        {
+          "name": "Dan Bay",
+          "url": "https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256062,
+      "name": "Hale",
+      "url": "https://open.spotify.com/track/3yVoAjkOeZpmGByKjWC9Ye"
     },
     {
       "album": {
@@ -12532,7 +12598,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-14",
+      "date_removed": null,
       "duration_ms": 171262,
       "name": "I like me better",
       "url": "https://open.spotify.com/track/7A9ZQjsSb4GkdwepqnTFgZ"
@@ -17576,7 +17642,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-15",
+      "date_removed": null,
       "duration_ms": 117000,
       "name": "Morning Glow",
       "url": "https://open.spotify.com/track/2UwCnds4eri2ueMXeRjJjH"
@@ -22978,7 +23044,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 170625,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/0cZntDSgZDioc5Bb9mtsun"
@@ -26842,7 +26908,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-15",
+      "date_removed": null,
       "duration_ms": 118987,
       "name": "Too Far",
       "url": "https://open.spotify.com/track/0YcWHKlu5Oww4XVqmXRqBl"
@@ -27508,7 +27574,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-15",
+      "date_removed": null,
       "duration_ms": 157201,
       "name": "Waiting For A Better Day",
       "url": "https://open.spotify.com/track/7FYeUV7zqjm7nFNC32g6BY"
@@ -28236,7 +28302,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 112365,
       "name": "We'll Never Get Old",
       "url": "https://open.spotify.com/track/3UX9B5zX6wx7L9nH1PxT9a"
@@ -28334,7 +28400,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-14",
+      "date_removed": null,
       "duration_ms": 183333,
       "name": "What Is Love",
       "url": "https://open.spotify.com/track/4v23Rc1zkB0272ZZHdVnbE"
@@ -29184,7 +29250,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-15",
+      "date_removed": null,
       "duration_ms": 133000,
       "name": "Wish You All the Best",
       "url": "https://open.spotify.com/track/4TII4nhhzE28nrQRGI77QX"
@@ -29613,6 +29679,28 @@
     },
     {
       "album": {
+        "name": "You Know",
+        "url": "https://open.spotify.com/album/1zg1aIcV6SqrZNThRnk2na"
+      },
+      "artists": [
+        {
+          "name": "Benji",
+          "url": "https://open.spotify.com/artist/4VmGrnGFwIKUkAGfKfeVOo"
+        },
+        {
+          "name": "Julio Ade",
+          "url": "https://open.spotify.com/artist/0aBK6w9ueJgetANKMYQvrd"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217821,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/0zJjtqdutbJBGWFkl03wmQ"
+    },
+    {
+      "album": {
         "name": "You Say",
         "url": "https://open.spotify.com/album/77neC6Npqb6nUsN5MapOzU"
       },
@@ -29690,7 +29778,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-15",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "You'll Be Okay",
       "url": "https://open.spotify.com/track/4tozrFHPJO9xVHvmPWocai"

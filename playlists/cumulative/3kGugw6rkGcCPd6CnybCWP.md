@@ -4,10 +4,11 @@
 
 > Celebrating individuality within independent music
 
-199 songs - 11 hr 27 min
+204 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [2PM BUS TO THE OCEAN](https://open.spotify.com/track/2VjpDHoH1YvLw0p5EkSlSk) | [SANCHEZ BY THE SEA\*](https://open.spotify.com/artist/5bSnJtfoIBMee5zGgUcMwO) | [2PM BUS TO THE OCEAN](https://open.spotify.com/album/1BTN7J2BlxpLvux8oP6DrB) | 2:35 | 2026-03-02 |  |
 | [A 1917 Story](https://open.spotify.com/track/2zWA7lJ1D6XHbUwMCioIuB) | [YAK](https://open.spotify.com/artist/2cfnqx5PqimmwBtZBB3BwR) | [Paranormally](https://open.spotify.com/album/61NrQ5EfvtV6tSh8GnD9vM) | 2:42 | 2026-02-09 |  |
 | [A different face](https://open.spotify.com/track/2Rg295NxrG2fN2HQcvAfib) | [Eternalize](https://open.spotify.com/artist/0gxYWBKorYdHOkDcnMLDsf) | [The way home](https://open.spotify.com/album/4xO88KLM8NjEHYpQhXbJgV) | 4:12 | 2026-02-28 |  |
 | [A Little More](https://open.spotify.com/track/39mJ62IPCsaG7X7GvH707H) | [Ella Kenz](https://open.spotify.com/artist/5k0qIptpKEMpMlGx2wbE8e) | [A Little More](https://open.spotify.com/album/3aVIlpVQ7ZCyRqcI5JrCq5) | 3:16 | 2026-02-19 |  |
@@ -40,6 +41,7 @@
 | [Dans](https://open.spotify.com/track/7zfgUPY8U2FnV89Rd0RcD8) | [Dapper Muis](https://open.spotify.com/artist/5d9WSo5aDwgEV0oUZZsQET) | [Dans](https://open.spotify.com/album/1Z1FIW60skgmaiPtKn9N5b) | 3:56 | 2025-12-20 | 2026-02-07 |
 | [Days, Years & Months](https://open.spotify.com/track/45nZXh0QNDfot6DifudLZe) | [Elandra](https://open.spotify.com/artist/7v6meC75PAbtwyenxZnZaK) | [Days, Years & Months](https://open.spotify.com/album/1U63ykUIU3haPpDKQtNvZB) | 5:19 | 2025-10-27 | 2025-12-02 |
 | [Dead in a Ditch \(Reloaded\)](https://open.spotify.com/track/3wjMvlboeH5EQofd0XNfWL) | [Tiny Banshee](https://open.spotify.com/artist/4TjpNiCPSovZ6SSIYrQeoN) | [Small\. Loud\. and Haunted.](https://open.spotify.com/album/5NTWQ6aTCeWkG7OzNiU2gb) | 2:23 | 2025-11-01 | 2026-01-17 |
+| [Deep in the Misery](https://open.spotify.com/track/3ewW2BuO8DxWLZfxiFQvdx) | [Indigo](https://open.spotify.com/artist/2T0y5xRUmcjFn8oXD3iRsu) | [Deep in the Misery](https://open.spotify.com/album/2jgh1drEJVXCTD5lDxszxn) | 3:32 | 2026-03-02 |  |
 | [Delighted](https://open.spotify.com/track/5tjcDtOijDGnJuny9xT1Du) | [sharpened knives](https://open.spotify.com/artist/4CNxLphbFJg9tc9QXH7y2V) | [Wishes You'd Never Said](https://open.spotify.com/album/61hjvBA69NNQWdsgyZ96Z8) | 2:00 | 2026-01-11 | 2026-02-20 |
 | [Demons Move In Shadows](https://open.spotify.com/track/4zqdjaBlB7Ob2bo1MiAPXu) | [Numsig](https://open.spotify.com/artist/1Ws1YsRvDtL3gqKgrbY0Ju) | [Demons Move In Shadows](https://open.spotify.com/album/4E41VvlBG39lwOv13sCdPw) | 3:01 | 2025-10-24 | 2025-12-02 |
 | [Didn't I](https://open.spotify.com/track/1OVpfBlGkdJfP8gnsjk5Vz) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Didn't I](https://open.spotify.com/album/3Mkk2I7FdtnPRIczgmA1wF) | 3:36 | 2026-02-16 |  |
@@ -172,10 +174,12 @@
 | [The Immortal Man](https://open.spotify.com/track/5ph8vrJG60fZ5s4kp4SlrQ) | [Euan Merchill](https://open.spotify.com/artist/2IgZ6614NLgSh7SUv55fDz) | [The Immortal Man](https://open.spotify.com/album/10MDJ4CXiHCfZxX5O7ROEE) | 1:27 | 2025-11-15 | 2026-01-17 |
 | [The Party](https://open.spotify.com/track/3MDPDsTbteMtMytdsvMLBB) | [The Great Leslie](https://open.spotify.com/artist/4nLnyYZc70ZItmWTW0oo9W) | [The Party](https://open.spotify.com/album/5zd3NUklLnUdqPgU54YlL2) | 3:04 | 2026-02-19 |  |
 | [The queen and the tearaway](https://open.spotify.com/track/6RzjgO7QhYIYbNZGVE4LQI) | [good afternoon](https://open.spotify.com/artist/51AUWbI67m6qAMG9NCZDJ2) | [The queen and the tearaway](https://open.spotify.com/album/1BKkGNtx5n0Rvmvyv25hXp) | 3:27 | 2025-11-02 | 2026-01-17 |
+| [The rain](https://open.spotify.com/track/0aQjPawnFa3hynnDmGJKhv) | [fown](https://open.spotify.com/artist/4BNwLwHxGLvefZnkS5AHiK), [whitefool](https://open.spotify.com/artist/4jjQtcHXjNjWop8MMKnP4Y) | [The rain](https://open.spotify.com/album/5wZD7DvWapqfX14BW6k6SU) | 4:25 | 2026-03-02 |  |
 | [The Vampire](https://open.spotify.com/track/5IgY9NY1WdWAvcwc5mD9d0) | [Ivan Page](https://open.spotify.com/artist/1sJKCsYrIeZROEAMXCpdYh) | [The Vampire](https://open.spotify.com/album/5HxF0UmQ9JXGGVTENcPSxN) | 2:47 | 2026-01-15 | 2026-02-20 |
 | [The Way It Makes Me Feel](https://open.spotify.com/track/3oBUdNLtPspoHjr4mMlQkk) | [Penelope](https://open.spotify.com/artist/10TjnjAFoOorE5NJoomfoN) | [The Way It Makes Me Feel](https://open.spotify.com/album/6LxSvGxZ6Csn5ijB3QtVcZ) | 3:33 | 2026-02-01 |  |
 | [The Whistleblower](https://open.spotify.com/track/3tjz79WyUdxsnt3RvGsbdh) | [Philip Morgan Lewis](https://open.spotify.com/artist/6dttJ9KPpPk9qoo8mEWkR5) | [Under The East End Sky](https://open.spotify.com/album/7a3Bw6t0OBpaH6NNya0wnD) | 3:37 | 2025-10-29 | 2026-01-17 |
 | [These Days](https://open.spotify.com/track/2px3o5x9yKjcOH0jggvuTh) | [Talking Horses](https://open.spotify.com/artist/1IY7UHFAiPbjwHxM2lzB06) | [These Days](https://open.spotify.com/album/0YGva80Km2kPxFko2KglWD) | 4:25 | 2026-01-20 |  |
+| [They Hate The Truth](https://open.spotify.com/track/1Wdd4MQsHfyBogg1svGMxx) | [Sasha Jay](https://open.spotify.com/artist/2xHt1AlMaSlmLTonFh0vM1) | [They Hate The Truth](https://open.spotify.com/album/2EOyP6CPUmleEFOpLgjBD1) | 1:58 | 2026-03-02 |  |
 | [Time Machine](https://open.spotify.com/track/6MYZWeZrIpeeJZHjc2fRCJ) | [MYLO BYBEE](https://open.spotify.com/artist/6NWYao9Kq1OZi1mki3yhwS) | [Time Machine](https://open.spotify.com/album/1hJzdSv338nXvopDvcgj3q) | 3:44 | 2025-11-24 | 2026-01-17 |
 | [Today's Quest](https://open.spotify.com/track/4skAncx0uLGrpKv97qS7If) | [The Kiffs](https://open.spotify.com/artist/3xZRG3IdVeo6jeVNitBYeX) | [Today's Quest](https://open.spotify.com/album/6HXzJjybyM7YvKNgTLWBwB) | 3:09 | 2025-11-15 | 2026-01-17 |
 | [Toujours Avec Toi](https://open.spotify.com/track/6KCbj9D831CMCWVXSA0I5O) | [MOON EATER](https://open.spotify.com/artist/6ba0LW5CuxxNNn3Il6MkgB) | [Toujours Avec Toi](https://open.spotify.com/album/4CfUDeION0lbXMiIIWjopW) | 1:41 | 2026-02-02 |  |
@@ -204,6 +208,7 @@
 | [Wonderful Paradox](https://open.spotify.com/track/7LfF485Urzmt6zMcqNOVYu) | [Mad'J](https://open.spotify.com/artist/5trtjhxKBebFy3DnvgY1vy) | [Wonderful Paradox](https://open.spotify.com/album/39DtRuSIrgtoSb9TpkOOlC) | 3:44 | 2025-10-30 | 2026-01-17 |
 | [Would Be Better](https://open.spotify.com/track/4caeJi0QJyfrgCwcfS5XZU) | [Luan Luan](https://open.spotify.com/artist/1TRI5G2cp3GkZ2itd8IIMG) | [Would Be Better](https://open.spotify.com/album/7wHaSk8Rc42ZLzHCTKJbZH) | 3:54 | 2026-02-28 |  |
 | [Yellow](https://open.spotify.com/track/6qwbAsMNRLZdvzx9bGzpWZ) | [Luan Luan](https://open.spotify.com/artist/1TRI5G2cp3GkZ2itd8IIMG) | [Yellow](https://open.spotify.com/album/5Klb8K3CFOPAJgfPAupUKV) | 4:19 | 2025-11-04 | 2026-01-17 |
+| [Yellow](https://open.spotify.com/track/7oIGfvvszUPBy3RbcybSsy) | [The Funky Ducklings](https://open.spotify.com/artist/74wI7y9osStJVIegvAq1IQ) | [Album.1](https://open.spotify.com/album/3qQaVYuxi4JzyokTTFqyBg) | 4:35 | 2026-03-02 |  |
 | [Yes I Hope](https://open.spotify.com/track/4nYjSNumkVBOWJl7xbImKq) | [Roots Habits](https://open.spotify.com/artist/6jCRadZaIZtiXstamJAyJX) | [Yes I Hope](https://open.spotify.com/album/6vGfjWBItGXGUcbGpOAuft) | 3:39 | 2025-10-24 | 2025-12-02 |
 | [You & Me](https://open.spotify.com/track/2hfm5hiifBPWSueyh2WqdW) | [Lipstick](https://open.spotify.com/artist/7uFXs2KLMId1XYKLSbQlzv) | [You & Me](https://open.spotify.com/album/5Z2u2i6gk0Dry8QjI1GmrD) | 3:26 | 2025-11-18 | 2026-01-17 |
 | [Étoile filante](https://open.spotify.com/track/26hNIEGpPFju35mGC9dnE7) | [Naghmeh](https://open.spotify.com/artist/3e5qBCtQ2njfzuO3bOTz0a) | [Étoile filante](https://open.spotify.com/album/4x8IeORcUdpLZBMFwfX7aH) | 5:27 | 2026-01-09 | 2026-02-20 |

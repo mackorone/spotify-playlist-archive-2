@@ -1,6 +1,6 @@
 {
   "description": "Rock y rumba para esos d\u00edas de sol, sangr\u00eda y amigxs.",
-  "num_followers": 112859,
+  "num_followers": 112870,
   "original_name": "Veranito a la Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
+        "name": "Furia Latina",
+        "url": "https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe"
+      },
+      "artists": [
+        {
+          "name": "Seguridad Social",
+          "url": "https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "Quiero tener tu presencia",
+      "url": "https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
         "name": "Esta Ma\u00f1ana Y Otros Cuentos",
         "url": "https://open.spotify.com/album/7elo2R4JcIfWyQkFz40F5M"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 225680,
       "name": "Nada Fue Un Error - Live In Spain / 2005",
       "url": "https://open.spotify.com/track/4DtFbe2JQrH3dDQVcOkVp6"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "Furia Latina",
-        "url": "https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe"
-      },
-      "artists": [
-        {
-          "name": "Seguridad Social",
-          "url": "https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "Quiero tener tu presencia",
-      "url": "https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Par\u00eds",
-        "url": "https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 238533,
-      "name": "Puedes Contar Conmigo",
-      "url": "https://open.spotify.com/track/3xQbgIqO1tmJMAz91CRiCK"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Al calor del amor en un bar",
         "url": "https://open.spotify.com/album/6trh5fT753w9Si8rdigFGm"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 170680,
       "name": "El calor del amor en un bar",
       "url": "https://open.spotify.com/track/0AFJOoRQFlo10Vm1p6BRjg"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Par\u00eds",
+        "url": "https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 238533,
+      "name": "Puedes Contar Conmigo",
+      "url": "https://open.spotify.com/track/3xQbgIqO1tmJMAz91CRiCK"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "El Peor Grupo del Mundo",
-        "url": "https://open.spotify.com/album/2JQ398pv4WeQPslHlFzrtP"
-      },
-      "artists": [
-        {
-          "name": "Sidonie",
-          "url": "https://open.spotify.com/artist/2pMVWkucVS130nJx59uAEa"
-        }
-      ],
-      "duration_ms": 266623,
-      "name": "Carreteras Infinitas",
-      "url": "https://open.spotify.com/track/2Q6qD1YTFn7NHuy2WmMGPG"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Chambao Caminando",
         "url": "https://open.spotify.com/album/2aKJ1XjOutOWXUNp6UrSJ5"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 207333,
       "name": "Pokito a Poko",
       "url": "https://open.spotify.com/track/7LrM28pPWCpJYmbnaxHBmu"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "El Peor Grupo del Mundo",
+        "url": "https://open.spotify.com/album/2JQ398pv4WeQPslHlFzrtP"
+      },
+      "artists": [
+        {
+          "name": "Sidonie",
+          "url": "https://open.spotify.com/artist/2pMVWkucVS130nJx59uAEa"
+        }
+      ],
+      "duration_ms": 266623,
+      "name": "Carreteras Infinitas",
+      "url": "https://open.spotify.com/track/2Q6qD1YTFn7NHuy2WmMGPG"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Las 100 mejores canciones del Pop Espa\u00f1ol, Vol. 3",
-        "url": "https://open.spotify.com/album/1gf951espzPzb9yxLsxP7T"
-      },
-      "artists": [
-        {
-          "name": "El \u00daltimo De La Fila",
-          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
-        }
-      ],
-      "duration_ms": 217093,
-      "name": "Como un burro amarrado en la puerta del baile",
-      "url": "https://open.spotify.com/track/6IMIx38wIqHoLTdGcBwyEC"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Cosas Mias",
         "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 224506,
       "name": "Alba",
       "url": "https://open.spotify.com/track/6uojMoKuVkIVEeqH4JCBAr"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Las 100 mejores canciones del Pop Espa\u00f1ol, Vol. 3",
+        "url": "https://open.spotify.com/album/1gf951espzPzb9yxLsxP7T"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo De La Fila",
+          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
+        }
+      ],
+      "duration_ms": 217093,
+      "name": "Como un burro amarrado en la puerta del baile",
+      "url": "https://open.spotify.com/track/6IMIx38wIqHoLTdGcBwyEC"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Muchas Flores",
-        "url": "https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg"
-      },
-      "artists": [
-        {
-          "name": "Rosario",
-          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "Al Son Del Tambor",
-      "url": "https://open.spotify.com/track/6KpEeLn57CE8rw3yg8HtdQ"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Noche En Vela",
         "url": "https://open.spotify.com/album/0okEU4q3SOHt7DBLEht0EB"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 226640,
       "name": "Noche En Vela",
       "url": "https://open.spotify.com/track/3PvcPcIj8lh53Zb0FwstTm"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Muchas Flores",
+        "url": "https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg"
+      },
+      "artists": [
+        {
+          "name": "Rosario",
+          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "Al Son Del Tambor",
+      "url": "https://open.spotify.com/track/6KpEeLn57CE8rw3yg8HtdQ"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Esencial Rosario",
-        "url": "https://open.spotify.com/album/3jkmHCl1q6GWJUfhqF4URo"
-      },
-      "artists": [
-        {
-          "name": "Rosario",
-          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
-        }
-      ],
-      "duration_ms": 202706,
-      "name": "Mi Gato",
-      "url": "https://open.spotify.com/track/5Hu3Y13dE9rEZire0tlAMW"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Puro Veneno",
         "url": "https://open.spotify.com/album/65S9zOtZi43kFdHB8y91vY"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 230106,
       "name": "Joselito",
       "url": "https://open.spotify.com/track/72Fm5e7KPBEQwCeIcSU33g"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Esencial Rosario",
+        "url": "https://open.spotify.com/album/3jkmHCl1q6GWJUfhqF4URo"
+      },
+      "artists": [
+        {
+          "name": "Rosario",
+          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
+        }
+      ],
+      "duration_ms": 202706,
+      "name": "Mi Gato",
+      "url": "https://open.spotify.com/track/5Hu3Y13dE9rEZire0tlAMW"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "4 Canciones",
-        "url": "https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8"
+        "name": "La Flaca",
+        "url": "https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m"
       },
       "artists": [
         {
-          "name": "Los Ronaldos",
-          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
         }
       ],
-      "duration_ms": 254840,
-      "name": "No Puedo Vivir Sin Ti",
-      "url": "https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3"
+      "duration_ms": 212226,
+      "name": "Grita",
+      "url": "https://open.spotify.com/track/3zz4oi4aiOUV6lcQfKP5pU"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "La Flaca",
-        "url": "https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m"
+        "name": "4 Canciones",
+        "url": "https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8"
       },
       "artists": [
         {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+          "name": "Los Ronaldos",
+          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
         }
       ],
-      "duration_ms": 212226,
-      "name": "Grita",
-      "url": "https://open.spotify.com/track/3zz4oi4aiOUV6lcQfKP5pU"
+      "duration_ms": 254840,
+      "name": "No Puedo Vivir Sin Ti",
+      "url": "https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3"
     },
     {
       "added_at": "2022-01-25 22:47:02",

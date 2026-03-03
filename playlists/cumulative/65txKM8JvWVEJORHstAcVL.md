@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/65txKM8JvWVEJORHstAcVL.md) - cumulative - [plain](/playlists/plain/65txKM8JvWVEJORHstAcVL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/65txKM8JvWVEJORHstAcVL)
 
-### [LA LLISTA DE FLAIXBAC \(22/02/2026\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
+### [LA LLISTA DE FLAIXBAC \(01/03/2026\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
 
 > La Llista amb els 45 èxits de Flaixbac\. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras\. Vota el pròxim número 1 de La Llista a la nostra web: https:&\#x2F;&\#x2F;flaixbac.cat&\#x2F;la\-llista
 
-238 songs - 11 hr 57 min
+239 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-09-15 | 2025-08-12 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-10-29 | 2024-06-10 |
 | [Grup de Pop](https://open.spotify.com/track/22GaUTgtNuKfMQ34jaL7yk) | [Sexenni](https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR), [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT) | [Grup de Pop](https://open.spotify.com/album/7cozVZjZdH5MZFwlOWcLVn) | 2:22 | 2024-03-10 | 2024-07-22 |
-| [GRÀCIES PER TANT](https://open.spotify.com/track/50UjwcHTdhxXHg14P6uJ3t) | [La Fúmiga](https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz) | [GRÀCIES PER TANT](https://open.spotify.com/album/5bXotdtWNMzt4xL5CsOaJn) | 3:01 | 2025-12-18 |  |
+| [GRÀCIES](https://open.spotify.com/track/0pEOVHVyre2UtuQFDza4JY) | [Buhos](https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR) | [GRÀCIES](https://open.spotify.com/album/12pRJR1iID5vHVyP7eY4ve) | 3:28 | 2026-03-02 |  |
+| [GRÀCIES PER TANT](https://open.spotify.com/track/50UjwcHTdhxXHg14P6uJ3t) | [La Fúmiga](https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz) | [GRÀCIES PER TANT](https://open.spotify.com/album/5bXotdtWNMzt4xL5CsOaJn) | 3:01 | 2025-12-18 | 2026-03-03 |
 | [Guapíssima](https://open.spotify.com/track/6yXfa5OsSJc1Tp0drOmEKE) | [Banda Neon](https://open.spotify.com/artist/238KXKJTOYGAkQLQslSyYU) | [Guapíssima](https://open.spotify.com/album/3u0gveddvcgOqAucrloaGz) | 2:07 | 2025-10-07 |  |
 | [Ha valgut la pena \- amb Nil Moliner](https://open.spotify.com/track/093gvGScy3E1GpnwDdsX4y) | [Mama Dousha](https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo), [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [Ha valgut la pena \(amb Nil Moliner\)](https://open.spotify.com/album/7mkTGGVrazHhpBaDg2Ijiv) | 2:21 | 2025-11-03 |  |
 | [Hands On Me \(feat\. Meghan Trainor\)](https://open.spotify.com/track/1TXbPx0WUaJM0fjDVs4wCD) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Hands On Me \(feat\. Meghan Trainor\)](https://open.spotify.com/album/7tm57crYhN6WvRfB51A7Up) | 3:03 | 2023-10-29 | 2024-03-25 |

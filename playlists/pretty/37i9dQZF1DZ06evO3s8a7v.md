@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 
 > This is MYA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,034 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,036 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 | 29 | [Suelta, Sola y Tranquila REMIX](https://open.spotify.com/track/4fHl3YBShR7QluRtNWwWpl) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Suelta, Sola y Tranquila REMIX](https://open.spotify.com/album/7hh43MlPFtFnHn64iWEExm) | 3:22 |
 | 30 | [LUNAR](https://open.spotify.com/track/23D1x2HJbnNEXrkWhxRoB6) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Agus Bernasconi](https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS), [Maxi Espindola](https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v) | [BLANCO Y NEGRO](https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB) | 3:06 |
 | 31 | [Apenas Son Las 12](https://open.spotify.com/track/0HZOsiHrGJ8F1VEe6yCGr7) | [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Apenas Son Las 12](https://open.spotify.com/album/6z64zBqAHQNgsY45m84GdX) | 2:58 |
-| 32 | [250X](https://open.spotify.com/track/3NjhlsNhvSEjg4BA2AJKJ9) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB) | [250X](https://open.spotify.com/album/31QqeBtjSFCLwjNFGgxmUS) | 2:17 |
-| 33 | [25 NOCHES \(feat\. Abraham Mateo\)](https://open.spotify.com/track/71Z2uovM8qCIxpv5BTtc3A) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [25 NOCHES \(feat\. Abraham Mateo\)](https://open.spotify.com/album/5ue3Pfzf6Wy9c2EJjKROPI) | 3:03 |
+| 32 | [25 NOCHES \(feat\. Abraham Mateo\)](https://open.spotify.com/track/71Z2uovM8qCIxpv5BTtc3A) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [25 NOCHES \(feat\. Abraham Mateo\)](https://open.spotify.com/album/5ue3Pfzf6Wy9c2EJjKROPI) | 3:03 |
+| 33 | [250X](https://open.spotify.com/track/3NjhlsNhvSEjg4BA2AJKJ9) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB) | [250X](https://open.spotify.com/album/31QqeBtjSFCLwjNFGgxmUS) | 2:17 |
 | 34 | [SI PUDIERA](https://open.spotify.com/track/4kUvzZDRjf8rCbZZ9ieoGB) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Agus Bernasconi](https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS), [Maxi Espindola](https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v) | [BLANCO Y NEGRO](https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB) | 2:51 |
 | 35 | [Cobardes](https://open.spotify.com/track/19MrGoBqSf0fMq3ez53ILU) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 2:50 |
 | 36 | [No Bailo Pa Ti](https://open.spotify.com/track/5tCWZXTFstxYy1BoF7q6J6) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [No Bailo Pa Ti](https://open.spotify.com/album/2qzobqLuiyFRIMF9FyRHip) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 | 49 | [Suelta, Sola y Tranquila \(feat\. MYA\)](https://open.spotify.com/track/7zgz9kzWGXChcjU6krkPWi) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Suelta, Sola y Tranquila \(feat\. MYA\)](https://open.spotify.com/album/0SsG6p9pAKlNJOv6D5nMtM) | 2:29 |
 | 50 | [Desbloqueo](https://open.spotify.com/track/0Rr3a98X7aP1sADDsfm16w) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Desbloqueo](https://open.spotify.com/album/7HbweJj6G9SCy6oQQy314d) | 3:12 |
 
-Snapshot ID: `aaIwAAAAAACeZObGCUmNgODQXX8xG14+`
+Snapshot ID: `aaOBgAAAAACrjUa19aReLR6xfAYATb9A`

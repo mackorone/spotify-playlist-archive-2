@@ -524,7 +524,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 174857,
       "name": "Bass Face",
       "url": "https://open.spotify.com/track/06XJ9v73E7LE0JVPpl4YTG"
@@ -2796,6 +2796,24 @@
       "duration_ms": 143038,
       "name": "Godcore - KATALYZE Remix",
       "url": "https://open.spotify.com/track/6xBvT890zyxpNADGv7zFbA"
+    },
+    {
+      "album": {
+        "name": "Goodnight",
+        "url": "https://open.spotify.com/album/16GveSDbJf9zvtmdlbSYUx"
+      },
+      "artists": [
+        {
+          "name": "Dimitri K",
+          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205090,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/3so8QmY32Ww6y5kULcAbu3"
     },
     {
       "album": {

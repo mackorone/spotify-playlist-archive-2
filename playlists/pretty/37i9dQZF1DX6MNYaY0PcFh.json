@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: Ghoulish",
-  "num_followers": 103842,
+  "num_followers": 103876,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -443,26 +443,6 @@
     {
       "added_at": "2026-02-27 00:00:43",
       "album": {
-        "name": "EUPHORIA",
-        "url": "https://open.spotify.com/album/6VR8RfG0xsWxZHGFpb0PVL"
-      },
-      "artists": [
-        {
-          "name": "IN PARALLEL",
-          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
-        },
-        {
-          "name": "Charlotte Haining",
-          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
-        }
-      ],
-      "duration_ms": 149666,
-      "name": "EUPHORIA",
-      "url": "https://open.spotify.com/track/2Amw5K5ZE64ak7Mkdx97BN"
-    },
-    {
-      "added_at": "2026-02-27 00:00:43",
-      "album": {
         "name": "MHITR: The Album",
         "url": "https://open.spotify.com/album/4vjx5GK9ZRTU1sJTvqIJuO"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 147800,
       "name": "Feels Like",
       "url": "https://open.spotify.com/track/43m82UNzbK17KIqHLJwZlT"
+    },
+    {
+      "added_at": "2026-02-27 00:00:43",
+      "album": {
+        "name": "EUPHORIA",
+        "url": "https://open.spotify.com/album/6VR8RfG0xsWxZHGFpb0PVL"
+      },
+      "artists": [
+        {
+          "name": "IN PARALLEL",
+          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
+        },
+        {
+          "name": "Charlotte Haining",
+          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
+        }
+      ],
+      "duration_ms": 149666,
+      "name": "EUPHORIA",
+      "url": "https://open.spotify.com/track/2Amw5K5ZE64ak7Mkdx97BN"
     },
     {
       "added_at": "2026-02-27 00:00:43",
@@ -571,26 +571,6 @@
     {
       "added_at": "2026-02-27 00:00:43",
       "album": {
-        "name": "XTZY",
-        "url": "https://open.spotify.com/album/6tRhAkDXXNQgHUpy00cGZo"
-      },
-      "artists": [
-        {
-          "name": "FULLCLIP",
-          "url": "https://open.spotify.com/artist/1WEgIPUvIq0ruHxECA7tR9"
-        },
-        {
-          "name": "INDI",
-          "url": "https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9"
-        }
-      ],
-      "duration_ms": 167492,
-      "name": "XTZY",
-      "url": "https://open.spotify.com/track/7vpT5MttwN5SRk0eTqECQr"
-    },
-    {
-      "added_at": "2026-02-27 00:00:43",
-      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/4kCI75IoniUlYK3l4tm7ND"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 196895,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/4fv1qeXHQA1gGoA7TKYm3g"
+    },
+    {
+      "added_at": "2026-02-27 00:00:43",
+      "album": {
+        "name": "XTZY",
+        "url": "https://open.spotify.com/album/6tRhAkDXXNQgHUpy00cGZo"
+      },
+      "artists": [
+        {
+          "name": "FULLCLIP",
+          "url": "https://open.spotify.com/artist/1WEgIPUvIq0ruHxECA7tR9"
+        },
+        {
+          "name": "INDI",
+          "url": "https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9"
+        }
+      ],
+      "duration_ms": 167492,
+      "name": "XTZY",
+      "url": "https://open.spotify.com/track/7vpT5MttwN5SRk0eTqECQr"
     },
     {
       "added_at": "2026-02-27 00:00:43",
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-02-27 00:00:43",
       "album": {
+        "name": "Driving Me Crazy",
+        "url": "https://open.spotify.com/album/61uIK5lYT3NAlL9bTdouej"
+      },
+      "artists": [
+        {
+          "name": "Lewis Taylor",
+          "url": "https://open.spotify.com/artist/6jthzPkuxcw4rYbkg6XnoR"
+        }
+      ],
+      "duration_ms": 168169,
+      "name": "Driving Me Crazy",
+      "url": "https://open.spotify.com/track/5ZNu1VSf5HjQwkCCAgobjG"
+    },
+    {
+      "added_at": "2026-02-27 00:00:43",
+      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/3tymonwB9JiWJPxypF6LAb"
       },
@@ -699,18 +715,34 @@
     {
       "added_at": "2026-02-27 00:00:43",
       "album": {
-        "name": "Driving Me Crazy",
-        "url": "https://open.spotify.com/album/61uIK5lYT3NAlL9bTdouej"
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/4xJX8f7uAR9T2Z72QHKpHo"
       },
       "artists": [
         {
-          "name": "Lewis Taylor",
-          "url": "https://open.spotify.com/artist/6jthzPkuxcw4rYbkg6XnoR"
+          "name": "Higgo",
+          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
         }
       ],
-      "duration_ms": 168169,
-      "name": "Driving Me Crazy",
-      "url": "https://open.spotify.com/track/5ZNu1VSf5HjQwkCCAgobjG"
+      "duration_ms": 209891,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/4Rup2FGULitq264vd0necv"
+    },
+    {
+      "added_at": "2026-02-27 00:00:43",
+      "album": {
+        "name": "Swings",
+        "url": "https://open.spotify.com/album/7Gmllttn0NtckSdTmsosYk"
+      },
+      "artists": [
+        {
+          "name": "KiLLOWEN",
+          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
+        }
+      ],
+      "duration_ms": 141535,
+      "name": "Swings",
+      "url": "https://open.spotify.com/track/51f0x0ish7roN0PUlCsAgY"
     },
     {
       "added_at": "2026-02-27 00:00:43",
@@ -735,38 +767,6 @@
       "duration_ms": 181357,
       "name": "Dot Dot (feat. Interplanetary Criminal & Flowdan)",
       "url": "https://open.spotify.com/track/7vePS1uTLA4iENtOldQVLt"
-    },
-    {
-      "added_at": "2026-02-27 00:00:43",
-      "album": {
-        "name": "Swings",
-        "url": "https://open.spotify.com/album/7Gmllttn0NtckSdTmsosYk"
-      },
-      "artists": [
-        {
-          "name": "KiLLOWEN",
-          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
-        }
-      ],
-      "duration_ms": 141535,
-      "name": "Swings",
-      "url": "https://open.spotify.com/track/51f0x0ish7roN0PUlCsAgY"
-    },
-    {
-      "added_at": "2026-02-27 00:00:43",
-      "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/4xJX8f7uAR9T2Z72QHKpHo"
-      },
-      "artists": [
-        {
-          "name": "Higgo",
-          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
-        }
-      ],
-      "duration_ms": 209891,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/4Rup2FGULitq264vd0necv"
     },
     {
       "added_at": "2026-02-27 00:00:43",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2026-02-27 00:00:43",
       "album": {
-        "name": "Feel Da Same",
-        "url": "https://open.spotify.com/album/4YCC3uBhkoVU0Ku21mM3nx"
-      },
-      "artists": [
-        {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
-        },
-        {
-          "name": "Carla Monroe",
-          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Feel Da Same",
-      "url": "https://open.spotify.com/track/5Ajc6oBvDdeO09GlzYFW7f"
-    },
-    {
-      "added_at": "2026-02-27 00:00:43",
-      "album": {
         "name": "i couldn't hold back (feat. George Riley)",
         "url": "https://open.spotify.com/album/0aICQMBnEhYxCV7e2QtcUa"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 170316,
       "name": "i couldn't hold back (feat. George Riley)",
       "url": "https://open.spotify.com/track/3bPsM5sfpa4k4LwfARCrsy"
+    },
+    {
+      "added_at": "2026-02-27 00:00:43",
+      "album": {
+        "name": "Feel Da Same",
+        "url": "https://open.spotify.com/album/4YCC3uBhkoVU0Ku21mM3nx"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        },
+        {
+          "name": "Carla Monroe",
+          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Feel Da Same",
+      "url": "https://open.spotify.com/track/5Ajc6oBvDdeO09GlzYFW7f"
     },
     {
       "added_at": "2026-02-27 00:00:43",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-02-27 00:00:43",
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/18xJ0JRAmhpsv2JMjTDbE5"
+      },
+      "artists": [
+        {
+          "name": "Higgo",
+          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
+        }
+      ],
+      "duration_ms": 169130,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/2zflx0uUTi6e8nw25XYvMo"
+    },
+    {
+      "added_at": "2026-02-27 00:00:43",
+      "album": {
         "name": "Point Of No Return //",
         "url": "https://open.spotify.com/album/0cS0jJy71sAYgRJtudPQkc"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 220108,
       "name": "LOOK4MYLOVE",
       "url": "https://open.spotify.com/track/3NVBJRH0UiPvqAf0ItonHt"
-    },
-    {
-      "added_at": "2026-02-27 00:00:43",
-      "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/18xJ0JRAmhpsv2JMjTDbE5"
-      },
-      "artists": [
-        {
-          "name": "Higgo",
-          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
-        }
-      ],
-      "duration_ms": 169130,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/2zflx0uUTi6e8nw25XYvMo"
     },
     {
       "added_at": "2026-02-27 00:00:43",
@@ -1215,6 +1215,38 @@
     {
       "added_at": "2026-02-27 00:00:43",
       "album": {
+        "name": "Melon",
+        "url": "https://open.spotify.com/album/6zlg3V43JYvY7HMhFsv6D3"
+      },
+      "artists": [
+        {
+          "name": "Lockerz",
+          "url": "https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN"
+        }
+      ],
+      "duration_ms": 207761,
+      "name": "Melon",
+      "url": "https://open.spotify.com/track/3z9QZsBbiHrYi25dsxKG3M"
+    },
+    {
+      "added_at": "2026-02-27 00:00:43",
+      "album": {
+        "name": "Draw a Line",
+        "url": "https://open.spotify.com/album/6013D40HaXsPO1qfGmBICH"
+      },
+      "artists": [
+        {
+          "name": "Lu.Re",
+          "url": "https://open.spotify.com/artist/4lbpVz8PpHRQaZC6vqO0EN"
+        }
+      ],
+      "duration_ms": 205162,
+      "name": "Draw a Line",
+      "url": "https://open.spotify.com/track/1UXf9TE4d3UuQqVU3baBOL"
+    },
+    {
+      "added_at": "2026-02-27 00:00:43",
+      "album": {
         "name": "All I Wanna Do",
         "url": "https://open.spotify.com/album/5jsXGxUYryqVDBgfm8rxAH"
       },
@@ -1251,38 +1283,6 @@
       "duration_ms": 169554,
       "name": "Dis Badman",
       "url": "https://open.spotify.com/track/67OlGJITLmRSqrFmI90Uc2"
-    },
-    {
-      "added_at": "2026-02-27 00:00:43",
-      "album": {
-        "name": "Draw a Line",
-        "url": "https://open.spotify.com/album/6013D40HaXsPO1qfGmBICH"
-      },
-      "artists": [
-        {
-          "name": "Lu.Re",
-          "url": "https://open.spotify.com/artist/4lbpVz8PpHRQaZC6vqO0EN"
-        }
-      ],
-      "duration_ms": 205162,
-      "name": "Draw a Line",
-      "url": "https://open.spotify.com/track/1UXf9TE4d3UuQqVU3baBOL"
-    },
-    {
-      "added_at": "2026-02-27 00:00:43",
-      "album": {
-        "name": "Melon",
-        "url": "https://open.spotify.com/album/6zlg3V43JYvY7HMhFsv6D3"
-      },
-      "artists": [
-        {
-          "name": "Lockerz",
-          "url": "https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN"
-        }
-      ],
-      "duration_ms": 207761,
-      "name": "Melon",
-      "url": "https://open.spotify.com/track/3z9QZsBbiHrYi25dsxKG3M"
     },
     {
       "added_at": "2026-02-27 00:00:43",

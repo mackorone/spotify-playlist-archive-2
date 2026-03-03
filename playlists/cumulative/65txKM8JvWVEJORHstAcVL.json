@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-03-06",
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "name": "LA LLISTA DE FLAIXBAC (22/02/2026)",
+  "name": "LA LLISTA DE FLAIXBAC (01/03/2026)",
   "tracks": [
     {
       "album": {
@@ -1653,6 +1653,24 @@
     },
     {
       "album": {
+        "name": "GR\u00c0CIES",
+        "url": "https://open.spotify.com/album/12pRJR1iID5vHVyP7eY4ve"
+      },
+      "artists": [
+        {
+          "name": "Buhos",
+          "url": "https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208128,
+      "name": "GR\u00c0CIES",
+      "url": "https://open.spotify.com/track/0pEOVHVyre2UtuQFDza4JY"
+    },
+    {
+      "album": {
         "name": "GR\u00c0CIES PER TANT",
         "url": "https://open.spotify.com/album/5bXotdtWNMzt4xL5CsOaJn"
       },
@@ -1664,7 +1682,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 181415,
       "name": "GR\u00c0CIES PER TANT",
       "url": "https://open.spotify.com/track/50UjwcHTdhxXHg14P6uJ3t"

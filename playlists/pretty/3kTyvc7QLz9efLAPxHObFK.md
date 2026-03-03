@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,884 songs - 6 day 5 hr 13 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,885 songs - 6 day 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2892,5 +2892,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2882 | [Remember \- K\-Style Remix](https://open.spotify.com/track/2xyln1J2IKaT8BqL4BGJ9D) | [K\-Style](https://open.spotify.com/artist/0O3T7774twOW0Wv1asJvp9), [Jumpkiller](https://open.spotify.com/artist/2mPbbYQk6EQvXL7Epr0KV8) | [Remember \(K\-Style Remix\)](https://open.spotify.com/album/74Eiu69w7TdwOX2U95XJbs) | 2:05 |
 | 2883 | [FE!N \- Techno Mix](https://open.spotify.com/track/1rz52YWnHHqfRbebAH1L8p) | [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9), [Sefa Taskin](https://open.spotify.com/artist/4k0nPiLcFU0ZM1PdL7iE1x) | [FE!N \(Techno Mix\)](https://open.spotify.com/album/7b7hoTDEi1N2drSYmzNDYz) | 2:22 |
 | 2884 | [Crazy](https://open.spotify.com/track/3VUsdVDLW7AaRadloM4n15) | [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e), [Hyper](https://open.spotify.com/artist/3172sSqleL21KX7K4FazKk) | [Game On \(The Album\)](https://open.spotify.com/album/2fqlAi4hK8m8PNZ6XZLyXR) | 3:46 |
+| 2885 | [FCKN JUMP](https://open.spotify.com/track/5BorbYUvZnnAWWLg1Kn9sm) | [MJU](https://open.spotify.com/artist/67mfEI3l2eiyhmTPHf4YcY), [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [FCKN JUMP](https://open.spotify.com/album/62bYRuwbANWYMIoVfx1Oub) | 2:53 |
 
-Snapshot ID: `AAALmUfqksEBVFLhl1fHGPkPDm09pi6D`
+Snapshot ID: `AAALmklJJh9677ele9hjZtaR0O/nJjFm`

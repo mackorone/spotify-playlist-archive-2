@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-895 songs - 1 day 22 hr 8 min
+896 songs - 1 day 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -669,7 +669,7 @@
 | [Safe](https://open.spotify.com/track/6tPzBJptprIjA8hk4ir3rz) | [Kotrell](https://open.spotify.com/artist/1k3uh1cWemPuWEYV2lcMPS) | [Safe](https://open.spotify.com/album/41y0S7UNgrEpuMeCOavaR0) | 3:33 | 2025-06-20 | 2025-07-05 |
 | [safe haven](https://open.spotify.com/track/7EEinxDxDsRX3AIIJ026TZ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:49 | 2022-07-14 | 2023-12-08 |
 | [Sail](https://open.spotify.com/track/26mrUHchbcgiCahub27gZY) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [Sail](https://open.spotify.com/album/6QyzYTkLfUpToqNDd8SpSm) | 2:28 | 2023-06-02 | 2023-11-24 |
-| [same bed](https://open.spotify.com/track/4hipQPwuLqq9RFxlpVAJET) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [Budgie](https://open.spotify.com/artist/3XkLOVhQv8DBoiclVW8F89) | [keepsake](https://open.spotify.com/album/7qbYXzYoWTnlzDTHbs0oCS) | 2:35 | 2026-01-23 |  |
+| [same bed](https://open.spotify.com/track/4hipQPwuLqq9RFxlpVAJET) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [Budgie](https://open.spotify.com/artist/3XkLOVhQv8DBoiclVW8F89) | [keepsake](https://open.spotify.com/album/7qbYXzYoWTnlzDTHbs0oCS) | 2:35 | 2026-01-23 | 2026-03-03 |
 | [Sarafina](https://open.spotify.com/track/2yPDSFXa5vQqWuzp2Zhhp3) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Sarafina](https://open.spotify.com/album/3NvXYPow2aoFAW48f3CCYe) | 3:10 | 2023-10-13 | 2024-01-13 |
 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 | 2024-02-23 | 2024-06-28 |
 | [Save Your Tears](https://open.spotify.com/track/46GFekGGrmoINYhMJInH4e) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [Save Your Tears](https://open.spotify.com/album/5OsEbjWD8EokWIDtnu7kB9) | 2:24 | 2024-10-04 | 2025-03-30 |
@@ -721,6 +721,7 @@
 | [Soft Prayer](https://open.spotify.com/track/7BIkcr2aqUPUuRXCL75L6z) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Crowther](https://open.spotify.com/artist/2pN56hYNCw4in2ctfHeutE) | [Lust In Lagos](https://open.spotify.com/album/1p64taGG5alX0Um08kFN1N) | 3:31 | 2025-10-24 | 2026-02-08 |
 | [Softest Touch](https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Softest Touch](https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi) | 2:44 | 2023-03-30 | 2023-06-03 |
 | [Solace](https://open.spotify.com/track/0hWicbDqfQpuw9ncKV8OWx) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Solace](https://open.spotify.com/album/7Lcd2dZBnj167BUMKRSmqA) | 3:16 | 2026-01-23 |  |
+| [Solace II](https://open.spotify.com/track/6qLshHZOHqWyAVRmSj4qip) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Solace II](https://open.spotify.com/album/0csdTMdBLQseo4FFt1nRXa) | 2:34 | 2026-02-27 |  |
 | [Somali Rose](https://open.spotify.com/track/51ZoO8zHtauv6VJvszPdM0) | [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Somali Rose](https://open.spotify.com/album/5oveeChuYpFJLYUCpHK4Lu) | 4:19 | 2022-06-24 | 2023-03-04 |
 | [Somaw](https://open.spotify.com/track/7j360rnoPfIwKlEW8qSx2g) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [London Ko](https://open.spotify.com/album/3FnZTIThL7sm42d5t7pZ1C) | 3:22 | 2023-05-19 | 2023-09-17 |
 | [Some More](https://open.spotify.com/track/7qZOtiN7oiDpKqEVW7szZc) | [TÖME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Some More](https://open.spotify.com/album/6hpBTb0X11p3Tp3hVtf09C) | 2:02 | 2025-10-10 | 2025-12-01 |

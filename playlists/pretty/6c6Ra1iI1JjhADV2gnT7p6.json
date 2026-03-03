@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 59764,
+  "num_followers": 59770,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAAw+moWR3i66AYpK6DDPZ7m4CT/wHl9",
+  "snapshot_id": "AAAw/hi46Na4+EAWVry/sre4fRB0InJW",
   "tracks": [
     {
       "added_at": "2026-02-28 08:36:19",
@@ -383,6 +383,22 @@
       "duration_ms": 164571,
       "name": "Prophetic Life",
       "url": "https://open.spotify.com/track/3M955tNqy7VD1vJ1BUXLW4"
+    },
+    {
+      "added_at": "2026-02-28 08:36:19",
+      "album": {
+        "name": "Cherry Pick",
+        "url": "https://open.spotify.com/album/2GceFRMXXSDKSexfsscT3h"
+      },
+      "artists": [
+        {
+          "name": "Anna Duboc",
+          "url": "https://open.spotify.com/artist/5Vyq6tE0rTepmsqSohBOOR"
+        }
+      ],
+      "duration_ms": 195110,
+      "name": "Cherry Pick",
+      "url": "https://open.spotify.com/track/2ZCH6yydgDrphJqupvrPQN"
     },
     {
       "added_at": "2026-02-28 08:36:19",
@@ -883,22 +899,6 @@
     {
       "added_at": "2026-02-28 08:36:19",
       "album": {
-        "name": "Cherry Pick",
-        "url": "https://open.spotify.com/album/2GceFRMXXSDKSexfsscT3h"
-      },
-      "artists": [
-        {
-          "name": "Anna Duboc",
-          "url": "https://open.spotify.com/artist/5Vyq6tE0rTepmsqSohBOOR"
-        }
-      ],
-      "duration_ms": 195110,
-      "name": "Cherry Pick",
-      "url": "https://open.spotify.com/track/2ZCH6yydgDrphJqupvrPQN"
-    },
-    {
-      "added_at": "2026-02-28 08:36:19",
-      "album": {
         "name": "Merry Make",
         "url": "https://open.spotify.com/album/5OY7y67SqR38XrtzQD34q7"
       },
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-02-28 08:36:19",
       "album": {
-        "name": "Just Chemistry",
-        "url": "https://open.spotify.com/album/7FKS2RMSWCv4zEEtxLPDnr"
-      },
-      "artists": [
-        {
-          "name": "Dance Lessons",
-          "url": "https://open.spotify.com/artist/52VhFwZRpWWiHCtoBMA6na"
-        }
-      ],
-      "duration_ms": 238820,
-      "name": "Just Chemistry",
-      "url": "https://open.spotify.com/track/4U6UyTGlIEqvy7hfGKJAYy"
-    },
-    {
-      "added_at": "2026-02-28 08:36:19",
-      "album": {
         "name": "Dimpleface",
         "url": "https://open.spotify.com/album/01z08faTSWhw8BNpc6s81P"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 183766,
       "name": "Lonesome Disco",
       "url": "https://open.spotify.com/track/1LRRwXOWjCDaUxO4ZyTFue"
+    },
+    {
+      "added_at": "2026-02-28 08:36:19",
+      "album": {
+        "name": "Just Chemistry",
+        "url": "https://open.spotify.com/album/7FKS2RMSWCv4zEEtxLPDnr"
+      },
+      "artists": [
+        {
+          "name": "Dance Lessons",
+          "url": "https://open.spotify.com/artist/52VhFwZRpWWiHCtoBMA6na"
+        }
+      ],
+      "duration_ms": 238820,
+      "name": "Just Chemistry",
+      "url": "https://open.spotify.com/track/4U6UyTGlIEqvy7hfGKJAYy"
     },
     {
       "added_at": "2026-02-28 08:36:19",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-02-28 08:36:19",
       "album": {
-        "name": "Treasure",
-        "url": "https://open.spotify.com/album/4AzhFhuxf3nTPNoKrxHfoH"
-      },
-      "artists": [
-        {
-          "name": "People I Love",
-          "url": "https://open.spotify.com/artist/5gsyST1rZJu9HulDyu0seJ"
-        }
-      ],
-      "duration_ms": 228376,
-      "name": "Treasure",
-      "url": "https://open.spotify.com/track/5CBUm3TsS2X1lmmL48DEq9"
-    },
-    {
-      "added_at": "2026-02-28 08:36:19",
-      "album": {
         "name": "Heavy Lifting",
         "url": "https://open.spotify.com/album/5p9vIdwdMdgpn3UL2OW3Np"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 290925,
       "name": "wind on the horizon",
       "url": "https://open.spotify.com/track/1cizg5U3PxAkFWub3qhBY9"
+    },
+    {
+      "added_at": "2026-02-28 08:36:19",
+      "album": {
+        "name": "Treasure",
+        "url": "https://open.spotify.com/album/4AzhFhuxf3nTPNoKrxHfoH"
+      },
+      "artists": [
+        {
+          "name": "People I Love",
+          "url": "https://open.spotify.com/artist/5gsyST1rZJu9HulDyu0seJ"
+        }
+      ],
+      "duration_ms": 228376,
+      "name": "Treasure",
+      "url": "https://open.spotify.com/track/5CBUm3TsS2X1lmmL48DEq9"
     },
     {
       "added_at": "2026-02-28 08:36:19",

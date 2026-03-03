@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,869 songs - 5 day 6 hr 57 min
+1,870 songs - 5 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1228,7 +1228,7 @@
 | [Open End Resource \- Edit](https://open.spotify.com/track/1q6jmTW5FMClOIDLENy9vk) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Alison May](https://open.spotify.com/artist/6jd3NCxzDeLS4wAO168T60) | [In My Last Life](https://open.spotify.com/album/3evqkO2utxZNNxnB2qSJLb) | 4:08 | 2020-03-17 | 2020-07-18 |
 | [Open End Resource \- Leaving Laurel Remix](https://open.spotify.com/track/1sPXaNS4HwQl4BXlXMT4Hc) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Alison May](https://open.spotify.com/artist/6jd3NCxzDeLS4wAO168T60), [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [Open End Resource \(Leaving Laurel Remix\)](https://open.spotify.com/album/1groJUGzpBYT7d5v8730Kl) | 3:39 | 2020-06-12 | 2021-03-10 |
 | [Open Season \- Gryffin Remix](https://open.spotify.com/track/6tl2UhS1qsjGpmBXzGgXm2) | [Josef Salvat](https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Open Season \(Gryffin Remix\)](https://open.spotify.com/album/6EDB4nfBAJpgRcvrnd2Fp0) | 4:00 | 2020-05-18 | 2020-07-03 |
-| [Open Up](https://open.spotify.com/track/241jde22heuHHDCAg5c1XQ) | [Fi Sullivan](https://open.spotify.com/artist/4Wvsgumh32s2wSMTZW7FMa) | [Open Up](https://open.spotify.com/album/1b98VnU74QHUYokRi42ALD) | 3:46 | 2026-02-20 |  |
+| [Open Up](https://open.spotify.com/track/241jde22heuHHDCAg5c1XQ) | [Fi Sullivan](https://open.spotify.com/artist/4Wvsgumh32s2wSMTZW7FMa) | [Open Up](https://open.spotify.com/album/1b98VnU74QHUYokRi42ALD) | 3:46 | 2026-02-20 | 2026-03-03 |
 | [Open Wide](https://open.spotify.com/track/6ElCRcBBpjkZe9QJbxrQhN) | [Ruben de Ronde](https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m), [Donata](https://open.spotify.com/artist/6rC5q8dgyXjvNUICucB075) | [My Story](https://open.spotify.com/album/465u4dV2HXZrngosc6kUG1) | 3:34 | 2020-05-18 | 2020-07-03 |
 | [Orange](https://open.spotify.com/track/5O2bgRfJeajFE4yCksFjEb) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [The Great Esquape](https://open.spotify.com/album/75rkjSsJg4ubSqPCELSTwv) | 6:26 | 2020-05-22 | 2020-07-03 |
 | [orbit](https://open.spotify.com/track/0HFmccZuHdcYqn9A34MnMI) | [silvershore](https://open.spotify.com/artist/5ugiiDMswZlkI97yinhvEt), [Anki](https://open.spotify.com/artist/6IDgN356to8svgrWLUAIoC) | [orbit](https://open.spotify.com/album/4V23yXMJlkoqh8XxscaV5e) | 3:28 | 2022-06-10 | 2022-07-29 |
@@ -1689,6 +1689,7 @@
 | [To Feel Alive](https://open.spotify.com/track/52Ef7FHOaP7KRzlhTrw8LC) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [To Feel Alive](https://open.spotify.com/album/65SOeSp0BUDNXNAiUJORH8) | 3:29 | 2021-11-26 | 2023-03-29 |
 | [To Love Again](https://open.spotify.com/track/52tlNyruZmDlFIviY0nqrg) | [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [To Love Again](https://open.spotify.com/album/72kTximzJov9lBqocYYphE) | 3:48 | 2025-04-04 |  |
 | [To The Ground](https://open.spotify.com/track/2InrK5IWeTPIVRZQPOEDIO) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [To The Ground](https://open.spotify.com/album/5bundjYGYf7t6mn2ERjpoL) | 3:53 | 2020-02-29\* | 2020-03-16 |
+| [To The Heart](https://open.spotify.com/track/0RNeb4gmJf1I5InimrUl91) | [Because of Art](https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq), [Steven Weston](https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U), [Maria Metaxa](https://open.spotify.com/artist/2dqqk5uhWz0vGITqrLSUMi) | [To The Heart / We Go Again](https://open.spotify.com/album/1HPZApJZpFhqV4WFtnjRkR) | 3:54 | 2026-02-27 |  |
 | [Together](https://open.spotify.com/track/5ULLQuJT4U3tJCdBitfp73) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [Mocean](https://open.spotify.com/artist/7aKMGvHnwW3UXE2Q2OLQSN) | [Together](https://open.spotify.com/album/11aWEu6KUAzcjZND5KYbcN) | 3:09 | 2025-01-10 | 2025-08-30 |
 | [Together](https://open.spotify.com/track/1f1DsFJHpMugn3zuRACUos) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Together](https://open.spotify.com/album/68kXIO39vMHYsJ0OcMa6mx) | 3:44 | 2021-03-27 | 2022-11-19 |
 | [Together \(feat\. RKCB\)](https://open.spotify.com/track/2rjDMAhlw0mQWp4FcmG9ay) | [Dan Farber](https://open.spotify.com/artist/5a3WpRDlPqdJvQsH5nH3kS), [RKCB](https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc) | [Together \(feat\. RKCB\)](https://open.spotify.com/album/0udoCtfOROoPPoefTK9Q4k) | 2:58 | 2020-03-16 | 2022-04-20 |

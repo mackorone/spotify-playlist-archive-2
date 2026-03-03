@@ -4,7 +4,7 @@
 
 > Ouça e conheça as revelações da música gospel\. Foto: Larissa Santos
 
-86 songs - 7 hr 13 min
+87 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Aviva\-nos](https://open.spotify.com/track/1yZBqpTaj8rUIBg0TMgEgI) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm), [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp) | [Aviva\-nos](https://open.spotify.com/album/5PaxVBNCUxnZQWVAIPHebs) | 5:24 | 2022-12-09 |  |
 | [Basta Uma Palavra](https://open.spotify.com/track/28WSh5HaGtFA6OnoygL5mx) | [Mateus Pereira](https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO) | [Basta Uma Palavra](https://open.spotify.com/album/2nW44xh4BxcNaKHcISWf8N) | 4:22 | 2022-12-09 |  |
 | [Boa Graça \(Good Grace\) \[Acústico\]](https://open.spotify.com/track/4eYfddvw1Xc1mGbrCLIzXB) | [Aproxime\-Se](https://open.spotify.com/artist/5X1v73lx5t9JTcl9QHVjtT), [Luiz Lima Sobrinho](https://open.spotify.com/artist/2yHNIhCzAyRBh2XHOz7xW8) | [Boa Graça \(Good Grace\) \[Acústico\]](https://open.spotify.com/album/3FcZsTAT49tBKp3T3um5W9) | 5:03 | 2022-12-09 | 2023-10-07 |
+| [Clame a Jesus \(Ao Vivo\)](https://open.spotify.com/track/4TuBFUtxI7hV9SxUwsFawd) | [Carol Miranda](https://open.spotify.com/artist/2UeU6QwYpItw9sLDw0Ow9g) | [Clame a Jesus \(Ao Vivo\)](https://open.spotify.com/album/3ho9koqLjvMKLuXtKStXSY) | 4:27 | 2026-03-02 |  |
 | [Coração Cansado de Partir](https://open.spotify.com/track/4HnZ4YwXkGFMour3ANraz4) | [Matheus Ferreira](https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh) | [Coração Cansado de Partir](https://open.spotify.com/album/1Ox3RacCzycf2OfYIrSfXc) | 4:51 | 2022-12-09 |  |
 | [Daqui Não Saio](https://open.spotify.com/track/0TYzmTenPv6YlD5a2g4gqe) | [Gabriell Júnior](https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH) | [Daqui Não Saio](https://open.spotify.com/album/23eNhDRQb2QRbegXM1tH6O) | 9:18 | 2022-12-09 |  |
 | [Declare o Nome Dele](https://open.spotify.com/track/59hv6fdw1VdoKN4le00gRp) | [Thuanny Carvalho](https://open.spotify.com/artist/47fORQIc5irQMNZKt7xIcU) | [Declare O Nome Dele](https://open.spotify.com/album/0jo6FNcSRrNvF9XVL84Ury) | 4:00 | 2024-08-30 |  |
@@ -58,7 +59,7 @@
 | [Não Temo Ondas \- Ao Vivo](https://open.spotify.com/track/4HxPBJWXTan8LXzCevA7Nf) | [Mateus Brito](https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN), [Salvaon](https://open.spotify.com/artist/7LYjCBa1qtaru5vHG0u9hD) | [Não Temo Ondas \(Ao Vivo\)](https://open.spotify.com/album/4Y8VJS0JADsGJCdINbfMaH) | 7:40 | 2023-12-21 | 2025-05-03 |
 | [Não Temo Ondas \- Ao Vivo](https://open.spotify.com/track/6Q9QRqD40yE9jn0iRRg5qX) | [Mateus Brito](https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN), [Salvaon](https://open.spotify.com/artist/1YbTEvDgGkTuBpMFtHDbgG) | [Tua Presença Vale Mais \(Ao Vivo\)](https://open.spotify.com/album/4vUCJMvYEyDx8Osu1I6W49) | 7:41 | 2022-12-09 | 2024-04-19 |
 | [O Amor Que Cura \(Ao Vivo\)](https://open.spotify.com/track/6as6g28GA0R4BJTDVj0ium) | [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v), [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [O Amor Que Cura \(Ao Vivo\)](https://open.spotify.com/album/5PINeCXP5eX2WzUOFgct4o) | 4:17 | 2024-10-11 |  |
-| [O Caminho \- Ao Vivo](https://open.spotify.com/track/1aDRZ7fQdnUfCq5hFzIWmn) | [Lu Quirino](https://open.spotify.com/artist/0Xd97yg7GBn14A591IQyzf) | [O Caminho \(Ao Vivo\)](https://open.spotify.com/album/7ogKkqtvKtLVa0JfjUHsmi) | 4:37 | 2025-05-02 |  |
+| [O Caminho \- Ao Vivo](https://open.spotify.com/track/1aDRZ7fQdnUfCq5hFzIWmn) | [Lu Quirino](https://open.spotify.com/artist/0Xd97yg7GBn14A591IQyzf) | [O Caminho \(Ao Vivo\)](https://open.spotify.com/album/7ogKkqtvKtLVa0JfjUHsmi) | 4:37 | 2025-05-02 | 2026-03-03 |
 | [O Fogo Arderá \- Ao Vivo](https://open.spotify.com/track/6ATNNv8tZF61fa7VwDH89j) | [Alexsander Lucio](https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP) | [O Fogo Arderá \(Ao Vivo\)](https://open.spotify.com/album/4rd6xVSZfkwaltIFTmZWNe) | 10:24 | 2025-01-10 | 2025-07-20 |
 | [O Teu Poder \(Creio em Ti\)](https://open.spotify.com/track/7wpguZT8WHrxVimzWfEusv) | [Alex Silva](https://open.spotify.com/artist/72qyJQtv9lGSNCSMqRJ35H), [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [O Teu Poder \(Creio em Ti\)](https://open.spotify.com/album/3gUFySRFOAKWn5VfZ9dvAI) | 4:01 | 2022-12-09 |  |
 | [Passos](https://open.spotify.com/track/0W5TW739qb2vnwdDxOPPTw) | [Alma Soul](https://open.spotify.com/artist/6kL0urQlNvf1wvGKupJgFu), [Eduardo Bessa](https://open.spotify.com/artist/13cmbwyecac2vFdnhFiTdr) | [Passos](https://open.spotify.com/album/6C2WBh9NBHy3gazMBinyQc) | 3:34 | 2025-01-03 |  |

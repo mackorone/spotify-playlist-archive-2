@@ -4,7 +4,7 @@
 
 > De nieuwste pop songs\. Cover: Davina Michelle
 
-1,317 songs - 2 day 19 hr 18 min
+1,318 songs - 2 day 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [Coma](https://open.spotify.com/track/10qbuooTRQ2xgc5mWNLShX) | [Benni](https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq) | [Coma](https://open.spotify.com/album/1dDxtEPO5Ih2dRKyd1LBHY) | 3:07 | 2025-02-13 | 2025-05-02 |
 | [Come Over](https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:17 | 2025-03-20 | 2025-05-30 |
 | [Coming of Age \(feat\. Melle\)](https://open.spotify.com/track/7Did4KpyQRorJo0L3k8zx5) | [Maryn Charlie](https://open.spotify.com/artist/71JkqGrg5nuc5sIVCCTjvL), [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp) | [Out of the blue](https://open.spotify.com/album/31KrWGRwKiI6ZLjStdSZ1V) | 2:48 | 2024-02-05 | 2024-04-13 |
-| [COMPASS](https://open.spotify.com/track/6PtvYwIwjxzdiGp75CpSEq) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [COMPASS](https://open.spotify.com/album/1lJt7C7eHagAriSFVvZMGH) | 2:46 | 2025-12-17 |  |
+| [COMPASS](https://open.spotify.com/track/6PtvYwIwjxzdiGp75CpSEq) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [COMPASS](https://open.spotify.com/album/1lJt7C7eHagAriSFVvZMGH) | 2:46 | 2025-12-17 | 2026-03-03 |
 | [Complicated](https://open.spotify.com/track/6JHZYOwjOuCnJ836WKaB9U) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Hard To Love](https://open.spotify.com/album/4Xu5xQYLQvdWXOp7QenPwp) | 3:07 | 2025-10-10 | 2026-01-27 |
 | [Con Calma](https://open.spotify.com/track/2z4t6UgsOQeuzWF4CN6RWu) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Con Calma](https://open.spotify.com/album/63jwtYCNzu0DgoOYt6LXVi) | 2:36 | 2025-03-13 | 2025-05-23 |
 | [Confetti](https://open.spotify.com/track/0ELnNmc1vQFW3aPEzQ5zOg) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Confetti](https://open.spotify.com/album/4IvDhxrStvfyvnUy876AQY) | 3:04 | 2023-04-13 | 2023-08-04 |
@@ -940,6 +940,7 @@
 | [Quicksand](https://open.spotify.com/track/1fD2fDicPdrbROr7n8gKdP) | [FLORA](https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W) | [Quicksand](https://open.spotify.com/album/74prgKvUiVl5YiHDzAyN9k) | 3:27 | 2025-05-22 | 2025-08-05 |
 | [r u gonna love me?](https://open.spotify.com/track/0xpy0DrLu1kcCWAkvb0HqU) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [r u gonna love me?](https://open.spotify.com/album/2fDf6DEQH3Tv0hOkOhbeYU) | 3:03 | 2025-09-18 | 2025-12-19 |
 | [Ray\-Bans](https://open.spotify.com/track/75Krgu40syJQZMrrU853Kp) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Ray\-Bans](https://open.spotify.com/album/7KHyrCP5S4FmyawTNyGk7x) | 3:25 | 2023-09-20 | 2023-12-15 |
+| [Ready for the Ride](https://open.spotify.com/track/1mBlAPx3o1upduoTYXwgcZ) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [Ready for the Ride](https://open.spotify.com/album/0rSKLa2MWT7QVQLdczMGuk) | 3:27 | 2026-03-02 |  |
 | [Rebecca](https://open.spotify.com/track/6CP6LUVijAZYts1n8F3y6r) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Rebecca](https://open.spotify.com/album/5GuldxGIudIorKuknPw6kj) | 3:05 | 2025-09-25 | 2025-11-07 |
 | [Red Flags](https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Red Flags](https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa) | 2:21 | 2023-02-24 | 2023-04-07 |
 | [Red Light](https://open.spotify.com/track/3Bkd4gTLmlGGtvlTq4HQm7) | [CHARLES](https://open.spotify.com/artist/3BAyGVtoPcmQbeb58hlIZs) | [miroir / Red Light](https://open.spotify.com/album/6k86lCqjXPJfucjK3FVbzO) | 2:37 | 2024-10-24 | 2025-01-10 |

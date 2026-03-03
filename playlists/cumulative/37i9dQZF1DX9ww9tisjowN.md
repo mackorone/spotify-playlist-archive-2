@@ -4,7 +4,7 @@
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: rusino / ルシノ
 
-1,063 songs - 2 day 12 hr 56 min
+1,064 songs - 2 day 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Change](https://open.spotify.com/track/3ioX4MCteVUN8LjbtlOC0c) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Change](https://open.spotify.com/album/6tf7wrgiVsVPoiI6wTUwnl) | 3:11 | 2024-07-25 | 2024-08-16 |
 | [Charlotte](https://open.spotify.com/track/7lVkwsbH2u7aCSdJdMugEA) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Charlotte](https://open.spotify.com/album/6hN2xKECricFO4Y4DZuR5B) | 3:47 | 2024-08-29 | 2024-10-11 |
 | [Charon](https://open.spotify.com/track/1McwU7KXAl4hpx5VOFSZBe) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Charon](https://open.spotify.com/album/7MRzv4kEwUZQEucCdgjjs4) | 2:40 | 2025-10-23 | 2025-11-28 |
+| [Chatter Chatter](https://open.spotify.com/track/5nUfkXOhypzToRLwVrNNGE) | [宝鐘マリン](https://open.spotify.com/artist/5XaBNKQo65yYcjNA8wQPOk), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [Chatter Chatter](https://open.spotify.com/album/682wGcWnOVdyjfrzJVwLMb) | 2:38 | 2026-03-03 |  |
 | [Chocolat Cadabra](https://open.spotify.com/track/0AKxVjQmNYwYuNY5sCJuPn) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Chocolat Cadabra](https://open.spotify.com/album/2grvAfP3pjbRwkhaTbbNS9) | 3:03 | 2024-02-01 | 2024-02-10 |
 | [Choose me](https://open.spotify.com/track/5Uj6NgupVm7ByY1JXNYTp5) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [10th Anniversary Best Vol.1](https://open.spotify.com/album/1y1xNiR0afPdNSpCkq2FBT) | 3:38 | 2023-08-07 | 2025-01-17 |
 | [cinema paradiso](https://open.spotify.com/track/5zlJEFexSDmVw6PEDwNJZf) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kimi wo omotte iru](https://open.spotify.com/album/0JeDfH9IBw1tWdXIekSq5d) | 4:22 | 2026-01-11 | 2026-01-23 |
@@ -423,7 +424,7 @@
 | [PPPP \(feat\. Hatsune Miku, Kasane Teto\)](https://open.spotify.com/track/6J3pPfXLujwsWQpvR6XMgC) | [TAK](https://open.spotify.com/artist/51Ce3GImOKK2xAGi3HiNns), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Kasane Teto](https://open.spotify.com/artist/4JX0GdKx8EduY2Ck7qac4H) | [PPPP](https://open.spotify.com/album/2YpnTJLH8a1xxEL3HXAWQQ) | 2:34 | 2025-11-06 | 2026-02-20 |
 | [Prema](https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:22 | 2025-09-05 |  |
 | [Prince Shoutoku](https://open.spotify.com/track/4z85bLqYNMp0ixpiARiCgC) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Prince Shoutoku](https://open.spotify.com/album/0pF7LdM6RM99pJZXq9dOIN) | 3:29 | 2023-10-19 | 2023-12-13 |
-| [PROVANT](https://open.spotify.com/track/5g7WLWOwspQqTnqVZv0XQ8) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Jean\-Ken Johnny](https://open.spotify.com/artist/1Bk56nx76xE4nP01ZhDsPE), [TAKUMA](https://open.spotify.com/artist/7CcCUhKZWvb3tvXtcMAb45) | [PROVANT](https://open.spotify.com/album/5Na4qNt1ZaTzXwqXAdTogk) | 2:50 | 2026-01-11 |  |
+| [PROVANT](https://open.spotify.com/track/5g7WLWOwspQqTnqVZv0XQ8) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Jean\-Ken Johnny](https://open.spotify.com/artist/1Bk56nx76xE4nP01ZhDsPE), [TAKUMA](https://open.spotify.com/artist/7CcCUhKZWvb3tvXtcMAb45) | [PROVANT](https://open.spotify.com/album/5Na4qNt1ZaTzXwqXAdTogk) | 2:50 | 2026-01-11 | 2026-03-03 |
 | [PUI PUI はとまらない](https://open.spotify.com/track/1uDXHWsB7EAPjHw8XKvm7c) | [Momoclochan Z](https://open.spotify.com/artist/0JUZrcVvxhJaCzc4mloocZ) | [PUI PUI はとまらない](https://open.spotify.com/album/2V1RiLuuBRbWoYRgdWc6bC) | 2:58 | 2023-05-09 | 2023-12-08 |
 | [PUPPET SHOW](https://open.spotify.com/track/7sDkXyDikXhpRz715MdiEp) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DNA](https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj) | 3:19 | 2023-09-26 | 2023-12-08 |
 | [Q](https://open.spotify.com/track/3quLLbcBipdInn9sHY3q7e) | [majiko](https://open.spotify.com/artist/6HX4Jrnb0WhEv9goeGoh6p) | [Q](https://open.spotify.com/album/2AlYyM8w72MVLy0BPtu1nI) | 3:35 | 2025-05-29 | 2025-06-06 |

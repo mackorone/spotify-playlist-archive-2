@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: <a href="spotify:artist:0nYLdRhYC1rJA92ulnyB74">Yves!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,397 likes - 100 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,432 likes - 100 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 25 | [Sweepin Floors \(Youtube Ad Freestyle\)](https://open.spotify.com/track/6sbxtCe2CakGAj1lCOUejl) | [Sqweez](https://open.spotify.com/artist/6P7n4mPXuKcZhwvikEFS3k) | [Sweepin Floors \(Youtube Ad Freestyle\)](https://open.spotify.com/album/13yTA1wCFRvawAwaAWFNKn) | 1:52 |
 | 26 | [Kso Glock](https://open.spotify.com/track/5aWRvFxf9z2mpcavr9ZVPk) | [FullyChop](https://open.spotify.com/artist/3NVubm0PxfuLTmokAlOufp) | [Kso Glock](https://open.spotify.com/album/7Jnywr7o2o37qvgY1lbD6R) | 2:15 |
 | 27 | [Boundaries \(Remix\)](https://open.spotify.com/track/716yd5Ih7QmkE4wvpsg0GP) | [TheRealmiss BabyDee](https://open.spotify.com/artist/5koSq9rVqoWSfCW4k8T9Lu), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Diamond The Body](https://open.spotify.com/artist/3LxyybGMussJaKdrdt5MET) | [Boundaries \(Remix\)](https://open.spotify.com/album/6SgryeHpXvP09jDhbfL7cv) | 3:32 |
-| 28 | [Boat Remix](https://open.spotify.com/track/2HeqKWstr0XAYILHpRo5ra) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Boat Remix](https://open.spotify.com/album/0PBa3RVZ6Mpy9dCdb3UnRC) | 2:43 |
+| 28 | [BOAT REMIX](https://open.spotify.com/track/2HeqKWstr0XAYILHpRo5ra) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [BOAT REMIX](https://open.spotify.com/album/0PBa3RVZ6Mpy9dCdb3UnRC) | 2:43 |
 | 29 | [Successful](https://open.spotify.com/track/4a4TQY1JEu1TLRCIM2cpsh) | [PCF Jaey](https://open.spotify.com/artist/3SQyoWBxZH35NqaGtKDplP), [Lil Tony Official](https://open.spotify.com/artist/4ix2z6eBWQ6MeihaX04mB6) | [Successful](https://open.spotify.com/album/1rshOvPIwne7xx6WUSVAle) | 1:55 |
 | 30 | [TIANA ANTHEM](https://open.spotify.com/track/0yCC0DDTinEF4InE5Vx5TI) | [La Reezy](https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE) | [LAREEZYANA SHAKEDOWN](https://open.spotify.com/album/1hXEO9MOdHjtsDo5NWrCij) | 1:07 |
 | 31 | [Moneydance](https://open.spotify.com/track/3AWzUWHgeMhsLBo3phPDVj) | [nyan](https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr) | [Cowboy From Brooklyn](https://open.spotify.com/album/0VRjbRVRxZ3MyMz31W1KLW) | 2:24 |

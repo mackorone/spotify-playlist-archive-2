@@ -4,7 +4,7 @@
 
 > Nieuw: Giegs, PLUGOXHUSH, Clep N Flyy, Venti, Joella T & Vensly en meer...
 
-437 songs - 18 hr 51 min
+438 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Jaloezie](https://open.spotify.com/track/4K5oAJfyaPjszfJXUJNGf6) | [Insayno](https://open.spotify.com/artist/4BwKHXbL1qbaoD73AM4sO8), [Brainpower](https://open.spotify.com/artist/6LfIVTnSSc9zNqjpfVPs1w), [Jaap Goud](https://open.spotify.com/artist/0kY3JTHPCakGx8ydflXOyR) | [Jaloezie](https://open.spotify.com/album/42Q37iJv2u2AURRKL0AW2m) | 3:29 | 2025-12-19 | 2026-01-23 |
 | [Jong Leren](https://open.spotify.com/track/7hjcn9yixzQ4GucEb4lEoS) | [SOUNDPLUG](https://open.spotify.com/artist/3V27gyl5V5dvei7a0U8zuX), [Millson9](https://open.spotify.com/artist/39XRDkd41cKPg664L7tfDx) | [Jong Leren](https://open.spotify.com/album/6BfOXdEEwabib36OmR7rNR) | 2:45 | 2026-01-15 | 2026-02-20 |
 | [Jonge van Beethoven](https://open.spotify.com/track/5LRexkmbnueuLmXhAda0QW) | [Vurr Flashy](https://open.spotify.com/artist/4HvrPyaGmNPeUEgBA4n6uh) | [Jonge van Beethoven](https://open.spotify.com/album/3wPDHdpHJX8zW8pdRimiAR) | 1:40 | 2025-07-17 | 2025-08-15 |
+| [Jongetje Van Plein](https://open.spotify.com/track/0gGehwelrHouCkduRi6D7l) | [Noah Ysp](https://open.spotify.com/artist/6EXdAUuol3xlQgad9NEy9u), [Kili](https://open.spotify.com/artist/6A9qX1ebPIWADHzSSOGh8S) | [Jongetje Van Plein](https://open.spotify.com/album/0TwSHk2G9RE3vnQZJPI2qS) | 2:23 | 2026-03-02 |  |
 | [Jongvolwassen](https://open.spotify.com/track/55swQGRxYDf4Ol16uXgHnB) | [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu) | [Petrus](https://open.spotify.com/album/5wLwbrjdXDt072PxVQk51y) | 2:01 | 2026-02-05 |  |
 | [Joost Klein 5](https://open.spotify.com/track/0cFpSyhr0Kb7Os2FNm5Qmp) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Kleinkunst](https://open.spotify.com/album/0dVJ6kqv5wj2qDUobhMdAe) | 1:35 | 2026-01-08 | 2026-02-13 |
 | [Kamer](https://open.spotify.com/track/4yH7yI0cJCDChG8VpzcUo3) | [JAH](https://open.spotify.com/artist/5Mtx1K2I4k44IIlsCSf659) | [Kamer](https://open.spotify.com/album/0TbqHBEj88GCdEkRt0m52W) | 2:54 | 2025-10-02 | 2025-11-01 |

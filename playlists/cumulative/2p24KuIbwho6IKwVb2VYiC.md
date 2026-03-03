@@ -4,7 +4,7 @@
 
 > The best Dance, House, Bass and EDM tracks right now, curated by <a href="https://www.instagram.com/nightvision/">NIGHTVISION</a>!  Cover: Felix Cartal
 
-400 songs - 20 hr 56 min
+401 songs - 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [One New Change](https://open.spotify.com/track/7bjxZNe02r6XodrKONHGMC) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [One New Change](https://open.spotify.com/album/5vzdtotzfVdbgrOFFEBj6O) | 4:54 | 2024-05-24 |  |
 | [One Night/All Night](https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [One Night/All Night](https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK) | 4:36 | 2024-01-26 | 2025-02-15 |
 | [one2three \(feat\. Leven Kali\)](https://open.spotify.com/track/6dQxsPVLqXnJgiLLWJRE5x) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [one2three \(feat\. Leven Kali\)](https://open.spotify.com/album/6VkJuZchHVpZDxGbLrTtdd) | 4:08 | 2025-09-26 |  |
+| [Opalite \- Chris Lake Remix](https://open.spotify.com/track/0ttGLmxI0mAkMblE6iRm2S) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [Opalite \(Chris Lake Remix\)](https://open.spotify.com/album/1OioQUIAwZ6PE2V7UJUHX2) | 3:48 | 2026-03-02 |  |
 | [Out My Head](https://open.spotify.com/track/6ZorLNYsF1KjjV9M2OSxAF) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Out My Head](https://open.spotify.com/album/3MS98RpRmeMZjjffoKUGln) | 2:44 | 2024-04-26 |  |
 | [Out Of My Head](https://open.spotify.com/track/3L7RqK0wfTfgRJbefYcKeM) | [The Banker Boys](https://open.spotify.com/artist/23ZQRnQKAovuLlXhc555tm), [Shawn Hook](https://open.spotify.com/artist/7blkMNJv8n9ceP9zlA4W2U) | [Out Of My Head](https://open.spotify.com/album/1fswBzR4WGga1p5UbI8tr7) | 2:16 | 2023-10-27 | 2024-05-13 |
 | [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-29 | 2024-06-15 |

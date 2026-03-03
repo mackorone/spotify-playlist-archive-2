@@ -593,6 +593,24 @@
     },
     {
       "album": {
+        "name": "bienvenidos a nuevos lugares",
+        "url": "https://open.spotify.com/album/5VZ46lKhDfwoHIxTgn7lnw"
+      },
+      "artists": [
+        {
+          "name": "Hey Kid",
+          "url": "https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "ahora que nos perdimos",
+      "url": "https://open.spotify.com/track/49YpuK1D9k5hMg2pzgIhX6"
+    },
+    {
+      "album": {
         "name": "Akureyri",
         "url": "https://open.spotify.com/album/4y9gHmuFooWHYOnDmSXcjN"
       },
@@ -656,6 +674,24 @@
       "duration_ms": 165054,
       "name": "Alegr\u00eda",
       "url": "https://open.spotify.com/track/5v9LMshhQsNtkUkcXRGO7i"
+    },
+    {
+      "album": {
+        "name": "Algo de m\u00ed",
+        "url": "https://open.spotify.com/album/7mUyUHgpceqFrbVqKnyoqm"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181914,
+      "name": "Algo de m\u00ed",
+      "url": "https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE"
     },
     {
       "album": {
@@ -1200,6 +1236,50 @@
       "duration_ms": 193059,
       "name": "AVENTURA",
       "url": "https://open.spotify.com/track/02vuof1sWGshy5yJG3HylY"
+    },
+    {
+      "album": {
+        "name": "Ay Amor",
+        "url": "https://open.spotify.com/album/24zbNGOGUKdAzsHIsa7zxL"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Juacko",
+          "url": "https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131150,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/7wMmqdopL0YxhFmn6WSStr"
+    },
+    {
+      "album": {
+        "name": "Ayer La Vi (BPA26)",
+        "url": "https://open.spotify.com/album/7zasVgESdwTXibF73T9QE6"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170769,
+      "name": "Ayer La Vi (BPA26)",
+      "url": "https://open.spotify.com/track/50SSJV9VPpvO7bZwK5ZjRa"
     },
     {
       "album": {
@@ -1774,7 +1854,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 153140,
       "name": "BORRACHO Y FINO",
       "url": "https://open.spotify.com/track/02RRggERgkX5M4U3JDOJsT"
@@ -4928,7 +5008,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 199135,
       "name": "El ruido",
       "url": "https://open.spotify.com/track/51H81Y7lkWH01Z4GFrVWh2"
@@ -5965,6 +6045,24 @@
     },
     {
       "album": {
+        "name": "Fecha de Caducidad",
+        "url": "https://open.spotify.com/album/3Vi7j2xvLZRfDgZw2s6iWH"
+      },
+      "artists": [
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305466,
+      "name": "Fecha de Caducidad",
+      "url": "https://open.spotify.com/track/3LTHhkihfdgYtQMUNJQBgv"
+    },
+    {
+      "album": {
         "name": "Feo",
         "url": "https://open.spotify.com/album/3TGo55A7DUHR2tJ7Inot2y"
       },
@@ -6982,7 +7080,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 222458,
       "name": "Ivonny Bonita",
       "url": "https://open.spotify.com/track/6Sv0CzVqzydd7NYQgAG70c"
@@ -7622,7 +7720,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 195546,
       "name": "La Perla",
       "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
@@ -8584,7 +8682,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 187576,
       "name": "Los columpios",
       "url": "https://open.spotify.com/track/4YERoCsJBFFoxweTH4qECP"
@@ -8674,6 +8772,24 @@
       "duration_ms": 176000,
       "name": "Los Lugares Donde Ir\u00e1s",
       "url": "https://open.spotify.com/track/4p1C7lssRJgOkdpPWlb6s1"
+    },
+    {
+      "album": {
+        "name": "Los Paraca\u00eddas",
+        "url": "https://open.spotify.com/album/0qmMtLIVz5a9l1PGAba0XF"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189429,
+      "name": "Los Paraca\u00eddas",
+      "url": "https://open.spotify.com/track/6UVEZ6gXAXkcUK5eKpLrHl"
     },
     {
       "album": {
@@ -10440,7 +10556,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 142746,
       "name": "Nadie m\u00e1s te la cree",
       "url": "https://open.spotify.com/track/3hUGYAky3cU0CHBIxmiYcK"
@@ -15783,6 +15899,24 @@
     },
     {
       "album": {
+        "name": "Tu C\u00e1rcel",
+        "url": "https://open.spotify.com/album/614rbDLa3xPz4aeZCqfTzv"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216149,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/0b55EHxWx8ylntHOJwPZrC"
+    },
+    {
+      "album": {
         "name": "tu fan",
         "url": "https://open.spotify.com/album/1vt9k84zvlnJKa3D3CNnzx"
       },
@@ -15874,7 +16008,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 158780,
       "name": "Turista",
       "url": "https://open.spotify.com/track/4GgULmlfnucCJ0LFwLen2s"

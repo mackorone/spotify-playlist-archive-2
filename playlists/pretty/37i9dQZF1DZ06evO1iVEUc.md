@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iVEUc.md) - [plain]
 
 > This is Angie Stone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,804 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,803 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iVEUc.md) - [plain]
 | 38 | [U\-Haul](https://open.spotify.com/track/6nEJciQRIMIF2TfYUN0Ma5) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Stone Love](https://open.spotify.com/album/5RBN1ZISk3zHXQM8Rtg4CB) | 3:56 |
 | 39 | [The Human Stone \(feat\. Angie Stone\)](https://open.spotify.com/track/2zhgYDsj5s9ucveGRlEr9F) | [KDA](https://open.spotify.com/artist/3EK3opK9Hp93HJjBPupzfg), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Human Stone \(feat\. Angie Stone\)](https://open.spotify.com/album/5JDtdJsp89vm1wldP6Qwro) | 3:27 |
 | 40 | [Black Magic](https://open.spotify.com/track/0m1gxHaKMyr8cYMNTE9YYF) | [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [A Gangster And A Gentleman](https://open.spotify.com/album/4LmiDfIReR290PQm026KNF) | 4:28 |
-| 41 | [Dollar Bill](https://open.spotify.com/track/2DyH6CAfcuZps5tnXqtVE5) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Dream](https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE) | 3:15 |
-| 42 | [I Ain’t Hearin’ U](https://open.spotify.com/track/2QAcA00lpN2u4n15tcKm3R) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Unexpected](https://open.spotify.com/album/03GXHujYDvYF7zkSUC1KlU) | 3:26 |
-| 43 | [Here We Go Again](https://open.spotify.com/track/4v4ICmsY42M8sc0iI8w1I8) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 3:32 |
-| 44 | [You Don't Love Me](https://open.spotify.com/track/6LgeYzc85nIiOg9ZcaRjRu) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Stone Love](https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0) | 3:34 |
+| 41 | [Here We Go Again](https://open.spotify.com/track/4v4ICmsY42M8sc0iI8w1I8) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 3:32 |
+| 42 | [You Don't Love Me](https://open.spotify.com/track/6LgeYzc85nIiOg9ZcaRjRu) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Stone Love](https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0) | 3:34 |
+| 43 | [Dollar Bill](https://open.spotify.com/track/2DyH6CAfcuZps5tnXqtVE5) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Dream](https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE) | 3:15 |
+| 44 | [I Ain’t Hearin’ U](https://open.spotify.com/track/2QAcA00lpN2u4n15tcKm3R) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Unexpected](https://open.spotify.com/album/03GXHujYDvYF7zkSUC1KlU) | 3:26 |
 | 45 | [Red, Red Wine](https://open.spotify.com/track/6F6b3hTQchWivuPewh4B1t) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 2:56 |
-| 46 | [Begin Again](https://open.spotify.com/track/6zxd52EqlO7BBsaUNC1LsV) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Dave Hollister](https://open.spotify.com/artist/5Z1reBuaReg2pg72I2mnMm) | [Dream](https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE) | 4:03 |
-| 47 | [High](https://open.spotify.com/track/7nwy7u1NxzbUEOmpzo6KWT) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Love Language](https://open.spotify.com/album/3SjkXnXu8tjg9Xg9bXPOuM) | 3:47 |
-| 48 | [Come Home \(Live With Me\)](https://open.spotify.com/track/76t9JKMDB9C1QoJTdspV6D) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Stone Love](https://open.spotify.com/album/5RBN1ZISk3zHXQM8Rtg4CB) | 3:57 |
+| 46 | [Come Home \(Live With Me\)](https://open.spotify.com/track/76t9JKMDB9C1QoJTdspV6D) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Stone Love](https://open.spotify.com/album/5RBN1ZISk3zHXQM8Rtg4CB) | 3:57 |
+| 47 | [Begin Again](https://open.spotify.com/track/6zxd52EqlO7BBsaUNC1LsV) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Dave Hollister](https://open.spotify.com/artist/5Z1reBuaReg2pg72I2mnMm) | [Dream](https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE) | 4:03 |
+| 48 | [High](https://open.spotify.com/track/7nwy7u1NxzbUEOmpzo6KWT) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Love Language](https://open.spotify.com/album/3SjkXnXu8tjg9Xg9bXPOuM) | 3:47 |
 | 49 | [Angie Stone \- IQ Musique House Mix](https://open.spotify.com/track/2kTjQIfVwzwaMCtQGFF9Lz) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [IQ Musique](https://open.spotify.com/artist/3RUiLqDKEMyFxlyGBS4h38) | [Angie Stone \- Wish I Didn't Miss You \(IQ Musique House Remix\)](https://open.spotify.com/album/3Z2NITd0S3mGilLdnwliFI) | 5:21 |
 | 50 | [Jam for the Ladies](https://open.spotify.com/track/2MGnkIWA0T94GEGfjx14Be) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w) | [18 & 18 B\-Sides](https://open.spotify.com/album/2moGNpXgrcBzIF5M1PqF4K) | 3:21 |
 
-Snapshot ID: `aaIwAAAAAAAd9kLu2mmpu1r+C7dcUJqn`
+Snapshot ID: `aaOBgAAAAABm6LNbCJNoj9RF4MYR/PvA`

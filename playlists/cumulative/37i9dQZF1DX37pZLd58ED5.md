@@ -2,7 +2,7 @@
 
 ### [Mezzanotte Chill Rap](https://open.spotify.com/playlist/37i9dQZF1DX37pZLd58ED5)
 
-> Solo beat e rime avvolgenti\. Cover: Paky
+> Solo beat e rime avvolgenti\. Cover: Tony Boy
 
 319 songs - 16 hr 31 min
 

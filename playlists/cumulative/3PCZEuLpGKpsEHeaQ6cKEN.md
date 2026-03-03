@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: Max Styler
 
-1,745 songs - 3 day 20 hr 26 min
+1,746 songs - 3 day 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1183,6 +1183,7 @@
 | [Raiz Brasileira](https://open.spotify.com/track/2dGghnMThoDFDPujcqk1im) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv), [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Raiz Brasileira](https://open.spotify.com/album/5E6tF8HgB5KhSUVhcKTgS1) | 3:50 | 2026-02-06 |  |
 | [Rapture](https://open.spotify.com/track/0yUfmAvQfuz3AjmFeswdaa) | [Alaia & Gallo](https://open.spotify.com/artist/0VN7mz2rIvpw0FOvZV6p25), [Tara Mcdonald](https://open.spotify.com/artist/2yWER4vAftcZCFPc7ednct) | [Rapture](https://open.spotify.com/album/6l1j9Sn9vTVLLuFp0cTGr6) | 3:22 | 2022-06-30 | 2022-08-12 |
 | [Rave Baby](https://open.spotify.com/track/7LFiyIx9e7oQgohGj1grBK) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [WUKONG](https://open.spotify.com/artist/6AtgLd3rwVPep5RSPWRQ1T), [Evil Twiin](https://open.spotify.com/artist/4Wi32nMyDHreHb97iXd9zN) | [Rave Baby](https://open.spotify.com/album/47FjIz0KeSWm3GIVCBeKzj) | 3:17 | 2026-01-16 | 2026-01-24 |
+| [Rave Forever](https://open.spotify.com/track/0NeUSyxAwPPuW6MOrXPcef) | [Tiscore](https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI) | [Rave Forever](https://open.spotify.com/album/1vDCAW4I5XH1EaU1a7wMba) | 2:17 | 2026-03-02 |  |
 | [Reach For You](https://open.spotify.com/track/4hLDHwc3t9fx3zyn3NYBXN) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Reach For You](https://open.spotify.com/album/4reioH9lNaPq6lFuKH9nBF) | 2:49 | 2024-12-12 | 2025-04-11 |
 | [Reach Out For Your Love](https://open.spotify.com/track/2zVeBwN2wirOVFDiAfpTxE) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [The Golden Boy](https://open.spotify.com/artist/4sbnZxKTcrri3W099W0wuq) | [Reach Out For Your Love](https://open.spotify.com/album/1hhnDUJHhfFUpW9rG789uZ) | 2:35 | 2022-10-06 | 2022-11-25 |
 | [Ready Or Not](https://open.spotify.com/track/5pHiLtOvjpvfcn2RatgIEN) | [NAAC](https://open.spotify.com/artist/7mljyQJgwCXjkCe27YiIGV) | [Ready Or Not](https://open.spotify.com/album/2Cux26DKz3YPMO7N60aRTi) | 2:19 | 2026-01-26 | 2026-01-30 |

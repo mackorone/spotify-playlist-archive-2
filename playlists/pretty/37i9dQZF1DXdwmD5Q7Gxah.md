@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> <a href="https://docs.google.com/forms/d/e/1FAIpQLScMF3Bk85sf0Q8EtivfX\-sCFgsgIpORHNyGB28r1NujobZdmw/viewform">talk to us about music :\) </a>   Cover: Mitski
+> <a href="https://loremandfriends.substack.com/p/everything\-comes\-back\-around\-and">read our substack!  </a>   Cover: Mitski
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,187,061 likes - 175 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,187,018 likes - 175 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 174 | [Prom](https://open.spotify.com/track/7v4elVZEuKlU0zutsoh6gh) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Gun](https://open.spotify.com/album/6Yit0xCJS0zGialnx1Lycd) | 4:32 |
 | 175 | [Racecar](https://open.spotify.com/track/5dhnTegrm9fl3KLBU2bocS) | [Jordan Patterson](https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G) | [Racecar](https://open.spotify.com/album/7j5fmYNhtiNE94h8pQ1YW4) | 5:37 |
 
-Snapshot ID: `AAAAAOJDSeGWdN2fOqV90uOKCmLseUye`
+Snapshot ID: `AAAAAHBdfC22TH1GoQTvm21WoQeuuIAF`

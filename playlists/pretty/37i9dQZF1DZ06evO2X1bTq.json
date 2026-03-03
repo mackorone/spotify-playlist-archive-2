@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1262107,
+  "num_followers": 1262144,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaIwAAAAAABm9l6misippfXWtWpFs0by",
+  "snapshot_id": "aaOBgAAAAACXpX2BvQ2J/AIjt+vAEYsx",
   "tracks": [
     {
       "added_at": null,
@@ -123,38 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of 1980 - 1990",
-        "url": "https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 257040,
-      "name": "New Year's Day",
-      "url": "https://open.spotify.com/track/2CwMxEXxMiLRrKPLjQLmne"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 337505,
-      "name": "Where The Streets Have No Name - Remastered",
-      "url": "https://open.spotify.com/track/4qgZs0RNjdzKAS22lP0QjY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Days Of Ash EP",
         "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
       },
@@ -179,6 +147,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 337505,
+      "name": "Where The Streets Have No Name - Remastered",
+      "url": "https://open.spotify.com/track/4qgZs0RNjdzKAS22lP0QjY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of 1980 - 1990",
+        "url": "https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 257040,
+      "name": "New Year's Day",
+      "url": "https://open.spotify.com/track/2CwMxEXxMiLRrKPLjQLmne"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Breakthrough",
         "url": "https://open.spotify.com/album/13HYuDhB1soZvHzwoymXoV"
       },
@@ -195,6 +195,22 @@
       "duration_ms": 260466,
       "name": "One",
       "url": "https://open.spotify.com/track/3Lk7RWStfLaHG7lXsuS87j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Days Of Ash EP",
+        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 235413,
+      "name": "Song Of The Future",
+      "url": "https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1"
     },
     {
       "added_at": null,
@@ -231,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Of Ash EP",
-        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 235413,
-      "name": "Song Of The Future",
-      "url": "https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Joshua Tree (Super Deluxe)",
         "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
       },
@@ -259,6 +259,22 @@
       "duration_ms": 184543,
       "name": "Sweetest Thing",
       "url": "https://open.spotify.com/track/7ndGFo9nZ108KPgXtfYWCe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Days Of Ash EP",
+        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 263175,
+      "name": "American Obituary",
+      "url": "https://open.spotify.com/track/3OeSl8lZH1ufOO87gJdcfi"
     },
     {
       "added_at": null,
@@ -295,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Of Ash EP",
-        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 263175,
-      "name": "American Obituary",
-      "url": "https://open.spotify.com/track/3OeSl8lZH1ufOO87gJdcfi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rattle And Hum",
         "url": "https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9"
       },
@@ -323,6 +323,22 @@
       "duration_ms": 389933,
       "name": "All I Want Is You",
       "url": "https://open.spotify.com/track/34sL4eaI8UKWOyYpCvoboU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Days Of Ash EP",
+        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 243899,
+      "name": "One Life At A Time",
+      "url": "https://open.spotify.com/track/4b2t0g1l0LqDXZfl6rWXqh"
     },
     {
       "added_at": null,
@@ -363,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Of Ash EP",
-        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 243899,
-      "name": "One Life At A Time",
-      "url": "https://open.spotify.com/track/4b2t0g1l0LqDXZfl6rWXqh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How To Dismantle An Atomic Bomb",
         "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
       },
@@ -391,6 +391,22 @@
       "duration_ms": 305080,
       "name": "Sometimes You Can't Make It On Your Own",
       "url": "https://open.spotify.com/track/6fzcnVO0X2cpYjsHk19GJo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Days Of Ash EP",
+        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 325014,
+      "name": "The Tears Of Things",
+      "url": "https://open.spotify.com/track/6UsQY1MboRNoxGU9GwKp7i"
     },
     {
       "added_at": null,
@@ -427,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Of Ash EP",
-        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 325014,
-      "name": "The Tears Of Things",
-      "url": "https://open.spotify.com/track/6UsQY1MboRNoxGU9GwKp7i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How To Dismantle An Atomic Bomb",
         "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
       },
@@ -455,6 +455,30 @@
       "duration_ms": 345706,
       "name": "City Of Blinding Lights",
       "url": "https://open.spotify.com/track/2R3wzFFjNYc1z3PSoO8FNV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Days Of Ash EP",
+        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        },
+        {
+          "name": "Adeola",
+          "url": "https://open.spotify.com/artist/6kU5IjThvcBp4xuHJyKmIj"
+        },
+        {
+          "name": "Jacknife Lee",
+          "url": "https://open.spotify.com/artist/1fixTBy0r22vTuK2sQNAqY"
+        }
+      ],
+      "duration_ms": 78415,
+      "name": "Wildpeace",
+      "url": "https://open.spotify.com/track/2Q9G5TMtnLWDYtjHnK4wUv"
     },
     {
       "added_at": null,
@@ -495,30 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Of Ash EP",
-        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        },
-        {
-          "name": "Adeola",
-          "url": "https://open.spotify.com/artist/6kU5IjThvcBp4xuHJyKmIj"
-        },
-        {
-          "name": "Jacknife Lee",
-          "url": "https://open.spotify.com/artist/1fixTBy0r22vTuK2sQNAqY"
-        }
-      ],
-      "duration_ms": 78415,
-      "name": "Wildpeace",
-      "url": "https://open.spotify.com/track/2Q9G5TMtnLWDYtjHnK4wUv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs Of Experience (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
       },
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Achtung Baby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 278480,
-      "name": "Until The End Of The World",
-      "url": "https://open.spotify.com/track/4iiX7axMHcc76BGM0QJEY5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All That You Can't Leave Behind",
         "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 220733,
       "name": "In A Little While",
       "url": "https://open.spotify.com/track/1NBf3nsIIaBTikQzV5hICg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 278480,
+      "name": "Until The End Of The World",
+      "url": "https://open.spotify.com/track/4iiX7axMHcc76BGM0QJEY5"
     },
     {
       "added_at": null,

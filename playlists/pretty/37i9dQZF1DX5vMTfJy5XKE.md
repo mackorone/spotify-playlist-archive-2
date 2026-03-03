@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: The Pretty Reckless
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,499 likes - 241 songs - 12 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,479 likes - 241 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -198,7 +198,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 188 | [Celebrate The Holidays](https://open.spotify.com/track/0QS3rxG2TQmDtnO9SCzfUa) | [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Celebrate The Holidays](https://open.spotify.com/album/16kSVARandvnfbJdbtQG6b) | 2:22 |
 | 189 | [Winter Wonderland](https://open.spotify.com/track/78sspO0ac3b81LZzLhV3aE) | [Exile](https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7) | [Winter Wonderland](https://open.spotify.com/album/02bRTmfbBPAfLdI10AS5FG) | 2:38 |
 | 190 | [Wrapped Up Together](https://open.spotify.com/track/6JTqcBXBOd2iDd9q9ogRkR) | [Tyler James Bellinger](https://open.spotify.com/artist/6ZuXJQZ4dNselMcRMUvUYs) | [Wrapped Up Together](https://open.spotify.com/album/68HXek6tS0Vy3Df73PJ9It) | 3:12 |
-| 191 | [The Moment The World Changed \- Single Edit](https://open.spotify.com/track/1iSGaYzFCQavL9oMdNe9BT) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [The Moment The Whole World Changed](https://open.spotify.com/album/3lF0T0QQQrKCMdFPcKOUcf) | 4:28 |
+| 191 | [The Moment The Whole World Changed \- Single Edit](https://open.spotify.com/track/1iSGaYzFCQavL9oMdNe9BT) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [The Moment The Whole World Changed](https://open.spotify.com/album/3lF0T0QQQrKCMdFPcKOUcf) | 4:28 |
 | 192 | [Long Live Christmas](https://open.spotify.com/track/43Ko4Q18oegCpKVSJDoscB) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Long Live Christmas](https://open.spotify.com/album/2R2INgA6o5Ua7SpKAj8oN2) | 2:41 |
 | 193 | [Holy Forever \(Christmas🎄\)](https://open.spotify.com/track/53mDshdRCHJpQdOgPMHg4Z) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever \- Christmas Songs Of Worship](https://open.spotify.com/album/0XQi9bYqMEHSoL7tkDwicW) | 5:49 |
 | 194 | [My Kinda Christmas](https://open.spotify.com/track/4Kwi1ZKjd7TtTqa3EUFhZm) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [My Kinda Christmas](https://open.spotify.com/album/5hJNDq3A04TgkA34SVYhRG) | 2:35 |

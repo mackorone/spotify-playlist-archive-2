@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : All Ok",
-  "num_followers": 26250,
+  "num_followers": 26251,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJr7AO+DM3rmWn6cXGxYP0rWMFy+",
+  "snapshot_id": "AAAAAI33mjTwHovTGRi97iXQhMGGLmct",
   "tracks": [
     {
       "added_at": "2026-02-06 13:55:11",
@@ -39,6 +39,62 @@
       "duration_ms": 163500,
       "name": "Ninna Notavu",
       "url": "https://open.spotify.com/track/33W4mZI2Kd4sye4K65Pf0r"
+    },
+    {
+      "added_at": "2026-03-02 07:55:19",
+      "album": {
+        "name": "Janani",
+        "url": "https://open.spotify.com/album/0hJicQHbw7PBDJDV7F85Q6"
+      },
+      "artists": [
+        {
+          "name": "Akhilesh Moti",
+          "url": "https://open.spotify.com/artist/031AHwDJvqqY7t56R8Q4oq"
+        }
+      ],
+      "duration_ms": 163516,
+      "name": "Janani",
+      "url": "https://open.spotify.com/track/3zQ0AwRwPEnGQ3Vha2CuCE"
+    },
+    {
+      "added_at": "2026-03-02 07:59:40",
+      "album": {
+        "name": "5 STAR",
+        "url": "https://open.spotify.com/album/55z0OyLx2IDFEwYw5BgofI"
+      },
+      "artists": [
+        {
+          "name": "H18",
+          "url": "https://open.spotify.com/artist/1Eh2sOlDATyNUt19twP1x3"
+        },
+        {
+          "name": "S.P.B",
+          "url": "https://open.spotify.com/artist/3eEet8yyGoxJjIKViRe7Gf"
+        },
+        {
+          "name": "Arhan A Betur",
+          "url": "https://open.spotify.com/artist/737rFWCotTGOPjpllN6Kw4"
+        }
+      ],
+      "duration_ms": 159995,
+      "name": "ROUGH ROACH",
+      "url": "https://open.spotify.com/track/689FJCbzH68posJE4MEcF3"
+    },
+    {
+      "added_at": "2026-03-02 07:56:07",
+      "album": {
+        "name": "KADAK",
+        "url": "https://open.spotify.com/album/39weeAhjgNkjlnIJknS7xw"
+      },
+      "artists": [
+        {
+          "name": "D shabdha",
+          "url": "https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh"
+        }
+      ],
+      "duration_ms": 192868,
+      "name": "KADAK",
+      "url": "https://open.spotify.com/track/3uD2sgUzjiDXwMduNzQhOc"
     },
     {
       "added_at": "2026-02-02 06:54:08",
@@ -1289,26 +1345,6 @@
       "url": "https://open.spotify.com/track/2sNgNmLWdkGRjjTnKmIAuo"
     },
     {
-      "added_at": "2025-10-18 08:08:30",
-      "album": {
-        "name": "Dostharu (From \"Golden Clicks\") (Music From The Original Web Series)",
-        "url": "https://open.spotify.com/album/1x2YFSeEEYqJy5BMfd2SHO"
-      },
-      "artists": [
-        {
-          "name": "Ephraim Saatvik",
-          "url": "https://open.spotify.com/artist/5e1hv0eMW8ekhIy52EJz8J"
-        },
-        {
-          "name": "Mohan P Nayar",
-          "url": "https://open.spotify.com/artist/6ctK52Bm64YiKH37X5Gbn3"
-        }
-      ],
-      "duration_ms": 184220,
-      "name": "Dostharu (From \"Golden Clicks\") (Music From The Original Web Series)",
-      "url": "https://open.spotify.com/track/3a5bUzB7k0WBlop2cxqsWs"
-    },
-    {
       "added_at": "2025-10-13 08:17:52",
       "album": {
         "name": "Kirudaada Kanasu",
@@ -1353,30 +1389,6 @@
       "url": "https://open.spotify.com/track/2Ep11dPRxsvOIocrZLDsJp"
     },
     {
-      "added_at": "2025-09-18 08:48:29",
-      "album": {
-        "name": "Manadhani",
-        "url": "https://open.spotify.com/album/0iLxcLoEHjHOY0vA3mH3PU"
-      },
-      "artists": [
-        {
-          "name": "Raghothama N S",
-          "url": "https://open.spotify.com/artist/23SVcQ2QiconhMN4ZU1NZu"
-        },
-        {
-          "name": "Rajat Hegde",
-          "url": "https://open.spotify.com/artist/0KUITfL95SqUmYtOBPjLtW"
-        },
-        {
-          "name": "Pratap Bhatt",
-          "url": "https://open.spotify.com/artist/4CPXosIQsBRyqA0zIPDEn4"
-        }
-      ],
-      "duration_ms": 293000,
-      "name": "Manadhani",
-      "url": "https://open.spotify.com/track/0xzFjj7PUkSrtDRPOIYsjl"
-    },
-    {
       "added_at": "2025-09-06 04:54:58",
       "album": {
         "name": "Aleya Vaikhari",
@@ -1403,22 +1415,6 @@
       "duration_ms": 185381,
       "name": "Aleya Vaikhari",
       "url": "https://open.spotify.com/track/2choQONmdzNsjH5ODkcoA8"
-    },
-    {
-      "added_at": "2025-08-29 11:12:40",
-      "album": {
-        "name": "Usire",
-        "url": "https://open.spotify.com/album/7bZQsK2uUmfIWskMj9Rf5n"
-      },
-      "artists": [
-        {
-          "name": "Curry",
-          "url": "https://open.spotify.com/artist/1sHWKJ2CYul8vAS8wL2Yl5"
-        }
-      ],
-      "duration_ms": 281632,
-      "name": "Usire",
-      "url": "https://open.spotify.com/track/4mDnuR8aQwVC0zMy8rUDY2"
     },
     {
       "added_at": "2025-07-21 06:23:38",

@@ -1453,6 +1453,28 @@
     },
     {
       "album": {
+        "name": "Chatter Chatter",
+        "url": "https://open.spotify.com/album/682wGcWnOVdyjfrzJVwLMb"
+      },
+      "artists": [
+        {
+          "name": "\u5b9d\u9418\u30de\u30ea\u30f3",
+          "url": "https://open.spotify.com/artist/5XaBNKQo65yYcjNA8wQPOk"
+        },
+        {
+          "name": "Hoshimachi Suisei",
+          "url": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158203,
+      "name": "Chatter Chatter",
+      "url": "https://open.spotify.com/track/5nUfkXOhypzToRLwVrNNGE"
+    },
+    {
+      "album": {
         "name": "Chocolat Cadabra",
         "url": "https://open.spotify.com/album/2grvAfP3pjbRwkhaTbbNS9"
       },
@@ -8018,7 +8040,7 @@
       ],
       "date_added": "2026-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 170993,
       "name": "PROVANT",
       "url": "https://open.spotify.com/track/5g7WLWOwspQqTnqVZv0XQ8"

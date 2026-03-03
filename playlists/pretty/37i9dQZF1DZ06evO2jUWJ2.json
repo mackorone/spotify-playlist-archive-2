@@ -1,12 +1,12 @@
 {
   "description": "This is Elevation Worship. The essential tracks, all in one playlist.",
-  "num_followers": 320196,
+  "num_followers": 320290,
   "original_name": "This Is Elevation Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaIwAAAAAAD+ndORhgOCAHoPreXM00l9",
+  "snapshot_id": "aaOBgAAAAADtdANvzpGNiQ18MKh6QKJe",
   "tracks": [
     {
       "added_at": null,
@@ -159,6 +159,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trust In God / More Than Able",
+        "url": "https://open.spotify.com/album/0S5WweUHqJ4VLgXOfpmFZj"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "duration_ms": 442264,
+      "name": "Trust In God (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/5EHMPGhsQY5o1pcjOejbMj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SO BE IT (feat. Tiffany Hudson & Chris Brown)",
         "url": "https://open.spotify.com/album/3317qFuusi41ZE9hfffsmq"
       },
@@ -179,26 +199,6 @@
       "duration_ms": 347640,
       "name": "SO BE IT (feat. Tiffany Hudson & Chris Brown)",
       "url": "https://open.spotify.com/track/1tYWIkEZg6wMrMuLO2mWcy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trust In God / More Than Able",
-        "url": "https://open.spotify.com/album/0S5WweUHqJ4VLgXOfpmFZj"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
-        }
-      ],
-      "duration_ms": 442264,
-      "name": "Trust In God (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/5EHMPGhsQY5o1pcjOejbMj"
     },
     {
       "added_at": null,
@@ -463,30 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tumbas A Jardines",
-        "url": "https://open.spotify.com/album/6x77tBsuSV3YvKbFx2NAYf"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Elevation Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 353507,
-      "name": "Tumbas A Jardines (Graves Into Gardens) (feat. Brandon Lake)",
-      "url": "https://open.spotify.com/track/0LetLotK5ziqrdD7WWpGN1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When Wind Meets Fire",
         "url": "https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0"
       },
@@ -507,6 +483,30 @@
       "duration_ms": 430689,
       "name": "When Wind Meets Fire (feat. Chris Brown & Tiffany Hudson)",
       "url": "https://open.spotify.com/track/7ymQvrauqbRfH30XVkmIs2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tumbas A Jardines",
+        "url": "https://open.spotify.com/album/6x77tBsuSV3YvKbFx2NAYf"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Elevation Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 353507,
+      "name": "Tumbas A Jardines (Graves Into Gardens) (feat. Brandon Lake)",
+      "url": "https://open.spotify.com/track/0LetLotK5ziqrdD7WWpGN1"
     },
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aleluya (En La Tierra)",
-        "url": "https://open.spotify.com/album/2XbDHJ6hKGpn3MndpsHfuH"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Elevation Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0"
-        }
-      ],
-      "duration_ms": 378636,
-      "name": "Digno (Worthy)",
-      "url": "https://open.spotify.com/track/1G4YFaCFPPN4P0fZCzKYba"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SO BE IT",
         "url": "https://open.spotify.com/album/6OF8Psf3BjjHnBIfUpOYHp"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 303879,
       "name": "Your Name Is God",
       "url": "https://open.spotify.com/track/6cb1D54z0BgnRijrk2E3Sa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aleluya (En La Tierra)",
+        "url": "https://open.spotify.com/album/2XbDHJ6hKGpn3MndpsHfuH"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Elevation Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0"
+        }
+      ],
+      "duration_ms": 378636,
+      "name": "Digno (Worthy)",
+      "url": "https://open.spotify.com/track/1G4YFaCFPPN4P0fZCzKYba"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joy In The Morning (Horizon Edition)",
-        "url": "https://open.spotify.com/album/4k9NfmigtkDZLHB5MJ04RQ"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 528413,
-      "name": "Joy In The Morning",
-      "url": "https://open.spotify.com/track/5m1eBDlvDe8WIkVhnJRA95"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SO BE IT",
         "url": "https://open.spotify.com/album/6OF8Psf3BjjHnBIfUpOYHp"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 280783,
       "name": "Keep On (feat. Davide Mutendji, Tori Elliott & Isaiah Templeton)",
       "url": "https://open.spotify.com/track/6XIyQZDcTnJOgNIliNKDlM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joy In The Morning (Horizon Edition)",
+        "url": "https://open.spotify.com/album/4k9NfmigtkDZLHB5MJ04RQ"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 528413,
+      "name": "Joy In The Morning",
+      "url": "https://open.spotify.com/track/5m1eBDlvDe8WIkVhnJRA95"
     },
     {
       "added_at": null,
@@ -943,22 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wake Up The Wonder",
-        "url": "https://open.spotify.com/album/4ROzY3I1ROwTDSvl9fVSob"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 261678,
-      "name": "Unstoppable God",
-      "url": "https://open.spotify.com/track/7myOvrlSOO7VIyd7JQnSU0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SO BE IT",
         "url": "https://open.spotify.com/album/6OF8Psf3BjjHnBIfUpOYHp"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 391213,
       "name": "Thank You (feat. Jonsal Barrientes & Tiffany Hudson)",
       "url": "https://open.spotify.com/track/2Z1OmcUpMToGnOGa2RP0OR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wake Up The Wonder",
+        "url": "https://open.spotify.com/album/4ROzY3I1ROwTDSvl9fVSob"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 261678,
+      "name": "Unstoppable God",
+      "url": "https://open.spotify.com/track/7myOvrlSOO7VIyd7JQnSU0"
     },
     {
       "added_at": null,
@@ -1031,18 +1031,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Graves Into Gardens (Live)",
-        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
+        "name": "SO BE IT",
+        "url": "https://open.spotify.com/album/6OF8Psf3BjjHnBIfUpOYHp"
       },
       "artists": [
         {
           "name": "Elevation Worship",
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
         }
       ],
-      "duration_ms": 432052,
-      "name": "RATTLE! (Live)",
-      "url": "https://open.spotify.com/track/6fdglWE2qycjtz0JlW94HW"
+      "duration_ms": 313916,
+      "name": "I Got Saved (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/0Fcu29KCsISZx8SIFIuGWw"
     }
   ],
   "unique_name": "This Is Elevation Worship",

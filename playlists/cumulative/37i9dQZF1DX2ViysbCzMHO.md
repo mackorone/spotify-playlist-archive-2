@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-306 songs - 16 hr 41 min
+307 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Drinking to the Broken Hearts \- Piano Version](https://open.spotify.com/track/3LNvApdP3ORvOyYvnYTSxM) | [Maggie Baugh](https://open.spotify.com/artist/4E82Kdena6yf0reUDRzbvW) | [Drinking to the Broken Hearts \- Piano Version](https://open.spotify.com/album/1wJXKeag5KwfjFCrESiAOK) | 3:29 | 2022-01-28 | 2022-07-22 |
 | [Drive You Out Of My Mind \- Dark Room Edition](https://open.spotify.com/track/422L8K9qMnljsXBxrk7G7D) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Drive You Out Of My Mind \(Dark Room Edition\)](https://open.spotify.com/album/5jojUcRWK4ItxreTB2duTg) | 3:54 | 2023-09-15 |  |
 | [Drunk Too](https://open.spotify.com/track/6dFc4ryW27fQaj0DWW1DPo) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Drunk Too](https://open.spotify.com/album/2AccCtAAKQrx8b1bvPcftg) | 2:42 | 2021-12-17 | 2022-11-19 |
-| [End of the Rain](https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep) | [Jason Blaine](https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ) | [End of the Rain](https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb) | 3:15 | 2021-12-17 |  |
+| [End of the Rain](https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep) | [Jason Blaine](https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ) | [End of the Rain](https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb) | 3:15 | 2021-12-17 | 2026-03-03 |
 | [Even In My Dreams \- Acoustic](https://open.spotify.com/track/5WqhoP1sXe81DyB91q77aw) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene), [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [Even In My Dreams Acoustic](https://open.spotify.com/album/50eTd9xEFGizDaZDR7U7uo) | 3:11 | 2022-04-08 | 2022-07-19 |
 | [Every Other Memory \- Acoustic](https://open.spotify.com/track/3Wytcmwttm1DkfCYPZBb39) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [EOM \- EP](https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d) | 3:41 | 2021-12-17 | 2023-01-29 |
 | [Faithfully \- Acoustic](https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum) | [Heath Sanders](https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP) | [Faithfully \(Acoustic\)](https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh) | 4:37 | 2021-12-17 |  |
@@ -231,6 +231,7 @@
 | [Something You Ain't Ever Had \- Acoustic](https://open.spotify.com/track/0WdkuR9ZwleXI1MZH37ZCP) | [Waterloo Revival](https://open.spotify.com/artist/3dYdcyW7mhZYVDDkNvkd0c) | [Something You Ain't Ever Had \(Acoustic\)](https://open.spotify.com/album/4p6gQvM1IU97W6vhWNdBkk) | 3:18 | 2021-12-17 | 2022-07-16 |
 | [Something's Gonna Kill Me \- Piano](https://open.spotify.com/track/4zUuhIVPfWkfSWMFIi7WKx) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Something's Gonna Kill Me \(Piano\)](https://open.spotify.com/album/1Ih4pEKPgOCvcLiVwijzwS) | 3:02 | 2023-09-29 | 2025-02-03 |
 | [Son Of A \(Acoustic\)](https://open.spotify.com/track/6dUVnXkXzVlv9UfxRoJtYN) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Son Of A \(Acoustic\)](https://open.spotify.com/album/3DfnUMdSb5KMIpsJE7BQb3) | 3:16 | 2022-01-28 | 2025-08-28 |
+| [Sounds Like Something I'd Say \- Acoustic](https://open.spotify.com/track/65IMy9SoKAWvozEuXLEoxR) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Sounds Like Something I'd Say \(Acoustic\)](https://open.spotify.com/album/66pm2X8619J4LIu2cG8aXD) | 3:16 | 2026-02-27 |  |
 | [St\. Louis](https://open.spotify.com/track/1sJ3GTTKEThu9LuQ2gUWku) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [St\. Louis](https://open.spotify.com/album/5e0JbK04Ky16eiEkULAN7n) | 4:34 | 2021-12-17 | 2023-11-23 |
 | [St\. Louis](https://open.spotify.com/track/3J8QHat7k7nfLwjjece9Ux) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [St\. Louis](https://open.spotify.com/album/11jsnuDKgMn6IjelspL30z) | 4:34 | 2023-12-01 | 2024-04-19 |
 | [Standing Room Only \- Acoustic](https://open.spotify.com/track/0B8Z2MvMXc52D06L3SkXwE) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Standing Room Only \(Acoustic\)](https://open.spotify.com/album/3rFLlJ2vRuigTDlrA8DmN4) | 3:46 | 2023-07-14 | 2025-02-18 |

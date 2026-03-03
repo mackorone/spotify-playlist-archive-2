@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-505 songs - 1 day 5 hr 42 min
+506 songs - 1 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Back To You](https://open.spotify.com/track/2jOLY3Sjp1DzsMxxvBS5l9) | [John Lundvik](https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW) | [Dance Cry Laugh Smile](https://open.spotify.com/album/3pAfBKkU6qQczBcS8X11MD) | 2:42 | 2025-06-05 | 2025-08-19 |
 | [Backseat Driver](https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Backseat Driver](https://open.spotify.com/album/5wSRDE5eSLvPbrSuAxgDlm) | 3:48 | 2024-10-10 | 2025-04-25 |
 | [Bad Blood](https://open.spotify.com/track/6F5ZOMStXsxHAfWDqpcOVZ) | [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK), [Lena Philipsson](https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm), [PG Roxette](https://open.spotify.com/artist/3k87PFuum7Sv7zzjw7BMIg) | [Bad Blood](https://open.spotify.com/album/7i1g3DW1WAjsYXsWHAsQP9) | 2:50 | 2025-11-06 |  |
+| [Bad Bones](https://open.spotify.com/track/6cq5OjkTCwKp2HiEXfHcsu) | [Erik Grönwall](https://open.spotify.com/artist/5dg3YtsiR8ux6amJv9m9AG) | [Bad Bones](https://open.spotify.com/album/5YycljN03RNlQlBQN6nI2W) | 3:20 | 2026-02-27 |  |
 | [Badass High School Band](https://open.spotify.com/track/7CnkuNF0MUZ72hOJOd2KLG) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Badass High School Band](https://open.spotify.com/album/5wNBPhKhVXv1yOLB1mFxC4) | 3:54 | 2025-01-02 | 2025-05-16 |
 | [Balladen om Joe Hill](https://open.spotify.com/track/17fA4aBflCSjovdCUPMvG7) | [Love Antell](https://open.spotify.com/artist/1NsCBCpJLNQstRoKr4oS0G) | [Balladen om Joe Hill](https://open.spotify.com/album/2H8Yypx0nDNWLYnRZhNdig) | 3:16 | 2025-04-24 | 2025-06-06 |
 | [Bar Thinking](https://open.spotify.com/track/2nJfr4oazvlWLoeNYZWQhD) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Bar Thinking](https://open.spotify.com/album/6JCtqw85DgIoIhu7xqA90c) | 3:05 | 2024-06-27 | 2024-08-30 |
@@ -232,7 +233,7 @@
 | [It’s Time](https://open.spotify.com/track/3vIPr2Fev8vviMO19hketG) | [Maskinisten](https://open.spotify.com/artist/7EqcInpJPb4pRMPyEvUKRR) | [It’s Time](https://open.spotify.com/album/2f2UQwxhPBWKbqGtGzlMOG) | 3:46 | 2025-04-10 | 2025-08-23 |
 | [I’m Here For You Now](https://open.spotify.com/track/2mrFXNlzPzqIpFZnZorm2L) | [April Snow](https://open.spotify.com/artist/7HMZinZS1LbGtnmELcvVmQ) | [I’m Here For You Now](https://open.spotify.com/album/0YxNOo620DicdFk0oSrDlp) | 3:20 | 2024-10-24 | 2025-01-10 |
 | [Jag behöver dig](https://open.spotify.com/track/4pL2Mg4Av6frPodx5GzYXM) | [Lisa Miskovsky](https://open.spotify.com/artist/5J0dXmqEYctfFsmcakqZFH) | [Jag behöver dig](https://open.spotify.com/album/06YF9B4vYaA6kDD6Wjf3NW) | 4:46 | 2024-10-03 | 2024-10-16 |
-| [Jag dansade en sommar](https://open.spotify.com/track/55mmUWKU8QQf6OXYF313o1) | [Larz\-Kristerz](https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3) | [Jag dansade en sommar](https://open.spotify.com/album/343BjB6iMyT9aMXW6WSTt4) | 3:19 | 2025-06-26 |  |
+| [Jag dansade en sommar](https://open.spotify.com/track/55mmUWKU8QQf6OXYF313o1) | [Larz\-Kristerz](https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3) | [Jag dansade en sommar](https://open.spotify.com/album/343BjB6iMyT9aMXW6WSTt4) | 3:19 | 2025-06-26 | 2026-03-03 |
 | [Jag gör allt som man inte får](https://open.spotify.com/track/7MyUU3mlh2g4FtSjPUItXL) | [Rolf Wikström](https://open.spotify.com/artist/6JnHX2U0qF3EcoAHta5V3r) | [Jag gör allt som man inte får](https://open.spotify.com/album/26AjUi95V3BArfHFPfBcWz) | 3:04 | 2024-06-27 | 2024-09-06 |
 | [Jag hör också rösterna](https://open.spotify.com/track/5R2BEPAaK1X8XShxbH42H6) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1) | [Jag hör också rösterna](https://open.spotify.com/album/72jvBIYYhGQxAi5fAvHENi) | 4:05 | 2025-01-23 | 2025-05-30 |
 | [Jag vill drömma](https://open.spotify.com/track/2lWBXbSIVtzGFq3egd7al4) | [Herreys](https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle) | [Jag vill drömma](https://open.spotify.com/album/18dsriIndUm1FaelXGnzF8) | 3:24 | 2025-05-29 | 2025-06-01 |

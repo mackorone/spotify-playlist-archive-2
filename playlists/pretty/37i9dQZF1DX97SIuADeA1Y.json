@@ -1,6 +1,6 @@
 {
   "description": "slap house on repeat. ",
-  "num_followers": 340940,
+  "num_followers": 340921,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
@@ -51,6 +51,22 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
+        "name": "You Spin Me Round (Like A Record)",
+        "url": "https://open.spotify.com/album/6GnNXKouBmoElIbpAZYnGG"
+      },
+      "artists": [
+        {
+          "name": "Marc Korn",
+          "url": "https://open.spotify.com/artist/2ds47hSr82tLZR2kS5aNdt"
+        }
+      ],
+      "duration_ms": 176744,
+      "name": "You Spin Me Round (Like A Record) - Radio Edit",
+      "url": "https://open.spotify.com/track/5zdbSrKdmK9qDTkqzidcN7"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/6fN9aKsrArw37XP4Wdiiw6"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 156000,
       "name": "Halo",
       "url": "https://open.spotify.com/track/2kfZCiSWhAYKdxD7o7WLoa"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
-        "name": "You Spin Me Round (Like A Record)",
-        "url": "https://open.spotify.com/album/6GnNXKouBmoElIbpAZYnGG"
-      },
-      "artists": [
-        {
-          "name": "Marc Korn",
-          "url": "https://open.spotify.com/artist/2ds47hSr82tLZR2kS5aNdt"
-        }
-      ],
-      "duration_ms": 176744,
-      "name": "You Spin Me Round (Like A Record) - Radio Edit",
-      "url": "https://open.spotify.com/track/5zdbSrKdmK9qDTkqzidcN7"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -447,26 +447,6 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Electricity",
-        "url": "https://open.spotify.com/album/0sh0aEIH7aK0d0sqdYiE6H"
-      },
-      "artists": [
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 160704,
-      "name": "Electricity",
-      "url": "https://open.spotify.com/track/1Rz3Xw2qOsRncTVajZR3cY"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
         "name": "L'amour Toujours",
         "url": "https://open.spotify.com/album/5XoyPNLakrTcLUclTZdLFk"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 174960,
       "name": "1001 Arabian Nights",
       "url": "https://open.spotify.com/track/3YmiKv5z67ZV8tiW1eNHCM"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
+        "name": "Electricity",
+        "url": "https://open.spotify.com/album/0sh0aEIH7aK0d0sqdYiE6H"
+      },
+      "artists": [
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 160704,
+      "name": "Electricity",
+      "url": "https://open.spotify.com/track/1Rz3Xw2qOsRncTVajZR3cY"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "I Don't Wanna Go",
-        "url": "https://open.spotify.com/album/5CuH8Ljl0rFq32hJPJLJCf"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        }
-      ],
-      "duration_ms": 186480,
-      "name": "I Don't Wanna Go",
-      "url": "https://open.spotify.com/track/5RQmbhnkrt6llPrxqRsym4"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
         "name": "Infinite Icon",
         "url": "https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx"
       },
@@ -747,22 +731,18 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Everybody Cries",
-        "url": "https://open.spotify.com/album/22UkULGN9jMQruUx7wHBSu"
+        "name": "I Don't Wanna Go",
+        "url": "https://open.spotify.com/album/5CuH8Ljl0rFq32hJPJLJCf"
       },
       "artists": [
         {
-          "name": "Cleez",
-          "url": "https://open.spotify.com/artist/5YPawz3wh4RMf032MsIJq8"
-        },
-        {
-          "name": "R.I.O.",
-          "url": "https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj"
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
         }
       ],
-      "duration_ms": 170662,
-      "name": "Everybody Cries",
-      "url": "https://open.spotify.com/track/2loc1fUXmJr8urMqhZOKJ8"
+      "duration_ms": 186480,
+      "name": "I Don't Wanna Go",
+      "url": "https://open.spotify.com/track/5RQmbhnkrt6llPrxqRsym4"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -787,18 +767,22 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "One In A Million",
-        "url": "https://open.spotify.com/album/7Ag8oU7nc3fjRB2567eN1f"
+        "name": "Everybody Cries",
+        "url": "https://open.spotify.com/album/22UkULGN9jMQruUx7wHBSu"
       },
       "artists": [
         {
-          "name": "LANN\u00c9",
-          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
+          "name": "Cleez",
+          "url": "https://open.spotify.com/artist/5YPawz3wh4RMf032MsIJq8"
+        },
+        {
+          "name": "R.I.O.",
+          "url": "https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj"
         }
       ],
-      "duration_ms": 128951,
-      "name": "One In A Million",
-      "url": "https://open.spotify.com/track/18bNlfQ64iSkaSeye4IGHw"
+      "duration_ms": 170662,
+      "name": "Everybody Cries",
+      "url": "https://open.spotify.com/track/2loc1fUXmJr8urMqhZOKJ8"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -823,22 +807,18 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "It's A Hard Knock Life (Prezioso Remix)",
-        "url": "https://open.spotify.com/album/6SNomlenerzizegZNU4yoU"
+        "name": "One In A Million",
+        "url": "https://open.spotify.com/album/7Ag8oU7nc3fjRB2567eN1f"
       },
       "artists": [
         {
-          "name": "D.T.E",
-          "url": "https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q"
-        },
-        {
-          "name": "Prezioso",
-          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+          "name": "LANN\u00c9",
+          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
         }
       ],
-      "duration_ms": 149788,
-      "name": "It's A Hard Knock Life - Prezioso Remix",
-      "url": "https://open.spotify.com/track/2ibx46fwgGe3u2pirSgjj7"
+      "duration_ms": 128951,
+      "name": "One In A Million",
+      "url": "https://open.spotify.com/track/18bNlfQ64iSkaSeye4IGHw"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -859,6 +839,26 @@
       "duration_ms": 143906,
       "name": "Baby Steps",
       "url": "https://open.spotify.com/track/2omzZ5Edn2sMpQxvARgbwj"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
+        "name": "It's A Hard Knock Life (Prezioso Remix)",
+        "url": "https://open.spotify.com/album/6SNomlenerzizegZNU4yoU"
+      },
+      "artists": [
+        {
+          "name": "D.T.E",
+          "url": "https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q"
+        },
+        {
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+        }
+      ],
+      "duration_ms": 149788,
+      "name": "It's A Hard Knock Life - Prezioso Remix",
+      "url": "https://open.spotify.com/track/2ibx46fwgGe3u2pirSgjj7"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -923,30 +923,6 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Alone Again (feat. PollyAnna)",
-        "url": "https://open.spotify.com/album/4C37xotyTsiNmWBppkv6cO"
-      },
-      "artists": [
-        {
-          "name": "Yves V",
-          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
-        },
-        {
-          "name": "SESA",
-          "url": "https://open.spotify.com/artist/7HgOnmGGMNtNOzo6Rbs1fQ"
-        },
-        {
-          "name": "PollyAnna",
-          "url": "https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL"
-        }
-      ],
-      "duration_ms": 157560,
-      "name": "Alone Again (feat. PollyAnna)",
-      "url": "https://open.spotify.com/track/1xqbdoQipgmgFnGpCAtfrz"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
         "name": "Outta Love",
         "url": "https://open.spotify.com/album/59FlDwNsfaskGibimitsIm"
       },
@@ -979,6 +955,30 @@
       "duration_ms": 171028,
       "name": "She Wolf (Falling to Pieces)",
       "url": "https://open.spotify.com/track/0hr1uftboYFqgJadb7ecML"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
+        "name": "Alone Again (feat. PollyAnna)",
+        "url": "https://open.spotify.com/album/4C37xotyTsiNmWBppkv6cO"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "SESA",
+          "url": "https://open.spotify.com/artist/7HgOnmGGMNtNOzo6Rbs1fQ"
+        },
+        {
+          "name": "PollyAnna",
+          "url": "https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL"
+        }
+      ],
+      "duration_ms": 157560,
+      "name": "Alone Again (feat. PollyAnna)",
+      "url": "https://open.spotify.com/track/1xqbdoQipgmgFnGpCAtfrz"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw"
-      },
-      "artists": [
-        {
-          "name": "MNI",
-          "url": "https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma"
-        },
-        {
-          "name": "Jordan Shaw",
-          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
-        }
-      ],
-      "duration_ms": 167380,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/2TSQFv7xX0IDqibKup1CyH"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 130000,
       "name": "Loco",
       "url": "https://open.spotify.com/track/4YBjClI5wybymYzEs5jjlP"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw"
+      },
+      "artists": [
+        {
+          "name": "MNI",
+          "url": "https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+        }
+      ],
+      "duration_ms": 167380,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
     },
     {
       "added_at": "2025-02-14 16:04:15",

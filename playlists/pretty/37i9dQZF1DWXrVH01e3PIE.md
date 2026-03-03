@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > Lil Troca, Lucho SSJ & C.R.O en la casa del Trap Argentino
 
-[Spotify](https://open.spotify.com/user/spotify) - 637,075 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 637,048 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 79 | [Demonia](https://open.spotify.com/track/5EPoBhzd687s1e55055EyM) | [Awesome Pierre](https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Demonia](https://open.spotify.com/album/1ezhVbyFCLiVAHDBf046e6) | 2:50 |
 | 80 | [Por Qué Opinan???](https://open.spotify.com/track/5MXahWqOOaFso77EFXAiOG) | [Matias Fisher](https://open.spotify.com/artist/1ZAKCwVwJeKtjVQtzm76kd), [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg) | [Por Qué Opinan???](https://open.spotify.com/album/123jQ8EAW1Wslpj5b0r0wu) | 2:35 |
 | 81 | [OA](https://open.spotify.com/track/1Z6R8thZ0U59hmsKlgBYKt) | [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A), [Sixto Yegros](https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs), [Distobal](https://open.spotify.com/artist/2fbx2ZUJ47fJKCT3RKDEWD) | [i](https://open.spotify.com/album/7KW0OlgRwYut6qP2FEupTc) | 2:31 |
-| 82 | [FREEBARS \#3](https://open.spotify.com/track/704sCiLlE5FjPm3d4Gwxqt) | [Matias Fisher](https://open.spotify.com/artist/1ZAKCwVwJeKtjVQtzm76kd) | [Trece](https://open.spotify.com/album/2WvPZwDVFO1r87hmaOWOP0) | 2:24 |
+| 82 | [FREEBARS \#3](https://open.spotify.com/track/704sCiLlE5FjPm3d4Gwxqt) | [Matias Fisher](https://open.spotify.com/artist/1ZAKCwVwJeKtjVQtzm76kd), [Santiago Ibarra](https://open.spotify.com/artist/0GdhrNbXSn4TOvqinRC076) | [Trece](https://open.spotify.com/album/2WvPZwDVFO1r87hmaOWOP0) | 2:24 |
 | 83 | [MOLY](https://open.spotify.com/track/5y6Og9OS4zZv8G6a57zfcO) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [kerse](https://open.spotify.com/artist/6iz6r1o9PKEXp845ZQ1Tgx) | [MOLY](https://open.spotify.com/album/5pHPBVeDljoGm8bInIBa67) | 2:30 |
 | 84 | [Oreo de Fresa](https://open.spotify.com/track/0cG9750fXdoi8xEdIa3jtZ) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Oreo de Fresa](https://open.spotify.com/album/7mZZliPH0SWI2qPuCQHD0Y) | 2:19 |
 | 85 | [S.O.S](https://open.spotify.com/track/0DDXL4wNNUXuz4RHUn0EJ3) | [ill quentin](https://open.spotify.com/artist/26TC05Yq727xEWV77nRinH), [Leston](https://open.spotify.com/artist/5vU7O06Mto29k2V4oBBbDZ), [Underaiki](https://open.spotify.com/artist/55IzEzlyUcBFqGgyam2Seo), [Clúster](https://open.spotify.com/artist/77T5XlEwCRjlmRIioW5OXB) | [S.O.S](https://open.spotify.com/album/7BMiJw94UFIYi7UwwFX0f9) | 3:09 |

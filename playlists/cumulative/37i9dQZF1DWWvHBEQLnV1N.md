@@ -4,7 +4,7 @@
 
 > Festive season staples and new holiday favourites 🎁
 
-201 songs - 10 hr 45 min
+202 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Candy Cane Lane](https://open.spotify.com/track/1NfNdnuFbTgYpRG0z5bHxv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas](https://open.spotify.com/album/0DB01cPUt66gHPLL1JcdQq) | 3:32 | 2021-12-17 | 2022-07-29 |
 | [Candy Cane Lane](https://open.spotify.com/track/30zIce403OZZWUYJyIYxyD) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Christmas Pop](https://open.spotify.com/album/3pzNMq3J915E8QbPc9i2yz) | 3:32 | 2022-10-28 | 2022-11-13 |
 | [Candy Cane Lane](https://open.spotify.com/track/4KevTcBXEIYxXVyPE78XXm) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:32 | 2021-12-17 |  |
+| [Celebrate Me Home](https://open.spotify.com/track/4rVUzCFmxDor43ORzBKHcx) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Celebrate Me Home](https://open.spotify.com/album/4Zt3jkBQHa5gMiZL95xbaB) | 3:53 | 2025-12-04 |  |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/47ohYW8e7dxCYn9qbUMBCI) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [Christmas \(Baby, Please Come Home\)](https://open.spotify.com/album/3miX7IkmfMBJhQejq5rsA6) | 2:46 | 2023-10-27 |  |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/5ZfbW6bwH6bKlsCxpokq8c) | [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/65tqSjNgKWt07bpkHYlPag) | 2:30 | 2021-12-17 | 2022-07-29 |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/5g8xcC8CR9RcepQXXQuhOc) | [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Winter Hits 2020](https://open.spotify.com/album/0qRSDaPX2vRkVVENvqpa28) | 2:30 | 2022-10-28 | 2022-11-13 |
@@ -156,7 +157,7 @@
 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/013OtfiI9W3qO3dGwte8hv) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [World's Best Christmas Playlist 2023](https://open.spotify.com/album/3UOI7eKPTkMGC4JWJiVuRn) | 2:31 | 2022-12-16 | 2023-10-28 |
 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/24bMh8AF6XZsklVgnHwlrP) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 2:31 | 2021-12-17 | 2023-06-10 |
 | [Run Rudolph Run \- Spotify Singles Holiday](https://open.spotify.com/track/6pheMGrfMwwnypqafU7d4k) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Run Rudolph Run \- Spotify Singles Holiday](https://open.spotify.com/album/1pSxnWkixgHxo9jnGK66nb) | 2:35 | 2024-12-06 |  |
-| [Santa Baby](https://open.spotify.com/track/0cM5URUqqQTpJWonmdzF1J) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [A Kylie Christmas](https://open.spotify.com/album/0D0L0pzNy8gu9d1jXbridR) | 3:22 | 2021-12-17 |  |
+| [Santa Baby](https://open.spotify.com/track/0cM5URUqqQTpJWonmdzF1J) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [A Kylie Christmas](https://open.spotify.com/album/0D0L0pzNy8gu9d1jXbridR) | 3:22 | 2021-12-17 | 2026-03-03 |
 | [Santa Claus Is Comin' To Town](https://open.spotify.com/track/3WenabAYCnkf3AKEjukQhY) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Merry Christmas Baby](https://open.spotify.com/album/3rlxuugpyJG4hIWVO91UeC) | 2:56 | 2023-10-27 | 2025-12-05 |
 | [Santa Claus Is Comin' to Town \- Live at C.W\. Post College, Greenvale, NY \- December 1975](https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Santa Claus Is Comin' to Town \(Live at C.W\. Post College, Greenvale, NY \- December 1975\)](https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ) | 4:27 | 2023-10-27 |  |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/012mGdSYIBEmERuScm2iOl) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Number 1's](https://open.spotify.com/album/4UvvfXA7W1IHzBaUCaRj2k) | 2:23 | 2021-12-17 | 2022-07-29 |

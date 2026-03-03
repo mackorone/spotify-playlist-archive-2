@@ -4,7 +4,7 @@
 
 > Tierra linda que siempre sueño, y que muy dentro llevo\. Ciudad de Monterrey ♥️
 
-409 songs - 23 hr 52 min
+410 songs - 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Compréndala](https://open.spotify.com/track/1hoWZj7mw3khkTYobkDgcM) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Se Quitan El Sombrero](https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz) | 3:26 | 2025-06-17 | 2025-11-10 |
 | [Contigo Tengo Todo](https://open.spotify.com/track/6Bg1q5anwMP5SWjygN9yUt) | [Javier Lopez y los Reyes Vallenatos](https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO) | [Versiones Unicas de los Reyes](https://open.spotify.com/album/5hm1RWrfhuyfltmRfdk0Zj) | 4:39 | 2023-06-16 | 2024-07-03 |
 | [Continental](https://open.spotify.com/track/4ZawkW77BlnpIRMfy2Ur0I) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Continental](https://open.spotify.com/album/7sruuQX41NKTVl5kAzp5ME) | 3:24 | 2025-11-09 |  |
+| [Cuando](https://open.spotify.com/track/2cXNJ4MCHKqbN3Q7YAUscL) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [Cuando](https://open.spotify.com/album/1Jgf8NRmChspT9LHmySR9D) | 2:50 | 2025-11-09 |  |
 | [Cuando Lo Negro Sea Bello](https://open.spotify.com/track/6RNaww08bvsfCbE95pZkzh) | [Andres Landero Y Su Conjunto](https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4) | [Éxitos Andrés Landero](https://open.spotify.com/album/3r1DwWNf3WIFGAvXF38p3a) | 3:09 | 2023-11-08 | 2025-06-18 |
 | [CUANDO NADIE LA VE](https://open.spotify.com/track/2UWESgzYXfiraEusfJbFem) | [Bohemio](https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [CUANDO NADIE LA VE](https://open.spotify.com/album/3eocAlRtj5bR8ogB2TaSsQ) | 2:26 | 2025-11-09 |  |
 | [Cuando Nadie Te Quiera](https://open.spotify.com/track/4cqK9ZrhqmpTuL1HcMRIhJ) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Cariño Santo](https://open.spotify.com/album/5tM5pcfCxtVoX9mquV1Ruo) | 3:20 | 2023-06-16 | 2025-11-10 |
@@ -169,7 +170,7 @@
 | [Fanny](https://open.spotify.com/track/684lurkv01qxJbEt6oGM5I) | [Vallenatos De La Cumbia](https://open.spotify.com/artist/5t77bXrErzIDWoU6cHwdEX) | [Por El Mundo](https://open.spotify.com/album/6t0JkXAwiSnIamjMWUDAwx) | 3:54 | 2023-06-16 | 2024-04-19 |
 | [Fantasma](https://open.spotify.com/track/137YnCNlEhEOyE5opLTj3f) | [Rocko Paez](https://open.spotify.com/artist/1zFPc155enhXpQFBxMpxkd), [Los Rolling Ruanas](https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3) | [Fantasma](https://open.spotify.com/album/51jlsaM0JQ5rksqkiWFtOH) | 3:12 | 2023-06-16 | 2024-01-01 |
 | [FIESTA EN SAN BENITO](https://open.spotify.com/track/0C5ZFYo2nhehqoT7WL1Qwl) | [INSPIRACION COLOMBIANA](https://open.spotify.com/artist/6aDQPhm289KjJHzU0TvaVA) | [FIESTA EN SAN BENITO](https://open.spotify.com/album/23XVhcVREUNB90qeQ7USHM) | 4:24 | 2023-06-16 | 2024-07-03 |
-| [Fin de Semana](https://open.spotify.com/track/5AzSus4mqRMRDmYhauyuoJ) | [Sam Vazquez](https://open.spotify.com/artist/3k684W4rJtfWKNkUZIhuAq) | [Fin de Semana](https://open.spotify.com/album/1wJxRk4iEuZSNorEMBNEL6) | 3:28 | 2025-11-09 |  |
+| [Fin de Semana](https://open.spotify.com/track/5AzSus4mqRMRDmYhauyuoJ) | [Sam Vazquez](https://open.spotify.com/artist/3k684W4rJtfWKNkUZIhuAq) | [Fin de Semana](https://open.spotify.com/album/1wJxRk4iEuZSNorEMBNEL6) | 3:28 | 2025-11-09 | 2026-03-03 |
 | [FLY](https://open.spotify.com/track/1a5WgyJGBtzJ0OBFoXKIX5) | [EL DE LA TINTA](https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv), [Sahir Montoya](https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX) | [FLY](https://open.spotify.com/album/1NilX1chtaC7yG4xSbo1Wp) | 2:58 | 2025-11-09 | 2026-01-15 |
 | [Frankenstein](https://open.spotify.com/track/36PohdVK26LGhiRAszkhlz) | [Fievre Looka](https://open.spotify.com/artist/0CDFocAKVNgMrgKnQXW7Fd), [El Pega Pega de Emilio Reyna](https://open.spotify.com/artist/0x52e0YL0cI2UXC6w3C630) | [Frankenstein](https://open.spotify.com/album/24z06534xOi8prCaxFzu9P) | 3:46 | 2023-11-08 | 2024-07-03 |
 | [Fue un Amor de Verdad](https://open.spotify.com/track/3PlfAEUT7kBr22ZWxel7gs) | [La Decision Vallenata](https://open.spotify.com/artist/2nq9fv5SnxhXMiRrS3zPSC) | [Fue un Amor de Verdad](https://open.spotify.com/album/6ezSwQtQ43aZ90CCLgvCLI) | 4:26 | 2023-11-08 | 2024-07-03 |

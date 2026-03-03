@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Aku Jeje
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,284 likes - 106 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,287 likes - 106 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Melati](https://open.spotify.com/track/4koI5WbXEXwrO2dhbfErvS) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Melati](https://open.spotify.com/album/5m0VWZtQpAYtYdnZLh7R4d) | 2:56 |
 | 2 | [Katanya Cinta](https://open.spotify.com/track/25AtsoduN0s9k7C19rOORe) | [Sisca Saras](https://open.spotify.com/artist/2EB26dHYlQMV3VhPWQEJ7p) | [Katanya Cinta](https://open.spotify.com/album/2o9Z0Y4j9rfg6VgycAhUez) | 3:47 |
-| 3 | [Kini](https://open.spotify.com/track/751Bz5vVIURh0R5tafZ2L1) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [KIM](https://open.spotify.com/artist/1ltPgn4r3rgK3NcpJZScIp), [Neida](https://open.spotify.com/artist/6B19mPGcc9M5LmRwJLVhys) | [Yovie and His Friends: Kini & Selamanya](https://open.spotify.com/album/431WArkt1kXceTtCPmtnrQ) | 3:25 |
+| 3 | [Kini](https://open.spotify.com/track/751Bz5vVIURh0R5tafZ2L1) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [KIM](https://open.spotify.com/artist/1ltPgn4r3rgK3NcpJZScIp), [Neida](https://open.spotify.com/artist/6pXFLqoZMjMxHMwrNuueoW) | [Yovie and His Friends: Kini & Selamanya](https://open.spotify.com/album/431WArkt1kXceTtCPmtnrQ) | 3:25 |
 | 4 | [Jantung Samudra \(Haya \- Nyi Roro Kidul Theme Song\)](https://open.spotify.com/track/3eTukrKJBaJZMemLVRycwJ) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX), [Honor of Kings Indonesia](https://open.spotify.com/artist/5aXtu4HI1PMk7Wqwm70lvh) | [Jantung Samudra](https://open.spotify.com/album/0zFdnteznJblNnXZhi71mn) | 3:21 |
 | 5 | [PEPATAH \(Perantau Pantang Menyerah\)](https://open.spotify.com/track/5npmNVwv1aDEUGXh4XQGoo) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [PEPATAH \(Perantau Pantang Menyerah\)](https://open.spotify.com/album/2uveD0xqni46XNiKrQiclW) | 4:05 |
 | 6 | [Sakit](https://open.spotify.com/track/4sHwSlRHBKq6zZLbTOXgLK) | [Alyssa Ananta](https://open.spotify.com/artist/6NICadVvMOgzbKHxTCFR0r) | [Sakit](https://open.spotify.com/album/6vVsuRsKvTdqTUMpgT4wbx) | 4:17 |

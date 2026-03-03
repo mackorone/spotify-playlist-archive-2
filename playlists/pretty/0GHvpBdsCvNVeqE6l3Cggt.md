@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,298 likes - 45 songs - 2 hr 56 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,298 likes - 48 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,5 +53,8 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 43 | [Lemon](https://open.spotify.com/track/7ywKkwyLL7MoswdS2fpf63) | [Unknown Nobody](https://open.spotify.com/artist/0RkY31biYqddsRYUZ5AEhH) | [Kitschmarkt](https://open.spotify.com/album/6o6APiZPrkdwOHcnFV859C) | 3:21 |
 | 44 | [Right Here Right Now \- Radio Mix](https://open.spotify.com/track/2aDCVvBHmCN46qrSsFhV1r) | [VB](https://open.spotify.com/artist/6bWH9AGbutBmdCkMbwJDjq) | [Right Here Right Now](https://open.spotify.com/album/1Wf2NUnnQIWkITTef2QngQ) | 2:33 |
 | 45 | [Like a River in a Storm](https://open.spotify.com/track/7FxhX5BKum3TVi3ON0IBgt) | [LeLore](https://open.spotify.com/artist/0Lui3cCsiAznp6iYOemK1U), [A.C.C.](https://open.spotify.com/artist/60HIwZ2n7gFMDB77rLfAYH) | [Like a River in a Storm](https://open.spotify.com/album/36FBHzTI9taLfxzFSC2JEg) | 3:13 |
+| 46 | [TimeCrime](https://open.spotify.com/track/1WElW0gy1V24q1fBgpkY2t) | [ANGELO](https://open.spotify.com/artist/6TDcDHUYcKAmqdabRHToIG) | [TimeCrime](https://open.spotify.com/album/5yY39wwz23Q12w97VdlwKY) | 3:34 |
+| 47 | [Faded photographs](https://open.spotify.com/track/1vMsBtdVxFHYHYStZJVQHt) | [Body Talk](https://open.spotify.com/artist/0T4kP9IyFYuI7fRBqQ58EJ) | [Faded photographs](https://open.spotify.com/album/2T3cj8XZ12Mpoxz8ZObbur) | 3:35 |
+| 48 | [Límite](https://open.spotify.com/track/7jVQXWrwoQq9lOQpGXlJRv) | [Javzye](https://open.spotify.com/artist/1AM71cIOWu0sM8D6yju4xX) | [Límite](https://open.spotify.com/album/3nxdgNuSPdm0oibOiS1J4d) | 2:48 |
 
-Snapshot ID: `AAAj91aLWsZhT4UPnBDjFZNoLoXtUVhI`
+Snapshot ID: `AAAj+lUq2464/IsW2uUC+ze8g+WZ7HnI`

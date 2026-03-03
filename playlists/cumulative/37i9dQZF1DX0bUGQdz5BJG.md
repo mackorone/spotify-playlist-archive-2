@@ -4,7 +4,7 @@
 
 > Your ears on the ground in Music City\. Cover: Mackenzie Carpenter
 
-3,831 songs - 8 day 13 hr 29 min
+3,832 songs - 8 day 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2730,6 +2730,7 @@
 | [Round Here No More](https://open.spotify.com/track/0WXFicFJtKlGWgCGoZgQYZ) | [The Tuten Brothers](https://open.spotify.com/artist/1SKdnfGF5KypZsRJCb7M7h) | [Round Here No More](https://open.spotify.com/album/14yj5RVPueaa6Y8qPynqha) | 3:26 | 2022-12-02 | 2023-03-04 |
 | [RSVP](https://open.spotify.com/track/0OsNG7uCcM23PfxOcJqwKx) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi), [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [RSVP](https://open.spotify.com/album/08QbTZ27CNzIGQZOg3gJAK) | 2:42 | 2022-10-28 | 2023-02-18 |
 | [Rub A Little Dirt On It](https://open.spotify.com/track/5bY9b9fpvjI0qxFaBbY59Q) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Rub A Little Dirt On It](https://open.spotify.com/album/2YrqT4unDLB3Pu1ytCoEHV) | 2:44 | 2022-09-09 | 2022-11-05 |
+| [Rules of Attraction](https://open.spotify.com/track/0RJfRvJLV9thzI5xZmhO3H) | [Alex Lambert](https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN) | [Rules of Attraction](https://open.spotify.com/album/1HVZMjEvT824hyFGS6vlpy) | 3:24 | 2026-03-02 |  |
 | [Rules Of Breaking Up](https://open.spotify.com/track/727W0shoYYI3WF99t8mQGw) | [Hudson Rose](https://open.spotify.com/artist/2OVd5jsVZnxyb1jI35yDEX) | [Rules Of Breaking Up](https://open.spotify.com/album/64c9W9o2ZUIJOY3sCNtAjR) | 3:35 | 2023-09-22 | 2024-02-17 |
 | [Run](https://open.spotify.com/track/2L5PDiJ5rY42X4Nn3OGCfZ) | [Carson Wallace](https://open.spotify.com/artist/7a8gQGuEPK8XmHhK8tWkFF) | [Run](https://open.spotify.com/album/2XCOacpeowwJBr7aaz7rZX) | 2:53 | 2025-01-24 | 2025-04-12 |
 | [Run](https://open.spotify.com/track/0OvR1iYRUwrsSwu6Zli9iz) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Run](https://open.spotify.com/album/7dN3NasZNSsCD8OdH08oua) | 3:32 | 2022-01-07 | 2022-01-29 |
@@ -2844,7 +2845,7 @@
 | [Shine](https://open.spotify.com/track/1391pTC3PlDqAWZTNUkdPc) | [Frankie Ballard](https://open.spotify.com/artist/0dvKgSdNB2U1gfp6ZcekYi) | [The Messenger](https://open.spotify.com/album/70od9008rtHk29AYSgp24n) | 2:41 | 2025-03-21 | 2025-07-05 |
 | [Shirley Temple](https://open.spotify.com/track/0WjwCzxoqbxUPv9ia2PXi1) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [Introducing: Lauren Watkins](https://open.spotify.com/album/7xZb3Il98QIiag803YmofH) | 3:38 | 2023-05-05 | 2023-06-03 |
 | [Shirley Temple](https://open.spotify.com/track/12TmKdt6ZDVr2UzXSg6hjK) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [Introducing: Lauren Watkins](https://open.spotify.com/album/7HvWK6u6afgFbmOcKDQf1g) | 3:38 | 2023-04-14 | 2023-05-11 |
-| [Shoot Me Down](https://open.spotify.com/track/6HmRpeEz7bNsNNiiqVNc3g) | [Alex Lambert](https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN) | [Shoot Me Down](https://open.spotify.com/album/0FGEB9hiMGfthgP9r7wgEL) | 2:45 | 2026-01-16 |  |
+| [Shoot Me Down](https://open.spotify.com/track/6HmRpeEz7bNsNNiiqVNc3g) | [Alex Lambert](https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN) | [Shoot Me Down](https://open.spotify.com/album/0FGEB9hiMGfthgP9r7wgEL) | 2:45 | 2026-01-16 | 2026-03-03 |
 | [Shoot Tequila](https://open.spotify.com/track/6nTul7GTW3DInboBkJvvHw) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Shoot Tequila](https://open.spotify.com/album/6qm6WlvE5XIrFEoYTcKT2Q) | 3:13 | 2023-01-13 | 2023-02-11 |
 | [Shootin' Me Down](https://open.spotify.com/track/1FSgk75diCUOO5UTBOSv16) | [Jason Benoit](https://open.spotify.com/artist/0Xi32ldFYxsc4g2vQ7b20w) | [Time Traveller \- Side A](https://open.spotify.com/album/1doWfJeIMlRSvRbpx5iVRl) | 3:00 | 2022-04-29 | 2022-07-09 |
 | [Shot for Shot](https://open.spotify.com/track/5Mp8OxB5KHqZEhdZfnRmaV) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Shot for Shot](https://open.spotify.com/album/7isLF0S6c49aucr2gWgW6g) | 2:41 | 2025-06-27 | 2025-07-26 |

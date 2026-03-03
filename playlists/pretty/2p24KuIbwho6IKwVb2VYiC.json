@@ -1,12 +1,12 @@
 {
   "description": "The best Dance, House, Bass and EDM tracks right now, curated by <a href=\"https://www.instagram.com/nightvision/\">NIGHTVISION</a>!  Cover: Felix Cartal",
-  "num_followers": 21159,
+  "num_followers": 21157,
   "original_name": "ALL ACCESS DANCE",
   "owner": {
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAhUf2ikwdXH2QJpIJEVihfkmp+bSZr",
+  "snapshot_id": "AAAhU/fKqqsZ6Wzjt6IHH8dZ50cryLGw",
   "tracks": [
     {
       "added_at": "2026-02-21 17:44:14",
@@ -27,6 +27,26 @@
       "duration_ms": 243517,
       "name": "The Way",
       "url": "https://open.spotify.com/track/0NXwndCm4AUpMyvgr5LRzT"
+    },
+    {
+      "added_at": "2026-03-02 13:19:33",
+      "album": {
+        "name": "Opalite (Chris Lake Remix)",
+        "url": "https://open.spotify.com/album/1OioQUIAwZ6PE2V7UJUHX2"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "duration_ms": 228947,
+      "name": "Opalite - Chris Lake Remix",
+      "url": "https://open.spotify.com/track/0ttGLmxI0mAkMblE6iRm2S"
     },
     {
       "added_at": "2026-02-21 17:44:14",

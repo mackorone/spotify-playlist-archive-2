@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Go!. The essential tracks, all in one playlist.",
-  "num_followers": 24739,
+  "num_followers": 24770,
   "original_name": "This Is Danny Go!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaIwAAAAAAAAoaiFji2FYxQLovLKIUwt",
+  "snapshot_id": "aaOBgAAAAADJAYcTbeZpUaPF93AMAoDi",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Monkey Dance",
-        "url": "https://open.spotify.com/album/5IHb5jK2ej5WRvL88hfVs9"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 142168,
-      "name": "The Monkey Dance",
-      "url": "https://open.spotify.com/track/2CqFULRDTD6TGRTgEpEOxI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Animal Dance Game",
         "url": "https://open.spotify.com/album/1gBWrEqXqUh6KzWSDSDRGF"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 227613,
       "name": "The Animal Dance Game",
       "url": "https://open.spotify.com/track/7uK3on96wGPbnOQWPpRFz8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Monkey Dance",
+        "url": "https://open.spotify.com/album/5IHb5jK2ej5WRvL88hfVs9"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 142168,
+      "name": "The Monkey Dance",
+      "url": "https://open.spotify.com/track/2CqFULRDTD6TGRTgEpEOxI"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Stop Digging",
-        "url": "https://open.spotify.com/album/7eKVI4vDBcufHLJer1yyxy"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 245411,
-      "name": "Don't Stop Digging",
-      "url": "https://open.spotify.com/track/579J2fVS6Lw3ThTRrdSmnh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grocery Store DASH!",
         "url": "https://open.spotify.com/album/51yipUUQPWXDyvvxkn2tkP"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 286019,
       "name": "Grocery Store DASH! - Swipe and Scan",
       "url": "https://open.spotify.com/track/2ld6GcwMToKi6NpSA4urQF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Stop Digging",
+        "url": "https://open.spotify.com/album/7eKVI4vDBcufHLJer1yyxy"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 245411,
+      "name": "Don't Stop Digging",
+      "url": "https://open.spotify.com/track/579J2fVS6Lw3ThTRrdSmnh"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Color Dance",
-        "url": "https://open.spotify.com/album/1V3RbczTVUkoKPJ8Dk0U70"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 224390,
-      "name": "The Color Dance",
-      "url": "https://open.spotify.com/track/38V02vJaYwPImeFEGhRBAT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brand New Day (Good Morning Dance)",
         "url": "https://open.spotify.com/album/2ZqxJ0m0mJVw6KyA0hJYQb"
       },
@@ -651,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rabbit Turtle Rodeo",
-        "url": "https://open.spotify.com/album/3wHiRt7X5R2o2JnHXf1xAV"
+        "name": "The Color Dance",
+        "url": "https://open.spotify.com/album/1V3RbczTVUkoKPJ8Dk0U70"
       },
       "artists": [
         {
@@ -660,9 +644,9 @@
           "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
         }
       ],
-      "duration_ms": 238871,
-      "name": "Rabbit Turtle Rodeo",
-      "url": "https://open.spotify.com/track/4q0MbjZR7Aagh3IEEzCsxN"
+      "duration_ms": 224390,
+      "name": "The Color Dance",
+      "url": "https://open.spotify.com/track/38V02vJaYwPImeFEGhRBAT"
     },
     {
       "added_at": null,
@@ -679,6 +663,22 @@
       "duration_ms": 220687,
       "name": "Swab The Deck - Pirate Clean Up Song",
       "url": "https://open.spotify.com/track/3AThGve7ZzIiQ8NwLAIAIS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rabbit Turtle Rodeo",
+        "url": "https://open.spotify.com/album/3wHiRt7X5R2o2JnHXf1xAV"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 238871,
+      "name": "Rabbit Turtle Rodeo",
+      "url": "https://open.spotify.com/track/4q0MbjZR7Aagh3IEEzCsxN"
     },
     {
       "added_at": null,
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
         }
       ],
-      "duration_ms": 290250,
-      "name": "Apple-Pickin' Song - Lullaby Version",
-      "url": "https://open.spotify.com/track/0SwSh2OiuJaDXP79QFjaZv"
+      "duration_ms": 329705,
+      "name": "Slime Time - Lullaby Version",
+      "url": "https://open.spotify.com/track/5Y4VSzUPDpcgo8wrypzD1f"
     }
   ],
   "unique_name": "This Is Danny Go!",

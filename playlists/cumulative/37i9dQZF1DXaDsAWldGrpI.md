@@ -4,7 +4,7 @@
 
 > Your favorite artists, recorded live \- just like you were there! Cover: Eric Church
 
-230 songs - 16 hr 20 min
+231 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [No Horse To Ride \- Live From Boston](https://open.spotify.com/track/1LfvRCAx0kgP6cbpmArtel) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [No Horse To Ride \(Live From Boston\)](https://open.spotify.com/album/7ojhjADjKK2rqXSbao0pfp) | 3:46 | 2024-09-13 |  |
 | [No One Else On Earth \- Live](https://open.spotify.com/track/5dNlMKYjk6BsTEKrZX61mT) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [No One Else On Earth \(Live\)](https://open.spotify.com/album/62uaZ5wUlfUwMn7eEJ9v1G) | 4:44 | 2024-06-07 | 2024-07-06 |
 | [Nobody But You \(Duet with Gwen Stefani\) \- Live](https://open.spotify.com/track/3twoyaIBmqSyBkIxTQYl5m) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Nobody But You \(Duet with Gwen Stefani\) \[Live\]](https://open.spotify.com/album/28JOBmOhSs9ssOBgbxGTrp) | 3:30 | 2021-07-22 |  |
+| [Oh, Anna! \- Live from the Opry](https://open.spotify.com/track/2TvvudKzKJIhTPAjhTtfCo) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Oh, Anna! \(Live from the Opry\)](https://open.spotify.com/album/4DTQLzcwIych3iemPgt0li) | 4:24 | 2026-02-27 |  |
 | [Okie From Muskogee \- Live In Muskogee, Oklahoma/1969](https://open.spotify.com/track/4b65hP5xZvthkSTkCSJuVs) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Okie From Muskogee \(Live In Muskogee, Oklahoma/1969\)](https://open.spotify.com/album/2oQ0VRkbeYmrUXCjy1CPV6) | 4:08 | 2024-05-04 |  |
 | [Oklahoma Smokeshow \- Live](https://open.spotify.com/track/38L9BdfJKkWGwot9GWIXMz) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [All My Homies Hate Ticketmaster \(Live from Red Rocks\)](https://open.spotify.com/album/5hVCiOPye3IDJG4rbO44UH) | 3:33 | 2022-12-25 |  |
 | [Ol' Red \- Live](https://open.spotify.com/track/1tCBOvBBXD61UUlkIVhcWu) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Blake Shelton \(Live\)](https://open.spotify.com/album/2cOq8VHZtK23WbWfBeOZ2y) | 3:59 | 2021-07-22 | 2024-05-05 |
@@ -230,7 +231,7 @@
 | [Woman, Amen \- Live](https://open.spotify.com/track/5BCuz73OvAxzOQp54vWo85) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Live From Telluride](https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z) | 4:52 | 2021-07-22 |  |
 | [Wreckage \- Live](https://open.spotify.com/track/5zHB9D7aOex9INWtPJt1Kb) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Wreckage \(Live\)](https://open.spotify.com/album/0kfcUkCxICzTR7iO6owi9O) | 3:31 | 2023-03-31 | 2025-03-24 |
 | [Write This Down \- Live](https://open.spotify.com/track/5AP4NeswU941cNkFxeloME) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [For The Last Time](https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB) | 3:31 | 2021-07-22 |  |
-| [Written in the Sand \- Live](https://open.spotify.com/track/2VBLgWNbhskMSG4VR1VUxv) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Written in the Sand \(Live\)](https://open.spotify.com/album/7G3Dwbo16tc1GtxprZl1c2) | 3:16 | 2021-07-22 |  |
+| [Written in the Sand \- Live](https://open.spotify.com/track/2VBLgWNbhskMSG4VR1VUxv) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Written in the Sand \(Live\)](https://open.spotify.com/album/7G3Dwbo16tc1GtxprZl1c2) | 3:16 | 2021-07-22 | 2026-03-03 |
 | [You and Tequila \(with Grace Potter\) \- Live](https://open.spotify.com/track/42J7EbIglcJtzqeMSHD16P) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Live in No Shoes Nation](https://open.spotify.com/album/2njb3cHa1yhUMdu8PT2VhY) | 4:45 | 2021-07-22 |  |
 | [you don't deserve a country song \- Live from the Ryman](https://open.spotify.com/track/5L7WGjIElVTxfZ7gXYYeg0) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Alana Springsteen: Live from the Ryman](https://open.spotify.com/album/3lEZ56PjLi31aGcN3jQnk6) | 4:41 | 2025-01-25 | 2025-04-14 |
 | [You Get What You Give \- Live from the HIGH AND ALIVE WORLD TOUR](https://open.spotify.com/track/3G5OWChi7RlexYHqzWsn9I) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH AND A\(LIVE\)](https://open.spotify.com/album/1q6FBBTLay0BuSkMFgOVOL) | 3:08 | 2025-12-12 |  |

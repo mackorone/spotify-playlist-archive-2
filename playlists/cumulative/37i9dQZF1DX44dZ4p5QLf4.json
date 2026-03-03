@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hand-picked releases from the new wave in soul. Cover: EASY FREAK",
+  "description": "Hand-picked releases from the new wave in soul. Cover: Yas Mayou",
   "name": "Soul Currents",
   "tracks": [
     {
@@ -308,7 +308,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 178300,
       "name": "Always On Time",
       "url": "https://open.spotify.com/track/4JRbIsPdR4yCqbJWGZFbLp"
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 171570,
       "name": "Beneath Your Surface",
       "url": "https://open.spotify.com/track/5g4zXjdQeeGYqi101xw6hD"
@@ -1626,7 +1626,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 208000,
       "name": "Can We Do This Over",
       "url": "https://open.spotify.com/track/2xNO9VNXpvI84BzphjkYe4"
@@ -2522,7 +2522,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 240720,
       "name": "Decide",
       "url": "https://open.spotify.com/track/6EA60hnDibhTmqIgSzyJAH"
@@ -3110,6 +3110,24 @@
       "duration_ms": 176065,
       "name": "Feel",
       "url": "https://open.spotify.com/track/3iJf0dg0PGISj0ied0T0g0"
+    },
+    {
+      "album": {
+        "name": "Feeling Blue",
+        "url": "https://open.spotify.com/album/4SBXfE0Szlqg6nUO19tzzH"
+      },
+      "artists": [
+        {
+          "name": "Kyra",
+          "url": "https://open.spotify.com/artist/4IVDPbJrdHe1RQ4crCReBW"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194452,
+      "name": "Feeling Blue",
+      "url": "https://open.spotify.com/track/58CHDPWwZOaHi6YqNxNvnu"
     },
     {
       "album": {
@@ -4218,6 +4236,32 @@
       "duration_ms": 169748,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/7zzl5nLmPPkAwk2MRIUpa4"
+    },
+    {
+      "album": {
+        "name": "Helicopters",
+        "url": "https://open.spotify.com/album/53IVWLHnBwJ6KwpOAc5NRX"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        },
+        {
+          "name": "War Child Records",
+          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238086,
+      "name": "Helicopters",
+      "url": "https://open.spotify.com/track/2ofMsovltZ6Nn6wQz1ZphY"
     },
     {
       "album": {
@@ -5331,6 +5375,24 @@
     },
     {
       "album": {
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/60sT1U2Szh3fSlVTFrGWuS"
+      },
+      "artists": [
+        {
+          "name": "Julia Rebi\u00e8re",
+          "url": "https://open.spotify.com/artist/3yiyvhlHgefS4Flk1FUAGK"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205020,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/0Vzs2KjrNBx7xzAGZPvk5g"
+    },
+    {
+      "album": {
         "name": "Twenties (Deluxe)",
         "url": "https://open.spotify.com/album/4raCNKbdcE0tlyxl1g15fM"
       },
@@ -6106,7 +6168,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 133311,
       "name": "Lights On",
       "url": "https://open.spotify.com/track/54YpYbMmFgKqGJ2Zhibeph"
@@ -7340,7 +7402,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 197554,
       "name": "Music Never Looked So Good",
       "url": "https://open.spotify.com/track/30SSROjHo9udK1ko3cRm5a"
@@ -8054,7 +8116,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 228773,
       "name": "Package Delivered by Tomorrow",
       "url": "https://open.spotify.com/track/0x5CkJPcSu3uTQe0g1JnJW"
@@ -8076,7 +8138,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 140906,
       "name": "Paralyzed in Paradise",
       "url": "https://open.spotify.com/track/3DKepGvTJawKQo7QLWBMw3"
@@ -8328,6 +8390,24 @@
       "duration_ms": 253482,
       "name": "Poeira Cosmica",
       "url": "https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR"
+    },
+    {
+      "album": {
+        "name": "Pour Some More",
+        "url": "https://open.spotify.com/album/2GWRXNkOxM7otzMuhInBqF"
+      },
+      "artists": [
+        {
+          "name": "Yas Mayou",
+          "url": "https://open.spotify.com/artist/23tleadB20w0exvWcMYROK"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207455,
+      "name": "Pour Some More",
+      "url": "https://open.spotify.com/track/0FpWKANWyGMQku1LNLUO7a"
     },
     {
       "album": {
@@ -9807,6 +9887,28 @@
     },
     {
       "album": {
+        "name": "SOAP",
+        "url": "https://open.spotify.com/album/7LnaNERJs0GUwZvnHrxiQ9"
+      },
+      "artists": [
+        {
+          "name": "Lizzy",
+          "url": "https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO"
+        },
+        {
+          "name": "Mitchell Yard",
+          "url": "https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156750,
+      "name": "SOAP",
+      "url": "https://open.spotify.com/track/0SsQlBx10cCgIZIV2SH9wq"
+    },
+    {
+      "album": {
         "name": "Sock It 2 Me",
         "url": "https://open.spotify.com/album/3SkBB3iH6FtsIx2PxqtO35"
       },
@@ -10382,7 +10484,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 138666,
       "name": "SUN",
       "url": "https://open.spotify.com/track/0jGNYm72oVfKksSNtegn57"
@@ -11800,7 +11902,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 145173,
       "name": "Until the End",
       "url": "https://open.spotify.com/track/0LjJC9ng4HLCzGxSP04Yer"

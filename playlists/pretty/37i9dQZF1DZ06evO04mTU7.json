@@ -1,12 +1,12 @@
 {
   "description": "This is AJULLIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 13179,
+  "num_followers": 13196,
   "original_name": "This Is AJULLIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaIwAAAAAAAWHDDY3o5w1shKL1m+MHde",
+  "snapshot_id": "aaOBgAAAAADv+16JgUE6w1ozKJrvyy+k",
   "tracks": [
     {
       "added_at": null,
@@ -495,42 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Tipo de Garota",
-        "url": "https://open.spotify.com/album/7mnSOMErfK00QXnUnxxo6y"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 203352,
-      "name": "O Tipo de Garota",
-      "url": "https://open.spotify.com/track/2HdViad1em77egtiCxsNiW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Novo Testamento",
-        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Maffalda",
-          "url": "https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC"
-        }
-      ],
-      "duration_ms": 142624,
-      "name": "Pense como uma diva",
-      "url": "https://open.spotify.com/track/1Y2fWIYNY1faSU6Z7L6Mdo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SALA VERMELHA #03 - Ajuliacosta",
         "url": "https://open.spotify.com/album/6JoOqhMlvJwtRM8MFQPhrK"
       },
@@ -555,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AJU",
-        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
+        "name": "Novo Testamento",
+        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
       },
       "artists": [
         {
@@ -564,13 +528,29 @@
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         },
         {
-          "name": "iamlope$$",
-          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
+          "name": "Maffalda",
+          "url": "https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC"
         }
       ],
-      "duration_ms": 163934,
-      "name": "Marido de Bandida",
-      "url": "https://open.spotify.com/track/6qybczOKmJLTfomZrtD5fF"
+      "duration_ms": 142624,
+      "name": "Pense como uma diva",
+      "url": "https://open.spotify.com/track/1Y2fWIYNY1faSU6Z7L6Mdo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Tipo de Garota",
+        "url": "https://open.spotify.com/album/7mnSOMErfK00QXnUnxxo6y"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 203352,
+      "name": "O Tipo de Garota",
+      "url": "https://open.spotify.com/track/2HdViad1em77egtiCxsNiW"
     },
     {
       "added_at": null,
@@ -643,6 +623,26 @@
       "duration_ms": 1067860,
       "name": "Poetas no Topo 4",
       "url": "https://open.spotify.com/track/4w47dntseeMeuLPzFTKKB9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AJU",
+        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "iamlope$$",
+          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
+        }
+      ],
+      "duration_ms": 163934,
+      "name": "Marido de Bandida",
+      "url": "https://open.spotify.com/track/6qybczOKmJLTfomZrtD5fF"
     },
     {
       "added_at": null,

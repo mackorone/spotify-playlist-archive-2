@@ -4,7 +4,7 @@
 
 > Beyond titles, beyond genre\. Cover: Tom Misch
 
-822 songs - 1 day 23 hr 38 min
+824 songs - 1 day 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Cupid](https://open.spotify.com/track/3QIhVvfoBWr4X85530IMeB) | [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [Cupid](https://open.spotify.com/album/45f61grQtozDIhG3xFZ3Oo) | 1:57 | 2024-10-24 | 2025-02-14 |
 | [cutie](https://open.spotify.com/track/2HV5Eq0dvcTNM8ljvfdP6P) | [duendita](https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22) | [a strong desire to survive](https://open.spotify.com/album/2momaFzpQ643c1oj4GNKJC) | 4:39 | 2025-04-03 | 2025-06-13 |
 | [cutting grass](https://open.spotify.com/track/0ppaXTvuIgsCIEws6shvAX) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [cutting grass](https://open.spotify.com/album/7maQPrZw6mZViTmb2b9isU) | 5:10 | 2024-07-25 | 2024-09-06 |
+| [cuídame de mi](https://open.spotify.com/track/3rHnzhfozKEQ8p414MPW9F) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [i Music Listen](https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ) | 3:23 | 2026-02-27 |  |
 | [Cynical](https://open.spotify.com/track/3GyhbghKfFN3ekIZJcMbK0) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Cynical](https://open.spotify.com/album/2nhksn5HeM4MX0EGkSau3e) | 3:27 | 2024-11-01 | 2025-01-24 |
 | [Dafodil](https://open.spotify.com/track/6VVRLkRdr7EzgKTHzYZ1pa) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Dafodil](https://open.spotify.com/album/2lg6Q82rLglSMu4JkvnHDb) | 3:32 | 2024-08-29 | 2024-11-15 |
 | [Damascus \(feat\. Omar Souleyman and Yasiin Bey\)](https://open.spotify.com/track/5dpo5JIcLRrMbaSgTwjCl7) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK), [Yasiin Bey](https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH) | [Damascus \(feat\. Omar Souleyman and Yasiin Bey\)](https://open.spotify.com/album/4mOVYvAg2d2vBaTMqBc1ot) | 4:04 | 2025-12-12 |  |
@@ -271,7 +272,7 @@
 | [Girl](https://open.spotify.com/track/6N7u0W1wIBiANEvDvBD7lC) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Girl](https://open.spotify.com/album/29TdLg1fTzIS8taqkLky7B) | 3:37 | 2024-06-27 | 2024-07-05 |
 | [Girl Next Door](https://open.spotify.com/track/4TQCuMrqFArAVHbTgAt4GQ) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Girl Next Door](https://open.spotify.com/album/6CnHFu3tbthrXb5BpLkynw) | 2:33 | 2024-07-25 | 2024-11-08 |
 | [Give Me All Your Love](https://open.spotify.com/track/7fL1R1jVY8RfPIlilK9mSd) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Give Me All Your Love](https://open.spotify.com/album/57luneU6B0i2vcHsSAN1X6) | 3:20 | 2025-09-04 | 2025-12-05 |
-| [Glitter & Gold](https://open.spotify.com/track/0uFpWDyczrgNDQd93oZL7q) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Rock And A Hard Place](https://open.spotify.com/album/5Ptq4gERj9cnjyebShW7Sk) | 3:41 | 2026-02-20 |  |
+| [Glitter & Gold](https://open.spotify.com/track/0uFpWDyczrgNDQd93oZL7q) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Rock And A Hard Place](https://open.spotify.com/album/5Ptq4gERj9cnjyebShW7Sk) | 3:41 | 2026-02-20 | 2026-03-03 |
 | [Glu](https://open.spotify.com/track/1PLFWJz52Tt6SaAs6Srtmt) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Glu](https://open.spotify.com/album/0JW4jZeObDmFprj3mtxjkb) | 2:43 | 2024-09-27 | 2024-11-08 |
 | [Glum](https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Glum](https://open.spotify.com/album/4cVwrr3LtOc7GEJ4LHZEsk) | 3:11 | 2025-07-31 | 2025-10-17 |
 | [GO WRONG](https://open.spotify.com/track/0XSUBDTVqnOjDxHcy7DkwI) | [Monjola](https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6) | [GO WRONG](https://open.spotify.com/album/6m9VjN1FUvPVn9cK9Yp2po) | 2:44 | 2024-06-27 | 2024-08-09 |
@@ -308,6 +309,7 @@
 | [Heavy](https://open.spotify.com/track/280E4oT7TC7EcdPSDjJfJJ) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Heavy](https://open.spotify.com/album/28S4Y8KndNoY7jwPoqbXLa) | 3:49 | 2026-02-06 |  |
 | [Heavy Breathing](https://open.spotify.com/track/48ypBkodqpkAOWGscXFxOt) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Lead You To Water](https://open.spotify.com/album/3ZFPLkZGP9Wdbc5ZYC3zWn) | 3:35 | 2024-11-22 | 2025-01-24 |
 | [Heights](https://open.spotify.com/track/6fFJ6p5FqYalQDiBxw1TTS) | [Andrew Aged](https://open.spotify.com/artist/6MDHB1sd0dW7eI5weGsgTG) | [crown](https://open.spotify.com/album/4YBVLF2U6r5aKKi5so7Jah) | 4:13 | 2025-11-28 | 2025-12-05 |
+| [Helicopters](https://open.spotify.com/track/2ofMsovltZ6Nn6wQz1ZphY) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [Helicopters](https://open.spotify.com/album/53IVWLHnBwJ6KwpOAc5NRX) | 3:58 | 2026-02-27 |  |
 | [HERO](https://open.spotify.com/track/2gjEdzgJMgVaZBdRuIRVW5) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [HERO](https://open.spotify.com/album/3VqYEAjG9bMRh0WT6Yc4hL) | 3:58 | 2024-06-27 | 2024-07-12 |
 | [Hideaway](https://open.spotify.com/track/6whwQsAorYI2N8iFLWUhfb) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Light hit my face like a straight right](https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP) | 2:57 | 2025-02-14 | 2025-05-23 |
 | [High](https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [High](https://open.spotify.com/album/17dK6MH8raVzec5UJnA5PI) | 3:16 | 2024-08-08 | 2024-11-01 |
@@ -739,7 +741,7 @@
 | [Thru The Walls](https://open.spotify.com/track/24eBt88xdf3lX26Xx8hIuT) | [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [Thru The Walls](https://open.spotify.com/album/1yFpzQ5INHvowy3IvcDtM4) | 3:51 | 2024-10-24 | 2025-02-21 |
 | [Time](https://open.spotify.com/track/78Uo6eJIPkVo4Xw848NCN7) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Time](https://open.spotify.com/album/2PThgfv0kJYU5VxmOmbQjF) | 3:44 | 2024-06-27 | 2024-09-06 |
 | [time & time again](https://open.spotify.com/track/4j2wf2zy3TfUuRaaIg0ouk) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [time & time again](https://open.spotify.com/album/3lyZ9dbEXrGmqooCNsrFvu) | 2:46 | 2024-08-08 | 2024-08-16 |
-| [Time Time Time \(I'm in the Palm of Your Hand\)](https://open.spotify.com/track/02UC3kQj8XFMqW1oeVo9xD) | [Yndling](https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m) | [Time Time Time \(I'm in the Palm of Your Hand\)](https://open.spotify.com/album/0TR7apW2BNQZgnsqFa4KAG) | 3:30 | 2025-11-28 |  |
+| [Time Time Time \(I'm in the Palm of Your Hand\)](https://open.spotify.com/track/02UC3kQj8XFMqW1oeVo9xD) | [Yndling](https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m) | [Time Time Time \(I'm in the Palm of Your Hand\)](https://open.spotify.com/album/0TR7apW2BNQZgnsqFa4KAG) | 3:30 | 2025-11-28 | 2026-03-03 |
 | [time to go](https://open.spotify.com/track/6nmaIMf8pxfhcis6ptgxGB) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [time to go](https://open.spotify.com/album/4wK1EeHH2tYFoBKffEKL6p) | 3:29 | 2025-06-19 | 2025-08-15 |
 | [To Be Alright](https://open.spotify.com/track/2XQAoWy82t8LtVTpRKdepd) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [To Be Alright](https://open.spotify.com/album/4j8V43kmmEB6z8H6axjDcn) | 4:05 | 2024-06-27 | 2024-08-02 |
 | [To Kill a Single Girl \(Tequila\)](https://open.spotify.com/track/06Q3EYMkRjqe5K3lSKABtN) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [To Kill a Single Girl \(Tequila\)](https://open.spotify.com/album/4EmugwIjX1qX68hUfAT8Oz) | 3:34 | 2024-12-06 | 2025-03-21 |

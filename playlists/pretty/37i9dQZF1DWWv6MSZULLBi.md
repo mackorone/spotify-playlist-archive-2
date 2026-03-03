@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Donovan Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,150 likes - 149 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,141 likes - 149 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,450 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,494 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 7 | [Zara Zara \- MTV Unwind](https://open.spotify.com/track/6anGj4SX83j5DyG3aZOzqc) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa) | [Zara Zara \- MTV Unwind](https://open.spotify.com/album/2AQXHeeiHSxhptNmUZdwkU) | 3:28 |
 | 8 | [Inaam](https://open.spotify.com/track/52Zf1kNdojgRkkw39O6vwl) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Inaam](https://open.spotify.com/album/2c6wzrX9E7bdrY8UU4ISbL) | 4:17 |
 | 9 | [Le Aaunga \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/track/2cz4qH4fCauVA93JHkUMad) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Le Aaunga \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/album/55AiBuh1Ljke5dd9kEby1b) | 4:04 |
-| 10 | [Hum Tumhare \(Unplugged\)](https://open.spotify.com/track/7IPqXficRXT39hvn4XxC3h) | [Eric Wink](https://open.spotify.com/artist/7k2dC4sHlKjN52VppZRxUP), [Ashimita Sawhney](https://open.spotify.com/artist/3yUizU76QXuZcTydv0QpSC), [Saurabh Trivedi](https://open.spotify.com/artist/3bz6ZRvw3t4k0Oz72baGrk), [Ayush Dolas](https://open.spotify.com/artist/1TDK3rn1aqm7QmZfcJO4Mk) | [Hum Tumhare \(Unplugged\)](https://open.spotify.com/album/2MQY6QKCAZWcwAnUbU8CqJ) | 3:08 |
+| 10 | [Hum Tumhare \(Unplugged\)](https://open.spotify.com/track/7IPqXficRXT39hvn4XxC3h) | [Eric Wink](https://open.spotify.com/artist/7k2dC4sHlKjN52VppZRxUP), [Ashmita Sawhney](https://open.spotify.com/artist/3jBWQMUjWCdtay8h1QoeZe), [Saurabh Trivedi](https://open.spotify.com/artist/3bz6ZRvw3t4k0Oz72baGrk), [Ayush Dolas](https://open.spotify.com/artist/1TDK3rn1aqm7QmZfcJO4Mk) | [Hum Tumhare \(Unplugged\)](https://open.spotify.com/album/2MQY6QKCAZWcwAnUbU8CqJ) | 3:08 |
 | 11 | [Maula Mere](https://open.spotify.com/track/7ss3vPgVJ4TmIjdVdmjnvT) | [Amarabha Banerjee](https://open.spotify.com/artist/2780kFYuvbwSLPJZ5faEDw) | [Quiet Rooms](https://open.spotify.com/album/5pIoir24ghxEf4LPSFJPlj) | 4:08 |
 | 12 | [par ab kya?](https://open.spotify.com/track/5DkBFgvF1ECLLwB0ykfRiS) | [Harry Arora](https://open.spotify.com/artist/0Hv1cidXFr7vPUtWijAoMQ) | [par ab kya?](https://open.spotify.com/album/7Knpd0IXoLvUSXSqtdkdZQ) | 4:30 |
 | 13 | [Baat Itni Si Hai \- Unplugged](https://open.spotify.com/track/2xkyznh2fVteFDmWjUlZ9U) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baat Itni Si Hai \(Unplugged\)](https://open.spotify.com/album/0rjJuTIRRXK6KOv3UuUSvC) | 3:47 |

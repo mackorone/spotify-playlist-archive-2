@@ -4,7 +4,7 @@
 
 > und macht laune
 
-340 songs - 15 hr 47 min
+341 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [GLüüüHWeiNTanZ](https://open.spotify.com/track/5BvbY3jtXwbX6FtdoYEBaY) | [Lara Hulo](https://open.spotify.com/artist/7uIuNffVj9hfFYnh8r27P0) | [GLüüüHWeiNTanZ](https://open.spotify.com/album/4SCbtybr6Ag3NYG7lvgpoj) | 1:57 | 2025-12-11 | 2026-01-01 |
 | [Gyal You a Party Animal \- Sped Up](https://open.spotify.com/track/7sn9yeYbto2CZVunHV0mAr) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Gyal You a Party Animal \(Sped Up\)](https://open.spotify.com/album/0gE5oJEIhlavq8ocpiU1NU) | 2:40 | 2023-07-21 | 2023-09-07 |
 | [Hardcore Vibes](https://open.spotify.com/track/0yx5eBLk3AGOH5EruCqLDx) | [Dune](https://open.spotify.com/artist/4u78tFtzvcrrs8kzkXsW4r), [Froning](https://open.spotify.com/artist/4ZyOzd4u9Kg3B6Ny0NDyGd) | [Dune](https://open.spotify.com/album/5hAcH6CTDKGj43pMhp4iwR) | 3:33 | 2023-12-28 | 2024-01-02 |
+| [HARDTEKK ViBEZ](https://open.spotify.com/track/4iyREgqRt4HxipSQi92rk4) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [HARDTEKK ViBEZ](https://open.spotify.com/album/2J3BlBBVbXpRL3jaW099I0) | 2:06 | 2026-02-26 |  |
 | [Have You Ever Seen The Rain](https://open.spotify.com/track/1yzgMzhlFNdGAlL5Mopdoq) | [Outliers](https://open.spotify.com/artist/49D9GLjnzBcsaKiUByAMQL), [John Fogerty](https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t), [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Have You Ever Seen The Rain](https://open.spotify.com/album/5oDYNgWJJAzoqk5u5jZj8k) | 2:05 | 2025-06-17 |  |
 | [Head n' Shoulders, pt.II](https://open.spotify.com/track/7c5ne5Au1cXjV8YJY9spqa) | [Yc](https://open.spotify.com/artist/2F0M1eZ2BZFNFPCq3eKCtA), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Head n' Shoulders, pt.II](https://open.spotify.com/album/3GDJwHLrsp3XxytW5BEWGW) | 2:15 | 2024-12-09 | 2025-01-17 |
 | [Heart Sped Up \(BFF\)](https://open.spotify.com/track/1ywCn7d9mHQ8PROIIZdVGL) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ) | [Heart Sped Up \(BFF\)](https://open.spotify.com/album/2e1ZjtU3Dikrdpx21IzXSz) | 1:56 | 2024-06-11 | 2024-07-02 |
@@ -220,7 +221,7 @@
 | [Mockingbird](https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Mockingbird](https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg) | 2:34 | 2024-05-10 |  |
 | [Moment](https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ) | [Nicolas Binder](https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA) | [Moment](https://open.spotify.com/album/5l4IBxY3EZwenZLXqzFCDV) | 3:24 | 2023-07-21 |  |
 | [Mona Lisa Motion](https://open.spotify.com/track/18o2gKM9pMyEWWAT9ZaGvr) | [ZAH1DE](https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd) | [Mona Lisa Motion](https://open.spotify.com/album/5pFWfukC0k2EAdOhzEtDch) | 2:12 | 2025-04-10 | 2025-10-02 |
-| [MONEY ON THE DASH \- SPED UP](https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [MONEY ON THE DASH](https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd) | 1:56 | 2024-01-26 |  |
+| [MONEY ON THE DASH \- SPED UP](https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [MONEY ON THE DASH](https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd) | 1:56 | 2024-01-26 | 2026-03-03 |
 | [Motto](https://open.spotify.com/track/0yeFZfAw5Ua5JMon1v46GZ) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [Motto](https://open.spotify.com/album/279qpRKsE7c6mv0U3I3BGP) | 2:41 | 2026-01-23 |  |
 | [Move It](https://open.spotify.com/track/7F7G8FuCtggmPvs51E9fmN) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Move It](https://open.spotify.com/album/1IxDiKZoA2gGfoQMC3EJ4n) | 3:05 | 2023-10-03 | 2023-11-18 |
 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 | 2023-07-21 | 2023-12-12 |

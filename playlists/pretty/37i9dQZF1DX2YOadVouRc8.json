@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 45765,
+  "num_followers": 45784,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-02-27 00:01:25",
       "album": {
+        "name": "Loseyi Professor",
+        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 145002,
+      "name": "Lagos",
+      "url": "https://open.spotify.com/track/0YgAGCU3kDEMTvndL9u3Tw"
+    },
+    {
+      "added_at": "2026-02-27 00:01:25",
+      "album": {
         "name": "Blue Disco",
         "url": "https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 120612,
       "name": "Level Up",
       "url": "https://open.spotify.com/track/0puZ9jsTXM1fTlo16lNh2n"
-    },
-    {
-      "added_at": "2026-02-27 00:01:25",
-      "album": {
-        "name": "Loseyi Professor",
-        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 145002,
-      "name": "Lagos",
-      "url": "https://open.spotify.com/track/0YgAGCU3kDEMTvndL9u3Tw"
     },
     {
       "added_at": "2026-02-27 00:01:25",
@@ -855,6 +855,26 @@
     {
       "added_at": "2026-02-27 00:01:25",
       "album": {
+        "name": "Catapult",
+        "url": "https://open.spotify.com/album/3wggJeCAlQiFbx7LK7bHOb"
+      },
+      "artists": [
+        {
+          "name": "Strei",
+          "url": "https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g"
+        },
+        {
+          "name": "Dxtiny",
+          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Catapult",
+      "url": "https://open.spotify.com/track/1oWzy39dcfQk7NdRFwaN7Q"
+    },
+    {
+      "added_at": "2026-02-27 00:01:25",
+      "album": {
         "name": "Only Fans",
         "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 187037,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI"
-    },
-    {
-      "added_at": "2026-02-27 00:01:25",
-      "album": {
-        "name": "Catapult",
-        "url": "https://open.spotify.com/album/3wggJeCAlQiFbx7LK7bHOb"
-      },
-      "artists": [
-        {
-          "name": "Strei",
-          "url": "https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g"
-        },
-        {
-          "name": "Dxtiny",
-          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Catapult",
-      "url": "https://open.spotify.com/track/1oWzy39dcfQk7NdRFwaN7Q"
     },
     {
       "added_at": "2026-02-27 00:01:25",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2026-02-27 00:01:25",
       "album": {
-        "name": "On The Low",
-        "url": "https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 150783,
-      "name": "On The Low",
-      "url": "https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox"
-    },
-    {
-      "added_at": "2026-02-27 00:01:25",
-      "album": {
         "name": "US",
         "url": "https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X"
       },
@@ -1187,6 +1167,26 @@
     {
       "added_at": "2026-02-27 00:01:25",
       "album": {
+        "name": "On The Low",
+        "url": "https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 150783,
+      "name": "On The Low",
+      "url": "https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox"
+    },
+    {
+      "added_at": "2026-02-27 00:01:25",
+      "album": {
         "name": "London Summers",
         "url": "https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF"
       },
@@ -1199,22 +1199,6 @@
       "duration_ms": 217636,
       "name": "London Summers",
       "url": "https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn"
-    },
-    {
-      "added_at": "2026-02-27 00:01:25",
-      "album": {
-        "name": "I'm Available",
-        "url": "https://open.spotify.com/album/0ZHpEgfNlcyqDCqVTrkMZ8"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        }
-      ],
-      "duration_ms": 196530,
-      "name": "I'm Available",
-      "url": "https://open.spotify.com/track/0OBUEQiL8nzKcOg80cgGke"
     },
     {
       "added_at": "2026-02-27 00:01:25",
@@ -1235,6 +1219,22 @@
       "duration_ms": 212107,
       "name": "ecstasy",
       "url": "https://open.spotify.com/track/1hBvCXXnLsXwlS7Qx2xdAh"
+    },
+    {
+      "added_at": "2026-02-27 00:01:25",
+      "album": {
+        "name": "I'm Available",
+        "url": "https://open.spotify.com/album/0ZHpEgfNlcyqDCqVTrkMZ8"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "duration_ms": 196530,
+      "name": "I'm Available",
+      "url": "https://open.spotify.com/track/0OBUEQiL8nzKcOg80cgGke"
     },
     {
       "added_at": "2026-02-27 00:01:25",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-02-27 00:01:25",
       "album": {
+        "name": "Before We Became Strangers",
+        "url": "https://open.spotify.com/album/4eUmsqNGSbpaCJWnpQzCte"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Maj\u1eb9kaj\u00e1",
+      "url": "https://open.spotify.com/track/55pTjtdEONZz5e4la7WmBV"
+    },
+    {
+      "added_at": "2026-02-27 00:01:25",
+      "album": {
         "name": "Day n Nite",
         "url": "https://open.spotify.com/album/7GEMtBbc8egUdp071tDK0J"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 142204,
       "name": "Day n Nite",
       "url": "https://open.spotify.com/track/3oaXyruQamiow70ZPkLzx1"
-    },
-    {
-      "added_at": "2026-02-27 00:01:25",
-      "album": {
-        "name": "Before We Became Strangers",
-        "url": "https://open.spotify.com/album/4eUmsqNGSbpaCJWnpQzCte"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Maj\u1eb9kaj\u00e1",
-      "url": "https://open.spotify.com/track/55pTjtdEONZz5e4la7WmBV"
     },
     {
       "added_at": "2026-02-27 00:01:25",
@@ -1527,26 +1527,18 @@
     {
       "added_at": "2026-02-27 00:01:25",
       "album": {
-        "name": "My Shayla",
-        "url": "https://open.spotify.com/album/5QdAd20r4hhVvaLFyicr95"
+        "name": "E-Major",
+        "url": "https://open.spotify.com/album/3hHAePr1rCWX5ImgaEdPas"
       },
       "artists": [
         {
-          "name": "Mavins",
-          "url": "https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790"
-        },
-        {
-          "name": "Mbryo",
-          "url": "https://open.spotify.com/artist/3x9zvETvpbvSM8xL0pxyDy"
-        },
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+          "name": "VASA",
+          "url": "https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q"
         }
       ],
-      "duration_ms": 153500,
-      "name": "My Shayla",
-      "url": "https://open.spotify.com/track/2c0dnFPOisvOiWOCAzHhdZ"
+      "duration_ms": 168000,
+      "name": "E-Major",
+      "url": "https://open.spotify.com/track/2DQcw0LhHaTbg3JnMcV0O8"
     }
   ],
   "unique_name": "Afro Chill",

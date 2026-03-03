@@ -4,7 +4,7 @@
 
 > This is SOPHIE\. The essential tracks, all in one playlist.
 
-51 songs - 3 hr 6 min
+53 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Eeehhh](https://open.spotify.com/track/6tDPoIyvMNXeA597qtxDPN) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Nothing More to Say](https://open.spotify.com/album/3fwjJp5CzCfUQtXsMflbHi) | 4:41 | 2025-10-28 |  |
 | [Elegance \(feat\. Popstar\)](https://open.spotify.com/track/0Dw0LJVfSHtu1npU4sjvKh) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Popstar](https://open.spotify.com/artist/5eyBd6IpSj8pNySFhx9vZy) | [SOPHIE](https://open.spotify.com/album/0Oq6SlyCH8N77Ou4o6sDWI) | 4:51 | 2025-11-07 | 2025-12-17 |
 | [Elegance \(feat\. Popstar\)](https://open.spotify.com/track/0MXKTGLRW2d1lOrGRHhS3m) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Popstar](https://open.spotify.com/artist/5eyBd6IpSj8pNySFhx9vZy) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 4:51 | 2025-11-13 | 2025-11-30 |
+| [ELLE](https://open.spotify.com/track/31xY6SF63M3lPzYskNGE0U) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [PRODUCT](https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY) | 3:44 | 2026-03-03 |  |
 | [Faceshopping](https://open.spotify.com/track/59PYsHSyznHHH9gujZvO5Y) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:56 | 2025-10-28 |  |
 | [Forever \- SOPHIE Remix](https://open.spotify.com/track/3Wfxy69tnwong1WWXOEjyW) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Forever \(SOPHIE Remix\)](https://open.spotify.com/album/5SXIKYD7yyI78tN5b15r6Q) | 3:39 | 2025-10-28 |  |
 | [Gallop \(feat\. Evita Manji\)](https://open.spotify.com/track/3fXgSZ7VbhZugr60ANeurK) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Evita Manji](https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 1:57 | 2025-10-28 |  |
@@ -41,7 +42,8 @@
 | [Live In My Truth \(feat\. BC Kingdom and LIZ\)](https://open.spotify.com/track/2OnQbbTwzHS72bcVjeRZW1) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [BC Kingdom](https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP), [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 4:04 | 2025-12-23 | 2026-01-21 |
 | [LOVE AND PAIN](https://open.spotify.com/track/7ePgEt29p3nb2HOLV7uLo4) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [SUPER EUROBEAT presents 頭文字\[イニシャル\]D THE BEST OF DREAM COLLECTION](https://open.spotify.com/album/6Q44w6id91239bhOHSDs4c) | 2:06 | 2025-12-01 | 2025-12-02 |
 | [METAL](https://open.spotify.com/track/7afPjxQevZSbFzo77zDO2G) | [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [CHEETAH BEND](https://open.spotify.com/album/2kVNzMqVeQItTdeebUtWnb) | 3:20 | 2025-10-28 |  |
-| [MSMSMSM](https://open.spotify.com/track/3iCOBMaqDx0ommZRqFi6sF) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [PRODUCT](https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY) | 3:35 | 2025-10-28 |  |
+| [MSMSMSM](https://open.spotify.com/track/3iCOBMaqDx0ommZRqFi6sF) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [PRODUCT](https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY) | 3:35 | 2025-10-28 | 2026-03-03 |
+| [MSMSMSM](https://open.spotify.com/track/5g5y3bgYrajITEEYsLnkDq) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [MSMSMSM](https://open.spotify.com/album/1WbuDNYNFhXk3vMr24VWR4) | 3:35 | 2026-03-03 |  |
 | [My Forever \(feat\. Cecile Believe\)](https://open.spotify.com/track/2JeGLHT0VuE2XHVXr4qcdT) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 4:04 | 2025-10-28 |  |
 | [My World](https://open.spotify.com/track/3w0pK4LovS3sdONz9IWbb8) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [My World](https://open.spotify.com/album/0t7eXVo3XPdNtn41iFb7wf) | 4:21 | 2025-12-10 | 2025-12-17 |
 | [Not Okay \- Alone Mix](https://open.spotify.com/track/57aGMQ5ZOSWIAf4n0fYEnt) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR) | 1:24 | 2025-10-28 |  |

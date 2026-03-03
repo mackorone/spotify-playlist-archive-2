@@ -4,7 +4,7 @@
 
 > minha carne é de carnaval, meu coração é igual
 
-82 songs - 5 hr 7 min
+83 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Pegando Fogo](https://open.spotify.com/track/7DOeJ4e5iYaG53VBnKtwbR) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Minha Voz](https://open.spotify.com/album/6DPcjdQnwOicjXIk8rAnxY) | 2:38 | 2023-03-06 |  |
 | [Pierrot Apaixonado / Ta Hi \(Pra Você Gostar de Mim\) / Quem Sabe Sabe / Aurora](https://open.spotify.com/track/5L5qxxSrbEo5qZFZPIvFBx) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Carnavalança](https://open.spotify.com/album/6vs0FIRgEMDjSgnrR38m8i) | 3:37 | 2023-03-06 |  |
 | [Portela Na Avenida](https://open.spotify.com/track/1zVuzDifwftaRGzj4AZCv2) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Meus Momentos](https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk) | 3:45 | 2023-03-06 |  |
-| [Quando o Carnaval Chegar](https://open.spotify.com/track/7KMIlBUmjF2UYlujrAjOur) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg), [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Quando o Carnaval Chegar](https://open.spotify.com/album/1eUwotxvak847jHpohSVig) | 2:32 | 2023-03-06 |  |
+| [Proibido o Carnaval](https://open.spotify.com/track/4wXPNGSY36JyIS5DHKxJTz) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Proibido o Carnaval](https://open.spotify.com/album/0DjdcZcDg6zT7YZyPThQYJ) | 3:51 | 2025-07-11 |  |
+| [Quando o Carnaval Chegar](https://open.spotify.com/track/7KMIlBUmjF2UYlujrAjOur) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg), [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Quando o Carnaval Chegar](https://open.spotify.com/album/1eUwotxvak847jHpohSVig) | 2:32 | 2023-03-06 | 2026-03-03 |
 | [Que bloco é esse?](https://open.spotify.com/track/4njPA0lM6wexbn6L9eY8oQ) | [Ilê Aiyê](https://open.spotify.com/artist/7ntfJVmjXJqHALQ89SVmLY) | [Canto Negro](https://open.spotify.com/album/3WgPAI060b6EN6UayPTKa5) | 3:13 | 2023-03-06 | 2026-02-08 |
 | [QUERO UM CARNAVAL](https://open.spotify.com/track/2ooeiOnpx96CJfOegfjwA3) | [Julio Secchin](https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs) | [FESTA DE ADEUS](https://open.spotify.com/album/7DU9frP5BFaBmA3RpJOInK) | 3:40 | 2023-03-06 | 2024-04-19 |
 | [Raiz de Todo Bem \- Ao Vivo](https://open.spotify.com/track/3chGzdnaSzyd2W8Tlvboib) | [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf) | [Saulo Ao Vivo](https://open.spotify.com/album/3OWLJAZKsy6UA5moqT3NYk) | 3:25 | 2023-03-06 |  |

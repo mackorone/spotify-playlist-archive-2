@@ -1,6 +1,6 @@
 {
   "description": "This is the best of ska, new and classic. Iseo & Dodosound en cover ",
-  "num_followers": 408891,
+  "num_followers": 408918,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-01-09 18:23:08",
       "album": {
-        "name": "Fight the Good Fight",
-        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 161680,
-      "name": "Title Holder",
-      "url": "https://open.spotify.com/track/5dt0dBcBTgGb7Gt5hNTG91"
-    },
-    {
-      "added_at": "2026-01-09 18:23:08",
-      "album": {
         "name": "More Noise And Other Disturbances",
         "url": "https://open.spotify.com/album/28xDdUxyWOjPzZKbcQMJlO"
       },
@@ -491,18 +475,34 @@
     {
       "added_at": "2026-01-09 18:23:08",
       "album": {
-        "name": "El Enemigo",
-        "url": "https://open.spotify.com/album/3zz6uN6pTbTVNHNmzVrTXq"
+        "name": "Fight the Good Fight",
+        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
       },
       "artists": [
         {
-          "name": "Sat\u00e9lite Kingston",
-          "url": "https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD"
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
         }
       ],
-      "duration_ms": 212253,
-      "name": "La \u00daltima Carta",
-      "url": "https://open.spotify.com/track/2A66FBk36QAMcOychXojNS"
+      "duration_ms": 161680,
+      "name": "Title Holder",
+      "url": "https://open.spotify.com/track/5dt0dBcBTgGb7Gt5hNTG91"
+    },
+    {
+      "added_at": "2026-01-09 18:23:08",
+      "album": {
+        "name": "Tears of a Clown",
+        "url": "https://open.spotify.com/album/3ySSPA5ZmFTi0q9HbdpKtw"
+      },
+      "artists": [
+        {
+          "name": "The Beat",
+          "url": "https://open.spotify.com/artist/4R90PNicCsCsEoRm8XwiMS"
+        }
+      ],
+      "duration_ms": 167457,
+      "name": "Ranking Full Stop",
+      "url": "https://open.spotify.com/track/64LfShvHappqFPT3Ftwbjq"
     },
     {
       "added_at": "2026-01-09 18:23:08",
@@ -539,18 +539,18 @@
     {
       "added_at": "2026-01-09 18:23:08",
       "album": {
-        "name": "Tears of a Clown",
-        "url": "https://open.spotify.com/album/3ySSPA5ZmFTi0q9HbdpKtw"
+        "name": "El Enemigo",
+        "url": "https://open.spotify.com/album/3zz6uN6pTbTVNHNmzVrTXq"
       },
       "artists": [
         {
-          "name": "The Beat",
-          "url": "https://open.spotify.com/artist/4R90PNicCsCsEoRm8XwiMS"
+          "name": "Sat\u00e9lite Kingston",
+          "url": "https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD"
         }
       ],
-      "duration_ms": 167457,
-      "name": "Ranking Full Stop",
-      "url": "https://open.spotify.com/track/64LfShvHappqFPT3Ftwbjq"
+      "duration_ms": 212253,
+      "name": "La \u00daltima Carta",
+      "url": "https://open.spotify.com/track/2A66FBk36QAMcOychXojNS"
     },
     {
       "added_at": "2026-01-09 18:23:08",
@@ -863,26 +863,6 @@
     {
       "added_at": "2026-01-09 18:23:08",
       "album": {
-        "name": "Que me quemen tus ojos",
-        "url": "https://open.spotify.com/album/0uafJymFyfHtQOJn6r3EfJ"
-      },
-      "artists": [
-        {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
-        },
-        {
-          "name": "Macha Y El Bloque Depresivo",
-          "url": "https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy"
-        }
-      ],
-      "duration_ms": 159453,
-      "name": "Que me quemen tus ojos",
-      "url": "https://open.spotify.com/track/6NhDCP3GmbwHcv6bJeKnVn"
-    },
-    {
-      "added_at": "2026-01-09 18:23:08",
-      "album": {
         "name": "Heads Are Gonna Roll",
         "url": "https://open.spotify.com/album/1ShvLX5xWw2wwvBMu3ENWn"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 206523,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/02N6JQNfiB1Hc4nKm2P0g4"
+    },
+    {
+      "added_at": "2026-01-09 18:23:08",
+      "album": {
+        "name": "Que me quemen tus ojos",
+        "url": "https://open.spotify.com/album/0uafJymFyfHtQOJn6r3EfJ"
+      },
+      "artists": [
+        {
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+        },
+        {
+          "name": "Macha Y El Bloque Depresivo",
+          "url": "https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy"
+        }
+      ],
+      "duration_ms": 159453,
+      "name": "Que me quemen tus ojos",
+      "url": "https://open.spotify.com/track/6NhDCP3GmbwHcv6bJeKnVn"
     },
     {
       "added_at": "2026-01-09 18:23:08",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-01-09 18:23:08",
       "album": {
+        "name": "Right On Time",
+        "url": "https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu"
+      },
+      "artists": [
+        {
+          "name": "Hepcat",
+          "url": "https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp"
+        }
+      ],
+      "duration_ms": 202106,
+      "name": "I Can't Wait",
+      "url": "https://open.spotify.com/track/51vJlDmoPncY0fzzarlHW2"
+    },
+    {
+      "added_at": "2026-01-09 18:23:08",
+      "album": {
         "name": "Everything Sucks",
         "url": "https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 199626,
       "name": "Ma and Pa",
       "url": "https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp"
-    },
-    {
-      "added_at": "2026-01-09 18:23:08",
-      "album": {
-        "name": "Right On Time",
-        "url": "https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu"
-      },
-      "artists": [
-        {
-          "name": "Hepcat",
-          "url": "https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp"
-        }
-      ],
-      "duration_ms": 202106,
-      "name": "I Can't Wait",
-      "url": "https://open.spotify.com/track/51vJlDmoPncY0fzzarlHW2"
     },
     {
       "added_at": "2026-01-09 18:23:08",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-01-09 18:23:08",
       "album": {
+        "name": "Ordinary Life",
+        "url": "https://open.spotify.com/album/6gbRX2quEui9NXZu5ogvz9"
+      },
+      "artists": [
+        {
+          "name": "We Are The Union",
+          "url": "https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs"
+        }
+      ],
+      "duration_ms": 182256,
+      "name": "Morbid Obsessions",
+      "url": "https://open.spotify.com/track/22gBwKtpb1qgBNS7l5feMh"
+    },
+    {
+      "added_at": "2026-01-09 18:23:08",
+      "album": {
         "name": "Don't Speak",
         "url": "https://open.spotify.com/album/7b7AM8NvWaj5A8iyEAvjTw"
       },
@@ -1423,38 +1439,6 @@
     {
       "added_at": "2026-01-09 18:23:08",
       "album": {
-        "name": "Ordinary Life",
-        "url": "https://open.spotify.com/album/6gbRX2quEui9NXZu5ogvz9"
-      },
-      "artists": [
-        {
-          "name": "We Are The Union",
-          "url": "https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs"
-        }
-      ],
-      "duration_ms": 182256,
-      "name": "Morbid Obsessions",
-      "url": "https://open.spotify.com/track/22gBwKtpb1qgBNS7l5feMh"
-    },
-    {
-      "added_at": "2026-01-09 18:23:08",
-      "album": {
-        "name": "Stomp",
-        "url": "https://open.spotify.com/album/6smpibJ3RlcnBDdHi7dINI"
-      },
-      "artists": [
-        {
-          "name": "Big D and the Kids Table",
-          "url": "https://open.spotify.com/artist/5SkGKY8rSkaiC0DqfHuPbY"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Stepping Out",
-      "url": "https://open.spotify.com/track/3TjsikWPyMLvnjQiUATci6"
-    },
-    {
-      "added_at": "2026-01-09 18:23:08",
-      "album": {
         "name": "Flyover Renaissance",
         "url": "https://open.spotify.com/album/1FEQqvt2lIqv9nWAhDKBGK"
       },
@@ -1471,22 +1455,18 @@
     {
       "added_at": "2026-01-09 18:23:08",
       "album": {
-        "name": "The Slash",
-        "url": "https://open.spotify.com/album/0TCls5nFPP9LoBliC428gr"
+        "name": "Stomp",
+        "url": "https://open.spotify.com/album/6smpibJ3RlcnBDdHi7dINI"
       },
       "artists": [
         {
-          "name": "Aurelio Voltaire",
-          "url": "https://open.spotify.com/artist/2ZCG1aukcb5fjBDgizvDbD"
-        },
-        {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+          "name": "Big D and the Kids Table",
+          "url": "https://open.spotify.com/artist/5SkGKY8rSkaiC0DqfHuPbY"
         }
       ],
-      "duration_ms": 241185,
-      "name": "The Slash",
-      "url": "https://open.spotify.com/track/5G5s543gsx1B4bqo85vn0n"
+      "duration_ms": 181000,
+      "name": "Stepping Out",
+      "url": "https://open.spotify.com/track/3TjsikWPyMLvnjQiUATci6"
     },
     {
       "added_at": "2026-01-09 18:23:08",
@@ -1523,18 +1503,22 @@
     {
       "added_at": "2026-01-09 18:23:08",
       "album": {
-        "name": "When God Was Great",
-        "url": "https://open.spotify.com/album/2GMkzDNISHUME6JBeT46D3"
+        "name": "The Slash",
+        "url": "https://open.spotify.com/album/0TCls5nFPP9LoBliC428gr"
       },
       "artists": [
         {
-          "name": "The Mighty Mighty Bosstones",
-          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+          "name": "Aurelio Voltaire",
+          "url": "https://open.spotify.com/artist/2ZCG1aukcb5fjBDgizvDbD"
+        },
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
         }
       ],
-      "duration_ms": 213754,
-      "name": "LONELY BOY",
-      "url": "https://open.spotify.com/track/7exeQYwgHvD9pLJlFdXWhU"
+      "duration_ms": 241185,
+      "name": "The Slash",
+      "url": "https://open.spotify.com/track/5G5s543gsx1B4bqo85vn0n"
     },
     {
       "added_at": "2026-01-09 18:23:08",
@@ -1551,6 +1535,22 @@
       "duration_ms": 148938,
       "name": "A Better Home",
       "url": "https://open.spotify.com/track/3i9UTTZjKQfTAPcpGvYP5s"
+    },
+    {
+      "added_at": "2026-01-09 18:23:08",
+      "album": {
+        "name": "When God Was Great",
+        "url": "https://open.spotify.com/album/2GMkzDNISHUME6JBeT46D3"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Mighty Bosstones",
+          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+        }
+      ],
+      "duration_ms": 213754,
+      "name": "LONELY BOY",
+      "url": "https://open.spotify.com/track/7exeQYwgHvD9pLJlFdXWhU"
     },
     {
       "added_at": "2026-01-09 18:23:08",

@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 80652,
+  "num_followers": 80659,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -91,18 +91,18 @@
     {
       "added_at": "2026-02-26 23:00:38",
       "album": {
-        "name": "Mosaikk (16 Biter)",
-        "url": "https://open.spotify.com/album/7rtosLI7Lqa0XoYLKdCjKO"
+        "name": "Liten fuggel (Med kommentarer)",
+        "url": "https://open.spotify.com/album/2rPi9btQoagJ9Kzv6Hg8tr"
       },
       "artists": [
         {
-          "name": "Anne Grete Preus",
-          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
+          "name": "Vamp",
+          "url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk"
         }
       ],
-      "duration_ms": 233291,
-      "name": "N\u00e5r himmelen faller ned",
-      "url": "https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH"
+      "duration_ms": 191173,
+      "name": "Liten fuggel",
+      "url": "https://open.spotify.com/track/5ZCHRkU8DiInkWQmzpfckE"
     },
     {
       "added_at": "2026-02-26 23:00:38",
@@ -119,22 +119,6 @@
       "duration_ms": 337733,
       "name": "Stille i stua",
       "url": "https://open.spotify.com/track/6zcbDeNrpnK8Li4SNkpe5r"
-    },
-    {
-      "added_at": "2026-02-26 23:00:38",
-      "album": {
-        "name": "Liten fuggel (Med kommentarer)",
-        "url": "https://open.spotify.com/album/2rPi9btQoagJ9Kzv6Hg8tr"
-      },
-      "artists": [
-        {
-          "name": "Vamp",
-          "url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk"
-        }
-      ],
-      "duration_ms": 191173,
-      "name": "Liten fuggel",
-      "url": "https://open.spotify.com/track/5ZCHRkU8DiInkWQmzpfckE"
     },
     {
       "added_at": "2026-02-26 23:00:38",
@@ -163,6 +147,22 @@
     {
       "added_at": "2026-02-26 23:00:38",
       "album": {
+        "name": "Mosaikk (16 Biter)",
+        "url": "https://open.spotify.com/album/7rtosLI7Lqa0XoYLKdCjKO"
+      },
+      "artists": [
+        {
+          "name": "Anne Grete Preus",
+          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
+        }
+      ],
+      "duration_ms": 233291,
+      "name": "N\u00e5r himmelen faller ned",
+      "url": "https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH"
+    },
+    {
+      "added_at": "2026-02-26 23:00:38",
+      "album": {
         "name": "Bestevenn (Bonus Version)",
         "url": "https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy"
       },
@@ -175,38 +175,6 @@
       "duration_ms": 225800,
       "name": "Ein farfar i livet",
       "url": "https://open.spotify.com/track/0J5d8MHv2n0QmyJwkcHN2f"
-    },
-    {
-      "added_at": "2026-02-26 23:00:38",
-      "album": {
-        "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
-        "url": "https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP"
-      },
-      "artists": [
-        {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
-        }
-      ],
-      "duration_ms": 266328,
-      "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
-      "url": "https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K"
-    },
-    {
-      "added_at": "2026-02-26 23:00:38",
-      "album": {
-        "name": "M\u00e5nesinn",
-        "url": "https://open.spotify.com/album/4tP6uyIDQ3LC6QsxwLbdh7"
-      },
-      "artists": [
-        {
-          "name": "Ingebj\u00f8rg Bratland",
-          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
-        }
-      ],
-      "duration_ms": 171640,
-      "name": "Fordi eg elskar deg",
-      "url": "https://open.spotify.com/track/2l0D5xYyekMyMNMJY92MdT"
     },
     {
       "added_at": "2026-02-26 23:00:38",
@@ -227,6 +195,54 @@
       "duration_ms": 270693,
       "name": "Tir n'a Noir",
       "url": "https://open.spotify.com/track/34OsKR8YdiZol46Ny1bjjA"
+    },
+    {
+      "added_at": "2026-02-26 23:00:38",
+      "album": {
+        "name": "M\u00e5nesinn",
+        "url": "https://open.spotify.com/album/4tP6uyIDQ3LC6QsxwLbdh7"
+      },
+      "artists": [
+        {
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        }
+      ],
+      "duration_ms": 171640,
+      "name": "Fordi eg elskar deg",
+      "url": "https://open.spotify.com/track/2l0D5xYyekMyMNMJY92MdT"
+    },
+    {
+      "added_at": "2026-02-26 23:00:38",
+      "album": {
+        "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
+        "url": "https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP"
+      },
+      "artists": [
+        {
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
+        }
+      ],
+      "duration_ms": 266328,
+      "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
+      "url": "https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K"
+    },
+    {
+      "added_at": "2026-02-26 23:00:38",
+      "album": {
+        "name": "S\u00f8vnlaus",
+        "url": "https://open.spotify.com/album/3O6xwlooceiBfpcZRrtqsp"
+      },
+      "artists": [
+        {
+          "name": "Hellbillies",
+          "url": "https://open.spotify.com/artist/0PqNs9XCK5D16ihtRMuOoU"
+        }
+      ],
+      "duration_ms": 246626,
+      "name": "20 \u00e5r p\u00e5 vegen",
+      "url": "https://open.spotify.com/track/2z9qzLuCkfRdGNI1u08EyO"
     },
     {
       "added_at": "2026-02-26 23:00:38",
@@ -259,22 +275,6 @@
       "duration_ms": 244120,
       "name": "Bestevenn",
       "url": "https://open.spotify.com/track/0bQLTkISNpcZ70TbGGisTA"
-    },
-    {
-      "added_at": "2026-02-26 23:00:38",
-      "album": {
-        "name": "S\u00f8vnlaus",
-        "url": "https://open.spotify.com/album/3O6xwlooceiBfpcZRrtqsp"
-      },
-      "artists": [
-        {
-          "name": "Hellbillies",
-          "url": "https://open.spotify.com/artist/0PqNs9XCK5D16ihtRMuOoU"
-        }
-      ],
-      "duration_ms": 246626,
-      "name": "20 \u00e5r p\u00e5 vegen",
-      "url": "https://open.spotify.com/track/2z9qzLuCkfRdGNI1u08EyO"
     },
     {
       "added_at": "2026-02-26 23:00:38",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-02-26 23:00:38",
       "album": {
-        "name": "Kr\u00e5keviks Songbok",
-        "url": "https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf"
-      },
-      "artists": [
-        {
-          "name": "Herborg Kr\u00e5kevik",
-          "url": "https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5"
-        }
-      ],
-      "duration_ms": 178760,
-      "name": "Den Fyrste Song",
-      "url": "https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe"
-    },
-    {
-      "added_at": "2026-02-26 23:00:38",
-      "album": {
         "name": "Hilsen Halvdan",
         "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 258638,
       "name": "Sommerfuggel I Vinterland",
       "url": "https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF"
+    },
+    {
+      "added_at": "2026-02-26 23:00:38",
+      "album": {
+        "name": "Kr\u00e5keviks Songbok",
+        "url": "https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf"
+      },
+      "artists": [
+        {
+          "name": "Herborg Kr\u00e5kevik",
+          "url": "https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5"
+        }
+      ],
+      "duration_ms": 178760,
+      "name": "Den Fyrste Song",
+      "url": "https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe"
     },
     {
       "added_at": "2026-02-26 23:00:38",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-02-26 23:00:38",
       "album": {
-        "name": "V\u00e5r beste dag",
-        "url": "https://open.spotify.com/album/72dAuYKSanaCXmsLzS7eUN"
-      },
-      "artists": [
-        {
-          "name": "Marit Larsen",
-          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
-        }
-      ],
-      "duration_ms": 202588,
-      "name": "V\u00e5r beste dag",
-      "url": "https://open.spotify.com/track/2RssYUkYzmEtvxmUX0C19A"
-    },
-    {
-      "added_at": "2026-02-26 23:00:38",
-      "album": {
         "name": "St\u00f8v Og Stjerner",
         "url": "https://open.spotify.com/album/0NpGhivBGHLf1nnoLSCZ1X"
       },
@@ -591,18 +575,18 @@
     {
       "added_at": "2026-02-26 23:00:38",
       "album": {
-        "name": "Vendepunkt",
-        "url": "https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI"
+        "name": "V\u00e5r beste dag",
+        "url": "https://open.spotify.com/album/72dAuYKSanaCXmsLzS7eUN"
       },
       "artists": [
         {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
+          "name": "Marit Larsen",
+          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
         }
       ],
-      "duration_ms": 197529,
-      "name": "P\u00e5 bes\u00f8k",
-      "url": "https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi"
+      "duration_ms": 202588,
+      "name": "V\u00e5r beste dag",
+      "url": "https://open.spotify.com/track/2RssYUkYzmEtvxmUX0C19A"
     },
     {
       "added_at": "2026-02-26 23:00:38",
@@ -623,18 +607,38 @@
     {
       "added_at": "2026-02-26 23:00:38",
       "album": {
-        "name": "Eg vil ikkje d\u00f8",
-        "url": "https://open.spotify.com/album/3loCnhfuuWSN39QmcQ7C40"
+        "name": "Vendepunkt",
+        "url": "https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI"
+      },
+      "artists": [
+        {
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
+        }
+      ],
+      "duration_ms": 197529,
+      "name": "P\u00e5 bes\u00f8k",
+      "url": "https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi"
+    },
+    {
+      "added_at": "2026-02-26 23:00:38",
+      "album": {
+        "name": "De Beste",
+        "url": "https://open.spotify.com/album/5Fad9LPUjww4yGt13jITUe"
       },
       "artists": [
         {
           "name": "Bj\u00f8rn Eidsv\u00e5g",
           "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        },
+        {
+          "name": "Lisa Nilsson",
+          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
         }
       ],
-      "duration_ms": 209427,
-      "name": "Eg vil ikkje d\u00f8",
-      "url": "https://open.spotify.com/track/0k8NqYHm1GkQcyI8SHKPeP"
+      "duration_ms": 239586,
+      "name": "Mysteriet deg",
+      "url": "https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq"
     },
     {
       "added_at": "2026-02-26 23:00:38",
@@ -707,38 +711,18 @@
     {
       "added_at": "2026-02-26 23:00:38",
       "album": {
-        "name": "De Beste",
-        "url": "https://open.spotify.com/album/5Fad9LPUjww4yGt13jITUe"
+        "name": "Eg vil ikkje d\u00f8",
+        "url": "https://open.spotify.com/album/3loCnhfuuWSN39QmcQ7C40"
       },
       "artists": [
         {
           "name": "Bj\u00f8rn Eidsv\u00e5g",
           "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
-        },
-        {
-          "name": "Lisa Nilsson",
-          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
         }
       ],
-      "duration_ms": 239586,
-      "name": "Mysteriet deg",
-      "url": "https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq"
-    },
-    {
-      "added_at": "2026-02-26 23:00:38",
-      "album": {
-        "name": "Club 7",
-        "url": "https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw"
-      },
-      "artists": [
-        {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
-        }
-      ],
-      "duration_ms": 260779,
-      "name": "Club 7",
-      "url": "https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu"
+      "duration_ms": 209427,
+      "name": "Eg vil ikkje d\u00f8",
+      "url": "https://open.spotify.com/track/0k8NqYHm1GkQcyI8SHKPeP"
     },
     {
       "added_at": "2026-02-26 23:00:38",
@@ -759,18 +743,18 @@
     {
       "added_at": "2026-02-26 23:00:38",
       "album": {
-        "name": "Alt det som skinner",
-        "url": "https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr"
+        "name": "Club 7",
+        "url": "https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw"
       },
       "artists": [
         {
-          "name": "Anne Grete Preus",
-          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
         }
       ],
-      "duration_ms": 250403,
-      "name": "Alt det som skinner",
-      "url": "https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD"
+      "duration_ms": 260779,
+      "name": "Club 7",
+      "url": "https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu"
     },
     {
       "added_at": "2026-02-26 23:00:38",
@@ -791,6 +775,22 @@
     {
       "added_at": "2026-02-26 23:00:38",
       "album": {
+        "name": "Ramler mot hverandre",
+        "url": "https://open.spotify.com/album/2ZtsLOse1UpbB5CZZRMN5b"
+      },
+      "artists": [
+        {
+          "name": "Trygve Skaug",
+          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
+        }
+      ],
+      "duration_ms": 214226,
+      "name": "Ramler mot hverandre",
+      "url": "https://open.spotify.com/track/3MuVUbTl1RrzIKnEl0tYIW"
+    },
+    {
+      "added_at": "2026-02-26 23:00:38",
+      "album": {
         "name": "Ringdans",
         "url": "https://open.spotify.com/album/6KG6VP2dQbEOWOmove7R5A"
       },
@@ -807,18 +807,18 @@
     {
       "added_at": "2026-02-26 23:00:38",
       "album": {
-        "name": "Ramler mot hverandre",
-        "url": "https://open.spotify.com/album/2ZtsLOse1UpbB5CZZRMN5b"
+        "name": "Alt det som skinner",
+        "url": "https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr"
       },
       "artists": [
         {
-          "name": "Trygve Skaug",
-          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
+          "name": "Anne Grete Preus",
+          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
         }
       ],
-      "duration_ms": 214226,
-      "name": "Ramler mot hverandre",
-      "url": "https://open.spotify.com/track/3MuVUbTl1RrzIKnEl0tYIW"
+      "duration_ms": 250403,
+      "name": "Alt det som skinner",
+      "url": "https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD"
     },
     {
       "added_at": "2026-02-26 23:00:38",

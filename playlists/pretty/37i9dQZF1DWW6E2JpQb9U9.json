@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: El Mat\u00f3 a un Polic\u00eda Motorizado.",
-  "num_followers": 125199,
+  "num_followers": 125209,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2026-01-23 03:00:04",
       "album": {
+        "name": "El Ultimo Concierto B (Remastered)",
+        "url": "https://open.spotify.com/album/0k9Oh11PrdeZ6ngoJGhWMk"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 291373,
+      "name": "De M\u00fasica Ligera - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/3lWvP5u93wOdPlqIydFW7g"
+    },
+    {
+      "added_at": "2026-01-23 03:00:04",
+      "album": {
         "name": "Spinetta y Las Bandas Eternas",
         "url": "https://open.spotify.com/album/3kuu5DGs4n815JjDI5dlNx"
       },
@@ -131,34 +147,18 @@
     {
       "added_at": "2026-01-23 03:00:04",
       "album": {
-        "name": "El Ultimo Concierto B (Remastered)",
-        "url": "https://open.spotify.com/album/0k9Oh11PrdeZ6ngoJGhWMk"
+        "name": "Airbag - En Vivo Estadio V\u00e9lez",
+        "url": "https://open.spotify.com/album/2Re4hPtoqV1maGf7jvnMNP"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
         }
       ],
-      "duration_ms": 291373,
-      "name": "De M\u00fasica Ligera - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/3lWvP5u93wOdPlqIydFW7g"
-    },
-    {
-      "added_at": "2026-01-23 03:00:04",
-      "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 238625,
-      "name": "Si Supieras - En Vivo en el Luna Park",
-      "url": "https://open.spotify.com/track/1aYjTQMHRpyhu0Yv0HBZuV"
+      "duration_ms": 303857,
+      "name": "Por Mil Noches - En Vivo",
+      "url": "https://open.spotify.com/track/6HDAukRzsHVdmxiQi9K320"
     },
     {
       "added_at": "2026-01-23 03:00:04",
@@ -231,18 +231,18 @@
     {
       "added_at": "2026-01-23 03:00:04",
       "album": {
-        "name": "Airbag - En Vivo Estadio V\u00e9lez",
-        "url": "https://open.spotify.com/album/2Re4hPtoqV1maGf7jvnMNP"
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
       },
       "artists": [
         {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
         }
       ],
-      "duration_ms": 303857,
-      "name": "Por Mil Noches - En Vivo",
-      "url": "https://open.spotify.com/track/6HDAukRzsHVdmxiQi9K320"
+      "duration_ms": 238625,
+      "name": "Si Supieras - En Vivo en el Luna Park",
+      "url": "https://open.spotify.com/track/1aYjTQMHRpyhu0Yv0HBZuV"
     },
     {
       "added_at": "2026-01-23 03:00:04",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-01-23 03:00:04",
       "album": {
-        "name": "En Vivo en el Estadio \u00danico",
-        "url": "https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp"
-      },
-      "artists": [
-        {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
-        }
-      ],
-      "duration_ms": 341626,
-      "name": "Traicionero - En Vivo en el Estadio \u00danico",
-      "url": "https://open.spotify.com/track/64ovzYdza1i6uCLVxp7qWb"
-    },
-    {
-      "added_at": "2026-01-23 03:00:04",
-      "album": {
         "name": "Otra Noche en la Luna (Episodio II)",
         "url": "https://open.spotify.com/album/2i3jAjsGsoeP0Sq0DjF1vy"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 259200,
       "name": "Homero - En Vivo Luna Park",
       "url": "https://open.spotify.com/track/3ssaVppMVSm0WwO0Uz6NVe"
+    },
+    {
+      "added_at": "2026-01-23 03:00:04",
+      "album": {
+        "name": "En Vivo en el Estadio \u00danico",
+        "url": "https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "duration_ms": 341626,
+      "name": "Traicionero - En Vivo en el Estadio \u00danico",
+      "url": "https://open.spotify.com/track/64ovzYdza1i6uCLVxp7qWb"
     },
     {
       "added_at": "2026-01-23 03:00:04",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-01-23 03:00:04",
       "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 329893,
-      "name": "Demoliendo Hoteles - Live",
-      "url": "https://open.spotify.com/track/15dNGPxvzuCvTBzFGmveZi"
-    },
-    {
-      "added_at": "2026-01-23 03:00:04",
-      "album": {
         "name": "Ritual Piojoso (En Vivo en River Plate)",
         "url": "https://open.spotify.com/album/7v7UBXatukF69a99XWjjX6"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 284048,
       "name": "Pac\u00edfico",
       "url": "https://open.spotify.com/track/4YDACzNhZTeo9YvYC533SP"
+    },
+    {
+      "added_at": "2026-01-23 03:00:04",
+      "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 329893,
+      "name": "Demoliendo Hoteles - Live",
+      "url": "https://open.spotify.com/track/15dNGPxvzuCvTBzFGmveZi"
     },
     {
       "added_at": "2026-01-23 03:00:04",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-01-23 03:00:04",
       "album": {
-        "name": "Ac\u00fastico Gran Rex, Vol. 2",
-        "url": "https://open.spotify.com/album/5FhGXJP1oaVkRnjoloyz4u"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 278137,
-      "name": "My Love - Ac\u00fastico Gran Rex Vol. 2",
-      "url": "https://open.spotify.com/track/3YmSjzUch6kPXI8gAc16Ug"
-    },
-    {
-      "added_at": "2026-01-23 03:00:04",
-      "album": {
         "name": "Otra Noche en la Luna (Episodio I)",
         "url": "https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 311605,
       "name": "De la Guitarra - En Vivo Luna Park",
       "url": "https://open.spotify.com/track/4vBsZW0vafVcFmlG0ooRc4"
+    },
+    {
+      "added_at": "2026-01-23 03:00:04",
+      "album": {
+        "name": "Ac\u00fastico Gran Rex, Vol. 2",
+        "url": "https://open.spotify.com/album/5FhGXJP1oaVkRnjoloyz4u"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 278137,
+      "name": "My Love - Ac\u00fastico Gran Rex Vol. 2",
+      "url": "https://open.spotify.com/track/3YmSjzUch6kPXI8gAc16Ug"
     },
     {
       "added_at": "2026-01-23 03:00:04",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2026-01-23 03:00:04",
       "album": {
-        "name": "En Vivo Obras",
-        "url": "https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT"
+        "name": "En Vivo en el Teatro \u00d3pera",
+        "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
       },
       "artists": [
         {
-          "name": "Almafuerte",
-          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
         }
       ],
-      "duration_ms": 249144,
-      "name": "S\u00e9 Vos - En Vivo",
-      "url": "https://open.spotify.com/track/5qmap4CQeX4rNCIi2rBOJ8"
+      "duration_ms": 304386,
+      "name": "Magia Blanca - En Vivo en el Teatro \u00d3pera",
+      "url": "https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0"
     },
     {
       "added_at": "2026-01-23 03:00:04",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-01-23 03:00:04",
       "album": {
-        "name": "En Vivo en el Teatro \u00d3pera",
-        "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
-      },
-      "artists": [
-        {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        }
-      ],
-      "duration_ms": 304386,
-      "name": "Magia Blanca - En Vivo en el Teatro \u00d3pera",
-      "url": "https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0"
-    },
-    {
-      "added_at": "2026-01-23 03:00:04",
-      "album": {
         "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
         "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 288560,
       "name": "Espadas y Serpientes - Ac\u00fastico en Vivo",
       "url": "https://open.spotify.com/track/26gc3gRiPBIpvvBP87sdxg"
+    },
+    {
+      "added_at": "2026-01-23 03:00:04",
+      "album": {
+        "name": "En Vivo Obras",
+        "url": "https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT"
+      },
+      "artists": [
+        {
+          "name": "Almafuerte",
+          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
+        }
+      ],
+      "duration_ms": 249144,
+      "name": "S\u00e9 Vos - En Vivo",
+      "url": "https://open.spotify.com/track/5qmap4CQeX4rNCIi2rBOJ8"
     },
     {
       "added_at": "2026-01-23 03:00:04",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-01-23 03:00:04",
       "album": {
-        "name": "Solo Hace Falta Un Mundo para Dar Una Vuelta (En Vivo en Espa\u00f1a e Italia 2024)",
-        "url": "https://open.spotify.com/album/6THTp0qeTHUCuGIRtrm7ES"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 389000,
-      "name": "Balada del Diablo y la Muerte - En Vivo en Mallorca, Espa\u00f1a 2024",
-      "url": "https://open.spotify.com/track/6vAYTUrnntxzReHvl3hXWB"
-    },
-    {
-      "added_at": "2026-01-23 03:00:04",
-      "album": {
         "name": "Otra Noche en la Luna (Episodio I)",
         "url": "https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 244800,
       "name": "Las Cosas Que No Se Tocan - En Vivo Luna Park",
       "url": "https://open.spotify.com/track/0FgxJadnECY2W5cvt9tKVg"
+    },
+    {
+      "added_at": "2026-01-23 03:00:04",
+      "album": {
+        "name": "Solo Hace Falta Un Mundo para Dar Una Vuelta (En Vivo en Espa\u00f1a e Italia 2024)",
+        "url": "https://open.spotify.com/album/6THTp0qeTHUCuGIRtrm7ES"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 389000,
+      "name": "Balada del Diablo y la Muerte - En Vivo en Mallorca, Espa\u00f1a 2024",
+      "url": "https://open.spotify.com/track/6vAYTUrnntxzReHvl3hXWB"
     },
     {
       "added_at": "2026-01-23 03:00:04",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-01-23 03:00:04",
       "album": {
-        "name": "Divididos en V\u00e9lez - Agradecer y Seguir",
-        "url": "https://open.spotify.com/album/2TrRaAq10CSLmQV03lmQQy"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 368743,
-      "name": "Paisano de Hurlingham",
-      "url": "https://open.spotify.com/track/2UOJsDtVLCdSbwbhd2qSl3"
-    },
-    {
-      "added_at": "2026-01-23 03:00:04",
-      "album": {
         "name": "Se Fue al Cielo (En Vivo Luna Park)",
         "url": "https://open.spotify.com/album/5a6i5OQTh7QTNh6bNJvwXK"
       },
@@ -1259,6 +1243,22 @@
     {
       "added_at": "2026-01-23 03:00:04",
       "album": {
+        "name": "Divididos en V\u00e9lez - Agradecer y Seguir",
+        "url": "https://open.spotify.com/album/2TrRaAq10CSLmQV03lmQQy"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 368743,
+      "name": "Paisano de Hurlingham",
+      "url": "https://open.spotify.com/track/2UOJsDtVLCdSbwbhd2qSl3"
+    },
+    {
+      "added_at": "2026-01-23 03:00:04",
+      "album": {
         "name": "Ji Ji Ji (En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil)",
         "url": "https://open.spotify.com/album/32bau642DRCuW27UlsiEnw"
       },
@@ -1275,22 +1275,6 @@
       "duration_ms": 363208,
       "name": "Ji Ji Ji - En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil",
       "url": "https://open.spotify.com/track/1TGLpWSsFMuDR3DMD6Pyc5"
-    },
-    {
-      "added_at": "2026-01-23 03:00:04",
-      "album": {
-        "name": "Hasta La Luna - EN VIVO LUNA PARK",
-        "url": "https://open.spotify.com/album/7ABAihsvAne9Nxyo9ym2a4"
-      },
-      "artists": [
-        {
-          "name": "Cruzando El Charco",
-          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
-        }
-      ],
-      "duration_ms": 275845,
-      "name": "Adonde Est\u00e1n",
-      "url": "https://open.spotify.com/track/5gBT8weMBtGU861Tz5GFf2"
     },
     {
       "added_at": "2026-01-23 03:00:04",
@@ -1323,6 +1307,22 @@
       "duration_ms": 286528,
       "name": "Fuego - En Vivo Luna Park",
       "url": "https://open.spotify.com/track/6WtFW6voAmKo5QOf3KTj6K"
+    },
+    {
+      "added_at": "2026-01-23 03:00:04",
+      "album": {
+        "name": "Hasta La Luna - EN VIVO LUNA PARK",
+        "url": "https://open.spotify.com/album/7ABAihsvAne9Nxyo9ym2a4"
+      },
+      "artists": [
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        }
+      ],
+      "duration_ms": 275845,
+      "name": "Adonde Est\u00e1n",
+      "url": "https://open.spotify.com/track/5gBT8weMBtGU861Tz5GFf2"
     },
     {
       "added_at": "2026-01-23 03:00:04",
@@ -1647,6 +1647,26 @@
     {
       "added_at": "2026-01-23 03:00:04",
       "album": {
+        "name": "Hasta Estallar (En Vivo)",
+        "url": "https://open.spotify.com/album/2VhaWI0G5kTWvafPAhgDCd"
+      },
+      "artists": [
+        {
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+        },
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        }
+      ],
+      "duration_ms": 280810,
+      "name": "Hasta Estallar (En Vivo)",
+      "url": "https://open.spotify.com/track/0xAHBxUFTNvajevhqgka2L"
+    },
+    {
+      "added_at": "2026-01-23 03:00:04",
+      "album": {
         "name": "Carretera Perdida (En Vivo)",
         "url": "https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3"
       },
@@ -1675,26 +1695,6 @@
       "duration_ms": 280661,
       "name": "Ni\u00f1o Abuelo - Vivo en Obras 20/12/2024",
       "url": "https://open.spotify.com/track/4Lk0Y7rY5tlE5C89aBpK56"
-    },
-    {
-      "added_at": "2026-01-23 03:00:04",
-      "album": {
-        "name": "Hasta Estallar (En Vivo)",
-        "url": "https://open.spotify.com/album/2VhaWI0G5kTWvafPAhgDCd"
-      },
-      "artists": [
-        {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
-        },
-        {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
-        }
-      ],
-      "duration_ms": 280810,
-      "name": "Hasta Estallar (En Vivo)",
-      "url": "https://open.spotify.com/track/0xAHBxUFTNvajevhqgka2L"
     },
     {
       "added_at": "2026-01-23 03:00:04",

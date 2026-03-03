@@ -4,7 +4,7 @@
 
 > Calming music accompanied by the waves of the ocean\. Breathe with the ebb and flow of the sea.
 
-212 songs - 10 hr 5 min
+213 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [By the Ocean](https://open.spotify.com/track/3wiPradzeWPto8383InaTd) | [Refugium](https://open.spotify.com/artist/4zMvYPGhp76vbz8bGgxjjC) | [By the Ocean](https://open.spotify.com/album/7nwYwuMy0khyxJl7hgfCE4) | 3:05 | 2025-01-15 |  |
 | [Calming Seas](https://open.spotify.com/track/4fMwSkpBaG61fufc3eaRSq) | [A Lonely Moon](https://open.spotify.com/artist/1O2zQ8dbt890Q9aBNPBSWf) | [Calming Seas](https://open.spotify.com/album/45cNIJRwioXWqXRnzc6z0P) | 3:23 | 2023-10-23 |  |
 | [Calming Signals](https://open.spotify.com/track/7uE5mRDNA8QwChZPlvx6b2) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Calming Signals](https://open.spotify.com/album/0fNGHECPs58cLKljkQBRoK) | 2:49 | 2024-10-09 | 2025-02-19 |
-| [Calming Waves](https://open.spotify.com/track/5hMLPlPQSdTYHBzgi4mmnf) | [Castillo Indigo](https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv) | [Calming Waves](https://open.spotify.com/album/7pcuD2Qm9SsNy73XXuQCvf) | 2:37 | 2023-10-23 |  |
+| [Calming Waves](https://open.spotify.com/track/5hMLPlPQSdTYHBzgi4mmnf) | [Castillo Indigo](https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv) | [Calming Waves](https://open.spotify.com/album/7pcuD2Qm9SsNy73XXuQCvf) | 2:37 | 2023-10-23 | 2026-03-03 |
 | [Calming Waves](https://open.spotify.com/track/2VaNyKt42qtT0OL7PD0NwA) | [Cautious Voice](https://open.spotify.com/artist/4hARNYdi1hdngkpAAGEWCG) | [Calming Waves](https://open.spotify.com/album/6wz1ALXRR3Ne8yylHXYLgM) | 2:46 | 2025-10-02 | 2026-02-28 |
 | [Chao Phraya](https://open.spotify.com/track/3x2joKTEP8I0uSfl9MFjJC) | [Forrest Gomez](https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q) | [Chao Phraya](https://open.spotify.com/album/46KHRsTPjqj6N5QJA35JPO) | 2:52 | 2023-10-23 | 2025-04-02 |
 | [Circles Above](https://open.spotify.com/track/1ViSc6YYY1AzoHGmsfQ9cl) | [Hænisson](https://open.spotify.com/artist/0Hdparp7CUNaqgqRWfx6bk) | [Circles Above](https://open.spotify.com/album/2vLnnXCZkC5bHJog6mFqRO) | 3:26 | 2024-03-20 | 2025-05-21 |
@@ -118,6 +118,7 @@
 | [Mindful Swell](https://open.spotify.com/track/4IdY42vTEo4xF4cWMErT9W) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Mindful Swell](https://open.spotify.com/album/6zmEZNa4jxDxm0ZKLbEEAP) | 2:16 | 2024-06-03 | 2024-08-13 |
 | [Montée](https://open.spotify.com/track/1Y9yrclEspGQA0G6iDDYQ2) | [Le Coralie](https://open.spotify.com/artist/7svB5Mw6IP6Io3r7dEQi20) | [Montée](https://open.spotify.com/album/6IIm5oHifAaIaXUnqpPkeA) | 2:50 | 2025-10-02 |  |
 | [Moonlight Dolphin](https://open.spotify.com/track/5axYEK74QBwkyAdQjNd5DT) | [Nature Rehab](https://open.spotify.com/artist/1xzruyrjhInryEzjKlmzMG) | [Moonlight Dolphin](https://open.spotify.com/album/3YN2cBhWqzcQfFP5nZaJwx) | 3:44 | 2025-04-01 |  |
+| [Moonlit River](https://open.spotify.com/track/77C0BJ02fJKdp5YGGzwgzY) | [Sol Reya](https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8) | [Moonlit River](https://open.spotify.com/album/3ccZR5HufZ2RAiuBY5uyr5) | 2:27 | 2026-02-27 |  |
 | [Morning Waves](https://open.spotify.com/track/1rECiVNfP8569A717vmLe1) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Morning Waves](https://open.spotify.com/album/7BkE4jqDYkveB43oDU4ULT) | 2:52 | 2024-03-20 | 2025-10-21 |
 | [Newfoundland](https://open.spotify.com/track/2jAXw7YVGD2r6nzQwJLgsY) | [Miyklo](https://open.spotify.com/artist/2X3Invt8lYGm7czZvFUPCj) | [Newfoundland](https://open.spotify.com/album/502h7NzW2A12rSKLIvA6JJ) | 2:28 | 2025-12-17 |  |
 | [Night Waves](https://open.spotify.com/track/3uWgFGPTWRm5lENQngePls) | [Dreamscaper](https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6) | [Night Waves](https://open.spotify.com/album/5NgyNsumFkI0Hziflb4vlV) | 3:44 | 2025-01-15 |  |

@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of soul & jazz.
 
-358 songs - 22 hr 55 min
+359 songs - 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [eleven : eleven](https://open.spotify.com/track/6e0d1WSGymjzEc0MFBcxTU) | [Millie Gibson](https://open.spotify.com/artist/2RNZV7sMcqFipwVXhqCgsb) | [eleven : eleven](https://open.spotify.com/album/0mZmv1JD2Q9X7r5ZQdIE6w) | 5:07 | 2025-08-08 |  |
 | [Elusive](https://open.spotify.com/track/4mbOTHs6heygME9uDHg0mf) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD), [David Ngyah](https://open.spotify.com/artist/2HkyxGmwcNwdXWOawm0J8c) | [Elusive](https://open.spotify.com/album/24aBKIQMXzdMYZkWSGFLTK) | 3:42 | 2021-12-13 | 2023-10-04 |
 | [End of Time](https://open.spotify.com/track/2ue3TmvamovoPGDywzzYSj) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Colour On The Wall](https://open.spotify.com/album/1oNTMpPsU2g8xgoHftYpXT) | 3:46 | 2025-12-12 |  |
-| [Eon](https://open.spotify.com/track/3rIJKLPUqpXQGWmldbgbxH) | [Pete Philly & Perquisite](https://open.spotify.com/artist/4XOAS1Q62GWP67HMX7ASk3), [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO), [Perquisite](https://open.spotify.com/artist/1jYPZvaIkl6LoRFFcXeJa2) | [Eon](https://open.spotify.com/album/4LUTndEHE6DgiOAiHN5hgQ) | 3:18 | 2025-03-12 |  |
+| [Eon](https://open.spotify.com/track/3rIJKLPUqpXQGWmldbgbxH) | [Pete Philly & Perquisite](https://open.spotify.com/artist/4XOAS1Q62GWP67HMX7ASk3), [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO), [Perquisite](https://open.spotify.com/artist/1jYPZvaIkl6LoRFFcXeJa2) | [Eon](https://open.spotify.com/album/4LUTndEHE6DgiOAiHN5hgQ) | 3:18 | 2025-03-12 | 2026-03-03 |
 | [Eternal Light](https://open.spotify.com/track/1CbxG199T0fzfUV5EO7aPV) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 3:13 | 2021-12-13 | 2024-09-21 |
 | [Everybody Love](https://open.spotify.com/track/6iVl0KVT87kMRqYxAMstSN) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Posdnuos](https://open.spotify.com/artist/4OydvmAsJa7r6W8Q0xwkI7) | [Black Radio III](https://open.spotify.com/album/54TcbHrolA5VaPXZNKx4du) | 5:03 | 2024-04-11 | 2024-11-15 |
 | [Everybody Love \[Feat\. Musiq Soulchild & Posdnuos\]](https://open.spotify.com/track/78Al5zZW8NubOJjlmscmEa) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Posdnuos](https://open.spotify.com/artist/4OydvmAsJa7r6W8Q0xwkI7) | [Black Radio III](https://open.spotify.com/album/0rLSX7OMtwRHDjjCWL6tHC) | 5:03 | 2022-09-30 | 2024-04-19 |
@@ -335,6 +335,7 @@
 | [Wandering Ways](https://open.spotify.com/track/0Nkp56EKreoWMYxpXJqUNZ) | [Matt Quentin](https://open.spotify.com/artist/23cC3RI0hgD5sWmXKPAJuG) | [Skyline](https://open.spotify.com/album/1uGIwfw9F1lR7TDDukbNyQ) | 2:48 | 2022-07-05 | 2023-10-04 |
 | [Wandering Ways](https://open.spotify.com/track/1qPxBxzTbnJ7PCVAyBsy1R) | [Matt Quentin](https://open.spotify.com/artist/23cC3RI0hgD5sWmXKPAJuG) | [Skyline](https://open.spotify.com/album/6P9qlf4qE0QkQ58yTaQnUK) | 2:48 | 2021-12-13 | 2022-07-29 |
 | [wASH U AWAY](https://open.spotify.com/track/6rrv9Ye4cQSGAjSSZOYp1x) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [wHIMSY](https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E) | 3:13 | 2025-08-30 |  |
+| [We Don't Have to Be Alone](https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [We Don't Have to Be Alone](https://open.spotify.com/album/0wcfCbz30o9L3neEu5L7Cz) | 2:46 | 2026-03-02 |  |
 | [What if We Stopped Paying Taxes? \- Sharon Jones and The Dap King](https://open.spotify.com/track/74Bl3upesDTzzkqRNZXAeI) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Impeach The Precedent](https://open.spotify.com/album/0p0OC8cKmADVSd3LGvxiU4) | 5:01 | 2022-12-05 | 2023-05-19 |
 | [What Is Love?](https://open.spotify.com/track/2JI1Vl5T3MfgyF5vGKYUuG) | [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R) | [Home Cooking](https://open.spotify.com/album/3rcysrlQvRv3kgZR461Lz7) | 2:57 | 2023-02-17 | 2025-03-08 |
 | [What's the Move](https://open.spotify.com/track/6WWwsE0oge62N2STOFOnvh) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN) | [What's the Move](https://open.spotify.com/album/431U10Fvg2NtgECribydtZ) | 3:07 | 2024-06-28 | 2025-09-02 |

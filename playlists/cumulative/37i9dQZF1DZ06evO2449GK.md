@@ -4,7 +4,7 @@
 
 > This is Alcolirykoz\. The essential tracks, all in one playlist.
 
-95 songs - 5 hr 53 min
+96 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [El Show Debe Continuar](https://open.spotify.com/track/7vSGZ1wHnamSQsLaZN1eGF) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Revancha de los Timidos](https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9) | 4:04 | 2023-12-30 | 2024-11-29 |
 | [Erre Con Erre](https://open.spotify.com/track/5iPQitG8WySYGfvN8Zogu9) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Viejas Recetas Remixes y Otras Rarezas](https://open.spotify.com/album/4BimoPAeNYP0dH8h34N1b6) | 3:27 | 2023-12-30 | 2024-12-01 |
 | [Estetograma](https://open.spotify.com/track/5Jhybb3bz6VtMzfgNPGtqN) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [Estetograma](https://open.spotify.com/album/5g2NbpwACR5K3maWs2uaJu) | 3:40 | 2023-12-30 | 2026-02-06 |
+| [Estetograma](https://open.spotify.com/track/6i9kgNiuLPFKr8hepwkatB) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [Anarcolirykoz](https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I) | 3:40 | 2026-03-03 |  |
 | [Feliz Si Es Raro](https://open.spotify.com/track/6rjp4oXVz8URtGWWM3jTWs) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [El Despilfarro](https://open.spotify.com/album/5uHOagTTb7uMubkK23phZ9) | 3:34 | 2023-12-30 | 2024-12-01 |
 | [Fruko y Sus Presos \(2.018\)](https://open.spotify.com/track/0TrH7tQ2qIhsGFs4fDUVBj) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [En Letras Mayúsculas \(Reedición 2018\)](https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY) | 3:38 | 2023-12-30 | 2026-02-11 |
 | [Fruko y Sus Presos \(2.018\)](https://open.spotify.com/track/3wLZplvZc5OOSpKRxr9Uky) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [En Letras Mayúsculas \(Reedición 2018\)](https://open.spotify.com/album/4pnGRjkikanhqwLk0F98iW) | 3:38 | 2026-02-11 |  |
@@ -69,7 +70,7 @@
 | [Medellificación](https://open.spotify.com/track/5WT2uE1Nd3m5nG3lhmyFfE) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Jeronimo](https://open.spotify.com/artist/1GL3jFkc6YUeQGseYHS1hC) | [Anarcolirykoz](https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I) | 3:52 | 2026-01-18 |  |
 | [Medellificación](https://open.spotify.com/track/6m5azasM8eY0Q7Fs04GJNq) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Jerónimo](https://open.spotify.com/artist/23LGnTM5aQJ1GrMQTWl9B7) | [Anarcolirykoz](https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD) | 3:52 | 2024-12-27 | 2026-01-18 |
 | [Mi Religión](https://open.spotify.com/track/3idFvZM9VyiIkjSOjfuGkJ) | [La Etnnia](https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H), [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [10](https://open.spotify.com/album/6pNVucax5EH9Nf90F6qqBq) | 3:51 | 2023-12-30 |  |
-| [Misa de Sanazión](https://open.spotify.com/track/1CX7PvsFx7VYPbwDiLzGfJ) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Tito Agudelo](https://open.spotify.com/artist/4E20VVE4wb20LhvtMqfZ49) | [Anarcolirykoz](https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD) | 3:22 | 2024-11-29 |  |
+| [Misa de Sanazión](https://open.spotify.com/track/1CX7PvsFx7VYPbwDiLzGfJ) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Tito Agudelo](https://open.spotify.com/artist/4E20VVE4wb20LhvtMqfZ49) | [Anarcolirykoz](https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD) | 3:22 | 2024-11-29 | 2026-03-03 |
 | [N.A.D.A.](https://open.spotify.com/track/4YP3mC222xnszWgVHwqUwI) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:30 | 2023-12-30 | 2026-02-16 |
 | [N.A.D.A.](https://open.spotify.com/track/6VpPd9Ka03ktsqQ4ucW1BD) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2) | 3:30 | 2026-02-16 |  |
 | [No Está en Venta](https://open.spotify.com/track/1pjwpLpSqSEYSqtgrCJJsf) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/23krijKfse53ocaki0SfA0) | 4:00 | 2023-12-30 | 2026-02-11 |

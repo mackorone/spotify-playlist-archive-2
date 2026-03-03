@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Mu\u00e9vete al ritmo de las Cumbias! \nCover: Mariangela",
-  "num_followers": 277278,
+  "num_followers": 277282,
   "original_name": "Super Cumbias",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-01-24 00:41:13",
       "album": {
-        "name": "DELIRIUM",
-        "url": "https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 202823,
-      "name": "/Nachica",
-      "url": "https://open.spotify.com/track/4cU0wBWkkczqC9WwU8ki1d"
-    },
-    {
-      "added_at": "2026-01-24 00:41:13",
-      "album": {
         "name": "El Despertador",
         "url": "https://open.spotify.com/album/2hqyIE8I3qQb4HQBiDhgip"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 213791,
       "name": "Cumbia Buena",
       "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
+    },
+    {
+      "added_at": "2026-01-24 00:41:13",
+      "album": {
+        "name": "DELIRIUM",
+        "url": "https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 202823,
+      "name": "/Nachica",
+      "url": "https://open.spotify.com/track/4cU0wBWkkczqC9WwU8ki1d"
     },
     {
       "added_at": "2026-01-24 00:41:13",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-01-24 00:41:13",
       "album": {
+        "name": "Grito En Silencio",
+        "url": "https://open.spotify.com/album/5FXAiILW1gioBCuF7I39wS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Carabo",
+          "url": "https://open.spotify.com/artist/0pY1OqclT7G3fojvX0dKdv"
+        }
+      ],
+      "duration_ms": 215973,
+      "name": "El Afilador",
+      "url": "https://open.spotify.com/track/7ob6SovekT6cESeyUHiFQn"
+    },
+    {
+      "added_at": "2026-01-24 00:41:13",
+      "album": {
         "name": "Perdonarte \u00bfPara Qu\u00e9?",
         "url": "https://open.spotify.com/album/2yJ4Ic3Bt4DC3kIR7M4Y44"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 193933,
       "name": "Perdonarte \u00bfPara Qu\u00e9?",
       "url": "https://open.spotify.com/track/5djlc1fMHiFsSpsQQtopLy"
-    },
-    {
-      "added_at": "2026-01-24 00:41:13",
-      "album": {
-        "name": "Grito En Silencio",
-        "url": "https://open.spotify.com/album/5FXAiILW1gioBCuF7I39wS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Carabo",
-          "url": "https://open.spotify.com/artist/0pY1OqclT7G3fojvX0dKdv"
-        }
-      ],
-      "duration_ms": 215973,
-      "name": "El Afilador",
-      "url": "https://open.spotify.com/track/7ob6SovekT6cESeyUHiFQn"
     },
     {
       "added_at": "2026-01-24 00:41:13",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-01-24 00:41:13",
       "album": {
+        "name": "Cl\u00e1sicas De La Cumbia Andina",
+        "url": "https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z"
+      },
+      "artists": [
+        {
+          "name": "Los Llayras",
+          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
+        }
+      ],
+      "duration_ms": 238335,
+      "name": "\u00c1mame",
+      "url": "https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf"
+    },
+    {
+      "added_at": "2026-01-24 00:41:13",
+      "album": {
         "name": "Coraz\u00f3n Enamorado",
         "url": "https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 300840,
       "name": "Coraz\u00f3n Enamorado",
       "url": "https://open.spotify.com/track/29xZSv5HOvmAI2bFIJnWHc"
-    },
-    {
-      "added_at": "2026-01-24 00:41:13",
-      "album": {
-        "name": "Cl\u00e1sicas De La Cumbia Andina",
-        "url": "https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z"
-      },
-      "artists": [
-        {
-          "name": "Los Llayras",
-          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
-        }
-      ],
-      "duration_ms": 238335,
-      "name": "\u00c1mame",
-      "url": "https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf"
     },
     {
       "added_at": "2026-01-24 00:41:13",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2026-01-24 00:41:13",
       "album": {
-        "name": "Vestido Rojo",
-        "url": "https://open.spotify.com/album/0IVjdhsXZAeaBHaiZkkcMn"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 153868,
-      "name": "Vestido Rojo",
-      "url": "https://open.spotify.com/track/6kyllwQMZPwCgCJiJd0eWX"
-    },
-    {
-      "added_at": "2026-01-24 00:41:13",
-      "album": {
         "name": "Asi Fue (Todos los Cumbieros con las manos en el aire)",
         "url": "https://open.spotify.com/album/1jnDr8K9IxgrZM94g6fXD1"
       },
@@ -1127,34 +1107,22 @@
     {
       "added_at": "2026-01-24 00:41:13",
       "album": {
-        "name": "AMIGOS PARA QU\u00c9",
-        "url": "https://open.spotify.com/album/1WppuWwpRiBMCxA01HUxST"
+        "name": "Vestido Rojo",
+        "url": "https://open.spotify.com/album/0IVjdhsXZAeaBHaiZkkcMn"
       },
       "artists": [
         {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
-        }
-      ],
-      "duration_ms": 192091,
-      "name": "AMIGOS PARA QU\u00c9",
-      "url": "https://open.spotify.com/track/2lGSjuUG1t7RzVWbHQCc1M"
-    },
-    {
-      "added_at": "2026-01-24 00:41:13",
-      "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/7DzkW7rT5IaticSjXvs9ac"
-      },
-      "artists": [
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
         {
-          "name": "Emmanuel Cortes",
-          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 214357,
-      "name": "Desvelado",
-      "url": "https://open.spotify.com/track/53TrBLNj6U6Sq8rb7ITcGt"
+      "duration_ms": 153868,
+      "name": "Vestido Rojo",
+      "url": "https://open.spotify.com/track/6kyllwQMZPwCgCJiJd0eWX"
     },
     {
       "added_at": "2026-01-24 00:41:13",
@@ -1179,6 +1147,38 @@
     {
       "added_at": "2026-01-24 00:41:13",
       "album": {
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/7DzkW7rT5IaticSjXvs9ac"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Cortes",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        }
+      ],
+      "duration_ms": 214357,
+      "name": "Desvelado",
+      "url": "https://open.spotify.com/track/53TrBLNj6U6Sq8rb7ITcGt"
+    },
+    {
+      "added_at": "2026-01-24 00:41:13",
+      "album": {
+        "name": "AMIGOS PARA QU\u00c9",
+        "url": "https://open.spotify.com/album/1WppuWwpRiBMCxA01HUxST"
+      },
+      "artists": [
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "duration_ms": 192091,
+      "name": "AMIGOS PARA QU\u00c9",
+      "url": "https://open.spotify.com/track/2lGSjuUG1t7RzVWbHQCc1M"
+    },
+    {
+      "added_at": "2026-01-24 00:41:13",
+      "album": {
         "name": "Mi Escolta Por un Lado (MAMBO)",
         "url": "https://open.spotify.com/album/6Fa4gIficwgEvdGjQyvYzm"
       },
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-01-24 00:41:13",
       "album": {
-        "name": "Gran Encuentro",
-        "url": "https://open.spotify.com/album/0vIKDr74lkdvjJwHjvcP9L"
-      },
-      "artists": [
-        {
-          "name": "Super Grupo G",
-          "url": "https://open.spotify.com/artist/40vlmUq8Zn9LIYysuGL8Z7"
-        }
-      ],
-      "duration_ms": 196586,
-      "name": "Princesa Talibana",
-      "url": "https://open.spotify.com/track/0f0czUFLxXOPGj91ib5L2X"
-    },
-    {
-      "added_at": "2026-01-24 00:41:13",
-      "album": {
         "name": "La Colombiana",
         "url": "https://open.spotify.com/album/5gf2EKYxwU4CG0tKuR93Ju"
       },
@@ -1223,22 +1207,6 @@
       "duration_ms": 166875,
       "name": "La Colombiana",
       "url": "https://open.spotify.com/track/0L4vNSaf47SbElTWneJUU5"
-    },
-    {
-      "added_at": "2026-01-24 00:41:13",
-      "album": {
-        "name": "ENCUENTROS",
-        "url": "https://open.spotify.com/album/6Q2RSXigUcxzMKHzVYiyHw"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 180786,
-      "name": "OTRO CAP\u00cdTULO",
-      "url": "https://open.spotify.com/track/4ZJ6Ef4JKjYwiuyYp7DxSK"
     },
     {
       "added_at": "2026-01-24 00:41:13",
@@ -1263,6 +1231,22 @@
     {
       "added_at": "2026-01-24 00:41:13",
       "album": {
+        "name": "Gran Encuentro",
+        "url": "https://open.spotify.com/album/0vIKDr74lkdvjJwHjvcP9L"
+      },
+      "artists": [
+        {
+          "name": "Super Grupo G",
+          "url": "https://open.spotify.com/artist/40vlmUq8Zn9LIYysuGL8Z7"
+        }
+      ],
+      "duration_ms": 196586,
+      "name": "Princesa Talibana",
+      "url": "https://open.spotify.com/track/0f0czUFLxXOPGj91ib5L2X"
+    },
+    {
+      "added_at": "2026-01-24 00:41:13",
+      "album": {
         "name": "La Bandera",
         "url": "https://open.spotify.com/album/73o8i8GdGPqeetj2WkQhit"
       },
@@ -1283,18 +1267,18 @@
     {
       "added_at": "2026-01-24 00:41:13",
       "album": {
-        "name": "Donde Estas?",
-        "url": "https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX"
+        "name": "ENCUENTROS",
+        "url": "https://open.spotify.com/album/6Q2RSXigUcxzMKHzVYiyHw"
       },
       "artists": [
         {
-          "name": "Alcalde La Sonora",
-          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 290089,
-      "name": "Donde Estas?",
-      "url": "https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5"
+      "duration_ms": 180786,
+      "name": "OTRO CAP\u00cdTULO",
+      "url": "https://open.spotify.com/track/4ZJ6Ef4JKjYwiuyYp7DxSK"
     },
     {
       "added_at": "2026-01-24 00:41:13",
@@ -1311,6 +1295,22 @@
       "duration_ms": 217000,
       "name": "Eras Tu",
       "url": "https://open.spotify.com/track/4e0VWtGHbwVRC33HL35pRD"
+    },
+    {
+      "added_at": "2026-01-24 00:41:13",
+      "album": {
+        "name": "Donde Estas?",
+        "url": "https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX"
+      },
+      "artists": [
+        {
+          "name": "Alcalde La Sonora",
+          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
+        }
+      ],
+      "duration_ms": 290089,
+      "name": "Donde Estas?",
+      "url": "https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5"
     },
     {
       "added_at": "2026-01-24 00:41:13",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2026-01-24 00:41:13",
       "album": {
+        "name": "No Hay Vida Sin Ti",
+        "url": "https://open.spotify.com/album/5ZemNHNWfvjoE3sgZGnQVZ"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 247093,
+      "name": "No Hay Vida Sin Ti",
+      "url": "https://open.spotify.com/track/0CYzZfNba4URRVtqqVew0Z"
+    },
+    {
+      "added_at": "2026-01-24 00:41:13",
+      "album": {
         "name": "CONTACTO CERO",
         "url": "https://open.spotify.com/album/7xjCBEtL7v7AIDN5OUXicZ"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 123136,
       "name": "CONTACTO CERO",
       "url": "https://open.spotify.com/track/2KLl3FnpYYmNNTRWIg2nRv"
-    },
-    {
-      "added_at": "2026-01-24 00:41:13",
-      "album": {
-        "name": "No Hay Vida Sin Ti",
-        "url": "https://open.spotify.com/album/5ZemNHNWfvjoE3sgZGnQVZ"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        }
-      ],
-      "duration_ms": 247093,
-      "name": "No Hay Vida Sin Ti",
-      "url": "https://open.spotify.com/track/0CYzZfNba4URRVtqqVew0Z"
     },
     {
       "added_at": "2026-01-24 00:41:13",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-01-24 00:41:13",
       "album": {
-        "name": "Quienes Somos",
-        "url": "https://open.spotify.com/album/3A20APioynHFJaz8sItaP1"
-      },
-      "artists": [
-        {
-          "name": "INSPIRACION COLOMBIANA",
-          "url": "https://open.spotify.com/artist/6aDQPhm289KjJHzU0TvaVA"
-        }
-      ],
-      "duration_ms": 345240,
-      "name": "Cumbia En La Playa",
-      "url": "https://open.spotify.com/track/4USKfftLX85UCuwuV5DLUT"
-    },
-    {
-      "added_at": "2026-01-24 00:41:13",
-      "album": {
         "name": "El Paso Del Gigante (Remix)",
         "url": "https://open.spotify.com/album/6YWuqstKsgDvzMNVQnIEN0"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 194520,
       "name": "El Paso Del Gigante - Remix",
       "url": "https://open.spotify.com/track/3xr2DkBynhPVhVAPOrUJ8K"
+    },
+    {
+      "added_at": "2026-01-24 00:41:13",
+      "album": {
+        "name": "Quienes Somos",
+        "url": "https://open.spotify.com/album/3A20APioynHFJaz8sItaP1"
+      },
+      "artists": [
+        {
+          "name": "INSPIRACION COLOMBIANA",
+          "url": "https://open.spotify.com/artist/6aDQPhm289KjJHzU0TvaVA"
+        }
+      ],
+      "duration_ms": 345240,
+      "name": "Cumbia En La Playa",
+      "url": "https://open.spotify.com/track/4USKfftLX85UCuwuV5DLUT"
     },
     {
       "added_at": "2026-01-24 00:41:13",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2026-01-24 00:41:13",
       "album": {
-        "name": "Amiga Traidora (Cumbia TexMex)",
-        "url": "https://open.spotify.com/album/2y4Ew4yL1fhfDyNK38XmD1"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        }
-      ],
-      "duration_ms": 249540,
-      "name": "Amiga Traidora - Cumbia TexMex",
-      "url": "https://open.spotify.com/track/7aP0egv8A32jZLoO0OU56O"
-    },
-    {
-      "added_at": "2026-01-24 00:41:13",
-      "album": {
         "name": "Sin Aire",
         "url": "https://open.spotify.com/album/6KToGuBkYTzhUMKtuZfV5N"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 252642,
       "name": "Sin Aire",
       "url": "https://open.spotify.com/track/45bMNKVwqwlt5PxfKjxvch"
+    },
+    {
+      "added_at": "2026-01-24 00:41:13",
+      "album": {
+        "name": "Amiga Traidora (Cumbia TexMex)",
+        "url": "https://open.spotify.com/album/2y4Ew4yL1fhfDyNK38XmD1"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "duration_ms": 249540,
+      "name": "Amiga Traidora - Cumbia TexMex",
+      "url": "https://open.spotify.com/track/7aP0egv8A32jZLoO0OU56O"
     },
     {
       "added_at": "2026-01-24 00:41:13",
@@ -1855,22 +1855,18 @@
     {
       "added_at": "2026-01-24 00:41:13",
       "album": {
-        "name": "JUGANDO A QUE NO PASA NADA",
-        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
+        "name": "Cumbia y Amor",
+        "url": "https://open.spotify.com/album/5DGuCQcoaVK1Vems5uswJ0"
       },
       "artists": [
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
         }
       ],
-      "duration_ms": 209492,
-      "name": "POR QU\u00c9 SER\u00c1",
-      "url": "https://open.spotify.com/track/7cXGHxIoogqDTvbuLj0dsO"
+      "duration_ms": 173430,
+      "name": "Si A Todo",
+      "url": "https://open.spotify.com/track/55yeoyVLs09v8qKpLrSpDL"
     }
   ],
   "unique_name": "Super Cumbias",

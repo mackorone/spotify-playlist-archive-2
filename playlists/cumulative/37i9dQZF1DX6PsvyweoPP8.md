@@ -4,7 +4,7 @@
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-315 songs - 15 hr 26 min
+316 songs - 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Relaxa](https://open.spotify.com/track/3mc1LoarFdYhBxHewaDzfN) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Thiago Kelbert](https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM) | [Relaxa](https://open.spotify.com/album/7mwWu9YLbSBDzR88dMib8S) | 2:40 | 2022-07-08 | 2023-08-19 |
 | [Relaxa](https://open.spotify.com/track/6vVqy8Tn3l2yJqBgPU5g3D) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Thiago Kelbert](https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM) | [Relaxa](https://open.spotify.com/album/726od9RXgGCfcR6KOHGIqz) | 2:40 | 2022-03-18 | 2022-07-29 |
 | [Rihanna](https://open.spotify.com/track/2OmSPqvPsPK5m5X6UByh5S) | [Junior Lord](https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP) | [Rihanna](https://open.spotify.com/album/6DoJq2RqQevgGMkpAFuPtw) | 2:39 | 2022-03-18 | 2024-06-15 |
+| [Sabe onde me encontar](https://open.spotify.com/track/6E1AzVIFvPdvMPq4WVigoh) | [Devasto Prod](https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc), [Druhh e Drehh](https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf) | [Sabe onde me encontar](https://open.spotify.com/album/6aailZeGwqA6NDtHekl6X1) | 2:51 | 2026-03-02 |  |
 | [Sainha da Cyclone](https://open.spotify.com/track/0xa752Vw66MVIEz7AzfzUQ) | [Chinegrx](https://open.spotify.com/artist/7muINs5szM4GmeutBgu3ec), [Brunnin](https://open.spotify.com/artist/7sOl1POwSHsoZ2ezDJIapz), [Hpbeats](https://open.spotify.com/artist/4R26sDu3fyRuZVcnjTA5lj) | [Sainha da Cyclone](https://open.spotify.com/album/0FKsqgos6juV7KVz03kaJD) | 2:45 | 2022-03-18 | 2022-08-06 |
 | [Sainha Rosa](https://open.spotify.com/track/6Nsm1jyRtGUz9YVFgYNtso) | [Nath Audizio](https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK), [MARINA NA VOZ](https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G) | [Sainha Rosa](https://open.spotify.com/album/5VSwMBzpqIZxJxUZFx6HQF) | 2:38 | 2024-01-12 | 2024-02-24 |
 | [SALA VERMELHA \#20 \- Cynthia Luz](https://open.spotify.com/track/7jCAyZWThBcg1IWdSLWKWw) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ) | [SALA VERMELHA \#20 \- Cynthia Luz](https://open.spotify.com/album/5wZg7OKvX8y2sMcjyAdVTL) | 2:41 | 2025-03-17 |  |

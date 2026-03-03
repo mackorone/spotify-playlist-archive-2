@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-02",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "1DK",
       "url": "https://open.spotify.com/track/1NbIgGzU9Xjj8XlDbQtN8I"
@@ -306,7 +306,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 178500,
       "name": "Break my brain",
       "url": "https://open.spotify.com/track/4oGRoXvedZfVkhyl6gKJQG"
@@ -422,7 +422,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 114468,
       "name": "can't",
       "url": "https://open.spotify.com/track/043q2mHs10VHctg7zt6tzR"
@@ -1064,7 +1064,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 170500,
       "name": "Fragments of your presence",
       "url": "https://open.spotify.com/track/1dU3LM9sT5brDXG8C7aXZA"
@@ -1380,7 +1380,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 197973,
       "name": "I spend too much time on the internet to care about the small things",
       "url": "https://open.spotify.com/track/3qHOPE9thwIvqfO274o8Gn"
@@ -2070,10 +2070,32 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 156610,
       "name": "So long (waiting 4 this)",
       "url": "https://open.spotify.com/track/3kNeuB76ICOmIUljH4MJFJ"
+    },
+    {
+      "album": {
+        "name": "So long (waiting 4 this) [jdlyn20XX Remix]",
+        "url": "https://open.spotify.com/album/3sBOMeUI2e2kS4Y3JmGUzU"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        },
+        {
+          "name": "jdlyn20XX",
+          "url": "https://open.spotify.com/artist/3xv036BHsDS6PxzqELsTQt"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129729,
+      "name": "So long (waiting 4 this) - jdlyn20XX Remix",
+      "url": "https://open.spotify.com/track/07VD62dv4ZRahqUIlZmiIm"
     },
     {
       "album": {

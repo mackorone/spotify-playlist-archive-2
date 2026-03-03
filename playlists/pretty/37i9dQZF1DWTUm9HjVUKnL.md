@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Damiano David
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,539 likes - 1,111 songs - 2 day 18 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,551 likes - 1,111 songs - 2 day 18 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -434,7 +434,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 424 | [LVRN Cypher \- Spotify Singles \(feat\. BRS Kash, OMB Bloodbath & NoonieVsEverybody\)](https://open.spotify.com/track/5YEePADyz2hikwHQD2s0Zs) | [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [BRS Kash](https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa), [OMB Bloodbath](https://open.spotify.com/artist/791JV2CttYVOeGa9F6Kdu3), [NoonieVsEverybody](https://open.spotify.com/artist/5PepByqZbni3dXJXF2eTaB) | [Spotify Singles](https://open.spotify.com/album/1qMeRepClRhPB8u45GHMtd) | 5:50 |
 | 425 | [Cobarde \- Spotify Singles](https://open.spotify.com/track/1YrpPdjVU89FeCvSMsUYLr) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Spotify Singles](https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1) | 3:11 |
 | 426 | [More Than Words \- Spotify Singles](https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Spotify Singles](https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1) | 3:33 |
-| 427 | [Trouble \- Spotify Singles](https://open.spotify.com/track/5i5zn4un7FhVeNYiGNnLDA) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Trouble \- Spotify Singles](https://open.spotify.com/album/2m0Xqa3n7iERLXzSMUchf8) | 2:50 |
+| 427 | [Trouble](https://open.spotify.com/track/5i5zn4un7FhVeNYiGNnLDA) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Trouble](https://open.spotify.com/album/2m0Xqa3n7iERLXzSMUchf8) | 2:50 |
 | 428 | [Mitt hjärta blöder \- Spotify Studio It’s Hits Recording](https://open.spotify.com/track/1qGPIV4FDsZAmhdrTkIU5G) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Mitt hjärta blöder \- Spotify Studio It’s Hits Recording](https://open.spotify.com/album/1IjSZcNfQQ7eVLvvGycnkL) | 2:57 |
 | 429 | [WITHOUT YOU \- Spotify Singles](https://open.spotify.com/track/4vztZvxyCfrct6XQanbo4S) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Spotify Singles](https://open.spotify.com/album/5NAZBw4kl4CLl8N14lGxQy) | 2:51 |
 | 430 | [Shot For Me \- Spotify Singles](https://open.spotify.com/track/4rVpFdm9XDYC27qxJvjLRS) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Spotify Singles](https://open.spotify.com/album/5NAZBw4kl4CLl8N14lGxQy) | 1:57 |

@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Alies, Zuna
 
-345 songs - 15 hr 40 min
+346 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [1402](https://open.spotify.com/track/4OcXOTJAYveGoyiLsOOybi) | [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05), [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [1402](https://open.spotify.com/album/21eTkiqy0EM7LDTSnGGOSK) | 2:15 | 2025-02-27 | 2025-05-01 |
 | [1995](https://open.spotify.com/track/4AdhQGPnOKrH0EJWXc2EEM) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [1995](https://open.spotify.com/album/5BLwflc68gAR6cJG2tU6HK) | 2:46 | 2024-06-28 |  |
 | [2 Meter tiefer](https://open.spotify.com/track/30uhHnDywyLLAgSGPZIOPK) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [2 Meter tiefer](https://open.spotify.com/album/3LST5TzEaiA0qVjiuF71zu) | 3:54 | 2025-03-24 | 2025-10-12 |
-| [2 Zimmer](https://open.spotify.com/track/7iocNlh0ozGWEYMcB13EYr) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [2 Zimmer](https://open.spotify.com/album/0TM0kOkdyN5agmpLOX7a3t) | 1:53 | 2026-01-30 |  |
+| [2 Zimmer](https://open.spotify.com/track/7iocNlh0ozGWEYMcB13EYr) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [2 Zimmer](https://open.spotify.com/album/0TM0kOkdyN5agmpLOX7a3t) | 1:53 | 2026-01-30 | 2026-03-03 |
 | [212 km/h](https://open.spotify.com/track/0snt282zjuoVMG6nBRPJBp) | [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [212 km/h](https://open.spotify.com/album/31ECHyDrYntbBAfW4uNLoa) | 2:38 | 2025-08-21 | 2025-10-05 |
 | [24](https://open.spotify.com/track/2KQI8OvWiO3Dc4qI11ph0h) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [24](https://open.spotify.com/album/2mwxpip46E0BT2DPXW9LVo) | 3:31 | 2026-01-30 |  |
 | [2k16 \(weisst du noch?\)](https://open.spotify.com/track/2ZZslwE85qLLvtZWODRcVD) | [CAMO23](https://open.spotify.com/artist/2BdRV1FwKGgoa4c9iusJ2C), [YBRE](https://open.spotify.com/artist/7qdBCGakEd1aUD8noTmsfs) | [2k16 \(weisst du noch?\)](https://open.spotify.com/album/6hLoNsUVECPm8QadaRfwpm) | 2:00 | 2026-01-23 | 2026-02-16 |
@@ -301,6 +301,7 @@
 | [tempo](https://open.spotify.com/track/2sTXJinZQxl58tFCTYtEqa) | [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS), [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [tempo](https://open.spotify.com/album/3T77zsspapRdhGH9FXf4A7) | 2:44 | 2024-06-28 |  |
 | [Therapie](https://open.spotify.com/track/4DmkCxj5WLnT3LQDG0MUY0) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Therapie](https://open.spotify.com/album/33zy8DA1rCHiRbfF5VnmOW) | 3:15 | 2025-05-15 |  |
 | [Tinnitus](https://open.spotify.com/track/4SamJ1uIL2OzAFgDGdnhx0) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Glas](https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6) | 3:02 | 2024-06-28 | 2024-12-10 |
+| [Titan](https://open.spotify.com/track/4Z2oZGSnpQaPOTnKkg8A6h) | [Apsilon](https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm) | [Titan](https://open.spotify.com/album/4HBMG7zg1DA95a7mj7Wyzl) | 3:06 | 2026-02-27 |  |
 | [Tochter](https://open.spotify.com/track/4FQ4jb3BC5ZieMSeOJGwMc) | [Disarstar](https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5), [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Tochter](https://open.spotify.com/album/0pf0lpX0VnYbL1aBgxEz1o) | 2:50 | 2025-08-14 | 2025-09-24 |
 | [trauen](https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [trauen](https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po) | 2:44 | 2024-08-12 | 2024-11-09 |
 | [ufos](https://open.spotify.com/track/2sR8MJNpZ2rucdoWlaAWK1) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [ufos](https://open.spotify.com/album/40wI7xjZ9bsRDtewoLXpTH) | 2:14 | 2024-08-22 | 2024-11-23 |

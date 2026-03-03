@@ -1,6 +1,6 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 62700,
+  "num_followers": 62705,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "Turn Up The Quiet",
-        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 278293,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD"
-    },
-    {
-      "added_at": "2026-02-09 02:43:34",
-      "album": {
         "name": "The Very Thought of You",
         "url": "https://open.spotify.com/album/58CRSHezL90l3bMuC23ZoP"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 286423,
       "name": "Les yeux ouverts (dream a little dream of me)",
       "url": "https://open.spotify.com/track/2RcwqefTH11THzlwJHoS6D"
+    },
+    {
+      "added_at": "2026-02-09 02:43:34",
+      "album": {
+        "name": "Turn Up The Quiet",
+        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 278293,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "Por Pouco (Bit Box)",
-        "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
-      },
-      "artists": [
-        {
-          "name": "Mundo Livre S/A",
-          "url": "https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC"
-        }
-      ],
-      "duration_ms": 259480,
-      "name": "Meu Esquema",
-      "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
-    },
-    {
-      "added_at": "2026-02-09 02:43:34",
-      "album": {
         "name": "Sim",
         "url": "https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 249973,
       "name": "Amado",
       "url": "https://open.spotify.com/track/1UehyRYWHQxfj52XJbswIv"
+    },
+    {
+      "added_at": "2026-02-09 02:43:34",
+      "album": {
+        "name": "Por Pouco (Bit Box)",
+        "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
+      },
+      "artists": [
+        {
+          "name": "Mundo Livre S/A",
+          "url": "https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC"
+        }
+      ],
+      "duration_ms": 259480,
+      "name": "Meu Esquema",
+      "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "The Best Is Yet to Come - The Songs of Cy Coleman",
-        "url": "https://open.spotify.com/album/2d6MOVjMtiiFoZNHK9Xk0p"
-      },
-      "artists": [
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        }
-      ],
-      "duration_ms": 316840,
-      "name": "Why Try to Change Me Now",
-      "url": "https://open.spotify.com/track/7fKA60i4JhkavVw7fQFOHS"
-    },
-    {
-      "added_at": "2026-02-09 02:43:34",
-      "album": {
         "name": "Around The City",
         "url": "https://open.spotify.com/album/2kbn1xuLBYfxgsZbaIxzGO"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 240413,
       "name": "Save Your Love For Me",
       "url": "https://open.spotify.com/track/4gx7UBlipR1ZAkJq2d36Mr"
+    },
+    {
+      "added_at": "2026-02-09 02:43:34",
+      "album": {
+        "name": "The Best Is Yet to Come - The Songs of Cy Coleman",
+        "url": "https://open.spotify.com/album/2d6MOVjMtiiFoZNHK9Xk0p"
+      },
+      "artists": [
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "duration_ms": 316840,
+      "name": "Why Try to Change Me Now",
+      "url": "https://open.spotify.com/track/7fKA60i4JhkavVw7fQFOHS"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "Hooray For Love",
-        "url": "https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c"
-      },
-      "artists": [
-        {
-          "name": "Curtis Stigers",
-          "url": "https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu"
-        }
-      ],
-      "duration_ms": 259573,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV"
-    },
-    {
-      "added_at": "2026-02-09 02:43:34",
-      "album": {
         "name": "Jazz and 80s - Part Two",
         "url": "https://open.spotify.com/album/4ID02AcGSCFRNg0qzg07TU"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 248906,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/79z93nZe6GxczLOvhrnObn"
+    },
+    {
+      "added_at": "2026-02-09 02:43:34",
+      "album": {
+        "name": "Hooray For Love",
+        "url": "https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c"
+      },
+      "artists": [
+        {
+          "name": "Curtis Stigers",
+          "url": "https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu"
+        }
+      ],
+      "duration_ms": 259573,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "Next Time",
-        "url": "https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 318077,
-      "name": "Next Time",
-      "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
-    },
-    {
-      "added_at": "2026-02-09 02:43:34",
-      "album": {
         "name": "What Love Is",
         "url": "https://open.spotify.com/album/0hEwSReR8W9NMlL8uMrklp"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 279853,
       "name": "Let\u2019s Make The Most Of A Beautiful Thing",
       "url": "https://open.spotify.com/track/187NSXSWDou7TqG1AtLVLW"
+    },
+    {
+      "added_at": "2026-02-09 02:43:34",
+      "album": {
+        "name": "Next Time",
+        "url": "https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 318077,
+      "name": "Next Time",
+      "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/1jHMh9wZHmRbBAnRpi8KLL"
+      },
+      "artists": [
+        {
+          "name": "Halie Loren",
+          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
+        }
+      ],
+      "duration_ms": 257253,
+      "name": "Beyond the Sea",
+      "url": "https://open.spotify.com/track/0z7HoTIz4VyKF8xldfxMK2"
+    },
+    {
+      "added_at": "2026-02-09 02:43:34",
+      "album": {
         "name": "Only Trust Your Heart",
         "url": "https://open.spotify.com/album/3ZocvPcE7EGyv9EEP95YeC"
       },
@@ -695,22 +711,6 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/1jHMh9wZHmRbBAnRpi8KLL"
-      },
-      "artists": [
-        {
-          "name": "Halie Loren",
-          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
-        }
-      ],
-      "duration_ms": 257253,
-      "name": "Beyond the Sea",
-      "url": "https://open.spotify.com/track/0z7HoTIz4VyKF8xldfxMK2"
-    },
-    {
-      "added_at": "2026-02-09 02:43:34",
-      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs"
       },
@@ -739,6 +739,38 @@
       "duration_ms": 277065,
       "name": "12th Avenue",
       "url": "https://open.spotify.com/track/2x5Rw8dR4Vi0tHSHk3ApNc"
+    },
+    {
+      "added_at": "2026-02-09 02:43:34",
+      "album": {
+        "name": "Joyride",
+        "url": "https://open.spotify.com/album/30zNfEzFZzFVSy4NFben4f"
+      },
+      "artists": [
+        {
+          "name": "Jamie Lancaster",
+          "url": "https://open.spotify.com/artist/0iRoi077zFrRThy27nP4GR"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "It Ain't Over 'Til It's Over",
+      "url": "https://open.spotify.com/track/5xtiAessAtry987cTy5maQ"
+    },
+    {
+      "added_at": "2026-02-09 02:43:34",
+      "album": {
+        "name": "You Are There",
+        "url": "https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM"
+      },
+      "artists": [
+        {
+          "name": "Kate Kortum",
+          "url": "https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D"
+        }
+      ],
+      "duration_ms": 345176,
+      "name": "You Are There",
+      "url": "https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -779,38 +811,6 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "You Are There",
-        "url": "https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM"
-      },
-      "artists": [
-        {
-          "name": "Kate Kortum",
-          "url": "https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D"
-        }
-      ],
-      "duration_ms": 345176,
-      "name": "You Are There",
-      "url": "https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY"
-    },
-    {
-      "added_at": "2026-02-09 02:43:34",
-      "album": {
-        "name": "Joyride",
-        "url": "https://open.spotify.com/album/30zNfEzFZzFVSy4NFben4f"
-      },
-      "artists": [
-        {
-          "name": "Jamie Lancaster",
-          "url": "https://open.spotify.com/artist/0iRoi077zFrRThy27nP4GR"
-        }
-      ],
-      "duration_ms": 181826,
-      "name": "It Ain't Over 'Til It's Over",
-      "url": "https://open.spotify.com/track/5xtiAessAtry987cTy5maQ"
-    },
-    {
-      "added_at": "2026-02-09 02:43:34",
-      "album": {
         "name": "I Love A Love Song!",
         "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
       },
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "The Nearness Of You",
-        "url": "https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        }
-      ],
-      "duration_ms": 135421,
-      "name": "The Nearness Of You",
-      "url": "https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz"
-    },
-    {
-      "added_at": "2026-02-09 02:43:34",
-      "album": {
         "name": "Linger Awhile",
         "url": "https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 294287,
       "name": "Misty",
       "url": "https://open.spotify.com/track/4Pjs6JmmSq4v9FuZFnWIng"
+    },
+    {
+      "added_at": "2026-02-09 02:43:34",
+      "album": {
+        "name": "The Nearness Of You",
+        "url": "https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "duration_ms": 135421,
+      "name": "The Nearness Of You",
+      "url": "https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "I Fall in Love Too Easily",
-        "url": "https://open.spotify.com/album/3rDgFZJUoQaL75W7b99sUZ"
-      },
-      "artists": [
-        {
-          "name": "Katharine McPhee",
-          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "All the Way",
-      "url": "https://open.spotify.com/track/3tNEV2BCuKN6c9OveYpF0S"
-    },
-    {
-      "added_at": "2026-02-09 02:43:34",
-      "album": {
         "name": "Al Pr\u00edncipe Bossa",
         "url": "https://open.spotify.com/album/2RxNlfJ7ApMdXoIH9WwvcH"
       },
@@ -923,18 +907,18 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "Jazz and Essentials",
-        "url": "https://open.spotify.com/album/3xdxSXdYCpmndfRGC1OZTY"
+        "name": "I Fall in Love Too Easily",
+        "url": "https://open.spotify.com/album/3rDgFZJUoQaL75W7b99sUZ"
       },
       "artists": [
         {
-          "name": "48th St. Collective",
-          "url": "https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn"
+          "name": "Katharine McPhee",
+          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
         }
       ],
-      "duration_ms": 197626,
-      "name": "Rat In My Kitchen",
-      "url": "https://open.spotify.com/track/5L9AhlWonCDOuv5frdT0bn"
+      "duration_ms": 235866,
+      "name": "All the Way",
+      "url": "https://open.spotify.com/track/3tNEV2BCuKN6c9OveYpF0S"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -951,6 +935,22 @@
       "duration_ms": 152106,
       "name": "For the Love of Freedom",
       "url": "https://open.spotify.com/track/2yuDexdINZo3jxbFHf5fLw"
+    },
+    {
+      "added_at": "2026-02-09 02:43:34",
+      "album": {
+        "name": "Jazz and Essentials",
+        "url": "https://open.spotify.com/album/3xdxSXdYCpmndfRGC1OZTY"
+      },
+      "artists": [
+        {
+          "name": "48th St. Collective",
+          "url": "https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn"
+        }
+      ],
+      "duration_ms": 197626,
+      "name": "Rat In My Kitchen",
+      "url": "https://open.spotify.com/track/5L9AhlWonCDOuv5frdT0bn"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "All About Chris",
-        "url": "https://open.spotify.com/album/0C82GvQXd2ls4jnK7Rf0UA"
-      },
-      "artists": [
-        {
-          "name": "Chris Connor",
-          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
-        }
-      ],
-      "duration_ms": 180146,
-      "name": "All About Ronnie",
-      "url": "https://open.spotify.com/track/4s5MqP3R5MiKit4wauAGNH"
-    },
-    {
-      "added_at": "2026-02-09 02:43:34",
-      "album": {
         "name": "Young & Na\u00efve",
         "url": "https://open.spotify.com/album/0cPAHgBYVCD2FcdGMxsPaa"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 231013,
       "name": "To Have & to Hold",
       "url": "https://open.spotify.com/track/7HOyzeUeL7QUX0siA5T7FV"
+    },
+    {
+      "added_at": "2026-02-09 02:43:34",
+      "album": {
+        "name": "All About Chris",
+        "url": "https://open.spotify.com/album/0C82GvQXd2ls4jnK7Rf0UA"
+      },
+      "artists": [
+        {
+          "name": "Chris Connor",
+          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
+        }
+      ],
+      "duration_ms": 180146,
+      "name": "All About Ronnie",
+      "url": "https://open.spotify.com/track/4s5MqP3R5MiKit4wauAGNH"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -1235,18 +1235,22 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "Relaxing Bossa Lounge",
-        "url": "https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw"
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/6IFHK7RBdfloqcLW53wroM"
       },
       "artists": [
         {
-          "name": "Monique Kessous",
-          "url": "https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI"
+          "name": "OVN",
+          "url": "https://open.spotify.com/artist/0E4q1wpuPwtqbDr6Okw304"
+        },
+        {
+          "name": "chrln",
+          "url": "https://open.spotify.com/artist/5R1KD32YuMNzZszCHlZsHg"
         }
       ],
-      "duration_ms": 158931,
-      "name": "A Hard Day\u00b4s Night (Bossa Version)",
-      "url": "https://open.spotify.com/track/1SE6dKoxp3X9gnHQmoer4J"
+      "duration_ms": 121385,
+      "name": "Full Moon",
+      "url": "https://open.spotify.com/track/6KWqDGRYrY4T7sRdDhTnOX"
     }
   ],
   "unique_name": "\u7235\u58eb\u60c5\u6b4c",

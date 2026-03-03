@@ -4,7 +4,7 @@
 
 > Your essential Ramadan Series songs! Cover: Ramy Sabry
 
-167 songs - 9 hr 3 min
+168 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Aw'at](https://open.spotify.com/track/2cjs0pwhhX9wZhJQ5llkoY) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Aw'at](https://open.spotify.com/album/1aNKF3LKw8wW65AWg9LRAX) | 3:41 | 2024-03-10 | 2025-03-14 |
 | [Aw'at \(Acoustic Version\)](https://open.spotify.com/track/0v034Wtk8VdmetOJGMAVZV) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Aw'at \(Acoustic Version\)](https://open.spotify.com/album/6pQPztLyEyAIPZEzIzOzs1) | 3:05 | 2024-03-10 | 2025-03-04 |
 | [B3edt](https://open.spotify.com/track/0eMjsK29gmH9QwuPXoVQtG) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [B3edt](https://open.spotify.com/album/4HATYluFrW4xQFt6pLMlbR) | 2:04 | 2024-03-10 | 2025-03-13 |
-| [Bahlam Waftah Enaya](https://open.spotify.com/track/6Z91BIoX8EZuKFECZ0xWIB) | [Ali El Haggar](https://open.spotify.com/artist/6pnyGPcDohIUFHU2AJfDT6), [Hanan Mady](https://open.spotify.com/artist/6JiYm4VkRDfzUbKuRdO6xZ) | [Tegeesh Naeesh](https://open.spotify.com/album/34zmTDhsfhU2RKUq9RuIFY) | 2:55 | 2026-02-10 |  |
+| [Bahlam Waftah Enaya](https://open.spotify.com/track/6Z91BIoX8EZuKFECZ0xWIB) | [Ali El Haggar](https://open.spotify.com/artist/6pnyGPcDohIUFHU2AJfDT6), [Hanan Mady](https://open.spotify.com/artist/6JiYm4VkRDfzUbKuRdO6xZ) | [Tegeesh Naeesh](https://open.spotify.com/album/34zmTDhsfhU2RKUq9RuIFY) | 2:55 | 2026-02-10 | 2026-03-03 |
 | [Baladna](https://open.spotify.com/track/5il1M2JH5NJ0UouRxilHaB) | [Loai](https://open.spotify.com/artist/5OcZpV21cb8KFH7iTEnNwe) | [Alabt El Donia](https://open.spotify.com/album/7GgQQP8K6FLAjGjy13SR53) | 3:09 | 2024-03-10 | 2025-03-04 |
 | [Bel ba2i leban](https://open.spotify.com/track/0mjqrOGKJg8HYkDGyaXLrs) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ahmed Fahmi](https://open.spotify.com/artist/76Rq7hIe7VzoXmNFnySa1j) | [Bel ba2i leban](https://open.spotify.com/album/4tEPWJxsgEnSan6cjGMqpy) | 1:54 | 2024-03-10 | 2025-03-04 |
 | [Byekhtelif El Hadis](https://open.spotify.com/track/6cy3DFiCOxFPFvqJB4Yhqe) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Byekhtelif El Hadis](https://open.spotify.com/album/5rvsqtrHc5RUoa5MoIzpyf) | 3:13 | 2024-03-10 | 2025-03-04 |
@@ -125,6 +125,7 @@
 | [تتر مسلسل اعلى نسبة مشاهدة](https://open.spotify.com/track/4Iiq2NVD8Y3bhZ6ArbH9JE) | [Pousi](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7) | [تتر مسلسل اعلى نسبة مشاهدة](https://open.spotify.com/album/1vnWziMG73K1Bg2N37t43k) | 3:15 | 2024-03-21 | 2025-03-04 |
 | [تتر مسلسل صدفة](https://open.spotify.com/track/12F6rNixnmVNXqqPaogMgj) | [مسلم](https://open.spotify.com/artist/3T3MXGyT0JUhh8QiW7X2Ha), [اوكا](https://open.spotify.com/artist/3iBCuclUWFl1ozuyqphlyK), [Reham Haggag](https://open.spotify.com/artist/2Z98zeSBR1FrMBFXry65tV) | [تتر مسلسل صدفة](https://open.spotify.com/album/15jNREV1M2MUlVs0AjW3rO) | 3:15 | 2024-03-12 | 2025-02-28 |
 | [تحية \- من مسلسل لعبة وقلبت بجد](https://open.spotify.com/track/47ZPOStAXyjOvmO8MNPyGQ) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [تحية \(من مسلسل لعبة وقلبت بجد\)](https://open.spotify.com/album/4EQMImTVpj4VJrd5rdFjRk) | 2:24 | 2026-02-18 |  |
+| [تربية حيه \(تتر مسلسل علي كلاي\)](https://open.spotify.com/track/1xl7SZhnqXn5yordCRTqdA) | [Yara Mohamed](https://open.spotify.com/artist/29nvzTxUgaF2Hjka84IgkD) | [تربية حيه \(تتر مسلسل علي كلاي\)](https://open.spotify.com/album/5DtWvEsLjdEV049XMAhElr) | 3:35 | 2026-02-26 |  |
 | [تعالالي حبيبي الليلة](https://open.spotify.com/track/3quMoxktYlgORFxQt4CpAI) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Mai Omar](https://open.spotify.com/artist/3VZQvZXsTyCzwjhXJgv2tC) | [تعالالي حبيبي الليلة](https://open.spotify.com/album/4E7h6qYmzp5gpjtmk4T0uW) | 1:49 | 2025-03-06 |  |
 | [جزيرة غمام \- تتر المسلسل](https://open.spotify.com/track/22SbTvVv0gL4mPlWTDtTk2) | [Ali El Haggar](https://open.spotify.com/artist/6pnyGPcDohIUFHU2AJfDT6) | [جزيرة غمام \(تتر المسلسل\)](https://open.spotify.com/album/6q8pXCHu6z0AfOvJTTfs3F) | 3:49 | 2026-02-10 | 2026-02-19 |
 | [جوة الجحور](https://open.spotify.com/track/2qpxshCadd6uCSrOmeLKZN) | [Wael El Fashny](https://open.spotify.com/artist/3HmBF9Z6hSXHWDMgLALAnD) | [جوة الجحور](https://open.spotify.com/album/1FuC6Dhc1404uUKJXBQLjL) | 4:22 | 2024-03-12 | 2025-02-28 |

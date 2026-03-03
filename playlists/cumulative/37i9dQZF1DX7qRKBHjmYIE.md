@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Los Aptos.
 
-984 songs - 2 day 5 hr 3 min
+985 songs - 2 day 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -507,7 +507,7 @@
 | [Love You Like A Love Song](https://open.spotify.com/track/3Ge27Zxv9DLpYenWdoUyVJ) | [Kauai45](https://open.spotify.com/artist/01veRCzqGIkUMo7L5PyBAD) | [Love You Like A Love Song](https://open.spotify.com/album/52oyEMc0XE02mCIGFJ1bys) | 1:21 | 2023-02-17 | 2023-05-13 |
 | [LOVELANGUAGE](https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [LOVELANGUAGE](https://open.spotify.com/album/24EzuFTRRdDYt4ZX7djyio) | 3:44 | 2023-10-20 | 2024-04-13 |
 | [low key](https://open.spotify.com/track/3bCRdEmYFPFQXQuw4kVKab) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [low key](https://open.spotify.com/album/7C0ZJIs2Xe4VdwyhENJSQF) | 4:14 | 2024-01-19 | 2024-04-13 |
-| [Lucero](https://open.spotify.com/track/0PZEQTuukLN5d5VhFOXML5) | [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG) | [Lucero](https://open.spotify.com/album/3S8BSzmo1AQcShRuxJgN6A) | 3:46 | 2025-11-07 |  |
+| [Lucero](https://open.spotify.com/track/0PZEQTuukLN5d5VhFOXML5) | [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG) | [Lucero](https://open.spotify.com/album/3S8BSzmo1AQcShRuxJgN6A) | 3:46 | 2025-11-07 | 2026-03-03 |
 | [luchador](https://open.spotify.com/track/32NwtN9F0vSxTOZQpMIuJZ) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [luchador ep](https://open.spotify.com/album/3oaIJcAqtbu6NMzcpFgLk0) | 2:22 | 2023-11-17 | 2024-01-29 |
 | [Lucid Dream](https://open.spotify.com/track/0EH9R67SvlEYGFwdVpa6bB) | [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6) | [Lucid Dream](https://open.spotify.com/album/61fX7FNQK2NvtK16unJ8Uj) | 3:07 | 2021-12-02 | 2022-01-25 |
 | [LULUNA](https://open.spotify.com/track/3FEEtt6a2JNuoxkBPOaFO8) | [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [LULUNA](https://open.spotify.com/album/6ONpKrCEQZQGVCULcGTEcq) | 3:08 | 2024-01-12 | 2024-04-19 |
@@ -569,6 +569,7 @@
 | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL) | 2:01 | 2023-08-25 | 2024-01-27 |
 | [Mi Onda](https://open.spotify.com/track/3Y6yikGRZOjA2SeDccoe6Z) | [ProdMarvin](https://open.spotify.com/artist/0GZZDfmSrMDswOFc9nBWQz) | [Mi Onda/Elen](https://open.spotify.com/album/3arQJO6lDTHZgKox9ToHen) | 2:30 | 2024-01-26 | 2024-07-13 |
 | [Mi Otra Mitad](https://open.spotify.com/track/2GWbiQolZqxJhuq4ScqrCY) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/6dgBlaN3n2sALXgwzIRmBn) | 2:51 | 2022-01-24 | 2022-03-22 |
+| [Mi Terraza](https://open.spotify.com/track/6liXtsSKDHM1OPMbmszF70) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [GOLOSA](https://open.spotify.com/album/3vVYr1YoOAONCCiNYGHCfr) | 3:34 | 2026-02-27 |  |
 | [miau](https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [miau](https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts) | 3:26 | 2026-01-16 |  |
 | [midsummer pipe dream](https://open.spotify.com/track/6nkQrHvWMu0vSse3nQGSPV) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [midsummer pipe dream](https://open.spotify.com/album/6HQsc7j2EyHMh5ph8tNbfH) | 2:36 | 2025-07-25 |  |
 | [Miel](https://open.spotify.com/track/3gT7PmnAnGV08uHVcEwONA) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [Cabra](https://open.spotify.com/artist/1ZBJ5DMUE7UDWuxp3b5Cy3) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 2:52 | 2023-09-29 | 2023-10-14 |

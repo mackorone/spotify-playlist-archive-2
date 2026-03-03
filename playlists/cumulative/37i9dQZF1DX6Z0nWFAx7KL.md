@@ -4,7 +4,7 @@
 
 > easy breezy music ☀️☺️
 
-357 songs - 17 hr 39 min
+358 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [Sunlight](https://open.spotify.com/track/595M3e9mqepEd19NGVEABi) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Sunlight](https://open.spotify.com/album/2P0ApHEYZEpv1qa6hzI7bM) | 3:49 | 2023-10-02 | 2024-09-11 |
 | [Sunset](https://open.spotify.com/track/2mCDr3iGivDH7rGBVIgkUf) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu) | [Sunset](https://open.spotify.com/album/75SOVqtkavzS4o2DlS9KcG) | 2:58 | 2024-07-04 | 2024-09-27 |
 | [Sunshine](https://open.spotify.com/track/1VEziHkHWy6sfVnEXq1j5q) | [Palm Trees](https://open.spotify.com/artist/3IYNUniWKkMmHKUHssC392) | [Sunshine](https://open.spotify.com/album/286kpjUvHwKKK19JR7OggD) | 2:36 | 2023-06-08 | 2024-08-31 |
+| [Supercolor \(feat\. CECI\)](https://open.spotify.com/track/5MivC2zico0hz5JFvZK9lz) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG) | [The Cocktail Hour](https://open.spotify.com/album/0eGzoGDUX6ZSQhuY8DT7Ct) | 3:31 | 2026-02-27 |  |
 | [Sweet Harmony](https://open.spotify.com/track/14Hg8gKCCboRLw0yXpcrMV) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Dario Trapani](https://open.spotify.com/artist/3Hr5KIqDswsyQtOoDyJTmM), [Ivan Cappello](https://open.spotify.com/artist/7feK9L4NzDWTVvUlG6rZgR), [Sh3](https://open.spotify.com/artist/5OwncnHbQGwU9RtHWvsFvW) | [Sweet Harmony](https://open.spotify.com/album/6siJjSXj7shJrMIKY1yMzE) | 2:42 | 2022-09-15 | 2024-04-19 |
 | [Sweet Side \(feat\. Caitlyn Scarlett\)](https://open.spotify.com/track/6YGq0IfrGMx4KsF0GnFpP3) | [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [Caitlyn Scarlett](https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU) | [Sweet Side \(feat\. Caitlyn Scarlett\)](https://open.spotify.com/album/5g4LsEEhNuYX4h1d7a6EXR) | 3:03 | 2022-09-15 | 2022-11-17 |
 | [Take Me](https://open.spotify.com/track/7q6WQDxck4kIeoACgtV2Gs) | [Wänderlost](https://open.spotify.com/artist/7MN9KqDrLp1f8JZ7f1Wymb), [MEDEIA](https://open.spotify.com/artist/0uR3roDczoaOss4Ro7D30s) | [Take Me](https://open.spotify.com/album/6QyELjKQuXl6Mvorlgf30X) | 2:16 | 2022-09-15 | 2024-02-13 |
@@ -325,7 +326,7 @@
 | [This Love](https://open.spotify.com/track/2PviJnruGMviJLMtNgFgSD) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [This Love](https://open.spotify.com/album/1zMyK6lBwXheSrJkRlwb9o) | 3:55 | 2022-09-15 | 2022-11-09 |
 | [This Love](https://open.spotify.com/track/6WYRMJqj9wpYmIdSfHQuEO) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [This Love](https://open.spotify.com/album/4JQ00p7OYAiNsa3etPj070) | 3:55 | 2022-10-30 | 2022-11-17 |
 | [Thousand Lullabies](https://open.spotify.com/track/4WRtXqu9TmvvwZ3bzdcCVQ) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n) | [Thousand Lullabies](https://open.spotify.com/album/2dItiBT8SSIoydzHmiIMBU) | 2:09 | 2023-02-15 | 2025-04-25 |
-| [Together](https://open.spotify.com/track/50FC8Y5QFcRA8VtI2qiGDV) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Momentum](https://open.spotify.com/album/2h0Dp9MCVUU0Vp8wyHAMt8) | 2:22 | 2024-11-14 |  |
+| [Together](https://open.spotify.com/track/50FC8Y5QFcRA8VtI2qiGDV) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Momentum](https://open.spotify.com/album/2h0Dp9MCVUU0Vp8wyHAMt8) | 2:22 | 2024-11-14 | 2026-03-03 |
 | [Together](https://open.spotify.com/track/1f1DsFJHpMugn3zuRACUos) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Together](https://open.spotify.com/album/68kXIO39vMHYsJ0OcMa6mx) | 3:44 | 2022-09-15 | 2022-09-30 |
 | [Tomorrow Never Comes](https://open.spotify.com/track/6zAyDlVfft6Ghu2ddj0Mbh) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Tomorrow Never Comes](https://open.spotify.com/album/0c28IqwIVfV0gRpZOltI17) | 2:57 | 2023-03-02 | 2024-09-20 |
 | [Touch The Sun](https://open.spotify.com/track/249rJJaqaJQZj2OgxgkyAJ) | [Wontu](https://open.spotify.com/artist/2AgZ1BzHABUD9ZbuyI4aEb), [Woodworks](https://open.spotify.com/artist/52dU9TOW9QU33Cky6EV62Z) | [Touch The Sun](https://open.spotify.com/album/0gsRhITzyVtDhNN49igts8) | 2:25 | 2024-09-19 | 2025-04-07 |

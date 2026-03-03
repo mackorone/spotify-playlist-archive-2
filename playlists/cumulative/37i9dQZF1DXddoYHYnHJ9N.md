@@ -2,9 +2,9 @@
 
 ### [Hot Hits Magyarország](https://open.spotify.com/playlist/37i9dQZF1DXddoYHYnHJ9N)
 
-> Az 50 legnépszerűbb dal Magyarországon\. Cover: Beton.Hofi
+> Az 50 legnépszerűbb dal Magyarországon\. Cover: mollywood
 
-188 songs - 9 hr 18 min
+190 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Cigány\-ügy](https://open.spotify.com/track/4fzbwV7qglR3mPit64hXse) | [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [Rytmus](https://open.spotify.com/artist/1gRr6moof50L1b7XsbClvI), [Érdi Baba](https://open.spotify.com/artist/5CPKLSKScYKTRdr491KCJu) | [Cigány\-ügy](https://open.spotify.com/album/4wsF3ZBcwC74KWDMiWFjui) | 3:39 | 2024-07-01 | 2024-08-14 |
 | [cipoe](https://open.spotify.com/track/2H5Xte3poqJ1ld8HtmC7yc) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [cipoe](https://open.spotify.com/album/1aNoilrZREe8e16qX2fFTG) | 3:27 | 2024-07-01 | 2024-07-16 |
 | [Cry For Me](https://open.spotify.com/track/7a0RHaJoqL2Sjf0gra68Pc) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/6iyZdOoujtOwiThdAUI8TM) | 3:44 | 2025-02-03 | 2025-03-18 |
-| [Csurran, cseppen](https://open.spotify.com/track/17WGfCmpgardtW5rRbaE7T) | [Majka](https://open.spotify.com/artist/0D8reSG6hzc5KEQWZPYGFB) | [Csurran, cseppen](https://open.spotify.com/album/4qfxHp5vOfiCHKXwtEcwcM) | 4:10 | 2025-02-03 |  |
+| [Csurran, cseppen](https://open.spotify.com/track/17WGfCmpgardtW5rRbaE7T) | [Majka](https://open.spotify.com/artist/0D8reSG6hzc5KEQWZPYGFB) | [Csurran, cseppen](https://open.spotify.com/album/4qfxHp5vOfiCHKXwtEcwcM) | 4:10 | 2025-02-03 | 2026-03-03 |
 | [DADDY](https://open.spotify.com/track/4MQmgboYHKTI8Nfxd0nDjA) | [Mirror Glimpse](https://open.spotify.com/artist/6ugNgaIlOKz7Sy8wlEQDif) | [HATALMASABB, MINT GONDOLNÁD](https://open.spotify.com/album/4hV5BVV3paYc0R019cwl3O) | 2:17 | 2025-12-01 |  |
 | [Dealer](https://open.spotify.com/track/2wMFX5mdyz7RVzxUr8o9Ql) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [Dealer](https://open.spotify.com/album/75K2OKdnhDWARooA6QCwRe) | 2:09 | 2024-07-01 | 2024-08-20 |
 | [Demo](https://open.spotify.com/track/3huWs5M8a0MXTgc477aORn) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Demo](https://open.spotify.com/album/4eddCF6C4oHNORXbMSKHvZ) | 2:51 | 2025-08-04 |  |
@@ -57,6 +57,7 @@
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-07-01 | 2025-05-20 |
 | [EVIL J0RDAN](https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:03 | 2025-03-17 | 2025-04-29 |
 | [EZ AZ ÁRA](https://open.spotify.com/track/6yTX00Aj6tqE5WNSFCB9DZ) | [Moriones](https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ) | [EZ AZ ÁRA](https://open.spotify.com/album/2Yq1EgoRmXaTXjk7blZU96) | 3:02 | 2024-08-19 | 2025-11-11 |
+| [FEVER DREAM](https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FEVER DREAM](https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ) | 2:33 | 2026-03-02 |  |
 | [FREY TIMI](https://open.spotify.com/track/0vTNCXwJiPPs5rQ99fz68x) | [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O) | [FREY TIMI](https://open.spotify.com/album/7opLiKvuCVuAkdFMJN2t7k) | 2:35 | 2025-08-19 |  |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-07-01 | 2024-10-22 |
 | [Gengetek ellen](https://open.spotify.com/track/3mfSO4e6l0mlsjcNpqrktC) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Gengetek ellen](https://open.spotify.com/album/1sNJvYsvXA0QAkfb1DfrHY) | 2:49 | 2024-07-01 | 2024-08-14 |
@@ -158,6 +159,7 @@
 | [Smash!](https://open.spotify.com/track/59wn91U7xuJ5S1zkX8HmpK) | [ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM) | [Sose Alszok](https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy) | 2:24 | 2024-07-01 | 2024-08-14 |
 | [SOFIA COPPOLA](https://open.spotify.com/track/1LuXPfE3lgAzS8w5IcHAbL) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd) | [0](https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf) | 3:33 | 2024-07-01 | 2024-07-16 |
 | [STARBOY](https://open.spotify.com/track/2KlpczOaQj1KZEZeWVtIfV) | [BELANO](https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA) | [STARBOY](https://open.spotify.com/album/1RBFuiXVEbKXBC2ocWf9AE) | 2:36 | 2025-11-17 |  |
+| [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 | 2026-03-02 |  |
 | [Strawberry](https://open.spotify.com/track/6DmpM21b070AdtXm7Lc370) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Strawberry](https://open.spotify.com/album/1Yjm0RrLmt6LG9ng0mM6mU) | 2:42 | 2024-07-01 | 2024-12-31 |
 | [STRESSZ](https://open.spotify.com/track/0HQbcGdDDXz6YN1rH7SAQe) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [STRESSZ](https://open.spotify.com/album/33kQNgChvr8USSJ5lER3hJ) | 2:48 | 2025-07-28 | 2026-01-27 |
 | [SUV](https://open.spotify.com/track/6jIOiFrWhqvDGzwONFKl3j) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [BAKPAKK](https://open.spotify.com/album/0rxSEyr7JxVRxuUMtZ5eRT) | 1:49 | 2024-09-23 | 2026-02-04 |
@@ -169,7 +171,7 @@
 | [Szép](https://open.spotify.com/track/6rYTRrFZTcT3i3u0eG0fHX) | [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E), [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [Sisi](https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f), [BEATó](https://open.spotify.com/artist/3m410ob9E6v6HxcrpeSUqn) | [Spontán Kollabok](https://open.spotify.com/album/58pRsBtv0Sf4VRp3R70mXp) | 3:12 | 2025-03-24 | 2025-07-29 |
 | [SZÍVTIPRÓ](https://open.spotify.com/track/5LsAiClz23EjfEvQpyzuUi) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [SZÍVTIPRÓ](https://open.spotify.com/album/3drLrYFMCLk7wsa5Uk6b6k) | 3:15 | 2024-07-01 | 2025-11-11 |
 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 | 2024-11-04 | 2025-03-25 |
-| [SÖTÉT](https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [SÖTÉT](https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z) | 2:24 | 2025-05-19 |  |
+| [SÖTÉT](https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [SÖTÉT](https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z) | 2:24 | 2025-05-19 | 2026-03-03 |
 | [Talpra cigányok](https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Talpra cigányok](https://open.spotify.com/album/3Ea6OuVvsf0U9jE4Jzs9NU) | 2:26 | 2025-05-12 | 2025-12-16 |
 | [TARR BÉLA](https://open.spotify.com/track/5p5YCbMMA0J3YBhJWjm3Mc) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [TARR BÉLA](https://open.spotify.com/album/4HTtYynJ90orZbCh4Pqpgu) | 2:52 | 2025-11-20 | 2026-01-20 |
 | [Taxi](https://open.spotify.com/track/49ZZaqFCTTmSnOQGBzKZp9) | [Wellhello](https://open.spotify.com/artist/4URlJ0EofF5gUvCGDtxr3m), [Filo](https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee) | [Taxi](https://open.spotify.com/album/3lkXm481QaqMSRr85oxokl) | 2:25 | 2025-05-19 | 2025-06-25 |

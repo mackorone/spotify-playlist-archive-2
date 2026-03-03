@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Usted Se\u00f1alemelo en portada.",
-  "num_followers": 37779,
+  "num_followers": 37781,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2026-02-27 06:00:28",
       "album": {
+        "name": "Vinculo",
+        "url": "https://open.spotify.com/album/33sr9mQyBS6HDyG9NpSRpi"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 256713,
+      "name": "Vinculo",
+      "url": "https://open.spotify.com/track/2JXWGqA83AR8QDrYHnWabc"
+    },
+    {
+      "added_at": "2026-02-27 06:00:28",
+      "album": {
         "name": "Diamantes",
         "url": "https://open.spotify.com/album/2Yyxl3sTrmwzr0IAtI1nl8"
       },
@@ -319,18 +335,18 @@
     {
       "added_at": "2026-02-27 06:00:28",
       "album": {
-        "name": "Vinculo",
-        "url": "https://open.spotify.com/album/33sr9mQyBS6HDyG9NpSRpi"
+        "name": "Me has invitado a bailar",
+        "url": "https://open.spotify.com/album/2dtz3wrC1FrShzjLEy6xDp"
       },
       "artists": [
         {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
         }
       ],
-      "duration_ms": 256713,
-      "name": "Vinculo",
-      "url": "https://open.spotify.com/track/2JXWGqA83AR8QDrYHnWabc"
+      "duration_ms": 192906,
+      "name": "Me has invitado a bailar",
+      "url": "https://open.spotify.com/track/0JJw1ghkoEu3Yat1uOSjAE"
     },
     {
       "added_at": "2026-02-27 06:00:28",
@@ -351,38 +367,6 @@
     {
       "added_at": "2026-02-27 06:00:28",
       "album": {
-        "name": "Me has invitado a bailar",
-        "url": "https://open.spotify.com/album/2dtz3wrC1FrShzjLEy6xDp"
-      },
-      "artists": [
-        {
-          "name": "Dani Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
-        }
-      ],
-      "duration_ms": 192906,
-      "name": "Me has invitado a bailar",
-      "url": "https://open.spotify.com/track/0JJw1ghkoEu3Yat1uOSjAE"
-    },
-    {
-      "added_at": "2026-02-27 06:00:28",
-      "album": {
-        "name": "San Lucas",
-        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 247196,
-      "name": "San Lucas",
-      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
-    },
-    {
-      "added_at": "2026-02-27 06:00:28",
-      "album": {
         "name": "Gigante",
         "url": "https://open.spotify.com/album/3jf4hE1DY8n3eE8p7KpBVO"
       },
@@ -395,6 +379,26 @@
       "duration_ms": 218781,
       "name": "Cuarenta Mil",
       "url": "https://open.spotify.com/track/5m8gxrOo5vlwntpyn75eHF"
+    },
+    {
+      "added_at": "2026-02-27 06:00:28",
+      "album": {
+        "name": "Me Toca A M\u00ed",
+        "url": "https://open.spotify.com/album/3RCKLNKwB3g7i4UVxkTsY5"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 180340,
+      "name": "Me Toca A M\u00ed",
+      "url": "https://open.spotify.com/track/3SWXwV7jo4NFtRBVkpAq1U"
     },
     {
       "added_at": "2026-02-27 06:00:28",
@@ -419,22 +423,18 @@
     {
       "added_at": "2026-02-27 06:00:28",
       "album": {
-        "name": "Me Toca A M\u00ed",
-        "url": "https://open.spotify.com/album/3RCKLNKwB3g7i4UVxkTsY5"
+        "name": "San Lucas",
+        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
       },
       "artists": [
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
         }
       ],
-      "duration_ms": 180340,
-      "name": "Me Toca A M\u00ed",
-      "url": "https://open.spotify.com/track/3SWXwV7jo4NFtRBVkpAq1U"
+      "duration_ms": 247196,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
     },
     {
       "added_at": "2026-02-27 06:00:28",
@@ -475,6 +475,22 @@
     {
       "added_at": "2026-02-27 06:00:28",
       "album": {
+        "name": "Por Si No Te Vuelvo A Ver",
+        "url": "https://open.spotify.com/album/7HullqBwYSwjV2qZjb7DqP"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 185464,
+      "name": "Por Si No Te Vuelvo A Ver",
+      "url": "https://open.spotify.com/track/20enjIUEen7tNZXTRLDxXi"
+    },
+    {
+      "added_at": "2026-02-27 06:00:28",
+      "album": {
         "name": "PIRRI",
         "url": "https://open.spotify.com/album/4DWUUTlu2iKVG56uK3WIhB"
       },
@@ -491,34 +507,18 @@
     {
       "added_at": "2026-02-27 06:00:28",
       "album": {
-        "name": "CUERPOS, Vol. 1",
-        "url": "https://open.spotify.com/album/08oCrWpJJhLBSRqd6WczEV"
+        "name": "MARIPOSA TECKNICOLOR",
+        "url": "https://open.spotify.com/album/61goUJQEQm9DNsRUNfmOU6"
       },
       "artists": [
         {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 226181,
-      "name": "TIEMPO OFF",
-      "url": "https://open.spotify.com/track/6VZrGs2utNJM028PV2gPJB"
-    },
-    {
-      "added_at": "2026-02-27 06:00:28",
-      "album": {
-        "name": "Por Si No Te Vuelvo A Ver",
-        "url": "https://open.spotify.com/album/7HullqBwYSwjV2qZjb7DqP"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 185464,
-      "name": "Por Si No Te Vuelvo A Ver",
-      "url": "https://open.spotify.com/track/20enjIUEen7tNZXTRLDxXi"
+      "duration_ms": 180960,
+      "name": "MARIPOSA TECKNICOLOR",
+      "url": "https://open.spotify.com/track/6ZlQ4IpYvyUzfry3TdbSiA"
     },
     {
       "added_at": "2026-02-27 06:00:28",
@@ -543,18 +543,18 @@
     {
       "added_at": "2026-02-27 06:00:28",
       "album": {
-        "name": "MARIPOSA TECKNICOLOR",
-        "url": "https://open.spotify.com/album/61goUJQEQm9DNsRUNfmOU6"
+        "name": "CUERPOS, Vol. 1",
+        "url": "https://open.spotify.com/album/08oCrWpJJhLBSRqd6WczEV"
       },
       "artists": [
         {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 180960,
-      "name": "MARIPOSA TECKNICOLOR",
-      "url": "https://open.spotify.com/track/6ZlQ4IpYvyUzfry3TdbSiA"
+      "duration_ms": 226181,
+      "name": "TIEMPO OFF",
+      "url": "https://open.spotify.com/track/6VZrGs2utNJM028PV2gPJB"
     },
     {
       "added_at": "2026-02-27 06:00:28",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-02-27 06:00:28",
       "album": {
-        "name": "Vidrio por Doquier",
-        "url": "https://open.spotify.com/album/1yZpFG972NjuqaR6eAXMrV"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
-        }
-      ],
-      "duration_ms": 216666,
-      "name": "Vidrio por Doquier",
-      "url": "https://open.spotify.com/track/0CgjSAC3uPptcMJgBeYTLm"
-    },
-    {
-      "added_at": "2026-02-27 06:00:28",
-      "album": {
         "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
         "url": "https://open.spotify.com/album/6myqNV7RDwJGb0l5ESGT7a"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 226626,
       "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
       "url": "https://open.spotify.com/track/6vYVTjrP8Nd6nsdjCrabM5"
+    },
+    {
+      "added_at": "2026-02-27 06:00:28",
+      "album": {
+        "name": "Vidrio por Doquier",
+        "url": "https://open.spotify.com/album/1yZpFG972NjuqaR6eAXMrV"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Vidrio por Doquier",
+      "url": "https://open.spotify.com/track/0CgjSAC3uPptcMJgBeYTLm"
     },
     {
       "added_at": "2026-02-27 06:00:28",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-02-27 06:00:28",
       "album": {
-        "name": "odio a primera vista",
-        "url": "https://open.spotify.com/album/0SUOvTZTNdnEES1VpEW7Vu"
-      },
-      "artists": [
-        {
-          "name": "Ana Sofi W.",
-          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
-        }
-      ],
-      "duration_ms": 186996,
-      "name": "odio a primera vista",
-      "url": "https://open.spotify.com/track/4O7u2mKN9ovYtk3ejaJ87O"
-    },
-    {
-      "added_at": "2026-02-27 06:00:28",
-      "album": {
         "name": "Cuando Estamos T\u00fa Y Yo",
         "url": "https://open.spotify.com/album/1DH8vPGBYBcmzTg0TGKotF"
       },
@@ -847,18 +831,18 @@
     {
       "added_at": "2026-02-27 06:00:28",
       "album": {
-        "name": "Campeones del Mundo / Rayo de Luz",
-        "url": "https://open.spotify.com/album/2KWmh6cY1fCU4WNZtaIJvF"
+        "name": "odio a primera vista",
+        "url": "https://open.spotify.com/album/0SUOvTZTNdnEES1VpEW7Vu"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+          "name": "Ana Sofi W.",
+          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
         }
       ],
-      "duration_ms": 341600,
-      "name": "Rayo de Luz",
-      "url": "https://open.spotify.com/track/5f6NAUO04clfZMGEHh1ohC"
+      "duration_ms": 186996,
+      "name": "odio a primera vista",
+      "url": "https://open.spotify.com/track/4O7u2mKN9ovYtk3ejaJ87O"
     },
     {
       "added_at": "2026-02-27 06:00:28",
@@ -879,6 +863,22 @@
       "duration_ms": 235360,
       "name": "S\u00f3lo Qu\u00e9date En Silencio",
       "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
+    },
+    {
+      "added_at": "2026-02-27 06:00:28",
+      "album": {
+        "name": "Campeones del Mundo / Rayo de Luz",
+        "url": "https://open.spotify.com/album/2KWmh6cY1fCU4WNZtaIJvF"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "duration_ms": 341600,
+      "name": "Rayo de Luz",
+      "url": "https://open.spotify.com/track/5f6NAUO04clfZMGEHh1ohC"
     },
     {
       "added_at": "2026-02-27 06:00:28",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-02-27 06:00:28",
       "album": {
-        "name": "Pronta Entrega",
-        "url": "https://open.spotify.com/album/2adpz3njMHM4rxS3VQkmZp"
-      },
-      "artists": [
-        {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
-        }
-      ],
-      "duration_ms": 209500,
-      "name": "Pronta Entrega",
-      "url": "https://open.spotify.com/track/29oJaTMqGqyvhesh8kWttZ"
-    },
-    {
-      "added_at": "2026-02-27 06:00:28",
-      "album": {
         "name": "La Salvaci\u00f3n",
         "url": "https://open.spotify.com/album/6KJVk8Zi4jj3kvj9bL1AhC"
       },
@@ -955,38 +939,18 @@
     {
       "added_at": "2026-02-27 06:00:28",
       "album": {
-        "name": "No Volver\u00e9 </3",
-        "url": "https://open.spotify.com/album/5AVhXiB1Bzn2317WedCMvL"
+        "name": "Pronta Entrega",
+        "url": "https://open.spotify.com/album/2adpz3njMHM4rxS3VQkmZp"
       },
       "artists": [
         {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        },
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
         }
       ],
-      "duration_ms": 171636,
-      "name": "No Volver\u00e9 </3",
-      "url": "https://open.spotify.com/track/6wVU5qPXg1YoaEa5p1QHCU"
-    },
-    {
-      "added_at": "2026-02-27 06:00:28",
-      "album": {
-        "name": "brainchem",
-        "url": "https://open.spotify.com/album/1TIfjLBYhcmb9E8VuUvLPf"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 148636,
-      "name": "BRAINCHEM",
-      "url": "https://open.spotify.com/track/7fXIu7u2gX2zdGbBveKp2n"
+      "duration_ms": 209500,
+      "name": "Pronta Entrega",
+      "url": "https://open.spotify.com/track/29oJaTMqGqyvhesh8kWttZ"
     },
     {
       "added_at": "2026-02-27 06:00:28",
@@ -1007,6 +971,26 @@
       "duration_ms": 229247,
       "name": "La \u00daltima Noche - con Estopa",
       "url": "https://open.spotify.com/track/5mEaEudI2haVc63YfQsJxW"
+    },
+    {
+      "added_at": "2026-02-27 06:00:28",
+      "album": {
+        "name": "No Volver\u00e9 </3",
+        "url": "https://open.spotify.com/album/5AVhXiB1Bzn2317WedCMvL"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        },
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "duration_ms": 171636,
+      "name": "No Volver\u00e9 </3",
+      "url": "https://open.spotify.com/track/6wVU5qPXg1YoaEa5p1QHCU"
     },
     {
       "added_at": "2026-02-27 06:00:28",
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2026-02-27 06:00:28",
       "album": {
+        "name": "BRAINCHEM",
+        "url": "https://open.spotify.com/album/1TIfjLBYhcmb9E8VuUvLPf"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 148636,
+      "name": "BRAINCHEM",
+      "url": "https://open.spotify.com/track/7fXIu7u2gX2zdGbBveKp2n"
+    },
+    {
+      "added_at": "2026-02-27 06:00:28",
+      "album": {
         "name": "Despertar",
         "url": "https://open.spotify.com/album/48XWVSy5sgaBwxUSAAkRk4"
       },
@@ -1063,6 +1063,22 @@
       "duration_ms": 215250,
       "name": "Despertar",
       "url": "https://open.spotify.com/track/2aTs1lbZNw5srnF7208xFs"
+    },
+    {
+      "added_at": "2026-02-27 06:00:28",
+      "album": {
+        "name": "EL PEOR",
+        "url": "https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "EL PEOR",
+      "url": "https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq"
     },
     {
       "added_at": "2026-02-27 06:00:28",
@@ -1087,18 +1103,18 @@
     {
       "added_at": "2026-02-27 06:00:28",
       "album": {
-        "name": "EL PEOR",
-        "url": "https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv"
+        "name": "18",
+        "url": "https://open.spotify.com/album/3TGYZ8lXozbNHkqzQuNnaA"
       },
       "artists": [
         {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+          "name": "Mar Lara",
+          "url": "https://open.spotify.com/artist/54wQCXd1UjjcMcQx0PNMlj"
         }
       ],
-      "duration_ms": 114000,
-      "name": "EL PEOR",
-      "url": "https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq"
+      "duration_ms": 271781,
+      "name": "18",
+      "url": "https://open.spotify.com/track/6hEyKkr5aTQAGV8U9SRuA9"
     },
     {
       "added_at": "2026-02-27 06:00:28",
@@ -1123,38 +1139,6 @@
     {
       "added_at": "2026-02-27 06:00:28",
       "album": {
-        "name": "Ah\u00ed Voy",
-        "url": "https://open.spotify.com/album/04lZnCUHDdYOx2MEwwKakm"
-      },
-      "artists": [
-        {
-          "name": "Playa Limbo",
-          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
-        }
-      ],
-      "duration_ms": 178743,
-      "name": "Ah\u00ed Voy",
-      "url": "https://open.spotify.com/track/5N8HdHYq8PAkroeoVidxSe"
-    },
-    {
-      "added_at": "2026-02-27 06:00:28",
-      "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "Sed de Acci\u00f3n",
-      "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"
-    },
-    {
-      "added_at": "2026-02-27 06:00:28",
-      "album": {
         "name": "narcisista o bipolar?",
         "url": "https://open.spotify.com/album/3JpY6fp4LsPUAci6gRLjFS"
       },
@@ -1171,6 +1155,38 @@
       "duration_ms": 149562,
       "name": "narcisista o bipolar?",
       "url": "https://open.spotify.com/track/7IaWxF4spFVtFVRP5QBh5s"
+    },
+    {
+      "added_at": "2026-02-27 06:00:28",
+      "album": {
+        "name": "Alta Fidelidad",
+        "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 230097,
+      "name": "Quisiera Ser Como T\u00fa",
+      "url": "https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f"
+    },
+    {
+      "added_at": "2026-02-27 06:00:28",
+      "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "Sed de Acci\u00f3n",
+      "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"
     },
     {
       "added_at": "2026-02-27 06:00:28",
@@ -1215,34 +1231,18 @@
     {
       "added_at": "2026-02-27 06:00:28",
       "album": {
-        "name": "18",
-        "url": "https://open.spotify.com/album/3TGYZ8lXozbNHkqzQuNnaA"
+        "name": "Ah\u00ed Voy",
+        "url": "https://open.spotify.com/album/04lZnCUHDdYOx2MEwwKakm"
       },
       "artists": [
         {
-          "name": "Mar Lara",
-          "url": "https://open.spotify.com/artist/54wQCXd1UjjcMcQx0PNMlj"
+          "name": "Playa Limbo",
+          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
         }
       ],
-      "duration_ms": 271781,
-      "name": "18",
-      "url": "https://open.spotify.com/track/6hEyKkr5aTQAGV8U9SRuA9"
-    },
-    {
-      "added_at": "2026-02-27 06:00:28",
-      "album": {
-        "name": "Alta Fidelidad",
-        "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        }
-      ],
-      "duration_ms": 230097,
-      "name": "Quisiera Ser Como T\u00fa",
-      "url": "https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f"
+      "duration_ms": 178743,
+      "name": "Ah\u00ed Voy",
+      "url": "https://open.spotify.com/track/5N8HdHYq8PAkroeoVidxSe"
     },
     {
       "added_at": "2026-02-27 06:00:28",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-02-27 06:00:28",
       "album": {
-        "name": "los 41",
-        "url": "https://open.spotify.com/album/0ZUc3UHaSIvBKfT8PZ6NfQ"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 206408,
-      "name": "los 41",
-      "url": "https://open.spotify.com/track/63o7SbqFj3ltG4hb1AQzN0"
-    },
-    {
-      "added_at": "2026-02-27 06:00:28",
-      "album": {
         "name": "Miedo",
         "url": "https://open.spotify.com/album/0HiImAtftKt8Ob2Viw26PB"
       },
@@ -1303,22 +1287,34 @@
     {
       "added_at": "2026-02-27 06:00:28",
       "album": {
-        "name": "Quiero saber si es amor (feat. Joy)",
-        "url": "https://open.spotify.com/album/33hSdcOl6uiBMEtmRvAVGx"
+        "name": "los 41",
+        "url": "https://open.spotify.com/album/0ZUc3UHaSIvBKfT8PZ6NfQ"
       },
       "artists": [
         {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        },
-        {
-          "name": "Joy",
-          "url": "https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1"
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
         }
       ],
-      "duration_ms": 267238,
-      "name": "Quiero saber si es amor (feat. Joy)",
-      "url": "https://open.spotify.com/track/7eCEgiZZkQXtLtfZWaOBOv"
+      "duration_ms": 206408,
+      "name": "los 41",
+      "url": "https://open.spotify.com/track/63o7SbqFj3ltG4hb1AQzN0"
+    },
+    {
+      "added_at": "2026-02-27 06:00:28",
+      "album": {
+        "name": "lovebombing? - vicio",
+        "url": "https://open.spotify.com/album/37Icwni7rDsZMat2MLWvmC"
+      },
+      "artists": [
+        {
+          "name": "Ana Sofi W.",
+          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "lovebombing?",
+      "url": "https://open.spotify.com/track/6m9e1J4922x6mLh2ihTKEi"
     }
   ],
   "unique_name": "Pop Rock Latino",

@@ -4,7 +4,7 @@
 
 > alternative meets electronic.
 
-350 songs - 18 hr 23 min
+351 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Mx\. Sinister](https://open.spotify.com/track/1hYXuCb1EMgwfl3QHUeTfM) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [Mx\. Sinister](https://open.spotify.com/album/3qUrbZrRvcbfMsHyE0qkeC) | 2:59 | 2021-06-11 | 2023-04-09 |
 | [MY DEMONS](https://open.spotify.com/track/3LUcU1uaK0gp9lBNFlCNII) | [GLU](https://open.spotify.com/artist/2z6598dYz4eQbCJ1t0kT1N), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [MY DEMONS](https://open.spotify.com/album/5s5mG6bz04LEXbwO1Fufyp) | 3:29 | 2024-03-22 |  |
 | [NAILS \(feat\. Missy Elliott\)](https://open.spotify.com/track/318MngwqDyMYOzhDcZkUoq) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [NAILS \(feat\. Missy Elliott\)](https://open.spotify.com/album/250tsczCTKdauTN2QJgak4) | 2:51 | 2022-10-14 | 2023-11-14 |
+| [Needle Guy](https://open.spotify.com/track/62m3y5RL0VGhxbV9zy0fDz) | [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Needle Guy](https://open.spotify.com/album/2aDQC4StC9XTzDy9psxoXH) | 2:59 | 2026-03-02 |  |
 | [Never Like Me](https://open.spotify.com/track/7gJ4fxyVlsTvk9deROJc0F) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Never Like Me](https://open.spotify.com/album/3aMmzcJ5CmtMltIC41HKdT) | 3:14 | 2024-08-15 |  |
 | [New Friends](https://open.spotify.com/track/6bHFFcOvpc1pKrT4YL1K83) | [ENVYYOU](https://open.spotify.com/artist/3V8sGWr3KUanz1VJyaCngm) | [New Friends](https://open.spotify.com/album/3CqLMnA4ivtuBuGPV4h4Ky) | 2:56 | 2021-01-22 |  |
 | [New World](https://open.spotify.com/track/4j9XjA7cYOeX9KFKNk3WUz) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [New World](https://open.spotify.com/album/6MTwKUXoJ0zWO8H8bshzqy) | 3:14 | 2023-04-21 | 2023-06-10 |
@@ -279,7 +280,7 @@
 | [S.O.A.G.](https://open.spotify.com/track/7yBkmyHcSTEkauXdQotxMz) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [S.O.A.G.](https://open.spotify.com/album/5gKanMQhuEqZVJUmvQjEhZ) | 3:10 | 2022-03-15 |  |
 | [Sailboat \(feat\. chloe moriondo\)](https://open.spotify.com/track/6Mr6xOUz5beVAGwOS31NkA) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Sailboat \(feat\. chloe moriondo\)](https://open.spotify.com/album/60THqqLuqBeheWV1eda4im) | 3:00 | 2026-02-06 |  |
 | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/track/0cZ32X4hK23v585O8Wz6Yr) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/album/7ByUUXiK8wox0Z76Ggj4Mz) | 3:42 | 2021-08-20 | 2022-03-16 |
-| [Same](https://open.spotify.com/track/5B1xsEG0hVZZETedxzTXrY) | [Kyd the Band](https://open.spotify.com/artist/0NHArXVgYnHIxtWGIS7xWS) | [Same](https://open.spotify.com/album/5xnwqBkujlYam87TmsD6qe) | 3:15 | 2022-10-14 |  |
+| [Same](https://open.spotify.com/track/5B1xsEG0hVZZETedxzTXrY) | [Kyd the Band](https://open.spotify.com/artist/0NHArXVgYnHIxtWGIS7xWS) | [Same](https://open.spotify.com/album/5xnwqBkujlYam87TmsD6qe) | 3:15 | 2022-10-14 | 2026-03-03 |
 | [save urself \(runaway\)](https://open.spotify.com/track/4wOr5PIiM64Q7UCzXmISIX) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [save urself \(runaway\)](https://open.spotify.com/album/6pCIJ9SOQndRMZK403UF7v) | 3:00 | 2023-04-09 | 2023-06-10 |
 | [save urself \(runaway\)](https://open.spotify.com/track/5CtZQtRHLuHKkzMqsm0Tva) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [alternative psycho \(deluxe\)](https://open.spotify.com/album/1OxbOHfmwNB0oG1UycR5pS) | 3:00 | 2023-08-18 | 2024-04-19 |
 | [save urself \(runaway\)](https://open.spotify.com/track/6kp4MJpgNmvCvVP9Xf49ks) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [alternative psycho](https://open.spotify.com/album/1LUMTlxPD1KLpwVx4VDIcE) | 3:00 | 2023-06-09 | 2023-10-29 |

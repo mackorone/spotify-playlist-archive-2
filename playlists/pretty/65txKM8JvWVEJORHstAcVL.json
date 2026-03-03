@@ -1,12 +1,12 @@
 {
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "num_followers": 30589,
-  "original_name": "LA LLISTA DE FLAIXBAC (22/02/2026)",
+  "num_followers": 30591,
+  "original_name": "LA LLISTA DE FLAIXBAC (01/03/2026)",
   "owner": {
     "name": "flaixbacoficial",
     "url": "https://open.spotify.com/user/flaixbacoficial"
   },
-  "snapshot_id": "AABAlFdien03eelTV7RC3rpPr0xKGn5Q",
+  "snapshot_id": "AABAuYvJetiPG4rICvAKYS6W9rkh0dbk",
   "tracks": [
     {
       "added_at": "2026-02-09 10:14:15",
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/5LIpGWJvwV07LiR3HakLGb"
     },
     {
-      "added_at": "2026-01-21 12:58:07",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
       "added_at": "2025-12-18 12:06:21",
       "album": {
         "name": "Man I Need",
@@ -71,6 +55,22 @@
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "added_at": "2026-01-21 12:58:07",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
       "added_at": "2025-12-18 12:07:00",
@@ -105,6 +105,58 @@
       "url": "https://open.spotify.com/track/23QWizOmPLSXiBIXtXBYEv"
     },
     {
+      "added_at": "2026-02-02 10:04:31",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235355,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
+    },
+    {
+      "added_at": "2025-12-18 12:08:49",
+      "album": {
+        "name": "Die On This Hill",
+        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 217008,
+      "name": "Die On This Hill",
+      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
+    },
+    {
+      "added_at": "2025-12-18 12:03:41",
+      "album": {
+        "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
+        "url": "https://open.spotify.com/album/1lYZ1jkIDGcPVbBRIadB4t"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 151805,
+      "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
+      "url": "https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v"
+    },
+    {
       "added_at": "2025-10-27 10:28:44",
       "album": {
         "name": "Gone Gone Gone",
@@ -129,42 +181,6 @@
       "url": "https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd"
     },
     {
-      "added_at": "2025-12-18 12:03:41",
-      "album": {
-        "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
-        "url": "https://open.spotify.com/album/1lYZ1jkIDGcPVbBRIadB4t"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 151805,
-      "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
-      "url": "https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v"
-    },
-    {
-      "added_at": "2025-12-18 12:08:49",
-      "album": {
-        "name": "Die On This Hill",
-        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 217008,
-      "name": "Die On This Hill",
-      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
-    },
-    {
       "added_at": "2025-12-18 11:58:28",
       "album": {
         "name": "LUX",
@@ -185,6 +201,38 @@
       "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
     },
     {
+      "added_at": "2025-09-15 10:51:24",
+      "album": {
+        "name": "Golden (from the Netflix film KPop Demon Hunters)",
+        "url": "https://open.spotify.com/album/2q4uMcogIfSvbjZevQTIDL"
+      },
+      "artists": [
+        {
+          "name": "HUNTR/X",
+          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        },
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "duration_ms": 194607,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/5Cp75TUMrHF6c8xbhdligS"
+    },
+    {
       "added_at": "2025-11-11 09:05:42",
       "album": {
         "name": "CUARTO AZUL",
@@ -199,6 +247,22 @@
       "duration_ms": 183529,
       "name": "SUPERESTRELLA",
       "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
+    },
+    {
+      "added_at": "2026-01-26 10:11:13",
+      "album": {
+        "name": "Tutu Tur\u00fa",
+        "url": "https://open.spotify.com/album/25FmNHtKx0dSxHgDiEOyFT"
+      },
+      "artists": [
+        {
+          "name": "Siderland",
+          "url": "https://open.spotify.com/artist/0J4ED5b2q2T3B6OhOvNFru"
+        }
+      ],
+      "duration_ms": 182368,
+      "name": "Tutu Tur\u00fa",
+      "url": "https://open.spotify.com/track/0nMNmyhAnUSNNJ8YjzCnWA"
     },
     {
       "added_at": "2025-11-11 09:07:20",
@@ -249,70 +313,6 @@
       "url": "https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd"
     },
     {
-      "added_at": "2025-09-15 10:51:24",
-      "album": {
-        "name": "Golden (from the Netflix film KPop Demon Hunters)",
-        "url": "https://open.spotify.com/album/2q4uMcogIfSvbjZevQTIDL"
-      },
-      "artists": [
-        {
-          "name": "HUNTR/X",
-          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
-        },
-        {
-          "name": "EJAE",
-          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
-        },
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        },
-        {
-          "name": "REI AMI",
-          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
-        },
-        {
-          "name": "KPop Demon Hunters Cast",
-          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
-        }
-      ],
-      "duration_ms": 194607,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/5Cp75TUMrHF6c8xbhdligS"
-    },
-    {
-      "added_at": "2026-01-26 10:11:13",
-      "album": {
-        "name": "Tutu Tur\u00fa",
-        "url": "https://open.spotify.com/album/25FmNHtKx0dSxHgDiEOyFT"
-      },
-      "artists": [
-        {
-          "name": "Siderland",
-          "url": "https://open.spotify.com/artist/0J4ED5b2q2T3B6OhOvNFru"
-        }
-      ],
-      "duration_ms": 182368,
-      "name": "Tutu Tur\u00fa",
-      "url": "https://open.spotify.com/track/0nMNmyhAnUSNNJ8YjzCnWA"
-    },
-    {
-      "added_at": "2026-02-02 10:04:31",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 235355,
-      "name": "Opalite",
-      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
-    },
-    {
       "added_at": "2025-11-11 09:09:07",
       "album": {
         "name": "Stay (If You Wanna Dance)",
@@ -327,6 +327,42 @@
       "duration_ms": 185999,
       "name": "Stay (If You Wanna Dance)",
       "url": "https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc"
+    },
+    {
+      "added_at": "2026-01-26 10:10:18",
+      "album": {
+        "name": "PECAT ORIGINAL",
+        "url": "https://open.spotify.com/album/5fEU24jwGH12gEd8YmLUU8"
+      },
+      "artists": [
+        {
+          "name": "NAINA",
+          "url": "https://open.spotify.com/artist/7gRLhBBDqymilvP1W2GIqR"
+        },
+        {
+          "name": "Figa Flawas",
+          "url": "https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3"
+        }
+      ],
+      "duration_ms": 165898,
+      "name": "PECAT ORIGINAL",
+      "url": "https://open.spotify.com/track/7niTcci4hQxzcKrLUDoIOi"
+    },
+    {
+      "added_at": "2026-02-18 11:55:57",
+      "album": {
+        "name": "Welcome to My Party",
+        "url": "https://open.spotify.com/album/7KEVcNxrpxA7smtdLbnQ0X"
+      },
+      "artists": [
+        {
+          "name": "Joan Daus\u00e0",
+          "url": "https://open.spotify.com/artist/1GRFao1QTh0i5Wx5Ms0A3I"
+        }
+      ],
+      "duration_ms": 199853,
+      "name": "Welcome to My Party",
+      "url": "https://open.spotify.com/track/1xYxQINTENuqXEkunEmjdJ"
     },
     {
       "added_at": "2025-10-15 09:33:55",
@@ -353,24 +389,20 @@
       "url": "https://open.spotify.com/track/5lu4L7DP5K8h8XIZuqnUWn"
     },
     {
-      "added_at": "2026-01-26 10:10:18",
+      "added_at": "2026-02-02 10:03:38",
       "album": {
-        "name": "PECAT ORIGINAL",
-        "url": "https://open.spotify.com/album/5fEU24jwGH12gEd8YmLUU8"
+        "name": "Fruit del Deliri",
+        "url": "https://open.spotify.com/album/1t6Jah2zqajQcbbSMd5gHj"
       },
       "artists": [
         {
-          "name": "NAINA",
-          "url": "https://open.spotify.com/artist/7gRLhBBDqymilvP1W2GIqR"
-        },
-        {
-          "name": "Figa Flawas",
-          "url": "https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3"
+          "name": "Oques Grasses",
+          "url": "https://open.spotify.com/artist/5qPeAT4ikl6gJNUexAOEy0"
         }
       ],
-      "duration_ms": 165898,
-      "name": "PECAT ORIGINAL",
-      "url": "https://open.spotify.com/track/7niTcci4hQxzcKrLUDoIOi"
+      "duration_ms": 158954,
+      "name": "C\u00d3RRER PELS CAMPS",
+      "url": "https://open.spotify.com/track/5MUkMnWbFJ2eONjQuk7tx2"
     },
     {
       "added_at": "2025-12-22 11:49:17",
@@ -405,36 +437,36 @@
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
     },
     {
-      "added_at": "2025-10-27 10:22:17",
+      "added_at": "2026-02-02 10:04:48",
       "album": {
-        "name": "NO VULL DESPERTAR",
-        "url": "https://open.spotify.com/album/0DqfqVvGvGUpoTwKqiVvxZ"
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
       },
       "artists": [
         {
-          "name": "Buhos",
-          "url": "https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 183720,
-      "name": "NO VULL DESPERTAR",
-      "url": "https://open.spotify.com/track/5lthjy7KCQZ1szrp1r9QJJ"
+      "duration_ms": 311733,
+      "name": "Aperture",
+      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
     },
     {
-      "added_at": "2026-02-18 11:55:57",
+      "added_at": "2026-02-18 11:56:13",
       "album": {
-        "name": "Welcome to My Party",
-        "url": "https://open.spotify.com/album/7KEVcNxrpxA7smtdLbnQ0X"
+        "name": "NEXO 01. Me acuerdo de ti",
+        "url": "https://open.spotify.com/album/10jwEmHOwVHYPFecFcUoGd"
       },
       "artists": [
         {
-          "name": "Joan Daus\u00e0",
-          "url": "https://open.spotify.com/artist/1GRFao1QTh0i5Wx5Ms0A3I"
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
         }
       ],
-      "duration_ms": 199853,
-      "name": "Welcome to My Party",
-      "url": "https://open.spotify.com/track/1xYxQINTENuqXEkunEmjdJ"
+      "duration_ms": 195279,
+      "name": "NEXO 01. Me acuerdo de ti",
+      "url": "https://open.spotify.com/track/4qmNeOovGFdhsiBgPKxlTQ"
     },
     {
       "added_at": "2025-10-27 10:21:26",
@@ -453,20 +485,20 @@
       "url": "https://open.spotify.com/track/6xMEkgHI4X3biKg9fQ45RI"
     },
     {
-      "added_at": "2026-02-02 10:03:38",
+      "added_at": "2026-02-23 09:28:36",
       "album": {
-        "name": "Fruit del Deliri",
-        "url": "https://open.spotify.com/album/1t6Jah2zqajQcbbSMd5gHj"
+        "name": "Iconic",
+        "url": "https://open.spotify.com/album/0HgLE4fEcT5oFPbMRF4Ej3"
       },
       "artists": [
         {
-          "name": "Oques Grasses",
-          "url": "https://open.spotify.com/artist/5qPeAT4ikl6gJNUexAOEy0"
+          "name": "A*Teens",
+          "url": "https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9"
         }
       ],
-      "duration_ms": 158954,
-      "name": "C\u00d3RRER PELS CAMPS",
-      "url": "https://open.spotify.com/track/5MUkMnWbFJ2eONjQuk7tx2"
+      "duration_ms": 178000,
+      "name": "Iconic",
+      "url": "https://open.spotify.com/track/5FjvINvxiM03aNN7o1nUVc"
     },
     {
       "added_at": "2025-10-27 10:29:34",
@@ -483,22 +515,6 @@
       "duration_ms": 193760,
       "name": "de festa en festa",
       "url": "https://open.spotify.com/track/537Ym6CnO9ZbFiDxin6oCN"
-    },
-    {
-      "added_at": "2026-02-02 10:04:48",
-      "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 311733,
-      "name": "Aperture",
-      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
     },
     {
       "added_at": "2026-01-07 09:46:43",
@@ -533,6 +549,38 @@
       "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
     },
     {
+      "added_at": "2025-09-29 08:53:45",
+      "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 160183,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
+    },
+    {
+      "added_at": "2026-02-23 09:29:29",
+      "album": {
+        "name": "Els ulls que et mirin",
+        "url": "https://open.spotify.com/album/1XsnXQGHn8w6GFfLFd5fUn"
+      },
+      "artists": [
+        {
+          "name": "Sexenni",
+          "url": "https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR"
+        }
+      ],
+      "duration_ms": 162263,
+      "name": "Els ulls que et mirin",
+      "url": "https://open.spotify.com/track/3QMHVZiRo6PKSTY8bAqH6t"
+    },
+    {
       "added_at": "2025-11-03 10:49:14",
       "album": {
         "name": "Ha valgut la pena (amb Nil Moliner)",
@@ -557,22 +605,6 @@
       "url": "https://open.spotify.com/track/093gvGScy3E1GpnwDdsX4y"
     },
     {
-      "added_at": "2025-09-29 08:53:45",
-      "album": {
-        "name": "Man\u2019s Best Friend",
-        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 160183,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
-    },
-    {
       "added_at": "2025-04-15 14:19:44",
       "album": {
         "name": "Ordinary",
@@ -589,36 +621,40 @@
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
     },
     {
-      "added_at": "2026-02-18 11:56:13",
+      "added_at": "2025-10-27 10:22:17",
       "album": {
-        "name": "NEXO 01. Me acuerdo de ti",
-        "url": "https://open.spotify.com/album/10jwEmHOwVHYPFecFcUoGd"
+        "name": "NO VULL DESPERTAR",
+        "url": "https://open.spotify.com/album/0DqfqVvGvGUpoTwKqiVvxZ"
       },
       "artists": [
         {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+          "name": "Buhos",
+          "url": "https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR"
         }
       ],
-      "duration_ms": 195279,
-      "name": "NEXO 01. Me acuerdo de ti",
-      "url": "https://open.spotify.com/track/4qmNeOovGFdhsiBgPKxlTQ"
+      "duration_ms": 183720,
+      "name": "NO VULL DESPERTAR",
+      "url": "https://open.spotify.com/track/5lthjy7KCQZ1szrp1r9QJJ"
     },
     {
-      "added_at": "2026-02-23 09:28:36",
+      "added_at": "2026-02-09 10:29:39",
       "album": {
-        "name": "Iconic",
-        "url": "https://open.spotify.com/album/0HgLE4fEcT5oFPbMRF4Ej3"
+        "name": "Sad Song (feat. Gabrielle)",
+        "url": "https://open.spotify.com/album/1dCCRucKvx0O6pbAABFj3E"
       },
       "artists": [
         {
-          "name": "A*Teens",
-          "url": "https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9"
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        },
+        {
+          "name": "GABRIELLE",
+          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Iconic",
-      "url": "https://open.spotify.com/track/5FjvINvxiM03aNN7o1nUVc"
+      "duration_ms": 165880,
+      "name": "Sad Song (feat. Gabrielle)",
+      "url": "https://open.spotify.com/track/0Pmyd3LBTdwD5UbqiORoaj"
     },
     {
       "added_at": "2025-07-21 10:04:04",
@@ -657,22 +693,6 @@
       "url": "https://open.spotify.com/track/6vRQqxOhUFd78p5tL8jXr7"
     },
     {
-      "added_at": "2026-02-23 09:29:29",
-      "album": {
-        "name": "Els ulls que et mirin",
-        "url": "https://open.spotify.com/album/1XsnXQGHn8w6GFfLFd5fUn"
-      },
-      "artists": [
-        {
-          "name": "Sexenni",
-          "url": "https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR"
-        }
-      ],
-      "duration_ms": 162263,
-      "name": "Els ulls que et mirin",
-      "url": "https://open.spotify.com/track/3QMHVZiRo6PKSTY8bAqH6t"
-    },
-    {
       "added_at": "2025-06-30 08:25:08",
       "album": {
         "name": "DAISY",
@@ -689,24 +709,20 @@
       "url": "https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ"
     },
     {
-      "added_at": "2026-02-09 10:29:39",
+      "added_at": "2026-02-18 11:56:31",
       "album": {
-        "name": "Sad Song (feat. Gabrielle)",
-        "url": "https://open.spotify.com/album/1dCCRucKvx0O6pbAABFj3E"
+        "name": "Don't Worry",
+        "url": "https://open.spotify.com/album/0OmxbEqS8d7KT9lEOVAHrK"
       },
       "artists": [
         {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        },
-        {
-          "name": "GABRIELLE",
-          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
         }
       ],
-      "duration_ms": 165880,
-      "name": "Sad Song (feat. Gabrielle)",
-      "url": "https://open.spotify.com/track/0Pmyd3LBTdwD5UbqiORoaj"
+      "duration_ms": 139200,
+      "name": "Don't Worry",
+      "url": "https://open.spotify.com/track/57byShO7NhqiVlRLvmbPyM"
     },
     {
       "added_at": "2025-10-15 09:36:50",
@@ -741,36 +757,20 @@
       "url": "https://open.spotify.com/track/06qH2muOjme474WL3YKcBe"
     },
     {
-      "added_at": "2026-02-18 11:56:31",
+      "added_at": "2026-03-02 14:52:13",
       "album": {
-        "name": "Don't Worry",
-        "url": "https://open.spotify.com/album/0OmxbEqS8d7KT9lEOVAHrK"
+        "name": "GR\u00c0CIES",
+        "url": "https://open.spotify.com/album/12pRJR1iID5vHVyP7eY4ve"
       },
       "artists": [
         {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+          "name": "Buhos",
+          "url": "https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR"
         }
       ],
-      "duration_ms": 139200,
-      "name": "Don't Worry",
-      "url": "https://open.spotify.com/track/57byShO7NhqiVlRLvmbPyM"
-    },
-    {
-      "added_at": "2025-12-18 12:08:09",
-      "album": {
-        "name": "GR\u00c0CIES PER TANT",
-        "url": "https://open.spotify.com/album/5bXotdtWNMzt4xL5CsOaJn"
-      },
-      "artists": [
-        {
-          "name": "La F\u00famiga",
-          "url": "https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz"
-        }
-      ],
-      "duration_ms": 181415,
-      "name": "GR\u00c0CIES PER TANT",
-      "url": "https://open.spotify.com/track/50UjwcHTdhxXHg14P6uJ3t"
+      "duration_ms": 208128,
+      "name": "GR\u00c0CIES",
+      "url": "https://open.spotify.com/track/0pEOVHVyre2UtuQFDza4JY"
     },
     {
       "added_at": "2025-05-26 08:35:38",
@@ -789,6 +789,6 @@
       "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
     }
   ],
-  "unique_name": "LA LLISTA DE FLAIXBAC (22/02/2026)",
+  "unique_name": "LA LLISTA DE FLAIXBAC (01/03/2026)",
   "url": "https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL"
 }

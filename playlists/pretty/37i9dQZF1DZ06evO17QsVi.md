@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 
 > This is 2Pac\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,228,102 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,228,165 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 | 10 | [Ghetto Gospel](https://open.spotify.com/track/7jLbTp3qZzah9kMIdW8e5M) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Loyal To The Game](https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn) | 3:58 |
 | 11 | [2 Of Amerikaz Most Wanted \(ft\. Snoop Doggy Dogg\)](https://open.spotify.com/track/6LwrEZNkvFTOypNwSLjuaJ) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:06 |
 | 12 | [I Get Around](https://open.spotify.com/track/4voEoczU7Ijborps9XF1n3) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Digital Underground](https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye) | [Strictly 4 My N.I.G.G.A.Z...](https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll) | 4:19 |
-| 13 | [Lil' Homies](https://open.spotify.com/track/6vBMMa2erexusV4XrgXea9) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Until The End Of Time](https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV) | 3:43 |
-| 14 | [Thugz Mansion \- 7 Remix](https://open.spotify.com/track/3eBBbAEBQdr6tkUUd8gyuQ) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Better Dayz](https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww) | 4:07 |
+| 13 | [Hail Mary](https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 5:12 |
+| 14 | [Lil' Homies](https://open.spotify.com/track/6vBMMa2erexusV4XrgXea9) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Until The End Of Time](https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV) | 3:43 |
 | 15 | [How Do U Want It \(ft\. K\-Ci & JoJo\)](https://open.spotify.com/track/2S2x5N5VJNn7vqYukvoFFC) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:47 |
-| 16 | [Hail Mary](https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 5:12 |
-| 17 | [Breathin](https://open.spotify.com/track/7k4dnllwnFDizWHAWkYXsh) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Outlawz](https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC) | [Until The End Of Time](https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV) | 4:04 |
-| 18 | [Runnin' \(Dying To Live\)](https://open.spotify.com/track/3jdh7YQBCxykbhL7z0Ehu5) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Resurrection \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/3MJVucN9nO8WHaLo3KHuWO) | 3:50 |
+| 16 | [Thugz Mansion \- 7 Remix](https://open.spotify.com/track/3eBBbAEBQdr6tkUUd8gyuQ) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Better Dayz](https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww) | 4:07 |
+| 17 | [Runnin' \(Dying To Live\)](https://open.spotify.com/track/3jdh7YQBCxykbhL7z0Ehu5) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Resurrection \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/3MJVucN9nO8WHaLo3KHuWO) | 3:50 |
+| 18 | [Breathin](https://open.spotify.com/track/7k4dnllwnFDizWHAWkYXsh) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Outlawz](https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC) | [Until The End Of Time](https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV) | 4:04 |
 | 19 | [Can't C Me](https://open.spotify.com/track/7rUchbZxrhF29Q0vYjKEU0) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 5:30 |
 | 20 | [Me Against The World](https://open.spotify.com/track/76wJIkA63AgwA92hUhpE2V) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Dramacydal](https://open.spotify.com/artist/4jVkIBarZULIhNDEnxDKjp) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 4:39 |
 | 21 | [Better Dayz](https://open.spotify.com/track/5dRCujBQZQq6dlkCaGDMV0) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Mr\. Biggs](https://open.spotify.com/artist/4x508hr5pvqmZTnGzEFBFO) | [Better Dayz](https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww) | 4:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 | 49 | [Unchained \(The Payback / Untouchable\)](https://open.spotify.com/track/47Zqlw3jmibtVPy8usPjBj) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack](https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L) | 2:51 |
 | 50 | [Pain](https://open.spotify.com/track/0YYLatZXRuNdjgu1Hduwry) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Stretch](https://open.spotify.com/artist/77dfG8syy9JTl5gA2l5ylj) | [Above The Rim \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD) | 4:34 |
 
-Snapshot ID: `aaIwAAAAAAAlIkwjCBxT0Jv5OgsnMz7T`
+Snapshot ID: `aaOBgAAAAACVe32OVYpZ/d0iXEeCYGBr`

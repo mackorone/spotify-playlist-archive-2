@@ -2631,6 +2631,24 @@
     },
     {
       "album": {
+        "name": "Adicto a ti",
+        "url": "https://open.spotify.com/album/7bJpMBJXZUZxOOXUVG5JXm"
+      },
+      "artists": [
+        {
+          "name": "Studio SC",
+          "url": "https://open.spotify.com/artist/7dmtcZ2zQcIStG7jjocjq8"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228959,
+      "name": "Adicto a ti",
+      "url": "https://open.spotify.com/track/07gNcsqI3PIzPWe2cgoAHk"
+    },
+    {
+      "album": {
         "name": "ADIVINO",
         "url": "https://open.spotify.com/album/3sRyLQf04m9vm40JNRFiCl"
       },
@@ -31152,7 +31170,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 145560,
       "name": "Good Vibrations",
       "url": "https://open.spotify.com/track/2WRRxuZJhhzwqeBWCePmNo"
@@ -35758,7 +35776,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 309640,
       "name": "Idilio",
       "url": "https://open.spotify.com/track/5iwgEFKEktjBBZV3C9TTZj"
@@ -50052,7 +50070,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-02",
+      "date_removed": null,
       "duration_ms": 208495,
       "name": "Moonwalkin'",
       "url": "https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY"
@@ -55028,7 +55046,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 304200,
       "name": "Oh Qu\u00e9 Ser\u00e1?",
       "url": "https://open.spotify.com/track/2n1MTLCis6qPSDKdr5XSDI"
@@ -73026,7 +73044,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-26",
+      "date_removed": null,
       "duration_ms": 144959,
       "name": "S\u00e9 esa mujer valiente",
       "url": "https://open.spotify.com/track/7J9mEYmPlt8QUlUjuUUKMd"
@@ -78662,7 +78680,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 244157,
       "name": "Tus Ojitos",
       "url": "https://open.spotify.com/track/2KuWVKFdHHNBsu7pwXBdnL"
@@ -80162,6 +80180,24 @@
       "duration_ms": 198194,
       "name": "Una Vaina Bien",
       "url": "https://open.spotify.com/track/7zqKOV2UZtiiUBzbXXNsj3"
+    },
+    {
+      "album": {
+        "name": "Una Velita (Afro House Mix)",
+        "url": "https://open.spotify.com/album/6k75UE5dSzFBIIjqEPdReT"
+      },
+      "artists": [
+        {
+          "name": "Afro Nation",
+          "url": "https://open.spotify.com/artist/65H3ru90HMizF99eIjcE2a"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239067,
+      "name": "Una Velita - Afro House Mix",
+      "url": "https://open.spotify.com/track/3DdEJoQOABRyn1jqHA9Ydf"
     },
     {
       "album": {

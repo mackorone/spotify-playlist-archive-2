@@ -607,6 +607,24 @@
     },
     {
       "album": {
+        "name": "barely alive",
+        "url": "https://open.spotify.com/album/39kQpEt4KZrB4U7RV2irxq"
+      },
+      "artists": [
+        {
+          "name": "slipdream",
+          "url": "https://open.spotify.com/artist/4dVNhXv8UM1MVeDzswLb80"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141052,
+      "name": "barely alive",
+      "url": "https://open.spotify.com/track/0wYfnN2nWNlSC4X8GssK6Z"
+    },
+    {
+      "album": {
         "name": "Colorloss Record",
         "url": "https://open.spotify.com/album/5LsJNuyLsyGJI4bYgUjmYw"
       },
@@ -2224,7 +2242,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 227708,
       "name": "Hope and Fate",
       "url": "https://open.spotify.com/track/7lh7iHO2MpF1PPISdhiAS8"
@@ -3062,7 +3080,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 458706,
       "name": "Lord, Am I Going Down?",
       "url": "https://open.spotify.com/track/7FFtFxUd9FX57DERV5EvcD"
@@ -3568,6 +3586,24 @@
       "duration_ms": 243720,
       "name": "Nimmermeer",
       "url": "https://open.spotify.com/track/0UtJl0s4oQCAd7p73uUGi1"
+    },
+    {
+      "album": {
+        "name": "no stress",
+        "url": "https://open.spotify.com/album/10lxh4DzfjnbUM3gi5FqVG"
+      },
+      "artists": [
+        {
+          "name": "fadinglight",
+          "url": "https://open.spotify.com/artist/51pE037fWiZxEMOgvR6vyY"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96894,
+      "name": "no stress",
+      "url": "https://open.spotify.com/track/5fGqoavu7BXnzIcLtfOJyW"
     },
     {
       "album": {
@@ -4258,7 +4294,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 196363,
       "name": "Purity",
       "url": "https://open.spotify.com/track/0UoWeHekRpGzxWl9URL9VK"
@@ -4360,6 +4396,24 @@
       "duration_ms": 222373,
       "name": "Rakas",
       "url": "https://open.spotify.com/track/55Lz2Y0x9gu0Vh7yTIk6Dj"
+    },
+    {
+      "album": {
+        "name": "rapture",
+        "url": "https://open.spotify.com/album/31tVwSSJgpjV0FxoJj5cJA"
+      },
+      "artists": [
+        {
+          "name": "plutonia",
+          "url": "https://open.spotify.com/artist/17EqVy5EtAHerTWHJ9Pwiv"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165232,
+      "name": "rapture",
+      "url": "https://open.spotify.com/track/7hXMbwUWu3kdOnd4bfwzu3"
     },
     {
       "album": {

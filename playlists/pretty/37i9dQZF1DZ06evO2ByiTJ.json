@@ -1,12 +1,12 @@
 {
   "description": "This is Elaine Martins. The essential tracks, all in one playlist.",
-  "num_followers": 15716,
+  "num_followers": 15717,
   "original_name": "This Is Elaine Martins",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaIwAAAAAADhkau3aHWYdFxSaWw35caY",
+  "snapshot_id": "aaOBgAAAAACdflHTsmtQyGfE39sezTC3",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 228626,
       "name": "Nunca Mais (Ao Vivo)",
       "url": "https://open.spotify.com/track/4rnfOKHjMDmsr2zN1ArZSy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rompendo",
+        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 233406,
+      "name": "Volte a Sonhar",
+      "url": "https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R"
     },
     {
       "added_at": null,
@@ -67,22 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rompendo",
-        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 233406,
-      "name": "Volte a Sonhar",
-      "url": "https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Elaine Martins Live Session",
         "url": "https://open.spotify.com/album/4TQPjpUrKPa7ZsZuiXecGP"
       },
@@ -95,6 +95,22 @@
       "duration_ms": 290295,
       "name": "Sei \u00c9 Bem Assim",
       "url": "https://open.spotify.com/track/4EIQMsDFraihHLheHCZMHt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Santifica\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 273438,
+      "name": "Santifica\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/30ildQSiiB2W4CeiZ23oul"
     },
     {
       "added_at": null,
@@ -115,22 +131,6 @@
       "duration_ms": 330921,
       "name": "Fidelidade (Ao Vivo)",
       "url": "https://open.spotify.com/track/3BHQNPlsge6KXwC0Fyzkyq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Santifica\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 273438,
-      "name": "Santifica\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/30ildQSiiB2W4CeiZ23oul"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agrade\u00e7o ao Senhor",
-        "url": "https://open.spotify.com/album/5zD0MjBQpZlsZtzvPYkr0a"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 199273,
-      "name": "Agrade\u00e7o ao Senhor",
-      "url": "https://open.spotify.com/track/22qiCAREmhEVRRmu6XzbzR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eu Sei Quem Sou",
         "url": "https://open.spotify.com/album/6i2QA12QyNxuT8uTClPlEB"
       },
@@ -355,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rompendo",
-        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
+        "name": "Agrade\u00e7o ao Senhor",
+        "url": "https://open.spotify.com/album/5zD0MjBQpZlsZtzvPYkr0a"
       },
       "artists": [
         {
@@ -364,9 +348,9 @@
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 323361,
-      "name": "Tempo de Deus",
-      "url": "https://open.spotify.com/track/3mB35vJRJwwiwGawPACdHW"
+      "duration_ms": 199273,
+      "name": "Agrade\u00e7o ao Senhor",
+      "url": "https://open.spotify.com/track/22qiCAREmhEVRRmu6XzbzR"
     },
     {
       "added_at": null,
@@ -383,6 +367,22 @@
       "duration_ms": 268710,
       "name": "Cora\u00e7\u00e3o Valente (Ao Vivo)",
       "url": "https://open.spotify.com/track/3lZEjmgn9yQsSRWkY6XWRl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rompendo",
+        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 323361,
+      "name": "Tempo de Deus",
+      "url": "https://open.spotify.com/track/3mB35vJRJwwiwGawPACdHW"
     },
     {
       "added_at": null,
@@ -471,6 +471,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Crian\u00e7a Nota 10",
+        "url": "https://open.spotify.com/album/2nFtRppoPctEbxAUTpynL3"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        },
+        {
+          "name": "Coral de Crian\u00e7as",
+          "url": "https://open.spotify.com/artist/2qUfzKBWjm4UpH1MjdKnSi"
+        }
+      ],
+      "duration_ms": 164165,
+      "name": "Crian\u00e7a Nota 10",
+      "url": "https://open.spotify.com/track/2kPwaMnS3qowXfg8aBh7nn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Escolhidas",
         "url": "https://open.spotify.com/album/4ull6HOMUtcjs9hhlOb3YC"
       },
@@ -495,26 +515,6 @@
       "duration_ms": 247756,
       "name": "Escolhidas",
       "url": "https://open.spotify.com/track/67iZyjUMkdGl8RSXsXaYET"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crian\u00e7a Nota 10",
-        "url": "https://open.spotify.com/album/2nFtRppoPctEbxAUTpynL3"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        },
-        {
-          "name": "Coral de Crian\u00e7as",
-          "url": "https://open.spotify.com/artist/2qUfzKBWjm4UpH1MjdKnSi"
-        }
-      ],
-      "duration_ms": 164165,
-      "name": "Crian\u00e7a Nota 10",
-      "url": "https://open.spotify.com/track/2kPwaMnS3qowXfg8aBh7nn"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Senha",
-        "url": "https://open.spotify.com/album/6TKcNV9p9n1ZRZp90rGoXC"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 263613,
-      "name": "A Senha",
-      "url": "https://open.spotify.com/track/2faGKVtOBptk7XWYgzIZmz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teu Querer",
         "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 297679,
       "name": "Vasos Quebrados",
       "url": "https://open.spotify.com/track/67ua1zPHM7wODRaKWocGon"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Senha",
+        "url": "https://open.spotify.com/album/6TKcNV9p9n1ZRZp90rGoXC"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 263613,
+      "name": "A Senha",
+      "url": "https://open.spotify.com/track/2faGKVtOBptk7XWYgzIZmz"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 202060,
-      "name": "Colhendo Frutos",
-      "url": "https://open.spotify.com/track/70NUGliFKWIQca4lC0YiQp"
+      "duration_ms": 256534,
+      "name": "Deus Indecifr\u00e1vel",
+      "url": "https://open.spotify.com/track/37J3JpW1qWKkM77vjFVd51"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Segredo Pra Vencer (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5a27utjw4fO7DB3TzcERmr"
+        "name": "O Projeto \u00e9 Grande (Ao Vivo)",
+        "url": "https://open.spotify.com/album/64QoMsxBrtNxaFttO3t8ZC"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 258239,
-      "name": "O Segredo Pra Vencer (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0nZ2CC7P8mGVsrC8dMEh8e"
+      "duration_ms": 249786,
+      "name": "O Projeto \u00e9 Grande (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2XlkukouNE8qW5NbRqrK0o"
     },
     {
       "added_at": null,
@@ -680,15 +680,15 @@
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 256534,
-      "name": "Deus Indecifr\u00e1vel",
-      "url": "https://open.spotify.com/track/37J3JpW1qWKkM77vjFVd51"
+      "duration_ms": 202060,
+      "name": "Colhendo Frutos",
+      "url": "https://open.spotify.com/track/70NUGliFKWIQca4lC0YiQp"
     },
     {
       "added_at": null,
       "album": {
-        "name": "O Projeto \u00e9 Grande (Ao Vivo)",
-        "url": "https://open.spotify.com/album/64QoMsxBrtNxaFttO3t8ZC"
+        "name": "O Segredo Pra Vencer (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5a27utjw4fO7DB3TzcERmr"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 249786,
-      "name": "O Projeto \u00e9 Grande (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2XlkukouNE8qW5NbRqrK0o"
+      "duration_ms": 258239,
+      "name": "O Segredo Pra Vencer (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0nZ2CC7P8mGVsrC8dMEh8e"
     },
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reaja",
+        "url": "https://open.spotify.com/album/17r33aBrTu1nRgMKdnWWrB"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 256252,
+      "name": "Reaja",
+      "url": "https://open.spotify.com/track/7DpeczFLm2elOLEw6Q2jLe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ningu\u00e9m Pode Impedir (Ao Vivo)",
         "url": "https://open.spotify.com/album/6QowG4tkRC3lBEYzgk5Guj"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 253000,
       "name": "Ningu\u00e9m Pode Impedir (Ao Vivo)",
       "url": "https://open.spotify.com/track/5fW9C9umBX7lTh9y8ksAMi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reaja",
-        "url": "https://open.spotify.com/album/17r33aBrTu1nRgMKdnWWrB"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 256252,
-      "name": "Reaja",
-      "url": "https://open.spotify.com/track/7DpeczFLm2elOLEw6Q2jLe"
     },
     {
       "added_at": null,

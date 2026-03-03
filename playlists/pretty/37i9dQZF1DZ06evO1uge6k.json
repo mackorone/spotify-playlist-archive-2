@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 260634,
+  "num_followers": 260641,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaIwAAAAAAC9B5MGDwKLbyA/pI8DuNry",
+  "snapshot_id": "aaOBgAAAAAAASF/nm+xMb/3wwAN3t307",
   "tracks": [
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "RAW (\u2018That Little Ol' Band From Texas\u2019 Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1ffoQmr9pU3NXGz15QwKZw"
+        "name": "Goin' 50",
+        "url": "https://open.spotify.com/album/5NLRTVJbkSYzcsBphObMMg"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 281586,
-      "name": "La Grange",
-      "url": "https://open.spotify.com/track/2YgjwTiG85B2tvqmdRNpba"
+      "duration_ms": 284253,
+      "name": "Viva Las Vegas (2019 Remaster)",
+      "url": "https://open.spotify.com/track/3NyFc37QvMQrncwUGm1Pif"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goin' 50",
-        "url": "https://open.spotify.com/album/5NLRTVJbkSYzcsBphObMMg"
+        "name": "RAW (\u2018That Little Ol' Band From Texas\u2019 Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1ffoQmr9pU3NXGz15QwKZw"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 284253,
-      "name": "Viva Las Vegas (2019 Remaster)",
-      "url": "https://open.spotify.com/track/3NyFc37QvMQrncwUGm1Pif"
+      "duration_ms": 281586,
+      "name": "La Grange",
+      "url": "https://open.spotify.com/track/2YgjwTiG85B2tvqmdRNpba"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Baddest",
-        "url": "https://open.spotify.com/album/5CGNEMUtCJanGlhQIgM4WZ"
+        "name": "Fandango! (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 211773,
-      "name": "Gimme All Your Lovin'",
-      "url": "https://open.spotify.com/track/08Yy8YGHv1lSDiKZzVPuTn"
+      "duration_ms": 185626,
+      "name": "Mexican Blackbird (2005 Remaster)",
+      "url": "https://open.spotify.com/track/6uqdlvmUr58RkgOPjSXLX1"
     }
   ],
   "unique_name": "This Is ZZ Top",

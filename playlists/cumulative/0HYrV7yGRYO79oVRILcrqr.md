@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-338 songs - 20 hr 57 min
+339 songs - 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [All Night Long](https://open.spotify.com/track/6MaZOeeOYizaXQMHJ4odyR) | [Katarina & Her Poor Fellas](https://open.spotify.com/artist/5Wj6JuGomnb8EWEma2yWoU) | [All Night Long](https://open.spotify.com/album/6HMXhjubwIBkJUV9YZxD2H) | 2:43 | 2026-02-24 |  |
 | [Alone \- Cover](https://open.spotify.com/track/6WApzR1hWPqV4BQSyr5ETL) | [GONGPATI](https://open.spotify.com/artist/3EcoH1mk7EzGfHUYtk4Zq8) | [Alone \(Cover\)](https://open.spotify.com/album/5B5G82hCzSMXhA5szT7Lez) | 3:39 | 2026-01-13 |  |
 | [Altisuono in Vibro](https://open.spotify.com/track/4za819jKTj1J19tNGaN5Zu) | [Bekruud](https://open.spotify.com/artist/5chx6Kbsyug2xjG91C6eay) | [Dal Buio alla Luce](https://open.spotify.com/album/73rsW9rQKkJZTkchN6QLko) | 3:25 | 2026-01-22 |  |
+| [Always Buying Stuff](https://open.spotify.com/track/42IXyMstxsXe32etO6JBvQ) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [Parallels](https://open.spotify.com/album/74pA4CqzQ2dRNgbGF1g5x4) | 3:43 | 2026-03-02 |  |
 | [Amer](https://open.spotify.com/track/3xOjr3Wu2IOqnhK3v6xIrc) | [Deladjaya trio](https://open.spotify.com/artist/4LDCQbS3K5R9uKaSFtcB2r) | [Album, No\. 1](https://open.spotify.com/album/1lIQtgbBGZasEbhnF7JtbD) | 3:20 | 2026-02-24 |  |
 | [Americana Coast](https://open.spotify.com/track/6BpQBUwter4qGrZ4iYgRbf) | [Bill Filipiak](https://open.spotify.com/artist/2xdtTND1CviwJbO8j2wvpM) | [Americana Coast](https://open.spotify.com/album/4xfZpPgxxxWPxOQjeR1x5Q) | 3:03 | 2025-09-28 | 2025-12-17 |
 | [Anaconda](https://open.spotify.com/track/6uF9EXY8NveGo9gvIFLxT5) | [Viva Los Villains](https://open.spotify.com/artist/0gU9Wj53y2a5ufEPhdhnJJ) | [Viva Los Villains](https://open.spotify.com/album/2Dui44Gfszog7oXQwhDocC) | 4:10 | 2026-01-25 |  |

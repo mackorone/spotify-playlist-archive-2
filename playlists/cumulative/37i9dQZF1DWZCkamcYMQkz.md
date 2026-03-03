@@ -4,7 +4,7 @@
 
 > Warm and cozy jazz vibes to get you in a positive mood.
 
-195 songs - 13 hr 15 min
+196 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [It Might as Well Be Spring](https://open.spotify.com/track/56IPhyZ2ByxWPksbqKpNxF) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Kyle Pogline](https://open.spotify.com/artist/0REkhjWkTuMhx8uvOKVZmH) | [It Might as Well Be Spring](https://open.spotify.com/album/6btoHKMKGlSpK8xvHviMbG) | 4:52 | 2022-04-07 |  |
 | [It's A Big Wide Wonderful World](https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 1:50 | 2021-12-16 |  |
 | [It's All Right](https://open.spotify.com/track/29q5W2FpwJyjZjrJROG5Mk) | [Wynton Kelly Trio](https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr) | [It's All Right!](https://open.spotify.com/album/14CbMw1lBMs4xI2JacW9ad) | 2:50 | 2021-12-16 |  |
-| [It's All Right With Me \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/0fnMpSyjIY0PmtHlopoIow) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing Johnny Griffin \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 5:00 | 2021-12-16 |  |
+| [It's All Right With Me \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/0fnMpSyjIY0PmtHlopoIow) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing Johnny Griffin \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 5:00 | 2021-12-16 | 2026-03-03 |
 | [It's Crazy](https://open.spotify.com/track/6bgkRqGbBJJ9cnwj8S4CkC) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 5:06 | 2021-12-16 |  |
 | [It's Only a Paper Moon](https://open.spotify.com/track/27Gqrcetxl6L6UOyhKrLwo) | [Lee Wiley](https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3) | [Follow Your Heart](https://open.spotify.com/album/2KPizBplSDIJ16sDqjLFKT) | 3:12 | 2021-12-16 | 2025-03-02 |
 | [Jay Bird](https://open.spotify.com/track/0VmsUOVB4o995oUmSaUB6Y) | [Robert Edwards](https://open.spotify.com/artist/5DmkuH4UiV7WesTUXh8itQ) | [JAYBIRD100](https://open.spotify.com/album/3ohHwGF0jcgBsVRtB56u3B) | 4:58 | 2025-05-09 | 2026-02-21 |
@@ -164,6 +164,7 @@
 | [Taking a Chance on Love](https://open.spotify.com/track/1ahnyRMBhh9H9d8v8JIyYF) | [V\. Duke](https://open.spotify.com/artist/28wBiD1oyqCarVwYuTJVv9), [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Taking A Chance On Love](https://open.spotify.com/album/3SPCafRVqoXgwY3YsofV6W) | 3:18 | 2022-06-28 | 2024-04-19 |
 | [Tea For Two](https://open.spotify.com/track/63DeUSSaejT2QBXkDYwXWt) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Paris In The Rain](https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp) | 4:06 | 2021-12-16 |  |
 | [Teach Me Tonight](https://open.spotify.com/track/31WAeyYAeNjzXfWuay90An) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Teach Me Tonight](https://open.spotify.com/album/2OscS2SfT93gShdb65NGmH) | 3:37 | 2026-02-20 |  |
+| [That's Why I Love My Baby](https://open.spotify.com/track/1CgkJxuZwhMsPNpQBDzr4S) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [That's Why I Love My Baby](https://open.spotify.com/album/55Br3xub7OEkXMpkZB2tk5) | 4:50 | 2026-02-20 |  |
 | [The Architect](https://open.spotify.com/track/6IsKPToqMCdH50pD5P6AeM) | [Tyler Henderson](https://open.spotify.com/artist/4edLXfn5dbnwKUZ7pNdmze) | [The Architect](https://open.spotify.com/album/50Jy8t0xYgSgGrCIWt5EXZ) | 3:45 | 2025-09-26 |  |
 | [The Best Things In Life Are Free](https://open.spotify.com/track/1cVALNeqpyIsvzuWz3f5dA) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Magic Of Jo Stafford](https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka) | 2:23 | 2021-12-16 |  |
 | [The Best Things In Life Are Free](https://open.spotify.com/track/2QPxNZFYWCEtvLRQ8cEVli) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [Autumn In New York](https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14) | 2:24 | 2022-06-28 | 2024-04-17 |

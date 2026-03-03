@@ -1,6 +1,6 @@
 {
   "description": "good vibes, all day every day",
-  "num_followers": 439537,
+  "num_followers": 439678,
   "original_name": "good energy",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2025-07-03 13:57:15",
       "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 200583,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/40rOlDoGejXXF4B0BYsjx8"
+    },
+    {
+      "added_at": "2025-07-03 13:57:15",
+      "album": {
         "name": "Big Ideas",
         "url": "https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 186277,
       "name": "SEEIN\u2019 STARS",
       "url": "https://open.spotify.com/track/2Z4nIITCxUoaZvFug5FxtO"
-    },
-    {
-      "added_at": "2025-07-03 13:57:15",
-      "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 200583,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/40rOlDoGejXXF4B0BYsjx8"
     },
     {
       "added_at": "2025-07-03 13:57:15",
@@ -783,38 +783,6 @@
     {
       "added_at": "2025-07-03 13:57:15",
       "album": {
-        "name": "300 dreams",
-        "url": "https://open.spotify.com/album/3IgDyLUkygCEyfG7CsZyzB"
-      },
-      "artists": [
-        {
-          "name": "After",
-          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
-        }
-      ],
-      "duration_ms": 188575,
-      "name": "300 dreams",
-      "url": "https://open.spotify.com/track/3gkVuPHTyp4rHH5YrczzOL"
-    },
-    {
-      "added_at": "2025-07-03 13:57:15",
-      "album": {
-        "name": "Feels Right",
-        "url": "https://open.spotify.com/album/2p1ShoYCCYtOfyDXRS97Gn"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 199006,
-      "name": "Feels Right",
-      "url": "https://open.spotify.com/track/0BWBqb5XxraObLopqskk6D"
-    },
-    {
-      "added_at": "2025-07-03 13:57:15",
-      "album": {
         "name": "Hyperdrama",
         "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
       },
@@ -835,6 +803,38 @@
     {
       "added_at": "2025-07-03 13:57:15",
       "album": {
+        "name": "Feels Right",
+        "url": "https://open.spotify.com/album/2p1ShoYCCYtOfyDXRS97Gn"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 199006,
+      "name": "Feels Right",
+      "url": "https://open.spotify.com/track/0BWBqb5XxraObLopqskk6D"
+    },
+    {
+      "added_at": "2025-07-03 13:57:15",
+      "album": {
+        "name": "300 dreams",
+        "url": "https://open.spotify.com/album/3IgDyLUkygCEyfG7CsZyzB"
+      },
+      "artists": [
+        {
+          "name": "After",
+          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
+        }
+      ],
+      "duration_ms": 188575,
+      "name": "300 dreams",
+      "url": "https://open.spotify.com/track/3gkVuPHTyp4rHH5YrczzOL"
+    },
+    {
+      "added_at": "2025-07-03 13:57:15",
+      "album": {
         "name": "Bon Bon",
         "url": "https://open.spotify.com/album/27WWDGD7YPsoaOCwZNFWBT"
       },
@@ -847,54 +847,6 @@
       "duration_ms": 210133,
       "name": "Bon Bon",
       "url": "https://open.spotify.com/track/4Dr5pBJktWX8aZckCznE6q"
-    },
-    {
-      "added_at": "2025-07-03 13:57:15",
-      "album": {
-        "name": ":)",
-        "url": "https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo"
-      },
-      "artists": [
-        {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        }
-      ],
-      "duration_ms": 180568,
-      "name": ":)",
-      "url": "https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN"
-    },
-    {
-      "added_at": "2025-07-03 13:57:15",
-      "album": {
-        "name": "Can we talk about Isaac?",
-        "url": "https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 243203,
-      "name": "Can we talk about Isaac?",
-      "url": "https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r"
-    },
-    {
-      "added_at": "2025-07-03 13:57:15",
-      "album": {
-        "name": "Sunny",
-        "url": "https://open.spotify.com/album/7JgO7n3YCFeYN2RmR5A2Bh"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/42AsgO0005lineLVc1aSOL"
     },
     {
       "added_at": "2025-07-03 13:57:15",
@@ -915,6 +867,54 @@
     {
       "added_at": "2025-07-03 13:57:15",
       "album": {
+        "name": ":)",
+        "url": "https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "duration_ms": 180568,
+      "name": ":)",
+      "url": "https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN"
+    },
+    {
+      "added_at": "2025-07-03 13:57:15",
+      "album": {
+        "name": "Sunny",
+        "url": "https://open.spotify.com/album/7JgO7n3YCFeYN2RmR5A2Bh"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/42AsgO0005lineLVc1aSOL"
+    },
+    {
+      "added_at": "2025-07-03 13:57:15",
+      "album": {
+        "name": "Can we talk about Isaac?",
+        "url": "https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 243203,
+      "name": "Can we talk about Isaac?",
+      "url": "https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r"
+    },
+    {
+      "added_at": "2025-07-03 13:57:15",
+      "album": {
         "name": "man oh man !",
         "url": "https://open.spotify.com/album/3ceQB5KZjY2EI7F2b9h1pQ"
       },
@@ -927,22 +927,6 @@
       "duration_ms": 170903,
       "name": "hello !",
       "url": "https://open.spotify.com/track/3eIVoDIJJduj7HDDI5yz1V"
-    },
-    {
-      "added_at": "2025-07-03 13:57:15",
-      "album": {
-        "name": "Take A Sexy Picture Of Me",
-        "url": "https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 229933,
-      "name": "Take A Sexy Picture Of Me",
-      "url": "https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY"
     },
     {
       "added_at": "2025-07-03 13:57:15",
@@ -963,6 +947,22 @@
       "duration_ms": 244034,
       "name": "Baxter (these are my friends)",
       "url": "https://open.spotify.com/track/6Orwi1oYLckpnBF7NbCbrg"
+    },
+    {
+      "added_at": "2025-07-03 13:57:15",
+      "album": {
+        "name": "Take A Sexy Picture Of Me",
+        "url": "https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 229933,
+      "name": "Take A Sexy Picture Of Me",
+      "url": "https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY"
     },
     {
       "added_at": "2025-07-03 13:57:15",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-07-03 13:57:15",
       "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/2VZolgD2RKzb5F4gSNkx1Y"
-      },
-      "artists": [
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        }
-      ],
-      "duration_ms": 168654,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/0pRyOQjr12h9RBEFmhbTQc"
-    },
-    {
-      "added_at": "2025-07-03 13:57:15",
-      "album": {
         "name": "Why Do We Shake In The Cold?",
         "url": "https://open.spotify.com/album/5DmT0aBDQe90fxAiP3pDwO"
       },
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2025-07-03 13:57:15",
       "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2VZolgD2RKzb5F4gSNkx1Y"
+      },
+      "artists": [
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "duration_ms": 168654,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/0pRyOQjr12h9RBEFmhbTQc"
+    },
+    {
+      "added_at": "2025-07-03 13:57:15",
+      "album": {
         "name": "I Lied, I'm Sorry",
         "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
       },
@@ -1159,22 +1159,6 @@
       "duration_ms": 162300,
       "name": "I Lied, I'm Sorry",
       "url": "https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD"
-    },
-    {
-      "added_at": "2025-07-03 13:57:15",
-      "album": {
-        "name": "Softly",
-        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 188780,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
     },
     {
       "added_at": "2025-07-03 13:57:15",
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2025-07-03 13:57:15",
       "album": {
-        "name": "Leave It On The Dancefloor",
-        "url": "https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o"
+        "name": "Softly",
+        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
       },
       "artists": [
         {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 175016,
-      "name": "Leave It On The Dancefloor",
-      "url": "https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v"
+      "duration_ms": 188780,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
     },
     {
       "added_at": "2025-07-03 13:57:15",
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2025-07-03 13:57:15",
       "album": {
-        "name": "I quit",
-        "url": "https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6"
+        "name": "Leave It On The Dancefloor",
+        "url": "https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o"
       },
       "artists": [
         {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
         }
       ],
-      "duration_ms": 202013,
-      "name": "Relationships",
-      "url": "https://open.spotify.com/track/46s4mYaQ5YVmwxvDa0oYC3"
+      "duration_ms": 175016,
+      "name": "Leave It On The Dancefloor",
+      "url": "https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v"
     },
     {
       "added_at": "2025-07-03 13:57:15",
@@ -1263,6 +1247,22 @@
       "duration_ms": 288613,
       "name": "Blackoak",
       "url": "https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18"
+    },
+    {
+      "added_at": "2025-07-03 13:57:15",
+      "album": {
+        "name": "I quit",
+        "url": "https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 202013,
+      "name": "Relationships",
+      "url": "https://open.spotify.com/track/46s4mYaQ5YVmwxvDa0oYC3"
     },
     {
       "added_at": "2025-07-03 13:57:15",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-07-03 13:57:15",
       "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo"
-    },
-    {
-      "added_at": "2025-07-03 13:57:15",
-      "album": {
         "name": "Collide (From \"Queen & Slim: The Soundtrack\")",
         "url": "https://open.spotify.com/album/0Y9i5YM95iEHAQpppUN76A"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 205453,
       "name": "Collide - From \"Queen & Slim: The Soundtrack\"",
       "url": "https://open.spotify.com/track/1mEO3xiJqEWXYIdZalDzHR"
+    },
+    {
+      "added_at": "2025-07-03 13:57:15",
+      "album": {
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo"
     },
     {
       "added_at": "2025-07-03 13:57:15",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-07-03 13:57:15",
       "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 190348,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
-    },
-    {
-      "added_at": "2025-07-03 13:57:15",
-      "album": {
         "name": "Phases EP",
         "url": "https://open.spotify.com/album/67yZd1xUTES5qFQT9XNwZG"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 200680,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/0CxVnKu6PG6tYTGVtSD8UU"
+    },
+    {
+      "added_at": "2025-07-03 13:57:15",
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 190348,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
     },
     {
       "added_at": "2025-07-03 13:57:15",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2025-07-03 13:57:15",
       "album": {
-        "name": "see you later maybe never (demos)",
-        "url": "https://open.spotify.com/album/2iumrsHblYqxcEyDNvnJg3"
-      },
-      "artists": [
-        {
-          "name": "hard life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
-        }
-      ],
-      "duration_ms": 160656,
-      "name": "peanut butter",
-      "url": "https://open.spotify.com/track/4K9Jh6jnw0P4FZUwrG6Keb"
-    },
-    {
-      "added_at": "2025-07-03 13:57:15",
-      "album": {
         "name": "God Talks Back",
         "url": "https://open.spotify.com/album/1OdVoqvuL37xqJB36iOaxN"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 172461,
       "name": "God Talks Back",
       "url": "https://open.spotify.com/track/6upguv1cl65uzFbKxvruFI"
+    },
+    {
+      "added_at": "2025-07-03 13:57:15",
+      "album": {
+        "name": "see you later maybe never (demos)",
+        "url": "https://open.spotify.com/album/2iumrsHblYqxcEyDNvnJg3"
+      },
+      "artists": [
+        {
+          "name": "hard life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+        }
+      ],
+      "duration_ms": 160656,
+      "name": "peanut butter",
+      "url": "https://open.spotify.com/track/4K9Jh6jnw0P4FZUwrG6Keb"
     },
     {
       "added_at": "2025-07-03 13:57:15",

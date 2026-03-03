@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 24930,
+  "num_followers": 24933,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaIwAAAAAADYm7sYuurcYVSMZXzqiob8",
+  "snapshot_id": "aaOBgAAAAACguNHYTPo3aE+AXAznhTNT",
   "tracks": [
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/5FZSyaYxEBdFETvg5i9BAH"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 189749,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/0bnUWmQVWODe7I17aidv3j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Classical Soul Vol. 1",
         "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 63372,
       "name": "Killing Me Softly With His Song",
       "url": "https://open.spotify.com/track/1RaD3ilt4NTRHwJGvMy2L0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/5FZSyaYxEBdFETvg5i9BAH"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 189749,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/0bnUWmQVWODe7I17aidv3j"
     },
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classical Soul Vol. 1",
-        "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 201008,
-      "name": "Returning To You",
-      "url": "https://open.spotify.com/track/1Y3iykHwIsjHX1NVC72Pyb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 216625,
       "name": "Story of You",
       "url": "https://open.spotify.com/track/3eAN6u0NIx1YkkDNppNQC8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Classical Soul Vol. 1",
+        "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 201008,
+      "name": "Returning To You",
+      "url": "https://open.spotify.com/track/1Y3iykHwIsjHX1NVC72Pyb"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classical Soul Vol. 1",
-        "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 207626,
-      "name": "Together Without You",
-      "url": "https://open.spotify.com/track/0OoXjNW8NfQwvajvjX84VF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 123850,
       "name": "Sheep May Safely Graze - Arr. by Alexis Ffrench",
       "url": "https://open.spotify.com/track/06naL4CQq3FfhsutfV4rCd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Classical Soul Vol. 1",
+        "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 207626,
+      "name": "Together Without You",
+      "url": "https://open.spotify.com/track/0OoXjNW8NfQwvajvjX84VF"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Karma",
-        "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 191445,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/5nzGqdxOAopeh7KLI9Sy6m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 133647,
       "name": "The Promise",
       "url": "https://open.spotify.com/track/0SaUNOXFFmziEOyn0Gyi9E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Karma",
+        "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 191445,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/5nzGqdxOAopeh7KLI9Sy6m"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 181952,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/0aHTww4G1siCKZu7ewNpsd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 181758,
       "name": "Carousel",
       "url": "https://open.spotify.com/track/7qUR44mhbatVB3p4OPw3Qd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 181952,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/0aHTww4G1siCKZu7ewNpsd"
     },
     {
       "added_at": null,

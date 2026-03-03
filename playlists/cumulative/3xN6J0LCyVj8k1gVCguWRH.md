@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-5,764 songs - 13 day 10 hr 11 min
+5,768 songs - 13 day 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1411,6 +1411,7 @@
 | [Drink The River](https://open.spotify.com/track/79DYCnC5S7lhCwo1rKIwoM) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Drink The River](https://open.spotify.com/album/66w66TUwHavAnh3f0cOQdj) | 3:35 | 2023-12-29 | 2024-03-08 |
 | [Drinkin' Again](https://open.spotify.com/track/03IDe9WgzVDzwSMlUvZcPy) | [Reed Foley](https://open.spotify.com/artist/7xZgMvtftYlkdIPa0P7xzc) | [Drinkin' Again](https://open.spotify.com/album/2EPCExRYd73PEsoj4ipG7X) | 2:43 | 2025-10-14 | 2025-10-26 |
 | [Drip](https://open.spotify.com/track/76t3kwyZrNb2FIb6TIBfC7) | [Paul Law](https://open.spotify.com/artist/3WZR44LCni9s4kxjq7UUhT) | [Drip](https://open.spotify.com/album/0dckg2hUJBHmPMxBGh1kcq) | 3:10 | 2024-04-13 | 2024-04-24 |
+| [Drive \- \(Remastered\)](https://open.spotify.com/track/5umMdeldskzFYs1UA3CRcg) | [Kenny Mehler](https://open.spotify.com/artist/4N1Sigw37UfElIUUR981QS) | [Now and Then \(2024 Remastered Edition\)](https://open.spotify.com/album/24HDKobrtQUcFZkFfGejEe) | 2:47 | 2026-03-02 |  |
 | [Drive My Car](https://open.spotify.com/track/3y9FcUfrYXHnIYnX5kpnPb) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [Drive My Car](https://open.spotify.com/album/5MgKrigRaertcxGsj7zUAD) | 1:52 | 2025-09-10 | 2025-10-11 |
 | [Drive Slow](https://open.spotify.com/track/09SbfON8Ku2P4XOw3HNqq6) | [Becca Hannah](https://open.spotify.com/artist/77BNxavx0FnuOTcmzkkSoK), [The FXP](https://open.spotify.com/artist/7nl3G9Ak0XfwSEdFF7ZOUS) | [Drive Slow](https://open.spotify.com/album/4h5GmSrdCseWIDoh0wjdAh) | 2:52 | 2024-03-26 | 2024-04-12 |
 | [Driving Me](https://open.spotify.com/track/2VCcKS1psI0VwShlWC8QYz) | [Ley.na](https://open.spotify.com/artist/08CRMVMr48KpO1CdmOBwvV) | [Driving Me](https://open.spotify.com/album/3fQBgPqmDy3YyE1JN6JP34) | 4:04 | 2025-08-18 | 2025-08-31 |
@@ -1738,6 +1739,7 @@
 | [Float \- feat\. Jim Adkins](https://open.spotify.com/track/55ajMXRw1koPLQiG5jOXf1) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Jim Adkins](https://open.spotify.com/artist/0Zh8szcqjar4shjPoWJHTc) | [Belong](https://open.spotify.com/album/2sdK35lVZvkcOvztZYpG3a) | 3:27 | 2025-12-18 | 2026-02-02 |
 | [Flower](https://open.spotify.com/track/49r8KQDs5IkIxs10tTBfY2) | [Adom](https://open.spotify.com/artist/5cp4XJR0TgFBtT5jbHk1Dl) | [Flower](https://open.spotify.com/album/7tF4SlJfRqeYsdoA0q4Pf1) | 2:51 | 2022-12-09 | 2023-05-30 |
 | [Flowers](https://open.spotify.com/track/2dT2ng9hFxCMjW0sWhKnqP) | [Edor](https://open.spotify.com/artist/1ULXAsr3CfTmuwvwsJR36a) | [Myself](https://open.spotify.com/album/58YLhewWS1Ri1baYlWerU3) | 2:57 | 2021-06-04 | 2021-06-20 |
+| [Flowers](https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso) | [Flowers](https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2) | 2:56 | 2026-03-02 |  |
 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2023-11-08 | 2023-12-30 |
 | [Flowers on Fire](https://open.spotify.com/track/0qkPx42siPDXy1C2WsLmSg) | [Jabriel](https://open.spotify.com/artist/3ospfNqVeXbcUbttYxpHLa) | [Flowers on Fire](https://open.spotify.com/album/3lg8yYecYjwVQAzg4tDFyC) | 3:50 | 2023-08-09 | 2023-08-28 |
 | [Flu\-Ent\-Ly](https://open.spotify.com/track/76YpwrMIQqAunspt7VhOEd) | [Just Rell](https://open.spotify.com/artist/6we6j2WoBp71qJeE966MVn) | [Flu\-Ent\-Ly](https://open.spotify.com/album/5YIVlivVUhXCoXqouNsRUx) | 3:22 | 2024-05-10 | 2024-05-22 |
@@ -4102,6 +4104,7 @@
 | [Ride with Me](https://open.spotify.com/track/2NiPRdUuorzVLamxj3JsCf) | [Droo's Peace Crush](https://open.spotify.com/artist/3QPEx65Ji9k03ZCwPbmYED) | [Magic & the Reel](https://open.spotify.com/album/6Q7ooV4QlxRP6Oq6d3UYik) | 3:54 | 2021-05-08 | 2021-05-23 |
 | [Right About Ready](https://open.spotify.com/track/3g7GjT79fgbJhNGIkJm06D) | [Gareth Dunlop](https://open.spotify.com/artist/20wLNsNYfXIbH8QPdqS4dz) | [Animal](https://open.spotify.com/album/0IeP5CCaf8I8xMU3moxLIg) | 3:06 | 2023-05-12 | 2023-05-30 |
 | [Right Back Around](https://open.spotify.com/track/6YVnpHHjg4Ukgk58yS9Fbi) | [Dazy Chain](https://open.spotify.com/artist/2gHF2JSNXKMMTfF1mQxEK9), [Lone Waves](https://open.spotify.com/artist/45EpHuWKvRCZZSVininBeS) | [Alley\-Oop](https://open.spotify.com/album/2jLJX7oSnhNWPbnW27rafo) | 2:17 | 2022-09-02 | 2022-09-18 |
+| [Right Back Home](https://open.spotify.com/track/0B67FB7kVKb0XXtaLs6g9e) | [Razzy Ellis](https://open.spotify.com/artist/7o328maNyMVVq3QyVkrgCk) | [Right Back Home](https://open.spotify.com/album/284G3lJxGulwrJNz3PxKKP) | 3:53 | 2026-03-02 |  |
 | [Right Back to It](https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 4:33 | 2024-12-21 | 2025-02-09 |
 | [Right Guy](https://open.spotify.com/track/70AY34rHmEQ2qEUXgkrLOr) | [Kaleb Sanders](https://open.spotify.com/artist/4hsCKTS1M5pg7uIJuotsDB) | [Right Guy](https://open.spotify.com/album/1hTLrsNLzU9sosVd6mgMaO) | 3:10 | 2025-02-19 | 2025-03-03 |
 | [RIGHT HERE](https://open.spotify.com/track/56uMdRlr2LyF24v0QR3pYT) | [Jay Nealy](https://open.spotify.com/artist/0gsMPOtgWw700C9otApdDT) | [APPETITE](https://open.spotify.com/album/23hICChSMeEAlrNvb1WCU2) | 3:05 | 2025-01-30 | 2025-02-11 |
@@ -5056,6 +5059,7 @@
 | [Those Were The Days](https://open.spotify.com/track/6I7rpQAaymiIZFnIpTOOhH) | [Calabasas](https://open.spotify.com/artist/1hTxTWi0qO9VGuG9elXEcZ) | [Those Were The Days](https://open.spotify.com/album/6Vr6CdKIwoUJ1Kgrk6xbY7) | 2:53 | 2024-08-31 | 2025-03-22 |
 | [Thought Of You](https://open.spotify.com/track/0vS0HFgHch0doCKvZZmoHj) | [Milly Marín](https://open.spotify.com/artist/1RpZlNKEit9PRgaqkrlYXv), [rada.](https://open.spotify.com/artist/0uyP6LADSbnytFIDvfvKzu) | [Thought Of You](https://open.spotify.com/album/0RNMNzakXS5dDklfZGvtjG) | 4:11 | 2021-02-19 | 2021-03-06 |
 | [Through It All](https://open.spotify.com/track/6qV9Nvbh1KmZdjwdclfkAH) | [Marco Paul](https://open.spotify.com/artist/3Ec4pAbx0ZWtvrsKxvq6uT), [Lila Swain](https://open.spotify.com/artist/35D5Ojj9GVGai20x190ChK) | [Through It All](https://open.spotify.com/album/74PxzjY5SQiij3CdQBafJR) | 3:43 | 2024-10-18 | 2024-11-06 |
+| [Through The Night](https://open.spotify.com/track/59nXf7weFZKL0cfUqkHdUB) | [Stale Jan](https://open.spotify.com/artist/6PVC0cQVqq7Rkv1imbqi2Z), [All Spark](https://open.spotify.com/artist/2LPZCmCoXIsnXdKrgyaVyj) | [Through The Night](https://open.spotify.com/album/2YGSevrKihNs4TRM5yJ1tt) | 4:02 | 2026-03-02 |  |
 | [Through the valley.](https://open.spotify.com/track/1xfzYCEu8nwQfp1Qfpii9U) | [Flyingboy Bobby](https://open.spotify.com/artist/1Elez1wU4It82utXDD9Bkh) | [Through the valley.](https://open.spotify.com/album/1cXWCdk3tNp7zoGpx7Zl4C) | 3:37 | 2025-10-09 | 2025-10-21 |
 | [throw away](https://open.spotify.com/track/7mTzqgm80Bu6WUZ4M3WltL) | [PRIV](https://open.spotify.com/artist/0jIqPF7laDAaZmSeoSzLlt) | [throw away](https://open.spotify.com/album/7awS0ZRELkB9z2dg9gnwKF) | 2:59 | 2024-06-29 | 2024-07-10 |
 | [Throw It All On Me](https://open.spotify.com/track/4EzYdkoohH5wJqccyNvChJ) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk), [Just Shad](https://open.spotify.com/artist/6d4cow3OkL7leTkqKnQfad) | [Throw It All On Me](https://open.spotify.com/album/3u11QeneTdhktBLmrRVa6a) | 2:32 | 2024-05-20 | 2024-06-01 |

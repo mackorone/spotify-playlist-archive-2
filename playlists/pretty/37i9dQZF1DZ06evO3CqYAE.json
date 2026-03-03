@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 14376,
+  "num_followers": 14378,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaIwAAAAAAC8FErc37FsFwyZ7Rd1CVED",
+  "snapshot_id": "aaOBgAAAAACVentzDNBxi2tfTEGYSwiz",
   "tracks": [
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's The Season (Live Performance)",
-        "url": "https://open.spotify.com/album/4sfiFXIHYJj2FINtFPjFPu"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 1944960,
-      "name": "It's The Season (Live Performance)",
-      "url": "https://open.spotify.com/track/2vSs0nmmOyJ6wMt35kH3PA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In His Will",
         "url": "https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 222740,
       "name": "I Depend on You",
       "url": "https://open.spotify.com/track/1v5aEbJExlPEVuTxau4xPu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's The Season (Live Performance)",
+        "url": "https://open.spotify.com/album/4sfiFXIHYJj2FINtFPjFPu"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 1944960,
+      "name": "It's The Season (Live Performance)",
+      "url": "https://open.spotify.com/track/2vSs0nmmOyJ6wMt35kH3PA"
     },
     {
       "added_at": null,
@@ -843,6 +843,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "In His Will",
+        "url": "https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "MOGmusic",
+          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
+        }
+      ],
+      "duration_ms": 361389,
+      "name": "None Like You Lord",
+      "url": "https://open.spotify.com/track/4C1j4hhESWONgyhe52Bwpc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eze (feat. Preye Odede)",
         "url": "https://open.spotify.com/album/3PH6kZDIT5gJYMGNWzqqq2"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 356063,
       "name": "Eze (feat. Preye Odede)",
       "url": "https://open.spotify.com/track/2Y2mu2RkaSmGKymRSA35od"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In His Will",
-        "url": "https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        },
-        {
-          "name": "MOGmusic",
-          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
-        }
-      ],
-      "duration_ms": 361389,
-      "name": "None Like You Lord",
-      "url": "https://open.spotify.com/track/4C1j4hhESWONgyhe52Bwpc"
     },
     {
       "added_at": null,
@@ -923,6 +923,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In His Will",
+        "url": "https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 281701,
+      "name": "All Powerful and Sovereign",
+      "url": "https://open.spotify.com/track/50aHZPleDo8B9jSbLanqfj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Imela",
         "url": "https://open.spotify.com/album/0ppqpCnXDLy2phDJWD97kV"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 249822,
       "name": "Imela",
       "url": "https://open.spotify.com/track/6CHnff0Bu5k1uUvLmrtQF0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In His Will",
-        "url": "https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 281701,
-      "name": "All Powerful and Sovereign",
-      "url": "https://open.spotify.com/track/50aHZPleDo8B9jSbLanqfj"
     },
     {
       "added_at": null,

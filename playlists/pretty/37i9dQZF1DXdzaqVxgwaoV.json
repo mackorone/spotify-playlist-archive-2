@@ -1,6 +1,6 @@
 {
   "description": "\u00a1M\u00fasica tropical, cumbia, guasca y de carrilera para recordar y disfrutar!",
-  "num_followers": 145561,
+  "num_followers": 145557,
   "original_name": "Viejoteca",
   "owner": {
     "name": "Spotify",
@@ -343,18 +343,18 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Dar\u00edo Dar\u00edo Esclavo de las Mujeres",
-        "url": "https://open.spotify.com/album/7y3218iXz2iwxVBMe8Qqcm"
+        "name": "Amor Oculto",
+        "url": "https://open.spotify.com/album/1CA0zMs4fMYWxwNWWA6tLx"
       },
       "artists": [
         {
-          "name": "Dario Dario",
-          "url": "https://open.spotify.com/artist/4MAWVx8RvhYBpEDf3XKCOG"
+          "name": "El Andariego",
+          "url": "https://open.spotify.com/artist/7umWQMinvyqkJIWOdo02OW"
         }
       ],
-      "duration_ms": 221773,
-      "name": "Mu\u00f1eco de Vitrina",
-      "url": "https://open.spotify.com/track/0PZ81A2LmrXzbjH6wscL3Z"
+      "duration_ms": 229920,
+      "name": "Amor Oculto",
+      "url": "https://open.spotify.com/track/2XDFJJJDb35ng71PNB5GPW"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -375,6 +375,22 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
+        "name": "Dar\u00edo Dar\u00edo Esclavo de las Mujeres",
+        "url": "https://open.spotify.com/album/7y3218iXz2iwxVBMe8Qqcm"
+      },
+      "artists": [
+        {
+          "name": "Dario Dario",
+          "url": "https://open.spotify.com/artist/4MAWVx8RvhYBpEDf3XKCOG"
+        }
+      ],
+      "duration_ms": 221773,
+      "name": "Mu\u00f1eco de Vitrina",
+      "url": "https://open.spotify.com/track/0PZ81A2LmrXzbjH6wscL3Z"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
         "name": "No Hay Porqu\u00e9 Esperar",
         "url": "https://open.spotify.com/album/37ipB2Anm6xNkDUu8nubbX"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 176562,
       "name": "Me Tragaba Tus Mentiras",
       "url": "https://open.spotify.com/track/0Z2KrRMIL80GrzQUmXsLeu"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
-        "name": "Amor Oculto",
-        "url": "https://open.spotify.com/album/1CA0zMs4fMYWxwNWWA6tLx"
-      },
-      "artists": [
-        {
-          "name": "El Andariego",
-          "url": "https://open.spotify.com/artist/7umWQMinvyqkJIWOdo02OW"
-        }
-      ],
-      "duration_ms": 229920,
-      "name": "Amor Oculto",
-      "url": "https://open.spotify.com/track/2XDFJJJDb35ng71PNB5GPW"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -535,22 +535,18 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Las Que Faltaban",
-        "url": "https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw"
+        "name": "El Mujeriego",
+        "url": "https://open.spotify.com/album/2txJvfyWUlQSjWV6RNtHiv"
       },
       "artists": [
         {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
-        },
-        {
-          "name": "Juancho Rois",
-          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
+          "name": "Jhonny Rivera",
+          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
         }
       ],
-      "duration_ms": 274546,
-      "name": "Las Cuatro Fiestas",
-      "url": "https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6"
+      "duration_ms": 181269,
+      "name": "El Mujeriego",
+      "url": "https://open.spotify.com/track/66hMCXEj9s7yMfMUa0HCEY"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -571,18 +567,22 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "El Mujeriego",
-        "url": "https://open.spotify.com/album/2txJvfyWUlQSjWV6RNtHiv"
+        "name": "Las Que Faltaban",
+        "url": "https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw"
       },
       "artists": [
         {
-          "name": "Jhonny Rivera",
-          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "Juancho Rois",
+          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
         }
       ],
-      "duration_ms": 181269,
-      "name": "El Mujeriego",
-      "url": "https://open.spotify.com/track/66hMCXEj9s7yMfMUa0HCEY"
+      "duration_ms": 274546,
+      "name": "Las Cuatro Fiestas",
+      "url": "https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Coleccion Grandes Figuras",
-        "url": "https://open.spotify.com/album/4nSqh2gtrHCfGsxisJXsUe"
-      },
-      "artists": [
-        {
-          "name": "El Caballero Gaucho",
-          "url": "https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70"
-        }
-      ],
-      "duration_ms": 113133,
-      "name": "Viejo Juguete",
-      "url": "https://open.spotify.com/track/3T5b76vKa8URdXJ0PF5oPG"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/2PfUQSQlXgkhCkEdCfBNmL"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 181693,
       "name": "Veinte A\u00f1os",
       "url": "https://open.spotify.com/track/5bkfp7VLBka3b2tqLjC0Au"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "Coleccion Grandes Figuras",
+        "url": "https://open.spotify.com/album/4nSqh2gtrHCfGsxisJXsUe"
+      },
+      "artists": [
+        {
+          "name": "El Caballero Gaucho",
+          "url": "https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70"
+        }
+      ],
+      "duration_ms": 113133,
+      "name": "Viejo Juguete",
+      "url": "https://open.spotify.com/track/3T5b76vKa8URdXJ0PF5oPG"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -931,18 +931,18 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Matemos las Ganas",
-        "url": "https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom"
+        "name": "Los Relajos del Arriero",
+        "url": "https://open.spotify.com/album/5Z8e6tnjGvPulTFqddGxG8"
       },
       "artists": [
         {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+          "name": "Octavio Mesa",
+          "url": "https://open.spotify.com/artist/3aVL3CqqnAdGM3p3QNBD8x"
         }
       ],
-      "duration_ms": 182166,
-      "name": "Matemos las Ganas",
-      "url": "https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN"
+      "duration_ms": 143520,
+      "name": "El Zapatero",
+      "url": "https://open.spotify.com/track/2Q8O0xBH75Sh2182S8I8Pg"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -963,18 +963,18 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Los Relajos del Arriero",
-        "url": "https://open.spotify.com/album/5Z8e6tnjGvPulTFqddGxG8"
+        "name": "Matemos las Ganas",
+        "url": "https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom"
       },
       "artists": [
         {
-          "name": "Octavio Mesa",
-          "url": "https://open.spotify.com/artist/3aVL3CqqnAdGM3p3QNBD8x"
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
         }
       ],
-      "duration_ms": 143520,
-      "name": "El Zapatero",
-      "url": "https://open.spotify.com/track/2Q8O0xBH75Sh2182S8I8Pg"
+      "duration_ms": 182166,
+      "name": "Matemos las Ganas",
+      "url": "https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Relajos del Arriero",
-        "url": "https://open.spotify.com/album/1QFSyof19J29lXMJObKPeB"
-      },
-      "artists": [
-        {
-          "name": "Octavio Mesa Y Su Conjunto",
-          "url": "https://open.spotify.com/artist/3npi4RWuNZl4jhe3z5qwVr"
-        }
-      ],
-      "duration_ms": 167471,
-      "name": "Las Trovas Maliciosas",
-      "url": "https://open.spotify.com/track/2VOCn5cM6fZR8wAKPevr6X"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "Mano a Mano",
         "url": "https://open.spotify.com/album/3CaNT6kMdKV5QA7RktoDqh"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 165640,
       "name": "Mujer Traidora",
       "url": "https://open.spotify.com/track/7vjop7p1yCApmPFcwwreuV"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "Relajos del Arriero",
+        "url": "https://open.spotify.com/album/1QFSyof19J29lXMJObKPeB"
+      },
+      "artists": [
+        {
+          "name": "Octavio Mesa Y Su Conjunto",
+          "url": "https://open.spotify.com/artist/3npi4RWuNZl4jhe3z5qwVr"
+        }
+      ],
+      "duration_ms": 167471,
+      "name": "Las Trovas Maliciosas",
+      "url": "https://open.spotify.com/track/2VOCn5cM6fZR8wAKPevr6X"
     },
     {
       "added_at": "2026-02-23 16:04:48",

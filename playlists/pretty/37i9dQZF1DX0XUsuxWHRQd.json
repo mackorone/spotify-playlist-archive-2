@@ -1,15 +1,47 @@
 {
   "description": "New music from Yeat, Esdeekid, Swae Lee and Baby Keem. ",
-  "num_followers": 15782165,
+  "num_followers": 15781462,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC2shcurk5GenrUg5WtC7ftuJEx0",
+  "snapshot_id": "AAAAAGg5hVYwJdIKVCGlhnUD2hLWLm1y",
   "tracks": [
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
+      "album": {
+        "name": "Ca$ino",
+        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 260825,
+      "name": "Ca$ino",
+      "url": "https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P"
+    },
+    {
+      "added_at": "2026-03-02 19:47:44",
+      "album": {
+        "name": "The Fall-Off",
+        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 196080,
+      "name": "Two Six",
+      "url": "https://open.spotify.com/track/57ENogEkvFsU7Wmt3lvQMG"
+    },
+    {
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "Made It On Our Own",
         "url": "https://open.spotify.com/album/5pXYL4x2dOkvxM0aeigqwF"
@@ -29,39 +61,7 @@
       "url": "https://open.spotify.com/track/13Z2JpNwN54a5WXacGYtLs"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
-      "album": {
-        "name": "Ca$ino",
-        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        }
-      ],
-      "duration_ms": 260825,
-      "name": "Ca$ino",
-      "url": "https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P"
-    },
-    {
-      "added_at": "2026-02-28 16:11:02",
-      "album": {
-        "name": "The Fall-Off",
-        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 196080,
-      "name": "Two Six",
-      "url": "https://open.spotify.com/track/57ENogEkvFsU7Wmt3lvQMG"
-    },
-    {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "ATM",
         "url": "https://open.spotify.com/album/2aOzBC2dw4L6USRUdyu2X3"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/0FrESd7LNffZyGZ37VuSmH"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "Don't Be Dumb",
         "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/2FycFFuNMVVYIiIqeldXF5"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "Down South",
         "url": "https://open.spotify.com/album/23amY0Ns9L31zVNhG9BRZO"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/70sjcC1GLyYfcHntiZ16cN"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "The Fall-Off",
         "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/6jtqO14L18plBtpDTtUkFR"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "ICEMAN FREESTYLE",
         "url": "https://open.spotify.com/album/2WffTc00muxCNZhwopltsi"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/0YskQDMYYgtxyFp1yTabRu"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "Rebel",
         "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "What You Saying",
         "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "OCTANE",
         "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/2Ejyg4CavumEr7lFUkk9aF"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "6WA",
         "url": "https://open.spotify.com/album/23YB6arrlcMYHpeMT72TaO"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/6fODAgyTJdN7ATeJOP81dj"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "HELICOPTER",
         "url": "https://open.spotify.com/album/3RqGpx3OPRVlRdVEMCh0Wf"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/3v1d12O8WEj5H9eFID7HBn"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "LET 'EM KNOW",
         "url": "https://open.spotify.com/album/7MmMz1SDFpAustlXwduMFa"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/6AXf9n3qazR1bE1dngnqxi"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "The Fall-Off",
         "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/1nhNz1tWU8p5WvFAAgFW2h"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "Slime Cry",
         "url": "https://open.spotify.com/album/36zFjOhkJXdudJMUiEqroA"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/0Sy9PzIKNGbnoY3WWPBZAR"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "OCTANE",
         "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "Ca$ino",
         "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/5Th1SPySWgYlkXXC6wLMwL"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "Who Did The Body",
         "url": "https://open.spotify.com/album/4HOuHBKlSAkdpHf50kHMAH"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/57TSLzWfZdQroiwtIFX97X"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "The Leaks",
         "url": "https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/7KSe5wIvvaKCrPN8ySgSfg"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "BE MORE GRATEFUL",
         "url": "https://open.spotify.com/album/3JoiYj7Wu5cM6X6rHJAVdg"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/0QgwjxR1VchizzckKXwyBu"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "FLAMMABLE",
         "url": "https://open.spotify.com/album/5FS2IqrUicInbFJOS4bAHH"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/1d5sIc2QcHgSMYvGcnsLhe"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "Hang Wit a Bad Bitch (feat. Key Glock)",
         "url": "https://open.spotify.com/album/2baqPDpNzQ8eu8tGM98lZA"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/58kIVm8Mb2CS4j6UQa1PE4"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "Coke Wave 3.5: Narcos",
         "url": "https://open.spotify.com/album/2YUs8GbMrKBcpGF7ElDHJE"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/5ehgf6op0j2sE4lqjiTkMY"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "BOO",
         "url": "https://open.spotify.com/album/4mblTYg5YlrtspzftfKVZd"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/7z0fmhOBmjifu0BqMP5vuG"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "Don't Be Dumb",
         "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "OCTANE",
         "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "ROOMS",
         "url": "https://open.spotify.com/album/50sklTdoxS2yLHgF3jnV3t"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/0LnDKUQRhGvVMraLKhWnuD"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "Ca$ino",
         "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/5waTXjl4V7YBw1Bo4CsjlM"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "Century",
         "url": "https://open.spotify.com/album/3iEInaFAamSTND6sovehX7"
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/1lJOLxDS8kS2rihrqezMcv"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "FDO",
         "url": "https://open.spotify.com/album/2ME0R7wx6jnHudplZAG2be"
@@ -557,27 +557,7 @@
       "url": "https://open.spotify.com/track/5YbDA37CN0YcgZXF6L2cBX"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
-      "album": {
-        "name": "Enemies",
-        "url": "https://open.spotify.com/album/0AnyKXm0HB8OhBXqkJNHeF"
-      },
-      "artists": [
-        {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 181670,
-      "name": "Enemies",
-      "url": "https://open.spotify.com/track/4KYf8TBVU4QHZlSnVOn7u8"
-    },
-    {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "A+",
         "url": "https://open.spotify.com/album/4IhzvC0VK80RzT9Dz5jf1W"
@@ -593,7 +573,7 @@
       "url": "https://open.spotify.com/track/3GTcDTmwv59jmHwxlpamfe"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "BE VERY AFRAID (Vol. 1)",
         "url": "https://open.spotify.com/album/4K9r7DoXIz7ZsD1P6nsZz1"
@@ -613,7 +593,7 @@
       "url": "https://open.spotify.com/track/0vqn83gxRRty97jHU2zhxp"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "big country",
         "url": "https://open.spotify.com/album/7HkystmvAIsYWSHg68Uo0Y"
@@ -633,7 +613,7 @@
       "url": "https://open.spotify.com/track/0XczPtF9mvVPqau0WUqJAT"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "It's Us Vol. 2",
         "url": "https://open.spotify.com/album/7rzXMS4cXlXe58t1AvPDDS"
@@ -669,7 +649,7 @@
       "url": "https://open.spotify.com/track/0Rb0e3DPB2PluJQflNDAEd"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "ROCKSTAR RAGING (feat. Swae Lee)",
         "url": "https://open.spotify.com/album/5gFv6vDkIvIAuEyXAqMa7Y"
@@ -689,7 +669,7 @@
       "url": "https://open.spotify.com/track/0HtowIRBzj2HqgO1XW6eJC"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "Disco Mafia Pack",
         "url": "https://open.spotify.com/album/4Fx0xGlG4kmNBjzPVx7xGY"
@@ -717,7 +697,7 @@
       "url": "https://open.spotify.com/track/0HNYsGGjrvPQsaXR6sFnVB"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "girl, get up. (feat. SZA)",
         "url": "https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS"
@@ -737,7 +717,23 @@
       "url": "https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
+      "album": {
+        "name": "Regular",
+        "url": "https://open.spotify.com/album/1xtnpw9zgawd67Q5AVdPqX"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 146865,
+      "name": "Regular",
+      "url": "https://open.spotify.com/track/3NZ3oBrDN9D2Bi1hykwXHb"
+    },
+    {
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "Trimski",
         "url": "https://open.spotify.com/album/0hJEWg3nzNeattUiP5skly"
@@ -757,7 +753,7 @@
       "url": "https://open.spotify.com/track/6ApfK0ChvyLJcG4lyA3LbW"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "Reckless (feat. Static Major)",
         "url": "https://open.spotify.com/album/4E1AhK5QtyqCPbwTpRKkym"
@@ -781,23 +777,27 @@
       "url": "https://open.spotify.com/track/10lkd5Ixflx3dfu3aWb3EX"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
-        "name": "Regular",
-        "url": "https://open.spotify.com/album/1xtnpw9zgawd67Q5AVdPqX"
+        "name": "Enemies",
+        "url": "https://open.spotify.com/album/0AnyKXm0HB8OhBXqkJNHeF"
       },
       "artists": [
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 146865,
-      "name": "Regular",
-      "url": "https://open.spotify.com/track/3NZ3oBrDN9D2Bi1hykwXHb"
+      "duration_ms": 181670,
+      "name": "Enemies",
+      "url": "https://open.spotify.com/track/4KYf8TBVU4QHZlSnVOn7u8"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "MARCH",
         "url": "https://open.spotify.com/album/5D2Bdw5Lwvsfd7RZcTXNAE"
@@ -813,7 +813,7 @@
       "url": "https://open.spotify.com/track/7zPqfEr2mvXfDbPYaJhaJd"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "NOW OR NEVER II",
         "url": "https://open.spotify.com/album/4Qm3agfa6jg4nescfzLyy3"
@@ -833,7 +833,7 @@
       "url": "https://open.spotify.com/track/3WIV7gukpFbj7YotPoUVb2"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "The Leaks",
         "url": "https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1"
@@ -857,7 +857,7 @@
       "url": "https://open.spotify.com/track/7bhMeTchpDsG69wNmAZgzN"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "PGD (feat. Kyle Richh & ZEDDY WILL)",
         "url": "https://open.spotify.com/album/55PVyRV3IhOpKAzLcPxFs3"
@@ -881,7 +881,7 @@
       "url": "https://open.spotify.com/track/2qxaBUnihi6tbLnAUE2pye"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "Feeling On My Body",
         "url": "https://open.spotify.com/album/50owKb2Oo4FXVBpsxBwxSq"
@@ -901,7 +901,7 @@
       "url": "https://open.spotify.com/track/5AIKM6zNiPi00rbWPnEq80"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "Feed the Streets",
         "url": "https://open.spotify.com/album/3aw4rnv0BLiiEqFbYZHBdN"
@@ -917,7 +917,7 @@
       "url": "https://open.spotify.com/track/35Gc7ihva3XEo5gw8gazRa"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
@@ -937,7 +937,7 @@
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
-      "added_at": "2026-02-28 16:11:02",
+      "added_at": "2026-03-02 19:47:44",
       "album": {
         "name": "Spiral Staircases",
         "url": "https://open.spotify.com/album/4XGYIMntQYL5PPjsUZJoGJ"

@@ -1,6 +1,6 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Kidene Fighter",
-  "num_followers": 9145,
+  "num_followers": 9156,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
@@ -139,58 +139,6 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
-        "name": "A DAY TO REMEMBER",
-        "url": "https://open.spotify.com/album/5dclc98AKoG0OmQBLndQFJ"
-      },
-      "artists": [
-        {
-          "name": "Jux",
-          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
-        },
-        {
-          "name": "D Voice",
-          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
-        }
-      ],
-      "duration_ms": 244645,
-      "name": "EX WA NANI",
-      "url": "https://open.spotify.com/track/20RY7KkpJUxhhH4glf4Tzt"
-    },
-    {
-      "added_at": "2026-02-05 23:59:28",
-      "album": {
-        "name": "Nyumba Ndogo",
-        "url": "https://open.spotify.com/album/3X3LJtY2Y3FVpZfWxTGbGb"
-      },
-      "artists": [
-        {
-          "name": "Zuchu",
-          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Nyumba Ndogo",
-      "url": "https://open.spotify.com/track/1GAmhYpbEPorhkSOecnVqj"
-    },
-    {
-      "added_at": "2026-02-05 23:59:28",
-      "album": {
-        "name": "Gharama",
-        "url": "https://open.spotify.com/album/29sb0w3N8Ai0DwCK7aOlhz"
-      },
-      "artists": [
-        {
-          "name": "D Voice",
-          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
-        }
-      ],
-      "duration_ms": 211862,
-      "name": "Gharama",
-      "url": "https://open.spotify.com/track/6cn01Swy0waWynPq386WBp"
-    },
-    {
-      "added_at": "2026-02-05 23:59:28",
-      "album": {
         "name": "Afande",
         "url": "https://open.spotify.com/album/4iSOmAXNWk8IrQDpUeeZ5z"
       },
@@ -211,18 +159,54 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
-        "name": "Room Number 3",
-        "url": "https://open.spotify.com/album/17L4x88dKSyBVnvYpgMzVY"
+        "name": "Nyumba Ndogo",
+        "url": "https://open.spotify.com/album/3X3LJtY2Y3FVpZfWxTGbGb"
       },
       "artists": [
         {
-          "name": "Mbosso",
-          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
         }
       ],
-      "duration_ms": 266272,
-      "name": "Asumani",
-      "url": "https://open.spotify.com/track/40aTArIn6vLBSZZvVN2oP7"
+      "duration_ms": 241000,
+      "name": "Nyumba Ndogo",
+      "url": "https://open.spotify.com/track/1GAmhYpbEPorhkSOecnVqj"
+    },
+    {
+      "added_at": "2026-02-05 23:59:28",
+      "album": {
+        "name": "A DAY TO REMEMBER",
+        "url": "https://open.spotify.com/album/5dclc98AKoG0OmQBLndQFJ"
+      },
+      "artists": [
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        },
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+        }
+      ],
+      "duration_ms": 244645,
+      "name": "EX WA NANI",
+      "url": "https://open.spotify.com/track/20RY7KkpJUxhhH4glf4Tzt"
+    },
+    {
+      "added_at": "2026-02-05 23:59:28",
+      "album": {
+        "name": "Gharama",
+        "url": "https://open.spotify.com/album/29sb0w3N8Ai0DwCK7aOlhz"
+      },
+      "artists": [
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+        }
+      ],
+      "duration_ms": 211862,
+      "name": "Gharama",
+      "url": "https://open.spotify.com/track/6cn01Swy0waWynPq386WBp"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -255,6 +239,22 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
+        "name": "Room Number 3",
+        "url": "https://open.spotify.com/album/17L4x88dKSyBVnvYpgMzVY"
+      },
+      "artists": [
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        }
+      ],
+      "duration_ms": 266272,
+      "name": "Asumani",
+      "url": "https://open.spotify.com/track/40aTArIn6vLBSZZvVN2oP7"
+    },
+    {
+      "added_at": "2026-02-05 23:59:28",
+      "album": {
         "name": "Nitafanyaje",
         "url": "https://open.spotify.com/album/28EHJ9YuzNdVF7D8EeIpaK"
       },
@@ -267,22 +267,6 @@
       "duration_ms": 283500,
       "name": "Nitafanyaje",
       "url": "https://open.spotify.com/track/0hmYcBy4sTrmlU7CqVWN8I"
-    },
-    {
-      "added_at": "2026-02-05 23:59:28",
-      "album": {
-        "name": "Tisheti Yangu",
-        "url": "https://open.spotify.com/album/6sZB5jceGSqVR78JEoRiBy"
-      },
-      "artists": [
-        {
-          "name": "D Voice",
-          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
-        }
-      ],
-      "duration_ms": 220807,
-      "name": "Tisheti Yangu",
-      "url": "https://open.spotify.com/track/1WaC2LufvvoGNDCZ75Ozej"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -303,26 +287,18 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
-        "name": "Kumaanisha",
-        "url": "https://open.spotify.com/album/02ZhLZurEes9v5vagfGyJf"
+        "name": "Tisheti Yangu",
+        "url": "https://open.spotify.com/album/6sZB5jceGSqVR78JEoRiBy"
       },
       "artists": [
         {
-          "name": "Dayoo",
-          "url": "https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc"
-        },
-        {
-          "name": "Ibraah",
-          "url": "https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe"
-        },
-        {
-          "name": "Miso Misondo",
-          "url": "https://open.spotify.com/artist/0MySoFNgP3EPr2tpsJt1TB"
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
         }
       ],
-      "duration_ms": 214285,
-      "name": "Kumaanisha",
-      "url": "https://open.spotify.com/track/0IUs3wdZqecx0kbMYalDGN"
+      "duration_ms": 220807,
+      "name": "Tisheti Yangu",
+      "url": "https://open.spotify.com/track/1WaC2LufvvoGNDCZ75Ozej"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -351,6 +327,30 @@
       "duration_ms": 276642,
       "name": "Staki Mazoea",
       "url": "https://open.spotify.com/track/51nUxYujKieQPIfSWmIQR7"
+    },
+    {
+      "added_at": "2026-02-05 23:59:28",
+      "album": {
+        "name": "Kumaanisha",
+        "url": "https://open.spotify.com/album/02ZhLZurEes9v5vagfGyJf"
+      },
+      "artists": [
+        {
+          "name": "Dayoo",
+          "url": "https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc"
+        },
+        {
+          "name": "Ibraah",
+          "url": "https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe"
+        },
+        {
+          "name": "Miso Misondo",
+          "url": "https://open.spotify.com/artist/0MySoFNgP3EPr2tpsJt1TB"
+        }
+      ],
+      "duration_ms": 214285,
+      "name": "Kumaanisha",
+      "url": "https://open.spotify.com/track/0IUs3wdZqecx0kbMYalDGN"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -695,26 +695,6 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
-        "name": "Wewe Hapo",
-        "url": "https://open.spotify.com/album/5DUQwTD3jaPFr02UKR2Ejl"
-      },
-      "artists": [
-        {
-          "name": "Msomali",
-          "url": "https://open.spotify.com/artist/7xEje04IIu5vqqhKLVufFc"
-        },
-        {
-          "name": "Mr Blue",
-          "url": "https://open.spotify.com/artist/68II63kR4auffzAj6s4Mrf"
-        }
-      ],
-      "duration_ms": 148036,
-      "name": "Wewe Hapo",
-      "url": "https://open.spotify.com/track/4lYawUXlGMUMRB75BiuXGf"
-    },
-    {
-      "added_at": "2026-02-05 23:59:28",
-      "album": {
         "name": "Nampakia Mkongo",
         "url": "https://open.spotify.com/album/3A347rTOQ2qQBTyXjwrtmX"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 199847,
       "name": "Nampakia Mkongo",
       "url": "https://open.spotify.com/track/4JMUGR4012eENHnulffTeN"
+    },
+    {
+      "added_at": "2026-02-05 23:59:28",
+      "album": {
+        "name": "Wewe Hapo",
+        "url": "https://open.spotify.com/album/5DUQwTD3jaPFr02UKR2Ejl"
+      },
+      "artists": [
+        {
+          "name": "Msomali",
+          "url": "https://open.spotify.com/artist/7xEje04IIu5vqqhKLVufFc"
+        },
+        {
+          "name": "Mr Blue",
+          "url": "https://open.spotify.com/artist/68II63kR4auffzAj6s4Mrf"
+        }
+      ],
+      "duration_ms": 148036,
+      "name": "Wewe Hapo",
+      "url": "https://open.spotify.com/track/4lYawUXlGMUMRB75BiuXGf"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -803,26 +803,6 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
-        "name": "Ex Arudiwi",
-        "url": "https://open.spotify.com/album/1wrIhtY5ABU4fmk26qKf2m"
-      },
-      "artists": [
-        {
-          "name": "AbduKiba",
-          "url": "https://open.spotify.com/artist/61UXsInLB2mt0OynwmL75T"
-        },
-        {
-          "name": "D Voice",
-          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
-        }
-      ],
-      "duration_ms": 199132,
-      "name": "Ex Arudiwi",
-      "url": "https://open.spotify.com/track/1nURRVhNIxYTnFGL3amjQh"
-    },
-    {
-      "added_at": "2026-02-05 23:59:28",
-      "album": {
         "name": "After All",
         "url": "https://open.spotify.com/album/6skxQDk7Zs9qVRkQKPDNdf"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 152112,
       "name": "Sijafunzwa (feat. Mdogo Sajent)",
       "url": "https://open.spotify.com/track/1mg5kAPAUafuzE44s9ejx5"
+    },
+    {
+      "added_at": "2026-02-05 23:59:28",
+      "album": {
+        "name": "Ex Arudiwi",
+        "url": "https://open.spotify.com/album/1wrIhtY5ABU4fmk26qKf2m"
+      },
+      "artists": [
+        {
+          "name": "AbduKiba",
+          "url": "https://open.spotify.com/artist/61UXsInLB2mt0OynwmL75T"
+        },
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+        }
+      ],
+      "duration_ms": 199132,
+      "name": "Ex Arudiwi",
+      "url": "https://open.spotify.com/track/1nURRVhNIxYTnFGL3amjQh"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -903,6 +903,22 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
+        "name": "Hujanikomoa",
+        "url": "https://open.spotify.com/album/3wG7OVKa5pP6rl103ji9qM"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "duration_ms": 359026,
+      "name": "Hujanikomoa",
+      "url": "https://open.spotify.com/track/32fa47Dvcz1YyqnCDCsB3Z"
+    },
+    {
+      "added_at": "2026-02-05 23:59:28",
+      "album": {
         "name": "Penzi Jipya",
         "url": "https://open.spotify.com/album/6w38hV7TcLYrKwhIoVzxM1"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 314493,
       "name": "Penzi Jipya",
       "url": "https://open.spotify.com/track/06n62HV6RIhYiZHkjVvjwc"
-    },
-    {
-      "added_at": "2026-02-05 23:59:28",
-      "album": {
-        "name": "Hujanikomoa",
-        "url": "https://open.spotify.com/album/3wG7OVKa5pP6rl103ji9qM"
-      },
-      "artists": [
-        {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
-        }
-      ],
-      "duration_ms": 359026,
-      "name": "Hujanikomoa",
-      "url": "https://open.spotify.com/track/32fa47Dvcz1YyqnCDCsB3Z"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -991,6 +991,26 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
+        "name": "High School",
+        "url": "https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        },
+        {
+          "name": "Sholo Mwamba",
+          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
+        }
+      ],
+      "duration_ms": 308654,
+      "name": "Kamaliza (feat. Sholo Mwamba)",
+      "url": "https://open.spotify.com/track/34qqd0XRPpY9BcNbtocCRp"
+    },
+    {
+      "added_at": "2026-02-05 23:59:28",
+      "album": {
         "name": "Rudi Tena",
         "url": "https://open.spotify.com/album/5H4d2QdcvEgYhNHtLgb5Pa"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 226208,
       "name": "Rudi Tena",
       "url": "https://open.spotify.com/track/1DPac0fiYlY493E9QCdwY1"
-    },
-    {
-      "added_at": "2026-02-05 23:59:28",
-      "album": {
-        "name": "High School",
-        "url": "https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu"
-      },
-      "artists": [
-        {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
-        },
-        {
-          "name": "Sholo Mwamba",
-          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
-        }
-      ],
-      "duration_ms": 308654,
-      "name": "Kamaliza (feat. Sholo Mwamba)",
-      "url": "https://open.spotify.com/track/34qqd0XRPpY9BcNbtocCRp"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
-        "name": "Kumi Za Moto",
-        "url": "https://open.spotify.com/album/7vTszg8Bz4fiLkDqryx2xL"
-      },
-      "artists": [
-        {
-          "name": "Kidene Fighter",
-          "url": "https://open.spotify.com/artist/0ZIPH3FhzJYTmCMlZiSrLA"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "Mtaani Kwetu",
-      "url": "https://open.spotify.com/track/7wHcrG6ULMo6MtPfVro6je"
-    },
-    {
-      "added_at": "2026-02-05 23:59:28",
-      "album": {
         "name": "Tumeuona",
         "url": "https://open.spotify.com/album/5VlX8ImZMnhGCj5FAKg7Sn"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 221666,
       "name": "Tumeuona",
       "url": "https://open.spotify.com/track/3JK53Y1G5pQiv3Boxyew0Q"
+    },
+    {
+      "added_at": "2026-02-05 23:59:28",
+      "album": {
+        "name": "Kumi Za Moto",
+        "url": "https://open.spotify.com/album/7vTszg8Bz4fiLkDqryx2xL"
+      },
+      "artists": [
+        {
+          "name": "Kidene Fighter",
+          "url": "https://open.spotify.com/artist/0ZIPH3FhzJYTmCMlZiSrLA"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "Mtaani Kwetu",
+      "url": "https://open.spotify.com/track/7wHcrG6ULMo6MtPfVro6je"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
-        "name": "Niaminishe",
-        "url": "https://open.spotify.com/album/3YqLpGfjbwkkb6ThnZL3ka"
-      },
-      "artists": [
-        {
-          "name": "Kayumba",
-          "url": "https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk"
-        }
-      ],
-      "duration_ms": 272718,
-      "name": "Niaminishe",
-      "url": "https://open.spotify.com/track/0phOZHYeL2fmsubAwswkFk"
-    },
-    {
-      "added_at": "2026-02-05 23:59:28",
-      "album": {
         "name": "Sina",
         "url": "https://open.spotify.com/album/4Mbf8XSzcpQCck4Qzu2Awu"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 298358,
       "name": "Sina",
       "url": "https://open.spotify.com/track/3nuVeMmA0MqApgbpDDz58n"
+    },
+    {
+      "added_at": "2026-02-05 23:59:28",
+      "album": {
+        "name": "Niaminishe",
+        "url": "https://open.spotify.com/album/3YqLpGfjbwkkb6ThnZL3ka"
+      },
+      "artists": [
+        {
+          "name": "Kayumba",
+          "url": "https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk"
+        }
+      ],
+      "duration_ms": 272718,
+      "name": "Niaminishe",
+      "url": "https://open.spotify.com/track/0phOZHYeL2fmsubAwswkFk"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
-        "name": "Makombolelo singeli version",
-        "url": "https://open.spotify.com/album/09SURbkZtHwTdhzZ2akoQb"
-      },
-      "artists": [
-        {
-          "name": "Mazegele Boy",
-          "url": "https://open.spotify.com/artist/3w8cMeLYZiZ0k2N7wqhGZJ"
-        }
-      ],
-      "duration_ms": 133746,
-      "name": "Makombolelo singeli version",
-      "url": "https://open.spotify.com/track/7mA3HuBQGoPo2CQNg3MRqs"
-    },
-    {
-      "added_at": "2026-02-05 23:59:28",
-      "album": {
         "name": "Chura",
         "url": "https://open.spotify.com/album/42IUnXUa8lue5w3cMQn4Zm"
       },
@@ -1379,6 +1363,22 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
+        "name": "Makombolelo singeli version",
+        "url": "https://open.spotify.com/album/09SURbkZtHwTdhzZ2akoQb"
+      },
+      "artists": [
+        {
+          "name": "Mazegele Boy",
+          "url": "https://open.spotify.com/artist/3w8cMeLYZiZ0k2N7wqhGZJ"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "Makombolelo singeli version",
+      "url": "https://open.spotify.com/track/7mA3HuBQGoPo2CQNg3MRqs"
+    },
+    {
+      "added_at": "2026-02-05 23:59:28",
+      "album": {
         "name": "Lipa",
         "url": "https://open.spotify.com/album/4kDFP1HTXsGE8rsxZWxERH"
       },
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
-        "name": "Twende Beach",
-        "url": "https://open.spotify.com/album/2zCVQvbLDfvWkPYGRrAl6M"
+        "name": "Kizimkazi",
+        "url": "https://open.spotify.com/album/1iiN5854GcCoiJXQCUgwDY"
       },
       "artists": [
         {
-          "name": "Mkataba Mc",
-          "url": "https://open.spotify.com/artist/4X3L1Yra9ZOdfnMEm7URz3"
+          "name": "Sholo Mwamba",
+          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
         }
       ],
-      "duration_ms": 250055,
-      "name": "Twende Beach",
-      "url": "https://open.spotify.com/track/5vWDLctb2D82C0oTffO2em"
+      "duration_ms": 233226,
+      "name": "Kizimkazi",
+      "url": "https://open.spotify.com/track/1timkZv543vJPprluNTDQ4"
     }
   ],
   "unique_name": "Singeli Sounds",

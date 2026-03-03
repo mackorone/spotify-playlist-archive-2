@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 522 likes - 65 songs - 3 hr 58 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 525 likes - 66 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,5 +73,6 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 63 | [Consumer Unit](https://open.spotify.com/track/2O7KnLBqPako9l0JfkwGEp) | [Captain Side Eye](https://open.spotify.com/artist/7qL4bGEDia5B9f5zlYdQrr) | [Consumer Unit](https://open.spotify.com/album/0bBXbmdNWYauccx4abtnGU) | 3:05 |
 | 64 | [Fool Me Once](https://open.spotify.com/track/0FQfOZAX6qhCQuXWKN34ts) | [Sean Blu](https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx) | [Fool Me Once](https://open.spotify.com/album/0j9QcJzHJAB6e2CC689lKO) | 2:45 |
 | 65 | [SPECKS](https://open.spotify.com/track/3MqmmpXA0BHiUthZJ7kMgH) | [Vampire Slumber Party](https://open.spotify.com/artist/5NWnYLJe0rkfZLZuKN4m4d) | [HOLES](https://open.spotify.com/album/5zl7NEY0kWkXzqdCCksGvQ) | 3:32 |
+| 66 | [Murder Parade](https://open.spotify.com/track/0SDqFtJAV9lWKZqPXHyft0) | [FYNN](https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf) | [Murder Parade](https://open.spotify.com/album/7cm9XsZG13NeEUGDP0OOOw) | 2:19 |
 
-Snapshot ID: `AAAC0ePzpZjAKMebMT18cg7XNIB8XseA`
+Snapshot ID: `AAAC0pEaX13P6G9A7KcSYVNJXgYEkojK`

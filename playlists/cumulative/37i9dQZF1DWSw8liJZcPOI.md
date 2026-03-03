@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-662 songs - 1 day 20 hr 58 min
+663 songs - 1 day 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,7 +496,7 @@
 | [Snow](https://open.spotify.com/track/5EDLYLzDy7O7WQdBYM5udQ) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [Winter Stories](https://open.spotify.com/album/0CUfnbS2R6V71QB2iC3Avp) | 2:38 | 2021-03-01 | 2022-04-19 |
 | [So That The City Can Begin To Exist](https://open.spotify.com/track/4LNHI3ugcaRGEfa4D0zNtM) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1), [Adam Wiltzie](https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs), [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [So That The City Can Begin To Exist](https://open.spotify.com/album/6IcKIhLBwBhYDnC37Nlnuk) | 4:46 | 2021-01-08 |  |
 | [Solanales](https://open.spotify.com/track/6U0l3hk3oTtNtPwk2Ekjxl) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Solanales](https://open.spotify.com/album/4giTq8C1Ss1e9PM8k88H1I) | 5:32 | 2022-03-04 |  |
-| [Solina](https://open.spotify.com/track/2OoaNGKh2Z3vuINAJfMRzM) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Solina](https://open.spotify.com/album/2amQLghFA6rOkysx8B187Z) | 4:50 | 2025-11-20 |  |
+| [Solina](https://open.spotify.com/track/2OoaNGKh2Z3vuINAJfMRzM) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Solina](https://open.spotify.com/album/2amQLghFA6rOkysx8B187Z) | 4:50 | 2025-11-20 | 2026-03-03 |
 | [Solitude I](https://open.spotify.com/track/31leo5SqxFz5BndXp3HKqw) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev) | 3:49 | 2022-07-22 | 2023-02-18 |
 | [Solitude I](https://open.spotify.com/track/4tkzQ9Eg3OeuZuAH8O3aUl) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq) | 3:49 | 2023-02-17 | 2024-04-19 |
 | [Solitude I](https://open.spotify.com/track/3KcxIhIMJD7jrsrpczNbfU) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitude I](https://open.spotify.com/album/05wfC9H8BLS6pFtI8X0S3G) | 3:49 | 2020-10-23 |  |
@@ -615,6 +615,7 @@
 | [Un Dimanche Orageux](https://open.spotify.com/track/7xcUYm5XUQ1bULRNlWCunX) | [REYN](https://open.spotify.com/artist/17HirBkDw4wJyY3NXU0aYS) | [Un Dimanche Orageux](https://open.spotify.com/album/5JgQFsHeTsoMXB8xjJN4EM) | 1:57 | 2021-02-12 |  |
 | [Un rêve blanc](https://open.spotify.com/track/2aZ8toXl69phNC20raidDn) | [Vivian Roost](https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I) | [Un rêve blanc](https://open.spotify.com/album/5FMdaxHAacLY86UUx0ZsgU) | 3:08 | 2024-11-20 |  |
 | [Under the Stars](https://open.spotify.com/track/42QdAFbblfxSMMlzMFbVbx) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT), [Francois Mathian](https://open.spotify.com/artist/4193s4Szb8oYEv2pZ8lgSX) | [Under the Stars](https://open.spotify.com/album/3aZRTplanzJ0a3TW9asCfI) | 2:31 | 2023-05-05 | 2024-12-13 |
+| [unheeded pageant](https://open.spotify.com/track/3tDDjSi9gFnNtyo0ElWWz8) | [Htennek Niwhsa](https://open.spotify.com/artist/3sbQ2jo75b32GImdv6ZE04) | [unheeded pageant](https://open.spotify.com/album/4c29BGrZn0MgS1lGzMO7bX) | 2:27 | 2026-02-27 |  |
 | [Unity \- Mike Lazarev CrO2 Reduction](https://open.spotify.com/track/53tcYbPRX7nfLuAxcsJYj9) | [Diana Yukawa](https://open.spotify.com/artist/2EeY0lNrhbKPNSM8VQHTn7), [Mike Lazarev](https://open.spotify.com/artist/5GHe2wbHyPb5RZbES8coHc) | [Unity \(Mike Lazarev CrO2 Reduction\)](https://open.spotify.com/album/11um7vO1M4HjxDYQS6wnFR) | 3:50 | 2024-11-20 |  |
 | [Upstream Dream](https://open.spotify.com/track/36nGeAgQbzIgtvhTbOAA0S) | [Slow Meadow](https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3) | [Upstream Dream](https://open.spotify.com/album/1srML4m8W67DuWLV3zAgRN) | 4:16 | 2021-12-10 |  |
 | [Valentine My Funny](https://open.spotify.com/track/0g14q3zrGDf8GiVH8WnDl8) | [F.S\. Blumm](https://open.spotify.com/artist/4cHtgM7lauSNaau5uAm5Cc), [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Tag Eins Tag Zwei](https://open.spotify.com/album/1GiZCxzoFZqoc8JlgLTmYF) | 7:15 | 2021-02-06 | 2021-02-12 |

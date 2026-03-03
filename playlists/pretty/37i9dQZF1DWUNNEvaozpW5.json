@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Revolver.",
-  "num_followers": 613102,
+  "num_followers": 613119,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-02-19 23:00:48",
       "album": {
-        "name": "Poes\u00eda B\u00e1sica",
-        "url": "https://open.spotify.com/album/4xhZ3vSDxAYlXCuorMDAbV"
-      },
-      "artists": [
-        {
-          "name": "Extrechinato y Tu",
-          "url": "https://open.spotify.com/artist/5qi25oEuARj6wUbqiMSj0w"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Rojitas",
-      "url": "https://open.spotify.com/track/5Srks36XWpQoF47EYF7ExI"
-    },
-    {
-      "added_at": "2026-02-19 23:00:48",
-      "album": {
         "name": "Enemigos de lo ajeno (2008 Remaster)",
         "url": "https://open.spotify.com/album/5EnwReRtJtSNMVNEd5KwLZ"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 133040,
       "name": "Insurrecci\u00f3n - 2008 Remaster",
       "url": "https://open.spotify.com/track/7803rmspVDTFR78bj5KLPk"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "Poes\u00eda B\u00e1sica",
+        "url": "https://open.spotify.com/album/4xhZ3vSDxAYlXCuorMDAbV"
+      },
+      "artists": [
+        {
+          "name": "Extrechinato y Tu",
+          "url": "https://open.spotify.com/artist/5qi25oEuARj6wUbqiMSj0w"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Rojitas",
+      "url": "https://open.spotify.com/track/5Srks36XWpQoF47EYF7ExI"
     },
     {
       "added_at": "2026-02-19 23:00:48",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-02-19 23:00:48",
       "album": {
-        "name": "Nacha Pop",
-        "url": "https://open.spotify.com/album/5scxi8dzsvkrH6TamZv6NP"
-      },
-      "artists": [
-        {
-          "name": "Nacha Pop",
-          "url": "https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "Chica de ayer",
-      "url": "https://open.spotify.com/track/4chpfrjIqrOPshlDU4ZrKe"
-    },
-    {
-      "added_at": "2026-02-19 23:00:48",
-      "album": {
         "name": "Me has invitado a bailar",
         "url": "https://open.spotify.com/album/2dtz3wrC1FrShzjLEy6xDp"
       },
@@ -751,18 +735,18 @@
     {
       "added_at": "2026-02-19 23:00:48",
       "album": {
-        "name": "COWBOYS DE LA A3",
-        "url": "https://open.spotify.com/album/0VgV2hz9fHoJBLKbqtj9cn"
+        "name": "Nacha Pop",
+        "url": "https://open.spotify.com/album/5scxi8dzsvkrH6TamZv6NP"
       },
       "artists": [
         {
-          "name": "Arde Bogot\u00e1",
-          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+          "name": "Nacha Pop",
+          "url": "https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH"
         }
       ],
-      "duration_ms": 229876,
-      "name": "Los Perros",
-      "url": "https://open.spotify.com/track/15zPjWfZ6eUFMaL4aD5Gp8"
+      "duration_ms": 208026,
+      "name": "Chica de ayer",
+      "url": "https://open.spotify.com/track/4chpfrjIqrOPshlDU4ZrKe"
     },
     {
       "added_at": "2026-02-19 23:00:48",
@@ -779,6 +763,22 @@
       "duration_ms": 214553,
       "name": "Eso Que T\u00fa Me Das",
       "url": "https://open.spotify.com/track/40tFJtuES1da2fg0OurUdI"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "COWBOYS DE LA A3",
+        "url": "https://open.spotify.com/album/0VgV2hz9fHoJBLKbqtj9cn"
+      },
+      "artists": [
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        }
+      ],
+      "duration_ms": 229876,
+      "name": "Los Perros",
+      "url": "https://open.spotify.com/track/15zPjWfZ6eUFMaL4aD5Gp8"
     },
     {
       "added_at": "2026-02-19 23:00:48",
@@ -831,38 +831,6 @@
     {
       "added_at": "2026-02-19 23:00:48",
       "album": {
-        "name": "Gigante",
-        "url": "https://open.spotify.com/album/3jf4hE1DY8n3eE8p7KpBVO"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 218781,
-      "name": "Cuarenta Mil",
-      "url": "https://open.spotify.com/track/5m8gxrOo5vlwntpyn75eHF"
-    },
-    {
-      "added_at": "2026-02-19 23:00:48",
-      "album": {
-        "name": "Calle Melancol\u00eda",
-        "url": "https://open.spotify.com/album/2RlCfIHnXz8h8sc76B8ACD"
-      },
-      "artists": [
-        {
-          "name": "Robe",
-          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
-        }
-      ],
-      "duration_ms": 380973,
-      "name": "Calle Melancol\u00eda",
-      "url": "https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG"
-    },
-    {
-      "added_at": "2026-02-19 23:00:48",
-      "album": {
         "name": "Muy Deficiente",
         "url": "https://open.spotify.com/album/6nSNoI4zgtfMm1H9NXI4r1"
       },
@@ -879,6 +847,22 @@
     {
       "added_at": "2026-02-19 23:00:48",
       "album": {
+        "name": "Gigante",
+        "url": "https://open.spotify.com/album/3jf4hE1DY8n3eE8p7KpBVO"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 218781,
+      "name": "Cuarenta Mil",
+      "url": "https://open.spotify.com/track/5m8gxrOo5vlwntpyn75eHF"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
         "name": "El Bien",
         "url": "https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 206226,
       "name": "El Bien",
       "url": "https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "Calle Melancol\u00eda",
+        "url": "https://open.spotify.com/album/2RlCfIHnXz8h8sc76B8ACD"
+      },
+      "artists": [
+        {
+          "name": "Robe",
+          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
+        }
+      ],
+      "duration_ms": 380973,
+      "name": "Calle Melancol\u00eda",
+      "url": "https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG"
     },
     {
       "added_at": "2026-02-19 23:00:48",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-02-19 23:00:48",
       "album": {
-        "name": "La Ley Del Desierto",
-        "url": "https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu"
-      },
-      "artists": [
-        {
-          "name": "Radio Futura",
-          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
-        }
-      ],
-      "duration_ms": 210893,
-      "name": "Escuela de Calor",
-      "url": "https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88"
-    },
-    {
-      "added_at": "2026-02-19 23:00:48",
-      "album": {
         "name": "Ahora o nunca",
         "url": "https://open.spotify.com/album/1gVTdZJaemKysGPHgMQfvD"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 189600,
       "name": "Y volar (con los Caligaris)",
       "url": "https://open.spotify.com/track/0vabIwEiZDGml2CyVmGNBX"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "La Ley Del Desierto",
+        "url": "https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu"
+      },
+      "artists": [
+        {
+          "name": "Radio Futura",
+          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
+        }
+      ],
+      "duration_ms": 210893,
+      "name": "Escuela de Calor",
+      "url": "https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88"
     },
     {
       "added_at": "2026-02-19 23:00:48",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-02-19 23:00:48",
       "album": {
-        "name": "Veneno En La Piel",
-        "url": "https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O"
-      },
-      "artists": [
-        {
-          "name": "Radio Futura",
-          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
-        }
-      ],
-      "duration_ms": 225813,
-      "name": "Veneno en la Piel",
-      "url": "https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln"
-    },
-    {
-      "added_at": "2026-02-19 23:00:48",
-      "album": {
         "name": "Uno",
         "url": "https://open.spotify.com/album/2Qjd3FONI5uY8A8BW5XcDl"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 188914,
       "name": "Lo dif\u00edcil",
       "url": "https://open.spotify.com/track/78Tr4OatbnIyx9cwGp5vp1"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "Veneno En La Piel",
+        "url": "https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O"
+      },
+      "artists": [
+        {
+          "name": "Radio Futura",
+          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
+        }
+      ],
+      "duration_ms": 225813,
+      "name": "Veneno en la Piel",
+      "url": "https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln"
     },
     {
       "added_at": "2026-02-19 23:00:48",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-02-19 23:00:48",
       "album": {
-        "name": "Ba\u00efonarena (Live)",
-        "url": "https://open.spotify.com/album/7i5eD0VAL2fdeUNO1IQBDj"
-      },
-      "artists": [
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 288146,
-      "name": "Me Quedo Contigo (Si Me Das A Elegir) - Live Ba\u00efonarena",
-      "url": "https://open.spotify.com/track/6u9GgwXbMs5jJlA29zGHu5"
-    },
-    {
-      "added_at": "2026-02-19 23:00:48",
-      "album": {
         "name": "Jugar Al Gua",
         "url": "https://open.spotify.com/album/5ibEXgq0ceSFbGT3P3cpl0"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 262626,
       "name": "Flojos de pantal\u00f3n",
       "url": "https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "Ba\u00efonarena (Live)",
+        "url": "https://open.spotify.com/album/7i5eD0VAL2fdeUNO1IQBDj"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 288146,
+      "name": "Me Quedo Contigo (Si Me Das A Elegir) - Live Ba\u00efonarena",
+      "url": "https://open.spotify.com/track/6u9GgwXbMs5jJlA29zGHu5"
     },
     {
       "added_at": "2026-02-19 23:00:48",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2026-02-19 23:00:48",
       "album": {
+        "name": "Corre Corre",
+        "url": "https://open.spotify.com/album/7ymYtcn91u3FY8P07QKO53"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f1o",
+          "url": "https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ"
+        }
+      ],
+      "duration_ms": 245440,
+      "name": "Sorprendente",
+      "url": "https://open.spotify.com/track/6Xueg8DmwhkU4xf0Q3xlWN"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
         "name": "La Salvaci\u00f3n",
         "url": "https://open.spotify.com/album/6KJVk8Zi4jj3kvj9bL1AhC"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 285480,
       "name": "La Salvaci\u00f3n",
       "url": "https://open.spotify.com/track/6XY4Zaf0AoE5movPc2FfaZ"
-    },
-    {
-      "added_at": "2026-02-19 23:00:48",
-      "album": {
-        "name": "Corre Corre",
-        "url": "https://open.spotify.com/album/7ymYtcn91u3FY8P07QKO53"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f1o",
-          "url": "https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ"
-        }
-      ],
-      "duration_ms": 245440,
-      "name": "Sorprendente",
-      "url": "https://open.spotify.com/track/6Xueg8DmwhkU4xf0Q3xlWN"
     },
     {
       "added_at": "2026-02-19 23:00:48",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2026-02-19 23:00:48",
       "album": {
-        "name": "Metamorfosis. En Directo Desde El Teatro Arriaga",
-        "url": "https://open.spotify.com/album/5qIHOPv1Ot90WPGIRmsfMr"
-      },
-      "artists": [
-        {
-          "name": "Doctor Deseo",
-          "url": "https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA"
-        }
-      ],
-      "duration_ms": 329491,
-      "name": "Abr\u00e1zame",
-      "url": "https://open.spotify.com/track/0rEZBTkZP2Q3c8upkx2WPf"
-    },
-    {
-      "added_at": "2026-02-19 23:00:48",
-      "album": {
         "name": "12 Botellines y 5 Tercios",
         "url": "https://open.spotify.com/album/06giFWDWB3yEX9eDtciSyd"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 173533,
       "name": "Pongamos Que Hablo de Madrid",
       "url": "https://open.spotify.com/track/6RVCZgNqZQQSRDFtE7zFwt"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "Metamorfosis. En Directo Desde El Teatro Arriaga",
+        "url": "https://open.spotify.com/album/5qIHOPv1Ot90WPGIRmsfMr"
+      },
+      "artists": [
+        {
+          "name": "Doctor Deseo",
+          "url": "https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA"
+        }
+      ],
+      "duration_ms": 329491,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/0rEZBTkZP2Q3c8upkx2WPf"
     },
     {
       "added_at": "2026-02-19 23:00:48",
@@ -1952,13 +1952,13 @@
       },
       "artists": [
         {
-          "name": "La Guardia",
-          "url": "https://open.spotify.com/artist/5UYbCAN2H4Yr4f46tN5AeD"
+          "name": "Tequila",
+          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
         }
       ],
-      "duration_ms": 223240,
-      "name": "Cuando Brille el Sol",
-      "url": "https://open.spotify.com/track/307jZeOmkkd7mKc7wgFglj"
+      "duration_ms": 190013,
+      "name": "Salta!!!",
+      "url": "https://open.spotify.com/track/4lpA2O8BwukysKGtUyMVtn"
     },
     {
       "added_at": "2026-02-19 23:00:48",
@@ -1968,13 +1968,13 @@
       },
       "artists": [
         {
-          "name": "Tequila",
-          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
+          "name": "La Guardia",
+          "url": "https://open.spotify.com/artist/5UYbCAN2H4Yr4f46tN5AeD"
         }
       ],
-      "duration_ms": 190013,
-      "name": "Salta!!!",
-      "url": "https://open.spotify.com/track/4lpA2O8BwukysKGtUyMVtn"
+      "duration_ms": 223240,
+      "name": "Cuando Brille el Sol",
+      "url": "https://open.spotify.com/track/307jZeOmkkd7mKc7wgFglj"
     },
     {
       "added_at": "2026-02-19 23:00:48",

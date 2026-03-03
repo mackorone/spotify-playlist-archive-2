@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Göksel ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,435 likes - 157 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,437 likes - 157 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

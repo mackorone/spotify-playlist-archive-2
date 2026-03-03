@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,868 likes - 107 songs - 5 hr 55 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,869 likes - 107 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 21 | [Mala Mía](https://open.spotify.com/track/4NeYeEIf8pvY69LVUI6H2U) | [María José Llergo](https://open.spotify.com/artist/70GBRlKEGjfueop2lfdQ4Q) | [Mala Mía](https://open.spotify.com/album/1MebE6lk9ARjwoq9JIA2KU) | 4:13 |
 | 22 | [William Wallace en Lancaster](https://open.spotify.com/track/53rKlY6KQYn9WixDYbc4Nq) | [Niña Polaca](https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW) | [William Wallace en Lancaster](https://open.spotify.com/album/1KeWt9d2MVNyvqVY5zk3uu) | 3:34 |
 | 23 | [DISNEY PRINCESS](https://open.spotify.com/track/1DH4XuBpL3HreZ7TmawEjR) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [DISNEY PRINCESS](https://open.spotify.com/album/65M9cSEwKpKqkZRiMCrX2H) | 4:05 |
-| 24 | [Mi peña](https://open.spotify.com/track/5E76WEiqJDcZnf2VD801lX) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy), [PatataOnStereo](https://open.spotify.com/artist/1Oc9GLjfd9AbkyxEwFUxGR), [Teo Lucadamo](https://open.spotify.com/artist/7mwMldjYYpCRmYvoLCy7qj), [Escandaloso Xpósito](https://open.spotify.com/artist/0GUmY2qAmker4cB3VnpKVf) | [Mi peña](https://open.spotify.com/album/42BxwxIlOzVDBNJC9NMflJ) | 3:14 |
+| 24 | [Mi peña](https://open.spotify.com/track/5E76WEiqJDcZnf2VD801lX) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy), [Teo Lucadamo](https://open.spotify.com/artist/7mwMldjYYpCRmYvoLCy7qj), [PatataOnStereo](https://open.spotify.com/artist/1Oc9GLjfd9AbkyxEwFUxGR), [Escandaloso Xpósito](https://open.spotify.com/artist/0GUmY2qAmker4cB3VnpKVf) | [Mi peña](https://open.spotify.com/album/42BxwxIlOzVDBNJC9NMflJ) | 3:14 |
 | 25 | [How I Get](https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [How I Get](https://open.spotify.com/album/70NOPNFs2y4lZMrowJzPuY) | 3:39 |
 | 26 | [Festa i drama](https://open.spotify.com/track/3dqxb6l3rxApZvHoqrwhnn) | [Maria Jaume](https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO) | [Sant Domingo Forever](https://open.spotify.com/album/525krpJ64vbL3QlMsgGpy5) | 2:39 |
 | 27 | [Planeta Piel Sensual](https://open.spotify.com/track/5L9BN8RkwB9Ch4JYgM4noP) | [PANTERA BLUE](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [Planeta Piel Sensual](https://open.spotify.com/album/1Pq0zt2TRNdOndB744r3FN) | 2:18 |

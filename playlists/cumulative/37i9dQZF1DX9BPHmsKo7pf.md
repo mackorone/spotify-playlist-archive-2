@@ -2,9 +2,9 @@
 
 ### [Hot Hits România](https://open.spotify.com/playlist/37i9dQZF1DX9BPHmsKo7pf)
 
-> Cele mai de succes 50 de hituri în România\. Cover: Bad Bunny
+> Cele mai de succes 50 de hituri în România\. Cover: Lele
 
-275 songs - 13 hr 8 min
+276 songs - 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [Mercedes](https://open.spotify.com/track/7CzIPuAZjl1K8wYPOOzHyL) | [Iuly Neamtu](https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD), [Manele Mentolate](https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR) | [Mercedes](https://open.spotify.com/album/1Xz7MvPHQ8U5YBrNtOztWL) | 2:45 | 2024-08-19 | 2025-10-23 |
 | [Merhaba \(Stil Turcesc\)](https://open.spotify.com/track/5gGT2pleKQwQuiKxz5wYfe) | [Denis Ramniceanu](https://open.spotify.com/artist/66Q5nZGMgEDpcjm6Q1ZC64), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Merhaba \(Stil Turcesc\)](https://open.spotify.com/album/184PJI3t6mfGCFlZ2h6Lbm) | 2:34 | 2024-08-26 | 2025-06-10 |
 | [METGALA](https://open.spotify.com/track/30TWeDBTgFKgIvnZ3MDnBA) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [METGALA](https://open.spotify.com/album/5Vm3is8Nsj5P3yELAkN3Tf) | 3:27 | 2024-07-01 | 2024-07-09 |
-| [MIA](https://open.spotify.com/track/2eCrZ5jSTO2zb0r6lEY5Nk) | [AlbertNbn](https://open.spotify.com/artist/33CSqdyro89aOFiZb5fU5U) | [MIA](https://open.spotify.com/album/7xzSwrv9RmS3qFlNh9CvlE) | 2:32 | 2025-12-22 |  |
+| [MIA](https://open.spotify.com/track/2eCrZ5jSTO2zb0r6lEY5Nk) | [AlbertNbn](https://open.spotify.com/artist/33CSqdyro89aOFiZb5fU5U) | [MIA](https://open.spotify.com/album/7xzSwrv9RmS3qFlNh9CvlE) | 2:32 | 2025-12-22 | 2026-03-03 |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-07-01 | 2024-08-06 |
 | [MISSY ELLIOTT](https://open.spotify.com/track/4XA5rwdOzxiGHLf5CYtLHx) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [STUDIO 54](https://open.spotify.com/album/016friOleRKnFkeP5ohkQQ) | 3:17 | 2026-01-12 | 2026-02-10 |
 | [MONA LISA](https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MONA LISA](https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa) | 2:17 | 2025-04-07 | 2025-04-29 |
@@ -199,6 +199,7 @@
 | [Peter Parker \- Balkanic Version](https://open.spotify.com/track/2j6msyUIiJMUgbcoWdXMZB) | [Lele](https://open.spotify.com/artist/1vVemTBdqWTcJ0zCc0Oa6G), [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [Manele VTM](https://open.spotify.com/artist/5gxPLBxkeuP0I3Ey17rSba) | [Peter Parker \(Balkanic Version\)](https://open.spotify.com/album/70OOUD7Xp7OiWHDBI1UhHJ) | 3:18 | 2026-02-23 |  |
 | [Phantom](https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:49 | 2025-11-10 |  |
 | [Picătura De Cerneală](https://open.spotify.com/track/7GjPNNYceZpREp4ivK8YEG) | [Iuliana Beregoi](https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym), [Cristian Porcari](https://open.spotify.com/artist/2CYdLJs282GH7B65QAZEA7) | [Picătura De Cerneală](https://open.spotify.com/album/1dJdy2U2isiT2Wew6xfTRI) | 2:49 | 2025-11-03 |  |
+| [Pijamale](https://open.spotify.com/track/58MLHya54TwTyzkfWasuIT) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Pijamale](https://open.spotify.com/album/4e4msWi5QFbLZxyLb14B16) | 2:39 | 2026-03-02 |  |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-07-01 | 2024-07-30 |
 | [Ponte Pa Mi](https://open.spotify.com/track/78uC56WFICXVzko7aBUXHJ) | [Ursaru](https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy) | [Ponte Pa Mi](https://open.spotify.com/album/4wWK09bmpWvpfA2Fe2vcFV) | 2:05 | 2025-09-01 | 2026-02-17 |
 | [pookie wookie](https://open.spotify.com/track/47kNo1roYlMXIZTGxAYO3P) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [pookie wookie](https://open.spotify.com/album/0jYGFjIt2G4ZjDfi8HD11g) | 3:31 | 2025-08-04 | 2025-11-04 |

@@ -1,6 +1,6 @@
 {
   "description": "De b\u00e4sta indiel\u00e5tarna - klassiker som Dansa Fast\u00e4n, Shoreline och Helgen v. 48! ",
-  "num_followers": 74306,
+  "num_followers": 74308,
   "original_name": "Indieklassiker",
   "owner": {
     "name": "Spotify",
@@ -409,22 +409,6 @@
       "url": "https://open.spotify.com/track/2Lv9FudgITbthtKK1B5wxY"
     },
     {
-      "added_at": "2025-08-07 09:58:34",
-      "album": {
-        "name": "Be A Girl",
-        "url": "https://open.spotify.com/album/7bx60z6sWg9fz9Ve2AruOI"
-      },
-      "artists": [
-        {
-          "name": "The Wannadies",
-          "url": "https://open.spotify.com/artist/7GBLSeDdlx3gl2cxHvYuOh"
-        }
-      ],
-      "duration_ms": 170866,
-      "name": "You & Me Song",
-      "url": "https://open.spotify.com/track/5KiKFJdmU6m0QWxpW9xjOB"
-    },
-    {
       "added_at": "2024-06-24 11:47:22",
       "album": {
         "name": "K\u00e4nn ingen sorg f\u00f6r mig G\u00f6teborg",
@@ -439,6 +423,22 @@
       "duration_ms": 228893,
       "name": "K\u00e4nn ingen sorg f\u00f6r mig G\u00f6teborg",
       "url": "https://open.spotify.com/track/2yz5IaQLnO8WBCIWMXoRBS"
+    },
+    {
+      "added_at": "2025-08-07 09:58:34",
+      "album": {
+        "name": "Be A Girl",
+        "url": "https://open.spotify.com/album/7bx60z6sWg9fz9Ve2AruOI"
+      },
+      "artists": [
+        {
+          "name": "The Wannadies",
+          "url": "https://open.spotify.com/artist/7GBLSeDdlx3gl2cxHvYuOh"
+        }
+      ],
+      "duration_ms": 170866,
+      "name": "You & Me Song",
+      "url": "https://open.spotify.com/track/5KiKFJdmU6m0QWxpW9xjOB"
     },
     {
       "added_at": "2024-06-24 11:47:22",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "Living in America (US version)",
-        "url": "https://open.spotify.com/album/4Rg5Rh0uFB2v0uURm7S0d5"
-      },
-      "artists": [
-        {
-          "name": "The Sounds",
-          "url": "https://open.spotify.com/artist/0W2XAE5AnBWqcGNhfupEOU"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Living in America",
-      "url": "https://open.spotify.com/track/5FQ2oC15Omm9sdBZVQTPjw"
-    },
-    {
-      "added_at": "2024-06-24 11:47:22",
-      "album": {
         "name": "In Lust We Trust",
         "url": "https://open.spotify.com/album/2853c5Z7BEfJCaFltIQ0C7"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 196866,
       "name": "Ramlar",
       "url": "https://open.spotify.com/track/6BvtcJlv2kdlUodAt7PD6c"
+    },
+    {
+      "added_at": "2024-06-24 11:47:22",
+      "album": {
+        "name": "Living in America (US version)",
+        "url": "https://open.spotify.com/album/4Rg5Rh0uFB2v0uURm7S0d5"
+      },
+      "artists": [
+        {
+          "name": "The Sounds",
+          "url": "https://open.spotify.com/artist/0W2XAE5AnBWqcGNhfupEOU"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Living in America",
+      "url": "https://open.spotify.com/track/5FQ2oC15Omm9sdBZVQTPjw"
     },
     {
       "added_at": "2024-06-24 11:47:22",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "Johnossi",
-        "url": "https://open.spotify.com/album/79mwxuh2n3TUVp0lGfSoec"
-      },
-      "artists": [
-        {
-          "name": "Johnossi",
-          "url": "https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT"
-        }
-      ],
-      "duration_ms": 155373,
-      "name": "Man Must Dance",
-      "url": "https://open.spotify.com/track/7FxmsmphMyy09gdqGHeqFC"
-    },
-    {
-      "added_at": "2024-06-24 11:47:22",
-      "album": {
         "name": "Det \u00e4r s\u00e5 jag s\u00e4ger det",
         "url": "https://open.spotify.com/album/2x39gXdLwYnTxJyxExXpTj"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 231320,
       "name": "Kom igen Lena!",
       "url": "https://open.spotify.com/track/4UDaVq5tm2mQ6tNgWydhUX"
+    },
+    {
+      "added_at": "2024-06-24 11:47:22",
+      "album": {
+        "name": "Johnossi",
+        "url": "https://open.spotify.com/album/79mwxuh2n3TUVp0lGfSoec"
+      },
+      "artists": [
+        {
+          "name": "Johnossi",
+          "url": "https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT"
+        }
+      ],
+      "duration_ms": 155373,
+      "name": "Man Must Dance",
+      "url": "https://open.spotify.com/track/7FxmsmphMyy09gdqGHeqFC"
     },
     {
       "added_at": "2024-06-24 11:47:22",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
+        "name": "Din tid kommer",
+        "url": "https://open.spotify.com/album/6lfUesANDlkcKDHdveFfYd"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "duration_ms": 281890,
+      "name": "Din tid kommer",
+      "url": "https://open.spotify.com/track/2E4pGT15X6ElliPQIxSGaq"
+    },
+    {
+      "added_at": "2024-06-24 11:47:22",
+      "album": {
         "name": "Mavericks",
         "url": "https://open.spotify.com/album/59MXLAWsbAbq9nANWwFzTY"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 195840,
       "name": "Cheek to Cheek",
       "url": "https://open.spotify.com/track/4qjWcGhRQ28WEYuLDZ4aAR"
-    },
-    {
-      "added_at": "2024-06-24 11:47:22",
-      "album": {
-        "name": "Din tid kommer",
-        "url": "https://open.spotify.com/album/6lfUesANDlkcKDHdveFfYd"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 281890,
-      "name": "Din tid kommer",
-      "url": "https://open.spotify.com/track/2E4pGT15X6ElliPQIxSGaq"
     },
     {
       "added_at": "2024-06-24 11:47:22",

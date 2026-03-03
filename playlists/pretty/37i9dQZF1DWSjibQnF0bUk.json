@@ -1,6 +1,6 @@
 {
   "description": "Definitive African party starters, perfect for any jollof jam or braai! \"Spray\" money to these hits!",
-  "num_followers": 575393,
+  "num_followers": 575483,
   "original_name": "Afro Party Anthems",
   "owner": {
     "name": "Spotify",
@@ -455,26 +455,6 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "Body Go (with Tyla)",
-        "url": "https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM"
-      },
-      "artists": [
-        {
-          "name": "MOLIY",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        },
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Body Go (with Tyla)",
-      "url": "https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
         "name": "Jealousy (feat. Leemckrazy & Ceeka RSA)",
         "url": "https://open.spotify.com/album/0prfEaQxPCu9UqPSnscpoS"
       },
@@ -503,26 +483,22 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "HOW FAR / SHIMA II",
-        "url": "https://open.spotify.com/album/0g4PK75NaCaL7d8VDH889o"
+        "name": "Body Go (with Tyla)",
+        "url": "https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM"
       },
       "artists": [
         {
-          "name": "NO11",
-          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
         },
         {
-          "name": "Ayjay bobo",
-          "url": "https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4"
-        },
-        {
-          "name": "Monochrome",
-          "url": "https://open.spotify.com/artist/5CuyARGesDksvuWHiMQdX2"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 163327,
-      "name": "HOW FAR",
-      "url": "https://open.spotify.com/track/27y6VtO5N6QHPVrVLy9Gur"
+      "duration_ms": 165000,
+      "name": "Body Go (with Tyla)",
+      "url": "https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -547,6 +523,26 @@
       "duration_ms": 180765,
       "name": "Ewo",
       "url": "https://open.spotify.com/track/3w0eFAME3IxlonearUIaXJ"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
+        "name": "Shakabulizzy (Remix)",
+        "url": "https://open.spotify.com/album/7ASL5WnVt8QkEB0QvwtIjM"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Shakabulizzy - Remix",
+      "url": "https://open.spotify.com/track/3yzs58LteW16AjEb4J5vvi"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -587,22 +583,42 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "Shakabulizzy (Remix)",
-        "url": "https://open.spotify.com/album/7ASL5WnVt8QkEB0QvwtIjM"
+        "name": "HOW FAR / SHIMA II",
+        "url": "https://open.spotify.com/album/0g4PK75NaCaL7d8VDH889o"
       },
       "artists": [
         {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
         },
+        {
+          "name": "Ayjay bobo",
+          "url": "https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4"
+        },
+        {
+          "name": "Monochrome",
+          "url": "https://open.spotify.com/artist/5CuyARGesDksvuWHiMQdX2"
+        }
+      ],
+      "duration_ms": 163327,
+      "name": "HOW FAR",
+      "url": "https://open.spotify.com/track/27y6VtO5N6QHPVrVLy9Gur"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Shakabulizzy - Remix",
-      "url": "https://open.spotify.com/track/3yzs58LteW16AjEb4J5vvi"
+      "duration_ms": 154512,
+      "name": "FEEL",
+      "url": "https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -627,22 +643,6 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 154512,
-      "name": "FEEL",
-      "url": "https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
         "name": "Trench to Triumph",
         "url": "https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal"
       },
@@ -659,6 +659,26 @@
       "duration_ms": 221217,
       "name": "Ngozi",
       "url": "https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
+        "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 137390,
+      "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -715,26 +735,6 @@
       "duration_ms": 204159,
       "name": "Laye Mi",
       "url": "https://open.spotify.com/track/28NElMiahjGMfcE1G8Y6TG"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
-        "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT"
-      },
-      "artists": [
-        {
-          "name": "RnBoi",
-          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 137390,
-      "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -819,6 +819,34 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
+        "name": "Tshwala Bam (feat. S.N.E)",
+        "url": "https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2"
+      },
+      "artists": [
+        {
+          "name": "TitoM",
+          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
+        },
+        {
+          "name": "Yuppe",
+          "url": "https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "S.N.E",
+          "url": "https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF"
+        }
+      ],
+      "duration_ms": 203571,
+      "name": "Tshwala Bam (feat. S.N.E)",
+      "url": "https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
         "name": "ENJOYMENT",
         "url": "https://open.spotify.com/album/6XeFNGknKUSeZh7Gboegur"
       },
@@ -863,50 +891,6 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "Tshwala Bam (feat. S.N.E)",
-        "url": "https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2"
-      },
-      "artists": [
-        {
-          "name": "TitoM",
-          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
-        },
-        {
-          "name": "Yuppe",
-          "url": "https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "S.N.E",
-          "url": "https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF"
-        }
-      ],
-      "duration_ms": 203571,
-      "name": "Tshwala Bam (feat. S.N.E)",
-      "url": "https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
-        "name": "Na So",
-        "url": "https://open.spotify.com/album/18pDXf18omJ3ZvmwUweTNs"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 214441,
-      "name": "Na So",
-      "url": "https://open.spotify.com/track/6teayPHJeebZj4s9eMPCyY"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
         "name": "No Excuses",
         "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 218947,
       "name": "Despacito (feat. FOLA)",
       "url": "https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
+        "name": "Na So",
+        "url": "https://open.spotify.com/album/18pDXf18omJ3ZvmwUweTNs"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 214441,
+      "name": "Na So",
+      "url": "https://open.spotify.com/track/6teayPHJeebZj4s9eMPCyY"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -1063,18 +1063,22 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "Coco Money",
-        "url": "https://open.spotify.com/album/5GvOTinb8iMTUwUFw0Ci3i"
+        "name": "Party No Dey Stop",
+        "url": "https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq"
       },
       "artists": [
         {
           "name": "Adekunle Gold",
           "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
         }
       ],
-      "duration_ms": 136707,
-      "name": "Coco Money",
-      "url": "https://open.spotify.com/track/3ykQCT0ia1RGKbTyfrIQ4Z"
+      "duration_ms": 168857,
+      "name": "Party No Dey Stop",
+      "url": "https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -1175,42 +1179,34 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "Party No Dey Stop",
-        "url": "https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq"
+        "name": "Coco Money",
+        "url": "https://open.spotify.com/album/5GvOTinb8iMTUwUFw0Ci3i"
       },
       "artists": [
         {
           "name": "Adekunle Gold",
           "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
         }
       ],
-      "duration_ms": 168857,
-      "name": "Party No Dey Stop",
-      "url": "https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3"
+      "duration_ms": 136707,
+      "name": "Coco Money",
+      "url": "https://open.spotify.com/track/3ykQCT0ia1RGKbTyfrIQ4Z"
     },
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "Auracle",
-        "url": "https://open.spotify.com/album/2zRkv0mDlxuIb7ZnQRwNF7"
+        "name": "So Mi So",
+        "url": "https://open.spotify.com/album/3CFZlHqQYt2gEKKc3PcP2Z"
       },
       "artists": [
         {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
         }
       ],
-      "duration_ms": 132500,
-      "name": "Afa Relax Oo (feat. Young Jonn)",
-      "url": "https://open.spotify.com/track/4MMVmyb2AsdDjXkytVrqwJ"
+      "duration_ms": 245182,
+      "name": "So Mi So",
+      "url": "https://open.spotify.com/track/2KG2MggKHSVTKR8nLJX8DV"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -1243,18 +1239,22 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "So Mi So",
-        "url": "https://open.spotify.com/album/3CFZlHqQYt2gEKKc3PcP2Z"
+        "name": "Auracle",
+        "url": "https://open.spotify.com/album/2zRkv0mDlxuIb7ZnQRwNF7"
       },
       "artists": [
         {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 245182,
-      "name": "So Mi So",
-      "url": "https://open.spotify.com/track/2KG2MggKHSVTKR8nLJX8DV"
+      "duration_ms": 132500,
+      "name": "Afa Relax Oo (feat. Young Jonn)",
+      "url": "https://open.spotify.com/track/4MMVmyb2AsdDjXkytVrqwJ"
     },
     {
       "added_at": "2026-02-20 00:01:30",

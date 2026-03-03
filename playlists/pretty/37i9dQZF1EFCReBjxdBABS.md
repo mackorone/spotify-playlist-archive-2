@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1SGzvyXf1Ctz00Sw5n9AVI">Trannie Anderson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254 likes - 128 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 253 likes - 128 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 63 | [Nothing But Wild](https://open.spotify.com/track/4NcRfij5JDR55DFTlxrDd4) | [Amy Sheppard](https://open.spotify.com/artist/3nF6cVGjzDA9S5rDyZLffl) | [Nothing But Wild](https://open.spotify.com/album/4iuQQpJvgPgqi3pP5txVhb) | 3:10 |
 | 64 | [Santa Is A Good Ole Boy](https://open.spotify.com/track/52OYmvTC1SiSUNWtlMuOgp) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [Santa Is A Good Ole Boy](https://open.spotify.com/album/0AvujsVY0sfEU1bcMDg4UU) | 3:21 |
 | 65 | [Light at the End of the Tunnel](https://open.spotify.com/track/2vTihEWfgxyAa1rSL2PJF9) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Light at the End of the Tunnel](https://open.spotify.com/album/1CCwL8psqVBcnMHOZU8G4H) | 3:28 |
-| 66 | [Don't Say Goodnight](https://open.spotify.com/track/77Z79JhMPYNlHZaap9mm5W) | [CB30](https://open.spotify.com/artist/2PYT3wdKG3zn2sjztkf611) | [Don't Say Goodnight](https://open.spotify.com/album/6X1TomjwJtCv8uWMMKixRD) | 3:23 |
-| 67 | [Greatest Show On Dirt](https://open.spotify.com/track/6FWY4E5i2nK96uenNx0yfV) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Greatest Show On Dirt](https://open.spotify.com/album/1QILqfKPa0NhK08YD6a79q) | 3:14 |
+| 66 | [Greatest Show On Dirt](https://open.spotify.com/track/6FWY4E5i2nK96uenNx0yfV) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Greatest Show On Dirt](https://open.spotify.com/album/1QILqfKPa0NhK08YD6a79q) | 3:14 |
+| 67 | [Don't Say Goodnight](https://open.spotify.com/track/77Z79JhMPYNlHZaap9mm5W) | [CB30](https://open.spotify.com/artist/2PYT3wdKG3zn2sjztkf611) | [Don't Say Goodnight](https://open.spotify.com/album/6X1TomjwJtCv8uWMMKixRD) | 3:23 |
 | 68 | [Granted](https://open.spotify.com/track/3SoRJ8T5ttium7FSUfrBF8) | [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Granted](https://open.spotify.com/album/0aqiLiJHhzqbLZispCNATc) | 3:09 |
 | 69 | [Phones And Radios](https://open.spotify.com/track/22R9NMqZeOjb3AvOhRgaDZ) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Things You Didn't See](https://open.spotify.com/album/1trtLENMUHUZrgKKNKjgty) | 2:46 |
 | 70 | [Right Things Right](https://open.spotify.com/track/0KZaJHCvCIQahrENs4Wyaj) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Into The Neon](https://open.spotify.com/album/4x2LrG46EWrM6jkCie0YuU) | 3:39 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 127 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
 | 128 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AcK//gAAAADl3oJ6vFAh6Gjpr0HtAjcG`
+Snapshot ID: `AcLFdgAAAABeskxoLsEAVQAcj4peolPe`

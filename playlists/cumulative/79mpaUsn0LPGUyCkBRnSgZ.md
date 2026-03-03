@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,067 songs - 2 day 21 hr 39 min
+1,069 songs - 2 day 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,6 +443,7 @@
 | [If This Tour Doesn't Kill You, I Will](https://open.spotify.com/track/273GJ8gvmeGI4LXKlcbBGJ) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [The Dream Is Over](https://open.spotify.com/album/3l94HZBpKFTn1plZ1WWQPf) | 2:18 | 2024-01-18 | 2025-04-25 |
 | [If You Say I'm Special](https://open.spotify.com/track/0K1WX02P3ANoLTcKIkcmaC) | [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [I Could Have Smiled at You More](https://open.spotify.com/album/61FSSaX2fMgXurISMrx96T) | 5:58 | 2024-01-03 |  |
 | [Imagine \- Remastered 2010](https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:07 | 2023-08-17 |  |
+| [In a Lake](https://open.spotify.com/track/5VsBTV8gxbMCRTomd2nRqg) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Nothing's About to Happen to Me](https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu) | 3:04 | 2026-03-02 |  |
 | [In Heaven](https://open.spotify.com/track/33HK3AInjJCqMrCHN2Kg5g) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G) | 3:50 | 2023-11-19 | 2025-07-25 |
 | [in My Garden...](https://open.spotify.com/track/40xfJg6ZZXr3jRJkxJJZ0O) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 0:25 | 2024-01-29 |  |
 | [In Search of a Revival Part 1](https://open.spotify.com/track/5uublBvCrRoWOpwqNk40u8) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [In Search of a Revival](https://open.spotify.com/album/53iGXRquz0HTYwER9duEAM) | 0:51 | 2026-02-13 | 2026-02-18 |
@@ -765,6 +766,7 @@
 | [ride the dragon](https://open.spotify.com/track/15TXFTdwGEEL4jH9erTRnK) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:08 | 2024-01-17 |  |
 | [Right People, Wrong Place](https://open.spotify.com/track/2ftb45L7iXYwp0WoTEuslG) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 1:57 | 2024-05-27 |  |
 | [Rise](https://open.spotify.com/track/688iitLNSV6Iik1QESqvth) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 1:41 | 2022-06-24 |  |
+| [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 | 2026-03-02 |  |
 | [Robert](https://open.spotify.com/track/2e8lfpyLA5OBzZqdcMEuIN) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k), [Injury Reserve](https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73) | [Wicked City](https://open.spotify.com/album/6E2VHYLPTtFOtdRcpt6YwP) | 3:29 | 2023-12-15 | 2023-12-26 |
 | [Rock 'n' Roll Star](https://open.spotify.com/track/17z8eLCkciVamEqXJS6Ri8) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe](https://open.spotify.com/album/3LzKUdUTdJb6P7xGN6SotC) | 5:23 | 2024-01-01 |  |
 | [Rock And Sing](https://open.spotify.com/track/5kfH55pli3gCkprV3OJerd) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo) | 2:03 | 2022-02-19 | 2023-12-14 |

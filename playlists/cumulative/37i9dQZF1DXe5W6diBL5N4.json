@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: Hearts2Hearts (\ud558\uce20\ud22c\ud558\uce20)) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: B.I) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "tracks": [
     {
@@ -7464,7 +7464,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 188414,
       "name": "A Story of Waiting",
       "url": "https://open.spotify.com/track/4eH0ANzod2ZoFAT6Urn0Hh"
@@ -16195,6 +16195,24 @@
     },
     {
       "album": {
+        "name": "Are we breaking up",
+        "url": "https://open.spotify.com/album/3BDd91mbtDQBCaVScMQWLl"
+      },
+      "artists": [
+        {
+          "name": "Yeoeun",
+          "url": "https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212207,
+      "name": "Are we breaking up",
+      "url": "https://open.spotify.com/track/32fG0W40i1V535w1DxS6nN"
+    },
+    {
+      "album": {
         "name": "Are we done?",
         "url": "https://open.spotify.com/album/524LwEcjDKf0Ki5nNNz5r5"
       },
@@ -20696,6 +20714,24 @@
       "duration_ms": 190079,
       "name": "Bad News",
       "url": "https://open.spotify.com/track/4xEf5X5zBoXIyHEls7l197"
+    },
+    {
+      "album": {
+        "name": "1\ub4f1\ub4e4 Audition end war Episode 3",
+        "url": "https://open.spotify.com/album/1u7KqFx3KDKxDB5t8y9T2R"
+      },
+      "artists": [
+        {
+          "name": "Sonnet",
+          "url": "https://open.spotify.com/artist/2RtkJZ5bHvyy1g3tHxfv0B"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188897,
+      "name": "Bad News",
+      "url": "https://open.spotify.com/track/403lTNYPupOGV4kWla1h0A"
     },
     {
       "album": {
@@ -30544,7 +30580,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 208656,
       "name": "Blue Rose",
       "url": "https://open.spotify.com/track/5XCL7ifBXsyeSZTMT98Kad"
@@ -35967,6 +36003,32 @@
     },
     {
       "album": {
+        "name": "BUZZIN (Feat. Coogie, GRAY)",
+        "url": "https://open.spotify.com/album/2kutfq6QtMm6ZYyF6QktXd"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176371,
+      "name": "BUZZIN (Feat. Coogie, GRAY)",
+      "url": "https://open.spotify.com/track/2xaQzu6vkA5SUNrJUTFuJI"
+    },
+    {
+      "album": {
         "name": "Buzzin'",
         "url": "https://open.spotify.com/album/5iylJmuKfhAWAkWJ22kEu6"
       },
@@ -39252,7 +39314,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 244411,
       "name": "Can\u2019t I Just Love You More",
       "url": "https://open.spotify.com/track/1BodkNBFGcstRrIb521Hbn"
@@ -54456,6 +54518,24 @@
       "duration_ms": 270545,
       "name": "Deep in the sea",
       "url": "https://open.spotify.com/track/1HTMounjT4wxgUEA2reDZg"
+    },
+    {
+      "album": {
+        "name": "X : 3 / ?",
+        "url": "https://open.spotify.com/album/5Rud2sFOI6cg4tkdM1pqmw"
+      },
+      "artists": [
+        {
+          "name": "NELL",
+          "url": "https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240628,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/7GRWbXqGv4UZhmnL6nSyus"
     },
     {
       "album": {
@@ -80564,7 +80644,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 248000,
       "name": "For You",
       "url": "https://open.spotify.com/track/7E1ltzmFIvIIvrj8Kfdw3S"
@@ -102758,7 +102838,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 256000,
       "name": "How Do We Make Peace?",
       "url": "https://open.spotify.com/track/2uSU97MOffKQqvgoGR3P57"
@@ -136420,7 +136500,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 173210,
       "name": "Like an Aurora (feat. Deyy)",
       "url": "https://open.spotify.com/track/4ipy46xLfDylH7tq111EqA"
@@ -169573,6 +169653,24 @@
     },
     {
       "album": {
+        "name": "Nobody, Nothing",
+        "url": "https://open.spotify.com/album/68apZtZZ14EdFF9rv3WFtR"
+      },
+      "artists": [
+        {
+          "name": "sujin",
+          "url": "https://open.spotify.com/artist/5hJojEklINU8GU3f3x1Icz"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237573,
+      "name": "Nobody, Nothing",
+      "url": "https://open.spotify.com/track/3VXLttDEWuRreWKAl7RLby"
+    },
+    {
+      "album": {
         "name": "Nocturnal Animal",
         "url": "https://open.spotify.com/album/3Butl3bsfWePlBtFh0WdZ0"
       },
@@ -170702,7 +170800,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 262000,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/3PQHBOfmPSGHyB1xLp3lhq"
@@ -174206,6 +174304,36 @@
       "duration_ms": 168640,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/3cVX33dhtE55B21yWWYiLJ"
+    },
+    {
+      "album": {
+        "name": "On my way",
+        "url": "https://open.spotify.com/album/7gQtlL4jNfY4wObR8fDnEE"
+      },
+      "artists": [
+        {
+          "name": "M1NU",
+          "url": "https://open.spotify.com/artist/2JDfkwLPoHoH1EKw6Og6uH"
+        },
+        {
+          "name": "Finn",
+          "url": "https://open.spotify.com/artist/4gWmNk3NieQfEtURynObUY"
+        },
+        {
+          "name": "LEEJUNGHYUN",
+          "url": "https://open.spotify.com/artist/6wZWAZRwnfkTPxNrViW4g4"
+        },
+        {
+          "name": "Modern post",
+          "url": "https://open.spotify.com/artist/0xOU3t76YCWdi4NdRZlm9O"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "On my way (Feat. Finn, Junghyun Lee, Modern post)",
+      "url": "https://open.spotify.com/track/0drhhcsxk7bnlqcKIv1rsf"
     },
     {
       "album": {
@@ -187558,6 +187686,24 @@
       "duration_ms": 255666,
       "name": "Pray - Acoustic Version",
       "url": "https://open.spotify.com/track/7eYd3EsCSSPmigEGKMruWQ"
+    },
+    {
+      "album": {
+        "name": "Pray For God",
+        "url": "https://open.spotify.com/album/2Ue4mTH0WEUzhvCSyzp9q0"
+      },
+      "artists": [
+        {
+          "name": "LIM SEJUN",
+          "url": "https://open.spotify.com/artist/6UPJRONOWFOTFZPfwQS6u5"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178959,
+      "name": "Pray For God",
+      "url": "https://open.spotify.com/track/3PQFOOuAQyu3hBWy7G91IO"
     },
     {
       "album": {
@@ -249894,7 +250040,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 177000,
       "name": "typing",
       "url": "https://open.spotify.com/track/0nfupRtfOEtb4UZaOHw9q5"
@@ -262645,6 +262791,24 @@
     },
     {
       "album": {
+        "name": "OFF THE MAP",
+        "url": "https://open.spotify.com/album/5UddYZEfHNUCra18jeZtUU"
+      },
+      "artists": [
+        {
+          "name": "Kim Sung Kyu",
+          "url": "https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "When I think about you",
+      "url": "https://open.spotify.com/track/09jyHsIH2M6rt3OFyM3hW5"
+    },
+    {
+      "album": {
         "name": "When I walk",
         "url": "https://open.spotify.com/album/0qjHGRWoEOulQ0y2ZelFTF"
       },
@@ -268040,7 +268204,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 221000,
       "name": "wintter (Dear Winter)",
       "url": "https://open.spotify.com/track/1uH38sSoBkLSVcyyCKJLTQ"
@@ -292032,6 +292196,24 @@
       "duration_ms": 186266,
       "name": "\ud55c\uac78\uc74c\ub9cc",
       "url": "https://open.spotify.com/track/5jtszSD0CSipFt1xCc0iAm"
+    },
+    {
+      "album": {
+        "name": "\ud55c\ub9c8\ub514",
+        "url": "https://open.spotify.com/album/6KFf9BmY8utP22He3lFMPZ"
+      },
+      "artists": [
+        {
+          "name": "Ahn Yeseul",
+          "url": "https://open.spotify.com/artist/4gcwTPPRhA3OPYI95ehTtl"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210407,
+      "name": "\ud55c\ub9c8\ub514",
+      "url": "https://open.spotify.com/track/6j5fAwwQ0uKCYeIY42vDgU"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Fantasy Board Gaming](https://open.spotify.com/playlist/37i9dQZF1DWVdDMUimLXxx)
 
-> Add dramatic flair to your strategy game.
+> An atmospheric mix of chill soundtracks and classical pieces to help you roll high and keep the chaos low.
 
-94 songs - 4 hr 48 min
+95 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Among the Clouds](https://open.spotify.com/track/6RMZYwjAH5CVJriToCDuZ7) | [Helmut Schenker](https://open.spotify.com/artist/6wf5DKFK08Qx5d11LNhesK) | [Among the Clouds](https://open.spotify.com/album/4HcRsA5pd3BqTGUKWoxSv0) | 3:00 | 2022-08-12 | 2025-02-25 |
 | [Arrival](https://open.spotify.com/track/0CewGD0QltN3DCLHeg66Mb) | [Edgar Hopp](https://open.spotify.com/artist/5nn0v7ZNnO4cY7TEAjjfSx) | [Arrival](https://open.spotify.com/album/6k7cnJ2DJKoIgZ9mAT2fxk) | 4:15 | 2022-04-22 | 2025-02-25 |
 | [Aspire to Inspire](https://open.spotify.com/track/6BgVfl711Hx4Xjmg5o0HsP) | [Howard Harper\-Barnes](https://open.spotify.com/artist/447ceX8wMVdX94yevKZFDe) | [To All the Glory](https://open.spotify.com/album/59IuJfXNv7h6Np4JVKUYWM) | 3:32 | 2022-04-22 |  |
-| [Au Bord](https://open.spotify.com/track/7u2mAvNqT0ieHNLlz0cIz1) | [Erinrad Viker Sinfonietta](https://open.spotify.com/artist/577NHFNqD3EF7ePgJxpCzu) | [Au Bord](https://open.spotify.com/album/1Ark20TQ8Q1mlxjYD4iuBv) | 3:38 | 2022-04-22 |  |
+| [Au Bord](https://open.spotify.com/track/7u2mAvNqT0ieHNLlz0cIz1) | [Erinrad Viker Sinfonietta](https://open.spotify.com/artist/577NHFNqD3EF7ePgJxpCzu) | [Au Bord](https://open.spotify.com/album/1Ark20TQ8Q1mlxjYD4iuBv) | 3:38 | 2022-04-22 | 2026-03-03 |
 | [Awash](https://open.spotify.com/track/3WgX6oDGy5TjPEPA028sls) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Fragmented](https://open.spotify.com/album/7E5MjoqX5LSadIzFnduoUc) | 3:23 | 2022-04-22 |  |
 | [Blue Spectre](https://open.spotify.com/track/57BqYDi536ejOoUQYKYoF2) | [Xin Feng](https://open.spotify.com/artist/0ecuDdIS1AQoyl0xVnR9hL) | [Blue Spectre](https://open.spotify.com/album/5ngAAECyfrWU5LKcM2vdlq) | 1:48 | 2022-04-22 |  |
 | [Bonnie at Morn / Amy's](https://open.spotify.com/track/7AOd1tPuzk4OixBPGJFp9k) | [Ensemble Galilei](https://open.spotify.com/artist/38xsbLMXenDwkPP8SPAAV6) | [From Whence We Came](https://open.spotify.com/album/21XKiwC8lWeMl58vLKf8NP) | 6:49 | 2022-04-22 |  |
@@ -36,7 +36,7 @@
 | [Fate Calls](https://open.spotify.com/track/6ZYWXmwrDehLhGW355yKIc) | [Mikolai Stroinski](https://open.spotify.com/artist/6lGCmXtqSxze8o2KEfYD6D) | [The Witcher 3: Wild Hunt \(Original Game Soundtrack\)](https://open.spotify.com/album/6pYNEn4tMc6gdv5fIZf5yn) | 1:58 | 2022-07-08 | 2024-04-19 |
 | [Fate Calls](https://open.spotify.com/track/7wxMbXcPlFXyc6ualteU5k) | [Mikolai Stroinski](https://open.spotify.com/artist/6lGCmXtqSxze8o2KEfYD6D) | [The Witcher 3: Wild Hunt \(Original Game Soundtrack\)](https://open.spotify.com/album/5GAHLnlyZGLpOSdYI1tQ3R) | 1:58 | 2022-04-22 |  |
 | [Film Credits](https://open.spotify.com/track/5tmtJPv2RyTqFQUC4VDgYy) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Living Room Songs](https://open.spotify.com/album/69Q8uDA8C7EdKUo5oveufQ) | 3:24 | 2022-07-08 | 2024-04-19 |
-| [Film Credits](https://open.spotify.com/track/23jiGIG5I07XoBYujart9K) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Living Room Songs](https://open.spotify.com/album/4zj4920hZrnQHYv4jGeyjp) | 3:31 | 2022-04-22 |  |
+| [Film Credits](https://open.spotify.com/track/23jiGIG5I07XoBYujart9K) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Living Room Songs](https://open.spotify.com/album/4zj4920hZrnQHYv4jGeyjp) | 3:31 | 2022-04-22 | 2026-03-03 |
 | [Filma Solo](https://open.spotify.com/track/0Zhq33AjWPz0vwdQwrCnrm) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Piano Works](https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq) | 3:15 | 2024-11-19 |  |
 | [Flight](https://open.spotify.com/track/08AlY11E0HRmvm32pt0K9d) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Boy Who Flew Away](https://open.spotify.com/album/1s1aADIorXvJ1DUmMKxWId) | 2:16 | 2022-07-08 | 2024-04-19 |
 | [Flight](https://open.spotify.com/track/6x5tRBmT3426qhiOepUDOB) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Boy Who Flew Away](https://open.spotify.com/album/4dgeskwXtoICOIJuPqXBAt) | 2:16 | 2022-04-22 |  |
@@ -89,6 +89,7 @@
 | [The Norman Kings](https://open.spotify.com/track/7tXoC0hKQy1TTv9XA8gofz) | [Bonnie Grace](https://open.spotify.com/artist/3z6E6ZPwJ7l0mp3HHcOfd2) | [Call the Herd](https://open.spotify.com/album/4fE45M3ETuMtzHPpNfmV5o) | 3:08 | 2022-04-22 |  |
 | [The Sanctuary Within](https://open.spotify.com/track/5WsT8YFHlMz56vfcgJYGaU) | [Erasmus Talbot](https://open.spotify.com/artist/2P5kUKkNT67xnSyi3bBOoB) | [Light in the Attic](https://open.spotify.com/album/65jhpuyU0R9JPfnC8wcN4x) | 3:06 | 2022-04-22 |  |
 | [The Shores of Scotland](https://open.spotify.com/track/5OpuPJiAaSHVovaDLHw6EA) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Mary Queen Of Scots \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/10Whlk8FMk3aPNC4FgmBUo) | 1:51 | 2024-11-19 |  |
+| [The Streets of Whiterun](https://open.spotify.com/track/31vc8VMdqPRTExkgTp7hib) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v), [The Elder Scrolls](https://open.spotify.com/artist/4gOgv5uY5kaPkDF70ZBCwI) | [The Elder Scrolls V: Skyrim \(Original Game Soundtrack\)](https://open.spotify.com/album/2tl723oVsgonNLqJRBwQg5) | 4:04 | 2026-03-02 |  |
 | [To All the Glory](https://open.spotify.com/track/0ekQHMaMjyFuuPtoiQA69T) | [Howard Harper\-Barnes](https://open.spotify.com/artist/447ceX8wMVdX94yevKZFDe) | [To All the Glory](https://open.spotify.com/album/59IuJfXNv7h6Np4JVKUYWM) | 2:40 | 2022-04-22 |  |
 | [Trace](https://open.spotify.com/track/6sauZJqeqUy4426Qj6joFe) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Trace](https://open.spotify.com/album/6Vfof63wDXpmWEVW12Ag80) | 3:30 | 2022-04-22 |  |
 | [Tsimtsum \(From "Life of Pi" Soundtrack\)](https://open.spotify.com/track/1RxaEvQCmT36nIZFYjpk5F) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2) | [Life of Pi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ogV7CBV00ONXAVx4tm0gk) | 2:49 | 2022-04-22 |  |

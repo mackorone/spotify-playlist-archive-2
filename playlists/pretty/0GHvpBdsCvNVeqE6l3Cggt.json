@@ -6,7 +6,7 @@
     "name": "Chris",
     "url": "https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg"
   },
-  "snapshot_id": "AAAj91aLWsZhT4UPnBDjFZNoLoXtUVhI",
+  "snapshot_id": "AAAj+lUq2464/IsW2uUC+ze8g+WZ7HnI",
   "tracks": [
     {
       "added_at": "2021-03-29 15:46:58",
@@ -731,6 +731,54 @@
       "duration_ms": 193123,
       "name": "Like a River in a Storm",
       "url": "https://open.spotify.com/track/7FxhX5BKum3TVi3ON0IBgt"
+    },
+    {
+      "added_at": "2026-03-02 07:48:59",
+      "album": {
+        "name": "TimeCrime",
+        "url": "https://open.spotify.com/album/5yY39wwz23Q12w97VdlwKY"
+      },
+      "artists": [
+        {
+          "name": "ANGELO",
+          "url": "https://open.spotify.com/artist/6TDcDHUYcKAmqdabRHToIG"
+        }
+      ],
+      "duration_ms": 214177,
+      "name": "TimeCrime",
+      "url": "https://open.spotify.com/track/1WElW0gy1V24q1fBgpkY2t"
+    },
+    {
+      "added_at": "2026-03-02 14:04:48",
+      "album": {
+        "name": "Faded photographs",
+        "url": "https://open.spotify.com/album/2T3cj8XZ12Mpoxz8ZObbur"
+      },
+      "artists": [
+        {
+          "name": "Body Talk",
+          "url": "https://open.spotify.com/artist/0T4kP9IyFYuI7fRBqQ58EJ"
+        }
+      ],
+      "duration_ms": 215371,
+      "name": "Faded photographs",
+      "url": "https://open.spotify.com/track/1vMsBtdVxFHYHYStZJVQHt"
+    },
+    {
+      "added_at": "2026-03-02 19:03:09",
+      "album": {
+        "name": "L\u00edmite",
+        "url": "https://open.spotify.com/album/3nxdgNuSPdm0oibOiS1J4d"
+      },
+      "artists": [
+        {
+          "name": "Javzye",
+          "url": "https://open.spotify.com/artist/1AM71cIOWu0sM8D6yju4xX"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "L\u00edmite",
+      "url": "https://open.spotify.com/track/7jVQXWrwoQq9lOQpGXlJRv"
     }
   ],
   "unique_name": "Alternative Pop Archive",

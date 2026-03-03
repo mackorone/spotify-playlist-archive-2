@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-340 songs - 16 hr 11 min
+342 songs - 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Greenwood](https://open.spotify.com/track/6SoXx6sA7BKjprwVHKfIzY) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Greenwood](https://open.spotify.com/album/4of8zBFKxdP02r7ZG6tiYW) | 2:44 | 2026-02-23 |  |
 | [Grounded](https://open.spotify.com/track/4OLwU8YwGCYUAureSrInHQ) | [Zilon Tay](https://open.spotify.com/artist/5MXcNvb6HXa2KgYvCqRbuU) | [Grounded](https://open.spotify.com/album/73OcD8zbuUAOvWShwFij1r) | 2:43 | 2023-09-08 |  |
 | [Grow, My Dear](https://open.spotify.com/track/5CRZJDlRrjmWXVmnhFHcQY) | [Felix Dekker](https://open.spotify.com/artist/0mUCh5H0yIr67MM7lPq3kL) | [Grow, My Dear](https://open.spotify.com/album/60IN9Im3JUIoN2YGAnMhvs) | 2:57 | 2025-03-19 |  |
+| [Habitat](https://open.spotify.com/track/3SgW6ntZSJqtndVkHgCnNl) | [Decie Orion](https://open.spotify.com/artist/6zcIuvn0dlOdvzljMJFZfO) | [Habitat](https://open.spotify.com/album/7aOV06bE8iDApcqnE5Ov1X) | 2:54 | 2026-02-23 |  |
 | [Halfmoon](https://open.spotify.com/track/0AdOu6FCkWdtrCxPYP4yS9) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Halfmoon](https://open.spotify.com/album/3f4dbs1Vhi3VBJ121oobzs) | 2:49 | 2023-08-11 |  |
 | [Handwritten](https://open.spotify.com/track/5E3Ix0osEIpZIf8c9wDUZ7) | [D'Verti](https://open.spotify.com/artist/09rAM5GlzBVG3FODKTlrRu) | [Handwritten](https://open.spotify.com/album/27IHCp4m0XW8XoRJsk4bYl) | 2:10 | 2025-05-21 |  |
 | [Healing gaze](https://open.spotify.com/track/1X8EmDgWvn6AImYPrtDqI9) | [Estra Blue](https://open.spotify.com/artist/2RAV1xltflSfWELSJuAB1S) | [Healing gaze](https://open.spotify.com/album/2hWybEwWNFXc4gauwKkt1h) | 2:40 | 2025-10-15 |  |
@@ -158,7 +159,7 @@
 | [Incandescent](https://open.spotify.com/track/4kv0JwNazt1KbOw9Vggcbd) | [Monduen](https://open.spotify.com/artist/7ufKbXQTJ2WVnEbsbTo5iJ) | [Incandescent](https://open.spotify.com/album/39SH7vxnTRlGsXiEdjEfUg) | 2:28 | 2025-10-02 |  |
 | [Inclusive](https://open.spotify.com/track/26atiN5wmCGO9Rbcx5lSwj) | [Spacetiming](https://open.spotify.com/artist/5eFO9GqXr6CFXygAtUlxGa) | [Inclusive](https://open.spotify.com/album/6bPTArHqDlHoxzO5ELIE0g) | 2:35 | 2025-10-02 |  |
 | [Infinite Potential](https://open.spotify.com/track/66w2QkVBFwKcZm4DvN3FLv) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Infinite Potential](https://open.spotify.com/album/5GL2UD3ZEqT1AaTx5Bbsl9) | 2:17 | 2024-06-03 | 2026-02-26 |
-| [Infinity](https://open.spotify.com/track/6U1eeDHeGzT9KHKwWfrHqF) | [Ælan](https://open.spotify.com/artist/6hoxrMfUz7hWkm7b7XxsDU) | [Infinity](https://open.spotify.com/album/5hufE2CA1jvRgxD765b8km) | 2:58 | 2025-10-24 |  |
+| [Infinity](https://open.spotify.com/track/6U1eeDHeGzT9KHKwWfrHqF) | [Ælan](https://open.spotify.com/artist/6hoxrMfUz7hWkm7b7XxsDU) | [Infinity](https://open.spotify.com/album/5hufE2CA1jvRgxD765b8km) | 2:58 | 2025-10-24 | 2026-03-03 |
 | [Inside the Heart](https://open.spotify.com/track/57zWmPhfZleSqpv59pzraX) | [Büdi Siebert](https://open.spotify.com/artist/6Wiy9Dr9ZTdgfoVoXwZ0da) | [Wave Hands Like Clouds](https://open.spotify.com/album/4nf94iBRiWVGlOqMZgip9S) | 4:47 | 2024-02-15 | 2024-04-02 |
 | [Introspective Thoughts Gamma \(88\-176hz\)](https://open.spotify.com/track/4Kd0E840XEJnAPxl1tktZY) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Introspective Thoughts Gamma](https://open.spotify.com/album/6cEWrmi0Zw37PcVVRaOtS3) | 2:48 | 2024-07-19 |  |
 | [Invitado De La Naturaleza](https://open.spotify.com/track/4BsGi3xKuLzJ5rIOnOPwYN) | [Elysio Stone](https://open.spotify.com/artist/3xmhBkdziYwrJhrlhyjEbp) | [Invitado De La Naturaleza](https://open.spotify.com/album/5p2lBL3zw0Ga9L9WskiXJk) | 3:33 | 2023-04-28 | 2024-04-02 |
@@ -235,6 +236,7 @@
 | [Portraits \(Sound Bath\)](https://open.spotify.com/track/0RyfmZbX3IIJcv6QE8lHmH) | [For The Lost](https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ) | [Portraits \(Sound Bath\)](https://open.spotify.com/album/7Eh16NCTsAbz4jtNoRWqh7) | 3:14 | 2023-04-28 | 2025-05-22 |
 | [Prakrti](https://open.spotify.com/track/72WBF6dxJLFHsuyWnLYqja) | [Hashree](https://open.spotify.com/artist/15UsQSphJsVhQ89KBQ5i2G) | [Prakrti](https://open.spotify.com/album/0HlFC6UnZo6M0yZTC39sYM) | 2:57 | 2023-06-30 |  |
 | [Prana](https://open.spotify.com/track/2I8w8s0lKS1ZT4onSKB7k7) | [Garden of Lotus](https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs) | [Bhakti](https://open.spotify.com/album/01pQqb89FcBuQnE2KDdFyl) | 2:48 | 2023-04-28 | 2025-05-22 |
+| [Quiet Mist](https://open.spotify.com/track/1bGwPUE5Y312J39hfnYhrg) | [Lake Nebula](https://open.spotify.com/artist/2vrz4UIWYTyVEKZ3DubfRU) | [Quiet Mist](https://open.spotify.com/album/7ccIHSSph5aU2ILrApAONS) | 2:19 | 2026-02-23 |  |
 | [Radiant Recovery](https://open.spotify.com/track/6vrIfscwRw6648jkgY5JUO) | [Ambienne](https://open.spotify.com/artist/2TnYJIoylPdjQiWJPYsKhu) | [Radiant Recovery](https://open.spotify.com/album/7laP0oMseLBZjSjM912dh2) | 2:28 | 2025-05-28 | 2026-02-12 |
 | [Rainbow's End](https://open.spotify.com/track/7qYia3491jXCpBz9LXI9HU) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Rainbow's End](https://open.spotify.com/album/3CYTEAvcYSEFe61NBk1lWD) | 3:10 | 2024-06-03 |  |
 | [Relaxing Water Flow](https://open.spotify.com/track/0WI552XdVtIsWJzxU0vxXA) | [Bed of Flowers](https://open.spotify.com/artist/01TxUc4gaIBQGYZ6LsTsFp) | [close to nature](https://open.spotify.com/album/4wcX5mi1m1EDBtK3Yuecq3) | 2:16 | 2023-04-28 | 2023-09-09 |
@@ -332,7 +334,7 @@
 | [Watercolor](https://open.spotify.com/track/3t99n6xfreqB2M8DkInWsy) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Watercolor](https://open.spotify.com/album/63JYstDBGYwj9NkN6b2RHZ) | 2:46 | 2026-01-28 |  |
 | [Wave Son](https://open.spotify.com/track/1zISOcapD0WOYWovAxE9Si) | [Sam Bucciana](https://open.spotify.com/artist/4A7ZW9rJIvRiyu3pgxQW1j) | [Wave Son](https://open.spotify.com/album/4icmQJ3f32Xcz6FniCqQJE) | 2:38 | 2024-05-01 |  |
 | [Wavy](https://open.spotify.com/track/2ZmBus1Smzpa4qRNkWd1Bu) | [Nolene Britton](https://open.spotify.com/artist/4Ii7tJkcwod6FcfQKbelmT) | [Wavy](https://open.spotify.com/album/0qGpUKxTfjjsUZJ0Hx3Jf2) | 4:02 | 2023-04-28 | 2025-03-21 |
-| [Weekend Sun](https://open.spotify.com/track/0XhSIil6uSW7uk1etKrY0v) | [Wanyes](https://open.spotify.com/artist/7FiGGXixwRFNO4UHQ5GTlC) | [Weekend Sun](https://open.spotify.com/album/3kJVq2PmC7dv4JB2Dl7CEg) | 2:39 | 2026-01-28 |  |
+| [Weekend Sun](https://open.spotify.com/track/0XhSIil6uSW7uk1etKrY0v) | [Wanyes](https://open.spotify.com/artist/7FiGGXixwRFNO4UHQ5GTlC) | [Weekend Sun](https://open.spotify.com/album/3kJVq2PmC7dv4JB2Dl7CEg) | 2:39 | 2026-01-28 | 2026-03-03 |
 | [Where I Belong](https://open.spotify.com/track/5eB7WeAkom0NaB4Q5jEfeT) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [A Free Spirit](https://open.spotify.com/album/25RUQBt47toM0l7s8mvnh5) | 2:51 | 2023-04-28 | 2024-06-04 |
 | [Where The Brooks Meet](https://open.spotify.com/track/5cHqSqKnEgI0cisKbURs9E) | [Elemental Zenith](https://open.spotify.com/artist/0FrO30oOOv1iUUHtQa1Ipo) | [Where The Brooks Meet](https://open.spotify.com/album/0bofFssElhFqHYGa6djOAZ) | 2:48 | 2025-05-21 | 2025-12-07 |
 | [Where the sun goes down \(Nature Edit\)](https://open.spotify.com/track/5PS3msmNfcvZxAxPRpEIL4) | [Aurelin](https://open.spotify.com/artist/4WxaQLOx5d0XXzj20fTd4X) | [Where the sun goes down \(Nature Edit\)](https://open.spotify.com/album/4T0ggBKzuWQuwDRqwGZGXM) | 3:27 | 2025-09-10 |  |

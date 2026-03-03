@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 
 > Top Christian Hits 2026 \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a> 2016 \| Winter storm \| snow storm 2026 \| GRAMMYs 2026 \| feeling cozy
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 372,381 likes - 145 songs - 9 hr 34 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 372,410 likes - 145 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 | 9 | [There Goes That Man](https://open.spotify.com/track/7pOo4GVNndyLhhlVRliHYU) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [There Goes That Man](https://open.spotify.com/album/0VfyycjOpJgt56sEz6OD8C) | 4:20 |
 | 10 | [Rescue Me](https://open.spotify.com/track/78cWj0B00NY8VOUdFHyli0) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Dear Jesus](https://open.spotify.com/album/0QiMDbTi1TJ8RGUKU11jZr) | 3:31 |
 | 11 | [Breathe On It](https://open.spotify.com/track/3sd2kvWWh7T2M6N64LOGSV) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Breathe On It](https://open.spotify.com/album/38CH2161JgsV17KaROhaDe) | 4:00 |
-| 12 | [The Blood](https://open.spotify.com/track/1XrwHv9rd88EoM6MXAEdpF) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [JJ Hasulube](https://open.spotify.com/artist/7bnRk7bPNqkp9aP8R4SJCS) | [The Blood](https://open.spotify.com/album/5uqY6m44JXWvfRH99r9PUw) | 8:36 |
-| 13 | [I've Got A Fire](https://open.spotify.com/track/6yj2intfyAz3JhxaZvEjim) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [I've Got A Fire](https://open.spotify.com/album/2oGldW4w8iBH7mRAvNIWwk) | 3:17 |
-| 14 | [Who Else \- Live](https://open.spotify.com/track/2hUVIsZyLfy4xs35CHTlmN) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Claire Smith](https://open.spotify.com/artist/1WX879kYCO2MoFKwSZ2e50) | [Crowns Down \(Live\)](https://open.spotify.com/album/3yIWDWEr4BWDt38ovHWnre) | 4:50 |
-| 15 | [Holy Forever](https://open.spotify.com/track/1jnU6ZJXnSSwxfmjGGed2J) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Always](https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE) | 5:08 |
-| 16 | [Even Death On A Cross!](https://open.spotify.com/track/6QM7HFCQZvBvlzFyNtxdfZ) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Even Death On A Cross!](https://open.spotify.com/album/7vTcBAEdOYVZwASV8qk0A8) | 4:09 |
+| 12 | [Even Death On A Cross!](https://open.spotify.com/track/6QM7HFCQZvBvlzFyNtxdfZ) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Even Death On A Cross!](https://open.spotify.com/album/7vTcBAEdOYVZwASV8qk0A8) | 4:09 |
+| 13 | [The Blood](https://open.spotify.com/track/1XrwHv9rd88EoM6MXAEdpF) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [JJ Hasulube](https://open.spotify.com/artist/7bnRk7bPNqkp9aP8R4SJCS) | [The Blood](https://open.spotify.com/album/5uqY6m44JXWvfRH99r9PUw) | 8:36 |
+| 14 | [I've Got A Fire](https://open.spotify.com/track/6yj2intfyAz3JhxaZvEjim) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [I've Got A Fire](https://open.spotify.com/album/2oGldW4w8iBH7mRAvNIWwk) | 3:17 |
+| 15 | [Who Else \- Live](https://open.spotify.com/track/2hUVIsZyLfy4xs35CHTlmN) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Claire Smith](https://open.spotify.com/artist/1WX879kYCO2MoFKwSZ2e50) | [Crowns Down \(Live\)](https://open.spotify.com/album/3yIWDWEr4BWDt38ovHWnre) | 4:50 |
+| 16 | [Holy Forever](https://open.spotify.com/track/1jnU6ZJXnSSwxfmjGGed2J) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Always](https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE) | 5:08 |
 | 17 | [Somebody Prayed](https://open.spotify.com/track/1ukqYsTRhTM4jsfb2S8wrz) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [The EXILE](https://open.spotify.com/album/3Z5eTl8JjXIWoMx3M8GRsN) | 3:46 |
 | 18 | [Watch Your Mouth](https://open.spotify.com/track/1AbSedPxXMKs3mALPjiNfM) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Mt\. Zion](https://open.spotify.com/album/0AF1OmlS1oYlymcUNCmmKd) | 3:42 |
 | 19 | [Just That Good](https://open.spotify.com/track/53fIGsvNyKO15Huu3nFnsK) | [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Come To Jesus](https://open.spotify.com/album/29PYVen9YZ7QjjQoYQ6rze) | 3:44 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 | 144 | [Christ In Me](https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [I Will Follow](https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V) | 3:31 |
 | 145 | [I Surrender All](https://open.spotify.com/track/278oT0aaxxijjC6N37EOYH) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [I Surrender All](https://open.spotify.com/album/1qeZcSNuLbBjW3shvZ5scs) | 2:18 |
 
-Snapshot ID: `AAAmGjBT8y3DD8MQvuFAhOXGny30ljMR`
+Snapshot ID: `AAAmG48ZIJtdH3LAgMwUUFqBXpIURnMF`

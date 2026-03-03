@@ -1,6 +1,6 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1295888,
+  "num_followers": 1295901,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-02-20 15:09:24",
       "album": {
-        "name": "Signature",
-        "url": "https://open.spotify.com/album/3awMOQ2xcwEGi1SXw9Wi2i"
-      },
-      "artists": [
-        {
-          "name": "Ann Hampton Callaway",
-          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
-        }
-      ],
-      "duration_ms": 185733,
-      "name": "A Kiss To Build A Dream On",
-      "url": "https://open.spotify.com/track/5ZFWfIZhKqwG8l1UGqqLig"
-    },
-    {
-      "added_at": "2026-02-20 15:09:24",
-      "album": {
         "name": "Around The City",
         "url": "https://open.spotify.com/album/2kbn1xuLBYfxgsZbaIxzGO"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 240413,
       "name": "Save Your Love For Me",
       "url": "https://open.spotify.com/track/4gx7UBlipR1ZAkJq2d36Mr"
+    },
+    {
+      "added_at": "2026-02-20 15:09:24",
+      "album": {
+        "name": "Signature",
+        "url": "https://open.spotify.com/album/3awMOQ2xcwEGi1SXw9Wi2i"
+      },
+      "artists": [
+        {
+          "name": "Ann Hampton Callaway",
+          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
+        }
+      ],
+      "duration_ms": 185733,
+      "name": "A Kiss To Build A Dream On",
+      "url": "https://open.spotify.com/track/5ZFWfIZhKqwG8l1UGqqLig"
     },
     {
       "added_at": "2026-02-20 15:09:24",
@@ -347,54 +347,6 @@
     {
       "added_at": "2026-02-20 15:09:24",
       "album": {
-        "name": "(I Love You) For Sentimental Reasons",
-        "url": "https://open.spotify.com/album/6FIAYxUfNYUBlbsozYvEVL"
-      },
-      "artists": [
-        {
-          "name": "Jason LaPierre",
-          "url": "https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060"
-        }
-      ],
-      "duration_ms": 193665,
-      "name": "(I Love You) For Sentimental Reasons",
-      "url": "https://open.spotify.com/track/3flk0bEkjOaWSxFQSsbJ9K"
-    },
-    {
-      "added_at": "2026-02-20 15:09:24",
-      "album": {
-        "name": "Move On: A Sondheim Adventure",
-        "url": "https://open.spotify.com/album/21rqFgEooG35NUhxxwOqTs"
-      },
-      "artists": [
-        {
-          "name": "Cyrille Aimee",
-          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
-        }
-      ],
-      "duration_ms": 171949,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/226aNk2hiOlW3joJHIvSVe"
-    },
-    {
-      "added_at": "2026-02-20 15:09:24",
-      "album": {
-        "name": "Hooray For Love",
-        "url": "https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c"
-      },
-      "artists": [
-        {
-          "name": "Curtis Stigers",
-          "url": "https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu"
-        }
-      ],
-      "duration_ms": 259573,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV"
-    },
-    {
-      "added_at": "2026-02-20 15:09:24",
-      "album": {
         "name": "Mean To Me",
         "url": "https://open.spotify.com/album/5tlr80pnA12qL8t47TNUbK"
       },
@@ -415,18 +367,50 @@
     {
       "added_at": "2026-02-20 15:09:24",
       "album": {
-        "name": "Paris In The Rain",
-        "url": "https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp"
+        "name": "Move On: A Sondheim Adventure",
+        "url": "https://open.spotify.com/album/21rqFgEooG35NUhxxwOqTs"
       },
       "artists": [
         {
-          "name": "Sarah McKenzie",
-          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
+          "name": "Cyrille Aimee",
+          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
         }
       ],
-      "duration_ms": 284133,
-      "name": "I'm Old Fashioned",
-      "url": "https://open.spotify.com/track/1vsZD1hVHW7BU4FOIYkO5R"
+      "duration_ms": 171949,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/226aNk2hiOlW3joJHIvSVe"
+    },
+    {
+      "added_at": "2026-02-20 15:09:24",
+      "album": {
+        "name": "(I Love You) For Sentimental Reasons",
+        "url": "https://open.spotify.com/album/6FIAYxUfNYUBlbsozYvEVL"
+      },
+      "artists": [
+        {
+          "name": "Jason LaPierre",
+          "url": "https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060"
+        }
+      ],
+      "duration_ms": 193665,
+      "name": "(I Love You) For Sentimental Reasons",
+      "url": "https://open.spotify.com/track/3flk0bEkjOaWSxFQSsbJ9K"
+    },
+    {
+      "added_at": "2026-02-20 15:09:24",
+      "album": {
+        "name": "Hooray For Love",
+        "url": "https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c"
+      },
+      "artists": [
+        {
+          "name": "Curtis Stigers",
+          "url": "https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu"
+        }
+      ],
+      "duration_ms": 259573,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV"
     },
     {
       "added_at": "2026-02-20 15:09:24",
@@ -443,6 +427,22 @@
       "duration_ms": 164400,
       "name": "Lover Girl",
       "url": "https://open.spotify.com/track/3E619cvUK3bgsm4xH9A34H"
+    },
+    {
+      "added_at": "2026-02-20 15:09:24",
+      "album": {
+        "name": "Paris In The Rain",
+        "url": "https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp"
+      },
+      "artists": [
+        {
+          "name": "Sarah McKenzie",
+          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
+        }
+      ],
+      "duration_ms": 284133,
+      "name": "I'm Old Fashioned",
+      "url": "https://open.spotify.com/track/1vsZD1hVHW7BU4FOIYkO5R"
     },
     {
       "added_at": "2026-02-20 15:09:24",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-02-20 15:09:24",
       "album": {
-        "name": "Secrets of My Heart",
-        "url": "https://open.spotify.com/album/086KHW1DUXz3QssYk3qXZ5"
-      },
-      "artists": [
-        {
-          "name": "Sarah McKenzie",
-          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
-        }
-      ],
-      "duration_ms": 192531,
-      "name": "My True Love Is You",
-      "url": "https://open.spotify.com/track/4oXcpRZGwElyGPcIxLwvBC"
-    },
-    {
-      "added_at": "2026-02-20 15:09:24",
-      "album": {
         "name": "I've Got You Under My Skin",
         "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 209848,
       "name": "I've Got You Under My Skin",
       "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
+    },
+    {
+      "added_at": "2026-02-20 15:09:24",
+      "album": {
+        "name": "Secrets of My Heart",
+        "url": "https://open.spotify.com/album/086KHW1DUXz3QssYk3qXZ5"
+      },
+      "artists": [
+        {
+          "name": "Sarah McKenzie",
+          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
+        }
+      ],
+      "duration_ms": 192531,
+      "name": "My True Love Is You",
+      "url": "https://open.spotify.com/track/4oXcpRZGwElyGPcIxLwvBC"
     },
     {
       "added_at": "2026-02-20 15:09:24",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-02-20 15:09:24",
       "album": {
-        "name": "If I Loved You",
-        "url": "https://open.spotify.com/album/15L2n6vVD5Gm2EE1v4ti4y"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 230484,
-      "name": "If I Loved You",
-      "url": "https://open.spotify.com/track/4QZfE0uBTRIUknpnmru7XQ"
-    },
-    {
-      "added_at": "2026-02-20 15:09:24",
-      "album": {
         "name": "The Nearness Of You",
         "url": "https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 135421,
       "name": "The Nearness Of You",
       "url": "https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz"
+    },
+    {
+      "added_at": "2026-02-20 15:09:24",
+      "album": {
+        "name": "If I Loved You",
+        "url": "https://open.spotify.com/album/15L2n6vVD5Gm2EE1v4ti4y"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 230484,
+      "name": "If I Loved You",
+      "url": "https://open.spotify.com/track/4QZfE0uBTRIUknpnmru7XQ"
     },
     {
       "added_at": "2026-02-20 15:09:24",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-02-20 15:09:24",
       "album": {
-        "name": "Grand Songs",
-        "url": "https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv"
-      },
-      "artists": [
-        {
-          "name": "Lisa Ekdahl",
-          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
-        }
-      ],
-      "duration_ms": 186225,
-      "name": "Dream a Little Dream of Me",
-      "url": "https://open.spotify.com/track/0fVhDykD0OZ7pIytVEKQyF"
-    },
-    {
-      "added_at": "2026-02-20 15:09:24",
-      "album": {
         "name": "Partners (Deluxe)",
         "url": "https://open.spotify.com/album/0vpZmvUH5x2ByXTYtXB4mG"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 251530,
       "name": "Come Rain or Come Shine (with John Mayer)",
       "url": "https://open.spotify.com/track/0eqjKiAEZgLSbwTMqyZI1c"
+    },
+    {
+      "added_at": "2026-02-20 15:09:24",
+      "album": {
+        "name": "Grand Songs",
+        "url": "https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv"
+      },
+      "artists": [
+        {
+          "name": "Lisa Ekdahl",
+          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
+        }
+      ],
+      "duration_ms": 186225,
+      "name": "Dream a Little Dream of Me",
+      "url": "https://open.spotify.com/track/0fVhDykD0OZ7pIytVEKQyF"
     },
     {
       "added_at": "2026-02-20 15:09:24",
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-02-20 15:09:24",
       "album": {
+        "name": "Teach Me Tonight",
+        "url": "https://open.spotify.com/album/2OscS2SfT93gShdb65NGmH"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 217827,
+      "name": "Teach Me Tonight",
+      "url": "https://open.spotify.com/track/31WAeyYAeNjzXfWuay90An"
+    },
+    {
+      "added_at": "2026-02-20 15:09:24",
+      "album": {
         "name": "I'll Be Seeing You",
         "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 235633,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/03m9D4CmDmDJ1J65Yige0E"
-    },
-    {
-      "added_at": "2026-02-20 15:09:24",
-      "album": {
-        "name": "Teach Me Tonight",
-        "url": "https://open.spotify.com/album/2OscS2SfT93gShdb65NGmH"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 217827,
-      "name": "Teach Me Tonight",
-      "url": "https://open.spotify.com/track/31WAeyYAeNjzXfWuay90An"
     },
     {
       "added_at": "2026-02-20 15:09:24",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-02-20 15:09:24",
       "album": {
-        "name": "Stella Cole (Extended Version)",
-        "url": "https://open.spotify.com/album/2OvksIH5wPjzbQ8yDygT8w"
-      },
-      "artists": [
-        {
-          "name": "Stella Cole",
-          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "I Could Have Danced All Night",
-      "url": "https://open.spotify.com/track/0V3lvoVH87NmnV0uG39dru"
-    },
-    {
-      "added_at": "2026-02-20 15:09:24",
-      "album": {
         "name": "First Conversation",
         "url": "https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 271773,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
+    },
+    {
+      "added_at": "2026-02-20 15:09:24",
+      "album": {
+        "name": "Stella Cole (Extended Version)",
+        "url": "https://open.spotify.com/album/2OvksIH5wPjzbQ8yDygT8w"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "I Could Have Danced All Night",
+      "url": "https://open.spotify.com/track/0V3lvoVH87NmnV0uG39dru"
     },
     {
       "added_at": "2026-02-20 15:09:24",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-02-20 15:09:24",
       "album": {
+        "name": "Wild Woman Tells All",
+        "url": "https://open.spotify.com/album/2fvQLg0izPKs5QeweZskcT"
+      },
+      "artists": [
+        {
+          "name": "Kate Kortum",
+          "url": "https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D"
+        }
+      ],
+      "duration_ms": 344800,
+      "name": "You Are There (Orchestral Version)",
+      "url": "https://open.spotify.com/track/4pwPTfmcuwKetSybXcQl9i"
+    },
+    {
+      "added_at": "2026-02-20 15:09:24",
+      "album": {
         "name": "Laura Benanti",
         "url": "https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81"
       },
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2026-02-20 15:09:24",
       "album": {
-        "name": "Wild Woman Tells All",
-        "url": "https://open.spotify.com/album/2fvQLg0izPKs5QeweZskcT"
-      },
-      "artists": [
-        {
-          "name": "Kate Kortum",
-          "url": "https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D"
-        }
-      ],
-      "duration_ms": 344800,
-      "name": "You Are There (Orchestral Version)",
-      "url": "https://open.spotify.com/track/4pwPTfmcuwKetSybXcQl9i"
-    },
-    {
-      "added_at": "2026-02-20 15:09:24",
-      "album": {
         "name": "That Doesn't Matter",
         "url": "https://open.spotify.com/album/4k50CU7lgJN6aIAZqjOreg"
       },
@@ -1279,22 +1279,6 @@
       "duration_ms": 169386,
       "name": "That Doesn't Matter",
       "url": "https://open.spotify.com/track/451vo0g9vAHXx6tZsWrZ8b"
-    },
-    {
-      "added_at": "2026-02-20 15:09:24",
-      "album": {
-        "name": "Come Closer",
-        "url": "https://open.spotify.com/album/5kbNiEbyJ4GgvJRkduAr39"
-      },
-      "artists": [
-        {
-          "name": "Kat Gang",
-          "url": "https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "People Will Say We're In Love",
-      "url": "https://open.spotify.com/track/7d5WHGfv4DqTWtjQGHrwij"
     },
     {
       "added_at": "2026-02-20 15:09:24",
@@ -1339,6 +1323,22 @@
     {
       "added_at": "2026-02-20 15:09:24",
       "album": {
+        "name": "Come Closer",
+        "url": "https://open.spotify.com/album/5kbNiEbyJ4GgvJRkduAr39"
+      },
+      "artists": [
+        {
+          "name": "Kat Gang",
+          "url": "https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "People Will Say We're In Love",
+      "url": "https://open.spotify.com/track/7d5WHGfv4DqTWtjQGHrwij"
+    },
+    {
+      "added_at": "2026-02-20 15:09:24",
+      "album": {
         "name": "Standards",
         "url": "https://open.spotify.com/album/2Fd1KIL5aUNTl40H3OkOQi"
       },
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-02-20 15:09:24",
       "album": {
-        "name": "Love & the Lack Thereof",
-        "url": "https://open.spotify.com/album/6G02poGGFTpTnrkrv1lrH6"
-      },
-      "artists": [
-        {
-          "name": "Kat Gang",
-          "url": "https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi"
-        }
-      ],
-      "duration_ms": 373946,
-      "name": "Then I'll Be Tired of You",
-      "url": "https://open.spotify.com/track/4w1IwCOEWobiZUh5uA35GZ"
-    },
-    {
-      "added_at": "2026-02-20 15:09:24",
-      "album": {
         "name": "Live Sings Sassy",
         "url": "https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr"
       },
@@ -1415,6 +1399,38 @@
     {
       "added_at": "2026-02-20 15:09:24",
       "album": {
+        "name": "Fruit",
+        "url": "https://open.spotify.com/album/6Fa65VENHtOlviTo1GIQY1"
+      },
+      "artists": [
+        {
+          "name": "Marie Bergman",
+          "url": "https://open.spotify.com/artist/1EF9hLul0ZZcbh7dmXWF99"
+        }
+      ],
+      "duration_ms": 262920,
+      "name": "It Amazes Me",
+      "url": "https://open.spotify.com/track/7DxwotLgkVN9zOcZ58JFfw"
+    },
+    {
+      "added_at": "2026-02-20 15:09:24",
+      "album": {
+        "name": "Love & the Lack Thereof",
+        "url": "https://open.spotify.com/album/6G02poGGFTpTnrkrv1lrH6"
+      },
+      "artists": [
+        {
+          "name": "Kat Gang",
+          "url": "https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi"
+        }
+      ],
+      "duration_ms": 373946,
+      "name": "Then I'll Be Tired of You",
+      "url": "https://open.spotify.com/track/4w1IwCOEWobiZUh5uA35GZ"
+    },
+    {
+      "added_at": "2026-02-20 15:09:24",
+      "album": {
         "name": "Li'l Darlin",
         "url": "https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 195706,
       "name": "Li'l Darlin",
       "url": "https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU"
-    },
-    {
-      "added_at": "2026-02-20 15:09:24",
-      "album": {
-        "name": "Fruit",
-        "url": "https://open.spotify.com/album/6Fa65VENHtOlviTo1GIQY1"
-      },
-      "artists": [
-        {
-          "name": "Marie Bergman",
-          "url": "https://open.spotify.com/artist/1EF9hLul0ZZcbh7dmXWF99"
-        }
-      ],
-      "duration_ms": 262920,
-      "name": "It Amazes Me",
-      "url": "https://open.spotify.com/track/7DxwotLgkVN9zOcZ58JFfw"
     },
     {
       "added_at": "2026-02-20 15:09:24",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-02-20 15:09:24",
       "album": {
-        "name": "Moon River",
-        "url": "https://open.spotify.com/album/74jc00Z1FUzeVzXzu6CvUa"
-      },
-      "artists": [
-        {
-          "name": "Nicole Henry",
-          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
-        }
-      ],
-      "duration_ms": 310826,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/3azuowB4mADwvYCumctRrs"
-    },
-    {
-      "added_at": "2026-02-20 15:09:24",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/0AYOXJV9OzRPDNhWnrMXeL"
       },
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2026-02-20 15:09:24",
       "album": {
-        "name": "I Know I Dream : The Orchestral Sessions (Deluxe Version)",
-        "url": "https://open.spotify.com/album/053FwZ4XD8d2xY2GhMB9sH"
+        "name": "Moon River",
+        "url": "https://open.spotify.com/album/74jc00Z1FUzeVzXzu6CvUa"
       },
       "artists": [
         {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+          "name": "Nicole Henry",
+          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
         }
       ],
-      "duration_ms": 367213,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/0yKhFtDzzxV1t0VpM37uLp"
+      "duration_ms": 310826,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/3azuowB4mADwvYCumctRrs"
     },
     {
       "added_at": "2026-02-20 15:09:24",
@@ -1631,6 +1615,22 @@
     {
       "added_at": "2026-02-20 15:09:24",
       "album": {
+        "name": "I Know I Dream : The Orchestral Sessions (Deluxe Version)",
+        "url": "https://open.spotify.com/album/053FwZ4XD8d2xY2GhMB9sH"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "duration_ms": 367213,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/0yKhFtDzzxV1t0VpM37uLp"
+    },
+    {
+      "added_at": "2026-02-20 15:09:24",
+      "album": {
         "name": "Unforgettable: With Love",
         "url": "https://open.spotify.com/album/78qajwwkI8eOt1DrnUOtuL"
       },
@@ -1643,22 +1643,6 @@
       "duration_ms": 209960,
       "name": "Our Love Is Here To Stay",
       "url": "https://open.spotify.com/track/1BuHbtYFgSaV99PFPBZEkW"
-    },
-    {
-      "added_at": "2026-02-20 15:09:24",
-      "album": {
-        "name": "I Fall in Love Too Easily",
-        "url": "https://open.spotify.com/album/1HYUmEhSymsPgtTHGCnweI"
-      },
-      "artists": [
-        {
-          "name": "Katharine McPhee",
-          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "All the Way",
-      "url": "https://open.spotify.com/track/4OPXzKlS84fnRcZI3Kv5S6"
     },
     {
       "added_at": "2026-02-20 15:09:24",
@@ -1679,18 +1663,18 @@
     {
       "added_at": "2026-02-20 15:09:24",
       "album": {
-        "name": "Tenderly",
-        "url": "https://open.spotify.com/album/2czMrhriDhqmFnAc0fB43J"
+        "name": "I Fall in Love Too Easily",
+        "url": "https://open.spotify.com/album/1HYUmEhSymsPgtTHGCnweI"
       },
       "artists": [
         {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+          "name": "Katharine McPhee",
+          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
         }
       ],
-      "duration_ms": 206000,
-      "name": "In the Wee Small Hours of the Morning",
-      "url": "https://open.spotify.com/track/3WKcw4BjJjHxQlXXc9Izgn"
+      "duration_ms": 235866,
+      "name": "All the Way",
+      "url": "https://open.spotify.com/track/4OPXzKlS84fnRcZI3Kv5S6"
     },
     {
       "added_at": "2026-02-20 15:09:24",
@@ -1707,6 +1691,22 @@
       "duration_ms": 361253,
       "name": "The Very Thought Of You",
       "url": "https://open.spotify.com/track/0pc5TOv8jxVxI57rGvlqay"
+    },
+    {
+      "added_at": "2026-02-20 15:09:24",
+      "album": {
+        "name": "Tenderly",
+        "url": "https://open.spotify.com/album/2czMrhriDhqmFnAc0fB43J"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "In the Wee Small Hours of the Morning",
+      "url": "https://open.spotify.com/track/3WKcw4BjJjHxQlXXc9Izgn"
     },
     {
       "added_at": "2026-02-20 15:09:24",

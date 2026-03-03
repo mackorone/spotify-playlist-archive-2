@@ -23584,7 +23584,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-04",
+      "date_removed": null,
       "duration_ms": 137952,
       "name": "Halo",
       "url": "https://open.spotify.com/track/6zjlQ39iHKMaPcY9Fz4d9e"
@@ -28600,7 +28600,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-02",
+      "date_removed": null,
       "duration_ms": 211453,
       "name": "L'Amore Non Mi Basta",
       "url": "https://open.spotify.com/track/01PuEcSSxP84CO9yaXtsyp"
@@ -28618,7 +28618,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 211453,
       "name": "L'Amore Non Mi Basta",
       "url": "https://open.spotify.com/track/1YaSQXYPqhwtw35Wf3Z0nI"
@@ -28982,7 +28982,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 173806,
       "name": "l'ultimo bacio",
       "url": "https://open.spotify.com/track/1kgApnSI6d3TrbqGzBAyGo"
@@ -30766,7 +30766,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-02",
+      "date_removed": null,
       "duration_ms": 188709,
       "name": "Laguna",
       "url": "https://open.spotify.com/track/0L7oxMR89ji7A6htHnPR8L"
@@ -47208,7 +47208,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 220234,
       "name": "Quello che le donne non dicono",
       "url": "https://open.spotify.com/track/1xrQXLdFY7X0WaaBwRV4bS"
@@ -48862,6 +48862,24 @@
       "duration_ms": 192989,
       "name": "Rossetto e caff\u00e8",
       "url": "https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP"
+    },
+    {
+      "album": {
+        "name": "Rossetto e caff\u00e8",
+        "url": "https://open.spotify.com/album/5ej3At4Z8jJyL3ObLiHn3g"
+      },
+      "artists": [
+        {
+          "name": "Sal Da Vinci",
+          "url": "https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192989,
+      "name": "Rossetto e caff\u00e8",
+      "url": "https://open.spotify.com/track/7dUkF19CnbfFzljXWCjYQL"
     },
     {
       "album": {
@@ -56206,7 +56224,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 243716,
       "name": "Tit\u00ed Me Pregunt\u00f3",
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"

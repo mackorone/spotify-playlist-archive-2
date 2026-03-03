@@ -4172,7 +4172,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 144505,
       "name": "poci\u0105g bez ostatniej stacji",
       "url": "https://open.spotify.com/track/5fSucf8xEDuZxMBMppdeUb"
@@ -4964,6 +4964,24 @@
       "duration_ms": 187683,
       "name": "Sour",
       "url": "https://open.spotify.com/track/3qWLYGfwSRXa9xlITX1tpK"
+    },
+    {
+      "album": {
+        "name": "Sp\u00f3jrz",
+        "url": "https://open.spotify.com/album/1UZqtwjBs43IY8xCRDGYFo"
+      },
+      "artists": [
+        {
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189834,
+      "name": "Sp\u00f3jrz",
+      "url": "https://open.spotify.com/track/5jdLq3kQMWC2W4Skf5y45e"
     },
     {
       "album": {

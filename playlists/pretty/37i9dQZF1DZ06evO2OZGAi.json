@@ -1,12 +1,12 @@
 {
   "description": "This is Am\u00e9n. The essential tracks, all in one playlist.",
-  "num_followers": 7041,
+  "num_followers": 7045,
   "original_name": "This Is Am\u00e9n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaIwAAAAAAAhUY3AIHn5/3B22aL7Sflg",
+  "snapshot_id": "aaOBgAAAAACfV1Z+Zad9aBKCG9i4/TSJ",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infectado",
-        "url": "https://open.spotify.com/album/5dXikqKuG5OMktmbjAUINT"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 215813,
-      "name": "Dosis",
-      "url": "https://open.spotify.com/track/03TBqHj5fDznpRDIvRnmL9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Somos la Gente (Somos Uno)",
         "url": "https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr"
       },
@@ -411,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Infectado",
+        "url": "https://open.spotify.com/album/5dXikqKuG5OMktmbjAUINT"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 215813,
+      "name": "Dosis",
+      "url": "https://open.spotify.com/track/03TBqHj5fDznpRDIvRnmL9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Somos la Gente (Somos 2)",
         "url": "https://open.spotify.com/album/1AjwqEv9RweRL9ZJcazBs5"
       },
@@ -423,22 +423,6 @@
       "duration_ms": 112080,
       "name": "Un Mensaje para Ti (\u00c1ngel)",
       "url": "https://open.spotify.com/track/1vqSdNfpJWxCP0lIYNtNNC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Entre Cuatro Paredes",
-        "url": "https://open.spotify.com/album/5fRssy6drHYnM3JNiqM5nx"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 266020,
-      "name": "Entre Cuatro Paredes",
-      "url": "https://open.spotify.com/track/4U5Up5wS4scgfj0bhMOl2Z"
     },
     {
       "added_at": null,
@@ -475,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Entre Cuatro Paredes",
+        "url": "https://open.spotify.com/album/5fRssy6drHYnM3JNiqM5nx"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 266020,
+      "name": "Entre Cuatro Paredes",
+      "url": "https://open.spotify.com/track/4U5Up5wS4scgfj0bhMOl2Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2020",
         "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
       },
@@ -487,22 +487,6 @@
       "duration_ms": 136081,
       "name": "No S\u00e9 por Qu\u00e9",
       "url": "https://open.spotify.com/track/0YvFPgjHcLj3s6vfxzti2l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rutas",
-        "url": "https://open.spotify.com/album/2lrQSfpFMqqdWAzLjDpSRH"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 256092,
-      "name": "Rutas",
-      "url": "https://open.spotify.com/track/1EZfNMXXSG7zzcN6U9nHVe"
     },
     {
       "added_at": null,
@@ -539,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rutas",
+        "url": "https://open.spotify.com/album/2lrQSfpFMqqdWAzLjDpSRH"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 256092,
+      "name": "Rutas",
+      "url": "https://open.spotify.com/track/1EZfNMXXSG7zzcN6U9nHVe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AMEN",
         "url": "https://open.spotify.com/album/2iIIUngMOuIPviHZH02fjr"
       },
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 192640,
-      "name": "\u00c9chale la Culpa al Rock N' Roll",
-      "url": "https://open.spotify.com/track/6DAVWzv0jbqZy7M2LypsqJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tiempos de Resurrecci\u00f3n",
         "url": "https://open.spotify.com/album/30y9YTNOcSKGK3ii0qJxIG"
       },
@@ -603,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "2020",
-        "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
       },
       "artists": [
         {
@@ -612,9 +596,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 195758,
-      "name": "Ella Es",
-      "url": "https://open.spotify.com/track/0eic3m5rwIaOMAUSSryRqu"
+      "duration_ms": 192640,
+      "name": "\u00c9chale la Culpa al Rock N' Roll",
+      "url": "https://open.spotify.com/track/6DAVWzv0jbqZy7M2LypsqJ"
     },
     {
       "added_at": null,
@@ -635,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
+        "name": "2020",
+        "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
       },
       "artists": [
         {
@@ -644,9 +628,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 253733,
-      "name": "No Me Estoy Quemando",
-      "url": "https://open.spotify.com/track/3z7Rh2GBx6ktNjh0GrumNJ"
+      "duration_ms": 281757,
+      "name": "2020",
+      "url": "https://open.spotify.com/track/6kY9lyIn4FPuIse0a6Ettb"
     },
     {
       "added_at": null,
@@ -667,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "No Me Estoy Quemando",
+      "url": "https://open.spotify.com/track/3z7Rh2GBx6ktNjh0GrumNJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2020",
         "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
       },
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 281757,
-      "name": "2020",
-      "url": "https://open.spotify.com/track/6kY9lyIn4FPuIse0a6Ettb"
+      "duration_ms": 195758,
+      "name": "Ella Es",
+      "url": "https://open.spotify.com/track/0eic3m5rwIaOMAUSSryRqu"
     },
     {
       "added_at": null,

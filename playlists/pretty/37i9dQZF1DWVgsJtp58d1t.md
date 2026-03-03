@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > Happy Black History Month! Now featuring our Frequency Zine cover star <a href="https://www.instagram.com/spotify/p/DVMFG3EkbnW/">Durand Bernarr</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,124,143 likes - 125 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,124,181 likes - 125 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,7 +122,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 112 | [Vacay](https://open.spotify.com/track/0hFZRMipuQbyfLfXSH7EHd) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [13 Months of Sunshine](https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE) | 2:22 |
 | 113 | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS) | 3:08 |
 | 114 | [LET 'EM KNOW](https://open.spotify.com/track/6AXf9n3qazR1bE1dngnqxi) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [LET 'EM KNOW](https://open.spotify.com/album/7MmMz1SDFpAustlXwduMFa) | 2:59 |
-| 115 | [Boat Remix](https://open.spotify.com/track/2HeqKWstr0XAYILHpRo5ra) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Boat Remix](https://open.spotify.com/album/0PBa3RVZ6Mpy9dCdb3UnRC) | 2:43 |
+| 115 | [BOAT REMIX](https://open.spotify.com/track/2HeqKWstr0XAYILHpRo5ra) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [BOAT REMIX](https://open.spotify.com/album/0PBa3RVZ6Mpy9dCdb3UnRC) | 2:43 |
 | 116 | [B.B.B.](https://open.spotify.com/track/34cHt7RO0My6Nsi4mvj0ez) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Genesisthegawd](https://open.spotify.com/artist/4Sn6QtpIRLwt5mtQBbzcOu) | [B.B.B.](https://open.spotify.com/album/2cuHPmCMw1FbcYjzFnYxX5) | 2:20 |
 | 117 | [on point](https://open.spotify.com/track/0vVh4v2pZITlNiYhPIQhlZ) | [Mark Lux](https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5) | [opened gates](https://open.spotify.com/album/6tj7EUZVnjQoQv4gibzw8w) | 2:32 |
 | 118 | [Hit and Run \(feat\. AZ Chike\)](https://open.spotify.com/track/2OggmjtPsUJ2nz8KbsybIB) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg), [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [Hit and Run \(feat\. AZ Chike\)](https://open.spotify.com/album/5dvq2QHKHDqoQnE7rcCq2w) | 3:19 |

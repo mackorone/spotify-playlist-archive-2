@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3974go.md) - [plain]
 
 > This is Rich Homie Quan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,885 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,887 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3974go.md) - [plain]
 | 41 | [Stressed](https://open.spotify.com/track/3XO41ZKnULP1KIhoLgnBzG) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Coma](https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd) | 3:30 |
 | 42 | [Celebrate \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/7uxbabRF4omY1MhmIgaZ6Y) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Baby On Baby](https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0) | 3:12 |
 | 43 | [Heart Cold](https://open.spotify.com/track/67Mrs5q8uAL5WQyYPPYIEZ) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Back To The Basics](https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV) | 3:51 |
-| 44 | [2 Rounds \[Remix\] \(feat\. Rich Homie Quan & Kevin Gates\)](https://open.spotify.com/track/3vk2vqP66qXKYoC5NU4qtO) | [Propain](https://open.spotify.com/artist/2hJIsGyAMyrircVHcLEj4y), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [2 Rounds \[Remix\] \(feat\. Rich Homie Quan & Kevin Gates\)](https://open.spotify.com/album/7stv82Fq3iVD7tZ1JTmWXs) | 4:07 |
-| 45 | [We Good](https://open.spotify.com/track/11B2LpmjMH4BH1XwynLT9R) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [The Young OG Project](https://open.spotify.com/album/6x0bSKJ5z02Z5QsSPs9jg9) | 4:16 |
+| 44 | [We Good](https://open.spotify.com/track/11B2LpmjMH4BH1XwynLT9R) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [The Young OG Project](https://open.spotify.com/album/6x0bSKJ5z02Z5QsSPs9jg9) | 4:16 |
+| 45 | [2 Rounds \[Remix\] \(feat\. Rich Homie Quan & Kevin Gates\)](https://open.spotify.com/track/3vk2vqP66qXKYoC5NU4qtO) | [Propain](https://open.spotify.com/artist/2hJIsGyAMyrircVHcLEj4y), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [2 Rounds \[Remix\] \(feat\. Rich Homie Quan & Kevin Gates\)](https://open.spotify.com/album/7stv82Fq3iVD7tZ1JTmWXs) | 4:07 |
 | 46 | [Imma Ride](https://open.spotify.com/track/0FwezIaHwoxFy8IOLbF2UQ) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Rich Homie Cartel Vol 1](https://open.spotify.com/album/6KwDI7kGlidFv2zs2B3ywt) | 4:47 |
 | 47 | [Gamble](https://open.spotify.com/track/6LZLx6B97FDjUg89RIT44U) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Back To The Basics](https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV) | 2:42 |
 | 48 | [Perfect Flower](https://open.spotify.com/track/0k2zadj0ibcTAPXcGg6t7a) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Rich As In Spirit](https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7) | 3:34 |
 | 49 | [New Atlanta \(feat\. Rich Homie Quan, Young Thug, Jermain Dupri\)](https://open.spotify.com/track/2X9QYkO7p7M6AMag1eupdR) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 4:40 |
 | 50 | [Song Cry](https://open.spotify.com/track/0OAKpmhof8rDnV9j91XxUl) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Song Cry](https://open.spotify.com/album/7ykcCIJqdcbmAS6GZ6xypx) | 2:49 |
 
-Snapshot ID: `aaIwAAAAAAC0zPrPpzc/XUrSVq2nf28Q`
+Snapshot ID: `aaOBgAAAAAD0DYqHKC9Q1el1Da9+bsfM`

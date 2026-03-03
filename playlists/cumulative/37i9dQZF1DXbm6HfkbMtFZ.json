@@ -6008,7 +6008,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 185187,
       "name": "Little Push",
       "url": "https://open.spotify.com/track/5PKpyuyzBQX9jQYbsUW6eX"
@@ -6334,7 +6334,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-29",
+      "date_removed": null,
       "duration_ms": 179836,
       "name": "Love Is The Way",
       "url": "https://open.spotify.com/track/4Z0aGS1P0KxyPlBpqHpJ0F"
@@ -7376,10 +7376,28 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 278320,
       "name": "No Other Life Without You",
       "url": "https://open.spotify.com/track/6ngTPAGDzh4askJ13dCaQJ"
+    },
+    {
+      "album": {
+        "name": "Sounds Good",
+        "url": "https://open.spotify.com/album/6Jxt4spHx2WCH5WfapgUWD"
+      },
+      "artists": [
+        {
+          "name": "Brainstory",
+          "url": "https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134702,
+      "name": "Nobody But You",
+      "url": "https://open.spotify.com/track/5Mya4ekcEmKOluFYd8qX8Y"
     },
     {
       "album": {
@@ -9764,6 +9782,24 @@
       "duration_ms": 187185,
       "name": "Strange World",
       "url": "https://open.spotify.com/track/3PoMsuOCkDTFinad2PBlEh"
+    },
+    {
+      "album": {
+        "name": "Soundtrack For A Movie That Has Not Been Written Yet",
+        "url": "https://open.spotify.com/album/64Mjew6Y6wqkhbz7qYLIxS"
+      },
+      "artists": [
+        {
+          "name": "Rikas",
+          "url": "https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173640,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/4vlkvsD7xAB2MqOZYgSBlb"
     },
     {
       "album": {
@@ -12418,7 +12454,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 216840,
       "name": "You Make Me Smile",
       "url": "https://open.spotify.com/track/3fITA64OY8dVQwOV0ZvjPp"

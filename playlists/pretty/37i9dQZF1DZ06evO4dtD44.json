@@ -1,12 +1,12 @@
 {
   "description": "This is Jo\u00e3o Gilberto. The essential tracks, all in one playlist.",
-  "num_followers": 62765,
+  "num_followers": 62773,
   "original_name": "This Is Jo\u00e3o Gilberto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaIwAAAAAADT9glr/mr3UmaU9l5z4Wun",
+  "snapshot_id": "aaOBgAAAAAAGHUVqCfwd1KAA9G584/Wj",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bossa Nova Caf\u00e9",
-        "url": "https://open.spotify.com/album/2umykbaUStNVXKLtbGclUz"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 72671,
-      "name": "Bim Bom",
-      "url": "https://open.spotify.com/track/2v9LGwYybWMNhO0xZXpo6M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "H\u00f4-B\u00e1-L\u00e1-L\u00e1",
         "url": "https://open.spotify.com/album/2yHz1xJFHbJzhBitif1HJp"
       },
@@ -239,6 +223,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chega de Saudade",
+        "url": "https://open.spotify.com/album/2Huvsv5hVOHeua1vWfIpg7"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 123333,
+      "name": "Chega De Saudade - Ultimate Mix",
+      "url": "https://open.spotify.com/track/6ZVkcZXg252nVEbMETBT1d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Getz/Gilberto (Expanded Edition)",
         "url": "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP"
       },
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chega de Saudade",
-        "url": "https://open.spotify.com/album/2Huvsv5hVOHeua1vWfIpg7"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 123333,
-      "name": "Chega De Saudade - Ultimate Mix",
-      "url": "https://open.spotify.com/track/6ZVkcZXg252nVEbMETBT1d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joao",
         "url": "https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 233000,
       "name": "Palpite Infeliz",
       "url": "https://open.spotify.com/track/41hMxxMGTD38PTN10YMDKR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chega de saudade de Jo\u00e3o Gilberto",
+        "url": "https://open.spotify.com/album/5ty7LtYCBMnOnW3IV1ikDu"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 77346,
+      "name": "Bim Bom",
+      "url": "https://open.spotify.com/track/0ePXjhPFey6c0Fp2XQXaeO"
     },
     {
       "added_at": null,
@@ -899,8 +899,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Tokyo",
-        "url": "https://open.spotify.com/album/3h9Gwb6SajuppTujI3Rxlf"
+        "name": "Chega de saudade de Jo\u00e3o Gilberto",
+        "url": "https://open.spotify.com/album/5ty7LtYCBMnOnW3IV1ikDu"
       },
       "artists": [
         {
@@ -908,9 +908,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 269853,
-      "name": "Isto Aqu\u00ed O Que \u00c9",
-      "url": "https://open.spotify.com/track/4aq5Pfvd1CRZPpK5OKz7GW"
+      "duration_ms": 143453,
+      "name": "Mar\u00eda Ningu\u00e9m",
+      "url": "https://open.spotify.com/track/20edSKFWj9zQEEbMeJDW6E"
     },
     {
       "added_at": null,
@@ -931,8 +931,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chega de saudade de Jo\u00e3o Gilberto",
-        "url": "https://open.spotify.com/album/5ty7LtYCBMnOnW3IV1ikDu"
+        "name": "In Tokyo",
+        "url": "https://open.spotify.com/album/3h9Gwb6SajuppTujI3Rxlf"
       },
       "artists": [
         {
@@ -940,9 +940,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 143453,
-      "name": "Mar\u00eda Ningu\u00e9m",
-      "url": "https://open.spotify.com/track/20edSKFWj9zQEEbMeJDW6E"
+      "duration_ms": 269853,
+      "name": "Isto Aqu\u00ed O Que \u00c9",
+      "url": "https://open.spotify.com/track/4aq5Pfvd1CRZPpK5OKz7GW"
     }
   ],
   "unique_name": "This Is Jo\u00e3o Gilberto",

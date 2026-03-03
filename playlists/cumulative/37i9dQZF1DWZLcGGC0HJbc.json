@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-07-02",
   "description": "Voor boslucht, koffie en kalmte.",
-  "name": "Indie Folk Cedar & Coffee",
+  "name": "Indie Folk Coffee & Cedar",
   "tracks": [
     {
       "album": {
@@ -536,6 +536,24 @@
       "duration_ms": 183272,
       "name": "Big Black Car - Cover",
       "url": "https://open.spotify.com/track/1gGTs9zEatXSNKwabDDrpD"
+    },
+    {
+      "album": {
+        "name": "Bigger Picture",
+        "url": "https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185753,
+      "name": "Bigger Picture",
+      "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
     },
     {
       "album": {
@@ -2904,7 +2922,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 201297,
       "name": "My Heroine",
       "url": "https://open.spotify.com/track/0IAhw7KxiogXweSwVxW4av"

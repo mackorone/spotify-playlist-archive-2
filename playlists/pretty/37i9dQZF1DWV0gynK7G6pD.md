@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Martin James Bartlett
 
-[Spotify](https://open.spotify.com/user/spotify) - 752,923 likes - 82 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 752,938 likes - 82 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,6 +89,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 79 | [49 Deutsche Volkslieder, WoO 33: No\. 6, Da unten im Tale \(Arr\. for Voice and Guitar by Ansgar Krause\)](https://open.spotify.com/track/0gpur5if4ZyeoqETcafsHa) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Theresa Pilsl](https://open.spotify.com/artist/3Hq8f0T3M73fqDXt8sLqGg), [Jonas Müller](https://open.spotify.com/artist/5ndXOPgccJ4Az82ou8LWbd), [Leonard Becker](https://open.spotify.com/artist/2CBIlR3NX49omifjzx95Fd) | [Brahms: 49 Deutsche Volkslieder, WoO 33: No\. 6, Da unten im Tale \(Arr\. for Voice and Guitar by Ansgar Krause\)](https://open.spotify.com/album/7rMVaVPjdEpahx0k311HGc) | 1:55 |
 | 80 | [Coin Op Automata: I\. Mechanical](https://open.spotify.com/track/2smjnLD46qUvhKAv89Xes5) | [Laurence Osborn](https://open.spotify.com/artist/1KCYrxq7icGLjpqJ3chD3G), [12 Ensemble](https://open.spotify.com/artist/2em3FOAFG3NssO0tWItWuj), [Mahan Esfahani](https://open.spotify.com/artist/3IGLp0T2tKCevHZ2znDhtT), [Clement Power](https://open.spotify.com/artist/1sitEHrP5hvVvs13xERNh5) | [Coin Op Automata: I\. Mechanical](https://open.spotify.com/album/1U2tFgGubNE7u6jXSeZ7n5) | 4:18 |
 | 81 | [Tarantella in B Major](https://open.spotify.com/track/6MZLCQzxB3TScVALV1rYYS) | [Mily Balakirev](https://open.spotify.com/artist/2V5Fnwup32wFPAtMi2vmXq), [Shura Cherkassky](https://open.spotify.com/artist/08YhCeN9eg2ydw1U5KDKxZ) | [Balakirev: Tarantella in B Major](https://open.spotify.com/album/5hYcqi6nUd29pY0EmeXZ4q) | 5:55 |
-| 82 | [Lebensfries, Op\. 56: VIII\. Largo](https://open.spotify.com/track/1w2q3w3tgiKoh7QK24uPon) | [Haflidi Halgrímsson](https://open.spotify.com/artist/2kViIwRrurrT9v1xcXhiIr), [Ssens Trio](https://open.spotify.com/artist/7qbcfqCKFMFbOdKx0GidYE) | [Lebensfries, Op\. 56: VIII\. Largo](https://open.spotify.com/album/30HxL6AimVLhpQMNi7T0Uz) | 4:26 |
+| 82 | [Lebensfries, Op\. 56: VIII\. Largo](https://open.spotify.com/track/1w2q3w3tgiKoh7QK24uPon) | [Hafliði Hallgrímsson](https://open.spotify.com/artist/29WxoQ1l6HoOo55HbADn90), [Ssens Trio](https://open.spotify.com/artist/7qbcfqCKFMFbOdKx0GidYE) | [Lebensfries, Op\. 56: VIII\. Largo](https://open.spotify.com/album/30HxL6AimVLhpQMNi7T0Uz) | 4:26 |
 
 Snapshot ID: `AAAAACKgsNUpboyeIOYLkhvWoP0CBagb`

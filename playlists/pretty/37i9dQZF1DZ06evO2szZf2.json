@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaIwAAAAAACNFNerHIbhbmLaxsu5nNsn",
+  "snapshot_id": "aaOBgAAAAABaQOwodWyUXyNlZkef42OM",
   "tracks": [
     {
       "added_at": null,
@@ -1359,26 +1359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De 38 Carregado",
-        "url": "https://open.spotify.com/album/6uxHlMlE8nGh1dsDnkonse"
-      },
-      "artists": [
-        {
-          "name": "Dj Ray Lais",
-          "url": "https://open.spotify.com/artist/5flE9YN7Yo4B9ZN0nUfTZK"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 155145,
-      "name": "De 38 Carregado",
-      "url": "https://open.spotify.com/track/6BfoE1BkJKPEVYFGYm6g95"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Escolhas e Reflexos",
         "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 213994,
       "name": "Mundo da Fama",
       "url": "https://open.spotify.com/track/6vqHCFSzYNzg96n8NoKxHt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De 38 Carregado",
+        "url": "https://open.spotify.com/album/6uxHlMlE8nGh1dsDnkonse"
+      },
+      "artists": [
+        {
+          "name": "Dj Ray Lais",
+          "url": "https://open.spotify.com/artist/5flE9YN7Yo4B9ZN0nUfTZK"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 155145,
+      "name": "De 38 Carregado",
+      "url": "https://open.spotify.com/track/6BfoE1BkJKPEVYFGYm6g95"
     },
     {
       "added_at": null,
@@ -1435,30 +1435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1goas, \u00d3dio e Rancor",
-        "url": "https://open.spotify.com/album/2jCvBbgk1Z8c8pJEjCvNF1"
-      },
-      "artists": [
-        {
-          "name": "DJ Jeeh FDC",
-          "url": "https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp"
-        },
-        {
-          "name": "Iraqui ZL",
-          "url": "https://open.spotify.com/artist/4m8sn4hTvGG1pqoqdPrevS"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "M\u00e1goas, \u00d3dio e Rancor",
-      "url": "https://open.spotify.com/track/1lvjlmePaWEQkvmyns88Sj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bate Com Vontade (Remix)",
         "url": "https://open.spotify.com/album/4hyMT2c8TG3k2V8HvbI51J"
       },
@@ -1483,26 +1459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Novembro",
-        "url": "https://open.spotify.com/album/2dv7uPquU801ROCydE2GPv"
-      },
-      "artists": [
-        {
-          "name": "Junior Gobira",
-          "url": "https://open.spotify.com/artist/2iarQygwcHCidcNIdKdQFk"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 135855,
-      "name": "Malvada",
-      "url": "https://open.spotify.com/track/4ghA52EaYaZl1YnvO4uD8Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quem Quer F1 Com o G?",
         "url": "https://open.spotify.com/album/4fkmsXc6PvWwgNJJ5yzW4E"
       },
@@ -1523,6 +1479,50 @@
       "duration_ms": 166153,
       "name": "T\u00e1 Jogando Demais",
       "url": "https://open.spotify.com/track/62ehb7GLAwFpHCtzP96k4f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Novembro",
+        "url": "https://open.spotify.com/album/2dv7uPquU801ROCydE2GPv"
+      },
+      "artists": [
+        {
+          "name": "Junior Gobira",
+          "url": "https://open.spotify.com/artist/2iarQygwcHCidcNIdKdQFk"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 135855,
+      "name": "Malvada",
+      "url": "https://open.spotify.com/track/4ghA52EaYaZl1YnvO4uD8Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1goas, \u00d3dio e Rancor",
+        "url": "https://open.spotify.com/album/2jCvBbgk1Z8c8pJEjCvNF1"
+      },
+      "artists": [
+        {
+          "name": "DJ Jeeh FDC",
+          "url": "https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp"
+        },
+        {
+          "name": "Iraqui ZL",
+          "url": "https://open.spotify.com/artist/4m8sn4hTvGG1pqoqdPrevS"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "M\u00e1goas, \u00d3dio e Rancor",
+      "url": "https://open.spotify.com/track/1lvjlmePaWEQkvmyns88Sj"
     }
   ],
   "unique_name": "This Is Mc Dricka",

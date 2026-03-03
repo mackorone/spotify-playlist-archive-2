@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: TJARK, Disarstar
 
-3,286 songs - 6 day 9 hr 20 min
+3,287 songs - 6 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -956,6 +956,7 @@
 | [Ferragamo](https://open.spotify.com/track/01pemiis9ttYA9ZxMaZVg7) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Himmel über Berlin](https://open.spotify.com/album/68uZ1QirB4TtAyHzcoLGWK) | 1:37 | 2023-09-14 | 2023-10-20 |
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2022-06-09 | 2022-10-11 |
 | [Feuer Wasser Sturm](https://open.spotify.com/track/0dEvVBg3ArnuJ9WBnPzOcj) | [Niclov](https://open.spotify.com/artist/79DrPht1MJw7KRXHINJDMd), [Baron](https://open.spotify.com/artist/0U6t1GxrhOhD5vSHhe2JqE) | [Feuer Wasser Sturm](https://open.spotify.com/album/4UN4DOOiKEvhsNTtOKKfhW) | 2:16 | 2023-09-14 | 2023-12-05 |
+| [FEVER DREAM](https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FEVER DREAM](https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ) | 2:33 | 2026-03-02 |  |
 | [Fick Dein Insta](https://open.spotify.com/track/5KpG5ymS3CjAzNqefeyB54) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [Fick Dein Insta](https://open.spotify.com/album/6Tlmo9bMCQOyPLR1DIAU6p) | 3:00 | 2022-07-07 | 2022-07-26 |
 | [Fieber](https://open.spotify.com/track/1DvKUXOcuLJT2H75LuAQY7) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Fieber / Glatteis](https://open.spotify.com/album/6eNrbdwrN1GE7VWeiDc11f) | 2:17 | 2022-12-01 | 2023-02-03 |
 | [Fiebertrauma](https://open.spotify.com/track/2oxjP76T9WK4JbKqcjpNBK) | [Crystal F](https://open.spotify.com/artist/6oZhc4ONSAMn6RYg6o6VWL), [Karina Rose](https://open.spotify.com/artist/3ucTACZuBlt5HPmpH6QOmI) | [Fiebertrauma](https://open.spotify.com/album/6KmNpXY3gXNlFxGs2Dn4Uw) | 2:51 | 2026-02-05 | 2026-02-27 |
@@ -1752,7 +1753,7 @@
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-06-19 | 2025-11-01 |
 | [Love Me Not](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:33 | 2025-01-20 | 2025-02-28 |
 | [Love Shots](https://open.spotify.com/track/6aYB6syCRnnTXJ8jechWZc) | [zara](https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD) | [Love Shots](https://open.spotify.com/album/7KMp5uAH2B3dupZySwFdlD) | 1:50 | 2022-09-01 | 2022-12-02 |
-| [lovebomb](https://open.spotify.com/track/4zTWaLNytgmiIAC5fJhXjp) | [GWENDO](https://open.spotify.com/artist/3jiUj8e5dI5ByS6v5Car7I), [Fae August](https://open.spotify.com/artist/660isF0NgHAvBvPagaUmEL) | [lovebomb](https://open.spotify.com/album/1Y2FIl5js0G338kYEaC9mG) | 2:28 | 2026-01-22 |  |
+| [lovebomb](https://open.spotify.com/track/4zTWaLNytgmiIAC5fJhXjp) | [GWENDO](https://open.spotify.com/artist/3jiUj8e5dI5ByS6v5Car7I), [Fae August](https://open.spotify.com/artist/660isF0NgHAvBvPagaUmEL) | [lovebomb](https://open.spotify.com/album/1Y2FIl5js0G338kYEaC9mG) | 2:28 | 2026-01-22 | 2026-03-03 |
 | [LoveHate Thing \(feat\. Sam Dew\)](https://open.spotify.com/track/6kx16R0LMAyoXDvGqddZFy) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [The Gifted](https://open.spotify.com/album/2m1DkB7oqaZu8BzAAUfwlq) | 4:27 | 2025-02-03 | 2025-07-04 |
 | [LOVELY BASTARDS](https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [LOVELY BASTARDS](https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM) | 1:56 | 2023-12-04 | 2023-12-15 |
 | [Lovers](https://open.spotify.com/track/6bZuZKR8hoyzZXNh1IW2Bu) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5NEfU3Z8PfjeJXABaHf1FF) | 3:35 | 2025-01-21 | 2025-04-15 |

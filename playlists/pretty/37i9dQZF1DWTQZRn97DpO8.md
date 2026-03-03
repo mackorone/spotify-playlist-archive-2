@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > 🍯🍯🍯<br/>Photo : Lestin
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,721 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,708 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 17 | [LOVESHIFT](https://open.spotify.com/track/7bA3UbSXn7rLfe2r3PZm7r) | [Asma](https://open.spotify.com/artist/0GAbpRBkxeFvT9d5yjOMrB) | [LOVESHIFT](https://open.spotify.com/album/0LXZosSDTE7n0ejRQf1sAu) | 2:59 |
 | 18 | [C'est nous](https://open.spotify.com/track/7zrntDj5tanqHDx6esLwYN) | [Will River](https://open.spotify.com/artist/6wsjq9U1AMV0sreuXa1pA9) | [C'est nous](https://open.spotify.com/album/0WSlch6aG5w0ha2TLk7aZP) | 3:39 |
 | 19 | [Excès](https://open.spotify.com/track/2KPoXjRpo2BRvfUwmkq2WE) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [Softboy Actif 2](https://open.spotify.com/album/5GqYqD32BN1tPAH7GMN1CF) | 3:02 |
-| 20 | [Highlights \- Acoustic](https://open.spotify.com/track/5AYEeWJqfd0ZVophwbpW7M) | [Nëo](https://open.spotify.com/artist/05Q3ylpPvxuuk2ivriWAlr) | [Highlights](https://open.spotify.com/album/4xEBh9ZUlljrLnSIggoa6U) | 3:13 |
+| 20 | [Highlights \- Acoustic](https://open.spotify.com/track/5AYEeWJqfd0ZVophwbpW7M) | [Nëo](https://open.spotify.com/artist/05Q3ylpPvxuuk2ivriWAlr) | [Highlights \- Acoustic](https://open.spotify.com/album/4xEBh9ZUlljrLnSIggoa6U) | 3:13 |
 | 21 | [Fantôme](https://open.spotify.com/track/1sv04kUYXAD92I4U37J8IT) | [Hind](https://open.spotify.com/artist/7hn0avwajECN2szcpBTBQr) | [Rare I](https://open.spotify.com/album/04Pj2FsURb6wr4AIaXEF8f) | 3:24 |
 | 22 | [lâche le contrôle](https://open.spotify.com/track/26TKvMvqJihea2JL9BtRz4) | [Malter](https://open.spotify.com/artist/3FDn3vsowXE4E7NNQn4fqq) | [lâche le contrôle](https://open.spotify.com/album/1LeceXsoPcFUVHLIZmaGYc) | 3:03 |
 | 23 | [Toxique](https://open.spotify.com/track/6enp8sO7sF6vtFIWKnp1w7) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [RE](https://open.spotify.com/album/046Gl25POXsyC1oVLFZofO) | 2:44 |

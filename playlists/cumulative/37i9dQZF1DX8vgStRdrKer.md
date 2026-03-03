@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-731 songs - 2 day 14 hr 2 min
+732 songs - 2 day 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [I Surrender \- Live](https://open.spotify.com/track/1urrG04mC0IopJD7vpKiiW) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [Cornerstone \(Live\)](https://open.spotify.com/album/6dG4VcAdbKyhBmfunMitx8) | 5:46 | 2023-09-15 | 2024-03-16 |
 | [I Testify \- Live](https://open.spotify.com/track/2hXrCdY4qSLeYLIgIhm5LI) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [I Testify \(Live\)](https://open.spotify.com/album/7haaOtocoEP2jJlX5Q0gqX) | 14:27 | 2024-03-08 | 2025-06-13 |
 | [I Thank the Lord](https://open.spotify.com/track/1vHb7ovFeTKo031f6WSIIA) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D) | [I Thank the Lord](https://open.spotify.com/album/6DxGpp2IN37GnoEO8zGEDB) | 3:16 | 2023-12-15 | 2024-01-05 |
+| [I Was Made To Glorify Your Name](https://open.spotify.com/track/3OXx9dafJSuGO4OF5SiFLO) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [I Was Made To Glorify Your Name](https://open.spotify.com/album/5WUPJV4LB0mMvypBL8Sfc0) | 5:46 | 2026-02-27 |  |
 | [I will pray](https://open.spotify.com/track/4us9pwwMqOKN3lklnPZZAv) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I will pray](https://open.spotify.com/album/28UZKXjw7Iag6leBIIoAeQ) | 2:50 | 2023-12-01 | 2024-03-16 |
 | [I Will Pray](https://open.spotify.com/track/7EeZuxPhKcHu6awLk7s5c0) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I Will Pray](https://open.spotify.com/album/6kK5wplkTW4cH4gnBTujvn) | 2:50 | 2023-09-15 | 2024-02-19 |
 | [I will Pray](https://open.spotify.com/track/6Ulz7PfmAnIpbve5hlhDr0) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [I will Pray](https://open.spotify.com/album/5gqKJoGGg7H34oUkUdFNGD) | 14:43 | 2025-09-12 | 2025-10-21 |
@@ -335,7 +336,7 @@
 | [Ikhandlela](https://open.spotify.com/track/6K6nUh69oUPiyQar1Vkdya) | [Phila Dlozi](https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Ikhandlela](https://open.spotify.com/album/0cGh4bbnCT1yoVDwsdUVSp) | 5:22 | 2025-08-15 | 2025-11-17 |
 | [Imela](https://open.spotify.com/track/3WSjY8Z9vCKX8X3sc1pQwb) | [TFC Gold](https://open.spotify.com/artist/0tUXkhXZq28ovlMTUHTyg1), [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h) | [Imela](https://open.spotify.com/album/5O5ASDteTamA9ceHyDExRY) | 3:22 | 2025-05-30 | 2025-06-20 |
 | [Imole](https://open.spotify.com/track/6HsbS2KoENKjS5NatyXldL) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Speed Dial](https://open.spotify.com/album/1FJkEcLOuChsThdTRJ0Fo1) | 2:23 | 2025-07-25 | 2025-11-02 |
-| [Imole Aye](https://open.spotify.com/track/3UcvlbPqazMNOrLz2PDHMO) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Imole Aye](https://open.spotify.com/album/0Iy4b1NOhRiNWSDCURSQCV) | 8:39 | 2025-09-12 |  |
+| [Imole Aye](https://open.spotify.com/track/3UcvlbPqazMNOrLz2PDHMO) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Imole Aye](https://open.spotify.com/album/0Iy4b1NOhRiNWSDCURSQCV) | 8:39 | 2025-09-12 | 2026-03-03 |
 | [IMPRESS](https://open.spotify.com/track/49po3OfHx8xHkUjWw5Bh3B) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [IMPRESS](https://open.spotify.com/album/0O3deyALXkZUf6jt0mkK6x) | 3:21 | 2025-06-20 | 2025-11-21 |
 | [In My Praise](https://open.spotify.com/track/2CsOARViLxITTo2uE5rwMQ) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [In My Praise](https://open.spotify.com/album/12NeijP8fQUiFXWw1lUHbw) | 5:35 | 2025-05-23 | 2025-06-27 |
 | [In the Blood 2](https://open.spotify.com/track/3moqoaDy2sNTt5zmC6BHNA) | [Gospel boys](https://open.spotify.com/artist/453mSEjGTGcO9idPrxSCkS) | [Father](https://open.spotify.com/album/052C0B2hB66pThBPyTbaaW) | 2:34 | 2025-12-05 | 2026-01-20 |

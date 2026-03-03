@@ -26163,6 +26163,24 @@
     },
     {
       "album": {
+        "name": "Rave Forever",
+        "url": "https://open.spotify.com/album/1vDCAW4I5XH1EaU1a7wMba"
+      },
+      "artists": [
+        {
+          "name": "Tiscore",
+          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137454,
+      "name": "Rave Forever",
+      "url": "https://open.spotify.com/track/0NeUSyxAwPPuW6MOrXPcef"
+    },
+    {
+      "album": {
         "name": "Reach For You",
         "url": "https://open.spotify.com/album/4reioH9lNaPq6lFuKH9nBF"
       },

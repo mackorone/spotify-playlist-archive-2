@@ -485,6 +485,24 @@
     },
     {
       "album": {
+        "name": "Azeite de Reserva",
+        "url": "https://open.spotify.com/album/7t1pm0qHvyeaJQEP2VFiXA"
+      },
+      "artists": [
+        {
+          "name": "Thalita Roberta",
+          "url": "https://open.spotify.com/artist/1yZUa312JkTmgQCEzp8QTc"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213548,
+      "name": "Azeite de Reserva",
+      "url": "https://open.spotify.com/track/6APGkiewBw2JUNKvnIoYDJ"
+    },
+    {
+      "album": {
         "name": "Basta uma Palavra",
         "url": "https://open.spotify.com/album/1ZgQqx0JZRWhsRFwluUwlk"
       },
@@ -2638,7 +2656,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 275409,
       "name": "L\u00e1grimas de Vit\u00f3ria - Ao Vivo em Salvador",
       "url": "https://open.spotify.com/track/2pE1QPviMa6n9HAXx8tdDD"

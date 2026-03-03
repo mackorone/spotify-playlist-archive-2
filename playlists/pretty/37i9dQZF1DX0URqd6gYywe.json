@@ -1,6 +1,6 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: RAMMA & Cindy Cats",
-  "num_followers": 169425,
+  "num_followers": 169443,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "Nunca Lo Olvides",
-        "url": "https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 299810,
-      "name": "Nunca Lo Olvides",
-      "url": "https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
         "name": "Antihumano",
         "url": "https://open.spotify.com/album/3NsuNDcnIc0jAxpC9svIbz"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 259186,
       "name": "Arrancacorazones",
       "url": "https://open.spotify.com/track/2zogXcCqvKJwh3o67W3GG3"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
+        "name": "Nunca Lo Olvides",
+        "url": "https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 299810,
+      "name": "Nunca Lo Olvides",
+      "url": "https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
-        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 212880,
-      "name": "Spaghetti del Rock",
-      "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
         "name": "Verte De Cerca",
         "url": "https://open.spotify.com/album/3R4rjFVmhme3gYwdRXTaSD"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 183500,
       "name": "Verte De Cerca",
       "url": "https://open.spotify.com/track/1lBtesQvkn4IC5RSl8oTaE"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
+        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
+        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 212880,
+      "name": "Spaghetti del Rock",
+      "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "PARADISO",
-        "url": "https://open.spotify.com/album/0S3TDFrysfwpXUC8JiDkH9"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 229206,
-      "name": "No Entiendo Si Es Amor",
-      "url": "https://open.spotify.com/track/7wAkMxOFYWDhIfisoNJiUy"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
         "name": "Ac\u00fastico Gran Rex",
         "url": "https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 276853,
       "name": "Pasan las Horas - En Vivo Ac\u00fastico",
       "url": "https://open.spotify.com/track/4PZVup7z7oXGhwvzsygBMw"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
+        "name": "PARADISO",
+        "url": "https://open.spotify.com/album/0S3TDFrysfwpXUC8JiDkH9"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 229206,
+      "name": "No Entiendo Si Es Amor",
+      "url": "https://open.spotify.com/track/7wAkMxOFYWDhIfisoNJiUy"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "La Paciencia De La Ara\u00f1a",
-        "url": "https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41"
-      },
-      "artists": [
-        {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
-        }
-      ],
-      "duration_ms": 317066,
-      "name": "Oxidado",
-      "url": "https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
         "name": "Hay Momentos (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6FKHKWtyIN49H0PHIiHhpG"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 279684,
       "name": "Hay Momentos - Ac\u00fastico",
       "url": "https://open.spotify.com/track/19KbiCmPqcAcG3sYMrWPzN"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
+        "name": "La Paciencia De La Ara\u00f1a",
+        "url": "https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41"
+      },
+      "artists": [
+        {
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+        }
+      ],
+      "duration_ms": 317066,
+      "name": "Oxidado",
+      "url": "https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
+        "name": "Devorador De Corazones",
+        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
+      },
+      "artists": [
+        {
+          "name": "La Portuaria",
+          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
+        }
+      ],
+      "duration_ms": 178800,
+      "name": "Nada Es Igual",
+      "url": "https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
         "name": "Fulanos de Nadie",
         "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
       },
@@ -967,38 +983,6 @@
       "duration_ms": 330843,
       "name": "La Noche Eterna (Portal Sessions)",
       "url": "https://open.spotify.com/track/1NSgsMDyyRWVUMcfDRerEg"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
-        "name": "Devorador De Corazones",
-        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
-      },
-      "artists": [
-        {
-          "name": "La Portuaria",
-          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
-        }
-      ],
-      "duration_ms": 178800,
-      "name": "Nada Es Igual",
-      "url": "https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
-        "name": "Roto",
-        "url": "https://open.spotify.com/album/06cMimO1BixYYuhsyNwXPV"
-      },
-      "artists": [
-        {
-          "name": "Cruzando El Charco",
-          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Roto",
-      "url": "https://open.spotify.com/track/0G0qz1tF8IgGc2pANlH7X3"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
+        "name": "Roto",
+        "url": "https://open.spotify.com/album/06cMimO1BixYYuhsyNwXPV"
+      },
+      "artists": [
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Roto",
+      "url": "https://open.spotify.com/track/0G0qz1tF8IgGc2pANlH7X3"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
         "name": "Artificio",
         "url": "https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP"
       },
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "Pensamientos",
-        "url": "https://open.spotify.com/album/2RYIfoNF29kFoR60jOpaHf"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 233839,
-      "name": "Pensamientos",
-      "url": "https://open.spotify.com/track/1daUWaMsFC5RM4HKydKJoG"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
         "name": "Sol en Cinco",
         "url": "https://open.spotify.com/album/3PRvVLAu5xKxYa9o4lK04S"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 328813,
       "name": "Nada es para siempre",
       "url": "https://open.spotify.com/track/73J1IrrirnxKM6wk5JfIcV"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
+        "name": "Pensamientos",
+        "url": "https://open.spotify.com/album/2RYIfoNF29kFoR60jOpaHf"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 233839,
+      "name": "Pensamientos",
+      "url": "https://open.spotify.com/track/1daUWaMsFC5RM4HKydKJoG"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "CORRENTADA",
-        "url": "https://open.spotify.com/album/3yWOpyyG9Plm2O1Y7uD4Gh"
+        "name": "Seremos Idiotas",
+        "url": "https://open.spotify.com/album/0pOxQBxRyfjv2Wck4qTM3I"
       },
       "artists": [
         {
-          "name": "El Plan De La Mariposa",
-          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+          "name": "Francisca y Los Exploradores",
+          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
         }
       ],
-      "duration_ms": 214952,
-      "name": "Fuego de Febrero",
-      "url": "https://open.spotify.com/track/5QnnbCGngds8lyDAJi3jSc"
+      "duration_ms": 197790,
+      "name": "Seremos Idiotas",
+      "url": "https://open.spotify.com/track/1uOCSlsvSXdAc04f4vDsrE"
     }
   ],
   "unique_name": "Baladas Rock",

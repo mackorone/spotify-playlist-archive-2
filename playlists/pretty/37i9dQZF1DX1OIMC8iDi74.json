@@ -1,6 +1,6 @@
 {
   "description": "The best of electronic trap \ud83d\udc51 with TroyBoi",
-  "num_followers": 882034,
+  "num_followers": 882027,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2026-02-27 20:58:36",
       "album": {
-        "name": "DOOM",
-        "url": "https://open.spotify.com/album/4TxFxkekKZ0tBtcezdyeHB"
-      },
-      "artists": [
-        {
-          "name": "Getter",
-          "url": "https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA"
-        },
-        {
-          "name": "Shakewell",
-          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
-        }
-      ],
-      "duration_ms": 251076,
-      "name": "STAB UP (feat. Shakewell)",
-      "url": "https://open.spotify.com/track/0kGpfbVDi9K8srRsJBeVla"
-    },
-    {
-      "added_at": "2026-02-27 20:58:36",
-      "album": {
         "name": "FREAK NASTY (THE REMIXES)",
         "url": "https://open.spotify.com/album/0Mq7L6tEy9Z2Bm7Ej1t418"
       },
@@ -1243,22 +1223,6 @@
       "duration_ms": 150857,
       "name": "FREAK NASTY - VIP",
       "url": "https://open.spotify.com/track/5SASuUShXD7jNtO2MIpl7Q"
-    },
-    {
-      "added_at": "2026-02-27 20:58:36",
-      "album": {
-        "name": "LOUDER",
-        "url": "https://open.spotify.com/album/5klX6dXCGsRln0N4t6pHEr"
-      },
-      "artists": [
-        {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
-        }
-      ],
-      "duration_ms": 132080,
-      "name": "LOUDER",
-      "url": "https://open.spotify.com/track/3tUl81O1ilB0U3H63kcNiy"
     },
     {
       "added_at": "2026-02-27 20:58:36",
@@ -1283,6 +1247,42 @@
       "duration_ms": 212571,
       "name": "Blue Mile",
       "url": "https://open.spotify.com/track/5EIyuLTiZwAmmlsqxdLJC0"
+    },
+    {
+      "added_at": "2026-02-27 20:58:36",
+      "album": {
+        "name": "DOOM",
+        "url": "https://open.spotify.com/album/4TxFxkekKZ0tBtcezdyeHB"
+      },
+      "artists": [
+        {
+          "name": "Getter",
+          "url": "https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA"
+        },
+        {
+          "name": "Shakewell",
+          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
+        }
+      ],
+      "duration_ms": 251076,
+      "name": "STAB UP (feat. Shakewell)",
+      "url": "https://open.spotify.com/track/0kGpfbVDi9K8srRsJBeVla"
+    },
+    {
+      "added_at": "2026-02-27 20:58:36",
+      "album": {
+        "name": "LOUDER",
+        "url": "https://open.spotify.com/album/5klX6dXCGsRln0N4t6pHEr"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        }
+      ],
+      "duration_ms": 132080,
+      "name": "LOUDER",
+      "url": "https://open.spotify.com/track/3tUl81O1ilB0U3H63kcNiy"
     },
     {
       "added_at": "2026-02-27 20:58:36",
@@ -1327,6 +1327,26 @@
     {
       "added_at": "2026-02-27 20:58:36",
       "album": {
+        "name": "JUMP OUT",
+        "url": "https://open.spotify.com/album/6mpYRkvCqbmNkmYlEBOMhQ"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "JUMP OUT",
+      "url": "https://open.spotify.com/track/5U0uFS6xvx7UCskac6yUF0"
+    },
+    {
+      "added_at": "2026-02-27 20:58:36",
+      "album": {
         "name": "Hey Homie: The Remixes",
         "url": "https://open.spotify.com/album/7KGyPrNQviJXxY2wjQjLTC"
       },
@@ -1363,22 +1383,18 @@
     {
       "added_at": "2026-02-27 20:58:36",
       "album": {
-        "name": "JUMP OUT",
-        "url": "https://open.spotify.com/album/6mpYRkvCqbmNkmYlEBOMhQ"
+        "name": "EGO! (TAKE IT BACK)",
+        "url": "https://open.spotify.com/album/4pN2JLXN7tfiirnp2Ifl3X"
       },
       "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
         {
           "name": "Juelz",
           "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
         }
       ],
-      "duration_ms": 145714,
-      "name": "JUMP OUT",
-      "url": "https://open.spotify.com/track/5U0uFS6xvx7UCskac6yUF0"
+      "duration_ms": 209464,
+      "name": "EGO! (TAKE IT BACK)",
+      "url": "https://open.spotify.com/track/0f2BL1gqLqHg3SGkBf7VoY"
     },
     {
       "added_at": "2026-02-27 20:58:36",
@@ -1399,22 +1415,6 @@
       "duration_ms": 168857,
       "name": "ALLNIGHTER",
       "url": "https://open.spotify.com/track/2aKPAURjIBg4SZ8U4wsVnm"
-    },
-    {
-      "added_at": "2026-02-27 20:58:36",
-      "album": {
-        "name": "EGO! (TAKE IT BACK)",
-        "url": "https://open.spotify.com/album/4pN2JLXN7tfiirnp2Ifl3X"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        }
-      ],
-      "duration_ms": 209464,
-      "name": "EGO! (TAKE IT BACK)",
-      "url": "https://open.spotify.com/track/0f2BL1gqLqHg3SGkBf7VoY"
     },
     {
       "added_at": "2026-02-27 20:58:36",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-02-27 20:58:36",
       "album": {
-        "name": "Dead To Me",
-        "url": "https://open.spotify.com/album/34OpgsgQ6B578xOcX2IYg5"
-      },
-      "artists": [
-        {
-          "name": "Viperactive",
-          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
-        }
-      ],
-      "duration_ms": 179142,
-      "name": "Dead To Me",
-      "url": "https://open.spotify.com/track/2Q4N4dG8jJegNGNgyToYaq"
-    },
-    {
-      "added_at": "2026-02-27 20:58:36",
-      "album": {
         "name": "ADRENOCHROME",
         "url": "https://open.spotify.com/album/4H2abOEiBXEQpNibmwu4Li"
       },
@@ -1515,22 +1499,18 @@
     {
       "added_at": "2026-02-27 20:58:36",
       "album": {
-        "name": "XTC",
-        "url": "https://open.spotify.com/album/0dSAfRmTB8timCZ1XmPpnj"
+        "name": "Dead To Me",
+        "url": "https://open.spotify.com/album/34OpgsgQ6B578xOcX2IYg5"
       },
       "artists": [
         {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        },
-        {
-          "name": "Whyte Fang",
-          "url": "https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt"
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
         }
       ],
-      "duration_ms": 162266,
-      "name": "XTC",
-      "url": "https://open.spotify.com/track/4BZDFSkvQHfvM1MoWbCLSR"
+      "duration_ms": 179142,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/2Q4N4dG8jJegNGNgyToYaq"
     },
     {
       "added_at": "2026-02-27 20:58:36",
@@ -1555,6 +1535,26 @@
     {
       "added_at": "2026-02-27 20:58:36",
       "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/0dSAfRmTB8timCZ1XmPpnj"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Whyte Fang",
+          "url": "https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt"
+        }
+      ],
+      "duration_ms": 162266,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/4BZDFSkvQHfvM1MoWbCLSR"
+    },
+    {
+      "added_at": "2026-02-27 20:58:36",
+      "album": {
         "name": "GO BACK (We Can't)",
         "url": "https://open.spotify.com/album/1Vomcw2K16iHH2KkkojTrZ"
       },
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-02-27 20:58:36",
       "album": {
-        "name": "Snakebite",
-        "url": "https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN"
-      },
-      "artists": [
-        {
-          "name": "Viperactive",
-          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Snakebite",
-      "url": "https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy"
-    },
-    {
-      "added_at": "2026-02-27 20:58:36",
-      "album": {
         "name": "DOPAMINE++",
         "url": "https://open.spotify.com/album/6eMsuTTLUDP2IyUpniYuqF"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 202285,
       "name": "DOPAMINE++",
       "url": "https://open.spotify.com/track/22ruxNj3CULTE2dAM1r9aw"
+    },
+    {
+      "added_at": "2026-02-27 20:58:36",
+      "album": {
+        "name": "Snakebite",
+        "url": "https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN"
+      },
+      "artists": [
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Snakebite",
+      "url": "https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy"
     },
     {
       "added_at": "2026-02-27 20:58:36",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2026-02-27 20:58:36",
       "album": {
-        "name": "Get Off The Internet",
-        "url": "https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV"
-      },
-      "artists": [
-        {
-          "name": "Eliminate",
-          "url": "https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "EGOTRIP",
-      "url": "https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg"
-    },
-    {
-      "added_at": "2026-02-27 20:58:36",
-      "album": {
         "name": "ADRENOCHROME : ZERO",
         "url": "https://open.spotify.com/album/1XcFeU8EviCIDffkzBGZpa"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 195310,
       "name": "Sometimes / DOPAMINE++++",
       "url": "https://open.spotify.com/track/0e7RwCcU9gN6XbrW44jVaF"
+    },
+    {
+      "added_at": "2026-02-27 20:58:36",
+      "album": {
+        "name": "Get Off The Internet",
+        "url": "https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV"
+      },
+      "artists": [
+        {
+          "name": "Eliminate",
+          "url": "https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "EGOTRIP",
+      "url": "https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg"
     },
     {
       "added_at": "2026-02-27 20:58:36",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2026-02-27 20:58:36",
       "album": {
+        "name": "Anxious",
+        "url": "https://open.spotify.com/album/2fvpGsmXuNd24IC3gEABHU"
+      },
+      "artists": [
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        }
+      ],
+      "duration_ms": 142204,
+      "name": "Anxious",
+      "url": "https://open.spotify.com/track/0aIZGMXxGwKfkIOwiTzY82"
+    },
+    {
+      "added_at": "2026-02-27 20:58:36",
+      "album": {
         "name": "GO!",
         "url": "https://open.spotify.com/album/2ceqIvXa5nWgTq79Mzeq5t"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 141517,
       "name": "GO!",
       "url": "https://open.spotify.com/track/6mwrQ7UyriEE3P2DVUZzke"
-    },
-    {
-      "added_at": "2026-02-27 20:58:36",
-      "album": {
-        "name": "Anxious",
-        "url": "https://open.spotify.com/album/2fvpGsmXuNd24IC3gEABHU"
-      },
-      "artists": [
-        {
-          "name": "Viperactive",
-          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
-        }
-      ],
-      "duration_ms": 142204,
-      "name": "Anxious",
-      "url": "https://open.spotify.com/track/0aIZGMXxGwKfkIOwiTzY82"
     },
     {
       "added_at": "2026-02-27 20:58:36",
@@ -1859,26 +1859,6 @@
     {
       "added_at": "2026-02-27 20:58:36",
       "album": {
-        "name": "AHORA",
-        "url": "https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu"
-      },
-      "artists": [
-        {
-          "name": "Jon Casey",
-          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
-        },
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        }
-      ],
-      "duration_ms": 145655,
-      "name": "AHORA",
-      "url": "https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL"
-    },
-    {
-      "added_at": "2026-02-27 20:58:36",
-      "album": {
         "name": "Bassline Flexa",
         "url": "https://open.spotify.com/album/2tUzlYkAW8m1PzA3DEgGu1"
       },
@@ -1899,22 +1879,42 @@
     {
       "added_at": "2026-02-27 20:58:36",
       "album": {
-        "name": "Burn For You",
-        "url": "https://open.spotify.com/album/10TlIL9zil6BfNcSF3jBuD"
+        "name": "AHORA",
+        "url": "https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu"
       },
       "artists": [
         {
-          "name": "STUCA",
-          "url": "https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb"
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
         },
         {
-          "name": "RayJhin",
-          "url": "https://open.spotify.com/artist/1Qt9Dc7m0ewnea08te3FvF"
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
         }
       ],
-      "duration_ms": 222857,
-      "name": "Burn For You",
-      "url": "https://open.spotify.com/track/7p4PjjO0d9Y8HgVZ7ptT3g"
+      "duration_ms": 145655,
+      "name": "AHORA",
+      "url": "https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL"
+    },
+    {
+      "added_at": "2026-02-27 20:58:36",
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/4Mg7IY3Ig2Db5L7oOsSA58"
+      },
+      "artists": [
+        {
+          "name": "Deadcrow",
+          "url": "https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE"
+        },
+        {
+          "name": "Caster",
+          "url": "https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox"
+        }
+      ],
+      "duration_ms": 158896,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/6i3DFYvbMIfPnljlyXkR0N"
     }
   ],
   "unique_name": "Trap Mojito",

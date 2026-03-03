@@ -589,6 +589,28 @@
     },
     {
       "album": {
+        "name": "The Blues World of Little Walter",
+        "url": "https://open.spotify.com/album/3NzQaClgqpr55xWfxNrGm9"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        },
+        {
+          "name": "Baby Face Leroy Foster",
+          "url": "https://open.spotify.com/artist/1zqbbuhdv0wyMcaLmauCvQ"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176800,
+      "name": "I Just Keep Loving Her",
+      "url": "https://open.spotify.com/track/2eR5S5L0H7rJRrZaoboKfD"
+    },
+    {
+      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },

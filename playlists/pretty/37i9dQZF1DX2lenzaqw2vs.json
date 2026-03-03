@@ -1,6 +1,6 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Ruzzi",
-  "num_followers": 137176,
+  "num_followers": 137172,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
@@ -399,18 +399,18 @@
     {
       "added_at": "2026-02-13 05:00:43",
       "album": {
-        "name": "Tiene Que Ser Para M\u00ed",
-        "url": "https://open.spotify.com/album/2J5ARQTTYCX2j7WTDA6HKK"
+        "name": "Clich\u00e9s",
+        "url": "https://open.spotify.com/album/1HX7p55GnAwv6kPb9m0Qs9"
       },
       "artists": [
         {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
         }
       ],
-      "duration_ms": 151786,
-      "name": "Muchas Cosas",
-      "url": "https://open.spotify.com/track/1DHrUYdgRoAptl0DFOCyuj"
+      "duration_ms": 224066,
+      "name": "Imagina",
+      "url": "https://open.spotify.com/track/4Fe2oAGo6fmPVwBNkbEdw1"
     },
     {
       "added_at": "2026-02-13 05:00:43",
@@ -447,18 +447,18 @@
     {
       "added_at": "2026-02-13 05:00:43",
       "album": {
-        "name": "Clich\u00e9s",
-        "url": "https://open.spotify.com/album/1HX7p55GnAwv6kPb9m0Qs9"
+        "name": "Tiene Que Ser Para M\u00ed",
+        "url": "https://open.spotify.com/album/2J5ARQTTYCX2j7WTDA6HKK"
       },
       "artists": [
         {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
         }
       ],
-      "duration_ms": 224066,
-      "name": "Imagina",
-      "url": "https://open.spotify.com/track/4Fe2oAGo6fmPVwBNkbEdw1"
+      "duration_ms": 151786,
+      "name": "Muchas Cosas",
+      "url": "https://open.spotify.com/track/1DHrUYdgRoAptl0DFOCyuj"
     },
     {
       "added_at": "2026-02-13 05:00:43",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-02-13 05:00:43",
       "album": {
-        "name": "La Sustancia X",
-        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
-      },
-      "artists": [
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 176960,
-      "name": "C\u00e1scara de Coco",
-      "url": "https://open.spotify.com/track/0IPoG1zyHibWHm3ACZdgBP"
-    },
-    {
-      "added_at": "2026-02-13 05:00:43",
-      "album": {
         "name": "Fugitivo",
         "url": "https://open.spotify.com/album/1V0Tqj5kxCGZ4Fr6l32pVn"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 160941,
       "name": "Fugitivo",
       "url": "https://open.spotify.com/track/6IWHrUE6laQtlobaAN0IKb"
+    },
+    {
+      "added_at": "2026-02-13 05:00:43",
+      "album": {
+        "name": "La Sustancia X",
+        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 176960,
+      "name": "C\u00e1scara de Coco",
+      "url": "https://open.spotify.com/track/0IPoG1zyHibWHm3ACZdgBP"
     },
     {
       "added_at": "2026-02-13 05:00:43",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2026-02-13 05:00:43",
       "album": {
+        "name": "De Brujas, Peteneras y Chachalacas",
+        "url": "https://open.spotify.com/album/1oqhkbPFH04GnzVwO3nFJX"
+      },
+      "artists": [
+        {
+          "name": "La Bruja de Texcoco",
+          "url": "https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu"
+        }
+      ],
+      "duration_ms": 397520,
+      "name": "T\u00e9 de Malv\u00f3n",
+      "url": "https://open.spotify.com/track/3BYSoeWlqUgIwfY77C8VgE"
+    },
+    {
+      "added_at": "2026-02-13 05:00:43",
+      "album": {
         "name": "Voy en Auto",
         "url": "https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 178686,
       "name": "Voy en Auto",
       "url": "https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F"
-    },
-    {
-      "added_at": "2026-02-13 05:00:43",
-      "album": {
-        "name": "De Brujas, Peteneras y Chachalacas",
-        "url": "https://open.spotify.com/album/1oqhkbPFH04GnzVwO3nFJX"
-      },
-      "artists": [
-        {
-          "name": "La Bruja de Texcoco",
-          "url": "https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu"
-        }
-      ],
-      "duration_ms": 397520,
-      "name": "T\u00e9 de Malv\u00f3n",
-      "url": "https://open.spotify.com/track/3BYSoeWlqUgIwfY77C8VgE"
     },
     {
       "added_at": "2026-02-13 05:00:43",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2026-02-13 05:00:43",
       "album": {
-        "name": "t hice gay :$",
-        "url": "https://open.spotify.com/album/4dt3wCNCFuyW05pymEXyF9"
+        "name": "Amor, Locura & Otros Vicios",
+        "url": "https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD"
       },
       "artists": [
         {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+          "name": "Ni\u00f1a Dioz",
+          "url": "https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0"
         }
       ],
-      "duration_ms": 165874,
-      "name": "t hice gay :$",
-      "url": "https://open.spotify.com/track/1DUN1BbGpJGOKx0EuD9wHt"
+      "duration_ms": 170160,
+      "name": "Brillo",
+      "url": "https://open.spotify.com/track/6AiM0XGlc0R03v2Z1wlTWn"
     },
     {
       "added_at": "2026-02-13 05:00:43",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2026-02-13 05:00:43",
       "album": {
-        "name": "Amor, Locura & Otros Vicios",
-        "url": "https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD"
+        "name": "t hice gay :$",
+        "url": "https://open.spotify.com/album/4dt3wCNCFuyW05pymEXyF9"
       },
       "artists": [
         {
-          "name": "Ni\u00f1a Dioz",
-          "url": "https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0"
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
         }
       ],
-      "duration_ms": 170160,
-      "name": "Brillo",
-      "url": "https://open.spotify.com/track/6AiM0XGlc0R03v2Z1wlTWn"
+      "duration_ms": 165874,
+      "name": "t hice gay :$",
+      "url": "https://open.spotify.com/track/1DUN1BbGpJGOKx0EuD9wHt"
     },
     {
       "added_at": "2026-02-13 05:00:43",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-02-13 05:00:43",
       "album": {
-        "name": "Drama Pop",
-        "url": "https://open.spotify.com/album/6R4OZmoA8oEf2E2fyeUfkR"
-      },
-      "artists": [
-        {
-          "name": "DANI RIDE",
-          "url": "https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6"
-        }
-      ],
-      "duration_ms": 206497,
-      "name": "Sentirme Amante",
-      "url": "https://open.spotify.com/track/4XZxkvm2ZLGwVwD1KlxFev"
-    },
-    {
-      "added_at": "2026-02-13 05:00:43",
-      "album": {
         "name": "Soy Asi",
         "url": "https://open.spotify.com/album/6LKhRfBpI3Osjue9OgxWUl"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 232362,
       "name": "Soy Asi",
       "url": "https://open.spotify.com/track/7qYCZTW9lkTYqvmat6S3RJ"
+    },
+    {
+      "added_at": "2026-02-13 05:00:43",
+      "album": {
+        "name": "Drama Pop",
+        "url": "https://open.spotify.com/album/6R4OZmoA8oEf2E2fyeUfkR"
+      },
+      "artists": [
+        {
+          "name": "DANI RIDE",
+          "url": "https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6"
+        }
+      ],
+      "duration_ms": 206497,
+      "name": "Sentirme Amante",
+      "url": "https://open.spotify.com/track/4XZxkvm2ZLGwVwD1KlxFev"
     },
     {
       "added_at": "2026-02-13 05:00:43",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-02-13 05:00:43",
       "album": {
-        "name": "La isla de Lesbos",
-        "url": "https://open.spotify.com/album/41Q1mE9hPIXOPuKJlB15FO"
-      },
-      "artists": [
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 189400,
-      "name": "La isla de Lesbos",
-      "url": "https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR"
-    },
-    {
-      "added_at": "2026-02-13 05:00:43",
-      "album": {
         "name": "Uno de nosotros (feat. Javiera Mena)",
         "url": "https://open.spotify.com/album/18I7niIiTfGvgJ2rEtdKq3"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 249518,
       "name": "Unx de nosotrxs (feat. Javiera Mena)",
       "url": "https://open.spotify.com/track/7yVGw6fxhYPOLsD9BPWXnA"
+    },
+    {
+      "added_at": "2026-02-13 05:00:43",
+      "album": {
+        "name": "La isla de Lesbos",
+        "url": "https://open.spotify.com/album/41Q1mE9hPIXOPuKJlB15FO"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 189400,
+      "name": "La isla de Lesbos",
+      "url": "https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR"
     },
     {
       "added_at": "2026-02-13 05:00:43",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-02-13 05:00:43",
       "album": {
+        "name": "TORQUE: Vol. 1",
+        "url": "https://open.spotify.com/album/1GTyjbV1GQXFWjOCDsmNne"
+      },
+      "artists": [
+        {
+          "name": "Mabiland",
+          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
+        }
+      ],
+      "duration_ms": 171857,
+      "name": "Fue",
+      "url": "https://open.spotify.com/track/4NmkoTBB02LmKn8GdvOLUN"
+    },
+    {
+      "added_at": "2026-02-13 05:00:43",
+      "album": {
         "name": "A La Playa",
         "url": "https://open.spotify.com/album/00FBTtbNuQhQqSGIMNSHjU"
       },
@@ -1419,18 +1435,18 @@
     {
       "added_at": "2026-02-13 05:00:43",
       "album": {
-        "name": "TORQUE: Vol. 1",
-        "url": "https://open.spotify.com/album/1GTyjbV1GQXFWjOCDsmNne"
+        "name": "KONFESSION",
+        "url": "https://open.spotify.com/album/2zZRUziQkAx4BB2WY6TGNe"
       },
       "artists": [
         {
-          "name": "Mabiland",
-          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
+          "name": "Matt Louis",
+          "url": "https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX"
         }
       ],
-      "duration_ms": 171857,
-      "name": "Fue",
-      "url": "https://open.spotify.com/track/4NmkoTBB02LmKn8GdvOLUN"
+      "duration_ms": 178276,
+      "name": "KONFESSION",
+      "url": "https://open.spotify.com/track/21K0dvMfZvLzo0zwbDdm5V"
     },
     {
       "added_at": "2026-02-13 05:00:43",
@@ -1455,22 +1471,6 @@
       "duration_ms": 194043,
       "name": "Canciones de Amor",
       "url": "https://open.spotify.com/track/1RjmeNxL0KNM0KTH8aySAO"
-    },
-    {
-      "added_at": "2026-02-13 05:00:43",
-      "album": {
-        "name": "KONFESSION",
-        "url": "https://open.spotify.com/album/2zZRUziQkAx4BB2WY6TGNe"
-      },
-      "artists": [
-        {
-          "name": "Matt Louis",
-          "url": "https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX"
-        }
-      ],
-      "duration_ms": 178276,
-      "name": "KONFESSION",
-      "url": "https://open.spotify.com/track/21K0dvMfZvLzo0zwbDdm5V"
     },
     {
       "added_at": "2026-02-13 05:00:43",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-02-13 05:00:43",
       "album": {
-        "name": "Lesbihonest",
-        "url": "https://open.spotify.com/album/5C5rCLBjwHPNF112Xuea9t"
-      },
-      "artists": [
-        {
-          "name": "Macha Kiddo",
-          "url": "https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "Besos",
-      "url": "https://open.spotify.com/track/0WIOsnOOJlIDN095VDlSOk"
-    },
-    {
-      "added_at": "2026-02-13 05:00:43",
-      "album": {
         "name": "T\u00fa",
         "url": "https://open.spotify.com/album/0xSXHBOzeTzGGUhE2TIpS9"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 184800,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/60GyTuWqPpeLqhVGaxIAAB"
+    },
+    {
+      "added_at": "2026-02-13 05:00:43",
+      "album": {
+        "name": "Lesbihonest",
+        "url": "https://open.spotify.com/album/5C5rCLBjwHPNF112Xuea9t"
+      },
+      "artists": [
+        {
+          "name": "Macha Kiddo",
+          "url": "https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "Besos",
+      "url": "https://open.spotify.com/track/0WIOsnOOJlIDN095VDlSOk"
     },
     {
       "added_at": "2026-02-13 05:00:43",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2026-02-13 05:00:43",
       "album": {
+        "name": "NO BINARIA",
+        "url": "https://open.spotify.com/album/3HMNc1vhNdAoiIlmz3EWtA"
+      },
+      "artists": [
+        {
+          "name": "vf7",
+          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
+        }
+      ],
+      "duration_ms": 131416,
+      "name": "NO BINARIA",
+      "url": "https://open.spotify.com/track/1jYS776XZAbypmf7pwP6yQ"
+    },
+    {
+      "added_at": "2026-02-13 05:00:43",
+      "album": {
         "name": "BESO",
         "url": "https://open.spotify.com/album/7GEfZW09vl961ZITVYQxYW"
       },
@@ -1607,18 +1623,18 @@
     {
       "added_at": "2026-02-13 05:00:43",
       "album": {
-        "name": "NO BINARIA",
-        "url": "https://open.spotify.com/album/3HMNc1vhNdAoiIlmz3EWtA"
+        "name": "As\u00ed Me Siento Hoy",
+        "url": "https://open.spotify.com/album/0kefZe88v1Muy6YFe0adCe"
       },
       "artists": [
         {
-          "name": "vf7",
-          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
+          "name": "nic",
+          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
         }
       ],
-      "duration_ms": 131416,
-      "name": "NO BINARIA",
-      "url": "https://open.spotify.com/track/1jYS776XZAbypmf7pwP6yQ"
+      "duration_ms": 155159,
+      "name": "me gusta que me gustes",
+      "url": "https://open.spotify.com/track/5gQvExQc6zyJnI11AoNJMM"
     },
     {
       "added_at": "2026-02-13 05:00:43",
@@ -1639,22 +1655,6 @@
       "duration_ms": 195048,
       "name": "Don't Let Me Go",
       "url": "https://open.spotify.com/track/4bCZHjTRVlWOxoOIcz4sx4"
-    },
-    {
-      "added_at": "2026-02-13 05:00:43",
-      "album": {
-        "name": "As\u00ed Me Siento Hoy",
-        "url": "https://open.spotify.com/album/0kefZe88v1Muy6YFe0adCe"
-      },
-      "artists": [
-        {
-          "name": "nic",
-          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
-        }
-      ],
-      "duration_ms": 155159,
-      "name": "me gusta que me gustes",
-      "url": "https://open.spotify.com/track/5gQvExQc6zyJnI11AoNJMM"
     },
     {
       "added_at": "2026-02-13 05:00:43",

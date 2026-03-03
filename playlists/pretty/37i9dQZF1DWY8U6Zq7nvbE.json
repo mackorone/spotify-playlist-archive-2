@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 2445731,
+  "num_followers": 2445866,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2026-02-06 14:41:50",
       "album": {
-        "name": "Hands To Myself",
-        "url": "https://open.spotify.com/album/22F8uvXf7OYOoWxa2zKJdI"
-      },
-      "artists": [
-        {
-          "name": "Kim & Otto",
-          "url": "https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td"
-        }
-      ],
-      "duration_ms": 189600,
-      "name": "Hands To Myself",
-      "url": "https://open.spotify.com/track/3pZmWRdZfUMGgxQrEhTRKG"
-    },
-    {
-      "added_at": "2026-02-06 14:41:50",
-      "album": {
         "name": "Pink Pony Club",
         "url": "https://open.spotify.com/album/2pQ0Ls61JrqtTY4ZTZkQiw"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 196164,
       "name": "Pink Pony Club",
       "url": "https://open.spotify.com/track/79ketFeLc2HSIYqLge8hb9"
+    },
+    {
+      "added_at": "2026-02-06 14:41:50",
+      "album": {
+        "name": "Hands To Myself",
+        "url": "https://open.spotify.com/album/22F8uvXf7OYOoWxa2zKJdI"
+      },
+      "artists": [
+        {
+          "name": "Kim & Otto",
+          "url": "https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "Hands To Myself",
+      "url": "https://open.spotify.com/track/3pZmWRdZfUMGgxQrEhTRKG"
     },
     {
       "added_at": "2026-02-06 14:41:50",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-02-06 14:41:50",
       "album": {
-        "name": "Habits (Stay High)",
-        "url": "https://open.spotify.com/album/0ETh59PJQx7TpO7xkJNBYm"
-      },
-      "artists": [
-        {
-          "name": "Alice Nordstrom",
-          "url": "https://open.spotify.com/artist/6tZEMBPWeYyxYIKEubuJD3"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Habits (Stay High)",
-      "url": "https://open.spotify.com/track/4trkclJUGWRuXo1mlPLSAR"
-    },
-    {
-      "added_at": "2026-02-06 14:41:50",
-      "album": {
         "name": "Overpass Graffiti",
         "url": "https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC"
       },
@@ -251,18 +235,34 @@
     {
       "added_at": "2026-02-06 14:41:50",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/0gEywDBtvFbB5dqpwTOK6r"
+        "name": "Habits (Stay High)",
+        "url": "https://open.spotify.com/album/0ETh59PJQx7TpO7xkJNBYm"
       },
       "artists": [
         {
-          "name": "Simon Sage",
-          "url": "https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz"
+          "name": "Alice Nordstrom",
+          "url": "https://open.spotify.com/artist/6tZEMBPWeYyxYIKEubuJD3"
         }
       ],
-      "duration_ms": 132024,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/3bgtpRltZVISs1jo7ouspO"
+      "duration_ms": 228000,
+      "name": "Habits (Stay High)",
+      "url": "https://open.spotify.com/track/4trkclJUGWRuXo1mlPLSAR"
+    },
+    {
+      "added_at": "2026-02-06 14:41:50",
+      "album": {
+        "name": "BLACKBIRD",
+        "url": "https://open.spotify.com/album/2Zm5k1FWYAyl1AdjWy0vsW"
+      },
+      "artists": [
+        {
+          "name": "JML",
+          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
+        }
+      ],
+      "duration_ms": 128009,
+      "name": "BLACKBIRD",
+      "url": "https://open.spotify.com/track/332d9YxpG0xw4TKu6PwDCr"
     },
     {
       "added_at": "2026-02-06 14:41:50",
@@ -283,18 +283,18 @@
     {
       "added_at": "2026-02-06 14:41:50",
       "album": {
-        "name": "BLACKBIRD",
-        "url": "https://open.spotify.com/album/2Zm5k1FWYAyl1AdjWy0vsW"
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/0gEywDBtvFbB5dqpwTOK6r"
       },
       "artists": [
         {
-          "name": "JML",
-          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
+          "name": "Simon Sage",
+          "url": "https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz"
         }
       ],
-      "duration_ms": 128009,
-      "name": "BLACKBIRD",
-      "url": "https://open.spotify.com/track/332d9YxpG0xw4TKu6PwDCr"
+      "duration_ms": 132024,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/3bgtpRltZVISs1jo7ouspO"
     },
     {
       "added_at": "2026-02-06 14:41:50",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-02-06 14:41:50",
       "album": {
-        "name": "Mr. Brightside",
-        "url": "https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z"
-      },
-      "artists": [
-        {
-          "name": "Bailey Jehl",
-          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
-        }
-      ],
-      "duration_ms": 215758,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6"
-    },
-    {
-      "added_at": "2026-02-06 14:41:50",
-      "album": {
         "name": "Latch",
         "url": "https://open.spotify.com/album/1QsdrtvYuAKSDuSyW1VikU"
       },
@@ -375,22 +359,6 @@
       "duration_ms": 197684,
       "name": "Latch",
       "url": "https://open.spotify.com/track/17h05SukjWjPCNWAENwW8U"
-    },
-    {
-      "added_at": "2026-02-06 14:41:50",
-      "album": {
-        "name": "All I Want",
-        "url": "https://open.spotify.com/album/6VSD4fFUQnlmpX7QPrVtIS"
-      },
-      "artists": [
-        {
-          "name": "Rosebud Nash",
-          "url": "https://open.spotify.com/artist/7gB278uEcf8lhALC5DnhuE"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/4tWxWs4sf6EMZqk2Fx2oaE"
     },
     {
       "added_at": "2026-02-06 14:41:50",
@@ -411,18 +379,18 @@
     {
       "added_at": "2026-02-06 14:41:50",
       "album": {
-        "name": "what if",
-        "url": "https://open.spotify.com/album/1W5ECbG8ihdhKRkRpVEWNq"
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/6VSD4fFUQnlmpX7QPrVtIS"
       },
       "artists": [
         {
-          "name": "JML",
-          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
+          "name": "Rosebud Nash",
+          "url": "https://open.spotify.com/artist/7gB278uEcf8lhALC5DnhuE"
         }
       ],
-      "duration_ms": 201666,
-      "name": "what if",
-      "url": "https://open.spotify.com/track/0osUQtTOZphz3EEHOtTKJl"
+      "duration_ms": 198000,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/4tWxWs4sf6EMZqk2Fx2oaE"
     },
     {
       "added_at": "2026-02-06 14:41:50",
@@ -439,6 +407,38 @@
       "duration_ms": 230535,
       "name": "All Star - Acoustic",
       "url": "https://open.spotify.com/track/3h6xSQHGIkM3QyLHS5GD8c"
+    },
+    {
+      "added_at": "2026-02-06 14:41:50",
+      "album": {
+        "name": "what if",
+        "url": "https://open.spotify.com/album/1W5ECbG8ihdhKRkRpVEWNq"
+      },
+      "artists": [
+        {
+          "name": "JML",
+          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "what if",
+      "url": "https://open.spotify.com/track/0osUQtTOZphz3EEHOtTKJl"
+    },
+    {
+      "added_at": "2026-02-06 14:41:50",
+      "album": {
+        "name": "Mr. Brightside",
+        "url": "https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z"
+      },
+      "artists": [
+        {
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
+        }
+      ],
+      "duration_ms": 215758,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6"
     },
     {
       "added_at": "2026-02-06 14:41:50",
@@ -683,18 +683,18 @@
     {
       "added_at": "2026-02-06 14:41:50",
       "album": {
-        "name": "Don't You (Forget About Me)",
-        "url": "https://open.spotify.com/album/2GGSKP9yuyZRAsygbY8prb"
+        "name": "Birds of a Feather",
+        "url": "https://open.spotify.com/album/3lNGPfARQg2ktx9dnSsStt"
       },
       "artists": [
         {
-          "name": "Brassfield",
-          "url": "https://open.spotify.com/artist/4VWdngsndsvJd348vi76I0"
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
         }
       ],
-      "duration_ms": 175122,
-      "name": "Don't You (Forget About Me)",
-      "url": "https://open.spotify.com/track/7cMg25mIUyWRpyiFDTdiPi"
+      "duration_ms": 219120,
+      "name": "Birds of a Feather",
+      "url": "https://open.spotify.com/track/4lg1LJNoqAP5VDPQR4MIyo"
     },
     {
       "added_at": "2026-02-06 14:41:50",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-02-06 14:41:50",
       "album": {
+        "name": "Don't You (Forget About Me)",
+        "url": "https://open.spotify.com/album/2GGSKP9yuyZRAsygbY8prb"
+      },
+      "artists": [
+        {
+          "name": "Brassfield",
+          "url": "https://open.spotify.com/artist/4VWdngsndsvJd348vi76I0"
+        }
+      ],
+      "duration_ms": 175122,
+      "name": "Don't You (Forget About Me)",
+      "url": "https://open.spotify.com/track/7cMg25mIUyWRpyiFDTdiPi"
+    },
+    {
+      "added_at": "2026-02-06 14:41:50",
+      "album": {
         "name": "Little Lies",
         "url": "https://open.spotify.com/album/70ToToyGxWgZ2s745s1CxV"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 197851,
       "name": "Little Lies",
       "url": "https://open.spotify.com/track/1okbqCnEzl9GUddnjNkb19"
-    },
-    {
-      "added_at": "2026-02-06 14:41:50",
-      "album": {
-        "name": "Birds of a Feather",
-        "url": "https://open.spotify.com/album/3lNGPfARQg2ktx9dnSsStt"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 219120,
-      "name": "Birds of a Feather",
-      "url": "https://open.spotify.com/track/4lg1LJNoqAP5VDPQR4MIyo"
     },
     {
       "added_at": "2026-02-06 14:41:50",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-02-06 14:41:50",
       "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 176542,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp"
+    },
+    {
+      "added_at": "2026-02-06 14:41:50",
+      "album": {
         "name": "Heat Waves",
         "url": "https://open.spotify.com/album/4icxeGhI7CsymABWI8RQCb"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 206101,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/7KRDGmyQGgJ1yrehPOJqnE"
-    },
-    {
-      "added_at": "2026-02-06 14:41:50",
-      "album": {
-        "name": "As It Was",
-        "url": "https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 176542,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp"
     },
     {
       "added_at": "2026-02-06 14:41:50",
@@ -891,6 +891,22 @@
     {
       "added_at": "2026-02-06 14:41:50",
       "album": {
+        "name": "I Don't Want To Miss A Thing",
+        "url": "https://open.spotify.com/album/6KvHrixwNkjbvDNeccvPcX"
+      },
+      "artists": [
+        {
+          "name": "Sarah Close",
+          "url": "https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS"
+        }
+      ],
+      "duration_ms": 187286,
+      "name": "I Don't Want To Miss A Thing",
+      "url": "https://open.spotify.com/track/28QoOJZgUI44vB0z9oThfH"
+    },
+    {
+      "added_at": "2026-02-06 14:41:50",
+      "album": {
         "name": "Breathless",
         "url": "https://open.spotify.com/album/4kJIsjIBDje8BRZb6xoVMn"
       },
@@ -923,18 +939,18 @@
     {
       "added_at": "2026-02-06 14:41:50",
       "album": {
-        "name": "I Don't Want To Miss A Thing",
-        "url": "https://open.spotify.com/album/6KvHrixwNkjbvDNeccvPcX"
+        "name": "Just The Two Of Us - Acoustic",
+        "url": "https://open.spotify.com/album/4YL2SB1NKBwkBvMC1k01dz"
       },
       "artists": [
         {
-          "name": "Sarah Close",
-          "url": "https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS"
+          "name": "VDVM",
+          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
         }
       ],
-      "duration_ms": 187286,
-      "name": "I Don't Want To Miss A Thing",
-      "url": "https://open.spotify.com/track/28QoOJZgUI44vB0z9oThfH"
+      "duration_ms": 186008,
+      "name": "Just the Two of Us - Acoustic",
+      "url": "https://open.spotify.com/track/4PF2XC8shB2w4g66MaXyEH"
     },
     {
       "added_at": "2026-02-06 14:41:50",
@@ -967,22 +983,6 @@
       "duration_ms": 172741,
       "name": "Love Or Something Like It",
       "url": "https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp"
-    },
-    {
-      "added_at": "2026-02-06 14:41:50",
-      "album": {
-        "name": "Just The Two Of Us - Acoustic",
-        "url": "https://open.spotify.com/album/4YL2SB1NKBwkBvMC1k01dz"
-      },
-      "artists": [
-        {
-          "name": "VDVM",
-          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
-        }
-      ],
-      "duration_ms": 186008,
-      "name": "Just the Two of Us - Acoustic",
-      "url": "https://open.spotify.com/track/4PF2XC8shB2w4g66MaXyEH"
     },
     {
       "added_at": "2026-02-06 14:41:50",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-02-06 14:41:50",
       "album": {
-        "name": "Let Me Get Close To You",
-        "url": "https://open.spotify.com/album/4CT8wnGqcV82n4fNaAwiPC"
-      },
-      "artists": [
-        {
-          "name": "Roberta Loki",
-          "url": "https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB"
-        }
-      ],
-      "duration_ms": 211058,
-      "name": "Let Me Get Close To You",
-      "url": "https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ"
-    },
-    {
-      "added_at": "2026-02-06 14:41:50",
-      "album": {
         "name": "Got You (Where I Want You)",
         "url": "https://open.spotify.com/album/6sDxOln0tkqDXj8qy6t3Qd"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 193684,
       "name": "Got You (Where I Want You)",
       "url": "https://open.spotify.com/track/35z45zlvjqUF2DLOOYBq4u"
+    },
+    {
+      "added_at": "2026-02-06 14:41:50",
+      "album": {
+        "name": "Let Me Get Close To You",
+        "url": "https://open.spotify.com/album/4CT8wnGqcV82n4fNaAwiPC"
+      },
+      "artists": [
+        {
+          "name": "Roberta Loki",
+          "url": "https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB"
+        }
+      ],
+      "duration_ms": 211058,
+      "name": "Let Me Get Close To You",
+      "url": "https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ"
     },
     {
       "added_at": "2026-02-06 14:41:50",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-02-06 14:41:50",
       "album": {
-        "name": "In The Meantime",
-        "url": "https://open.spotify.com/album/1th9BtaPuSyzyXHcXvqIZk"
-      },
-      "artists": [
-        {
-          "name": "Nora Levario",
-          "url": "https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw"
-        }
-      ],
-      "duration_ms": 178966,
-      "name": "In The Meantime",
-      "url": "https://open.spotify.com/track/36bfoyLUV3h3UXZ7thFMhb"
-    },
-    {
-      "added_at": "2026-02-06 14:41:50",
-      "album": {
         "name": "Because the Night",
         "url": "https://open.spotify.com/album/3eFo0L4Dt442Fbl0F6S7zD"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 242011,
       "name": "Lover",
       "url": "https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5"
+    },
+    {
+      "added_at": "2026-02-06 14:41:50",
+      "album": {
+        "name": "In The Meantime",
+        "url": "https://open.spotify.com/album/1th9BtaPuSyzyXHcXvqIZk"
+      },
+      "artists": [
+        {
+          "name": "Nora Levario",
+          "url": "https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw"
+        }
+      ],
+      "duration_ms": 178966,
+      "name": "In The Meantime",
+      "url": "https://open.spotify.com/track/36bfoyLUV3h3UXZ7thFMhb"
     },
     {
       "added_at": "2026-02-06 14:41:50",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2026-02-06 14:41:50",
       "album": {
+        "name": "Young Folks",
+        "url": "https://open.spotify.com/album/2hRvjklnit9MwpwW6CRJkT"
+      },
+      "artists": [
+        {
+          "name": "everlow",
+          "url": "https://open.spotify.com/artist/6J0QEb88vQc3qthztPSYWd"
+        }
+      ],
+      "duration_ms": 214477,
+      "name": "Young Folks",
+      "url": "https://open.spotify.com/track/4iW29NPjDjXScQvOaUD4DS"
+    },
+    {
+      "added_at": "2026-02-06 14:41:50",
+      "album": {
         "name": "Dance Monkey",
         "url": "https://open.spotify.com/album/21n1KOLGCVWVnqsaaOWqTT"
       },
@@ -1291,6 +1307,22 @@
     {
       "added_at": "2026-02-06 14:41:50",
       "album": {
+        "name": "Never Forget You",
+        "url": "https://open.spotify.com/album/7BFZdaPawpH98vgHFhEors"
+      },
+      "artists": [
+        {
+          "name": "late september",
+          "url": "https://open.spotify.com/artist/6vmXDaMIqG9xlTi4d65wuc"
+        }
+      ],
+      "duration_ms": 191879,
+      "name": "Never Forget You",
+      "url": "https://open.spotify.com/track/7fH1He9bsEfczjdRHxVqmz"
+    },
+    {
+      "added_at": "2026-02-06 14:41:50",
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/5eW7UCMMuW9NlfaOgQSXsn"
       },
@@ -1307,22 +1339,6 @@
     {
       "added_at": "2026-02-06 14:41:50",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/2PMxsiBgRuxfqhj6GlKQV6"
-      },
-      "artists": [
-        {
-          "name": "Kim & Otto",
-          "url": "https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td"
-        }
-      ],
-      "duration_ms": 163812,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/49IWgpr5W24IY1ZnGmSEcT"
-    },
-    {
-      "added_at": "2026-02-06 14:41:50",
-      "album": {
         "name": "Good",
         "url": "https://open.spotify.com/album/0JfWY6oQJ8wrXnPGgsqWTe"
       },
@@ -1335,6 +1351,22 @@
       "duration_ms": 241184,
       "name": "Good",
       "url": "https://open.spotify.com/track/16E5mZkwY5hNR5VAsaCJBI"
+    },
+    {
+      "added_at": "2026-02-06 14:41:50",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/2PMxsiBgRuxfqhj6GlKQV6"
+      },
+      "artists": [
+        {
+          "name": "Kim & Otto",
+          "url": "https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td"
+        }
+      ],
+      "duration_ms": 163812,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/49IWgpr5W24IY1ZnGmSEcT"
     },
     {
       "added_at": "2026-02-06 14:41:50",
@@ -1371,34 +1403,18 @@
     {
       "added_at": "2026-02-06 14:41:50",
       "album": {
-        "name": "Young Folks",
-        "url": "https://open.spotify.com/album/2hRvjklnit9MwpwW6CRJkT"
+        "name": "Cupid",
+        "url": "https://open.spotify.com/album/1xi4Bu9O23yCLn0DR1mi0E"
       },
       "artists": [
         {
-          "name": "everlow",
-          "url": "https://open.spotify.com/artist/6J0QEb88vQc3qthztPSYWd"
+          "name": "seaiiana",
+          "url": "https://open.spotify.com/artist/52J51akbnGAyHpqRDL0Zps"
         }
       ],
-      "duration_ms": 214477,
-      "name": "Young Folks",
-      "url": "https://open.spotify.com/track/4iW29NPjDjXScQvOaUD4DS"
-    },
-    {
-      "added_at": "2026-02-06 14:41:50",
-      "album": {
-        "name": "Never Forget You",
-        "url": "https://open.spotify.com/album/7BFZdaPawpH98vgHFhEors"
-      },
-      "artists": [
-        {
-          "name": "late september",
-          "url": "https://open.spotify.com/artist/6vmXDaMIqG9xlTi4d65wuc"
-        }
-      ],
-      "duration_ms": 191879,
-      "name": "Never Forget You",
-      "url": "https://open.spotify.com/track/7fH1He9bsEfczjdRHxVqmz"
+      "duration_ms": 181111,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/0HW5NpqReqUh6EsPaRTUav"
     },
     {
       "added_at": "2026-02-06 14:41:50",
@@ -1415,22 +1431,6 @@
       "duration_ms": 214260,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/1AOKBOPdN4pnULaZsp362f"
-    },
-    {
-      "added_at": "2026-02-06 14:41:50",
-      "album": {
-        "name": "Cupid",
-        "url": "https://open.spotify.com/album/1xi4Bu9O23yCLn0DR1mi0E"
-      },
-      "artists": [
-        {
-          "name": "seaiiana",
-          "url": "https://open.spotify.com/artist/52J51akbnGAyHpqRDL0Zps"
-        }
-      ],
-      "duration_ms": 181111,
-      "name": "Cupid",
-      "url": "https://open.spotify.com/track/0HW5NpqReqUh6EsPaRTUav"
     },
     {
       "added_at": "2026-02-06 14:41:50",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-02-06 14:41:50",
       "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/3ZSjHPyJ3NnbtH271F2kWe"
-      },
-      "artists": [
-        {
-          "name": "Theresa Chase",
-          "url": "https://open.spotify.com/artist/1FxU7Hz4HvvknicyJDeG9P"
-        }
-      ],
-      "duration_ms": 203603,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/1MFZQ3L9XixU9Hi3XLXeRl"
-    },
-    {
-      "added_at": "2026-02-06 14:41:50",
-      "album": {
         "name": "Desperado",
         "url": "https://open.spotify.com/album/6bhSX2BYFGgJ3iw4wnpkWZ"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 191971,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/0ReprZkqLJKjuBH0nowV44"
+    },
+    {
+      "added_at": "2026-02-06 14:41:50",
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/3ZSjHPyJ3NnbtH271F2kWe"
+      },
+      "artists": [
+        {
+          "name": "Theresa Chase",
+          "url": "https://open.spotify.com/artist/1FxU7Hz4HvvknicyJDeG9P"
+        }
+      ],
+      "duration_ms": 203603,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/1MFZQ3L9XixU9Hi3XLXeRl"
     },
     {
       "added_at": "2026-02-06 14:41:50",

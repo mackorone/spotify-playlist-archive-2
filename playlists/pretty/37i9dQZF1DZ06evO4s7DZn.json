@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Rafaga. The essential tracks, all in one playlist.",
-  "num_followers": 9533,
+  "num_followers": 9538,
   "original_name": "This Is Banda Rafaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaIwAAAAAADJshU0xnLuLnXNPwf5aLgP",
+  "snapshot_id": "aaOBgAAAAAAQ13236DCyH5xd1fdkS1oC",
   "tracks": [
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para Ellas",
+        "url": "https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 174093,
+      "name": "Como Me Doli\u00f3 Tu Adi\u00f3s",
+      "url": "https://open.spotify.com/track/5OybPwUZOo6Gacxt331dEg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Banda Rafaga en Vivo! , Vol.2 (En Vivo)",
         "url": "https://open.spotify.com/album/3vetEbHsr2ELGdsA7yE2WI"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 221006,
       "name": "Una Noche de Banda - En Vivo",
       "url": "https://open.spotify.com/track/2bnW1HKDaRsalZiAZWgPo1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para Ellas",
-        "url": "https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 174093,
-      "name": "Como Me Doli\u00f3 Tu Adi\u00f3s",
-      "url": "https://open.spotify.com/track/5OybPwUZOo6Gacxt331dEg"
     },
     {
       "added_at": null,

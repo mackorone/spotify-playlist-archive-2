@@ -17139,6 +17139,28 @@
     },
     {
       "album": {
+        "name": "FCKN JUMP",
+        "url": "https://open.spotify.com/album/62bYRuwbANWYMIoVfx1Oub"
+      },
+      "artists": [
+        {
+          "name": "MJU",
+          "url": "https://open.spotify.com/artist/67mfEI3l2eiyhmTPHf4YcY"
+        },
+        {
+          "name": "Yosuf",
+          "url": "https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173272,
+      "name": "FCKN JUMP",
+      "url": "https://open.spotify.com/track/5BorbYUvZnnAWWLg1Kn9sm"
+    },
+    {
+      "album": {
         "name": "FCKN W MY GANG ?! (Official FCKNYE Anthem)",
         "url": "https://open.spotify.com/album/4pXEC5SVjhHAPws6ErANpj"
       },

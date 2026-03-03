@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Kim, Neida
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,629 likes - 128 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,636 likes - 128 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kini](https://open.spotify.com/track/751Bz5vVIURh0R5tafZ2L1) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [KIM](https://open.spotify.com/artist/1ltPgn4r3rgK3NcpJZScIp), [Neida](https://open.spotify.com/artist/6B19mPGcc9M5LmRwJLVhys) | [Yovie and His Friends: Kini & Selamanya](https://open.spotify.com/album/431WArkt1kXceTtCPmtnrQ) | 3:25 |
+| 1 | [Kini](https://open.spotify.com/track/751Bz5vVIURh0R5tafZ2L1) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [KIM](https://open.spotify.com/artist/1ltPgn4r3rgK3NcpJZScIp), [Neida](https://open.spotify.com/artist/6pXFLqoZMjMxHMwrNuueoW) | [Yovie and His Friends: Kini & Selamanya](https://open.spotify.com/album/431WArkt1kXceTtCPmtnrQ) | 3:25 |
 | 2 | [Jantung Samudra \(Haya \- Nyi Roro Kidul Theme Song\)](https://open.spotify.com/track/3eTukrKJBaJZMemLVRycwJ) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX), [Honor of Kings Indonesia](https://open.spotify.com/artist/5aXtu4HI1PMk7Wqwm70lvh) | [Jantung Samudra](https://open.spotify.com/album/0zFdnteznJblNnXZhi71mn) | 3:21 |
 | 3 | [Tak Setara](https://open.spotify.com/track/4B5Qq74hrUf7fehRFm9RlO) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f) | [Tak Setara](https://open.spotify.com/album/7B31BZ7UMBCEnDgtbo6Kvq) | 4:56 |
 | 4 | [Melati](https://open.spotify.com/track/4koI5WbXEXwrO2dhbfErvS) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Melati](https://open.spotify.com/album/5m0VWZtQpAYtYdnZLh7R4d) | 2:56 |

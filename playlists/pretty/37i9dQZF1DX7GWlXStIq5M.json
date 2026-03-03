@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Giana Mello",
-  "num_followers": 363858,
+  "num_followers": 363821,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -63,6 +63,22 @@
     {
       "added_at": "2026-02-27 03:00:06",
       "album": {
+        "name": "CHARME",
+        "url": "https://open.spotify.com/album/52UMGPQVJjiXH8Md6byhwh"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "CHARME",
+      "url": "https://open.spotify.com/track/2saiiXH63lUebPVEFf0Ysa"
+    },
+    {
+      "added_at": "2026-02-27 03:00:06",
+      "album": {
         "name": "pensando direito",
         "url": "https://open.spotify.com/album/3p4jz81rcmq55rPjyWf2NC"
       },
@@ -87,38 +103,26 @@
     {
       "added_at": "2026-02-27 03:00:06",
       "album": {
-        "name": "CHARME",
-        "url": "https://open.spotify.com/album/52UMGPQVJjiXH8Md6byhwh"
+        "name": "IMAGINA",
+        "url": "https://open.spotify.com/album/7DBsfSTZ1XAUlZaKWokAVK"
       },
       "artists": [
         {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "CHARME",
-      "url": "https://open.spotify.com/track/2saiiXH63lUebPVEFf0Ysa"
-    },
-    {
-      "added_at": "2026-02-27 03:00:06",
-      "album": {
-        "name": "desnecess\u00e1rio",
-        "url": "https://open.spotify.com/album/5XrEONY47IB01QwIYUhWfl"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
         },
         {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
         }
       ],
-      "duration_ms": 160021,
-      "name": "desnecess\u00e1rio",
-      "url": "https://open.spotify.com/track/0gAo3JbqmDIbWyv7MEWCds"
+      "duration_ms": 133846,
+      "name": "IMAGINA",
+      "url": "https://open.spotify.com/track/7o7rLBI5mkdpnrDbKi6HrN"
     },
     {
       "added_at": "2026-02-27 03:00:06",
@@ -143,26 +147,22 @@
     {
       "added_at": "2026-02-27 03:00:06",
       "album": {
-        "name": "IMAGINA",
-        "url": "https://open.spotify.com/album/7DBsfSTZ1XAUlZaKWokAVK"
+        "name": "desnecess\u00e1rio",
+        "url": "https://open.spotify.com/album/5XrEONY47IB01QwIYUhWfl"
       },
       "artists": [
         {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
         },
         {
-          "name": "Giana Mello",
-          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
         }
       ],
-      "duration_ms": 133846,
-      "name": "IMAGINA",
-      "url": "https://open.spotify.com/track/7o7rLBI5mkdpnrDbKi6HrN"
+      "duration_ms": 160021,
+      "name": "desnecess\u00e1rio",
+      "url": "https://open.spotify.com/track/0gAo3JbqmDIbWyv7MEWCds"
     },
     {
       "added_at": "2026-02-27 03:00:06",
@@ -299,6 +299,22 @@
     {
       "added_at": "2026-02-27 03:00:06",
       "album": {
+        "name": "Sexta-feira",
+        "url": "https://open.spotify.com/album/0FFW6UeLV3QjAclxcWO0UL"
+      },
+      "artists": [
+        {
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+        }
+      ],
+      "duration_ms": 164885,
+      "name": "Sexta-feira",
+      "url": "https://open.spotify.com/track/1qkZVztcOUmTLihs8L2RJi"
+    },
+    {
+      "added_at": "2026-02-27 03:00:06",
+      "album": {
         "name": "FENOMENAL",
         "url": "https://open.spotify.com/album/6O3whUEGrlfCFvxuWbeT9J"
       },
@@ -323,18 +339,22 @@
     {
       "added_at": "2026-02-27 03:00:06",
       "album": {
-        "name": "Sexta-feira",
-        "url": "https://open.spotify.com/album/0FFW6UeLV3QjAclxcWO0UL"
+        "name": "Quase",
+        "url": "https://open.spotify.com/album/60yKZCX7criKmfmYIblG4Z"
       },
       "artists": [
         {
-          "name": "Lou Garcia",
-          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        },
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
         }
       ],
-      "duration_ms": 164885,
-      "name": "Sexta-feira",
-      "url": "https://open.spotify.com/track/1qkZVztcOUmTLihs8L2RJi"
+      "duration_ms": 160016,
+      "name": "Quase",
+      "url": "https://open.spotify.com/track/59etIptmwHHugnoAAsNxvi"
     },
     {
       "added_at": "2026-02-27 03:00:06",
@@ -355,22 +375,18 @@
     {
       "added_at": "2026-02-27 03:00:06",
       "album": {
-        "name": "Quase",
-        "url": "https://open.spotify.com/album/60yKZCX7criKmfmYIblG4Z"
+        "name": "Perfumes e Cigarros",
+        "url": "https://open.spotify.com/album/5oZDe1sGUZ2cLaMH0FuIVa"
       },
       "artists": [
         {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
-        },
-        {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+          "name": "Elana Dara",
+          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
         }
       ],
-      "duration_ms": 160016,
-      "name": "Quase",
-      "url": "https://open.spotify.com/track/59etIptmwHHugnoAAsNxvi"
+      "duration_ms": 145237,
+      "name": "Body Splash",
+      "url": "https://open.spotify.com/track/04z79Yu5AMvCcxqZYJnmVf"
     },
     {
       "added_at": "2026-02-27 03:00:06",
@@ -395,22 +411,6 @@
       "duration_ms": 161343,
       "name": "MEU FI",
       "url": "https://open.spotify.com/track/2g2jgVqx4Bn7SLCAM2EPsP"
-    },
-    {
-      "added_at": "2026-02-27 03:00:06",
-      "album": {
-        "name": "Perfumes e Cigarros",
-        "url": "https://open.spotify.com/album/5oZDe1sGUZ2cLaMH0FuIVa"
-      },
-      "artists": [
-        {
-          "name": "Elana Dara",
-          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
-        }
-      ],
-      "duration_ms": 145237,
-      "name": "Body Splash",
-      "url": "https://open.spotify.com/track/04z79Yu5AMvCcxqZYJnmVf"
     },
     {
       "added_at": "2026-02-27 03:00:06",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-02-27 03:00:06",
       "album": {
-        "name": "Desassossego",
-        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        }
-      ],
-      "duration_ms": 176409,
-      "name": "Desassossego",
-      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
-    },
-    {
-      "added_at": "2026-02-27 03:00:06",
-      "album": {
         "name": "Encanto (Nossa Gente, Avisa l\u00e1)",
         "url": "https://open.spotify.com/album/7Hxypa00U94CCgFJLQKjfd"
       },
@@ -507,34 +491,18 @@
     {
       "added_at": "2026-02-27 03:00:06",
       "album": {
-        "name": "Impostor",
-        "url": "https://open.spotify.com/album/77iNyQNV3cyrZLoaSUCJri"
+        "name": "Desassossego",
+        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
       },
       "artists": [
         {
-          "name": "CHAMELEO",
-          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
         }
       ],
-      "duration_ms": 189600,
-      "name": "Impostor",
-      "url": "https://open.spotify.com/track/0jR7gMaE3Ohza0i2c463WU"
-    },
-    {
-      "added_at": "2026-02-27 03:00:06",
-      "album": {
-        "name": "baseado em surtos reais",
-        "url": "https://open.spotify.com/album/7CZh55BcV0Y9KVKRMsJAjC"
-      },
-      "artists": [
-        {
-          "name": "GIOLI",
-          "url": "https://open.spotify.com/artist/38nWRz7drzFwCFOb9uJTBd"
-        }
-      ],
-      "duration_ms": 139726,
-      "name": "exausta",
-      "url": "https://open.spotify.com/track/4Cdrju2aVc2NGPr1OMbjgX"
+      "duration_ms": 176409,
+      "name": "Desassossego",
+      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
     },
     {
       "added_at": "2026-02-27 03:00:06",
@@ -559,6 +527,22 @@
     {
       "added_at": "2026-02-27 03:00:06",
       "album": {
+        "name": "Impostor",
+        "url": "https://open.spotify.com/album/77iNyQNV3cyrZLoaSUCJri"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "Impostor",
+      "url": "https://open.spotify.com/track/0jR7gMaE3Ohza0i2c463WU"
+    },
+    {
+      "added_at": "2026-02-27 03:00:06",
+      "album": {
         "name": "a1",
         "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
       },
@@ -575,18 +559,34 @@
     {
       "added_at": "2026-02-27 03:00:06",
       "album": {
-        "name": "quanto tempo tem o tempo?",
-        "url": "https://open.spotify.com/album/7b1YzXAPmBZQA7ygrtQueI"
+        "name": "baseado em surtos reais",
+        "url": "https://open.spotify.com/album/7CZh55BcV0Y9KVKRMsJAjC"
       },
       "artists": [
         {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+          "name": "GIOLI",
+          "url": "https://open.spotify.com/artist/38nWRz7drzFwCFOb9uJTBd"
         }
       ],
-      "duration_ms": 206037,
-      "name": "quanto tempo tem o tempo?",
-      "url": "https://open.spotify.com/track/0VR6QaLSjKMJ2GHN8TCPER"
+      "duration_ms": 139726,
+      "name": "exausta",
+      "url": "https://open.spotify.com/track/4Cdrju2aVc2NGPr1OMbjgX"
+    },
+    {
+      "added_at": "2026-02-27 03:00:06",
+      "album": {
+        "name": "APGC (Ao Vivo Na Casa Da Colina)",
+        "url": "https://open.spotify.com/album/4zl5y4as3m2eZS8DFRfqVt"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 195094,
+      "name": "N\u00f3s Dois - Ao Vivo Na Casa da Colina",
+      "url": "https://open.spotify.com/track/6Mg2CaEissVzViqC5jgveU"
     },
     {
       "added_at": "2026-02-27 03:00:06",
@@ -607,18 +607,18 @@
     {
       "added_at": "2026-02-27 03:00:06",
       "album": {
-        "name": "TANTAS FORMAS DE DIZER ADEUS",
-        "url": "https://open.spotify.com/album/4YPY6oJnQiB8Lg3GoXgdqi"
+        "name": "quanto tempo tem o tempo?",
+        "url": "https://open.spotify.com/album/7b1YzXAPmBZQA7ygrtQueI"
       },
       "artists": [
         {
-          "name": "Clarissa",
-          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
         }
       ],
-      "duration_ms": 160741,
-      "name": "Coincidentemente (Tirando Certas Coisas)",
-      "url": "https://open.spotify.com/track/6jRuKl48CmDvAKh7fBSI6z"
+      "duration_ms": 206037,
+      "name": "quanto tempo tem o tempo?",
+      "url": "https://open.spotify.com/track/0VR6QaLSjKMJ2GHN8TCPER"
     },
     {
       "added_at": "2026-02-27 03:00:06",
@@ -639,6 +639,22 @@
       "duration_ms": 150978,
       "name": "sinto saudade",
       "url": "https://open.spotify.com/track/3UJcDOvKEJKQ2gqW8GJ7T5"
+    },
+    {
+      "added_at": "2026-02-27 03:00:06",
+      "album": {
+        "name": "TANTAS FORMAS DE DIZER ADEUS",
+        "url": "https://open.spotify.com/album/4YPY6oJnQiB8Lg3GoXgdqi"
+      },
+      "artists": [
+        {
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+        }
+      ],
+      "duration_ms": 160741,
+      "name": "Coincidentemente (Tirando Certas Coisas)",
+      "url": "https://open.spotify.com/track/6jRuKl48CmDvAKh7fBSI6z"
     },
     {
       "added_at": "2026-02-27 03:00:06",
@@ -675,26 +691,6 @@
     {
       "added_at": "2026-02-27 03:00:06",
       "album": {
-        "name": "10/10",
-        "url": "https://open.spotify.com/album/6Pc0LcsskzQ8CkTT6bpgrg"
-      },
-      "artists": [
-        {
-          "name": "Lara Estelita",
-          "url": "https://open.spotify.com/artist/1fzHqkke0WWhsbEa98HpgH"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Calma, Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2PMQjmqO8zx7snTtDCemuM"
-    },
-    {
-      "added_at": "2026-02-27 03:00:06",
-      "album": {
         "name": "TANTO",
         "url": "https://open.spotify.com/album/57GTYq4tdrM0gofJMAGF4S"
       },
@@ -711,22 +707,22 @@
     {
       "added_at": "2026-02-27 03:00:06",
       "album": {
-        "name": "G\u00caMEOS EM G\u00caMEOS",
-        "url": "https://open.spotify.com/album/7mV6fLMgnTZkBQQ8e7PfcB"
+        "name": "10/10",
+        "url": "https://open.spotify.com/album/6Pc0LcsskzQ8CkTT6bpgrg"
       },
       "artists": [
         {
-          "name": "Bruno Gadiol",
-          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
+          "name": "Lara Estelita",
+          "url": "https://open.spotify.com/artist/1fzHqkke0WWhsbEa98HpgH"
         },
         {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
         }
       ],
-      "duration_ms": 189333,
-      "name": "rela\u00e7\u00f5es superficiais",
-      "url": "https://open.spotify.com/track/1ORiphnAaOvI9UkntVSthN"
+      "duration_ms": 138000,
+      "name": "Calma, Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2PMQjmqO8zx7snTtDCemuM"
     },
     {
       "added_at": "2026-02-27 03:00:06",
@@ -771,34 +767,22 @@
     {
       "added_at": "2026-02-27 03:00:06",
       "album": {
-        "name": "Ainda N\u00e3o Te Amo",
-        "url": "https://open.spotify.com/album/14z2FIsB6rBLG8nBD266cD"
+        "name": "G\u00caMEOS EM G\u00caMEOS",
+        "url": "https://open.spotify.com/album/7mV6fLMgnTZkBQQ8e7PfcB"
       },
       "artists": [
+        {
+          "name": "Bruno Gadiol",
+          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
+        },
         {
           "name": "Thiago Pantale\u00e3o",
           "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
         }
       ],
-      "duration_ms": 187370,
-      "name": "Ainda N\u00e3o Te Amo",
-      "url": "https://open.spotify.com/track/5VeiOt8ht6Itb2gGXkI9zH"
-    },
-    {
-      "added_at": "2026-02-27 03:00:06",
-      "album": {
-        "name": "Del\u00edrio Favorito",
-        "url": "https://open.spotify.com/album/2yj64rYACA151NjzLpZo2a"
-      },
-      "artists": [
-        {
-          "name": "UANA",
-          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "Del\u00edrio Favorito",
-      "url": "https://open.spotify.com/track/7BJ0CO6cBxEC3g8as2M8zC"
+      "duration_ms": 189333,
+      "name": "rela\u00e7\u00f5es superficiais",
+      "url": "https://open.spotify.com/track/1ORiphnAaOvI9UkntVSthN"
     },
     {
       "added_at": "2026-02-27 03:00:06",
@@ -819,6 +803,62 @@
       "duration_ms": 139354,
       "name": "Amapiano",
       "url": "https://open.spotify.com/track/7sP6wejK3mVZcv63h20Zil"
+    },
+    {
+      "added_at": "2026-02-27 03:00:06",
+      "album": {
+        "name": "Del\u00edrio Favorito",
+        "url": "https://open.spotify.com/album/2yj64rYACA151NjzLpZo2a"
+      },
+      "artists": [
+        {
+          "name": "UANA",
+          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Del\u00edrio Favorito",
+      "url": "https://open.spotify.com/track/7BJ0CO6cBxEC3g8as2M8zC"
+    },
+    {
+      "added_at": "2026-02-27 03:00:06",
+      "album": {
+        "name": "Ainda N\u00e3o Te Amo",
+        "url": "https://open.spotify.com/album/14z2FIsB6rBLG8nBD266cD"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "duration_ms": 187370,
+      "name": "Ainda N\u00e3o Te Amo",
+      "url": "https://open.spotify.com/track/5VeiOt8ht6Itb2gGXkI9zH"
+    },
+    {
+      "added_at": "2026-02-27 03:00:06",
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/2AkCaeXRWht0pyc4SHzGGr"
+      },
+      "artists": [
+        {
+          "name": "RDD",
+          "url": "https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW"
+        },
+        {
+          "name": "Anik Khan",
+          "url": "https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa"
+        },
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/50eUngFZAVXR5jbjoO4INk"
     },
     {
       "added_at": "2026-02-27 03:00:06",
@@ -1035,6 +1075,26 @@
     {
       "added_at": "2026-02-27 03:00:06",
       "album": {
+        "name": "Sem foto, sem v\u00eddeo",
+        "url": "https://open.spotify.com/album/1SverQN2YSrveKTN2cRtRh"
+      },
+      "artists": [
+        {
+          "name": "SANTIN",
+          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
+        },
+        {
+          "name": "Jade Baraldo",
+          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+        }
+      ],
+      "duration_ms": 194407,
+      "name": "Sem foto, sem v\u00eddeo",
+      "url": "https://open.spotify.com/track/1qYD1qpRCi53yAfXrez1r8"
+    },
+    {
+      "added_at": "2026-02-27 03:00:06",
+      "album": {
         "name": "Sobre Voc\u00ea",
         "url": "https://open.spotify.com/album/6Hb6HnMxrSPVH9jH5suUCv"
       },
@@ -1059,26 +1119,6 @@
       "duration_ms": 181364,
       "name": "Sobre Voc\u00ea",
       "url": "https://open.spotify.com/track/5cEbaKKVzBHq2eCO5GhOuc"
-    },
-    {
-      "added_at": "2026-02-27 03:00:06",
-      "album": {
-        "name": "Sem foto, sem v\u00eddeo",
-        "url": "https://open.spotify.com/album/1SverQN2YSrveKTN2cRtRh"
-      },
-      "artists": [
-        {
-          "name": "SANTIN",
-          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
-        },
-        {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
-        }
-      ],
-      "duration_ms": 194407,
-      "name": "Sem foto, sem v\u00eddeo",
-      "url": "https://open.spotify.com/track/1qYD1qpRCi53yAfXrez1r8"
     },
     {
       "added_at": "2026-02-27 03:00:06",
@@ -1139,26 +1179,18 @@
     {
       "added_at": "2026-02-27 03:00:06",
       "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/2AkCaeXRWht0pyc4SHzGGr"
+        "name": "MOVEDI\u00c7A II",
+        "url": "https://open.spotify.com/album/20bkV5MFa22V3Zq1QqkJ96"
       },
       "artists": [
         {
-          "name": "RDD",
-          "url": "https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW"
-        },
-        {
-          "name": "Anik Khan",
-          "url": "https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa"
-        },
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+          "name": "Enme",
+          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
         }
       ],
-      "duration_ms": 188400,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/50eUngFZAVXR5jbjoO4INk"
+      "duration_ms": 146776,
+      "name": "AKO\u00c7A",
+      "url": "https://open.spotify.com/track/3z8aghokqoqjtLXsUS0H4H"
     },
     {
       "added_at": "2026-02-27 03:00:06",
@@ -1175,22 +1207,6 @@
       "duration_ms": 136089,
       "name": "Bem Bem",
       "url": "https://open.spotify.com/track/4NrrOkdXOKs1Wpwhr7iwQm"
-    },
-    {
-      "added_at": "2026-02-27 03:00:06",
-      "album": {
-        "name": "MOVEDI\u00c7A II",
-        "url": "https://open.spotify.com/album/20bkV5MFa22V3Zq1QqkJ96"
-      },
-      "artists": [
-        {
-          "name": "Enme",
-          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
-        }
-      ],
-      "duration_ms": 146776,
-      "name": "AKO\u00c7A",
-      "url": "https://open.spotify.com/track/3z8aghokqoqjtLXsUS0H4H"
     },
     {
       "added_at": "2026-02-27 03:00:06",
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2026-02-27 03:00:06",
       "album": {
-        "name": "Ecos do Desejo",
-        "url": "https://open.spotify.com/album/1D3f4CkQe0gklHKKxffj9C"
-      },
-      "artists": [
-        {
-          "name": "Mariana Coelho",
-          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
-        }
-      ],
-      "duration_ms": 146538,
-      "name": "Noites de Neon",
-      "url": "https://open.spotify.com/track/427JHB9CmpmxSten7B2isW"
-    },
-    {
-      "added_at": "2026-02-27 03:00:06",
-      "album": {
         "name": "Pura Poesia",
         "url": "https://open.spotify.com/album/6FuUAYQPklC2nDknB1JPXN"
       },
@@ -1279,6 +1279,22 @@
       "duration_ms": 180000,
       "name": "Pura Poesia",
       "url": "https://open.spotify.com/track/1ShgI2Qw5D1QeHGscqojEi"
+    },
+    {
+      "added_at": "2026-02-27 03:00:06",
+      "album": {
+        "name": "Ecos do Desejo",
+        "url": "https://open.spotify.com/album/1D3f4CkQe0gklHKKxffj9C"
+      },
+      "artists": [
+        {
+          "name": "Mariana Coelho",
+          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
+        }
+      ],
+      "duration_ms": 146538,
+      "name": "Noites de Neon",
+      "url": "https://open.spotify.com/track/427JHB9CmpmxSten7B2isW"
     },
     {
       "added_at": "2026-02-27 03:00:06",
@@ -1311,22 +1327,6 @@
       "duration_ms": 200735,
       "name": "Eu Fim, Voc\u00ea In\u00edcio",
       "url": "https://open.spotify.com/track/2IsynCtnYE5D7hizFfKwJt"
-    },
-    {
-      "added_at": "2026-02-27 03:00:06",
-      "album": {
-        "name": "APGC (Ao Vivo Na Casa Da Colina)",
-        "url": "https://open.spotify.com/album/4zl5y4as3m2eZS8DFRfqVt"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 195094,
-      "name": "N\u00f3s Dois - Ao Vivo Na Casa da Colina",
-      "url": "https://open.spotify.com/track/6Mg2CaEissVzViqC5jgveU"
     }
   ],
   "unique_name": "Palco POP",

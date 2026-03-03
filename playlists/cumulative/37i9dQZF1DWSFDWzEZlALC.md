@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: moé
 
-1,638 songs - 3 day 5 hr 32 min
+1,639 songs - 3 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -944,7 +944,7 @@
 | [Mangos mit Chili](https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Mangos mit Chili](https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM) | 2:14 | 2023-02-02 | 2023-08-04 |
 | [Mann der vielen Worte](https://open.spotify.com/track/6pZmxevZKecO2CWwJ5HbqY) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [Mann der vielen Worte](https://open.spotify.com/album/4lilKn1npleKtiLGrLkY8u) | 2:51 | 2025-08-07 | 2025-10-03 |
 | [Mann vom Fach](https://open.spotify.com/track/6sEoli2139kRG8Q7LfpHEY) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [Mann vom Fach](https://open.spotify.com/album/0xIUY0nx09yGVjg2gZbbBF) | 2:40 | 2023-10-05 | 2024-04-05 |
-| [mann von welt // benim adim da güzel](https://open.spotify.com/track/1Wy243slZOLAkcxM6opqk7) | [blue friend](https://open.spotify.com/artist/052QHH0e04tuBG9Ik6E5q0) | [mann von welt // benim adim da güzel](https://open.spotify.com/album/1u1QYGjEGPlcSUmqFjKWCI) | 2:00 | 2026-02-14 |  |
+| [mann von welt // benim adim da güzel](https://open.spotify.com/track/1Wy243slZOLAkcxM6opqk7) | [blue friend](https://open.spotify.com/artist/052QHH0e04tuBG9Ik6E5q0) | [mann von welt // benim adim da güzel](https://open.spotify.com/album/1u1QYGjEGPlcSUmqFjKWCI) | 2:00 | 2026-02-14 | 2026-03-03 |
 | [Marathon](https://open.spotify.com/track/3dNjDMod4qSZ1kM0QGhRc3) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [Marathon](https://open.spotify.com/album/6lDGrMh75TwqSJyygAMmfB) | 2:35 | 2024-08-29 | 2024-09-20 |
 | [Marlboro](https://open.spotify.com/track/6Ptjpsd6Dzd5gz6zGZmFo7) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Marlboro](https://open.spotify.com/album/5sHOBlcohfiJD02j2JlXTj) | 2:32 | 2023-10-12 | 2023-11-17 |
 | [Marlboro Mann](https://open.spotify.com/track/35dP1MzINMO9ABzCQAO6sy) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4) | [Marlboro Mann](https://open.spotify.com/album/2L4bP14MasfkUuU8UpTKgB) | 2:56 | 2025-11-06 | 2026-02-06 |
@@ -1176,6 +1176,7 @@
 | [Rote Flaggen](https://open.spotify.com/track/7bkUa9kDFGxgCC7d36dzFI) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [ROTE FLAGGEN](https://open.spotify.com/album/0EWCRqTiWqdumuQKybIzWa) | 3:44 | 2023-05-25 | 2023-11-24 |
 | [Rote Jacke](https://open.spotify.com/track/5rU4WlR8EPzV7PO2lcVppC) | [Bley](https://open.spotify.com/artist/0mqQIoe6iQzBPlzVtvJqXl) | [Rote Jacke](https://open.spotify.com/album/0Q4MEgXfUgB90AdtFGBaeJ) | 2:42 | 2024-05-23 | 2024-06-21 |
 | [Rote Pille, blaue Pille](https://open.spotify.com/track/2hnfsmf3vy0eYDOJF6OAt5) | [Flinte](https://open.spotify.com/artist/3ZqXNocGLSBgDcpM2QyQMS) | [Rote Pille, blaue Pille](https://open.spotify.com/album/4PNGcmEcEo3FTtUp6ss9GL) | 2:43 | 2023-05-11 | 2023-06-30 |
+| [rotkreiden mund](https://open.spotify.com/track/0vq9dCG9OdbWlNvzBGtBvT) | [luisa schweig](https://open.spotify.com/artist/0xh4h2jM3Iv58jGpeTGj5I) | [rotkreiden mund](https://open.spotify.com/album/6IiNiMS6bTpXBpCPZVauWO) | 3:04 | 2026-03-02 |  |
 | [Rotweinlippen](https://open.spotify.com/track/3eUP4xUuEDZnuioOERvC0r) | [FREDRIK](https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT) | [Rotweinlippen](https://open.spotify.com/album/7b0dm1Dw3YKWjVkVCWlH2q) | 3:29 | 2025-06-26 | 2025-08-15 |
 | [Roxanne](https://open.spotify.com/track/2Ed4yjHpp9ROmpA945aP9b) | [Lostboi Lino](https://open.spotify.com/artist/3dQiKOMNVmrryTnYTRw9qa) | [Roxanne](https://open.spotify.com/album/2JzkTL1Sp5IkcqpwBMjuod) | 2:25 | 2025-01-16 | 2025-02-21 |
 | [ruf an](https://open.spotify.com/track/6SKWCjYfVTLd2KA9Vdwddp) | [lönneberger](https://open.spotify.com/artist/1XVqVLT2sgaiJFThXBGPHc) | [ruf an](https://open.spotify.com/album/2xYi3WZd77QwQO7m4YBlEs) | 3:01 | 2024-10-24 | 2024-12-06 |

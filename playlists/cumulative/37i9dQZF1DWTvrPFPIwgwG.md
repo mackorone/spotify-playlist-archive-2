@@ -4,7 +4,7 @@
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Sara Evelyn
 
-272 songs - 23 hr 34 min
+273 songs - 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Apocalipse \- Ao Vivo](https://open.spotify.com/track/7LPHrgdhNhECxxvHYI4y11) | [Mara Souza](https://open.spotify.com/artist/4bw52hHES9kCJ1T0ILDxPw), [Vanessa Cavalcante](https://open.spotify.com/artist/3b9sDZuaG4AYqiLSK1H6Kc), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Apocalipse \(43 Anos Louvor Eterno\) \[Ao Vivo, Curitiba, Teatro Positivo, 2025\]](https://open.spotify.com/album/2LDrK6Gh3zQuy02aYkcTuw) | 6:16 | 2025-04-18 |  |
 | [Aquietai\-Vos](https://open.spotify.com/track/1Zre7YfumnbeanzVutZtBA) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo) | [Aquietai\-Vos](https://open.spotify.com/album/3SbU3TxwgCGrUAUTOagd0o) | 3:46 | 2022-09-09 | 2023-02-25 |
 | [Avance](https://open.spotify.com/track/4efYWPmwlxShjrp1uXkElp) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP) | [Avance](https://open.spotify.com/album/5Yi8GuK4Y9ej7BPgdcjyfV) | 3:34 | 2023-03-24 | 2023-04-29 |
+| [Azeite de Reserva](https://open.spotify.com/track/6APGkiewBw2JUNKvnIoYDJ) | [Thalita Roberta](https://open.spotify.com/artist/1yZUa312JkTmgQCEzp8QTc) | [Azeite de Reserva](https://open.spotify.com/album/7t1pm0qHvyeaJQEP2VFiXA) | 3:33 | 2026-03-02 |  |
 | [Basta uma Palavra](https://open.spotify.com/track/0N5lJZVZ2fnAUcNH921nDL) | [Angélica Azevedo Oficial](https://open.spotify.com/artist/29C07hDeBxC0pbCDWiwXYE) | [Basta uma Palavra](https://open.spotify.com/album/1ZgQqx0JZRWhsRFwluUwlk) | 3:59 | 2022-09-09 | 2023-02-04 |
 | [Basta uma Palavra](https://open.spotify.com/track/0GaxofDWGJ4Gg8gbEMgn3R) | [Sandra Pires](https://open.spotify.com/artist/2NHt4egawSl0pKxbF04Lhf), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Basta uma Palavra](https://open.spotify.com/album/1GDrhQp5Q0xL0GrmNPPeCN) | 5:04 | 2022-09-09 |  |
 | [Calma](https://open.spotify.com/track/6XyL1cVqrfox76QZODQ22t) | [Eliane Silva](https://open.spotify.com/artist/04kAhmiYHbt8mAmX5t65Hs) | [Calma](https://open.spotify.com/album/0uZHHtKPIXyIhZNsT6Ur55) | 4:32 | 2022-09-09 | 2023-04-22 |
@@ -139,7 +140,7 @@
 | [João Viu / Além do Rio Azul \- Ao Vivo](https://open.spotify.com/track/2w6BUVGMztDT0vGdRFzhkD) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [João Viu / Além do Rio Azul \(Ao Vivo\)](https://open.spotify.com/album/0WWDnfbwnzNrct6Vy5aBog) | 4:39 | 2025-06-06 |  |
 | [Limite \(Ao Vivo\)](https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Limite \(Ao Vivo\)](https://open.spotify.com/album/3vdnEGDteYJDJATiUvMaSC) | 4:38 | 2023-03-03 | 2025-03-08 |
 | [Logo Eu](https://open.spotify.com/track/2OjumT4ZsBo16OglQftYSh) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt) | [Logo Eu](https://open.spotify.com/album/4s7hyXfQYCxPM4T5P9LQbj) | 4:49 | 2023-01-13 | 2023-03-04 |
-| [Lágrimas de Vitória \- Ao Vivo em Salvador](https://open.spotify.com/track/2pE1QPviMa6n9HAXx8tdDD) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Lágrimas de Vitória \(Ao Vivo em Salvador\)](https://open.spotify.com/album/7ctzCk9m7a8DacJLtSmykY) | 4:35 | 2025-10-17 |  |
+| [Lágrimas de Vitória \- Ao Vivo em Salvador](https://open.spotify.com/track/2pE1QPviMa6n9HAXx8tdDD) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Lágrimas de Vitória \(Ao Vivo em Salvador\)](https://open.spotify.com/album/7ctzCk9m7a8DacJLtSmykY) | 4:35 | 2025-10-17 | 2026-03-03 |
 | [Maior Esperança](https://open.spotify.com/track/1ZRnMbEWclfT2LNCFQbdSO) | [Alugiana](https://open.spotify.com/artist/6JWO2kpkeZtMHP4fQxPCaV) | [Maior Esperança](https://open.spotify.com/album/0aacsowIPdD2jIMkO2t3cd) | 6:23 | 2022-09-09 | 2023-03-18 |
 | [Majestoso \(Ao Vivo\)](https://open.spotify.com/track/5ZCpz2wtswpyKMoFblb91y) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [Majestoso \(Ao Vivo\)](https://open.spotify.com/album/48XqZGHMs2p9iBYiNevkWL) | 5:35 | 2025-04-05 |  |
 | [Marcados pela Glória](https://open.spotify.com/track/0Tz9cUyqBfcsHJYQkP0r2m) | [Vanilda Bordieri](https://open.spotify.com/artist/01F5yl9fFsa9QQaM3Z6U3O) | [Marcados pela Glória](https://open.spotify.com/album/3w4cHIj0xF3RcjoLC3Pruh) | 5:01 | 2023-02-25 | 2023-07-22 |

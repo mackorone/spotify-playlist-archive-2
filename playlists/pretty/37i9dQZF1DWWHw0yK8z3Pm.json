@@ -1,6 +1,6 @@
 {
   "description": "Fearless sounds at the crossroads of country and folk. Cover: Max McNown",
-  "num_followers": 69721,
+  "num_followers": 69729,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
@@ -215,8 +215,8 @@
     {
       "added_at": "2025-10-06 15:34:36",
       "album": {
-        "name": "Madeline (feat. Gabriella Rose)",
-        "url": "https://open.spotify.com/album/6GtkOiEX7Hp8N21AFhmafQ"
+        "name": "Bowery (feat. Kings of Leon)",
+        "url": "https://open.spotify.com/album/1BzIKcIst2uamVE2pPa6jc"
       },
       "artists": [
         {
@@ -224,13 +224,33 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         },
         {
-          "name": "Gabriella Rose",
-          "url": "https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj"
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
         }
       ],
-      "duration_ms": 145146,
-      "name": "Madeline (feat. Gabriella Rose)",
-      "url": "https://open.spotify.com/track/2DDo2QqElDO9PgOHeGtQiy"
+      "duration_ms": 215720,
+      "name": "Bowery (feat. Kings of Leon)",
+      "url": "https://open.spotify.com/track/0q3jlKYRjRw24PjrAwow1H"
+    },
+    {
+      "added_at": "2026-02-20 13:24:26",
+      "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 191146,
+      "name": "Here (with Chris Stapleton)",
+      "url": "https://open.spotify.com/track/5ovPv5nkmtM7fCPvr3OOE6"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -265,26 +285,6 @@
       "url": "https://open.spotify.com/track/5bKXRRnFPZfKWP1iIzq0FV"
     },
     {
-      "added_at": "2026-02-20 13:24:26",
-      "album": {
-        "name": "Prizefighter",
-        "url": "https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 191146,
-      "name": "Here (with Chris Stapleton)",
-      "url": "https://open.spotify.com/track/5ovPv5nkmtM7fCPvr3OOE6"
-    },
-    {
       "added_at": "2025-10-06 15:34:36",
       "album": {
         "name": "Snipe Hunter",
@@ -303,8 +303,8 @@
     {
       "added_at": "2025-10-06 15:34:36",
       "album": {
-        "name": "Bowery (feat. Kings of Leon)",
-        "url": "https://open.spotify.com/album/1BzIKcIst2uamVE2pPa6jc"
+        "name": "Madeline (feat. Gabriella Rose)",
+        "url": "https://open.spotify.com/album/6GtkOiEX7Hp8N21AFhmafQ"
       },
       "artists": [
         {
@@ -312,13 +312,13 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         },
         {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+          "name": "Gabriella Rose",
+          "url": "https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj"
         }
       ],
-      "duration_ms": 215720,
-      "name": "Bowery (feat. Kings of Leon)",
-      "url": "https://open.spotify.com/track/0q3jlKYRjRw24PjrAwow1H"
+      "duration_ms": 145146,
+      "name": "Madeline (feat. Gabriella Rose)",
+      "url": "https://open.spotify.com/track/2DDo2QqElDO9PgOHeGtQiy"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-10-06 15:34:36",
       "album": {
-        "name": "Goldie Boutilier Presents... Goldie Montana",
-        "url": "https://open.spotify.com/album/7ztYs1cGt5EkHppMFcvNtN"
-      },
-      "artists": [
-        {
-          "name": "Goldie Boutilier",
-          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
-        }
-      ],
-      "duration_ms": 189459,
-      "name": "Favorite Fear",
-      "url": "https://open.spotify.com/track/3Vqcx4fajH02dyRuY99szQ"
-    },
-    {
-      "added_at": "2025-10-06 15:34:36",
-      "album": {
         "name": "Equus Asinus",
         "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 291791,
       "name": "I Come With Mud",
       "url": "https://open.spotify.com/track/6U13ePayjjfmxzXHGGYbv5"
+    },
+    {
+      "added_at": "2025-10-06 15:34:36",
+      "album": {
+        "name": "Goldie Boutilier Presents... Goldie Montana",
+        "url": "https://open.spotify.com/album/7ztYs1cGt5EkHppMFcvNtN"
+      },
+      "artists": [
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "duration_ms": 189459,
+      "name": "Favorite Fear",
+      "url": "https://open.spotify.com/track/3Vqcx4fajH02dyRuY99szQ"
     },
     {
       "added_at": "2025-10-24 04:01:04",
@@ -733,6 +733,22 @@
       "url": "https://open.spotify.com/track/3ZNsvorDrEVwo1ce7Eq3Q8"
     },
     {
+      "added_at": "2026-02-13 05:01:21",
+      "album": {
+        "name": "Best of Our Possible Lives",
+        "url": "https://open.spotify.com/album/7sMzhU19W3Kmjj8SAm3lVC"
+      },
+      "artists": [
+        {
+          "name": "Boy Golden",
+          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
+        }
+      ],
+      "duration_ms": 188988,
+      "name": "Best of Our Possible Lives",
+      "url": "https://open.spotify.com/track/1KVdGIfXjx0AfFqyVIMXAX"
+    },
+    {
       "added_at": "2025-10-06 15:34:36",
       "album": {
         "name": "Lonely Mountain Town",
@@ -773,22 +789,6 @@
       "url": "https://open.spotify.com/track/4dLDeBfAKzYuyEGwhTUowJ"
     },
     {
-      "added_at": "2026-02-13 05:01:21",
-      "album": {
-        "name": "Best of Our Possible Lives",
-        "url": "https://open.spotify.com/album/7sMzhU19W3Kmjj8SAm3lVC"
-      },
-      "artists": [
-        {
-          "name": "Boy Golden",
-          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
-        }
-      ],
-      "duration_ms": 188988,
-      "name": "Best of Our Possible Lives",
-      "url": "https://open.spotify.com/track/1KVdGIfXjx0AfFqyVIMXAX"
-    },
-    {
       "added_at": "2026-01-23 14:55:43",
       "album": {
         "name": "Another Time",
@@ -821,36 +821,20 @@
       "url": "https://open.spotify.com/track/5EYpxenCIodbHiMovjb6tt"
     },
     {
-      "added_at": "2025-10-17 08:01:09",
+      "added_at": "2026-02-20 13:24:26",
       "album": {
-        "name": "Field Song.",
-        "url": "https://open.spotify.com/album/06Ql3BibRMTMGaurflbLdf"
+        "name": "Blue Water",
+        "url": "https://open.spotify.com/album/22uxBCWF0hwH84VV9O20CB"
       },
       "artists": [
         {
-          "name": "Mon Rov\u00eea",
-          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
         }
       ],
-      "duration_ms": 139530,
-      "name": "Field Song.",
-      "url": "https://open.spotify.com/track/3mWoFs0KLmalbdYhgYRJ3R"
-    },
-    {
-      "added_at": "2026-01-09 10:02:10",
-      "album": {
-        "name": "January",
-        "url": "https://open.spotify.com/album/54fq9FgsYBN7DqNDHMW83w"
-      },
-      "artists": [
-        {
-          "name": "Marie Dresselhuis",
-          "url": "https://open.spotify.com/artist/6mti1miVznkj8ShJdAI1eL"
-        }
-      ],
-      "duration_ms": 197963,
-      "name": "January",
-      "url": "https://open.spotify.com/track/6PezZtCN7RCDHjSAsj01fP"
+      "duration_ms": 188773,
+      "name": "Blue Water",
+      "url": "https://open.spotify.com/track/4JcHHGalNvDxB0gCpGg1HP"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -873,6 +857,22 @@
       "url": "https://open.spotify.com/track/5Rh3GmRbXyjmH2rswVpw1A"
     },
     {
+      "added_at": "2025-10-17 08:01:09",
+      "album": {
+        "name": "Field Song.",
+        "url": "https://open.spotify.com/album/06Ql3BibRMTMGaurflbLdf"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "duration_ms": 139530,
+      "name": "Field Song.",
+      "url": "https://open.spotify.com/track/3mWoFs0KLmalbdYhgYRJ3R"
+    },
+    {
       "added_at": "2026-02-13 05:01:21",
       "album": {
         "name": "Man's World",
@@ -889,20 +889,20 @@
       "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
     },
     {
-      "added_at": "2026-02-20 13:24:26",
+      "added_at": "2026-01-09 10:02:10",
       "album": {
-        "name": "Blue Water",
-        "url": "https://open.spotify.com/album/22uxBCWF0hwH84VV9O20CB"
+        "name": "January",
+        "url": "https://open.spotify.com/album/54fq9FgsYBN7DqNDHMW83w"
       },
       "artists": [
         {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+          "name": "Marie Dresselhuis",
+          "url": "https://open.spotify.com/artist/6mti1miVznkj8ShJdAI1eL"
         }
       ],
-      "duration_ms": 188773,
-      "name": "Blue Water",
-      "url": "https://open.spotify.com/track/4JcHHGalNvDxB0gCpGg1HP"
+      "duration_ms": 197963,
+      "name": "January",
+      "url": "https://open.spotify.com/track/6PezZtCN7RCDHjSAsj01fP"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -971,6 +971,22 @@
     {
       "added_at": "2025-10-06 15:34:36",
       "album": {
+        "name": "Mud",
+        "url": "https://open.spotify.com/album/1GJuDl2xV0i4rOx9ynhFPN"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 127714,
+      "name": "Mud",
+      "url": "https://open.spotify.com/track/7leOfpblnwIyAqr2u4hNZE"
+    },
+    {
+      "added_at": "2025-10-06 15:34:36",
+      "album": {
         "name": "King of Possibilities",
         "url": "https://open.spotify.com/album/7H2PPJHGHlJCq2YmBG7Uy2"
       },
@@ -987,18 +1003,18 @@
     {
       "added_at": "2025-10-06 15:34:36",
       "album": {
-        "name": "Mud",
-        "url": "https://open.spotify.com/album/1GJuDl2xV0i4rOx9ynhFPN"
+        "name": "Trail Of Flowers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5aMgz7gGUkMDHYbr3eNxkg"
       },
       "artists": [
         {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         }
       ],
-      "duration_ms": 127714,
-      "name": "Mud",
-      "url": "https://open.spotify.com/track/7leOfpblnwIyAqr2u4hNZE"
+      "duration_ms": 218967,
+      "name": "Don\u2019t Let Your Deal Go Down",
+      "url": "https://open.spotify.com/track/6xshRwvEkTAJQoClIFGyFS"
     },
     {
       "added_at": "2026-01-30 05:01:55",
@@ -1017,20 +1033,20 @@
       "url": "https://open.spotify.com/track/45OZMlld4rUYxi62rXvxv1"
     },
     {
-      "added_at": "2025-10-06 15:34:36",
+      "added_at": "2026-02-06 05:01:26",
       "album": {
-        "name": "Trail Of Flowers (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5aMgz7gGUkMDHYbr3eNxkg"
+        "name": "Vengeance and Grace",
+        "url": "https://open.spotify.com/album/2VsiZpURytj95TTxg7MTrD"
       },
       "artists": [
         {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+          "name": "Benjamin Tod",
+          "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
         }
       ],
-      "duration_ms": 218967,
-      "name": "Don\u2019t Let Your Deal Go Down",
-      "url": "https://open.spotify.com/track/6xshRwvEkTAJQoClIFGyFS"
+      "duration_ms": 195613,
+      "name": "Vengeance and Grace",
+      "url": "https://open.spotify.com/track/4DAol5wRfD04SGMPsCUVdN"
     },
     {
       "added_at": "2025-10-09 21:40:25",
@@ -1101,20 +1117,20 @@
       "url": "https://open.spotify.com/track/5IN1bAiqeVW8Xb7ZV2pWBj"
     },
     {
-      "added_at": "2026-02-06 05:01:26",
+      "added_at": "2025-10-09 21:40:25",
       "album": {
-        "name": "Vengeance and Grace",
-        "url": "https://open.spotify.com/album/2VsiZpURytj95TTxg7MTrD"
+        "name": "A Crater Wide",
+        "url": "https://open.spotify.com/album/1oeGWPa9719wEmCR9bUHp4"
       },
       "artists": [
         {
-          "name": "Benjamin Tod",
-          "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
+          "name": "Hunter Metts",
+          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
         }
       ],
-      "duration_ms": 195613,
-      "name": "Vengeance and Grace",
-      "url": "https://open.spotify.com/track/4DAol5wRfD04SGMPsCUVdN"
+      "duration_ms": 190781,
+      "name": "Heavy, Heavy Love",
+      "url": "https://open.spotify.com/track/5Eionir5dOajqqJmmJHOWM"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1137,6 +1153,22 @@
       "url": "https://open.spotify.com/track/7lfCazSXAmsNc1bZ3d4zwx"
     },
     {
+      "added_at": "2026-02-20 13:24:26",
+      "album": {
+        "name": "A Perfect Dive",
+        "url": "https://open.spotify.com/album/0uJKwyJ9yrSfbWtSrVv0Ci"
+      },
+      "artists": [
+        {
+          "name": "Ken Yates",
+          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
+        }
+      ],
+      "duration_ms": 206284,
+      "name": "A Perfect Dive",
+      "url": "https://open.spotify.com/track/3DE7ETgAaygz2s9EFzKehZ"
+    },
+    {
       "added_at": "2025-11-07 00:01:44",
       "album": {
         "name": "Little Things",
@@ -1153,22 +1185,6 @@
       "url": "https://open.spotify.com/track/72S6t946GxdLD2hlGhyHHQ"
     },
     {
-      "added_at": "2025-10-09 21:40:25",
-      "album": {
-        "name": "A Crater Wide",
-        "url": "https://open.spotify.com/album/1oeGWPa9719wEmCR9bUHp4"
-      },
-      "artists": [
-        {
-          "name": "Hunter Metts",
-          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
-        }
-      ],
-      "duration_ms": 190781,
-      "name": "Heavy, Heavy Love",
-      "url": "https://open.spotify.com/track/5Eionir5dOajqqJmmJHOWM"
-    },
-    {
       "added_at": "2025-10-17 08:01:09",
       "album": {
         "name": "Back to Me",
@@ -1183,22 +1199,6 @@
       "duration_ms": 181773,
       "name": "Back to Me",
       "url": "https://open.spotify.com/track/7H0RM5zgUqKLn0ii38IIjZ"
-    },
-    {
-      "added_at": "2026-02-20 13:24:26",
-      "album": {
-        "name": "A Perfect Dive",
-        "url": "https://open.spotify.com/album/0uJKwyJ9yrSfbWtSrVv0Ci"
-      },
-      "artists": [
-        {
-          "name": "Ken Yates",
-          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
-        }
-      ],
-      "duration_ms": 206284,
-      "name": "A Perfect Dive",
-      "url": "https://open.spotify.com/track/3DE7ETgAaygz2s9EFzKehZ"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-10-31 00:01:27",
       "album": {
-        "name": "The Longer You Hold On",
-        "url": "https://open.spotify.com/album/3AhzyvefSpo0MiPsxy4MMv"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 172066,
-      "name": "The Longer You Hold On",
-      "url": "https://open.spotify.com/track/26wFoNT0guQlew86UV3HlD"
-    },
-    {
-      "added_at": "2025-10-31 00:01:27",
-      "album": {
         "name": "Knew It All Along (With Nic D)",
         "url": "https://open.spotify.com/album/2P0Z4uOfgIjpRFT0qn86nA"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 183321,
       "name": "Knew It All Along (With Nic D)",
       "url": "https://open.spotify.com/track/0RyBS230wl5kjuqxutK5KL"
+    },
+    {
+      "added_at": "2025-10-31 00:01:27",
+      "album": {
+        "name": "The Longer You Hold On",
+        "url": "https://open.spotify.com/album/3AhzyvefSpo0MiPsxy4MMv"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 172066,
+      "name": "The Longer You Hold On",
+      "url": "https://open.spotify.com/track/26wFoNT0guQlew86UV3HlD"
     },
     {
       "added_at": "2025-11-07 00:01:44",
@@ -1429,22 +1429,6 @@
       "url": "https://open.spotify.com/track/1xhaaznvVPI1MPqGf6zXmp"
     },
     {
-      "added_at": "2025-10-06 15:34:36",
-      "album": {
-        "name": "American Recordings",
-        "url": "https://open.spotify.com/album/4uc19QGmrmKLoGxTjS94IE"
-      },
-      "artists": [
-        {
-          "name": "Truman Sinclair",
-          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
-        }
-      ],
-      "duration_ms": 190026,
-      "name": "Bloodline",
-      "url": "https://open.spotify.com/track/5oPvYIe6n8qkqooSrejkFh"
-    },
-    {
       "added_at": "2025-10-17 08:01:09",
       "album": {
         "name": "Further From the Country",
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2025-10-06 15:34:36",
       "album": {
+        "name": "American Recordings",
+        "url": "https://open.spotify.com/album/4uc19QGmrmKLoGxTjS94IE"
+      },
+      "artists": [
+        {
+          "name": "Truman Sinclair",
+          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
+        }
+      ],
+      "duration_ms": 190026,
+      "name": "Bloodline",
+      "url": "https://open.spotify.com/track/5oPvYIe6n8qkqooSrejkFh"
+    },
+    {
+      "added_at": "2025-10-06 15:34:36",
+      "album": {
         "name": "Trail Of Flowers (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5aMgz7gGUkMDHYbr3eNxkg"
       },
@@ -1475,22 +1475,6 @@
       "duration_ms": 209176,
       "name": "Dollar Bill Bar",
       "url": "https://open.spotify.com/track/6YmqrvUwNRWZZWNvPuDpRT"
-    },
-    {
-      "added_at": "2026-01-09 10:02:10",
-      "album": {
-        "name": "Everywhere a man can be",
-        "url": "https://open.spotify.com/album/4nCDkkBS1cSsrjQ2XCQ7Vn"
-      },
-      "artists": [
-        {
-          "name": "Zachary Lucky",
-          "url": "https://open.spotify.com/artist/6iOhLVSyUQsVyW3rk8TI6E"
-        }
-      ],
-      "duration_ms": 253773,
-      "name": "Everywhere a man can be",
-      "url": "https://open.spotify.com/track/45G9lRDmps5iw1UujkBlH9"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1525,6 +1509,22 @@
       "url": "https://open.spotify.com/track/6sthHfwGUlwXAKY4pHUk6U"
     },
     {
+      "added_at": "2026-01-09 10:02:10",
+      "album": {
+        "name": "Everywhere a man can be",
+        "url": "https://open.spotify.com/album/4nCDkkBS1cSsrjQ2XCQ7Vn"
+      },
+      "artists": [
+        {
+          "name": "Zachary Lucky",
+          "url": "https://open.spotify.com/artist/6iOhLVSyUQsVyW3rk8TI6E"
+        }
+      ],
+      "duration_ms": 253773,
+      "name": "Everywhere a man can be",
+      "url": "https://open.spotify.com/track/45G9lRDmps5iw1UujkBlH9"
+    },
+    {
       "added_at": "2025-10-24 04:01:04",
       "album": {
         "name": "Nothing To Do",
@@ -1539,6 +1539,38 @@
       "duration_ms": 254360,
       "name": "Nothing To Do",
       "url": "https://open.spotify.com/track/0CUcqntrNo4AexX9jWrmzr"
+    },
+    {
+      "added_at": "2026-02-20 13:24:26",
+      "album": {
+        "name": "Feel the Heat",
+        "url": "https://open.spotify.com/album/5yluL8wxkEXTQkiKwG9IJw"
+      },
+      "artists": [
+        {
+          "name": "The Wild Palominos",
+          "url": "https://open.spotify.com/artist/78cemO4mikDQPN9BKWg2IO"
+        }
+      ],
+      "duration_ms": 178510,
+      "name": "Feel the Heat",
+      "url": "https://open.spotify.com/track/5xRGp9QQwcGvaFUYPnMzia"
+    },
+    {
+      "added_at": "2025-10-17 08:01:09",
+      "album": {
+        "name": "Hell of a Daydream",
+        "url": "https://open.spotify.com/album/5XrPFUGISdfR7hGIE1G5kV"
+      },
+      "artists": [
+        {
+          "name": "Richard Inman",
+          "url": "https://open.spotify.com/artist/0eha96FtThymbm5svvfopg"
+        }
+      ],
+      "duration_ms": 198060,
+      "name": "Hell of a Daydream",
+      "url": "https://open.spotify.com/track/7ms1WciH0qEHlehZn9xtPc"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1557,20 +1589,20 @@
       "url": "https://open.spotify.com/track/44YwwgsWXfrSObT4vCmJMS"
     },
     {
-      "added_at": "2025-10-17 08:01:09",
+      "added_at": "2025-10-06 15:34:36",
       "album": {
-        "name": "Hell of a Daydream",
-        "url": "https://open.spotify.com/album/5XrPFUGISdfR7hGIE1G5kV"
+        "name": "Much Ado About Nothing",
+        "url": "https://open.spotify.com/album/4gHhAhd9V5f6GkZXQT8xRN"
       },
       "artists": [
         {
-          "name": "Richard Inman",
-          "url": "https://open.spotify.com/artist/0eha96FtThymbm5svvfopg"
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
         }
       ],
-      "duration_ms": 198060,
-      "name": "Hell of a Daydream",
-      "url": "https://open.spotify.com/track/7ms1WciH0qEHlehZn9xtPc"
+      "duration_ms": 229795,
+      "name": "Much Ado About Nothing",
+      "url": "https://open.spotify.com/track/1ptXvuSGFStaYw6eumiesq"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1607,18 +1639,22 @@
     {
       "added_at": "2025-10-06 15:34:36",
       "album": {
-        "name": "Much Ado About Nothing",
-        "url": "https://open.spotify.com/album/4gHhAhd9V5f6GkZXQT8xRN"
+        "name": "Don't Wake Me Up [Feat. Jesse Welles]",
+        "url": "https://open.spotify.com/album/0FU6mSNsf8fDlQGQhwIg2M"
       },
       "artists": [
         {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        },
+        {
+          "name": "Jesse Welles",
+          "url": "https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ"
         }
       ],
-      "duration_ms": 229795,
-      "name": "Much Ado About Nothing",
-      "url": "https://open.spotify.com/track/1ptXvuSGFStaYw6eumiesq"
+      "duration_ms": 253561,
+      "name": "Don't Wake Me Up [Feat. Jesse Welles]",
+      "url": "https://open.spotify.com/track/28Lt8UhUhJLgGsJQpDEJDE"
     },
     {
       "added_at": "2025-11-07 00:01:44",
@@ -1639,26 +1675,6 @@
     {
       "added_at": "2025-10-06 15:34:36",
       "album": {
-        "name": "Don't Wake Me Up [Feat. Jesse Welles]",
-        "url": "https://open.spotify.com/album/0FU6mSNsf8fDlQGQhwIg2M"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        },
-        {
-          "name": "Jesse Welles",
-          "url": "https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ"
-        }
-      ],
-      "duration_ms": 253561,
-      "name": "Don't Wake Me Up [Feat. Jesse Welles]",
-      "url": "https://open.spotify.com/track/28Lt8UhUhJLgGsJQpDEJDE"
-    },
-    {
-      "added_at": "2025-10-06 15:34:36",
-      "album": {
         "name": "Billionaire",
         "url": "https://open.spotify.com/album/169kyZ2zKTeB78mE2wPTmS"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 250200,
       "name": "Billionaire",
       "url": "https://open.spotify.com/track/0N4KNmfxiwYoFL4fEuGM35"
-    },
-    {
-      "added_at": "2026-02-20 13:24:26",
-      "album": {
-        "name": "Feel the Heat",
-        "url": "https://open.spotify.com/album/5yluL8wxkEXTQkiKwG9IJw"
-      },
-      "artists": [
-        {
-          "name": "The Wild Palominos",
-          "url": "https://open.spotify.com/artist/78cemO4mikDQPN9BKWg2IO"
-        }
-      ],
-      "duration_ms": 178510,
-      "name": "Feel the Heat",
-      "url": "https://open.spotify.com/track/5xRGp9QQwcGvaFUYPnMzia"
     }
   ],
   "unique_name": "Renegades",

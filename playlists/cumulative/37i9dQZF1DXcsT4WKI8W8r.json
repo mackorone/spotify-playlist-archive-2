@@ -5908,7 +5908,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 171898,
       "name": "Problems",
       "url": "https://open.spotify.com/track/75ylrnob5O80WTKi9ugZ1Z"
@@ -8210,6 +8210,24 @@
       "duration_ms": 199849,
       "name": "What Lovers Do (feat. SZA)",
       "url": "https://open.spotify.com/track/2j5hsQvApottzvTn4pFJWF"
+    },
+    {
+      "album": {
+        "name": "Twenty Four Seven",
+        "url": "https://open.spotify.com/album/4cJ5qo8hbiK3Tmign9vzUh"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225043,
+      "name": "When the Heartache Is Over",
+      "url": "https://open.spotify.com/track/0coFccPox52uxHy3cdLhBr"
     },
     {
       "album": {

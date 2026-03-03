@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/meaghansmom/\">Monique Blake</a>",
-  "num_followers": 11516,
+  "num_followers": 11518,
   "original_name": "Monique Blake's Taste",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5CjGqbWegCxmjVZv168HRS"
+      },
+      "artists": [
+        {
+          "name": "Alicai Harley",
+          "url": "https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh"
+        }
+      ],
+      "duration_ms": 190967,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/5wcWWTTQCEizpl98ggMRYL"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
         "name": "Exodus",
         "url": "https://open.spotify.com/album/4kztTaq5iUKFXuWj06wbRM"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 276208,
       "name": "Hood Blues (feat. Westside Gunn, Benny The Butcher & Conway The Machine)",
       "url": "https://open.spotify.com/track/1OaIvyH1IbX31m4JY6yBej"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5CjGqbWegCxmjVZv168HRS"
-      },
-      "artists": [
-        {
-          "name": "Alicai Harley",
-          "url": "https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh"
-        }
-      ],
-      "duration_ms": 190967,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/5wcWWTTQCEizpl98ggMRYL"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
+        "name": "Dancehall 101 Vol. 3",
+        "url": "https://open.spotify.com/album/2cGFEvfRv59zyj2E9BTkiH"
+      },
+      "artists": [
+        {
+          "name": "Mad Cobra",
+          "url": "https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/2TajSezbrdFdex9g5L6wo9"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
         "name": "Rum & Redbull",
         "url": "https://open.spotify.com/album/3og1VflDWwrGfXysXRzdcR"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 135640,
       "name": "Rum & Redbull",
       "url": "https://open.spotify.com/track/3rcdpymBJXEExx2YcZbjMU"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
-        "name": "Dancehall 101 Vol. 3",
-        "url": "https://open.spotify.com/album/2cGFEvfRv59zyj2E9BTkiH"
-      },
-      "artists": [
-        {
-          "name": "Mad Cobra",
-          "url": "https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "Flex",
-      "url": "https://open.spotify.com/track/2TajSezbrdFdex9g5L6wo9"
     }
   ],
   "unique_name": "Monique Blake's Taste",

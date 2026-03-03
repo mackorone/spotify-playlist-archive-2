@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh?si=s0u7SNJXQQ-JKMPH3p8dSw\">Usain Bolt</a>",
-  "num_followers": 7263,
+  "num_followers": 7262,
   "original_name": "Usain Bolt's Taste",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "The Off-Season",
-        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 168763,
-      "name": "c l o s e",
-      "url": "https://open.spotify.com/track/4YiY551vHi6glMtgVxuqAy"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Come Home",
         "url": "https://open.spotify.com/album/29K1WhYMmqwUGj3mU4Z0uc"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 200000,
       "name": "Come Home",
       "url": "https://open.spotify.com/track/48RxnStoXfZsH0hWuWiJ3C"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "The Off-Season",
+        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 168763,
+      "name": "c l o s e",
+      "url": "https://open.spotify.com/track/4YiY551vHi6glMtgVxuqAy"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -555,6 +555,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Antidote (feat. Adekunle Gold)",
+        "url": "https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 202626,
+      "name": "Antidote (feat. Adekunle Gold)",
+      "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Still Striving",
         "url": "https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 258982,
       "name": "SORRY NOT SORRY (feat. Nas, JAY-Z & James Fauntleroy) - Harmonies by The Hive",
       "url": "https://open.spotify.com/track/5OypcrFg58e4k2iYHi69ED"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Antidote (feat. Adekunle Gold)",
-        "url": "https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 202626,
-      "name": "Antidote (feat. Adekunle Gold)",
-      "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -671,6 +671,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Lock Down",
+        "url": "https://open.spotify.com/album/7iJDXxSGrAkRtYxChh4476"
+      },
+      "artists": [
+        {
+          "name": "Cham",
+          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
+        },
+        {
+          "name": "Usain Bolt",
+          "url": "https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh"
+        }
+      ],
+      "duration_ms": 177473,
+      "name": "Lock Down",
+      "url": "https://open.spotify.com/track/1tdmgA42t9diBG4wleVU17"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "KHALED KHALED",
         "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 196037,
       "name": "WE GOING CRAZY (feat. H.E.R. & Migos)",
       "url": "https://open.spotify.com/track/6BvcWv1vfVJSoWix7L5BAP"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Lock Down",
-        "url": "https://open.spotify.com/album/7iJDXxSGrAkRtYxChh4476"
-      },
-      "artists": [
-        {
-          "name": "Cham",
-          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
-        },
-        {
-          "name": "Usain Bolt",
-          "url": "https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh"
-        }
-      ],
-      "duration_ms": 177473,
-      "name": "Lock Down",
-      "url": "https://open.spotify.com/track/1tdmgA42t9diBG4wleVU17"
     },
     {
       "added_at": "2022-10-01 16:00:00",

@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 195701,
       "name": "End of the Rain",
       "url": "https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep"
@@ -4100,6 +4100,28 @@
       "duration_ms": 196591,
       "name": "Son Of A (Acoustic)",
       "url": "https://open.spotify.com/track/6dUVnXkXzVlv9UfxRoJtYN"
+    },
+    {
+      "album": {
+        "name": "Sounds Like Something I'd Say (Acoustic)",
+        "url": "https://open.spotify.com/album/66pm2X8619J4LIu2cG8aXD"
+      },
+      "artists": [
+        {
+          "name": "Kassi Ashton",
+          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
+        },
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196216,
+      "name": "Sounds Like Something I'd Say - Acoustic",
+      "url": "https://open.spotify.com/track/65IMy9SoKAWvozEuXLEoxR"
     },
     {
       "album": {

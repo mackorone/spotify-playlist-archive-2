@@ -1,12 +1,12 @@
 {
   "description": "This is Fernanda Brum. The essential tracks, all in one playlist.",
-  "num_followers": 73784,
+  "num_followers": 73790,
   "original_name": "This Is Fernanda Brum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaIwAAAAAACwKkwU/JsLLiPO2RMrQOOW",
+  "snapshot_id": "aaOBgAAAAACv6vhLwMm7y9RBjSsU7zPM",
   "tracks": [
     {
       "added_at": null,
@@ -203,18 +203,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cura-me",
-        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
+        "name": "Ac\u00fastico",
+        "url": "https://open.spotify.com/album/5WSufwHXuerKqxUiLZQ5To"
       },
       "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
         {
           "name": "Fernanda Brum",
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 310590,
-      "name": "Cura-me",
-      "url": "https://open.spotify.com/track/7BS9guU5q1fzQX1ZQUTYto"
+      "duration_ms": 368666,
+      "name": "Eu Vou Abrir o Meu Cora\u00e7\u00e3o - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6007JEFykqjFKhrRddZPDk"
     },
     {
       "added_at": null,
@@ -235,22 +239,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ac\u00fastico",
-        "url": "https://open.spotify.com/album/5WSufwHXuerKqxUiLZQ5To"
+        "name": "Cura-me",
+        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
       },
       "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        },
         {
           "name": "Fernanda Brum",
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 368666,
-      "name": "Eu Vou Abrir o Meu Cora\u00e7\u00e3o - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6007JEFykqjFKhrRddZPDk"
+      "duration_ms": 310590,
+      "name": "Cura-me",
+      "url": "https://open.spotify.com/track/7BS9guU5q1fzQX1ZQUTYto"
     },
     {
       "added_at": null,
@@ -927,22 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Milagre",
-        "url": "https://open.spotify.com/album/6vicwHRbESYCvpVtqem1Ur"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 236690,
-      "name": "A Noiva",
-      "url": "https://open.spotify.com/track/7AJOBNI8TXteMfbpuBnfC6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entre",
         "url": "https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 304813,
       "name": "Te Amo Tanto (feat. Fernanda Brum)",
       "url": "https://open.spotify.com/track/1dZmUPNuSob99F8hLnwCfb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/6vicwHRbESYCvpVtqem1Ur"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 236690,
+      "name": "A Noiva",
+      "url": "https://open.spotify.com/track/7AJOBNI8TXteMfbpuBnfC6"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 134004,
+  "num_followers": 134021,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 162595,
-      "name": "Look At Her Now",
-      "url": "https://open.spotify.com/track/7eOkHIcaoUhngxxypM5Ajr"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Heartthrob",
         "url": "https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 210213,
       "name": "Closer",
       "url": "https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 162595,
+      "name": "Look At Her Now",
+      "url": "https://open.spotify.com/track/7eOkHIcaoUhngxxypM5Ajr"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "Christina Milian",
+        "url": "https://open.spotify.com/album/1Okk0lo0aBdchXZmjDHjkS"
+      },
+      "artists": [
+        {
+          "name": "Christina Milian",
+          "url": "https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw"
+        }
+      ],
+      "duration_ms": 231213,
+      "name": "AM To PM",
+      "url": "https://open.spotify.com/track/1PUNthIXityeZlnRLcP7JI"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Speak",
         "url": "https://open.spotify.com/album/3ZxcXB6JtLDAEUDLVkiIRe"
       },
@@ -755,18 +771,50 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Christina Milian",
-        "url": "https://open.spotify.com/album/1Okk0lo0aBdchXZmjDHjkS"
+        "name": "With The Music I Die (Deluxe)",
+        "url": "https://open.spotify.com/album/6lTavhbKfE9Fy582VHOCv4"
       },
       "artists": [
         {
-          "name": "Christina Milian",
-          "url": "https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw"
+          "name": "Wynter Gordon",
+          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
         }
       ],
-      "duration_ms": 231213,
-      "name": "AM To PM",
-      "url": "https://open.spotify.com/track/1PUNthIXityeZlnRLcP7JI"
+      "duration_ms": 197586,
+      "name": "Dirty Talk",
+      "url": "https://open.spotify.com/track/0MX8RxbgtZWRGZRE0Z6zNS"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Lotus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 240164,
+      "name": "Your Body",
+      "url": "https://open.spotify.com/track/2pmtavvgqZN52EePYxutgk"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "PCD",
+        "url": "https://open.spotify.com/album/53zV9rZ5yfWgigsmuJtYpG"
+      },
+      "artists": [
+        {
+          "name": "The Pussycat Dolls",
+          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "I Don't Need A Man",
+      "url": "https://open.spotify.com/track/21avvmlLWna5CQMxSNDLL8"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -791,50 +839,18 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Lotus (Deluxe Version)",
-        "url": "https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q"
+        "name": "Heart to Break",
+        "url": "https://open.spotify.com/album/1EIqxxK1683sjRXjx2MXyD"
       },
       "artists": [
         {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 240164,
-      "name": "Your Body",
-      "url": "https://open.spotify.com/track/2pmtavvgqZN52EePYxutgk"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "With The Music I Die (Deluxe)",
-        "url": "https://open.spotify.com/album/6lTavhbKfE9Fy582VHOCv4"
-      },
-      "artists": [
-        {
-          "name": "Wynter Gordon",
-          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
-        }
-      ],
-      "duration_ms": 197586,
-      "name": "Dirty Talk",
-      "url": "https://open.spotify.com/track/0MX8RxbgtZWRGZRE0Z6zNS"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "PCD",
-        "url": "https://open.spotify.com/album/53zV9rZ5yfWgigsmuJtYpG"
-      },
-      "artists": [
-        {
-          "name": "The Pussycat Dolls",
-          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "I Don't Need A Man",
-      "url": "https://open.spotify.com/track/21avvmlLWna5CQMxSNDLL8"
+      "duration_ms": 225972,
+      "name": "Heart to Break",
+      "url": "https://open.spotify.com/track/1jFN0stMzLepoPxvPywGZj"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -867,22 +883,6 @@
       "duration_ms": 197386,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/3lfLAToNl2Ibcuo9U6UTSd"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Heart to Break",
-        "url": "https://open.spotify.com/album/1EIqxxK1683sjRXjx2MXyD"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 225972,
-      "name": "Heart to Break",
-      "url": "https://open.spotify.com/track/1jFN0stMzLepoPxvPywGZj"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Circus (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 230198,
-      "name": "Radar",
-      "url": "https://open.spotify.com/track/0awvRwer2ByXjyDSON60Q3"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Neon Nights (Deluxe Version)",
         "url": "https://open.spotify.com/album/5wPGmNlCTfX44dFqvefJUE"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 219999,
       "name": "I Begin to Wonder",
       "url": "https://open.spotify.com/track/5OKjyuulniceXswXHLYZqV"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Circus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 230198,
+      "name": "Radar",
+      "url": "https://open.spotify.com/track/0awvRwer2ByXjyDSON60Q3"
     },
     {
       "added_at": "2025-09-05 02:01:30",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "I Don't Wanna Grow Up",
-        "url": "https://open.spotify.com/album/7fpYQJGXdDUzmhZAQmf8BE"
+        "name": "Audacious",
+        "url": "https://open.spotify.com/album/0Gg0Pn44Sh7FYtBDzgc5CF"
       },
       "artists": [
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+          "name": "cupcakKe",
+          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
         }
       ],
-      "duration_ms": 207775,
-      "name": "I'm Gonna Show You Crazy",
-      "url": "https://open.spotify.com/track/3EVooCKm9XbvXsfgjhGDAB"
+      "duration_ms": 161332,
+      "name": "Lgbt",
+      "url": "https://open.spotify.com/track/0lsw4q8Jei7gEoV7kFe3DS"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Audacious",
-        "url": "https://open.spotify.com/album/0Gg0Pn44Sh7FYtBDzgc5CF"
+        "name": "I Don't Wanna Grow Up",
+        "url": "https://open.spotify.com/album/7fpYQJGXdDUzmhZAQmf8BE"
       },
       "artists": [
         {
-          "name": "cupcakKe",
-          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
         }
       ],
-      "duration_ms": 161332,
-      "name": "Lgbt",
-      "url": "https://open.spotify.com/track/0lsw4q8Jei7gEoV7kFe3DS"
+      "duration_ms": 207775,
+      "name": "I'm Gonna Show You Crazy",
+      "url": "https://open.spotify.com/track/3EVooCKm9XbvXsfgjhGDAB"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "American Girl",
-        "url": "https://open.spotify.com/album/4PwSDqUwhh4sZUHyi7UzXb"
-      },
-      "artists": [
-        {
-          "name": "Bonnie McKee",
-          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
-        }
-      ],
-      "duration_ms": 224106,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/0vvG0VEN6l2fbIEUtq3mQD"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Record Collection",
         "url": "https://open.spotify.com/album/0m8wvW3WNm9D7J0KUlbf3h"
       },
@@ -1511,18 +1495,18 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Dedicated",
-        "url": "https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu"
+        "name": "American Girl",
+        "url": "https://open.spotify.com/album/4PwSDqUwhh4sZUHyi7UzXb"
       },
       "artists": [
         {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+          "name": "Bonnie McKee",
+          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
         }
       ],
-      "duration_ms": 166293,
-      "name": "Want You In My Room",
-      "url": "https://open.spotify.com/track/6cDPJqKw8PUBw5SigKszrL"
+      "duration_ms": 224106,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/0vvG0VEN6l2fbIEUtq3mQD"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1539,6 +1523,22 @@
       "duration_ms": 202640,
       "name": "Hair Body Face",
       "url": "https://open.spotify.com/track/16VQqrD8XTaIiJDCMStjxK"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Dedicated",
+        "url": "https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 166293,
+      "name": "Want You In My Room",
+      "url": "https://open.spotify.com/track/6cDPJqKw8PUBw5SigKszrL"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "MDNA (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6xmfXi6p6SAxD4Rd7swccG"
+        "name": "Ooh Aah...Just a Little Bit (Eurovision Version)",
+        "url": "https://open.spotify.com/album/4k2cMbg4lC05pS47zHnwc1"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Gina G",
+          "url": "https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8"
         }
       ],
-      "duration_ms": 223066,
-      "name": "Girl Gone Wild",
-      "url": "https://open.spotify.com/track/6SONqPbbSCVP5rgi0CdRxu"
+      "duration_ms": 182333,
+      "name": "Ooh Aah... Just A Little Bit - Eurovision Version",
+      "url": "https://open.spotify.com/track/5KsGeqTJgJMAWuyTZ5WmMn"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1615,18 +1615,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Ooh Aah...Just a Little Bit (Eurovision Version)",
-        "url": "https://open.spotify.com/album/4k2cMbg4lC05pS47zHnwc1"
+        "name": "What Are You Waiting For?",
+        "url": "https://open.spotify.com/album/3MS1gNAz5pde4zfLKlALc3"
       },
       "artists": [
         {
-          "name": "Gina G",
-          "url": "https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8"
+          "name": "The Saturdays",
+          "url": "https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5"
+        },
+        {
+          "name": "The Alias",
+          "url": "https://open.spotify.com/artist/78WijkLKBV4F1vRUZepBSp"
         }
       ],
-      "duration_ms": 182333,
-      "name": "Ooh Aah... Just A Little Bit - Eurovision Version",
-      "url": "https://open.spotify.com/track/5KsGeqTJgJMAWuyTZ5WmMn"
+      "duration_ms": 461737,
+      "name": "Greatest Hits Megamix",
+      "url": "https://open.spotify.com/track/0IPjb3rhdyrcoUdJUsAgR3"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1651,26 +1655,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "What Are You Waiting For?",
-        "url": "https://open.spotify.com/album/3MS1gNAz5pde4zfLKlALc3"
-      },
-      "artists": [
-        {
-          "name": "The Saturdays",
-          "url": "https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5"
-        },
-        {
-          "name": "The Alias",
-          "url": "https://open.spotify.com/artist/78WijkLKBV4F1vRUZepBSp"
-        }
-      ],
-      "duration_ms": 461737,
-      "name": "Greatest Hits Megamix",
-      "url": "https://open.spotify.com/track/0IPjb3rhdyrcoUdJUsAgR3"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "EMOTION SIDE B",
         "url": "https://open.spotify.com/album/31776n0a6xHYMHSlK4983u"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 236533,
       "name": "Cry",
       "url": "https://open.spotify.com/track/7wgxq27uOvfydLunYkcmAU"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "MDNA (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6xmfXi6p6SAxD4Rd7swccG"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 223066,
+      "name": "Girl Gone Wild",
+      "url": "https://open.spotify.com/track/6SONqPbbSCVP5rgi0CdRxu"
     },
     {
       "added_at": "2024-06-02 21:23:10",

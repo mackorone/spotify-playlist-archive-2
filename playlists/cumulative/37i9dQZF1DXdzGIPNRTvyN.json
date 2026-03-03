@@ -689,6 +689,32 @@
     },
     {
       "album": {
+        "name": "Forest of Rain",
+        "url": "https://open.spotify.com/album/2dgxGey8LAcliQjoGGuKID"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Flyndon",
+          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
+        },
+        {
+          "name": "Chill Palm",
+          "url": "https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186537,
+      "name": "Bowie - Awakening",
+      "url": "https://open.spotify.com/track/63zRRZhL8x0VA64o82uh2d"
+    },
+    {
+      "album": {
         "name": "In The Forest",
         "url": "https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88"
       },
@@ -3098,7 +3124,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 151000,
       "name": "Innstreymi",
       "url": "https://open.spotify.com/track/0W2alSnYcL442CPRsGDpgz"
@@ -4963,6 +4989,24 @@
     },
     {
       "album": {
+        "name": "Pesanteur",
+        "url": "https://open.spotify.com/album/02U4nbAuQOUnU3BXdaeFgU"
+      },
+      "artists": [
+        {
+          "name": "Auremist",
+          "url": "https://open.spotify.com/artist/66lfbXCNAo1TaYXiFnnaIE"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206745,
+      "name": "Pesanteur",
+      "url": "https://open.spotify.com/track/5pzmVX5w6AK7IEuuAGrCcO"
+    },
+    {
+      "album": {
         "name": "Piccola Valle Verde",
         "url": "https://open.spotify.com/album/331p32IoM4u2VYT264nO4g"
       },
@@ -6022,7 +6066,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 160975,
       "name": "Solar Skies",
       "url": "https://open.spotify.com/track/1W3SYju3DvZHWgNSzb3N0S"

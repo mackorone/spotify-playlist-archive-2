@@ -1,12 +1,12 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 596858,
+  "num_followers": 596882,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaIwAAAAAADjeWUJoPVeG/yIHZIq8X/v",
+  "snapshot_id": "aaOBgAAAAACRaLHFL7cZtTK2DFDa5NRI",
   "tracks": [
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/093amtf9s8VkIdUtvd2Tap"
+        "name": "Seventeen Seconds",
+        "url": "https://open.spotify.com/album/6DCJNDiXeT5C8uSFNM8k56"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 250653,
-      "name": "Cut Here",
-      "url": "https://open.spotify.com/track/1SuAd1VNCDpM2ovs1ic9tN"
+      "duration_ms": 183426,
+      "name": "M",
+      "url": "https://open.spotify.com/track/2iyEvZdipDeCmSW8v8PA32"
     },
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seventeen Seconds",
-        "url": "https://open.spotify.com/album/6DCJNDiXeT5C8uSFNM8k56"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/093amtf9s8VkIdUtvd2Tap"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 183426,
-      "name": "M",
-      "url": "https://open.spotify.com/track/2iyEvZdipDeCmSW8v8PA32"
+      "duration_ms": 250653,
+      "name": "Cut Here",
+      "url": "https://open.spotify.com/track/1SuAd1VNCDpM2ovs1ic9tN"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/1Vmdh3ybBnkJN6uBgD0xlo"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 67800,
-      "name": "Doubt - RS Home Instrumental Demo 8/80",
-      "url": "https://open.spotify.com/track/5mOggHnHC7VEE9Eigrlv40"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bloodflowers",
         "url": "https://open.spotify.com/album/5HJmojoRWpw0GYiRjdLT6B"
       },
@@ -659,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three Imaginary Boys",
-        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 203400,
-      "name": "Fire In Cairo",
-      "url": "https://open.spotify.com/track/2ZZjAZLVSnHJnSNFN5AUCd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Faith (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0BGTV9xi9NFdUjA3erGs1T"
       },
@@ -687,6 +655,22 @@
       "duration_ms": 253333,
       "name": "Charlotte Sometimes - Single Version",
       "url": "https://open.spotify.com/track/1rs7lqaXBlcw1N9wuHiQyJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Three Imaginary Boys",
+        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 203400,
+      "name": "Fire In Cairo",
+      "url": "https://open.spotify.com/track/2ZZjAZLVSnHJnSNFN5AUCd"
     },
     {
       "added_at": null,
@@ -707,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 317346,
+      "name": "Plainsong - Remastered",
+      "url": "https://open.spotify.com/track/4gcfxHL1iRgP0RHCDYMNIo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Disintegration (Remastered)",
         "url": "https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS"
       },
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disintegration (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/1Vmdh3ybBnkJN6uBgD0xlo"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 317346,
-      "name": "Plainsong - Remastered",
-      "url": "https://open.spotify.com/track/4gcfxHL1iRgP0RHCDYMNIo"
+      "duration_ms": 67800,
+      "name": "Doubt - RS Home Instrumental Demo 8/80",
+      "url": "https://open.spotify.com/track/5mOggHnHC7VEE9Eigrlv40"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This is Rashid\. The essential tracks, all in one playlist.
 
-116 songs - 8 hr 7 min
+117 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Estereótipo](https://open.spotify.com/track/4LlPG12E6JJLbV9SmyDS1E) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Crise](https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91) | 4:46 | 2023-09-18 | 2025-01-31 |
 | [Eu](https://open.spotify.com/track/540hxebLj7w5EHhVx0lUUv) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Srta\. Paola](https://open.spotify.com/artist/63ibOFnRUQhYy6s7xypyHe) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 4:57 | 2023-09-18 | 2025-06-30 |
 | [Eu Te Avisei](https://open.spotify.com/track/3dPygQx0ohogo6TwFCiJR3) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Que Assim Seja](https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu) | 4:00 | 2024-03-05 | 2026-01-25 |
+| [Fiquei assim](https://open.spotify.com/track/4F9xeQ3OJF2DOtdZdcCxnz) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Fiquei assim](https://open.spotify.com/album/6lwP5k0KjFzM2Rk1sIdCfN) | 3:38 | 2026-03-03 |  |
 | [Frustração](https://open.spotify.com/track/1xKDCXGgQvox1Kv4ez7hs4) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Portal](https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf) | 3:07 | 2024-08-11 | 2024-09-08 |
 | [Gratidão](https://open.spotify.com/track/7KS9hVnDI7CUf9E7KxbXPI) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Gratidão](https://open.spotify.com/album/74bFWd3N2kKb76W7unhGg0) | 3:34 | 2023-09-18 |  |
 | [Gênesis](https://open.spotify.com/track/4MDuV3NrviVuGv73ZjgPH4) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Thiago Jamelão](https://open.spotify.com/artist/7zHj1zkd6BDHQhMwWXLxQj), [Duda Raupp](https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp) | [Gênesis](https://open.spotify.com/album/1D3YpkkKuOpDaGmYsgrhdB) | 4:00 | 2024-03-28 | 2024-10-19 |
@@ -111,7 +112,7 @@
 | [Tudo Ou Nada](https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Que Assim Seja](https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu) | 4:25 | 2023-09-18 |  |
 | [Tão Real](https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 4:15 | 2023-09-18 |  |
 | [Um Novo Tom](https://open.spotify.com/track/3uyXq1Y4zSy93mZI2iv8vL) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Um Novo Tom](https://open.spotify.com/album/11hngtRtwhsb9KDuQB3Rf1) | 4:50 | 2025-10-24 |  |
-| [Um Sonho Só](https://open.spotify.com/track/46j8R60lIlLcilPzLj1rR1) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 5:04 | 2026-02-03 |  |
+| [Um Sonho Só](https://open.spotify.com/track/46j8R60lIlLcilPzLj1rR1) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 5:04 | 2026-02-03 | 2026-03-03 |
 | [Um Tom de Azul](https://open.spotify.com/track/0KU4mayaRz3gGeAKo8M7wG) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Portal](https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf) | 4:21 | 2024-08-11 | 2025-11-27 |
 | [Um Tom de Azul](https://open.spotify.com/track/7iob0Rybbkh8xdrqLxs8wD) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Portal](https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx) | 4:21 | 2025-11-28 |  |
 | [Uma Chance](https://open.spotify.com/track/60ym0dw2oPkxwB8ChatGIF) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Rael da Rima](https://open.spotify.com/artist/7tJKW0WJmc5M3hm5foKBHf) | [Hora de Acordar](https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS) | 3:43 | 2025-04-10 |  |

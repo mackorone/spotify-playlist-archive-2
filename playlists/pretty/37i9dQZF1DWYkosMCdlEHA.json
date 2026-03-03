@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 153106,
+  "num_followers": 153122,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
@@ -763,18 +763,22 @@
     {
       "added_at": "2025-09-26 03:01:17",
       "album": {
-        "name": "Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR"
+        "name": "Ao Vivo em Buenos Aires",
+        "url": "https://open.spotify.com/album/6awNZk5um5gkMuPZ8Kg8BD"
       },
       "artists": [
         {
           "name": "Armandinho",
           "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
+        },
+        {
+          "name": "Chimarruts",
+          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
         }
       ],
-      "duration_ms": 308901,
-      "name": "A Casa do Sol/Sentimento - Ao Vivo",
-      "url": "https://open.spotify.com/track/5AxcOoKhbmtT3nxZiK8qnM"
+      "duration_ms": 187199,
+      "name": "Versos Simples - Ao Vivo",
+      "url": "https://open.spotify.com/track/3REzLdUlfQRpRG6psodExG"
     },
     {
       "added_at": "2025-09-26 03:01:17",
@@ -855,22 +859,18 @@
     {
       "added_at": "2025-09-26 03:01:17",
       "album": {
-        "name": "Ao Vivo em Buenos Aires",
-        "url": "https://open.spotify.com/album/6awNZk5um5gkMuPZ8Kg8BD"
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR"
       },
       "artists": [
         {
           "name": "Armandinho",
           "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
-        },
-        {
-          "name": "Chimarruts",
-          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
         }
       ],
-      "duration_ms": 187199,
-      "name": "Versos Simples - Ao Vivo",
-      "url": "https://open.spotify.com/track/3REzLdUlfQRpRG6psodExG"
+      "duration_ms": 308901,
+      "name": "A Casa do Sol/Sentimento - Ao Vivo",
+      "url": "https://open.spotify.com/track/5AxcOoKhbmtT3nxZiK8qnM"
     },
     {
       "added_at": "2025-09-26 03:01:17",

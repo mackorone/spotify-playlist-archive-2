@@ -1,6 +1,6 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 378672,
+  "num_followers": 378721,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Dah Shinin'",
-        "url": "https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM"
-      },
-      "artists": [
-        {
-          "name": "Smif-N-Wessun",
-          "url": "https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0"
-        }
-      ],
-      "duration_ms": 247933,
-      "name": "Bucktown",
-      "url": "https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Drive-Thru Booty",
         "url": "https://open.spotify.com/album/30CvHpK3jlKpgndhjOx3n2"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 264093,
       "name": "Turn On, Tune In, Cop Out - Radio Edit",
       "url": "https://open.spotify.com/track/2SC4TS2QvUcKvXRFGgyyDc"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Dah Shinin'",
+        "url": "https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM"
+      },
+      "artists": [
+        {
+          "name": "Smif-N-Wessun",
+          "url": "https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0"
+        }
+      ],
+      "duration_ms": 247933,
+      "name": "Bucktown",
+      "url": "https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -509,6 +509,22 @@
       "url": "https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3"
     },
     {
+      "added_at": "2024-03-26 13:58:29",
+      "album": {
+        "name": "Road To Freedom",
+        "url": "https://open.spotify.com/album/5NZjo5bmc4kVlVp0sIfqMg"
+      },
+      "artists": [
+        {
+          "name": "Young Disciples",
+          "url": "https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4"
+        }
+      ],
+      "duration_ms": 321426,
+      "name": "Apparently Nothin' - Soul River",
+      "url": "https://open.spotify.com/track/5tjFtfGhmq1emybxdG6gIl"
+    },
+    {
       "added_at": "2022-07-14 19:24:43",
       "album": {
         "name": "Eternal",
@@ -533,36 +549,20 @@
       "url": "https://open.spotify.com/track/6jWFsJT5IYVKCJEQ55L29W"
     },
     {
-      "added_at": "2024-03-26 13:58:29",
-      "album": {
-        "name": "Road To Freedom",
-        "url": "https://open.spotify.com/album/5NZjo5bmc4kVlVp0sIfqMg"
-      },
-      "artists": [
-        {
-          "name": "Young Disciples",
-          "url": "https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4"
-        }
-      ],
-      "duration_ms": 321426,
-      "name": "Apparently Nothin' - Soul River",
-      "url": "https://open.spotify.com/track/5tjFtfGhmq1emybxdG6gIl"
-    },
-    {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Here Come The Lords",
-        "url": "https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI"
+        "name": "Groove Collective",
+        "url": "https://open.spotify.com/album/3yhvrkLMZjGzb0uBQq5y2N"
       },
       "artists": [
         {
-          "name": "Lords Of The Underground",
-          "url": "https://open.spotify.com/artist/17Q9sCBpIyS6yM2YyaI6R4"
+          "name": "Groove Collective",
+          "url": "https://open.spotify.com/artist/4jtNe96TPlvnre0tgcL5pg"
         }
       ],
-      "duration_ms": 166400,
-      "name": "Lord Jazz Hit Me One Time (Make It Funky)",
-      "url": "https://open.spotify.com/track/2vWaZmzwxRDNYySRGUdq3N"
+      "duration_ms": 394826,
+      "name": "Whatchugot",
+      "url": "https://open.spotify.com/track/5kMnWSBKSLnN7Su1XDTttO"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -583,18 +583,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Groove Collective",
-        "url": "https://open.spotify.com/album/3yhvrkLMZjGzb0uBQq5y2N"
+        "name": "Here Come The Lords",
+        "url": "https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI"
       },
       "artists": [
         {
-          "name": "Groove Collective",
-          "url": "https://open.spotify.com/artist/4jtNe96TPlvnre0tgcL5pg"
+          "name": "Lords Of The Underground",
+          "url": "https://open.spotify.com/artist/17Q9sCBpIyS6yM2YyaI6R4"
         }
       ],
-      "duration_ms": 394826,
-      "name": "Whatchugot",
-      "url": "https://open.spotify.com/track/5kMnWSBKSLnN7Su1XDTttO"
+      "duration_ms": 166400,
+      "name": "Lord Jazz Hit Me One Time (Make It Funky)",
+      "url": "https://open.spotify.com/track/2vWaZmzwxRDNYySRGUdq3N"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -611,38 +611,6 @@
       "duration_ms": 410319,
       "name": "Feel The Real",
       "url": "https://open.spotify.com/track/2tTMoXavkBdOsjKGaKdzdm"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Rewind, Vol. 4",
-        "url": "https://open.spotify.com/album/7FGy6XcQ4v0sP56LWbg6gp"
-      },
-      "artists": [
-        {
-          "name": "The Rebirth",
-          "url": "https://open.spotify.com/artist/69Jz3OjR3kdhCoJoAY8PSL"
-        }
-      ],
-      "duration_ms": 333106,
-      "name": "Evil Vibrations",
-      "url": "https://open.spotify.com/track/2kKP6f4FdVxOHvUG8ctLKY"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Southern Comfort",
-        "url": "https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD"
-      },
-      "artists": [
-        {
-          "name": "The Crusaders",
-          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
-        }
-      ],
-      "duration_ms": 348760,
-      "name": "Stomp And Buck Dance",
-      "url": "https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -679,6 +647,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Southern Comfort",
+        "url": "https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD"
+      },
+      "artists": [
+        {
+          "name": "The Crusaders",
+          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
+        }
+      ],
+      "duration_ms": 348760,
+      "name": "Stomp And Buck Dance",
+      "url": "https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Sounds from the Ancestors",
         "url": "https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd"
       },
@@ -695,22 +679,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "I-Level",
-        "url": "https://open.spotify.com/album/0OCJNxmBNVXTS9tAAwXea8"
-      },
-      "artists": [
-        {
-          "name": "iLEVEL",
-          "url": "https://open.spotify.com/artist/6giP3D3xjy48VZKi3nk3eE"
-        }
-      ],
-      "duration_ms": 241539,
-      "name": "Give Me",
-      "url": "https://open.spotify.com/track/5VSxOUW2zqOo77pauTqpFG"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Cookie Dough",
         "url": "https://open.spotify.com/album/416RB6m6lOsWBb1KMBwimM"
       },
@@ -723,6 +691,22 @@
       "duration_ms": 175586,
       "name": "Serious Drug",
       "url": "https://open.spotify.com/track/3EKzH4moV9wWTkVEdgz91A"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "I-Level",
+        "url": "https://open.spotify.com/album/0OCJNxmBNVXTS9tAAwXea8"
+      },
+      "artists": [
+        {
+          "name": "iLEVEL",
+          "url": "https://open.spotify.com/artist/6giP3D3xjy48VZKi3nk3eE"
+        }
+      ],
+      "duration_ms": 241539,
+      "name": "Give Me",
+      "url": "https://open.spotify.com/track/5VSxOUW2zqOo77pauTqpFG"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -759,6 +743,22 @@
       "duration_ms": 265760,
       "name": "Apple Green",
       "url": "https://open.spotify.com/track/09athuEe5kQfC7bV63jmGa"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Rewind, Vol. 4",
+        "url": "https://open.spotify.com/album/7FGy6XcQ4v0sP56LWbg6gp"
+      },
+      "artists": [
+        {
+          "name": "The Rebirth",
+          "url": "https://open.spotify.com/artist/69Jz3OjR3kdhCoJoAY8PSL"
+        }
+      ],
+      "duration_ms": 333106,
+      "name": "Evil Vibrations",
+      "url": "https://open.spotify.com/track/2kKP6f4FdVxOHvUG8ctLKY"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -807,6 +807,22 @@
       "duration_ms": 294240,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/6YjqkGsBgRHqdnbCS4pbjs"
+    },
+    {
+      "added_at": "2024-03-26 13:55:21",
+      "album": {
+        "name": "Sleazeball",
+        "url": "https://open.spotify.com/album/3hxRgoRmClEKCFykjpj6gb"
+      },
+      "artists": [
+        {
+          "name": "Night Trains",
+          "url": "https://open.spotify.com/artist/3TDzdGMoABiaQhqtUBEftG"
+        }
+      ],
+      "duration_ms": 267066,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/7KarCryu01mw8AFBDgTlzn"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -885,20 +901,24 @@
       "url": "https://open.spotify.com/track/2hrJhwVInTOFaXcCuFzRl9"
     },
     {
-      "added_at": "2024-03-26 13:55:21",
+      "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Sleazeball",
-        "url": "https://open.spotify.com/album/3hxRgoRmClEKCFykjpj6gb"
+        "name": "Disposable Arts",
+        "url": "https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN"
       },
       "artists": [
         {
-          "name": "Night Trains",
-          "url": "https://open.spotify.com/artist/3TDzdGMoABiaQhqtUBEftG"
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        },
+        {
+          "name": "Punch&Words",
+          "url": "https://open.spotify.com/artist/61FbYXEKKxS7MHKzXM9Ej7"
         }
       ],
-      "duration_ms": 267066,
-      "name": "Lovesick",
-      "url": "https://open.spotify.com/track/7KarCryu01mw8AFBDgTlzn"
+      "duration_ms": 228466,
+      "name": "Block Episode",
+      "url": "https://open.spotify.com/track/1axCLL1W1NiOVz32Dnf2Ie"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -919,26 +939,6 @@
       "duration_ms": 177842,
       "name": "Beatmaker",
       "url": "https://open.spotify.com/track/2oXbBzR7XvLQDSxZumgsIN"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Disposable Arts",
-        "url": "https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN"
-      },
-      "artists": [
-        {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
-        },
-        {
-          "name": "Punch&Words",
-          "url": "https://open.spotify.com/artist/61FbYXEKKxS7MHKzXM9Ej7"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Block Episode",
-      "url": "https://open.spotify.com/track/1axCLL1W1NiOVz32Dnf2Ie"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1007,30 +1007,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Pushin On",
-        "url": "https://open.spotify.com/album/0KPkVfp35nc2BrsHEwdEh3"
-      },
-      "artists": [
-        {
-          "name": "The Quantic Soul Orchestra",
-          "url": "https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e"
-        },
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        },
-        {
-          "name": "Alice Russell",
-          "url": "https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc"
-        }
-      ],
-      "duration_ms": 199560,
-      "name": "Pushin On",
-      "url": "https://open.spotify.com/track/2JySddvtTr1Cxsb6kteTrH"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Ring of Saturn",
         "url": "https://open.spotify.com/album/2VTLDohCGomGkyOOvKi96p"
       },
@@ -1083,6 +1059,30 @@
       "duration_ms": 344986,
       "name": "Rubberband of Life (feat. Ledisi)",
       "url": "https://open.spotify.com/track/7IYV3GN411W65phaX3XP6Q"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Pushin On",
+        "url": "https://open.spotify.com/album/0KPkVfp35nc2BrsHEwdEh3"
+      },
+      "artists": [
+        {
+          "name": "The Quantic Soul Orchestra",
+          "url": "https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e"
+        },
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Alice Russell",
+          "url": "https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc"
+        }
+      ],
+      "duration_ms": 199560,
+      "name": "Pushin On",
+      "url": "https://open.spotify.com/track/2JySddvtTr1Cxsb6kteTrH"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Brass Construction II",
+        "url": "https://open.spotify.com/album/0c8782gtKBLYzPls3Wtat6"
+      },
+      "artists": [
+        {
+          "name": "Brass Construction",
+          "url": "https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9"
+        }
+      ],
+      "duration_ms": 358333,
+      "name": "Now Is Tomorrow (Anticipation)",
+      "url": "https://open.spotify.com/track/3MiiMAoyj2UWIBEjwVXyQ8"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Leaves of Memories",
         "url": "https://open.spotify.com/album/5BpiVLYkZ7nKGD2B4XLuul"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 144500,
       "name": "Clouds in the Sky",
       "url": "https://open.spotify.com/track/44Ln5NkkKk2yxZfQcqpVjx"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Brass Construction II",
-        "url": "https://open.spotify.com/album/0c8782gtKBLYzPls3Wtat6"
-      },
-      "artists": [
-        {
-          "name": "Brass Construction",
-          "url": "https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9"
-        }
-      ],
-      "duration_ms": 358333,
-      "name": "Now Is Tomorrow (Anticipation)",
-      "url": "https://open.spotify.com/track/3MiiMAoyj2UWIBEjwVXyQ8"
     },
     {
       "added_at": "2022-07-18 17:17:22",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Stratosphere Breakdown",
+        "url": "https://open.spotify.com/album/15ZDZluZWWoORCxA5XQz3K"
+      },
+      "artists": [
+        {
+          "name": "New Jersey Kings",
+          "url": "https://open.spotify.com/artist/6g81T9O07sCvu1uYzzOVIp"
+        }
+      ],
+      "duration_ms": 295466,
+      "name": "Dream Waves",
+      "url": "https://open.spotify.com/track/60tYJYZU9TwT39TlRd2ekD"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Woman Of The Ghetto (Reimagined)",
         "url": "https://open.spotify.com/album/2rjniBoJTfY4IIn8aPaR19"
       },
@@ -1283,22 +1299,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Stratosphere Breakdown",
-        "url": "https://open.spotify.com/album/15ZDZluZWWoORCxA5XQz3K"
-      },
-      "artists": [
-        {
-          "name": "New Jersey Kings",
-          "url": "https://open.spotify.com/artist/6g81T9O07sCvu1uYzzOVIp"
-        }
-      ],
-      "duration_ms": 295466,
-      "name": "Dream Waves",
-      "url": "https://open.spotify.com/track/60tYJYZU9TwT39TlRd2ekD"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "The Best of Acid Jazz Vol. 2",
         "url": "https://open.spotify.com/album/5TagkuIHtwtdmDKqdMdv9f"
       },
@@ -1311,86 +1311,6 @@
       "duration_ms": 231093,
       "name": "Don't Let It Go to Your Head",
       "url": "https://open.spotify.com/track/0NQ61HS437hTIsl57U0GNw"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "A Joyful Noise Unto The Creator",
-        "url": "https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j"
-      },
-      "artists": [
-        {
-          "name": "Galliano",
-          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
-        }
-      ],
-      "duration_ms": 355533,
-      "name": "Prince Of Peace",
-      "url": "https://open.spotify.com/track/0bzncFV24esz0QZOo4r1ss"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "On The One",
-        "url": "https://open.spotify.com/album/2wxTaM1mg8J6T5lQgOugGk"
-      },
-      "artists": [
-        {
-          "name": "All Good Funk Alliance",
-          "url": "https://open.spotify.com/artist/73Qym52gV9q9oJuZMZZv0s"
-        }
-      ],
-      "duration_ms": 332933,
-      "name": "Pete's Sake",
-      "url": "https://open.spotify.com/track/0CrzPm81c6W4uwXWSu1rB8"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "The Whole Thing",
-        "url": "https://open.spotify.com/album/1hNqQgyUpZvDu9lDEi9Yzc"
-      },
-      "artists": [
-        {
-          "name": "The Whole Thing",
-          "url": "https://open.spotify.com/artist/6329ULqnLbRWcDIPaVPEmM"
-        }
-      ],
-      "duration_ms": 228933,
-      "name": "Peer Pressure",
-      "url": "https://open.spotify.com/track/1FMGZE4pWo49VXyKeFeO5o"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Culture of Fear",
-        "url": "https://open.spotify.com/album/7FYZT6dAKPQyLl5mUAZ263"
-      },
-      "artists": [
-        {
-          "name": "Thievery Corporation",
-          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
-        }
-      ],
-      "duration_ms": 272800,
-      "name": "Web of Deception",
-      "url": "https://open.spotify.com/track/4g2dDlVCL7KMBhN6c37RjY"
-    },
-    {
-      "added_at": "2022-07-18 17:17:22",
-      "album": {
-        "name": "Playing my piano",
-        "url": "https://open.spotify.com/album/5QxvuQDhcKIJiQkwDFXfHV"
-      },
-      "artists": [
-        {
-          "name": "Don Laka",
-          "url": "https://open.spotify.com/artist/1pVB3hFHwbaa3CkI72nQfQ"
-        }
-      ],
-      "duration_ms": 381594,
-      "name": "Playing my piano",
-      "url": "https://open.spotify.com/track/5lri4wmusuBlpOQWENexUK"
     },
     {
       "added_at": "2024-08-12 13:49:26",
@@ -1411,18 +1331,82 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "The Acid Jazz Collection: Jazz",
-        "url": "https://open.spotify.com/album/079VY3Bq21ahpq9lAvfNpc"
+        "name": "On The One",
+        "url": "https://open.spotify.com/album/2wxTaM1mg8J6T5lQgOugGk"
       },
       "artists": [
         {
-          "name": "Max Beesley's High Vibes",
-          "url": "https://open.spotify.com/artist/3g3DY4k7sZVhr7qyXHXvtd"
+          "name": "All Good Funk Alliance",
+          "url": "https://open.spotify.com/artist/73Qym52gV9q9oJuZMZZv0s"
         }
       ],
-      "duration_ms": 244080,
-      "name": "Mr. Jeckle",
-      "url": "https://open.spotify.com/track/44gelCZF88DC5IRz5XmckW"
+      "duration_ms": 332933,
+      "name": "Pete's Sake",
+      "url": "https://open.spotify.com/track/0CrzPm81c6W4uwXWSu1rB8"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Culture of Fear",
+        "url": "https://open.spotify.com/album/7FYZT6dAKPQyLl5mUAZ263"
+      },
+      "artists": [
+        {
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+        }
+      ],
+      "duration_ms": 272800,
+      "name": "Web of Deception",
+      "url": "https://open.spotify.com/track/4g2dDlVCL7KMBhN6c37RjY"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "The Whole Thing",
+        "url": "https://open.spotify.com/album/1hNqQgyUpZvDu9lDEi9Yzc"
+      },
+      "artists": [
+        {
+          "name": "The Whole Thing",
+          "url": "https://open.spotify.com/artist/6329ULqnLbRWcDIPaVPEmM"
+        }
+      ],
+      "duration_ms": 228933,
+      "name": "Peer Pressure",
+      "url": "https://open.spotify.com/track/1FMGZE4pWo49VXyKeFeO5o"
+    },
+    {
+      "added_at": "2022-07-18 17:17:22",
+      "album": {
+        "name": "Playing my piano",
+        "url": "https://open.spotify.com/album/5QxvuQDhcKIJiQkwDFXfHV"
+      },
+      "artists": [
+        {
+          "name": "Don Laka",
+          "url": "https://open.spotify.com/artist/1pVB3hFHwbaa3CkI72nQfQ"
+        }
+      ],
+      "duration_ms": 381594,
+      "name": "Playing my piano",
+      "url": "https://open.spotify.com/track/5lri4wmusuBlpOQWENexUK"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "A Joyful Noise Unto The Creator",
+        "url": "https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j"
+      },
+      "artists": [
+        {
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+        }
+      ],
+      "duration_ms": 355533,
+      "name": "Prince Of Peace",
+      "url": "https://open.spotify.com/track/0bzncFV24esz0QZOo4r1ss"
     },
     {
       "added_at": "2024-03-26 13:55:21",
@@ -1439,6 +1423,22 @@
       "duration_ms": 213560,
       "name": "Take Four",
       "url": "https://open.spotify.com/track/1kHc8mFnI7IkSf9Hi0c3UM"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "The Acid Jazz Collection: Jazz",
+        "url": "https://open.spotify.com/album/079VY3Bq21ahpq9lAvfNpc"
+      },
+      "artists": [
+        {
+          "name": "Max Beesley's High Vibes",
+          "url": "https://open.spotify.com/artist/3g3DY4k7sZVhr7qyXHXvtd"
+        }
+      ],
+      "duration_ms": 244080,
+      "name": "Mr. Jeckle",
+      "url": "https://open.spotify.com/track/44gelCZF88DC5IRz5XmckW"
     },
     {
       "added_at": "2025-03-21 04:00:36",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "A Joyful Noise Unto The Creator",
-        "url": "https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j"
-      },
-      "artists": [
-        {
-          "name": "Galliano",
-          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
-        }
-      ],
-      "duration_ms": 229066,
-      "name": "Totally Together",
-      "url": "https://open.spotify.com/track/5x48S3L3kieU5g7LhW5TPM"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Bring It On",
         "url": "https://open.spotify.com/album/5kXQHuKM8aN4JuUXSZLup1"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 260973,
       "name": "Bring It On",
       "url": "https://open.spotify.com/track/5oz5BN9nXXRrepQPDDb8pO"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "A Joyful Noise Unto The Creator",
+        "url": "https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j"
+      },
+      "artists": [
+        {
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+        }
+      ],
+      "duration_ms": 229066,
+      "name": "Totally Together",
+      "url": "https://open.spotify.com/track/5x48S3L3kieU5g7LhW5TPM"
     },
     {
       "added_at": "2022-07-14 19:24:43",

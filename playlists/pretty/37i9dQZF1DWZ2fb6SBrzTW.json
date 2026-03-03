@@ -1,6 +1,6 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 84345,
+  "num_followers": 84366,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
@@ -51,6 +51,22 @@
     {
       "added_at": "2026-02-20 00:01:32",
       "album": {
+        "name": "LAPOPIANO",
+        "url": "https://open.spotify.com/album/1Js1M91xFCddcTgWde9yim"
+      },
+      "artists": [
+        {
+          "name": "Boy Muller",
+          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
+        }
+      ],
+      "duration_ms": 139285,
+      "name": "LAPOPIANO",
+      "url": "https://open.spotify.com/track/4XZCgK3WWvK4BNvJ5jJle6"
+    },
+    {
+      "added_at": "2026-02-20 00:01:32",
+      "album": {
         "name": "HOW FAR / SHIMA II",
         "url": "https://open.spotify.com/album/0g4PK75NaCaL7d8VDH889o"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 163327,
       "name": "HOW FAR",
       "url": "https://open.spotify.com/track/27y6VtO5N6QHPVrVLy9Gur"
-    },
-    {
-      "added_at": "2026-02-20 00:01:32",
-      "album": {
-        "name": "LAPOPIANO",
-        "url": "https://open.spotify.com/album/1Js1M91xFCddcTgWde9yim"
-      },
-      "artists": [
-        {
-          "name": "Boy Muller",
-          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
-        }
-      ],
-      "duration_ms": 139285,
-      "name": "LAPOPIANO",
-      "url": "https://open.spotify.com/track/4XZCgK3WWvK4BNvJ5jJle6"
     },
     {
       "added_at": "2026-02-20 00:01:32",
@@ -299,6 +299,22 @@
     {
       "added_at": "2026-02-20 00:01:32",
       "album": {
+        "name": "RAVAGE",
+        "url": "https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/0RPXUuLjVHolWYkaXCndXD"
+    },
+    {
+      "added_at": "2026-02-20 00:01:32",
+      "album": {
         "name": "1 WORK (Remix)",
         "url": "https://open.spotify.com/album/7yezfWrnSRLPRkHIM0nvls"
       },
@@ -323,22 +339,6 @@
     {
       "added_at": "2026-02-20 00:01:32",
       "album": {
-        "name": "RAVAGE",
-        "url": "https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "DND",
-      "url": "https://open.spotify.com/track/0RPXUuLjVHolWYkaXCndXD"
-    },
-    {
-      "added_at": "2026-02-20 00:01:32",
-      "album": {
         "name": "PAWON",
         "url": "https://open.spotify.com/album/1GhQOWkePNuNvvTOOd2dSB"
       },
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-02-20 00:01:32",
       "album": {
-        "name": "Back to Back",
-        "url": "https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 146129,
-      "name": "Back to Back",
-      "url": "https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK"
-    },
-    {
-      "added_at": "2026-02-20 00:01:32",
-      "album": {
         "name": "My Brother",
         "url": "https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 158520,
       "name": "My Brother",
       "url": "https://open.spotify.com/track/2bKcKMDU9JHtLJ8xeHR46X"
+    },
+    {
+      "added_at": "2026-02-20 00:01:32",
+      "album": {
+        "name": "Back to Back",
+        "url": "https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "duration_ms": 146129,
+      "name": "Back to Back",
+      "url": "https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK"
     },
     {
       "added_at": "2026-02-20 00:01:32",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-02-20 00:01:32",
       "album": {
-        "name": "Ikeja (No Go Thief)",
-        "url": "https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF"
-      },
-      "artists": [
-        {
-          "name": "Danpapa GTA",
-          "url": "https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O"
-        }
-      ],
-      "duration_ms": 116585,
-      "name": "Ikeja (No Go Thief)",
-      "url": "https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W"
-    },
-    {
-      "added_at": "2026-02-20 00:01:32",
-      "album": {
         "name": "Full Time Job",
         "url": "https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX"
       },
@@ -671,6 +655,22 @@
     {
       "added_at": "2026-02-20 00:01:32",
       "album": {
+        "name": "Ikeja (No Go Thief)",
+        "url": "https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF"
+      },
+      "artists": [
+        {
+          "name": "Danpapa GTA",
+          "url": "https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O"
+        }
+      ],
+      "duration_ms": 116585,
+      "name": "Ikeja (No Go Thief)",
+      "url": "https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W"
+    },
+    {
+      "added_at": "2026-02-20 00:01:32",
+      "album": {
         "name": "Twe Twe",
         "url": "https://open.spotify.com/album/0Cfw8M7pu4fdsYsKvUyFg7"
       },
@@ -687,6 +687,22 @@
       "duration_ms": 143111,
       "name": "Twe Twe",
       "url": "https://open.spotify.com/track/2khv04F26pnJr4989Maowi"
+    },
+    {
+      "added_at": "2026-02-20 00:01:32",
+      "album": {
+        "name": "yawa",
+        "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "yawa",
+      "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
     },
     {
       "added_at": "2026-02-20 00:01:32",
@@ -711,22 +727,6 @@
       "duration_ms": 166956,
       "name": "Stamina",
       "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"
-    },
-    {
-      "added_at": "2026-02-20 00:01:32",
-      "album": {
-        "name": "yawa",
-        "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "yawa",
-      "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
     },
     {
       "added_at": "2026-02-20 00:01:32",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-02-20 00:01:32",
       "album": {
-        "name": "Sooner",
-        "url": "https://open.spotify.com/album/2BMLS5M4KcpBEVCgZoU62q"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 169811,
-      "name": "Sooner",
-      "url": "https://open.spotify.com/track/63sgKgx5GSfmQYrCTCWM9O"
-    },
-    {
-      "added_at": "2026-02-20 00:01:32",
-      "album": {
         "name": "Double",
         "url": "https://open.spotify.com/album/3yVzzFCkrfzcmT8koofo0e"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 188985,
       "name": "GWAGWALADA",
       "url": "https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY"
+    },
+    {
+      "added_at": "2026-02-20 00:01:32",
+      "album": {
+        "name": "Sooner",
+        "url": "https://open.spotify.com/album/2BMLS5M4KcpBEVCgZoU62q"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 169811,
+      "name": "Sooner",
+      "url": "https://open.spotify.com/track/63sgKgx5GSfmQYrCTCWM9O"
     },
     {
       "added_at": "2026-02-20 00:01:32",

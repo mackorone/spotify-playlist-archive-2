@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Swae Lee, Yeat, 600 ENT and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,734 likes - 59 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,781 likes - 59 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 32 | [Knocked Off](https://open.spotify.com/track/1LSTKDnxmdjhkSQeFtzk8i) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Knocked Off](https://open.spotify.com/album/25tBIT2B2Vv7tD0Xm6cBD8) | 2:28 |
 | 33 | [Dumb Crasy Too](https://open.spotify.com/track/2M6X6gDxzKvQSS3h7PyiAl) | [So Supa](https://open.spotify.com/artist/6D6Uf2RTnvHkD64pUapryP), [Big Money Blitz](https://open.spotify.com/artist/5u7vwAzFX2vW9KdLwpGOr9), [Tre Loaded](https://open.spotify.com/artist/2IfOv1im8CNxZ6kFtob1e3) | [Dumb Crasy Too](https://open.spotify.com/album/3K3CJbTJTObDaB9UWmUrSS) | 2:00 |
 | 34 | [Onetake](https://open.spotify.com/track/1pxFyeSk93gM5G8lawVk8j) | [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [One Take Studios](https://open.spotify.com/artist/4upehosywGOsq7Pub0dfHE) | [Onetake](https://open.spotify.com/album/3iDBJEWJB7TJmKqj8qGZk3) | 2:35 |
-| 35 | [Still Nothing](https://open.spotify.com/track/0hACM4S2OmnfCxi4kqt1TV) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [Fbeat](https://open.spotify.com/artist/2LU8oJxlxE6E52FNiIdXD0) | [Still Nothing](https://open.spotify.com/album/5e4Hjx3RnsVEJEjnECpyQv) | 2:40 |
+| 35 | [Still Nothing](https://open.spotify.com/track/0hACM4S2OmnfCxi4kqt1TV) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [FBEAT](https://open.spotify.com/artist/5JarEeTvVo06htkx9lt8SV) | [Still Nothing](https://open.spotify.com/album/5e4Hjx3RnsVEJEjnECpyQv) | 2:40 |
 | 36 | [Everybody Ain't Gone Get You](https://open.spotify.com/track/1QlE4n5fvPln745z2BdtRR) | [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [Dj Flippp](https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw) | [Everybody Ain't Gone Get You](https://open.spotify.com/album/4fWI1EX3Lj1VKeiIgHvCd0) | 2:27 |
 | 37 | [Reshaping The Culture](https://open.spotify.com/track/4YJDoHMQobeVOCcJNO8MVd) | [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Shyst Vader](https://open.spotify.com/artist/4I5adK92x8iI08SorjLrYY) | [Reshaping The Culture](https://open.spotify.com/album/1U5cCPd1uyZLwO6dCzWi3B) | 3:29 |
 | 38 | [Laced up](https://open.spotify.com/track/54VXeG6i8OQR57lgzndFA8) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [Laced up](https://open.spotify.com/album/1CeikuSX0LE0fGHZD4mxSP) | 1:41 |

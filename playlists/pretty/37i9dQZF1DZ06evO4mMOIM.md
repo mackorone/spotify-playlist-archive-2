@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mMOIM.md) - [plain]
 
 > This is Glassjaw\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,576 likes - 36 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,576 likes - 35 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mMOIM.md) - [plain]
 | 31 | [Oxycodone](https://open.spotify.com/track/0wZqLhJhaAxlDr8tVvpj9O) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [El Mark](https://open.spotify.com/album/2pfCN9kQcKaYADLWEYH9Sl) | 5:44 |
 | 32 | [The Choice Is Yours](https://open.spotify.com/track/3RTRfCPMOVnmHUtvnJ1f9s) | [Bad Rabbits](https://open.spotify.com/artist/534rgZ76LDMlM7xLt9xSGR), [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0), [Black Sheep](https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf), [Justin Beck](https://open.spotify.com/artist/6Hdgvg4uQprLkVgPe5p5Nq), [Dres](https://open.spotify.com/artist/1lwe4A6M5NIIAx7BiMoCUg) | [Black Rabbits](https://open.spotify.com/album/4chJfqrlyXTDBVfVWH1nat) | 3:47 |
 | 33 | [citizen](https://open.spotify.com/track/5ou2Ve0jHZB3TBIFJN568a) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 2:21 |
-| 34 | [U Mean I'm Not](https://open.spotify.com/track/2N97fOrsGpwkwTYtCvrPHd) | [Bad Rabbits](https://open.spotify.com/artist/534rgZ76LDMlM7xLt9xSGR), [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0), [Black Sheep](https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf), [Justin Beck](https://open.spotify.com/artist/6Hdgvg4uQprLkVgPe5p5Nq), [Dres](https://open.spotify.com/artist/1lwe4A6M5NIIAx7BiMoCUg) | [Black Rabbits](https://open.spotify.com/album/4chJfqrlyXTDBVfVWH1nat) | 1:38 |
-| 35 | [golgotha](https://open.spotify.com/track/4sZuIfdLBqNXSUuNaAhw5j) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 3:04 |
-| 36 | [cut and run](https://open.spotify.com/track/5Dz7SzbI0FMKyJ9Zcu9BWS) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 2:10 |
+| 34 | [golgotha](https://open.spotify.com/track/4sZuIfdLBqNXSUuNaAhw5j) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 3:04 |
+| 35 | [cut and run](https://open.spotify.com/track/5Dz7SzbI0FMKyJ9Zcu9BWS) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 2:10 |
 
-Snapshot ID: `aaIwAAAAAADI5JjpA0NhQbDh9ogsceab`
+Snapshot ID: `aaOBgAAAAADdGwQUrX0x1b2GuY6Cy7UR`

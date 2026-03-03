@@ -219,6 +219,24 @@
     },
     {
       "album": {
+        "name": "Parallels",
+        "url": "https://open.spotify.com/album/74pA4CqzQ2dRNgbGF1g5x4"
+      },
+      "artists": [
+        {
+          "name": "Guest",
+          "url": "https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223257,
+      "name": "Always Buying Stuff",
+      "url": "https://open.spotify.com/track/42IXyMstxsXe32etO6JBvQ"
+    },
+    {
+      "album": {
         "name": "Album, No. 1",
         "url": "https://open.spotify.com/album/1lIQtgbBGZasEbhnF7JtbD"
       },

@@ -1,6 +1,6 @@
 {
   "description": "for the late nights",
-  "num_followers": 20642,
+  "num_followers": 20646,
   "original_name": "the night bus",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Mood",
-        "url": "https://open.spotify.com/album/06tCjWV7YTgQJsyyJPBqby"
-      },
-      "artists": [
-        {
-          "name": "Lex Amor",
-          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
-        }
-      ],
-      "duration_ms": 247098,
-      "name": "Mood",
-      "url": "https://open.spotify.com/track/67kM8ng5MbvmsilnkcjLGD"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "COMING DOWN",
         "url": "https://open.spotify.com/album/4w2NbxPIchUvu7u7xMwx5Z"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 199453,
       "name": "COMING DOWN",
       "url": "https://open.spotify.com/track/09Z3vqWLXnpCytqf3vZfEy"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/06tCjWV7YTgQJsyyJPBqby"
+      },
+      "artists": [
+        {
+          "name": "Lex Amor",
+          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
+        }
+      ],
+      "duration_ms": 247098,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/67kM8ng5MbvmsilnkcjLGD"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -555,38 +555,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "money",
-        "url": "https://open.spotify.com/album/0bz7KBDpiGvM5eY8dz5xAS"
+        "name": "Mac Wetha & Friends",
+        "url": "https://open.spotify.com/album/7ujjNbAACA0oxsQUjsLCuK"
       },
       "artists": [
         {
-          "name": "Tiana Major9",
-          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
-        }
-      ],
-      "duration_ms": 178536,
-      "name": "money",
-      "url": "https://open.spotify.com/track/3ElHyG624YgOJWnT4vhI1o"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "SE17",
-        "url": "https://open.spotify.com/album/6aqqtrkZgGo6AGWhASU0HC"
-      },
-      "artists": [
-        {
-          "name": "Stacy N.K.R",
-          "url": "https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U"
+          "name": "Mac Wetha",
+          "url": "https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP"
         },
         {
-          "name": "Danny Chaska",
-          "url": "https://open.spotify.com/artist/6comUtFS2GIJEJ4E8kMUbP"
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
         }
       ],
-      "duration_ms": 202058,
-      "name": "SE17",
-      "url": "https://open.spotify.com/track/4dzMtsZMsvl2cI5THF4cqj"
+      "duration_ms": 103953,
+      "name": "Ode To Mumma",
+      "url": "https://open.spotify.com/track/4wCgFIFfMoTcdb0JfMFbwd"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -611,22 +595,38 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Mac Wetha & Friends",
-        "url": "https://open.spotify.com/album/7ujjNbAACA0oxsQUjsLCuK"
+        "name": "SE17",
+        "url": "https://open.spotify.com/album/6aqqtrkZgGo6AGWhASU0HC"
       },
       "artists": [
         {
-          "name": "Mac Wetha",
-          "url": "https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP"
+          "name": "Stacy N.K.R",
+          "url": "https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U"
         },
         {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+          "name": "Danny Chaska",
+          "url": "https://open.spotify.com/artist/6comUtFS2GIJEJ4E8kMUbP"
         }
       ],
-      "duration_ms": 103953,
-      "name": "Ode To Mumma",
-      "url": "https://open.spotify.com/track/4wCgFIFfMoTcdb0JfMFbwd"
+      "duration_ms": 202058,
+      "name": "SE17",
+      "url": "https://open.spotify.com/track/4dzMtsZMsvl2cI5THF4cqj"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "money",
+        "url": "https://open.spotify.com/album/0bz7KBDpiGvM5eY8dz5xAS"
+      },
+      "artists": [
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        }
+      ],
+      "duration_ms": 178536,
+      "name": "money",
+      "url": "https://open.spotify.com/track/3ElHyG624YgOJWnT4vhI1o"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Life's a Bitch, I Just Need an Early Night",
-        "url": "https://open.spotify.com/album/6nAyU48Mf6cWrZlM6nLUpS"
-      },
-      "artists": [
-        {
-          "name": "Nix Northwest",
-          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
-        }
-      ],
-      "duration_ms": 282773,
-      "name": "Paradise Pending",
-      "url": "https://open.spotify.com/track/5eIoAHYIchR8fy07BIU5lF"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Ride With Me",
         "url": "https://open.spotify.com/album/0NEnJxG2rs1VogwQb3Ac0R"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 232573,
       "name": "Ride With Me",
       "url": "https://open.spotify.com/track/2lwAsn4XY3SANeoL3U7F92"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Life's a Bitch, I Just Need an Early Night",
+        "url": "https://open.spotify.com/album/6nAyU48Mf6cWrZlM6nLUpS"
+      },
+      "artists": [
+        {
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+        }
+      ],
+      "duration_ms": 282773,
+      "name": "Paradise Pending",
+      "url": "https://open.spotify.com/track/5eIoAHYIchR8fy07BIU5lF"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "Golden House",
+        "url": "https://open.spotify.com/album/4P8HYH6sHDAbdZSxGYxHbH"
+      },
+      "artists": [
+        {
+          "name": "Frankie Stew and Harvey Gunn",
+          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
+        }
+      ],
+      "duration_ms": 162644,
+      "name": "Golden House",
+      "url": "https://open.spotify.com/track/0qVAabtnJ4hHFiiL8YiBD7"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "The Way/A While Now",
         "url": "https://open.spotify.com/album/0oNzjicO5Ygztg07WOKh1s"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 214939,
       "name": "Shade",
       "url": "https://open.spotify.com/track/3N7ZfhWeLFRRJtGG5Oy1bB"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "Golden House",
-        "url": "https://open.spotify.com/album/4P8HYH6sHDAbdZSxGYxHbH"
-      },
-      "artists": [
-        {
-          "name": "Frankie Stew and Harvey Gunn",
-          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
-        }
-      ],
-      "duration_ms": 162644,
-      "name": "Golden House",
-      "url": "https://open.spotify.com/track/0qVAabtnJ4hHFiiL8YiBD7"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Summer 17",
-        "url": "https://open.spotify.com/album/5M75VygWOzLrY2MwK1sdl4"
-      },
-      "artists": [
-        {
-          "name": "Elijah Waters",
-          "url": "https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH"
-        },
-        {
-          "name": "Jeshi",
-          "url": "https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C"
-        }
-      ],
-      "duration_ms": 181161,
-      "name": "Summer 17",
-      "url": "https://open.spotify.com/track/7t1Oz20dDYMjyvyrbIKqI5"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Don't You Go Falling In Love (feat. Biig Piig & Lord Apex)",
         "url": "https://open.spotify.com/album/2VBu61hXA6zWAVw8uIORsk"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 231773,
       "name": "Don't You Go Falling In Love (feat. Biig Piig & Lord Apex)",
       "url": "https://open.spotify.com/track/3BHU5jiJoVTTR0zzhhCxSH"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Summer 17",
+        "url": "https://open.spotify.com/album/5M75VygWOzLrY2MwK1sdl4"
+      },
+      "artists": [
+        {
+          "name": "Elijah Waters",
+          "url": "https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH"
+        },
+        {
+          "name": "Jeshi",
+          "url": "https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C"
+        }
+      ],
+      "duration_ms": 181161,
+      "name": "Summer 17",
+      "url": "https://open.spotify.com/track/7t1Oz20dDYMjyvyrbIKqI5"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "The South's Got Something To Say",
+        "url": "https://open.spotify.com/album/1An5auoLzBQA5LoiSbqi8I"
+      },
+      "artists": [
+        {
+          "name": "Frankie Stew and Harvey Gunn",
+          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
+        }
+      ],
+      "duration_ms": 191641,
+      "name": "Comfort Zone",
+      "url": "https://open.spotify.com/track/2N6oB5yih6TDfM4rknncYl"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "What We Become",
         "url": "https://open.spotify.com/album/59orHxxohwog8QsHMSXjso"
       },
@@ -1331,22 +1347,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "The South's Got Something To Say",
-        "url": "https://open.spotify.com/album/1An5auoLzBQA5LoiSbqi8I"
-      },
-      "artists": [
-        {
-          "name": "Frankie Stew and Harvey Gunn",
-          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
-        }
-      ],
-      "duration_ms": 191641,
-      "name": "Comfort Zone",
-      "url": "https://open.spotify.com/track/2N6oB5yih6TDfM4rknncYl"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Lagoon",
         "url": "https://open.spotify.com/album/0syGgHpT59AFLYZD1qVnBY"
       },
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "A Lot",
-        "url": "https://open.spotify.com/album/4gqebsvvLe0YDGpgArclZ0"
-      },
-      "artists": [
-        {
-          "name": "0RACL3",
-          "url": "https://open.spotify.com/artist/5ngejTpnC2HYvbgLwXSmNc"
-        }
-      ],
-      "duration_ms": 167507,
-      "name": "A Lot",
-      "url": "https://open.spotify.com/track/1KKoEoTZOJT0M6urH5eNip"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Bad",
         "url": "https://open.spotify.com/album/3I8m0mug29wYCCVJuX7xqA"
       },
@@ -1407,22 +1391,18 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Coffee",
-        "url": "https://open.spotify.com/album/0nK9CHDXm14WIlRssT2ifO"
+        "name": "A Lot",
+        "url": "https://open.spotify.com/album/4gqebsvvLe0YDGpgArclZ0"
       },
       "artists": [
         {
-          "name": "j.flowers.mp3",
-          "url": "https://open.spotify.com/artist/4jwygfSZd43Dd8vemguwH3"
-        },
-        {
-          "name": "Ralph Taylor",
-          "url": "https://open.spotify.com/artist/7lyYVCbqJocjkyoYwWYgwK"
+          "name": "0RACL3",
+          "url": "https://open.spotify.com/artist/5ngejTpnC2HYvbgLwXSmNc"
         }
       ],
-      "duration_ms": 151000,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/4l9kdmAOpO7Y0wCc4PnhzI"
+      "duration_ms": 167507,
+      "name": "A Lot",
+      "url": "https://open.spotify.com/track/1KKoEoTZOJT0M6urH5eNip"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1439,6 +1419,26 @@
       "duration_ms": 226240,
       "name": "Now That I Know You",
       "url": "https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/0nK9CHDXm14WIlRssT2ifO"
+      },
+      "artists": [
+        {
+          "name": "j.flowers.mp3",
+          "url": "https://open.spotify.com/artist/4jwygfSZd43Dd8vemguwH3"
+        },
+        {
+          "name": "Ralph Taylor",
+          "url": "https://open.spotify.com/artist/7lyYVCbqJocjkyoYwWYgwK"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/4l9kdmAOpO7Y0wCc4PnhzI"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "26% MIXTAPE",
-        "url": "https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi"
-      },
-      "artists": [
-        {
-          "name": "B-ahwe",
-          "url": "https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl"
-        },
-        {
-          "name": "TAMBALA",
-          "url": "https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F"
-        }
-      ],
-      "duration_ms": 188368,
-      "name": "Ride 2 Nowhere",
-      "url": "https://open.spotify.com/track/4eRHpTaioNYFDEmtv94iZJ"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Feeling Like",
         "url": "https://open.spotify.com/album/5dkMgbChILOPiuKpEk381O"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 184658,
       "name": "Feeling Like",
       "url": "https://open.spotify.com/track/6eXOVvVtIYFNnLOpHcv5Yp"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "26% MIXTAPE",
+        "url": "https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi"
+      },
+      "artists": [
+        {
+          "name": "B-ahwe",
+          "url": "https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl"
+        },
+        {
+          "name": "TAMBALA",
+          "url": "https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F"
+        }
+      ],
+      "duration_ms": 188368,
+      "name": "Ride 2 Nowhere",
+      "url": "https://open.spotify.com/track/4eRHpTaioNYFDEmtv94iZJ"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "LIME",
-        "url": "https://open.spotify.com/album/0cntvKHE1aJK5ysJJWPlDM"
-      },
-      "artists": [
-        {
-          "name": "EF\u00c9",
-          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
-        }
-      ],
-      "duration_ms": 195137,
-      "name": "LIME",
-      "url": "https://open.spotify.com/track/2hPDMrRuZYlNmea4QdCxj9"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Elevator Music",
         "url": "https://open.spotify.com/album/0J37ZEurdvlWlLbQ5vZsEW"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 138775,
       "name": "Babybrown",
       "url": "https://open.spotify.com/track/3O5dlqHswHAlApKDRR9YfK"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "LIME",
+        "url": "https://open.spotify.com/album/0cntvKHE1aJK5ysJJWPlDM"
+      },
+      "artists": [
+        {
+          "name": "EF\u00c9",
+          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
+        }
+      ],
+      "duration_ms": 195137,
+      "name": "LIME",
+      "url": "https://open.spotify.com/track/2hPDMrRuZYlNmea4QdCxj9"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Negro Impacto",
-        "url": "https://open.spotify.com/album/78N4g5LjH2YYjiVlg8jlW3"
-      },
-      "artists": [
-        {
-          "name": "Negro Impacto",
-          "url": "https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw"
-        }
-      ],
-      "duration_ms": 187400,
-      "name": "Mini Excursion",
-      "url": "https://open.spotify.com/track/41vPgM81KFafqEaJSzx6SE"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Take Two",
         "url": "https://open.spotify.com/album/4h4Qdr8JqB24QhrfL98Rym"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 113052,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/4e4pO1c9DUlBwMEzN1iS3v"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Negro Impacto",
+        "url": "https://open.spotify.com/album/78N4g5LjH2YYjiVlg8jlW3"
+      },
+      "artists": [
+        {
+          "name": "Negro Impacto",
+          "url": "https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw"
+        }
+      ],
+      "duration_ms": 187400,
+      "name": "Mini Excursion",
+      "url": "https://open.spotify.com/track/41vPgM81KFafqEaJSzx6SE"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Out of Style",
-        "url": "https://open.spotify.com/album/4GWriL3zDCxyzpD2ZIpBjC"
-      },
-      "artists": [
-        {
-          "name": "Holly Munro",
-          "url": "https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Out of Style",
-      "url": "https://open.spotify.com/track/1yYHHDEniESPk9iNFr5nyR"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Extinction",
         "url": "https://open.spotify.com/album/74yG8sHvJqr50AQaVW2l04"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 291349,
       "name": "Extinction",
       "url": "https://open.spotify.com/track/0Y7VFF8nJCvHegOTNRmQ8r"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Out of Style",
+        "url": "https://open.spotify.com/album/4GWriL3zDCxyzpD2ZIpBjC"
+      },
+      "artists": [
+        {
+          "name": "Holly Munro",
+          "url": "https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Out of Style",
+      "url": "https://open.spotify.com/track/1yYHHDEniESPk9iNFr5nyR"
     },
     {
       "added_at": "2025-08-07 15:52:15",

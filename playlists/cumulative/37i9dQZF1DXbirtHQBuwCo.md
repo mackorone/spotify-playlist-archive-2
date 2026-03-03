@@ -4,7 +4,7 @@
 
 > Trendy & Chill Korean R&B music\. \(Cover: Padi\)
 
-897 songs - 1 day 23 hr 24 min
+898 songs - 1 day 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 | 2024-03-15 |  |
 | [frozen](https://open.spotify.com/track/15cVnQOz5SoIoNHbbvfSxD) | [wooseojun](https://open.spotify.com/artist/2InIBQmGiH1ueUh4gdJQ3b) | [4her](https://open.spotify.com/album/0s9ehc7NAUOTBDFuv1ISzG) | 3:43 | 2025-02-20 | 2025-03-13 |
 | [Future Boy](https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Future Boy](https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0) | 2:04 | 2022-05-11 | 2022-07-28 |
+| [Fxxxboy](https://open.spotify.com/track/2YUoX58zywC6rqFPOUNOiq) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 3:07 | 2026-02-27 |  |
 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 | 2022-04-19 | 2025-06-10 |
 | [Get Ya! \(feat\. pH\-1\)](https://open.spotify.com/track/4FPWDZRRREW99mWChTCyYr) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Get Ya! \(feat\. pH\-1\)](https://open.spotify.com/album/3eexqM5OLi0HlN3JDyqZhx) | 2:39 | 2022-05-04 | 2022-07-28 |
 | [Ghosting \(Prod\. CODE KUNST\)](https://open.spotify.com/track/6r1Jwbd0UwCpuLzPG4y9Ub) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Ghosting](https://open.spotify.com/album/24vtmVfDjVTxb9cCNRgheo) | 3:40 | 2022-08-18 | 2022-10-11 |
@@ -662,7 +663,7 @@
 | [Ring Finger \(Feat\. Gist\)](https://open.spotify.com/track/59rFPXfBvCvHYI3unX76RA) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [Ring Finger \(Feat\. Gist\)](https://open.spotify.com/album/5wzWfx8QetaXgEcGEtzKTc) | 2:24 | 2024-04-12 | 2024-04-19 |
 | [Ringwanderung](https://open.spotify.com/track/2cLJhvm09iuwVHSAfaCaus) | [YELO](https://open.spotify.com/artist/2SIjieAwLcihB5fZ7HfHmD) | [Ringwanderung](https://open.spotify.com/album/2gQiMJyIb8lqZu3dAeBbwh) | 2:54 | 2022-05-31 | 2022-07-03 |
 | [Risk \(Prod\. By Devine Channel\)](https://open.spotify.com/track/2Kwy9dFXHc5t1u7bdRlLgd) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [Devine Channel](https://open.spotify.com/artist/7ESF8rsuKXKPvD1HEFWJfU) | [Risk](https://open.spotify.com/album/0zxAIBeIBvmk0qjsujNwXY) | 2:58 | 2024-09-25 | 2024-10-09 |
-| [RIZZ](https://open.spotify.com/track/6JbyOUBLnkMadKcPQoQeTR) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.1](https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep) | 2:44 | 2025-02-05 |  |
+| [RIZZ](https://open.spotify.com/track/6JbyOUBLnkMadKcPQoQeTR) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.1](https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep) | 2:44 | 2025-02-05 | 2026-03-03 |
 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 | 2023-03-31 |  |
 | [Rollercoaster](https://open.spotify.com/track/5vQtp2D5HRfqZ1FKmFx9r0) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Still Blue](https://open.spotify.com/album/5NVdE7fnUNSfJ7Taka31IF) | 2:29 | 2022-12-19 | 2023-01-11 |
 | [Roommates](https://open.spotify.com/track/2FAamYOzmodzpf7x4Yl8UI) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [Roommates](https://open.spotify.com/album/5Azd14om1goQJ4koUxhmvS) | 2:30 | 2024-04-30 | 2024-05-22 |

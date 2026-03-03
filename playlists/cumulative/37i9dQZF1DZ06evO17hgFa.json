@@ -290,7 +290,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 204186,
       "name": "Don't Explain",
       "url": "https://open.spotify.com/track/6GLMwwNDbiiBe4D9JcSOwP"
@@ -652,6 +652,24 @@
     {
       "album": {
         "name": "All Or Nothing At All",
+        "url": "https://open.spotify.com/album/1q9Yh4EDALgMa8VYsI7bn5"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222417,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/1OO3dnVkQTe3gQM1ItasyR"
+    },
+    {
+      "album": {
+        "name": "All Or Nothing At All",
         "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
       },
       "artists": [
@@ -662,7 +680,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 226680,
       "name": "Love Is Here To Stay",
       "url": "https://open.spotify.com/track/4x4gE6oHHuZ2y7yUsGuOO1"
@@ -800,6 +818,24 @@
       "duration_ms": 214826,
       "name": "P.S. I Love You",
       "url": "https://open.spotify.com/track/7vmC7JVs2lGtdaE3vg8aPp"
+    },
+    {
+      "album": {
+        "name": "Lover Man",
+        "url": "https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176640,
+      "name": "Porgy",
+      "url": "https://open.spotify.com/track/4zmNvhsd4kDCtQSmpQqLlf"
     },
     {
       "album": {

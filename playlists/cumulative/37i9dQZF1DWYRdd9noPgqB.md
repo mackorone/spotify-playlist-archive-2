@@ -4,7 +4,7 @@
 
 > La playlist qui fait du bien ☀️
 
-454 songs - 1 day 0 hr 57 min
+455 songs - 1 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,7 +396,7 @@
 | [Take Me Back](https://open.spotify.com/track/4G37m3eLuPYXCPOeLgpW7b) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Take Me Back](https://open.spotify.com/album/3sbuWV2U4lcyfx64Se1YXK) | 2:33 | 2024-06-27 | 2024-08-23 |
 | [Take What's Given](https://open.spotify.com/track/1QHAegssMExNfItsAaUJiY) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Take What's Given](https://open.spotify.com/album/5SApZEPFs4QKsM2jJNas7F) | 2:54 | 2024-02-08 | 2024-03-30 |
 | [Tangerine Skies](https://open.spotify.com/track/2VvHa9p1kkTmaCMq0exODA) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Tangerine Skies](https://open.spotify.com/album/6phvQbCky7tIuiv8c6QxW5) | 3:12 | 2024-08-29 | 2025-01-10 |
-| [That Girl](https://open.spotify.com/track/367jZlkmOpSqMGwjlRvQrp) | [Astels](https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii) | [The Meeting \(Deluxe\)](https://open.spotify.com/album/6hJvlNYhmPZeJH19TTAKde) | 2:53 | 2025-11-20 |  |
+| [That Girl](https://open.spotify.com/track/367jZlkmOpSqMGwjlRvQrp) | [Astels](https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii) | [The Meeting \(Deluxe\)](https://open.spotify.com/album/6hJvlNYhmPZeJH19TTAKde) | 2:53 | 2025-11-20 | 2026-03-03 |
 | [That's Life](https://open.spotify.com/track/45qWYodQFrF6TJ77NtF4Ke) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [When a Thought Grows Wings](https://open.spotify.com/album/42O64iXplUzBiYcUX1ELQw) | 3:43 | 2024-08-22 | 2024-12-20 |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-10-17 | 2025-02-14 |
 | [The Deceiving](https://open.spotify.com/track/3GXVVxYAL6sTG8ICC6pD9R) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [The Deceiving](https://open.spotify.com/album/32AeGVho713wI8Wm6jdgni) | 2:47 | 2023-11-23 | 2024-03-08 |
@@ -428,6 +428,7 @@
 | [Turn It On](https://open.spotify.com/track/4e6cFfzPcHNyvsrSyh86wH) | [Saults](https://open.spotify.com/artist/0v3GJQVtEdCbwnKpCUwOE8), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Gabe Costa](https://open.spotify.com/artist/6LMyfO4lGSYAkJg3Yc06ZR) | [Turn It On](https://open.spotify.com/album/0SdouN0Ag8ZNj9Kdtrw8NB) | 3:03 | 2026-02-06 |  |
 | [Turn The World On](https://open.spotify.com/track/5zeMiru9wbjdLBNYhFZa3G) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Turn The World On](https://open.spotify.com/album/0zL6Nw3i8LCzj4HRI2olI3) | 3:30 | 2023-09-28 | 2023-10-20 |
 | [Uh](https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Uh](https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt) | 3:31 | 2023-09-28 | 2023-10-06 |
+| [un thé?](https://open.spotify.com/track/0vfazLBkcqqyQHJEcdrQDP) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [un thé?](https://open.spotify.com/album/5Ui4e36gPTGfjiER2wVsAI) | 2:32 | 2026-02-26 |  |
 | [Unbelievable](https://open.spotify.com/track/4NVyvRuKdJXqC7vnJycVjb) | [Citizen Papes](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [Unbelievable](https://open.spotify.com/album/7uBzED8vXwazMC9Q3MHY0q) | 3:23 | 2024-07-18 | 2024-09-27 |
 | [Under Water / In Air](https://open.spotify.com/track/0zDptnFR2ADwjapoENeSzF) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Under Water / In Air](https://open.spotify.com/album/3XvwFrw03TCLjWLeBonhDy) | 3:09 | 2024-02-01 | 2024-04-19 |
 | [Unoriginal](https://open.spotify.com/track/0k4qLmMUs7HOvGYtkljECk) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Unoriginal / Black\-Eyed Susan Climb](https://open.spotify.com/album/6G8lUZ22qQTBDsV5EKN4MO) | 2:58 | 2025-11-06 |  |

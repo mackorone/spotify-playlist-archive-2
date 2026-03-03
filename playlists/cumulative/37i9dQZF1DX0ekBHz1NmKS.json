@@ -1859,6 +1859,24 @@
     },
     {
       "album": {
+        "name": "Always You",
+        "url": "https://open.spotify.com/album/3KmGtcCu9snknpRPf4llbD"
+      },
+      "artists": [
+        {
+          "name": "Isak Danielson",
+          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192047,
+      "name": "Always You",
+      "url": "https://open.spotify.com/track/2U9JkUqGUrF3EWzzhLPoKu"
+    },
+    {
+      "album": {
         "name": "Amazon",
         "url": "https://open.spotify.com/album/3sJuGsgyLtnAO2qS1un1Hk"
       },
@@ -2342,7 +2360,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 174933,
       "name": "Autonomi",
       "url": "https://open.spotify.com/track/0SByBQFFm5iFAwOcsgXc3p"
@@ -3702,6 +3720,24 @@
       "duration_ms": 192765,
       "name": "Blod svett & t\u00e5rar",
       "url": "https://open.spotify.com/track/1fpbRrVuyJSuLK9vHp87Ax"
+    },
+    {
+      "album": {
+        "name": "Blodsband",
+        "url": "https://open.spotify.com/album/2X3hFZyFuXZ0jcjfz1NtTD"
+      },
+      "artists": [
+        {
+          "name": "Svart Rid\u00e5",
+          "url": "https://open.spotify.com/artist/2RDTmgr7EdHCN0hmw8XoJM"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233453,
+      "name": "Blodsband",
+      "url": "https://open.spotify.com/track/62FpUQsTdZmrKuEVXyUmoP"
     },
     {
       "album": {
@@ -9610,7 +9646,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 174000,
       "name": "En t\u00e5r",
       "url": "https://open.spotify.com/track/28y85h7J7lA08N2x5OEEhB"
@@ -10943,6 +10979,28 @@
     },
     {
       "album": {
+        "name": "Fight!",
+        "url": "https://open.spotify.com/album/2vfZJCastJk5nbyLvvGoJO"
+      },
+      "artists": [
+        {
+          "name": "Herman Silow",
+          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
+        },
+        {
+          "name": "HOFFMAESTRO",
+          "url": "https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127142,
+      "name": "Fight!",
+      "url": "https://open.spotify.com/track/2EXsWp0rm1RVFVb4FhMTYy"
+    },
+    {
+      "album": {
         "name": "Finally Home",
         "url": "https://open.spotify.com/album/29qzETKSfxppvz3hk8VRUr"
       },
@@ -12162,7 +12220,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 301213,
       "name": "F\u00f6rf\u00e4der",
       "url": "https://open.spotify.com/track/221qqYWKfl34pEtedawb1G"
@@ -17101,6 +17159,24 @@
     },
     {
       "album": {
+        "name": "I'M DEAD",
+        "url": "https://open.spotify.com/album/1WfNYIhwLIanOOgQwciFQy"
+      },
+      "artists": [
+        {
+          "name": "Elise Elvira",
+          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151058,
+      "name": "I'M DEAD",
+      "url": "https://open.spotify.com/track/7z8n4qHDR43v3J6lP3DhSr"
+    },
+    {
+      "album": {
         "name": "I'm So Sick",
         "url": "https://open.spotify.com/album/7IUw02WezIcITzhD8Mv8rU"
       },
@@ -19746,7 +19822,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 133608,
       "name": "Krig",
       "url": "https://open.spotify.com/track/3ZjS9KHqg94sTPnPy2HB26"
@@ -23600,7 +23676,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 215298,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/2r3OmINnuBrxP5VXuIlUeR"
@@ -27156,7 +27232,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 148000,
       "name": "pianoboy",
       "url": "https://open.spotify.com/track/7J4ZVJuGIKZDIEml0zl6x9"
@@ -36511,6 +36587,24 @@
     },
     {
       "album": {
+        "name": "T\u00c5RAR",
+        "url": "https://open.spotify.com/album/47Q9HTJqy6wBsl7fS6J26t"
+      },
+      "artists": [
+        {
+          "name": "Reyn",
+          "url": "https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141686,
+      "name": "T\u00c5RAR",
+      "url": "https://open.spotify.com/track/1bEaWgxOaYFUzDT9iSXMdv"
+    },
+    {
+      "album": {
         "name": "T\u00e5rarna (feat. Jackie Mere)",
         "url": "https://open.spotify.com/album/4SMIJv8Cc6kxbSTgNKeDKF"
       },
@@ -39380,6 +39474,24 @@
       "duration_ms": 323386,
       "name": "Wild Geese, Wild Love",
       "url": "https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR"
+    },
+    {
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/4hTEZj29aVNemOnkh6WEx7"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233666,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/1R8roLxSplNe52UVoKYApE"
     },
     {
       "album": {

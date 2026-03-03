@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belgium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,278 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,279 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 49 | [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 |
 | 50 | [GMK](https://open.spotify.com/track/5yVEQgC0GuEvvEcv9D8NpG) | [WIXO & LA2S](https://open.spotify.com/artist/0VWHKHfSFwUhP0cuvVUfRN) | [GMK](https://open.spotify.com/album/5x8V9vBC8E2OzJqzdYZv7V) | 2:05 |
 
-Snapshot ID: `MTeiQAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MTj2GAAAAAAAAAAAAAAAAAAAAAAAAGVu`

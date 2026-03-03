@@ -153,6 +153,28 @@
     },
     {
       "album": {
+        "name": "BB II",
+        "url": "https://open.spotify.com/album/2JlAPW0XsIVE5zh4JaBws3"
+      },
+      "artists": [
+        {
+          "name": "The Feather",
+          "url": "https://open.spotify.com/artist/6ZhYrSh1U6FaRYefNSLwCc"
+        },
+        {
+          "name": "Benni",
+          "url": "https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203374,
+      "name": "BB II",
+      "url": "https://open.spotify.com/track/08G9r5z6KrPw1UgTTGoC7K"
+    },
+    {
+      "album": {
         "name": "Biotope",
         "url": "https://open.spotify.com/album/4BmVz5436mMpbUegwu09xd"
       },
@@ -683,6 +705,24 @@
     },
     {
       "album": {
+        "name": "Julia",
+        "url": "https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285240,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ"
+    },
+    {
+      "album": {
         "name": "Leap Year",
         "url": "https://open.spotify.com/album/2qiB8YSEJw27QY68Pyx1uO"
       },
@@ -846,6 +886,24 @@
       "duration_ms": 196821,
       "name": "More Than Enough",
       "url": "https://open.spotify.com/track/1wTtnNyUUrJL4erWEUfC77"
+    },
+    {
+      "album": {
+        "name": "Morning Star",
+        "url": "https://open.spotify.com/album/089sojnCen4IGYJvT6GEQT"
+      },
+      "artists": [
+        {
+          "name": "Pitou",
+          "url": "https://open.spotify.com/artist/27aUOc2h4pz72oZen497Va"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294813,
+      "name": "Morning Star",
+      "url": "https://open.spotify.com/track/0qsxV8lNQcWc3idC2sk9d2"
     },
     {
       "album": {
@@ -1269,6 +1327,24 @@
     },
     {
       "album": {
+        "name": "Something Ain't Right (Acoustic)",
+        "url": "https://open.spotify.com/album/1d0d9udPhXSTJEyWD0A3Cx"
+      },
+      "artists": [
+        {
+          "name": "Leah Rye",
+          "url": "https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160523,
+      "name": "Something Ain't Right - Acoustic",
+      "url": "https://open.spotify.com/track/2K5t7RDYD1C11XZmmT3KtT"
+    },
+    {
+      "album": {
         "name": "Stonewall Riots Forever",
         "url": "https://open.spotify.com/album/5a7UNqcVVkbZybijRntt5P"
       },
@@ -1482,7 +1558,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 212000,
       "name": "The Truth Can Wait",
       "url": "https://open.spotify.com/track/1gDi26EdEsBA6P9XqMODAb"
@@ -1544,7 +1620,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 203615,
       "name": "Trigger",
       "url": "https://open.spotify.com/track/72q4Hksp0Q6nhRGbDqDt3E"
@@ -1562,7 +1638,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 222983,
       "name": "Truce - Acoustic",
       "url": "https://open.spotify.com/track/1v9q3IrxmGG8xPLW4DNW3t"
@@ -1656,7 +1732,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 253919,
       "name": "Waving",
       "url": "https://open.spotify.com/track/1TiYTnuokSCxFDc7KRNauZ"
@@ -1710,7 +1786,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 183760,
       "name": "Whiskey",
       "url": "https://open.spotify.com/track/4c3bVxNMA6DJNiDzhg6kEk"

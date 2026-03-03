@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "2PM BUS TO THE OCEAN",
+        "url": "https://open.spotify.com/album/1BTN7J2BlxpLvux8oP6DrB"
+      },
+      "artists": [
+        {
+          "name": "SANCHEZ BY THE SEA*",
+          "url": "https://open.spotify.com/artist/5bSnJtfoIBMee5zGgUcMwO"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155625,
+      "name": "2PM BUS TO THE OCEAN",
+      "url": "https://open.spotify.com/track/2VjpDHoH1YvLw0p5EkSlSk"
+    },
+    {
+      "album": {
         "name": "Paranormally",
         "url": "https://open.spotify.com/album/61NrQ5EfvtV6tSh8GnD9vM"
       },
@@ -582,6 +600,24 @@
       "duration_ms": 143021,
       "name": "Dead in a Ditch (Reloaded)",
       "url": "https://open.spotify.com/track/3wjMvlboeH5EQofd0XNfWL"
+    },
+    {
+      "album": {
+        "name": "Deep in the Misery",
+        "url": "https://open.spotify.com/album/2jgh1drEJVXCTD5lDxszxn"
+      },
+      "artists": [
+        {
+          "name": "Indigo",
+          "url": "https://open.spotify.com/artist/2T0y5xRUmcjFn8oXD3iRsu"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212389,
+      "name": "Deep in the Misery",
+      "url": "https://open.spotify.com/track/3ewW2BuO8DxWLZfxiFQvdx"
     },
     {
       "album": {
@@ -2993,6 +3029,28 @@
     },
     {
       "album": {
+        "name": "The rain",
+        "url": "https://open.spotify.com/album/5wZD7DvWapqfX14BW6k6SU"
+      },
+      "artists": [
+        {
+          "name": "fown",
+          "url": "https://open.spotify.com/artist/4BNwLwHxGLvefZnkS5AHiK"
+        },
+        {
+          "name": "whitefool",
+          "url": "https://open.spotify.com/artist/4jjQtcHXjNjWop8MMKnP4Y"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265850,
+      "name": "The rain",
+      "url": "https://open.spotify.com/track/0aQjPawnFa3hynnDmGJKhv"
+    },
+    {
+      "album": {
         "name": "The Vampire",
         "url": "https://open.spotify.com/album/5HxF0UmQ9JXGGVTENcPSxN"
       },
@@ -3062,6 +3120,24 @@
       "duration_ms": 265890,
       "name": "These Days",
       "url": "https://open.spotify.com/track/2px3o5x9yKjcOH0jggvuTh"
+    },
+    {
+      "album": {
+        "name": "They Hate The Truth",
+        "url": "https://open.spotify.com/album/2EOyP6CPUmleEFOpLgjBD1"
+      },
+      "artists": [
+        {
+          "name": "Sasha Jay",
+          "url": "https://open.spotify.com/artist/2xHt1AlMaSlmLTonFh0vM1"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118680,
+      "name": "They Hate The Truth",
+      "url": "https://open.spotify.com/track/1Wdd4MQsHfyBogg1svGMxx"
     },
     {
       "album": {
@@ -3566,6 +3642,24 @@
       "duration_ms": 259793,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/6qwbAsMNRLZdvzx9bGzpWZ"
+    },
+    {
+      "album": {
+        "name": "Album.1",
+        "url": "https://open.spotify.com/album/3qQaVYuxi4JzyokTTFqyBg"
+      },
+      "artists": [
+        {
+          "name": "The Funky Ducklings",
+          "url": "https://open.spotify.com/artist/74wI7y9osStJVIegvAq1IQ"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275357,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/7oIGfvvszUPBy3RbcybSsy"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 日本のシンガーソングライターを特集。Cover: 汐れいら
 
-1,222 songs - 3 day 5 hr 9 min
+1,223 songs - 3 day 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,7 +410,7 @@
 | [Prema](https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:22 | 2025-09-09 |  |
 | [Present](https://open.spotify.com/track/6haW837EW4wauotPmhUVAM) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Present](https://open.spotify.com/album/3SgSlkZv8rds5bMmD24AqD) | 2:58 | 2024-12-10 | 2025-01-22 |
 | [PRESSURE](https://open.spotify.com/track/44qHusYyCKRYSN72osJ2SB) | [BRIAN SHINSEKAI](https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY) | [PRESSURE](https://open.spotify.com/album/24rLILsC6OlenhpsRVbBrM) | 3:58 | 2025-04-22 | 2025-04-30 |
-| [Pulse Wave](https://open.spotify.com/track/5T0bIlgkd76Je8biQEqSpJ) | [辻井 くぬえ](https://open.spotify.com/artist/3TlnzDv4MPoUbyE3X7djbQ) | [Pulse Wave](https://open.spotify.com/album/1EYpDVwChhDtXMYF2OE4oU) | 2:54 | 2026-01-27 |  |
+| [Pulse Wave](https://open.spotify.com/track/5T0bIlgkd76Je8biQEqSpJ) | [辻井 くぬえ](https://open.spotify.com/artist/3TlnzDv4MPoUbyE3X7djbQ) | [Pulse Wave](https://open.spotify.com/album/1EYpDVwChhDtXMYF2OE4oU) | 2:54 | 2026-01-27 | 2026-03-03 |
 | [Pure White City](https://open.spotify.com/track/1hNOdpJRssGxEhRtBUr0Kn) | [Ryota Fujimaki](https://open.spotify.com/artist/7r3FkquAY1tv1roZs3unJ1) | [Pure White City](https://open.spotify.com/album/5BAEBUKJGzspzuF6onBNMD) | 4:21 | 2025-01-28 | 2025-02-05 |
 | [PUZZLE](https://open.spotify.com/track/09O5p1IP5i2xldBScLpXX7) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [PUZZLE](https://open.spotify.com/album/7L8b9ERkqqs8F0rtjYrofV) | 4:36 | 2024-10-08 | 2025-12-03 |
 | [Quest](https://open.spotify.com/track/2QINGugMpwAN9jTZ1VF6n2) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [Quest](https://open.spotify.com/album/0XTbulkI0iUJ8Kkw1jlNr5) | 4:29 | 2025-10-08 | 2026-02-12 |
@@ -561,6 +561,7 @@
 | [WORLD IS MINE](https://open.spotify.com/track/0WedDMtk8uC8Cicsa00ef3) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [WORLD IS MINE](https://open.spotify.com/album/0j8CjgmSicXZnhWtnv4OAg) | 3:57 | 2025-04-22 | 2025-04-30 |
 | [Yamamba Mambo](https://open.spotify.com/track/2P0BVinCbzbms7RTrXycvS) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [Yamamba Mambo](https://open.spotify.com/album/7eKhFdL07gefRkZLPAAp9v) | 4:39 | 2025-06-03 | 2025-06-11 |
 | [YETI](https://open.spotify.com/track/4TFJVIYjTBFAkQKMsPAEUi) | [中野ミホ](https://open.spotify.com/artist/1VGKPNzzfAx82OG0sWXtLS) | [YETI](https://open.spotify.com/album/3AYPP1RzPIXUuOG0EN6fAt) | 4:33 | 2024-07-09 | 2024-07-17 |
+| [Yoake](https://open.spotify.com/track/2Jzph4eqOjYGycBWklRYWZ) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc), [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [Yoake](https://open.spotify.com/album/5TDv5ADdQQhVL29gQDRg93) | 4:41 | 2026-02-24 |  |
 | [Yomigaeri \- with 槇原敬之 & 絢香](https://open.spotify.com/track/4TZXfiwGLqW6UMPwda1uAD) | [VK Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d), [Noriyuki Makihara](https://open.spotify.com/artist/3vVDusnDA0LcPH3NvZpoyM), [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [Knightclub](https://open.spotify.com/album/5ybZQ4G0UTWCYkFJOM1Ozw) | 3:13 | 2024-08-27 | 2024-09-11 |
 | [Yoru ni Sugatte](https://open.spotify.com/track/4g9sdO5Gst3mwW70UV1C36) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [Yoru ni Sugatte](https://open.spotify.com/album/1UGtM5acyccUmrgr0uLceN) | 3:16 | 2025-02-25 | 2025-03-05 |
 | [yorube](https://open.spotify.com/track/1xv2o6xibUtBOXtAD6D3Sj) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [泡沫](https://open.spotify.com/album/0qSEOrPQzE6dgOPpRD5BNF) | 5:18 | 2026-02-11 |  |

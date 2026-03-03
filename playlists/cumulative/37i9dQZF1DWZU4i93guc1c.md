@@ -4,7 +4,7 @@
 
 > Xіти та проривні новинки незалежної місцевої музики\. Обкладинка: Скажи щось погане
 
-594 songs - 1 day 7 hr 13 min
+595 songs - 1 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Дистанція](https://open.spotify.com/track/5BzFwMal6KeCD5aqiFNbfA) | [СТРУКТУРА ЩАСТЯ](https://open.spotify.com/artist/4AupETQEHkWQL9H3O6f9h8) | [СТРУКТУРА](https://open.spotify.com/album/702JNGdhPGpW1Q68G9LBz8) | 3:20 | 2025-06-06 | 2026-01-17 |
 | [Дихотомія](https://open.spotify.com/track/4LdyiOJvt8wE2KVuUp3iLm) | [Тонка](https://open.spotify.com/artist/2ENRblmO6FgEs7MSj2AuWG) | [Дихотомія](https://open.spotify.com/album/1hV93flQsYV7PLABJznwYv) | 5:41 | 2024-08-23 | 2024-10-10 |
 | [Дні і Ночі](https://open.spotify.com/track/3o7OvllUmpoF6Lr8pPGaiF) | [sexnesc](https://open.spotify.com/artist/054GRnSfbwcOdFGg6jpyc6) | [Дні і Ночі](https://open.spotify.com/album/2elWdgtrfW07hZTIOmViHG) | 3:07 | 2026-02-27 |  |
+| [ДО ВЕСНИ](https://open.spotify.com/track/4Ktq7VuKBizDZOY5pCzu9D) | [YOXDEN](https://open.spotify.com/artist/1XrrGy6h4YccivIF8u2TAX), [Gario Nells](https://open.spotify.com/artist/2KgnWwpa1lrJQxkIy7oWVi) | [ДО ВЕСНИ](https://open.spotify.com/album/6pkyxG0NgrYwpI4GRQNKbP) | 2:25 | 2026-02-27 |  |
 | [До нестями](https://open.spotify.com/track/0E3toxhKHlqxFpxgAjOSdd) | [Тонка](https://open.spotify.com/artist/2ENRblmO6FgEs7MSj2AuWG) | [До нестями](https://open.spotify.com/album/5jpEWFea74YYOL6Dg6vzVb) | 4:49 | 2025-04-11 | 2025-06-20 |
 | [До Ранку](https://open.spotify.com/track/1uiIyQg4ygKdkTJ1FF7uHs) | [GEZWEIRDO](https://open.spotify.com/artist/6bTAQ6F3BQfGWbqLz0xk46) | [До Ранку](https://open.spotify.com/album/1eUX3yrGfo8UtExXzew1mm) | 2:51 | 2024-10-18 | 2024-12-07 |
 | [Довільні структури](https://open.spotify.com/track/188CPURPJuzClsvDllsjYR) | [nearr](https://open.spotify.com/artist/4ieyygnBUFEXhBeMdM0Sbc) | [Довільні структури](https://open.spotify.com/album/6ALKcsNy3c8TRptvwG2UNz) | 10:07 | 2024-11-07 | 2024-12-07 |
@@ -577,7 +578,7 @@
 | [Що ще я маю зробити?](https://open.spotify.com/track/6scUf5eYl3xfCik26KEu0Z) | [IRYN](https://open.spotify.com/artist/5oD5C0wSepvoGEDPtZHcKB) | [Що ще я маю зробити?](https://open.spotify.com/album/7wG9KWwTvgC8fAcqcFR8Ko) | 3:02 | 2025-06-06 | 2025-06-20 |
 | [Що якщо](https://open.spotify.com/track/5PlwjDZycmfS6DWim2eFaA) | [Do Sliz](https://open.spotify.com/artist/61v6YcV4juu3cN4xzVji03), [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Що якщо](https://open.spotify.com/album/4dt1RncTIV5GOV9ANMtecF) | 2:12 | 2024-10-04 | 2025-06-07 |
 | [Щось не так](https://open.spotify.com/track/7vhiemo74wwfrAYT4qUueG) | [BAH.ROMA](https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL), [Sasha Chemerov](https://open.spotify.com/artist/6EkxNdVClS3VI3zVWbDch9) | [Готель "Надія"](https://open.spotify.com/album/3saNINSjTgsba68yKa8aKQ) | 3:35 | 2025-12-09 |  |
-| [Я був](https://open.spotify.com/track/42nLkYXq8sJ5REilcjsive) | [Мій конфлікт](https://open.spotify.com/artist/18A2MbWAjVr4JNsBLdB21H) | [Я був](https://open.spotify.com/album/63LVPnilWuzqAhiwrEnrFs) | 2:33 | 2025-12-09 |  |
+| [Я був](https://open.spotify.com/track/42nLkYXq8sJ5REilcjsive) | [Мій конфлікт](https://open.spotify.com/artist/18A2MbWAjVr4JNsBLdB21H) | [Я був](https://open.spotify.com/album/63LVPnilWuzqAhiwrEnrFs) | 2:33 | 2025-12-09 | 2026-03-03 |
 | [Я вдома](https://open.spotify.com/track/7fcIobA5JUkd90ad8y0cjO) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Я вдома](https://open.spotify.com/album/2LFrNxIvNZS3oURodrzDV0) | 2:58 | 2024-06-27 | 2024-10-19 |
 | [Я загорну тобі на пам'ять](https://open.spotify.com/track/5g1o5GWyxzCmA4HWUFMQT8) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Я загорну тобі на пам'ять](https://open.spotify.com/album/6bQXnJc5s4w260ugdoVsI7) | 2:43 | 2025-06-30 | 2026-01-17 |
 | [Я залишусь молодим](https://open.spotify.com/track/7rFixQ34ztEYGKlG4P3JoH) | [Volodymyr Dantes](https://open.spotify.com/artist/0eFAXtLIVxGHPJgUS8gI2E) | [Я залишусь молодим](https://open.spotify.com/album/6RpPwRSbdZOGjDcQekrFcY) | 1:58 | 2024-06-27 | 2025-04-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Melendi, Dei V & JC Reyes, Bruno Mars y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,873 likes - 85 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,874 likes - 85 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 62 | [Solo](https://open.spotify.com/track/0pKgP83FLlrQfmdrPR9jDB) | [Andy](https://open.spotify.com/artist/3sFAhUzAk0OINhzrOGBLOu) | [Solo](https://open.spotify.com/album/6kePCS2bCpqh39Dust4HPM) | 3:04 |
 | 63 | [Demasiado normal](https://open.spotify.com/track/7hBidUrc1mI4RFqbbP0caZ) | [Sobrezero](https://open.spotify.com/artist/5shINgHUmPMcJFG3MivRZr), [Éxtasis](https://open.spotify.com/artist/4OjT4aZHr6PZH2K2P6uK4j) | [Demasiado normal](https://open.spotify.com/album/3UQm3EFrgSlmSsFIosmwoR) | 3:54 |
 | 64 | [Brilla el sol](https://open.spotify.com/track/6n88P24r5XiVb7qXfkXFya) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF) | [Brilla el sol](https://open.spotify.com/album/2hQ31mZrkKFlqwulf87IDr) | 3:22 |
-| 65 | [Mi peña](https://open.spotify.com/track/5E76WEiqJDcZnf2VD801lX) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy), [PatataOnStereo](https://open.spotify.com/artist/1Oc9GLjfd9AbkyxEwFUxGR), [Teo Lucadamo](https://open.spotify.com/artist/7mwMldjYYpCRmYvoLCy7qj), [Escandaloso Xpósito](https://open.spotify.com/artist/0GUmY2qAmker4cB3VnpKVf) | [Mi peña](https://open.spotify.com/album/42BxwxIlOzVDBNJC9NMflJ) | 3:14 |
+| 65 | [Mi peña](https://open.spotify.com/track/5E76WEiqJDcZnf2VD801lX) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy), [Teo Lucadamo](https://open.spotify.com/artist/7mwMldjYYpCRmYvoLCy7qj), [PatataOnStereo](https://open.spotify.com/artist/1Oc9GLjfd9AbkyxEwFUxGR), [Escandaloso Xpósito](https://open.spotify.com/artist/0GUmY2qAmker4cB3VnpKVf) | [Mi peña](https://open.spotify.com/album/42BxwxIlOzVDBNJC9NMflJ) | 3:14 |
 | 66 | [insolación](https://open.spotify.com/track/4QaFxvjhdW02rhXbNiHc44) | [Fillas de Cassandra](https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5) | [insolación](https://open.spotify.com/album/1xjURlCp4pM1sMfaUtbFhp) | 3:47 |
 | 67 | [tu reflejo](https://open.spotify.com/track/0gTA4vHJNpMTkTqcr5BMau) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [tu reflejo](https://open.spotify.com/album/7H5fSpJLk0Q1TjIFTfVXj0) | 3:52 |
 | 68 | [AURAAA](https://open.spotify.com/track/0vXOjbxHxy1UEUE4hrmv4f) | [marquitos](https://open.spotify.com/artist/6BsVKwQgIZHaojxpNmOlRU) | [AURAAA](https://open.spotify.com/album/3ijPe5X8uwftIHz4TpNuwe) | 2:51 |

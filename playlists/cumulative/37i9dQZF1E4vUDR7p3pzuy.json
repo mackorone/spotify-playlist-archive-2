@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Evil Level Live, The Ramey Memo, The Guilt and more",
+  "description": "With The Ramey Memo, Evil Level Live, Lockjaw and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -222,6 +222,24 @@
       "duration_ms": 294155,
       "name": "A Love So Bold",
       "url": "https://open.spotify.com/track/6ylEbDvwHvCHl0KlrOAEiH"
+    },
+    {
+      "album": {
+        "name": "Radar Ranger",
+        "url": "https://open.spotify.com/album/6NcWagRWgH9fisACytWlN7"
+      },
+      "artists": [
+        {
+          "name": "The Ramey Memo",
+          "url": "https://open.spotify.com/artist/1zpk6QOCwtN6GWu8G8b6JV"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "A Pop Song for Satan",
+      "url": "https://open.spotify.com/track/14rkrBXoxEBpIdEfoPZx3t"
     },
     {
       "album": {
@@ -1026,7 +1044,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-26",
+      "date_removed": null,
       "duration_ms": 310000,
       "name": "Can You See",
       "url": "https://open.spotify.com/track/0821u62C5YiW4Z2beHjvGf"
@@ -1152,7 +1170,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 148239,
       "name": "Chasing Crows",
       "url": "https://open.spotify.com/track/1IBcjm6bxYn0SX8gzfiMmW"
@@ -1311,6 +1329,24 @@
     },
     {
       "album": {
+        "name": "Comfort in Disease",
+        "url": "https://open.spotify.com/album/1MiPFU74ksTdZek0fSA2ks"
+      },
+      "artists": [
+        {
+          "name": "RUSTED WAYZ",
+          "url": "https://open.spotify.com/artist/0FTt6R1TssaMfsfB3UQBj8"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314188,
+      "name": "Comfort in Disease",
+      "url": "https://open.spotify.com/track/6VmKwotqJLsCSzMCcwG1Ml"
+    },
+    {
+      "album": {
         "name": "Coming Back To Life",
         "url": "https://open.spotify.com/album/3K0V0nODOqFypnIDpO23EU"
       },
@@ -1340,7 +1376,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -1658,7 +1694,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-02",
+      "date_removed": null,
       "duration_ms": 241972,
       "name": "Dark City",
       "url": "https://open.spotify.com/track/0Gp2X1eYk64a0pst7Vfuru"
@@ -1778,6 +1814,24 @@
       "duration_ms": 231231,
       "name": "Deliria",
       "url": "https://open.spotify.com/track/5lLmmiT3mRddBFXBFjMLUF"
+    },
+    {
+      "album": {
+        "name": "Radar Ranger",
+        "url": "https://open.spotify.com/album/6NcWagRWgH9fisACytWlN7"
+      },
+      "artists": [
+        {
+          "name": "The Ramey Memo",
+          "url": "https://open.spotify.com/artist/1zpk6QOCwtN6GWu8G8b6JV"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250249,
+      "name": "Den of Noises",
+      "url": "https://open.spotify.com/track/75DezFCcNsIDgzpXbW3P29"
     },
     {
       "album": {
@@ -2377,6 +2431,24 @@
     },
     {
       "album": {
+        "name": "JUM!",
+        "url": "https://open.spotify.com/album/4qHKLcfnd23hikiIUBW7Iw"
+      },
+      "artists": [
+        {
+          "name": "JUM!",
+          "url": "https://open.spotify.com/artist/3P2VqcLsOZtXILUC1y9pUr"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194253,
+      "name": "Ferris Wheel",
+      "url": "https://open.spotify.com/track/7cr1llDHS6GZRpRowOIFPV"
+    },
+    {
+      "album": {
         "name": "Fine & Dandy",
         "url": "https://open.spotify.com/album/08xmiDxIyoRhXxPLLWFmw8"
       },
@@ -2388,7 +2460,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-02",
+      "date_removed": null,
       "duration_ms": 137054,
       "name": "Fine & Dandy - Single Edit",
       "url": "https://open.spotify.com/track/1FUpjRcUG2BFXsoC9giGvA"
@@ -2525,6 +2597,24 @@
     },
     {
       "album": {
+        "name": "Fragile Things",
+        "url": "https://open.spotify.com/album/3i4bvSWrOY1cv1liMO9kjI"
+      },
+      "artists": [
+        {
+          "name": "Hexxes",
+          "url": "https://open.spotify.com/artist/5u06spG46afeEPnYdApoHD"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235932,
+      "name": "Fragile Things",
+      "url": "https://open.spotify.com/track/3buzObI8wNmbDmpChyPYfk"
+    },
+    {
+      "album": {
         "name": "DIE HAPPY",
         "url": "https://open.spotify.com/album/56KF8dORpOgpu5J6o7P1Ph"
       },
@@ -2584,7 +2674,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 176821,
       "name": "FUCK WAR! - Remix",
       "url": "https://open.spotify.com/track/1zGCWTRvCzJkEWwTj7bC43"
@@ -2704,7 +2794,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 206000,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/2FHoqKj496yDpU1lRLS0Dv"
@@ -2886,7 +2976,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 175982,
       "name": "HAIR KILLER",
       "url": "https://open.spotify.com/track/3Th9GrFjG5bKv5nQQIw3bh"
@@ -4834,7 +4924,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 325360,
       "name": "No Control",
       "url": "https://open.spotify.com/track/6mZdV5bEK8wrPPDlI6sxem"
@@ -5900,7 +5990,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 273353,
       "name": "Sei\u00f0r",
       "url": "https://open.spotify.com/track/1IRQJ2cJZlxRa79zVIWqoU"
@@ -6168,7 +6258,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-01",
+      "date_removed": null,
       "duration_ms": 141000,
       "name": "Skin",
       "url": "https://open.spotify.com/track/1GiM0sCx7JfmkmHhMDuwQr"
@@ -6714,7 +6804,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 260040,
       "name": "Sunrise Symphony",
       "url": "https://open.spotify.com/track/1yNjERs6ZPT5aEaUjFtTi2"
@@ -7062,7 +7152,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-02",
+      "date_removed": null,
       "duration_ms": 319892,
       "name": "The Scavengers",
       "url": "https://open.spotify.com/track/60CFVzMTsZhBZixZcMyGbC"
@@ -7488,7 +7578,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 234717,
       "name": "To Nothing",
       "url": "https://open.spotify.com/track/65vk97TWbixyEpOPUJiIPa"
@@ -7506,7 +7596,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 184590,
       "name": "TOMORROW.IS.GONE",
       "url": "https://open.spotify.com/track/4dz2I13MPmF0Q1HN5cxTSd"
@@ -7542,7 +7632,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 197888,
       "name": "Touch",
       "url": "https://open.spotify.com/track/4LGumMKgQR6CIuFdecAowS"
@@ -7560,7 +7650,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 192026,
       "name": "Toy ! - Single mix",
       "url": "https://open.spotify.com/track/4lna786L8JUAqg31pV89Y8"
@@ -8124,7 +8214,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 310500,
       "name": "When They Come For Me",
       "url": "https://open.spotify.com/track/1AoomKuZS3AtvjzAqh0eoe"
@@ -8240,7 +8330,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 196171,
       "name": "Whomever You Need",
       "url": "https://open.spotify.com/track/3CSv43GAVspGJ281rrkb0M"

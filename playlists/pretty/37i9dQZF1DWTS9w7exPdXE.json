@@ -1,6 +1,6 @@
 {
   "description": "Samuel Welten genomineerd voor Edison Pop 2026: Nieuwkomer en Hollands \ud83d\udd25",
-  "num_followers": 157824,
+  "num_followers": 157847,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,26 @@
     {
       "added_at": "2026-02-26 23:00:37",
       "album": {
+        "name": "Hartslag Van De Stad",
+        "url": "https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        },
+        {
+          "name": "Mart Hoogkamer",
+          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+        }
+      ],
+      "duration_ms": 179025,
+      "name": "Hartslag Van De Stad",
+      "url": "https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl"
+    },
+    {
+      "added_at": "2026-02-26 23:00:37",
+      "album": {
         "name": "Wereldwonder",
         "url": "https://open.spotify.com/album/3rmTpJlbHeChLSFdItMpY7"
       },
@@ -167,26 +187,6 @@
       "duration_ms": 151714,
       "name": "Wereldwonder",
       "url": "https://open.spotify.com/track/4NZ15Gn3KJrmflE8jwiMBU"
-    },
-    {
-      "added_at": "2026-02-26 23:00:37",
-      "album": {
-        "name": "Hartslag Van De Stad",
-        "url": "https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo"
-      },
-      "artists": [
-        {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
-        },
-        {
-          "name": "Mart Hoogkamer",
-          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
-        }
-      ],
-      "duration_ms": 179025,
-      "name": "Hartslag Van De Stad",
-      "url": "https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl"
     },
     {
       "added_at": "2026-02-26 23:00:37",
@@ -303,8 +303,8 @@
     {
       "added_at": "2026-02-26 23:00:37",
       "album": {
-        "name": "Nooit Meer Voorbij",
-        "url": "https://open.spotify.com/album/3xA8HtZ3rmd8hnETY8YWDx"
+        "name": "Vannacht Slaap Jij Bij Mij",
+        "url": "https://open.spotify.com/album/72aiMSxFyKAiY4mrolRPgj"
       },
       "artists": [
         {
@@ -312,17 +312,21 @@
           "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
         },
         {
+          "name": "John West",
+          "url": "https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy"
+        },
+        {
           "name": "Billy Dans",
           "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
         },
         {
-          "name": "Brace",
-          "url": "https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG"
+          "name": "Monq",
+          "url": "https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs"
         }
       ],
-      "duration_ms": 150741,
-      "name": "Nooit Meer Voorbij",
-      "url": "https://open.spotify.com/track/2uWEvrQazVzAwzDIXE8ZhC"
+      "duration_ms": 148704,
+      "name": "Vannacht Slaap Jij Bij Mij",
+      "url": "https://open.spotify.com/track/7gv9Ky47iGM6LRp5aO5tkt"
     },
     {
       "added_at": "2026-02-26 23:00:37",
@@ -379,6 +383,46 @@
     {
       "added_at": "2026-02-26 23:00:37",
       "album": {
+        "name": "Adem",
+        "url": "https://open.spotify.com/album/6YQnL0M6jruuuSuppGh1rb"
+      },
+      "artists": [
+        {
+          "name": "Acda en de Munnik",
+          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
+        }
+      ],
+      "duration_ms": 225733,
+      "name": "Het Regent Zonnestralen",
+      "url": "https://open.spotify.com/track/1a2GeLs7aMPvwJOjcVK0Vl"
+    },
+    {
+      "added_at": "2026-02-26 23:00:37",
+      "album": {
+        "name": "Nooit Meer Voorbij",
+        "url": "https://open.spotify.com/album/3xA8HtZ3rmd8hnETY8YWDx"
+      },
+      "artists": [
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        },
+        {
+          "name": "Brace",
+          "url": "https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG"
+        }
+      ],
+      "duration_ms": 150741,
+      "name": "Nooit Meer Voorbij",
+      "url": "https://open.spotify.com/track/2uWEvrQazVzAwzDIXE8ZhC"
+    },
+    {
+      "added_at": "2026-02-26 23:00:37",
+      "album": {
         "name": "Zoutelande (feat. Geike)",
         "url": "https://open.spotify.com/album/0lijSwwkPwnIv3NOnwL5O0"
       },
@@ -399,50 +443,6 @@
     {
       "added_at": "2026-02-26 23:00:37",
       "album": {
-        "name": "Vannacht Slaap Jij Bij Mij",
-        "url": "https://open.spotify.com/album/72aiMSxFyKAiY4mrolRPgj"
-      },
-      "artists": [
-        {
-          "name": "Afro Bros",
-          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
-        },
-        {
-          "name": "John West",
-          "url": "https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy"
-        },
-        {
-          "name": "Billy Dans",
-          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
-        },
-        {
-          "name": "Monq",
-          "url": "https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs"
-        }
-      ],
-      "duration_ms": 148704,
-      "name": "Vannacht Slaap Jij Bij Mij",
-      "url": "https://open.spotify.com/track/7gv9Ky47iGM6LRp5aO5tkt"
-    },
-    {
-      "added_at": "2026-02-26 23:00:37",
-      "album": {
-        "name": "Adem",
-        "url": "https://open.spotify.com/album/6YQnL0M6jruuuSuppGh1rb"
-      },
-      "artists": [
-        {
-          "name": "Acda en de Munnik",
-          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
-        }
-      ],
-      "duration_ms": 225733,
-      "name": "Het Regent Zonnestralen",
-      "url": "https://open.spotify.com/track/1a2GeLs7aMPvwJOjcVK0Vl"
-    },
-    {
-      "added_at": "2026-02-26 23:00:37",
-      "album": {
         "name": "Jammer Dan",
         "url": "https://open.spotify.com/album/2AxAA2mZxU9U8EymFn0nxd"
       },
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-02-26 23:00:37",
       "album": {
-        "name": "Jij Liet Me Vallen",
-        "url": "https://open.spotify.com/album/01rLwvJx2VUjcsppCnWNDd"
-      },
-      "artists": [
-        {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
-        }
-      ],
-      "duration_ms": 218040,
-      "name": "Jij Liet Me Vallen",
-      "url": "https://open.spotify.com/track/2Q01M0X7yJeLfGg4ebLORO"
-    },
-    {
-      "added_at": "2026-02-26 23:00:37",
-      "album": {
         "name": "Ik Spaar Geen Centen",
         "url": "https://open.spotify.com/album/1zKEr4hhGjFSaeXeO450RS"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 166923,
       "name": "Ik Spaar Geen Centen",
       "url": "https://open.spotify.com/track/6h6hSyEABJubJdCn7Y8hEE"
+    },
+    {
+      "added_at": "2026-02-26 23:00:37",
+      "album": {
+        "name": "Jij Liet Me Vallen",
+        "url": "https://open.spotify.com/album/01rLwvJx2VUjcsppCnWNDd"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        }
+      ],
+      "duration_ms": 218040,
+      "name": "Jij Liet Me Vallen",
+      "url": "https://open.spotify.com/track/2Q01M0X7yJeLfGg4ebLORO"
     },
     {
       "added_at": "2026-02-26 23:00:37",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-02-26 23:00:37",
       "album": {
-        "name": "Met Of Zonder Jou",
-        "url": "https://open.spotify.com/album/7rq2FgyZZPsuSGvuptcwaq"
-      },
-      "artists": [
-        {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
-        }
-      ],
-      "duration_ms": 182618,
-      "name": "Met Of Zonder Jou",
-      "url": "https://open.spotify.com/track/69RI9EeFuWmMtRWAuREUy1"
-    },
-    {
-      "added_at": "2026-02-26 23:00:37",
-      "album": {
         "name": "Jouw Glimlach Op Je Mond",
         "url": "https://open.spotify.com/album/19DQ4S9J7ga2NczygNpl58"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 223440,
       "name": "Lekkerding",
       "url": "https://open.spotify.com/track/5sTqteIZDJJtx04xHBTbBD"
+    },
+    {
+      "added_at": "2026-02-26 23:00:37",
+      "album": {
+        "name": "Met Of Zonder Jou",
+        "url": "https://open.spotify.com/album/7rq2FgyZZPsuSGvuptcwaq"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        }
+      ],
+      "duration_ms": 182618,
+      "name": "Met Of Zonder Jou",
+      "url": "https://open.spotify.com/track/69RI9EeFuWmMtRWAuREUy1"
     },
     {
       "added_at": "2026-02-26 23:00:37",
@@ -627,22 +627,18 @@
     {
       "added_at": "2026-02-26 23:00:37",
       "album": {
-        "name": "Liever Te Dik In De Kist",
-        "url": "https://open.spotify.com/album/1JcMPNLvGonkOCRUIU8oaA"
+        "name": "Maak Me Gek",
+        "url": "https://open.spotify.com/album/0i45L4c4qL4M4TJtASfPiT"
       },
       "artists": [
         {
-          "name": "Stef Ekkel",
-          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
-        },
-        {
-          "name": "Rene Karst",
-          "url": "https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO"
+          "name": "Gerard Joling",
+          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Liever Te Dik In De Kist",
-      "url": "https://open.spotify.com/track/67xy7fhM9hKO6SxyHh7vrE"
+      "duration_ms": 182000,
+      "name": "Maak Me Gek",
+      "url": "https://open.spotify.com/track/2NRM0hWzeQkkiY2qMKBkPg"
     },
     {
       "added_at": "2026-02-26 23:00:37",
@@ -663,18 +659,22 @@
     {
       "added_at": "2026-02-26 23:00:37",
       "album": {
-        "name": "Maak Me Gek",
-        "url": "https://open.spotify.com/album/0i45L4c4qL4M4TJtASfPiT"
+        "name": "Liever Te Dik In De Kist",
+        "url": "https://open.spotify.com/album/1JcMPNLvGonkOCRUIU8oaA"
       },
       "artists": [
         {
-          "name": "Gerard Joling",
-          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
+          "name": "Stef Ekkel",
+          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
+        },
+        {
+          "name": "Rene Karst",
+          "url": "https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Maak Me Gek",
-      "url": "https://open.spotify.com/track/2NRM0hWzeQkkiY2qMKBkPg"
+      "duration_ms": 238000,
+      "name": "Liever Te Dik In De Kist",
+      "url": "https://open.spotify.com/track/67xy7fhM9hKO6SxyHh7vrE"
     },
     {
       "added_at": "2026-02-26 23:00:37",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-02-26 23:00:37",
       "album": {
-        "name": "Hoe Kan Ik Je Hart Bereiken",
-        "url": "https://open.spotify.com/album/4Q7ekV7ogAlgm9II0xotE6"
-      },
-      "artists": [
-        {
-          "name": "Diego Holzken",
-          "url": "https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "Hoe Kan Ik Je Hart Bereiken",
-      "url": "https://open.spotify.com/track/47MByuvKeNo5iAdd3aHlyc"
-    },
-    {
-      "added_at": "2026-02-26 23:00:37",
-      "album": {
         "name": "Gina",
         "url": "https://open.spotify.com/album/3OO7avslFyhPayBU2Ev1vi"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 218890,
       "name": "Gina",
       "url": "https://open.spotify.com/track/5meI025SYNIsanGc3NpCAs"
+    },
+    {
+      "added_at": "2026-02-26 23:00:37",
+      "album": {
+        "name": "Hoe Kan Ik Je Hart Bereiken",
+        "url": "https://open.spotify.com/album/4Q7ekV7ogAlgm9II0xotE6"
+      },
+      "artists": [
+        {
+          "name": "Diego Holzken",
+          "url": "https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "Hoe Kan Ik Je Hart Bereiken",
+      "url": "https://open.spotify.com/track/47MByuvKeNo5iAdd3aHlyc"
     },
     {
       "added_at": "2026-02-26 23:00:37",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-02-26 23:00:37",
       "album": {
-        "name": "Maak Me Nou Niet Gek",
-        "url": "https://open.spotify.com/album/24xjFLhiUSgGS8NWgJB3wa"
-      },
-      "artists": [
-        {
-          "name": "Quido van de Graaf",
-          "url": "https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj"
-        }
-      ],
-      "duration_ms": 136133,
-      "name": "Maak Me Nou Niet Gek",
-      "url": "https://open.spotify.com/track/6gOgwLQfEfRh0SfXUZZk7Z"
-    },
-    {
-      "added_at": "2026-02-26 23:00:37",
-      "album": {
         "name": "Wesly Bronkhorst",
         "url": "https://open.spotify.com/album/4Sl1xNSD1vGfoseOGy9wYc"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 226000,
       "name": "Vrijgezel",
       "url": "https://open.spotify.com/track/5Z2aHuXBpwMnTpWZMwHkmr"
+    },
+    {
+      "added_at": "2026-02-26 23:00:37",
+      "album": {
+        "name": "Maak Me Nou Niet Gek",
+        "url": "https://open.spotify.com/album/24xjFLhiUSgGS8NWgJB3wa"
+      },
+      "artists": [
+        {
+          "name": "Quido van de Graaf",
+          "url": "https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj"
+        }
+      ],
+      "duration_ms": 136133,
+      "name": "Maak Me Nou Niet Gek",
+      "url": "https://open.spotify.com/track/6gOgwLQfEfRh0SfXUZZk7Z"
     },
     {
       "added_at": "2026-02-26 23:00:37",
@@ -1739,8 +1739,8 @@
     {
       "added_at": "2026-02-26 23:00:37",
       "album": {
-        "name": "Hazes 100",
-        "url": "https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K"
+        "name": "Kleine Jongen",
+        "url": "https://open.spotify.com/album/0EsXBeEagSo9xrbKW17FBq"
       },
       "artists": [
         {
@@ -1748,9 +1748,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 244040,
-      "name": "Zij Gelooft In Mij",
-      "url": "https://open.spotify.com/track/4RcnmTxXB0IOGJnQXLSyb2"
+      "duration_ms": 223133,
+      "name": "Kleine Jongen",
+      "url": "https://open.spotify.com/track/6vzj8d0yOzg3ELH2T4u0CC"
     }
   ],
   "unique_name": "Hollandse Meezingers",

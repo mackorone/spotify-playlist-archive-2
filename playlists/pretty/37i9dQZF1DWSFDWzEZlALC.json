@@ -1,15 +1,15 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: mo\u00e9",
-  "num_followers": 462478,
+  "num_followers": 462466,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGbkitZ2Fwi+JlY5MZ/RGurJRcHn",
+  "snapshot_id": "AAAAADVDeEheiMcl1XB9lUA07LEMb11x",
   "tracks": [
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Mich selbst",
         "url": "https://open.spotify.com/album/0GVBQN5S6CykRYpprV3l0d"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/42qXgF9aACLBZjcMnpfO36"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "istdasalles",
         "url": "https://open.spotify.com/album/6fB2iuOAdWxCDrBRzk5ptH"
@@ -41,23 +41,7 @@
       "url": "https://open.spotify.com/track/4fsHnEIFRKi7TZ8ya2W4U6"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
-      "album": {
-        "name": "VIELLEICHT",
-        "url": "https://open.spotify.com/album/03ZYXhSmj5NjMIj4jLdREZ"
-      },
-      "artists": [
-        {
-          "name": "Sharaktah",
-          "url": "https://open.spotify.com/artist/6AVkYjGMj3XVS2unAVeKSU"
-        }
-      ],
-      "duration_ms": 236043,
-      "name": "VIELLEICHT",
-      "url": "https://open.spotify.com/track/5TscnF85MnT7q8gqGBYxeO"
-    },
-    {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "helden",
         "url": "https://open.spotify.com/album/0sXdARjWxj1EhNxUBOzUXR"
@@ -77,7 +61,55 @@
       "url": "https://open.spotify.com/track/2TYB7NAnjy6zzcM9wXbEW1"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
+      "album": {
+        "name": "rotkreiden mund",
+        "url": "https://open.spotify.com/album/6IiNiMS6bTpXBpCPZVauWO"
+      },
+      "artists": [
+        {
+          "name": "luisa schweig",
+          "url": "https://open.spotify.com/artist/0xh4h2jM3Iv58jGpeTGj5I"
+        }
+      ],
+      "duration_ms": 184363,
+      "name": "rotkreiden mund",
+      "url": "https://open.spotify.com/track/0vq9dCG9OdbWlNvzBGtBvT"
+    },
+    {
+      "added_at": "2026-03-02 17:25:10",
+      "album": {
+        "name": "VIELLEICHT",
+        "url": "https://open.spotify.com/album/03ZYXhSmj5NjMIj4jLdREZ"
+      },
+      "artists": [
+        {
+          "name": "Sharaktah",
+          "url": "https://open.spotify.com/artist/6AVkYjGMj3XVS2unAVeKSU"
+        }
+      ],
+      "duration_ms": 236043,
+      "name": "VIELLEICHT",
+      "url": "https://open.spotify.com/track/5TscnF85MnT7q8gqGBYxeO"
+    },
+    {
+      "added_at": "2026-03-02 17:25:10",
+      "album": {
+        "name": "Mon Amour",
+        "url": "https://open.spotify.com/album/2hSUljyMp7i3ZwmpHn7yAc"
+      },
+      "artists": [
+        {
+          "name": "Haus F",
+          "url": "https://open.spotify.com/artist/29oAnuHTt0nstMUpXooF6R"
+        }
+      ],
+      "duration_ms": 240756,
+      "name": "Mon Amour",
+      "url": "https://open.spotify.com/track/4bnEgWcP40jmE0DTIBsEfA"
+    },
+    {
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "ZICKZACK",
         "url": "https://open.spotify.com/album/46vocArEiFAjtgffnrUp73"
@@ -93,7 +125,23 @@
       "url": "https://open.spotify.com/track/6IyG0s74WqBSg2hor0Fk31"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
+      "album": {
+        "name": "Tut mir nicht leid",
+        "url": "https://open.spotify.com/album/0zyn6kUMgSoKCVIKreIsw0"
+      },
+      "artists": [
+        {
+          "name": "herbst",
+          "url": "https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T"
+        }
+      ],
+      "duration_ms": 242482,
+      "name": "Tut mir nicht leid",
+      "url": "https://open.spotify.com/track/09xobCb1XP0zy52Gwifir9"
+    },
+    {
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "H\u00f6r auf keinen mehr",
         "url": "https://open.spotify.com/album/7hjQNHIK1z4UWGjiSYlyoV"
@@ -109,7 +157,7 @@
       "url": "https://open.spotify.com/track/64wojHBwwRr4rDTUrNu1DV"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "listen carefully",
         "url": "https://open.spotify.com/album/028bvc0vaXtIHnDh84iurD"
@@ -133,7 +181,7 @@
       "url": "https://open.spotify.com/track/2D7sq6xJiipSwwZT6Lp90l"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Labyrinth",
         "url": "https://open.spotify.com/album/4JHhiQQpbBKu8iOjbuoh1p"
@@ -149,39 +197,7 @@
       "url": "https://open.spotify.com/track/7En6dZXLv38QMRsqIaJjW3"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
-      "album": {
-        "name": "Tut mir nicht leid",
-        "url": "https://open.spotify.com/album/0zyn6kUMgSoKCVIKreIsw0"
-      },
-      "artists": [
-        {
-          "name": "herbst",
-          "url": "https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T"
-        }
-      ],
-      "duration_ms": 242482,
-      "name": "Tut mir nicht leid",
-      "url": "https://open.spotify.com/track/09xobCb1XP0zy52Gwifir9"
-    },
-    {
-      "added_at": "2026-02-26 23:00:52",
-      "album": {
-        "name": "Mon Amour",
-        "url": "https://open.spotify.com/album/2hSUljyMp7i3ZwmpHn7yAc"
-      },
-      "artists": [
-        {
-          "name": "Haus F",
-          "url": "https://open.spotify.com/artist/29oAnuHTt0nstMUpXooF6R"
-        }
-      ],
-      "duration_ms": 240756,
-      "name": "Mon Amour",
-      "url": "https://open.spotify.com/track/4bnEgWcP40jmE0DTIBsEfA"
-    },
-    {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Nein sagen",
         "url": "https://open.spotify.com/album/5cPRYZDRSlCEc9hDeu8SW5"
@@ -197,7 +213,7 @@
       "url": "https://open.spotify.com/track/4Q1BQevOOJPuQijwCRcldT"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Nichts mehr (mit ENNIO)",
         "url": "https://open.spotify.com/album/0M6RPedZDDA37GasBjWP5a"
@@ -217,7 +233,7 @@
       "url": "https://open.spotify.com/track/38BySzRkktFSQp82WkzgrZ"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Zeug",
         "url": "https://open.spotify.com/album/5ZDiAGpXF7A2TgOCiJcANY"
@@ -233,7 +249,7 @@
       "url": "https://open.spotify.com/track/3ECyrtEB5DJHQjOmn7G6XX"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "ich geh heut nicht unter leute",
         "url": "https://open.spotify.com/album/5rL4J0Nep5EObOA3DipZRQ"
@@ -249,7 +265,7 @@
       "url": "https://open.spotify.com/track/77AsCJLBa94GKDvCFOoZ00"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Wenn alle Stricke reissen",
         "url": "https://open.spotify.com/album/5oNtg3GkGJTqs8xWGJqINA"
@@ -265,7 +281,7 @@
       "url": "https://open.spotify.com/track/3m5ElnNugava0TChDfx34x"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Liebeslied",
         "url": "https://open.spotify.com/album/3kBg2cYl2i2zVv3fBO3MAL"
@@ -281,7 +297,7 @@
       "url": "https://open.spotify.com/track/5PQUlQaGTKUSqvpQXPhL0x"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "WIR",
         "url": "https://open.spotify.com/album/1wp44a0tNqS2ex2Vlp7KLd"
@@ -297,7 +313,7 @@
       "url": "https://open.spotify.com/track/0Pf7l5G7QoZkjlem0pAy28"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "w\u00fcnsch dir was ep",
         "url": "https://open.spotify.com/album/3CmUJUponEobaD7etkPeB1"
@@ -313,7 +329,7 @@
       "url": "https://open.spotify.com/track/74jHaJ6g2IVxQtwchMLVxN"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "BYE BYE",
         "url": "https://open.spotify.com/album/6jAipl6QinNFySL8dFq7CZ"
@@ -329,7 +345,7 @@
       "url": "https://open.spotify.com/track/6djwT0rhezRkmFGieDw2Q6"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "kommst du runter, bin hier",
         "url": "https://open.spotify.com/album/2kG3sIChyIUW7fJDeiIUm5"
@@ -349,7 +365,7 @@
       "url": "https://open.spotify.com/track/52LgwKKkEroZ8tWFNO8rrG"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Fall",
         "url": "https://open.spotify.com/album/6W6DXp3exCy7zEgzKNaH2P"
@@ -365,7 +381,7 @@
       "url": "https://open.spotify.com/track/2YBuKxemdAXW48wLHbRIRb"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Der schlimmste Ort ist in mir drin",
         "url": "https://open.spotify.com/album/2GjplfLq8EecTxuHL1Gdid"
@@ -381,7 +397,7 @@
       "url": "https://open.spotify.com/track/4T3QpM4OS10if1WkHBfbgE"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "SEX UND LIEBE",
         "url": "https://open.spotify.com/album/5whKAeJWySPuQVJ8z2bBBl"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/5odLD1t5L2VF5UgYOypjFY"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Gegenteil von Gl\u00fcck",
         "url": "https://open.spotify.com/album/4PoyaGgQRQdEPALQgLAyuY"
@@ -417,7 +433,7 @@
       "url": "https://open.spotify.com/track/38ZbazlMYsu5qWhaSTOHtO"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "blinde passagiere",
         "url": "https://open.spotify.com/album/1V1ibDiBGqIhChSZ3EHONo"
@@ -433,7 +449,7 @@
       "url": "https://open.spotify.com/track/6hWgRtdEqiHEyYJH9qk4Fh"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "TANZSCHEIN",
         "url": "https://open.spotify.com/album/1x70VU6LDfmoLdL8OgaKix"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/6P4wvzxJJZR7cVs1kFXL3q"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Halb So Sch\u00f6n Wie Du",
         "url": "https://open.spotify.com/album/4RVp5nMug7J4xhvUVSP6kS"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/0aFDcdFXQDju2mUpcZGFhQ"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "juli",
         "url": "https://open.spotify.com/album/74Ol3ScDT8UobOYD6e5Ba9"
@@ -485,7 +501,7 @@
       "url": "https://open.spotify.com/track/0rbvydYLBS92meYf6S0b7D"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Wiener Tauben",
         "url": "https://open.spotify.com/album/3PYtGy75BSze40TPy0KJyM"
@@ -505,7 +521,7 @@
       "url": "https://open.spotify.com/track/24zXIkVezsfxchAQwkT7Dn"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "SILHOUETTEN",
         "url": "https://open.spotify.com/album/4pgP6JQ28okplyJGqq7kMj"
@@ -521,7 +537,7 @@
       "url": "https://open.spotify.com/track/1YScN7MHGqQxy5AMO5QTaI"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Odyssee",
         "url": "https://open.spotify.com/album/1AhJ6GqKEe4oTb5gqKiATx"
@@ -537,7 +553,7 @@
       "url": "https://open.spotify.com/track/2epelpdFPKbM4YJ0WtkjNa"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Dienstag",
         "url": "https://open.spotify.com/album/0gidecBoYd1pQrhgj1hYnH"
@@ -553,7 +569,7 @@
       "url": "https://open.spotify.com/track/4LNX3NCuCTudq0w36933CZ"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Halbzeit",
         "url": "https://open.spotify.com/album/5mbpVmDxFNVp1Y3QTI5mU5"
@@ -577,7 +593,7 @@
       "url": "https://open.spotify.com/track/07uJuElrOlCGJwOHwzCTry"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "L\u00e4rm",
         "url": "https://open.spotify.com/album/34c0s3KnxOt1kejKFHBLQZ"
@@ -593,7 +609,7 @@
       "url": "https://open.spotify.com/track/1DT9aoFj8NaU030v0ulEqf"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Teneriffa",
         "url": "https://open.spotify.com/album/3d0CeuIZJ53NsPDeTzB1fZ"
@@ -609,7 +625,7 @@
       "url": "https://open.spotify.com/track/7ysK1mhW5lARHZzH2A8wp8"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Manchmal",
         "url": "https://open.spotify.com/album/3dLpsXrqZHIzNgPA2IVPMs"
@@ -629,7 +645,7 @@
       "url": "https://open.spotify.com/track/5br8BWCW8il8CKtysx9qLH"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Pins beim Kegeln",
         "url": "https://open.spotify.com/album/3VpO8kO8JxUNrebyrhVubV"
@@ -645,7 +661,7 @@
       "url": "https://open.spotify.com/track/55ju0N7t70MjFKofQn2Q6S"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Unterk\u00fchlt",
         "url": "https://open.spotify.com/album/2SRMlV78U0VlABSr4mGv7n"
@@ -661,7 +677,7 @@
       "url": "https://open.spotify.com/track/1m2NzRIKJ5btSgfyjJjJ0s"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Klapprad",
         "url": "https://open.spotify.com/album/6ffyP01Ey3HPsiAtdoUOMR"
@@ -677,7 +693,7 @@
       "url": "https://open.spotify.com/track/7JVnFtZma0otI1aXPLxXiD"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Zwanzigsechzehn",
         "url": "https://open.spotify.com/album/1MvhN2ZRDch1wMPaYFhfPW"
@@ -693,7 +709,7 @@
       "url": "https://open.spotify.com/track/0EV8VS7YLmOZSScL5X3WtZ"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "seht ihr nicht",
         "url": "https://open.spotify.com/album/4iWsaNsrCtN9CxkezlAve8"
@@ -709,7 +725,7 @@
       "url": "https://open.spotify.com/track/1vN8sBtdKTaP72Gi8pW5rD"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "die welt geht vor die hunde",
         "url": "https://open.spotify.com/album/2WDVP6HevVbI5AmJZqunYY"
@@ -729,7 +745,7 @@
       "url": "https://open.spotify.com/track/3uIHHIE5MiDrPj0YdpfeDO"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Kreislauf",
         "url": "https://open.spotify.com/album/3uZtKPX2VrGNnIIH6M1mV4"
@@ -745,7 +761,7 @@
       "url": "https://open.spotify.com/track/63u7y0YEzhZxsh7Blg6kEa"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Wo du bist",
         "url": "https://open.spotify.com/album/2bzT88rPK0dvEJuCPURl6z"
@@ -761,7 +777,7 @@
       "url": "https://open.spotify.com/track/1hqx9CkcxR4TfQWsRCu9xs"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Danke",
         "url": "https://open.spotify.com/album/1L9KW10EETSgQXM5WhmM4t"
@@ -777,7 +793,7 @@
       "url": "https://open.spotify.com/track/1WJY3gUF5l2c7L4R6IuLqA"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "anders",
         "url": "https://open.spotify.com/album/1jRWxXjmujCr4tbC38cuto"
@@ -793,7 +809,7 @@
       "url": "https://open.spotify.com/track/4QPSzrXCQnn7tS1sGyQHX3"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "kein n\u00e4chstes mal",
         "url": "https://open.spotify.com/album/7cdJf84HRuVFQHUbUYbfwP"
@@ -809,7 +825,7 @@
       "url": "https://open.spotify.com/track/22P8IF6TCe5eysah6kGKgy"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "leere worte",
         "url": "https://open.spotify.com/album/6bbRgY24yo7JVP932em24f"
@@ -829,7 +845,7 @@
       "url": "https://open.spotify.com/track/4I1EzAKn3BZECQfwszQGrg"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "amelie",
         "url": "https://open.spotify.com/album/3ThxdYiGV7JEn3ZQFAOvLE"
@@ -845,7 +861,7 @@
       "url": "https://open.spotify.com/track/3eaUEWWH8gSpFp8D1R0Mub"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "wie ich dich seh",
         "url": "https://open.spotify.com/album/5hPNFDOgqC7i7qTJIxhMkJ"
@@ -861,7 +877,7 @@
       "url": "https://open.spotify.com/track/62frCZLAewgAgA7TnKCWPp"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Die Welt und ich",
         "url": "https://open.spotify.com/album/0iYI6T7q8iNe0prTO319bV"
@@ -881,7 +897,7 @@
       "url": "https://open.spotify.com/track/3uTO2FfzeAMYdJ5NPea8D0"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "kleiner bruder / nah",
         "url": "https://open.spotify.com/album/1BftOysh5tdFhdTk9i9BbA"
@@ -897,7 +913,7 @@
       "url": "https://open.spotify.com/track/4U2BzEzxCLz6jVgE8PiEK8"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "2002",
         "url": "https://open.spotify.com/album/1shEZK864ykHq771TdWVPF"
@@ -917,7 +933,7 @@
       "url": "https://open.spotify.com/track/7IjDf3LtMRgul5BmH9nfdw"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Luftschloss",
         "url": "https://open.spotify.com/album/5V95AEIQjYt8Nyi8ZDNJTF"
@@ -933,7 +949,7 @@
       "url": "https://open.spotify.com/track/0ytjzXzOlaeQ9aSf0tuY8D"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Kaputt",
         "url": "https://open.spotify.com/album/2UmR1dI4jeCLVfLZrM47ff"
@@ -949,7 +965,7 @@
       "url": "https://open.spotify.com/track/79DItC3rv0l4JdLDyfI1nj"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Grauer Regenbogen",
         "url": "https://open.spotify.com/album/0hZEL7oF1vRyW0tSGPnjDT"
@@ -965,7 +981,7 @@
       "url": "https://open.spotify.com/track/3jwhquyMwXSIhm3DJ0fcSy"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Wimpern ausrei\u00dfen (uncut)",
         "url": "https://open.spotify.com/album/25iFwHikNkeKL3iKN7ORjd"
@@ -981,7 +997,7 @@
       "url": "https://open.spotify.com/track/2vnIS6DH6DRy8D3R45OIEO"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Annemarie",
         "url": "https://open.spotify.com/album/2xB6pxE21j0cNFa0RS1WVY"
@@ -997,7 +1013,7 @@
       "url": "https://open.spotify.com/track/4QBh1GYwMpYl9t8r8sqw3y"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Homeoffice",
         "url": "https://open.spotify.com/album/5tEkdC6uH9xeHXfffxwt4d"
@@ -1013,7 +1029,7 @@
       "url": "https://open.spotify.com/track/3NpyAqRGkJDVZheN2TjrZC"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "DARF SIE DAS?",
         "url": "https://open.spotify.com/album/30v3UHd96GVyvaEV6o1a6C"
@@ -1029,7 +1045,7 @@
       "url": "https://open.spotify.com/track/5nGrPZhDZi6iTqh8r0zmwx"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "hundertmal",
         "url": "https://open.spotify.com/album/1jpokMXofqPwMYAVrU8I1x"
@@ -1045,7 +1061,7 @@
       "url": "https://open.spotify.com/track/588NRYHtOiBb2ERT0KIUGf"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "K\u00f6rper",
         "url": "https://open.spotify.com/album/1iJiYMc1fgf3c2cuiuTdmR"
@@ -1061,7 +1077,7 @@
       "url": "https://open.spotify.com/track/28ijH1IbgZoyDTVP1hdkDo"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Strandbad Eldena",
         "url": "https://open.spotify.com/album/5Ht0J2Q4lZ0Pf5p0NUimwh"
@@ -1081,7 +1097,7 @@
       "url": "https://open.spotify.com/track/6BoqUL8PIeYmI9tYkdHNRU"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Sorgen",
         "url": "https://open.spotify.com/album/44FCZLvIiSjvP6emHmTF1c"
@@ -1101,7 +1117,7 @@
       "url": "https://open.spotify.com/track/4Fx5ksDTBLqWCouGi8h626"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Atmen",
         "url": "https://open.spotify.com/album/4kMMhDsEiHK040n0ezN6qi"
@@ -1117,7 +1133,7 @@
       "url": "https://open.spotify.com/track/4dvvUH98XgjXSMuJYqQnDU"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "VIEL10",
         "url": "https://open.spotify.com/album/1jgjo504dJyPyAdnruD0g3"
@@ -1133,7 +1149,7 @@
       "url": "https://open.spotify.com/track/3rCsF9E5A7YBQXl5Y4usVh"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "people pleaser",
         "url": "https://open.spotify.com/album/4s175oNexOJX6mjdPn80ua"
@@ -1149,7 +1165,7 @@
       "url": "https://open.spotify.com/track/3sARZteFXGPGrvcZFtIssk"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "womit hab ich das verdient?",
         "url": "https://open.spotify.com/album/4nTy8qxD1wzebjM2sVwaGu"
@@ -1165,7 +1181,7 @@
       "url": "https://open.spotify.com/track/3IFK0CM2GijSLzbQpD1Ahw"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Herzerw\u00e4rmend",
         "url": "https://open.spotify.com/album/1TVhg8z7fzwxfr2x1RDpvr"
@@ -1181,7 +1197,7 @@
       "url": "https://open.spotify.com/track/05GvJcVS8Opytkl0jhu3uu"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "Blau",
         "url": "https://open.spotify.com/album/6U5gT4DduU1hP5IdZU9BZC"
@@ -1197,7 +1213,7 @@
       "url": "https://open.spotify.com/track/4Jln7MlCC2vIBXDAv9PxoR"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "24",
         "url": "https://open.spotify.com/album/2mwxpip46E0BT2DPXW9LVo"
@@ -1213,7 +1229,7 @@
       "url": "https://open.spotify.com/track/2KQI8OvWiO3Dc4qI11ph0h"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "augen zu:auf",
         "url": "https://open.spotify.com/album/1hBRNebqswtEj9HLGILMAI"
@@ -1229,7 +1245,7 @@
       "url": "https://open.spotify.com/track/4CiYWQI7YtNCzTtF1XxK0h"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "wen INTERESSIERTS.",
         "url": "https://open.spotify.com/album/4djYXMzlOahgRd72pWoSDY"
@@ -1253,23 +1269,7 @@
       "url": "https://open.spotify.com/track/7LWjUgzHKlria6VuM3WkFt"
     },
     {
-      "added_at": "2026-02-26 23:00:52",
-      "album": {
-        "name": "mann von welt // benim adim da g\u00fczel",
-        "url": "https://open.spotify.com/album/1u1QYGjEGPlcSUmqFjKWCI"
-      },
-      "artists": [
-        {
-          "name": "blue friend",
-          "url": "https://open.spotify.com/artist/052QHH0e04tuBG9Ik6E5q0"
-        }
-      ],
-      "duration_ms": 120874,
-      "name": "mann von welt // benim adim da g\u00fczel",
-      "url": "https://open.spotify.com/track/1Wy243slZOLAkcxM6opqk7"
-    },
-    {
-      "added_at": "2026-02-26 23:00:52",
+      "added_at": "2026-03-02 17:25:10",
       "album": {
         "name": "PINOCCHIO",
         "url": "https://open.spotify.com/album/200tPb3IQw1l3sqqRi4jBk"

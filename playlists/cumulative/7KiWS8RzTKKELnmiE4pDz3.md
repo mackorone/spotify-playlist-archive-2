@@ -4,7 +4,7 @@
 
 > 
 
-1,356 songs - 2 day 23 hr 39 min
+1,358 songs - 2 day 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [BURN](https://open.spotify.com/track/4E3XDKil4ElJt6sXuz5cc6) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 1:51 | 2024-02-10 | 2024-02-18 |
 | [Bustin Loose \(feat\. Saara Maria & Austin Antione\)](https://open.spotify.com/track/0p1ZvKFcy7tRv9n6G9MQv1) | [Joomanji](https://open.spotify.com/artist/1TGyEDXHDYwHNB012Otfhj) | [Manj](https://open.spotify.com/album/2QDH2m1uJk9A2BVcl1I8K3) | 3:25 | 2026-01-13 |  |
 | [Butter](https://open.spotify.com/track/758mQT4zzlvBhy9PvNePwC) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [The Low End Theory](https://open.spotify.com/album/1p12OAWwudgMqfMzjMvl2a) | 3:38 | 2025-10-14 |  |
+| [Butterfly](https://open.spotify.com/track/4vevrGPaGIdakuoWhzSnwl) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Synkronized](https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv) | 4:28 | 2026-03-02 |  |
 | [By The Grace Of God](https://open.spotify.com/track/5XhsQnSiO6JPuiG4RPTugh) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Let God Sort Em Out](https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ) | 3:06 | 2025-07-29 |  |
 | [BË QUIET \(FEAT\. KODAK BLACK\)](https://open.spotify.com/track/7DYa1xK4QzVZTejOnPBzQN) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [LYFESTYLE](https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc) | 2:54 | 2024-10-18 | 2025-05-21 |
 | [Bëttr 0ff](https://open.spotify.com/track/0r9ZhD7QEbIAcvfhDkIsdV) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:50 | 2023-02-25 | 2023-05-09 |
@@ -1344,6 +1345,7 @@
 | [Wolverine](https://open.spotify.com/track/22JoVWZlY49vSLzssk8RL7) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [You Only Die 1nce](https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h) | 2:47 | 2024-11-02 | 2025-05-21 |
 | [Woosah Freestyle](https://open.spotify.com/track/61Iqz8Ppm9cVdAQJFkMtVD) | [Kankan Archived](https://open.spotify.com/artist/2ml1cn1EjsA321NEfWMblf) | [Woosah Freestyle](https://open.spotify.com/album/6hw31ruG07RBmVmeGuPTRu) | 2:09 | 2022-12-21 | 2023-05-09 |
 | [World Champ](https://open.spotify.com/track/4VIznE5GISZrFlTxFNE7Pc) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [While We're Here](https://open.spotify.com/album/5wlqekVOKMlrcpMrlUfwW5) | 2:26 | 2023-04-02 | 2023-12-14 |
+| [Wouldn't You Like to Ride](https://open.spotify.com/track/0a6q5XK264I3qDt5gmFNSf) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Coach Carter Soundtrack](https://open.spotify.com/album/6liJnEzquXIyGwrQ1MnmF4) | 3:50 | 2026-03-02 |  |
 | [X For Breakfast](https://open.spotify.com/track/1P1g0AgYauDpZUExzrnP2d) | [riphoops!](https://open.spotify.com/artist/60ywn31mXgdYzCKElw10PE), [user00xman](https://open.spotify.com/artist/4YkU1TtBH2NqSJC7QQzaQj) | [X For Breakfast](https://open.spotify.com/album/61Wfi44HY3LfQwkizkx8Gx) | 2:17 | 2023-12-25 | 2024-04-24 |
 | [X FOR BREAKFAST](https://open.spotify.com/track/3dklnIwy1IC4lve2qk5aaN) | [user00xman](https://open.spotify.com/artist/4YkU1TtBH2NqSJC7QQzaQj) | [X TWO THREE](https://open.spotify.com/album/2RcQF2Oy8XT4HtlWPAWk8p) | 2:16 | 2022-11-04 | 2023-04-24 |
 | [X n Oxy](https://open.spotify.com/track/6nK1Df8DkPjhoItmhGbq0f) | [Kankan Archived](https://open.spotify.com/artist/2ml1cn1EjsA321NEfWMblf), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [X n Oxy](https://open.spotify.com/album/5kHdP5vedcvCK430MYoN29) | 2:57 | 2022-06-30 | 2023-05-09 |

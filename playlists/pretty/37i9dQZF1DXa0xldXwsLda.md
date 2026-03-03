@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 
 > ¡Puro sabor con Estibaliz Badiola en portada! 🌺
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,031 likes - 54 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,039 likes - 54 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

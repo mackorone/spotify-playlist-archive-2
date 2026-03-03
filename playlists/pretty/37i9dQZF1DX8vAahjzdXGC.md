@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Bruno Mars, RAYE, Laufey, Ghea Indrawari hingga akujeje dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,788 likes - 84 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,798 likes - 84 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

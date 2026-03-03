@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs uit de 00's! Cover: Dinand Woesthoff (Kane)",
-  "num_followers": 74239,
+  "num_followers": 74245,
   "original_name": "00's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "Hopes And Fears",
-        "url": "https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd"
-      },
-      "artists": [
-        {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
-        }
-      ],
-      "duration_ms": 215880,
-      "name": "Everybody's Changing",
-      "url": "https://open.spotify.com/track/0yac0FPhLRH9i9lOng3f81"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
         "name": "Back To Black",
         "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 240440,
       "name": "Back To Black",
       "url": "https://open.spotify.com/track/30FURVTCpbKyykjSEQzGkH"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
+        "name": "Hopes And Fears",
+        "url": "https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "duration_ms": 215880,
+      "name": "Everybody's Changing",
+      "url": "https://open.spotify.com/track/0yac0FPhLRH9i9lOng3f81"
     },
     {
       "added_at": "2024-07-19 06:48:03",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
+        "name": "Born to Do It",
+        "url": "https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 235133,
+      "name": "7 Days",
+      "url": "https://open.spotify.com/track/0gPQTLaqHDgdupKEok7J2x"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
         "name": "Good Girl Gone Bad: Reloaded",
         "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 218946,
       "name": "Hate That I Love You",
       "url": "https://open.spotify.com/track/7iu0WYLdo4yksKf3seaxzI"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
-        "name": "Born to Do It",
-        "url": "https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 235133,
-      "name": "7 Days",
-      "url": "https://open.spotify.com/track/0gPQTLaqHDgdupKEok7J2x"
     },
     {
       "added_at": "2024-07-19 06:48:03",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "Ronan",
-        "url": "https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9"
-      },
-      "artists": [
-        {
-          "name": "Ronan Keating",
-          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
-        }
-      ],
-      "duration_ms": 256825,
-      "name": "When You Say Nothing At All",
-      "url": "https://open.spotify.com/track/0gcjc7Vt5xtcfmJgf6g2IO"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
         "name": "Sing When You're Winning",
         "url": "https://open.spotify.com/album/11DmTQm7WPeSXih1FPuaXL"
       },
@@ -755,18 +739,18 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "Crazy Love",
-        "url": "https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj"
+        "name": "Ronan",
+        "url": "https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Ronan Keating",
+          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
         }
       ],
-      "duration_ms": 244586,
-      "name": "Haven't Met You Yet",
-      "url": "https://open.spotify.com/track/4fIWvT19w9PR0VVBuPYpWA"
+      "duration_ms": 256825,
+      "name": "When You Say Nothing At All",
+      "url": "https://open.spotify.com/track/0gcjc7Vt5xtcfmJgf6g2IO"
     },
     {
       "added_at": "2024-07-19 06:48:03",
@@ -787,6 +771,22 @@
       "duration_ms": 250453,
       "name": "Broken Strings",
       "url": "https://open.spotify.com/track/6jBUP2KCe821yqf1hiBqPR"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 244586,
+      "name": "Haven't Met You Yet",
+      "url": "https://open.spotify.com/track/4fIWvT19w9PR0VVBuPYpWA"
     },
     {
       "added_at": "2024-07-19 06:48:03",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "Enrique",
-        "url": "https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 212693,
-      "name": "Bailamos - From \"Wild Wild West\"",
-      "url": "https://open.spotify.com/track/1ySwd43oWXbrytN2BD0Mhb"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
         "name": "Taller In More Ways",
         "url": "https://open.spotify.com/album/52w9BX6HJvNzY8qQXtFBq8"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 218093,
       "name": "Push The Button",
       "url": "https://open.spotify.com/track/3EDS89HeAhHiZKlljciK0a"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
+        "name": "Enrique",
+        "url": "https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 212693,
+      "name": "Bailamos - From \"Wild Wild West\"",
+      "url": "https://open.spotify.com/track/1ySwd43oWXbrytN2BD0Mhb"
     },
     {
       "added_at": "2024-07-19 06:48:03",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "Hopes And Fears",
-        "url": "https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd"
-      },
-      "artists": [
-        {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
-        }
-      ],
-      "duration_ms": 208786,
-      "name": "This Is The Last Time",
-      "url": "https://open.spotify.com/track/6IVlHRrjTKep5SS9kbcpTa"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 262693,
       "name": "Bleeding Love",
       "url": "https://open.spotify.com/track/6LtPIXlIzPOTF8vTecYjRe"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
+        "name": "Hopes And Fears",
+        "url": "https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "duration_ms": 208786,
+      "name": "This Is The Last Time",
+      "url": "https://open.spotify.com/track/6IVlHRrjTKep5SS9kbcpTa"
     },
     {
       "added_at": "2024-07-19 06:48:03",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "Greatest Hits - Chapter One",
-        "url": "https://open.spotify.com/album/0UxWN628tSTCaR4NVpqSHM"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 220373,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/1258tSoXDDa43uqT75r5N0"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
         "name": "Greatest Hits...So Far!!!",
         "url": "https://open.spotify.com/album/3nR5vEcIp8UzOJgkw8G8yX"
       },
@@ -1379,18 +1363,18 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "Devils & Angels (Standard Version)",
-        "url": "https://open.spotify.com/album/61odM371Gpn80O2CxwvRfW"
+        "name": "Greatest Hits - Chapter One",
+        "url": "https://open.spotify.com/album/0UxWN628tSTCaR4NVpqSHM"
       },
       "artists": [
         {
-          "name": "M\u00eal\u00e9e",
-          "url": "https://open.spotify.com/artist/1koahA4L2b5ZFjaFC05pbk"
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 221373,
-      "name": "Built to Last",
-      "url": "https://open.spotify.com/track/4x907tqu1ai70Sz6xLrK2E"
+      "duration_ms": 220373,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/1258tSoXDDa43uqT75r5N0"
     },
     {
       "added_at": "2024-07-19 06:48:03",
@@ -1427,6 +1411,22 @@
       "duration_ms": 225426,
       "name": "Big Yellow Taxi",
       "url": "https://open.spotify.com/track/0KTfZWEWivacSuZSjUe7JS"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
+        "name": "Devils & Angels (Standard Version)",
+        "url": "https://open.spotify.com/album/61odM371Gpn80O2CxwvRfW"
+      },
+      "artists": [
+        {
+          "name": "M\u00eal\u00e9e",
+          "url": "https://open.spotify.com/artist/1koahA4L2b5ZFjaFC05pbk"
+        }
+      ],
+      "duration_ms": 221373,
+      "name": "Built to Last",
+      "url": "https://open.spotify.com/track/4x907tqu1ai70Sz6xLrK2E"
     },
     {
       "added_at": "2024-07-19 06:48:03",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "Lola's Theme",
-        "url": "https://open.spotify.com/album/7DdLjF8JFxVVMFh4rRC1bE"
-      },
-      "artists": [
-        {
-          "name": "The Shapeshifters",
-          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
-        }
-      ],
-      "duration_ms": 207066,
-      "name": "Lola's Theme - Radio Edit",
-      "url": "https://open.spotify.com/track/2SCP5oOX5OSp5RT83h2rs0"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
         "name": "Unwritten",
         "url": "https://open.spotify.com/album/1meis09isQJFDA65afUTt8"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/1D1nixOVWOxvNfWi0UD7VX"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
+        "name": "Lola's Theme",
+        "url": "https://open.spotify.com/album/7DdLjF8JFxVVMFh4rRC1bE"
+      },
+      "artists": [
+        {
+          "name": "The Shapeshifters",
+          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+        }
+      ],
+      "duration_ms": 207066,
+      "name": "Lola's Theme - Radio Edit",
+      "url": "https://open.spotify.com/track/2SCP5oOX5OSp5RT83h2rs0"
     }
   ],
   "unique_name": "00's Allerbeste",

@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 22095,
+  "num_followers": 22099,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaIwAAAAAAAmjGlYtHfacTyFRW3WDPCX",
+  "snapshot_id": "aaOBgAAAAADM3Gtwy9tHIQFE2H9zhDbt",
   "tracks": [
     {
       "added_at": null,
@@ -555,38 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Savane",
-        "url": "https://open.spotify.com/album/2WsP2BPz9GI5sJBdJFonrO"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 289120,
-      "name": "Beto",
-      "url": "https://open.spotify.com/track/2I9ZSrLeX7tslnqn0ouVuz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Niafunk\u00e9",
-        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 200560,
-      "name": "Pieter Botha",
-      "url": "https://open.spotify.com/track/766OVjNXlPqftlR77DhQTS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Voyageur",
         "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
       },
@@ -607,6 +575,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Niafunk\u00e9",
+        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 200560,
+      "name": "Pieter Botha",
+      "url": "https://open.spotify.com/track/766OVjNXlPqftlR77DhQTS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Savane",
+        "url": "https://open.spotify.com/album/2WsP2BPz9GI5sJBdJFonrO"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 289120,
+      "name": "Beto",
+      "url": "https://open.spotify.com/track/2I9ZSrLeX7tslnqn0ouVuz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Source",
         "url": "https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3"
       },
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Niafunk\u00e9",
-        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 341333,
-      "name": "Mali Dje",
-      "url": "https://open.spotify.com/track/19HLWdo9rmxdpLuJZEjXyc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Voyageur",
         "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 348760,
       "name": "Safari",
       "url": "https://open.spotify.com/track/4zZMPuSkVYAOjgGiHJ6dc5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Niafunk\u00e9",
+        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 341333,
+      "name": "Mali Dje",
+      "url": "https://open.spotify.com/track/19HLWdo9rmxdpLuJZEjXyc"
     },
     {
       "added_at": null,

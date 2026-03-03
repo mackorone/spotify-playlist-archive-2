@@ -507,6 +507,24 @@
     },
     {
       "album": {
+        "name": "burning memories",
+        "url": "https://open.spotify.com/album/4QGT5JT7fQEaUP3CIUctP5"
+      },
+      "artists": [
+        {
+          "name": "Unnholy",
+          "url": "https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98126,
+      "name": "burning memories",
+      "url": "https://open.spotify.com/track/6vzpm2Q4NPpuowQG7pNtUg"
+    },
+    {
+      "album": {
         "name": "Caelum (Excerpts)",
         "url": "https://open.spotify.com/album/5pSaANL2BvibUYoIJ8byQb"
       },
@@ -1062,7 +1080,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 261849,
       "name": "Even The Horizon Knows Its Bounds VIII",
       "url": "https://open.spotify.com/track/36UNARIup8YwWvqua2DG9T"
@@ -1659,6 +1677,28 @@
     },
     {
       "album": {
+        "name": "i was always there for you",
+        "url": "https://open.spotify.com/album/2oC1HESuo0LqRgFdG6JmNZ"
+      },
+      "artists": [
+        {
+          "name": "rareeast",
+          "url": "https://open.spotify.com/artist/1j1EqfiN0jt8Ky6HKeriMd"
+        },
+        {
+          "name": "idontno",
+          "url": "https://open.spotify.com/artist/0jT6Qw9cnSguIbWlbJRo49"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119600,
+      "name": "i was always there for you",
+      "url": "https://open.spotify.com/track/6BmYmf6Ns6Wnup6vpKm7SH"
+    },
+    {
+      "album": {
         "name": "Giles Corey",
         "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
       },
@@ -2140,7 +2180,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 91000,
       "name": "Night Sculpture - Deconstructed",
       "url": "https://open.spotify.com/track/4vLMviupOxDFAj7XjvMIKA"

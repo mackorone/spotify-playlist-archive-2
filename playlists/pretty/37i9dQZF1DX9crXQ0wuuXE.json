@@ -1,6 +1,6 @@
 {
   "description": "A blend of the best from years past\u2014from indie folk and pop grass to roots rock and Americana. Cover: The Lumineers",
-  "num_followers": 603937,
+  "num_followers": 603940,
   "original_name": "Roots Revival",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Our Endless Numbered Days (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "Naked as We Came",
-      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Metamodern Sounds in Country Music",
         "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 188186,
       "name": "Turtles All the Way Down",
       "url": "https://open.spotify.com/track/4NE3oWyUQI2b2NjyMyC8Bi"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Our Endless Numbered Days (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 152613,
+      "name": "Naked as We Came",
+      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -567,6 +567,22 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
+        "name": "Stars and Satellites",
+        "url": "https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB"
+      },
+      "artists": [
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        }
+      ],
+      "duration_ms": 268280,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/5H06kjjKa1Oz8BZcGeplel"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
         "name": "Shore",
         "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 174172,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
-        "name": "Stars and Satellites",
-        "url": "https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB"
-      },
-      "artists": [
-        {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
-        }
-      ],
-      "duration_ms": 268280,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/5H06kjjKa1Oz8BZcGeplel"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
+        "name": "Veneer",
+        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 162920,
+      "name": "Crosses",
+      "url": "https://open.spotify.com/track/0ByKWq0hsuYriK5avSMJ5r"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
         "name": "Sing Into My Mouth",
         "url": "https://open.spotify.com/album/0jMBAo2pk2cEE0aJ3WseMl"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 212486,
       "name": "This Must Be The Place",
       "url": "https://open.spotify.com/track/7dP4k5nDDwI1qMDoz5m0f6"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
-        "name": "Veneer",
-        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 162920,
-      "name": "Crosses",
-      "url": "https://open.spotify.com/track/0ByKWq0hsuYriK5avSMJ5r"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "The Place I Left Behind",
-        "url": "https://open.spotify.com/album/7sdf7F7WFPdCZt20wHR9rU"
-      },
-      "artists": [
-        {
-          "name": "The Deep Dark Woods",
-          "url": "https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl"
-        }
-      ],
-      "duration_ms": 244840,
-      "name": "The Place I Left Behind",
-      "url": "https://open.spotify.com/track/7BbAqle8lyB3S56Q9MPTZB"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Ashkelon",
         "url": "https://open.spotify.com/album/2JZRyLhDpddo6XUwtb2ZJA"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "The Fray",
-        "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
+        "name": "The Place I Left Behind",
+        "url": "https://open.spotify.com/album/7sdf7F7WFPdCZt20wHR9rU"
       },
       "artists": [
         {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+          "name": "The Deep Dark Woods",
+          "url": "https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl"
         }
       ],
-      "duration_ms": 291826,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
+      "duration_ms": 244840,
+      "name": "The Place I Left Behind",
+      "url": "https://open.spotify.com/track/7BbAqle8lyB3S56Q9MPTZB"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Dear",
-        "url": "https://open.spotify.com/album/11gZYT85Mx4aSiHthMYLLQ"
+        "name": "The Fray",
+        "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
       },
       "artists": [
         {
-          "name": "Keaton Henson",
-          "url": "https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160"
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
         }
       ],
-      "duration_ms": 228080,
-      "name": "You Don't Know How Lucky You Are",
-      "url": "https://open.spotify.com/track/7L4w1yQnlhqo4oUjpW53wz"
+      "duration_ms": 291826,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1047,6 +1031,22 @@
       "duration_ms": 212026,
       "name": "Dream in Blue",
       "url": "https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Dear",
+        "url": "https://open.spotify.com/album/11gZYT85Mx4aSiHthMYLLQ"
+      },
+      "artists": [
+        {
+          "name": "Keaton Henson",
+          "url": "https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160"
+        }
+      ],
+      "duration_ms": 228080,
+      "name": "You Don't Know How Lucky You Are",
+      "url": "https://open.spotify.com/track/7L4w1yQnlhqo4oUjpW53wz"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
+        "name": "Cusp",
+        "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
+      },
+      "artists": [
+        {
+          "name": "Alela Diane",
+          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
+        }
+      ],
+      "duration_ms": 263893,
+      "name": "Ether & Wood",
+      "url": "https://open.spotify.com/track/6ARgq6vnDSjxsfpB7oUQ5k"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
         "name": "Falling Faster Than You Can Run",
         "url": "https://open.spotify.com/album/54CwOv6vaOzsNOhy3uFPZa"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 249579,
       "name": "Still Trying",
       "url": "https://open.spotify.com/track/3SCDpe3QWlLSg5oJjqN25Q"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
-        "name": "Fire and the Flood (Acoustic)",
-        "url": "https://open.spotify.com/album/6alwDf6dHo90NoIgIJqnnk"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 222662,
-      "name": "Fire and the Flood - Acoustic",
-      "url": "https://open.spotify.com/track/3fUpLMdT3hPTOiy6sy6x9L"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Cusp",
-        "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
+        "name": "Fire and the Flood (Acoustic)",
+        "url": "https://open.spotify.com/album/6alwDf6dHo90NoIgIJqnnk"
       },
       "artists": [
         {
-          "name": "Alela Diane",
-          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 263893,
-      "name": "Ether & Wood",
-      "url": "https://open.spotify.com/track/6ARgq6vnDSjxsfpB7oUQ5k"
+      "duration_ms": 222662,
+      "name": "Fire and the Flood - Acoustic",
+      "url": "https://open.spotify.com/track/3fUpLMdT3hPTOiy6sy6x9L"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Optimism",
-        "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
-      },
-      "artists": [
-        {
-          "name": "Jana Horn",
-          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
-        }
-      ],
-      "duration_ms": 119372,
-      "name": "Optimism",
-      "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Pushin' Against A Stone",
         "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 185506,
       "name": "Workin' Woman Blues",
       "url": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Optimism",
+        "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
+      },
+      "artists": [
+        {
+          "name": "Jana Horn",
+          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
+        }
+      ],
+      "duration_ms": 119372,
+      "name": "Optimism",
+      "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Old World Romance",
-        "url": "https://open.spotify.com/album/35PDjoZa0FrKAmDo1coCyo"
-      },
-      "artists": [
-        {
-          "name": "Sea Wolf",
-          "url": "https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x"
-        }
-      ],
-      "duration_ms": 237160,
-      "name": "Old Friend",
-      "url": "https://open.spotify.com/track/3pvTrpsqbBF3OduTOPOkii"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Dust",
         "url": "https://open.spotify.com/album/2Moofgyr48OoFCZ00KqPyy"
       },
@@ -1519,22 +1503,6 @@
       "duration_ms": 302578,
       "name": "Dust",
       "url": "https://open.spotify.com/track/4ts0um3KEZwZNPkz7LAGq9"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
-        "name": "Young Man In America",
-        "url": "https://open.spotify.com/album/4RNXc0opm9igpGD1Ga9FsY"
-      },
-      "artists": [
-        {
-          "name": "Ana\u00efs Mitchell",
-          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
-        }
-      ],
-      "duration_ms": 186680,
-      "name": "Dyin Day",
-      "url": "https://open.spotify.com/track/2VNrqHrmeQ3NeOOopjKOwq"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1555,18 +1523,34 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Midwest Farmer's Daughter",
-        "url": "https://open.spotify.com/album/55byaTflUCrOReQQukpctP"
+        "name": "Young Man In America",
+        "url": "https://open.spotify.com/album/4RNXc0opm9igpGD1Ga9FsY"
       },
       "artists": [
         {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
         }
       ],
-      "duration_ms": 252506,
-      "name": "Hurtin' (On the Bottle)",
-      "url": "https://open.spotify.com/track/161ih87Mf1Jsx6E6WgVPDu"
+      "duration_ms": 186680,
+      "name": "Dyin Day",
+      "url": "https://open.spotify.com/track/2VNrqHrmeQ3NeOOopjKOwq"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Old World Romance",
+        "url": "https://open.spotify.com/album/35PDjoZa0FrKAmDo1coCyo"
+      },
+      "artists": [
+        {
+          "name": "Sea Wolf",
+          "url": "https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x"
+        }
+      ],
+      "duration_ms": 237160,
+      "name": "Old Friend",
+      "url": "https://open.spotify.com/track/3pvTrpsqbBF3OduTOPOkii"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1583,6 +1567,22 @@
       "duration_ms": 167026,
       "name": "I Wish I Wish",
       "url": "https://open.spotify.com/track/02d7m51SjPVO2RU8i1sgwN"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Midwest Farmer's Daughter",
+        "url": "https://open.spotify.com/album/55byaTflUCrOReQQukpctP"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 252506,
+      "name": "Hurtin' (On the Bottle)",
+      "url": "https://open.spotify.com/track/161ih87Mf1Jsx6E6WgVPDu"
     },
     {
       "added_at": "2024-08-28 14:08:37",

@@ -4,12 +4,13 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,103 songs - 5 day 2 hr 58 min
+2,109 songs - 5 day 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(A Place That You\) Never Forget](https://open.spotify.com/track/2NJO980FYWdztYjglkYRMR) | [Digsby](https://open.spotify.com/artist/2svG4IsrYb68sAGhIQ9UXA) | [Started](https://open.spotify.com/album/46sgVlfE4GLSGJlzob6k8x) | 3:48 | 2025-03-11 |  |
 | [\(Didn't You Just\) Have it Coming](https://open.spotify.com/track/1yQpvdmUT0WapCtz1oTs7Z) | [Virginia Dirt](https://open.spotify.com/artist/2MYf68puCUVIovXxt7Nc0x) | ['Miss Dirt' to You](https://open.spotify.com/album/7maDXBMRKBFPbAfzxZRHQ9) | 3:44 | 2025-07-01 |  |
+| [\(Easier with a\) Song](https://open.spotify.com/track/4UdCje9LAzfjliEouTWiAu) | [Tjernberg Brothers](https://open.spotify.com/artist/1Q0cJErFaGIyvzdcFaNtPr), [Astrid Mellgren](https://open.spotify.com/artist/0xEzlMM4wiu19lXWhPuTkk) | [\(Easier with a\) Song](https://open.spotify.com/album/6C8S7NR7cDyAzaiwVJ9EJp) | 3:45 | 2026-03-02 |  |
 | [1.5](https://open.spotify.com/track/70K8CBH1RBfFLAGNt1xZB5) | [Court Lee](https://open.spotify.com/artist/4EUdpZKUAlErxveFMeqZVD) | [1.5](https://open.spotify.com/album/26yjewkMIBbSlh59MojuSJ) | 2:56 | 2025-07-14 |  |
 | [10 Feet Tall](https://open.spotify.com/track/1mXRiNlwmrOZ1Bt4zM5X3i) | [Current Swell](https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4) | [10 Feet Tall](https://open.spotify.com/album/6cz15s7kwXbhMQnhwSKbR9) | 3:17 | 2025-02-25 |  |
 | [1000G VOL 2](https://open.spotify.com/track/3fgTas6LWV22t4jUjcuLm1) | [Andre Enzo](https://open.spotify.com/artist/6q3v7ZOR1IIOBwDL6gKBc1) | [1000G VOL 2](https://open.spotify.com/album/18Xbt0AII2ai3XL00b834s) | 4:16 | 2025-10-13 |  |
@@ -189,6 +190,7 @@
 | [Bleed Out In The Night](https://open.spotify.com/track/2SBkQkmFm3Obdrzlhjfggx) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Bleed Out In The Night](https://open.spotify.com/album/5AcjPPS94lW3rWwdAaRQUs) | 4:20 | 2024-10-18 |  |
 | [Blessed Assurance](https://open.spotify.com/track/3F6Vfc6hIfpywkgsyT8In1) | [René](https://open.spotify.com/artist/7u0aDggOvAD7pdRuW75CjG) | [The Greatest Gospel Songs](https://open.spotify.com/album/0O5wNrodwyG46E7AkfZV3V) | 3:59 | 2026-01-27 |  |
 | [Bleu mer](https://open.spotify.com/track/2bPDcEAuY2tCzgmSmo0Njw) | [Gopal Martin](https://open.spotify.com/artist/11EPUXkIepKcr9ThxGY4EV) | [Basscontact volume 1](https://open.spotify.com/album/2SsGErM6glUwSYLNE5YtaP) | 4:10 | 2025-05-29 |  |
+| [Bleu Minuit](https://open.spotify.com/track/0Q1auXPkl5M0R8p2px55IM) | [Delass](https://open.spotify.com/artist/0nWgZZoSOW9ETxzzmDsPV3) | [Bleu Minuit](https://open.spotify.com/album/4ztrZN9yWZvjmcFUhBDPdw) | 3:05 | 2026-03-02 |  |
 | [Blind Faith](https://open.spotify.com/track/3nntpWzSUm61YaLy5MYqTm) | [Oscat!](https://open.spotify.com/artist/7gLeWgrrsswx6MYFL4c3SA) | [Blind Faith](https://open.spotify.com/album/2dvToE0xWlFUbh0GhFxaWB) | 3:38 | 2025-12-09 |  |
 | [Bloom](https://open.spotify.com/track/4eNgts8BOgZyHyqiJhZfWr) | [Debra\-Jean Creelman](https://open.spotify.com/artist/3HxOpbJmZGEnco2SGbmqQY), [Kendel Carson](https://open.spotify.com/artist/2W8FruCxhU62g9jJ8cJESg) | [Bloom](https://open.spotify.com/album/250rDq4Nt802fdfXDCHCTV) | 3:34 | 2025-11-17 |  |
 | [Blooming Again](https://open.spotify.com/track/3gIQIxKCOukekF7aa32BY7) | [Joe Scorza](https://open.spotify.com/artist/6b5cTvps5wIFbHnFWAFixd) | [All Right Turns](https://open.spotify.com/album/1PP9lvcH5UNGIs3U5rghzh) | 2:49 | 2024-07-12 |  |
@@ -295,6 +297,7 @@
 | [Choke On Shame](https://open.spotify.com/track/3Uj9MWSuSluWsAwvLB9r5H) | [Wildchains](https://open.spotify.com/artist/6LTDVLBOAZYAcrn459uQf8) | [Choke On Shame](https://open.spotify.com/album/1PwPl6Nf3pfmr4gVvVu5SM) | 5:15 | 2025-08-26 |  |
 | [Choose](https://open.spotify.com/track/4DsmWfIglh1lXjd6yyPc6q) | [Jamie Frick](https://open.spotify.com/artist/4ILTgmVelzVYBgRaw08NUd) | [Choose](https://open.spotify.com/album/0tnlQdwVZvz9xGRRpX9ACp) | 2:46 | 2025-03-29 |  |
 | [Choose Love](https://open.spotify.com/track/32vSeH0yJEvqdUr4LVxuoa) | [Joselyn & Don](https://open.spotify.com/artist/0aPNQejuOJ9winrYgyjvbF), [Chris Pierce](https://open.spotify.com/artist/559oVBc653k5TOpiwhhr3r) | [Choose Love](https://open.spotify.com/album/6SqpktYwB7KcHNmJhW7gOd) | 3:52 | 2024-10-18 |  |
+| [Christmas salvation](https://open.spotify.com/track/1rIvQcUFqjXO7sTAM20WJH) | [Tandaram Way](https://open.spotify.com/artist/7sumOQAfWLjOdW9zSTeeog) | [Christmas salvation](https://open.spotify.com/album/3p2AwffFlomvWJaDepuMmU) | 2:55 | 2026-03-02 |  |
 | [Christmas Song](https://open.spotify.com/track/4iZn4HLTRM6cjkQP7pcxwI) | [DrLoveWorldMusic](https://open.spotify.com/artist/3t82rccHxWNFR3zchAkZat) | [Christmas Song](https://open.spotify.com/album/01jMdTVcu9jO7lNW9ZyyOC) | 4:29 | 2025-12-10 |  |
 | [Christmas Without Grandma](https://open.spotify.com/track/5YtbMPZIQIJxlK0LLACKRL) | [Mckai](https://open.spotify.com/artist/4emtw8l93u2ub1FdLdnm5X) | [Christmas Without Grandma](https://open.spotify.com/album/0swGvOzcSnsOYOa1u5zvqa) | 3:42 | 2025-03-04 |  |
 | [Chrysalis](https://open.spotify.com/track/04pheIs31t063ZRIpKLZFu) | [Ghostcake](https://open.spotify.com/artist/5Bw8ybOh68aelvHDJEsoNb) | [Chrysalis](https://open.spotify.com/album/6CeMscb9cI5SUUQT2FgFbx) | 3:53 | 2024-11-26 |  |
@@ -1426,6 +1429,7 @@
 | [Rainbow](https://open.spotify.com/track/7oCidbZEGhxcLC7ebQaRwn) | [Lucas Prospero](https://open.spotify.com/artist/2KqlV9bFYcA3KtqxJLSIvf) | [Rainbow](https://open.spotify.com/album/6HXstvDME8rCAg8DeCs47T) | 2:55 | 2025-06-13 |  |
 | [Raining in Han River](https://open.spotify.com/track/2eGOWoVzmKnlmtoi9zFhkU) | [LUMA](https://open.spotify.com/artist/18nE2xBTTDN18lQW6wL2Cy) | [Raining in Han River](https://open.spotify.com/album/30q3ARGz6phOgZ1vKkeU0C) | 3:27 | 2025-10-29 |  |
 | [Raining Love](https://open.spotify.com/track/2PaYOVLgQlZ92JqW5x0QY2) | [La Perra Blanco](https://open.spotify.com/artist/79tFt6t6vIIoKUOdjj6MsB) | [Lovers and Fears](https://open.spotify.com/album/493y7hAQdhllwWpj8c6LxI) | 3:35 | 2026-02-07 |  |
+| [Rainy Days](https://open.spotify.com/track/1hTtSs1hUV9beg9z7Xj2EI) | [George Bacan](https://open.spotify.com/artist/1hsiZ1ezoIGPu8BdXX0MX0) | [Rainy Days](https://open.spotify.com/album/7ESeH9wjN7nKKoq1BijDq3) | 3:30 | 2026-03-02 |  |
 | [Raise the Jolly Roger](https://open.spotify.com/track/24LE4OczzhrtQeicROhu5y) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Raise the Jolly Roger](https://open.spotify.com/album/2fes4SUDmlPJYWtiQqCMMu) | 3:07 | 2025-10-09 |  |
 | [Rakett i røven!](https://open.spotify.com/track/2LiFsvEv77lh0P6nYd6dcA) | [G.M.L.](https://open.spotify.com/artist/4H1Hn4nIuzTyDQY2RuGUYC) | [Rakett i røven!](https://open.spotify.com/album/2S06h80vHsotlgrRKLm8bk) | 3:42 | 2026-01-14 |  |
 | [Ramblin'](https://open.spotify.com/track/3rVFieESvDEriMkxcLY3Ux) | [Lonesome Andy & His One Man Band](https://open.spotify.com/artist/4QT9pI8ouqGGr0q87Kp3K6) | [Ramblin'](https://open.spotify.com/album/3KFBIrtOY6OQAGfMKm5akP) | 4:50 | 2025-03-04 |  |
@@ -1641,6 +1645,7 @@
 | [Sticks and Mud](https://open.spotify.com/track/0pOUxLuxxUMWDV6DUUxprJ) | [Lucas Lutter](https://open.spotify.com/artist/0eU98CzYOtXqvjbCtthN8b) | [Daydreams](https://open.spotify.com/album/08LOH6LRX9CGSqsRDV0Tpr) | 3:03 | 2026-02-07 |  |
 | [Still Holding My Breath](https://open.spotify.com/track/7hmdCsdMxzVdtPbInrOWGe) | [Phil Cooper](https://open.spotify.com/artist/3J3J24345E8cocxwrz2yLY) | [Still Holding My Breath](https://open.spotify.com/album/6fPfZMIFwrjI9Vj8PT5BXw) | 3:16 | 2025-02-05 |  |
 | [Still In Love](https://open.spotify.com/track/1M52mCrWoQ02KCGHLEAdVF) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Still In Love](https://open.spotify.com/album/1gr8h4IKRE7r1h6CmLKtlT) | 3:49 | 2025-07-02 |  |
+| [Still Running](https://open.spotify.com/track/0540EJSItpEHuX7wpxpNDt) | [FUMITO](https://open.spotify.com/artist/0jHHRTca6HOkksVRPrjKSK) | [Still Running](https://open.spotify.com/album/6oDxuEXDs2v30RmZ1T1eto) | 3:42 | 2026-03-02 |  |
 | [Still Trying](https://open.spotify.com/track/5fIZtfQM5xhVaZdoAbnYs8) | [Alyssa DVM](https://open.spotify.com/artist/0GnamqXgRQBKJKTuoKMVx7) | [things i could never say](https://open.spotify.com/album/15WSzlQ8KgrMY81xLN2Wxg) | 3:02 | 2024-04-13 |  |
 | [Stone D](https://open.spotify.com/track/35cf0WDdTp0Uajj0dvLnzi) | [Nuka\-Naka](https://open.spotify.com/artist/7yQhQs8sX0OBxS18Ae1cR6) | [Stone D](https://open.spotify.com/album/5hDSXlRukgCn4g2ItJee2t) | 3:03 | 2024-09-16 |  |
 | [Stones Within](https://open.spotify.com/track/115sQEOvltvbkHfr4AYlyC) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Stones Within](https://open.spotify.com/album/0MuKc4oOc1pKd01KaB6hid) | 3:42 | 2025-05-06 |  |
@@ -2013,6 +2018,7 @@
 | [Winter](https://open.spotify.com/track/6wouIFZan1Utt74DZ0LFar) | [Pale Light Versus](https://open.spotify.com/artist/2tsn79j2wcAL9iR42gPAdW) | [Alone Under an Altar](https://open.spotify.com/album/3OEt67XtalYh2PtUvNhIp1) | 4:12 | 2024-08-23 |  |
 | [Winter Cold](https://open.spotify.com/track/25PtCQHCzB9Q5GNjIk5W0A) | [Jacob Crane](https://open.spotify.com/artist/3s5sjNtuzmKowKQulVYlT3), [Low Key Trampoline](https://open.spotify.com/artist/38nVQccgEq3mkggBLNgpZd) | [Winter Cold](https://open.spotify.com/album/5tMvocMaOe9PE6OXDWSczy) | 2:40 | 2024-07-17 |  |
 | [Winter's Whisper](https://open.spotify.com/track/1syD8DhfIrIHUu0B5vGjTh) | [Scarlett](https://open.spotify.com/artist/6aq1nhpQ3EfkdVwdNg9lG2) | [Winter's Whisper](https://open.spotify.com/album/3gMzux9f0mMkkv7a2W5uZj) | 3:40 | 2026-02-18 |  |
+| [With You](https://open.spotify.com/track/0dgEsMfFdTwG0WwGCaqZ0v) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Low Fidelity](https://open.spotify.com/album/6NYA18h0U4PtpFe5hOYNoE) | 1:42 | 2026-03-02 |  |
 | [Within Without](https://open.spotify.com/track/5md0pTloM1NWMapyOez7kx) | [Mines](https://open.spotify.com/artist/1qwuQbIn7mbhX332OgHpF7) | [Mines E.P](https://open.spotify.com/album/3rnZUxSaYlggx9DXBmyywK) | 5:58 | 2024-08-12 |  |
 | [Without Love Nothing Is Real](https://open.spotify.com/track/5h49sj6wfjnJgI6kRm8R82) | [C\-Beem](https://open.spotify.com/artist/08TKtGdiaAsT4dJuJ9oQKt), [Lachlan Brooks](https://open.spotify.com/artist/056PjoXEzHiKL9sFVIW6St) | [Jammin' The Steam Towers](https://open.spotify.com/album/2nbdj5dwmEMHpvKfxVtW2b) | 4:30 | 2024-09-09 |  |
 | [Without Words \- Again](https://open.spotify.com/track/5zSGlVvQ3HH9jx5GvmxHCE) | [2WeeksLate](https://open.spotify.com/artist/4JRexUASP42t2FgkYQSOkk) | [Without Words \(Again\)](https://open.spotify.com/album/6QRYo2JcltTiOQBVYBE9pl) | 4:11 | 2024-11-12 |  |

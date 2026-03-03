@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3067\u30ea\u30e9\u30c3\u30af\u30b9\u3057\u307e\u305b\u3093\u304b\uff1f",
-  "num_followers": 138320,
+  "num_followers": 138317,
   "original_name": "Acoustic Melodies Tokyo",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-02-19 15:00:13",
       "album": {
-        "name": "Stick Season (Forever)",
-        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 268353,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm"
-    },
-    {
-      "added_at": "2026-02-19 15:00:13",
-      "album": {
         "name": "Can\u2019t Catch Me Now (from The Hunger Games: The Ballad of Songbirds & Snakes)",
         "url": "https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 205483,
       "name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
       "url": "https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf"
+    },
+    {
+      "added_at": "2026-02-19 15:00:13",
+      "album": {
+        "name": "Stick Season (Forever)",
+        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 268353,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm"
     },
     {
       "added_at": "2026-02-19 15:00:13",
@@ -323,22 +323,22 @@
     {
       "added_at": "2026-02-19 15:00:13",
       "album": {
-        "name": "Everywhere, Everything (with Gracie Abrams)",
-        "url": "https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno"
+        "name": "Snooze (Acoustic) (feat. Justin Bieber)",
+        "url": "https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         },
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 257668,
-      "name": "Everywhere, Everything (with Gracie Abrams)",
-      "url": "https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe"
+      "duration_ms": 190464,
+      "name": "Snooze (Acoustic) (feat. Justin Bieber)",
+      "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
     },
     {
       "added_at": "2026-02-19 15:00:13",
@@ -359,22 +359,22 @@
     {
       "added_at": "2026-02-19 15:00:13",
       "album": {
-        "name": "Snooze (Acoustic) (feat. Justin Bieber)",
-        "url": "https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU"
+        "name": "Everywhere, Everything (with Gracie Abrams)",
+        "url": "https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         },
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 190464,
-      "name": "Snooze (Acoustic) (feat. Justin Bieber)",
-      "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
+      "duration_ms": 257668,
+      "name": "Everywhere, Everything (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe"
     },
     {
       "added_at": "2026-02-19 15:00:13",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-02-19 15:00:13",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "Stay With Me - Live From Spotify Berlin",
-      "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
-    },
-    {
-      "added_at": "2026-02-19 15:00:13",
-      "album": {
         "name": "Better Together",
         "url": "https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 200706,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl"
+    },
+    {
+      "added_at": "2026-02-19 15:00:13",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "Stay With Me - Live From Spotify Berlin",
+      "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
     },
     {
       "added_at": "2026-02-19 15:00:13",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-02-19 15:00:13",
       "album": {
-        "name": "Mr. Brightside",
-        "url": "https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z"
-      },
-      "artists": [
-        {
-          "name": "Bailey Jehl",
-          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
-        }
-      ],
-      "duration_ms": 215758,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6"
-    },
-    {
-      "added_at": "2026-02-19 15:00:13",
-      "album": {
         "name": "My Maker",
         "url": "https://open.spotify.com/album/47wcmMq8SaCVM5R7wOW8e4"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 259842,
       "name": "My Maker",
       "url": "https://open.spotify.com/track/0CytapqefuNILUq2YdFw78"
+    },
+    {
+      "added_at": "2026-02-19 15:00:13",
+      "album": {
+        "name": "Mr. Brightside",
+        "url": "https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z"
+      },
+      "artists": [
+        {
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
+        }
+      ],
+      "duration_ms": 215758,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6"
     },
     {
       "added_at": "2026-02-19 15:00:13",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-02-19 15:00:13",
       "album": {
-        "name": "Celebrate Me Home",
-        "url": "https://open.spotify.com/album/4Zt3jkBQHa5gMiZL95xbaB"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 233558,
-      "name": "Celebrate Me Home",
-      "url": "https://open.spotify.com/track/4rVUzCFmxDor43ORzBKHcx"
-    },
-    {
-      "added_at": "2026-02-19 15:00:13",
-      "album": {
         "name": "Have A Little Faith In Me",
         "url": "https://open.spotify.com/album/5tUKs4B9KY6Yd5qSiyvENz"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 173924,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/1cIXqC75Zx6nwoYOfFyCae"
+    },
+    {
+      "added_at": "2026-02-19 15:00:13",
+      "album": {
+        "name": "Celebrate Me Home",
+        "url": "https://open.spotify.com/album/4Zt3jkBQHa5gMiZL95xbaB"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 233558,
+      "name": "Celebrate Me Home",
+      "url": "https://open.spotify.com/track/4rVUzCFmxDor43ORzBKHcx"
     },
     {
       "added_at": "2026-02-19 15:00:13",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-02-19 15:00:13",
       "album": {
-        "name": "Los Angeles / Grandmother",
-        "url": "https://open.spotify.com/album/1JL1uKzGz5VGfmguM9owtj"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 237134,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/0Pe21Qy1cnwZmapx9rzLmN"
-    },
-    {
-      "added_at": "2026-02-19 15:00:13",
-      "album": {
         "name": "Adagio",
         "url": "https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 156386,
       "name": "80 Days",
       "url": "https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s"
+    },
+    {
+      "added_at": "2026-02-19 15:00:13",
+      "album": {
+        "name": "Los Angeles / Grandmother",
+        "url": "https://open.spotify.com/album/1JL1uKzGz5VGfmguM9owtj"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 237134,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/0Pe21Qy1cnwZmapx9rzLmN"
     },
     {
       "added_at": "2026-02-19 15:00:13",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-02-19 15:00:13",
       "album": {
-        "name": "Dakota",
-        "url": "https://open.spotify.com/album/4dl5Lo8s7uDNRAqqtW2wna"
-      },
-      "artists": [
-        {
-          "name": "Tom Speight",
-          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
-        }
-      ],
-      "duration_ms": 294498,
-      "name": "Dakota",
-      "url": "https://open.spotify.com/track/2LOEgB0Jk9suqAP5dDS4bp"
-    },
-    {
-      "added_at": "2026-02-19 15:00:13",
-      "album": {
         "name": "\u5287\u5834",
         "url": "https://open.spotify.com/album/2bazvx0V9FTIKmJ9biVQtc"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 353958,
       "name": "\u591c\u306e\u6b6f\u8eca",
       "url": "https://open.spotify.com/track/4qof5qVArYf5hD1cfIQAhu"
+    },
+    {
+      "added_at": "2026-02-19 15:00:13",
+      "album": {
+        "name": "Dakota",
+        "url": "https://open.spotify.com/album/4dl5Lo8s7uDNRAqqtW2wna"
+      },
+      "artists": [
+        {
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
+        }
+      ],
+      "duration_ms": 294498,
+      "name": "Dakota",
+      "url": "https://open.spotify.com/track/2LOEgB0Jk9suqAP5dDS4bp"
     },
     {
       "added_at": "2026-02-19 15:00:13",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2026-02-19 15:00:13",
       "album": {
-        "name": "GOOD BOY (Original Television Soundtrack), Pt. 7",
-        "url": "https://open.spotify.com/album/1EZbKSF8GxSnqNVtsYdRjm"
+        "name": "Dialogue \uff0dMiki Imai Sings Yuming Classics\uff0d",
+        "url": "https://open.spotify.com/album/0I5Q4lnNVonZL4H4OL8LKq"
       },
       "artists": [
         {
-          "name": "PARK BO GUM",
-          "url": "https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv"
+          "name": "Miki Imai",
+          "url": "https://open.spotify.com/artist/64Y8hjY7esLUC8ucjtHYwZ"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/4HQ8ZB2ZKBhdhTZPzgqRJU"
+      "duration_ms": 194400,
+      "name": "\u5352\u696d\u5199\u771f",
+      "url": "https://open.spotify.com/track/30oGazXdD7pezhc5pRFU22"
     },
     {
       "added_at": "2026-02-19 15:00:13",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2026-02-19 15:00:13",
       "album": {
-        "name": "Dialogue \uff0dMiki Imai Sings Yuming Classics\uff0d",
-        "url": "https://open.spotify.com/album/0I5Q4lnNVonZL4H4OL8LKq"
+        "name": "GOOD BOY (Original Television Soundtrack), Pt. 7",
+        "url": "https://open.spotify.com/album/1EZbKSF8GxSnqNVtsYdRjm"
       },
       "artists": [
         {
-          "name": "Miki Imai",
-          "url": "https://open.spotify.com/artist/64Y8hjY7esLUC8ucjtHYwZ"
+          "name": "PARK BO GUM",
+          "url": "https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv"
         }
       ],
-      "duration_ms": 194400,
-      "name": "\u5352\u696d\u5199\u771f",
-      "url": "https://open.spotify.com/track/30oGazXdD7pezhc5pRFU22"
+      "duration_ms": 197000,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/4HQ8ZB2ZKBhdhTZPzgqRJU"
     },
     {
       "added_at": "2026-02-19 15:00:13",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-02-19 15:00:13",
       "album": {
-        "name": "Inefficient Love",
-        "url": "https://open.spotify.com/album/3nrboAgmwjsaYkhhubeX2c"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 223108,
-      "name": "Inefficient Love",
-      "url": "https://open.spotify.com/track/5Bf91qvflBGAAyCChcvO8o"
-    },
-    {
-      "added_at": "2026-02-19 15:00:13",
-      "album": {
         "name": "Ding-dong",
         "url": "https://open.spotify.com/album/2eBnNZdjmBNfER5SuuKQGl"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 153642,
       "name": "Ding-dong",
       "url": "https://open.spotify.com/track/7w0okOAHEpB4kJjUFIZbu0"
+    },
+    {
+      "added_at": "2026-02-19 15:00:13",
+      "album": {
+        "name": "Inefficient Love",
+        "url": "https://open.spotify.com/album/3nrboAgmwjsaYkhhubeX2c"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 223108,
+      "name": "Inefficient Love",
+      "url": "https://open.spotify.com/track/5Bf91qvflBGAAyCChcvO8o"
     },
     {
       "added_at": "2026-02-19 15:00:13",

@@ -9892,7 +9892,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 290551,
       "name": "Solina",
       "url": "https://open.spotify.com/track/2OoaNGKh2Z3vuINAJfMRzM"
@@ -12248,6 +12248,24 @@
       "duration_ms": 151402,
       "name": "Under the Stars",
       "url": "https://open.spotify.com/track/42QdAFbblfxSMMlzMFbVbx"
+    },
+    {
+      "album": {
+        "name": "unheeded pageant",
+        "url": "https://open.spotify.com/album/4c29BGrZn0MgS1lGzMO7bX"
+      },
+      "artists": [
+        {
+          "name": "Htennek Niwhsa",
+          "url": "https://open.spotify.com/artist/3sbQ2jo75b32GImdv6ZE04"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147456,
+      "name": "unheeded pageant",
+      "url": "https://open.spotify.com/track/3tDDjSi9gFnNtyo0ElWWz8"
     },
     {
       "album": {

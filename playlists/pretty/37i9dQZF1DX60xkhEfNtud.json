@@ -1,6 +1,6 @@
 {
   "description": "Whale song from the deep underwater world of the oceans",
-  "num_followers": 254064,
+  "num_followers": 254176,
   "original_name": "Whale Sounds",
   "owner": {
     "name": "Spotify",
@@ -207,18 +207,18 @@
     {
       "added_at": "2025-02-26 12:14:26",
       "album": {
-        "name": "Ocean Lullaby",
-        "url": "https://open.spotify.com/album/10mcUSh5uSFAUbr0UqFmax"
+        "name": "Whales",
+        "url": "https://open.spotify.com/album/2luUyfHV0c8pMcLxS1zGUV"
       },
       "artists": [
         {
-          "name": "Free Willy",
-          "url": "https://open.spotify.com/artist/5vDTy6dUo96B60u7aDWkmR"
+          "name": "Weather Garden",
+          "url": "https://open.spotify.com/artist/1lJiaPKFdf4hlJezMwIIBX"
         }
       ],
-      "duration_ms": 176053,
-      "name": "Ocean Lullaby",
-      "url": "https://open.spotify.com/track/7BBNspDcmR6RHQc9uIWO8g"
+      "duration_ms": 122679,
+      "name": "Beautiful Whales",
+      "url": "https://open.spotify.com/track/4LNs3G6PdQNFoFbYxo5VAb"
     },
     {
       "added_at": "2025-02-26 12:14:26",
@@ -239,18 +239,18 @@
     {
       "added_at": "2025-02-26 12:14:26",
       "album": {
-        "name": "Whales",
-        "url": "https://open.spotify.com/album/2luUyfHV0c8pMcLxS1zGUV"
+        "name": "Ocean Lullaby",
+        "url": "https://open.spotify.com/album/10mcUSh5uSFAUbr0UqFmax"
       },
       "artists": [
         {
-          "name": "Weather Garden",
-          "url": "https://open.spotify.com/artist/1lJiaPKFdf4hlJezMwIIBX"
+          "name": "Free Willy",
+          "url": "https://open.spotify.com/artist/5vDTy6dUo96B60u7aDWkmR"
         }
       ],
-      "duration_ms": 122679,
-      "name": "Beautiful Whales",
-      "url": "https://open.spotify.com/track/4LNs3G6PdQNFoFbYxo5VAb"
+      "duration_ms": 176053,
+      "name": "Ocean Lullaby",
+      "url": "https://open.spotify.com/track/7BBNspDcmR6RHQc9uIWO8g"
     },
     {
       "added_at": "2025-02-26 12:14:26",
@@ -367,34 +367,18 @@
     {
       "added_at": "2025-02-26 12:14:26",
       "album": {
-        "name": "Binaural Whales Sound",
-        "url": "https://open.spotify.com/album/3xenWQBXBV8ONUKEW0ww0b"
+        "name": "Whales in the Ocean",
+        "url": "https://open.spotify.com/album/7IhzIRkmOuoBUKBt9X4JMl"
       },
       "artists": [
         {
-          "name": "Binaural Reality",
-          "url": "https://open.spotify.com/artist/32iOS2Ox6N0NgAhzbKNjIQ"
+          "name": "Sounds of Beauty",
+          "url": "https://open.spotify.com/artist/0HVe7pR5Jimsjvw7NTNala"
         }
       ],
-      "duration_ms": 205784,
-      "name": "Binaural Whales Sound 2",
-      "url": "https://open.spotify.com/track/0QQL2dGifMFHOpHRTjPuHB"
-    },
-    {
-      "added_at": "2025-02-26 12:14:26",
-      "album": {
-        "name": "Songs Of The Sea",
-        "url": "https://open.spotify.com/album/5dGS7JyLoGnTlLs5f19oaM"
-      },
-      "artists": [
-        {
-          "name": "ORCA",
-          "url": "https://open.spotify.com/artist/59GmYZwizY9Xmk1CUsHpSq"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Megaptera Novaeangliae",
-      "url": "https://open.spotify.com/track/1PmDangSs9cmS08IAWGNEg"
+      "duration_ms": 142000,
+      "name": "Whales in the Ocean",
+      "url": "https://open.spotify.com/track/35VScNeDyBKicOyPXaN0k5"
     },
     {
       "added_at": "2025-02-26 12:14:26",
@@ -415,6 +399,38 @@
     {
       "added_at": "2025-02-26 12:14:26",
       "album": {
+        "name": "Songs Of The Sea",
+        "url": "https://open.spotify.com/album/5dGS7JyLoGnTlLs5f19oaM"
+      },
+      "artists": [
+        {
+          "name": "ORCA",
+          "url": "https://open.spotify.com/artist/59GmYZwizY9Xmk1CUsHpSq"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Megaptera Novaeangliae",
+      "url": "https://open.spotify.com/track/1PmDangSs9cmS08IAWGNEg"
+    },
+    {
+      "added_at": "2025-02-26 12:14:26",
+      "album": {
+        "name": "Binaural Whales Sound",
+        "url": "https://open.spotify.com/album/3xenWQBXBV8ONUKEW0ww0b"
+      },
+      "artists": [
+        {
+          "name": "Binaural Reality",
+          "url": "https://open.spotify.com/artist/32iOS2Ox6N0NgAhzbKNjIQ"
+        }
+      ],
+      "duration_ms": 205784,
+      "name": "Binaural Whales Sound 2",
+      "url": "https://open.spotify.com/track/0QQL2dGifMFHOpHRTjPuHB"
+    },
+    {
+      "added_at": "2025-02-26 12:14:26",
+      "album": {
         "name": "The Songs of Whales",
         "url": "https://open.spotify.com/album/47kOSBiCJ5GvfoxoG6spP3"
       },
@@ -431,18 +447,18 @@
     {
       "added_at": "2025-02-26 12:14:26",
       "album": {
-        "name": "Whales in the Ocean",
-        "url": "https://open.spotify.com/album/7IhzIRkmOuoBUKBt9X4JMl"
+        "name": "Whale Songs",
+        "url": "https://open.spotify.com/album/3Nc01wKpTZjhGhyvES5eNr"
       },
       "artists": [
         {
-          "name": "Sounds of Beauty",
-          "url": "https://open.spotify.com/artist/0HVe7pR5Jimsjvw7NTNala"
+          "name": "Underwater Sound",
+          "url": "https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq"
         }
       ],
-      "duration_ms": 142000,
-      "name": "Whales in the Ocean",
-      "url": "https://open.spotify.com/track/35VScNeDyBKicOyPXaN0k5"
+      "duration_ms": 196721,
+      "name": "Whale Song I",
+      "url": "https://open.spotify.com/track/1200m91gtne5JWrxvRaslI"
     },
     {
       "added_at": "2025-02-26 12:14:26",
@@ -475,22 +491,6 @@
       "duration_ms": 180000,
       "name": "Balaenoptera Musculus",
       "url": "https://open.spotify.com/track/2AxtKjQpaxjSpNDP8cvTAZ"
-    },
-    {
-      "added_at": "2025-02-26 12:14:26",
-      "album": {
-        "name": "Whale Songs",
-        "url": "https://open.spotify.com/album/3Nc01wKpTZjhGhyvES5eNr"
-      },
-      "artists": [
-        {
-          "name": "Underwater Sound",
-          "url": "https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq"
-        }
-      ],
-      "duration_ms": 196721,
-      "name": "Whale Song I",
-      "url": "https://open.spotify.com/track/1200m91gtne5JWrxvRaslI"
     },
     {
       "added_at": "2025-02-26 12:14:26",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-02-26 12:14:26",
       "album": {
-        "name": "Whale Chorus",
-        "url": "https://open.spotify.com/album/0gdAEHCUMn7SGYKD1hhi1f"
-      },
-      "artists": [
-        {
-          "name": "Ocean Roar",
-          "url": "https://open.spotify.com/artist/0o0rFNhdMAzctv0rVhzDlP"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Whale Chorus",
-      "url": "https://open.spotify.com/track/1FqDX8jCdMunaW0sL8C50p"
-    },
-    {
-      "added_at": "2025-02-26 12:14:26",
-      "album": {
         "name": "Whale Sounds",
         "url": "https://open.spotify.com/album/0kg8UsoVxVRbtPBlFRPtOk"
       },
@@ -623,18 +607,18 @@
     {
       "added_at": "2025-02-26 12:14:26",
       "album": {
-        "name": "Whale Echoes",
-        "url": "https://open.spotify.com/album/0PmVS4rNzwKlxRLH7Cf2PV"
+        "name": "Whale Chorus",
+        "url": "https://open.spotify.com/album/0gdAEHCUMn7SGYKD1hhi1f"
       },
       "artists": [
         {
-          "name": "The Right Noises",
-          "url": "https://open.spotify.com/artist/68HmrxxSwi1z5OvNg7ufJQ"
+          "name": "Ocean Roar",
+          "url": "https://open.spotify.com/artist/0o0rFNhdMAzctv0rVhzDlP"
         }
       ],
-      "duration_ms": 146423,
-      "name": "Whale Echoes",
-      "url": "https://open.spotify.com/track/7spTUvcgwfHUAiBy5wBUJL"
+      "duration_ms": 184000,
+      "name": "Whale Chorus",
+      "url": "https://open.spotify.com/track/1FqDX8jCdMunaW0sL8C50p"
     },
     {
       "added_at": "2025-02-26 12:14:26",
@@ -655,6 +639,22 @@
     {
       "added_at": "2025-02-26 12:14:26",
       "album": {
+        "name": "Whale Echoes",
+        "url": "https://open.spotify.com/album/0PmVS4rNzwKlxRLH7Cf2PV"
+      },
+      "artists": [
+        {
+          "name": "The Right Noises",
+          "url": "https://open.spotify.com/artist/68HmrxxSwi1z5OvNg7ufJQ"
+        }
+      ],
+      "duration_ms": 146423,
+      "name": "Whale Echoes",
+      "url": "https://open.spotify.com/track/7spTUvcgwfHUAiBy5wBUJL"
+    },
+    {
+      "added_at": "2025-02-26 12:14:26",
+      "album": {
         "name": "Harmonious Woodscape",
         "url": "https://open.spotify.com/album/43Jj479qaAzmeYgwiFr7l8"
       },
@@ -667,22 +667,6 @@
       "duration_ms": 160981,
       "name": "Harmonious Woodscape",
       "url": "https://open.spotify.com/track/0qTQh91AxYQEf0fOgEkqD0"
-    },
-    {
-      "added_at": "2025-02-26 12:14:26",
-      "album": {
-        "name": "Ocean Whales",
-        "url": "https://open.spotify.com/album/0OedfiztU6KGbCOHdQNBhW"
-      },
-      "artists": [
-        {
-          "name": "Wonderful Escape",
-          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
-        }
-      ],
-      "duration_ms": 193211,
-      "name": "Whales in the Wild",
-      "url": "https://open.spotify.com/track/16smWn9MSpDnsxIzq6KuDK"
     },
     {
       "added_at": "2025-02-26 12:14:26",
@@ -703,6 +687,22 @@
     {
       "added_at": "2025-02-26 12:14:26",
       "album": {
+        "name": "Whales in the Wild",
+        "url": "https://open.spotify.com/album/4OxOMkXWCp40orgmtExWcL"
+      },
+      "artists": [
+        {
+          "name": "Memorable",
+          "url": "https://open.spotify.com/artist/216iyhH3TpJJYO9zF1zyxV"
+        }
+      ],
+      "duration_ms": 197822,
+      "name": "Whales Singing",
+      "url": "https://open.spotify.com/track/15kTpHlXT02GbofofDh7n5"
+    },
+    {
+      "added_at": "2025-02-26 12:14:26",
+      "album": {
         "name": "Whale Sounds",
         "url": "https://open.spotify.com/album/0kg8UsoVxVRbtPBlFRPtOk"
       },
@@ -719,18 +719,18 @@
     {
       "added_at": "2025-02-26 12:14:26",
       "album": {
-        "name": "Whales in the Wild",
-        "url": "https://open.spotify.com/album/4OxOMkXWCp40orgmtExWcL"
+        "name": "Ocean Whales",
+        "url": "https://open.spotify.com/album/0OedfiztU6KGbCOHdQNBhW"
       },
       "artists": [
         {
-          "name": "Memorable",
-          "url": "https://open.spotify.com/artist/216iyhH3TpJJYO9zF1zyxV"
+          "name": "Wonderful Escape",
+          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
         }
       ],
-      "duration_ms": 197822,
-      "name": "Whales Singing",
-      "url": "https://open.spotify.com/track/15kTpHlXT02GbofofDh7n5"
+      "duration_ms": 193211,
+      "name": "Whales in the Wild",
+      "url": "https://open.spotify.com/track/16smWn9MSpDnsxIzq6KuDK"
     },
     {
       "added_at": "2025-02-26 12:14:26",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-02-26 12:14:26",
       "album": {
-        "name": "Whale Songs",
-        "url": "https://open.spotify.com/album/3Nc01wKpTZjhGhyvES5eNr"
-      },
-      "artists": [
-        {
-          "name": "Underwater Sound",
-          "url": "https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq"
-        }
-      ],
-      "duration_ms": 292682,
-      "name": "Whale Song II",
-      "url": "https://open.spotify.com/track/2t8KVWDy3uwlWjLebfYcYz"
-    },
-    {
-      "added_at": "2025-02-26 12:14:26",
-      "album": {
         "name": "Whale Sounds for Sleep",
         "url": "https://open.spotify.com/album/1yTiBYnYPCpFKUVNV6gG9m"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 142769,
       "name": "Peaceful Underwater Sounds",
       "url": "https://open.spotify.com/track/3kKxYG0iEOptbjH38AKXws"
+    },
+    {
+      "added_at": "2025-02-26 12:14:26",
+      "album": {
+        "name": "Whale Songs",
+        "url": "https://open.spotify.com/album/3Nc01wKpTZjhGhyvES5eNr"
+      },
+      "artists": [
+        {
+          "name": "Underwater Sound",
+          "url": "https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq"
+        }
+      ],
+      "duration_ms": 292682,
+      "name": "Whale Song II",
+      "url": "https://open.spotify.com/track/2t8KVWDy3uwlWjLebfYcYz"
     }
   ],
   "unique_name": "Whale Sounds",

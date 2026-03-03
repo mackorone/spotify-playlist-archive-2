@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u58f7\u962a\u5065\u767b",
-  "num_followers": 48912,
+  "num_followers": 48923,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
@@ -315,18 +315,22 @@
     {
       "added_at": "2026-02-24 15:00:38",
       "album": {
-        "name": "SS",
-        "url": "https://open.spotify.com/album/0l60RYyo5migWBDp8qaVYD"
+        "name": "\u76f8\u601d\u76f8\u611b",
+        "url": "https://open.spotify.com/album/2PP0pTkcnDPdjaO3WaNOkU"
       },
       "artists": [
         {
-          "name": "\u8cfd",
-          "url": "https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b"
+          "name": "C&K",
+          "url": "https://open.spotify.com/artist/3eR0Jeo212WCF0Yyi46Pzj"
+        },
+        {
+          "name": "SOIL & \u201cPIMP\u201d SESSIONS",
+          "url": "https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF"
         }
       ],
-      "duration_ms": 215675,
-      "name": "SS",
-      "url": "https://open.spotify.com/track/58OgWxqe2FKEiFrgltr1Cw"
+      "duration_ms": 269200,
+      "name": "\u76f8\u601d\u76f8\u611b",
+      "url": "https://open.spotify.com/track/3AFRCpDoQaEzblHCvDcXbr"
     },
     {
       "added_at": "2026-02-24 15:00:38",
@@ -347,22 +351,18 @@
     {
       "added_at": "2026-02-24 15:00:38",
       "album": {
-        "name": "\u76f8\u601d\u76f8\u611b",
-        "url": "https://open.spotify.com/album/2PP0pTkcnDPdjaO3WaNOkU"
+        "name": "SS",
+        "url": "https://open.spotify.com/album/0l60RYyo5migWBDp8qaVYD"
       },
       "artists": [
         {
-          "name": "C&K",
-          "url": "https://open.spotify.com/artist/3eR0Jeo212WCF0Yyi46Pzj"
-        },
-        {
-          "name": "SOIL & \u201cPIMP\u201d SESSIONS",
-          "url": "https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF"
+          "name": "\u8cfd",
+          "url": "https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b"
         }
       ],
-      "duration_ms": 269200,
-      "name": "\u76f8\u601d\u76f8\u611b",
-      "url": "https://open.spotify.com/track/3AFRCpDoQaEzblHCvDcXbr"
+      "duration_ms": 215675,
+      "name": "SS",
+      "url": "https://open.spotify.com/track/58OgWxqe2FKEiFrgltr1Cw"
     },
     {
       "added_at": "2026-02-24 15:00:38",
@@ -459,6 +459,26 @@
     {
       "added_at": "2026-02-24 15:00:38",
       "album": {
+        "name": "cure jazz",
+        "url": "https://open.spotify.com/album/739BFSbszCkKUscy1LaHGf"
+      },
+      "artists": [
+        {
+          "name": "UA",
+          "url": "https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0"
+        },
+        {
+          "name": "Naruyoshi Kikuchi",
+          "url": "https://open.spotify.com/artist/5jGe8zos8U6KRs0wiLWcmv"
+        }
+      ],
+      "duration_ms": 210933,
+      "name": "This city is too jazzy to be in love",
+      "url": "https://open.spotify.com/track/6ljyh0IT9VYGtBwFWRxq1U"
+    },
+    {
+      "added_at": "2026-02-24 15:00:38",
+      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/7Bl9aIDEdyIU2jtOqI34mw"
       },
@@ -503,26 +523,6 @@
     {
       "added_at": "2026-02-24 15:00:38",
       "album": {
-        "name": "cure jazz",
-        "url": "https://open.spotify.com/album/739BFSbszCkKUscy1LaHGf"
-      },
-      "artists": [
-        {
-          "name": "UA",
-          "url": "https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0"
-        },
-        {
-          "name": "Naruyoshi Kikuchi",
-          "url": "https://open.spotify.com/artist/5jGe8zos8U6KRs0wiLWcmv"
-        }
-      ],
-      "duration_ms": 210933,
-      "name": "This city is too jazzy to be in love",
-      "url": "https://open.spotify.com/track/6ljyh0IT9VYGtBwFWRxq1U"
-    },
-    {
-      "added_at": "2026-02-24 15:00:38",
-      "album": {
         "name": "\u307e\u306b\u307e\u306b",
         "url": "https://open.spotify.com/album/4MxukD0KYg1hNfeO0YO2zE"
       },
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-02-24 15:00:38",
       "album": {
-        "name": "Old Chair",
-        "url": "https://open.spotify.com/album/6wfMdCXEB3PAOWlm2yn5K2"
-      },
-      "artists": [
-        {
-          "name": "\u58f7\u962a\u5065\u767b",
-          "url": "https://open.spotify.com/artist/2fTo5V5D3gAogcZuVKIpdQ"
-        }
-      ],
-      "duration_ms": 269752,
-      "name": "Old Chair",
-      "url": "https://open.spotify.com/track/6buAhPYGNPmxBsoCoi3lWf"
-    },
-    {
-      "added_at": "2026-02-24 15:00:38",
-      "album": {
         "name": "New World feat.ELAIZA",
         "url": "https://open.spotify.com/album/3bUMoQ0Cceo8MJp04N76wU"
       },
@@ -591,22 +575,6 @@
       "duration_ms": 228966,
       "name": "New World feat.ELAIZA",
       "url": "https://open.spotify.com/track/2SH3irAb48lnPA4zzxtTwX"
-    },
-    {
-      "added_at": "2026-02-24 15:00:38",
-      "album": {
-        "name": "Two of Me (From \"Star Wars: Visions Vol. 3 - BLACK\")",
-        "url": "https://open.spotify.com/album/45WO6jELMPfhOh5aGGi46X"
-      },
-      "artists": [
-        {
-          "name": "Sakura Fujiwara",
-          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
-        }
-      ],
-      "duration_ms": 448633,
-      "name": "Two of Me - From \"Star Wars: Visions Vol. 3 - BLACK\"",
-      "url": "https://open.spotify.com/track/788HcUEG6qDMhyBUOcSv8V"
     },
     {
       "added_at": "2026-02-24 15:00:38",
@@ -651,6 +619,38 @@
     {
       "added_at": "2026-02-24 15:00:38",
       "album": {
+        "name": "Two of Me (From \"Star Wars: Visions Vol. 3 - BLACK\")",
+        "url": "https://open.spotify.com/album/45WO6jELMPfhOh5aGGi46X"
+      },
+      "artists": [
+        {
+          "name": "Sakura Fujiwara",
+          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
+        }
+      ],
+      "duration_ms": 448633,
+      "name": "Two of Me - From \"Star Wars: Visions Vol. 3 - BLACK\"",
+      "url": "https://open.spotify.com/track/788HcUEG6qDMhyBUOcSv8V"
+    },
+    {
+      "added_at": "2026-02-24 15:00:38",
+      "album": {
+        "name": "Old Chair",
+        "url": "https://open.spotify.com/album/6wfMdCXEB3PAOWlm2yn5K2"
+      },
+      "artists": [
+        {
+          "name": "\u58f7\u962a\u5065\u767b",
+          "url": "https://open.spotify.com/artist/2fTo5V5D3gAogcZuVKIpdQ"
+        }
+      ],
+      "duration_ms": 269752,
+      "name": "Old Chair",
+      "url": "https://open.spotify.com/track/6buAhPYGNPmxBsoCoi3lWf"
+    },
+    {
+      "added_at": "2026-02-24 15:00:38",
+      "album": {
         "name": "Asleep Above Creatures",
         "url": "https://open.spotify.com/album/6O0Y4Ryzc3yApVKVSw5b6T"
       },
@@ -667,22 +667,6 @@
       "duration_ms": 291040,
       "name": "Go around in circles",
       "url": "https://open.spotify.com/track/2tJc9tvjkhmYlk191KcLJc"
-    },
-    {
-      "added_at": "2026-02-24 15:00:38",
-      "album": {
-        "name": "RESONANCE",
-        "url": "https://open.spotify.com/album/2ArHDGgrMbxIsxsRTacsLt"
-      },
-      "artists": [
-        {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
-        }
-      ],
-      "duration_ms": 262415,
-      "name": "Lightning Moment",
-      "url": "https://open.spotify.com/track/6AtMvCi9dlzW6baOkLtBn2"
     },
     {
       "added_at": "2026-02-24 15:00:38",
@@ -719,22 +703,18 @@
     {
       "added_at": "2026-02-24 15:00:38",
       "album": {
-        "name": "Unstoppable journey",
-        "url": "https://open.spotify.com/album/0sVwGWNZIzQm6kyWtwWHEN"
+        "name": "RESONANCE",
+        "url": "https://open.spotify.com/album/2ArHDGgrMbxIsxsRTacsLt"
       },
       "artists": [
         {
-          "name": "Yusuke Shima",
-          "url": "https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8"
-        },
-        {
-          "name": "Wind Loop Case",
-          "url": "https://open.spotify.com/artist/5JNs2HESqeKZBoMGnElAMh"
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
         }
       ],
-      "duration_ms": 241714,
-      "name": "Unstoppable journey",
-      "url": "https://open.spotify.com/track/6xsIxv84qSgqehvLu7HPhK"
+      "duration_ms": 262415,
+      "name": "Lightning Moment",
+      "url": "https://open.spotify.com/track/6AtMvCi9dlzW6baOkLtBn2"
     },
     {
       "added_at": "2026-02-24 15:00:38",
@@ -791,6 +771,26 @@
     {
       "added_at": "2026-02-24 15:00:38",
       "album": {
+        "name": "Unstoppable journey",
+        "url": "https://open.spotify.com/album/0sVwGWNZIzQm6kyWtwWHEN"
+      },
+      "artists": [
+        {
+          "name": "Yusuke Shima",
+          "url": "https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8"
+        },
+        {
+          "name": "Wind Loop Case",
+          "url": "https://open.spotify.com/artist/5JNs2HESqeKZBoMGnElAMh"
+        }
+      ],
+      "duration_ms": 241714,
+      "name": "Unstoppable journey",
+      "url": "https://open.spotify.com/track/6xsIxv84qSgqehvLu7HPhK"
+    },
+    {
+      "added_at": "2026-02-24 15:00:38",
+      "album": {
         "name": "eden",
         "url": "https://open.spotify.com/album/317j5AzcY1fL9NgKAMZIcD"
       },
@@ -815,6 +815,26 @@
       "duration_ms": 237686,
       "name": "eden",
       "url": "https://open.spotify.com/track/2INM5qrVFHkFpfGWQ5FxLB"
+    },
+    {
+      "added_at": "2026-02-24 15:00:38",
+      "album": {
+        "name": "Answer to Remember II",
+        "url": "https://open.spotify.com/album/1RV1qtvVjJZzqK2W52QKEy"
+      },
+      "artists": [
+        {
+          "name": "Answer to Remember",
+          "url": "https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9"
+        },
+        {
+          "name": "Jua",
+          "url": "https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk"
+        }
+      ],
+      "duration_ms": 221813,
+      "name": "KIMOCHIS",
+      "url": "https://open.spotify.com/track/7If0EeEylHBw1hnSfwDFTy"
     },
     {
       "added_at": "2026-02-24 15:00:38",
@@ -851,26 +871,6 @@
     {
       "added_at": "2026-02-24 15:00:38",
       "album": {
-        "name": "Answer to Remember II",
-        "url": "https://open.spotify.com/album/1RV1qtvVjJZzqK2W52QKEy"
-      },
-      "artists": [
-        {
-          "name": "Answer to Remember",
-          "url": "https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9"
-        },
-        {
-          "name": "Jua",
-          "url": "https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk"
-        }
-      ],
-      "duration_ms": 221813,
-      "name": "KIMOCHIS",
-      "url": "https://open.spotify.com/track/7If0EeEylHBw1hnSfwDFTy"
-    },
-    {
-      "added_at": "2026-02-24 15:00:38",
-      "album": {
         "name": "tradition",
         "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
       },
@@ -883,26 +883,6 @@
       "duration_ms": 187000,
       "name": "15 Eunomia",
       "url": "https://open.spotify.com/track/6Rs1Eg7J5nD3Rskr7nz1kj"
-    },
-    {
-      "added_at": "2026-02-24 15:00:38",
-      "album": {
-        "name": "Singularity",
-        "url": "https://open.spotify.com/album/6SVmvtKJyT4BTZsgfO6IeS"
-      },
-      "artists": [
-        {
-          "name": "\u5c0f\u5ba4\u97ff",
-          "url": "https://open.spotify.com/artist/2knziYJNT3pAgE21mHc4a0"
-        },
-        {
-          "name": "\u4e95\u4e0a\u9298",
-          "url": "https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg"
-        }
-      ],
-      "duration_ms": 690973,
-      "name": "Volkslied - feat.\u4e95\u4e0a\u9298",
-      "url": "https://open.spotify.com/track/0V9Wmky0m7eiYhG96lYBiV"
     },
     {
       "added_at": "2026-02-24 15:00:38",
@@ -943,34 +923,54 @@
     {
       "added_at": "2026-02-24 15:00:38",
       "album": {
-        "name": "\u4e8c\u4eba\u9759 (JAZZ)",
-        "url": "https://open.spotify.com/album/4fHTDqDC9nkGh9QWGtjzTy"
+        "name": "Singularity",
+        "url": "https://open.spotify.com/album/6SVmvtKJyT4BTZsgfO6IeS"
       },
       "artists": [
         {
-          "name": "Akina Nakamori",
-          "url": "https://open.spotify.com/artist/7140bcJ0ZySe314nUfOo1J"
+          "name": "\u5c0f\u5ba4\u97ff",
+          "url": "https://open.spotify.com/artist/2knziYJNT3pAgE21mHc4a0"
+        },
+        {
+          "name": "\u4e95\u4e0a\u9298",
+          "url": "https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg"
         }
       ],
-      "duration_ms": 250832,
-      "name": "\u4e8c\u4eba\u9759 - JAZZ",
-      "url": "https://open.spotify.com/track/27oq5Tj8Leb6pExeE4aXTn"
+      "duration_ms": 690973,
+      "name": "Volkslied - feat.\u4e95\u4e0a\u9298",
+      "url": "https://open.spotify.com/track/0V9Wmky0m7eiYhG96lYBiV"
     },
     {
       "added_at": "2026-02-24 15:00:38",
       "album": {
-        "name": "1-0",
-        "url": "https://open.spotify.com/album/48aa23wkmx3JUSwWK2dTjQ"
+        "name": "34/45",
+        "url": "https://open.spotify.com/album/06lupQqsX3gZuaiECZAMge"
       },
       "artists": [
         {
-          "name": "SALVALAI",
-          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
+          "name": "Akira Jimbo",
+          "url": "https://open.spotify.com/artist/3lpJqlTUaUV0Q7OlnbtBeC"
         }
       ],
-      "duration_ms": 281914,
-      "name": "1-0",
-      "url": "https://open.spotify.com/track/6K6RV21WP5Kj0oelvC56kI"
+      "duration_ms": 243080,
+      "name": "Soul Funkafied feat. Yoshiaki Muto",
+      "url": "https://open.spotify.com/track/2rFbfBplp0vd2hIFQWVrjY"
+    },
+    {
+      "added_at": "2026-02-24 15:00:38",
+      "album": {
+        "name": "The Little Cycle",
+        "url": "https://open.spotify.com/album/2ysNJMEwr7AYMXH6EynqVZ"
+      },
+      "artists": [
+        {
+          "name": "Sara Wakui",
+          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
+        }
+      ],
+      "duration_ms": 250279,
+      "name": "Terracotta",
+      "url": "https://open.spotify.com/track/1w5v26yZEOV1hglLvElyI0"
     }
   ],
   "unique_name": "Modern Jazz Japan",

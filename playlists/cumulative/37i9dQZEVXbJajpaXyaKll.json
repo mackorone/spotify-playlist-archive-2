@@ -5016,7 +5016,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 221904,
       "name": "Bonita Bonita - 1950's Soul Jazz",
       "url": "https://open.spotify.com/track/6T8rd4DtgOXFNhPjkfwEH1"
@@ -18198,7 +18198,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 309640,
       "name": "Idilio",
       "url": "https://open.spotify.com/track/5iwgEFKEktjBBZV3C9TTZj"
@@ -19786,7 +19786,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 67105,
       "name": "La Nave del Olvido",
       "url": "https://open.spotify.com/track/1vdfrsoqbDkaLu0Usssgyg"
@@ -31780,7 +31780,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 161803,
       "name": "Porque eres t\u00fa - versi\u00f3n Sky",
       "url": "https://open.spotify.com/track/5GAHmlKweyn5h9EwU9gQeq"
@@ -35566,7 +35566,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 194160,
       "name": "Siesta Freestyle",
       "url": "https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z"
@@ -38057,6 +38057,24 @@
     },
     {
       "album": {
+        "name": "S\u00f3 Bund\u00e3o Grand\u00e3o",
+        "url": "https://open.spotify.com/album/693z4dxiA7qFCSFgEH83HZ"
+      },
+      "artists": [
+        {
+          "name": "Dj Guuga",
+          "url": "https://open.spotify.com/artist/1cNPXWhKfjI0fT5EMCnamR"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137752,
+      "name": "S\u00f3 Bund\u00e3o Grand\u00e3o",
+      "url": "https://open.spotify.com/track/4QcbeYrzfyUBqnF5JU5Xt7"
+    },
+    {
+      "album": {
         "name": "\u00c9 o Grelo",
         "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
       },
@@ -38572,7 +38590,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 211114,
       "name": "Te Amo y Me Amas",
       "url": "https://open.spotify.com/track/1zcpINZGUYXn2dzO1QSlUo"
@@ -43742,7 +43760,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 196795,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"

@@ -5779,6 +5779,24 @@
     },
     {
       "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193621,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf"
+    },
+    {
+      "album": {
         "name": "Despicable Me 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ"
       },
@@ -9240,7 +9258,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 248551,
       "name": "Summer of 69 (Classic Version)",
       "url": "https://open.spotify.com/track/45sqV0WhglbGJswa6SiC0v"

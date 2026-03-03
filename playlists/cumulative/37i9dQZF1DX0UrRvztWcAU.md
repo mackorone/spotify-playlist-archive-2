@@ -4,7 +4,7 @@
 
 > Set the mood of your day with these happy songs.
 
-589 songs - 1 day 9 hr 14 min
+590 songs - 1 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [It Takes Two](https://open.spotify.com/track/4wQD0djo6Id4fQLQeRKQ6e) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Kim Weston](https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL) | [Take Two](https://open.spotify.com/album/5olHUIEjslOonYs3lyffCv) | 2:57 | 2021-12-16 | 2022-07-29 |
 | [It's Alright](https://open.spotify.com/track/7xOUwZR2KLFkVU8Ukils74) | [Motel 7](https://open.spotify.com/artist/1VdkivxkOsvAIWNszCMzW6) | [It's Alright](https://open.spotify.com/album/0jfPkCIgFkjTHtacc7HQHR) | 2:27 | 2021-12-16 | 2022-07-29 |
 | [Jealous](https://open.spotify.com/track/1fPHyztOupqwpBYRmi5KAf) | [Oliver Nelson](https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1), [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Jealous](https://open.spotify.com/album/0qsr6PLdD5SwpD5o5I5oQZ) | 3:26 | 2021-12-16 | 2022-07-29 |
+| [Joy](https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Joy](https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM) | 3:13 | 2024-07-12 |  |
 | [Just a Cloud Away](https://open.spotify.com/track/4UPQiDmYScn2C6S2C2WATY) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Despicable Me 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ) | 2:56 | 2022-03-21 | 2022-03-31 |
 | [Just Dance](https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 4:01 | 2023-06-30 |  |
 | [Just Like Fire \(From the Original Motion Picture "Alice Through The Looking Glass"\)](https://open.spotify.com/track/7K5dzhGda2vRTaAWYI3hrb) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Just Like Fire \(From the Original Motion Picture "Alice Through The Looking Glass"\)](https://open.spotify.com/album/09K53TLaJZ156prccNvwuS) | 3:35 | 2023-08-04 |  |
@@ -480,7 +481,7 @@
 | [Sucker Punch](https://open.spotify.com/track/6DlxVlOMWDG71sNyaJtmTy) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Sucker Punch](https://open.spotify.com/album/7xqAUzKl6kqf1xXPxF9Lp3) | 3:14 | 2021-12-16 | 2022-06-02 |
 | [Sugar \(feat\. Francesco Yates\)](https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Francesco Yates](https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:39 | 2022-11-17 |  |
 | [Summer Of '69](https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:36 | 2023-01-26 | 2024-05-29 |
-| [Summer of 69 \(Classic Version\)](https://open.spotify.com/track/45sqV0WhglbGJswa6SiC0v) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Classic](https://open.spotify.com/album/03XgnNQDve2dWqBG1ARjvR) | 4:08 | 2024-07-12 |  |
+| [Summer of 69 \(Classic Version\)](https://open.spotify.com/track/45sqV0WhglbGJswa6SiC0v) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Classic](https://open.spotify.com/album/03XgnNQDve2dWqBG1ARjvR) | 4:08 | 2024-07-12 | 2026-03-03 |
 | [Summer of Love \(Shawn Mendes & Tainy\)](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Of Love](https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk) | 3:04 | 2022-12-14 |  |
 | [Summertime](https://open.spotify.com/track/73kz81vSBTPcERJlvhsYKp) | [Becca VanDerbeck](https://open.spotify.com/artist/2VNtrixP67qJG8d8smmPrF), [Matt Heath](https://open.spotify.com/artist/0LWu8x7SMe8HRLi5jqAc2O), [Noel Goff](https://open.spotify.com/artist/0TGzcewLLmd3Ba2qpS4ibZ) | [Summertime](https://open.spotify.com/album/55LIhCVczqyt4w9L0k26d1) | 3:22 | 2021-12-16 | 2022-07-29 |
 | [Sunday Morning](https://open.spotify.com/track/1Asq6gE9O44i5krkhqa7Ls) | [Mitch James](https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le) | [Sunday Morning](https://open.spotify.com/album/0NA5D7y1yupysEuJNp2PFp) | 3:23 | 2022-10-07 | 2022-11-13 |

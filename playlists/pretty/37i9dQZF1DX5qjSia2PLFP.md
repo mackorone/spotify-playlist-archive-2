@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > They got next and now\. Cover: <a href="spotify:artist:7hjNO6RQeqZIBZpZQdstUO">Nali</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,858 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,890 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 5 | [Don’t hide](https://open.spotify.com/track/6yJIO8264hq1hCbBLU0C0X) | [So Supa](https://open.spotify.com/artist/6D6Uf2RTnvHkD64pUapryP) | [Supa vs Sligga](https://open.spotify.com/album/3GdWSIpfD42ZQMiNVg6Eu7) | 1:50 |
 | 6 | [Not My Problem](https://open.spotify.com/track/4lQRGvv7tyVl3tBXz2Fbhl) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Not My Problem](https://open.spotify.com/album/362lx6SRNrBhIQFs2VWWb9) | 1:38 |
 | 7 | [BOO](https://open.spotify.com/track/5z3lA9udc15kVQ4S4OcTsa) | [H3adband](https://open.spotify.com/artist/3TvL95zdOZWkMbkvfJ8cCk) | [BOO](https://open.spotify.com/album/6eCKw4JH2vzTXGutRJ2Rhj) | 2:18 |
-| 8 | [Boat Remix](https://open.spotify.com/track/2HeqKWstr0XAYILHpRo5ra) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Boat Remix](https://open.spotify.com/album/0PBa3RVZ6Mpy9dCdb3UnRC) | 2:43 |
+| 8 | [BOAT REMIX](https://open.spotify.com/track/2HeqKWstr0XAYILHpRo5ra) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [BOAT REMIX](https://open.spotify.com/album/0PBa3RVZ6Mpy9dCdb3UnRC) | 2:43 |
 | 9 | [FDO](https://open.spotify.com/track/5YbDA37CN0YcgZXF6L2cBX) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [FDO](https://open.spotify.com/album/2ME0R7wx6jnHudplZAG2be) | 5:19 |
 | 10 | [First Round Pick](https://open.spotify.com/track/6peG4yF5frFHeEhqiaPWIa) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Wallie the Sensei](https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5) | [BE VERY AFRAID \(Vol\. 1\)](https://open.spotify.com/album/4K9r7DoXIz7ZsD1P6nsZz1) | 2:25 |
 | 11 | [GUAPO](https://open.spotify.com/track/749Om40dkalc4mcUTmLZAK) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9), [Bankroll Ni](https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD), [Bri3](https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H), [thickney](https://open.spotify.com/artist/7cvYYJFBuw4169sVI1Krk5) | [GUAPO](https://open.spotify.com/album/6hnc9sPkRo0VvjFM7TNvoe) | 3:06 |

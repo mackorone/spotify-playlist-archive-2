@@ -1,6 +1,6 @@
 {
   "description": "Tu dosis de \u00e9xitos indie para quedar a salvo. En portada: Alabama Shakes",
-  "num_followers": 1061980,
+  "num_followers": 1061846,
   "original_name": "Indiespensables",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 229413,
+      "name": "Soul Meets Body",
+      "url": "https://open.spotify.com/track/5yc59J3MR3tVDPTOgwgRI5"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
         "name": "First Two Pages of Frankenstein",
         "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 267773,
       "name": "The Alcott (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
-        "name": "Plans",
-        "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 229413,
-      "name": "Soul Meets Body",
-      "url": "https://open.spotify.com/track/5yc59J3MR3tVDPTOgwgRI5"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Black Pumas",
-        "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 221946,
-      "name": "Black Moon Rising",
-      "url": "https://open.spotify.com/track/2LTah3NcoIJI9WHJW3VIlC"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
         "name": "Chaise Longue",
         "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 196905,
       "name": "Chaise Longue",
       "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "Black Pumas",
+        "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 221946,
+      "name": "Black Moon Rising",
+      "url": "https://open.spotify.com/track/2LTah3NcoIJI9WHJW3VIlC"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Cool It Down",
-        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 253026,
-      "name": "Wolf",
-      "url": "https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
         "name": "Wet Dream",
         "url": "https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 140080,
       "name": "Wet Dream",
       "url": "https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "Cool It Down",
+        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 253026,
+      "name": "Wolf",
+      "url": "https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Mustang",
-        "url": "https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 194731,
-      "name": "Mustang",
-      "url": "https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 149443,
       "name": "Daisy - Spotify Singles",
       "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "Mustang",
+        "url": "https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 194731,
+      "name": "Mustang",
+      "url": "https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Under The Milky Way",
-        "url": "https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS"
-      },
-      "artists": [
-        {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
-        }
-      ],
-      "duration_ms": 260101,
-      "name": "Under The Milky Way",
-      "url": "https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
         "name": "Winter Solstice",
         "url": "https://open.spotify.com/album/76ZPEP13Boqv4Da5XihzG0"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 236240,
       "name": "Winter Solstice",
       "url": "https://open.spotify.com/track/3Y0SA1vOKOXdywTYUqeIA8"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "Under The Milky Way",
+        "url": "https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "duration_ms": 260101,
+      "name": "Under The Milky Way",
+      "url": "https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "The Echo of Pleasure",
-        "url": "https://open.spotify.com/album/53OcLnAgz2Pi9hgUyE0vGv"
-      },
-      "artists": [
-        {
-          "name": "The Pains Of Being Pure At Heart",
-          "url": "https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek"
-        }
-      ],
-      "duration_ms": 223704,
-      "name": "Anymore",
-      "url": "https://open.spotify.com/track/0SLB2YoD1z2tPcREzIHYYA"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
         "name": "Battered & Bruised",
         "url": "https://open.spotify.com/album/6z9Cgau0pl5CFkhWkpwuZx"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 143744,
       "name": "Battered & Bruised",
       "url": "https://open.spotify.com/track/0aMTOwMg93ZJlM1xCZy0ia"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "The Echo of Pleasure",
+        "url": "https://open.spotify.com/album/53OcLnAgz2Pi9hgUyE0vGv"
+      },
+      "artists": [
+        {
+          "name": "The Pains Of Being Pure At Heart",
+          "url": "https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek"
+        }
+      ],
+      "duration_ms": 223704,
+      "name": "Anymore",
+      "url": "https://open.spotify.com/track/0SLB2YoD1z2tPcREzIHYYA"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Without You I'm Nothing",
-        "url": "https://open.spotify.com/album/2cDDG5rnwEgjNL8Q0cO9Zd"
-      },
-      "artists": [
-        {
-          "name": "Placebo",
-          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Every You Every Me",
-      "url": "https://open.spotify.com/track/3tRv4ZYZimrL27flnjgeR6"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
         "name": "I Should Coco",
         "url": "https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd"
       },
@@ -1195,18 +1179,18 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/2TVvPbLNPTCZS8lPHs1rZW"
+        "name": "Without You I'm Nothing",
+        "url": "https://open.spotify.com/album/2cDDG5rnwEgjNL8Q0cO9Zd"
       },
       "artists": [
         {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
         }
       ],
-      "duration_ms": 241546,
-      "name": "Lisztomania",
-      "url": "https://open.spotify.com/track/7zkDEBSxkcBVsStS4qBFpK"
+      "duration_ms": 213800,
+      "name": "Every You Every Me",
+      "url": "https://open.spotify.com/track/3tRv4ZYZimrL27flnjgeR6"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -1223,6 +1207,22 @@
       "duration_ms": 313500,
       "name": "Dive Deep",
       "url": "https://open.spotify.com/track/6yoKgVW3LYI0vD5Qq9YRg5"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/2TVvPbLNPTCZS8lPHs1rZW"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 241546,
+      "name": "Lisztomania",
+      "url": "https://open.spotify.com/track/7zkDEBSxkcBVsStS4qBFpK"
     }
   ],
   "unique_name": "Indiespensables",

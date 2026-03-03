@@ -827,6 +827,28 @@
     },
     {
       "album": {
+        "name": "California Calling",
+        "url": "https://open.spotify.com/album/663dH6X55PAbCCLWa7Dwfp"
+      },
+      "artists": [
+        {
+          "name": "M\u00f8me",
+          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
+        },
+        {
+          "name": "Ricky Ducati",
+          "url": "https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201973,
+      "name": "Don't Forget Yourself",
+      "url": "https://open.spotify.com/track/7deM9Z7kgdp1laZQYaDUnw"
+    },
+    {
+      "album": {
         "name": "Beautiful Sunrise",
         "url": "https://open.spotify.com/album/582V2xU2XzvbL1nNuB6SQV"
       },
@@ -1720,7 +1742,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 222751,
       "name": "lily rose",
       "url": "https://open.spotify.com/track/5aB5RkgtA34pFL5ZhRKdlx"

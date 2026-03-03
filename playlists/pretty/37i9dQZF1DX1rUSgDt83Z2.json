@@ -1,6 +1,6 @@
 {
   "description": "Fijn voor thuis of op werk. Helemaal van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 45090,
+  "num_followers": 45106,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
@@ -31,6 +31,22 @@
     {
       "added_at": "2026-02-26 23:00:30",
       "album": {
+        "name": "Sluit Me In Je Armen",
+        "url": "https://open.spotify.com/album/0dmNOTJAS3XLdvQyVJpYaW"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        }
+      ],
+      "duration_ms": 163976,
+      "name": "Sluit Me In Je Armen",
+      "url": "https://open.spotify.com/track/3hDonrNsWXsXegk5y67wKs"
+    },
+    {
+      "added_at": "2026-02-26 23:00:30",
+      "album": {
         "name": "1 Dag",
         "url": "https://open.spotify.com/album/1SIgkWVynAWhGZ1s5wyME6"
       },
@@ -47,22 +63,6 @@
       "duration_ms": 204474,
       "name": "1 Dag",
       "url": "https://open.spotify.com/track/4zQh8F0jxyUsKBdKjVvy2x"
-    },
-    {
-      "added_at": "2026-02-26 23:00:30",
-      "album": {
-        "name": "Huisje Aan De Zee",
-        "url": "https://open.spotify.com/album/3MirAdubTvdxVC77yoeDjc"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Livay",
-          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
-        }
-      ],
-      "duration_ms": 166815,
-      "name": "Huisje Aan De Zee",
-      "url": "https://open.spotify.com/track/2UZcGTX1HbBi74VZY7VJC9"
     },
     {
       "added_at": "2026-02-26 23:00:30",
@@ -131,6 +131,22 @@
     {
       "added_at": "2026-02-26 23:00:30",
       "album": {
+        "name": "Huisje Aan De Zee",
+        "url": "https://open.spotify.com/album/3MirAdubTvdxVC77yoeDjc"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        }
+      ],
+      "duration_ms": 166815,
+      "name": "Huisje Aan De Zee",
+      "url": "https://open.spotify.com/track/2UZcGTX1HbBi74VZY7VJC9"
+    },
+    {
+      "added_at": "2026-02-26 23:00:30",
+      "album": {
         "name": "Voor Je \u2018t Weet",
         "url": "https://open.spotify.com/album/3azvOPrY1wCSaESVjQVAmc"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 197204,
       "name": "Voor Je \u2018t Weet",
       "url": "https://open.spotify.com/track/0kQW438RAa27ixstP4bIhD"
-    },
-    {
-      "added_at": "2026-02-26 23:00:30",
-      "album": {
-        "name": "Sluit Me In Je Armen",
-        "url": "https://open.spotify.com/album/0dmNOTJAS3XLdvQyVJpYaW"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Livay",
-          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
-        }
-      ],
-      "duration_ms": 163976,
-      "name": "Sluit Me In Je Armen",
-      "url": "https://open.spotify.com/track/3hDonrNsWXsXegk5y67wKs"
     },
     {
       "added_at": "2026-02-26 23:00:30",
@@ -227,22 +227,6 @@
     {
       "added_at": "2026-02-26 23:00:30",
       "album": {
-        "name": "Nergens Liever",
-        "url": "https://open.spotify.com/album/7BfMAnfZJBqhrRy16FbpzB"
-      },
-      "artists": [
-        {
-          "name": "MEAU",
-          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
-        }
-      ],
-      "duration_ms": 195694,
-      "name": "Nergens Liever",
-      "url": "https://open.spotify.com/track/5PhLJO4IkwuWwUlnRr0VKH"
-    },
-    {
-      "added_at": "2026-02-26 23:00:30",
-      "album": {
         "name": "Vrouw Van De Wereld",
         "url": "https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 173031,
       "name": "Patronen",
       "url": "https://open.spotify.com/track/1df6j97W2WPuIprZJQ9TxV"
+    },
+    {
+      "added_at": "2026-02-26 23:00:30",
+      "album": {
+        "name": "Nergens Liever",
+        "url": "https://open.spotify.com/album/7BfMAnfZJBqhrRy16FbpzB"
+      },
+      "artists": [
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "duration_ms": 195694,
+      "name": "Nergens Liever",
+      "url": "https://open.spotify.com/track/5PhLJO4IkwuWwUlnRr0VKH"
     },
     {
       "added_at": "2026-02-26 23:00:30",
@@ -299,18 +299,18 @@
     {
       "added_at": "2026-02-26 23:00:30",
       "album": {
-        "name": "Ik Kom Weer Thuis",
-        "url": "https://open.spotify.com/album/4oFvk66h8AGIxNyh0sFkhk"
+        "name": "Mijn Liefste",
+        "url": "https://open.spotify.com/album/71nFE5PVazkBHpII8Z08zo"
       },
       "artists": [
         {
-          "name": "Isab\u00e8l Usher",
-          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
+          "name": "Kimberly Fransens",
+          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
         }
       ],
-      "duration_ms": 183281,
-      "name": "Ik Kom Weer Thuis",
-      "url": "https://open.spotify.com/track/5VzimlAe6d9QJgCYgWky8v"
+      "duration_ms": 190086,
+      "name": "Mijn Liefste",
+      "url": "https://open.spotify.com/track/4ymLR8R56kggSizQk8Rxcr"
     },
     {
       "added_at": "2026-02-26 23:00:30",
@@ -327,6 +327,22 @@
       "duration_ms": 174448,
       "name": "Bang Dat Ik Je Stem Vergeet",
       "url": "https://open.spotify.com/track/1LmGCG8AOvCsVvjOPbiY54"
+    },
+    {
+      "added_at": "2026-02-26 23:00:30",
+      "album": {
+        "name": "Ik Kom Weer Thuis",
+        "url": "https://open.spotify.com/album/4oFvk66h8AGIxNyh0sFkhk"
+      },
+      "artists": [
+        {
+          "name": "Isab\u00e8l Usher",
+          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
+        }
+      ],
+      "duration_ms": 183281,
+      "name": "Ik Kom Weer Thuis",
+      "url": "https://open.spotify.com/track/5VzimlAe6d9QJgCYgWky8v"
     },
     {
       "added_at": "2026-02-26 23:00:30",
@@ -355,22 +371,6 @@
     {
       "added_at": "2026-02-26 23:00:30",
       "album": {
-        "name": "Rode Draad",
-        "url": "https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH"
-      },
-      "artists": [
-        {
-          "name": "Hannah Mae",
-          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "Rode Draad",
-      "url": "https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE"
-    },
-    {
-      "added_at": "2026-02-26 23:00:30",
-      "album": {
         "name": "Wat Als Ik Wat Mis",
         "url": "https://open.spotify.com/album/0LwwaLVVLn7hCXYoojVZwQ"
       },
@@ -387,18 +387,18 @@
     {
       "added_at": "2026-02-26 23:00:30",
       "album": {
-        "name": "Dit Is Zo'n Dag",
-        "url": "https://open.spotify.com/album/5FO2SsTD9zwJPXGbMwsN0H"
+        "name": "Rode Draad",
+        "url": "https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH"
       },
       "artists": [
         {
-          "name": "3JS",
-          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
+          "name": "Hannah Mae",
+          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
         }
       ],
-      "duration_ms": 207905,
-      "name": "Dit Is Zo'n Dag",
-      "url": "https://open.spotify.com/track/3fXTq5dSIKlEmXzOoxhJ3B"
+      "duration_ms": 176333,
+      "name": "Rode Draad",
+      "url": "https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE"
     },
     {
       "added_at": "2026-02-26 23:00:30",
@@ -423,6 +423,22 @@
     {
       "added_at": "2026-02-26 23:00:30",
       "album": {
+        "name": "Dit Is Zo'n Dag",
+        "url": "https://open.spotify.com/album/5FO2SsTD9zwJPXGbMwsN0H"
+      },
+      "artists": [
+        {
+          "name": "3JS",
+          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
+        }
+      ],
+      "duration_ms": 207905,
+      "name": "Dit Is Zo'n Dag",
+      "url": "https://open.spotify.com/track/3fXTq5dSIKlEmXzOoxhJ3B"
+    },
+    {
+      "added_at": "2026-02-26 23:00:30",
+      "album": {
         "name": "Beste Zangers 2024 (Claude)",
         "url": "https://open.spotify.com/album/7cFYcG7GHXLS29svnOSWw7"
       },
@@ -439,22 +455,6 @@
     {
       "added_at": "2026-02-26 23:00:30",
       "album": {
-        "name": "Mijn Liefste",
-        "url": "https://open.spotify.com/album/71nFE5PVazkBHpII8Z08zo"
-      },
-      "artists": [
-        {
-          "name": "Kimberly Fransens",
-          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
-        }
-      ],
-      "duration_ms": 190086,
-      "name": "Mijn Liefste",
-      "url": "https://open.spotify.com/track/4ymLR8R56kggSizQk8Rxcr"
-    },
-    {
-      "added_at": "2026-02-26 23:00:30",
-      "album": {
         "name": "Vergeef Me",
         "url": "https://open.spotify.com/album/1sr1TbYn17UxMa6xOqoSaN"
       },
@@ -467,6 +467,22 @@
       "duration_ms": 182312,
       "name": "Vergeef Me",
       "url": "https://open.spotify.com/track/3uWDhz3cIoWzN1944cUmq6"
+    },
+    {
+      "added_at": "2026-02-26 23:00:30",
+      "album": {
+        "name": "Nu Jij Hier Niet Meer Bent",
+        "url": "https://open.spotify.com/album/0IEqWsZp8XYUW8eqHxdLe6"
+      },
+      "artists": [
+        {
+          "name": "Kimberly Fransens",
+          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
+        }
+      ],
+      "duration_ms": 250269,
+      "name": "Nu Jij Hier Niet Meer Bent",
+      "url": "https://open.spotify.com/track/2kDciEprIhpMKgJxsCMXpn"
     },
     {
       "added_at": "2026-02-26 23:00:30",
@@ -523,22 +539,6 @@
     {
       "added_at": "2026-02-26 23:00:30",
       "album": {
-        "name": "Nu Jij Hier Niet Meer Bent",
-        "url": "https://open.spotify.com/album/0IEqWsZp8XYUW8eqHxdLe6"
-      },
-      "artists": [
-        {
-          "name": "Kimberly Fransens",
-          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
-        }
-      ],
-      "duration_ms": 250269,
-      "name": "Nu Jij Hier Niet Meer Bent",
-      "url": "https://open.spotify.com/track/2kDciEprIhpMKgJxsCMXpn"
-    },
-    {
-      "added_at": "2026-02-26 23:00:30",
-      "album": {
         "name": "Wat Had Jij Van Mij Verwacht",
         "url": "https://open.spotify.com/album/0d7TswwHubviX1mnZzbUSN"
       },
@@ -551,22 +551,6 @@
       "duration_ms": 177680,
       "name": "Wat Had Jij Van Mij Verwacht",
       "url": "https://open.spotify.com/track/6Ln5NYIuzJ8baOwoCRP7Kz"
-    },
-    {
-      "added_at": "2026-02-26 23:00:30",
-      "album": {
-        "name": "Droom Een Beetje Meer",
-        "url": "https://open.spotify.com/album/5IU8dhrYtcOteiLfPw7HFt"
-      },
-      "artists": [
-        {
-          "name": "Guus Hulshof",
-          "url": "https://open.spotify.com/artist/5G2yrrfIxyRjzNGWtz7mYl"
-        }
-      ],
-      "duration_ms": 205472,
-      "name": "Droom Een Beetje Meer",
-      "url": "https://open.spotify.com/track/31bSYd3Vn2OVmAysLXm3yy"
     },
     {
       "added_at": "2026-02-26 23:00:30",
@@ -587,6 +571,22 @@
     {
       "added_at": "2026-02-26 23:00:30",
       "album": {
+        "name": "Droom Een Beetje Meer",
+        "url": "https://open.spotify.com/album/5IU8dhrYtcOteiLfPw7HFt"
+      },
+      "artists": [
+        {
+          "name": "Guus Hulshof",
+          "url": "https://open.spotify.com/artist/5G2yrrfIxyRjzNGWtz7mYl"
+        }
+      ],
+      "duration_ms": 205472,
+      "name": "Droom Een Beetje Meer",
+      "url": "https://open.spotify.com/track/31bSYd3Vn2OVmAysLXm3yy"
+    },
+    {
+      "added_at": "2026-02-26 23:00:30",
+      "album": {
         "name": "Half Open",
         "url": "https://open.spotify.com/album/2jpBFxyKm365TUV0z3XAEc"
       },
@@ -599,6 +599,22 @@
       "duration_ms": 149470,
       "name": "Half Open",
       "url": "https://open.spotify.com/track/6eta0oe0t2clgw0CujrVI7"
+    },
+    {
+      "added_at": "2026-02-26 23:00:30",
+      "album": {
+        "name": "Echte Liefde",
+        "url": "https://open.spotify.com/album/5X6HJfWLdfrVBOroYScrVD"
+      },
+      "artists": [
+        {
+          "name": "Maxim Froger",
+          "url": "https://open.spotify.com/artist/1DBS9sxZ31hPIcJmdH16te"
+        }
+      ],
+      "duration_ms": 155724,
+      "name": "Echte Liefde",
+      "url": "https://open.spotify.com/track/2TNoer9mGPTcEApGkgeov2"
     },
     {
       "added_at": "2026-02-26 23:00:30",
@@ -619,22 +635,6 @@
       "duration_ms": 177877,
       "name": "Mes In M'n Rug",
       "url": "https://open.spotify.com/track/4GZd9XVEm3YxbTtll982i1"
-    },
-    {
-      "added_at": "2026-02-26 23:00:30",
-      "album": {
-        "name": "Echte Liefde",
-        "url": "https://open.spotify.com/album/5X6HJfWLdfrVBOroYScrVD"
-      },
-      "artists": [
-        {
-          "name": "Maxim Froger",
-          "url": "https://open.spotify.com/artist/1DBS9sxZ31hPIcJmdH16te"
-        }
-      ],
-      "duration_ms": 155724,
-      "name": "Echte Liefde",
-      "url": "https://open.spotify.com/track/2TNoer9mGPTcEApGkgeov2"
     },
     {
       "added_at": "2026-02-26 23:00:30",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-02-26 23:00:30",
       "album": {
-        "name": "Zuidas Jimmy",
-        "url": "https://open.spotify.com/album/2CeH2PT1LLHIbaa7BuTpE2"
-      },
-      "artists": [
-        {
-          "name": "De Troubadours",
-          "url": "https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq"
-        }
-      ],
-      "duration_ms": 177086,
-      "name": "Zuidas Jimmy",
-      "url": "https://open.spotify.com/track/3YqsML7aILH28qx53cMJvQ"
-    },
-    {
-      "added_at": "2026-02-26 23:00:30",
-      "album": {
         "name": "Ik neem jou mee",
         "url": "https://open.spotify.com/album/5IRN8OAVrY8gm2vjhCpp18"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 169456,
       "name": "Ik neem jou mee",
       "url": "https://open.spotify.com/track/1NEawk3FwC4DAte737OmtG"
+    },
+    {
+      "added_at": "2026-02-26 23:00:30",
+      "album": {
+        "name": "Zuidas Jimmy",
+        "url": "https://open.spotify.com/album/2CeH2PT1LLHIbaa7BuTpE2"
+      },
+      "artists": [
+        {
+          "name": "De Troubadours",
+          "url": "https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq"
+        }
+      ],
+      "duration_ms": 177086,
+      "name": "Zuidas Jimmy",
+      "url": "https://open.spotify.com/track/3YqsML7aILH28qx53cMJvQ"
     },
     {
       "added_at": "2026-02-26 23:00:30",
@@ -875,18 +875,18 @@
     {
       "added_at": "2026-02-26 23:00:30",
       "album": {
-        "name": "Noorderlicht",
-        "url": "https://open.spotify.com/album/2hWs52poL7yBwoRYNTQ4MP"
+        "name": "Zij Bij Mij",
+        "url": "https://open.spotify.com/album/3suqFdXc38laVrVYAD5PiD"
       },
       "artists": [
         {
-          "name": "Lisa Michels",
-          "url": "https://open.spotify.com/artist/79CPotbn7wd5Iu7dF9tY7e"
+          "name": "Leev",
+          "url": "https://open.spotify.com/artist/7FKzn9rRpQYeNSouksgMzy"
         }
       ],
-      "duration_ms": 194661,
-      "name": "Noorderlicht",
-      "url": "https://open.spotify.com/track/2yy0FHQvXgj9tZHceIjZpL"
+      "duration_ms": 132754,
+      "name": "Zij Bij Mij",
+      "url": "https://open.spotify.com/track/1HQyIisTd4Q3F0wLaGCijN"
     }
   ],
   "unique_name": "Helemaal NL",

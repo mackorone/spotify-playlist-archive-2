@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Turisti, Averagekidluke, Elastinen, ja Ares..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,457 likes - 97 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,460 likes - 97 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

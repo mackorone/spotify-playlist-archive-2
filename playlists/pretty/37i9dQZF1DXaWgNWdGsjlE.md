@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 
 > aggressive\. heavy\. unhinged\. make a mess of it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,880 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,898 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 | 91 | [Undertaker \- FEVER 333 Remix](https://open.spotify.com/track/3Wj8USHNbYGLvfIHgxbMhZ) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Undertaker \(FEVER 333 Remix\)](https://open.spotify.com/album/4jpumJcPwvLooTIXKMcH4k) | 2:15 |
 | 92 | [LITTLE GODZ](https://open.spotify.com/track/2Nx04cmbMe4udzfvyGm9LZ) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [LITTLE GODZ](https://open.spotify.com/album/5FqexW1NbFdtVY7rkk7Pn9) | 3:08 |
 | 93 | [Mega City Nine \(unknown virus 4.\)](https://open.spotify.com/track/4rMBG6PXvcI3AJ85NJfEPN) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [Cyber Cop \[Unauthorized MP3.\]](https://open.spotify.com/album/3hqPGbyxJ0vLKv3GFvvNgw) | 2:14 |
-| 94 | [FØØL \- INHUMAN Remix](https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK), [Code: Pandorum](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe) | [FØØL \(INHUMAN Remix\)](https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa) | 3:08 |
+| 94 | [FØØL \- Code:Pandorum Remix](https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK), [Code: Pandorum](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe) | [FØØL \(Code:Pandorum Remix\)](https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa) | 3:08 |
 | 95 | [Whispers In The Echo Chamber](https://open.spotify.com/track/0CrP9rtIvD8qeJJq0cJ05t) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [She Reaches Out To She Reaches Out To She](https://open.spotify.com/album/4uJMF1xAEk9IgPA5UbwNA6) | 4:01 |
 | 96 | [Zombie](https://open.spotify.com/track/10IbUW87Q8kTs3ySisuLVc) | [SIIICKBRAIN](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Zombie](https://open.spotify.com/album/2OrzskCbMc8Bu5rbPXppJp) | 2:42 |
 | 97 | [Behind Closed Doors](https://open.spotify.com/track/24A9gRCWE4Jza8DDhnur6C) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A), [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Behind Closed Doors](https://open.spotify.com/album/1U8ck3ysyU4iwNaagT7MCJ) | 3:03 |

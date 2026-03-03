@@ -9475,6 +9475,24 @@
     },
     {
       "album": {
+        "name": "Selectiva",
+        "url": "https://open.spotify.com/album/5WLtyQPSuBnKE7lB2O3HzB"
+      },
+      "artists": [
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141101,
+      "name": "Selectiva",
+      "url": "https://open.spotify.com/track/5KgIfj8LTD4ewnlML92z5g"
+    },
+    {
+      "album": {
         "name": "Soy Mala",
         "url": "https://open.spotify.com/album/2TyCJUAgD4OkU6zSrPWFpe"
       },

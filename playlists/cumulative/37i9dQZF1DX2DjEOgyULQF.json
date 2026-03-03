@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-02",
-  "description": "Ambient with the soothing sounds of water, rain and birds.",
+  "description": "Ambient with the soothing sounds of water, rain and birds. ",
   "name": "Nature Relaxation",
   "tracks": [
     {
@@ -2439,6 +2439,24 @@
     },
     {
       "album": {
+        "name": "Habitat",
+        "url": "https://open.spotify.com/album/7aOV06bE8iDApcqnE5Ov1X"
+      },
+      "artists": [
+        {
+          "name": "Decie Orion",
+          "url": "https://open.spotify.com/artist/6zcIuvn0dlOdvzljMJFZfO"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174074,
+      "name": "Habitat",
+      "url": "https://open.spotify.com/track/3SgW6ntZSJqtndVkHgCnNl"
+    },
+    {
+      "album": {
         "name": "Halfmoon",
         "url": "https://open.spotify.com/album/3f4dbs1Vhi3VBJ121oobzs"
       },
@@ -2720,7 +2738,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 178064,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/6U1eeDHeGzT9KHKwWfrHqF"
@@ -4096,6 +4114,24 @@
       "duration_ms": 168750,
       "name": "Prana",
       "url": "https://open.spotify.com/track/2I8w8s0lKS1ZT4onSKB7k7"
+    },
+    {
+      "album": {
+        "name": "Quiet Mist",
+        "url": "https://open.spotify.com/album/7ccIHSSph5aU2ILrApAONS"
+      },
+      "artists": [
+        {
+          "name": "Lake Nebula",
+          "url": "https://open.spotify.com/artist/2vrz4UIWYTyVEKZ3DubfRU"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139318,
+      "name": "Quiet Mist",
+      "url": "https://open.spotify.com/track/1bGwPUE5Y312J39hfnYhrg"
     },
     {
       "album": {
@@ -5864,7 +5900,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 159782,
       "name": "Weekend Sun",
       "url": "https://open.spotify.com/track/0XhSIil6uSW7uk1etKrY0v"

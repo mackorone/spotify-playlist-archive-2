@@ -1,6 +1,6 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Carolina Ross en portada \ud83d\udd25",
-  "num_followers": 5938,
+  "num_followers": 5974,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 175822,
+      "name": "Alma Enamorada",
+      "url": "https://open.spotify.com/track/4gLc3SHtuu2svpOByuYQX7"
+    },
+    {
+      "added_at": "2025-09-19 06:00:24",
+      "album": {
         "name": "Frijolero",
         "url": "https://open.spotify.com/album/32ZCsGPjMlkJ6zVGdlP1dF"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 213947,
       "name": "Frijolero",
       "url": "https://open.spotify.com/track/3VBmKu4v2vNRM4bnFK6yBh"
-    },
-    {
-      "added_at": "2025-09-19 06:00:24",
-      "album": {
-        "name": "Pa' Luego Es Tarde",
-        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 175822,
-      "name": "Alma Enamorada",
-      "url": "https://open.spotify.com/track/4gLc3SHtuu2svpOByuYQX7"
     },
     {
       "added_at": "2025-09-19 06:00:24",
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
-        "name": "Osa Mayor",
-        "url": "https://open.spotify.com/album/1xQZbA4mChm7D0X81X6yCc"
-      },
-      "artists": [
-        {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
-        }
-      ],
-      "duration_ms": 227194,
-      "name": "Locura Autom\u00e1tica",
-      "url": "https://open.spotify.com/track/6bBQaJ14zJooV1zvISFYEX"
-    },
-    {
-      "added_at": "2025-09-19 06:00:24",
-      "album": {
         "name": "Ll\u00e9vate",
         "url": "https://open.spotify.com/album/7MUSVV4fqHvAad5HZdy0kD"
       },
@@ -555,22 +539,6 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
-        "name": "La Misma Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 172013,
-      "name": "Ovarios",
-      "url": "https://open.spotify.com/track/5M0xCMnbD2gDUfhRo5pvlT"
-    },
-    {
-      "added_at": "2025-09-19 06:00:24",
-      "album": {
         "name": "Llorar Por Ella",
         "url": "https://open.spotify.com/album/5jNPRmMkTcajQi97ZmGWeV"
       },
@@ -591,18 +559,34 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
-        "name": "Por Puro Amor",
-        "url": "https://open.spotify.com/album/0WsszKdBU8ZgICPUvrvIb6"
+        "name": "La Misma Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5"
       },
       "artists": [
         {
-          "name": "Grupo Limite",
-          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 219693,
-      "name": "Con La Misma Piedra",
-      "url": "https://open.spotify.com/track/48YY9jYcCMqW6FiAZ5EmSb"
+      "duration_ms": 172013,
+      "name": "Ovarios",
+      "url": "https://open.spotify.com/track/5M0xCMnbD2gDUfhRo5pvlT"
+    },
+    {
+      "added_at": "2025-09-19 06:00:24",
+      "album": {
+        "name": "Osa Mayor",
+        "url": "https://open.spotify.com/album/1xQZbA4mChm7D0X81X6yCc"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "duration_ms": 227194,
+      "name": "Locura Autom\u00e1tica",
+      "url": "https://open.spotify.com/track/6bBQaJ14zJooV1zvISFYEX"
     },
     {
       "added_at": "2025-09-19 06:00:24",
@@ -619,6 +603,22 @@
       "duration_ms": 228187,
       "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
       "url": "https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td"
+    },
+    {
+      "added_at": "2025-09-19 06:00:24",
+      "album": {
+        "name": "Por Puro Amor",
+        "url": "https://open.spotify.com/album/0WsszKdBU8ZgICPUvrvIb6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Limite",
+          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
+        }
+      ],
+      "duration_ms": 219693,
+      "name": "Con La Misma Piedra",
+      "url": "https://open.spotify.com/track/48YY9jYcCMqW6FiAZ5EmSb"
     },
     {
       "added_at": "2025-09-19 06:00:24",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
-        "name": "Por Puro Amor",
-        "url": "https://open.spotify.com/album/0WsszKdBU8ZgICPUvrvIb6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Limite",
-          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
-        }
-      ],
-      "duration_ms": 177973,
-      "name": "Yo Sin Tu Amor",
-      "url": "https://open.spotify.com/track/1dRk52eZwBlyJVdPajfBp4"
-    },
-    {
-      "added_at": "2025-09-19 06:00:24",
-      "album": {
         "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
         "url": "https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 178378,
       "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
       "url": "https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu"
+    },
+    {
+      "added_at": "2025-09-19 06:00:24",
+      "album": {
+        "name": "Por Puro Amor",
+        "url": "https://open.spotify.com/album/0WsszKdBU8ZgICPUvrvIb6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Limite",
+          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
+        }
+      ],
+      "duration_ms": 177973,
+      "name": "Yo Sin Tu Amor",
+      "url": "https://open.spotify.com/track/1dRk52eZwBlyJVdPajfBp4"
     },
     {
       "added_at": "2025-09-19 06:00:24",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
-        "name": "Las Ferragamo",
-        "url": "https://open.spotify.com/album/7cej4aBlC3miNI8B6xHvnK"
-      },
-      "artists": [
-        {
-          "name": "Karly B",
-          "url": "https://open.spotify.com/artist/3PCKO6TlXIxF0T7l9NcsYr"
-        }
-      ],
-      "duration_ms": 156086,
-      "name": "Las Ferragamo",
-      "url": "https://open.spotify.com/track/2MDHHS0pQ1HN8m6o56VTwa"
-    },
-    {
-      "added_at": "2025-09-19 06:00:24",
-      "album": {
         "name": "Cuando Yo Quiera Has De Volver",
         "url": "https://open.spotify.com/album/3mcq4piDeCm7V7ehaXf5nw"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 212126,
       "name": "Cuando Yo Quiera Has De Volver",
       "url": "https://open.spotify.com/track/5wOLNXLmwy3Ki5mAMXH4hu"
+    },
+    {
+      "added_at": "2025-09-19 06:00:24",
+      "album": {
+        "name": "Las Ferragamo",
+        "url": "https://open.spotify.com/album/7cej4aBlC3miNI8B6xHvnK"
+      },
+      "artists": [
+        {
+          "name": "Karly B",
+          "url": "https://open.spotify.com/artist/3PCKO6TlXIxF0T7l9NcsYr"
+        }
+      ],
+      "duration_ms": 156086,
+      "name": "Las Ferragamo",
+      "url": "https://open.spotify.com/track/2MDHHS0pQ1HN8m6o56VTwa"
     },
     {
       "added_at": "2025-09-19 06:00:24",
@@ -955,38 +955,6 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
-        "name": "LA PENSI\u00d3N",
-        "url": "https://open.spotify.com/album/585xFnVpbV7V7zfsoUajH0"
-      },
-      "artists": [
-        {
-          "name": "Mariana Ochoa",
-          "url": "https://open.spotify.com/artist/5r3KBrwjeekt6CRjUG8rj9"
-        }
-      ],
-      "duration_ms": 162429,
-      "name": "LA PENSI\u00d3N",
-      "url": "https://open.spotify.com/track/7fj1OVzy2ef7yI2USTp7jI"
-    },
-    {
-      "added_at": "2025-09-19 06:00:24",
-      "album": {
-        "name": "Pudimos Ser",
-        "url": "https://open.spotify.com/album/23G1zBduWHN7UJl7oBLlwY"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 189920,
-      "name": "Pudimos Ser",
-      "url": "https://open.spotify.com/track/7fZtXjelhkJ1i5K8RzrriH"
-    },
-    {
-      "added_at": "2025-09-19 06:00:24",
-      "album": {
         "name": "Maldita Billetera",
         "url": "https://open.spotify.com/album/1ctchvx9rFJeAY41RvrvP8"
       },
@@ -1007,18 +975,34 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
-        "name": "Me Cuesta Tanto Olvidarte",
-        "url": "https://open.spotify.com/album/5fokdp1rjaQb5sVgJ7GCqQ"
+        "name": "Se Cancela La Llorada",
+        "url": "https://open.spotify.com/album/3MYlwwArC8cmf8ZpQcVaCv"
       },
       "artists": [
         {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
         }
       ],
-      "duration_ms": 173546,
-      "name": "Me Cuesta Tanto Olvidarte",
-      "url": "https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK"
+      "duration_ms": 180000,
+      "name": "Se Cancela La Llorada",
+      "url": "https://open.spotify.com/track/0Ny58e3o3Q2OtxidYpzAi1"
+    },
+    {
+      "added_at": "2025-09-19 06:00:24",
+      "album": {
+        "name": "LA PENSI\u00d3N",
+        "url": "https://open.spotify.com/album/585xFnVpbV7V7zfsoUajH0"
+      },
+      "artists": [
+        {
+          "name": "Mariana Ochoa",
+          "url": "https://open.spotify.com/artist/5r3KBrwjeekt6CRjUG8rj9"
+        }
+      ],
+      "duration_ms": 162429,
+      "name": "LA PENSI\u00d3N",
+      "url": "https://open.spotify.com/track/7fj1OVzy2ef7yI2USTp7jI"
     },
     {
       "added_at": "2025-09-19 06:00:24",
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
+        "name": "Me Cuesta Tanto Olvidarte",
+        "url": "https://open.spotify.com/album/5fokdp1rjaQb5sVgJ7GCqQ"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 173546,
+      "name": "Me Cuesta Tanto Olvidarte",
+      "url": "https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK"
+    },
+    {
+      "added_at": "2025-09-19 06:00:24",
+      "album": {
         "name": "No M\u00e1s Canciones De Amor",
         "url": "https://open.spotify.com/album/06OW44HrziPwbrneC0HrIQ"
       },
@@ -1055,8 +1055,8 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
-        "name": "Se Cancela La Llorada",
-        "url": "https://open.spotify.com/album/3MYlwwArC8cmf8ZpQcVaCv"
+        "name": "Pudimos Ser",
+        "url": "https://open.spotify.com/album/23G1zBduWHN7UJl7oBLlwY"
       },
       "artists": [
         {
@@ -1064,9 +1064,9 @@
           "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Se Cancela La Llorada",
-      "url": "https://open.spotify.com/track/0Ny58e3o3Q2OtxidYpzAi1"
+      "duration_ms": 189920,
+      "name": "Pudimos Ser",
+      "url": "https://open.spotify.com/track/7fZtXjelhkJ1i5K8RzrriH"
     },
     {
       "added_at": "2025-09-19 06:00:24",
@@ -1083,6 +1083,22 @@
       "duration_ms": 186245,
       "name": "Estan Lloviendo Lagrimas",
       "url": "https://open.spotify.com/track/4ojSnzH10PN0dxTr0eWtOt"
+    },
+    {
+      "added_at": "2025-09-19 06:00:24",
+      "album": {
+        "name": "Deja Que Salga la Luna (En Vivo)",
+        "url": "https://open.spotify.com/album/6ndaddkZnoMfm6Q1YXQ1qY"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        }
+      ],
+      "duration_ms": 197525,
+      "name": "Deja Que Salga la Luna - En Vivo",
+      "url": "https://open.spotify.com/track/5d4rgvM3J5aV9mY2OweosG"
     },
     {
       "added_at": "2025-09-19 06:00:24",
@@ -1107,6 +1123,22 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
+        "name": "A\u00fan As\u00ed Te Vas",
+        "url": "https://open.spotify.com/album/36lKTMRmTpeYxRrDa3M7CW"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 196960,
+      "name": "A\u00fan As\u00ed Te Vas",
+      "url": "https://open.spotify.com/track/0CCHkI9je8XDMd9T4hzxEP"
+    },
+    {
+      "added_at": "2025-09-19 06:00:24",
+      "album": {
         "name": "Doble T",
         "url": "https://open.spotify.com/album/4P6cszM5VvuNEqBRpSPfgs"
       },
@@ -1127,22 +1159,6 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
-        "name": "A\u00fan As\u00ed Te Vas",
-        "url": "https://open.spotify.com/album/36lKTMRmTpeYxRrDa3M7CW"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 196960,
-      "name": "A\u00fan As\u00ed Te Vas",
-      "url": "https://open.spotify.com/track/0CCHkI9je8XDMd9T4hzxEP"
-    },
-    {
-      "added_at": "2025-09-19 06:00:24",
-      "album": {
         "name": "El Cigarrillo",
         "url": "https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 219411,
       "name": "El Cigarrillo",
       "url": "https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI"
-    },
-    {
-      "added_at": "2025-09-19 06:00:24",
-      "album": {
-        "name": "Deja Que Salga la Luna (En Vivo)",
-        "url": "https://open.spotify.com/album/6ndaddkZnoMfm6Q1YXQ1qY"
-      },
-      "artists": [
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        }
-      ],
-      "duration_ms": 197525,
-      "name": "Deja Que Salga la Luna - En Vivo",
-      "url": "https://open.spotify.com/track/5d4rgvM3J5aV9mY2OweosG"
     },
     {
       "added_at": "2025-09-19 06:00:24",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
+        "name": "C\u00f3mo Le Hacen Los Dolidos",
+        "url": "https://open.spotify.com/album/0eLLMT6TGrsPZyyM8VBE9q"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "duration_ms": 166280,
+      "name": "C\u00f3mo Le Hacen Los Dolidos",
+      "url": "https://open.spotify.com/track/3hACkfWTkqO9XYfScnGjXp"
+    },
+    {
+      "added_at": "2025-09-19 06:00:24",
+      "album": {
         "name": "La Loca",
         "url": "https://open.spotify.com/album/0tiwesFTM7qpCT7k61Yu96"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 227160,
       "name": "La Loca",
       "url": "https://open.spotify.com/track/23VRMLWnOte5iYFbDSwwqD"
-    },
-    {
-      "added_at": "2025-09-19 06:00:24",
-      "album": {
-        "name": "C\u00f3mo Le Hacen Los Dolidos",
-        "url": "https://open.spotify.com/album/0eLLMT6TGrsPZyyM8VBE9q"
-      },
-      "artists": [
-        {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        }
-      ],
-      "duration_ms": 166280,
-      "name": "C\u00f3mo Le Hacen Los Dolidos",
-      "url": "https://open.spotify.com/track/3hACkfWTkqO9XYfScnGjXp"
     },
     {
       "added_at": "2025-09-19 06:00:24",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
-        "name": "Lo Que Dur\u00f3",
-        "url": "https://open.spotify.com/album/5sa2z5ZtVXCuFlV7kTyief"
-      },
-      "artists": [
-        {
-          "name": "Angelina Victoria",
-          "url": "https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL"
-        },
-        {
-          "name": "El Plan",
-          "url": "https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Lo Que Dur\u00f3",
-      "url": "https://open.spotify.com/track/5mFbqczcOiLSzO3fZ6XyBY"
-    },
-    {
-      "added_at": "2025-09-19 06:00:24",
-      "album": {
         "name": "La Gitanilla",
         "url": "https://open.spotify.com/album/63XjnfQ5amRVXAeEhIqJMA"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 234026,
       "name": "La Gitanilla",
       "url": "https://open.spotify.com/track/7jKkmzmUeVV4gbwALwp43w"
+    },
+    {
+      "added_at": "2025-09-19 06:00:24",
+      "album": {
+        "name": "Lo Que Dur\u00f3",
+        "url": "https://open.spotify.com/album/5sa2z5ZtVXCuFlV7kTyief"
+      },
+      "artists": [
+        {
+          "name": "Angelina Victoria",
+          "url": "https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL"
+        },
+        {
+          "name": "El Plan",
+          "url": "https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Lo Que Dur\u00f3",
+      "url": "https://open.spotify.com/track/5mFbqczcOiLSzO3fZ6XyBY"
     },
     {
       "added_at": "2025-09-19 06:00:24",

@@ -1,12 +1,12 @@
 {
   "description": "This is EARTHGANG. The essential tracks, all in one playlist.",
-  "num_followers": 22473,
+  "num_followers": 22474,
   "original_name": "This Is EARTHGANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaIwAAAAAAD8RKeTVbr3UknC0la2VLEn",
+  "snapshot_id": "aaOBgAAAAACzqNNO2N3SGmRW5gmdvrm/",
   "tracks": [
     {
       "added_at": null,
@@ -455,6 +455,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hypnotic Night",
+        "url": "https://open.spotify.com/album/1JNKtfVGZwigUkReb77vym"
+      },
+      "artists": [
+        {
+          "name": "Alissia",
+          "url": "https://open.spotify.com/artist/0yq0ZW3g1vX4Vsfz9wH7rO"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 217105,
+      "name": "Hypnotic Night",
+      "url": "https://open.spotify.com/track/6nHS2tNiKc7xIDkwFg7ldV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rags",
         "url": "https://open.spotify.com/album/6vWPa9ZBLjjh7jsG4hRskQ"
       },
@@ -511,30 +535,6 @@
       "duration_ms": 410733,
       "name": "Opium (feat. EARTHGANG)",
       "url": "https://open.spotify.com/track/4jNs9cJBsFTiahZAe3iuwV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hypnotic Night",
-        "url": "https://open.spotify.com/album/1JNKtfVGZwigUkReb77vym"
-      },
-      "artists": [
-        {
-          "name": "Alissia",
-          "url": "https://open.spotify.com/artist/0yq0ZW3g1vX4Vsfz9wH7rO"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 217105,
-      "name": "Hypnotic Night",
-      "url": "https://open.spotify.com/track/6nHS2tNiKc7xIDkwFg7ldV"
     },
     {
       "added_at": null,
@@ -1059,8 +1059,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "D-Day: A Gangsta Grillz Mixtape",
-        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
+        "name": "Revenge Of The Dreamers III: Director's Cut",
+        "url": "https://open.spotify.com/album/5PerfGh9Smd6XjwkxpmL4V"
       },
       "artists": [
         {
@@ -1068,13 +1068,21 @@
           "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
         },
         {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
         }
       ],
-      "duration_ms": 203419,
-      "name": "Everybody Ain\u2019t Shit (with EARTHGANG)",
-      "url": "https://open.spotify.com/track/5twFAWoVedKgYZrswt1JIn"
+      "duration_ms": 199706,
+      "name": "Up Up Away (with JID & EARTHGANG feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/6k6QKZTfsSkLcARPA3VY4D"
     },
     {
       "added_at": null,
@@ -1123,8 +1131,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revenge Of The Dreamers III: Director's Cut",
-        "url": "https://open.spotify.com/album/5PerfGh9Smd6XjwkxpmL4V"
+        "name": "D-Day: A Gangsta Grillz Mixtape",
+        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
       },
       "artists": [
         {
@@ -1132,21 +1140,13 @@
           "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
         },
         {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
         }
       ],
-      "duration_ms": 199706,
-      "name": "Up Up Away (with JID & EARTHGANG feat. Vince Staples)",
-      "url": "https://open.spotify.com/track/6k6QKZTfsSkLcARPA3VY4D"
+      "duration_ms": 203419,
+      "name": "Everybody Ain\u2019t Shit (with EARTHGANG)",
+      "url": "https://open.spotify.com/track/5twFAWoVedKgYZrswt1JIn"
     },
     {
       "added_at": null,
@@ -1167,8 +1167,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strays with Rabies",
-        "url": "https://open.spotify.com/album/3bYMVNcOHLDv2z6yWEl3yb"
+        "name": "PERFECT FANTASY",
+        "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
       },
       "artists": [
         {
@@ -1176,13 +1176,17 @@
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         },
         {
-          "name": "Mereba",
-          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 296586,
-      "name": "Liquor Sto'",
-      "url": "https://open.spotify.com/track/6fUHMhwKBSmetq2T1PvCKK"
+      "duration_ms": 180014,
+      "name": "U GOTTA (feat. Pharrell)",
+      "url": "https://open.spotify.com/track/6YIoAJ4zwvcEuQkMiluxuD"
     }
   ],
   "unique_name": "This Is EARTHGANG",

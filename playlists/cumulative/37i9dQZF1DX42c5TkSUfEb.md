@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-495 songs - 1 day 5 hr 59 min
+496 songs - 1 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Fortitude](https://open.spotify.com/track/77o7oAwo5OSbKvPBzvRwYR) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Eyes Closed](https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi) | 3:33 | 2023-07-04 | 2024-04-19 |
 | [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 | 2022-11-25 | 2023-12-14 |
 | [fragile](https://open.spotify.com/track/69MuLCdcWral54JcUz8b1R) | [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [fragile](https://open.spotify.com/album/6OUDpzfRLCwgMGoLGJctGY) | 2:44 | 2025-11-20 | 2025-12-26 |
-| [Free as a Bird](https://open.spotify.com/track/07miJxopLxBnXuMGyOSLXv) | [Soom T](https://open.spotify.com/artist/0Rb6PZXrcxvzixAwZwFmMu) | [Free as a Bird](https://open.spotify.com/album/6PE1Bl4C9sqAQdlmm5DrB6) | 3:29 | 2024-04-15 | 2026-02-09 |
+| [Free as a Bird](https://open.spotify.com/track/07miJxopLxBnXuMGyOSLXv) | [Soom T](https://open.spotify.com/artist/0Rb6PZXrcxvzixAwZwFmMu) | [Free as a Bird](https://open.spotify.com/album/6PE1Bl4C9sqAQdlmm5DrB6) | 3:29 | 2024-04-15 |  |
 | [Funny](https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Funny](https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2) | 5:02 | 2023-11-20 | 2024-02-09 |
 | [Future Ghosts](https://open.spotify.com/track/4qAgGrSjZGg1tpSk0wEslY) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Future Ghosts](https://open.spotify.com/album/7q8YXz7fBjSgE13ZsJEB8I) | 3:28 | 2024-03-27 | 2025-06-28 |
 | [Gaffe aux autres](https://open.spotify.com/track/05nHF22haxFM2aLYVUCHDe) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Carrousel](https://open.spotify.com/album/3qqBBlv9kDT4rDE1J3RvHR) | 2:57 | 2023-07-27 | 2024-04-19 |
@@ -232,6 +232,7 @@
 | [It's a Mirror](https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [It's a Mirror](https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz) | 3:32 | 2025-01-23 | 2025-02-21 |
 | [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 | 2022-11-25 |  |
 | [J'ai besoin de toi \- A COLORS SHOW](https://open.spotify.com/track/3XomyFTFwlXp7pdAJOLEAP) | [Ariane Bonzini](https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [J'ai besoin de toi \- A COLORS SHOW](https://open.spotify.com/album/4uLJaDz52N7VNGjxCA6XCM) | 2:45 | 2026-02-06 |  |
+| [Jamie](https://open.spotify.com/track/1CixWJUzpYMzFWkViPYcri) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Glory \(Extended\)](https://open.spotify.com/album/5ybA8BfD2SVzJQ0rwWIcCz) | 5:02 | 2026-02-27 |  |
 | [Jardin d'hiver](https://open.spotify.com/track/45gpJxviKRBsQo1lDZ03Xf) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [La Biographie de Luka Philipsen](https://open.spotify.com/album/02o4ipeZALU4EG2RX6d4Ip) | 2:58 | 2022-11-25 |  |
 | [Jellyfish](https://open.spotify.com/track/53tsjlGo2HHmaxDKlXB98N) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Jellyfish](https://open.spotify.com/album/5kq0opF9a7h4SFUurruWVE) | 2:55 | 2025-04-03 | 2025-04-18 |
 | [Jimmy](https://open.spotify.com/track/6Zw0NBdfr1VlVJjDRFwUe1) | [Moriarty](https://open.spotify.com/artist/0qG2Tf6fJaCuWKGz1IitKa) | [Gee Whiz But This Is a Lonesome Town](https://open.spotify.com/album/5XX0nXTLzjR16Eo7f1AhTK) | 4:24 | 2022-11-25 |  |
@@ -287,7 +288,7 @@
 | [Melodies \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/2zCQq1vH3QCPfPtrnxIxyK) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Melodies \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/30s9hkl9YEZDeQkl2dyV8c) | 2:37 | 2025-10-17 |  |
 | [Memory Be a Blade](https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00) | 3:41 | 2026-01-16 |  |
 | [Miedo](https://open.spotify.com/track/1yDWoHnVvqylR1KzqNsf2H) | [Clément Froissart](https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt) | [SANTS](https://open.spotify.com/album/50h53iM2tfUGmeCfSCvp6N) | 2:15 | 2024-07-25 | 2025-01-24 |
-| [mieux](https://open.spotify.com/track/6TT84kS4SrX4HX191MiTJK) | [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [failles](https://open.spotify.com/album/6ySc4l3npIPfkr9PyvRcgO) | 2:28 | 2026-01-30 |  |
+| [mieux](https://open.spotify.com/track/6TT84kS4SrX4HX191MiTJK) | [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [failles](https://open.spotify.com/album/6ySc4l3npIPfkr9PyvRcgO) | 2:28 | 2026-01-30 | 2026-03-03 |
 | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/album/7eD4M0bxUGIFRCi0wWhkbt) | 3:37 | 2025-07-18 |  |
 | [Mindjeris De Panu Pretu](https://open.spotify.com/track/3HNoSnEbANwYxnEJhLCjJC) | [José Carlos Schwarz & Le Cobiana Djazz](https://open.spotify.com/artist/2qSxbFBqHXTtYYHuCf6WPO) | [Lua Ki Di Nos](https://open.spotify.com/album/0eFyMfysvibs0VBZbla8lm) | 4:31 | 2024-04-15 | 2025-01-24 |
 | [Misread](https://open.spotify.com/track/3O090PYVo1do7s3PMCoVoz) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI) | 3:08 | 2023-01-27 | 2024-04-19 |
@@ -409,7 +410,7 @@
 | [Suburban House](https://open.spotify.com/track/676TvM26wVq88afbYDPRO3) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Suburban House](https://open.spotify.com/album/4rFmHomF53LoM6DGOSeOwA) | 3:49 | 2023-11-16 | 2024-03-28 |
 | [Suckerrr](https://open.spotify.com/track/0vjwvjTIr3xicvWyDbMRLm) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Suckerrr](https://open.spotify.com/album/5DI7QnyXRavy0QriWNciyp) | 2:39 | 2026-01-16 |  |
 | [Suffisamment](https://open.spotify.com/track/2G0jAoWT4mtcvsOyXaWzSt) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Suffisamment](https://open.spotify.com/album/5bYohHTjPB1Na7wcv5YRG3) | 3:46 | 2023-03-27 | 2023-04-06 |
-| [Sugar Clouds](https://open.spotify.com/track/4khcWhsdxVNvSQeNsIYDLM) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Sugar Clouds](https://open.spotify.com/album/6kLXkXhbZy8Jg1rv29kr2a) | 4:28 | 2025-11-28 |  |
+| [Sugar Clouds](https://open.spotify.com/track/4khcWhsdxVNvSQeNsIYDLM) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Sugar Clouds](https://open.spotify.com/album/6kLXkXhbZy8Jg1rv29kr2a) | 4:28 | 2025-11-28 | 2026-03-03 |
 | [Sugar Mountain](https://open.spotify.com/track/5Jt7FHiODNrKfzs82dhvSO) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Sugar Mountain](https://open.spotify.com/album/3P7ZwzzLmDouKiP82hDuKp) | 5:03 | 2025-04-25 | 2025-05-16 |
 | [Suis\-moi](https://open.spotify.com/track/3ZaNBvzdl0Zhn5sNJbDtOi) | [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Le Petit Prince \(Bande originale du film\)](https://open.spotify.com/album/6epIOxXmRWOLlxTjIgKG7k) | 3:26 | 2024-06-07 | 2024-12-10 |
 | [Summer & Smoke](https://open.spotify.com/track/6rKTRLs7GDQcNH0B37ce4l) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Summer & Smoke](https://open.spotify.com/album/4in3xmG3lzfXEnlEmrVZik) | 4:01 | 2023-05-25 | 2023-06-13 |

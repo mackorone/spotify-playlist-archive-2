@@ -4,7 +4,7 @@
 
 > Cover: ElGrandeToto
 
-485 songs - 1 day 1 hr 20 min
+486 songs - 1 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Amnésie](https://open.spotify.com/track/624UJb49U6Wtvoa7aj8nQ2) | [ZAKLOOW](https://open.spotify.com/artist/1YXtbOgnaz82aSuMnWSukx), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [SYMPHONY IX](https://open.spotify.com/album/4OvkJaCZiDU2MNTYxu91RG) | 2:44 | 2025-04-26 | 2025-10-18 |
 | [Ana Ola Nti](https://open.spotify.com/track/68uOiYbz5lJeTkoaHQq6KV) | [Iguidr](https://open.spotify.com/artist/6tjt10KbSIyUZEid47Kxbg), [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [Tifinagh](https://open.spotify.com/album/5mR5F4B7Yvmg6XeLJLUh3t) | 2:39 | 2024-07-12 | 2024-09-19 |
 | [Athena](https://open.spotify.com/track/2I7WsqOc6alpXv1Xr99vw1) | [Gustavo 51](https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY), [21 Tach](https://open.spotify.com/artist/728dZrvljhCFhPJZvsEtDc) | [Athena](https://open.spotify.com/album/44eZL4VQGBeAkiagwUFh5A) | 3:01 | 2024-02-15 | 2024-04-16 |
-| [AUTO](https://open.spotify.com/track/5gasiHOa0C3c7VK9rjoeeB) | [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [NIMBUS](https://open.spotify.com/album/5dr7h1lA75zTx4FoPE3SyG) | 2:56 | 2026-02-08 |  |
+| [AUTO](https://open.spotify.com/track/5gasiHOa0C3c7VK9rjoeeB) | [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [NIMBUS](https://open.spotify.com/album/5dr7h1lA75zTx4FoPE3SyG) | 2:56 | 2026-02-08 | 2026-03-03 |
 | [AUTOSTOP](https://open.spotify.com/track/7t0ArR3d5ThgTvA9yuH2ZK) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [AUTOSTOP](https://open.spotify.com/album/2nJt7tX1VHFk6mvkXd5RMD) | 3:45 | 2023-01-04 | 2023-01-14 |
 | [AZOUL V3](https://open.spotify.com/track/7mB6gUSK0aPPisiUA3czNV) | [KALIL](https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR) | [AZOUL V3](https://open.spotify.com/album/197mIxNXShd34q7VU71Him) | 2:20 | 2025-02-03 | 2025-02-13 |
 | [AZZARONE](https://open.spotify.com/track/3abddmnTqXlja9W2vD2YKi) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3), [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [AZZARONE](https://open.spotify.com/album/5pD0intO4i0a7TV7WefSiG) | 3:14 | 2024-04-08 | 2024-04-16 |
@@ -432,6 +432,7 @@
 | [TODO BENÉ \- Spotify Singles](https://open.spotify.com/track/5NN51zQh6lnnXPuIQu1cFd) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [TODO BENÉ \(Spotify Singles\)](https://open.spotify.com/album/47nX5KQ0W5gE2Pm5smHk9x) | 3:26 | 2023-12-07 | 2024-07-13 |
 | [Tou7chtk](https://open.spotify.com/track/1tGIVt8MeK4vhF9NWQ6IUs) | [Aujiss](https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt) | [AUJ](https://open.spotify.com/album/6rHJ1XmcqU0BHM2avkxBxx) | 2:47 | 2025-02-22 | 2025-09-11 |
 | [TP](https://open.spotify.com/track/0TqIRFzVdgqZrAhQaeED8j) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 4:13 | 2023-11-24 | 2024-02-23 |
+| [TRACES](https://open.spotify.com/track/2m0HY8YO0SZ10OmBNA1seb) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [TRACES & DAYEKH](https://open.spotify.com/album/7jBvEk7T55jJu0wL983Oam) | 2:57 | 2026-03-02 |  |
 | [Tragédie](https://open.spotify.com/track/7ihZF2gSB0Ppgp9GyAY9eI) | [Nezar](https://open.spotify.com/artist/3sUn8nsotkqOARVLiqofNu), [ViraCocha](https://open.spotify.com/artist/3mBAoEIAN6UdI3VMA1rltv) | [Tragédie](https://open.spotify.com/album/6sXcyPgBQKejKC6n0WWP6q) | 3:09 | 2025-01-13 | 2025-06-06 |
 | [Trap Roumi V2](https://open.spotify.com/track/1UCuu9ouBrppesU3JXe8b9) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Trap Roumi V2](https://open.spotify.com/album/0ULtzgEHEWKn2HBqivfRly) | 3:25 | 2023-07-13 | 2024-04-04 |
 | [trap roumi v4](https://open.spotify.com/track/7B9t8WX9T38Df93JHlywfk) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [trap roumi v4](https://open.spotify.com/album/2Q5AFjt3zvBLf5TR32oJfm) | 4:26 | 2022-12-31 | 2023-07-14 |

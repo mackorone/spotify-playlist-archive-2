@@ -1,6 +1,6 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 21609,
+  "num_followers": 21640,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
@@ -103,22 +103,6 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "Nobody Else But Me",
-        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 218746,
-      "name": "Little Girl Blue",
-      "url": "https://open.spotify.com/track/7l1z1abVjOLrhxo1FpfgDI"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
         "name": "Desmond Blue",
         "url": "https://open.spotify.com/album/6w6jA35lueTrk0l6sipJ58"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 279146,
       "name": "I've Got You Under My Skin - 2011 Remaster",
       "url": "https://open.spotify.com/track/3Pe0waDSznXfHHEmEGXU57"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
+        "name": "Nobody Else But Me",
+        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 218746,
+      "name": "Little Girl Blue",
+      "url": "https://open.spotify.com/track/7l1z1abVjOLrhxo1FpfgDI"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -419,6 +419,22 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
+        "name": "Body and Soul",
+        "url": "https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 248813,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/1ytWVUYZiVJq8FriPFtafJ"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
         "name": "Duke Ellington Meets Coleman Hawkins",
         "url": "https://open.spotify.com/album/0Kggi4r3OcApji9xJI3olG"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 315893,
       "name": "Limbo Jazz",
       "url": "https://open.spotify.com/track/4mEBuVqk5t9kxoXOW1fr3P"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
-        "name": "Body and Soul",
-        "url": "https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 248813,
-      "name": "They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/1ytWVUYZiVJq8FriPFtafJ"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -507,6 +507,22 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
+        "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
+        "url": "https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 219826,
+      "name": "Spring Is Here",
+      "url": "https://open.spotify.com/track/5UAcWV35tYopQFrPj7mH7j"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
         "name": "April In Paris: The Genius Of Charlie Parker #2",
         "url": "https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ"
       },
@@ -547,22 +563,6 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
-        "url": "https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "Spring Is Here",
-      "url": "https://open.spotify.com/track/5UAcWV35tYopQFrPj7mH7j"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
         "name": "'Round Midnight",
         "url": "https://open.spotify.com/album/4xwaeLH44zzZQdxWUZPg3V"
       },
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "Backlash",
-        "url": "https://open.spotify.com/album/3pZiA4rrKQQP8ZXDAafgYj"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 401226,
-      "name": "Up Jumped Spring",
-      "url": "https://open.spotify.com/track/0Ym1XHuFUolBWg6pTZHarn"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
         "name": "I'll Be Seeing You",
         "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 477973,
       "name": "Smile",
       "url": "https://open.spotify.com/track/1hdDf2KsMhh8DvCsZ5IUNM"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
+        "name": "Backlash",
+        "url": "https://open.spotify.com/album/3pZiA4rrKQQP8ZXDAafgYj"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 401226,
+      "name": "Up Jumped Spring",
+      "url": "https://open.spotify.com/track/0Ym1XHuFUolBWg6pTZHarn"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -859,6 +859,22 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
+        "name": "That Bad Eartha",
+        "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
+      },
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        }
+      ],
+      "duration_ms": 174573,
+      "name": "Avril au Portugal",
+      "url": "https://open.spotify.com/track/11ephJHUUPlf7KrQiM05ic"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
         "name": "Travelin'",
         "url": "https://open.spotify.com/album/6pOPaRqCpE0X8aJN1lvXD5"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 228403,
       "name": "On a Turquoise Cloud",
       "url": "https://open.spotify.com/track/1XrEY8nz2P4L9rVoq9MdXs"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
-        "name": "That Bad Eartha",
-        "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
-      },
-      "artists": [
-        {
-          "name": "Eartha Kitt",
-          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
-        }
-      ],
-      "duration_ms": 174573,
-      "name": "Avril au Portugal",
-      "url": "https://open.spotify.com/track/11ephJHUUPlf7KrQiM05ic"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -975,6 +975,34 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
+        "name": "Some Other Time",
+        "url": "https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg"
+      },
+      "artists": [
+        {
+          "name": "Connie Lansberg",
+          "url": "https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A"
+        },
+        {
+          "name": "Mark Fitzgibbon",
+          "url": "https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB"
+        },
+        {
+          "name": "Ben Hanlon",
+          "url": "https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY"
+        },
+        {
+          "name": "Peter Hodges",
+          "url": "https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh"
+        }
+      ],
+      "duration_ms": 207895,
+      "name": "Some Other Time",
+      "url": "https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
         "name": "Happyfeet",
         "url": "https://open.spotify.com/album/384kvE6BvSyX2mghUSW7FP"
       },
@@ -987,26 +1015,6 @@
       "duration_ms": 400980,
       "name": "Joy Spring",
       "url": "https://open.spotify.com/track/4wy9xl0qIefHzCyFP92oBE"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
-        "name": "I'll Be Seeing You",
-        "url": "https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv"
-      },
-      "artists": [
-        {
-          "name": "Cyrille Aimee",
-          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
-        },
-        {
-          "name": "Michael Valeanu",
-          "url": "https://open.spotify.com/artist/0vFN32ckvgv3IY3g9L1Nbv"
-        }
-      ],
-      "duration_ms": 310505,
-      "name": "Bye Bye Blackbird",
-      "url": "https://open.spotify.com/track/1I2V94ah55zM9dsNDErzDg"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -1035,46 +1043,22 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "The Sound the Rhythm",
-        "url": "https://open.spotify.com/album/1vyIqrS1y7Cv0tIJcIPBMC"
+        "name": "I'll Be Seeing You",
+        "url": "https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv"
       },
       "artists": [
         {
-          "name": "Jan Harbeck Quartet",
-          "url": "https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x"
+          "name": "Cyrille Aimee",
+          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
+        },
+        {
+          "name": "Michael Valeanu",
+          "url": "https://open.spotify.com/artist/0vFN32ckvgv3IY3g9L1Nbv"
         }
       ],
-      "duration_ms": 444573,
-      "name": "Tangorrus Field",
-      "url": "https://open.spotify.com/track/0tJ5RazKORwxkHbJRDQ8nj"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
-        "name": "Some Other Time",
-        "url": "https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg"
-      },
-      "artists": [
-        {
-          "name": "Connie Lansberg",
-          "url": "https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A"
-        },
-        {
-          "name": "Mark Fitzgibbon",
-          "url": "https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB"
-        },
-        {
-          "name": "Ben Hanlon",
-          "url": "https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY"
-        },
-        {
-          "name": "Peter Hodges",
-          "url": "https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh"
-        }
-      ],
-      "duration_ms": 207895,
-      "name": "Some Other Time",
-      "url": "https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ"
+      "duration_ms": 310505,
+      "name": "Bye Bye Blackbird",
+      "url": "https://open.spotify.com/track/1I2V94ah55zM9dsNDErzDg"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -1111,6 +1095,22 @@
       "duration_ms": 177586,
       "name": "My Heart Stood Still",
       "url": "https://open.spotify.com/track/5q91yKtiubyJEFaaEvDJCD"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
+        "name": "The Sound the Rhythm",
+        "url": "https://open.spotify.com/album/1vyIqrS1y7Cv0tIJcIPBMC"
+      },
+      "artists": [
+        {
+          "name": "Jan Harbeck Quartet",
+          "url": "https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x"
+        }
+      ],
+      "duration_ms": 444573,
+      "name": "Tangorrus Field",
+      "url": "https://open.spotify.com/track/0tJ5RazKORwxkHbJRDQ8nj"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "Incredible Jazz Guitar",
-        "url": "https://open.spotify.com/album/74kBIzv8E0CG5V6qx5ytm2"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 381560,
-      "name": "Gone With The Wind",
-      "url": "https://open.spotify.com/track/5IBREbYRb8KyBIu1TyxDXq"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
         "name": "Because I Love You",
         "url": "https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5"
       },
@@ -1255,6 +1239,54 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
+        "name": "From Here I See",
+        "url": "https://open.spotify.com/album/2zmbP9vz9Bwx1SCHgkPzTc"
+      },
+      "artists": [
+        {
+          "name": "Ben Wolfe",
+          "url": "https://open.spotify.com/artist/7A1xxtVfUahU8u7Z4kKFRC"
+        }
+      ],
+      "duration_ms": 248666,
+      "name": "Who's Lily?",
+      "url": "https://open.spotify.com/track/44ZlML36cTMW7U2MhW5AFU"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
+        "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/74kBIzv8E0CG5V6qx5ytm2"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 381560,
+      "name": "Gone With The Wind",
+      "url": "https://open.spotify.com/track/5IBREbYRb8KyBIu1TyxDXq"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
+        "name": "Just Us, Just We",
+        "url": "https://open.spotify.com/album/5lYCaNdWLMa6TF9VHyPYHP"
+      },
+      "artists": [
+        {
+          "name": "Shaymus Hanlin Quartet",
+          "url": "https://open.spotify.com/artist/3EZijApK2Jti32JDC1HXAO"
+        }
+      ],
+      "duration_ms": 202570,
+      "name": "Almost Like Being in Love",
+      "url": "https://open.spotify.com/track/0TmcK78lgDPxklkbUlV98O"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
         "name": "Den milde dag er lys og lang",
         "url": "https://open.spotify.com/album/0Frkq00BPaD1CBG5FESjRC"
       },
@@ -1279,38 +1311,6 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "Just Us, Just We",
-        "url": "https://open.spotify.com/album/5lYCaNdWLMa6TF9VHyPYHP"
-      },
-      "artists": [
-        {
-          "name": "Shaymus Hanlin Quartet",
-          "url": "https://open.spotify.com/artist/3EZijApK2Jti32JDC1HXAO"
-        }
-      ],
-      "duration_ms": 202570,
-      "name": "Almost Like Being in Love",
-      "url": "https://open.spotify.com/track/0TmcK78lgDPxklkbUlV98O"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
-        "name": "From Here I See",
-        "url": "https://open.spotify.com/album/2zmbP9vz9Bwx1SCHgkPzTc"
-      },
-      "artists": [
-        {
-          "name": "Ben Wolfe",
-          "url": "https://open.spotify.com/artist/7A1xxtVfUahU8u7Z4kKFRC"
-        }
-      ],
-      "duration_ms": 248666,
-      "name": "Who's Lily?",
-      "url": "https://open.spotify.com/track/44ZlML36cTMW7U2MhW5AFU"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
         "name": "Your Songs",
         "url": "https://open.spotify.com/album/38iX1KFM9RtgHceJEU5mMd"
       },
@@ -1327,22 +1327,18 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "It Happens Like That",
-        "url": "https://open.spotify.com/album/6GIr6kHBasx66WNSl4l8FD"
+        "name": "No Bounds",
+        "url": "https://open.spotify.com/album/2PYZhybffUNK3dMUOu1NIC"
       },
       "artists": [
         {
-          "name": "Katherine Kostoff",
-          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
-        },
-        {
-          "name": "Gil Goldstein",
-          "url": "https://open.spotify.com/artist/59bgiWWmCiIfBkzZ8URC1Q"
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
         }
       ],
-      "duration_ms": 211621,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/2WNrH1N4HprO6pY8Yuydh8"
+      "duration_ms": 287680,
+      "name": "East of The Sun",
+      "url": "https://open.spotify.com/track/3Vh2UKxOL8IX3fKRjVEPMe"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -1371,18 +1367,22 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "No Bounds",
-        "url": "https://open.spotify.com/album/2PYZhybffUNK3dMUOu1NIC"
+        "name": "It Happens Like That",
+        "url": "https://open.spotify.com/album/6GIr6kHBasx66WNSl4l8FD"
       },
       "artists": [
         {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+          "name": "Katherine Kostoff",
+          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
+        },
+        {
+          "name": "Gil Goldstein",
+          "url": "https://open.spotify.com/artist/59bgiWWmCiIfBkzZ8URC1Q"
         }
       ],
-      "duration_ms": 287680,
-      "name": "East of The Sun",
-      "url": "https://open.spotify.com/track/3Vh2UKxOL8IX3fKRjVEPMe"
+      "duration_ms": 211621,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/2WNrH1N4HprO6pY8Yuydh8"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -1399,34 +1399,6 @@
       "duration_ms": 179906,
       "name": "I Can't Be Bothered Now",
       "url": "https://open.spotify.com/track/03IDpwMNgvxcrCo6SwZxlX"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
-        "name": "I'm Glad There Is You",
-        "url": "https://open.spotify.com/album/2C6nFIz4Dc9zkXldL1cxbl"
-      },
-      "artists": [
-        {
-          "name": "Heidi Skjerve",
-          "url": "https://open.spotify.com/artist/7yQwGCbUgmOy5uK5GpqUQB"
-        },
-        {
-          "name": "Daniel Formo",
-          "url": "https://open.spotify.com/artist/1TE9dWxNyEb7IHOyJRFHLz"
-        },
-        {
-          "name": "Bj\u00f8rn Marius Hegge",
-          "url": "https://open.spotify.com/artist/0iXjovxW8QucGrQeA8KzKj"
-        },
-        {
-          "name": "H\u00e5kon Mj\u00e5set Johansen",
-          "url": "https://open.spotify.com/artist/34geeAnKKUjjNBe6byjL5I"
-        }
-      ],
-      "duration_ms": 259880,
-      "name": "I'll Be Seeing You",
-      "url": "https://open.spotify.com/track/19DtZpLaBGZHQARScc4c5F"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -1459,22 +1431,30 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "We've Just Begun",
-        "url": "https://open.spotify.com/album/4bLp5hTNAS8EiwIxeSakwE"
+        "name": "I'm Glad There Is You",
+        "url": "https://open.spotify.com/album/2C6nFIz4Dc9zkXldL1cxbl"
       },
       "artists": [
         {
-          "name": "Sinne Eeg",
-          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
+          "name": "Heidi Skjerve",
+          "url": "https://open.spotify.com/artist/7yQwGCbUgmOy5uK5GpqUQB"
         },
         {
-          "name": "The Danish Radio Big Band",
-          "url": "https://open.spotify.com/artist/7ztGJv7tQJ33cm44UcNGoE"
+          "name": "Daniel Formo",
+          "url": "https://open.spotify.com/artist/1TE9dWxNyEb7IHOyJRFHLz"
+        },
+        {
+          "name": "Bj\u00f8rn Marius Hegge",
+          "url": "https://open.spotify.com/artist/0iXjovxW8QucGrQeA8KzKj"
+        },
+        {
+          "name": "H\u00e5kon Mj\u00e5set Johansen",
+          "url": "https://open.spotify.com/artist/34geeAnKKUjjNBe6byjL5I"
         }
       ],
-      "duration_ms": 401235,
-      "name": "Comes Love",
-      "url": "https://open.spotify.com/track/5dJ2bMErk0WLMyyLsVt0wc"
+      "duration_ms": 259880,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/19DtZpLaBGZHQARScc4c5F"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -1499,6 +1479,26 @@
       "duration_ms": 466973,
       "name": "Shallow Waters",
       "url": "https://open.spotify.com/track/0Q3LZbJerwYufO4DfOfZ56"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
+        "name": "We've Just Begun",
+        "url": "https://open.spotify.com/album/4bLp5hTNAS8EiwIxeSakwE"
+      },
+      "artists": [
+        {
+          "name": "Sinne Eeg",
+          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
+        },
+        {
+          "name": "The Danish Radio Big Band",
+          "url": "https://open.spotify.com/artist/7ztGJv7tQJ33cm44UcNGoE"
+        }
+      ],
+      "duration_ms": 401235,
+      "name": "Comes Love",
+      "url": "https://open.spotify.com/track/5dJ2bMErk0WLMyyLsVt0wc"
     },
     {
       "added_at": "2026-02-17 14:09:55",

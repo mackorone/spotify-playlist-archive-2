@@ -1,6 +1,6 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 297238,
+  "num_followers": 297331,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
@@ -27,18 +27,18 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "O Me Voy O Te Vas",
-        "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
+        "name": "Inalcanzable",
+        "url": "https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 242133,
-      "name": "O Me Voy O Te Vas",
-      "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
+      "duration_ms": 248560,
+      "name": "Acepto Mi Derrota",
+      "url": "https://open.spotify.com/track/3FKDvQRZImg9cl1jcaQiHX"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -59,18 +59,18 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Inalcanzable",
-        "url": "https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF"
+        "name": "O Me Voy O Te Vas",
+        "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
       },
       "artists": [
         {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 248560,
-      "name": "Acepto Mi Derrota",
-      "url": "https://open.spotify.com/track/3FKDvQRZImg9cl1jcaQiHX"
+      "duration_ms": 242133,
+      "name": "O Me Voy O Te Vas",
+      "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -107,6 +107,22 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
+        "name": "Y Para Siempre ...",
+        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 208066,
+      "name": "A Donde Vayas",
+      "url": "https://open.spotify.com/track/3yb8pakJMZzfiK7siLZLUM"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
         "name": "Tu Amor O Tu Desprecio",
         "url": "https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 242413,
       "name": "Tu Carcel - En Vivo",
       "url": "https://open.spotify.com/track/1lAFWiaVhJhvQ5Gtzp6vSu"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
-        "name": "Y Para Siempre ...",
-        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 208066,
-      "name": "A Donde Vayas",
-      "url": "https://open.spotify.com/track/3yb8pakJMZzfiK7siLZLUM"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -187,38 +187,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Marco Antonio Solis",
-        "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "La Venia Bendita",
-      "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
-        "name": "Arde El Cielo",
-        "url": "https://open.spotify.com/album/2yvMWRuWOjzY1OhZfJfC96"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 270946,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/0fHhIm7n240IlhbrYGKZXH"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Quiereme",
         "url": "https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6"
       },
@@ -231,6 +199,22 @@
       "duration_ms": 247840,
       "name": "Qui\u00e9reme",
       "url": "https://open.spotify.com/track/6o9ODcGxMPFZDjdS7z3VpN"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Marco Antonio Solis",
+        "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "La Venia Bendita",
+      "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -251,6 +235,22 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
+        "name": "Arde El Cielo",
+        "url": "https://open.spotify.com/album/2yvMWRuWOjzY1OhZfJfC96"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 270946,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/0fHhIm7n240IlhbrYGKZXH"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
         "name": "Como Tu Mujer",
         "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
       },
@@ -263,6 +263,22 @@
       "duration_ms": 178426,
       "name": "Ya Te Olvid\u00e9",
       "url": "https://open.spotify.com/track/7fYr68C6tRUsGIym4poraT"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Me Volvi A Acordar De Ti",
+        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 212226,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -303,22 +319,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Me Volvi A Acordar De Ti",
-        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 212226,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Los Besos No Se Dan En La Camisa",
         "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
       },
@@ -355,6 +355,22 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
+        "name": "Y Para Siempre ...",
+        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 269760,
+      "name": "Como Fui A Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/6CxvpsqUxUD5xSrYCA8JHr"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
         "name": "En Total Plenitud",
         "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 237400,
       "name": "Recuerdos, Tristeza Y Soledad",
       "url": "https://open.spotify.com/track/4FjZvGHJpFLJIZxCpsoRnP"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
-        "name": "Y Para Siempre ...",
-        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 269760,
-      "name": "Como Fui A Enamorarme De Ti",
-      "url": "https://open.spotify.com/track/6CxvpsqUxUD5xSrYCA8JHr"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -447,26 +447,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Por Amor A Mi Pueblo",
-        "url": "https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        },
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 210653,
-      "name": "Una Mujer Como T\u00fa",
-      "url": "https://open.spotify.com/track/5KT4EniEaaf3Mn6uAVL2sh"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Joyas Prestadas - Banda",
         "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
       },
@@ -487,6 +467,26 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
+        "name": "Por Amor A Mi Pueblo",
+        "url": "https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        },
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 210653,
+      "name": "Una Mujer Como T\u00fa",
+      "url": "https://open.spotify.com/track/5KT4EniEaaf3Mn6uAVL2sh"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
         "name": "Yo Vendo Unos Ojos Verdes",
         "url": "https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ"
       },
@@ -499,22 +499,6 @@
       "duration_ms": 197400,
       "name": "Prefiero Partir",
       "url": "https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
-        "name": "Las Preferidas, Vol. 2 (En vivo)",
-        "url": "https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 188917,
-      "name": "Yo Te Necesito - En vivo",
-      "url": "https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -535,6 +519,22 @@
       "duration_ms": 187250,
       "name": "Cuando Te Acuerdes De Mi (En Vivo)",
       "url": "https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Las Preferidas, Vol. 2 (En vivo)",
+        "url": "https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 188917,
+      "name": "Yo Te Necesito - En vivo",
+      "url": "https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 187440,
-      "name": "Si Tu Te Fueras De Mi",
-      "url": "https://open.spotify.com/track/6WssB2o4BjzHzJMl7qprYg"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
         "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 252026,
       "name": "M\u00e1s Que Tu Amigo",
       "url": "https://open.spotify.com/track/3kiUwC7AzDzGNYzy27QIhN"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 187440,
+      "name": "Si Tu Te Fueras De Mi",
+      "url": "https://open.spotify.com/track/6WssB2o4BjzHzJMl7qprYg"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -659,26 +659,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles Negros",
-          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
-        },
-        {
-          "name": "Jos\u00e9 Maria Napole\u00f3n",
-          "url": "https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "Yo Te Necesito",
-      "url": "https://open.spotify.com/track/4dlJmzbFkjvut4QjJM8LPe"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Joyas Prestadas - Pop",
         "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 253000,
       "name": "Basta Ya - Pop",
       "url": "https://open.spotify.com/track/726JxH4rjuSfeYjtZBKp5w"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Todos Somos MAS",
+        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+        },
+        {
+          "name": "Jos\u00e9 Maria Napole\u00f3n",
+          "url": "https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "Yo Te Necesito",
+      "url": "https://open.spotify.com/track/4dlJmzbFkjvut4QjJM8LPe"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -979,38 +979,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Barra Abierta a los Dolidos... (En Vivo)",
-        "url": "https://open.spotify.com/album/31Dhjy2qlvaPwURQfQQ1Mc"
-      },
-      "artists": [
-        {
-          "name": "Alta Consigna",
-          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
-        }
-      ],
-      "duration_ms": 236835,
-      "name": "A Donde Vayas (En Vivo)",
-      "url": "https://open.spotify.com/track/2O8jEh0CMGuMRnB4zmfY2y"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
-        "name": "La Mas Completa Coleccion (Disco 1)",
-        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 196986,
-      "name": "Sigue Sin Mi",
-      "url": "https://open.spotify.com/track/0SrxRhhNIhyTx0wLTl4zCt"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1023,6 +991,22 @@
       "duration_ms": 205373,
       "name": "Inv\u00e9ntame",
       "url": "https://open.spotify.com/track/1yTl2UvjZFPUVE8ugKQdOY"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Barra Abierta a los Dolidos... (En Vivo)",
+        "url": "https://open.spotify.com/album/31Dhjy2qlvaPwURQfQQ1Mc"
+      },
+      "artists": [
+        {
+          "name": "Alta Consigna",
+          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
+        }
+      ],
+      "duration_ms": 236835,
+      "name": "A Donde Vayas (En Vivo)",
+      "url": "https://open.spotify.com/track/2O8jEh0CMGuMRnB4zmfY2y"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1043,6 +1027,22 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
+        "name": "La Mas Completa Coleccion (Disco 1)",
+        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 196986,
+      "name": "Sigue Sin Mi",
+      "url": "https://open.spotify.com/track/0SrxRhhNIhyTx0wLTl4zCt"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
         "name": "Crossroads: Cruce De Caminos",
         "url": "https://open.spotify.com/album/7EFhuR6QqqpZdllkobOCGf"
       },
@@ -1055,38 +1055,6 @@
       "duration_ms": 186826,
       "name": "Nada Es Igual",
       "url": "https://open.spotify.com/track/3FPyEh683Et820zkVWHBoB"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
-        "name": "Mi Eterno Amor Secreto (En Vivo)",
-        "url": "https://open.spotify.com/album/1uvg6zk4qCvm9oOrt73Dmi"
-      },
-      "artists": [
-        {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
-        }
-      ],
-      "duration_ms": 233728,
-      "name": "Mi Eterno Amor Secreto (En Vivo)",
-      "url": "https://open.spotify.com/track/6u6d57Let06W838gmh7XKB"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
-        "name": "La Mas Completa Coleccion (Disco 1)",
-        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Para Que No Te Vayas",
-      "url": "https://open.spotify.com/track/2WMgMvIKhQW6LmkSCA5Ct6"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1107,6 +1075,22 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
+        "name": "Mi Eterno Amor Secreto (En Vivo)",
+        "url": "https://open.spotify.com/album/1uvg6zk4qCvm9oOrt73Dmi"
+      },
+      "artists": [
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        }
+      ],
+      "duration_ms": 233728,
+      "name": "Mi Eterno Amor Secreto (En Vivo)",
+      "url": "https://open.spotify.com/track/6u6d57Let06W838gmh7XKB"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
         "name": "Como Tu Mujer",
         "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 229733,
       "name": "C\u00f3mo Me Duele Irte Perdiendo",
       "url": "https://open.spotify.com/track/0TRLsi0C8rLgSWjPhpFnwz"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "La Mas Completa Coleccion (Disco 1)",
+        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 194506,
+      "name": "Arrepentida Y Sola",
+      "url": "https://open.spotify.com/track/2aAZ9PgtyKuUHrWgLfxxmX"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 210680,
-      "name": "M\u00e1s Que Tu Amigo",
-      "url": "https://open.spotify.com/track/1ZdXOEAEcOt3gwB71vYCie"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "La Mina Verde",
         "url": "https://open.spotify.com/album/0eg7jZirIdHq0Ra3wfZHhG"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 204019,
       "name": "El Celoso",
       "url": "https://open.spotify.com/track/58PlhLYOXl1aOLDHzbIpDA"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Todos Somos MAS",
+        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 210680,
+      "name": "M\u00e1s Que Tu Amigo",
+      "url": "https://open.spotify.com/track/1ZdXOEAEcOt3gwB71vYCie"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1432,9 +1432,9 @@
           "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
         }
       ],
-      "duration_ms": 189280,
-      "name": "Mi Najayita",
-      "url": "https://open.spotify.com/track/5MZCiR2Xx5ljwiseVVU87N"
+      "duration_ms": 174533,
+      "name": "Poquito A Poco",
+      "url": "https://open.spotify.com/track/0J0N6Jp94JyjDgtnuuQaVi"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1512,9 +1512,9 @@
           "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
         }
       ],
-      "duration_ms": 174533,
-      "name": "Poquito A Poco",
-      "url": "https://open.spotify.com/track/0J0N6Jp94JyjDgtnuuQaVi"
+      "duration_ms": 189280,
+      "name": "Mi Najayita",
+      "url": "https://open.spotify.com/track/5MZCiR2Xx5ljwiseVVU87N"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
+        "name": "Encerrados Pero Enfiestados (Live Vol. 2)",
+        "url": "https://open.spotify.com/album/3TKjCQA01ou9kAAYaXWZ2e"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 235813,
+      "name": "Mi Eterno Amor Secreto",
+      "url": "https://open.spotify.com/track/6xQRigdALidNyqzQUM6m0A"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
         "name": "En Vida",
         "url": "https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 193240,
       "name": "Pero Te Vas A Arrepentir",
       "url": "https://open.spotify.com/track/6DWA4R2XGw2jY5xTZKpvl5"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
-        "name": "Encerrados Pero Enfiestados (Live Vol. 2)",
-        "url": "https://open.spotify.com/album/3TKjCQA01ou9kAAYaXWZ2e"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 235813,
-      "name": "Mi Eterno Amor Secreto",
-      "url": "https://open.spotify.com/track/6xQRigdALidNyqzQUM6m0A"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1816,9 +1816,9 @@
           "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
         }
       ],
-      "duration_ms": 194506,
-      "name": "Arrepentida Y Sola",
-      "url": "https://open.spotify.com/track/2aAZ9PgtyKuUHrWgLfxxmX"
+      "duration_ms": 196800,
+      "name": "Para Que No Te Vayas",
+      "url": "https://open.spotify.com/track/2WMgMvIKhQW6LmkSCA5Ct6"
     },
     {
       "added_at": "2025-01-23 17:30:18",

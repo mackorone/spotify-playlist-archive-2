@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124264,
+  "num_followers": 124267,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVLkqbdj20YoxIhtN+D+l2kbzPkwQ4",
+  "snapshot_id": "AAAVLyvAPTsomP+sqhtpT8fWVLARowWm",
   "tracks": [
+    {
+      "added_at": "2026-03-02 15:37:56",
+      "album": {
+        "name": "Reach the Stars",
+        "url": "https://open.spotify.com/album/0HR642fJvn12DNwlEQQKUY"
+      },
+      "artists": [
+        {
+          "name": "ROY KNOX",
+          "url": "https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3"
+        }
+      ],
+      "duration_ms": 215131,
+      "name": "Reach the Stars",
+      "url": "https://open.spotify.com/track/4eyzYTELBYQBtOOr9PZxNF"
+    },
     {
       "added_at": "2026-02-27 15:11:54",
       "album": {

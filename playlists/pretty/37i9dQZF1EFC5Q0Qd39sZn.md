@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,921 likes - 580 songs - 1 day 16 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,928 likes - 580 songs - 1 day 16 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 126 | [Turn On The Night](https://open.spotify.com/track/3L5dCw2G1sNtAaZ0cqUBnY) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Crazy Nights](https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN) | 3:18 |
 | 127 | [Bruised But Not Broken](https://open.spotify.com/track/5mxBzblbenmVm7C6wh5ulc) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Introducing Joss Stone](https://open.spotify.com/album/3VD9HPEpnbbNMIg05avkIk) | 4:15 |
 | 128 | [Sarai qui](https://open.spotify.com/track/3p0tUvqwfaypMhK6wVcjKl) | [Alessandro Safina](https://open.spotify.com/artist/5ITJs06INM9JWxK5hROEj3), [Sarah Brightman](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) | [Dedicated](https://open.spotify.com/album/7F6JXUZ6PEaz53NbFrVMDv) | 3:57 |
-| 129 | [Rocket](https://open.spotify.com/track/36dvcjzeono5E1n2hqRJpZ) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [Battleground \(Deluxe Edition\)](https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N) | 3:15 |
-| 130 | [Set the Night to Music](https://open.spotify.com/track/3tf0iRfyJd4eYqs1Dn1w79) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [No Protection](https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J) | 4:47 |
+| 129 | [Set the Night to Music](https://open.spotify.com/track/3tf0iRfyJd4eYqs1Dn1w79) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [No Protection](https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J) | 4:47 |
+| 130 | [Rocket](https://open.spotify.com/track/36dvcjzeono5E1n2hqRJpZ) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [Battleground \(Deluxe Edition\)](https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N) | 3:15 |
 | 131 | [Flaws](https://open.spotify.com/track/57GQvTsith6MEe4jpjvBqQ) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [GRACELAND](https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S) | 3:04 |
 | 132 | [Animal Crackers](https://open.spotify.com/track/7MLtoeFx1XO3BDsEWAX6Nc) | [Steven Tyler](https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o) | [I Don't Want To Miss A Thing EP](https://open.spotify.com/album/3fk5Yk62Lekng4NQ89980F) | 2:35 |
 | 133 | [Completely](https://open.spotify.com/track/1ZnwFwzQoFno1T2aYzVDmr) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The One Thing](https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX) | 4:24 |
@@ -265,8 +265,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 255 | [Rescue](https://open.spotify.com/track/0U8mYB7HCn5JOKdK6Z3FGp) | [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [Seventy Two & Sunny](https://open.spotify.com/album/2zZwVIJj6sknvA1Fn4zhhQ) | 4:04 |
 | 256 | [How Do I Live \(Plié\)](https://open.spotify.com/track/1VWZBRhJCy2TAQBO9nryWi) | [Nate Fifield](https://open.spotify.com/artist/1G1Aqwpne900Zzhw3nxNol) | [Pop Hits for Ballet Class, Vol\. 1](https://open.spotify.com/album/2hS9jwGmDYaQiZAZdoJTnf) | 3:41 |
 | 257 | [It's My Time \- Radio Edit](https://open.spotify.com/track/0q1PTDRFl64tIskcoIs2EO) | [Jade Ewen](https://open.spotify.com/artist/7u44AAgf8SNIq2Kdw23vHD) | [It's My Time \(International Version\)](https://open.spotify.com/album/4wWVKiMSwH6tyf5kS4JMrM) | 3:17 |
-| 258 | [Me Leve Com Você](https://open.spotify.com/track/6ILEjq8z3T80lt4Onfi3l7) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Sandy & Júnior](https://open.spotify.com/album/7IEHSL719POBQXuI0m4Tu3) | 4:07 |
-| 259 | [Can't Stop My Heart From Loving You \(The Rain Song\)](https://open.spotify.com/track/1SdG61anvsCv8hffXPU8FD) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Tattooed Heart](https://open.spotify.com/album/1NpgemlEpDwLQeKnZTsTZz) | 4:17 |
+| 258 | [Can't Stop My Heart From Loving You \(The Rain Song\)](https://open.spotify.com/track/1SdG61anvsCv8hffXPU8FD) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Tattooed Heart](https://open.spotify.com/album/1NpgemlEpDwLQeKnZTsTZz) | 4:17 |
+| 259 | [Me Leve Com Você](https://open.spotify.com/track/6ILEjq8z3T80lt4Onfi3l7) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Sandy & Júnior](https://open.spotify.com/album/7IEHSL719POBQXuI0m4Tu3) | 4:07 |
 | 260 | [Into the Night of Blue](https://open.spotify.com/track/6P1iCXKKoBefpyJQAhynKB) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Hidden Gems](https://open.spotify.com/album/1aOCleRKNqzbn1Qr9crZXF) | 4:13 |
 | 261 | [Careless Heart](https://open.spotify.com/track/3LQFJ4XfUy8SqSM7vQgFqM) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Mystery Girl](https://open.spotify.com/album/1UPcuqLY9PC99fQAqWgrSU) | 4:08 |
 | 262 | [Cry Over Me](https://open.spotify.com/track/1XUcDN732D3YOYtZjAEq02) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell 3](https://open.spotify.com/album/3Az1FmmreuG2fS7uCU6VPJ) | 4:38 |
@@ -589,4 +589,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 579 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 580 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AcLACAAAAABROXHBe5zCH2iYytkjL9wZ`
+Snapshot ID: `AcLFgAAAAADNGf2uNZlO/1iSLcsqnTvJ`

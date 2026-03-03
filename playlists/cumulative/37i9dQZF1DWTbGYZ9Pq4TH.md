@@ -4,7 +4,7 @@
 
 > Le canzoni d'amore italiane più romantiche di sempre ❤️
 
-262 songs - 16 hr 49 min
+263 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Inevitabile \(feat\. Eros Ramazzotti\)](https://open.spotify.com/track/2ZMNdZoaXrGjwPjSxRvw1H) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr), [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Dietro Le Apparenze](https://open.spotify.com/album/2rOZXRaWqDzbGdISSDQXjC) | 3:54 | 2021-09-26 | 2025-06-25 |
 | [Infinito](https://open.spotify.com/track/713hKoyY39jOdW6aEfFd8A) | [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Iperbole](https://open.spotify.com/album/7fTv0aFzQRR1LSta69B3N9) | 4:56 | 2021-09-26 | 2022-07-29 |
 | [Infinito](https://open.spotify.com/track/7KyPP4IenVDrKeewWlAp5L) | [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Iperbole](https://open.spotify.com/album/11ppqhDtSVmjuGCJygZdIG) | 4:56 | 2021-09-26 | 2024-04-03 |
-| [Ipernova](https://open.spotify.com/track/1TaSkLG2bXx84YuKmJvncw) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [Butterfly Effect](https://open.spotify.com/album/0y4WMwCamrMPOfqa470j4Y) | 2:57 | 2026-02-12 |  |
+| [Ipernova](https://open.spotify.com/track/1TaSkLG2bXx84YuKmJvncw) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [Butterfly Effect](https://open.spotify.com/album/0y4WMwCamrMPOfqa470j4Y) | 2:57 | 2026-02-12 | 2026-03-03 |
 | [Iris \(Tra Le Tue Poesie\)](https://open.spotify.com/track/1of8D9YF8T2nkLuk30JZNX) | [Biagio Antonacci](https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF) | [Mi Fai Stare Bene](https://open.spotify.com/album/5RUMRiHZj0cbk46Ttie5mZ) | 3:58 | 2021-09-26 | 2024-04-19 |
 | [Iris \(Tra Le Tue Poesie\)](https://open.spotify.com/track/5LGWbFTVLPEvuvkwy9nXiv) | [Biagio Antonacci](https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF) | [Mi Fai Stare Bene](https://open.spotify.com/album/1vQfL4IdQZAaFpUX0Sxn3w) | 3:58 | 2021-09-26 | 2022-07-29 |
 | [L Ultimo Bacio](https://open.spotify.com/track/382GAiDqEcoSjbpMrhExs6) | [Carmen Consoli](https://open.spotify.com/artist/6C3OLzdOvBI9yCOCf7iC4E) | [Stato Di Necessita](https://open.spotify.com/album/3nCPg2QVfSLwOOiQgja32o) | 3:24 | 2021-09-26 | 2022-07-18 |
@@ -244,6 +244,7 @@
 | [Ti sposerò perché](https://open.spotify.com/track/0Jp3BOdSROQLzAnfUGl8ce) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Musica è](https://open.spotify.com/album/0OCZyh2eM52kiVJYBZZ3fJ) | 4:01 | 2021-09-26 | 2022-07-27 |
 | [Ti Vorrei Sollevare](https://open.spotify.com/track/4wygbO6TTzMIy745rxcmdT) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23), [Giuliano Sangiorgi](https://open.spotify.com/artist/4nVlr3WO33XWrBFDwtUlW4) | [Heart \(Deluxe Edition\)](https://open.spotify.com/album/3IzPzAZrnxl8nBtKh3IxIx) | 4:27 | 2024-02-13 | 2024-04-03 |
 | [Ti vorrei sollevare \- With Giuliano Sangiorgi](https://open.spotify.com/track/26DAbhgVoOIPBCfDxyP7xN) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23), [Giuliano Sangiorgi](https://open.spotify.com/artist/4nVlr3WO33XWrBFDwtUlW4) | [Heart \(Deluxe Edition\)](https://open.spotify.com/album/2XiF0XJOfyOtD5m3QgBDBH) | 4:27 | 2021-09-26 | 2022-07-29 |
+| [Tikibombom](https://open.spotify.com/track/4JNT4VElmvNmJaQUhwPzg9) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G) | [Magmamemoria MMXX \(Deluxe Edition\)](https://open.spotify.com/album/0QMZ4b8IHNqUtBuhlUToZr) | 3:23 | 2026-02-12 |  |
 | [Tu](https://open.spotify.com/track/0ZZsGEpFws0EDn7Kos1U2z) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [Tu](https://open.spotify.com/album/1gmgzeAMpCDunSHil00fXW) | 4:11 | 2021-09-26 | 2022-07-22 |
 | [Tu](https://open.spotify.com/track/6Gbc24EJdvZgpY0b5pNxhA) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [Tu](https://open.spotify.com/album/0RCpPk09zv72rYvQbRVB6C) | 4:11 | 2021-09-26 | 2024-04-19 |
 | [Tu No](https://open.spotify.com/track/5mQTzYTDDob48mOP3U9k7Q) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Tu No](https://open.spotify.com/album/73tk3YTX5XnmuZtUwcIPED) | 3:35 | 2024-06-25 |  |

@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "Danser p\u00e5 kanten",
+        "url": "https://open.spotify.com/album/0OZpBz1nUsrwrDydy60EaH"
+      },
+      "artists": [
+        {
+          "name": "Puls",
+          "url": "https://open.spotify.com/artist/0SOZWHKbmT868SRjpyd6Wa"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129395,
+      "name": "Danser p\u00e5 kanten",
+      "url": "https://open.spotify.com/track/1j3vLGgdnSq1BNyN1EAdik"
+    },
+    {
+      "album": {
         "name": "De vil se",
         "url": "https://open.spotify.com/album/5S7DOGdQyzK2L8vaygEiC8"
       },
@@ -3432,7 +3450,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 160106,
       "name": "Tenke Sj\u00e6l",
       "url": "https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb"

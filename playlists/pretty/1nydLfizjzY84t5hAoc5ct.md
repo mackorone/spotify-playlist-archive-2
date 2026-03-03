@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,353 likes - 205 songs - 12 hr 55 min
+[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,353 likes - 206 songs - 12 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -213,5 +213,6 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 | 203 | [Manmade Fires](https://open.spotify.com/track/7flLFmCkey6fJopjMyz8rb) | [BRSR](https://open.spotify.com/artist/5xNIOeyc7NSNxIeJF10pxE) | [Manmade Fires](https://open.spotify.com/album/2QgnmfUnFdjwegJYXaXLak) | 5:37 |
 | 204 | [Beautiful Frankenstein](https://open.spotify.com/track/7r0iKylcYP9i5MWfprfM9G) | [Foreign Mornings](https://open.spotify.com/artist/5FpTfySze01OqeGdYET9Jm) | [Beginnings and Endings](https://open.spotify.com/album/7ouFqeYiBHWwPBb34BvZci) | 3:30 |
 | 205 | [Fear \- Demo](https://open.spotify.com/track/1xGQKuz3lqVEjEdGaa2U7J) | [Dear Heather](https://open.spotify.com/artist/1mWoFKl5CsBCynbbLVh7kB) | [Fear \(Demo\)](https://open.spotify.com/album/3Lq5YwfzGpgUfNhflySB4o) | 6:08 |
+| 206 | [Dharma](https://open.spotify.com/track/4IUKBK0I1Lxp3UPxptRMrd) | [Homegrownalwaysbest](https://open.spotify.com/artist/3EwGYKjWb6aQXjammXz7T7), [Neil 'The Wee Man' Bratchpiece](https://open.spotify.com/artist/5RrTCaow69RvY5WZ4NcOJg) | [Vol 1 \(Experience, Strength and Broke\)](https://open.spotify.com/album/01z5Nb8LDu6uuBixU3mozy) | 2:47 |
 
-Snapshot ID: `AABz6zFvUCP07d7wvuYq3DhoAdKvDP6s`
+Snapshot ID: `AABz7LB6q9aBjVOjkKY0DOoM6Fs6+wk3`

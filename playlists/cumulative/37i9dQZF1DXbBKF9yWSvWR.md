@@ -4,7 +4,7 @@
 
 > Wekelijkse update met de beste Indie releases\. Cover: Lumï
 
-754 songs - 1 day 20 hr 18 min
+755 songs - 1 day 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,7 +420,7 @@
 | [Milkshakes](https://open.spotify.com/track/6JbCqm0U3g0K87HAviPRkk) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Milkshakes](https://open.spotify.com/album/5ef6naEoTalZAj1Tjy4rMK) | 3:17 | 2024-10-04 | 2024-12-19 |
 | [Millennial Sadness](https://open.spotify.com/track/3wUaVyxvIaYOH9hz7ctwxD) | [Lov3less](https://open.spotify.com/artist/35uSH8tDlmVMM4Z4RpcxY8) | [Millennial Sadness](https://open.spotify.com/album/2UVVudHDFhF6NbjdB4jzNy) | 3:28 | 2024-11-06 | 2025-01-24 |
 | [Mind Control](https://open.spotify.com/track/3mJHTvufu4NrZQGZxMmWeM) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Mind Control](https://open.spotify.com/album/5pcrj1R40plmpD3EXv61XX) | 2:35 | 2024-11-06 | 2024-11-23 |
-| [Mind Reader](https://open.spotify.com/track/0k8QlJE37M1euY9L3rsZNE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Oblivion](https://open.spotify.com/album/3QCJELG1LLOrUDzGnskiIa) | 2:43 | 2025-10-28 |  |
+| [Mind Reader](https://open.spotify.com/track/0k8QlJE37M1euY9L3rsZNE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Oblivion](https://open.spotify.com/album/3QCJELG1LLOrUDzGnskiIa) | 2:43 | 2025-10-28 | 2026-03-03 |
 | [miss u](https://open.spotify.com/track/4BQFr6YeljwNfs9g3DL6Nc) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [miss u](https://open.spotify.com/album/0NRm4VWhqazZsWtXu4LAIl) | 3:22 | 2024-10-14 | 2025-01-07 |
 | [Miss You](https://open.spotify.com/track/37wueS34bitqZI6O0QfgQB) | [Waltzburg](https://open.spotify.com/artist/69vKqcCUoTUAwHaooT1pzv) | [Miss You](https://open.spotify.com/album/778XeIiWHwnTEloYYAGkzI) | 3:55 | 2024-06-24 | 2024-07-27 |
 | [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 | 2024-06-24 | 2024-09-06 |
@@ -686,6 +686,7 @@
 | [Time Time Time \(I'm in the Palm of Your Hand\)](https://open.spotify.com/track/02UC3kQj8XFMqW1oeVo9xD) | [Yndling](https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m) | [Time Time Time \(I'm in the Palm of Your Hand\)](https://open.spotify.com/album/0TR7apW2BNQZgnsqFa4KAG) | 3:30 | 2025-10-28 | 2026-01-15 |
 | [Time Travelling](https://open.spotify.com/track/3dGXyDzVt6O0Ol0WJ45ddR) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [Lost Like Alice](https://open.spotify.com/album/6Ly4bth5aGMD0vK29PMaz4) | 2:53 | 2024-11-06 | 2025-01-24 |
 | [Time Waster](https://open.spotify.com/track/1u9tHPPVq4536W9UXFEdm6) | [Parish Boy](https://open.spotify.com/artist/3gWh7tllbVfmhuIG2rWq9H) | [Coming Up For Air](https://open.spotify.com/album/0Jyofty8Trew03LQHywy4s) | 2:52 | 2025-06-02 | 2025-08-30 |
+| [Tiny Changes](https://open.spotify.com/track/5DyNPFCeW5RGDCpiK5ZwXv) | [Silver Lake](https://open.spotify.com/artist/43vS7K1kRXq4b4nQoscPVb) | [Tiny Changes](https://open.spotify.com/album/3Ai2CBSUsItD7mKcqWWYig) | 3:02 | 2026-03-02 |  |
 | [tired](https://open.spotify.com/track/7fTN1weFWy0iOSat8nILIs) | [LO\-FI LE\-VI](https://open.spotify.com/artist/3HitWnKrqivUZgOBLj4SJ6) | [tired](https://open.spotify.com/album/6wjHHTNSRFOGRsmQb2WwiK) | 2:34 | 2024-06-24 | 2024-10-04 |
 | [To Do What](https://open.spotify.com/track/1WVBfHU9GTNZrX9fPZlSL4) | [Pitou](https://open.spotify.com/artist/27aUOc2h4pz72oZen497Va) | [To Do What](https://open.spotify.com/album/4RL66ahnkaqKchcSX3P5RC) | 3:33 | 2026-01-12 |  |
 | [To Know](https://open.spotify.com/track/6wdIa4QUkR1jws1hHcfNlV) | [Aäron Koch](https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21) | [For Once](https://open.spotify.com/album/5BYAvczNYCC4G6JZYSNsNC) | 4:00 | 2025-11-11 | 2026-01-31 |

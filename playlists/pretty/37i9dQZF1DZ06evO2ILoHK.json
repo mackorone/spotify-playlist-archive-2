@@ -1,12 +1,12 @@
 {
   "description": "This is Basement. The essential tracks, all in one playlist.",
-  "num_followers": 12430,
+  "num_followers": 12432,
   "original_name": "This Is Basement",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaIwAAAAAAAqKLtc8WeS6uSrIt7EVjhB",
+  "snapshot_id": "aaOBgAAAAADOFDejD25nJbVRaZ2fKv2X",
   "tracks": [
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 37421,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/6HQazh5h0nLMuKR3R6lauX"
+      "duration_ms": 166336,
+      "name": "White Elephant",
+      "url": "https://open.spotify.com/track/4Oq6yOs0L5Dfa7f3pxkQfq"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 166336,
-      "name": "White Elephant",
-      "url": "https://open.spotify.com/track/4Oq6yOs0L5Dfa7f3pxkQfq"
+      "duration_ms": 37421,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/6HQazh5h0nLMuKR3R6lauX"
     },
     {
       "added_at": null,

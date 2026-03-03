@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-354 songs - 1 day 0 hr 18 min
+355 songs - 1 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,7 @@
 | [Ruler Of Worlds](https://open.spotify.com/track/45ylzxuwO1Lq9kwgj9lv6C) | [Fantasm](https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy) | [Ruler Of Worlds](https://open.spotify.com/album/2FwJ7nUbur319d38hbDwFI) | 4:00 | 2025-12-12 |  |
 | [SAINT GRAAL](https://open.spotify.com/track/70aughWpPbdbzYSE7422O9) | [PERCEVAL](https://open.spotify.com/artist/3dJ5aHKA9m7zKAr0lX6rtb) | [SAINT GRAAL](https://open.spotify.com/album/0ajLAs1f6lQbymKSGBwhoH) | 3:24 | 2025-10-10 | 2025-11-12 |
 | [Salty](https://open.spotify.com/track/3GUgaRGv8OrD24yomjh5rT) | [ØTTA](https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG) | [In My 2024 Era](https://open.spotify.com/album/6CYaXWyysoGR28yGa1NFfI) | 5:39 | 2024-09-20 | 2024-10-28 |
-| [Save Me \- RiVid Remix](https://open.spotify.com/track/4GILYMfBnLHYdOIZZ0C5dX) | [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O), [RiVid](https://open.spotify.com/artist/5XqhayYhh6DsTzBUMnTvnp) | [Save Me \(Remixes\)](https://open.spotify.com/album/06z8t1UoQWyLymmKW5JrX3) | 4:51 | 2024-04-09 |  |
+| [Save Me \- RiVid Remix](https://open.spotify.com/track/4GILYMfBnLHYdOIZZ0C5dX) | [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O), [RiVid](https://open.spotify.com/artist/5XqhayYhh6DsTzBUMnTvnp) | [Save Me \(Remixes\)](https://open.spotify.com/album/06z8t1UoQWyLymmKW5JrX3) | 4:51 | 2024-04-09 | 2026-03-03 |
 | [SCANDAL ANTHEM](https://open.spotify.com/track/08DchrgnFXBD6H142l4tvY) | [Fantasm](https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy), [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN) | [SCANDAL ANTHEM](https://open.spotify.com/album/1KGIRYw9xdet38N9JKZp7l) | 4:04 | 2025-11-27 |  |
 | [Sciophobia](https://open.spotify.com/track/0dhK1evthUOmcbXHZ783j6) | [DDRCK](https://open.spotify.com/artist/31Ovy6zggvwVys7H4pfauU), [CDRC](https://open.spotify.com/artist/5zt6G9G28RL3JmkiUiNZCY) | [Sciophobia](https://open.spotify.com/album/3mB37O4ILbfEqwAn8HbE1H) | 4:38 | 2024-04-09 | 2024-11-27 |
 | [See Me Coming](https://open.spotify.com/track/2h7C1TrUOKCqI5DTM3XW3m) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI) | [See Me Coming](https://open.spotify.com/album/0AKiFtkKreaYXCJ5v1I5DY) | 4:16 | 2025-11-21 |  |
@@ -301,6 +301,7 @@
 | [Sonne Geht Auf](https://open.spotify.com/track/6bs1myCEARQoI7oOLxqHkp) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Sonne Geht Auf](https://open.spotify.com/album/3zh834YrAtWDuBumqFkgHR) | 2:06 | 2025-10-10 |  |
 | [Space Train](https://open.spotify.com/track/4eVXJrgK3AXU0IgujAgEjB) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y), [Kevin D](https://open.spotify.com/artist/7IwSYMdY2qHT0H6tIGH6l3) | [Space Train](https://open.spotify.com/album/6jFLFLzf3ILnZ1hUF4wGpn) | 2:26 | 2024-04-09 | 2024-06-01 |
 | [Split the G](https://open.spotify.com/track/7ljQIZUFYvlqG6TDclQDXZ) | [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Split the G](https://open.spotify.com/album/4uC45VI7LLkVfwb2pFG8rw) | 3:32 | 2025-10-24 | 2026-02-17 |
+| [Stomp Your Feet](https://open.spotify.com/track/494lD6w8j07gDMub1UFd07) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [Caroline Roxy](https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW) | [Stomp Your Feet](https://open.spotify.com/album/45vmjBcHoZfCrChrHFdCoT) | 3:30 | 2026-02-27 |  |
 | [Subspace](https://open.spotify.com/track/67wppGWUHSa72Qfa12LH2r) | [Estella Boersma](https://open.spotify.com/artist/4UCy3TOuu2eA6zNY50JQSV) | [Move EP](https://open.spotify.com/album/73t7xyoQmF1bOsQYxdhUla) | 4:18 | 2024-04-09 | 2024-08-04 |
 | [Sucia](https://open.spotify.com/track/65Vx8J63EtrVdsJrbGYxIr) | [JODA & MARROW](https://open.spotify.com/artist/6Ar8R40O8JXTQ2FsCMsWuF) | [Sucia](https://open.spotify.com/album/4R82Tc7PJJf8CNFAkGusZH) | 3:03 | 2024-04-19 | 2024-08-06 |
 | [Sunglasses at Night](https://open.spotify.com/track/4rtPrDImV3Zvz0033ePqdK) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Zyntherius](https://open.spotify.com/artist/5OOeDUipuqJcBKJFEVvrSM) | [Sunglasses at Night](https://open.spotify.com/album/2pvbQAohhuoYeO2sJpdVGe) | 3:45 | 2024-10-24 | 2025-02-26 |

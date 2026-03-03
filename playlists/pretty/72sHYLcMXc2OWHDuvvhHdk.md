@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 561 likes - 2,361 songs - 5 day 17 hr 56 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 562 likes - 2,367 songs - 5 day 18 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2369,5 +2369,11 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2359 | [Satu Nama Dalam Doa](https://open.spotify.com/track/5DtlSMHi46HBRdpqf91zsk) | [Ian Nasution](https://open.spotify.com/artist/4SQO8nHhrCupEhr8fLfemf) | [Satu Nama Dalam Doa](https://open.spotify.com/album/02g3USnHFIo8oMxPSrFOVs) | 4:35 |
 | 2360 | [Ritual](https://open.spotify.com/track/5J3heOLvvlxjn4vc37GZrU) | [Point/Blank](https://open.spotify.com/artist/6gBKANhXFdMgqqcUaXQlGp) | [Ritual](https://open.spotify.com/album/42OnuKOT2TRhApXxbsZ1Wt) | 2:17 |
 | 2361 | [Long Time Dead](https://open.spotify.com/track/0vWzjxded9A9cL1yuocuyR) | [Digsby](https://open.spotify.com/artist/2svG4IsrYb68sAGhIQ9UXA) | [Death of the Party](https://open.spotify.com/album/5dBxgjLQ6wWiqyhSgChjDy) | 3:30 |
+| 2362 | [\(Easier with a\) Song](https://open.spotify.com/track/4UdCje9LAzfjliEouTWiAu) | [Tjernberg Brothers](https://open.spotify.com/artist/1Q0cJErFaGIyvzdcFaNtPr), [Astrid Mellgren](https://open.spotify.com/artist/0xEzlMM4wiu19lXWhPuTkk) | [\(Easier with a\) Song](https://open.spotify.com/album/6C8S7NR7cDyAzaiwVJ9EJp) | 3:45 |
+| 2363 | [With You](https://open.spotify.com/track/0dgEsMfFdTwG0WwGCaqZ0v) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Low Fidelity](https://open.spotify.com/album/6NYA18h0U4PtpFe5hOYNoE) | 1:42 |
+| 2364 | [Bleu Minuit](https://open.spotify.com/track/0Q1auXPkl5M0R8p2px55IM) | [Delass](https://open.spotify.com/artist/0nWgZZoSOW9ETxzzmDsPV3) | [Bleu Minuit](https://open.spotify.com/album/4ztrZN9yWZvjmcFUhBDPdw) | 3:05 |
+| 2365 | [Christmas salvation](https://open.spotify.com/track/1rIvQcUFqjXO7sTAM20WJH) | [Tandaram Way](https://open.spotify.com/artist/7sumOQAfWLjOdW9zSTeeog) | [Christmas salvation](https://open.spotify.com/album/3p2AwffFlomvWJaDepuMmU) | 2:55 |
+| 2366 | [Still Running](https://open.spotify.com/track/0540EJSItpEHuX7wpxpNDt) | [FUMITO](https://open.spotify.com/artist/0jHHRTca6HOkksVRPrjKSK) | [Still Running](https://open.spotify.com/album/6oDxuEXDs2v30RmZ1T1eto) | 3:42 |
+| 2367 | [Rainy Days](https://open.spotify.com/track/1hTtSs1hUV9beg9z7Xj2EI) | [George Bacan](https://open.spotify.com/artist/1hsiZ1ezoIGPu8BdXX0MX0) | [Rainy Days](https://open.spotify.com/album/7ESeH9wjN7nKKoq1BijDq3) | 3:30 |
 
-Snapshot ID: `AAAJ0FATN24gTQ55pA218zWGlZOVjiUX`
+Snapshot ID: `AAAJ1nTBkSkNOByTqJQeuIEvhSAOBrdQ`

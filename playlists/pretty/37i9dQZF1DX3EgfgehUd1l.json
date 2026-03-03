@@ -1,6 +1,6 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 177317,
+  "num_followers": 177325,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "25 Greatest Hits",
+        "url": "https://open.spotify.com/album/7cJP8OI40VbrT0yuVKPtNL"
+      },
+      "artists": [
+        {
+          "name": "Frankie Lymon & The Teenagers",
+          "url": "https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt"
+        }
+      ],
+      "duration_ms": 138973,
+      "name": "Why Do Fools Fall in Love",
+      "url": "https://open.spotify.com/track/6vL5Kx5LmZzcL12DZl2OiY"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "It's Impossible",
         "url": "https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 148493,
       "name": "Catch a Falling Star (with Mitchell Ayres and His Orchestra & The Ray Charles Singers)",
       "url": "https://open.spotify.com/track/38YMdelhj62vJ6d5a0wxMQ"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "25 Greatest Hits",
-        "url": "https://open.spotify.com/album/7cJP8OI40VbrT0yuVKPtNL"
-      },
-      "artists": [
-        {
-          "name": "Frankie Lymon & The Teenagers",
-          "url": "https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt"
-        }
-      ],
-      "duration_ms": 138973,
-      "name": "Why Do Fools Fall in Love",
-      "url": "https://open.spotify.com/track/6vL5Kx5LmZzcL12DZl2OiY"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Frankie Laine's Greatest Hits",
-        "url": "https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD"
-      },
-      "artists": [
-        {
-          "name": "Frankie Laine",
-          "url": "https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix"
-        }
-      ],
-      "duration_ms": 130893,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/049uxirFkHOefJ0yqPW8Kk"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Best Of Tony Brent",
         "url": "https://open.spotify.com/album/26pN1w1fbL5t8EDI5XvaOn"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 154720,
       "name": "Make It Soon - 1999 Remaster",
       "url": "https://open.spotify.com/track/20SLjXdA0H3I5IRf4E07Hi"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Frankie Laine's Greatest Hits",
+        "url": "https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD"
+      },
+      "artists": [
+        {
+          "name": "Frankie Laine",
+          "url": "https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix"
+        }
+      ],
+      "duration_ms": 130893,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/049uxirFkHOefJ0yqPW8Kk"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Singles",
-        "url": "https://open.spotify.com/album/5LoOStQoPOCIyOReBVcbtR"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 184066,
-      "name": "Let Me Go, Lover!",
-      "url": "https://open.spotify.com/track/0Ribhkc0wstAoYkEY12BDq"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Guaglione",
         "url": "https://open.spotify.com/album/3JP375sFTecotrjU3tN0wc"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 161333,
       "name": "Come prima",
       "url": "https://open.spotify.com/track/1PlV6IT8zWLrhJThiIozbv"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Singles",
+        "url": "https://open.spotify.com/album/5LoOStQoPOCIyOReBVcbtR"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 184066,
+      "name": "Let Me Go, Lover!",
+      "url": "https://open.spotify.com/track/0Ribhkc0wstAoYkEY12BDq"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Rock & Roll 50s & 60s Mix",
-        "url": "https://open.spotify.com/album/1LL6GWTsMYiRc0fwGfoU3h"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Young",
-          "url": "https://open.spotify.com/artist/5FqPBW4Ca6EMEWcrpAgypV"
-        }
-      ],
-      "duration_ms": 166051,
-      "name": "Unchained Melody",
-      "url": "https://open.spotify.com/track/3YCWbPfDLt4w4vzBnfoRgH"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Frankie Laine's Greatest Hits",
         "url": "https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 174693,
       "name": "Moonlight Gambler",
       "url": "https://open.spotify.com/track/27jaiKKAGY0HXVXkOGnUJW"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Rock & Roll 50s & 60s Mix",
+        "url": "https://open.spotify.com/album/1LL6GWTsMYiRc0fwGfoU3h"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Young",
+          "url": "https://open.spotify.com/artist/5FqPBW4Ca6EMEWcrpAgypV"
+        }
+      ],
+      "duration_ms": 166051,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/3YCWbPfDLt4w4vzBnfoRgH"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Summer Holiday",
-        "url": "https://open.spotify.com/album/3qwiCEbQuOZ3UO2DO4YhIw"
-      },
-      "artists": [
-        {
-          "name": "Johnnie Ray",
-          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
-        }
-      ],
-      "duration_ms": 157493,
-      "name": "Just Walkin' in the Rain",
-      "url": "https://open.spotify.com/track/5zIrB8lgWBmhHeV00mCN75"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Pure... '50s",
         "url": "https://open.spotify.com/album/01YaGa6qd4HjIPjyJI8mpb"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 157586,
       "name": "High Noon (Do Not Forsake Me)",
       "url": "https://open.spotify.com/track/2KA7Kytj9Ahdb6tX74EJJ3"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Summer Holiday",
+        "url": "https://open.spotify.com/album/3qwiCEbQuOZ3UO2DO4YhIw"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Ray",
+          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
+        }
+      ],
+      "duration_ms": 157493,
+      "name": "Just Walkin' in the Rain",
+      "url": "https://open.spotify.com/track/5zIrB8lgWBmhHeV00mCN75"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "Original Hits - Country",
+        "url": "https://open.spotify.com/album/2CLBwQ3j9tbB1yUVtoIf6n"
+      },
+      "artists": [
+        {
+          "name": "Slim Whitman",
+          "url": "https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0"
+        }
+      ],
+      "duration_ms": 142426,
+      "name": "Rose Marie",
+      "url": "https://open.spotify.com/track/6jak4Fou65AgcZoLpNDN74"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "Street Of Memories",
         "url": "https://open.spotify.com/album/6PN0sBIqdjtodywtNBBzrX"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 200826,
       "name": "Tom Dooley",
       "url": "https://open.spotify.com/track/3nFOQSVdAqr6vPpXA98RnP"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Original Hits - Country",
-        "url": "https://open.spotify.com/album/2CLBwQ3j9tbB1yUVtoIf6n"
-      },
-      "artists": [
-        {
-          "name": "Slim Whitman",
-          "url": "https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0"
-        }
-      ],
-      "duration_ms": 142426,
-      "name": "Rose Marie",
-      "url": "https://open.spotify.com/track/6jak4Fou65AgcZoLpNDN74"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "The Very Best Of Slim Whitman",
+        "url": "https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl"
+      },
+      "artists": [
+        {
+          "name": "Slim Whitman",
+          "url": "https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0"
+        }
+      ],
+      "duration_ms": 177493,
+      "name": "I'll Take You Home Again, Kathleen",
+      "url": "https://open.spotify.com/track/3rfvssyMQbY28825P2sztA"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "Original Hits - 50s",
         "url": "https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx"
       },
@@ -1211,38 +1227,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Very Best Of Slim Whitman",
-        "url": "https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl"
-      },
-      "artists": [
-        {
-          "name": "Slim Whitman",
-          "url": "https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0"
-        }
-      ],
-      "duration_ms": 177493,
-      "name": "I'll Take You Home Again, Kathleen",
-      "url": "https://open.spotify.com/track/3rfvssyMQbY28825P2sztA"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "All the Greatest Hits Ever Made, Vol. 2 (Remastered)",
-        "url": "https://open.spotify.com/album/5zQ5WRP0Fp7gVZrWTVl4gR"
-      },
-      "artists": [
-        {
-          "name": "Kay Starr",
-          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
-        }
-      ],
-      "duration_ms": 170343,
-      "name": "Changing Partners - Remastered",
-      "url": "https://open.spotify.com/track/6xtJ7cccbNbmCiwk3NzIpB"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Best Of The 50's (Fifties)",
         "url": "https://open.spotify.com/album/6IT0jEXEkvbJkgGQwFyOud"
       },
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Greatest Hits: 50s",
-        "url": "https://open.spotify.com/album/7HYRCENbrRxmnP9P7cqz3t"
+        "name": "All the Greatest Hits Ever Made, Vol. 2 (Remastered)",
+        "url": "https://open.spotify.com/album/5zQ5WRP0Fp7gVZrWTVl4gR"
       },
       "artists": [
         {
-          "name": "Ronnie Hilton",
-          "url": "https://open.spotify.com/artist/3EdBvBQhLB43ayLxB3gf6M"
+          "name": "Kay Starr",
+          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
         }
       ],
-      "duration_ms": 162760,
-      "name": "Around the World",
-      "url": "https://open.spotify.com/track/4QqN9qiEznIbrZPJKFrfMx"
+      "duration_ms": 170343,
+      "name": "Changing Partners - Remastered",
+      "url": "https://open.spotify.com/track/6xtJ7cccbNbmCiwk3NzIpB"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5W8G2sRRXvYTuuFu4Jinmc"
+        "name": "Greatest Hits: 50s",
+        "url": "https://open.spotify.com/album/7HYRCENbrRxmnP9P7cqz3t"
       },
       "artists": [
         {
-          "name": "Eddie Fisher",
-          "url": "https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX"
+          "name": "Ronnie Hilton",
+          "url": "https://open.spotify.com/artist/3EdBvBQhLB43ayLxB3gf6M"
         }
       ],
-      "duration_ms": 149093,
-      "name": "I Need You Now - 2001 Remastered",
-      "url": "https://open.spotify.com/track/0gxpt81ZzaX0x72k1NOojB"
+      "duration_ms": 162760,
+      "name": "Around the World",
+      "url": "https://open.spotify.com/track/4QqN9qiEznIbrZPJKFrfMx"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1323,6 +1307,22 @@
       "duration_ms": 173705,
       "name": "Look At That Girl",
       "url": "https://open.spotify.com/track/3Dnfvd4VGayvFaAMe1YTzE"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Legends",
+        "url": "https://open.spotify.com/album/1oHN7HNvyr2kCtFREr9FZt"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 155360,
+      "name": "More",
+      "url": "https://open.spotify.com/track/1ift7pvnph4S0eHMLjYD4E"
     }
   ],
   "unique_name": "Easy 50s",

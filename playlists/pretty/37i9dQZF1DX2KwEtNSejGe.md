@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KwEtNSejGe.md) - [plain]
 
 > Cover: Alex Warren at The BRITs 2026
 
-[Spotify](https://open.spotify.com/user/spotify) - 830,816 likes - 101 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 831,001 likes - 101 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

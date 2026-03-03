@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > All new Contemporary Christian songs on the rise! Cover: Trip Lee
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,778 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,820 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 99 | [God's Still Working On Me](https://open.spotify.com/track/70icn8eAyAcbI0GYT8qdk1) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [God's Still Working On Me](https://open.spotify.com/album/24aeQMeoofRpqVFfVixclf) | 4:18 |
 | 100 | [Miracles](https://open.spotify.com/track/0MinxXAaUCp6nhhfYxrJwT) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo), [Kendrick Williams Jr](https://open.spotify.com/artist/6THqYD4nwDVdkVHVDr9ktp) | [Miracles](https://open.spotify.com/album/2f1vQLRRGUbmXvcCH1lJnm) | 5:02 |
 
-Snapshot ID: `AAAAABixhwiBihDYg+TVT1QFSyv+RD/T`
+Snapshot ID: `AAAAAGLfVeiWuvahMjv2y8UWi7Ri8QRE`

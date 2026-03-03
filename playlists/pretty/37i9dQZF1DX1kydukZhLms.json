@@ -1,6 +1,6 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1538187,
+  "num_followers": 1538370,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Stone Sour",
-        "url": "https://open.spotify.com/album/1zxVmbhE7PevJT8Z6w6upn"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Bother",
-      "url": "https://open.spotify.com/track/0AfIsqZ4gTUg9CwwW2jLeK"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "F8",
         "url": "https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 190718,
       "name": "A Little Bit Off",
       "url": "https://open.spotify.com/track/6GqqGv8frU7kqzXkm2rewI"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Stone Sour",
+        "url": "https://open.spotify.com/album/1zxVmbhE7PevJT8Z6w6upn"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Bother",
+      "url": "https://open.spotify.com/track/0AfIsqZ4gTUg9CwwW2jLeK"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Vulgar Display of Power",
-        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 345733,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/1lM1ZHTvfKi5CMRjsZ4Sg9"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1",
         "url": "https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 271000,
       "name": "Wrong Side of Heaven",
       "url": "https://open.spotify.com/track/11Ojp7JniVvwd0gmgvyKkd"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Vulgar Display of Power",
+        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 345733,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/1lM1ZHTvfKi5CMRjsZ4Sg9"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Far Beyond Driven",
-        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 243426,
-      "name": "Planet Caravan",
-      "url": "https://open.spotify.com/track/78YknDXAOrz0E9ves11vnK"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "Empire - 20th Anniversary Edition",
         "url": "https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow"
       },
@@ -463,18 +447,18 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "14 Shades of Grey",
-        "url": "https://open.spotify.com/album/6PntFOrFJdHpXE9xzjhkyR"
+        "name": "Far Beyond Driven",
+        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
       },
       "artists": [
         {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 276840,
-      "name": "Zoe Jane",
-      "url": "https://open.spotify.com/track/6WrOZ59ScdQXE24zcYNyyA"
+      "duration_ms": 243426,
+      "name": "Planet Caravan",
+      "url": "https://open.spotify.com/track/78YknDXAOrz0E9ves11vnK"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -491,6 +475,22 @@
       "duration_ms": 236866,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/2dEgwtRjYl6TJkIwjRwn6z"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "14 Shades of Grey",
+        "url": "https://open.spotify.com/album/6PntFOrFJdHpXE9xzjhkyR"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "duration_ms": 276840,
+      "name": "Zoe Jane",
+      "url": "https://open.spotify.com/track/6WrOZ59ScdQXE24zcYNyyA"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Watershed (Special Edition)",
-        "url": "https://open.spotify.com/album/0fayDgcekIaW0yQtUQ8CDm"
-      },
-      "artists": [
-        {
-          "name": "Opeth",
-          "url": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
-        }
-      ],
-      "duration_ms": 461053,
-      "name": "Burden",
-      "url": "https://open.spotify.com/track/7EqkvBTdhYPTd91mN2DmcA"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "Look What The Cat Dragged In - 20th Anniversary Edition",
         "url": "https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 214373,
       "name": "I Won't Forget You - 2003 Remaster",
       "url": "https://open.spotify.com/track/6WmVgLj2htklkU3SZOsItg"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Watershed (Special Edition)",
+        "url": "https://open.spotify.com/album/0fayDgcekIaW0yQtUQ8CDm"
+      },
+      "artists": [
+        {
+          "name": "Opeth",
+          "url": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
+        }
+      ],
+      "duration_ms": 461053,
+      "name": "Burden",
+      "url": "https://open.spotify.com/track/7EqkvBTdhYPTd91mN2DmcA"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -975,18 +975,18 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Gutter Ballet (2011 Edition)",
-        "url": "https://open.spotify.com/album/6zMeDffPrKyYSBf9AuyTIF"
+        "name": "Set The World On Fire",
+        "url": "https://open.spotify.com/album/0Iow4yw9iONKHFLeNF1MEt"
       },
       "artists": [
         {
-          "name": "Savatage",
-          "url": "https://open.spotify.com/artist/3N1B1g6JtIgd6ClRkzD4yT"
+          "name": "Annihilator",
+          "url": "https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO"
         }
       ],
-      "duration_ms": 346333,
-      "name": "When the Crowds Are Gone",
-      "url": "https://open.spotify.com/track/6uQ15UwuRKIgUJQakgkYtZ"
+      "duration_ms": 228546,
+      "name": "Phoenix Rising",
+      "url": "https://open.spotify.com/track/6vSY2O8TWgHP0oLPn5WhbH"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Set The World On Fire",
-        "url": "https://open.spotify.com/album/0Iow4yw9iONKHFLeNF1MEt"
+        "name": "Gutter Ballet (2011 Edition)",
+        "url": "https://open.spotify.com/album/6zMeDffPrKyYSBf9AuyTIF"
       },
       "artists": [
         {
-          "name": "Annihilator",
-          "url": "https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO"
+          "name": "Savatage",
+          "url": "https://open.spotify.com/artist/3N1B1g6JtIgd6ClRkzD4yT"
         }
       ],
-      "duration_ms": 228546,
-      "name": "Phoenix Rising",
-      "url": "https://open.spotify.com/track/6vSY2O8TWgHP0oLPn5WhbH"
+      "duration_ms": 346333,
+      "name": "When the Crowds Are Gone",
+      "url": "https://open.spotify.com/track/6uQ15UwuRKIgUJQakgkYtZ"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Cherry Pie (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5TMMmKdys49eu6QSPC9sdB"
-      },
-      "artists": [
-        {
-          "name": "Warrant",
-          "url": "https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "Blind Faith",
-      "url": "https://open.spotify.com/track/7Fmv4QiyAdMroX61cOPaGn"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "The Sacrament of Sin",
         "url": "https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC"
       },
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Streets - A Rock Opera (2011 Edition)",
-        "url": "https://open.spotify.com/album/5bMMMSrjV78gkbhxarBbWT"
+        "name": "Cherry Pie (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5TMMmKdys49eu6QSPC9sdB"
       },
       "artists": [
         {
-          "name": "Savatage",
-          "url": "https://open.spotify.com/artist/3N1B1g6JtIgd6ClRkzD4yT"
+          "name": "Warrant",
+          "url": "https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq"
         }
       ],
-      "duration_ms": 342426,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/6jCA4rJ4caeRuyTxvf9UvA"
+      "duration_ms": 212933,
+      "name": "Blind Faith",
+      "url": "https://open.spotify.com/track/7Fmv4QiyAdMroX61cOPaGn"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1103,6 +1087,22 @@
       "duration_ms": 290546,
       "name": "Our Loved Ones",
       "url": "https://open.spotify.com/track/1Fekh45eTzyteap9YgmOr1"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Streets - A Rock Opera (2011 Edition)",
+        "url": "https://open.spotify.com/album/5bMMMSrjV78gkbhxarBbWT"
+      },
+      "artists": [
+        {
+          "name": "Savatage",
+          "url": "https://open.spotify.com/artist/3N1B1g6JtIgd6ClRkzD4yT"
+        }
+      ],
+      "duration_ms": 342426,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/6jCA4rJ4caeRuyTxvf9UvA"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Destiny (Reissue 2016)",
-        "url": "https://open.spotify.com/album/1ucRSsC7KP0oJlTIVQlYU7"
-      },
-      "artists": [
-        {
-          "name": "Stratovarius",
-          "url": "https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO"
-        }
-      ],
-      "duration_ms": 359997,
-      "name": "4000 Rainy Nights - Remastered 2016",
-      "url": "https://open.spotify.com/track/5Hcs6SnriDmwf3yUUSMxuZ"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "Hot In The Shade",
         "url": "https://open.spotify.com/album/2oumvuipSTRBQDcA9RVtTP"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 232626,
       "name": "Forever",
       "url": "https://open.spotify.com/track/0oSjcBQU1n11XpohLbCE5O"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Destiny (Reissue 2016)",
+        "url": "https://open.spotify.com/album/1ucRSsC7KP0oJlTIVQlYU7"
+      },
+      "artists": [
+        {
+          "name": "Stratovarius",
+          "url": "https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO"
+        }
+      ],
+      "duration_ms": 359997,
+      "name": "4000 Rainy Nights - Remastered 2016",
+      "url": "https://open.spotify.com/track/5Hcs6SnriDmwf3yUUSMxuZ"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Metallica",
-        "url": "https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 388733,
-      "name": "Nothing Else Matters",
-      "url": "https://open.spotify.com/track/3ZFwuJwUpIl0GeXsvF1ELf"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "Creatures Of The Night (Remastered Version)",
         "url": "https://open.spotify.com/album/0bxDnjJmcCSOtnhFcSEUTe"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 366106,
       "name": "I Still Love You",
       "url": "https://open.spotify.com/track/04F7U1dwwtwaCRuXGQ50aB"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 388733,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/3ZFwuJwUpIl0GeXsvF1ELf"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Slave to the Grind",
-        "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
-      },
-      "artists": [
-        {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
-        }
-      ],
-      "duration_ms": 235066,
-      "name": "In a Darkened Room",
-      "url": "https://open.spotify.com/track/4WwWjFCyvUY2fcx8OULByB"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "Hair of the Dog",
         "url": "https://open.spotify.com/album/5naYBHiMro7E0MVPmhhYHP"
       },
@@ -1395,8 +1379,8 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Cross Road",
-        "url": "https://open.spotify.com/album/6ltCtxmCcZrkuqpmUwmCq4"
+        "name": "Keep The Faith (Remastered)",
+        "url": "https://open.spotify.com/album/7LE04w5XSg8wIpIubDkqZr"
       },
       "artists": [
         {
@@ -1404,9 +1388,25 @@
           "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 353026,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/4JAJV4D2902ZQL4A63Q2fe"
+      "duration_ms": 394400,
+      "name": "Bed Of Roses",
+      "url": "https://open.spotify.com/track/5Ac8sOEk91RTzD06ViNzqf"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Slave to the Grind",
+        "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "duration_ms": 235066,
+      "name": "In a Darkened Room",
+      "url": "https://open.spotify.com/track/4WwWjFCyvUY2fcx8OULByB"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1459,24 +1459,8 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Long Cold Winter",
-        "url": "https://open.spotify.com/album/0DGiVv0CmN2elcLYSeiXPm"
-      },
-      "artists": [
-        {
-          "name": "Cinderella",
-          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
-        }
-      ],
-      "duration_ms": 354640,
-      "name": "Don't Know What You Got (Till It's Gone)",
-      "url": "https://open.spotify.com/track/3vPrFUtWpKT9oNW94NDDEW"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
-        "name": "Keep The Faith (Remastered)",
-        "url": "https://open.spotify.com/album/7LE04w5XSg8wIpIubDkqZr"
+        "name": "Cross Road",
+        "url": "https://open.spotify.com/album/6ltCtxmCcZrkuqpmUwmCq4"
       },
       "artists": [
         {
@@ -1484,9 +1468,9 @@
           "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 394400,
-      "name": "Bed Of Roses",
-      "url": "https://open.spotify.com/track/5Ac8sOEk91RTzD06ViNzqf"
+      "duration_ms": 353026,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/4JAJV4D2902ZQL4A63Q2fe"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1507,50 +1491,18 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "REISE, REISE",
-        "url": "https://open.spotify.com/album/1mQhLUn2iLZuQQICaBc1q4"
+        "name": "Long Cold Winter",
+        "url": "https://open.spotify.com/album/0DGiVv0CmN2elcLYSeiXPm"
       },
       "artists": [
         {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
         }
       ],
-      "duration_ms": 271173,
-      "name": "OHNE DICH",
-      "url": "https://open.spotify.com/track/0HFKRJ86CSYRGkbALc6Aen"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
-        "name": "Keeper of the Seven Keys, Pt. I (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2UHFdmz05GmEY0J0ZbuMBp"
-      },
-      "artists": [
-        {
-          "name": "Helloween",
-          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
-        }
-      ],
-      "duration_ms": 283693,
-      "name": "A Tale That Wasn't Right",
-      "url": "https://open.spotify.com/track/6Fd53Af2royyl5btFfgzlB"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
-        "name": "Kiss of Death",
-        "url": "https://open.spotify.com/album/4syGSCBIzJWYQB15Msvn1y"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 261186,
-      "name": "God Was Never on Your Side",
-      "url": "https://open.spotify.com/track/3zeQSYzaN9kLVypKWr6yUi"
+      "duration_ms": 354640,
+      "name": "Don't Know What You Got (Till It's Gone)",
+      "url": "https://open.spotify.com/track/3vPrFUtWpKT9oNW94NDDEW"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1571,18 +1523,82 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Dr. Feelgood 20th Anniversary (Expanded Version)",
-        "url": "https://open.spotify.com/album/2roIODnunU2CI0QWY3T8H9"
+        "name": "REISE, REISE",
+        "url": "https://open.spotify.com/album/1mQhLUn2iLZuQQICaBc1q4"
       },
       "artists": [
         {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 270186,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/2zjvTdpUoMpxNIY6e7jKOi"
+      "duration_ms": 271173,
+      "name": "OHNE DICH",
+      "url": "https://open.spotify.com/track/0HFKRJ86CSYRGkbALc6Aen"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Vault: Def Leppard Greatest Hits (1980\u20131995)",
+        "url": "https://open.spotify.com/album/5TT3zudoEiGFg0uZ8KSZL1"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 257161,
+      "name": "When Love And Hate Collide",
+      "url": "https://open.spotify.com/track/1ailMHu2DGaPR8kDSJ0XAE"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Keeper of the Seven Keys, Pt. I (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UHFdmz05GmEY0J0ZbuMBp"
+      },
+      "artists": [
+        {
+          "name": "Helloween",
+          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
+        }
+      ],
+      "duration_ms": 283693,
+      "name": "A Tale That Wasn't Right",
+      "url": "https://open.spotify.com/track/6Fd53Af2royyl5btFfgzlB"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Deadly Sting: The Mercury Years",
+        "url": "https://open.spotify.com/album/6aiwtadb1HB5ImfuFgX4r7"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "duration_ms": 313693,
+      "name": "Wind Of Change",
+      "url": "https://open.spotify.com/track/4YJ4n7DsZhR5hrnsMfn6zV"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Kiss of Death",
+        "url": "https://open.spotify.com/album/4syGSCBIzJWYQB15Msvn1y"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 261186,
+      "name": "God Was Never on Your Side",
+      "url": "https://open.spotify.com/track/3zeQSYzaN9kLVypKWr6yUi"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1603,50 +1619,34 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "The Time of the Oath",
-        "url": "https://open.spotify.com/album/5hx4UkhFj4gaUA0mjNr9D4"
+        "name": "Mass Slaughter",
+        "url": "https://open.spotify.com/album/1PLl8ONmplOUyu5Bq8GYJL"
       },
       "artists": [
         {
-          "name": "Helloween",
-          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
+          "name": "Slaughter",
+          "url": "https://open.spotify.com/artist/4ibNXJiMYOPibpS9DB9Qz3"
         }
       ],
-      "duration_ms": 234533,
-      "name": "Forever and One (Neverland)",
-      "url": "https://open.spotify.com/track/0B6qYQS41EcbC66r7c4DBB"
+      "duration_ms": 272240,
+      "name": "Fly To The Angels",
+      "url": "https://open.spotify.com/track/6e165g8fp2WDCBwF1zxLMh"
     },
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "The World Needs a Hero",
-        "url": "https://open.spotify.com/album/5YFrdrFUHGgAvK8iXFxULa"
+        "name": "Dr. Feelgood 20th Anniversary (Expanded Version)",
+        "url": "https://open.spotify.com/album/2roIODnunU2CI0QWY3T8H9"
       },
       "artists": [
         {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
         }
       ],
-      "duration_ms": 268706,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/0kAocIIQ0FP9NIKASAjVH5"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
-        "name": "Ritchie Blackmore's Rainbow (Remastered)",
-        "url": "https://open.spotify.com/album/0RsJGRspEXnzwNMBAdrV3u"
-      },
-      "artists": [
-        {
-          "name": "Rainbow",
-          "url": "https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m"
-        }
-      ],
-      "duration_ms": 282013,
-      "name": "The Temple Of The King",
-      "url": "https://open.spotify.com/track/6Z435tBPT5JamUR9dN7y8y"
+      "duration_ms": 270186,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/2zjvTdpUoMpxNIY6e7jKOi"
     }
   ],
   "unique_name": "Heavy Ballads",

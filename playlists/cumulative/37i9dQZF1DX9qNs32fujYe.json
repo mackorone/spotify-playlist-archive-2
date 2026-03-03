@@ -6025,6 +6025,24 @@
     },
     {
       "album": {
+        "name": "The Great Satan",
+        "url": "https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235906,
+      "name": "F.T.W. 84",
+      "url": "https://open.spotify.com/track/4DJDtYrUMZl1WteQCSKEBX"
+    },
+    {
+      "album": {
         "name": "Face of a Stranger",
         "url": "https://open.spotify.com/album/2dCDKEr7baSxy6M8ougCDx"
       },
@@ -10337,6 +10355,32 @@
     },
     {
       "album": {
+        "name": "Lest We Fall",
+        "url": "https://open.spotify.com/album/6ZqlZnGCeo8ULNZ4esknhk"
+      },
+      "artists": [
+        {
+          "name": "The Halo Effect",
+          "url": "https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka"
+        },
+        {
+          "name": "Heaven Shall Burn",
+          "url": "https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW"
+        },
+        {
+          "name": "The Black Dahlia Murder",
+          "url": "https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231213,
+      "name": "Lest We Fall",
+      "url": "https://open.spotify.com/track/1g0YyvMI8e82KtutPZV8QG"
+    },
+    {
+      "album": {
         "name": "The Moon and the Fool",
         "url": "https://open.spotify.com/album/5MQrXXhEaswOBKULG4qLX6"
       },
@@ -12028,7 +12072,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 219493,
       "name": "Never A God",
       "url": "https://open.spotify.com/track/50CHkHFGDGAUbXsrqON5kR"
@@ -12498,6 +12542,28 @@
       "duration_ms": 246000,
       "name": "No Pain No Gain",
       "url": "https://open.spotify.com/track/6Mz38ZM9eEqQ3QV1duTXyb"
+    },
+    {
+      "album": {
+        "name": "No Place of Warmth (feat. Gerard Way)",
+        "url": "https://open.spotify.com/album/4k9gYOwN9shcLs1Xxd4YxU"
+      },
+      "artists": [
+        {
+          "name": "Frozen Soul",
+          "url": "https://open.spotify.com/artist/1hwwmQI1vhQamuIksyDKG6"
+        },
+        {
+          "name": "Gerard Way",
+          "url": "https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289750,
+      "name": "No Place of Warmth (feat. Gerard Way)",
+      "url": "https://open.spotify.com/track/4cNUzje8bpS368orIfCp70"
     },
     {
       "album": {
@@ -13948,7 +14014,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 255986,
       "name": "Presence of Mind",
       "url": "https://open.spotify.com/track/7kn8PMqB1Cx3qnzB0Slayd"
@@ -17536,7 +17602,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 288730,
       "name": "Taniwha (feat. Randy Blythe)",
       "url": "https://open.spotify.com/track/0NMjS1FNduEm9SK2hwiP1x"

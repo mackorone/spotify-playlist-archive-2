@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume\. Cover: Ariel Imani 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,047,393 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,047,249 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 40 | [some days](https://open.spotify.com/track/5JIkh281D7WEwWZNmIC5aW) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [some days](https://open.spotify.com/album/1UbgSoMftakwqLl0jJC5K0) | 3:17 |
 | 41 | [Hurts](https://open.spotify.com/track/42PmsIuf88yzxgyZ4YsrA3) | [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [Hurts](https://open.spotify.com/album/0vD6ViITeV3JJtZIswk4t7) | 2:42 |
 | 42 | [2 Versager](https://open.spotify.com/track/1raCCG5vKSpqZ3Xo1H8U1v) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [2 Versager](https://open.spotify.com/album/57IxQ3LBAXH622YZSXvUi2) | 3:47 |
-| 43 | [Try To Forget You](https://open.spotify.com/track/4owTp0ISJEukMDPpbiYVTF) | [May](https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE) | [Bloom](https://open.spotify.com/album/3bbmQ862f9gNMC3I5eH5Qx) | 3:24 |
-| 44 | [是那麼聲勢浩大 LOUD & PROUD](https://open.spotify.com/track/5ysyYcp5Czk2cisdkr5Spl) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [是那麼聲勢浩大 LOUD & PROUD](https://open.spotify.com/album/5gI35OdhpjrAjUjOAk9Y4h) | 3:37 |
-| 45 | [Fluent](https://open.spotify.com/track/1Ie6i08seXm2qBYyaPyvkI) | [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Fluent](https://open.spotify.com/album/0l7YP2Nebj6PF8CTYCaNlM) | 2:08 |
-| 46 | [Broken?](https://open.spotify.com/track/4p3yxm5pepvqYPKmwPL2hx) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Broken?](https://open.spotify.com/album/5O0oQRED2CxWkFhRKlAWzG) | 4:03 |
-| 47 | [I Need To Sleep](https://open.spotify.com/track/0EOK77QqaKReUNZntadFlK) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [I Need To Sleep](https://open.spotify.com/album/2BlLzVPNvLCgGl1bxfOJUL) | 2:59 |
-| 48 | [In Love](https://open.spotify.com/track/4KauSJM3ORpOHUMNPKq6H7) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [In Love](https://open.spotify.com/album/7zoNOdoJc2DJQMn87cta73) | 2:48 |
+| 43 | [Fluent](https://open.spotify.com/track/1Ie6i08seXm2qBYyaPyvkI) | [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Fluent](https://open.spotify.com/album/0l7YP2Nebj6PF8CTYCaNlM) | 2:08 |
+| 44 | [Try To Forget You](https://open.spotify.com/track/4owTp0ISJEukMDPpbiYVTF) | [May](https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE) | [Bloom](https://open.spotify.com/album/3bbmQ862f9gNMC3I5eH5Qx) | 3:24 |
+| 45 | [Broken?](https://open.spotify.com/track/4p3yxm5pepvqYPKmwPL2hx) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Broken?](https://open.spotify.com/album/5O0oQRED2CxWkFhRKlAWzG) | 4:03 |
+| 46 | [是那麼聲勢浩大 LOUD & PROUD](https://open.spotify.com/track/5ysyYcp5Czk2cisdkr5Spl) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [是那麼聲勢浩大 LOUD & PROUD](https://open.spotify.com/album/5gI35OdhpjrAjUjOAk9Y4h) | 3:37 |
+| 47 | [In Love](https://open.spotify.com/track/4KauSJM3ORpOHUMNPKq6H7) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [In Love](https://open.spotify.com/album/7zoNOdoJc2DJQMn87cta73) | 2:48 |
+| 48 | [I Need To Sleep](https://open.spotify.com/track/0EOK77QqaKReUNZntadFlK) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [I Need To Sleep](https://open.spotify.com/album/2BlLzVPNvLCgGl1bxfOJUL) | 2:59 |
 | 49 | [Prayer](https://open.spotify.com/track/4SSzmLUKeG9ogOJr9B0kU7) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Prayer](https://open.spotify.com/album/38U6xdDl2kTkVLWcptlXGb) | 5:26 |
 | 50 | [Temberang](https://open.spotify.com/track/7aN9KgFUrCl4qFU4pAQXI2) | [Mimifly](https://open.spotify.com/artist/1m5SzX4xy5b0fdvEZAJmyw) | [Temberang](https://open.spotify.com/album/0RXA0qCkmNVRq2C9stYjhf) | 2:07 |
 | 51 | [Hideaway](https://open.spotify.com/track/6whwQsAorYI2N8iFLWUhfb) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Light hit my face like a straight right](https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP) | 2:57 |
@@ -64,16 +64,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 54 | [Pena penita pena](https://open.spotify.com/track/021KukNOhoemTxzEVWaaId) | [Lola Flores](https://open.spotify.com/artist/1ZcvF2meiXi5UPDJWxrKR5) | [Pena, Penita, Pena](https://open.spotify.com/album/2QsSxyyEqzwvPpONUs0qkn) | 3:43 |
 | 55 | [Maravilhosamente Bem](https://open.spotify.com/track/6A7Ck7Bgl3YIzbeUwm99Sm) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [MARAVILHOSAMENTE BEM](https://open.spotify.com/album/4Od9vP3ffzaBu3nXezoPZi) | 3:46 |
 | 56 | [Not Enough](https://open.spotify.com/track/0RXVnZkoEtvI5HcGUtncpY) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [hi, it's nice to meet me](https://open.spotify.com/album/5bVSpRtlZwFwDAd6G7Siav) | 3:37 |
-| 57 | [mia](https://open.spotify.com/track/2PP6LXaNeA4hTWxq2FVOnr) | [Altea](https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws) | [Nessuna](https://open.spotify.com/album/3aCQCerumFp8XZKbGD6jXM) | 2:14 |
-| 58 | [Vále](https://open.spotify.com/track/45q6QPBVT0J0MGTfd2BP8E) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Vále](https://open.spotify.com/album/3OhENMvAvnspxbWRPELIGE) | 3:00 |
+| 57 | [Vále](https://open.spotify.com/track/45q6QPBVT0J0MGTfd2BP8E) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Vále](https://open.spotify.com/album/3OhENMvAvnspxbWRPELIGE) | 3:00 |
+| 58 | [mia](https://open.spotify.com/track/2PP6LXaNeA4hTWxq2FVOnr) | [Altea](https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws) | [Nessuna](https://open.spotify.com/album/3aCQCerumFp8XZKbGD6jXM) | 2:14 |
 | 59 | [Sheป้ะ](https://open.spotify.com/track/2BWDtrQ3RwiNDc1tsxkv3r) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [Sheป้ะ](https://open.spotify.com/album/2NdahWtun1Oj0wTAWrdYIX) | 3:53 |
-| 60 | [SuperDrug](https://open.spotify.com/track/5Bb8e5gqXUvfoZzilDIQqO) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [SuperDrug](https://open.spotify.com/album/3y7FO9rrvqLJaO1PHaaA9d) | 3:06 |
+| 60 | [Only One Laughing](https://open.spotify.com/track/3Du13F2WwqWucRqFRspWq9) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Liquorice](https://open.spotify.com/album/0dtHFmAZG3WuxrpxxGoXlV) | 4:09 |
 | 61 | [กลายเป็นเพลงรัก \(love song\)](https://open.spotify.com/track/0Sy0QRE8xBKn8GCfzjwFWZ) | [paiiinntt](https://open.spotify.com/artist/5szfzkgDhJrqaW6Y0TDA8E) | [กลายเป็นเพลงรัก \(love song\)](https://open.spotify.com/album/4tYnacV4JWR9hFTDibUExp) | 4:54 |
-| 62 | [Only One Laughing](https://open.spotify.com/track/3Du13F2WwqWucRqFRspWq9) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Liquorice](https://open.spotify.com/album/0dtHFmAZG3WuxrpxxGoXlV) | 4:09 |
-| 63 | [Cardio](https://open.spotify.com/track/5Hjw83KgaBg0WGjG77ZOD7) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Chronosick](https://open.spotify.com/album/758TBtA1Agn07O0qNfmXia) | 2:37 |
+| 62 | [Cardio](https://open.spotify.com/track/5Hjw83KgaBg0WGjG77ZOD7) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Chronosick](https://open.spotify.com/album/758TBtA1Agn07O0qNfmXia) | 2:37 |
+| 63 | [SuperDrug](https://open.spotify.com/track/5Bb8e5gqXUvfoZzilDIQqO) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [SuperDrug](https://open.spotify.com/album/3y7FO9rrvqLJaO1PHaaA9d) | 3:06 |
 | 64 | [Let Me In](https://open.spotify.com/track/3VMIBXpCHzgQY0jAsHz2HW) | [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [Meet Me In The Blue](https://open.spotify.com/album/0lMFXa1lhQsWm8u6ryWg28) | 3:06 |
-| 65 | [got.to.believe](https://open.spotify.com/track/5zvE5C2JislfFqefghan0H) | [Miss Ko 葛仲珊](https://open.spotify.com/artist/4qsJVo9DrBRnCzp3itrjdg) | [soul.food 靈食](https://open.spotify.com/album/3EE25mbsYL6PQ0wizjPmNz) | 3:36 |
-| 66 | [Guilty](https://open.spotify.com/track/6D3YpYu7OXAruxDiElKrE7) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Guilty](https://open.spotify.com/album/6sFyzjGUkNN0tEHHVwMaDO) | 2:23 |
+| 65 | [Guilty](https://open.spotify.com/track/6D3YpYu7OXAruxDiElKrE7) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Guilty](https://open.spotify.com/album/6sFyzjGUkNN0tEHHVwMaDO) | 2:23 |
+| 66 | [got.to.believe](https://open.spotify.com/track/5zvE5C2JislfFqefghan0H) | [Miss Ko 葛仲珊](https://open.spotify.com/artist/4qsJVo9DrBRnCzp3itrjdg) | [soul.food 靈食](https://open.spotify.com/album/3EE25mbsYL6PQ0wizjPmNz) | 3:36 |
 | 67 | [Blue](https://open.spotify.com/track/1uvdsygNOfhOdKBehMl1f2) | [Dobrawa Czocher](https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p) | [Blue](https://open.spotify.com/album/3SL7IUdrQ23Xc0MqyGlGfj) | 3:39 |
 | 68 | [saudades tuas.](https://open.spotify.com/track/1GWFezYgzmBkPnKjxeIFJw) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy) | [8/80](https://open.spotify.com/album/6dZ7rnyWMmWkmd9t78ZkZn) | 3:10 |
 | 69 | [twenty\-first](https://open.spotify.com/track/1pG8XTfw1b4YGHVQM0UORh) | [VARITDA](https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB) | [twenty\-first](https://open.spotify.com/album/5uI9gOvyW2km0W5M4Djy2T) | 3:36 |

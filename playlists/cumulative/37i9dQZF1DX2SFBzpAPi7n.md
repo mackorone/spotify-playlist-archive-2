@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: BIG Naughty \(서동현\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: NELL\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,137 songs - 2 day 21 hr 4 min
+1,139 songs - 2 day 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Colors of](https://open.spotify.com/track/4mGo0G3WCny26CJRiCyXUU) | [Doorlesshouse](https://open.spotify.com/artist/0SxSWgWdwhijvB7pMMRdKy) | [Colors of](https://open.spotify.com/album/6a3yd7PCqC4GYDJQlAWPb3) | 3:29 | 2022-08-01 | 2022-08-13 |
 | [Colors of You](https://open.spotify.com/track/35nhfxiAlFeNvKWTQUR5kp) | [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [In Dreams, In Dreams](https://open.spotify.com/album/4gqNvoIBouPkzQAAusZb6f) | 4:30 | 2022-07-08 | 2022-07-16 |
 | [Come And Find Me](https://open.spotify.com/track/1ftmDIccNyQsik5vs9ZfzF) | [Samui](https://open.spotify.com/artist/0HPaAAfUL4k7xE45xXi5yb) | [Come And Find Me](https://open.spotify.com/album/1isTxDxhUhKopfY63uGF0G) | 3:19 | 2024-06-07 | 2024-06-20 |
-| [Comedian](https://open.spotify.com/track/7sGWkGjybYNPBodHpdAWAH) | [Kim Siwon](https://open.spotify.com/artist/2n81IVrBwNFGxXnc8GDWkW) | [Comedian](https://open.spotify.com/album/7dDSnEQzMPPJl0XgNjCr4q) | 2:09 | 2026-02-23 |  |
+| [Comedian](https://open.spotify.com/track/7sGWkGjybYNPBodHpdAWAH) | [Kim Siwon](https://open.spotify.com/artist/2n81IVrBwNFGxXnc8GDWkW) | [Comedian](https://open.spotify.com/album/7dDSnEQzMPPJl0XgNjCr4q) | 2:09 | 2026-02-23 | 2026-03-03 |
 | [Comes and Goes](https://open.spotify.com/track/0Nld5ohgWfoPueMEtYNbgE) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [22](https://open.spotify.com/album/5JMSzU0FPsOut85jmhHbfw) | 3:48 | 2022-07-22 | 2023-04-06 |
 | [Coming Of Age Story](https://open.spotify.com/track/2ZTU8atPwouhoQSvxv9aQj) | [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Youth](https://open.spotify.com/album/3Tt2lX8MvtFWaFhVKYhKIO) | 4:35 | 2025-03-17 |  |
 | [Congratulations](https://open.spotify.com/track/13z3GfR6WzmLUDxBHO3amM) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Day](https://open.spotify.com/album/2lkb7TDxz1y1nAAsVkCZ4u) | 3:49 | 2024-05-09 | 2024-11-07 |
@@ -209,6 +209,7 @@
 | [Dear Love](https://open.spotify.com/track/0R4i9qbhgNQjJt5tGFbslP) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [Rendez\-Vous](https://open.spotify.com/album/6vK3j1RpbI17a2Tn2SqbTQ) | 5:02 | 2022-04-22 | 2022-07-14 |
 | [Dear Me](https://open.spotify.com/track/35Zg9ymD0ytUfRpyAnXv49) | [OWALLOIL](https://open.spotify.com/artist/59THIwTnvgT7SeGFzocky2) | [Dear Me](https://open.spotify.com/album/0owjEdpdMRcomZHxqOzITp) | 3:36 | 2025-09-18 | 2025-09-24 |
 | [Dear Me](https://open.spotify.com/track/2izlCxatn0nR7SyRyrkUW1) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album Repackage](https://open.spotify.com/album/5IlYFprRPoMZ0qeNh6ghcs) | 3:42 | 2022-06-23 | 2022-06-30 |
+| [Deep Inside](https://open.spotify.com/track/7GRWbXqGv4UZhmnL6nSyus) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [X : 3 / ?](https://open.spotify.com/album/5Rud2sFOI6cg4tkdM1pqmw) | 4:00 | 2026-03-03 |  |
 | [Deja Vu](https://open.spotify.com/track/3qvfE7DGsIlkWzKMOS4gAm) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ) | 3:44 | 2023-08-17 | 2024-03-22 |
 | [Delphinium](https://open.spotify.com/track/2gIsvJiWoNaPQB8wOYfheq) | [Kim Ahyun](https://open.spotify.com/artist/6esTEzOF6SNHgbeSRr5hdy) | [Delphinium](https://open.spotify.com/album/2kFzT61GpDF05G6TflIQOW) | 3:50 | 2025-11-27 | 2025-12-03 |
 | [Demian](https://open.spotify.com/track/5xEivEruhmJTAHgBpP0U3V) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Synopsis](https://open.spotify.com/album/3TsPGtAg9IG6hHQoXamU8L) | 5:25 | 2024-12-02 | 2025-01-31 |
@@ -401,6 +402,7 @@
 | [Hey, Laveen!](https://open.spotify.com/track/4ZLNsus0VVwgPjTNCq1Wsq) | [LAVEEN](https://open.spotify.com/artist/0B0RJTEmbkPCAZ9SKGv8OI) | [Hey, Laveen!](https://open.spotify.com/album/0tvIgZl9v4yJoGAgx2wP3N) | 2:32 | 2023-03-25 | 2023-03-28 |
 | [Hi!](https://open.spotify.com/track/708rsh3mPLX9ScFkXQBOdN) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Indigging \#01](https://open.spotify.com/album/4HItn2kzV6l4R4eqNbHmB7) | 2:31 | 2024-08-09 | 2024-08-11 |
 | [High Teen Star 하이틴 스타](https://open.spotify.com/track/0h82aIPBXFlt7zHIgDslkP) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [High Teen Star 하이틴 스타](https://open.spotify.com/album/6Cyv09QDAHZkvyd6ThE0YE) | 2:57 | 2022-05-24 | 2022-05-26 |
+| [HIGHLIGHT](https://open.spotify.com/track/5IglhxcMfaLhZWmynKaNcA) | [YOUNGJAE](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [The Practical Guide to Love \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/217PhsMmRA1yP35W2ZyD5V) | 3:27 | 2026-03-03 |  |
 | [Highs and Goodbyes](https://open.spotify.com/track/2R8AgS1dQcau9LXnfKBIGa) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Between Cobalt and Navy](https://open.spotify.com/album/0YSVtDyZSsU0MbYUHP8xLe) | 3:00 | 2026-02-26 |  |
 | [Highteen](https://open.spotify.com/track/4HcnOrtYTFOLyZrfC7BQ9U) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Highteen](https://open.spotify.com/album/0KOiVCCpmrK72XwMIL4ieW) | 3:01 | 2023-02-17 | 2023-04-25 |
 | [HIGHTEEN MOVIE \(feat\. Owen\)](https://open.spotify.com/track/4aZXG0TSetEpCgBtd1IElf) | [TRICKY](https://open.spotify.com/artist/0YoNqRwXw0WlR0pIKujBua), [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [HIGHTEEN MOVIE](https://open.spotify.com/album/1yOWQFOvjS7ndkiCLPDnIS) | 2:51 | 2022-08-18 | 2022-09-06 |
@@ -774,7 +776,7 @@
 | [Remedy](https://open.spotify.com/track/0iJXk34vAEuHtFdgONxCas) | [Vanillare](https://open.spotify.com/artist/1snfnH0w3DHTY1GXJ630Ys) | [Remedy](https://open.spotify.com/album/4ybo5wS56wFFUexsDM5Xne) | 3:04 | 2022-06-09 | 2022-06-26 |
 | [Remember!](https://open.spotify.com/track/0sQ7Ej7deFPs7dQeScxVgZ) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Remember!](https://open.spotify.com/album/11EGNnLOAlNLUXysHvuH2t) | 3:31 | 2025-06-20 | 2025-06-30 |
 | [Reminiscence](https://open.spotify.com/track/4Zv2V3I230aVG0jmvrjVr4) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [Reminiscence 〈Sanullim's 50th anniversary collaboration album〉](https://open.spotify.com/album/4U0JSvaaf9DmrdBEZF8nJc) | 3:54 | 2025-04-18 | 2025-04-23 |
-| [Remnant Flower \(4moments Original Soundtrack Part.1\)](https://open.spotify.com/track/0dk889fQmOCtw1xrEQEMdA) | [kimseungjoo](https://open.spotify.com/artist/5IAgpDPGNmCpD1EwmZ2PFN) | [Remnant Flower \(4moments Original Soundtrack Part.1\)](https://open.spotify.com/album/6Bn9Ldk4xPfN9ETA5VYd77) | 3:01 | 2026-02-26 |  |
+| [Remnant Flower \(4moments Original Soundtrack Part.1\)](https://open.spotify.com/track/0dk889fQmOCtw1xrEQEMdA) | [kimseungjoo](https://open.spotify.com/artist/5IAgpDPGNmCpD1EwmZ2PFN) | [Remnant Flower \(4moments Original Soundtrack Part.1\)](https://open.spotify.com/album/6Bn9Ldk4xPfN9ETA5VYd77) | 3:01 | 2026-02-26 | 2026-03-03 |
 | [Replay](https://open.spotify.com/track/5cdy7ga5LX3ekZ1Xfl6BUY) | [RecordVoiceMessage](https://open.spotify.com/artist/6ZEZZTSdUA8x7CrFEdWKkS) | [Replay](https://open.spotify.com/album/3KfQzfa9ojrhFNoOFsE8B8) | 3:46 | 2022-08-04 | 2022-08-13 |
 | [REPLY](https://open.spotify.com/track/5x8eDWlfUUrwLtlpNmYEyE) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [In Bloom](https://open.spotify.com/album/4FaPGtnRQ3rUMk0G0hpqsf) | 2:53 | 2025-08-14 | 2025-09-04 |
 | [Requiem](https://open.spotify.com/track/7DUQT1Y2dtcptqGvuLtdQY) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Synopsis](https://open.spotify.com/album/3TsPGtAg9IG6hHQoXamU8L) | 4:09 | 2024-12-02 | 2025-02-06 |

@@ -685,6 +685,24 @@
     },
     {
       "album": {
+        "name": "Gul Azro Khata",
+        "url": "https://open.spotify.com/album/6LWODTNteJT84QsLo5pMVd"
+      },
+      "artists": [
+        {
+          "name": "Zaain",
+          "url": "https://open.spotify.com/artist/7rNw0ou0vrSbdvRVOOaGGQ"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176546,
+      "name": "Gul Azro Khata",
+      "url": "https://open.spotify.com/track/2OP6M9kshTTYlu99MCj71R"
+    },
+    {
+      "album": {
         "name": "Best Of Muhammad Owais Raza Qadri",
         "url": "https://open.spotify.com/album/4l0gR0xHaK9bi6rWZ2P7rF"
       },
@@ -1340,7 +1358,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 619534,
       "name": "Medley Naat",
       "url": "https://open.spotify.com/track/1MU7M8yJz1r2UeeEEmg3kS"
@@ -1362,6 +1380,24 @@
       "duration_ms": 289045,
       "name": "Meetha Meetha Hai Mere Muhammad",
       "url": "https://open.spotify.com/track/0X1XcoPae4kWuPHhJilSa8"
+    },
+    {
+      "album": {
+        "name": "Mehboob-e-Haq S.A.W.W",
+        "url": "https://open.spotify.com/album/01T47uoskwdA38bJkB8SJl"
+      },
+      "artists": [
+        {
+          "name": "Zain Zohaib",
+          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358148,
+      "name": "Mehboob-e-Haq S.A.W.W",
+      "url": "https://open.spotify.com/track/2VQFAJlfujxdnFeWhx6pXe"
     },
     {
       "album": {
@@ -1662,7 +1698,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 180406,
       "name": "Noor E Azal Noor E Khuda",
       "url": "https://open.spotify.com/track/2hCp01OECb21ZB7z04UIGI"

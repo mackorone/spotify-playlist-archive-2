@@ -1,6 +1,6 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Papillon ",
-  "num_followers": 82574,
+  "num_followers": 82590,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,18 @@
     {
       "added_at": "2026-01-12 15:23:48",
       "album": {
-        "name": "Contra Probabilidades",
-        "url": "https://open.spotify.com/album/2w1V6Gjc1HVZ6TGYMlzqT8"
+        "name": "Afro Fado",
+        "url": "https://open.spotify.com/album/0GcsYtidlr4azVnuTjD3KI"
       },
       "artists": [
         {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        },
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
         }
       ],
-      "duration_ms": 203082,
-      "name": "Contra Probabilidades",
-      "url": "https://open.spotify.com/track/5nYYQ85x9DwEiEpETQNlNC"
+      "duration_ms": 170400,
+      "name": "Fogo",
+      "url": "https://open.spotify.com/track/3p5b0fr7ynsuGeE8EJCJk9"
     },
     {
       "added_at": "2026-01-12 15:23:48",
@@ -143,18 +139,22 @@
     {
       "added_at": "2026-01-12 15:23:48",
       "album": {
-        "name": "Afro Fado",
-        "url": "https://open.spotify.com/album/0GcsYtidlr4azVnuTjD3KI"
+        "name": "Contra Probabilidades",
+        "url": "https://open.spotify.com/album/2w1V6Gjc1HVZ6TGYMlzqT8"
       },
       "artists": [
         {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        },
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
         }
       ],
-      "duration_ms": 170400,
-      "name": "Fogo",
-      "url": "https://open.spotify.com/track/3p5b0fr7ynsuGeE8EJCJk9"
+      "duration_ms": 203082,
+      "name": "Contra Probabilidades",
+      "url": "https://open.spotify.com/track/5nYYQ85x9DwEiEpETQNlNC"
     },
     {
       "added_at": "2026-01-12 15:23:48",
@@ -587,18 +587,18 @@
     {
       "added_at": "2026-01-12 15:23:48",
       "album": {
-        "name": "Marselha",
-        "url": "https://open.spotify.com/album/1NxzgAT3Mhcb5ek0zxdhUj"
+        "name": "do.mar",
+        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
       },
       "artists": [
         {
-          "name": "Zara G",
-          "url": "https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb"
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
         }
       ],
-      "duration_ms": 188689,
-      "name": "Marselha",
-      "url": "https://open.spotify.com/track/0O3Tiq9SgdndTbIzYs6UYc"
+      "duration_ms": 162162,
+      "name": "Senti Tanto",
+      "url": "https://open.spotify.com/track/4VAybjMGGmc3ihxbMHQ5PM"
     },
     {
       "added_at": "2026-01-12 15:23:48",
@@ -619,18 +619,18 @@
     {
       "added_at": "2026-01-12 15:23:48",
       "album": {
-        "name": "do.mar",
-        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
+        "name": "Marselha",
+        "url": "https://open.spotify.com/album/1NxzgAT3Mhcb5ek0zxdhUj"
       },
       "artists": [
         {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+          "name": "Zara G",
+          "url": "https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb"
         }
       ],
-      "duration_ms": 162162,
-      "name": "Senti Tanto",
-      "url": "https://open.spotify.com/track/4VAybjMGGmc3ihxbMHQ5PM"
+      "duration_ms": 188689,
+      "name": "Marselha",
+      "url": "https://open.spotify.com/track/0O3Tiq9SgdndTbIzYs6UYc"
     },
     {
       "added_at": "2026-01-12 15:23:48",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-01-12 15:23:48",
       "album": {
-        "name": "CABARET",
-        "url": "https://open.spotify.com/album/31BxT3LcIPCP5P04rZgoah"
-      },
-      "artists": [
-        {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        }
-      ],
-      "duration_ms": 135117,
-      "name": "CABARET",
-      "url": "https://open.spotify.com/track/4r1Mvqp7prTkjH5OiVXC6r"
-    },
-    {
-      "added_at": "2026-01-12 15:23:48",
-      "album": {
         "name": "PRA MIM",
         "url": "https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 153858,
       "name": "PRA MIM",
       "url": "https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J"
+    },
+    {
+      "added_at": "2026-01-12 15:23:48",
+      "album": {
+        "name": "CABARET",
+        "url": "https://open.spotify.com/album/31BxT3LcIPCP5P04rZgoah"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "duration_ms": 135117,
+      "name": "CABARET",
+      "url": "https://open.spotify.com/track/4r1Mvqp7prTkjH5OiVXC6r"
     },
     {
       "added_at": "2026-01-12 15:23:48",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-01-12 15:23:48",
       "album": {
-        "name": "DAKAR",
-        "url": "https://open.spotify.com/album/6a0RFiFtvOADiIpxS3SfVR"
-      },
-      "artists": [
-        {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        }
-      ],
-      "duration_ms": 224653,
-      "name": "DAKAR",
-      "url": "https://open.spotify.com/track/63q6I2XT4bhSaauCQWOYM1"
-    },
-    {
-      "added_at": "2026-01-12 15:23:48",
-      "album": {
         "name": "Reflexo",
         "url": "https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 232000,
       "name": "Mo Boy",
       "url": "https://open.spotify.com/track/4zww0H1u0yYvyBGixrRCb9"
+    },
+    {
+      "added_at": "2026-01-12 15:23:48",
+      "album": {
+        "name": "DAKAR",
+        "url": "https://open.spotify.com/album/6a0RFiFtvOADiIpxS3SfVR"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "duration_ms": 224653,
+      "name": "DAKAR",
+      "url": "https://open.spotify.com/track/63q6I2XT4bhSaauCQWOYM1"
     },
     {
       "added_at": "2026-01-12 15:23:48",
@@ -1359,8 +1359,8 @@
     {
       "added_at": "2026-01-12 15:23:48",
       "album": {
-        "name": "Devia Ir",
-        "url": "https://open.spotify.com/album/1Sg69oASUTiS8NM0XlGqaZ"
+        "name": "Bairro",
+        "url": "https://open.spotify.com/album/430C90nJt95Ie8YPDZFA46"
       },
       "artists": [
         {
@@ -1368,37 +1368,25 @@
           "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
         }
       ],
-      "duration_ms": 293748,
-      "name": "Devia Ir",
-      "url": "https://open.spotify.com/track/1ftBvRj542ol7LT1A0EtL7"
+      "duration_ms": 258590,
+      "name": "Bairro",
+      "url": "https://open.spotify.com/track/1ai9FDnFQDv18WAtFhMTIz"
     },
     {
       "added_at": "2026-01-12 15:23:48",
       "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/2pKQrzkVd8J95Ehh0pgRU3"
+        "name": "Mo\u00e7a",
+        "url": "https://open.spotify.com/album/4FLzhhnUwKwZHLGSTaX4vz"
       },
       "artists": [
         {
-          "name": "FRANKIEONTHEGUITAR",
-          "url": "https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po"
-        },
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        },
-        {
-          "name": "LON3R JOHNY",
-          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
-        },
-        {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
         }
       ],
-      "duration_ms": 250169,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/19gFXFDAFUdsuaiAorKEbr"
+      "duration_ms": 180340,
+      "name": "Mo\u00e7a",
+      "url": "https://open.spotify.com/track/57rx7d5tagl2wOWzj3eWJc"
     },
     {
       "added_at": "2026-01-12 15:23:48",

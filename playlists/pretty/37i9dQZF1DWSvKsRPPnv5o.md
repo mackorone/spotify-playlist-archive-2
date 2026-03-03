@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Baby Keem
 
-[Spotify](https://open.spotify.com/user/spotify) - 759,570 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 759,604 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 19 | [Boogieman](https://open.spotify.com/track/7Mg5CBO37Rifk2RyDJ8fzd) | [EBK Jaaybo](https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX) | [Boogieman](https://open.spotify.com/album/75XYL9gBsRC8wWbmbtzQHh) | 2:11 |
 | 20 | [Backyard Ball](https://open.spotify.com/track/3Yw9e8eUnFNkzPyJKA77EJ) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu) | [Backyard Ball](https://open.spotify.com/album/26srcrwHsLEbtVPdosUMTy) | 2:49 |
 | 21 | [LOTTA SHOTS](https://open.spotify.com/track/7IMvLAEQJpRNsLZAN53JF1) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [NOT A CHANCE IN HELL](https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS) | 2:29 |
-| 22 | [Still Nothing](https://open.spotify.com/track/0hACM4S2OmnfCxi4kqt1TV) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [Fbeat](https://open.spotify.com/artist/2LU8oJxlxE6E52FNiIdXD0) | [Still Nothing](https://open.spotify.com/album/5e4Hjx3RnsVEJEjnECpyQv) | 2:40 |
+| 22 | [Still Nothing](https://open.spotify.com/track/0hACM4S2OmnfCxi4kqt1TV) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [FBEAT](https://open.spotify.com/artist/5JarEeTvVo06htkx9lt8SV) | [Still Nothing](https://open.spotify.com/album/5e4Hjx3RnsVEJEjnECpyQv) | 2:40 |
 | 23 | [Game Time](https://open.spotify.com/track/575IfhxdIBpiEsjVWzmuyN) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [Game Time](https://open.spotify.com/album/12W3973nhiFVbHaSi2LTE9) | 1:37 |
 | 24 | [DON'T KILL THE PARTY \(feat\. Tyga, Shoreline Mafia & Quavo\) \- Coast 2 Coast](https://open.spotify.com/track/6p82E6XWmwC9yGzXPe1HHv) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [DON’T KILL THE PARTY \(feat\. Tyga, Shoreline Mafia & Quavo\) \[Coast 2 Coast\]](https://open.spotify.com/album/0zNgZSkhGkRcr1Yh06fyxr) | 3:45 |
 | 25 | [BOW](https://open.spotify.com/track/61TRLUFjOYglAKNFzgfFfh) | [Compton Av](https://open.spotify.com/artist/4ifWa8uYjvbxB4ouf9XbW5), [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM) | [BOW](https://open.spotify.com/album/1eMc4NmGDdGbHdolLbXSDd) | 2:12 |

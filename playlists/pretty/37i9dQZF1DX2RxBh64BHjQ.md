@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:6hpztnbgmaneFFGGnEOVjd">sosocamo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,741,154 likes - 100 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,740,992 likes - 100 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 33 | [24Hrs](https://open.spotify.com/track/0AlTIOiF5u0sHdsEvBU2av) | [Nine Vicious](https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy) | [B4EM](https://open.spotify.com/album/76KktSsWxhgtpasWmW5WZn) | 3:13 |
 | 34 | [No Mileage](https://open.spotify.com/track/5bu3osUhTayJQfo4J0MWAf) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [No Mileage](https://open.spotify.com/album/0VjKpppUCarjzywISaeYXz) | 2:13 |
 | 35 | [Supreme Sanders](https://open.spotify.com/track/53agV5ZAIHGyvYBgTeChx9) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Supreme Sanders](https://open.spotify.com/album/68yomWj1t6KVcny2L3I6la) | 2:22 |
-| 36 | [Boat Remix](https://open.spotify.com/track/2HeqKWstr0XAYILHpRo5ra) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Boat Remix](https://open.spotify.com/album/0PBa3RVZ6Mpy9dCdb3UnRC) | 2:43 |
+| 36 | [BOAT REMIX](https://open.spotify.com/track/2HeqKWstr0XAYILHpRo5ra) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [BOAT REMIX](https://open.spotify.com/album/0PBa3RVZ6Mpy9dCdb3UnRC) | 2:43 |
 | 37 | [Candy Paint \(feat\. Shoreline Mafia\)](https://open.spotify.com/track/73lMnUNdS4XloMIBYQI5qP) | [PayGotti](https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [Candy Paint \(feat\. Shoreline Mafia\)](https://open.spotify.com/album/0MHVIfKRwYuByVdv04B3si) | 3:37 |
 | 38 | [What's My Name \(feat\. JasonMartin & MyGuyMars\)](https://open.spotify.com/track/7qzwwrpaQJojilhKn2msBR) | [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV), [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [MyGuyMars](https://open.spotify.com/artist/0oH03sDsnxkWo7jFl6nZQ6) | [What's My Name \(feat\. JasonMartin & MyGuyMars\)](https://open.spotify.com/album/7hgO2UbYobxDbWNlKajprP) | 2:15 |
 | 39 | [1st](https://open.spotify.com/track/042Zrsk9OO0bNyIMTTKONR) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [1st](https://open.spotify.com/album/2LNXDYj6jPm7O0ChZ6XGjW) | 2:19 |

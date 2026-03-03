@@ -1,6 +1,6 @@
 {
   "description": "SPINGERE",
-  "num_followers": 113682,
+  "num_followers": 113694,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "CHAMPIONS LEAGUE",
-        "url": "https://open.spotify.com/album/0lXnDC17PrUn7US2iy8sa4"
-      },
-      "artists": [
-        {
-          "name": "Frezza",
-          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
-        }
-      ],
-      "duration_ms": 184560,
-      "name": "CHAMPIONS LEAGUE",
-      "url": "https://open.spotify.com/track/06Zq6HSD1O6XpblP1jXkMB"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
         "name": "Madreperla",
         "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 201845,
       "name": "Cookies N' Cream (feat. ANNA & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/1xUnvxp9DFrpwXnO0RHKUp"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
+        "name": "CHAMPIONS LEAGUE",
+        "url": "https://open.spotify.com/album/0lXnDC17PrUn7US2iy8sa4"
+      },
+      "artists": [
+        {
+          "name": "Frezza",
+          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
+        }
+      ],
+      "duration_ms": 184560,
+      "name": "CHAMPIONS LEAGUE",
+      "url": "https://open.spotify.com/track/06Zq6HSD1O6XpblP1jXkMB"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
+        "name": "Bossoli",
+        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 178758,
+      "name": "Bossoli",
+      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
         "name": "WAO",
         "url": "https://open.spotify.com/album/6nMTRVyMQdql9a5Afk1lOD"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 149464,
       "name": "WAO",
       "url": "https://open.spotify.com/track/24mzKw9LcwPNUMHSFAarvJ"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
-        "name": "Bossoli",
-        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 178758,
-      "name": "Bossoli",
-      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -1043,6 +1043,34 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
+        "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
+        "url": "https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz"
+      },
+      "artists": [
+        {
+          "name": "Scott Storch",
+          "url": "https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
+      "url": "https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
         "name": "Trench Code (feat. Faneto)",
         "url": "https://open.spotify.com/album/3gShtt4KfJiCrzalsXkxhA"
       },
@@ -1079,34 +1107,6 @@
       "duration_ms": 185041,
       "name": "Milly (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/0ksqA7waEGNDkGkmRz0Gwj"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
-        "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
-        "url": "https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz"
-      },
-      "artists": [
-        {
-          "name": "Scott Storch",
-          "url": "https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
-      "url": "https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "Ma Jolie (feat. ANNA)",
-        "url": "https://open.spotify.com/album/5DiVq0GezpEej8E2krKSkz"
-      },
-      "artists": [
-        {
-          "name": "Medy",
-          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Ma Jolie (feat. ANNA)",
-      "url": "https://open.spotify.com/track/7J4FSE9i1mo3ZHtaMy27dy"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
         "name": "Effetto notte",
         "url": "https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 176000,
       "name": "ON FIRE - paid in full",
       "url": "https://open.spotify.com/track/2pGbOFiWVwZaTq3iKi5sGb"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
+        "name": "La zone (feat. Shiva)",
+        "url": "https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "La zone (feat. Shiva)",
+      "url": "https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -1459,22 +1459,22 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "Supercar",
-        "url": "https://open.spotify.com/album/0NP8M8kOGShVj1YQrvN2sf"
+        "name": "Ma Jolie (feat. ANNA)",
+        "url": "https://open.spotify.com/album/5DiVq0GezpEej8E2krKSkz"
       },
       "artists": [
         {
-          "name": "N\u00e9za",
-          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
         },
         {
-          "name": "FT Kings",
-          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
         }
       ],
-      "duration_ms": 124800,
-      "name": "Supercar",
-      "url": "https://open.spotify.com/track/45Z5FthR22V4kAe49KLke1"
+      "duration_ms": 158769,
+      "name": "Ma Jolie (feat. ANNA)",
+      "url": "https://open.spotify.com/track/7J4FSE9i1mo3ZHtaMy27dy"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -1491,6 +1491,26 @@
       "duration_ms": 155133,
       "name": "Mollami Pt.2",
       "url": "https://open.spotify.com/track/3uQLQ73joqyMYDhI2UaBOq"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
+        "name": "Supercar",
+        "url": "https://open.spotify.com/album/0NP8M8kOGShVj1YQrvN2sf"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "Supercar",
+      "url": "https://open.spotify.com/track/45Z5FthR22V4kAe49KLke1"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -1599,26 +1619,6 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "La zone (feat. Shiva)",
-        "url": "https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "La zone (feat. Shiva)",
-      "url": "https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
         "name": "HARDER (feat. Low-Red)",
         "url": "https://open.spotify.com/album/14FuU4isEL7dte8A4GQNNc"
       },
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "Papaya",
-        "url": "https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ"
-      },
-      "artists": [
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
-        }
-      ],
-      "duration_ms": 139714,
-      "name": "Papaya",
-      "url": "https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
         "name": "Pel\u00e9",
         "url": "https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC"
       },
@@ -1719,6 +1703,22 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
+        "name": "Papaya",
+        "url": "https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        }
+      ],
+      "duration_ms": 139714,
+      "name": "Papaya",
+      "url": "https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
         "name": "Leanin'",
         "url": "https://open.spotify.com/album/1ebja9z4FBEivqqCYEqega"
       },
@@ -1735,8 +1735,8 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "Anno Zero",
-        "url": "https://open.spotify.com/album/7shtYxDm2JIN1hmypbmYBr"
+        "name": "VIDA LOCA (feat. Medy)",
+        "url": "https://open.spotify.com/album/060HF45et7bfm9rkxtLPBP"
       },
       "artists": [
         {
@@ -1744,13 +1744,13 @@
           "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
         },
         {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
         }
       ],
-      "duration_ms": 157000,
-      "name": "DONNA VERA (feat. Artie 5ive)",
-      "url": "https://open.spotify.com/track/5U3MS2PddLtfkwx3eJZmt8"
+      "duration_ms": 182067,
+      "name": "VIDA LOCA (feat. Medy)",
+      "url": "https://open.spotify.com/track/12zyH8VBFJiu3SOR1FMiYv"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -1779,6 +1779,26 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
+        "name": "Petit Fou Fou (feat. ANNA)",
+        "url": "https://open.spotify.com/album/5GNS5KbQRhO2uvyM7HKCZ6"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 113737,
+      "name": "Petit Fou Fou (feat. ANNA)",
+      "url": "https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
         "name": "OGNI MUSICA",
         "url": "https://open.spotify.com/album/0AoCmT68sVhw2VQlHWR7yQ"
       },
@@ -1799,26 +1819,6 @@
       "duration_ms": 115312,
       "name": "A.D.H.D. (con Datkid, Melons)",
       "url": "https://open.spotify.com/track/0Zw0ZJkTplOO3weqcZHxjF"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
-        "name": "Petit Fou Fou (feat. ANNA)",
-        "url": "https://open.spotify.com/album/5GNS5KbQRhO2uvyM7HKCZ6"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 113737,
-      "name": "Petit Fou Fou (feat. ANNA)",
-      "url": "https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -1851,8 +1851,8 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "VIDA LOCA (feat. Medy)",
-        "url": "https://open.spotify.com/album/060HF45et7bfm9rkxtLPBP"
+        "name": "Anno Zero",
+        "url": "https://open.spotify.com/album/7shtYxDm2JIN1hmypbmYBr"
       },
       "artists": [
         {
@@ -1860,13 +1860,13 @@
           "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
         },
         {
-          "name": "Medy",
-          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
         }
       ],
-      "duration_ms": 182067,
-      "name": "VIDA LOCA (feat. Medy)",
-      "url": "https://open.spotify.com/track/12zyH8VBFJiu3SOR1FMiYv"
+      "duration_ms": 157000,
+      "name": "DONNA VERA (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/5U3MS2PddLtfkwx3eJZmt8"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -2011,6 +2011,26 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
+        "name": "Fuorilegge (feat. Sayf)",
+        "url": "https://open.spotify.com/album/3B6NcRZgnqP8bnzcWBuNPR"
+      },
+      "artists": [
+        {
+          "name": "Disme",
+          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
+        },
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        }
+      ],
+      "duration_ms": 126371,
+      "name": "Fuorilegge (feat. Sayf)",
+      "url": "https://open.spotify.com/track/04BOFFqWdb2oxhYYJdCM11"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
         "name": "KG",
         "url": "https://open.spotify.com/album/2BZoZOivm2Khc1jSTRaswS"
       },
@@ -2031,26 +2051,6 @@
       "duration_ms": 218507,
       "name": "Rimango free (feat. Tony Effe)",
       "url": "https://open.spotify.com/track/6wLIy4qWNlG3RN3jhMDaky"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
-        "name": "Fuorilegge (feat. Sayf)",
-        "url": "https://open.spotify.com/album/3B6NcRZgnqP8bnzcWBuNPR"
-      },
-      "artists": [
-        {
-          "name": "Disme",
-          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
-        },
-        {
-          "name": "Sayf",
-          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
-        }
-      ],
-      "duration_ms": 126371,
-      "name": "Fuorilegge (feat. Sayf)",
-      "url": "https://open.spotify.com/track/04BOFFqWdb2oxhYYJdCM11"
     },
     {
       "added_at": "2026-02-12 23:01:39",

@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 301393,
+  "num_followers": 301409,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaIwAAAAAAAs4uspFaeiQqLvPq+o8xjq",
+  "snapshot_id": "aaOBgAAAAACR4gnO+IKpynu/W8dNraBB",
   "tracks": [
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The House Of Blue Light",
-        "url": "https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC"
+        "name": "Now What ?!",
+        "url": "https://open.spotify.com/album/4OiFn20i3aTu2FsMgP1yB5"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 277533,
-      "name": "The Unwritten Law",
-      "url": "https://open.spotify.com/track/2FTkYd4wvAJXVEwruv3IU2"
+      "duration_ms": 261493,
+      "name": "All the Time in the World",
+      "url": "https://open.spotify.com/track/34ZHOp9qnbLOR2BjNKlySt"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Now What ?!",
-        "url": "https://open.spotify.com/album/4OiFn20i3aTu2FsMgP1yB5"
+        "name": "The House Of Blue Light",
+        "url": "https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 261493,
-      "name": "All the Time in the World",
-      "url": "https://open.spotify.com/track/34ZHOp9qnbLOR2BjNKlySt"
+      "duration_ms": 277533,
+      "name": "The Unwritten Law",
+      "url": "https://open.spotify.com/track/2FTkYd4wvAJXVEwruv3IU2"
     },
     {
       "added_at": null,

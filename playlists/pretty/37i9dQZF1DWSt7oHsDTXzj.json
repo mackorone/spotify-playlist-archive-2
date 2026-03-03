@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 275096,
+  "num_followers": 275053,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/093RBGEAg4aKxxuAMrTAmz"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 163973,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/1j2CmnmtAdGBjuvnFj6UiM"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
         "name": "Christmas With You",
         "url": "https://open.spotify.com/album/2cWrkknTj4squbs2aANuHp"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 258332,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/0OF3lDc1c9Ws1WyElEUnnW"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/093RBGEAg4aKxxuAMrTAmz"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 163973,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/1j2CmnmtAdGBjuvnFj6UiM"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -611,6 +611,22 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
+        "name": "Surfing in Iceland",
+        "url": "https://open.spotify.com/album/5DI2qF4E1jhRgpnqAArL5q"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Surfing in Iceland",
+      "url": "https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
         "name": "This Christmas",
         "url": "https://open.spotify.com/album/08zgrixDuu7cQJ5AJO0KHW"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 225817,
       "name": "Home To You (This Christmas)",
       "url": "https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
-        "name": "Surfing in Iceland",
-        "url": "https://open.spotify.com/album/5DI2qF4E1jhRgpnqAArL5q"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Surfing in Iceland",
-      "url": "https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "Home Alone, Too",
-        "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 240233,
-      "name": "Home Alone, Too",
-      "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
         "name": "Winter Song",
         "url": "https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT"
       },
@@ -763,22 +747,34 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "Angel in the Snow (from \"Oh. What. Fun.\")",
-        "url": "https://open.spotify.com/album/7MPeLiCCYvdWWDaMlQBMwJ"
+        "name": "A Very Lonely Solstice",
+        "url": "https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h"
       },
       "artists": [
         {
           "name": "Fleet Foxes",
           "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        },
-        {
-          "name": "Oh. What. Fun.",
-          "url": "https://open.spotify.com/artist/5VYSkRVd4ZrQo12YhB3t7S"
         }
       ],
-      "duration_ms": 164457,
-      "name": "Angel in the Snow (from \"Oh. What. Fun.\")",
-      "url": "https://open.spotify.com/track/4PCW2aCVCGcyYPVI0JLp05"
+      "duration_ms": 190013,
+      "name": "I'm Not My Season - Solstice Version",
+      "url": "https://open.spotify.com/track/76IsL65w9IrYTMGzdTcE6A"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
+        "name": "Home Alone, Too",
+        "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 240233,
+      "name": "Home Alone, Too",
+      "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -835,6 +831,26 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
+        "name": "Angel in the Snow (from \"Oh. What. Fun.\")",
+        "url": "https://open.spotify.com/album/7MPeLiCCYvdWWDaMlQBMwJ"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        },
+        {
+          "name": "Oh. What. Fun.",
+          "url": "https://open.spotify.com/artist/5VYSkRVd4ZrQo12YhB3t7S"
+        }
+      ],
+      "duration_ms": 164457,
+      "name": "Angel in the Snow (from \"Oh. What. Fun.\")",
+      "url": "https://open.spotify.com/track/4PCW2aCVCGcyYPVI0JLp05"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
         "name": "Winter Wonderland",
         "url": "https://open.spotify.com/album/1x3pOVjZvQ5cj7bjCNpgBf"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 182788,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/45Fz5fmd0Iogz63iJ3kLV7"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
-        "name": "A Very Lonely Solstice",
-        "url": "https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "I'm Not My Season - Solstice Version",
-      "url": "https://open.spotify.com/track/76IsL65w9IrYTMGzdTcE6A"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "Merry Xmas Everybody",
-        "url": "https://open.spotify.com/album/60i7Lo8iMpAFEogjdDQje4"
-      },
-      "artists": [
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        }
-      ],
-      "duration_ms": 218706,
-      "name": "Merry Xmas Everybody",
-      "url": "https://open.spotify.com/track/5lfN1H4X6hDhHKMoZIApEN"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
         "name": "Christmas Special",
         "url": "https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl"
       },
@@ -979,18 +963,18 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14"
+        "name": "Merry Xmas Everybody",
+        "url": "https://open.spotify.com/album/60i7Lo8iMpAFEogjdDQje4"
       },
       "artists": [
         {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
         }
       ],
-      "duration_ms": 152426,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
+      "duration_ms": 218706,
+      "name": "Merry Xmas Everybody",
+      "url": "https://open.spotify.com/track/5lfN1H4X6hDhHKMoZIApEN"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1015,6 +999,22 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 152426,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
         "name": "Tchotchkes",
         "url": "https://open.spotify.com/album/7palXr5xfbnTxikTKz6xQA"
       },
@@ -1031,38 +1031,6 @@
       "duration_ms": 222521,
       "name": "Tchotchkes",
       "url": "https://open.spotify.com/track/52uBuW0bJLOR0l4L1wFObL"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
-        "name": "Another Sappy Xmas Love Song",
-        "url": "https://open.spotify.com/album/6i3hKwxlvvmvvNwPiYO2hS"
-      },
-      "artists": [
-        {
-          "name": "Maja Francis",
-          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
-        }
-      ],
-      "duration_ms": 144654,
-      "name": "Another Sappy Xmas Love Song",
-      "url": "https://open.spotify.com/track/45dXG5XwdHHVPIngz4VmJc"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
-        "name": "Darling I Do",
-        "url": "https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j"
-      },
-      "artists": [
-        {
-          "name": "Ezra Williams",
-          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
-        }
-      ],
-      "duration_ms": 181094,
-      "name": "Darling I Do",
-      "url": "https://open.spotify.com/track/4HQPftni948NDA17ajheQQ"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1087,22 +1055,34 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "We Should Be Together",
-        "url": "https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2"
+        "name": "Darling I Do",
+        "url": "https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j"
       },
       "artists": [
         {
-          "name": "Rosie Thomas",
-          "url": "https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr"
-        },
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "Ezra Williams",
+          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
         }
       ],
-      "duration_ms": 211946,
-      "name": "We Should Be Together",
-      "url": "https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ"
+      "duration_ms": 181094,
+      "name": "Darling I Do",
+      "url": "https://open.spotify.com/track/4HQPftni948NDA17ajheQQ"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
+        "name": "Another Sappy Xmas Love Song",
+        "url": "https://open.spotify.com/album/6i3hKwxlvvmvvNwPiYO2hS"
+      },
+      "artists": [
+        {
+          "name": "Maja Francis",
+          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
+        }
+      ],
+      "duration_ms": 144654,
+      "name": "Another Sappy Xmas Love Song",
+      "url": "https://open.spotify.com/track/45dXG5XwdHHVPIngz4VmJc"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1119,6 +1099,26 @@
       "duration_ms": 217733,
       "name": "2000 Miles",
       "url": "https://open.spotify.com/track/2DK1wbhNHD7HwA7Jpo8xtc"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
+        "name": "We Should Be Together",
+        "url": "https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2"
+      },
+      "artists": [
+        {
+          "name": "Rosie Thomas",
+          "url": "https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr"
+        },
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 211946,
+      "name": "We Should Be Together",
+      "url": "https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "Cozy Christmas / December Baby",
-        "url": "https://open.spotify.com/album/5eDRhqqR5tmiPnrUfCdLRe"
-      },
-      "artists": [
-        {
-          "name": "Molly Burch",
-          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
-        }
-      ],
-      "duration_ms": 237953,
-      "name": "Cozy Christmas",
-      "url": "https://open.spotify.com/track/1QnbWxNrVX5IlF7GeWqkZR"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
         "name": "santa baby",
         "url": "https://open.spotify.com/album/7wCLSfmIX1QqLnGwM35R4h"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 159209,
       "name": "santa baby",
       "url": "https://open.spotify.com/track/1gpXsWIb9HhdiK3KYDsCZr"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
+        "name": "Cozy Christmas / December Baby",
+        "url": "https://open.spotify.com/album/5eDRhqqR5tmiPnrUfCdLRe"
+      },
+      "artists": [
+        {
+          "name": "Molly Burch",
+          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
+        }
+      ],
+      "duration_ms": 237953,
+      "name": "Cozy Christmas",
+      "url": "https://open.spotify.com/track/1QnbWxNrVX5IlF7GeWqkZR"
     },
     {
       "added_at": "2025-12-17 22:42:18",

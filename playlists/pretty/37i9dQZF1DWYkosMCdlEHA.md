@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 
 > Versões desplugadas para curtir um reggae com os pés na areia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,106 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,122 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 42 | [A Verdade](https://open.spotify.com/track/2bYnxpCsu0GOPCH0VG98mu) | [Acustico Reggae](https://open.spotify.com/artist/7FcAQCTYtDwaJxuImpe7Wh) | [Na Cidade](https://open.spotify.com/album/6PazpBG8UxyQNrf2GFFpSt) | 3:19 |
 | 43 | [Estar Com Você \- Acústico](https://open.spotify.com/track/6RhGK2a9CBRBhkM8IrAbFy) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Emmano](https://open.spotify.com/artist/4kexQ10G1LH3GVukrGooaq) | [Acústico Helio Bentes](https://open.spotify.com/album/0dChJJpi23nrGBsdTiIRrh) | 2:56 |
 | 44 | [É Bonito de Ver](https://open.spotify.com/track/6JXOaARzGXPf2AFBadmKYt) | [Madayati](https://open.spotify.com/artist/1O2fKaLzlTYxvMe5aY738K) | [É Bonito de Ver](https://open.spotify.com/album/61gzMs1yYECO4jWiZ3I2T3) | 3:21 |
-| 45 | [A Casa do Sol/Sentimento \- Ao Vivo](https://open.spotify.com/track/5AxcOoKhbmtT3nxZiK8qnM) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR) | 5:08 |
+| 45 | [Versos Simples \- Ao Vivo](https://open.spotify.com/track/3REzLdUlfQRpRG6psodExG) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH), [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Ao Vivo em Buenos Aires](https://open.spotify.com/album/6awNZk5um5gkMuPZ8Kg8BD) | 3:07 |
 | 46 | [Rouxinois \- Acústico](https://open.spotify.com/track/4fRuM4IPj3p4KF1Y7noleR) | [Alma Djem](https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Rouxinois](https://open.spotify.com/album/6Yui3ZXHsYRpg0v7I4hMPc) | 3:21 |
 | 47 | [No Mar \- Ao Vivo](https://open.spotify.com/track/38P9vgI3czMkthxfAbwxcw) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts \- Natiruts Acústico ao Vivo no Rio de Janeiro](https://open.spotify.com/album/2Bgbj1L9OuhIsGNYumBMQb) | 3:29 |
 | 48 | [Deixe Me Ir \- Acústico](https://open.spotify.com/track/2srL4DYBekshpbprS6H0mO) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [Baviera](https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy) | [Deixe Me Ir \(Acústico\)](https://open.spotify.com/album/1eFFmE91zTBJQCz8YtFctr) | 3:33 |
 | 49 | [True Love](https://open.spotify.com/track/2Y9WfjpGt3kzv7cbRl3s3O) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE) | [Peace in a Time of War](https://open.spotify.com/album/4Wps42vdfVXj2aJW4mf2yn) | 4:16 |
-| 50 | [Versos Simples \- Ao Vivo](https://open.spotify.com/track/3REzLdUlfQRpRG6psodExG) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH), [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Ao Vivo em Buenos Aires](https://open.spotify.com/album/6awNZk5um5gkMuPZ8Kg8BD) | 3:07 |
+| 50 | [A Casa do Sol/Sentimento \- Ao Vivo](https://open.spotify.com/track/5AxcOoKhbmtT3nxZiK8qnM) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR) | 5:08 |
 | 51 | [Praia do Segredo \- Acústico](https://open.spotify.com/track/6bPoYE4I0M8oODWP4DUIsZ) | [Alma Djem](https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0), [Filipe Toca](https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ) | [Praia do Segredo](https://open.spotify.com/album/5Io826GC8cgB006FtK6X9C) | 2:54 |
 | 52 | [Quero Ser Feliz Também \- Ao Vivo](https://open.spotify.com/track/5qLTGDTTIHxxIU835qJWfT) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro](https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX) | 3:34 |
 | 53 | [Morena \(Acoustic Version\)](https://open.spotify.com/track/5WNKIFHYww0zLmpnNheVjq) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Morena \(Acoustic Version\)](https://open.spotify.com/album/4lYDCl27Ww01WS553y9v2h) | 2:46 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 473068,
+  "num_followers": 473097,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaIwAAAAAACgNVt5YpsyNzpODy/AuM6y",
+  "snapshot_id": "aaOBgAAAAACpxn2kVq+lh0RpGWXQ1CO8",
   "tracks": [
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Ejemplar",
-        "url": "https://open.spotify.com/album/4lijBURHkEvFWWNpvLSsqW"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "El Ejemplar",
-      "url": "https://open.spotify.com/track/5CDt26cBTTD90wyM5oMZ8I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Ah\u00ed, Por Ah\u00ed",
         "url": "https://open.spotify.com/album/41KOsqoNOP6XhNBtY3yqi8"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 157116,
       "name": "Por Ah\u00ed, Por Ah\u00ed",
       "url": "https://open.spotify.com/track/2nlSXEs9hETAlXCjZbnNvh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Ejemplar",
+        "url": "https://open.spotify.com/album/4lijBURHkEvFWWNpvLSsqW"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "El Ejemplar",
+      "url": "https://open.spotify.com/track/5CDt26cBTTD90wyM5oMZ8I"
     }
   ],
   "unique_name": "This Is Gerardo Ortiz",

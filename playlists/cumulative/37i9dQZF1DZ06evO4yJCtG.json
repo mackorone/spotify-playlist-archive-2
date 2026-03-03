@@ -96,7 +96,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 233826,
       "name": "A Mess (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/3HgJ1aYlEgy8Yj1NMAe1pm"
@@ -216,6 +216,24 @@
       "duration_ms": 256063,
       "name": "Boo'd Up",
       "url": "https://open.spotify.com/track/0At2qAoaVjIwWNAqrscXli"
+    },
+    {
+      "album": {
+        "name": "Heart On My Sleeve",
+        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194826,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/0TYsPcmqWOtPdaEXmHvNSE"
     },
     {
       "album": {

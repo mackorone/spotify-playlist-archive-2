@@ -852,7 +852,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 211200,
       "name": "Always You",
       "url": "https://open.spotify.com/track/4iQbxMbipWaFiATBZOwH0H"
@@ -17938,6 +17938,32 @@
       "duration_ms": 189743,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/5S8QwjM8mrw3E5hk03PiJY"
+    },
+    {
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/3QfoOlXqCd0fKvdgoIvi7o"
+      },
+      "artists": [
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "STAR SEED",
+          "url": "https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd"
+        },
+        {
+          "name": "Roniit",
+          "url": "https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219443,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/2oy8hKVHivBk8CxGWcmSqK"
     },
     {
       "album": {

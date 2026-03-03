@@ -110,7 +110,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-08",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Amen - Acoustic",
       "url": "https://open.spotify.com/track/2dPlHxjsK1Ol7sUiOj8qnv"
@@ -168,7 +168,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 260173,
       "name": "Anything To Feel Alive",
       "url": "https://open.spotify.com/track/0ZfCPcY1RrPKdY8L5N79YP"
@@ -222,7 +222,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 249863,
       "name": "Back to the River",
       "url": "https://open.spotify.com/track/7h15s9nOXVe8nH9TGqXb6O"
@@ -442,10 +442,28 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-09",
+      "date_removed": null,
       "duration_ms": 232725,
       "name": "Cape Forestier",
       "url": "https://open.spotify.com/track/4tV7sVnqQLrYao9oTCzYTq"
+    },
+    {
+      "album": {
+        "name": "Choosin' Texas",
+        "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232226,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
     },
     {
       "album": {
@@ -514,7 +532,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-26",
+      "date_removed": null,
       "duration_ms": 161979,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/6hYqOeI5ooN5ZRnxDAnfiZ"
@@ -604,7 +622,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 203346,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/1bBXBskc6n3uJywJUdcWEC"
@@ -1138,7 +1156,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 211704,
       "name": "I Look For You",
       "url": "https://open.spotify.com/track/4RLvewAmYtg8FetS2t3sjA"
@@ -1258,7 +1276,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 221271,
       "name": "In The Middle",
       "url": "https://open.spotify.com/track/7n2tqj3L3fflT1ApcOWWgw"
@@ -1666,7 +1684,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 168991,
       "name": "Never Fall In Love Again",
       "url": "https://open.spotify.com/track/3pJRl0wFfczrK4lr1au7QA"
@@ -1684,7 +1702,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-08",
+      "date_removed": null,
       "duration_ms": 187802,
       "name": "Nice To Meet You",
       "url": "https://open.spotify.com/track/7dmiORZteCCZMj9yWRtdsb"
@@ -1976,7 +1994,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 252080,
       "name": "Owls",
       "url": "https://open.spotify.com/track/2qsGpZXGFovXJid7OukhdB"
@@ -1994,7 +2012,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 167320,
       "name": "Po\u00e8te Maudit",
       "url": "https://open.spotify.com/track/1Jxowf9kQioNDbM2znWRbV"
@@ -2210,7 +2228,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-25",
+      "date_removed": null,
       "duration_ms": 292148,
       "name": "Solastalgia",
       "url": "https://open.spotify.com/track/132Dk6XKefIL9Ngja1xuya"
@@ -2264,7 +2282,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 218048,
       "name": "Something I Can't Fake",
       "url": "https://open.spotify.com/track/1M6RTeidHtMw2bvfWBJqO6"
@@ -2282,7 +2300,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-24",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "Still the One",
       "url": "https://open.spotify.com/track/5JxVAize3pjX0nFSabO9Ba"
@@ -2448,7 +2466,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 190266,
       "name": "the moment - acoustic",
       "url": "https://open.spotify.com/track/4b9V2ARN8RJxGDrGAoXR8i"
@@ -2596,7 +2614,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 254100,
       "name": "Waiting in the Wings",
       "url": "https://open.spotify.com/track/0lnkIwIK15rPeQDNIYF1bV"
@@ -2744,7 +2762,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-01",
+      "date_removed": null,
       "duration_ms": 202630,
       "name": "Wild Horses",
       "url": "https://open.spotify.com/track/1mvr2E4KITDTmGQVyoAa9D"
@@ -2780,7 +2798,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 243426,
       "name": "You Give Me Something (Refreshed)",
       "url": "https://open.spotify.com/track/6err1pHvebxSOOUQHVjNzH"

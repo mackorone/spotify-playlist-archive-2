@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: fedesttar",
-  "num_followers": 80873,
+  "num_followers": 80874,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -143,30 +143,6 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "BESOS (with Kidd Keo & Neelo)",
-        "url": "https://open.spotify.com/album/3lchk9CWRXo0pHD6et7bEY"
-      },
-      "artists": [
-        {
-          "name": "SwaggGlock",
-          "url": "https://open.spotify.com/artist/0TQ494EpT0cwX3JWh87nOr"
-        },
-        {
-          "name": "Neelo",
-          "url": "https://open.spotify.com/artist/2ENPnSzAeiXxEGFVQffe5q"
-        },
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
-        }
-      ],
-      "duration_ms": 172852,
-      "name": "BESOS (with Kidd Keo & Neelo)",
-      "url": "https://open.spotify.com/track/3b6waQzXeYty0R6EDAv0po"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
         "name": "Otro Show",
         "url": "https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU"
       },
@@ -187,6 +163,30 @@
       "duration_ms": 160800,
       "name": "Otro Show",
       "url": "https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
+        "name": "BESOS (with Kidd Keo & Neelo)",
+        "url": "https://open.spotify.com/album/3lchk9CWRXo0pHD6et7bEY"
+      },
+      "artists": [
+        {
+          "name": "SwaggGlock",
+          "url": "https://open.spotify.com/artist/0TQ494EpT0cwX3JWh87nOr"
+        },
+        {
+          "name": "Neelo",
+          "url": "https://open.spotify.com/artist/2ENPnSzAeiXxEGFVQffe5q"
+        },
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "duration_ms": 172852,
+      "name": "BESOS (with Kidd Keo & Neelo)",
+      "url": "https://open.spotify.com/track/3b6waQzXeYty0R6EDAv0po"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "Perdon\u00e9monos",
-        "url": "https://open.spotify.com/album/5sYzVuTy6UrHdvAaai7y3i"
-      },
-      "artists": [
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        }
-      ],
-      "duration_ms": 136421,
-      "name": "Perdon\u00e9monos",
-      "url": "https://open.spotify.com/track/7hIstL0FGshcF8Tk2inv5q"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
         "name": "Mi Fanatica",
         "url": "https://open.spotify.com/album/5w21QO36y3jDzjy0QkhduY"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 223283,
       "name": "Mi Fanatica",
       "url": "https://open.spotify.com/track/4M3UPGNere257tK0Qguga2"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
+        "name": "Perdon\u00e9monos",
+        "url": "https://open.spotify.com/album/5sYzVuTy6UrHdvAaai7y3i"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "duration_ms": 136421,
+      "name": "Perdon\u00e9monos",
+      "url": "https://open.spotify.com/track/7hIstL0FGshcF8Tk2inv5q"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "Imposible",
-        "url": "https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 187411,
-      "name": "Imposible",
-      "url": "https://open.spotify.com/track/5fMo4acbRCkXZRsSuwxYZX"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
         "name": "Uy k raro",
         "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 127264,
       "name": "Uy k raro",
       "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
+        "name": "Imposible",
+        "url": "https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 187411,
+      "name": "Imposible",
+      "url": "https://open.spotify.com/track/5fMo4acbRCkXZRsSuwxYZX"
     },
     {
       "added_at": "2025-09-18 23:00:14",

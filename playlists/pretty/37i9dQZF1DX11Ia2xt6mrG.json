@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Joaquin Coronel y Marcos Villalobos en portada.",
-  "num_followers": 70571,
+  "num_followers": 70599,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-02-27 06:00:27",
       "album": {
-        "name": "Tutankamon House Mix",
-        "url": "https://open.spotify.com/album/1P1u7k08bAEEvcL9lRjGVF"
-      },
-      "artists": [
-        {
-          "name": "Sundraks",
-          "url": "https://open.spotify.com/artist/5U3mJ8I8zmoNFCVm01jWxI"
-        }
-      ],
-      "duration_ms": 211588,
-      "name": "Tutankamon House Mix",
-      "url": "https://open.spotify.com/track/6DUMR5QXO3tu6QqptEBtR0"
-    },
-    {
-      "added_at": "2026-02-27 06:00:27",
-      "album": {
         "name": "CONTIGO",
         "url": "https://open.spotify.com/album/4wFW6LZYOlP9Z8k61EkSKX"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 148005,
       "name": "CONTIGO",
       "url": "https://open.spotify.com/track/5qCTJioPNb1VRqBr2q5paD"
+    },
+    {
+      "added_at": "2026-02-27 06:00:27",
+      "album": {
+        "name": "Tutankamon House Mix",
+        "url": "https://open.spotify.com/album/1P1u7k08bAEEvcL9lRjGVF"
+      },
+      "artists": [
+        {
+          "name": "Sundraks",
+          "url": "https://open.spotify.com/artist/5U3mJ8I8zmoNFCVm01jWxI"
+        }
+      ],
+      "duration_ms": 211588,
+      "name": "Tutankamon House Mix",
+      "url": "https://open.spotify.com/track/6DUMR5QXO3tu6QqptEBtR0"
     },
     {
       "added_at": "2026-02-27 06:00:27",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-02-27 06:00:27",
       "album": {
+        "name": "MENTA",
+        "url": "https://open.spotify.com/album/5bXr2XhcLObuX0LFVjSEYT"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 148292,
+      "name": "MENTA",
+      "url": "https://open.spotify.com/track/4zP8ttW05BnEguMVb9mqJr"
+    },
+    {
+      "added_at": "2026-02-27 06:00:27",
+      "album": {
         "name": "Como La Flor",
         "url": "https://open.spotify.com/album/5O60OvFCNM7VOq5tiZwWyB"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 174555,
       "name": "Como La Flor",
       "url": "https://open.spotify.com/track/2rtNhMuH01qb1riJvC6wJR"
-    },
-    {
-      "added_at": "2026-02-27 06:00:27",
-      "album": {
-        "name": "MENTA",
-        "url": "https://open.spotify.com/album/5bXr2XhcLObuX0LFVjSEYT"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 148292,
-      "name": "MENTA",
-      "url": "https://open.spotify.com/track/4zP8ttW05BnEguMVb9mqJr"
     },
     {
       "added_at": "2026-02-27 06:00:27",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2026-02-27 06:00:27",
       "album": {
-        "name": "Lunita (J.Pool Remix)",
-        "url": "https://open.spotify.com/album/1DCdPcM35yP2fUTbl3MtdL"
-      },
-      "artists": [
-        {
-          "name": "J.Pool",
-          "url": "https://open.spotify.com/artist/7iSrZnlJ40zaqjWSIgWdvV"
-        },
-        {
-          "name": "Danit",
-          "url": "https://open.spotify.com/artist/3Hue0QXHSHhpjbqWk3HmtY"
-        }
-      ],
-      "duration_ms": 380878,
-      "name": "Lunita - J.Pool Remix",
-      "url": "https://open.spotify.com/track/4jeBHPvew0cmOwkBplcZcH"
-    },
-    {
-      "added_at": "2026-02-27 06:00:27",
-      "album": {
         "name": "Dancing On Dangerous",
         "url": "https://open.spotify.com/album/3jkuK2ShKMXEjgI2B7aw1o"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 123428,
       "name": "Dancing On Dangerous",
       "url": "https://open.spotify.com/track/0lipGKQoFraacrrBb3Qyg4"
+    },
+    {
+      "added_at": "2026-02-27 06:00:27",
+      "album": {
+        "name": "Lunita (J.Pool Remix)",
+        "url": "https://open.spotify.com/album/1DCdPcM35yP2fUTbl3MtdL"
+      },
+      "artists": [
+        {
+          "name": "J.Pool",
+          "url": "https://open.spotify.com/artist/7iSrZnlJ40zaqjWSIgWdvV"
+        },
+        {
+          "name": "Danit",
+          "url": "https://open.spotify.com/artist/3Hue0QXHSHhpjbqWk3HmtY"
+        }
+      ],
+      "duration_ms": 380878,
+      "name": "Lunita - J.Pool Remix",
+      "url": "https://open.spotify.com/track/4jeBHPvew0cmOwkBplcZcH"
     },
     {
       "added_at": "2026-02-27 06:00:27",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2026-02-27 06:00:27",
       "album": {
-        "name": "Afuera Que Tengan Miedo (Jayrick Remix)",
-        "url": "https://open.spotify.com/album/3Oxo5otS6sHMaa06uPUGxp"
-      },
-      "artists": [
-        {
-          "name": "Jayrick",
-          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 166110,
-      "name": "Afuera Que Tengan Miedo - Jayrick Remix",
-      "url": "https://open.spotify.com/track/3Sualy9gkVDHDgOKcTJgFd"
-    },
-    {
-      "added_at": "2026-02-27 06:00:27",
-      "album": {
         "name": "Light Up",
         "url": "https://open.spotify.com/album/3lpliBOg303cNhbNCeDMZm"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 161378,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/319XgEPeEfhMw276p5wzg3"
+    },
+    {
+      "added_at": "2026-02-27 06:00:27",
+      "album": {
+        "name": "Afuera Que Tengan Miedo (Jayrick Remix)",
+        "url": "https://open.spotify.com/album/3Oxo5otS6sHMaa06uPUGxp"
+      },
+      "artists": [
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 166110,
+      "name": "Afuera Que Tengan Miedo - Jayrick Remix",
+      "url": "https://open.spotify.com/track/3Sualy9gkVDHDgOKcTJgFd"
     },
     {
       "added_at": "2026-02-27 06:00:27",
@@ -1411,22 +1411,26 @@
     {
       "added_at": "2026-02-27 06:00:27",
       "album": {
-        "name": "cu\u00e1ndo",
-        "url": "https://open.spotify.com/album/6MIUe2REUhOTndOLvPKvCr"
+        "name": "Corazon de Melon",
+        "url": "https://open.spotify.com/album/4dnhKzEzKNdt8wObh5sPQ5"
       },
       "artists": [
         {
-          "name": "Jayrick",
-          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
         },
         {
-          "name": "Yng Naz",
-          "url": "https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC"
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "Los Miranda",
+          "url": "https://open.spotify.com/artist/1gEJUDZiXSNjVJBDzpZh8f"
         }
       ],
-      "duration_ms": 201293,
-      "name": "cu\u00e1ndo",
-      "url": "https://open.spotify.com/track/6NVU7iVKXBmo07g4c3nLvh"
+      "duration_ms": 175161,
+      "name": "Corazon de Melon",
+      "url": "https://open.spotify.com/track/0OPOLrWNtqperhd32Q8XnF"
     },
     {
       "added_at": "2026-02-27 06:00:27",
@@ -1455,26 +1459,22 @@
     {
       "added_at": "2026-02-27 06:00:27",
       "album": {
-        "name": "Corazon de Melon",
-        "url": "https://open.spotify.com/album/4dnhKzEzKNdt8wObh5sPQ5"
+        "name": "LLORAR!",
+        "url": "https://open.spotify.com/album/1ADAcjQ6EVTWOzC7yYKQI4"
       },
       "artists": [
         {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+          "name": "RIXXIA",
+          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
         },
         {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "Los Miranda",
-          "url": "https://open.spotify.com/artist/1gEJUDZiXSNjVJBDzpZh8f"
+          "name": "Fito Silva",
+          "url": "https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64"
         }
       ],
-      "duration_ms": 175161,
-      "name": "Corazon de Melon",
-      "url": "https://open.spotify.com/track/0OPOLrWNtqperhd32Q8XnF"
+      "duration_ms": 107200,
+      "name": "LLORAR!",
+      "url": "https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf"
     },
     {
       "added_at": "2026-02-27 06:00:27",
@@ -1499,22 +1499,22 @@
     {
       "added_at": "2026-02-27 06:00:27",
       "album": {
-        "name": "LLORAR!",
-        "url": "https://open.spotify.com/album/1ADAcjQ6EVTWOzC7yYKQI4"
+        "name": "cu\u00e1ndo",
+        "url": "https://open.spotify.com/album/6MIUe2REUhOTndOLvPKvCr"
       },
       "artists": [
         {
-          "name": "RIXXIA",
-          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
         },
         {
-          "name": "Fito Silva",
-          "url": "https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64"
+          "name": "Yng Naz",
+          "url": "https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC"
         }
       ],
-      "duration_ms": 107200,
-      "name": "LLORAR!",
-      "url": "https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf"
+      "duration_ms": 201293,
+      "name": "cu\u00e1ndo",
+      "url": "https://open.spotify.com/track/6NVU7iVKXBmo07g4c3nLvh"
     },
     {
       "added_at": "2026-02-27 06:00:27",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2026-02-27 06:00:27",
       "album": {
-        "name": "NOCHE FRIA",
-        "url": "https://open.spotify.com/album/5pSLDdzSk6qgadsklb8VIN"
-      },
-      "artists": [
-        {
-          "name": "Happykid",
-          "url": "https://open.spotify.com/artist/3tTFvAvXhP8GtGZ35GN7J2"
-        },
-        {
-          "name": "Mendoza",
-          "url": "https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "NOCHE FRIA",
-      "url": "https://open.spotify.com/track/5hXBT9Mfo3SqlevuDRpmjG"
-    },
-    {
-      "added_at": "2026-02-27 06:00:27",
-      "album": {
         "name": "G\u00f3zalo (with Deorro)",
         "url": "https://open.spotify.com/album/3QTUE4qt5rd4fxSsjX2eQy"
       },
@@ -1667,6 +1647,26 @@
       "duration_ms": 153875,
       "name": "Serena",
       "url": "https://open.spotify.com/track/34Cc71Twm8s2IICmiIdWPR"
+    },
+    {
+      "added_at": "2026-02-27 06:00:27",
+      "album": {
+        "name": "NOCHE FRIA",
+        "url": "https://open.spotify.com/album/5pSLDdzSk6qgadsklb8VIN"
+      },
+      "artists": [
+        {
+          "name": "Happykid",
+          "url": "https://open.spotify.com/artist/3tTFvAvXhP8GtGZ35GN7J2"
+        },
+        {
+          "name": "Mendoza",
+          "url": "https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "NOCHE FRIA",
+      "url": "https://open.spotify.com/track/5hXBT9Mfo3SqlevuDRpmjG"
     },
     {
       "added_at": "2026-02-27 06:00:27",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2026-02-27 06:00:27",
       "album": {
-        "name": "MiDNiGHT",
-        "url": "https://open.spotify.com/album/6rHbnk2tsW8nVVqM6vIhxy"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 186595,
-      "name": "MiDNiGHT",
-      "url": "https://open.spotify.com/track/63hryqFlfnTheZeeueei2E"
-    },
-    {
-      "added_at": "2026-02-27 06:00:27",
-      "album": {
         "name": "LIV - Spotify Singles",
         "url": "https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 165248,
       "name": "LIV - Spotify Singles",
       "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"
+    },
+    {
+      "added_at": "2026-02-27 06:00:27",
+      "album": {
+        "name": "MiDNiGHT",
+        "url": "https://open.spotify.com/album/6rHbnk2tsW8nVVqM6vIhxy"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 186595,
+      "name": "MiDNiGHT",
+      "url": "https://open.spotify.com/track/63hryqFlfnTheZeeueei2E"
     },
     {
       "added_at": "2026-02-27 06:00:27",

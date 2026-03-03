@@ -1,6 +1,6 @@
 {
   "description": "\u2744\ufe0f\u2744\ufe0f\u2744\ufe0f\n",
-  "num_followers": 159601,
+  "num_followers": 159586,
   "original_name": "vintertid",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
+        "name": "THEO",
+        "url": "https://open.spotify.com/album/3rrqMxbSQS4H2wWY9uDHzu"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+        }
+      ],
+      "duration_ms": 147018,
+      "name": "THEO",
+      "url": "https://open.spotify.com/track/6eD4ndwM2co4RBDFjWhkye"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
         "name": "Gro Harlem Brundtland",
         "url": "https://open.spotify.com/album/7hNyb9KXnAjTUQbnLpfOIN"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 159472,
       "name": "Lykke til pappa",
       "url": "https://open.spotify.com/track/2i8HqCbclrZUaN1PexNjy9"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
-        "name": "THEO",
-        "url": "https://open.spotify.com/album/3rrqMxbSQS4H2wWY9uDHzu"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n",
-          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
-        }
-      ],
-      "duration_ms": 147018,
-      "name": "THEO",
-      "url": "https://open.spotify.com/track/6eD4ndwM2co4RBDFjWhkye"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Heim te st\u00e5vo",
-        "url": "https://open.spotify.com/album/05u8TF0hM8smBXuomQeVDi"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 196758,
-      "name": "Heim te st\u00e5vo",
-      "url": "https://open.spotify.com/track/07F3aHvvLxqV5Fp49pkwpZ"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "Rosary",
         "url": "https://open.spotify.com/album/1psqIPAeNCLC2w7oY7VL0W"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 142219,
       "name": "Rosary",
       "url": "https://open.spotify.com/track/1UT5wJDwXkSeMT0zsW9J3y"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "Heim te st\u00e5vo",
+        "url": "https://open.spotify.com/album/05u8TF0hM8smBXuomQeVDi"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 196758,
+      "name": "Heim te st\u00e5vo",
+      "url": "https://open.spotify.com/track/07F3aHvvLxqV5Fp49pkwpZ"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Oppe p\u00e5 m\u00e5nen",
-        "url": "https://open.spotify.com/album/2D2Q25zXzCo9uu8OydjVyl"
-      },
-      "artists": [
-        {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
-        }
-      ],
-      "duration_ms": 215991,
-      "name": "Oppe p\u00e5 m\u00e5nen",
-      "url": "https://open.spotify.com/track/4PtFehKH1ric4In2Mc5Asg"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "Don't Let Me Go",
         "url": "https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o"
       },
@@ -523,18 +507,18 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Tjue \u00e5r",
-        "url": "https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh"
+        "name": "Oppe p\u00e5 m\u00e5nen",
+        "url": "https://open.spotify.com/album/2D2Q25zXzCo9uu8OydjVyl"
       },
       "artists": [
         {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
         }
       ],
-      "duration_ms": 259096,
-      "name": "Tjue \u00e5r",
-      "url": "https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z"
+      "duration_ms": 215991,
+      "name": "Oppe p\u00e5 m\u00e5nen",
+      "url": "https://open.spotify.com/track/4PtFehKH1ric4In2Mc5Asg"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -551,6 +535,22 @@
       "duration_ms": 190522,
       "name": "Real To Me",
       "url": "https://open.spotify.com/track/5mThLXcmnbDgoudfO6HBNm"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "Tjue \u00e5r",
+        "url": "https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 259096,
+      "name": "Tjue \u00e5r",
+      "url": "https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Store gutter gr\u00e5ter ikke",
-        "url": "https://open.spotify.com/album/4uNU8y4zM8haEuPoOo6Nyb"
-      },
-      "artists": [
-        {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
-        }
-      ],
-      "duration_ms": 208366,
-      "name": "Store gutter gr\u00e5ter ikke",
-      "url": "https://open.spotify.com/track/32JhFHLRR4DGWHVg8txEK7"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "Jeg sp\u00f8r for en venn",
         "url": "https://open.spotify.com/album/1fwGUwoY9ipUsVm45sCiJy"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 193148,
       "name": "Jeg sp\u00f8r for en venn",
       "url": "https://open.spotify.com/track/2icHHKPqztIkn5neapSswk"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "Store gutter gr\u00e5ter ikke",
+        "url": "https://open.spotify.com/album/4uNU8y4zM8haEuPoOo6Nyb"
+      },
+      "artists": [
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        }
+      ],
+      "duration_ms": 208366,
+      "name": "Store gutter gr\u00e5ter ikke",
+      "url": "https://open.spotify.com/track/32JhFHLRR4DGWHVg8txEK7"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "jeg holder pusten til du drar",
-        "url": "https://open.spotify.com/album/3o43FGM9DQK2wqq27KBUxx"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n",
-          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
-        }
-      ],
-      "duration_ms": 185338,
-      "name": "jeg holder pusten til du drar",
-      "url": "https://open.spotify.com/track/17p6Y3tYZpnESAcFIMDPOJ"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "\u00c6lsk n\u00e5nn",
         "url": "https://open.spotify.com/album/3SxRO68yT4mmagISCMzjJP"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 185206,
       "name": "\u00c6lsk n\u00e5nn",
       "url": "https://open.spotify.com/track/3m4V5TOoJCX2zriMAQNIk4"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "jeg holder pusten til du drar",
+        "url": "https://open.spotify.com/album/3o43FGM9DQK2wqq27KBUxx"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+        }
+      ],
+      "duration_ms": 185338,
+      "name": "jeg holder pusten til du drar",
+      "url": "https://open.spotify.com/track/17p6Y3tYZpnESAcFIMDPOJ"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -779,6 +779,26 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
+        "name": "Bedre dager",
+        "url": "https://open.spotify.com/album/5HHcnHBqXIUVRMnhPiBco4"
+      },
+      "artists": [
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        },
+        {
+          "name": "May",
+          "url": "https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE"
+        }
+      ],
+      "duration_ms": 201260,
+      "name": "Forever Young (feat. May)",
+      "url": "https://open.spotify.com/track/1Kf59Rq6P8zUVjH8PbLBot"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
         "name": "Venter du",
         "url": "https://open.spotify.com/album/33rnPbG5uBGM1klUO46Arc"
       },
@@ -795,6 +815,22 @@
       "duration_ms": 157360,
       "name": "Venter du",
       "url": "https://open.spotify.com/track/4MWldeK06AisUkSYARj8YD"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "Delt i to",
+        "url": "https://open.spotify.com/album/1HZ2QKz0QAnDM7O6nk1cSN"
+      },
+      "artists": [
+        {
+          "name": "Ingrid V\u00e5rvik",
+          "url": "https://open.spotify.com/artist/0EZzUcdUUvHZbw77Cmy5uU"
+        }
+      ],
+      "duration_ms": 195937,
+      "name": "Delt i to",
+      "url": "https://open.spotify.com/track/0kL2WXiMfgkDZFYwyRjvxZ"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -835,42 +871,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Delt i to",
-        "url": "https://open.spotify.com/album/1HZ2QKz0QAnDM7O6nk1cSN"
-      },
-      "artists": [
-        {
-          "name": "Ingrid V\u00e5rvik",
-          "url": "https://open.spotify.com/artist/0EZzUcdUUvHZbw77Cmy5uU"
-        }
-      ],
-      "duration_ms": 195937,
-      "name": "Delt i to",
-      "url": "https://open.spotify.com/track/0kL2WXiMfgkDZFYwyRjvxZ"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
-        "name": "Bedre dager",
-        "url": "https://open.spotify.com/album/5HHcnHBqXIUVRMnhPiBco4"
-      },
-      "artists": [
-        {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
-        },
-        {
-          "name": "May",
-          "url": "https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE"
-        }
-      ],
-      "duration_ms": 201260,
-      "name": "Forever Young (feat. May)",
-      "url": "https://open.spotify.com/track/1Kf59Rq6P8zUVjH8PbLBot"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "Milk and Honey",
         "url": "https://open.spotify.com/album/7HCxPekCpgu7wlhahLmxFf"
       },
@@ -903,26 +903,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Can't Let Him Win",
-        "url": "https://open.spotify.com/album/1MTC1u6CHauWISb9Hxz2do"
-      },
-      "artists": [
-        {
-          "name": "Maria Mena",
-          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
-        },
-        {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
-        }
-      ],
-      "duration_ms": 185628,
-      "name": "Can't Let Him Win",
-      "url": "https://open.spotify.com/track/5S0DFXk6kIDc7sGk5pFdCW"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "I'll be the light",
         "url": "https://open.spotify.com/album/1k5IS1kmJi8s2gHZTyHdAE"
       },
@@ -951,18 +931,22 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Kanskje det g\u00e5r te helvete",
-        "url": "https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8"
+        "name": "Can't Let Him Win",
+        "url": "https://open.spotify.com/album/1MTC1u6CHauWISb9Hxz2do"
       },
       "artists": [
         {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+          "name": "Maria Mena",
+          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
+        },
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
         }
       ],
-      "duration_ms": 146813,
-      "name": "Gjesten p\u00e5 festen",
-      "url": "https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs"
+      "duration_ms": 185628,
+      "name": "Can't Let Him Win",
+      "url": "https://open.spotify.com/track/5S0DFXk6kIDc7sGk5pFdCW"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -983,18 +967,18 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "I Could Miss You Forever",
-        "url": "https://open.spotify.com/album/3wakAMVNSBt9CTCdnoUEmx"
+        "name": "Kanskje det g\u00e5r te helvete",
+        "url": "https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8"
       },
       "artists": [
         {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
         }
       ],
-      "duration_ms": 217908,
-      "name": "I Could Miss You Forever",
-      "url": "https://open.spotify.com/track/3F81PYqkx4j3pFX9aQORg0"
+      "duration_ms": 146813,
+      "name": "Gjesten p\u00e5 festen",
+      "url": "https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -1011,6 +995,22 @@
       "duration_ms": 175360,
       "name": "Hva vi kunne bli",
       "url": "https://open.spotify.com/track/11A6wBoTeemgHHuCotUL3u"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "I Could Miss You Forever",
+        "url": "https://open.spotify.com/album/3wakAMVNSBt9CTCdnoUEmx"
+      },
+      "artists": [
+        {
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+        }
+      ],
+      "duration_ms": 217908,
+      "name": "I Could Miss You Forever",
+      "url": "https://open.spotify.com/track/3F81PYqkx4j3pFX9aQORg0"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -1131,6 +1131,78 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
+        "name": "S\u00f8tt&salt (feat. Peg Parnevik)",
+        "url": "https://open.spotify.com/album/1DAzwoszWtY4o91JZuoaSI"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        },
+        {
+          "name": "Peg Parnevik",
+          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
+        }
+      ],
+      "duration_ms": 195929,
+      "name": "S\u00f8tt&salt (feat. Peg Parnevik)",
+      "url": "https://open.spotify.com/track/0x6GH84ivlsgENm1ALvyaE"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "Skyfri himmel",
+        "url": "https://open.spotify.com/album/1ZMfhQD8MkMGSqydaXAGgN"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        },
+        {
+          "name": "Ylva",
+          "url": "https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG"
+        }
+      ],
+      "duration_ms": 225570,
+      "name": "Skyfri himmel",
+      "url": "https://open.spotify.com/track/1zQPWQuZRK63pvxAVhC9za"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "fear of looking stupid",
+        "url": "https://open.spotify.com/album/2Ytf3TGP7VtlcKV8afZkwv"
+      },
+      "artists": [
+        {
+          "name": "tiri",
+          "url": "https://open.spotify.com/artist/2eFsG8AlPcPY6FJ7mGTluZ"
+        }
+      ],
+      "duration_ms": 164812,
+      "name": "fear of looking stupid",
+      "url": "https://open.spotify.com/track/10q0rCqrt4souYm86tgt3Q"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "Jeg vil ikke st\u00e5 i ro lenger",
+        "url": "https://open.spotify.com/album/5tOX3r3JMbo4tCYOuExN8A"
+      },
+      "artists": [
+        {
+          "name": "Randi Oline",
+          "url": "https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV"
+        }
+      ],
+      "duration_ms": 173822,
+      "name": "Late Bloomer",
+      "url": "https://open.spotify.com/track/2O5HmTtJOZaRQ6TMOKf4Gg"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/2M3flg4qynuOU0A5YAqciG"
       },
@@ -1163,78 +1235,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "fear of looking stupid",
-        "url": "https://open.spotify.com/album/2Ytf3TGP7VtlcKV8afZkwv"
-      },
-      "artists": [
-        {
-          "name": "tiri",
-          "url": "https://open.spotify.com/artist/2eFsG8AlPcPY6FJ7mGTluZ"
-        }
-      ],
-      "duration_ms": 164812,
-      "name": "fear of looking stupid",
-      "url": "https://open.spotify.com/track/10q0rCqrt4souYm86tgt3Q"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
-        "name": "S\u00f8tt&salt (feat. Peg Parnevik)",
-        "url": "https://open.spotify.com/album/1DAzwoszWtY4o91JZuoaSI"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        },
-        {
-          "name": "Peg Parnevik",
-          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
-        }
-      ],
-      "duration_ms": 195929,
-      "name": "S\u00f8tt&salt (feat. Peg Parnevik)",
-      "url": "https://open.spotify.com/track/0x6GH84ivlsgENm1ALvyaE"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
-        "name": "Jeg vil ikke st\u00e5 i ro lenger",
-        "url": "https://open.spotify.com/album/5tOX3r3JMbo4tCYOuExN8A"
-      },
-      "artists": [
-        {
-          "name": "Randi Oline",
-          "url": "https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV"
-        }
-      ],
-      "duration_ms": 173822,
-      "name": "Late Bloomer",
-      "url": "https://open.spotify.com/track/2O5HmTtJOZaRQ6TMOKf4Gg"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
-        "name": "Skyfri himmel",
-        "url": "https://open.spotify.com/album/1ZMfhQD8MkMGSqydaXAGgN"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
-        },
-        {
-          "name": "Ylva",
-          "url": "https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG"
-        }
-      ],
-      "duration_ms": 225570,
-      "name": "Skyfri himmel",
-      "url": "https://open.spotify.com/track/1zQPWQuZRK63pvxAVhC9za"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "Learning as I go",
         "url": "https://open.spotify.com/album/582q1GIAIEpNO2kbJefbXG"
       },
@@ -1247,22 +1247,6 @@
       "duration_ms": 167280,
       "name": "Learning as I go",
       "url": "https://open.spotify.com/track/5ktB8vssJ9jlSFKtxejBB5"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
-        "name": "ETTERGL\u00d8D",
-        "url": "https://open.spotify.com/album/1jbJbBZDzFYZbs1EE8gwP3"
-      },
-      "artists": [
-        {
-          "name": "Ka2",
-          "url": "https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe"
-        }
-      ],
-      "duration_ms": 241500,
-      "name": "For alltid",
-      "url": "https://open.spotify.com/track/21rohU3ZnqnLXDvHFbR3E2"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -1303,6 +1287,22 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
+        "name": "ETTERGL\u00d8D",
+        "url": "https://open.spotify.com/album/1jbJbBZDzFYZbs1EE8gwP3"
+      },
+      "artists": [
+        {
+          "name": "Ka2",
+          "url": "https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe"
+        }
+      ],
+      "duration_ms": 241500,
+      "name": "For alltid",
+      "url": "https://open.spotify.com/track/21rohU3ZnqnLXDvHFbR3E2"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
         "name": "Oh Love (Acoustic)",
         "url": "https://open.spotify.com/album/2LYicowoYBTLSr5vRw0zOZ"
       },
@@ -1331,6 +1331,22 @@
       "duration_ms": 141335,
       "name": "Fargepalett",
       "url": "https://open.spotify.com/track/7r8FITLqf8562PHKShR9gc"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
+        "url": "https://open.spotify.com/album/4mAbJTCZceU9TDFjHmEr4u"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
+      "url": "https://open.spotify.com/track/4ijd1dEAZFTJ8FEUyD7k45"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -1367,22 +1383,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
-        "url": "https://open.spotify.com/album/4mAbJTCZceU9TDFjHmEr4u"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 206333,
-      "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
-      "url": "https://open.spotify.com/track/4ijd1dEAZFTJ8FEUyD7k45"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "Give Me Your Love Back",
         "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
       },
@@ -1395,22 +1395,6 @@
       "duration_ms": 176097,
       "name": "Give Me Your Love Back",
       "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
-        "name": "Finaste s\u00e5 finns",
-        "url": "https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1"
-      },
-      "artists": [
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 190405,
-      "name": "Finaste s\u00e5 finns",
-      "url": "https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -1431,6 +1415,22 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
+        "name": "Finaste s\u00e5 finns",
+        "url": "https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1"
+      },
+      "artists": [
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "duration_ms": 190405,
+      "name": "Finaste s\u00e5 finns",
+      "url": "https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
         "name": "05050",
         "url": "https://open.spotify.com/album/78Y7RCEFDKdDWfQ62prVwx"
       },
@@ -1443,26 +1443,6 @@
       "duration_ms": 186739,
       "name": "DESPU\u00c9S DE LA FERIA",
       "url": "https://open.spotify.com/track/0gi0UeiivFSkgrc8Bw7m4x"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
-        "name": "Spor i sn\u00f8",
-        "url": "https://open.spotify.com/album/5ALVZSAv6BgrsAJNLvkfbV"
-      },
-      "artists": [
-        {
-          "name": "Stein Torleif Bjella",
-          "url": "https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 230680,
-      "name": "Spor i sn\u00f8",
-      "url": "https://open.spotify.com/track/00Hpn2m6O7fInTduN987Zc"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -1483,6 +1463,26 @@
       "duration_ms": 220333,
       "name": "S\u00e5 easy",
       "url": "https://open.spotify.com/track/5XseAj5jHF5ncdTu6a89ak"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "Spor i sn\u00f8",
+        "url": "https://open.spotify.com/album/5ALVZSAv6BgrsAJNLvkfbV"
+      },
+      "artists": [
+        {
+          "name": "Stein Torleif Bjella",
+          "url": "https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 230680,
+      "name": "Spor i sn\u00f8",
+      "url": "https://open.spotify.com/track/00Hpn2m6O7fInTduN987Zc"
     }
   ],
   "unique_name": "vintertid",

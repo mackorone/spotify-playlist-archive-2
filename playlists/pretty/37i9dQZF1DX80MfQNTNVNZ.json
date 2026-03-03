@@ -1,6 +1,6 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B ",
-  "num_followers": 214773,
+  "num_followers": 214795,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2026-02-25 03:50:44",
       "album": {
+        "name": "Red Moon",
+        "url": "https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 212483,
+      "name": "Red Moon",
+      "url": "https://open.spotify.com/track/44tb4TdFVliafU17EQg28J"
+    },
+    {
+      "added_at": "2026-02-25 03:50:44",
+      "album": {
         "name": "Butterflies (feat. AURORA)",
         "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 130666,
       "name": "Butterflies (feat. AURORA)",
       "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
-    },
-    {
-      "added_at": "2026-02-25 03:50:44",
-      "album": {
-        "name": "Red Moon",
-        "url": "https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 212483,
-      "name": "Red Moon",
-      "url": "https://open.spotify.com/track/44tb4TdFVliafU17EQg28J"
     },
     {
       "added_at": "2026-02-25 03:50:44",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-02-25 03:50:44",
       "album": {
-        "name": "Pressha",
-        "url": "https://open.spotify.com/album/3iwMGcNrnJggwXlv3SNiGB"
-      },
-      "artists": [
-        {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
-        }
-      ],
-      "duration_ms": 256855,
-      "name": "Pressha",
-      "url": "https://open.spotify.com/track/7KNcY52YH6VFnYYabMgxLM"
-    },
-    {
-      "added_at": "2026-02-25 03:50:44",
-      "album": {
         "name": "Good Care",
         "url": "https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 180682,
       "name": "Girl Next Door",
       "url": "https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO"
+    },
+    {
+      "added_at": "2026-02-25 03:50:44",
+      "album": {
+        "name": "Pressha",
+        "url": "https://open.spotify.com/album/3iwMGcNrnJggwXlv3SNiGB"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "duration_ms": 256855,
+      "name": "Pressha",
+      "url": "https://open.spotify.com/track/7KNcY52YH6VFnYYabMgxLM"
     },
     {
       "added_at": "2026-02-25 03:50:44",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-02-25 03:50:44",
       "album": {
-        "name": "Hair Down",
-        "url": "https://open.spotify.com/album/63k0s6k9wWu2QMutLrocu4"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 191580,
-      "name": "Hair Down",
-      "url": "https://open.spotify.com/track/2tP73L31LHxJAZs3L8HMnp"
-    },
-    {
-      "added_at": "2026-02-25 03:50:44",
-      "album": {
         "name": "The Loop",
         "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
       },
@@ -947,18 +931,34 @@
     {
       "added_at": "2026-02-25 03:50:44",
       "album": {
-        "name": "Give Me All Your Love",
-        "url": "https://open.spotify.com/album/57luneU6B0i2vcHsSAN1X6"
+        "name": "Hair Down",
+        "url": "https://open.spotify.com/album/63k0s6k9wWu2QMutLrocu4"
       },
       "artists": [
         {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
         }
       ],
-      "duration_ms": 200414,
-      "name": "Give Me All Your Love",
-      "url": "https://open.spotify.com/track/7fL1R1jVY8RfPIlilK9mSd"
+      "duration_ms": 191580,
+      "name": "Hair Down",
+      "url": "https://open.spotify.com/track/2tP73L31LHxJAZs3L8HMnp"
+    },
+    {
+      "added_at": "2026-02-25 03:50:44",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/3qi8b8jpTNKC7Z7NhxaiwZ"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 170517,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/1rUWEVR78iRaXXuSHyz6KP"
     },
     {
       "added_at": "2026-02-25 03:50:44",
@@ -983,6 +983,22 @@
     {
       "added_at": "2026-02-25 03:50:44",
       "album": {
+        "name": "Give Me All Your Love",
+        "url": "https://open.spotify.com/album/57luneU6B0i2vcHsSAN1X6"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 200414,
+      "name": "Give Me All Your Love",
+      "url": "https://open.spotify.com/track/7fL1R1jVY8RfPIlilK9mSd"
+    },
+    {
+      "added_at": "2026-02-25 03:50:44",
+      "album": {
         "name": "For You (Many Selves Version)",
         "url": "https://open.spotify.com/album/1FBMc5U9NTkdVX0jUsy0ir"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 221525,
       "name": "For You - Many Selves Version",
       "url": "https://open.spotify.com/track/1ZomkKbXsQoycnKzGV6NIZ"
-    },
-    {
-      "added_at": "2026-02-25 03:50:44",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/3qi8b8jpTNKC7Z7NhxaiwZ"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 170517,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/1rUWEVR78iRaXXuSHyz6KP"
     },
     {
       "added_at": "2026-02-25 03:50:44",
@@ -1051,42 +1051,50 @@
     {
       "added_at": "2026-02-25 03:50:44",
       "album": {
-        "name": "Lustropolis",
-        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
+        "name": "Charge It Remix (feat. Smino)",
+        "url": "https://open.spotify.com/album/3HC2Rgx0wIcXQNzkVlZOue"
       },
       "artists": [
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
         }
       ],
-      "duration_ms": 176121,
-      "name": "Temptress",
-      "url": "https://open.spotify.com/track/3oRXIgoaxiemxMk3uXmH7N"
+      "duration_ms": 202204,
+      "name": "Charge It Remix (feat. Smino)",
+      "url": "https://open.spotify.com/track/4GKzznETPVyGoBe6vHr2lS"
     },
     {
       "added_at": "2026-02-25 03:50:44",
       "album": {
-        "name": "Up From Here",
-        "url": "https://open.spotify.com/album/4CIK0AoMAdzQksAD6Jio4n"
+        "name": "Where I Go (feat. H.E.R.)",
+        "url": "https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu"
       },
       "artists": [
         {
-          "name": "Moonchild",
-          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
+          "name": "NxWorries",
+          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
         },
         {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         },
         {
-          "name": "D Smoke",
-          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
         }
       ],
-      "duration_ms": 258181,
-      "name": "Up From Here",
-      "url": "https://open.spotify.com/track/5E2qUNifVLQw4QaKNeOrJT"
+      "duration_ms": 201026,
+      "name": "Where I Go (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
     }
   ],
   "unique_name": "aloe",

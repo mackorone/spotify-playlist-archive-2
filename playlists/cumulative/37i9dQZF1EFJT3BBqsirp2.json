@@ -1259,6 +1259,24 @@
     },
     {
       "album": {
+        "name": "Wuthering Heights",
+        "url": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150042,
+      "name": "Seeing Things",
+      "url": "https://open.spotify.com/track/41UuruzhR2WLb917UbbcqS"
+    },
+    {
+      "album": {
         "name": "Soft Rock",
         "url": "https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1"
       },

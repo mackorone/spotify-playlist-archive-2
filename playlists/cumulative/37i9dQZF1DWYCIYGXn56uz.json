@@ -5487,6 +5487,24 @@
     },
     {
       "album": {
+        "name": "EMIGRATO (ITALIANO)",
+        "url": "https://open.spotify.com/album/670qJ0w59Ta3m5BtHG3otk"
+      },
+      "artists": [
+        {
+          "name": "Welo",
+          "url": "https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151458,
+      "name": "EMIGRATO (ITALIANO)",
+      "url": "https://open.spotify.com/track/2Ih6H7UyQv146EQ6wnHHMC"
+    },
+    {
+      "album": {
         "name": "empatia",
         "url": "https://open.spotify.com/album/38KYjXQOxft9XwFPxGULO6"
       },

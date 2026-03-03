@@ -2074,7 +2074,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 187846,
       "name": "Forgive My Deceit",
       "url": "https://open.spotify.com/track/2eeT0tEJFhrL3yiMLf09Po"
@@ -3088,6 +3088,24 @@
       "duration_ms": 207778,
       "name": "I See It Now",
       "url": "https://open.spotify.com/track/7hZjNFPZsglEWpy87XxMXE"
+    },
+    {
+      "album": {
+        "name": "I See You",
+        "url": "https://open.spotify.com/album/5nWbzh7QDRbqhyn5lqP1Sz"
+      },
+      "artists": [
+        {
+          "name": "Odhran Murphy",
+          "url": "https://open.spotify.com/artist/33flJthxKOZaTdeOZHJez0"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227299,
+      "name": "I See You",
+      "url": "https://open.spotify.com/track/0QFokWg1OVO1gAfRMJSdVl"
     },
     {
       "album": {

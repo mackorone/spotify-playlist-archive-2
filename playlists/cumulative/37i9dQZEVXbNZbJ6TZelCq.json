@@ -2305,6 +2305,24 @@
     },
     {
       "album": {
+        "name": "Am dat jos ceasul iar",
+        "url": "https://open.spotify.com/album/0E7n5re0oXY8IaoUxdIDMi"
+      },
+      "artists": [
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155909,
+      "name": "Am dat jos ceasul iar",
+      "url": "https://open.spotify.com/track/2p45gy3fuJCsGgGn7ul1Qd"
+    },
+    {
+      "album": {
         "name": "Am Platit Sa-Mi Duc Regina",
         "url": "https://open.spotify.com/album/7g6jejhSyJrGtf0KkLsNUS"
       },
@@ -4088,7 +4106,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-03",
+      "date_removed": null,
       "duration_ms": 144800,
       "name": "Baklava",
       "url": "https://open.spotify.com/track/5jDcoEETEDGuFlKhPm6eIq"
@@ -15050,7 +15068,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 174375,
       "name": "FATA DIN FAVELA",
       "url": "https://open.spotify.com/track/6nj14fIUcALDS3EadVnQHC"
@@ -18424,7 +18442,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 139008,
       "name": "Hai tu Maria",
       "url": "https://open.spotify.com/track/3a2J3oIGUhNTGIJ81xFDG7"
@@ -21004,7 +21022,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-01",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "IN MINTEA TA",
       "url": "https://open.spotify.com/track/1Kkhr9ga7twQHj6fMmccrt"
@@ -24286,7 +24304,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 147105,
       "name": "LNPSTRD",
       "url": "https://open.spotify.com/track/1jtemoyhUX8S1ZqgYlQuQE"
@@ -25912,7 +25930,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 176000,
       "name": "Mananca gagica bio",
       "url": "https://open.spotify.com/track/1aNgsgAip1JfeFNkWVM4hv"
@@ -28910,7 +28928,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 179477,
       "name": "NEW YORK",
       "url": "https://open.spotify.com/track/1izIwskWBBffJJK9NqV6JD"
@@ -35042,7 +35060,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 157021,
       "name": "Reggaeton",
       "url": "https://open.spotify.com/track/5a2hQFJzWF8od76LnJHnPA"
@@ -39118,7 +39136,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-26",
+      "date_removed": null,
       "duration_ms": 197961,
       "name": "Sparge case",
       "url": "https://open.spotify.com/track/1tNJcix1I4XyIaywTduDVk"
@@ -40642,7 +40660,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 188418,
       "name": "Sunt Cu Tzanca Intrun Club Inconjurat De Gagici",
       "url": "https://open.spotify.com/track/4dmFtc69vlPRm6zsDqhtWu"
@@ -43332,7 +43350,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-02",
+      "date_removed": null,
       "duration_ms": 148474,
       "name": "Toat\u0103 seara",
       "url": "https://open.spotify.com/track/5G0qHzsdgZGoTROnafSKvp"
@@ -43934,7 +43952,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 118736,
       "name": "Trag \u00een ea",
       "url": "https://open.spotify.com/track/40TCHpYkSRk6rzJfOSB9Fu"
@@ -48100,7 +48118,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 190415,
       "name": "Zboara Banii",
       "url": "https://open.spotify.com/track/7dHrYWXiuJxotCS6tZrWPT"

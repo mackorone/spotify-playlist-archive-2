@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 13735,
+  "num_followers": 13740,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaIwAAAAAAC55PLd8zDgaaXew9DbRBG6",
+  "snapshot_id": "aaOBgAAAAAABoyilofsw1IXWRTzQUPqB",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "lo q yo por ti",
-        "url": "https://open.spotify.com/album/6zEyyStAYReX0eg8BFbGYj"
+        "name": "Todo Est\u00e1 Cambiando",
+        "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
       },
       "artists": [
-        {
-          "name": "Andry Kiddos",
-          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
-        },
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 173421,
-      "name": "lo q yo por ti",
-      "url": "https://open.spotify.com/track/2o3uQ63gwh63tBn9ox2bV3"
+      "duration_ms": 238533,
+      "name": "Aqu\u00ed",
+      "url": "https://open.spotify.com/track/5ICz6prnBPOEWwFMbJ1GN6"
     },
     {
       "added_at": null,
@@ -587,18 +583,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Est\u00e1 Cambiando",
-        "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
+        "name": "lo q yo por ti",
+        "url": "https://open.spotify.com/album/6zEyyStAYReX0eg8BFbGYj"
       },
       "artists": [
+        {
+          "name": "Andry Kiddos",
+          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
+        },
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 238533,
-      "name": "Aqu\u00ed",
-      "url": "https://open.spotify.com/track/5ICz6prnBPOEWwFMbJ1GN6"
+      "duration_ms": 173421,
+      "name": "lo q yo por ti",
+      "url": "https://open.spotify.com/track/2o3uQ63gwh63tBn9ox2bV3"
     },
     {
       "added_at": null,

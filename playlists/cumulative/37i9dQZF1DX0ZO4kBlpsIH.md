@@ -4,7 +4,7 @@
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-249 songs - 12 hr 12 min
+250 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Die Prinzessin des Akkordeons](https://open.spotify.com/track/7fQBdAmIIcaK0xYfn8vjRl) | [Roger Dufas](https://open.spotify.com/artist/5ZA9UYzX5J1uxXspRhJJDg), [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/3eF4eKkt4DHrOUG1A0z6wC) | 2:58 | 2022-02-18 | 2025-08-20 |
 | [Djangology](https://open.spotify.com/track/3dIl8SxXJTggnKIMozYRqi) | [Carré Bleu](https://open.spotify.com/artist/1QV54AIfd6OK9AbHFG19es) | [Les feuilles mortes](https://open.spotify.com/album/3OtWDcUB17fVR7UtlQof1c) | 2:37 | 2023-03-21 | 2025-07-02 |
 | [Donne moi ta fleur](https://open.spotify.com/track/4uInfO1vqoQps8Si4sHZxo) | [Léandre Porcher Orchestra](https://open.spotify.com/artist/4ohj4TI0oVXXRZR21JghI7) | [Donne moi ta fleur](https://open.spotify.com/album/0eUYB0WKygXR6vz6F5JBq7) | 3:22 | 2025-09-23 |  |
-| [El choclo](https://open.spotify.com/track/0VlKpMsojxkDk4UVZVDTUv) | [Baguette Quartette](https://open.spotify.com/artist/777tZTVQGgq94n1KBZf54r) | [A La Noce](https://open.spotify.com/album/1Z1tQ9n2ZZFBuJP11hz9AP) | 4:04 | 2023-03-07 |  |
+| [El choclo](https://open.spotify.com/track/0VlKpMsojxkDk4UVZVDTUv) | [Baguette Quartette](https://open.spotify.com/artist/777tZTVQGgq94n1KBZf54r) | [A La Noce](https://open.spotify.com/album/1Z1tQ9n2ZZFBuJP11hz9AP) | 4:04 | 2023-03-07 | 2026-03-03 |
 | [En Chantant](https://open.spotify.com/track/6jqNzxR63idNHYU4jRVeu3) | [Maurice Green](https://open.spotify.com/artist/0I2MdtSSCg5xHyymlJpnN3) | [En Chantant](https://open.spotify.com/album/1AXARc80Eh85kowX3N64b4) | 2:31 | 2023-08-03 |  |
 | [En douce](https://open.spotify.com/track/1PIHtaW0aFcOd7W8HtiyBm) | [Baguette Quartette](https://open.spotify.com/artist/777tZTVQGgq94n1KBZf54r) | [L'air de Paris](https://open.spotify.com/album/1D5A3USZd7Cz0TMLBn6AYa) | 2:24 | 2022-02-18 | 2023-04-14 |
 | [Enchante](https://open.spotify.com/track/1CT6igucC99c7lFx3mrI8K) | [The Paris Musette](https://open.spotify.com/artist/1hoGDUIieScxaFnv587nv0) | [Café Francaise](https://open.spotify.com/album/0F60JZbxQ3gBazKp1Z8OPh) | 2:53 | 2022-11-25 |  |
@@ -189,6 +189,7 @@
 | [Pour Chopin](https://open.spotify.com/track/6icE3aCpAje1b6BP03Qa7E) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Valse musette de Paris](https://open.spotify.com/album/6DhvEyNar7K1i3gVcS0rGH) | 3:19 | 2022-08-05 | 2022-11-13 |
 | [Pour Michele](https://open.spotify.com/track/74rD7WHLAShBWZaOoajaYZ) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Café Musette](https://open.spotify.com/album/3c2mBv9KMW32g86USHwYwM) | 3:19 | 2022-02-18 | 2024-04-19 |
 | [Quai aux Fleurs](https://open.spotify.com/track/3YqdvXCFdN44kattwBSgqn) | [Vincent Carenzi](https://open.spotify.com/artist/34jld7FKHe7h6xc55lJJ0B), [Gilbert Sigrist](https://open.spotify.com/artist/3CKwrrnFs0fv7w7lg4ReIX), [Laurent Sigrist](https://open.spotify.com/artist/7BbLZ7BoH71qnKGhdIwOzX) | [Souvenirs](https://open.spotify.com/album/0bNxItRPphxD07gwBZUZXH) | 3:02 | 2023-03-07 |  |
+| [Quais de Seine](https://open.spotify.com/track/2hSHbGqjauW6YV6c38EkSu) | [Monsieur Paname](https://open.spotify.com/artist/7KspfRDQwpzBe3AZ1Tk6wH) | [Quais de Seine](https://open.spotify.com/album/0nXh4V6SDQSFsqw8a2trwa) | 2:33 | 2026-03-02 |  |
 | [Quel Mercredi](https://open.spotify.com/track/3ZSWLX4S1mc5yQBAZet5NM) | [Quintet de Jazz Parisien](https://open.spotify.com/artist/5jjAtTkp5UsT9PQyGfFOwO) | [Quel Mercredi](https://open.spotify.com/album/2Zsbl9Pps24ZI475iyz2sC) | 2:38 | 2023-08-10 |  |
 | [Reine de musette](https://open.spotify.com/track/3bBHMiALWgT39xebBnpgJN) | [Baguette Quartette](https://open.spotify.com/artist/777tZTVQGgq94n1KBZf54r) | [Rendez Vous](https://open.spotify.com/album/5f3Gv6mWHhWBCDNoNbsizk) | 2:38 | 2023-03-07 |  |
 | [Reine de musette](https://open.spotify.com/track/2dr7w26T5aMdtgX3RGd7Ez) | [Marcel Azzola](https://open.spotify.com/artist/0c2ZORZQaJWxtkJq4850Wg) | [Et ça tournait \- Anthologie de la chanson musette](https://open.spotify.com/album/67hLFIMVNgg2mDLOXVHwqs) | 2:32 | 2022-02-18 | 2023-06-21 |

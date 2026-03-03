@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs van de 80's! Cover: U2",
-  "num_followers": 141067,
+  "num_followers": 141097,
   "original_name": "80's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Katrina & The Waves",
-        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
-      },
-      "artists": [
-        {
-          "name": "Katrina & The Waves",
-          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
-        }
-      ],
-      "duration_ms": 238733,
-      "name": "Walking On Sunshine",
-      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "The Raw & The Cooked",
         "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 215773,
       "name": "She Drives Me Crazy",
       "url": "https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Katrina & The Waves",
+        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
+      },
+      "artists": [
+        {
+          "name": "Katrina & The Waves",
+          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
+        }
+      ],
+      "duration_ms": 238733,
+      "name": "Walking On Sunshine",
+      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Ghost In The Machine (Remastered 2003)",
-        "url": "https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 260573,
-      "name": "Every Little Thing She Does Is Magic",
-      "url": "https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Graceland (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 280586,
       "name": "You Can Call Me Al",
       "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Ghost In The Machine (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 260573,
+      "name": "Every Little Thing She Does Is Magic",
+      "url": "https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "The Riddle (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2CqELgQ8dNxGgBuIic49Gq"
-      },
-      "artists": [
-        {
-          "name": "Nik Kershaw",
-          "url": "https://open.spotify.com/artist/7kCL98rPFsNKjAHDmWrMac"
-        }
-      ],
-      "duration_ms": 234840,
-      "name": "The Riddle",
-      "url": "https://open.spotify.com/track/6sn3FHCq2csvNkq2h9Au8V"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Whitney",
         "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 307027,
       "name": "Didn't We Almost Have It All",
       "url": "https://open.spotify.com/track/19wadMw1A8XejDV4p5wMt1"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "The Riddle (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2CqELgQ8dNxGgBuIic49Gq"
+      },
+      "artists": [
+        {
+          "name": "Nik Kershaw",
+          "url": "https://open.spotify.com/artist/7kCL98rPFsNKjAHDmWrMac"
+        }
+      ],
+      "duration_ms": 234840,
+      "name": "The Riddle",
+      "url": "https://open.spotify.com/track/6sn3FHCq2csvNkq2h9Au8V"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Get Close (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/1d7D1MLaFW6rp9N1kBZDn3"
-      },
-      "artists": [
-        {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
-        }
-      ],
-      "duration_ms": 227626,
-      "name": "Don't Get Me Wrong - 2007 Remaster",
-      "url": "https://open.spotify.com/track/6Wiamk8BAAP50gAAJopsy2"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "The Best Of The 80's",
         "url": "https://open.spotify.com/album/1WNKfSND9D7t30sBPDo1gr"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 228120,
       "name": "Girls Just Want to Have Fun",
       "url": "https://open.spotify.com/track/7sMGwiS4vOMcz86ZY3vKYM"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Get Close (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/1d7D1MLaFW6rp9N1kBZDn3"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "duration_ms": 227626,
+      "name": "Don't Get Me Wrong - 2007 Remaster",
+      "url": "https://open.spotify.com/track/6Wiamk8BAAP50gAAJopsy2"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Whitesnake (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6ujO2Xzt247YCYIpAmcb4r"
-      },
-      "artists": [
-        {
-          "name": "Whitesnake",
-          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
-        }
-      ],
-      "duration_ms": 275693,
-      "name": "Here I Go Again - 1987 Version; 2017 Remaster",
-      "url": "https://open.spotify.com/track/0Cp7pkYwl4WCGRHhrfcsrg"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Golden Earring Biggest Hits",
         "url": "https://open.spotify.com/album/4aLXgpBzfiugiGHtZhgHkm"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 478106,
       "name": "Twilight Zone",
       "url": "https://open.spotify.com/track/0UELrOrtGeATsDJDBx8y13"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Whitesnake (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6ujO2Xzt247YCYIpAmcb4r"
+      },
+      "artists": [
+        {
+          "name": "Whitesnake",
+          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+        }
+      ],
+      "duration_ms": 275693,
+      "name": "Here I Go Again - 1987 Version; 2017 Remaster",
+      "url": "https://open.spotify.com/track/0Cp7pkYwl4WCGRHhrfcsrg"
     },
     {
       "added_at": "2024-07-09 16:44:07",

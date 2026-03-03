@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/akademiks/">DJ Akademiks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,358 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,359 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 | 34 | [Steppers](https://open.spotify.com/track/7vNUd8wv8Fo6L1CBxduXxF) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Steppers](https://open.spotify.com/album/1cmIixELcilPw7uQzS8UVD) | 2:30 |
 | 35 | [2055 \(feat\. Coi Leray\)](https://open.spotify.com/track/74ruhOVvor6O8R91cyrzK0) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [2055 \(feat\. Coi Leray\)](https://open.spotify.com/album/2jGGIrYGbhJPHOmBF5R90N) | 1:59 |
 | 36 | [It Ain't My Fault](https://open.spotify.com/track/5cX92psZ1aSHr6rTmGQMps) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [It Ain't My Fault](https://open.spotify.com/album/5aTCwMHvG9VSoeX1ZpYQY0) | 3:26 |
-| 37 | [Clash \(feat\. Stormzy\)](https://open.spotify.com/track/2oUwMN5VfdGX10XeQJLBBi) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Clash \(feat\. Stormzy\)](https://open.spotify.com/album/58GjA2xPMQ8PjNKyddHIqP) | 4:11 |
+| 37 | [Toxic Punk](https://open.spotify.com/track/1kt1zJEovrCGeW4xHvQwaX) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Ain't Scared](https://open.spotify.com/album/1l4iUB8CltYGm1ugBj7DpZ) | 2:03 |
 | 38 | [Brush Em \(feat\. Rah Swish\)](https://open.spotify.com/track/58aW6yZGFl7rVM7SLfLnLL) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [Faith \(Deluxe\)](https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU) | 2:30 |
-| 39 | [Toxic Punk](https://open.spotify.com/track/1kt1zJEovrCGeW4xHvQwaX) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Ain't Scared](https://open.spotify.com/album/1l4iUB8CltYGm1ugBj7DpZ) | 2:03 |
+| 39 | [Clash \(feat\. Stormzy\)](https://open.spotify.com/track/2oUwMN5VfdGX10XeQJLBBi) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Clash \(feat\. Stormzy\)](https://open.spotify.com/album/58GjA2xPMQ8PjNKyddHIqP) | 4:11 |
 | 40 | [Movie](https://open.spotify.com/track/3hEr1HhvLm6sq52CdgGk72) | [Bundog](https://open.spotify.com/artist/4wL3ZswVcMUC6iNcvWklfO), [Top5](https://open.spotify.com/artist/761R6TmYhSbPNOFfEf80pw), [Why G](https://open.spotify.com/artist/3QoFljZxcB1DQuP3WmYVJB) | [Movie](https://open.spotify.com/album/13Gw4ZOeVGHSuNdWgf8Fh2) | 2:45 |
 | 41 | [Senseless](https://open.spotify.com/track/4GRZ1qz6lBki2PbOr0jaCQ) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Senseless](https://open.spotify.com/album/6AM123Eeb8LiLdz9GUiNJT) | 2:23 |
 | 42 | [Demons \(feat\. A Boogie Wit Da Hoodie\)](https://open.spotify.com/track/5QdnavjDzGRNHfQn23PlG8) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Demons \(feat\. A Boogie Wit Da Hoodie\)](https://open.spotify.com/album/0Lwd1Jj6yJxpbDT1vHzC9m) | 2:58 |

@@ -4,7 +4,7 @@
 
 > Go hard or go home\. Cover: Voltage
 
-346 songs - 22 hr 7 min
+347 songs - 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Lock off the Rave](https://open.spotify.com/track/6FPETQc9CdCmRME7HRwlgk) | [ORAM](https://open.spotify.com/artist/0KZlJiMx0Lyn8hl8d9gCBJ) | [Lock off the Rave](https://open.spotify.com/album/4QyCaxCa2RbF8sMCzkYz9R) | 4:30 | 2022-05-06 | 2022-07-25 |
 | [London Sound](https://open.spotify.com/track/1lUJ2pBNjM2I37CssmaTGS) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2) | [London Sound / Shake a Leg](https://open.spotify.com/album/06LbL1bmJxU3gGUY8hwck5) | 3:13 | 2025-06-19 | 2025-09-26 |
 | [looking 4 me](https://open.spotify.com/track/5z0pJkbsGf6f95dKzd5OOk) | [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [looking 4 me](https://open.spotify.com/album/0KQfZKiNtU7gMdX9txha8j) | 2:27 | 2023-09-22 | 2024-07-27 |
+| [Lose Your Shit](https://open.spotify.com/track/2EnqAS6Z6fwzbwrJbKp6sm) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ), [Phantom](https://open.spotify.com/artist/1LBNgntO0FfoRb4441kK6a) | [Lose Your Shit](https://open.spotify.com/album/5NpLx3dzzvrLblSu2N8ztd) | 3:10 | 2026-02-27 |  |
 | [Loud Enuff](https://open.spotify.com/track/10sy3wFzQSZGUyFZ60quBP) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Loud Enuff](https://open.spotify.com/album/25qNcSGObLXHH3xu76ZmPR) | 2:57 | 2025-03-21 | 2025-05-15 |
 | [LOUDER](https://open.spotify.com/track/6yWCx32ltE7Kcoq6k4hJqX) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [Circadian](https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE) | [LOUDER](https://open.spotify.com/album/4BlHJap7UWIyvT0ZdsrwoD) | 3:42 | 2025-05-08 |  |
 | [Love Me Right](https://open.spotify.com/track/17ADeN6ZcHT7czvoEycTCp) | [Voltage](https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP) | [Spag Bol](https://open.spotify.com/album/7GND0rJAJpornHCMt0icnq) | 3:22 | 2025-12-12 |  |
@@ -248,7 +249,7 @@
 | [Psychedelic](https://open.spotify.com/track/207FRBC32g3LXf0EP0a2qQ) | [DJ Hazard](https://open.spotify.com/artist/04rhebO91K6xoiXE0XuDkh) | [The Platinum Shadows EP](https://open.spotify.com/album/17tAD0zbPQ0TCUTeRkjDSB) | 5:31 | 2023-12-27 | 2024-01-12 |
 | [Pub Grub](https://open.spotify.com/track/2q90cj0VP51fF0aPWxvQbj) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [From The Rave](https://open.spotify.com/album/7Mzjn1kDy3u9op6bC8fk0l) | 4:24 | 2023-12-27 | 2024-01-12 |
 | [Pub Grub \- VIP](https://open.spotify.com/track/3tOovmMYFni1v4IDdaixwJ) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Pub Grub \(VIP\)](https://open.spotify.com/album/3lkq1oXNharMGKIvEeWViU) | 4:28 | 2023-12-27 | 2024-01-12 |
-| [PURPOSE](https://open.spotify.com/track/35mele207P8xoKXOsTh52L) | [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS), [Maksim MC](https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC) | [PURPOSE](https://open.spotify.com/album/0gXmfiCDIV0DRnHakUxXjU) | 2:47 | 2025-05-22 |  |
+| [PURPOSE](https://open.spotify.com/track/35mele207P8xoKXOsTh52L) | [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS), [Maksim MC](https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC) | [PURPOSE](https://open.spotify.com/album/0gXmfiCDIV0DRnHakUxXjU) | 2:47 | 2025-05-22 | 2026-03-03 |
 | [Rampage Anthem VIP](https://open.spotify.com/track/0m9BpxJvsHlPTyQta201uF) | [SASASAS](https://open.spotify.com/artist/7CKAyjXz7Z7se4oGh07mGe), [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx), [DJ Phantasy](https://open.spotify.com/artist/4yavtFwoJqzLN6uZvbU1Ai), [MC Shabba D](https://open.spotify.com/artist/3mNLI3NXEFH2CoYFDRN2vr), [Stormin MC](https://open.spotify.com/artist/0qaij0H7kB9o3YtANjvkiM), [MC Skibadee](https://open.spotify.com/artist/22VzVYdRYWrUqjbUD28huU), [Harry Shotta](https://open.spotify.com/artist/1KDOjuXZPd8XA3YBakakMb) | [Rampage Anthem VIP](https://open.spotify.com/album/69szID4oSWL2iSddE56ryG) | 3:46 | 2022-05-06 | 2025-03-21 |
 | [Raving In The Studio \(SOTA Remix\)](https://open.spotify.com/track/2imZwMeS2WLiPcgAbjo15T) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Raving In The Studio \(SOTA Remix\)](https://open.spotify.com/album/52JIuqcABYS0gq7DBUiWeH) | 2:15 | 2025-09-04 |  |
 | [Reach Out](https://open.spotify.com/track/6OJDAylrlh1vl7effyxQio) | [Waeys](https://open.spotify.com/artist/2I5WzC6NbIiTydDnvGGTu9) | [Toter / Reach Out](https://open.spotify.com/album/4LpiImgCt2pxyErF9JyHIB) | 3:57 | 2022-05-06 | 2022-07-28 |

@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-419 songs - 23 hr 5 min
+421 songs - 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Butterfly Waltz](https://open.spotify.com/track/3IJrQE24xD4buW3KCQ6ChA) | [Facing the Void](https://open.spotify.com/artist/0IcjbbwIRynJJg25UP2nzt) | [Butterfly Waltz](https://open.spotify.com/album/1Hlur9p4ZS1xkkpooBOgIs) | 2:54 | 2020-12-08\* | 2021-05-27 |
 | [Calm Essence](https://open.spotify.com/track/21I5P7i7NOb6qoUTwttb2E) | [Dreamweavers](https://open.spotify.com/artist/7oX6DZ1QAvDb4TbSFPYq3I) | [Calm Essence](https://open.spotify.com/album/485ZOj1OlOoF7DhlZ6AXj2) | 3:15 | 2024-09-19 |  |
 | [can't sleep](https://open.spotify.com/track/51h8OOwcmfbgkfU8SjcaV7) | [Nova Dust](https://open.spotify.com/artist/5UyiEIfJDSqqBP0lRVQUVI) | [can't sleep](https://open.spotify.com/album/5EQnwpuO2ayCxiNGefURQ1) | 2:12 | 2025-07-15 |  |
+| [capitulate](https://open.spotify.com/track/4FgTPvpdO2vrnymIZ5Nm00) | [Blocktane](https://open.spotify.com/artist/2DL1LxN8dHBG1tI3Q3TlK7), [Monoquartz](https://open.spotify.com/artist/0d0YxnQSNc7NKKB9fjVslv) | [capitulate](https://open.spotify.com/album/5045wUxQoUth1sf1R1TgcP) | 1:28 | 2026-02-12 |  |
 | [Carmel](https://open.spotify.com/track/5N8JUiG7xDh6Qj2bhySXaC) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Carmel](https://open.spotify.com/album/4pQvnenO5YrnuEp1qd24rZ) | 3:48 | 2021-01-15 | 2021-05-27 |
 | [Celestial](https://open.spotify.com/track/0MYcISmg7wKW9LhW3iVN4Y) | [Threedust](https://open.spotify.com/artist/6340hzyqmfpcSbPZLFC1Gf) | [Celestial](https://open.spotify.com/album/0rnNBvMlFPIzxfRkIWZH5w) | 3:01 | 2023-01-27 |  |
 | [celestial sojourn](https://open.spotify.com/track/3tI1sd213SOODpv7bYRutx) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [phases of the moon](https://open.spotify.com/album/5zImrTFUWontzflxnybrH8) | 3:20 | 2022-02-18 | 2025-09-11 |
@@ -105,7 +106,7 @@
 | [Comfort Zone](https://open.spotify.com/track/2f8jLjm7Jzmgiqu3Kgjuuz) | [General Fuzz](https://open.spotify.com/artist/6GmYm47Zgk3tvoCeJbsH5r) | [Soulful Filling](https://open.spotify.com/album/4rrihMjg9wVglC8qzyz5Fs) | 6:02 | 2022-07-22 | 2024-04-19 |
 | [Commute](https://open.spotify.com/track/1xmu8X6YGxlWaWUoxx6WOx) | [Vacant Cities](https://open.spotify.com/artist/4ln07OZWdNaIm0qb1fVOQ7) | [Commute](https://open.spotify.com/album/3g1kXeA8xao2cBMSb2X2Ws) | 2:22 | 2021-05-27 | 2022-05-20 |
 | [Concept 1](https://open.spotify.com/track/55bFnrLvc4tUvHVngYhMV3) | [Kodomo](https://open.spotify.com/artist/57BliIwnAIqKeI4dbAWwaU) | [Still Life](https://open.spotify.com/album/7wwHgF0T6VcyxF4JkVU3eM) | 5:07 | 2020-12-08\* | 2021-05-27 |
-| [Conception](https://open.spotify.com/track/24zHMJlukUkCZDYMHtdsmH) | [Sunstone Peaks](https://open.spotify.com/artist/4vJrDzGliiXij2qOHiMdqk) | [Conception](https://open.spotify.com/album/6JY6AYRDVvnIPkTzYpvLQf) | 2:58 | 2021-11-13 |  |
+| [Conception](https://open.spotify.com/track/24zHMJlukUkCZDYMHtdsmH) | [Sunstone Peaks](https://open.spotify.com/artist/4vJrDzGliiXij2qOHiMdqk) | [Conception](https://open.spotify.com/album/6JY6AYRDVvnIPkTzYpvLQf) | 2:58 | 2021-11-13 | 2026-03-03 |
 | [Conclusions](https://open.spotify.com/track/0XAITZHrtlpUeRo00FoTLP) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [Conclusions](https://open.spotify.com/album/5ZpLZtogYfd4enMphrDFVt) | 3:22 | 2022-11-11 | 2026-01-15 |
 | [Configuration](https://open.spotify.com/track/66QmlqypHwaune2fOlptt5) | [Decanõe](https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA) | [Configuration](https://open.spotify.com/album/0DM9y4ZJrfzrh9M3tItUZk) | 2:50 | 2024-03-14 | 2026-02-01 |
 | [connection](https://open.spotify.com/track/1kS8CLPKqnKFxFD4iUbgcJ) | [eidra](https://open.spotify.com/artist/1Mrb5CCW52Mq4NRGb4zYXM) | [connection](https://open.spotify.com/album/7sqgVVrbRdYowtAo6CkNQU) | 2:24 | 2025-12-10 | 2026-02-13 |
@@ -357,6 +358,7 @@
 | [Stillness](https://open.spotify.com/track/4bnaF7yVJ8vc0jmdbwGkeP) | [Gae Terragni](https://open.spotify.com/artist/48aSPr6mkeQaIKPJtMycrj) | [Stillness](https://open.spotify.com/album/2hMPYFNkc0f3Ceq7BjZl5w) | 2:38 | 2024-11-14 | 2025-04-17 |
 | [stratus dream](https://open.spotify.com/track/1vXEcyQCc2LFnJD6hImYdx) | [Dreamsome](https://open.spotify.com/artist/1dqmMwqD6ylzixREHMaZyB) | [Clouds EP](https://open.spotify.com/album/0FqYLntyZVm3JHjOe9Zrtu) | 3:18 | 2024-08-21 |  |
 | [Submergia](https://open.spotify.com/track/0bHPNWPKsoqlGkQJa7Pt7f) | [Threading Hair](https://open.spotify.com/artist/7KIgyuskfqOG0gHsnnHPPA) | [Submergia](https://open.spotify.com/album/4jR4xnfi1ZeA13rStAbPSI) | 2:57 | 2020-12-08\* | 2021-03-18 |
+| [subtly emotive](https://open.spotify.com/track/6fJzygn8YH7aNlxuTphYzt) | [lostcache](https://open.spotify.com/artist/2LutPSn7ak1gJfBAuNsOJM) | [subtly emotive](https://open.spotify.com/album/5DCf6bhnOVO8jLo7CBTAs4) | 1:55 | 2026-02-12 |  |
 | [Suhpratti](https://open.spotify.com/track/4A6C6K8c8IukPda2f0rI8J) | [Parazal](https://open.spotify.com/artist/2pzqJbgQgvg3gPscGb6S49) | [Hum](https://open.spotify.com/album/5Cg1qCOjqRuBWMsxs6hNtK) | 3:06 | 2020-12-08\* | 2021-05-27 |
 | [Summarizing Sunrises](https://open.spotify.com/track/4RPxFFNwl0awElXJIRnxSQ) | [Don Salfva](https://open.spotify.com/artist/1Qoope6yvhZ1qDZoEGMUdW) | [Summarizing Sunrises](https://open.spotify.com/album/4ZEaUN5EcjTzJBHS2eBNjm) | 3:49 | 2021-09-17 | 2025-04-14 |
 | [Sunyata](https://open.spotify.com/track/5sL1zebMXrBymyK6STo7n6) | [Sureborn](https://open.spotify.com/artist/6pEkJOAdhn8zjYFNH7uZ8g) | [Sunyata](https://open.spotify.com/album/1bXMt1obmoWbDteFpp1DY5) | 4:13 | 2020-12-08\* | 2021-05-27 |
@@ -391,7 +393,7 @@
 | [Traveling South](https://open.spotify.com/track/403ONsS1ggfGlohDshBgjG) | [Flouriiche](https://open.spotify.com/artist/5bExeTiMM34JLG1L7Tiszr) | [Traveling South](https://open.spotify.com/album/3a1knsci6NazXIV5pK4OFh) | 3:00 | 2023-09-22 |  |
 | [Tropicana](https://open.spotify.com/track/0rSCtkQ7F8QdunymZPZRgb) | [Pierre Sloane](https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH) | [Tropicana](https://open.spotify.com/album/3uzJKosEYNBmsxjXF7rUU5) | 3:02 | 2024-11-14 | 2025-02-27 |
 | [Turn of Fate](https://open.spotify.com/track/6s4hiI1mw1KxkqxsUoO2Zf) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Turn of Fate](https://open.spotify.com/album/1GdAMNIBCq41JiLzr2ji7m) | 4:57 | 2025-05-14 | 2025-05-16 |
-| [Twilight meditation](https://open.spotify.com/track/6HBgsKrL6iGC8sqtd7iiFQ) | [Maria Tern](https://open.spotify.com/artist/7kFcvb3aOQTasCNfuFU6N0) | [Twilight meditation](https://open.spotify.com/album/3fQheljhswxe6ZasBx7gSE) | 2:59 | 2024-01-30 |  |
+| [Twilight meditation](https://open.spotify.com/track/6HBgsKrL6iGC8sqtd7iiFQ) | [Maria Tern](https://open.spotify.com/artist/7kFcvb3aOQTasCNfuFU6N0) | [Twilight meditation](https://open.spotify.com/album/3fQheljhswxe6ZasBx7gSE) | 2:59 | 2024-01-30 | 2026-03-03 |
 | [Twilight Waves](https://open.spotify.com/track/1PIKB9qoJudUMw04xsYxlF) | [Atephis](https://open.spotify.com/artist/7wLT6L68giSFZDvgaotGIU) | [Twilight Waves](https://open.spotify.com/album/1bfKWTGV516IP7mR5KKbxk) | 2:46 | 2025-05-14 | 2025-06-20 |
 | [Umbrian Affair](https://open.spotify.com/track/3uS7zZlLcY1PiJ4KmFmPXG) | [Lena Bickeby](https://open.spotify.com/artist/0lb8V1RudMLNNsRF7mENZW) | [Umbrian Affair](https://open.spotify.com/album/1VrzjRpK2EWydopDXjvcUW) | 2:45 | 2020-12-08\* | 2025-09-18 |
 | [Underlying Cause](https://open.spotify.com/track/42eEBz1XT0b0uvZDZPisyL) | [Experia](https://open.spotify.com/artist/5NTXP9El0Kk8oAEIaKZZfZ) | [Underlying Cause](https://open.spotify.com/album/38Lsf8bDz8BsQ0zzNUzEwn) | 3:10 | 2025-02-26 | 2026-02-13 |

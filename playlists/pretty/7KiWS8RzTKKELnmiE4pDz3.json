@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAfyz6yY9/1gVi5Jwjhvy+xVFqGIP1e",
+  "snapshot_id": "AAAfzc6LtuLrHdIsELi86mYXHWbXzJ68",
   "tracks": [
     {
       "added_at": "2022-05-03 16:09:53",
@@ -7203,6 +7203,42 @@
       "duration_ms": 278973,
       "name": "Golden Boys",
       "url": "https://open.spotify.com/track/0nFu0CiLJGf3qw9t08Mm8L"
+    },
+    {
+      "added_at": "2026-03-02 17:53:05",
+      "album": {
+        "name": "Coach Carter Soundtrack",
+        "url": "https://open.spotify.com/album/6liJnEzquXIyGwrQ1MnmF4"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        }
+      ],
+      "duration_ms": 230293,
+      "name": "Wouldn't You Like to Ride",
+      "url": "https://open.spotify.com/track/0a6q5XK264I3qDt5gmFNSf"
+    },
+    {
+      "added_at": "2026-03-02 21:52:53",
+      "album": {
+        "name": "Synkronized",
+        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/4vevrGPaGIdakuoWhzSnwl"
     }
   ],
   "unique_name": "main ",

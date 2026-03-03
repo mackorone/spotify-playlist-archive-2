@@ -1,13 +1,117 @@
 {
   "description": "The freshest Hip Hop and R&amp;B. ",
-  "num_followers": 22234,
+  "num_followers": 22229,
   "original_name": "Fresh Out",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAnamQtTdCZ0ucQ1f9LYZhY2b9bNVg3",
+  "snapshot_id": "AAAndYnL8wAumsSzolQHorOykVu0uJEj",
   "tracks": [
+    {
+      "added_at": "2026-03-02 19:24:18",
+      "album": {
+        "name": "UP IN HEA",
+        "url": "https://open.spotify.com/album/6TcbhclP0iL4I4kgAAdGk0"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        }
+      ],
+      "duration_ms": 144578,
+      "name": "UP IN HEA",
+      "url": "https://open.spotify.com/track/0zwZAVXsEvfVKVTC6LrJzy"
+    },
+    {
+      "added_at": "2026-03-02 19:35:34",
+      "album": {
+        "name": "Out On Bond Again",
+        "url": "https://open.spotify.com/album/1o5ENTNPcko1wx4h1kZTlP"
+      },
+      "artists": [
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        },
+        {
+          "name": "1900Rugrat",
+          "url": "https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5"
+        }
+      ],
+      "duration_ms": 125903,
+      "name": "Geek Time",
+      "url": "https://open.spotify.com/track/3wmiP90sLXkiT6eRrOIOZS"
+    },
+    {
+      "added_at": "2026-03-02 19:36:26",
+      "album": {
+        "name": "Way I Live",
+        "url": "https://open.spotify.com/album/6lg8w6SfMH9jLZZduEbqKj"
+      },
+      "artists": [
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        },
+        {
+          "name": "Aha Gazelle",
+          "url": "https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14"
+        }
+      ],
+      "duration_ms": 140355,
+      "name": "Way I Live",
+      "url": "https://open.spotify.com/track/4h542Q3dGPmPaH31eIyWoG"
+    },
+    {
+      "added_at": "2026-03-02 19:34:30",
+      "album": {
+        "name": "Passion fruit",
+        "url": "https://open.spotify.com/album/1mL7H8MnqzXNul0pqgnaLt"
+      },
+      "artists": [
+        {
+          "name": "Kianna",
+          "url": "https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl"
+        }
+      ],
+      "duration_ms": 100000,
+      "name": "Passion fruit",
+      "url": "https://open.spotify.com/track/33KLGJQfKu56swtp8VXVD6"
+    },
+    {
+      "added_at": "2026-03-02 19:35:02",
+      "album": {
+        "name": "L.I.E ( Loyalty Is Everything )",
+        "url": "https://open.spotify.com/album/7opUfvueBUE0wLKcO1f9fW"
+      },
+      "artists": [
+        {
+          "name": "Baby Money",
+          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
+        }
+      ],
+      "duration_ms": 144310,
+      "name": "L.I.E.",
+      "url": "https://open.spotify.com/track/1GJ0PJM9oHsJ8LrUySdNID"
+    },
+    {
+      "added_at": "2026-03-02 19:36:43",
+      "album": {
+        "name": "New Cut",
+        "url": "https://open.spotify.com/album/0IOZtY3nT3pFhhNKV5fuar"
+      },
+      "artists": [
+        {
+          "name": "VannDa",
+          "url": "https://open.spotify.com/artist/6XYPDozxzEi0iu380aAYnL"
+        }
+      ],
+      "duration_ms": 228947,
+      "name": "New Cut",
+      "url": "https://open.spotify.com/track/1KOIabKFs5kDUuQH2LkuG0"
+    },
     {
       "added_at": "2026-02-24 00:26:54",
       "album": {

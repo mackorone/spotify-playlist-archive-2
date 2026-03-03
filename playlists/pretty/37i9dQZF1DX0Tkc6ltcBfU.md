@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South\. Cover: J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,269,146 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,269,148 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 27 | [SLUT ME OUT 4](https://open.spotify.com/track/3PsiWFS27gmJAO997H9Py7) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [SLUT ME OUT 4](https://open.spotify.com/album/2AOaH9AMofSQE1NGdZhbRe) | 2:34 |
 | 28 | [ONE TIME \(feat\. Lil Yachty, Camo!, Draft Day, Dc2trill, Veeze\)](https://open.spotify.com/track/32LTzUh3SodvOwfAuESWZF) | [Concrete Boys](https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Draft Day](https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L), [Camo!](https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b), [Dc2trill](https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [It's Us Vol\. 2](https://open.spotify.com/album/7rzXMS4cXlXe58t1AvPDDS) | 4:54 |
 | 29 | [Whole Thang](https://open.spotify.com/track/4IttPmt52O0eS19zFgdgkg) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV) | [Whole Thang](https://open.spotify.com/album/0tDfmVyolVUEV68yiYtyO4) | 3:19 |
-| 30 | [Boat Remix](https://open.spotify.com/track/2HeqKWstr0XAYILHpRo5ra) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Boat Remix](https://open.spotify.com/album/0PBa3RVZ6Mpy9dCdb3UnRC) | 2:43 |
+| 30 | [BOAT REMIX](https://open.spotify.com/track/2HeqKWstr0XAYILHpRo5ra) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [BOAT REMIX](https://open.spotify.com/album/0PBa3RVZ6Mpy9dCdb3UnRC) | 2:43 |
 | 31 | [Dumb wit it \(get in dea\) \- Remix](https://open.spotify.com/track/3u2QIFXPyss9Kf5Fux8DVi) | [Geaux Teezy](https://open.spotify.com/artist/5D54Rqnqk6veVQv3rNoUAz), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Dumb wit it \(get in dea\) \[Remix\]](https://open.spotify.com/album/4B9ffC4jRpKIUG7R2cYKSE) | 2:42 |
 | 32 | [Dumb Crasy Too](https://open.spotify.com/track/2M6X6gDxzKvQSS3h7PyiAl) | [So Supa](https://open.spotify.com/artist/6D6Uf2RTnvHkD64pUapryP), [Big Money Blitz](https://open.spotify.com/artist/5u7vwAzFX2vW9KdLwpGOr9), [Tre Loaded](https://open.spotify.com/artist/2IfOv1im8CNxZ6kFtob1e3) | [Dumb Crasy Too](https://open.spotify.com/album/3K3CJbTJTObDaB9UWmUrSS) | 2:00 |
 | 33 | [Drive Alone](https://open.spotify.com/track/52O0lWLhF9VoOVACnlnAnS) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Spiral Staircases](https://open.spotify.com/album/4XGYIMntQYL5PPjsUZJoGJ) | 3:29 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Inspirational hip\-hop\. Cover: J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,896 likes - 99 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,984 likes - 99 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Man Up Above](https://open.spotify.com/track/0C9B7SpULk3KlkOz3MhTEb) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 4:58 |
 | 2 | [THE ONE \(FEAT\. PHARRELL WILLIAMS\)](https://open.spotify.com/track/0FhJlX7tfC1FPkRxu5vaPa) | [Voices of Fire](https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [THE ONE \(FEAT\. PHARRELL WILLIAMS\)](https://open.spotify.com/album/5tV2bocoFi3meMBfiK2JjU) | 3:06 |
 | 3 | [God Did It](https://open.spotify.com/track/7pVIeCpV1hDZ6wTH8u8ii9) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [God Did It](https://open.spotify.com/album/6dRajCOUZ0LMTdmAlRRTbJ) | 2:39 |
-| 4 | [GAS YOU UP \- Street](https://open.spotify.com/track/58Fa5cPeHmuvmj67oDH5Q3) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [ProducerTrentTaylor](https://open.spotify.com/artist/63rnoegtIHSr7mx6sTImej), [Danny A\. Thomas](https://open.spotify.com/artist/4nQhZL6pcDzSaFPmAMKCB3) | [Gas You Up](https://open.spotify.com/album/3kvThZp3piFOkt53pwOPzj) | 3:40 |
+| 4 | [GAS YOU UP \- STREET](https://open.spotify.com/track/58Fa5cPeHmuvmj67oDH5Q3) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [ProducerTrentTaylor](https://open.spotify.com/artist/63rnoegtIHSr7mx6sTImej), [Danny A\. Thomas](https://open.spotify.com/artist/4nQhZL6pcDzSaFPmAMKCB3) | [Gas You Up](https://open.spotify.com/album/3kvThZp3piFOkt53pwOPzj) | 3:40 |
 | 5 | [The Truth](https://open.spotify.com/track/4zgT4ofik5gzGZGTUzhAfX) | [Road to Restoration](https://open.spotify.com/artist/5HNGuh45sTuaF2y8xr2nKt), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [The Truth](https://open.spotify.com/album/1eLtVuTe9osRrF2XhfvaH2) | 2:47 |
 | 6 | [911'](https://open.spotify.com/track/59c5mSvlBRPBuJJ48NdByR) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR) | [MERCY"](https://open.spotify.com/album/3qWFFEdowMoUlbbuWcwBYb) | 3:01 |
 | 7 | [Headphones](https://open.spotify.com/track/7pMJ2uIwF5C04AY5ZNdWOF) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Reconstruction](https://open.spotify.com/album/0uwbHaYo7t65nwqE62AyZl) | 3:41 |

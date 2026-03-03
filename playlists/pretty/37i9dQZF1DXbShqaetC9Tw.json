@@ -1,6 +1,6 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 147914,
+  "num_followers": 147908,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,22 @@
     {
       "added_at": "2026-01-23 02:28:33",
       "album": {
+        "name": "Our Love",
+        "url": "https://open.spotify.com/album/5eYV7Hn2OtqnzBGGU8rn9L"
+      },
+      "artists": [
+        {
+          "name": "Finding Hope",
+          "url": "https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg"
+        }
+      ],
+      "duration_ms": 201951,
+      "name": "3:00 AM",
+      "url": "https://open.spotify.com/track/1A9BHea7H07pDnwFpM1yWG"
+    },
+    {
+      "added_at": "2026-01-23 02:28:33",
+      "album": {
         "name": "stars burn out",
         "url": "https://open.spotify.com/album/7zR88DU7qfwRM8LujvL4EZ"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 215852,
       "name": "stars burn out",
       "url": "https://open.spotify.com/track/2SZkuX2KgTCugNYcKCoEqH"
-    },
-    {
-      "added_at": "2026-01-23 02:28:33",
-      "album": {
-        "name": "Our Love",
-        "url": "https://open.spotify.com/album/5eYV7Hn2OtqnzBGGU8rn9L"
-      },
-      "artists": [
-        {
-          "name": "Finding Hope",
-          "url": "https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg"
-        }
-      ],
-      "duration_ms": 201951,
-      "name": "3:00 AM",
-      "url": "https://open.spotify.com/track/1A9BHea7H07pDnwFpM1yWG"
     },
     {
       "added_at": "2026-01-23 02:28:33",
@@ -787,22 +787,18 @@
     {
       "added_at": "2026-01-23 02:28:33",
       "album": {
-        "name": "4 Seasons",
-        "url": "https://open.spotify.com/album/64xSyyzLpiFCfgnGiwmOfX"
+        "name": "Do monsters love too?",
+        "url": "https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET"
       },
       "artists": [
         {
-          "name": "MELOH",
-          "url": "https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg"
-        },
-        {
-          "name": "VVON",
-          "url": "https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby"
+          "name": "eldon",
+          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
         }
       ],
-      "duration_ms": 151106,
-      "name": "4 Seasons",
-      "url": "https://open.spotify.com/track/0pO83HwPbv1XVUt6t02M9X"
+      "duration_ms": 173080,
+      "name": "Mliy",
+      "url": "https://open.spotify.com/track/1CO0sMbcKm7gDP0bcdb0pu"
     },
     {
       "added_at": "2026-01-23 02:28:33",
@@ -823,18 +819,22 @@
     {
       "added_at": "2026-01-23 02:28:33",
       "album": {
-        "name": "Do monsters love too?",
-        "url": "https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET"
+        "name": "4 Seasons",
+        "url": "https://open.spotify.com/album/64xSyyzLpiFCfgnGiwmOfX"
       },
       "artists": [
         {
-          "name": "eldon",
-          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
+          "name": "MELOH",
+          "url": "https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg"
+        },
+        {
+          "name": "VVON",
+          "url": "https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby"
         }
       ],
-      "duration_ms": 173080,
-      "name": "Mliy",
-      "url": "https://open.spotify.com/track/1CO0sMbcKm7gDP0bcdb0pu"
+      "duration_ms": 151106,
+      "name": "4 Seasons",
+      "url": "https://open.spotify.com/track/0pO83HwPbv1XVUt6t02M9X"
     },
     {
       "added_at": "2026-01-23 02:28:33",

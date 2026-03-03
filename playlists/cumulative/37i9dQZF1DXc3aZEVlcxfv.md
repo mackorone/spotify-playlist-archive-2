@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-555 songs - 1 day 13 hr 2 min
+556 songs - 1 day 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Jehovah](https://open.spotify.com/track/1XkTzzmDoMSw97cOLvp3W0) | [Kelvin Sings](https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC) | [Jehovah](https://open.spotify.com/album/0X6GYTN82L7U25f8gxYpSg) | 3:12 | 2025-09-26 | 2025-11-28 |
 | [JEHOVAH OVERDO](https://open.spotify.com/track/4CpkksfFzZWfdfa1jgJHnK) | [Kofi Dartey](https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr), [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [JEHOVAH OVERDO](https://open.spotify.com/album/77FfDFvBdqw5JrtCcUHu9G) | 2:23 | 2025-04-11 | 2025-05-23 |
 | [Jesu Doh \(Revisitation\)](https://open.spotify.com/track/2ff0oDG7KHh5G6Sn4Tn6KH) | [Onome Ovwori](https://open.spotify.com/artist/3BVYzOXEHmFZGLy9jHiXIy), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Jesu Doh \(Revisitation\)](https://open.spotify.com/album/3EuYKNMSaFJjncOA1yZktn) | 5:23 | 2025-01-03 | 2025-09-05 |
+| [Jesu Ni](https://open.spotify.com/track/6tYErAAwdY1kXzdbAxLTpM) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM), [Tkeyz](https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI) | [Jesu Ni](https://open.spotify.com/album/45nDWS71Eu1YxtnlDgupdn) | 3:11 | 2026-03-02 |  |
 | [JESUS](https://open.spotify.com/track/4KZZLqQTcY2YfbEviV7bzf) | [Dr Joe Ebi](https://open.spotify.com/artist/5p5hQ6etqr9a2rLdSkjgO6), [Zoe Ebi\-Adoga](https://open.spotify.com/artist/1CLXZzitYXLnDnZVEE2Wep) | [JESUS](https://open.spotify.com/album/1O9AB2HcLOhfvzVaR6Zalu) | 4:10 | 2024-10-11 | 2025-03-07 |
 | [JESUS \- Acoustic Version](https://open.spotify.com/track/697RxMNB5lPeOqASJ8a9Um) | [Evans Ogboi](https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0) | [JESUS \(Acoustic Version\)](https://open.spotify.com/album/1MLCsznCAwcFzLRuzQFuix) | 4:36 | 2025-08-01 | 2025-10-03 |
 | [Jesus Loves Me \(Oh Kwabena\)](https://open.spotify.com/track/2XP4PLQp37qU0wHunJHuSl) | [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Jesus Loves Me \(Oh Kwabena\)](https://open.spotify.com/album/6rqAYrPXgVDBMpgFSP9Iin) | 2:11 | 2025-11-21 | 2026-01-15 |

@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> <a href="https://docs.google.com/forms/d/e/1FAIpQLScMF3Bk85sf0Q8EtivfX\-sCFgsgIpORHNyGB28r1NujobZdmw/viewform">talk to us about music :\) </a>   Cover: Mitski
+> <a href="https://loremandfriends.substack.com/p/everything\-comes\-back\-around\-and">read our substack!  </a>   Cover: Mitski
 
 3,714 songs - 8 day 11 hr 17 min
 

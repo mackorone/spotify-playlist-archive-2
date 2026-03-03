@@ -1,12 +1,12 @@
 {
   "description": "This is Phoenix. The essential tracks, all in one playlist.",
-  "num_followers": 97432,
+  "num_followers": 97426,
   "original_name": "This Is Phoenix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaIwAAAAAAAVECEh/cvX7LN9bCHiLwnZ",
+  "snapshot_id": "aaOBgAAAAACQVoGNIzgP1B9ULsO6AA6P",
   "tracks": [
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Never Been Like that",
-        "url": "https://open.spotify.com/album/7vWL0BcIYUfb5qpbeWuHnj"
+        "name": "Alpha Zulu",
+        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 63080,
-      "name": "Diet of the Heart",
-      "url": "https://open.spotify.com/track/3GxrYdbGWP7v5oAHAEIYWz"
+      "duration_ms": 302026,
+      "name": "Identical",
+      "url": "https://open.spotify.com/track/33FQ0dWX1P2EqlGkBVLPbD"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alpha Zulu",
-        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
+        "name": "It's Never Been Like That (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 302026,
-      "name": "Identical",
-      "url": "https://open.spotify.com/track/33FQ0dWX1P2EqlGkBVLPbD"
+      "duration_ms": 196813,
+      "name": "Rally",
+      "url": "https://open.spotify.com/track/2n21r18BendiM8hynbe7XJ"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "It's Never Been Like that",
+        "url": "https://open.spotify.com/album/7vWL0BcIYUfb5qpbeWuHnj"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 63080,
+      "name": "Diet of the Heart",
+      "url": "https://open.spotify.com/track/3GxrYdbGWP7v5oAHAEIYWz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alpha Zulu",
         "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 167013,
       "name": "Season 2",
       "url": "https://open.spotify.com/track/4Dy26AYLOdCjqSadkaTYJN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It's Never Been Like That (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 196813,
-      "name": "Rally",
-      "url": "https://open.spotify.com/track/2n21r18BendiM8hynbe7XJ"
     },
     {
       "added_at": null,

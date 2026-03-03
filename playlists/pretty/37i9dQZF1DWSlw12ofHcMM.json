@@ -1,6 +1,6 @@
 {
   "description": "bold tracks, serious swagger.",
-  "num_followers": 1367841,
+  "num_followers": 1367830,
   "original_name": "Swagger",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
+        "name": "Jace Everett",
+        "url": "https://open.spotify.com/album/2bxVJbSsv2ldVqjnX58DtE"
+      },
+      "artists": [
+        {
+          "name": "Jace Everett",
+          "url": "https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs"
+        }
+      ],
+      "duration_ms": 164440,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/4VIDVd87GQcBSbofvDp8Pj"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
         "name": "Run On",
         "url": "https://open.spotify.com/album/3QVFpfKAIEYE0GfSiUqQfk"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 212705,
       "name": "Run On",
       "url": "https://open.spotify.com/track/0pu3kHgI5lFwbPXQFK8CGz"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
-        "name": "Jace Everett",
-        "url": "https://open.spotify.com/album/2bxVJbSsv2ldVqjnX58DtE"
-      },
-      "artists": [
-        {
-          "name": "Jace Everett",
-          "url": "https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs"
-        }
-      ],
-      "duration_ms": 164440,
-      "name": "Bad Things",
-      "url": "https://open.spotify.com/track/4VIDVd87GQcBSbofvDp8Pj"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
+        "name": "Ruby Red",
+        "url": "https://open.spotify.com/album/7Bsz8Wc2xeIZVr0XC23Vfk"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Santo",
+          "url": "https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a"
+        }
+      ],
+      "duration_ms": 222026,
+      "name": "Blood on Your Knees",
+      "url": "https://open.spotify.com/track/3x6QbnhKGxweFWdqDl8289"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
         "name": "Avalanche",
         "url": "https://open.spotify.com/album/0DQe0tsjxE9yfB2dntQmUR"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 204121,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/2J6FjuQNSU0tvcplhtl5AP"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
-        "name": "Ruby Red",
-        "url": "https://open.spotify.com/album/7Bsz8Wc2xeIZVr0XC23Vfk"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Santo",
-          "url": "https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a"
-        }
-      ],
-      "duration_ms": 222026,
-      "name": "Blood on Your Knees",
-      "url": "https://open.spotify.com/track/3x6QbnhKGxweFWdqDl8289"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -823,18 +823,18 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Sugar Cane Sessions",
-        "url": "https://open.spotify.com/album/7aeXHOQbK5fBT58INAtCz0"
+        "name": "Where the Lore Began",
+        "url": "https://open.spotify.com/album/3LaoH7HZsER4wBPApBiwa9"
       },
       "artists": [
         {
-          "name": "KaiL Baxley",
-          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
+          "name": "Jeremiah Tall",
+          "url": "https://open.spotify.com/artist/11mBQlqUJqZCgqLCKQdhSP"
         }
       ],
-      "duration_ms": 172055,
-      "name": "Boy Got It Bad (Live with the Charleston City Choir)",
-      "url": "https://open.spotify.com/track/2tu4dVYXtD9D0hUMEHidp9"
+      "duration_ms": 111967,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/14wY5SJ4WoyMi5GLVeew4c"
     }
   ],
   "unique_name": "Swagger",

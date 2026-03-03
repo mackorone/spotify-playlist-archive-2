@@ -1083,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "Every Rainbow",
+        "url": "https://open.spotify.com/album/6PBzC9YTBXU5XmhDccHcZP"
+      },
+      "artists": [
+        {
+          "name": "Tangarine",
+          "url": "https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183786,
+      "name": "Every Rainbow",
+      "url": "https://open.spotify.com/track/7gh8ajrjzoJupX70ruzcEt"
+    },
+    {
+      "album": {
         "name": "Everything Grows",
         "url": "https://open.spotify.com/album/3bUHdR32jmz04qR2DNSF8B"
       },
@@ -3670,7 +3688,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 243958,
       "name": "Places To Be",
       "url": "https://open.spotify.com/track/72OhurZMGaH7nja23KnFs5"
@@ -4902,6 +4920,24 @@
       "duration_ms": 308920,
       "name": "The Island",
       "url": "https://open.spotify.com/track/5rK6tUpOnpI2zig7JgtAGz"
+    },
+    {
+      "album": {
+        "name": "The Night We Both Felt Alone",
+        "url": "https://open.spotify.com/album/6XJmCPKCANMOGTs3MOZw2G"
+      },
+      "artists": [
+        {
+          "name": "Samuel Andryk",
+          "url": "https://open.spotify.com/artist/3stQBG1xd0n7nnHk5EFkzc"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181289,
+      "name": "The Night We Both Felt Alone",
+      "url": "https://open.spotify.com/track/2CMHLOLhkCrstNmEumL1GZ"
     },
     {
       "album": {

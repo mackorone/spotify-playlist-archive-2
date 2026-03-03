@@ -4,7 +4,7 @@
 
 > Rustig aan doen op zaterdag met deze zachte popliedjes.
 
-306 songs - 18 hr 3 min
+308 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Dream In A Dream](https://open.spotify.com/track/6EGvCC2xy1lEzfINPK5DUq) | [Frank Rensen](https://open.spotify.com/artist/4nahdbp2YzcisSOrGyVBAP) | [1/2](https://open.spotify.com/album/02YjNurvWFrkzn5wjEYT2P) | 3:11 | 2021-11-24 | 2025-11-12 |
 | [Emma Stone](https://open.spotify.com/track/1GuIxLw79Xe9aqyLTqBS5V) | [Armen Paul](https://open.spotify.com/artist/1CwqAnNZyIYqC7SWpTUpwk) | [Emma Stone](https://open.spotify.com/album/5tjRVV6AbAKvhZGskSmVKx) | 2:36 | 2026-01-23 |  |
 | [Even on Bad Days](https://open.spotify.com/track/1Yn0e8tam3k9rNHIhI5GNg) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Even on Bad Days](https://open.spotify.com/album/02fIwZWAMLUPo5OI7LVnr9) | 4:38 | 2023-10-06 |  |
+| [Every Rainbow](https://open.spotify.com/track/7gh8ajrjzoJupX70ruzcEt) | [Tangarine](https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659) | [Every Rainbow](https://open.spotify.com/album/6PBzC9YTBXU5XmhDccHcZP) | 3:03 | 2026-03-02 |  |
 | [Everything Grows](https://open.spotify.com/track/1SjWBuWiOuEWyZQJZI7aLZ) | [Nagasaki Swim](https://open.spotify.com/artist/4KRpZy44q6xnBkjylQ4p5T) | [Everything Grows](https://open.spotify.com/album/3bUHdR32jmz04qR2DNSF8B) | 4:17 | 2023-02-23 |  |
 | [Everything Grows](https://open.spotify.com/track/7dTGW4xLjjkpEMGWdvGf4V) | [Nagasaki Swim](https://open.spotify.com/artist/4KRpZy44q6xnBkjylQ4p5T) | [Everything Grows](https://open.spotify.com/album/2aUUlYum6c8SSwLEdj0f1M) | 4:17 | 2023-04-27 | 2024-04-19 |
 | [Everything In Harmony \- Acoustic](https://open.spotify.com/track/6sDV1rXmmx4e3PFFYscTnk) | [Rindue](https://open.spotify.com/artist/4oojbn40EbfJ8IDkzKUWAw) | [Fuzz / Everything In Harmony \(Acoustic\)](https://open.spotify.com/album/3YnQm8Q7dtsxlLhpgoPx9o) | 3:04 | 2024-11-14 |  |
@@ -205,7 +206,7 @@
 | [Passport Home](https://open.spotify.com/track/4sasqE4lDhBhm4ER7EsQaf) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Passport Home](https://open.spotify.com/album/35oMYxeEPYIGzwIOOVqX28) | 3:00 | 2021-11-24 | 2024-05-26 |
 | [Peaceful Now](https://open.spotify.com/track/6SiGBl8vh4vJuxxTrE4uqE) | [Shishani](https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B) | [Peaceful Now](https://open.spotify.com/album/27JGlj8aO16dMYFe62fsxN) | 2:33 | 2024-10-03 |  |
 | [Pillow Scream](https://open.spotify.com/track/5dt3DHWX8EnVR4QJZ0fhxI) | [Will Knox](https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS) | [Pillow Scream](https://open.spotify.com/album/5tDWszKpaH5baAcFGpj6xF) | 3:10 | 2025-02-03 |  |
-| [Places To Be](https://open.spotify.com/track/72OhurZMGaH7nja23KnFs5) | [Samuel Andryk](https://open.spotify.com/artist/3stQBG1xd0n7nnHk5EFkzc) | [Places To Be](https://open.spotify.com/album/6pMIeLMlduThBJqYnugEQB) | 4:03 | 2024-02-15 |  |
+| [Places To Be](https://open.spotify.com/track/72OhurZMGaH7nja23KnFs5) | [Samuel Andryk](https://open.spotify.com/artist/3stQBG1xd0n7nnHk5EFkzc) | [Places To Be](https://open.spotify.com/album/6pMIeLMlduThBJqYnugEQB) | 4:03 | 2024-02-15 | 2026-03-03 |
 | [Pop Song \- Acoustic](https://open.spotify.com/track/3WqIhK2AolZ1ZhD3kMFKfn) | [Penny Roox](https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg) | [Pop Song \(Acoustic\)](https://open.spotify.com/album/2s1ZeXA6uPt3WEu9PuvICy) | 2:55 | 2024-10-22 |  |
 | [Portugal](https://open.spotify.com/track/4AW5jkc58rZqd1QILwfZN6) | [Will Knox](https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS) | [Portugal](https://open.spotify.com/album/4T1L7sq2VAkk17BJKcuMyM) | 2:56 | 2026-01-23 |  |
 | [Princess](https://open.spotify.com/track/0JfIKYbzWSO4HP1xQ8yx5T) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Hopeless Romance](https://open.spotify.com/album/51JA0UFkSPqimGkwXL7upb) | 3:56 | 2022-12-01 | 2023-02-24 |
@@ -274,6 +275,7 @@
 | [The Dirt](https://open.spotify.com/track/2NDC19WBHec7k6ov7tbLgD) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [The Dirt](https://open.spotify.com/album/6z5nCymiIDTDBaClbPK0gv) | 2:41 | 2021-11-24 | 2025-09-04 |
 | [The First Train Home](https://open.spotify.com/track/3dhWVDkvWw3CA4xUfuPMjh) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [The First Train Home](https://open.spotify.com/album/5IJoIoHhgV3xrJDs2SRXHx) | 3:32 | 2024-06-03 |  |
 | [The Island](https://open.spotify.com/track/5rK6tUpOnpI2zig7JgtAGz) | [Laura Jansen](https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM) | [The Island](https://open.spotify.com/album/7HKuPYtqg01NQ899c8hK6x) | 5:08 | 2021-11-24 | 2023-10-07 |
+| [The Night We Both Felt Alone](https://open.spotify.com/track/2CMHLOLhkCrstNmEumL1GZ) | [Samuel Andryk](https://open.spotify.com/artist/3stQBG1xd0n7nnHk5EFkzc) | [The Night We Both Felt Alone](https://open.spotify.com/album/6XJmCPKCANMOGTs3MOZw2G) | 3:01 | 2026-03-02 |  |
 | [The Sailors' Tales](https://open.spotify.com/track/1XJbj3IBytWGi2At0HjcRr) | [Aure](https://open.spotify.com/artist/7KJ2PJCOvE40LTdQ7qEcM6) | [The Sailors' Tales](https://open.spotify.com/album/0v6YscOyjviSJ1hqRTqS4T) | 3:24 | 2025-09-11 |  |
 | [The Way I Love You Now](https://open.spotify.com/track/0f0LczCuY8x9JNzCmvRmZr) | [Daniel Docherty](https://open.spotify.com/artist/186gOhAX0pNXjYldk47D0F) | [The Way I Love You Now](https://open.spotify.com/album/1hx0sIMyERM2fq2zX3m1gn) | 2:53 | 2026-01-23 |  |
 | [The Way You Take Time](https://open.spotify.com/track/2kFwiAtvJ9VT1c8PAoBkJj) | [Joe Buck](https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh) | [The Way You Take Time](https://open.spotify.com/album/2mHb3q04keB9gEQ00hhAlc) | 2:31 | 2021-11-24 | 2022-04-29 |

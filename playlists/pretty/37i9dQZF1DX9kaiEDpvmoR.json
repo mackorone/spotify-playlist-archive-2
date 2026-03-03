@@ -391,26 +391,6 @@
     {
       "added_at": "2026-02-27 09:57:33",
       "album": {
-        "name": "Stockholm",
-        "url": "https://open.spotify.com/album/64LKeh7Ban8XpiuPWb9MnC"
-      },
-      "artists": [
-        {
-          "name": "Erlend Ropstad",
-          "url": "https://open.spotify.com/artist/5DEpvCUOqEagldzoh25m1t"
-        },
-        {
-          "name": "Lars Winnerb\u00e4ck",
-          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
-        }
-      ],
-      "duration_ms": 249626,
-      "name": "Stockholm",
-      "url": "https://open.spotify.com/track/2xPiro8t2RPPxjkLvg0kHo"
-    },
-    {
-      "added_at": "2026-02-27 09:57:33",
-      "album": {
         "name": "EXISTENS",
         "url": "https://open.spotify.com/album/0XDsq9zTHP8OI5UW1PE9lm"
       },
@@ -443,22 +423,38 @@
     {
       "added_at": "2026-02-27 09:57:33",
       "album": {
-        "name": "Human (feat. Jesse & Joy)",
-        "url": "https://open.spotify.com/album/37DEtkcmpXDSgFqJuy7eOU"
+        "name": "Stockholm",
+        "url": "https://open.spotify.com/album/64LKeh7Ban8XpiuPWb9MnC"
       },
       "artists": [
         {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+          "name": "Erlend Ropstad",
+          "url": "https://open.spotify.com/artist/5DEpvCUOqEagldzoh25m1t"
         },
         {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
         }
       ],
-      "duration_ms": 243795,
-      "name": "Human (feat. Jesse & Joy)",
-      "url": "https://open.spotify.com/track/4MH2gZVOQMUo9CcKIzJsiR"
+      "duration_ms": 249626,
+      "name": "Stockholm",
+      "url": "https://open.spotify.com/track/2xPiro8t2RPPxjkLvg0kHo"
+    },
+    {
+      "added_at": "2026-02-27 09:57:33",
+      "album": {
+        "name": "Stronger Than",
+        "url": "https://open.spotify.com/album/2iIYVdrZn9vOhbBToT0Sgo"
+      },
+      "artists": [
+        {
+          "name": "The Ark",
+          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
+        }
+      ],
+      "duration_ms": 188493,
+      "name": "Stronger Than",
+      "url": "https://open.spotify.com/track/0CX9PobBmUhcGriDq8fDMo"
     },
     {
       "added_at": "2026-02-27 09:57:33",
@@ -479,18 +475,38 @@
     {
       "added_at": "2026-02-27 09:57:33",
       "album": {
-        "name": "Stronger Than",
-        "url": "https://open.spotify.com/album/2iIYVdrZn9vOhbBToT0Sgo"
+        "name": "Svindlande h\u00f6jder",
+        "url": "https://open.spotify.com/album/1SPlcaGE0eZiXcHWPMYbHp"
       },
       "artists": [
         {
-          "name": "The Ark",
-          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
         }
       ],
-      "duration_ms": 188493,
-      "name": "Stronger Than",
-      "url": "https://open.spotify.com/track/0CX9PobBmUhcGriDq8fDMo"
+      "duration_ms": 255386,
+      "name": "Svindlande h\u00f6jder",
+      "url": "https://open.spotify.com/track/75pKACBjnC3sVkcFSsafem"
+    },
+    {
+      "added_at": "2026-02-27 09:57:33",
+      "album": {
+        "name": "Human (feat. Jesse & Joy)",
+        "url": "https://open.spotify.com/album/37DEtkcmpXDSgFqJuy7eOU"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        },
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 243795,
+      "name": "Human (feat. Jesse & Joy)",
+      "url": "https://open.spotify.com/track/4MH2gZVOQMUo9CcKIzJsiR"
     },
     {
       "added_at": "2026-02-27 09:57:33",
@@ -527,50 +543,18 @@
     {
       "added_at": "2026-02-27 09:57:33",
       "album": {
-        "name": "Svindlande h\u00f6jder",
-        "url": "https://open.spotify.com/album/1SPlcaGE0eZiXcHWPMYbHp"
+        "name": "Bad Bones",
+        "url": "https://open.spotify.com/album/5YycljN03RNlQlBQN6nI2W"
       },
       "artists": [
         {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+          "name": "Erik Gr\u00f6nwall",
+          "url": "https://open.spotify.com/artist/5dg3YtsiR8ux6amJv9m9AG"
         }
       ],
-      "duration_ms": 255386,
-      "name": "Svindlande h\u00f6jder",
-      "url": "https://open.spotify.com/track/75pKACBjnC3sVkcFSsafem"
-    },
-    {
-      "added_at": "2026-02-27 09:57:33",
-      "album": {
-        "name": "Jag \u00e4r p\u00e5 v\u00e4g igen",
-        "url": "https://open.spotify.com/album/4qRHL64zHw3EcVIGuI2ohf"
-      },
-      "artists": [
-        {
-          "name": "Uno Svenningsson",
-          "url": "https://open.spotify.com/artist/65OPXmm2nfPvaX1fjHo8kR"
-        }
-      ],
-      "duration_ms": 209800,
-      "name": "Jag \u00e4r p\u00e5 v\u00e4g igen",
-      "url": "https://open.spotify.com/track/4WjN78YNJnxBuif5QHjRaI"
-    },
-    {
-      "added_at": "2026-02-27 09:57:33",
-      "album": {
-        "name": "Ingen vet",
-        "url": "https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r"
-      },
-      "artists": [
-        {
-          "name": "Lancelot",
-          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
-        }
-      ],
-      "duration_ms": 160975,
-      "name": "Ingen vet",
-      "url": "https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50"
+      "duration_ms": 200065,
+      "name": "Bad Bones",
+      "url": "https://open.spotify.com/track/6cq5OjkTCwKp2HiEXfHcsu"
     },
     {
       "added_at": "2026-02-27 09:57:33",
@@ -587,22 +571,6 @@
       "duration_ms": 252629,
       "name": "Margaretas s\u00e5ng",
       "url": "https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h"
-    },
-    {
-      "added_at": "2026-02-27 09:57:33",
-      "album": {
-        "name": "T\u00e5rar",
-        "url": "https://open.spotify.com/album/0FajfKoec8MCHU2WSXSAuH"
-      },
-      "artists": [
-        {
-          "name": "Markus Kruneg\u00e5rd",
-          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
-        }
-      ],
-      "duration_ms": 182567,
-      "name": "T\u00e5rar",
-      "url": "https://open.spotify.com/track/2kouUdyiy2AuDYfYQf52GV"
     },
     {
       "added_at": "2026-02-27 09:57:33",
@@ -631,6 +599,54 @@
     {
       "added_at": "2026-02-27 09:57:33",
       "album": {
+        "name": "T\u00e5rar",
+        "url": "https://open.spotify.com/album/0FajfKoec8MCHU2WSXSAuH"
+      },
+      "artists": [
+        {
+          "name": "Markus Kruneg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
+        }
+      ],
+      "duration_ms": 182567,
+      "name": "T\u00e5rar",
+      "url": "https://open.spotify.com/track/2kouUdyiy2AuDYfYQf52GV"
+    },
+    {
+      "added_at": "2026-02-27 09:57:33",
+      "album": {
+        "name": "Ingen vet",
+        "url": "https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r"
+      },
+      "artists": [
+        {
+          "name": "Lancelot",
+          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
+        }
+      ],
+      "duration_ms": 160975,
+      "name": "Ingen vet",
+      "url": "https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50"
+    },
+    {
+      "added_at": "2026-02-27 09:57:33",
+      "album": {
+        "name": "Jag \u00e4r p\u00e5 v\u00e4g igen",
+        "url": "https://open.spotify.com/album/4qRHL64zHw3EcVIGuI2ohf"
+      },
+      "artists": [
+        {
+          "name": "Uno Svenningsson",
+          "url": "https://open.spotify.com/artist/65OPXmm2nfPvaX1fjHo8kR"
+        }
+      ],
+      "duration_ms": 209800,
+      "name": "Jag \u00e4r p\u00e5 v\u00e4g igen",
+      "url": "https://open.spotify.com/track/4WjN78YNJnxBuif5QHjRaI"
+    },
+    {
+      "added_at": "2026-02-27 09:57:33",
+      "album": {
         "name": "Mother's Love Conquers All",
         "url": "https://open.spotify.com/album/69AGXPie59h3BozlQ728ew"
       },
@@ -647,22 +663,6 @@
     {
       "added_at": "2026-02-27 09:57:33",
       "album": {
-        "name": "Jag \u00c4r",
-        "url": "https://open.spotify.com/album/5NEqWuMn9w5H0VVxg7gwnB"
-      },
-      "artists": [
-        {
-          "name": "Laleh",
-          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
-        }
-      ],
-      "duration_ms": 183160,
-      "name": "Magk\u00e4nsla",
-      "url": "https://open.spotify.com/track/4IR5XlkrTU0MIqYvm35gLd"
-    },
-    {
-      "added_at": "2026-02-27 09:57:33",
-      "album": {
         "name": "F\u00f6dd i G\u00e4vle",
         "url": "https://open.spotify.com/album/2vC9ENn7GqKUYXaRhj3BxI"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 174871,
       "name": "F\u00f6dd i G\u00e4vle",
       "url": "https://open.spotify.com/track/6jqkhohvJNvxUvfxnY4JfL"
+    },
+    {
+      "added_at": "2026-02-27 09:57:33",
+      "album": {
+        "name": "Jag \u00c4r",
+        "url": "https://open.spotify.com/album/5NEqWuMn9w5H0VVxg7gwnB"
+      },
+      "artists": [
+        {
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+        }
+      ],
+      "duration_ms": 183160,
+      "name": "Magk\u00e4nsla",
+      "url": "https://open.spotify.com/track/4IR5XlkrTU0MIqYvm35gLd"
     },
     {
       "added_at": "2026-02-27 09:57:33",
@@ -711,22 +727,6 @@
     {
       "added_at": "2026-02-27 09:57:33",
       "album": {
-        "name": "Don\u2019t Look Back In Anger",
-        "url": "https://open.spotify.com/album/0OG4BDakNEA4JCXsrofX0T"
-      },
-      "artists": [
-        {
-          "name": "Dad Harmony",
-          "url": "https://open.spotify.com/artist/0FstuWxWJB3t2RA7FTAmjX"
-        }
-      ],
-      "duration_ms": 222785,
-      "name": "Don't Look Back in Anger",
-      "url": "https://open.spotify.com/track/1aXG3oxcEYBvIztcrZOd0x"
-    },
-    {
-      "added_at": "2026-02-27 09:57:33",
-      "album": {
         "name": "St\u00f6rst av allt",
         "url": "https://open.spotify.com/album/6vCVuDJ5q7IFz524YMQolr"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 195139,
       "name": "St\u00f6rst av allt",
       "url": "https://open.spotify.com/track/4UUgcPXqR4TM8JfKmd7j0k"
+    },
+    {
+      "added_at": "2026-02-27 09:57:33",
+      "album": {
+        "name": "Don\u2019t Look Back In Anger",
+        "url": "https://open.spotify.com/album/0OG4BDakNEA4JCXsrofX0T"
+      },
+      "artists": [
+        {
+          "name": "Dad Harmony",
+          "url": "https://open.spotify.com/artist/0FstuWxWJB3t2RA7FTAmjX"
+        }
+      ],
+      "duration_ms": 222785,
+      "name": "Don't Look Back in Anger",
+      "url": "https://open.spotify.com/track/1aXG3oxcEYBvIztcrZOd0x"
     },
     {
       "added_at": "2026-02-27 09:57:33",
@@ -783,22 +799,6 @@
     {
       "added_at": "2026-02-27 09:57:33",
       "album": {
-        "name": "Liquid Courage",
-        "url": "https://open.spotify.com/album/30QCyyDm0LNiyTpf2dLEmY"
-      },
-      "artists": [
-        {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
-        }
-      ],
-      "duration_ms": 193142,
-      "name": "Liquid Courage",
-      "url": "https://open.spotify.com/track/3kLOyR9AyFvpc3mQxw7S62"
-    },
-    {
-      "added_at": "2026-02-27 09:57:33",
-      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/7DRFNRjkaogUa1mhqJ3plw"
       },
@@ -811,6 +811,22 @@
       "duration_ms": 224168,
       "name": "Roses",
       "url": "https://open.spotify.com/track/5gnFxT1AG2yiT9qmLR2Udb"
+    },
+    {
+      "added_at": "2026-02-27 09:57:33",
+      "album": {
+        "name": "Liquid Courage",
+        "url": "https://open.spotify.com/album/30QCyyDm0LNiyTpf2dLEmY"
+      },
+      "artists": [
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+        }
+      ],
+      "duration_ms": 193142,
+      "name": "Liquid Courage",
+      "url": "https://open.spotify.com/track/3kLOyR9AyFvpc3mQxw7S62"
     },
     {
       "added_at": "2026-02-27 09:57:33",
@@ -863,22 +879,6 @@
     {
       "added_at": "2026-02-27 09:57:33",
       "album": {
-        "name": "Promised Land",
-        "url": "https://open.spotify.com/album/5U9shDALsWakoW6lG9R67g"
-      },
-      "artists": [
-        {
-          "name": "Tennessee Tears",
-          "url": "https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp"
-        }
-      ],
-      "duration_ms": 245614,
-      "name": "Promised Land",
-      "url": "https://open.spotify.com/track/3PFolCodainwsFza3S2IYZ"
-    },
-    {
-      "added_at": "2026-02-27 09:57:33",
-      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/6nwnSLk7ue6UM1UIc5KXAz"
       },
@@ -891,6 +891,22 @@
       "duration_ms": 200833,
       "name": "When Lights Go Down",
       "url": "https://open.spotify.com/track/4fIO2zmiM0AyzE1RfIl6UP"
+    },
+    {
+      "added_at": "2026-02-27 09:57:33",
+      "album": {
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/5U9shDALsWakoW6lG9R67g"
+      },
+      "artists": [
+        {
+          "name": "Tennessee Tears",
+          "url": "https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp"
+        }
+      ],
+      "duration_ms": 245614,
+      "name": "Promised Land",
+      "url": "https://open.spotify.com/track/3PFolCodainwsFza3S2IYZ"
     },
     {
       "added_at": "2026-02-27 09:57:33",
@@ -911,22 +927,6 @@
     {
       "added_at": "2026-02-27 09:57:33",
       "album": {
-        "name": "Stanna tiden",
-        "url": "https://open.spotify.com/album/5os2bSpWI8zm296QjpQyjK"
-      },
-      "artists": [
-        {
-          "name": "Casanovas",
-          "url": "https://open.spotify.com/artist/29JwBerAT0YALGfItKsEbT"
-        }
-      ],
-      "duration_ms": 192875,
-      "name": "Stanna tiden",
-      "url": "https://open.spotify.com/track/2pVBeLSMJuHMwGHDM5VtLm"
-    },
-    {
-      "added_at": "2026-02-27 09:57:33",
-      "album": {
         "name": "Nannes samlade schlagerhits",
         "url": "https://open.spotify.com/album/4Qyk5xifiGrGIUlanUgbyJ"
       },
@@ -939,6 +939,22 @@
       "duration_ms": 246826,
       "name": "Avundsjuk",
       "url": "https://open.spotify.com/track/2ZG0nGXSl8YLFOGPhSlmY2"
+    },
+    {
+      "added_at": "2026-02-27 09:57:33",
+      "album": {
+        "name": "Stanna tiden",
+        "url": "https://open.spotify.com/album/5os2bSpWI8zm296QjpQyjK"
+      },
+      "artists": [
+        {
+          "name": "Casanovas",
+          "url": "https://open.spotify.com/artist/29JwBerAT0YALGfItKsEbT"
+        }
+      ],
+      "duration_ms": 192875,
+      "name": "Stanna tiden",
+      "url": "https://open.spotify.com/track/2pVBeLSMJuHMwGHDM5VtLm"
     },
     {
       "added_at": "2026-02-27 09:57:33",
@@ -975,22 +991,6 @@
     {
       "added_at": "2026-02-27 09:57:33",
       "album": {
-        "name": "Forgive, Forget",
-        "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
-      },
-      "artists": [
-        {
-          "name": "Kevin Walker",
-          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
-        }
-      ],
-      "duration_ms": 169608,
-      "name": "Forgive, Forget",
-      "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
-    },
-    {
-      "added_at": "2026-02-27 09:57:33",
-      "album": {
         "name": "Bara vi andas",
         "url": "https://open.spotify.com/album/70IDdegrPyqI2bWYFW5GmL"
       },
@@ -1011,38 +1011,18 @@
     {
       "added_at": "2026-02-27 09:57:33",
       "album": {
-        "name": "The Per Gessle Archives - The Pop-Up Dynamo! Demos",
-        "url": "https://open.spotify.com/album/3T5foIHucShPqGzqSx8RsA"
+        "name": "Forgive, Forget",
+        "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
       },
       "artists": [
         {
-          "name": "Per Gessle",
-          "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
-        },
-        {
-          "name": "PG Roxette",
-          "url": "https://open.spotify.com/artist/3k87PFuum7Sv7zzjw7BMIg"
+          "name": "Kevin Walker",
+          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
         }
       ],
-      "duration_ms": 220664,
-      "name": "The Loneliest Girl In The World - T&A Demo, March 8+9, 2020",
-      "url": "https://open.spotify.com/track/06B38tKYdFqU2K6BZkwihV"
-    },
-    {
-      "added_at": "2026-02-27 09:57:33",
-      "album": {
-        "name": "Hometown",
-        "url": "https://open.spotify.com/album/6hFvQaW5C5tc2HmmEq1DqA"
-      },
-      "artists": [
-        {
-          "name": "Robin Bengtsson",
-          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "Country Enough",
-      "url": "https://open.spotify.com/track/4BmKl4Z5BnWSqOBAeTL2DJ"
+      "duration_ms": 169608,
+      "name": "Forgive, Forget",
+      "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
     },
     {
       "added_at": "2026-02-27 09:57:33",
@@ -1063,6 +1043,38 @@
       "duration_ms": 180920,
       "name": "Sk\u00f6nheten och odjuret",
       "url": "https://open.spotify.com/track/4GRpxB5acnIxYVfYwMkD18"
+    },
+    {
+      "added_at": "2026-02-27 09:57:33",
+      "album": {
+        "name": "Hometown",
+        "url": "https://open.spotify.com/album/6hFvQaW5C5tc2HmmEq1DqA"
+      },
+      "artists": [
+        {
+          "name": "Robin Bengtsson",
+          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Country Enough",
+      "url": "https://open.spotify.com/track/4BmKl4Z5BnWSqOBAeTL2DJ"
+    },
+    {
+      "added_at": "2026-02-27 09:57:33",
+      "album": {
+        "name": "Henrys gitarr",
+        "url": "https://open.spotify.com/album/1PxnAEmtU9k9i9wz2I6DUs"
+      },
+      "artists": [
+        {
+          "name": "Per Gessle",
+          "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
+        }
+      ],
+      "duration_ms": 173447,
+      "name": "Henrys gitarr",
+      "url": "https://open.spotify.com/track/1nRYLgOCslp2fUgZtC9ZCQ"
     },
     {
       "added_at": "2026-02-27 09:57:33",
@@ -1099,18 +1111,18 @@
     {
       "added_at": "2026-02-27 09:57:33",
       "album": {
-        "name": "Henrys gitarr",
-        "url": "https://open.spotify.com/album/1PxnAEmtU9k9i9wz2I6DUs"
+        "name": "N\u00e5gonting som aldrig h\u00e4nt",
+        "url": "https://open.spotify.com/album/3rYdUbfxhvKM4jMBfc8tgq"
       },
       "artists": [
         {
-          "name": "Per Gessle",
-          "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
         }
       ],
-      "duration_ms": 173447,
-      "name": "Henrys gitarr",
-      "url": "https://open.spotify.com/track/1nRYLgOCslp2fUgZtC9ZCQ"
+      "duration_ms": 181829,
+      "name": "N\u00e5gonting som aldrig h\u00e4nt",
+      "url": "https://open.spotify.com/track/2iMnR4e7P0IdHepdkp402R"
     },
     {
       "added_at": "2026-02-27 09:57:33",
@@ -1135,18 +1147,22 @@
     {
       "added_at": "2026-02-27 09:57:33",
       "album": {
-        "name": "N\u00e5gonting som aldrig h\u00e4nt",
-        "url": "https://open.spotify.com/album/3rYdUbfxhvKM4jMBfc8tgq"
+        "name": "The Per Gessle Archives - The Pop-Up Dynamo! Demos",
+        "url": "https://open.spotify.com/album/3T5foIHucShPqGzqSx8RsA"
       },
       "artists": [
         {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+          "name": "Per Gessle",
+          "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
+        },
+        {
+          "name": "PG Roxette",
+          "url": "https://open.spotify.com/artist/3k87PFuum7Sv7zzjw7BMIg"
         }
       ],
-      "duration_ms": 181829,
-      "name": "N\u00e5gonting som aldrig h\u00e4nt",
-      "url": "https://open.spotify.com/track/2iMnR4e7P0IdHepdkp402R"
+      "duration_ms": 220664,
+      "name": "The Loneliest Girl In The World - T&A Demo, March 8+9, 2020",
+      "url": "https://open.spotify.com/track/06B38tKYdFqU2K6BZkwihV"
     },
     {
       "added_at": "2026-02-27 09:57:33",
@@ -1203,22 +1219,6 @@
     {
       "added_at": "2026-02-27 09:57:33",
       "album": {
-        "name": "ICONIC EP",
-        "url": "https://open.spotify.com/album/7vCCapyy4kj3EHmgeXKKeQ"
-      },
-      "artists": [
-        {
-          "name": "Maja Ivarsson",
-          "url": "https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "Do It",
-      "url": "https://open.spotify.com/track/5IPuULP59E51nOwmYrElKt"
-    },
-    {
-      "added_at": "2026-02-27 09:57:33",
-      "album": {
         "name": "\u00c4rligt misstag",
         "url": "https://open.spotify.com/album/0Ar1oOGOq7FSZDuilbUjoW"
       },
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2026-02-27 09:57:33",
       "album": {
-        "name": "Sjung Sjung",
-        "url": "https://open.spotify.com/album/7nqC7tt3AanJ0VCmiOPhBh"
+        "name": "ICONIC EP",
+        "url": "https://open.spotify.com/album/7vCCapyy4kj3EHmgeXKKeQ"
       },
       "artists": [
         {
-          "name": "Lili & Susie",
-          "url": "https://open.spotify.com/artist/3oXpnVT7kg367PfwhfwSvK"
+          "name": "Maja Ivarsson",
+          "url": "https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK"
         }
       ],
-      "duration_ms": 193124,
-      "name": "Sjung Sjung",
-      "url": "https://open.spotify.com/track/5udaIFwzOZjCb9y8ne9vDM"
+      "duration_ms": 158133,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/5IPuULP59E51nOwmYrElKt"
     },
     {
       "added_at": "2026-02-27 09:57:33",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2026-02-27 09:57:33",
       "album": {
+        "name": "Sjung Sjung",
+        "url": "https://open.spotify.com/album/7nqC7tt3AanJ0VCmiOPhBh"
+      },
+      "artists": [
+        {
+          "name": "Lili & Susie",
+          "url": "https://open.spotify.com/artist/3oXpnVT7kg367PfwhfwSvK"
+        }
+      ],
+      "duration_ms": 193124,
+      "name": "Sjung Sjung",
+      "url": "https://open.spotify.com/track/5udaIFwzOZjCb9y8ne9vDM"
+    },
+    {
+      "added_at": "2026-02-27 09:57:33",
+      "album": {
         "name": "Happier Now",
         "url": "https://open.spotify.com/album/04TryUgrbhMKNxso4jnmKr"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 157500,
       "name": "Happier Now",
       "url": "https://open.spotify.com/track/39fU4xXjcmGu7nQ6oXpMUv"
-    },
-    {
-      "added_at": "2026-02-27 09:57:33",
-      "album": {
-        "name": "Ex Voto / The Silent Love",
-        "url": "https://open.spotify.com/album/2SwdpGKxoZwq1Wh5xGr3NG"
-      },
-      "artists": [
-        {
-          "name": "Christian Kjellvander",
-          "url": "https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6"
-        }
-      ],
-      "duration_ms": 318253,
-      "name": "It Can Heal You If You Let It",
-      "url": "https://open.spotify.com/track/7zaQo0gJLEdSsczzzxR2xV"
     },
     {
       "added_at": "2026-02-27 09:57:33",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2026-02-27 09:57:33",
       "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/7beHonKtFevWLNsVaMd3CS"
+      },
+      "artists": [
+        {
+          "name": "Magnus Carlsson",
+          "url": "https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB"
+        }
+      ],
+      "duration_ms": 167093,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/0ugszZuAOBLhfmybXOWBLN"
+    },
+    {
+      "added_at": "2026-02-27 09:57:33",
+      "album": {
         "name": "N\u00e5got ska d\u00f6 (del 1)",
         "url": "https://open.spotify.com/album/5ZSAZ2Oqc1sLa06LYensG0"
       },
@@ -1379,18 +1395,18 @@
     {
       "added_at": "2026-02-27 09:57:33",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/7beHonKtFevWLNsVaMd3CS"
+        "name": "Ex Voto / The Silent Love",
+        "url": "https://open.spotify.com/album/2SwdpGKxoZwq1Wh5xGr3NG"
       },
       "artists": [
         {
-          "name": "Magnus Carlsson",
-          "url": "https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB"
+          "name": "Christian Kjellvander",
+          "url": "https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6"
         }
       ],
-      "duration_ms": 167093,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/0ugszZuAOBLhfmybXOWBLN"
+      "duration_ms": 318253,
+      "name": "It Can Heal You If You Let It",
+      "url": "https://open.spotify.com/track/7zaQo0gJLEdSsczzzxR2xV"
     },
     {
       "added_at": "2026-02-27 09:57:33",
@@ -1415,18 +1431,18 @@
     {
       "added_at": "2026-02-27 09:57:33",
       "album": {
-        "name": "I Don't Know How to Love You Anymore",
-        "url": "https://open.spotify.com/album/37Ey2qILLzF5QiGBNLFyaA"
+        "name": "Stj\u00e4rnorna",
+        "url": "https://open.spotify.com/album/08LEQYxN0BBdBPpn9qCsxS"
       },
       "artists": [
         {
-          "name": "Ida Sand",
-          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
+          "name": "crescenterna",
+          "url": "https://open.spotify.com/artist/3nRWFDHzmQF7O2xMAZUhyh"
         }
       ],
-      "duration_ms": 233400,
-      "name": "I Don't Know How to Love You Anymore",
-      "url": "https://open.spotify.com/track/0WFv4zCTaqeYO90dwb7JSq"
+      "duration_ms": 260489,
+      "name": "Stj\u00e4rnorna",
+      "url": "https://open.spotify.com/track/6d11hYN6PUR07rk1YIXqem"
     },
     {
       "added_at": "2026-02-27 09:57:33",
@@ -1447,38 +1463,6 @@
     {
       "added_at": "2026-02-27 09:57:33",
       "album": {
-        "name": "Stj\u00e4rnorna",
-        "url": "https://open.spotify.com/album/08LEQYxN0BBdBPpn9qCsxS"
-      },
-      "artists": [
-        {
-          "name": "crescenterna",
-          "url": "https://open.spotify.com/artist/3nRWFDHzmQF7O2xMAZUhyh"
-        }
-      ],
-      "duration_ms": 260489,
-      "name": "Stj\u00e4rnorna",
-      "url": "https://open.spotify.com/track/6d11hYN6PUR07rk1YIXqem"
-    },
-    {
-      "added_at": "2026-02-27 09:57:33",
-      "album": {
-        "name": "Jag dansade en sommar",
-        "url": "https://open.spotify.com/album/343BjB6iMyT9aMXW6WSTt4"
-      },
-      "artists": [
-        {
-          "name": "Larz-Kristerz",
-          "url": "https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3"
-        }
-      ],
-      "duration_ms": 199120,
-      "name": "Jag dansade en sommar",
-      "url": "https://open.spotify.com/track/55mmUWKU8QQf6OXYF313o1"
-    },
-    {
-      "added_at": "2026-02-27 09:57:33",
-      "album": {
         "name": "Sk\u00f6ldpadds\u00f6n",
         "url": "https://open.spotify.com/album/6MSutHWD3PDoiq4darVsq9"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 255250,
       "name": "Inget \u00e4r f\u00f6rl\u00e5tet",
       "url": "https://open.spotify.com/track/5THaovu6NULW2NGG1nSUqD"
+    },
+    {
+      "added_at": "2026-02-27 09:57:33",
+      "album": {
+        "name": "I Don't Know How to Love You Anymore",
+        "url": "https://open.spotify.com/album/37Ey2qILLzF5QiGBNLFyaA"
+      },
+      "artists": [
+        {
+          "name": "Ida Sand",
+          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
+        }
+      ],
+      "duration_ms": 233400,
+      "name": "I Don't Know How to Love You Anymore",
+      "url": "https://open.spotify.com/track/0WFv4zCTaqeYO90dwb7JSq"
     }
   ],
   "unique_name": "Aktuellt",

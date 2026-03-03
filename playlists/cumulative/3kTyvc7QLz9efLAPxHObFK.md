@@ -4,7 +4,7 @@
 
 > 
 
-2,891 songs - 6 day 5 hr 36 min
+2,892 songs - 6 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -843,6 +843,7 @@
 | [Fatal Bass](https://open.spotify.com/track/6Qaqql3O9KQrUiwZKqnFGu) | [Spitfire](https://open.spotify.com/artist/0R24GpElISFAat9cNHEPLw) | [Fatal Bass](https://open.spotify.com/album/2xHiggsK0C8xxa4oRbx6Xu) | 2:28 | 2025-09-15 |  |
 | [FCK DAT!](https://open.spotify.com/track/5nvs5WItsAmnmnWqWfwTWJ) | [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi), [Kronos](https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD) | [FCK DAT!](https://open.spotify.com/album/7cohOKDaKi7YCtrZVuHL62) | 2:47 | 2023-06-09 |  |
 | [FCK SHIII UP](https://open.spotify.com/track/2ezEFgJAqX01MNNY7ciYt9) | [Levenkhan](https://open.spotify.com/artist/0ceEjm8IKMdK5BjMmnGMrd), [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq) | [FCK SHIII UP](https://open.spotify.com/album/7mb0xl2i9aMNOVnh6ckXCg) | 3:05 | 2025-02-11 |  |
+| [FCKN JUMP](https://open.spotify.com/track/5BorbYUvZnnAWWLg1Kn9sm) | [MJU](https://open.spotify.com/artist/67mfEI3l2eiyhmTPHf4YcY), [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [FCKN JUMP](https://open.spotify.com/album/62bYRuwbANWYMIoVfx1Oub) | 2:53 | 2026-03-03 |  |
 | [FCKN W MY GANG ?! \- Official FCKNYE Anthem](https://open.spotify.com/track/0i4neMAfxXXCTQGHfPra50) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [Sandy Warez](https://open.spotify.com/artist/1oZ7OpE1SHjyUjXgYKaLpM) | [FCKN W MY GANG ?! \(Official FCKNYE Anthem\)](https://open.spotify.com/album/4pXEC5SVjhHAPws6ErANpj) | 2:26 | 2023-12-30 |  |
 | [FE!N \- Techno Mix](https://open.spotify.com/track/1rz52YWnHHqfRbebAH1L8p) | [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9), [Sefa Taskin](https://open.spotify.com/artist/4k0nPiLcFU0ZM1PdL7iE1x) | [FE!N \(Techno Mix\)](https://open.spotify.com/album/7b7hoTDEi1N2drSYmzNDYz) | 2:22 | 2026-02-28 |  |
 | [FEAR](https://open.spotify.com/track/1IH6ddfwvPaqu04do7hObH) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa), [Faceless](https://open.spotify.com/artist/6Tx1eyyk7TnZ8kJsrRaJ2u) | [FEAR](https://open.spotify.com/album/0bxIololxhmvLVuuWDBS1S) | 2:09 | 2024-12-19 |  |

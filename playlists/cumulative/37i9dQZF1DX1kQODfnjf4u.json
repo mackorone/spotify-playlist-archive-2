@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: Robin Zoot",
+  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: Yzomandias",
   "name": "Hot Hits \u010cesk\u00e1 republika",
   "tracks": [
     {
@@ -210,7 +210,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 210859,
       "name": "Antarktida",
       "url": "https://open.spotify.com/track/1IeSKALeTrDx7H17xqxlXT"
@@ -636,7 +636,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 281346,
       "name": "Cigarety",
       "url": "https://open.spotify.com/track/1XIbDyk2cYuhmPa0cO0zqN"
@@ -716,6 +716,24 @@
       "duration_ms": 150395,
       "name": "Dal\u0161\u00ed kapitola",
       "url": "https://open.spotify.com/track/1oubd2VIVeurm35QkG03X7"
+    },
+    {
+      "album": {
+        "name": "Den a noc",
+        "url": "https://open.spotify.com/album/12u8ai9zrYYXVtmaSgDCXD"
+      },
+      "artists": [
+        {
+          "name": "KOJO",
+          "url": "https://open.spotify.com/artist/0edxmbwC1I57fIyRCuz2FY"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143805,
+      "name": "Den a noc",
+      "url": "https://open.spotify.com/track/04zZaxfyIcri7AO7efBeZ7"
     },
     {
       "album": {
@@ -818,7 +836,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 172258,
       "name": "Dlouh\u00e1 Noc",
       "url": "https://open.spotify.com/track/012j2O6GP7Au0NZDDkgU2g"
@@ -858,7 +876,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 119999,
       "name": "Dnd",
       "url": "https://open.spotify.com/track/4K5yNYv7mSJd5rYdLHaua8"
@@ -1221,6 +1239,24 @@
     },
     {
       "album": {
+        "name": "FEVER DREAM",
+        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153430,
+      "name": "FEVER DREAM",
+      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
+    },
+    {
+      "album": {
         "name": "Gambit",
         "url": "https://open.spotify.com/album/6QuyJZ11hFvR1VnweDNhwM"
       },
@@ -1487,6 +1523,24 @@
     },
     {
       "album": {
+        "name": "TYPE BEAT / HIP THRUST",
+        "url": "https://open.spotify.com/album/4Lq7fDwKvULCKCiLtXY5tZ"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100377,
+      "name": "HIP THRUST",
+      "url": "https://open.spotify.com/track/3kjReKinqmvImzc9CAXDGk"
+    },
+    {
+      "album": {
         "name": "Homerun",
         "url": "https://open.spotify.com/album/3aOx0BcJHnzo0STXDmhDdQ"
       },
@@ -1622,7 +1676,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 188936,
       "name": "In\u00e9 Plemen\u00e1",
       "url": "https://open.spotify.com/track/0Bb5TRJzYDMOswry6GKDSr"
@@ -3201,6 +3255,28 @@
     },
     {
       "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184761,
+      "name": "Stateside + Zara Larsson",
+      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
+    },
+    {
+      "album": {
         "name": "PRESIDENT OF SEXICO",
         "url": "https://open.spotify.com/album/3nkaxDNhc38JqBWqvHQACD"
       },
@@ -3618,6 +3694,24 @@
       "duration_ms": 183584,
       "name": "Two Faced",
       "url": "https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt"
+    },
+    {
+      "album": {
+        "name": "TYPE BEAT / HIP THRUST",
+        "url": "https://open.spotify.com/album/4Lq7fDwKvULCKCiLtXY5tZ"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123076,
+      "name": "TYPE BEAT",
+      "url": "https://open.spotify.com/track/3OhcMbapB8evsgarEoPGH0"
     },
     {
       "album": {

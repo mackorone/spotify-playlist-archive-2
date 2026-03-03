@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste releases Hollands & Volks\. Cover: Wesly Bronkhorst, Brace, Billy Dans & Poke
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,077 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,114 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [De Avond Is Van Ons](https://open.spotify.com/track/2misMDi4t5KGdaeLKXOryx) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG) | [De Avond Is Van Ons](https://open.spotify.com/album/0BqQjNilA8YsSzrWIRikMa) | 2:53 |
 | 2 | [Uitslover](https://open.spotify.com/track/3HUpSJBn9COpunhZJczbQw) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Uitslover](https://open.spotify.com/album/6YDru2ioziRTAmmZ4iDZS6) | 2:35 |
-| 3 | [Diner Voor Twee](https://open.spotify.com/track/7LkZDegKhYQDSFgbJSN3e8) | [Diego Holzken](https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx) | [Diner Voor Twee](https://open.spotify.com/album/7eigNO4pIpnIB9btmu9gAU) | 2:35 |
-| 4 | [Cheerio](https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Cheerio](https://open.spotify.com/album/31pOa0QRbqjz0yTkY37Sqh) | 2:28 |
+| 3 | [Cheerio](https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Cheerio](https://open.spotify.com/album/31pOa0QRbqjz0yTkY37Sqh) | 2:28 |
+| 4 | [Diner Voor Twee](https://open.spotify.com/track/7LkZDegKhYQDSFgbJSN3e8) | [Diego Holzken](https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx) | [Diner Voor Twee](https://open.spotify.com/album/7eigNO4pIpnIB9btmu9gAU) | 2:35 |
 | 5 | [Vuur & Vlam](https://open.spotify.com/track/3lHXU7bR9lkZ8OB8cOcAne) | [Menno Aben](https://open.spotify.com/artist/2Jc9IdaUSgqGtF202EB1zL) | [Vuur & Vlam](https://open.spotify.com/album/4vggm5E3OQmGaz23jpdJl5) | 2:51 |
 | 6 | [Het Perfecte Plaatje](https://open.spotify.com/track/4VODocbKKvbazeJuly00YE) | [Ferry de Lits](https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm) | [Het Perfecte Plaatje](https://open.spotify.com/album/0tuFFT8nIFdRXHF9Ad9JQS) | 2:09 |
-| 7 | [Monica](https://open.spotify.com/track/1dv4M4UXstRSqGeN16qGeW) | [Dave Dekker](https://open.spotify.com/artist/56M6joy09OXF448uVNKZ04) | [Monica](https://open.spotify.com/album/76FCh8KbiHcDiThhJXkM6e) | 3:06 |
-| 8 | [Dit is een Droom](https://open.spotify.com/track/4gcpVrrinsdA9BoPyuA9Oy) | [Jaman](https://open.spotify.com/artist/6VIHmm4hJ3OG1yy9fGbECD) | [Dit is een Droom](https://open.spotify.com/album/6A7Mp48fzceOliFU0fKeYP) | 3:03 |
-| 9 | [Avond voor in de Boeken](https://open.spotify.com/track/6ppgRsjpZzpJGGhzbQsTP9) | [Fons Veurink](https://open.spotify.com/artist/3rBMW23ztdIPx3poh9Z0G0) | [Avond voor in de Boeken](https://open.spotify.com/album/6EeWtkYsrjKAq2FkZ0OHPQ) | 2:55 |
-| 10 | [Gisteren Was Het Feest](https://open.spotify.com/track/3Ae5hDXfwS4QxwCGVnUx8i) | [Matthijs Koning](https://open.spotify.com/artist/6yaUUCx2XvvugnXs6h9oVV) | [Gisteren Was Het Feest](https://open.spotify.com/album/5rKeYZFEQaQhsmYStku0Tp) | 2:55 |
-| 11 | [Wij Doen Het Samen](https://open.spotify.com/track/4lX1P1sgbfJ4FXZSTeJd2h) | [Grad Damen](https://open.spotify.com/artist/14yvgluGrdWjoJWTR0TJCt), [Louistje Damen](https://open.spotify.com/artist/3LEFMqy5scqsd0F2lfwNha) | [Wij Doen Het Samen](https://open.spotify.com/album/0O5gcxGN86aGfeLed3n2DQ) | 3:21 |
-| 12 | [Genieten zonder spijt](https://open.spotify.com/track/62hSdHFvbwINZpG611wfiu) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Genieten zonder spijt](https://open.spotify.com/album/4QHwUmWUFH5SiNWLfmA1G3) | 2:53 |
-| 13 | [Gekkenhuis](https://open.spotify.com/track/6mbWCEF2EythgujAeKwE81) | [Mick Harren](https://open.spotify.com/artist/3rC0vVL6atCESm1dahvBDl) | [Gekkenhuis](https://open.spotify.com/album/6SYqQyKQjPrejCqpzrU1zI) | 3:08 |
-| 14 | [Onderweg naar jou](https://open.spotify.com/track/6zdg8VKwiyqDzwBzBg1cIj) | [Mikki van Wijk](https://open.spotify.com/artist/3IyRx9pTYYkwVOzwg1M8wW) | [Onderweg naar jou](https://open.spotify.com/album/2qLtFTUse1S8plx7ZK9ic8) | 2:32 |
+| 7 | [Avond voor in de Boeken](https://open.spotify.com/track/6ppgRsjpZzpJGGhzbQsTP9) | [Fons Veurink](https://open.spotify.com/artist/3rBMW23ztdIPx3poh9Z0G0) | [Avond voor in de Boeken](https://open.spotify.com/album/6EeWtkYsrjKAq2FkZ0OHPQ) | 2:55 |
+| 8 | [Onderweg naar jou](https://open.spotify.com/track/6zdg8VKwiyqDzwBzBg1cIj) | [Mikki van Wijk](https://open.spotify.com/artist/3IyRx9pTYYkwVOzwg1M8wW) | [Onderweg naar jou](https://open.spotify.com/album/2qLtFTUse1S8plx7ZK9ic8) | 2:32 |
+| 9 | [Monica](https://open.spotify.com/track/1dv4M4UXstRSqGeN16qGeW) | [Dave Dekker](https://open.spotify.com/artist/56M6joy09OXF448uVNKZ04) | [Monica](https://open.spotify.com/album/76FCh8KbiHcDiThhJXkM6e) | 3:06 |
+| 10 | [Dit is een Droom](https://open.spotify.com/track/4gcpVrrinsdA9BoPyuA9Oy) | [Jaman](https://open.spotify.com/artist/6VIHmm4hJ3OG1yy9fGbECD) | [Dit is een Droom](https://open.spotify.com/album/6A7Mp48fzceOliFU0fKeYP) | 3:03 |
+| 11 | [Gisteren Was Het Feest](https://open.spotify.com/track/3Ae5hDXfwS4QxwCGVnUx8i) | [Matthijs Koning](https://open.spotify.com/artist/6yaUUCx2XvvugnXs6h9oVV) | [Gisteren Was Het Feest](https://open.spotify.com/album/5rKeYZFEQaQhsmYStku0Tp) | 2:55 |
+| 12 | [Wij Doen Het Samen](https://open.spotify.com/track/4lX1P1sgbfJ4FXZSTeJd2h) | [Grad Damen](https://open.spotify.com/artist/14yvgluGrdWjoJWTR0TJCt), [Louistje Damen](https://open.spotify.com/artist/3LEFMqy5scqsd0F2lfwNha) | [Wij Doen Het Samen](https://open.spotify.com/album/0O5gcxGN86aGfeLed3n2DQ) | 3:21 |
+| 13 | [Genieten zonder spijt](https://open.spotify.com/track/62hSdHFvbwINZpG611wfiu) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Genieten zonder spijt](https://open.spotify.com/album/4QHwUmWUFH5SiNWLfmA1G3) | 2:53 |
+| 14 | [Gekkenhuis](https://open.spotify.com/track/6mbWCEF2EythgujAeKwE81) | [Mick Harren](https://open.spotify.com/artist/3rC0vVL6atCESm1dahvBDl) | [Gekkenhuis](https://open.spotify.com/album/6SYqQyKQjPrejCqpzrU1zI) | 3:08 |
 | 15 | [1%](https://open.spotify.com/track/25vyONTCBi5i4J2k8NSngB) | [Jesse Prins](https://open.spotify.com/artist/7cTPmBuInxNTQsNGlDIyrm) | [1%](https://open.spotify.com/album/4amrfzBhiVhXDGLyrMnzkX) | 2:51 |
 | 16 | [Wiegelied \- 2.0](https://open.spotify.com/track/0uzWXLY18awtT7GiisLBrG) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV), [Jeffrey Parmentier](https://open.spotify.com/artist/0nGVFnSCZQDPf0hflywur0) | [Wiegelied \(2.0\)](https://open.spotify.com/album/09UBeoyQDy3ay8sBgQmXZE) | 2:38 |
 | 17 | [Eigen Schuld](https://open.spotify.com/track/1AHGfEp4zcjYK9cjj6W1vT) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Eigen Schuld](https://open.spotify.com/album/61Qr7dTzKj6UJkDcgv1vG7) | 2:47 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 79 | [Stop de Tijd](https://open.spotify.com/track/5N2qpVfE6lxJhf3YPpzr0V) | [Rene Schuurmans](https://open.spotify.com/artist/3kfX8UOxjmAxIgxtPov6eH) | [Stop de Tijd](https://open.spotify.com/album/7yhLj8tTL789nmI2K3Z4JS) | 3:23 |
 | 80 | [Kom Terug Bij Mij](https://open.spotify.com/track/3Uy37WwVdix4fdmJSpvVTU) | [Wesley Boes](https://open.spotify.com/artist/4PfOrm0osG8Wy6jDCM9jMe) | [Kom Terug Bij Mij](https://open.spotify.com/album/2vZsIcPjW87vMW7kWxdRUQ) | 3:30 |
 
-Snapshot ID: `AAAAAAhUQfel7ayjMT57bzrXguTOAKde`
+Snapshot ID: `AAAAAHdHCVEL/O+WM20k4d9tovJFF9pB`

@@ -4,7 +4,7 @@
 
 > The best hardstyle remixes of songs you know!
 
-261 songs - 12 hr 50 min
+262 songs - 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Don't You Worry Child \(Hardstyle\)](https://open.spotify.com/track/6KWQPUeFZj0Opa8JeZQuHe) | [PXSEIDON](https://open.spotify.com/artist/0WOk6PeJIAZDHrB2U06TOw) | [Don't You Worry Child \(Hardstyle\)](https://open.spotify.com/album/4VE1EUhKNGyUjFsKYMQCtP) | 2:19 | 2024-02-08 | 2024-03-22 |
 | [Drift Away \(Numa Numa Yay\)](https://open.spotify.com/track/5FvdZ8gbPKr6qfen05303Q) | [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1) | [Drift Away \(Numa Numa Yay\)](https://open.spotify.com/album/634u94Ov4HnrF8mXT88Mt2) | 2:52 | 2023-01-26 | 2023-09-16 |
 | [Ecuador \(Hardstyle Mix\)](https://open.spotify.com/track/4PnRDsx6405Mn5DeY25J5t) | [Ecstatic](https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem) | [Ecuador \(Hardstyle Mix\)](https://open.spotify.com/album/4YpH7Q6JO3bCpWpsG6XlM7) | 2:10 | 2022-12-22 | 2023-03-04 |
-| [Epic Sax Song](https://open.spotify.com/track/1MBCOLWlw0wXeSlCgLQCK9) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [Epic Sax Song](https://open.spotify.com/album/6NaT8AHDRPSuHT3IZKJjL4) | 2:56 | 2023-02-09 |  |
+| [Epic Sax Song](https://open.spotify.com/track/1MBCOLWlw0wXeSlCgLQCK9) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [Epic Sax Song](https://open.spotify.com/album/6NaT8AHDRPSuHT3IZKJjL4) | 2:56 | 2023-02-09 | 2026-03-03 |
 | [Euphoria \- Hardstyle Edit](https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA) | [Julian Brandts](https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd) | [Euphoria \(Hardstyle Edit\)](https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z) | 3:34 | 2023-09-15 |  |
 | [Europapa \(DJ Paul Elstak Remix\)](https://open.spotify.com/track/0dSXcpeqmi6Wdq6bZWcuGC) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Europapa: Greatest Hits](https://open.spotify.com/album/7xyZRItvB1QLR3Sj83VDqx) | 3:01 | 2024-04-12 | 2025-03-21 |
 | [Everytime We Touch \- Sound Rush Remix](https://open.spotify.com/track/6HRQ2TCrIFhZpIdI9DyhEh) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Everytime We Touch \(Sound Rush Remix\)](https://open.spotify.com/album/48WmVfUVF8jCBCqFXB7Rkj) | 3:36 | 2022-12-05 |  |
@@ -264,6 +264,7 @@
 | [WOLFGANG](https://open.spotify.com/track/7HG413xQYwoR6i8D3ADC7J) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Junkie Kid](https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J) | [Timmy Trumpet's SINPHONY No\. 1](https://open.spotify.com/album/1QRuYyPWkoxox6RY3bU4T5) | 2:48 | 2023-10-16 | 2023-10-18 |
 | [WOLFGANG](https://open.spotify.com/track/7fSxXydUV3O7B9v2EBQCS3) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Junkie Kid](https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J) | [Timmy Trumpet's SINPHONY No\. 1](https://open.spotify.com/album/4nRym2kzawfVrO1bHcw5zK) | 2:48 | 2023-10-16 | 2024-04-19 |
 | [Wonderful Days \- Hardstyle Edit](https://open.spotify.com/track/6LrgA0g5A9jjRJFH6nKRnn) | [Thymo](https://open.spotify.com/artist/0Gmzk17bmcYkxnZqyOWfbn) | [Wonderful Days \(Hardstyle Edit\)](https://open.spotify.com/album/2ShcFyeiExEa5GVIiEEgH5) | 2:45 | 2025-10-28 |  |
+| [YEAH](https://open.spotify.com/track/03QzNTMRkmuVifyapS8eKX) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [YEAH](https://open.spotify.com/album/1QEbCQjE1boSO1yqw0rX4J) | 2:26 | 2026-03-02 |  |
 | [Your Love \(Atmozfears & Sound Rush Remix\)](https://open.spotify.com/track/0drhA9z3U2NUoF3dM4WeQT) | [Topmodelz](https://open.spotify.com/artist/4SgbqL3dLr5BfCvBBBUucP), [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Your Love \(Atmozfears & Sound Rush Remix\)](https://open.spotify.com/album/2J1RBk0GRZbCekoI1E0fO4) | 3:22 | 2022-12-05 | 2023-06-09 |
 | [ZAAG 'N' NIGHT](https://open.spotify.com/track/64DeIvhYpTWUjEDihyOZMQ) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L) | [ZAAG 'N' NIGHT](https://open.spotify.com/album/5r6wyx2ftkF84ceMbOnVrA) | 2:30 | 2025-09-22 |  |
 | [ZAAG IN PARIS](https://open.spotify.com/track/3aw99hPbrG6YTxtXYGF8XI) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC) | [ZAAG IN PARIS](https://open.spotify.com/album/4J5hA8mjqxoFfblZWmHzs1) | 2:43 | 2024-12-12 | 2025-08-29 |

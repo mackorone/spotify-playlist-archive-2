@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series!
 
-465 songs - 1 day 9 hr 10 min
+466 songs - 1 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Life on the Lotus](https://open.spotify.com/track/097HmQLvdW3Qe15LDrV4ue) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [SAVAGE](https://open.spotify.com/album/4or1XUBWoANxo0vINF2LIT) | 4:03 | 2024-06-12 | 2025-04-11 |
 | [Light a fire](https://open.spotify.com/track/2wBHkB3R5IOhGO3CPZt5pO) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [CORUSCATE \-DNA\-](https://open.spotify.com/album/71lKytpdWRtMFdbPXZeHNB) | 4:29 | 2022-05-17 | 2022-07-28 |
 | [Light Delight](https://open.spotify.com/track/1uY6uOC7DfLsrxFWcNqJHW) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [CiRCLING](https://open.spotify.com/album/4Myv0aLwr7OhYJqq2HzH2T) | 5:09 | 2022-05-17 | 2022-07-21 |
-| [Listen!! \- Cover](https://open.spotify.com/track/7fPdIuNqu222MRU3LUQIHH) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 3:47 | 2025-10-02 |  |
+| [Listen!! \- Cover](https://open.spotify.com/track/7fPdIuNqu222MRU3LUQIHH) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 3:47 | 2025-10-02 | 2026-03-03 |
 | [Live Beyond!!](https://open.spotify.com/track/35leZAoLw6bjXchbPqXv0f) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Live Beyond!!](https://open.spotify.com/album/0qEUvpIcVXtvXvsWJKcMhK) | 5:14 | 2022-06-23 | 2022-07-29 |
 | [LOUDER](https://open.spotify.com/track/3SQrzvJFTclycqYohgQHhH) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Anfang](https://open.spotify.com/album/7JmXCKV1IBEx2PXNLRU63H) | 3:34 | 2023-05-30 | 2024-04-19 |
 | [LOUDER](https://open.spotify.com/track/10D7xUQI6nfHvkmUEiCgwM) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [BLACK SHOUT](https://open.spotify.com/album/0of1hanfT7JpyWpf7NTXq3) | 3:35 | 2022-05-17 | 2022-07-23 |
@@ -321,11 +321,12 @@
 | [アイのシナリオ \- Cover](https://open.spotify.com/track/0s0vCO5OkaM99xHLYUaeYG) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 4:19 | 2024-03-23 |  |
 | [イニシャル](https://open.spotify.com/track/28K904SKzdLam6ZI7fF45u) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [イニシャル/夢を撃ち抜く瞬間に! \(Special Edition\)](https://open.spotify.com/album/5Ou7gzfqsGIwhii2xYHYS3) | 4:54 | 2022-05-17 | 2022-07-24 |
 | [イニシャル](https://open.spotify.com/track/0XkiNxWiq0F01MoGRGHuK6) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Breakthrough!](https://open.spotify.com/album/31WVyzxbAYQTeduFneMNi3) | 4:55 | 2022-10-25 | 2022-12-14 |
+| [イマジネーション \- Cover](https://open.spotify.com/track/4jjWAhz0pEVIreoP7guUL6) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 2:57 | 2026-02-17 |  |
 | [イントロダクション](https://open.spotify.com/track/2iFeWuRDUTkFGfdup9kRIa) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [イントロダクション](https://open.spotify.com/album/5m3V4KZEU8sN7W3CCJbBU1) | 3:41 | 2022-09-20 | 2024-04-19 |
 | [イントロダクション](https://open.spotify.com/track/6XWdcMK2pfSjDkFbRtiwIk) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 3:41 | 2025-02-25 |  |
 | [イントロダクション](https://open.spotify.com/track/5oRBPD9I5A8F7UwXZddsVf) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [イントロダクション](https://open.spotify.com/album/3ZgLkg9RJVLh1Xk7vPgmlw) | 3:41 | 2022-05-17 | 2022-07-29 |
 | [オレンジ \(Cover\)](https://open.spotify.com/track/1gRerODkdxiDxlXb4j6UN7) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [オレンジ \(Cover\)](https://open.spotify.com/album/1I465L0Mbyc0QbJb0uY50m) | 3:55 | 2025-03-18 |  |
-| [カサブタ \- Cover](https://open.spotify.com/track/59Pe5PRQEFrLVj9G4Bvp13) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 3:16 | 2024-03-23 |  |
+| [カサブタ \- Cover](https://open.spotify.com/track/59Pe5PRQEFrLVj9G4Bvp13) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 3:16 | 2024-03-23 | 2026-03-03 |
 | [カナユメ](https://open.spotify.com/track/5n63vjAwKJy4GN9B6vu4cd) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [カナユメ](https://open.spotify.com/album/3BwWZNxUTv3qJXKkrygSC3) | 5:07 | 2022-06-23 | 2022-07-29 |
 | [カナユメ](https://open.spotify.com/track/4HnYTgVOCNihjBLzCOv8uQ) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [カナユメ](https://open.spotify.com/album/0Vyl70ePAyl55k88d6QbkU) | 5:07 | 2022-09-20 | 2022-11-13 |
 | [カラフルリバティー](https://open.spotify.com/track/3R25yGgpbQ92tEvaDBCkD7) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 3:38 | 2025-10-02 | 2026-01-16 |
@@ -468,7 +469,7 @@
 | [雨上がりの夢](https://open.spotify.com/track/36oQA58GCSj91Yr3iFEsj6) | [湊 友希那](https://open.spotify.com/artist/1jyXuZcKGRbmIUN1W6e0Me) | [劇場版「BanG Dream! Episode of Roselia」Theme Songs Collection](https://open.spotify.com/album/5u6E8FwjrbRDYrVh0SVHlS) | 2:55 | 2022-09-20 | 2024-04-19 |
 | [霧周途](https://open.spotify.com/track/59xvP7KeDVOetqQ1qBp7zl) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [霧周途](https://open.spotify.com/album/0HzoiG9KVmBAu1FMkf0w6W) | 3:42 | 2024-11-28 |  |
 | [青い栞 \- Cover](https://open.spotify.com/track/5UHnD4ZYLLOSQaAeJGuBzt) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 5:36 | 2025-08-26 | 2026-02-28 |
-| [青のすみか \- Cover](https://open.spotify.com/track/1BbOzFxKZlcxino1a8NVk9) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [青のすみか \(Cover\)](https://open.spotify.com/album/2bTyv063SUF4J8E06aGi14) | 3:17 | 2024-03-19 | 2025-02-01 |
+| [青のすみか \- Cover](https://open.spotify.com/track/1BbOzFxKZlcxino1a8NVk9) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [青のすみか \(Cover\)](https://open.spotify.com/album/2bTyv063SUF4J8E06aGi14) | 3:17 | 2024-03-19 |  |
 | [青春 To Be Continued](https://open.spotify.com/track/0ffbqaw7SgaVKZ4Wzyx01o) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [青春 To Be Continued](https://open.spotify.com/album/5WnJBXSLn9YsyCnUDrmrbd) | 4:16 | 2023-05-30 | 2025-02-26 |
 | [音一会](https://open.spotify.com/track/2wjXoHFoZAPgSsyXMogQQa) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [音一会](https://open.spotify.com/album/3y0omCicK4HNM90n08oFmN) | 4:42 | 2023-04-11 | 2024-11-28 |
 | [魂のルフラン](https://open.spotify.com/track/5TwbVyG5JZj7vsbFshGdOS) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [バンドリ! ガールズバンドパーティ! カバコレ \(Special Selection\)](https://open.spotify.com/album/0JowuUZyfttpDW76rq0rze) | 4:29 | 2022-05-17 | 2022-07-29 |

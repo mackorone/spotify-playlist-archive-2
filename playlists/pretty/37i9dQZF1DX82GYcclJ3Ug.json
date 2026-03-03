@@ -1,12 +1,12 @@
 {
   "description": "No rules. No boundaries. The best new alternative tracks. Cover: Master Peace",
-  "num_followers": 1203769,
+  "num_followers": 1203712,
   "original_name": "The New Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGShHD/hn1DJoEUfeobSESn728cV",
+  "snapshot_id": "AAAAAIcgAqaWJpvJhbJeCe8OkZGPsRe0",
   "tracks": [
     {
       "added_at": "2026-02-27 05:00:46",
@@ -563,18 +563,18 @@
     {
       "added_at": "2026-02-27 05:00:46",
       "album": {
-        "name": "Blue Sky Mentality (Complete Edition)",
-        "url": "https://open.spotify.com/album/40OV4pw1Vvzrvo2yOTl5AF"
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
       },
       "artists": [
         {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
         }
       ],
-      "duration_ms": 169880,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/2p2PyJXXzOzpaP2HEEKYsE"
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
       "added_at": "2026-02-27 05:00:46",
@@ -591,6 +591,22 @@
       "duration_ms": 243760,
       "name": "Dancing On The Wall",
       "url": "https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp"
+    },
+    {
+      "added_at": "2026-02-27 05:00:46",
+      "album": {
+        "name": "Blue Sky Mentality (Complete Edition)",
+        "url": "https://open.spotify.com/album/40OV4pw1Vvzrvo2yOTl5AF"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 169880,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/2p2PyJXXzOzpaP2HEEKYsE"
     },
     {
       "added_at": "2026-02-27 05:00:46",
@@ -1383,22 +1399,6 @@
       "duration_ms": 170847,
       "name": "DON\u2019T BREAK",
       "url": "https://open.spotify.com/track/2kHzXBf6d59dzm63kUa9xE"
-    },
-    {
-      "added_at": "2026-02-27 05:00:46",
-      "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
-      },
-      "artists": [
-        {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
-        }
-      ],
-      "duration_ms": 180740,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
       "added_at": "2026-02-27 05:00:46",

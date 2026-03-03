@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,168 likes - 89 songs - 5 hr 6 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,168 likes - 94 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,5 +97,10 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 87 | [AMIGOS](https://open.spotify.com/track/6OBUF3YnAuiVJFcmMYVQYV) | [Muk Zen](https://open.spotify.com/artist/6fpSO2jPZo4TGmsFRLMBYv) | [AMIGOS](https://open.spotify.com/album/7kdkuaPkb7hxAn62YURevg) | 3:11 |
 | 88 | [Hoary Light](https://open.spotify.com/track/5VZCZYaOsBrZtF7i3jy2P4) | [RawGrow](https://open.spotify.com/artist/5Q0kT0kscaMSJ56bRv1VAF) | [Hoary Light](https://open.spotify.com/album/2k2Qu1YN9FI3O2ALMCq9Gy) | 3:08 |
 | 89 | [A different face](https://open.spotify.com/track/2Rg295NxrG2fN2HQcvAfib) | [Eternalize](https://open.spotify.com/artist/0gxYWBKorYdHOkDcnMLDsf) | [The way home](https://open.spotify.com/album/4xO88KLM8NjEHYpQhXbJgV) | 4:12 |
+| 90 | [They Hate The Truth](https://open.spotify.com/track/1Wdd4MQsHfyBogg1svGMxx) | [Sasha Jay](https://open.spotify.com/artist/2xHt1AlMaSlmLTonFh0vM1) | [They Hate The Truth](https://open.spotify.com/album/2EOyP6CPUmleEFOpLgjBD1) | 1:58 |
+| 91 | [2PM BUS TO THE OCEAN](https://open.spotify.com/track/2VjpDHoH1YvLw0p5EkSlSk) | [SANCHEZ BY THE SEA\*](https://open.spotify.com/artist/5bSnJtfoIBMee5zGgUcMwO) | [2PM BUS TO THE OCEAN](https://open.spotify.com/album/1BTN7J2BlxpLvux8oP6DrB) | 2:35 |
+| 92 | [Deep in the Misery](https://open.spotify.com/track/3ewW2BuO8DxWLZfxiFQvdx) | [Indigo](https://open.spotify.com/artist/2T0y5xRUmcjFn8oXD3iRsu) | [Deep in the Misery](https://open.spotify.com/album/2jgh1drEJVXCTD5lDxszxn) | 3:32 |
+| 93 | [The rain](https://open.spotify.com/track/0aQjPawnFa3hynnDmGJKhv) | [fown](https://open.spotify.com/artist/4BNwLwHxGLvefZnkS5AHiK), [whitefool](https://open.spotify.com/artist/4jjQtcHXjNjWop8MMKnP4Y) | [The rain](https://open.spotify.com/album/5wZD7DvWapqfX14BW6k6SU) | 4:25 |
+| 94 | [Yellow](https://open.spotify.com/track/7oIGfvvszUPBy3RbcybSsy) | [The Funky Ducklings](https://open.spotify.com/artist/74wI7y9osStJVIegvAq1IQ) | [Album.1](https://open.spotify.com/album/3qQaVYuxi4JzyokTTFqyBg) | 4:35 |
 
-Snapshot ID: `AAANeuLIdja05s6t7rOhGPI5y9wOHuSJ`
+Snapshot ID: `AAANf4ab8sqovm+3y2ZLtwNTNsFIi+xq`

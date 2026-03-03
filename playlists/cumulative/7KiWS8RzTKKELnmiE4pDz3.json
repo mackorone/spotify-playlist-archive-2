@@ -3825,6 +3825,24 @@
     },
     {
       "album": {
+        "name": "Synkronized",
+        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268800,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/4vevrGPaGIdakuoWhzSnwl"
+    },
+    {
+      "album": {
         "name": "Let God Sort Em Out",
         "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
       },
@@ -26270,6 +26288,28 @@
       "duration_ms": 146953,
       "name": "World Champ",
       "url": "https://open.spotify.com/track/4VIznE5GISZrFlTxFNE7Pc"
+    },
+    {
+      "album": {
+        "name": "Coach Carter Soundtrack",
+        "url": "https://open.spotify.com/album/6liJnEzquXIyGwrQ1MnmF4"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230293,
+      "name": "Wouldn't You Like to Ride",
+      "url": "https://open.spotify.com/track/0a6q5XK264I3qDt5gmFNSf"
     },
     {
       "album": {

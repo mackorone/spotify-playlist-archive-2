@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 45582,
+  "num_followers": 45589,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaIwAAAAAAAx5CJ2f2wS+XxG9yjdt9NO",
+  "snapshot_id": "aaOBgAAAAABnz1NQfn/ATxWZzUK6bVyp",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FlowDa Calle",
-        "url": "https://open.spotify.com/album/2fLeKGXpzBZaSWKY2dDNnp"
-      },
-      "artists": [
-        {
-          "name": "Brain Hunters",
-          "url": "https://open.spotify.com/artist/1TqRKzGMmqXmrp4qu8Dfl1"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 131382,
-      "name": "FlowDa Calle",
-      "url": "https://open.spotify.com/track/5OTHUIGshLgv6o76pcioBx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alzypher Vol. 1",
         "url": "https://open.spotify.com/album/4DUkuTeI0yoBSvFaj1YKDH"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 288000,
       "name": "Alzypher Vol. 1",
       "url": "https://open.spotify.com/track/4tepeG09xywMIaQ9zKezfH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FlowDa Calle",
+        "url": "https://open.spotify.com/album/2fLeKGXpzBZaSWKY2dDNnp"
+      },
+      "artists": [
+        {
+          "name": "Brain Hunters",
+          "url": "https://open.spotify.com/artist/1TqRKzGMmqXmrp4qu8Dfl1"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 131382,
+      "name": "FlowDa Calle",
+      "url": "https://open.spotify.com/track/5OTHUIGshLgv6o76pcioBx"
     },
     {
       "added_at": null,
@@ -735,6 +735,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Retumbando en la Ciudad",
+        "url": "https://open.spotify.com/album/3HycyMwJORsbF4tAwgYP36"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 214736,
+      "name": "Retumbando en la Ciudad",
+      "url": "https://open.spotify.com/track/6uIrdmew2YEk5jB3d5IjMb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alzypher Vol. 9",
         "url": "https://open.spotify.com/album/3JKZcVkafBrbIZySypEw7H"
       },
@@ -767,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Retumbando en la Ciudad",
-        "url": "https://open.spotify.com/album/3HycyMwJORsbF4tAwgYP36"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 214736,
-      "name": "Retumbando en la Ciudad",
-      "url": "https://open.spotify.com/track/6uIrdmew2YEk5jB3d5IjMb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ketamina",
         "url": "https://open.spotify.com/album/17YMQetTh8jx0V5oX7vkFP"
       },
@@ -799,26 +799,6 @@
       "duration_ms": 171063,
       "name": "Ketamina",
       "url": "https://open.spotify.com/track/1zcK9axMCoDFFHCDH18ief"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chip S (Metal Version)",
-        "url": "https://open.spotify.com/album/5NvCktcLMOIlYHK8lnK7De"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Ladrones",
-          "url": "https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Chip S (Metal Version)",
-      "url": "https://open.spotify.com/track/0Cqw1Dj3R5LdRWtq1obbye"
     },
     {
       "added_at": null,
@@ -839,6 +819,26 @@
       "duration_ms": 174285,
       "name": "LQRA Session #3",
       "url": "https://open.spotify.com/track/65jUseB3hi312R6Sdg2eon"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chip S (Metal Version)",
+        "url": "https://open.spotify.com/album/5NvCktcLMOIlYHK8lnK7De"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Ladrones",
+          "url": "https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Chip S (Metal Version)",
+      "url": "https://open.spotify.com/track/0Cqw1Dj3R5LdRWtq1obbye"
     },
     {
       "added_at": null,
@@ -1191,26 +1191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FLOW DE KBRONA",
-        "url": "https://open.spotify.com/album/2455udYuceypufLWw5LnWn"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Lady Yeska",
-          "url": "https://open.spotify.com/artist/5wbGMxTkF76IVFgDjchC0J"
-        }
-      ],
-      "duration_ms": 246213,
-      "name": "FLOW DE KBRONA",
-      "url": "https://open.spotify.com/track/50dxDw7ixs6OHRWWUycDSD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aqu\u00ed Estamos",
         "url": "https://open.spotify.com/album/3ZFGpnouTmOuER9kTaom0s"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 183771,
       "name": "Aqu\u00ed Estamos",
       "url": "https://open.spotify.com/track/7AQGYyve2qTrEiIUitZhqy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FLOW DE KBRONA",
+        "url": "https://open.spotify.com/album/2455udYuceypufLWw5LnWn"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Lady Yeska",
+          "url": "https://open.spotify.com/artist/5wbGMxTkF76IVFgDjchC0J"
+        }
+      ],
+      "duration_ms": 246213,
+      "name": "FLOW DE KBRONA",
+      "url": "https://open.spotify.com/track/50dxDw7ixs6OHRWWUycDSD"
     }
   ],
   "unique_name": "This Is Yoss Bones",

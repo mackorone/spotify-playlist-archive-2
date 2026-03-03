@@ -1,6 +1,6 @@
 {
   "description": "Heavy beats for midnight drifting in Tokyo.",
-  "num_followers": 25208,
+  "num_followers": 25220,
   "original_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",
   "owner": {
     "name": "Spotify",
@@ -475,26 +475,6 @@
     {
       "added_at": "2026-02-18 05:24:18",
       "album": {
-        "name": "Kick Up (feat. ralph)",
-        "url": "https://open.spotify.com/album/0VTOiRW8jyQiTFXZP8fcsT"
-      },
-      "artists": [
-        {
-          "name": "JUMADIBA",
-          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
-        },
-        {
-          "name": "Ralph",
-          "url": "https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0"
-        }
-      ],
-      "duration_ms": 187696,
-      "name": "Kick Up (feat. ralph)",
-      "url": "https://open.spotify.com/track/4aZpjruA4GGvDNH9XwXaXc"
-    },
-    {
-      "added_at": "2026-02-18 05:24:18",
-      "album": {
         "name": "Assassin (feat. S.J.soldier & Carz) [Remix]",
         "url": "https://open.spotify.com/album/1AVLaWJ2CC1dWDKfOfsx7B"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 204179,
       "name": "Assassin (feat. S.J.soldier & Carz) - Remix",
       "url": "https://open.spotify.com/track/2yfiMKCJryhN7QMpJbVZvf"
+    },
+    {
+      "added_at": "2026-02-18 05:24:18",
+      "album": {
+        "name": "Kick Up (feat. ralph)",
+        "url": "https://open.spotify.com/album/0VTOiRW8jyQiTFXZP8fcsT"
+      },
+      "artists": [
+        {
+          "name": "JUMADIBA",
+          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
+        },
+        {
+          "name": "Ralph",
+          "url": "https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0"
+        }
+      ],
+      "duration_ms": 187696,
+      "name": "Kick Up (feat. ralph)",
+      "url": "https://open.spotify.com/track/4aZpjruA4GGvDNH9XwXaXc"
     },
     {
       "added_at": "2026-02-18 05:24:18",
@@ -707,30 +707,6 @@
     {
       "added_at": "2026-02-18 05:24:18",
       "album": {
-        "name": "DEATH NOTE",
-        "url": "https://open.spotify.com/album/173yOrrgkqrUFwte1Pd7VW"
-      },
-      "artists": [
-        {
-          "name": "OVER KILL",
-          "url": "https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3"
-        },
-        {
-          "name": "Pxrge Trxxxper",
-          "url": "https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie"
-        },
-        {
-          "name": "NEMLAND",
-          "url": "https://open.spotify.com/artist/2Sim83TyMbBiQ9m9uh7V6j"
-        }
-      ],
-      "duration_ms": 174081,
-      "name": "DEATH NOTE",
-      "url": "https://open.spotify.com/track/2OCQMg5OLGIMEWHHZcHABc"
-    },
-    {
-      "added_at": "2026-02-18 05:24:18",
-      "album": {
         "name": "NEW REAL (feat. Young Zetton)",
         "url": "https://open.spotify.com/album/5yXjW5J8B1OhqbOVFWQHdt"
       },
@@ -767,6 +743,30 @@
       "duration_ms": 161057,
       "name": "27CLUB feat. LEX",
       "url": "https://open.spotify.com/track/4g2SQ8DLccn8dLtbUSCsE1"
+    },
+    {
+      "added_at": "2026-02-18 05:24:18",
+      "album": {
+        "name": "DEATH NOTE",
+        "url": "https://open.spotify.com/album/173yOrrgkqrUFwte1Pd7VW"
+      },
+      "artists": [
+        {
+          "name": "OVER KILL",
+          "url": "https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3"
+        },
+        {
+          "name": "Pxrge Trxxxper",
+          "url": "https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie"
+        },
+        {
+          "name": "NEMLAND",
+          "url": "https://open.spotify.com/artist/2Sim83TyMbBiQ9m9uh7V6j"
+        }
+      ],
+      "duration_ms": 174081,
+      "name": "DEATH NOTE",
+      "url": "https://open.spotify.com/track/2OCQMg5OLGIMEWHHZcHABc"
     },
     {
       "added_at": "2026-02-18 05:24:18",
@@ -831,26 +831,6 @@
     {
       "added_at": "2026-02-18 05:24:18",
       "album": {
-        "name": "Step Into The Arena",
-        "url": "https://open.spotify.com/album/4UMWfoCWxryks2BwW18Iec"
-      },
-      "artists": [
-        {
-          "name": "PUNPEE",
-          "url": "https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6"
-        },
-        {
-          "name": "JJJ",
-          "url": "https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR"
-        }
-      ],
-      "duration_ms": 226126,
-      "name": "Step Into The Arena",
-      "url": "https://open.spotify.com/track/21BKhmiFvF3BRkx8wlcdka"
-    },
-    {
-      "added_at": "2026-02-18 05:24:18",
-      "album": {
         "name": "iina feat. ANARCHY",
         "url": "https://open.spotify.com/album/2gmBOlwrlh72vYJVN2wU18"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 213920,
       "name": "iina feat. ANARCHY",
       "url": "https://open.spotify.com/track/1dKpLk4NuBezRALQuuhFmx"
+    },
+    {
+      "added_at": "2026-02-18 05:24:18",
+      "album": {
+        "name": "Step Into The Arena",
+        "url": "https://open.spotify.com/album/4UMWfoCWxryks2BwW18Iec"
+      },
+      "artists": [
+        {
+          "name": "PUNPEE",
+          "url": "https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6"
+        },
+        {
+          "name": "JJJ",
+          "url": "https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR"
+        }
+      ],
+      "duration_ms": 226126,
+      "name": "Step Into The Arena",
+      "url": "https://open.spotify.com/track/21BKhmiFvF3BRkx8wlcdka"
     },
     {
       "added_at": "2026-02-18 05:24:18",

@@ -4,7 +4,7 @@
 
 > ⚡️ qui un sacco di musica giovane ⚡️ Cover: LDA e Aka 7even
 
-1,019 songs - 1 day 23 hr 27 min
+1,020 songs - 1 day 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [effetto vuoto](https://open.spotify.com/track/2vX89NuNGOB4jPgstw3TJb) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [effetto vuoto](https://open.spotify.com/album/1FJBy3FzaWRdaxjjYPomUz) | 3:05 | 2023-11-23 | 2023-12-16 |
 | [Eii](https://open.spotify.com/track/4WiXdkbsYfeGZKF7pnqken) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Eii](https://open.spotify.com/album/2DIUrFaBndxT7h1k8tfPAw) | 2:20 | 2025-12-11 | 2026-01-23 |
 | [EMIGRATO](https://open.spotify.com/track/35DHCS6Cpd7sJw6OcxSOEC) | [Welo](https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72) | [EMIGRATO](https://open.spotify.com/album/3juO1KPJpxTDFGxaTJy8tG) | 2:31 | 2025-12-04 | 2026-01-15 |
+| [EMIGRATO \(ITALIANO\)](https://open.spotify.com/track/2Ih6H7UyQv146EQ6wnHHMC) | [Welo](https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72) | [EMIGRATO \(ITALIANO\)](https://open.spotify.com/album/670qJ0w59Ta3m5BtHG3otk) | 2:31 | 2026-03-02 |  |
 | [empatia](https://open.spotify.com/track/0sWiecm525PD2vpkNOHeCf) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [empatia](https://open.spotify.com/album/38KYjXQOxft9XwFPxGULO6) | 2:40 | 2025-04-17 | 2025-05-09 |
 | [ESTATE 80](https://open.spotify.com/track/5QJ2FsEt4kvkEbGW37L1VO) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [44.SUMMER](https://open.spotify.com/album/2V4SfyMweLXd05gFOmud76) | 2:47 | 2024-06-13 | 2024-10-25 |
 | [Estate disperata](https://open.spotify.com/track/0AiKTREjmL2msn3KaFMmHr) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1) | [Estate disperata](https://open.spotify.com/album/2dwmDKJXMbcTzMx8CQTs5o) | 2:35 | 2024-05-09 | 2024-05-24 |

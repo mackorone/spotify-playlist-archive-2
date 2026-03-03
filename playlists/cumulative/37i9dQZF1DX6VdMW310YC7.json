@@ -24996,7 +24996,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 226614,
       "name": "Open Up",
       "url": "https://open.spotify.com/track/241jde22heuHHDCAg5c1XQ"
@@ -34252,6 +34252,32 @@
       "duration_ms": 233440,
       "name": "To The Ground",
       "url": "https://open.spotify.com/track/2InrK5IWeTPIVRZQPOEDIO"
+    },
+    {
+      "album": {
+        "name": "To The Heart / We Go Again",
+        "url": "https://open.spotify.com/album/1HPZApJZpFhqV4WFtnjRkR"
+      },
+      "artists": [
+        {
+          "name": "Because of Art",
+          "url": "https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq"
+        },
+        {
+          "name": "Steven Weston",
+          "url": "https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U"
+        },
+        {
+          "name": "Maria Metaxa",
+          "url": "https://open.spotify.com/artist/2dqqk5uhWz0vGITqrLSUMi"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234840,
+      "name": "To The Heart",
+      "url": "https://open.spotify.com/track/0RNeb4gmJf1I5InimrUl91"
     },
     {
       "album": {

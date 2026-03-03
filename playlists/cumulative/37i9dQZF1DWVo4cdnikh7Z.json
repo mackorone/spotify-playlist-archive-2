@@ -5236,7 +5236,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 200198,
       "name": "Avakaachi",
       "url": "https://open.spotify.com/track/27ZfxglIDhgqzQn2U2Q8Kg"
@@ -14521,6 +14521,36 @@
     },
     {
       "album": {
+        "name": "Halo Halo (From \"Kadhal Reset Repeat\")",
+        "url": "https://open.spotify.com/album/4QkV5fxU5KqEcFd5hCsryD"
+      },
+      "artists": [
+        {
+          "name": "Harris Jayaraj",
+          "url": "https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        },
+        {
+          "name": "Deepthi Suresh",
+          "url": "https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl"
+        },
+        {
+          "name": "Madan Karky",
+          "url": "https://open.spotify.com/artist/6EtLhQRslM09DO6EQLzodI"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280213,
+      "name": "Halo Halo (From \"Kadhal Reset Repeat\")",
+      "url": "https://open.spotify.com/track/60thGAlNrXCJi19usJ59Zg"
+    },
+    {
+      "album": {
         "name": "Vettaiyan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6Xw7XAQQwpsy9KfUnJTrHz"
       },
@@ -21614,7 +21644,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 250121,
       "name": "Kannamma",
       "url": "https://open.spotify.com/track/7EiHIhI0Y7hFX29981FQKp"
@@ -29290,6 +29320,32 @@
       "duration_ms": 275000,
       "name": "Motivational Song",
       "url": "https://open.spotify.com/track/7COT5HQgu2CznwikSEE5ob"
+    },
+    {
+      "album": {
+        "name": "Anthony (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2VEewPvlS3wy4hFcGXG9G0"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Giant Music India",
+          "url": "https://open.spotify.com/artist/4i50YpLVKgBRGFModpDZPb"
+        },
+        {
+          "name": "Punya Selva",
+          "url": "https://open.spotify.com/artist/6uvIzuYq1gO5Q4AkLwSIgw"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246750,
+      "name": "Mottu Vitta",
+      "url": "https://open.spotify.com/track/3qm665nbSAQKhiQVSVXbyD"
     },
     {
       "album": {
@@ -38340,7 +38396,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 253677,
       "name": "Poovena",
       "url": "https://open.spotify.com/track/2HvO00YYeqUT9yQnlU2P7x"
@@ -41674,7 +41730,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 263024,
       "name": "Sahana Sahana",
       "url": "https://open.spotify.com/track/0UrFtnA6q8xT7ZDu8AzO3K"
@@ -45097,6 +45153,28 @@
     },
     {
       "album": {
+        "name": "Tabaahi (From \"Toxic - Tamil\")",
+        "url": "https://open.spotify.com/album/7tsoZ5aAfiQRfJLzDAleLk"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Vignesh Shivan",
+          "url": "https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257604,
+      "name": "Tabaahi - From \"Toxic - Tamil\"",
+      "url": "https://open.spotify.com/track/4DAuEi8Y4k3uUm5WuvewO6"
+    },
+    {
+      "album": {
         "name": "Tappasu (From \"Hitler\")",
         "url": "https://open.spotify.com/album/5TunDtbKVbjZDaJ6P8LWXF"
       },
@@ -46034,7 +46112,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 197104,
       "name": "Thalapathy Kacheri (From \"Jana Nayagan\")",
       "url": "https://open.spotify.com/track/28keFvZn4UVRi4I8Rj4GjY"
@@ -52605,6 +52683,36 @@
     },
     {
       "album": {
+        "name": "Vaaraan Dei (From \"The Paradise\") (Tamil)",
+        "url": "https://open.spotify.com/album/4jIM2HXXxPUoJM7cUl1PjY"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Yogi Sekar",
+          "url": "https://open.spotify.com/artist/4n32jWbOVtfNDsOJAGQJcs"
+        },
+        {
+          "name": "Arjun Chandy",
+          "url": "https://open.spotify.com/artist/4UCG3GFuPR4k19M40Mzxip"
+        },
+        {
+          "name": "Vishnu Edavan",
+          "url": "https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286900,
+      "name": "Vaaraan Dei (From \"The Paradise\") (Tamil)",
+      "url": "https://open.spotify.com/track/4xWLjhJW3HuEHGuSqF7EL8"
+    },
+    {
+      "album": {
         "name": "Rathnam (Tamil)",
         "url": "https://open.spotify.com/album/1NM9sfPmP1KmaVXo3l9NEk"
       },
@@ -56056,6 +56164,36 @@
       "duration_ms": 222889,
       "name": "Yean Azhaghe",
       "url": "https://open.spotify.com/track/7qG4IubqAIrHUen65fQr4z"
+    },
+    {
+      "album": {
+        "name": "Yedhayya Saami (Special Surprise) [From \"Ranabaali\"]",
+        "url": "https://open.spotify.com/album/0pjVGkjFie7LsAdbLfFJUr"
+      },
+      "artists": [
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Viveka",
+          "url": "https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79207,
+      "name": "Yedhayya Saami (Special Surprise) [From \"Ranabaali\"]",
+      "url": "https://open.spotify.com/track/3wEMaceLUQwNxFsamPKXAA"
     },
     {
       "album": {

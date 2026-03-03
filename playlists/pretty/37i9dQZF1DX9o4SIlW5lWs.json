@@ -1,6 +1,6 @@
 {
   "description": "Al coraz\u00f3n! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.",
-  "num_followers": 272879,
+  "num_followers": 272943,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2026-02-27 14:21:27",
       "album": {
+        "name": "Una Cerveza",
+        "url": "https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 240853,
+      "name": "Una Cerveza",
+      "url": "https://open.spotify.com/track/3LNZSTiwQYL7BnTfHvIOII"
+    },
+    {
+      "added_at": "2026-02-27 14:21:27",
+      "album": {
         "name": "FINGI DEMENCIA",
         "url": "https://open.spotify.com/album/3gbWzrqyQqjMc4g8TdRVWk"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 126705,
       "name": "FINGI DEMENCIA",
       "url": "https://open.spotify.com/track/6JAaPxRPeElmUGPqyIkhCS"
-    },
-    {
-      "added_at": "2026-02-27 14:21:27",
-      "album": {
-        "name": "Una Cerveza",
-        "url": "https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C"
-      },
-      "artists": [
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        }
-      ],
-      "duration_ms": 240853,
-      "name": "Una Cerveza",
-      "url": "https://open.spotify.com/track/3LNZSTiwQYL7BnTfHvIOII"
     },
     {
       "added_at": "2026-02-27 14:21:27",
@@ -619,18 +619,18 @@
     {
       "added_at": "2026-02-27 14:21:27",
       "album": {
-        "name": "Adi\u00f3s Amor / Oye Mujer",
-        "url": "https://open.spotify.com/album/0BfSiRWo0RiAGhKowhcrxn"
+        "name": "Le Doy Gracias a la Vida (Y a Todos)",
+        "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
       },
       "artists": [
         {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 407573,
-      "name": "Adi\u00f3s Amor / Oye Mujer",
-      "url": "https://open.spotify.com/track/0hvsOvo1zARlNnmHNhrxIF"
+      "duration_ms": 191712,
+      "name": "Amor Clandestino",
+      "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
     },
     {
       "added_at": "2026-02-27 14:21:27",
@@ -647,22 +647,6 @@
       "duration_ms": 206333,
       "name": "Ser\u00e1 Porque Te Amo",
       "url": "https://open.spotify.com/track/15IWb2lHx4e7vjCV1Ye1e3"
-    },
-    {
-      "added_at": "2026-02-27 14:21:27",
-      "album": {
-        "name": "Le Doy Gracias a la Vida (Y a Todos)",
-        "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 191712,
-      "name": "Amor Clandestino",
-      "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
     },
     {
       "added_at": "2026-02-27 14:21:27",
@@ -691,26 +675,6 @@
     {
       "added_at": "2026-02-27 14:21:27",
       "album": {
-        "name": "Me Encanta",
-        "url": "https://open.spotify.com/album/08orK7pUWMWTpdOK1b3AOi"
-      },
-      "artists": [
-        {
-          "name": "Mat\u00edas Valdez",
-          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
-        },
-        {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
-        }
-      ],
-      "duration_ms": 211896,
-      "name": "Me Encanta",
-      "url": "https://open.spotify.com/track/7asgcWpGtv92TiMZUYNWVt"
-    },
-    {
-      "added_at": "2026-02-27 14:21:27",
-      "album": {
         "name": "BORRACHO Y LOCO",
         "url": "https://open.spotify.com/album/1wHiSIZldLNeICiNOABSLT"
       },
@@ -731,6 +695,58 @@
       "duration_ms": 232781,
       "name": "BORRACHO Y LOCO",
       "url": "https://open.spotify.com/track/2UIFEzinNxkSv9fY93SYhx"
+    },
+    {
+      "added_at": "2026-02-27 14:21:27",
+      "album": {
+        "name": "Me Encanta",
+        "url": "https://open.spotify.com/album/08orK7pUWMWTpdOK1b3AOi"
+      },
+      "artists": [
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        },
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+        }
+      ],
+      "duration_ms": 211896,
+      "name": "Me Encanta",
+      "url": "https://open.spotify.com/track/7asgcWpGtv92TiMZUYNWVt"
+    },
+    {
+      "added_at": "2026-02-27 14:21:27",
+      "album": {
+        "name": "Adi\u00f3s Amor / Oye Mujer",
+        "url": "https://open.spotify.com/album/0BfSiRWo0RiAGhKowhcrxn"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 407573,
+      "name": "Adi\u00f3s Amor / Oye Mujer",
+      "url": "https://open.spotify.com/track/0hvsOvo1zARlNnmHNhrxIF"
+    },
+    {
+      "added_at": "2026-02-27 14:21:27",
+      "album": {
+        "name": "Imparables",
+        "url": "https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag"
+      },
+      "artists": [
+        {
+          "name": "Los Cadiz",
+          "url": "https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig"
+        }
+      ],
+      "duration_ms": 200071,
+      "name": "Te Voy a Amar",
+      "url": "https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70"
     },
     {
       "added_at": "2026-02-27 14:21:27",
@@ -771,42 +787,6 @@
     {
       "added_at": "2026-02-27 14:21:27",
       "album": {
-        "name": "Imparables",
-        "url": "https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag"
-      },
-      "artists": [
-        {
-          "name": "Los Cadiz",
-          "url": "https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig"
-        }
-      ],
-      "duration_ms": 200071,
-      "name": "Te Voy a Amar",
-      "url": "https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70"
-    },
-    {
-      "added_at": "2026-02-27 14:21:27",
-      "album": {
-        "name": "Decepci\u00f3n",
-        "url": "https://open.spotify.com/album/7IvG7x15PsegRQ5DOUOVm3"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        },
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        }
-      ],
-      "duration_ms": 146878,
-      "name": "Decepci\u00f3n",
-      "url": "https://open.spotify.com/track/1Hmyi5GKWxEaatdqlBd2ms"
-    },
-    {
-      "added_at": "2026-02-27 14:21:27",
-      "album": {
         "name": "Promet\u00ed",
         "url": "https://open.spotify.com/album/5ZWScEMjgn79zqyof8qvW1"
       },
@@ -835,6 +815,26 @@
     {
       "added_at": "2026-02-27 14:21:27",
       "album": {
+        "name": "Decepci\u00f3n",
+        "url": "https://open.spotify.com/album/7IvG7x15PsegRQ5DOUOVm3"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "duration_ms": 146878,
+      "name": "Decepci\u00f3n",
+      "url": "https://open.spotify.com/track/1Hmyi5GKWxEaatdqlBd2ms"
+    },
+    {
+      "added_at": "2026-02-27 14:21:27",
+      "album": {
         "name": "Ahora Resulta",
         "url": "https://open.spotify.com/album/1aQur6ki98vcoOW0cGopFy"
       },
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-02-27 14:21:27",
       "album": {
-        "name": "Montevideo 418",
-        "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
-      },
-      "artists": [
-        {
-          "name": "El Gordo Luis",
-          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
-        }
-      ],
-      "duration_ms": 211026,
-      "name": "Cinco Minutos",
-      "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
-    },
-    {
-      "added_at": "2026-02-27 14:21:27",
-      "album": {
         "name": "El Polaco - Agradeciendo a Dios",
         "url": "https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 203026,
       "name": "Porque te fuiste",
       "url": "https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6"
+    },
+    {
+      "added_at": "2026-02-27 14:21:27",
+      "album": {
+        "name": "Montevideo 418",
+        "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
+      },
+      "artists": [
+        {
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
+        }
+      ],
+      "duration_ms": 211026,
+      "name": "Cinco Minutos",
+      "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
     },
     {
       "added_at": "2026-02-27 14:21:27",
@@ -947,6 +947,22 @@
     {
       "added_at": "2026-02-27 14:21:27",
       "album": {
+        "name": "Boquita de Caramelo",
+        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sombras",
+          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
+        }
+      ],
+      "duration_ms": 229093,
+      "name": "Pega la Vuelta",
+      "url": "https://open.spotify.com/track/51seuwibGTQsUod6oScKtR"
+    },
+    {
+      "added_at": "2026-02-27 14:21:27",
+      "album": {
         "name": "VAS A VOLVER",
         "url": "https://open.spotify.com/album/0UkOCzJaNwtVwF0T1Txfh9"
       },
@@ -971,18 +987,18 @@
     {
       "added_at": "2026-02-27 14:21:27",
       "album": {
-        "name": "Boquita de Caramelo",
-        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
+        "name": "Otra Como Tu",
+        "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
       },
       "artists": [
         {
-          "name": "Grupo Sombras",
-          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 229093,
-      "name": "Pega la Vuelta",
-      "url": "https://open.spotify.com/track/51seuwibGTQsUod6oScKtR"
+      "duration_ms": 220618,
+      "name": "Otra Como Tu",
+      "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
     },
     {
       "added_at": "2026-02-27 14:21:27",
@@ -1011,22 +1027,6 @@
       "duration_ms": 191026,
       "name": "No Me Lastimes",
       "url": "https://open.spotify.com/track/23VI7jLGvqDp650fXdoYeY"
-    },
-    {
-      "added_at": "2026-02-27 14:21:27",
-      "album": {
-        "name": "Otra Como Tu",
-        "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 220618,
-      "name": "Otra Como Tu",
-      "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
     },
     {
       "added_at": "2026-02-27 14:21:27",
@@ -1067,6 +1067,38 @@
     {
       "added_at": "2026-02-27 14:21:27",
       "album": {
+        "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
+        "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
+      },
+      "artists": [
+        {
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+        }
+      ],
+      "duration_ms": 224946,
+      "name": "Te extra\u00f1o",
+      "url": "https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ"
+    },
+    {
+      "added_at": "2026-02-27 14:21:27",
+      "album": {
+        "name": "Maravillosa Esta Noche",
+        "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Maravillosa Esta Noche",
+      "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
+    },
+    {
+      "added_at": "2026-02-27 14:21:27",
+      "album": {
         "name": "No Me Digas Adios",
         "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
       },
@@ -1095,38 +1127,6 @@
       "duration_ms": 225293,
       "name": "Cosas Del Amor",
       "url": "https://open.spotify.com/track/7clY79CSVmH7ufvQMIAYlo"
-    },
-    {
-      "added_at": "2026-02-27 14:21:27",
-      "album": {
-        "name": "Maravillosa Esta Noche",
-        "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Maravillosa Esta Noche",
-      "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
-    },
-    {
-      "added_at": "2026-02-27 14:21:27",
-      "album": {
-        "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
-        "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
-      },
-      "artists": [
-        {
-          "name": "Los Charros",
-          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
-        }
-      ],
-      "duration_ms": 224946,
-      "name": "Te extra\u00f1o",
-      "url": "https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ"
     },
     {
       "added_at": "2026-02-27 14:21:27",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-02-27 14:21:27",
       "album": {
-        "name": "Que Lloro / Mientes",
-        "url": "https://open.spotify.com/album/6nKoosTpBypYiiCkGkJEtj"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 228494,
-      "name": "Que Lloro / Mientes",
-      "url": "https://open.spotify.com/track/1FqNwW8ifGAJgl8Dv2CCWh"
-    },
-    {
-      "added_at": "2026-02-27 14:21:27",
-      "album": {
         "name": "No Me Digas Adios",
         "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
       },
@@ -1247,26 +1231,6 @@
       "duration_ms": 152666,
       "name": "Como Te Lo Digo",
       "url": "https://open.spotify.com/track/37Bcsn18Ex3WrceRBgCqcF"
-    },
-    {
-      "added_at": "2026-02-27 14:21:27",
-      "album": {
-        "name": "T\u00fa, la m\u00e1s bella (En Vivo)",
-        "url": "https://open.spotify.com/album/3PKKvCRMgsXJi8v4HxuroL"
-      },
-      "artists": [
-        {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
-        },
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        }
-      ],
-      "duration_ms": 149420,
-      "name": "T\u00fa, la m\u00e1s bella - En Vivo",
-      "url": "https://open.spotify.com/track/4iNUGRz8usCC8ZeczwIcQN"
     },
     {
       "added_at": "2026-02-27 14:21:27",
@@ -1303,18 +1267,22 @@
     {
       "added_at": "2026-02-27 14:21:27",
       "album": {
-        "name": "Lo Que Me Duele / Y Que Pas\u00f3",
-        "url": "https://open.spotify.com/album/3CtG7vSvFhZqFPryWeuZ0N"
+        "name": "T\u00fa, la m\u00e1s bella (En Vivo)",
+        "url": "https://open.spotify.com/album/3PKKvCRMgsXJi8v4HxuroL"
       },
       "artists": [
         {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
         }
       ],
-      "duration_ms": 284214,
-      "name": "Lo Que Me Duele / Y Que Pas\u00f3",
-      "url": "https://open.spotify.com/track/7vL8ZEvLOXXW9SiL9ulZRZ"
+      "duration_ms": 149420,
+      "name": "T\u00fa, la m\u00e1s bella - En Vivo",
+      "url": "https://open.spotify.com/track/4iNUGRz8usCC8ZeczwIcQN"
     },
     {
       "added_at": "2026-02-27 14:21:27",
@@ -1363,6 +1331,22 @@
       "duration_ms": 221204,
       "name": "A Chillar a Otra Parte",
       "url": "https://open.spotify.com/track/70WFn8PLvtppSHM3DUEj02"
+    },
+    {
+      "added_at": "2026-02-27 14:21:27",
+      "album": {
+        "name": "Que Lloro / Mientes",
+        "url": "https://open.spotify.com/album/6nKoosTpBypYiiCkGkJEtj"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 228494,
+      "name": "Que Lloro / Mientes",
+      "url": "https://open.spotify.com/track/1FqNwW8ifGAJgl8Dv2CCWh"
     },
     {
       "added_at": "2026-02-27 14:21:27",
@@ -1423,22 +1407,6 @@
     {
       "added_at": "2026-02-27 14:21:27",
       "album": {
-        "name": "Mi Primer Amor",
-        "url": "https://open.spotify.com/album/5HKegx8eIQiHoHrsqBbYxj"
-      },
-      "artists": [
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        }
-      ],
-      "duration_ms": 188286,
-      "name": "Mi Primer Amor",
-      "url": "https://open.spotify.com/track/1rBk8sHUL4ivoL9WqM89CY"
-    },
-    {
-      "added_at": "2026-02-27 14:21:27",
-      "album": {
         "name": "Se Enamor\u00f3 de Mi la Soledad",
         "url": "https://open.spotify.com/album/6cSeVk2rJQB3LnbHVUwPnI"
       },
@@ -1451,6 +1419,38 @@
       "duration_ms": 245864,
       "name": "Se Enamor\u00f3 de Mi la Soledad",
       "url": "https://open.spotify.com/track/1MExvjfH2rZQGsORsR3Pcy"
+    },
+    {
+      "added_at": "2026-02-27 14:21:27",
+      "album": {
+        "name": "Lo Que Me Duele / Y Que Pas\u00f3",
+        "url": "https://open.spotify.com/album/3CtG7vSvFhZqFPryWeuZ0N"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 284214,
+      "name": "Lo Que Me Duele / Y Que Pas\u00f3",
+      "url": "https://open.spotify.com/track/7vL8ZEvLOXXW9SiL9ulZRZ"
+    },
+    {
+      "added_at": "2026-02-27 14:21:27",
+      "album": {
+        "name": "Mi Primer Amor",
+        "url": "https://open.spotify.com/album/5HKegx8eIQiHoHrsqBbYxj"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "duration_ms": 188286,
+      "name": "Mi Primer Amor",
+      "url": "https://open.spotify.com/track/1rBk8sHUL4ivoL9WqM89CY"
     },
     {
       "added_at": "2026-02-27 14:21:27",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-02-27 14:21:27",
       "album": {
-        "name": "Tuyo Siempre",
-        "url": "https://open.spotify.com/album/54NBD6pWru3bLU3U0dbCb0"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 192278,
-      "name": "Tuyo Siempre",
-      "url": "https://open.spotify.com/track/1LewKEF0frV9UK0zFPCaAc"
-    },
-    {
-      "added_at": "2026-02-27 14:21:27",
-      "album": {
         "name": "Te Hubieras Ido Antes",
         "url": "https://open.spotify.com/album/7AgB035l0VvxVvBAblr4gq"
       },
@@ -1651,26 +1635,6 @@
     {
       "added_at": "2026-02-27 14:21:27",
       "album": {
-        "name": "Pero No Puedo Vol.2",
-        "url": "https://open.spotify.com/album/3ne9oJyuZbSjtlACDhzc7L"
-      },
-      "artists": [
-        {
-          "name": "Daniel Cardozo",
-          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
-        },
-        {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
-        }
-      ],
-      "duration_ms": 186352,
-      "name": "Pero No Puedo Vol.2",
-      "url": "https://open.spotify.com/track/3fVHtUpYml04WJeF5ybxXc"
-    },
-    {
-      "added_at": "2026-02-27 14:21:27",
-      "album": {
         "name": "Hay Mas de Mi",
         "url": "https://open.spotify.com/album/04cIzWwavLKDt7TCirmeuV"
       },
@@ -1687,6 +1651,22 @@
     {
       "added_at": "2026-02-27 14:21:27",
       "album": {
+        "name": "Tuyo Siempre",
+        "url": "https://open.spotify.com/album/54NBD6pWru3bLU3U0dbCb0"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 192278,
+      "name": "Tuyo Siempre",
+      "url": "https://open.spotify.com/track/1LewKEF0frV9UK0zFPCaAc"
+    },
+    {
+      "added_at": "2026-02-27 14:21:27",
+      "album": {
         "name": "180 Grados",
         "url": "https://open.spotify.com/album/7o4MMZwV9JSG0kkXrdKMvn"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 225241,
       "name": "Ahora - Remasterizado 2017",
       "url": "https://open.spotify.com/track/6oyIWiKfcH3gjvLs9cV44t"
+    },
+    {
+      "added_at": "2026-02-27 14:21:27",
+      "album": {
+        "name": "Pero No Puedo Vol.2",
+        "url": "https://open.spotify.com/album/3ne9oJyuZbSjtlACDhzc7L"
+      },
+      "artists": [
+        {
+          "name": "Daniel Cardozo",
+          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
+        },
+        {
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+        }
+      ],
+      "duration_ms": 186352,
+      "name": "Pero No Puedo Vol.2",
+      "url": "https://open.spotify.com/track/3fVHtUpYml04WJeF5ybxXc"
     },
     {
       "added_at": "2026-02-27 14:21:27",
@@ -1735,22 +1735,6 @@
       "duration_ms": 171502,
       "name": "Angelito",
       "url": "https://open.spotify.com/track/71ObvTyyeJyN10r4JVc3ur"
-    },
-    {
-      "added_at": "2026-02-27 14:21:27",
-      "album": {
-        "name": "Culpable o No",
-        "url": "https://open.spotify.com/album/7zd7EMzDmnT1vwxCzIjAKj"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 185875,
-      "name": "Culpable o No",
-      "url": "https://open.spotify.com/track/0Rhk4sjBOHXpkQuxMOFwic"
     },
     {
       "added_at": "2026-02-27 14:21:27",
@@ -1807,6 +1791,22 @@
     {
       "added_at": "2026-02-27 14:21:27",
       "album": {
+        "name": "Culpable o No",
+        "url": "https://open.spotify.com/album/7zd7EMzDmnT1vwxCzIjAKj"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 185875,
+      "name": "Culpable o No",
+      "url": "https://open.spotify.com/track/0Rhk4sjBOHXpkQuxMOFwic"
+    },
+    {
+      "added_at": "2026-02-27 14:21:27",
+      "album": {
         "name": "Sin Valent\u00edn",
         "url": "https://open.spotify.com/album/1ZPwG0m0QpSpsPKcmqAJdj"
       },
@@ -1847,18 +1847,22 @@
     {
       "added_at": "2026-02-27 14:21:27",
       "album": {
-        "name": "Engualichao",
-        "url": "https://open.spotify.com/album/7vUvgl9ndAKPA5yRVAzq4z"
+        "name": "Eterno Amor",
+        "url": "https://open.spotify.com/album/1OBPp3h2p2ZTgoeMWH4rSx"
       },
       "artists": [
         {
-          "name": "G Sony",
-          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        },
+        {
+          "name": "El Chino",
+          "url": "https://open.spotify.com/artist/2v2KCvSVCWyNTAILymcOAW"
         }
       ],
-      "duration_ms": 174146,
-      "name": "Engualichao",
-      "url": "https://open.spotify.com/track/4KlnU6MCw1Ex6Ve6i6wM64"
+      "duration_ms": 256021,
+      "name": "Eterno Amor",
+      "url": "https://open.spotify.com/track/3V8XAc2EHbt2M763XhDqQz"
     },
     {
       "added_at": "2026-02-27 14:21:27",
@@ -1883,22 +1887,18 @@
     {
       "added_at": "2026-02-27 14:21:27",
       "album": {
-        "name": "Eterno Amor",
-        "url": "https://open.spotify.com/album/1OBPp3h2p2ZTgoeMWH4rSx"
+        "name": "Buscando Otro Amor",
+        "url": "https://open.spotify.com/album/2ijKJw1PlaNq0wIXL7fNiK"
       },
       "artists": [
         {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
-        },
-        {
-          "name": "El Chino",
-          "url": "https://open.spotify.com/artist/2v2KCvSVCWyNTAILymcOAW"
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
         }
       ],
-      "duration_ms": 256021,
-      "name": "Eterno Amor",
-      "url": "https://open.spotify.com/track/3V8XAc2EHbt2M763XhDqQz"
+      "duration_ms": 147725,
+      "name": "Buscando Otro Amor",
+      "url": "https://open.spotify.com/track/5GktPnJ8W17lKXWnVwgD48"
     }
   ],
   "unique_name": "Cumbia y Romance",

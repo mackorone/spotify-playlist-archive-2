@@ -2363,6 +2363,24 @@
     },
     {
       "album": {
+        "name": "Murder Parade",
+        "url": "https://open.spotify.com/album/7cm9XsZG13NeEUGDP0OOOw"
+      },
+      "artists": [
+        {
+          "name": "FYNN",
+          "url": "https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139493,
+      "name": "Murder Parade",
+      "url": "https://open.spotify.com/track/0SDqFtJAV9lWKZqPXHyft0"
+    },
+    {
+      "album": {
         "name": "DDeep in Time",
         "url": "https://open.spotify.com/album/3ISyHB9bfXhvk5f8pwAxgo"
       },

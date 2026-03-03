@@ -4,7 +4,7 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-93 songs - 5 hr 34 min
+96 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Endless Time](https://open.spotify.com/track/7iboyR2F62rpNt6hX4Z8Dq) | [Reminiscence](https://open.spotify.com/artist/2Mcl7mXh5xTr0cD3vmI0l0) | [Endless and Free](https://open.spotify.com/album/1pXbNpKvgqUtX924js0vhx) | 2:43 | 2025-11-13 | 2025-12-03 |
 | [Enjoy the Silence \- 2006 Remaster](https://open.spotify.com/track/1EjQRTG53jsinzk2xlVVJP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 6:12 | 2021-03-29 |  |
 | [F.E.A.R.](https://open.spotify.com/track/5YeYIVwxXC2NHyBHSz8zOy) | [Ian Brown](https://open.spotify.com/artist/3s398TKZNahAURRacx7oIT) | [Music Of The Spheres](https://open.spotify.com/album/2EB1HKXeOOB4CqMGoSon1L) | 4:28 | 2021-03-29 |  |
+| [Faded photographs](https://open.spotify.com/track/1vMsBtdVxFHYHYStZJVQHt) | [Body Talk](https://open.spotify.com/artist/0T4kP9IyFYuI7fRBqQ58EJ) | [Faded photographs](https://open.spotify.com/album/2T3cj8XZ12Mpoxz8ZObbur) | 3:35 | 2026-03-02 |  |
 | [Fears](https://open.spotify.com/track/566anSusXyhMzCP0sjTHmd) | [Audio Entity](https://open.spotify.com/artist/2mKtj5JzkdmYJJnQKhnysU), [Woes & Wonder](https://open.spotify.com/artist/1ROh7khHluUL5ppnlyrMxA) | [Fears](https://open.spotify.com/album/1lCUfQ4Oadzz2xYdRsLaJE) | 4:27 | 2025-12-23 | 2026-01-29 |
 | [Friends](https://open.spotify.com/track/1ngp4VERvcgXeBrzd0oGyh) | [Rení](https://open.spotify.com/artist/1vignVBMw8ZuYkG7QOIbOd) | [Friends](https://open.spotify.com/album/71DCqpJrZdisp5gYcJeo5H) | 2:32 | 2025-11-07 | 2025-11-22 |
 | [Gravity](https://open.spotify.com/track/4QIFS5XokMBJjfAdZjABPV) | [Embrace](https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7) | [Out Of Nothing](https://open.spotify.com/album/5oJiqbHX8PnUc1uEEAcII7) | 4:40 | 2021-03-29 |  |
@@ -57,6 +58,7 @@
 | [Lose Your Head](https://open.spotify.com/track/1CA6nEpwJvpraGPVXV6kg0) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Lose Your Head](https://open.spotify.com/album/5qBuJBtBBRRwclTgE2x0Q3) | 3:19 | 2021-07-26 |  |
 | [Loser](https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8) | 3:55 | 2021-03-29 |  |
 | [Lunar Soul](https://open.spotify.com/track/2JNS1Wvp2Te7qxdoGsibKl) | [Gobaith](https://open.spotify.com/artist/1EVXqPW8qgjyv1649P1t80) | [Lunar Soul](https://open.spotify.com/album/5RxwaPBm2DHD5b02JfaYcq) | 2:39 | 2025-10-13 |  |
+| [Límite](https://open.spotify.com/track/7jVQXWrwoQq9lOQpGXlJRv) | [Javzye](https://open.spotify.com/artist/1AM71cIOWu0sM8D6yju4xX) | [Límite](https://open.spotify.com/album/3nxdgNuSPdm0oibOiS1J4d) | 2:48 | 2026-03-02 |  |
 | [MEDUSA](https://open.spotify.com/track/7jUrziB9wx75HUm7FBstrQ) | [Megan Summersby](https://open.spotify.com/artist/5vxVb5DTT9V7V8QWkjFBJF) | [MEDUSA](https://open.spotify.com/album/5MWi0gKJigS1MbLRsAegES) | 3:33 | 2025-11-26 | 2025-12-13 |
 | [Memoria](https://open.spotify.com/track/7lHiBXwoCvOY1ZJUBWicse) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Nomads](https://open.spotify.com/album/3poDscUob4x5S9Gu9RlTlm) | 3:00 | 2025-10-13 |  |
 | [Motorcycle Emptiness](https://open.spotify.com/track/5ibELGcXGqX5x9TWFeNPxY) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [Forever Delayed](https://open.spotify.com/album/17n0hrkbvXosApi3q1ANiv) | 5:05 | 2021-03-29 |  |
@@ -86,6 +88,7 @@
 | [The Sun Always Shines on T.V.](https://open.spotify.com/track/0HoaLXRp7jJtdQFunUyUGc) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 5:02 | 2021-07-26 |  |
 | [Therapy](https://open.spotify.com/track/1U1FTBN5znCUUDB3JqKOSK) | [Phoeno](https://open.spotify.com/artist/5KnD9mAsf1y1TYEqpeew7B) | [Therapy](https://open.spotify.com/album/7sNvJT5XBn7EPUqfeyDmtA) | 3:29 | 2025-12-09 | 2025-12-28 |
 | [Therefore I Am](https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Therefore I Am](https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM) | 2:54 | 2021-03-29 |  |
+| [TimeCrime](https://open.spotify.com/track/1WElW0gy1V24q1fBgpkY2t) | [ANGELO](https://open.spotify.com/artist/6TDcDHUYcKAmqdabRHToIG) | [TimeCrime](https://open.spotify.com/album/5yY39wwz23Q12w97VdlwKY) | 3:34 | 2026-03-02 |  |
 | [Toadstool Fairies](https://open.spotify.com/track/2Vjpi5uwnbtdTNDzbfW3sI) | [Maya Malik](https://open.spotify.com/artist/0Rz4fK9N5rV5Sjsu5RLwtF) | [Toadstool Fairies](https://open.spotify.com/album/3qdgFm8fC6VQxuWYylDUTT) | 3:06 | 2025-11-08 | 2025-11-27 |
 | [Train Tracks](https://open.spotify.com/track/2F772qCRXyHYKvAKTIXXud) | [Cyfnos](https://open.spotify.com/artist/14ywOW1zA8u5jYhABPTkDr) | [Enchanted](https://open.spotify.com/album/3ClfQCfOsysGWFKSQGN2bt) | 2:24 | 2025-10-13 |  |
 | [True Love In A Box](https://open.spotify.com/track/2YF9ebvz0WC8WKc1JhLJMZ) | [Poppet](https://open.spotify.com/artist/5NxeyUJjImfscVwBPw1LF1) | [True Love In A Box](https://open.spotify.com/album/3DfrbTALDG6bBRHlA0rILy) | 2:07 | 2026-02-13 |  |

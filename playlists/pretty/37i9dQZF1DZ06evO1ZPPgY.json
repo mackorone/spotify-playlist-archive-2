@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 233367,
+  "num_followers": 233372,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaIwAAAAAADdUQp3MHowEPVUhzu8e8j6",
+  "snapshot_id": "aaOBgAAAAAC7Ume99b7wI/OwyNMvlGXX",
   "tracks": [
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Staying Power",
-        "url": "https://open.spotify.com/album/4N5IZ7S83zs2UQGxtzkDdS"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 370266,
-      "name": "Staying Power",
-      "url": "https://open.spotify.com/track/1rjXVxlsnbXDGhWX8ZW3ER"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Icon Is Love",
         "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 639600,
       "name": "Whatever We Had, We Had",
       "url": "https://open.spotify.com/track/6Lu3H89JgTh2QzGRnZqYku"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Staying Power",
+        "url": "https://open.spotify.com/album/4N5IZ7S83zs2UQGxtzkDdS"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 370266,
+      "name": "Staying Power",
+      "url": "https://open.spotify.com/track/1rjXVxlsnbXDGhWX8ZW3ER"
     },
     {
       "added_at": null,

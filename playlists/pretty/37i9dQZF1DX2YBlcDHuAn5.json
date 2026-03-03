@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33879,
+  "num_followers": 33877,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2026-02-26 23:00:47",
       "album": {
-        "name": "Blindfaller",
-        "url": "https://open.spotify.com/album/3CwgFOEB6g9vfADfAcYaIL"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 329893,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/0EIS2zaB3aQGtKOvzrodOU"
-    },
-    {
-      "added_at": "2026-02-26 23:00:47",
-      "album": {
         "name": "Thorns",
         "url": "https://open.spotify.com/album/6AMa9mH7ee5Q02TXf2LCGg"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 190000,
       "name": "Thorns",
       "url": "https://open.spotify.com/track/00mF2mWX2yYQehNfDDrY11"
+    },
+    {
+      "added_at": "2026-02-26 23:00:47",
+      "album": {
+        "name": "Blindfaller",
+        "url": "https://open.spotify.com/album/3CwgFOEB6g9vfADfAcYaIL"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 329893,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/0EIS2zaB3aQGtKOvzrodOU"
     },
     {
       "added_at": "2026-02-26 23:00:47",
@@ -343,18 +343,18 @@
     {
       "added_at": "2026-02-26 23:00:47",
       "album": {
-        "name": "Field Song.",
-        "url": "https://open.spotify.com/album/06Ql3BibRMTMGaurflbLdf"
+        "name": "Like It Always Was",
+        "url": "https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI"
       },
       "artists": [
         {
-          "name": "Mon Rov\u00eea",
-          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
         }
       ],
-      "duration_ms": 139530,
-      "name": "Field Song.",
-      "url": "https://open.spotify.com/track/3mWoFs0KLmalbdYhgYRJ3R"
+      "duration_ms": 200113,
+      "name": "Like It Always Was",
+      "url": "https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt"
     },
     {
       "added_at": "2026-02-26 23:00:47",
@@ -375,18 +375,18 @@
     {
       "added_at": "2026-02-26 23:00:47",
       "album": {
-        "name": "Like It Always Was",
-        "url": "https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI"
+        "name": "Field Song.",
+        "url": "https://open.spotify.com/album/06Ql3BibRMTMGaurflbLdf"
       },
       "artists": [
         {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
         }
       ],
-      "duration_ms": 200113,
-      "name": "Like It Always Was",
-      "url": "https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt"
+      "duration_ms": 139530,
+      "name": "Field Song.",
+      "url": "https://open.spotify.com/track/3mWoFs0KLmalbdYhgYRJ3R"
     },
     {
       "added_at": "2026-02-26 23:00:47",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-02-26 23:00:47",
       "album": {
+        "name": "For Tomorrow's Sake",
+        "url": "https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi"
+      },
+      "artists": [
+        {
+          "name": "Tim Knol",
+          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
+        }
+      ],
+      "duration_ms": 204253,
+      "name": "For Tomorrow's Sake",
+      "url": "https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz"
+    },
+    {
+      "added_at": "2026-02-26 23:00:47",
+      "album": {
         "name": "Castaways",
         "url": "https://open.spotify.com/album/43nTCW1quhIVMokEbaIV6r"
       },
@@ -603,22 +619,6 @@
     {
       "added_at": "2026-02-26 23:00:47",
       "album": {
-        "name": "For Tomorrow's Sake",
-        "url": "https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi"
-      },
-      "artists": [
-        {
-          "name": "Tim Knol",
-          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
-        }
-      ],
-      "duration_ms": 204253,
-      "name": "For Tomorrow's Sake",
-      "url": "https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz"
-    },
-    {
-      "added_at": "2026-02-26 23:00:47",
-      "album": {
         "name": "Stone Cold Sober",
         "url": "https://open.spotify.com/album/5aCaC8P8Oq7Oyszu1NWiK5"
       },
@@ -635,18 +635,18 @@
     {
       "added_at": "2026-02-26 23:00:47",
       "album": {
-        "name": "The Machine (Radio Edit)",
-        "url": "https://open.spotify.com/album/2jiqkUjC2pa8roaYu71nd3"
+        "name": "For Once",
+        "url": "https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf"
       },
       "artists": [
         {
-          "name": "Jodymoon",
-          "url": "https://open.spotify.com/artist/3SDwQlOp6Q8MWJusQhbga0"
+          "name": "A\u00e4ron Koch",
+          "url": "https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21"
         }
       ],
-      "duration_ms": 194741,
-      "name": "The Machine - Radio Edit",
-      "url": "https://open.spotify.com/track/3kGWfGkDJ11WFqOK2AkYRE"
+      "duration_ms": 237467,
+      "name": "For Once",
+      "url": "https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB"
     },
     {
       "added_at": "2026-02-26 23:00:47",
@@ -671,18 +671,18 @@
     {
       "added_at": "2026-02-26 23:00:47",
       "album": {
-        "name": "For Once",
-        "url": "https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf"
+        "name": "The Machine (Radio Edit)",
+        "url": "https://open.spotify.com/album/2jiqkUjC2pa8roaYu71nd3"
       },
       "artists": [
         {
-          "name": "A\u00e4ron Koch",
-          "url": "https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21"
+          "name": "Jodymoon",
+          "url": "https://open.spotify.com/artist/3SDwQlOp6Q8MWJusQhbga0"
         }
       ],
-      "duration_ms": 237467,
-      "name": "For Once",
-      "url": "https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB"
+      "duration_ms": 194741,
+      "name": "The Machine - Radio Edit",
+      "url": "https://open.spotify.com/track/3kGWfGkDJ11WFqOK2AkYRE"
     },
     {
       "added_at": "2026-02-26 23:00:47",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-02-26 23:00:47",
       "album": {
-        "name": "Every Town",
-        "url": "https://open.spotify.com/album/2qzfwlGdVtbiJuUBhhOU2Q"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 233262,
-      "name": "Every Town",
-      "url": "https://open.spotify.com/track/3cGCnGYGIDZXz1MK4QHDc0"
-    },
-    {
-      "added_at": "2026-02-26 23:00:47",
-      "album": {
         "name": "Good As Gone",
         "url": "https://open.spotify.com/album/5L7K0GaNwfTqHG5XRYjK50"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 225174,
       "name": "Good As Gone",
       "url": "https://open.spotify.com/track/3Q7e5lPNK6PJ5PqpqczWnf"
+    },
+    {
+      "added_at": "2026-02-26 23:00:47",
+      "album": {
+        "name": "Every Town",
+        "url": "https://open.spotify.com/album/2qzfwlGdVtbiJuUBhhOU2Q"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 233262,
+      "name": "Every Town",
+      "url": "https://open.spotify.com/track/3cGCnGYGIDZXz1MK4QHDc0"
     },
     {
       "added_at": "2026-02-26 23:00:47",
@@ -871,18 +871,18 @@
     {
       "added_at": "2026-02-26 23:00:47",
       "album": {
-        "name": "Can't Take My Story Away",
-        "url": "https://open.spotify.com/album/54HjJF318NtJtvz7FIwmLI"
+        "name": "Come Along",
+        "url": "https://open.spotify.com/album/2I2GgjfMffCEszqaxa2kWA"
       },
       "artists": [
         {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+          "name": "Shane Guerrette",
+          "url": "https://open.spotify.com/artist/4xaFqKnLaGscm3y2CU13Qq"
         }
       ],
-      "duration_ms": 251566,
-      "name": "Can't Take My Story Away",
-      "url": "https://open.spotify.com/track/6q55IN85ubuUeVu1tFEFWM"
+      "duration_ms": 229565,
+      "name": "Come Along as One",
+      "url": "https://open.spotify.com/track/4izIdsGxr6lPaV8aeEauFU"
     }
   ],
   "unique_name": "Country & Americana",

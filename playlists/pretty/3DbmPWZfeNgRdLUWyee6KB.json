@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1281,
+  "num_followers": 1285,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAREFWgndPz2Rn5PMKyAvUdhD8q2LRm",
+  "snapshot_id": "AAARJTnhYKTM8Ro91Q9zhNQzk40Z7YA6",
   "tracks": [
     {
       "added_at": "2026-02-06 09:53:34",
@@ -39,6 +39,70 @@
       "duration_ms": 155422,
       "name": "SLOW MOTION",
       "url": "https://open.spotify.com/track/1H5Rz9E38f8cqdxGW9vDBE"
+    },
+    {
+      "added_at": "2026-03-02 19:27:20",
+      "album": {
+        "name": "Prada Jacket",
+        "url": "https://open.spotify.com/album/53ygVkYNSNF1EYs2mIt5h6"
+      },
+      "artists": [
+        {
+          "name": "Nick Coleman",
+          "url": "https://open.spotify.com/artist/6snVGC7vB9QsHcGoUxaSou"
+        }
+      ],
+      "duration_ms": 136382,
+      "name": "Prada Jacket",
+      "url": "https://open.spotify.com/track/49zj1xPxYmoMWTe7yBffas"
+    },
+    {
+      "added_at": "2026-03-02 18:12:02",
+      "album": {
+        "name": "BEFORE I CAN TELL",
+        "url": "https://open.spotify.com/album/1xGCLvUXuxrlY6V7ZYLvwX"
+      },
+      "artists": [
+        {
+          "name": "Vinicio Simonetti",
+          "url": "https://open.spotify.com/artist/457CGCR3k3hCBcMPkrYm8D"
+        }
+      ],
+      "duration_ms": 265340,
+      "name": "BEFORE I CAN TELL",
+      "url": "https://open.spotify.com/track/6iJlyDMdotLGenjBZKutpT"
+    },
+    {
+      "added_at": "2026-03-02 09:18:13",
+      "album": {
+        "name": "Saving a Song",
+        "url": "https://open.spotify.com/album/1gGtfyU4EPhlsle2aEhFrO"
+      },
+      "artists": [
+        {
+          "name": "Cormac O Caoimh",
+          "url": "https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt"
+        }
+      ],
+      "duration_ms": 198283,
+      "name": "Saving a Song",
+      "url": "https://open.spotify.com/track/1sCFMRorslEb20pXtIOYYz"
+    },
+    {
+      "added_at": "2026-03-02 16:22:09",
+      "album": {
+        "name": "Get Ready",
+        "url": "https://open.spotify.com/album/0BFJoPZ2FAtP1wk9NXsi2e"
+      },
+      "artists": [
+        {
+          "name": "Tirada",
+          "url": "https://open.spotify.com/artist/5nYNaWd0EzkjojIr0NAp2v"
+        }
+      ],
+      "duration_ms": 263373,
+      "name": "Get Ready",
+      "url": "https://open.spotify.com/track/1UFDljtWoiwASVfCxwkFAM"
     },
     {
       "added_at": "2026-02-27 10:41:07",
@@ -2023,6 +2087,226 @@
       "duration_ms": 290972,
       "name": "Midnight Train",
       "url": "https://open.spotify.com/track/75ndxPSgPcezSP8xz2UuSb"
+    },
+    {
+      "added_at": "2026-03-02 10:02:04",
+      "album": {
+        "name": "The One I Want Beside Me",
+        "url": "https://open.spotify.com/album/6k3PoNmrxC5o2gYpjvFm6b"
+      },
+      "artists": [
+        {
+          "name": "Solo el Malo",
+          "url": "https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8"
+        }
+      ],
+      "duration_ms": 231293,
+      "name": "The One I Want Beside Me",
+      "url": "https://open.spotify.com/track/4EtCyjZQCF2fxV6eKYxXXH"
+    },
+    {
+      "added_at": "2026-03-02 11:51:46",
+      "album": {
+        "name": "Cuando llegue la noche",
+        "url": "https://open.spotify.com/album/5jkZfIJPU7XTRtfB82hbqL"
+      },
+      "artists": [
+        {
+          "name": "Raida M",
+          "url": "https://open.spotify.com/artist/0Daw8dqrPbm3kyvk3XN4em"
+        }
+      ],
+      "duration_ms": 228504,
+      "name": "Cuando llegue la noche",
+      "url": "https://open.spotify.com/track/0hZuzpkcpgYhHbAV22Wiwn"
+    },
+    {
+      "added_at": "2026-03-02 11:51:49",
+      "album": {
+        "name": "Voler",
+        "url": "https://open.spotify.com/album/4AZUeXfb2Z4PpMQMjDy9e1"
+      },
+      "artists": [
+        {
+          "name": "Eric Hartereau",
+          "url": "https://open.spotify.com/artist/05AKy1V7dOPuFuzLZHRtu7"
+        },
+        {
+          "name": "Dalla Vedova",
+          "url": "https://open.spotify.com/artist/3FaMnhkGFzrIn3zGlXGmPp"
+        }
+      ],
+      "duration_ms": 218117,
+      "name": "Work On Progress",
+      "url": "https://open.spotify.com/track/0Fb34Zgrme44B8EybWJoEA"
+    },
+    {
+      "added_at": "2026-03-02 12:39:39",
+      "album": {
+        "name": "Back In Business",
+        "url": "https://open.spotify.com/album/3mLkSHu7tPitznqB6SnOPQ"
+      },
+      "artists": [
+        {
+          "name": "Samuel y los Rezagados",
+          "url": "https://open.spotify.com/artist/2x8GEMtyjX8bnJhNcNsJrW"
+        },
+        {
+          "name": "enma alvear",
+          "url": "https://open.spotify.com/artist/6xvChSW0aFmkQ7WDjsKmne"
+        }
+      ],
+      "duration_ms": 288312,
+      "name": "No Time",
+      "url": "https://open.spotify.com/track/5vCvWmImr0Vr7YH0C0AyX2"
+    },
+    {
+      "added_at": "2026-03-02 13:41:31",
+      "album": {
+        "name": "qu\u00e9 pasar\u00eda si?",
+        "url": "https://open.spotify.com/album/3aZ8RGZcoL6iIcK9OnhU3N"
+      },
+      "artists": [
+        {
+          "name": "Bea Troncea",
+          "url": "https://open.spotify.com/artist/2NNFdP47Os0DAjY2VEzYqW"
+        }
+      ],
+      "duration_ms": 181250,
+      "name": "qu\u00e9 pasar\u00eda si?",
+      "url": "https://open.spotify.com/track/3emdwjVdDDViHiTfdsKJsh"
+    },
+    {
+      "added_at": "2026-03-02 14:32:51",
+      "album": {
+        "name": "\u00c9trange inconnu",
+        "url": "https://open.spotify.com/album/2GpEFesgNc62Zu92mduL8C"
+      },
+      "artists": [
+        {
+          "name": "Perrine Hope",
+          "url": "https://open.spotify.com/artist/7aXpehI3ni2IquIMDyMeNw"
+        }
+      ],
+      "duration_ms": 170755,
+      "name": "\u00c9trange inconnu",
+      "url": "https://open.spotify.com/track/6YmGrsKNSs00IocQLWalpC"
+    },
+    {
+      "added_at": "2026-03-02 14:33:10",
+      "album": {
+        "name": "Pick a Side",
+        "url": "https://open.spotify.com/album/1VBR04V2BOLxpeZLDaDw3f"
+      },
+      "artists": [
+        {
+          "name": "Azmora",
+          "url": "https://open.spotify.com/artist/06i8TDgphThToFQPy7aPAO"
+        }
+      ],
+      "duration_ms": 172359,
+      "name": "Pick a Side",
+      "url": "https://open.spotify.com/track/6B4NPK1kymjumXhnJisVdP"
+    },
+    {
+      "added_at": "2026-03-02 14:33:25",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/02OO6cSq8UNEyrXxXmrEo4"
+      },
+      "artists": [
+        {
+          "name": "Eve Gasser",
+          "url": "https://open.spotify.com/artist/3aHIYOGT1AVJJCQalaLm2H"
+        }
+      ],
+      "duration_ms": 244636,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1VZ6VttIdyT4Hz0YuxlcOY"
+    },
+    {
+      "added_at": "2026-03-02 15:18:47",
+      "album": {
+        "name": "Spiraling",
+        "url": "https://open.spotify.com/album/3NGzGeSEAGmsTIdOD4cygO"
+      },
+      "artists": [
+        {
+          "name": "N.A.S.P.",
+          "url": "https://open.spotify.com/artist/1ySg5talFpiWbJvUqouoIl"
+        }
+      ],
+      "duration_ms": 264206,
+      "name": "Spiraling",
+      "url": "https://open.spotify.com/track/4mK98zx2RJBIO5KVB4F42l"
+    },
+    {
+      "added_at": "2026-03-02 18:54:24",
+      "album": {
+        "name": "Where it began",
+        "url": "https://open.spotify.com/album/4fPcg0BfUr7BZv0od5wgi2"
+      },
+      "artists": [
+        {
+          "name": "Patrick van Bergen",
+          "url": "https://open.spotify.com/artist/0iIsumYuMvo8U1dfOVuGXY"
+        }
+      ],
+      "duration_ms": 225663,
+      "name": "Where it began",
+      "url": "https://open.spotify.com/track/7FxotCXuLecKLYZvlk6BLS"
+    },
+    {
+      "added_at": "2026-03-02 18:54:30",
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/67q3RqljhpQeY4vsl0s4di"
+      },
+      "artists": [
+        {
+          "name": "Craig Cordwell",
+          "url": "https://open.spotify.com/artist/1LGKYIglmZVkinGQyFftre"
+        }
+      ],
+      "duration_ms": 146239,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/5TqAQEA5kwDC6VN9pwGEBs"
+    },
+    {
+      "added_at": "2026-03-02 18:54:35",
+      "album": {
+        "name": "BUSY",
+        "url": "https://open.spotify.com/album/5s8s7OnvvEm4u5d6mHug1W"
+      },
+      "artists": [
+        {
+          "name": "Nancy Dunkle",
+          "url": "https://open.spotify.com/artist/0SE0lZgXJ2XCdvO77Zv2Kl"
+        }
+      ],
+      "duration_ms": 199837,
+      "name": "BUSY",
+      "url": "https://open.spotify.com/track/5bjd9IPzs7avJgswVKZtQC"
+    },
+    {
+      "added_at": "2026-03-02 18:55:17",
+      "album": {
+        "name": "Lies",
+        "url": "https://open.spotify.com/album/61dRlxe6WZMawt4aadyzaq"
+      },
+      "artists": [
+        {
+          "name": "Rogue",
+          "url": "https://open.spotify.com/artist/64161WbeOZvWb8N5RmxgFQ"
+        },
+        {
+          "name": "Avaraj",
+          "url": "https://open.spotify.com/artist/6LTM1sXyyToaTPdm4B4WDC"
+        }
+      ],
+      "duration_ms": 230107,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/4N2VPDlslneJM4CTJ4RB8F"
     }
   ],
   "unique_name": "New Indie Music",

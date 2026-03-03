@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-486 songs - 1 day 3 hr 39 min
+487 songs - 1 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Boredom](https://open.spotify.com/track/4aiKBAp88Q23KpuSdzekDr) | [Núria Graham](https://open.spotify.com/artist/3ZJhC6cKBtTx6jUJSTr8XI) | [Boredom \(Demo 2015\)](https://open.spotify.com/album/5vGRH6zvJ5bXI7fBFcO3jN) | 3:52 | 2024-06-06 |  |
 | [Bossa Recíproca](https://open.spotify.com/track/3YXn94f6pqidYMaXWy2ULg) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK), [María Yfeu](https://open.spotify.com/artist/46tCymlXwfZS4wog93XK0B) | [La Cura del Habla](https://open.spotify.com/album/4tnC4JYgeOn3vzj02IvrHA) | 3:23 | 2026-02-19 |  |
 | [Botecito](https://open.spotify.com/track/3jd98IqkeEChfoe98H24Ma) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Botecito](https://open.spotify.com/album/0ldh3YA3WxIdKM4Gdr8vrm) | 3:57 | 2023-10-26 |  |
+| [Brilla el sol](https://open.spotify.com/track/6n88P24r5XiVb7qXfkXFya) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF) | [Brilla el sol](https://open.spotify.com/album/2hQ31mZrkKFlqwulf87IDr) | 3:22 | 2026-02-26 |  |
 | [brujita](https://open.spotify.com/track/6kYLN1jiNx0e7cdj6QsHrM) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [BABAYAGA](https://open.spotify.com/album/2p8CEb59obQ62nhqLbTE6I) | 2:39 | 2023-03-16 | 2023-04-21 |
 | [Burn](https://open.spotify.com/track/40dfo65kBJa1UgzkD652Gl) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Footprints I Found](https://open.spotify.com/album/5bXx1ncSvWPtNAuecQgsHf) | 2:59 | 2024-08-23 | 2025-07-01 |
 | [By Your Side](https://open.spotify.com/track/3VcmjpCGGY4ReELVr4R7aa) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/5Ak10vSJ89AixhQQhx63kN) | 4:34 | 2024-04-11 |  |
@@ -455,7 +456,7 @@
 | [Two Weeks Ago](https://open.spotify.com/track/0bnUDXvwi2s8924tLTDg3K) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 2:59 | 2023-07-06 | 2024-03-15 |
 | [Two Weeks Ago](https://open.spotify.com/track/4wvgBJYPefTSk1Aa4vGgMb) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Two Weeks Ago](https://open.spotify.com/album/7shdch14iZNsphA7lUXPWF) | 2:59 | 2023-06-09 | 2023-08-18 |
 | [Un Cielo Azul](https://open.spotify.com/track/09LcdYR2CzdPromG5h9BQ5) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Un Cielo Azul](https://open.spotify.com/album/1sIMLCiNQY9KbN2G0SbuDI) | 2:57 | 2024-10-01 | 2025-06-08 |
-| [un desastre](https://open.spotify.com/track/1yp3NkKI8iQGv5Rs27aS8W) | [kepa](https://open.spotify.com/artist/641uUz4loRaQhEkuFOIefT) | [un desastre](https://open.spotify.com/album/5VDZWoJyx2LhSWK8eqWOmu) | 2:47 | 2026-02-26 |  |
+| [un desastre](https://open.spotify.com/track/1yp3NkKI8iQGv5Rs27aS8W) | [kepa](https://open.spotify.com/artist/641uUz4loRaQhEkuFOIefT) | [un desastre](https://open.spotify.com/album/5VDZWoJyx2LhSWK8eqWOmu) | 2:47 | 2026-02-26 | 2026-03-03 |
 | [Un Día De Estos](https://open.spotify.com/track/7rsRu5kV7CMuVGJulafxLs) | [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [Un Día De Estos](https://open.spotify.com/album/7GYjoCpQw3PHkcfAVmpNzL) | 2:29 | 2024-02-08 | 2024-03-05 |
 | [Un grand amour](https://open.spotify.com/track/3MRCa3omM28c427BVtS99V) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Un grand amour](https://open.spotify.com/album/09NQXulJ9PCYbloKVgVb34) | 2:57 | 2024-04-11 | 2024-10-02 |
 | [Una De Vaqueros](https://open.spotify.com/track/20yAkyj81iGMv2T8ho0eCy) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Una De Vaqueros](https://open.spotify.com/album/4rQIECysbPtvjJ5diKhL57) | 3:28 | 2024-03-15 | 2024-03-23 |

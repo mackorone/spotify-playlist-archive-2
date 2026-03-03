@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Gal Costa",
-  "num_followers": 1468987,
+  "num_followers": 1469011,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2025-11-30 17:39:04",
       "album": {
+        "name": "Djavan \"Ao Vivo\"",
+        "url": "https://open.spotify.com/album/2WWakvH7foDm8RjWFMDcL7"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 254800,
+      "name": "Meu Bem-Querer (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5ogHB4oYt1C7kaWJYm5MDG"
+    },
+    {
+      "added_at": "2025-11-30 17:39:04",
+      "album": {
         "name": "Caetano e Beth\u00e2nia Ao Vivo",
         "url": "https://open.spotify.com/album/0sTykt0Q7XBt2sQ9wu51j3"
       },
@@ -483,22 +499,6 @@
     {
       "added_at": "2025-11-30 17:39:04",
       "album": {
-        "name": "Djavan \"Ao Vivo\"",
-        "url": "https://open.spotify.com/album/2WWakvH7foDm8RjWFMDcL7"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 254800,
-      "name": "Meu Bem-Querer (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5ogHB4oYt1C7kaWJYm5MDG"
-    },
-    {
-      "added_at": "2025-11-30 17:39:04",
-      "album": {
         "name": "Nova Bis - Ivan Lins",
         "url": "https://open.spotify.com/album/3OMsMOMAMjhulGUrtoJ3h2"
       },
@@ -511,6 +511,22 @@
       "duration_ms": 230506,
       "name": "Vitoriosa - Ao Vivo",
       "url": "https://open.spotify.com/track/08oqG2aZTJndXXwGOAth9n"
+    },
+    {
+      "added_at": "2025-11-30 17:39:04",
+      "album": {
+        "name": "Como Vai Voc\u00ea",
+        "url": "https://open.spotify.com/album/73zRVTgL5JJugtY1zWasXe"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 227568,
+      "name": "Como Vai Voc\u00ea",
+      "url": "https://open.spotify.com/track/6DihrQCKtLq7SpVQt4jBzA"
     },
     {
       "added_at": "2025-11-30 17:39:04",
@@ -535,18 +551,18 @@
     {
       "added_at": "2025-11-30 17:39:04",
       "album": {
-        "name": "Como Vai Voc\u00ea",
-        "url": "https://open.spotify.com/album/73zRVTgL5JJugtY1zWasXe"
+        "name": "Sorte",
+        "url": "https://open.spotify.com/album/6zjlLpKWlTOedQcBlJbuNh"
       },
       "artists": [
         {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
         }
       ],
-      "duration_ms": 227568,
-      "name": "Como Vai Voc\u00ea",
-      "url": "https://open.spotify.com/track/6DihrQCKtLq7SpVQt4jBzA"
+      "duration_ms": 184569,
+      "name": "Sorte",
+      "url": "https://open.spotify.com/track/6yHqnquTGEC6ABIRfrBp6x"
     },
     {
       "added_at": "2025-11-30 17:39:04",
@@ -579,22 +595,6 @@
       "duration_ms": 128000,
       "name": "Sangue latino",
       "url": "https://open.spotify.com/track/4LxKSGFZOX66wGSsH0kFRE"
-    },
-    {
-      "added_at": "2025-11-30 17:39:04",
-      "album": {
-        "name": "Sorte",
-        "url": "https://open.spotify.com/album/6zjlLpKWlTOedQcBlJbuNh"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 184569,
-      "name": "Sorte",
-      "url": "https://open.spotify.com/track/6yHqnquTGEC6ABIRfrBp6x"
     },
     {
       "added_at": "2025-11-30 17:39:04",

@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-09",
+      "date_removed": null,
       "duration_ms": 166779,
       "name": "AWGAZI",
       "url": "https://open.spotify.com/track/2D9coh76MCXNqDEUCHl5vl"
@@ -2464,7 +2464,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 139354,
       "name": "Brrrr \ud83e\udd76\ud83c\udde8\ud83c\udde6",
       "url": "https://open.spotify.com/track/2z6kVEyUnUk7Zmbo4aeMZc"
@@ -4426,6 +4426,28 @@
       "duration_ms": 205308,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
+    },
+    {
+      "album": {
+        "name": "Dracula (Remix)",
+        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209720,
+      "name": "Dracula - JENNIE Remix",
+      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
     },
     {
       "album": {
@@ -6510,7 +6532,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 172567,
       "name": "HETE TAKE",
       "url": "https://open.spotify.com/track/2GMVqbM45kWJQd6cFbaXJ2"
@@ -7176,7 +7198,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 317548,
       "name": "I am waiting my son",
       "url": "https://open.spotify.com/track/01MpFwJqAaYgLKgzbCZbrE"
@@ -7524,7 +7546,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 233159,
       "name": "I Will See You Again",
       "url": "https://open.spotify.com/track/6bovuOmtnXf4WfxQzeAT1x"
@@ -12320,7 +12342,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-26",
+      "date_removed": null,
       "duration_ms": 280033,
       "name": "Papaoutai - Afro Soul",
       "url": "https://open.spotify.com/track/2pwED7E7gGr3UR7T3s3LSM"
@@ -14166,7 +14188,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 181173,
       "name": "Someone Out of Town",
       "url": "https://open.spotify.com/track/3Tb6RlqXPldaQVasxc68cP"
@@ -17117,6 +17139,24 @@
     },
     {
       "album": {
+        "name": "We Do What We Want (Edit)",
+        "url": "https://open.spotify.com/album/5WzbzjfI0AeLlYwyZ1rHOa"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188095,
+      "name": "We Do What We Want - Edit",
+      "url": "https://open.spotify.com/track/2qGvgsRsmrB0Y7Y4MmuP1M"
+    },
+    {
+      "album": {
         "name": "we fell in love in october / October Passed Me By",
         "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
       },
@@ -18222,6 +18262,24 @@
       "duration_ms": 148000,
       "name": "Yerinde Dur",
       "url": "https://open.spotify.com/track/3JTphuwOWcI28J2vS4gMmI"
+    },
+    {
+      "album": {
+        "name": "Pop Female Hits 2001-2019, Vol. 1 (Vocal)",
+        "url": "https://open.spotify.com/album/0X9lY91zjKa4sGqErX6F4x"
+      },
+      "artists": [
+        {
+          "name": "Party Tyme",
+          "url": "https://open.spotify.com/artist/18BHcaFxDHqgfehv4g6vjC"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216645,
+      "name": "Yoga (Vocal)",
+      "url": "https://open.spotify.com/track/3IUF3QgrGznRBK0RfpAJ34"
     },
     {
       "album": {

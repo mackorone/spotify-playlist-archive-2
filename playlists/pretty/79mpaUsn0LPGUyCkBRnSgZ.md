@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 676 songs - 1 day 20 hr 11 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 678 songs - 1 day 20 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -684,5 +684,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 674 | [Aerial Shipyards](https://open.spotify.com/track/5gPhDAudtwdZfMZjuflKlz) | [Bruiser and Bicycle](https://open.spotify.com/artist/06ySZdJ1MzvRgjsNHKzAeM) | [Holy Red Wagon](https://open.spotify.com/album/7KInhpkEghVcfp8g9srnkM) | 7:38 |
 | 675 | [Tapdance In Limbo](https://open.spotify.com/track/04LZdlv8Ccy3FezHBiBQGW) | [Twen](https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO) | [Fate Euphoric](https://open.spotify.com/album/7q6joHybfVw0FSgoMqY882) | 4:30 |
 | 676 | [Birds & the Bees](https://open.spotify.com/track/7bwLHhqhRu0fVTM3aaeK9V) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 2:16 |
+| 677 | [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 |
+| 678 | [In a Lake](https://open.spotify.com/track/5VsBTV8gxbMCRTomd2nRqg) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Nothing's About to Happen to Me](https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu) | 3:04 |
 
-Snapshot ID: `AAAIpy0HCUhKQxHBD6vNmaJVgfGDYJXl`
+Snapshot ID: `AAAIqTZfz/mqlB7zhVxMilEcoo+p3jfZ`

@@ -1,12 +1,12 @@
 {
   "description": "Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions. www.lucciagobeats.com ",
-  "num_followers": 561,
+  "num_followers": 562,
   "original_name": "Cruise Music",
   "owner": {
     "name": "Lucciago",
     "url": "https://open.spotify.com/user/1217609118"
   },
-  "snapshot_id": "AAAJ0FATN24gTQ55pA218zWGlZOVjiUX",
+  "snapshot_id": "AAAJ1nTBkSkNOByTqJQeuIEvhSAOBrdQ",
   "tracks": [
     {
       "added_at": "2024-09-13 11:56:22",
@@ -39203,6 +39203,106 @@
       "duration_ms": 210533,
       "name": "Long Time Dead",
       "url": "https://open.spotify.com/track/0vWzjxded9A9cL1yuocuyR"
+    },
+    {
+      "added_at": "2026-03-02 20:56:26",
+      "album": {
+        "name": "(Easier with a) Song",
+        "url": "https://open.spotify.com/album/6C8S7NR7cDyAzaiwVJ9EJp"
+      },
+      "artists": [
+        {
+          "name": "Tjernberg Brothers",
+          "url": "https://open.spotify.com/artist/1Q0cJErFaGIyvzdcFaNtPr"
+        },
+        {
+          "name": "Astrid Mellgren",
+          "url": "https://open.spotify.com/artist/0xEzlMM4wiu19lXWhPuTkk"
+        }
+      ],
+      "duration_ms": 225856,
+      "name": "(Easier with a) Song",
+      "url": "https://open.spotify.com/track/4UdCje9LAzfjliEouTWiAu"
+    },
+    {
+      "added_at": "2026-03-02 20:57:56",
+      "album": {
+        "name": "Low Fidelity",
+        "url": "https://open.spotify.com/album/6NYA18h0U4PtpFe5hOYNoE"
+      },
+      "artists": [
+        {
+          "name": "Vann's Nebula",
+          "url": "https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM"
+        }
+      ],
+      "duration_ms": 102508,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/0dgEsMfFdTwG0WwGCaqZ0v"
+    },
+    {
+      "added_at": "2026-03-02 20:58:06",
+      "album": {
+        "name": "Bleu Minuit",
+        "url": "https://open.spotify.com/album/4ztrZN9yWZvjmcFUhBDPdw"
+      },
+      "artists": [
+        {
+          "name": "Delass",
+          "url": "https://open.spotify.com/artist/0nWgZZoSOW9ETxzzmDsPV3"
+        }
+      ],
+      "duration_ms": 185535,
+      "name": "Bleu Minuit",
+      "url": "https://open.spotify.com/track/0Q1auXPkl5M0R8p2px55IM"
+    },
+    {
+      "added_at": "2026-03-02 21:06:21",
+      "album": {
+        "name": "Christmas salvation",
+        "url": "https://open.spotify.com/album/3p2AwffFlomvWJaDepuMmU"
+      },
+      "artists": [
+        {
+          "name": "Tandaram Way",
+          "url": "https://open.spotify.com/artist/7sumOQAfWLjOdW9zSTeeog"
+        }
+      ],
+      "duration_ms": 175039,
+      "name": "Christmas salvation",
+      "url": "https://open.spotify.com/track/1rIvQcUFqjXO7sTAM20WJH"
+    },
+    {
+      "added_at": "2026-03-02 21:10:57",
+      "album": {
+        "name": "Still Running",
+        "url": "https://open.spotify.com/album/6oDxuEXDs2v30RmZ1T1eto"
+      },
+      "artists": [
+        {
+          "name": "FUMITO",
+          "url": "https://open.spotify.com/artist/0jHHRTca6HOkksVRPrjKSK"
+        }
+      ],
+      "duration_ms": 222222,
+      "name": "Still Running",
+      "url": "https://open.spotify.com/track/0540EJSItpEHuX7wpxpNDt"
+    },
+    {
+      "added_at": "2026-03-02 21:11:12",
+      "album": {
+        "name": "Rainy Days",
+        "url": "https://open.spotify.com/album/7ESeH9wjN7nKKoq1BijDq3"
+      },
+      "artists": [
+        {
+          "name": "George Bacan",
+          "url": "https://open.spotify.com/artist/1hsiZ1ezoIGPu8BdXX0MX0"
+        }
+      ],
+      "duration_ms": 210587,
+      "name": "Rainy Days",
+      "url": "https://open.spotify.com/track/1hTtSs1hUV9beg9z7Xj2EI"
     }
   ],
   "unique_name": "Cruise Music",

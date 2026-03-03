@@ -4,7 +4,7 @@
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Elsa y Elmar
 
-168 songs - 12 hr 11 min
+169 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Me Hace Daño Verte](https://open.spotify.com/track/4dyzxv5SsdBtunuU3qj7Ti) | [Fresto Music](https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB) | [Trovando El Son](https://open.spotify.com/album/0fSaofDMk7H5ZUJ98SH5Uu) | 5:00 | 2023-09-12 |  |
 | [Me Vas A Extrañar](https://open.spotify.com/track/0SVlCv4gOgWohAdBZMBu3v) | [N'Samble](https://open.spotify.com/artist/7Ksq8BTaGcbM7OgVQi3y8f) | [Me Vas A Extranar](https://open.spotify.com/album/5COSv7B9FrpiPMJamXFTmp) | 5:10 | 2022-05-13 |  |
 | [Me Vas a Extrañar](https://open.spotify.com/track/10OXEEbtNRaeiHeKHj25XB) | [N'Samble](https://open.spotify.com/artist/7Ksq8BTaGcbM7OgVQi3y8f) | [Me Vas a Extrañar](https://open.spotify.com/album/6KSnZY5Af92l4E1K5XjYL8) | 5:10 | 2022-07-15 | 2024-04-19 |
+| [Mi Cali Bella \- Salsa](https://open.spotify.com/track/3RmOuFMb91bKOZOnCRb8Kv) | [Los Alfa 8](https://open.spotify.com/artist/3C9BF8bjoRWU14IkkAXGq2), [Marcelo Cezán](https://open.spotify.com/artist/6PwCDMNPqykd8swT8kidCF) | [Mi Cali Bella \(Salsa\)](https://open.spotify.com/album/0SdD0h12av21JUkOtN43gx) | 3:44 | 2026-03-02 |  |
 | [Mi Propiedad Privada](https://open.spotify.com/track/3DAxwWtA3N41eNZ9pCsQnl) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Mi Propiedad Privada](https://open.spotify.com/album/5wzCExW5NvwRMvDRav2taR) | 4:12 | 2022-05-13 | 2023-03-04 |
 | [Misterio](https://open.spotify.com/track/5ANnot1kusksXvuHlmwYYT) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Mixteip](https://open.spotify.com/album/315R7c8EPwJiT11OS0t4Xk) | 3:48 | 2025-07-25 |  |
 | [MIX KAROL G: BICHOTA / SEJODIOTO / EL MAKINON](https://open.spotify.com/track/28BdtXblzpFirMnFIuMKFC) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y), [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E) | [MIX KAROL G: BICHOTA / SEJODIOTO / EL MAKINON](https://open.spotify.com/album/3Bz9rTrpsFUF1OcALYiroo) | 5:37 | 2022-05-13 | 2023-02-04 |
@@ -173,7 +174,7 @@
 | [Ya No Me Llames Mas](https://open.spotify.com/track/1P8jEZ9Nr4RNjkh4nsEEFM) | [Janco Janner](https://open.spotify.com/artist/35WCIgNwjL6uCOXb8MGWhn) | [Ya No Me Llames Mas](https://open.spotify.com/album/75cfkR9HaYCbWRUfDyJbNh) | 4:13 | 2022-05-13 |  |
 | [Ya No Te Amo](https://open.spotify.com/track/4oEHUVWr6GnvaszaHqSdoi) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Ya No Te Amo](https://open.spotify.com/album/70clE19xMTQeZRbMx5DIMM) | 3:56 | 2023-03-03 | 2023-04-28 |
 | [Ya para Que](https://open.spotify.com/track/3dzX3gSpIkQPFID4CcdrGN) | [Hey Hey Camaguey](https://open.spotify.com/artist/0DOadkS5Kr2hnrkkGCS9uo) | [Rendido Ante Ti](https://open.spotify.com/album/6YQbz2amnceEATuoen42u0) | 4:03 | 2022-07-15 | 2024-04-19 |
-| [Ya para qué](https://open.spotify.com/track/6o9LsVJ2wmVS26HIKsxBIL) | [Hey Hey Camaguey](https://open.spotify.com/artist/0DOadkS5Kr2hnrkkGCS9uo) | [Rendido ante ti](https://open.spotify.com/album/4xPuNmZW2uIj067i75SIhm) | 4:03 | 2022-05-13 |  |
+| [Ya para qué](https://open.spotify.com/track/6o9LsVJ2wmVS26HIKsxBIL) | [Hey Hey Camaguey](https://open.spotify.com/artist/0DOadkS5Kr2hnrkkGCS9uo) | [Rendido ante ti](https://open.spotify.com/album/4xPuNmZW2uIj067i75SIhm) | 4:03 | 2022-05-13 | 2026-03-03 |
 | [Ya Te Olvidé](https://open.spotify.com/track/6eXiusG4axQAXMTyY7Ic1n) | [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I) | [Ya Te Olvidé](https://open.spotify.com/album/7mtNsYPDkbixPzprApB0j0) | 4:15 | 2023-04-27 | 2023-08-23 |
 | [Zumbalaé \(En Vivo\)](https://open.spotify.com/track/3VIStFqBZXOe8KVnbQ1eYf) | [Manyoma Brothers](https://open.spotify.com/artist/1jriNjegHWOysnyACg9Qe3) | [Live](https://open.spotify.com/album/5AuRALmzALV366aYogg7Eo) | 3:35 | 2023-10-27 | 2024-01-27 |
 

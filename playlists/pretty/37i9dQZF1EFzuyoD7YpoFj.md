@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 503 likes - 390 songs - 20 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 504 likes - 390 songs - 20 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -356,8 +356,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 346 | [Fácil de Amar](https://open.spotify.com/track/34exKFkA7VU93MaBMXtDNT) | [Sergio Ortiz](https://open.spotify.com/artist/1utVivrC7PRXJ65TMt0V4x) | [Grandes Exitos](https://open.spotify.com/album/5iV6ZnQTbS8MzrVMiSAhcT) | 2:04 |
 | 347 | [Der er Stille i Nat](https://open.spotify.com/track/3qJGdiAC1Rx05BpwWasOd9) | [Katrine Falkenberg](https://open.spotify.com/artist/12OytbQmTaREPGbzz1g1oh) | [I De Små Timer](https://open.spotify.com/album/7LwQRRNN6QPwFjhe7UIQD8) | 2:56 |
 | 348 | [Solomon](https://open.spotify.com/track/2cJPrkSoyoBsoASGIztLGA) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Cole Porter In London, Vol\. 1](https://open.spotify.com/album/0DS8IXLdZ7be3Y6mBCEX2U) | 3:07 |
-| 349 | [Porter: Abracadabra](https://open.spotify.com/track/7aFeOGXtOt3goEJZyw3WAI) | [June Havoc](https://open.spotify.com/artist/0VaHp8EJmfc5MjGC7bTHcD), [Male Chorus](https://open.spotify.com/artist/50qo8RvRhI4EDfvCk04Tl0), [Harry Sosnik](https://open.spotify.com/artist/1o3RmDxsS0PE0J0AyhtgSC) | [Mexican Hayride](https://open.spotify.com/album/7LnGM9UAwO7x7MykkgRmvJ) | 3:15 |
-| 350 | [Lost Liberty Blues](https://open.spotify.com/track/0qA1taZ05HXvLMMw0pazYy) | [Maude Maggart](https://open.spotify.com/artist/4wTzstrh0MiJCszv5s8nov) | [Look For The Silver Lining](https://open.spotify.com/album/3bkN6mz4OANEzLhLNBjwdB) | 1:14 |
+| 349 | [Lost Liberty Blues](https://open.spotify.com/track/0qA1taZ05HXvLMMw0pazYy) | [Maude Maggart](https://open.spotify.com/artist/4wTzstrh0MiJCszv5s8nov) | [Look For The Silver Lining](https://open.spotify.com/album/3bkN6mz4OANEzLhLNBjwdB) | 1:14 |
+| 350 | [Porter: Abracadabra](https://open.spotify.com/track/7aFeOGXtOt3goEJZyw3WAI) | [June Havoc](https://open.spotify.com/artist/0VaHp8EJmfc5MjGC7bTHcD), [Male Chorus](https://open.spotify.com/artist/50qo8RvRhI4EDfvCk04Tl0), [Harry Sosnik](https://open.spotify.com/artist/1o3RmDxsS0PE0J0AyhtgSC) | [Mexican Hayride](https://open.spotify.com/album/7LnGM9UAwO7x7MykkgRmvJ) | 3:15 |
 | 351 | [Wake Up and Dream](https://open.spotify.com/track/5EL5nocn1Mg5rHRLFvaQ7Q) | [Lisa B \(Lisa Bernstein\)](https://open.spotify.com/artist/4j1pWtvCHWV8dzgj8eKvVx) | [I Get A Kick: Cole Porter Reimagined](https://open.spotify.com/album/3m01KmvPt3YPIJyevVF1AF) | 5:48 |
 | 352 | [Samantha](https://open.spotify.com/track/42iTHO00I5T9DjqgtlSWm9) | [Warren Vaché](https://open.spotify.com/artist/0GWVa7PVBGQTtltgwpf5hw), [Joe Puma](https://open.spotify.com/artist/2cIGexdIxCkbVXd9dg9aQW), [Murray Wall](https://open.spotify.com/artist/00Js1AX1u0c5ysCSokMGBm), [Eddie Locke](https://open.spotify.com/artist/1QsPevkyVil8eS1V0Im2YY) | [What Is There to Say?](https://open.spotify.com/album/6tk1MepeNMHTl6OzNHJmdx) | 6:39 |
 | 353 | [I Sing of Love](https://open.spotify.com/track/65xnf9jumN7yup30y26CBt) | [Diane Langton](https://open.spotify.com/artist/0Vxavd9Ml7sPbTkhtfsCIv), [Graham Bickley](https://open.spotify.com/artist/71AtBFFAazgxdHLQWl4Jr0) | [Kiss Me Kate \(Original 1996 Studio Cast\. Complete Recording\)](https://open.spotify.com/album/09GsPfP3XglDcjqwwEJryu) | 2:23 |
@@ -399,4 +399,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 389 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 | 390 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AcK/9AAAAAAj8BHZ1ysyYzXmaG/kTZFM`
+Snapshot ID: `AcLFgAAAAAB+GDFDnTl+Svrt2ABSDSwR`

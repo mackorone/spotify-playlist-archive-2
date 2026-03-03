@@ -1,12 +1,12 @@
 {
   "description": "This is 2Pac. The essential tracks, all in one playlist.",
-  "num_followers": 1228102,
+  "num_followers": 1228165,
   "original_name": "This Is 2Pac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaIwAAAAAAAlIkwjCBxT0Jv5OgsnMz7T",
+  "snapshot_id": "aaOBgAAAAACVe32OVYpZ/d0iXEeCYGBr",
   "tracks": [
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 312373,
+      "name": "Hail Mary",
+      "url": "https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Until The End Of Time",
         "url": "https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV"
       },
@@ -247,26 +263,6 @@
       "duration_ms": 223973,
       "name": "Lil' Homies",
       "url": "https://open.spotify.com/track/6vBMMa2erexusV4XrgXea9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Better Dayz",
-        "url": "https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
-        }
-      ],
-      "duration_ms": 247600,
-      "name": "Thugz Mansion - 7 Remix",
-      "url": "https://open.spotify.com/track/3eBBbAEBQdr6tkUUd8gyuQ"
     },
     {
       "added_at": null,
@@ -291,24 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 312373,
-      "name": "Hail Mary",
-      "url": "https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Until The End Of Time",
-        "url": "https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV"
+        "name": "Better Dayz",
+        "url": "https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww"
       },
       "artists": [
         {
@@ -316,13 +296,13 @@
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         },
         {
-          "name": "Outlawz",
-          "url": "https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC"
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
         }
       ],
-      "duration_ms": 244933,
-      "name": "Breathin",
-      "url": "https://open.spotify.com/track/7k4dnllwnFDizWHAWkYXsh"
+      "duration_ms": 247600,
+      "name": "Thugz Mansion - 7 Remix",
+      "url": "https://open.spotify.com/track/3eBBbAEBQdr6tkUUd8gyuQ"
     },
     {
       "added_at": null,
@@ -343,6 +323,26 @@
       "duration_ms": 230786,
       "name": "Runnin' (Dying To Live)",
       "url": "https://open.spotify.com/track/3jdh7YQBCxykbhL7z0Ehu5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Until The End Of Time",
+        "url": "https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Outlawz",
+          "url": "https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC"
+        }
+      ],
+      "duration_ms": 244933,
+      "name": "Breathin",
+      "url": "https://open.spotify.com/track/7k4dnllwnFDizWHAWkYXsh"
     },
     {
       "added_at": null,

@@ -1,15 +1,31 @@
 {
-  "description": "Creators que voc\u00ea precisa ter no RADAR. Capa: <a href=\"spotify:show:5uQPyd1dYqB4Oepgk8HqMM\">obra aberta</a>",
-  "num_followers": 4899,
+  "description": "Creators que voc\u00ea precisa ter no RADAR. Capa: <a href=\"spotify:show:12dibRyPTOMitNNhVmlgnG\">Medo em Cia.</a>",
+  "num_followers": 4914,
   "original_name": "RADAR Creators Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFe8C9tLPIDOW4EJ7xLtJQ0MXLdu",
+  "snapshot_id": "AAAAAALuJkh0TEign/2cd9qH2JUdnJaA",
   "tracks": [
     {
-      "added_at": "2026-02-04 13:58:12",
+      "added_at": "2026-03-02 12:54:22",
+      "album": {
+        "name": "Medo em Cia.",
+        "url": "https://open.spotify.com/album/12dibRyPTOMitNNhVmlgnG"
+      },
+      "artists": [
+        {
+          "name": "Medo em Cia.",
+          "url": "https://open.spotify.com/show/12dibRyPTOMitNNhVmlgnG"
+        }
+      ],
+      "duration_ms": 1467267,
+      "name": "Episodio 41: historias sobrenaturais",
+      "url": "https://open.spotify.com/episode/1Y7noV5fK0ECB3XIJLKd7H"
+    },
+    {
+      "added_at": "2026-03-02 12:54:22",
       "album": {
         "name": "obra aberta",
         "url": "https://open.spotify.com/album/5uQPyd1dYqB4Oepgk8HqMM"
@@ -20,28 +36,12 @@
           "url": "https://open.spotify.com/show/5uQPyd1dYqB4Oepgk8HqMM"
         }
       ],
-      "duration_ms": 1467757,
-      "name": "\u00e9 poss\u00edvel ser feliz? #14",
-      "url": "https://open.spotify.com/episode/67j4nCKZbKLoLoguATjZHW"
+      "duration_ms": 1321862,
+      "name": "eu sou o meu trabalho? #17",
+      "url": "https://open.spotify.com/episode/2bsJzLgQVdFQXXZKIntP4m"
     },
     {
-      "added_at": "2026-02-05 14:24:44",
-      "album": {
-        "name": "obra aberta",
-        "url": "https://open.spotify.com/album/5uQPyd1dYqB4Oepgk8HqMM"
-      },
-      "artists": [
-        {
-          "name": "obra aberta",
-          "url": "https://open.spotify.com/show/5uQPyd1dYqB4Oepgk8HqMM"
-        }
-      ],
-      "duration_ms": 1298505,
-      "name": "amizade de baixa manuten\u00e7\u00e3o #11",
-      "url": "https://open.spotify.com/episode/1hFRm6iVBLMyWCGUz3Mm6D"
-    },
-    {
-      "added_at": "2026-02-02 13:19:14",
+      "added_at": "2026-03-02 12:54:22",
       "album": {
         "name": "S\u00f3 Pod Ser Hist\u00f3ria \u2022 Podcast",
         "url": "https://open.spotify.com/album/0thgoTntV114tkxYkGwI1t"
@@ -52,12 +52,12 @@
           "url": "https://open.spotify.com/show/0thgoTntV114tkxYkGwI1t"
         }
       ],
-      "duration_ms": 1108983,
-      "name": "S\u00f3 Pod 47 - Minha m\u00e3e sempre precisa roubar o que \u00e9 meu",
-      "url": "https://open.spotify.com/episode/0u1YPHcR6S3o2INFOaTN0X"
+      "duration_ms": 2760597,
+      "name": "S\u00f3 Pod 55 - Ele queria um filho, mas n\u00e3o queria ser pai",
+      "url": "https://open.spotify.com/episode/3cZuewsvd1FrBrnjEzKOji"
     },
     {
-      "added_at": "2026-02-02 13:19:14",
+      "added_at": "2026-03-02 12:54:22",
       "album": {
         "name": "Irris\u00f3rio Show",
         "url": "https://open.spotify.com/album/6tm0VBIICzSjddzmSN7BmS"
@@ -68,44 +68,12 @@
           "url": "https://open.spotify.com/show/6tm0VBIICzSjddzmSN7BmS"
         }
       ],
-      "duration_ms": 2667584,
-      "name": "Salvando Vidas #29 - Amante Estrat\u00e9gica",
-      "url": "https://open.spotify.com/episode/23TLwbNTsIXvhurfhqqCE8"
+      "duration_ms": 2779797,
+      "name": "Salvando Vidas #33 - Mulher Pepeka",
+      "url": "https://open.spotify.com/episode/4PhgvFx46p8bmmnBpshlC7"
     },
     {
-      "added_at": "2026-02-02 13:19:14",
-      "album": {
-        "name": "Para que N\u00e3o Percais os Miolos",
-        "url": "https://open.spotify.com/album/4dPjkPqNuC118hCi8HPocv"
-      },
-      "artists": [
-        {
-          "name": "Para que N\u00e3o Percais os Miolos",
-          "url": "https://open.spotify.com/show/4dPjkPqNuC118hCi8HPocv"
-        }
-      ],
-      "duration_ms": 1529103,
-      "name": "#67 - Ser\u00e1 que voc\u00ea \u00e9 capaz de amar de novo?",
-      "url": "https://open.spotify.com/episode/3B0ivjIEtKbxntFYNFqGUF"
-    },
-    {
-      "added_at": "2026-02-02 13:19:14",
-      "album": {
-        "name": "Tira Essa Brisa",
-        "url": "https://open.spotify.com/album/6ic6GUo8AVIRLHee4iEOLg"
-      },
-      "artists": [
-        {
-          "name": "Tira Essa Brisa",
-          "url": "https://open.spotify.com/show/6ic6GUo8AVIRLHee4iEOLg"
-        }
-      ],
-      "duration_ms": 704576,
-      "name": "esse homi vai te sabotar",
-      "url": "https://open.spotify.com/episode/6P4TTrVVzORBajP8fxpXGm"
-    },
-    {
-      "added_at": "2026-02-02 13:19:14",
+      "added_at": "2026-03-02 12:54:22",
       "album": {
         "name": "o clube dos 5 com Beta Boechat",
         "url": "https://open.spotify.com/album/1w7QLlSXZcUrvF6djRawtg"
@@ -116,12 +84,28 @@
           "url": "https://open.spotify.com/show/1w7QLlSXZcUrvF6djRawtg"
         }
       ],
-      "duration_ms": 2217406,
-      "name": "QUANDO EU VOMITEI NA FRENTE DE TODO MUNDO | Abrindo Par\u00eanteses #014",
-      "url": "https://open.spotify.com/episode/3KpbrsLwXVFtWWjLFUvTHo"
+      "duration_ms": 2837354,
+      "name": "PAIX\u00c3O T\u00d3RRIDA ENTRE UMA AULA E OUTRA",
+      "url": "https://open.spotify.com/episode/5STlXs7GvWSPzV3mga8o7q"
     },
     {
-      "added_at": "2026-02-02 13:19:14",
+      "added_at": "2026-03-02 12:54:22",
+      "album": {
+        "name": "Para que N\u00e3o Percais os Miolos",
+        "url": "https://open.spotify.com/album/4dPjkPqNuC118hCi8HPocv"
+      },
+      "artists": [
+        {
+          "name": "Para que N\u00e3o Percais os Miolos",
+          "url": "https://open.spotify.com/show/4dPjkPqNuC118hCi8HPocv"
+        }
+      ],
+      "duration_ms": 754369,
+      "name": "#71 - por que a gente teme tanto decepcionar?",
+      "url": "https://open.spotify.com/episode/0pK7ZhJ4h5cOHWTCvmmTXI"
+    },
+    {
+      "added_at": "2026-03-02 12:54:22",
       "album": {
         "name": "Estavu Show",
         "url": "https://open.spotify.com/album/1QrMXzBqJt5WAlzCsUmHNu"
@@ -132,25 +116,9 @@
           "url": "https://open.spotify.com/show/1QrMXzBqJt5WAlzCsUmHNu"
         }
       ],
-      "duration_ms": 2029981,
-      "name": "MEU NAMORADO ME TRAIU NO ROBLOX (PROIBID\u00c3O) #58",
-      "url": "https://open.spotify.com/episode/02ZavJB8jSepXNUZ82t5Dh"
-    },
-    {
-      "added_at": "2026-02-02 13:19:14",
-      "album": {
-        "name": "Don Podcast",
-        "url": "https://open.spotify.com/album/0ilOR20NgwNiwJXM9Uwd4p"
-      },
-      "artists": [
-        {
-          "name": "Don Podcast",
-          "url": "https://open.spotify.com/show/0ilOR20NgwNiwJXM9Uwd4p"
-        }
-      ],
-      "duration_ms": 8226176,
-      "name": "O FUTURO DE DRAGON BALL \ud83d\udc09 \u2013 DON #108",
-      "url": "https://open.spotify.com/episode/5S8xsH3D5J2p7pEAeXhzA7"
+      "duration_ms": 1981823,
+      "name": "HENTAI \u00c9 TRAI\u00c7\u00c3O OU N\u00c3O? (PROIBID\u00c3O) #61",
+      "url": "https://open.spotify.com/episode/6QEItRUXfYlbfjJsVT2dkQ"
     },
     {
       "added_at": "2026-02-02 13:19:14",
@@ -169,7 +137,23 @@
       "url": "https://open.spotify.com/episode/1vpAULqPatN2vQRJRsBNBA"
     },
     {
-      "added_at": "2026-02-02 13:19:14",
+      "added_at": "2026-03-02 12:54:22",
+      "album": {
+        "name": "Don Podcast",
+        "url": "https://open.spotify.com/album/0ilOR20NgwNiwJXM9Uwd4p"
+      },
+      "artists": [
+        {
+          "name": "Don Podcast",
+          "url": "https://open.spotify.com/show/0ilOR20NgwNiwJXM9Uwd4p"
+        }
+      ],
+      "duration_ms": 7583082,
+      "name": "RESOLVENDO TUDO NA GAMBIARRA \ud83d\udd27 \u2013 DON #113",
+      "url": "https://open.spotify.com/episode/54AKrYUmDvGZF6obpF2XeQ"
+    },
+    {
+      "added_at": "2026-03-02 12:54:22",
       "album": {
         "name": "Colo de amiga por @sofidisse",
         "url": "https://open.spotify.com/album/5j7Xq0NEDtSOahTZK3bVLc"
@@ -180,25 +164,9 @@
           "url": "https://open.spotify.com/show/5j7Xq0NEDtSOahTZK3bVLc"
         }
       ],
-      "duration_ms": 1454637,
-      "name": "pra quem tenta controlar tudo ",
-      "url": "https://open.spotify.com/episode/3oyqQnV1Tu44Z92hXdPwg7"
-    },
-    {
-      "added_at": "2026-02-02 13:19:14",
-      "album": {
-        "name": "At\u00e9 a\u00ed, ok!",
-        "url": "https://open.spotify.com/album/0QukQs0ML5vk7MvOh05bth"
-      },
-      "artists": [
-        {
-          "name": "At\u00e9 a\u00ed, ok!",
-          "url": "https://open.spotify.com/show/0QukQs0ML5vk7MvOh05bth"
-        }
-      ],
-      "duration_ms": 2267357,
-      "name": "#203. Beb\u00ea da mam\u00e3e",
-      "url": "https://open.spotify.com/episode/5Qk3Gd1ERTYd67lWQ8IcRl"
+      "duration_ms": 1460047,
+      "name": "lealdades invis\u00edveis com a nossa fam\u00edlia ",
+      "url": "https://open.spotify.com/episode/4A7aNcTCAplm3Y44WRSWuk"
     }
   ],
   "unique_name": "RADAR Creators Brasil",

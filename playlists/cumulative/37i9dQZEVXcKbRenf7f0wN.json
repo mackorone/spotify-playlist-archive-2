@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 263960,
       "name": "Adi\u00f3s al S\u00e9ptimo de la L\u00ednea",
       "url": "https://open.spotify.com/track/6pmhdyuPqOCF9JsVmwNBpU"
@@ -1558,7 +1558,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-25",
+      "date_removed": null,
       "duration_ms": 208065,
       "name": "Aguardiente",
       "url": "https://open.spotify.com/track/0fOuCh4VKMSYFtDN9kAptE"
@@ -1702,7 +1702,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 137000,
       "name": "Al Colegio No Voy M\u00e1s",
       "url": "https://open.spotify.com/track/17HmjqKPaPPyiUxbDSKVWa"
@@ -4408,7 +4408,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 186848,
       "name": "Bailando Como Mono",
       "url": "https://open.spotify.com/track/78W3YEn0ftQh6aalbJNzCm"
@@ -7910,7 +7910,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 255720,
       "name": "Candombe Para Jos\u00e9",
       "url": "https://open.spotify.com/track/6AkRD0PiHw6DYKTUefJzAg"
@@ -8126,7 +8126,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 150240,
       "name": "Caramelo de Menta",
       "url": "https://open.spotify.com/track/5dsVLR7BawlneuBGl0dWZs"
@@ -9701,6 +9701,24 @@
     },
     {
       "album": {
+        "name": "Ke Patine la Risa",
+        "url": "https://open.spotify.com/album/4aKjHpVIEb0jmE59SlAukO"
+      },
+      "artists": [
+        {
+          "name": "Tronic",
+          "url": "https://open.spotify.com/artist/5HkHDnrE6HW1FsD5gf8nrw"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Combo Final",
+      "url": "https://open.spotify.com/track/0zDKhwh35eqYyiIt9z03Wj"
+    },
+    {
+      "album": {
         "name": "Placebo",
         "url": "https://open.spotify.com/album/7Jyg6ic5h9BDJ3WuYWYA6K"
       },
@@ -10198,7 +10216,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 140400,
       "name": "Coraz\u00f3n Desilucionado",
       "url": "https://open.spotify.com/track/7tuACuijPSvfCR78bRY5Lh"
@@ -10908,7 +10926,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 148416,
       "name": "Curao Manejo Mejor - En vivo",
       "url": "https://open.spotify.com/track/7IgSnx61g2BzzsxwnPOHPf"
@@ -11056,7 +11074,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 316240,
       "name": "C\u00f3mo Dejar de Amarte y Otros",
       "url": "https://open.spotify.com/track/6vbEkR2wQICprZzMVU7DOB"
@@ -11712,7 +11730,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 141000,
       "name": "De Coquimbo Soy",
       "url": "https://open.spotify.com/track/1dq2KsiAXK5Yoy99Pswd81"
@@ -14881,6 +14899,24 @@
     },
     {
       "album": {
+        "name": "El B\u00fafalo",
+        "url": "https://open.spotify.com/album/1JXRUAB2Uf9SQyScREhT1h"
+      },
+      "artists": [
+        {
+          "name": "LOS BANDOLEROS",
+          "url": "https://open.spotify.com/artist/1APgQIJqCsfUhmQXa3q6KS"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157520,
+      "name": "El B\u00fafalo",
+      "url": "https://open.spotify.com/track/2LTLMn5PUcuxj5ZAGqvgHj"
+    },
+    {
+      "album": {
         "name": "Evil",
         "url": "https://open.spotify.com/album/2Lx0ZVDWhHAVR01bkGFDHl"
       },
@@ -15018,7 +15054,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 151440,
       "name": "El Curanto",
       "url": "https://open.spotify.com/track/6yz9JwqdUoR2zx9FAK3bya"
@@ -15148,7 +15184,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 277093,
       "name": "El Derecho de Vivir en Paz",
       "url": "https://open.spotify.com/track/33nztJSpoZityjQp6rMT22"
@@ -15220,7 +15256,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 239412,
       "name": "El Gale\u00f3n Espa\u00f1ol",
       "url": "https://open.spotify.com/track/4mDkv0hS00YL3UhGy81IVJ"
@@ -15328,7 +15364,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 192293,
       "name": "El Juego Verdadero",
       "url": "https://open.spotify.com/track/74UB6CQRH9ykJEh9ma3XwD"
@@ -15382,7 +15418,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 251386,
       "name": "El Mercado Testaccio (Instrumental) - En Vivo",
       "url": "https://open.spotify.com/track/7pMn9LcH9l2e7JtkGByLvX"
@@ -15498,7 +15534,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 230870,
       "name": "El Quinto Teletubie",
       "url": "https://open.spotify.com/track/2AxwPyIAhs1eaxzeq1hlA3"
@@ -18998,7 +19034,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 172440,
       "name": "Fugitivo de Alcatraz",
       "url": "https://open.spotify.com/track/65GwK8AQ9vryOP4QNmEIyp"
@@ -21928,7 +21964,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 179440,
       "name": "Hijo de Puta",
       "url": "https://open.spotify.com/track/2GEzC3xMzHAJHXTDgMC8Ov"
@@ -27420,7 +27456,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 127613,
       "name": "La Consentida",
       "url": "https://open.spotify.com/track/4TUMZBtQISdb2NUiaEMemd"
@@ -27438,7 +27474,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 187266,
       "name": "La Corbata de Mi T\u00edo",
       "url": "https://open.spotify.com/track/6C9EyEJDlOXRRHM8PluVfH"
@@ -27751,6 +27787,24 @@
     },
     {
       "album": {
+        "name": "Magos, Espadas Y Rosas",
+        "url": "https://open.spotify.com/album/4ZVdhrTnRFM8OYwB9lp71x"
+      },
+      "artists": [
+        {
+          "name": "Rata Blanca",
+          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325213,
+      "name": "La Leyenda Del Hada Y El Mago",
+      "url": "https://open.spotify.com/track/7wuDJMcpXaIxRvJq7iG2bM"
+    },
+    {
+      "album": {
         "name": "XX Aniversario En Vivo - Magos, Espadas Y Rosas",
         "url": "https://open.spotify.com/album/7dbk5SnWgnt485vlCizXBE"
       },
@@ -27964,7 +28018,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 234480,
       "name": "La Partida",
       "url": "https://open.spotify.com/track/2KBiQ5sviRQN0UkKSbTnqc"
@@ -28276,7 +28330,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 280980,
       "name": "La Vida No Es Recta",
       "url": "https://open.spotify.com/track/5YCAJdABeJxMSnH10AUXzL"
@@ -28330,7 +28384,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 248225,
       "name": "La Voz de los '80",
       "url": "https://open.spotify.com/track/68fQEYthnIBfASh33O0jXA"
@@ -30208,7 +30262,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 240493,
       "name": "Los Paraguas",
       "url": "https://open.spotify.com/track/4rNyJQTMPrqIuwSnxo1hAg"
@@ -31016,7 +31070,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 185400,
       "name": "Macondo - Duo Con Luisin Land\u00e1ez",
       "url": "https://open.spotify.com/track/5bf77ytze59m8jhYWe8xgy"
@@ -31402,7 +31456,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 296026,
       "name": "Mambo de Machaguay",
       "url": "https://open.spotify.com/track/0Rcdp0qyqZN5peE2hg8rH5"
@@ -32302,7 +32356,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 200253,
       "name": "Mentira",
       "url": "https://open.spotify.com/track/6Kj0zHrDKwDzsD23wzqOIj"
@@ -33672,7 +33726,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 264000,
       "name": "Mujeres y Cerveza",
       "url": "https://open.spotify.com/track/4OQFEhBjUxb8BgS22p0VAU"
@@ -35628,7 +35682,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 214800,
       "name": "No Quiero Dormir",
       "url": "https://open.spotify.com/track/7f7xS49CafNLc5nInF6Lyb"
@@ -37910,7 +37964,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 222200,
       "name": "Pasto Seco",
       "url": "https://open.spotify.com/track/2mhjHNjT6kmUyQdOydzNEC"
@@ -41258,7 +41312,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 156426,
       "name": "Reina del Tamarugal",
       "url": "https://open.spotify.com/track/1Kj78kt0yKKNeDOyVgubXF"
@@ -41384,7 +41438,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 128573,
       "name": "Resistir\u00e9",
       "url": "https://open.spotify.com/track/7rxftSjmrY9sAqSDx7ImZH"
@@ -41834,7 +41888,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 159360,
       "name": "Rock Del Mundial",
       "url": "https://open.spotify.com/track/7M9UVXh4U227MXzhSLD4Pp"
@@ -42508,6 +42562,24 @@
     {
       "album": {
         "name": "Ca\u00edda Libre",
+        "url": "https://open.spotify.com/album/51gseHSeXqIQpoY0hXBPST"
+      },
+      "artists": [
+        {
+          "name": "Los Ex",
+          "url": "https://open.spotify.com/artist/4sWPy7Kj9RwdpAxe5onUhP"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162200,
+      "name": "Sacar la Basura",
+      "url": "https://open.spotify.com/track/3deATbe1MeCH8yivOKC4QN"
+    },
+    {
+      "album": {
+        "name": "Ca\u00edda Libre",
         "url": "https://open.spotify.com/album/210BiSFEeDr1u2xg2F3AVn"
       },
       "artists": [
@@ -42684,7 +42756,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 234280,
       "name": "Sakate Uno",
       "url": "https://open.spotify.com/track/06fawjV5hKobNhHF82dKMl"
@@ -45276,7 +45348,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 156181,
       "name": "Sin Salida",
       "url": "https://open.spotify.com/track/717KPIAK8z7ksY3Aeob1Nf"
@@ -46638,6 +46710,24 @@
       "duration_ms": 187506,
       "name": "Soy Feo Pero Rico",
       "url": "https://open.spotify.com/track/5AxCeaFkhDFtFT384IRRJ8"
+    },
+    {
+      "album": {
+        "name": "Otras Canciones",
+        "url": "https://open.spotify.com/album/7puiKW3huokZs5qtYK4o0K"
+      },
+      "artists": [
+        {
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159986,
+      "name": "Soy Rebelde",
+      "url": "https://open.spotify.com/track/1t91X0arqwidUasImA8Gv9"
     },
     {
       "album": {
@@ -49628,7 +49718,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 169986,
       "name": "Te Enojai por Todo",
       "url": "https://open.spotify.com/track/5927nKbonEX4UV9ehEZG7S"
@@ -54718,7 +54808,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 214213,
       "name": "Una L\u00e1grima En La Garganta",
       "url": "https://open.spotify.com/track/4KJM2D7Jix5BDkkXQd36AV"
@@ -55788,7 +55878,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 166159,
       "name": "Vicio",
       "url": "https://open.spotify.com/track/6CyhHT96tGHKZbiO2RP3Cl"
@@ -55932,7 +56022,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 241880,
       "name": "Viernes",
       "url": "https://open.spotify.com/track/5mHmWQEt1SHGlVCeMIqhoH"
@@ -55986,7 +56076,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 169799,
       "name": "Vinito tinto",
       "url": "https://open.spotify.com/track/0vW0DzIntmHv8CZoK1i5cx"
@@ -56372,7 +56462,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 169959,
       "name": "Vota 5 Vota Kast (Viral El Denin)",
       "url": "https://open.spotify.com/track/4GNvSj2b7uPSn52vltr7DZ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie en español con Rubio en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,766 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,743 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 16 | [Ropa Nueva](https://open.spotify.com/track/35mNa2aOdaydhErcCew4P3) | [Guzmen](https://open.spotify.com/artist/7hF6UMdXdBUOtQbYJtxGtd) | [Ropa Nueva](https://open.spotify.com/album/6KJK5ApH0gA2PJSCim8yyu) | 2:31 |
 | 17 | [Brilla el sol](https://open.spotify.com/track/6n88P24r5XiVb7qXfkXFya) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF) | [Brilla el sol](https://open.spotify.com/album/2hQ31mZrkKFlqwulf87IDr) | 3:22 |
 | 18 | [AUTHOR YOURSELF](https://open.spotify.com/track/2oPeoGBpLJ3FA55vTB3L7c) | [Akira The Don](https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora), [Scott Adams](https://open.spotify.com/artist/53zs7LfTW3EVF8iUvRs5y3) | [AUTHOR YOURSELF](https://open.spotify.com/album/25WPSIYZMp7jhSKK50jCgk) | 3:40 |
-| 19 | [Mi peña](https://open.spotify.com/track/5E76WEiqJDcZnf2VD801lX) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy), [PatataOnStereo](https://open.spotify.com/artist/1Oc9GLjfd9AbkyxEwFUxGR), [Teo Lucadamo](https://open.spotify.com/artist/7mwMldjYYpCRmYvoLCy7qj), [Escandaloso Xpósito](https://open.spotify.com/artist/0GUmY2qAmker4cB3VnpKVf) | [Mi peña](https://open.spotify.com/album/42BxwxIlOzVDBNJC9NMflJ) | 3:14 |
+| 19 | [Mi peña](https://open.spotify.com/track/5E76WEiqJDcZnf2VD801lX) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy), [Teo Lucadamo](https://open.spotify.com/artist/7mwMldjYYpCRmYvoLCy7qj), [PatataOnStereo](https://open.spotify.com/artist/1Oc9GLjfd9AbkyxEwFUxGR), [Escandaloso Xpósito](https://open.spotify.com/artist/0GUmY2qAmker4cB3VnpKVf) | [Mi peña](https://open.spotify.com/album/42BxwxIlOzVDBNJC9NMflJ) | 3:14 |
 | 20 | [Carnaval](https://open.spotify.com/track/38z6IVmEDw5CncRT1AIT4d) | [Silverio](https://open.spotify.com/artist/1Du4cMgDEKryT08bQdMqpV) | [Carnaval](https://open.spotify.com/album/5TFzR86ScBslTadTzb2E5D) | 4:00 |
 | 21 | [insolación](https://open.spotify.com/track/4QaFxvjhdW02rhXbNiHc44) | [Fillas de Cassandra](https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5) | [insolación](https://open.spotify.com/album/1xjURlCp4pM1sMfaUtbFhp) | 3:47 |
 | 22 | [tu reflejo](https://open.spotify.com/track/0gTA4vHJNpMTkTqcr5BMau) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [tu reflejo](https://open.spotify.com/album/7H5fSpJLk0Q1TjIFTfVXj0) | 3:52 |

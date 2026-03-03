@@ -962,7 +962,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 179586,
       "name": "404 (New Era)",
       "url": "https://open.spotify.com/track/24rDDbSlFY9OHrlJb48CRh"
@@ -1891,7 +1891,7 @@
       "artists": [
         {
           "name": "Shifty Brent",
-          "url": "https://open.spotify.com/artist/3hn5NjFQsIJLGrrAWCDCci"
+          "url": "https://open.spotify.com/artist/1x0YcF98Fketh6iGtkAfSX"
         }
       ],
       "date_added": "2026-01-30",
@@ -4290,7 +4290,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 166779,
       "name": "AWGAZI",
       "url": "https://open.spotify.com/track/2D9coh76MCXNqDEUCHl5vl"
@@ -13741,6 +13741,28 @@
     },
     {
       "album": {
+        "name": "Dracula (Remix)",
+        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209720,
+      "name": "Dracula - JENNIE Remix",
+      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
+    },
+    {
+      "album": {
         "name": "DRAGO AUGUSTINO",
         "url": "https://open.spotify.com/album/5eay977L3PSc3kaq3l7Ouq"
       },
@@ -17005,6 +17027,24 @@
     },
     {
       "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/71faxgxtIua8WZLM9v9U6v"
+      },
+      "artists": [
+        {
+          "name": "Sarah Engels",
+          "url": "https://open.spotify.com/artist/7iK3kLye8FTBgYuqhg7v5P"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177692,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/2j5D20BxsN7xl11KcnLyHP"
+    },
+    {
+      "album": {
         "name": "Fire Fire",
         "url": "https://open.spotify.com/album/7rIqdKsiVJ2ZAHtxFJm6jf"
       },
@@ -18902,7 +18942,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 212363,
       "name": "Generation Z",
       "url": "https://open.spotify.com/track/5ylClqJDNlNXI3yUlcMjR7"
@@ -22242,7 +22282,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-02",
+      "date_removed": null,
       "duration_ms": 132608,
       "name": "Herz",
       "url": "https://open.spotify.com/track/6z0kKKHiOoAN8vDYdGFTLu"
@@ -23938,7 +23978,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 138720,
       "name": "I Drift Out, Then Return",
       "url": "https://open.spotify.com/track/0m6A4F1mnR1HVPnzM3Tg3u"
@@ -25418,7 +25458,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 207600,
       "name": "Immer vorw\u00e4rts FP\u00d6",
       "url": "https://open.spotify.com/track/3fRWQFpWHfnUTnaBu26M2T"
@@ -33618,6 +33658,24 @@
     {
       "album": {
         "name": "Midnight On My Mind",
+        "url": "https://open.spotify.com/album/6MqDEAerG1VLqinmhUwkT9"
+      },
+      "artists": [
+        {
+          "name": "MANSA",
+          "url": "https://open.spotify.com/artist/6i2ssO4LVLEFlyn2EMLmKF"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "Midnight On My Mind",
+      "url": "https://open.spotify.com/track/53l9ZVeYt4rUkCTqCl52fq"
+    },
+    {
+      "album": {
+        "name": "Midnight On My Mind",
         "url": "https://open.spotify.com/album/4ohrHConAk6wulyykEqegp"
       },
       "artists": [
@@ -33628,7 +33686,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 198750,
       "name": "Midnight On My Mind",
       "url": "https://open.spotify.com/track/7sgW3NDrARhwIa7z9CNlyw"
@@ -35444,7 +35502,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 150770,
       "name": "MY JEALOUSY",
       "url": "https://open.spotify.com/track/2eZlv5pUAVdJ130QzfyUSD"
@@ -37620,7 +37678,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-01",
+      "date_removed": null,
       "duration_ms": 172439,
       "name": "Ohne Gummi pudern",
       "url": "https://open.spotify.com/track/4sIL1XRz76D0OXgOW1Vq9J"
@@ -45688,7 +45746,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-02",
+      "date_removed": null,
       "duration_ms": 180582,
       "name": "Someone Out Of Town",
       "url": "https://open.spotify.com/track/4QrE7JVAi54WYRTO4y0yKb"
@@ -45706,7 +45764,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 181173,
       "name": "Someone Out of Town",
       "url": "https://open.spotify.com/track/3Tb6RlqXPldaQVasxc68cP"

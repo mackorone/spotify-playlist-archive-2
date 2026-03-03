@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 699391,
+  "num_followers": 699431,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaIwAAAAAAAR+Zn6zv2OwcHDthZmMtLZ",
+  "snapshot_id": "aaOBgAAAAAA979djxpRkhDMMtJPE1z90",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Blue",
-        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 268533,
-      "name": "Papa Don't Preach",
-      "url": "https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ray of Light",
         "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 251160,
       "name": "The Power of Good-Bye",
       "url": "https://open.spotify.com/track/01VFDkHBNJcCNUjzD3flWg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "True Blue",
+        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 268533,
+      "name": "Papa Don't Preach",
+      "url": "https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr"
     },
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Like a Virgin",
+        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "Dress You Up",
+      "url": "https://open.spotify.com/track/1Fhx9C87IjEAtWI9FF0IzF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Music",
         "url": "https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu"
       },
@@ -595,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like a Virgin",
-        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "Dress You Up",
-      "url": "https://open.spotify.com/track/1Fhx9C87IjEAtWI9FF0IzF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confessions on a Dance Floor",
         "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
       },
@@ -623,6 +623,26 @@
       "duration_ms": 315466,
       "name": "Get Together",
       "url": "https://open.spotify.com/track/1AQQ9DdpEemMVTHNz4eG9a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Chris Lord-Alge",
+          "url": "https://open.spotify.com/artist/1zRwW2z5JOtEgK5OESwlgx"
+        }
+      ],
+      "duration_ms": 227973,
+      "name": "La Isla Bonita",
+      "url": "https://open.spotify.com/track/5g7xZ7eoCpNt4Zm2UbE2U5"
     },
     {
       "added_at": null,
@@ -691,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Immaculate Collection",
-        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Chris Lord-Alge",
-          "url": "https://open.spotify.com/artist/1zRwW2z5JOtEgK5OESwlgx"
-        }
-      ],
-      "duration_ms": 227973,
-      "name": "La Isla Bonita - Remix",
-      "url": "https://open.spotify.com/track/5g7xZ7eoCpNt4Zm2UbE2U5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LA BAMBOLA (FOR DOLCE & GABBANA - the one)",
         "url": "https://open.spotify.com/album/37EsuQ9TUWNuxc0lLGh5dM"
       },
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confessions on a Dance Floor",
-        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 262320,
-      "name": "Forbidden Love",
-      "url": "https://open.spotify.com/track/2DuaKXVHCHSSTTeOnYSMG9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Evita: The Complete Motion Picture Music Soundtrack",
         "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
       },
@@ -791,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Erotica (PA Version)",
-        "url": "https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ"
+        "name": "Confessions on a Dance Floor",
+        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
       },
       "artists": [
         {
@@ -800,9 +784,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 291360,
-      "name": "Thief of Hearts",
-      "url": "https://open.spotify.com/track/0g8pRR7OcNonUgQnbpUs5B"
+      "duration_ms": 262320,
+      "name": "Forbidden Love",
+      "url": "https://open.spotify.com/track/2DuaKXVHCHSSTTeOnYSMG9"
     },
     {
       "added_at": null,
@@ -819,6 +803,22 @@
       "duration_ms": 278135,
       "name": "You'll See",
       "url": "https://open.spotify.com/track/0Fb8sdyNluLawg08N1zs48"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Erotica (PA Version)",
+        "url": "https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 291360,
+      "name": "Thief of Hearts",
+      "url": "https://open.spotify.com/track/0g8pRR7OcNonUgQnbpUs5B"
     },
     {
       "added_at": null,
@@ -851,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Breathless",
-        "url": "https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED"
+        "name": "Ray of Light",
+        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 94986,
-      "name": "Now I'm Following You (Part I)",
-      "url": "https://open.spotify.com/track/0mPPeHgx3Kxj85Olq1hNU7"
+      "duration_ms": 308880,
+      "name": "Drowned World / Substitute for Love",
+      "url": "https://open.spotify.com/track/0beXeFEWUYYY13fYVHTtFk"
     }
   ],
   "unique_name": "This Is Madonna",

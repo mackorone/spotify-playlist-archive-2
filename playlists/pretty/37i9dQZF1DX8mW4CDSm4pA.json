@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/domfishback/\">Dominique Fishback</a>. ",
-  "num_followers": 4969,
+  "num_followers": 4981,
   "original_name": "Dominique Fishback's Taste",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Find Me",
-        "url": "https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C"
-      },
-      "artists": [
-        {
-          "name": "Joseph Solomon",
-          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
-        }
-      ],
-      "duration_ms": 206460,
-      "name": "The Ocean",
-      "url": "https://open.spotify.com/track/18FsPeHdE9xPtQgnsVbiU5"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "With A Lot O' Soul",
         "url": "https://open.spotify.com/album/1nklkfuUUujG5s3wL6mfuL"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 149493,
       "name": "(I Know) I'm Losing You",
       "url": "https://open.spotify.com/track/6y8o4V2R2dSt2ijgL8C72W"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Find Me",
+        "url": "https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C"
+      },
+      "artists": [
+        {
+          "name": "Joseph Solomon",
+          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
+        }
+      ],
+      "duration_ms": 206460,
+      "name": "The Ocean",
+      "url": "https://open.spotify.com/track/18FsPeHdE9xPtQgnsVbiU5"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Infinite Possibilities",
-        "url": "https://open.spotify.com/album/4L3sYcWC4WVWo3auC0WfxL"
-      },
-      "artists": [
-        {
-          "name": "Amel Larrieux",
-          "url": "https://open.spotify.com/artist/4hVcxmC7igpot32EzQf7IR"
-        }
-      ],
-      "duration_ms": 270760,
-      "name": "Make Me Whole",
-      "url": "https://open.spotify.com/track/6nVWopkV9TK2YR7HZUh8oS"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "Instrumental Bob Marley Renditions on Spanish Acoustic Guitars: Reggae Legend",
         "url": "https://open.spotify.com/album/3ThiyzIJh5ZBEyOnHNJ8DN"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 482963,
       "name": "No Woman No Cry (Instrumental Version)",
       "url": "https://open.spotify.com/track/21vKvJCRwHNw5c44CYSf7s"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Infinite Possibilities",
+        "url": "https://open.spotify.com/album/4L3sYcWC4WVWo3auC0WfxL"
+      },
+      "artists": [
+        {
+          "name": "Amel Larrieux",
+          "url": "https://open.spotify.com/artist/4hVcxmC7igpot32EzQf7IR"
+        }
+      ],
+      "duration_ms": 270760,
+      "name": "Make Me Whole",
+      "url": "https://open.spotify.com/track/6nVWopkV9TK2YR7HZUh8oS"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Like Water For Chocolate",
-        "url": "https://open.spotify.com/album/0ZSwTSaR9VUe3uYsXNQgub"
-      },
-      "artists": [
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        }
-      ],
-      "duration_ms": 261693,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/5NiUrZVKyLpsyj62Roq5FW"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "Black Woman",
         "url": "https://open.spotify.com/album/3Ek8F9NkwDbwcHGGw326Kb"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 249732,
       "name": "Black Woman",
       "url": "https://open.spotify.com/track/5tyD0d7gkhtVtiDZibjzem"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Like Water For Chocolate",
+        "url": "https://open.spotify.com/album/0ZSwTSaR9VUe3uYsXNQgub"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        }
+      ],
+      "duration_ms": 261693,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/5NiUrZVKyLpsyj62Roq5FW"
     },
     {
       "added_at": "2023-06-01 04:00:00",

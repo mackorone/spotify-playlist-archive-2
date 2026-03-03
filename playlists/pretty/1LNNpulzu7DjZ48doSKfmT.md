@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 462 likes - 370 songs - 18 hr 36 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 461 likes - 378 songs - 19 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -364,7 +364,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 354 | [ALL NIGHT](https://open.spotify.com/track/4Fsj30TJ3n223JHwj8TnPN) | [Asanni Armon](https://open.spotify.com/artist/2c4SvUMW4DTtQL6o3XAT2W) | [SHAPESHIFTER: RIM NEBULA](https://open.spotify.com/album/47gqLOJ63J9Cf3kRmp1vXg) | 2:34 |
 | 355 | [Same Room Far Away](https://open.spotify.com/track/3KacxoOcjer5QjDS18TzNK) | [Laika](https://open.spotify.com/artist/4WtczNoRuPSMFAp8F5pYpP) | [Same Room Far Away](https://open.spotify.com/album/5U4XmKLT86l7e1nXgZtTNK) | 2:50 |
 | 356 | [Ready 2 Fight](https://open.spotify.com/track/4dR3qPBdCFOaL93T21mcOl) | [Skilteck](https://open.spotify.com/artist/0kA7YYrQJET0k0b3VHVZ2c), [Mass Mason](https://open.spotify.com/artist/5TjvulS2dmMVJqjCCrXcpB) | [Ready 2 Fight](https://open.spotify.com/album/7DoJY7iZQwAs6ruMpsgOF7) | 3:34 |
-| 357 | [Crasheando](https://open.spotify.com/track/5A4OAVBtfO7VApN31ZmqQ3) | [$haxx](https://open.spotify.com/artist/7zTbkJg8yM2JBEEGVChmXA) | [Crasheando](https://open.spotify.com/album/1aK3ljqzEoaKVH9kn91xhw) | 2:36 |
+| 357 | [Crasheando \- Single version](https://open.spotify.com/track/5A4OAVBtfO7VApN31ZmqQ3) | [$haxx](https://open.spotify.com/artist/7zTbkJg8yM2JBEEGVChmXA) | [Crasheando](https://open.spotify.com/album/1aK3ljqzEoaKVH9kn91xhw) | 2:36 |
 | 358 | [Tana](https://open.spotify.com/track/5WpBwvEm4Vt7ovEEEWnHam) | [Ovthex](https://open.spotify.com/artist/5GitDiJdtHyC7aHejcDn7s) | [Tana](https://open.spotify.com/album/0iaJ77oH01fBny9D8xb8gF) | 2:37 |
 | 359 | [My kitchen](https://open.spotify.com/track/6WUirznnrFNMr5BREOtCeU) | [stunta23x](https://open.spotify.com/artist/4CJqwU9sE3eO7xvDPR4fuI), [Packaso](https://open.spotify.com/artist/77LOUHH1x4swIhmUa7cwsE) | [$tack or strave](https://open.spotify.com/album/1a7mXlgJEiQiof724lWtnm) | 2:36 |
 | 360 | [Without Your Name](https://open.spotify.com/track/0S8g6wEBjalMKu8Q3UXYrh) | [Hysner](https://open.spotify.com/artist/2BwZkpBNE26Lx6pbESA93b) | [Without Your Name](https://open.spotify.com/album/1lyWUaCzczYPwDt5ejaHP4) | 3:18 |
@@ -378,5 +378,13 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 368 | [The One I Want Beside Me](https://open.spotify.com/track/4EtCyjZQCF2fxV6eKYxXXH) | [Solo el Malo](https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8) | [The One I Want Beside Me](https://open.spotify.com/album/6k3PoNmrxC5o2gYpjvFm6b) | 3:51 |
 | 369 | [Esta Noche](https://open.spotify.com/track/3LHWhxRWqCZ1Wcj0QqCusn) | [Gabo Rojas](https://open.spotify.com/artist/5C5sb51jWedqQe24VmHAM9) | [Esta Noche](https://open.spotify.com/album/4QjbaySL7cdsca0tBjZJ0w) | 2:35 |
 | 370 | [ill intended](https://open.spotify.com/track/0iyb8xWNj6tCsznTDxeMVl) | [GavinDaVinci](https://open.spotify.com/artist/50XSxBGeYosKWspvCRxfu6) | [ill intended](https://open.spotify.com/album/2Fp9k5gZSSaIUbWe5PR764) | 2:26 |
+| 371 | [2](https://open.spotify.com/track/0XeTztIZmy7ytLzTwwHJC4) | [Dayjéansworld](https://open.spotify.com/artist/3h02B4ogGD2v8jsjv7BWFZ) | [F\#CKYOU](https://open.spotify.com/album/4VZLBRdJpUqlbN0WjYGHD3) | 3:09 |
+| 372 | [THE BEAST SLEEPS IN ME](https://open.spotify.com/track/4AYgPlI7O19uEq79wCtAzi) | [Maffy Miller](https://open.spotify.com/artist/5KJRm0D0rqtorpRX137abW) | [MONSTERGOD](https://open.spotify.com/album/3sYErZ9dEaKpc3037uVDX7) | 3:11 |
+| 373 | [Make it Someday](https://open.spotify.com/track/1yUxYoPyWkewU1Ai4BB0pV) | [Lighten Up, Francis](https://open.spotify.com/artist/53Ff651JKd4ooOWJ51qkGU) | [Make it Someday](https://open.spotify.com/album/5mxHt0ap4MfroXTcu6yxBo) | 4:57 |
+| 374 | [Over The Ashes](https://open.spotify.com/track/3bEcIavlSWlZZIFm3TrgQA) | [Cyfnos](https://open.spotify.com/artist/14ywOW1zA8u5jYhABPTkDr) | [Community](https://open.spotify.com/album/5nlp0nrXyhsJq0aDStOLsu) | 2:11 |
+| 375 | [Finding My Way](https://open.spotify.com/track/1ouVDLPNLjyUgNgRKBdD76) | [Chris Thomas & The Merrymakers](https://open.spotify.com/artist/5RLeiUJAXGtm9Ag6LxnJdr) | [On The Road \(The Living Legend\)](https://open.spotify.com/album/0nrhAp9NOVThvDINiG2TKj) | 4:47 |
+| 376 | [Hard To Rest](https://open.spotify.com/track/0OwOR7QUSXloUe4ujY8XXu) | [YK KYPHO](https://open.spotify.com/artist/76wuAPWBxPtjkEItuWQ9xH), [Kid Vilho](https://open.spotify.com/artist/3wP4wLLGxfYaj4dSWkO1eR) | [Dystopia](https://open.spotify.com/album/7a9Y8otyjqsa6cbgNoTBxx) | 1:49 |
+| 377 | [Rituals](https://open.spotify.com/track/22jnSqBJ5fxftDizxD4sid) | [Ashanti Selah](https://open.spotify.com/artist/1IdpvTfGDPshOD7PaYPAkS), [Oscat!](https://open.spotify.com/artist/7gLeWgrrsswx6MYFL4c3SA) | [Rituals](https://open.spotify.com/album/790fxRQeupN9YpHLNiWYiK) | 5:12 |
+| 378 | [Paga Minha Grana](https://open.spotify.com/track/4oTcvL95uKQ8vd6cZKnjpS) | [Tchurran](https://open.spotify.com/artist/4SSe2iJKwLBp6LKtWpyFiX) | [Paga Minha Grana](https://open.spotify.com/album/1Ky0i8bqJpSyYJAFzp1OOi) | 2:26 |
 
-Snapshot ID: `AAAcGmrsCXNWpLW+YopOlQGypmXZ4Vd4`
+Snapshot ID: `AAAcIkWcrjT6uoC4IUshYsAN7UXU5s6e`

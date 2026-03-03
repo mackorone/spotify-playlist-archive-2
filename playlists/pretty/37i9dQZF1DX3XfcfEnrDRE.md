@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > Songs representing Alternative music's ever\-evolving sound paired with these artists' everlasting faith\.  Cover: Abbie Gamboa
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,058 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,097 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 7 | [Easy](https://open.spotify.com/track/5dngRLb9IzRjl3b3sl4ZRi) | [lydi lynn](https://open.spotify.com/artist/6jGJeOQrvBV8UKsvWGQkJI) | [Easy](https://open.spotify.com/album/5EecMf7PO9gHFsQsbh3yKG) | 4:30 |
 | 8 | [Enough!](https://open.spotify.com/track/0SuC99M8imUnCwvMsmGiGZ) | [Wavorly](https://open.spotify.com/artist/3RoZGUZ3okwI6E5ETlVCJv) | [Enough!](https://open.spotify.com/album/2ECLXxxCxW08CVMpuXJOAH) | 3:31 |
 | 9 | [Too Good](https://open.spotify.com/track/0q73rWQ84M1CszFeWxCGIv) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [Too Good](https://open.spotify.com/album/4CdYApuFfFvZoVoIfY3IWH) | 3:55 |
-| 10 | [LEMONADE \(PUNK VERSION\)](https://open.spotify.com/track/2gk5ftUHDS2hvxLH18T70Z) | [Grace Graber](https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK) | [LEMONADE \(PUNK VERSION\)](https://open.spotify.com/album/5XTbXEHWlgJz4a5j2Ekjbr) | 2:04 |
+| 10 | [LEMONADE \- PUNK VERSION](https://open.spotify.com/track/2gk5ftUHDS2hvxLH18T70Z) | [Grace Graber](https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK) | [LEMONADE \(PUNK VERSION\)](https://open.spotify.com/album/5XTbXEHWlgJz4a5j2Ekjbr) | 2:04 |
 | 11 | [promise](https://open.spotify.com/track/0qtY6wDzL1S56oWw7AiwiZ) | [sun haze](https://open.spotify.com/artist/2fm6kygt9BS4un4NcXC5E2) | [promise](https://open.spotify.com/album/1d8zkVUyZQ7pZCIo17VkxI) | 3:54 |
 | 12 | [All Because](https://open.spotify.com/track/16PbsJ1W3fqZ1cYnTj45AC) | [Dell Mac](https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl) | [All Because](https://open.spotify.com/album/1htlLuIrbPnynzNNVYT5vx) | 2:31 |
 | 13 | [DOWNHILL](https://open.spotify.com/track/7wooN5kmfcT2kW9GuF9V0U) | [Ben Compton](https://open.spotify.com/artist/60KOVif3EfAZFEXMSoSmdg) | [DOWNHILL](https://open.spotify.com/album/4pmDcn78LbdP8plOluMbDZ) | 2:40 |

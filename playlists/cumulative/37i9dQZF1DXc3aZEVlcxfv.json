@@ -5797,6 +5797,28 @@
     },
     {
       "album": {
+        "name": "Jesu Ni",
+        "url": "https://open.spotify.com/album/45nDWS71Eu1YxtnlDgupdn"
+      },
+      "artists": [
+        {
+          "name": "Samuel Folabi",
+          "url": "https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM"
+        },
+        {
+          "name": "Tkeyz",
+          "url": "https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Jesu Ni",
+      "url": "https://open.spotify.com/track/6tYErAAwdY1kXzdbAxLTpM"
+    },
+    {
+      "album": {
         "name": "JESUS",
         "url": "https://open.spotify.com/album/1O9AB2HcLOhfvzVaR6Zalu"
       },

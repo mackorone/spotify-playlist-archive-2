@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > The latest of R&B rising in the UK\. Cover: Bel Cobain
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,650 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,684 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 8 | [hate you bad <3](https://open.spotify.com/track/52c7hLD3PGD3IqHWM7DLic) | [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [hate you bad <3](https://open.spotify.com/album/0wGgsPQqo7kFJlHLDd2KqX) | 3:11 |
 | 9 | [Touch bby](https://open.spotify.com/track/4Ksyqz0rioYK0DJnuXp888) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Touch bby](https://open.spotify.com/album/1vSKPb1LckjSJSGKVeQ5gd) | 2:05 |
 | 10 | [Come To Me](https://open.spotify.com/track/5gHKTj0OrjyQz8KTwVTuMx) | [Charlotte Dowsson](https://open.spotify.com/artist/77nzrPGvQ9uNA2XE9N9oTy) | [Come To Me](https://open.spotify.com/album/4GcNMrejFGtQtlv5P23raK) | 3:24 |
-| 11 | [Lost in Time](https://open.spotify.com/track/6ZSiSHgQAZN1lb8EmXq6GC) | [KADEEM.](https://open.spotify.com/artist/2KOtFfPdagAn97jW4iuHYj), [Lila Ikè](https://open.spotify.com/artist/4hGprQ5XEyvu5J8yqzj5ef) | [Highs + Lows](https://open.spotify.com/album/5npoDB704U42Vvepcogk7c) | 3:41 |
+| 11 | [Lost in Time](https://open.spotify.com/track/6ZSiSHgQAZN1lb8EmXq6GC) | [KADEEM.](https://open.spotify.com/artist/2KOtFfPdagAn97jW4iuHYj), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Highs + Lows](https://open.spotify.com/album/5npoDB704U42Vvepcogk7c) | 3:41 |
 | 12 | [COME AROUND](https://open.spotify.com/track/4SfDucbeto0E9stxeZcDwy) | [JEDSOUL](https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO) | [COME AROUND](https://open.spotify.com/album/3fHfrgyopjNq8rUUPJKEcJ) | 2:45 |
 | 13 | [Don't Take My Lover Away](https://open.spotify.com/track/3fKmOOqhIF7M9nU4mqe1yV) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Don't Take My Lover Away](https://open.spotify.com/album/572gZYJdYvplPqnMJTbzqJ) | 5:23 |
 | 14 | [Helpless](https://open.spotify.com/track/4LGzy6SV3ff3JgI38cktqe) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Helpless](https://open.spotify.com/album/1kIQcleL75BNtXifuJi7uX) | 3:26 |

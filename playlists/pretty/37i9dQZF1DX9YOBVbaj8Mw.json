@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19303,
+  "num_followers": 19306,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "PLAYHOUSE",
-        "url": "https://open.spotify.com/album/3yi5TjtYVe4Po9WpLqtZiO"
-      },
-      "artists": [
-        {
-          "name": "Sara James",
-          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
-        }
-      ],
-      "duration_ms": 191346,
-      "name": "SALTY",
-      "url": "https://open.spotify.com/track/3dzLIfyygjAMlm0f8rN7GQ"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "XX",
         "url": "https://open.spotify.com/album/2JNJIrNKcypEDAzoG2PkFL"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 201493,
       "name": "Tango Porcjarza",
       "url": "https://open.spotify.com/track/6NkDVpzHieLBfdSa69uF8k"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "PLAYHOUSE",
+        "url": "https://open.spotify.com/album/3yi5TjtYVe4Po9WpLqtZiO"
+      },
+      "artists": [
+        {
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+        }
+      ],
+      "duration_ms": 191346,
+      "name": "SALTY",
+      "url": "https://open.spotify.com/track/3dzLIfyygjAMlm0f8rN7GQ"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -759,6 +759,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "WIECZORAMI CH\u0141OPCY WYCHODZ\u0104 NA ULICE",
+        "url": "https://open.spotify.com/album/4OErdxqjwIww9QbHzguIz4"
+      },
+      "artists": [
+        {
+          "name": "Myslovitz",
+          "url": "https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5"
+        }
+      ],
+      "duration_ms": 321506,
+      "name": "Ch\u0142opcy",
+      "url": "https://open.spotify.com/track/05crgQcMRFJtiDMkA1PIIl"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "Instant Rewards",
         "url": "https://open.spotify.com/album/54n8MiXmukz3tjTs9294Bm"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 192013,
       "name": "Kercelak",
       "url": "https://open.spotify.com/track/1GY109fE6b5yk7sTJPkbsf"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "WIECZORAMI CH\u0141OPCY WYCHODZ\u0104 NA ULICE",
-        "url": "https://open.spotify.com/album/4OErdxqjwIww9QbHzguIz4"
-      },
-      "artists": [
-        {
-          "name": "Myslovitz",
-          "url": "https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5"
-        }
-      ],
-      "duration_ms": 321506,
-      "name": "Ch\u0142opcy",
-      "url": "https://open.spotify.com/track/05crgQcMRFJtiDMkA1PIIl"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Dziewczyna S\u0142o\u0144ca",
-        "url": "https://open.spotify.com/album/77sBcNUn2TzDDvYld2wIVL"
-      },
-      "artists": [
-        {
-          "name": "Anna Rusowicz",
-          "url": "https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP"
-        }
-      ],
-      "duration_ms": 336253,
-      "name": "Tobie",
-      "url": "https://open.spotify.com/track/4NEbNfStSM8HL2rKsOL485"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Tradycyja",
         "url": "https://open.spotify.com/album/7kTZLPBwRRLPEn9B7MfxCV"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 278672,
       "name": "G\u00f3rniczy stan",
       "url": "https://open.spotify.com/track/7sNL47pZFwRVPYjctb2K58"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Dziewczyna S\u0142o\u0144ca",
+        "url": "https://open.spotify.com/album/77sBcNUn2TzDDvYld2wIVL"
+      },
+      "artists": [
+        {
+          "name": "Anna Rusowicz",
+          "url": "https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP"
+        }
+      ],
+      "duration_ms": 336253,
+      "name": "Tobie",
+      "url": "https://open.spotify.com/track/4NEbNfStSM8HL2rKsOL485"
     },
     {
       "added_at": "2025-04-06 08:27:45",

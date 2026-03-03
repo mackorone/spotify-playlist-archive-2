@@ -982,7 +982,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 174506,
       "name": "Il Trovatore - Act II",
       "url": "https://open.spotify.com/track/72HRrv6G3kry6q6WZ63A9b"
@@ -2732,6 +2732,32 @@
       "duration_ms": 151760,
       "name": "Spontini: La vestale, Act 2: \"O Nume tutelar\" (Giulia)",
       "url": "https://open.spotify.com/track/1PnTxsxWwWmJyCKQU0u5jL"
+    },
+    {
+      "album": {
+        "name": "Giacomo Puccini: Tosca (Maria Callas, Vol. 3)",
+        "url": "https://open.spotify.com/album/3Y6LYQMDZddFSdyLDwq6ZK"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Victor de Sabata",
+          "url": "https://open.spotify.com/artist/6pkOp4PgHXN7BRIEMEi1wt"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168411,
+      "name": "Tosca, Act III: E lucevan le stelle (Cavaradossi)",
+      "url": "https://open.spotify.com/track/6Quw3bb63AkRBOWpEMMnjW"
     },
     {
       "album": {

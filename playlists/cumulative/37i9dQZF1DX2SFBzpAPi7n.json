@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: BIG Naughty (\uc11c\ub3d9\ud604)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: NELL) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -3194,7 +3194,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 129908,
       "name": "Comedian",
       "url": "https://open.spotify.com/track/7sGWkGjybYNPBodHpdAWAH"
@@ -3728,6 +3728,24 @@
       "duration_ms": 222653,
       "name": "Dear Me",
       "url": "https://open.spotify.com/track/2izlCxatn0nR7SyRyrkUW1"
+    },
+    {
+      "album": {
+        "name": "X : 3 / ?",
+        "url": "https://open.spotify.com/album/5Rud2sFOI6cg4tkdM1pqmw"
+      },
+      "artists": [
+        {
+          "name": "NELL",
+          "url": "https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240628,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/7GRWbXqGv4UZhmnL6nSyus"
     },
     {
       "album": {
@@ -7284,6 +7302,24 @@
       "duration_ms": 177237,
       "name": "High Teen Star \ud558\uc774\ud2f4 \uc2a4\ud0c0",
       "url": "https://open.spotify.com/track/0h82aIPBXFlt7zHIgDslkP"
+    },
+    {
+      "album": {
+        "name": "The Practical Guide to Love (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/217PhsMmRA1yP35W2ZyD5V"
+      },
+      "artists": [
+        {
+          "name": "YOUNGJAE",
+          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "HIGHLIGHT",
+      "url": "https://open.spotify.com/track/5IglhxcMfaLhZWmynKaNcA"
     },
     {
       "album": {
@@ -14192,7 +14228,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 181216,
       "name": "Remnant Flower (4moments Original Soundtrack Part.1)",
       "url": "https://open.spotify.com/track/0dk889fQmOCtw1xrEQEMdA"

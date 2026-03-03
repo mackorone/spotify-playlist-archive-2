@@ -1,6 +1,6 @@
 {
   "description": "It's just us.",
-  "num_followers": 1142421,
+  "num_followers": 1142397,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Depression Cherry",
-        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 219453,
-      "name": "Wildflower",
-      "url": "https://open.spotify.com/track/24bzJwjGBWtGCs7xKIKQsB"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "You're Somebody Else",
         "url": "https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 218883,
       "name": "You're Somebody Else",
       "url": "https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Depression Cherry",
+        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 219453,
+      "name": "Wildflower",
+      "url": "https://open.spotify.com/track/24bzJwjGBWtGCs7xKIKQsB"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
+        "name": "Woodland - EP",
+        "url": "https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 210080,
+      "name": "Bloom - Bonus Track",
+      "url": "https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
         "name": "Paint My Bedroom Black",
         "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 151792,
       "name": "Superbloodmoon (feat. D4vd)",
       "url": "https://open.spotify.com/track/2yBiwYEX680zQLrHwdV1aT"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
-        "name": "Woodland - EP",
-        "url": "https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 210080,
-      "name": "Bloom - Bonus Track",
-      "url": "https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Songs for Dads",
-        "url": "https://open.spotify.com/album/3MFTbUnA8C9T6KCBb0gpH5"
-      },
-      "artists": [
-        {
-          "name": "The Walters",
-          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
-        }
-      ],
-      "duration_ms": 160253,
-      "name": "I Love You So",
-      "url": "https://open.spotify.com/track/1175r6ZmkUjX8dRJLz9Ohk"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "Bon Iver",
         "url": "https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 336613,
       "name": "Holocene",
       "url": "https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Songs for Dads",
+        "url": "https://open.spotify.com/album/3MFTbUnA8C9T6KCBb0gpH5"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "duration_ms": 160253,
+      "name": "I Love You So",
+      "url": "https://open.spotify.com/track/1175r6ZmkUjX8dRJLz9Ohk"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Emergency Contact",
-        "url": "https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH"
-      },
-      "artists": [
-        {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Emergency Contact",
-      "url": "https://open.spotify.com/track/5xJlzQiPLYkvlqkRPKzBwD"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "In Rainbows",
         "url": "https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 228746,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/51ygW389BW4Dut3B69pSwc"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Emergency Contact",
+        "url": "https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Emergency Contact",
+      "url": "https://open.spotify.com/track/5xJlzQiPLYkvlqkRPKzBwD"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Crystals",
-        "url": "https://open.spotify.com/album/1t5eMcZmuPuL28AYU7zQSA"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 243533,
-      "name": "Crystals",
-      "url": "https://open.spotify.com/track/59yvXUFVjsaZQsDs09T7eA"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "I'll Keep You In Mind, From Time to Time",
         "url": "https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV"
       },
@@ -1567,6 +1551,38 @@
       "duration_ms": 226186,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/23HxMVdUqSsWwar52dS4ZT"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Crystals",
+        "url": "https://open.spotify.com/album/1t5eMcZmuPuL28AYU7zQSA"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 243533,
+      "name": "Crystals",
+      "url": "https://open.spotify.com/track/59yvXUFVjsaZQsDs09T7eA"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/155N1gV0cIFYaLiy3I5d83"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 109735,
+      "name": "Flowers in Your Hair",
+      "url": "https://open.spotify.com/track/4BDpHt1JrVQzaU7E6RBbXh"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1615,22 +1631,6 @@
       "duration_ms": 174565,
       "name": "Want You Like That",
       "url": "https://open.spotify.com/track/4VhiUBbGZd374klScom1cp"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
-        "name": "Nightlife",
-        "url": "https://open.spotify.com/album/76MThARuTPq59l5oseVCJT"
-      },
-      "artists": [
-        {
-          "name": "Phantogram",
-          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
-        }
-      ],
-      "duration_ms": 258186,
-      "name": "Don't Move",
-      "url": "https://open.spotify.com/track/0UPsdEgJx6ypkfFUxD3ZHh"
     }
   ],
   "unique_name": "You & Me",

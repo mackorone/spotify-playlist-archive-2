@@ -4,7 +4,7 @@
 
 > 
 
-493 songs - 1 day 8 hr 17 min
+494 songs - 1 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/track/0f7sFuSS6GiZEnNA9AHMsJ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Children of the Baked Potato](https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In) | 2:49 | 2025-09-15 |  |
 | [I'd Rather Not Think About It](https://open.spotify.com/track/2h0vIjcPUidp6xJjx7O0dl) | [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM), [Felix](https://open.spotify.com/artist/5wjBidqp8mV29FhdOVeXP8) | [Anywhere, But Here With You](https://open.spotify.com/album/3GQuAjzfQV1eOL0ukXf33v) | 4:23 | 2024-11-29 | 2025-11-07 |
 | [If We Only Knew \(From the Documentary Film "Blue Carbon”\)](https://open.spotify.com/track/56DNY0mhdCjbZihfRRPUEi) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [If We Only Knew \(From the Documentary Film "Blue Carbon”\)](https://open.spotify.com/album/0RKMHWmW6g5JZWZnvW2a4f) | 3:50 | 2024-06-20 | 2024-09-14 |
+| [if you wanna party, come over to my house](https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [if you wanna party, come over to my house](https://open.spotify.com/album/6idF8Ss7GdiB5L0jfMs4wT) | 2:51 | 2026-03-02 |  |
 | [ILIKEU](https://open.spotify.com/track/5bp8cOT9xug35hnhZgW9d7) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [ILIKEU](https://open.spotify.com/album/3Cm2wePohVXeqf3OLEZULA) | 2:41 | 2024-03-28 | 2024-06-26 |
 | [Iman](https://open.spotify.com/track/4cQcn6Zh5mHglFWIXnckqi) | [Yuuf](https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v) | [Iman](https://open.spotify.com/album/5NbAz6PiABkXYYOpaTIEQN) | 4:00 | 2025-05-20 | 2025-11-07 |
 | [In Contemplation of Clair’s Scent \- Edit](https://open.spotify.com/track/6evizKGLv223qG5hpReBWy) | [Terence Etc.](https://open.spotify.com/artist/3PRli833wyTmzJrKQGNOKj) | [In Contemplation of Clair’s Scent](https://open.spotify.com/album/5WzvJZurKSZfBZZjundIzb) | 2:50 | 2022-07-07 | 2022-11-12 |

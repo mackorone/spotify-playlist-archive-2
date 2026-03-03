@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-402 songs - 18 hr 57 min
+404 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Blue Shadows](https://open.spotify.com/track/1S5UW31xDfoNW3Tc7rNyKp) | [Maira](https://open.spotify.com/artist/6x0Xdy7LgcYtyIWBG7CA04) | [Blue Shadows](https://open.spotify.com/album/1Iy98GEoDPSUJHx6iIKh5E) | 2:52 | 2025-03-14 |  |
 | [Bonvoya](https://open.spotify.com/track/312nTGasaGeNatMGWsjc56) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Bonvoya](https://open.spotify.com/album/0WzgkSpotQa1C2cDhrJDu1) | 2:37 | 2024-10-03 |  |
 | [Botanical Creek](https://open.spotify.com/track/0yprfzL1FDEhQ2q0ez80o4) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Botanical Creek](https://open.spotify.com/album/1WVPOp90EnS4O7jVvHxatZ) | 2:54 | 2024-11-11 |  |
+| [Bowie \- Awakening](https://open.spotify.com/track/63zRRZhL8x0VA64o82uh2d) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl), [Chill Palm](https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE) | [Forest of Rain](https://open.spotify.com/album/2dgxGey8LAcliQjoGGuKID) | 3:06 | 2026-02-18 |  |
 | [Boy](https://open.spotify.com/track/6onnyQliInBgkmiKD01kzX) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [In The Forest](https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88) | 2:42 | 2023-01-24 | 2024-11-29 |
 | [Breath Work](https://open.spotify.com/track/7vd5m5le18O6Go6u8bGDrT) | [Tuiren](https://open.spotify.com/artist/16NpFw9d7RglZF6qA07Y1G) | [Breath Work](https://open.spotify.com/album/3shFhxKMLHC5mTfCOzRPTl) | 3:15 | 2025-12-18 |  |
 | [breeze](https://open.spotify.com/track/4dd6Kd9lOuAFvtnicFmopl) | [mistral bark](https://open.spotify.com/artist/19VIhs2q6YQ5J23OrTknU7) | [breeze](https://open.spotify.com/album/5mD3888H5sHSeIHm8ngWPA) | 3:08 | 2025-04-29 |  |
@@ -179,7 +180,7 @@
 | [Inner Light](https://open.spotify.com/track/2yJGmdVsz482MPCTvyBXS2) | [Diva Baakso](https://open.spotify.com/artist/3hPCWh0GHhVnQQ4DL3dVGr) | [Inner Light](https://open.spotify.com/album/4TlMPI8T1PZ954LViXDDX2) | 2:52 | 2024-03-05 | 2025-04-30 |
 | [Inner Retreat](https://open.spotify.com/track/6vkgNVCmM2i7ntU3WtUAJ8) | [Lorien Sky](https://open.spotify.com/artist/5CDWDRWvOD7LppgccIL5mC) | [Inner Retreat](https://open.spotify.com/album/39d1Geo2YjAZTd2Du6iuEt) | 2:57 | 2025-04-29 |  |
 | [Inner Universe](https://open.spotify.com/track/0pVsJoZUEO92yJrRmCb6Fe) | [Aurora Season](https://open.spotify.com/artist/6XEW2LnRmQUNPfTajKwImZ) | [Inner Universe](https://open.spotify.com/album/6J0yt0cvJfJxtsEPfe1DFh) | 2:52 | 2024-01-30 |  |
-| [Innstreymi](https://open.spotify.com/track/0W2alSnYcL442CPRsGDpgz) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Innstreymi](https://open.spotify.com/album/6jsVkd1nsfFmQNe44KmCK9) | 2:31 | 2025-12-18 |  |
+| [Innstreymi](https://open.spotify.com/track/0W2alSnYcL442CPRsGDpgz) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Innstreymi](https://open.spotify.com/album/6jsVkd1nsfFmQNe44KmCK9) | 2:31 | 2025-12-18 | 2026-03-03 |
 | [Insirium](https://open.spotify.com/track/310oWEiiJNzno545nutX6e) | [Gillirium](https://open.spotify.com/artist/4dfUUvHsq6FLLkA0Qy7wqu) | [Insirium](https://open.spotify.com/album/1gPruQqi2RQqUDKp6y5LCH) | 2:59 | 2023-02-22 | 2024-07-17 |
 | [Into The Calm](https://open.spotify.com/track/0GgFrbe8WRkotyjt0SkZBt) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Into The Calm](https://open.spotify.com/album/3XmOLhvpvTkuutHQQzOOxl) | 3:31 | 2024-03-05 | 2025-04-30 |
 | [Iridescence](https://open.spotify.com/track/6e4I3Y1IfBQxdv4iuaB3Wx) | [Uli Jons](https://open.spotify.com/artist/0K4PNBCw5wDm6lKZYil6cU) | [Iridescence](https://open.spotify.com/album/4vWK3QWLMqhSD5DVET5UPa) | 2:53 | 2023-01-24 | 2025-07-02 |
@@ -283,6 +284,7 @@
 | [pebble brook \- ambient room mix](https://open.spotify.com/track/4aE13rELUFUQCXEMDw6aF3) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the piano next door](https://open.spotify.com/album/7pVqb2flsJL6zX6ly0VoR2) | 2:38 | 2023-01-24 | 2025-02-11 |
 | [Perfect Harmony](https://open.spotify.com/track/4j8n4QJNpbAVG2zRRBktn7) | [Edmund's Oasis](https://open.spotify.com/artist/5zPsjxustR5GJSG26xw2SR) | [Perfect Harmony](https://open.spotify.com/album/2b1hOdOnn3lhU1nLjh5gS0) | 3:20 | 2024-07-16 | 2025-10-02 |
 | [Perfect State Of Mind](https://open.spotify.com/track/6r0Y7BP8NlfVNrss5bByJJ) | [Pine River](https://open.spotify.com/artist/7HsoTMNjOjjMVQNVzmxCRN) | [Perfect State Of Mind](https://open.spotify.com/album/3BWdIyNrO18p22YN43Fh3b) | 2:35 | 2023-03-13 | 2025-10-02 |
+| [Pesanteur](https://open.spotify.com/track/5pzmVX5w6AK7IEuuAGrCcO) | [Auremist](https://open.spotify.com/artist/66lfbXCNAo1TaYXiFnnaIE) | [Pesanteur](https://open.spotify.com/album/02U4nbAuQOUnU3BXdaeFgU) | 3:26 | 2026-02-18 |  |
 | [Piccola Valle Verde](https://open.spotify.com/track/1luHl5aJg7nei9z6bXhw1a) | [Die Kaiserin](https://open.spotify.com/artist/76TYz19NwovIfQ1hS7g0LV) | [Piccola Valle Verde](https://open.spotify.com/album/331p32IoM4u2VYT264nO4g) | 2:57 | 2023-04-06 | 2024-06-04 |
 | [Places Of Placidity](https://open.spotify.com/track/5oZNphGYdRj0rJNGgStbly) | [Gino Carbone](https://open.spotify.com/artist/6GHpZni4assd8ljmgjhMix) | [Places Of Placidity](https://open.spotify.com/album/1x3a9URe9AivSduWwuo6m4) | 3:00 | 2023-03-13 | 2024-09-07 |
 | [Plucked Strings Near the Fountain](https://open.spotify.com/track/3jOkyCBEH03P0QoEJm8IuH) | [Local Abroad](https://open.spotify.com/artist/6fzGY6vXqUv1OJxFTVlMfu) | [Plucked Strings Near the Fountain](https://open.spotify.com/album/334aFwHh9YQoUmGWDbcqPW) | 2:33 | 2023-11-18 | 2026-02-12 |
@@ -341,7 +343,7 @@
 | [Slow Stream](https://open.spotify.com/track/43slau8Y2GhKBA3itVEvlz) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Slow Stream](https://open.spotify.com/album/3ZowFm97ZG9gFRpFxty9eQ) | 3:24 | 2025-04-01 |  |
 | [Slowly Stream](https://open.spotify.com/track/3K5TE2OlvFLnXbRLarLlBd) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Slowly](https://open.spotify.com/album/2zKxxUDZeLSpm6whXgcnGo) | 3:11 | 2023-12-18 |  |
 | [Sogno Illuminum](https://open.spotify.com/track/0xAvs3yyfYZOmzJorbPIwq) | [Enchanted Feel](https://open.spotify.com/artist/6Rfx3Kq2IphTcrtkQRejYX) | [Sogno Illuminum](https://open.spotify.com/album/51zrublZgSNFIMIrjM7Kjd) | 2:29 | 2023-04-06 | 2025-10-02 |
-| [Solar Skies](https://open.spotify.com/track/1W3SYju3DvZHWgNSzb3N0S) | [Caelestis Nati](https://open.spotify.com/artist/5FYjMehrDmyDkbZqpYP1j8) | [Solar Skies](https://open.spotify.com/album/1cNfEsEpQg6o6Pw9z4EnZc) | 2:40 | 2025-04-29 |  |
+| [Solar Skies](https://open.spotify.com/track/1W3SYju3DvZHWgNSzb3N0S) | [Caelestis Nati](https://open.spotify.com/artist/5FYjMehrDmyDkbZqpYP1j8) | [Solar Skies](https://open.spotify.com/album/1cNfEsEpQg6o6Pw9z4EnZc) | 2:40 | 2025-04-29 | 2026-03-03 |
 | [Solitude](https://open.spotify.com/track/0PQpUqvsTITOfhkjD86swb) | [Antologie](https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc) | [Solitude](https://open.spotify.com/album/68GqXg8GI84Bc4lUmg0V7L) | 2:38 | 2023-05-19 | 2023-05-31 |
 | [Song from the meadow](https://open.spotify.com/track/74QU8h22gboUmVHpjZAPYg) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [From the meadow](https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG) | 2:15 | 2023-01-24 | 2023-07-29 |
 | [Song Of Nature](https://open.spotify.com/track/4LvTLzxeWPn6XUpCmE93iH) | [Ziwambe](https://open.spotify.com/artist/4C4pHnRWJY0ROkqEynVy7z) | [Song Of Nature](https://open.spotify.com/album/0nMiF2yBds8CV1LqnTHMsV) | 2:26 | 2023-09-28 |  |

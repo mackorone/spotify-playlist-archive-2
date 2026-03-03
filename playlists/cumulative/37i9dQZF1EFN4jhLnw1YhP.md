@@ -4,12 +4,13 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5v6MaLqxxiqzxlVKg0gUBg">Julia Church</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-107 songs - 6 hr 32 min
+108 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Hearts](https://open.spotify.com/track/5ASTrXytid8c1Gfo24u8a4) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [2 Hearts](https://open.spotify.com/album/17cPYm8v5eY0U8qPBnvhPV) | 3:21 | 2026-02-20 |  |
-| [9 Days \- Mixed](https://open.spotify.com/track/1PeTBBZulN4MLiQS08uacc) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Anjunadeep 13](https://open.spotify.com/album/0UadfyD6H5G4fnb6kjpV6M) | 3:55 | 2026-02-20 |  |
+| [9 Days](https://open.spotify.com/track/32fdWZrgtAX2VRqCGkIuaF) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [A Radiant Sign](https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl) | 3:57 | 2026-03-02 |  |
+| [9 Days \- Mixed](https://open.spotify.com/track/1PeTBBZulN4MLiQS08uacc) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Anjunadeep 13](https://open.spotify.com/album/0UadfyD6H5G4fnb6kjpV6M) | 3:55 | 2026-02-20 | 2026-03-03 |
 | [A Lot Like Heaven \- Space Motion Remix](https://open.spotify.com/track/2hT5X2DjHG7D6vmhTWBDsG) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727), [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [A Lot Like Heaven \(Space Motion Remix\)](https://open.spotify.com/album/7rS4CkomP9uq8l9J2GTmc7) | 4:48 | 2025-10-27 |  |
 | [Absence of You](https://open.spotify.com/track/3fk4yTACtSqCzDol4mBPdt) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Absence of You](https://open.spotify.com/album/0kg5NHyGzMboxjrWtWOo00) | 3:14 | 2025-10-27 |  |
 | [all for you \(with SPINALL & Julia Church\)](https://open.spotify.com/track/4gvZygpnkSKKPtVDqe0SGl) | [Jaydon Lewis](https://open.spotify.com/artist/6n6eA9x4MjOENHu6NgumKu), [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [all for you \(with SPINALL & Julia Church\)](https://open.spotify.com/album/3kW636hGa3BR1DLqkqNC9v) | 2:47 | 2026-02-20 |  |

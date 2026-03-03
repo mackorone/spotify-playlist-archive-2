@@ -5793,6 +5793,28 @@
     },
     {
       "album": {
+        "name": "Opalite (Chris Lake Remix)",
+        "url": "https://open.spotify.com/album/1OioQUIAwZ6PE2V7UJUHX2"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228947,
+      "name": "Opalite - Chris Lake Remix",
+      "url": "https://open.spotify.com/track/0ttGLmxI0mAkMblE6iRm2S"
+    },
+    {
+      "album": {
         "name": "Out My Head",
         "url": "https://open.spotify.com/album/3MS98RpRmeMZjjffoKUGln"
       },

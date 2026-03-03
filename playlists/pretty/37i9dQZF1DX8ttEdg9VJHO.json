@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 365839,
+  "num_followers": 365920,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -375,8 +375,8 @@
     {
       "added_at": "2026-02-27 11:00:00",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE"
+        "name": "One Foot In Front Of The Other",
+        "url": "https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         }
       ],
-      "duration_ms": 179757,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/5v66VjrhFwSlPqadCrubyb"
+      "duration_ms": 152894,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/6tHISnh1biy5luSS9cvaNc"
     },
     {
       "added_at": "2026-02-27 11:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-02-27 11:00:00",
       "album": {
-        "name": "The Good Witch",
-        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 189413,
-      "name": "Lost The Breakup",
-      "url": "https://open.spotify.com/track/58VF5ob7qRB3yUzOYEAhyf"
-    },
-    {
-      "added_at": "2026-02-27 11:00:00",
-      "album": {
         "name": "WIR",
         "url": "https://open.spotify.com/album/1wp44a0tNqS2ex2Vlp7KLd"
       },
@@ -455,8 +439,24 @@
     {
       "added_at": "2026-02-27 11:00:00",
       "album": {
-        "name": "One Foot In Front Of The Other",
-        "url": "https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA"
+        "name": "The Good Witch",
+        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 189413,
+      "name": "Lost The Breakup",
+      "url": "https://open.spotify.com/track/58VF5ob7qRB3yUzOYEAhyf"
+    },
+    {
+      "added_at": "2026-02-27 11:00:00",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         }
       ],
-      "duration_ms": 152894,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/6tHISnh1biy5luSS9cvaNc"
+      "duration_ms": 179757,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/5v66VjrhFwSlPqadCrubyb"
     },
     {
       "added_at": "2026-02-27 11:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-02-27 11:00:00",
       "album": {
-        "name": "The Good Witch",
-        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "There It Goes",
-      "url": "https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc"
-    },
-    {
-      "added_at": "2026-02-27 11:00:00",
-      "album": {
         "name": "The Hardest Part",
         "url": "https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 176040,
       "name": "The Hardest Part",
       "url": "https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH"
+    },
+    {
+      "added_at": "2026-02-27 11:00:00",
+      "album": {
+        "name": "The Good Witch",
+        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "There It Goes",
+      "url": "https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc"
     },
     {
       "added_at": "2026-02-27 11:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-02-27 11:00:00",
       "album": {
-        "name": "Safety Net",
-        "url": "https://open.spotify.com/album/2pBq9bR5JzslASyvcQDRq8"
-      },
-      "artists": [
-        {
-          "name": "Bea",
-          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
-        }
-      ],
-      "duration_ms": 203621,
-      "name": "Safety Net",
-      "url": "https://open.spotify.com/track/78VpLcR9t7mSZGOBEsYOfp"
-    },
-    {
-      "added_at": "2026-02-27 11:00:00",
-      "album": {
         "name": "Our Song",
         "url": "https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 174915,
       "name": "If Anything's Left",
       "url": "https://open.spotify.com/track/1CViD4tJqNMF4jjgP5Ug62"
+    },
+    {
+      "added_at": "2026-02-27 11:00:00",
+      "album": {
+        "name": "Safety Net",
+        "url": "https://open.spotify.com/album/2pBq9bR5JzslASyvcQDRq8"
+      },
+      "artists": [
+        {
+          "name": "Bea",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+        }
+      ],
+      "duration_ms": 203621,
+      "name": "Safety Net",
+      "url": "https://open.spotify.com/track/78VpLcR9t7mSZGOBEsYOfp"
     },
     {
       "added_at": "2026-02-27 11:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-02-27 11:00:00",
       "album": {
-        "name": "Wer wenn nicht wir",
-        "url": "https://open.spotify.com/album/1E5bSnYcfhaNVbRTfUpRRI"
-      },
-      "artists": [
-        {
-          "name": "Wincent Weiss",
-          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "Wer wenn nicht wir",
-      "url": "https://open.spotify.com/track/5jYDCxuSx1mfApeWA4SlqX"
-    },
-    {
-      "added_at": "2026-02-27 11:00:00",
-      "album": {
         "name": "Someday Soon",
         "url": "https://open.spotify.com/album/04IbgD1muDZCVoku5hkns4"
       },
@@ -703,18 +687,18 @@
     {
       "added_at": "2026-02-27 11:00:00",
       "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV"
+        "name": "Wer wenn nicht wir",
+        "url": "https://open.spotify.com/album/1E5bSnYcfhaNVbRTfUpRRI"
       },
       "artists": [
         {
-          "name": "\u00c1SD\u00cdS",
-          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+          "name": "Wincent Weiss",
+          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
         }
       ],
-      "duration_ms": 169400,
-      "name": "Flashback",
-      "url": "https://open.spotify.com/track/4HS4JTTgXjH6fxsLYHQqhQ"
+      "duration_ms": 163500,
+      "name": "Wer wenn nicht wir",
+      "url": "https://open.spotify.com/track/5jYDCxuSx1mfApeWA4SlqX"
     },
     {
       "added_at": "2026-02-27 11:00:00",
@@ -735,6 +719,22 @@
     {
       "added_at": "2026-02-27 11:00:00",
       "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV"
+      },
+      "artists": [
+        {
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+        }
+      ],
+      "duration_ms": 169400,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/4HS4JTTgXjH6fxsLYHQqhQ"
+    },
+    {
+      "added_at": "2026-02-27 11:00:00",
+      "album": {
         "name": "last night's mascara",
         "url": "https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk"
       },
@@ -747,6 +747,22 @@
       "duration_ms": 177350,
       "name": "last night's mascara",
       "url": "https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP"
+    },
+    {
+      "added_at": "2026-02-27 11:00:00",
+      "album": {
+        "name": "Flugmodus",
+        "url": "https://open.spotify.com/album/3c5nMaXOVRSlECOQPB4TAy"
+      },
+      "artists": [
+        {
+          "name": "Clueso",
+          "url": "https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW"
+        }
+      ],
+      "duration_ms": 178469,
+      "name": "Flugmodus",
+      "url": "https://open.spotify.com/track/2iNzRQE0MlCaSHbHGzmbN2"
     },
     {
       "added_at": "2026-02-27 11:00:00",
@@ -767,18 +783,18 @@
     {
       "added_at": "2026-02-27 11:00:00",
       "album": {
-        "name": "Flugmodus",
-        "url": "https://open.spotify.com/album/3c5nMaXOVRSlECOQPB4TAy"
+        "name": "Over",
+        "url": "https://open.spotify.com/album/2VQy0vBC1uPz4HRncOjUV2"
       },
       "artists": [
         {
-          "name": "Clueso",
-          "url": "https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW"
+          "name": "ClockClock",
+          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
         }
       ],
-      "duration_ms": 178469,
-      "name": "Flugmodus",
-      "url": "https://open.spotify.com/track/2iNzRQE0MlCaSHbHGzmbN2"
+      "duration_ms": 169949,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/0OtftDTXLb5Ziq4Goq0nJS"
     },
     {
       "added_at": "2026-02-27 11:00:00",
@@ -819,22 +835,6 @@
     {
       "added_at": "2026-02-27 11:00:00",
       "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/2VQy0vBC1uPz4HRncOjUV2"
-      },
-      "artists": [
-        {
-          "name": "ClockClock",
-          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
-        }
-      ],
-      "duration_ms": 169949,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/0OtftDTXLb5Ziq4Goq0nJS"
-    },
-    {
-      "added_at": "2026-02-27 11:00:00",
-      "album": {
         "name": "Der letzte Tanz",
         "url": "https://open.spotify.com/album/57V0HkA8vDHxpACqWNqQcO"
       },
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-02-27 11:00:00",
       "album": {
-        "name": "20s",
-        "url": "https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc"
-      },
-      "artists": [
-        {
-          "name": "Bow Anderson",
-          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
-        }
-      ],
-      "duration_ms": 184457,
-      "name": "20s",
-      "url": "https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7"
-    },
-    {
-      "added_at": "2026-02-27 11:00:00",
-      "album": {
         "name": "I Made It",
         "url": "https://open.spotify.com/album/6IEdMBcT6BR8cvNx8dneew"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 269538,
       "name": "I Made It",
       "url": "https://open.spotify.com/track/4dkf6Qfmy7730BwwIqyb4Y"
+    },
+    {
+      "added_at": "2026-02-27 11:00:00",
+      "album": {
+        "name": "20s",
+        "url": "https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc"
+      },
+      "artists": [
+        {
+          "name": "Bow Anderson",
+          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
+        }
+      ],
+      "duration_ms": 184457,
+      "name": "20s",
+      "url": "https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7"
     },
     {
       "added_at": "2026-02-27 11:00:00",
@@ -1055,34 +1055,18 @@
     {
       "added_at": "2026-02-27 11:00:00",
       "album": {
-        "name": "Ask & You Shall Receive",
-        "url": "https://open.spotify.com/album/5htBDYVAOjfBHgquMxExL8"
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/60PSfBhVSZFJj302rOs4DY"
       },
       "artists": [
         {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+          "name": "ELI",
+          "url": "https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR"
         }
       ],
-      "duration_ms": 199626,
-      "name": "Ask & You Shall Receive",
-      "url": "https://open.spotify.com/track/4zB5pU3cwGiC6Fcz5qtfUe"
-    },
-    {
-      "added_at": "2026-02-27 11:00:00",
-      "album": {
-        "name": "Camouflage",
-        "url": "https://open.spotify.com/album/2RdTOkmEG6yr7vOH72RlyR"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 145426,
-      "name": "Camouflage",
-      "url": "https://open.spotify.com/track/2I226ZKUjwiCBZPrA3M8f3"
+      "duration_ms": 173675,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/4kOlyvj9WiPrI4zpmzKAeA"
     },
     {
       "added_at": "2026-02-27 11:00:00",
@@ -1103,18 +1087,34 @@
     {
       "added_at": "2026-02-27 11:00:00",
       "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/60PSfBhVSZFJj302rOs4DY"
+        "name": "Camouflage",
+        "url": "https://open.spotify.com/album/2RdTOkmEG6yr7vOH72RlyR"
       },
       "artists": [
         {
-          "name": "ELI",
-          "url": "https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR"
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
         }
       ],
-      "duration_ms": 173675,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/4kOlyvj9WiPrI4zpmzKAeA"
+      "duration_ms": 145426,
+      "name": "Camouflage",
+      "url": "https://open.spotify.com/track/2I226ZKUjwiCBZPrA3M8f3"
+    },
+    {
+      "added_at": "2026-02-27 11:00:00",
+      "album": {
+        "name": "Ask & You Shall Receive",
+        "url": "https://open.spotify.com/album/5htBDYVAOjfBHgquMxExL8"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 199626,
+      "name": "Ask & You Shall Receive",
+      "url": "https://open.spotify.com/track/4zB5pU3cwGiC6Fcz5qtfUe"
     },
     {
       "added_at": "2026-02-27 11:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-02-27 11:00:00",
       "album": {
-        "name": "Small Steps",
-        "url": "https://open.spotify.com/album/437Z6zQZRubtLwGxczf3ce"
-      },
-      "artists": [
-        {
-          "name": "Tom Gregory",
-          "url": "https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu"
-        }
-      ],
-      "duration_ms": 166991,
-      "name": "Small Steps",
-      "url": "https://open.spotify.com/track/306e44d25ZdX7nIlu6wy4D"
-    },
-    {
-      "added_at": "2026-02-27 11:00:00",
-      "album": {
         "name": "Love U Again",
         "url": "https://open.spotify.com/album/5cFXaCUePIMWmBLw0xbN5M"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 166343,
       "name": "Love U Again",
       "url": "https://open.spotify.com/track/3fm0hpNBju8GRBC4iLZHHZ"
+    },
+    {
+      "added_at": "2026-02-27 11:00:00",
+      "album": {
+        "name": "Small Steps",
+        "url": "https://open.spotify.com/album/437Z6zQZRubtLwGxczf3ce"
+      },
+      "artists": [
+        {
+          "name": "Tom Gregory",
+          "url": "https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu"
+        }
+      ],
+      "duration_ms": 166991,
+      "name": "Small Steps",
+      "url": "https://open.spotify.com/track/306e44d25ZdX7nIlu6wy4D"
     }
   ],
   "unique_name": "Feelgood Pop",

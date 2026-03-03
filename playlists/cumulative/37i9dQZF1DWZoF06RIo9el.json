@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Lo mejor de febrero 2026. Cover: ARIA VEGA",
+  "description": "Lo mejor de marzo 2026. Cover: ARIA VEGA",
   "name": "Lo mejor del mes",
   "tracks": [
     {
@@ -514,7 +514,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 183652,
       "name": "50mm",
       "url": "https://open.spotify.com/track/3x41wi60bGPm3Zf8VWbuMF"
@@ -1202,6 +1202,24 @@
       "duration_ms": 223084,
       "name": "algo as\u00ed (remix)",
       "url": "https://open.spotify.com/track/0z0IEbMRvIEjj9Iif4doxD"
+    },
+    {
+      "album": {
+        "name": "Algo de m\u00ed",
+        "url": "https://open.spotify.com/album/7mUyUHgpceqFrbVqKnyoqm"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181914,
+      "name": "Algo de m\u00ed",
+      "url": "https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE"
     },
     {
       "album": {
@@ -3034,7 +3052,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 226222,
       "name": "Beto\u2019s Horns - fred remix",
       "url": "https://open.spotify.com/track/23loNjKp3yxyc7NTuwphrn"
@@ -3056,7 +3074,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 248217,
       "name": "Better Late Than Never",
       "url": "https://open.spotify.com/track/6E16aoeOwaph7iNqiw38Mo"
@@ -3136,7 +3154,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 172853,
       "name": "Bienvenidos A La Tierra",
       "url": "https://open.spotify.com/track/4xDTwjCmUFh6P5fsiJdvwU"
@@ -5364,7 +5382,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 166202,
       "name": "Contacto Zero",
       "url": "https://open.spotify.com/track/7MNGgP6ulMANUDnpCPb8wV"
@@ -6504,6 +6522,28 @@
       "duration_ms": 237395,
       "name": "danito",
       "url": "https://open.spotify.com/track/49wQqkrqciV3V3qB3vLqTh"
+    },
+    {
+      "album": {
+        "name": "DINAST\u00cdA",
+        "url": "https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197007,
+      "name": "da\u00f1o",
+      "url": "https://open.spotify.com/track/136BeIIoBGrrU9fI1jbcDR"
     },
     {
       "album": {
@@ -9105,6 +9145,28 @@
     },
     {
       "album": {
+        "name": "ESPACIO",
+        "url": "https://open.spotify.com/album/4xhFGaj0T9cAYG3wBhd87J"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172857,
+      "name": "ESPACIO",
+      "url": "https://open.spotify.com/track/0EOhkB8NqywpgtAYKoq4tw"
+    },
+    {
+      "album": {
         "name": "Espacio en Tu Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1Jrh0ptfEVDJbLbhG8vQHd"
       },
@@ -11073,6 +11135,24 @@
     },
     {
       "album": {
+        "name": "Hay algo que te quiero decir",
+        "url": "https://open.spotify.com/album/62M1UTDi3MRtR5dQM2XteT"
+      },
+      "artists": [
+        {
+          "name": "FABRO",
+          "url": "https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218769,
+      "name": "Hay algo que te quiero decir",
+      "url": "https://open.spotify.com/track/0hTkMqX524QLtetsbdj7co"
+    },
+    {
+      "album": {
         "name": "heather",
         "url": "https://open.spotify.com/album/7LZ9Kqu9xA6l0fS9trX5FZ"
       },
@@ -11922,7 +12002,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 153836,
       "name": "IND 2 JFK",
       "url": "https://open.spotify.com/track/6lEAEa2rLSDMyw2I2wUek3"
@@ -17996,7 +18076,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 180000,
       "name": "No Hay Airbags",
       "url": "https://open.spotify.com/track/4eWnceAsi7bssLDbfupkhE"
@@ -18670,6 +18750,24 @@
       "duration_ms": 202184,
       "name": "Nochentera",
       "url": "https://open.spotify.com/track/20CozgjF6bshBw8cLhN23B"
+    },
+    {
+      "album": {
+        "name": "Noches por madrid <3",
+        "url": "https://open.spotify.com/album/6KeFfHT2jTaavYAaVYutpt"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Rubio",
+          "url": "https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142576,
+      "name": "Noches por madrid <3",
+      "url": "https://open.spotify.com/track/3u8yzpUXRzMWGV0LOcdXVV"
     },
     {
       "album": {
@@ -24657,6 +24755,28 @@
     },
     {
       "album": {
+        "name": "El Ni\u00f1o Bola",
+        "url": "https://open.spotify.com/album/3Bo7xLuNrJhubah3xYLCqv"
+      },
+      "artists": [
+        {
+          "name": "mori",
+          "url": "https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211426,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/6ZzycZmHaFzfbIBl24BV3N"
+    },
+    {
+      "album": {
         "name": "La Madrug\u00e1",
         "url": "https://open.spotify.com/album/3Au0IW8JlUTwsvT4Ym6yL7"
       },
@@ -25194,6 +25314,32 @@
       "duration_ms": 216000,
       "name": "Te Colaboro",
       "url": "https://open.spotify.com/track/2ja1QIx9ZkqAMteiqfvvcA"
+    },
+    {
+      "album": {
+        "name": "LA 8VA MARAVILLA",
+        "url": "https://open.spotify.com/album/4ZMzNSoTgWgSfkBpJTCx9w"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192053,
+      "name": "Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/4k0nstlu1ScPY6XoosWPZE"
     },
     {
       "album": {
@@ -25744,7 +25890,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-03",
       "duration_ms": 214696,
       "name": "tiempo pasa",
       "url": "https://open.spotify.com/track/4q0E9LdUvQdNR2bSm3kkIV"
@@ -27336,6 +27482,24 @@
       "duration_ms": 193400,
       "name": "Uno De Esos D\u00edas",
       "url": "https://open.spotify.com/track/2SlovZRjNdnK0t6rAbOPN8"
+    },
+    {
+      "album": {
+        "name": "MAN IN BLACK",
+        "url": "https://open.spotify.com/album/6tSMLC7sCpo11PfrDJFCy3"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "UuUuuU",
+      "url": "https://open.spotify.com/track/2agO3LjMdwhgVrDt7bsBB6"
     },
     {
       "album": {

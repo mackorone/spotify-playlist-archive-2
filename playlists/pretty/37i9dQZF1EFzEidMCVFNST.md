@@ -269,8 +269,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 259 | [Substituído \- Ao Vivo](https://open.spotify.com/track/6wtsyaDZOnOwhaWH8knXtZ) | [Thaeme & Thiago](https://open.spotify.com/artist/7ABjmCErFBTzoGMVoQc2Sh) | [Química \(Ao Vivo\)](https://open.spotify.com/album/7w8qd0nWH8tixJScorxcHq) | 2:48 |
 | 260 | [Assunto Resolvido](https://open.spotify.com/track/2TQbVYjR8UeM85Hcyrzo1L) | [Lucas Akira e Fábio](https://open.spotify.com/artist/2EaDSEBebaEs4A24AJJepr) | [Assunto Resolvido](https://open.spotify.com/album/0bytYR6WJFxx8foqtikvKR) | 3:12 |
 | 261 | [A Química](https://open.spotify.com/track/4l7OjdyU6LR2AFJPShRzV5) | [Helena e Rodrigo](https://open.spotify.com/artist/5jtAN0UDDubVHtF8Epxyk4) | [A Química](https://open.spotify.com/album/4Q1szNu63lHF7Tz1emgLDb) | 2:30 |
-| 262 | [Ela Mitou \- Ao Vivo](https://open.spotify.com/track/7rHcjd7x9tOfkiDGydEzhA) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [Fragmentos \(ao Vivo\)](https://open.spotify.com/album/149AnX7PBt7XElzv4UMQFp) | 3:08 |
-| 263 | [FLORES VIRTUAIS \(Ao Vivo\)](https://open.spotify.com/track/5eF3qaXqUtFKcVTOBSIiyx) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n) | [SOM DE FACULDADE PRA VOCÊ \(Ao Vivo\)](https://open.spotify.com/album/6FnUBVHRvKPTk901s0JiR4) | 2:16 |
+| 262 | [FLORES VIRTUAIS \(Ao Vivo\)](https://open.spotify.com/track/5eF3qaXqUtFKcVTOBSIiyx) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n) | [SOM DE FACULDADE PRA VOCÊ \(Ao Vivo\)](https://open.spotify.com/album/6FnUBVHRvKPTk901s0JiR4) | 2:16 |
+| 263 | [Ela Mitou \- Ao Vivo](https://open.spotify.com/track/7rHcjd7x9tOfkiDGydEzhA) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [Fragmentos \(ao Vivo\)](https://open.spotify.com/album/149AnX7PBt7XElzv4UMQFp) | 3:08 |
 | 264 | [Esquenta dos Solteiros \- Ao Vivo](https://open.spotify.com/track/4vpQ1DAkBZrf9hy40SUR7h) | [Felipe Duram](https://open.spotify.com/artist/1SbicVDBNjShlmCFsznYv7) | [Amor, Segredos e Roupas \(Ao Vivo\)](https://open.spotify.com/album/7bCdaskPVirNDwsnLcOyg7) | 2:36 |
 | 265 | [Pra Você Que Duvidou](https://open.spotify.com/track/7p5AcF1FtSKP77GDdHxX2a) | [Felipão](https://open.spotify.com/artist/29fHZcTMW9pUzhTF4Deu0j) | [Olha Eu de Volta](https://open.spotify.com/album/43KnzLvyBKdLwBZDpg8f7i) | 2:43 |
 | 266 | [Nem Espinho, Nem Flor](https://open.spotify.com/track/38gD2C0LwxmPLubCLcqMVL) | [Felipão](https://open.spotify.com/artist/29fHZcTMW9pUzhTF4Deu0j) | [Olha Eu de Volta](https://open.spotify.com/album/43KnzLvyBKdLwBZDpg8f7i) | 3:25 |
@@ -317,4 +317,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 307 | [Usa Eu](https://open.spotify.com/track/3S5n25SLrJq2IhfOBMDnql) | [Tanury](https://open.spotify.com/artist/2nKnF9sJfToqlsxQpXGlW7) | [Tanury 2023](https://open.spotify.com/album/7pjafNe8mHr0Enwqgj8wAV) | 2:24 |
 | 308 | [De Boa na Lagoa](https://open.spotify.com/track/2JyEtXPdofr92XjnEEI4NH) | [Adriel Salim](https://open.spotify.com/artist/4xwzb6gEDDp5IpAnoASRuy) | [Aumenta o Paredão \(Verão 2023\)](https://open.spotify.com/album/6quXWSGETr7nugA7XM4vf8) | 2:48 |
 
-Snapshot ID: `AcK//gAAAACFXKdCG5Yr6L4K5FsFsX3Q`
+Snapshot ID: `AcLFdgAAAADNdLy4qQ+IE11n4Yvjx5P/`
