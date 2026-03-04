@@ -7995,6 +7995,24 @@
     },
     {
       "album": {
+        "name": "Rapids of Love",
+        "url": "https://open.spotify.com/album/0fZHbSZLXoslXNX1xuaC8D"
+      },
+      "artists": [
+        {
+          "name": "Courrier Sud",
+          "url": "https://open.spotify.com/artist/2qR0Z9tF5eXGAyZFWQWtOm"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165554,
+      "name": "Rapids of Love",
+      "url": "https://open.spotify.com/track/5FGGgeSA7S5acKX1Z5nQPp"
+    },
+    {
+      "album": {
         "name": "Hydranism",
         "url": "https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte"
       },

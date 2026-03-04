@@ -1,6 +1,6 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: NELL) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 249026,
+  "num_followers": 249139,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
@@ -551,18 +551,18 @@
     {
       "added_at": "2026-03-03 01:33:06",
       "album": {
-        "name": "when the rain stopped following me",
-        "url": "https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU"
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/7A7x6ZBCK0FaFVN67XEqTJ"
       },
       "artists": [
         {
-          "name": "eaJ",
-          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
         }
       ],
-      "duration_ms": 201533,
-      "name": "when the rain stops",
-      "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2"
+      "duration_ms": 203000,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1dSkb6PmAMqq7dMui7iZpb"
     },
     {
       "added_at": "2026-03-03 01:33:06",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-03-03 01:33:06",
       "album": {
+        "name": "when the rain stopped following me",
+        "url": "https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "when the rain stops",
+      "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2"
+    },
+    {
+      "added_at": "2026-03-03 01:33:06",
+      "album": {
         "name": "RED",
         "url": "https://open.spotify.com/album/1ifwystmHNV1dbgLni1hNA"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 176466,
       "name": "RED",
       "url": "https://open.spotify.com/track/6kcXrU60QTkMRBRd3O0Rrq"
-    },
-    {
-      "added_at": "2026-03-03 01:33:06",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/7A7x6ZBCK0FaFVN67XEqTJ"
-      },
-      "artists": [
-        {
-          "name": "KANGDANIEL",
-          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/1dSkb6PmAMqq7dMui7iZpb"
     },
     {
       "added_at": "2026-03-03 01:33:06",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-03-03 01:33:06",
       "album": {
-        "name": "Bleach",
-        "url": "https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l"
-      },
-      "artists": [
-        {
-          "name": "Glen Check",
-          "url": "https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV"
-        }
-      ],
-      "duration_ms": 227019,
-      "name": "Dazed & Confused",
-      "url": "https://open.spotify.com/track/0An32aDKsF10F4rGUysb5Z"
-    },
-    {
-      "added_at": "2026-03-03 01:33:06",
-      "album": {
         "name": "3rd Mini Album 'In a million noises, I'll be your harmony'",
         "url": "https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 202026,
       "name": "Dear",
       "url": "https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL"
+    },
+    {
+      "added_at": "2026-03-03 01:33:06",
+      "album": {
+        "name": "Bleach",
+        "url": "https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l"
+      },
+      "artists": [
+        {
+          "name": "Glen Check",
+          "url": "https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV"
+        }
+      ],
+      "duration_ms": 227019,
+      "name": "Dazed & Confused",
+      "url": "https://open.spotify.com/track/0An32aDKsF10F4rGUysb5Z"
     },
     {
       "added_at": "2026-03-03 01:33:06",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-03-03 01:33:06",
       "album": {
-        "name": "LIVE and FALL",
-        "url": "https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd"
-      },
-      "artists": [
-        {
-          "name": "Xdinary Heroes",
-          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
-        }
-      ],
-      "duration_ms": 220094,
-      "name": "Save me",
-      "url": "https://open.spotify.com/track/4dOI72pxbQasCkplV5nu15"
-    },
-    {
-      "added_at": "2026-03-03 01:33:06",
-      "album": {
         "name": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
         "url": "https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 300786,
       "name": "Event Horizon",
       "url": "https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9"
+    },
+    {
+      "added_at": "2026-03-03 01:33:06",
+      "album": {
+        "name": "LIVE and FALL",
+        "url": "https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "duration_ms": 220094,
+      "name": "Save me",
+      "url": "https://open.spotify.com/track/4dOI72pxbQasCkplV5nu15"
     },
     {
       "added_at": "2026-03-03 01:33:06",

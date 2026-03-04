@@ -2,29 +2,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\. Cover: Arlo Parks
+> Songs from LGBTQIA+ artists\. Cover: Jennarie
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,074,213 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,074,167 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Heaven](https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Heaven](https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr) | 4:26 |
-| 2 | [boyfriend](https://open.spotify.com/track/292KoLS4yud1QuOPNo5pWk) | [2charm](https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr) | [boyfriend](https://open.spotify.com/album/3a6KERMEr8uU8C4N70cUtz) | 3:21 |
-| 3 | [Dancing On The Wall](https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS) | 4:03 |
-| 4 | [Du fick aldrig veta](https://open.spotify.com/track/2DL4iJs1lotbvsEtQUUtuB) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Du fick aldrig veta](https://open.spotify.com/album/49h6aDYiEUdoDeug3kpnry) | 2:38 |
-| 5 | [SPIAGGE](https://open.spotify.com/track/29vydXyOsVviJH0xuQammy) | [SENZA CRI](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [SPIAGGE](https://open.spotify.com/album/204IypitKgeI1J833cKAuq) | 2:51 |
-| 6 | [I'm Crying, Are You?](https://open.spotify.com/track/5Gxcn52HxfnJ5PON6N5OeZ) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [I'm Crying, Are You?](https://open.spotify.com/album/3lbMAsFE6E9q2apfBnNWjY) | 3:00 |
-| 7 | [Contemplating You](https://open.spotify.com/track/6yo7B6kNrbHDFAppCxZzI1) | [Jennarie](https://open.spotify.com/artist/3vvIH5V5MjAhLrQgfQvlhX) | [Contemplating You](https://open.spotify.com/album/548tEzzOv6yKgaCyAAooca) | 3:05 |
+| 1 | [Contemplating You](https://open.spotify.com/track/6yo7B6kNrbHDFAppCxZzI1) | [Jennarie](https://open.spotify.com/artist/3vvIH5V5MjAhLrQgfQvlhX) | [Contemplating You](https://open.spotify.com/album/548tEzzOv6yKgaCyAAooca) | 3:05 |
+| 2 | [Dancing On The Wall](https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS) | 4:03 |
+| 3 | [boyfriend](https://open.spotify.com/track/292KoLS4yud1QuOPNo5pWk) | [2charm](https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr) | [boyfriend](https://open.spotify.com/album/3a6KERMEr8uU8C4N70cUtz) | 3:21 |
+| 4 | [Heaven](https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Heaven](https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr) | 4:26 |
+| 5 | [Du fick aldrig veta](https://open.spotify.com/track/2DL4iJs1lotbvsEtQUUtuB) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Du fick aldrig veta](https://open.spotify.com/album/49h6aDYiEUdoDeug3kpnry) | 2:38 |
+| 6 | [SPIAGGE](https://open.spotify.com/track/29vydXyOsVviJH0xuQammy) | [SENZA CRI](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [SPIAGGE](https://open.spotify.com/album/204IypitKgeI1J833cKAuq) | 2:51 |
+| 7 | [I'm Crying, Are You?](https://open.spotify.com/track/5Gxcn52HxfnJ5PON6N5OeZ) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [I'm Crying, Are You?](https://open.spotify.com/album/3lbMAsFE6E9q2apfBnNWjY) | 3:00 |
 | 8 | [Bloom](https://open.spotify.com/track/5Apa6Q6NIFlLmta0m7h1vT) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Pale Bloom](https://open.spotify.com/album/3UdhGs2R7AyEuzwrLBc0Mb) | 4:20 |
-| 9 | [DANCEHEAD](https://open.spotify.com/track/2tXjGN9f9LVYWC7RROErvn) | [DEVAURA](https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX) | [DANCEHEAD](https://open.spotify.com/album/0kUkx3KVTvBHeuzhwAN7m2) | 2:06 |
-| 10 | [Whats Next](https://open.spotify.com/track/7wO5DWtpteZMuWst5lNBVN) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [Everything’s Built To Last](https://open.spotify.com/album/17xPSt6j9Q0obY0yuINUXk) | 2:48 |
-| 11 | [trans](https://open.spotify.com/track/6CTCBZBkB6Lomh0akgkwjg) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [trans](https://open.spotify.com/album/2tQUu7ad2Yky6jLQkHMcH2) | 2:19 |
-| 12 | [Bomba de Amor](https://open.spotify.com/track/1tFgsDw0k3v2VesvQ6T8ry) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Bomba de Amor](https://open.spotify.com/album/4LgnyhHmtkYYzLPpo4GOHv) | 2:53 |
-| 13 | [Karma](https://open.spotify.com/track/1l7TcTEBgyDvrxpei7y3NW) | [Jules](https://open.spotify.com/artist/067eVTSlIc2fqaaHyRrWmt), [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Karma](https://open.spotify.com/album/3Jjh7UANfX26kmkWSH2oJv) | 4:06 |
-| 14 | [Turquoise Cowboy](https://open.spotify.com/track/4BZSY7v7z0uOrcOQ2vU9GA) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 3:13 |
-| 15 | [Dead End](https://open.spotify.com/track/2DcJRwVK6Qlk3h6lXWQvE4) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Dead End](https://open.spotify.com/album/3wDIP40j3CcyfvmVjiN6v9) | 4:05 |
-| 16 | [Safe Ground](https://open.spotify.com/track/3Bt0GlzLP4O0UUyii2FmzV) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Safe Ground](https://open.spotify.com/album/0o0F5wVfqU1Vld0peDnPzA) | 3:13 |
-| 17 | [Shapeshifter](https://open.spotify.com/track/6sfIoMw97Mmhbamij098LZ) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Shapeshifter](https://open.spotify.com/album/3iLE92tU83x3Bc1SiIKw1B) | 2:46 |
+| 9 | [Shapeshifter](https://open.spotify.com/track/6sfIoMw97Mmhbamij098LZ) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Shapeshifter](https://open.spotify.com/album/3iLE92tU83x3Bc1SiIKw1B) | 2:46 |
+| 10 | [DANCEHEAD](https://open.spotify.com/track/2tXjGN9f9LVYWC7RROErvn) | [DEVAURA](https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX) | [DANCEHEAD](https://open.spotify.com/album/0kUkx3KVTvBHeuzhwAN7m2) | 2:06 |
+| 11 | [Dead End](https://open.spotify.com/track/2DcJRwVK6Qlk3h6lXWQvE4) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Dead End](https://open.spotify.com/album/3wDIP40j3CcyfvmVjiN6v9) | 4:05 |
+| 12 | [Whats Next](https://open.spotify.com/track/7wO5DWtpteZMuWst5lNBVN) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [Everything’s Built To Last](https://open.spotify.com/album/17xPSt6j9Q0obY0yuINUXk) | 2:48 |
+| 13 | [trans](https://open.spotify.com/track/6CTCBZBkB6Lomh0akgkwjg) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [trans](https://open.spotify.com/album/2tQUu7ad2Yky6jLQkHMcH2) | 2:19 |
+| 14 | [Bomba de Amor](https://open.spotify.com/track/1tFgsDw0k3v2VesvQ6T8ry) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Bomba de Amor](https://open.spotify.com/album/4LgnyhHmtkYYzLPpo4GOHv) | 2:53 |
+| 15 | [Karma](https://open.spotify.com/track/1l7TcTEBgyDvrxpei7y3NW) | [Jules](https://open.spotify.com/artist/067eVTSlIc2fqaaHyRrWmt), [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Karma](https://open.spotify.com/album/3Jjh7UANfX26kmkWSH2oJv) | 4:06 |
+| 16 | [Turquoise Cowboy](https://open.spotify.com/track/4BZSY7v7z0uOrcOQ2vU9GA) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 3:13 |
+| 17 | [Safe Ground](https://open.spotify.com/track/3Bt0GlzLP4O0UUyii2FmzV) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Safe Ground](https://open.spotify.com/album/0o0F5wVfqU1Vld0peDnPzA) | 3:13 |
 | 18 | [Orrore!](https://open.spotify.com/track/02BsuUGEo4dNbzioXbEhjJ) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf) | [Orrore!](https://open.spotify.com/album/6HlAOxR2wMWbjEmbZRw7gQ) | 2:38 |
 | 19 | [les filles, les meufs](https://open.spotify.com/track/1aLHvqPB5CxGYzhJB7Hzo1) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [les filles, les meufs](https://open.spotify.com/album/5g6WWG1UboeBuaPXP4g9sY) | 2:59 |
 | 20 | [Never Give Up On Loving You](https://open.spotify.com/track/3cd2zbZkfxt4olZ7ajzqe7) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Never Give Up On Loving You](https://open.spotify.com/album/6bAPrs5Jw78jM9G318v2Ba) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [Kiss Kiss Goodbye](https://open.spotify.com/track/75vL0l01TYI8v5ggVykzo9) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Wasted](https://open.spotify.com/album/41QJxyII5nFU1czS9QemhG) | 2:56 |
 | 50 | [Witching Hour](https://open.spotify.com/track/778RTEmiCGTLObINbj4AyA) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/5IMdA7l9lpOYGZxV06c53i) | 2:53 |
 
-Snapshot ID: `AAAAAHH+EPewVr/aWmVRb9R/etTTJmRx`
+Snapshot ID: `AAAAADemJJ9VjfaMTQiwxtTLNGCyVYCs`

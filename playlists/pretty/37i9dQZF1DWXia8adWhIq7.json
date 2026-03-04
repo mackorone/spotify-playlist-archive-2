@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Gui Neris",
-  "num_followers": 112238,
+  "num_followers": 112248,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2025-12-15 18:47:45",
       "album": {
+        "name": "Testemunho",
+        "url": "https://open.spotify.com/album/1hzZ5ugTa68A1Q96rolfAQ"
+      },
+      "artists": [
+        {
+          "name": "Avipa",
+          "url": "https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Testemunho",
+      "url": "https://open.spotify.com/track/6HcUgggcWIqOEQASujbMy0"
+    },
+    {
+      "added_at": "2025-12-15 18:47:45",
+      "album": {
         "name": "Alegria (Ao Vivo)",
         "url": "https://open.spotify.com/album/1CXsC4dmG2M0DOc4UNpb1p"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 298703,
       "name": "Alegria - Ao Vivo",
       "url": "https://open.spotify.com/track/7E9xAVx1ARZm0eLVPwP2sx"
-    },
-    {
-      "added_at": "2025-12-15 18:47:45",
-      "album": {
-        "name": "Testemunho",
-        "url": "https://open.spotify.com/album/1hzZ5ugTa68A1Q96rolfAQ"
-      },
-      "artists": [
-        {
-          "name": "Avipa",
-          "url": "https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Testemunho",
-      "url": "https://open.spotify.com/track/6HcUgggcWIqOEQASujbMy0"
     },
     {
       "added_at": "2025-12-15 18:47:45",
@@ -843,26 +843,6 @@
     {
       "added_at": "2025-12-15 18:47:45",
       "album": {
-        "name": "Levanto um Aleluia",
-        "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
-      },
-      "artists": [
-        {
-          "name": "Anna Fernandes",
-          "url": "https://open.spotify.com/artist/3XM89NsDdkXwh8y9Sfsy6H"
-        },
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 233261,
-      "name": "Levanto um Aleluia - Ao Vivo",
-      "url": "https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS"
-    },
-    {
-      "added_at": "2025-12-15 18:47:45",
-      "album": {
         "name": "Faltava Voc\u00ea",
         "url": "https://open.spotify.com/album/2VRthZpnrLNcoM9gvy5717"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 194643,
       "name": "Faltava Voc\u00ea",
       "url": "https://open.spotify.com/track/2p9hwoULyrP14ccQmIMqFO"
+    },
+    {
+      "added_at": "2025-12-15 18:47:45",
+      "album": {
+        "name": "Levanto um Aleluia",
+        "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
+      },
+      "artists": [
+        {
+          "name": "Anna Fernandes",
+          "url": "https://open.spotify.com/artist/3XM89NsDdkXwh8y9Sfsy6H"
+        },
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 233261,
+      "name": "Levanto um Aleluia - Ao Vivo",
+      "url": "https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS"
     },
     {
       "added_at": "2025-12-15 18:47:45",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2025-12-15 18:47:45",
       "album": {
-        "name": "Casulo",
-        "url": "https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva"
+        "name": "Me Leva Al\u00e9m",
+        "url": "https://open.spotify.com/album/2iwdXuyuljCkNwooRrWCIU"
       },
       "artists": [
         {
-          "name": "Isabella Lopes",
-          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
+          "name": "Geovanne Oliveira",
+          "url": "https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR"
         }
       ],
-      "duration_ms": 219903,
-      "name": "Casulo",
-      "url": "https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs"
+      "duration_ms": 215061,
+      "name": "Me Leva Al\u00e9m",
+      "url": "https://open.spotify.com/track/0OVWqVO7oWrCnyM657ZTiC"
     },
     {
       "added_at": "2025-12-15 18:47:45",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2025-12-15 18:47:45",
       "album": {
+        "name": "Casulo",
+        "url": "https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lopes",
+          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
+        }
+      ],
+      "duration_ms": 219903,
+      "name": "Casulo",
+      "url": "https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs"
+    },
+    {
+      "added_at": "2025-12-15 18:47:45",
+      "album": {
         "name": "Enganoso Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/3bH6OZFff0l1tkhJg28nUx"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 190023,
       "name": "Enganoso Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/61vB9Mg9vX8G4uwLKmn2n9"
-    },
-    {
-      "added_at": "2025-12-15 18:47:45",
-      "album": {
-        "name": "Me Leva Al\u00e9m",
-        "url": "https://open.spotify.com/album/2iwdXuyuljCkNwooRrWCIU"
-      },
-      "artists": [
-        {
-          "name": "Geovanne Oliveira",
-          "url": "https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR"
-        }
-      ],
-      "duration_ms": 215061,
-      "name": "Me Leva Al\u00e9m",
-      "url": "https://open.spotify.com/track/0OVWqVO7oWrCnyM657ZTiC"
     },
     {
       "added_at": "2025-12-15 18:47:45",

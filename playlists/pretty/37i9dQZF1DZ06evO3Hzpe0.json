@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaOBgAAAAACI9jYb3E/tJSX3YwjDXcBH",
+  "snapshot_id": "aaTTAAAAAABKi/S194d61znmNr9AJhKH",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 152120,
-      "name": "Competition Ain't Nothin' - Single Version",
-      "url": "https://open.spotify.com/track/4RefDIOsz8d20CyS2a5W9E"
+      "duration_ms": 147133,
+      "name": "I Can Feel It",
+      "url": "https://open.spotify.com/track/3WvNMhry4GsGV2J2EffdO8"
     },
     {
       "added_at": null,
@@ -183,6 +183,70 @@
       "duration_ms": 313721,
       "name": "Universal Girl",
       "url": "https://open.spotify.com/track/4O2N9wZ1KvvfjIGlM786K7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Private Property",
+        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 219615,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/2VsBpRY1animyX0KmVVG1Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Carl Carlton (Expanded Edition)",
+        "url": "https://open.spotify.com/album/47PRIVK9fSdMzABbJFbQes"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "Let Me Love You 'Til Morning Comes",
+      "url": "https://open.spotify.com/track/0u4VPsMn34E45M7Xnkaot9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everlasting: The Best Of Carl Carlton",
+        "url": "https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 152120,
+      "name": "Competition Ain't Nothin' - Single Version",
+      "url": "https://open.spotify.com/track/4RefDIOsz8d20CyS2a5W9E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Wanna Be With You",
+        "url": "https://open.spotify.com/album/1ylIK4HqN5u8zMDz3fNQBJ"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 210338,
+      "name": "I Wanna Be With You",
+      "url": "https://open.spotify.com/track/4ebSFxwzrgMrmoaNT1Cl61"
     },
     {
       "added_at": null,
@@ -228,70 +292,6 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 147133,
-      "name": "I Can Feel It",
-      "url": "https://open.spotify.com/track/3WvNMhry4GsGV2J2EffdO8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Wanna Be With You",
-        "url": "https://open.spotify.com/album/1ylIK4HqN5u8zMDz3fNQBJ"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 210338,
-      "name": "I Wanna Be With You",
-      "url": "https://open.spotify.com/track/4ebSFxwzrgMrmoaNT1Cl61"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "God Is Good",
-        "url": "https://open.spotify.com/album/2JktMstBcepNgVJX58Ig7Z"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 260706,
-      "name": "God Is Good",
-      "url": "https://open.spotify.com/track/7kNdtp5dx70N6doCbllzsF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Carl Carlton (Expanded Edition)",
-        "url": "https://open.spotify.com/album/47PRIVK9fSdMzABbJFbQes"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "Let Me Love You 'Til Morning Comes",
-      "url": "https://open.spotify.com/track/0u4VPsMn34E45M7Xnkaot9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everlasting: The Best Of Carl Carlton",
-        "url": "https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
       "duration_ms": 125720,
       "name": "Look At Mary Wonder (How I Got Over)",
       "url": "https://open.spotify.com/track/1MzXNdH5xGDCffxUh3rC8t"
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Private Property",
-        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
+        "name": "God Is Good",
+        "url": "https://open.spotify.com/album/2JktMstBcepNgVJX58Ig7Z"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 219615,
-      "name": "Stand By Me",
-      "url": "https://open.spotify.com/track/2VsBpRY1animyX0KmVVG1Q"
+      "duration_ms": 260706,
+      "name": "God Is Good",
+      "url": "https://open.spotify.com/track/7kNdtp5dx70N6doCbllzsF"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Private Property",
-        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
+        "name": "Don't You Need a Boy Like Me",
+        "url": "https://open.spotify.com/album/3slEt5DjLk1aBN9owomaXM"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 237009,
-      "name": "Free Fine and 21",
-      "url": "https://open.spotify.com/track/2epGU96QmILHnfs3RFX7sz"
+      "duration_ms": 116888,
+      "name": "Don't You Need a Boy Like Me",
+      "url": "https://open.spotify.com/track/3zLEgjXLFNp9ucP5003ZNQ"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't You Need a Boy Like Me",
-        "url": "https://open.spotify.com/album/3slEt5DjLk1aBN9owomaXM"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 116888,
-      "name": "Don't You Need a Boy Like Me",
-      "url": "https://open.spotify.com/track/3zLEgjXLFNp9ucP5003ZNQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Times Me Plus Love",
         "url": "https://open.spotify.com/album/44jRoq7XaNWNbqyuGzPFuf"
       },
@@ -475,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hold On a Little Longer",
-        "url": "https://open.spotify.com/album/78kWRNYPsSD4HSMBTNNiQq"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 201962,
-      "name": "Hold On a Little Longer",
-      "url": "https://open.spotify.com/track/7uNmf3URsQftTLFPXo5VRM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Private Property",
         "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
       },
@@ -500,9 +468,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 247355,
-      "name": "Hot",
-      "url": "https://open.spotify.com/track/2aIqulwYsfldNK9u11Bg0B"
+      "duration_ms": 237009,
+      "name": "Free Fine and 21",
+      "url": "https://open.spotify.com/track/2epGU96QmILHnfs3RFX7sz"
     },
     {
       "added_at": null,
@@ -531,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hold On a Little Longer",
+        "url": "https://open.spotify.com/album/78kWRNYPsSD4HSMBTNNiQq"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 201962,
+      "name": "Hold On a Little Longer",
+      "url": "https://open.spotify.com/track/7uNmf3URsQftTLFPXo5VRM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Two Timer",
         "url": "https://open.spotify.com/album/1voy5GjsqFOhSeIqhS9hYt"
       },
@@ -547,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Private Property",
+        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 247355,
+      "name": "Hot",
+      "url": "https://open.spotify.com/track/2aIqulwYsfldNK9u11Bg0B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La La Song",
         "url": "https://open.spotify.com/album/7o6QHeec9l9hR3vfL7PmUZ"
       },
@@ -559,22 +559,6 @@
       "duration_ms": 196500,
       "name": "La La Song",
       "url": "https://open.spotify.com/track/3IC5NaEEJaAjoEAOTFy2bV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Private Property",
-        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 245666,
-      "name": "Never Got Over You",
-      "url": "https://open.spotify.com/track/2ALzgSYKqqfNFG83nTqIge"
     },
     {
       "added_at": null,
@@ -611,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selected Grooves, Vol. 1 (Special House Beats Selection)",
-        "url": "https://open.spotify.com/album/1bdvbSFluDFHNOtXWijZSl"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Bring down - Foggy Day Mix",
-      "url": "https://open.spotify.com/track/4rCGAWGK22AEDfiVOLflxJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Private Property",
         "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
       },
@@ -636,9 +604,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 250377,
-      "name": "Mama's Boy",
-      "url": "https://open.spotify.com/track/1dmyGytxcI7OQLAclmOJ52"
+      "duration_ms": 245666,
+      "name": "Never Got Over You",
+      "url": "https://open.spotify.com/track/2ALzgSYKqqfNFG83nTqIge"
     },
     {
       "added_at": null,
@@ -663,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Selected Grooves, Vol. 1 (Special House Beats Selection)",
+        "url": "https://open.spotify.com/album/1bdvbSFluDFHNOtXWijZSl"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Bring down - Foggy Day Mix",
+      "url": "https://open.spotify.com/track/4rCGAWGK22AEDfiVOLflxJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "House Dj Set, Vol. 3",
         "url": "https://open.spotify.com/album/0J1UklpBuJzV8Aj1cJHVKP"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 201147,
       "name": "Malaga Airport - Night Beats Mix",
       "url": "https://open.spotify.com/track/3Rp5DybTxMSr6seDyuNQjo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Private Property",
+        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 250377,
+      "name": "Mama's Boy",
+      "url": "https://open.spotify.com/track/1dmyGytxcI7OQLAclmOJ52"
     },
     {
       "added_at": null,

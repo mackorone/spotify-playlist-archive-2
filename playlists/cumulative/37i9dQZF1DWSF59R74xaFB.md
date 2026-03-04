@@ -4,7 +4,7 @@
 
 > El amor no se escucha, se siente..\.  💖 Piso 21 y Yami Safdie en portada.
 
-592 songs - 1 day 10 hr 44 min
+593 songs - 1 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,7 +447,7 @@
 | [Robarte Un Beso](https://open.spotify.com/track/7zVxnTvFPi73poTc6oCC4l) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Robarte Un Beso](https://open.spotify.com/album/0UvK1yW7NvyThMKcTxDc6L) | 2:53 | 2021-10-21 | 2022-05-30 |
 | [Rollitos de Papel](https://open.spotify.com/track/2In4JKhdvDXXszMTh6PlnN) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Rollitos de Papel](https://open.spotify.com/album/7eZ9SGcuTyYH6tHeLFhuu1) | 3:02 | 2026-01-23 |  |
 | [Roma](https://open.spotify.com/track/400MKqqBq8rsrKSk2l4bgZ) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Roma](https://open.spotify.com/album/4DnvHbATghPcy74q4jdFtR) | 3:27 | 2024-05-03 | 2024-10-09 |
-| [Rosa del Desierto](https://open.spotify.com/track/5Kv5VXkQU88hzz3W12CFTt) | [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [Rosa del Desierto](https://open.spotify.com/album/0PbWT0napgGLtga2K8lL61) | 3:40 | 2026-02-20 |  |
+| [Rosa del Desierto](https://open.spotify.com/track/5Kv5VXkQU88hzz3W12CFTt) | [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [Rosa del Desierto](https://open.spotify.com/album/0PbWT0napgGLtga2K8lL61) | 3:40 | 2026-02-20 | 2026-03-04 |
 | [Rosa Pastel](https://open.spotify.com/track/3mU0DbuWtUX5KCaovOQZVK) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Dulce Beat](https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK) | 3:05 | 2021-10-21 |  |
 | [Roto](https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Roto](https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf) | 2:45 | 2021-10-21 | 2022-07-15 |
 | [Sabe Bien](https://open.spotify.com/track/36LDPQfypNqhflhok841qb) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Sabe Bien](https://open.spotify.com/album/2ntsVWNEOkxCYevBecgpvq) | 2:40 | 2024-07-20 | 2024-09-14 |
@@ -488,6 +488,7 @@
 | [Solo Tú](https://open.spotify.com/track/0h1PaTM0IY4SMY9rm0pEyT) | [Madison](https://open.spotify.com/artist/0NwGBRhszOv045HeCRAW7n) | [Solo Tú](https://open.spotify.com/album/2TsPlkVLwm8hZTcRiFtIgx) | 4:33 | 2021-10-21 | 2022-07-01 |
 | [Somos Novios](https://open.spotify.com/track/1XayYLI1oOaWNHDt3Zs78k) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Trio Los Panchos](https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF) | [Bolero](https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy) | 3:00 | 2024-02-09 | 2024-04-20 |
 | [Suficiente](https://open.spotify.com/track/3FVnwugdti1mSy5xjpXCaz) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Suficiente](https://open.spotify.com/album/4iCm5y1XREMD9eIq0rIbct) | 3:56 | 2023-07-07 | 2023-09-09 |
+| [SUPERESTRELLA](https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:03 | 2026-03-04 |  |
 | [Superpoder](https://open.spotify.com/track/4RCcQeGtfdPQGxwvSdE1nV) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Superpoder](https://open.spotify.com/album/1NmYcgpj4L0xWLaoUd2phI) | 2:57 | 2024-07-20 | 2024-09-14 |
 | [Supongo Que Lo Sabes](https://open.spotify.com/track/4gRg5DpOcwXmXXzuGmMC10) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Supongo Que Lo Sabes](https://open.spotify.com/album/4wS8f8NJ6sWR7CmHEUDRZ4) | 3:46 | 2022-07-07 | 2022-09-07 |
 | [Supongo Que Lo Sabes](https://open.spotify.com/track/0poZ5t6JLsuxtUXfhPDLJI) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Haashtag](https://open.spotify.com/album/61F0A7l8tyXIWJV3y4UKXw) | 3:46 | 2022-07-07 | 2023-07-08 |

@@ -4003,6 +4003,32 @@
     },
     {
       "album": {
+        "name": "BUZZIN (Feat. Coogie, GRAY)",
+        "url": "https://open.spotify.com/album/2kutfq6QtMm6ZYyF6QktXd"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176371,
+      "name": "BUZZIN (Feat. Coogie, GRAY)",
+      "url": "https://open.spotify.com/track/2xaQzu6vkA5SUNrJUTFuJI"
+    },
+    {
+      "album": {
         "name": "Bye Bye",
         "url": "https://open.spotify.com/album/70b2w1pmeZudQF8CNbWtCn"
       },
@@ -5244,6 +5270,24 @@
       "duration_ms": 201771,
       "name": "cloud palace",
       "url": "https://open.spotify.com/track/1dsuEyZ0ZPgL7Z1HAaFSek"
+    },
+    {
+      "album": {
+        "name": "CODE",
+        "url": "https://open.spotify.com/album/6ppaIu8fzPJZZjdLPKKSTt"
+      },
+      "artists": [
+        {
+          "name": "EVERGLOW",
+          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "CODE",
+      "url": "https://open.spotify.com/track/00bnKgDRZxvwpnWDJg7Por"
     },
     {
       "album": {
@@ -10071,6 +10115,28 @@
     },
     {
       "album": {
+        "name": "ChoCo La Familia",
+        "url": "https://open.spotify.com/album/1hmIzxtNhUckTodNrNc9C8"
+      },
+      "artists": [
+        {
+          "name": "ChoCo1",
+          "url": "https://open.spotify.com/artist/48ZmNBITUcYWmWZqoaIEAi"
+        },
+        {
+          "name": "ChoCo2",
+          "url": "https://open.spotify.com/artist/479LeQR94Is2uPXyljxis8"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "GIMME",
+      "url": "https://open.spotify.com/track/08lCl7trHavgnghm8JwvN7"
+    },
+    {
+      "album": {
         "name": "THE ONE YOU WANTED",
         "url": "https://open.spotify.com/album/0hwGsLDlg8Y2Xx9gxRAukv"
       },
@@ -12522,7 +12588,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 150000,
       "name": "I GOT IT",
       "url": "https://open.spotify.com/track/282QVCzwTqA3kghF3NMSqE"
@@ -13432,7 +13498,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 163831,
       "name": "Internet Girl",
       "url": "https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7"
@@ -18456,7 +18522,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 212000,
       "name": "Not Like a Movie",
       "url": "https://open.spotify.com/track/1jcg5d5YaYJinVeU5mtR3C"
@@ -20512,7 +20578,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 178000,
       "name": "Push (Feat. REI (IVE))",
       "url": "https://open.spotify.com/track/1eGtmqQDQr3KhtIV1MvkgQ"
@@ -21440,6 +21506,24 @@
       "duration_ms": 240973,
       "name": "Road",
       "url": "https://open.spotify.com/track/1zvYrvy4ucwfPlBr2RLUif"
+    },
+    {
+      "album": {
+        "name": "ROBOT",
+        "url": "https://open.spotify.com/album/4zCZWD1lipGUoRwX9ptXET"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "ROBOT",
+      "url": "https://open.spotify.com/track/7KZPGcJo38YV1pIHCSOZh9"
     },
     {
       "album": {
@@ -26894,7 +26978,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 159000,
       "name": "UFO (ATTENT!ON)",
       "url": "https://open.spotify.com/track/0u5b93C2mDGVfCsMGCdH6T"
@@ -28450,6 +28534,24 @@
       "duration_ms": 240265,
       "name": "When Dawn Comes Again",
       "url": "https://open.spotify.com/track/3wrw9wHpk6Fy298p5ISgii"
+    },
+    {
+      "album": {
+        "name": "OFF THE MAP",
+        "url": "https://open.spotify.com/album/5UddYZEfHNUCra18jeZtUU"
+      },
+      "artists": [
+        {
+          "name": "Kim Sung Kyu",
+          "url": "https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "When I think about you",
+      "url": "https://open.spotify.com/track/09jyHsIH2M6rt3OFyM3hW5"
     },
     {
       "album": {

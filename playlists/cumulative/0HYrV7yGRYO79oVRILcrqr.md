@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-339 songs - 21 hr 1 min
+343 songs - 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,11 +112,13 @@
 | [Faded Sun](https://open.spotify.com/track/4yoShDFZqFOsrXTdUzxpz6) | [OberTonic](https://open.spotify.com/artist/0D2hc3aCon3HUemLWIj2pR) | [Faded Sun](https://open.spotify.com/album/6Nj3qWQMCdy0Z9kNwhLiYq) | 3:05 | 2025-11-29 | 2025-12-17 |
 | [Faith Over Follows](https://open.spotify.com/track/4KwSpONS6uS35pBJDXDXJd) | [Walker Lawrence](https://open.spotify.com/artist/65CIRBacIF3DEkVgBZ9YFC) | [Faith Over Follows](https://open.spotify.com/album/5JS5m0MeKrmj1VMZgkdd6Z) | 4:29 | 2026-03-01 |  |
 | [Fallin' Up](https://open.spotify.com/track/6K0AByZlnuW2t9iuV4ntBg) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [New West](https://open.spotify.com/album/7iwcTjYekrnEr3CM1J8TIS) | 3:11 | 2025-12-04 | 2025-12-17 |
+| [Fever Dream](https://open.spotify.com/track/3h1J3rsW0PMGuaPYqThR7D) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 4:15 | 2026-03-03 |  |
 | [Finding You](https://open.spotify.com/track/5jCpLxpsNUM2QU7sa5FuLO) | [Casey Bloom](https://open.spotify.com/artist/3Yp2AG1A20FQbUtNqed1rq) | [Casey Bloom \- EP](https://open.spotify.com/album/2lQ4xbUEr2B6EbIrBrd5MK) | 3:16 | 2025-11-25 | 2025-12-17 |
 | [Fine](https://open.spotify.com/track/1acTG3McucI4PvWXxjGwoV) | [Brian Wolff](https://open.spotify.com/artist/5tW2IMfCtMzMHLij0PlQht) | [Fine](https://open.spotify.com/album/0wxCT2YorPsh4VKkei1jfP) | 4:10 | 2025-10-02 | 2025-12-17 |
 | [Free Way Out](https://open.spotify.com/track/7gSjuNcfiqLaUDYS5jEBPD) | [Voodoo Queen](https://open.spotify.com/artist/4TCJrwz91dvytiaX8RZhi6) | [Free Way Out](https://open.spotify.com/album/0KppBhyakdpAXmc9HAi6hM) | 4:11 | 2025-09-22 | 2025-12-17 |
 | [Für Immer \- Remix](https://open.spotify.com/track/2hpl1n59KTXajtBcP0ZTxI) | [Christaris](https://open.spotify.com/artist/65bycLZE7csn1qM95wLuCa) | [Blick nach vorn](https://open.spotify.com/album/3xIXeh22qBPOJZJL1lXXA0) | 3:12 | 2025-10-06 | 2025-11-28 |
 | [Ganho Ou Perco?](https://open.spotify.com/track/7A5YUDJZjBHV7pU71cEFW4) | [J.V\. Ferreira](https://open.spotify.com/artist/71IyZPuWgamI0vGHr0YKj7) | [Ganho Ou Perco?](https://open.spotify.com/album/0KFl9FoQhS7YNvok86360L) | 5:41 | 2025-12-24 |  |
+| [Genie](https://open.spotify.com/track/00bniyPFNFRkEyER0dQX0m) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Feral Child](https://open.spotify.com/album/1BNemdbTYPHl5gPVQJMwWq) | 6:55 | 2026-03-03 |  |
 | [Get Lost Blues](https://open.spotify.com/track/68TaMRM7uQyrVZz6oW1lrW) | [DELREI](https://open.spotify.com/artist/77Xku7f5rq7hfoooTiv5jW) | [Desolation and Radiation](https://open.spotify.com/album/1P6cd5pDxmFNFZedAMWwh1) | 3:47 | 2025-10-17 | 2025-11-28 |
 | [Ghostprint](https://open.spotify.com/track/5wBXiMvviukja7UJui6WCk) | [santyskies](https://open.spotify.com/artist/6Ow8olhOixQI8aiRnhcayv) | [Don’t let the overshadow](https://open.spotify.com/album/2cEf0VRnSzQtBTh9E4Iafq) | 4:40 | 2026-01-11 |  |
 | [Girl Gone Bad](https://open.spotify.com/track/0CfgCWKXlUNGNO2IGpT6WF) | [Marc Miner](https://open.spotify.com/artist/1805X4Dsc005LhyxsQgu5A) | [Last Heroes](https://open.spotify.com/album/1fsRse0jMTidK4lzVSdgMF) | 4:56 | 2025-09-01 | 2025-11-28 |
@@ -268,6 +270,7 @@
 | [Shadows of the night](https://open.spotify.com/track/30dDQL8uqJ9qPMvSdpNPUG) | [ilhan akkaya](https://open.spotify.com/artist/3lDziN7Y01piAmOPaFAyaV) | [I am not the one](https://open.spotify.com/album/1efRhOWb4EEXb5EW5qy6sk) | 4:00 | 2025-12-02 | 2025-12-17 |
 | [Shake That Thing](https://open.spotify.com/track/36eCRqqm1Xac8b6fockewa) | [The Blue Mules](https://open.spotify.com/artist/07uYlW7XK9oTaN2itp1M6e) | [The Blues Ain't That Bad](https://open.spotify.com/album/7Az7QkvAHEfACkzyDw1G1Y) | 3:33 | 2025-11-26 | 2025-12-17 |
 | [Shame on Me](https://open.spotify.com/track/5MJ15vdn2Nmtywbjpm6l5h) | [Ugochill](https://open.spotify.com/artist/1kOGUspiJr2BQ7HMDQdTRw), [The Turtle Project](https://open.spotify.com/artist/062cY7RGKXM9XJyWM1VCXa) | [Shame on Me](https://open.spotify.com/album/2YZ4LHiDmL6Yhh0LraTytw) | 5:08 | 2026-02-17 |  |
+| [She Never Knows](https://open.spotify.com/track/2izli5aeHaBWTIPiiItSj4) | [Thomas Duxbury](https://open.spotify.com/artist/6ECILQNZ22Kc1VCNpX4Cct) | [She Never Knows](https://open.spotify.com/album/3SYxMJvD6LJdPAnZfcYCh0) | 3:24 | 2026-03-03 |  |
 | [She's the girl](https://open.spotify.com/track/45N1BAybnbjmr7GqLsWpGB) | [Al 29](https://open.spotify.com/artist/0LebYgYvKDz6SzsFyoeWxs) | [Tell me what it's for](https://open.spotify.com/album/3rbYCgf76Hv8h5GqckdG7U) | 3:38 | 2025-12-16 |  |
 | [Shooting Star](https://open.spotify.com/track/2oK9ZdADZdxl1LuIipN4xD) | [The Liquid](https://open.spotify.com/artist/5Hw2PyccNJkCzkhlTwmJZp) | [Shooting Star](https://open.spotify.com/album/432iuO2jJuUQ6FR6llvpa6) | 2:40 | 2025-12-04 | 2025-12-17 |
 | [Smoke and Mirrors](https://open.spotify.com/track/00Oc8jsw9mzcvR2HhG1Jtm) | [Dane Rivers](https://open.spotify.com/artist/6PaURsKDuXnJOuLBhIpnJh) | [Smoke and Mirrors](https://open.spotify.com/album/13dteLs18ErbtnAkXlkN8D) | 2:58 | 2026-01-02 |  |
@@ -346,6 +349,7 @@
 | [You're a Friend of Mine \(feat\. Narada Michael Walden\)](https://open.spotify.com/track/2x04VP8T1xXpqIlM5b09Hv) | [Dan Ashley](https://open.spotify.com/artist/4cVwoNjVVoOzFWX4wBlk4p), [Narada Michael Walden](https://open.spotify.com/artist/37WGztoQRbNgo55GQCw75B) | [You're a Friend of Mine \(feat\. Narada Michael Walden\)](https://open.spotify.com/album/03PVk8Dk3pOMkwdBXwlhcM) | 4:56 | 2025-10-08 | 2025-11-28 |
 | [You’re never been my mistake](https://open.spotify.com/track/1cjyeqZEhUC8u4pwoe9MIS) | [John Elburg](https://open.spotify.com/artist/1hwt8ZrBctVjNcp8jYDExX) | [The world of Blues](https://open.spotify.com/album/2zUP0v3nY4BidvDuTH9F9Y) | 3:29 | 2025-11-08 | 2025-12-17 |
 | [Магеллани](https://open.spotify.com/track/0vzLHz2n2BNjmO8LYQqmdL) | [Ретровай](https://open.spotify.com/artist/1CtJwth1WytrNQOo5DItA1) | [Магеллани](https://open.spotify.com/album/7djdPXZ65EKCdl1r1idR3a) | 2:15 | 2025-09-28 | 2025-12-17 |
+| [Чёрный корвет](https://open.spotify.com/track/5o0IWfBaNiVpiA9NGdxkq7) | [Aleks Qt](https://open.spotify.com/artist/29OA00wnsr71wqUiL3dzD1) | [Чёрный корвет](https://open.spotify.com/album/1k4vR9gRobAO2Cofs6mvDQ) | 3:38 | 2026-03-03 |  |
 | [黒い瞳](https://open.spotify.com/track/0kRBxEWCvP3ojqVpVj7OAw) | [HIROYA UEYAMA](https://open.spotify.com/artist/4BDqh1UDKOGQjmSmA4syBC) | [黒い瞳](https://open.spotify.com/album/7ghaV4RaYNMsvb5acwHy7c) | 3:33 | 2025-09-29 | 2025-12-17 |
 
 \*This playlist was first scraped on 2025-11-19. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 163686,
+  "num_followers": 163749,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,22 @@
     {
       "added_at": "2026-02-20 05:28:17",
       "album": {
+        "name": "Daur Hidup",
+        "url": "https://open.spotify.com/album/6LVBF7LOvsD1vpacxXS1VI"
+      },
+      "artists": [
+        {
+          "name": "Donne Maula",
+          "url": "https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG"
+        }
+      ],
+      "duration_ms": 162739,
+      "name": "Daur Hidup",
+      "url": "https://open.spotify.com/track/2CfL8YlJXQ6DYMjCqMVull"
+    },
+    {
+      "added_at": "2026-02-20 05:28:17",
+      "album": {
         "name": "Menjaga Hati",
         "url": "https://open.spotify.com/album/5zAZDy6OPD6u04TCIAo0Ou"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 233410,
       "name": "Menjaga Hati",
       "url": "https://open.spotify.com/track/4OzWgPNMaXEAeUCPy3RTMk"
-    },
-    {
-      "added_at": "2026-02-20 05:28:17",
-      "album": {
-        "name": "Daur Hidup",
-        "url": "https://open.spotify.com/album/6LVBF7LOvsD1vpacxXS1VI"
-      },
-      "artists": [
-        {
-          "name": "Donne Maula",
-          "url": "https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG"
-        }
-      ],
-      "duration_ms": 162739,
-      "name": "Daur Hidup",
-      "url": "https://open.spotify.com/track/2CfL8YlJXQ6DYMjCqMVull"
     },
     {
       "added_at": "2026-02-20 05:28:17",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-02-20 05:28:17",
       "album": {
+        "name": "Sesal Separuh Nyawa",
+        "url": "https://open.spotify.com/album/3a4TIbbzltgMCyKl2sJdt3"
+      },
+      "artists": [
+        {
+          "name": "Alyah",
+          "url": "https://open.spotify.com/artist/2bUKiCTlseN47NCfkpDTEZ"
+        }
+      ],
+      "duration_ms": 259977,
+      "name": "Sesal Separuh Nyawa",
+      "url": "https://open.spotify.com/track/6Kqc2T2YiYLkzW6zD0GO8y"
+    },
+    {
+      "added_at": "2026-02-20 05:28:17",
+      "album": {
         "name": "Bisakah?",
         "url": "https://open.spotify.com/album/3usjmDEV1lOjmMAtCgQp2V"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 218100,
       "name": "Bisakah?",
       "url": "https://open.spotify.com/track/4MGu11FYb0jdgNaeNQEekh"
-    },
-    {
-      "added_at": "2026-02-20 05:28:17",
-      "album": {
-        "name": "Sesal Separuh Nyawa",
-        "url": "https://open.spotify.com/album/3a4TIbbzltgMCyKl2sJdt3"
-      },
-      "artists": [
-        {
-          "name": "Alyah",
-          "url": "https://open.spotify.com/artist/2bUKiCTlseN47NCfkpDTEZ"
-        }
-      ],
-      "duration_ms": 259977,
-      "name": "Sesal Separuh Nyawa",
-      "url": "https://open.spotify.com/track/6Kqc2T2YiYLkzW6zD0GO8y"
     },
     {
       "added_at": "2026-02-20 05:28:17",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-02-20 05:28:17",
       "album": {
-        "name": "Everlast",
-        "url": "https://open.spotify.com/album/4RQqQiwO3kTfzQI7YQfDMg"
-      },
-      "artists": [
-        {
-          "name": "Fabio Asher",
-          "url": "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
-        }
-      ],
-      "duration_ms": 202784,
-      "name": "Mahir Memberi Luka",
-      "url": "https://open.spotify.com/track/5hPv6XDaQzixDaYN0yRCFi"
-    },
-    {
-      "added_at": "2026-02-20 05:28:17",
-      "album": {
         "name": "Peluk",
         "url": "https://open.spotify.com/album/6381WWH6HSyumTXAK5vr5Q"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 243461,
       "name": "Peluk",
       "url": "https://open.spotify.com/track/2PkNwX4SGsBpO31fvOg5oM"
+    },
+    {
+      "added_at": "2026-02-20 05:28:17",
+      "album": {
+        "name": "Everlast",
+        "url": "https://open.spotify.com/album/4RQqQiwO3kTfzQI7YQfDMg"
+      },
+      "artists": [
+        {
+          "name": "Fabio Asher",
+          "url": "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
+        }
+      ],
+      "duration_ms": 202784,
+      "name": "Mahir Memberi Luka",
+      "url": "https://open.spotify.com/track/5hPv6XDaQzixDaYN0yRCFi"
     }
   ],
   "unique_name": "galau rabak",

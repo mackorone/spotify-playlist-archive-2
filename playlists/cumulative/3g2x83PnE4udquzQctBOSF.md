@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-512 songs - 1 day 7 hr 9 min
+514 songs - 1 day 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [Leave Me Like This](https://open.spotify.com/track/7vzWtCVhEKDmDkMmT3AiUL) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Bobby Raps](https://open.spotify.com/artist/22g86cix6LCeLMbu3m91Wo) | [Leave Me Like This](https://open.spotify.com/album/2U5XHV8AMBojtjxB6AWP6U) | 3:08 | 2023-01-22 | 2023-02-13 |
 | [Leave The Past Behind](https://open.spotify.com/track/72zsJLiCPtrmjZMakMKOuc) | [West Dingo](https://open.spotify.com/artist/6B30jOzfy4u8nu9PrcoOFa) | [Slow is Smooth\. Smooth is Fast.](https://open.spotify.com/album/7sIVA9xNrYCtBf05hdutQh) | 3:40 | 2025-12-15 | 2026-01-03 |
 | [Less That](https://open.spotify.com/track/7zCsBTEeeaB1QAJK2R728d) | [Caique Carvalho](https://open.spotify.com/artist/1W9pJsla05m0YLC25BaPzW), [No Break](https://open.spotify.com/artist/4mZ0SNrLR1DPVB86E8iLqQ) | [Less That](https://open.spotify.com/album/4R7gY27TiEhuGPNO5wJknN) | 3:10 | 2023-01-22 | 2023-02-13 |
+| [Let Go](https://open.spotify.com/track/1CYsrtqOAPIS8lmfkWa6z9) | [Lucio Momo](https://open.spotify.com/artist/38gaYwGmxGHKk52MVhWMqb), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Let Go](https://open.spotify.com/album/1L0lgzWz7pvDjPwYovZ1RM) | 5:22 | 2026-03-03 |  |
 | [Let's Go Dancing \- Matroda Remix](https://open.spotify.com/track/4bhe0PVXsnv9Zvo9DKD27N) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Audion](https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8), [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Let's Go Dancing \(Matroda Remix\)](https://open.spotify.com/album/4bNMns2prUJi3cJwEF7dKc) | 3:15 | 2024-02-04 | 2024-03-25 |
 | [Liberty](https://open.spotify.com/track/64vnvKNR4XDM2DoFxBwAH0) | [Capitan Anderson](https://open.spotify.com/artist/1UhTbltbhvIH7K06oNE9H4) | [Liberty / Equanimity](https://open.spotify.com/album/39beWChJipVtYrAOzYbnT4) | 5:40 | 2026-02-14 | 2026-02-23 |
 | [Lick Lick](https://open.spotify.com/track/6gi4q4zu0rdbPqudX9dSaJ) | [Snooko](https://open.spotify.com/artist/0KAsH8x2fuBX1ExPyXaHMx) | [Lick Lick](https://open.spotify.com/album/1DASRqjuhlJz4GEJpNxqQA) | 5:46 | 2024-10-13 |  |
@@ -385,6 +386,7 @@
 | [Rock The Casbah \- Club Mix](https://open.spotify.com/track/22tlePO9GUEXH0cAofRKTH) | [The Cube Guys](https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg) | [Rock The Casbah \(Club Mix\)](https://open.spotify.com/album/3l4PdEXNDiXAQIsTJtAiGc) | 5:06 | 2026-02-24 |  |
 | [Rock The House](https://open.spotify.com/track/3EYzxRhzkkVKRiw1PRvPQ6) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [FRANCO BA](https://open.spotify.com/artist/4scG3MM222bFgXRcJ7Yajx) | [Wanna Dance EP](https://open.spotify.com/album/2fvC5Y9cNUXetWyiJQJjSp) | 3:01 | 2023-02-12 | 2023-03-06 |
 | [Roll Deep](https://open.spotify.com/track/0aM9pyp7B9aCcuhac1Rmov) | [Nightlapse](https://open.spotify.com/artist/7tnekRHOd4h5mo77R3OOxX), [JSED](https://open.spotify.com/artist/2cmDOnKaD2t6yi7uMc9CCq) | [Roll Deep](https://open.spotify.com/album/6vTSZuSEzAauBKX1A6rH7c) | 2:40 | 2024-02-04 | 2024-03-25 |
+| [Rollin'](https://open.spotify.com/track/2Rnr6ztcJt9vrJMkqZ7eVb) | [Nota Baxua](https://open.spotify.com/artist/1cFRemxURzd9fohFUoUgAT) | [Rollin'](https://open.spotify.com/album/5ndJHv9ftMEAmHdvFhEBcI) | 5:15 | 2026-03-03 |  |
 | [Roots Of House Music](https://open.spotify.com/track/0yFuwfNxXHerJmBEtMPzyS) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [Roots Of House Music](https://open.spotify.com/album/5cTGR5XmPnc60KJm6H0PyG) | 3:08 | 2023-01-29 | 2023-02-20 |
 | [Ruff Cutz](https://open.spotify.com/track/7ncQGjZ7XZ5TzhWCe7FBJK) | [Jack Walker \(UK\)](https://open.spotify.com/artist/4JT6E1f3uUYXZP0ZeRxW5y) | [Ruff Cutz](https://open.spotify.com/album/4TON0Tx2gEnDc4IMmh6oAL) | 3:26 | 2023-09-24 | 2023-12-14 |
 | [Rumblah](https://open.spotify.com/track/4ZhbD69otaeNjjChA9h8qv) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Rumblah](https://open.spotify.com/album/2UnbY5sd4QS7mHAE2J3YYv) | 4:02 | 2023-01-29 | 2023-03-06 |

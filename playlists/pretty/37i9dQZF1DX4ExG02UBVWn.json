@@ -1,6 +1,6 @@
 {
   "description": "for the late nights",
-  "num_followers": 20646,
+  "num_followers": 20651,
   "original_name": "the night bus",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "Price You Pay",
+        "url": "https://open.spotify.com/album/68H7rb7p0wrAjDa9SV0sML"
+      },
+      "artists": [
+        {
+          "name": "Tia Gordon",
+          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Price You Pay",
+      "url": "https://open.spotify.com/track/3ZuAZWE7pKBPh0tyGATaPQ"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "Button Up",
         "url": "https://open.spotify.com/album/1D7dJ6DynUboIRFZ7TT20L"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 157440,
       "name": "Button Up",
       "url": "https://open.spotify.com/track/2dMW31LPd4yL1LVvmXcowO"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "Price You Pay",
-        "url": "https://open.spotify.com/album/68H7rb7p0wrAjDa9SV0sML"
-      },
-      "artists": [
-        {
-          "name": "Tia Gordon",
-          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Price You Pay",
-      "url": "https://open.spotify.com/track/3ZuAZWE7pKBPh0tyGATaPQ"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "money",
-        "url": "https://open.spotify.com/album/0bz7KBDpiGvM5eY8dz5xAS"
-      },
-      "artists": [
-        {
-          "name": "Tiana Major9",
-          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
-        }
-      ],
-      "duration_ms": 178536,
-      "name": "money",
-      "url": "https://open.spotify.com/track/3ElHyG624YgOJWnT4vhI1o"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Introverted Stoner",
         "url": "https://open.spotify.com/album/1mLKp499Qf01vpQEeSAX08"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 192026,
       "name": "Introverted Stoner",
       "url": "https://open.spotify.com/track/3HhZdVVUChJnjjn1P6j4nQ"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "money",
+        "url": "https://open.spotify.com/album/0bz7KBDpiGvM5eY8dz5xAS"
+      },
+      "artists": [
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        }
+      ],
+      "duration_ms": 178536,
+      "name": "money",
+      "url": "https://open.spotify.com/track/3ElHyG624YgOJWnT4vhI1o"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -923,18 +923,18 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Can't Love",
-        "url": "https://open.spotify.com/album/20zbJ6AZx33mF7Hox03DfR"
+        "name": "Motion Sick",
+        "url": "https://open.spotify.com/album/30E4JSpb6dJ7xiCFf5Uyxm"
       },
       "artists": [
         {
-          "name": "Bea Maher",
-          "url": "https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf"
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
         }
       ],
-      "duration_ms": 219281,
-      "name": "Can't Love",
-      "url": "https://open.spotify.com/track/3kIPQeBuU1Tie6SddVzyFi"
+      "duration_ms": 200866,
+      "name": "Braid It Back",
+      "url": "https://open.spotify.com/track/2NniQePH98Yun9uME1ZUMz"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -955,18 +955,18 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Motion Sick",
-        "url": "https://open.spotify.com/album/30E4JSpb6dJ7xiCFf5Uyxm"
+        "name": "Can't Love",
+        "url": "https://open.spotify.com/album/20zbJ6AZx33mF7Hox03DfR"
       },
       "artists": [
         {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+          "name": "Bea Maher",
+          "url": "https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf"
         }
       ],
-      "duration_ms": 200866,
-      "name": "Braid It Back",
-      "url": "https://open.spotify.com/track/2NniQePH98Yun9uME1ZUMz"
+      "duration_ms": 219281,
+      "name": "Can't Love",
+      "url": "https://open.spotify.com/track/3kIPQeBuU1Tie6SddVzyFi"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Golden House",
-        "url": "https://open.spotify.com/album/4P8HYH6sHDAbdZSxGYxHbH"
-      },
-      "artists": [
-        {
-          "name": "Frankie Stew and Harvey Gunn",
-          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
-        }
-      ],
-      "duration_ms": 162644,
-      "name": "Golden House",
-      "url": "https://open.spotify.com/track/0qVAabtnJ4hHFiiL8YiBD7"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "The Way/A While Now",
         "url": "https://open.spotify.com/album/0oNzjicO5Ygztg07WOKh1s"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 121359,
       "name": "A While Now",
       "url": "https://open.spotify.com/track/7IoaHWlY2nd7OQl79TVxoM"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Golden House",
+        "url": "https://open.spotify.com/album/4P8HYH6sHDAbdZSxGYxHbH"
+      },
+      "artists": [
+        {
+          "name": "Frankie Stew and Harvey Gunn",
+          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
+        }
+      ],
+      "duration_ms": 162644,
+      "name": "Golden House",
+      "url": "https://open.spotify.com/track/0qVAabtnJ4hHFiiL8YiBD7"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "Feel A Way",
+        "url": "https://open.spotify.com/album/5Et4BGkwJu1peujLFzOtM4"
+      },
+      "artists": [
+        {
+          "name": "Stacy N.K.R",
+          "url": "https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U"
+        }
+      ],
+      "duration_ms": 154124,
+      "name": "Feel A Way",
+      "url": "https://open.spotify.com/track/1dbmyZIJPifnlKNWjnS3Ke"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "Summer 17",
         "url": "https://open.spotify.com/album/5M75VygWOzLrY2MwK1sdl4"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 181161,
       "name": "Summer 17",
       "url": "https://open.spotify.com/track/7t1Oz20dDYMjyvyrbIKqI5"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "Feel A Way",
-        "url": "https://open.spotify.com/album/5Et4BGkwJu1peujLFzOtM4"
-      },
-      "artists": [
-        {
-          "name": "Stacy N.K.R",
-          "url": "https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U"
-        }
-      ],
-      "duration_ms": 154124,
-      "name": "Feel A Way",
-      "url": "https://open.spotify.com/track/1dbmyZIJPifnlKNWjnS3Ke"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "New Hands/Writers Block",
-        "url": "https://open.spotify.com/album/57A54fWTBCsAlu5Hzn5o6u"
-      },
-      "artists": [
-        {
-          "name": "Liv Walker",
-          "url": "https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk"
-        }
-      ],
-      "duration_ms": 174015,
-      "name": "New Hands/Writers Block",
-      "url": "https://open.spotify.com/track/0i1nOqhrsC7fDi09yg0wrm"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Lagoon",
         "url": "https://open.spotify.com/album/0syGgHpT59AFLYZD1qVnBY"
       },
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "New Hands/Writers Block",
+        "url": "https://open.spotify.com/album/57A54fWTBCsAlu5Hzn5o6u"
+      },
+      "artists": [
+        {
+          "name": "Liv Walker",
+          "url": "https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk"
+        }
+      ],
+      "duration_ms": 174015,
+      "name": "New Hands/Writers Block",
+      "url": "https://open.spotify.com/track/0i1nOqhrsC7fDi09yg0wrm"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "Bad",
         "url": "https://open.spotify.com/album/3I8m0mug29wYCCVJuX7xqA"
       },
@@ -1387,22 +1387,6 @@
       "duration_ms": 211733,
       "name": "Bad",
       "url": "https://open.spotify.com/track/4NOzEFuBL6jzKqovwxB5Pi"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "A Lot",
-        "url": "https://open.spotify.com/album/4gqebsvvLe0YDGpgArclZ0"
-      },
-      "artists": [
-        {
-          "name": "0RACL3",
-          "url": "https://open.spotify.com/artist/5ngejTpnC2HYvbgLwXSmNc"
-        }
-      ],
-      "duration_ms": 167507,
-      "name": "A Lot",
-      "url": "https://open.spotify.com/track/1KKoEoTZOJT0M6urH5eNip"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "A Lot",
+        "url": "https://open.spotify.com/album/4gqebsvvLe0YDGpgArclZ0"
+      },
+      "artists": [
+        {
+          "name": "0RACL3",
+          "url": "https://open.spotify.com/artist/5ngejTpnC2HYvbgLwXSmNc"
+        }
+      ],
+      "duration_ms": 167507,
+      "name": "A Lot",
+      "url": "https://open.spotify.com/track/1KKoEoTZOJT0M6urH5eNip"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "Be My Friend",
         "url": "https://open.spotify.com/album/3qYZIoemyV20j52tqzzCQt"
       },
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Feeling Like",
-        "url": "https://open.spotify.com/album/5dkMgbChILOPiuKpEk381O"
-      },
-      "artists": [
-        {
-          "name": "JayaHadADream",
-          "url": "https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo"
-        },
-        {
-          "name": "Wasalu",
-          "url": "https://open.spotify.com/artist/56pecKMLXlMSMDCLhQS8B7"
-        }
-      ],
-      "duration_ms": 184658,
-      "name": "Feeling Like",
-      "url": "https://open.spotify.com/track/6eXOVvVtIYFNnLOpHcv5Yp"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "26% MIXTAPE",
         "url": "https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 188368,
       "name": "Ride 2 Nowhere",
       "url": "https://open.spotify.com/track/4eRHpTaioNYFDEmtv94iZJ"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Feeling Like",
+        "url": "https://open.spotify.com/album/5dkMgbChILOPiuKpEk381O"
+      },
+      "artists": [
+        {
+          "name": "JayaHadADream",
+          "url": "https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo"
+        },
+        {
+          "name": "Wasalu",
+          "url": "https://open.spotify.com/artist/56pecKMLXlMSMDCLhQS8B7"
+        }
+      ],
+      "duration_ms": 184658,
+      "name": "Feeling Like",
+      "url": "https://open.spotify.com/track/6eXOVvVtIYFNnLOpHcv5Yp"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "B P D",
+        "url": "https://open.spotify.com/album/29rkxPGJziha2y2wNfiiI3"
+      },
+      "artists": [
+        {
+          "name": "jena keating",
+          "url": "https://open.spotify.com/artist/2tw1ZLTuZvyvCE2KCkq33H"
+        }
+      ],
+      "duration_ms": 155389,
+      "name": "B P D",
+      "url": "https://open.spotify.com/track/0HUJhDhDiBPwpGEBoP8kUe"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "Intertwined",
         "url": "https://open.spotify.com/album/2VK00iADYTVoLVqf2GxFVt"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 352999,
       "name": "Intertwined",
       "url": "https://open.spotify.com/track/5ePKT3lYR97ZCwWTkXeKt6"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "B P D",
-        "url": "https://open.spotify.com/album/29rkxPGJziha2y2wNfiiI3"
-      },
-      "artists": [
-        {
-          "name": "jena keating",
-          "url": "https://open.spotify.com/artist/2tw1ZLTuZvyvCE2KCkq33H"
-        }
-      ],
-      "duration_ms": 155389,
-      "name": "B P D",
-      "url": "https://open.spotify.com/track/0HUJhDhDiBPwpGEBoP8kUe"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Extinction",
-        "url": "https://open.spotify.com/album/74yG8sHvJqr50AQaVW2l04"
-      },
-      "artists": [
-        {
-          "name": "Sofia Grant",
-          "url": "https://open.spotify.com/artist/00k1APrXylDwP3HInytxvI"
-        }
-      ],
-      "duration_ms": 291349,
-      "name": "Extinction",
-      "url": "https://open.spotify.com/track/0Y7VFF8nJCvHegOTNRmQ8r"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Out of Style",
         "url": "https://open.spotify.com/album/4GWriL3zDCxyzpD2ZIpBjC"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 164000,
       "name": "Out of Style",
       "url": "https://open.spotify.com/track/1yYHHDEniESPk9iNFr5nyR"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Extinction",
+        "url": "https://open.spotify.com/album/74yG8sHvJqr50AQaVW2l04"
+      },
+      "artists": [
+        {
+          "name": "Sofia Grant",
+          "url": "https://open.spotify.com/artist/00k1APrXylDwP3HInytxvI"
+        }
+      ],
+      "duration_ms": 291349,
+      "name": "Extinction",
+      "url": "https://open.spotify.com/track/0Y7VFF8nJCvHegOTNRmQ8r"
     },
     {
       "added_at": "2025-08-07 15:52:15",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \uacf5\uc6d0 (gongwon)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \ubc15\ucc2c\uc601) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -14193,6 +14193,24 @@
     },
     {
       "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/6PklPzH8lEZIRvRsP8xg3H"
+      },
+      "artists": [
+        {
+          "name": "OurR",
+          "url": "https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287000,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/0bxtHyBu4hJMk2irUkQFpQ"
+    },
+    {
+      "album": {
         "name": "October",
         "url": "https://open.spotify.com/album/6tb3F5jPWvBPjjRMBbdyjW"
       },
@@ -14208,6 +14226,24 @@
       "duration_ms": 234026,
       "name": "October",
       "url": "https://open.spotify.com/track/2sA8WPQSXlYWujfojCgtWV"
+    },
+    {
+      "album": {
+        "name": "Moments That Stayed",
+        "url": "https://open.spotify.com/album/2AUS9zCDCkYdlHvHV94AVa"
+      },
+      "artists": [
+        {
+          "name": "Park Chan Young",
+          "url": "https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Oh my darling, you",
+      "url": "https://open.spotify.com/track/1bnxyxbTnr8B88Nto0jf34"
     },
     {
       "album": {
@@ -18936,7 +18972,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 191278,
       "name": "sway",
       "url": "https://open.spotify.com/track/78KWPtzyxqY36h1Z4OcgbJ"
@@ -22060,7 +22096,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 206784,
       "name": "Winter.",
       "url": "https://open.spotify.com/track/1ZSuJ6n7KsDIKl1fVjPx1Z"

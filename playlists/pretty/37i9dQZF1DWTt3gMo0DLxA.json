@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: The Paradise",
-  "num_followers": 544002,
+  "num_followers": 544725,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOZjGbEzovQV1hK4G1rzTe6DFiN0",
+  "snapshot_id": "AAAAAND4uEGbzsszVjnHgEjLNJEJsMVc",
   "tracks": [
     {
       "added_at": "2026-02-25 10:32:25",
@@ -35,6 +35,54 @@
       "duration_ms": 286917,
       "name": "Aaya Sher (From \"The Paradise\") (Telugu)",
       "url": "https://open.spotify.com/track/4kV0ugCwyF7OAb3huIdThG"
+    },
+    {
+      "added_at": "2026-03-03 06:21:46",
+      "album": {
+        "name": "Rai Rai Raa Raa (From \"Peddi\") [TELUGU]",
+        "url": "https://open.spotify.com/album/0ySPxQtfOMhSEqpGiiFSKi"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Anantha Sreeram",
+          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
+        }
+      ],
+      "duration_ms": 266032,
+      "name": "Rai Rai Raa Raa (From \"Peddi\") [TELUGU]",
+      "url": "https://open.spotify.com/track/29HAoc3GDDbb7mW9isgs9K"
+    },
+    {
+      "added_at": "2026-03-03 06:36:54",
+      "album": {
+        "name": "Endhayya Saami (Special Surprise) [From \"Ranabaali\"]",
+        "url": "https://open.spotify.com/album/6l8wEEgbJ0VYfkMhEL999z"
+      },
+      "artists": [
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        },
+        {
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        },
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        }
+      ],
+      "duration_ms": 79234,
+      "name": "Endhayya Saami (Special Surprise) [From \"Ranabaali\"]",
+      "url": "https://open.spotify.com/track/3bBKPc5S5VkIP2msOWMFkv"
     },
     {
       "added_at": "2025-11-03 09:53:29",
@@ -83,30 +131,6 @@
       "duration_ms": 266715,
       "name": "Inkem Inkem Inkem Kaavaale",
       "url": "https://open.spotify.com/track/3hglFJgXWPZUlHLfiDO35b"
-    },
-    {
-      "added_at": "2026-02-24 09:08:55",
-      "album": {
-        "name": "Vaammo Vaayyo (From \"Bhartha Mahasayulaku Wignyapthi\")",
-        "url": "https://open.spotify.com/album/2GMqUpodUZEJjTxGSjjrzI"
-      },
-      "artists": [
-        {
-          "name": "Bheems Ceciroleo",
-          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
-        },
-        {
-          "name": "Swathi Reddy UK",
-          "url": "https://open.spotify.com/artist/3lgDXKavd9zCXvaEEAYpib"
-        },
-        {
-          "name": "Dev Pawar",
-          "url": "https://open.spotify.com/artist/3MWeX3OdgsmuuTW2LJ2zTD"
-        }
-      ],
-      "duration_ms": 181630,
-      "name": "Vaammo Vaayyo (From \"Bhartha Mahasayulaku Wignyapthi\")",
-      "url": "https://open.spotify.com/track/4eE7fHSWlvRD63R0gwjVFa"
     },
     {
       "added_at": "2025-11-11 06:12:33",
@@ -383,22 +407,6 @@
       "duration_ms": 232666,
       "name": "Koyila",
       "url": "https://open.spotify.com/track/7qi2RGLDPwx2aXfknysYLw"
-    },
-    {
-      "added_at": "2026-02-13 14:16:35",
-      "album": {
-        "name": "Love Story",
-        "url": "https://open.spotify.com/album/0OImGXGRBT5TAiMBXvKMFO"
-      },
-      "artists": [
-        {
-          "name": "Mangli",
-          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
-        }
-      ],
-      "duration_ms": 230048,
-      "name": "Saranga Dariya",
-      "url": "https://open.spotify.com/track/37FEq6fd1VmlShSni5Y4zh"
     },
     {
       "added_at": "2026-02-02 06:14:22",

@@ -8914,7 +8914,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/5VtwUrgljtOyBa773AGSr4"
@@ -8950,7 +8950,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/7pBE8YpFoZ9ankC2Ci5z9X"
@@ -11083,6 +11083,28 @@
     },
     {
       "album": {
+        "name": "At\u00e9 o Pr\u00f3ximo Carnaval, Vol. 3",
+        "url": "https://open.spotify.com/album/6k9jVRNVQRkPrqrT8PGpGI"
+      },
+      "artists": [
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162507,
+      "name": "Bloco dos Apaixonados",
+      "url": "https://open.spotify.com/track/68xXgMubo2U5MEGCtJFxzC"
+    },
+    {
+      "album": {
         "name": "Blogueira Do Tigrin",
         "url": "https://open.spotify.com/album/7fgoAj1ybhXsbRkuskFzJo"
       },
@@ -13053,6 +13075,24 @@
     },
     {
       "album": {
+        "name": "Icon",
+        "url": "https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248297,
+      "name": "butterflies.",
+      "url": "https://open.spotify.com/track/4jyyma8YdFC4S4llusSFRu"
+    },
+    {
+      "album": {
         "name": "No Strings Attached",
         "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
       },
@@ -14918,6 +14958,36 @@
     {
       "album": {
         "name": "Carn\u00edvoro",
+        "url": "https://open.spotify.com/album/1Wytj2S8Of5HMUmOJN1ULa"
+      },
+      "artists": [
+        {
+          "name": "Mc Jacare\u0301",
+          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Carn\u00edvoro",
+      "url": "https://open.spotify.com/track/65aH3l8LEmRp3HuH5XpKoH"
+    },
+    {
+      "album": {
+        "name": "Carn\u00edvoro",
         "url": "https://open.spotify.com/album/45lGEvqXqQd7RLietEj16l"
       },
       "artists": [
@@ -14944,36 +15014,6 @@
       "duration_ms": 216000,
       "name": "Carn\u00edvoro",
       "url": "https://open.spotify.com/track/6zWfgvh1e1FCdtfUVj370i"
-    },
-    {
-      "album": {
-        "name": "Carn\u00edvoro (Incidental De 1 Minuto)",
-        "url": "https://open.spotify.com/album/1Wytj2S8Of5HMUmOJN1ULa"
-      },
-      "artists": [
-        {
-          "name": "Mc Jacare\u0301",
-          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
-        },
-        {
-          "name": "Mc Lele JP",
-          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
-        },
-        {
-          "name": "Mc Neg\u00e3o Original",
-          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
-        },
-        {
-          "name": "DJ Japa NK",
-          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
-        }
-      ],
-      "date_added": "2026-02-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 216000,
-      "name": "Carn\u00edvoro (Incidental De 1 Minuto)",
-      "url": "https://open.spotify.com/track/65aH3l8LEmRp3HuH5XpKoH"
     },
     {
       "album": {
@@ -24448,6 +24488,24 @@
       "duration_ms": 214960,
       "name": "Duvidosa",
       "url": "https://open.spotify.com/track/6LshoK7N0x5Um62W03yUul"
+    },
+    {
+      "album": {
+        "name": "Wuthering Heights",
+        "url": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182038,
+      "name": "Dying for You",
+      "url": "https://open.spotify.com/track/0T3sHoiR3t9HtwbIOgTI7J"
     },
     {
       "album": {
@@ -34305,6 +34363,28 @@
     },
     {
       "album": {
+        "name": "GOSTA DE GOLD, GOSTA DE ICE, E DE CACHORRADA",
+        "url": "https://open.spotify.com/album/6m9ARSJoaCdkyod8n79HXW"
+      },
+      "artists": [
+        {
+          "name": "Ph Sheik",
+          "url": "https://open.spotify.com/artist/3x2SuX4Gy1cugtH6FhVH55"
+        },
+        {
+          "name": "Mc Magrinho",
+          "url": "https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114461,
+      "name": "GOSTA DE GOLD, GOSTA DE ICE, E DE CACHORRADA",
+      "url": "https://open.spotify.com/track/6uJSjM7ICmHQQb9Y3rW8eY"
+    },
+    {
+      "album": {
         "name": "Quest\u00e3o de Tempo (Ao Vivo / Vol.2)",
         "url": "https://open.spotify.com/album/2TGnkCFVDWQ444lFDVxyT9"
       },
@@ -34356,7 +34436,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 163200,
       "name": "GOSTA DE SACANAGEM",
       "url": "https://open.spotify.com/track/04qC09tJqs5BNQEE2Ujbja"
@@ -36034,7 +36114,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 124125,
       "name": "Hipnotiza",
       "url": "https://open.spotify.com/track/55PclCORPD6GpFEUva4MOX"
@@ -36958,7 +37038,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 170625,
       "name": "HYPNOTIZE",
       "url": "https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo"
@@ -37496,6 +37576,24 @@
       "duration_ms": 181677,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/2Qcbspnftnon37jibwyvMU"
+    },
+    {
+      "album": {
+        "name": "Nothing's About to Happen to Me",
+        "url": "https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196426,
+      "name": "I'll Change for You",
+      "url": "https://open.spotify.com/track/0MRooJn2J6iXQnzFdFSpRR"
     },
     {
       "album": {
@@ -41720,6 +41818,32 @@
       "duration_ms": 121129,
       "name": "Lembrei de Tu",
       "url": "https://open.spotify.com/track/7r3V2Pf56owIdC1c5PwHYX"
+    },
+    {
+      "album": {
+        "name": "Lembrei de Tu",
+        "url": "https://open.spotify.com/album/088pxvJGLblIFVW4PL95Zq"
+      },
+      "artists": [
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Fepache",
+          "url": "https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173858,
+      "name": "Lembrei de Tu",
+      "url": "https://open.spotify.com/track/1lokGTw8YKDexcSPtQ8AQ3"
     },
     {
       "album": {
@@ -54655,6 +54779,28 @@
     },
     {
       "album": {
+        "name": "INFRA\u00c7\u00c3O - 1\u00ba ATO",
+        "url": "https://open.spotify.com/album/0d1H9Ibh2JL1JauWYcNI5g"
+      },
+      "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "TerrorDosBeats",
+          "url": "https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202304,
+      "name": "NEM ERA PRA EU T\u00c1 AQUI (Deus Que Me Escolheu)",
+      "url": "https://open.spotify.com/track/5JYIcuUNEVhy57xY8M1eHh"
+    },
+    {
+      "album": {
         "name": "Ao Vivo Em Bras\u00edlia (Deluxe)",
         "url": "https://open.spotify.com/album/4WiThiD9AkxCSYf291UDwc"
       },
@@ -56550,7 +56696,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
@@ -58596,7 +58742,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 172392,
       "name": "O Tbt Que Ele Quer",
       "url": "https://open.spotify.com/track/5s4j3EtFF9P0f1KkqYzcT5"
@@ -62712,7 +62858,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 110769,
       "name": "PEGA A MALDADE DA BANDIDA",
       "url": "https://open.spotify.com/track/588PdhJdtsuypJdUb4ms4K"
@@ -71227,6 +71373,32 @@
     },
     {
       "album": {
+        "name": "Sabor Cowboy",
+        "url": "https://open.spotify.com/album/7E6XoYzIjnuiJJRsqDxjGo"
+      },
+      "artists": [
+        {
+          "name": "Marco Brasil Filho",
+          "url": "https://open.spotify.com/artist/2f88CSOFEgN0ATmxgXaCTb"
+        },
+        {
+          "name": "Jo\u00e3o Nelore & Texano",
+          "url": "https://open.spotify.com/artist/1znNLduZAHoADY3lXy5tbw"
+        },
+        {
+          "name": "Dj Kevin",
+          "url": "https://open.spotify.com/artist/6WRpFyCGbRCFl3LGARktzd"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Sabor Cowboy",
+      "url": "https://open.spotify.com/track/1JAVq5ortNzLG11K3VHPxa"
+    },
+    {
+      "album": {
         "name": "SACODE AUTOMOTIVO",
         "url": "https://open.spotify.com/album/4wzHsVLDn2g96COzbiBfnN"
       },
@@ -74187,6 +74359,36 @@
     },
     {
       "album": {
+        "name": "Ser Solteiro \u00e9 Bom",
+        "url": "https://open.spotify.com/album/2hR1BYqhFzYc7M2C0lV7aH"
+      },
+      "artists": [
+        {
+          "name": "Kad\u00ed",
+          "url": "https://open.spotify.com/artist/3GXjCfee7oEOf9CLCxmdNA"
+        },
+        {
+          "name": "Francisco",
+          "url": "https://open.spotify.com/artist/4d9ExYWhOcTwrHJgTl3tJg"
+        },
+        {
+          "name": "Rincon",
+          "url": "https://open.spotify.com/artist/6bJJCcH6BM1tugUPZvGZE0"
+        },
+        {
+          "name": "DJ Petroski",
+          "url": "https://open.spotify.com/artist/2ibOTUqkFFeIYei7my6n6A"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149960,
+      "name": "Ser Solteiro \u00e9 Bom",
+      "url": "https://open.spotify.com/track/13tfck7tepcBeThdqW71F6"
+    },
+    {
+      "album": {
         "name": "SEREIA",
         "url": "https://open.spotify.com/album/2klhmIzCu9KrwHJbsuS2lb"
       },
@@ -75754,7 +75956,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 207279,
       "name": "SINA DE OF\u00c9LIA - FUNK",
       "url": "https://open.spotify.com/track/4jfytgjN1TVcG5cp2U2rfL"
@@ -75772,7 +75974,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 216226,
       "name": "Sinais de fogo",
       "url": "https://open.spotify.com/track/7D9BJEcWwRqvQVqPbj1dbF"
@@ -87840,7 +88042,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 147692,
       "name": "Vem Ni Mim Cuiudete",
       "url": "https://open.spotify.com/track/0LYMQxQo5f59FXYBQbHNrz"

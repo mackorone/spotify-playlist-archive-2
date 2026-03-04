@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "\ud53c\uc5b4\ub098\uace0 \uc788\ub294 \ud55c\uad6d\uc758 \uc7ac\ub2a5\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (Cover: Tokai) (Meet the emerging talents of Korea!) ",
+  "description": "\ud53c\uc5b4\ub098\uace0 \uc788\ub294 \ud55c\uad6d\uc758 \uc7ac\ub2a5\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (Cover: \ud478\ub9b0 (Purynn)) (Meet the emerging talents of Korea!) ",
   "name": "Fresh Finds Korea",
   "tracks": [
     {
@@ -594,6 +594,24 @@
       "duration_ms": 203899,
       "name": "777",
       "url": "https://open.spotify.com/track/24KjqxHU4SnvCgzfftXarS"
+    },
+    {
+      "album": {
+        "name": "90s",
+        "url": "https://open.spotify.com/album/2BDunOX2dRefNaCQAVxt7n"
+      },
+      "artists": [
+        {
+          "name": "Potatoi",
+          "url": "https://open.spotify.com/artist/0gBPHR1hURnHSHXiiIKVCf"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "90s",
+      "url": "https://open.spotify.com/track/7IVGLhH6xnEJisC9k429sc"
     },
     {
       "album": {
@@ -5334,7 +5352,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 155000,
       "name": "Concrete Valley",
       "url": "https://open.spotify.com/track/0fU8a6ynFpnDx4jECwGLWE"
@@ -6746,7 +6764,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 172000,
       "name": "Don't Cry",
       "url": "https://open.spotify.com/track/00J5g1QoLIInU4XER7JLMu"
@@ -10040,7 +10058,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 237500,
       "name": "Get up",
       "url": "https://open.spotify.com/track/7JXGwnCtLGfaS78SCHN7Il"
@@ -10102,6 +10120,28 @@
       "duration_ms": 199000,
       "name": "Girl, River (feat. Tamiz)",
       "url": "https://open.spotify.com/track/1mVOSArJrcBS0ruOaHVMqK"
+    },
+    {
+      "album": {
+        "name": "[LOadinG . .]",
+        "url": "https://open.spotify.com/album/0Qw90aAuoD9SzhcSADwIYv"
+      },
+      "artists": [
+        {
+          "name": "Purynn",
+          "url": "https://open.spotify.com/artist/5FrtaYX5rFPBLU66OAMzAh"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194678,
+      "name": "Girls (feat. Kid Milli)",
+      "url": "https://open.spotify.com/track/1lLBCFBp6mQo2t1iY1kEGf"
     },
     {
       "album": {
@@ -15300,7 +15340,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 286691,
       "name": "Like You",
       "url": "https://open.spotify.com/track/45jEOvG3aufhNH0sNqrALd"
@@ -16750,10 +16790,28 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 184000,
       "name": "Me, Myself & I",
       "url": "https://open.spotify.com/track/1xvZEUFAyzQcphDpMrjDs9"
+    },
+    {
+      "album": {
+        "name": "me, myself and cat",
+        "url": "https://open.spotify.com/album/3GikzttMcKZ0MxAP4XHYbv"
+      },
+      "artists": [
+        {
+          "name": "Kyurin",
+          "url": "https://open.spotify.com/artist/6bdlvd89zN7jTSb7UOU8zp"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189629,
+      "name": "me, myself and cat",
+      "url": "https://open.spotify.com/track/25zaajzCkPGYHF3rTalHti"
     },
     {
       "album": {
@@ -27321,6 +27379,24 @@
     },
     {
       "album": {
+        "name": "typing",
+        "url": "https://open.spotify.com/album/5bwIY9p0ZK09F0rcryHUff"
+      },
+      "artists": [
+        {
+          "name": "COII",
+          "url": "https://open.spotify.com/artist/0BTfN6kDzEjeCciCrb9Prv"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "typing",
+      "url": "https://open.spotify.com/track/0nfupRtfOEtb4UZaOHw9q5"
+    },
+    {
+      "album": {
         "name": "OFOSUN",
         "url": "https://open.spotify.com/album/5kezSa95PtqnwifxO0K6ky"
       },
@@ -27550,6 +27626,24 @@
       "duration_ms": 225060,
       "name": "UNIVERSE",
       "url": "https://open.spotify.com/track/19GLfqArY51fIMhPKd1b4a"
+    },
+    {
+      "album": {
+        "name": "Unstable",
+        "url": "https://open.spotify.com/album/2lp0ashMLchbxZpnu4pDkI"
+      },
+      "artists": [
+        {
+          "name": "Itzel",
+          "url": "https://open.spotify.com/artist/2st3D0ujBWZdRUKJf5jE3O"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Unstable",
+      "url": "https://open.spotify.com/track/3r9wYjqmVN43nsJ52DSEpp"
     },
     {
       "album": {

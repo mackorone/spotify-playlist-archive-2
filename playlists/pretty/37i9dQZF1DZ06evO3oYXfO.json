@@ -1,12 +1,12 @@
 {
   "description": "This is Black Sabbath. The essential tracks, all in one playlist.",
-  "num_followers": 497431,
+  "num_followers": 497493,
   "original_name": "This Is Black Sabbath",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaOBgAAAAAA5xXU427B4nH3cNNpKPGVk",
+  "snapshot_id": "aaTTAAAAAACs0LXrNfTET0fTP05Lq0Ti",
   "tracks": [
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sabbath Bloody Sabbath",
-        "url": "https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A"
+        "name": "Sabotage",
+        "url": "https://open.spotify.com/album/3VSOzRDe4dNrjcCYEeLz9b"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
         }
       ],
-      "duration_ms": 338640,
-      "name": "Killing Yourself to Live (2009 Remaster)",
-      "url": "https://open.spotify.com/track/1qykMIVb09E9dv6BylCUab"
+      "duration_ms": 239773,
+      "name": "Hole in the Sky - 2009 Remaster",
+      "url": "https://open.spotify.com/track/37Y1feezGuGVCe0kTBbKjg"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sabotage",
-        "url": "https://open.spotify.com/album/3VSOzRDe4dNrjcCYEeLz9b"
+        "name": "Sabbath Bloody Sabbath",
+        "url": "https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
         }
       ],
-      "duration_ms": 239773,
-      "name": "Hole in the Sky - 2009 Remaster",
-      "url": "https://open.spotify.com/track/37Y1feezGuGVCe0kTBbKjg"
+      "duration_ms": 338640,
+      "name": "Killing Yourself to Live (2009 Remaster)",
+      "url": "https://open.spotify.com/track/1qykMIVb09E9dv6BylCUab"
     },
     {
       "added_at": null,

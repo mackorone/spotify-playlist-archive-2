@@ -4,7 +4,7 @@
 
 > Solo rap da Napoli e dalla Campania\. Geolier in cover.
 
-585 songs - 1 day 2 hr 33 min
+586 songs - 1 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [CRYSTAL \(feat\. Frezza\)](https://open.spotify.com/track/6RHH26h1w6PffyRDsRoLUx) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Niko Beatz](https://open.spotify.com/artist/38KfktpTerKDEMxWtbSdCH), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [Angeli Violenti](https://open.spotify.com/album/6pKpBKHov6EhhP362AeFLm) | 2:27 | 2025-09-04 |  |
 | [Cu Me](https://open.spotify.com/track/7IyIWzLTpWeR4PstT753Xo) | [Ciro Zero](https://open.spotify.com/artist/1aLtB5Kl02MrY8tWAL5xeE), [Haxia](https://open.spotify.com/artist/02ThCXGGC4HPDsaYVKfisx) | [Cu Me](https://open.spotify.com/album/5qii8ueGySEj0Dy5nJCuUo) | 2:42 | 2025-10-16 | 2025-11-28 |
 | [CUGNOM PSANT](https://open.spotify.com/track/4Y9rB48bcDkzy8LhRSA2OH) | [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F) | [CUGNOM PSANT](https://open.spotify.com/album/7osnwnJ5Pnq5gElUkXYomo) | 2:16 | 2025-09-04 | 2025-09-26 |
-| [CUIET](https://open.spotify.com/track/431pLYghQroa6VJENGf9hM) | [Songop](https://open.spotify.com/artist/1W85h651mGAVGp2CmvCOna) | [CUIET](https://open.spotify.com/album/7rzNjZ0flfZVI5TqF29YCK) | 2:08 | 2026-02-12 |  |
+| [CUIET](https://open.spotify.com/track/431pLYghQroa6VJENGf9hM) | [Songop](https://open.spotify.com/artist/1W85h651mGAVGp2CmvCOna) | [CUIET](https://open.spotify.com/album/7rzNjZ0flfZVI5TqF29YCK) | 2:08 | 2026-02-12 | 2026-03-04 |
 | [Cuore](https://open.spotify.com/track/0d16j8Dro7bPysTqCC41gx) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Cuore](https://open.spotify.com/album/2QuV4BJfv91iB4alvddypY) | 3:22 | 2022-06-23 | 2022-11-18 |
 | [Cuore Rotto](https://open.spotify.com/track/5qAMsFqClevxs2nuZbReDW) | [Noisys](https://open.spotify.com/artist/6H5GGtS0sPeHTZjS5q70D7) | [Cuore Rotto](https://open.spotify.com/album/5BXkveR4dh0YJpV75rtPNY) | 2:46 | 2022-05-10 | 2024-02-23 |
 | [Dahmer](https://open.spotify.com/track/0gfbR7L5IfFNmVK5b0OpqK) | [SHYGUY.OG](https://open.spotify.com/artist/5OGilC8ZDq4jiufxRylb0X) | [Dahmer](https://open.spotify.com/album/5dC6fpDZGiLrgGVM2ovFff) | 1:27 | 2023-04-27 | 2023-05-05 |
@@ -334,6 +334,7 @@
 | [NAS](https://open.spotify.com/track/3tDcxacC9wGhYM0vyicVuC) | [ARNONE](https://open.spotify.com/artist/0tbCfksIrpbfmzIdVCbaRP) | [NAS](https://open.spotify.com/album/1AmKa1eq78uP87M9fqRy3A) | 2:00 | 2025-05-29 | 2025-06-20 |
 | [NATA HIT](https://open.spotify.com/track/0g0N74YGdNt02vUlP9Can0) | [The Pure](https://open.spotify.com/artist/72zFcHuGI78MerlEFQhKWt) | [NATA HIT](https://open.spotify.com/album/0URkSDI4ZoX2x1ckCnQcdT) | 2:22 | 2025-05-15 | 2025-05-30 |
 | [NEL BENE E NEL MALE \(feat\. Silent Bob\)](https://open.spotify.com/track/6GOyPV5EYObpYcy6r0BNSn) | [Mooncler](https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [MALINQUORE](https://open.spotify.com/album/4Z3kfPf6zxJhI5CAoaESqO) | 2:31 | 2025-09-18 | 2025-10-14 |
+| [NERO SU BIANCO](https://open.spotify.com/track/2AgpIy2YskLqysC4Eeme1t) | [Kalionte](https://open.spotify.com/artist/4EXgod8ey7HXn2o8zAOcAQ), [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Im Envy](https://open.spotify.com/artist/7ytMeRTs8xzSNOEOLnwEm7) | [NERO SU BIANCO](https://open.spotify.com/album/472vo49AcPh7JH2fvqIjLX) | 2:08 | 2026-03-03 |  |
 | [NFAM E PUTTAN](https://open.spotify.com/track/6UptHz4ZdXnTeH68pSKHPh) | [Kid Lost](https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu), [Im Envy](https://open.spotify.com/artist/7ytMeRTs8xzSNOEOLnwEm7) | [NFAM E PUTTAN](https://open.spotify.com/album/54BRRyTRa8emRRwA8KvhPa) | 3:19 | 2026-02-12 |  |
 | [NICO PAZ](https://open.spotify.com/track/2erO14kUfrXqEQUT8V3W6D) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [NICO PAZ](https://open.spotify.com/album/7iPgv2e9yykXL4fOHWvEPi) | 2:32 | 2026-01-29 |  |
 | [NIENT'](https://open.spotify.com/track/4mvwSiraeuWHTaVUNJacCh) | [UNDICI](https://open.spotify.com/artist/3iZD47sbWX79D67jUK8MKT) | [NIENT'](https://open.spotify.com/album/3px1C5m3ENUE1F9ciL4t03) | 2:15 | 2025-02-27 | 2025-04-04 |

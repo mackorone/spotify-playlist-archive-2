@@ -1131,6 +1131,28 @@
     },
     {
       "album": {
+        "name": "Hosannah",
+        "url": "https://open.spotify.com/album/2JsXg6LwAvCYOxwwFwPCrB"
+      },
+      "artists": [
+        {
+          "name": "KOJO JEGGA",
+          "url": "https://open.spotify.com/artist/6voGCtElqW1hiDghZi1Fz1"
+        },
+        {
+          "name": "Broda Harrison",
+          "url": "https://open.spotify.com/artist/1Jcdhjzaz05RRGus6usY5t"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145897,
+      "name": "Hosannah",
+      "url": "https://open.spotify.com/track/1sod8CbyyR367ZVZhNtjCc"
+    },
+    {
+      "album": {
         "name": "Hosanna (Live)",
         "url": "https://open.spotify.com/album/6L5UqzUyUe0oATYWcH0Ig8"
       },
@@ -1160,7 +1182,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 371305,
       "name": "I Carry Fire",
       "url": "https://open.spotify.com/track/3OqtPMbBFOs3kxCzsG3lYL"

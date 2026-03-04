@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Calibro 35",
-  "num_followers": 33903,
+  "num_followers": 33912,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,18 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
-        "name": "Plexus Plexus",
-        "url": "https://open.spotify.com/album/0Ft57BsIB0sN2BeIlUtXoV"
+        "name": "Tindouf",
+        "url": "https://open.spotify.com/album/3PlUQMqx4bI4Z6eMuPVUxq"
       },
       "artists": [
         {
-          "name": "Web Web",
-          "url": "https://open.spotify.com/artist/4EmIrTN6q1uhLRL8hmhuHF"
-        },
-        {
-          "name": "Roberto Di Gioia",
-          "url": "https://open.spotify.com/artist/5F8dVL7FhAh8jPAMz7d2DR"
+          "name": "Savana Funk",
+          "url": "https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG"
         }
       ],
-      "duration_ms": 186107,
-      "name": "Bird\u00b4s Lament",
-      "url": "https://open.spotify.com/track/2JNfB0GUiq2lnhurSqPdrb"
+      "duration_ms": 230173,
+      "name": "Kontiki Blues",
+      "url": "https://open.spotify.com/track/5SpNHoB5ZZMe1o4HMThnmL"
     },
     {
       "added_at": "2026-02-05 23:01:01",
@@ -491,18 +487,22 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
-        "name": "Tindouf",
-        "url": "https://open.spotify.com/album/3PlUQMqx4bI4Z6eMuPVUxq"
+        "name": "Plexus Plexus",
+        "url": "https://open.spotify.com/album/0Ft57BsIB0sN2BeIlUtXoV"
       },
       "artists": [
         {
-          "name": "Savana Funk",
-          "url": "https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG"
+          "name": "Web Web",
+          "url": "https://open.spotify.com/artist/4EmIrTN6q1uhLRL8hmhuHF"
+        },
+        {
+          "name": "Roberto Di Gioia",
+          "url": "https://open.spotify.com/artist/5F8dVL7FhAh8jPAMz7d2DR"
         }
       ],
-      "duration_ms": 230173,
-      "name": "Kontiki Blues",
-      "url": "https://open.spotify.com/track/5SpNHoB5ZZMe1o4HMThnmL"
+      "duration_ms": 186107,
+      "name": "Bird\u00b4s Lament",
+      "url": "https://open.spotify.com/track/2JNfB0GUiq2lnhurSqPdrb"
     },
     {
       "added_at": "2026-02-05 23:01:01",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
-        "name": "Mister Magic",
-        "url": "https://open.spotify.com/album/3KazG335xSdg28ntQU1XsJ"
-      },
-      "artists": [
-        {
-          "name": "Calibro 35",
-          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
-        }
-      ],
-      "duration_ms": 221660,
-      "name": "Mister Magic",
-      "url": "https://open.spotify.com/track/4rpPAx8ukinniDROqa7GGG"
-    },
-    {
-      "added_at": "2026-02-05 23:01:01",
-      "album": {
         "name": "Opera prima (Including Ice One Remix)",
         "url": "https://open.spotify.com/album/2p4Mhuh5f6dDJwVxSPhdWf"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 278773,
       "name": "Musica e fumo (featuring Colle Der Fomento)",
       "url": "https://open.spotify.com/track/3eNc1G2fORU6RqCmTpJxHn"
+    },
+    {
+      "added_at": "2026-02-05 23:01:01",
+      "album": {
+        "name": "Mister Magic",
+        "url": "https://open.spotify.com/album/3KazG335xSdg28ntQU1XsJ"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        }
+      ],
+      "duration_ms": 221660,
+      "name": "Mister Magic",
+      "url": "https://open.spotify.com/track/4rpPAx8ukinniDROqa7GGG"
     },
     {
       "added_at": "2026-02-05 23:01:01",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
+        "name": "Grammegna",
+        "url": "https://open.spotify.com/album/2C60NGIF3EjUCkh7QkHdnc"
+      },
+      "artists": [
+        {
+          "name": "The Funkin' Machine",
+          "url": "https://open.spotify.com/artist/7l1iaeDCxprB4GgCRdwBrS"
+        }
+      ],
+      "duration_ms": 285981,
+      "name": "Grammegna",
+      "url": "https://open.spotify.com/track/3NZ1tg9ca0YyY2ppqlBnvy"
+    },
+    {
+      "added_at": "2026-02-05 23:01:01",
+      "album": {
         "name": "Joyful",
         "url": "https://open.spotify.com/album/4fBaQJruwDEhSU5aNnsF43"
       },
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
-        "name": "Grammegna",
-        "url": "https://open.spotify.com/album/2C60NGIF3EjUCkh7QkHdnc"
-      },
-      "artists": [
-        {
-          "name": "The Funkin' Machine",
-          "url": "https://open.spotify.com/artist/7l1iaeDCxprB4GgCRdwBrS"
-        }
-      ],
-      "duration_ms": 285981,
-      "name": "Grammegna",
-      "url": "https://open.spotify.com/track/3NZ1tg9ca0YyY2ppqlBnvy"
-    },
-    {
-      "added_at": "2026-02-05 23:01:01",
-      "album": {
         "name": "Nidi di Note",
         "url": "https://open.spotify.com/album/0p97eqhSf6ELxHJW37tbqK"
       },
@@ -1543,22 +1543,6 @@
       "duration_ms": 194638,
       "name": "Inizi\u00f2",
       "url": "https://open.spotify.com/track/6zb4oLpJ6qngKWpNv9GxWG"
-    },
-    {
-      "added_at": "2026-02-05 23:01:01",
-      "album": {
-        "name": "GAS",
-        "url": "https://open.spotify.com/album/7zzqn4dW49B9XEEdmO4Xfz"
-      },
-      "artists": [
-        {
-          "name": "Tare",
-          "url": "https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB"
-        }
-      ],
-      "duration_ms": 180738,
-      "name": "Acqua alta",
-      "url": "https://open.spotify.com/track/5gpUzlhLYjc1x3yWfbv5nE"
     },
     {
       "added_at": "2026-02-05 23:01:01",
@@ -1591,6 +1575,22 @@
       "duration_ms": 348375,
       "name": "Here We Gong",
       "url": "https://open.spotify.com/track/5u0jFEGcdSiJgBFvZf0Waj"
+    },
+    {
+      "added_at": "2026-02-05 23:01:01",
+      "album": {
+        "name": "GAS",
+        "url": "https://open.spotify.com/album/7zzqn4dW49B9XEEdmO4Xfz"
+      },
+      "artists": [
+        {
+          "name": "Tare",
+          "url": "https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB"
+        }
+      ],
+      "duration_ms": 180738,
+      "name": "Acqua alta",
+      "url": "https://open.spotify.com/track/5gpUzlhLYjc1x3yWfbv5nE"
     },
     {
       "added_at": "2026-02-05 23:01:01",
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
+        "name": "La Strada Invisibile",
+        "url": "https://open.spotify.com/album/5JEW0isqD0vYpZ0CqGxmhD"
+      },
+      "artists": [
+        {
+          "name": "Rita Marcotulli",
+          "url": "https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ"
+        },
+        {
+          "name": "Luciano Biondini",
+          "url": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
+        }
+      ],
+      "duration_ms": 288616,
+      "name": "Tuareg",
+      "url": "https://open.spotify.com/track/78x2PdL40tU1NMLpv933CU"
+    },
+    {
+      "added_at": "2026-02-05 23:01:01",
+      "album": {
         "name": "Correspondence",
         "url": "https://open.spotify.com/album/27Bwh5V6QhP7W40ZhV2kyB"
       },
@@ -1691,66 +1711,6 @@
       "duration_ms": 342447,
       "name": "Night Shift",
       "url": "https://open.spotify.com/track/5zbZtQukFdYtsxuxdFUUlv"
-    },
-    {
-      "added_at": "2026-02-05 23:01:01",
-      "album": {
-        "name": "Norma (Arr. for Jazz Orchestra)",
-        "url": "https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl"
-      },
-      "artists": [
-        {
-          "name": "Orchestra Jazz del Mediterraneo",
-          "url": "https://open.spotify.com/artist/0Tb0g0i1vQhmpkEJK2jaRp"
-        },
-        {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
-        },
-        {
-          "name": "Paolo Silvestri",
-          "url": "https://open.spotify.com/artist/5lvL2BwPlgsY3QWfpikMJO"
-        }
-      ],
-      "duration_ms": 584075,
-      "name": "Norma: Casta diva - Arr. for Jazz Orchestra",
-      "url": "https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x"
-    },
-    {
-      "added_at": "2026-02-05 23:01:01",
-      "album": {
-        "name": "La Strada Invisibile",
-        "url": "https://open.spotify.com/album/5JEW0isqD0vYpZ0CqGxmhD"
-      },
-      "artists": [
-        {
-          "name": "Rita Marcotulli",
-          "url": "https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ"
-        },
-        {
-          "name": "Luciano Biondini",
-          "url": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
-        }
-      ],
-      "duration_ms": 288616,
-      "name": "Tuareg",
-      "url": "https://open.spotify.com/track/78x2PdL40tU1NMLpv933CU"
-    },
-    {
-      "added_at": "2026-02-05 23:01:01",
-      "album": {
-        "name": "Alchimia",
-        "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
-      },
-      "artists": [
-        {
-          "name": "AIN\u00c9",
-          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
-        }
-      ],
-      "duration_ms": 225875,
-      "name": "Hangover",
-      "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
     },
     {
       "added_at": "2026-02-05 23:01:01",
@@ -1787,18 +1747,42 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
-        "name": "Floema",
-        "url": "https://open.spotify.com/album/3R97Dopu5hY3dHLPTyaWDV"
+        "name": "Norma (Arr. for Jazz Orchestra)",
+        "url": "https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl"
       },
       "artists": [
         {
-          "name": "Faer",
-          "url": "https://open.spotify.com/artist/4RBPgkSEkLWLWrqRXp1uh3"
+          "name": "Orchestra Jazz del Mediterraneo",
+          "url": "https://open.spotify.com/artist/0Tb0g0i1vQhmpkEJK2jaRp"
+        },
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Paolo Silvestri",
+          "url": "https://open.spotify.com/artist/5lvL2BwPlgsY3QWfpikMJO"
         }
       ],
-      "duration_ms": 109467,
-      "name": "Desi",
-      "url": "https://open.spotify.com/track/049UzE2dAeKVtc6D8DZNfo"
+      "duration_ms": 584075,
+      "name": "Norma: Casta diva - Arr. for Jazz Orchestra",
+      "url": "https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x"
+    },
+    {
+      "added_at": "2026-02-05 23:01:01",
+      "album": {
+        "name": "Alchimia",
+        "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
+      },
+      "artists": [
+        {
+          "name": "AIN\u00c9",
+          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
+        }
+      ],
+      "duration_ms": 225875,
+      "name": "Hangover",
+      "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
     },
     {
       "added_at": "2026-02-05 23:01:01",
@@ -1819,6 +1803,38 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
+        "name": "For Those I Never Knew",
+        "url": "https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2"
+      },
+      "artists": [
+        {
+          "name": "Luca Flores",
+          "url": "https://open.spotify.com/artist/6GtLKGM3P2wpimBDArVY0O"
+        }
+      ],
+      "duration_ms": 269139,
+      "name": "How Far Can You Fly? (Ladder) - Original Version",
+      "url": "https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t"
+    },
+    {
+      "added_at": "2026-02-05 23:01:01",
+      "album": {
+        "name": "Floema",
+        "url": "https://open.spotify.com/album/3R97Dopu5hY3dHLPTyaWDV"
+      },
+      "artists": [
+        {
+          "name": "Faer",
+          "url": "https://open.spotify.com/artist/4RBPgkSEkLWLWrqRXp1uh3"
+        }
+      ],
+      "duration_ms": 109467,
+      "name": "Desi",
+      "url": "https://open.spotify.com/track/049UzE2dAeKVtc6D8DZNfo"
+    },
+    {
+      "added_at": "2026-02-05 23:01:01",
+      "album": {
         "name": "Utopia I",
         "url": "https://open.spotify.com/album/6nVJk2IN0Plt0Zptn6ZL9J"
       },
@@ -1835,18 +1851,18 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
-        "name": "For Those I Never Knew",
-        "url": "https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2"
+        "name": "La Valle Dei Templi",
+        "url": "https://open.spotify.com/album/4DStIxg2IyyYIL2K1y504z"
       },
       "artists": [
         {
-          "name": "Luca Flores",
-          "url": "https://open.spotify.com/artist/6GtLKGM3P2wpimBDArVY0O"
+          "name": "Perigeo",
+          "url": "https://open.spotify.com/artist/0UB7tnXqRLUWF9dyktuA6e"
         }
       ],
-      "duration_ms": 269139,
-      "name": "How Far Can You Fly? (Ladder) - Original Version",
-      "url": "https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t"
+      "duration_ms": 184213,
+      "name": "Looping",
+      "url": "https://open.spotify.com/track/5unHInwrVqHtRceQOJ1yIe"
     },
     {
       "added_at": "2026-02-05 23:01:01",
@@ -1879,22 +1895,6 @@
       "duration_ms": 653973,
       "name": "Certi angoli segreti",
       "url": "https://open.spotify.com/track/0TgOi4joOrp0spXM754Z8X"
-    },
-    {
-      "added_at": "2026-02-05 23:01:01",
-      "album": {
-        "name": "La Valle Dei Templi",
-        "url": "https://open.spotify.com/album/4DStIxg2IyyYIL2K1y504z"
-      },
-      "artists": [
-        {
-          "name": "Perigeo",
-          "url": "https://open.spotify.com/artist/0UB7tnXqRLUWF9dyktuA6e"
-        }
-      ],
-      "duration_ms": 184213,
-      "name": "Looping",
-      "url": "https://open.spotify.com/track/5unHInwrVqHtRceQOJ1yIe"
     },
     {
       "added_at": "2026-02-05 23:01:01",

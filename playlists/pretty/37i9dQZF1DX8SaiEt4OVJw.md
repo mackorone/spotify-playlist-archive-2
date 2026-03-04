@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 
 > Soundtracking the greatest sporting tournament in the world
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,685 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,693 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 | 53 | [caricature](https://open.spotify.com/track/4h479A3EU5ZpUg0mlfdNtR) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [catharsis](https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S) | 3:01 |
 | 54 | [Nzaza](https://open.spotify.com/track/0VjzaXw81JQJM61pzWwP8b) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 3:03 |
 | 55 | [BOMBARDER \(feat\. Døpelym, LAMOULA$ & Kage\)](https://open.spotify.com/track/1iWDEJQoch1iLuFWvyLLgw) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs), [Lamoula$](https://open.spotify.com/artist/4cNtgPYsS8zJp72VrSky1L), [KAGE](https://open.spotify.com/artist/5oNgpBQyteJdewZ0emcyfb) | [BOMBARDER \(feat\. Døpelym, LAMOULA$ & Kage\)](https://open.spotify.com/album/3nB2hUCbKKEyVhaVah8hF7) | 2:29 |
-| 56 | [Intaba Zokhahlamba](https://open.spotify.com/track/24lofBbzbHV2KzxAMROTSS) | [Mphathiwohlelo MC](https://open.spotify.com/artist/3D8SLrKlLVHWhsdUQi4VQ7), [SHENGE WASEHLALANKOSI](https://open.spotify.com/artist/2v1B7I9XcGoSQOASgMks5v), [Mjolisi](https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr) | [Intaba Zokhahlamba](https://open.spotify.com/album/5qQEPFxsRvxHTwtmaLSgPR) | 3:46 |
+| 56 | [Intaba Zokhahlamba](https://open.spotify.com/track/24lofBbzbHV2KzxAMROTSS) | [Mphathiwohlelo MC](https://open.spotify.com/artist/3D8SLrKlLVHWhsdUQi4VQ7), [Shenge wasehlalankosi](https://open.spotify.com/artist/6OtlecLaA62XUdzRZDSeBz), [Mjolisi](https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr) | [Intaba Zokhahlamba](https://open.spotify.com/album/5qQEPFxsRvxHTwtmaLSgPR) | 3:46 |
 | 57 | [Jëli](https://open.spotify.com/track/6dxAjtUV8wv0RokML64NtC) | [AMADEUS](https://open.spotify.com/artist/4UIkM1s2GA411ufzpCn0ya), [Wally B\. Seck](https://open.spotify.com/artist/5SVxYNSZjum1qCdVczQScc) | [Taaru Sénégal](https://open.spotify.com/album/1ixQCkL3QVmw2QH0AkB3ez) | 2:43 |
 | 58 | [Ngixolele Mtanami](https://open.spotify.com/track/1FUVQbcP23lIgLSTY2r8SV) | [Nkeshemba](https://open.spotify.com/artist/5mcQQWaTilvZ99xmDg9LCU) | [Ngixolele Mtanami](https://open.spotify.com/album/0bwC0CgvUytpJqQfiaGnRw) | 4:24 |
 | 59 | [Mojagbêlê \- Mode Blade](https://open.spotify.com/track/33lsOgAQoZzm9qJvW44pTT) | [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9) | [Mojagbêlê \(Mode Blade\)](https://open.spotify.com/album/5VoFxtw6AIgiQt8sNcXG9F) | 2:57 |

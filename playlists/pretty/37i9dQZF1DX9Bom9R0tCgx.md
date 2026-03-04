@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 
 > All the stuff that will blow your speakers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,658 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,753 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 | 90 | [Bass Boys](https://open.spotify.com/track/7vMU4De9ruZBTCbseWEQUm) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Bass Boys](https://open.spotify.com/album/6TKh7sIL5jpfogX4vGf5P6) | 2:59 |
 | 91 | [Boom Boom Boom](https://open.spotify.com/track/2e7cgqJbNLp5W5L2XAinEw) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [Boom Boom Boom](https://open.spotify.com/album/61kxtwoBSwj15YzF0LZr3G) | 3:01 |
 | 92 | [My Mama Dropped LSD in the 90's](https://open.spotify.com/track/0MeGiBDDodJwa1iHnCgG3q) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM), [blazey](https://open.spotify.com/artist/66Vn5izERxqMuZz9QB5Dyh) | [My Mama Dropped LSD in the 90's](https://open.spotify.com/album/0X12iWSZ0DQrn35GgTEjrT) | 2:56 |
-| 93 | [Bottle of Bubbly](https://open.spotify.com/track/2lGZi6aHCxMBgDubEPst1C) | [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w) | [Bottle of Bubbly](https://open.spotify.com/album/5OuijjUhxEXdaWjZNg7fZV) | 2:23 |
-| 94 | [Kisses \(feat\. bbyclose\) \- BOVSKI Remix](https://open.spotify.com/track/3V71EUC3c4kGv0CvQyOgf7) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH), [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9) | [Kisses \(feat\. bbyclose\) \[BOVSKI Remix\]](https://open.spotify.com/album/4eQj8eVrp2FVkHKBnb72Fu) | 2:10 |
+| 93 | [Kisses \(feat\. bbyclose\) \- BOVSKI Remix](https://open.spotify.com/track/3V71EUC3c4kGv0CvQyOgf7) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH), [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9) | [Kisses \(feat\. bbyclose\) \[BOVSKI Remix\]](https://open.spotify.com/album/4eQj8eVrp2FVkHKBnb72Fu) | 2:10 |
+| 94 | [Bottle of Bubbly](https://open.spotify.com/track/2lGZi6aHCxMBgDubEPst1C) | [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w) | [Bottle of Bubbly](https://open.spotify.com/album/5OuijjUhxEXdaWjZNg7fZV) | 2:23 |
 | 95 | [In My Mind](https://open.spotify.com/track/34AodtfpGFMvlxpKFrNxvY) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [In My Mind](https://open.spotify.com/album/1vrQiLeLfUNq4IshXfqg9R) | 3:29 |
 | 96 | [Hey Ya](https://open.spotify.com/track/2sEaL74YW1e5qUY1Y3ljYH) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Tiscore](https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI) | [Hey Ya](https://open.spotify.com/album/1SKAksw9ZJqIoLAOS5MKQF) | 2:14 |
 | 97 | [Better Than U Thought](https://open.spotify.com/track/067FrGDLXv4oDOGrcCDCA6) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Better Than U Thought](https://open.spotify.com/album/5LaUQcTL2F4TtqRbIZdxiG) | 3:09 |

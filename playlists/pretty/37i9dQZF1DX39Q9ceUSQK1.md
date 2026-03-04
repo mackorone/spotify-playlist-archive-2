@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Gorillaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,421 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,420 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 52 | [And Now It Shows](https://open.spotify.com/track/08twlX0G9SbnMUUcZQ9XOX) | [Eosine](https://open.spotify.com/artist/0Md3VgBtmaO6hemIn4gIIP) | [And Now It Shows](https://open.spotify.com/album/4G3fpExdKCqUvAegiCLdMk) | 3:06 |
 | 53 | [Rush](https://open.spotify.com/track/1k4upv7m2USXZdXEbXvgzf) | [B O I](https://open.spotify.com/artist/0WiWO8olpTnc1FXkxZHLln) | [Rush](https://open.spotify.com/album/7d3JVxiJ5QX9zy0uIMmius) | 3:28 |
 | 54 | [Legacy, Bones](https://open.spotify.com/track/5woH8jRiVVPbbsPeAV6rY9) | [Tin Fingers](https://open.spotify.com/artist/4tLOVSDLiCDwmJtaHEJJZu) | [Legacy, Bones](https://open.spotify.com/album/06WPEUGVpSLBUXfmTrvKc6) | 3:45 |
-| 55 | [Flowers In The Water](https://open.spotify.com/track/50WogEBOCXkA5vEV1Es58S) | [The Boxer Rebellion](https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Flowers In The Water](https://open.spotify.com/album/0aSClnSnwkJQUmJupW4fpe) | 3:59 |
+| 55 | [Flowers In The Water](https://open.spotify.com/track/50WogEBOCXkA5vEV1Es58S) | [The Boxer Rebellion](https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5) | [Flowers In The Water](https://open.spotify.com/album/0aSClnSnwkJQUmJupW4fpe) | 3:59 |
 | 56 | [Bitterness](https://open.spotify.com/track/0uRq7xjO9hzomQQUYPDS7M) | [GUNMOLL](https://open.spotify.com/artist/58JjVQf1svduEYcR9y3jba) | [Bitterness](https://open.spotify.com/album/7IIRsq5MfyA7EnqF7lrGo6) | 4:29 |
 | 57 | [STACK UP THE REASONS](https://open.spotify.com/track/4WcGDz2rLPLzkHSy66T7LZ) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [STACK UP THE REASONS](https://open.spotify.com/album/3OEKR9OpwMN7lLdxEzSSxP) | 3:31 |
 | 58 | [Dizzy](https://open.spotify.com/track/4Vxl7MqmLnB1U6mCMdmIPG) | [Crybabies](https://open.spotify.com/artist/2acTwdggTAVdQELkyHdUK8) | [Dizzy](https://open.spotify.com/album/17gxG3lYgvANFNR8FI7Frp) | 3:53 |

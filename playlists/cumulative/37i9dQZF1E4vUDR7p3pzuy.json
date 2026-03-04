@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With The Ramey Memo, Evil Level Live, Lockjaw and more",
+  "description": "With Rob Harrowven, The Ramey Memo, The Guilt and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -236,7 +236,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 210000,
       "name": "A Pop Song for Satan",
       "url": "https://open.spotify.com/track/14rkrBXoxEBpIdEfoPZx3t"
@@ -515,6 +515,24 @@
     },
     {
       "album": {
+        "name": "Radar Ranger",
+        "url": "https://open.spotify.com/album/6NcWagRWgH9fisACytWlN7"
+      },
+      "artists": [
+        {
+          "name": "The Ramey Memo",
+          "url": "https://open.spotify.com/artist/1zpk6QOCwtN6GWu8G8b6JV"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "As the Water Fills the Hull",
+      "url": "https://open.spotify.com/track/7kJGhdJb3CgoYizPBH48I1"
+    },
+    {
+      "album": {
         "name": "Blood in the Disco",
         "url": "https://open.spotify.com/album/0dR0UOsjmCPbAUKyvVLfnk"
       },
@@ -696,7 +714,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 213108,
       "name": "Betrayal",
       "url": "https://open.spotify.com/track/7dST6nUksQ5kUZaDejsAqy"
@@ -1282,7 +1300,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 230433,
       "name": "Cleansed by Fire",
       "url": "https://open.spotify.com/track/1sS9JrjTsg7bFGg7NoNg2u"
@@ -1340,7 +1358,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 314188,
       "name": "Comfort in Disease",
       "url": "https://open.spotify.com/track/6VmKwotqJLsCSzMCcwG1Ml"
@@ -1694,7 +1712,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 241972,
       "name": "Dark City",
       "url": "https://open.spotify.com/track/0Gp2X1eYk64a0pst7Vfuru"
@@ -1846,7 +1864,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 205250,
       "name": "Detached",
       "url": "https://open.spotify.com/track/6W6ktN80W3pwJ6AlD424xg"
@@ -1984,7 +2002,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
@@ -2096,7 +2114,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 153000,
       "name": "Electron Echo",
       "url": "https://open.spotify.com/track/6J9sNFT4cgfHCw2s23L8nJ"
@@ -2442,7 +2460,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 194253,
       "name": "Ferris Wheel",
       "url": "https://open.spotify.com/track/7cr1llDHS6GZRpRowOIFPV"
@@ -2976,7 +2994,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 175982,
       "name": "HAIR KILLER",
       "url": "https://open.spotify.com/track/3Th9GrFjG5bKv5nQQIw3bh"
@@ -3012,7 +3030,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 199709,
       "name": "Happy Song (Single Edit)",
       "url": "https://open.spotify.com/track/5Mu2uPodFAD1WhKfndU9Hx"
@@ -4628,7 +4646,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 310769,
       "name": "Miracles (Redeux Mix)",
       "url": "https://open.spotify.com/track/1yZewwLcQP7q0tcQKCvgkl"
@@ -4819,6 +4837,24 @@
     },
     {
       "album": {
+        "name": "Optimist",
+        "url": "https://open.spotify.com/album/5A5PiRlBXDmIr7XhXoEBln"
+      },
+      "artists": [
+        {
+          "name": "Sam Wilson",
+          "url": "https://open.spotify.com/artist/2HLoEJMRPOYaumUCslXOIW"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Murderous Intent",
+      "url": "https://open.spotify.com/track/6mPJzhaki4fXKuFVm4k4ID"
+    },
+    {
+      "album": {
         "name": "Happy Tears",
         "url": "https://open.spotify.com/album/4nwoo4IN5sxn3fuuYSMbRg"
       },
@@ -4924,7 +4960,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 325360,
       "name": "No Control",
       "url": "https://open.spotify.com/track/6mZdV5bEK8wrPPDlI6sxem"
@@ -6732,7 +6768,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-01",
+      "date_removed": null,
       "duration_ms": 221906,
       "name": "Suburban Decay",
       "url": "https://open.spotify.com/track/4X5ZUHqi7EogCNb8SGaoEB"
@@ -6866,7 +6902,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 162692,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/7MKiPnh557rhQK9FTJAGBr"
@@ -7430,7 +7466,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 251066,
       "name": "Threats",
       "url": "https://open.spotify.com/track/1cvyjW2mE3WVNBMFF2day4"
@@ -7448,7 +7484,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 190955,
       "name": "Through The Looking Glass",
       "url": "https://open.spotify.com/track/2VChgOUgrKcZ7poZHsQTqe"
@@ -7560,7 +7596,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-02",
+      "date_removed": null,
       "duration_ms": 190006,
       "name": "To Die And I",
       "url": "https://open.spotify.com/track/1jxbjZSaH6HBD6ld0ycfaI"
@@ -7596,7 +7632,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 184590,
       "name": "TOMORROW.IS.GONE",
       "url": "https://open.spotify.com/track/4dz2I13MPmF0Q1HN5cxTSd"
@@ -7632,7 +7668,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 197888,
       "name": "Touch",
       "url": "https://open.spotify.com/track/4LGumMKgQR6CIuFdecAowS"
@@ -8330,7 +8366,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 196171,
       "name": "Whomever You Need",
       "url": "https://open.spotify.com/track/3CSv43GAVspGJ281rrkb0M"
@@ -8460,6 +8496,24 @@
       "duration_ms": 130909,
       "name": "Yes (I Do)",
       "url": "https://open.spotify.com/track/11fWiXfXhNeWr6bJa2cU9U"
+    },
+    {
+      "album": {
+        "name": "The ExPerimental EPisode",
+        "url": "https://open.spotify.com/album/1WQLI3xUnYHJcIxgw1vOrd"
+      },
+      "artists": [
+        {
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "You Don't Know",
+      "url": "https://open.spotify.com/track/6Alq4T4tACdR5eCgTOj6Lv"
     },
     {
       "album": {

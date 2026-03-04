@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Mitski
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,176 likes - 147 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,175 likes - 147 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 4 | [How I Get](https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [How I Get](https://open.spotify.com/album/70NOPNFs2y4lZMrowJzPuY) | 3:39 |
 | 5 | [Melati](https://open.spotify.com/track/4koI5WbXEXwrO2dhbfErvS) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Melati](https://open.spotify.com/album/5m0VWZtQpAYtYdnZLh7R4d) | 2:56 |
 | 6 | [The Moon Cave \(feat\. Asha Puthli, Bobby Womack, Dave Jolicoeur, Jalen Ngonda and Black Thought\)](https://open.spotify.com/track/6VflG4mpZSlpKnqNRL3NO9) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Asha Puthli](https://open.spotify.com/artist/6XS2GPyMwHEgAn0VspnhMf), [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq), [Dave Jolicoeur](https://open.spotify.com/artist/7p9cQvuiCC28PPRZwHGDBM), [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [The Mountain](https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD) | 4:57 |
-| 7 | [Allah Ya Allahu](https://open.spotify.com/track/29qaPgFuhI47F0zowk9ipP) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Allah Ya Allahu](https://open.spotify.com/album/49wyBw8rVk9fwQjvZM8EUT) | 3:38 |
+| 7 | [Allahu Ya Allahu](https://open.spotify.com/track/29qaPgFuhI47F0zowk9ipP) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Allah Ya Allahu](https://open.spotify.com/album/49wyBw8rVk9fwQjvZM8EUT) | 3:38 |
 | 8 | [Beraya Dengan Saya](https://open.spotify.com/track/10a9x1AEEZdUIKYrTzJaWi) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Beraya Dengan Saya](https://open.spotify.com/album/0gMUWnZAG4GGnEUBvjZYMO) | 3:21 |
 | 9 | [another eve](https://open.spotify.com/track/4S2Jni29AVhvtpRxCa7QMB) | [Lukas Will](https://open.spotify.com/artist/2CY8nVYLln1sjeOcpp4hC7) | [another eve](https://open.spotify.com/album/1inidCLPoiPPwa3SmSR8xF) | 3:24 |
 | 10 | [Jantung Samudra \(Haya \- Nyi Roro Kidul Theme Song\)](https://open.spotify.com/track/3eTukrKJBaJZMemLVRycwJ) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX), [Honor of Kings Indonesia](https://open.spotify.com/artist/5aXtu4HI1PMk7Wqwm70lvh) | [Jantung Samudra](https://open.spotify.com/album/0zFdnteznJblNnXZhi71mn) | 3:21 |

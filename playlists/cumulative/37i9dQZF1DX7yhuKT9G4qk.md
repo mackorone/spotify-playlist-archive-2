@@ -4,7 +4,7 @@
 
 > Perfect dinner playlist \| soulful music
 
-182 songs - 10 hr 26 min
+184 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Burning daylight](https://open.spotify.com/track/6wfrySLKgLeyGTjh21xvWI) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Pleasure](https://open.spotify.com/album/2FAfR9rZEMwwnrFOYsl2VT) | 4:23 | 2025-12-11 |  |
 | [But I Can Show U How](https://open.spotify.com/track/61nk9QwdEYLuVqXkefVnmZ) | [FENNE](https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo) | [But I Can Show U How](https://open.spotify.com/album/4rKbES6D2gvmkIdtdKBDEC) | 2:40 | 2025-07-16 | 2025-09-19 |
 | [Butter](https://open.spotify.com/track/2ZCusLcINjCgOeJPJ2b0GL) | [Stefan Sands](https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv) | [The Weight](https://open.spotify.com/album/3A7TG46Q74ib0eWPPh3rpj) | 3:13 | 2025-10-02 |  |
-| [Can't Find Love](https://open.spotify.com/track/4BRaMsOYVgkm2YkbLwhOAg) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Can't Find Love](https://open.spotify.com/album/6wMm38swlyVsXMucMGsM1H) | 3:20 | 2025-07-16 |  |
+| [Can't Find Love](https://open.spotify.com/track/4BRaMsOYVgkm2YkbLwhOAg) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Can't Find Love](https://open.spotify.com/album/6wMm38swlyVsXMucMGsM1H) | 3:20 | 2025-07-16 | 2026-03-04 |
 | [Chance Encounter](https://open.spotify.com/track/2uuQPxTltYpigcGJb1xKUc) | [Penelope Road](https://open.spotify.com/artist/2BxNY82SWxJkGveOWm2oxH) | [Chance Encounter](https://open.spotify.com/album/3ySvgHcZ8wqWDy6QbYskim) | 3:27 | 2025-10-30 |  |
 | [Changes](https://open.spotify.com/track/70Im6ch9dNGzxoGG6vpxcd) | [Tristan](https://open.spotify.com/artist/7nFR3t1IkpicWdA5Dg7mev) | [Changes](https://open.spotify.com/album/4aldFjPokcR0SvHQ5KCP8c) | 5:19 | 2025-07-16 | 2025-12-05 |
 | [CHICKEN TENDIES](https://open.spotify.com/track/0awuNCj9gwJEM0seER22DW) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [CHICKEN TENDIES](https://open.spotify.com/album/72gGqv8n64gwUBY10SPI3N) | 3:16 | 2025-07-16 | 2025-08-29 |
@@ -59,6 +59,7 @@
 | [Get Away From It](https://open.spotify.com/track/2r4cKBorqcpsCUG1J09NFD) | [Robyn Florence](https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa), [DAVIES](https://open.spotify.com/artist/04q7KeD8GMTsUEtIqO4N4Y) | [Crush Culture](https://open.spotify.com/album/5JzM7K49l1hHgw0iDDenWi) | 2:55 | 2026-01-22 |  |
 | [Give You the World](https://open.spotify.com/track/77VRjAUqg8NRlBYv9kHJiG) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Give You the World](https://open.spotify.com/album/73b9Doft1XSfao2EjyUEhh) | 3:39 | 2025-07-16 | 2025-10-31 |
 | [Glow](https://open.spotify.com/track/0X9ViQWrgaSzDE7mACBH4R) | [Thierry Ganz](https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV), [Cézanne](https://open.spotify.com/artist/0vodNqnsmfqjOqxS7sfOp3), [Uevo](https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi), [Superfuse](https://open.spotify.com/artist/4H6l4uxiqZ7uaUwpLkrr3f), [Prime8](https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP) | [Glow](https://open.spotify.com/album/4bK2DGVw3hFSPhHvI8ShZg) | 2:36 | 2025-11-11 |  |
+| [God Was Showing Off](https://open.spotify.com/track/1sVBT215CDmVJvfy1E2OCU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:31 | 2026-03-03 |  |
 | [Good Ol' Loving](https://open.spotify.com/track/48L3JxFWB1bLYgEC5G5rOw) | [Marlon Pichel](https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI) | [Good Ol' Loving](https://open.spotify.com/album/0f8kcbEQK1pVl2zBSmVwG6) | 3:13 | 2025-07-16 | 2025-09-16 |
 | [Good Things Will Come After the Pressure](https://open.spotify.com/track/1Q3UUPU4Pl4zVsmIDsQxDU) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Chapter 1](https://open.spotify.com/album/5vhfMWKuCtnJJ3DW5FESGe) | 4:06 | 2026-01-11 |  |
 | [Got A Feeling](https://open.spotify.com/track/1zP4GMUutOrOcJk505BkTN) | [Simone Don](https://open.spotify.com/artist/1CMSDxXkZPG6z6qQ5RGRcK) | [Got A Feeling](https://open.spotify.com/album/5kNjNRb70DQTCnm8OvcpKi) | 4:03 | 2025-07-16 | 2025-08-09 |
@@ -170,6 +171,7 @@
 | [Wait For Me](https://open.spotify.com/track/3UktGQO4TaIN3Jn7YtJoZr) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Wait For Me](https://open.spotify.com/album/4zqzaFoDBEm1iaM91taDCu) | 3:41 | 2025-07-16 | 2025-08-29 |
 | [Walk The Way](https://open.spotify.com/track/4nGFmm19i8amNKjLMj8Fa2) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Ridin'](https://open.spotify.com/album/0inrolEzAhWvavaePiAp7O) | 3:11 | 2025-07-16 |  |
 | [Wanderlust](https://open.spotify.com/track/6ytigxubOVOkboGnuxh0qT) | [Renata Louisa](https://open.spotify.com/artist/0cUWBPuAswbnFpYvzNAGfE) | [Mother](https://open.spotify.com/album/2uumVlEkCVNVaSHov6OyC5) | 3:47 | 2025-07-16 | 2026-01-15 |
+| [Wasting Time](https://open.spotify.com/track/59vUtjLVDKlFtemXHqzGhr) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9) | [Always On Time](https://open.spotify.com/album/3eVA8tg3rfoVPGIP4EwfdP) | 2:51 | 2026-03-03 |  |
 | [Weather The Storm](https://open.spotify.com/track/1nhpjqwvgg9chWuCgrrXE2) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Weather The Storm](https://open.spotify.com/album/0ckoLZt4Xb73Vebt8AxHTE) | 5:00 | 2025-08-08 |  |
 | [Weekend](https://open.spotify.com/track/5SBoHnZ0j3296tXHaKJs8R) | [TOINE](https://open.spotify.com/artist/1UKhHMifOzxgAaoQvJW7no) | [Weekend](https://open.spotify.com/album/71ZoUX1iozJo0CFtKZukFZ) | 3:26 | 2025-07-16 | 2026-02-07 |
 | [Weight Of The World](https://open.spotify.com/track/5WOgCrRiW2V8UFGSEp6FtV) | [Stefan Sands](https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv) | [Weight Of The World](https://open.spotify.com/album/34fLSJJY16m1cby2F5hQm9) | 3:32 | 2025-07-16 |  |

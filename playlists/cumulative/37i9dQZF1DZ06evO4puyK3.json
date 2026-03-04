@@ -220,7 +220,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 183206,
       "name": "AO SOM DO TUIM",
       "url": "https://open.spotify.com/track/4hpT0bP4YI71vGQN51ikMz"
@@ -810,6 +810,32 @@
       "duration_ms": 198920,
       "name": "fome",
       "url": "https://open.spotify.com/track/2FRVrkDAxMRTIah32jnNCw"
+    },
+    {
+      "album": {
+        "name": "Furduncin",
+        "url": "https://open.spotify.com/album/7lrjkq9GfC2rHLdh1V57W4"
+      },
+      "artists": [
+        {
+          "name": "DJ Biel do Furduncinho",
+          "url": "https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "LUCK MUZIK",
+          "url": "https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128781,
+      "name": "Furduncin",
+      "url": "https://open.spotify.com/track/1BNPLS1E1Gtr1hTKbHNaAL"
     },
     {
       "album": {

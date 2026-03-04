@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Naya Hip-Hop Hindi! Cover: Rudra",
+  "description": "Naya Hip-Hop Hindi! Cover: Dino James",
   "name": "New Rap Hindi",
   "tracks": [
     {
@@ -14032,7 +14032,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 192328,
       "name": "In case you leave",
       "url": "https://open.spotify.com/track/1ly77rTLaTJ8GvtWfUImBP"
@@ -15480,7 +15480,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 167457,
       "name": "Kadwa Sach",
       "url": "https://open.spotify.com/track/2t1gyYOALdpqimrzJBaZW8"
@@ -20978,6 +20978,28 @@
       "duration_ms": 156000,
       "name": "Night Life",
       "url": "https://open.spotify.com/track/06D8WX56h080NgbfgQj3yM"
+    },
+    {
+      "album": {
+        "name": "Nihilist",
+        "url": "https://open.spotify.com/album/2ouDnOg095w6YBnGgru6Kx"
+      },
+      "artists": [
+        {
+          "name": "yungsta",
+          "url": "https://open.spotify.com/artist/4HQz6xUrKEKQ8nmMKsfvkB"
+        },
+        {
+          "name": "Bella",
+          "url": "https://open.spotify.com/artist/3BNJJM3rZpt76Z2dRx6kE6"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Nihilist",
+      "url": "https://open.spotify.com/track/6HOdHbnfAN8zVuEFHpH2aW"
     },
     {
       "album": {
@@ -27202,6 +27224,32 @@
       "duration_ms": 200772,
       "name": "Tasveer",
       "url": "https://open.spotify.com/track/3I5UzEN7TFZC7cMD0pp7qA"
+    },
+    {
+      "album": {
+        "name": "Tateeree",
+        "url": "https://open.spotify.com/album/7GAfN8pBjCvds6aYImN5hp"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Simran Jaglan",
+          "url": "https://open.spotify.com/artist/54x8gJEux02W45CsSv87om"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151895,
+      "name": "Tateeree",
+      "url": "https://open.spotify.com/track/1rfuOlNBcEs5aH9HfcSgtm"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [\#GRWM Telugu](https://open.spotify.com/playlist/37i9dQZF1DX442zFw7L5ce)
 
-> Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Pooja Hegde
+> Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Sreeleela
 
 136 songs - 9 hr 49 min
 

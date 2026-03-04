@@ -1,12 +1,12 @@
 {
   "description": "This is Seyi Vibez. The essential tracks, all in one playlist.",
-  "num_followers": 45578,
+  "num_followers": 45623,
   "original_name": "This Is Seyi Vibez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaOBgAAAAABrrC6U+PNf5RvuiCv4nH/N",
+  "snapshot_id": "aaTTAAAAAADcVttS5jHlbGcMRI2qOh5t",
   "tracks": [
     {
       "added_at": null,
@@ -275,26 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CAPTAIN",
-        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 184989,
-      "name": "Set Up",
-      "url": "https://open.spotify.com/track/7dTEOkCQWc8YuHjuaSolSX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "247",
         "url": "https://open.spotify.com/album/5ByH5b4vGuYOH3g6UmjM0Z"
       },
@@ -327,6 +307,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "CAPTAIN",
+        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 184989,
+      "name": "Set Up",
+      "url": "https://open.spotify.com/track/7dTEOkCQWc8YuHjuaSolSX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NAHAMciaga",
         "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
       },
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 142441,
-      "name": "UNIVERSE",
-      "url": "https://open.spotify.com/track/3wEguEqsbkMbrjzaPaKrJv"
+      "duration_ms": 158446,
+      "name": "HOW ARE YOU",
+      "url": "https://open.spotify.com/track/5296ZsW1OKY8qvvXaRc9ex"
     },
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 158446,
-      "name": "HOW ARE YOU",
-      "url": "https://open.spotify.com/track/5296ZsW1OKY8qvvXaRc9ex"
+      "duration_ms": 142441,
+      "name": "UNIVERSE",
+      "url": "https://open.spotify.com/track/3wEguEqsbkMbrjzaPaKrJv"
     },
     {
       "added_at": null,

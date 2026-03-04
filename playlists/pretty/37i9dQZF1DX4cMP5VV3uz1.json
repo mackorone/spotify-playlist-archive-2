@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 166079,
+  "num_followers": 166072,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "Inside The Rider",
-        "url": "https://open.spotify.com/album/5HsHfs6G7J9o5jOUvwuqDo"
-      },
-      "artists": [
-        {
-          "name": "Disrupta",
-          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "Inside The Rider",
-      "url": "https://open.spotify.com/track/4rRRwQk8RBBM7A9aw8RZy5"
-    },
-    {
-      "added_at": "2026-02-13 00:00:18",
-      "album": {
         "name": "Original Don",
         "url": "https://open.spotify.com/album/7Jn24h49ditLNn0I2ePgsL"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 168275,
       "name": "Original Don",
       "url": "https://open.spotify.com/track/3jzXUnJxAG8Yqj9IVR8RZx"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
+        "name": "Inside The Rider",
+        "url": "https://open.spotify.com/album/5HsHfs6G7J9o5jOUvwuqDo"
+      },
+      "artists": [
+        {
+          "name": "Disrupta",
+          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "Inside The Rider",
+      "url": "https://open.spotify.com/track/4rRRwQk8RBBM7A9aw8RZy5"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -867,26 +867,6 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "Step Back",
-        "url": "https://open.spotify.com/album/4D443YrT0kpFSJzHFkMdfo"
-      },
-      "artists": [
-        {
-          "name": "Mefjus",
-          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
-        },
-        {
-          "name": "Break",
-          "url": "https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM"
-        }
-      ],
-      "duration_ms": 203720,
-      "name": "Step Back (Break Remix)",
-      "url": "https://open.spotify.com/track/40GDOmJfjUvX17B9UMlEF9"
-    },
-    {
-      "added_at": "2026-02-13 00:00:18",
-      "album": {
         "name": "CTRL",
         "url": "https://open.spotify.com/album/5Uea7eTkedUd4xxj4jS6tb"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 187575,
       "name": "CTRL",
       "url": "https://open.spotify.com/track/5GI2QctsuiQejkyfxtg6Xi"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
+        "name": "Step Back",
+        "url": "https://open.spotify.com/album/4D443YrT0kpFSJzHFkMdfo"
+      },
+      "artists": [
+        {
+          "name": "Mefjus",
+          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
+        },
+        {
+          "name": "Break",
+          "url": "https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM"
+        }
+      ],
+      "duration_ms": 203720,
+      "name": "Step Back (Break Remix)",
+      "url": "https://open.spotify.com/track/40GDOmJfjUvX17B9UMlEF9"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -943,26 +943,6 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "Big Enough Reason",
-        "url": "https://open.spotify.com/album/4JW3vIM6OsTqHpeQaopqL1"
-      },
-      "artists": [
-        {
-          "name": "Monrroe",
-          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
-        },
-        {
-          "name": "Duskee",
-          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
-        }
-      ],
-      "duration_ms": 205500,
-      "name": "No Pressure",
-      "url": "https://open.spotify.com/track/3fhHPkavJa0mH5S3uDgYGe"
-    },
-    {
-      "added_at": "2026-02-13 00:00:18",
-      "album": {
         "name": "Rowdy (BLAOW!)",
         "url": "https://open.spotify.com/album/6KSL4epV7UWnFKryvdPk3i"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 143610,
       "name": "Rowdy (BLAOW!)",
       "url": "https://open.spotify.com/track/6Gkum3tDLFXTAUktaV6yh6"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
+        "name": "Big Enough Reason",
+        "url": "https://open.spotify.com/album/4JW3vIM6OsTqHpeQaopqL1"
+      },
+      "artists": [
+        {
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
+        },
+        {
+          "name": "Duskee",
+          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
+        }
+      ],
+      "duration_ms": 205500,
+      "name": "No Pressure",
+      "url": "https://open.spotify.com/track/3fhHPkavJa0mH5S3uDgYGe"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -1159,8 +1159,8 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "247",
-        "url": "https://open.spotify.com/album/6X0tNQSao8Ll2D3q2ocpll"
+        "name": "Mariana",
+        "url": "https://open.spotify.com/album/6xpvo4YTTH53G0UQ2NDein"
       },
       "artists": [
         {
@@ -1172,9 +1172,9 @@
           "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
         }
       ],
-      "duration_ms": 182500,
-      "name": "247",
-      "url": "https://open.spotify.com/track/5TbilnxKohBOt8yfwv02Qf"
+      "duration_ms": 188586,
+      "name": "Mariana",
+      "url": "https://open.spotify.com/track/3XztDLSsUifW8WxTc3mzi2"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -1195,26 +1195,6 @@
       "duration_ms": 206996,
       "name": "Stay The Night",
       "url": "https://open.spotify.com/track/4OyDiydPAu3q6rNcLp313U"
-    },
-    {
-      "added_at": "2026-02-13 00:00:18",
-      "album": {
-        "name": "Inside The Rider (TC & Original Sin 2000's Remix)",
-        "url": "https://open.spotify.com/album/4WTMosR7xfte2OfeZh5f4Y"
-      },
-      "artists": [
-        {
-          "name": "TC",
-          "url": "https://open.spotify.com/artist/6b1Reb7bhjdXtkR7wUYW61"
-        },
-        {
-          "name": "Original Sin",
-          "url": "https://open.spotify.com/artist/3D71zH4KfjyILeWehJheDV"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "Inside The Rider - TC & Original Sin 2000's Remix",
-      "url": "https://open.spotify.com/track/3zo3Yt938sWofI3EmD5NnR"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -1243,6 +1223,26 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
+        "name": "Inside The Rider (TC & Original Sin 2000's Remix)",
+        "url": "https://open.spotify.com/album/4WTMosR7xfte2OfeZh5f4Y"
+      },
+      "artists": [
+        {
+          "name": "TC",
+          "url": "https://open.spotify.com/artist/6b1Reb7bhjdXtkR7wUYW61"
+        },
+        {
+          "name": "Original Sin",
+          "url": "https://open.spotify.com/artist/3D71zH4KfjyILeWehJheDV"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "Inside The Rider - TC & Original Sin 2000's Remix",
+      "url": "https://open.spotify.com/track/3zo3Yt938sWofI3EmD5NnR"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
         "name": "Badman Step",
         "url": "https://open.spotify.com/album/13bBhTnCsyILAAepNbfHXp"
       },
@@ -1263,8 +1263,8 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "Mariana",
-        "url": "https://open.spotify.com/album/6xpvo4YTTH53G0UQ2NDein"
+        "name": "247",
+        "url": "https://open.spotify.com/album/6X0tNQSao8Ll2D3q2ocpll"
       },
       "artists": [
         {
@@ -1276,9 +1276,9 @@
           "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
         }
       ],
-      "duration_ms": 188586,
-      "name": "Mariana",
-      "url": "https://open.spotify.com/track/3XztDLSsUifW8WxTc3mzi2"
+      "duration_ms": 182500,
+      "name": "247",
+      "url": "https://open.spotify.com/track/5TbilnxKohBOt8yfwv02Qf"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
+        "name": "RUN",
+        "url": "https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN"
+      },
+      "artists": [
+        {
+          "name": "\u00c6ON:MODE",
+          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
+        }
+      ],
+      "duration_ms": 180689,
+      "name": "RUN",
+      "url": "https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
         "name": "Losing Control (VIP)",
         "url": "https://open.spotify.com/album/724fbPLMgQqdijbtl1ioFd"
       },
@@ -1495,38 +1511,6 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "RUN",
-        "url": "https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN"
-      },
-      "artists": [
-        {
-          "name": "\u00c6ON:MODE",
-          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
-        }
-      ],
-      "duration_ms": 180689,
-      "name": "RUN",
-      "url": "https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2"
-    },
-    {
-      "added_at": "2026-02-13 00:00:18",
-      "album": {
-        "name": "Barbera 2026",
-        "url": "https://open.spotify.com/album/22Nd35GHcvvu4zWZ4Q6WeV"
-      },
-      "artists": [
-        {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
-        }
-      ],
-      "duration_ms": 243921,
-      "name": "Barbera 2026",
-      "url": "https://open.spotify.com/track/0LXHCv8laItpmx7O4jXofp"
-    },
-    {
-      "added_at": "2026-02-13 00:00:18",
-      "album": {
         "name": "Do This",
         "url": "https://open.spotify.com/album/3JxzLywrw84nF4jqBqktf8"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 133714,
       "name": "Do This",
       "url": "https://open.spotify.com/track/7HOtv9PWamIhbGgp4uU54s"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
+        "name": "Spag Bol",
+        "url": "https://open.spotify.com/album/7GND0rJAJpornHCMt0icnq"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        }
+      ],
+      "duration_ms": 202281,
+      "name": "Love Me Right",
+      "url": "https://open.spotify.com/track/17ADeN6ZcHT7czvoEycTCp"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -1603,8 +1603,24 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "Spag Bol",
-        "url": "https://open.spotify.com/album/7GND0rJAJpornHCMt0icnq"
+        "name": "The Otherside",
+        "url": "https://open.spotify.com/album/3NlGya1cuzMLZmGcHaOW75"
+      },
+      "artists": [
+        {
+          "name": "Refracta",
+          "url": "https://open.spotify.com/artist/1xlnNlzIKpl7Yc5Xto4Xxg"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "The Otherside",
+      "url": "https://open.spotify.com/track/3Kp5R1DBY7aGcErCzHFwBR"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
+        "name": "Barbera 2026",
+        "url": "https://open.spotify.com/album/22Nd35GHcvvu4zWZ4Q6WeV"
       },
       "artists": [
         {
@@ -1612,9 +1628,25 @@
           "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
         }
       ],
-      "duration_ms": 202281,
-      "name": "Love Me Right",
-      "url": "https://open.spotify.com/track/17ADeN6ZcHT7czvoEycTCp"
+      "duration_ms": 243921,
+      "name": "Barbera 2026",
+      "url": "https://open.spotify.com/track/0LXHCv8laItpmx7O4jXofp"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
+        "name": "Bear Trap",
+        "url": "https://open.spotify.com/album/3KT9XMUbKyJGOWkndLK6wI"
+      },
+      "artists": [
+        {
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+        }
+      ],
+      "duration_ms": 165214,
+      "name": "Bear Trap",
+      "url": "https://open.spotify.com/track/7Jt5Vr2l0IhEkI11SkRglU"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -1639,38 +1671,6 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "Bear Trap",
-        "url": "https://open.spotify.com/album/3KT9XMUbKyJGOWkndLK6wI"
-      },
-      "artists": [
-        {
-          "name": "Casey Club",
-          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
-        }
-      ],
-      "duration_ms": 165214,
-      "name": "Bear Trap",
-      "url": "https://open.spotify.com/track/7Jt5Vr2l0IhEkI11SkRglU"
-    },
-    {
-      "added_at": "2026-02-13 00:00:18",
-      "album": {
-        "name": "The Otherside",
-        "url": "https://open.spotify.com/album/3NlGya1cuzMLZmGcHaOW75"
-      },
-      "artists": [
-        {
-          "name": "Refracta",
-          "url": "https://open.spotify.com/artist/1xlnNlzIKpl7Yc5Xto4Xxg"
-        }
-      ],
-      "duration_ms": 198857,
-      "name": "The Otherside",
-      "url": "https://open.spotify.com/track/3Kp5R1DBY7aGcErCzHFwBR"
-    },
-    {
-      "added_at": "2026-02-13 00:00:18",
-      "album": {
         "name": "Simulation",
         "url": "https://open.spotify.com/album/6pvsEbFpaEyUpcfU3HGqLd"
       },
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
+        "name": "Blindspot / Impact Response",
+        "url": "https://open.spotify.com/album/6HaImXzg6TPyW18gbhF5KB"
+      },
+      "artists": [
+        {
+          "name": "Formula",
+          "url": "https://open.spotify.com/artist/6GkcKgyIKaZxmZGcKdJDxL"
+        }
+      ],
+      "duration_ms": 200344,
+      "name": "Blindspot",
+      "url": "https://open.spotify.com/track/2oiGdzswferiaVunkD2C62"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
         "name": "Satan's Alley",
         "url": "https://open.spotify.com/album/12GOuAO4h3wsOrHHOwCPFs"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 244114,
       "name": "Satan's Alley",
       "url": "https://open.spotify.com/track/0hMFRwnaH2l3vAPfwp0m8h"
-    },
-    {
-      "added_at": "2026-02-13 00:00:18",
-      "album": {
-        "name": "Blindspot / Impact Response",
-        "url": "https://open.spotify.com/album/6HaImXzg6TPyW18gbhF5KB"
-      },
-      "artists": [
-        {
-          "name": "Formula",
-          "url": "https://open.spotify.com/artist/6GkcKgyIKaZxmZGcKdJDxL"
-        }
-      ],
-      "duration_ms": 200344,
-      "name": "Blindspot",
-      "url": "https://open.spotify.com/track/2oiGdzswferiaVunkD2C62"
     },
     {
       "added_at": "2026-02-13 00:00:18",

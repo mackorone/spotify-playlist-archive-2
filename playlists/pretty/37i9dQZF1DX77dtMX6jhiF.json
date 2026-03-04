@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 17147,
+  "num_followers": 17154,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 351000,
+      "name": "The Ride",
+      "url": "https://open.spotify.com/track/4xRxYWgAtL6pzRz94GlZlA"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
         "name": "Life After Death (2014 Remastered Edition)",
         "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
       },
@@ -111,18 +127,18 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
-        "name": "Take Care (Deluxe)",
-        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
+        "name": "ASTROWORLD",
+        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 351000,
-      "name": "The Ride",
-      "url": "https://open.spotify.com/track/4xRxYWgAtL6pzRz94GlZlA"
+      "duration_ms": 338438,
+      "name": "STOP TRYING TO BE GOD",
+      "url": "https://open.spotify.com/track/1xYpVRspgaLxdJLOTQkTjg"
     },
     {
       "added_at": "2022-10-01 16:57:49",
@@ -143,22 +159,6 @@
       "duration_ms": 190534,
       "name": "Hello (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/2r6OAV3WsYtXuXjvJ1lIDi"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "ASTROWORLD",
-        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 338438,
-      "name": "STOP TRYING TO BE GOD",
-      "url": "https://open.spotify.com/track/1xYpVRspgaLxdJLOTQkTjg"
     },
     {
       "added_at": "2022-10-01 16:57:49",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
-        "name": "All That I Am",
-        "url": "https://open.spotify.com/album/7Kb0pU8LBYOoI6hoj7ajHJ"
-      },
-      "artists": [
-        {
-          "name": "Joe",
-          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
-        }
-      ],
-      "duration_ms": 380533,
-      "name": "All The Things (Your Man Won't Do)",
-      "url": "https://open.spotify.com/track/3UGNdLrhhsK0SY9gNqe8TT"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
         "name": "Victory Lap",
         "url": "https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 225573,
       "name": "Last Time That I Checc'd (feat. YG)",
       "url": "https://open.spotify.com/track/39xWBHPM4E9MwzEy5gbM7p"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
+        "name": "All That I Am",
+        "url": "https://open.spotify.com/album/7Kb0pU8LBYOoI6hoj7ajHJ"
+      },
+      "artists": [
+        {
+          "name": "Joe",
+          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
+        }
+      ],
+      "duration_ms": 380533,
+      "name": "All The Things (Your Man Won't Do)",
+      "url": "https://open.spotify.com/track/3UGNdLrhhsK0SY9gNqe8TT"
     },
     {
       "added_at": "2022-10-01 16:57:49",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
-        "name": "PSYCHODRAMA",
-        "url": "https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 228280,
-      "name": "Black",
-      "url": "https://open.spotify.com/track/0J43IKwcofdlTQPjcbHxCM"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
         "name": "Love And Liberation",
         "url": "https://open.spotify.com/album/4DbWKlb4SOElI7DYEE5TIR"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 319640,
       "name": "Green Eyes",
       "url": "https://open.spotify.com/track/56B0uGixLoAvJCBj25wBfG"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
+        "name": "PSYCHODRAMA",
+        "url": "https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 228280,
+      "name": "Black",
+      "url": "https://open.spotify.com/track/0J43IKwcofdlTQPjcbHxCM"
     },
     {
       "added_at": "2022-10-01 16:57:49",

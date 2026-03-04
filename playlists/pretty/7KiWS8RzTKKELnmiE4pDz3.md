@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 402 songs - 1 day 0 hr 40 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 419 songs - 1 day 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -410,5 +410,22 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 400 | [Golden Boys](https://open.spotify.com/track/0nFu0CiLJGf3qw9t08Mm8L) | [Res](https://open.spotify.com/artist/56YiNz2C704YPpRtPvMBg7) | [How I Do](https://open.spotify.com/album/4u50iZ3xFs19AxPRmakPYa) | 4:38 |
 | 401 | [Wouldn't You Like to Ride](https://open.spotify.com/track/0a6q5XK264I3qDt5gmFNSf) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Coach Carter Soundtrack](https://open.spotify.com/album/6liJnEzquXIyGwrQ1MnmF4) | 3:50 |
 | 402 | [Butterfly](https://open.spotify.com/track/4vevrGPaGIdakuoWhzSnwl) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Synkronized](https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv) | 4:28 |
+| 403 | [The Light](https://open.spotify.com/track/4Cb0QopUtV4wfImP03VNUJ) | [CunninLynguists](https://open.spotify.com/artist/7EA0bLf8dXCIUkwC3lnaJa) | [A Piece Of Strange](https://open.spotify.com/album/03tgCJ19ar8hr39aRSfUIA) | 5:29 |
+| 404 | [Lickupon](https://open.spotify.com/track/1wQixSSWydeLgkebOzu3yt) | [Viktor Vaughn](https://open.spotify.com/artist/0wIb0PhwT3disoWykRhq6V), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Vaudeville Villain](https://open.spotify.com/album/7HPjcPD2cr8E5oHvVAmBp7) | 2:44 |
+| 405 | [Headshots \(4r da Locals\)](https://open.spotify.com/track/0xta6Gah3inmeHbj0e3F9a) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [The House Is Burning](https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko) | 3:13 |
+| 406 | [Hey Mista](https://open.spotify.com/track/0McOOEVI11ks2PPOVZLou8) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [The House Is Burning](https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko) | 1:55 |
+| 407 | [9\-3 Freestyle](https://open.spotify.com/track/1gKohc5B0OuqOncIu7JKlL) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [The House Is Burning](https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko) | 1:45 |
+| 408 | [Score \(feat\. SZA & 6LACK\)](https://open.spotify.com/track/2ns1kl3c5NMvGCt2xVMNlI) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [The House Is Burning](https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko) | 3:20 |
+| 409 | [HB2U](https://open.spotify.com/track/2by88u2Ngp8wrJNWeULcvi) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [The House Is Burning](https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko) | 5:45 |
+| 410 | [Deep Blue \(feat\. Young Nudy & Kal Banx\)](https://open.spotify.com/track/0CIx9q9esKFbSP15NC5xh6) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [The House Is Burning \[homies begged\]](https://open.spotify.com/album/33ichA2TzIOdW248hRlqpH) | 3:11 |
+| 411 | [Geordan Favors \(feat\. Deante' Hitchcock\)](https://open.spotify.com/track/3VI1Raz5Z7HivJBuGeJMrq) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH) | [The House Is Burning \[homies begged\]](https://open.spotify.com/album/33ichA2TzIOdW248hRlqpH) | 3:13 |
+| 412 | [No Laughing Matter](https://open.spotify.com/track/40OaGnIeyyDFjCnqF5jb2c) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Super Tecmo Bo](https://open.spotify.com/album/5leBUcbk6qAb5cDHYuVwBO) | 2:05 |
+| 413 | [Guilt](https://open.spotify.com/track/2GsNEmPSmEGDzDt5yIshH5) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Super Tecmo Bo](https://open.spotify.com/album/5leBUcbk6qAb5cDHYuVwBO) | 3:16 |
+| 414 | [Pinto](https://open.spotify.com/track/1Cbtn0QXiK4oTlU3pWUeas) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [The Price Of Tea In China](https://open.spotify.com/album/52yTF9qryiuTlSNqhHObgd) | 3:17 |
+| 415 | [Big Steppa](https://open.spotify.com/track/5mIFymNfdjU8ZDd28HP5RK) | [Rome Streetz](https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB) | [KISS THE RING](https://open.spotify.com/album/0JvoIKuIaMFmGeRUmHvvQg) | 2:43 |
+| 416 | [Destiny Child](https://open.spotify.com/track/46hqnYAjfhlbleZNNAJnB2) | [Rome Streetz](https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB) | [KISS THE RING](https://open.spotify.com/album/0JvoIKuIaMFmGeRUmHvvQg) | 2:49 |
+| 417 | [Everything Allocated](https://open.spotify.com/track/5ohaehTCqi0VyCQuDmCc6x) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Spiral Staircases](https://open.spotify.com/album/4XGYIMntQYL5PPjsUZJoGJ) | 2:53 |
+| 418 | [Palo Santo](https://open.spotify.com/track/7xePYybMXECF26BwsyPWMx) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Spiral Staircases](https://open.spotify.com/album/4XGYIMntQYL5PPjsUZJoGJ) | 2:46 |
+| 419 | [2.P.I.G.](https://open.spotify.com/track/3sgv5VRl0IZpocRJcwc5CK) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Spiral Staircases](https://open.spotify.com/album/4XGYIMntQYL5PPjsUZJoGJ) | 3:42 |
 
-Snapshot ID: `AAAfzc6LtuLrHdIsELi86mYXHWbXzJ68`
+Snapshot ID: `AAAf3ruijf3Ut6RZiOEcPk2FdJTa891P`

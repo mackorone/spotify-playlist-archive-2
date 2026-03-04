@@ -1516,7 +1516,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Afro Beat",
       "url": "https://open.spotify.com/track/6vXcUUwsnBlOcXXT22ZIGT"
@@ -6169,6 +6169,24 @@
     },
     {
       "album": {
+        "name": "COLD",
+        "url": "https://open.spotify.com/album/08o9icfk6CXtYrfJ39W2im"
+      },
+      "artists": [
+        {
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132812,
+      "name": "COLD",
+      "url": "https://open.spotify.com/track/17AsJZ1jvgJtfYqVd7xPua"
+    },
+    {
+      "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC"
       },
@@ -9016,7 +9034,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -9994,7 +10012,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 181530,
       "name": "Feledn\u00e9d",
       "url": "https://open.spotify.com/track/3Mls3f2j9xGRqRRsoKA0Ef"
@@ -16988,7 +17006,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 177600,
       "name": "Lidokain",
       "url": "https://open.spotify.com/track/2lQkm39mnvJWhEABSRduHx"
@@ -18578,7 +18596,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 146400,
       "name": "MEGGYF\u00c1N",
       "url": "https://open.spotify.com/track/0Ro1NBqAymTPeQuHVNOekw"
@@ -21242,7 +21260,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-01",
+      "date_removed": null,
       "duration_ms": 189320,
       "name": "Nosztalgia",
       "url": "https://open.spotify.com/track/40CivnFDKYVbvhIpcXAcNB"
@@ -28520,7 +28538,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 109455,
       "name": "SUV",
       "url": "https://open.spotify.com/track/6jIOiFrWhqvDGzwONFKl3j"

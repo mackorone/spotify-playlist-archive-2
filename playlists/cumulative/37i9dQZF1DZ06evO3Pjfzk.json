@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "The Gray House (Original Soundtrack From the Amazon Series)",
+        "url": "https://open.spotify.com/album/1AdKCZKrCgn4IALU4grzqO"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210137,
+      "name": "Dead End Red Dirt Road - From The Gray House Original Soundtrack",
+      "url": "https://open.spotify.com/track/3E4CIrrbH6m5n6kevRkw4m"
+    },
+    {
+      "album": {
         "name": "Whirlwind",
         "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
       },

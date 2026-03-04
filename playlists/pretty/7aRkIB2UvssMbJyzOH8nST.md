@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7aRkIB2UvssMbJyzOH8nST.md) - [plain]
 
 > Ease into your Sunday morning with beautiful chill songs and relaxing morning music\. Zondag\. zondagochtend\. Perfect for a lazy Sunday, cozy mornings, slow coffee moments, Sunday brunch, and laid\-back weekend vibes\. Featuring soft morning tunes and acoustic chill sounds to help you relax and unwind.
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 273,387 likes - 120 songs - 7 hr 5 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 273,370 likes - 120 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/7aRkIB2UvssMbJyzOH8nST.md) - [plain]
 | 119 | [Foul](https://open.spotify.com/track/68QVMtyPlxPGLGurDwAYdZ) | [Pimmie](https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll) | [Foul](https://open.spotify.com/album/6NZjyOzH02iAwDbzJEAKku) | 1:53 |
 | 120 | [Gold](https://open.spotify.com/track/4Qy7yWT1UI6FK2CWrqkGwR) | [Gabriel Rios](https://open.spotify.com/artist/0pF1TxZmwCJ3gGpkBQwdtT) | [This Marauder's Midnight](https://open.spotify.com/album/6Nahal5iYJfGxEXeGSL3b3) | 4:11 |
 
-Snapshot ID: `AAAhbEFOEf/isnM2uo7ANdHGfBEEKHQ1`
+Snapshot ID: `AAAhbn0V2ipmzsACBQr/PCs2cPoBxOta`

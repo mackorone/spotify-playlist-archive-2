@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Aku Jeje
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,287 likes - 106 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,295 likes - 106 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

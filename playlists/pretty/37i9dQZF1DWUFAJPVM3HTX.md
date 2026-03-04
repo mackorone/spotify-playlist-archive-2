@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4?si=DUpMNfnXRwWTcuNgcfHlKg">nomi.</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,072 likes - 178 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,114 likes - 178 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

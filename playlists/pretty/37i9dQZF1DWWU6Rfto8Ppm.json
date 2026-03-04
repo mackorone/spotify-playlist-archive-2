@@ -1,6 +1,6 @@
 {
   "description": "Reggaet\u00f3n de antes y de siempre en compa\u00f1\u00eda de Plan B.",
-  "num_followers": 3920163,
+  "num_followers": 3920912,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
+        "name": "El Fenomeno",
+        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 234026,
+      "name": "Por Amar A Ciegas",
+      "url": "https://open.spotify.com/track/2BrfJdTXohQRtWBKsBTIp0"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
         "name": "Mas Flow - Los Benjamins",
         "url": "https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f"
       },
@@ -427,22 +443,6 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "Rompe La Discoteca",
-        "url": "https://open.spotify.com/album/2ftqbM48NcAEAcIL7Yyc1R"
-      },
-      "artists": [
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "Punto y Aparte",
-      "url": "https://open.spotify.com/track/388YhDYxPvaDIZQHWqpB4E"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
         "name": "Meet The Orphans",
         "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
       },
@@ -463,18 +463,18 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "El Fenomeno",
-        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
+        "name": "Rompe La Discoteca",
+        "url": "https://open.spotify.com/album/2ftqbM48NcAEAcIL7Yyc1R"
       },
       "artists": [
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
         }
       ],
-      "duration_ms": 234026,
-      "name": "Por Amar A Ciegas",
-      "url": "https://open.spotify.com/track/2BrfJdTXohQRtWBKsBTIp0"
+      "duration_ms": 206493,
+      "name": "Punto y Aparte",
+      "url": "https://open.spotify.com/track/388YhDYxPvaDIZQHWqpB4E"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "Ella Se Contradice (feat. Plan B)",
-        "url": "https://open.spotify.com/album/3JYVc0zcw01y9Xjq16266O"
-      },
-      "artists": [
-        {
-          "name": "Baby Rasta y Gringo",
-          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
-        },
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 256756,
-      "name": "Ella Se Contradice (feat. Plan B)",
-      "url": "https://open.spotify.com/track/4nNeRNXmdZWfw3IjAnITZR"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
         "name": "Big Yamo o Nada",
         "url": "https://open.spotify.com/album/4mLZPjMTdg2Io0fOYuJ1Ch"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 185077,
       "name": "Entre la Playa Ella y Yo",
       "url": "https://open.spotify.com/track/1tvdNGCcgAhYaYq7ouIYGJ"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
+        "name": "Ella Se Contradice (feat. Plan B)",
+        "url": "https://open.spotify.com/album/3JYVc0zcw01y9Xjq16266O"
+      },
+      "artists": [
+        {
+          "name": "Baby Rasta y Gringo",
+          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
+        },
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 256756,
+      "name": "Ella Se Contradice (feat. Plan B)",
+      "url": "https://open.spotify.com/track/4nNeRNXmdZWfw3IjAnITZR"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "A La Reconquista",
-        "url": "https://open.spotify.com/album/1XVsXN3JiO0pM3CeiYSNTv"
-      },
-      "artists": [
-        {
-          "name": "Hector & Tito",
-          "url": "https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7"
-        }
-      ],
-      "duration_ms": 216440,
-      "name": "Felina",
-      "url": "https://open.spotify.com/track/3QLApyuGYQdSQZTmBXFaSt"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
         "name": "The Bad Boy (The Most Wanted Edition)",
         "url": "https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 227853,
       "name": "Hola Beb\u00e9",
       "url": "https://open.spotify.com/track/33y08bwbpU8Fn8KzBm5lAy"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
+        "name": "A La Reconquista",
+        "url": "https://open.spotify.com/album/1XVsXN3JiO0pM3CeiYSNTv"
+      },
+      "artists": [
+        {
+          "name": "Hector & Tito",
+          "url": "https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7"
+        }
+      ],
+      "duration_ms": 216440,
+      "name": "Felina",
+      "url": "https://open.spotify.com/track/3QLApyuGYQdSQZTmBXFaSt"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
+        "name": "Chica 10",
+        "url": "https://open.spotify.com/album/4wyYvQglx8mrdxPLOKPCvG"
+      },
+      "artists": [
+        {
+          "name": "Fusion Perreo",
+          "url": "https://open.spotify.com/artist/5UcNTjJChL9EcbhrWaRlMI"
+        }
+      ],
+      "duration_ms": 229015,
+      "name": "Chica 10",
+      "url": "https://open.spotify.com/track/0UJapEivI95Bl2CU8OYKNh"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
         "name": "Los Verdaderos",
         "url": "https://open.spotify.com/album/3jsGdxB4wVM7iT4w21fPtH"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 244680,
       "name": "Amor Genuino",
       "url": "https://open.spotify.com/track/0CyUWy7lIuWwYEeoRJlxND"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
-        "name": "Chica 10",
-        "url": "https://open.spotify.com/album/4wyYvQglx8mrdxPLOKPCvG"
-      },
-      "artists": [
-        {
-          "name": "Fusion Perreo",
-          "url": "https://open.spotify.com/artist/5UcNTjJChL9EcbhrWaRlMI"
-        }
-      ],
-      "duration_ms": 229015,
-      "name": "Chica 10",
-      "url": "https://open.spotify.com/track/0UJapEivI95Bl2CU8OYKNh"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "La Moda",
-        "url": "https://open.spotify.com/album/56Q6ntbM1nWdyjJj7rWLWz"
-      },
-      "artists": [
-        {
-          "name": "Yaga & Mackie",
-          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
-        }
-      ],
-      "duration_ms": 212493,
-      "name": "A Ti No",
-      "url": "https://open.spotify.com/track/5o16Hl9vooRuiQ5aiWNSJo"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
         "name": "Quien Contra Mi",
         "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 136026,
       "name": "Te Suelto el Pelo",
       "url": "https://open.spotify.com/track/0Gh6QG4Z1pSvIo7btP1Ux4"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
+        "name": "La Moda",
+        "url": "https://open.spotify.com/album/56Q6ntbM1nWdyjJj7rWLWz"
+      },
+      "artists": [
+        {
+          "name": "Yaga & Mackie",
+          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
+        }
+      ],
+      "duration_ms": 212493,
+      "name": "A Ti No",
+      "url": "https://open.spotify.com/track/5o16Hl9vooRuiQ5aiWNSJo"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -2339,6 +2339,22 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
+        "name": "Casa De Leones",
+        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "Dos Palgas",
+      "url": "https://open.spotify.com/track/1ohrqIMhros7Gi7mX80WB6"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
         "name": "Residente o Visitante",
         "url": "https://open.spotify.com/album/1Tng1uGqDjFgs6n4Ud25fH"
       },
@@ -2359,22 +2375,6 @@
       "duration_ms": 253253,
       "name": "Tango del Pecado (feat. Bajofondo Tango Club & Panasuyo)",
       "url": "https://open.spotify.com/track/6SEMpMXnOe9nvei4yk7wb7"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
-        "name": "Casa De Leones",
-        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
-      },
-      "artists": [
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "Dos Palgas",
-      "url": "https://open.spotify.com/track/1ohrqIMhros7Gi7mX80WB6"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -2427,26 +2427,6 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "La Moda",
-        "url": "https://open.spotify.com/album/56Q6ntbM1nWdyjJj7rWLWz"
-      },
-      "artists": [
-        {
-          "name": "Yaga & Mackie",
-          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
-        },
-        {
-          "name": "Nina Sky",
-          "url": "https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6"
-        }
-      ],
-      "duration_ms": 190186,
-      "name": "Bailando",
-      "url": "https://open.spotify.com/track/2WkWjXV1lQtSFNZoFzu3r0"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
         "name": "La Calle Vol. 1",
         "url": "https://open.spotify.com/album/30iJTNP5UbuT2QFDlOVwME"
       },
@@ -2467,6 +2447,26 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
+        "name": "La Moda",
+        "url": "https://open.spotify.com/album/56Q6ntbM1nWdyjJj7rWLWz"
+      },
+      "artists": [
+        {
+          "name": "Yaga & Mackie",
+          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
+        },
+        {
+          "name": "Nina Sky",
+          "url": "https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6"
+        }
+      ],
+      "duration_ms": 190186,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/2WkWjXV1lQtSFNZoFzu3r0"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
         "name": "Te Pintaron Pajaritos",
         "url": "https://open.spotify.com/album/3ssXQwFXNc3NBc8r2aMS9E"
       },
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "12 Discipulos",
-        "url": "https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w"
-      },
-      "artists": [
-        {
-          "name": "Eddie Dee",
-          "url": "https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR"
-        }
-      ],
-      "duration_ms": 238890,
-      "name": "Si No Cuidas Tu Mujer",
-      "url": "https://open.spotify.com/track/40AGTob7V8pCDvvXERrCu3"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
         "name": "El Movimiento: The Mixtape",
         "url": "https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ"
       },
@@ -2511,6 +2495,22 @@
       "duration_ms": 209120,
       "name": "Ponte Pa Mi",
       "url": "https://open.spotify.com/track/4NCLHXgKBCuFAf6m20sFKj"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
+        "name": "12 Discipulos",
+        "url": "https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w"
+      },
+      "artists": [
+        {
+          "name": "Eddie Dee",
+          "url": "https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR"
+        }
+      ],
+      "duration_ms": 238890,
+      "name": "Si No Cuidas Tu Mujer",
+      "url": "https://open.spotify.com/track/40AGTob7V8pCDvvXERrCu3"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -2603,22 +2603,6 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "Diferente",
-        "url": "https://open.spotify.com/album/4UqPX2oHkth4WTqboVkGj1"
-      },
-      "artists": [
-        {
-          "name": "Aldo Ranks",
-          "url": "https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3"
-        }
-      ],
-      "duration_ms": 186488,
-      "name": "Asesina",
-      "url": "https://open.spotify.com/track/2j2r3NnWlflZAhdtpjKLMx"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
         "name": "Motivando A La Yal (Special Edition)",
         "url": "https://open.spotify.com/album/762qEGXU9cqGzzvsGoMNS7"
       },
@@ -2631,6 +2615,22 @@
       "duration_ms": 190008,
       "name": "Doncella",
       "url": "https://open.spotify.com/track/3BYUW3fviY5RZyNzZhnLO1"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
+        "name": "Diferente",
+        "url": "https://open.spotify.com/album/4UqPX2oHkth4WTqboVkGj1"
+      },
+      "artists": [
+        {
+          "name": "Aldo Ranks",
+          "url": "https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3"
+        }
+      ],
+      "duration_ms": 186488,
+      "name": "Asesina",
+      "url": "https://open.spotify.com/track/2j2r3NnWlflZAhdtpjKLMx"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -2703,6 +2703,22 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
+        "name": "Motivando a la Yal",
+        "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 181002,
+      "name": "Ahora (feat. Angel Doze)",
+      "url": "https://open.spotify.com/track/6xuCqLILMiXxugbUmuRVJi"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
         "name": "Money Is Still A Major Issue",
         "url": "https://open.spotify.com/album/0gayfOCt1DJX4j8MOhv7we"
       },
@@ -2723,22 +2739,6 @@
       "duration_ms": 240133,
       "name": "Culo Remix",
       "url": "https://open.spotify.com/track/02a3YjaSKk3KZxK5mMnSW1"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
-        "name": "Motivando a la Yal",
-        "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 181002,
-      "name": "Ahora (feat. Angel Doze)",
-      "url": "https://open.spotify.com/track/6xuCqLILMiXxugbUmuRVJi"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -2835,6 +2835,22 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
+        "name": "It's My Time",
+        "url": "https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe"
+      },
+      "artists": [
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        }
+      ],
+      "duration_ms": 157291,
+      "name": "El Tra",
+      "url": "https://open.spotify.com/track/14nnQDyyoTuRYfOgGQBjDD"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
         "name": "Flow la Discoteka 2",
         "url": "https://open.spotify.com/album/2BWXXmkWvvqCFc5qzbi22D"
       },
@@ -2851,22 +2867,6 @@
       "duration_ms": 264212,
       "name": "Chica Virtual (feat. Arcangel)",
       "url": "https://open.spotify.com/track/2fxmV4oZNFCZGXgJ8tN9Jf"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
-        "name": "It's My Time",
-        "url": "https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe"
-      },
-      "artists": [
-        {
-          "name": "Tito \"El Bambino\"",
-          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
-        }
-      ],
-      "duration_ms": 157291,
-      "name": "El Tra",
-      "url": "https://open.spotify.com/track/14nnQDyyoTuRYfOgGQBjDD"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -2923,6 +2923,22 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
+        "name": "2K20, Pt. 1 (Live)",
+        "url": "https://open.spotify.com/album/0N091826fEGbqVB1NnKguC"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 128259,
+      "name": "Mayor Que Yo - Live",
+      "url": "https://open.spotify.com/track/5JXopnXnBeEH4eiiFvhMSc"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
         "name": "Mi Historia",
         "url": "https://open.spotify.com/album/7GhCq3DjpF2LBif2eVKflR"
       },
@@ -2939,22 +2955,6 @@
       "duration_ms": 239223,
       "name": "Yo Voy A Legar (feat. Zion)",
       "url": "https://open.spotify.com/track/0m2CS9McLcfM6UNtUBagyn"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
-        "name": "2K20, Pt. 1 (Live)",
-        "url": "https://open.spotify.com/album/0N091826fEGbqVB1NnKguC"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 128259,
-      "name": "Mayor Que Yo - Live",
-      "url": "https://open.spotify.com/track/5JXopnXnBeEH4eiiFvhMSc"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -3699,22 +3699,18 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "Goldstar Music La Familia Reggaeton Hits",
-        "url": "https://open.spotify.com/album/4OapfRPzZGP0iphPp5byyk"
+        "name": "DIVA- Platinum Edition",
+        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor \"El Father\"",
-          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
-        },
-        {
-          "name": "Yomo",
-          "url": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
         }
       ],
-      "duration_ms": 248406,
-      "name": "D\u00e9jale Caer To' El Peso (feat. Yomo)",
-      "url": "https://open.spotify.com/track/6eyrEbsUwKUPXNxv6FuCqv"
+      "duration_ms": 175533,
+      "name": "Quiero Saber",
+      "url": "https://open.spotify.com/track/4VKI2yBkCE4mWhFBwZp0LU"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -3735,6 +3731,26 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
+        "name": "Los Bacatranes",
+        "url": "https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7"
+      },
+      "artists": [
+        {
+          "name": "Trebol Clan",
+          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
+        },
+        {
+          "name": "Joan",
+          "url": "https://open.spotify.com/artist/3qwPsUOXt2No13DRpS31L8"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "Gata Fiera (feat. Joan)",
+      "url": "https://open.spotify.com/track/3UnbRNCJlDzSKz5Yq0dIOs"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
         "name": "Te Quiero",
         "url": "https://open.spotify.com/album/4GBaFbtHeZD8t8bd1jE0AD"
       },
@@ -3751,34 +3767,22 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "DIVA- Platinum Edition",
-        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
+        "name": "Yo Se Que Tu Quieres (feat. \u00d1engo Flow)",
+        "url": "https://open.spotify.com/album/01PhXmyyzAVc5bkcgS2cms"
       },
       "artists": [
         {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 175533,
-      "name": "Quiero Saber",
-      "url": "https://open.spotify.com/track/4VKI2yBkCE4mWhFBwZp0LU"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
-        "name": "Alex Gargolas Greatest Hits",
-        "url": "https://open.spotify.com/album/6JmEk1yaNPn4LFx9YPcZXv"
-      },
-      "artists": [
+          "name": "Sammy & Falsetto",
+          "url": "https://open.spotify.com/artist/6AT27ojKlBuZToFIGwQZDc"
+        },
         {
-          "name": "Randy Nota Loca",
-          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
         }
       ],
-      "duration_ms": 188918,
-      "name": "Soy Una Gargola",
-      "url": "https://open.spotify.com/track/6g8su55d5ZpbMw01J7YrgE"
+      "duration_ms": 208117,
+      "name": "Yo Se Que Tu Quieres (feat. \u00d1engo Flow)",
+      "url": "https://open.spotify.com/track/3fNnPoIaVT16aLZnswQdCV"
     }
   ],
   "unique_name": "Reggaet\u00f3n Viejito",

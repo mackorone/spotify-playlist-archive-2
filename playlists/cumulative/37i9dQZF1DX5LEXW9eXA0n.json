@@ -17602,7 +17602,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 226516,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/3uk0W0obUiWSesu1xwptQw"
@@ -19926,7 +19926,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 226000,
       "name": "Prayer",
       "url": "https://open.spotify.com/track/6sgQEjL4Ii2ycEFoTWI5NQ"
@@ -27421,6 +27421,24 @@
     },
     {
       "album": {
+        "name": "OFF THE MAP",
+        "url": "https://open.spotify.com/album/5UddYZEfHNUCra18jeZtUU"
+      },
+      "artists": [
+        {
+          "name": "Kim Sung Kyu",
+          "url": "https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "When I think about you",
+      "url": "https://open.spotify.com/track/09jyHsIH2M6rt3OFyM3hW5"
+    },
+    {
+      "album": {
         "name": "When I walk",
         "url": "https://open.spotify.com/album/0qjHGRWoEOulQ0y2ZelFTF"
       },
@@ -31176,6 +31194,24 @@
       "duration_ms": 176121,
       "name": "\ud3ed\uc6b0 Downpour",
       "url": "https://open.spotify.com/track/6id7v3U3p9TYA7KwCZyvAZ"
+    },
+    {
+      "album": {
+        "name": "\ud55c\ub9c8\ub514",
+        "url": "https://open.spotify.com/album/6KFf9BmY8utP22He3lFMPZ"
+      },
+      "artists": [
+        {
+          "name": "Ahn Yeseul",
+          "url": "https://open.spotify.com/artist/4gcwTPPRhA3OPYI95ehTtl"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210407,
+      "name": "\ud55c\ub9c8\ub514",
+      "url": "https://open.spotify.com/track/6j5fAwwQ0uKCYeIY42vDgU"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Serotonin](https://open.spotify.com/playlist/37i9dQZF1DWYMroOc5KTTh)
 
-> Cover: Harry Styles at The BRITs 2026
+> 100% good vibes.
 
 585 songs - 1 day 14 hr 41 min
 
@@ -37,7 +37,7 @@
 | [Angels \- Jacana People Remix](https://open.spotify.com/track/2m6OAkCtiL1axO79siLxNo) | [Paris Green](https://open.spotify.com/artist/5ECHe2MSGF8z12B7wv08x5), [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Angels \(Jacana People Remix\)](https://open.spotify.com/album/0hPU9q7zQCVKlD9LfRGlIl) | 3:59 | 2022-01-14 | 2022-07-13 |
 | [Anyone Around](https://open.spotify.com/track/3QfNd2g8qMtWg57DRPOq0e) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Anyone Around](https://open.spotify.com/album/7wTbPwcxA5j3wFgu05JFGQ) | 2:49 | 2022-04-06 | 2022-04-19 |
 | [Anywhere In The World](https://open.spotify.com/track/5iPSQYDohyVO5k8Scu2X4L) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [Anywhere In The World](https://open.spotify.com/album/3OuccmRmvxw3ePC8A6U1Gc) | 6:59 | 2022-04-06 | 2022-04-15 |
-| [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 | 2026-03-01 |  |
+| [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 | 2026-03-01 | 2026-03-04 |
 | [Apricity \(feat\. jules\)](https://open.spotify.com/track/0WgPeBuFxnyiFiPt5gdsEL) | [Morgan Hislop](https://open.spotify.com/artist/1M1AEVIsxhvm4lAkuC2LyC), [jules](https://open.spotify.com/artist/38lbchSS1uIomHvHUNtJp9) | [Apricity \(feat\. jules\)](https://open.spotify.com/album/3wjEG5ukwncxnrMLtrBjRU) | 3:36 | 2022-05-30 | 2023-04-12 |
 | [Are U Still Smiling?](https://open.spotify.com/track/7bPo4vIzlcxpWadcsj7MHR) | [Ossie](https://open.spotify.com/artist/4k2R7rFptalNPkyGEq2s9G) | [That's a Vibe](https://open.spotify.com/album/3nCJ7MLW17oUep7ZvW3ugz) | 4:32 | 2025-09-11 |  |
 | [Ascension](https://open.spotify.com/track/5zXkATrsSKmEWgutgNaJe8) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Ascension](https://open.spotify.com/album/3hleDhTxP5TllrUOUAFlzD) | 3:21 | 2022-01-14 | 2022-04-21 |
@@ -193,7 +193,7 @@
 | [Free My People \(feat\. Simmy & Kid Cruise\) \- The Streets Remix](https://open.spotify.com/track/6qFbRXLt0IN3M1HE5d7YPu) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [SIMMY](https://open.spotify.com/artist/527kNlxgOHUAZ1YOonXDJd), [Kid Cruise](https://open.spotify.com/artist/3M6mw8TcBFhDXPdF2Csupw), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Free My People \(The Streets Remix\)](https://open.spotify.com/album/3tsrF1lrccDppgj0mMi0HK) | 3:16 | 2021-12-03 | 2022-01-04 |
 | [Free Room \(feat\. Appleby\)](https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Appleby](https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 3:37 | 2022-09-05 | 2023-11-17 |
 | [Freefall](https://open.spotify.com/track/7u0xzxkw82UQrNJtYqXsa3) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh), [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v) | [Freefall](https://open.spotify.com/album/3lZwvKGTGhCxIVEd86S8uF) | 3:38 | 2022-04-06 | 2022-04-08 |
-| [Friday \(Alone Right Now\)](https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI II \(Mixtape\)](https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR) | 2:31 | 2024-10-03 | 2026-02-04 |
+| [Friday \(Alone Right Now\)](https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI II \(Mixtape\)](https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR) | 2:31 | 2024-10-03 |  |
 | [Friends](https://open.spotify.com/track/281msnqvknsXwGvEzrrDd5) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Friends](https://open.spotify.com/album/1dHV230S6HuUq6jLe7Lwl2) | 2:39 | 2024-06-07 | 2024-09-13 |
 | [Fruit Punch](https://open.spotify.com/track/5OKuigqDZttO0FSkKVF3tB) | [Jay Faded](https://open.spotify.com/artist/1Uh0ICHXIezbKnGUoEVzyZ) | [Fruit Punch](https://open.spotify.com/album/7GedFW6ha4qFhf7JELVK8e) | 2:50 | 2021-12-03 | 2022-07-21 |
 | [Full Attention](https://open.spotify.com/track/1kSJQOaDfJZk8ZL4D5ysBd) | [Shire T](https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe), [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Full Attention](https://open.spotify.com/album/39FzFnodvbF1nGkXcYepQg) | 4:33 | 2022-01-14 | 2022-07-12 |

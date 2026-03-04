@@ -4,7 +4,7 @@
 
 > With Yeat, Cuo Zay, Autumn! and more
 
-158 songs - 6 hr 18 min
+159 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,9 +65,10 @@
 | [Hardy Boyz \(feat\. Bloodhound Lil Jeff\)](https://open.spotify.com/track/3MIAujDDxkigmJfwHbFRyN) | [Bloodhound Lil Jeff](https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ), [BloodHound Q50](https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx) | [Hardy Boyz \(feat\. Bloodhound Lil Jeff\)](https://open.spotify.com/album/3tzKkC8md0MnmsWVAcFhhz) | 1:51 | 2026-02-10 |  |
 | [Hatër](https://open.spotify.com/track/7u48RjanhFy30zE8N5dOiw) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:32 | 2025-11-30 | 2026-02-25 |
 | [Higher Than Yall \- feat\. KARRAHBOOO](https://open.spotify.com/track/5NpzNMgZJYcgDf7ay92fsw) | [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB), [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [IN MY GLORY](https://open.spotify.com/album/4RZllnrxIvTP1BKSa9SnOI) | 2:17 | 2025-11-29 | 2025-12-09 |
+| [HiTTiN](https://open.spotify.com/track/1xhtuJVJWTzXRGtDQQpS4B) | [KiLLTENTAI](https://open.spotify.com/artist/7dmdBftWm4pTxCiKpMhlfO) | [HiTTiN](https://open.spotify.com/album/6ZXBNHw4VnIPA180AKrymZ) | 2:54 | 2026-03-04 |  |
 | [Hollows Threw His Jacket](https://open.spotify.com/track/6LhuZdisWyTcMm4ZtLlaB5) | [Slimesito](https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs), [BeezyB](https://open.spotify.com/artist/0beKhPdlNQhonFGiOOJHqi) | [Slimebeezy 3](https://open.spotify.com/album/0g8gja4ZdfXMVK2fWSCbWc) | 1:47 | 2026-01-23 | 2026-02-17 |
 | [Hoop Ass Nigga](https://open.spotify.com/track/5Fr3Tsw7WvayQ0ec1r6DaS) | [Nsg Rue](https://open.spotify.com/artist/6D4FdJFkaRNFwSdPe45Fu2), [Lil Reese](https://open.spotify.com/artist/1bPxKZtCdjB1aj1csBJpdS) | [What They Want](https://open.spotify.com/album/5NkIQPzchxlzzrd6dj5AMh) | 2:06 | 2026-01-15 | 2026-01-21 |
-| [i want](https://open.spotify.com/track/1y1f64rhNHqhxHf4b6t3iO) | [yit](https://open.spotify.com/artist/5WEPWwmJRjDOub8mfEs08r), [M71KE](https://open.spotify.com/artist/12TuXufr9APcDNTQ1SsCYu) | [yit.mp3](https://open.spotify.com/album/0GQgKhXbtJ3jJ8DnwfxKXj) | 2:43 | 2026-02-01 |  |
+| [i want](https://open.spotify.com/track/1y1f64rhNHqhxHf4b6t3iO) | [yit](https://open.spotify.com/artist/5WEPWwmJRjDOub8mfEs08r), [M71KE](https://open.spotify.com/artist/12TuXufr9APcDNTQ1SsCYu) | [yit.mp3](https://open.spotify.com/album/0GQgKhXbtJ3jJ8DnwfxKXj) | 2:43 | 2026-02-01 | 2026-03-04 |
 | [IDK](https://open.spotify.com/track/1tdofYaObJtffeWsCFrg04) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [IDK](https://open.spotify.com/album/1s3Fi0Esr37lOvmigDbMkv) | 3:06 | 2025-12-24 | 2025-12-31 |
 | [imposter](https://open.spotify.com/track/14DqYafHROsQH834bFBVbt) | [boolymon](https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd) | [imposter](https://open.spotify.com/album/4ZSVleSwpCk6pzhBBiXP5m) | 1:48 | 2025-11-29 |  |
 | [INDUSTRY PLANT](https://open.spotify.com/track/2Aao3bufeuxEa38YbFv4lU) | [K!no](https://open.spotify.com/artist/1dHcJc1Gq7dbyOm9cIiy81) | [INDUSTRY PLANT](https://open.spotify.com/album/5BNrO66yui2L7StgLrz4To) | 1:53 | 2025-11-29 | 2025-12-01 |
@@ -142,7 +143,7 @@
 | [Switchin Sides](https://open.spotify.com/track/0Qll2hFkRx6HDScTQwyxEM) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [HYPERNOVA.](https://open.spotify.com/album/7wzoQ122QjmvDaJbMtW8Og) | 2:29 | 2025-11-29 |  |
 | [SØB](https://open.spotify.com/track/4nGVDgCX2QWDaM7tbkRTOM) | [YhungBrazy](https://open.spotify.com/artist/2ltchQPvrP8I9FT0DfmUMf), [B4byTk](https://open.spotify.com/artist/0WYRmKLUKVSnkw15uMGzrm) | [EXPERIMENT II](https://open.spotify.com/album/6p0WzwLsrGQOuJrKF8i19J) | 2:48 | 2025-11-29 | 2025-12-05 |
 | [Talaband Anthem, Pt\. 2](https://open.spotify.com/track/3bn2rF5MouNNY4nhzt9Jw0) | [ReallyRichDon](https://open.spotify.com/artist/1aLigTPiKQEmEYQVJt5NwZ), [Mannie2SL](https://open.spotify.com/artist/5EqyhUvnzGrkp0N7DSR3zu), [Talaband Jizzle](https://open.spotify.com/artist/53w5mR8gB6gx3Tn506foHD) | [As Long as I Make It](https://open.spotify.com/album/4FIDcOnc5qpRAITSW8fBYC) | 2:40 | 2025-12-22 | 2025-12-28 |
-| [Telephones](https://open.spotify.com/track/1AKsJHv1KawhTIKa9ZD2FU) | [Curry B](https://open.spotify.com/artist/7qkAXozZYroAOArE5xUmWF) | [All 4 Bop](https://open.spotify.com/album/46rgteTLfyWhnwCZWttFcb) | 2:25 | 2026-02-19 | 2026-02-23 |
+| [Telephones](https://open.spotify.com/track/1AKsJHv1KawhTIKa9ZD2FU) | [Curry B](https://open.spotify.com/artist/7qkAXozZYroAOArE5xUmWF) | [All 4 Bop](https://open.spotify.com/album/46rgteTLfyWhnwCZWttFcb) | 2:25 | 2026-02-19 |  |
 | [Telephones](https://open.spotify.com/track/3rD9qqCHhKGUZqHeErKBf4) | [Curry B](https://open.spotify.com/artist/4gEmWKCVOfq7D3m4VibCs2) | [Telephones](https://open.spotify.com/album/7G6PCG8yjPJUvpp7jnoPZA) | 2:25 | 2025-11-29 | 2026-02-19 |
 | [Temari](https://open.spotify.com/track/3Ys7Fme6fdeev4ROOnM8wo) | [craz3teki](https://open.spotify.com/artist/556amiCwJrWWDOfSGdOXuv) | [Reanimation](https://open.spotify.com/album/0ZNHiNd1m4BGl5yKlc7hg1) | 1:19 | 2025-12-08 | 2025-12-16 |
 | [The Final Agenda](https://open.spotify.com/track/3M05L3jC4YpphpahJ9C3ps) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [The Final Agenda](https://open.spotify.com/album/3w5ew1faB4qurVIKGiBiW8) | 2:00 | 2025-11-30 | 2025-12-22 |
@@ -154,7 +155,7 @@
 | [UP!](https://open.spotify.com/track/0wHDIhaF25Yddt2xyug75E) | [Trefuego](https://open.spotify.com/artist/4HQfNWcXe8k5dlMHx4QrTP) | [UP!](https://open.spotify.com/album/2LcFpUbAJL3yHNnuQJ6Sud) | 1:50 | 2025-11-29 |  |
 | [vetements jeans](https://open.spotify.com/track/3BQZLM6vMQWWZwMcx3kWeu) | [Saltyngget](https://open.spotify.com/artist/46GgJ6qHCR08sCvbJ1UJzy), [Denizlpsevv](https://open.spotify.com/artist/4pgSIfKXAJIobPChLgCBC2), [lznvrse](https://open.spotify.com/artist/7sVaqWeaXYCptHiY4fflgD) | [vetements jeans](https://open.spotify.com/album/0fVUcJ8RZDBxRFQqNR9qJ9) | 2:30 | 2025-11-29 | 2025-12-11 |
 | [vibe](https://open.spotify.com/track/5xOizHnjd92FNm6ruDUYSD) | [ixlvice](https://open.spotify.com/artist/2MjjoL0FkaOOpEE5CJhS64) | [vibe](https://open.spotify.com/album/7AyL6Ya7hNVtcQ7ShOlXSp) | 3:37 | 2025-12-06 | 2025-12-13 |
-| [Voices In My Head](https://open.spotify.com/track/6ZWgyxB0rdb1vur4J2hSCQ) | [Rayy Dubb](https://open.spotify.com/artist/5JkD3p2fJbGwVagjQSfD7h) | [Voices In My Head](https://open.spotify.com/album/7qGgYsuOOTVWPJgaDebx74) | 2:45 | 2025-11-29 |  |
+| [Voices In My Head](https://open.spotify.com/track/6ZWgyxB0rdb1vur4J2hSCQ) | [Rayy Dubb](https://open.spotify.com/artist/5JkD3p2fJbGwVagjQSfD7h) | [Voices In My Head](https://open.spotify.com/album/7qGgYsuOOTVWPJgaDebx74) | 2:45 | 2025-11-29 | 2026-03-04 |
 | [WAR 1](https://open.spotify.com/track/5PyjS9OsRJR0vEbFd7I6HA) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Alivë](https://open.spotify.com/album/1n3e9mGQUpv1UXOxMre4My) | 2:33 | 2025-11-29 |  |
 | [Which 1 / Klueless](https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [LORD](https://open.spotify.com/album/6djk4PgDnK96ckGP4ezYBn) | 2:23 | 2025-11-29 | 2026-02-27 |
 | [Why??](https://open.spotify.com/track/0dBMRQ78EYbUMjjxOH38yw) | [cb](https://open.spotify.com/artist/5EAMEZrRLkhyG5pYaqedpC) | [Why??](https://open.spotify.com/album/6fqdCF4J8w8plMLjPMT3hh) | 2:08 | 2026-02-04 | 2026-02-26 |

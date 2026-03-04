@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,180 likes - 221 songs - 11 hr 58 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,178 likes - 221 songs - 11 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 | 78 | [Gimme A Kiss](https://open.spotify.com/track/01qWkHJDYzKeLunnI8vo1z) | [Kleinefrigo](https://open.spotify.com/artist/4Ds8tVensycYF6njpyIupZ), [JUCY](https://open.spotify.com/artist/0aj1hC1KnHjRyAJNGRtirY) | [Gimme A Kiss](https://open.spotify.com/album/0ylsTvihZfoEuBv9edngcr) | 4:24 |
 | 79 | [Das Boom](https://open.spotify.com/track/0GI4jfqufRqXXkuatEMCsn) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Das Boom](https://open.spotify.com/album/3hGP21qtBpVpZradJOEbgu) | 2:13 |
 | 80 | [Vaki](https://open.spotify.com/track/3L66WwSdmOh3ZIAD1o4Rp8) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Vaki](https://open.spotify.com/album/6LbFnBy3U4WTzn0iZEwM6B) | 3:54 |
-| 81 | [Circus](https://open.spotify.com/track/0vswyChRwvb8oSsevapdZd) | [Luke Alexander](https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542) | [Circus](https://open.spotify.com/album/4Ig0xFqy8hAXWE9nRMBr8H) | 2:09 |
+| 81 | [Circus](https://open.spotify.com/track/0vswyChRwvb8oSsevapdZd) | [LUKE ALEXANDER](https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542) | [Circus](https://open.spotify.com/album/4Ig0xFqy8hAXWE9nRMBr8H) | 2:09 |
 | 82 | [Life Is Simple \(Move Your Body\) \[Feat Salomé Das\]](https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1) | [Maesic](https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ), [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Salomé Das](https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77) | [Life Is Simple \(Move Your Body\) \[Feat Salomé Das\]](https://open.spotify.com/album/4btj2RrBqE3GZ2azpFrWuo) | 2:52 |
 | 83 | [Hallelujah](https://open.spotify.com/track/6dJaDOSG6ir1y1vEXwMX9M) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR), [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [FEEL](https://open.spotify.com/artist/79pkz4kQTE5mLWss4U0ozi) | [Hallelujah](https://open.spotify.com/album/3nVSkvNBvaC8nbdwB9na78) | 2:20 |
 | 84 | [Your Turn](https://open.spotify.com/track/14rx03yHQzd9jnnzhzYQM0) | [NO\. SYGNL](https://open.spotify.com/artist/1tJIyQ7VJERr5YGEKpgmun) | [Your Turn](https://open.spotify.com/album/4h1u8r9WhyyKSw9UvdQV3P) | 3:34 |

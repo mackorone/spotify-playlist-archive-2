@@ -1,6 +1,6 @@
 {
   "description": "Indiepop in het Nederlands. Cover: nonchelange",
-  "num_followers": 11279,
+  "num_followers": 11277,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -167,22 +167,6 @@
     {
       "added_at": "2026-02-26 23:00:52",
       "album": {
-        "name": "Kleinkunst",
-        "url": "https://open.spotify.com/album/0dVJ6kqv5wj2qDUobhMdAe"
-      },
-      "artists": [
-        {
-          "name": "Joost",
-          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
-        }
-      ],
-      "duration_ms": 144520,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/2NhflROyhPgc2AtDjRo9bC"
-    },
-    {
-      "added_at": "2026-02-26 23:00:52",
-      "album": {
         "name": "Afterparty",
         "url": "https://open.spotify.com/album/4X6bUbNF7ZM1hNNzPSWhw6"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 142645,
       "name": "Afterparty",
       "url": "https://open.spotify.com/track/0nvPj2VhAABt6Ac467PEL3"
+    },
+    {
+      "added_at": "2026-02-26 23:00:52",
+      "album": {
+        "name": "Kleinkunst",
+        "url": "https://open.spotify.com/album/0dVJ6kqv5wj2qDUobhMdAe"
+      },
+      "artists": [
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        }
+      ],
+      "duration_ms": 144520,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/2NhflROyhPgc2AtDjRo9bC"
     },
     {
       "added_at": "2026-02-26 23:00:52",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-02-26 23:00:52",
       "album": {
-        "name": "Als Het Donker Wordt",
-        "url": "https://open.spotify.com/album/5w1GDsb8nCcvajsVwuVfMY"
-      },
-      "artists": [
-        {
-          "name": "Pip Lieke Lucas",
-          "url": "https://open.spotify.com/artist/3eWGqcshWI4ujDmuzyKYl0"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Als Het Donker Wordt",
-      "url": "https://open.spotify.com/track/4nz0xR3gS5OfFOYo8OmWDu"
-    },
-    {
-      "added_at": "2026-02-26 23:00:52",
-      "album": {
         "name": "Niemand Gaat Het Voor Je Doen",
         "url": "https://open.spotify.com/album/3a7bA26ltWMlYpJuD2R8oF"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 148159,
       "name": "Fuck Je Gucci Shirt",
       "url": "https://open.spotify.com/track/1hD3B1IiFU84te2aOOvNrr"
+    },
+    {
+      "added_at": "2026-02-26 23:00:52",
+      "album": {
+        "name": "Als Het Donker Wordt",
+        "url": "https://open.spotify.com/album/5w1GDsb8nCcvajsVwuVfMY"
+      },
+      "artists": [
+        {
+          "name": "Pip Lieke Lucas",
+          "url": "https://open.spotify.com/artist/3eWGqcshWI4ujDmuzyKYl0"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Als Het Donker Wordt",
+      "url": "https://open.spotify.com/track/4nz0xR3gS5OfFOYo8OmWDu"
     },
     {
       "added_at": "2026-02-26 23:00:52",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-02-26 23:00:52",
       "album": {
-        "name": "Mommy",
-        "url": "https://open.spotify.com/album/4SbZYtl7lHyPGrG7OuXpaU"
-      },
-      "artists": [
-        {
-          "name": "MEROL",
-          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
-        }
-      ],
-      "duration_ms": 174352,
-      "name": "Mommy",
-      "url": "https://open.spotify.com/track/0GGkVcWMpldFL1LXWPEvjD"
-    },
-    {
-      "added_at": "2026-02-26 23:00:52",
-      "album": {
         "name": "Praat Te Veel",
         "url": "https://open.spotify.com/album/5fcW10KqULqNexBgtsehXY"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 142560,
       "name": "Praat Te Veel",
       "url": "https://open.spotify.com/track/1U5e0L9t9393QN0FrzPa6h"
+    },
+    {
+      "added_at": "2026-02-26 23:00:52",
+      "album": {
+        "name": "Mommy",
+        "url": "https://open.spotify.com/album/4SbZYtl7lHyPGrG7OuXpaU"
+      },
+      "artists": [
+        {
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+        }
+      ],
+      "duration_ms": 174352,
+      "name": "Mommy",
+      "url": "https://open.spotify.com/track/0GGkVcWMpldFL1LXWPEvjD"
     },
     {
       "added_at": "2026-02-26 23:00:52",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-02-26 23:00:52",
       "album": {
+        "name": "Winterkind",
+        "url": "https://open.spotify.com/album/2zwHRzS6FnqAuMR4NKyE0P"
+      },
+      "artists": [
+        {
+          "name": "Lindi",
+          "url": "https://open.spotify.com/artist/5Hvge2fZ3VfkwUhXaXCnpR"
+        }
+      ],
+      "duration_ms": 165818,
+      "name": "Winterkind",
+      "url": "https://open.spotify.com/track/3EAK7oSLalIonAaeiLAYGm"
+    },
+    {
+      "added_at": "2026-02-26 23:00:52",
+      "album": {
         "name": "Videotheek (Recht Uit Een Film)",
         "url": "https://open.spotify.com/album/3GYoqH6u6xyqewbGevy4re"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 190541,
       "name": "Rondjes",
       "url": "https://open.spotify.com/track/6cQWHhI9gJ44kZG0vNofsZ"
-    },
-    {
-      "added_at": "2026-02-26 23:00:52",
-      "album": {
-        "name": "Winterkind",
-        "url": "https://open.spotify.com/album/2zwHRzS6FnqAuMR4NKyE0P"
-      },
-      "artists": [
-        {
-          "name": "Lindi",
-          "url": "https://open.spotify.com/artist/5Hvge2fZ3VfkwUhXaXCnpR"
-        }
-      ],
-      "duration_ms": 165818,
-      "name": "Winterkind",
-      "url": "https://open.spotify.com/track/3EAK7oSLalIonAaeiLAYGm"
     },
     {
       "added_at": "2026-02-26 23:00:52",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-02-26 23:00:52",
       "album": {
-        "name": "Kan Je Niet Blijven?",
-        "url": "https://open.spotify.com/album/0zDtda7KNQvJ1jggMPyhvI"
-      },
-      "artists": [
-        {
-          "name": "Politie Warnsveld",
-          "url": "https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe"
-        }
-      ],
-      "duration_ms": 215199,
-      "name": "Kan Je Niet Blijven?",
-      "url": "https://open.spotify.com/track/39eWBLGnZPIwBNESykz0V8"
-    },
-    {
-      "added_at": "2026-02-26 23:00:52",
-      "album": {
         "name": "Boterham",
         "url": "https://open.spotify.com/album/2gs4DAtbdobe6Zc0WEYXoO"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 127562,
       "name": "Boterham",
       "url": "https://open.spotify.com/track/43jTtqGXC9Haqr1CsCQ6et"
+    },
+    {
+      "added_at": "2026-02-26 23:00:52",
+      "album": {
+        "name": "Kan Je Niet Blijven?",
+        "url": "https://open.spotify.com/album/0zDtda7KNQvJ1jggMPyhvI"
+      },
+      "artists": [
+        {
+          "name": "Politie Warnsveld",
+          "url": "https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe"
+        }
+      ],
+      "duration_ms": 215199,
+      "name": "Kan Je Niet Blijven?",
+      "url": "https://open.spotify.com/track/39eWBLGnZPIwBNESykz0V8"
     },
     {
       "added_at": "2026-02-26 23:00:52",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-02-26 23:00:52",
       "album": {
-        "name": "Normaal Toen",
-        "url": "https://open.spotify.com/album/4vnvLUkUTaGUYy4CJGkR10"
-      },
-      "artists": [
-        {
-          "name": "Eefje de Visser",
-          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
-        }
-      ],
-      "duration_ms": 194454,
-      "name": "Normaal Toen",
-      "url": "https://open.spotify.com/track/3NvAhi0tPwQyyYZuSXptD1"
-    },
-    {
-      "added_at": "2026-02-26 23:00:52",
-      "album": {
         "name": "Skinroutine Bikinilijn",
         "url": "https://open.spotify.com/album/6Gxagh1mE6Z9Mipof5thLQ"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 183333,
       "name": "Skinroutine Bikinilijn",
       "url": "https://open.spotify.com/track/6Q0MNS8ZNeEKDnLgDgoZe2"
+    },
+    {
+      "added_at": "2026-02-26 23:00:52",
+      "album": {
+        "name": "Normaal Toen",
+        "url": "https://open.spotify.com/album/4vnvLUkUTaGUYy4CJGkR10"
+      },
+      "artists": [
+        {
+          "name": "Eefje de Visser",
+          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
+        }
+      ],
+      "duration_ms": 194454,
+      "name": "Normaal Toen",
+      "url": "https://open.spotify.com/track/3NvAhi0tPwQyyYZuSXptD1"
     },
     {
       "added_at": "2026-02-26 23:00:52",

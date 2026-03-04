@@ -1,6 +1,6 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Dan + Shay",
-  "num_followers": 135634,
+  "num_followers": 135639,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,42 @@
     {
       "added_at": "2026-02-20 05:00:49",
       "album": {
+        "name": "Wake Me up (Country Version)",
+        "url": "https://open.spotify.com/album/1hnsF3H1B372xHHohhCX0e"
+      },
+      "artists": [
+        {
+          "name": "Cooper Alan",
+          "url": "https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "Wake Me up (Country Version)",
+      "url": "https://open.spotify.com/track/3dBb0GQCXP9OZlzaijuHmu"
+    },
+    {
+      "added_at": "2026-02-20 05:00:49",
+      "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/0xbmMCxRyQtswaJnCcLLbL"
+      },
+      "artists": [
+        {
+          "name": "Gareth",
+          "url": "https://open.spotify.com/artist/0r0HGFrFjLgQZch834rCSq"
+        }
+      ],
+      "duration_ms": 204078,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/6XtCRiSN5qHIa32aundC6Y"
+    },
+    {
+      "added_at": "2026-02-20 05:00:49",
+      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -663,42 +699,6 @@
       "duration_ms": 131949,
       "name": "BLACKBIIRD",
       "url": "https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI"
-    },
-    {
-      "added_at": "2026-02-20 05:00:49",
-      "album": {
-        "name": "Complicated",
-        "url": "https://open.spotify.com/album/0xbmMCxRyQtswaJnCcLLbL"
-      },
-      "artists": [
-        {
-          "name": "Gareth",
-          "url": "https://open.spotify.com/artist/0r0HGFrFjLgQZch834rCSq"
-        }
-      ],
-      "duration_ms": 204078,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/6XtCRiSN5qHIa32aundC6Y"
-    },
-    {
-      "added_at": "2026-02-20 05:00:49",
-      "album": {
-        "name": "Wake Me up (Country Version)",
-        "url": "https://open.spotify.com/album/1hnsF3H1B372xHHohhCX0e"
-      },
-      "artists": [
-        {
-          "name": "Cooper Alan",
-          "url": "https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb"
-        },
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "Wake Me up (Country Version)",
-      "url": "https://open.spotify.com/track/3dBb0GQCXP9OZlzaijuHmu"
     },
     {
       "added_at": "2026-02-20 05:00:49",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-02-20 05:00:49",
       "album": {
-        "name": "Yukon",
-        "url": "https://open.spotify.com/album/2sUc8TaJ6dmrOACODkIeT6"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 156933,
-      "name": "Yukon",
-      "url": "https://open.spotify.com/track/2TBuOs6tpd4cfhS1XvkJLK"
-    },
-    {
-      "added_at": "2026-02-20 05:00:49",
-      "album": {
         "name": "HIXTAPE: Vol. 3: DIFFTAPE",
         "url": "https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 224456,
       "name": "Ships That Don\u2019t Come In",
       "url": "https://open.spotify.com/track/6wNtSoSzerVOo8fGKRLN7Q"
+    },
+    {
+      "added_at": "2026-02-20 05:00:49",
+      "album": {
+        "name": "Yukon",
+        "url": "https://open.spotify.com/album/2sUc8TaJ6dmrOACODkIeT6"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 156933,
+      "name": "Yukon",
+      "url": "https://open.spotify.com/track/2TBuOs6tpd4cfhS1XvkJLK"
     },
     {
       "added_at": "2026-02-20 05:00:49",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-02-20 05:00:49",
       "album": {
-        "name": "15 Years, the Wild Ride",
-        "url": "https://open.spotify.com/album/0OjAJhXHWApxkPtPJHOPVW"
-      },
-      "artists": [
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        }
-      ],
-      "duration_ms": 272786,
-      "name": "3 Am",
-      "url": "https://open.spotify.com/track/6LjvqlPeCj62wF4oPJ6XOe"
-    },
-    {
-      "added_at": "2026-02-20 05:00:49",
-      "album": {
         "name": "Eastside",
         "url": "https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 167142,
       "name": "Eastside",
       "url": "https://open.spotify.com/track/3sfJXqWV7sr2aQiSaahbZc"
+    },
+    {
+      "added_at": "2026-02-20 05:00:49",
+      "album": {
+        "name": "15 Years, the Wild Ride",
+        "url": "https://open.spotify.com/album/0OjAJhXHWApxkPtPJHOPVW"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "duration_ms": 272786,
+      "name": "3 Am",
+      "url": "https://open.spotify.com/track/6LjvqlPeCj62wF4oPJ6XOe"
     },
     {
       "added_at": "2026-02-20 05:00:49",

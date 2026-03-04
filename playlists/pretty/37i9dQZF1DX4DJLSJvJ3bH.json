@@ -1,6 +1,6 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 143946,
+  "num_followers": 143932,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "The Christmas Song (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 139466,
-      "name": "O Little Town Of Bethlehem",
-      "url": "https://open.spotify.com/track/07grjb29wSIEwP4xKtZUjH"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "The Night Before Christmas",
         "url": "https://open.spotify.com/album/17h2pP4o8KoCOoFpS4IDy7"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 218110,
       "name": "The Night Before Christmas",
       "url": "https://open.spotify.com/track/4aFHfT8vtA7DCamwvh1Rad"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "The Christmas Song (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 139466,
+      "name": "O Little Town Of Bethlehem",
+      "url": "https://open.spotify.com/track/07grjb29wSIEwP4xKtZUjH"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "The Christmas Song",
-        "url": "https://open.spotify.com/album/1nHulRk2NK7CFmJ4SZCH6I"
-      },
-      "artists": [
-        {
-          "name": "Elysia Biro",
-          "url": "https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L"
-        }
-      ],
-      "duration_ms": 167178,
-      "name": "The Christmas Song - Cheery & Bright",
-      "url": "https://open.spotify.com/track/0hode0HJru0rWthIlCLSUK"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "Give love on christmas day",
         "url": "https://open.spotify.com/album/5JcVL1T06yF9q8CoEsGBM4"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 201431,
       "name": "Give love on christmas day",
       "url": "https://open.spotify.com/track/0dSzcKjA1PWamU3iokaKBc"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "The Christmas Song",
+        "url": "https://open.spotify.com/album/1nHulRk2NK7CFmJ4SZCH6I"
+      },
+      "artists": [
+        {
+          "name": "Elysia Biro",
+          "url": "https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L"
+        }
+      ],
+      "duration_ms": 167178,
+      "name": "The Christmas Song - Cheery & Bright",
+      "url": "https://open.spotify.com/track/0hode0HJru0rWthIlCLSUK"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "Ultimate Christmas",
-        "url": "https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "It Came Upon A Midnight Clear",
-      "url": "https://open.spotify.com/track/55YzKJipEDxzduTSrAWtMj"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "Little Drummer Boy",
         "url": "https://open.spotify.com/album/2LheEqGdlCtcbCTvPZOQtG"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 180517,
       "name": "Little Drummer Boy",
       "url": "https://open.spotify.com/track/4YKOgDDwKW2lrbwrvqFcVI"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "Ultimate Christmas",
+        "url": "https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "It Came Upon A Midnight Clear",
+      "url": "https://open.spotify.com/track/55YzKJipEDxzduTSrAWtMj"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "O Come, O Come Emmanuel",
-        "url": "https://open.spotify.com/album/3JnBzkJI52l6jJkAX84pVV"
-      },
-      "artists": [
-        {
-          "name": "N.B.H-Trio",
-          "url": "https://open.spotify.com/artist/5oooIIdGmAuNyfQiWehfmX"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "O Come, O Come Emmanuel",
-      "url": "https://open.spotify.com/track/0GlynfYCzLa4rjZqbJcVyS"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "Deck the Halls",
         "url": "https://open.spotify.com/album/3ih4Z7j1laYHVbeCzxssop"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 160415,
       "name": "O Come All Ye Faithful",
       "url": "https://open.spotify.com/track/6ayK59JrXwTFNIO4l8YeHr"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "O Come, O Come Emmanuel",
+        "url": "https://open.spotify.com/album/3JnBzkJI52l6jJkAX84pVV"
+      },
+      "artists": [
+        {
+          "name": "N.B.H-Trio",
+          "url": "https://open.spotify.com/artist/5oooIIdGmAuNyfQiWehfmX"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "O Come, O Come Emmanuel",
+      "url": "https://open.spotify.com/track/0GlynfYCzLa4rjZqbJcVyS"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "We Wish You A Merry Christmas",
-        "url": "https://open.spotify.com/album/506rp9HRzW8Eu1Cmnlo0rg"
-      },
-      "artists": [
-        {
-          "name": "Rasmus H Thomsen Trio",
-          "url": "https://open.spotify.com/artist/5Ep05EOVNYVc5b5trOuDI1"
-        }
-      ],
-      "duration_ms": 161129,
-      "name": "We Wish You A Merry Christmas",
-      "url": "https://open.spotify.com/track/7sqKpLs0CUelnUekGEhHwW"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "Almost Like Being In Love",
         "url": "https://open.spotify.com/album/2XlNf2alkFJq3LD4Fumyqo"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 192355,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/3210TdRMtF0hKNnUgiMTlS"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "We Wish You A Merry Christmas",
+        "url": "https://open.spotify.com/album/506rp9HRzW8Eu1Cmnlo0rg"
+      },
+      "artists": [
+        {
+          "name": "Rasmus H Thomsen Trio",
+          "url": "https://open.spotify.com/artist/5Ep05EOVNYVc5b5trOuDI1"
+        }
+      ],
+      "duration_ms": 161129,
+      "name": "We Wish You A Merry Christmas",
+      "url": "https://open.spotify.com/track/7sqKpLs0CUelnUekGEhHwW"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "A Nancy Wilson Christmas",
-        "url": "https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1"
-      },
-      "artists": [
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        }
-      ],
-      "duration_ms": 290493,
-      "name": "What Are You Doing New Year's Eve?",
-      "url": "https://open.spotify.com/track/3nr5SzU7pt0IvNCvk7m4np"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "The Pianoman at Christmas",
         "url": "https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 210560,
       "name": "Beautiful, Altogether",
       "url": "https://open.spotify.com/track/7qsv2ZaehJN4uIkCDsubKQ"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "A Nancy Wilson Christmas",
+        "url": "https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        }
+      ],
+      "duration_ms": 290493,
+      "name": "What Are You Doing New Year's Eve?",
+      "url": "https://open.spotify.com/track/3nr5SzU7pt0IvNCvk7m4np"
     },
     {
       "added_at": "2025-12-19 14:00:54",

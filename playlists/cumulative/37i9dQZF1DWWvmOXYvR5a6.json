@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy x Chill K-Hip Hop.  (Cover: Roh Yun Ha)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
+  "description": "Trendy x Chill K-Hip Hop.  (Cover: B.I)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
   "name": "TrenChill K-Hip Hop",
   "tracks": [
     {
@@ -2065,6 +2065,32 @@
     },
     {
       "album": {
+        "name": "BUZZIN (Feat. Coogie, GRAY)",
+        "url": "https://open.spotify.com/album/2kutfq6QtMm6ZYyF6QktXd"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176371,
+      "name": "BUZZIN (Feat. Coogie, GRAY)",
+      "url": "https://open.spotify.com/track/2xaQzu6vkA5SUNrJUTFuJI"
+    },
+    {
+      "album": {
         "name": "Bye",
         "url": "https://open.spotify.com/album/66GVpzcJ6V8RVTuilOk8DB"
       },
@@ -3172,7 +3198,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 189480,
       "name": "Daisy (feat. pH-1)",
       "url": "https://open.spotify.com/track/2pIgqVUhK5KsNuoFBo6uoh"
@@ -5140,7 +5166,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 144761,
       "name": "GALGIL (feat. VIINI)",
       "url": "https://open.spotify.com/track/2vN8KoEURfIEyNEnZ1s5Kj"
@@ -8841,6 +8867,32 @@
     },
     {
       "album": {
+        "name": "6SEOUL",
+        "url": "https://open.spotify.com/album/0YV6qvJTTXx7AYD2RSyMfh"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        },
+        {
+          "name": "JMIN",
+          "url": "https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "M.I.A (feat. HAON, JMIN)",
+      "url": "https://open.spotify.com/track/0kkWU02BFaQXlEkaxY2DPD"
+    },
+    {
+      "album": {
         "name": "MAGIC",
         "url": "https://open.spotify.com/album/4R6JJEwoyqf7737pEdR0iK"
       },
@@ -11505,6 +11557,28 @@
     },
     {
       "album": {
+        "name": "6SEOUL",
+        "url": "https://open.spotify.com/album/0YV6qvJTTXx7AYD2RSyMfh"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "PLAYER (feat. Crush)",
+      "url": "https://open.spotify.com/track/0aKxRmN8Dv6KAWuYwLbKim"
+    },
+    {
+      "album": {
         "name": "Please",
         "url": "https://open.spotify.com/album/3lL75pZ7JWvghbPYMGZOjt"
       },
@@ -12034,7 +12108,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 185893,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/4Z2mXXSzuCDEHZtFGmy0X5"
@@ -12122,7 +12196,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 217773,
       "name": "Rich Kids Anthem (Feat. Lee Hi)",
       "url": "https://open.spotify.com/track/4nF3APHarLJHV3igGVgTUJ"
@@ -13910,6 +13984,28 @@
       "duration_ms": 176123,
       "name": "STAY (feat. TABLO)",
       "url": "https://open.spotify.com/track/4WBh36g1Xg2oQTzX7KuQcD"
+    },
+    {
+      "album": {
+        "name": "6SEOUL",
+        "url": "https://open.spotify.com/album/0YV6qvJTTXx7AYD2RSyMfh"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "STAY on FIRE (feat. DEAN)",
+      "url": "https://open.spotify.com/track/0VGeaj4sDq9UnwzSxiVgkZ"
     },
     {
       "album": {

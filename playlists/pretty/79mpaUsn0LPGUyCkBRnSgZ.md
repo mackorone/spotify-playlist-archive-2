@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 678 songs - 1 day 20 hr 17 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 688 songs - 1 day 20 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -686,5 +686,15 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 676 | [Birds & the Bees](https://open.spotify.com/track/7bwLHhqhRu0fVTM3aaeK9V) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 2:16 |
 | 677 | [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 |
 | 678 | [In a Lake](https://open.spotify.com/track/5VsBTV8gxbMCRTomd2nRqg) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Nothing's About to Happen to Me](https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu) | 3:04 |
+| 679 | [With A Grain](https://open.spotify.com/track/41fXvEFSqLiVnTxSNhTXe1) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [All Cylinders](https://open.spotify.com/album/1jooROM5diSNAfEwESyDDH) | 3:30 |
+| 680 | [Something is Broken](https://open.spotify.com/track/7peEFLNBONT5AUERkVoOaR) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Devotion & The Black Divine](https://open.spotify.com/album/7CojnTD4egy26jrFMeiXKD) | 2:39 |
+| 681 | [My Garden](https://open.spotify.com/track/3iFrdRxudq9yD029Q9XOat) | [Agriculture](https://open.spotify.com/artist/23Skjj6LyKEVkNIUFrLBUY) | [The Spiritual Sound](https://open.spotify.com/album/4HxzA7GFGtbcLiCNNd4AmZ) | 5:12 |
+| 682 | [waltz d'hethert](https://open.spotify.com/track/5jSEk7FFvkwqojeLmtexHB) | [keiyaA](https://open.spotify.com/artist/542BY6B2YGEdf2XWvBFUJV) | [hooke’s law](https://open.spotify.com/album/2sTsH9vYQhIi60IYjE3hJp) | 0:52 |
+| 683 | [I'll Be With You](https://open.spotify.com/track/2yW5MrWnJVLiH8oFBGCl9I) | [Maiya Blaney](https://open.spotify.com/artist/0SdETlosHnWN9VNqJKpFGl) | [A Room With A Door That Closes](https://open.spotify.com/album/5BiULOhpmf5jUr39PDAMzz) | 2:37 |
+| 684 | [Hegemonic](https://open.spotify.com/track/79qKtKFvTWYoLYVcJnBCVh) | [Divide And Dissolve](https://open.spotify.com/artist/4YmPo9Zke9OYNmV5WW7CMS) | [Insatiable](https://open.spotify.com/album/5174DaPHbMVAzmnWR1CQ0b) | 2:29 |
+| 685 | [Fragile](https://open.spotify.com/track/2YWjyGARRK5KOFBxSBRPup) | [Yasmin Nur](https://open.spotify.com/artist/5QJ3lLasHPr4juIkXB3siz) | [Slaughter](https://open.spotify.com/album/11jhOP95Uh2qmFo7jC1P9n) | 3:56 |
+| 686 | [Broken Bones](https://open.spotify.com/track/2kfzvmDwenaFoXCxRR3N4U) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Hex Key](https://open.spotify.com/album/71gvpd2oNaGwGmbqXOk8zk) | 2:30 |
+| 687 | [Traffic](https://open.spotify.com/track/5f3V3b4WCIegPW92FXNKa2) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [ANIMA](https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm) | 5:17 |
+| 688 | [A Fake in a Faker’s World](https://open.spotify.com/track/1dJx3jat0jXUxBari5KSiw) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Tall Tales](https://open.spotify.com/album/6KIRln7GBcc3eO22UDy8T2) | 8:18 |
 
-Snapshot ID: `AAAIqTZfz/mqlB7zhVxMilEcoo+p3jfZ`
+Snapshot ID: `AAAIsw/EuhbcTTMOwsk2rbNgA7L3lf6S`

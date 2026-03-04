@@ -1,6 +1,6 @@
 {
   "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: SuperJazzClub",
-  "num_followers": 110743,
+  "num_followers": 110759,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,18 @@
     {
       "added_at": "2026-02-27 00:01:23",
       "album": {
-        "name": "RHUDE GYAL! (with Darkoo)",
-        "url": "https://open.spotify.com/album/2xfL170E8laeFdFwBlpOrM"
+        "name": "Xistence.",
+        "url": "https://open.spotify.com/album/36cl6vYPoDH3k2dtTsuBL5"
       },
       "artists": [
         {
           "name": "JELEEL!",
           "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
-        },
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
         }
       ],
-      "duration_ms": 157149,
-      "name": "RHUDE GYAL! (with Darkoo)",
-      "url": "https://open.spotify.com/track/7fTZGGFULOk6KDBAhupep5"
+      "duration_ms": 98964,
+      "name": "flavor.",
+      "url": "https://open.spotify.com/track/3q51YwUa160xFufWZuPM78"
     },
     {
       "added_at": "2026-02-27 00:01:23",
@@ -407,22 +403,6 @@
     {
       "added_at": "2026-02-27 00:01:23",
       "album": {
-        "name": "Sex on the Beach",
-        "url": "https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 171205,
-      "name": "Sex on the Beach",
-      "url": "https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd"
-    },
-    {
-      "added_at": "2026-02-27 00:01:23",
-      "album": {
         "name": "Pawon + Fly",
         "url": "https://open.spotify.com/album/6twgGorVU0d808ToQ632pw"
       },
@@ -439,18 +419,38 @@
     {
       "added_at": "2026-02-27 00:01:23",
       "album": {
-        "name": "Xistence.",
-        "url": "https://open.spotify.com/album/36cl6vYPoDH3k2dtTsuBL5"
+        "name": "Sex on the Beach",
+        "url": "https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 171205,
+      "name": "Sex on the Beach",
+      "url": "https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd"
+    },
+    {
+      "added_at": "2026-02-27 00:01:23",
+      "album": {
+        "name": "RHUDE GYAL! (with Darkoo)",
+        "url": "https://open.spotify.com/album/2xfL170E8laeFdFwBlpOrM"
       },
       "artists": [
         {
           "name": "JELEEL!",
           "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
+        },
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
         }
       ],
-      "duration_ms": 98964,
-      "name": "flavor.",
-      "url": "https://open.spotify.com/track/3q51YwUa160xFufWZuPM78"
+      "duration_ms": 157149,
+      "name": "RHUDE GYAL! (with Darkoo)",
+      "url": "https://open.spotify.com/track/7fTZGGFULOk6KDBAhupep5"
     },
     {
       "added_at": "2026-02-27 00:01:23",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-02-27 00:01:23",
       "album": {
+        "name": "impossible",
+        "url": "https://open.spotify.com/album/0djaWlKgbcCWTQkkUxgY7M"
+      },
+      "artists": [
+        {
+          "name": "Tochi Bedford",
+          "url": "https://open.spotify.com/artist/1zeUMAJrOoMdWjU0BErMzn"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "impossible",
+      "url": "https://open.spotify.com/track/2vE3z6XBUsLuUgIA0MVbUe"
+    },
+    {
+      "added_at": "2026-02-27 00:01:23",
+      "album": {
         "name": "MAKE BRITAIN S3XY AGAIN",
         "url": "https://open.spotify.com/album/6YmpImCxaSNJ297Vbv3nS3"
       },
@@ -683,6 +699,34 @@
       "duration_ms": 171199,
       "name": "sun's out (feat. Zerrydl)",
       "url": "https://open.spotify.com/track/1vCkU2re6Xtuf4IDePN7O8"
+    },
+    {
+      "added_at": "2026-02-27 00:01:23",
+      "album": {
+        "name": "Rewind (feat. Boj, Smada & Genio Bambino)",
+        "url": "https://open.spotify.com/album/6BqgPqXsxOlo3xoNLNKrUQ"
+      },
+      "artists": [
+        {
+          "name": "Vivendii Sound",
+          "url": "https://open.spotify.com/artist/21rC8LSfXexS7tyaK9tbum"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Smada",
+          "url": "https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso"
+        },
+        {
+          "name": "Genio Bambino",
+          "url": "https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0"
+        }
+      ],
+      "duration_ms": 128399,
+      "name": "Rewind (feat. Boj, Smada & Genio Bambino)",
+      "url": "https://open.spotify.com/track/1IupBattMLqPdJBGWQt4bW"
     },
     {
       "added_at": "2026-02-27 00:01:23",
@@ -735,66 +779,6 @@
     {
       "added_at": "2026-02-27 00:01:23",
       "album": {
-        "name": "impossible",
-        "url": "https://open.spotify.com/album/0djaWlKgbcCWTQkkUxgY7M"
-      },
-      "artists": [
-        {
-          "name": "Tochi Bedford",
-          "url": "https://open.spotify.com/artist/1zeUMAJrOoMdWjU0BErMzn"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "impossible",
-      "url": "https://open.spotify.com/track/2vE3z6XBUsLuUgIA0MVbUe"
-    },
-    {
-      "added_at": "2026-02-27 00:01:23",
-      "album": {
-        "name": "Dumb",
-        "url": "https://open.spotify.com/album/1Mt0hkW325LIAoeBO8Loue"
-      },
-      "artists": [
-        {
-          "name": "Noir",
-          "url": "https://open.spotify.com/artist/0jOcWEjwKDMzSfi2Yeyjd4"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Dumb",
-      "url": "https://open.spotify.com/track/0PFx2A7OrtPGVMbelKt2GS"
-    },
-    {
-      "added_at": "2026-02-27 00:01:23",
-      "album": {
-        "name": "Rewind (feat. Boj, Smada & Genio Bambino)",
-        "url": "https://open.spotify.com/album/6BqgPqXsxOlo3xoNLNKrUQ"
-      },
-      "artists": [
-        {
-          "name": "Vivendii Sound",
-          "url": "https://open.spotify.com/artist/21rC8LSfXexS7tyaK9tbum"
-        },
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Smada",
-          "url": "https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso"
-        },
-        {
-          "name": "Genio Bambino",
-          "url": "https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0"
-        }
-      ],
-      "duration_ms": 128399,
-      "name": "Rewind (feat. Boj, Smada & Genio Bambino)",
-      "url": "https://open.spotify.com/track/1IupBattMLqPdJBGWQt4bW"
-    },
-    {
-      "added_at": "2026-02-27 00:01:23",
-      "album": {
         "name": "Sinatanale",
         "url": "https://open.spotify.com/album/7w8DlQ2JXdkRBp38TgBeVZ"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 177882,
       "name": "OKAY!",
       "url": "https://open.spotify.com/track/6lmewW4pJlDGmZWgaWa1mT"
+    },
+    {
+      "added_at": "2026-02-27 00:01:23",
+      "album": {
+        "name": "Dumb",
+        "url": "https://open.spotify.com/album/1Mt0hkW325LIAoeBO8Loue"
+      },
+      "artists": [
+        {
+          "name": "Noir",
+          "url": "https://open.spotify.com/artist/0jOcWEjwKDMzSfi2Yeyjd4"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Dumb",
+      "url": "https://open.spotify.com/track/0PFx2A7OrtPGVMbelKt2GS"
     },
     {
       "added_at": "2026-02-27 00:01:23",
@@ -899,6 +899,22 @@
     {
       "added_at": "2026-02-27 00:01:23",
       "album": {
+        "name": "LUCKY UU",
+        "url": "https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx"
+      },
+      "artists": [
+        {
+          "name": "LUUKHANYO",
+          "url": "https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k"
+        }
+      ],
+      "duration_ms": 186818,
+      "name": "The Midnight Wanderer",
+      "url": "https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4"
+    },
+    {
+      "added_at": "2026-02-27 00:01:23",
+      "album": {
         "name": "Ah Well",
         "url": "https://open.spotify.com/album/1PZMEss8Vhv50mIZKu6jho"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 192000,
       "name": "Ah Well",
       "url": "https://open.spotify.com/track/2JtaWZbCiOA0i09pTWH2JQ"
-    },
-    {
-      "added_at": "2026-02-27 00:01:23",
-      "album": {
-        "name": "LUCKY UU",
-        "url": "https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx"
-      },
-      "artists": [
-        {
-          "name": "LUUKHANYO",
-          "url": "https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k"
-        }
-      ],
-      "duration_ms": 186818,
-      "name": "The Midnight Wanderer",
-      "url": "https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4"
     },
     {
       "added_at": "2026-02-27 00:01:23",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2026-02-27 00:01:23",
       "album": {
+        "name": "Nana",
+        "url": "https://open.spotify.com/album/1tFYuZ0v7O2x34L0XlKEMC"
+      },
+      "artists": [
+        {
+          "name": "Thee Diane",
+          "url": "https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5"
+        },
+        {
+          "name": "Sabrina Bellaouel",
+          "url": "https://open.spotify.com/artist/1TI3pJmtWgehlVMJzKJaJB"
+        }
+      ],
+      "duration_ms": 193453,
+      "name": "Nana",
+      "url": "https://open.spotify.com/track/4jZb5ARAPY47dZOr8nqIJa"
+    },
+    {
+      "added_at": "2026-02-27 00:01:23",
+      "album": {
         "name": "Novacaine",
         "url": "https://open.spotify.com/album/1Xx313px4lu947MnygS9ej"
       },
@@ -1139,26 +1159,6 @@
       "duration_ms": 151529,
       "name": "General",
       "url": "https://open.spotify.com/track/0aG4heCOR0XzZqU7HmDLjt"
-    },
-    {
-      "added_at": "2026-02-27 00:01:23",
-      "album": {
-        "name": "Nana",
-        "url": "https://open.spotify.com/album/1tFYuZ0v7O2x34L0XlKEMC"
-      },
-      "artists": [
-        {
-          "name": "Thee Diane",
-          "url": "https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5"
-        },
-        {
-          "name": "Sabrina Bellaouel",
-          "url": "https://open.spotify.com/artist/1TI3pJmtWgehlVMJzKJaJB"
-        }
-      ],
-      "duration_ms": 193453,
-      "name": "Nana",
-      "url": "https://open.spotify.com/track/4jZb5ARAPY47dZOr8nqIJa"
     },
     {
       "added_at": "2026-02-27 00:01:23",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2026-02-27 00:01:23",
       "album": {
-        "name": "RUSH",
-        "url": "https://open.spotify.com/album/2LQyWkXGeGOuLoqtSegnwX"
-      },
-      "artists": [
-        {
-          "name": "Sam Opoku",
-          "url": "https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv"
-        },
-        {
-          "name": "Hunter Drake",
-          "url": "https://open.spotify.com/artist/6CrFflMdudrIwHQIeQnxe8"
-        }
-      ],
-      "duration_ms": 253714,
-      "name": "RUSH",
-      "url": "https://open.spotify.com/track/1ggt5hR3JoPr8xeggK5z7s"
-    },
-    {
-      "added_at": "2026-02-27 00:01:23",
-      "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/6YOb8QKtwiEQwQj9n1kJuW"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 195505,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/6BZ2DNapAPgzNDMz3tozhU"
+    },
+    {
+      "added_at": "2026-02-27 00:01:23",
+      "album": {
+        "name": "RUSH",
+        "url": "https://open.spotify.com/album/2LQyWkXGeGOuLoqtSegnwX"
+      },
+      "artists": [
+        {
+          "name": "Sam Opoku",
+          "url": "https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv"
+        },
+        {
+          "name": "Hunter Drake",
+          "url": "https://open.spotify.com/artist/6CrFflMdudrIwHQIeQnxe8"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "RUSH",
+      "url": "https://open.spotify.com/track/1ggt5hR3JoPr8xeggK5z7s"
     },
     {
       "added_at": "2026-02-27 00:01:23",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2026-02-27 00:01:23",
       "album": {
-        "name": "Almost Famous",
-        "url": "https://open.spotify.com/album/1SOSnWv762jANFBAXNtiSG"
-      },
-      "artists": [
-        {
-          "name": "James Deacon",
-          "url": "https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx"
-        },
-        {
-          "name": "an00k",
-          "url": "https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB"
-        }
-      ],
-      "duration_ms": 166384,
-      "name": "Almost Famous",
-      "url": "https://open.spotify.com/track/4h58Iqv6QvNAasM5ePA2or"
-    },
-    {
-      "added_at": "2026-02-27 00:01:23",
-      "album": {
         "name": "Nobody Badder",
         "url": "https://open.spotify.com/album/1noSivqDiu16wO4i99I9u0"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 160359,
       "name": "FEELINGS",
       "url": "https://open.spotify.com/track/1ksmsfxb4XCOKD0JdYaznz"
+    },
+    {
+      "added_at": "2026-02-27 00:01:23",
+      "album": {
+        "name": "Almost Famous",
+        "url": "https://open.spotify.com/album/1SOSnWv762jANFBAXNtiSG"
+      },
+      "artists": [
+        {
+          "name": "James Deacon",
+          "url": "https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx"
+        },
+        {
+          "name": "an00k",
+          "url": "https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB"
+        }
+      ],
+      "duration_ms": 166384,
+      "name": "Almost Famous",
+      "url": "https://open.spotify.com/track/4h58Iqv6QvNAasM5ePA2or"
     },
     {
       "added_at": "2026-02-27 00:01:23",
@@ -1511,26 +1511,22 @@
     {
       "added_at": "2026-02-27 00:01:23",
       "album": {
-        "name": "Elementary 2",
-        "url": "https://open.spotify.com/album/0EfX9usYFZFjFP0c6vW50y"
+        "name": "Lock In",
+        "url": "https://open.spotify.com/album/5ziFmKymfaKOe3b1axOjjS"
       },
       "artists": [
         {
-          "name": "Rhedi",
-          "url": "https://open.spotify.com/artist/6i90MGejsqG2b8XgqDlTUI"
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
         },
         {
-          "name": "Chiddy Bang",
-          "url": "https://open.spotify.com/artist/40giwFcTQtv9ezxW8yqxJU"
-        },
-        {
-          "name": "Young Chux",
-          "url": "https://open.spotify.com/artist/0Wb7p2SqDf9Efet2UUhvjb"
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
         }
       ],
-      "duration_ms": 164204,
-      "name": "Late Adolescence",
-      "url": "https://open.spotify.com/track/5gewN6F0jBrEkvwVz8C2ac"
+      "duration_ms": 173839,
+      "name": "Lock In",
+      "url": "https://open.spotify.com/track/69u0Cv7EK6HoRDtfhb7vrv"
     }
   ],
   "unique_name": "Alt\u00e9 Cruise",

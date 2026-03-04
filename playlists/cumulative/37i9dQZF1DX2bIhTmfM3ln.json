@@ -5968,7 +5968,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 186220,
       "name": "First Sight",
       "url": "https://open.spotify.com/track/02DkSzg2JUcKiWllkiZKlO"
@@ -9016,6 +9016,24 @@
       "duration_ms": 151304,
       "name": "Koma",
       "url": "https://open.spotify.com/track/05QBSYagui3cfuxySqprhx"
+    },
+    {
+      "album": {
+        "name": "Kontrollah",
+        "url": "https://open.spotify.com/album/1OjyeaV3NEYPdU34VGEBVl"
+      },
+      "artists": [
+        {
+          "name": "Otega",
+          "url": "https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155924,
+      "name": "Kontrollah",
+      "url": "https://open.spotify.com/track/23CKcQHyGq8UR44R6XXuEE"
     },
     {
       "album": {

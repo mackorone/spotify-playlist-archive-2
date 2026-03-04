@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Bruno Mars, RAYE, Laufey, Ghea Indrawari hingga akujeje dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,798 likes - 84 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,810 likes - 84 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 9 | [FEVER DREAM](https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FEVER DREAM](https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ) | 2:33 |
 | 10 | [If I Leave](https://open.spotify.com/track/4eMXMUkWS4aChMfA1UO4YJ) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Nothing's About to Happen to Me](https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu) | 3:00 |
 | 11 | [The Moon Cave \(feat\. Asha Puthli, Bobby Womack, Dave Jolicoeur, Jalen Ngonda and Black Thought\)](https://open.spotify.com/track/6VflG4mpZSlpKnqNRL3NO9) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Asha Puthli](https://open.spotify.com/artist/6XS2GPyMwHEgAn0VspnhMf), [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq), [Dave Jolicoeur](https://open.spotify.com/artist/7p9cQvuiCC28PPRZwHGDBM), [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [The Mountain](https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD) | 4:57 |
-| 12 | [Allah Ya Allahu](https://open.spotify.com/track/29qaPgFuhI47F0zowk9ipP) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Allah Ya Allahu](https://open.spotify.com/album/49wyBw8rVk9fwQjvZM8EUT) | 3:38 |
+| 12 | [Allahu Ya Allahu](https://open.spotify.com/track/29qaPgFuhI47F0zowk9ipP) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Allah Ya Allahu](https://open.spotify.com/album/49wyBw8rVk9fwQjvZM8EUT) | 3:38 |
 | 13 | [Beraya Dengan Saya](https://open.spotify.com/track/10a9x1AEEZdUIKYrTzJaWi) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Beraya Dengan Saya](https://open.spotify.com/album/0gMUWnZAG4GGnEUBvjZYMO) | 3:21 |
 | 14 | [AYO BUKBER!](https://open.spotify.com/track/3vjr68or98HJWYADI36z6g) | [Arseri Music](https://open.spotify.com/artist/6l2g0nLRUMCJ2Ko16MdJij), [DEABDIL](https://open.spotify.com/artist/0DdKmEBoSQuTWY9Mo2EQm2), [Amira Karin](https://open.spotify.com/artist/3rCwi62vIXjO26qeTbDtKp), [remi the duo](https://open.spotify.com/artist/3hrrPggxAi0meheUudeQIm), [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [AYO BUKBER!](https://open.spotify.com/album/5YYs1vE8qR3CZ2XWoLfsCP) | 2:48 |
 | 15 | [BOTH SIDES](https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK) | [NCT JNJM](https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H) | [BOTH SIDES \- The 1st Mini Album](https://open.spotify.com/album/6bRPrpiUj5AFPkJLcIfMQh) | 2:51 |

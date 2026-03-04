@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Treasure Planet",
+        "url": "https://open.spotify.com/album/6TCIP0qIaMYXYAFejY59cC"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164533,
+      "name": "12 Years Later - From \"Treasure Planet\"/Score",
+      "url": "https://open.spotify.com/track/491SgTfng3iwBZlubejYxL"
+    },
+    {
+      "album": {
         "name": "Fantastic Beasts and Where to Find Them (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ"
       },
@@ -1584,7 +1602,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 118413,
       "name": "The Countdown",
       "url": "https://open.spotify.com/track/3i3g2kJg5DMrp0rC5g98Ow"

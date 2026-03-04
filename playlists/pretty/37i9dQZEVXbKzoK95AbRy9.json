@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Brazil.",
-  "num_followers": 239999,
+  "num_followers": 240022,
   "original_name": "Top Songs - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTj2GAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MTpHmAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2026-02-27 14:03:01",
@@ -67,7 +67,7 @@
     {
       "added_at": "2026-02-27 14:03:01",
       "album": {
-        "name": "Carn\u00edvoro (Incidental De 1 Minuto)",
+        "name": "Carn\u00edvoro",
         "url": "https://open.spotify.com/album/1Wytj2S8Of5HMUmOJN1ULa"
       },
       "artists": [
@@ -89,7 +89,7 @@
         }
       ],
       "duration_ms": 216000,
-      "name": "Carn\u00edvoro (Incidental De 1 Minuto)",
+      "name": "Carn\u00edvoro",
       "url": "https://open.spotify.com/track/65aH3l8LEmRp3HuH5XpKoH"
     },
     {

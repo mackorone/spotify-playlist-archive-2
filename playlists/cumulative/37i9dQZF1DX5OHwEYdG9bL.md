@@ -4,7 +4,7 @@
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: Hearts2Hearts\) \(Enjoy a playlist of songs that support music video features!\)
 
-188 songs - 10 hr 24 min
+189 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Girlfriend](https://open.spotify.com/track/02Tb1O8nTBxr9xEWKwu9cf) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Girlfriend](https://open.spotify.com/album/3O2uBXMTlgiD2PxWChOd3F) | 2:45 | 2025-07-15 |  |
 | [Girls Will Be Girls](https://open.spotify.com/track/5ZK5F96wVOZe2FUg85EKkf) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls](https://open.spotify.com/album/0wfZWR1CN5b86WLdlJPm3A) | 2:53 | 2025-07-15 |  |
 | [Gnarly](https://open.spotify.com/track/7vj7OlHx7CkqW7GbtkM6jt) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/6sI1X80Cg2da4ZCKJJ1UPi) | 2:21 | 2025-07-15 |  |
+| [GO](https://open.spotify.com/track/3W6hUFHRs7JoWSS7jBE27a) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [GO](https://open.spotify.com/album/5ChCtLGTl3t8XjHWOyiJDY) | 3:21 | 2026-03-03 |  |
 | [Handlebars](https://open.spotify.com/track/02ycmM2h4Qy7N7F8d68evw) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Handlebars](https://open.spotify.com/album/3gcVaAZbYasW3tPtFYLMo9) | 3:31 | 2025-07-15 | 2025-08-20 |
 | [HANDS UP](https://open.spotify.com/track/36pQp4XqaNgg3aGipDkQc4) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [HANDS UP](https://open.spotify.com/album/2tcFy4JMpGJ97f2IEi7VLb) | 3:24 | 2025-07-15 |  |
 | [HANDS UP](https://open.spotify.com/track/5A6Hz16MM07t7yYacvB8fO) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [HANDS UP](https://open.spotify.com/album/5LZ71KaercZEeBpGk3AOMp) | 3:24 | 2025-07-15 |  |

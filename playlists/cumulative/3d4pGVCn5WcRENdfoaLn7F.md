@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-238 songs - 14 hr 39 min
+239 songs - 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Warrior Chords"](https://open.spotify.com/track/4QfErx2XCCmGaONPiBxTLF) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Warrior Chords"](https://open.spotify.com/album/6QZYjJl43YHX3sQjI0kxaO) | 5:12 | 2026-02-20 |  |
 | [We're Not Lovers](https://open.spotify.com/track/4xnHEPU7CTCpm4dFtuMvvk) | [Ryan Butler](https://open.spotify.com/artist/2abv7YoUC6ZGx5b3xFb51a) | [We're Not Lovers](https://open.spotify.com/album/7nh45cg3SuPxaXAJFDVTZz) | 2:47 | 2026-02-09 |  |
 | [What You've Been Told](https://open.spotify.com/track/2PC2lNfhz7LiyyjV0Ignpk) | [Dandbroom](https://open.spotify.com/artist/7eH9LgP0tS3a6TwkoEWwBI) | [What You've Been Told](https://open.spotify.com/album/4W4wS1Uoo9YnJyYzxRP0pp) | 3:11 | 2025-11-11 | 2025-12-06 |
+| [What's on your Mind?](https://open.spotify.com/track/3sGi1yG0h0m7hky1qd5C4P) | [Zack King](https://open.spotify.com/artist/45clgID3n7vhcRf2GIBSyf) | [Songs I Wrote Instead of Texting You](https://open.spotify.com/album/0ILbdAxdFBfNZXRexPMEYo) | 3:15 | 2026-03-04 |  |
 | [What's Wrong With You?](https://open.spotify.com/track/34xB6KsnoMR2oTSZn47aIS) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [What's Wrong With You?](https://open.spotify.com/album/493LfPZPFGetvhsX9xH3KK) | 4:20 | 2025-11-17 | 2025-12-06 |
 | [When It's Gone](https://open.spotify.com/track/6UK0nanyICljgemAndWzw8) | [Wildstreet](https://open.spotify.com/artist/5pttBZUGPhF7AcVgDke02r) | [When It's Gone](https://open.spotify.com/album/0qOCE5jm3kmYrtIKVUvhlG) | 3:53 | 2026-01-29 |  |
 | [Where Love Became a Ghost](https://open.spotify.com/track/1Tw1aEg9GMNnh5VQMiZ6hK) | [Blue Remains](https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv) | [Where Love Became a Ghost](https://open.spotify.com/album/3qYsYqWC0YnKUJIK2cVIwP) | 4:31 | 2025-12-01 | 2025-12-28 |

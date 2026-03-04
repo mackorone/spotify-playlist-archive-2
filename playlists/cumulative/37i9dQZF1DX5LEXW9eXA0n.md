@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: 최유리 \(Choi Yu Ree\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,689 songs - 4 day 13 hr 45 min
+1,691 songs - 4 day 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -961,7 +961,7 @@
 | [My Star](https://open.spotify.com/track/5RlY9uV6pWC8HWTUy8HBbA) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [My Dearest \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/682NAeZRyEWYzwvOcrFCMu) | 3:55 | 2023-09-18 | 2023-11-14 |
 | [My Story](https://open.spotify.com/track/1bTeHEQVctGDbu2WyT88fR) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [lost \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/40QKzIbSZPC2B7vgjnvSAQ) | 4:13 | 2022-01-25 | 2022-04-14 |
 | [My Truth](https://open.spotify.com/track/3GMxvRvHhIM6jMvJE2vRMk) | [BYUL](https://open.spotify.com/artist/2uoSZGvqrwdjVgn9fOUjQp) | [My Truth](https://open.spotify.com/album/4hWowddLPh8DwymAp0IdUU) | 3:51 | 2024-03-04 | 2024-06-18 |
-| [My Universe](https://open.spotify.com/track/3uk0W0obUiWSesu1xwptQw) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [\[ASTROCHILD IN THE LONELY PLANET\] Baek A Yeon \- My Universe](https://open.spotify.com/album/3sujtMZW0VfjWYHxjGbFGg) | 3:46 | 2025-12-02 |  |
+| [My Universe](https://open.spotify.com/track/3uk0W0obUiWSesu1xwptQw) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [\[ASTROCHILD IN THE LONELY PLANET\] Baek A Yeon \- My Universe](https://open.spotify.com/album/3sujtMZW0VfjWYHxjGbFGg) | 3:46 | 2025-12-02 | 2026-03-04 |
 | [My You, My Star](https://open.spotify.com/track/13WsbTTgosaevWNxZC9ryG) | [Nam Saera](https://open.spotify.com/artist/5U37QbWZ7EvVfD7EGpMC9t) | [Love Interference 2023 \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/3o99FUu2LCEaRAQ7qOPZE7) | 3:42 | 2023-01-20 | 2023-03-28 |
 | [My youth](https://open.spotify.com/track/1GZZoTydki5t72adhHXhWy) | [LeeZe](https://open.spotify.com/artist/6sRRCxqgRynrEW5Qc3pZxx) | [My youth](https://open.spotify.com/album/0GEEiwJ0lUgI049OnjHBJB) | 3:11 | 2023-09-07 | 2023-11-03 |
 | [Nagging](https://open.spotify.com/track/2SmPmWka2lRmD7GDehpjMF) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [CYWORLD BGM 2021](https://open.spotify.com/album/5DiDgD3t2FQFdbXmb4ziWD) | 4:04 | 2021-12-23 | 2022-04-21 |
@@ -1085,7 +1085,7 @@
 | [poem in the wind](https://open.spotify.com/track/1lkRLQ8xIDxyj8oU8jXqDz) | [The Cross](https://open.spotify.com/artist/5iWp4nvZ8u0DxQjVIidCuC) | [poem in the wind](https://open.spotify.com/album/3aCRKfh7AWFsjHKg3FqjaQ) | 3:57 | 2024-01-08 | 2024-04-03 |
 | [POWER OF LOVE](https://open.spotify.com/track/37aWSOZ4Oihn2bfMiD5neP) | [ALICE](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) | [POWER OF LOVE](https://open.spotify.com/album/2wKTTgsFgEdOKiyFEOlbNs) | 3:41 | 2022-05-04 | 2022-05-17 |
 | [Prayer](https://open.spotify.com/track/2u9QZoVx2664QDOeefNG9U) | [GEMSTONE](https://open.spotify.com/artist/4dx29FxKF5aK2lUTY1bU5V) | [Prayer](https://open.spotify.com/album/4JAoW9GUMR1tpVix8kwsvg) | 4:48 | 2024-06-17 | 2024-07-12 |
-| [Prayer](https://open.spotify.com/track/6sgQEjL4Ii2ycEFoTWI5NQ) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Called Love](https://open.spotify.com/album/2pfsSs7NUPbeQm0DTAJezD) | 3:46 | 2025-10-30 |  |
+| [Prayer](https://open.spotify.com/track/6sgQEjL4Ii2ycEFoTWI5NQ) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Called Love](https://open.spotify.com/album/2pfsSs7NUPbeQm0DTAJezD) | 3:46 | 2025-10-30 | 2026-03-04 |
 | [Prayer](https://open.spotify.com/track/4H2LzU0FcdA3MrIkk4RSRD) | [Lee Yejoon](https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet) | [Moon River OST Part.2](https://open.spotify.com/album/2vogYzQBCeCNHxECx5e9l7) | 4:12 | 2025-11-10 |  |
 | [Presentiment](https://open.spotify.com/track/73vxAVH2iJfEofp8gKfh55) | [Son June Hyuk](https://open.spotify.com/artist/1FK7wpPPGDbPiPiM5lx5Re) | [Presentiment](https://open.spotify.com/album/39szLv79bxbtePUKOPAqZD) | 3:48 | 2023-07-17 | 2023-10-17 |
 | [Press](https://open.spotify.com/track/0M6VybCyWscrHKcf8ZIzgU) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Press \(re;code Episode Ⅸ\)](https://open.spotify.com/album/4yOOZtIGZaX2uEBXUjl5s9) | 3:57 | 2022-01-26 | 2022-02-11 |
@@ -1490,6 +1490,7 @@
 | [When I Met You](https://open.spotify.com/track/6ROLp0Ha6q2qGThlvHtAj8) | [Lee Young Hyun](https://open.spotify.com/artist/4GzuNU3GlvlfNB4xweeTVR) | [The Heavenly Idol \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/6h1tbJsKC3A5HSP1jDLZOm) | 3:58 | 2023-03-27 | 2023-08-25 |
 | [When I see you](https://open.spotify.com/track/3reYD1dbHpy1G7BpKyBzTK) | [Herz Analog](https://open.spotify.com/artist/35qf2lYforklQasGTtc3Uw) | [When I see you](https://open.spotify.com/album/64PaZnR3MjSalwK0Y6CDg2) | 4:56 | 2023-01-10 | 2023-02-15 |
 | [When I tell you goodbye](https://open.spotify.com/track/73zUXssnT7JWY9dUA2uKiz) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [When I tell you goodbye](https://open.spotify.com/album/41n8vk0f6cMDIyqZrfJY21) | 3:42 | 2022-03-31 | 2022-04-18 |
+| [When I think about you](https://open.spotify.com/track/09jyHsIH2M6rt3OFyM3hW5) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [OFF THE MAP](https://open.spotify.com/album/5UddYZEfHNUCra18jeZtUU) | 4:34 | 2026-03-03 |  |
 | [When I walk \(feat\. Park Raejun\)](https://open.spotify.com/track/0eI9KWNQRPy1R1tPa17tJx) | [Peppermint](https://open.spotify.com/artist/1cj9Ls0VaVBl17PJNe4RLZ), [Park Raejun](https://open.spotify.com/artist/5w7EWyqhONHPfYAhWK6cOz) | [When I walk](https://open.spotify.com/album/0qjHGRWoEOulQ0y2ZelFTF) | 3:51 | 2023-01-20 | 2023-03-28 |
 | [When it rains](https://open.spotify.com/track/6JCGjeemBjPSOfRAgg9AWh) | [Juho](https://open.spotify.com/artist/4iVd8OOKGx0eT2Uo2nEpfH) | [When it rains](https://open.spotify.com/album/71pp5ZM8UuxP1ZTABdrOoY) | 4:15 | 2024-06-17 | 2024-08-11 |
 | [When it snows\(Feat.Heize\)](https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [When it snows\(Feat.Heize\)](https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK) | 3:52 | 2022-01-26 | 2022-07-02 |
@@ -1693,6 +1694,7 @@
 | [촌스러운 남자여서](https://open.spotify.com/track/6oW08YjI36VAgIFGW2ZSEz) | [김성결](https://open.spotify.com/artist/4kxIkzEEH40SMvYZXugNOU) | [RAINBOW STATION Episode.7](https://open.spotify.com/album/0VmvwjGurfHKYeMoGFWFQT) | 4:08 | 2023-02-14 | 2023-03-28 |
 | [취한다](https://open.spotify.com/track/16D2V14oOC6ATvbrWFF8Xa) | [조승훈](https://open.spotify.com/artist/1p4iRHTx2RkHCfHUcM9Kvp) | [취한다](https://open.spotify.com/album/3ZQoZZGJJp3IpQJQpIFJea) | 3:47 | 2024-09-13 | 2024-12-03 |
 | [폭우 Downpour](https://open.spotify.com/track/6id7v3U3p9TYA7KwCZyvAZ) | [JEONAIN](https://open.spotify.com/artist/1dvhwpnbP8XvRpgu9amuNm) | [폭우 Downpour](https://open.spotify.com/album/4SIYlL5PAg5Q497mt5DaEG) | 2:56 | 2023-02-27 | 2023-06-23 |
+| [한마디](https://open.spotify.com/track/6j5fAwwQ0uKCYeIY42vDgU) | [Ahn Yeseul](https://open.spotify.com/artist/4gcwTPPRhA3OPYI95ehTtl) | [한마디](https://open.spotify.com/album/6KFf9BmY8utP22He3lFMPZ) | 3:30 | 2026-03-03 |  |
 | [햇살같은 사랑입니다](https://open.spotify.com/track/5ZYBeXAnNAQBuEZcJsb00Q) | [이동윤](https://open.spotify.com/artist/2hxQRFmEpUBMDS4mYCkcgM) | [베이비 드래곤 \(Original Webtoon Soundtrack\) Pt\. 7](https://open.spotify.com/album/5mOdHlkIdGAgMvpJCKDLwt) | 3:57 | 2023-11-02 | 2024-02-02 |
 | [헤어졌죠](https://open.spotify.com/track/0z9aPBU8dFJrTU2ZDvHCrb) | [이준호](https://open.spotify.com/artist/5yMCgMShLOg0266cs8XGO6) | [헤어졌죠](https://open.spotify.com/album/5ymAmgbYSVYQXXo6Hm8KDs) | 4:26 | 2023-02-14 | 2023-04-27 |
 | [홀로 핀 아이](https://open.spotify.com/track/7HKQdNF6zTVj0QBLheWD7O) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Seven,](https://open.spotify.com/album/50ypPSIjofQu7iEkA4ILTr) | 4:09 | 2022-10-06 | 2023-01-11 |

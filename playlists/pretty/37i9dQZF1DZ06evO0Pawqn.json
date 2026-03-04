@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tiranos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 10311,
+  "num_followers": 10308,
   "original_name": "This Is Los Tiranos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaOBgAAAAABQKhto5jnu8r8tVuuCY9ZY",
+  "snapshot_id": "aaTTAAAAAADqg5v59NBXRWVTiT/cZQGY",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos De Oro",
-        "url": "https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "Renunciacion",
-      "url": "https://open.spotify.com/track/2iZSq7M0KmaCLJsPDvK8l3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Asomate a Mi Alma",
         "url": "https://open.spotify.com/album/4YBewtZ8JtwPqZT1h7IFph"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 168594,
       "name": "Anillo Grabado",
       "url": "https://open.spotify.com/track/22AeO4I8LrDlgWVx970V8y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Exitos De Oro",
+        "url": "https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "Renunciacion",
+      "url": "https://open.spotify.com/track/2iZSq7M0KmaCLJsPDvK8l3"
     },
     {
       "added_at": null,

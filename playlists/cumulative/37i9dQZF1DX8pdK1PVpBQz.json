@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: Swapmeet",
+  "description": "The best new music by independent artists and labels. Cover: Scratching",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -2520,7 +2520,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 193901,
       "name": "All I Really Want",
       "url": "https://open.spotify.com/track/3lLh5lWerYHviy8hSVvtBw"
@@ -7796,7 +7796,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 199013,
       "name": "Black & Blue",
       "url": "https://open.spotify.com/track/69L556M1aoKnPLoI3LcmaD"
@@ -8576,6 +8576,24 @@
       "duration_ms": 249088,
       "name": "Blue",
       "url": "https://open.spotify.com/track/53OYJRSlGUpTU0TJGxx8mA"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/5SQQsNetOHCcdQDVNJmPd3"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Club",
+          "url": "https://open.spotify.com/artist/7eMDwUnqRnKMlxGaDrH6H5"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146214,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/73Jgmr6Vtjmc8o2OZ4wZIj"
     },
     {
       "album": {
@@ -17454,7 +17472,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 190589,
       "name": "Deep (love)",
       "url": "https://open.spotify.com/track/511SfFqSwZu4EzASbYSk39"
@@ -24411,6 +24429,24 @@
     },
     {
       "album": {
+        "name": "Free Will",
+        "url": "https://open.spotify.com/album/0Kcg9yfX92odxyVS0hgYO8"
+      },
+      "artists": [
+        {
+          "name": "Jonny Chopps",
+          "url": "https://open.spotify.com/artist/0fd9HlnFdsNSBrIMHluGrS"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156115,
+      "name": "Feel Like Uzi",
+      "url": "https://open.spotify.com/track/2vzJT80pIxibhmIKzKM2s4"
+    },
+    {
+      "album": {
         "name": "FEEL LUCKY",
         "url": "https://open.spotify.com/album/64Sr8uSl3E2L5ZRkGgkf3R"
       },
@@ -27776,7 +27812,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 251688,
       "name": "Get It Together",
       "url": "https://open.spotify.com/track/0QjoRYTJCq2sWsJy3DYch1"
@@ -28956,6 +28992,24 @@
       "duration_ms": 178090,
       "name": "Going On & On",
       "url": "https://open.spotify.com/track/0PBErdkB8FrBVXpmjgFHSm"
+    },
+    {
+      "album": {
+        "name": "Going Out",
+        "url": "https://open.spotify.com/album/0ot9OGrI766Osv8jDFNprl"
+      },
+      "artists": [
+        {
+          "name": "Carla dal Forno",
+          "url": "https://open.spotify.com/artist/6FVxEgfQsGrJ0BogIOYCd6"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284146,
+      "name": "Going Out",
+      "url": "https://open.spotify.com/track/1N4z5lvwP0UPbOAAe6kuWk"
     },
     {
       "album": {
@@ -31702,7 +31756,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 144000,
       "name": "HEAVY RINGS",
       "url": "https://open.spotify.com/track/2s0WvQNOSDozptCENvtJNe"
@@ -35724,6 +35778,24 @@
       "duration_ms": 499532,
       "name": "I'LL BE THERE FOR YOU",
       "url": "https://open.spotify.com/track/4Bzs1YpUpxoOobNMwd0PmD"
+    },
+    {
+      "album": {
+        "name": "Lady Love",
+        "url": "https://open.spotify.com/album/5KtS6O5ZINVqrxbVAUHSAx"
+      },
+      "artists": [
+        {
+          "name": "Olivia C. Dacal",
+          "url": "https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193236,
+      "name": "I'll come back to you",
+      "url": "https://open.spotify.com/track/0OazqCWoKk9we4AIrgGlW0"
     },
     {
       "album": {
@@ -50316,7 +50388,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 119099,
       "name": "Nights Go On",
       "url": "https://open.spotify.com/track/7ecGZpqTaaiZvtAkpU2q06"
@@ -57343,6 +57415,24 @@
     },
     {
       "album": {
+        "name": "Prefab Moon",
+        "url": "https://open.spotify.com/album/1JNY2m9eU9O5xobCeRGttj"
+      },
+      "artists": [
+        {
+          "name": "Field Commander Ali",
+          "url": "https://open.spotify.com/artist/4TUeSXaTyrKCPiQ2X9mekU"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406108,
+      "name": "Prefab Moon",
+      "url": "https://open.spotify.com/track/2ZUZV6pgiRokNtkuxCH7w6"
+    },
+    {
+      "album": {
         "name": "Premonition",
         "url": "https://open.spotify.com/album/2DYNGD8itIK8y9WNuY0HLm"
       },
@@ -57860,7 +57950,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 215276,
       "name": "Promise of Everything",
       "url": "https://open.spotify.com/track/75tB9b8cVjKfuFaWAg5WrN"
@@ -60740,7 +60830,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 209280,
       "name": "rosemary",
       "url": "https://open.spotify.com/track/4AmTtFkNqOcfjuV3PTUAkj"
@@ -61938,6 +62028,24 @@
       "duration_ms": 234704,
       "name": "Sandra",
       "url": "https://open.spotify.com/track/5ICH7ngVufTeW8sBCCl2GN"
+    },
+    {
+      "album": {
+        "name": "Sanity",
+        "url": "https://open.spotify.com/album/5I17zM2Ovzcpew2NJOkzJM"
+      },
+      "artists": [
+        {
+          "name": "Scratching",
+          "url": "https://open.spotify.com/artist/2aiw7FN8gIGcTQcoU6cEFn"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323198,
+      "name": "Sanity",
+      "url": "https://open.spotify.com/track/0yGZWIBojuCCebat8AA0HW"
     },
     {
       "album": {
@@ -63508,7 +63616,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 236898,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/4QMNfomTyuHSNStuWlxsIP"
@@ -70752,7 +70860,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 163738,
       "name": "talk soon",
       "url": "https://open.spotify.com/track/2BDLAqF83gojhV8PXJoNoN"
@@ -74604,7 +74712,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 282000,
       "name": "Tongue Tied",
       "url": "https://open.spotify.com/track/08Oz4eXT69ppLrNJoKQl3t"
@@ -80033,6 +80141,28 @@
     },
     {
       "album": {
+        "name": "What Would I Say?",
+        "url": "https://open.spotify.com/album/3s7wRZHxNiJSv4IndzfKJ6"
+      },
+      "artists": [
+        {
+          "name": "Franjapan",
+          "url": "https://open.spotify.com/artist/29ix5Jf7vHFGE2O83rVOph"
+        },
+        {
+          "name": "Lucinda Grace",
+          "url": "https://open.spotify.com/artist/0DtDYMHDqpbrGnLqOeLtZd"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219589,
+      "name": "What Would I Say?",
+      "url": "https://open.spotify.com/track/7qkpgAsNmZf0FXSuuoEqAQ"
+    },
+    {
+      "album": {
         "name": "What You Do When You're Alone",
         "url": "https://open.spotify.com/album/5N7AtTdiKPcZKDEeGN5jOC"
       },
@@ -81288,7 +81418,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 180984,
       "name": "without me",
       "url": "https://open.spotify.com/track/6btVsuEP20QF9Kj7fuVWEA"

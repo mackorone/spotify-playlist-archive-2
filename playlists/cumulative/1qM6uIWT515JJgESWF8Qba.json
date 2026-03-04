@@ -2325,6 +2325,24 @@
     },
     {
       "album": {
+        "name": "Royal Kush (2026 Remix)",
+        "url": "https://open.spotify.com/album/4BoeN9Czn21LYDkJcreWri"
+      },
+      "artists": [
+        {
+          "name": "Space of a Day",
+          "url": "https://open.spotify.com/artist/5nNOI6NL16ypK6js5aiheB"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216543,
+      "name": "Royal Kush - 2026 Remix",
+      "url": "https://open.spotify.com/track/3quWf8EHip6EbIqISTGVH2"
+    },
+    {
+      "album": {
         "name": "Neanderthal",
         "url": "https://open.spotify.com/album/39y2S1RQh7MTKi753MYlUN"
       },

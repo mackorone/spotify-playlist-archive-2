@@ -1,6 +1,6 @@
 {
   "description": "todos pro alto, cada um com o seu. Foto: Yuri Redicopa",
-  "num_followers": 134758,
+  "num_followers": 134769,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -875,6 +875,26 @@
     {
       "added_at": "2026-03-02 15:41:27",
       "album": {
+        "name": "NU",
+        "url": "https://open.spotify.com/album/7eUepdWZLeKfvudVFmLmDY"
+      },
+      "artists": [
+        {
+          "name": "Raff\u00e9",
+          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
+        },
+        {
+          "name": "Dennix",
+          "url": "https://open.spotify.com/artist/2956ruMVOp7gOncwSU9cC4"
+        }
+      ],
+      "duration_ms": 131764,
+      "name": "NU",
+      "url": "https://open.spotify.com/track/6IiZ9VESqTIkOIND0WMk0h"
+    },
+    {
+      "added_at": "2026-03-02 15:41:27",
+      "album": {
         "name": "From Rio",
         "url": "https://open.spotify.com/album/4MD3dhPh3euRMO8nPFuFLB"
       },
@@ -899,26 +919,6 @@
       "duration_ms": 151384,
       "name": "From Rio",
       "url": "https://open.spotify.com/track/3vYBQiqPu82oD7X0wZjYQV"
-    },
-    {
-      "added_at": "2026-03-02 15:41:27",
-      "album": {
-        "name": "NU",
-        "url": "https://open.spotify.com/album/7eUepdWZLeKfvudVFmLmDY"
-      },
-      "artists": [
-        {
-          "name": "Raff\u00e9",
-          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
-        },
-        {
-          "name": "Dennix",
-          "url": "https://open.spotify.com/artist/2956ruMVOp7gOncwSU9cC4"
-        }
-      ],
-      "duration_ms": 131764,
-      "name": "NU",
-      "url": "https://open.spotify.com/track/6IiZ9VESqTIkOIND0WMk0h"
     },
     {
       "added_at": "2026-03-02 15:41:27",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2026-03-02 15:41:27",
       "album": {
+        "name": "NOITE DE ENTRETENIMENTO",
+        "url": "https://open.spotify.com/album/3wxZmiRdtoNOBwt30ouH6u"
+      },
+      "artists": [
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "wBoy",
+          "url": "https://open.spotify.com/artist/6IGiSwB4WOac9EkGQMTNRI"
+        }
+      ],
+      "duration_ms": 93105,
+      "name": "NOITE DE ENTRETENIMENTO",
+      "url": "https://open.spotify.com/track/17xUUwXGJAF8FLi25thYcP"
+    },
+    {
+      "added_at": "2026-03-02 15:41:27",
+      "album": {
         "name": "B\u00caN\u00c7\u00c3OS OU MALDI\u00c7\u00d5ES",
         "url": "https://open.spotify.com/album/31BmAGV92vMcjD8hwvPBUo"
       },
@@ -1155,26 +1175,6 @@
       "duration_ms": 141333,
       "name": "PRE SS\u00c3O",
       "url": "https://open.spotify.com/track/0Of8oYzJxw1oVNnNReoWJb"
-    },
-    {
-      "added_at": "2026-03-02 15:41:27",
-      "album": {
-        "name": "NOITE DE ENTRETENIMENTO",
-        "url": "https://open.spotify.com/album/3wxZmiRdtoNOBwt30ouH6u"
-      },
-      "artists": [
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "wBoy",
-          "url": "https://open.spotify.com/artist/6IGiSwB4WOac9EkGQMTNRI"
-        }
-      ],
-      "duration_ms": 93105,
-      "name": "NOITE DE ENTRETENIMENTO",
-      "url": "https://open.spotify.com/track/17xUUwXGJAF8FLi25thYcP"
     },
     {
       "added_at": "2026-03-02 15:41:27",

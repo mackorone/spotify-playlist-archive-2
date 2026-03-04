@@ -1365,6 +1365,24 @@
     },
     {
       "album": {
+        "name": "GO",
+        "url": "https://open.spotify.com/album/5ChCtLGTl3t8XjHWOyiJDY"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201258,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/3W6hUFHRs7JoWSS7jBE27a"
+    },
+    {
+      "album": {
         "name": "Handlebars",
         "url": "https://open.spotify.com/album/3gcVaAZbYasW3tPtFYLMo9"
       },

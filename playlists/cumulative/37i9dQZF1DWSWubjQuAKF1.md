@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Sw@da, Niczos
 
-749 songs - 1 day 12 hr 37 min
+750 songs - 1 day 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Dodge](https://open.spotify.com/track/0vNVin6XAa7EU6SGABR1gc) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Shhugar](https://open.spotify.com/album/52ktymYrZxeaE07TNU39yk) | 3:33 | 2026-01-16 |  |
 | [Dom](https://open.spotify.com/track/7fSOxNZk4L5pY6dFri7BRA) | [PHERO](https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM) | [Dom](https://open.spotify.com/album/1VwPmTAsUEOtfJ8hUhNdKF) | 3:04 | 2024-11-07 | 2025-01-24 |
 | [dookoła mnie](https://open.spotify.com/track/34QjFSfFR6oi9nUKb0jLWA) | [emi](https://open.spotify.com/artist/1cIGr563sge3dInoMsn0Cu) | [dookoła mnie](https://open.spotify.com/album/7AF2nxYKHzJM1C7PpI94og) | 2:04 | 2025-11-11 | 2026-01-31 |
+| [Dotknij](https://open.spotify.com/track/5a9izOBVjC242rMhmUxrsx) | [Daria Marx](https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u) | [Dotknij](https://open.spotify.com/album/5zqGQnNNJiDGcxCQIE3Kmh) | 2:34 | 2026-02-27 |  |
 | [Dotknięta przez słońce](https://open.spotify.com/track/1UXLbKlNgAHbPvjGHDY639) | [Kachus](https://open.spotify.com/artist/3Ya5NT5vLex3mCIt2DTmkJ), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [Dotknięta przez słońce](https://open.spotify.com/album/6NhKBbD2p8ZxiYzYbcKwFE) | 4:41 | 2025-08-26 | 2026-02-20 |
 | [dotknąć chcę twego serca](https://open.spotify.com/track/5OASk17FMgi4vwemS7okKO) | [.Bonaventura](https://open.spotify.com/artist/35Q5TQSaULwtlTkw44cokW) | [dotknąć chcę twego serca](https://open.spotify.com/album/4giN6tLosIqLENroXTuNT3) | 2:33 | 2025-07-03 | 2025-07-11 |
 | [Dotyk](https://open.spotify.com/track/0boHEoQuU24eU7n0nGLf88) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF), [Hania](https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa) | [Dotyk](https://open.spotify.com/album/2CatqcH2Ypdow0EmCue0Ua) | 2:15 | 2026-01-30 |  |
@@ -577,7 +578,7 @@
 | [some days](https://open.spotify.com/track/5JIkh281D7WEwWZNmIC5aW) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [some days](https://open.spotify.com/album/1UbgSoMftakwqLl0jJC5K0) | 3:17 | 2025-09-16 | 2025-11-05 |
 | [someone new](https://open.spotify.com/track/6suGx0q6SlzZSp8dc64yiS) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [someone new](https://open.spotify.com/album/2tMJTMdoSMJJwOd56sjyRV) | 2:34 | 2026-01-16 | 2026-01-23 |
 | [SOS](https://open.spotify.com/track/3jGIqKgMsSAx7KAdDqWvjF) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [SOS](https://open.spotify.com/album/5IynLYV3MapaGkcVNAezlt) | 2:51 | 2025-05-15 | 2025-09-17 |
-| [Spadające gwiazdy](https://open.spotify.com/track/4ggf5e1R9ksMB2m58ouAQa) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [Michał Smajdor](https://open.spotify.com/artist/3sdRA1BQYDShj19NPYUJ5k), [wojtman.fm](https://open.spotify.com/artist/6dlkUCXpazKynwOHpixkgo) | [NA KONIEC LATA](https://open.spotify.com/album/3hxzY5TxqTx83i2KHQrVOZ) | 3:00 | 2025-10-21 |  |
+| [Spadające gwiazdy](https://open.spotify.com/track/4ggf5e1R9ksMB2m58ouAQa) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [Michał Smajdor](https://open.spotify.com/artist/3sdRA1BQYDShj19NPYUJ5k), [wojtman.fm](https://open.spotify.com/artist/6dlkUCXpazKynwOHpixkgo) | [NA KONIEC LATA](https://open.spotify.com/album/3hxzY5TxqTx83i2KHQrVOZ) | 3:00 | 2025-10-21 | 2026-03-04 |
 | [Spark to Die](https://open.spotify.com/track/3yXOWLxU2vXdAFgKQ5wYSB) | [Juno Willo](https://open.spotify.com/artist/6nPeloQYD2WuhzUJawHZke) | [Spark to Die](https://open.spotify.com/album/29j9hbLfr1F4FpHdcxSKQc) | 3:32 | 2025-02-06 | 2025-02-08 |
 | [Spokój](https://open.spotify.com/track/6BTtrMQBtosUyr8b3IA4Sq) | [Treehouse](https://open.spotify.com/artist/0f3IZDduhfx6wAGRgO6JBi) | [Spokój](https://open.spotify.com/album/1D870fGc91HzECZ8Qkimnt) | 3:19 | 2026-01-22 | 2026-02-21 |
 | [spokój w ciele](https://open.spotify.com/track/1g1KaSYXkfQ8hhZYDsLTK0) | [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D), [ciiicho](https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z) | [spokój w ciele](https://open.spotify.com/album/2kwYX1EuiZXzFEImvpX2H3) | 3:15 | 2024-09-27 | 2025-01-24 |

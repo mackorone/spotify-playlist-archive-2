@@ -1,6 +1,6 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 363413,
+  "num_followers": 363451,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
+        "name": "Synchronize (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0OKRhsvtbTpL0pXOSyyd9L"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 163120,
+      "name": "Synchronize - Acoustic Version",
+      "url": "https://open.spotify.com/track/3PIs1vosCm2jxHX3E7Q1M0"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
         "name": "YOU DON\u2019T KNOW WHAT LOVE MEANS (feat. Taylor Acorn) [Piano Version]",
         "url": "https://open.spotify.com/album/62wf2rnKI9Tdet34h5jduw"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 234876,
       "name": "YOU DON\u2019T KNOW WHAT LOVE MEANS (feat. Taylor Acorn) - Piano Version",
       "url": "https://open.spotify.com/track/4oFkgWU2B7rPqQsU66E5MG"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
-        "name": "Synchronize (Acoustic Version)",
-        "url": "https://open.spotify.com/album/0OKRhsvtbTpL0pXOSyyd9L"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 163120,
-      "name": "Synchronize - Acoustic Version",
-      "url": "https://open.spotify.com/track/3PIs1vosCm2jxHX3E7Q1M0"
     },
     {
       "added_at": "2024-07-05 19:40:49",

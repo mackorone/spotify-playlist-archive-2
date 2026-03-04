@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-831 songs - 1 day 17 hr 19 min
+832 songs - 1 day 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Cyberblade](https://open.spotify.com/track/1bwMhAZ9dzMcUgHot9IPsw) | [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI), [Extra Terra](https://open.spotify.com/artist/4wjUOQuVVl9qzSdSX1E1yU) | [Cyberblade](https://open.spotify.com/album/0wSb75pCK2ACn2QcdOsjrQ) | 3:11 | 2024-11-01 |  |
 | [Cybernetic](https://open.spotify.com/track/5ynKgzOgxcJ8vAM1htgoqq) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Cybernetic](https://open.spotify.com/album/0lyxsdwiGOmGy9O9cYqsTE) | 4:04 | 2024-04-05 | 2024-09-29 |
 | [Cyberpunk](https://open.spotify.com/track/0x5iuaeBzKEVT49lJKpRAR) | [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [Cyberpunk](https://open.spotify.com/album/5gh5pmkrqFscbkp3XumdHv) | 3:35 | 2023-08-08 | 2024-01-04 |
+| [Damaged](https://open.spotify.com/track/7uQ10UJqGiy2cTF8EbRhBn) | [Kronus](https://open.spotify.com/artist/6e9dyfp9Y8eiosc52OlwWj) | [Damaged](https://open.spotify.com/album/4Vefk566eZiUWTERSuQIfe) | 3:06 | 2026-03-03 |  |
 | [Dancefloor Dreamer](https://open.spotify.com/track/0k1huhnOtaJftacG5U8N7M) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Dancefloor Dreamer](https://open.spotify.com/album/0ua5vqPejkdNDL5StE0hBH) | 3:04 | 2025-03-14 |  |
 | [DANGEROUS](https://open.spotify.com/track/2WUua0PT86pEpMwo4ePH92) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [DANGEROUS](https://open.spotify.com/album/3dwNpIaKdJM1MFmvCWKcjs) | 2:45 | 2023-05-30 | 2023-08-10 |
 | [Dangerous](https://open.spotify.com/track/2ek0oPdjselpQnDaEOje10) | [VOLT VISION](https://open.spotify.com/artist/0D1RIHFWh132dnfTGIHF6K), [Beneath My Shade](https://open.spotify.com/artist/7aADBYuRxT4V57iwqzUiPP) | [Dangerous](https://open.spotify.com/album/66DVpNiLrwNe5nLHGlHan0) | 2:01 | 2023-06-06 | 2023-08-10 |

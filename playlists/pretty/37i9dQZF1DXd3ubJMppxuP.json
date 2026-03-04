@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 86383,
+  "num_followers": 86391,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,26 @@
     {
       "added_at": "2026-03-02 12:00:25",
       "album": {
+        "name": "Weet Je Wel Wie Wij Zijn",
+        "url": "https://open.spotify.com/album/39JuHfmF5pj8Ieo2qcZYJ0"
+      },
+      "artists": [
+        {
+          "name": "B\u00f6ssels",
+          "url": "https://open.spotify.com/artist/5NpFx3WsQcRwlVJ8eq6XwC"
+        },
+        {
+          "name": "Roosterz",
+          "url": "https://open.spotify.com/artist/5oc7w0IUnErPaza4Yu2igm"
+        }
+      ],
+      "duration_ms": 170926,
+      "name": "Weet Je Wel Wie Wij Zijn",
+      "url": "https://open.spotify.com/track/2ATpRdUd9evdQfH5a7PvYn"
+    },
+    {
+      "added_at": "2026-03-02 12:00:25",
+      "album": {
         "name": "Nog Un Likkie! (Matt Ardeo & PartyTigers Remix)",
         "url": "https://open.spotify.com/album/1L9rITrHvWleou3YsiDAQx"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 171200,
       "name": "Nog Un Likkie! - Matt Ardeo & PartyTigers Remix",
       "url": "https://open.spotify.com/track/6MkAsFZT1l2MmUZnDtNix7"
-    },
-    {
-      "added_at": "2026-03-02 12:00:25",
-      "album": {
-        "name": "Weet Je Wel Wie Wij Zijn",
-        "url": "https://open.spotify.com/album/39JuHfmF5pj8Ieo2qcZYJ0"
-      },
-      "artists": [
-        {
-          "name": "B\u00f6ssels",
-          "url": "https://open.spotify.com/artist/5NpFx3WsQcRwlVJ8eq6XwC"
-        },
-        {
-          "name": "Roosterz",
-          "url": "https://open.spotify.com/artist/5oc7w0IUnErPaza4Yu2igm"
-        }
-      ],
-      "duration_ms": 170926,
-      "name": "Weet Je Wel Wie Wij Zijn",
-      "url": "https://open.spotify.com/track/2ATpRdUd9evdQfH5a7PvYn"
     },
     {
       "added_at": "2026-03-02 12:00:25",
@@ -755,26 +755,6 @@
     {
       "added_at": "2026-03-02 12:00:25",
       "album": {
-        "name": "Naar de Klote",
-        "url": "https://open.spotify.com/album/2g7jh6kFGHmykld5fia8Oy"
-      },
-      "artists": [
-        {
-          "name": "Barry Fest",
-          "url": "https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY"
-        },
-        {
-          "name": "Hak op de Tak",
-          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
-        }
-      ],
-      "duration_ms": 209600,
-      "name": "Naar de Klote",
-      "url": "https://open.spotify.com/track/4CRLvmPuOAPxhSqbsJLUfH"
-    },
-    {
-      "added_at": "2026-03-02 12:00:25",
-      "album": {
         "name": "Chaos",
         "url": "https://open.spotify.com/album/7HLaSZwK4sheOVJNg12hC6"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 154064,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/2YeN5MsDe24lWB40Vx4wNN"
+    },
+    {
+      "added_at": "2026-03-02 12:00:25",
+      "album": {
+        "name": "Naar de Klote",
+        "url": "https://open.spotify.com/album/2g7jh6kFGHmykld5fia8Oy"
+      },
+      "artists": [
+        {
+          "name": "Barry Fest",
+          "url": "https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY"
+        },
+        {
+          "name": "Hak op de Tak",
+          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "Naar de Klote",
+      "url": "https://open.spotify.com/track/4CRLvmPuOAPxhSqbsJLUfH"
     },
     {
       "added_at": "2026-03-02 12:00:25",
@@ -891,26 +891,6 @@
     {
       "added_at": "2026-03-02 12:00:25",
       "album": {
-        "name": "De Hut Verbouwen (Dr. Rude Remix)",
-        "url": "https://open.spotify.com/album/2vJ9bELr5NGhnPqbH5qUcp"
-      },
-      "artists": [
-        {
-          "name": "Vieze Jack",
-          "url": "https://open.spotify.com/artist/14VHCbKz3ITlGgh8Ozni2L"
-        },
-        {
-          "name": "Dr Rude",
-          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
-        }
-      ],
-      "duration_ms": 180676,
-      "name": "De Hut Verbouwen - Dr. Rude Remix",
-      "url": "https://open.spotify.com/track/2dqRZXkpiet7V3ebJBY645"
-    },
-    {
-      "added_at": "2026-03-02 12:00:25",
-      "album": {
         "name": "Gas Erop",
         "url": "https://open.spotify.com/album/42wrHk8tCw82Gn7OIsq4KB"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 179612,
       "name": "Gas Erop",
       "url": "https://open.spotify.com/track/3x2jNMSqQSjdEaUgj1oUWR"
+    },
+    {
+      "added_at": "2026-03-02 12:00:25",
+      "album": {
+        "name": "De Hut Verbouwen (Dr. Rude Remix)",
+        "url": "https://open.spotify.com/album/2vJ9bELr5NGhnPqbH5qUcp"
+      },
+      "artists": [
+        {
+          "name": "Vieze Jack",
+          "url": "https://open.spotify.com/artist/14VHCbKz3ITlGgh8Ozni2L"
+        },
+        {
+          "name": "Dr Rude",
+          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
+        }
+      ],
+      "duration_ms": 180676,
+      "name": "De Hut Verbouwen - Dr. Rude Remix",
+      "url": "https://open.spotify.com/track/2dqRZXkpiet7V3ebJBY645"
     },
     {
       "added_at": "2026-03-02 12:00:25",

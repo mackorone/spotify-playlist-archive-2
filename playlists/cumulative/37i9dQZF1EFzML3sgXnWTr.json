@@ -1511,6 +1511,24 @@
     },
     {
       "album": {
+        "name": "Desert Echoes of Sanremo 2026 (Remix)",
+        "url": "https://open.spotify.com/album/2oCyg93atTjh8KLZfc2H8N"
+      },
+      "artists": [
+        {
+          "name": "Dune Filter",
+          "url": "https://open.spotify.com/artist/6ArEC79lELbr2BGaaE3nQM"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196639,
+      "name": "Per sempre si",
+      "url": "https://open.spotify.com/track/5lzOrsEUpdwykAnwRyoigL"
+    },
+    {
+      "album": {
         "name": "Prima di te",
         "url": "https://open.spotify.com/album/5t9ito4iEA9Qo9tTOMFpdp"
       },

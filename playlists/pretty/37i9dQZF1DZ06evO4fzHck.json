@@ -1,12 +1,12 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 596882,
+  "num_followers": 596915,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaOBgAAAAACRaLHFL7cZtTK2DFDa5NRI",
+  "snapshot_id": "aaTTAAAAAADTurdl09aYEh7/x8uwkmdp",
   "tracks": [
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/1Vmdh3ybBnkJN6uBgD0xlo"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 67800,
-      "name": "Doubt - RS Home Instrumental Demo 8/80",
-      "url": "https://open.spotify.com/track/5mOggHnHC7VEE9Eigrlv40"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Cure",
         "url": "https://open.spotify.com/album/54kHivms9VVDh6nQrWryv7"
       },
@@ -755,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Head on the Door (Deluxed Edition)",
-        "url": "https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk"
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/1Vmdh3ybBnkJN6uBgD0xlo"
       },
       "artists": [
         {
@@ -764,9 +748,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 198506,
-      "name": "Six Different Ways - 2006 Remaster",
-      "url": "https://open.spotify.com/track/24W113iYyDEa2d6lqfgikX"
+      "duration_ms": 67800,
+      "name": "Doubt - RS Home Instrumental Demo 8/80",
+      "url": "https://open.spotify.com/track/5mOggHnHC7VEE9Eigrlv40"
     },
     {
       "added_at": null,
@@ -783,6 +767,22 @@
       "duration_ms": 261959,
       "name": "Doing The Unstuck",
       "url": "https://open.spotify.com/track/5QhM82aoKuEdqbMHcI617o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Head on the Door (Deluxed Edition)",
+        "url": "https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 198506,
+      "name": "Six Different Ways - 2006 Remaster",
+      "url": "https://open.spotify.com/track/24W113iYyDEa2d6lqfgikX"
     },
     {
       "added_at": null,

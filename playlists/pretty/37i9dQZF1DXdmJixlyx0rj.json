@@ -1,12 +1,12 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: Coco K)",
-  "num_followers": 35388,
+  "num_followers": 35407,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANKWfPiLND1c6gc/GK4P+DqOpW6w",
+  "snapshot_id": "AAAAAGWxsM/XYviZUhjdMh/RGcjt7+PF",
   "tracks": [
     {
       "added_at": "2026-02-23 07:59:31",
@@ -643,6 +643,26 @@
     {
       "added_at": "2026-02-23 07:59:31",
       "album": {
+        "name": "NO DRUGS",
+        "url": "https://open.spotify.com/album/3UTPtWpVQ8d2IEBNOLQN0M"
+      },
+      "artists": [
+        {
+          "name": "DPR CREAM",
+          "url": "https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw"
+        },
+        {
+          "name": "DPR ARTIC",
+          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
+        }
+      ],
+      "duration_ms": 146293,
+      "name": "DRIFT",
+      "url": "https://open.spotify.com/track/0e5xZ1b1Ol2sSSvDvihh9U"
+    },
+    {
+      "added_at": "2026-02-23 07:59:31",
+      "album": {
         "name": "\ud76c / \ub178 / \uc560 / \ub77d",
         "url": "https://open.spotify.com/album/2q4GpFI6Ytc0apj7VnUgvf"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 150956,
       "name": "\ud76c (love type shit)",
       "url": "https://open.spotify.com/track/18aWa24FoxzlPiRkBrGxgC"
-    },
-    {
-      "added_at": "2026-02-23 07:59:31",
-      "album": {
-        "name": "NO DRUGS",
-        "url": "https://open.spotify.com/album/3UTPtWpVQ8d2IEBNOLQN0M"
-      },
-      "artists": [
-        {
-          "name": "DPR CREAM",
-          "url": "https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw"
-        },
-        {
-          "name": "DPR ARTIC",
-          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
-        }
-      ],
-      "duration_ms": 146293,
-      "name": "DRIFT",
-      "url": "https://open.spotify.com/track/0e5xZ1b1Ol2sSSvDvihh9U"
     },
     {
       "added_at": "2026-02-23 07:59:31",
@@ -911,26 +911,6 @@
     {
       "added_at": "2026-02-23 07:59:31",
       "album": {
-        "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
-        "url": "https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 227677,
-      "name": "Supernova (Grimes Remix)",
-      "url": "https://open.spotify.com/track/4cebwm6DwAPkyOKbNT6RmL"
-    },
-    {
-      "added_at": "2026-02-23 07:59:31",
-      "album": {
         "name": "wo ai ni / break it even",
         "url": "https://open.spotify.com/album/1Had0ltWJoM2L8xBPjLMK6"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 211525,
       "name": "wo ai ni",
       "url": "https://open.spotify.com/track/5FJtLMs3dkq0K28v69lbRb"
+    },
+    {
+      "added_at": "2026-02-23 07:59:31",
+      "album": {
+        "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
+        "url": "https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 227677,
+      "name": "Supernova (Grimes Remix)",
+      "url": "https://open.spotify.com/track/4cebwm6DwAPkyOKbNT6RmL"
     },
     {
       "added_at": "2026-02-23 07:59:31",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2026-02-23 07:59:31",
       "album": {
-        "name": "iScreaM Vol.26 : Spicy Remix",
-        "url": "https://open.spotify.com/album/55N0UTP5992idhnEYOKYd9"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "Nitepunk",
-          "url": "https://open.spotify.com/artist/60p5zyDuyeBzIO9hbA08LI"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Spicy - Nitepunk Remix",
-      "url": "https://open.spotify.com/track/41Kf9FQ2Dxj81cjQpEWDUJ"
-    },
-    {
-      "added_at": "2026-02-23 07:59:31",
-      "album": {
         "name": "TREASURE EP. Map To Answer",
         "url": "https://open.spotify.com/album/72uRjP7I54EvufnugN1z8i"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 198386,
       "name": "WONDERLAND - SEAN OH's Skrt Mix",
       "url": "https://open.spotify.com/track/74R92FEHV8CNMLJapNelbM"
+    },
+    {
+      "added_at": "2026-02-23 07:59:31",
+      "album": {
+        "name": "iScreaM Vol.26 : Spicy Remix",
+        "url": "https://open.spotify.com/album/55N0UTP5992idhnEYOKYd9"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/60p5zyDuyeBzIO9hbA08LI"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Spicy - Nitepunk Remix",
+      "url": "https://open.spotify.com/track/41Kf9FQ2Dxj81cjQpEWDUJ"
     },
     {
       "added_at": "2026-02-23 07:59:31",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2026-02-23 07:59:31",
       "album": {
-        "name": "Rich Man (Remixes)",
-        "url": "https://open.spotify.com/album/6XoOzE5Ie7Z6CjVANGB4Mk"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        }
-      ],
-      "duration_ms": 190370,
-      "name": "Rich Man - Yellow Claw Remix",
-      "url": "https://open.spotify.com/track/3cs4cGO4EgZDATiKgoAqpO"
-    },
-    {
-      "added_at": "2026-02-23 07:59:31",
-      "album": {
         "name": "My Bad (feat. Julie Bergan) [KSHMR Edit]",
         "url": "https://open.spotify.com/album/35NGvCNRwl2NiWfcai5k4G"
       },
@@ -1155,6 +1135,26 @@
     {
       "added_at": "2026-02-23 07:59:31",
       "album": {
+        "name": "Rich Man (Remixes)",
+        "url": "https://open.spotify.com/album/6XoOzE5Ie7Z6CjVANGB4Mk"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        }
+      ],
+      "duration_ms": 190370,
+      "name": "Rich Man - Yellow Claw Remix",
+      "url": "https://open.spotify.com/track/3cs4cGO4EgZDATiKgoAqpO"
+    },
+    {
+      "added_at": "2026-02-23 07:59:31",
+      "album": {
         "name": "eigensinn",
         "url": "https://open.spotify.com/album/5oHPjdcJM6hiYNbFVNAJUg"
       },
@@ -1167,6 +1167,22 @@
       "duration_ms": 261301,
       "name": "homes",
       "url": "https://open.spotify.com/track/0JjEptlop0dcPsCxkcy5As"
+    },
+    {
+      "added_at": "2026-02-23 07:59:31",
+      "album": {
+        "name": "Love Crime",
+        "url": "https://open.spotify.com/album/7MxqlhBt338i4PjAvXGR0h"
+      },
+      "artists": [
+        {
+          "name": "Rockett",
+          "url": "https://open.spotify.com/artist/43A3PsJWoDgpFw5y9dEJV2"
+        }
+      ],
+      "duration_ms": 154712,
+      "name": "Felony",
+      "url": "https://open.spotify.com/track/1om32xXgoiPoqrZnG3UQBz"
     },
     {
       "added_at": "2026-02-23 07:59:31",
@@ -1191,18 +1207,18 @@
     {
       "added_at": "2026-02-23 07:59:31",
       "album": {
-        "name": "Love Crime",
-        "url": "https://open.spotify.com/album/7MxqlhBt338i4PjAvXGR0h"
+        "name": "Lucky Star",
+        "url": "https://open.spotify.com/album/18CDp77BRitLM2EWJG48OR"
       },
       "artists": [
         {
-          "name": "Rockett",
-          "url": "https://open.spotify.com/artist/43A3PsJWoDgpFw5y9dEJV2"
+          "name": "The Deep",
+          "url": "https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp"
         }
       ],
-      "duration_ms": 154712,
-      "name": "Felony",
-      "url": "https://open.spotify.com/track/1om32xXgoiPoqrZnG3UQBz"
+      "duration_ms": 162681,
+      "name": "Lucky Star",
+      "url": "https://open.spotify.com/track/3dmcBgER1RS6vTFbQVVVjt"
     },
     {
       "added_at": "2026-02-23 07:59:31",
@@ -1223,22 +1239,6 @@
       "duration_ms": 188000,
       "name": "Armageddon (2Spade Remix)",
       "url": "https://open.spotify.com/track/7KHVgThSlUCtMzvnze3Tye"
-    },
-    {
-      "added_at": "2026-02-23 07:59:31",
-      "album": {
-        "name": "Lucky Star",
-        "url": "https://open.spotify.com/album/18CDp77BRitLM2EWJG48OR"
-      },
-      "artists": [
-        {
-          "name": "The Deep",
-          "url": "https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp"
-        }
-      ],
-      "duration_ms": 162681,
-      "name": "Lucky Star",
-      "url": "https://open.spotify.com/track/3dmcBgER1RS6vTFbQVVVjt"
     },
     {
       "added_at": "2026-02-23 07:59:31",
@@ -1315,22 +1315,22 @@
     {
       "added_at": "2026-02-23 07:59:31",
       "album": {
-        "name": "My Bad (feat. SHAUN)",
-        "url": "https://open.spotify.com/album/2L22h8Oxq7vbnKTv5SDfUu"
+        "name": "Re: searchlight",
+        "url": "https://open.spotify.com/album/4OgPOKPx8KrrwDRrLImBgQ"
       },
       "artists": [
         {
-          "name": "Advanced",
-          "url": "https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY"
+          "name": "Aiobahn",
+          "url": "https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT"
         },
         {
-          "name": "SHAUN",
-          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+          "name": "yanaginagi",
+          "url": "https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo"
         }
       ],
-      "duration_ms": 209656,
-      "name": "My Bad (feat. SHAUN)",
-      "url": "https://open.spotify.com/track/7dQFzMYhTXTtIYyoiiHdr8"
+      "duration_ms": 310952,
+      "name": "Re: searchlight",
+      "url": "https://open.spotify.com/track/7u7mFTVWBbWcAc3NQzOmgq"
     },
     {
       "added_at": "2026-02-23 07:59:31",
@@ -1375,22 +1375,22 @@
     {
       "added_at": "2026-02-23 07:59:31",
       "album": {
-        "name": "Re: searchlight",
-        "url": "https://open.spotify.com/album/4OgPOKPx8KrrwDRrLImBgQ"
+        "name": "My Bad (feat. SHAUN)",
+        "url": "https://open.spotify.com/album/2L22h8Oxq7vbnKTv5SDfUu"
       },
       "artists": [
         {
-          "name": "Aiobahn",
-          "url": "https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT"
+          "name": "Advanced",
+          "url": "https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY"
         },
         {
-          "name": "yanaginagi",
-          "url": "https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo"
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
         }
       ],
-      "duration_ms": 310952,
-      "name": "Re: searchlight",
-      "url": "https://open.spotify.com/track/7u7mFTVWBbWcAc3NQzOmgq"
+      "duration_ms": 209656,
+      "name": "My Bad (feat. SHAUN)",
+      "url": "https://open.spotify.com/track/7dQFzMYhTXTtIYyoiiHdr8"
     },
     {
       "added_at": "2026-02-23 07:59:31",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2026-02-23 07:59:31",
       "album": {
+        "name": "1-1=0 (NOTHING WITHOUT YOU)",
+        "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
+      },
+      "artists": [
+        {
+          "name": "Wanna One",
+          "url": "https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx"
+        }
+      ],
+      "duration_ms": 255628,
+      "name": "Energetic (Prequel Remix)",
+      "url": "https://open.spotify.com/track/4zDsgkTLNv6j3kQ0asJfrF"
+    },
+    {
+      "added_at": "2026-02-23 07:59:31",
+      "album": {
         "name": "like JENNIE (Peggy Gou Remix)",
         "url": "https://open.spotify.com/album/4AqYxQUuZk29apyPYt9aA8"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 208375,
       "name": "like JENNIE (Peggy Gou Remix)",
       "url": "https://open.spotify.com/track/3Tt5ueVmqidjOOQvdEJ9Fy"
-    },
-    {
-      "added_at": "2026-02-23 07:59:31",
-      "album": {
-        "name": "1-1=0 (NOTHING WITHOUT YOU)",
-        "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
-      },
-      "artists": [
-        {
-          "name": "Wanna One",
-          "url": "https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx"
-        }
-      ],
-      "duration_ms": 255628,
-      "name": "Energetic (Prequel Remix)",
-      "url": "https://open.spotify.com/track/4zDsgkTLNv6j3kQ0asJfrF"
     },
     {
       "added_at": "2026-02-23 07:59:31",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-02-23 07:59:31",
       "album": {
-        "name": "LOTTO - The 3rd Album Repackage",
-        "url": "https://open.spotify.com/album/4e75ohAqqgV3zgLn8qMxki"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 245189,
-      "name": "Monster - LDN Noise Creeper Bass Remix",
-      "url": "https://open.spotify.com/track/1U1wrOyV4SotwDmFxKXqpN"
-    },
-    {
-      "added_at": "2026-02-23 07:59:31",
-      "album": {
         "name": "iScreaM Vol.32 : Impossible Remix",
         "url": "https://open.spotify.com/album/7gkCgpkWn1jOOG4ndcwUjq"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 211818,
       "name": "Impossible - Darius Remix",
       "url": "https://open.spotify.com/track/4NgEf8xlckRMfbi2RlQiaG"
+    },
+    {
+      "added_at": "2026-02-23 07:59:31",
+      "album": {
+        "name": "LOTTO - The 3rd Album Repackage",
+        "url": "https://open.spotify.com/album/4e75ohAqqgV3zgLn8qMxki"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 245189,
+      "name": "Monster - LDN Noise Creeper Bass Remix",
+      "url": "https://open.spotify.com/track/1U1wrOyV4SotwDmFxKXqpN"
     },
     {
       "added_at": "2026-02-23 07:59:31",
@@ -1715,6 +1715,26 @@
     {
       "added_at": "2026-02-23 07:59:31",
       "album": {
+        "name": "iScreaM Vol.14 : Peaches Remixes",
+        "url": "https://open.spotify.com/album/2mrFSsDjOA6veZsbyMgMmI"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        },
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        }
+      ],
+      "duration_ms": 199453,
+      "name": "Peaches - SUMIN Remix",
+      "url": "https://open.spotify.com/track/5VHcNCSmnKAFFyMaTYtzPc"
+    },
+    {
+      "added_at": "2026-02-23 07:59:31",
+      "album": {
         "name": "Rule The World",
         "url": "https://open.spotify.com/album/5uCnzjU8tNml4kqucjJk59"
       },
@@ -1739,26 +1759,6 @@
       "duration_ms": 146500,
       "name": "Rule The World",
       "url": "https://open.spotify.com/track/4jxnUzqf0ZhUtPwOEbOid5"
-    },
-    {
-      "added_at": "2026-02-23 07:59:31",
-      "album": {
-        "name": "iScreaM Vol.14 : Peaches Remixes",
-        "url": "https://open.spotify.com/album/2mrFSsDjOA6veZsbyMgMmI"
-      },
-      "artists": [
-        {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
-        },
-        {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
-        }
-      ],
-      "duration_ms": 199453,
-      "name": "Peaches - SUMIN Remix",
-      "url": "https://open.spotify.com/track/5VHcNCSmnKAFFyMaTYtzPc"
     },
     {
       "added_at": "2026-02-23 07:59:31",

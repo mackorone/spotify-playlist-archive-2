@@ -646,7 +646,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 168827,
       "name": "Attention seeker",
       "url": "https://open.spotify.com/track/0spx4LEu1MPSZoRRcWxdmc"
@@ -1632,6 +1632,24 @@
       "duration_ms": 169546,
       "name": "BURNING UP",
       "url": "https://open.spotify.com/track/6QQy6TLGFosP96SREaVaYD"
+    },
+    {
+      "album": {
+        "name": "[RESCENE X ???]",
+        "url": "https://open.spotify.com/album/0dbuXh0XcMsrgQsVep3jAk"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Busy Boy",
+      "url": "https://open.spotify.com/track/6ufVsXMC1fAePZa5ZRMKdO"
     },
     {
       "album": {
@@ -3530,7 +3548,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 202000,
       "name": "Fly to the youth (feat. YUQI)",
       "url": "https://open.spotify.com/track/4bBAhOKM5yayK3z5y2wL6J"
@@ -3566,7 +3584,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 178175,
       "name": "Fly Up",
       "url": "https://open.spotify.com/track/4rRDmXBKB2X2Jnb8yLzAKZ"
@@ -3902,7 +3920,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 197226,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
@@ -4050,6 +4068,28 @@
       "duration_ms": 212400,
       "name": "GHOST",
       "url": "https://open.spotify.com/track/73ND9EgLxCG4abSmc4z9ww"
+    },
+    {
+      "album": {
+        "name": "ChoCo La Familia",
+        "url": "https://open.spotify.com/album/1hmIzxtNhUckTodNrNc9C8"
+      },
+      "artists": [
+        {
+          "name": "ChoCo1",
+          "url": "https://open.spotify.com/artist/48ZmNBITUcYWmWZqoaIEAi"
+        },
+        {
+          "name": "ChoCo2",
+          "url": "https://open.spotify.com/artist/479LeQR94Is2uPXyljxis8"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "GIMME",
+      "url": "https://open.spotify.com/track/08lCl7trHavgnghm8JwvN7"
     },
     {
       "album": {
@@ -4400,7 +4440,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 192467,
       "name": "HANDS UP",
       "url": "https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0"
@@ -4744,6 +4784,24 @@
       "duration_ms": 191000,
       "name": "HIGH=LOVE",
       "url": "https://open.spotify.com/track/00aGNVAvuz7BbTfXyqIu2E"
+    },
+    {
+      "album": {
+        "name": "Between Cobalt and Navy",
+        "url": "https://open.spotify.com/album/0YSVtDyZSsU0MbYUHP8xLe"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Highs and Goodbyes",
+      "url": "https://open.spotify.com/track/2R8AgS1dQcau9LXnfKBIGa"
     },
     {
       "album": {
@@ -6967,6 +7025,24 @@
     },
     {
       "album": {
+        "name": "Mention Me (From The Movie \"GOAT\")",
+        "url": "https://open.spotify.com/album/3M3mRFHjiwrVBBYR5tGGzd"
+      },
+      "artists": [
+        {
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Mention Me - From The Movie \"GOAT\"",
+      "url": "https://open.spotify.com/track/3f0OEJd7mlPNhmH3fUOrqy"
+    },
+    {
+      "album": {
         "name": "MEOW",
         "url": "https://open.spotify.com/album/5TLTBK7AZVvOkv8FvAn7le"
       },
@@ -7400,7 +7476,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 142079,
       "name": "My Chick (Feat. Lil Cherry)",
       "url": "https://open.spotify.com/track/43zNS0a18EnlLlcX3zc6LY"
@@ -7530,7 +7606,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 224297,
       "name": "Narani Narani (feat. ATARASHII GAKKO!)",
       "url": "https://open.spotify.com/track/1g528rQTLYwfqtVtl2uyOJ"
@@ -8467,6 +8543,28 @@
     },
     {
       "album": {
+        "name": "6SEOUL",
+        "url": "https://open.spotify.com/album/0YV6qvJTTXx7AYD2RSyMfh"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "PLAYER (feat. Crush)",
+      "url": "https://open.spotify.com/track/0aKxRmN8Dv6KAWuYwLbKim"
+    },
+    {
+      "album": {
         "name": "Love Is Over",
         "url": "https://open.spotify.com/album/7pT9cfakGi2TnHHTFr7LCj"
       },
@@ -9265,6 +9363,24 @@
     },
     {
       "album": {
+        "name": "RUDE!",
+        "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "RUDE!",
+      "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
+    },
+    {
+      "album": {
         "name": "Rules",
         "url": "https://open.spotify.com/album/4iSSfrjweTsHTDG75Xw8hz"
       },
@@ -9476,6 +9592,24 @@
       "duration_ms": 121373,
       "name": "Sand Castle",
       "url": "https://open.spotify.com/track/6NwnAbhHTFWJMffR44ociw"
+    },
+    {
+      "album": {
+        "name": "1'ONLY",
+        "url": "https://open.spotify.com/album/6Edlwp9FVbvlxF0JYAUqg9"
+      },
+      "artists": [
+        {
+          "name": "ONE PACT",
+          "url": "https://open.spotify.com/artist/6ypgjfzuOVkVw9FEyh2UD5"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "SANE",
+      "url": "https://open.spotify.com/track/1xvKv2s1glXmM7r7onnU0s"
     },
     {
       "album": {
@@ -10416,7 +10550,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 218293,
       "name": "Stargazers",
       "url": "https://open.spotify.com/track/5ddJtDFlVL9GwdWNdnEDGL"
@@ -10612,6 +10746,24 @@
       "duration_ms": 237532,
       "name": "Still love (feat. SO HYUN)",
       "url": "https://open.spotify.com/track/1DXtneuKeU3pfxhBTHrTr5"
+    },
+    {
+      "album": {
+        "name": "STILL : I",
+        "url": "https://open.spotify.com/album/2SKzRvESH4uMYgg8jhcaXO"
+      },
+      "artists": [
+        {
+          "name": "ASC2NT",
+          "url": "https://open.spotify.com/artist/4w6MZBLb4aIZpffyA52Doq"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Still Rose",
+      "url": "https://open.spotify.com/track/6MgrdZL7zA381FLAQiaITj"
     },
     {
       "album": {

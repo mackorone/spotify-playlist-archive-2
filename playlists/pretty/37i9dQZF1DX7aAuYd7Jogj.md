@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 
 > Música ambiental para un sueño profundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,910,666 likes - 350 songs - 15 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,911,054 likes - 350 songs - 15 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -359,4 +359,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 | 349 | [Moonfall](https://open.spotify.com/track/154KMkoBQoKXMm8VMueBvq) | [Arctilok](https://open.spotify.com/artist/40mS9P51UfvhIamB24wx91) | [Moonfall](https://open.spotify.com/album/4I5C4VKpPud2UmJtASvzhb) | 2:45 |
 | 350 | [Earth Emerald](https://open.spotify.com/track/3lcBjQ6LKDYTZ4AOjk7tu2) | [De Ester](https://open.spotify.com/artist/0dbcAyHyp9aAsEqAAZHjr4) | [Earth Emerald](https://open.spotify.com/album/3FhnkpDjdDzEvUBSDUE7XR) | 2:37 |
 
-Snapshot ID: `AAAAAI4PtytahcweA5Ox3zWOpGZRNDVN`
+Snapshot ID: `AAAAAGCtSKpE335PBEKX+D1yGK+kqZEE`

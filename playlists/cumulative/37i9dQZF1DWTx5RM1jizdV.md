@@ -4,7 +4,7 @@
 
 > Music from "ASSASSINATION CLASSROOM"! /アニメ「暗殺教室」の世界を彩る楽曲をプレイリストで。©松井優征／集英社・アニメ「暗殺教室」製作委員会2025
 
-23 songs - 1 hr 24 min
+24 songs - 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Infinity karat](https://open.spotify.com/track/0EcZVK4nEnQshCO1vN1F2A) | [七海うらら](https://open.spotify.com/artist/2ozm6qPMgXtjAPowvV1621) | [Infinity karat](https://open.spotify.com/album/72lwdVn2vzvqAbLmvgFaBf) | 3:53 | 2025-10-02 |  |
 | [NuruNuru Rap](https://open.spotify.com/track/6M6CXOajkcVjIOPxVWA2dv) | [MC\-KORO](https://open.spotify.com/artist/404BuZoyEUBOMaQCg1ufQZ) | [青春サツバツ論](https://open.spotify.com/album/3arlRorn9ipIUsI1LY7ACQ) | 3:32 | 2025-08-21 |  |
 | [QUESTION](https://open.spotify.com/track/4MorYttxU39XKVoRlCopyz) | [3年E組うた担\(渚&茅野&業&磯貝&前原\)](https://open.spotify.com/artist/3ZZhxEl0lkwP7QwB8Vi1rf) | [QUESTION](https://open.spotify.com/album/6ELyctfHTgAeKxsABX4yyr) | 4:26 | 2025-08-21 |  |
+| [Teacher](https://open.spotify.com/track/2B8YBnczcZAoloFcSlBwFC) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [Teacher](https://open.spotify.com/album/4ubxMkwVR9RZzbqh1c6bCk) | 4:21 | 2026-03-03 |  |
 | [ころたいそう](https://open.spotify.com/track/0r9r6v283cb47Db0CqvWFo) | [殺おにいさん\(殺せんせー/CV.福山潤\)](https://open.spotify.com/artist/3Trm2QQQnDlxtxDRmo2ex6) | [自力本願レボリューション](https://open.spotify.com/album/3lChV8Q6Rs3d3Atxqc9T96) | 4:31 | 2025-08-21 |  |
 | [また君に会える日](https://open.spotify.com/track/0hgHn4Akeuo4NHbqnwFCLY) | [Shion Miyawaki](https://open.spotify.com/artist/3iNmysCq0FJrHxpqUUagn2) | [ソラ](https://open.spotify.com/album/6VjYuBi1P9mywKJwiheGw7) | 4:37 | 2025-08-21 |  |
 | [スピカ](https://open.spotify.com/track/0txI0uDofmnAXqbZraQRYn) | [帰りの会](https://open.spotify.com/artist/5YXzV93qLK8xNqNy5OKVkJ) | [スピカ](https://open.spotify.com/album/0Q3KAcVAVo2HyanbDhhLBk) | 3:33 | 2026-01-13 |  |

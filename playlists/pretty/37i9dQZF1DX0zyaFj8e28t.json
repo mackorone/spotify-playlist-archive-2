@@ -1,6 +1,6 @@
 {
-  "description": "Les plus grands tubes fran\u00e7ais des ann\u00e9es 80. Photo : Renaud",
-  "num_followers": 402040,
+  "description": "Les plus grands tubes fran\u00e7ais des ann\u00e9es 80. Photo : France Gall",
+  "num_followers": 402081,
   "original_name": "Hits Fran\u00e7ais 80",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2025-12-29 17:53:07",
       "album": {
+        "name": "Tropique",
+        "url": "https://open.spotify.com/album/45QTuP5zs9QwKdS0y0znIO"
+      },
+      "artists": [
+        {
+          "name": "Muriel Dacq",
+          "url": "https://open.spotify.com/artist/5hqvbA1LcyFLRhTQGZQzKP"
+        }
+      ],
+      "duration_ms": 212002,
+      "name": "Tropique",
+      "url": "https://open.spotify.com/track/0ygcmX3L2rL0fEO45NN9k0"
+    },
+    {
+      "added_at": "2025-12-29 17:53:07",
+      "album": {
         "name": "Belle Ile En Mer",
         "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 296506,
       "name": "D\u00e9sir, d\u00e9sir, Pt. 1",
       "url": "https://open.spotify.com/track/2tr24VBF280hvO14tSNBEO"
-    },
-    {
-      "added_at": "2025-12-29 17:53:07",
-      "album": {
-        "name": "Tropique",
-        "url": "https://open.spotify.com/album/45QTuP5zs9QwKdS0y0znIO"
-      },
-      "artists": [
-        {
-          "name": "Muriel Dacq",
-          "url": "https://open.spotify.com/artist/5hqvbA1LcyFLRhTQGZQzKP"
-        }
-      ],
-      "duration_ms": 212002,
-      "name": "Tropique",
-      "url": "https://open.spotify.com/track/0ygcmX3L2rL0fEO45NN9k0"
     },
     {
       "added_at": "2025-12-29 17:53:07",

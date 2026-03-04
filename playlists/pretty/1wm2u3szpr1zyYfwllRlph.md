@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1wm2u3szpr1zyYfwllRlph.md) - [plain]
 
 > Dance Hits \- EDM, Summer and dance floor favourites from Calvin Harris, Lost Frequencies, Kygo, Tiesto, David Guetta! Cover: Lost Frequencies
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 54,601 likes - 101 songs - 5 hr 8 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 54,591 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,12 +102,11 @@ pretty - [cumulative](/playlists/cumulative/1wm2u3szpr1zyYfwllRlph.md) - [plain]
 | 92 | [NEED ME](https://open.spotify.com/track/4p2hNGbDAdzpMx6gG08heG) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [NEED ME](https://open.spotify.com/album/1mxHJofAum7U9VzXVNxq9b) | 3:30 |
 | 93 | [Love Has Gone](https://open.spotify.com/track/2KUAdU39pNYHy0zHnr8xHd) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [ALTA](https://open.spotify.com/artist/0PkXdpzJOcWmCvp4aqRsA5), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Love Has Gone](https://open.spotify.com/album/5ym4LpHEltp18DJE3CcOgv) | 2:33 |
 | 94 | [Unstoppable](https://open.spotify.com/track/0CVZr5MMrL7WFr74pK515Z) | [Milk Inc.](https://open.spotify.com/artist/2sgikskblKZFbDpsYO9anB) | [Unstoppable](https://open.spotify.com/album/4HZaAOSGWyXf54eYhJ9VZf) | 2:46 |
-| 95 | [Hello](https://open.spotify.com/track/15aqhgN9LLd7TvuF367e57) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Hello](https://open.spotify.com/album/0Ep3CUwcbfWRyKLiTWvEKk) | 2:54 |
-| 96 | [Somebody Knows](https://open.spotify.com/track/6ggn3nOmgJSGnA4FlGQVRc) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [Somebody Knows](https://open.spotify.com/album/4fUdu5HvnHpYHPYonFVox5) | 3:48 |
-| 97 | [last night i dreamt i fell in love](https://open.spotify.com/track/6t1pBY6VYjNM9SJEBieyJw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [last night i dreamt i fell in love](https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA) | 2:06 |
+| 95 | [Addicted To Your Love](https://open.spotify.com/track/2ofGiCQtDzW3SHboZd6EOa) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Magnetic / Addicted To Your Love](https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8) | 3:00 |
+| 96 | [Hello](https://open.spotify.com/track/15aqhgN9LLd7TvuF367e57) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Hello](https://open.spotify.com/album/0Ep3CUwcbfWRyKLiTWvEKk) | 2:54 |
+| 97 | [Somebody Knows](https://open.spotify.com/track/6ggn3nOmgJSGnA4FlGQVRc) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [Somebody Knows](https://open.spotify.com/album/4fUdu5HvnHpYHPYonFVox5) | 3:48 |
 | 98 | [2 hands \- Don Diablo remix](https://open.spotify.com/track/1y8vNextjCzt568k6cHAjx) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [2 hands \(Don Diablo remix\)](https://open.spotify.com/album/1UZoBhJ0ytxZrDPMs9xHTM) | 3:08 |
 | 99 | [Without You \(with HAYLA\)](https://open.spotify.com/track/6L9UuUMs32tHkwPufnmZee) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [KYGO](https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q) | 4:23 |
 | 100 | [Body Talk \(feat\. Clementine Douglas\)](https://open.spotify.com/track/7xn2WAbQfGjh8Xjs7zEWGf) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Body Talk \(feat\. Clementine Douglas\)](https://open.spotify.com/album/1wLLPmBzS0vlU6ZEqp7NRb) | 2:12 |
-| 101 | [Hold On For Heaven](https://open.spotify.com/track/1waqydZwGSMhDFfUJdzKjA) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [Hold On For Heaven](https://open.spotify.com/album/2mUJTDa5AzLNqSXxwbsF8r) | 3:34 |
 
-Snapshot ID: `AAAg6e/eTLMr1r7wUUnqvG1GCK0nG2Gp`
+Snapshot ID: `AAAg7ppo66h0zcMhEOd+fZOVA3XdOTBj`

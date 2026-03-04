@@ -2067,6 +2067,24 @@
     },
     {
       "album": {
+        "name": "health status: empty",
+        "url": "https://open.spotify.com/album/3AxzAEd2CgWwIvakD0UdnF"
+      },
+      "artists": [
+        {
+          "name": "jakub.",
+          "url": "https://open.spotify.com/artist/7hUhXAakX6BPEcosMTAPUI"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101052,
+      "name": "health status: empty",
+      "url": "https://open.spotify.com/track/56K8iVHtnzSpuHpGdydpSo"
+    },
+    {
+      "album": {
         "name": "Shards",
         "url": "https://open.spotify.com/album/06SyCXtsiegtbVJpJ7kNWm"
       },
@@ -6370,7 +6388,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 314454,
       "name": "Waves - Oliver Doerell & Helga Raimondi Rework",
       "url": "https://open.spotify.com/track/5oXGS29Qa8Pv7ITfKLm9X4"

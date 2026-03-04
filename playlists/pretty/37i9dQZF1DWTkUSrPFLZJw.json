@@ -1,6 +1,6 @@
 {
   "description": "atopa risers",
-  "num_followers": 20841,
+  "num_followers": 20860,
   "original_name": "Soloku ",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,26 @@
     {
       "added_at": "2026-02-27 00:01:26",
       "album": {
+        "name": "Wins & Losses",
+        "url": "https://open.spotify.com/album/57SzMLliAmulps9UDpDOLk"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Yaadman fka Yung L",
+          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
+        }
+      ],
+      "duration_ms": 179825,
+      "name": "Wins & Losses",
+      "url": "https://open.spotify.com/track/7ax7PkGEpJueZLT0nD6sBS"
+    },
+    {
+      "added_at": "2026-02-27 00:01:26",
+      "album": {
         "name": "Awurade Aye",
         "url": "https://open.spotify.com/album/0iMv1LDtzvVJWrZ1nBAjs4"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 172747,
       "name": "Down Flat",
       "url": "https://open.spotify.com/track/0eqmxkeJHQs3mdOEFluYXB"
-    },
-    {
-      "added_at": "2026-02-27 00:01:26",
-      "album": {
-        "name": "Wins & Losses",
-        "url": "https://open.spotify.com/album/57SzMLliAmulps9UDpDOLk"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Yaadman fka Yung L",
-          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
-        }
-      ],
-      "duration_ms": 179825,
-      "name": "Wins & Losses",
-      "url": "https://open.spotify.com/track/7ax7PkGEpJueZLT0nD6sBS"
     },
     {
       "added_at": "2026-02-27 00:01:26",

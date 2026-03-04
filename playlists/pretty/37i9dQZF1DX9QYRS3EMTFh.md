@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : DJ Tutuss
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,661 likes - 50 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,682 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 14 | [BAD GYAL II](https://open.spotify.com/track/59p3IN6uGof2KWjuuLsHcu) | [Warped](https://open.spotify.com/artist/3Yd5Myzy2Pc2Elt40LOST5) | [BAD GYAL II](https://open.spotify.com/album/0WDo1PDipYrEZXYRzl0iaI) | 2:50 |
 | 15 | [T'es où?](https://open.spotify.com/track/3gdu5xRlYNIBeodZBkVpcq) | [T\-Jy](https://open.spotify.com/artist/28YuYWLmKm0vl1gb5cUIta), [Shad Hottaboy](https://open.spotify.com/artist/3LWw4ar9kTrbOgTUvyZQjW) | [T'es où?](https://open.spotify.com/album/1IgbyS5GzJAvhd6IKo6c5b) | 2:29 |
 | 16 | [Emoji Pêche](https://open.spotify.com/track/258OblSwifjdaXY6Br7vak) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Queen](https://open.spotify.com/album/6dzjdYfWaGwfMZZaJXVlYJ) | 2:18 |
-| 17 | [C'est gagné](https://open.spotify.com/track/2zhmlsguDARe5S6lSMXjs6) | [DJ Erise](https://open.spotify.com/artist/5un78gf3HzGs8Kgeoflgna), [N'Ken](https://open.spotify.com/artist/4tZPI4M7z2CV9odcpAbRmF) | [C'est gagné](https://open.spotify.com/album/0VLaCaQwpP0bl40vpWP7K5) | 2:16 |
+| 17 | [C'est gagné](https://open.spotify.com/track/2zhmlsguDARe5S6lSMXjs6) | [DJ Erise](https://open.spotify.com/artist/5un78gf3HzGs8Kgeoflgna), [N'Ken](https://open.spotify.com/artist/7CiDghduh4uqMn0zSkPx1p) | [C'est gagné](https://open.spotify.com/album/0VLaCaQwpP0bl40vpWP7K5) | 2:16 |
 | 18 | [Wakanda](https://open.spotify.com/track/01fIWkztmElx4gI5yb22Pw) | [P.L.L](https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf), [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Wakanda](https://open.spotify.com/album/07beGsVPX5gJ2eCnYRNqLB) | 2:51 |
 | 19 | [DO YOU DANCE](https://open.spotify.com/track/2TsxB3ShJ2bhtwPKc2opb2) | [Fallon](https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I), [1T1](https://open.spotify.com/artist/29DEO5ubNTmLbFSEZDP2we) | [DO YOU DANCE](https://open.spotify.com/album/405aLXiXnQ9xDLbOaoZ1ZF) | 2:17 |
 | 20 | [Coco Chanel](https://open.spotify.com/track/65lCFhOz5RyYH52JryAf10) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [La Dame](https://open.spotify.com/album/1XmeiDJ7WhLJhhKHSMBAH5) | 2:10 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 37 | [Hakuna matata](https://open.spotify.com/track/0CHzMxy3cSPV2y1ly7sIZt) | [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC), [Algéric](https://open.spotify.com/artist/6V788FEftK2VvhtleSaPwY) | [Hakuna matata](https://open.spotify.com/album/0DTRsJGlAUHmmx0qUbsNe2) | 2:28 |
 | 38 | [Je Pars](https://open.spotify.com/track/6VQUpa7xzfKxFC9otdb51L) | [N'Ken](https://open.spotify.com/artist/7CiDghduh4uqMn0zSkPx1p), [Lé Will & Deuspi](https://open.spotify.com/artist/1DaLT7Mgy04h833FKXKGO0), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE) | [Je Pars](https://open.spotify.com/album/6BbhTasfCrW88NhulHyMiA) | 2:47 |
 | 39 | [Umbrella](https://open.spotify.com/track/3q6qoXgAl5dap8qRD6XSIl) | [DJ Erise](https://open.spotify.com/artist/5un78gf3HzGs8Kgeoflgna), [KENZY DONA](https://open.spotify.com/artist/3tVOuuZqPW4toF0vFTERMl) | [Umbrella](https://open.spotify.com/album/7yAhtDoqbWMkpu7LwUiNMj) | 2:07 |
-| 40 | [Sexy Mimi](https://open.spotify.com/track/2vhw69TwH9tzIQHuMXQzUt) | [Josh](https://open.spotify.com/artist/6nqbsvHdj0s0m3JVobStqm) | [Sexy Mimi](https://open.spotify.com/album/5Kl0quGpgFXF0dfRC63m5U) | 2:09 |
+| 40 | [Sexy Mimi](https://open.spotify.com/track/2vhw69TwH9tzIQHuMXQzUt) | [Yo Joshy](https://open.spotify.com/artist/1wqLSQG17qY59pf6w9byzp) | [Sexy Mimi](https://open.spotify.com/album/5Kl0quGpgFXF0dfRC63m5U) | 2:09 |
 | 41 | [San kilot](https://open.spotify.com/track/5kdgBsapGdYNUFY3xDP0el) | [Krys](https://open.spotify.com/artist/6d4N9S0QxevupZo0FNXx0D), [YSN](https://open.spotify.com/artist/2JxvmvS4bijkOfkIrZcK0Q) | [San kilot](https://open.spotify.com/album/7r3sNbLAfsu2K7F4Qa9Lop) | 1:59 |
 | 42 | [En Abondance](https://open.spotify.com/track/2f2jivWpe305mEFJPByAiT) | [X\-Man](https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4) | [En Abondance](https://open.spotify.com/album/474r40wTFEG12RDs1GApq0) | 2:21 |
 | 43 | [Basshall Party](https://open.spotify.com/track/372CY1De8YoTGDmquFrIVc) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD) | [Basshall Party](https://open.spotify.com/album/2tZq04GF07vJqZR8QZKGCY) | 2:03 |

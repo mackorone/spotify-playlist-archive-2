@@ -1,6 +1,6 @@
 {
   "description": "Warm and cozy jazz vibes to get you in a positive mood.\n\n",
-  "num_followers": 501773,
+  "num_followers": 501958,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-02-20 08:31:07",
       "album": {
+        "name": "Chris Connor",
+        "url": "https://open.spotify.com/album/6Upvk936bmob5lyoY7ouDD"
+      },
+      "artists": [
+        {
+          "name": "Chris Connor",
+          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
+        }
+      ],
+      "duration_ms": 171240,
+      "name": "You Make Me Feel so Young",
+      "url": "https://open.spotify.com/track/3MnRIr9WZLkX3OIQBSByMF"
+    },
+    {
+      "added_at": "2026-02-20 08:31:07",
+      "album": {
         "name": "September in the Rain",
         "url": "https://open.spotify.com/album/6d8P2kjdu2ZttekvM8yTBX"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 248862,
       "name": "September In The Rain",
       "url": "https://open.spotify.com/track/3B1p5fP7kwsWb7WnazHDrS"
-    },
-    {
-      "added_at": "2026-02-20 08:31:07",
-      "album": {
-        "name": "Chris Connor",
-        "url": "https://open.spotify.com/album/6Upvk936bmob5lyoY7ouDD"
-      },
-      "artists": [
-        {
-          "name": "Chris Connor",
-          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
-        }
-      ],
-      "duration_ms": 171240,
-      "name": "You Make Me Feel so Young",
-      "url": "https://open.spotify.com/track/3MnRIr9WZLkX3OIQBSByMF"
     },
     {
       "added_at": "2026-02-20 08:31:07",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-02-20 08:31:07",
       "album": {
-        "name": "Paris In The Rain",
-        "url": "https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp"
-      },
-      "artists": [
-        {
-          "name": "Sarah McKenzie",
-          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
-        }
-      ],
-      "duration_ms": 246640,
-      "name": "Tea For Two",
-      "url": "https://open.spotify.com/track/63DeUSSaejT2QBXkDYwXWt"
-    },
-    {
-      "added_at": "2026-02-20 08:31:07",
-      "album": {
         "name": "Roll Call",
         "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 407533,
       "name": "The More I See You - Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/42iATJYN5S908wQMReeDkV"
+    },
+    {
+      "added_at": "2026-02-20 08:31:07",
+      "album": {
+        "name": "Paris In The Rain",
+        "url": "https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp"
+      },
+      "artists": [
+        {
+          "name": "Sarah McKenzie",
+          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
+        }
+      ],
+      "duration_ms": 246640,
+      "name": "Tea For Two",
+      "url": "https://open.spotify.com/track/63DeUSSaejT2QBXkDYwXWt"
     },
     {
       "added_at": "2026-02-20 08:31:07",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-02-20 08:31:07",
       "album": {
-        "name": "The Good Life",
-        "url": "https://open.spotify.com/album/1KcIDuzLH70tG5qt2jYtt6"
-      },
-      "artists": [
-        {
-          "name": "Tyler Henderson",
-          "url": "https://open.spotify.com/artist/4edLXfn5dbnwKUZ7pNdmze"
-        }
-      ],
-      "duration_ms": 263444,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/4xMAglOTdaA3GVgP7iQLmd"
-    },
-    {
-      "added_at": "2026-02-20 08:31:07",
-      "album": {
         "name": "Happy Moods",
         "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 347453,
       "name": "Pavanne",
       "url": "https://open.spotify.com/track/55vZxzO7OAmh93hLRiM8qB"
+    },
+    {
+      "added_at": "2026-02-20 08:31:07",
+      "album": {
+        "name": "The Good Life",
+        "url": "https://open.spotify.com/album/1KcIDuzLH70tG5qt2jYtt6"
+      },
+      "artists": [
+        {
+          "name": "Tyler Henderson",
+          "url": "https://open.spotify.com/artist/4edLXfn5dbnwKUZ7pNdmze"
+        }
+      ],
+      "duration_ms": 263444,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/4xMAglOTdaA3GVgP7iQLmd"
     },
     {
       "added_at": "2026-02-20 08:31:07",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2026-02-20 08:31:07",
       "album": {
+        "name": "Markham Sunrise",
+        "url": "https://open.spotify.com/album/0rgY5ot2AlZrAwXJhVyChZ"
+      },
+      "artists": [
+        {
+          "name": "Bria Skonberg",
+          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
+        }
+      ],
+      "duration_ms": 193373,
+      "name": "Markham Sunrise",
+      "url": "https://open.spotify.com/track/7u9obPhFU5UqeWBksk56lP"
+    },
+    {
+      "added_at": "2026-02-20 08:31:07",
+      "album": {
         "name": "Why'd You Have To Go and Lie To Me Boy",
         "url": "https://open.spotify.com/album/2Dqtu0iBpv2YdpUam2awCq"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 310040,
       "name": "Why'd You Have To Go and Lie To Me Boy",
       "url": "https://open.spotify.com/track/1cYjSURe4iTZb6ndRFHOVr"
-    },
-    {
-      "added_at": "2026-02-20 08:31:07",
-      "album": {
-        "name": "Markham Sunrise",
-        "url": "https://open.spotify.com/album/0rgY5ot2AlZrAwXJhVyChZ"
-      },
-      "artists": [
-        {
-          "name": "Bria Skonberg",
-          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
-        }
-      ],
-      "duration_ms": 193373,
-      "name": "Markham Sunrise",
-      "url": "https://open.spotify.com/track/7u9obPhFU5UqeWBksk56lP"
     },
     {
       "added_at": "2026-02-20 08:31:07",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-02-20 08:31:07",
       "album": {
-        "name": "Singin' a Melody",
-        "url": "https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG"
-      },
-      "artists": [
-        {
-          "name": "Paul Callander",
-          "url": "https://open.spotify.com/artist/7DxH2g9FfTI6C7CXBTZNtq"
-        }
-      ],
-      "duration_ms": 224786,
-      "name": "Singin' a Melody",
-      "url": "https://open.spotify.com/track/60WNBop8SdFIZZ8PZABZNq"
-    },
-    {
-      "added_at": "2026-02-20 08:31:07",
-      "album": {
         "name": "Further Definitions",
         "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 230813,
       "name": "Honeysuckle Rose",
       "url": "https://open.spotify.com/track/16rC6JrsasyG7p3MjbEFgR"
+    },
+    {
+      "added_at": "2026-02-20 08:31:07",
+      "album": {
+        "name": "Singin' a Melody",
+        "url": "https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG"
+      },
+      "artists": [
+        {
+          "name": "Paul Callander",
+          "url": "https://open.spotify.com/artist/7DxH2g9FfTI6C7CXBTZNtq"
+        }
+      ],
+      "duration_ms": 224786,
+      "name": "Singin' a Melody",
+      "url": "https://open.spotify.com/track/60WNBop8SdFIZZ8PZABZNq"
     },
     {
       "added_at": "2026-02-20 08:31:07",

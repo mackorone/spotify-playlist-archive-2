@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 65653,
+  "num_followers": 65652,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaOBgAAAAABRpj7HjIvR3fcf5/33ZK1M",
+  "snapshot_id": "aaTTAAAAAAAQ1pCkDHgnix2zD8/Z2trK",
   "tracks": [
     {
       "added_at": null,
@@ -263,18 +263,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DISTRACTION / SCREAM MY NAME",
-        "url": "https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy"
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/5W8SvJTwnL2joYd7J5yu7L"
       },
       "artists": [
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        },
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 180000,
-      "name": "DISTRACTION",
-      "url": "https://open.spotify.com/track/2BGyjLA7era3GunIrwqASc"
+      "duration_ms": 140307,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/4AyHlEuenAyjMOifhsjBBd"
     },
     {
       "added_at": null,
@@ -311,22 +315,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/5W8SvJTwnL2joYd7J5yu7L"
+        "name": "DISTRACTION / SCREAM MY NAME",
+        "url": "https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy"
       },
       "artists": [
-        {
-          "name": "dj gummy bear",
-          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
-        },
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 140307,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/4AyHlEuenAyjMOifhsjBBd"
+      "duration_ms": 180000,
+      "name": "DISTRACTION",
+      "url": "https://open.spotify.com/track/2BGyjLA7era3GunIrwqASc"
     },
     {
       "added_at": null,

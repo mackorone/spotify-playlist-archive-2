@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Tei (\ud14c\uc774)) \uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: \uae40\uc131\uaddc (Kim Sung Kyu)) \uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "v o K a l",
   "tracks": [
     {
@@ -584,6 +584,28 @@
       "duration_ms": 254386,
       "name": "Alone (Feat. GSoul)",
       "url": "https://open.spotify.com/track/0TXGMVMHbmV8oHgayKayHs"
+    },
+    {
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/1wUuOFIZvsHQbtWAKzpwaW"
+      },
+      "artists": [
+        {
+          "name": "Parc Jae Jung",
+          "url": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+        },
+        {
+          "name": "SULLYOON",
+          "url": "https://open.spotify.com/artist/2zThkgO048BYfaNSHQhyTH"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/6HeD1iODjtr0nvPn6Hwux8"
     },
     {
       "album": {
@@ -2011,6 +2033,28 @@
     },
     {
       "album": {
+        "name": "Daehan Is Alive: Rewritten",
+        "url": "https://open.spotify.com/album/2cMnLoQZ0uix1E9m34EuuH"
+      },
+      "artists": [
+        {
+          "name": "Lee Juck",
+          "url": "https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa"
+        },
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198295,
+      "name": "Daehan Is Alive: Rewritten",
+      "url": "https://open.spotify.com/track/65moWQURj0CjPbu0kECpzR"
+    },
+    {
+      "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/5FvhtKgxtrYHULhgdwPTDO"
       },
@@ -2220,7 +2264,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 238022,
       "name": "didn't know me",
       "url": "https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC"
@@ -5464,7 +5508,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 236000,
       "name": "Like Yesterday",
       "url": "https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33"
@@ -6512,7 +6556,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 216000,
       "name": "MOON",
       "url": "https://open.spotify.com/track/0OTJ61b0NbEyjgbNdIB0E8"
@@ -8741,6 +8785,24 @@
     },
     {
       "album": {
+        "name": "Stayed",
+        "url": "https://open.spotify.com/album/2GBeJmmTz91x8CHiK4C6qC"
+      },
+      "artists": [
+        {
+          "name": "Bernard Park",
+          "url": "https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219687,
+      "name": "Stayed",
+      "url": "https://open.spotify.com/track/6I9V6KfO1ACRpak2MiN1Fk"
+    },
+    {
+      "album": {
         "name": "ALAL #3",
         "url": "https://open.spotify.com/album/7fh1VfRnuVyNYI1QpMmIc2"
       },
@@ -10375,6 +10437,24 @@
     },
     {
       "album": {
+        "name": "OFF THE MAP",
+        "url": "https://open.spotify.com/album/5UddYZEfHNUCra18jeZtUU"
+      },
+      "artists": [
+        {
+          "name": "Kim Sung Kyu",
+          "url": "https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "When I think about you",
+      "url": "https://open.spotify.com/track/09jyHsIH2M6rt3OFyM3hW5"
+    },
+    {
+      "album": {
         "name": "When I was Into You",
         "url": "https://open.spotify.com/album/0AdlXPc0vo43GEMz9i4QIE"
       },
@@ -10986,7 +11066,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 197000,
       "name": "YOUR EYES",
       "url": "https://open.spotify.com/track/4JKoezs2gVjdyuBbZPM0IA"

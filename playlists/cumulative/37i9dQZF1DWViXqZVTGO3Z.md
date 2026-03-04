@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: Katy Nichole
 
-516 songs - 1 day 9 hr 26 min
+517 songs - 1 day 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [Messiah](https://open.spotify.com/track/4egkdMYi6fuLYH2PNTnpGW) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [This Christmas](https://open.spotify.com/album/2qvU0V1K9WGP13QBztAKVF) | 3:38 | 2021-12-11 |  |
 | [Messiah](https://open.spotify.com/track/0vf6DSd9O9Y1xlzNaNK2kV) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Where I Find You: Christmas Edition](https://open.spotify.com/album/4tubRHJq8r0x1w6O0GltyL) | 4:24 | 2021-12-24 | 2023-12-16 |
 | [Messiah](https://open.spotify.com/track/5AAx2hDyMApvJDags954xB) | [The Church Will Sing](https://open.spotify.com/artist/0TfWxv8ygT7qBnqxqyYige), [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il), [Eagle Brook Music](https://open.spotify.com/artist/5tyCFPuJFBRvJOwilvnlbI) | [Messiah](https://open.spotify.com/album/1n55ttEqhpjbxX4fXyUZbo) | 3:47 | 2021-12-11 | 2024-08-01 |
+| [Mine](https://open.spotify.com/track/1f59Q1JGDzDFy4LErFW3XR) | [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [Mine](https://open.spotify.com/album/7IaxgJxwK5bpMk2FKzh9Is) | 2:26 | 2025-12-12 |  |
 | [Miracle of Christmas](https://open.spotify.com/track/0gS3ThEdFsj0FygA8KeXHC) | [Abby Robertson](https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7) | [Miracle of Christmas](https://open.spotify.com/album/6RnH3ZYftEzMIlU9vtFGU9) | 2:42 | 2021-12-24 | 2025-11-17 |
 | [Mistletoe](https://open.spotify.com/track/6tuAY9v4QdUcIZB1y0iuwD) | [Tobi Adey](https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE) | [Eastern Star](https://open.spotify.com/album/3wPXGRGzUUxYZfQs3hws9S) | 4:00 | 2024-12-13 |  |
 | [Mother to a Savior and King](https://open.spotify.com/track/0EqNAggZnKPBlPAnQ3JbPm) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Mother to a Savior and King](https://open.spotify.com/album/6PmiyV2eTuehJSAJGGaAb2) | 3:26 | 2024-11-29 |  |
@@ -474,7 +475,7 @@
 | [There is a Promise](https://open.spotify.com/track/3J4HIR5gyLFxDLcKfKm7GS) | [David & Maaike](https://open.spotify.com/artist/7KYgxNTHfEPoXzsOKhvQXg) | [There is a Promise](https://open.spotify.com/album/04syM40Ri1WsG8L7OGebGY) | 4:11 | 2021-12-24 | 2022-07-29 |
 | [This Christmas](https://open.spotify.com/track/4CBjktJLsRt8ZO8LSEq0lu) | [Apollo LTD](https://open.spotify.com/artist/3EEWajIld20vCAPfRkXh1S) | [This Christmas](https://open.spotify.com/album/0NHNtCqSBy6yjiZ7jpDDBf) | 2:52 | 2022-11-26 | 2026-03-03 |
 | [This Christmas](https://open.spotify.com/track/1KfsVSKcKTh6hRjBSPL73J) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [This Christmas](https://open.spotify.com/album/6ZdukzPlGxWGBcBTXGOcFu) | 2:51 | 2021-12-24 | 2022-07-29 |
-| [This Christmas](https://open.spotify.com/track/3NQcGDkm0I1XFeFSlCWMqt) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [This Christmas](https://open.spotify.com/album/7e7hga6IjsDcKAOpR2hn27) | 3:04 | 2022-11-26 |  |
+| [This Christmas](https://open.spotify.com/track/3NQcGDkm0I1XFeFSlCWMqt) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [This Christmas](https://open.spotify.com/album/7e7hga6IjsDcKAOpR2hn27) | 3:04 | 2022-11-26 | 2026-03-04 |
 | [This Is Christmas](https://open.spotify.com/track/5ZydBDUkvBKXwUmvV3v4mi) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [This Is Christmas](https://open.spotify.com/album/5OhpJQEOrb8Wl0hkv2Wrs7) | 3:30 | 2022-12-11 | 2024-04-02 |
 | [This is Christmas](https://open.spotify.com/track/0aolzp37lPqFhB1LBjRmwF) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/6wwjwUB8juXsKsFhImkg7d) | 3:20 | 2021-12-24 | 2022-12-22 |
 | [This is Emmanuel](https://open.spotify.com/track/2MXlteGF7jW7DJxfgYV5Kh) | [KingsPorch](https://open.spotify.com/artist/1YBs9eFwD54sWgek5EVYTF) | [This is Emmanuel](https://open.spotify.com/album/1viVm1O59eLrGnwDD5dzRA) | 3:55 | 2022-12-11 | 2024-08-01 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Seiya
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,807 likes - 101 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,819 likes - 101 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Misay](https://open.spotify.com/track/4MKX6j3m2v6mWuXoU35b7s) | [Seiya](https://open.spotify.com/artist/07yCIOd67torzVSgDgDPU8) | [Misay](https://open.spotify.com/album/654DBQ2NdveN5NuyQq8203) | 3:59 |
+| 1 | [Misay](https://open.spotify.com/track/4MKX6j3m2v6mWuXoU35b7s) | [Seiya](https://open.spotify.com/artist/2CIxoskpMczxrNB4hQTZSF) | [Misay](https://open.spotify.com/album/654DBQ2NdveN5NuyQq8203) | 3:59 |
 | 2 | [King of Sadtown](https://open.spotify.com/track/2pa5wUmBIMCaavRQo240NT) | [Peej](https://open.spotify.com/artist/1fERpjPPt0AJDpT3p7NbiP) | [King of Sadtown](https://open.spotify.com/album/3JYPXy9wUuPHw1tkU6GiWR) | 3:16 |
 | 3 | [Na Para Bang](https://open.spotify.com/track/0iiCLCYke4dscHvr5SaPrH) | [Mariah Deborah](https://open.spotify.com/artist/37Wy0h3oMjblxPn4bLXqyv) | [Na Para Bang](https://open.spotify.com/album/6sA8ASBXrpBIO11PfAnlp1) | 3:48 |
 | 4 | [ilaw ng buwan](https://open.spotify.com/track/2DgdMoMM91q0sG41AajVPX) | [FENDER](https://open.spotify.com/artist/3INW0EOV0w9NyMM3TxbFUO) | [ilaw ng buwan](https://open.spotify.com/album/1shwpOWVTxQCtngpQnJaoY) | 3:44 |

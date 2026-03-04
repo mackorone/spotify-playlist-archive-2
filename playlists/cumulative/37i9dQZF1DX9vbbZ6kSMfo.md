@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop's Next Leaders?](https://open.spotify.com/playlist/37i9dQZF1DX9vbbZ6kSMfo)
 
-> Who's going to lead hip\-hop’s next generation? Vote now on mobile.
+> Who's going to lead hip\-hop’s next generation?
 
 48 songs - 2 hr 11 min
 

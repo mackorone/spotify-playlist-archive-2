@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\ude80 when ur love language is bpm \ud83d\ude80  Cover: Hannah Laing",
-  "num_followers": 374979,
+  "num_followers": 375129,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
@@ -855,18 +855,22 @@
     {
       "added_at": "2026-02-26 23:00:34",
       "album": {
-        "name": "ACID",
-        "url": "https://open.spotify.com/album/4tcIJhEBpDUUuxVVyfmGtf"
+        "name": "90s Bitch",
+        "url": "https://open.spotify.com/album/4kCdFZjjSrMtYzCC3UnNNt"
       },
       "artists": [
         {
-          "name": "Novah",
-          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
         }
       ],
-      "duration_ms": 215225,
-      "name": "ACID",
-      "url": "https://open.spotify.com/track/0iI3QPTdmMzXf7dMApinMG"
+      "duration_ms": 196258,
+      "name": "90s Bitch",
+      "url": "https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP"
     },
     {
       "added_at": "2026-02-26 23:00:34",
@@ -891,22 +895,18 @@
     {
       "added_at": "2026-02-26 23:00:34",
       "album": {
-        "name": "90s Bitch",
-        "url": "https://open.spotify.com/album/4kCdFZjjSrMtYzCC3UnNNt"
+        "name": "ACID",
+        "url": "https://open.spotify.com/album/4tcIJhEBpDUUuxVVyfmGtf"
       },
       "artists": [
         {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "The Rocketman",
-          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+          "name": "Novah",
+          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
         }
       ],
-      "duration_ms": 196258,
-      "name": "90s Bitch",
-      "url": "https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP"
+      "duration_ms": 215225,
+      "name": "ACID",
+      "url": "https://open.spotify.com/track/0iI3QPTdmMzXf7dMApinMG"
     },
     {
       "added_at": "2026-02-26 23:00:34",
@@ -1211,22 +1211,18 @@
     {
       "added_at": "2026-02-26 23:00:34",
       "album": {
-        "name": "Diamond Heart",
-        "url": "https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W"
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/1H4LHLHLLckvd7VAgInxwP"
       },
       "artists": [
         {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        },
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
         }
       ],
-      "duration_ms": 152519,
-      "name": "Diamond Heart",
-      "url": "https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO"
+      "duration_ms": 204324,
+      "name": "5AM",
+      "url": "https://open.spotify.com/track/59oSJUWLxsD6gQRup9aGCY"
     },
     {
       "added_at": "2026-02-26 23:00:34",
@@ -1247,18 +1243,22 @@
     {
       "added_at": "2026-02-26 23:00:34",
       "album": {
-        "name": "5AM",
-        "url": "https://open.spotify.com/album/1H4LHLHLLckvd7VAgInxwP"
+        "name": "Diamond Heart",
+        "url": "https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W"
       },
       "artists": [
         {
-          "name": "KI/KI",
-          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
         }
       ],
-      "duration_ms": 204324,
-      "name": "5AM",
-      "url": "https://open.spotify.com/track/59oSJUWLxsD6gQRup9aGCY"
+      "duration_ms": 152519,
+      "name": "Diamond Heart",
+      "url": "https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO"
     },
     {
       "added_at": "2026-02-26 23:00:34",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2026-02-26 23:00:34",
       "album": {
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/78gBvcyXKwElhWgNWECcD4"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "duration_ms": 226831,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/1KOTY2OVnEgua9eY76WxvT"
+    },
+    {
+      "added_at": "2026-02-26 23:00:34",
+      "album": {
         "name": "Smiling Through The Pain",
         "url": "https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW"
       },
@@ -1295,18 +1311,18 @@
     {
       "added_at": "2026-02-26 23:00:34",
       "album": {
-        "name": "Azul",
-        "url": "https://open.spotify.com/album/78gBvcyXKwElhWgNWECcD4"
+        "name": "Can't Stop Loving You",
+        "url": "https://open.spotify.com/album/0B6h2urIr10tKp0Vzh02UX"
       },
       "artists": [
         {
-          "name": "Funk Tribu",
-          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
         }
       ],
-      "duration_ms": 226831,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/1KOTY2OVnEgua9eY76WxvT"
+      "duration_ms": 205106,
+      "name": "Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/7D9nLNkpBM3X43NTTK6ODa"
     },
     {
       "added_at": "2026-02-26 23:00:34",
@@ -1331,22 +1347,6 @@
     {
       "added_at": "2026-02-26 23:00:34",
       "album": {
-        "name": "Can't Stop Loving You",
-        "url": "https://open.spotify.com/album/0B6h2urIr10tKp0Vzh02UX"
-      },
-      "artists": [
-        {
-          "name": "KI/KI",
-          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
-        }
-      ],
-      "duration_ms": 205106,
-      "name": "Can't Stop Loving You",
-      "url": "https://open.spotify.com/track/7D9nLNkpBM3X43NTTK6ODa"
-    },
-    {
-      "added_at": "2026-02-26 23:00:34",
-      "album": {
         "name": "Spectral Bells",
         "url": "https://open.spotify.com/album/6FCFFeBXGGIDxeREDbDKJP"
       },
@@ -1359,6 +1359,22 @@
       "duration_ms": 193907,
       "name": "Spectral Bells",
       "url": "https://open.spotify.com/track/0Yfb937yM0d5f6os0W9IWc"
+    },
+    {
+      "added_at": "2026-02-26 23:00:34",
+      "album": {
+        "name": "Speakers Blowing",
+        "url": "https://open.spotify.com/album/1RmuOXWU4VmyJYFvHS9nSN"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "duration_ms": 221012,
+      "name": "Speakers Blowing",
+      "url": "https://open.spotify.com/track/2qVqEzl038sc3Br5pp9b8K"
     },
     {
       "added_at": "2026-02-26 23:00:34",
@@ -1379,22 +1395,6 @@
       "duration_ms": 198648,
       "name": "Wanna Feel",
       "url": "https://open.spotify.com/track/5mgLOhX1IXSCZXUFWWkf0c"
-    },
-    {
-      "added_at": "2026-02-26 23:00:34",
-      "album": {
-        "name": "Speakers Blowing",
-        "url": "https://open.spotify.com/album/1RmuOXWU4VmyJYFvHS9nSN"
-      },
-      "artists": [
-        {
-          "name": "Funk Tribu",
-          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
-        }
-      ],
-      "duration_ms": 221012,
-      "name": "Speakers Blowing",
-      "url": "https://open.spotify.com/track/2qVqEzl038sc3Br5pp9b8K"
     },
     {
       "added_at": "2026-02-26 23:00:34",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2026-02-26 23:00:34",
       "album": {
+        "name": "The Midnight Club GT",
+        "url": "https://open.spotify.com/album/6a2QtF55Q67Tr69arnzPQW"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "duration_ms": 286145,
+      "name": "Phonky Tribu",
+      "url": "https://open.spotify.com/track/7aIb17DMLcOhLJIc9vF6Aa"
+    },
+    {
+      "added_at": "2026-02-26 23:00:34",
+      "album": {
         "name": "Now We Are Free",
         "url": "https://open.spotify.com/album/6iSF6ZrrJkcxrmHtPOtiJt"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 200000,
       "name": "Now We Are Free",
       "url": "https://open.spotify.com/track/0spV7kRavzOYJYKzOf8zSl"
-    },
-    {
-      "added_at": "2026-02-26 23:00:34",
-      "album": {
-        "name": "The Midnight Club GT",
-        "url": "https://open.spotify.com/album/6a2QtF55Q67Tr69arnzPQW"
-      },
-      "artists": [
-        {
-          "name": "Funk Tribu",
-          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
-        }
-      ],
-      "duration_ms": 286145,
-      "name": "Phonky Tribu",
-      "url": "https://open.spotify.com/track/7aIb17DMLcOhLJIc9vF6Aa"
     },
     {
       "added_at": "2026-02-26 23:00:34",
@@ -1779,26 +1779,6 @@
     {
       "added_at": "2026-02-26 23:00:34",
       "album": {
-        "name": "DJ Wipe My Tears",
-        "url": "https://open.spotify.com/album/5C3HfAtpaFyjRxtAquVsxK"
-      },
-      "artists": [
-        {
-          "name": "SP3CTRUM",
-          "url": "https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN"
-        },
-        {
-          "name": "Molly Mae",
-          "url": "https://open.spotify.com/artist/1id88vQlxSueQIddQeiKTl"
-        }
-      ],
-      "duration_ms": 144004,
-      "name": "DJ Wipe My Tears",
-      "url": "https://open.spotify.com/track/5j7IXB0zWS9bAQ4w0ysjeT"
-    },
-    {
-      "added_at": "2026-02-26 23:00:34",
-      "album": {
         "name": "Space Train",
         "url": "https://open.spotify.com/album/6jFLFLzf3ILnZ1hUF4wGpn"
       },
@@ -1815,6 +1795,26 @@
       "duration_ms": 146080,
       "name": "Space Train",
       "url": "https://open.spotify.com/track/4eVXJrgK3AXU0IgujAgEjB"
+    },
+    {
+      "added_at": "2026-02-26 23:00:34",
+      "album": {
+        "name": "DJ Wipe My Tears",
+        "url": "https://open.spotify.com/album/5C3HfAtpaFyjRxtAquVsxK"
+      },
+      "artists": [
+        {
+          "name": "SP3CTRUM",
+          "url": "https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN"
+        },
+        {
+          "name": "Molly Mae",
+          "url": "https://open.spotify.com/artist/1id88vQlxSueQIddQeiKTl"
+        }
+      ],
+      "duration_ms": 144004,
+      "name": "DJ Wipe My Tears",
+      "url": "https://open.spotify.com/track/5j7IXB0zWS9bAQ4w0ysjeT"
     },
     {
       "added_at": "2026-02-26 23:00:34",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2026-02-26 23:00:34",
       "album": {
-        "name": "Feuerzeug & Benzin",
-        "url": "https://open.spotify.com/album/5RwdhxgvrDLHrK1EW9E5WR"
-      },
-      "artists": [
-        {
-          "name": "POLTERGST",
-          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
-        }
-      ],
-      "duration_ms": 207396,
-      "name": "Feuerzeug & Benzin",
-      "url": "https://open.spotify.com/track/6Fd652yJx5S2oQauUFHicK"
-    },
-    {
-      "added_at": "2026-02-26 23:00:34",
-      "album": {
         "name": "4 Da Ravers",
         "url": "https://open.spotify.com/album/7rFjECStShUcE157PCp9z8"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 153290,
       "name": "4 Da Ravers",
       "url": "https://open.spotify.com/track/4vgOQl4ldjh5JS4cysFHH7"
+    },
+    {
+      "added_at": "2026-02-26 23:00:34",
+      "album": {
+        "name": "Feuerzeug & Benzin",
+        "url": "https://open.spotify.com/album/5RwdhxgvrDLHrK1EW9E5WR"
+      },
+      "artists": [
+        {
+          "name": "POLTERGST",
+          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
+        }
+      ],
+      "duration_ms": 207396,
+      "name": "Feuerzeug & Benzin",
+      "url": "https://open.spotify.com/track/6Fd652yJx5S2oQauUFHicK"
     },
     {
       "added_at": "2026-02-26 23:00:34",

@@ -2,9 +2,9 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 壷阪健登
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: H ZETTRIO
 
-498 songs - 1 day 16 hr 38 min
+499 songs - 1 day 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,7 +359,7 @@
 | [T.H.E\. \- Instrumental](https://open.spotify.com/track/7urvwSOF8IWNynEpoQOSik) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [T.H.E\. \(Instrumental\)](https://open.spotify.com/album/4cNyNFudfHb9txaVpToJ3D) | 4:45 | 2023-06-27 | 2024-01-11 |
 | [Take the S Line](https://open.spotify.com/track/3h311N1RksKhDEphs0aa2B) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8), [河野祐亮](https://open.spotify.com/artist/6k7HOIGhoFAB6CHeElFDHD), [杉浦睦](https://open.spotify.com/artist/7AUgYo9pZu8ijMfRbnlo5G), [大津惇](https://open.spotify.com/artist/4uRyqAjxit8vJMVWvSM6AZ) | [Take the S Line](https://open.spotify.com/album/0l2y0Zoqz46rhbtBiPIlWS) | 6:31 | 2024-06-25 | 2024-11-24 |
 | [Tall Man](https://open.spotify.com/track/4XrCnlytKeHaoB3umqy4dQ) | [Solitary Circus](https://open.spotify.com/artist/3tC21Y0BhX2kIIhcUIvaL3) | [Tall Man](https://open.spotify.com/album/5WSZRZdRfvS1XY39DGVh68) | 3:43 | 2025-02-04 | 2025-02-19 |
-| [Terracotta](https://open.spotify.com/track/1w5v26yZEOV1hglLvElyI0) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [The Little Cycle](https://open.spotify.com/album/2ysNJMEwr7AYMXH6EynqVZ) | 4:10 | 2025-09-30 |  |
+| [Terracotta](https://open.spotify.com/track/1w5v26yZEOV1hglLvElyI0) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [The Little Cycle](https://open.spotify.com/album/2ysNJMEwr7AYMXH6EynqVZ) | 4:10 | 2025-09-30 | 2026-03-04 |
 | [Thanks For Emily](https://open.spotify.com/track/5pXuqemHKZqtHMTAbFRVFK) | [Fumika Asari](https://open.spotify.com/artist/0XhLhf8Kv1Ox6l7Y2l9gtK) | [Thanks For Emily](https://open.spotify.com/album/6SnmxEiNhgy8qvJGOsUOb8) | 5:39 | 2023-04-18 | 2023-05-17 |
 | [That's All](https://open.spotify.com/track/0Q4zuXMdTNhbALgnt0o9rN) | [矢崎恵理](https://open.spotify.com/artist/5u29jSzmiMAB7bfz8kroxU) | [That's All](https://open.spotify.com/album/2a6qGH7sR2pvBNhOnMxeJw) | 4:31 | 2024-07-09 | 2024-07-24 |
 | [The Great U's Train](https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Dear Family](https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz) | 2:12 | 2022-10-25 | 2024-12-18 |
@@ -442,6 +442,7 @@
 | [お鶴](https://open.spotify.com/track/7pXOQzssyTtQgg0JEPlJHZ) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [An Airship](https://open.spotify.com/album/6ZsY9gSuwihcsl9zGSn307) | 4:39 | 2024-12-17 |  |
 | [くちばしにチェリー](https://open.spotify.com/track/5qSOiMOIJ7e6YdRciPafef) | [EGO\-WRAPPIN’](https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX) | [ROUTE 20 HIT THE ROAD](https://open.spotify.com/album/5EQ4i1sBwc4LKmFwqQt8jT) | 4:18 | 2022-09-06 | 2024-11-13 |
 | [さくらんぼの実る頃（紅の豚）](https://open.spotify.com/track/5HaBg5dAjWykVsYAYEYKt9) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [GHIBLI meets JAZZ　～Beautiful Songs～](https://open.spotify.com/album/5MW0qpY2JOWdaDOr4vUdoP) | 4:37 | 2024-05-28 | 2024-12-18 |
+| [しびぃっスね](https://open.spotify.com/track/3uhGVjFzxMwJRtHdHASKtb) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [しびぃっスね](https://open.spotify.com/album/2F5waaCzcu5JFs6B8AhNVB) | 2:53 | 2026-03-03 |  |
 | [つつみ込むように・・・feat.木村イオリ](https://open.spotify.com/track/7IP0GZG0CNmqunn2fNduey) | [Udagawa Bekkan Band](https://open.spotify.com/artist/16zommf1ayPqidEsjaJfsh), [Iori Kimura](https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO) | [つつみ込むように・・・feat.木村イオリ](https://open.spotify.com/album/246NTHn3VjUlum8XUYKdj2) | 5:10 | 2023-05-16 | 2025-09-25 |
 | [ほとり](https://open.spotify.com/track/0pxQ9OIN7NLZiZAX2C5B7H) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [ほとり](https://open.spotify.com/album/6gpUCKIj7g6zGXlzkJcWBj) | 5:09 | 2022-09-06 | 2022-11-20 |
 | [まるくなって](https://open.spotify.com/track/4Ygoj6ygvEYM5Msadc3Ko8) | [矢崎恵理](https://open.spotify.com/artist/5u29jSzmiMAB7bfz8kroxU) | [it](https://open.spotify.com/album/1Lm5y4PE7Ld6lMHtOPfRgN) | 4:10 | 2022-09-06 | 2022-09-21 |

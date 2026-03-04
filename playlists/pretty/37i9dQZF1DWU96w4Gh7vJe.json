@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local OPM and R&B sounds.",
-  "num_followers": 578124,
+  "num_followers": 578101,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -251,26 +251,6 @@
     {
       "added_at": "2026-02-26 07:29:44",
       "album": {
-        "name": "II: The second",
-        "url": "https://open.spotify.com/album/5OWcchm5l2CZDOeJnL5oqw"
-      },
-      "artists": [
-        {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
-        },
-        {
-          "name": "Kiyo",
-          "url": "https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd"
-        }
-      ],
-      "duration_ms": 197031,
-      "name": "Di Nakakasawa",
-      "url": "https://open.spotify.com/track/60mzK1F8VTNfWGaSFprYfI"
-    },
-    {
-      "added_at": "2026-02-26 07:29:44",
-      "album": {
         "name": "Palayo Sa Mundo",
         "url": "https://open.spotify.com/album/7qVzxGZdXhtNHai0fGB9uj"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 268571,
       "name": "Palayo Sa Mundo",
       "url": "https://open.spotify.com/track/4FVZYiCvdLIX8NpcY0lzda"
+    },
+    {
+      "added_at": "2026-02-26 07:29:44",
+      "album": {
+        "name": "II: The second",
+        "url": "https://open.spotify.com/album/5OWcchm5l2CZDOeJnL5oqw"
+      },
+      "artists": [
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        },
+        {
+          "name": "Kiyo",
+          "url": "https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd"
+        }
+      ],
+      "duration_ms": 197031,
+      "name": "Di Nakakasawa",
+      "url": "https://open.spotify.com/track/60mzK1F8VTNfWGaSFprYfI"
     },
     {
       "added_at": "2026-02-26 07:29:44",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-02-26 07:29:44",
       "album": {
-        "name": "Miss Miss",
-        "url": "https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o"
-      },
-      "artists": [
-        {
-          "name": "Rob Deniel",
-          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
-        }
-      ],
-      "duration_ms": 265677,
-      "name": "Miss Miss",
-      "url": "https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t"
-    },
-    {
-      "added_at": "2026-02-26 07:29:44",
-      "album": {
         "name": "Destination XYZ",
         "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
       },
@@ -447,18 +431,18 @@
     {
       "added_at": "2026-02-26 07:29:44",
       "album": {
-        "name": "Buwan",
-        "url": "https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1"
+        "name": "Miss Miss",
+        "url": "https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o"
       },
       "artists": [
         {
-          "name": "juan karlos",
-          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
         }
       ],
-      "duration_ms": 343446,
-      "name": "Buwan",
-      "url": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2"
+      "duration_ms": 265677,
+      "name": "Miss Miss",
+      "url": "https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t"
     },
     {
       "added_at": "2026-02-26 07:29:44",
@@ -475,6 +459,22 @@
       "duration_ms": 252500,
       "name": "Patutunguhan",
       "url": "https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc"
+    },
+    {
+      "added_at": "2026-02-26 07:29:44",
+      "album": {
+        "name": "Buwan",
+        "url": "https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1"
+      },
+      "artists": [
+        {
+          "name": "juan karlos",
+          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
+        }
+      ],
+      "duration_ms": 343446,
+      "name": "Buwan",
+      "url": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2"
     },
     {
       "added_at": "2026-02-26 07:29:44",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-02-26 07:29:44",
       "album": {
+        "name": "Ex",
+        "url": "https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA"
+      },
+      "artists": [
+        {
+          "name": "Callalily",
+          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
+        }
+      ],
+      "duration_ms": 279259,
+      "name": "Ex",
+      "url": "https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo"
+    },
+    {
+      "added_at": "2026-02-26 07:29:44",
+      "album": {
         "name": "The Platinum Collection",
         "url": "https://open.spotify.com/album/1ybbXhOGoaqW8qn3QqCcSz"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 277145,
       "name": "A Little Bit",
       "url": "https://open.spotify.com/track/4Mk2hfT0oXkuwX8bd5jln0"
-    },
-    {
-      "added_at": "2026-02-26 07:29:44",
-      "album": {
-        "name": "Ex",
-        "url": "https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA"
-      },
-      "artists": [
-        {
-          "name": "Callalily",
-          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
-        }
-      ],
-      "duration_ms": 279259,
-      "name": "Ex",
-      "url": "https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo"
     },
     {
       "added_at": "2026-02-26 07:29:44",

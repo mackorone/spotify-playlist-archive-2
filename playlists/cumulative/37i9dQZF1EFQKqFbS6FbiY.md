@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-738 songs - 1 day 11 hr 57 min
+738 songs - 1 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -624,9 +624,9 @@
 | [Te Amo no Meio](https://open.spotify.com/track/7wFkSog95JhOi0oPQeADBC) | [Bruna Reis](https://open.spotify.com/artist/0el1rv73tMYaLIkjGPnXwO) | [Te Amo no Meio](https://open.spotify.com/album/3ibaj7AkXNyUBlJ0ceACwo) | 3:06 | 2024-02-04 |  |
 | [Te Amo, Carai \- Ao Vivo](https://open.spotify.com/track/1hIJvMxQSOWolUSwWixYpx) | [Jordana & Faust](https://open.spotify.com/artist/7foZfbn8rwwXRPCMhkfh0n) | [Te Amo, Carai \(Ao Vivo\)](https://open.spotify.com/album/7KIAS03F7wGlVkg3XoXSfG) | 3:03 | 2023-12-30 |  |
 | [Te Livro de Graça](https://open.spotify.com/track/28LthDwd1AmJVu2zvgN6k2) | [Danilo Bottrel](https://open.spotify.com/artist/3dbCf6Y9R7lzKi3B2jfv9I) | [Te Livro de Graça](https://open.spotify.com/album/68ot0BCy82kKZfOw1meTre) | 2:58 | 2023-12-30 |  |
-| [Te troquei pelos bares \- Ao Vivo](https://open.spotify.com/track/1T8hn0LOvX5l8D3wFwFT3X) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Foi Deus \(Ao Vivo\)](https://open.spotify.com/album/1tDSUVPzasnw5EloTxMdwf) | 3:26 | 2024-03-26 |  |
+| [Te troquei pelos bares \- Ao Vivo](https://open.spotify.com/track/1T8hn0LOvX5l8D3wFwFT3X) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Foi Deus \(Ao Vivo\)](https://open.spotify.com/album/1tDSUVPzasnw5EloTxMdwf) | 3:26 | 2024-03-26 | 2026-03-04 |
 | [Te troquei pelos bares \- Ao Vivo](https://open.spotify.com/track/2PoCRB1yUmiZ01klUbtCSR) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Te troquei pelos bares \(Ao Vivo\)](https://open.spotify.com/album/0N8lXLhyqUrv5JNiVmCg0T) | 3:26 | 2025-03-14 | 2026-02-14 |
-| [Te Troquei pelos Bares \- Ao Vivo](https://open.spotify.com/track/11Iy6KxbkrapoeqUfqVG30) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Foi Deus, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/5TCltpfbZMF8xvV5K940IB) | 4:28 | 2026-02-04 | 2026-02-12 |
+| [Te Troquei pelos Bares \- Ao Vivo](https://open.spotify.com/track/11Iy6KxbkrapoeqUfqVG30) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Foi Deus, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/5TCltpfbZMF8xvV5K940IB) | 3:27 | 2026-02-04 |  |
 | [Telefone Desligado](https://open.spotify.com/track/6SVIEOg8UFnXrqQlElyabh) | [Hugo Matta](https://open.spotify.com/artist/6Olch7A7o6ihZVv5BgGJGj) | [Trenzão](https://open.spotify.com/album/0nsEcXARPqLOHNYFY3oyx7) | 2:43 | 2023-12-30 |  |
 | [Tentação \- Ao Vivo](https://open.spotify.com/track/0xM3NVDvTjl37B6MFMgrC9) | [Zé Luccas](https://open.spotify.com/artist/3xJU4ACS8oS5o8nbTMeiWo), [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Tentação \(Ao Vivo\)](https://open.spotify.com/album/6YBBlKf3WC6Lku4jFzx58g) | 2:41 | 2025-05-31 |  |
 | [Tercinho](https://open.spotify.com/track/09lpc8MwMNJoNKH8mvvnTM) | [Pepê Figueiredo](https://open.spotify.com/artist/1mjXgySVuyBfkqyIjkVkZW), [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Tercinho](https://open.spotify.com/album/3KuEzSwSRDPNqad5lIhExo) | 2:54 | 2025-05-31 |  |

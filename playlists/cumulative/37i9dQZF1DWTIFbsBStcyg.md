@@ -4,7 +4,7 @@
 
 > Music From "BEASTARS"! 主題歌、挿入歌、サントラで辿る「BEASTARS」の世界! \(C\) 板垣巴留（秋田書店）／BEASTARS製作委員
 
-117 songs - 4 hr 25 min
+118 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [The garden of temptation](https://open.spotify.com/track/4BlHrubN1JZnqQbrZD2r0z) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック](https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH) | 1:44 | 2022-01-17 | 2023-03-15 |
 | [The keeper](https://open.spotify.com/track/2gTOmdS640WWVGr5fSNVjF) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック](https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH) | 1:14 | 2022-01-17 |  |
 | [The limits](https://open.spotify.com/track/4ezsZbcT1sZ465ZIIePduO) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック](https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH) | 3:01 | 2022-01-17 | 2023-03-15 |
+| [Tiny Light](https://open.spotify.com/track/0r4WKpapZS9Fit7iJr3XM1) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Tiny Light](https://open.spotify.com/album/29itUVO9h0qMhglTVctEQD) | 3:27 | 2026-03-03 |  |
 | [Two animals](https://open.spotify.com/track/7sJ3ILxG1Sswbncxw2Y3uK) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック](https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH) | 1:19 | 2022-01-17 | 2023-03-15 |
 | [We are chicken](https://open.spotify.com/track/7HFXnI5SKxcqpvKgP0Qp62) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック](https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH) | 1:31 | 2022-01-17 |  |
 | [Whereabouts of truth](https://open.spotify.com/track/1wDgmi2B5aztrN9aja8y5N) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック](https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH) | 1:16 | 2022-01-17 | 2023-03-15 |

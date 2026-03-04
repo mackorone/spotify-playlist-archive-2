@@ -1,6 +1,6 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1295901,
+  "num_followers": 1295914,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
@@ -327,26 +327,6 @@
     {
       "added_at": "2026-02-20 15:09:24",
       "album": {
-        "name": "Sunset In The Blue (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7vSwamY5i4hhnRSnpyLsAx"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        },
-        {
-          "name": "Ibrahim Maalouf",
-          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
-        }
-      ],
-      "duration_ms": 325659,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/5Kl1fxp9mTCwtqDaxfDV7i"
-    },
-    {
-      "added_at": "2026-02-20 15:09:24",
-      "album": {
         "name": "Mean To Me",
         "url": "https://open.spotify.com/album/5tlr80pnA12qL8t47TNUbK"
       },
@@ -367,18 +347,22 @@
     {
       "added_at": "2026-02-20 15:09:24",
       "album": {
-        "name": "Move On: A Sondheim Adventure",
-        "url": "https://open.spotify.com/album/21rqFgEooG35NUhxxwOqTs"
+        "name": "Sunset In The Blue (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7vSwamY5i4hhnRSnpyLsAx"
       },
       "artists": [
         {
-          "name": "Cyrille Aimee",
-          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        },
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
         }
       ],
-      "duration_ms": 171949,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/226aNk2hiOlW3joJHIvSVe"
+      "duration_ms": 325659,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/5Kl1fxp9mTCwtqDaxfDV7i"
     },
     {
       "added_at": "2026-02-20 15:09:24",
@@ -395,6 +379,22 @@
       "duration_ms": 193665,
       "name": "(I Love You) For Sentimental Reasons",
       "url": "https://open.spotify.com/track/3flk0bEkjOaWSxFQSsbJ9K"
+    },
+    {
+      "added_at": "2026-02-20 15:09:24",
+      "album": {
+        "name": "Move On: A Sondheim Adventure",
+        "url": "https://open.spotify.com/album/21rqFgEooG35NUhxxwOqTs"
+      },
+      "artists": [
+        {
+          "name": "Cyrille Aimee",
+          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
+        }
+      ],
+      "duration_ms": 171949,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/226aNk2hiOlW3joJHIvSVe"
     },
     {
       "added_at": "2026-02-20 15:09:24",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-02-20 15:09:24",
       "album": {
+        "name": "First Conversation",
+        "url": "https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1"
+      },
+      "artists": [
+        {
+          "name": "C\u00e6cilie Norby",
+          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
+        }
+      ],
+      "duration_ms": 271773,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
+    },
+    {
+      "added_at": "2026-02-20 15:09:24",
+      "album": {
         "name": "An Evening with/ Andy James & John Patitucci",
         "url": "https://open.spotify.com/album/3wmErkWqIMYJiQhplNUPhl"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 263282,
       "name": "Autumn In New York (feat. Chris Potter, Bill Cunliffe & Vinnie Colaiuta)",
       "url": "https://open.spotify.com/track/6DwflQH9R5Y4hpJrGPeNsC"
-    },
-    {
-      "added_at": "2026-02-20 15:09:24",
-      "album": {
-        "name": "First Conversation",
-        "url": "https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1"
-      },
-      "artists": [
-        {
-          "name": "C\u00e6cilie Norby",
-          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
-        }
-      ],
-      "duration_ms": 271773,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
     },
     {
       "added_at": "2026-02-20 15:09:24",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-02-20 15:09:24",
       "album": {
+        "name": "Wild Woman Tells All",
+        "url": "https://open.spotify.com/album/2fvQLg0izPKs5QeweZskcT"
+      },
+      "artists": [
+        {
+          "name": "Kate Kortum",
+          "url": "https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D"
+        }
+      ],
+      "duration_ms": 344800,
+      "name": "You Are There (Orchestral Version)",
+      "url": "https://open.spotify.com/track/4pwPTfmcuwKetSybXcQl9i"
+    },
+    {
+      "added_at": "2026-02-20 15:09:24",
+      "album": {
         "name": "Waiting For Dawn",
         "url": "https://open.spotify.com/album/7BPR07qyqeuxBo715ON7Jd"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 347493,
       "name": "Hours Of Ours",
       "url": "https://open.spotify.com/track/3noDxclU0hTMOCZJJu6vi6"
-    },
-    {
-      "added_at": "2026-02-20 15:09:24",
-      "album": {
-        "name": "Wild Woman Tells All",
-        "url": "https://open.spotify.com/album/2fvQLg0izPKs5QeweZskcT"
-      },
-      "artists": [
-        {
-          "name": "Kate Kortum",
-          "url": "https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D"
-        }
-      ],
-      "duration_ms": 344800,
-      "name": "You Are There (Orchestral Version)",
-      "url": "https://open.spotify.com/track/4pwPTfmcuwKetSybXcQl9i"
     },
     {
       "added_at": "2026-02-20 15:09:24",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2026-02-20 15:09:24",
       "album": {
-        "name": "Sweet Pumpkin",
-        "url": "https://open.spotify.com/album/2bBo9j8YRj5ex1S0iTT9aP"
-      },
-      "artists": [
-        {
-          "name": "Naama",
-          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
-        },
-        {
-          "name": "Dave Baron",
-          "url": "https://open.spotify.com/artist/37Wh12iAcmGIAWZv0rQyMB"
-        }
-      ],
-      "duration_ms": 252173,
-      "name": "Sweet Pumpkin",
-      "url": "https://open.spotify.com/track/5WQoFUcnsT6eulTlFkBpSN"
-    },
-    {
-      "added_at": "2026-02-20 15:09:24",
-      "album": {
         "name": "Stop Searching for Love (feat. Kate Ceberano)",
         "url": "https://open.spotify.com/album/6s063r0rmt7nFgsyobzQvr"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 306960,
       "name": "Stop Searching for Love (feat. Kate Ceberano)",
       "url": "https://open.spotify.com/track/7yi1OPcs7d2nfIQVPYAkky"
+    },
+    {
+      "added_at": "2026-02-20 15:09:24",
+      "album": {
+        "name": "Sweet Pumpkin",
+        "url": "https://open.spotify.com/album/2bBo9j8YRj5ex1S0iTT9aP"
+      },
+      "artists": [
+        {
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
+        },
+        {
+          "name": "Dave Baron",
+          "url": "https://open.spotify.com/artist/37Wh12iAcmGIAWZv0rQyMB"
+        }
+      ],
+      "duration_ms": 252173,
+      "name": "Sweet Pumpkin",
+      "url": "https://open.spotify.com/track/5WQoFUcnsT6eulTlFkBpSN"
     },
     {
       "added_at": "2026-02-20 15:09:24",
@@ -1399,18 +1399,22 @@
     {
       "added_at": "2026-02-20 15:09:24",
       "album": {
-        "name": "Fruit",
-        "url": "https://open.spotify.com/album/6Fa65VENHtOlviTo1GIQY1"
+        "name": "Li'l Darlin",
+        "url": "https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9"
       },
       "artists": [
         {
-          "name": "Marie Bergman",
-          "url": "https://open.spotify.com/artist/1EF9hLul0ZZcbh7dmXWF99"
+          "name": "Neal Hefti",
+          "url": "https://open.spotify.com/artist/3IjVHk8Mo8GBMKyHnwmth8"
+        },
+        {
+          "name": "Monica Borrfors",
+          "url": "https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb"
         }
       ],
-      "duration_ms": 262920,
-      "name": "It Amazes Me",
-      "url": "https://open.spotify.com/track/7DxwotLgkVN9zOcZ58JFfw"
+      "duration_ms": 195706,
+      "name": "Li'l Darlin",
+      "url": "https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU"
     },
     {
       "added_at": "2026-02-20 15:09:24",
@@ -1431,22 +1435,18 @@
     {
       "added_at": "2026-02-20 15:09:24",
       "album": {
-        "name": "Li'l Darlin",
-        "url": "https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9"
+        "name": "Fruit",
+        "url": "https://open.spotify.com/album/6Fa65VENHtOlviTo1GIQY1"
       },
       "artists": [
         {
-          "name": "Neal Hefti",
-          "url": "https://open.spotify.com/artist/3IjVHk8Mo8GBMKyHnwmth8"
-        },
-        {
-          "name": "Monica Borrfors",
-          "url": "https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb"
+          "name": "Marie Bergman",
+          "url": "https://open.spotify.com/artist/1EF9hLul0ZZcbh7dmXWF99"
         }
       ],
-      "duration_ms": 195706,
-      "name": "Li'l Darlin",
-      "url": "https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU"
+      "duration_ms": 262920,
+      "name": "It Amazes Me",
+      "url": "https://open.spotify.com/track/7DxwotLgkVN9zOcZ58JFfw"
     },
     {
       "added_at": "2026-02-20 15:09:24",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-02-20 15:09:24",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/0AYOXJV9OzRPDNhWnrMXeL"
-      },
-      "artists": [
-        {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
-        }
-      ],
-      "duration_ms": 229365,
-      "name": "Bewitched",
-      "url": "https://open.spotify.com/track/2ofpYfMA5QKWkyuZmSId8R"
-    },
-    {
-      "added_at": "2026-02-20 15:09:24",
-      "album": {
         "name": "Moon River",
         "url": "https://open.spotify.com/album/74jc00Z1FUzeVzXzu6CvUa"
       },
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2026-02-20 15:09:24",
       "album": {
-        "name": "What Love Is",
-        "url": "https://open.spotify.com/album/7mNaZiHXdEWQV9CJ2ha63o"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/0AYOXJV9OzRPDNhWnrMXeL"
       },
       "artists": [
         {
-          "name": "Erin Boheme",
-          "url": "https://open.spotify.com/artist/2YtGyXqMVXz8kqhU9DRfGw"
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
         }
       ],
-      "duration_ms": 279346,
-      "name": "Let's Make The Most Of A Beautiful Thing",
-      "url": "https://open.spotify.com/track/7zrgXzhF8eSA1O9TvYippG"
+      "duration_ms": 229365,
+      "name": "Bewitched",
+      "url": "https://open.spotify.com/track/2ofpYfMA5QKWkyuZmSId8R"
     },
     {
       "added_at": "2026-02-20 15:09:24",
@@ -1631,6 +1615,22 @@
     {
       "added_at": "2026-02-20 15:09:24",
       "album": {
+        "name": "What Love Is",
+        "url": "https://open.spotify.com/album/7mNaZiHXdEWQV9CJ2ha63o"
+      },
+      "artists": [
+        {
+          "name": "Erin Boheme",
+          "url": "https://open.spotify.com/artist/2YtGyXqMVXz8kqhU9DRfGw"
+        }
+      ],
+      "duration_ms": 279346,
+      "name": "Let's Make The Most Of A Beautiful Thing",
+      "url": "https://open.spotify.com/track/7zrgXzhF8eSA1O9TvYippG"
+    },
+    {
+      "added_at": "2026-02-20 15:09:24",
+      "album": {
         "name": "Unforgettable: With Love",
         "url": "https://open.spotify.com/album/78qajwwkI8eOt1DrnUOtuL"
       },
@@ -1643,22 +1643,6 @@
       "duration_ms": 209960,
       "name": "Our Love Is Here To Stay",
       "url": "https://open.spotify.com/track/1BuHbtYFgSaV99PFPBZEkW"
-    },
-    {
-      "added_at": "2026-02-20 15:09:24",
-      "album": {
-        "name": "Memories of You: A Tribute to Benny Goodman",
-        "url": "https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9"
-      },
-      "artists": [
-        {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
-        }
-      ],
-      "duration_ms": 290653,
-      "name": "Memories of You",
-      "url": "https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r"
     },
     {
       "added_at": "2026-02-20 15:09:24",
@@ -1679,18 +1663,18 @@
     {
       "added_at": "2026-02-20 15:09:24",
       "album": {
-        "name": "Homefree",
-        "url": "https://open.spotify.com/album/6COf6f8aKjM6GiBhi1LH5O"
+        "name": "Memories of You: A Tribute to Benny Goodman",
+        "url": "https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9"
       },
       "artists": [
         {
-          "name": "Nnenna Freelon",
-          "url": "https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS"
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
         }
       ],
-      "duration_ms": 361253,
-      "name": "The Very Thought Of You",
-      "url": "https://open.spotify.com/track/0pc5TOv8jxVxI57rGvlqay"
+      "duration_ms": 290653,
+      "name": "Memories of You",
+      "url": "https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r"
     },
     {
       "added_at": "2026-02-20 15:09:24",
@@ -1707,6 +1691,22 @@
       "duration_ms": 206000,
       "name": "In the Wee Small Hours of the Morning",
       "url": "https://open.spotify.com/track/3WKcw4BjJjHxQlXXc9Izgn"
+    },
+    {
+      "added_at": "2026-02-20 15:09:24",
+      "album": {
+        "name": "Homefree",
+        "url": "https://open.spotify.com/album/6COf6f8aKjM6GiBhi1LH5O"
+      },
+      "artists": [
+        {
+          "name": "Nnenna Freelon",
+          "url": "https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS"
+        }
+      ],
+      "duration_ms": 361253,
+      "name": "The Very Thought Of You",
+      "url": "https://open.spotify.com/track/0pc5TOv8jxVxI57rGvlqay"
     },
     {
       "added_at": "2026-02-20 15:09:24",

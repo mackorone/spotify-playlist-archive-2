@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Ariel Imani \ud83d\udc9a",
-  "num_followers": 1047249,
+  "num_followers": 1047138,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
-        "name": "BEAUTIFUL MADNESS",
-        "url": "https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv"
-      },
-      "artists": [
-        {
-          "name": "Agnes",
-          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
-        }
-      ],
-      "duration_ms": 213880,
-      "name": "LOVESONGS",
-      "url": "https://open.spotify.com/track/2VxbZ0V7UK4tR17FVDwIPR"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
         "name": "I Love My Computer",
         "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 182690,
       "name": "All I Am",
       "url": "https://open.spotify.com/track/3CbF4eluvVhJ9v0axMj2Rk"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
+        "name": "BEAUTIFUL MADNESS",
+        "url": "https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv"
+      },
+      "artists": [
+        {
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
+        }
+      ],
+      "duration_ms": 213880,
+      "name": "LOVESONGS",
+      "url": "https://open.spotify.com/track/2VxbZ0V7UK4tR17FVDwIPR"
     },
     {
       "added_at": "2026-02-18 05:00:29",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
-        "name": "I Need To Sleep",
-        "url": "https://open.spotify.com/album/2BlLzVPNvLCgGl1bxfOJUL"
-      },
-      "artists": [
-        {
-          "name": "Elise Elvira",
-          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
-        }
-      ],
-      "duration_ms": 179731,
-      "name": "I Need To Sleep",
-      "url": "https://open.spotify.com/track/0EOK77QqaKReUNZntadFlK"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
         "name": "Prayer",
         "url": "https://open.spotify.com/album/38U6xdDl2kTkVLWcptlXGb"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 326068,
       "name": "Prayer",
       "url": "https://open.spotify.com/track/4SSzmLUKeG9ogOJr9B0kU7"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
+        "name": "I Need To Sleep",
+        "url": "https://open.spotify.com/album/2BlLzVPNvLCgGl1bxfOJUL"
+      },
+      "artists": [
+        {
+          "name": "Elise Elvira",
+          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
+        }
+      ],
+      "duration_ms": 179731,
+      "name": "I Need To Sleep",
+      "url": "https://open.spotify.com/track/0EOK77QqaKReUNZntadFlK"
     },
     {
       "added_at": "2026-02-18 05:00:29",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
-        "name": "I OWE IT TO YOU",
-        "url": "https://open.spotify.com/album/6O622GKMA9zpqTLxQ7vyZt"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 190955,
-      "name": "I OWE IT TO YOU",
-      "url": "https://open.spotify.com/track/31NCU7wSIerIAlbpdNBFI7"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
         "name": "\u0424\u0440\u0430\u043d\u0441\u0443\u0430",
         "url": "https://open.spotify.com/album/3tuTCr2wT7xKAFjUhlYLQY"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 238052,
       "name": "\u0424\u0440\u0430\u043d\u0441\u0443\u0430",
       "url": "https://open.spotify.com/track/5nxvhdJsVBsmNm7UIWLF4w"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
+        "name": "I OWE IT TO YOU",
+        "url": "https://open.spotify.com/album/6O622GKMA9zpqTLxQ7vyZt"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 190955,
+      "name": "I OWE IT TO YOU",
+      "url": "https://open.spotify.com/track/31NCU7wSIerIAlbpdNBFI7"
     },
     {
       "added_at": "2026-02-18 05:00:29",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
-        "name": "Nessuna",
-        "url": "https://open.spotify.com/album/3aCQCerumFp8XZKbGD6jXM"
-      },
-      "artists": [
-        {
-          "name": "Altea",
-          "url": "https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws"
-        }
-      ],
-      "duration_ms": 134924,
-      "name": "mia",
-      "url": "https://open.spotify.com/track/2PP6LXaNeA4hTWxq2FVOnr"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
         "name": "She\u0e1b\u0e49\u0e30",
         "url": "https://open.spotify.com/album/2NdahWtun1Oj0wTAWrdYIX"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 233823,
       "name": "She\u0e1b\u0e49\u0e30",
       "url": "https://open.spotify.com/track/2BWDtrQ3RwiNDc1tsxkv3r"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
+        "name": "Nessuna",
+        "url": "https://open.spotify.com/album/3aCQCerumFp8XZKbGD6jXM"
+      },
+      "artists": [
+        {
+          "name": "Altea",
+          "url": "https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws"
+        }
+      ],
+      "duration_ms": 134924,
+      "name": "mia",
+      "url": "https://open.spotify.com/track/2PP6LXaNeA4hTWxq2FVOnr"
     },
     {
       "added_at": "2026-02-18 05:00:29",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
-        "name": "\u0e01\u0e25\u0e32\u0e22\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01 (love song)",
-        "url": "https://open.spotify.com/album/4tYnacV4JWR9hFTDibUExp"
-      },
-      "artists": [
-        {
-          "name": "paiiinntt",
-          "url": "https://open.spotify.com/artist/5szfzkgDhJrqaW6Y0TDA8E"
-        }
-      ],
-      "duration_ms": 294822,
-      "name": "\u0e01\u0e25\u0e32\u0e22\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01 (love song)",
-      "url": "https://open.spotify.com/track/0Sy0QRE8xBKn8GCfzjwFWZ"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
         "name": "Chronosick",
         "url": "https://open.spotify.com/album/758TBtA1Agn07O0qNfmXia"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
-        "name": "SuperDrug",
-        "url": "https://open.spotify.com/album/3y7FO9rrvqLJaO1PHaaA9d"
+        "name": "\u0e01\u0e25\u0e32\u0e22\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01 (love song)",
+        "url": "https://open.spotify.com/album/4tYnacV4JWR9hFTDibUExp"
       },
       "artists": [
         {
-          "name": "Girl Group",
-          "url": "https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4"
+          "name": "paiiinntt",
+          "url": "https://open.spotify.com/artist/5szfzkgDhJrqaW6Y0TDA8E"
         }
       ],
-      "duration_ms": 186106,
-      "name": "SuperDrug",
-      "url": "https://open.spotify.com/track/5Bb8e5gqXUvfoZzilDIQqO"
+      "duration_ms": 294822,
+      "name": "\u0e01\u0e25\u0e32\u0e22\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01 (love song)",
+      "url": "https://open.spotify.com/track/0Sy0QRE8xBKn8GCfzjwFWZ"
     },
     {
       "added_at": "2026-02-18 05:00:29",
@@ -1083,6 +1067,22 @@
       "duration_ms": 186615,
       "name": "Let Me In",
       "url": "https://open.spotify.com/track/3VMIBXpCHzgQY0jAsHz2HW"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
+        "name": "SuperDrug",
+        "url": "https://open.spotify.com/album/3y7FO9rrvqLJaO1PHaaA9d"
+      },
+      "artists": [
+        {
+          "name": "Girl Group",
+          "url": "https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4"
+        }
+      ],
+      "duration_ms": 186106,
+      "name": "SuperDrug",
+      "url": "https://open.spotify.com/track/5Bb8e5gqXUvfoZzilDIQqO"
     },
     {
       "added_at": "2026-02-18 05:00:29",

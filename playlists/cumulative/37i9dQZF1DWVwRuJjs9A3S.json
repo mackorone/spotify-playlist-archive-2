@@ -18793,6 +18793,28 @@
     },
     {
       "album": {
+        "name": "Things",
+        "url": "https://open.spotify.com/album/7kxSE9zfvdC0vs9kwF3Z8W"
+      },
+      "artists": [
+        {
+          "name": "Farveblind",
+          "url": "https://open.spotify.com/artist/5AlPqg8caYE9Dc7r9pCN3g"
+        },
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159506,
+      "name": "Things",
+      "url": "https://open.spotify.com/track/5ntTeuCMmKeTzjLk5f4hK3"
+    },
+    {
+      "album": {
         "name": "SABLE,",
         "url": "https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm"
       },

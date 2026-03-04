@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Andr\u00e9 e Felipe",
-  "num_followers": 109974,
+  "num_followers": 110001,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -451,26 +451,6 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
-        "name": "Voc\u00ea Vai Cantar",
-        "url": "https://open.spotify.com/album/6rBf8djwCqkcJsHC5iQoua"
-      },
-      "artists": [
-        {
-          "name": "Samuel Vieira",
-          "url": "https://open.spotify.com/artist/2DIcmBR96QHvBlN7eaE1Tu"
-        },
-        {
-          "name": "Gretter Records",
-          "url": "https://open.spotify.com/artist/3Z2Z6CsDAshW1MA64J0xdP"
-        }
-      ],
-      "duration_ms": 310143,
-      "name": "Voc\u00ea Vai Cantar",
-      "url": "https://open.spotify.com/track/78QsKr83Ad4vEF8SCa9bSo"
-    },
-    {
-      "added_at": "2026-02-27 03:01:13",
-      "album": {
         "name": "Um Lugar \u00e0 Mesa",
         "url": "https://open.spotify.com/album/0kf7qdQiYbMYscCt17cBW4"
       },
@@ -491,22 +471,38 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
-        "name": "Louvor Ra\u00edz",
-        "url": "https://open.spotify.com/album/2Vu9z0dwmSBVKmXB8mOXPF"
+        "name": "Voc\u00ea Vai Cantar",
+        "url": "https://open.spotify.com/album/6rBf8djwCqkcJsHC5iQoua"
       },
       "artists": [
         {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+          "name": "Samuel Vieira",
+          "url": "https://open.spotify.com/artist/2DIcmBR96QHvBlN7eaE1Tu"
         },
         {
-          "name": "Maximus Records",
-          "url": "https://open.spotify.com/artist/1bFepcvSYELb5Oz656krWR"
+          "name": "Gretter Records",
+          "url": "https://open.spotify.com/artist/3Z2Z6CsDAshW1MA64J0xdP"
         }
       ],
-      "duration_ms": 254000,
-      "name": "Oliveira Verdadeira",
-      "url": "https://open.spotify.com/track/7u0d3etlKZIj2dGvXvJfXq"
+      "duration_ms": 310143,
+      "name": "Voc\u00ea Vai Cantar",
+      "url": "https://open.spotify.com/track/78QsKr83Ad4vEF8SCa9bSo"
+    },
+    {
+      "added_at": "2026-02-27 03:01:13",
+      "album": {
+        "name": "Como eu Te Amo Deus",
+        "url": "https://open.spotify.com/album/1hZif2WY3WGbnarLgKUjbJ"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        }
+      ],
+      "duration_ms": 186118,
+      "name": "Como eu Te Amo Deus",
+      "url": "https://open.spotify.com/track/1unkmTfcblkjHWIhZLSFhE"
     },
     {
       "added_at": "2026-02-27 03:01:13",
@@ -523,6 +519,26 @@
       "duration_ms": 256450,
       "name": "A Resposta \u00c9 Deus",
       "url": "https://open.spotify.com/track/3wYqm1QcLqtgxQes7KxvE2"
+    },
+    {
+      "added_at": "2026-02-27 03:01:13",
+      "album": {
+        "name": "Louvor Ra\u00edz",
+        "url": "https://open.spotify.com/album/2Vu9z0dwmSBVKmXB8mOXPF"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        },
+        {
+          "name": "Maximus Records",
+          "url": "https://open.spotify.com/artist/1bFepcvSYELb5Oz656krWR"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Oliveira Verdadeira",
+      "url": "https://open.spotify.com/track/7u0d3etlKZIj2dGvXvJfXq"
     },
     {
       "added_at": "2026-02-27 03:01:13",
@@ -603,22 +619,6 @@
       "duration_ms": 215099,
       "name": "Mais que Vencedor (feat. Carlos Henrique)",
       "url": "https://open.spotify.com/track/1q3rYJMoGc0FDhdyPcTnBw"
-    },
-    {
-      "added_at": "2026-02-27 03:01:13",
-      "album": {
-        "name": "Como eu Te Amo Deus",
-        "url": "https://open.spotify.com/album/1hZif2WY3WGbnarLgKUjbJ"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        }
-      ],
-      "duration_ms": 186118,
-      "name": "Como eu Te Amo Deus",
-      "url": "https://open.spotify.com/track/1unkmTfcblkjHWIhZLSFhE"
     },
     {
       "added_at": "2026-02-27 03:01:13",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from  Msaki & Jesse Clegg, Nomfundo Moh, LaCabra, MOLIY and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,861 likes - 91 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,877 likes - 91 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

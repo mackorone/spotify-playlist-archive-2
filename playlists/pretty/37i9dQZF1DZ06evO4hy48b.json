@@ -1,12 +1,12 @@
 {
   "description": "This is Aitana. The essential tracks, all in one playlist.",
-  "num_followers": 233258,
+  "num_followers": 233335,
   "original_name": "This Is Aitana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaOBgAAAAAA6ZZeazrP86jP2vYnVAVAS",
+  "snapshot_id": "aaTTAAAAAAAy57YvDPZBNnw0pH57wp0f",
   "tracks": [
     {
       "added_at": null,
@@ -103,8 +103,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Akureyri",
-        "url": "https://open.spotify.com/album/4y9gHmuFooWHYOnDmSXcjN"
+        "name": "M\u00e1s De Lo Que Apost\u00e9",
+        "url": "https://open.spotify.com/album/4DAiwXZWP397meKmAG7xaS"
       },
       "artists": [
         {
@@ -112,13 +112,13 @@
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         },
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         }
       ],
-      "duration_ms": 194400,
-      "name": "Akureyri",
-      "url": "https://open.spotify.com/track/5ELjObPQmX3gG06NukBFzr"
+      "duration_ms": 205031,
+      "name": "M\u00e1s De Lo Que Apost\u00e9",
+      "url": "https://open.spotify.com/track/00QBHaaP4KUcjlmxWriMbC"
     },
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1s De Lo Que Apost\u00e9",
-        "url": "https://open.spotify.com/album/4DAiwXZWP397meKmAG7xaS"
+        "name": "Akureyri",
+        "url": "https://open.spotify.com/album/4y9gHmuFooWHYOnDmSXcjN"
       },
       "artists": [
         {
@@ -148,13 +148,13 @@
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         },
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 205031,
-      "name": "M\u00e1s De Lo Que Apost\u00e9",
-      "url": "https://open.spotify.com/track/00QBHaaP4KUcjlmxWriMbC"
+      "duration_ms": 194400,
+      "name": "Akureyri",
+      "url": "https://open.spotify.com/track/5ELjObPQmX3gG06NukBFzr"
     },
     {
       "added_at": null,

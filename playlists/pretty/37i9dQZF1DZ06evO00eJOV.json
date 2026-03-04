@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaOBgAAAAAC3YtzlgZqFTNodVBbFy+jG",
+  "snapshot_id": "aaTTAAAAAADIpuQqRNWgeZWSh9oPTTzA",
   "tracks": [
     {
       "added_at": null,
@@ -547,6 +547,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vuli Ndlela",
+        "url": "https://open.spotify.com/album/0PoVjEm9WTgOXjlUE0wMrA"
+      },
+      "artists": [
+        {
+          "name": "MIRO",
+          "url": "https://open.spotify.com/artist/5g1ur5g9ACTQ0BGZKioztO"
+        },
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 203874,
+      "name": "Vuli Ndlela",
+      "url": "https://open.spotify.com/track/5I4rknDPn9lYRACi80RbbQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Piano Republik",
         "url": "https://open.spotify.com/album/4EPyqparNEvWk2gbHgXPzO"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 236379,
       "name": "Mamgobhozi",
       "url": "https://open.spotify.com/track/4SJW5gKYzROFzzgsJlVFov"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vuli Ndlela",
-        "url": "https://open.spotify.com/album/0PoVjEm9WTgOXjlUE0wMrA"
-      },
-      "artists": [
-        {
-          "name": "MIRO",
-          "url": "https://open.spotify.com/artist/5g1ur5g9ACTQ0BGZKioztO"
-        },
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 203874,
-      "name": "Vuli Ndlela",
-      "url": "https://open.spotify.com/track/5I4rknDPn9lYRACi80RbbQ"
     },
     {
       "added_at": null,

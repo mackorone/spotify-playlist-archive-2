@@ -4,7 +4,7 @@
 
 > darf man so ?? \(in den tag starten, kurz leben leben, bisschen pause machen\)
 
-305 songs - 15 hr 30 min
+306 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Heather On The Hill](https://open.spotify.com/track/7N3emAP0mWt2OYqxs0XYpc) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Heather On The Hill](https://open.spotify.com/album/2beYnTms954gTl7cYEupjN) | 2:19 | 2024-06-20 | 2024-09-07 |
 | [Heavy Rain](https://open.spotify.com/track/1fDUCcQeisfsqr8gX0AI1W) | [Malik Harris](https://open.spotify.com/artist/7B6Uk58O2DVfg1xZPKEp4n) | [Heavy Rain](https://open.spotify.com/album/2KoWFCEVELO7bTiEx2fvNC) | 2:42 | 2024-12-18 | 2025-03-26 |
 | [Heimweh](https://open.spotify.com/track/3EKWorBKvdRrwpnMEwMHVK) | [Alies](https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [Heimweh](https://open.spotify.com/album/28KqFNNqJcJAg4hcuu92Tp) | 2:28 | 2024-11-27 | 2025-02-20 |
+| [Herz](https://open.spotify.com/track/6z0kKKHiOoAN8vDYdGFTLu) | [BELA](https://open.spotify.com/artist/70Wk8uVX5q6U2xRwOXtWfU) | [Herz](https://open.spotify.com/album/4N1XDBc31gbfJQg6LkUlhz) | 2:12 | 2026-03-03 |  |
 | [Herzensmensch](https://open.spotify.com/track/7HBzNwzwnKLVF1GtcjnA2C) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Herzensmensch](https://open.spotify.com/album/0TfmkzOkLCBvsDWKbDiVAi) | 2:40 | 2025-10-09 | 2026-02-27 |
 | [Herzschlag](https://open.spotify.com/track/5AT4QWxSfRSShw51ao7Zz5) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV), [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv) | [Herzschlag](https://open.spotify.com/album/2DpUOA6w7OYhQnnOWDjY8Y) | 2:53 | 2024-09-13 | 2025-07-19 |
 | [Herztausch](https://open.spotify.com/track/6k2cbSiYwuHtsiqScrrp3J) | [Christoph Sakwerda](https://open.spotify.com/artist/04R6CrSnQeDoB6j6Z7x8Lq) | [Herztausch](https://open.spotify.com/album/07B9z4SkDWSEQWHJw0p4zS) | 2:29 | 2024-06-20 | 2024-08-03 |
@@ -242,7 +243,7 @@
 | [Slow Dancing](https://open.spotify.com/track/1PEwRh4WQ3R1SvbxMNRAz6) | [BOY LOCO](https://open.spotify.com/artist/6VemVOal7ebbuYJZSSCPvX) | [Slow Dancing](https://open.spotify.com/album/57sBpryLVCsYI9HyQuuSEd) | 3:20 | 2024-06-20 | 2024-08-31 |
 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 | 2024-06-20 | 2024-10-18 |
 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2026-01-09 |  |
-| [Somebody](https://open.spotify.com/track/3qkjIhQFkrefAkYcxMRzty) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Somebody](https://open.spotify.com/album/2IPAFLfHHc6v3hwvQs9r5H) | 3:23 | 2026-02-12 |  |
+| [Somebody](https://open.spotify.com/track/3qkjIhQFkrefAkYcxMRzty) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Somebody](https://open.spotify.com/album/2IPAFLfHHc6v3hwvQs9r5H) | 3:23 | 2026-02-12 | 2026-03-04 |
 | [Somebody That I Used To Know](https://open.spotify.com/track/6md4w95cnKaW64JyEQ3A0L) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/3Sags1sVK0ynALAsA9gPTQ) | 4:04 | 2025-03-25 | 2025-06-21 |
 | [Someday Soon](https://open.spotify.com/track/4rscYJB15d31PhkminLefg) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Someday Soon](https://open.spotify.com/album/04IbgD1muDZCVoku5hkns4) | 3:24 | 2024-08-30 | 2025-06-05 |
 | [Someone That's Better](https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Someone That's Better](https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8) | 2:13 | 2024-08-19 | 2024-11-28 |

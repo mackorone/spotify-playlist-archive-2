@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-993 songs - 1 day 23 hr 33 min
+995 songs - 1 day 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Dream Patterns](https://open.spotify.com/track/1g7ymnhBalIa6r1xQenQHR) | [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [Dream Patterns](https://open.spotify.com/album/4q8CKbqJZXGrcJZNJRXmYv) | 2:19 | 2026-02-25 |  |
 | [Dream Prelude](https://open.spotify.com/track/16APbZysrMuvYvrfcvCZye) | [Calma Interiore](https://open.spotify.com/artist/1OmJlIsNDkAVfdkmHbvQFM) | [Dream Prelude](https://open.spotify.com/album/6jgMM1JGpHVxA7RAxIJF8Z) | 3:00 | 2024-12-17 | 2025-07-01 |
 | [Dream Reality](https://open.spotify.com/track/1aRSdvKuD2ZAkkNxWX8WSK) | [Doris Melwin](https://open.spotify.com/artist/6vlkP5Ni1u9YysGdVz16XX) | [Dream Reality](https://open.spotify.com/album/5wxnTcXIYBfog4sNDSOeMi) | 3:06 | 2023-03-23 | 2024-02-09 |
+| [Dream Shelter](https://open.spotify.com/track/7DpTaJ6WOUPKEGBlD8kGcQ) | [Evensia](https://open.spotify.com/artist/2Idc0PVXaZL5nPv8IjcJru) | [Dream Shelter](https://open.spotify.com/album/5RI5Lolqbrxjm6ZEj8oBWY) | 2:38 | 2026-02-25 |  |
 | [Dream Stone](https://open.spotify.com/track/3OC0kXFP462abPuXQAjJtL) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Dream Stone](https://open.spotify.com/album/4fBb5PmIesNKFgxUGs1Fpd) | 2:48 | 2025-12-17 |  |
 | [Dreamcatcher](https://open.spotify.com/track/136EmiIaoINHMMk3UBzi8o) | [Danyel Hayes](https://open.spotify.com/artist/2ghpDjW2klABmowNTOH18u) | [Dreamcatcher](https://open.spotify.com/album/65DyhGOnzGHoGdzu6tD8SC) | 3:22 | 2023-03-23 | 2024-03-21 |
 | [Dreamfields](https://open.spotify.com/track/6JrcRaNQmyMrBPrtjypB9x) | [Ebon Meadow](https://open.spotify.com/artist/5C9wHrB7AhBH7YAROPO3Kv) | [Dreamfields](https://open.spotify.com/album/26GA18ZT2JUmI3xXNliy2C) | 2:39 | 2025-12-17 |  |
@@ -528,7 +529,7 @@
 | [Lumiére Douce](https://open.spotify.com/track/2xTn9rzLKuy725m4TjBT69) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Lumiére Douce](https://open.spotify.com/album/4bMW5Gx6ITLSGMQsmconM4) | 2:40 | 2024-12-03 | 2025-05-10 |
 | [Lunar Dreamscape](https://open.spotify.com/track/5t9XohWGihplq53Gi4lfQE) | [Terra Armoniosa](https://open.spotify.com/artist/0AkcSI557MXz8GvC7fbyVT) | [Lunar Dreamscape](https://open.spotify.com/album/0osy0lravryxj4wRzC6kFU) | 2:58 | 2024-03-06 | 2025-03-23 |
 | [Lunar Hope](https://open.spotify.com/track/49GSahFoqXRaNbES3wvR7X) | [Foreglow](https://open.spotify.com/artist/2fxdHlNjFfdYlMltby9IpJ) | [Lunar Hope](https://open.spotify.com/album/7tAOYyL9NivXMaSu1ytmWz) | 3:10 | 2025-07-01 | 2025-12-04 |
-| [Lunatheris](https://open.spotify.com/track/2z5oBmyg1XPkzzlk0beyqg) | [Luminous Dreamer](https://open.spotify.com/artist/3uq69LjzFbJ2hoM4ZQ6X4U) | [Lunatheris](https://open.spotify.com/album/7chva2HLIZPDX9roGQJA8w) | 2:53 | 2025-10-08 |  |
+| [Lunatheris](https://open.spotify.com/track/2z5oBmyg1XPkzzlk0beyqg) | [Luminous Dreamer](https://open.spotify.com/artist/3uq69LjzFbJ2hoM4ZQ6X4U) | [Lunatheris](https://open.spotify.com/album/7chva2HLIZPDX9roGQJA8w) | 2:53 | 2025-10-08 | 2026-03-04 |
 | [Lyrebird](https://open.spotify.com/track/72mDETn3Ba8yVewAcqnlqQ) | [Keira Conlon](https://open.spotify.com/artist/2PeXm2l3nGWuNKDr7ATimr) | [Lyrebird](https://open.spotify.com/album/73YZiV6JEfhRBr855r2fvk) | 2:33 | 2023-03-23 | 2024-01-18 |
 | [Magical Calmness](https://open.spotify.com/track/20hO8nLj0SFWfC2b2d0Czs) | [Bedtime Muse](https://open.spotify.com/artist/15AGQlNX9Ej332pHcSTUjO) | [Magical Calmness](https://open.spotify.com/album/7yMh6pTahqKNiidicZaVwz) | 2:37 | 2024-07-15 | 2025-11-13 |
 | [Make It Last](https://open.spotify.com/track/3BXxpljx5qawevsOU6UzHY) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Make It Last](https://open.spotify.com/album/0vQymbxDgCdBXGuwVtUsH2) | 2:54 | 2023-03-23 | 2024-02-09 |
@@ -626,6 +627,7 @@
 | [Novation](https://open.spotify.com/track/04UlDODpopyY0bZ6rhJtXB) | [Abi Burkholder](https://open.spotify.com/artist/1sVWQGvblGt6xTMFwIT6Ta) | [Novation](https://open.spotify.com/album/0CCRyVo2yblONJcn10hTRV) | 2:57 | 2024-05-04 | 2025-01-23 |
 | [Nox](https://open.spotify.com/track/2l5RGPbH2eq93zMytmGZ4n) | [Esotherum](https://open.spotify.com/artist/2UMsy6qAcmjU3yYbTSJuwb) | [Nox](https://open.spotify.com/album/133wimkpma9DpRyIEgS5dV) | 2:46 | 2025-02-04 | 2025-06-26 |
 | [Nox](https://open.spotify.com/track/6e8eaU1oPzSu0WXnbSyZt7) | [Wolfgang Snow](https://open.spotify.com/artist/6FDOmi6UcqTevNjdwQfpsD) | [Nox](https://open.spotify.com/album/7H7xsgmAr1XitXSeiP6ADc) | 2:28 | 2023-03-23 | 2024-03-21 |
+| [Nubilum](https://open.spotify.com/track/5C1tmuh9sqFOdQmyKkIazZ) | [Peter Wiehl](https://open.spotify.com/artist/4o24XKesoVS2rDD20Uo8pi) | [Nubilum](https://open.spotify.com/album/3ZS14lJcLyPaBqlTjWpLJ8) | 2:31 | 2026-02-25 |  |
 | [Numerical](https://open.spotify.com/track/0YA68VQfQbe28MYoFauwIp) | [Decanõe](https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA) | [Numerical](https://open.spotify.com/album/4nZK9I62hhmcUPCMtIKaTl) | 2:57 | 2025-01-08 | 2025-09-28 |
 | [Numfashi](https://open.spotify.com/track/5IaczaQu93vHKEnrS1WVyo) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Numfashi](https://open.spotify.com/album/6MN3rLXKNFMSbXhLRdoyLF) | 3:15 | 2023-03-23 | 2024-02-09 |
 | [Nurture](https://open.spotify.com/track/6tkE2tVrjVPwJvF8fRob7T) | [Mirova](https://open.spotify.com/artist/3sD5yaSCD2OZCQGFvIGPDL) | [Nurture](https://open.spotify.com/album/6hA1k6pw60zDJhxv9gjReC) | 3:51 | 2023-03-23 | 2024-05-21 |
@@ -912,7 +914,7 @@
 | [Through The Sky](https://open.spotify.com/track/4LJ0mcVqXgcPHVOwzIJv8B) | [On A Cloud](https://open.spotify.com/artist/68sd27bqb8nHxgO6lh9tEo) | [Through The Sky](https://open.spotify.com/album/1boGfj077LwvawIIi2CfFY) | 2:58 | 2024-02-08 | 2024-07-18 |
 | [Tickling Sands](https://open.spotify.com/track/5Mo96DgFoFbc11UVgtIRB4) | [Siona Swin](https://open.spotify.com/artist/5zULMyrVBmeq8ommEfkb5U) | [Tickling Sands](https://open.spotify.com/album/3yhVe5nKL8Vsgd03lPsxDN) | 2:34 | 2023-03-23 | 2023-11-11 |
 | [Tides](https://open.spotify.com/track/6RPNnOJ5l8PsTea79JNWej) | [Manuel Wall](https://open.spotify.com/artist/3RMH13VbjWYtpxwgAkF3cU) | [Tides](https://open.spotify.com/album/6wVyOjxR3E0yX5y3okLyQH) | 2:54 | 2024-08-16 | 2025-02-19 |
-| [Tides](https://open.spotify.com/track/0yoimTeDt0DHtICIUKc6d2) | [Soreal](https://open.spotify.com/artist/6aKdCt74aU69zEcGQVdAlI) | [Tides](https://open.spotify.com/album/4Rc1aCEShTAKNmD2xBNWn0) | 2:36 | 2025-11-12 |  |
+| [Tides](https://open.spotify.com/track/0yoimTeDt0DHtICIUKc6d2) | [Soreal](https://open.spotify.com/artist/6aKdCt74aU69zEcGQVdAlI) | [Tides](https://open.spotify.com/album/4Rc1aCEShTAKNmD2xBNWn0) | 2:36 | 2025-11-12 | 2026-03-04 |
 | [Timeframe](https://open.spotify.com/track/4SuMhk4CgYIz3pPKRIXHFp) | [Sailors Of The 7 Seas](https://open.spotify.com/artist/64u292UVi3Zlu0Dl9svsMb) | [Timeframe](https://open.spotify.com/album/7BIGjdAsTOcMIQn12For8s) | 3:04 | 2023-03-23 | 2024-02-09 |
 | [Timeless Glow](https://open.spotify.com/track/1PtbVTP8BooABy9eQ0wymQ) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Timeless Glow](https://open.spotify.com/album/5XA7ddkuhLXLq0mxjh8cx4) | 3:32 | 2025-02-14 | 2025-05-26 |
 | [Tiniebla](https://open.spotify.com/track/1uGy4uNI3SeVUien40Dtzo) | [Pearl Melendez](https://open.spotify.com/artist/6UGfKivLtHEJnrNdPcZHZh) | [Tiniebla](https://open.spotify.com/album/658s4v4gvYkydLyeuaMhsd) | 3:29 | 2023-03-23 | 2024-02-09 |

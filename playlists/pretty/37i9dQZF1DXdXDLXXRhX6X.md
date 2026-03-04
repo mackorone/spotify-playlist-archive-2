@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXDLXXRhX6X.md) - [plain]
 
 > notes from the girls that get it
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,859 likes - 115 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,352 likes - 115 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXDLXXRhX6X.md) - [plain]
 | 114 | [Honey](https://open.spotify.com/track/2IgtWhc0W0cbhYqpolqeKh) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Slack](https://open.spotify.com/album/4foNkrb7hHaP2ZFLlRHx3A) | 3:44 |
 | 115 | [The Florist](https://open.spotify.com/track/4CdqIoN4JTJQxMKAvaGsyW) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:10 |
 
-Snapshot ID: `AAAAAIcuF3h0mLg+/ZyIyGw14lDDcEAP`
+Snapshot ID: `AAAAAHK70EfmGbTDMC4+MDsV7JVGucIK`

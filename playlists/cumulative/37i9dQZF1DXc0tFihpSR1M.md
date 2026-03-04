@@ -4,7 +4,7 @@
 
 > Det beste av ny pop akkurat nå! 🍭
 
-473 songs - 1 day 0 hr 42 min
+474 songs - 1 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [Hello Miss Johnson](https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Hello Miss Johnson](https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy) | 2:44 | 2024-11-21 | 2025-05-02 |
 | [Helvete! \- Spotify Singles](https://open.spotify.com/track/1yNcbAs2AyjhdWLqx1P7ar) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Helvete! \(Spotify Singles\)](https://open.spotify.com/album/49YYvins0j1bpJ4cYp1oZq) | 3:37 | 2025-12-11 | 2026-02-08 |
 | [Hemingway](https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Hemingway](https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus) | 3:16 | 2025-05-29 | 2025-07-17 |
-| [Her vil e vær](https://open.spotify.com/track/1vrHChYEhj3ZxIT94LfOsa) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO), [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B) | [Her vil e vær](https://open.spotify.com/album/352wPRSxAb5NP0LUOQ1mYh) | 2:47 | 2026-02-05 |  |
+| [Her vil e vær](https://open.spotify.com/track/1vrHChYEhj3ZxIT94LfOsa) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO), [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B) | [Her vil e vær](https://open.spotify.com/album/352wPRSxAb5NP0LUOQ1mYh) | 2:47 | 2026-02-05 | 2026-03-04 |
 | [Her vil e vær](https://open.spotify.com/track/1kuBj9IjKtP64mKrHIuBYX) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Her vil e vær](https://open.spotify.com/album/3ksUT0ilC4HVItX51CEHvN) | 2:25 | 2025-03-20 | 2025-04-23 |
 | [Here For The Party](https://open.spotify.com/track/43zyKoCeEVqoajv7erMfhd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Here For The Party](https://open.spotify.com/album/6MGCAS368VJy11aVpPEfGx) | 3:29 | 2026-01-01 | 2026-02-09 |
 | [Hero](https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Hero](https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC) | 3:16 | 2024-11-01 | 2025-01-11 |
@@ -301,6 +301,7 @@
 | [No Heartbreak's Killed Me Yet](https://open.spotify.com/track/58SMNUc42Art0NNE7aiWht) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [No Heartbreak's Killed Me Yet](https://open.spotify.com/album/65xHRIaffZ3DYvtKvSrLHW) | 2:37 | 2025-09-18 | 2026-01-17 |
 | [No One Knows You Better](https://open.spotify.com/track/3fjAa5k59rQdJrncLwipmn) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [No One Knows You Better](https://open.spotify.com/album/4Hzx9Y7qPmAQhcvUpuBWRT) | 3:34 | 2025-11-13 | 2025-11-28 |
 | [Noe mere](https://open.spotify.com/track/4kShoXoqe2QniNPnLNHyT4) | [Nessi](https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl) | [Noe mere](https://open.spotify.com/album/220NnZ6lJVzdgmY9YPr86n) | 2:17 | 2025-02-06 | 2025-02-14 |
+| [Nonchalant](https://open.spotify.com/track/0nnI5UO2EtFvSFHwVlV2xu) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349), [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Nonchalant](https://open.spotify.com/album/4u3lOfOswoiWbpKqSGKJLk) | 2:35 | 2026-02-26 |  |
 | [Northern Lights](https://open.spotify.com/track/2qLYadTIWJTXJuS8sTt7m8) | [emma](https://open.spotify.com/artist/6pe92iYUnYByNR6uMcfZ4V) | [Northern Lights](https://open.spotify.com/album/27PGrw4C2AhVTAOZsTAsYU) | 2:57 | 2026-01-29 | 2026-02-27 |
 | [Not At This Party](https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Not At This Party](https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t) | 3:32 | 2025-03-27 | 2025-11-28 |
 | [Not That Deep](https://open.spotify.com/track/5ZM5xEprSUaLoAEqxBaVE5) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [PEPERONCINA](https://open.spotify.com/album/5j285vtL2LtYJZja0GPABv) | 2:31 | 2025-11-13 | 2025-11-28 |

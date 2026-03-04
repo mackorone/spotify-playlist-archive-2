@@ -2,9 +2,9 @@
 
 ### [RADAR BNLX](https://open.spotify.com/playlist/37i9dQZF1DXaxwXKCsImRe)
 
-> Spotify editors pick new and exciting artists\. RADAR BNLX\-artist: <a href="spotify:artist:3smrOozTm8zGvRfrcIyRg9">Samuel Welten</a>
+> Spotify editors pick exciting artists for RADAR BNLX\. New: <a href="spotify:artist:5vxYgsUqkYuqL5nLzwnKsk">OYSTER</a>
 
-231 songs - 12 hr 22 min
+234 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 | 2021-12-10 | 2023-04-07 |
 | [Blijven Rijden](https://open.spotify.com/track/0mQJSaRQzKClGZXyORNy6U) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Blijven Rijden](https://open.spotify.com/album/1y2ecqD1oA6JSDRfMHBNPV) | 2:56 | 2022-09-08 | 2023-01-28 |
 | [Blu Celeste](https://open.spotify.com/track/0BeXxjO6mgLDzg4xA6UheO) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Blu Celeste](https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec) | 3:26 | 2021-12-10 | 2022-10-18 |
+| [Bodem](https://open.spotify.com/track/6M5hZ6D1AXfOwKXztFjoBV) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Bodem](https://open.spotify.com/album/5JOs7kQlOuPOIUwuvk4LOk) | 2:44 | 2026-03-03 |  |
 | [Body And Mind](https://open.spotify.com/track/3IRooi7Z3RsocwcQblHza8) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 3:06 | 2021-12-10 | 2022-10-13 |
 | [Body And Mind](https://open.spotify.com/track/6GFrELGVKBXRcrTNkwjSfF) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:06 | 2022-10-05 | 2022-10-18 |
 | [Boss \(io & te\)](https://open.spotify.com/track/5lXDYzI9tKb6Vx6Wg1yq4a) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Boss \(io & te\)](https://open.spotify.com/album/6dQS4H6TAnoFx45RGVrGVy) | 3:01 | 2021-12-10 | 2022-06-17 |
@@ -58,6 +59,7 @@
 | [Dansen Met De Duivel](https://open.spotify.com/track/5K6hIAGtjKkleBDLgLK4Yz) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Dansen Met De Duivel](https://open.spotify.com/album/6JD2quoltCcUcemaonqNWT) | 2:26 | 2025-10-09 | 2026-02-27 |
 | [daughter](https://open.spotify.com/track/6l6a62hc6yDyN71JV7gLvQ) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [daughter](https://open.spotify.com/album/3pjCq58rNfmhrl6p0GXMVE) | 3:23 | 2023-09-14 | 2024-04-11 |
 | [De Diepte](https://open.spotify.com/track/7uQ7e7nzbtyX87eIYHpj6Z) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [De Diepte](https://open.spotify.com/album/6XAKVt3CT7r1Zf0uiMWt7o) | 2:56 | 2022-03-03 | 2022-07-08 |
+| [De Laatste Sprint](https://open.spotify.com/track/2lV0iWyn789HzZX28uqfgO) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [De Laatste Sprint](https://open.spotify.com/album/1EzVpVYDBYqs5yBtyeJuMe) | 3:31 | 2026-03-03 |  |
 | [dejavu](https://open.spotify.com/track/4GwIJFFipIzqF6ZvQ9vZd7) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [chapters of you](https://open.spotify.com/album/18eOvYtQDGoNqP8Cnn2GF4) | 2:56 | 2022-01-24 | 2023-05-10 |
 | [Ding Dong](https://open.spotify.com/track/0SSvsdk6TlKbBHGtBk4XPa) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Ding Dong](https://open.spotify.com/album/1Db0UhjPxm1Xw9Q69uIBp6) | 3:16 | 2024-09-26 | 2024-11-08 |
 | [Ding Dong](https://open.spotify.com/track/2Wb0VFETsGsf5HUpt3lNsZ) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Comic Trip](https://open.spotify.com/album/2lA6mh3J6bM89Ny0yVeSs7) | 3:16 | 2024-11-07 |  |
@@ -122,6 +124,7 @@
 | [Laat Me FF](https://open.spotify.com/track/6ZaaJCNF37mYmkPFWeZ5F6) | [DIKKE](https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4) | [Beef Met Mezelf](https://open.spotify.com/album/6jCeJrk6lDb8IcT1nfDB4e) | 2:38 | 2023-09-14 | 2023-10-06 |
 | [Laatste Trein](https://open.spotify.com/track/0unjn7rOpEnCvpaviiXYxc) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm), [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Laatste Trein](https://open.spotify.com/album/3jeLXcKNuJuYeKKb43TnEG) | 2:48 | 2024-04-02 | 2024-09-27 |
 | [Last Dance](https://open.spotify.com/track/5sHkRXZbyR6SLOlq3EpCpq) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT) | [Sweet Love](https://open.spotify.com/album/62C1HdAo3Fu6Sx5V51aa9K) | 4:03 | 2022-09-08 | 2023-04-07 |
+| [Leef Vandaag](https://open.spotify.com/track/4sdWltOf93g9Ok3zNGVDTI) | [Cité](https://open.spotify.com/artist/1IzmTWOBk33eqWZmWpxUqp), [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Leef Vandaag](https://open.spotify.com/album/3bUohj9RjzxKayLLNvSSia) | 2:45 | 2026-03-03 |  |
 | [Lonely](https://open.spotify.com/track/6pyh4lkDS5FzWBz9y8Wu0S) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Lonely](https://open.spotify.com/album/7noXhmn3TF1aWpJpYH3cjw) | 3:12 | 2022-03-18 | 2023-05-18 |
 | [long for](https://open.spotify.com/track/1TxLvSFDtHljzooqeyFKdX) | [Emma Bale](https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV) | [RETROSPECT](https://open.spotify.com/album/32Ni3cNuxsKj5xiLkVc1Sf) | 3:19 | 2021-12-10 | 2022-03-19 |
 | [Look At Me](https://open.spotify.com/track/5ztdptHqHe9Jt0NzI3Powe) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [Look At Me](https://open.spotify.com/album/14PdkPdvr3NsCVzqKrlvkJ) | 3:15 | 2021-12-10 | 2022-06-17 |

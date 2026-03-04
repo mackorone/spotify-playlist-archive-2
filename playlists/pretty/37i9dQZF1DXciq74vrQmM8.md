@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our universe ft\. julia wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,499 likes - 81 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,480 likes - 81 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 80 | [VIBE COP](https://open.spotify.com/track/10XUaxmDM4GZiCwjOPw47I) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [VIBE COP](https://open.spotify.com/album/3xsEDdXxK10DCUE4z4p1DF) | 2:53 |
 | 81 | [Pill To Swallow](https://open.spotify.com/track/5fgto1gra7I4r0YGFgGLze) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [She Said, He Said](https://open.spotify.com/album/4QqF9cnQXrTnYqkBfEoftf) | 3:42 |
 
-Snapshot ID: `AAAAAGgQsxjfsFD9kYMmV6AuUqSLAvjl`
+Snapshot ID: `AAAAAEhOsLvqVc4tPikbWNiIQsmh6Cgu`

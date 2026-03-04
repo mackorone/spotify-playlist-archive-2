@@ -1,12 +1,12 @@
 {
   "description": "This is RENEE. The essential tracks, all in one playlist.",
-  "num_followers": 8915,
+  "num_followers": 8917,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaOBgAAAAAD/oIK8RFjR9g/372Brf7wU",
+  "snapshot_id": "aaTTAAAAAAAMWwsRTY6ZTY3MMMOnf5QB",
   "tracks": [
     {
       "added_at": null,
@@ -247,22 +247,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAMN!",
-        "url": "https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr"
+        "name": "Mientras La Ciudad Descansa con Jacinto (Re-versi\u00f3n)",
+        "url": "https://open.spotify.com/album/5UHRl6swmNo1VhOB2CKQdr"
       },
       "artists": [
         {
-          "name": "Sexy Pigeon",
-          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
-        },
-        {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        },
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
         }
       ],
-      "duration_ms": 117606,
-      "name": "DAMN!",
-      "url": "https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo"
+      "duration_ms": 134014,
+      "name": "Mientras La Ciudad Descansa - Re-versi\u00f3n",
+      "url": "https://open.spotify.com/track/4HDDaURdyjlURlWDlhcqaQ"
     },
     {
       "added_at": null,
@@ -283,22 +283,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mientras La Ciudad Descansa con Jacinto (Re-versi\u00f3n)",
-        "url": "https://open.spotify.com/album/5UHRl6swmNo1VhOB2CKQdr"
+        "name": "DAMN!",
+        "url": "https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr"
       },
       "artists": [
         {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+          "name": "Sexy Pigeon",
+          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
         },
         {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 134014,
-      "name": "Mientras La Ciudad Descansa - Re-versi\u00f3n",
-      "url": "https://open.spotify.com/track/4HDDaURdyjlURlWDlhcqaQ"
+      "duration_ms": 117606,
+      "name": "DAMN!",
+      "url": "https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo"
     },
     {
       "added_at": null,

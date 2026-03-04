@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,121 likes - 291 songs - 15 hr 32 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,130 likes - 298 songs - 15 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -299,5 +299,12 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 289 | [Particles](https://open.spotify.com/track/49h7bW06TzrFLrF8YLi6sg) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Ambient Darkness \- Vol\. 3 \- Particles](https://open.spotify.com/album/6jWjAa20Z5ILkE9yQSRjtn) | 3:09 |
 | 290 | [Hellfire](https://open.spotify.com/track/1oRFsvliJI0aZQeyCrBKwF) | [Lonely wanderer](https://open.spotify.com/artist/7oZKXbKzbYSqj49riynY8v) | [Hellfire](https://open.spotify.com/album/5rzOXIrIawdZM8zcNdpF6t) | 3:27 |
 | 291 | [World of Dragons](https://open.spotify.com/track/0WM5S1KbyhIQCTGoUA3pq8) | [Lonely wanderer](https://open.spotify.com/artist/7oZKXbKzbYSqj49riynY8v) | [World of Dragons](https://open.spotify.com/album/5UspvmSNBgmzWRKdxEdJFD) | 3:20 |
+| 292 | [There will always be after](https://open.spotify.com/track/5478pnFiz0w1Tki1rNOZDL) | [Dr\. Weeb](https://open.spotify.com/artist/0kL9vr7sptfFqyRd2TdQ2x) | [There will always be after](https://open.spotify.com/album/22oAAGEcHfiX62kkIDfkxC) | 3:07 |
+| 293 | [Anxiety](https://open.spotify.com/track/2r2UYTxeSHutVFcH7KO5mA) | [Lauren Minear](https://open.spotify.com/artist/5nnohGTyoGL4ZCcudNki7A) | [Boxing Day \(Deluxe\)](https://open.spotify.com/album/09jVFVWEuvz7mq4GSvgi2h) | 2:56 |
+| 294 | [Runnin' For Your Love](https://open.spotify.com/track/1C7wICvYkOIU8ZunwAL1b2) | [Andrew Corbin and the Space Funk Odyssey](https://open.spotify.com/artist/5lshCYhXruEFWP8RBgBN3x) | [Darkness to Light](https://open.spotify.com/album/6eI4I6Bo86J62BEL7vsx0u) | 3:22 |
+| 295 | [i chose \(you\)](https://open.spotify.com/track/43FMQXLgPcXdA8GVXxrIJc) | [wone](https://open.spotify.com/artist/2lVHLWuHbuXUoldxPjT0xt) | [i chose \(you\)](https://open.spotify.com/album/2kZv9QPZ6UwPXdNiSBdpjc) | 1:58 |
+| 296 | [Your Way](https://open.spotify.com/track/4TRKKukS2KrNNLdwbU2CTo) | [Estelle Giselle](https://open.spotify.com/artist/0bKnXxFjImWCfVG3FN0rbG) | [Your Way](https://open.spotify.com/album/3tTsJTGrSLLWlA9n7Jj7ye) | 2:25 |
+| 297 | [Spectator Sport](https://open.spotify.com/track/0JK3UsC0sjyXpiGNENm5NP) | [Thee Wrecking Crew](https://open.spotify.com/artist/0RltW94tVg6OztzLsGu51w) | [Spectator Sport](https://open.spotify.com/album/4eOHMCqv4HpoYMVXqfKUgR) | 4:32 |
+| 298 | [More Cowbell](https://open.spotify.com/track/2g74g7KPBdoCYKoSfwGszj) | [Thee Wrecking Crew](https://open.spotify.com/artist/0RltW94tVg6OztzLsGu51w) | [More Cowbell](https://open.spotify.com/album/5rkFMC2qvfJ4dVNpf3LUMi) | 4:30 |
 
-Snapshot ID: `AAA1Q/+xA/k/dDbpaYN797PlxiG9CWRq`
+Snapshot ID: `AAA1Sq2jYgceH/2VbwccIqvOfMAFF+lU`

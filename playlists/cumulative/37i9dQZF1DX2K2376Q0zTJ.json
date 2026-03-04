@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u3002cover: \u306b\u3057\u306a",
+  "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u3002cover: HANA",
   "name": "EQUAL Japan",
   "tracks": [
     {
@@ -644,6 +644,24 @@
       "duration_ms": 220066,
       "name": "All Around The World",
       "url": "https://open.spotify.com/track/4Pn6a1P7eRKfE3roWHKZc6"
+    },
+    {
+      "album": {
+        "name": "HANA",
+        "url": "https://open.spotify.com/album/09EpfyvBdk8EL5TQNZiZYg"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152319,
+      "name": "ALL IN",
+      "url": "https://open.spotify.com/track/6lOUOvcscCHUofusbjbYV2"
     },
     {
       "album": {
@@ -7822,7 +7840,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 200825,
       "name": "Ice Palace",
       "url": "https://open.spotify.com/track/1ozszqqADY95sS6bVHryzz"
@@ -11178,7 +11196,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 203857,
       "name": "Mother Tree",
       "url": "https://open.spotify.com/track/1cBwZeiOxWJFlTE3cXq0gd"
@@ -11218,10 +11236,32 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 152682,
       "name": "Ms.Independent",
       "url": "https://open.spotify.com/track/0uc7W03WYjBY9Mb5tdW88c"
+    },
+    {
+      "album": {
+        "name": "MT. DS EP",
+        "url": "https://open.spotify.com/album/2i4OGGjgQl7BBJluGyYTLE"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        },
+        {
+          "name": "Spencer Brown",
+          "url": "https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314901,
+      "name": "MT. DS",
+      "url": "https://open.spotify.com/track/6XWXTB5PurCkKtlkT5xjk8"
     },
     {
       "album": {
@@ -12874,7 +12914,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 140598,
       "name": "Osoro (Heaven)",
       "url": "https://open.spotify.com/track/64wJGqPD8d98Q1elAqWPtZ"
@@ -17940,6 +17980,24 @@
       "duration_ms": 232645,
       "name": "Toukakanseinoyoru",
       "url": "https://open.spotify.com/track/4MkvoRmOboUayXIj63S7XC"
+    },
+    {
+      "album": {
+        "name": "Ms.Independent",
+        "url": "https://open.spotify.com/album/4KybIqjkuFfB7aVr7DIUpX"
+      },
+      "artists": [
+        {
+          "name": "me-mai",
+          "url": "https://open.spotify.com/artist/3mUSzVCF0uh8YuVH16vNJS"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/48SLT9xIlpHMVZIqappWI5"
     },
     {
       "album": {
@@ -23672,6 +23730,24 @@
       "duration_ms": 180773,
       "name": "\u30e9\u30b9\u30c8\u30ed\u30de\u30f3\u30b9",
       "url": "https://open.spotify.com/track/4NJnYJ9D2sT1GDWoRYqw4J"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30c3\u30ad\u30fc\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc",
+        "url": "https://open.spotify.com/album/1PvPHW1dQoqBvbrrBlIvas"
+      },
+      "artists": [
+        {
+          "name": "AI",
+          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238860,
+      "name": "\u30e9\u30c3\u30ad\u30fc\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc",
+      "url": "https://open.spotify.com/track/5p040sCjrFbgB81NpRGWWr"
     },
     {
       "album": {

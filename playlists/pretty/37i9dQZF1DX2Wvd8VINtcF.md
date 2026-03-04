@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Fred Soila✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,740 likes - 173 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,735 likes - 173 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

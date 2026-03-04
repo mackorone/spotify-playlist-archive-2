@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 
 > Solfeggio tones to harmonise & synchronise with, used for meditation and sleep
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,566 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,717 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 | 79 | [852 Hz Prismatic Pathways](https://open.spotify.com/track/1QL3c88UYwTWKVsxsw2k0l) | [Superiors](https://open.spotify.com/artist/0wP28uWYOdpcMbUgOotRS4) | [852 Hz Prismatic Pathways](https://open.spotify.com/album/5CzZUkRV4KBju9hH5HQcL5) | 2:42 |
 | 80 | [852 Hz Emerald Waters](https://open.spotify.com/track/1LBvyl2RLLFW1KJh8aO2tp) | [Elivvia](https://open.spotify.com/artist/6UaDpZsdXyWYAyBHVZIqtA) | [852 Hz Emerald Waters](https://open.spotify.com/album/5W2X97uXnN8Bv8dxSLU1MH) | 2:32 |
 
-Snapshot ID: `AAAAADzokINx4UzZCMolporSuA6kVPI5`
+Snapshot ID: `AAAAAA6GMG/XiWE6wYH9sdxuNrhslNqo`

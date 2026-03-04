@@ -2,9 +2,9 @@
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> أحدث الأغاني المصرية هنا 🤩 الغلاف: عمرو جابر
+> أحدث الأغاني المصرية هنا 🤩 الغلاف: رامي جمال
 
-1,639 songs - 3 day 19 hr 19 min
+1,640 songs - 3 day 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [Babaat El Salam](https://open.spotify.com/track/5LzoSMQVeW8w7egv1bcdGd) | [Walid Toufic](https://open.spotify.com/artist/3b9dx7eQwwKtA6ctUq8sd2) | [Babaat El Salam](https://open.spotify.com/album/12mFlWmsOvnRT8vMjBlRUN) | 2:50 | 2024-06-06 | 2024-07-19 |
 | [babat salamy](https://open.spotify.com/track/6OB98f5Aj7otXeLBBn7JoF) | [Adham Seliman](https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF) | [babat salamy](https://open.spotify.com/album/6X9Nx5KCj2Zsr8W0CiNftG) | 3:41 | 2023-02-02 | 2023-03-18 |
 | [Baby Ma Tnamesh](https://open.spotify.com/track/3awMCENnvZKoC5hDsCy3QF) | [Ahmed Basyoni](https://open.spotify.com/artist/2T6gqh96T1Cy8YfvzEPr49), [Hussein Gamal](https://open.spotify.com/artist/6qsRiXkSz88prbplwiKpmr) | [Baby Ma Tnamesh](https://open.spotify.com/album/3lTqLgxPfefNs2R2HDGE0X) | 3:36 | 2025-01-17 | 2025-02-18 |
-| [Bad Days](https://open.spotify.com/track/1Q1BtmfMhRbzZ6uPV3Xk1r) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Aqareb](https://open.spotify.com/album/0GaffqvjUTs1g9vDLAKFeV) | 3:15 | 2025-09-08 |  |
+| [Bad Days](https://open.spotify.com/track/1Q1BtmfMhRbzZ6uPV3Xk1r) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Aqareb](https://open.spotify.com/album/0GaffqvjUTs1g9vDLAKFeV) | 3:15 | 2025-09-08 | 2026-03-04 |
 | [Bada'ay Kol Yoom Ala'eeh](https://open.spotify.com/track/0vGbKViJA6J79xBuMU4bGQ) | [Mohamed Mohsen](https://open.spotify.com/artist/4zCfs2jBKiQEFIXhxRUGEv) | [Bada'ay Kol Yoom Ala'eeh](https://open.spotify.com/album/7HiynIymuo0REPL1Udiarg) | 2:57 | 2023-06-29 | 2023-08-02 |
 | [baet wahdak](https://open.spotify.com/track/15DNX2g87vP8AgvNxF5yDa) | [Adham Seliman](https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF) | [baet wahdak](https://open.spotify.com/album/2KJYV0GfkiCEIHQMtkukUL) | 3:44 | 2023-01-19 | 2023-02-24 |
 | [Baftekrek Beleil](https://open.spotify.com/track/4Yzk6Ph1BGGjlXuA3id81i) | [Budgy](https://open.spotify.com/artist/73ShI69rb4GNM1sbHfuLDk) | [Baftekrek Beleil](https://open.spotify.com/album/7oPA18Mt8l9SXJsU8tKaMO) | 2:40 | 2024-11-07 | 2024-12-06 |
@@ -1319,6 +1319,7 @@
 | [سحلاني](https://open.spotify.com/track/6OqfxVVUvkSesd88gTUCOt) | [Budgy](https://open.spotify.com/artist/73ShI69rb4GNM1sbHfuLDk) | [سحلاني](https://open.spotify.com/album/7yM6tuifG1Yo3Px5Gq7hfe) | 3:01 | 2023-05-04 | 2023-06-16 |
 | [سخنت](https://open.spotify.com/track/3XAUmK0uUZKIWET53ty42t) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87) | [سخنت](https://open.spotify.com/album/5BkD4tMCI2qfFecCXRvtO3) | 3:06 | 2024-01-15 | 2024-02-15 |
 | [سر إلهي](https://open.spotify.com/track/0JH8L02a3ckNui2dz82yfl) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [سر إلهي](https://open.spotify.com/album/3CQ2kVBQ1i1fensGdPqTuI) | 3:54 | 2024-03-10 | 2024-06-12 |
+| [سر سعادتي \(من مسلسل علي كلاي\)](https://open.spotify.com/track/4A4WhP3xYQbENo8WaaCkTt) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [سر سعادتي \(من مسلسل علي كلاي\)](https://open.spotify.com/album/5PzCvdbFNPScafDmRFxwpC) | 3:54 | 2026-03-03 |  |
 | [سستمها \( من فيلم السيستم \)](https://open.spotify.com/track/4aMKcs0hBBmUIH1MfRw9dw) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [سستمها \( من فيلم السيستم \)](https://open.spotify.com/album/358wjgICFxLbU5e0zENfwJ) | 3:38 | 2024-02-07 | 2024-03-13 |
 | [سكر مصر](https://open.spotify.com/track/1c7mtCL5YqwQNgcXjwIyXw) | [Shaza](https://open.spotify.com/artist/1EfSs3W0Qb8i6Rbw60nv5b) | [سكر مصر](https://open.spotify.com/album/3D127JRm2vanWFxjjykAVJ) | 2:46 | 2024-10-18 | 2024-12-27 |
 | [سلام](https://open.spotify.com/track/5lFs4ZazVFVp0Nx3Rcnlm5) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [سلام](https://open.spotify.com/album/5P29qpulCVYvUIW0CdqW3l) | 3:09 | 2025-01-09 | 2025-02-07 |

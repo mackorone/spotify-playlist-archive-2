@@ -2,7 +2,7 @@
 
 ### [Rica, Latina y Famosa](https://open.spotify.com/playlist/37i9dQZF1DWTOTEEDNE926)
 
-> las mujeres ya no lloran ✨ Bad Gyal en portada.
+> las mujeres ya no lloran ✨ FLVCKKA y Chzter en portada.
 
 198 songs - 9 hr 29 min
 

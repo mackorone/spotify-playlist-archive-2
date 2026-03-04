@@ -1,12 +1,12 @@
 {
   "description": "This is Clara Schumann. The essential tracks, all in one playlist.",
-  "num_followers": 1296,
+  "num_followers": 1304,
   "original_name": "This Is Clara Schumann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaOBgAAAAABxPRu8rylsRF3yrXze+Ils",
+  "snapshot_id": "aaTTAAAAAAC3gvykPQeBaftu/ndH9FdG",
   "tracks": [
     {
       "added_at": null,
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/5HOVcgYQBn73abTDJP8MTy"
         }
       ],
-      "duration_ms": 247300,
-      "name": "3 Romances for Violin and Piano, Op. 22: III. Leidenschaftlich schnell",
-      "url": "https://open.spotify.com/track/0QIlxI2e6Ru1AAOrSqfrsG"
+      "duration_ms": 171115,
+      "name": "3 Romances for Violin and Piano, Op. 22: II. Allegretto: Mit zartem Vortrage",
+      "url": "https://open.spotify.com/track/0kkZGLnMzp4Jm86weWiOqy"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/5HOVcgYQBn73abTDJP8MTy"
         }
       ],
-      "duration_ms": 171115,
-      "name": "3 Romances for Violin and Piano, Op. 22: II. Allegretto: Mit zartem Vortrage",
-      "url": "https://open.spotify.com/track/0kkZGLnMzp4Jm86weWiOqy"
+      "duration_ms": 247300,
+      "name": "3 Romances for Violin and Piano, Op. 22: III. Leidenschaftlich schnell",
+      "url": "https://open.spotify.com/track/0QIlxI2e6Ru1AAOrSqfrsG"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Melissa Carper & Theo Lawrence ",
-  "num_followers": 313035,
+  "num_followers": 313025,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -703,26 +703,6 @@
     {
       "added_at": "2026-02-06 05:00:30",
       "album": {
-        "name": "All Fifty States",
-        "url": "https://open.spotify.com/album/4W2oK0yvYz7pOLwFkdZzpW"
-      },
-      "artists": [
-        {
-          "name": "Melissa Carper",
-          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
-        },
-        {
-          "name": "Theo Lawrence",
-          "url": "https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2"
-        }
-      ],
-      "duration_ms": 210426,
-      "name": "All Fifty States",
-      "url": "https://open.spotify.com/track/3UqKsB0FyJWHOo9rQpFCQA"
-    },
-    {
-      "added_at": "2026-02-06 05:00:30",
-      "album": {
         "name": "The Returner",
         "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 200933,
       "name": "Blue Kentucky Girl - 2003 Remaster",
       "url": "https://open.spotify.com/track/3O9GZtd0hf6RH6EJjb5KXB"
+    },
+    {
+      "added_at": "2026-02-06 05:00:30",
+      "album": {
+        "name": "All Fifty States",
+        "url": "https://open.spotify.com/album/4W2oK0yvYz7pOLwFkdZzpW"
+      },
+      "artists": [
+        {
+          "name": "Melissa Carper",
+          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
+        },
+        {
+          "name": "Theo Lawrence",
+          "url": "https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2"
+        }
+      ],
+      "duration_ms": 210426,
+      "name": "All Fifty States",
+      "url": "https://open.spotify.com/track/3UqKsB0FyJWHOo9rQpFCQA"
     },
     {
       "added_at": "2026-02-06 05:00:30",

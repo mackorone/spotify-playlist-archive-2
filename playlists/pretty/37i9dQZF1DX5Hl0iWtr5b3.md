@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Hl0iWtr5b3.md) - [plain]
 
 > Unmask your true love\. Listen to the music from Bridgerton.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,738,288 likes - 124 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,748,403 likes - 124 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [360 \(Arr\. For Cello Obligato and String Quartet\)](https://open.spotify.com/track/22B0img3GewOBsjGMoYx9T) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Bridgerton Season Four \(Covers from the Netflix Series\)](https://open.spotify.com/album/5i1sHzYpjy5XKnhgFjukXF) | 2:11 |
 | 2 | [Birds of a Feather](https://open.spotify.com/track/4uNMTDvUKuC1v54HwGoj4U) | [GEMINI STRINGS](https://open.spotify.com/artist/5xyr8b54iX8OxftXl69SR5) | [Bridgerton Season Four \(Covers from the Netflix Series\)](https://open.spotify.com/album/5i1sHzYpjy5XKnhgFjukXF) | 3:20 |
 | 3 | [Lose Control](https://open.spotify.com/track/2WIaOFFalasDSYeQiYz1tV) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Four \(Covers from the Netflix Series\)](https://open.spotify.com/album/5i1sHzYpjy5XKnhgFjukXF) | 3:30 |
-| 4 | [Just What I Needed](https://open.spotify.com/track/6Xk7Q0vfA9viU3cwy7Fmk3) | [Altum Quartet](https://open.spotify.com/artist/0Phs4D48xiDb3NF2ShdHld), [Berlin Session Strings](https://open.spotify.com/artist/2oiTTf3Lf3rAVQzlnf2Yw7) | [Bridgerton Season Four \(Covers from the Netflix Series\)](https://open.spotify.com/album/5i1sHzYpjy5XKnhgFjukXF) | 3:45 |
+| 4 | [Just What I Needed](https://open.spotify.com/track/6Xk7Q0vfA9viU3cwy7Fmk3) | [Altum Quartet](https://open.spotify.com/artist/4GZOSb7n8evS56mgUeTbBi), [Berlin Session Strings](https://open.spotify.com/artist/322qBLQuS5U8SrNiLXCCA0) | [Bridgerton Season Four \(Covers from the Netflix Series\)](https://open.spotify.com/album/5i1sHzYpjy5XKnhgFjukXF) | 3:45 |
 | 5 | [Fields Of Gold \(arr\. String Quartet\)](https://open.spotify.com/track/5UchrJsAGCWu69BfkLmQpA) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Bridgerton Season Four \(Covers from the Netflix Series\)](https://open.spotify.com/album/5i1sHzYpjy5XKnhgFjukXF) | 2:30 |
 | 6 | [Never Be The Same](https://open.spotify.com/track/67owhi2vdncwSNE4fEM5Lc) | [Strings From Paris](https://open.spotify.com/artist/4c520eahgQwzeJopRch4k4) | [Bridgerton Season Four \(Covers from the Netflix Series\)](https://open.spotify.com/album/5i1sHzYpjy5XKnhgFjukXF) | 3:45 |
 | 7 | [The Night We Met](https://open.spotify.com/track/3j849LjxCe8WZMQjiKsl8Z) | [Joni Fuller](https://open.spotify.com/artist/1yuRLBj3cMO3LKwL98LMrw) | [Bridgerton Season Four \(Covers from the Netflix Series\)](https://open.spotify.com/album/5i1sHzYpjy5XKnhgFjukXF) | 3:28 |

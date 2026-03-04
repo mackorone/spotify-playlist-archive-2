@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: Iuna Falc\u00e3o",
-  "num_followers": 21244,
+  "num_followers": 21249,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,26 @@
     {
       "added_at": "2026-02-27 20:03:10",
       "album": {
+        "name": "adesivos",
+        "url": "https://open.spotify.com/album/64Q8HwqFXQnMLwv44Adjm4"
+      },
+      "artists": [
+        {
+          "name": "pedro lanches",
+          "url": "https://open.spotify.com/artist/44PNMjjw6oTqDPzOdcGAI7"
+        },
+        {
+          "name": "YMA",
+          "url": "https://open.spotify.com/artist/6iT2YoEvBBNXpfHrOvAmk9"
+        }
+      ],
+      "duration_ms": 241781,
+      "name": "adesivos",
+      "url": "https://open.spotify.com/track/2DC3j9vVu1Y9yC35gwuj89"
+    },
+    {
+      "added_at": "2026-02-27 20:03:10",
+      "album": {
         "name": "N\u00e3o Perde",
         "url": "https://open.spotify.com/album/7oCRRHbCZa37T7QqkzPW8y"
       },
@@ -187,26 +207,6 @@
       "duration_ms": 140869,
       "name": "N\u00e3o Perde",
       "url": "https://open.spotify.com/track/27G9CRFadvdn98dOepffKc"
-    },
-    {
-      "added_at": "2026-02-27 20:03:10",
-      "album": {
-        "name": "adesivos",
-        "url": "https://open.spotify.com/album/64Q8HwqFXQnMLwv44Adjm4"
-      },
-      "artists": [
-        {
-          "name": "pedro lanches",
-          "url": "https://open.spotify.com/artist/44PNMjjw6oTqDPzOdcGAI7"
-        },
-        {
-          "name": "YMA",
-          "url": "https://open.spotify.com/artist/6iT2YoEvBBNXpfHrOvAmk9"
-        }
-      ],
-      "duration_ms": 241781,
-      "name": "adesivos",
-      "url": "https://open.spotify.com/track/2DC3j9vVu1Y9yC35gwuj89"
     },
     {
       "added_at": "2026-02-27 20:03:10",
@@ -283,6 +283,22 @@
     {
       "added_at": "2026-02-27 20:03:10",
       "album": {
+        "name": "Amsterd\u00e3",
+        "url": "https://open.spotify.com/album/00vPfSyyZC5Qn0h82tLkGQ"
+      },
+      "artists": [
+        {
+          "name": "Kain",
+          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
+        }
+      ],
+      "duration_ms": 132467,
+      "name": "Amsterd\u00e3",
+      "url": "https://open.spotify.com/track/3MwlkTp7Oj0GKqiFXzofdW"
+    },
+    {
+      "added_at": "2026-02-27 20:03:10",
+      "album": {
         "name": "Diaba",
         "url": "https://open.spotify.com/album/5RbiJAOmmGZDw2xAUEqjYk"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 227755,
       "name": "Voc\u00ea Sabe Tudo Pela Metade",
       "url": "https://open.spotify.com/track/70Gyc0ylgaU7iwaXKZFsTC"
-    },
-    {
-      "added_at": "2026-02-27 20:03:10",
-      "album": {
-        "name": "Amsterd\u00e3",
-        "url": "https://open.spotify.com/album/00vPfSyyZC5Qn0h82tLkGQ"
-      },
-      "artists": [
-        {
-          "name": "Kain",
-          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
-        }
-      ],
-      "duration_ms": 132467,
-      "name": "Amsterd\u00e3",
-      "url": "https://open.spotify.com/track/3MwlkTp7Oj0GKqiFXzofdW"
     },
     {
       "added_at": "2026-02-27 20:03:10",
@@ -427,6 +427,26 @@
     {
       "added_at": "2026-02-27 20:03:10",
       "album": {
+        "name": "PRESSA OU PRESS\u00c3O",
+        "url": "https://open.spotify.com/album/7txyne3q7vRMYe4mdiUY9m"
+      },
+      "artists": [
+        {
+          "name": "LAURO",
+          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 154925,
+      "name": "PRESSA OU PRESS\u00c3O",
+      "url": "https://open.spotify.com/track/6B77VMLRmKIpWlODfetOoC"
+    },
+    {
+      "added_at": "2026-02-27 20:03:10",
+      "album": {
         "name": "SOUNDBOY SONIDERO",
         "url": "https://open.spotify.com/album/2OjGnee02C0I9avn8Nt6im"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 233002,
       "name": "Amanh\u00e3s Azuis",
       "url": "https://open.spotify.com/track/7qA4lsz7AlbcdNN070OTAc"
-    },
-    {
-      "added_at": "2026-02-27 20:03:10",
-      "album": {
-        "name": "PRESSA OU PRESS\u00c3O",
-        "url": "https://open.spotify.com/album/7txyne3q7vRMYe4mdiUY9m"
-      },
-      "artists": [
-        {
-          "name": "LAURO",
-          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 154925,
-      "name": "PRESSA OU PRESS\u00c3O",
-      "url": "https://open.spotify.com/track/6B77VMLRmKIpWlODfetOoC"
     },
     {
       "added_at": "2026-02-27 20:03:10",
@@ -559,6 +559,22 @@
     {
       "added_at": "2026-02-27 20:03:10",
       "album": {
+        "name": "MARCO",
+        "url": "https://open.spotify.com/album/24iPHUThPE6OL4PjV7IiNw"
+      },
+      "artists": [
+        {
+          "name": "Marco Baptista",
+          "url": "https://open.spotify.com/artist/4z72Rq6ZmZ4tIP1kY2CtmF"
+        }
+      ],
+      "duration_ms": 176315,
+      "name": "NUNCA VOU ME ACOSTUMAR",
+      "url": "https://open.spotify.com/track/6a2dFCEzP96Nt2n6KRsQTb"
+    },
+    {
+      "added_at": "2026-02-27 20:03:10",
+      "album": {
         "name": "Telejornal Animal",
         "url": "https://open.spotify.com/album/0g9meJjVpasnyuWqdoeWCH"
       },
@@ -575,18 +591,18 @@
     {
       "added_at": "2026-02-27 20:03:10",
       "album": {
-        "name": "MARCO",
-        "url": "https://open.spotify.com/album/24iPHUThPE6OL4PjV7IiNw"
+        "name": "Vil\u00e3 da Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/5QBdLtY2q2X8qtowaPXsRI"
       },
       "artists": [
         {
-          "name": "Marco Baptista",
-          "url": "https://open.spotify.com/artist/4z72Rq6ZmZ4tIP1kY2CtmF"
+          "name": "Hanifah",
+          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
         }
       ],
-      "duration_ms": 176315,
-      "name": "NUNCA VOU ME ACOSTUMAR",
-      "url": "https://open.spotify.com/track/6a2dFCEzP96Nt2n6KRsQTb"
+      "duration_ms": 146526,
+      "name": "Vil\u00e3 da Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/5BnsHBKi7iKJyEAF5u37hE"
     },
     {
       "added_at": "2026-02-27 20:03:10",
@@ -615,26 +631,6 @@
     {
       "added_at": "2026-02-27 20:03:10",
       "album": {
-        "name": "Cacha\u00e7a Postal",
-        "url": "https://open.spotify.com/album/2EFZZ7KLN9nr7to7eOUbIV"
-      },
-      "artists": [
-        {
-          "name": "Yas",
-          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
-        },
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        }
-      ],
-      "duration_ms": 172444,
-      "name": "Cacha\u00e7a Postal",
-      "url": "https://open.spotify.com/track/7F8Ij4sTYYY1Yu3AYGbBLG"
-    },
-    {
-      "added_at": "2026-02-27 20:03:10",
-      "album": {
         "name": "M\u00fasicas para adulto, Vol.1",
         "url": "https://open.spotify.com/album/1bq4QFsbgB2sKuV5HHOlC6"
       },
@@ -659,6 +655,26 @@
     {
       "added_at": "2026-02-27 20:03:10",
       "album": {
+        "name": "Cacha\u00e7a Postal",
+        "url": "https://open.spotify.com/album/2EFZZ7KLN9nr7to7eOUbIV"
+      },
+      "artists": [
+        {
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+        },
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        }
+      ],
+      "duration_ms": 172444,
+      "name": "Cacha\u00e7a Postal",
+      "url": "https://open.spotify.com/track/7F8Ij4sTYYY1Yu3AYGbBLG"
+    },
+    {
+      "added_at": "2026-02-27 20:03:10",
+      "album": {
         "name": "Mas Que Porra",
         "url": "https://open.spotify.com/album/3nvA63FjzbjPBuXwK8M1tv"
       },
@@ -671,6 +687,26 @@
       "duration_ms": 121874,
       "name": "Mas Que Porra",
       "url": "https://open.spotify.com/track/3Yo2jWdQEjar8IayTy6B7Z"
+    },
+    {
+      "added_at": "2026-02-27 20:03:10",
+      "album": {
+        "name": "Bloco na Rua",
+        "url": "https://open.spotify.com/album/6fZ0tPpa5oU0X6qotDArHu"
+      },
+      "artists": [
+        {
+          "name": "D\u00e1rio Inerente",
+          "url": "https://open.spotify.com/artist/1NKiimXkmC2cFdhaE5z6y9"
+        },
+        {
+          "name": "Davzera",
+          "url": "https://open.spotify.com/artist/42M0YRSCEu5ppWbOioH0GH"
+        }
+      ],
+      "duration_ms": 214928,
+      "name": "Dend\u00ea",
+      "url": "https://open.spotify.com/track/5ENaxM7C9909sE1eyIAueQ"
     },
     {
       "added_at": "2026-02-27 20:03:10",
@@ -711,22 +747,6 @@
       "duration_ms": 207157,
       "name": "INF\u00c2NCIA",
       "url": "https://open.spotify.com/track/6Z8CqWrIpxg4xbWhl0u0Ez"
-    },
-    {
-      "added_at": "2026-02-27 20:03:10",
-      "album": {
-        "name": "Vil\u00e3 da Hist\u00f3ria",
-        "url": "https://open.spotify.com/album/5QBdLtY2q2X8qtowaPXsRI"
-      },
-      "artists": [
-        {
-          "name": "Hanifah",
-          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
-        }
-      ],
-      "duration_ms": 146526,
-      "name": "Vil\u00e3 da Hist\u00f3ria",
-      "url": "https://open.spotify.com/track/5BnsHBKi7iKJyEAF5u37hE"
     },
     {
       "added_at": "2026-02-27 20:03:10",
@@ -783,22 +803,18 @@
     {
       "added_at": "2026-02-27 20:03:10",
       "album": {
-        "name": "Bloco na Rua",
-        "url": "https://open.spotify.com/album/6fZ0tPpa5oU0X6qotDArHu"
+        "name": "Endofloema",
+        "url": "https://open.spotify.com/album/2QnsXlUIP3XhbSxrEyizu3"
       },
       "artists": [
         {
-          "name": "D\u00e1rio Inerente",
-          "url": "https://open.spotify.com/artist/1NKiimXkmC2cFdhaE5z6y9"
-        },
-        {
-          "name": "Davzera",
-          "url": "https://open.spotify.com/artist/42M0YRSCEu5ppWbOioH0GH"
+          "name": "Tubo de Ensaio",
+          "url": "https://open.spotify.com/artist/5jXqZO3texOH7eM8xF0ggw"
         }
       ],
-      "duration_ms": 214928,
-      "name": "Dend\u00ea",
-      "url": "https://open.spotify.com/track/5ENaxM7C9909sE1eyIAueQ"
+      "duration_ms": 303692,
+      "name": "Domingueira",
+      "url": "https://open.spotify.com/track/2m154KLWY48iLUrKsiu3YP"
     },
     {
       "added_at": "2026-02-27 20:03:10",
@@ -823,22 +839,6 @@
       "duration_ms": 147692,
       "name": "UNDERGROUND",
       "url": "https://open.spotify.com/track/16XmpQUpFIDULxeKCTfeDc"
-    },
-    {
-      "added_at": "2026-02-27 20:03:10",
-      "album": {
-        "name": "Endofloema",
-        "url": "https://open.spotify.com/album/2QnsXlUIP3XhbSxrEyizu3"
-      },
-      "artists": [
-        {
-          "name": "Tubo de Ensaio",
-          "url": "https://open.spotify.com/artist/5jXqZO3texOH7eM8xF0ggw"
-        }
-      ],
-      "duration_ms": 303692,
-      "name": "Domingueira",
-      "url": "https://open.spotify.com/track/2m154KLWY48iLUrKsiu3YP"
     },
     {
       "added_at": "2026-02-27 20:03:10",

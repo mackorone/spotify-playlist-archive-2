@@ -1,6 +1,6 @@
 {
   "description": "Der Sommer neigt sich dem Ende \ud83e\udd72 - und das waren die Sommerhits  2025.",
-  "num_followers": 1579494,
+  "num_followers": 1579381,
   "original_name": "Sommerhits 2025",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2025-08-29 06:03:40",
       "album": {
-        "name": "Manchild",
-        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 213645,
-      "name": "Manchild",
-      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
-    },
-    {
-      "added_at": "2025-08-29 06:03:40",
-      "album": {
         "name": "Love Me Not / Love Is Blind",
         "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
+    },
+    {
+      "added_at": "2025-08-29 06:03:40",
+      "album": {
+        "name": "Manchild",
+        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 213645,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
     },
     {
       "added_at": "2025-08-29 06:03:40",
@@ -1395,30 +1395,26 @@
     {
       "added_at": "2025-08-29 06:03:40",
       "album": {
-        "name": "Feel The Love",
-        "url": "https://open.spotify.com/album/5n6V1LkjqA3sr4n1gz1ODx"
+        "name": "Rude Boi",
+        "url": "https://open.spotify.com/album/4QhOiWhPeXjjhS3kSOwMrB"
       },
       "artists": [
         {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+          "name": "Rony Seikaly",
+          "url": "https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB"
         },
         {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+          "name": "Lou Combo",
+          "url": "https://open.spotify.com/artist/1kkNVQF0LOEnXqKPO0ltVX"
         },
         {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
-        },
-        {
-          "name": "Avi Snow",
-          "url": "https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu"
+          "name": "Erin Kimberly",
+          "url": "https://open.spotify.com/artist/2ramOs79MnYC9oLFy3e3oe"
         }
       ],
-      "duration_ms": 183016,
-      "name": "Feel The Love",
-      "url": "https://open.spotify.com/track/79VHKtRi11otZg0Bil7v1G"
+      "duration_ms": 215409,
+      "name": "Rude Boi",
+      "url": "https://open.spotify.com/track/6RhszueRE6SiDnXkv3i88r"
     },
     {
       "added_at": "2025-08-29 06:03:40",

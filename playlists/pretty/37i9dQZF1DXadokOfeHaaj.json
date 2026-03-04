@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Fred again.., Jamie T",
-  "num_followers": 41479,
+  "num_followers": 41549,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -799,46 +799,6 @@
     {
       "added_at": "2026-02-13 00:00:17",
       "album": {
-        "name": "Keep Me On The Dancefloor",
-        "url": "https://open.spotify.com/album/4J4bgMYKDkVRDW5zNGWghU"
-      },
-      "artists": [
-        {
-          "name": "Riva Starr",
-          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
-        },
-        {
-          "name": "Soul Speech",
-          "url": "https://open.spotify.com/artist/1EAcO01N3yXpUGqhCJjPiT"
-        },
-        {
-          "name": "Harry Stone",
-          "url": "https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96"
-        }
-      ],
-      "duration_ms": 181921,
-      "name": "It Feels Much Better",
-      "url": "https://open.spotify.com/track/2YJZrP7foi3hTnuVGbEsnp"
-    },
-    {
-      "added_at": "2026-02-13 00:00:17",
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/0JVIuhIeX5ixqtVSgTBYMk"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 218179,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/1eWpwmgJO9ZUINjCttvK4L"
-    },
-    {
-      "added_at": "2026-02-13 00:00:17",
-      "album": {
         "name": "Fauxllennium (Japanese Deluxe Edition)",
         "url": "https://open.spotify.com/album/5MQx9UktIiM86OYBZh1c4M"
       },
@@ -859,6 +819,46 @@
       "duration_ms": 213000,
       "name": "Monday, Monday",
       "url": "https://open.spotify.com/track/14joz9oqnhYORgpKOmE0Aj"
+    },
+    {
+      "added_at": "2026-02-13 00:00:17",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/0JVIuhIeX5ixqtVSgTBYMk"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 218179,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/1eWpwmgJO9ZUINjCttvK4L"
+    },
+    {
+      "added_at": "2026-02-13 00:00:17",
+      "album": {
+        "name": "Keep Me On The Dancefloor",
+        "url": "https://open.spotify.com/album/4J4bgMYKDkVRDW5zNGWghU"
+      },
+      "artists": [
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
+        {
+          "name": "Soul Speech",
+          "url": "https://open.spotify.com/artist/1EAcO01N3yXpUGqhCJjPiT"
+        },
+        {
+          "name": "Harry Stone",
+          "url": "https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96"
+        }
+      ],
+      "duration_ms": 181921,
+      "name": "It Feels Much Better",
+      "url": "https://open.spotify.com/track/2YJZrP7foi3hTnuVGbEsnp"
     },
     {
       "added_at": "2026-02-13 00:00:17",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-02-13 00:00:17",
       "album": {
+        "name": "Oh Baby",
+        "url": "https://open.spotify.com/album/1O0ETP1RoxA65mE6ehlZ57"
+      },
+      "artists": [
+        {
+          "name": "Archie Holmes",
+          "url": "https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J"
+        }
+      ],
+      "duration_ms": 180999,
+      "name": "Oh Baby",
+      "url": "https://open.spotify.com/track/3OICfhRje9Hy4Pq0UQ4Dhr"
+    },
+    {
+      "added_at": "2026-02-13 00:00:17",
+      "album": {
         "name": "Hallucinating Love",
         "url": "https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9"
       },
@@ -1043,18 +1059,18 @@
     {
       "added_at": "2026-02-13 00:00:17",
       "album": {
-        "name": "Oh Baby",
-        "url": "https://open.spotify.com/album/1O0ETP1RoxA65mE6ehlZ57"
+        "name": "GIRL I WANT YOU",
+        "url": "https://open.spotify.com/album/7i4Kb4tSmsvXWTM399KKct"
       },
       "artists": [
         {
-          "name": "Archie Holmes",
-          "url": "https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J"
+          "name": "Paperwater",
+          "url": "https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky"
         }
       ],
-      "duration_ms": 180999,
-      "name": "Oh Baby",
-      "url": "https://open.spotify.com/track/3OICfhRje9Hy4Pq0UQ4Dhr"
+      "duration_ms": 211653,
+      "name": "GIRL I WANT YOU",
+      "url": "https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl"
     },
     {
       "added_at": "2026-02-13 00:00:17",
@@ -1071,22 +1087,6 @@
       "duration_ms": 212066,
       "name": "Lift You Up",
       "url": "https://open.spotify.com/track/4hSTvY4GQrNDC2TsCwhEFc"
-    },
-    {
-      "added_at": "2026-02-13 00:00:17",
-      "album": {
-        "name": "GIRL I WANT YOU",
-        "url": "https://open.spotify.com/album/7i4Kb4tSmsvXWTM399KKct"
-      },
-      "artists": [
-        {
-          "name": "Paperwater",
-          "url": "https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky"
-        }
-      ],
-      "duration_ms": 211653,
-      "name": "GIRL I WANT YOU",
-      "url": "https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl"
     },
     {
       "added_at": "2026-02-13 00:00:17",
@@ -1227,22 +1227,18 @@
     {
       "added_at": "2026-02-13 00:00:17",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/7d9whArUbh3cK93jfmS3Ui"
+        "name": "So Low",
+        "url": "https://open.spotify.com/album/0kghcOAkB1hUkSKTFUxRpV"
       },
       "artists": [
         {
           "name": "49th & Main",
           "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
-        },
-        {
-          "name": "SHEE",
-          "url": "https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv"
         }
       ],
-      "duration_ms": 138906,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/5HEx0ZwJEmZhvjlrMYnSuf"
+      "duration_ms": 165454,
+      "name": "So Low",
+      "url": "https://open.spotify.com/track/6LPooJUhejqFutgXU1DY0q"
     },
     {
       "added_at": "2026-02-13 00:00:17",

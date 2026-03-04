@@ -1,12 +1,12 @@
 {
   "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 186185,
+  "num_followers": 186225,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaOBgAAAAABC8nmXQxYCSYiRs8kvFH5F",
+  "snapshot_id": "aaTTAAAAAABiwqaZiCYjkiv4swkKyRbm",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Cantante De Los Cantantes",
-        "url": "https://open.spotify.com/album/59Gjxm9FfL1UXDJ78QsoA8"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 411653,
-      "name": "Peri\u00f3dico De Ayer",
-      "url": "https://open.spotify.com/track/0qoQy26r8DWxTH5XWAmnc8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 306640,
       "name": "Ausencia",
       "url": "https://open.spotify.com/track/1r6oqZhRYStrYWSeGKuCFP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Cantante De Los Cantantes",
+        "url": "https://open.spotify.com/album/59Gjxm9FfL1UXDJ78QsoA8"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 411653,
+      "name": "Peri\u00f3dico De Ayer",
+      "url": "https://open.spotify.com/track/0qoQy26r8DWxTH5XWAmnc8"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Cantante De Los Cantantes",
-        "url": "https://open.spotify.com/album/59Gjxm9FfL1UXDJ78QsoA8"
+        "name": "De Ti Depende (Remastered 2024)",
+        "url": "https://open.spotify.com/album/19fhJ4eKpPYUZrkWCTpaQb"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 331333,
-      "name": "Hacha Y Machete",
-      "url": "https://open.spotify.com/track/4s0NyUWYpDcVh9pLjAStiG"
+      "duration_ms": 454903,
+      "name": "Vamos a Re\u00edr un Poco - Remastered 2024",
+      "url": "https://open.spotify.com/track/6cXCkEgFfXZEEAxqmCAcnm"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Ti Depende (Remastered 2024)",
-        "url": "https://open.spotify.com/album/19fhJ4eKpPYUZrkWCTpaQb"
+        "name": "El Cantante De Los Cantantes",
+        "url": "https://open.spotify.com/album/59Gjxm9FfL1UXDJ78QsoA8"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 454903,
-      "name": "Vamos a Re\u00edr un Poco - Remastered 2024",
-      "url": "https://open.spotify.com/track/6cXCkEgFfXZEEAxqmCAcnm"
+      "duration_ms": 331333,
+      "name": "Hacha Y Machete",
+      "url": "https://open.spotify.com/track/4s0NyUWYpDcVh9pLjAStiG"
     },
     {
       "added_at": null,

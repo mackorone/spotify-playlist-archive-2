@@ -1,6 +1,6 @@
 {
   "description": "Dedicata a chi non ha rischiato ed \u00e8 sempre andato al massimo  \u26a1\ufe0f",
-  "num_followers": 13256,
+  "num_followers": 13262,
   "original_name": "Sanremo: Schegge Impazzite",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-01-25 23:01:07",
       "album": {
-        "name": "Daniel Sentacruz Ensemble: Solo Grandi Successi",
-        "url": "https://open.spotify.com/album/5f9JDlOz09tMEcXmWljoZ0"
-      },
-      "artists": [
-        {
-          "name": "Daniel Sentacruz Ensemble",
-          "url": "https://open.spotify.com/artist/0VkTO4kWbmwTFNReojnv26"
-        }
-      ],
-      "duration_ms": 222767,
-      "name": "Linda Bella Linda - 2004 Digital Remaster",
-      "url": "https://open.spotify.com/track/2YCL69ro0MbYfCQHj0rY7z"
-    },
-    {
-      "added_at": "2026-01-25 23:01:07",
-      "album": {
         "name": "Made In Italy",
         "url": "https://open.spotify.com/album/0aHIpO6L0A7hgp5Czy8OFF"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 218188,
       "name": "Buona Giornata",
       "url": "https://open.spotify.com/track/7LFXimqV3fbyE1IQrTkwlk"
+    },
+    {
+      "added_at": "2026-01-25 23:01:07",
+      "album": {
+        "name": "Daniel Sentacruz Ensemble: Solo Grandi Successi",
+        "url": "https://open.spotify.com/album/5f9JDlOz09tMEcXmWljoZ0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Sentacruz Ensemble",
+          "url": "https://open.spotify.com/artist/0VkTO4kWbmwTFNReojnv26"
+        }
+      ],
+      "duration_ms": 222767,
+      "name": "Linda Bella Linda - 2004 Digital Remaster",
+      "url": "https://open.spotify.com/track/2YCL69ro0MbYfCQHj0rY7z"
     },
     {
       "added_at": "2026-01-25 23:01:07",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-01-25 23:01:07",
       "album": {
-        "name": "Little Tony",
-        "url": "https://open.spotify.com/album/5L6au4dlAWmCsYa9SWUlys"
-      },
-      "artists": [
-        {
-          "name": "Little Tony",
-          "url": "https://open.spotify.com/artist/6g9yfu8k5sapPN9iisZhEW"
-        }
-      ],
-      "duration_ms": 174733,
-      "name": "Bada Bambina",
-      "url": "https://open.spotify.com/track/4KvJHSwn7GG5XVg1PSC9vQ"
-    },
-    {
-      "added_at": "2026-01-25 23:01:07",
-      "album": {
         "name": "Grigio",
         "url": "https://open.spotify.com/album/270IC3XZCJIoxK5uRPzWmY"
       },
@@ -535,6 +519,22 @@
     {
       "added_at": "2026-01-25 23:01:07",
       "album": {
+        "name": "Little Tony",
+        "url": "https://open.spotify.com/album/5L6au4dlAWmCsYa9SWUlys"
+      },
+      "artists": [
+        {
+          "name": "Little Tony",
+          "url": "https://open.spotify.com/artist/6g9yfu8k5sapPN9iisZhEW"
+        }
+      ],
+      "duration_ms": 174733,
+      "name": "Bada Bambina",
+      "url": "https://open.spotify.com/track/4KvJHSwn7GG5XVg1PSC9vQ"
+    },
+    {
+      "added_at": "2026-01-25 23:01:07",
+      "album": {
         "name": "I Pandemonium",
         "url": "https://open.spotify.com/album/4JWO6OQfAhyNzTIBnOvhO2"
       },
@@ -547,22 +547,6 @@
       "duration_ms": 215133,
       "name": "Tu fai schifo sempre",
       "url": "https://open.spotify.com/track/3wtQeyl59gDxcJkvbV036k"
-    },
-    {
-      "added_at": "2026-01-25 23:01:07",
-      "album": {
-        "name": "\u00c7a Plane Pour Moi",
-        "url": "https://open.spotify.com/album/6bv0t7P61aPvCjgbqMZk0V"
-      },
-      "artists": [
-        {
-          "name": "Plastic Bertrand",
-          "url": "https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Ping Pong",
-      "url": "https://open.spotify.com/track/2H9copqgXrRBpjLnMBZjh8"
     },
     {
       "added_at": "2026-01-25 23:01:07",
@@ -591,6 +575,22 @@
     {
       "added_at": "2026-01-25 23:01:07",
       "album": {
+        "name": "\u00c7a Plane Pour Moi",
+        "url": "https://open.spotify.com/album/6bv0t7P61aPvCjgbqMZk0V"
+      },
+      "artists": [
+        {
+          "name": "Plastic Bertrand",
+          "url": "https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Ping Pong",
+      "url": "https://open.spotify.com/track/2H9copqgXrRBpjLnMBZjh8"
+    },
+    {
+      "added_at": "2026-01-25 23:01:07",
+      "album": {
         "name": "Made In Italy",
         "url": "https://open.spotify.com/album/2GU0jh6JYDm5CZzOwFJBb9"
       },
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-01-25 23:01:07",
       "album": {
-        "name": "Mai dire compilation!",
-        "url": "https://open.spotify.com/album/0gs0mysY0cv4AuZ3HdebGV"
-      },
-      "artists": [
-        {
-          "name": "Le Figlie del Vento",
-          "url": "https://open.spotify.com/artist/5KdQM9MsxN0vGes2TlO3zb"
-        }
-      ],
-      "duration_ms": 161160,
-      "name": "Sugli sugli bane bane",
-      "url": "https://open.spotify.com/track/13o2dU3sWYYKqB3D3npOR6"
-    },
-    {
-      "added_at": "2026-01-25 23:01:07",
-      "album": {
         "name": "Controra",
         "url": "https://open.spotify.com/album/5TizU1nhmP8zngvjbMibLd"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 192960,
       "name": "Mamma Non Lo Sa",
       "url": "https://open.spotify.com/track/0XByMyQh8zv94pmr9SnbqG"
+    },
+    {
+      "added_at": "2026-01-25 23:01:07",
+      "album": {
+        "name": "Mai dire compilation!",
+        "url": "https://open.spotify.com/album/0gs0mysY0cv4AuZ3HdebGV"
+      },
+      "artists": [
+        {
+          "name": "Le Figlie del Vento",
+          "url": "https://open.spotify.com/artist/5KdQM9MsxN0vGes2TlO3zb"
+        }
+      ],
+      "duration_ms": 161160,
+      "name": "Sugli sugli bane bane",
+      "url": "https://open.spotify.com/track/13o2dU3sWYYKqB3D3npOR6"
     },
     {
       "added_at": "2026-01-25 23:01:07",

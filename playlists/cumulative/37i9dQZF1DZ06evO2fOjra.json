@@ -1027,6 +1027,24 @@
     },
     {
       "album": {
+        "name": "Life Is Peachy",
+        "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211566,
+      "name": "No Place to Hide",
+      "url": "https://open.spotify.com/track/5PgNUYXmICNOudPFWLIuw3"
+    },
+    {
+      "album": {
         "name": "Untitled (Deluxe)",
         "url": "https://open.spotify.com/album/5gizwaBQyfZYTEb8zdL7Z6"
       },
@@ -1110,7 +1128,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 215993,
       "name": "Prey for Me",
       "url": "https://open.spotify.com/track/1XlGDlukA1wO9SG4gCcHjh"

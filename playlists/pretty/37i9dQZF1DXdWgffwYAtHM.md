@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:12dibRyPTOMitNNhVmlgnG">Medo em Cia.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,914 likes - 10 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,922 likes - 10 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

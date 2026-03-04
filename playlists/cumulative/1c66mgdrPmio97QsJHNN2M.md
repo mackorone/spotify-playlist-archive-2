@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-1,283 songs - 2 day 22 hr 5 min
+1,289 songs - 2 day 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Ansigt](https://open.spotify.com/track/0zAvagM1fH5Xiyy3fJMfX0) | [Modvind](https://open.spotify.com/artist/6GmD8n2tPz3suHrTH7r7qZ) | [Ansigt](https://open.spotify.com/album/779gSeAsqzNIAoQvX3fINl) | 2:51 | 2026-01-23 | 2026-02-24 |
 | [antique](https://open.spotify.com/track/20IQ2cV6217aPuUDOoIQmZ) | [Danil Klementiev](https://open.spotify.com/artist/6NRDBkBmvu62nym3FBTCmz), [weepnot](https://open.spotify.com/artist/1v9YEDzniXUjnbtG4EKLRz) | [antique](https://open.spotify.com/album/1aDzv0HLtwmk3KvLqGL3Zc) | 2:29 | 2025-11-19 | 2025-12-21 |
 | [Antiwild](https://open.spotify.com/track/2I8UawSiV8WgRC7qOmimkp) | [Caitlin Dalton](https://open.spotify.com/artist/2PC3w9To9997rseFw2xLgh) | [Antiwild](https://open.spotify.com/album/6o1gw3HpmKxuCjZTCTDTi9) | 2:35 | 2025-12-23 | 2026-01-24 |
+| [Anxiety](https://open.spotify.com/track/2r2UYTxeSHutVFcH7KO5mA) | [Lauren Minear](https://open.spotify.com/artist/5nnohGTyoGL4ZCcudNki7A) | [Boxing Day \(Deluxe\)](https://open.spotify.com/album/09jVFVWEuvz7mq4GSvgi2h) | 2:56 | 2026-03-03 |  |
 | [ANYTHING WITH YOU](https://open.spotify.com/track/2RdqVCYiDE2qMjlxoko5wa) | [TOSHIO](https://open.spotify.com/artist/47bckvEbfGJIp3qi9gLqV9) | [ANYTHING WITH YOU](https://open.spotify.com/album/7vHGt42zBqqRseJuOCVKQr) | 2:17 | 2025-12-23 | 2026-01-24 |
 | [Aperture](https://open.spotify.com/track/1FGyPOJF6S14WC68YaTKus) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Ambient Darkness \- Vol\. 2 \- The Light](https://open.spotify.com/album/7GBhGMtGrYUjjb25FQGJaO) | 3:16 | 2026-01-14 | 2026-01-24 |
 | [Apology](https://open.spotify.com/track/2wdAXsku85d1vbcd6Pp3u4) | [Gla Lys](https://open.spotify.com/artist/4WiQ9z5ykjy7BQqfuiq0V7) | [Apology](https://open.spotify.com/album/0nXerWAPAYXOvN4ty5PjzJ) | 2:40 | 2025-12-18 | 2026-01-19 |
@@ -726,6 +727,7 @@
 | [MOON](https://open.spotify.com/track/6riL7V2IU8rPsdhspPAEnh) | [P.S\. Finn](https://open.spotify.com/artist/5LIEw3fAtnKcBcscLjvORK) | [MOON](https://open.spotify.com/album/7wfKikHveJgIMX6mwpgLMN) | 1:25 | 2026-01-07 | 2026-02-09 |
 | [Moonlight Mirage](https://open.spotify.com/track/1hxFoDvYJGUG0ubZBcUt0N) | [Maya Lune](https://open.spotify.com/artist/18jkyEKfD5CoLyZgJw2f5C) | [Cold Streets, Warm Minds](https://open.spotify.com/album/043FMwEWeve3tRuX6GLdCh) | 1:17 | 2026-02-12 |  |
 | [Moonset](https://open.spotify.com/track/70snidNwTqtZheK1uvX5It) | [Eric Contractor](https://open.spotify.com/artist/6uksFEZOrxTl6nyjkizZBx) | [Moonset](https://open.spotify.com/album/7pfoa3LQ0iwTjdrfP58ojx) | 4:05 | 2026-02-23 |  |
+| [More Cowbell](https://open.spotify.com/track/2g74g7KPBdoCYKoSfwGszj) | [Thee Wrecking Crew](https://open.spotify.com/artist/0RltW94tVg6OztzLsGu51w) | [More Cowbell](https://open.spotify.com/album/5rkFMC2qvfJ4dVNpf3LUMi) | 4:30 | 2026-03-03 |  |
 | [Morning Light](https://open.spotify.com/track/7q3bSnB43PJgmcJzB4gnzx) | [Frode Møller](https://open.spotify.com/artist/5r3LiRT8ytsGdckgx8hJwo) | [Morning Light](https://open.spotify.com/album/37kNz5cw59TbcijwmZI8eu) | 3:59 | 2025-12-30 | 2026-02-03 |
 | [Mother](https://open.spotify.com/track/1UEDedcftmCpsIf6SD1yGX) | [Jo Creek](https://open.spotify.com/artist/29eTtf15M911gc3shPv4Bc) | [Mother](https://open.spotify.com/album/1qTremrsgIehYp1Wic4KSV) | 3:45 | 2025-10-28 | 2025-11-30 |
 | [Move Me Still](https://open.spotify.com/track/4XArgFW4j9Q0mBfhLKDM58) | [Carla Patullo](https://open.spotify.com/artist/2urxoDnJxtTNJnoxUATRBE) | [Move Me Still](https://open.spotify.com/album/50caFXZgvmbR8UxLVBU9UP) | 3:06 | 2025-10-30 | 2025-12-01 |
@@ -938,6 +940,7 @@
 | [Rollercoaster \(Life Is A Rollercoaster\)](https://open.spotify.com/track/7rp1lXXfooQnfaQMhicOhR) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Rollercoaster \(Life Is A Rollercoaster\)](https://open.spotify.com/album/4mjaOkc5BcPOfDewUkK5Xq) | 3:42 | 2025-10-04 | 2026-01-15 |
 | [Roma](https://open.spotify.com/track/5UFMhB0iMZ9IRZnXVtE9uJ) | [Pedro Santos Oliveira](https://open.spotify.com/artist/6ipu3U0iZEkAiULeIr8JCQ) | [Roma](https://open.spotify.com/album/28GEpbSVfkg6AripcKvexZ) | 2:47 | 2026-02-24 |  |
 | [Runaway](https://open.spotify.com/track/2wy703EyNRzSfzaG7OZ9T1) | [Shahiem](https://open.spotify.com/artist/7zn6eJtZZ9E4QtkCsG4pTd) | [Runaway](https://open.spotify.com/album/5mhI1HBxNKz79MKYuiCjJE) | 2:45 | 2025-11-15 | 2025-12-17 |
+| [Runnin' For Your Love](https://open.spotify.com/track/1C7wICvYkOIU8ZunwAL1b2) | [Andrew Corbin and the Space Funk Odyssey](https://open.spotify.com/artist/5lshCYhXruEFWP8RBgBN3x) | [Darkness to Light](https://open.spotify.com/album/6eI4I6Bo86J62BEL7vsx0u) | 3:22 | 2026-03-03 |  |
 | [Running](https://open.spotify.com/track/1LdFU0wJ5Q3fpMSaJ1hCnb) | [Vi Talli](https://open.spotify.com/artist/46DGWbl890BrYCv6uTdsEP) | [Running](https://open.spotify.com/album/2CzKzJXmbMiEFFJiaPgNUZ) | 2:36 | 2026-02-14 |  |
 | [Running thru the Night](https://open.spotify.com/track/0TSw7FAr2DLpG959KCq7gy) | [LuumixX](https://open.spotify.com/artist/0YM7PRuqPpBZUzqnD5Wh6n) | [Running thru the Night](https://open.spotify.com/album/7LFxoHEis3zb1dd2QZDTKQ) | 3:20 | 2026-01-10 | 2026-02-11 |
 | [Sabes a Café](https://open.spotify.com/track/0Qp2oxVZb7FDxQ86iSaViR) | [Angel Alcántara](https://open.spotify.com/artist/4Y9cPV75nNhF7mGMEnXOmh) | [Sabes a Café](https://open.spotify.com/album/4jxW3NBtFDRSynt5OZdq4V) | 2:40 | 2026-02-14 |  |
@@ -1019,6 +1022,7 @@
 | [Space Ocean](https://open.spotify.com/track/3LqyDPqB4ksfsrEuy7DF0S) | [Spe](https://open.spotify.com/artist/69vo35PJDQDShmcXaINAnV) | [Space Ocean](https://open.spotify.com/album/3z4fw4Q1SbDr56bQin6r5l) | 2:19 | 2026-02-24 |  |
 | [Spaceman](https://open.spotify.com/track/7yPZZYudxDvXqI4nTRbpfm) | [noah monoton](https://open.spotify.com/artist/68viHSf7HOrA0sNBBPqaGK) | [noah monoton 4](https://open.spotify.com/album/7dcSVDo1EmoT3NZCVpAtqz) | 2:23 | 2026-03-02 |  |
 | [Special](https://open.spotify.com/track/457VlF5b0dJz457RyKODpa) | [Elitasrev](https://open.spotify.com/artist/6gGRGgblMuVn8S8dE8xaZR) | [Special](https://open.spotify.com/album/30SRVm18psphUpHD24YGwm) | 2:36 | 2025-12-10 | 2026-01-15 |
+| [Spectator Sport](https://open.spotify.com/track/0JK3UsC0sjyXpiGNENm5NP) | [Thee Wrecking Crew](https://open.spotify.com/artist/0RltW94tVg6OztzLsGu51w) | [Spectator Sport](https://open.spotify.com/album/4eOHMCqv4HpoYMVXqfKUgR) | 4:32 | 2026-03-03 |  |
 | [Spider Bite](https://open.spotify.com/track/33H7uVOHW9jpfDh6eZrRTT) | [Nafazolin](https://open.spotify.com/artist/5pBwZyTxM0JK3mVFo6hm02) | [Building Castles](https://open.spotify.com/album/6lDVB2o7jXRASlp1ronxsi) | 2:05 | 2026-01-07 | 2026-02-09 |
 | [Spiked \(Mind Eraser\)](https://open.spotify.com/track/6cSfeMnvpbCsyqovrmj951) | [Isaac Neilson](https://open.spotify.com/artist/0ocRRTaorsLc6UUwDBj5xQ) | [Spiked \(Mind Eraser\)](https://open.spotify.com/album/6ngGbqfKSJ3hwAw02ISMec) | 2:46 | 2025-10-27 | 2025-11-29 |
 | [Spilt Milk](https://open.spotify.com/track/2QPpJDsIZlcikjG0KgT64m) | [Lara Brewer](https://open.spotify.com/artist/7uXTRYehx0ctiLlYQfJi6k) | [Spilt Milk](https://open.spotify.com/album/4lJnB605zfEOS6cGFn1Wre) | 3:26 | 2026-02-12 |  |
@@ -1122,6 +1126,7 @@
 | [The Word](https://open.spotify.com/track/3ez13zTxo8H74uJm8yLyDp) | [Mary Ann Palermo](https://open.spotify.com/artist/1P5DDkoBymMyNn52dmMeoL) | [THERE'S A PLACE \(Beatles Re\-Imagined\)](https://open.spotify.com/album/13WhJ7Dsc6FOuOMbWP6pvp) | 3:31 | 2025-11-18 | 2025-12-20 |
 | [The Words I Long to Hear](https://open.spotify.com/track/1fjvhuFe5j8ROTTqwD1lUj) | [JUBER](https://open.spotify.com/artist/2Ldv7X6rb1DX2wmCkCmgDe) | [Dreams from a Future Morning](https://open.spotify.com/album/1hMTmOufP5NLVk85YueuVR) | 2:52 | 2026-01-27 | 2026-02-28 |
 | [Then I Met You](https://open.spotify.com/track/3FyvD6sx4OX2uIUUGsxIxU) | [JaShaku](https://open.spotify.com/artist/0ZsfYSlTGxS0e97MtJZbge) | [Then I Met You](https://open.spotify.com/album/62obecHMJmWIs8hcgnXN30) | 2:06 | 2026-02-06 |  |
+| [There will always be after](https://open.spotify.com/track/5478pnFiz0w1Tki1rNOZDL) | [Dr\. Weeb](https://open.spotify.com/artist/0kL9vr7sptfFqyRd2TdQ2x) | [There will always be after](https://open.spotify.com/album/22oAAGEcHfiX62kkIDfkxC) | 3:07 | 2026-03-03 |  |
 | [these streets is yours](https://open.spotify.com/track/3smkzGO1HafouKHojAF6y9) | [RayNay](https://open.spotify.com/artist/0ggALYAP0ou6MOkFBDWNBg) | [these streets is yours](https://open.spotify.com/album/4qfSaW2VntxNGOS4wiDSGs) | 2:58 | 2025-11-03 | 2025-12-07 |
 | [Think a Sacred Song](https://open.spotify.com/track/5tM1hHEJ6rwXCHM75MaT6o) | [Keys of the Kingdom](https://open.spotify.com/artist/0UApnbJP6xZtul7Aw6JfLO) | [Think a Sacred Song](https://open.spotify.com/album/46ecN8JMqsrHnxLkJslfo9) | 2:43 | 2025-11-19 | 2025-12-20 |
 | [Think Bout You](https://open.spotify.com/track/1ujsfc8Jw74iywnnwZawRx) | [Dylannnn](https://open.spotify.com/artist/4kP9tkskuHNEM6E4OrQmDO) | [These Songs Are Too Good To Just Sit In The Vault](https://open.spotify.com/album/2miDzxNSsOI98LbxX4dNbf) | 2:18 | 2026-01-16 | 2026-02-17 |
@@ -1286,6 +1291,7 @@
 | [YOUR LOVE](https://open.spotify.com/track/3SBlv3hA8nLHk9g67VJ2eF) | [Valleymountain](https://open.spotify.com/artist/1VH0oZ5j1GtP29Ye1d1zqo) | [YOUR LOVE](https://open.spotify.com/album/3lYQUFqAcydlAvPmbWqIE0) | 2:55 | 2026-02-26 |  |
 | [Your Touch](https://open.spotify.com/track/2SRfCnlaTpY7DLGFofdE6O) | [Lisha Sebastian](https://open.spotify.com/artist/3DGpupUZehN24bDfwPU647) | [Your Touch](https://open.spotify.com/album/5EEMvDjLL1CKRoZapO4tCy) | 3:13 | 2025-12-23 | 2026-01-24 |
 | [your touch makes me wanna throw up](https://open.spotify.com/track/2ygXnn17w91hjcJaVB9BIs) | [Biac](https://open.spotify.com/artist/4yDA8wiBAWWzPgzRHkZieU) | [your touch makes me wanna throw up](https://open.spotify.com/album/1XjdVYAkWz8fYMmaktfvaY) | 1:00 | 2026-01-20 | 2026-02-24 |
+| [Your Way](https://open.spotify.com/track/4TRKKukS2KrNNLdwbU2CTo) | [Estelle Giselle](https://open.spotify.com/artist/0bKnXxFjImWCfVG3FN0rbG) | [Your Way](https://open.spotify.com/album/3tTsJTGrSLLWlA9n7Jj7ye) | 2:25 | 2026-03-03 |  |
 | [Zaroor Aana](https://open.spotify.com/track/3WJNLPSVMkrULGBcCTJFaF) | [Tejas Sharma](https://open.spotify.com/artist/62zTVM9ICp0bQfYO2Km66X) | [Zaroor Aana](https://open.spotify.com/album/3kyrMrBTTzOpz1xU2oA0yJ) | 2:01 | 2025-12-30 | 2026-02-03 |
 | [ZenHealing I](https://open.spotify.com/track/5SPxILI9siid4Q2ltugTbc) | [Chill Jung Asia](https://open.spotify.com/artist/7qqZC8d9FIxIN8u84JLtS1) | [ZenHealing I](https://open.spotify.com/album/4hafeZCfRwzdn2BR7dpCTk) | 3:21 | 2025-12-30 | 2026-02-03 |
 | [Ніч вогню \(Дія III, Сцена 7\)](https://open.spotify.com/track/3v6IFW87r3Qj9bCMQ3ImQS) | [GarriZont](https://open.spotify.com/artist/2cpOV3itsmD0z2QorvQtJa) | [Рок\-опера Гайдамаки: Стіна волі](https://open.spotify.com/album/1xoFYJQiAhjLLEy9kcFbxp) | 3:34 | 2025-10-27 | 2025-11-29 |

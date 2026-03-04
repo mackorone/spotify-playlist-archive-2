@@ -1,12 +1,12 @@
 {
   "description": "This is Avenged Sevenfold. The essential tracks, all in one playlist.",
-  "num_followers": 543101,
+  "num_followers": 543166,
   "original_name": "This Is Avenged Sevenfold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaOBgAAAAABBhc0SahVMelFlA8Z3rCZj",
+  "snapshot_id": "aaTTAAAAAAAA1hHWGxsgMWtdQcjhrzFM",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hail to the King",
-        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 385400,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/3vYP5IgBfHv9nWbNhTq3IS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waking The Fallen",
         "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 342533,
       "name": "Chapter Four",
       "url": "https://open.spotify.com/track/4ORgqa0GOafXbApy6S8FpJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hail to the King",
+        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 385400,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/3vYP5IgBfHv9nWbNhTq3IS"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hail to the King",
-        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "Doing Time",
-      "url": "https://open.spotify.com/track/4OyfdJiHM6sbfkFmRLrygg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Not Ready to Die (From \"Call of the Dead\")",
         "url": "https://open.spotify.com/album/7mCTipdyAfByJBqBgyBbI0"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 425264,
       "name": "Not Ready to Die - From \"Call of the Dead\"",
       "url": "https://open.spotify.com/track/6haHIyPMUnVCZn6pHpyzM8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hail to the King",
+        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "Doing Time",
+      "url": "https://open.spotify.com/track/4OyfdJiHM6sbfkFmRLrygg"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/4m0Ki8UBZSIhxz0VoRrq2U"
+        "name": "Diamonds in the Rough",
+        "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 222656,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/054npqr8dWDHfI9rLOGyN8"
+      "duration_ms": 264034,
+      "name": "Girl I Know",
+      "url": "https://open.spotify.com/track/7CAdycFxxvZqfSKNsdcVQB"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/4m0Ki8UBZSIhxz0VoRrq2U"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 222656,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/054npqr8dWDHfI9rLOGyN8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Diamonds in the Rough",
         "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
       },
@@ -692,9 +708,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 264034,
-      "name": "Girl I Know",
-      "url": "https://open.spotify.com/track/7CAdycFxxvZqfSKNsdcVQB"
+      "duration_ms": 302400,
+      "name": "St. James",
+      "url": "https://open.spotify.com/track/2n8rY6H6u2AnUe6Fi8M6P6"
     },
     {
       "added_at": null,
@@ -715,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Is But a Dream\u2026",
-        "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 375026,
-      "name": "We Love You",
-      "url": "https://open.spotify.com/track/0JUZetZb7lxLsmT7HwNCQv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waking The Fallen",
         "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
       },
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Life Is But a Dream\u2026",
+        "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 375026,
+      "name": "We Love You",
+      "url": "https://open.spotify.com/track/0JUZetZb7lxLsmT7HwNCQv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Diamonds in the Rough",
         "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
       },
@@ -756,9 +772,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 302400,
-      "name": "St. James",
-      "url": "https://open.spotify.com/track/2n8rY6H6u2AnUe6Fi8M6P6"
+      "duration_ms": 270123,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/4Oq241mV2LEcQsfXQPOfZe"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
       "duration_ms": 172318,
       "name": "(O)rdinary",
       "url": "https://open.spotify.com/track/5Jfa1TJRwDnofxUlDg1yQy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diamonds in the Rough",
-        "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 270123,
-      "name": "Crossroads",
-      "url": "https://open.spotify.com/track/4Oq241mV2LEcQsfXQPOfZe"
     }
   ],
   "unique_name": "This Is Avenged Sevenfold",

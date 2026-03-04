@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Natalie Okri & TBabz
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,494 likes - 121 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,497 likes - 121 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

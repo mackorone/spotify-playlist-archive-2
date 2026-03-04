@@ -1,12 +1,12 @@
 {
   "description": "This is Outkast. The essential tracks, all in one playlist.",
-  "num_followers": 166929,
+  "num_followers": 166948,
   "original_name": "This Is Outkast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaOBgAAAAAA5jR/B9xJaeM5g1AjENCqE",
+  "snapshot_id": "aaTTAAAAAAC24cg6DwgpaH0v6hIxhuuj",
   "tracks": [
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         }
       ],
-      "duration_ms": 251666,
-      "name": "Jazzy Belle",
-      "url": "https://open.spotify.com/track/6w4MlvpuxtbjGdL9YeTx89"
+      "duration_ms": 162000,
+      "name": "Two Dope Boyz (In a Cadillac)",
+      "url": "https://open.spotify.com/track/2q8lHMMso6wx6pb5uwqzOs"
     },
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Two Dope Boyz (In a Cadillac)",
-      "url": "https://open.spotify.com/track/2q8lHMMso6wx6pb5uwqzOs"
+      "duration_ms": 251666,
+      "name": "Jazzy Belle",
+      "url": "https://open.spotify.com/track/6w4MlvpuxtbjGdL9YeTx89"
     },
     {
       "added_at": null,

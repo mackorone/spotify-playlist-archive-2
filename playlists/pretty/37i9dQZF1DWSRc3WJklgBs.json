@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance music</a> for the heart <3",
-  "num_followers": 1258354,
+  "num_followers": 1258349,
   "original_name": "Heart Beats",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,26 @@
     {
       "added_at": "2026-02-27 05:00:43",
       "album": {
+        "name": "SHADOWS",
+        "url": "https://open.spotify.com/album/2kjMYQKKsGLAivQKy6Hbtp"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        }
+      ],
+      "duration_ms": 202078,
+      "name": "SHADOWS",
+      "url": "https://open.spotify.com/track/7esJ56tKqU6aWABAdJJrFR"
+    },
+    {
+      "added_at": "2026-02-27 05:00:43",
+      "album": {
         "name": "Forever (feat. Malou & Yuna)",
         "url": "https://open.spotify.com/album/4nXpTQXjFGtB5n3vC76IBR"
       },
@@ -347,26 +367,6 @@
       "duration_ms": 140500,
       "name": "Forever (feat. Malou & Yuna)",
       "url": "https://open.spotify.com/track/0WS1qLcXKsCGt5e3dqq30S"
-    },
-    {
-      "added_at": "2026-02-27 05:00:43",
-      "album": {
-        "name": "SHADOWS",
-        "url": "https://open.spotify.com/album/2kjMYQKKsGLAivQKy6Hbtp"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
-        }
-      ],
-      "duration_ms": 202078,
-      "name": "SHADOWS",
-      "url": "https://open.spotify.com/track/7esJ56tKqU6aWABAdJJrFR"
     },
     {
       "added_at": "2026-02-27 05:00:43",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-02-27 05:00:43",
       "album": {
-        "name": "TO MAKE PEOPLE HAPPY",
-        "url": "https://open.spotify.com/album/5hBLIA2KYKkHLJWWS1K1tq"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "WAY YOU SMILE",
-      "url": "https://open.spotify.com/track/20gQ2YTRFIzSwLla3GRsGp"
-    },
-    {
-      "added_at": "2026-02-27 05:00:43",
-      "album": {
         "name": "The Right",
         "url": "https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 234753,
       "name": "The Right",
       "url": "https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb"
+    },
+    {
+      "added_at": "2026-02-27 05:00:43",
+      "album": {
+        "name": "TO MAKE PEOPLE HAPPY",
+        "url": "https://open.spotify.com/album/5hBLIA2KYKkHLJWWS1K1tq"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "WAY YOU SMILE",
+      "url": "https://open.spotify.com/track/20gQ2YTRFIzSwLla3GRsGp"
     },
     {
       "added_at": "2026-02-27 05:00:43",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2026-02-27 05:00:43",
       "album": {
+        "name": "Plush",
+        "url": "https://open.spotify.com/album/4oxdzUE0WaiEG4mRkkidXE"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "duration_ms": 239133,
+      "name": "Plush",
+      "url": "https://open.spotify.com/track/4jP7Eh55rn0buD5c2Cknmj"
+    },
+    {
+      "added_at": "2026-02-27 05:00:43",
+      "album": {
         "name": "Refuge / Ur Alive",
         "url": "https://open.spotify.com/album/3Hymehl5lIAtEiLctZu9xJ"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 210000,
       "name": "Ur Alive",
       "url": "https://open.spotify.com/track/0uPeets140UXoDJ7JowkNy"
-    },
-    {
-      "added_at": "2026-02-27 05:00:43",
-      "album": {
-        "name": "Plush",
-        "url": "https://open.spotify.com/album/4oxdzUE0WaiEG4mRkkidXE"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        }
-      ],
-      "duration_ms": 239133,
-      "name": "Plush",
-      "url": "https://open.spotify.com/track/4jP7Eh55rn0buD5c2Cknmj"
     },
     {
       "added_at": "2026-02-27 05:00:43",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-02-27 05:00:43",
       "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
-      },
-      "artists": [
-        {
-          "name": "Romain Garcia",
-          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
-        }
-      ],
-      "duration_ms": 203572,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7"
-    },
-    {
-      "added_at": "2026-02-27 05:00:43",
-      "album": {
         "name": "Pure Shores",
         "url": "https://open.spotify.com/album/2ExKBieLvOEDmm3gjlTGn2"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 239542,
       "name": "Pure Shores",
       "url": "https://open.spotify.com/track/1qLEtiVIMaYmUOeGJUSoPQ"
+    },
+    {
+      "added_at": "2026-02-27 05:00:43",
+      "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
+      },
+      "artists": [
+        {
+          "name": "Romain Garcia",
+          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
+        }
+      ],
+      "duration_ms": 203572,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7"
     },
     {
       "added_at": "2026-02-27 05:00:43",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-02-27 05:00:43",
       "album": {
-        "name": "SOMETHING BEAUTIFUL",
-        "url": "https://open.spotify.com/album/5nlLoucrt60fwMDRp6BfIQ"
-      },
-      "artists": [
-        {
-          "name": "EVAN GIIA",
-          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
-        }
-      ],
-      "duration_ms": 111566,
-      "name": "SOMETHING BEAUTIFUL",
-      "url": "https://open.spotify.com/track/7wecYEdY8NUL3H4ARYZ8jz"
-    },
-    {
-      "added_at": "2026-02-27 05:00:43",
-      "album": {
         "name": "Last Forever",
         "url": "https://open.spotify.com/album/6u9A0fkIdZfRNpLepIV39C"
       },
@@ -1587,18 +1571,18 @@
     {
       "added_at": "2026-02-27 05:00:43",
       "album": {
-        "name": "High Like The Sky",
-        "url": "https://open.spotify.com/album/6ooNDxGpXpFhithnfnyH1l"
+        "name": "SOMETHING BEAUTIFUL",
+        "url": "https://open.spotify.com/album/5nlLoucrt60fwMDRp6BfIQ"
       },
       "artists": [
         {
-          "name": "Killen.",
-          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
         }
       ],
-      "duration_ms": 182682,
-      "name": "High Like The Sky",
-      "url": "https://open.spotify.com/track/29VlrhOYEm3gowUKINZU6Q"
+      "duration_ms": 111566,
+      "name": "SOMETHING BEAUTIFUL",
+      "url": "https://open.spotify.com/track/7wecYEdY8NUL3H4ARYZ8jz"
     },
     {
       "added_at": "2026-02-27 05:00:43",
@@ -1619,6 +1603,22 @@
       "duration_ms": 230487,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/6SPWJ9hUFMA69MaGwUsRJi"
+    },
+    {
+      "added_at": "2026-02-27 05:00:43",
+      "album": {
+        "name": "High Like The Sky",
+        "url": "https://open.spotify.com/album/6ooNDxGpXpFhithnfnyH1l"
+      },
+      "artists": [
+        {
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+        }
+      ],
+      "duration_ms": 182682,
+      "name": "High Like The Sky",
+      "url": "https://open.spotify.com/track/29VlrhOYEm3gowUKINZU6Q"
     },
     {
       "added_at": "2026-02-27 05:00:43",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2026-02-27 05:00:43",
       "album": {
+        "name": "Can't Help But Loving You",
+        "url": "https://open.spotify.com/album/3OFYGKxrH7CMhIGPStdike"
+      },
+      "artists": [
+        {
+          "name": "Alex Adair",
+          "url": "https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5"
+        }
+      ],
+      "duration_ms": 195959,
+      "name": "Can't Help But Loving You",
+      "url": "https://open.spotify.com/track/62wTeRZbLjVp8JrELsghQ5"
+    },
+    {
+      "added_at": "2026-02-27 05:00:43",
+      "album": {
         "name": "don't leave",
         "url": "https://open.spotify.com/album/1u4GuDtERLgY7wSNk9x6pg"
       },
@@ -1739,22 +1755,6 @@
     {
       "added_at": "2026-02-27 05:00:43",
       "album": {
-        "name": "Can't Help But Loving You",
-        "url": "https://open.spotify.com/album/3OFYGKxrH7CMhIGPStdike"
-      },
-      "artists": [
-        {
-          "name": "Alex Adair",
-          "url": "https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5"
-        }
-      ],
-      "duration_ms": 195959,
-      "name": "Can't Help But Loving You",
-      "url": "https://open.spotify.com/track/62wTeRZbLjVp8JrELsghQ5"
-    },
-    {
-      "added_at": "2026-02-27 05:00:43",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/0Xt2vlSkNKlx1aI9M7aBDc"
       },
@@ -1767,6 +1767,26 @@
       "duration_ms": 190631,
       "name": "Stay",
       "url": "https://open.spotify.com/track/338TIKCI7nyNsARr0bxSVX"
+    },
+    {
+      "added_at": "2026-02-27 05:00:43",
+      "album": {
+        "name": "Never Alone (feat. Lizzy Land)",
+        "url": "https://open.spotify.com/album/7GKJoW41JkfL76AmAJmbn8"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+        }
+      ],
+      "duration_ms": 204179,
+      "name": "Never Alone (feat. Lizzy Land)",
+      "url": "https://open.spotify.com/track/1UAY4CHyzaFtqZDQ8z63GS"
     },
     {
       "added_at": "2026-02-27 05:00:43",
@@ -1819,26 +1839,6 @@
       "duration_ms": 186086,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/1nS8N96n8G4fFUG8RijrzU"
-    },
-    {
-      "added_at": "2026-02-27 05:00:43",
-      "album": {
-        "name": "Never Alone (feat. Lizzy Land)",
-        "url": "https://open.spotify.com/album/7GKJoW41JkfL76AmAJmbn8"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        },
-        {
-          "name": "Lizzy Land",
-          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
-        }
-      ],
-      "duration_ms": 204179,
-      "name": "Never Alone (feat. Lizzy Land)",
-      "url": "https://open.spotify.com/track/1UAY4CHyzaFtqZDQ8z63GS"
     },
     {
       "added_at": "2026-02-27 05:00:43",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2026-02-27 05:00:43",
       "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/45qnEf54HGMZxJKpS3slZQ"
-      },
-      "artists": [
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 260353,
-      "name": "Embrace",
-      "url": "https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP"
-    },
-    {
-      "added_at": "2026-02-27 05:00:43",
-      "album": {
         "name": "You & Me",
         "url": "https://open.spotify.com/album/4YQrkowZ6ZQ2koHfEYKSwA"
       },
@@ -2239,22 +2223,18 @@
     {
       "added_at": "2026-02-27 05:00:43",
       "album": {
-        "name": "All My Life",
-        "url": "https://open.spotify.com/album/6S8FOZlN0W1vWkgpBVXQdE"
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/45qnEf54HGMZxJKpS3slZQ"
       },
       "artists": [
         {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
         }
       ],
-      "duration_ms": 205182,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/4XO2AIJyy8d5DOuVoFtBGE"
+      "duration_ms": 260353,
+      "name": "Embrace",
+      "url": "https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP"
     },
     {
       "added_at": "2026-02-27 05:00:43",
@@ -2279,22 +2259,22 @@
     {
       "added_at": "2026-02-27 05:00:43",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/3ht2v0Rc9q1RP80wr6zsPi"
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/6S8FOZlN0W1vWkgpBVXQdE"
       },
       "artists": [
         {
-          "name": "ALSO ASTIR",
-          "url": "https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv"
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
         },
         {
-          "name": "Alessandro Martire",
-          "url": "https://open.spotify.com/artist/0R7yKHPyuxLG1iHgTc7OSf"
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
         }
       ],
-      "duration_ms": 162786,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/3XPBfi63GPgii2rfHLcBN7"
+      "duration_ms": 205182,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/4XO2AIJyy8d5DOuVoFtBGE"
     },
     {
       "added_at": "2026-02-27 05:00:43",
@@ -2315,6 +2295,26 @@
       "duration_ms": 167619,
       "name": "No One Like You - Edit",
       "url": "https://open.spotify.com/track/5st3oeKHNhCPINTqk73tRx"
+    },
+    {
+      "added_at": "2026-02-27 05:00:43",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/3ht2v0Rc9q1RP80wr6zsPi"
+      },
+      "artists": [
+        {
+          "name": "ALSO ASTIR",
+          "url": "https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv"
+        },
+        {
+          "name": "Alessandro Martire",
+          "url": "https://open.spotify.com/artist/0R7yKHPyuxLG1iHgTc7OSf"
+        }
+      ],
+      "duration_ms": 162786,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/3XPBfi63GPgii2rfHLcBN7"
     },
     {
       "added_at": "2026-02-27 05:00:43",
@@ -2919,22 +2919,6 @@
     {
       "added_at": "2026-02-27 05:00:43",
       "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/7hR8EcMSuCVQtZWERtadDR"
-      },
-      "artists": [
-        {
-          "name": "Cameo Blush",
-          "url": "https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/7n99ugGKb1kbBCIOODKtHd"
-    },
-    {
-      "added_at": "2026-02-27 05:00:43",
-      "album": {
         "name": "home",
         "url": "https://open.spotify.com/album/4WyjY0UXvVYUKUZlYXrYpo"
       },
@@ -2947,6 +2931,22 @@
       "duration_ms": 190595,
       "name": "home",
       "url": "https://open.spotify.com/track/7IY61zBEgqyIEPfD6ZK2R4"
+    },
+    {
+      "added_at": "2026-02-27 05:00:43",
+      "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/7hR8EcMSuCVQtZWERtadDR"
+      },
+      "artists": [
+        {
+          "name": "Cameo Blush",
+          "url": "https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/7n99ugGKb1kbBCIOODKtHd"
     },
     {
       "added_at": "2026-02-27 05:00:43",

@@ -1,6 +1,6 @@
 {
   "description": "Det senaste och b\u00e4sta fr\u00e5n v\u00e4rlden av indie. Cover: Elise Elvira",
-  "num_followers": 47855,
+  "num_followers": 47865,
   "original_name": "Indie Highlights",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,26 @@
       "duration_ms": 191133,
       "name": "Home",
       "url": "https://open.spotify.com/track/28LN7UaMESB80svwZttTYF"
+    },
+    {
+      "added_at": "2026-02-26 23:00:48",
+      "album": {
+        "name": "Things",
+        "url": "https://open.spotify.com/album/7kxSE9zfvdC0vs9kwF3Z8W"
+      },
+      "artists": [
+        {
+          "name": "Farveblind",
+          "url": "https://open.spotify.com/artist/5AlPqg8caYE9Dc7r9pCN3g"
+        },
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "duration_ms": 159506,
+      "name": "Things",
+      "url": "https://open.spotify.com/track/5ntTeuCMmKeTzjLk5f4hK3"
     },
     {
       "added_at": "2026-02-26 23:00:48",

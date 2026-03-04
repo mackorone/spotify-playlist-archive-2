@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 23729,
+  "num_followers": 23763,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2026-02-25 02:46:06",
       "album": {
+        "name": "DONGRHYTHM",
+        "url": "https://open.spotify.com/album/5o8ATHooApz4U9coWaM8Cw"
+      },
+      "artists": [
+        {
+          "name": "DONGURIZU",
+          "url": "https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v"
+        }
+      ],
+      "duration_ms": 146867,
+      "name": "Let's go",
+      "url": "https://open.spotify.com/track/4uaI8J5stgjiOi8Tmq4o9U"
+    },
+    {
+      "added_at": "2026-02-25 02:46:06",
+      "album": {
         "name": "Don't Cry (feat. Sagiri S\u00f3l)",
         "url": "https://open.spotify.com/album/20adZHnEOZPZRChfuYiuGA"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 266909,
       "name": "Don't Cry - feat. Sagiri S\u00f3l",
       "url": "https://open.spotify.com/track/5d4GoCWtsFCAxiljlPcr9i"
-    },
-    {
-      "added_at": "2026-02-25 02:46:06",
-      "album": {
-        "name": "DONGRHYTHM",
-        "url": "https://open.spotify.com/album/5o8ATHooApz4U9coWaM8Cw"
-      },
-      "artists": [
-        {
-          "name": "DONGURIZU",
-          "url": "https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v"
-        }
-      ],
-      "duration_ms": 146867,
-      "name": "Let's go",
-      "url": "https://open.spotify.com/track/4uaI8J5stgjiOi8Tmq4o9U"
     },
     {
       "added_at": "2026-02-25 02:46:06",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-02-25 02:46:06",
       "album": {
-        "name": "Love Flutter",
-        "url": "https://open.spotify.com/album/7Fnt5RXowlmGbfdnWtjj2z"
-      },
-      "artists": [
-        {
-          "name": "\u30d1\u30bd\u30b3\u30f3\u97f3\u697d\u30af\u30e9\u30d6",
-          "url": "https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye"
-        }
-      ],
-      "duration_ms": 243626,
-      "name": "Fabric",
-      "url": "https://open.spotify.com/track/2SFQD2ZQ6NVrn7zKTy3Fsp"
-    },
-    {
-      "added_at": "2026-02-25 02:46:06",
-      "album": {
         "name": "Life, Dream, Love",
         "url": "https://open.spotify.com/album/0qUWCYFJilaDox1l7PAF8P"
       },
@@ -863,6 +847,22 @@
     {
       "added_at": "2026-02-25 02:46:06",
       "album": {
+        "name": "Love Flutter",
+        "url": "https://open.spotify.com/album/7Fnt5RXowlmGbfdnWtjj2z"
+      },
+      "artists": [
+        {
+          "name": "\u30d1\u30bd\u30b3\u30f3\u97f3\u697d\u30af\u30e9\u30d6",
+          "url": "https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye"
+        }
+      ],
+      "duration_ms": 243626,
+      "name": "Fabric",
+      "url": "https://open.spotify.com/track/2SFQD2ZQ6NVrn7zKTy3Fsp"
+    },
+    {
+      "added_at": "2026-02-25 02:46:06",
+      "album": {
         "name": "glowing arcade",
         "url": "https://open.spotify.com/album/5JQaDQbsFfYOO27LqAdJS2"
       },
@@ -875,26 +875,6 @@
       "duration_ms": 168333,
       "name": "glowing arcade",
       "url": "https://open.spotify.com/track/4QD3PW1ziWyTbduNcIznEG"
-    },
-    {
-      "added_at": "2026-02-25 02:46:06",
-      "album": {
-        "name": "Big Love (feat. Liset Alea)",
-        "url": "https://open.spotify.com/album/2yFPmvj6zgFrobJisTuubC"
-      },
-      "artists": [
-        {
-          "name": "Snowk",
-          "url": "https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r"
-        },
-        {
-          "name": "Liset Alea",
-          "url": "https://open.spotify.com/artist/3a8PdRbZ7j6TigKKUukGqv"
-        }
-      ],
-      "duration_ms": 293170,
-      "name": "Big Love (feat. Liset Alea)",
-      "url": "https://open.spotify.com/track/68pJqdXyk4996aQXp9dNln"
     },
     {
       "added_at": "2026-02-25 02:46:06",
@@ -915,6 +895,26 @@
       "duration_ms": 163255,
       "name": "Say Less",
       "url": "https://open.spotify.com/track/6p8JSLla78rp2FvhoVFpGu"
+    },
+    {
+      "added_at": "2026-02-25 02:46:06",
+      "album": {
+        "name": "Big Love (feat. Liset Alea)",
+        "url": "https://open.spotify.com/album/2yFPmvj6zgFrobJisTuubC"
+      },
+      "artists": [
+        {
+          "name": "Snowk",
+          "url": "https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r"
+        },
+        {
+          "name": "Liset Alea",
+          "url": "https://open.spotify.com/artist/3a8PdRbZ7j6TigKKUukGqv"
+        }
+      ],
+      "duration_ms": 293170,
+      "name": "Big Love (feat. Liset Alea)",
+      "url": "https://open.spotify.com/track/68pJqdXyk4996aQXp9dNln"
     }
   ],
   "unique_name": "Tokyo Club Beat",

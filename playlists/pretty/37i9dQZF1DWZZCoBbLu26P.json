@@ -511,6 +511,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "Introducing...Amanda Lepore",
+        "url": "https://open.spotify.com/album/0Z96e8zrSgJfokKZfo0Qxb"
+      },
+      "artists": [
+        {
+          "name": "Amanda Lepore",
+          "url": "https://open.spotify.com/artist/4rPzjuxvcad2GgpIRt2civ"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "My Hair Looks Fierce - Original",
+      "url": "https://open.spotify.com/track/08yzdQW3TpyAwTToQjkYJW"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "Excuse the Beauty",
         "url": "https://open.spotify.com/album/6KgyGjGDF73gae1gkQZ9KS"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 189440,
       "name": "Excuse the Beauty",
       "url": "https://open.spotify.com/track/6BiFUGb6TQSOtTNkZhXVhI"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Introducing...Amanda Lepore",
-        "url": "https://open.spotify.com/album/0Z96e8zrSgJfokKZfo0Qxb"
-      },
-      "artists": [
-        {
-          "name": "Amanda Lepore",
-          "url": "https://open.spotify.com/artist/4rPzjuxvcad2GgpIRt2civ"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "My Hair Looks Fierce - Original",
-      "url": "https://open.spotify.com/track/08yzdQW3TpyAwTToQjkYJW"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -615,26 +615,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Weight (feat. Epiphany Mattel)",
-        "url": "https://open.spotify.com/album/0youfwaLvfbBFw0iWK4Wi3"
-      },
-      "artists": [
-        {
-          "name": "Latrice Royale",
-          "url": "https://open.spotify.com/artist/1MPCKhktsStR2Hnj1s2fvC"
-        },
-        {
-          "name": "Epiphany Mattel",
-          "url": "https://open.spotify.com/artist/0KjBV7nJq8mr5QDsyWzvyy"
-        }
-      ],
-      "duration_ms": 205217,
-      "name": "Weight (feat. Epiphany Mattel)",
-      "url": "https://open.spotify.com/track/07i9T9SDDHXuDuqs1wVAHb"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Everybody Hates Linux",
         "url": "https://open.spotify.com/album/0xUsVc4uD9kO1u6TF0x29X"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 254111,
       "name": "Looks (feat. Aquaria)",
       "url": "https://open.spotify.com/track/6HG9HwiSqzyZjKZj2xy5FX"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Weight (feat. Epiphany Mattel)",
+        "url": "https://open.spotify.com/album/0youfwaLvfbBFw0iWK4Wi3"
+      },
+      "artists": [
+        {
+          "name": "Latrice Royale",
+          "url": "https://open.spotify.com/artist/1MPCKhktsStR2Hnj1s2fvC"
+        },
+        {
+          "name": "Epiphany Mattel",
+          "url": "https://open.spotify.com/artist/0KjBV7nJq8mr5QDsyWzvyy"
+        }
+      ],
+      "duration_ms": 205217,
+      "name": "Weight (feat. Epiphany Mattel)",
+      "url": "https://open.spotify.com/track/07i9T9SDDHXuDuqs1wVAHb"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Burn Rubber",
-        "url": "https://open.spotify.com/album/1mrUyBb7BnWUtHCZuBbYS5"
-      },
-      "artists": [
-        {
-          "name": "Aquaria",
-          "url": "https://open.spotify.com/artist/06Dngxe8FZm8kxKZWiSeNL"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Burn Rubber",
-      "url": "https://open.spotify.com/track/09d9ySiqQ6YX5Usnj8nba0"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "We Werk Together",
         "url": "https://open.spotify.com/album/3NmASjEdI9UBllWhOi0hc4"
       },
@@ -851,18 +835,18 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "I Love Being A Whore!",
-        "url": "https://open.spotify.com/album/44Jm9Qa4nMZTsVTYlHbXdU"
+        "name": "Burn Rubber",
+        "url": "https://open.spotify.com/album/1mrUyBb7BnWUtHCZuBbYS5"
       },
       "artists": [
         {
-          "name": "Sherry Vine",
-          "url": "https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s"
+          "name": "Aquaria",
+          "url": "https://open.spotify.com/artist/06Dngxe8FZm8kxKZWiSeNL"
         }
       ],
-      "duration_ms": 156000,
-      "name": "I Love Being A Whore!",
-      "url": "https://open.spotify.com/track/5z7QaUpalTZil1kMVTw0aJ"
+      "duration_ms": 173333,
+      "name": "Burn Rubber",
+      "url": "https://open.spotify.com/track/09d9ySiqQ6YX5Usnj8nba0"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -879,6 +863,22 @@
       "duration_ms": 176000,
       "name": "Fight for Love",
       "url": "https://open.spotify.com/track/0BspWxbPFXiuH1HwLm83NK"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "I Love Being A Whore!",
+        "url": "https://open.spotify.com/album/44Jm9Qa4nMZTsVTYlHbXdU"
+      },
+      "artists": [
+        {
+          "name": "Sherry Vine",
+          "url": "https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "I Love Being A Whore!",
+      "url": "https://open.spotify.com/track/5z7QaUpalTZil1kMVTw0aJ"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "My Pussy Is Like a Peach",
-        "url": "https://open.spotify.com/album/2UF5W1roL28m982inA5g3w"
-      },
-      "artists": [
-        {
-          "name": "Choriza May",
-          "url": "https://open.spotify.com/artist/5QUIkNOKPjTmTHpvPHfR0j"
-        }
-      ],
-      "duration_ms": 232636,
-      "name": "My Pussy Is Like a Peach",
-      "url": "https://open.spotify.com/track/1skWa3UtU951daIZVQtIEd"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Champion (Ru X Blu)",
         "url": "https://open.spotify.com/album/1NeBhG3TwAJ1YYk0bAT6pQ"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 202476,
       "name": "Boys Like Me",
       "url": "https://open.spotify.com/track/6ACCpKQ0Ca5VmFaRqdKm9h"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "My Pussy Is Like a Peach",
+        "url": "https://open.spotify.com/album/2UF5W1roL28m982inA5g3w"
+      },
+      "artists": [
+        {
+          "name": "Choriza May",
+          "url": "https://open.spotify.com/artist/5QUIkNOKPjTmTHpvPHfR0j"
+        }
+      ],
+      "duration_ms": 232636,
+      "name": "My Pussy Is Like a Peach",
+      "url": "https://open.spotify.com/track/1skWa3UtU951daIZVQtIEd"
     },
     {
       "added_at": "2025-01-14 16:17:40",

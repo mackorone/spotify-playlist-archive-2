@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot",
-  "num_followers": 25196,
+  "num_followers": 25198,
   "original_name": "60's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Die Goeie Ouwe Tijd 2 - Top 100",
-        "url": "https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK"
-      },
-      "artists": [
-        {
-          "name": "Rein De Vries",
-          "url": "https://open.spotify.com/artist/6LO5LYNzTWhGB8xImFocbQ"
-        }
-      ],
-      "duration_ms": 174960,
-      "name": "Patsy",
-      "url": "https://open.spotify.com/track/0GJX7vXqS15TlMaNR2myR6"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "The Real... Will Tura",
         "url": "https://open.spotify.com/album/1ePKQbue1TcYAXS396gBq6"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 148253,
       "name": "Eenzaam Zonder Jou",
       "url": "https://open.spotify.com/track/7LGNLoTk2YjtEdgoRELelP"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Die Goeie Ouwe Tijd 2 - Top 100",
+        "url": "https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK"
+      },
+      "artists": [
+        {
+          "name": "Rein De Vries",
+          "url": "https://open.spotify.com/artist/6LO5LYNzTWhGB8xImFocbQ"
+        }
+      ],
+      "duration_ms": 174960,
+      "name": "Patsy",
+      "url": "https://open.spotify.com/track/0GJX7vXqS15TlMaNR2myR6"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Die Goeie Ouwe Tijd Top 100",
-        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
-      },
-      "artists": [
-        {
-          "name": "Jasperina de Jong",
-          "url": "https://open.spotify.com/artist/3ll4qAeqLNOB6U3FSPwyJX"
-        }
-      ],
-      "duration_ms": 210013,
-      "name": "De Wandelclub",
-      "url": "https://open.spotify.com/track/2Uyu9r8dY1MIhG76fubp0H"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Het Mooiste Van Wim Sonneveld",
         "url": "https://open.spotify.com/album/3WGx6ms5LvfGuJ52eDT3tB"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 129026,
       "name": "De Kat Van Ome Willem",
       "url": "https://open.spotify.com/track/4BZCJXgKSg7UudaRiWfmt7"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Die Goeie Ouwe Tijd Top 100",
+        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
+      },
+      "artists": [
+        {
+          "name": "Jasperina de Jong",
+          "url": "https://open.spotify.com/artist/3ll4qAeqLNOB6U3FSPwyJX"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "De Wandelclub",
+      "url": "https://open.spotify.com/track/2Uyu9r8dY1MIhG76fubp0H"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Rijst Met Kouseband (En Andere Poku's)",
-        "url": "https://open.spotify.com/album/56aQwxkpYt8PWWbOqLZuMz"
-      },
-      "artists": [
-        {
-          "name": "Max Woiski Jr.",
-          "url": "https://open.spotify.com/artist/5S2Y2OyMuLYbua54iv2QNF"
-        }
-      ],
-      "duration_ms": 124893,
-      "name": "Je Bent Nog Niet Gelukkig Met Een Mooie Vrouw",
-      "url": "https://open.spotify.com/track/5Ov14kIrKrGbIdmwZcyT5A"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Een Avond Met Wim Sonneveld",
         "url": "https://open.spotify.com/album/3Loxvfv6tOPhOoQBmLBrDI"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 499933,
       "name": "Frater Venantius - Live",
       "url": "https://open.spotify.com/track/7nnjpu2Cbh9DUdSSp8hFJA"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Rijst Met Kouseband (En Andere Poku's)",
+        "url": "https://open.spotify.com/album/56aQwxkpYt8PWWbOqLZuMz"
+      },
+      "artists": [
+        {
+          "name": "Max Woiski Jr.",
+          "url": "https://open.spotify.com/artist/5S2Y2OyMuLYbua54iv2QNF"
+        }
+      ],
+      "duration_ms": 124893,
+      "name": "Je Bent Nog Niet Gelukkig Met Een Mooie Vrouw",
+      "url": "https://open.spotify.com/track/5Ov14kIrKrGbIdmwZcyT5A"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Hollands Glorie Liedjes van vroeger Top 100",
-        "url": "https://open.spotify.com/album/6WvfGdqBJHKPkBlxRQJBmX"
-      },
-      "artists": [
-        {
-          "name": "Ted De Braak",
-          "url": "https://open.spotify.com/artist/2fi6R2NPeUn8jfbUfXk6QF"
-        }
-      ],
-      "duration_ms": 315853,
-      "name": "Een glaasje madeira",
-      "url": "https://open.spotify.com/track/6vFcFphdp1XPKuGMmnGLFd"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Het Beste van De Heikrekels - Instrumentaal",
         "url": "https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 171551,
       "name": "Jij Bent Voor Mij Alleen",
       "url": "https://open.spotify.com/track/2eNAWjONbl5l4Ju1Yywvmu"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Hollands Glorie Liedjes van vroeger Top 100",
+        "url": "https://open.spotify.com/album/6WvfGdqBJHKPkBlxRQJBmX"
+      },
+      "artists": [
+        {
+          "name": "Ted De Braak",
+          "url": "https://open.spotify.com/artist/2fi6R2NPeUn8jfbUfXk6QF"
+        }
+      ],
+      "duration_ms": 315853,
+      "name": "Een glaasje madeira",
+      "url": "https://open.spotify.com/track/6vFcFphdp1XPKuGMmnGLFd"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Het Beste van Ronnie Tober",
-        "url": "https://open.spotify.com/album/6588JMhX6PqxYEo5k0Uqg3"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Tober",
-          "url": "https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm"
-        }
-      ],
-      "duration_ms": 191341,
-      "name": "Arrivederci Ans",
-      "url": "https://open.spotify.com/track/7xu8NzGEawIl7MztxduoGv"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Teddybeer",
         "url": "https://open.spotify.com/album/4c6viEUmnbWPVgetFhChEM"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 142066,
       "name": "Teddybeer",
       "url": "https://open.spotify.com/track/7Abqdhr2qG6SdczwtyEXMY"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Het Beste van Ronnie Tober",
+        "url": "https://open.spotify.com/album/6588JMhX6PqxYEo5k0Uqg3"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Tober",
+          "url": "https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm"
+        }
+      ],
+      "duration_ms": 191341,
+      "name": "Arrivederci Ans",
+      "url": "https://open.spotify.com/track/7xu8NzGEawIl7MztxduoGv"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "The Story of Volume 1",
-        "url": "https://open.spotify.com/album/5PE0jrnXa9TA9HR96YoWGJ"
-      },
-      "artists": [
-        {
-          "name": "The Fouryo's",
-          "url": "https://open.spotify.com/artist/02QZUVfKe6DpXBTOPdAoLB"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Dans Nog Eenmaal Met Mij",
-      "url": "https://open.spotify.com/track/71vNfPlAu8m3Hmg0ue91DM"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "16 Vlaamse Hits",
         "url": "https://open.spotify.com/album/0joha6r0Q7FUybe1YodKsc"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 182933,
       "name": "Anja- De laatste dans",
       "url": "https://open.spotify.com/track/3ZKJvMeGf3nyvXYUbRZyLm"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "The Story of Volume 1",
+        "url": "https://open.spotify.com/album/5PE0jrnXa9TA9HR96YoWGJ"
+      },
+      "artists": [
+        {
+          "name": "The Fouryo's",
+          "url": "https://open.spotify.com/artist/02QZUVfKe6DpXBTOPdAoLB"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Dans Nog Eenmaal Met Mij",
+      "url": "https://open.spotify.com/track/71vNfPlAu8m3Hmg0ue91DM"
     },
     {
       "added_at": "2024-07-19 06:41:15",

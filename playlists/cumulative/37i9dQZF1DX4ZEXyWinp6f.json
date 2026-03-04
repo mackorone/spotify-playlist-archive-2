@@ -1843,6 +1843,24 @@
     },
     {
       "album": {
+        "name": "everything is going to be ok",
+        "url": "https://open.spotify.com/album/7fSwB12ObDLZbhYrODXCek"
+      },
+      "artists": [
+        {
+          "name": "Eleftherios",
+          "url": "https://open.spotify.com/artist/6z7DDiVB1Cca0P1VcsvxM9"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147052,
+      "name": "everything is going to be ok",
+      "url": "https://open.spotify.com/track/5WGNe8og1I3uiinrijoDRU"
+    },
+    {
+      "album": {
         "name": "Eight Fragments Of An Illusion",
         "url": "https://open.spotify.com/album/0NBak1cinQqUel4IqOoy4x"
       },
@@ -3346,7 +3364,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 282810,
       "name": "Levva",
       "url": "https://open.spotify.com/track/5styiS6T2sQCqd633t5nPF"

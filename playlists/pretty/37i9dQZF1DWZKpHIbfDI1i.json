@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Calle 24 en portada ",
-  "num_followers": 830104,
+  "num_followers": 830145,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -627,26 +627,6 @@
     {
       "added_at": "2026-02-27 19:47:28",
       "album": {
-        "name": "Poema",
-        "url": "https://open.spotify.com/album/4ZMo7m59UfGiOOn7O7l0ED"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 194018,
-      "name": "Poema",
-      "url": "https://open.spotify.com/track/0R4jt27SnKZ4Z4zGHJF36E"
-    },
-    {
-      "added_at": "2026-02-27 19:47:28",
-      "album": {
         "name": "Modo Dif\u00edcil",
         "url": "https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 201461,
       "name": "Modo Dif\u00edcil",
       "url": "https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31"
+    },
+    {
+      "added_at": "2026-02-27 19:47:28",
+      "album": {
+        "name": "Poema",
+        "url": "https://open.spotify.com/album/4ZMo7m59UfGiOOn7O7l0ED"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 194018,
+      "name": "Poema",
+      "url": "https://open.spotify.com/track/0R4jt27SnKZ4Z4zGHJF36E"
     },
     {
       "added_at": "2026-02-27 19:47:28",
@@ -855,6 +855,26 @@
     {
       "added_at": "2026-02-27 19:47:28",
       "album": {
+        "name": "Agu\u00e1ntame",
+        "url": "https://open.spotify.com/album/4kqVBDAIxv4CdFbSX0AXVF"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 128409,
+      "name": "Agu\u00e1ntame",
+      "url": "https://open.spotify.com/track/6KtSV9qz4qtndIMEeHwb9Y"
+    },
+    {
+      "added_at": "2026-02-27 19:47:28",
+      "album": {
         "name": "Sin Darme Explicacion",
         "url": "https://open.spotify.com/album/2q7suMTvK9bzYLBzKrQoIo"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 161480,
       "name": "Ctrl + Z (En Vivo)",
       "url": "https://open.spotify.com/track/3TSIabMcU2C3lx41wPtW5s"
-    },
-    {
-      "added_at": "2026-02-27 19:47:28",
-      "album": {
-        "name": "Agu\u00e1ntame",
-        "url": "https://open.spotify.com/album/4kqVBDAIxv4CdFbSX0AXVF"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 128409,
-      "name": "Agu\u00e1ntame",
-      "url": "https://open.spotify.com/track/6KtSV9qz4qtndIMEeHwb9Y"
     },
     {
       "added_at": "2026-02-27 19:47:28",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-02-27 19:47:28",
       "album": {
-        "name": "EP",
-        "url": "https://open.spotify.com/album/1QKvOGwTQKKmz5fiaStHxl"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 177621,
-      "name": "Lo Pude Lograr",
-      "url": "https://open.spotify.com/track/37QXxWqoyJLoWOo2SuO8q6"
-    },
-    {
-      "added_at": "2026-02-27 19:47:28",
-      "album": {
         "name": "Te Juro Que Te Amo",
         "url": "https://open.spotify.com/album/048hj9COAKtTGGm3YyO02H"
       },
@@ -1007,6 +991,22 @@
     {
       "added_at": "2026-02-27 19:47:28",
       "album": {
+        "name": "EP",
+        "url": "https://open.spotify.com/album/1QKvOGwTQKKmz5fiaStHxl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 177621,
+      "name": "Lo Pude Lograr",
+      "url": "https://open.spotify.com/track/37QXxWqoyJLoWOo2SuO8q6"
+    },
+    {
+      "added_at": "2026-02-27 19:47:28",
+      "album": {
         "name": "Nsqk - Spotify Sessions",
         "url": "https://open.spotify.com/album/20eVKdTYyAfrnevyqPNrqL"
       },
@@ -1019,22 +1019,6 @@
       "duration_ms": 170670,
       "name": "No Basta Con Querernos M\u00e1s - Spotify Sessions (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/75k7sXf2eclJPy7pU1XRka"
-    },
-    {
-      "added_at": "2026-02-27 19:47:28",
-      "album": {
-        "name": "Me Enamor\u00e9 Solo",
-        "url": "https://open.spotify.com/album/4QuqWX0Gniy5l01FwZVxO1"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 185246,
-      "name": "Me Enamor\u00e9 Solo",
-      "url": "https://open.spotify.com/track/1p8ktN7uVGq04LIYYyveRQ"
     },
     {
       "added_at": "2026-02-27 19:47:28",
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2026-02-27 19:47:28",
       "album": {
+        "name": "Me Enamor\u00e9 Solo",
+        "url": "https://open.spotify.com/album/4QuqWX0Gniy5l01FwZVxO1"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 185246,
+      "name": "Me Enamor\u00e9 Solo",
+      "url": "https://open.spotify.com/track/1p8ktN7uVGq04LIYYyveRQ"
+    },
+    {
+      "added_at": "2026-02-27 19:47:28",
+      "album": {
         "name": "Tu Nunca Lo Sabr\u00e1s (Versi\u00f3n Cumbia)",
         "url": "https://open.spotify.com/album/3kZP79R86LZxnLIU1FGcCa"
       },
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2026-02-27 19:47:28",
       "album": {
+        "name": "Grietas de Oro",
+        "url": "https://open.spotify.com/album/31U0PoWVEWtJCSnhEzgCH7"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 197551,
+      "name": "Grietas de Oro",
+      "url": "https://open.spotify.com/track/6gzYizdEjvGGx1gtVue8Ch"
+    },
+    {
+      "added_at": "2026-02-27 19:47:28",
+      "album": {
         "name": "+ Perra + Bitch",
         "url": "https://open.spotify.com/album/39RFBiFmGH0p3npriZ7PJc"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 198211,
       "name": "+ Perra + Bitch",
       "url": "https://open.spotify.com/track/0T1BVEf9OOT5YolK9xqljP"
-    },
-    {
-      "added_at": "2026-02-27 19:47:28",
-      "album": {
-        "name": "Grietas de Oro",
-        "url": "https://open.spotify.com/album/31U0PoWVEWtJCSnhEzgCH7"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 197551,
-      "name": "Grietas de Oro",
-      "url": "https://open.spotify.com/track/6gzYizdEjvGGx1gtVue8Ch"
     },
     {
       "added_at": "2026-02-27 19:47:28",

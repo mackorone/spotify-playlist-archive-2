@@ -1,12 +1,12 @@
 {
   "description": "This is Olivia Dean. The essential tracks, all in one playlist.",
-  "num_followers": 450747,
+  "num_followers": 453063,
   "original_name": "This Is Olivia Dean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaOBgAAAAABKzjFHgZNM4IU2OlPD0lbB",
+  "snapshot_id": "aaTTAAAAAACK4rMk4uiXtvnJW3v2Whg9",
   "tracks": [
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Growth",
-        "url": "https://open.spotify.com/album/4pCquj67SkPo5SNpJ5Rsjs"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 183346,
-      "name": "Float",
-      "url": "https://open.spotify.com/track/031T6v4JIcPlkbzOrpzOnv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Olivia Dean - Spotify Live Room",
         "url": "https://open.spotify.com/album/2BH28DBpJbk7fVT7a4IdYX"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 183000,
       "name": "The Dress (Dijon Cover) (Live) - Spotify Live Room",
       "url": "https://open.spotify.com/track/1fZHgUUmFduHFLlvmiyNJX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Growth",
+        "url": "https://open.spotify.com/album/4pCquj67SkPo5SNpJ5Rsjs"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 183346,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/031T6v4JIcPlkbzOrpzOnv"
     },
     {
       "added_at": null,

@@ -8062,7 +8062,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 187479,
       "name": "Fxxxboy",
       "url": "https://open.spotify.com/track/7m0duH1vdTNxM2g8BLfR0F"
@@ -11244,7 +11244,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-01",
+      "date_removed": null,
       "duration_ms": 215343,
       "name": "Ingat",
       "url": "https://open.spotify.com/track/0QnyIDSjy366dQZjcHS2yF"
@@ -12956,7 +12956,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 225153,
       "name": "Lesung Pipi",
       "url": "https://open.spotify.com/track/04mOx59pM3upWDkpp9PYkb"
@@ -14732,7 +14732,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 228073,
       "name": "Menerima Luka",
       "url": "https://open.spotify.com/track/6Twf2B2IGXAN0YDJeTxkt2"
@@ -15896,7 +15896,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 189004,
       "name": "Ngga Dulu",
       "url": "https://open.spotify.com/track/3c3JC5TjFrEqEKheU7227c"
@@ -15968,7 +15968,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 236906,
       "name": "No One Noticed",
       "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
@@ -18748,7 +18748,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-02",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -19990,6 +19990,24 @@
       "duration_ms": 131400,
       "name": "Serumpun",
       "url": "https://open.spotify.com/track/3uXtPOeDPx812uTfhz3dEf"
+    },
+    {
+      "album": {
+        "name": "Sesal Separuh Nyawa",
+        "url": "https://open.spotify.com/album/3a4TIbbzltgMCyKl2sJdt3"
+      },
+      "artists": [
+        {
+          "name": "Alyah",
+          "url": "https://open.spotify.com/artist/2bUKiCTlseN47NCfkpDTEZ"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259977,
+      "name": "Sesal Separuh Nyawa",
+      "url": "https://open.spotify.com/track/6Kqc2T2YiYLkzW6zD0GO8y"
     },
     {
       "album": {
@@ -25296,7 +25314,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 217706,
       "name": "We Don't Talk Anymore (feat. Selena Gomez)",
       "url": "https://open.spotify.com/track/54PbBpquVfhfrwRwvjSXbI"
@@ -25842,7 +25860,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 234895,
       "name": "Winter Ahead (with PARK HYO SHIN)",
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"

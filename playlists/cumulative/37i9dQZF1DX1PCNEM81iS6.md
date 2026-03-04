@@ -4,7 +4,7 @@
 
 > Music from "That Time I Got Reincarnated as a Slime"! ©川上泰樹・伏瀬・講談社／転スラ製作委員会
 
-90 songs - 4 hr 25 min
+93 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [CALL YOUR NAME](https://open.spotify.com/track/074pO3kz9J4Gg6MtreeXQX) | [リムル \(CV.岡咲美保\)](https://open.spotify.com/artist/7fGxo8dxQ6SdVXPmcTZsHH), [三上 悟 \(CV.寺島拓篤\)](https://open.spotify.com/artist/58gJSLmnWvAAAg0mP132p2) | [永遠の絆 \(『劇場版 転生したらスライムだった件 紅蓮の絆編』主題歌・挿入歌アルバム\)](https://open.spotify.com/album/1boGPa9j67ZkY8C7u0a9G5) | 4:25 | 2022-11-25 |  |
 | [Christmas Festa](https://open.spotify.com/track/2cvrCEFvV1Nne9AAmqVqxv) | [エレン \(CV.熊田茜音\)](https://open.spotify.com/artist/3i81AuhpyO1tp12Il9CyWg) | [TVアニメ『転生したらスライムだった件 転スラ日記』オリジナルサウンドトラック「転生したら日記の音楽だった件」](https://open.spotify.com/album/4DmwwIRMT6y1zlzsN9JbHi) | 4:25 | 2024-04-16 |  |
 | [Christmas Festa](https://open.spotify.com/track/2u9ZkOqabUWo3l40GZzHsJ) | [エレン \(CV.熊田茜音\)](https://open.spotify.com/artist/3i81AuhpyO1tp12Il9CyWg) | [TVアニメ『転生したらスライムだった件 転スラ日記』オリジナルサウンドトラック「転生したら日記の音楽だった件」](https://open.spotify.com/album/6wgKf4HmPJf7uD4s77p0xw) | 4:25 | 2022-11-25 | 2024-04-19 |
+| [Harmonics](https://open.spotify.com/track/5LUThwEPVewsjAzbb64HO5) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP), [ASH](https://open.spotify.com/artist/7ipJyP4vRUwlGvYNkjpsja) | [『劇場版 転生したらスライムだった件 蒼海の涙編』オリジナルサウンドトラック「転生したら映画の音楽だった件２」](https://open.spotify.com/album/29Ym005E2HuYDvG8BqeLlU) | 4:23 | 2026-03-03 |  |
 | [Like Flames](https://open.spotify.com/track/1alE9lua8JABuhSHZUWb4p) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [My Journey](https://open.spotify.com/album/78xcCfTKnMuCjukZaOayf0) | 4:10 | 2022-11-25 | 2024-04-19 |
 | [Like Flames](https://open.spotify.com/track/33w3r7av1feaIpEoIdCFyv) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Like Flames](https://open.spotify.com/album/34N3v0VmoLjtXqed3gDDmt) | 4:10 | 2024-04-16 |  |
 | [Like Flames](https://open.spotify.com/track/4xBBNJ8spMyuJynOQxJf7e) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Like Flames](https://open.spotify.com/album/1si6jnjPfRrzezrxnKGxtd) | 4:10 | 2022-11-25 | 2022-12-24 |
@@ -45,11 +46,13 @@
 | [ファントムライツ](https://open.spotify.com/track/2AOKmdBjUyXoxXdznUGHzO) | [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF) | [LAYERING](https://open.spotify.com/album/0zkDqUmXN5wclz5CtXr3ey) | 3:50 | 2022-11-25 | 2024-04-19 |
 | [ファントムライツ](https://open.spotify.com/track/1nAfuGTzUwrmBxtZKvWVEg) | [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF) | [Reincarnate](https://open.spotify.com/album/7m7P4P9vYujJUYXEYLivFK) | 3:55 | 2024-04-16 |  |
 | [メグルモノ](https://open.spotify.com/track/4ssMX3TcBfOlyWRvQxJywV) | [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF) | [メグルモノ \(アーティスト盤\)](https://open.spotify.com/album/0lB8vkGw8JfaSWh8XbHmBM) | 4:42 | 2022-11-25 |  |
+| [ユートピア](https://open.spotify.com/track/4tF4GlyY2HWvWSyspXoBuS) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [『劇場版 転生したらスライムだった件 蒼海の涙編』主題歌・挿入歌シングル「蒼海の揺らめき」](https://open.spotify.com/album/5cWekIJNPcnymMOV3HhWZP) | 3:31 | 2026-03-03 |  |
 | [ヨイハナビ](https://open.spotify.com/track/06jzauZwpDAuZ0HcjtJtor) | [リムル \(CV.岡咲美保\)](https://open.spotify.com/artist/5YJkxVkHk22vOzHY2qDnOa) | [TVアニメ『転生したらスライムだった件 転スラ日記』オリジナルサウンドトラック「転生したら日記の音楽だった件」](https://open.spotify.com/album/4DmwwIRMT6y1zlzsN9JbHi) | 4:07 | 2024-04-16 |  |
 | [ヨイハナビ](https://open.spotify.com/track/2FI3B2J9G4TwaTXvJKMLgz) | [リムル \(CV.岡咲美保\)](https://open.spotify.com/artist/5YJkxVkHk22vOzHY2qDnOa) | [TVアニメ『転生したらスライムだった件 転スラ日記』オリジナルサウンドトラック「転生したら日記の音楽だった件」](https://open.spotify.com/album/6wgKf4HmPJf7uD4s77p0xw) | 4:07 | 2022-11-25 | 2024-04-19 |
 | [リトルソルジャー](https://open.spotify.com/track/4ESR8uG70TFcWKqtePEJpo) | [田所あずさ](https://open.spotify.com/artist/6QA62pTldn4AF8DeKsKW0h) | [リトルソルジャー](https://open.spotify.com/album/4Uya9qHP63dE9wf0VQNMQJ) | 3:53 | 2022-11-25 |  |
 | [リムルからのスペシャルメッセージ](https://open.spotify.com/track/42Mev6O87VExV44sv1t69w) | [リムル \(CV.岡咲美保\)](https://open.spotify.com/artist/5YJkxVkHk22vOzHY2qDnOa) | [リムルからのスペシャルメッセージ](https://open.spotify.com/album/64aI66I1pfYcTvJRPjH0vA) | 0:24 | 2022-11-25 |  |
 | [レナセールセレナーデ](https://open.spotify.com/track/4LiRiw0zRSf9fN3QEf0fN3) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [レナセールセレナーデ](https://open.spotify.com/album/6NeE8qVQDMwIMEp7DDcWEI) | 4:09 | 2024-06-27 |  |
+| [レンアイノー](https://open.spotify.com/track/6nej6TvypfLUnGwOmTfIUe) | [ARCANA PROJECT](https://open.spotify.com/artist/33nBmWfW7J3vL487uRL8Cz) | [レンアイノー](https://open.spotify.com/album/6kxHpNewwt5rQuoJksDrsJ) | 3:37 | 2026-03-03 |  |
 | [僕の中の君へ](https://open.spotify.com/track/4hakLbSjyQFDd77vFJ6EuT) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [コトバアソビ](https://open.spotify.com/album/6sU4bvWQW9QdldwSqAw35N) | 4:46 | 2022-11-25 | 2024-04-19 |
 | [僕の中の君へ](https://open.spotify.com/track/3wMmoc9CTIuIs9SIiywRQy) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [TVアニメ『転生したらスライムだった件』転生したら音楽だった件](https://open.spotify.com/album/7zaILvw1dD0P1JR4FFE3Su) | 4:51 | 2024-04-16 |  |
 | [優勢](https://open.spotify.com/track/0IPx20l5zjsGRGX2kDBK26) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」](https://open.spotify.com/album/5jFRupPXHSyREGzQwWiYSC) | 2:02 | 2022-11-25 | 2024-04-19 |

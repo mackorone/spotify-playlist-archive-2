@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 예빛 \(Yebit\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,681 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,680 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Traveler](https://open.spotify.com/track/1chEJRDNKoN7w4vpKeaEp4) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Traveler](https://open.spotify.com/album/68cUet7KWWm4U1ageThcKz) | 4:12 |
 | 2 | [My you](https://open.spotify.com/track/1FyUjNw4Hwp1inYeEi48Nw) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [My you](https://open.spotify.com/album/7tRboLC40qkLLZFH3wf3GY) | 3:31 |
 | 3 | [Dear](https://open.spotify.com/track/5GE1frA2fEZ1qdXhFKVUWi) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [Dear](https://open.spotify.com/album/196beeYDQ5UEGMCvpprN32) | 3:12 |
-| 4 | [Laughter Hole](https://open.spotify.com/track/17zAtRJmpPI944OijlvkO9) | [Kim Chang\-Wan](https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH) | [Laughter Hole](https://open.spotify.com/album/2ezqWlNqgz4pXJgubNGa6K) | 1:53 |
+| 4 | [PC Room](https://open.spotify.com/track/0CDrH0mwXPAsPwaDUx5U8u) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [End of the Month, Jang Beom June \(February 2026\) \- PC Room](https://open.spotify.com/album/2oajUegRsqXyGidxxbPzt6) | 3:13 |
 | 5 | [Guilty Pleasure](https://open.spotify.com/track/3CKGadinrCqXMJf5He0jvO) | [19990619](https://open.spotify.com/artist/2Fqmn8Sl7YZf1TlrwJpI6Z) | [Guilty Pleasure](https://open.spotify.com/album/7B7ObKObjIkOhRxcUOrv0y) | 3:02 |
 | 6 | [Dearest mistake](https://open.spotify.com/track/0aW3xLOoD5aQAfpNc20oqu) | [본하](https://open.spotify.com/artist/26oPZPY5H08ViuL52JDqKS) | [Dearest mistake](https://open.spotify.com/album/2JD924d5IzKen3qm50bkAL) | 3:36 |
 | 7 | [Fine](https://open.spotify.com/track/6CdUgvL597jWmW4w8P5kHs) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album](https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 49 | [Endlessly](https://open.spotify.com/track/1EJ0D4WvCfdU0U0I5T0XaR) | [Jacob \(THE BOYZ\)](https://open.spotify.com/artist/6BVLu5jroLxNtoRp7EdD83) | [Undercover Miss Hong OST Part.3](https://open.spotify.com/album/61yVr17ptFdMzkW5CTliOb) | 3:00 |
 | 50 | [Give U the Universe](https://open.spotify.com/track/0rUS50qp88ja1UU7Y7L4j4) | [Hayoung Song](https://open.spotify.com/artist/4W1tNmyyTGHjTBQpiQWRNr) | [Our Universe \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/4F3keGFXlukJ2W7U8LSI4I) | 3:01 |
 
-Snapshot ID: `AAAAABfJxgt+qOgFMoUJ5nImQEkpVImu`
+Snapshot ID: `AAAAAGHF36kcvgSh6ege8lwd+UT4lbeI`

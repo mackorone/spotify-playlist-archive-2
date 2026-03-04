@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Milky Chance x southstar
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,655 likes - 86 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,675 likes - 86 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 79 | [I Did You Wrong](https://open.spotify.com/track/1HpOpFbCT9z6FyXdyPPeHX) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [I Did You Wrong](https://open.spotify.com/album/3qWNwf5a53GPFLXKhZWZbi) | 2:52 |
 | 80 | [Eat Sleep Rave Repeat](https://open.spotify.com/track/1FRmdQWUlzARHm8v2BXMDw) | [Art Directors](https://open.spotify.com/artist/09f9jZ36C22ke9iRYIztAc), [Sunlike Brothers](https://open.spotify.com/artist/6ag0HxAKmKQFDXVdt6FUVx) | [Eat Sleep Rave Repeat](https://open.spotify.com/album/3807hJ1BLacCJcBqrQnZW5) | 2:17 |
 | 81 | [3 Strikes](https://open.spotify.com/track/5pz5rPGNtei2OwYHsxWsPe) | [Tommy Tran](https://open.spotify.com/artist/5Ryvlwkg4EAcrtKNVka63L), [dj tani](https://open.spotify.com/artist/4c59nmQyhUfXe5RkS0bjNA) | [3 Strikes](https://open.spotify.com/album/0nW5Slz8ME9clg1LFobOtl) | 1:56 |
-| 82 | [Superar](https://open.spotify.com/track/2ZDhVUIYlCyNZHi8O3funQ) | [David Löhlein](https://open.spotify.com/artist/2RibmjRGf8SiwxdCQZ9N1C), [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn), [Amante](https://open.spotify.com/artist/7n35qLqM5KST1SYogipxl1) | [Superar](https://open.spotify.com/album/3zpeFHQUWaY5j74PVaZgDW) | 2:45 |
+| 82 | [Superar](https://open.spotify.com/track/2ZDhVUIYlCyNZHi8O3funQ) | [David Löhlein](https://open.spotify.com/artist/2RibmjRGf8SiwxdCQZ9N1C), [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn) | [Superar](https://open.spotify.com/album/3zpeFHQUWaY5j74PVaZgDW) | 2:45 |
 | 83 | [Rave All Night](https://open.spotify.com/track/7dpeqGrArVGvDNdRhsxpe3) | [Dominik Saltevski](https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN) | [Rave All Night](https://open.spotify.com/album/1Hs56yuRXoji0VMOGSRMsY) | 2:34 |
 | 84 | [Easy To Love](https://open.spotify.com/track/5FSumR5nIyMdFWJdY3v5c9) | [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY), [SELAH](https://open.spotify.com/artist/0RJ2o969ES08J9cMAhzPiD) | [Easy To Love](https://open.spotify.com/album/4ZHRDgegqPA1koniMgNwPk) | 2:59 |
 | 85 | [Old Times](https://open.spotify.com/track/5RQfixUiZpuQm1c6SLk5xM) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [Maexx](https://open.spotify.com/artist/67h0gGkbbTBYXmbb88ecgk), [MIZAK](https://open.spotify.com/artist/3jDPRJm3fQLCP9BHvt04k7), [BVCCHUS](https://open.spotify.com/artist/6uKZbW7guvJmu1EjfezODx) | [Old Times](https://open.spotify.com/album/4siozc2NITIt6Ru1091ewn) | 3:29 |

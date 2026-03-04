@@ -1,6 +1,6 @@
 {
   "description": "\u2744\ufe0f\u2744\ufe0f\u2744\ufe0f\n",
-  "num_followers": 159586,
+  "num_followers": 159578,
   "original_name": "vintertid",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
+        "name": "Rosary",
+        "url": "https://open.spotify.com/album/1psqIPAeNCLC2w7oY7VL0W"
+      },
+      "artists": [
+        {
+          "name": "Kyle Alessandro",
+          "url": "https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl"
+        }
+      ],
+      "duration_ms": 142219,
+      "name": "Rosary",
+      "url": "https://open.spotify.com/track/1UT5wJDwXkSeMT0zsW9J3y"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
         "name": "Potion",
         "url": "https://open.spotify.com/album/1ip3kwOjeoIXzxVwpqfL17"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 177909,
       "name": "Heavy Hearts",
       "url": "https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
-        "name": "Rosary",
-        "url": "https://open.spotify.com/album/1psqIPAeNCLC2w7oY7VL0W"
-      },
-      "artists": [
-        {
-          "name": "Kyle Alessandro",
-          "url": "https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl"
-        }
-      ],
-      "duration_ms": 142219,
-      "name": "Rosary",
-      "url": "https://open.spotify.com/track/1UT5wJDwXkSeMT0zsW9J3y"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Tjue \u00e5r",
-        "url": "https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 176808,
-      "name": "F\u00f8r han for",
-      "url": "https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "I\u2019m Still - A COLORS SHOW",
         "url": "https://open.spotify.com/album/5W72esMYrAOYLedSAb3Enl"
       },
@@ -699,6 +683,22 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
+        "name": "Tjue \u00e5r",
+        "url": "https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 176808,
+      "name": "F\u00f8r han for",
+      "url": "https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
         "name": "Again, for the first time",
         "url": "https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd"
       },
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Hjemme",
-        "url": "https://open.spotify.com/album/5EVeTeHyY3IvVXYmz29rZr"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle",
-          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
-        }
-      ],
-      "duration_ms": 236619,
-      "name": "Hjemme",
-      "url": "https://open.spotify.com/track/6FPKJnJMghrBQUQuSY5nnQ"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "\u00c6lsk n\u00e5nn",
         "url": "https://open.spotify.com/album/3SxRO68yT4mmagISCMzjJP"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 185206,
       "name": "\u00c6lsk n\u00e5nn",
       "url": "https://open.spotify.com/track/3m4V5TOoJCX2zriMAQNIk4"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "Hjemme",
+        "url": "https://open.spotify.com/album/5EVeTeHyY3IvVXYmz29rZr"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
+        }
+      ],
+      "duration_ms": 236619,
+      "name": "Hjemme",
+      "url": "https://open.spotify.com/track/6FPKJnJMghrBQUQuSY5nnQ"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -799,6 +799,22 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
+        "name": "Delt i to",
+        "url": "https://open.spotify.com/album/1HZ2QKz0QAnDM7O6nk1cSN"
+      },
+      "artists": [
+        {
+          "name": "Ingrid V\u00e5rvik",
+          "url": "https://open.spotify.com/artist/0EZzUcdUUvHZbw77Cmy5uU"
+        }
+      ],
+      "duration_ms": 195937,
+      "name": "Delt i to",
+      "url": "https://open.spotify.com/track/0kL2WXiMfgkDZFYwyRjvxZ"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
         "name": "Venter du",
         "url": "https://open.spotify.com/album/33rnPbG5uBGM1klUO46Arc"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 157360,
       "name": "Venter du",
       "url": "https://open.spotify.com/track/4MWldeK06AisUkSYARj8YD"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
-        "name": "Delt i to",
-        "url": "https://open.spotify.com/album/1HZ2QKz0QAnDM7O6nk1cSN"
-      },
-      "artists": [
-        {
-          "name": "Ingrid V\u00e5rvik",
-          "url": "https://open.spotify.com/artist/0EZzUcdUUvHZbw77Cmy5uU"
-        }
-      ],
-      "duration_ms": 195937,
-      "name": "Delt i to",
-      "url": "https://open.spotify.com/track/0kL2WXiMfgkDZFYwyRjvxZ"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "God Knows",
-        "url": "https://open.spotify.com/album/3G3sTPzTb0R6OQTt3nJI7i"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 170394,
-      "name": "God Knows",
-      "url": "https://open.spotify.com/track/0yOwc5hOnEQSgDTApRPgzC"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "I'll be the light",
         "url": "https://open.spotify.com/album/1k5IS1kmJi8s2gHZTyHdAE"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 163449,
       "name": "I'll be the light",
       "url": "https://open.spotify.com/track/1k2ac6IiUS3OoisZ92KIEX"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "God Knows",
+        "url": "https://open.spotify.com/album/3G3sTPzTb0R6OQTt3nJI7i"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 170394,
+      "name": "God Knows",
+      "url": "https://open.spotify.com/track/0yOwc5hOnEQSgDTApRPgzC"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "I Could Miss You Forever",
-        "url": "https://open.spotify.com/album/3wakAMVNSBt9CTCdnoUEmx"
-      },
-      "artists": [
-        {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
-        }
-      ],
-      "duration_ms": 217908,
-      "name": "I Could Miss You Forever",
-      "url": "https://open.spotify.com/track/3F81PYqkx4j3pFX9aQORg0"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "G\u00e5 bli lykkelig, du",
         "url": "https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 187281,
       "name": "G\u00e5 bli lykkelig, du",
       "url": "https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "I Could Miss You Forever",
+        "url": "https://open.spotify.com/album/3wakAMVNSBt9CTCdnoUEmx"
+      },
+      "artists": [
+        {
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+        }
+      ],
+      "duration_ms": 217908,
+      "name": "I Could Miss You Forever",
+      "url": "https://open.spotify.com/track/3F81PYqkx4j3pFX9aQORg0"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
+        "name": "Jeg vil ikke st\u00e5 i ro lenger",
+        "url": "https://open.spotify.com/album/5tOX3r3JMbo4tCYOuExN8A"
+      },
+      "artists": [
+        {
+          "name": "Randi Oline",
+          "url": "https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV"
+        }
+      ],
+      "duration_ms": 173822,
+      "name": "Late Bloomer",
+      "url": "https://open.spotify.com/track/2O5HmTtJOZaRQ6TMOKf4Gg"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
         "name": "Skyfri himmel",
         "url": "https://open.spotify.com/album/1ZMfhQD8MkMGSqydaXAGgN"
       },
@@ -1187,54 +1203,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Jeg vil ikke st\u00e5 i ro lenger",
-        "url": "https://open.spotify.com/album/5tOX3r3JMbo4tCYOuExN8A"
-      },
-      "artists": [
-        {
-          "name": "Randi Oline",
-          "url": "https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV"
-        }
-      ],
-      "duration_ms": 173822,
-      "name": "Late Bloomer",
-      "url": "https://open.spotify.com/track/2O5HmTtJOZaRQ6TMOKf4Gg"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/2M3flg4qynuOU0A5YAqciG"
-      },
-      "artists": [
-        {
-          "name": "Hannah Storm",
-          "url": "https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL"
-        }
-      ],
-      "duration_ms": 187869,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/1tKt5lYHwNymK3SMDrzQNK"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
-        "name": "YOUNG: Part 1 & 2",
-        "url": "https://open.spotify.com/album/1fgSrvKpIkI49fAy6SFHPV"
-      },
-      "artists": [
-        {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
-        }
-      ],
-      "duration_ms": 137160,
-      "name": "If I'm So Bad",
-      "url": "https://open.spotify.com/track/3qOFI6kpf9FqZ2GxKCJV3M"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "Learning as I go",
         "url": "https://open.spotify.com/album/582q1GIAIEpNO2kbJefbXG"
       },
@@ -1267,6 +1235,22 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/2M3flg4qynuOU0A5YAqciG"
+      },
+      "artists": [
+        {
+          "name": "Hannah Storm",
+          "url": "https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL"
+        }
+      ],
+      "duration_ms": 187869,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/1tKt5lYHwNymK3SMDrzQNK"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
         "name": "Sover du",
         "url": "https://open.spotify.com/album/7jFpenfKsfhNXTCEFyYc8s"
       },
@@ -1287,6 +1271,22 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
+        "name": "YOUNG: Part 1 & 2",
+        "url": "https://open.spotify.com/album/1fgSrvKpIkI49fAy6SFHPV"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+        }
+      ],
+      "duration_ms": 137160,
+      "name": "If I'm So Bad",
+      "url": "https://open.spotify.com/track/3qOFI6kpf9FqZ2GxKCJV3M"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
         "name": "ETTERGL\u00d8D",
         "url": "https://open.spotify.com/album/1jbJbBZDzFYZbs1EE8gwP3"
       },
@@ -1303,38 +1303,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Oh Love (Acoustic)",
-        "url": "https://open.spotify.com/album/2LYicowoYBTLSr5vRw0zOZ"
-      },
-      "artists": [
-        {
-          "name": "Emilie Nicolas",
-          "url": "https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt"
-        }
-      ],
-      "duration_ms": 201774,
-      "name": "Oh Love - Acoustic",
-      "url": "https://open.spotify.com/track/1eJJfaTChNekT1pudPc2Ur"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
-        "name": "Fargepalett",
-        "url": "https://open.spotify.com/album/7DDnAh6stiJh89pYttClM6"
-      },
-      "artists": [
-        {
-          "name": "Nessi",
-          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
-        }
-      ],
-      "duration_ms": 141335,
-      "name": "Fargepalett",
-      "url": "https://open.spotify.com/track/7r8FITLqf8562PHKShR9gc"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
         "url": "https://open.spotify.com/album/4mAbJTCZceU9TDFjHmEr4u"
       },
@@ -1347,6 +1315,22 @@
       "duration_ms": 206333,
       "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
       "url": "https://open.spotify.com/track/4ijd1dEAZFTJ8FEUyD7k45"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "Oh Love (Acoustic)",
+        "url": "https://open.spotify.com/album/2LYicowoYBTLSr5vRw0zOZ"
+      },
+      "artists": [
+        {
+          "name": "Emilie Nicolas",
+          "url": "https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt"
+        }
+      ],
+      "duration_ms": 201774,
+      "name": "Oh Love - Acoustic",
+      "url": "https://open.spotify.com/track/1eJJfaTChNekT1pudPc2Ur"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
+        "name": "Fargepalett",
+        "url": "https://open.spotify.com/album/7DDnAh6stiJh89pYttClM6"
+      },
+      "artists": [
+        {
+          "name": "Nessi",
+          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
+        }
+      ],
+      "duration_ms": 141335,
+      "name": "Fargepalett",
+      "url": "https://open.spotify.com/track/7r8FITLqf8562PHKShR9gc"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
         "name": "Give Me Your Love Back",
         "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
       },
@@ -1395,6 +1395,22 @@
       "duration_ms": 176097,
       "name": "Give Me Your Love Back",
       "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "Hold d\u00e6 fast",
+        "url": "https://open.spotify.com/album/22CpNiSjlxIcFTcUS2Mqbr"
+      },
+      "artists": [
+        {
+          "name": "Paul Fjell",
+          "url": "https://open.spotify.com/artist/0i1LGaibJwWVJlJKNXftS7"
+        }
+      ],
+      "duration_ms": 198814,
+      "name": "Hold d\u00e6 fast",
+      "url": "https://open.spotify.com/track/62z5Gj6uZQshGKaUFqV3dN"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -1463,26 +1479,6 @@
       "duration_ms": 220333,
       "name": "S\u00e5 easy",
       "url": "https://open.spotify.com/track/5XseAj5jHF5ncdTu6a89ak"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
-        "name": "Spor i sn\u00f8",
-        "url": "https://open.spotify.com/album/5ALVZSAv6BgrsAJNLvkfbV"
-      },
-      "artists": [
-        {
-          "name": "Stein Torleif Bjella",
-          "url": "https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 230680,
-      "name": "Spor i sn\u00f8",
-      "url": "https://open.spotify.com/track/00Hpn2m6O7fInTduN987Zc"
     }
   ],
   "unique_name": "vintertid",

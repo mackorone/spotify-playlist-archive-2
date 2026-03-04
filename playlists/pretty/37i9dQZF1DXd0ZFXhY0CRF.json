@@ -1,6 +1,6 @@
 {
   "description": "The women whose music and influence rock our world. Cover: Ellie Rowsell of Wolf Alice",
-  "num_followers": 780221,
+  "num_followers": 780259,
   "original_name": "Women of Rock",
   "owner": {
     "name": "Spotify",
@@ -639,18 +639,18 @@
     {
       "added_at": "2026-03-02 21:45:43",
       "album": {
-        "name": "To Bring You My Love",
-        "url": "https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8"
+        "name": "Under the Pink",
+        "url": "https://open.spotify.com/album/6VNuZLF98tsRYgqlIXAVCD"
       },
       "artists": [
         {
-          "name": "PJ Harvey",
-          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
         }
       ],
-      "duration_ms": 194506,
-      "name": "Down By The Water",
-      "url": "https://open.spotify.com/track/48mJX8glOrQkrSdVBjc0Wb"
+      "duration_ms": 305493,
+      "name": "Cornflake Girl",
+      "url": "https://open.spotify.com/track/1300POeOaj8qho30FRHjgf"
     },
     {
       "added_at": "2026-03-02 21:45:43",
@@ -671,18 +671,18 @@
     {
       "added_at": "2026-03-02 21:45:43",
       "album": {
-        "name": "Under the Pink",
-        "url": "https://open.spotify.com/album/6VNuZLF98tsRYgqlIXAVCD"
+        "name": "To Bring You My Love",
+        "url": "https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8"
       },
       "artists": [
         {
-          "name": "Tori Amos",
-          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
         }
       ],
-      "duration_ms": 305493,
-      "name": "Cornflake Girl",
-      "url": "https://open.spotify.com/track/1300POeOaj8qho30FRHjgf"
+      "duration_ms": 194506,
+      "name": "Down By The Water",
+      "url": "https://open.spotify.com/track/48mJX8glOrQkrSdVBjc0Wb"
     },
     {
       "added_at": "2026-03-02 21:45:43",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-03-02 21:45:43",
       "album": {
-        "name": "Who Let The Dogs Out",
-        "url": "https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV"
-      },
-      "artists": [
-        {
-          "name": "Lambrini Girls",
-          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
-        }
-      ],
-      "duration_ms": 138533,
-      "name": "Cuntology 101",
-      "url": "https://open.spotify.com/track/3wCJGNuWIoeKHsrZdAybiO"
-    },
-    {
-      "added_at": "2026-03-02 21:45:43",
-      "album": {
         "name": "Dead End",
         "url": "https://open.spotify.com/album/3wDIP40j3CcyfvmVjiN6v9"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 245358,
       "name": "Dead End",
       "url": "https://open.spotify.com/track/2DcJRwVK6Qlk3h6lXWQvE4"
+    },
+    {
+      "added_at": "2026-03-02 21:45:43",
+      "album": {
+        "name": "Who Let The Dogs Out",
+        "url": "https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "duration_ms": 138533,
+      "name": "Cuntology 101",
+      "url": "https://open.spotify.com/track/3wCJGNuWIoeKHsrZdAybiO"
     },
     {
       "added_at": "2026-03-02 21:45:43",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-03-02 21:45:43",
       "album": {
-        "name": "Suzi Quatro",
-        "url": "https://open.spotify.com/album/63KpMsxh6E1WJPcDeT2GH4"
-      },
-      "artists": [
-        {
-          "name": "Suzi Quatro",
-          "url": "https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Can the Can",
-      "url": "https://open.spotify.com/track/1zaiZAuhPkQfhhY9X2mTnn"
-    },
-    {
-      "added_at": "2026-03-02 21:45:43",
-      "album": {
         "name": "THUM",
         "url": "https://open.spotify.com/album/0fz4N5DS1SJ6jbNABL9UMr"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 131644,
       "name": "THUM",
       "url": "https://open.spotify.com/track/3yuaDt5vOxrQD06LrAQPj9"
+    },
+    {
+      "added_at": "2026-03-02 21:45:43",
+      "album": {
+        "name": "Suzi Quatro",
+        "url": "https://open.spotify.com/album/63KpMsxh6E1WJPcDeT2GH4"
+      },
+      "artists": [
+        {
+          "name": "Suzi Quatro",
+          "url": "https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Can the Can",
+      "url": "https://open.spotify.com/track/1zaiZAuhPkQfhhY9X2mTnn"
     },
     {
       "added_at": "2026-03-02 21:45:43",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-03-02 21:45:43",
       "album": {
-        "name": "Welcome to My Blue Sky",
-        "url": "https://open.spotify.com/album/6BMB400fh0wby5BM8VOTEY"
-      },
-      "artists": [
-        {
-          "name": "Momma",
-          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
-        }
-      ],
-      "duration_ms": 217249,
-      "name": "I Want You (Fever)",
-      "url": "https://open.spotify.com/track/4Ze7DFjyVa0smRqY2Fxcnz"
-    },
-    {
-      "added_at": "2026-03-02 21:45:43",
-      "album": {
         "name": "Formentera",
         "url": "https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 263080,
       "name": "All Comes Crashing",
       "url": "https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA"
+    },
+    {
+      "added_at": "2026-03-02 21:45:43",
+      "album": {
+        "name": "Welcome to My Blue Sky",
+        "url": "https://open.spotify.com/album/6BMB400fh0wby5BM8VOTEY"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "duration_ms": 217249,
+      "name": "I Want You (Fever)",
+      "url": "https://open.spotify.com/track/4Ze7DFjyVa0smRqY2Fxcnz"
     },
     {
       "added_at": "2026-03-02 21:45:43",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2026-03-02 21:45:43",
       "album": {
+        "name": "mettle",
+        "url": "https://open.spotify.com/album/0QZNEGmnZrFhePN6CH6muw"
+      },
+      "artists": [
+        {
+          "name": "she's green",
+          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
+        }
+      ],
+      "duration_ms": 176853,
+      "name": "mettle",
+      "url": "https://open.spotify.com/track/09kKoIXQgBJMY3nGQN4IMB"
+    },
+    {
+      "added_at": "2026-03-02 21:45:43",
+      "album": {
         "name": "Blame",
         "url": "https://open.spotify.com/album/34XU427uXpPYwocbDxstyS"
       },
@@ -1363,6 +1379,22 @@
     {
       "added_at": "2026-03-02 21:45:43",
       "album": {
+        "name": "Mantis / Sugar Plum",
+        "url": "https://open.spotify.com/album/1krTI5LpA4bUKMdBvDzIyx"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "duration_ms": 280547,
+      "name": "Mantis",
+      "url": "https://open.spotify.com/track/3iM77HJU9PIWyfMhxw3LGt"
+    },
+    {
+      "added_at": "2026-03-02 21:45:43",
+      "album": {
         "name": "my anti-aircraft friend",
         "url": "https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ"
       },
@@ -1391,38 +1423,6 @@
       "duration_ms": 211964,
       "name": "Break the Girl",
       "url": "https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf"
-    },
-    {
-      "added_at": "2026-03-02 21:45:43",
-      "album": {
-        "name": "mettle",
-        "url": "https://open.spotify.com/album/0QZNEGmnZrFhePN6CH6muw"
-      },
-      "artists": [
-        {
-          "name": "she's green",
-          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
-        }
-      ],
-      "duration_ms": 176853,
-      "name": "mettle",
-      "url": "https://open.spotify.com/track/09kKoIXQgBJMY3nGQN4IMB"
-    },
-    {
-      "added_at": "2026-03-02 21:45:43",
-      "album": {
-        "name": "Mantis / Sugar Plum",
-        "url": "https://open.spotify.com/album/1krTI5LpA4bUKMdBvDzIyx"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 280547,
-      "name": "Mantis",
-      "url": "https://open.spotify.com/track/3iM77HJU9PIWyfMhxw3LGt"
     },
     {
       "added_at": "2026-03-02 21:45:43",

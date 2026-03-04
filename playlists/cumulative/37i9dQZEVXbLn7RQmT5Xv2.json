@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 189567,
       "name": "Ana Meen",
       "url": "https://open.spotify.com/track/541Q0u2sHv70TzcUzuUVmy"
@@ -2420,7 +2420,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 206759,
       "name": "Betadeen",
       "url": "https://open.spotify.com/track/693Zm4S9surNZUPZp0RCXi"
@@ -7484,7 +7484,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 282430,
       "name": "Kan Mawdo3",
       "url": "https://open.spotify.com/track/3FJ2RFcLUogTbyt9MGVQoC"
@@ -9636,7 +9636,7 @@
       ],
       "date_added": "2024-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 186666,
       "name": "Meen Ysadak",
       "url": "https://open.spotify.com/track/2So4UdTcMQe2ap2VpC43eD"
@@ -9756,6 +9756,24 @@
       "duration_ms": 192213,
       "name": "Mesh Aader Ansa",
       "url": "https://open.spotify.com/track/2DMv8xhr5mw2nJWqGgVPLU"
+    },
+    {
+      "album": {
+        "name": "Mesh Habibi Bas",
+        "url": "https://open.spotify.com/album/15rENBw7yFYHGAe2YBPlEv"
+      },
+      "artists": [
+        {
+          "name": "Angham",
+          "url": "https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241163,
+      "name": "Mesh Habibi Bas",
+      "url": "https://open.spotify.com/track/1nOv83Igd6VoVoKNeGOGQJ"
     },
     {
       "album": {
@@ -12996,7 +13014,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 242470,
       "name": "Sebtely Alby",
       "url": "https://open.spotify.com/track/4737Q6tMY1c8uSxNHMVQO7"
@@ -17664,7 +17682,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 217787,
       "name": "\u0628\u062a\u0641\u062a\u0643\u0631\u0646\u064a \u0633\u0627\u0639\u0627\u062a",
       "url": "https://open.spotify.com/track/225k2VOiES9R9AC0IwVBkb"
@@ -19654,7 +19672,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 153000,
       "name": "\u0636\u0645\u0651\u0629 - Damma",
       "url": "https://open.spotify.com/track/7kZHFpC8CJ8wIjIpqWVWs1"
@@ -20090,6 +20108,24 @@
       "duration_ms": 158918,
       "name": "\u0639\u0645 \u062c\u064a\u0644\u0648 ( \u0637\u0628 \u062e\u062f \u0648\u0644\u0627 \u0627\u0646\u062a \u0645\u0628\u062a\u0639\u0631\u0641\u0634 \u062a\u0635\u062f )",
       "url": "https://open.spotify.com/track/05HQf3gXwmAb8WScNvlhEt"
+    },
+    {
+      "album": {
+        "name": "\u0639\u064a\u0646 \u0633\u062d\u0631\u064a\u0629",
+        "url": "https://open.spotify.com/album/2j2GeCSkeSYIr3Rv86e4Km"
+      },
+      "artists": [
+        {
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141816,
+      "name": "\u0639\u064a\u0646 \u0633\u062d\u0631\u064a\u0629",
+      "url": "https://open.spotify.com/track/0SuWrDNsHCpu2Nh1Ygoeet"
     },
     {
       "album": {
@@ -21880,6 +21916,10 @@
         {
           "name": "Mahmoud El Esseily",
           "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
+        },
+        {
+          "name": "Banque Misr",
+          "url": "https://open.spotify.com/artist/52ZYmo8Rhz3Xgxr7RUJ3ql"
         }
       ],
       "date_added": "2026-02-21",
@@ -22210,7 +22250,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 264196,
       "name": "\u0648\u0633\u0637 \u062f\u0645\u0648\u0639 \u0648\u062c\u0631\u0627\u062d",
       "url": "https://open.spotify.com/track/3FdV0iO6fskyPeYnrMsKPM"

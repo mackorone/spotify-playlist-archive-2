@@ -359,6 +359,28 @@
     },
     {
       "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/7fUxUY9JKzC7yWCV6FBu36"
+      },
+      "artists": [
+        {
+          "name": "Roy Budd",
+          "url": "https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV"
+        },
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137573,
+      "name": "End Titles",
+      "url": "https://open.spotify.com/track/5dIMP9s07iyL5RXn3JsabP"
+    },
+    {
+      "album": {
         "name": "The Best Of The Three Degrees: When Will I See You Again",
         "url": "https://open.spotify.com/album/0GO4Ee0UN5cyB1FnWPfOzz"
       },
@@ -1156,7 +1178,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 230653,
       "name": "Love the One Your With",
       "url": "https://open.spotify.com/track/5NLixfIVZ5yHJNsJmzw6R7"

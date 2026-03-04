@@ -2,9 +2,9 @@
 
 ### [EQUAL Japan](https://open.spotify.com/playlist/37i9dQZF1DX2K2376Q0zTJ)
 
-> 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: にしな
+> 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: HANA
 
-1,452 songs - 3 day 13 hr 6 min
+1,456 songs - 3 day 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Alchemy](https://open.spotify.com/track/2GvlMX8vFqMhxjuMOMhltm) | [Rinaly](https://open.spotify.com/artist/17fstkJkaEYiI1tBX1N7RD) | [Alchemy](https://open.spotify.com/album/6Q415VfJJ0VpQHf5X6BCzN) | 3:39 | 2022-05-31 | 2022-07-06 |
 | [Alien loves you!](https://open.spotify.com/track/5H6HRP1OkUQFh887EVZxwT) | [The tiva](https://open.spotify.com/artist/4QAZydJKmIPBmDHwqp1k6s) | [On This Planet](https://open.spotify.com/album/50jTBdULiq1mR4B8DG5m6e) | 4:14 | 2022-07-05 | 2022-08-03 |
 | [All Around The World](https://open.spotify.com/track/4Pn6a1P7eRKfE3roWHKZc6) | [G.RINA](https://open.spotify.com/artist/0r51Lcwiq3z84XVlXDFeWS), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [LIVE & LEARN](https://open.spotify.com/album/3M5uWMsaZ4TmW9LTIPLsWe) | 3:40 | 2021-11-30 | 2022-01-05 |
+| [ALL IN](https://open.spotify.com/track/6lOUOvcscCHUofusbjbYV2) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [HANA](https://open.spotify.com/album/09EpfyvBdk8EL5TQNZiZYg) | 2:32 | 2026-03-03 |  |
 | [All to Myself](https://open.spotify.com/track/4nIy52HZ6omZxRnMs6qB0g) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [All to Myself](https://open.spotify.com/album/1X9QwFBNOCFiHkOE3OD4v2) | 3:18 | 2023-11-07 | 2024-03-06 |
 | [all\-rounder feat\. Rachel, valknee](https://open.spotify.com/track/2PPLR5sM7FOqCy3nCAiDhO) | [minan](https://open.spotify.com/artist/7JYvme1EZU4RbxTjqVGkwh), [Rachel](https://open.spotify.com/artist/6k2XA52whNeJDYbIes1nOC), [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [ttyl](https://open.spotify.com/album/0McmwzkKm1RSEZSjlfMbed) | 4:04 | 2021-11-30 | 2022-05-05 |
 | [Almond](https://open.spotify.com/track/6I1Vxg8cg0KWiuJhIG2hDP) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [Almond](https://open.spotify.com/album/73s9kWqtw7K4QFesNCmJmW) | 4:24 | 2024-02-06 | 2024-03-06 |
@@ -411,7 +412,7 @@
 | [Ice Age](https://open.spotify.com/track/1SmMwgXOsfUSkceYwkPPrn) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [mani mani](https://open.spotify.com/album/5qz9YIGC9q3hIObRBdzQKp) | 4:04 | 2024-02-06 | 2024-03-06 |
 | [ICE CREAM.](https://open.spotify.com/track/3JTJ62eyEnldRkMzRoRHug) | [竹内アンナ](https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw) | [TICKETS](https://open.spotify.com/album/4Rt5bFyqY0uE8wdXJMID9z) | 2:51 | 2023-08-01 | 2023-09-06 |
 | [Ice Palace](https://open.spotify.com/track/0RQL1Q1xo2nuZ7im5KXCnX) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Ice Palace](https://open.spotify.com/album/6OjsY6C1ezMaP6dIgXk5ve) | 3:20 | 2024-07-11 | 2025-01-18 |
-| [Ice Palace](https://open.spotify.com/track/1ozszqqADY95sS6bVHryzz) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [We Are Always Under The Same Sky](https://open.spotify.com/album/0SpZZ8NyMsk2xlKrp9rBkJ) | 3:20 | 2025-12-03 |  |
+| [Ice Palace](https://open.spotify.com/track/1ozszqqADY95sS6bVHryzz) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [We Are Always Under The Same Sky](https://open.spotify.com/album/0SpZZ8NyMsk2xlKrp9rBkJ) | 3:20 | 2025-12-03 | 2026-03-04 |
 | [iconoclasm](https://open.spotify.com/track/4W7mp8YAVrS2Y6B997yVF0) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [iconoclasm](https://open.spotify.com/album/0a5DWiA2nEcK4XnfDlEW6M) | 4:50 | 2025-07-22 | 2025-10-15 |
 | [Ideals](https://open.spotify.com/track/5mtJlCniBac2Jhx0eorAPZ) | [The tiva](https://open.spotify.com/artist/4QAZydJKmIPBmDHwqp1k6s) | [On This Planet](https://open.spotify.com/album/50jTBdULiq1mR4B8DG5m6e) | 2:55 | 2022-07-05 | 2023-04-05 |
 | [If](https://open.spotify.com/track/10q5xuxzTGWyBtG0fQfseC) | [Grace Aimi](https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX) | [If](https://open.spotify.com/album/4wxvHYc2ESuh2euEMn2SlF) | 3:15 | 2021-11-30 | 2022-01-05 |
@@ -587,9 +588,10 @@
 | [more than words](https://open.spotify.com/track/2kXER8pkjxDVQnlagpVJJw) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [12 hugs \(like butterflies\)](https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC) | 4:49 | 2024-01-09 | 2025-01-18 |
 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 | 2023-10-03 | 2024-01-10 |
 | [Mother](https://open.spotify.com/track/45KQWZ5jKPz75APvbw9psW) | [Kuro](https://open.spotify.com/artist/1pvdS8wUgkkSZNPwkb6qg0) | [翡翠 \( hisui \)](https://open.spotify.com/album/2jwl1zSw7jRfVNbgXa1tU8) | 4:48 | 2022-10-04 | 2022-11-09 |
-| [Mother Tree](https://open.spotify.com/track/1cBwZeiOxWJFlTE3cXq0gd) | [EMI MARIA](https://open.spotify.com/artist/4RXIhUAlNFVdzLCWEWdRD8) | [Mother Tree](https://open.spotify.com/album/2koIidYHGsqrhEjP5IvOpp) | 3:23 | 2026-02-24 |  |
+| [Mother Tree](https://open.spotify.com/track/1cBwZeiOxWJFlTE3cXq0gd) | [EMI MARIA](https://open.spotify.com/artist/4RXIhUAlNFVdzLCWEWdRD8) | [Mother Tree](https://open.spotify.com/album/2koIidYHGsqrhEjP5IvOpp) | 3:23 | 2026-02-24 | 2026-03-04 |
 | [Ms\. Downer](https://open.spotify.com/track/1KKfTJlbKsWtoTKqHJoLO8) | [BRATS](https://open.spotify.com/artist/55kovkxA0XhUU2Wc4zpJtt) | [Karma](https://open.spotify.com/album/7BBWXPtvWrmxrizuxILIUp) | 3:20 | 2022-05-04 | 2022-06-01 |
-| [Ms.Independent](https://open.spotify.com/track/0uc7W03WYjBY9Mb5tdW88c) | [me\-mai](https://open.spotify.com/artist/3mUSzVCF0uh8YuVH16vNJS), [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [Ms.Independent](https://open.spotify.com/album/7kAE94vqC4rSV2Xo1deHL5) | 2:32 | 2025-03-04 |  |
+| [Ms.Independent](https://open.spotify.com/track/0uc7W03WYjBY9Mb5tdW88c) | [me\-mai](https://open.spotify.com/artist/3mUSzVCF0uh8YuVH16vNJS), [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [Ms.Independent](https://open.spotify.com/album/7kAE94vqC4rSV2Xo1deHL5) | 2:32 | 2025-03-04 | 2026-03-04 |
+| [MT\. DS](https://open.spotify.com/track/6XWXTB5PurCkKtlkT5xjk8) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK) | [MT\. DS EP](https://open.spotify.com/album/2i4OGGjgQl7BBJluGyYTLE) | 5:14 | 2026-03-03 |  |
 | [Munchies](https://open.spotify.com/track/5EBr3SnjEiTiEVKA4Vef0g) | [Marukido](https://open.spotify.com/artist/2TGGk4cLMH1vGMAktQBhZT) | [Distance](https://open.spotify.com/album/0kn7FAuPbTKHPvT11Wn7ew) | 3:48 | 2023-05-02 | 2023-06-07 |
 | [mune ga itai](https://open.spotify.com/track/536FZx9JlrbYDDbGNbLkUp) | [superuwan](https://open.spotify.com/artist/3kWDQ2gwxECBuLi7cSyQTH) | [PEEK\-A\-BOO](https://open.spotify.com/album/60y1SCzUqmL0Mbwh9UQcmi) | 4:10 | 2022-10-04 | 2022-11-09 |
 | [Music](https://open.spotify.com/track/2IET9y9FolHWQfRPjzlnLe) | [Buffalo Daughter](https://open.spotify.com/artist/66UBlnqgUCqDlalQXK8Nby) | [We Are the Times](https://open.spotify.com/album/2Bigb84w1W99VEpp7PxPda) | 1:09 | 2022-11-08 | 2022-12-07 |
@@ -677,7 +679,7 @@
 | [One Week](https://open.spotify.com/track/5WJee4yzldw2qr4UAS1FE3) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [One Week](https://open.spotify.com/album/7s7QxgCO8l3E3Ifs8L0NrL) | 3:36 | 2025-08-12 | 2025-10-22 |
 | [OOPARTS](https://open.spotify.com/track/2WxK04UTeg0ZkYWaw5DLdm) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [our hope](https://open.spotify.com/album/1ONQrLL5EaVJd34qsM21id) | 5:06 | 2022-05-04 | 2022-06-01 |
 | [Organic Thing](https://open.spotify.com/track/2Kn5I1jYCXpsJJQQkqjc1m) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Organic Thing](https://open.spotify.com/album/2YCD5VfiHxkXSX7Jcgg8Of) | 2:50 | 2025-03-11 | 2025-04-02 |
-| [Osoro \(Heaven\)](https://open.spotify.com/track/64wJGqPD8d98Q1elAqWPtZ) | [なみちえ](https://open.spotify.com/artist/5oLsQ9qhHfYCV5L5XNMxAZ) | [GHANA](https://open.spotify.com/album/5J9oDkEBoRJaUzs3pczPKH) | 2:20 | 2026-02-24 |  |
+| [Osoro \(Heaven\)](https://open.spotify.com/track/64wJGqPD8d98Q1elAqWPtZ) | [なみちえ](https://open.spotify.com/artist/5oLsQ9qhHfYCV5L5XNMxAZ) | [GHANA](https://open.spotify.com/album/5J9oDkEBoRJaUzs3pczPKH) | 2:20 | 2026-02-24 | 2026-03-04 |
 | [OTONABLUE](https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:04 | 2023-04-11 | 2024-01-10 |
 | [OTONABLUE](https://open.spotify.com/track/2ay8z5vGqKTSpGkmOR9IAo) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [OTONABLUE](https://open.spotify.com/album/7vUVx8e9SrqIZe22KqLd6i) | 3:05 | 2023-04-04 | 2023-04-15 |
 | [Our Home](https://open.spotify.com/track/5FghpyYoictAFphQ5Gcp1U) | [Rie fu](https://open.spotify.com/artist/4dP04Y2d6esI6cwOiAozgg) | [Beautiful Boy \(Side A\)](https://open.spotify.com/album/7fAcDecrmH6UR8TpTc0CP4) | 3:47 | 2022-07-05 | 2022-07-29 |
@@ -941,6 +943,7 @@
 | [Toryanse](https://open.spotify.com/track/6Zdy0Snyt41k4Bg8Imtq7r) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Toryanse](https://open.spotify.com/album/5tHcuKjRQIAwAvm1eoQIqI) | 2:36 | 2024-02-06 | 2024-03-06 |
 | [touch](https://open.spotify.com/track/2WG6srwUczML0t7Dv1sYwB) | [Emi Okamoto](https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li), [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [touch](https://open.spotify.com/album/48pfaNnmIJpOIKRw1sOZEv) | 3:39 | 2022-07-05 | 2022-08-03 |
 | [Toukakanseinoyoru](https://open.spotify.com/track/4MkvoRmOboUayXIj63S7XC) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Works.ep](https://open.spotify.com/album/7Dt2tewXcLRyDHteQ660DM) | 3:52 | 2023-02-28 | 2023-04-05 |
+| [Track 1](https://open.spotify.com/track/48SLT9xIlpHMVZIqappWI5) | [me\-mai](https://open.spotify.com/artist/3mUSzVCF0uh8YuVH16vNJS) | [Ms.Independent](https://open.spotify.com/album/4KybIqjkuFfB7aVr7DIUpX) | 0:00 | 2026-03-03 |  |
 | [Trank](https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA) | [ako](https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo) | [Trank](https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U) | 2:57 | 2023-11-07 | 2023-11-30 |
 | [Treasure You](https://open.spotify.com/track/04SeXEZGiH1tse4UtyUBmE) | [KIRA](https://open.spotify.com/artist/384MAG8fZLUBFQoO2KgDVG) | [Birthday](https://open.spotify.com/album/0ItyQ5hpzupHOAAsQJjbRe) | 3:54 | 2023-05-02 | 2023-06-07 |
 | [Tremolo](https://open.spotify.com/track/3kIFJsq83ecH3ingfUXVMZ) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Daydream](https://open.spotify.com/album/7djGvLAgTKtlV9s9MXAXkV) | 3:11 | 2022-03-07 | 2022-04-06 |
@@ -1245,6 +1248,7 @@
 | [モーニングルーティン](https://open.spotify.com/track/1BCuK5Xrf7gA0GUv2hiw0w) | [OCHA∞ME](https://open.spotify.com/artist/0ZTPHSqruVKSdZSmCBskxT) | [モーニングルーティン](https://open.spotify.com/album/4cX3MYGdSniYrfwwaEAfEX) | 3:35 | 2024-06-20 | 2024-07-10 |
 | [ヤケド](https://open.spotify.com/track/4NEhoHnnuNVRs5x7ovkkUk) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [ヤケド](https://open.spotify.com/album/1jPav5sGQGfQ8eKaAZA9Ym) | 3:15 | 2023-07-04 | 2023-08-02 |
 | [ラストロマンス](https://open.spotify.com/track/4NJnYJ9D2sT1GDWoRYqw4J) | [Tokyo Girls' Style](https://open.spotify.com/artist/2mUoXdIOsE0kFnXdNzS3wx) | [ラストロマンス](https://open.spotify.com/album/4Gw7ZhwDUx07w6ycBxegQf) | 3:00 | 2022-11-08 | 2022-12-07 |
+| [ラッキーアイラブユー](https://open.spotify.com/track/5p040sCjrFbgB81NpRGWWr) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [ラッキーアイラブユー](https://open.spotify.com/album/1PvPHW1dQoqBvbrrBlIvas) | 3:58 | 2026-03-03 |  |
 | [ラッキーカラー](https://open.spotify.com/track/51wVMgIHAGqTZxlgNJN11K) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [がんばれ!メロディー](https://open.spotify.com/album/5sKz8vVkaJ73RTjh0X7dEc) | 4:07 | 2023-01-03 | 2023-02-02 |
 | [ラッキー・ドライブ](https://open.spotify.com/track/2YgT34Ztg37oBspiPey1ho) | [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [ラッキー・ドライブ](https://open.spotify.com/album/0M1Ss4ejW5LB3ZllXxNEuh) | 3:28 | 2022-09-06 | 2022-10-05 |
 | [ラブじゃん](https://open.spotify.com/track/2vnWduAon47Ra9Th9dCAuY) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [ラブじゃん](https://open.spotify.com/album/6pTeKfeTsyxknsyH4YrpSF) | 3:20 | 2023-02-01 | 2023-03-01 |

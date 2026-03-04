@@ -4221,6 +4221,24 @@
     },
     {
       "album": {
+        "name": "Dream Shelter",
+        "url": "https://open.spotify.com/album/5RI5Lolqbrxjm6ZEj8oBWY"
+      },
+      "artists": [
+        {
+          "name": "Evensia",
+          "url": "https://open.spotify.com/artist/2Idc0PVXaZL5nPv8IjcJru"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158846,
+      "name": "Dream Shelter",
+      "url": "https://open.spotify.com/track/7DpTaJ6WOUPKEGBlD8kGcQ"
+    },
+    {
+      "album": {
         "name": "Dream Stone",
         "url": "https://open.spotify.com/album/4fBb5PmIesNKFgxUGs1Fpd"
       },
@@ -9380,7 +9398,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 173333,
       "name": "Lunatheris",
       "url": "https://open.spotify.com/track/2z5oBmyg1XPkzzlk0beyqg"
@@ -11130,6 +11148,24 @@
       "duration_ms": 148984,
       "name": "Nox",
       "url": "https://open.spotify.com/track/6e8eaU1oPzSu0WXnbSyZt7"
+    },
+    {
+      "album": {
+        "name": "Nubilum",
+        "url": "https://open.spotify.com/album/3ZS14lJcLyPaBqlTjWpLJ8"
+      },
+      "artists": [
+        {
+          "name": "Peter Wiehl",
+          "url": "https://open.spotify.com/artist/4o24XKesoVS2rDD20Uo8pi"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151233,
+      "name": "Nubilum",
+      "url": "https://open.spotify.com/track/5C1tmuh9sqFOdQmyKkIazZ"
     },
     {
       "album": {
@@ -16296,7 +16332,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 156608,
       "name": "Tides",
       "url": "https://open.spotify.com/track/0yoimTeDt0DHtICIUKc6d2"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Featuring new cuts from DJ\_Dave, Ms\* Gloom, Effie, MRD, + more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,484 likes - 100 songs - 5 hr 34 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,482 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 58 | [Pressure](https://open.spotify.com/track/5IM7K2NbI81E02JR48ggbS) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Pressure](https://open.spotify.com/album/66QnzKFEFwji6nKdd2EiH3) | 4:05 |
 | 59 | [Sinai Ray](https://open.spotify.com/track/4A3ri9SFKKgv5ydmHMAbhQ) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Sinai Ray](https://open.spotify.com/album/5KpoV1UIqmmkVAkZjG4SGs) | 3:49 |
 | 60 | [touch grass](https://open.spotify.com/track/5swQzUvPEeYFfI8KDezHth) | [notinbed](https://open.spotify.com/artist/0e7T2sPaxQSpePLh4AhMg8), [Clara Kimera](https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr) | [unknown reasons](https://open.spotify.com/album/1pY9tTjFfRMV2tbSrxZLqL) | 3:45 |
-| 61 | [Heartring \- Simon K Remix](https://open.spotify.com/track/2MmwJn4JZqR2XzwlfzaxFw) | [inter alia](https://open.spotify.com/artist/4XxygEqjEzswVq93XqGv77), [Simon K](https://open.spotify.com/artist/1C1pQYCA77tKEdedDLtc5i) | [Paradise Music Remixed](https://open.spotify.com/album/1d5aheW7rrzsrImerG5IYq) | 2:25 |
+| 61 | [Heartring \- Simon K Remix](https://open.spotify.com/track/2MmwJn4JZqR2XzwlfzaxFw) | [inter alia](https://open.spotify.com/artist/4XxygEqjEzswVq93XqGv77), [Simon K](https://open.spotify.com/artist/5BHympii03rxzsN1doVNTV) | [Paradise Music Remixed](https://open.spotify.com/album/1d5aheW7rrzsrImerG5IYq) | 2:25 |
 | 62 | [red mustang](https://open.spotify.com/track/7GCIBsR9AaK0zMvzhhGcvV) | [ALCATRAZ](https://open.spotify.com/artist/1HLQrKy2EhoJdADW105gfR) | [red mustang](https://open.spotify.com/album/5zBq50aMfduBmJFZ5QqCLV) | 2:20 |
 | 63 | [Joker](https://open.spotify.com/track/6FmaQ1FesE0j6Au0Kh9LOb) | [Ms\* Gloom](https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu) | [Joker](https://open.spotify.com/album/6vndf1r9x2NuLwgo5ItjdG) | 3:21 |
 | 64 | [musica electronica](https://open.spotify.com/track/259kNeFoQp9TyTZdDBBznX) | [yaego](https://open.spotify.com/artist/3F5cNbKjtYHvv43yu5BhKp) | [ÆRO](https://open.spotify.com/album/61vLkSuJkjpk692UHjAgMW) | 3:01 |

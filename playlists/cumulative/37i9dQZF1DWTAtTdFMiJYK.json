@@ -405,6 +405,24 @@
     },
     {
       "album": {
+        "name": "Aasmani",
+        "url": "https://open.spotify.com/album/24HEKKPyHEu5fbcctSMBKN"
+      },
+      "artists": [
+        {
+          "name": "Samad Khan",
+          "url": "https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199993,
+      "name": "Aasmani",
+      "url": "https://open.spotify.com/track/1cnYfIyxflsgDQz3ND5WWf"
+    },
+    {
+      "album": {
         "name": "Adhoora",
         "url": "https://open.spotify.com/album/5KCvtdTpRec6LnElztBLx4"
       },
@@ -799,6 +817,24 @@
     },
     {
       "album": {
+        "name": "badlaan di chhaan",
+        "url": "https://open.spotify.com/album/6stiQqK1O1bjc2TGXRssAo"
+      },
+      "artists": [
+        {
+          "name": "Anmol Singh",
+          "url": "https://open.spotify.com/artist/4ty54Szfs0rCovzY1bqNek"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "badlaan di chhaan",
+      "url": "https://open.spotify.com/track/7n2wOwh937U0lEOuVjw6Ym"
+    },
+    {
+      "album": {
         "name": "Badra Bahara",
         "url": "https://open.spotify.com/album/6ezc28XnlZvnVL5DtzsU0M"
       },
@@ -832,6 +868,24 @@
       "duration_ms": 156107,
       "name": "Badra Bahara",
       "url": "https://open.spotify.com/track/6i9997Q9R4M7RuqQEHq3ed"
+    },
+    {
+      "album": {
+        "name": "Bairan",
+        "url": "https://open.spotify.com/album/3ZIsrV7xUXWX4tR0vk1CGF"
+      },
+      "artists": [
+        {
+          "name": "Banjaare",
+          "url": "https://open.spotify.com/artist/7IbxsPdlYelceWNyHAor55"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Bairan",
+      "url": "https://open.spotify.com/track/0RsH8g8DxdYZgdGcod5I36"
     },
     {
       "album": {
@@ -1972,7 +2026,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 200020,
       "name": "Don't Wanna Be",
       "url": "https://open.spotify.com/track/1kHiVVtGYYE5ZhiyvgP399"
@@ -6186,7 +6240,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 178541,
       "name": "Rehna Duur",
       "url": "https://open.spotify.com/track/1Rmcjz7zicFMNKfXS1FZmM"
@@ -7772,7 +7826,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 227177,
       "name": "Tu Jaise Dariya",
       "url": "https://open.spotify.com/track/75983zLFgUzgjJM45aY0Mn"

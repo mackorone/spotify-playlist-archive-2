@@ -1,6 +1,6 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 82648,
+  "num_followers": 82667,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Yesteryear",
-        "url": "https://open.spotify.com/album/2E6mONgH562P0nB7gmb86j"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        }
-      ],
-      "duration_ms": 219799,
-      "name": "Yesteryear",
-      "url": "https://open.spotify.com/track/1sTLwB34FW4Yqvjsz5tset"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "Ciudades de Noche",
         "url": "https://open.spotify.com/album/2XTsyhYLGwtCAfqqkfEUrd"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 212000,
       "name": "Ciudades de Noche",
       "url": "https://open.spotify.com/track/01rgHbhlfioQ7Oy9ntemCa"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
+        "name": "Yesteryear",
+        "url": "https://open.spotify.com/album/2E6mONgH562P0nB7gmb86j"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        }
+      ],
+      "duration_ms": 219799,
+      "name": "Yesteryear",
+      "url": "https://open.spotify.com/track/1sTLwB34FW4Yqvjsz5tset"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Vine Hasta Marte",
-        "url": "https://open.spotify.com/album/7KMhR1LUULSVFR4SRFkKMg"
-      },
-      "artists": [
-        {
-          "name": "Cohetes",
-          "url": "https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ"
-        }
-      ],
-      "duration_ms": 224353,
-      "name": "Vine Hasta Marte",
-      "url": "https://open.spotify.com/track/2QESbnic0tiuE32iosLu6s"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "Cuadros",
         "url": "https://open.spotify.com/album/4Zpj0ZC8asCsFfaHBa1yxK"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 203625,
       "name": "Takotsubo",
       "url": "https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
+        "name": "Vine Hasta Marte",
+        "url": "https://open.spotify.com/album/7KMhR1LUULSVFR4SRFkKMg"
+      },
+      "artists": [
+        {
+          "name": "Cohetes",
+          "url": "https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ"
+        }
+      ],
+      "duration_ms": 224353,
+      "name": "Vine Hasta Marte",
+      "url": "https://open.spotify.com/track/2QESbnic0tiuE32iosLu6s"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -839,18 +839,18 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "The English Riviera",
-        "url": "https://open.spotify.com/album/5yJS8oNKYDsDAy06z4QCIi"
+        "name": "Chapstick",
+        "url": "https://open.spotify.com/album/4AspTebwxBeNJHCWzBWrC9"
       },
       "artists": [
         {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
         }
       ],
-      "duration_ms": 277653,
-      "name": "The Look",
-      "url": "https://open.spotify.com/track/27GHlIbddzX5qDalREVoDR"
+      "duration_ms": 193299,
+      "name": "Chapstick",
+      "url": "https://open.spotify.com/track/2c0NslS6dfGp1LT1iXbqyS"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -871,18 +871,18 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Chapstick",
-        "url": "https://open.spotify.com/album/4AspTebwxBeNJHCWzBWrC9"
+        "name": "The English Riviera",
+        "url": "https://open.spotify.com/album/5yJS8oNKYDsDAy06z4QCIi"
       },
       "artists": [
         {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
         }
       ],
-      "duration_ms": 193299,
-      "name": "Chapstick",
-      "url": "https://open.spotify.com/track/2c0NslS6dfGp1LT1iXbqyS"
+      "duration_ms": 277653,
+      "name": "The Look",
+      "url": "https://open.spotify.com/track/27GHlIbddzX5qDalREVoDR"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
+        "name": "Mira Lo Que Me Hiciste Hacer",
+        "url": "https://open.spotify.com/album/2qrp8qjS2WuKEoj6a9AiXe"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 228543,
+      "name": "Su\u00e9ltame, Bogot\u00e1",
+      "url": "https://open.spotify.com/track/5J9ToBuIm9IqXea1zdwLgm"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
         "name": "Catching Eyes",
         "url": "https://open.spotify.com/album/23e5nDOtNtNou7pfR431YI"
       },
@@ -951,26 +967,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Digging Deeper",
-        "url": "https://open.spotify.com/album/0bZtJTjE90SXIW0PIChpnl"
-      },
-      "artists": [
-        {
-          "name": "Alison Goldfrapp",
-          "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
-        },
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        }
-      ],
-      "duration_ms": 197853,
-      "name": "Digging Deeper",
-      "url": "https://open.spotify.com/track/7iKNMytdMotGpqTxyRL4qA"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "Nunca Nunca",
         "url": "https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6"
       },
@@ -991,18 +987,22 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Mira Lo Que Me Hiciste Hacer",
-        "url": "https://open.spotify.com/album/2qrp8qjS2WuKEoj6a9AiXe"
+        "name": "Digging Deeper",
+        "url": "https://open.spotify.com/album/0bZtJTjE90SXIW0PIChpnl"
       },
       "artists": [
         {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+          "name": "Alison Goldfrapp",
+          "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
+        },
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
         }
       ],
-      "duration_ms": 228543,
-      "name": "Su\u00e9ltame, Bogot\u00e1",
-      "url": "https://open.spotify.com/track/5J9ToBuIm9IqXea1zdwLgm"
+      "duration_ms": 197853,
+      "name": "Digging Deeper",
+      "url": "https://open.spotify.com/track/7iKNMytdMotGpqTxyRL4qA"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/5fKWSlweaDx1wZwTE00bit"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 220726,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/3OG1FcdabAqljk4irWH3Uu"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/0u6nwjlCOZyfeCYuA6BjwA"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 202320,
       "name": "Heavy (feat. Your Smith)",
       "url": "https://open.spotify.com/track/05nKsnLJGrsDwQIXAExTQt"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/5fKWSlweaDx1wZwTE00bit"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 220726,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/3OG1FcdabAqljk4irWH3Uu"
     },
     {
       "added_at": "2024-06-28 21:13:36",

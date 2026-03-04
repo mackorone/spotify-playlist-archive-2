@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 271,
+  "num_followers": 273,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIN+t2LYA887CFQdRWCCMPgoovI4Xc",
+  "snapshot_id": "AAAIOy+RbrMTO+PpFD+sHd16ASTYzVbX",
   "tracks": [
     {
       "added_at": "2026-02-24 08:34:44",
@@ -33567,6 +33567,82 @@
       "duration_ms": 214437,
       "name": "Echo Of You",
       "url": "https://open.spotify.com/track/5cWmg3WlMZeTQbHhGuKm21"
+    },
+    {
+      "added_at": "2026-03-03 11:04:56",
+      "album": {
+        "name": "Album 1",
+        "url": "https://open.spotify.com/album/1kdFVBOKq0QRMN0nITjkfO"
+      },
+      "artists": [
+        {
+          "name": "Focuscircle",
+          "url": "https://open.spotify.com/artist/3JzDncfAa9i8YByecJ771U"
+        }
+      ],
+      "duration_ms": 70510,
+      "name": "Tranquil Garden",
+      "url": "https://open.spotify.com/track/0KgCKStZnG7CzJebU58X4p"
+    },
+    {
+      "added_at": "2026-03-03 15:29:52",
+      "album": {
+        "name": "My Soul",
+        "url": "https://open.spotify.com/album/2QpG4iF6jTCTPbFFDTJCcl"
+      },
+      "artists": [
+        {
+          "name": "Teezee",
+          "url": "https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D"
+        }
+      ],
+      "duration_ms": 135635,
+      "name": "My Soul",
+      "url": "https://open.spotify.com/track/4uCyYwu4f7iFlEqAgCeNce"
+    },
+    {
+      "added_at": "2026-03-03 22:56:45",
+      "album": {
+        "name": "ART of WAVES",
+        "url": "https://open.spotify.com/album/2gMOtsag4f3smuL3wb5NJ3"
+      },
+      "artists": [
+        {
+          "name": "TED",
+          "url": "https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T"
+        },
+        {
+          "name": "Yohanan",
+          "url": "https://open.spotify.com/artist/2eOOYgcPCi9T0lseYWXddj"
+        }
+      ],
+      "duration_ms": 222676,
+      "name": "Art of Waves",
+      "url": "https://open.spotify.com/track/1K6jYliyZPelIN3VMFeADT"
+    },
+    {
+      "added_at": "2026-03-03 22:57:05",
+      "album": {
+        "name": "Collecting Memories",
+        "url": "https://open.spotify.com/album/6lotPV2jvHGnU0ioo3efhU"
+      },
+      "artists": [
+        {
+          "name": "TED",
+          "url": "https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T"
+        },
+        {
+          "name": "Yohanan",
+          "url": "https://open.spotify.com/artist/2eOOYgcPCi9T0lseYWXddj"
+        },
+        {
+          "name": "Natasha Cleophas",
+          "url": "https://open.spotify.com/artist/00nfdeOv0SOQu5itQbz3ic"
+        }
+      ],
+      "duration_ms": 190212,
+      "name": "Collecting Memories",
+      "url": "https://open.spotify.com/track/3nPD47QNIbjfezj5uqvinO"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

@@ -4,7 +4,7 @@
 
 > love is in the air...breathe in
 
-933 songs - 1 day 21 hr 4 min
+934 songs - 1 day 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,7 +298,7 @@
 | [Fini](https://open.spotify.com/track/750xvuULIPZ4U5vk251SvI) | [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Fini](https://open.spotify.com/album/4kEVAL6PC7RAZZRkyr1z0L) | 1:52 | 2025-06-27 | 2025-08-15 |
 | [Finish Me](https://open.spotify.com/track/3BDcZ3uPxpKYEJCfItLV2h) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5), [Ransom Beatz](https://open.spotify.com/artist/6fzdE3sz7e6kFOwOywdmiy), [Big Tobz](https://open.spotify.com/artist/5mJzAPLj72Ifm4MdYS08uK) | [Finish Me](https://open.spotify.com/album/3sVIR1mKqq5oSE8UKwFvES) | 2:11 | 2024-11-29 | 2025-09-26 |
 | [Fire Baby](https://open.spotify.com/track/382Lr6Gtryesu05Kt0t6eZ) | [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk), [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN), [Bosco Soundtrack](https://open.spotify.com/artist/4vkkMvu0BYvfIsioM7U7w6) | [Fire Baby](https://open.spotify.com/album/1Ix6IXNroBbRT7HHlMlvRf) | 2:56 | 2024-09-13 | 2024-09-20 |
-| [First Sight](https://open.spotify.com/track/02DkSzg2JUcKiWllkiZKlO) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [First Sight](https://open.spotify.com/album/3xOkRgxPDogV62jurUx4Vg) | 3:06 | 2025-05-23 |  |
+| [First Sight](https://open.spotify.com/track/02DkSzg2JUcKiWllkiZKlO) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [First Sight](https://open.spotify.com/album/3xOkRgxPDogV62jurUx4Vg) | 3:06 | 2025-05-23 | 2026-03-04 |
 | [FLAMES](https://open.spotify.com/track/6T3Y4utPEBs35xiG3e7Ebp) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [MY DIARY \- EP](https://open.spotify.com/album/2AtDDefSJveMubpGuqch1r) | 2:50 | 2022-07-21 | 2022-09-09 |
 | [Folake](https://open.spotify.com/track/5FCS33n2pWeNBFjQpwKaiH) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Folake](https://open.spotify.com/album/1zXxlkgp0TkifABiPujJ1i) | 2:48 | 2023-01-27 | 2024-02-09 |
 | [Folasade](https://open.spotify.com/track/4vSmuYwg5da3fheZ9HcNi5) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Folasade](https://open.spotify.com/album/1M6bYAJ0BlpTvH9GpJBvPN) | 2:48 | 2025-06-13 | 2025-08-23 |
@@ -449,6 +449,7 @@
 | [KOKO](https://open.spotify.com/track/3ZwcOu974vlPmNQkDUNwMO) | [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C) | [KOKO](https://open.spotify.com/album/3NHLco72CZlcLjhteobxzr) | 2:57 | 2024-07-12 | 2024-08-26 |
 | [KOLO \(feat\. Oxlade\)](https://open.spotify.com/track/1UM3RVanAaakxcx9GkfNTL) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KOLO \(feat\. Oxlade\)](https://open.spotify.com/album/4SGcHxa7P2vKHNknKXYRXu) | 2:48 | 2022-02-11 | 2023-02-24 |
 | [Koma](https://open.spotify.com/track/05QBSYagui3cfuxySqprhx) | [Pawzz](https://open.spotify.com/artist/0SvA7XnKtaEkfIn7CVjTMU) | [Koma](https://open.spotify.com/album/5f4J2kU6M8Dax39aE7wNeo) | 2:31 | 2023-01-13 | 2023-01-28 |
+| [Kontrollah](https://open.spotify.com/track/23CKcQHyGq8UR44R6XXuEE) | [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs) | [Kontrollah](https://open.spotify.com/album/1OjyeaV3NEYPdU34VGEBVl) | 2:35 | 2026-02-27 |  |
 | [Kristy](https://open.spotify.com/track/6GWqhQrOMHdyHxwSNdctaf) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Kristy](https://open.spotify.com/album/4b0c1lr72jmvi93sJFKYq1) | 4:20 | 2023-07-28 | 2023-10-30 |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-06-16 | 2023-02-24 |
 | [Kulu Kulu](https://open.spotify.com/track/10ZTG3QRqvcyJErfk2xKgQ) | [Phaemous](https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ) | [Kulu Kulu](https://open.spotify.com/album/6xrhiS6htmyeWa1lLNrESH) | 2:55 | 2025-02-14 | 2025-02-22 |

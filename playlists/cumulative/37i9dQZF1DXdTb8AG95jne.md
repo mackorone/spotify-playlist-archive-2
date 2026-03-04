@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 공원 \(gongwon\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 박찬영\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,264 songs - 3 day 4 hr 30 min
+1,266 songs - 3 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -766,7 +766,9 @@
 | [Not to fade](https://open.spotify.com/track/6mTTquypTU75v59JzzLF7N) | [CHOSNG](https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W) | [A Place of Use](https://open.spotify.com/album/22c6Z507yCVXzH44KRva3E) | 4:14 | 2026-02-02 |  |
 | [Numb face](https://open.spotify.com/track/7HIM3fpXtx7edtpcdP1IZK) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Numb face](https://open.spotify.com/album/05vJSkIdQPRkCO6C1fbXsq) | 2:36 | 2025-03-14 | 2025-04-11 |
 | [O\`Chunnki](https://open.spotify.com/track/4zvIT9fIJxLXZc5RDMuYZR) | [Mono\. J](https://open.spotify.com/artist/2sCSfdtkRpjNWt2O2GabKA) | [Ready For Run](https://open.spotify.com/album/62te8mLl9wITyzuyOAalut) | 3:55 | 2022-03-31 | 2022-04-09 |
+| [Oasis](https://open.spotify.com/track/0bxtHyBu4hJMk2irUkQFpQ) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [Oasis](https://open.spotify.com/album/6PklPzH8lEZIRvRsP8xg3H) | 4:47 | 2026-03-03 |  |
 | [October](https://open.spotify.com/track/2sA8WPQSXlYWujfojCgtWV) | [CHANMIN](https://open.spotify.com/artist/1O1BXOtl5jWeZJIkSwNMBi) | [October](https://open.spotify.com/album/6tb3F5jPWvBPjjRMBbdyjW) | 3:54 | 2024-11-06 | 2024-12-20 |
+| [Oh my darling, you](https://open.spotify.com/track/1bnxyxbTnr8B88Nto0jf34) | [Park Chan Young](https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9) | [Moments That Stayed](https://open.spotify.com/album/2AUS9zCDCkYdlHvHV94AVa) | 3:38 | 2026-03-03 |  |
 | [Oh! Summer night, Romantic Melodies](https://open.spotify.com/track/6MikG6rbwaFoUfoLaNo4uE) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Buscar Buscar](https://open.spotify.com/album/6p6LR7wxGB3Nsy2Bd0zAoe) | 2:35 | 2025-07-21 | 2025-07-23 |
 | [Ok to cry 모두 울어도 되는 날](https://open.spotify.com/track/1HtXCINU55a9Hh19jX7QC3) | [Joa Band](https://open.spotify.com/artist/3rCJ0bFbcUt9f9CuWhm6hp) | [Ok to cry 모두 울어도 되는 날](https://open.spotify.com/album/6Y5X82rboaUN4RBvCg8IBz) | 4:04 | 2022-03-31 | 2022-04-04 |
 | [Okinawa](https://open.spotify.com/track/08Fo1zAY2piVFOD2Lv3n3z) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Okinawa](https://open.spotify.com/album/0vPsSVKMo07UijGL755gqL) | 5:48 | 2025-04-11 | 2025-08-05 |
@@ -1018,7 +1020,7 @@
 | [Surface](https://open.spotify.com/track/36ZlbORJkCV4wcC36IS6Zy) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Animation](https://open.spotify.com/album/678QsdsjapDnh9N9iCeFyp) | 3:46 | 2022-03-31 | 2022-04-07 |
 | [SURFER](https://open.spotify.com/track/394SLvh7rICTQKep7FnH5d) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [SURFER](https://open.spotify.com/album/1Vc4GVDQojuTTOXwoxu4T5) | 2:52 | 2021-12-21 | 2022-05-16 |
 | [Swan](https://open.spotify.com/track/6G0Kl2Fi4DalbsfbzuzMcD) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd), [I love you Orchestra Swing Style](https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls) | [Swan](https://open.spotify.com/album/0piGRjplHKONEbDxiHtdH2) | 3:27 | 2021-12-12 | 2022-07-29 |
-| [sway](https://open.spotify.com/track/78KWPtzyxqY36h1Z4OcgbJ) | [Tokai](https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT) | [shining.](https://open.spotify.com/album/7alBVFv3w8aOaSJYLIw8nD) | 3:11 | 2026-01-26 |  |
+| [sway](https://open.spotify.com/track/78KWPtzyxqY36h1Z4OcgbJ) | [Tokai](https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT) | [shining.](https://open.spotify.com/album/7alBVFv3w8aOaSJYLIw8nD) | 3:11 | 2026-01-26 | 2026-03-04 |
 | [Swim \- Virus Edit](https://open.spotify.com/track/5A2p3ewIaFMGpJN3P3L2hl) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Virus Mix](https://open.spotify.com/album/3eSzJfr41r54E9HS3AJXAV) | 3:27 | 2022-03-31 | 2022-04-20 |
 | [Swim In The Ocean](https://open.spotify.com/track/0UKegdEEbAmNYw1NMIGlwi) | [라라 Lara](https://open.spotify.com/artist/1FKYTUBCKMWh2JDdYdWObW) | [Swim In The Ocean](https://open.spotify.com/album/6XA4hSAXBT13DKgBowNZ26) | 4:01 | 2022-02-10 | 2022-04-05 |
 | [SWIMMING](https://open.spotify.com/track/5kBbwUU7azLeOlZl4pEsZG) | [HYEEUN](https://open.spotify.com/artist/1w2W3b2Z93RMJlygXigbNL) | [SWIMMING](https://open.spotify.com/album/4GcS4r0YR5LAuUoD5NMOTu) | 3:05 | 2021-12-21 | 2022-04-16 |
@@ -1186,7 +1188,7 @@
 | [Winter Coming Home](https://open.spotify.com/track/2Tzec1QsW7c9FWw45LyM7l) | [ARO](https://open.spotify.com/artist/6ECu2vO8wvgX5pDjYqHEuC) | [Winter Coming Home](https://open.spotify.com/album/5GV6WrN078ktnoVkouZzXs) | 3:27 | 2025-11-19 | 2026-01-20 |
 | [Winter 눈](https://open.spotify.com/track/2E69ooAhWV1QIZ86MMLk85) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Nonadaptation 비적응](https://open.spotify.com/album/0LnLkLjqu2sk3i0He64odF) | 3:52 | 2021-12-12 | 2022-07-28 |
 | [Winter 눈](https://open.spotify.com/track/4YVA21Db1AbASkjpXRhykz) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Nonadaptation 비적응](https://open.spotify.com/album/2mZUejhzFxhZu2Zd5XV3kX) | 3:52 | 2022-07-27 | 2024-04-19 |
-| [Winter.](https://open.spotify.com/track/1ZSuJ6n7KsDIKl1fVjPx1Z) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [Winter.](https://open.spotify.com/album/3dAh6O4ou9xBlv1WlKz64p) | 3:26 | 2026-01-30 |  |
+| [Winter.](https://open.spotify.com/track/1ZSuJ6n7KsDIKl1fVjPx1Z) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [Winter.](https://open.spotify.com/album/3dAh6O4ou9xBlv1WlKz64p) | 3:26 | 2026-01-30 | 2026-03-04 |
 | [Wish \- Live](https://open.spotify.com/track/1rQobZf16Gfs5GDSJlGC1L) | [Gogohawk](https://open.spotify.com/artist/4TDsoTsndKAIJR7yCX78tl) | [LISTEN & DISCOVER Gogohawk LIVE](https://open.spotify.com/album/0qJJsKweZoQ5XvlJhAqkbz) | 6:21 | 2025-08-07 | 2025-08-27 |
 | [Wisue 햇빛처럼 빼어난](https://open.spotify.com/track/5RvuwSjuIkAiqviPuGWWgE) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [Cobalt Blue](https://open.spotify.com/album/6LYD23SLNIifGJ08R6KdO0) | 3:37 | 2021-12-21 | 2022-04-19 |
 | [With You](https://open.spotify.com/track/0YhuPLchEMFhIf6W3k0QdR) | [add9](https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp) | [With You](https://open.spotify.com/album/1DT0IXcV3E12LYsRU7eVW0) | 3:17 | 2025-07-31 | 2025-08-22 |

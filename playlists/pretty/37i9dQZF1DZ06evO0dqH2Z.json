@@ -1,12 +1,12 @@
 {
   "description": "This is Tigers Jaw. The essential tracks, all in one playlist.",
-  "num_followers": 4556,
+  "num_followers": 4558,
   "original_name": "This Is Tigers Jaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaOBgAAAAABUk/S/UyeP4TSM3PRQdxo+",
+  "snapshot_id": "aaTTAAAAAACZdyz/E8oKIcvfeENe5y1h",
   "tracks": [
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 195320,
-      "name": "Slow Come On",
-      "url": "https://open.spotify.com/track/7dnlCMw9Nzgc5OW0WabYv2"
+      "duration_ms": 161386,
+      "name": "Distress Signal",
+      "url": "https://open.spotify.com/track/0WNkiBlZdhn6JXzyCki4gO"
     },
     {
       "added_at": null,
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 161386,
-      "name": "Distress Signal",
-      "url": "https://open.spotify.com/track/0WNkiBlZdhn6JXzyCki4gO"
+      "duration_ms": 195320,
+      "name": "Slow Come On",
+      "url": "https://open.spotify.com/track/7dnlCMw9Nzgc5OW0WabYv2"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Two Worlds",
-        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 100613,
-      "name": "Let Go/Trashed Floors",
-      "url": "https://open.spotify.com/track/64C4L1qeYTwt1POgAVb7xC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fake Death",
         "url": "https://open.spotify.com/album/5l0wHhmCKy7E2IMwOsbtsF"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 128520,
       "name": "Fake Death",
       "url": "https://open.spotify.com/track/55OAsuWSj4o87WbNJZOSSX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Two Worlds",
+        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 100613,
+      "name": "Let Go/Trashed Floors",
+      "url": "https://open.spotify.com/track/64C4L1qeYTwt1POgAVb7xC"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Clothes",
-        "url": "https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 191890,
-      "name": "Old Clothes",
-      "url": "https://open.spotify.com/track/5wVQyKqsPKDswDJH4QSJfE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Belongs To The Dead",
         "url": "https://open.spotify.com/album/2YGAcsQ6kEMiT3mpnjiPJr"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 180070,
       "name": "Danielson",
       "url": "https://open.spotify.com/track/1Bpq1VpKteNzOLkqz9BHDK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Clothes",
+        "url": "https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 191890,
+      "name": "Old Clothes",
+      "url": "https://open.spotify.com/track/5wVQyKqsPKDswDJH4QSJfE"
     },
     {
       "added_at": null,

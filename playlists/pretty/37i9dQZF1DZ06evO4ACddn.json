@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaOBgAAAAADBhdblv8rYT1RahnH2YXFZ",
+  "snapshot_id": "aaTTAAAAAACSZVt2UAGy4XQ2Nje+Irx8",
   "tracks": [
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 206605,
-      "name": "Long Way",
-      "url": "https://open.spotify.com/track/4qFSC85UlpHsaSQhfyoMGS"
+      "duration_ms": 226339,
+      "name": "In The Well",
+      "url": "https://open.spotify.com/track/2hTev3gNF2oVhtB2MRFQX9"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamond Days EP",
-        "url": "https://open.spotify.com/album/3YrL32bzITJ2R6LWqSFcjs"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 218533,
-      "name": "Two Heads",
-      "url": "https://open.spotify.com/track/2d3QPzIxf4TRyoXrsujY8S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Comfortably Numb",
         "url": "https://open.spotify.com/album/446Mbnz7IvnGi90uZdc5de"
       },
@@ -443,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Diamond Days EP",
+        "url": "https://open.spotify.com/album/3YrL32bzITJ2R6LWqSFcjs"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 218533,
+      "name": "Two Heads",
+      "url": "https://open.spotify.com/track/2d3QPzIxf4TRyoXrsujY8S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What We Do To Feel",
         "url": "https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2"
       },
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 226339,
-      "name": "In The Well",
-      "url": "https://open.spotify.com/track/2hTev3gNF2oVhtB2MRFQX9"
+      "duration_ms": 206605,
+      "name": "Long Way",
+      "url": "https://open.spotify.com/track/4qFSC85UlpHsaSQhfyoMGS"
     },
     {
       "added_at": null,

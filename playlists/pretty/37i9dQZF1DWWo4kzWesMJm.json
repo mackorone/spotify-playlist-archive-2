@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 180590,
+  "num_followers": 180616,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2025-12-29 16:15:31",
       "album": {
-        "name": "Le chanteur (Remastered)",
-        "url": "https://open.spotify.com/album/6iD2al84zRCSAx7RhShrDI"
-      },
-      "artists": [
-        {
-          "name": "Daniel Balavoine",
-          "url": "https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7"
-        }
-      ],
-      "duration_ms": 234112,
-      "name": "Le chanteur",
-      "url": "https://open.spotify.com/track/0VKxd6VnCZMv5uQCdC7qXf"
-    },
-    {
-      "added_at": "2025-12-29 16:15:31",
-      "album": {
         "name": "Mon paradis",
         "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 209000,
       "name": "Belle demoiselle",
       "url": "https://open.spotify.com/track/4prNHQCgqVpmGJRulNK4zg"
+    },
+    {
+      "added_at": "2025-12-29 16:15:31",
+      "album": {
+        "name": "Le chanteur (Remastered)",
+        "url": "https://open.spotify.com/album/6iD2al84zRCSAx7RhShrDI"
+      },
+      "artists": [
+        {
+          "name": "Daniel Balavoine",
+          "url": "https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7"
+        }
+      ],
+      "duration_ms": 234112,
+      "name": "Le chanteur",
+      "url": "https://open.spotify.com/track/0VKxd6VnCZMv5uQCdC7qXf"
     },
     {
       "added_at": "2025-12-29 16:15:31",
@@ -499,6 +499,22 @@
     {
       "added_at": "2025-12-29 16:15:31",
       "album": {
+        "name": "La loi du papillon",
+        "url": "https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3"
+      },
+      "artists": [
+        {
+          "name": "Nuit Incolore",
+          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "D\u00e9pass\u00e9",
+      "url": "https://open.spotify.com/track/3kkLa7nOjDH3bYTAt54oYh"
+    },
+    {
+      "added_at": "2025-12-29 16:15:31",
+      "album": {
         "name": "Best of Bandolero (Le meilleur des ann\u00e9es 80)",
         "url": "https://open.spotify.com/album/0B2tZmiPYlz9Jc1jbupQOX"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 236840,
       "name": "D\u00e9jeuner en paix",
       "url": "https://open.spotify.com/track/6DFzpa0eHyEkvQ2oeewmA2"
-    },
-    {
-      "added_at": "2025-12-29 16:15:31",
-      "album": {
-        "name": "La loi du papillon",
-        "url": "https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3"
-      },
-      "artists": [
-        {
-          "name": "Nuit Incolore",
-          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "D\u00e9pass\u00e9",
-      "url": "https://open.spotify.com/track/3kkLa7nOjDH3bYTAt54oYh"
     },
     {
       "added_at": "2025-12-29 16:15:31",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-12-29 16:15:31",
       "album": {
-        "name": "Un autre monde (Remastered)",
-        "url": "https://open.spotify.com/album/0guFdTn3J3NhrS0TYYOUX2"
-      },
-      "artists": [
-        {
-          "name": "Daniel Balavoine",
-          "url": "https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7"
-        }
-      ],
-      "duration_ms": 313480,
-      "name": "Je ne suis pas un h\u00e9ros",
-      "url": "https://open.spotify.com/track/3bHwuIcUkM1mc7c1u7vgbQ"
-    },
-    {
-      "added_at": "2025-12-29 16:15:31",
-      "album": {
         "name": "Cach\u00e9 derri\u00e8re",
         "url": "https://open.spotify.com/album/6Q4Tu5UQrWPQzaxyyoT1Ia"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 215160,
       "name": "Le pouvoir des fleurs",
       "url": "https://open.spotify.com/track/4msnxiNpg9Mvm6f0NMYFKx"
+    },
+    {
+      "added_at": "2025-12-29 16:15:31",
+      "album": {
+        "name": "Un autre monde (Remastered)",
+        "url": "https://open.spotify.com/album/0guFdTn3J3NhrS0TYYOUX2"
+      },
+      "artists": [
+        {
+          "name": "Daniel Balavoine",
+          "url": "https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7"
+        }
+      ],
+      "duration_ms": 313480,
+      "name": "Je ne suis pas un h\u00e9ros",
+      "url": "https://open.spotify.com/track/3bHwuIcUkM1mc7c1u7vgbQ"
     },
     {
       "added_at": "2025-12-29 16:15:31",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-12-29 16:15:31",
       "album": {
-        "name": "Sur La Route De Memphis",
-        "url": "https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ"
-      },
-      "artists": [
-        {
-          "name": "Eddy Mitchell",
-          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
-        }
-      ],
-      "duration_ms": 173933,
-      "name": "Sur la route de Memphis",
-      "url": "https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK"
-    },
-    {
-      "added_at": "2025-12-29 16:15:31",
-      "album": {
         "name": "Repenti",
         "url": "https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 215813,
       "name": "Les voisines",
       "url": "https://open.spotify.com/track/3moelwvWkm8rliDyjywgA1"
+    },
+    {
+      "added_at": "2025-12-29 16:15:31",
+      "album": {
+        "name": "Sur La Route De Memphis",
+        "url": "https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ"
+      },
+      "artists": [
+        {
+          "name": "Eddy Mitchell",
+          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
+        }
+      ],
+      "duration_ms": 173933,
+      "name": "Sur la route de Memphis",
+      "url": "https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK"
     },
     {
       "added_at": "2025-12-29 16:15:31",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-12-29 16:15:31",
       "album": {
-        "name": "Ginger",
-        "url": "https://open.spotify.com/album/7vgcS252HYgC1kVxRJqUTp"
-      },
-      "artists": [
-        {
-          "name": "Ga\u00ebtan Roussel",
-          "url": "https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf"
-        }
-      ],
-      "duration_ms": 188173,
-      "name": "Dis-moi encore que tu m'aimes",
-      "url": "https://open.spotify.com/track/7vyAq4J0ca56TYWQMN727O"
-    },
-    {
-      "added_at": "2025-12-29 16:15:31",
-      "album": {
         "name": "Week End \u00c0 Rome",
         "url": "https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 254453,
       "name": "Week-end \u00e0 Rome",
       "url": "https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5"
+    },
+    {
+      "added_at": "2025-12-29 16:15:31",
+      "album": {
+        "name": "Ginger",
+        "url": "https://open.spotify.com/album/7vgcS252HYgC1kVxRJqUTp"
+      },
+      "artists": [
+        {
+          "name": "Ga\u00ebtan Roussel",
+          "url": "https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf"
+        }
+      ],
+      "duration_ms": 188173,
+      "name": "Dis-moi encore que tu m'aimes",
+      "url": "https://open.spotify.com/track/7vyAq4J0ca56TYWQMN727O"
     },
     {
       "added_at": "2025-12-29 16:15:31",

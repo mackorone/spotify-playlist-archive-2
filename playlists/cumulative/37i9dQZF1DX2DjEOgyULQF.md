@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-342 songs - 16 hr 17 min
+344 songs - 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Ebb](https://open.spotify.com/track/6DzXikYMPvw1T9rqasupiQ) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Ebb](https://open.spotify.com/album/3gwbC6C3G15nY0ktcx09fL) | 2:16 | 2024-12-04 |  |
 | [Echo Branches](https://open.spotify.com/track/4NaokS7WwvNDq1tIozGscA) | [Astral Voyager](https://open.spotify.com/artist/6Bj7oeWzckGjkZdSwfKJHa) | [Echo Branches](https://open.spotify.com/album/5uE7OpuM8N1oo5IllhELGe) | 2:25 | 2026-01-08 |  |
 | [Echoes Of Dawn](https://open.spotify.com/track/1z47P8YHFuKiylq7Fur1kY) | [Naturalists](https://open.spotify.com/artist/1sp0zRK6eY8NaAYAjBJoAf) | [Echoes of Dawn](https://open.spotify.com/album/6B3pHA7fAP2LPKIo4K05Oi) | 3:02 | 2025-05-28 | 2025-06-05 |
+| [Echomare](https://open.spotify.com/track/02v3iqE7seorNepl7UJUsg) | [Watersoothes](https://open.spotify.com/artist/7uPByPwENUy0Xn3TKBZBHG) | [Echomare](https://open.spotify.com/album/2xVyPsqh8kZEag8fvC7Imu) | 2:17 | 2026-02-23 |  |
 | [Eden](https://open.spotify.com/track/0UMFi650xZxD3qj0OxsXKd) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Eden](https://open.spotify.com/album/4MQ8zwffRyWpFLh2fZBV9q) | 2:40 | 2025-05-28 |  |
 | [Elsewhere](https://open.spotify.com/track/5cnTweMt0wMIwQ1QrrMn3n) | [Tomorrow and Now](https://open.spotify.com/artist/482UOUYdqsKTTUmnENSKJQ) | [Elsewhere](https://open.spotify.com/album/731Aao1LRdcSKTKI6y65jb) | 3:06 | 2024-10-01 |  |
 | [Emberly Path](https://open.spotify.com/track/6LQiwabLqjy1jEJEACKcyj) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Emberly Path](https://open.spotify.com/album/2E7vitCgw71paDzGHMukLQ) | 2:59 | 2023-04-28 | 2025-05-22 |
@@ -122,7 +123,7 @@
 | [Forest Lake](https://open.spotify.com/track/5ohf0BGMaCW8SszLDPJL0j) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Forest Lake](https://open.spotify.com/album/6hiog6wDIUkTTFGo6rbe9p) | 3:49 | 2023-04-28 | 2025-05-22 |
 | [Forest Meditation](https://open.spotify.com/track/7rbdKNARg0eWP3H1bvkZbi) | [Naturalists](https://open.spotify.com/artist/1sp0zRK6eY8NaAYAjBJoAf) | [Forest Meditation](https://open.spotify.com/album/3xkbtsbWXCVPsuJCORRtTO) | 2:34 | 2023-04-28 | 2024-10-02 |
 | [Forest Of The Mind](https://open.spotify.com/track/36o3ElEod9MG2laE3avJnu) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Forest Of The Mind](https://open.spotify.com/album/0jBlrZ2KNQ4MwJvEw46Tqy) | 3:54 | 2024-12-04 |  |
-| [Forest Walk](https://open.spotify.com/track/2u31nOfjr1R9mu7ZewBWQp) | [Warm Decay](https://open.spotify.com/artist/7hJU4gu9Gp482Lm4PcX1lh) | [Forest Walk](https://open.spotify.com/album/5pvKhCFze4euwB2aj1bVSY) | 2:43 | 2024-06-03 |  |
+| [Forest Walk](https://open.spotify.com/track/2u31nOfjr1R9mu7ZewBWQp) | [Warm Decay](https://open.spotify.com/artist/7hJU4gu9Gp482Lm4PcX1lh) | [Forest Walk](https://open.spotify.com/album/5pvKhCFze4euwB2aj1bVSY) | 2:43 | 2024-06-03 | 2026-03-04 |
 | [forever flowing](https://open.spotify.com/track/1n83iEx1Fhs17fWvemGbRM) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [forever flowing](https://open.spotify.com/album/2P96ZahTetQZnut15W0vpE) | 2:34 | 2025-10-24 | 2026-02-22 |
 | [Forever Still](https://open.spotify.com/track/1uUMHYJpNiev5x1vZPdXsc) | [Zen Om](https://open.spotify.com/artist/1rM7kgU05ig5vYpYTpSPZs), [Unreaa](https://open.spotify.com/artist/7em5iXXJfAo6rJKTpqKrQu) | [Forever Still](https://open.spotify.com/album/3M7iDJTVb6CDB0c65rzVzD) | 1:42 | 2023-05-05 | 2023-07-29 |
 | [Fortune Teller](https://open.spotify.com/track/2jf6qaFGfXR2avaQ2QkmEf) | [Garden of Lotus](https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs) | [The whim of fate](https://open.spotify.com/album/7kQKxaXSaBjKr2lBFgJrru) | 3:11 | 2023-04-28 | 2024-11-04 |
@@ -139,7 +140,7 @@
 | [Gloom](https://open.spotify.com/track/0KfCNOZ5t6pld3BPrsclKW) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Gloom](https://open.spotify.com/album/2oW7DPtkYty3pzxB5UsB3u) | 2:50 | 2024-12-12 |  |
 | [Golden Hour](https://open.spotify.com/track/5uOL8rOH6IS4L0NFbwpKei) | [Sheila Dawn](https://open.spotify.com/artist/5XSMONg34qtPY5qFntQfag) | [Golden Hour](https://open.spotify.com/album/6SHkCrdO9en2tc0QDex3pB) | 3:33 | 2025-12-17 |  |
 | [Golden Meadow](https://open.spotify.com/track/2RnLkBVNSErnfTgnRtT7lJ) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Golden Meadow](https://open.spotify.com/album/7csw7q2jmFiLOJdEpHQgyw) | 2:40 | 2023-04-28 |  |
-| [Grandiosa](https://open.spotify.com/track/6ondOZjfiq0FiGari0uFuv) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Grandiosa](https://open.spotify.com/album/3M3SKrrQ0T2VfVLCWF36Rv) | 2:18 | 2025-10-02 |  |
+| [Grandiosa](https://open.spotify.com/track/6ondOZjfiq0FiGari0uFuv) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Grandiosa](https://open.spotify.com/album/3M3SKrrQ0T2VfVLCWF36Rv) | 2:18 | 2025-10-02 | 2026-03-04 |
 | [Greenwood](https://open.spotify.com/track/6SoXx6sA7BKjprwVHKfIzY) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Greenwood](https://open.spotify.com/album/4of8zBFKxdP02r7ZG6tiYW) | 2:44 | 2026-02-23 |  |
 | [Grounded](https://open.spotify.com/track/4OLwU8YwGCYUAureSrInHQ) | [Zilon Tay](https://open.spotify.com/artist/5MXcNvb6HXa2KgYvCqRbuU) | [Grounded](https://open.spotify.com/album/73OcD8zbuUAOvWShwFij1r) | 2:43 | 2023-09-08 |  |
 | [Grow, My Dear](https://open.spotify.com/track/5CRZJDlRrjmWXVmnhFHcQY) | [Felix Dekker](https://open.spotify.com/artist/0mUCh5H0yIr67MM7lPq3kL) | [Grow, My Dear](https://open.spotify.com/album/60IN9Im3JUIoN2YGAnMhvs) | 2:57 | 2025-03-19 |  |
@@ -344,6 +345,7 @@
 | [Wisdom \- Gentle Forest](https://open.spotify.com/track/45hvuICHf2TG5iS3IQCh2S) | [Moments of Meaning](https://open.spotify.com/artist/10zMkTihC3EXDt7oSyNmHO) | [Wisdom \(Gentle Version\)](https://open.spotify.com/album/0wYUrVr3zzXemT1xeZyAMJ) | 2:26 | 2023-04-28 | 2024-04-02 |
 | [Wisdom \- Gentle Ocean](https://open.spotify.com/track/5bhXeDbBHVK7Wof82isDD7) | [Moments of Meaning](https://open.spotify.com/artist/10zMkTihC3EXDt7oSyNmHO) | [Wisdom \(Gentle Version\)](https://open.spotify.com/album/0wYUrVr3zzXemT1xeZyAMJ) | 2:28 | 2023-04-28 | 2024-06-04 |
 | [Woodland](https://open.spotify.com/track/7MG0wElZyCdYZg4qpBmcYS) | [Cénter](https://open.spotify.com/artist/2pY8g248PiBjPTclQxaL0S) | [Woodland](https://open.spotify.com/album/6zDCP4I0ZFQCKBLcoQLSkW) | 2:52 | 2025-04-11 |  |
+| [Woodland Creek](https://open.spotify.com/track/2xGjWc6rUPJ98lDPxpMwX8) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Woodland Creek](https://open.spotify.com/album/7eVM2Kzi4LjJMfP1JLYKbe) | 2:39 | 2026-02-23 |  |
 | [Yantra 432hz](https://open.spotify.com/track/2PCp2VuoWNGTGZiY6oVEU3) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Yantra](https://open.spotify.com/album/77LGZALRDaNE9AzVNrEKRH) | 4:08 | 2023-04-28 | 2023-08-19 |
 | [Yoga Nidra](https://open.spotify.com/track/0srGfXXqmeISaT3uSoaoXM) | [Garden of Lotus](https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs) | [Yoga Nidra](https://open.spotify.com/album/5EazHq0TDPzE5zqFuW8QwJ) | 2:34 | 2023-04-28 | 2024-08-24 |
 | [Zen](https://open.spotify.com/track/25ONrgiTUfc6MaFNf7qxvm) | [Unreaa](https://open.spotify.com/artist/7em5iXXJfAo6rJKTpqKrQu), [和平](https://open.spotify.com/artist/3Bh9GDCbRLLBINIsgX0kxm) | [Zen](https://open.spotify.com/album/0eurRPjqSOprxhJpk5lPLQ) | 1:23 | 2023-04-28 | 2023-07-29 |

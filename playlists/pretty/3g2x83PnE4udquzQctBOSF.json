@@ -1,13 +1,49 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2698,
+  "num_followers": 2695,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARei75p0vPrrXHh4Y7LFynlJoE3/AV",
+  "snapshot_id": "AAARfOVRuvApdBT0L4cODEKcRYGzbWAn",
   "tracks": [
+    {
+      "added_at": "2026-03-03 18:50:48",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/1L0lgzWz7pvDjPwYovZ1RM"
+      },
+      "artists": [
+        {
+          "name": "Lucio Momo",
+          "url": "https://open.spotify.com/artist/38gaYwGmxGHKk52MVhWMqb"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "duration_ms": 322560,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/1CYsrtqOAPIS8lmfkWa6z9"
+    },
+    {
+      "added_at": "2026-03-03 13:50:23",
+      "album": {
+        "name": "Rollin'",
+        "url": "https://open.spotify.com/album/5ndJHv9ftMEAmHdvFhEBcI"
+      },
+      "artists": [
+        {
+          "name": "Nota Baxua",
+          "url": "https://open.spotify.com/artist/1cFRemxURzd9fohFUoUgAT"
+        }
+      ],
+      "duration_ms": 315000,
+      "name": "Rollin'",
+      "url": "https://open.spotify.com/track/2Rnr6ztcJt9vrJMkqZ7eVb"
+    },
     {
       "added_at": "2026-03-02 20:25:13",
       "album": {

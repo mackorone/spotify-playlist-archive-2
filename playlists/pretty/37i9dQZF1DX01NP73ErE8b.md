@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani che abbiamo on repeat  🔁  Ditonellapiaga in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 636,375 likes - 72 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 636,395 likes - 72 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,24 +21,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 11 | [Anche a vent’anni si muore](https://open.spotify.com/track/59Awynpg4oFhSwb5F8lQQ1) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Anche a vent’anni si muore](https://open.spotify.com/album/5ia2NfmJrcmFBZcX5GVloM) | 3:40 |
 | 12 | [Poesie Clandestine](https://open.spotify.com/track/730yruXTNk2KvXdbCNzXpR) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf), [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Poesie Clandestine](https://open.spotify.com/album/1MMVWEgrIylF7v0er9IjWm) | 3:03 |
 | 13 | [Questa domenica](https://open.spotify.com/track/1OzmC9yrffo4samDgOzg27) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Questa domenica](https://open.spotify.com/album/2MAslE3CpEJAIvLG8EW1Gh) | 3:36 |
-| 14 | [QUI CON ME](https://open.spotify.com/track/6zngwmDraHGVczoCzj7rHb) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi) | [QUI CON ME](https://open.spotify.com/album/4Uj5BnPpLHuF7VOaN71fr5) | 3:16 |
+| 14 | [Mattone](https://open.spotify.com/track/5kAqhOUfi3ku5jZREYRFti) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [Tana](https://open.spotify.com/album/1mfvkuYG4BB9qeJpbaWNOh) | 3:22 |
 | 15 | [ACQUARIO](https://open.spotify.com/track/0P0GZSQTYSdCPzQar8Rbqf) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [ACQUARIO](https://open.spotify.com/album/4Kb07sqP1OQ9xkfazOi7C3) | 3:13 |
 | 16 | [Esibizionista](https://open.spotify.com/track/16mdISuTFms1vnxc8gXyQu) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [MA IO SONO FUOCO](https://open.spotify.com/album/5whsiw7yvWXul5t8sWYYLQ) | 3:27 |
 | 17 | [ITALIA STARTER PACK](https://open.spotify.com/track/4ZAjcfbt84O79SGc0jWqu7) | [J\-AX](https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5) | [ITALIA STARTER PACK](https://open.spotify.com/album/4M05X6484OBedfXnueiugs) | 2:50 |
 | 18 | [I romantici](https://open.spotify.com/track/3X6VETSe1orqobaME0KTzQ) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [I romantici](https://open.spotify.com/album/6QXhh6j3OifW2hTvVWXbVW) | 3:59 |
 | 19 | [CANZONE D'AMORE](https://open.spotify.com/track/4oAmcoWAsnEKF47gYNryAc) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 3:00 |
 | 20 | [Magica Favola](https://open.spotify.com/track/2DO1VNiVcIVKJVd2PhKCsW) | [Arisa](https://open.spotify.com/artist/25x6MD0spNNS7z93Sat30K) | [Magica Favola](https://open.spotify.com/album/0tAKsFiIg565Fx8B8xWGgd) | 3:30 |
-| 21 | [URAGANI](https://open.spotify.com/track/2v0nUjtFhY0VujLTEgGSBm) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [URAGANI](https://open.spotify.com/album/2fPVbFkyMsLMfLjodpZ1yC) | 2:49 |
-| 22 | [Resta Con Me](https://open.spotify.com/track/1GjQApTKIADKfSoZm8bHRK) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Resta Con Me](https://open.spotify.com/album/4mCgQu8BIqXpiil8pw5KDj) | 3:10 |
-| 23 | [Labirinto](https://open.spotify.com/track/11C1h0tuCW9qRa1QGPV9Vj) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Labirinto](https://open.spotify.com/album/0vrr3P8BXPhM3eXtsBptuq) | 3:47 |
-| 24 | [Nessuno qui é chi dovrebbe essere](https://open.spotify.com/track/3U4UsEENKPvawZnV4mjcWW) | [WAX](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [Nessuno qui é chi dovrebbe essere](https://open.spotify.com/album/54u4GvYfCExZ0EqYomX8i3) | 2:40 |
-| 25 | [Amaro](https://open.spotify.com/track/15ZWSMDQMfBKVn4zurLX7k) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/79HurwZ9TQ8y5jrWlUDrIE) | 3:33 |
-| 26 | [le cose che non sai di me](https://open.spotify.com/track/2XVaLBILDwmtR876otQkpg) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [le cose che non sai di me](https://open.spotify.com/album/60St94B0YIRu0Ja3xxwe2k) | 3:24 |
-| 27 | [Tutto Tranne Questo](https://open.spotify.com/track/6xFT1P0mwVvtQ0jnwAtsTN) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Antologia Della Vita e Della Morte](https://open.spotify.com/album/7uHhBNrQ4PR4121dBMddIm) | 2:42 |
-| 28 | [Prima o poi](https://open.spotify.com/track/4j88Y86NDJvbioBEZTxQeO) | [Michele Bravi](https://open.spotify.com/artist/1CF7hrTuWgErEa6HBFJ8d3) | [Prima o poi](https://open.spotify.com/album/4Fb9DNUREs5AuHdozPCGYH) | 3:08 |
-| 29 | [animali notturni](https://open.spotify.com/track/2qkSLhQ0w3R02XzC5zwkr7) | [Malika Ayane](https://open.spotify.com/artist/5jcswtptZttxBwWKXbR5k5) | [animali notturni](https://open.spotify.com/album/3R7kykqgx5rGBRxzUzfbrb) | 2:58 |
-| 30 | [Dai che fai](https://open.spotify.com/track/21KdF0KGmSXmDBcif3XZd4) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Mediterraneo](https://open.spotify.com/album/5xiuwFxGpemqPBxzJQ6AYd) | 3:20 |
-| 31 | [Mattone](https://open.spotify.com/track/5kAqhOUfi3ku5jZREYRFti) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [Tana](https://open.spotify.com/album/1mfvkuYG4BB9qeJpbaWNOh) | 3:22 |
+| 21 | [QUI CON ME](https://open.spotify.com/track/6zngwmDraHGVczoCzj7rHb) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi) | [QUI CON ME](https://open.spotify.com/album/4Uj5BnPpLHuF7VOaN71fr5) | 3:16 |
+| 22 | [URAGANI](https://open.spotify.com/track/2v0nUjtFhY0VujLTEgGSBm) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [URAGANI](https://open.spotify.com/album/2fPVbFkyMsLMfLjodpZ1yC) | 2:49 |
+| 23 | [Resta Con Me](https://open.spotify.com/track/1GjQApTKIADKfSoZm8bHRK) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Resta Con Me](https://open.spotify.com/album/4mCgQu8BIqXpiil8pw5KDj) | 3:10 |
+| 24 | [Labirinto](https://open.spotify.com/track/11C1h0tuCW9qRa1QGPV9Vj) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Labirinto](https://open.spotify.com/album/0vrr3P8BXPhM3eXtsBptuq) | 3:47 |
+| 25 | [Nessuno qui é chi dovrebbe essere](https://open.spotify.com/track/3U4UsEENKPvawZnV4mjcWW) | [WAX](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [Nessuno qui é chi dovrebbe essere](https://open.spotify.com/album/54u4GvYfCExZ0EqYomX8i3) | 2:40 |
+| 26 | [Amaro](https://open.spotify.com/track/15ZWSMDQMfBKVn4zurLX7k) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/79HurwZ9TQ8y5jrWlUDrIE) | 3:33 |
+| 27 | [le cose che non sai di me](https://open.spotify.com/track/2XVaLBILDwmtR876otQkpg) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [le cose che non sai di me](https://open.spotify.com/album/60St94B0YIRu0Ja3xxwe2k) | 3:24 |
+| 28 | [Tutto Tranne Questo](https://open.spotify.com/track/6xFT1P0mwVvtQ0jnwAtsTN) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Antologia Della Vita e Della Morte](https://open.spotify.com/album/7uHhBNrQ4PR4121dBMddIm) | 2:42 |
+| 29 | [Prima o poi](https://open.spotify.com/track/4j88Y86NDJvbioBEZTxQeO) | [Michele Bravi](https://open.spotify.com/artist/1CF7hrTuWgErEa6HBFJ8d3) | [Prima o poi](https://open.spotify.com/album/4Fb9DNUREs5AuHdozPCGYH) | 3:08 |
+| 30 | [animali notturni](https://open.spotify.com/track/2qkSLhQ0w3R02XzC5zwkr7) | [Malika Ayane](https://open.spotify.com/artist/5jcswtptZttxBwWKXbR5k5) | [animali notturni](https://open.spotify.com/album/3R7kykqgx5rGBRxzUzfbrb) | 2:58 |
+| 31 | [Dai che fai](https://open.spotify.com/track/21KdF0KGmSXmDBcif3XZd4) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Mediterraneo](https://open.spotify.com/album/5xiuwFxGpemqPBxzJQ6AYd) | 3:20 |
 | 32 | [Laguna](https://open.spotify.com/track/0L7oxMR89ji7A6htHnPR8L) | [Nicolò Filippucci](https://open.spotify.com/artist/5v11UeQ72AbrburRA8fkMi) | [Laguna](https://open.spotify.com/album/5W4eH1naXtnfhw3f93qB2V) | 3:08 |
 | 33 | [BERLINO](https://open.spotify.com/track/3l109GEhkVYrTvDoKuNGlu) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [PER SOLDI E PER AMORE](https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y) | 2:55 |
 | 34 | [uomo che cade](https://open.spotify.com/track/3vwObRd71oUa145riRt42O) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [uomo che cade](https://open.spotify.com/album/5sy7D2BvqumKXW4WalI8xj) | 3:37 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 71 | [METROPOLI SOLITUDINE](https://open.spotify.com/track/3JwOXrqx4weUHMVRMH1zFJ) | [Joseph](https://open.spotify.com/artist/55XdeSzaUSVeSfsnRCQrnR) | [METROPOLI SOLITUDINE](https://open.spotify.com/album/0ox3bk9CIxTCzcZjX5nleK) | 3:08 |
 | 72 | [ti prego non piangere](https://open.spotify.com/track/02Gl9tZhIu0BguKv3GTYgB) | [Federica Carta](https://open.spotify.com/artist/0vQk2DnpCtSLT8QeMbCE6L), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [ti prego non piangere](https://open.spotify.com/album/4hUpEROffCaxLIy3C201Pw) | 3:19 |
 
-Snapshot ID: `AAAAAPSQDWKwkstBDHBn3t/kapx02rWS`
+Snapshot ID: `AAAAALvqxpY5qm5NiMYKYIKI8dwneLIJ`

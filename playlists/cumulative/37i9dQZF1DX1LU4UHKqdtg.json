@@ -5187,6 +5187,24 @@
     },
     {
       "album": {
+        "name": "CODE",
+        "url": "https://open.spotify.com/album/6ppaIu8fzPJZZjdLPKKSTt"
+      },
+      "artists": [
+        {
+          "name": "EVERGLOW",
+          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "CODE",
+      "url": "https://open.spotify.com/track/00bnKgDRZxvwpnWDJg7Por"
+    },
+    {
+      "album": {
         "name": "COLD",
         "url": "https://open.spotify.com/album/3JhRvbmQou8CE41LLj6mTm"
       },
@@ -7890,6 +7908,28 @@
       "duration_ms": 178453,
       "name": "ELEVEN -Japanese version-",
       "url": "https://open.spotify.com/track/0KQvYf5R5HlASf0yyGnPKS"
+    },
+    {
+      "album": {
+        "name": "EMOTIONS",
+        "url": "https://open.spotify.com/album/3qNHVdG5XAa63qdiLm6LzR"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        },
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "EMOTIONS",
+      "url": "https://open.spotify.com/track/5xG8q1HN3zJFVml6lttUbK"
     },
     {
       "album": {
@@ -24814,7 +24854,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 178000,
       "name": "Sunkiss",
       "url": "https://open.spotify.com/track/7J7Esd4rp4SxZuqZxkfQsY"

@@ -1,6 +1,6 @@
 {
   "description": "\u5bd2\u3044\u51ac\u306f\u5fc3\u3092\u6696\u3081\u308b\u30cf\u30fc\u30c8\u30d5\u30eb\u306a\u697d\u66f2\u3092\u304a\u4f9b\u306b\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002",
-  "num_followers": 27568,
+  "num_followers": 27566,
   "original_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -301,20 +301,20 @@
       "url": "https://open.spotify.com/track/4NnxwvoD3dboEG0MdYBEbB"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
+      "added_at": "2025-10-23 13:55:51",
       "album": {
-        "name": "HOME",
-        "url": "https://open.spotify.com/album/2Y2mJbrCdXDdJC8eBlqvdV"
+        "name": "First Message",
+        "url": "https://open.spotify.com/album/4kKWJldQVEEeXIBIStjReI"
       },
       "artists": [
         {
-          "name": "Masayoshi Yamazaki",
-          "url": "https://open.spotify.com/artist/6gvedX0HcRQYMD5IhY8KKt"
+          "name": "ayaka",
+          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
         }
       ],
-      "duration_ms": 330200,
-      "name": "One more time, One more chance",
-      "url": "https://open.spotify.com/track/5YRDGgdOshUPA17m7yzY7p"
+      "duration_ms": 279013,
+      "name": "\u4e09\u65e5\u6708",
+      "url": "https://open.spotify.com/track/5SDVaYU4nfaIV0rNSlWSCa"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -333,20 +333,20 @@
       "url": "https://open.spotify.com/track/3l7GLaE6NRaPJHMcy4rYRD"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
+      "added_at": "2025-10-24 07:45:46",
       "album": {
-        "name": "First Message",
-        "url": "https://open.spotify.com/album/4kKWJldQVEEeXIBIStjReI"
+        "name": "HOME",
+        "url": "https://open.spotify.com/album/2Y2mJbrCdXDdJC8eBlqvdV"
       },
       "artists": [
         {
-          "name": "ayaka",
-          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
+          "name": "Masayoshi Yamazaki",
+          "url": "https://open.spotify.com/artist/6gvedX0HcRQYMD5IhY8KKt"
         }
       ],
-      "duration_ms": 279013,
-      "name": "\u4e09\u65e5\u6708",
-      "url": "https://open.spotify.com/track/5SDVaYU4nfaIV0rNSlWSCa"
+      "duration_ms": 330200,
+      "name": "One more time, One more chance",
+      "url": "https://open.spotify.com/track/5YRDGgdOshUPA17m7yzY7p"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -557,6 +557,22 @@
       "url": "https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1"
     },
     {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "\u604b\u306b\u304a\u3061\u305f\u3089",
+        "url": "https://open.spotify.com/album/2STaKfaWGXhw3Y9Om6HWGn"
+      },
+      "artists": [
+        {
+          "name": "Crystal Kay",
+          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
+        }
+      ],
+      "duration_ms": 269426,
+      "name": "\u604b\u306b\u304a\u3061\u305f\u3089",
+      "url": "https://open.spotify.com/track/4wOgBRh7btZbfiERDDYweM"
+    },
+    {
       "added_at": "2025-03-11 22:40:18",
       "album": {
         "name": "NO SIDE",
@@ -575,22 +591,6 @@
     {
       "added_at": "2025-10-24 07:45:46",
       "album": {
-        "name": "\u604b\u306b\u304a\u3061\u305f\u3089",
-        "url": "https://open.spotify.com/album/2STaKfaWGXhw3Y9Om6HWGn"
-      },
-      "artists": [
-        {
-          "name": "Crystal Kay",
-          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
-        }
-      ],
-      "duration_ms": 269426,
-      "name": "\u604b\u306b\u304a\u3061\u305f\u3089",
-      "url": "https://open.spotify.com/track/4wOgBRh7btZbfiERDDYweM"
-    },
-    {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
         "name": "\u541b\u304c\u597d\u304d",
         "url": "https://open.spotify.com/album/1DgqBQ9YmNFp0SCkvhE7jp"
       },
@@ -603,6 +603,26 @@
       "duration_ms": 272533,
       "name": "\u541b\u304c\u597d\u304d",
       "url": "https://open.spotify.com/track/3eXHuJ6JHV7OKnyDyxeQ1F"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "I'm Blessed",
+        "url": "https://open.spotify.com/album/5EWpB07ahlO57i3zRRaIsK"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "I'm Blessed",
+      "url": "https://open.spotify.com/track/0U8JJXyvA1ufQd1CJLTl1E"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -635,26 +655,6 @@
       "duration_ms": 259903,
       "name": "bestie",
       "url": "https://open.spotify.com/track/3LlShzvjsM4nem8uADXWvn"
-    },
-    {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "I'm Blessed",
-        "url": "https://open.spotify.com/album/5EWpB07ahlO57i3zRRaIsK"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        },
-        {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "I'm Blessed",
-      "url": "https://open.spotify.com/track/0U8JJXyvA1ufQd1CJLTl1E"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -865,22 +865,6 @@
       "url": "https://open.spotify.com/track/7sLxvJ2Lj4Kf2K6Wa7OEk1"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "Expressions",
-        "url": "https://open.spotify.com/album/5mWaVGsfJhuHPOharCmGjU"
-      },
-      "artists": [
-        {
-          "name": "Mariya Takeuchi",
-          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
-        }
-      ],
-      "duration_ms": 277426,
-      "name": "\u3059\u3066\u304d\u306a\u30db\u30ea\u30c7\u30a4",
-      "url": "https://open.spotify.com/track/42KsMmJ8sbWrfy6WMNWySo"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "\u3072\u3068\u3064\u306b\u306a\u308b\u3068\u304d",
@@ -899,6 +883,22 @@
       "duration_ms": 299666,
       "name": "\u3086\u308c\u308b",
       "url": "https://open.spotify.com/track/5KqIUmgtUmFGlylW0cRiwc"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "Expressions",
+        "url": "https://open.spotify.com/album/5mWaVGsfJhuHPOharCmGjU"
+      },
+      "artists": [
+        {
+          "name": "Mariya Takeuchi",
+          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
+        }
+      ],
+      "duration_ms": 277426,
+      "name": "\u3059\u3066\u304d\u306a\u30db\u30ea\u30c7\u30a4",
+      "url": "https://open.spotify.com/track/42KsMmJ8sbWrfy6WMNWySo"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1089,22 +1089,6 @@
       "url": "https://open.spotify.com/track/0SI0Te2JQTMe05NEmNbje6"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "SNOW SOUND / \u4eca\u307e\u3067\u541b\u304c\u6ce3\u3044\u305f\u5206\u53d6\u308a\u623b\u305d\u3046",
-        "url": "https://open.spotify.com/album/4JnLPlsSyrE4pD9TV6WLTj"
-      },
-      "artists": [
-        {
-          "name": "[Alexandros]",
-          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "SNOW SOUND",
-      "url": "https://open.spotify.com/track/2S9viKFIDpk0NcbpO2OOVM"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "\u3072\u3068\u3064\u306b\u306a\u308b\u3068\u304d",
@@ -1119,6 +1103,22 @@
       "duration_ms": 337306,
       "name": "\u3044\u3044\u6642\u9593",
       "url": "https://open.spotify.com/track/3lqUSr3F8gmD7ruydRlky4"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "SNOW SOUND / \u4eca\u307e\u3067\u541b\u304c\u6ce3\u3044\u305f\u5206\u53d6\u308a\u623b\u305d\u3046",
+        "url": "https://open.spotify.com/album/4JnLPlsSyrE4pD9TV6WLTj"
+      },
+      "artists": [
+        {
+          "name": "[Alexandros]",
+          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "SNOW SOUND",
+      "url": "https://open.spotify.com/track/2S9viKFIDpk0NcbpO2OOVM"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1217,22 +1217,6 @@
       "url": "https://open.spotify.com/track/33JtUjUhbfJlBbdCXH6v5I"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "my insecurities, not yours",
-        "url": "https://open.spotify.com/album/4iDSytMqQQIkjP0WfweVbZ"
-      },
-      "artists": [
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        }
-      ],
-      "duration_ms": 207445,
-      "name": "she likes spring, I prefer winter",
-      "url": "https://open.spotify.com/track/6bM1QYzUKzZpQyAa7uO5kr"
-    },
-    {
       "added_at": "2025-12-24 00:34:11",
       "album": {
         "name": "\u6c34\u4e2d\u306e\u30e1\u30c8\u30ed",
@@ -1249,24 +1233,20 @@
       "url": "https://open.spotify.com/track/2rPZULJJqeYbJAwO7PyVcX"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
+      "added_at": "2025-10-24 07:45:46",
       "album": {
-        "name": "NIGHT DANCER (Yaffle Holiday Remix - Spotify Singles)",
-        "url": "https://open.spotify.com/album/6F1AsAlWiVu24npdbNVbnt"
+        "name": "my insecurities, not yours",
+        "url": "https://open.spotify.com/album/4iDSytMqQQIkjP0WfweVbZ"
       },
       "artists": [
         {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        },
-        {
-          "name": "Yaffle",
-          "url": "https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV"
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
         }
       ],
-      "duration_ms": 231638,
-      "name": "NIGHT DANCER - Yaffle Holiday Remix - Spotify Singles",
-      "url": "https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms"
+      "duration_ms": 207445,
+      "name": "she likes spring, I prefer winter",
+      "url": "https://open.spotify.com/track/6bM1QYzUKzZpQyAa7uO5kr"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1291,6 +1271,26 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
+        "name": "NIGHT DANCER (Yaffle Holiday Remix - Spotify Singles)",
+        "url": "https://open.spotify.com/album/6F1AsAlWiVu24npdbNVbnt"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        },
+        {
+          "name": "Yaffle",
+          "url": "https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV"
+        }
+      ],
+      "duration_ms": 231638,
+      "name": "NIGHT DANCER - Yaffle Holiday Remix - Spotify Singles",
+      "url": "https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
         "name": "\u6cab\u96ea",
         "url": "https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q"
       },
@@ -1305,20 +1305,20 @@
       "url": "https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
+      "added_at": "2025-10-24 07:45:46",
       "album": {
-        "name": "The History of Shogo Hamada\u201cSince 1975\u201d",
-        "url": "https://open.spotify.com/album/2m7ovaZtuf7WumcBTwtsTq"
+        "name": "Junior Sweet",
+        "url": "https://open.spotify.com/album/6mOQ8WkcSPoIk8w3zA6ZuG"
       },
       "artists": [
         {
-          "name": "Shogo Hamada",
-          "url": "https://open.spotify.com/artist/46Y4IAsvxi9vMQjqL2wdfy"
+          "name": "Chara",
+          "url": "https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp"
         }
       ],
-      "duration_ms": 311946,
-      "name": "\u60b2\u3057\u307f\u306f\u96ea\u306e\u3088\u3046\u306b (single / 1992)",
-      "url": "https://open.spotify.com/track/10HHmKRsZmQLXQ3kiAEef1"
+      "duration_ms": 232760,
+      "name": "\u30df\u30eb\u30af",
+      "url": "https://open.spotify.com/track/3tFY3KX0w4DwynMKepKkUU"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-10-24 07:45:46",
       "album": {
-        "name": "Junior Sweet",
-        "url": "https://open.spotify.com/album/6mOQ8WkcSPoIk8w3zA6ZuG"
-      },
-      "artists": [
-        {
-          "name": "Chara",
-          "url": "https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp"
-        }
-      ],
-      "duration_ms": 232760,
-      "name": "\u30df\u30eb\u30af",
-      "url": "https://open.spotify.com/track/3tFY3KX0w4DwynMKepKkUU"
-    },
-    {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
         "name": "OH MY LITTLE GIRL",
         "url": "https://open.spotify.com/album/7LEcypSjlXxIQnSSjeIiLj"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 276333,
       "name": "OH MY LITTLE GIRL",
       "url": "https://open.spotify.com/track/7gRwEA36B5Oq7oUlCcWLKb"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "The History of Shogo Hamada\u201cSince 1975\u201d",
+        "url": "https://open.spotify.com/album/2m7ovaZtuf7WumcBTwtsTq"
+      },
+      "artists": [
+        {
+          "name": "Shogo Hamada",
+          "url": "https://open.spotify.com/artist/46Y4IAsvxi9vMQjqL2wdfy"
+        }
+      ],
+      "duration_ms": 311946,
+      "name": "\u60b2\u3057\u307f\u306f\u96ea\u306e\u3088\u3046\u306b (single / 1992)",
+      "url": "https://open.spotify.com/track/10HHmKRsZmQLXQ3kiAEef1"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-12-16 15:00:32",
       "album": {
-        "name": "Winterboy",
-        "url": "https://open.spotify.com/album/0JtDeyFmNGaAk2eTYj49bA"
-      },
-      "artists": [
-        {
-          "name": "the shes gone",
-          "url": "https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7"
-        }
-      ],
-      "duration_ms": 274733,
-      "name": "Winterboy",
-      "url": "https://open.spotify.com/track/6em5Z6ju1rH6A4FCpcGt5z"
-    },
-    {
-      "added_at": "2025-12-16 15:00:32",
-      "album": {
         "name": "\u84bc\u304d\u6625",
         "url": "https://open.spotify.com/album/372dnGN7uf0xXWQkHOWI6C"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 240197,
       "name": "\u84bc\u304d\u6625",
       "url": "https://open.spotify.com/track/2e9fua8pHpkK6Wso8Cq97c"
+    },
+    {
+      "added_at": "2025-12-16 15:00:32",
+      "album": {
+        "name": "Winterboy",
+        "url": "https://open.spotify.com/album/0JtDeyFmNGaAk2eTYj49bA"
+      },
+      "artists": [
+        {
+          "name": "the shes gone",
+          "url": "https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7"
+        }
+      ],
+      "duration_ms": 274733,
+      "name": "Winterboy",
+      "url": "https://open.spotify.com/track/6em5Z6ju1rH6A4FCpcGt5z"
     },
     {
       "added_at": "2025-12-11 02:28:39",
@@ -1529,22 +1529,6 @@
       "url": "https://open.spotify.com/track/05mB4qDx7CR2c88s0YsNs5"
     },
     {
-      "added_at": "2025-12-11 02:28:39",
-      "album": {
-        "name": "Unmelting Snow",
-        "url": "https://open.spotify.com/album/1MfUL7JBk8NCMGQmuR4GWW"
-      },
-      "artists": [
-        {
-          "name": "Girls2",
-          "url": "https://open.spotify.com/artist/7vilEuvwalwkL7OxM9UuHR"
-        }
-      ],
-      "duration_ms": 208600,
-      "name": "Unmelting Snow",
-      "url": "https://open.spotify.com/track/6TgWVZWAjihesMAPcIwFnY"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "Ken Hirai 10th Anniversary Complete Single Collection '95-'05 \u6b4c\u30d0\u30ab",
@@ -1559,6 +1543,22 @@
       "duration_ms": 339773,
       "name": "even if",
       "url": "https://open.spotify.com/track/6rKel5kmQN62IKewLUPBze"
+    },
+    {
+      "added_at": "2025-12-11 02:28:39",
+      "album": {
+        "name": "Unmelting Snow",
+        "url": "https://open.spotify.com/album/1MfUL7JBk8NCMGQmuR4GWW"
+      },
+      "artists": [
+        {
+          "name": "Girls2",
+          "url": "https://open.spotify.com/artist/7vilEuvwalwkL7OxM9UuHR"
+        }
+      ],
+      "duration_ms": 208600,
+      "name": "Unmelting Snow",
+      "url": "https://open.spotify.com/track/6TgWVZWAjihesMAPcIwFnY"
     },
     {
       "added_at": "2025-10-23 13:55:51",

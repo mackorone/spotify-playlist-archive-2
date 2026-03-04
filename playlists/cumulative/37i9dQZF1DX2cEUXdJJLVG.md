@@ -4,7 +4,7 @@
 
 > Hand\-picked grooves.
 
-464 songs - 1 day 3 hr 39 min
+465 songs - 1 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Holy Sun](https://open.spotify.com/track/2prsNcywu7raXhGJ8KkwKp) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA) | [Holy Sun](https://open.spotify.com/album/3TcPxmWiTbjDWutVvkW2TO) | 4:23 | 2023-03-07 | 2023-10-05 |
 | [Holy Sun](https://open.spotify.com/track/6z6J6megE8QfT0awXOUecW) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA) | [Holy Sun](https://open.spotify.com/album/53e49wNoxOAej3tYm8RCnM) | 4:23 | 2022-09-09 | 2023-03-09 |
 | [honest](https://open.spotify.com/track/1g8U8GIX2S3g3M8H2MtSpO) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [SINTHA](https://open.spotify.com/album/5nnsr7zbNqhtBUXl0vlQUU) | 3:53 | 2022-09-09 | 2024-04-11 |
+| [hope u don't mind](https://open.spotify.com/track/1XS1nLEdIUvgO2BpzN90DL) | [Billy Davis](https://open.spotify.com/artist/1faxe25Wp3Nk43xVVxsdSB), [Dann Dib](https://open.spotify.com/artist/7zKpsWi7nGfM6AREKbpMoj), [Tim Fontaine](https://open.spotify.com/artist/3WuiQYm4EDRcrQtJFEuHyJ) | [hope u don't mind](https://open.spotify.com/album/5lPdqO6eqNTTCSmHFMhXUk) | 3:06 | 2026-03-03 |  |
 | [Hotel Sorriso](https://open.spotify.com/track/0KPKmqfDgwEB0pDZhromoe) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [Hotel Sorriso](https://open.spotify.com/album/1aQbmcO1iAebhWTPuWh3fj) | 4:33 | 2022-09-09 | 2022-10-15 |
 | [How Dare You](https://open.spotify.com/track/1Pe0OdQh4BNCrO3LLfRERx) | [Michael Minelli](https://open.spotify.com/artist/0E1dRyvTHusqYjhbTm2skL), [Oswin Benjamin](https://open.spotify.com/artist/31pIxyVveAaYS1O5K2lNEF) | [How Dare You](https://open.spotify.com/album/2mSX1XzNTijOu8oYk1f4Kf) | 3:22 | 2024-01-18 | 2024-05-10 |
 | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Erik Bandt](https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9) | 3:16 | 2024-04-18 | 2026-01-23 |
@@ -236,7 +237,7 @@
 | [Love In HiFi](https://open.spotify.com/track/6tjBKiKSaY9UfuDsrZeC99) | [KDRC](https://open.spotify.com/artist/7znZBeCEOB0GsbZzA0oPTR), [Leonard Luka](https://open.spotify.com/artist/3SKNnTmxj8h3CqGcaTYlew) | [Love In HiFi](https://open.spotify.com/album/3kARVuGckQBp1norYyrlvi) | 3:01 | 2025-01-16 |  |
 | [Love is Alive \- Original](https://open.spotify.com/track/1OO9x0076IBk1IA52lYLaR) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717), [Steve Biko.K](https://open.spotify.com/artist/0Riq2hYv6r7QUpawOjFUTx), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA), [Daniël von Piekartz](https://open.spotify.com/artist/73LS331VMYvV2eoS3EFeAn) | [Love Is Alive \(Original\)](https://open.spotify.com/album/5jHvcU6ffhv4Fuu4MuWjUh) | 5:31 | 2023-12-11 | 2025-08-15 |
 | [Love Like This Before \- Spotify Studio Oyster Recording](https://open.spotify.com/track/2VoGLmJuYzBbAje7HrNSi6) | [Lil Halima](https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr), [NAHOM](https://open.spotify.com/artist/1gsryyNLnqqOLl8MRe4eog) | [Love Like This Before \- Spotify Studio Oyster Recording](https://open.spotify.com/album/18kvCLlsFrla2rDjzhpuEH) | 2:57 | 2022-09-09 | 2023-07-08 |
-| [Love Seeking](https://open.spotify.com/track/0tsy6nz8kxejwfHa2MIj42) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Love Seeking](https://open.spotify.com/album/2lZmsUQotWHBObYJywxXXF) | 3:46 | 2024-06-20 |  |
+| [Love Seeking](https://open.spotify.com/track/0tsy6nz8kxejwfHa2MIj42) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Love Seeking](https://open.spotify.com/album/2lZmsUQotWHBObYJywxXXF) | 3:46 | 2024-06-20 | 2026-03-04 |
 | [Lover/Friend](https://open.spotify.com/track/0A3MUy6ifDxog1zfy4m7de) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/251UuJohZb0avSzcIYDvkD) | 3:32 | 2024-04-18 | 2025-05-30 |
 | [Lover/Friend](https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX) | 3:32 | 2023-11-30 | 2024-04-19 |
 | [Lover/Friend](https://open.spotify.com/track/3u18lRpQFZYALlVjn0fL1y) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/0NvlaQeUqClEL7vMdYyUO7) | 4:19 | 2024-05-24 | 2026-01-23 |

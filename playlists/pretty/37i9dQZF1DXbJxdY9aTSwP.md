@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJxdY9aTSwP.md) - [plain](/playlists/plain/37i9dQZF1DXbJxdY9aTSwP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbJxdY9aTSwP)
 
-### [Trailblazers \(2\)](https://open.spotify.com/playlist/37i9dQZF1DXbJxdY9aTSwP)
+### [Trailblazers](https://open.spotify.com/playlist/37i9dQZF1DXbJxdY9aTSwP)
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 29 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 36 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

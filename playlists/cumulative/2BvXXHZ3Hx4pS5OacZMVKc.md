@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-437 songs - 22 hr 32 min
+438 songs - 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [CONNECTION](https://open.spotify.com/track/2VyXOUGlZwEcfAHozs0xfr) | [Rxm リム](https://open.spotify.com/artist/6xQr9sbtrCuoW4qJoATNLB) | [CONNECTION](https://open.spotify.com/album/2xfoZq6jYPWnejcKBtodH6) | 1:48 | 2023-08-10 |  |
 | [Crash](https://open.spotify.com/track/2LSbYkErNTGB5JX0FOdbsu) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Crash](https://open.spotify.com/album/7ohKZgBr10faQ2y7B1tKbs) | 3:25 | 2024-08-06 |  |
 | [Curse](https://open.spotify.com/track/2y2vXCLSpVGhXU501Nw8Ll) | [Strybo](https://open.spotify.com/artist/3IrKXf6yLQUpniQZM100Eg) | [Curse](https://open.spotify.com/album/548qfP8YqJRprr3kiDxuFx) | 1:30 | 2022-11-22 |  |
+| [Damaged](https://open.spotify.com/track/7uQ10UJqGiy2cTF8EbRhBn) | [Kronus](https://open.spotify.com/artist/6e9dyfp9Y8eiosc52OlwWj) | [Damaged](https://open.spotify.com/album/4Vefk566eZiUWTERSuQIfe) | 3:06 | 2026-03-03 |  |
 | [DANGEROUS](https://open.spotify.com/track/2WUua0PT86pEpMwo4ePH92) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [DANGEROUS](https://open.spotify.com/album/3dwNpIaKdJM1MFmvCWKcjs) | 2:45 | 2023-08-10 |  |
 | [Dangerous](https://open.spotify.com/track/2ek0oPdjselpQnDaEOje10) | [VOLT VISION](https://open.spotify.com/artist/0D1RIHFWh132dnfTGIHF6K), [Beneath My Shade](https://open.spotify.com/artist/7aADBYuRxT4V57iwqzUiPP) | [Dangerous](https://open.spotify.com/album/66DVpNiLrwNe5nLHGlHan0) | 2:01 | 2023-08-10 |  |
 | [DANÇA DO VERÃO](https://open.spotify.com/track/0AnK3aYDf1XOC48Pgzdc9G) | [NXGHT!](https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL), [SH3RWIN](https://open.spotify.com/artist/1XagsDM1XXaJuWCvikh4JY), [Scythermane](https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX) | [DANÇA DO VERÃO](https://open.spotify.com/album/2BhXlEQosOGwfyRVVWVYpD) | 1:13 | 2025-03-27 |  |

@@ -1723,6 +1723,28 @@
     },
     {
       "album": {
+        "name": "Rai Rai Raa Raa (From \"Peddi\") [TELUGU]",
+        "url": "https://open.spotify.com/album/0ySPxQtfOMhSEqpGiiFSKi"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Anantha Sreeram",
+          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266032,
+      "name": "Rai Rai Raa Raa (From \"Peddi\") [TELUGU]",
+      "url": "https://open.spotify.com/track/29HAoc3GDDbb7mW9isgs9K"
+    },
+    {
+      "album": {
         "name": "Raja Garu Bayatakosthe - Raja Vikramarka",
         "url": "https://open.spotify.com/album/3EJu3OsXaJFj10L3KHcJPS"
       },
@@ -1738,7 +1760,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 242678,
       "name": "Raja Garu Bayatakosthe",
       "url": "https://open.spotify.com/track/4e5R4RjV1CB7405MzFd0sx"

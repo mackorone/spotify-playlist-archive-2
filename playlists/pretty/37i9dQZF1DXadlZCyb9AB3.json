@@ -1,6 +1,6 @@
 {
   "description": "Defining songs of the riot grrrl era and the artists keeping its spirit alive\n",
-  "num_followers": 208469,
+  "num_followers": 208504,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Back Home",
-        "url": "https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m"
-      },
-      "artists": [
-        {
-          "name": "Big Joanie",
-          "url": "https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j"
-        }
-      ],
-      "duration_ms": 160472,
-      "name": "Happier Still",
-      "url": "https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Rhythm and Paranoia: The Best of Bush Tetras",
         "url": "https://open.spotify.com/album/1N88J8RmLwvapgXTbuZe79"
       },
@@ -851,18 +835,18 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Run Fast",
-        "url": "https://open.spotify.com/album/0BSqUgcOoDsMtSro646c8f"
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m"
       },
       "artists": [
         {
-          "name": "The Julie Ruin",
-          "url": "https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF"
+          "name": "Big Joanie",
+          "url": "https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j"
         }
       ],
-      "duration_ms": 199480,
-      "name": "Girls Like Us",
-      "url": "https://open.spotify.com/track/55iEQ6oFvMsQm2eLGl4OIC"
+      "duration_ms": 160472,
+      "name": "Happier Still",
+      "url": "https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -879,6 +863,22 @@
       "duration_ms": 170133,
       "name": "Husbands",
       "url": "https://open.spotify.com/track/5yoJk1yR5QmwE8Zj2qatpK"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Run Fast",
+        "url": "https://open.spotify.com/album/0BSqUgcOoDsMtSro646c8f"
+      },
+      "artists": [
+        {
+          "name": "The Julie Ruin",
+          "url": "https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF"
+        }
+      ],
+      "duration_ms": 199480,
+      "name": "Girls Like Us",
+      "url": "https://open.spotify.com/track/55iEQ6oFvMsQm2eLGl4OIC"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Look Blue Go Purple Compilation",
-        "url": "https://open.spotify.com/album/0l1n4dDAwKOpp5ZyOoTK00"
-      },
-      "artists": [
-        {
-          "name": "Look Blue Go Purple",
-          "url": "https://open.spotify.com/artist/1Yy0i6C3R2ubzz9CRM4JDv"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "I Don't Want You Anyway",
-      "url": "https://open.spotify.com/track/5JdY3aB0msrkLZya4fEerb"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Update Your Brain",
         "url": "https://open.spotify.com/album/4yZJcVLLLqowccHbHg59ZD"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 194000,
       "name": "Let Go of the Past",
       "url": "https://open.spotify.com/track/1g3VugPUuNEtEvxpftReBJ"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Look Blue Go Purple Compilation",
+        "url": "https://open.spotify.com/album/0l1n4dDAwKOpp5ZyOoTK00"
+      },
+      "artists": [
+        {
+          "name": "Look Blue Go Purple",
+          "url": "https://open.spotify.com/artist/1Yy0i6C3R2ubzz9CRM4JDv"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "I Don't Want You Anyway",
+      "url": "https://open.spotify.com/track/5JdY3aB0msrkLZya4fEerb"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Last Splash",
-        "url": "https://open.spotify.com/album/4lxW0axOKlImAQ0akMRz61"
+        "name": "Celebrity Skin",
+        "url": "https://open.spotify.com/album/0ZIlM7A6pZyNhfohaWjauj"
       },
       "artists": [
         {
-          "name": "The Breeders",
-          "url": "https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp"
+          "name": "Hole",
+          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
         }
       ],
-      "duration_ms": 213693,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/11nv53N7ZnNTCgyl8yxvYd"
+      "duration_ms": 162493,
+      "name": "Celebrity Skin",
+      "url": "https://open.spotify.com/track/2VTQAjZr7FPoEJD2sNoH3o"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Celebrity Skin",
-        "url": "https://open.spotify.com/album/0ZIlM7A6pZyNhfohaWjauj"
+        "name": "Last Splash",
+        "url": "https://open.spotify.com/album/4lxW0axOKlImAQ0akMRz61"
       },
       "artists": [
         {
-          "name": "Hole",
-          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+          "name": "The Breeders",
+          "url": "https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp"
         }
       ],
-      "duration_ms": 162493,
-      "name": "Celebrity Skin",
-      "url": "https://open.spotify.com/track/2VTQAjZr7FPoEJD2sNoH3o"
+      "duration_ms": 213693,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/11nv53N7ZnNTCgyl8yxvYd"
     },
     {
       "added_at": "2024-10-07 20:36:39",

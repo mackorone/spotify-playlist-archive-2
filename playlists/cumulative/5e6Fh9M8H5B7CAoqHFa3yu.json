@@ -2181,6 +2181,28 @@
     },
     {
       "album": {
+        "name": "ART of WAVES",
+        "url": "https://open.spotify.com/album/2gMOtsag4f3smuL3wb5NJ3"
+      },
+      "artists": [
+        {
+          "name": "TED",
+          "url": "https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T"
+        },
+        {
+          "name": "Yohanan",
+          "url": "https://open.spotify.com/artist/2eOOYgcPCi9T0lseYWXddj"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222676,
+      "name": "Art of Waves",
+      "url": "https://open.spotify.com/track/1K6jYliyZPelIN3VMFeADT"
+    },
+    {
+      "album": {
         "name": "Montana",
         "url": "https://open.spotify.com/album/0Jzh1BajLYz2xWehUZlvxo"
       },
@@ -5798,6 +5820,32 @@
       "duration_ms": 162026,
       "name": "Colla",
       "url": "https://open.spotify.com/track/6h6uGVjqpNIKIcZrF5zWLH"
+    },
+    {
+      "album": {
+        "name": "Collecting Memories",
+        "url": "https://open.spotify.com/album/6lotPV2jvHGnU0ioo3efhU"
+      },
+      "artists": [
+        {
+          "name": "TED",
+          "url": "https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T"
+        },
+        {
+          "name": "Yohanan",
+          "url": "https://open.spotify.com/artist/2eOOYgcPCi9T0lseYWXddj"
+        },
+        {
+          "name": "Natasha Cleophas",
+          "url": "https://open.spotify.com/artist/00nfdeOv0SOQu5itQbz3ic"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190212,
+      "name": "Collecting Memories",
+      "url": "https://open.spotify.com/track/3nPD47QNIbjfezj5uqvinO"
     },
     {
       "album": {
@@ -21275,6 +21323,24 @@
     },
     {
       "album": {
+        "name": "My Soul",
+        "url": "https://open.spotify.com/album/2QpG4iF6jTCTPbFFDTJCcl"
+      },
+      "artists": [
+        {
+          "name": "Teezee",
+          "url": "https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135635,
+      "name": "My Soul",
+      "url": "https://open.spotify.com/track/4uCyYwu4f7iFlEqAgCeNce"
+    },
+    {
+      "album": {
         "name": "My Sound Is Heavy",
         "url": "https://open.spotify.com/album/2M1vwGZJ9aiDTicR5T5xzq"
       },
@@ -32330,6 +32396,24 @@
       "duration_ms": 228879,
       "name": "TRAIN",
       "url": "https://open.spotify.com/track/7kRB1EBQBSVYjrf0elg7hG"
+    },
+    {
+      "album": {
+        "name": "Album 1",
+        "url": "https://open.spotify.com/album/1kdFVBOKq0QRMN0nITjkfO"
+      },
+      "artists": [
+        {
+          "name": "Focuscircle",
+          "url": "https://open.spotify.com/artist/3JzDncfAa9i8YByecJ771U"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70510,
+      "name": "Tranquil Garden",
+      "url": "https://open.spotify.com/track/0KgCKStZnG7CzJebU58X4p"
     },
     {
       "album": {

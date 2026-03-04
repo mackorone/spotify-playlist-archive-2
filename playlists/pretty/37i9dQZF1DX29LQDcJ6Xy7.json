@@ -1,6 +1,6 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 369026,
+  "num_followers": 369076,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
@@ -283,8 +283,8 @@
     {
       "added_at": "2025-02-10 19:48:47",
       "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/4jyWDa1yM9ul7zgUdR80hw"
+        "name": "The Fragile",
+        "url": "https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
         }
       ],
-      "duration_ms": 226733,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/0XfNjyJcb7d2ZAscVM4K7J"
+      "duration_ms": 436000,
+      "name": "We're In This Together",
+      "url": "https://open.spotify.com/track/3aN2V18W3EiW7eg5tHALpF"
     },
     {
       "added_at": "2025-02-10 19:48:47",
@@ -363,8 +363,8 @@
     {
       "added_at": "2025-02-10 19:48:47",
       "album": {
-        "name": "The Fragile",
-        "url": "https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8"
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/4jyWDa1yM9ul7zgUdR80hw"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
         }
       ],
-      "duration_ms": 436000,
-      "name": "We're In This Together",
-      "url": "https://open.spotify.com/track/3aN2V18W3EiW7eg5tHALpF"
+      "duration_ms": 226733,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/0XfNjyJcb7d2ZAscVM4K7J"
     },
     {
       "added_at": "2025-02-10 19:48:47",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-02-10 19:48:47",
       "album": {
-        "name": "Vision 2020 Vision",
-        "url": "https://open.spotify.com/album/1MDfKtOfNFOlkUwa3GM8QZ"
-      },
-      "artists": [
-        {
-          "name": "Die Krupps",
-          "url": "https://open.spotify.com/artist/0iDagYU2nu7gTWMdtCxzxW"
-        }
-      ],
-      "duration_ms": 263888,
-      "name": "Vision 2020 Vision",
-      "url": "https://open.spotify.com/track/13VbFEZvg3etUT8vz4YIhI"
-    },
-    {
-      "added_at": "2025-02-10 19:48:47",
-      "album": {
         "name": "Fiction",
         "url": "https://open.spotify.com/album/4td7ZCz71To3BiAM70k0kq"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 236375,
       "name": "Fiction",
       "url": "https://open.spotify.com/track/0Y9Vvicrw9zj40jtEK4tRL"
+    },
+    {
+      "added_at": "2025-02-10 19:48:47",
+      "album": {
+        "name": "Vision 2020 Vision",
+        "url": "https://open.spotify.com/album/1MDfKtOfNFOlkUwa3GM8QZ"
+      },
+      "artists": [
+        {
+          "name": "Die Krupps",
+          "url": "https://open.spotify.com/artist/0iDagYU2nu7gTWMdtCxzxW"
+        }
+      ],
+      "duration_ms": 263888,
+      "name": "Vision 2020 Vision",
+      "url": "https://open.spotify.com/track/13VbFEZvg3etUT8vz4YIhI"
     },
     {
       "added_at": "2025-02-10 19:48:47",

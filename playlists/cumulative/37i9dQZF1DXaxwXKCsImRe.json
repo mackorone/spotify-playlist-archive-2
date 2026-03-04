@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Spotify editors pick new and exciting artists. RADAR BNLX-artist: <a href=\"spotify:artist:3smrOozTm8zGvRfrcIyRg9\">Samuel Welten</a>",
+  "description": "Spotify editors pick exciting artists for RADAR BNLX. New: <a href=\"spotify:artist:5vxYgsUqkYuqL5nLzwnKsk\">OYSTER</a>",
   "name": "RADAR BNLX",
   "tracks": [
     {
@@ -472,6 +472,24 @@
       "duration_ms": 206379,
       "name": "Blu Celeste",
       "url": "https://open.spotify.com/track/0BeXxjO6mgLDzg4xA6UheO"
+    },
+    {
+      "album": {
+        "name": "Bodem",
+        "url": "https://open.spotify.com/album/5JOs7kQlOuPOIUwuvk4LOk"
+      },
+      "artists": [
+        {
+          "name": "OYSTER",
+          "url": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "Bodem",
+      "url": "https://open.spotify.com/track/6M5hZ6D1AXfOwKXztFjoBV"
     },
     {
       "album": {
@@ -950,6 +968,24 @@
       "duration_ms": 176603,
       "name": "De Diepte",
       "url": "https://open.spotify.com/track/7uQ7e7nzbtyX87eIYHpj6Z"
+    },
+    {
+      "album": {
+        "name": "De Laatste Sprint",
+        "url": "https://open.spotify.com/album/1EzVpVYDBYqs5yBtyeJuMe"
+      },
+      "artists": [
+        {
+          "name": "OYSTER",
+          "url": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211304,
+      "name": "De Laatste Sprint",
+      "url": "https://open.spotify.com/track/2lV0iWyn789HzZX28uqfgO"
     },
     {
       "album": {
@@ -2162,6 +2198,28 @@
       "duration_ms": 243440,
       "name": "Last Dance",
       "url": "https://open.spotify.com/track/5sHkRXZbyR6SLOlq3EpCpq"
+    },
+    {
+      "album": {
+        "name": "Leef Vandaag",
+        "url": "https://open.spotify.com/album/3bUohj9RjzxKayLLNvSSia"
+      },
+      "artists": [
+        {
+          "name": "Cit\u00e9",
+          "url": "https://open.spotify.com/artist/1IzmTWOBk33eqWZmWpxUqp"
+        },
+        {
+          "name": "OYSTER",
+          "url": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165161,
+      "name": "Leef Vandaag",
+      "url": "https://open.spotify.com/track/4sdWltOf93g9Ok3zNGVDTI"
     },
     {
       "album": {

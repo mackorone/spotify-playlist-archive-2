@@ -1905,6 +1905,36 @@
     },
     {
       "album": {
+        "name": "Endhayya Saami (Special Surprise) [From \"Ranabaali\"]",
+        "url": "https://open.spotify.com/album/6l8wEEgbJ0VYfkMhEL999z"
+      },
+      "artists": [
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        },
+        {
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        },
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79234,
+      "name": "Endhayya Saami (Special Surprise) [From \"Ranabaali\"]",
+      "url": "https://open.spotify.com/track/3bBKPc5S5VkIP2msOWMFkv"
+    },
+    {
+      "album": {
         "name": "Chirutha",
         "url": "https://open.spotify.com/album/5KEPglkfQDPC5xMCqrrKpa"
       },
@@ -5575,6 +5605,28 @@
     },
     {
       "album": {
+        "name": "Rai Rai Raa Raa (From \"Peddi\") [TELUGU]",
+        "url": "https://open.spotify.com/album/0ySPxQtfOMhSEqpGiiFSKi"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Anantha Sreeram",
+          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266032,
+      "name": "Rai Rai Raa Raa (From \"Peddi\") [TELUGU]",
+      "url": "https://open.spotify.com/track/29HAoc3GDDbb7mW9isgs9K"
+    },
+    {
+      "album": {
         "name": "Rajagadiki (From \"Little Hearts\")",
         "url": "https://open.spotify.com/album/5NwUl6AbvdKV0hJ53135kD"
       },
@@ -6044,7 +6096,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 230048,
       "name": "Saranga Dariya",
       "url": "https://open.spotify.com/track/37FEq6fd1VmlShSni5Y4zh"
@@ -6742,7 +6794,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 181630,
       "name": "Vaammo Vaayyo (From \"Bhartha Mahasayulaku Wignyapthi\")",
       "url": "https://open.spotify.com/track/4eE7fHSWlvRD63R0gwjVFa"

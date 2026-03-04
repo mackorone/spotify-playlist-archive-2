@@ -283,30 +283,6 @@
     {
       "added_at": "2026-02-20 08:15:54",
       "album": {
-        "name": "Take Off",
-        "url": "https://open.spotify.com/album/4S9WYVnKWUWKdICwWm7wMK"
-      },
-      "artists": [
-        {
-          "name": "2001Active",
-          "url": "https://open.spotify.com/artist/3gJZEGKPPrRtLfSZWBHMNL"
-        },
-        {
-          "name": "T!NE",
-          "url": "https://open.spotify.com/artist/325C5PNmvA8luRIOYy1dmQ"
-        },
-        {
-          "name": "VIPER",
-          "url": "https://open.spotify.com/artist/3FVgKNTkG9wYoJONzU2QuL"
-        }
-      ],
-      "duration_ms": 168791,
-      "name": "Take Off",
-      "url": "https://open.spotify.com/track/5o7LobYqqBHoIodMLIpyxR"
-    },
-    {
-      "added_at": "2026-02-20 08:15:54",
-      "album": {
         "name": "\u0e0a\u0e48\u0e27\u0e22\u0e40\u0e25\u0e34\u0e01\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21",
         "url": "https://open.spotify.com/album/5hh7QUvhveqKRp0Pxgja9I"
       },
@@ -339,34 +315,26 @@
     {
       "added_at": "2026-02-20 08:15:54",
       "album": {
-        "name": "\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08 (Anhedonia)",
-        "url": "https://open.spotify.com/album/69ydaTMWuuO7Vngzszjugb"
+        "name": "Take Off",
+        "url": "https://open.spotify.com/album/4S9WYVnKWUWKdICwWm7wMK"
       },
       "artists": [
         {
-          "name": "SWANOVFIELD",
-          "url": "https://open.spotify.com/artist/3DOyQq6QzQaXTP6f2LP3lc"
-        }
-      ],
-      "duration_ms": 236691,
-      "name": "\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08 (Anhedonia)",
-      "url": "https://open.spotify.com/track/04T2wqBL7TxrunD5fpgOK0"
-    },
-    {
-      "added_at": "2026-02-20 08:15:54",
-      "album": {
-        "name": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27 (It'S Over)",
-        "url": "https://open.spotify.com/album/0BgYshQYyjo1A0JjKPzUpE"
-      },
-      "artists": [
+          "name": "2001Active",
+          "url": "https://open.spotify.com/artist/3gJZEGKPPrRtLfSZWBHMNL"
+        },
         {
-          "name": "mita.",
-          "url": "https://open.spotify.com/artist/1hE0l1qfYybuufwViZiQKs"
+          "name": "T!NE",
+          "url": "https://open.spotify.com/artist/325C5PNmvA8luRIOYy1dmQ"
+        },
+        {
+          "name": "VIPER",
+          "url": "https://open.spotify.com/artist/3FVgKNTkG9wYoJONzU2QuL"
         }
       ],
-      "duration_ms": 240000,
-      "name": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27 - It'S Over",
-      "url": "https://open.spotify.com/track/5RmRUCyASmrKbqCeAczOfB"
+      "duration_ms": 168791,
+      "name": "Take Off",
+      "url": "https://open.spotify.com/track/5o7LobYqqBHoIodMLIpyxR"
     },
     {
       "added_at": "2026-02-20 08:15:54",
@@ -387,18 +355,18 @@
     {
       "added_at": "2026-02-20 08:15:54",
       "album": {
-        "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e40\u0e02\u0e32 (Pls.Out)",
-        "url": "https://open.spotify.com/album/55eAwsSu6G1XWxp3A4ifDR"
+        "name": "\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08 (Anhedonia)",
+        "url": "https://open.spotify.com/album/69ydaTMWuuO7Vngzszjugb"
       },
       "artists": [
         {
-          "name": "Fah Naritsa",
-          "url": "https://open.spotify.com/artist/3McyFK0pD7IHHLLlk2O20J"
+          "name": "SWANOVFIELD",
+          "url": "https://open.spotify.com/artist/3DOyQq6QzQaXTP6f2LP3lc"
         }
       ],
-      "duration_ms": 274285,
-      "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e40\u0e02\u0e32 (Pls.Out)",
-      "url": "https://open.spotify.com/track/76mAxCVZZLW3ruv7lDpdM6"
+      "duration_ms": 236691,
+      "name": "\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08 (Anhedonia)",
+      "url": "https://open.spotify.com/track/04T2wqBL7TxrunD5fpgOK0"
     },
     {
       "added_at": "2026-02-20 08:15:54",
@@ -415,6 +383,38 @@
       "duration_ms": 237333,
       "name": "URGIRL",
       "url": "https://open.spotify.com/track/2MnWbwCesAl8FQibKPl4gA"
+    },
+    {
+      "added_at": "2026-02-20 08:15:54",
+      "album": {
+        "name": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27 (It'S Over)",
+        "url": "https://open.spotify.com/album/0BgYshQYyjo1A0JjKPzUpE"
+      },
+      "artists": [
+        {
+          "name": "mita.",
+          "url": "https://open.spotify.com/artist/1hE0l1qfYybuufwViZiQKs"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27 - It'S Over",
+      "url": "https://open.spotify.com/track/5RmRUCyASmrKbqCeAczOfB"
+    },
+    {
+      "added_at": "2026-02-20 08:15:54",
+      "album": {
+        "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e40\u0e02\u0e32 (Pls.Out)",
+        "url": "https://open.spotify.com/album/55eAwsSu6G1XWxp3A4ifDR"
+      },
+      "artists": [
+        {
+          "name": "Fah Naritsa",
+          "url": "https://open.spotify.com/artist/3McyFK0pD7IHHLLlk2O20J"
+        }
+      ],
+      "duration_ms": 274285,
+      "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e40\u0e02\u0e32 (Pls.Out)",
+      "url": "https://open.spotify.com/track/76mAxCVZZLW3ruv7lDpdM6"
     },
     {
       "added_at": "2026-02-20 08:15:54",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-02-20 08:15:54",
       "album": {
-        "name": "\u0e17\u0e33\u0e44\u0e14\u0e49\u0e41\u0e04\u0e48\u0e17\u0e19",
-        "url": "https://open.spotify.com/album/2rVVZTZFMqjZC71b6brchN"
-      },
-      "artists": [
-        {
-          "name": "JDI",
-          "url": "https://open.spotify.com/artist/6aTDbF5IiPexZVjvyza8U4"
-        }
-      ],
-      "duration_ms": 196727,
-      "name": "\u0e17\u0e33\u0e44\u0e14\u0e49\u0e41\u0e04\u0e48\u0e17\u0e19",
-      "url": "https://open.spotify.com/track/2gHzSJ1FqYNRJpstisFbdx"
-    },
-    {
-      "added_at": "2026-02-20 08:15:54",
-      "album": {
         "name": "\u0e40\u0e14\u0e2d\u0e30 \u0e08\u0e39\u0e2a\u0e4c",
         "url": "https://open.spotify.com/album/59stqpD8rcfucsAXpsXK6X"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 210000,
       "name": "\u0e2b\u0e25\u0e2d\u0e01\u0e43\u0e2b\u0e49\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/2yxNSd8qmaj0LYKZsHS7oJ"
+    },
+    {
+      "added_at": "2026-02-20 08:15:54",
+      "album": {
+        "name": "\u0e17\u0e33\u0e44\u0e14\u0e49\u0e41\u0e04\u0e48\u0e17\u0e19",
+        "url": "https://open.spotify.com/album/2rVVZTZFMqjZC71b6brchN"
+      },
+      "artists": [
+        {
+          "name": "JDI",
+          "url": "https://open.spotify.com/artist/6aTDbF5IiPexZVjvyza8U4"
+        }
+      ],
+      "duration_ms": 196727,
+      "name": "\u0e17\u0e33\u0e44\u0e14\u0e49\u0e41\u0e04\u0e48\u0e17\u0e19",
+      "url": "https://open.spotify.com/track/2gHzSJ1FqYNRJpstisFbdx"
     },
     {
       "added_at": "2026-02-20 08:15:54",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-02-20 08:15:54",
       "album": {
-        "name": "Sun",
-        "url": "https://open.spotify.com/album/4mkp4nRaQOQ9tmoNshruhi"
-      },
-      "artists": [
-        {
-          "name": "palmlamer",
-          "url": "https://open.spotify.com/artist/37WPxh3ExxE9QY1J4rMp57"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "Sun",
-      "url": "https://open.spotify.com/track/5FrK4jlxc8WmAHk2lsOTPt"
-    },
-    {
-      "added_at": "2026-02-20 08:15:54",
-      "album": {
         "name": "\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e02\u0e2d\u0e07\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07",
         "url": "https://open.spotify.com/album/3npcOAiTi992g0JDKdHgSi"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 217105,
       "name": "\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e02\u0e2d\u0e07\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07",
       "url": "https://open.spotify.com/track/6RvUaEjzkMQPD0CPfRnIkQ"
+    },
+    {
+      "added_at": "2026-02-20 08:15:54",
+      "album": {
+        "name": "Sun",
+        "url": "https://open.spotify.com/album/4mkp4nRaQOQ9tmoNshruhi"
+      },
+      "artists": [
+        {
+          "name": "palmlamer",
+          "url": "https://open.spotify.com/artist/37WPxh3ExxE9QY1J4rMp57"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "Sun",
+      "url": "https://open.spotify.com/track/5FrK4jlxc8WmAHk2lsOTPt"
     },
     {
       "added_at": "2026-02-20 08:15:54",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-02-20 08:15:54",
       "album": {
+        "name": "\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e23\u0e31\u0e01\u0e04\u0e19\u0e43\u0e2b\u0e21\u0e48 (Before)",
+        "url": "https://open.spotify.com/album/5Ytn6vRML51iOgPu6n3gge"
+      },
+      "artists": [
+        {
+          "name": "RATTHEE",
+          "url": "https://open.spotify.com/artist/6HJVZXxSTP8eE7L8xPXKKh"
+        }
+      ],
+      "duration_ms": 226192,
+      "name": "\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e23\u0e31\u0e01\u0e04\u0e19\u0e43\u0e2b\u0e21\u0e48 - Before",
+      "url": "https://open.spotify.com/track/4aNgOJCasw7aKsffY74L9w"
+    },
+    {
+      "added_at": "2026-02-20 08:15:54",
+      "album": {
         "name": "Lake",
         "url": "https://open.spotify.com/album/7A7U2aZ7jx9rttKZNP6qau"
       },
@@ -775,18 +791,18 @@
     {
       "added_at": "2026-02-20 08:15:54",
       "album": {
-        "name": "\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e23\u0e31\u0e01\u0e04\u0e19\u0e43\u0e2b\u0e21\u0e48 (Before)",
-        "url": "https://open.spotify.com/album/5Ytn6vRML51iOgPu6n3gge"
+        "name": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e09\u0e31\u0e19 (Allergy-Drinks)",
+        "url": "https://open.spotify.com/album/6m1eyBH8wQbzLNTDjtYtFc"
       },
       "artists": [
         {
-          "name": "RATTHEE",
-          "url": "https://open.spotify.com/artist/6HJVZXxSTP8eE7L8xPXKKh"
+          "name": "Vaals",
+          "url": "https://open.spotify.com/artist/1W4ji89xxXpuCdX4YhMS5u"
         }
       ],
-      "duration_ms": 226192,
-      "name": "\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e23\u0e31\u0e01\u0e04\u0e19\u0e43\u0e2b\u0e21\u0e48 - Before",
-      "url": "https://open.spotify.com/track/4aNgOJCasw7aKsffY74L9w"
+      "duration_ms": 188613,
+      "name": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e09\u0e31\u0e19 (Allergy-Drinks)",
+      "url": "https://open.spotify.com/track/39gUtXus8zaLBwNM0hETg7"
     },
     {
       "added_at": "2026-02-20 08:15:54",
@@ -807,18 +823,22 @@
     {
       "added_at": "2026-02-20 08:15:54",
       "album": {
-        "name": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e09\u0e31\u0e19 (Allergy-Drinks)",
-        "url": "https://open.spotify.com/album/6m1eyBH8wQbzLNTDjtYtFc"
+        "name": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e0a\u0e2d\u0e1a",
+        "url": "https://open.spotify.com/album/5jOBjB4KRxdYrVtPlyHrZC"
       },
       "artists": [
         {
-          "name": "Vaals",
-          "url": "https://open.spotify.com/artist/1W4ji89xxXpuCdX4YhMS5u"
+          "name": "KABii",
+          "url": "https://open.spotify.com/artist/00NCrNASle1HNVaqNUa0ts"
+        },
+        {
+          "name": "$LUTTYP",
+          "url": "https://open.spotify.com/artist/2ZG0PBRopuCGFDBWdrVaYb"
         }
       ],
-      "duration_ms": 188613,
-      "name": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e09\u0e31\u0e19 (Allergy-Drinks)",
-      "url": "https://open.spotify.com/track/39gUtXus8zaLBwNM0hETg7"
+      "duration_ms": 209108,
+      "name": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e0a\u0e2d\u0e1a",
+      "url": "https://open.spotify.com/track/09u67EylNXvhuMIBD17yQc"
     },
     {
       "added_at": "2026-02-20 08:15:54",
@@ -851,26 +871,6 @@
       "duration_ms": 226000,
       "name": "\u0e23\u0e39\u0e49\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32",
       "url": "https://open.spotify.com/track/6C2VLOtIeJcblw0bKBhVVH"
-    },
-    {
-      "added_at": "2026-02-20 08:15:54",
-      "album": {
-        "name": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e0a\u0e2d\u0e1a",
-        "url": "https://open.spotify.com/album/5jOBjB4KRxdYrVtPlyHrZC"
-      },
-      "artists": [
-        {
-          "name": "KABii",
-          "url": "https://open.spotify.com/artist/00NCrNASle1HNVaqNUa0ts"
-        },
-        {
-          "name": "$LUTTYP",
-          "url": "https://open.spotify.com/artist/2ZG0PBRopuCGFDBWdrVaYb"
-        }
-      ],
-      "duration_ms": 209108,
-      "name": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e0a\u0e2d\u0e1a",
-      "url": "https://open.spotify.com/track/09u67EylNXvhuMIBD17yQc"
     },
     {
       "added_at": "2026-02-20 08:15:54",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-02-20 08:15:54",
       "album": {
-        "name": "\u0e42\u0e17\u0e23\u0e44\u0e14\u0e49\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32 (Will You Answer?)",
-        "url": "https://open.spotify.com/album/1hDzWMgtDIfWqsXVYfPxZS"
-      },
-      "artists": [
-        {
-          "name": "RATTHEE",
-          "url": "https://open.spotify.com/artist/6HJVZXxSTP8eE7L8xPXKKh"
-        }
-      ],
-      "duration_ms": 232445,
-      "name": "\u0e42\u0e17\u0e23\u0e44\u0e14\u0e49\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32 - Will You Answer?",
-      "url": "https://open.spotify.com/track/6Tu7qGeULDB5nkB0CT8k3m"
-    },
-    {
-      "added_at": "2026-02-20 08:15:54",
-      "album": {
         "name": "\u0e2a\u0e31\u0e21\u0e1c\u0e31\u0e2a\u0e42\u0e01\u0e2b\u0e01",
         "url": "https://open.spotify.com/album/1RoyATW49Dkwq5gn23SsHx"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 187242,
       "name": "\u0e2a\u0e31\u0e21\u0e1c\u0e31\u0e2a\u0e42\u0e01\u0e2b\u0e01",
       "url": "https://open.spotify.com/track/0o4lQPKg7aFhQU6g32Q0I6"
+    },
+    {
+      "added_at": "2026-02-20 08:15:54",
+      "album": {
+        "name": "\u0e42\u0e17\u0e23\u0e44\u0e14\u0e49\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32 (Will You Answer?)",
+        "url": "https://open.spotify.com/album/1hDzWMgtDIfWqsXVYfPxZS"
+      },
+      "artists": [
+        {
+          "name": "RATTHEE",
+          "url": "https://open.spotify.com/artist/6HJVZXxSTP8eE7L8xPXKKh"
+        }
+      ],
+      "duration_ms": 232445,
+      "name": "\u0e42\u0e17\u0e23\u0e44\u0e14\u0e49\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32 - Will You Answer?",
+      "url": "https://open.spotify.com/track/6Tu7qGeULDB5nkB0CT8k3m"
     },
     {
       "added_at": "2026-02-20 08:15:54",

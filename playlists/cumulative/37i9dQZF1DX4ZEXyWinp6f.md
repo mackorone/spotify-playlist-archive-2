@@ -4,7 +4,7 @@
 
 > Fold time and space through sound to reach imaginary universes.
 
-382 songs - 1 day 9 hr 25 min
+383 songs - 1 day 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Espuma](https://open.spotify.com/track/5oqcNK43RcZbRAGl7mo5og) | [Pepe Mogt](https://open.spotify.com/artist/7m5gWKlKnqR5vRBNXSFJF5) | [Maija Awi](https://open.spotify.com/album/6zPL6drQiQXKRHiIdsZR2t) | 3:08 | 2020-11-10 | 2022-07-28 |
 | [Esty Point, Summer 1978](https://open.spotify.com/track/57oEUu3QfamsvthkU33CJf) | [David Borden](https://open.spotify.com/artist/0qMXrYbyStA8VDl8JrxR0N) | [Music for Amplified Keyboard Instruments](https://open.spotify.com/album/7voTf1EYuepIVgubfJt0ID) | 6:28 | 2020-10-20 | 2022-09-21 |
 | [Eurydice](https://open.spotify.com/track/6MSvaQ36D752rWpVa9icJo) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Francesca Guccione](https://open.spotify.com/artist/1DH9QaxJXwzct8bPwiWZBa), [Red Moon](https://open.spotify.com/artist/0dHgclh9wpu1ori6pC954T) | [Eurydice](https://open.spotify.com/album/5Rx6IbF6AiG7xiLKwKLJuN) | 4:57 | 2025-06-19 |  |
+| [everything is going to be ok](https://open.spotify.com/track/5WGNe8og1I3uiinrijoDRU) | [Eleftherios](https://open.spotify.com/artist/6z7DDiVB1Cca0P1VcsvxM9) | [everything is going to be ok](https://open.spotify.com/album/7fSwB12ObDLZbhYrODXCek) | 2:27 | 2026-02-27 |  |
 | [Faint Lights In The Distance](https://open.spotify.com/track/7Hw9Pf3EVSVF5mfW5YuoBz) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE), [Jonas Munk](https://open.spotify.com/artist/6KPFlbSbh1zeN7x9QpgB4O) | [Eight Fragments Of An Illusion](https://open.spotify.com/album/0NBak1cinQqUel4IqOoy4x) | 6:57 | 2021-09-26 | 2022-07-29 |
 | [Falling Snowflakes](https://open.spotify.com/track/0JBcYw96mPar9aBlHDYTkS) | [Moon Projection](https://open.spotify.com/artist/4YtkgZhcqrY0yFTG9Fc6dH) | [Falling Snowflakes](https://open.spotify.com/album/4Z4lTjhE4fPnNO5Rbmf75V) | 4:05 | 2022-02-18 | 2022-07-26 |
 | [Falter\-Lamento](https://open.spotify.com/track/7IsLF9UfixejwMV7VJMirJ) | [Asmus Tietchens](https://open.spotify.com/artist/1VR7bz3EQSo38riLKO8oJK) | [Nachtstücke](https://open.spotify.com/album/4lK6jOyd1SgurwBmKJ19eJ) | 6:18 | 2020-10-20 | 2022-07-23 |
@@ -187,7 +188,7 @@
 | [Le bracelet](https://open.spotify.com/track/04uauFxLrz9VTsqQpsGKMa) | [Alain Goraguer](https://open.spotify.com/artist/2yenSHFA1v0ZsCMFWr5N1M) | [La Planète Sauvage \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4BF1mMXkDo1NcJCgEBXKEk) | 1:27 | 2021-10-20 | 2024-04-19 |
 | [Le Bracelet](https://open.spotify.com/track/2khUO1FMaVvGagUJpUJIwt) | [Alain Goraguer](https://open.spotify.com/artist/2yenSHFA1v0ZsCMFWr5N1M) | [La Planète Sauvage](https://open.spotify.com/album/0hyEAwTWIDaseZAAi5t36x) | 1:27 | 2021-02-27 | 2022-04-21 |
 | [Let Me See](https://open.spotify.com/track/5c8A84d753jlBaLnsVnYR5) | [Locust](https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N) | [The Plaintive](https://open.spotify.com/album/0uGMnCKyRxq2h6YnK6zqbe) | 3:41 | 2020-09-08 | 2022-07-27 |
-| [Levva](https://open.spotify.com/track/5styiS6T2sQCqd633t5nPF) | [Øystein Skar](https://open.spotify.com/artist/3OKPHN3DCoQfCsMNjbNqRZ) | [Levva](https://open.spotify.com/album/1kq3ef4sES24rRlSF5ykao) | 4:42 | 2025-11-06 |  |
+| [Levva](https://open.spotify.com/track/5styiS6T2sQCqd633t5nPF) | [Øystein Skar](https://open.spotify.com/artist/3OKPHN3DCoQfCsMNjbNqRZ) | [Levva](https://open.spotify.com/album/1kq3ef4sES24rRlSF5ykao) | 4:42 | 2025-11-06 | 2026-03-04 |
 | [Life Forms](https://open.spotify.com/track/3lmGK3UelDNbXwTCbvVKrN) | [The Future Sound of XYZ](https://open.spotify.com/artist/3gqmTTI15kx2XMhxdfxwyY) | [Life Forms](https://open.spotify.com/album/4MXUqLOKxcTFkHgF7ChgdR) | 2:30 | 2021-10-20 | 2022-10-12 |
 | [Life Forms](https://open.spotify.com/track/7hj956jJ1eIMcQJy165Kpf) | [The Future Sound of XYZ](https://open.spotify.com/artist/3gqmTTI15kx2XMhxdfxwyY) | [Life Forms](https://open.spotify.com/album/5lMabjCJifbzYeRVpep5lY) | 2:30 | 2020-07-07\* | 2022-07-24 |
 | [Life In The Circus](https://open.spotify.com/track/37BOeQy16hgtJvmTrEYRCP) | [Mars Sense](https://open.spotify.com/artist/3CzreurmyGbePnOzFceCHm) | [Life In The Circus](https://open.spotify.com/album/09fVRkCx60JbsKJVIxPjNo) | 3:18 | 2022-01-07 | 2022-07-22 |

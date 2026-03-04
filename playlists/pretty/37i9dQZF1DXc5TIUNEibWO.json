@@ -1,6 +1,6 @@
 {
   "description": "Ghanaian Highlife Classics",
-  "num_followers": 7965,
+  "num_followers": 7971,
   "original_name": " Ghana Highlife Party",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
+        "name": "My Sweetheart",
+        "url": "https://open.spotify.com/album/7iL0RAeJ5oGgkThuw1I7AJ"
+      },
+      "artists": [
+        {
+          "name": "K. K. Kabobo",
+          "url": "https://open.spotify.com/artist/3F6YqDrWOs7y5rhLhfh0eq"
+        }
+      ],
+      "duration_ms": 322063,
+      "name": "Onyame Ehu Wo",
+      "url": "https://open.spotify.com/track/6aE85LSDkZkJ8h0WDDoMhI"
+    },
+    {
+      "added_at": "2026-02-20 08:28:52",
+      "album": {
         "name": "Twa Me Ke Ke",
         "url": "https://open.spotify.com/album/18lUsdGaHx5lUeYsZ99snM"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 331133,
       "name": "Sherry",
       "url": "https://open.spotify.com/track/0Lal2wxOG7u95l7hz6TYxO"
-    },
-    {
-      "added_at": "2026-02-20 08:28:52",
-      "album": {
-        "name": "My Sweetheart",
-        "url": "https://open.spotify.com/album/7iL0RAeJ5oGgkThuw1I7AJ"
-      },
-      "artists": [
-        {
-          "name": "K. K. Kabobo",
-          "url": "https://open.spotify.com/artist/3F6YqDrWOs7y5rhLhfh0eq"
-        }
-      ],
-      "duration_ms": 322063,
-      "name": "Onyame Ehu Wo",
-      "url": "https://open.spotify.com/track/6aE85LSDkZkJ8h0WDDoMhI"
     },
     {
       "added_at": "2026-02-20 08:28:52",

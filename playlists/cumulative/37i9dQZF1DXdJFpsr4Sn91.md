@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,116 songs - 2 day 7 hr 39 min
+1,117 songs - 2 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -474,7 +474,7 @@
 | [Kunnes sammutaan \(Vain elämää kausi 16\)](https://open.spotify.com/track/6dbYxywDRYRwgp6ZqoEhlb) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Kunnes sammutaan \(Vain elämää kausi 16\)](https://open.spotify.com/album/41SN3xgzZPqniqQXreTZcA) | 2:39 | 2025-10-23 | 2025-10-31 |
 | [KUOLEMATON](https://open.spotify.com/track/7nTx12Fpr61t8Y6ykd5AmK) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [KUOLEMATON / ROTTA \(feat\. ibe\)](https://open.spotify.com/album/2tRQChArCEBOyEP8vEm36r) | 2:49 | 2025-04-10 | 2025-05-16 |
 | [Kuolen ikävään](https://open.spotify.com/track/75oUR9vsCYxDbFjhJMDrek) | [emma](https://open.spotify.com/artist/7GQQEma0Ay9omE9JJr87KQ) | [Kuolen ikävään](https://open.spotify.com/album/7JsRMWiD9i1cZ1koysOyc3) | 3:01 | 2025-04-27 | 2025-05-30 |
-| [Kuolisin sun kaa \(feat\. pehmoaino\)](https://open.spotify.com/track/5CvuQeaaSG0V8lpUHNUggx) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV), [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [Kuolisin sun kaa \(feat\. pehmoaino\)](https://open.spotify.com/album/1nspX6o4QeOs2YNIAH1q5G) | 3:26 | 2026-01-15 |  |
+| [Kuolisin sun kaa \(feat\. pehmoaino\)](https://open.spotify.com/track/5CvuQeaaSG0V8lpUHNUggx) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV), [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [Kuolisin sun kaa \(feat\. pehmoaino\)](https://open.spotify.com/album/1nspX6o4QeOs2YNIAH1q5G) | 3:26 | 2026-01-15 | 2026-03-04 |
 | [Kuollut liekki](https://open.spotify.com/track/1pEiJfcpRDglgmE50pf1uQ) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef) | [Kuollut liekki](https://open.spotify.com/album/2ZDCC2wA73083ZG8t2xmYV) | 2:58 | 2024-09-19 | 2024-11-15 |
 | [Kusipää](https://open.spotify.com/track/6Z5OLH0shZIbkRDxx7xD11) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [<3](https://open.spotify.com/album/1XFTTD1GYqnF6WmTwKWMeo) | 2:48 | 2024-07-02 | 2024-07-19 |
 | [Kuumempi ku koskaan ennen](https://open.spotify.com/track/2z6dFRvYLRsDOwihu12DVB) | [Helena Routa](https://open.spotify.com/artist/3B3F0NOprzhFFbGB2M4TQN) | [Kuumempi ku koskaan ennen](https://open.spotify.com/album/0o3JIk2kxMKBf8C6r3MngW) | 2:51 | 2025-02-13 | 2025-03-07 |
@@ -1091,6 +1091,7 @@
 | [Whisper](https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Whisper](https://open.spotify.com/album/5PGxqp0RXnRFH8lK1EY3Ku) | 3:14 | 2024-10-03 | 2024-10-25 |
 | [Who Said](https://open.spotify.com/track/1ok8sVrOcxSFpuVzygkQLx) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Who Said](https://open.spotify.com/album/5WYNrBJOl1Sm41YS1SPEAM) | 3:07 | 2024-10-17 | 2024-11-08 |
 | [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 | 2024-08-09 | 2024-09-13 |
+| [Wildfire](https://open.spotify.com/track/1R8roLxSplNe52UVoKYApE) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Wildfire](https://open.spotify.com/album/4hTEZj29aVNemOnkh6WEx7) | 3:53 | 2026-02-26 |  |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-10-10 | 2025-01-17 |
 | [Willy Wonka Freestyle](https://open.spotify.com/track/2q94C1i58OxdqyApjWByeC) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Willy Wonka Freestyle](https://open.spotify.com/album/316Aav3ExDWznx8uLtnOtT) | 2:01 | 2025-01-16 | 2025-02-14 |
 | [With You \(with Sofia Camara\)](https://open.spotify.com/track/6UPK99uGkoFmEhHLe1Dx67) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y), [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [With You \(with Sofia Camara\)](https://open.spotify.com/album/703OfuxHtlcsnrdZvAjkan) | 3:08 | 2025-03-06 | 2025-03-28 |

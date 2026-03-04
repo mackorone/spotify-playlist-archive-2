@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best in every corner of modern punk rock\. Cover: Upchuck
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,028 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,049 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,12 +91,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 81 | [GOD SAVE THE PONY.](https://open.spotify.com/track/3QrvKxTmQWIpI9cGE3HakK) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [NATIONAL AVERAGE.](https://open.spotify.com/album/2wHHIEXgiVxTRS2EjFzMmo) | 3:09 |
 | 82 | [An Artist Is An Artist](https://open.spotify.com/track/1QlHr6xzSARBWQ6QvTb7TW) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [An Artist Is An Artist](https://open.spotify.com/album/4V3UKsFn4HbEnJKNa0BRAZ) | 3:11 |
 | 83 | [Hypocrite](https://open.spotify.com/track/4UM0WAccdPzvZIHCcxWDf0) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Hypocrite](https://open.spotify.com/album/0b7M1yTWCB0lCDtIhBn01N) | 1:48 |
-| 84 | [Future Spring](https://open.spotify.com/track/1gtphJS6qQn3VlxGYPCD33) | [Gladie](https://open.spotify.com/artist/7CmAu41S1eT28xXF2ocPE6) | [Future Spring](https://open.spotify.com/album/2z8jMCHWLiETTJAsHRIMId) | 2:45 |
-| 85 | [Bite Harder Than You Bleed](https://open.spotify.com/track/2Iaz9HxyGExG8bfFpNIYFa) | [Roman Candle](https://open.spotify.com/artist/5u1YdY7ZKkBNRvsAQXhFVy) | [Bite Harder Than You Bleed](https://open.spotify.com/album/0b2GduToVZmx1XjEsd8szn) | 2:59 |
+| 84 | [Bite Harder Than You Bleed](https://open.spotify.com/track/2Iaz9HxyGExG8bfFpNIYFa) | [Roman Candle](https://open.spotify.com/artist/5u1YdY7ZKkBNRvsAQXhFVy) | [Bite Harder Than You Bleed](https://open.spotify.com/album/0b2GduToVZmx1XjEsd8szn) | 2:59 |
+| 85 | [Future Spring](https://open.spotify.com/track/1gtphJS6qQn3VlxGYPCD33) | [Gladie](https://open.spotify.com/artist/7CmAu41S1eT28xXF2ocPE6) | [Future Spring](https://open.spotify.com/album/2z8jMCHWLiETTJAsHRIMId) | 2:45 |
 | 86 | [Who's Laughing Now](https://open.spotify.com/track/1Rwn5PAnp6YrRGg93F5pj1) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy), [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Sweet](https://open.spotify.com/album/4UE9iLgjXaU4oYmZPqOzN4) | 3:18 |
 | 87 | [Target Practice](https://open.spotify.com/track/1N3LYk2u9cSGnH1x5ODoqD) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [Tomorrow We Escape](https://open.spotify.com/album/1cSUzXXFmtNIFrCECjFe4R) | 2:11 |
-| 88 | [Sabotage](https://open.spotify.com/track/0d0dCSbntM8IIXnaHFJzC8) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Sabotage](https://open.spotify.com/album/7nPd8RFHLiqjftozCODIRp) | 2:50 |
-| 89 | [Swing Life Away](https://open.spotify.com/track/0i8S7t9Lf6x08wNFZLMziN) | [Crooked Teeth](https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP) | [Swing Life Away](https://open.spotify.com/album/4i8WGpA8DFqNsI6rhhIBOY) | 3:47 |
+| 88 | [Swing Life Away](https://open.spotify.com/track/0i8S7t9Lf6x08wNFZLMziN) | [Crooked Teeth](https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP) | [Swing Life Away](https://open.spotify.com/album/4i8WGpA8DFqNsI6rhhIBOY) | 3:47 |
+| 89 | [Sabotage](https://open.spotify.com/track/0d0dCSbntM8IIXnaHFJzC8) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Sabotage](https://open.spotify.com/album/7nPd8RFHLiqjftozCODIRp) | 2:50 |
 | 90 | [No One Was Driving The Car](https://open.spotify.com/track/4uRiAKVlF3WDlE8nCLGIlg) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [No One Was Driving The Car](https://open.spotify.com/album/5OUlsu7mgYMtKykXbbwvnN) | 3:19 |
 | 91 | [White Lies](https://open.spotify.com/track/015NtR2Ju1QInVARP0sKST) | [The S.E.T.](https://open.spotify.com/artist/0Zj0IxZKZQu0Cc0veaM3IK), [Gut Instinct](https://open.spotify.com/artist/63L8S5HqlKxXfksqPu3vtF) | [White Lies](https://open.spotify.com/album/6gIzsuG2eCEgOIe8Ztg9iv) | 2:07 |
 | 92 | [Get Down](https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Get Down](https://open.spotify.com/album/1q6grMLrlXI4o1fANDnovc) | 3:39 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 94 | [Afraid](https://open.spotify.com/track/0TesiDBRH4ZOatQf4OMuHA) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Afraid](https://open.spotify.com/album/4CFQDi0NqT2pCe2mcHi9Ut) | 2:40 |
 | 95 | [Look Up](https://open.spotify.com/track/5ctd0rOQS8Xzl7QKwvBrVN) | [Alex Melton](https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA) | [Look Up](https://open.spotify.com/album/5N5wUMnGZZGfF2DxFL3e9o) | 2:35 |
 | 96 | [noitanitsarcorP](https://open.spotify.com/track/24U4cuI8vasIg7v3Ci6oEd) | [Algernon Cadwallader](https://open.spotify.com/artist/1BfYXNfaB5HBwHn4gxnEQE) | [Trying Not to Have a Thought](https://open.spotify.com/album/5Xds05MFFB6SRaLKfceXRM) | 4:09 |
-| 97 | [I really am feeling better](https://open.spotify.com/track/2EmYu5EQnSpb2I0nW6hIlw) | [TRSH](https://open.spotify.com/artist/5Sc8WcS3n1oX5iSGlXD2j9) | [I really am feeling better](https://open.spotify.com/album/1C6nIy0zYyRMnEOMBRmh7C) | 2:04 |
-| 98 | [Semi\-Detached Furnished Home](https://open.spotify.com/track/426Pcd366bBkCCUAlJMgnP) | [Wine Lips](https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM) | [Semi\-Detached Furnished Home](https://open.spotify.com/album/3bLXWvtmvJS7HBwKoVop6B) | 2:13 |
+| 97 | [Semi\-Detached Furnished Home](https://open.spotify.com/track/426Pcd366bBkCCUAlJMgnP) | [Wine Lips](https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM) | [Semi\-Detached Furnished Home](https://open.spotify.com/album/3bLXWvtmvJS7HBwKoVop6B) | 2:13 |
+| 98 | [I really am feeling better](https://open.spotify.com/track/2EmYu5EQnSpb2I0nW6hIlw) | [TRSH](https://open.spotify.com/artist/5Sc8WcS3n1oX5iSGlXD2j9) | [I really am feeling better](https://open.spotify.com/album/1C6nIy0zYyRMnEOMBRmh7C) | 2:04 |
 | 99 | [CRIMINAL](https://open.spotify.com/track/4i8U1t123TAsAgwudp0a3X) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [CRIMINAL](https://open.spotify.com/album/6tYOhX9KBCYw780fKofaW5) | 3:47 |
 | 100 | [Dirty Mirror Selfie](https://open.spotify.com/track/0k51vsfx9ard3xN3dXyzQI) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Dirty Mirror Selfie / Where Blue Light Blooms](https://open.spotify.com/album/2l8tR5Q0mToBh2I2U6D0w4) | 3:37 |
 

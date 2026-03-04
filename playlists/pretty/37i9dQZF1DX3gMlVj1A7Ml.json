@@ -1,15 +1,191 @@
 {
-  "description": "Ascult\u0103 la volum maxim vocile feminine din Rom\u00e2nia \u0219i piesele alese de editorii no\u0219tri. Cover: Olivia Addams",
+  "description": "Ascult\u0103 la volum maxim vocile feminine din Rom\u00e2nia \u00eentr-o edi\u021bie special\u0103  co-curat\u0103  de Olivia Addams",
   "num_followers": 4776,
   "original_name": "EQUAL Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPCgU+hv1QkY/0P7E1E1NbL02n8P",
+  "snapshot_id": "AAAAAKk24zyAkySscrcdQVd2kTwq3onf",
   "tracks": [
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
+      "album": {
+        "name": "CROCO",
+        "url": "https://open.spotify.com/album/5ZtZOLqn1enQcfHNJMJ9QH"
+      },
+      "artists": [
+        {
+          "name": "Olivia Addams",
+          "url": "https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "CROCO",
+      "url": "https://open.spotify.com/track/0XOPtbmm2xAAocenNTPzZR"
+    },
+    {
+      "added_at": "2026-03-04 00:10:57",
+      "album": {
+        "name": "Demnitate",
+        "url": "https://open.spotify.com/album/2JvmRP6b0qpkfgBmGiSSTH"
+      },
+      "artists": [
+        {
+          "name": "Bianca Dragomir",
+          "url": "https://open.spotify.com/artist/14pfj6maXAaw34R90e8JXa"
+        }
+      ],
+      "duration_ms": 136310,
+      "name": "Demnitate",
+      "url": "https://open.spotify.com/track/3evYDobK6hRXaZYrAzrfFY"
+    },
+    {
+      "added_at": "2026-03-04 00:10:57",
+      "album": {
+        "name": "OK",
+        "url": "https://open.spotify.com/album/14HudNtPZU8mrbOEJL6KQ0"
+      },
+      "artists": [
+        {
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
+        }
+      ],
+      "duration_ms": 162065,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/4o7Vzr1tJDqQSCr9iqW4KR"
+    },
+    {
+      "added_at": "2026-03-04 00:10:57",
+      "album": {
+        "name": "Dragoste nou\u0103",
+        "url": "https://open.spotify.com/album/5vNFpcjvfKiRrGph2sfUwt"
+      },
+      "artists": [
+        {
+          "name": "Theo Rose",
+          "url": "https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu"
+        }
+      ],
+      "duration_ms": 165906,
+      "name": "Dragoste nou\u0103",
+      "url": "https://open.spotify.com/track/4mffuuMam2bBlx1c4PtfjJ"
+    },
+    {
+      "added_at": "2026-03-04 00:10:57",
+      "album": {
+        "name": "Dac\u0103 mai vrei",
+        "url": "https://open.spotify.com/album/4d5Wj6v6ButVaSwjj7FxNf"
+      },
+      "artists": [
+        {
+          "name": "Alina Eremia",
+          "url": "https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3"
+        }
+      ],
+      "duration_ms": 170602,
+      "name": "Dac\u0103 mai vrei",
+      "url": "https://open.spotify.com/track/5NJzBq5gVZBsSPghS69p4F"
+    },
+    {
+      "added_at": "2026-03-04 00:10:57",
+      "album": {
+        "name": "Iart\u0103-m\u0103 tu",
+        "url": "https://open.spotify.com/album/3BI64v9lDACUfRidxNPynn"
+      },
+      "artists": [
+        {
+          "name": "JO",
+          "url": "https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP"
+        }
+      ],
+      "duration_ms": 173469,
+      "name": "Iart\u0103-m\u0103 tu",
+      "url": "https://open.spotify.com/track/0RKB0DezMhni9wvfMyd4P8"
+    },
+    {
+      "added_at": "2026-03-04 00:10:57",
+      "album": {
+        "name": "Drama Mama",
+        "url": "https://open.spotify.com/album/661autQdGZS96UlSG7fuyo"
+      },
+      "artists": [
+        {
+          "name": "Feli",
+          "url": "https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX"
+        }
+      ],
+      "duration_ms": 170769,
+      "name": "Drama Mama",
+      "url": "https://open.spotify.com/track/23Sg5f0tFLRsAFGwDmZ5Bj"
+    },
+    {
+      "added_at": "2026-03-04 00:10:57",
+      "album": {
+        "name": "Ultimul revers",
+        "url": "https://open.spotify.com/album/7kbfPZabPdRK0HOCPsyY8o"
+      },
+      "artists": [
+        {
+          "name": "Andia",
+          "url": "https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn"
+        }
+      ],
+      "duration_ms": 217142,
+      "name": "Ultimul revers",
+      "url": "https://open.spotify.com/track/7kX0Y7zJB8jfZz7KsNgVDg"
+    },
+    {
+      "added_at": "2026-03-04 00:10:57",
+      "album": {
+        "name": "YO",
+        "url": "https://open.spotify.com/album/50GbkfhYBg6Kwvh9vUDXsG"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 168571,
+      "name": "Si, Mama",
+      "url": "https://open.spotify.com/track/0aW8uplfnwJdNWeeHhfpxt"
+    },
+    {
+      "added_at": "2026-03-04 00:10:57",
+      "album": {
+        "name": "Era Era",
+        "url": "https://open.spotify.com/album/1buwRQ2gDx09g4xFW4ZxEq"
+      },
+      "artists": [
+        {
+          "name": "Raluka",
+          "url": "https://open.spotify.com/artist/4HLg5QDhyfOhneoTO9Id5U"
+        }
+      ],
+      "duration_ms": 150882,
+      "name": "Era Era",
+      "url": "https://open.spotify.com/track/6g6GWllSGfq78lyKJ1K4lO"
+    },
+    {
+      "added_at": "2026-03-04 00:10:57",
+      "album": {
+        "name": "Cancan & Business",
+        "url": "https://open.spotify.com/album/2nlv6l9LebkZCw0uGlWdEY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Addams",
+          "url": "https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn"
+        }
+      ],
+      "duration_ms": 146470,
+      "name": "Cancan & Business",
+      "url": "https://open.spotify.com/track/7k8MaJlKKJbWfb6x1nwtkv"
+    },
+    {
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "Noaptea",
         "url": "https://open.spotify.com/album/0UmWqIkPaJp3vmURbUY45n"
@@ -25,7 +201,7 @@
       "url": "https://open.spotify.com/track/3oXWlk7N7M6pOq2BkMBUZc"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "Dorul T\u0103u",
         "url": "https://open.spotify.com/album/6C7mcbyGwGq4z98bcJrpDQ"
@@ -41,7 +217,7 @@
       "url": "https://open.spotify.com/track/1Bd1WLbZlCFA5z7hKMyE0v"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "Suflete pereche",
         "url": "https://open.spotify.com/album/5tydu3s8AO0FKSMNTZWza5"
@@ -57,7 +233,7 @@
       "url": "https://open.spotify.com/track/6yUJDEJYVmdVPIzWLrXirM"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "Gara de mai",
         "url": "https://open.spotify.com/album/2Dpk99j3SDq4OoHRUFH030"
@@ -77,7 +253,7 @@
       "url": "https://open.spotify.com/track/6NPyN7FLRjINX33PYKf9oY"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "Fetele",
         "url": "https://open.spotify.com/album/6aOkXwpUHOqYspALjTo8hi"
@@ -93,7 +269,7 @@
       "url": "https://open.spotify.com/track/01dskVthVC6P6n91zJpZky"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "Am r\u0103mas",
         "url": "https://open.spotify.com/album/6OqCIdbGGMBzEjSKaxmg2t"
@@ -113,23 +289,7 @@
       "url": "https://open.spotify.com/track/0Rj4gMiLimPOpM8lgIsfWI"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
-      "album": {
-        "name": "Dac\u0103 mai vrei",
-        "url": "https://open.spotify.com/album/4d5Wj6v6ButVaSwjj7FxNf"
-      },
-      "artists": [
-        {
-          "name": "Alina Eremia",
-          "url": "https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3"
-        }
-      ],
-      "duration_ms": 170602,
-      "name": "Dac\u0103 mai vrei",
-      "url": "https://open.spotify.com/track/5NJzBq5gVZBsSPghS69p4F"
-    },
-    {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "C\u00e2te pietre ai aruncat",
         "url": "https://open.spotify.com/album/6G2axtVpnFP3v4OJNgzpLc"
@@ -149,23 +309,7 @@
       "url": "https://open.spotify.com/track/1K2wJdw9otKH4wwoFCO6DD"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
-      "album": {
-        "name": "Cancan & Business",
-        "url": "https://open.spotify.com/album/2nlv6l9LebkZCw0uGlWdEY"
-      },
-      "artists": [
-        {
-          "name": "Olivia Addams",
-          "url": "https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn"
-        }
-      ],
-      "duration_ms": 146470,
-      "name": "Cancan & Business",
-      "url": "https://open.spotify.com/track/7k8MaJlKKJbWfb6x1nwtkv"
-    },
-    {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "Zile de uitat",
         "url": "https://open.spotify.com/album/609wk3WAHW5aljliFAyDfY"
@@ -181,7 +325,7 @@
       "url": "https://open.spotify.com/track/57VJ1QBBboaKDz6tlOGB2D"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "Melo",
         "url": "https://open.spotify.com/album/15ZsSS5be5MjnfhJVrijH4"
@@ -197,7 +341,7 @@
       "url": "https://open.spotify.com/track/1kIa3QF0yfnvYofyqJacAq"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "Ultima oar\u0103",
         "url": "https://open.spotify.com/album/1hnX5NcdRogQrm1WkUe2uj"
@@ -213,7 +357,7 @@
       "url": "https://open.spotify.com/track/4XAiWiapWbDubqlYfyFZUz"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "\u00cenc\u0103 o zi",
         "url": "https://open.spotify.com/album/6XvaQ0wonHsELnxGjLkrDq"
@@ -233,7 +377,7 @@
       "url": "https://open.spotify.com/track/3aaD3yme3ovBo4otlqtCjJ"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "Whine It",
         "url": "https://open.spotify.com/album/4MGQye2ZLZeuIt9Qeoy5Jc"
@@ -253,7 +397,7 @@
       "url": "https://open.spotify.com/track/314l8Q7zwxFcgBp3vBP14X"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "La necuprins",
         "url": "https://open.spotify.com/album/2pLiS1qX7fksK0QXBzc4E7"
@@ -269,7 +413,7 @@
       "url": "https://open.spotify.com/track/6oKdwviBrQJOdvRYOLhT2Y"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "Vodka sec",
         "url": "https://open.spotify.com/album/5HnC59M3laV9XqVyjUg0t0"
@@ -285,7 +429,7 @@
       "url": "https://open.spotify.com/track/1giJYHtTwLeADsdnWwsDVl"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "Vasilache",
         "url": "https://open.spotify.com/album/6lSavIKb2hB4fpZRWPWmFV"
@@ -309,7 +453,7 @@
       "url": "https://open.spotify.com/track/5vT41B8rrt3qm2fsdTZBgs"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "Ochii Tai",
         "url": "https://open.spotify.com/album/5MLWXQRqatK6QLw5rWZLDa"
@@ -329,7 +473,7 @@
       "url": "https://open.spotify.com/track/33DckBA3AMs1bkYEYdrMEh"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "Dans\u0103m",
         "url": "https://open.spotify.com/album/1s6IGUxkGvDT58Fqot4lwX"
@@ -345,23 +489,7 @@
       "url": "https://open.spotify.com/track/7r93tDwB4wgchV9mnTtzJD"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
-      "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/14HudNtPZU8mrbOEJL6KQ0"
-      },
-      "artists": [
-        {
-          "name": "Erika Isac",
-          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
-        }
-      ],
-      "duration_ms": 162065,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/4o7Vzr1tJDqQSCr9iqW4KR"
-    },
-    {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "Imnul celor care au iubit (Radio Edit)",
         "url": "https://open.spotify.com/album/0auUpQjTSDr5ACY3FJPdF3"
@@ -377,7 +505,7 @@
       "url": "https://open.spotify.com/track/4pKatZBvYlb9OOsOYvklUe"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "Cas\u0103 de nebuni",
         "url": "https://open.spotify.com/album/1jfvAMJCheBoQuGgh7UTWt"
@@ -397,7 +525,7 @@
       "url": "https://open.spotify.com/track/78sgt7C8ZcfPljikN1kZHB"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "Du-m\u0103 la munte",
         "url": "https://open.spotify.com/album/5e1dTzsb0WTLvB24UHOsJd"
@@ -413,7 +541,7 @@
       "url": "https://open.spotify.com/track/0rfW3FhbT6sBivfuCZvmMH"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "Acelasi aer",
         "url": "https://open.spotify.com/album/6wtUJwPXEOSNcqNxHxPDmq"
@@ -429,7 +557,7 @@
       "url": "https://open.spotify.com/track/6ZykIU0hW5gFZmCs1cAOnn"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "Flori In Decembrie",
         "url": "https://open.spotify.com/album/4rcotOW8FtqVlsYiBV00GT"
@@ -445,7 +573,7 @@
       "url": "https://open.spotify.com/track/154OMN2xW8NlAUuRCBIn5k"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "Fata lui tata",
         "url": "https://open.spotify.com/album/5drNi2WrMpHvwgL6qdOoso"
@@ -461,7 +589,7 @@
       "url": "https://open.spotify.com/track/3zklCCf9ZLDeHngGnjQtby"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "Marturisire",
         "url": "https://open.spotify.com/album/5PYVKHiffBth89h2Jo26oY"
@@ -477,7 +605,7 @@
       "url": "https://open.spotify.com/track/4esMSqoet8MaVNb0tRKpqf"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "Mixed Feelings",
         "url": "https://open.spotify.com/album/6P21kzrMNOGSULxDw47nXD"
@@ -497,7 +625,7 @@
       "url": "https://open.spotify.com/track/7C8OBP3RyIy9458F2T0FFe"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "Fatata",
         "url": "https://open.spotify.com/album/0fZAUWaoMXuU2LrYcuhAai"
@@ -513,7 +641,7 @@
       "url": "https://open.spotify.com/track/3ls661sTdqUSZW0mxPejA5"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "6 Sim\u021buri",
         "url": "https://open.spotify.com/album/4DQqn3Pl8tKNiuDv8kbfB6"
@@ -529,7 +657,7 @@
       "url": "https://open.spotify.com/track/1buiIaSSMetSAW3guTSRFO"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "Money ($$$)",
         "url": "https://open.spotify.com/album/3roGPtdBmm6NqDXSFcfSfV"
@@ -545,7 +673,7 @@
       "url": "https://open.spotify.com/track/4ufyl0Cld1502X81sHKRAG"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "Gr\u0103dina Vie",
         "url": "https://open.spotify.com/album/3Xn9MTIWATBNw9o7aUkAh2"
@@ -561,7 +689,7 @@
       "url": "https://open.spotify.com/track/2SQiRVAPQ3ILJenzCSojI7"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "MILIONARA",
         "url": "https://open.spotify.com/album/64RZz2vbwB3gWsV7dzbBOf"
@@ -581,7 +709,7 @@
       "url": "https://open.spotify.com/track/3ShYgHS6W8wUmfNG9Iwbj7"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "SINCER",
         "url": "https://open.spotify.com/album/2AtdWvCsPgnaCZG5qmUh1v"
@@ -601,7 +729,7 @@
       "url": "https://open.spotify.com/track/7auWZyaRX0xDIivAtNBmLP"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "M\u00e2inile",
         "url": "https://open.spotify.com/album/2DF4lqHTnPUQl2C0bEQXnl"
@@ -617,7 +745,7 @@
       "url": "https://open.spotify.com/track/3800i4uUPQ0TousOW9Kw9f"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "Unde",
         "url": "https://open.spotify.com/album/30fkdwBfIRkos0IbQBP5At"
@@ -637,7 +765,7 @@
       "url": "https://open.spotify.com/track/2tAAqmZsLFYZjFS2Lw5C8v"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "Promit",
         "url": "https://open.spotify.com/album/4VtqZXZ9G9nUEqss5iyXhF"
@@ -653,7 +781,7 @@
       "url": "https://open.spotify.com/track/26Fq1aXqLwms2j59ENy5Hk"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "Armonie",
         "url": "https://open.spotify.com/album/5X7hOXLQZaakl86eP0xP3y"
@@ -669,7 +797,7 @@
       "url": "https://open.spotify.com/track/7g3bmahJcowE9F5gKefLFz"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "Red Flag",
         "url": "https://open.spotify.com/album/06Vq3jgojYIxrG8pfuZgqb"
@@ -685,7 +813,7 @@
       "url": "https://open.spotify.com/track/4oi4v63lDDiyKJTPMHOwma"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "Du-Te Vino",
         "url": "https://open.spotify.com/album/4nL5wrx9SBDmHLtBCbtqrs"
@@ -701,7 +829,7 @@
       "url": "https://open.spotify.com/track/7lwCB0zM1t5yLRSJDedtLA"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "What If",
         "url": "https://open.spotify.com/album/0iOqcYf1KBWPxgSioH7ehp"
@@ -717,39 +845,7 @@
       "url": "https://open.spotify.com/track/1nimM6xB8Wi03bT8BaK0jS"
     },
     {
-      "added_at": "2026-02-03 22:00:05",
-      "album": {
-        "name": "Poate",
-        "url": "https://open.spotify.com/album/27iOpF43g5EboHsuvKYzyB"
-      },
-      "artists": [
-        {
-          "name": "Iuliana Beregoi",
-          "url": "https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "Poate",
-      "url": "https://open.spotify.com/track/6kJA7pcwujyeYab8jb8t4r"
-    },
-    {
-      "added_at": "2026-02-03 22:00:05",
-      "album": {
-        "name": "Meant To Be",
-        "url": "https://open.spotify.com/album/2Bq3cyJJPLls6GdU1gMIME"
-      },
-      "artists": [
-        {
-          "name": "Yuka",
-          "url": "https://open.spotify.com/artist/7gbyIZTuQcuqIrDVAzBOb2"
-        }
-      ],
-      "duration_ms": 176875,
-      "name": "Meant To Be",
-      "url": "https://open.spotify.com/track/18HeGGtgk0qYqKwhvG36vg"
-    },
-    {
-      "added_at": "2026-02-03 22:00:05",
+      "added_at": "2026-03-04 00:10:57",
       "album": {
         "name": "Soare \u0218i P\u0103m\u00e2nt",
         "url": "https://open.spotify.com/album/2pJAxc2z18eH7DhDc5VHjP"
@@ -767,102 +863,6 @@
       "duration_ms": 175609,
       "name": "Soare \u0218i P\u0103m\u00e2nt",
       "url": "https://open.spotify.com/track/1OHc8xwgXlYUKCYWqtru4r"
-    },
-    {
-      "added_at": "2026-02-03 22:00:05",
-      "album": {
-        "name": "Cine Are",
-        "url": "https://open.spotify.com/album/4MAlOSU21ZW3uoVCSRMF0A"
-      },
-      "artists": [
-        {
-          "name": "Tania Turtureanu",
-          "url": "https://open.spotify.com/artist/74ZQ7MCBPLLsG0jHpddrai"
-        }
-      ],
-      "duration_ms": 198500,
-      "name": "Cine Are",
-      "url": "https://open.spotify.com/track/7KJKB9QLrdomMvtQdsPN2C"
-    },
-    {
-      "added_at": "2026-02-03 22:00:05",
-      "album": {
-        "name": "Monalisa",
-        "url": "https://open.spotify.com/album/73nfd3r1jiE8tcmq0Jhst5"
-      },
-      "artists": [
-        {
-          "name": "Ruby",
-          "url": "https://open.spotify.com/artist/1kpfvsGkNIdxTAnTRnsKLK"
-        }
-      ],
-      "duration_ms": 164147,
-      "name": "Monalisa",
-      "url": "https://open.spotify.com/track/2ksERr8786166bqdiSEU5z"
-    },
-    {
-      "added_at": "2026-02-03 22:00:05",
-      "album": {
-        "name": "La semafor",
-        "url": "https://open.spotify.com/album/7dqOAfUrsGysJsYJheA2zP"
-      },
-      "artists": [
-        {
-          "name": "Thianna",
-          "url": "https://open.spotify.com/artist/53N39IfWFDLGSiz7dv9pRT"
-        }
-      ],
-      "duration_ms": 210149,
-      "name": "La semafor",
-      "url": "https://open.spotify.com/track/7KvsCdQg0jZzD7N70Pt2eX"
-    },
-    {
-      "added_at": "2026-02-03 22:00:05",
-      "album": {
-        "name": "Leg\u0103m\u00e2nt",
-        "url": "https://open.spotify.com/album/2X2ORP5YCBbnSRCtRPD3aK"
-      },
-      "artists": [
-        {
-          "name": "Pia Ioana",
-          "url": "https://open.spotify.com/artist/40Z9QCPZ3HmGwbZu27Kd5M"
-        }
-      ],
-      "duration_ms": 174967,
-      "name": "Leg\u0103m\u00e2nt",
-      "url": "https://open.spotify.com/track/4KBSaHz0P5yLvYNz80vOFg"
-    },
-    {
-      "added_at": "2026-02-03 22:00:05",
-      "album": {
-        "name": "S\u0103rmana turturic\u0103",
-        "url": "https://open.spotify.com/album/4YmqXjYIHhBtvmBUeNsoss"
-      },
-      "artists": [
-        {
-          "name": "Aura \u0218ova",
-          "url": "https://open.spotify.com/artist/0fHzT5o6dGwn1nm1kMjVSG"
-        }
-      ],
-      "duration_ms": 260392,
-      "name": "S\u0103rmana turturic\u0103",
-      "url": "https://open.spotify.com/track/2hxWyXagXNgcYfYiTkI0T6"
-    },
-    {
-      "added_at": "2026-02-03 22:00:05",
-      "album": {
-        "name": "Fricile tale",
-        "url": "https://open.spotify.com/album/5ZacYYDztAiu5RZLsIiQ0x"
-      },
-      "artists": [
-        {
-          "name": "IRAIDA",
-          "url": "https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov"
-        }
-      ],
-      "duration_ms": 245393,
-      "name": "Fricile tale",
-      "url": "https://open.spotify.com/track/0cpJ4uF77qKnSayUiO8q9V"
     }
   ],
   "unique_name": "EQUAL Rom\u00e2nia",

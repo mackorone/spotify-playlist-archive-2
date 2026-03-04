@@ -2055,24 +2055,6 @@
     },
     {
       "album": {
-        "name": "Allah Ya Allahu",
-        "url": "https://open.spotify.com/album/49wyBw8rVk9fwQjvZM8EUT"
-      },
-      "artists": [
-        {
-          "name": "Maher Zain",
-          "url": "https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz"
-        }
-      ],
-      "date_added": "2026-02-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 218110,
-      "name": "Allah Ya Allahu",
-      "url": "https://open.spotify.com/track/29qaPgFuhI47F0zowk9ipP"
-    },
-    {
-      "album": {
         "name": "Allah Ya Maulana",
         "url": "https://open.spotify.com/album/2AeQw3LRLJsTYHtxKJBcEi"
       },
@@ -2088,6 +2070,24 @@
       "duration_ms": 239250,
       "name": "Allah Ya Maulana",
       "url": "https://open.spotify.com/track/3FtaWA7t5LMUdMKb0DGjTm"
+    },
+    {
+      "album": {
+        "name": "Allah Ya Allahu",
+        "url": "https://open.spotify.com/album/49wyBw8rVk9fwQjvZM8EUT"
+      },
+      "artists": [
+        {
+          "name": "Maher Zain",
+          "url": "https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218110,
+      "name": "Allahu Ya Allahu",
+      "url": "https://open.spotify.com/track/29qaPgFuhI47F0zowk9ipP"
     },
     {
       "album": {

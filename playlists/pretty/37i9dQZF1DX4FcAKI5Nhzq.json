@@ -1,47 +1,15 @@
 {
   "description": "Future K-Pop hits! (Cover: \uc6b0\uc8fc\uc18c\ub140 (WJSN))",
-  "num_followers": 884859,
+  "num_followers": 884883,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIBY9T/8dzWuWzZXEJrfQ3SQkNAb",
+  "snapshot_id": "AAAAAPJjTtCsFljqhDLJIY/4pbbUZE36",
   "tracks": [
     {
-      "added_at": "2026-02-27 09:00:10",
-      "album": {
-        "name": "Bloom hour",
-        "url": "https://open.spotify.com/album/3Jgic38bRcv9eiunNaxv3z"
-      },
-      "artists": [
-        {
-          "name": "WJSN",
-          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Bloom hour",
-      "url": "https://open.spotify.com/track/0sTy2p3PUkU55Hda1rAiFq"
-    },
-    {
-      "added_at": "2026-02-27 09:00:10",
-      "album": {
-        "name": "DEADLINE",
-        "url": "https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 172346,
-      "name": "Me and my",
-      "url": "https://open.spotify.com/track/55IDP7dpiWdb2XhG6BaHtL"
-    },
-    {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "RUDE!",
         "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
@@ -57,39 +25,7 @@
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
-      "album": {
-        "name": "BOTH SIDES - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/6bRPrpiUj5AFPkJLcIfMQh"
-      },
-      "artists": [
-        {
-          "name": "NCT JNJM",
-          "url": "https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H"
-        }
-      ],
-      "duration_ms": 171600,
-      "name": "BOTH SIDES",
-      "url": "https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK"
-    },
-    {
-      "added_at": "2026-02-27 09:00:10",
-      "album": {
-        "name": "Webtoon 'Return of the Blossoming Blade' Part.5 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4TBlwestyArrRwPgL2ZtIE"
-      },
-      "artists": [
-        {
-          "name": "DOKYEOM",
-          "url": "https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Never Losing",
-      "url": "https://open.spotify.com/track/3b0Bxz2ZxN8aYUAnNCnXqT"
-    },
-    {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "DEADLINE",
         "url": "https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx"
@@ -105,7 +41,179 @@
       "url": "https://open.spotify.com/track/2YUoX58zywC6rqFPOUNOiq"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
+      "album": {
+        "name": "Bloom hour",
+        "url": "https://open.spotify.com/album/3Jgic38bRcv9eiunNaxv3z"
+      },
+      "artists": [
+        {
+          "name": "WJSN",
+          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Bloom hour",
+      "url": "https://open.spotify.com/track/0sTy2p3PUkU55Hda1rAiFq"
+    },
+    {
+      "added_at": "2026-03-03 09:16:56",
+      "album": {
+        "name": "BUZZIN (Feat. Coogie, GRAY)",
+        "url": "https://open.spotify.com/album/2kutfq6QtMm6ZYyF6QktXd"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "duration_ms": 176371,
+      "name": "BUZZIN (Feat. Coogie, GRAY)",
+      "url": "https://open.spotify.com/track/2xaQzu6vkA5SUNrJUTFuJI"
+    },
+    {
+      "added_at": "2026-03-03 09:16:56",
+      "album": {
+        "name": "CODE",
+        "url": "https://open.spotify.com/album/6ppaIu8fzPJZZjdLPKKSTt"
+      },
+      "artists": [
+        {
+          "name": "EVERGLOW",
+          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "CODE",
+      "url": "https://open.spotify.com/track/00bnKgDRZxvwpnWDJg7Por"
+    },
+    {
+      "added_at": "2026-03-03 09:16:56",
+      "album": {
+        "name": "DEADLINE",
+        "url": "https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 172346,
+      "name": "Me and my",
+      "url": "https://open.spotify.com/track/55IDP7dpiWdb2XhG6BaHtL"
+    },
+    {
+      "added_at": "2026-03-03 09:16:56",
+      "album": {
+        "name": "ROBOT",
+        "url": "https://open.spotify.com/album/4zCZWD1lipGUoRwX9ptXET"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "ROBOT",
+      "url": "https://open.spotify.com/track/7KZPGcJo38YV1pIHCSOZh9"
+    },
+    {
+      "added_at": "2026-03-03 09:16:56",
+      "album": {
+        "name": "ChoCo La Familia",
+        "url": "https://open.spotify.com/album/1hmIzxtNhUckTodNrNc9C8"
+      },
+      "artists": [
+        {
+          "name": "ChoCo1",
+          "url": "https://open.spotify.com/artist/48ZmNBITUcYWmWZqoaIEAi"
+        },
+        {
+          "name": "ChoCo2",
+          "url": "https://open.spotify.com/artist/479LeQR94Is2uPXyljxis8"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "GIMME",
+      "url": "https://open.spotify.com/track/08lCl7trHavgnghm8JwvN7"
+    },
+    {
+      "added_at": "2026-03-03 09:16:56",
+      "album": {
+        "name": "BOTH SIDES - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6bRPrpiUj5AFPkJLcIfMQh"
+      },
+      "artists": [
+        {
+          "name": "NCT JNJM",
+          "url": "https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H"
+        }
+      ],
+      "duration_ms": 171600,
+      "name": "BOTH SIDES",
+      "url": "https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK"
+    },
+    {
+      "added_at": "2026-03-03 09:16:56",
+      "album": {
+        "name": "OFF THE MAP",
+        "url": "https://open.spotify.com/album/5UddYZEfHNUCra18jeZtUU"
+      },
+      "artists": [
+        {
+          "name": "Kim Sung Kyu",
+          "url": "https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "When I think about you",
+      "url": "https://open.spotify.com/track/09jyHsIH2M6rt3OFyM3hW5"
+    },
+    {
+      "added_at": "2026-03-03 09:16:56",
+      "album": {
+        "name": "Save me",
+        "url": "https://open.spotify.com/album/0RUo3HqDbrgs2AZlpVc616"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "duration_ms": 218732,
+      "name": "Save me",
+      "url": "https://open.spotify.com/track/1EvcZCOORYZn479M1WbGFP"
+    },
+    {
+      "added_at": "2026-03-03 09:16:56",
+      "album": {
+        "name": "Webtoon 'Return of the Blossoming Blade' Part.5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4TBlwestyArrRwPgL2ZtIE"
+      },
+      "artists": [
+        {
+          "name": "DOKYEOM",
+          "url": "https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Never Losing",
+      "url": "https://open.spotify.com/track/3b0Bxz2ZxN8aYUAnNCnXqT"
+    },
+    {
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "IYWO",
         "url": "https://open.spotify.com/album/4ZqHinL6SXK9zokOUUkdDy"
@@ -133,7 +241,7 @@
       "url": "https://open.spotify.com/track/48Ct2tqAYz1hYmhI5mUPUt"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "Hyper",
         "url": "https://open.spotify.com/album/275Rlsp2De6eV7EZlEFv0L"
@@ -149,23 +257,7 @@
       "url": "https://open.spotify.com/track/0UIUWBylHJE3Ab7Dru1dN0"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
-      "album": {
-        "name": "Save me",
-        "url": "https://open.spotify.com/album/0RUo3HqDbrgs2AZlpVc616"
-      },
-      "artists": [
-        {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-        }
-      ],
-      "duration_ms": 218732,
-      "name": "Save me",
-      "url": "https://open.spotify.com/track/1EvcZCOORYZn479M1WbGFP"
-    },
-    {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/7A7x6ZBCK0FaFVN67XEqTJ"
@@ -181,7 +273,7 @@
       "url": "https://open.spotify.com/track/1dSkb6PmAMqq7dMui7iZpb"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "Nice to see you again (Korean Ver.)",
         "url": "https://open.spotify.com/album/5f9A7BAiotThsnwicDQWzf"
@@ -197,7 +289,7 @@
       "url": "https://open.spotify.com/track/1mX9SZZfCeTbetghcrp8Jr"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "JIWOO 1st EP '(EX)IST'",
         "url": "https://open.spotify.com/album/1BtEjWVuWfNpzBJIC4PoAm"
@@ -213,7 +305,7 @@
       "url": "https://open.spotify.com/track/5dCcaQuXndqZd5r6KICHAD"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/6eT4LKo7jWInz7LDS2Jky3"
@@ -229,7 +321,7 @@
       "url": "https://open.spotify.com/track/0a4O30qpS18xaHGS5l1ZCT"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "BOYNEXTDOOR TOUR \u2018KNOCK ON Vol.1\u2019 FINAL (LIVE)",
         "url": "https://open.spotify.com/album/4ToqvVUbHU1bJNNmkJSkLK"
@@ -245,7 +337,7 @@
       "url": "https://open.spotify.com/track/7rf1HYMl0ZjPLO8HbWbc7a"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "RE-FLOW",
         "url": "https://open.spotify.com/album/2IhQYBuoaZmcXRQJqwFGQg"
@@ -261,7 +353,7 @@
       "url": "https://open.spotify.com/track/7xbNUUy1y3zNqvp65TXaa9"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "GOLDEN HOUR : Part.4",
         "url": "https://open.spotify.com/album/1FBxW4I6azDVjGallQ4wQk"
@@ -277,7 +369,7 @@
       "url": "https://open.spotify.com/track/2VKGO4DNyUK5UxCQB3b3DF"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "VISA / Pilot3",
         "url": "https://open.spotify.com/album/7BYBKfbZxXgJkZ82GYp3MI"
@@ -293,7 +385,7 @@
       "url": "https://open.spotify.com/track/3rLQaj0aIBRBEsSwHGY0HP"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "Mono (Feat. skaiwater)",
         "url": "https://open.spotify.com/album/5DxK3xKAeE2h66JGxZYKAC"
@@ -313,7 +405,7 @@
       "url": "https://open.spotify.com/track/2KYKOG5dNgY4sZHWf5hr3g"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "WHY U MAD",
         "url": "https://open.spotify.com/album/7pYqeQfT7oGXkOvMPNlDFl"
@@ -329,7 +421,7 @@
       "url": "https://open.spotify.com/track/1xUgcg8UoxZojDvVdE2CqZ"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "Spring Fever, Pt. 7 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3EhkvrtYTudwpxtOnxvWuW"
@@ -345,7 +437,7 @@
       "url": "https://open.spotify.com/track/2AId5fDE2y1UUbagfZVzIQ"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "DIMOLLY",
         "url": "https://open.spotify.com/album/11IhqaVXyrWbOOGh0JbZBV"
@@ -365,7 +457,7 @@
       "url": "https://open.spotify.com/track/3YSNoXuS7ZV4vpl9KIvA3p"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "cloud palace ~ false awakening",
         "url": "https://open.spotify.com/album/5tWqAvfjjRelNvWFNrV8hK"
@@ -381,7 +473,7 @@
       "url": "https://open.spotify.com/track/1dsuEyZ0ZPgL7Z1HAaFSek"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "A Minute, A Second",
         "url": "https://open.spotify.com/album/72jVNugN4j3KraXGzGEki2"
@@ -397,7 +489,7 @@
       "url": "https://open.spotify.com/track/5QB4UqWDiTnKdmW4QXHj70"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "Delulu Pack",
         "url": "https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc"
@@ -413,7 +505,7 @@
       "url": "https://open.spotify.com/track/5KCIrYoBUmQbW2FBoOL4Q0"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "SHOT CALLERS",
         "url": "https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR"
@@ -429,7 +521,7 @@
       "url": "https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "EUPHORIA",
         "url": "https://open.spotify.com/album/5nefAD1EsXbLksNfBJorPV"
@@ -445,7 +537,7 @@
       "url": "https://open.spotify.com/track/44V5j1NOwRWBV8krmLnr4J"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "The 3rd Digital Single BRUISE",
         "url": "https://open.spotify.com/album/0Hnt6Uo4wPdBvh0Yb4oSrI"
@@ -461,7 +553,7 @@
       "url": "https://open.spotify.com/track/5eYhUukI5PVCqSLOmO8Idq"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "Delulu Pack",
         "url": "https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc"
@@ -477,7 +569,7 @@
       "url": "https://open.spotify.com/track/1rEa59P5yEal5cp1h7kl2e"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "white spring",
         "url": "https://open.spotify.com/album/2MEB999yzrd3rNghmvCkwl"
@@ -493,7 +585,7 @@
       "url": "https://open.spotify.com/track/3eNaNlSXrOg7aOwtIwtxZk"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "From KickFlip, To WeFlip",
         "url": "https://open.spotify.com/album/4r8i0J0WZXhzbmy9wwTAxp"
@@ -509,7 +601,7 @@
       "url": "https://open.spotify.com/track/064sWTOPij4bxEHfdhejwU"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "Yin and Yang",
         "url": "https://open.spotify.com/album/4wEyDGNGZUVetM252x1D5W"
@@ -529,7 +621,7 @@
       "url": "https://open.spotify.com/track/6CyRYi1FXygOyejKcfZeJI"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "REVERXE - The 8th Album",
         "url": "https://open.spotify.com/album/4ZXDMoZKLnkxFyqRGmCLnB"
@@ -545,7 +637,7 @@
       "url": "https://open.spotify.com/track/4iu11uPXYHUJaq5vr9cLwW"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "<yesweare>",
         "url": "https://open.spotify.com/album/79l0iWkT4NjXY2tjqXLfiB"
@@ -561,7 +653,7 @@
       "url": "https://open.spotify.com/track/4Posl8hBAZxPVWguogt3og"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "\u539f",
         "url": "https://open.spotify.com/album/4qTTzaU30PLhLJmD6lLzFm"
@@ -577,7 +669,7 @@
       "url": "https://open.spotify.com/track/69erutIC5E9VFHtDKerTkd"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "Spring Fever, Pt. 5 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0pvUvyCFRyYzFPXLAuZQcN"
@@ -593,7 +685,7 @@
       "url": "https://open.spotify.com/track/0LaFsGJoSqJtrwFeuytslG"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "Amplify My Way",
         "url": "https://open.spotify.com/album/7IuDZgFQceNCdHLYNUGCZD"
@@ -609,7 +701,7 @@
       "url": "https://open.spotify.com/track/0V32dVXNkIfrRrenhbR0Sz"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "PROJECT Y (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4HLnILjc1zwccMoJrOMogI"
@@ -625,7 +717,7 @@
       "url": "https://open.spotify.com/track/7JyBsepDr7NTZsAjgQ2Cvc"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "Running to Future",
         "url": "https://open.spotify.com/album/26SNqrN1ngsW5AaLpcgkEa"
@@ -641,7 +733,7 @@
       "url": "https://open.spotify.com/track/6tn8DOizEPVGwqgqdXsYYN"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "Tell The World",
         "url": "https://open.spotify.com/album/0w7ETi7NIxWTwJYUmHwmGG"
@@ -657,7 +749,7 @@
       "url": "https://open.spotify.com/track/4Por0pRb3LvDDlLuQxXEfM"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "XO, My Cyberlove",
         "url": "https://open.spotify.com/album/2sVppxhqMC6qFOp1Xxvy8Q"
@@ -673,7 +765,7 @@
       "url": "https://open.spotify.com/track/4fr8jAAeEw8CehOFoBdjqL"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "It Was Love",
         "url": "https://open.spotify.com/album/2qjvoVAffzOULgzu8b4up5"
@@ -689,7 +781,7 @@
       "url": "https://open.spotify.com/track/0unXYualX4sq5hwTXd6mFD"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "\u5149 (INSANITY)",
         "url": "https://open.spotify.com/album/7tZx0RBXbIsbrW1UwAH6sy"
@@ -705,7 +797,7 @@
       "url": "https://open.spotify.com/track/1nxQ4sRjDXFAmTs98b20XV"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "Prussian Blue",
         "url": "https://open.spotify.com/album/72ZbIoAzhg0ZRa9GIV2PkD"
@@ -721,7 +813,7 @@
       "url": "https://open.spotify.com/track/2SJeAcqIJA2lSZldU4q27z"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "RE : LOVE",
         "url": "https://open.spotify.com/album/0ILAggqgXT6X1DCOhVuPNJ"
@@ -737,7 +829,7 @@
       "url": "https://open.spotify.com/track/4Byc2Hr86k9zFxaTfDlZvm"
     },
     {
-      "added_at": "2026-02-27 09:00:10",
+      "added_at": "2026-03-03 09:16:56",
       "album": {
         "name": "<yesweare>",
         "url": "https://open.spotify.com/album/11LKBt6oAhxk5h5nEreqgE"
@@ -751,90 +843,6 @@
       "duration_ms": 179000,
       "name": "Pretty Boy Swag",
       "url": "https://open.spotify.com/track/0CAp5YHw319gluaW2uCGJN"
-    },
-    {
-      "added_at": "2026-02-27 09:00:10",
-      "album": {
-        "name": "Not Like a Movie",
-        "url": "https://open.spotify.com/album/1Y8Z3y2TGR69zue7Chb97W"
-      },
-      "artists": [
-        {
-          "name": "H1-KEY",
-          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Not Like a Movie",
-      "url": "https://open.spotify.com/track/1jcg5d5YaYJinVeU5mtR3C"
-    },
-    {
-      "added_at": "2026-02-27 09:00:10",
-      "album": {
-        "name": "The Judge Returns (Original Soundtrack) Part.1",
-        "url": "https://open.spotify.com/album/2hFBUPnDPxI9EqvkoHmxo9"
-      },
-      "artists": [
-        {
-          "name": "CLOSE YOUR EYES",
-          "url": "https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "I GOT IT",
-      "url": "https://open.spotify.com/track/282QVCzwTqA3kghF3NMSqE"
-    },
-    {
-      "added_at": "2026-02-27 09:00:10",
-      "album": {
-        "name": "Internet Girl",
-        "url": "https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 163831,
-      "name": "Internet Girl",
-      "url": "https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7"
-    },
-    {
-      "added_at": "2026-02-27 09:00:10",
-      "album": {
-        "name": "Push (Feat. REI (IVE))",
-        "url": "https://open.spotify.com/album/2pDREulVBTP6wZLvgJgeMl"
-      },
-      "artists": [
-        {
-          "name": "JOOHONEY",
-          "url": "https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k"
-        },
-        {
-          "name": "REI (IVE)",
-          "url": "https://open.spotify.com/artist/5s3Ys2jpFZD2t4bivtHG2q"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Push (Feat. REI (IVE))",
-      "url": "https://open.spotify.com/track/1eGtmqQDQr3KhtIV1MvkgQ"
-    },
-    {
-      "added_at": "2026-02-27 09:00:10",
-      "album": {
-        "name": "&Our Vibe",
-        "url": "https://open.spotify.com/album/52f4wYBg1SDSaMMwZ5u3OF"
-      },
-      "artists": [
-        {
-          "name": "SAY MY NAME",
-          "url": "https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "UFO (ATTENT!ON)",
-      "url": "https://open.spotify.com/track/0u5b93C2mDGVfCsMGCdH6T"
     }
   ],
   "unique_name": "K-Pop Rising",

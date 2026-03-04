@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 175988,
+  "num_followers": 176001,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -891,6 +891,26 @@
     {
       "added_at": "2026-02-27 05:00:29",
       "album": {
+        "name": "Sounds Like Something I'd Say (Acoustic)",
+        "url": "https://open.spotify.com/album/66pm2X8619J4LIu2cG8aXD"
+      },
+      "artists": [
+        {
+          "name": "Kassi Ashton",
+          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
+        },
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 196216,
+      "name": "Sounds Like Something I'd Say - Acoustic",
+      "url": "https://open.spotify.com/track/65IMy9SoKAWvozEuXLEoxR"
+    },
+    {
+      "added_at": "2026-02-27 05:00:29",
+      "album": {
         "name": "We Got History (Acoustic)",
         "url": "https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa"
       },
@@ -971,6 +991,22 @@
     {
       "added_at": "2026-02-27 05:00:29",
       "album": {
+        "name": "What He Didn't Do (Acoustic)",
+        "url": "https://open.spotify.com/album/59dYMGSh4qPQ9X0tvsTAG9"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 189555,
+      "name": "What He Didn't Do - Acoustic",
+      "url": "https://open.spotify.com/track/5Jvc5wJuQOBrRxV5JgGgSX"
+    },
+    {
+      "added_at": "2026-02-27 05:00:29",
+      "album": {
         "name": "Bluebird (Acoustic)",
         "url": "https://open.spotify.com/album/3ZYGeA6u23IIgrUtT8U3OB"
       },
@@ -987,18 +1023,18 @@
     {
       "added_at": "2026-02-27 05:00:29",
       "album": {
-        "name": "What He Didn't Do (Acoustic)",
-        "url": "https://open.spotify.com/album/59dYMGSh4qPQ9X0tvsTAG9"
+        "name": "You For A Reason (Stripped)",
+        "url": "https://open.spotify.com/album/0DaAQTLuhbDvVFtqulgG1N"
       },
       "artists": [
         {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 189555,
-      "name": "What He Didn't Do - Acoustic",
-      "url": "https://open.spotify.com/track/5Jvc5wJuQOBrRxV5JgGgSX"
+      "duration_ms": 182843,
+      "name": "You For A Reason - Stripped",
+      "url": "https://open.spotify.com/track/6yUnirR9J0haRtyziEujVR"
     },
     {
       "added_at": "2026-02-27 05:00:29",
@@ -1023,22 +1059,6 @@
     {
       "added_at": "2026-02-27 05:00:29",
       "album": {
-        "name": "You For A Reason (Stripped)",
-        "url": "https://open.spotify.com/album/0DaAQTLuhbDvVFtqulgG1N"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 182843,
-      "name": "You For A Reason - Stripped",
-      "url": "https://open.spotify.com/track/6yUnirR9J0haRtyziEujVR"
-    },
-    {
-      "added_at": "2026-02-27 05:00:29",
-      "album": {
         "name": "Narcissist (Piano Version)",
         "url": "https://open.spotify.com/album/4EyKXSLJRmGc4BpHyKCvsR"
       },
@@ -1055,22 +1075,18 @@
     {
       "added_at": "2026-02-27 05:00:29",
       "album": {
-        "name": "Sounds Like Something I'd Say (Acoustic)",
-        "url": "https://open.spotify.com/album/66pm2X8619J4LIu2cG8aXD"
+        "name": "You Don\u2019t Want That Smoke. (The Acoustic Version.)",
+        "url": "https://open.spotify.com/album/37YaXtCWpAZoQ3qxrvmu3D"
       },
       "artists": [
         {
-          "name": "Kassi Ashton",
-          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
-        },
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 196216,
-      "name": "Sounds Like Something I'd Say - Acoustic",
-      "url": "https://open.spotify.com/track/65IMy9SoKAWvozEuXLEoxR"
+      "duration_ms": 200506,
+      "name": "You Don't Want That Smoke. - The Acoustic Version.",
+      "url": "https://open.spotify.com/track/2Ca9OSwJhhxO8HbsnTTsqu"
     },
     {
       "added_at": "2026-02-27 05:00:29",
@@ -1087,22 +1103,6 @@
       "duration_ms": 171188,
       "name": "Another - Wedding Version",
       "url": "https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK"
-    },
-    {
-      "added_at": "2026-02-27 05:00:29",
-      "album": {
-        "name": "You Don\u2019t Want That Smoke. (The Acoustic Version.)",
-        "url": "https://open.spotify.com/album/37YaXtCWpAZoQ3qxrvmu3D"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 200506,
-      "name": "You Don't Want That Smoke. - The Acoustic Version.",
-      "url": "https://open.spotify.com/track/2Ca9OSwJhhxO8HbsnTTsqu"
     },
     {
       "added_at": "2026-02-27 05:00:29",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-02-27 05:00:29",
       "album": {
-        "name": "Love The Lonely Out Of You (Live Pinebox Version)",
-        "url": "https://open.spotify.com/album/7EpjY7yUKLmugTK4dbZVOp"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 329053,
-      "name": "Love The Lonely Out Of You - Live Pinebox Version",
-      "url": "https://open.spotify.com/track/1RTfd7hiaSQFocxxzGskkZ"
-    },
-    {
-      "added_at": "2026-02-27 05:00:29",
-      "album": {
         "name": "Gonna Love You (Alternate Versions)",
         "url": "https://open.spotify.com/album/2LyGE0JPXYK4ygkYPyk3uX"
       },
@@ -1439,18 +1423,18 @@
     {
       "added_at": "2026-02-27 05:00:29",
       "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+        "name": "Love The Lonely Out Of You (Live Pinebox Version)",
+        "url": "https://open.spotify.com/album/7EpjY7yUKLmugTK4dbZVOp"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         }
       ],
-      "duration_ms": 197600,
-      "name": "Landslide - Live from Nashville",
-      "url": "https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL"
+      "duration_ms": 329053,
+      "name": "Love The Lonely Out Of You - Live Pinebox Version",
+      "url": "https://open.spotify.com/track/1RTfd7hiaSQFocxxzGskkZ"
     },
     {
       "added_at": "2026-02-27 05:00:29",
@@ -1467,6 +1451,22 @@
       "duration_ms": 191400,
       "name": "Some Girls - Acoustic",
       "url": "https://open.spotify.com/track/6C2d77cnFFiVPUTsjbJ5t2"
+    },
+    {
+      "added_at": "2026-02-27 05:00:29",
+      "album": {
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "Landslide - Live from Nashville",
+      "url": "https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL"
     },
     {
       "added_at": "2026-02-27 05:00:29",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-02-27 05:00:29",
       "album": {
-        "name": "Weekends Look A Little Acoustic These Days",
-        "url": "https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 254989,
-      "name": "You Didn\u2019t - Acoustic",
-      "url": "https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs"
-    },
-    {
-      "added_at": "2026-02-27 05:00:29",
-      "album": {
         "name": "Breakin' in Boots (Stripped)",
         "url": "https://open.spotify.com/album/5So2dWFevZC3x2WPdZihJG"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 154173,
       "name": "Breakin' in Boots - Stripped",
       "url": "https://open.spotify.com/track/1NF0YGDJOgX0iMixCwDK7d"
+    },
+    {
+      "added_at": "2026-02-27 05:00:29",
+      "album": {
+        "name": "Weekends Look A Little Acoustic These Days",
+        "url": "https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 254989,
+      "name": "You Didn\u2019t - Acoustic",
+      "url": "https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs"
     },
     {
       "added_at": "2026-02-27 05:00:29",

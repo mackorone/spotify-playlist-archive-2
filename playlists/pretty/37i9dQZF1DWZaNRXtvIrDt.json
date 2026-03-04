@@ -1,6 +1,6 @@
 {
   "description": "A new world of alternative electronic music.",
-  "num_followers": 130188,
+  "num_followers": 130182,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
+        "name": "Tastes Like The 90s",
+        "url": "https://open.spotify.com/album/0IZhc4XwdP5S3HADTrddV1"
+      },
+      "artists": [
+        {
+          "name": "JACK MARLOW",
+          "url": "https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3"
+        }
+      ],
+      "duration_ms": 201247,
+      "name": "Old' On",
+      "url": "https://open.spotify.com/track/38zrbBzmIUC4OPL2NUBx4n"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
         "name": "The Right",
         "url": "https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 234753,
       "name": "The Right",
       "url": "https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
-        "name": "Tastes Like The 90s",
-        "url": "https://open.spotify.com/album/0IZhc4XwdP5S3HADTrddV1"
-      },
-      "artists": [
-        {
-          "name": "JACK MARLOW",
-          "url": "https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3"
-        }
-      ],
-      "duration_ms": 201247,
-      "name": "Old' On",
-      "url": "https://open.spotify.com/track/38zrbBzmIUC4OPL2NUBx4n"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -795,22 +795,18 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "Badder",
-        "url": "https://open.spotify.com/album/4xq8NcQXxBMezVM937XYHo"
+        "name": "Cascade",
+        "url": "https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L"
       },
       "artists": [
         {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        },
-        {
-          "name": "Champion",
-          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
         }
       ],
-      "duration_ms": 170909,
-      "name": "Badder",
-      "url": "https://open.spotify.com/track/6HnnU52OLpINwucbbiXy5v"
+      "duration_ms": 286274,
+      "name": "Birth4000",
+      "url": "https://open.spotify.com/track/658gtQhSGDuPtIlpCSqNek"
     },
     {
       "added_at": "2025-12-18 13:00:08",
@@ -831,18 +827,22 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "Cascade",
-        "url": "https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L"
+        "name": "Badder",
+        "url": "https://open.spotify.com/album/4xq8NcQXxBMezVM937XYHo"
       },
       "artists": [
         {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        },
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
         }
       ],
-      "duration_ms": 286274,
-      "name": "Birth4000",
-      "url": "https://open.spotify.com/track/658gtQhSGDuPtIlpCSqNek"
+      "duration_ms": 170909,
+      "name": "Badder",
+      "url": "https://open.spotify.com/track/6HnnU52OLpINwucbbiXy5v"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -868,7 +868,7 @@
       },
       "artists": [
         {
-          "name": "seKTa",
+          "name": "Sekta",
           "url": "https://open.spotify.com/artist/06PMrOCpEXRYONKv8KlLXD"
         }
       ],
@@ -877,24 +877,20 @@
       "url": "https://open.spotify.com/track/6vITRyQ93GruFeNnR6OQ1U"
     },
     {
-      "added_at": "2025-10-16 13:00:01",
+      "added_at": "2025-12-18 13:00:08",
       "album": {
-        "name": "Thank You for Letting Me Be Myself",
-        "url": "https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi"
+        "name": "132 TECHNO",
+        "url": "https://open.spotify.com/album/0aXbjkmx97z1wdTCbf79WY"
       },
       "artists": [
         {
-          "name": "Omar S",
-          "url": "https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI"
-        },
-        {
-          "name": "D Taylor",
-          "url": "https://open.spotify.com/artist/5T3UHLFXGCs6i2EmnYMo5I"
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
         }
       ],
-      "duration_ms": 413315,
-      "name": "The Shit Baby",
-      "url": "https://open.spotify.com/track/77u4D7eaO0T6zVby7kybyP"
+      "duration_ms": 334584,
+      "name": "132 TECHNO",
+      "url": "https://open.spotify.com/track/13thxVYAfM7IGa4HLWGjI1"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -915,18 +911,22 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "If U Like Me",
-        "url": "https://open.spotify.com/album/11Y3XFv7iAvRHTzOfQodBm"
+        "name": "Thank You for Letting Me Be Myself",
+        "url": "https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi"
       },
       "artists": [
         {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+          "name": "Omar S",
+          "url": "https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI"
+        },
+        {
+          "name": "D Taylor",
+          "url": "https://open.spotify.com/artist/5T3UHLFXGCs6i2EmnYMo5I"
         }
       ],
-      "duration_ms": 152679,
-      "name": "If U Like Me - Edit",
-      "url": "https://open.spotify.com/track/0XGSeTAcfOJa3WfVPAzX8H"
+      "duration_ms": 413315,
+      "name": "The Shit Baby",
+      "url": "https://open.spotify.com/track/77u4D7eaO0T6zVby7kybyP"
     }
   ],
   "unique_name": "Portal",

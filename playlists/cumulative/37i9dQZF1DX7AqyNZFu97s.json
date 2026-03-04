@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists in the UK and Ireland. Cover: Rohaan",
+  "description": "The best new music from independent artists in the UK and Ireland. Cover: Sade Olutola",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -670,6 +670,24 @@
       "duration_ms": 173381,
       "name": "2089",
       "url": "https://open.spotify.com/track/397lYGVTrCexKsTg8kSnvE"
+    },
+    {
+      "album": {
+        "name": "Arrow Heart",
+        "url": "https://open.spotify.com/album/6qS5D90JVQEZpBHccB577c"
+      },
+      "artists": [
+        {
+          "name": "Sade Olutola",
+          "url": "https://open.spotify.com/artist/3RnVqL6k23iwhe1uYh1JSm"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "2099",
+      "url": "https://open.spotify.com/track/4ooICmT2zrfMprazExomIi"
     },
     {
       "album": {
@@ -1968,6 +1986,24 @@
       "duration_ms": 241846,
       "name": "ALL COLOUR GREEN",
       "url": "https://open.spotify.com/track/0jlhYiaoe5BtbMrNa0ixzx"
+    },
+    {
+      "album": {
+        "name": "All Day",
+        "url": "https://open.spotify.com/album/3C3PiPEzHq22uivC7iEpFd"
+      },
+      "artists": [
+        {
+          "name": "Ghoulish",
+          "url": "https://open.spotify.com/artist/4m1NhStbUaIZkgfbnnIQeK"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252824,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/6gxmJyDO8NlP96bFU4nYPe"
     },
     {
       "album": {
@@ -4250,7 +4286,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 90589,
       "name": "back two it",
       "url": "https://open.spotify.com/track/7ICiqqSwk8DpT8b1MweYmB"
@@ -10817,6 +10853,24 @@
     },
     {
       "album": {
+        "name": "Coasting",
+        "url": "https://open.spotify.com/album/32t0ImhVhPJY8BQf3GpJUR"
+      },
+      "artists": [
+        {
+          "name": "Hutch",
+          "url": "https://open.spotify.com/artist/26g14QVzVafjroNKzHuCBB"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Coasting",
+      "url": "https://open.spotify.com/track/1ztynIETfhukvEjGei77ve"
+    },
+    {
+      "album": {
         "name": "Cobalt Moment",
         "url": "https://open.spotify.com/album/0XzUoFzb78cIDgqKAIBDzm"
       },
@@ -12964,7 +13018,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 185466,
       "name": "cutiepie",
       "url": "https://open.spotify.com/track/1Sl58k7mU2VBTRzZHFoTw2"
@@ -17060,7 +17114,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 227578,
       "name": "Enough",
       "url": "https://open.spotify.com/track/4JKa7E11MKyZrFQBzFaTij"
@@ -20246,7 +20300,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 117874,
       "name": "FOUL MOUTH",
       "url": "https://open.spotify.com/track/25E7cAAK2RzTdFkxHUs2RZ"
@@ -34494,7 +34548,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 133150,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/2P0TvLxCynuPGquWInTmQc"
@@ -37058,6 +37112,28 @@
       "duration_ms": 151253,
       "name": "Matcha",
       "url": "https://open.spotify.com/track/18j6mt9YnltS9IW4E5tWZJ"
+    },
+    {
+      "album": {
+        "name": "matcha bros",
+        "url": "https://open.spotify.com/album/6wdFukaniwdxTSZp6cnfGg"
+      },
+      "artists": [
+        {
+          "name": "Taifunds",
+          "url": "https://open.spotify.com/artist/1C76b7OjUUW3Jqqk4PMkMr"
+        },
+        {
+          "name": "00ab",
+          "url": "https://open.spotify.com/artist/0LWbBMbzVxCHLe3tebI4Yo"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140432,
+      "name": "matcha bros",
+      "url": "https://open.spotify.com/track/6j039F1GAbxnO4un1630wK"
     },
     {
       "album": {
@@ -39968,6 +40044,24 @@
       "duration_ms": 213321,
       "name": "Neon In The Dark",
       "url": "https://open.spotify.com/track/3CBGEOSgIf71iZjGccbveE"
+    },
+    {
+      "album": {
+        "name": "Neptune Girl",
+        "url": "https://open.spotify.com/album/4P2TRk9nZgQIRxrQVx3dD8"
+      },
+      "artists": [
+        {
+          "name": "Modern Woman",
+          "url": "https://open.spotify.com/artist/4OW8KZOncmml2hRSXdhfO9"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176768,
+      "name": "Neptune Girl",
+      "url": "https://open.spotify.com/track/5OLQKfOEmxAa9qVNhQygra"
     },
     {
       "album": {
@@ -45074,6 +45168,24 @@
       "duration_ms": 200852,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/7bqannWBcNOt5zFVutDRia"
+    },
+    {
+      "album": {
+        "name": "pieces",
+        "url": "https://open.spotify.com/album/0HtKs3fzUYPQIjA0kXsCDk"
+      },
+      "artists": [
+        {
+          "name": "thistle.",
+          "url": "https://open.spotify.com/artist/4dPHAp5JXnj8HkY71hWVj5"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202788,
+      "name": "pieces",
+      "url": "https://open.spotify.com/track/0TYYCO93FESiUlTanVH9pX"
     },
     {
       "album": {
@@ -54574,7 +54686,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 138329,
       "name": "Suck My MP3",
       "url": "https://open.spotify.com/track/5HQpbbX3ge8TYtpAHYBjSw"
@@ -58227,6 +58339,24 @@
     },
     {
       "album": {
+        "name": "There's a Bridge",
+        "url": "https://open.spotify.com/album/346sFMjZ1DUCWrRDMsYMgg"
+      },
+      "artists": [
+        {
+          "name": "Alpha Maria",
+          "url": "https://open.spotify.com/artist/5hzFTGZcy6Rqme2qNC2vUm"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168312,
+      "name": "There's a Bridge",
+      "url": "https://open.spotify.com/track/5oY98SqmKXxz1fE4cu1REt"
+    },
+    {
+      "album": {
         "name": "there's a light",
         "url": "https://open.spotify.com/album/5fdEADXcrVOns6lSt4oeon"
       },
@@ -58862,7 +58992,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 231835,
       "name": "To Undo the World Itself",
       "url": "https://open.spotify.com/track/6kZJWAwJ5Qo43Smo1UesTP"

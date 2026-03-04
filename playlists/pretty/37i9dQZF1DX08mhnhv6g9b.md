@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 
 ### [This Is BTS](https://open.spotify.com/playlist/37i9dQZF1DX08mhnhv6g9b)
 
-> Welcome to the BTS's universe\. A.R.M.Y's World! 💜
+> Vote for your most anticipated track from ARIRANG on the <a href="https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1?si=522f34b3f6b84acf"> K\-Pop ON! \(온\) playlist </a> now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,849,916 likes - 296 songs - 17 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,850,160 likes - 296 songs - 17 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -305,4 +305,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 | 295 | [Skit: R U Happy Now?](https://open.spotify.com/track/53XrsilgguJmmsEtDsj0yY) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [O!RUL8,2?](https://open.spotify.com/album/6rWmdSJIaGTVtdMJQ35Lvf) | 2:28 |
 | 296 | [Skit: Circle Room Talk](https://open.spotify.com/track/4Ut6UU8Yyihz1jCZWSCQpu) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [2 Cool 4 Skool](https://open.spotify.com/album/6egaEe9JaULuUCkihSnYlH) | 2:11 |
 
-Snapshot ID: `AAAAAK43gNdRgnm3uFhq53az58MxFvBO`
+Snapshot ID: `AAAAAKZ5pQa3jLztLnyvteVk2vAGZcc/`

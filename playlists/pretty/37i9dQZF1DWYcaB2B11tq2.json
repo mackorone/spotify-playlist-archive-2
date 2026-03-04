@@ -1,6 +1,6 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Marcela Gandara",
-  "num_followers": 500562,
+  "num_followers": 500672,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2025-12-12 06:18:40",
       "album": {
+        "name": "Homenaje a Jes\u00fas",
+        "url": "https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 321619,
+      "name": "Somos el pueblo de Dios",
+      "url": "https://open.spotify.com/track/3MF7cqKTCqQ6Xm8Pe2igJh"
+    },
+    {
+      "added_at": "2025-12-12 06:18:40",
+      "album": {
         "name": "Danzando (Live)",
         "url": "https://open.spotify.com/album/5gIeEB6jPv3t9tj5z5RBcJ"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 488927,
       "name": "Danzando - Live",
       "url": "https://open.spotify.com/track/2XjDhJaZnBT2G2a08Gtbky"
-    },
-    {
-      "added_at": "2025-12-12 06:18:40",
-      "album": {
-        "name": "Homenaje a Jes\u00fas",
-        "url": "https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 321619,
-      "name": "Somos el pueblo de Dios",
-      "url": "https://open.spotify.com/track/3MF7cqKTCqQ6Xm8Pe2igJh"
     },
     {
       "added_at": "2025-12-12 06:18:40",
@@ -875,26 +875,6 @@
     {
       "added_at": "2025-12-12 06:18:40",
       "album": {
-        "name": "No Lo Has Visto A\u00fan",
-        "url": "https://open.spotify.com/album/30BsuKRAa8cxAsVkghAbFK"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        },
-        {
-          "name": "Lilly Goodman",
-          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
-        }
-      ],
-      "duration_ms": 245163,
-      "name": "No Lo Has Visto A\u00fan",
-      "url": "https://open.spotify.com/track/4C7cPjGcerqjg0cy9hW33k"
-    },
-    {
-      "added_at": "2025-12-12 06:18:40",
-      "album": {
         "name": "Esto Es Jesus Culture",
         "url": "https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 382026,
       "name": "Cantamos A \u00c9l",
       "url": "https://open.spotify.com/track/77QumYYpnP6uONSEJxSFug"
+    },
+    {
+      "added_at": "2025-12-12 06:18:40",
+      "album": {
+        "name": "No Lo Has Visto A\u00fan",
+        "url": "https://open.spotify.com/album/30BsuKRAa8cxAsVkghAbFK"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        },
+        {
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+        }
+      ],
+      "duration_ms": 245163,
+      "name": "No Lo Has Visto A\u00fan",
+      "url": "https://open.spotify.com/track/4C7cPjGcerqjg0cy9hW33k"
     },
     {
       "added_at": "2025-12-12 06:18:40",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2025-12-12 06:18:40",
       "album": {
+        "name": "Mas Profundo",
+        "url": "https://open.spotify.com/album/1uLUQM3v3i9RXGoGSMn4Nu"
+      },
+      "artists": [
+        {
+          "name": "Justin Michael",
+          "url": "https://open.spotify.com/artist/1DPzzuw8dqxW47W3uGBzTl"
+        }
+      ],
+      "duration_ms": 359999,
+      "name": "Mas Profundo",
+      "url": "https://open.spotify.com/track/2nr1nbjXz7w883AtODI9vU"
+    },
+    {
+      "added_at": "2025-12-12 06:18:40",
+      "album": {
         "name": "Tu Reino Est\u00e1 Aqu\u00ed",
         "url": "https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 715466,
       "name": "Quiero Conocer a Jes\u00fas (Yeshua) / Nuestro Dios",
       "url": "https://open.spotify.com/track/2txTXCdetbJcy8REtnZdRq"
-    },
-    {
-      "added_at": "2025-12-12 06:18:40",
-      "album": {
-        "name": "Mas Profundo",
-        "url": "https://open.spotify.com/album/1uLUQM3v3i9RXGoGSMn4Nu"
-      },
-      "artists": [
-        {
-          "name": "Justin Michael",
-          "url": "https://open.spotify.com/artist/1DPzzuw8dqxW47W3uGBzTl"
-        }
-      ],
-      "duration_ms": 359999,
-      "name": "Mas Profundo",
-      "url": "https://open.spotify.com/track/2nr1nbjXz7w883AtODI9vU"
     },
     {
       "added_at": "2025-12-12 06:18:40",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2025-12-12 06:18:40",
       "album": {
+        "name": "Despierta Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1wMM1rm4hFDy7LopjY4610"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 645440,
+      "name": "Dios Incomparable (Invitado: Marco Barrientos)",
+      "url": "https://open.spotify.com/track/4Tl5LPLA3afirBFPu5HksX"
+    },
+    {
+      "added_at": "2025-12-12 06:18:40",
+      "album": {
         "name": "Voy A Profetizar",
         "url": "https://open.spotify.com/album/05HyX6gH8hKJ4fAji7XftG"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 246015,
       "name": "Me enamor\u00e9",
       "url": "https://open.spotify.com/track/1p7BM4OViezVCoLMa123ai"
-    },
-    {
-      "added_at": "2025-12-12 06:18:40",
-      "album": {
-        "name": "Despierta Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1wMM1rm4hFDy7LopjY4610"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 645440,
-      "name": "Dios Incomparable (Invitado: Marco Barrientos)",
-      "url": "https://open.spotify.com/track/4Tl5LPLA3afirBFPu5HksX"
     },
     {
       "added_at": "2025-12-12 06:18:40",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2025-12-12 06:18:40",
       "album": {
-        "name": "Dios Cuida De M\u00ed",
-        "url": "https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4"
-      },
-      "artists": [
-        {
-          "name": "Danny Berrios",
-          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
-        }
-      ],
-      "duration_ms": 310961,
-      "name": "Alaba A Dios",
-      "url": "https://open.spotify.com/track/0QUSwslf0xbm4aDgpZfPn8"
-    },
-    {
-      "added_at": "2025-12-12 06:18:40",
-      "album": {
         "name": "ResplanDC",
         "url": "https://open.spotify.com/album/5qP3FrkV5QQb5qwZiFBFQx"
       },
@@ -1591,54 +1575,6 @@
     {
       "added_at": "2025-12-12 06:18:40",
       "album": {
-        "name": "Cuan Gran Amor",
-        "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Rosario",
-          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
-        }
-      ],
-      "duration_ms": 248813,
-      "name": "Que Se Llene Tu Casa",
-      "url": "https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF"
-    },
-    {
-      "added_at": "2025-12-12 06:18:40",
-      "album": {
-        "name": "En Esto Creo (Live)",
-        "url": "https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg"
-      },
-      "artists": [
-        {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
-        }
-      ],
-      "duration_ms": 259613,
-      "name": "Oc\u00e9anos (Donde Mis Pies Pueden Fallar) - Live",
-      "url": "https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv"
-    },
-    {
-      "added_at": "2025-12-12 06:18:40",
-      "album": {
-        "name": "Fiesta en el desierto (la la la)",
-        "url": "https://open.spotify.com/album/7y2mzXkMb03nyEjlUjIyXJ"
-      },
-      "artists": [
-        {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
-        }
-      ],
-      "duration_ms": 338015,
-      "name": "Fiesta en el desierto (la la la)",
-      "url": "https://open.spotify.com/track/2yCTGbVoE1R62Q95o9PJPa"
-    },
-    {
-      "added_at": "2025-12-12 06:18:40",
-      "album": {
         "name": "Dios Cuida De M\u00ed",
         "url": "https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4"
       },
@@ -1648,9 +1584,9 @@
           "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
         }
       ],
-      "duration_ms": 240483,
-      "name": "Himno De Victoria",
-      "url": "https://open.spotify.com/track/2kU32YkYwKUkWNcBv2NSRs"
+      "duration_ms": 310961,
+      "name": "Alaba A Dios",
+      "url": "https://open.spotify.com/track/0QUSwslf0xbm4aDgpZfPn8"
     },
     {
       "added_at": "2025-12-12 06:18:40",
@@ -1671,6 +1607,70 @@
       "duration_ms": 305573,
       "name": "M\u00e1s All\u00e1 De Tu Ventana",
       "url": "https://open.spotify.com/track/2XZ1LwR4j9qlQxavgUGEyu"
+    },
+    {
+      "added_at": "2025-12-12 06:18:40",
+      "album": {
+        "name": "Cuan Gran Amor",
+        "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "duration_ms": 248813,
+      "name": "Que Se Llene Tu Casa",
+      "url": "https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF"
+    },
+    {
+      "added_at": "2025-12-12 06:18:40",
+      "album": {
+        "name": "Fiesta en el desierto (la la la)",
+        "url": "https://open.spotify.com/album/7y2mzXkMb03nyEjlUjIyXJ"
+      },
+      "artists": [
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        }
+      ],
+      "duration_ms": 338015,
+      "name": "Fiesta en el desierto (la la la)",
+      "url": "https://open.spotify.com/track/2yCTGbVoE1R62Q95o9PJPa"
+    },
+    {
+      "added_at": "2025-12-12 06:18:40",
+      "album": {
+        "name": "En Esto Creo (Live)",
+        "url": "https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg"
+      },
+      "artists": [
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "duration_ms": 259613,
+      "name": "Oc\u00e9anos (Donde Mis Pies Pueden Fallar) - Live",
+      "url": "https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv"
+    },
+    {
+      "added_at": "2025-12-12 06:18:40",
+      "album": {
+        "name": "Dios Cuida De M\u00ed",
+        "url": "https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4"
+      },
+      "artists": [
+        {
+          "name": "Danny Berrios",
+          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
+        }
+      ],
+      "duration_ms": 240483,
+      "name": "Himno De Victoria",
+      "url": "https://open.spotify.com/track/2kU32YkYwKUkWNcBv2NSRs"
     },
     {
       "added_at": "2025-12-12 06:18:40",

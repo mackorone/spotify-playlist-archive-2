@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/08j2wYMldj8IGyim3Imxwf"
+      },
+      "artists": [
+        {
+          "name": "Linda Perry",
+          "url": "https://open.spotify.com/artist/5tfiJ40SRxluWNgA6ruvSo"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227588,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/3fMzeFb0ofAi60SHowsrRp"
+    },
+    {
+      "album": {
         "name": "Beautiful Child",
         "url": "https://open.spotify.com/album/0W2LChHrjeeV7OYEl43Plc"
       },
@@ -936,6 +954,24 @@
       "duration_ms": 180866,
       "name": "Eye of the Tiger",
       "url": "https://open.spotify.com/track/7bqtShG4VYS372JEtHLXRp"
+    },
+    {
+      "album": {
+        "name": "Fade Into You",
+        "url": "https://open.spotify.com/album/3OhxqEbjIOkIWYYTH4YMnI"
+      },
+      "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286000,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/5EZhwA15HWLC7UlQ9nuo0L"
     },
     {
       "album": {
@@ -1732,7 +1768,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 227600,
       "name": "I Won't Back Down - Recorded At Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/3ObnRly5EABWIj0lzWFcBZ"
@@ -3458,7 +3494,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 312173,
       "name": "With A Little Help From My Friends",
       "url": "https://open.spotify.com/track/1yOPFin76ojxOnecsV3v81"

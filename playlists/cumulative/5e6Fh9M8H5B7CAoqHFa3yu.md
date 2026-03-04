@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,900 songs - 4 day 17 hr 48 min
+1,904 songs - 4 day 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Arab Prayer \(Live\)](https://open.spotify.com/track/47ZJkx1g763nFOkim7EZkB) | [Dub Caravan](https://open.spotify.com/artist/7BhIlI9vRbaE1i1bYm81ZF) | [The Struggle](https://open.spotify.com/album/12yCKhNpF3JAGb9N72tuGK) | 4:05 | 2024-04-29 |  |
 | [Arabian Trip](https://open.spotify.com/track/18aomlRrdOJ964sOImmjEs) | [Andrea Braido](https://open.spotify.com/artist/365VUn5kWBvcGvGafj0CRZ) | [Tales](https://open.spotify.com/album/2VgiyEYRTMJkjWVkRUNiUG) | 4:44 | 2024-04-20 |  |
 | [Art Deco Bullet](https://open.spotify.com/track/5342WwQ7HSCwVK9UvrDQjN) | [Aural Nouveau](https://open.spotify.com/artist/0su1VTrnP1IEDCdcsn7C8i) | [Art Deco Bullet](https://open.spotify.com/album/26btOM9uyz0yxGImcstoBO) | 3:32 | 2025-08-08 |  |
+| [Art of Waves](https://open.spotify.com/track/1K6jYliyZPelIN3VMFeADT) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/2eOOYgcPCi9T0lseYWXddj) | [ART of WAVES](https://open.spotify.com/album/2gMOtsag4f3smuL3wb5NJ3) | 3:42 | 2026-03-03 |  |
 | [Art School Dropout](https://open.spotify.com/track/4GOnSEpWwueDwVHDhYzGpN) | [BlessJerz](https://open.spotify.com/artist/4Pony5OsF8zpETNbNqCbLD) | [Montana](https://open.spotify.com/album/0Jzh1BajLYz2xWehUZlvxo) | 1:54 | 2025-11-28 |  |
 | [Ash Queens Arise](https://open.spotify.com/track/2poe4hybs20gwvtbbMak3V) | [ASH QUEENS](https://open.spotify.com/artist/5gxrqah9KzW1xHCbfK9wCz) | [Ash Queens](https://open.spotify.com/album/3PJt5RtP5WKqKPkWUa3MRa) | 4:09 | 2026-01-04 |  |
 | [ASIDERAL SPACE](https://open.spotify.com/track/24Hwi2MkkwBRg4riBVSEfY) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [YOGYETY & AI](https://open.spotify.com/album/4iXiqES3b6P7toYWq2ZCpd) | 3:28 | 2026-01-07 |  |
@@ -308,6 +309,7 @@
 | [Coffee in Venezia](https://open.spotify.com/track/0pj7S6BPsduM2wwg2PrV1o) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coffee in Venezia](https://open.spotify.com/album/3Wtd0z5yOWzjv6pEsPg7PD) | 3:36 | 2026-02-13 |  |
 | [Cold July](https://open.spotify.com/track/3UpM9v9kJye45CaH8adawC) | [Tony Beacock](https://open.spotify.com/artist/3nn1P8bK20UW3vdMFXkUU3) | [Cold July](https://open.spotify.com/album/3x1OUbLuuhACUC88SYvhfZ) | 3:36 | 2024-04-09 |  |
 | [Colla](https://open.spotify.com/track/6h6uGVjqpNIKIcZrF5zWLH) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Colla](https://open.spotify.com/album/22LSKBghOMAEljd0HbPKOq) | 2:42 | 2024-06-10 |  |
+| [Collecting Memories](https://open.spotify.com/track/3nPD47QNIbjfezj5uqvinO) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/2eOOYgcPCi9T0lseYWXddj), [Natasha Cleophas](https://open.spotify.com/artist/00nfdeOv0SOQu5itQbz3ic) | [Collecting Memories](https://open.spotify.com/album/6lotPV2jvHGnU0ioo3efhU) | 3:10 | 2026-03-03 |  |
 | [COLOR SPOTIFY](https://open.spotify.com/track/4MFOfKQLJ9NP5ksad3XPBd) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Dalmata](https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3) | [COLOR SPOTIFY](https://open.spotify.com/album/39Aop1tF4gQ97S8UoTu7LN) | 3:11 | 2025-10-19 |  |
 | [Combinacion](https://open.spotify.com/track/6oHcwOqCPpJpLSArsNH2S0) | [The Dubbstyle](https://open.spotify.com/artist/2EhzGQxSHKOjcrOSieAF0g) | [Sun Is Dub](https://open.spotify.com/album/58sLyCLQWnNKhT0zozI9Bc) | 4:51 | 2024-03-10 |  |
 | [Come Hail the Lord](https://open.spotify.com/track/1YKAuBtB7D8Stwqgc038zv) | [Messian Dread](https://open.spotify.com/artist/04yVvk0AJ4uHQwNoQbXROj) | [Dangerous Discomixes](https://open.spotify.com/album/6gMtNJyVlKsMQSexWFyb4H) | 6:38 | 2024-05-01 |  |
@@ -1119,6 +1121,7 @@
 | [My Life](https://open.spotify.com/track/1kO0nC4VnEjMBeJZI7g2T2) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [Perception](https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf) | 3:35 | 2025-02-15 |  |
 | [my little star](https://open.spotify.com/track/0AaT0gUUPA9do3tVWlPKUi) | [mytinyhuman](https://open.spotify.com/artist/5wfP5o9j86nnpWHHr73I0V) | [sweet dreams](https://open.spotify.com/album/1LcvGNRU5PUiVam4xFJp9y) | 2:42 | 2025-10-28 |  |
 | [My Lost Love](https://open.spotify.com/track/2oK4Y2MEBo9OL2k9bDf5ou) | [Dianna Keys](https://open.spotify.com/artist/2ukR4XZO8Gw4IyT0CNWh6x) | [My Lost Love](https://open.spotify.com/album/1f8HIiS7mtm1FoyD79U1uZ) | 3:52 | 2025-07-09 |  |
+| [My Soul](https://open.spotify.com/track/4uCyYwu4f7iFlEqAgCeNce) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [My Soul](https://open.spotify.com/album/2QpG4iF6jTCTPbFFDTJCcl) | 2:15 | 2026-03-03 |  |
 | [My Sound Is Heavy \(Dubstrumental\)](https://open.spotify.com/track/2u2X2bAYWhlyOhGEW5kPec) | [Subatomic Sound System](https://open.spotify.com/artist/2zloJjqv2Evy5ZXEr1lQPr), [Screechy Dan](https://open.spotify.com/artist/31mV1uFOdvl2gpzu1i0XOJ) | [My Sound Is Heavy](https://open.spotify.com/album/2M1vwGZJ9aiDTicR5T5xzq) | 3:18 | 2026-02-07 |  |
 | [my tiny human](https://open.spotify.com/track/7bgUhKhOmyJRxHVncoUOG0) | [mytinyhuman](https://open.spotify.com/artist/5wfP5o9j86nnpWHHr73I0V) | [sweet dreams](https://open.spotify.com/album/1LcvGNRU5PUiVam4xFJp9y) | 2:31 | 2025-10-28 |  |
 | [Mystical Valley](https://open.spotify.com/track/1JbtGRLzmOWZwGhnjSRZDf) | [Dub Idren](https://open.spotify.com/artist/2JK5x7zdkSrijrqj5mHWed), [I\-niverse](https://open.spotify.com/artist/2WAHbjZ3rFVggTgLMCHJLA) | [Mystical Valley](https://open.spotify.com/album/5OsvRK0lLOih8TTZfPNc4o) | 3:56 | 2024-03-10 |  |
@@ -1700,6 +1703,7 @@
 | [Tragedy](https://open.spotify.com/track/6UXXeFqMBGiqjkzQzkMT3E) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Spirits Having Flown](https://open.spotify.com/album/6bddpRTD2imtFdhXqr6MKm) | 5:03 | 2024-03-04 |  |
 | [Trail Ride](https://open.spotify.com/track/6WYDRRJWIZfY36UZaIMfJ5) | [Alexus Bria](https://open.spotify.com/artist/4RIMm4W0mCWfjC3MgrTjgX) | [Trail Ride](https://open.spotify.com/album/3Lyp6ontdCz9fOhJmmI5W7) | 3:31 | 2025-10-07 |  |
 | [TRAIN](https://open.spotify.com/track/7kRB1EBQBSVYjrf0elg7hG) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [dipe](https://open.spotify.com/artist/0XEYn4sxWm1ga9sXJQ4sWL) | [TRAIN](https://open.spotify.com/album/5pOw1eegWGypFu63gvhYcN) | 3:48 | 2025-10-21 |  |
+| [Tranquil Garden](https://open.spotify.com/track/0KgCKStZnG7CzJebU58X4p) | [Focuscircle](https://open.spotify.com/artist/3JzDncfAa9i8YByecJ771U) | [Album 1](https://open.spotify.com/album/1kdFVBOKq0QRMN0nITjkfO) | 1:10 | 2026-03-03 |  |
 | [Transient Transmission \(Intercept's retwist of Adrian Sherwood's Iota Remix\)](https://open.spotify.com/track/0Z5gLLSWTgGSw7YG0f9SIa) | [Pitch Black](https://open.spotify.com/artist/48bwfC5uieNXZjebbWBLpm), [Adrian Sherwood](https://open.spotify.com/artist/4vZIz0gG5DD3Qj9MB6kclW) | [Echoes of the Night \(The Adrian Sherwood Remixes\)](https://open.spotify.com/album/081Yp6jTc6IDD5KL8Qhm2x) | 5:18 | 2024-08-31 |  |
 | [Treino Disco \(HIIT 30\-10\)](https://open.spotify.com/track/1KgJoRTyRN5PX2NBEHzGVZ) | [THE TRAINER](https://open.spotify.com/artist/4B1n4QNr8vjhUnTgERok66) | [70s DISCO HIIT DANCE WORKOUT](https://open.spotify.com/album/38vFZ0KaLfZlEtQwUXDM6l) | 1:20 | 2024-03-08 |  |
 | [Treino Para HIIT \(HIIT 30\-10\)](https://open.spotify.com/track/2Cee7siNEt2nwso4L98FhS) | [THE TRAINER](https://open.spotify.com/artist/4B1n4QNr8vjhUnTgERok66) | [HIIT BRASIL 30\-10](https://open.spotify.com/album/4fLeywEPeRMgra2PDYpAcN) | 1:20 | 2024-03-08 |  |

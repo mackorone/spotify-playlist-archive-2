@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Fern.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,626 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,667 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sinong Magmamahal Sa ‘Kin?](https://open.spotify.com/track/6Zkmj8E8aAmejhDTSys4rN) | [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Sinong Magmamahal Sa ‘Kin?](https://open.spotify.com/album/5C3U2kNDzhnW5CMRJ2Xk9k) | 4:27 |
 | 2 | [Take Me Home](https://open.spotify.com/track/5L0vMWiX4YMOZKs3fCwofx) | [Jensen Gomez](https://open.spotify.com/artist/3xZCL7YJQySq6zYycUfdSv), [El Manu](https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0) | [Take Me Home](https://open.spotify.com/album/4WAWZfn9JCOtb2fqeuUQA3) | 4:03 |
-| 3 | [D.T.M.G \(Don’t Touch My Girl\)](https://open.spotify.com/track/3ggDjMxsy3m3GLDDjrcM3I) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv), [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp), [dot.jaime](https://open.spotify.com/artist/0ULME3YyOHybyb8oQCo7Kc), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [D.T.M.G \(Don’t Touch My Girl\)](https://open.spotify.com/album/6062kTEHbdxuq6NdFg6jXW) | 3:37 |
+| 3 | [D.T.M.G \(Don’t Touch My Girl\)](https://open.spotify.com/track/3ggDjMxsy3m3GLDDjrcM3I) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm), [dot.jaime](https://open.spotify.com/artist/0ULME3YyOHybyb8oQCo7Kc), [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp) | [D.T.M.G \(Don’t Touch My Girl\)](https://open.spotify.com/album/6062kTEHbdxuq6NdFg6jXW) | 3:37 |
 | 4 | [IBALING](https://open.spotify.com/track/6vzk7Rdwo5LLgCtdUsxZJk) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [IBALING](https://open.spotify.com/album/2cVN9tWc78xAlDRAcypf1r) | 3:55 |
 | 5 | [Multiply](https://open.spotify.com/track/7cNx61AbnLyhJqhKhzF47g) | [Carl Angelo](https://open.spotify.com/artist/6DSGhKHTjmfiPILjDnDky6), [Breezee](https://open.spotify.com/artist/5Rp3IEFrKbq1sCRWez5XoE) | [Multiply](https://open.spotify.com/album/3Pt30nQIwPM7Pv8N8jvhdj) | 3:18 |
 | 6 | [Kanta kay Ella](https://open.spotify.com/track/5lrjZ9je6KX3z31PBt2HX8) | [John Sam](https://open.spotify.com/artist/31KxamKxGgb248l4QlDc35) | [Kanta kay Ella](https://open.spotify.com/album/0tyTDNen4dgk3lcmsmiiyF) | 3:24 |

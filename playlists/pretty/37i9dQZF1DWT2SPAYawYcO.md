@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Bruno Mars, RAYE, The Temper Trap, Alex Warren, Gorillaz + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,007 likes - 87 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,010 likes - 87 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

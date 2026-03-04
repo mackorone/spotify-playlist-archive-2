@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 
 > This is 2Pac\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,228,165 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,228,245 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 | 34 | [Old School](https://open.spotify.com/track/4GGbJ60q5HIN8wKOp9Xabz) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 4:39 |
 | 35 | [Smile](https://open.spotify.com/track/4vROonGbqcc0F6XC3rHH3f) | [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Johnny P](https://open.spotify.com/artist/2RdXF6BnaZAz1G44yNKJcj) | [The Untouchable](https://open.spotify.com/album/1VGaIPb6Cy7dLVC2fMbaLx) | 5:00 |
 | 36 | [Playa Cardz Right](https://open.spotify.com/track/0nJZDtAaqO7o9mb6YoBfqO) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [A Different Me](https://open.spotify.com/album/33e65SDeu5HhT5Iq7Gt2f4) | 4:51 |
-| 37 | [My Block \- Nitty Remix](https://open.spotify.com/track/2qcllSUyD3gKbfh9NEjARW) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Better Dayz](https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww) | 5:22 |
+| 37 | [When We Ride On Our Enemies \- Briss Remix](https://open.spotify.com/track/5XI5tzAbzrhkGtLukDTDSG) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Better Dayz](https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww) | 2:54 |
 | 38 | [It Ain't Easy](https://open.spotify.com/track/6pFfeJceBPGdzTOGgUcLWZ) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 4:53 |
 | 39 | [When Thugz Cry](https://open.spotify.com/track/69roVs81cxmHJQ84vfqKKv) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Until The End Of Time](https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV) | 4:22 |
 | 40 | [Starin' Through My Rear View](https://open.spotify.com/track/0hSpXZZzZakniKCgAFQjLi) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Gang Related \(The Soundtrack\)](https://open.spotify.com/album/5iqST54O6TuS2703794jwj) | 5:13 |
-| 41 | [When We Ride On Our Enemies \- Briss Remix](https://open.spotify.com/track/5XI5tzAbzrhkGtLukDTDSG) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Better Dayz](https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww) | 2:54 |
+| 41 | [My Block \- Nitty Remix](https://open.spotify.com/track/2qcllSUyD3gKbfh9NEjARW) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Better Dayz](https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww) | 5:22 |
 | 42 | [Hellrazor](https://open.spotify.com/track/1zM8jy4HqgLD12XgHatfch) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [R U Still Down? \[Remember Me\]](https://open.spotify.com/album/7zURSbIVZ5vl3NIKkrVRvl) | 4:15 |
 | 43 | [Ballad Of A Dead Soulja](https://open.spotify.com/track/7tUw8Zf8a0OcCzU1MwZHOY) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Until The End Of Time](https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV) | 4:15 |
 | 44 | [Living in Pain \(feat\. 2Pac, Mary J\. Blige & Nas\)](https://open.spotify.com/track/37ZBmAekfkMcg6TQSo1fkL) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Duets: The Final Chapter](https://open.spotify.com/album/2M6rjUsC2T3KJ8Ku2uTTQG) | 4:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 | 49 | [Unchained \(The Payback / Untouchable\)](https://open.spotify.com/track/47Zqlw3jmibtVPy8usPjBj) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack](https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L) | 2:51 |
 | 50 | [Pain](https://open.spotify.com/track/0YYLatZXRuNdjgu1Hduwry) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Stretch](https://open.spotify.com/artist/77dfG8syy9JTl5gA2l5ylj) | [Above The Rim \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD) | 4:34 |
 
-Snapshot ID: `aaOBgAAAAACVe32OVYpZ/d0iXEeCYGBr`
+Snapshot ID: `aaTTAAAAAABjQjmPoGtDxSDL0R7lxl3m`

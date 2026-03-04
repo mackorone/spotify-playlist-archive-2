@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 765198,
+  "num_followers": 765505,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -547,26 +547,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Happiness Happening",
-        "url": "https://open.spotify.com/album/0Cv2ksoLYcjvHKP0CZ89s0"
-      },
-      "artists": [
-        {
-          "name": "Lost Witness",
-          "url": "https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY"
-        },
-        {
-          "name": "Lange",
-          "url": "https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA"
-        }
-      ],
-      "duration_ms": 215480,
-      "name": "Happiness Happening - Lange Remix",
-      "url": "https://open.spotify.com/track/5FzfJkVJSn8JrYe58uM5O5"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Not Over Yet '99 (feat. Grace)",
         "url": "https://open.spotify.com/album/2P3GrMALjeCYAbFvuFFsFH"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 214266,
       "name": "Not Over Yet '99 (feat. Grace) - Radio Edit",
       "url": "https://open.spotify.com/track/3gYUvf0BzPsPky2y3oBf3d"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Happiness Happening",
+        "url": "https://open.spotify.com/album/0Cv2ksoLYcjvHKP0CZ89s0"
+      },
+      "artists": [
+        {
+          "name": "Lost Witness",
+          "url": "https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY"
+        },
+        {
+          "name": "Lange",
+          "url": "https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA"
+        }
+      ],
+      "duration_ms": 215480,
+      "name": "Happiness Happening - Lange Remix",
+      "url": "https://open.spotify.com/track/5FzfJkVJSn8JrYe58uM5O5"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
+        "name": "Trance Top 1000 - Selection 003",
+        "url": "https://open.spotify.com/album/5MZ2w49s7nsUV1jcnS3STq"
+      },
+      "artists": [
+        {
+          "name": "Push",
+          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
+        }
+      ],
+      "duration_ms": 238018,
+      "name": "Strange World",
+      "url": "https://open.spotify.com/track/7uIU44vMKlPVIh4Xm6Cgzh"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
         "name": "The Club Mix Collection",
         "url": "https://open.spotify.com/album/0RkRavz2FtCFuFe3U9iEZE"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 188099,
       "name": "Sun & Moon - Above & Beyond Club Mix",
       "url": "https://open.spotify.com/track/5uwnXVq6NrQDvIlVZznVaC"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
-        "name": "Trance Top 1000 - Selection 003",
-        "url": "https://open.spotify.com/album/5MZ2w49s7nsUV1jcnS3STq"
-      },
-      "artists": [
-        {
-          "name": "Push",
-          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
-        }
-      ],
-      "duration_ms": 238018,
-      "name": "Strange World",
-      "url": "https://open.spotify.com/track/7uIU44vMKlPVIh4Xm6Cgzh"
     }
   ],
   "unique_name": "Trance Classics",

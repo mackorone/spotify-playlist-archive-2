@@ -1,12 +1,12 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 567182,
+  "num_followers": 567582,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJtarU6eokRbsxMplBmJxmVhXJ1e",
+  "snapshot_id": "AAAAABydkwUwO08BWUb2kJl9JITt95ud",
   "tracks": [
     {
       "added_at": "2026-02-24 07:51:12",
@@ -1131,22 +1131,18 @@
     {
       "added_at": "2026-02-24 07:51:12",
       "album": {
-        "name": "Rio Revisited",
-        "url": "https://open.spotify.com/album/5ODnlDDe8dxCN23lkc8RcI"
+        "name": "In Tokyo",
+        "url": "https://open.spotify.com/album/4V81DhwAOf9L0M20rbWZDn"
       },
       "artists": [
         {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        },
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 320520,
-      "name": "Dindi - Live",
-      "url": "https://open.spotify.com/track/3ZlYRldUJNor2B8ETwhT2I"
+      "duration_ms": 361106,
+      "name": "Pra Que Discutir Com Madame? - Live",
+      "url": "https://open.spotify.com/track/13VTZ3mO1X6tYFvAwn61aB"
     },
     {
       "added_at": "2026-02-24 07:51:12",
@@ -1167,22 +1163,6 @@
     {
       "added_at": "2026-02-24 07:51:12",
       "album": {
-        "name": "In Tokyo",
-        "url": "https://open.spotify.com/album/4V81DhwAOf9L0M20rbWZDn"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 361106,
-      "name": "Pra Que Discutir Com Madame? - Live",
-      "url": "https://open.spotify.com/track/13VTZ3mO1X6tYFvAwn61aB"
-    },
-    {
-      "added_at": "2026-02-24 07:51:12",
-      "album": {
         "name": "Elis & Tom",
         "url": "https://open.spotify.com/album/1xusjxfHer7CzdlQwjuZWx"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 159506,
       "name": "Triste",
       "url": "https://open.spotify.com/track/0w4ufcWQwpRuLjOS1dpxu7"
+    },
+    {
+      "added_at": "2026-02-24 07:51:12",
+      "album": {
+        "name": "Rio Revisited",
+        "url": "https://open.spotify.com/album/5ODnlDDe8dxCN23lkc8RcI"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        },
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 320520,
+      "name": "Dindi - Live",
+      "url": "https://open.spotify.com/track/3ZlYRldUJNor2B8ETwhT2I"
     },
     {
       "added_at": "2026-02-24 07:51:12",

@@ -11450,7 +11450,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 214490,
       "name": "Soak",
       "url": "https://open.spotify.com/track/2ZX6kJnF1sFD24xzCrTqEt"
@@ -11876,6 +11876,24 @@
       "duration_ms": 204080,
       "name": "Starstruck - Single Version",
       "url": "https://open.spotify.com/track/61WB7JcbfXjDpt5WLM2ymI"
+    },
+    {
+      "album": {
+        "name": "steamroller",
+        "url": "https://open.spotify.com/album/2VUuUIOLNcmGAiL0hfgHoP"
+      },
+      "artists": [
+        {
+          "name": "better joy",
+          "url": "https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190165,
+      "name": "steamroller",
+      "url": "https://open.spotify.com/track/5CUEuD86qqiZuwUqhrtdNu"
     },
     {
       "album": {
@@ -14199,7 +14217,7 @@
     },
     {
       "album": {
-        "name": "Willow",
+        "name": "willow",
         "url": "https://open.spotify.com/album/34H26omESs9CrxasleR1Cy"
       },
       "artists": [
@@ -14212,7 +14230,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 155480,
-      "name": "Willow",
+      "name": "willow",
       "url": "https://open.spotify.com/track/5DVPSIVpyp8D80XsgRkmjN"
     },
     {

@@ -4,7 +4,7 @@
 
 > Playlist
 
-633 songs - 1 day 13 hr 30 min
+634 songs - 1 day 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,6 +441,7 @@
 | [Radio](https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Radio](https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB) | 3:11 | 2023-10-25 |  |
 | [Radio](https://open.spotify.com/track/5epFKpyjm13ZYwaK9HVmqd) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Videos](https://open.spotify.com/album/4VAsSrZ0Z1RJKZxpRvCnJp) | 3:11 | 2023-10-25 |  |
 | [Raindrop Lullaby](https://open.spotify.com/track/37r0a1ExiP6yECadOY3i7v) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Ħolma Flus](https://open.spotify.com/album/4RmQMoStr0tbs8ywNME8QL) | 2:23 | 2023-10-25 |  |
+| [Rapids of Love](https://open.spotify.com/track/5FGGgeSA7S5acKX1Z5nQPp) | [Courrier Sud](https://open.spotify.com/artist/2qR0Z9tF5eXGAyZFWQWtOm) | [Rapids of Love](https://open.spotify.com/album/0fZHbSZLXoslXNX1xuaC8D) | 2:45 | 2026-03-03 |  |
 | [RBH](https://open.spotify.com/track/5BOewMwPc8rxk2Y1gG4NSx) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte) | 4:16 | 2023-10-25 |  |
 | [Real Life](https://open.spotify.com/track/1UQJGSxagkkt7mrEZ4OTzH) | [Blacktop](https://open.spotify.com/artist/2tKIzZnbrNVtgyxye3uoZc) | [Gardening is a Practice, Not an Idea \(Deluxe\)](https://open.spotify.com/album/3A5v9tb1gc0TtegtuLTk84) | 4:02 | 2024-02-20 |  |
 | [Real Sugar](https://open.spotify.com/track/6x6N8bAelrCSRqxtZNDBru) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7), [Quantum Keys](https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve) | [Real Sugar](https://open.spotify.com/album/1VPmvMPZtM18DShIQdoLoO) | 2:41 | 2024-07-16 |  |

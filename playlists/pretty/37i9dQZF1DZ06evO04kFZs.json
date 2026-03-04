@@ -1,12 +1,12 @@
 {
   "description": "This is Pop Smoke. The essential tracks, all in one playlist.",
-  "num_followers": 495567,
+  "num_followers": 495592,
   "original_name": "This Is Pop Smoke",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaOBgAAAAAAl1F+N4Wg4V/KfNeYDhgcp",
+  "snapshot_id": "aaTTAAAAAACtlq74gvGYgnw9VLuXrlCp",
   "tracks": [
     {
       "added_at": null,
@@ -160,7 +160,7 @@
       "added_at": null,
       "album": {
         "name": "Faith",
-        "url": "https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL"
+        "url": "https://open.spotify.com/album/33H34WJU0h0QqGFZvMZqfE"
       },
       "artists": [
         {
@@ -169,12 +169,12 @@
         },
         {
           "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
         }
       ],
       "duration_ms": 156000,
-      "name": "Woo Baby (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/58T4yPLn4NjBYXfRxeweyM"
+      "name": "Woo Baby",
+      "url": "https://open.spotify.com/track/28s2lmL37j0SrdD07oRAuR"
     },
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL"
+        "name": "Meet The Woo 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/2SbCbfsxJMQz8ygrfNiA7H"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         }
       ],
-      "duration_ms": 175774,
-      "name": "Merci Beaucoup",
-      "url": "https://open.spotify.com/track/6mPZVis3gEGSSR2rhxlehT"
+      "duration_ms": 108160,
+      "name": "Get Back",
+      "url": "https://open.spotify.com/track/2r5gtqo25eRhk4bCwUMbDF"
     },
     {
       "added_at": null,
@@ -288,7 +288,7 @@
       "added_at": null,
       "album": {
         "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
-        "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
+        "url": "https://open.spotify.com/album/6CPPV9JBLRKEM0O13A3WdU"
       },
       "artists": [
         {
@@ -298,23 +298,7 @@
       ],
       "duration_ms": 108131,
       "name": "Imperfections (Interlude)",
-      "url": "https://open.spotify.com/track/42er1na9BHF1ERol51wg8M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meet The Woo 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/2SbCbfsxJMQz8ygrfNiA7H"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 108160,
-      "name": "Get Back",
-      "url": "https://open.spotify.com/track/2r5gtqo25eRhk4bCwUMbDF"
+      "url": "https://open.spotify.com/track/5MfVY0rINB7xdQDrg8buWr"
     },
     {
       "added_at": null,
@@ -343,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoot For The Stars Aim For The Moon",
-        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Gangstas",
-      "url": "https://open.spotify.com/track/1hg3RlqFZXJb5YgRoK9qmF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meet The Woo",
         "url": "https://open.spotify.com/album/3PL3Of7YmQ76TzbQPrHC50"
       },
@@ -371,6 +339,30 @@
       "duration_ms": 199826,
       "name": "PTSD",
       "url": "https://open.spotify.com/track/0aPsDo50fno6jpCU3lKmX5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shoot For The Stars Aim For The Moon",
+        "url": "https://open.spotify.com/album/6u3vDhwJ2HXHShH5kD00qL"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "The Woo",
+      "url": "https://open.spotify.com/track/0Xyapgw7NB8xf5ZvRQbwV6"
     },
     {
       "added_at": null,
@@ -411,30 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoot For The Stars Aim For The Moon",
-        "url": "https://open.spotify.com/album/6u3vDhwJ2HXHShH5kD00qL"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "The Woo",
-      "url": "https://open.spotify.com/track/0Xyapgw7NB8xf5ZvRQbwV6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meet The Woo",
         "url": "https://open.spotify.com/album/3PL3Of7YmQ76TzbQPrHC50"
       },
@@ -451,22 +419,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
-        "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
+        "name": "Shoot For The Stars Aim For The Moon",
+        "url": "https://open.spotify.com/album/3HrEoVcXbsvjY0KD2AIcNu"
       },
       "artists": [
         {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "PnB Rock",
-          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
         }
       ],
-      "duration_ms": 170669,
-      "name": "Backseat (feat. PnB Rock)",
-      "url": "https://open.spotify.com/track/0fj9oGrCKxVA4sXDxvbfiM"
+      "duration_ms": 160000,
+      "name": "Gangstas",
+      "url": "https://open.spotify.com/track/5wET197xfCQ9Mmcfj5BktY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/33H34WJU0h0QqGFZvMZqfE"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 175774,
+      "name": "Merci Beaucoup",
+      "url": "https://open.spotify.com/track/2cqJZzBrsFBtA0Qs6fj3z7"
     },
     {
       "added_at": null,
@@ -487,6 +467,42 @@
       "duration_ms": 160560,
       "name": "Mannequin",
       "url": "https://open.spotify.com/track/68MJydPlnZ3dEemNjbtHOK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meet The Woo",
+        "url": "https://open.spotify.com/album/3PL3Of7YmQ76TzbQPrHC50"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 214960,
+      "name": "Welcome To The Party",
+      "url": "https://open.spotify.com/track/16PAC7NLpbryofiPTlqTFK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
+        "url": "https://open.spotify.com/album/3Xp4gYT4TT35MitP4T11Xt"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        }
+      ],
+      "duration_ms": 170669,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/4AFf4yvEgiYptG0lvlTgNS"
     },
     {
       "added_at": null,
@@ -515,18 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meet The Woo",
-        "url": "https://open.spotify.com/album/3PL3Of7YmQ76TzbQPrHC50"
+        "name": "Meet The Woo 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/67GSw1YQhA9WGVVUSYtIGb"
       },
       "artists": [
         {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
         }
       ],
-      "duration_ms": 214960,
-      "name": "Welcome To The Party",
-      "url": "https://open.spotify.com/track/16PAC7NLpbryofiPTlqTFK"
+      "duration_ms": 190840,
+      "name": "Like Me",
+      "url": "https://open.spotify.com/track/2B33IkmDtRcU0fPMxJs7rc"
     },
     {
       "added_at": null,
@@ -555,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meet The Woo 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/67GSw1YQhA9WGVVUSYtIGb"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "PnB Rock",
-          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "Like Me",
-      "url": "https://open.spotify.com/track/2B33IkmDtRcU0fPMxJs7rc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "State of Emergency",
         "url": "https://open.spotify.com/album/26d9EFfi2YSvhQv7KKcrNw"
       },
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Flexin'",
+        "url": "https://open.spotify.com/album/2btHhe22xGgvbAlAAr5EOI"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 158693,
+      "name": "Flexin'",
+      "url": "https://open.spotify.com/track/5t7m9aBw4iaIdxvU9Ki0qy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Intentions",
         "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 179371,
       "name": "Run It Up (feat. Pop Smoke)",
       "url": "https://open.spotify.com/track/6LUE5WlMgrpLouGxzJAUVv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flexin'",
-        "url": "https://open.spotify.com/album/2btHhe22xGgvbAlAAr5EOI"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 158693,
-      "name": "Flexin'",
-      "url": "https://open.spotify.com/track/5t7m9aBw4iaIdxvU9Ki0qy"
     },
     {
       "added_at": null,
@@ -723,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith (Deluxe)",
-        "url": "https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 229253,
-      "name": "Mr. Jones (feat. Anuel AA)",
-      "url": "https://open.spotify.com/track/3QPZqYIzgEXbVouiHpu7wR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Know NIGO!",
         "url": "https://open.spotify.com/album/14CQcafIVPmyMXbqZvU79T"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 135111,
       "name": "Remember",
       "url": "https://open.spotify.com/track/1Q7sbHZrWpvaww9XjV26KA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "100k On A Coupe",
+        "url": "https://open.spotify.com/album/05KwKSKIC05Z9KxqXRp2D5"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Calboy",
+          "url": "https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk"
+        }
+      ],
+      "duration_ms": 117093,
+      "name": "100k On A Coupe",
+      "url": "https://open.spotify.com/track/6ra0Dds8XigftgKs64R1zq"
     },
     {
       "added_at": null,
@@ -787,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "100k On A Coupe",
-        "url": "https://open.spotify.com/album/05KwKSKIC05Z9KxqXRp2D5"
+        "name": "Faith (Deluxe)",
+        "url": "https://open.spotify.com/album/4Cp6J4hJ0FMExUB5zairUD"
       },
       "artists": [
         {
@@ -796,13 +796,13 @@
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         },
         {
-          "name": "Calboy",
-          "url": "https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 117093,
-      "name": "100k On A Coupe",
-      "url": "https://open.spotify.com/track/6ra0Dds8XigftgKs64R1zq"
+      "duration_ms": 229253,
+      "name": "Mr. Jones",
+      "url": "https://open.spotify.com/track/4XBYx8alo2XYPSXN5LINuf"
     },
     {
       "added_at": null,
@@ -823,22 +823,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith (Deluxe)",
-        "url": "https://open.spotify.com/album/4Cp6J4hJ0FMExUB5zairUD"
+        "name": "Culture III",
+        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
       },
       "artists": [
         {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
         },
         {
-          "name": "Rah Swish",
-          "url": "https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH"
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         }
       ],
-      "duration_ms": 111699,
-      "name": "Don\u2019t Know Em",
-      "url": "https://open.spotify.com/track/5anxr6abawSgMj6HJTvU1d"
+      "duration_ms": 269248,
+      "name": "Light It Up (feat. Pop Smoke)",
+      "url": "https://open.spotify.com/track/5rIjbX7rQMj8Gh9Oxd4Vrc"
     },
     {
       "added_at": null,
@@ -859,22 +859,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culture III",
-        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
+        "name": "Faith (Deluxe)",
+        "url": "https://open.spotify.com/album/4Cp6J4hJ0FMExUB5zairUD"
       },
       "artists": [
         {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Rah Swish",
+          "url": "https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH"
         }
       ],
-      "duration_ms": 269248,
-      "name": "Light It Up (feat. Pop Smoke)",
-      "url": "https://open.spotify.com/track/5rIjbX7rQMj8Gh9Oxd4Vrc"
+      "duration_ms": 111699,
+      "name": "Don\u2019t Know Em",
+      "url": "https://open.spotify.com/track/5anxr6abawSgMj6HJTvU1d"
     },
     {
       "added_at": null,

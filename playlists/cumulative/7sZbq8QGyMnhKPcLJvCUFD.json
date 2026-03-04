@@ -3179,6 +3179,24 @@
     },
     {
       "album": {
+        "name": "Damaged",
+        "url": "https://open.spotify.com/album/4Vefk566eZiUWTERSuQIfe"
+      },
+      "artists": [
+        {
+          "name": "Kronus",
+          "url": "https://open.spotify.com/artist/6e9dyfp9Y8eiosc52OlwWj"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Damaged",
+      "url": "https://open.spotify.com/track/7uQ10UJqGiy2cTF8EbRhBn"
+    },
+    {
+      "album": {
         "name": "Dancefloor Dreamer",
         "url": "https://open.spotify.com/album/0ua5vqPejkdNDL5StE0hBH"
       },

@@ -1,6 +1,6 @@
 {
   "description": "The Detty December anthems over the years ",
-  "num_followers": 7981,
+  "num_followers": 7994,
   "original_name": "Best of Detty December",
   "owner": {
     "name": "Spotify",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2025-12-23 16:53:12",
       "album": {
-        "name": "Disturbation",
-        "url": "https://open.spotify.com/album/0j9IMbrY6McGzdOemNlIr6"
-      },
-      "artists": [
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        },
-        {
-          "name": "Sister Deborah",
-          "url": "https://open.spotify.com/artist/3RM7YoeiC3yijn8k8uCGA7"
-        }
-      ],
-      "duration_ms": 240157,
-      "name": "Too Risky (feat. Sister Deborah)",
-      "url": "https://open.spotify.com/track/6yksWuhZ3s7KH7sfZp50x4"
-    },
-    {
-      "added_at": "2025-12-23 16:53:12",
-      "album": {
         "name": "Amanfuor Girls",
         "url": "https://open.spotify.com/album/1NU6M9KwNpddbZGa1xqlBi"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 193515,
       "name": "Amanfuor Girls",
       "url": "https://open.spotify.com/track/01q9VZfRk6bCEe2jgx64tN"
+    },
+    {
+      "added_at": "2025-12-23 16:53:12",
+      "album": {
+        "name": "Disturbation",
+        "url": "https://open.spotify.com/album/0j9IMbrY6McGzdOemNlIr6"
+      },
+      "artists": [
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        },
+        {
+          "name": "Sister Deborah",
+          "url": "https://open.spotify.com/artist/3RM7YoeiC3yijn8k8uCGA7"
+        }
+      ],
+      "duration_ms": 240157,
+      "name": "Too Risky (feat. Sister Deborah)",
+      "url": "https://open.spotify.com/track/6yksWuhZ3s7KH7sfZp50x4"
     },
     {
       "added_at": "2025-12-23 16:53:12",

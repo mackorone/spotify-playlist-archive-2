@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-1,006 songs - 2 day 9 hr 16 min
+1,007 songs - 2 day 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,6 +438,7 @@
 | [In The Year 2525 \(ghosts in chains\)](https://open.spotify.com/track/4aYcjqNEdC6CAwtFz4k7HN) | [Thee Wrecking Crew](https://open.spotify.com/artist/0RltW94tVg6OztzLsGu51w) | [In The Year 2525 \(ghosts in chains\)](https://open.spotify.com/album/0Uopy1Q0QcBFLGF40wZJNu) | 3:29 | 2026-02-26 |  |
 | [In This State](https://open.spotify.com/track/67TBz4hsUn1BaPGzvUxkBT) | [You Citizen](https://open.spotify.com/artist/4HWNin3OTnIx7rQ7fmECOT) | [In This State](https://open.spotify.com/album/0ZArbJfI296gekF5UFFRQJ) | 3:09 | 2026-02-23 |  |
 | [Insane](https://open.spotify.com/track/0qvuPbmtrcNTOZMF19pVJk) | [Alex Vecchietti](https://open.spotify.com/artist/3fI1wOMASMQNUz2iFhg3WM) | [Insane](https://open.spotify.com/album/2Ms9hDgUk2IzrvuUPmlfpa) | 4:32 | 2025-11-07 | 2025-12-10 |
+| [INSANE](https://open.spotify.com/track/5zIvaDDVmix3RrE79Ifw6b) | [Mercedes & Marxx](https://open.spotify.com/artist/11Biva5YYueJ1lSg2UzoS8) | [INSANE](https://open.spotify.com/album/6t6r2yWgSCNsZQh3dtIUoJ) | 1:23 | 2026-03-03 |  |
 | [Integration](https://open.spotify.com/track/3OJdvSdzZbYC1tXtalZaNW) | [Ape Bucket](https://open.spotify.com/artist/18wqhsjlZgcc68jrcsum08) | [Integration](https://open.spotify.com/album/4FaXkw9MRR791Q3weqGjj0) | 2:34 | 2025-11-30 | 2025-12-24 |
 | [Into The Abyss](https://open.spotify.com/track/2i3wLIHbtIfAAV8IIWv18p) | [Banner Of The Sun](https://open.spotify.com/artist/2mXehPu27jCUu7PuQgYoZq) | [Into The Abyss](https://open.spotify.com/album/6mFmaXf3aTwmLFUPasr0Dc) | 4:55 | 2026-01-01 | 2026-02-27 |
 | [Intro](https://open.spotify.com/track/3y31Rv3XEaUipUJHXiojZ8) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 1:12 | 2025-08-03 | 2026-01-17 |

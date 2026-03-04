@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:7LRG0giU7EnricaEi0qEcm\">Glomar\u00ec</a> in cover. ",
+  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:3x99VxtGkA6KaeWlu6zeOQ\">Umarell</a> in cover. ",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -16368,6 +16368,18 @@
         {
           "name": "SKA",
           "url": "https://open.spotify.com/artist/39pgwDIoXEdNJQMkjW8STa"
+        },
+        {
+          "name": "Rippo",
+          "url": "https://open.spotify.com/artist/3k5my6QI1j0bFI1NVsbS8V"
+        },
+        {
+          "name": "M\u2206TT\u2206",
+          "url": "https://open.spotify.com/artist/3CwI5yomtVBfsF9qp8dYY4"
+        },
+        {
+          "name": "TNRG",
+          "url": "https://open.spotify.com/artist/6vD5lToi3AioelHmErea92"
         }
       ],
       "date_added": "2026-02-24",
@@ -16984,7 +16996,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 216428,
       "name": "Io non sento niente",
       "url": "https://open.spotify.com/track/5Iust9wFkcYrCJuFagdFpn"
@@ -31267,6 +31279,28 @@
     },
     {
       "album": {
+        "name": "SASSOLINI",
+        "url": "https://open.spotify.com/album/2iKxxiswadeBCb0ygLzLn8"
+      },
+      "artists": [
+        {
+          "name": "Umarell",
+          "url": "https://open.spotify.com/artist/3x99VxtGkA6KaeWlu6zeOQ"
+        },
+        {
+          "name": "Dacota",
+          "url": "https://open.spotify.com/artist/0yTK9PkVBhKwdiyuOeSk9l"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235135,
+      "name": "SASSOLINI",
+      "url": "https://open.spotify.com/track/5a7QliDX7evbREoLbAxnzt"
+    },
+    {
+      "album": {
         "name": "Scartaggi",
         "url": "https://open.spotify.com/album/06BUg0CBtQcPvXmAA8Uwx1"
       },
@@ -34018,7 +34052,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 165261,
       "name": "Specchio (ultimo quarto di luna)",
       "url": "https://open.spotify.com/track/2mJx6pmaeHlAAyF3pzOmFK"
@@ -35756,6 +35790,24 @@
       "duration_ms": 249600,
       "name": "Telefono",
       "url": "https://open.spotify.com/track/2tUucaBcZMaYW2bsGGCs9S"
+    },
+    {
+      "album": {
+        "name": "Versante / Telenek / Querciada",
+        "url": "https://open.spotify.com/album/6tFCgpAO1xBSwQWhEJ1Apn"
+      },
+      "artists": [
+        {
+          "name": "AGA",
+          "url": "https://open.spotify.com/artist/6o1ZHc5cD5f0ob011mOkpj"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169945,
+      "name": "Telenek",
+      "url": "https://open.spotify.com/track/4n5lmA2C3sDD9DYpzwoUHv"
     },
     {
       "album": {

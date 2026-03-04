@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 504 likes - 390 songs - 20 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 503 likes - 390 songs - 20 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -323,8 +323,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 313 | [Overture \(From "High Society"\)](https://open.spotify.com/track/2orFSIsIFOJwv2f0BghtIk) | [London Theatre Orchestra & Cast](https://open.spotify.com/artist/2ZPXbNAQIgBkQxukGDNgsf) | [Shows: West End](https://open.spotify.com/album/0QcAUuZA4g8vIBC0d32M7w) | 2:59 |
 | 314 | [I Irritate You So](https://open.spotify.com/track/39exMzvVBRgoIzGpNhIR12) | [Michael Howe](https://open.spotify.com/artist/4ZouagmUEgwHdqognjwU7m), [Tracey Childs](https://open.spotify.com/artist/0GnKoo51OMVFseRlXMfuhu) | [High Society \(Original UK Cast Recording\)](https://open.spotify.com/album/7wk0DNayz0sHorhvvPcfB4) | 2:26 |
 | 315 | [Since I Kissed My Baby Good Bye](https://open.spotify.com/track/4Ce8RDk8IoMRK3P49xO3Lc) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter & Freed](https://open.spotify.com/album/0n4c2MgarqOeY4pxl0KzlR) | 3:00 |
-| 316 | [Out of This World: I Sleep Easier Now](https://open.spotify.com/track/20kbj0JrHPoEYbp4nLuSqm) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Charlotte Greenwood](https://open.spotify.com/artist/1D67yo8KRNdrSM6GN7Ldev), [Pembroke Davenport](https://open.spotify.com/artist/4fdPrPKYcvauQeQEJFmX8S) | [Out of This World \(Original Broadway Cast Recording\)](https://open.spotify.com/album/5XaCug531Bjw4e0nUBhazb) | 3:44 |
-| 317 | [I'm in Love with a Soldier Boy](https://open.spotify.com/track/2gQdnyz3D4fP064AlmKTVd) | [Sara Jean Ford](https://open.spotify.com/artist/623OjNkhQw1xarNCQZqiO3) | [Something for the Boys \(2018 Studio Cast Recording\)](https://open.spotify.com/album/65LY4Eb3mx3xevfaycMflh) | 4:44 |
+| 316 | [I'm in Love with a Soldier Boy](https://open.spotify.com/track/2gQdnyz3D4fP064AlmKTVd) | [Sara Jean Ford](https://open.spotify.com/artist/623OjNkhQw1xarNCQZqiO3) | [Something for the Boys \(2018 Studio Cast Recording\)](https://open.spotify.com/album/65LY4Eb3mx3xevfaycMflh) | 4:44 |
+| 317 | [Out of This World: I Sleep Easier Now](https://open.spotify.com/track/20kbj0JrHPoEYbp4nLuSqm) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Charlotte Greenwood](https://open.spotify.com/artist/1D67yo8KRNdrSM6GN7Ldev), [Pembroke Davenport](https://open.spotify.com/artist/4fdPrPKYcvauQeQEJFmX8S) | [Out of This World \(Original Broadway Cast Recording\)](https://open.spotify.com/album/5XaCug531Bjw4e0nUBhazb) | 3:44 |
 | 318 | [Poor Young Millionaire](https://open.spotify.com/track/2GGa2K7zrvokGAVOiNnoC5) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [At Long Last Love \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1p8WBhvdpAtNKFq7kmAdq7) | 2:19 |
 | 319 | [I'm Throwing A Ball Tonight](https://open.spotify.com/track/712paP8nSW4a09CmWV5R16) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [At Town Hall](https://open.spotify.com/album/22jmkMF690kHhH7dnCHpr9) | 3:16 |
 | 320 | [As On Through The Seasons We Sail](https://open.spotify.com/track/6YKT7w5rJdrPzgSCVoQAHF) | [Hildegard Knef](https://open.spotify.com/artist/66aVJ4ocSmKcdrRUCXR8j0), [Don Ameche](https://open.spotify.com/artist/22gGmNLnhoGsskm04ARcnD) | [Aber schön war es doch](https://open.spotify.com/album/1Oe9SEYnEdckmNyFea0mTw) | 2:30 |
@@ -399,4 +399,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 389 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 | 390 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AcLFgAAAAAB+GDFDnTl+Svrt2ABSDSwR`
+Snapshot ID: `AcLLIAAAAACt9nheJx9OBaqgkWz9wcVf`

@@ -1921,6 +1921,24 @@
     },
     {
       "album": {
+        "name": "Tiny Light",
+        "url": "https://open.spotify.com/album/29itUVO9h0qMhglTVctEQD"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207013,
+      "name": "Tiny Light",
+      "url": "https://open.spotify.com/track/0r4WKpapZS9Fit7iJr3XM1"
+    },
+    {
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
       },

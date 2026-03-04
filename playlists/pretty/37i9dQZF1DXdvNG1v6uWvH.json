@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist Laufey, Thorsteinn Einarsson og m\u00f6rgum fleiri!",
-  "num_followers": 9600,
+  "num_followers": 9601,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -91,18 +91,18 @@
     {
       "added_at": "2026-02-27 00:00:44",
       "album": {
-        "name": "DISNEY PRINCESS",
-        "url": "https://open.spotify.com/album/65M9cSEwKpKqkZRiMCrX2H"
+        "name": "DEADLINE",
+        "url": "https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx"
       },
       "artists": [
         {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
         }
       ],
-      "duration_ms": 245441,
-      "name": "DISNEY PRINCESS",
-      "url": "https://open.spotify.com/track/1DH4XuBpL3HreZ7TmawEjR"
+      "duration_ms": 195402,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB"
     },
     {
       "added_at": "2026-02-27 00:00:44",
@@ -139,18 +139,18 @@
     {
       "added_at": "2026-02-27 00:00:44",
       "album": {
-        "name": "Nightingale Lane.",
-        "url": "https://open.spotify.com/album/22FLublraJkicHyrK2egu0"
+        "name": "DISNEY PRINCESS",
+        "url": "https://open.spotify.com/album/65M9cSEwKpKqkZRiMCrX2H"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
         }
       ],
-      "duration_ms": 302623,
-      "name": "Nightingale Lane.",
-      "url": "https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF"
+      "duration_ms": 245441,
+      "name": "DISNEY PRINCESS",
+      "url": "https://open.spotify.com/track/1DH4XuBpL3HreZ7TmawEjR"
     },
     {
       "added_at": "2026-02-27 00:00:44",
@@ -175,18 +175,18 @@
     {
       "added_at": "2026-02-27 00:00:44",
       "album": {
-        "name": "DEADLINE",
-        "url": "https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx"
+        "name": "Nightingale Lane.",
+        "url": "https://open.spotify.com/album/22FLublraJkicHyrK2egu0"
       },
       "artists": [
         {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 195402,
-      "name": "GO",
-      "url": "https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB"
+      "duration_ms": 302623,
+      "name": "Nightingale Lane.",
+      "url": "https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF"
     },
     {
       "added_at": "2026-02-27 00:00:44",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-02-27 00:00:44",
       "album": {
-        "name": "OLD TECHNOLOGY",
-        "url": "https://open.spotify.com/album/6GkFvjqAuoIXk1SoAmG6Iw"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 159198,
-      "name": "OLD TECHNOLOGY",
-      "url": "https://open.spotify.com/track/02rYuBEPjNLm74mN9IxH0v"
-    },
-    {
-      "added_at": "2026-02-27 00:00:44",
-      "album": {
         "name": "KiLL iT QUEEN",
         "url": "https://open.spotify.com/album/5YD2OXFbiw3S7kdL88p3X2"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 168387,
       "name": "KiLL iT QUEEN",
       "url": "https://open.spotify.com/track/0vEbs5wZEqnrTnRppLGZaU"
+    },
+    {
+      "added_at": "2026-02-27 00:00:44",
+      "album": {
+        "name": "OLD TECHNOLOGY",
+        "url": "https://open.spotify.com/album/6GkFvjqAuoIXk1SoAmG6Iw"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 159198,
+      "name": "OLD TECHNOLOGY",
+      "url": "https://open.spotify.com/track/02rYuBEPjNLm74mN9IxH0v"
     },
     {
       "added_at": "2026-02-27 00:00:44",
@@ -423,18 +423,18 @@
     {
       "added_at": "2026-02-27 00:00:44",
       "album": {
-        "name": "Criminal (From the Original Motion Picture Scream 7)",
-        "url": "https://open.spotify.com/album/2nmVXKVnYRht1PxXZ6aguS"
+        "name": "psychokiller / myself",
+        "url": "https://open.spotify.com/album/2IUOsRFVSNNxG5bbEfWMTB"
       },
       "artists": [
         {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
         }
       ],
-      "duration_ms": 199305,
-      "name": "Criminal - From the Original Motion Picture Scream 7",
-      "url": "https://open.spotify.com/track/7FzmTWZg0cmBXOr5428N8R"
+      "duration_ms": 113982,
+      "name": "psychokiller",
+      "url": "https://open.spotify.com/track/09V4HW3dQhhYrKYOQE2JIb"
     },
     {
       "added_at": "2026-02-27 00:00:44",
@@ -471,18 +471,18 @@
     {
       "added_at": "2026-02-27 00:00:44",
       "album": {
-        "name": "psychokiller / myself",
-        "url": "https://open.spotify.com/album/2IUOsRFVSNNxG5bbEfWMTB"
+        "name": "Criminal (From the Original Motion Picture Scream 7)",
+        "url": "https://open.spotify.com/album/2nmVXKVnYRht1PxXZ6aguS"
       },
       "artists": [
         {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
-      "duration_ms": 113982,
-      "name": "psychokiller",
-      "url": "https://open.spotify.com/track/09V4HW3dQhhYrKYOQE2JIb"
+      "duration_ms": 199305,
+      "name": "Criminal - From the Original Motion Picture Scream 7",
+      "url": "https://open.spotify.com/track/7FzmTWZg0cmBXOr5428N8R"
     },
     {
       "added_at": "2026-02-27 00:00:44",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-02-27 00:00:44",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/4hTEZj29aVNemOnkh6WEx7"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/1R8roLxSplNe52UVoKYApE"
-    },
-    {
-      "added_at": "2026-02-27 00:00:44",
-      "album": {
         "name": "Solace II",
         "url": "https://open.spotify.com/album/0csdTMdBLQseo4FFt1nRXa"
       },
@@ -671,22 +655,34 @@
     {
       "added_at": "2026-02-27 00:00:44",
       "album": {
-        "name": "Adi\u00f3s",
-        "url": "https://open.spotify.com/album/6cQN4xp9wJ5fOuaVt2gVye"
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/4hTEZj29aVNemOnkh6WEx7"
       },
       "artists": [
         {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
-        },
-        {
-          "name": "Alvaro Soler",
-          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
         }
       ],
-      "duration_ms": 175029,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/3D4trADwg7QGGpFlLSLg48"
+      "duration_ms": 233666,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/1R8roLxSplNe52UVoKYApE"
+    },
+    {
+      "added_at": "2026-02-27 00:00:44",
+      "album": {
+        "name": "Who You Are",
+        "url": "https://open.spotify.com/album/4IBP5WdSi1Ar7jjCZPx3AC"
+      },
+      "artists": [
+        {
+          "name": "BLAD\u00cb",
+          "url": "https://open.spotify.com/artist/2IU0KXU1L7fIfAqzG4VcgC"
+        }
+      ],
+      "duration_ms": 184973,
+      "name": "Who You Are",
+      "url": "https://open.spotify.com/track/40rFM7F36B3gmwdy86VfoI"
     },
     {
       "added_at": "2026-02-27 00:00:44",
@@ -707,18 +703,22 @@
     {
       "added_at": "2026-02-27 00:00:44",
       "album": {
-        "name": "Who You Are",
-        "url": "https://open.spotify.com/album/4IBP5WdSi1Ar7jjCZPx3AC"
+        "name": "Adi\u00f3s",
+        "url": "https://open.spotify.com/album/6cQN4xp9wJ5fOuaVt2gVye"
       },
       "artists": [
         {
-          "name": "BLAD\u00cb",
-          "url": "https://open.spotify.com/artist/2IU0KXU1L7fIfAqzG4VcgC"
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        },
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
         }
       ],
-      "duration_ms": 184973,
-      "name": "Who You Are",
-      "url": "https://open.spotify.com/track/40rFM7F36B3gmwdy86VfoI"
+      "duration_ms": 175029,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/3D4trADwg7QGGpFlLSLg48"
     },
     {
       "added_at": "2026-02-27 00:00:44",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-02-27 00:00:44",
       "album": {
-        "name": "If I Was With You",
-        "url": "https://open.spotify.com/album/4hIcCrnVwbklpJy14UhCuN"
-      },
-      "artists": [
-        {
-          "name": "Presley Regier",
-          "url": "https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc"
-        }
-      ],
-      "duration_ms": 205789,
-      "name": "If I Was With You",
-      "url": "https://open.spotify.com/track/5M19tUtR2VwhBNS3whND8m"
-    },
-    {
-      "added_at": "2026-02-27 00:00:44",
-      "album": {
         "name": "Jessica",
         "url": "https://open.spotify.com/album/6thc6P1FYS3Kzl1hYNPzK5"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 156134,
       "name": "Jessica",
       "url": "https://open.spotify.com/track/2cgyrxw33orB2wTVTGCHE6"
+    },
+    {
+      "added_at": "2026-02-27 00:00:44",
+      "album": {
+        "name": "If I Was With You",
+        "url": "https://open.spotify.com/album/4hIcCrnVwbklpJy14UhCuN"
+      },
+      "artists": [
+        {
+          "name": "Presley Regier",
+          "url": "https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc"
+        }
+      ],
+      "duration_ms": 205789,
+      "name": "If I Was With You",
+      "url": "https://open.spotify.com/track/5M19tUtR2VwhBNS3whND8m"
     },
     {
       "added_at": "2026-02-27 00:00:44",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-02-27 00:00:44",
       "album": {
+        "name": "Bindegal",
+        "url": "https://open.spotify.com/album/6Y85nBPlC5I3nG2oiymNNL"
+      },
+      "artists": [
+        {
+          "name": "Bastian",
+          "url": "https://open.spotify.com/artist/2aVSAsnjQKM1vb0D8tUxTe"
+        }
+      ],
+      "duration_ms": 155671,
+      "name": "Bindegal",
+      "url": "https://open.spotify.com/track/6Qo3RIVyTbXOyJgCUh32Rx"
+    },
+    {
+      "added_at": "2026-02-27 00:00:44",
+      "album": {
         "name": "FLAMMABLE",
         "url": "https://open.spotify.com/album/3L9bw5y8f5lDIjkjKjBArr"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 151058,
       "name": "I'M DEAD",
       "url": "https://open.spotify.com/track/7z8n4qHDR43v3J6lP3DhSr"
-    },
-    {
-      "added_at": "2026-02-27 00:00:44",
-      "album": {
-        "name": "Bindegal",
-        "url": "https://open.spotify.com/album/6Y85nBPlC5I3nG2oiymNNL"
-      },
-      "artists": [
-        {
-          "name": "Bastian",
-          "url": "https://open.spotify.com/artist/2aVSAsnjQKM1vb0D8tUxTe"
-        }
-      ],
-      "duration_ms": 155671,
-      "name": "Bindegal",
-      "url": "https://open.spotify.com/track/6Qo3RIVyTbXOyJgCUh32Rx"
     },
     {
       "added_at": "2026-02-27 00:00:44",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-02-27 00:00:44",
       "album": {
-        "name": "Frostbite",
-        "url": "https://open.spotify.com/album/2g1TwgoxMYyQjFWeBwJ8Yz"
-      },
-      "artists": [
-        {
-          "name": "Marie Dahlstrom",
-          "url": "https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM"
-        }
-      ],
-      "duration_ms": 210613,
-      "name": "Frostbite",
-      "url": "https://open.spotify.com/track/4rZk8pAA1RXsGAAea5sIZg"
-    },
-    {
-      "added_at": "2026-02-27 00:00:44",
-      "album": {
         "name": "Flaskepost",
         "url": "https://open.spotify.com/album/3Be2whkFRXIUnHcgZuZMT1"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 145831,
       "name": "Flaskepost",
       "url": "https://open.spotify.com/track/2DMHPaLF4ODb5onP1dQIX2"
+    },
+    {
+      "added_at": "2026-02-27 00:00:44",
+      "album": {
+        "name": "Frostbite",
+        "url": "https://open.spotify.com/album/2g1TwgoxMYyQjFWeBwJ8Yz"
+      },
+      "artists": [
+        {
+          "name": "Marie Dahlstrom",
+          "url": "https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM"
+        }
+      ],
+      "duration_ms": 210613,
+      "name": "Frostbite",
+      "url": "https://open.spotify.com/track/4rZk8pAA1RXsGAAea5sIZg"
     },
     {
       "added_at": "2026-02-27 00:00:44",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-02-27 00:00:44",
       "album": {
-        "name": "TYND IS",
-        "url": "https://open.spotify.com/album/0Gl29HWEeplJfTuZe7m8Bc"
-      },
-      "artists": [
-        {
-          "name": "3XB",
-          "url": "https://open.spotify.com/artist/5mclFegO0RRuDnxI8d0dW7"
-        }
-      ],
-      "duration_ms": 144966,
-      "name": "TYND IS",
-      "url": "https://open.spotify.com/track/702CvPDpJKNAFZ4L31rHo3"
-    },
-    {
-      "added_at": "2026-02-27 00:00:44",
-      "album": {
         "name": "Why Worry",
         "url": "https://open.spotify.com/album/52nhT7tqPyn8waEt0sp1FF"
       },
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2026-02-27 00:00:44",
       "album": {
-        "name": "Frank Morgan",
-        "url": "https://open.spotify.com/album/6GTz0PxtzKqXkOTWVvqD0T"
+        "name": "TYND IS",
+        "url": "https://open.spotify.com/album/0Gl29HWEeplJfTuZe7m8Bc"
       },
       "artists": [
         {
-          "name": "Molly Millington",
-          "url": "https://open.spotify.com/artist/52GBEgAVGUOB8bXQQ4s9aF"
+          "name": "3XB",
+          "url": "https://open.spotify.com/artist/5mclFegO0RRuDnxI8d0dW7"
         }
       ],
-      "duration_ms": 148046,
-      "name": "Julius",
-      "url": "https://open.spotify.com/track/1KZtHJmH506XpgwUnwBfdE"
+      "duration_ms": 144966,
+      "name": "TYND IS",
+      "url": "https://open.spotify.com/track/702CvPDpJKNAFZ4L31rHo3"
     },
     {
       "added_at": "2026-02-27 00:00:44",
@@ -1199,6 +1183,22 @@
       "duration_ms": 247625,
       "name": "Give (Me) Up",
       "url": "https://open.spotify.com/track/6zNe2fu8mQ0sinM6iaRU3b"
+    },
+    {
+      "added_at": "2026-02-27 00:00:44",
+      "album": {
+        "name": "Frank Morgan",
+        "url": "https://open.spotify.com/album/6GTz0PxtzKqXkOTWVvqD0T"
+      },
+      "artists": [
+        {
+          "name": "Molly Millington",
+          "url": "https://open.spotify.com/artist/52GBEgAVGUOB8bXQQ4s9aF"
+        }
+      ],
+      "duration_ms": 148046,
+      "name": "Julius",
+      "url": "https://open.spotify.com/track/1KZtHJmH506XpgwUnwBfdE"
     },
     {
       "added_at": "2026-02-27 00:00:44",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-02-27 00:00:44",
       "album": {
-        "name": "Centrum",
-        "url": "https://open.spotify.com/album/4E7YrshLJ7x35zDl1B9fKj"
-      },
-      "artists": [
-        {
-          "name": "Oliverz",
-          "url": "https://open.spotify.com/artist/43Yots6ThjP8kBlbKtSSGv"
-        }
-      ],
-      "duration_ms": 148235,
-      "name": "Centrum",
-      "url": "https://open.spotify.com/track/6UMjGy91qTTieONOqlTChs"
-    },
-    {
-      "added_at": "2026-02-27 00:00:44",
-      "album": {
         "name": "Epoxyprimer",
         "url": "https://open.spotify.com/album/2JzoyqmhrfUgBZmepBIegm"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 255685,
       "name": "Epoxyprimer",
       "url": "https://open.spotify.com/track/5KCALcsWcMBLCpEbja8gRN"
+    },
+    {
+      "added_at": "2026-02-27 00:00:44",
+      "album": {
+        "name": "Centrum",
+        "url": "https://open.spotify.com/album/4E7YrshLJ7x35zDl1B9fKj"
+      },
+      "artists": [
+        {
+          "name": "Oliverz",
+          "url": "https://open.spotify.com/artist/43Yots6ThjP8kBlbKtSSGv"
+        }
+      ],
+      "duration_ms": 148235,
+      "name": "Centrum",
+      "url": "https://open.spotify.com/track/6UMjGy91qTTieONOqlTChs"
     },
     {
       "added_at": "2026-02-27 00:00:44",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-02-27 00:00:44",
       "album": {
-        "name": "Hver Til Sit",
-        "url": "https://open.spotify.com/album/0vLPsm6udmAtZzLOXxho9V"
-      },
-      "artists": [
-        {
-          "name": "navi",
-          "url": "https://open.spotify.com/artist/4lhKn0ZuHyvFb6RGwJhZiz"
-        }
-      ],
-      "duration_ms": 139036,
-      "name": "Hver Til Sit",
-      "url": "https://open.spotify.com/track/5EtPGeHCG7871hSGXu7DI0"
-    },
-    {
-      "added_at": "2026-02-27 00:00:44",
-      "album": {
         "name": "Like I Was Never Mine",
         "url": "https://open.spotify.com/album/2t1qvOtqDrRMVHVKhlM4SQ"
       },
@@ -1427,22 +1411,6 @@
     {
       "added_at": "2026-02-27 00:00:44",
       "album": {
-        "name": "on my knees",
-        "url": "https://open.spotify.com/album/47dqQoOij5O8vJcS5lM478"
-      },
-      "artists": [
-        {
-          "name": "NAYAH",
-          "url": "https://open.spotify.com/artist/7GmytFDh3FcRjvCmk2Ylpe"
-        }
-      ],
-      "duration_ms": 195728,
-      "name": "on my knees",
-      "url": "https://open.spotify.com/track/3bFEQuZiuQXNynJllNiyaP"
-    },
-    {
-      "added_at": "2026-02-27 00:00:44",
-      "album": {
         "name": "SYMPTOMS",
         "url": "https://open.spotify.com/album/6jrtTWFbi0K96Tb823TEGT"
       },
@@ -1455,6 +1423,38 @@
       "duration_ms": 180783,
       "name": "DELUSION",
       "url": "https://open.spotify.com/track/1uKpt4HpbEi6BJ7lPCJThA"
+    },
+    {
+      "added_at": "2026-02-27 00:00:44",
+      "album": {
+        "name": "Hver Til Sit",
+        "url": "https://open.spotify.com/album/0vLPsm6udmAtZzLOXxho9V"
+      },
+      "artists": [
+        {
+          "name": "navi",
+          "url": "https://open.spotify.com/artist/4lhKn0ZuHyvFb6RGwJhZiz"
+        }
+      ],
+      "duration_ms": 139036,
+      "name": "Hver Til Sit",
+      "url": "https://open.spotify.com/track/5EtPGeHCG7871hSGXu7DI0"
+    },
+    {
+      "added_at": "2026-02-27 00:00:44",
+      "album": {
+        "name": "on my knees",
+        "url": "https://open.spotify.com/album/47dqQoOij5O8vJcS5lM478"
+      },
+      "artists": [
+        {
+          "name": "NAYAH",
+          "url": "https://open.spotify.com/artist/7GmytFDh3FcRjvCmk2Ylpe"
+        }
+      ],
+      "duration_ms": 195728,
+      "name": "on my knees",
+      "url": "https://open.spotify.com/track/3bFEQuZiuQXNynJllNiyaP"
     },
     {
       "added_at": "2026-02-27 00:00:44",

@@ -840,7 +840,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 282200,
       "name": "Anugerah Terindah",
       "url": "https://open.spotify.com/track/6gjkHuMOR0CrN7Vb2NoEdg"
@@ -3816,7 +3816,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 247853,
       "name": "Firasat",
       "url": "https://open.spotify.com/track/3cHjFfvxo7ZIz9Px32V9aA"
@@ -11390,7 +11390,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 308036,
       "name": "Surat Cinta Untuk Starla",
       "url": "https://open.spotify.com/track/5o6StwqqVfG3vRLx8UP310"
@@ -12036,6 +12036,24 @@
       "duration_ms": 278000,
       "name": "Tanpa Rasa Bersalah",
       "url": "https://open.spotify.com/track/4Trhv4MBai2ay6vF5ovC7g"
+    },
+    {
+      "album": {
+        "name": "Kenyataan Perasaan",
+        "url": "https://open.spotify.com/album/61AGUY22dIy89vcxCUvC00"
+      },
+      "artists": [
+        {
+          "name": "Kerispatih",
+          "url": "https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270671,
+      "name": "Tapi Bukan Aku",
+      "url": "https://open.spotify.com/track/0BrH4b7su9uLELM1h5Xlzw"
     },
     {
       "album": {

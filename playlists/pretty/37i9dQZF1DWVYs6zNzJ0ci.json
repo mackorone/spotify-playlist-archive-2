@@ -1,6 +1,6 @@
 {
   "description": "Vibraciones rastafari con Nonpalidece & Tippy I-Grade",
-  "num_followers": 1173469,
+  "num_followers": 1173392,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -855,50 +855,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Cypher #6 (Reggae Cypher)",
-        "url": "https://open.spotify.com/album/4S4TBSs0yEraLAQH6n1V9q"
-      },
-      "artists": [
-        {
-          "name": "Pure Negga",
-          "url": "https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk"
-        },
-        {
-          "name": "SFDK",
-          "url": "https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ"
-        },
-        {
-          "name": "Fyahbwoy",
-          "url": "https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM"
-        },
-        {
-          "name": "Chusterfield",
-          "url": "https://open.spotify.com/artist/3m6N2XBSZqfkujRvGYcdi8"
-        },
-        {
-          "name": "King Magneto",
-          "url": "https://open.spotify.com/artist/1OLhbYSBp0ySNWoTjNcxrC"
-        },
-        {
-          "name": "Little Pepe",
-          "url": "https://open.spotify.com/artist/33CBC8BnDtnQKsgK2JeOyO"
-        },
-        {
-          "name": "Legendario",
-          "url": "https://open.spotify.com/artist/6X97A7Vfil4DrnAxEJBPc2"
-        },
-        {
-          "name": "Mistah Godeh",
-          "url": "https://open.spotify.com/artist/5HM6HBJLoQMwsZCEC5Uu8L"
-        }
-      ],
-      "duration_ms": 489000,
-      "name": "Cypher #6 (Reggae Cypher)",
-      "url": "https://open.spotify.com/track/5Cv0QuSCDyGDaLSA70N9pV"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Mar Adentro",
         "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
       },
@@ -911,6 +867,30 @@
       "duration_ms": 172590,
       "name": "The Heaven",
       "url": "https://open.spotify.com/track/0dUEH1E7yUrXar2UZEERrg"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Sierra del Mar",
+        "url": "https://open.spotify.com/album/2jCf17eHD4u8U7Gp3PZ4ba"
+      },
+      "artists": [
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        },
+        {
+          "name": "Alex Serra",
+          "url": "https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r"
+        },
+        {
+          "name": "Totidub",
+          "url": "https://open.spotify.com/artist/1VTBqewro51M1puZAUn4jt"
+        }
+      ],
+      "duration_ms": 317520,
+      "name": "Sierra del Mar",
+      "url": "https://open.spotify.com/track/1m4h2rplVZ3cpcWplrJYSw"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -955,26 +935,46 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Sierra del Mar",
-        "url": "https://open.spotify.com/album/2jCf17eHD4u8U7Gp3PZ4ba"
+        "name": "Cypher #6 (Reggae Cypher)",
+        "url": "https://open.spotify.com/album/4S4TBSs0yEraLAQH6n1V9q"
       },
       "artists": [
         {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+          "name": "Pure Negga",
+          "url": "https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk"
         },
         {
-          "name": "Alex Serra",
-          "url": "https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r"
+          "name": "SFDK",
+          "url": "https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ"
         },
         {
-          "name": "Totidub",
-          "url": "https://open.spotify.com/artist/1VTBqewro51M1puZAUn4jt"
+          "name": "Fyahbwoy",
+          "url": "https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM"
+        },
+        {
+          "name": "Chusterfield",
+          "url": "https://open.spotify.com/artist/3m6N2XBSZqfkujRvGYcdi8"
+        },
+        {
+          "name": "King Magneto",
+          "url": "https://open.spotify.com/artist/1OLhbYSBp0ySNWoTjNcxrC"
+        },
+        {
+          "name": "Little Pepe",
+          "url": "https://open.spotify.com/artist/33CBC8BnDtnQKsgK2JeOyO"
+        },
+        {
+          "name": "Legendario",
+          "url": "https://open.spotify.com/artist/6X97A7Vfil4DrnAxEJBPc2"
+        },
+        {
+          "name": "Mistah Godeh",
+          "url": "https://open.spotify.com/artist/5HM6HBJLoQMwsZCEC5Uu8L"
         }
       ],
-      "duration_ms": 317520,
-      "name": "Sierra del Mar",
-      "url": "https://open.spotify.com/track/1m4h2rplVZ3cpcWplrJYSw"
+      "duration_ms": 489000,
+      "name": "Cypher #6 (Reggae Cypher)",
+      "url": "https://open.spotify.com/track/5Cv0QuSCDyGDaLSA70N9pV"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1011,54 +1011,6 @@
       "duration_ms": 258154,
       "name": "Caf\u00e9 Con Canela",
       "url": "https://open.spotify.com/track/2gO1GVggSIcK90jZorJeHE"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
-        "name": "Cypher #5 (Reggae Cypher)",
-        "url": "https://open.spotify.com/album/2UjzVrUNrdYfGAjH5Cyxs8"
-      },
-      "artists": [
-        {
-          "name": "Pure Negga",
-          "url": "https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk"
-        },
-        {
-          "name": "Morodo",
-          "url": "https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn"
-        },
-        {
-          "name": "Fyahbwoy",
-          "url": "https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM"
-        },
-        {
-          "name": "Chusterfield",
-          "url": "https://open.spotify.com/artist/3m6N2XBSZqfkujRvGYcdi8"
-        },
-        {
-          "name": "GranKhan",
-          "url": "https://open.spotify.com/artist/7wQMiSMtIfAQakfZzzyKN3"
-        },
-        {
-          "name": "King Magneto",
-          "url": "https://open.spotify.com/artist/1OLhbYSBp0ySNWoTjNcxrC"
-        },
-        {
-          "name": "Irie Angel",
-          "url": "https://open.spotify.com/artist/5CPLStsnHuYvc8NYsoOyFH"
-        },
-        {
-          "name": "Green Valley",
-          "url": "https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy"
-        },
-        {
-          "name": "Oto Beats",
-          "url": "https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68"
-        }
-      ],
-      "duration_ms": 564000,
-      "name": "Cypher #5 (Reggae Cypher)",
-      "url": "https://open.spotify.com/track/3vY4PoM0YudogsXe4dSncv"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1127,6 +1079,54 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
+        "name": "Cypher #5 (Reggae Cypher)",
+        "url": "https://open.spotify.com/album/2UjzVrUNrdYfGAjH5Cyxs8"
+      },
+      "artists": [
+        {
+          "name": "Pure Negga",
+          "url": "https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk"
+        },
+        {
+          "name": "Morodo",
+          "url": "https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn"
+        },
+        {
+          "name": "Fyahbwoy",
+          "url": "https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM"
+        },
+        {
+          "name": "Chusterfield",
+          "url": "https://open.spotify.com/artist/3m6N2XBSZqfkujRvGYcdi8"
+        },
+        {
+          "name": "GranKhan",
+          "url": "https://open.spotify.com/artist/7wQMiSMtIfAQakfZzzyKN3"
+        },
+        {
+          "name": "King Magneto",
+          "url": "https://open.spotify.com/artist/1OLhbYSBp0ySNWoTjNcxrC"
+        },
+        {
+          "name": "Irie Angel",
+          "url": "https://open.spotify.com/artist/5CPLStsnHuYvc8NYsoOyFH"
+        },
+        {
+          "name": "Green Valley",
+          "url": "https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy"
+        },
+        {
+          "name": "Oto Beats",
+          "url": "https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68"
+        }
+      ],
+      "duration_ms": 564000,
+      "name": "Cypher #5 (Reggae Cypher)",
+      "url": "https://open.spotify.com/track/3vY4PoM0YudogsXe4dSncv"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
         "name": "Aunque No Sea Conmigo",
         "url": "https://open.spotify.com/album/0SAqqwdLfhwadQIveMQDRG"
       },
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Conexi\u00f3n",
-        "url": "https://open.spotify.com/album/58gzZSrrL0xaRWJlQ5C4w4"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 212533,
-      "name": "Conexi\u00f3n",
-      "url": "https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Obvio S\u00ed",
         "url": "https://open.spotify.com/album/2JLCtFZACVELB38jNl4o8h"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 177536,
       "name": "El Seis",
       "url": "https://open.spotify.com/track/6EvmOQ8SPIDlO5OpQpM1BL"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Conexi\u00f3n",
+        "url": "https://open.spotify.com/album/58gzZSrrL0xaRWJlQ5C4w4"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 212533,
+      "name": "Conexi\u00f3n",
+      "url": "https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1375,18 +1375,22 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Volando",
-        "url": "https://open.spotify.com/album/7v9HxzEvMgfrrWznESp8xB"
+        "name": "Encanto",
+        "url": "https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H"
       },
       "artists": [
         {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+          "name": "MAMA GAIA",
+          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
+        },
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
         }
       ],
-      "duration_ms": 190761,
-      "name": "Volando",
-      "url": "https://open.spotify.com/track/0wxpeuCoSkPpbviobSt54E"
+      "duration_ms": 193817,
+      "name": "Gaia",
+      "url": "https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1411,26 +1415,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Encanto",
-        "url": "https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H"
-      },
-      "artists": [
-        {
-          "name": "MAMA GAIA",
-          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
-        },
-        {
-          "name": "Zona Ganjah",
-          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
-        }
-      ],
-      "duration_ms": 193817,
-      "name": "Gaia",
-      "url": "https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Pupilas Lejanas",
         "url": "https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 226000,
       "name": "Pupilas Lejanas",
       "url": "https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Volando",
+        "url": "https://open.spotify.com/album/7v9HxzEvMgfrrWznESp8xB"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 190761,
+      "name": "Volando",
+      "url": "https://open.spotify.com/track/0wxpeuCoSkPpbviobSt54E"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
+        "name": "Uma Brasileira",
+        "url": "https://open.spotify.com/album/4Hyx4W2Sn1sDkzdt59D7uC"
+      },
+      "artists": [
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        }
+      ],
+      "duration_ms": 198238,
+      "name": "Uma Brasileira",
+      "url": "https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
         "name": "Celebration (feat. Ky-Mani Marley)",
         "url": "https://open.spotify.com/album/6FoYHPXjjZKXolsGXwC51E"
       },
@@ -1531,22 +1547,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Uma Brasileira",
-        "url": "https://open.spotify.com/album/4Hyx4W2Sn1sDkzdt59D7uC"
-      },
-      "artists": [
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        }
-      ],
-      "duration_ms": 198238,
-      "name": "Uma Brasileira",
-      "url": "https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Pericos & Friends (Extended)",
         "url": "https://open.spotify.com/album/4IIfIS47aChs97w8hrgCcY"
       },
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Si T\u00fa Me Quieres",
-        "url": "https://open.spotify.com/album/6Dwm2KnliEQQuefTWJnBnm"
-      },
-      "artists": [
-        {
-          "name": "La Garfield",
-          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
-        }
-      ],
-      "duration_ms": 248780,
-      "name": "Si T\u00fa Me Quieres",
-      "url": "https://open.spotify.com/track/1aGrwoxshC9Bfblm67C5oQ"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "La Tierra del Desencanto",
         "url": "https://open.spotify.com/album/76rP6tPR6Jo8gjodM4teJn"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 249542,
       "name": "La Tierra del Desencanto",
       "url": "https://open.spotify.com/track/2ySXNfWahYbD6Y2s33watc"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Si T\u00fa Me Quieres",
+        "url": "https://open.spotify.com/album/6Dwm2KnliEQQuefTWJnBnm"
+      },
+      "artists": [
+        {
+          "name": "La Garfield",
+          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
+        }
+      ],
+      "duration_ms": 248780,
+      "name": "Si T\u00fa Me Quieres",
+      "url": "https://open.spotify.com/track/1aGrwoxshC9Bfblm67C5oQ"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1855,26 +1855,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Bonito y Cruel",
-        "url": "https://open.spotify.com/album/2f3XnCTwhab107XAx7slip"
-      },
-      "artists": [
-        {
-          "name": "Pure Negga",
-          "url": "https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk"
-        },
-        {
-          "name": "Oto Beats",
-          "url": "https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68"
-        }
-      ],
-      "duration_ms": 220606,
-      "name": "Bonito y Cruel",
-      "url": "https://open.spotify.com/track/4KfIkIkLW0yAHff0o3oodx"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Rocketbandshot 6",
         "url": "https://open.spotify.com/album/1437Jj6uqVPN2e8MZEecwI"
       },
@@ -1903,6 +1883,26 @@
       "duration_ms": 300141,
       "name": "Rocketbandshot 6",
       "url": "https://open.spotify.com/track/28vFegguTn6j6r8I0eE8xz"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Bonito y Cruel",
+        "url": "https://open.spotify.com/album/2f3XnCTwhab107XAx7slip"
+      },
+      "artists": [
+        {
+          "name": "Pure Negga",
+          "url": "https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk"
+        },
+        {
+          "name": "Oto Beats",
+          "url": "https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68"
+        }
+      ],
+      "duration_ms": 220606,
+      "name": "Bonito y Cruel",
+      "url": "https://open.spotify.com/track/4KfIkIkLW0yAHff0o3oodx"
     }
   ],
   "unique_name": "Reggae en Espa\u00f1ol",

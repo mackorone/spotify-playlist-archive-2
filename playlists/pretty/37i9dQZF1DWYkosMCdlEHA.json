@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 153122,
+  "num_followers": 153137,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
@@ -315,18 +315,18 @@
     {
       "added_at": "2025-09-26 03:01:17",
       "album": {
-        "name": "Ac\u00fastico - Ao Vivo",
-        "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
+        "name": "Real Gold",
+        "url": "https://open.spotify.com/album/5PRS6zL5id8VsFjesEsaw3"
       },
       "artists": [
         {
-          "name": "Raimundos",
-          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 325024,
-      "name": "Reggae do Manero - Ao Vivo | Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0VaMFkBz3QsRAuaek4jYR5"
+      "duration_ms": 197840,
+      "name": "Real Gold",
+      "url": "https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli"
     },
     {
       "added_at": "2025-09-26 03:01:17",
@@ -367,18 +367,18 @@
     {
       "added_at": "2025-09-26 03:01:17",
       "album": {
-        "name": "Real Gold",
-        "url": "https://open.spotify.com/album/5PRS6zL5id8VsFjesEsaw3"
+        "name": "Ac\u00fastico - Ao Vivo",
+        "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
       },
       "artists": [
         {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+          "name": "Raimundos",
+          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
         }
       ],
-      "duration_ms": 197840,
-      "name": "Real Gold",
-      "url": "https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli"
+      "duration_ms": 325024,
+      "name": "Reggae do Manero - Ao Vivo | Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0VaMFkBz3QsRAuaek4jYR5"
     },
     {
       "added_at": "2025-09-26 03:01:17",
@@ -763,22 +763,18 @@
     {
       "added_at": "2025-09-26 03:01:17",
       "album": {
-        "name": "Ao Vivo em Buenos Aires",
-        "url": "https://open.spotify.com/album/6awNZk5um5gkMuPZ8Kg8BD"
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR"
       },
       "artists": [
         {
           "name": "Armandinho",
           "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
-        },
-        {
-          "name": "Chimarruts",
-          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
         }
       ],
-      "duration_ms": 187199,
-      "name": "Versos Simples - Ao Vivo",
-      "url": "https://open.spotify.com/track/3REzLdUlfQRpRG6psodExG"
+      "duration_ms": 308901,
+      "name": "A Casa do Sol/Sentimento - Ao Vivo",
+      "url": "https://open.spotify.com/track/5AxcOoKhbmtT3nxZiK8qnM"
     },
     {
       "added_at": "2025-09-26 03:01:17",
@@ -859,18 +855,22 @@
     {
       "added_at": "2025-09-26 03:01:17",
       "album": {
-        "name": "Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR"
+        "name": "Ao Vivo em Buenos Aires",
+        "url": "https://open.spotify.com/album/6awNZk5um5gkMuPZ8Kg8BD"
       },
       "artists": [
         {
           "name": "Armandinho",
           "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
+        },
+        {
+          "name": "Chimarruts",
+          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
         }
       ],
-      "duration_ms": 308901,
-      "name": "A Casa do Sol/Sentimento - Ao Vivo",
-      "url": "https://open.spotify.com/track/5AxcOoKhbmtT3nxZiK8qnM"
+      "duration_ms": 187199,
+      "name": "Versos Simples - Ao Vivo",
+      "url": "https://open.spotify.com/track/3REzLdUlfQRpRG6psodExG"
     },
     {
       "added_at": "2025-09-26 03:01:17",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-09-26 03:01:17",
       "album": {
-        "name": "Ac\u00fastico Cidade Negra",
-        "url": "https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL"
-      },
-      "artists": [
-        {
-          "name": "Cidade Negra",
-          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
-        }
-      ],
-      "duration_ms": 236280,
-      "name": "O Er\u00ea (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/1Mfx88JU9ztFfsGc2k5pCQ"
-    },
-    {
-      "added_at": "2025-09-26 03:01:17",
-      "album": {
         "name": "Ac\u00fastico Na Casa Do Lago (Ac\u00fastico / Ao Vivo)",
         "url": "https://open.spotify.com/album/1ctYS1uopnfJFU3LPYEo60"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 205107,
       "name": "V\u00e1 Viver - Ac\u00fastico / Ao Vivo",
       "url": "https://open.spotify.com/track/6TuiSfDGYyVZ7C5fxKOszw"
+    },
+    {
+      "added_at": "2025-09-26 03:01:17",
+      "album": {
+        "name": "Ac\u00fastico Cidade Negra",
+        "url": "https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL"
+      },
+      "artists": [
+        {
+          "name": "Cidade Negra",
+          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+        }
+      ],
+      "duration_ms": 236280,
+      "name": "O Er\u00ea (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/1Mfx88JU9ztFfsGc2k5pCQ"
     },
     {
       "added_at": "2025-09-26 03:01:17",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2025-09-26 03:01:17",
       "album": {
-        "name": "Ac\u00fastico Cidade Negra",
-        "url": "https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL"
-      },
-      "artists": [
-        {
-          "name": "Cidade Negra",
-          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 304266,
-      "name": "Extra (Ac\u00fastico) (feat. Gilberto Gil)",
-      "url": "https://open.spotify.com/track/5HPhu5dKT6MNTOzWclNiz1"
-    },
-    {
-      "added_at": "2025-09-26 03:01:17",
-      "album": {
         "name": "Corre Pro Meu Mar (Ac\u00fastico / Ao Vivo)",
         "url": "https://open.spotify.com/album/6MYUGgADS5UKWNKwwdOyCw"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 203924,
       "name": "Corre Pro Meu Mar - Ac\u00fastico / Ao Vivo",
       "url": "https://open.spotify.com/track/6o1uuE7FrCUUN1zqB37nLR"
+    },
+    {
+      "added_at": "2025-09-26 03:01:17",
+      "album": {
+        "name": "Ac\u00fastico Cidade Negra",
+        "url": "https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL"
+      },
+      "artists": [
+        {
+          "name": "Cidade Negra",
+          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 304266,
+      "name": "Extra (Ac\u00fastico) (feat. Gilberto Gil)",
+      "url": "https://open.spotify.com/track/5HPhu5dKT6MNTOzWclNiz1"
     },
     {
       "added_at": "2025-09-26 03:01:17",

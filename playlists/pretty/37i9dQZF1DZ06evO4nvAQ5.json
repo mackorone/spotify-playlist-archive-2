@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 16169,
+  "num_followers": 16168,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaOBgAAAAACyECp49YSJYxI/o0qrE/Vg",
+  "snapshot_id": "aaTTAAAAAAAcnwGH8847kTKWLJ22YocK",
   "tracks": [
     {
       "added_at": null,
@@ -331,26 +331,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amid the Noise and Haste",
-        "url": "https://open.spotify.com/album/3PPShSOyJlk6lG6BheUqCe"
+        "name": "We Remember Gregory Isaacs",
+        "url": "https://open.spotify.com/album/5qx0HddioFaXTSTykAG6nu"
       },
       "artists": [
-        {
-          "name": "SOJA",
-          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
-        },
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        },
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 195439,
-      "name": "Easier",
-      "url": "https://open.spotify.com/track/2pmhCyJqNiF2IEE0ATRNaM"
+      "duration_ms": 251693,
+      "name": "Cool Down The Pace",
+      "url": "https://open.spotify.com/track/48vVcRVvJxD5zB0ODldx2C"
     },
     {
       "added_at": null,
@@ -375,18 +367,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Remember Gregory Isaacs",
-        "url": "https://open.spotify.com/album/5qx0HddioFaXTSTykAG6nu"
+        "name": "Amid the Noise and Haste",
+        "url": "https://open.spotify.com/album/3PPShSOyJlk6lG6BheUqCe"
       },
       "artists": [
+        {
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+        },
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        },
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 251693,
-      "name": "Cool Down The Pace",
-      "url": "https://open.spotify.com/track/48vVcRVvJxD5zB0ODldx2C"
+      "duration_ms": 195439,
+      "name": "Easier",
+      "url": "https://open.spotify.com/track/2pmhCyJqNiF2IEE0ATRNaM"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uma",
-        "url": "https://open.spotify.com/album/1JWxFUrDtiJKcH1bAIwurg"
+        "name": "Wash House Ting",
+        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 202650,
-      "name": "Uma",
-      "url": "https://open.spotify.com/track/5CVDIIjl2pKVcg3B1sX6rb"
+      "duration_ms": 276586,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/1Wol1mtEGmrb178XVxJdpu"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
       "duration_ms": 217360,
       "name": "Police and Thieves",
       "url": "https://open.spotify.com/track/66FPznmRngrO6yytsJyDs3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wash House Ting",
-        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 276586,
-      "name": "Brighter Days",
-      "url": "https://open.spotify.com/track/1Wol1mtEGmrb178XVxJdpu"
     },
     {
       "added_at": null,
@@ -707,6 +691,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Uma",
+        "url": "https://open.spotify.com/album/1JWxFUrDtiJKcH1bAIwurg"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 202650,
+      "name": "Uma",
+      "url": "https://open.spotify.com/track/5CVDIIjl2pKVcg3B1sX6rb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wash House Ting",
+        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 242333,
+      "name": "Rose Petals",
+      "url": "https://open.spotify.com/track/5sRU1kj32aljCtja0KgRxH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Indigenous Life",
         "url": "https://open.spotify.com/album/3UDKThTuWf6wbVCITpd8K2"
       },
@@ -723,6 +739,30 @@
       "duration_ms": 237307,
       "name": "Indigenous Life",
       "url": "https://open.spotify.com/track/5AVIMvDz4vEQGUG0PJZJpb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Backyard Boogie",
+        "url": "https://open.spotify.com/album/3asYxal37yC5t4M41SdCoZ"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Jah Maoli",
+          "url": "https://open.spotify.com/artist/1xr92u8uPinpRXsjZbgGKw"
+        },
+        {
+          "name": "Spawnbreezie",
+          "url": "https://open.spotify.com/artist/0BvwGBAFqNeDqjkeoxRlm6"
+        }
+      ],
+      "duration_ms": 241083,
+      "name": "Hawaiian Pakalolo (feat. Jah Maoli & Spawnbreezie)",
+      "url": "https://open.spotify.com/track/0e6WIHOetJ8C3ygoGTohb4"
     },
     {
       "added_at": null,
@@ -754,35 +794,15 @@
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 242333,
-      "name": "Rose Petals",
-      "url": "https://open.spotify.com/track/5sRU1kj32aljCtja0KgRxH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Backyard Boogie",
-        "url": "https://open.spotify.com/album/3asYxal37yC5t4M41SdCoZ"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         },
         {
-          "name": "Jah Maoli",
-          "url": "https://open.spotify.com/artist/1xr92u8uPinpRXsjZbgGKw"
-        },
-        {
-          "name": "Spawnbreezie",
-          "url": "https://open.spotify.com/artist/0BvwGBAFqNeDqjkeoxRlm6"
+          "name": "Chaka Demus",
+          "url": "https://open.spotify.com/artist/6QCdkfa2WZToHCUZs1ZiYN"
         }
       ],
-      "duration_ms": 241083,
-      "name": "Hawaiian Pakalolo (feat. Jah Maoli & Spawnbreezie)",
-      "url": "https://open.spotify.com/track/0e6WIHOetJ8C3ygoGTohb4"
+      "duration_ms": 221666,
+      "name": "Good Cry (feat. Chaka Demus)",
+      "url": "https://open.spotify.com/track/5dwNgWoqKuGiULtMKILzKz"
     },
     {
       "added_at": null,
@@ -819,26 +839,6 @@
       "duration_ms": 235684,
       "name": "My Audio",
       "url": "https://open.spotify.com/track/4A3b23XdMVDPX6cdzHQOjb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wash House Ting",
-        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Chaka Demus",
-          "url": "https://open.spotify.com/artist/6QCdkfa2WZToHCUZs1ZiYN"
-        }
-      ],
-      "duration_ms": 221666,
-      "name": "Good Cry (feat. Chaka Demus)",
-      "url": "https://open.spotify.com/track/5dwNgWoqKuGiULtMKILzKz"
     },
     {
       "added_at": null,
@@ -927,6 +927,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Break Us Apart",
+        "url": "https://open.spotify.com/album/36crWYwVp2wVZiP6dB5Kzn"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 220909,
+      "name": "Break Us Apart",
+      "url": "https://open.spotify.com/track/7o3rG4WBwROoE8USJMS5Xc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Always Been You",
         "url": "https://open.spotify.com/album/7KX733L0zdhiHZ7hcUfrUJ"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 243218,
       "name": "This Is Love",
       "url": "https://open.spotify.com/track/6kT2DiTbDomd5UJtBJb5Jv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Break Us Apart",
-        "url": "https://open.spotify.com/album/36crWYwVp2wVZiP6dB5Kzn"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 220909,
-      "name": "Break Us Apart",
-      "url": "https://open.spotify.com/track/7o3rG4WBwROoE8USJMS5Xc"
     },
     {
       "added_at": null,

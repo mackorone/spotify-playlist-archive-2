@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Ally Evenson
 
-2,313 songs - 5 day 3 hr 8 min
+2,314 songs - 5 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -947,7 +947,7 @@
 | [How Does It Feel?](https://open.spotify.com/track/4y22WiXJifTcRYCZ4UoIoo) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [Disbeliever](https://open.spotify.com/album/4UebeIXE1sooIsskUa1uBC) | 2:51 | 2023-07-07 | 2023-07-22 |
 | [How It Will End](https://open.spotify.com/track/7gpjFpTdE2irqRj2Odc80C) | [EXES](https://open.spotify.com/artist/39R87tT1qaTxHwu5m87USa) | [How It Will End](https://open.spotify.com/album/3M9aLFlvhhr8nPONBrsaOh) | 3:08 | 2021-03-14 | 2021-10-23 |
 | [How Long \- From"Euphoria" An HBO Original Series](https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [How Long \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ) | 3:19 | 2022-01-28 | 2022-04-21 |
-| [How To](https://open.spotify.com/track/0Px2SR6GUNtBz6ZEqWKbWy) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Concave](https://open.spotify.com/album/0YOmgtGqw5fMrEWxTl9Xug) | 3:26 | 2026-01-23 |  |
+| [How To](https://open.spotify.com/track/0Px2SR6GUNtBz6ZEqWKbWy) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Concave](https://open.spotify.com/album/0YOmgtGqw5fMrEWxTl9Xug) | 3:26 | 2026-01-23 | 2026-03-04 |
 | [How To Live](https://open.spotify.com/track/25ywKtUww26ABFd0tiGt9D) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [How To Live](https://open.spotify.com/album/0YrhLhmdGAgsHizxY1BRlH) | 4:00 | 2025-08-01 | 2025-11-24 |
 | [How to Lose a Friend in 10 Days](https://open.spotify.com/track/2knGz7PqFm3HGcdwLHyMEv) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [How to Lose a Friend in 10 Days](https://open.spotify.com/album/6srW3zBy4BPVa7gMDP8FnN) | 2:12 | 2022-04-29 | 2022-05-07 |
 | [how's it feel to be a boy](https://open.spotify.com/track/2kzfmR5NzxcJdp2yMAhZE2) | [audalei](https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP) | [how's it feel to be a boy](https://open.spotify.com/album/4sHzSRwp8ALK3b6itOJvrA) | 2:21 | 2023-08-04 | 2023-10-15 |
@@ -2067,6 +2067,7 @@
 | [The Neighborhood](https://open.spotify.com/track/3gphm4tCS3HywYloyg0N3x) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [The Neighborhood](https://open.spotify.com/album/5p1furq3olcZbnXe51liZh) | 3:13 | 2022-12-07 | 2023-07-29 |
 | [the party](https://open.spotify.com/track/2refb65AS7jf0ILJnlXX5y) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [crash landing](https://open.spotify.com/album/6GP7ELTsVdcALvRbD8Qm1X) | 3:49 | 2023-02-24 | 2023-03-04 |
 | [The Problem Song](https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [The Problem Song](https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX) | 2:37 | 2022-10-07 | 2023-07-08 |
+| [the punisher](https://open.spotify.com/track/4YOpINlEvanckbfIAwsdkx) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [the punisher](https://open.spotify.com/album/4lBwSddoFh5fy1T7uUCE5L) | 3:09 | 2026-02-27 |  |
 | [The Question](https://open.spotify.com/track/04rb28OYuKeNCQ1VuWYxZ0) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [The Question](https://open.spotify.com/album/4JBi6qB6f8nHn7TT3bpHHZ) | 3:16 | 2025-02-21 | 2026-02-14 |
 | [The Same](https://open.spotify.com/track/57YKyo8SW8lujChukFU3qY) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Same / Real Love](https://open.spotify.com/album/0zWFPw6BqkytZZ2roxs9vh) | 3:53 | 2021-02-22 | 2021-05-30 |
 | [The Things We Do](https://open.spotify.com/track/4nYb6EZpeRI3ZM1O0UquQ5) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [The Things We Do](https://open.spotify.com/album/6nhQR2WHOS9DWYgcbVSYYy) | 4:12 | 2021-02-22 | 2021-05-24 |

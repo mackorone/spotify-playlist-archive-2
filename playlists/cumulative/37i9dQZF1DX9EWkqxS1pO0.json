@@ -960,7 +960,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 128000,
       "name": "beni arama",
       "url": "https://open.spotify.com/track/6LM3yarovhF9jCQlw4mfhv"
@@ -4514,6 +4514,24 @@
       "duration_ms": 219707,
       "name": "Serdenge\u00e7ti",
       "url": "https://open.spotify.com/track/4cRiXJoX4kLZuCKIiq0LIk"
+    },
+    {
+      "album": {
+        "name": "Serin Katil",
+        "url": "https://open.spotify.com/album/32avQKJObnKSonEhpyEB1M"
+      },
+      "artists": [
+        {
+          "name": "Oradaki Elf",
+          "url": "https://open.spotify.com/artist/0BqgbYjNgE1bCO5J4XazZw"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231190,
+      "name": "Serin Katil",
+      "url": "https://open.spotify.com/track/5Dz5H9reteD4WvpH0lflFO"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,204 songs - 2 day 4 hr 2 min
+1,205 songs - 2 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -897,7 +897,7 @@
 | [Say It](https://open.spotify.com/track/0z8I570Roif1IV6KXRDKOL) | [Le P](https://open.spotify.com/artist/25Xm9wxNTPxCXdLS5fpkOb) | [Say It](https://open.spotify.com/album/1lmmTNdNLqhQEgyX8mghlJ) | 2:25 | 2025-01-18 | 2025-08-25 |
 | [Say It](https://open.spotify.com/track/5oLYCajwpYt0GwqKu8aBvt) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Abroad](https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft) | [Say It](https://open.spotify.com/album/2a35iz5BRbEgGydrMSTMpA) | 2:55 | 2024-12-14 | 2025-02-21 |
 | [Say It Out Loud](https://open.spotify.com/track/3TeoPVvdkk5kB0qDhnq2Zd) | [Boeuv](https://open.spotify.com/artist/4DfrfLaX6lrjdKYOcN0LES), [Vowed](https://open.spotify.com/artist/75xXmkKj5zuv8qNlqP2VIY), [Rachel Morgan Perry](https://open.spotify.com/artist/1VpFjX7r5UVSrMXq0NPyr0) | [Say It Out Loud](https://open.spotify.com/album/3AFZwew6neHkGKRyo5yxxA) | 3:19 | 2024-04-12 | 2024-05-13 |
-| [Say It Right](https://open.spotify.com/track/7MXcUfp2pf7bfG9qopYovP) | [Luke Alexander](https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542), [Novado](https://open.spotify.com/artist/03c0KcY5PrrpI8SYuY454G), [Jelen](https://open.spotify.com/artist/0OkJaMHmOycCjKUHObnGtT) | [Say It Right](https://open.spotify.com/album/5F3hL7pF5wXorZUCkFxbcq) | 3:40 | 2025-03-01 |  |
+| [Say It Right](https://open.spotify.com/track/7MXcUfp2pf7bfG9qopYovP) | [LUKE ALEXANDER](https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542), [Novado](https://open.spotify.com/artist/03c0KcY5PrrpI8SYuY454G), [Jelen](https://open.spotify.com/artist/0OkJaMHmOycCjKUHObnGtT) | [Say It Right](https://open.spotify.com/album/5F3hL7pF5wXorZUCkFxbcq) | 3:40 | 2025-03-01 |  |
 | [Scared To Be Lonely](https://open.spotify.com/track/34AdL3giq9x6F6X6zn2zo6) | [nineveh.](https://open.spotify.com/artist/73AdEqHxLEDFFXecpOXrbU), [SECMOS](https://open.spotify.com/artist/0zZ0bI60hTmGInF2acMFgk) | [Scared To Be Lonely](https://open.spotify.com/album/5mf7FDpJYKD49SNrXCM9rK) | 2:26 | 2024-11-04 | 2025-09-14 |
 | [Science](https://open.spotify.com/track/7jn69lqYJ1hRzt38b593Sn) | [Anna\-Sophia Henry](https://open.spotify.com/artist/7eMgHO3ZOlcpWKM3OFnnS8), [outset island](https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X) | [Science](https://open.spotify.com/album/0CK3negyZKxnRJUXEjSXxV) | 2:44 | 2025-10-17 | 2025-11-17 |
 | [Seasons](https://open.spotify.com/track/1KoksleL5Bv4FqLP3pJLnI) | [ENVOL](https://open.spotify.com/artist/5h8U1AIYA23J6XR0mgNOD4) | [Seasons](https://open.spotify.com/album/6febUrpRVTIdcosvKpnsHO) | 2:31 | 2025-03-21 | 2025-05-14 |
@@ -1212,5 +1212,6 @@
 | [Your Love](https://open.spotify.com/track/195FCOZRj3Z7H5AvfTwzbx) | [Arley](https://open.spotify.com/artist/6dDcvbij1mC4yKl7Dm5dNt), [Descend](https://open.spotify.com/artist/1MArNKGDTIWAiJkpnqwCEK) | [Your Love](https://open.spotify.com/album/75WdbHFNhcNna9gLW229lL) | 3:48 | 2025-01-31 | 2025-03-15 |
 | [Your Love's Not Wasted](https://open.spotify.com/track/1at0ZV2iOErop550JQLyZR) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz), [Jakke](https://open.spotify.com/artist/4J2F2H9mhFcaXDs64WCMxQ) | [Your Love's Not Wasted](https://open.spotify.com/album/6a92sVEH9NRJWTpLbJfO9L) | 4:00 | 2024-07-13 |  |
 | [Your Sky Is My Ocean](https://open.spotify.com/track/6WoEQQOcZXAV7brdz8VbD0) | [bailey](https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM), [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS) | [Your Sky Is My Ocean](https://open.spotify.com/album/1cmjtpFF7L4OUdu2BsflKJ) | 3:18 | 2023-10-27 | 2024-05-13 |
+| [YUKON](https://open.spotify.com/track/5Pamygnx1LF1oGrQZEoyjS) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [Ugg'A](https://open.spotify.com/artist/2eAVygHxvbYA7CtF7bv5vC) | [YUKON](https://open.spotify.com/album/2wR7SHGRuBiXqj1Ftju09k) | 2:27 | 2026-03-03 |  |
 
 \*This playlist was first scraped on 2023-12-07. Prior content cannot be recovered.

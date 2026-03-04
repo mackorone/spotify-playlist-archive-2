@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Natalia Tsupryk",
-  "num_followers": 136388,
+  "num_followers": 136417,
   "original_name": "Women of Ambient",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-02-27 04:00:21",
       "album": {
-        "name": "Leave It",
-        "url": "https://open.spotify.com/album/3ApfRuo0QxOtf5so9VZCXK"
-      },
-      "artists": [
-        {
-          "name": "Eva Tiedemann",
-          "url": "https://open.spotify.com/artist/57H4D8jx1bGiOvaiPgyIyj"
-        }
-      ],
-      "duration_ms": 326878,
-      "name": "Leave It",
-      "url": "https://open.spotify.com/track/6gdByDB178DwDJvlwouoGZ"
-    },
-    {
-      "added_at": "2026-02-27 04:00:21",
-      "album": {
         "name": "Vanities",
         "url": "https://open.spotify.com/album/7ePZ3EZLrbIXyms6fc9hJd"
       },
@@ -423,6 +407,22 @@
     {
       "added_at": "2026-02-27 04:00:21",
       "album": {
+        "name": "Leave It",
+        "url": "https://open.spotify.com/album/3ApfRuo0QxOtf5so9VZCXK"
+      },
+      "artists": [
+        {
+          "name": "Eva Tiedemann",
+          "url": "https://open.spotify.com/artist/57H4D8jx1bGiOvaiPgyIyj"
+        }
+      ],
+      "duration_ms": 326878,
+      "name": "Leave It",
+      "url": "https://open.spotify.com/track/6gdByDB178DwDJvlwouoGZ"
+    },
+    {
+      "added_at": "2026-02-27 04:00:21",
+      "album": {
         "name": "Remind Me",
         "url": "https://open.spotify.com/album/1XGhHihPW7J6V7Qeq303tL"
       },
@@ -435,6 +435,26 @@
       "duration_ms": 130000,
       "name": "Remind Me",
       "url": "https://open.spotify.com/track/6tWdCTHBtHUddPpgsA3iIm"
+    },
+    {
+      "added_at": "2026-02-27 04:00:21",
+      "album": {
+        "name": "At Source",
+        "url": "https://open.spotify.com/album/1khZjNAA8D8N1bO5yU4A1F"
+      },
+      "artists": [
+        {
+          "name": "Caterina Barbieri",
+          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
+        },
+        {
+          "name": "Bendik Giske",
+          "url": "https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K"
+        }
+      ],
+      "duration_ms": 675586,
+      "name": "Impatience, Magma",
+      "url": "https://open.spotify.com/track/6wdrRE2iafc53qkcuFzbia"
     },
     {
       "added_at": "2026-02-27 04:00:21",
@@ -507,22 +527,6 @@
     {
       "added_at": "2026-02-27 04:00:21",
       "album": {
-        "name": "The Man Who Died in His Boat",
-        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 285866,
-      "name": "Being Her Shadow",
-      "url": "https://open.spotify.com/track/2HeFT5Khue5e3vybIgRmUh"
-    },
-    {
-      "added_at": "2026-02-27 04:00:21",
-      "album": {
         "name": "Holotropica",
         "url": "https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu"
       },
@@ -539,22 +543,18 @@
     {
       "added_at": "2026-02-27 04:00:21",
       "album": {
-        "name": "At Source",
-        "url": "https://open.spotify.com/album/1khZjNAA8D8N1bO5yU4A1F"
+        "name": "The Man Who Died in His Boat",
+        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
       },
       "artists": [
         {
-          "name": "Caterina Barbieri",
-          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
-        },
-        {
-          "name": "Bendik Giske",
-          "url": "https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K"
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 675586,
-      "name": "Impatience, Magma",
-      "url": "https://open.spotify.com/track/6wdrRE2iafc53qkcuFzbia"
+      "duration_ms": 285866,
+      "name": "Being Her Shadow",
+      "url": "https://open.spotify.com/track/2HeFT5Khue5e3vybIgRmUh"
     },
     {
       "added_at": "2026-02-27 04:00:21",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-02-27 04:00:21",
       "album": {
-        "name": "@0 EP1",
-        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 300747,
-      "name": "Morning Spring",
-      "url": "https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7"
-    },
-    {
-      "added_at": "2026-02-27 04:00:21",
-      "album": {
         "name": "NONAGE",
         "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 123953,
       "name": "Yip, Yip, Yip",
       "url": "https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB"
+    },
+    {
+      "added_at": "2026-02-27 04:00:21",
+      "album": {
+        "name": "@0 EP1",
+        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 300747,
+      "name": "Morning Spring",
+      "url": "https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7"
     },
     {
       "added_at": "2026-02-27 04:00:21",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-02-27 04:00:21",
       "album": {
-        "name": "become the sky",
-        "url": "https://open.spotify.com/album/3fimGJqkBb61QiQrRiFXNv"
-      },
-      "artists": [
-        {
-          "name": "Sophie Hutchings",
-          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
-        }
-      ],
-      "duration_ms": 183192,
-      "name": "Holding Moments",
-      "url": "https://open.spotify.com/track/5eKvPgmm9AGChNGQQyKyZs"
-    },
-    {
-      "added_at": "2026-02-27 04:00:21",
-      "album": {
         "name": "Unexpected Music II",
         "url": "https://open.spotify.com/album/39OUhtfrInkdjDWezSaH1b"
       },
@@ -831,18 +815,34 @@
     {
       "added_at": "2026-02-27 04:00:21",
       "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+        "name": "become the sky",
+        "url": "https://open.spotify.com/album/3fimGJqkBb61QiQrRiFXNv"
       },
       "artists": [
         {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+          "name": "Sophie Hutchings",
+          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
         }
       ],
-      "duration_ms": 262375,
-      "name": "10\u00b0C",
-      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
+      "duration_ms": 183192,
+      "name": "Holding Moments",
+      "url": "https://open.spotify.com/track/5eKvPgmm9AGChNGQQyKyZs"
+    },
+    {
+      "added_at": "2026-02-27 04:00:21",
+      "album": {
+        "name": "cathy, quietly",
+        "url": "https://open.spotify.com/album/6Zk2Zg8OKiOp9FxSacG3Ja"
+      },
+      "artists": [
+        {
+          "name": "Venus Anon",
+          "url": "https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg"
+        }
+      ],
+      "duration_ms": 161722,
+      "name": "the other Shoulder",
+      "url": "https://open.spotify.com/track/41swHVGLVFZcsaN13iqDbh"
     },
     {
       "added_at": "2026-02-27 04:00:21",
@@ -859,6 +859,22 @@
       "duration_ms": 477048,
       "name": "Analemma",
       "url": "https://open.spotify.com/track/5HbEM6W17e2vRkiARgWT29"
+    },
+    {
+      "added_at": "2026-02-27 04:00:21",
+      "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 262375,
+      "name": "10\u00b0C",
+      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
     },
     {
       "added_at": "2026-02-27 04:00:21",
@@ -883,6 +899,22 @@
     {
       "added_at": "2026-02-27 04:00:21",
       "album": {
+        "name": "Rising Fog",
+        "url": "https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil"
+      },
+      "artists": [
+        {
+          "name": "Lucette Bourdin",
+          "url": "https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3"
+        }
+      ],
+      "duration_ms": 508613,
+      "name": "Russian Snow",
+      "url": "https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU"
+    },
+    {
+      "added_at": "2026-02-27 04:00:21",
+      "album": {
         "name": "Together Is A Beautiful Place To Be (Nala Sinephro Remix)",
         "url": "https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr"
       },
@@ -903,22 +935,6 @@
     {
       "added_at": "2026-02-27 04:00:21",
       "album": {
-        "name": "Rising Fog",
-        "url": "https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil"
-      },
-      "artists": [
-        {
-          "name": "Lucette Bourdin",
-          "url": "https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3"
-        }
-      ],
-      "duration_ms": 508613,
-      "name": "Russian Snow",
-      "url": "https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU"
-    },
-    {
-      "added_at": "2026-02-27 04:00:21",
-      "album": {
         "name": "Big Room",
         "url": "https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 267000,
       "name": "Billow",
       "url": "https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt"
-    },
-    {
-      "added_at": "2026-02-27 04:00:21",
-      "album": {
-        "name": "cathy, quietly",
-        "url": "https://open.spotify.com/album/6Zk2Zg8OKiOp9FxSacG3Ja"
-      },
-      "artists": [
-        {
-          "name": "Venus Anon",
-          "url": "https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg"
-        }
-      ],
-      "duration_ms": 161722,
-      "name": "the other Shoulder",
-      "url": "https://open.spotify.com/track/41swHVGLVFZcsaN13iqDbh"
     },
     {
       "added_at": "2026-02-27 04:00:21",
@@ -983,26 +983,6 @@
     {
       "added_at": "2026-02-27 04:00:21",
       "album": {
-        "name": "Virga (feat. Darlingside)",
-        "url": "https://open.spotify.com/album/4Atmmk5jUaQVGxd0XtvsfG"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Williams",
-          "url": "https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs"
-        },
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 382867,
-      "name": "Virga (feat. Darlingside)",
-      "url": "https://open.spotify.com/track/3hhJFk8PZEb0h3aAMbQRcM"
-    },
-    {
-      "added_at": "2026-02-27 04:00:21",
-      "album": {
         "name": "Deep Listening",
         "url": "https://open.spotify.com/album/1h4VM1Nsgav7liCdWBoGlC"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 1496133,
       "name": "Lear",
       "url": "https://open.spotify.com/track/58tXLPg2DQsrg5ts5CqWrR"
+    },
+    {
+      "added_at": "2026-02-27 04:00:21",
+      "album": {
+        "name": "Virga (feat. Darlingside)",
+        "url": "https://open.spotify.com/album/4Atmmk5jUaQVGxd0XtvsfG"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Williams",
+          "url": "https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs"
+        },
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 382867,
+      "name": "Virga (feat. Darlingside)",
+      "url": "https://open.spotify.com/track/3hhJFk8PZEb0h3aAMbQRcM"
     },
     {
       "added_at": "2026-02-27 04:00:21",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-02-27 04:00:21",
       "album": {
-        "name": "The Boat",
-        "url": "https://open.spotify.com/album/0J4vsdDsgHSiP9DwdPTj6r"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        }
-      ],
-      "duration_ms": 425600,
-      "name": "The Boat",
-      "url": "https://open.spotify.com/track/6Q1RTxAXNBJ6jgSBEkIQNy"
-    },
-    {
-      "added_at": "2026-02-27 04:00:21",
-      "album": {
         "name": "Big Majestic",
         "url": "https://open.spotify.com/album/54PPhxM0V8V87txFsNVWgb"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 162230,
       "name": "Strawberry Hill Ascent",
       "url": "https://open.spotify.com/track/7dcAGnZgECMRTDKRM9pmqg"
+    },
+    {
+      "added_at": "2026-02-27 04:00:21",
+      "album": {
+        "name": "The Boat",
+        "url": "https://open.spotify.com/album/0J4vsdDsgHSiP9DwdPTj6r"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "duration_ms": 425600,
+      "name": "The Boat",
+      "url": "https://open.spotify.com/track/6Q1RTxAXNBJ6jgSBEkIQNy"
     },
     {
       "added_at": "2026-02-27 04:00:21",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-02-27 04:00:21",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/14Bw4U2d0aDlOS1pw4B2lR"
-      },
-      "artists": [
-        {
-          "name": "Sarah Watson",
-          "url": "https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0"
-        }
-      ],
-      "duration_ms": 80968,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/4fAEpM1T03i85vmAYtk6mM"
-    },
-    {
-      "added_at": "2026-02-27 04:00:21",
-      "album": {
         "name": "No. 4",
         "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 170613,
       "name": "At Dawn",
       "url": "https://open.spotify.com/track/7oxhBiEowzLlttETXX3dy4"
+    },
+    {
+      "added_at": "2026-02-27 04:00:21",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/14Bw4U2d0aDlOS1pw4B2lR"
+      },
+      "artists": [
+        {
+          "name": "Sarah Watson",
+          "url": "https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0"
+        }
+      ],
+      "duration_ms": 80968,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/4fAEpM1T03i85vmAYtk6mM"
     },
     {
       "added_at": "2026-02-27 04:00:21",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-02-27 04:00:21",
       "album": {
-        "name": "Healing Is A Miracle - Extended Versions",
-        "url": "https://open.spotify.com/album/0u6QdELDIZpZ9QTVhIKN9d"
-      },
-      "artists": [
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        }
-      ],
-      "duration_ms": 640034,
-      "name": "Inspirit - Extended Version",
-      "url": "https://open.spotify.com/track/6lboNI9Zzftv0XV5ycodA7"
-    },
-    {
-      "added_at": "2026-02-27 04:00:21",
-      "album": {
         "name": "CHANDANI",
         "url": "https://open.spotify.com/album/5rltLBY7tp2T0l7O4jHWoh"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 189350,
       "name": "Amma",
       "url": "https://open.spotify.com/track/6EVlMgdGXNlTQUi9xITR9G"
+    },
+    {
+      "added_at": "2026-02-27 04:00:21",
+      "album": {
+        "name": "Healing Is A Miracle - Extended Versions",
+        "url": "https://open.spotify.com/album/0u6QdELDIZpZ9QTVhIKN9d"
+      },
+      "artists": [
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        }
+      ],
+      "duration_ms": 640034,
+      "name": "Inspirit - Extended Version",
+      "url": "https://open.spotify.com/track/6lboNI9Zzftv0XV5ycodA7"
     },
     {
       "added_at": "2026-02-27 04:00:21",

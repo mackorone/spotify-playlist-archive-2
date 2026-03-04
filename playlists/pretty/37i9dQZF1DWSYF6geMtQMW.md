@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 
 > הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: עומר אדם
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,249 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,264 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 | 49 | [רוקד לי על העצב](https://open.spotify.com/track/5R2KoD3IlLRvCPHVhwdaEe) | [Mor](https://open.spotify.com/artist/0oI0Dm98K3jmtSbfTLiChX) | [רוקד לי על העצב](https://open.spotify.com/album/0RcgspZ4OvKayfaPDS1gcY) | 2:58 |
 | 50 | [סתכלי למעלה](https://open.spotify.com/track/2QRnt06N6pOC8PwZnGbJB4) | [חנן בן ארי](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [לא המשוגע היחידי](https://open.spotify.com/album/4BP6JIOkQMGEocKwRk4V3D) | 3:20 |
 
-Snapshot ID: `AAAAAKlUzsecCDC8ScIU3xPFWM5HHqnA`
+Snapshot ID: `AAAAAMRbJxIjkSHayG1Ufv0SSUOvNOS7`

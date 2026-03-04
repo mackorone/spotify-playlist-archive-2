@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4kw9kdjzx1UmyWvpysl0y2.md) - [plain]
 
 > Brand new music from Monstercat, all in one place.
 
-[Monstercat](https://open.spotify.com/user/monstercatmedia) - 124,267 likes - 61 songs - 3 hr 16 min
+[Monstercat](https://open.spotify.com/user/monstercatmedia) - 124,262 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,6 +68,5 @@ pretty - [cumulative](/playlists/cumulative/4kw9kdjzx1UmyWvpysl0y2.md) - [plain]
 | 58 | [TELL ME](https://open.spotify.com/track/18ZCeMWBE8cZjrybSqIo69) | [YUSSI](https://open.spotify.com/artist/1IwkSL4i4wIu40Cej0a997), [WIMBO](https://open.spotify.com/artist/4UvTMZplahiJPeTH60gEOq) | [TELL ME](https://open.spotify.com/album/1i227PMtdLpeA03UfEmvc8) | 3:23 |
 | 59 | [Tell Me Why You're Here](https://open.spotify.com/track/4afjY6JvNTwb4qBWQjFI2n) | [Andrea Botez](https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd) | [Tell Me Why You're Here](https://open.spotify.com/album/1UixKcpQcJrPAC70crSRXI) | 2:41 |
 | 60 | [Risk It All](https://open.spotify.com/track/4FO0CV9ShbsEgpZQsbXJcz) | [MUST DIE!](https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb), [Jiqui](https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut), [JiLLi](https://open.spotify.com/artist/0MCwtoXvVPYiEpr1A7Agr3) | [Risk It All](https://open.spotify.com/album/78tJCkE9ethJEJTKLhi4NT) | 3:55 |
-| 61 | [Walking Away](https://open.spotify.com/track/7rIfZw9MyKIDWz0OKeet6L) | [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM), [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk), [Elliot Vast](https://open.spotify.com/artist/2hJtwaX9JEp7l8EjigYkaA) | [Walking Away](https://open.spotify.com/album/5Q3vDdZZSwQtuSk9Z82kD8) | 2:50 |
 
-Snapshot ID: `AAAVLyvAPTsomP+sqhtpT8fWVLARowWm`
+Snapshot ID: `AAAVMLEG4X1JA/tUtOV1McjAiJV+8n6O`

@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Giana Mello",
-  "num_followers": 363821,
+  "num_followers": 363788,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-02-27 03:00:06",
       "album": {
-        "name": "O que \u00e9 amar?",
-        "url": "https://open.spotify.com/album/6ix2yOXCFignb31HY3YeUV"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        }
-      ],
-      "duration_ms": 212541,
-      "name": "O que \u00e9 amar?",
-      "url": "https://open.spotify.com/track/1Wkd4yWRVcAGjohl81ngYt"
-    },
-    {
-      "added_at": "2026-02-27 03:00:06",
-      "album": {
         "name": "Hist\u00f3ria para dois",
         "url": "https://open.spotify.com/album/0qPLs1kdaU6MnW1K6SMNfp"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 198926,
       "name": "Hist\u00f3ria para dois",
       "url": "https://open.spotify.com/track/0yUf4HZet2Kc6ftAOgtT35"
+    },
+    {
+      "added_at": "2026-02-27 03:00:06",
+      "album": {
+        "name": "O que \u00e9 amar?",
+        "url": "https://open.spotify.com/album/6ix2yOXCFignb31HY3YeUV"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "duration_ms": 212541,
+      "name": "O que \u00e9 amar?",
+      "url": "https://open.spotify.com/track/1Wkd4yWRVcAGjohl81ngYt"
     },
     {
       "added_at": "2026-02-27 03:00:06",
@@ -491,18 +491,34 @@
     {
       "added_at": "2026-02-27 03:00:06",
       "album": {
-        "name": "Desassossego",
-        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
+        "name": "a1",
+        "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
       },
       "artists": [
         {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
         }
       ],
-      "duration_ms": 176409,
-      "name": "Desassossego",
-      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
+      "duration_ms": 183210,
+      "name": "a1",
+      "url": "https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk"
+    },
+    {
+      "added_at": "2026-02-27 03:00:06",
+      "album": {
+        "name": "Impostor",
+        "url": "https://open.spotify.com/album/77iNyQNV3cyrZLoaSUCJri"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "Impostor",
+      "url": "https://open.spotify.com/track/0jR7gMaE3Ohza0i2c463WU"
     },
     {
       "added_at": "2026-02-27 03:00:06",
@@ -527,34 +543,18 @@
     {
       "added_at": "2026-02-27 03:00:06",
       "album": {
-        "name": "Impostor",
-        "url": "https://open.spotify.com/album/77iNyQNV3cyrZLoaSUCJri"
+        "name": "Desassossego",
+        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
       },
       "artists": [
         {
-          "name": "CHAMELEO",
-          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
         }
       ],
-      "duration_ms": 189600,
-      "name": "Impostor",
-      "url": "https://open.spotify.com/track/0jR7gMaE3Ohza0i2c463WU"
-    },
-    {
-      "added_at": "2026-02-27 03:00:06",
-      "album": {
-        "name": "a1",
-        "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 183210,
-      "name": "a1",
-      "url": "https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk"
+      "duration_ms": 176409,
+      "name": "Desassossego",
+      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
     },
     {
       "added_at": "2026-02-27 03:00:06",
@@ -747,26 +747,6 @@
     {
       "added_at": "2026-02-27 03:00:06",
       "album": {
-        "name": "viciado em mim",
-        "url": "https://open.spotify.com/album/4qwKGWfcXm2kZDygtI8YOg"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 194760,
-      "name": "viciado em mim",
-      "url": "https://open.spotify.com/track/7wEtrxQRf2BAWCCOuAPHVj"
-    },
-    {
-      "added_at": "2026-02-27 03:00:06",
-      "album": {
         "name": "G\u00caMEOS EM G\u00caMEOS",
         "url": "https://open.spotify.com/album/7mV6fLMgnTZkBQQ8e7PfcB"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 189333,
       "name": "rela\u00e7\u00f5es superficiais",
       "url": "https://open.spotify.com/track/1ORiphnAaOvI9UkntVSthN"
+    },
+    {
+      "added_at": "2026-02-27 03:00:06",
+      "album": {
+        "name": "viciado em mim",
+        "url": "https://open.spotify.com/album/4qwKGWfcXm2kZDygtI8YOg"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "viciado em mim",
+      "url": "https://open.spotify.com/track/7wEtrxQRf2BAWCCOuAPHVj"
     },
     {
       "added_at": "2026-02-27 03:00:06",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-02-27 03:00:06",
       "album": {
-        "name": "Ainda N\u00e3o Te Amo",
-        "url": "https://open.spotify.com/album/14z2FIsB6rBLG8nBD266cD"
-      },
-      "artists": [
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        }
-      ],
-      "duration_ms": 187370,
-      "name": "Ainda N\u00e3o Te Amo",
-      "url": "https://open.spotify.com/track/5VeiOt8ht6Itb2gGXkI9zH"
-    },
-    {
-      "added_at": "2026-02-27 03:00:06",
-      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/2AkCaeXRWht0pyc4SHzGGr"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2026-02-27 03:00:06",
       "album": {
-        "name": "N\u00e3o pense",
-        "url": "https://open.spotify.com/album/5fS3KNM1kDF5j1QU3uh4ug"
+        "name": "Ainda N\u00e3o Te Amo",
+        "url": "https://open.spotify.com/album/14z2FIsB6rBLG8nBD266cD"
       },
       "artists": [
         {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
         }
       ],
-      "duration_ms": 175258,
-      "name": "N\u00e3o pense",
-      "url": "https://open.spotify.com/track/0NjqpVIPCSNvzobWScfi8r"
+      "duration_ms": 187370,
+      "name": "Ainda N\u00e3o Te Amo",
+      "url": "https://open.spotify.com/track/5VeiOt8ht6Itb2gGXkI9zH"
     },
     {
       "added_at": "2026-02-27 03:00:06",
@@ -895,6 +879,22 @@
       "duration_ms": 165000,
       "name": "Mar de Rosas",
       "url": "https://open.spotify.com/track/0jqfLFMPSPXpWWDyJaErVP"
+    },
+    {
+      "added_at": "2026-02-27 03:00:06",
+      "album": {
+        "name": "N\u00e3o pense",
+        "url": "https://open.spotify.com/album/5fS3KNM1kDF5j1QU3uh4ug"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "duration_ms": 175258,
+      "name": "N\u00e3o pense",
+      "url": "https://open.spotify.com/track/0NjqpVIPCSNvzobWScfi8r"
     },
     {
       "added_at": "2026-02-27 03:00:06",

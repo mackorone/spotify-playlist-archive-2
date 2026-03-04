@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ⚡️ qui un sacco di musica giovane ⚡️ Cover: LDA e Aka 7even
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,391 likes - 86 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,384 likes - 86 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 31 | [LA CURA PER ME \(feat\. BLANCO\)](https://open.spotify.com/track/3TkSWRxnvQX6uKGA709Ohb) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [G](https://open.spotify.com/album/5gvYcdf39vRCCPGBuh72VG) | 3:35 |
 | 32 | [Non io, non tu](https://open.spotify.com/track/6MUPLjgUWC8XRvSBwYDfIO) | [Not Good](https://open.spotify.com/artist/1PG5WX3LZJHM4p6HO4qMq8) | [Non io, non tu](https://open.spotify.com/album/5DaDKZll00Av4CYpRR0hwd) | 2:35 |
 | 33 | [FRASI DI CARTA](https://open.spotify.com/track/4vtnTEd2tX1zFZrGuQVtYn) | [Markiese](https://open.spotify.com/artist/3raaszvUEmOauJOMrrhg4I), [Effebre](https://open.spotify.com/artist/3gR1Jz8vQDTXCdWApUGEzo) | [FRASI DI CARTA](https://open.spotify.com/album/7qPpTotzD2SMrSWjnKB5he) | 2:21 |
-| 34 | [IMMORTALE](https://open.spotify.com/track/4CQIxkIT42SbEwcCEoGhDx) | [Santissima Foresta in Fiamme](https://open.spotify.com/artist/3CXa7mPoHa7FP0NxSSIHuB), [Caio Puto](https://open.spotify.com/artist/2ujB9ZhWyYbh54aW6GlbRE), [ESSEOTTO](https://open.spotify.com/artist/6jllHZ3uKRcItJ2JUk01Jr), [Littleh](https://open.spotify.com/artist/2DT8bqqlKj7kFrP7wDkNRF), [SKA](https://open.spotify.com/artist/39pgwDIoXEdNJQMkjW8STa) | [IMMORTALE](https://open.spotify.com/album/4qkTzkQlc7sdcPRe7OTKBM) | 3:36 |
+| 34 | [IMMORTALE](https://open.spotify.com/track/4CQIxkIT42SbEwcCEoGhDx) | [Santissima Foresta in Fiamme](https://open.spotify.com/artist/3CXa7mPoHa7FP0NxSSIHuB), [Caio Puto](https://open.spotify.com/artist/2ujB9ZhWyYbh54aW6GlbRE), [ESSEOTTO](https://open.spotify.com/artist/6jllHZ3uKRcItJ2JUk01Jr), [Littleh](https://open.spotify.com/artist/2DT8bqqlKj7kFrP7wDkNRF), [SKA](https://open.spotify.com/artist/39pgwDIoXEdNJQMkjW8STa), [Rippo](https://open.spotify.com/artist/3k5my6QI1j0bFI1NVsbS8V), [M∆TT∆](https://open.spotify.com/artist/3CwI5yomtVBfsF9qp8dYY4), [TNRG](https://open.spotify.com/artist/6vD5lToi3AioelHmErea92) | [IMMORTALE](https://open.spotify.com/album/4qkTzkQlc7sdcPRe7OTKBM) | 3:36 |
 | 35 | [Halo](https://open.spotify.com/track/6zjlQ39iHKMaPcY9Fz4d9e) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [Halo](https://open.spotify.com/album/4t5euIQosseN76E6f3b8NF) | 2:17 |
 | 36 | [Poco Poco](https://open.spotify.com/track/7z0w3nra5DuagQkcg3lxkq) | [Angie](https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z) | [Poco Poco](https://open.spotify.com/album/3tWHV8nl35UmhbsYV7VZyL) | 2:31 |
 | 37 | [VALENTINE \(from stanza 263\)](https://open.spotify.com/track/2au7wQ9noiP8kDDM1EQHFf) | [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [VALENTINE](https://open.spotify.com/album/6n7tuHS3YGewVAefaawhjM) | 2:40 |

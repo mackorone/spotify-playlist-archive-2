@@ -4,7 +4,7 @@
 
 > Aus der Schweiz für dich – musique suisse – musica svizzera 🇨🇭<br/>Cover: Eileen Alister
 
-486 songs - 1 day 1 hr 7 min
+487 songs - 1 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Blue Burden](https://open.spotify.com/track/1AiQg6dRd99inBHXzeVLAl) | [Noah Parks](https://open.spotify.com/artist/1W47ZQbSjqKQiyBDOtlr0p) | [Blue Burden](https://open.spotify.com/album/0RYBIqEnOIyCu5K0hSKQD3) | 3:28 | 2025-02-07 | 2025-03-22 |
 | [Blue Lagoon](https://open.spotify.com/track/0yd5mCa3xMkCTwHt9PnY3r) | [Stevans](https://open.spotify.com/artist/2Svj1vIED1AA2ZuHbe3aeX) | [Blue Lagoon](https://open.spotify.com/album/4gZF5KNFfWKzeOPZrhGkDi) | 2:56 | 2025-03-07 | 2025-04-18 |
 | [Blue Light](https://open.spotify.com/track/2qr04qssxQwE1ndWh1mi6H) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Blue Light](https://open.spotify.com/album/58pqS362zuteaYeLitRL19) | 3:26 | 2026-02-12 |  |
+| [Blue Rider, Blue Faced](https://open.spotify.com/track/6HSuf0rKOtvGv1yhNSsBXK) | [Fiona Fiasco](https://open.spotify.com/artist/77Sy5Zgnd5KHzbsqKW6few) | [Blue Rider, Blue Faced](https://open.spotify.com/album/5aMb0lWLkrRnwmc1eH3Llr) | 3:25 | 2026-02-26 |  |
 | [Blueme](https://open.spotify.com/track/4lvwmEzgSSVSDdZ5IJ9JS6) | [Heimweh](https://open.spotify.com/artist/105zzMv7YWXNlEOan0owJb) | [Blueme](https://open.spotify.com/album/6Jxu6aoNf01lUI1yhFdIaw) | 3:09 | 2025-05-08 | 2025-05-16 |
 | [Body](https://open.spotify.com/track/1ucysYifutlHvdhT3wPH09) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Body](https://open.spotify.com/album/2XFkhBjRO8elEtoZovNbjg) | 2:19 | 2024-06-27 | 2024-10-04 |
 | [Born To Be Blue](https://open.spotify.com/track/04zo7BvWV2yNzgpRNhgKFw) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Born To Be Blue](https://open.spotify.com/album/3ZqxWb4ror9WT1QT7GuV8c) | 2:51 | 2025-09-12 |  |
@@ -414,7 +415,7 @@
 | [Sweet Nothing](https://open.spotify.com/track/1uAZhciIvjilQJWg4e30w4) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [I'm Not Always Sad, Sometimes I'm Angry](https://open.spotify.com/album/4tFDkjZhcwOAiZAsGBcTtO) | 3:20 | 2024-11-01 | 2025-02-08 |
 | [Talk](https://open.spotify.com/track/0CrrdcP4QLXeDylIfHqMaC) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Talk](https://open.spotify.com/album/25u5zS0KnYONzjB0uT6QyU) | 3:07 | 2025-06-05 | 2025-08-29 |
 | [Telefone](https://open.spotify.com/track/71wA37ZBebeJG2ckJ9FsLv) | [Film 2](https://open.spotify.com/artist/7IVcyzxxgbupWxn6R2SFhZ) | [Telefone](https://open.spotify.com/album/2rzOpU8XegetRKR8Vstbrm) | 3:09 | 2025-04-24 | 2025-05-02 |
-| [Test Drive](https://open.spotify.com/track/5HRN0Lv27ah0HHpVqi6MXP) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [Test Drive](https://open.spotify.com/album/7sG18Qe8wSb1JFdq4a1R9W) | 2:22 | 2025-11-27 |  |
+| [Test Drive](https://open.spotify.com/track/5HRN0Lv27ah0HHpVqi6MXP) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [Test Drive](https://open.spotify.com/album/7sG18Qe8wSb1JFdq4a1R9W) | 2:22 | 2025-11-27 | 2026-03-04 |
 | [that life](https://open.spotify.com/track/2h380v9zZM6kaarDPvijMk) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [i always remember all of my dreams](https://open.spotify.com/album/5uul9EttWCRZtIkvxLwNwq) | 2:51 | 2024-07-19 |  |
 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 | 2024-06-27 | 2024-10-04 |
 | [The Dragon](https://open.spotify.com/track/4A2iQZ1dpwLY5FGzQGf7tK) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [Everything](https://open.spotify.com/album/1hqHsGeJ5dMwe4lPYqaDav) | 6:27 | 2026-02-19 |  |

@@ -1103,6 +1103,24 @@
     },
     {
       "album": {
+        "name": "Running From The Good EP",
+        "url": "https://open.spotify.com/album/0IbkeUU51EK6DbJ1TXo2DD"
+      },
+      "artists": [
+        {
+          "name": "Ocean Flor",
+          "url": "https://open.spotify.com/artist/0LoAvUve5dlyMSOtpcaAxL"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172885,
+      "name": "Calling You Out",
+      "url": "https://open.spotify.com/track/1mjdnfUMl83DGly7LgqaKe"
+    },
+    {
+      "album": {
         "name": "About To Begin / Cars Pass By Like Childhood Sweethearts",
         "url": "https://open.spotify.com/album/0SQV9DefT0wIBz9aCYehmu"
       },
@@ -3969,6 +3987,24 @@
     },
     {
       "album": {
+        "name": "Longing Protocol",
+        "url": "https://open.spotify.com/album/1IO58qW3xmxVxxHK1QtETb"
+      },
+      "artists": [
+        {
+          "name": "DJ Wei",
+          "url": "https://open.spotify.com/artist/0yEGCcd4tH68Ou2xmfwyTN"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184646,
+      "name": "Longing Protocol",
+      "url": "https://open.spotify.com/track/72Pdo1TpRsYvcQw5WwRJMd"
+    },
+    {
+      "album": {
         "name": "Everything Changes, Nothing Ends",
         "url": "https://open.spotify.com/album/78KuAIcbQQcGnyIkfZgqrO"
       },
@@ -4046,7 +4082,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 148106,
       "name": "Looking Up",
       "url": "https://open.spotify.com/track/4z4sZuWyEtvrVoQYQJXlwX"
@@ -4210,7 +4246,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 243777,
       "name": "Love Theme",
       "url": "https://open.spotify.com/track/1DMr37TKEP4rkcHB1SqiSf"

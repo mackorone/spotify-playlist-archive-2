@@ -1575,6 +1575,24 @@
     },
     {
       "album": {
+        "name": "An explanation for this",
+        "url": "https://open.spotify.com/album/6XGrYKGhi11i3abCLH46fD"
+      },
+      "artists": [
+        {
+          "name": "GUTTR",
+          "url": "https://open.spotify.com/artist/0ZGkvszEmSG5UQK8eM21bs"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173375,
+      "name": "An explanation for this",
+      "url": "https://open.spotify.com/track/6MUwh8oXO9XOjtlNEjPZU1"
+    },
+    {
+      "album": {
         "name": "Anora",
         "url": "https://open.spotify.com/album/02SAuWHkTaO6onlJx2JO5x"
       },
@@ -2130,7 +2148,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 208032,
       "name": "BACKWARDS, INTO U",
       "url": "https://open.spotify.com/track/7cUQQ8eWY2RBBnU4N3DaG7"
@@ -4431,6 +4449,24 @@
     },
     {
       "album": {
+        "name": "Close Ya Eyes!",
+        "url": "https://open.spotify.com/album/5LeOJDOrkkskIgSvEYEbCT"
+      },
+      "artists": [
+        {
+          "name": "matt proxy",
+          "url": "https://open.spotify.com/artist/3PBLEBKGVTKW845ylh5Dul"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93261,
+      "name": "Close Ya Eyes!",
+      "url": "https://open.spotify.com/track/4N0rOJ3W0XCYpdwDRsMPEA"
+    },
+    {
+      "album": {
         "name": "CLUBHOUSE! / UNCIVILIZED! (GO!)",
         "url": "https://open.spotify.com/album/4BPihCuvLuLFhxc1pzUk7R"
       },
@@ -4955,6 +4991,24 @@
     },
     {
       "album": {
+        "name": "cycles",
+        "url": "https://open.spotify.com/album/2S6OuS278oXvsVjb6h0T8f"
+      },
+      "artists": [
+        {
+          "name": "Kansh",
+          "url": "https://open.spotify.com/artist/5NhfYdxgkSTb0OIStFPR1Z"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114285,
+      "name": "cycles",
+      "url": "https://open.spotify.com/track/2U17nDDn1LfebR2WGobZoH"
+    },
+    {
+      "album": {
         "name": "Get Jiggy Or Die Tryin'",
         "url": "https://open.spotify.com/album/2NnUQwSQvBQSxu5MY9hhBX"
       },
@@ -5380,7 +5434,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 148208,
       "name": "DELIRIUM TREMENS",
       "url": "https://open.spotify.com/track/5jkiVGkaOMOHcYOIK29ApL"
@@ -6447,6 +6501,24 @@
     },
     {
       "album": {
+        "name": "ELLO",
+        "url": "https://open.spotify.com/album/26gYAwo62YHwfxNHZjPJ4w"
+      },
+      "artists": [
+        {
+          "name": "N4T",
+          "url": "https://open.spotify.com/artist/2Uc4HHnkMv5xuC4QIZFTpz"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137531,
+      "name": "ELLO",
+      "url": "https://open.spotify.com/track/6Bboq7lOzJmBb5f4VRkG5y"
+    },
+    {
+      "album": {
         "name": "Embrace It",
         "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
       },
@@ -7494,7 +7566,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 223365,
       "name": "Flash in the Pan",
       "url": "https://open.spotify.com/track/17fMbhXpvW2oexes5BXStq"
@@ -8376,6 +8448,28 @@
       "duration_ms": 82048,
       "name": "GFU!",
       "url": "https://open.spotify.com/track/4Xw4iQRKESkZXeaRBKMdey"
+    },
+    {
+      "album": {
+        "name": "GHOST (y u flexin')",
+        "url": "https://open.spotify.com/album/2Ex9zwFWAdtohYRrpqnn9u"
+      },
+      "artists": [
+        {
+          "name": "YAII",
+          "url": "https://open.spotify.com/artist/7MvPAMS30HN4K095Vm4N30"
+        },
+        {
+          "name": "PLUTO",
+          "url": "https://open.spotify.com/artist/5fJfVzNyYHCgtMSDolHQT0"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162365,
+      "name": "GHOST - y u flexin'",
+      "url": "https://open.spotify.com/track/6gpEZhq4aTT8EG407wU7Lr"
     },
     {
       "album": {
@@ -13570,7 +13664,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 180000,
       "name": "MAKKA",
       "url": "https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr"
@@ -13832,6 +13926,28 @@
       "duration_ms": 147000,
       "name": "mathematics",
       "url": "https://open.spotify.com/track/14wlnbFSJj5VTK5c1cDQMQ"
+    },
+    {
+      "album": {
+        "name": "Matt Proxy Cypher Verse",
+        "url": "https://open.spotify.com/album/66v5KX2PffQxPTJdlw9SaZ"
+      },
+      "artists": [
+        {
+          "name": "matt proxy",
+          "url": "https://open.spotify.com/artist/3PBLEBKGVTKW845ylh5Dul"
+        },
+        {
+          "name": "Underground Sound",
+          "url": "https://open.spotify.com/artist/4ZgFJ4vTDoRIBVCQmnHnrD"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97283,
+      "name": "Matt Proxy Cypher Verse",
+      "url": "https://open.spotify.com/track/71ocytYwLCpblN4Jid9UC2"
     },
     {
       "album": {
@@ -17329,6 +17445,24 @@
     },
     {
       "album": {
+        "name": "prototype",
+        "url": "https://open.spotify.com/album/0xRNPryFtPD67496idfDsO"
+      },
+      "artists": [
+        {
+          "name": "pnkdrco",
+          "url": "https://open.spotify.com/artist/54ui5N3fVlyC2imsAakAhI"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99265,
+      "name": "prototype",
+      "url": "https://open.spotify.com/track/7qgqbZW6SeqV1iEYTRP4nS"
+    },
+    {
+      "album": {
         "name": "DIAMONDS",
         "url": "https://open.spotify.com/album/3kzwY2NyciGzUmvPOHciap"
       },
@@ -20721,6 +20855,24 @@
     },
     {
       "album": {
+        "name": "Take Me Back To London",
+        "url": "https://open.spotify.com/album/5QJuDMqj3m17seBGt99tQw"
+      },
+      "artists": [
+        {
+          "name": "YT",
+          "url": "https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131320,
+      "name": "Take Me Back To London Where It's Raining",
+      "url": "https://open.spotify.com/track/2NVXGwEZWXmloS3mftEaa3"
+    },
+    {
+      "album": {
         "name": "TAKE R U OK",
         "url": "https://open.spotify.com/album/7zrajArFSrkaruRU3ZOuzh"
       },
@@ -24100,6 +24252,24 @@
       "duration_ms": 152450,
       "name": "you're a parasite",
       "url": "https://open.spotify.com/track/5CoMPjfMO8XnNc6aNKYSo1"
+    },
+    {
+      "album": {
+        "name": "vanished",
+        "url": "https://open.spotify.com/album/5OIvXMG6iRQFzdiHpUMKWG"
+      },
+      "artists": [
+        {
+          "name": "braeln",
+          "url": "https://open.spotify.com/artist/48pPaBOrVgiecJ8rIyXfYQ"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125405,
+      "name": "young",
+      "url": "https://open.spotify.com/track/66gnG1vWnPtzRERMpgDNcC"
     },
     {
       "album": {

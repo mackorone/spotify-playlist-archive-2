@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: Giegs, PLUGOXHUSH, Clep N Flyy, Venti, Joella T & Vensly en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,285 likes - 68 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,277 likes - 68 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Aventador](https://open.spotify.com/track/1q3TMJUpWHLOx15fIArZfv) | [Clep N Flyy](https://open.spotify.com/artist/5jX0t5N4lu8OfUFQDQURNq) | [Aventador](https://open.spotify.com/album/3OGAYjnJmDBvrvnHtQpFb2) | 2:00 |
 | 2 | [Blacka Man Waggie \(feat\. Rz\)](https://open.spotify.com/track/5tuNTGCLsYQp0z663yPaeQ) | [DSAAF](https://open.spotify.com/artist/79Wzu3NpW82H9rHbw4Gvlf), [Rz](https://open.spotify.com/artist/0Uicf2CoBVxIQZxFXuXlO8) | [Blacka Man Waggie \(feat\. Rz\)](https://open.spotify.com/album/5zFJS7OeaLfsw8Vrj08gkH) | 2:22 |
-| 3 | [In2deep](https://open.spotify.com/track/2Pk3QmyRaJfebLRhMFAFku) | [Giegs](https://open.spotify.com/artist/1jjZzfxHdrYhH6k5vHO5Gb), [PLUGOXHUSH](https://open.spotify.com/artist/1NVqy2JmTHXzS0deflJpS2), [Andrélon](https://open.spotify.com/artist/0kpB9a2lLgoxgoQh7KL0p2) | [In2deep](https://open.spotify.com/album/1LsPXwEZqQmioQjEas4Xq3) | 2:32 |
-| 4 | [Hoofd Omhoog](https://open.spotify.com/track/7IocSrGRqlavONYjBLpywM) | [Venti](https://open.spotify.com/artist/6SgOMDXLQKIiN15OrjOvGQ), [Joella T](https://open.spotify.com/artist/1yxupxuZvDWzd3JO8Z1mCW), [Vensly](https://open.spotify.com/artist/1yalnSfdVdX8qVMbCodMoA) | [Hoofd Omhoog](https://open.spotify.com/album/5eiQ9gaCjv0KLUeLMBqW7K) | 2:25 |
+| 3 | [Hoofd Omhoog](https://open.spotify.com/track/7IocSrGRqlavONYjBLpywM) | [Venti](https://open.spotify.com/artist/6SgOMDXLQKIiN15OrjOvGQ), [Joella T](https://open.spotify.com/artist/1yxupxuZvDWzd3JO8Z1mCW), [Vensly](https://open.spotify.com/artist/1yalnSfdVdX8qVMbCodMoA) | [Hoofd Omhoog](https://open.spotify.com/album/5eiQ9gaCjv0KLUeLMBqW7K) | 2:25 |
+| 4 | [In2deep](https://open.spotify.com/track/2Pk3QmyRaJfebLRhMFAFku) | [Giegs](https://open.spotify.com/artist/1jjZzfxHdrYhH6k5vHO5Gb), [PLUGOXHUSH](https://open.spotify.com/artist/1NVqy2JmTHXzS0deflJpS2), [Andrélon](https://open.spotify.com/artist/0kpB9a2lLgoxgoQh7KL0p2) | [In2deep](https://open.spotify.com/album/1LsPXwEZqQmioQjEas4Xq3) | 2:32 |
 | 5 | [Toxic](https://open.spotify.com/track/3mBKRgw8M1OHdgwAslBC1o) | [Getit](https://open.spotify.com/artist/5Yc3rkj4Fs4slH5uGZaG8I) | [Toxic](https://open.spotify.com/album/2wfF5J2pyHe1E4FlArcD5m) | 2:51 |
 | 6 | [A.O.S](https://open.spotify.com/track/7KvYMNrZVhxH7KSRLDM4wF) | [WAWA](https://open.spotify.com/artist/71IGD79X5laXW6cmqehskJ) | [A.O.S](https://open.spotify.com/album/57FMRoDEXtDc8r7kPT1ekC) | 2:58 |
 | 7 | [Jongetje Van Plein](https://open.spotify.com/track/0gGehwelrHouCkduRi6D7l) | [Noah Ysp](https://open.spotify.com/artist/6EXdAUuol3xlQgad9NEy9u), [Kili](https://open.spotify.com/artist/6A9qX1ebPIWADHzSSOGh8S) | [Jongetje Van Plein](https://open.spotify.com/album/0TwSHk2G9RE3vnQZJPI2qS) | 2:23 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 67 | [No Drama](https://open.spotify.com/track/2OartbMVAoWsDqKJRqkCPb) | [16'dls](https://open.spotify.com/artist/6b1BvwljfJStnCGcSw4QBa), [Vier1](https://open.spotify.com/artist/66zBfJKGOsjwbPfq9KE1F7), [Elf](https://open.spotify.com/artist/614gyrOAR88aE11ft8wnZ0) | [No Drama](https://open.spotify.com/album/0jViD3bl5AgiUrWfFkIKCt) | 2:28 |
 | 68 | [SOPROPO](https://open.spotify.com/track/7gjFe8bUlh2mkQRzw360xU) | [Presto](https://open.spotify.com/artist/6ZDpcHcivlBAUO2UqGHSM3), [RAFTING GOODS](https://open.spotify.com/artist/6NzcpN9bENbuI2mLaC24Zl), [Duvel](https://open.spotify.com/artist/3XTRFcIvjX1GwAvQ3EvzLL), [Nosa](https://open.spotify.com/artist/1yiTO5VCQNBGaLcAZYlGD5) | [MAMA'S BOY](https://open.spotify.com/album/28Q6bPFOeHfsLBUTv3530a) | 2:28 |
 
-Snapshot ID: `AAAAAL3wR8fAJQA3Tt3ByEeccd6l/QuO`
+Snapshot ID: `AAAAAAqsBwqnGWRRiu+dhSlPEdrX0NyW`

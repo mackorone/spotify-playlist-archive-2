@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJwnqEyjy2f.md) - [plain]
 
 > <a href="spotify:artist:7sAqpkrQBaOkddsv1Tz1XK">Mosimann</a>'s favourite tracks\. Updated regularly\. Curated by Mosimann\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,926 likes - 88 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,952 likes - 88 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJwnqEyjy2f.md) - [plain]
 | 10 | [Bad Boy \- GENESI Remix](https://open.spotify.com/track/4MKqROsy64whz0A1YyCXGE) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [Bad Boy \(GENESI Remix\)](https://open.spotify.com/album/4Dcsa8dzEEkaqAwdF7q7rM) | 3:08 |
 | 11 | [Bad Man Sound](https://open.spotify.com/track/6oYa9iLZ18BfxrqgI8ct5J) | [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK), [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih) | [Bad Man Sound](https://open.spotify.com/album/3FMy9rFp8V1MO23gbKCt9F) | 2:00 |
 | 12 | [Misbehave](https://open.spotify.com/track/1FRWjWnOf6NRePXN38tkQS) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Misbehave](https://open.spotify.com/album/59dxeR3y0o3WhJwQA1oNKm) | 3:43 |
-| 13 | [Black Snake](https://open.spotify.com/track/1Wmy9oykQ7sKYwRitf8WD3) | [Luke Alexander](https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542), [Datti](https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q) | [Black Snake](https://open.spotify.com/album/7avfJc7EYcYxluAx6DCOHC) | 2:15 |
+| 13 | [Black Snake](https://open.spotify.com/track/1Wmy9oykQ7sKYwRitf8WD3) | [LUKE ALEXANDER](https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542), [Datti](https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q) | [Black Snake](https://open.spotify.com/album/7avfJc7EYcYxluAx6DCOHC) | 2:15 |
 | 14 | [Mind Dimension \- Adam Sellouk Remix](https://open.spotify.com/track/7e5S2rMuJtJNdqTGXflxsn) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq) | [Mind Dimension \(Adam Sellouk Remix\)](https://open.spotify.com/album/5JcItSeupngDftJZmxCEiz) | 3:39 |
 | 15 | [The Queen \- 303 Retouch](https://open.spotify.com/track/7ga9mUzT0UoVYNZdRYaBIg) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Mita Gami](https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8) | [The Queen \(303 Retouch\)](https://open.spotify.com/album/3At4VjbTFzjnmXB09FELVW) | 3:42 |
 | 16 | [50 INCH WOOFAS](https://open.spotify.com/track/7IaZ73ZsBAzUsFIBG4kCSV) | [Facu Baez](https://open.spotify.com/artist/22HYVpPiieQRJsUxZslfBN), [Braydon Terzo](https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq) | [50 INCH WOOFAS](https://open.spotify.com/album/3Qpjcy2pfqIG7PnvjdbLBB) | 2:56 |

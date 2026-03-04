@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Cover: Robbie Williams at The BRITs 2026",
+  "description": "New music and timeless tracks from legends only. Cover: U2",
   "name": "Legends Only",
   "tracks": [
     {
@@ -250,7 +250,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 233026,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/3RYlpQKrhCBar8C1deboL5"
@@ -1332,7 +1332,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 293183,
       "name": "Crazy Train",
       "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
@@ -3136,7 +3136,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-02",
+      "date_removed": null,
       "duration_ms": 254640,
       "name": "Made of Stone - Remastered 2009",
       "url": "https://open.spotify.com/track/0bZelokqNQicLQfLU1Ayw8"
@@ -3388,7 +3388,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 228266,
       "name": "Movin' on Up",
       "url": "https://open.spotify.com/track/67ncFJWaIbJdqZl1bpEppz"

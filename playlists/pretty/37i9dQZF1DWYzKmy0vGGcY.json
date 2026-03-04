@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James",
-  "num_followers": 636904,
+  "num_followers": 637021,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
@@ -281,22 +281,6 @@
       "url": "https://open.spotify.com/track/0mbS3VwRbO6HVBMPXnzOGA"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "The Wonderful World Of Sam Cooke",
-        "url": "https://open.spotify.com/album/11qEWtxwrKQUgOBPsff4op"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 128786,
-      "name": "(What A) Wonderful World - Mono",
-      "url": "https://open.spotify.com/track/2G0GextMwZJLkNxcSZ7ZJ3"
-    },
-    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "Days Of Future Passed (Deluxe Version)",
@@ -311,6 +295,22 @@
       "duration_ms": 269106,
       "name": "Nights In White Satin - Single Version / Mono",
       "url": "https://open.spotify.com/track/6L5BZEcZmD6RBJnimzlyKr"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "The Wonderful World Of Sam Cooke",
+        "url": "https://open.spotify.com/album/11qEWtxwrKQUgOBPsff4op"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 128786,
+      "name": "(What A) Wonderful World - Mono",
+      "url": "https://open.spotify.com/track/2G0GextMwZJLkNxcSZ7ZJ3"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -347,6 +347,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "Under the Boardwalk",
+        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 161960,
+      "name": "Under the Boardwalk",
+      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "Showcase",
         "url": "https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 164573,
       "name": "Crazy - Single Version",
       "url": "https://open.spotify.com/track/3zpj9dvJABiyMrmLCPw6i8"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Under the Boardwalk",
-        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 161960,
-      "name": "Under the Boardwalk",
-      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -1187,8 +1187,8 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Dusty... Definitely (Expanded Edtion)",
-        "url": "https://open.spotify.com/album/08W4d8uMIQvJg0nlwR1rBN"
+        "name": "A Girl Called Dusty (Expanded Edtion)",
+        "url": "https://open.spotify.com/album/1ulDMEpgJC1L4W05dMyqHl"
       },
       "artists": [
         {
@@ -1196,9 +1196,9 @@
           "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
         }
       ],
-      "duration_ms": 156586,
-      "name": "Take Another Little Piece Of My Heart",
-      "url": "https://open.spotify.com/track/0E4UBpsUOZ6Ic4SCxrXz1L"
+      "duration_ms": 173933,
+      "name": "Wishin' And Hopin' - Stereo Version",
+      "url": "https://open.spotify.com/track/4NAbnwBxeiFY714TBr3zBJ"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -1477,22 +1477,6 @@
       "url": "https://open.spotify.com/track/3s2inuLbQQZ7z1GJrdlQr6"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "The Complete Dinah Washington On Mercury Vol. 2 (1950-1952)",
-        "url": "https://open.spotify.com/album/2ijZDafBX3xtZSGUkxccZ6"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 182573,
-      "name": "Mad About The Boy",
-      "url": "https://open.spotify.com/track/1c7ELD4W6VyoKTglc4zzUH"
-    },
-    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "Empty Sky",
@@ -1507,6 +1491,22 @@
       "duration_ms": 217826,
       "name": "Skyline Pigeon",
       "url": "https://open.spotify.com/track/5MimWt53Ukh0gcv7mC0Rnx"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "The Complete Dinah Washington On Mercury Vol. 2 (1950-1952)",
+        "url": "https://open.spotify.com/album/2ijZDafBX3xtZSGUkxccZ6"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 182573,
+      "name": "Mad About The Boy",
+      "url": "https://open.spotify.com/track/1c7ELD4W6VyoKTglc4zzUH"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1541,6 +1541,26 @@
       "url": "https://open.spotify.com/track/28Y2taEFmHofu2EsU04ILf"
     },
     {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Hits",
+        "url": "https://open.spotify.com/album/3zkN3vlMLeR2Hmvh7LSgJ9"
+      },
+      "artists": [
+        {
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+        },
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 147527,
+      "name": "This Magic Moment",
+      "url": "https://open.spotify.com/track/48VbR0NaVDvJ4ZguFdS0xa"
+    },
+    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "The Lost Album",
@@ -1571,26 +1591,6 @@
       "duration_ms": 174800,
       "name": "The Tracks Of My Tears",
       "url": "https://open.spotify.com/track/7FwkoTz8Ic8C5YaE9XXGIU"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Hits",
-        "url": "https://open.spotify.com/album/3zkN3vlMLeR2Hmvh7LSgJ9"
-      },
-      "artists": [
-        {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
-        },
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 147527,
-      "name": "This Magic Moment",
-      "url": "https://open.spotify.com/track/48VbR0NaVDvJ4ZguFdS0xa"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1857,22 +1857,6 @@
       "url": "https://open.spotify.com/track/66EcsKLusAz7ydla0ENGkg"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "In Dreams",
-        "url": "https://open.spotify.com/album/5OpNbQPffWNtVhWCF6GziB"
-      },
-      "artists": [
-        {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
-        }
-      ],
-      "duration_ms": 169160,
-      "name": "In Dreams",
-      "url": "https://open.spotify.com/track/44pN9jfSqY3d3lrKuv3QeN"
-    },
-    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "Ketty Lester Presenting Love Letters",
@@ -1887,6 +1871,22 @@
       "duration_ms": 162840,
       "name": "Love Letters (Alternate Take)",
       "url": "https://open.spotify.com/track/3DDV3CsZan0GcUVZAtvs7N"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "In Dreams",
+        "url": "https://open.spotify.com/album/5OpNbQPffWNtVhWCF6GziB"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        }
+      ],
+      "duration_ms": 169160,
+      "name": "In Dreams",
+      "url": "https://open.spotify.com/track/44pN9jfSqY3d3lrKuv3QeN"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2024-05-03 14:52:34",
       "album": {
-        "name": "Scott Walker & The Walker Brothers - 1965-1970",
-        "url": "https://open.spotify.com/album/7LLelvBlEjv6EnwUiQm8Ad"
-      },
-      "artists": [
-        {
-          "name": "Scott Walker",
-          "url": "https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq"
-        }
-      ],
-      "duration_ms": 233520,
-      "name": "Joanna",
-      "url": "https://open.spotify.com/track/3wU4Rm4aNBXTTOTZNOEyEz"
-    },
-    {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
         "name": "Chess Pieces: The Very Best Of Chess Records",
         "url": "https://open.spotify.com/album/0EGMBB51mdmWPgG0inOYlv"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 156734,
       "name": "Love Letters",
       "url": "https://open.spotify.com/track/770bUE65sXIhYuLNGm4CIL"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "Scott Walker & The Walker Brothers - 1965-1970",
+        "url": "https://open.spotify.com/album/7LLelvBlEjv6EnwUiQm8Ad"
+      },
+      "artists": [
+        {
+          "name": "Scott Walker",
+          "url": "https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq"
+        }
+      ],
+      "duration_ms": 233520,
+      "name": "Joanna",
+      "url": "https://open.spotify.com/track/3wU4Rm4aNBXTTOTZNOEyEz"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2065,22 +2065,6 @@
       "url": "https://open.spotify.com/track/39TZWNdXsPswryjMO3rIxr"
     },
     {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
-        "name": "Modern Sounds in Country and Western Music, Vols 1 & 2",
-        "url": "https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 256120,
-      "name": "I Can't Stop Loving You",
-      "url": "https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ"
-    },
-    {
       "added_at": "2022-05-30 13:00:37",
       "album": {
         "name": "The Temptations Sing Smokey",
@@ -2095,6 +2079,22 @@
       "duration_ms": 165000,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/6RrXd9Hph4hYR4bf3dbM6H"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "Modern Sounds in Country and Western Music, Vols 1 & 2",
+        "url": "https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 256120,
+      "name": "I Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2167,18 +2167,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Chapel of Love",
-        "url": "https://open.spotify.com/album/6gBGcBd26IFUPpBjsf6Gin"
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/4m2IsYNy4ZeSpw9WPrTo9F"
       },
       "artists": [
         {
-          "name": "The Dixie Cups",
-          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
         }
       ],
-      "duration_ms": 170874,
-      "name": "Chapel of Love",
-      "url": "https://open.spotify.com/track/4JchWgAG3RZmCLHcEGf9DZ"
+      "duration_ms": 194866,
+      "name": "Harbor Lights",
+      "url": "https://open.spotify.com/track/3bZGw3sNQ1rQoosJzr7G2e"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2199,18 +2199,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/4m2IsYNy4ZeSpw9WPrTo9F"
+        "name": "Chapel of Love",
+        "url": "https://open.spotify.com/album/6gBGcBd26IFUPpBjsf6Gin"
       },
       "artists": [
         {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+          "name": "The Dixie Cups",
+          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
         }
       ],
-      "duration_ms": 194866,
-      "name": "Harbor Lights",
-      "url": "https://open.spotify.com/track/3bZGw3sNQ1rQoosJzr7G2e"
+      "duration_ms": 170874,
+      "name": "Chapel of Love",
+      "url": "https://open.spotify.com/track/4JchWgAG3RZmCLHcEGf9DZ"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Lesley Gore Sings Of Mixed-Up Hearts",
-        "url": "https://open.spotify.com/album/0dfUGbWBn7pyc1npqyKOj1"
-      },
-      "artists": [
-        {
-          "name": "Lesley Gore",
-          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "You Don't Own Me",
-      "url": "https://open.spotify.com/track/5E1pngWasYW2Y6OjV6WMUs"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Ain't That Good News (Remastered)",
         "url": "https://open.spotify.com/album/7p4RmcYD3dBOLmcIV2oxFG"
       },
@@ -2347,18 +2331,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "This Is... 1968",
-        "url": "https://open.spotify.com/album/4ThbPOaSGQqqsn5FRKBX5i"
+        "name": "Lesley Gore Sings Of Mixed-Up Hearts",
+        "url": "https://open.spotify.com/album/0dfUGbWBn7pyc1npqyKOj1"
       },
       "artists": [
         {
-          "name": "Bobby Goldsboro",
-          "url": "https://open.spotify.com/artist/5gPEo032lzARtzuVqJIm9o"
+          "name": "Lesley Gore",
+          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
         }
       ],
-      "duration_ms": 241106,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/7KkmPCj7Eh9tCD7bF5H2yh"
+      "duration_ms": 150000,
+      "name": "You Don't Own Me",
+      "url": "https://open.spotify.com/track/5E1pngWasYW2Y6OjV6WMUs"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -2379,6 +2363,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "This Is... 1968",
+        "url": "https://open.spotify.com/album/4ThbPOaSGQqqsn5FRKBX5i"
+      },
+      "artists": [
+        {
+          "name": "Bobby Goldsboro",
+          "url": "https://open.spotify.com/artist/5gPEo032lzARtzuVqJIm9o"
+        }
+      ],
+      "duration_ms": 241106,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/7KkmPCj7Eh9tCD7bF5H2yh"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "Greatest Motown Hits",
         "url": "https://open.spotify.com/album/0OA94DlliFxpfYOptv1rNS"
       },
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "How Sweet It Is To Be Loved By You",
-        "url": "https://open.spotify.com/album/308UA1MWMf1VnJV8jqyUPM"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 177773,
-      "name": "How Sweet It Is (To Be Loved By You)",
-      "url": "https://open.spotify.com/track/7xsH4s0GwIQUhId1AtPVZv"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "September Of My Years (Expanded Edition)",
         "url": "https://open.spotify.com/album/4R7TQJ3SZGpbTV8kSq6POA"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 267240,
       "name": "It Was A Very Good Year",
       "url": "https://open.spotify.com/track/2MAMKyVDaei008snxzXzT8"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "How Sweet It Is To Be Loved By You",
+        "url": "https://open.spotify.com/album/308UA1MWMf1VnJV8jqyUPM"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 177773,
+      "name": "How Sweet It Is (To Be Loved By You)",
+      "url": "https://open.spotify.com/track/7xsH4s0GwIQUhId1AtPVZv"
     },
     {
       "added_at": "2022-05-30 13:00:37",

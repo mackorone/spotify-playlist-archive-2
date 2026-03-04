@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAivYWxeKnI.md) - [plain]
 
 > Check out the first lineup for Hiphopplaya Festival 2026\. \(힙합플레야 2026의 첫번째 라인업을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,640 likes - 33 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,655 likes - 33 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,723 likes - 161 songs - 10 hr 19 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,726 likes - 165 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,5 +169,9 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 159 | [Last Goodbye](https://open.spotify.com/track/5SdEoelq5gFFHzpxGeqi1W) | [Softcase](https://open.spotify.com/artist/2nqXZfwOxBVcKjVa7pYdC8) | [Last Goodbye](https://open.spotify.com/album/52T9LF5wyA24Vz0qI7C5SE) | 3:17 |
 | 160 | [Rock N Roll From Tennessee](https://open.spotify.com/track/0U4A63dSoHUsX852Akvxki) | [The Red Light](https://open.spotify.com/artist/60BwxiCPsunxkkYMXZGCAu) | [Stories From The Working Class](https://open.spotify.com/album/0uROJoEp9NJ0YdzbQfpyRd) | 3:34 |
 | 161 | [Faith Over Follows](https://open.spotify.com/track/4KwSpONS6uS35pBJDXDXJd) | [Walker Lawrence](https://open.spotify.com/artist/65CIRBacIF3DEkVgBZ9YFC) | [Faith Over Follows](https://open.spotify.com/album/5JS5m0MeKrmj1VMZgkdd6Z) | 4:29 |
+| 162 | [Genie](https://open.spotify.com/track/00bniyPFNFRkEyER0dQX0m) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Feral Child](https://open.spotify.com/album/1BNemdbTYPHl5gPVQJMwWq) | 6:55 |
+| 163 | [Fever Dream](https://open.spotify.com/track/3h1J3rsW0PMGuaPYqThR7D) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 4:15 |
+| 164 | [Чёрный корвет](https://open.spotify.com/track/5o0IWfBaNiVpiA9NGdxkq7) | [Aleks Qt](https://open.spotify.com/artist/29OA00wnsr71wqUiL3dzD1) | [Чёрный корвет](https://open.spotify.com/album/1k4vR9gRobAO2Cofs6mvDQ) | 3:38 |
+| 165 | [She Never Knows](https://open.spotify.com/track/2izli5aeHaBWTIPiiItSj4) | [Thomas Duxbury](https://open.spotify.com/artist/6ECILQNZ22Kc1VCNpX4Cct) | [She Never Knows](https://open.spotify.com/album/3SYxMJvD6LJdPAnZfcYCh0) | 3:24 |
 
-Snapshot ID: `AAAKtorXR7vGWZnEuRDBKr1S3PGbJL6J`
+Snapshot ID: `AAAKuiObg+lmp0idsierOh2iphnjLSt2`

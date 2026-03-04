@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,866 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,871 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 7 | [ERYKAH](https://open.spotify.com/track/10IVvwVAJqb9QFU0T4AOU1) | [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [HIDE](https://open.spotify.com/artist/7b4O7FQmT1eO3ieJArBYcC) | [ERYKAH](https://open.spotify.com/album/5s38lhSkvmDoTTaWneeGYA) | 3:00 |
 | 8 | [MÉNAGE](https://open.spotify.com/track/26h6K2Gt901Sny78SU4kJS) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [F\*\*K SONGS](https://open.spotify.com/album/2ysqT6MYBNQrrJI6fKeJPi) | 2:33 |
 | 9 | [FOD\*SE \(explicit\)](https://open.spotify.com/track/27qJ6wASSruF2SVCgVljZU) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [MIXTAPE DE VERÃO: GOSTOSAS OUVEM TZ](https://open.spotify.com/album/2xw0YXpsLD1tXSayir7arv) | 2:40 |
-| 10 | [Até o Final...](https://open.spotify.com/track/6v0kEmk2K9GKOqjVulWjxP) | [ROSA](https://open.spotify.com/artist/7ETMJjD28rBX72iAxN5fvu), [Guhhl](https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p) | [Até o Final...](https://open.spotify.com/album/1h16snRSBNGcYIplkdQ6Z8) | 2:56 |
+| 10 | [Até o Final...](https://open.spotify.com/track/6v0kEmk2K9GKOqjVulWjxP) | [ROSA](https://open.spotify.com/artist/7ETMJjD28rBX72iAxN5fvu), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p), [Guhhl](https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G) | [Até o Final...](https://open.spotify.com/album/1h16snRSBNGcYIplkdQ6Z8) | 2:56 |
 | 11 | [Sabe onde me encontar](https://open.spotify.com/track/6E1AzVIFvPdvMPq4WVigoh) | [Devasto Prod](https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc), [Druhh e Drehh](https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf) | [Sabe onde me encontar](https://open.spotify.com/album/6aailZeGwqA6NDtHekl6X1) | 2:51 |
 | 12 | [todo lugar \- faixa bônus](https://open.spotify.com/track/4j9KOMG49WEL8qY9hs5jpa) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Trinidad Cardona](https://open.spotify.com/artist/2SgLODaTxJskGWHX8TbxtQ) | [Busco Romance Love Show \(Deluxe\)](https://open.spotify.com/album/2MuKbqIe2pEwetQGBMUgkT) | 3:15 |
 | 13 | [Pisca Duas Vezes](https://open.spotify.com/track/2Q822VvcHGZ7Pn20i6qb39) | [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [AnjO 005](https://open.spotify.com/artist/4JNDTzpVfxrzffzbK2qVn3), [Agostinhx](https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL), [sONTH](https://open.spotify.com/artist/1d0DvzCeLWFfznOsLNvjL9) | [Pisca Duas Vezes](https://open.spotify.com/album/6b2Rc0NhlMddUtOEgkMaMy) | 2:20 |

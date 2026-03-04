@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 248958,
+  "num_followers": 249003,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaOBgAAAAAArxGOTqJSQhVSAvbslmOv7",
+  "snapshot_id": "aaTTAAAAAADKH9h4z573Xl1LsswMP1+S",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sogno",
-        "url": "https://open.spotify.com/album/3fKfyzmHnCsdCw4iD3xIch"
+        "name": "9 (Spanish Version)",
+        "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
       },
       "artists": [
-        {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        },
         {
           "name": "Eros Ramazzotti",
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 223521,
-      "name": "Nel cuore lei",
-      "url": "https://open.spotify.com/track/7mlmpmwrkMKcU94jXRAaPy"
+      "duration_ms": 276920,
+      "name": "Un Segundo de Paz",
+      "url": "https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD"
     },
     {
       "added_at": null,
@@ -515,18 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "9 (Spanish Version)",
-        "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
+        "name": "Sogno",
+        "url": "https://open.spotify.com/album/3fKfyzmHnCsdCw4iD3xIch"
       },
       "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
         {
           "name": "Eros Ramazzotti",
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 276920,
-      "name": "Un Segundo de Paz",
-      "url": "https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD"
+      "duration_ms": 223521,
+      "name": "Nel cuore lei",
+      "url": "https://open.spotify.com/track/7mlmpmwrkMKcU94jXRAaPy"
     },
     {
       "added_at": null,
@@ -703,42 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNA HISTORIA IMPORTANTE",
-        "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 223451,
-      "name": "Solo junto a ti",
-      "url": "https://open.spotify.com/track/288ROgndq3ayHvXiuOZGla"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Ogni Senso",
-        "url": "https://open.spotify.com/album/23jtBhTUUUj9LvFlbl3tyD"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        },
-        {
-          "name": "Antonella Bucci",
-          "url": "https://open.spotify.com/artist/0nT6YKCtGrfEDXYVpbonQL"
-        }
-      ],
-      "duration_ms": 265973,
-      "name": "Amarti \u00e8 l'immenso per me",
-      "url": "https://open.spotify.com/track/6QIri6TN34y7YSvcsnT4Ln"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Donde Hay M\u00fasica (Spanish Version)",
         "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
       },
@@ -751,6 +715,22 @@
       "duration_ms": 279666,
       "name": "Estrella Gemela",
       "url": "https://open.spotify.com/track/2w5KTTp4DLF5vJ4Xk6Y7bb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UNA HISTORIA IMPORTANTE",
+        "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 223451,
+      "name": "Solo junto a ti",
+      "url": "https://open.spotify.com/track/288ROgndq3ayHvXiuOZGla"
     },
     {
       "added_at": null,
@@ -771,18 +751,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Calma Aparente (Spanish Version)",
-        "url": "https://open.spotify.com/album/2GblNd4Iw3icXAXPIhKuQa"
+        "name": "In Ogni Senso",
+        "url": "https://open.spotify.com/album/23jtBhTUUUj9LvFlbl3tyD"
       },
       "artists": [
         {
           "name": "Eros Ramazzotti",
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Antonella Bucci",
+          "url": "https://open.spotify.com/artist/0nT6YKCtGrfEDXYVpbonQL"
         }
       ],
-      "duration_ms": 250853,
-      "name": "Esta Pasando Noviembre",
-      "url": "https://open.spotify.com/track/305WmAWejd1NAIPQc9hV6p"
+      "duration_ms": 265973,
+      "name": "Amarti \u00e8 l'immenso per me",
+      "url": "https://open.spotify.com/track/6QIri6TN34y7YSvcsnT4Ln"
     },
     {
       "added_at": null,
@@ -815,6 +799,22 @@
       "duration_ms": 277266,
       "name": "F\u00e1bula - Remastered 2021",
       "url": "https://open.spotify.com/track/6E0YAI0iBKV5Dzl3jvnrdW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Calma Aparente (Spanish Version)",
+        "url": "https://open.spotify.com/album/2GblNd4Iw3icXAXPIhKuQa"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 250853,
+      "name": "Esta Pasando Noviembre",
+      "url": "https://open.spotify.com/track/305WmAWejd1NAIPQc9hV6p"
     },
     {
       "added_at": null,

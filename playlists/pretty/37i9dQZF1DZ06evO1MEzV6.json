@@ -1,12 +1,12 @@
 {
   "description": "This is beabadoobee. The essential tracks, all in one playlist.",
-  "num_followers": 122665,
+  "num_followers": 122675,
   "original_name": "This Is beabadoobee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaOBgAAAAACJ04t7ANzBH0vU8z5LmpRe",
+  "snapshot_id": "aaTTAAAAAABkZw98r4p5F0WIqvzpqgpg",
   "tracks": [
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patched Up",
-        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 247584,
-      "name": "Art Class",
-      "url": "https://open.spotify.com/track/5R4u3LgAC2BNkxo0bKQmS5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Wish I Was Stephen Malkmus",
         "url": "https://open.spotify.com/album/75TCL3IpDAOclMk0PveSNM"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 231860,
       "name": "I Wish I Was Stephen Malkmus",
       "url": "https://open.spotify.com/track/0MXwuLvZU9cauIEXlMZcdC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Patched Up",
+        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 247584,
+      "name": "Art Class",
+      "url": "https://open.spotify.com/track/5R4u3LgAC2BNkxo0bKQmS5"
     },
     {
       "added_at": null,
@@ -763,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duality",
-        "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
-      },
-      "artists": [
-        {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
-        },
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 201869,
-      "name": "Silver Into Rain",
-      "url": "https://open.spotify.com/track/1fMOg9fZ20OCJCzYiXmom7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fake It Flowers",
         "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
       },
@@ -827,6 +807,22 @@
       "duration_ms": 189932,
       "name": "Dye It Red",
       "url": "https://open.spotify.com/track/02EKM4d0J6AftgttumTzzB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lice",
+        "url": "https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 68293,
+      "name": "Angry Song",
+      "url": "https://open.spotify.com/track/3b8FrA74Tm4y22Zzi01Yk4"
     }
   ],
   "unique_name": "This Is beabadoobee",

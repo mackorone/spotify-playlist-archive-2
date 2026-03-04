@@ -363,6 +363,22 @@
     {
       "added_at": "2025-10-24 15:00:37",
       "album": {
+        "name": "Music From The Netflix Original Series The Politician",
+        "url": "https://open.spotify.com/album/5Gik4usNaiTLBzBimuIEpJ"
+      },
+      "artists": [
+        {
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        }
+      ],
+      "duration_ms": 247606,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3OHTX3Kf5qOOPwGepi5xe8"
+    },
+    {
+      "added_at": "2025-10-24 15:00:37",
+      "album": {
         "name": "A Very Kacey Christmas",
         "url": "https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 230480,
       "name": "Present Without A Bow",
       "url": "https://open.spotify.com/track/0Pj9cTJcWbrDPjtCKx4Ody"
-    },
-    {
-      "added_at": "2025-10-24 15:00:37",
-      "album": {
-        "name": "Music From The Netflix Original Series The Politician",
-        "url": "https://open.spotify.com/album/5Gik4usNaiTLBzBimuIEpJ"
-      },
-      "artists": [
-        {
-          "name": "Ben Platt",
-          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
-        }
-      ],
-      "duration_ms": 247606,
-      "name": "River",
-      "url": "https://open.spotify.com/track/3OHTX3Kf5qOOPwGepi5xe8"
     },
     {
       "added_at": "2025-10-24 15:00:37",

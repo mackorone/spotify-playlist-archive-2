@@ -4,7 +4,7 @@
 
 > Your essential Ramadan Series songs! Cover: Ramy Sabry
 
-168 songs - 9 hr 7 min
+169 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [تتر مسلسل صدفة](https://open.spotify.com/track/12F6rNixnmVNXqqPaogMgj) | [مسلم](https://open.spotify.com/artist/3T3MXGyT0JUhh8QiW7X2Ha), [اوكا](https://open.spotify.com/artist/3iBCuclUWFl1ozuyqphlyK), [Reham Haggag](https://open.spotify.com/artist/2Z98zeSBR1FrMBFXry65tV) | [تتر مسلسل صدفة](https://open.spotify.com/album/15jNREV1M2MUlVs0AjW3rO) | 3:15 | 2024-03-12 | 2025-02-28 |
 | [تحية \- من مسلسل لعبة وقلبت بجد](https://open.spotify.com/track/47ZPOStAXyjOvmO8MNPyGQ) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [تحية \(من مسلسل لعبة وقلبت بجد\)](https://open.spotify.com/album/4EQMImTVpj4VJrd5rdFjRk) | 2:24 | 2026-02-18 |  |
 | [تربية حيه \(تتر مسلسل علي كلاي\)](https://open.spotify.com/track/1xl7SZhnqXn5yordCRTqdA) | [Yara Mohamed](https://open.spotify.com/artist/29nvzTxUgaF2Hjka84IgkD) | [تربية حيه \(تتر مسلسل علي كلاي\)](https://open.spotify.com/album/5DtWvEsLjdEV049XMAhElr) | 3:35 | 2026-02-26 |  |
-| [تعالالي حبيبي الليلة](https://open.spotify.com/track/3quMoxktYlgORFxQt4CpAI) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Mai Omar](https://open.spotify.com/artist/3VZQvZXsTyCzwjhXJgv2tC) | [تعالالي حبيبي الليلة](https://open.spotify.com/album/4E7h6qYmzp5gpjtmk4T0uW) | 1:49 | 2025-03-06 |  |
+| [تعالالي حبيبي الليلة](https://open.spotify.com/track/3quMoxktYlgORFxQt4CpAI) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Mai Omar](https://open.spotify.com/artist/3VZQvZXsTyCzwjhXJgv2tC) | [تعالالي حبيبي الليلة](https://open.spotify.com/album/4E7h6qYmzp5gpjtmk4T0uW) | 1:49 | 2025-03-06 | 2026-03-04 |
 | [جزيرة غمام \- تتر المسلسل](https://open.spotify.com/track/22SbTvVv0gL4mPlWTDtTk2) | [Ali El Haggar](https://open.spotify.com/artist/6pnyGPcDohIUFHU2AJfDT6) | [جزيرة غمام \(تتر المسلسل\)](https://open.spotify.com/album/6q8pXCHu6z0AfOvJTTfs3F) | 3:49 | 2026-02-10 | 2026-02-19 |
 | [جوة الجحور](https://open.spotify.com/track/2qpxshCadd6uCSrOmeLKZN) | [Wael El Fashny](https://open.spotify.com/artist/3HmBF9Z6hSXHWDMgLALAnD) | [جوة الجحور](https://open.spotify.com/album/1FuC6Dhc1404uUKJXBQLjL) | 4:22 | 2024-03-12 | 2025-02-28 |
 | [حارق ناس كتير مسلسل إش إش](https://open.spotify.com/track/7BHh2MVbdnLphbXE3BqnMp) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [حارق ناس كتير مسلسل إش إش](https://open.spotify.com/album/0wLRjwezgTD7FAY2m6dkKo) | 1:55 | 2025-03-13 |  |
@@ -141,6 +141,7 @@
 | [زمن الكاش \- من مسلسل حد اقصى](https://open.spotify.com/track/3fJ1VawOuSN6pEVHk7WSDM) | [عمر الكروان](https://open.spotify.com/artist/7fy9dCQmfD23GoGEL23Uq7), [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [زمن الكاش \(من مسلسل حد اقصى\)](https://open.spotify.com/album/3eRDaBbzfVHWxjYtQr79nb) | 2:37 | 2026-02-18 |  |
 | [ستو أنا](https://open.spotify.com/track/0BCEJXmemL21JvNNoOB5TT) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ayten Amer](https://open.spotify.com/artist/4Own1NEZVQQ573zBzyRalb), [Hanady Mehanna](https://open.spotify.com/artist/5v3hMjviVKzTsRKjiUFiGT) | [مكتوب عليا \(أغاني المسلسل التلفزيوني الأصلي\)](https://open.spotify.com/album/7CNSRnoyRE1QhSWksa8OFs) | 2:21 | 2024-03-10 | 2024-04-19 |
 | [سر إلهي](https://open.spotify.com/track/0JH8L02a3ckNui2dz82yfl) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [سر إلهي](https://open.spotify.com/album/3CQ2kVBQ1i1fensGdPqTuI) | 3:54 | 2024-03-10 | 2025-03-14 |
+| [سر سعادتي \(من مسلسل علي كلاي\)](https://open.spotify.com/track/4A4WhP3xYQbENo8WaaCkTt) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [سر سعادتي \(من مسلسل علي كلاي\)](https://open.spotify.com/album/5PzCvdbFNPScafDmRFxwpC) | 3:54 | 2026-03-03 |  |
 | [سمعتُ صوتاً](https://open.spotify.com/track/0nvLr0kIz0xMocFlvJgB7X) | [Wael El Fashny](https://open.spotify.com/artist/3HmBF9Z6hSXHWDMgLALAnD) | [سمعتُ صوتاً](https://open.spotify.com/album/75KcXRETuWY0npNmDsDBGk) | 3:31 | 2024-03-18 | 2025-03-04 |
 | [سوا سوا](https://open.spotify.com/track/2TKRLhUZxSQgIuDVrtfx9a) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [سوا سوا](https://open.spotify.com/album/6oiGOkXR7n2Je2ta8COYIr) | 2:57 | 2026-02-16 |  |
 | [سواد على الكل \- تتر نهاية مسلسل العتاولة 2](https://open.spotify.com/track/6jm0hFRYUmkVzwhWzD1PFo) | [Showkey](https://open.spotify.com/artist/3xQ3WqraSnv3qd9Ni7vlQx), [Felo](https://open.spotify.com/artist/4JhWEqWfwTQywn7lKkNWt5), [Eslam Saso](https://open.spotify.com/artist/5wqG0tvzxTrS4iGciGGIDk) | [سواد على الكل \(تتر نهاية مسلسل العتاولة 2\)](https://open.spotify.com/album/4IKjxF1G9I5cU8NEmi3pFu) | 2:37 | 2025-03-03 | 2025-05-29 |

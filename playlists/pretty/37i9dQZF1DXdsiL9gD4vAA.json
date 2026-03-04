@@ -1,6 +1,6 @@
 {
   "description": "Ghazals for the rapture and passion of intense love and longing. Cover - Jagjit Singh",
-  "num_followers": 138633,
+  "num_followers": 138670,
   "original_name": "Golden Ghazals",
   "owner": {
     "name": "Spotify",
@@ -687,26 +687,6 @@
     {
       "added_at": "2026-02-18 06:07:02",
       "album": {
-        "name": "Aaghaz-E-Ishq",
-        "url": "https://open.spotify.com/album/4uq2U5N93OI2poB5vN4urI"
-      },
-      "artists": [
-        {
-          "name": "Satyajeet Jena",
-          "url": "https://open.spotify.com/artist/35DaFPNjk0o133rxjRJ0W7"
-        },
-        {
-          "name": "Mrityunjay Pandey",
-          "url": "https://open.spotify.com/artist/3oWgKfqTjiy5zDRX5dL5ps"
-        }
-      ],
-      "duration_ms": 261595,
-      "name": "Aaghaz-E-Ishq",
-      "url": "https://open.spotify.com/track/1wqqyytFD8HoKWg06T1GCo"
-    },
-    {
-      "added_at": "2026-02-18 06:07:02",
-      "album": {
         "name": "Koi Umeed",
         "url": "https://open.spotify.com/album/5YQT8LdcOc0smqplylj0jD"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 328909,
       "name": "Koi Umeed",
       "url": "https://open.spotify.com/track/1rWlMfkwDrDbUbtJrvyJYW"
+    },
+    {
+      "added_at": "2026-02-18 06:07:02",
+      "album": {
+        "name": "Aaghaz-E-Ishq",
+        "url": "https://open.spotify.com/album/4uq2U5N93OI2poB5vN4urI"
+      },
+      "artists": [
+        {
+          "name": "Satyajeet Jena",
+          "url": "https://open.spotify.com/artist/35DaFPNjk0o133rxjRJ0W7"
+        },
+        {
+          "name": "Mrityunjay Pandey",
+          "url": "https://open.spotify.com/artist/3oWgKfqTjiy5zDRX5dL5ps"
+        }
+      ],
+      "duration_ms": 261595,
+      "name": "Aaghaz-E-Ishq",
+      "url": "https://open.spotify.com/track/1wqqyytFD8HoKWg06T1GCo"
     },
     {
       "added_at": "2026-02-18 06:07:02",
@@ -887,6 +887,26 @@
     {
       "added_at": "2026-02-18 06:07:02",
       "album": {
+        "name": "Ranjish Hi Sahi",
+        "url": "https://open.spotify.com/album/7uwf4PieYvZPO7ng4KbPk1"
+      },
+      "artists": [
+        {
+          "name": "Talat Aziz",
+          "url": "https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc"
+        },
+        {
+          "name": "Sanjeevani Bhelande",
+          "url": "https://open.spotify.com/artist/58MHqzMYj4y4hs53HGz7zF"
+        }
+      ],
+      "duration_ms": 396000,
+      "name": "Ranjish Hi Sahi",
+      "url": "https://open.spotify.com/track/4n9A2E7RxxhRGq5GgHBSKy"
+    },
+    {
+      "added_at": "2026-02-18 06:07:02",
+      "album": {
         "name": "Bandh Aankhein",
         "url": "https://open.spotify.com/album/7eSDGsefiMfGzzaRbnZgJG"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 204000,
       "name": "Bandh Aankhein",
       "url": "https://open.spotify.com/track/5RDas0NITNlZ5auekdbHiP"
-    },
-    {
-      "added_at": "2026-02-18 06:07:02",
-      "album": {
-        "name": "Ranjish Hi Sahi",
-        "url": "https://open.spotify.com/album/7uwf4PieYvZPO7ng4KbPk1"
-      },
-      "artists": [
-        {
-          "name": "Talat Aziz",
-          "url": "https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc"
-        },
-        {
-          "name": "Sanjeevani Bhelande",
-          "url": "https://open.spotify.com/artist/58MHqzMYj4y4hs53HGz7zF"
-        }
-      ],
-      "duration_ms": 396000,
-      "name": "Ranjish Hi Sahi",
-      "url": "https://open.spotify.com/track/4n9A2E7RxxhRGq5GgHBSKy"
     },
     {
       "added_at": "2026-02-18 06:07:02",
@@ -1083,18 +1083,22 @@
     {
       "added_at": "2026-02-18 06:07:02",
       "album": {
-        "name": "Kuchh mai likhta chalu tum mitati chalo",
-        "url": "https://open.spotify.com/album/1zbgpLJIhgX2S8s0IyUYVj"
+        "name": "Wo Baat Kahan",
+        "url": "https://open.spotify.com/album/2slESqhptAlh3jIB9KtExS"
       },
       "artists": [
         {
-          "name": "Dr Pallav Mishra",
-          "url": "https://open.spotify.com/artist/1ayPLvAEQCu6s6FF7AKxbz"
+          "name": "Arhaan Hussain",
+          "url": "https://open.spotify.com/artist/4pxfXcQuZLeqfukbO0oUXa"
+        },
+        {
+          "name": "Mahendra Dhirajlal Kamdar",
+          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
         }
       ],
-      "duration_ms": 376479,
-      "name": "Kuchh mai likhta chalu tum mitati chalo",
-      "url": "https://open.spotify.com/track/6LcxYSjuQlsybXNlKHivd9"
+      "duration_ms": 297000,
+      "name": "Wo Baat Kahan",
+      "url": "https://open.spotify.com/track/4P2ye5Ocy41bUThs9r96Kz"
     },
     {
       "added_at": "2026-02-18 06:07:02",
@@ -1115,22 +1119,34 @@
     {
       "added_at": "2026-02-18 06:07:02",
       "album": {
-        "name": "Wo Baat Kahan",
-        "url": "https://open.spotify.com/album/2slESqhptAlh3jIB9KtExS"
+        "name": "Kuchh mai likhta chalu tum mitati chalo",
+        "url": "https://open.spotify.com/album/1zbgpLJIhgX2S8s0IyUYVj"
       },
       "artists": [
         {
-          "name": "Arhaan Hussain",
-          "url": "https://open.spotify.com/artist/4pxfXcQuZLeqfukbO0oUXa"
-        },
-        {
-          "name": "Mahendra Dhirajlal Kamdar",
-          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
+          "name": "Dr Pallav Mishra",
+          "url": "https://open.spotify.com/artist/1ayPLvAEQCu6s6FF7AKxbz"
         }
       ],
-      "duration_ms": 297000,
-      "name": "Wo Baat Kahan",
-      "url": "https://open.spotify.com/track/4P2ye5Ocy41bUThs9r96Kz"
+      "duration_ms": 376479,
+      "name": "Kuchh mai likhta chalu tum mitati chalo",
+      "url": "https://open.spotify.com/track/6LcxYSjuQlsybXNlKHivd9"
+    },
+    {
+      "added_at": "2026-02-18 06:07:02",
+      "album": {
+        "name": "Muddat Hui Hai",
+        "url": "https://open.spotify.com/album/1HehuhKkuMgjOU99zkE0Cd"
+      },
+      "artists": [
+        {
+          "name": "Avanti Patel",
+          "url": "https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf"
+        }
+      ],
+      "duration_ms": 416640,
+      "name": "Muddat Hui Hai",
+      "url": "https://open.spotify.com/track/4mQPyTQhx5EyPTbV2xOwvi"
     },
     {
       "added_at": "2026-02-18 06:07:02",
@@ -1155,22 +1171,6 @@
       "duration_ms": 298676,
       "name": "Mil Ke Bhi Na Mili Khushi",
       "url": "https://open.spotify.com/track/6wRThmYPMYMtmuCyncsRUJ"
-    },
-    {
-      "added_at": "2026-02-18 06:07:02",
-      "album": {
-        "name": "Muddat Hui Hai",
-        "url": "https://open.spotify.com/album/1HehuhKkuMgjOU99zkE0Cd"
-      },
-      "artists": [
-        {
-          "name": "Avanti Patel",
-          "url": "https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf"
-        }
-      ],
-      "duration_ms": 416640,
-      "name": "Muddat Hui Hai",
-      "url": "https://open.spotify.com/track/4mQPyTQhx5EyPTbV2xOwvi"
     },
     {
       "added_at": "2026-02-18 06:07:02",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-02-18 06:07:02",
       "album": {
-        "name": "Zikr",
-        "url": "https://open.spotify.com/album/7vaFZCYHyJsobB8E32m7Z8"
-      },
-      "artists": [
-        {
-          "name": "Sharib Hashmi",
-          "url": "https://open.spotify.com/artist/1MU1MnjAkAgRuLVwdajXPr"
-        }
-      ],
-      "duration_ms": 170434,
-      "name": "Zikr",
-      "url": "https://open.spotify.com/track/1XIlRRkIx6H3kcTrwO5RoX"
-    },
-    {
-      "added_at": "2026-02-18 06:07:02",
-      "album": {
         "name": "Tujhse Mohabbat (From - Izhaar-E-Ishq)",
         "url": "https://open.spotify.com/album/1KhfQKzO0BjpwDupugvOkr"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 226956,
       "name": "Wajah Dhoondh Rahi Hoon",
       "url": "https://open.spotify.com/track/6S9QMBT09F27PmBSttpQ0m"
+    },
+    {
+      "added_at": "2026-02-18 06:07:02",
+      "album": {
+        "name": "Zikr",
+        "url": "https://open.spotify.com/album/7vaFZCYHyJsobB8E32m7Z8"
+      },
+      "artists": [
+        {
+          "name": "Sharib Hashmi",
+          "url": "https://open.spotify.com/artist/1MU1MnjAkAgRuLVwdajXPr"
+        }
+      ],
+      "duration_ms": 170434,
+      "name": "Zikr",
+      "url": "https://open.spotify.com/track/1XIlRRkIx6H3kcTrwO5RoX"
     },
     {
       "added_at": "2026-02-18 06:07:02",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-02-18 06:07:02",
       "album": {
-        "name": "Nazron Se Chhua Tujhko",
-        "url": "https://open.spotify.com/album/2N4hSIfFxjPI6yZ6WNgv4v"
-      },
-      "artists": [
-        {
-          "name": "Arnab Chatterjee",
-          "url": "https://open.spotify.com/artist/09JP2V8f4eiUj3glbfFJSC"
-        }
-      ],
-      "duration_ms": 319039,
-      "name": "Nazron Se Chhua Tujhko",
-      "url": "https://open.spotify.com/track/1kSkRX3oCgLhKSECJt7xD8"
-    },
-    {
-      "added_at": "2026-02-18 06:07:02",
-      "album": {
         "name": "Tere Naina",
         "url": "https://open.spotify.com/album/0JwYOcs056DFfR8YzTtJGu"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 276407,
       "name": "Tere Naina",
       "url": "https://open.spotify.com/track/79W60eqjZUix0MLbNKHXFw"
+    },
+    {
+      "added_at": "2026-02-18 06:07:02",
+      "album": {
+        "name": "Nazron Se Chhua Tujhko",
+        "url": "https://open.spotify.com/album/2N4hSIfFxjPI6yZ6WNgv4v"
+      },
+      "artists": [
+        {
+          "name": "Arnab Chatterjee",
+          "url": "https://open.spotify.com/artist/09JP2V8f4eiUj3glbfFJSC"
+        }
+      ],
+      "duration_ms": 319039,
+      "name": "Nazron Se Chhua Tujhko",
+      "url": "https://open.spotify.com/track/1kSkRX3oCgLhKSECJt7xD8"
     },
     {
       "added_at": "2026-02-18 06:07:02",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2026-02-18 06:07:02",
       "album": {
-        "name": "Bahut Sonchta Hoon",
-        "url": "https://open.spotify.com/album/5TtYcncsWLhIhgAkHbpztz"
+        "name": "Pahle Dil Ko (From - Izhaar-E-Ishq)",
+        "url": "https://open.spotify.com/album/3xTZsfjAsnNnELuRQYYFFZ"
       },
       "artists": [
         {
-          "name": "Roop Kumar Rathod",
-          "url": "https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa"
+          "name": "Meenal Jain",
+          "url": "https://open.spotify.com/artist/0DoAmjaArtujfigIshqsj6"
         }
       ],
-      "duration_ms": 382828,
-      "name": "Bahut Sonchta Hoon",
-      "url": "https://open.spotify.com/track/5MSsS7cqt5WzwOfwoSl4GV"
+      "duration_ms": 292028,
+      "name": "Pahle Dil Ko (From - Izhaar-E-Ishq)",
+      "url": "https://open.spotify.com/track/3h6BgkcUhYK28dBs6Ta7iw"
     }
   ],
   "unique_name": "Golden Ghazals",

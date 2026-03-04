@@ -1,6 +1,6 @@
 {
   "description": "Stompers, floaters and floorshakers - these are the tracks that defined the Northern Soul movement.",
-  "num_followers": 148445,
+  "num_followers": 148460,
   "original_name": "Northern Soul Classics",
   "owner": {
     "name": "Spotify",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "Northern Soul: 20 Original Classics",
-        "url": "https://open.spotify.com/album/0WaJQ19J0GfyGfuVIE1SrK"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 144533,
-      "name": "Live It Up",
-      "url": "https://open.spotify.com/track/19Wks5GfADcWu3DbumZVdO"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
         "name": "Music Merchant A-Sides (The Holland Dozier Holland 45s)",
         "url": "https://open.spotify.com/album/2Slz3mn2T1Bm7eKbSXY3aC"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 207040,
       "name": "Love Factory",
       "url": "https://open.spotify.com/track/6FDcVkmQ1buSvITzLG3Vec"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
+        "name": "Northern Soul: 20 Original Classics",
+        "url": "https://open.spotify.com/album/0WaJQ19J0GfyGfuVIE1SrK"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 144533,
+      "name": "Live It Up",
+      "url": "https://open.spotify.com/track/19Wks5GfADcWu3DbumZVdO"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "Come On Train",
-        "url": "https://open.spotify.com/album/1nEliK62SZTygH2Nm3bryF"
-      },
-      "artists": [
-        {
-          "name": "Don Thomas",
-          "url": "https://open.spotify.com/artist/2P9UdbP8tHeUrz9gKuGu2y"
-        }
-      ],
-      "duration_ms": 196653,
-      "name": "Come On Train",
-      "url": "https://open.spotify.com/track/7sa9QlfY9MUYT2ysod85Rz"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
         "name": "Northern Soul Sensations",
         "url": "https://open.spotify.com/album/1LM4xOS5sNcoykJvQ7zXNu"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 191640,
       "name": "Hit And Run",
       "url": "https://open.spotify.com/track/5Hoe35sDiPC7XyY1ocZI91"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
+        "name": "Come On Train",
+        "url": "https://open.spotify.com/album/1nEliK62SZTygH2Nm3bryF"
+      },
+      "artists": [
+        {
+          "name": "Don Thomas",
+          "url": "https://open.spotify.com/artist/2P9UdbP8tHeUrz9gKuGu2y"
+        }
+      ],
+      "duration_ms": 196653,
+      "name": "Come On Train",
+      "url": "https://open.spotify.com/track/7sa9QlfY9MUYT2ysod85Rz"
     },
     {
       "added_at": "2024-03-22 16:05:01",

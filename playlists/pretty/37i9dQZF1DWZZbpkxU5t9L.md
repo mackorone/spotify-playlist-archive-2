@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: Hearts2Hearts
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,156 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,155 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 7 | [トンツカタンタン](https://open.spotify.com/track/2bonDeesq7NsHnfeMNDhZv) | [クレイジーウォウウォ！！](https://open.spotify.com/artist/7GSqiihDPb6AjoK8lh40fh) | [トンツカタンタン](https://open.spotify.com/album/6OPk5SaDBxwv0KOku8sZNC) | 3:50 |
 | 8 | [爆裂愛してる](https://open.spotify.com/track/1F1hibBCtNeObRMmEMLHNh) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [爆裂愛してる](https://open.spotify.com/album/6w5De26ICkG8LOnpRe3xPA) | 3:25 |
 | 9 | [BOTH SIDES](https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK) | [NCT JNJM](https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H) | [BOTH SIDES \- The 1st Mini Album](https://open.spotify.com/album/6bRPrpiUj5AFPkJLcIfMQh) | 2:51 |
-| 10 | [新世界\(SHINSEKAI\)](https://open.spotify.com/track/1RKxgExJrU3UM7jM8TcL2G) | [PRODUCE 101 JAPAN 新世界](https://open.spotify.com/artist/17Tf7xytmDacGJe4LMTTlz) | [新世界\(SHINSEKAI\)](https://open.spotify.com/album/0DBB1psohZhdqHYZwnkbfA) | 4:08 |
+| 10 | [新世界 \(SHINSEKAI\)](https://open.spotify.com/track/1RKxgExJrU3UM7jM8TcL2G) | [PRODUCE 101 JAPAN 新世界](https://open.spotify.com/artist/17Tf7xytmDacGJe4LMTTlz) | [新世界 \(SHINSEKAI\)](https://open.spotify.com/album/0DBB1psohZhdqHYZwnkbfA) | 4:08 |
 | 11 | [未確認領域 \- MONJOE Remix](https://open.spotify.com/track/19BS0kUoMeUzuxbELrBG4S) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅱ](https://open.spotify.com/album/14nvfkvkYheGoYCbhLL5ZE) | 3:36 |
 | 12 | [I for You](https://open.spotify.com/track/3jiir4e9YskLAWFEss7KJU) | [LUNA SEA](https://open.spotify.com/artist/5oiTT9V0uAPYS8TABvvjnS) | [SHINE／LUNA SEA](https://open.spotify.com/album/00TwODQQItzVNRG3bgu0EG) | 5:28 |
 | 13 | [Be on Your side](https://open.spotify.com/track/4y2Ns2grRcxGL8GJdUlFOY) | [to HEROes](https://open.spotify.com/artist/4595ewOM0MqP7rWYdgBxvA) | [Be on Your side](https://open.spotify.com/album/6rNyBUTo9PvOjrC5YC9nns) | 3:39 |

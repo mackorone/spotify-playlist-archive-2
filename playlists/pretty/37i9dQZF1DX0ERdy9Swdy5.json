@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la d\u00e9cada. En portada: Joe Arroyo",
-  "num_followers": 794289,
+  "num_followers": 794402,
   "original_name": "Salsa: Los 90s",
   "owner": {
     "name": "Spotify",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Lo Mio Es Amor",
-        "url": "https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK"
-      },
-      "artists": [
-        {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
-        }
-      ],
-      "duration_ms": 309826,
-      "name": "Lo M\u00edo Es Amor",
-      "url": "https://open.spotify.com/track/5TenfxSo2F8ugYyAeUgNwm"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "Muy Agradecido",
         "url": "https://open.spotify.com/album/2kn0CaGJauvm8apjq6a08i"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 273746,
       "name": "La Salsa Vive",
       "url": "https://open.spotify.com/track/2CwVYhTdEkCWF1qNkkAa3M"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Lo Mio Es Amor",
+        "url": "https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "duration_ms": 309826,
+      "name": "Lo M\u00edo Es Amor",
+      "url": "https://open.spotify.com/track/5TenfxSo2F8ugYyAeUgNwm"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
+        "name": "Para Ti...",
+        "url": "https://open.spotify.com/album/5PTzP5nx9BStBILTrfJAZP"
+      },
+      "artists": [
+        {
+          "name": "Anthony Cruz",
+          "url": "https://open.spotify.com/artist/1sM3IJxKOV5gc3JfvxWADC"
+        }
+      ],
+      "duration_ms": 326040,
+      "name": "Dile A El",
+      "url": "https://open.spotify.com/track/7v7VXdLHnTq8q4wmvSo7A9"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
         "name": "Esenciales Vol\u00famen I",
         "url": "https://open.spotify.com/album/7yibFAEIfUXMMumIixZJsp"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 221920,
       "name": "Lloraras",
       "url": "https://open.spotify.com/track/38TXGZ4G7c9jBCBrwV1OrB"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
-        "name": "Para Ti...",
-        "url": "https://open.spotify.com/album/5PTzP5nx9BStBILTrfJAZP"
-      },
-      "artists": [
-        {
-          "name": "Anthony Cruz",
-          "url": "https://open.spotify.com/artist/1sM3IJxKOV5gc3JfvxWADC"
-        }
-      ],
-      "duration_ms": 326040,
-      "name": "Dile A El",
-      "url": "https://open.spotify.com/track/7v7VXdLHnTq8q4wmvSo7A9"
     },
     {
       "added_at": "2024-07-12 19:20:44",

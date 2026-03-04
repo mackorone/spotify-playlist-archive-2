@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 38454,
+  "num_followers": 38473,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaOBgAAAAABYihL407BuPypGIPzeaV8E",
+  "snapshot_id": "aaTTAAAAAABw82DnIFgUOFyWGffhOlbq",
   "tracks": [
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Metamorfosis",
-        "url": "https://open.spotify.com/album/4ydVpa0y2L99cdlNAsg8Vy"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 190440,
-      "name": "Te Necesito",
-      "url": "https://open.spotify.com/track/2PluXYGjpAci9UNY0EXhZj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lagrimas De Sangre",
         "url": "https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 161560,
       "name": "Lagrimas de Sangre",
       "url": "https://open.spotify.com/track/3oyOsqtU1QWWoYY9sxafFw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Metamorfosis",
+        "url": "https://open.spotify.com/album/4ydVpa0y2L99cdlNAsg8Vy"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 190440,
+      "name": "Te Necesito",
+      "url": "https://open.spotify.com/track/2PluXYGjpAci9UNY0EXhZj"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Que Son las Cosas",
-        "url": "https://open.spotify.com/album/1ems7HK5yY95MtyNCDKKDi"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "Brinca Brita",
-      "url": "https://open.spotify.com/track/0PLFV9ddyrQ7josGKivRTi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Nueva Era de la Quebradita",
         "url": "https://open.spotify.com/album/4eO0RJcjWhS6mEwObol6Bc"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 193593,
       "name": "Un Rayo de Sol",
       "url": "https://open.spotify.com/track/5TNDSVqgDuN5pYl251Tihk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Que Son las Cosas",
+        "url": "https://open.spotify.com/album/1ems7HK5yY95MtyNCDKKDi"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 194666,
+      "name": "Brinca Brita",
+      "url": "https://open.spotify.com/track/0PLFV9ddyrQ7josGKivRTi"
     },
     {
       "added_at": null,

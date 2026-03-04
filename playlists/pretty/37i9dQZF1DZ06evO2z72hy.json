@@ -1,12 +1,12 @@
 {
   "description": "This is Gondwana. The essential tracks, all in one playlist.",
-  "num_followers": 90644,
+  "num_followers": 90651,
   "original_name": "This Is Gondwana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaOBgAAAAABjgIe18WsnQu75tud6Xfe8",
+  "snapshot_id": "aaTTAAAAAADiGpRHWg8EXxbVJVg4zn5X",
   "tracks": [
     {
       "added_at": null,
@@ -839,26 +839,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Terc3ra Llamada",
-        "url": "https://open.spotify.com/album/1Z9CbGMQmKWqsfkcF64VOG"
+        "name": "Fueguito",
+        "url": "https://open.spotify.com/album/0EqCTOhS8wMpVVBytWAVvP"
       },
       "artists": [
         {
-          "name": "Triciclo Circus Band",
-          "url": "https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt"
+          "name": "Malacates Trebol Shop",
+          "url": "https://open.spotify.com/artist/6Nc4k4Y5rX6YgnBsoXGJjG"
         },
         {
           "name": "Gondwana",
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        },
-        {
-          "name": "Los Rastrillos",
-          "url": "https://open.spotify.com/artist/1NEJuKkyrGHKALbX1AaIoy"
         }
       ],
-      "duration_ms": 155996,
-      "name": "Quiero acercarme a ti",
-      "url": "https://open.spotify.com/track/5Uyd0HavtHIMTPsDDN82yC"
+      "duration_ms": 241734,
+      "name": "Fueguito",
+      "url": "https://open.spotify.com/track/0cxFGepcu5U3UKh4pcJ3oV"
     }
   ],
   "unique_name": "This Is Gondwana",

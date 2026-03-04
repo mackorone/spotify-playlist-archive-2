@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Alex Campos
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,132 likes - 100 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,152 likes - 100 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 6 | [Escojo la Vida](https://open.spotify.com/track/2y4CfvaP124RwNyjJXCoW4) | [Santiago Benavides](https://open.spotify.com/artist/1kmI6wp97POUynJvBlxkuR), [Cris Velez](https://open.spotify.com/artist/5Vw576povsUgOarGPvcmQM) | [Andar Sobre el Agua](https://open.spotify.com/album/1hjN4fnsl0oGzR0IIJ7WT5) | 3:28 |
 | 7 | [SÍGUEME](https://open.spotify.com/track/4gL3gWs3J29Du2CrM8s80W) | [Luispo](https://open.spotify.com/artist/628FuQxkeQlwH2QcFzgil5), [OzoresP](https://open.spotify.com/artist/7g2WdxkwctSnq2vMTyVjeW) | [SÍGUEME](https://open.spotify.com/album/5uWvHAVloFrXFsdzzPgK18) | 4:04 |
 | 8 | [Vencio](https://open.spotify.com/track/2pri22zuE30r6F7wXfia1P) | [YADAH](https://open.spotify.com/artist/3Ah5V56kXoarxe5HfnRUl1), [Álvaro López](https://open.spotify.com/artist/5LrqAMICjuzUZXr8AqQhMv) | [Vencio](https://open.spotify.com/album/5xagOQYXoLWnSOcgGsRS5A) | 3:40 |
-| 9 | [EL SANTO \- Remix](https://open.spotify.com/track/4FArOuN4SgaIch5cNx6hrq) | [Cita Con el Padre](https://open.spotify.com/artist/0L6N5Bc6pyZLndWo930w3a), [Oasis Ministry](https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p) | [EL SANTO \(Remix\)](https://open.spotify.com/album/5Hbx4rTlptBDd9D1s0xMbs) | 13:22 |
+| 9 | [EL SANTO](https://open.spotify.com/track/4FArOuN4SgaIch5cNx6hrq) | [Cita Con el Padre](https://open.spotify.com/artist/0L6N5Bc6pyZLndWo930w3a), [Oasis Ministry](https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p) | [EL SANTO](https://open.spotify.com/album/5Hbx4rTlptBDd9D1s0xMbs) | 13:22 |
 | 10 | [Gloria al Justo \- Live](https://open.spotify.com/track/4dhTiLNaIlpbLMq64evqJb) | [Comunidad Music](https://open.spotify.com/artist/5qzNDbhaScIgGBcByNzJQd), [Catalina Castaño](https://open.spotify.com/artist/5aIHcTYriz799e51WJWY9o), [Miguel Ibañez](https://open.spotify.com/artist/0TRZ28ZMERih7XbJXWBuqJ) | [Gloria al Justo \(Live\)](https://open.spotify.com/album/191f1qceRbZJlGSLF4Os5t) | 9:53 |
 | 11 | [No Hay Otro Nombre](https://open.spotify.com/track/7bT84iTM5WW6zR6qxitCPK) | [Factor de Cambio](https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb) | [No Hay Otro Nombre](https://open.spotify.com/album/0qZtUHUKu1f9me1UHsrgQ6) | 6:43 |
 | 12 | [Juda \- Live](https://open.spotify.com/track/5pXkoeCABU8TUTTVL2XgyP) | [Jairon High](https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Afro King The Concert \(Live\)](https://open.spotify.com/album/4mbxtfaGQkz9oN997WZ0Qt) | 3:38 |

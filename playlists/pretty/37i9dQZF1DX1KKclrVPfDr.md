@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 
 > भोजपुरी गाँव देश के माटी के नया संगीतमय सुगंध सुनीं.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,505 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,513 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 | 27 | [Nanad Tora Gauwan](https://open.spotify.com/track/21VWH4J8WTE4dYE7ddQMuA) | [Adarsh Aadee](https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt) | [Nanad Tora Gauwan](https://open.spotify.com/album/35qQQAFbrbiFoSbNFTS3K3) | 3:39 |
 | 28 | [Khele Ke Milal Goti](https://open.spotify.com/track/1UrHWqV8BjaY88RmRRpZgh) | [Sanskriti Pandey](https://open.spotify.com/artist/7ffXIVwcucy2hFC3sABaj7) | [Khele Ke Milal Goti](https://open.spotify.com/album/4vtYQPmdNuyPBcSQlQU7kx) | 2:07 |
 | 29 | [Chutki Bhar Senura](https://open.spotify.com/track/0ERPhyi69zPIsDSbFlQTZo) | [Sushant Asthana](https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q) | [Chutki Bhar Senura](https://open.spotify.com/album/1UKdtZNcnZ4pYTCgQC7S1w) | 6:52 |
-| 30 | [PATNA WALI MUNIYA](https://open.spotify.com/track/1eNfX9L5Epg8OPPgQPTj8Q) | [Priya Mallick](https://open.spotify.com/artist/7sRTObHviBKE6HTIHV9nUw), [Lk Laxmikaant](https://open.spotify.com/artist/7qCFqTfOt35oCPFR2iBe3K), [Pankaj Narayan](https://open.spotify.com/artist/3bDA8NEDAIL4AjA8m2zDY8) | [PATNA WALI MUNIYA](https://open.spotify.com/album/4GQY4S99fAQnaYmwpKyUkl) | 4:06 |
-| 31 | [Runjhun Khola Na Kewadiya](https://open.spotify.com/track/0QGBV1H3I6m9byzSyYl0B2) | [Shailendra Mishra](https://open.spotify.com/artist/6TaxFYdCeCCkLnqNxWm3ht), [Prashant Singh](https://open.spotify.com/artist/0UCrJlbwzyfOvyYGd7vOi0) | [Runjhun Khola Na Kewadiya](https://open.spotify.com/album/2HWJKxxAYAEPLHbTCM5sG1) | 3:31 |
+| 30 | [Runjhun Khola Na Kewadiya](https://open.spotify.com/track/0QGBV1H3I6m9byzSyYl0B2) | [Shailendra Mishra](https://open.spotify.com/artist/6TaxFYdCeCCkLnqNxWm3ht), [Prashant Singh](https://open.spotify.com/artist/0UCrJlbwzyfOvyYGd7vOi0) | [Runjhun Khola Na Kewadiya](https://open.spotify.com/album/2HWJKxxAYAEPLHbTCM5sG1) | 3:31 |
+| 31 | [PATNA WALI MUNIYA](https://open.spotify.com/track/1eNfX9L5Epg8OPPgQPTj8Q) | [Priya Mallick](https://open.spotify.com/artist/7sRTObHviBKE6HTIHV9nUw), [Lk Laxmikaant](https://open.spotify.com/artist/7qCFqTfOt35oCPFR2iBe3K), [Pankaj Narayan](https://open.spotify.com/artist/3bDA8NEDAIL4AjA8m2zDY8) | [PATNA WALI MUNIYA](https://open.spotify.com/album/4GQY4S99fAQnaYmwpKyUkl) | 4:06 |
 | 32 | [NADIYA KE OH PAAR](https://open.spotify.com/track/1Q7Qpt5MyPReEMIArW7LqF) | [Sudhanshu Pandey](https://open.spotify.com/artist/40rk0rug5179qRVBbba1s5), [Ananyya Singhh](https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA) | [NADIYA KE OH PAAR](https://open.spotify.com/album/3jFSjbB9l5jjJIQI6AVhhK) | 2:30 |
 | 33 | [KURBAN](https://open.spotify.com/track/4YyFE8b4QSo3pkroH4S3wM) | [Sneh Upadhya](https://open.spotify.com/artist/0BKTe6AJKYVv7i26bn1Aoi) | [KURBAN](https://open.spotify.com/album/2btawM5YXfPOuHEjiedLVt) | 3:12 |
 | 34 | [KAHANWA KE PIYAR MAATI 2](https://open.spotify.com/track/1tAszA8ZvotvygaSMgszSo) | [Sushant Asthana](https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q) | [KAHANWA KE PIYAR MAATI 2](https://open.spotify.com/album/5yTfKQ0fWPFxGaaUa91Woy) | 3:40 |

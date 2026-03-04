@@ -1,6 +1,6 @@
 {
   "description": "Este Flow tiene otro Flow. Foto: Jairo Vera & Jere Klein",
-  "num_followers": 555302,
+  "num_followers": 555312,
   "original_name": "Reggaet\u00f3n Chileno",
   "owner": {
     "name": "Spotify",
@@ -783,14 +783,10 @@
     {
       "added_at": "2026-02-27 13:57:24",
       "album": {
-        "name": "Adi\u00f3s (feat. Bayriton, Lleflight, Sacra Mr Melody, Alex Fer, Javiielo, Best, Ag Daddy)",
+        "name": "Adi\u00f3s (feat. Jairo Vera, Bayriton, Lleflight, Sacra Mr Melody, Alex Fer, Javiielo, Best)",
         "url": "https://open.spotify.com/album/0ZYyDScWwVmnP464hHp1GF"
       },
       "artists": [
-        {
-          "name": "Sly",
-          "url": "https://open.spotify.com/artist/3n7sjffAzmx5iCvpSizuOs"
-        },
         {
           "name": "Gino Mella",
           "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
@@ -800,8 +796,12 @@
           "url": "https://open.spotify.com/artist/0UApOzMWy5APrqjhtL1QyD"
         },
         {
-          "name": "Jairo Vera",
-          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+          "name": "Sly",
+          "url": "https://open.spotify.com/artist/3n7sjffAzmx5iCvpSizuOs"
+        },
+        {
+          "name": "Ag Daddy",
+          "url": "https://open.spotify.com/artist/73KNwwW76I5apbxImsIkJ1"
         },
         {
           "name": "Bayriton",
@@ -824,16 +824,16 @@
           "url": "https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5"
         },
         {
-          "name": "Best",
-          "url": "https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7"
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
         },
         {
-          "name": "Ag Daddy",
-          "url": "https://open.spotify.com/artist/73KNwwW76I5apbxImsIkJ1"
+          "name": "Best",
+          "url": "https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7"
         }
       ],
       "duration_ms": 472000,
-      "name": "Adi\u00f3s (feat. Bayriton, Lleflight, Sacra Mr Melody, Alex Fer, Javiielo, Best, Ag Daddy) - Remix",
+      "name": "Adi\u00f3s (feat. Jairo Vera, Bayriton, Lleflight, Sacra Mr Melody, Alex Fer, Javiielo, Best) - Remix",
       "url": "https://open.spotify.com/track/6JyRkKGIDdizXLShftdmLc"
     },
     {
@@ -2156,16 +2156,16 @@
       },
       "artists": [
         {
-          "name": "Sly",
-          "url": "https://open.spotify.com/artist/3n7sjffAzmx5iCvpSizuOs"
-        },
-        {
           "name": "Jairo Vera",
           "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
         },
         {
           "name": "Gino Mella",
           "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Sly",
+          "url": "https://open.spotify.com/artist/3n7sjffAzmx5iCvpSizuOs"
         },
         {
           "name": "Ag Daddy",

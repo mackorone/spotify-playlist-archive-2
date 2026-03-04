@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1285,
+  "num_followers": 1286,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAARJTnhYKTM8Ro91Q9zhNQzk40Z7YA6",
+  "snapshot_id": "AAARLrTE2QPFJyGwMbP3rXVsg7QGgTqB",
   "tracks": [
     {
       "added_at": "2026-02-06 09:53:34",
@@ -119,6 +119,22 @@
       "duration_ms": 223392,
       "name": "Rainy Night",
       "url": "https://open.spotify.com/track/2AuO23FzSXxrnhrZ9jriKE"
+    },
+    {
+      "added_at": "2026-03-02 15:18:47",
+      "album": {
+        "name": "Spiraling",
+        "url": "https://open.spotify.com/album/3NGzGeSEAGmsTIdOD4cygO"
+      },
+      "artists": [
+        {
+          "name": "N.A.S.P.",
+          "url": "https://open.spotify.com/artist/1ySg5talFpiWbJvUqouoIl"
+        }
+      ],
+      "duration_ms": 264206,
+      "name": "Spiraling",
+      "url": "https://open.spotify.com/track/4mK98zx2RJBIO5KVB4F42l"
     },
     {
       "added_at": "2026-02-09 08:09:44",
@@ -2225,22 +2241,6 @@
       "url": "https://open.spotify.com/track/1VZ6VttIdyT4Hz0YuxlcOY"
     },
     {
-      "added_at": "2026-03-02 15:18:47",
-      "album": {
-        "name": "Spiraling",
-        "url": "https://open.spotify.com/album/3NGzGeSEAGmsTIdOD4cygO"
-      },
-      "artists": [
-        {
-          "name": "N.A.S.P.",
-          "url": "https://open.spotify.com/artist/1ySg5talFpiWbJvUqouoIl"
-        }
-      ],
-      "duration_ms": 264206,
-      "name": "Spiraling",
-      "url": "https://open.spotify.com/track/4mK98zx2RJBIO5KVB4F42l"
-    },
-    {
       "added_at": "2026-03-02 18:54:24",
       "album": {
         "name": "Where it began",
@@ -2307,6 +2307,138 @@
       "duration_ms": 230107,
       "name": "Lies",
       "url": "https://open.spotify.com/track/4N2VPDlslneJM4CTJ4RB8F"
+    },
+    {
+      "added_at": "2026-03-03 08:33:22",
+      "album": {
+        "name": "Color Me Singing",
+        "url": "https://open.spotify.com/album/0nmUzhPQJT1TjPfH59CpYm"
+      },
+      "artists": [
+        {
+          "name": "Susan Salidor",
+          "url": "https://open.spotify.com/artist/1yWG6rEJxrAMdIMhpo4L4C"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "At The Resale Shop",
+      "url": "https://open.spotify.com/track/02M5kJSLOOhvcre8f4iioV"
+    },
+    {
+      "added_at": "2026-03-03 08:33:34",
+      "album": {
+        "name": "Smoke and Mirrors",
+        "url": "https://open.spotify.com/album/13dteLs18ErbtnAkXlkN8D"
+      },
+      "artists": [
+        {
+          "name": "Dane Rivers",
+          "url": "https://open.spotify.com/artist/6PaURsKDuXnJOuLBhIpnJh"
+        }
+      ],
+      "duration_ms": 178294,
+      "name": "Smoke and Mirrors",
+      "url": "https://open.spotify.com/track/00Oc8jsw9mzcvR2HhG1Jtm"
+    },
+    {
+      "added_at": "2026-03-03 16:32:57",
+      "album": {
+        "name": "Czarny \u015bwiat",
+        "url": "https://open.spotify.com/album/3NpJbHzvkqGCJXgxjE1qwn"
+      },
+      "artists": [
+        {
+          "name": "Biker",
+          "url": "https://open.spotify.com/artist/7edqs6CgLIQ0KUNUP1guyo"
+        }
+      ],
+      "duration_ms": 294173,
+      "name": "Czarny \u015bwiat",
+      "url": "https://open.spotify.com/track/1pgIUKJKQhh4q1U9gBKaj1"
+    },
+    {
+      "added_at": "2026-03-03 18:52:41",
+      "album": {
+        "name": "Say (Acoustic)",
+        "url": "https://open.spotify.com/album/4NORYcZTCI5sWcHne2RPFX"
+      },
+      "artists": [
+        {
+          "name": "Oliver Ycaro",
+          "url": "https://open.spotify.com/artist/5W6ObMrqK1vr0O5sgooyIs"
+        }
+      ],
+      "duration_ms": 196115,
+      "name": "Say - Acoustic",
+      "url": "https://open.spotify.com/track/5OBguzeAkuviZT85bnec7g"
+    },
+    {
+      "added_at": "2026-03-03 18:53:12",
+      "album": {
+        "name": "Envious (Remix)",
+        "url": "https://open.spotify.com/album/5CuKL2WQzWnj9YreyWQ63f"
+      },
+      "artists": [
+        {
+          "name": "Rogue Jepson",
+          "url": "https://open.spotify.com/artist/2L25DgrdZNnSuoKs7LKwqE"
+        },
+        {
+          "name": "BlackBirdz",
+          "url": "https://open.spotify.com/artist/7dtVlVNxwA6KllyQ2CCELL"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Envious - Remix",
+      "url": "https://open.spotify.com/track/4wlmJU63IGELpyNFYYDR2F"
+    },
+    {
+      "added_at": "2026-03-03 20:54:56",
+      "album": {
+        "name": "Gem",
+        "url": "https://open.spotify.com/album/1fAIo7nOtyYjxSTTRSMJui"
+      },
+      "artists": [
+        {
+          "name": "Tone Travelers",
+          "url": "https://open.spotify.com/artist/3UiAdgkPdYiGRgSUcK4FM8"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Gem",
+      "url": "https://open.spotify.com/track/1k7zJz2uqSHZzHPjpiW9ps"
+    },
+    {
+      "added_at": "2026-03-03 20:55:11",
+      "album": {
+        "name": "I Want You Back",
+        "url": "https://open.spotify.com/album/1aiRCxVwHHvX14A8RtAD2D"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper III",
+          "url": "https://open.spotify.com/artist/5VwbADUdH8ryktypdkpX06"
+        }
+      ],
+      "duration_ms": 100880,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/7q4Iqyw5CAs1aNKDpoIPrn"
+    },
+    {
+      "added_at": "2026-03-03 20:55:20",
+      "album": {
+        "name": "Cool Breeze",
+        "url": "https://open.spotify.com/album/5mcOE9xiQGH9rvaAW1H8Op"
+      },
+      "artists": [
+        {
+          "name": "Ben Carringer",
+          "url": "https://open.spotify.com/artist/5Xs7la5VzfvqDJD2KfVhL6"
+        }
+      ],
+      "duration_ms": 215381,
+      "name": "Cool Breeze",
+      "url": "https://open.spotify.com/track/0uX7UsvCZzbjbJsFyqbdUR"
     }
   ],
   "unique_name": "New Indie Music",

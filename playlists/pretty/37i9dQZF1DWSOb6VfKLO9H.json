@@ -1,12 +1,12 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 106467,
+  "num_followers": 106501,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFetCZcOZOjhJ2qxWlrIFDsKBkwk",
+  "snapshot_id": "AAAAADRnN3/UzkiPoSXYSqF+p/uvJ9uA",
   "tracks": [
     {
       "added_at": "2024-07-19 06:38:33",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Dream Girl",
-        "url": "https://open.spotify.com/album/5T1CaRLFtOsukpEPjZ5t0p"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        }
-      ],
-      "duration_ms": 162894,
-      "name": "Dream Girl",
-      "url": "https://open.spotify.com/track/2Sla5cgNpVoRcckYjaAMKP"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Hoogseizoen",
         "url": "https://open.spotify.com/album/3FLBVwN9pDfk88nnc0RTHX"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 187071,
       "name": "Marbella",
       "url": "https://open.spotify.com/track/67Uas8KwdCQ7IQmtxTfgGp"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Dream Girl",
+        "url": "https://open.spotify.com/album/5T1CaRLFtOsukpEPjZ5t0p"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "duration_ms": 162894,
+      "name": "Dream Girl",
+      "url": "https://open.spotify.com/track/2Sla5cgNpVoRcckYjaAMKP"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -599,30 +599,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Co\u00f1o",
-        "url": "https://open.spotify.com/album/4Wd8Pb7i1RlfqhEBe6FqqA"
-      },
-      "artists": [
-        {
-          "name": "Puri",
-          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
-        },
-        {
-          "name": "Jhorrmountain",
-          "url": "https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o"
-        },
-        {
-          "name": "Adje",
-          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
-        }
-      ],
-      "duration_ms": 137595,
-      "name": "Co\u00f1o",
-      "url": "https://open.spotify.com/track/7tXCV0UwFwBxqum6i25you"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Overal (feat. DJ Youss-F)",
         "url": "https://open.spotify.com/album/7C5iaQAlPVjxtGnlbWswqx"
       },
@@ -643,6 +619,30 @@
       "duration_ms": 182970,
       "name": "Overal (feat. DJ Youss-F)",
       "url": "https://open.spotify.com/track/7bQQ2B4EVLDiMA79EbT2qe"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Co\u00f1o",
+        "url": "https://open.spotify.com/album/4Wd8Pb7i1RlfqhEBe6FqqA"
+      },
+      "artists": [
+        {
+          "name": "Puri",
+          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
+        },
+        {
+          "name": "Jhorrmountain",
+          "url": "https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o"
+        },
+        {
+          "name": "Adje",
+          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
+        }
+      ],
+      "duration_ms": 137595,
+      "name": "Co\u00f1o",
+      "url": "https://open.spotify.com/track/7tXCV0UwFwBxqum6i25you"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -751,6 +751,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Allemaal Een Droom",
+        "url": "https://open.spotify.com/album/2N6FIPbPPYLJQXERMYPy3J"
+      },
+      "artists": [
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        },
+        {
+          "name": "Numidia",
+          "url": "https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU"
+        }
+      ],
+      "duration_ms": 155433,
+      "name": "Tout Est Bon",
+      "url": "https://open.spotify.com/track/1tA3foex0E78CzVzNkDhdf"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Laten Gaan (feat. Ronnie Flex, Mafe, Abira Benotti, Frenna & Emms)",
         "url": "https://open.spotify.com/album/6ef8JfQkdGWr3KX9U0IS8S"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 217992,
       "name": "Laten Gaan (feat. Ronnie Flex, Mafe, Abira Benotti, Frenna & Emms)",
       "url": "https://open.spotify.com/track/5VPNmkVeQMLDZNWpSmxkUm"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Allemaal Een Droom",
-        "url": "https://open.spotify.com/album/2N6FIPbPPYLJQXERMYPy3J"
-      },
-      "artists": [
-        {
-          "name": "Boef",
-          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
-        },
-        {
-          "name": "Numidia",
-          "url": "https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU"
-        }
-      ],
-      "duration_ms": 155433,
-      "name": "Tout Est Bon",
-      "url": "https://open.spotify.com/track/1tA3foex0E78CzVzNkDhdf"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -907,26 +907,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "POSITIE",
-        "url": "https://open.spotify.com/album/5ZxrvhLBo8rYCB1V8vTguF"
-      },
-      "artists": [
-        {
-          "name": "Caza",
-          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
-        },
-        {
-          "name": "Bizzey",
-          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
-        }
-      ],
-      "duration_ms": 200970,
-      "name": "POSITIE",
-      "url": "https://open.spotify.com/track/5dVXY5359o7XBmfoNCBMxg"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Pit Stop",
         "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
       },
@@ -943,22 +923,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "LION",
-        "url": "https://open.spotify.com/album/5otMiiTCoXNJlvOWnQNV2X"
+        "name": "POSITIE",
+        "url": "https://open.spotify.com/album/5ZxrvhLBo8rYCB1V8vTguF"
       },
       "artists": [
         {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+          "name": "Caza",
+          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
         },
         {
-          "name": "Yung Felix",
-          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+          "name": "Bizzey",
+          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
         }
       ],
-      "duration_ms": 177994,
-      "name": "PARANOIA",
-      "url": "https://open.spotify.com/track/5kHMdJLmN364FvFfky3AXI"
+      "duration_ms": 200970,
+      "name": "POSITIE",
+      "url": "https://open.spotify.com/track/5dVXY5359o7XBmfoNCBMxg"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -987,6 +967,26 @@
       "duration_ms": 173400,
       "name": "Ondernemer",
       "url": "https://open.spotify.com/track/4HsSwlgvRrHAkTQ8n9mGFV"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "LION",
+        "url": "https://open.spotify.com/album/5otMiiTCoXNJlvOWnQNV2X"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        }
+      ],
+      "duration_ms": 177994,
+      "name": "PARANOIA",
+      "url": "https://open.spotify.com/track/5kHMdJLmN364FvFfky3AXI"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Update",
+        "url": "https://open.spotify.com/album/1KPFU6sP0o457VZsUESt7N"
+      },
+      "artists": [
+        {
+          "name": "Equalz",
+          "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
+        }
+      ],
+      "duration_ms": 146794,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/1VsClV89BOYGlN7RITBHYc"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Big Man",
         "url": "https://open.spotify.com/album/5GKqyIUHBWSwyCF1apkT9X"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 163125,
       "name": "Big Man",
       "url": "https://open.spotify.com/track/6bJ9c5VIx8jbf5U34qHAFm"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Update",
-        "url": "https://open.spotify.com/album/1KPFU6sP0o457VZsUESt7N"
-      },
-      "artists": [
-        {
-          "name": "Equalz",
-          "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
-        }
-      ],
-      "duration_ms": 146794,
-      "name": "Casablanca",
-      "url": "https://open.spotify.com/track/1VsClV89BOYGlN7RITBHYc"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1743,26 +1743,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Woozy",
-        "url": "https://open.spotify.com/album/5pUAwlSQbMdGGS96lNIDRU"
-      },
-      "artists": [
-        {
-          "name": "Caza",
-          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        }
-      ],
-      "duration_ms": 144667,
-      "name": "Woozy",
-      "url": "https://open.spotify.com/track/541peoOERBSTw2fRDZTHbd"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Nachtwacht",
         "url": "https://open.spotify.com/album/0ZakSoY5lCsL5vBf1LFlJw"
       },
@@ -1791,6 +1771,26 @@
       "duration_ms": 240000,
       "name": "C'est la vie",
       "url": "https://open.spotify.com/track/3TUafDwB2Oygi8lyZlLyQt"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Woozy",
+        "url": "https://open.spotify.com/album/5pUAwlSQbMdGGS96lNIDRU"
+      },
+      "artists": [
+        {
+          "name": "Caza",
+          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 144667,
+      "name": "Woozy",
+      "url": "https://open.spotify.com/track/541peoOERBSTw2fRDZTHbd"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1955,18 +1955,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Midnight Boom",
-        "url": "https://open.spotify.com/album/52vZP5uAbwqNj89NRlQ0Ic"
+        "name": "Gate 16",
+        "url": "https://open.spotify.com/album/5z41J2skECbPp97tog4mdg"
       },
       "artists": [
         {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+          "name": "Jairzinho",
+          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
+        },
+        {
+          "name": "Sevn Alias",
+          "url": "https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc"
+        },
+        {
+          "name": "Two Crooks",
+          "url": "https://open.spotify.com/artist/0KbxWTWxxOTbm3eiCAEYVV"
         }
       ],
-      "duration_ms": 145937,
-      "name": "Midnight Boom",
-      "url": "https://open.spotify.com/track/41dxhDrOnQdieYdUW9PC4J"
+      "duration_ms": 203446,
+      "name": "Now She See Me (feat. Sevn Alias & Two Crooks)",
+      "url": "https://open.spotify.com/track/3bfzlKH2WVXNvLcxEky2k5"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1995,30 +2003,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Gate 16",
-        "url": "https://open.spotify.com/album/5z41J2skECbPp97tog4mdg"
-      },
-      "artists": [
-        {
-          "name": "Jairzinho",
-          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
-        },
-        {
-          "name": "Sevn Alias",
-          "url": "https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc"
-        },
-        {
-          "name": "Two Crooks",
-          "url": "https://open.spotify.com/artist/0KbxWTWxxOTbm3eiCAEYVV"
-        }
-      ],
-      "duration_ms": 203446,
-      "name": "Now She See Me (feat. Sevn Alias & Two Crooks)",
-      "url": "https://open.spotify.com/track/3bfzlKH2WVXNvLcxEky2k5"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "BON VIBES",
         "url": "https://open.spotify.com/album/6XLI3uqFYuJLYhuHhNVDC3"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 139428,
       "name": "BON VIBES",
       "url": "https://open.spotify.com/track/5zMG8AaGtpoGwrAA75FRGk"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Midnight Boom",
+        "url": "https://open.spotify.com/album/52vZP5uAbwqNj89NRlQ0Ic"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "duration_ms": 145937,
+      "name": "Midnight Boom",
+      "url": "https://open.spotify.com/track/41dxhDrOnQdieYdUW9PC4J"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2063,22 +2063,30 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Amiri Jeans",
-        "url": "https://open.spotify.com/album/6YkiGFwk4wXZ9y6jZiexXB"
+        "name": "Gouden Plaat",
+        "url": "https://open.spotify.com/album/6foJw5tA83SRvOLKL5ubYY"
       },
       "artists": [
         {
-          "name": "Philly Mor\u00e9",
-          "url": "https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT"
+          "name": "Jairzinho",
+          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
         },
         {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+          "name": "Sevn Alias",
+          "url": "https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc"
+        },
+        {
+          "name": "BKO",
+          "url": "https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd"
+        },
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
         }
       ],
-      "duration_ms": 146822,
-      "name": "Amiri Jeans",
-      "url": "https://open.spotify.com/track/0IS34pxJiRrnCTw2uDy8dJ"
+      "duration_ms": 164884,
+      "name": "Tempo (feat. Sevn Alias, Bko & Boef)",
+      "url": "https://open.spotify.com/track/2YeKWxs3kfBFt7UduCEXub"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2107,30 +2115,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Gouden Plaat",
-        "url": "https://open.spotify.com/album/6foJw5tA83SRvOLKL5ubYY"
+        "name": "Amiri Jeans",
+        "url": "https://open.spotify.com/album/6YkiGFwk4wXZ9y6jZiexXB"
       },
       "artists": [
         {
-          "name": "Jairzinho",
-          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
+          "name": "Philly Mor\u00e9",
+          "url": "https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT"
         },
         {
-          "name": "Sevn Alias",
-          "url": "https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc"
-        },
-        {
-          "name": "BKO",
-          "url": "https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd"
-        },
-        {
-          "name": "Boef",
-          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
         }
       ],
-      "duration_ms": 164884,
-      "name": "Tempo (feat. Sevn Alias, Bko & Boef)",
-      "url": "https://open.spotify.com/track/2YeKWxs3kfBFt7UduCEXub"
+      "duration_ms": 146822,
+      "name": "Amiri Jeans",
+      "url": "https://open.spotify.com/track/0IS34pxJiRrnCTw2uDy8dJ"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2183,6 +2183,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Gouden Plaat",
+        "url": "https://open.spotify.com/album/6foJw5tA83SRvOLKL5ubYY"
+      },
+      "artists": [
+        {
+          "name": "Jairzinho",
+          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 136499,
+      "name": "Laat Niet Los (feat. Jonna Fraser)",
+      "url": "https://open.spotify.com/track/3UxtV3dzZU58Y5OzaUUplr"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Vostape Vol.1: Congo Johnny Depp",
         "url": "https://open.spotify.com/album/0o58cKDGHVB2IUbIhQfzCB"
       },
@@ -2219,26 +2239,6 @@
       "duration_ms": 132572,
       "name": "Het Is Een Feit",
       "url": "https://open.spotify.com/track/0iuLGMsB9xBbg5D4iabTtT"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Gouden Plaat",
-        "url": "https://open.spotify.com/album/6foJw5tA83SRvOLKL5ubYY"
-      },
-      "artists": [
-        {
-          "name": "Jairzinho",
-          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
-        },
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        }
-      ],
-      "duration_ms": 136499,
-      "name": "Laat Niet Los (feat. Jonna Fraser)",
-      "url": "https://open.spotify.com/track/3UxtV3dzZU58Y5OzaUUplr"
     },
     {
       "added_at": "2024-07-19 06:38:33",

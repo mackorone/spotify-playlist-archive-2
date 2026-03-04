@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Ray. The essential tracks, all in one playlist.",
-  "num_followers": 5667,
+  "num_followers": 5671,
   "original_name": "This Is Victor Ray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaOBgAAAAACS077cloqShxIivziiAAIe",
+  "snapshot_id": "aaTTAAAAAAAor3t7g7rTU2pRgr0Uv3AW",
   "tracks": [
     {
       "added_at": null,
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "i was.",
-        "url": "https://open.spotify.com/album/2DlFgRZ2IjheWMpSg8o1Ao"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        }
-      ],
-      "duration_ms": 167013,
-      "name": "Sink or Swim",
-      "url": "https://open.spotify.com/track/5p3NmRvYDWBK3w6wTqd1rM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Contagious",
         "url": "https://open.spotify.com/album/1fqKR6PCya4ZqtmhayITvZ"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 175960,
       "name": "Contagious",
       "url": "https://open.spotify.com/track/2fIWB5J4Hq0rOh8DL4xINK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i was.",
+        "url": "https://open.spotify.com/album/2DlFgRZ2IjheWMpSg8o1Ao"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "duration_ms": 167013,
+      "name": "Sink or Swim",
+      "url": "https://open.spotify.com/track/5p3NmRvYDWBK3w6wTqd1rM"
     },
     {
       "added_at": null,

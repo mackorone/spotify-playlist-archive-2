@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-2,000 songs - 4 day 13 hr 28 min
+2,001 songs - 4 day 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1117,7 +1117,7 @@
 | [MAVERICK](https://open.spotify.com/track/5uVgfUQLv2ZCgdx0t9vawz) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 3RD SINGLE ALBUM \[MAVERICK\]](https://open.spotify.com/album/40Vv3OErf3nP8Cg1UmAKV8) | 3:28 | 2021-11-04 | 2021-11-05 |
 | [Maybe Tomorrow](https://open.spotify.com/track/1XDSuZ5ZSExGZYC7IuiU5l) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Maybe Tomorrow](https://open.spotify.com/album/2HhzHLoaQWdkvPQjoopUy6) | 3:44 | 2025-05-08 | 2025-05-18 |
 | [MBTI \(Feat\. Coogie & Loco\) \(Prod\. GRAY\)](https://open.spotify.com/track/3sMyDgDEGNCAOIvlEs6PR7) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Show Me The Money 10 Semi Final](https://open.spotify.com/album/5SARHTEl2iHAjVl93WHiyP) | 4:08 | 2021-11-28 | 2022-01-08 |
-| [Me and my](https://open.spotify.com/track/5MXcM263QvCTWriH3nVusc) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/2SrWldMz9dfCB7kAGQNbcC) | 2:52 | 2026-02-28 |  |
+| [Me and my](https://open.spotify.com/track/5MXcM263QvCTWriH3nVusc) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/2SrWldMz9dfCB7kAGQNbcC) | 2:52 | 2026-02-28 | 2026-03-04 |
 | [Me do i](https://open.spotify.com/track/3seYQZjm06TKo0l7hpmENo) | [hunnie gz](https://open.spotify.com/artist/4nRAm0xtbH0D1dW7BRW1DZ) | [Me do i](https://open.spotify.com/album/1SaPWdxYcIqBec1uYEPJs6) | 3:20 | 2025-02-26 | 2025-03-02 |
 | [Meeting is easy, parting is hard \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/1GFS1xMbcAWXf5W0tSuZev) | [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Show Me The Money 10 Episode 3](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) | 3:51 | 2021-11-22 | 2022-03-21 |
 | [MELODY](https://open.spotify.com/track/6JeleVHUHrdvgiFESE33ZU) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [ISLAND](https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO) | 3:00 | 2021-03-27\* | 2022-01-17 |
@@ -2005,6 +2005,7 @@
 | [섬찟 \(Hypnosis\)](https://open.spotify.com/track/1tzeAVyGwvoHcVzDit0UeT) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 2:26 | 2023-04-12 | 2023-04-14 |
 | [스물다섯, 스물하나](https://open.spotify.com/track/3mQwOUjViw1cpwUYugndPV) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Goodbye, grief.](https://open.spotify.com/album/2EPyeRDl7LqjJ3z3QvP4Cg) | 4:44 | 2022-03-14 | 2022-04-26 |
 | [시작의 아이 ハジマリのコ \(Starting With You\)](https://open.spotify.com/track/2GMKQPMXdOGXsQkDYBN6wF) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [시작의 아이 ハジマリのコ \(Starting With You\)](https://open.spotify.com/album/7zt4FeVEYc2QuMPI11WIoO) | 4:16 | 2025-06-09 | 2025-11-17 |
+| [아크라포빅 \(Akrapovic\)](https://open.spotify.com/track/3YVcnTV3v6DEFJeAnxGTBj) | [hamo](https://open.spotify.com/artist/7bQHemX2QBqGaERdrfraNW) | [시정잡배의 18번 \(The Riffraff’s Signature\)](https://open.spotify.com/album/4KEMROEYkFdX6tqUcIYtWy) | 2:15 | 2026-03-03 |  |
 | [예뻤어](https://open.spotify.com/track/3HAkoNmThZhyFejhpRXXYI) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/0XAkvjvpmtHRaOtjKn60HS) | 4:43 | 2024-10-13 | 2024-10-15 |
 | [작은 봄](https://open.spotify.com/track/6EIejWXtCAxXCPrxID1VFq) | [고추잠자리](https://open.spotify.com/artist/6P39ZC1SVRiunXwdJ0P11H) | [작은 봄](https://open.spotify.com/album/7xUqTrlB37TJbtVcBvrEOH) | 3:42 | 2025-04-07 | 2025-04-19 |
 | [한 페이지가 될 수 있게](https://open.spotify.com/track/0EhdXt3y460mTRsi97Pyk5) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Gravity](https://open.spotify.com/album/6mAKMlMj09Vsdk05zkQ2MG) | 3:25 | 2024-10-13 | 2025-01-05 |

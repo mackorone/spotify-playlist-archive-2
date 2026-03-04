@@ -1,6 +1,6 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & The Night Sweats",
-  "num_followers": 478103,
+  "num_followers": 478088,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Strangers No More",
-        "url": "https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV"
-      },
-      "artists": [
-        {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
-        }
-      ],
-      "duration_ms": 264146,
-      "name": "On a Roll",
-      "url": "https://open.spotify.com/track/34L5OwGhNUKJOG7fgR4ain"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Waste of Time",
         "url": "https://open.spotify.com/album/7f39VmqaoMuEi30pYKFlh6"
       },
@@ -579,18 +563,18 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Heigh Ho",
-        "url": "https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6"
+        "name": "Strangers No More",
+        "url": "https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV"
       },
       "artists": [
         {
-          "name": "Blake Mills",
-          "url": "https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR"
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
         }
       ],
-      "duration_ms": 319706,
-      "name": "Don't Tell Our Friends About Me",
-      "url": "https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK"
+      "duration_ms": 264146,
+      "name": "On a Roll",
+      "url": "https://open.spotify.com/track/34L5OwGhNUKJOG7fgR4ain"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -607,6 +591,22 @@
       "duration_ms": 300800,
       "name": "Signs of Life",
       "url": "https://open.spotify.com/track/15ZSEpaU6Q8YJLcld0hEqt"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Heigh Ho",
+        "url": "https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6"
+      },
+      "artists": [
+        {
+          "name": "Blake Mills",
+          "url": "https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR"
+        }
+      ],
+      "duration_ms": 319706,
+      "name": "Don't Tell Our Friends About Me",
+      "url": "https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Slow Lightning",
-        "url": "https://open.spotify.com/album/44YK1hIbqIgm50o6zPZAhB"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 238186,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/6fAJL7dFFaAlRgrmXKvctr"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Born To Die",
         "url": "https://open.spotify.com/album/4P19H9TULgF2zUxNGPkBoK"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 172324,
       "name": "Born To Die",
       "url": "https://open.spotify.com/track/54F7uOTyfsusa19TjEcHW9"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Slow Lightning",
+        "url": "https://open.spotify.com/album/44YK1hIbqIgm50o6zPZAhB"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 238186,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/6fAJL7dFFaAlRgrmXKvctr"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
+        "name": "Never Makes a Sound",
+        "url": "https://open.spotify.com/album/1oG3x0lHgddWOoJ3UhzWXY"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Terrell",
+          "url": "https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3"
+        }
+      ],
+      "duration_ms": 240260,
+      "name": "Never Makes a Sound",
+      "url": "https://open.spotify.com/track/6ws3nglPZiK1lCgU9ZpfQV"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
         "name": "Already Dead",
         "url": "https://open.spotify.com/album/3b21RhhOLcTI7rY6JdeFIM"
       },
@@ -1319,18 +1335,18 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Never Makes a Sound",
-        "url": "https://open.spotify.com/album/1oG3x0lHgddWOoJ3UhzWXY"
+        "name": "Devil and the Sea",
+        "url": "https://open.spotify.com/album/5XkuCSfJsRRNsBJTfpfLEs"
       },
       "artists": [
         {
-          "name": "Jonathan Terrell",
-          "url": "https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3"
+          "name": "Streets of Laredo",
+          "url": "https://open.spotify.com/artist/4gzYX1gPVnAh5YB1MAo60t"
         }
       ],
-      "duration_ms": 240260,
-      "name": "Never Makes a Sound",
-      "url": "https://open.spotify.com/track/6ws3nglPZiK1lCgU9ZpfQV"
+      "duration_ms": 218573,
+      "name": "Devil and the Sea",
+      "url": "https://open.spotify.com/track/4MvLYfOKCq2iFfANg0WNxR"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1367,38 +1383,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Way Back",
-        "url": "https://open.spotify.com/album/19HLhs8Ey6wysibfosbk0q"
-      },
-      "artists": [
-        {
-          "name": "The Lighthouse And The Whaler",
-          "url": "https://open.spotify.com/artist/6ls5A8Wys9Swixpz4v6kj3"
-        }
-      ],
-      "duration_ms": 258058,
-      "name": "Way Back",
-      "url": "https://open.spotify.com/track/6Jt5iBTXNyW4fpG6W26K0G"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
-        "name": "Devil and the Sea",
-        "url": "https://open.spotify.com/album/5XkuCSfJsRRNsBJTfpfLEs"
-      },
-      "artists": [
-        {
-          "name": "Streets of Laredo",
-          "url": "https://open.spotify.com/artist/4gzYX1gPVnAh5YB1MAo60t"
-        }
-      ],
-      "duration_ms": 218573,
-      "name": "Devil and the Sea",
-      "url": "https://open.spotify.com/track/4MvLYfOKCq2iFfANg0WNxR"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/0Lnu3IpqBS3BW8EhiOL9iC"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 215759,
       "name": "Circles",
       "url": "https://open.spotify.com/track/7Ad6cjOyjaRKS8XHlzMG8w"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Way Back",
+        "url": "https://open.spotify.com/album/19HLhs8Ey6wysibfosbk0q"
+      },
+      "artists": [
+        {
+          "name": "The Lighthouse And The Whaler",
+          "url": "https://open.spotify.com/artist/6ls5A8Wys9Swixpz4v6kj3"
+        }
+      ],
+      "duration_ms": 258058,
+      "name": "Way Back",
+      "url": "https://open.spotify.com/track/6Jt5iBTXNyW4fpG6W26K0G"
     },
     {
       "added_at": "2025-02-07 05:00:32",

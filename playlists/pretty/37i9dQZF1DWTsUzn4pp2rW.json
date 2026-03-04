@@ -1,6 +1,6 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Laufey",
-  "num_followers": 194077,
+  "num_followers": 194152,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "twenty-first",
-        "url": "https://open.spotify.com/album/5uI9gOvyW2km0W5M4Djy2T"
-      },
-      "artists": [
-        {
-          "name": "VARITDA",
-          "url": "https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "twenty-first",
-      "url": "https://open.spotify.com/track/1pG8XTfw1b4YGHVQM0UORh"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "Bagatelles",
         "url": "https://open.spotify.com/album/7dEBdUpqe6c6vprtQiEMX1"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 127426,
       "name": "How About You",
       "url": "https://open.spotify.com/track/0OotFG4v6vLS0Im8Ny6cpo"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "twenty-first",
+        "url": "https://open.spotify.com/album/5uI9gOvyW2km0W5M4Djy2T"
+      },
+      "artists": [
+        {
+          "name": "VARITDA",
+          "url": "https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "twenty-first",
+      "url": "https://open.spotify.com/track/1pG8XTfw1b4YGHVQM0UORh"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/4bVk8bkgZx4JQwZzWAslTq"
+      },
+      "artists": [
+        {
+          "name": "Lyambiko",
+          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
+        }
+      ],
+      "duration_ms": 177679,
+      "name": "River",
+      "url": "https://open.spotify.com/track/57cy5aqH3hqdeYWZpstmaj"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
         "name": "Collusion",
         "url": "https://open.spotify.com/album/06hyQYD4HmLpKPhtG0BaJD"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 267302,
       "name": "Let's Go to Bed",
       "url": "https://open.spotify.com/track/5IOpRI9B5AdsM27NRoxFBN"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/4bVk8bkgZx4JQwZzWAslTq"
-      },
-      "artists": [
-        {
-          "name": "Lyambiko",
-          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
-        }
-      ],
-      "duration_ms": 177679,
-      "name": "River",
-      "url": "https://open.spotify.com/track/57cy5aqH3hqdeYWZpstmaj"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Midnight Jones",
-        "url": "https://open.spotify.com/album/3kpeKSfKLSGSH8xeYjayfg"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 233173,
-      "name": "Peace - First Sessions Demo",
-      "url": "https://open.spotify.com/track/3vRI7xtLs0VT1qSmUPp2GT"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "Don't Forget Me (When I'm Gone)",
         "url": "https://open.spotify.com/album/2cjK6kxgKI8C2cv4zYqezC"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 184250,
       "name": "Don't Forget Me (When I'm Gone)",
       "url": "https://open.spotify.com/track/6DMbtQe33VCzkhmEQbjzYc"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "Midnight Jones",
+        "url": "https://open.spotify.com/album/3kpeKSfKLSGSH8xeYjayfg"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 233173,
+      "name": "Peace - First Sessions Demo",
+      "url": "https://open.spotify.com/track/3vRI7xtLs0VT1qSmUPp2GT"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1583,18 +1583,26 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Sleepy Time",
-        "url": "https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV"
+        "name": "Snowflakes",
+        "url": "https://open.spotify.com/album/7M6CJaL7NXBG7EWRnsizuI"
       },
       "artists": [
         {
-          "name": "Imajjine",
-          "url": "https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL"
+          "name": "Jorunn Westeraas",
+          "url": "https://open.spotify.com/artist/6h4qPRsCLMPKVrW7nbLn18"
+        },
+        {
+          "name": "Hege Saugstad",
+          "url": "https://open.spotify.com/artist/5qsnbEMK2eQMFSAyP6BsNT"
+        },
+        {
+          "name": "Monika Gellein Mathisen",
+          "url": "https://open.spotify.com/artist/4ItYdjOC69BL5Y6yETcTym"
         }
       ],
-      "duration_ms": 158641,
-      "name": "Sleepy Time",
-      "url": "https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr"
+      "duration_ms": 224400,
+      "name": "Snowflakes",
+      "url": "https://open.spotify.com/track/3Hbylm12DZXnOJQBdBkOaf"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1623,26 +1631,18 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Snowflakes",
-        "url": "https://open.spotify.com/album/7M6CJaL7NXBG7EWRnsizuI"
+        "name": "Sleepy Time",
+        "url": "https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV"
       },
       "artists": [
         {
-          "name": "Jorunn Westeraas",
-          "url": "https://open.spotify.com/artist/6h4qPRsCLMPKVrW7nbLn18"
-        },
-        {
-          "name": "Hege Saugstad",
-          "url": "https://open.spotify.com/artist/5qsnbEMK2eQMFSAyP6BsNT"
-        },
-        {
-          "name": "Monika Gellein Mathisen",
-          "url": "https://open.spotify.com/artist/4ItYdjOC69BL5Y6yETcTym"
+          "name": "Imajjine",
+          "url": "https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL"
         }
       ],
-      "duration_ms": 224400,
-      "name": "Snowflakes",
-      "url": "https://open.spotify.com/track/3Hbylm12DZXnOJQBdBkOaf"
+      "duration_ms": 158641,
+      "name": "Sleepy Time",
+      "url": "https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/1yiHIdrp16UXHGjwbbCmxJ"
-      },
-      "artists": [
-        {
-          "name": "Untitled Band",
-          "url": "https://open.spotify.com/artist/4gfu5YxjKlaDWdnJ7VAM1I"
-        }
-      ],
-      "duration_ms": 229687,
-      "name": "If I'd Had Your Heart",
-      "url": "https://open.spotify.com/track/2fVdaV8noj9GhCpXTxVm2c"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "It's Complicated",
         "url": "https://open.spotify.com/album/7rIEAwoVxuIs8iXJMfuA80"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 208273,
       "name": "It's Complicated",
       "url": "https://open.spotify.com/track/7s2Y7jBaXuAEy8iGkaFGS2"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/1yiHIdrp16UXHGjwbbCmxJ"
+      },
+      "artists": [
+        {
+          "name": "Untitled Band",
+          "url": "https://open.spotify.com/artist/4gfu5YxjKlaDWdnJ7VAM1I"
+        }
+      ],
+      "duration_ms": 229687,
+      "name": "If I'd Had Your Heart",
+      "url": "https://open.spotify.com/track/2fVdaV8noj9GhCpXTxVm2c"
     },
     {
       "added_at": "2025-05-18 18:29:44",

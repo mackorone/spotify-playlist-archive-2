@@ -4,7 +4,7 @@
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-131 songs - 7 hr 4 min
+134 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Blue Frog \(Feat\. G\-DRAGON\)](https://open.spotify.com/track/05mUYNwDJBeUdWv94njtDN) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [PSY SIX RULES, Pt\. 1](https://open.spotify.com/album/0Nq7k5hqml23K1VlrEnLNR) | 3:27 | 2023-11-09 | 2025-05-22 |
 | [BLUE GIANT](https://open.spotify.com/track/30eL5h0PUssrOfDsVWTRd0) | [CHASEDAE](https://open.spotify.com/artist/4MGqEzKNHeMDgR6iQLYie8) | [BLUE GIANT](https://open.spotify.com/album/3rEUlorNRsBYyAY5oAmBg3) | 5:04 | 2023-11-09 |  |
 | [Boat](https://open.spotify.com/track/34HSEUn4YGAFBW9OHGIkU7) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Boat](https://open.spotify.com/album/02uMD7AxTNi2Af2H4DxfPO) | 3:11 | 2023-11-09 | 2025-05-22 |
+| [break](https://open.spotify.com/track/7zpNqcJpxeTBmow2bwA2dR) | [Kim Neuk](https://open.spotify.com/artist/6g3wwcrVl0v453lpIoYENy) | [break](https://open.spotify.com/album/7HFgQWVEuvH3iTkNfkLlPd) | 1:47 | 2026-03-04 |  |
 | [Breeze](https://open.spotify.com/track/3bkSpl9J6jPIkJF79204cd) | [Yeonwoo](https://open.spotify.com/artist/1JhDrFaGBo6baiMOQ67guq) | [Breeze](https://open.spotify.com/album/6mAKz4Er700vwjc5EKU3zf) | 3:35 | 2023-11-09 |  |
 | [BURN\-OUT](https://open.spotify.com/track/6wJ6w7zUkO9XXI90HxGll1) | [FRIDA\-ANNE](https://open.spotify.com/artist/5YfqwaqXKVlPHQYrFNrETr) | [BURN\-OUT](https://open.spotify.com/album/3AIPiHniTj4nvppiLvTyof) | 2:36 | 2023-11-09 |  |
 | [Burned out](https://open.spotify.com/track/0tHWG1FuBBH0H0ooj5H0Kp) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB) | 3:06 | 2024-04-17 | 2025-12-09 |
@@ -43,6 +44,7 @@
 | [everything is bothersome](https://open.spotify.com/track/37M5iTQTitE9a9RE909yAJ) | [0415](https://open.spotify.com/artist/49EamolQqzPhub6zY9By4A) | [everything is bothersome](https://open.spotify.com/album/3DNC7ASLsa73bC1oCtwmQh) | 3:40 | 2025-06-25 |  |
 | [Fake Flower \(feat\. Nucksal\)](https://open.spotify.com/track/4neR5Hz4WBcC2WN3anYvZx) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [THE SOLOEST](https://open.spotify.com/album/7ytuR23cmbdxlFFBtmRd5T) | 2:59 | 2023-11-09 |  |
 | [flow](https://open.spotify.com/track/5bxyh1CcujeiaByDCetPO3) | [최영인](https://open.spotify.com/artist/3p61qhWNmHG31V9j8x2M6o) | [Monthly Youthonic, Vol.1](https://open.spotify.com/album/0mgwAirSdWtq4Q7LuzwHSY) | 3:54 | 2025-07-02 |  |
+| [For A Rest](https://open.spotify.com/track/7tf0PW00oVcsubvggP4abK) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [For A Rest](https://open.spotify.com/album/1bW5rp20c5kpYd43Wkfbok) | 3:20 | 2026-03-04 |  |
 | [Forever Dumb \(feat\. SAM KIM\)](https://open.spotify.com/track/3V9eMQIX6COtvoRUXLoZe9) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [So!YoON!](https://open.spotify.com/album/07hwLp0d8O69sKwdKqOSdM) | 3:52 | 2023-11-09 | 2026-02-26 |
 | [Friday to Monday](https://open.spotify.com/track/1A9tsKf5PuICz5Q2VuR2SV) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [Friday to Monday](https://open.spotify.com/album/5BnMtaO5tafYL7EwOMBJoW) | 3:02 | 2026-02-25 |  |
 | [Friday to Monday](https://open.spotify.com/track/4Krv5sqJVJ3jrSP15bC6mU) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [Friday to Monday](https://open.spotify.com/album/7okamLcUdT1FpqHEW9231G) | 3:02 | 2023-11-09 |  |
@@ -107,6 +109,7 @@
 | [Something Casual](https://open.spotify.com/track/1eqzWjF4C3upoquBmoLnwh) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Something Casual](https://open.spotify.com/album/28TW1djKaHKzXtrGeu4etl) | 3:20 | 2023-11-09 |  |
 | [Starfish on your head](https://open.spotify.com/track/6EUu1a2UhYLokK3A3xkmRh) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 3:12 | 2024-07-02 |  |
 | [T T \(Feat\. Quokka of DNEIRF\)](https://open.spotify.com/track/49lrMwawOXBBi2zQGrPTlK) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA), [쿼카](https://open.spotify.com/artist/4n67uXDzfLiGEeaX0NAnJX) | [T T \(Feat\. Quokka of DNEIRF\)](https://open.spotify.com/album/6LXCbFfy30ywcpWyqwHzoB) | 3:25 | 2023-11-09 | 2025-05-08 |
+| [Take a rest](https://open.spotify.com/track/0vM1Pao1HFHIzkbhymQsPg) | [DENIM KIDS!](https://open.spotify.com/artist/5JcssLw0Skn0meF0EhTwt3) | [Take a rest](https://open.spotify.com/album/1s944dPEUKWccALe1BGu5i) | 2:28 | 2026-03-04 |  |
 | [Take It Slow](https://open.spotify.com/track/3L82GIzkljT0c8etq54PQn) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Take It Slow](https://open.spotify.com/album/6cmHhqsTvRJfWzCmowRGuY) | 2:50 | 2023-11-09 | 2024-04-19 |
 | [Take It Slow](https://open.spotify.com/track/4znMAwSb5JrHcxLyXukcu9) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Take It Slow](https://open.spotify.com/album/0yvYev6X53DfOZ5zWfLTDN) | 2:50 | 2023-11-09 |  |
 | [The Lament of a Ghost Who Dreamed of Wealth \(feat\. Kim Myungjun\)](https://open.spotify.com/track/4FqnKA4lAAwXXIiBKjcRVs) | [The Shinbi House](https://open.spotify.com/artist/4TFCOk1S65SgCVHL5mrsQn), [Kim Myungjun](https://open.spotify.com/artist/0rxiCyKtPqXEvijEh1VIOR) | [The Lament of a Ghost Who Dreamed of Wealth \(feat\. Kim Myungjun\)](https://open.spotify.com/album/7EomTHaYJJlNp1CKzwDCYW) | 3:36 | 2025-07-09 |  |

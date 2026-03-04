@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,298 likes - 48 songs - 3 hr 6 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,299 likes - 49 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,5 +56,6 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 46 | [TimeCrime](https://open.spotify.com/track/1WElW0gy1V24q1fBgpkY2t) | [ANGELO](https://open.spotify.com/artist/6TDcDHUYcKAmqdabRHToIG) | [TimeCrime](https://open.spotify.com/album/5yY39wwz23Q12w97VdlwKY) | 3:34 |
 | 47 | [Faded photographs](https://open.spotify.com/track/1vMsBtdVxFHYHYStZJVQHt) | [Body Talk](https://open.spotify.com/artist/0T4kP9IyFYuI7fRBqQ58EJ) | [Faded photographs](https://open.spotify.com/album/2T3cj8XZ12Mpoxz8ZObbur) | 3:35 |
 | 48 | [Límite](https://open.spotify.com/track/7jVQXWrwoQq9lOQpGXlJRv) | [Javzye](https://open.spotify.com/artist/1AM71cIOWu0sM8D6yju4xX) | [Límite](https://open.spotify.com/album/3nxdgNuSPdm0oibOiS1J4d) | 2:48 |
+| 49 | [イマジネーション・シティ](https://open.spotify.com/track/0JBZyzlZPAvS7kdMnQbayj) | [陽那 京](https://open.spotify.com/artist/5kWYs6YB227vs6NZeaJhU0) | [イマジネーション・シティ](https://open.spotify.com/album/5KrzZjhziaDHf7mW7uhbE8) | 3:33 |
 
-Snapshot ID: `AAAj+lUq2464/IsW2uUC+ze8g+WZ7HnI`
+Snapshot ID: `AAAj+yORJMgoLfrLP00CEWzmLm/5gMsF`

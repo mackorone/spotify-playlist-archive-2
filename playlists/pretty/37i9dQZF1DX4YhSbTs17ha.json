@@ -1,12 +1,12 @@
 {
   "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Yuridia y Kany Garc\u00eda en portada.\n",
-  "num_followers": 1818977,
+  "num_followers": 1819184,
   "original_name": "S\u00f3lo Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPETkyBOwpGwMLDe0ZDKixNEgKGn",
+  "snapshot_id": "AAAAAKfjQkV+p4zIzSLgan+r7PQYACuR",
   "tracks": [
     {
       "added_at": "2026-02-27 06:00:31",
@@ -63,26 +63,6 @@
       "duration_ms": 176703,
       "name": "Te Elijo",
       "url": "https://open.spotify.com/track/032PZ5jBJYvzt8nPry49Ml"
-    },
-    {
-      "added_at": "2026-02-27 06:00:31",
-      "album": {
-        "name": "Tengo Que Contarte",
-        "url": "https://open.spotify.com/album/3p0KnHePOqQUsMlO2KJvAd"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 230480,
-      "name": "Tengo Que Contarte",
-      "url": "https://open.spotify.com/track/49jBvu8SdrYGTIZCSbEKFj"
     },
     {
       "added_at": "2026-02-27 06:00:31",
@@ -313,6 +293,38 @@
       "url": "https://open.spotify.com/track/3a4qpvbWmBF82u72x3nBOZ"
     },
     {
+      "added_at": "2026-03-04 00:43:11",
+      "album": {
+        "name": "CUARTO AZUL",
+        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "SUPERESTRELLA",
+      "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
+    },
+    {
+      "added_at": "2026-02-27 06:00:31",
+      "album": {
+        "name": "KAWASAKI",
+        "url": "https://open.spotify.com/album/5AsNKgoGpbkOGSJyLjY4mM"
+      },
+      "artists": [
+        {
+          "name": "SANTOS BRAVOS",
+          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "KAWASAKI",
+      "url": "https://open.spotify.com/track/1ojKC4x3rDKoaikvEx1Lt2"
+    },
+    {
       "added_at": "2026-02-27 06:00:31",
       "album": {
         "name": "T\u00fa y Yo X Siempre",
@@ -371,18 +383,22 @@
     {
       "added_at": "2026-02-27 06:00:31",
       "album": {
-        "name": "KAWASAKI",
-        "url": "https://open.spotify.com/album/5AsNKgoGpbkOGSJyLjY4mM"
+        "name": "Tengo Que Contarte",
+        "url": "https://open.spotify.com/album/3p0KnHePOqQUsMlO2KJvAd"
       },
       "artists": [
         {
-          "name": "SANTOS BRAVOS",
-          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 157333,
-      "name": "KAWASAKI",
-      "url": "https://open.spotify.com/track/1ojKC4x3rDKoaikvEx1Lt2"
+      "duration_ms": 230480,
+      "name": "Tengo Que Contarte",
+      "url": "https://open.spotify.com/track/49jBvu8SdrYGTIZCSbEKFj"
     },
     {
       "added_at": "2026-02-27 06:00:31",
@@ -991,26 +1007,6 @@
       "duration_ms": 162211,
       "name": "Que Te Quieran Bonito",
       "url": "https://open.spotify.com/track/3YV73DlP8kB6sOACXeiACW"
-    },
-    {
-      "added_at": "2026-02-27 06:00:31",
-      "album": {
-        "name": "DUE\u00d1O DE TI",
-        "url": "https://open.spotify.com/album/0h4n1Mx0fmZQYm27TfS7xR"
-      },
-      "artists": [
-        {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 212222,
-      "name": "DUE\u00d1O DE TI",
-      "url": "https://open.spotify.com/track/3fVoK5VLXYksHYMDf16RIT"
     },
     {
       "added_at": "2026-02-27 06:00:31",

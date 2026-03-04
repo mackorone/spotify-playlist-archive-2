@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 170462,
+  "num_followers": 170480,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaOBgAAAAABrkAifcG2s2wTUs6ElMWzr",
+  "snapshot_id": "aaTTAAAAAAAddeRZ7cW5CrPwAPcY3rJP",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kylie",
+        "url": "https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 204128,
+      "name": "I Should Be so Lucky",
+      "url": "https://open.spotify.com/track/0RggFSMfsJvAsrI4itTIzr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Especially for You",
         "url": "https://open.spotify.com/album/0DXTYW6fxh7RmQbZwjGsqP"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 240892,
       "name": "Especially for You",
       "url": "https://open.spotify.com/track/0mVEYOASqm8DX7mCmHgIWt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kylie",
-        "url": "https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 204128,
-      "name": "I Should Be so Lucky",
-      "url": "https://open.spotify.com/track/0RggFSMfsJvAsrI4itTIzr"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tension II",
-        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 162253,
-      "name": "Lights Camera Action",
-      "url": "https://open.spotify.com/track/1vbhiBKv5Tyfx75BOoTbdU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sing When You're Winning",
         "url": "https://open.spotify.com/album/11DmTQm7WPeSXih1FPuaXL"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 286706,
       "name": "Kids",
       "url": "https://open.spotify.com/track/21pvCJBSp34fC17YHOtw05"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tension II",
+        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 162253,
+      "name": "Lights Camera Action",
+      "url": "https://open.spotify.com/track/1vbhiBKv5Tyfx75BOoTbdU"
     },
     {
       "added_at": null,
@@ -675,18 +675,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tension II",
-        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
+        "name": "DISCO: Guest List Edition",
+        "url": "https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh"
       },
       "artists": [
         {
           "name": "Kylie Minogue",
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 189093,
-      "name": "Good As Gone",
-      "url": "https://open.spotify.com/track/43NWJe8jWCv6BhxmPep4gy"
+      "duration_ms": 262893,
+      "name": "Real Groove - Studio 2054 Remix",
+      "url": "https://open.spotify.com/track/2AaMtxb9ipiZO6ItN1bJrq"
     },
     {
       "added_at": null,
@@ -707,22 +711,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DISCO: Guest List Edition",
-        "url": "https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh"
+        "name": "Tension II",
+        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
       },
       "artists": [
         {
           "name": "Kylie Minogue",
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 262893,
-      "name": "Real Groove - Studio 2054 Remix",
-      "url": "https://open.spotify.com/track/2AaMtxb9ipiZO6ItN1bJrq"
+      "duration_ms": 189093,
+      "name": "Good As Gone",
+      "url": "https://open.spotify.com/track/43NWJe8jWCv6BhxmPep4gy"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tension II",
-        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 168293,
-      "name": "Taboo",
-      "url": "https://open.spotify.com/track/3NugCU8elmTyNscNBZFWZr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/5Y0DcJXYNRT0GOtchKvZdL"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 239880,
       "name": "The One",
       "url": "https://open.spotify.com/track/0yKznHFSb0CYfMb5kSLw8h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tension II",
+        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 154706,
+      "name": "Someone For Me",
+      "url": "https://open.spotify.com/track/4RqWoB5cfvROXfgO8pYKzL"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tension II",
-        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 154706,
-      "name": "Someone For Me",
-      "url": "https://open.spotify.com/track/4RqWoB5cfvROXfgO8pYKzL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enjoy Yourself",
         "url": "https://open.spotify.com/album/4oz4KLPtQlhuN392NqQVxx"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 231082,
       "name": "Hand on Your Heart",
       "url": "https://open.spotify.com/track/3pS5eiuBPsQn5ID6RElg9G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tension II",
+        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 168293,
+      "name": "Taboo",
+      "url": "https://open.spotify.com/track/3NugCU8elmTyNscNBZFWZr"
     },
     {
       "added_at": null,

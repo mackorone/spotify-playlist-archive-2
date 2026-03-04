@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mari Fernandez, BLACKPINK, Murillo Huff,  Alok, Bruno Mars, Gorillaz e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,261,703 likes - 89 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,261,626 likes - 89 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 27 | [Te Perdi Pros Paredão \- Ao Vivo](https://open.spotify.com/track/6iok3n58Pi7tFIaecGKfo5) | [Mayke & Rodrigo](https://open.spotify.com/artist/70l6HIf0rz8ZMQCW5qK6QI), [Kaique e Felipe](https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh) | [Te Perdi Pros Paredão \(Ao Vivo\)](https://open.spotify.com/album/5naJEdqaxhNfXG22fbmkQo) | 2:23 |
 | 28 | [MPB \- Ao Vivo](https://open.spotify.com/track/4OZQii2M3Wr2U4oYiUZjCm) | [Luccas & Rodrigo](https://open.spotify.com/artist/76FeGERn9sCv607gktNjQh), [CountryBeat](https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk) | [MPB \(Ao Vivo\)](https://open.spotify.com/album/3U1TBtdgzTuwATga8ZWawY) | 2:16 |
 | 29 | [Seu Santo É forte \- Ao Vivo](https://open.spotify.com/track/6U628yLwHQ437XbQuy18sr) | [Kamisa 10](https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Ao Vivo em Brasília \(Deluxe\)](https://open.spotify.com/album/4x17wEgVhWFIk6ysveqH3w) | 2:35 |
-| 30 | [Online](https://open.spotify.com/track/6AP37q991SFXgoToKkKDoH) | [Samba da Ladeira](https://open.spotify.com/artist/0IB2uaFC6Xm2I9VSaUlesk) | [Online](https://open.spotify.com/album/1tvA8LPlrfQb96OJ1yr8Qi) | 2:52 |
+| 30 | [Online](https://open.spotify.com/track/6AP37q991SFXgoToKkKDoH) | [Samba da Ladeira](https://open.spotify.com/artist/0IB2uaFC6Xm2I9VSaUlesk) | [Online](https://open.spotify.com/album/1tvA8LPlrfQb96OJ1yr8Qi) | 2:53 |
 | 31 | [Bom E Novo \- Ao Vivo](https://open.spotify.com/track/1bNcvgndpDmGSEKb4aei4k) | [Bruno Diegues](https://open.spotify.com/artist/77BRZxLjoqGGTrra6Sx8uP), [Thiago Soares](https://open.spotify.com/artist/4zIE7LEe6kABBDLHLzAS4D) | [Bom E Novo \(Ao Vivo\)](https://open.spotify.com/album/7zDWdKBanGKud19broyBZM) | 3:20 |
 | 32 | [Slow Tonight](https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Slow Tonight](https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc) | 3:12 |
 | 33 | [Nightingale Lane.](https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Nightingale Lane.](https://open.spotify.com/album/22FLublraJkicHyrK2egu0) | 5:02 |

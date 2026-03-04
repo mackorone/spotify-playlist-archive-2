@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kP0ioXjxIA.md) - [plain]
 
 > BLACKPINK in our area! DEADLINE is coming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,401,186 likes - 72 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,401,539 likes - 72 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

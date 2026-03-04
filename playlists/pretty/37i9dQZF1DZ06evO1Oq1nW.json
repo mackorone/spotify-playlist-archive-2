@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaOBgAAAAABJjAnMA5fEPlCEqDZ08zVR",
+  "snapshot_id": "aaTTAAAAAAB3lYY52TECFIXKDO8z4mKp",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emotionally Yours",
-        "url": "https://open.spotify.com/album/1RkRxV7AWspDjtJxiuuQYf"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 315666,
-      "name": "Emotionally Yours",
-      "url": "https://open.spotify.com/track/1SkVy7i1WQ5QteieGb9qeI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let Me Touch You",
         "url": "https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 318253,
       "name": "Lovin' You",
       "url": "https://open.spotify.com/track/01teVPgKyIFdbqo65UahOX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emotionally Yours",
+        "url": "https://open.spotify.com/album/1RkRxV7AWspDjtJxiuuQYf"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 315666,
+      "name": "Emotionally Yours",
+      "url": "https://open.spotify.com/track/1SkVy7i1WQ5QteieGb9qeI"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Message In The Music",
-        "url": "https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 381013,
-      "name": "A Prayer",
-      "url": "https://open.spotify.com/track/1Zmqt3nkQutv5X8ANO6YUE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Year 2000",
         "url": "https://open.spotify.com/album/0nhMUUe0BUwd8YBj7aLkot"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 318986,
       "name": "You Won't Fail",
       "url": "https://open.spotify.com/track/4EMwieymtOOg9Etmykn1GO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Message In The Music",
+        "url": "https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 381013,
+      "name": "A Prayer",
+      "url": "https://open.spotify.com/track/1Zmqt3nkQutv5X8ANO6YUE"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ship Ahoy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 247066,
-      "name": "Put Your Hands Together",
-      "url": "https://open.spotify.com/track/57yGqjGKJUIzgKWdIZo9aR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Message In The Music",
         "url": "https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 380160,
       "name": "Message In Our Music",
       "url": "https://open.spotify.com/track/1lYCmnucH0yo2XGzd2h57r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ship Ahoy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 247066,
+      "name": "Put Your Hands Together",
+      "url": "https://open.spotify.com/track/57yGqjGKJUIzgKWdIZo9aR"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Family Reunion (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 339573,
-      "name": "You and Me",
-      "url": "https://open.spotify.com/track/4FGYePPcvd3yuxyDR3BsCJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ship Ahoy (Expanded Edition)",
         "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 536266,
       "name": "Don't Call Me Brother",
       "url": "https://open.spotify.com/track/6KYPvWM3iS0zGiVV4S5Cx1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Family Reunion (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 339573,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/4FGYePPcvd3yuxyDR3BsCJ"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Survival",
-        "url": "https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 222026,
-      "name": "Survival",
-      "url": "https://open.spotify.com/track/00ihnchhdgnad1IZSKrM3X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Last Word",
         "url": "https://open.spotify.com/album/1J7BPFUS7fzCkG4rc4AQQt"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 249229,
       "name": "Start Stoppin'",
       "url": "https://open.spotify.com/track/43X4A9MxKCrPUSie2SZuuT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 222026,
+      "name": "Survival",
+      "url": "https://open.spotify.com/track/00ihnchhdgnad1IZSKrM3X"
     },
     {
       "added_at": null,

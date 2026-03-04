@@ -45027,6 +45027,24 @@
     },
     {
       "album": {
+        "name": "CODE",
+        "url": "https://open.spotify.com/album/6ppaIu8fzPJZZjdLPKKSTt"
+      },
+      "artists": [
+        {
+          "name": "EVERGLOW",
+          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "CODE",
+      "url": "https://open.spotify.com/track/00bnKgDRZxvwpnWDJg7Por"
+    },
+    {
+      "album": {
         "name": "BABO ZIPPER",
         "url": "https://open.spotify.com/album/0cqUYYCX03YQ3HYiPduVCD"
       },
@@ -56446,7 +56464,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 178714,
       "name": "Digital Night",
       "url": "https://open.spotify.com/track/1CdBlAVaYsRzBERqmOp6H8"
@@ -58650,7 +58668,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 233433,
       "name": "Does Love Always Hurt",
       "url": "https://open.spotify.com/track/5lNLozPQ9cnUFvLi2AmXv8"
@@ -62020,7 +62038,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 174000,
       "name": "Drawing an apple",
       "url": "https://open.spotify.com/track/1TeaYVGDM2Jhl1WKl1vzmz"
@@ -65396,7 +65414,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 183125,
       "name": "easy love",
       "url": "https://open.spotify.com/track/41DVmQcacIUuujHOUyZwRQ"
@@ -74936,6 +74954,24 @@
       "duration_ms": 146538,
       "name": "Fear Can\u2032t Kill You",
       "url": "https://open.spotify.com/track/5AiO9KXoy1NW6Oz4GKXq8N"
+    },
+    {
+      "album": {
+        "name": "Siren's Kiss (Original Soundtrack) Part.1",
+        "url": "https://open.spotify.com/album/1gz3W76Dk4rgS2O1qiLJpd"
+      },
+      "artists": [
+        {
+          "name": "Sondia",
+          "url": "https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Fear Inside",
+      "url": "https://open.spotify.com/track/3eLs33sQ0ygj9ugQzBMifq"
     },
     {
       "album": {
@@ -86752,7 +86788,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 181000,
       "name": "Give U the Universe",
       "url": "https://open.spotify.com/track/0rUS50qp88ja1UU7Y7L4j4"
@@ -93592,6 +93628,40 @@
       "duration_ms": 220574,
       "name": "Half of Me",
       "url": "https://open.spotify.com/track/7KIQmYCPUcsdYIbZeA4AqM"
+    },
+    {
+      "album": {
+        "name": "Half of Me",
+        "url": "https://open.spotify.com/album/6SY84yrKaUvGvuWdywGiae"
+      },
+      "artists": [
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        },
+        {
+          "name": "RYUL",
+          "url": "https://open.spotify.com/artist/6NA2UPZOjtjgrd4aCEiscq"
+        },
+        {
+          "name": "Layone",
+          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
+        },
+        {
+          "name": "OLNL",
+          "url": "https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z"
+        },
+        {
+          "name": "Cosmic Boy",
+          "url": "https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226153,
+      "name": "Half of Me",
+      "url": "https://open.spotify.com/track/6PamJ2UnSulqQh7ctzSxzu"
     },
     {
       "album": {
@@ -122706,7 +122776,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 220000,
       "name": "It's Okay to Waver (The Daisy X Mad Dance Office)",
       "url": "https://open.spotify.com/track/52gAUDIc3AUS7fPSm31R75"
@@ -123798,6 +123868,24 @@
       "duration_ms": 215533,
       "name": "I\u2019ll Hold You Tight",
       "url": "https://open.spotify.com/track/3R7cGnlTJErw4tpPbNdGsf"
+    },
+    {
+      "album": {
+        "name": "SET BY US ONLY",
+        "url": "https://open.spotify.com/album/6GyVjvvsM3FJLbBmPVtbUb"
+      },
+      "artists": [
+        {
+          "name": "TUNEXX",
+          "url": "https://open.spotify.com/artist/0QofePWBUVHkH00cC1gmpD"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "I\u2019m Alive",
+      "url": "https://open.spotify.com/track/4WiI6Y2a4wsgqzUPLiww2z"
     },
     {
       "album": {
@@ -154556,7 +154644,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 167999,
       "name": "Microhabitat (feat. Kim gyeol)",
       "url": "https://open.spotify.com/track/5LiVDw69xDemUK2MytNo3r"
@@ -172135,6 +172223,24 @@
     },
     {
       "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/6PklPzH8lEZIRvRsP8xg3H"
+      },
+      "artists": [
+        {
+          "name": "OurR",
+          "url": "https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287000,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/0bxtHyBu4hJMk2irUkQFpQ"
+    },
+    {
+      "album": {
         "name": "OASIS (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/52nnmt1dzdhwgzLIbA7kWU"
       },
@@ -172918,6 +173024,24 @@
       "duration_ms": 162433,
       "name": "Oh my darling",
       "url": "https://open.spotify.com/track/0QX5b5n6UnxJh9jxJu4agR"
+    },
+    {
+      "album": {
+        "name": "Moments That Stayed",
+        "url": "https://open.spotify.com/album/2AUS9zCDCkYdlHvHV94AVa"
+      },
+      "artists": [
+        {
+          "name": "Park Chan Young",
+          "url": "https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Oh my darling, you",
+      "url": "https://open.spotify.com/track/1bnxyxbTnr8B88Nto0jf34"
     },
     {
       "album": {
@@ -175620,6 +175744,24 @@
       "duration_ms": 188511,
       "name": "One Love",
       "url": "https://open.spotify.com/track/6aLOlRbt7sT8vvuE0GdwIu"
+    },
+    {
+      "album": {
+        "name": "THE GREATEST BATTLE",
+        "url": "https://open.spotify.com/album/3i7eiszamKu66caVqosS0j"
+      },
+      "artists": [
+        {
+          "name": "Big Ocean",
+          "url": "https://open.spotify.com/artist/0ly1nCJ50by9Vc0UxPHvwY"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173560,
+      "name": "One Man Army",
+      "url": "https://open.spotify.com/track/1aDAGBfqF7akmLAqAVrTeY"
     },
     {
       "album": {
@@ -197441,6 +197583,24 @@
     },
     {
       "album": {
+        "name": "\ufeffROCKROCK",
+        "url": "https://open.spotify.com/album/50v7nwa6226pnMzmPRALVB"
+      },
+      "artists": [
+        {
+          "name": "V01D",
+          "url": "https://open.spotify.com/artist/1AXz12zUZ7GGJO4Z0693Iw"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183520,
+      "name": "ROCKROCK",
+      "url": "https://open.spotify.com/track/5bMA0PL5nkl6AeNRChYgA8"
+    },
+    {
+      "album": {
         "name": "ROCKSTAR",
         "url": "https://open.spotify.com/album/6K28kRMBlCctP8acFQ3E7A"
       },
@@ -211996,7 +212156,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 141597,
       "name": "Smile",
       "url": "https://open.spotify.com/track/64QE1MhR7DrqdEZRXind6P"
@@ -226804,6 +226964,24 @@
       "duration_ms": 220960,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/2RuZ5HXsBXMqAMAUyo9SHh"
+    },
+    {
+      "album": {
+        "name": "The Gavy NJ : II",
+        "url": "https://open.spotify.com/album/40dqb8JfQuNOOBEY6S3zoV"
+      },
+      "artists": [
+        {
+          "name": "Gavy NJ",
+          "url": "https://open.spotify.com/artist/6Iyc2IvCGBNStXUmPa8hmu"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "Sunflower (2026)",
+      "url": "https://open.spotify.com/track/7z9HeM2WZ2gzuvrKI2Wegu"
     },
     {
       "album": {
@@ -263388,7 +263566,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 198736,
       "name": "When the Moon Rises, I Think of You",
       "url": "https://open.spotify.com/track/6F4eFEDYatHqbVTY4rmufX"

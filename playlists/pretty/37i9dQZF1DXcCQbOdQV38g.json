@@ -1,12 +1,12 @@
 {
   "description": "Het zomergevoel met Nederlandstalig \u2600\ufe0f\ud83e\udde1",
-  "num_followers": 59963,
+  "num_followers": 59973,
   "original_name": "Nederlandse Zomerhits 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKsn4HcsamHbEVskWPHuCC15PH+3",
+  "snapshot_id": "AAAAAHCefN7p+25yZwtqaL5mNXo+F3B7",
   "tracks": [
     {
       "added_at": "2026-02-03 23:00:20",
@@ -843,26 +843,6 @@
     {
       "added_at": "2026-02-03 23:00:20",
       "album": {
-        "name": "Nog Geen Si\u00ebsta",
-        "url": "https://open.spotify.com/album/64D3m0YFpNWqGAQAUwuJ6A"
-      },
-      "artists": [
-        {
-          "name": "Wesley Klein",
-          "url": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2"
-        },
-        {
-          "name": "Monique Smit",
-          "url": "https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv"
-        }
-      ],
-      "duration_ms": 159843,
-      "name": "Nog Geen Si\u00ebsta",
-      "url": "https://open.spotify.com/track/2G82CkBfptmOqnGevZDrfM"
-    },
-    {
-      "added_at": "2026-02-03 23:00:20",
-      "album": {
         "name": "Laat Mij Nu Alleen",
         "url": "https://open.spotify.com/album/1o1IoR0EyRn13MwJil3kzR"
       },
@@ -887,6 +867,26 @@
     {
       "added_at": "2026-02-03 23:00:20",
       "album": {
+        "name": "Nog Geen Si\u00ebsta",
+        "url": "https://open.spotify.com/album/64D3m0YFpNWqGAQAUwuJ6A"
+      },
+      "artists": [
+        {
+          "name": "Wesley Klein",
+          "url": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2"
+        },
+        {
+          "name": "Monique Smit",
+          "url": "https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv"
+        }
+      ],
+      "duration_ms": 159843,
+      "name": "Nog Geen Si\u00ebsta",
+      "url": "https://open.spotify.com/track/2G82CkBfptmOqnGevZDrfM"
+    },
+    {
+      "added_at": "2026-02-03 23:00:20",
+      "album": {
         "name": "Als Ik Naar Malaga Ga",
         "url": "https://open.spotify.com/album/68P4kgJpgPfw0FflrDVh5X"
       },
@@ -899,42 +899,6 @@
       "duration_ms": 143203,
       "name": "Als Ik Naar Malaga Ga",
       "url": "https://open.spotify.com/track/7xkDCLLtAYQ4nHjOIKXnZ6"
-    },
-    {
-      "added_at": "2026-02-03 23:00:20",
-      "album": {
-        "name": "Het Lijkt Hier Wel Ibiza",
-        "url": "https://open.spotify.com/album/6njQsNf4hEvlm2HOY7XLyg"
-      },
-      "artists": [
-        {
-          "name": "Jaman",
-          "url": "https://open.spotify.com/artist/6VIHmm4hJ3OG1yy9fGbECD"
-        },
-        {
-          "name": "Lange Frans",
-          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
-        }
-      ],
-      "duration_ms": 146514,
-      "name": "Het Lijkt Hier Wel Ibiza",
-      "url": "https://open.spotify.com/track/3vz8UKPERttXraKTnrGyAL"
-    },
-    {
-      "added_at": "2026-02-03 23:00:20",
-      "album": {
-        "name": "Eiland",
-        "url": "https://open.spotify.com/album/25DezsXXxdzEQolme5PAHV"
-      },
-      "artists": [
-        {
-          "name": "Billy Dans",
-          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
-        }
-      ],
-      "duration_ms": 126239,
-      "name": "Eiland",
-      "url": "https://open.spotify.com/track/6fTi4RA3zwCjmtcx2cUoCD"
     },
     {
       "added_at": "2026-02-03 23:00:20",
@@ -963,6 +927,22 @@
       "duration_ms": 205448,
       "name": "(Die Man Is) Verliefd - Bonte Carlo - Holiday Remix",
       "url": "https://open.spotify.com/track/21zH6hBqyOu64HWOLkOPqx"
+    },
+    {
+      "added_at": "2026-02-03 23:00:20",
+      "album": {
+        "name": "Eiland",
+        "url": "https://open.spotify.com/album/25DezsXXxdzEQolme5PAHV"
+      },
+      "artists": [
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        }
+      ],
+      "duration_ms": 126239,
+      "name": "Eiland",
+      "url": "https://open.spotify.com/track/6fTi4RA3zwCjmtcx2cUoCD"
     },
     {
       "added_at": "2026-02-03 23:00:20",
@@ -1171,18 +1151,18 @@
     {
       "added_at": "2026-02-03 23:00:20",
       "album": {
-        "name": "Zomernacht In Griekenland",
-        "url": "https://open.spotify.com/album/6syoR5A01q6GRRsiX8gKzD"
+        "name": "M\u00e1s M\u00e1s M\u00e1s",
+        "url": "https://open.spotify.com/album/01hHnT4Hmzju6oF6Cyq9XM"
       },
       "artists": [
         {
-          "name": "Marco Schuitmaker",
-          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
+          "name": "Rolf Sanchez",
+          "url": "https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws"
         }
       ],
-      "duration_ms": 167002,
-      "name": "Zomernacht In Griekenland",
-      "url": "https://open.spotify.com/track/3OpUqZZuzcibtcWqgyCyPn"
+      "duration_ms": 154332,
+      "name": "M\u00e1s M\u00e1s M\u00e1s",
+      "url": "https://open.spotify.com/track/28hEtjNvlDhtb38fgXsLRa"
     },
     {
       "added_at": "2026-02-03 23:00:20",
@@ -1203,18 +1183,18 @@
     {
       "added_at": "2026-02-03 23:00:20",
       "album": {
-        "name": "M\u00e1s M\u00e1s M\u00e1s",
-        "url": "https://open.spotify.com/album/01hHnT4Hmzju6oF6Cyq9XM"
+        "name": "Zomernacht In Griekenland",
+        "url": "https://open.spotify.com/album/6syoR5A01q6GRRsiX8gKzD"
       },
       "artists": [
         {
-          "name": "Rolf Sanchez",
-          "url": "https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws"
+          "name": "Marco Schuitmaker",
+          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
         }
       ],
-      "duration_ms": 154332,
-      "name": "M\u00e1s M\u00e1s M\u00e1s",
-      "url": "https://open.spotify.com/track/28hEtjNvlDhtb38fgXsLRa"
+      "duration_ms": 167002,
+      "name": "Zomernacht In Griekenland",
+      "url": "https://open.spotify.com/track/3OpUqZZuzcibtcWqgyCyPn"
     },
     {
       "added_at": "2026-02-03 23:00:20",
@@ -1255,22 +1235,18 @@
     {
       "added_at": "2026-02-03 23:00:20",
       "album": {
-        "name": "Ruggengraat",
-        "url": "https://open.spotify.com/album/3JVuWFwn71zVGhyMKyw85V"
+        "name": "Seizoenen",
+        "url": "https://open.spotify.com/album/6O6pOwgtsdIF0CioNutqV0"
       },
       "artists": [
         {
-          "name": "Snelle",
-          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
-        },
-        {
-          "name": "Kraantje Pappie",
-          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+          "name": "Shary-An",
+          "url": "https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc"
         }
       ],
-      "duration_ms": 154003,
-      "name": "Ruggengraat",
-      "url": "https://open.spotify.com/track/0rLMwM9J5DkkucxXByncSZ"
+      "duration_ms": 187941,
+      "name": "Seizoenen",
+      "url": "https://open.spotify.com/track/4GrHcWRKOwq3DWu8F9OryT"
     },
     {
       "added_at": "2026-02-03 23:00:20",
@@ -1291,18 +1267,22 @@
     {
       "added_at": "2026-02-03 23:00:20",
       "album": {
-        "name": "Seizoenen",
-        "url": "https://open.spotify.com/album/6O6pOwgtsdIF0CioNutqV0"
+        "name": "Ruggengraat",
+        "url": "https://open.spotify.com/album/3JVuWFwn71zVGhyMKyw85V"
       },
       "artists": [
         {
-          "name": "Shary-An",
-          "url": "https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc"
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        },
+        {
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
         }
       ],
-      "duration_ms": 187941,
-      "name": "Seizoenen",
-      "url": "https://open.spotify.com/track/4GrHcWRKOwq3DWu8F9OryT"
+      "duration_ms": 154003,
+      "name": "Ruggengraat",
+      "url": "https://open.spotify.com/track/0rLMwM9J5DkkucxXByncSZ"
     },
     {
       "added_at": "2026-02-03 23:00:20",
@@ -1335,6 +1315,22 @@
       "duration_ms": 172385,
       "name": "Un Chance",
       "url": "https://open.spotify.com/track/2r1MMDskd8NazaS6EgIhy8"
+    },
+    {
+      "added_at": "2026-02-03 23:00:20",
+      "album": {
+        "name": "Pepas",
+        "url": "https://open.spotify.com/album/5H5fc6WgOibuRqExv8sWf4"
+      },
+      "artists": [
+        {
+          "name": "BENR",
+          "url": "https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/7BGLmRLEfZC58QPAPAikIb"
     }
   ],
   "unique_name": "Nederlandse Zomerhits 2026",

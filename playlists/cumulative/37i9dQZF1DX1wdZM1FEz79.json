@@ -5362,7 +5362,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 113546,
       "name": "Laughter Hole",
       "url": "https://open.spotify.com/track/17zAtRJmpPI944OijlvkO9"
@@ -7372,6 +7372,24 @@
       "duration_ms": 241858,
       "name": "Paper Plane",
       "url": "https://open.spotify.com/track/3Svzw7s61quYcD77evcW3p"
+    },
+    {
+      "album": {
+        "name": "End of the Month, Jang Beom June (February 2026) - PC Room",
+        "url": "https://open.spotify.com/album/2oajUegRsqXyGidxxbPzt6"
+      },
+      "artists": [
+        {
+          "name": "Jang Beom June",
+          "url": "https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193881,
+      "name": "PC Room",
+      "url": "https://open.spotify.com/track/0CDrH0mwXPAsPwaDUx5U8u"
     },
     {
       "album": {

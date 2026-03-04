@@ -1350,7 +1350,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 629142,
       "name": "Atmosphere Is Shifting - Live",
       "url": "https://open.spotify.com/track/0U42klnqrGN9WIqWMmBAbL"
@@ -6764,7 +6764,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 519003,
       "name": "Imole Aye",
       "url": "https://open.spotify.com/track/3UcvlbPqazMNOrLz2PDHMO"
@@ -13182,7 +13182,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 322255,
       "name": "TURNING AROUND",
       "url": "https://open.spotify.com/track/6hrLilhSwvVNplz9aV6QAE"
@@ -13994,6 +13994,24 @@
       "duration_ms": 194580,
       "name": "What Are We Waiting For? (The Single)",
       "url": "https://open.spotify.com/track/1PILWAtGLdG772MCA51sZ6"
+    },
+    {
+      "album": {
+        "name": "What I Need",
+        "url": "https://open.spotify.com/album/3AtNtoPcgW71xzuzgSwk1q"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171158,
+      "name": "What I Need",
+      "url": "https://open.spotify.com/track/0LTdWXf4krvXCHdEbJIHRl"
     },
     {
       "album": {

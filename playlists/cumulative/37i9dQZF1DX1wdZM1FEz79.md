@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 예빛 \(Yebit\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-662 songs - 1 day 14 hr 55 min
+663 songs - 1 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,7 @@
 | [Last](https://open.spotify.com/track/2ZrKUv6I0r52XuDNYPULps) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [Miles Apart](https://open.spotify.com/album/1OmyHS4uPSMbqeHWw2G5CK) | 4:06 | 2022-03-31 | 2022-04-13 |
 | [Late Night Walk](https://open.spotify.com/track/3pzyC2zklDL1GFW41lWoWm) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.6 \[Late Night Walk\]](https://open.spotify.com/album/5IP9ctHpvSgG0YmR2Y5rAg) | 3:54 | 2024-04-26 | 2025-02-12 |
 | [Late Night Workout](https://open.spotify.com/track/65yx3grfHnTFhJPuYVi2QF) | [Jo So Hyun](https://open.spotify.com/artist/4voH4qkhBVtoXgQbGOnfTF) | [Late Night Workout](https://open.spotify.com/album/7cjr2FSE05LdsoCLgR2xkZ) | 2:29 | 2024-03-06 | 2024-03-16 |
-| [Laughter Hole](https://open.spotify.com/track/17zAtRJmpPI944OijlvkO9) | [Kim Chang\-Wan](https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH) | [Laughter Hole](https://open.spotify.com/album/2ezqWlNqgz4pXJgubNGa6K) | 1:53 | 2026-02-26 |  |
+| [Laughter Hole](https://open.spotify.com/track/17zAtRJmpPI944OijlvkO9) | [Kim Chang\-Wan](https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH) | [Laughter Hole](https://open.spotify.com/album/2ezqWlNqgz4pXJgubNGa6K) | 1:53 | 2026-02-26 | 2026-03-04 |
 | [Leave like this](https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy) | [Seokman Cheon](https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0), [Inyu](https://open.spotify.com/artist/4uVDPhjO1wDe5AEptC6wo2) | [Leave like this](https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ) | 3:25 | 2022-09-05 | 2022-09-28 |
 | [LEGO\(Let's Go\)](https://open.spotify.com/track/6LBaBhUnFywBr4HP6a5RDM) | [curv moon](https://open.spotify.com/artist/5Lv4ukV1IsTbFO3WupJRL4) | [LEGO\(Let's Go\)](https://open.spotify.com/album/7IMiyn6pyeKOX4GXTIk4M8) | 1:53 | 2022-08-18 | 2022-09-03 |
 | [Let It Pale](https://open.spotify.com/track/6fa1F99fDdvb6jsQZnzJsf) | [Sunbee](https://open.spotify.com/artist/5mWU6kFLkz7K2EBa3w7X8k) | [Sketch, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/12OnMHfBUbSNDwuRpO3MPe) | 2:46 | 2022-03-31 | 2022-04-14 |
@@ -403,6 +403,7 @@
 | [Paint](https://open.spotify.com/track/4lthTadTs7WMkpn9w2krk4) | [MoonMoon](https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV) | [Paint](https://open.spotify.com/album/5jxRZ8YZanMKXowrQVYf3A) | 3:08 | 2022-07-08 | 2024-04-19 |
 | [Paints \(feat\. 1ho\)](https://open.spotify.com/track/4OtqERJlgW34oCFGZVmkF7) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [GODAK](https://open.spotify.com/artist/1ul4BJWyGZ6DGJcQ2LoFrn), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g) | [Paints \(feat\. 1ho\)](https://open.spotify.com/album/5zPPNCnontFzam8kszcCIZ) | 3:02 | 2022-03-31 | 2022-04-21 |
 | [Paper Plane](https://open.spotify.com/track/3Svzw7s61quYcD77evcW3p) | [Swan](https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM) | [In the End of Winter](https://open.spotify.com/album/2OdCK6gCCjJd31DKLH76pW) | 4:01 | 2022-03-31 | 2022-04-14 |
+| [PC Room](https://open.spotify.com/track/0CDrH0mwXPAsPwaDUx5U8u) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [End of the Month, Jang Beom June \(February 2026\) \- PC Room](https://open.spotify.com/album/2oajUegRsqXyGidxxbPzt6) | 3:13 | 2026-03-03 |  |
 | [Perhaps](https://open.spotify.com/track/4pawkVuIEMJX1NMQjZq2Al) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Perhaps](https://open.spotify.com/album/6q3yMOtkLEpTGkEmFsJxbT) | 3:03 | 2025-01-02 | 2025-01-10 |
 | [Perhaps here](https://open.spotify.com/track/7DyJ2hn51jaHlmEm3ik5rQ) | [Kim Do Yeon](https://open.spotify.com/artist/1pUCZRd6GiVJTcQncoZmSF) | [Perhaps here](https://open.spotify.com/album/48H2QWLMT5SmjwoL0k5LIs) | 2:49 | 2025-10-02 | 2025-10-10 |
 | [PET](https://open.spotify.com/track/4ENLJt3lo1gHeCwzas8om1) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [50 X HALF](https://open.spotify.com/album/6Gb67WVk3hjMcQ6WhQmuRK) | 3:41 | 2022-03-31 | 2022-04-21 |

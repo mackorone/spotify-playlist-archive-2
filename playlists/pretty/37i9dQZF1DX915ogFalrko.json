@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 186596,
+  "num_followers": 186591,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-02-27 15:05:59",
       "album": {
-        "name": "The Banjo Song",
-        "url": "https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "The Banjo Song",
-      "url": "https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1"
-    },
-    {
-      "added_at": "2026-02-27 15:05:59",
-      "album": {
         "name": "Odyss\u00e9e - EP",
         "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 248892,
       "name": "Agitations tropicales",
       "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
+    },
+    {
+      "added_at": "2026-02-27 15:05:59",
+      "album": {
+        "name": "The Banjo Song",
+        "url": "https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "The Banjo Song",
+      "url": "https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1"
     },
     {
       "added_at": "2026-02-27 15:05:59",
@@ -619,18 +619,18 @@
     {
       "added_at": "2026-02-27 15:05:59",
       "album": {
-        "name": "Lonely Touch",
-        "url": "https://open.spotify.com/album/3bTsSlLyqN9zKDR1JBXjYM"
+        "name": "Slow Tonight",
+        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
       },
       "artists": [
         {
-          "name": "Sarah Kinsley",
-          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 201813,
-      "name": "Lonely Touch",
-      "url": "https://open.spotify.com/track/1lQhXkh6tMrYYvIOAv6GNX"
+      "duration_ms": 192495,
+      "name": "Slow Tonight",
+      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
     },
     {
       "added_at": "2026-02-27 15:05:59",
@@ -647,6 +647,22 @@
       "duration_ms": 157333,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/42AsgO0005lineLVc1aSOL"
+    },
+    {
+      "added_at": "2026-02-27 15:05:59",
+      "album": {
+        "name": "Lonely Touch",
+        "url": "https://open.spotify.com/album/3bTsSlLyqN9zKDR1JBXjYM"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kinsley",
+          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
+        }
+      ],
+      "duration_ms": 201813,
+      "name": "Lonely Touch",
+      "url": "https://open.spotify.com/track/1lQhXkh6tMrYYvIOAv6GNX"
     },
     {
       "added_at": "2026-02-27 15:05:59",
@@ -727,22 +743,6 @@
     {
       "added_at": "2026-02-27 15:05:59",
       "album": {
-        "name": "Slow Tonight",
-        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 192495,
-      "name": "Slow Tonight",
-      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
-    },
-    {
-      "added_at": "2026-02-27 15:05:59",
-      "album": {
         "name": "This Is The World (I Made It For You) / Nice Day",
         "url": "https://open.spotify.com/album/4vWx8nV08q3lSTpwZJZQMf"
       },
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-02-27 15:05:59",
       "album": {
+        "name": "These Nights",
+        "url": "https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 279183,
+      "name": "These Nights",
+      "url": "https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms"
+    },
+    {
+      "added_at": "2026-02-27 15:05:59",
+      "album": {
         "name": "Late Night Feelings (feat. Lykke Li)",
         "url": "https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 187762,
       "name": "Belle \u00e2me",
       "url": "https://open.spotify.com/track/0bu7lHmTzz2iBzqbT84olJ"
-    },
-    {
-      "added_at": "2026-02-27 15:05:59",
-      "album": {
-        "name": "These Nights",
-        "url": "https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 279183,
-      "name": "These Nights",
-      "url": "https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms"
     },
     {
       "added_at": "2026-02-27 15:05:59",
@@ -903,6 +903,22 @@
     {
       "added_at": "2026-02-27 15:05:59",
       "album": {
+        "name": "AngieAngieAngie",
+        "url": "https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 139363,
+      "name": "Roamer",
+      "url": "https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ"
+    },
+    {
+      "added_at": "2026-02-27 15:05:59",
+      "album": {
         "name": "Gran Paradiso",
         "url": "https://open.spotify.com/album/4e8YIEAGQlDLpka8wkiZBM"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 195136,
       "name": "Shala-Lala-La",
       "url": "https://open.spotify.com/track/3fv0dIDalzlgaLRAvaBobT"
-    },
-    {
-      "added_at": "2026-02-27 15:05:59",
-      "album": {
-        "name": "AngieAngieAngie",
-        "url": "https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 139363,
-      "name": "Roamer",
-      "url": "https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ"
     },
     {
       "added_at": "2026-02-27 15:05:59",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-02-27 15:05:59",
       "album": {
-        "name": "Hits the Hits",
-        "url": "https://open.spotify.com/album/0IFvRYxkygLMSqmaZjWxjo"
-      },
-      "artists": [
-        {
-          "name": "Shawn Lee's Ping Pong Orchestra",
-          "url": "https://open.spotify.com/artist/4a9trpOGiMh1H2xMOiDYLR"
-        }
-      ],
-      "duration_ms": 231706,
-      "name": "Let Me Blow Your Mind",
-      "url": "https://open.spotify.com/track/2AVSMY96UVuDYjtaE4Je7H"
-    },
-    {
-      "added_at": "2026-02-27 15:05:59",
-      "album": {
         "name": "found u/me",
         "url": "https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 169818,
       "name": "found u/me",
       "url": "https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX"
+    },
+    {
+      "added_at": "2026-02-27 15:05:59",
+      "album": {
+        "name": "Hits the Hits",
+        "url": "https://open.spotify.com/album/0IFvRYxkygLMSqmaZjWxjo"
+      },
+      "artists": [
+        {
+          "name": "Shawn Lee's Ping Pong Orchestra",
+          "url": "https://open.spotify.com/artist/4a9trpOGiMh1H2xMOiDYLR"
+        }
+      ],
+      "duration_ms": 231706,
+      "name": "Let Me Blow Your Mind",
+      "url": "https://open.spotify.com/track/2AVSMY96UVuDYjtaE4Je7H"
     },
     {
       "added_at": "2026-02-27 15:05:59",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-02-27 15:05:59",
       "album": {
-        "name": "Can't Help Myself",
-        "url": "https://open.spotify.com/album/0BSru0mLqK04SfTZQiQ9PA"
-      },
-      "artists": [
-        {
-          "name": "Snazzy",
-          "url": "https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy"
-        }
-      ],
-      "duration_ms": 138181,
-      "name": "Can't Help Myself",
-      "url": "https://open.spotify.com/track/5pUfdVxE1331e8ugacRv4v"
-    },
-    {
-      "added_at": "2026-02-27 15:05:59",
-      "album": {
         "name": "Umoja",
         "url": "https://open.spotify.com/album/0gvs6tpyGn2LuvkRwmMdAA"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 282765,
       "name": "Sua Alma",
       "url": "https://open.spotify.com/track/1ooPkv9QwTUjkErmsDVLyB"
+    },
+    {
+      "added_at": "2026-02-27 15:05:59",
+      "album": {
+        "name": "Can't Help Myself",
+        "url": "https://open.spotify.com/album/0BSru0mLqK04SfTZQiQ9PA"
+      },
+      "artists": [
+        {
+          "name": "Snazzy",
+          "url": "https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy"
+        }
+      ],
+      "duration_ms": 138181,
+      "name": "Can't Help Myself",
+      "url": "https://open.spotify.com/track/5pUfdVxE1331e8ugacRv4v"
     },
     {
       "added_at": "2026-02-27 15:05:59",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2026-02-27 15:05:59",
       "album": {
+        "name": "willow",
+        "url": "https://open.spotify.com/album/34H26omESs9CrxasleR1Cy"
+      },
+      "artists": [
+        {
+          "name": "she's green",
+          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
+        }
+      ],
+      "duration_ms": 155480,
+      "name": "willow",
+      "url": "https://open.spotify.com/track/5DVPSIVpyp8D80XsgRkmjN"
+    },
+    {
+      "added_at": "2026-02-27 15:05:59",
+      "album": {
         "name": "Edge of the Earth",
         "url": "https://open.spotify.com/album/1WljWKt77EMsgjRdnMfUHN"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 220348,
       "name": "Edge of the Earth",
       "url": "https://open.spotify.com/track/3GzhyEkF7m89mVv3BUJh8N"
-    },
-    {
-      "added_at": "2026-02-27 15:05:59",
-      "album": {
-        "name": "Willow",
-        "url": "https://open.spotify.com/album/34H26omESs9CrxasleR1Cy"
-      },
-      "artists": [
-        {
-          "name": "she's green",
-          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
-        }
-      ],
-      "duration_ms": 155480,
-      "name": "Willow",
-      "url": "https://open.spotify.com/track/5DVPSIVpyp8D80XsgRkmjN"
     },
     {
       "added_at": "2026-02-27 15:05:59",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2026-02-27 15:05:59",
       "album": {
-        "name": "The 5th Exotic",
-        "url": "https://open.spotify.com/album/2tMQ2DeB9RydEFl1gcRkHb"
+        "name": "Hopes",
+        "url": "https://open.spotify.com/album/7DwxsnVF7eErIgNNxLiT7H"
       },
       "artists": [
         {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+          "name": "Broken Back",
+          "url": "https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV"
         }
       ],
-      "duration_ms": 219880,
-      "name": "Time Is the Enemy",
-      "url": "https://open.spotify.com/track/24ylIO48nRsdaONlM8l2HF"
+      "duration_ms": 164500,
+      "name": "Hopes",
+      "url": "https://open.spotify.com/track/4VpZuQybRG17RNjhgVbym7"
     },
     {
       "added_at": "2026-02-27 15:05:59",

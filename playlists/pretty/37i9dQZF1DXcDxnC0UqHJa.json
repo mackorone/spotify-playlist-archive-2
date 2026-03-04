@@ -1,6 +1,6 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: The Brudi Brothers",
-  "num_followers": 445451,
+  "num_followers": 445413,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
@@ -1063,26 +1063,18 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "There Is A War [Feat. Kevin Morby & Sam Cohen]",
-        "url": "https://open.spotify.com/album/0lk3T7UZlCQBhVZeizAWbP"
+        "name": "Ohio / After The Gold Rush",
+        "url": "https://open.spotify.com/album/0DstfAvDUGVokiUpr8k2ci"
       },
       "artists": [
         {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
-        },
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        },
-        {
-          "name": "Sam Cohen",
-          "url": "https://open.spotify.com/artist/4c2FMMHkUGurATiPhTKqHP"
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
         }
       ],
-      "duration_ms": 222996,
-      "name": "There Is A War [Feat. Kevin Morby & Sam Cohen]",
-      "url": "https://open.spotify.com/track/6OmnOaeTaE6KGtsEaw6Lit"
+      "duration_ms": 294142,
+      "name": "After The Gold Rush",
+      "url": "https://open.spotify.com/track/0YDtSXyLnPVYSl31N3bF54"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -1103,18 +1095,26 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "Ohio / After The Gold Rush",
-        "url": "https://open.spotify.com/album/0DstfAvDUGVokiUpr8k2ci"
+        "name": "There Is A War [Feat. Kevin Morby & Sam Cohen]",
+        "url": "https://open.spotify.com/album/0lk3T7UZlCQBhVZeizAWbP"
       },
       "artists": [
         {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        },
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        },
+        {
+          "name": "Sam Cohen",
+          "url": "https://open.spotify.com/artist/4c2FMMHkUGurATiPhTKqHP"
         }
       ],
-      "duration_ms": 294142,
-      "name": "After The Gold Rush",
-      "url": "https://open.spotify.com/track/0YDtSXyLnPVYSl31N3bF54"
+      "duration_ms": 222996,
+      "name": "There Is A War [Feat. Kevin Morby & Sam Cohen]",
+      "url": "https://open.spotify.com/track/6OmnOaeTaE6KGtsEaw6Lit"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "Your Song (Vapor IKEA Commercial)",
-        "url": "https://open.spotify.com/album/1CVNCYg5s5bYeIbIUM4EUg"
-      },
-      "artists": [
-        {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
-        }
-      ],
-      "duration_ms": 110110,
-      "name": "Your Song (Vapor IKEA Commercial)",
-      "url": "https://open.spotify.com/track/0U33bmLq4Qjrdwzz0uQiVJ"
-    },
-    {
-      "added_at": "2026-01-23 15:42:24",
-      "album": {
         "name": "True Love Will Find You In The End",
         "url": "https://open.spotify.com/album/20mtg0Xbs9vwuzqVsVNAKL"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 165306,
       "name": "True Love Will Find You In The End",
       "url": "https://open.spotify.com/track/2QdzHAm5fq0v7lOuC3XImf"
+    },
+    {
+      "added_at": "2026-01-23 15:42:24",
+      "album": {
+        "name": "Your Song (Vapor IKEA Commercial)",
+        "url": "https://open.spotify.com/album/1CVNCYg5s5bYeIbIUM4EUg"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "duration_ms": 110110,
+      "name": "Your Song (Vapor IKEA Commercial)",
+      "url": "https://open.spotify.com/track/0U33bmLq4Qjrdwzz0uQiVJ"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "We Don't Eat",
-        "url": "https://open.spotify.com/album/0F9QZJSssWELg5ZTJp1NQy"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 215589,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/35dMUmp6Jh3AE9IaqM0Osn"
-    },
-    {
-      "added_at": "2026-01-23 15:42:24",
-      "album": {
         "name": "i'm not okay",
         "url": "https://open.spotify.com/album/7bLH8PFvqdSnlMkdiaJCCa"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 174773,
       "name": "i'm not okay",
       "url": "https://open.spotify.com/track/7dGvMClz3JuBUs6qWfaqye"
+    },
+    {
+      "added_at": "2026-01-23 15:42:24",
+      "album": {
+        "name": "We Don't Eat",
+        "url": "https://open.spotify.com/album/0F9QZJSssWELg5ZTJp1NQy"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 215589,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/35dMUmp6Jh3AE9IaqM0Osn"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -1919,6 +1919,22 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
+        "name": "End of Beginning",
+        "url": "https://open.spotify.com/album/5tjpF9DZGffUXhiKPw2BkR"
+      },
+      "artists": [
+        {
+          "name": "Jake Etheridge",
+          "url": "https://open.spotify.com/artist/6NTfV2oeuJfkni8EK3Tr2f"
+        }
+      ],
+      "duration_ms": 170062,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/6cRsC2XATsCf8nnAbI98Sk"
+    },
+    {
+      "added_at": "2026-01-23 15:42:24",
+      "album": {
         "name": "Cover to Cover",
         "url": "https://open.spotify.com/album/4N2eJ7m1ziNW5ODI6jGOTB"
       },
@@ -1947,26 +1963,6 @@
       "duration_ms": 194251,
       "name": "God Only Knows",
       "url": "https://open.spotify.com/track/2p5BCQgKl8w7SWRUY3H1w8"
-    },
-    {
-      "added_at": "2026-01-23 15:42:24",
-      "album": {
-        "name": "Someone Like You",
-        "url": "https://open.spotify.com/album/7hkImNgsAoOS5CtitpnFOb"
-      },
-      "artists": [
-        {
-          "name": "Dan Wilson",
-          "url": "https://open.spotify.com/artist/045EiHd7X7cCjlamF0LV2M"
-        },
-        {
-          "name": "Kronos Quartet",
-          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
-        }
-      ],
-      "duration_ms": 291093,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/3S7BZqv1qZO5hxku8u8fqB"
     }
   ],
   "unique_name": "Folksy Covers",

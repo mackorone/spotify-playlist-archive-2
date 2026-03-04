@@ -171,6 +171,28 @@
     },
     {
       "album": {
+        "name": "\u300e\u5287\u5834\u7248 \u8ee2\u751f\u3057\u305f\u3089\u30b9\u30e9\u30a4\u30e0\u3060\u3063\u305f\u4ef6 \u84bc\u6d77\u306e\u6d99\u7de8\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u8ee2\u751f\u3057\u305f\u3089\u6620\u753b\u306e\u97f3\u697d\u3060\u3063\u305f\u4ef6\uff12\u300d",
+        "url": "https://open.spotify.com/album/29Ym005E2HuYDvG8BqeLlU"
+      },
+      "artists": [
+        {
+          "name": "STEREO DIVE FOUNDATION",
+          "url": "https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP"
+        },
+        {
+          "name": "ASH",
+          "url": "https://open.spotify.com/artist/7ipJyP4vRUwlGvYNkjpsja"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263874,
+      "name": "Harmonics",
+      "url": "https://open.spotify.com/track/5LUThwEPVewsjAzbb64HO5"
+    },
+    {
+      "album": {
         "name": "My Journey",
         "url": "https://open.spotify.com/album/78xcCfTKnMuCjukZaOayf0"
       },
@@ -735,6 +757,24 @@
     },
     {
       "album": {
+        "name": "\u300e\u5287\u5834\u7248 \u8ee2\u751f\u3057\u305f\u3089\u30b9\u30e9\u30a4\u30e0\u3060\u3063\u305f\u4ef6 \u84bc\u6d77\u306e\u6d99\u7de8\u300f\u4e3b\u984c\u6b4c\u30fb\u633f\u5165\u6b4c\u30b7\u30f3\u30b0\u30eb\u300c\u84bc\u6d77\u306e\u63fa\u3089\u3081\u304d\u300d",
+        "url": "https://open.spotify.com/album/5cWekIJNPcnymMOV3HhWZP"
+      },
+      "artists": [
+        {
+          "name": "TRUE",
+          "url": "https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211610,
+      "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+      "url": "https://open.spotify.com/track/4tF4GlyY2HWvWSyspXoBuS"
+    },
+    {
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u8ee2\u751f\u3057\u305f\u3089\u30b9\u30e9\u30a4\u30e0\u3060\u3063\u305f\u4ef6 \u8ee2\u30b9\u30e9\u65e5\u8a18\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u8ee2\u751f\u3057\u305f\u3089\u65e5\u8a18\u306e\u97f3\u697d\u3060\u3063\u305f\u4ef6\u300d",
         "url": "https://open.spotify.com/album/4DmwwIRMT6y1zlzsN9JbHi"
       },
@@ -822,6 +862,24 @@
       "duration_ms": 249345,
       "name": "\u30ec\u30ca\u30bb\u30fc\u30eb\u30bb\u30ec\u30ca\u30fc\u30c7",
       "url": "https://open.spotify.com/track/4LiRiw0zRSf9fN3QEf0fN3"
+    },
+    {
+      "album": {
+        "name": "\u30ec\u30f3\u30a2\u30a4\u30ce\u30fc",
+        "url": "https://open.spotify.com/album/6kxHpNewwt5rQuoJksDrsJ"
+      },
+      "artists": [
+        {
+          "name": "ARCANA PROJECT",
+          "url": "https://open.spotify.com/artist/33nBmWfW7J3vL487uRL8Cz"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217120,
+      "name": "\u30ec\u30f3\u30a2\u30a4\u30ce\u30fc",
+      "url": "https://open.spotify.com/track/6nej6TvypfLUnGwOmTfIUe"
     },
     {
       "album": {

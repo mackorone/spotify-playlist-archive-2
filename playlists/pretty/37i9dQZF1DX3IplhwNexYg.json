@@ -1,6 +1,6 @@
 {
   "description": "The best in current indie rock. Cover: Phantastic Ferniture",
-  "num_followers": 114155,
+  "num_followers": 114148,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Peace Song",
-        "url": "https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm"
-      },
-      "artists": [
-        {
-          "name": "Fat Dog",
-          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
-        }
-      ],
-      "duration_ms": 190784,
-      "name": "Peace Song",
-      "url": "https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "Empty Words",
         "url": "https://open.spotify.com/album/3qA0YD7inXnMoZySJcSK2Y"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 169850,
       "name": "Empty Words",
       "url": "https://open.spotify.com/track/1wCeYLO97jxvaSpihs5JpT"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "Peace Song",
+        "url": "https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "duration_ms": 190784,
+      "name": "Peace Song",
+      "url": "https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Hey You",
-        "url": "https://open.spotify.com/album/2Pc6Rp4Z3XZNBKehRu9ge2"
-      },
-      "artists": [
-        {
-          "name": "The Belair Lip Bombs",
-          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
-        }
-      ],
-      "duration_ms": 211313,
-      "name": "Hey You",
-      "url": "https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/3n5sboJ3wcVFlTFyKQdPv0"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 237586,
       "name": "Burn",
       "url": "https://open.spotify.com/track/0mihCpyBVzu79KXizfhtg5"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "Hey You",
+        "url": "https://open.spotify.com/album/2Pc6Rp4Z3XZNBKehRu9ge2"
+      },
+      "artists": [
+        {
+          "name": "The Belair Lip Bombs",
+          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
+        }
+      ],
+      "duration_ms": 211313,
+      "name": "Hey You",
+      "url": "https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -927,7 +927,7 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Willow",
+        "name": "willow",
         "url": "https://open.spotify.com/album/34H26omESs9CrxasleR1Cy"
       },
       "artists": [
@@ -937,24 +937,8 @@
         }
       ],
       "duration_ms": 155480,
-      "name": "Willow",
+      "name": "willow",
       "url": "https://open.spotify.com/track/5DVPSIVpyp8D80XsgRkmjN"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
-        "name": "SAYA",
-        "url": "https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE"
-      },
-      "artists": [
-        {
-          "name": "Saya Gray",
-          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
-        }
-      ],
-      "duration_ms": 310965,
-      "name": "EXHAUST THE TOPIC",
-      "url": "https://open.spotify.com/track/6mK1tNEFc23r92Aa663GRq"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -975,6 +959,22 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
+        "name": "SAYA",
+        "url": "https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "duration_ms": 310965,
+      "name": "EXHAUST THE TOPIC",
+      "url": "https://open.spotify.com/track/6mK1tNEFc23r92Aa663GRq"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
         "name": "Clueless",
         "url": "https://open.spotify.com/album/2H3XOt3oaqB6rAVKhmdUd3"
       },
@@ -991,18 +991,18 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "What Do We Ever Really Know?",
-        "url": "https://open.spotify.com/album/3yfY2tkI6g8WR2HfZBaQfv"
+        "name": "Precipice",
+        "url": "https://open.spotify.com/album/7vVrYkdm0bPgguWN8rQu8x"
       },
       "artists": [
         {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
         }
       ],
-      "duration_ms": 233000,
-      "name": "What Do We Ever Really Know?",
-      "url": "https://open.spotify.com/track/1nyCxSZlwqP4Dj6yu5r24b"
+      "duration_ms": 151867,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/4e63OHfw9CGC6WLXMvNHWJ"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Precipice",
-        "url": "https://open.spotify.com/album/7vVrYkdm0bPgguWN8rQu8x"
+        "name": "What Do We Ever Really Know?",
+        "url": "https://open.spotify.com/album/3yfY2tkI6g8WR2HfZBaQfv"
       },
       "artists": [
         {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
         }
       ],
-      "duration_ms": 151867,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/4e63OHfw9CGC6WLXMvNHWJ"
+      "duration_ms": 233000,
+      "name": "What Do We Ever Really Know?",
+      "url": "https://open.spotify.com/track/1nyCxSZlwqP4Dj6yu5r24b"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/4OwB45W8PEKoMgWk4vLpzW"
-      },
-      "artists": [
-        {
-          "name": "Been Stellar",
-          "url": "https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh"
-        }
-      ],
-      "duration_ms": 193993,
-      "name": "Breakaway",
-      "url": "https://open.spotify.com/track/4l4ZcaqSRHe0gq10eIPFzJ"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/2ahECDJ7RaEDeFH8dK19x9"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 133003,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/5qGF9n1aXKPRGJnbgkXiFn"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/4OwB45W8PEKoMgWk4vLpzW"
+      },
+      "artists": [
+        {
+          "name": "Been Stellar",
+          "url": "https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh"
+        }
+      ],
+      "duration_ms": 193993,
+      "name": "Breakaway",
+      "url": "https://open.spotify.com/track/4l4ZcaqSRHe0gq10eIPFzJ"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Phonetics On and On",
-        "url": "https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc"
-      },
-      "artists": [
-        {
-          "name": "Horsegirl",
-          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
-        }
-      ],
-      "duration_ms": 172542,
-      "name": "Frontrunner",
-      "url": "https://open.spotify.com/track/0zWfDeOJvTkHWfLWSsbFqe"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "Blood On The Hospital Floor",
         "url": "https://open.spotify.com/album/1Fn4QYdXIwFfTJ7HFDEgw0"
       },
@@ -1583,6 +1567,38 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
+        "name": "Phonetics On and On",
+        "url": "https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc"
+      },
+      "artists": [
+        {
+          "name": "Horsegirl",
+          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
+        }
+      ],
+      "duration_ms": 172542,
+      "name": "Frontrunner",
+      "url": "https://open.spotify.com/track/0zWfDeOJvTkHWfLWSsbFqe"
+    },
+    {
+      "added_at": "2025-10-03 13:34:33",
+      "album": {
+        "name": "steamroller",
+        "url": "https://open.spotify.com/album/2VUuUIOLNcmGAiL0hfgHoP"
+      },
+      "artists": [
+        {
+          "name": "better joy",
+          "url": "https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL"
+        }
+      ],
+      "duration_ms": 190165,
+      "name": "steamroller",
+      "url": "https://open.spotify.com/track/5CUEuD86qqiZuwUqhrtdNu"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 221412,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/1mVOpAtz7FjGNHvAYYqkVi"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
-        "name": "Soak",
-        "url": "https://open.spotify.com/album/1PGXOxv1Gb6NiWHmei4lWe"
-      },
-      "artists": [
-        {
-          "name": "Black Honey",
-          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
-        }
-      ],
-      "duration_ms": 214490,
-      "name": "Soak",
-      "url": "https://open.spotify.com/track/2ZX6kJnF1sFD24xzCrTqEt"
     }
   ],
   "unique_name": "pulp",

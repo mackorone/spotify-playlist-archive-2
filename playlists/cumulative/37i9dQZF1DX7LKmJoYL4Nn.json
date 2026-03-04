@@ -3680,7 +3680,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-04",
       "duration_ms": 280626,
       "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8\u30c7\u30a3\u30b9\u30b3",
       "url": "https://open.spotify.com/track/0Pmja2vH52EzqkJyxQltM7"
@@ -4566,6 +4566,24 @@
       "duration_ms": 260933,
       "name": "\u767e\u82b1\u7e5a\u4e71\u3001\u7d05\u6708\u591c (2025 ver.)",
       "url": "https://open.spotify.com/track/40CBtoFAQB16zgwkZfYRZf"
+    },
+    {
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Knights",
+        "url": "https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc"
+      },
+      "artists": [
+        {
+          "name": "\u6714\u9593\u51db\u6708(CV.\u5c71\u4e0b\u5927\u8f1d)",
+          "url": "https://open.spotify.com/artist/5ksafIFgV0EUvZ7HtoF4dK"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273213,
+      "name": "\u771f\u591c\u4e2d\u306e\u30ce\u30af\u30bf\u30fc\u30f3",
+      "url": "https://open.spotify.com/track/3m0lbqqJe8XuixarlhpKRq"
     },
     {
       "album": {

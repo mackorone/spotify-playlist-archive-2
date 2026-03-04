@@ -7861,6 +7861,24 @@
     },
     {
       "album": {
+        "name": "INSANE",
+        "url": "https://open.spotify.com/album/6t6r2yWgSCNsZQh3dtIUoJ"
+      },
+      "artists": [
+        {
+          "name": "Mercedes & Marxx",
+          "url": "https://open.spotify.com/artist/11Biva5YYueJ1lSg2UzoS8"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83869,
+      "name": "INSANE",
+      "url": "https://open.spotify.com/track/5zIvaDDVmix3RrE79Ifw6b"
+    },
+    {
+      "album": {
         "name": "Integration",
         "url": "https://open.spotify.com/album/4FaXkw9MRR791Q3weqGjj0"
       },

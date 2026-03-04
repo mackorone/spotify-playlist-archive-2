@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: CHO",
-  "num_followers": 140735,
+  "num_followers": 140736,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,30 @@
     {
       "added_at": "2026-02-19 23:00:43",
       "album": {
+        "name": "Hit me up (feat. Chavant\u00e9 & Kleine John)",
+        "url": "https://open.spotify.com/album/7FSH6pSfUO5wCZpFnszXV1"
+      },
+      "artists": [
+        {
+          "name": "KATNUF",
+          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
+        },
+        {
+          "name": "Chavant\u00e9",
+          "url": "https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN"
+        },
+        {
+          "name": "Kleine John",
+          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
+        }
+      ],
+      "duration_ms": 152615,
+      "name": "Hit me up (feat. Chavant\u00e9 & Kleine John)",
+      "url": "https://open.spotify.com/track/4IunKjJY3tOuERmzYufNcL"
+    },
+    {
+      "added_at": "2026-02-19 23:00:43",
+      "album": {
         "name": "The Baddest",
         "url": "https://open.spotify.com/album/7KPEH7yiNZ3qDFcozl1xTV"
       },
@@ -651,30 +675,6 @@
       "duration_ms": 171533,
       "name": "The Baddest",
       "url": "https://open.spotify.com/track/5L5wa7XXoPrleRSuwBiHHR"
-    },
-    {
-      "added_at": "2026-02-19 23:00:43",
-      "album": {
-        "name": "Hit me up (feat. Chavant\u00e9 & Kleine John)",
-        "url": "https://open.spotify.com/album/7FSH6pSfUO5wCZpFnszXV1"
-      },
-      "artists": [
-        {
-          "name": "KATNUF",
-          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
-        },
-        {
-          "name": "Chavant\u00e9",
-          "url": "https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN"
-        },
-        {
-          "name": "Kleine John",
-          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
-        }
-      ],
-      "duration_ms": 152615,
-      "name": "Hit me up (feat. Chavant\u00e9 & Kleine John)",
-      "url": "https://open.spotify.com/track/4IunKjJY3tOuERmzYufNcL"
     },
     {
       "added_at": "2026-02-19 23:00:43",
@@ -827,26 +827,6 @@
     {
       "added_at": "2026-02-19 23:00:43",
       "album": {
-        "name": "LOCO",
-        "url": "https://open.spotify.com/album/5ym9a0EgZNubqWMQXI9cha"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "Lossa",
-          "url": "https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE"
-        }
-      ],
-      "duration_ms": 161311,
-      "name": "LOCO",
-      "url": "https://open.spotify.com/track/6MsXDsDuTgFsq9QhpmtAU6"
-    },
-    {
-      "added_at": "2026-02-19 23:00:43",
-      "album": {
         "name": "February Stories",
         "url": "https://open.spotify.com/album/3hkRbcvcmfrj1fWrBe2oY3"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 143346,
       "name": "February Stories",
       "url": "https://open.spotify.com/track/5RpEwmsV97REIDvj3rVPJ9"
+    },
+    {
+      "added_at": "2026-02-19 23:00:43",
+      "album": {
+        "name": "LOCO",
+        "url": "https://open.spotify.com/album/5ym9a0EgZNubqWMQXI9cha"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Lossa",
+          "url": "https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE"
+        }
+      ],
+      "duration_ms": 161311,
+      "name": "LOCO",
+      "url": "https://open.spotify.com/track/6MsXDsDuTgFsq9QhpmtAU6"
     },
     {
       "added_at": "2026-02-19 23:00:43",
@@ -923,26 +923,6 @@
     {
       "added_at": "2026-02-19 23:00:43",
       "album": {
-        "name": "Hyp\u00e9 (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 157402,
-      "name": "Hyp\u00e9 (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
-    },
-    {
-      "added_at": "2026-02-19 23:00:43",
-      "album": {
         "name": "GIOVANNI II",
         "url": "https://open.spotify.com/album/54TRy2dAPI0J6Og5seK2MA"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 190387,
       "name": "TE LAAT (feat. Zo\u00eb Tauran)",
       "url": "https://open.spotify.com/track/6OVv8zhgdtLhghoX3Jd96H"
+    },
+    {
+      "added_at": "2026-02-19 23:00:43",
+      "album": {
+        "name": "Hyp\u00e9 (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 157402,
+      "name": "Hyp\u00e9 (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
     },
     {
       "added_at": "2026-02-19 23:00:43",
